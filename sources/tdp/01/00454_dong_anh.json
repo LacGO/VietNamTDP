@@ -1,0 +1,184 @@
+{
+  "ward_code": "00454",
+  "ward_name": "Đông Anh",
+  "province_code": "01",
+  "resolution": "",
+  "arrangement": "2026_07",
+  "effective_date": "2026-07-01",
+  "verified": "unverified",
+  "extraction": {
+    "source": "vi.wikipedia.org",
+    "title": "(cache)",
+    "mode": "table"
+  },
+  "sources": [
+    {
+      "key": "wiki-00454-1",
+      "title": "Xã Đông Anh công khai dự thảo Đề án sắp xếp thôn, tổ dân phố và tổ chức lấy ý kiến Cử tri đại diện hộ gia đình trên địa bàn",
+      "url": "https://donganh.hanoi.gov.vn/chi-dao-cua-dia-phuong/xa-dong-anh-cong-khai-du-thao-de-an-sap-xep-thonto-dan-pho-va-to-chuc-lay-y-kien-cu-tri-dai-dien-ho-gia-dinh-tren-dia-ban-2834260617182703871.htm",
+      "date": "2026-06-18",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-00454-2",
+      "title": "Danh sách trích ngang ứng cử viên đại biểu Hội đồng nhân dân xã Đông Anh",
+      "url": "https://donganh.hanoi.gov.vn/bau-cu/danh-sach-trich-ngang-ung-cu-vien-dai-bieu-hdnd-xa-dong-anh-2834260303163201247.htm",
+      "date": "2026-03-03",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-00454-3",
+      "title": "Nghị quyết số 111/2025/UBTVQH15 ngày 24 tháng 12 năm 2025 của Ủy ban Thường vụ Quốc hội về phân loại đô thị",
+      "url": "https://cdn.nhandan.vn/files/f4a4abf7f9a0ba4a91744616546d850872b76917f90d5a74cc9eebef1369fb6f/111.pdf",
+      "date": "2026-07-12",
+      "type": "wikipedia-ref"
+    }
+  ],
+  "note": "Trích tự động từ Wikipedia tiếng Việt (mode=table). Cần đối chiếu nghị quyết HĐND phường/xã.",
+  "tdp": [
+    {
+      "name": "Cầu Cả",
+      "type": "thôn"
+    },
+    {
+      "name": "Cổ Loa",
+      "type": "thôn"
+    },
+    {
+      "name": "Cổ Vân",
+      "type": "thôn"
+    },
+    {
+      "name": "Cường Nỗ",
+      "type": "thôn"
+    },
+    {
+      "name": "Dục Nội",
+      "type": "thôn"
+    },
+    {
+      "name": "Dục Tú",
+      "type": "thôn"
+    },
+    {
+      "name": "Đa Vang",
+      "type": "thôn"
+    },
+    {
+      "name": "Đản Mỗ",
+      "type": "thôn"
+    },
+    {
+      "name": "Đông Anh",
+      "type": "thôn"
+    },
+    {
+      "name": "Đông Hội",
+      "type": "thôn"
+    },
+    {
+      "name": "Đông Ngàn",
+      "type": "thôn"
+    },
+    {
+      "name": "Đông Trù",
+      "type": "thôn"
+    },
+    {
+      "name": "Đồng Dầu",
+      "type": "thôn"
+    },
+    {
+      "name": "Gia Lương",
+      "type": "thôn"
+    },
+    {
+      "name": "Hồng Lạc",
+      "type": "thôn"
+    },
+    {
+      "name": "Hội Phụ",
+      "type": "thôn"
+    },
+    {
+      "name": "Hùng Sơn",
+      "type": "thôn"
+    },
+    {
+      "name": "Lại Đà",
+      "type": "thôn"
+    },
+    {
+      "name": "Lộc Hà",
+      "type": "thôn"
+    },
+    {
+      "name": "Lực Canh",
+      "type": "thôn"
+    },
+    {
+      "name": "Lý Nhân",
+      "type": "thôn"
+    },
+    {
+      "name": "Mai Hiên",
+      "type": "thôn"
+    },
+    {
+      "name": "Mai Lâm",
+      "type": "thôn"
+    },
+    {
+      "name": "Mạch Tràng",
+      "type": "thôn"
+    },
+    {
+      "name": "Oai Nỗ",
+      "type": "thôn"
+    },
+    {
+      "name": "Phúc Hậu",
+      "type": "thôn"
+    },
+    {
+      "name": "Thái Bình",
+      "type": "thôn"
+    },
+    {
+      "name": "Thục Vương",
+      "type": "thôn"
+    },
+    {
+      "name": "Thượng Lộc",
+      "type": "thôn"
+    },
+    {
+      "name": "Thượng Oai",
+      "type": "thôn"
+    },
+    {
+      "name": "Thượng Thư",
+      "type": "thôn"
+    },
+    {
+      "name": "Uy Nỗ",
+      "type": "thôn"
+    },
+    {
+      "name": "Uy Sơn",
+      "type": "thôn"
+    },
+    {
+      "name": "Việt Hùng",
+      "type": "thôn"
+    },
+    {
+      "name": "Xuân Canh",
+      "type": "thôn"
+    },
+    {
+      "name": "Xuân Trạch",
+      "type": "thôn"
+    }
+  ]
+}

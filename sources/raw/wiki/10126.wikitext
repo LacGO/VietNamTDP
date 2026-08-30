@@ -1,0 +1,168 @@
+{{Thông tin đơn vị hành chính Việt Nam|Xã|tên=Bình Minh|hình=Cổng làng Khúc Thủy.JPG|ghi chú hình=Cổng làng Khúc Thủy|vùng=[[Đồng bằng sông Hồng]]|thành phố=[[Hà Nội]]|trụ sở Đảng ủy=Số 286, thôn Thanh Cao|trụ sở UBND=Số 1 đường Bích Hòa – Cao Viên, thôn Thạch Bích 1<ref>{{Chú thích web |url=https://storage-vnportal.vnpt.vn/gov-hni/6244/VanBan/2025/6/25/TB-729-2025.pdf |title=Thông báo số 729/TB-UBND ngày 25 tháng 6 năm 2025 của Ủy ban nhân dân thành phố Hà Nội về địa điểm trụ sở làm việc của 126 phường, xã sau sắp xếp thuộc phạm vi quản lý của thành phố Hà Nội|access-date=2026-06-15 |archive-date=2026-06-15 |archive-url=https://web.archive.org/web/20260615034519/https://storage-vnportal.vnpt.vn/gov-hni/6244/VanBan/2025/6/25/TB-729-2025.pdf |url-status=dead | website = Cổng Thông tin điện tử Ủy ban nhân dân thành phố Hà Nội}}</ref>|vĩ độ=20.911691693358534|kinh độ=105.7611725466729|bản đồ 1={{maplink|frame=yes|plain=yes|type=shape|frame-width=280|frame-align=center|stroke-width=3}}|diện tích=29,86 km²|thời điểm dân số=2025|dân số=80.066 người|mật độ dân số={{formatnum:{{#expr:floor({{formatnum:80.066| R}}/{{formatnum:29,86| R}})}} }} người/km²|mã hành chính=10126<ref>{{Chú thích web |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/19ttg.signed.pdf |title=Quyết định số 19/2025/QĐ-TTg ngày 30 tháng 6 năm 2025 của Thủ tướng Chính phủ về việc Ban hành Bảng danh mục và mã số các đơn vị hành chính Việt Nam |access-date=2026-06-15 |archive-date=2026-06-15 |archive-url=https://web.archive.org/web/20260615034519/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/19ttg.signed.pdf |url-status=dead | website = Cổng Thông tin điện tử Chính phủ}}</ref>|web={{url|binhminh.hanoi.gov.vn}}}}{{other|Bình Minh (định hướng)}}
+'''Bình Minh''' là một [[Xã (Việt Nam)|xã]] thuộc thành phố [[Hà Nội]], [[Việt Nam]].
+
+== Địa lý ==
+Xã Bình Minh có vị trí địa lý:
+
+* Phía đông giáp xã [[Đại Thanh (xã)|Đại Thanh]] và xã [[Tam Hưng]]
+* Phía tây giáp phường [[Chương Mỹ (phường)|Chương Mỹ]] và xã [[Quảng Bị]] với ranh giới tự nhiên là [[sông Đáy]]
+* Phía nam giáp xã [[Thanh Oai (xã)|Thanh Oai]]
+* Phía bắc giáp phường [[Yên Nghĩa]] và phường [[Phú Lương (phường)|Phú Lương]].<ref>{{Chú thích web |last=Viện nghiên cứu Phát triển kinh tế – xã hội Hà Nội|date=2025-07-02|title=Xã Bình Minh: Những thông tin chi tiết sau sắp xếp|url=https://hanoionline.vn/xa-binh-minh-nhung-thong-tin-chi-tiet-sau-sap-xep-343964.htm|url-status=dead|archive-url=https://web.archive.org/web/20260804400809/https://hanoionline.vn/xa-binh-minh-nhung-thong-tin-chi-tiet-sau-sap-xep-343964.htm|archive-date=2026-08-04|access-date=2026-08-04|website=Cơ quan Báo và Phát thanh Truyền hình Hà Nội}}</ref><ref>{{Chú thích web |last=Cơ quan Báo và Phát thanh Truyền hình Hà Nội|date=2025-07-08|title=Xã Bình Minh: Tất cả thông tin chỉ dẫn bạn cần biết|url=https://hanoionline.vn/xa-binh-minh-tat-ca-thong-tin-chi-dan-ban-can-biet-345413.htm|url-status=dead|archive-url=https://web.archive.org/web/20260804401509/https://hanoionline.vn/xa-binh-minh-tat-ca-thong-tin-chi-dan-ban-can-biet-345413.htm|archive-date=2026-08-04|access-date=2026-08-04}}</ref>
+Xã Bình Minh có diện tích tự nhiên là 29,86&nbsp;km<sup>2</sup>, quy mô dân số năm 2025 là 80.066 người và mật độ dân số đạt 2.681 người/km<sup>2</sup>.<ref>{{Chú thích web |last=Mai Hữu|date=2026-04-05|title=Hà Nội: Chi tiết phương án tổng thể sắp xếp đơn vị hành chính cấp xã|url=https://hanoimoi.vn/ha-noi-chi-tiet-phuong-an-tong-the-sap-xep-don-vi-hanh-chinh-cap-xa-700278.html|url-status=live|archive-url=https://web.archive.org/web/20260711401509/https://hanoimoi.vn/ha-noi-chi-tiet-phuong-an-tong-the-sap-xep-don-vi-hanh-chinh-cap-xa-700278.html|archive-date=2026-07-11|access-date=2026-07-11|website=Cơ quan Báo và Phát thanh, truyền hình Hà Nội}}</ref><ref>Công văn số 2896/BNV-CQĐP ngày 27 tháng 5 năm 2025 của Bộ Nội vụ về việc cung cấp thông tin danh mục dự kiến đơn vị hành chính cấp xã mới.</ref>
+
+Xã Bình Minh có làng [[Bình Đà]] từng là một làng nghề truyền thống nổi tiếng là sản xuất [[pháo (lễ hội)|pháo nổ]] và [[pháo hoa]]. Rìa phía Tây của xã Bình Minh có đường [[quốc lộ 21B]], theo hướng Bắc – Nam, từ xã Bích Hòa chạy qua sang xã Thanh Mai. Đường 71 từ Bình Minh qua Tam Hưng tới [[Thường Tín (xã)|thị trấn Thường Tín]].
+
+== Lịch sử ==
+
+=== Trước năm 1976 ===
+Vùng đất xã Bình Minh tới đầu thế kỷ 19, là các làng xã thuộc tổng Bảo Đà huyện Thanh Oai phủ Ứng Thiên [[sơn Nam (địa danh cũ Việt Nam)|trấn Sơn Nam Thượng]]. Tổng Bảo Đà đầu thế kỷ 17 gồm các làng xã: Bảo Đà (Bình Đà), Thạch Tuyền, Sinh Quả, Tê Quả, Suối Bi.<ref>cuốn ''Tên các làng xã Việt Nam đầu thế kỷ 19'', trang 50</ref>
+
+Năm [[1831]] niên hiệu [[Minh Mạng]] thứ 12 [[nhà Nguyễn]], tổng Bình Đà cùng với toàn bộ huyện Thanh Oai phủ Ứng Hoà được chia về [[hà Nội (tỉnh)|tỉnh Hà Nội]] nhà Nguyễn.
+
+=== Giai đoạn 1976 – nay ===
+Sau ngày 2 tháng 7 năm 1976, 6 xã: Bích Hòa, Bình Minh, Cao Viên, Cự Khê, Phú Lương và Thanh Cao thuộc huyện [[Thanh Oai (huyện)|Thanh Oai]]; xã Lam Điền thuộc huyện [[Chương Mỹ (huyện)|Chương Mỹ]] của tỉnh [[Hà Sơn Bình]].
+
+Ngày 12 tháng 8 năm 1991, chia tỉnh [[Hà Sơn Bình]] thành 2 tỉnh, lấy tên là tỉnh [[Hòa Bình (tỉnh)|Hòa Bình]] và tỉnh [[Hà Tây (tỉnh)|Hà Tây]]. Khi đó, 6 xã: Bích Hòa, Bình Minh, Cao Viên, Cự Khê, Phú Lương và Thanh Cao thuộc huyện [[Thanh Oai (huyện)|Thanh Oai]]; xã Lam Điền thuộc huyện [[Chương Mỹ (huyện)|Chương Mỹ]] của tỉnh [[Hà Tây (tỉnh)|Hà Tây]].<ref>Nghị quyết ngày 12 tháng 8 năm 1991 của Quốc hội khóa VIII, Kỳ họp thứ 9 về việc điều chỉnh địa giới hành chính một số tỉnh, thành phố trực thuộc Trung ương.</ref>
+
+Ngày 23 tháng 9 năm 2003, chuyển xã Phú Lương của huyện [[Thanh Oai (huyện)|Thanh Oai]] về thị xã [[Hà Đông (quận)|Hà Đông]] quản lý.<ref>{{Chú thích web |title=Nghị định số 107/2003/NĐ-CP ngày 23 tháng 9 năm 2003 của Chính phủ về việc điều chỉnh địa giới hành chính mở rộng thị xã Hà Đông, thành lập phường thuộc thị xã Hà Đông và mở rộng thị trấn Vân Đình huyện Ứng Hòa, tỉnh Hà Tây|url=https://chinhphu.vn/default.aspx?pageid=27160&docid=12234|url-status=dead|archive-url=https://web.archive.org/web/20260809201510/https://chinhphu.vn/default.aspx?pageid=27160&docid=12234|archive-date=2026-08-09|access-date=2026-08-09|website=Cổng Thông tin điện tử Chính phủ}}</ref>
+
+Ngày 27 tháng 12 năm 2006, thành lập thành phố [[Hà Đông (quận)|Hà Đông]] trên cơ sở toàn bộ diện tích tự nhiên, dân số và các đơn vị hành chính trực thuộc của thị xã [[Hà Đông (quận)|Hà Đông]]. Khi đó, xã Phú Lương thuộc thành phố [[Hà Đông (quận)|Hà Đông]].<ref name="ND1552">{{Chú thích web |tựa đề=Nghị định số 155/2006/NĐ-CP ngày 27 tháng 12 năm 2006 của Chính phủ về việc thành lập thành phố Hà Đông thuộc tỉnh Hà Tây|url=https://chinhphu.vn/default.aspx?pageid=27160&docid=18995|url-status=dead|archive-url=https://web.archive.org/web/20260804201510/https://chinhphu.vn/default.aspx?pageid=27160&docid=18995|archive-date=2026-08-04|access-date=2026-08-04|website=Cổng Thông tin điện tử Chính phủ}}</ref>
+
+Ngày 29 tháng 5 năm 2008, hợp nhất tỉnh [[Hà Tây (tỉnh)|Hà Tây]] vào thành phố [[Hà Nội]]. Khi đó, 5 xã: Bích Hòa, Bình Minh, Cao Viên, Cự Khê và Thanh Cao thuộc huyện [[Thanh Oai (huyện)|Thanh Oai]]; xã Phú Lương thuộc thành phố [[Hà Đông (quận)|Hà Đông]]; xã Lam Điền thuộc huyện [[Chương Mỹ (huyện)|Chương Mỹ]] của thành phố [[Hà Nội]].<ref>Nghị quyết số 15/2008/QH12 ngày 29 tháng 5 năm 2008 của Quốc hội khóa XII, Kỳ họp thứ 3 về việc điều chỉnh địa giới hành chính thành phố Hà Nội và một số tỉnh có liên quan.</ref>
+
+Ngày 8 tháng 5 năm 2009:
+
+* Thành lập quận [[Hà Đông (quận)|Hà Đông]] trên cơ sở thành phố [[Hà Đông (quận)|Hà Đông]].
+* Thành lập phường Phú Lương trên cơ sở xã Phú Lương.<ref name="19/NQ-CP">{{Chú thích web |url=https://chinhphu.vn/default.aspx?pageid=27160&docid=86463|tựa đề=Nghị quyết số 19/NQ-CP ngày 8 tháng 5 năm 2009 của Chính phủ về việc xác lập địa giới hành chính xã Đông Xuân thuộc huyện Quốc Oai; các xã Tiến Xuân, Yên Bình, Yên Trung thuộc huyện Thạch Thất; huyện Mê Linh thuộc thành phố Hà Nội; thành lập quận Hà Đông và các phường trực thuộc; chuyển thành phố Sơn Tây thành thị xã Sơn Tây thuộc thành phố Hà Nội|tác giả=|họ=|tên=|ngày=|website=Cổng Thông tin điện tử Chính phủ|url lưu trữ=https://web.archive.org/web/20260809201510/https://chinhphu.vn/default.aspx?pageid=27160&docid=86463|ngày lưu trữ=2026-08-09|ngày truy cập=2026-08-09|url-status=dead}}</ref>
+
+Ngày 16 tháng 6 năm 2025:
+
+* Kết thúc hoạt động của đơn vị hành chính cấp huyện trong cả nước.<ref>{{Chú thích web |last= |date= |title=Nghị quyết số 203/2025/QH15 ngày 16 tháng 6 năm 2025 của Quốc hội khóa XV, Kỳ họp thứ 9 về việc sửa đổi, bổ sung một số điều của Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/nq-sua-doi-hien-phap.pdf |url-status=live |archive-url=https://web.archive.org/web/20260613090807/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/nq-sua-doi-hien-phap.pdf |archive-date=2026-06-13 |access-date=2026-06-13 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+* Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của các xã Bích Hòa, Bình Minh, Cao Viên, Thanh Cao (huyện [[Thanh Oai (huyện)|Thanh Oai]]), một phần diện tích tự nhiên, quy mô dân số của xã Lam Điền (huyện [[Chương Mỹ (huyện)|Chương Mỹ]]), phần còn lại của xã Cự Khê (huyện [[Thanh Oai (huyện)|Thanh Oai]]) và phần còn lại của phường Phú Lương (quận [[Hà Đông (quận)|Hà Đông]]) thành xã mới có tên gọi là xã Bình Minh.<ref>{{Chú thích web |title=Nghị quyết số 1656/NQ-UBTVQH15 ngày 16 tháng 6 năm 2025 của Ủy ban Thường vụ Quốc hội về việc sắp xếp các đơn vị hành chính cấp xã của thành phố Hà Nội năm 2025 |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf |url-status=live |archive-url=https://web.archive.org/web/20260630400809/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf |archive-date=2026-06-30 |access-date=2026-06-30 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+* Sau khi sắp xếp, xã Bình Minh được chia thành 46 tổ dân phố – thôn, gồm 9 tổ dân phố và 37 thôn.<ref>6 thôn: Giữa, Kỳ Thủy, Mùi, Thanh Lương, Thượng và Trên của xã Bích Hòa cũ; 10 thôn: Chằm, Chợ, Chua, Dộc, Đìa, Minh Kha, Quyếch, Sinh Liên, Sinh Quả và Thượng của xã Bình Minh cũ; 8 thôn: Bãi 1, 2, Đàn Viên 1, 2, Đống, Phù Lạc, Trung và Vĩ của xã Cao Viên cũ; 7 thôn: Cao Mật Hạ, Cao Mật Thượng, Ninh Dương, Thanh Giang, Thanh Thần, Thượng Thanh 1 và 2 của xã Thanh Cao cũ; 15 tổ dân phố – thôn, gồm 9 tổ dân phố, đánh số từ 1 đến 9 và 6 thôn: Cầu, Cự Đà, Hạ, Khúc Thủy, Mỹ, Thượng của xã Cự Khê cũ.</ref><ref>{{Chú thích web |title=Thông tư số 10/2022/TT-BTNMT ngày 29 tháng 9 năm 2022 của Bộ Tài nguyên và Môi trường về việc Ban hành Danh mục địa danh dân cư, sơn văn, thủy văn, kinh tế – xã hội phục vụ công tác thành lập bản đồ thành phố Hà Nội |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2022/10/10-btnmt.pdf |url-status=live |archive-url=https://web.archive.org/web/20260630400809/https://datafiles.chinhphu.vn/cpp/files/vbpq/2022/10/10-btnmt.pdf |archive-date=2026-06-30 |access-date=2026-06-30 |website=Cổng Thông tin điện tử Chính phủ}}</ref><ref>{{Chú thích web |last=Bình Minh Tin Tức – thành phố Hà Nội |date=2026-01-12 |title=Ủy ban bầu cử xã thông báo số đơn vị bầu cử và số lượng đại biểu được bầu ở mỗi đơn vị bầu cử Hội đồng nhân dân xã Bình Minh nhiệm kỳ 2026 – 2031 |url=https://www.facebook.com/permalink.php?story_fbid=pfbid0Mjzwf8dGonYoV4rnrddaZWuLyjdU8BLbQgPJKRd55sYGyBj1Zp3MTRDkgpGFX9RHl&id=100063555887271&rdid=bDzHSwExZaPSQ7NR# |url-status=dead |archive-url=https://web.archive.org/web/20260806201510/https://www.facebook.com/permalink.php?story_fbid=pfbid0Mjzwf8dGonYoV4rnrddaZWuLyjdU8BLbQgPJKRd55sYGyBj1Zp3MTRDkgpGFX9RHl&id=100063555887271&rdid=bDzHSwExZaPSQ7NR# |archive-date=2026-08-06 |access-date=2026-08-06 |website=}}</ref>
+Ngày 29 tháng 10 năm 2025, đổi tên 2 thôn: Thượng (xã Bích Hòa cũ) và Thượng (xã Cự Khê cũ) lần lượt thành 2 thôn: Thượng 1 và 2.<ref>1. Thôn Thượng (xã Bình Minh cũ) giữ nguyên tên gọi là thôn Thượng; 2. Thôn Thượng (xã Bích Hòa cũ) được đổi tên thành thôn Thượng 1; 3. Thôn Thượng (xã Cự Khê cũ) được đổi tên thành thôn Thượng 2.</ref><ref>{{Chú thích web |last=An Tường |date=2025-09-16 |title=Ủy ban nhân dân xã tổ chức hội nghị thông qua kế hoạch, lấy ý kiến nhân dân về việc đổi tên thôn Thượng sau khi thực hiện sắp xếp đơn vị hành chính xã Bình Minh |url=https://binhminh.hanoi.gov.vn/tin-tuc-su-kien/ubnd-xa-to-chuc-hoi-nghi-thong-qua-ke-hoach-lay-y-kien-nhan-dan-ve-viec-doi-ten-thon-thuong-sau-khi-thuc-hien-sap-xep-don-vi-hanh-chinh-xa-binh-minh-2761250917100118457.htm?gidzl=yePY5Z_7WXBscMOGDT-35FQTOnWZteSTu9jbJItTWq7XdcGLUDw0HU3DPX5vtDKSjPqq433xSDKrEiQ640 |url-status=dead |archive-url=https://web.archive.org/web/20260806201510/https://binhminh.hanoi.gov.vn/tin-tuc-su-kien/ubnd-xa-to-chuc-hoi-nghi-thong-qua-ke-hoach-lay-y-kien-nhan-dan-ve-viec-doi-ten-thon-thuong-sau-khi-thuc-hien-sap-xep-don-vi-hanh-chinh-xa-binh-minh-2761250917100118457.htm?gidzl=yePY5Z_7WXBscMOGDT-35FQTOnWZteSTu9jbJItTWq7XdcGLUDw0HU3DPX5vtDKSjPqq433xSDKrEiQ640 |archive-date=2026-08-06 |access-date=2026-08-06 |website=Trang Thông tin điện tử xã Bình Minh – thành phố Hà Nội}}</ref><ref>{{Chú thích web |last=Bình Minh Tin Tức – thành phố Hà Nội |date=2026-10-29 |title=Hội đồng nhân dân xã Bình Minh tổ chức kỳ họp thứ ba (Kỳ họp chuyên đề) |url=https://web.facebook.com/story.php?story_fbid=1453270246801491&id=100063555887271&rdid=SJcSjUsz4vNk9bHb&_rdc=10&_rdr# |url-status=dead |archive-url=https://web.archive.org/web/20260806201510/https://web.facebook.com/story.php?story_fbid=1453270246801491&id=100063555887271&rdid=SJcSjUsz4vNk9bHb&_rdc=10&_rdr# |archive-date=2026-08-06 |access-date=2026-08-06}}</ref>
+
+Ngày 24 tháng 12 năm 2025, xác định một phần của xã Bình Minh là [[Đô thị Việt Nam|đô thị loại II]].<ref>Chuyển tiếp từ phường Phú Lương thuộc quận Hà Đông.</ref><ref>{{Chú thích web |url=https://cdn.nhandan.vn/files/f4a4abf7f9a0ba4a91744616546d850872b76917f90d5a74cc9eebef1369fb6f/111.pdf|website=Báo Nhân dân|url-status=dead|title=Nghị quyết số 111/2025/UBTVQH15 ngày 24 tháng 12 năm 2025 của Ủy ban Thường vụ Quốc hội về phân loại đô thị|archive-url=https://web.archive.org/web/20260712401509/https://cdn.nhandan.vn/files/f4a4abf7f9a0ba4a91744616546d850872b76917f90d5a74cc9eebef1369fb6f/111.pdf|archive-date=2026-07-12|access-date=2026-07-12}}</ref>
+
+Ngày 24 tháng 6 năm 2026, thành lập 14 thôn mới: Thạch Bích 1, 2, Thanh Kỳ, Cao Viên, Cao Bộ, Đàn Viên, Bãi, Thanh Cao, Thượng Thanh, Bình Đà 1, Minh Sinh, Bình Đà 2, Khê Tang, Cự Đà – Khúc Thủy và 3 tổ dân phố mới: Thanh Hà từ 1 đến 3.<ref>1. Sáp nhập toàn bộ diện tích tự nhiên, quy mô dân số của thôn Mùi với thôn Giữa để thành lập thôn mới có tên gọi là thôn Thạch Bích 1; 2. Sáp nhập toàn bộ diện tích tự nhiên, quy mô dân số của thôn Trên với thôn Thượng 1 để thành lập thôn mới có tên gọi là thôn Thạch Bích 2; 3. Sáp nhập toàn bộ diện tích tự nhiên, quy mô dân số của thôn Kỳ Thủy với thôn Thanh Lương để thành lập thôn mới có tên gọi là thôn Thanh Kỳ; 4. Sáp nhập toàn bộ diện tích tự nhiên, quy mô dân số của thôn Trung với thôn Phù Lạc để thành lập thôn mới có tên gọi là thôn Cao Viên; 5. Sáp nhập toàn bộ diện tích tự nhiên, quy mô dân số của thôn Đống với thôn Vĩ để thành lập thôn mới có tên gọi là thôn Cao Bộ; 6. Sáp nhập toàn bộ diện tích tự nhiên, quy mô dân số của thôn Đàn Viên 1 với thôn Đàn Viên 2 để thành lập thôn mới có tên gọi là thôn Đàn Viên; 7. Sáp nhập toàn bộ diện tích tự nhiên, quy mô dân số của thôn Bãi 1 với thôn Bãi 2 để thành lập thôn mới có tên gọi là thôn Bãi; 8. Sáp nhập toàn bộ diện tích tự nhiên, quy mô dân số của các thôn Cao Mật Thượng với thôn Cao Mật Hạ, thôn Thanh Giang, thôn Thanh Thần để thành lập thôn mới có tên gọi là thôn Thanh Cao; 9. Sáp nhập toàn bộ diện tích tự nhiên, quy mô dân số của thôn Ninh Dương với thôn Thượng Thanh 1, Thượng Thanh 2 để thành lập thôn mới có tên gọi là thôn Thượng Thanh; 10. Sáp nhập toàn bộ diện tích tự nhiên, quy mô dân số của các thôn Chằm với thôn Thượng, thôn Chợ để thành lập thôn mới có tên gọi là thôn Bình Đà 1; 11. Sáp nhập toàn bộ diện tích tự nhiên, quy mô dân số của các thôn Sinh Liên với thôn Sinh Quả, thôn Minh Kha để thành lập thôn mới có tên gọi là thôn Minh Sinh; 12. Sáp nhập toàn bộ diện tích tự nhiên, quy mô dân số của các thôn Chua với thôn Quyếch, thôn Đìa, thôn Dộc để thành lập thôn mới có tên gọi là thôn Bình Đà 2; 13. Sáp nhập toàn bộ diện tích tự nhiên, quy mô dân số của các thôn Thượng 2 với thôn Mỹ, thôn Hạ, thôn Cầu để thành lập thôn mới có tên gọi là thôn Khê Tang; 14. Sáp nhập toàn bộ diện tích tự nhiên, quy mô dân số của các thôn Khúc Thủy với thôn Cự Đà để thành lập thôn mới có tên gọi là thôn Cự Đà – Khúc Thủy; 15. Sáp nhập toàn bộ diện tích tự nhiên, quy mô dân số của tổ dân phố số 01 với tổ dân phố số 04 để thành lập tổ dân phố mới có tên gọi là tổ dân phố Thanh Hà 1; 16. Sáp nhập toàn bộ diện tích tự nhiên, quy mô dân số của tổ dân phố số 02 với tổ dân phố số 03 để thành lập tổ dân phố mới có tên gọi là tổ dân phố Thanh Hà 2; 17. Sáp nhập toàn bộ diện tích tự nhiên, quy mô dân số của tổ dân phố số 05 với tổ dân phố số 06, tổ dân phố số 07, tổ dân phố số 08, tổ dân phố số 09 để thành lập tổ dân phố mới có tên gọi là tổ dân phố Thanh Hà 3.</ref><ref name=":0">{{Chú thích web |last=Bình Minh Tin Tức – thành phố Hà Nội |date=2026-06-20 |title=Phương án sắp xếp thôn tại khu vực Bích Hòa cũ |url=https://web.facebook.com/share/p/1HuqK6kpU4/ |url-status=dead |archive-url=https://web.archive.org/web/20260808201510/https://web.facebook.com/share/p/1HuqK6kpU4/https://web.facebook.com/share/p/1HuqK6kpU4/ |archive-date=2026-08-08 |access-date=2026-08-08}}</ref><ref name=":1">{{Chú thích web |last=Bình Minh Tin Tức – thành phố Hà Nội |date=2026-06-20 |title=Phương án sắp xếp thôn tại khu vực Cao Viên cũ |url=https://web.facebook.com/share/p/1Bit7FcLMm/ |url-status=dead |archive-url=https://web.archive.org/web/20260806201510/https://web.facebook.com/share/p/1Bit7FcLMm/ |archive-date=2026-08-06 |access-date=2026-08-06}}</ref><ref name=":2">{{Chú thích web |last=Bình Minh Tin Tức – thành phố Hà Nội |date=2026-06-20 |title=Phương án sắp xếp thôn tại khu vực Thanh Cao cũ |url=https://web.facebook.com/share/p/1EJDTcUGiF/ |url-status=dead |archive-url=https://web.archive.org/web/20260806201510/https://web.facebook.com/share/p/1EJDTcUGiF/ |archive-date=2026-08-06 |access-date=2026-08-06}}</ref><ref name=":3">{{Chú thích web |last=Bình Minh Tin Tức – thành phố Hà Nội |date=2026-06-20 |title=Phương án sắp xếp thôn tại khu vực Bình Minh cũ |url=https://web.facebook.com/share/p/1MQrCAzRF3/ |url-status=dead |archive-url=https://web.archive.org/web/20260806201510/https://web.facebook.com/share/p/1MQrCAzRF3/ |archive-date=2026-08-06 |access-date=2026-08-06}}</ref><ref name=":4">{{Chú thích web |last=Bình Minh Tin Tức – thành phố Hà Nội |date=2026-06-20 |title=Phương án sắp xếp thôn, tổ dân phố tại khu vực Cự Khê cũ |url=https://web.facebook.com/share/p/1ETXE7uRnE/ |url-status=dead |archive-url=https://web.archive.org/web/20260806201510/https://web.facebook.com/share/p/1ETXE7uRnE/ |archive-date=2026-08-06 |access-date=2026-08-06}}</ref><ref name=":5">{{Chú thích web |last=Nguyễn Liễu |date=2026-07-01 |title=Xã Bình Minh: Chính thức đưa các thôn, tổ dân phố mới vào hoạt động từ ngày 01/7/2026 |url=https://binhminh.hanoi.gov.vn/tin-tuc-su-kien/xa-binh-minh-chinh-thuc-dua-cac-thon-to-dan-pho-moi-vao-hoat-dong-tu-ngay-01-7-2026-2761260701145944621.htm?gidzl=O6UhBxCa2Z1aUAyfkJy2C6vrhYQbOGexSoVuTADdN6zq9wfqe6qCR7mfeIIkRG5fSocj8cNbSfGkjYKECW |url-status=dead |archive-url=https://web.archive.org/web/20260806201510/https://binhminh.hanoi.gov.vn/tin-tuc-su-kien/xa-binh-minh-chinh-thuc-dua-cac-thon-to-dan-pho-moi-vao-hoat-dong-tu-ngay-01-7-2026-2761260701145944621.htm?gidzl=O6UhBxCa2Z1aUAyfkJy2C6vrhYQbOGexSoVuTADdN6zq9wfqe6qCR7mfeIIkRG5fSocj8cNbSfGkjYKECW |archive-date=2026-08-06 |access-date=2026-08-06 |website=Trang Thông tin điện tử xã Bình Minh – thành phố Hà Nội}}</ref>
+[[Tập tin:Bản đồ các thôn thuộc xã Bình Minh của thành phố Hà Nội.png|nhỏ|250x250px|Phương án sắp xếp, tổ chức lại thôn, tổ dân phố xã Bình Minh của thành phố Hà Nội (từ ngày 1 tháng 7 năm 2026)<ref name=":5" />]]
+
+== Hành chính ==
+Xã Bình Minh được chia thành 17 tổ dân phố – thôn, gồm 3 tổ dân phố: Thanh Hà từ 1 đến 3 và 14 thôn: Bãi, Bình Đà 1, 2, Cao Bộ, Cao Viên, Cự Đà – Khúc Thủy, Đàn Viên, Khê Tang, Minh Sinh, Thanh Cao, Thanh Kỳ, Thạch Bích 1, 2 và Thượng Thanh.<ref name=":0" /><ref name=":1" /><ref name=":2" /><ref name=":3" /><ref name=":4" /><ref name=":5" />
+{| class="wikitable sortable" align="center" width="100%" cellspacing="6" cellpadding="0" style="background: #f9f9f9; border: 1px #aaa solid; margin-top: 16px"
+! colspan="4" style="background: #E6E6FA; font-size: 95%;" |Danh sách các tổ dân phố – thôn thuộc xã Bình Minh<ref name=":0" /><ref name=":1" /><ref name=":2" /><ref name=":3" /><ref name=":4" /><ref name=":5" />
+|-
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| colspan="4" align="left" style="background: #F5F5DC; padding-left: 30px;" |'''Tổ dân phố (3)'''
+|-
+| align="left" |Thanh Hà 1
+|836
+|-
+| align="left" |Thanh Hà 2
+|853
+|-
+| align="left" |Thanh Hà 3
+|2.175
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| colspan="4" align="left" style="background: #F5F5DC; padding-left: 30px;" |'''Thôn (14)'''
+|-
+| align="left" |Bãi
+|1.599
+|-
+| align="left" |Bình Đà 1
+|1.459
+|-
+| align="left" |Bình Đà 2
+|1.820
+|-
+| align="left" |Cao Bộ
+|1.726
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Cao Viên
+|1.197
+|-
+| align="left" |Cự Đà – Khúc Thủy
+|1.036
+|-
+| align="left" |Đàn Viên
+|1.338
+|-
+| align="left" |Khê Tang
+|1.576
+|-
+| align="left" |Minh Sinh
+|1.120
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Thanh Cao
+|1.714
+|-
+| align="left" |Thanh Kỳ
+|961
+|-
+| align="left" |Thạch Bích 1
+|1.128
+|-
+| align="left" |Thạch Bích 2
+|1.247
+|-
+| align="left" |Thượng Thanh
+|1.733
+|}
+|}
+== Xã hội ==
+
+=== Văn hóa ===
+[[Lễ hội Bình Đà]] đã được công nhận là di sản văn hóa phi vật thể quốc gia.
+
+Bức phù điêu Quốc tổ [[Lạc Long Quân]] đã được công nhận là bảo vật quốc gia năm 2015.<ref>{{Chú thích web |last=nhipsonghanoi.hanoimoi.vn |title=Về Bình Đà tìm những dấu xưa |url=https://nhipsonghanoi.hanoimoi.vn/ve-binh-da-tim-nhung-dau-xua-658636.html |archive-url=https://web.archive.org/web/20250328031729/https://nhipsonghanoi.hanoimoi.vn/ve-binh-da-tim-nhung-dau-xua-658636.html |archive-date=2025-03-28 |access-date=2025-11-22 |website=nhipsonghanoi.hanoimoi.vn |language=vi-VN |url-status=live }}</ref>
+
+=== Làng nghề ===
+Xã Bình Minh có các nhiều ngành nghề với các làng nghề:
+
+* Chế biến lương thực, thực phẩm: làng tương, miến Cự Đà; làng bún bánh Kỳ Thủy, Thanh Lương <ref>{{Chú thích web |last=Thuonghieuvaphapluat |title=Về thăm làng Cự Đà với nghề làm tương truyền thống |url=https://thuonghieuvaphapluat.vn/ve-lang-cu-da-voi-nghe-lam-tuong-truyen-thong-d61544.html |access-date=2025-10-16 |website=thuonghieuvaphapluat.vn}}</ref> 
+* Thêu ren: thôn Cao Mật
+* Mây tre đan xuất khẩu: thôn Mùi (mai một)
+* May, ren vơni: thôn Thượng, thôn Giữa, thôn Trên
+* Giết mổ gia súc, gia cầm: các thôn ở Bình Đà như Chợ, Chằm <ref>{{Chú thích web |last=Thị |first=Báo Kinh Tế Đô |title=Dự án khu giết mổ gia cầm tại xã Bình Minh, huyện Thanh Oai: Bỏ hoang đến bao giờ? |url=https://kinhtedothi.vn/du-an-khu-giet-mo-gia-cam-tai-xa-binh-minh-huyen-thanh-oai-bo-hoang-den-bao-gio-401309 |access-date=2025-10-16 |website=Báo Kinh Tế Đô Thị |language=vi}}</ref>
+
+== Di tích ==
+Làng [[Bình Đà]] có [[Đền Nội Bình Đà thờ Đức Quốc tổ Lạc Long Quân]] của Việt Nam. Ngôi đình Ngoại thờ [[Linh Lang]] đại vương, hoàng tử [[nhà Lý]] con vua [[Lý Thánh Tông]], người hy sinh trong chiến tranh chống [[nhà Tống|Tống]]. [[Lễ hội Bình Đà]] được công nhận là di sản văn hóa phi vật thể quốc gia năm 2014. Bức giá tượng quốc tổ [[Lạc Long Quân]] tại đền Nội được khởi dựng từ thời nhà Đinh, khi Đinh Tiên Hoàng lên ngôi Hoàng đế đã cho xây đền Hùng tại Phong Châu cũng cho xây dựng đền Nội ở làng Bình Đà để thờ Lạc Long Quân. Vua Đinh đã giao cho [[Hoàng hậu Nhà Đinh|Hoàng hậu Đan Gia]] và Đinh Quốc công [[Nguyễn Bặc]] đặc trách, cùng với Bộ Lễ tuyển các thợ giỏi để chế tác,<ref>[http://kinhtedothi.vn/kham-pha-ngoi-den-luu-giu-bao-vat-quoc-gia-298904.html Khám phá ngôi đền lưu giữ Bảo vật quốc gia]</ref> Bức phù điêu được công nhận là bảo vật quốc gia năm 2015.
+
+Làng [[Bình Đà]] xưa là một căn cứ chính của vùng Đỗ Động Giang mà tướng [[Đỗ Cảnh Thạc]] trong thời [[loạn 12 sứ quân]] đã xây dựng. Ông là người chiếm đóng căn cứ [[Đỗ Động Giang]], có công trấn giữ bình yên cho khu vực này trong thời loạn lạc nên được dân lập đền thờ ở xã này. Cây trôi hơn nghìn năm tuổi là nơi [[Đỗ Cảnh Thạc]] lập căn cứ ở vùng [[Đỗ Động Giang]] được công nhận là cây di sản Việt Nam năm 2016. Đình Sinh Liên ở xã Bình Minh là nơi thờ Thần Vương [[Nguyễn Siêu]], ông cũng là một sứ quân, từng kéo quân về đây tranh chấp ngôi Vua với [[Đỗ Cảnh Thạc]].
+
+== Giao thông ==
+Các hệ thống giao thông đường bộ ở xã Bình Minh: Quốc lộ 21B,<ref>{{Chú thích web |title=Khó hẹn ngày "về đích"? |url=https://baophunuthudo.vn/content/MTIzOTE3.html |access-date=2025-10-16 |website=BÁO PHỤ NỮ THỦ ĐÔ - CƠ QUAN NGÔN LUẬN CỦA ỦY BAN MTTQ VIỆT NAM THÀNH PHỐ HÀ NỘI |language=vi}}</ref> đường trục phía Nam thành phố Hà Nội, tỉnh lộ 427...
+
+Hệ thống xe buýt: 33, 85, 91,<ref>{{Chú thích web |last=Thị |first=Báo Kinh Tế Đô |title=Thay mới phương tiện tuyến buýt 62, 91 và 92 |url=https://kinhtedothi.vn/thay-moi-phuong-tien-tuyen-buyt-62-91-va-92.html |access-date=2025-10-16 |website=Báo Kinh Tế Đô Thị |language=vi}}</ref> 94, 103A, 103B, 123, 125
+<!-- 
+== Lịch sử ==
+Vùng đất xã Cao Viên vốn là một khúc đổi dòng của sông Đáy từ rất xưa, ngày nay dấu vết còn để lại trên địa xã là một dãy hồ đầm hình móng ngựa nằm ở phía tây xã, ăn lõm sang phía huyện Chương Mỹ. Tới đầu thế kỷ 14, vùng đất xã Cao Viên ngày nay là 3 làng xã phía Nam (chiếm nửa số xã thời đó) của tổng Đồng Dương huyện Thanh Oai phủ Ứng Thiên [[sơn Nam (địa danh cũ Việt Nam)|trấn Sơn Nam Thượng]], đó là các làng xã: Cao Bộ (高 步), Đàn Viên và Phù Lạc<ref>cuốn ''Tên các làng xã Việt Nam đầu thế kỷ 19'', trang 50.</ref>. (3 làng xã còn lại ở phía bắc của tổng Đồng Dương là: Đồng Dương, Mai Lĩnh và Đồng Hoành, nay là phần đất thuộc phường [[Đồng Mai]] quận [[Hà Đông (quận)|Hà Đông]]). Trước năm 1995, tức là trước khi có lệnh cấm đốt pháo trong các dịp lễ hội, 3 làng trong xã Cao Viên cùng với làng Bình Đà xã Bình Minh bên cạnh có nghề truyền thống sản xuất [[pháo hoa]] và [[pháo (lễ hội)|pháo nổ]] phục vụ các dịp lễ hội và ngày [[tết Nguyên Đán|tết nguyên đán]].
+==Hành chính==
+Xã Cao Viên gồm 7 thôn: thôn Bãi 1, thôn Bãi 2, thôn Vĩ, thôn Đống, thôn Trung, thôn Đàn Viên, thôn Phù Lạc.
+==Văn hóa==
+Làng Cao bộ ngoài nghề làm pháo trước đây thì còn nghề làm nem thính. Nguyên liệu gồm: thịt lợn sống, bì lợn, mỡ lợn và thính. Nem này được coi là đặc sản của địa phương, người dân nơi đây. Trong các dịp lễ-tết, cưới xin hầu như các gia đình đều bày biện món này để đãi khách.
+ -->
+== Chú thích ==
+{{tham khảo|30em}}
+
+== Tham khảo ==
+{{Sơ khai Hà Nội}}{{Đơn vị hành chính thuộc thành phố Hà Nội}}

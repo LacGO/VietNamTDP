@@ -1,0 +1,108 @@
+{
+  "ward_code": "09100",
+  "ward_name": "Vĩnh Hưng",
+  "province_code": "25",
+  "resolution": "",
+  "arrangement": "truoc_2026_07",
+  "effective_date": "",
+  "verified": "unverified",
+  "extraction": {
+    "source": "vi.wikipedia.org",
+    "title": "Vĩnh Hưng, Phú Thọ",
+    "mode": "narrative"
+  },
+  "sources": [
+    {
+      "key": "wiki-09100-1",
+      "title": "Nghị quyết 50/NQ-UBBC về việc công bố danh sách những người ứng cử đại biểu Hội đồng nhân dân xã Vĩnh Hưng, nhiệm kỳ 2026 - 2031 theo từng đơn vị bầu cử",
+      "url": "https://web.facebook.com/story.php?story_fbid=122165019824930096&id=61577902893072&rdid=FQu6nzSXGHOPbKiU#",
+      "date": "2026-02-25",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-09100-2",
+      "title": "Nghị quyết số 1287/NQ-UBTVQH15 của UBTVQH Về việc sắp xếp đơn vị hành chính cấp xã của tỉnh Vĩnh Phúc giai đoạn 2023 – 2025",
+      "url": "https://quochoi.vn/tintuc/Pages/tin-hoat-dong-cua-quoc-hoi.aspx?ItemID=91157",
+      "date": "2026-06-24",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-09100-3",
+      "title": "TOÀN VĂN: Nghị quyết số 202/2025/QH15 về sắp xếp đơn vị hành chính cấp tỉnh",
+      "url": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-202-2025-qh15-ve-sap-xep-don-vi-hanh-chinh-cap-tinh-119250612174148722.htm",
+      "date": "2025-07-16",
+      "type": "wikipedia-ref"
+    }
+  ],
+  "note": "Trích tự động từ Wikipedia tiếng Việt (mode=narrative). Cần đối chiếu nghị quyết HĐND phường/xã. ⚠️ Danh mục có thể là hiện trạng TRƯỚC sắp xếp thôn/TDP 01/7/2026 — Wikipedia chưa cập nhật nghị quyết mới.",
+  "tdp": [
+    {
+      "name": "Bến Hội",
+      "type": "thôn"
+    },
+    {
+      "name": "Chợ",
+      "type": "thôn"
+    },
+    {
+      "name": "Chùa",
+      "type": "thôn"
+    },
+    {
+      "name": "Cuối",
+      "type": "thôn"
+    },
+    {
+      "name": "Đình",
+      "type": "thôn"
+    },
+    {
+      "name": "Đồi Me",
+      "type": "thôn"
+    },
+    {
+      "name": "Hạc Đình",
+      "type": "thôn"
+    },
+    {
+      "name": "Mới",
+      "type": "thôn"
+    },
+    {
+      "name": "Nghĩa Lập",
+      "type": "thôn"
+    },
+    {
+      "name": "Nội",
+      "type": "thôn"
+    },
+    {
+      "name": "Phù Yên 1",
+      "type": "thôn"
+    },
+    {
+      "name": "Phù Yên 2",
+      "type": "thôn"
+    },
+    {
+      "name": "Phù Yên 3",
+      "type": "thôn"
+    },
+    {
+      "name": "Phù Yên 4",
+      "type": "thôn"
+    },
+    {
+      "name": "Sen",
+      "type": "thôn"
+    },
+    {
+      "name": "Thượng Lạp",
+      "type": "thôn"
+    },
+    {
+      "name": "Vỡ",
+      "type": "thôn"
+    }
+  ]
+}

@@ -1,0 +1,161 @@
+{{Thông tin đơn vị hành chính Việt Nam |Xã| tên = Thạch Thất
+| hình = 
+| ghi chú hình = 
+| vĩ độ = 21.055849537150536
+| kinh độ = 105.57824635579294
+| diện tích = 31,93 km²
+| dân số = 57.645 người
+| thời điểm dân số = 2025
+| mật độ dân số = {{formatnum:{{#expr:floor({{formatnum:57.645| R}}/{{formatnum:31,93| R}})}} }} người/km²
+| vùng = [[Đồng bằng sông Hồng]]
+| thành phố = [[Hà Nội]]
+| thành lập = 
+| trụ sở UBND = Đường 419<ref>{{Chú thích web |url=https://storage-vnportal.vnpt.vn/gov-hni/6244/VanBan/2025/6/25/TB-729-2025.pdf |title=Thông báo số 729/TB-UBND ngày 25 tháng 6 năm 2025 của Ủy ban nhân dân thành phố Hà Nội về địa điểm trụ sở làm việc của 126 phường, xã sau sắp xếp thuộc phạm vi quản lý của thành phố Hà Nội|access-date=2026-06-15 |archive-date=2026-06-15 |archive-url=https://web.archive.org/web/20260615034519/https://storage-vnportal.vnpt.vn/gov-hni/6244/VanBan/2025/6/25/TB-729-2025.pdf |url-status=dead | website = Cổng Thông tin điện tử Ủy ban nhân dân thành phố Hà Nội}}</ref>
+| mã hành chính =09995<ref>{{Chú thích web |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/19ttg.signed.pdf |title=Quyết định số 19/2025/QĐ-TTg ngày 30 tháng 6 năm 2025 của Thủ tướng Chính phủ về việc Ban hành Bảng danh mục và mã số các đơn vị hành chính Việt Nam |access-date=2026-06-15 |archive-date=2026-06-15 |archive-url=https://web.archive.org/web/20260615034519/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/19ttg.signed.pdf |url-status=dead | website = Cổng Thông tin điện tử Chính phủ}}</ref> 
+| mã bưu chính = 
+|bản đồ 1={{maplink|frame=yes|plain=yes|type=shape|frame-width=280|frame-align=center|stroke-width=3}}|web={{url|thachthat.hanoi.gov.vn}}|trụ sở Đảng ủy=Đường 419}}
+{{other|Thạch Thất (định hướng)}}
+'''Thạch Thất''' là một [[Xã (Việt Nam)|xã]] thuộc thành phố [[Hà Nội]], [[Việt Nam]].
+
+== Địa lý==
+Xã Thạch Thất có vị trí địa lý:
+
+* Phía đông giáp xã [[Tây Phương]]
+* Phía tây giáp xã [[Đoài Phương]]
+* Phía nam giáp xã [[Hạ Bằng]]
+* Phía bắc giáp xã [[Phúc Thọ (xã)|Phúc Thọ]].<ref>{{Chú thích web |last=Viện nghiên cứu Phát triển kinh tế – xã hội Hà Nội |date=2025-07-02 |title=Xã Thạch Thất: Những thông tin chi tiết sau sắp xếp |url=https://hanoionline.vn/xa-thach-that-nhung-thong-tin-chi-tiet-sau-sap-xep-344084.htm |url-status=bot: unknown |archive-url=https://web.archive.org/web/20251005192946/https://hanoionline.vn/xa-thach-that-nhung-thong-tin-chi-tiet-sau-sap-xep-344084.htm |archive-date=2025-10-05 |access-date=2026-07-11 |website=Cơ quan Báo và Phát thanh Truyền hình Hà Nội }}</ref><ref>{{Chú thích web |last=Cơ quan Báo và Phát thanh Truyền hình Hà Nội |date=2025-07-08 |title=Xã Thạch Thất: Tất cả thông tin chỉ dẫn bạn cần biết |url=https://hanoionline.vn/xa-thach-that-tat-ca-thong-tin-chi-dan-ban-can-biet-345491.htm |url-status=bot: unknown |archive-url=https://web.archive.org/web/20250709012425/https://hanoionline.vn/xa-thach-that-tat-ca-thong-tin-chi-dan-ban-can-biet-345491.htm |archive-date=2025-07-09 |access-date=2026-07-11 }}</ref>
+
+Xã Thạch Thất có diện tích tự nhiên là 31,93&nbsp;km<sup>2</sup>, quy mô dân số năm 2025 là 57.645 người và mật độ dân số đạt 1.085 người/km<sup>2</sup>.<ref>{{Chú thích web |last=Mai Hữu |date=2026-04-05 |title=Hà Nội: Chi tiết phương án tổng thể sắp xếp đơn vị hành chính cấp xã |url=https://hanoimoi.vn/ha-noi-chi-tiet-phuong-an-tong-the-sap-xep-don-vi-hanh-chinh-cap-xa-700278.html |url-status=bot: unknown |archive-url=https://web.archive.org/web/20250710163328/https://hanoimoi.vn/ha-noi-chi-tiet-phuong-an-tong-the-sap-xep-don-vi-hanh-chinh-cap-xa-700278.html |archive-date=2025-07-10 |access-date=2026-07-11 |website=Cơ quan Báo và Phát thanh, truyền hình Hà Nội }}</ref><ref>Công văn số 2896/BNV-CQĐP ngày 27 tháng 5 năm 2025 của Bộ Nội vụ về việc cung cấp thông tin danh mục dự kiến đơn vị hành chính cấp xã mới.</ref>
+
+== Lịch sử ==
+
+=== Trước năm 1976 ===
+
+=== Giai đoạn 1976 – nay ===
+Sau ngày 2 tháng 7 năm 1976, 6 xã: Cẩm Yên, Đại Đồng, Kim Quan, Lại Thượng, Liên Quan và Phú Kim thuộc huyện [[Thạch Thất (huyện)|Thạch Thất]] của tỉnh [[Hà Sơn Bình]].
+
+Ngày 29 tháng 12 năm 1978, sáp nhập huyện [[Thạch Thất (huyện)|Thạch Thất]] của tỉnh [[Hà Sơn Bình]] vào thành phố [[Hà Nội]]. Khi đó, 6 xã: Cẩm Yên, Đại Đồng, Kim Quan, Lại Thượng, Liên Quan và Phú Kim thuộc huyện [[Thạch Thất (huyện)|Thạch Thất]] của thành phố [[Hà Nội]].<ref>Nghị quyết ngày 29 tháng 12 năm 1978 của Quốc hội khóa VI, Kỳ họp thứ 4 phê chuẩn việc phân vạch lại địa giới thành phố Hà Nội, thành phố Hồ Chí Minh, các tỉnh Hà Sơn Bình, Vĩnh Phú, Cao Lạng, Bắc Thái, Quảng Ninh và Đồng Nai.</ref>
+
+Ngày 12 tháng 8 năm 1991, chia tỉnh [[Hà Sơn Bình]] thành 2 tỉnh, lấy tên là tỉnh [[Hòa Bình (tỉnh)|Hòa Bình]] và tỉnh [[Hà Tây (tỉnh)|Hà Tây]]. Chuyển huyện [[Thạch Thất (huyện)|Thạch Thất]] của thành phố [[Hà Nội]] về tỉnh [[Hà Tây (tỉnh)|Hà Tây]]. Khi đó, 6 xã: Cẩm Yên, Đại Đồng, Kim Quan, Lại Thượng, Liên Quan và Phú Kim thuộc huyện [[Thạch Thất (huyện)|Thạch Thất]] của tỉnh [[Hà Tây (tỉnh)|Hà Tây]].<ref>Nghị quyết ngày 12 tháng 8 năm 1991 của Quốc hội khóa VIII, Kỳ họp thứ 9 về việc điều chỉnh địa giới hành chính một số tỉnh, thành phố trực thuộc Trung ương.</ref>
+
+Ngày 23 tháng 6 năm 1994, thành lập thị trấn Liên Quan (thị trấn huyện lỵ) trên cơ sở diện tích tự nhiên và nhân khẩu của xã Liên Quan.<ref>{{Chú thích web |title=Nghị định số 52-CP ngày 23 tháng 6 năm 1994 của Chính phủ về việc điều chỉnh địa giới huyện và thành lập thị trấn, phường thuộc các huyện Hoài Đức, Chương Mỹ, Thạch Thất, Thanh Oai, thị xã Hà Đông, tỉnh Hà Tây |url=https://chinhphu.vn/default.aspx?pageid=27160&docid=2281 |url-status=bot: unknown |archive-url=https://web.archive.org/web/20250120043235/https://chinhphu.vn/default.aspx?pageid=27160&docid=2281 |archive-date=2025-01-20 |access-date=2026-07-13 |website=Cổng Thông tin điện tử Chính phủ }}</ref>
+
+Ngày 29 tháng 5 năm 2008, hợp nhất tỉnh [[Hà Tây (tỉnh)|Hà Tây]] vào thành phố [[Hà Nội]]. Khi đó, thị trấn Liên Quan và 5 xã: Cẩm Yên, Đại Đồng, Kim Quan, Lại Thượng, Phú Kim thuộc huyện [[Thạch Thất (huyện)|Thạch Thất]] của thành phố [[Hà Nội]].<ref>[https://vbpl.vn/bonoivu/Pages/vbpq-toanvan.aspx?ItemID=31251 Nghị quyết số 15/2008/QH12 ngày 29 tháng 5 năm 2008 của Quốc hội khóa XII, Kỳ họp thứ 3 về việc điều chỉnh địa giới hành chính thành phố Hà Nội và một số tỉnh có liên quan]</ref>
+
+Ngày 16 tháng 6 năm 2025:
+
+* Kết thúc hoạt động của đơn vị hành chính cấp huyện trong cả nước.<ref>{{Chú thích web |last= |date= |title=Nghị quyết số 203/2025/QH15 ngày 16 tháng 6 năm 2025 của Quốc hội khóa XV, Kỳ họp thứ 9 về việc sửa đổi, bổ sung một số điều của Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/nq-sua-doi-hien-phap.pdf |url-status=live |archive-url=https://web.archive.org/web/20260613090807/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/nq-sua-doi-hien-phap.pdf |archive-date=2026-06-13 |access-date=2026-06-13 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+* Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của thị trấn Liên Quan và các xã Cẩm Yên, Đại Đồng, Kim Quan, Lại Thượng, Phú Kim (huyện [[Thạch Thất (huyện)|Thạch Thất]]) thành xã mới có tên gọi là xã Thạch Thất.<ref>{{Chú thích web |title=Nghị quyết số 1656/NQ-UBTVQH15 ngày 16 tháng 6 năm 2025 của Ủy ban Thường vụ Quốc hội về việc sắp xếp các đơn vị hành chính cấp xã của thành phố Hà Nội năm 2025 |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf |url-status=bot: unknown |archive-url=https://web.archive.org/web/20260513110024/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf |archive-date=2026-05-13 |access-date=2026-06-30 |website=Cổng Thông tin điện tử Chính phủ }}</ref>
+* Sau khi sắp xếp, xã Thạch Thất được chia thành 31 thôn.<ref>5 tổ dân phố: Chi Quan, Đồng Cam, Đụn Dương, Phố Săn và Phú Tân của thị trấn Liên Quan cũ; 3 thôn: Cẩm Bào, Kinh Đạ và Yên Lỗ của xã Cẩm Yên cũ; 6 thôn, đánh số từ 1 đến 6 của xã Đại Đồng cũ; 6 thôn: 84, Cốc Trại, Kim Trung, Làng Kim 1, 2 và Mơ Nồng của xã Kim Quan cũ; 6 thôn: Hoàng Xá, Lại Khánh, Lại Thượng, Ngũ Sơn, Phú Thụ và Thanh Câu của xã Lại Thượng cũ; 5 thôn: Bách Kim, Ngoại Thôn, Nội Thôn, Phú Nghĩa và Thúy Lai của xã Phú Kim cũ.</ref><ref>{{Chú thích web |title=Thông tư số 10/2022/TT-BTNMT ngày 29 tháng 9 năm 2022 của Bộ Tài nguyên và Môi trường về việc Ban hành Danh mục địa danh dân cư, sơn văn, thủy văn, kinh tế – xã hội phục vụ công tác thành lập bản đồ thành phố Hà Nội |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2022/10/10-btnmt.pdf |url-status=bot: unknown |archive-url=https://web.archive.org/web/20260630082812/https://datafiles.chinhphu.vn/cpp/files/vbpq/2022/10/10-btnmt.pdf |archive-date=2026-06-30 |access-date=2026-06-30 |website=Cổng Thông tin điện tử Chính phủ }}</ref><ref>{{Chú thích web |last=Trang Thông tin điện tử xã Thạch Thất – thành phố Hà Nội |date=2026-02-26 |title=Danh sách chính thức những người ứng cử đại biểu Hội đồng nhân dân xã Thạch Thất khóa II, nhiệm kỳ 2026 – 2031 theo từng đơn vị bầu cử |url=https://thachthat.hanoi.gov.vn/bau-cu-2026-2031/danh-sach-chinh-thuc-nhung-nguoi-ung-cu-dai-bieu-hdnd-xa-thach-that-khoa-ii-nhiem-ky-2026-2031-theo-tung-don-vi-bau-cu-2679260302170627406.htm |url-status=dead |archive-url=https://web.archive.org/web/20260728201509/https://thachthat.hanoi.gov.vn/bau-cu-2026-2031/danh-sach-chinh-thuc-nhung-nguoi-ung-cu-dai-bieu-hdnd-xa-thach-that-khoa-ii-nhiem-ky-2026-2031-theo-tung-don-vi-bau-cu-2679260302170627406.htm |archive-date=2026-07-28 |access-date=2026-07-28 |website=}}</ref>
+Ngày 14 tháng 7 năm 2025, chuyển 5 tổ dân phố: Chi Quan, Đụn Dương, Phố Săn, Phú Tân và Đồng Cam thuộc thị trấn Liên Quan cũ thành thôn.<ref>Chuyển đổi 05 tổ dân phố (Chi Quan, Đụn Dương, Phố Săn, Phú Tân, Đồng Cam thuộc thị trấn Liên Quan cũ) trên địa bàn xã Thạch Thất thành 05 thôn dân cư.</ref><ref>{{Chú thích web |last=Phòng Văn hóa – Xã hội xã Thạch Thất |date=2025-07-14 |title=Xã Thạch Thất tổ chức kỳ họp thứ 2 (Kỳ họp chuyên đề) Hội đồng nhân dân xã khóa 1, nhiệm kỳ 2021 – 2026 bàn về |url=https://thachthat.hanoi.gov.vn/chi-dao-cua-dia-phuong/xa-thach-that-to-chuc-ky-hop-thu-2-ky-hop-chuyen-de-hdnd-xa-khoa-1-nhiem-ky-2021-2026-2679250714090023161.htm |url-status=dead |archive-url=https://web.archive.org/web/20260729201509/https://thachthat.hanoi.gov.vn/chi-dao-cua-dia-phuong/xa-thach-that-to-chuc-ky-hop-thu-2-ky-hop-chuyen-de-hdnd-xa-khoa-1-nhiem-ky-2021-2026-2679250714090023161.htm |archive-date=2026-07-29 |access-date=2026-07-29 |website=Trang Thông tin điện tử xã Thạch Thất – thành phố Hà Nội}}</ref>
+
+Ngày 24 tháng 12 năm 2025, xác định một phần của xã Thạch Thất là [[Đô thị Việt Nam|đô thị loại III]].<ref>Chuyển tiếp từ thị trấn Liên Quan thuộc huyện Thạch Thất.</ref><ref>{{Chú thích web |title=Nghị quyết số 111/2025/UBTVQH15 ngày 24 tháng 12 năm 2025 của Ủy ban Thường vụ Quốc hội về phân loại đô thị |url=https://cdn.nhandan.vn/files/f4a4abf7f9a0ba4a91744616546d850872b76917f90d5a74cc9eebef1369fb6f/111.pdf |url-status=dead |archive-url=https://web.archive.org/web/20260814175111/https://cdn.nhandan.vn/files/f4a4abf7f9a0ba4a91744616546d850872b76917f90d5a74cc9eebef1369fb6f/111.pdf |archive-date=2026-08-14 |access-date=2026-07-12 |website=Báo Nhân dân }}</ref>
+
+Ngày 25 tháng 6 năm 2026, thành lập 12 thôn mới: Đại Đồng từ 1 đến 3, Cẩm Yên, Khánh Thượng, Hoàng Thanh Phú, Phú Kim, Kim Quan từ 1 đến 3, Dương Phú và Liên Quan.<ref>1. Thôn Đại Đồng 1 sáp nhập từ Thôn 1 + Thôn 2; 2. Thôn Đại Đồng 2 sáp nhập từ Thôn 3 + Thôn 4; 3. Thôn Đại Đồng 3 sáp nhập từ Thôn 5 + Thôn 6; 4. Thôn Cẩm Yên sáp nhập từ Thôn Cẩm Bào + Thôn Yên Lỗ + Thôn Kinh Đạ; 5. Thôn Khánh Thượng sáp nhập từ Thôn Lại Khánh + Thôn Lại Thượng; 6. Thôn Hoàng Thanh Phú sáp nhập từ Thôn Hoàng Xá + Thôn Phú Thụ + Thôn Thanh Câu; 7. Thôn Phú Kim sáp nhập từ Thôn Bách Kim + Thôn Nội Thôn + Thôn Ngoại Thôn; 8. Thôn Kim Quan 1 sáp nhập từ Thôn Làng Kim 1 + Thôn Làng Kim 2; 9. Thôn Kim Quan 2 sáp nhập từ Thôn Kim Trung + Thôn 84; 10. Thôn Kim Quan 3 sáp nhập từ Thôn Mơ Nồng + Thôn Cốc Trại; 11. Thôn Dương Phú sáp nhập từ Thôn Đụn Dương + Thôn Phú Tân; 12. Thôn Liên Quan sáp nhập từ Thôn Phố Săn + Thôn Đồng Cam; 13. Thôn Ngũ Sơn: Giữ nguyên; 14. Thôn Phú Nghĩa: Giữ nguyên; 15. Thôn Thúy Lai: Giữ nguyên; 16. Thôn Chi Quan: Giữ nguyên.</ref><ref name=":0">{{Chú thích web |last=Thạch Thất Phát Triển – thành phố Hà Nội |date=2026-06-13 |title=Xã Thạch Thất tổ chức lấy ý kiến nhân dân về dự thảo đề án sắp xếp, sáp nhập, đổi tên thôn trên địa bàn xã |url=https://web.facebook.com/story.php?story_fbid=1348080037453644&id=100067549817260&rdid=WTChKuusco4t8T6O# |url-status=dead |archive-url=https://web.archive.org/web/20260728201509/https://web.facebook.com/story.php?story_fbid=1348080037453644&id=100067549817260&rdid=WTChKuusco4t8T6O# |archive-date=2026-07-28 |access-date=2026-07-28 |website=}}</ref><ref name=":1">{{Chú thích web |last=Trang Thông tin điện tử xã Thạch Thất – thành phố Hà Nội |date=2026-06-25 |title=Hội đồng nhân dân xã Thạch Thất khóa II, nhiệm kỳ 2026 – 2031 tổ chức thành công kỳ họp thứ hai, thông qua 12 nghị quyết quan trọng |url=https://thachthat.hanoi.gov.vn/tin-tuc-su-kien/hdnd-xa-thach-that-khoa-ii-nhiem-ky-2026-2031-to-chuc-thanh-cong-ky-hop-thu-hai-thong-qua-12-nghi-quyet-quan-trong-2679260626180119617.htm?gidzl=wSQiO921KYhjsQXccffGB-BThMM3d5Pu-TEaCDAJ3IdyrgKsriGCAws5_ZE6ab1x_e3zCp1FTijxbO1MA0 |url-status=dead |archive-url=https://web.archive.org/web/20260728201509/https://thachthat.hanoi.gov.vn/tin-tuc-su-kien/hdnd-xa-thach-that-khoa-ii-nhiem-ky-2026-2031-to-chuc-thanh-cong-ky-hop-thu-hai-thong-qua-12-nghi-quyet-quan-trong-2679260626180119617.htm?gidzl=wSQiO921KYhjsQXccffGB-BThMM3d5Pu-TEaCDAJ3IdyrgKsriGCAws5_ZE6ab1x_e3zCp1FTijxbO1MA0 |archive-date=2026-07-28 |access-date=2026-07-28 |website=}}</ref>[[Tập_tin:Bản_đồ_các_thôn_thuộc_xã_Thạch_Thất_–_thành_phố_Hà_Nội.jpg|trái|nhỏ|151x151px|Phương án phân chia 16 thôn thuộc xã Thạch Thất của thành phố Hà Nội (từ ngày 1 tháng 7 năm 2026)<ref name=":2">{{Chú thích web |last=Trang Thông tin điện tử xã Thạch Thất – thành phố Hà Nội |date=2026-06-14 |title=Thạch Thất triển khai dự thảo đề án và kế hoạch lấy ý kiến nhân dân về sắp xếp thôn trên địa bàn xã |url=https://thachthat.hanoi.gov.vn/cai-cach-hanh-chinh/thach-that-trien-khai-du-thao-de-an-va-ke-hoach-lay-y-kien-nhan-dan-ve-sap-xep-thon-tren-dia-ban-xa-2679260616164759922.htm |url-status=dead |archive-url=https://web.archive.org/web/20260729201509/https://thachthat.hanoi.gov.vn/cai-cach-hanh-chinh/thach-that-trien-khai-du-thao-de-an-va-ke-hoach-lay-y-kien-nhan-dan-ve-sap-xep-thon-tren-dia-ban-xa-2679260616164759922.htm |archive-date=2026-07-29 |access-date=2026-07-29}}</ref>]]<!-- 
+Thị trấn Liên Quan được thành lập năm 1994 trên cơ sở giải thể xã Liên Quan.
+
+== Văn hóa== 
+=== Di tích===
+
+Xã Kim Quan là vùng đất có lịch sử hàng ngàn năm, nằm hai bên bờ [[sông Tích]] . Trong đó nổi bật là 02 di tích cùng bên bờ đê cách nhau khoảng 200 m:
+
+* Ngôi đình làng Kim Quan<ref>{{Chú thích web| url = http://ditichlichsu-vanhoahanoi.com/2020/10/14/dinh-kim-quan-thach-that/| tựa đề = Đình Kim Quan (Thạch Thất) – Di tích lịch sử – văn hoá Hà Nội| họ = dangsyduc| ngôn ngữ = vi| ngày truy cập = 2023-04-21}}</ref> có từ thời vua [[Hán Hiến Đế]] khoảng năm 234 (sau Công nguyên) và được xếp hạng di tích lịch sử văn hóa quốc gia năm 1991, trong đình còn lưu giữ nhiều đạo sắc phong qua các triều đại cùng nhiều mảng kiến trúc điêu khắc nghệ thuật có giá trị văn hóa lịch sử.
+* Ngôi chùa làng Kim Quan<ref>{{Chú thích web| url = https://thachthat.hanoi.gov.vn/di-tich-lich-su| tựa đề = Di tích lịch sử - Cổng thông tin điện tử Huyện Thạch Thất| website = thachthat.hanoi.gov.vn| ngày truy cập = 2023-04-21}}</ref> tên chữ là “Long Cảnh tự”, tên nôm là chùa Triền vì chùa toạ lạc ở xóm Triền. Đây là ngôi chùa có từ lâu đời, dấu tích thời Lê còn ở những pho tượng cổ. Ngôi chùa cổ đã bị mai một, qua nhiều lần tu sửa, tôn tạo nay còn đậm đặc kiến trúc thời Nguyễn.
+
+=== Nghề truyền thống===
+
+Xã Kim Quan có nghề truyền thống là sản xuất gạch ngói cổ<ref>{{Chú thích web| url = http://hanoimoi.com.vn/Tin-tuc/Ban-doc/533421/nhung-nhang-tinh---ly| tựa đề = Nhùng nhằng tình - lý| website = hanoimoi.com.vn| ngày truy cập = 2023-04-21}}</ref>; hiện nay vẫn còn một số gia đình sản xuất ngói mũi hài với hàng trăm mẫu hoa văn phục vụ các công trình kiến trúc truyền thống như đình, chùa, nhà gỗ kẻ chuyền...<ref>{{Chú thích web| url = https://nhandan.vn/song-con-bat-nguon-tu-nui-to-post692854.html| tựa đề = | url-status = live}}</ref>
+
+== Giao thông== 
+Các tuyến, hệ thống giao thông quan trọng di qua xã Kim Quan:
+* Tỉnh lộ 420: đi nhiều xã, thị trấn trong huyện
+* Tỉnh lộ 419: đi Phúc Thọ, Chương Mỹ, Mỹ Đức...
+* Hệ thống xe buýt: tuyến 89, 117.
+
+== Danh nhân==
+
+Cấn Văn Độ (1847 - 1893) xuất thân tại Kim Quan có công chiến đấu, hi sinh chống giặc Pháp.
+
+-->
+
+== Hành chính ==
+Xã Thạch Thất được chia thành 16 thôn: Cẩm Yên, Chi Quan, Dương Phú, Đại Đồng từ 1 đến 3, Hoàng Thanh Phú, Khánh Thượng, Kim Quan từ 1 đến 3, Liên Quan, Ngũ Sơn, Phú Kim, Phú Nghĩa và Thúy Lai.<ref name=":0" /><ref name=":1" />
+{| class="wikitable sortable" cellpadding="0" cellspacing="6" width="100%" align="center" style="background: #f9f9f9; border: 1px #aaa solid; margin-top: 16px"
+! colspan="4" style="background: #E6E6FA; font-size: 95%;" |Danh sách các thôn thuộc xã Thạch Thất<ref name=":0" /><ref name=":1" /><ref name=":2" />
+|-
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| cellpadding="1" cellspacing="1" width="100%" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Cẩm Yên
+|1.381
+|-
+| align="left" |Chi Quan
+|719
+|-
+| align="left" |Dương Phú
+|671
+|-
+| align="left" |Đại Đồng 1
+|908
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| cellpadding="1" cellspacing="1" width="100%" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Đại Đồng 2
+|1.414
+|-
+| align="left" |Đại Đồng 3
+|871
+|-
+| align="left" |Hoàng Thanh Phú
+|1.213
+|-
+| align="left" |Khánh Thượng
+|841
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| cellpadding="1" cellspacing="1" width="100%" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Kim Quan 1
+|978
+|-
+| align="left" |Kim Quan 2
+|853
+|-
+| align="left" |Kim Quan 3
+|717
+|-
+| align="left" |Liên Quan
+|606
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| cellpadding="1" cellspacing="1" width="100%" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Ngũ Sơn
+|730
+|-
+| align="left" |Phú Kim
+|1.665
+|-
+| align="left" |Phú Nghĩa
+|730
+|-
+| align="left" |Thúy Lai
+|653
+|}
+|}
+
+== Chú thích == 
+{{tham khảo}}
+
+== Tham khảo ==
+{{sơ khai Hà Nội}}
+{{Đơn vị hành chính thuộc thành phố Hà Nội}}

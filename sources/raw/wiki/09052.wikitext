@@ -1,0 +1,54 @@
+{{Thông tin đơn vị hành chính Việt Nam|xã
+| tên = Nguyệt Đức
+| hình = 
+| ghi chú hình = 
+| vĩ độ = 21.212468797063316
+| kinh độ = 105.61165561509826
+| diện tích = 19,00 km²<ref name=MS/>
+| dân số = 34.166 người<ref name=MS/>
+| thời điểm dân số = 2025
+| mật độ dân số = {{formatnum:{{#expr:floor({{formatnum:34.166| R}}/{{formatnum:19,00| R}})}} }} người/km²
+| vùng = [[Đông Bắc Bộ]]
+| tỉnh = [[Phú Thọ]]
+| thành lập =16 tháng 6 năm 2025<ref>Nghị quyết số 1676/NQ-UBTVQH15</ref> 
+| trụ sở UBND =Thôn Phố Lồ 
+| mã hành chính = 09052<ref>{{Chú thích web |url=https://danhmuchanhchinh.gso.gov.vn/ |title=Tổng cục Thống kê |access-date=2022-03-24 |archive-date=2021-01-10 |archive-url=https://web.archive.org/web/20210110034519/https://www.gso.gov.vn/phuong-phap-thong-ke/danh-muc/don-vi-hanh-chinh/ |url-status=dead }}</ref>
+| mã bưu chính =15722 
+|web={{url|nguyetduc.phutho.gov.vn}}
+}}
+{{other|Nguyệt Đức (định hướng)}}
+'''Nguyệt Đức''' là một [[Xã (Việt Nam)|xã]] thuộc [[Tỉnh (Việt Nam)|tỉnh]] [[Phú Thọ]], [[Việt Nam]].
+
+== Địa lý ==
+Xã Nguyệt Đức nằm ở phía Đông tỉnh [[Phú Thọ]], có vị trí địa lý<ref>{{Chú thích web |title=Đơn vị hành chính Việt Nam |url=https://sapnhap.bando.com.vn/ |access-date=2026-06-20 |website=sapnhap.bando.com.vn}}</ref>:
+
+* Phía Bắc giáp xã [[Yên Lạc (xã)|Yên Lạc]] và xã [[Xuân Lãng]].
+* Phía Nam giáp xã [[Phúc Lộc, Hà Nội|Phúc Lộc]], thành phố [[Hà Nội]] với ranh giới là [[sông Hồng]].
+* Phía Tây giáp xã [[Tam Hồng]] và xã [[Liên Châu]].
+* Phía Đông giáp xã [[Tiến Thắng]] và xã [[Yên Lãng, Hà Nội|Yên Lãng]], thành phố [[Hà Nội]].
+
+Xã có diện tích 19,00&nbsp;km², dân số năm 2025 là 34.166 người, mật độ dân số đạt 1.798 người/km².<ref>{{Chú thích web |title=Xã Nguyệt Đức, Tỉnh Phú Thọ mới sáp nhập 2026 |url=https://tinhthanhvn.com/province/phu-tho/xa-nguyet-duc |access-date=2026-06-20 |website=Tỉnh Thành Việt Nam |language=vi}}</ref>
+
+==Hành chính==
+Xã Nguyệt Đức được chia thành 32 thôn: 1, 2, 3, 4, 5, 6, 7, 8, Đinh Xá 1, Đinh Xá 2, Đinh Xá 3, Đinh Xá 4, Đinh Xá 5, Đống Cao, Gảnh Đá, Gia Phúc, Lưỡng 1, Lưỡng 2, Mai Yên, Miêu Cốc, Nghinh Tiên 1, Nghinh Tiên 2, Nghinh Tiên 3, Phần Xa, Phố Lồ, Phúc Cẩm, Tiên Đài, Trung Giang, Xuân Đài, Xóm Chùa, Yên Dương, Yên Nội.<ref>{{Chú thích web |last=Ủy ban nhân dân xã Nguyệt Đức |date=2026-03-09 |title=Thông báo số 62/TB-UBND về Nơi bỏ phiếu bầu cử đại biểu Quốc hội khóa XVI và bầu cử đại biểu Hội đồng nhân dân các cấp, nhiệm kỳ 2026 - 2031 trên địa bàn xã Nguyệt Đức |url=https://web.facebook.com/story.php?story_fbid=122165030402929908&id=61577897251692&rdid=7RXVRX5V7sud5pL6# |url-status=live |archive-url=https://web.archive.org/web/20260423090807/https://web.facebook.com/story.php?story_fbid=122165030402929908&id=61577897251692&rdid=7RXVRX5V7sud5pL6# |archive-date=2026-04-23 |access-date=2026-04-23 |website=Nguyệt Đức 24H - tỉnh Phú Thọ}}</ref>
+
+==Lịch sử==
+Trước kia, Nguyệt Đức là một xã thuộc huyện [[Yên Lạc (huyện)|Yên Lạc]], tỉnh [[Vĩnh Phúc (tỉnh)|Vĩnh Phúc]] cũ.
+
+Ngày [[12 tháng 6]] năm [[2025]], [[Quốc hội Việt Nam|Quốc hội]] ban hành Nghị quyết số 202/2025/QH15 về việc sắp xếp đơn vị hành chính cấp tỉnh (nghị quyết có hiệu lực từ ngày [[12 tháng 6]] năm [[2025]]).<ref>{{Chú thích web |last=xaydungchinhsach.chinhphu.vn |date=2025-07-16 |title=TOÀN VĂN: Nghị quyết số 202/2025/QH15 về sắp xếp đơn vị hành chính cấp tỉnh |url=https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-202-2025-qh15-ve-sap-xep-don-vi-hanh-chinh-cap-tinh-119250612174148722.htm |url-status=live |archive-url=https://web.archive.org/web/20260705025431/https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-202-2025-qh15-ve-sap-xep-don-vi-hanh-chinh-cap-tinh-119250612174148722.htm |archive-date=2026-07-05 |access-date=2026-07-25 |website=Báo Điện tử Chính phủ |language=vi}}</ref> Theo đó, sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của tỉnh [[Vĩnh Phúc (tỉnh)|Vĩnh Phúc]], tỉnh [[Hòa Bình (tỉnh)|Hòa Bình]] và tỉnh [[Phú Thọ]] thành tỉnh mới có tên gọi là tỉnh '''Phú Thọ'''.
+
+Ngày [[16 tháng 6]] năm [[2025]]:
+
+* Quốc hội ban hành Nghị quyết số 203/2025/QH15 về việc sửa đổi, bổ sung một số điều của Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam (nghị quyết có hiệu lực từ ngày [[16 tháng 6]] năm [[2025]]).<ref>{{Chú thích web |last=xaydungchinhsach.chinhphu.vn |date=2025-06-28 |title=NGHỊ QUYẾT 203/2025/QH15 SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA HIẾN PHÁP NƯỚC CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM |url=https://xaydungchinhsach.chinhphu.vn/nghi-quyet-203-2025-qh15-sua-doi-bo-sung-mot-so-dieu-cua-hien-phap-nuoc-cong-hoa-xa-hoi-chu-nghia-viet-nam-119250616181735552.htm |url-status=live |archive-url=https://web.archive.org/web/20260715200606/https://xaydungchinhsach.chinhphu.vn/nghi-quyet-203-2025-qh15-sua-doi-bo-sung-mot-so-dieu-cua-hien-phap-nuoc-cong-hoa-xa-hoi-chu-nghia-viet-nam-119250616181735552.htm |archive-date=2026-07-15 |access-date=2026-07-15 |website=Báo Điện tử Chính phủ |language=vi}}</ref> Theo đó, kết thúc hoạt động của đơn vị hành chính cấp huyện trong cả nước từ ngày 1 tháng 7 năm 2025.
+* [[Ủy ban Thường vụ Quốc hội]] ban hành Nghị quyết số 1676/NQ-UBTVQH15 về việc sắp xếp đơn vị hành chính cấp xã của tỉnh [[Phú Thọ]] năm 2025 (nghị quyết có hiệu lực từ ngày [[16 tháng 6]] năm [[2025]]).<ref>{{Chú thích web |last=xaydungchinhsach.chinhphu.vn |date=2025-06-20 |title=Nghị quyết số 1676/NQ-UBTVQH15 sắp xếp các ĐVHC cấp xã của tỉnh Phú Thọ năm 2025 |url=https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-1676-nq-ubtvqh15-sap-xep-cac-dvhc-cap-xa-cua-tinh-phu-tho-nam-2025-119250616204317326.htm |url-status=live |archive-url=https://web.archive.org/web/20260725082021/https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-1676-nq-ubtvqh15-sap-xep-cac-dvhc-cap-xa-cua-tinh-phu-tho-nam-2025-119250616204317326.htm |archive-date=2026-07-25 |access-date=2026-07-27 |website=Báo Điện tử Chính phủ |language=vi}}</ref> Theo đó, sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của các xã Văn Tiến, Trung Kiên, Trung Hà và Nguyệt Đức thành xã mới có tên gọi là '''xã Nguyệt Đức'''.
+
+==Danh nhân==
+* [[Nguyễn Khắc Cần (Hoàng giáp)]] (1817 – 1868)
+* [[Trần Việt Khoa]] (sinh năm 1965) là một chính trị gia, Tướng lĩnh Quân đội nhân dân Việt Nam, hàm Thượng tướng. Ông hiện là Ủy viên Trung ương Đảng khóa XIV, Ủy viên Quân ủy Trung ương, Phó Bí thư Đảng ủy, Giám đốc Học viện Quốc phòng Việt Nam.
+
+==Chú thích==
+{{tham khảo|30em}}
+
+== Tham khảo ==
+{{sơ khai Phú Thọ}}
+{{Đơn vị hành chính thuộc tỉnh Phú Thọ}}

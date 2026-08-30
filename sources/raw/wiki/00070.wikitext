@@ -1,0 +1,189 @@
+{{Thông tin đơn vị hành chính Việt Nam|Phường
+| tên = Hoàn Kiếm
+| logo = Biểu trưng phường Hoàn Kiếm.svg
+| cỡ logo = 128px
+| ghi chú logo = Biểu trưng
+| hình =Hồ Hoàn Kiếm.jpg 
+| ghi chú hình =[[Hồ Hoàn Kiếm]] 
+| bản đồ 1= [[File:Hoan Kiem map.png|300px]]
+| tựa bản đồ 1 = Bản đồ phường Hoàn Kiếm
+| vĩ độ =21.02890710023778
+| kinh độ =105.8506704134402
+| diện tích =1,91 km² 
+| dân số =105.301 người 
+| mật độ dân số={{formatnum:{{#expr:floor({{formatnum:105.301|R}}/{{formatnum:1,91|R}})}} }} người/km²
+| thời điểm dân số = 2025
+| vùng = [[Đồng bằng sông Hồng]]
+| thành phố = [[Hà Nội]]
+| trụ sở UBND =Số 12, phố Hàng Trống<ref>{{Chú thích web |url=https://storage-vnportal.vnpt.vn/gov-hni/6244/VanBan/2025/6/25/TB-729-2025.pdf |title=Thông báo số 729/TB-UBND ngày 25 tháng 6 năm 2025 của Ủy ban nhân dân thành phố Hà Nội về địa điểm trụ sở làm việc của 126 phường, xã sau sắp xếp thuộc phạm vi quản lý của thành phố Hà Nội|access-date=2026-06-15 |archive-date=2026-06-15 |archive-url=https://web.archive.org/web/20260615034519/https://storage-vnportal.vnpt.vn/gov-hni/6244/VanBan/2025/6/25/TB-729-2025.pdf |url-status=dead | website = Cổng Thông tin điện tử Ủy ban nhân dân thành phố Hà Nội}}</ref>
+| web= {{url|hoankiem.hanoi.gov.vn}}
+|trụ sở Đảng ủy=Số 126, phố Hàng Trống|mã hành chính=00070<ref>{{Chú thích web |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/19ttg.signed.pdf |title=Quyết định số 19/2025/QĐ-TTg ngày 30 tháng 6 năm 2025 của Thủ tướng Chính phủ về việc Ban hành Bảng danh mục và mã số các đơn vị hành chính Việt Nam |access-date=2026-06-15 |archive-date=2026-06-15 |archive-url=https://web.archive.org/web/20260615034519/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/19ttg.signed.pdf |url-status=dead | website = Cổng Thông tin điện tử Chính phủ}}</ref>}}{{other|Hoàn Kiếm (định hướng)}}
+'''Hoàn Kiếm''' là [[Phường (Việt Nam)|phường]] trung tâm chính trị – hành chính của thành phố [[Hà Nội]], [[Việt Nam]]. Đây cũng là nơi đặt trụ sở của [[Mặt trận Tổ quốc Việt Nam]].
+
+== Địa lý ==
+Phường Hoàn Kiếm có vị trí địa lý:
+
+* Phía đông tiếp giáp phường [[Hồng Hà (phường)|Hồng Hà]] (ranh giới đi theo [[Đường vành đai 1 (Hà Nội)|đường Vành Đai 1]])
+* Phía tây tiếp giáp phường [[Ba Đình (phường)|Ba Đình]] (ranh giới đi theo phố Tôn Thất Thiệp – đường giao thông quy hoạch – phố Lý Nam Đế – phố Cửa Đông – đi theo ranh giới cấp quận cũ)
+* Phía nam tiếp giáp phường [[Cửa Nam (phường)|Cửa Nam]] (ranh giới đi theo phố Tràng Tiền – phố Hàng Khay – phố Tràng Thi – đường Điện Biên Phủ)
+* Phía bắc tiếp giáp phường [[Ba Đình (phường)|Ba Đình]] (ranh giới đi theo phố Phan Đình Phùng – Hàng Đậu).<ref>{{Chú thích web |last=Báo Điện tử Chính phủ|date=2025-04-28|title=Chi tiết dự thảo phương án sắp xếp các phường của Hà Nội|url=https://xaydungchinhsach.chinhphu.vn/chi-tiet-du-thao-phuong-an-sap-xep-cac-phuong-cua-ha-noi-119250421100531902.htm|url-status=live|archive-url=https://web.archive.org/web/20260710401509/https://xaydungchinhsach.chinhphu.vn/chi-tiet-du-thao-phuong-an-sap-xep-cac-phuong-cua-ha-noi-119250421100531902.htm|archive-date=2026-07-10|access-date=2026-07-10|website=Xây dựng chính sách, pháp luật}}</ref><ref>{{Chú thích web |last=Viện nghiên cứu Phát triển kinh tế – xã hội Hà Nội|date=2025-07-02|title=Phường Hoàn Kiếm: Những thông tin chi tiết sau sắp xếp|url=https://hanoionline.vn/phuong-hoan-kiem-nhung-thong-tin-chi-tiet-sau-sap-xep-343906.htm|url-status=dead|archive-url=https://web.archive.org/web/20260815400809/https://hanoionline.vn/phuong-hoan-kiem-nhung-thong-tin-chi-tiet-sau-sap-xep-343906.htm|archive-date=2026-08-15|access-date=2026-08-15|website=Cơ quan Báo và Phát thanh Truyền hình Hà Nội}}</ref><ref>{{Chú thích web |last=Cơ quan Báo và Phát thanh Truyền hình Hà Nội |date=2025-07-05 |title=Phường Hoàn Kiếm: Tất cả thông tin và thủ tục cần biết |url=https://hanoionline.vn/phuong-hoan-kiem-tat-ca-thong-tin-va-thu-tuc-can-biet-344711.htm |url-status=dead |archive-url=https://web.archive.org/web/20260815401509/https://hanoionline.vn/phuong-hoan-kiem-tat-ca-thong-tin-va-thu-tuc-can-biet-344711.htm |archive-date=2026-08-15 |access-date=2026-08-15}}</ref>
+
+Phường Hoàn Kiếm có diện tích tự nhiên là 1,91 km<sup>2</sup>, quy mô dân số năm 2025 là 105.301 người và mật độ dân số đạt 55.131 người/km<sup>2</sup>.<ref>{{Chú thích web |last=Mai Hữu |date=2026-04-05 |title=Hà Nội: Chi tiết phương án tổng thể sắp xếp đơn vị hành chính cấp xã |url=https://hanoimoi.vn/ha-noi-chi-tiet-phuong-an-tong-the-sap-xep-don-vi-hanh-chinh-cap-xa-700278.html |url-status=live |archive-url=https://web.archive.org/web/20260711401509/https://hanoimoi.vn/ha-noi-chi-tiet-phuong-an-tong-the-sap-xep-don-vi-hanh-chinh-cap-xa-700278.html |archive-date=2026-07-11 |access-date=2026-07-11 |website=Cơ quan Báo và Phát thanh, truyền hình Hà Nội}}</ref><ref>Công văn số 2896/BNV-CQĐP ngày 27 tháng 5 năm 2025 của Bộ Nội vụ về việc cung cấp thông tin danh mục dự kiến đơn vị hành chính cấp xã mới.</ref>
+
+== Lịch sử ==
+
+=== Trước năm 1976 ===
+
+=== Giai đoạn 1976 – nay ===
+Sau ngày 2 tháng 7 năm 1976, 13 tiểu khu: Cửa Đông, Cửa Nam, Đồng Xuân, Hàng Bạc, Hàng Bông, Hàng Bồ, Hàng Buồm, Hàng Đào, Hàng Gai, Hàng Mã, Hàng Trống, Lý Thái Tổ và Tràng Tiền thuộc khu phố [[Hoàn Kiếm (quận)|Hoàn Kiếm]]; tiểu khu Điện Biên thuộc khu phố [[Ba Đình (quận)|Ba Đình]] của thành phố [[Hà Nội]].
+
+Ngày 3 tháng 1 năm 1981, từ nay ở nội thành, đơn vị hành chính cấp dưới trực tiếp của [[Thành phố trực thuộc trung ương (Việt Nam)|thành phố trực thuộc trung ương]] đều thống nhất gọi là [[Quận (Việt Nam)|quận]]; các đơn vị hành chính cơ sở ở nội thành, nội thị của các [[Thành phố thuộc tỉnh (Việt Nam)|thành phố thuộc tỉnh]], [[Thị xã (Việt Nam)|thị xã]] và [[Quận (Việt Nam)|quận]] gọi là [[Phường (Việt Nam)|phường]]. Khi đó, 13 phường: Cửa Đông, Cửa Nam, Đồng Xuân, Hàng Bạc, Hàng Bông, Hàng Bồ, Hàng Buồm, Hàng Đào, Hàng Gai, Hàng Mã, Hàng Trống, Lý Thái Tổ và Tràng Tiền thuộc quận [[Hoàn Kiếm (quận)|Hoàn Kiếm]]; phường Điện Biên thuộc quận [[Ba Đình (quận)|Ba Đình]].<ref name="3-CP">{{Chú thích web |tác giả= |ngày= |tựa đề=Quyết định số 3-CP ngày 3 tháng 1 năm 1981 của Hội đồng Chính phủ về việc thống nhất tên gọi các đơn vị hành chính ở nội thành nội thị |url=https://vbpl.vn/TW/Pages/ivbpq-toanvan.aspx?ItemID%20=%204072&Keyword%20= |url-status=dead |url lưu trữ=https://web.archive.org/web/20240807122602/https://vbpl.vn/TW/Pages/ivbpq-toanvan.aspx?ItemID |ngày lưu trữ=2024-08-07 |ngày truy cập=2024-08-07 |website=Cơ sở dữ liệu quốc gia về văn bản quy phạm pháp luật Trung ương}}</ref>
+
+Ngày 16 tháng 6 năm 2025:
+
+* Kết thúc hoạt động của đơn vị hành chính cấp huyện trong cả nước.<ref>{{Chú thích web |last= |date= |title=Nghị quyết số 203/2025/QH15 ngày 16 tháng 6 năm 2025 của Quốc hội khóa XV, Kỳ họp thứ 9 về việc sửa đổi, bổ sung một số điều của Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/nq-sua-doi-hien-phap.pdf |url-status=live |archive-url=https://web.archive.org/web/20260613090807/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/nq-sua-doi-hien-phap.pdf |archive-date=2026-06-13 |access-date=2026-06-13 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+* Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của các phường Hàng Bạc, Hàng Bồ, Hàng Buồm, Hàng Đào, Hàng Gai, Hàng Mã, Lý Thái Tổ và một phần diện tích tự nhiên, quy mô dân số của các phường Cửa Đông, Cửa Nam (quận [[Hoàn Kiếm (quận)|Hoàn Kiếm]]), Điện Biên (quận [[Ba Đình (quận)|Ba Đình]]), Đồng Xuân, Hàng Bông, Hàng Trống, Tràng Tiền (quận [[Hoàn Kiếm (quận)|Hoàn Kiếm]]) thành phường mới có tên gọi là phường Hoàn Kiếm.<ref>{{Chú thích web |title=Nghị quyết số 1656/NQ-UBTVQH15 ngày 16 tháng 6 năm 2025 của Ủy ban Thường vụ Quốc hội về việc sắp xếp các đơn vị hành chính cấp xã của thành phố Hà Nội năm 2025 |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf |url-status=live |archive-url=https://web.archive.org/web/20260630400809/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf |archive-date=2026-06-30 |access-date=2026-06-30 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+* Sau khi sắp xếp, phường Hoàn Kiếm được chia thành 72 tổ dân phố.<ref>5 tổ dân phố, đánh số từ 1 đến 5 của phường Hàng Bạc cũ; 6 tổ dân phố, đánh số từ 1 đến 6 của phường Hàng Bồ cũ; 6 tổ dân phố, đánh số từ 1 đến 6 của phường Hàng Buồm cũ; 6 tổ dân phố, đánh số từ 1 đến 6 của phường Hàng Đào cũ; 6 tổ dân phố, đánh số từ 1 đến 6 của phường Hàng Gai cũ; 7 tổ dân phố, đánh số từ 1 đến 7 của phường Hàng Mã cũ; 5 tổ dân phố, đánh số từ 1 đến 5 của phường Lý Thái Tổ cũ; 7 tổ dân phố, đánh số từ 1 đến 7 của phường Cửa Đông cũ; một phần của tổ dân phố 1 của phường Cửa Nam cũ; 2 tổ dân phố: 1 và 2 của phường Điện Biên cũ; 9 tổ dân phố, đánh số từ 1 đến 9 của phường Đồng Xuân cũ; 6 tổ dân phố, đánh số từ 1 đến 6 của phường Hàng Bông cũ; 5 tổ dân phố, đánh số từ 1 đến 5 của phường Hàng Trống cũ; 2 tổ dân phố: 1, 2 và một phần của tổ dân phố 3 của phường Tràng Tiền cũ.</ref><ref>{{Chú thích web |title=Thông tư số 10/2022/TT-BTNMT ngày 29 tháng 9 năm 2022 của Bộ Tài nguyên và Môi trường về việc Ban hành Danh mục địa danh dân cư, sơn văn, thủy văn, kinh tế – xã hội phục vụ công tác thành lập bản đồ thành phố Hà Nội |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2022/10/10-btnmt.pdf |url-status=live |archive-url=https://web.archive.org/web/20260630400809/https://datafiles.chinhphu.vn/cpp/files/vbpq/2022/10/10-btnmt.pdf |archive-date=2026-06-30 |access-date=2026-06-30 |website=Cổng Thông tin điện tử Chính phủ}}</ref><ref>{{Chú thích web |last=Người Hoàn Kiếm – thành phố Hà Nội |date=2026-03-03 |title=Ủy ban bầu cử phường Hoàn Kiếm thông báo địa điểm các khu vực bỏ phiếu trên địa bàn phường |url=https://web.facebook.com/story.php?story_fbid=1237932858504655&id=100068638579469&rdid=6w3RiAvM7CyK0e1K# |url-status=dead |archive-url=https://web.archive.org/web/20260816400809/https://web.facebook.com/story.php?story_fbid=1237932858504655&id=100068638579469&rdid=6w3RiAvM7CyK0e1K# |archive-date=2026-08-16 |access-date=2026-08-16 |website=}}</ref>
+Ngày 28 tháng 8 năm 2025, ghép khu vực dân cư thuộc tổ dân phố 1 phường Cửa Nam (cũ) vào tổ dân phố 3 phường Hàng Bông (cũ); ghép khu vực dân cư thuộc tổ dân phố 3 phường Tràng Tiền (cũ) vào tổ dân phố 1 phường Tràng Tiền (cũ); đổi tên 72 tổ dân phố trên địa bàn phường Hoàn Kiếm lần lượt thành 72 tổ dân phố: Điện Biên 1, 2, Cửa Đông từ 1 đến 7, Đồng Xuân từ 1 đến 9, Hàng Bạc từ 1 đến 5, Hàng Bồ từ 1 đến 6, Hàng Buồm từ 1 đến 6, Hàng Đào từ 1 đến 6, Hàng Gai từ 1 đến 6, Hàng Mã từ 1 đến 7, Lý Thái Tổ từ 1 đến 5, Hàng Bông từ 1 đến 6, Hàng Trống từ 1 đến 5, Tràng Tiền 1 và 2.<ref>I. Thông qua phương án ghép khu vực dân cư vào các tổ dân phố hiện có, trong đó: 1. Ghép khu vực dân cư thuộc tổ dân phố số 1 phường Cửa Nam (cũ) vào tổ dân phố số 3 phường Hàng Bông (cũ); 2. Ghép khu vực dân cư thuộc tổ dân phố số 3 phường Tràng Tiền (cũ) vào tổ dân phố số 1 phường Tràng Tiền (cũ); II. Thông qua phương án đổi tên Tổ dân phố thuộc phường Hoàn Kiếm với nguyên tắc: Giữ nguyên số thứ tự của các tổ dân phố; thêm hậu tố tên phường theo địa giới hành chính cũ, cụ thể tên các Tổ dân phố mới sau đổi tên như sau: 1. Tổ dân phố số 1 phường Điện Biên thành Tổ dân phố Điện Biên 1; 2. Tổ dân phố số 2 phường Điện Biên thành Tổ dân phố Điện Biên 2; 3. Tổ dân phố số 1 phường Cửa Đông thành Tổ dân phố Cửa Đông 1; 4. Tổ dân phố số 2 phường Cửa Đông thành Tổ dân phố Cửa Đông 2; 5. Tổ dân phố số 3 phường Cửa Đông thành Tổ dân phố Cửa Đông 3; 6. Tổ dân phố số 4 phường Cửa Đông thành Tổ dân phố Cửa Đông 4; 7. Tổ dân phố số 5 phường Cửa Đông thành Tổ dân phố Cửa Đông 5; 8. Tổ dân phố số 6 phường Cửa Đông thành Tổ dân phố Cửa Đông 6; 9. Tổ dân phố số 7 phường Cửa Đông thành Tổ dân phố Cửa Đông 7; 10. Tổ dân phố số 1 phường Đồng Xuân thành Tổ dân phố Đồng Xuân 1; 11. Tổ dân phố số 2 phường Đồng Xuân thành Tổ dân phố Đồng Xuân 2; 12. Tổ dân phố số 3 phường Đồng Xuân thành Tổ dân phố Đồng Xuân 3; 13. Tổ dân phố số 4 phường Đồng Xuân thành Tổ dân phố Đồng Xuân 4; 14. Tổ dân phố số 5 phường Đồng Xuân thành Tổ dân phố Đồng Xuân 5; 15. Tổ dân phố số 6 phường Đồng Xuân thành Tổ dân phố Đồng Xuân 6; 16. Tổ dân phố số 7 phường Đồng Xuân thành Tổ dân phố Đồng Xuân 7; 17. Tổ dân phố số 8 phường Đồng Xuân thành Tổ dân phố Đồng Xuân 8; 18. Tổ dân phố số 9 phường Đồng Xuân thành Tổ dân phố Đồng Xuân 9; 19. Tổ dân phố số 1 phường Hàng Bạc thành Tổ dân phố Hàng Bạc 1; 20. Tổ dân phố số 2 phường Hàng Bạc thành Tổ dân phố Hàng Bạc 2; 21. Tổ dân phố số 3 phường Hàng Bạc thành Tổ dân phố Hàng Bạc 3; 22. Tổ dân phố số 4 phường Hàng Bạc thành Tổ dân phố Hàng Bạc 4; 23. Tổ dân phố số 5 phường Hàng Bạc thành Tổ dân phố Hàng Bạc 5; 24. Tổ dân phố số 1 phường Hàng Bồ thành Tổ dân phố Hàng Bồ 1; 25. Tổ dân phố số 2 phường Hàng Bồ thành Tổ dân phố Hàng Bồ 2; 26. Tổ dân phố số 3 phường Hàng Bồ thành Tổ dân phố Hàng Bồ 3; 27. Tổ dân phố số 4 phường Hàng Bồ thành Tổ dân phố Hàng Bồ 4; 28. Tổ dân phố số 5 phường Hàng Bồ thành Tổ dân phố Hàng Bồ 5; 29. Tổ dân phố số 6 phường Hàng Bồ thành Tổ dân phố Hàng Bồ 6; 30. Tổ dân phố số 1 phường Hàng Buồm thành Tổ dân phố Hàng Buồm 1; 31. Tổ dân phố số 2 phường Hàng Buồm thành Tổ dân phố Hàng Buồm 3; 32. Tổ dân phố số 3 phường Hàng Buồm thành Tổ dân phố Hàng Buồm 3; 33. Tổ dân phố số 4 phường Hàng Buồm thành Tổ dân phố Hàng Buồm 4; 34. Tổ dân phố số 5 phường Hàng Buồm thành Tổ dân phố Hàng Buồm 5; 35. Tổ dân phố số 6 phường Hàng Buồm thành Tổ dân phố Hàng Buồm 6; 36. Tổ dân phố số 1 phường Hàng Đào thành Tổ dân phố Hàng Đào 1; 37. Tổ dân phố số 2 phường Hàng Đào thành Tổ dân phố Hàng Đào 2; 38. Tổ dân phố số 3 phường Hàng Đào thành Tổ dân phố Hàng Đào 3; 39. Tổ dân phố số 4 phường Hàng Đào thành Tổ dân phố Hàng Đào 4; 40. Tổ dân phố số 5 phường Hàng Đào thành Tổ dân phố Hàng Đào 5; 41. Tổ dân phố số 6 phường Hàng Đào thành Tổ dân phố Hàng Đào 6; 42. Tổ dân phố số 1 phường Hàng Gai thành Tổ dân phố Hàng Gai 1; 43. Tổ dân phố số 2 phường Hàng Gai thành Tổ dân phố Hàng Gai 2; 44. Tổ dân phố số 3 phường Hàng Gai thành Tổ dân phố Hàng Gai 3; 45. Tổ dân phố số 4 phường Hàng Gai thành Tổ dân phố Hàng Gai 4; 46. Tổ dân phố số 5 phường Hàng Gai thành Tổ dân phố Hàng Gai 5; 47. Tổ dân phố số 6 phường Hàng Gai thành Tổ dân phố Hàng Gai 6; 48. Tổ dân phố số 1 phường Hàng Mã thành Tổ dân phố Hàng Mã 1; 49. Tổ dân phố số 2 phường Hàng Mã thành Tổ dân phố Hàng Mã 2; 50. Tổ dân phố số 3 phường Hàng Mã thành Tổ dân phố Hàng Mã 3; 51. Tổ dân phố số 4 phường Hàng Mã thành Tổ dân phố Hàng Mã 4; 52. Tổ dân phố số 5 phường Hàng Mã thành Tổ dân phố Hàng Mã 5; 53. Tổ dân phố số 6 phường Hàng Mã thành Tổ dân phố Hàng Mã 6; 54. Tổ dân phố số 7 phường Hàng Mã thành Tổ dân phố Hàng Mã 7; 55. Tổ dân phố số 1 phường Lý Thái Tổ thành Tổ dân phố Lý Thái Tổ 1; 56. Tổ dân phố số 2 phường Lý Thái Tổ thành Tổ dân phố Lý Thái Tổ 2; 57. Tổ dân phố số 3 phường Lý Thái Tổ thành Tổ dân phố Lý Thái Tổ 3; 58. Tổ dân phố số 4 phường Lý Thái Tổ thành Tổ dân phố Lý Thái Tổ 4; 59. Tổ dân phố số 5 phường Lý Thái Tổ thành Tổ dân phố Lý Thái Tổ 5; 60. Tổ dân phố số 1 phường Hàng Bông thành Tổ dân phố Hàng Bông 1; 61. Tổ dân phố số 2 phường Hàng Bông thành Tổ dân phố Hàng Bông 2; 62. Tổ dân phố số 3 phường Hàng Bông thành Tổ dân phố Hàng Bông 3; 63. Tổ dân phố số 4 phường Hàng Bông thành Tổ dân phố Hàng Bông 4; 64. Tổ dân phố số 5 phường Hàng Bông thành Tổ dân phố Hàng Bông 5; 65. Tổ dân phố số 6 phường Hàng Bông thành Tổ dân phố Hàng Bông 6; 66. Tổ dân phố số 1 phường Hàng Trống thành Tổ dân phố Hàng Trống 1; 67. Tổ dân phố số 2 phường Hàng Trống thành Tổ dân phố Hàng Trống 2; 68. Tổ dân phố số 3 phường Hàng Trống thành Tổ dân phố Hàng Trống 3; 69. Tổ dân phố số 4 phường Hàng Trống thành Tổ dân phố Hàng Trống 4; 70. Tổ dân phố số 5 phường Hàng Trống thành Tổ dân phố Hàng Trống 5; 71. Tổ dân phố số 1 phường Tràng Tiền thành Tổ dân phố Tràng Tiền 1; 72. Tổ dân phố số 2 phường Tràng Tiền thành Tổ dân phố Tràng Tiền 2.</ref><ref>{{Chú thích web |last= |date= |title=Nghị quyết số 70/NQ-HĐND ngày 28 tháng 8 năm 2025 của Hội đồng nhân dân phường Hoàn Kiếm về việc ghép và đổi tên tổ dân phố trên địa bàn phường Hoàn Kiếm |url=https://datafiles.hanoi.gov.vn/gov-hni/7257/VanBan/2025/9/16/NQ%20v%E1%BB%81%20vi%E1%BB%87c%20gh%C3%A9p%20v%C3%A0%20%C4%91%E1%BB%95i%20t%C3%AAn%20t%E1%BB%95%20d%C3%A2n%20ph%E1%BB%91.pdf |url-status=dead |archive-url=https://web.archive.org/web/20260815201510/https://datafiles.hanoi.gov.vn/gov-hni/7257/VanBan/2025/9/16/NQ%20v%E1%BB%81%20vi%E1%BB%87c%20gh%C3%A9p%20v%C3%A0%20%C4%91%E1%BB%95i%20t%C3%AAn%20t%E1%BB%95%20d%C3%A2n%20ph%E1%BB%91.pdf |archive-date=2026-08-15 |access-date=2026-08-15 |website=Trang Thông tin điện tử phường Hoàn Kiếm – thành phố Hà Nội}}</ref>
+
+Ngày 24 tháng 12 năm 2025, xác định phường Hoàn Kiếm là [[Đô thị Việt Nam|đô thị loại II]].<ref>Chuyển tiếp từ phường Điện Biên thuộc quận Ba Đình và 13 phường: Cửa Đông, Cửa Nam, Đồng Xuân, Hàng Bạc, Hàng Bông, Hàng Bồ, Hàng Buồm, Hàng Đào, Hàng Gai, Hàng Mã, Hàng Trống, Lý Thái Tổ, Tràng Tiền thuộc quận Hoàn Kiếm.</ref><ref>{{Chú thích web |title=Nghị quyết số 111/2025/UBTVQH15 ngày 24 tháng 12 năm 2025 của Ủy ban Thường vụ Quốc hội về phân loại đô thị |url=https://cdn.nhandan.vn/files/f4a4abf7f9a0ba4a91744616546d850872b76917f90d5a74cc9eebef1369fb6f/111.pdf |url-status=dead |archive-url=https://web.archive.org/web/20260430074852/https://cdn.nhandan.vn/files/f4a4abf7f9a0ba4a91744616546d850872b76917f90d5a74cc9eebef1369fb6f/111.pdf |archive-date=2026-04-30 |access-date=2026-07-12 |website=Báo Nhân dân}}</ref>
+
+Ngày 29 tháng 6 năm 2026, thành lập 28 tổ dân phố mới: Tràng Tiền, Lý Thái Tổ 1, 2, Hàng Bạc 1, 2, Hàng Buồm từ 1 đến 4, Đồng Xuân 1, 2, Hàng Mã từ 1 đến 3, Hàng Bồ 1, 2, Hàng Gai từ 1 đến 3, Hàng Trống 1, 2, Hàng Bông 1, 2, Cửa Đông từ 1 đến 3, Điện Biên và Hàng Đào.<ref>1. Tổ dân phố Tràng Tiền: Hình thành từ Tràng Tiền 1+2; 2. Tổ dân phố Lý Thái Tổ 1: Hình thành từ Lý Thái Tổ 1+2; 3. Tổ dân phố Lý Thái Tổ 2: Hình thành từ Lý Thái Tổ 3+4+5; 4. Tổ dân phố Hàng Bạc 1: Hình thành từ Hàng Bạc 4, một phần Hàng Bạc 3, 5, một phần Lý Thái Tổ 1, 2, 3; 5. Tổ dân phố Hàng Bạc 2: Hình thành từ Hàng Đào 4, Hàng Bạc 1+2, một phần Hàng Bạc 3, 5; 6. Tổ dân phố Hàng Buồm 1: Hình thành từ Hàng Buồm 4+6; 7. Tổ dân phố Hàng Buồm 2: Hình thành từ Hàng Buồm 2+3; 8. Tổ dân phố Hàng Buồm 3: Hình thành từ Hàng Buồm 2+5+6; 9. Tổ dân phố Hàng Buồm 4: Hình thành từ Hàng Buồm 1+6; 10. Tổ dân phố Đồng Xuân 1: Hình thành từ Đồng Xuân 1+2+3+8+9; 11. Tổ dân phố Đồng Xuân 2: Hình thành từ Đồng Xuân 4+5+6+7; 12. Tổ dân phố Hàng Mã 1: Hình thành từ Hàng Mã 1+2; 13. Tổ dân phố Hàng Mã 2: Hình thành từ Hàng Mã 3+4+7; 14. Tổ dân phố Hàng Mã 3: Hình thành từ Hàng Mã 5+6; 15. Tổ dân phố Hàng Bồ 1: Hình thành từ Hàng Bồ 1+2, một phần Hàng Bồ 3, một phần Hàng Đào cũ, một phần Hàng Mã cũ; 16. Tổ dân phố Hàng Bồ 2: Hình thành từ Hàng Bồ 5+6, một phần Hàng Bồ 3, 4, một phần Hàng Đào cũ; 17. Tổ dân phố Hàng Gai 1: Hình thành từ Hàng Gai 1+3+4, một phần Hàng Đào cũ; 18. Tổ dân phố Hàng Gai 2: Hình thành từ Hàng Gai 2+4+5, một phần Cửa Đông cũ, một phần Hàng Trống cũ; 19. Tổ dân phố Hàng Gai 3: Hình thành từ Hàng Gai 3+4+6, một phần Hàng Đào cũ, một phần Hàng Bồ cũ, một phần Cửa Đông cũ; 20. Tổ dân phố Hàng Trống 1: Hình thành từ Hàng Trống 1 và một phần Hàng Gai 1, một phần Hàng Trống 5; 21. Tổ dân phố Hàng Trống 2: Hình thành từ Hàng Trống 3+4 và một phần Hàng Trống 2, một phần Hàng Trống 5; 22. Tổ dân phố Hàng Bông 1: Hình thành từ Hàng Bông 1+2+3+4; 23. Tổ dân phố Hàng Bông 2: Hình thành từ Hàng Bông 1+2+3+5+6; 24. Tổ dân phố Cửa Đông 1: Hình thành từ Cửa Đông 3+4+5+6+7, một phần Hàng Bông 6; 25. Tổ dân phố Cửa Đông 2: Hình thành từ Cửa Đông 1+2, phần còn lại Cửa Đông 3, một phần Cửa Đông 7, một phần Hàng Bông 5; 26. Tổ dân phố Cửa Đông 3: Hình thành từ một phần Hàng Bồ 1+4, một phần Cửa Đông cũ, một phần Hàng Mã cũ; 27. Tổ dân phố Điện Biên: Hình thành từ Điện Biên 1+2, một phần Cửa Đông 1+2; 28. Tổ dân phố Hàng Đào: Hình thành từ Hàng Đào 1+2+3+4+5+6.</ref><ref name=":022">{{Chú thích web |last=Người Hoàn Kiếm – thành phố Hà Nội |date=2026-06-17 |title=Phường Hoàn Kiếm lấy ý kiến nhân dân về dự thảo đề án sắp xếp tổ dân phố từ ngày 15/6 đến ngày 21/6/2026 |url=https://web.facebook.com/100068638579469/posts/1326164719681468/?rdid=wWsWluRp4VpgbWAl# |url-status=dead |archive-url=https://web.archive.org/web/20260816400809/https://web.facebook.com/100068638579469/posts/1326164719681468/?rdid=wWsWluRp4VpgbWAl# |archive-date=2026-08-16 |access-date=2026-08-16 |website=}}</ref><ref name=":2">{{Chú thích web |last=Công Thọ |date=2026-07-01 |title=Phường Hoàn Kiếm công bố 28 tổ dân phố, chi bộ tổ dân phố sau sắp xếp |url=https://hanoimoi.vn/phuong-hoan-kiem-cong-bo-28-to-dan-pho-chi-bo-to-dan-pho-sau-sap-xep-1210157.html?gidzl=u_TA9edPfc_dw4uWWy6lREhjHIUObwbefkaI8CZ0hMZnvaDpbSxuFl3Y5NFDnAWzyhv9V35S7zbuZDYYRG |url-status=dead |archive-url=https://web.archive.org/web/20260816201510/https://hanoimoi.vn/phuong-hoan-kiem-cong-bo-28-to-dan-pho-chi-bo-to-dan-pho-sau-sap-xep-1210157.html?gidzl=u_TA9edPfc_dw4uWWy6lREhjHIUObwbefkaI8CZ0hMZnvaDpbSxuFl3Y5NFDnAWzyhv9V35S7zbuZDYYRG |archive-date=2026-08-16 |access-date=2026-08-16 |website=Cơ quan Báo và Phát thanh, truyền hình Hà Nội}}</ref>
+[[Tập tin:Bản đồ các tổ dân phố thuộc phường Hoàn Kiếm của thành phố Hà Nội.png|trái|nhỏ|242x242px|Bản đồ sắp xếp tổ dân phố phường Hoàn Kiếm của thành phố Hà Nội (từ ngày 1 tháng 7 năm 2026). Vị trí tổ dân phố Hàng Bồ 3 chính xác là tổ dân phố Cửa Đông 3.<ref>{{Chú thích web |last=Người Hoàn Kiếm – thành phố Hà Nội |date=2026-06-15 |title=Bản đồ dự kiến sắp xếp tổ dân phố phường Hoàn Kiếm (sắp xếp từ 72 tổ dân phố thành 28 tổ dân phố mới) |url=https://drive.google.com/file/d/1ufHlNMaBxNeX9gL5rcWI9AZ5uuKxM74T/view?zarsrc=1303 |url-status=dead |archive-url=https://web.archive.org/web/20260816201510/https://drive.google.com/file/d/1ufHlNMaBxNeX9gL5rcWI9AZ5uuKxM74T/view?zarsrc=1303 |archive-date=2026-08-16 |access-date=2026-08-16}}</ref>]]
+
+== Hành chính ==
+Phường Hoàn Kiếm được chia thành 28 tổ dân phố: Cửa Đông từ 1 đến 3, Điện Biên, Đồng Xuân 1, 2, Hàng Bạc 1, 2, Hàng Bông 1, 2, Hàng Bồ 1, 2, Hàng Buồm từ 1 đến 4, Hàng Đào, Hàng Gai từ 1 đến 3, Hàng Mã từ 1 đến 3, Hàng Trống 1, 2, Lý Thái Tổ 1, 2 và Tràng Tiền.<ref name=":022" /><ref name=":2" />
+{| class="wikitable sortable" cellpadding="0" cellspacing="6" width="100%" align="center" style="background: #f9f9f9; border: 1px #aaa solid; margin-top: 16px"
+! colspan="4" style="background: #E6E6FA; font-size: 95%;" |Danh sách các tổ dân phố thuộc phường Hoàn Kiếm<ref name=":022" /><ref name=":2" />
+|-
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| cellpadding="1" cellspacing="1" width="100%" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Cửa Đông 1
+|1.165
+|-
+| align="left" |Cửa Đông 2
+|1.116
+|-
+| align="left" |Cửa Đông 3
+|1.080
+|-
+| align="left" |Điện Biên
+|1.182
+|-
+| align="left" |Đồng Xuân 1
+|1.242
+|-
+| align="left" |Đồng Xuân 2
+|1.180
+|-
+| align="left" |Hàng Bạc 1
+|1.086
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| cellpadding="1" cellspacing="1" width="100%" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Hàng Bạc 2
+|1.232
+|-
+| align="left" |Hàng Bông 1
+|1.038
+|-
+| align="left" |Hàng Bông 2
+|1.257
+|-
+| align="left" |Hàng Bồ 1
+|1.033
+|-
+| align="left" |Hàng Bồ 2
+|1.172
+|-
+| align="left" |Hàng Buồm 1
+|1.269
+|-
+| align="left" |Hàng Buồm 2
+|1.026
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| cellpadding="1" cellspacing="1" width="100%" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Hàng Buồm 3
+|1.001
+|-
+| align="left" |Hàng Buồm 4
+|1.004
+|-
+| align="left" |Hàng Đào
+|1.004
+|-
+| align="left" |Hàng Gai 1
+|1.001
+|-
+| align="left" |Hàng Gai 2
+|1.094
+|-
+| align="left" |Hàng Gai 3
+|1.344
+|-
+| align="left" |Hàng Mã 1
+|1.100
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| cellpadding="1" cellspacing="1" width="100%" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Hàng Mã 2
+|1.049
+|-
+| align="left" |Hàng Mã 3
+|1.102
+|-
+| align="left" |Hàng Trống 1
+|1.352
+|-
+| align="left" |Hàng Trống 2
+|1.321
+|-
+| align="left" |Lý Thái Tổ 1
+|1.109
+|-
+| align="left" |Lý Thái Tổ 2
+|1.148
+|-
+| align="left" |Tràng Tiền
+|1.261
+|}
+|}
+
+== Trụ sở các cơ quan ==
+* '''Trụ sở Đảng ủy''' '''- UBND phường''': Số 126, phố Hàng Trống.<ref name=":0">Địa chỉ cũ: Số 126, phố Hàng Trống, phường Hàng Trống, quận Hoàn Kiếm</ref><ref name="trusomoi">{{Cite web |date=25 tháng 6 năm 2025|title=Thông báo về địa điểm trụ sở làm việc của 126 phường, xã sau sắp xếp thuộc phạm vi quản lý của thành phố Hà Nội|url=https://dcdn.dantri.com.vn/2025/06/25/tru-so-126-xa-phuong-cua-ha-noi-1750822481952.pdf|website=UBND TP Hà Nội}}</ref> 
+* '''Trung tâm phục vụ hành chính công''': Số 126, phố Hàng Trống.<ref name=":0" /><ref>{{Chú thích báo|url=https://ttpvhcc.hanoi.gov.vn/hoat-dong-cua-trung-tam/ha-noi-cong-khai-dia-diem-tiep-nhan-thu-tuc-hanh-chinh-thuoc-ubnd-126-xa-phuong-va-30-diem-tiep-nhan-cua-12-chi-nhanh-thuoc-trung-tam-phuc-vu-hanh-chinh-cong-thanh-pho-thong-tin-duong-day-nong-ho-tro-nguoi-dan-doanh-nghiep-2850250704103711121.htm|title=Hà Nội công khai địa điểm tiếp nhận thủ tục hành chính thuộc UBND 126 xã/phường và 30 điểm tiếp nhận của 12 Chi nhánh thuộc Trung tâm Phục vụ hành chính công Thành phố, thông tin đường dây nóng hỗ trợ người dân, doanh nghiệp|last=Trung tâm Phục vụ hành chính công thành phố Hà Nội}}{{Liên kết hỏng|date=2026-07-21 |bot=InternetArchiveBot }}</ref>
+* '''Công an phường''': Số 2, phố Cổ Tân.<ref>Địa chỉ cũ: Số 2, phố Cổ Tân, phường Tràng Tiền, quận Hoàn Kiếm</ref><ref>{{Chú thích báo|url=https://daibieunhandan.vn/danh-sach-126-tru-so-cong-an-cap-xa-thuoc-cong-an-tp-ha-noi-de-nguoi-dan-toi-lam-can-cuoc-dang-ky-xe-10378397.html|title=Danh sách 126 trụ sở Công an cấp xã thuộc Công an TP. Hà Nội để người dân tới làm căn cước, đăng ký xe|last=Báo Đại biểu Nhân dân|first=}}</ref>
+
+==Danh nhân==
+* '''[[Nguyễn Thanh Cầm]]''' (sinh năm 1975) là nữ chính trị gia nước Cộng hòa xã hội chủ nghĩa Việt Nam.
+* '''[[Nguyễn Hữu Ngọc]]''' (1918 – 2025) là một nhà nghiên cứu văn hóa, nhà văn, và dịch giả người Việt Nam.
+
+==Hình ảnh==
+<gallery>
+Trụ sở Công an phường Hoàn Kiếm, Hà Nội.jpg|Trụ sở Công an phường Hoàn Kiếm
+Nhà thờ lớn Hà Nội - NKS.jpg|[[Nhà thờ Lớn Hà Nội]]
+Đền Bà Kiệu, hồ Gươm, Hà Nội.jpeg|Đền Bà Kiệu
+Nem chua nuong.JPG|[[Nem chua rán]] Hàng Bông
+Bún chả Hàng Mành.jpg|[[Bún chả]] Hàng Mành
+Dong Xuan market.jpg|[[Chợ Đồng Xuân]]
+</gallery>
+
+== Chú thích ==
+{{tham khảo}}
+
+== Tham khảo ==
+{{sơ khai Hà Nội}}
+{{Đơn vị hành chính thuộc thành phố Hà Nội}}

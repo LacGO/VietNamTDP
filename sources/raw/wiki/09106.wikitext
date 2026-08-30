@@ -1,0 +1,63 @@
+{{Thông tin đơn vị hành chính Việt Nam |Xã
+| tên = Vĩnh Thành
+| vĩ độ = 21.27104612214039
+| kinh độ = 105.4762052523009
+| diện tích = 22,00 km²<ref name=MS/>
+| dân số = 35.020 người<ref name=MS/>
+| thời điểm dân số = 2025
+| mật độ dân số = {{formatnum:{{#expr:floor({{formatnum:35.020|R}}/{{formatnum:22,00|R}})}} }} người/km²
+| vùng = [[Đông Bắc Bộ]]
+| tỉnh = [[Phú Thọ]]
+|mã hành chính=09106<ref>{{Chú thích web |url=https://danhmuchanhchinh.gso.gov.vn/ |title=Tổng cục Thống kê |access-date=2022-04-10 |archive-date=2021-01-10 |archive-url=https://web.archive.org/web/20210110034519/https://www.gso.gov.vn/phuong-phap-thong-ke/danh-muc/don-vi-hanh-chinh/ |url-status=dead }}</ref>
+|trụ sở UBND=Thôn Trung
+|thành lập=16 tháng 6 năm 2025<ref>Nghị quyết số 1676/NQ-UBTVQH15</ref>
+|mã bưu chính=15637
+|web={{url|vinhthanh.phutho.gov.vn}}
+}}
+{{other|Vĩnh Thành (định hướng)}}
+'''Vĩnh Thành''' là một [[Xã (Việt Nam)|xã]] thuộc tỉnh [[Phú Thọ]], [[Việt Nam]].
+
+== Địa lý ==
+Xã Vĩnh Thành nằm ở phía trung tâm tỉnh [[Phú Thọ]], có vị trí địa lý<ref>{{Chú thích web |title=Đơn vị hành chính Việt Nam |url=https://sapnhap.bando.com.vn/ |access-date=2026-07-11 |website=sapnhap.bando.com.vn}}</ref>:
+
+* Phía Bắc giáp xã [[Sơn Đông (xã)|Sơn Đông]].
+* Phía Nam giáp xã [[Minh Châu, Hà Nội|Minh Châu]], thành phố [[Hà Nội]] và xã [[Vĩnh Phú (xã)|Vĩnh Phú]].
+* Phía Tây giáp xã [[Cổ Đô]], xã [[Vật Lại]], thành phố [[Hà Nội]] với ranh giới là [[sông Hồng]] và phường [[Thanh Miếu]].
+* Phía Đông giáp xã [[Vĩnh Hưng, Phú Thọ|Vĩnh Hưng]] và xã [[Thổ Tang]].
+
+Xã có diện tích 22,00&nbsp;km², dân số năm 2025 là 35.020 người, mật độ dân số đạt {{formatnum:{{#expr:floor({{formatnum:35.020|R}}/{{formatnum:22,00|R}})}} }} người/km².
+
+== Hành chính ==
+Xã Vĩnh Thành được chia thành 22 thôn: Bàn Giang, Bàn Mạch, Bình Trù, Cao Xá, Chùa, Dẫn Tự, Diệm Xuân, Đan Thượng, Đại Định, Đình, Đông, Đồi, Đồng Phú, Hòa Lạc, Loan, Mới, Nam, Phượng Lâu, Trung, Việt An, Việt Hưng, Yên Xuyên.<ref>{{Chú thích web |last=Ủy ban bầu cử xã Vĩnh Thành |date=2026-02-24 |title=Nghị quyết số 2/NQ-UBBC về việc công bố danh sách những người ứng cử đại biểu Hội đồng nhân dân xã Vĩnh Thành, nhiệm kỳ 2026 - 2031 theo từng đơn vị bầu cử |url=https://web.facebook.com/share/p/18pmHhf5cJ/ |url-status=live |archive-url=https://web.archive.org/web/20260426090807/https://web.facebook.com/share/p/18pmHhf5cJ/ |archive-date=2026-04-26 |access-date=2026-04-26 |website=Vĩnh Thành: Hội nhập và Phát triển - tỉnh Phú Thọ}}</ref>
+
+== Lịch sử ==
+Trước kia, địa bàn xã Vĩnh Thành ngày nay là địa bàn của các xã Sao Đại Việt, Lũng Hòa và Tân Phú thuộc huyện [[Vĩnh Tường (huyện)|Vĩnh Tường]], tỉnh [[Vĩnh Phúc (tỉnh)|Vĩnh Phúc]] cũ.
+
+Đến năm [[2019]]:
+
+* Xã Tân Cương có diện tích 2,32&nbsp;km², dân số là 3.647 người, mật độ dân số đạt 1.572 người/km², có 3 thôn: Dẫn Tự, Hòa Lạc, Đồng Phú.
+* Xã Phú Thịnh có diện tích 2,04&nbsp;km², dân số là 3.597 người, mật độ dân số đạt 1.763 người/km², có 4 thôn: Bàn Mạch, Đan Thượng (nằm trong đê) và Yên Xuyên, Bàn Giang (nằm ngoài đê).
+
+Ngày [[10 tháng 1]] năm [[2020]], [[Ủy ban Thường vụ Quốc hội]] ban hành Nghị quyết số 868/NQ-UBTVQH14 về việc sắp xếp các đơn vị hành chính cấp xã thuộc tỉnh Vĩnh Phúc (nghị quyết có hiệu lực từ ngày [[1 tháng 2]] năm [[2020]]). Theo đó, sáp nhập toàn bộ diện tích và dân số của hai xã Tân Cương và Phú Thịnh thành xã Tân Phú.
+
+Ngày [[14 tháng 11]] năm [[2024]], Ủy ban Thường vụ Quốc hội ban hành Nghị quyết 1287/NQ-UBTVQH15 về việc sắp xếp đơn vị hành chính cấp xã của tỉnh Vĩnh Phúc giai đoạn 2023 – 2025 (nghị quyết có hiệu lực từ ngày [[1 tháng 1]] năm [[2025]]).<ref>{{Chú thích web |title=Nghị quyết số 1287/NQ-UBTVQH15 của UBTVQH Về việc sắp xếp đơn vị hành chính cấp xã của tỉnh Vĩnh Phúc giai đoạn 2023 – 2025 |url=https://quochoi.vn/tintuc/Pages/tin-hoat-dong-cua-quoc-hoi.aspx?ItemID=91157 |access-date=2026-06-24 |website=Cổng Thông tin điện tử Quốc hội|date=2024-11-21|archive-url=https://web.archive.org/web/20260713212545/https://quochoi.vn/tintuc/Pages/tin-hoat-dong-cua-quoc-hoi.aspx%3FItemID%3D91157|archive-date=2026-07-13|url-status=live}}</ref> Theo đó, sáp nhập toàn bộ diện tích và dân số của ba xã Việt Xuân, Bồ Sao và Cao Đại thành xã Sao Đại Việt.
+
+Ngày [[12 tháng 6]] năm [[2025]], [[Quốc hội Việt Nam|Quốc hội]] ban hành Nghị quyết số 202/2025/QH15 về việc sắp xếp đơn vị hành chính cấp tỉnh (nghị quyết có hiệu lực từ ngày [[12 tháng 6]] năm [[2025]]).<ref>{{Chú thích web |last=xaydungchinhsach.chinhphu.vn|date=2025-07-16|title=TOÀN VĂN: Nghị quyết số 202/2025/QH15 về sắp xếp đơn vị hành chính cấp tỉnh|url=https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-202-2025-qh15-ve-sap-xep-don-vi-hanh-chinh-cap-tinh-119250612174148722.htm|url-status=live|archive-url=http://web.archive.org/web/20260705025431/https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-202-2025-qh15-ve-sap-xep-don-vi-hanh-chinh-cap-tinh-119250612174148722.htm|archive-date=2026-07-05|access-date=2026-07-25|website=Báo Điện tử Chính phủ|language=vi}}</ref> Theo đó, sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của tỉnh [[Vĩnh Phúc (tỉnh)|Vĩnh Phúc]], tỉnh [[Hòa Bình (tỉnh)|Hòa Bình]] và tỉnh [[Phú Thọ]] thành tỉnh mới có tên gọi là tỉnh '''Phú Thọ'''.
+
+Ngày [[16 tháng 6]] năm [[2025]]:
+
+* Quốc hội ban hành Nghị quyết số 203/2025/QH15 về việc sửa đổi, bổ sung một số điều của Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam (nghị quyết có hiệu lực từ ngày [[16 tháng 6]] năm [[2025]]).<ref>{{Chú thích web |last=xaydungchinhsach.chinhphu.vn|date=2025-06-28|title=NGHỊ QUYẾT 203/2025/QH15 SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA HIẾN PHÁP NƯỚC CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM|url=https://xaydungchinhsach.chinhphu.vn/nghi-quyet-203-2025-qh15-sua-doi-bo-sung-mot-so-dieu-cua-hien-phap-nuoc-cong-hoa-xa-hoi-chu-nghia-viet-nam-119250616181735552.htm|url-status=live|archive-url=http://web.archive.org/web/20260715200606/https://xaydungchinhsach.chinhphu.vn/nghi-quyet-203-2025-qh15-sua-doi-bo-sung-mot-so-dieu-cua-hien-phap-nuoc-cong-hoa-xa-hoi-chu-nghia-viet-nam-119250616181735552.htm|archive-date=2026-07-15|access-date=2026-07-15|website=Báo Điện tử Chính phủ|language=vi}}</ref> Theo đó, kết thúc hoạt động của đơn vị hành chính cấp huyện trong cả nước từ ngày 1 tháng 7 năm 2025.
+
+* Ủy ban Thường vụ Quốc hội ban hành Nghị quyết số 1676/NQ-UBTVQH15 về việc sắp xếp đơn vị hành chính cấp xã của tỉnh [[Phú Thọ]] năm 2025 (nghị quyết có hiệu lực từ ngày [[16 tháng 6]] năm [[2025]]).<ref>{{Chú thích web |last=xaydungchinhsach.chinhphu.vn|date=2025-06-20|title=Nghị quyết số 1676/NQ-UBTVQH15 sắp xếp các ĐVHC cấp xã của tỉnh Phú Thọ năm 2025|url=https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-1676-nq-ubtvqh15-sap-xep-cac-dvhc-cap-xa-cua-tinh-phu-tho-nam-2025-119250616204317326.htm|url-status=live|archive-url=http://web.archive.org/web/20260725082021/https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-1676-nq-ubtvqh15-sap-xep-cac-dvhc-cap-xa-cua-tinh-phu-tho-nam-2025-119250616204317326.htm|archive-date=2026-07-25|access-date=2026-07-25|website=Báo Điện tử Chính phủ|language=vi}}</ref> Theo đó, sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của các xã Sao Đại Việt, Lũng Hòa và Tân Phú (huyện [[Vĩnh Tường (huyện)|Vĩnh Tường]]) thành xã mới có tên gọi là '''xã Vĩnh Thành'''.
+
+==Danh nhân==
+* [[Khổng Thị Hằng]] (năm 1993) là cầu thủ bóng đá chơi ở vị trí [[thủ môn]] cho [[Câu lạc bộ bóng đá nữ Than Khoáng Sản Việt Nam|Than Khoáng sản Việt Nam]] và đội tuyển Việt Nam.
+* [[Lê Ngọc Trinh]] (20 - 43) là một nữ tướng thời [[Hai Bà Trưng]] trong lịch sử Việt Nam.
+* [[Nguyễn Viết Nhung]] (năm 1962) là một bác sĩ chuyên ngành lao và các bệnh về phổi người Việt Nam, nguyên giám đốc Bệnh viện Phổi Trung ương, Trưởng ban điều hành Chương trình Chống lao Quốc gia.
+
+==Chú thích==
+{{tham khảo|30em}}
+
+== Tham khảo ==
+{{sơ khai Phú Thọ}}
+{{Đơn vị hành chính thuộc tỉnh Phú Thọ}}

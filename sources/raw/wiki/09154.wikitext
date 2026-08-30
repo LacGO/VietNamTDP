@@ -1,0 +1,73 @@
+{{Thông tin đơn vị hành chính Việt Nam | Xã
+| tên = Vĩnh Phú
+| hình = 
+| ghi chú hình = 
+| vĩ độ = 21.1751792707511
+| kinh độ = 105.51646522232231
+| diện tích = 34,60 km²<ref name=MS/>
+| dân số = 49.755 người<ref name=MS/>
+| thời điểm dân số = 2025
+| mật độ dân số = {{formatnum:{{#expr:floor({{formatnum:49.755|R}}/{{formatnum:34,60|R}})}} }} người/km²
+| vùng = [[Đông Bắc Bộ]]
+| tỉnh = [[Phú Thọ]]
+| thành lập =1 tháng 7 năm 2025<ref>Nghị quyết số 1287/NQ-UBTVQH15</ref> 
+| trụ sở UBND =Thôn An Lão 
+| mã hành chính = 09154<ref>{{Chú thích web |url=https://danhmuchanhchinh.gso.gov.vn/ |title=Tổng cục Thống kê |access-date=2022-04-10 |archive-date=2021-01-10 |archive-url=https://web.archive.org/web/20210110034519/https://www.gso.gov.vn/phuong-phap-thong-ke/danh-muc/don-vi-hanh-chinh/ |url-status=dead }}</ref>
+| mã bưu chính =15631 
+|web={{url|vinhphu.phutho.gov.vn}}
+}}
+{{other|Vĩnh Phú (định hướng)}}
+'''Vĩnh Phú''' là một [[Xã (Việt Nam)|xã]] thuộc tỉnh [[Phú Thọ]], [[Việt Nam]].
+
+==Địa lý==
+Xã Vĩnh Phú nằm ở phía trung tâm tỉnh [[Phú Thọ]], có vị trí địa lý<ref>{{Chú thích web |title=Đơn vị hành chính Việt Nam |url=https://sapnhap.bando.com.vn/ |access-date=2026-07-02 |website=sapnhap.bando.com.vn}}</ref>:
+*Phía đông giáp xã [[Minh Châu, Hà Nội|Minh Châu]], thành phố [[Hà Nội]].
+*Phía tây giáp xã [[Tam Hồng]] và xã [[Liên Châu]]. 
+*Phía nam giáp phường [[Sơn Tây (phường)|Sơn Tây]], xã [[Quảng Oai (xã)|Quảng Oai]] và xã [[Phúc Lộc, Hà Nội|Phúc Lộc]], thành phố [[Hà Nội]] với ranh giới là [[sông Hồng]].
+*Phía bắc giáp xã [[Vĩnh Thành, Phú Thọ|Vĩnh Thành]], xã [[Thổ Tang]] và [[Vĩnh Tường, Phú Thọ|Vĩnh Tường]].
+
+Xã có diện tích 34,60&nbsp;km², dân số năm 2025 là 49.755 người, mật độ dân số đạt {{formatnum:{{#expr:floor({{formatnum:49.755|R}}/{{formatnum:34,60|R}})}} }} người/km².<ref>{{Chú thích web |title=Xã Vĩnh Phú, Tỉnh Phú Thọ mới sáp nhập 2026 |url=https://tinhthanhvn.com/province/phu-tho/xa-vinh-phu |access-date=2026-07-02 |website=Tỉnh Thành Việt Nam |language=vi}}</ref>
+
+==Hành chính==
+Xã Vĩnh Phú được chia thành 44 thôn: An Hạ, An Lão, An Lão Ngược, An Lão Xuôi, An Thọ, An Thượng, Bảo Trưng, Bàn Mạch, Bích Chu, Cam Giá, Cẩm Vực, Chung 1, Chung 2, Chùa, Dầu, Duy Bình, Đông (xã Ngũ Kiên cũ), Đông (xã Phú Đa cũ), Gồ, Hậu Lộc, Hệ, Hoàng Xá, Hồi Cương, Khách Nhi, Khách Nhi Ngược, Khách Nhi Xuôi, Kim Đê, Kim Xa, Liễu, Môn Tri, Mới, Tam Đinh, Tân An, Thủ Độ, Thượng (xã Ngũ Kiên cũ), Thượng (xã Phú Đa cũ), Trại Tri, Trung, Văn Hà, Vân Giang, Ven, Xám, Xuân Chiểu, Yên Định.<ref>{{Chú thích web |last=Tuổi trẻ xã Vĩnh Phú, tỉnh Phú Thọ |date=2026-02-22 |title=Các đơn vị bầu cử và khu vực bỏ phiếu trên địa bàn xã Vĩnh Phú đã được phân chia cụ thể |url=https://web.facebook.com/reel/862546683503945 |url-status=live |archive-url=https://web.archive.org/web/20260426090807/https://web.facebook.com/reel/862546683503945 |archive-date=2026-04-26 |access-date=2026-04-26}}</ref>
+== Lịch sử ==
+Trước kia, Vĩnh Phú là một xã thuộc huyện [[Vĩnh Tường (huyện)|Vĩnh Tường]], tỉnh [[Vĩnh Phúc (tỉnh)|Vĩnh Phúc]] cũ.
+
+Ngày [[14 tháng 11]] năm [[2024]], [[Ủy ban Thường vụ Quốc hội]] ban hành Nghị quyết số 1287/NQ-UBTVQH15 về việc sắp xếp đơn vị hành chính cấp xã của tỉnh Vĩnh Phúc giai đoạn 2023 – 2025 (nghị quyết có hiệu lực từ ngày [[1 tháng 1]] năm [[2025]])<ref>{{Chú thích web |title=Nghị quyết số 1287/NQ-UBTVQH15 của UBTVQH Về việc sắp xếp đơn vị hành chính cấp xã của tỉnh Vĩnh Phúc giai đoạn 2023 – 2025 |url=https://quochoi.vn/tintuc/Pages/tin-hoat-dong-cua-quoc-hoi.aspx?ItemID=91157 |access-date=2026-06-24 |website=Cổng Thông tin điện tử Quốc hội}}</ref>. Theo đó:
+
+* Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của xã Lý Nhân và xã An Tường thành xã An Nhân.
+* Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của xã Vĩnh Nhân và xã Phú Đa thành xã Vĩnh Phú.
+Đến năm [[2024]], xã Vĩnh Thịnh được chia thành các thôn: Khách Nhi Làng, Khách Nhi Trại, Muôn Trì Làng, Muôn Trì Trại, Xóm Đông, Xóm Ngược Hoàng Xá, Xóm Đình, Hệ Thôn, An Thượng, An Hạ, Xóm Liễu, An Lão.
+
+Ngày [[12 tháng 6]] năm [[2025]], [[Quốc hội Việt Nam|Quốc hội]] ban hành Nghị quyết số 202/2025/QH15 về việc sắp xếp đơn vị hành chính cấp tỉnh (nghị quyết có hiệu lực từ ngày [[12 tháng 6]] năm [[2025]]).<ref>{{Chú thích web |last=xaydungchinhsach.chinhphu.vn|date=2025-07-16|title=TOÀN VĂN: Nghị quyết số 202/2025/QH15 về sắp xếp đơn vị hành chính cấp tỉnh|url=https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-202-2025-qh15-ve-sap-xep-don-vi-hanh-chinh-cap-tinh-119250612174148722.htm|url-status=live|archive-url=http://web.archive.org/web/20260705025431/https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-202-2025-qh15-ve-sap-xep-don-vi-hanh-chinh-cap-tinh-119250612174148722.htm|archive-date=2026-07-05|access-date=2026-07-25|website=Báo Điện tử Chính phủ|language=vi}}</ref> Theo đó, sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của tỉnh [[Vĩnh Phúc (tỉnh)|Vĩnh Phúc]], tỉnh [[Hòa Bình (tỉnh)|Hòa Bình]] và tỉnh [[Phú Thọ]] thành tỉnh mới có tên gọi là tỉnh '''Phú Thọ'''.
+
+Ngày [[16 tháng 6]] năm [[2025]]:
+
+* Quốc hội ban hành Nghị quyết số 203/2025/QH15 về việc sửa đổi, bổ sung một số điều của Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam (nghị quyết có hiệu lực từ ngày [[16 tháng 6]] năm [[2025]]).<ref>{{Chú thích web |last=xaydungchinhsach.chinhphu.vn|date=2025-06-28|title=NGHỊ QUYẾT 203/2025/QH15 SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA HIẾN PHÁP NƯỚC CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM|url=https://xaydungchinhsach.chinhphu.vn/nghi-quyet-203-2025-qh15-sua-doi-bo-sung-mot-so-dieu-cua-hien-phap-nuoc-cong-hoa-xa-hoi-chu-nghia-viet-nam-119250616181735552.htm|url-status=live|archive-url=http://web.archive.org/web/20260715200606/https://xaydungchinhsach.chinhphu.vn/nghi-quyet-203-2025-qh15-sua-doi-bo-sung-mot-so-dieu-cua-hien-phap-nuoc-cong-hoa-xa-hoi-chu-nghia-viet-nam-119250616181735552.htm|archive-date=2026-07-15|access-date=2026-07-15|website=Báo Điện tử Chính phủ|language=vi}}</ref> Theo đó, kết thúc hoạt động của đơn vị hành chính cấp huyện trong cả nước từ ngày 1 tháng 7 năm 2025.
+
+* Ủy ban Thường vụ Quốc hội ban hành Nghị quyết số 1676/NQ-UBTVQH15 về việc sắp xếp đơn vị hành chính cấp xã của tỉnh [[Phú Thọ]] năm 2025 (nghị quyết có hiệu lực từ ngày [[16 tháng 6]] năm [[2025]]).<ref>{{Chú thích web |last=xaydungchinhsach.chinhphu.vn|date=2025-06-20|title=Nghị quyết số 1676/NQ-UBTVQH15 sắp xếp các ĐVHC cấp xã của tỉnh Phú Thọ năm 2025|url=https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-1676-nq-ubtvqh15-sap-xep-cac-dvhc-cap-xa-cua-tinh-phu-tho-nam-2025-119250616204317326.htm|url-status=live|archive-url=http://web.archive.org/web/20260725082021/https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-1676-nq-ubtvqh15-sap-xep-cac-dvhc-cap-xa-cua-tinh-phu-tho-nam-2025-119250616204317326.htm|archive-date=2026-07-25|access-date=2026-07-25|website=Báo Điện tử Chính phủ|language=vi}}</ref> Theo đó, sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của các xã An Nhân, Vĩnh Thịnh, Ngũ Kiên và Vĩnh Phú (huyện [[Vĩnh Tường (huyện)|Vĩnh Tường]]) thành xã mới có tên gọi là '''xã Vĩnh Phú'''.
+
+== Di tích ==
+Đình Bích Chu, Đình Cam Giá và Đình Thủ Độ nằm tại xã là di tích lịch sử đã được xếp hạng quốc gia.
+
+== Kinh tế &#x2013; xã hội ==
+Vĩnh Phú là xã có dòng Sông Hồng chảy qua nên đất là đất bãi bồi tương đối màu mỡ rất thuận lợi cho giao thông đường thủy và phát triển [[nông nghiệp]] đặc biệt là canh tác các loại [[Hoa màu|cây hoa màu]]. Thôn Cam Giá và Kim Đê có diện tích đất canh tác lớn nên thuận lợi phát triển nông nghiệp.
+
+Hai thôn còn lại do gần chợ Vòng và người dân có nghề mộc truyền thống lâu đời nên phát triển mạnh tiểu thủ công nghiệp. Các làng nghề mộc Thủ Độ, An Tường, Bích Chu... một thời nổi tiếng khắp trong Nam ngoài Bắc.
+
+Là xã thuần nông, nhân dân chủ yếu sống bằng nghề trồng trọt và chăn nuôi. Từ năm 2010 nhân dân có phong trào làm kinh tế trang trại và chăn nuôi bò sữa.{{fact|Trong những năm gần đây, kinh tế của xã cơ bản phát triển tốt. Đồng thời giáo dục và y tế cũng đã có tiến bộ, áp dụng các thành tựu của khoa học một cách hợp lí và hiệu quả.}}
+
+== Giao thông ==
+[[Cầu Vĩnh Thịnh]] nằm trên [[Quốc lộ 2|quốc lộ 2C]] thuộc tuyến đường [[Dự án đường vành đai 5 Hà Nội|vành đai 5]] giúp kết nối xã với phường [[Sơn Tây (thị xã)|Sơn Tây]], thành phố [[Hà Nội]].
+
+== Danh nhân ==
+
+* '''[[Nguyễn Viết Xuân]]''' (1933 &ndash; 1964): Là một [[chiến sĩ]] của [[Việt Nam Dân chủ Cộng hòa]], được biết đến nhiều qua khẩu hiệu "Nhằm thẳng quân thù! Bắn!" trong [[Chiến tranh Việt Nam]].
+* '''[[Trịnh Văn Quyết]]''' (sinh năm 1975) hiện là [[Chủ tịch hội đồng quản trị|Chủ tịch Hội đồng quản trị]] [[Tập đoàn FLC|Công ty Cổ phần Tập đoàn FLC]] kiêm Chủ tịch hãng hàng không [[Bamboo Airways]].
+
+==Chú thích==
+{{tham khảo}}
+
+== Tham khảo ==
+{{sơ khai Phú Thọ}}
+{{Đơn vị hành chính thuộc tỉnh Phú Thọ}}

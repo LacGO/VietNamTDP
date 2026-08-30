@@ -1,0 +1,193 @@
+{{Thông tin đơn vị hành chính Việt Nam
+| tên = Long Biên
+| logo = 
+| cỡ logo = 
+| hình = 
+| nhiều hình = {{CSS image crop | Image = Biểu trưng quận Long Biên.svg | bSize = 140 | cWidth = 140 | cHeight = 90 | oTop = 0 | oLeft = 0 | Location = center}} Biểu trưng [[File:Long Bien mall view of Long Bien district in 2016 02.jpg| 280px]]
+| ghi chú hình = Trung tâm mua sắm Aeon Mall tại phường Long Biên
+| vĩ độ = 21.023899715913178
+| kinh độ = 105.88918275466641
+| bản đồ 1 = {{maplink|frame=yes|plain=yes|type=shape|frame-width=280|frame-align=center|stroke-width=3}}
+| diện tích = 19,04 km²
+| dân số = 62.887 người
+| thời điểm dân số = 2024
+| mật độ dân số = {{formatnum:{{#expr:floor({{formatnum:62.887| R}}/{{formatnum:19,04| R}})}} }} người/km²
+| vùng = [[Đồng bằng sông Hồng]]
+| thành phố = [[Hà Nội]]
+| thành lập = 
+| trụ sở UBND = Số 199 đường Bát Khối<ref>{{Chú thích web |url=https://storage-vnportal.vnpt.vn/gov-hni/6244/VanBan/2025/6/25/TB-729-2025.pdf |title=Thông báo số 729/TB-UBND ngày 25 tháng 6 năm 2025 của Ủy ban nhân dân thành phố Hà Nội về địa điểm trụ sở làm việc của 126 phường, xã sau sắp xếp thuộc phạm vi quản lý của thành phố Hà Nội|access-date=2026-06-15 |archive-date=2026-06-15 |archive-url=https://web.archive.org/web/20260615034519/https://storage-vnportal.vnpt.vn/gov-hni/6244/VanBan/2025/6/25/TB-729-2025.pdf |url-status=dead | website = Cổng Thông tin điện tử Ủy ban nhân dân thành phố Hà Nội}}</ref> 
+| mã hành chính =00145<ref>{{Chú thích web |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/19ttg.signed.pdf |title=Quyết định số 19/2025/QĐ-TTg ngày 30 tháng 6 năm 2025 của Thủ tướng Chính phủ về việc Ban hành Bảng danh mục và mã số các đơn vị hành chính Việt Nam |access-date=2026-06-15 |archive-date=2026-06-15 |archive-url=https://web.archive.org/web/20260615034519/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/19ttg.signed.pdf |url-status=dead | website = Cổng Thông tin điện tử Chính phủ}}</ref> 
+| mã bưu chính = 
+| web = {{url|longbien.hanoi.gov.vn}}
+|Phường|trụ sở Đảng ủy=Số 195 đường Thạch Bàn}}{{other|Long Biên (định hướng)}}
+'''Long Biên''' là một [[phường (Việt Nam)|phường]] thuộc thành phố [[Hà Nội]], [[Việt Nam]].
+
+== Địa lý== 
+Phường Long Biên có vị trí địa lý: 
+* Phía đông giáp xã [[Gia Lâm, Hà Nội|Gia Lâm]] và xã [[Bát Tràng]] (ranh giới đi theo [[Đường vành đai 3 (Hà Nội)|đường CT37]]).
+* Phía tây giáp phường [[Bồ Đề (phường)|Bồ Đề]] và phường [[Hồng Hà (phường)|Hồng Hà]] (ranh giới đường giao thông quy hoạch – đi theo [[sông Hồng]])
+* Phía nam giáp phường [[Lĩnh Nam (phường)|Lĩnh Nam]] (ranh giới đi theo [[sông Hồng]])
+* Phía bắc giáp phường [[Việt Hưng, Hà Nội|Việt Hưng]] và và phường [[Phúc Lợi (phường)|Phúc Lợi]] (ranh giới đi theo đường [[Quốc lộ 5]]).<ref>{{Chú thích web |last=Báo Điện tử Chính phủ |date=2025-04-28 |title=Chi tiết dự thảo phương án sắp xếp các phường của Hà Nội |url=https://xaydungchinhsach.chinhphu.vn/chi-tiet-du-thao-phuong-an-sap-xep-cac-phuong-cua-ha-noi-119250421100531902.htm |url-status=bot: unknown |archive-url=https://web.archive.org/web/20260316174230/https://xaydungchinhsach.chinhphu.vn/chi-tiet-du-thao-phuong-an-sap-xep-cac-phuong-cua-ha-noi-119250421100531902.htm |archive-date=2026-03-16 |access-date=2026-07-10 |website=Xây dựng chính sách, pháp luật }}</ref><ref>{{Chú thích web |last=Báo Tin tức và Dân tộc – Thông tấn xã Việt Nam|date=2025-07-01|title=126 bản đồ địa giới hành chính của Hà Nội sau sáp nhập|url=https://baotintuc.vn/anh/126-ban-do-dia-gioi-hanh-chinh-cua-ha-noi-sau-sap-nhap-20250701143216649.htm|url-status=dead|archive-url=https://web.archive.org/web/20260723401509/https://baotintuc.vn/anh/126-ban-do-dia-gioi-hanh-chinh-cua-ha-noi-sau-sap-nhap-20250701143216649.htm|archive-date=2026-07-23|access-date=2026-07-23}}</ref><ref>{{Chú thích web |last=Viện nghiên cứu Phát triển kinh tế – xã hội Hà Nội|date=2025-07-02|title=Phường Long Biên: Những thông tin chi tiết sau sắp xếp|url=https://hanoionline.vn/phuong-long-bien-nhung-thong-tin-chi-tiet-sau-sap-xep-343925.htm|url-status=live|archive-url=https://web.archive.org/web/20260701400809/https://hanoionline.vn/phuong-long-bien-nhung-thong-tin-chi-tiet-sau-sap-xep-343925.htm|archive-date=2026-07-01|access-date=2026-07-01|website=Cơ quan Báo và Phát thanh Truyền hình Hà Nội}}</ref>
+Phường Long Biên có diện tích tự nhiên là 19,04 km<sup>2</sup>, quy mô dân số năm 2025 là 62.887 người và mật độ dân số đạt 3.302 người/km<sup>2</sup>.<ref>{{Chú thích web|last=Mai Hữu|date=2026-04-05|title=Hà Nội: Chi tiết phương án tổng thể sắp xếp đơn vị hành chính cấp xã|url=https://hanoimoi.vn/ha-noi-chi-tiet-phuong-an-tong-the-sap-xep-don-vi-hanh-chinh-cap-xa-700278.html|url-status=bot: unknown|archive-url=https://web.archive.org/web/20250710163328/https://hanoimoi.vn/ha-noi-chi-tiet-phuong-an-tong-the-sap-xep-don-vi-hanh-chinh-cap-xa-700278.html|archive-date=2025-07-10|access-date=2026-07-08|website=Cơ quan Báo và Phát thanh, truyền hình Hà Nội}}</ref><ref>Công văn số 2896/BNV-CQĐP ngày 27 tháng 5 năm 2025 của Bộ Nội vụ về việc cung cấp thông tin danh mục dự kiến đơn vị hành chính cấp xã mới.</ref>
+
+== Lịch sử==
+
+=== Trước năm 1976 ===
+
+=== Giai đoạn 1976 – nay ===
+Sau ngày 2 tháng 7 năm 1976, thị trấn Gia Lâm và 6 xã: Bồ Đề, Cự Khối, Đông Dư, Gia Thụy, Long Biên, Thạch Bàn thuộc huyện [[Gia Lâm (huyện)|Gia Lâm]] của thành phố [[Hà Nội]].
+
+Ngày 6 tháng 11 năm 2003:
+
+* Tách toàn bộ diện tích tự nhiên và dân số của các xã: Gia Thụy, Bồ Đề, Long Biên, Thạch Bàn, Cự Khối và thị trấn Gia Lâm thuộc huyện [[Gia Lâm (huyện)|Gia Lâm]] về quận [[Long Biên (quận)|Long Biên]] mới thành lập.
+* Thành lập phường Gia Thụy trên cơ sở 77,68 ha diện tích tự nhiên và 7.207 nhân khẩu của thị trấn Gia Lâm, 42,64 ha diện tích tự nhiên và 2.514 nhân khẩu của xã Gia Thụy.
+* Thành lập phường Bồ Đề trên cơ sở 379,92 ha diện tích tự nhiên và 9.888 nhân khẩu của xã Bồ Đề và 6.271 nhân khẩu của thị trấn Gia Lâm.
+* Thành lập phường Phúc Đồng trên cơ sở 494,76 ha diện tích tự nhiên và 6.994 nhân khẩu của xã Gia Thuỵ.
+* Thành lập 3 phường: Long Biên, Thạch Bàn và Cự Khối trên cơ sở toàn bộ diện tích tự nhiên và dân số của 3 xã có tên tương ứng.<ref name="ND132">{{Chú thích web |url=http://thuvienphapluat.vn/archive/Nghi-dinh/Nghi-dinh-132-2003-ND-CP-dieu-chinh-dia-gioi-hanh-chinh-de-thanh-lap-quan-Long-Bien-Hoang-Mai-phuong-thuoc-quan-Hoang-Mai-Ha-Noi-vb51571t11.aspx |title=Nghị định số 132/2003/NĐ-CP ngày 6 tháng 11 năm 2003 của Chính phủ về việc điều chỉnh địa giới hành chính để thành lập các quận Long Biên, Hoàng Mai, thành lập các phường trực thuộc quận Long Biên, quận Hoàng Mai, thành phố Hà Nội |access-date=2012-09-14 |archive-date=2021-01-10 |archive-url=https://web.archive.org/web/20210110061806/https://thuvienphapluat.vn/archive/Nghi-dinh/Nghi-dinh-132-2003-ND-CP-dieu-chinh-dia-gioi-hanh-chinh-de-thanh-lap-quan-Long-Bien-Hoang-Mai-phuong-thuoc-quan-Hoang-Mai-Ha-Noi-vb51571t11.aspx |url-status=dead }}</ref>
+
+Ngày 14 tháng 11 năm 2024, nhập xã Đông Dư (huyện [[Gia Lâm (huyện)|Gia Lâm]]) vào xã Bát Tràng.<ref>{{Chú thích web |tiêu đề=Nghị quyết số 1286/NQ-UBTVQH15 ngày 14 tháng 11 năm 2024 của Ủy ban Thường vụ Quốc hội về việc sắp xếp đơn vị hành chính cấp xã của thành phố Hà Nội giai đoạn 2023 – 2025 |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/11/1286-qh.signed.pdf |url-status=live |archive-url=https://web.archive.org/web/20241121185017/https://quochoi.vn/tintuc/Pages/tin-hoat-dong-cua-quoc-hoi.aspx?ItemID=91149 |ngày lưu trữ=2024-11-21 |ngày truy cập=2024-11-21 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+
+Ngày 16 tháng 6 năm 2025:
+
+* Kết thúc hoạt động của đơn vị hành chính cấp huyện trong cả nước.<ref>{{Chú thích web |last= |date= |title=Nghị quyết số 203/2025/QH15 ngày 16 tháng 6 năm 2025 của Quốc hội khóa XV, Kỳ họp thứ 9 về việc sửa đổi, bổ sung một số điều của Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/nq-sua-doi-hien-phap.pdf |url-status=live |archive-url=https://web.archive.org/web/20260613090807/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/nq-sua-doi-hien-phap.pdf |archive-date=2026-06-13 |access-date=2026-06-13 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+* Sắp xếp một phần diện tích tự nhiên, quy mô dân số của các phường Cự Khối, Phúc Đồng, Thạch Bàn (quận [[Long Biên (quận)|Long Biên]]), xã Bát Tràng (huyện [[Gia Lâm (huyện)|Gia Lâm]]), một phần diện tích tự nhiên, toàn bộ quy mô dân số của phường Long Biên, một phần diện tích tự nhiên của phường Bồ Đề và phường Gia Thụy (quận [[Long Biên (quận)|Long Biên]]) thành phường mới có tên gọi là phường Long Biên.<ref>{{Chú thích web |title=Nghị quyết số 1656/NQ-UBTVQH15 ngày 16 tháng 6 năm 2025 của Ủy ban Thường vụ Quốc hội về việc sắp xếp các đơn vị hành chính cấp xã của thành phố Hà Nội năm 2025 |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf |url-status=bot: unknown |archive-url=https://web.archive.org/web/20260513110024/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf |archive-date=2026-05-13 |access-date=2026-06-30 |website=Cổng Thông tin điện tử Chính phủ }}</ref>
+* Sau khi sắp xếp, phường Long Biên được chia thành 37 tổ dân phố.<ref>7 tổ dân phố: 1, 3, 4, 5, 10, 11 và 12 của phường Cự Khối cũ; 2 tổ dân phố: 6 và 7 của phường Phúc Đồng cũ; 16 tổ dân phố: 1, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16 và 17 của phường Thạch Bàn cũ; 12 tổ dân phố: 1, 2, 5, 7, 9, 12, 14, 16, 19, 20, 22 và 23 của phường Long Biên cũ.</ref><ref>{{Chú thích web|title=Thông tư số 10/2022/TT-BTNMT ngày 29 tháng 9 năm 2022 của Bộ Tài nguyên và Môi trường về việc Ban hành Danh mục địa danh dân cư, sơn văn, thủy văn, kinh tế – xã hội phục vụ công tác thành lập bản đồ thành phố Hà Nội|url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2022/10/10-btnmt.pdf|url-status=bot: unknown|archive-url=https://web.archive.org/web/20260630082812/https://datafiles.chinhphu.vn/cpp/files/vbpq/2022/10/10-btnmt.pdf|archive-date=2026-06-30|access-date=2026-06-30|website=Cổng Thông tin điện tử Chính phủ}}</ref><ref>{{Chú thích web |last=Trang Thông tin điện tử phường Long Biên – thành phố Hà Nội |date=2025-07-10 |title=Đổi tên Tổ dân phố tại phường Long Biên – Tên gọi mới – Bước tiến mới – Tầm nhìn mới |url=https://longbien.hanoi.gov.vn/chi-dao-cua-dia-phuong/doi-ten-to-dan-pho-tai-phuong-long-bien-ten-goi-moi-buoc-tien-moi-tam-nhin-moi-2811250710134214741.htm |url-status=bot: unknown |archive-url=https://web.archive.org/web/20250717141105/http://longbien.hanoi.gov.vn/chi-dao-cua-dia-phuong/doi-ten-to-dan-pho-tai-phuong-long-bien-ten-goi-moi-buoc-tien-moi-tam-nhin-moi-2811250710134214741.htm |archive-date=2025-07-17 |access-date=2026-07-10 }}</ref><ref name=":02">{{Chú thích web |last=Trang Thông tin điện tử phường Long Biên – thành phố Hà Nội|date=2026-02-26|title=Danh sách chính thức những người ứng cử đại biểu Hội đồng nhân dân phường Long Biên khóa II, nhiệm kỳ 2026 – 2031|url=https://longbien.hanoi.gov.vn/bau-cu-dai-bieu-quoc-hoi-khoa-xvi-va-bau-cu-hdnd-cac-cap-nhiem-ky-2026-2031/danh-sach-chinh-thuc-nhung-nguoi-ung-cu-dai-bieu-hdnd-phuong-long-bien-khoa-ii-nhiem-ky-2026-2031-2811260227155142773.htm|url-status=live|archive-url=https://web.archive.org/web/20260701400809/https://longbien.hanoi.gov.vn/bau-cu-dai-bieu-quoc-hoi-khoa-xvi-va-bau-cu-hdnd-cac-cap-nhiem-ky-2026-2031/danh-sach-chinh-thuc-nhung-nguoi-ung-cu-dai-bieu-hdnd-phuong-long-bien-khoa-ii-nhiem-ky-2026-2031-2811260227155142773.htm|archive-date=2026-07-01|access-date=2026-07-01|website=}}</ref>
+Ngày 18 tháng 7 năm 2025, đổi tên 18 tổ dân phố: 6, 7 phường Phúc Đồng cũ, 1 phường Thạch Bàn cũ, 9, 16, 14, 12, 7, 5, 2, 1 phường Long Biên cũ, 1, 12, 11, 10, 5, 3 và 4 phường Cự Khối cũ lần lượt thành 18 tổ dân phố: 1, 2, 18, 21 và từ 24 đến 37.<ref>1. Đổi tên Tồ dân phố số 6 phường Phúc Đồng cũ thành Tổ dân phố số 1 phường Long Biên; 2. Đổi tên Tổ dân phố số 7 phường Phúc Đồng cũ thành Tổ dân phố số 2 phường Long Biên; 3. Đổi tên Tổ dân phố số 1 phường Thạch Bàn cũ thành Tổ dân phố số 18 phường Long Biên; 4. Đổi tên Tổ dân phố số 9 phường Long Biên cũ thành Tổ dân phố số 21 phường Long Biên; 5. Đổi tên Tổ dân phố số 16 phường Long Biên cũ thành Tổ dân phố số 24 phường Long Biên; 6. Đổi tên Tổ dân phố số 14 phường Long Biên cũ thành Tồ dân phố số 25 phường Long Biên; 7. Đổi tên Tổ dân phố số 12 phường Long Biên cũ thành Tổ dân phố số 26 phường Long Biên; 8. Đổi tên Tổ dân phố số 7 phường Long Biên cũ thành Tổ dân phổ số 27 phường Long Biên; 9. Đổi tên Tổ dân phố số 5 phường Long Biên cũ thành Tổ dân phố số 28 phường Long Biên; 10. Đổi tên Tổ dân phố số 2 phường Long Biên cũ thành Tổ dân phố số 29 phường Long Biên; 11. Đổi tên Tổ dân phố số 1 phường Long Biên cũ thành Tổ dân phố số 30 phường Long Biên; 12. Đổi tên Tổ dân phố số 1 phường Cự Khối cũ thành Tổ dân phố số 31 phường Long Biên; 13. Đổi tên Tổ dân phố số 12 phường Cụ Khối cũ thành Tổ dân phố số 32 phường Long Biên; 14. Đổi tên Tổ dân phố số 11 phường Cự Khối cũ thành Tổ dân phố số 33 phường Long Biên; 15. Đổi tên Tổ dân phố số 10 phường Cự Khối cũ thành Tổ dân phố số 34 phường Long Biên; 16. Đổi tên Tổ dân phố số 5 phường Cự Khối cũ thành Tổ dân phố số 35 phường Long Biên; 17. Đổi tên Tổ dân phố số 3 phường Cụ Khối cũ thành Tổ dân phố số 36 phường Long Biên; 18. Đổi tên Tổ dân phố số 4 phường Cự Khối cũ thành Tổ dân phố số 37 phường Long Biên; Giữ nguyên tên gọi đối với 19 tổ dân phố còn lại thuộc địa bàn phường Long Biên.</ref><ref>{{Chú thích web |title=Nghị quyết số 8/NQ-HĐND ngày 18 tháng 7 năm 2025 của Hội đồng nhân dân phường Long Biên về việc đổi tên các tổ dân phố trên địa bàn phường Long Biên |url=https://sqhx-hanoi.mediacdn.vn/91579363132710912/2025/7/29/nq-08-ve-doi-ten-to-dan-pho-1753777605686735101223.pdf |url-status=live |archive-url=https://web.archive.org/web/20260710401509/https://sqhx-hanoi.mediacdn.vn/91579363132710912/2025/7/29/nq-08-ve-doi-ten-to-dan-pho-1753777605686735101223.pdf |archive-date=2026-07-10 |access-date=2026-07-10 |website=Trang Thông tin điện tử phường Long Biên – thành phố Hà Nội}}</ref>
+[[Tập tin:Bản đồ các tổ dân phố thuộc phường Long Biên – thành phố Hà Nội.png|trái|nhỏ|182x182px|Bản đồ phương án đổi tên tổ dân phố trên địa bàn phường Long Biên của thành phố Hà Nội (đến ngày 1 tháng 7 năm 2026)<ref>{{Chú thích web |last=Trang Thông tin điện tử phường Long Biên – thành phố Hà Nội |date=2025-07-10 |title=Đổi tên Tổ dân phố tại phường Long Biên – Tên gọi mới – Bước tiến mới – Tầm nhìn mới |url=https://longbien.hanoi.gov.vn/chi-dao-cua-dia-phuong/doi-ten-to-dan-pho-tai-phuong-long-bien-ten-goi-moi-buoc-tien-moi-tam-nhin-moi-2811250710134214741.htm?gidzl=NQ6D1vIlF2LPlea1dhGv8rM_ZWI4iZmkIBpT28UrQIXClzeAYxSxAaNjYWk9j6z-5BxJM6B_FuGJaQuu9m |url-status=dead |archive-url=https://web.archive.org/web/20260730201509/https://longbien.hanoi.gov.vn/chi-dao-cua-dia-phuong/doi-ten-to-dan-pho-tai-phuong-long-bien-ten-goi-moi-buoc-tien-moi-tam-nhin-moi-2811250710134214741.htm?gidzl=NQ6D1vIlF2LPlea1dhGv8rM_ZWI4iZmkIBpT28UrQIXClzeAYxSxAaNjYWk9j6z-5BxJM6B_FuGJaQuu9m |archive-date=2026-07-30 |access-date=2026-07-30}}</ref>]]
+Ngày 24 tháng 12 năm 2025, xác định phần lớn của phường Long Biên là [[Đô thị Việt Nam|đô thị loại II]].<ref>Chuyển tiếp từ 6 phường: Bồ Đề, Cự Khối, Gia Thụy, Long Biên, Phúc Đồng và Thạch Bàn thuộc quận Long Biên.</ref><ref>{{Chú thích web |title=Nghị quyết số 111/2025/UBTVQH15 ngày 24 tháng 12 năm 2025 của Ủy ban Thường vụ Quốc hội về phân loại đô thị |url=https://cdn.nhandan.vn/files/f4a4abf7f9a0ba4a91744616546d850872b76917f90d5a74cc9eebef1369fb6f/111.pdf |url-status=dead |archive-url=https://web.archive.org/web/20260430074852/https://cdn.nhandan.vn/files/f4a4abf7f9a0ba4a91744616546d850872b76917f90d5a74cc9eebef1369fb6f/111.pdf |archive-date=2026-04-30 |access-date=2026-07-12 |website=Báo Nhân dân }}</ref>
+
+Ngày 26 tháng 6 năm 2026, đổi tên 12 tổ dân phố: 12, 17, 21, từ 26 đến 31 và từ 35 đến 37 lần lượt thành 12 tổ dân phố: Thượng Hội, Ngọc Trì 2, Long Biên, Trạm 1, Tư Đình 2, 1, Thạch Cầu 2, 1, Thống Nhất, Thổ Khối 2, 1 và Độc Lập; thành lập 13 tổ dân phố mới: 918, Cự Đồng, Thạch Bàn, Ngọc Trì 1, Ngô 1, 2, Thạch Cầu Bây 1, 2, Nha 2, 1, Trạm 2, Xuân Đỗ Hạ và Xuân Đỗ Thượng.<ref>1. Tổ dân phố số 12 đổi tên thành Thượng Hội; 2. Tổ dân phố số 17 đổi tên thành Ngọc Trì 2; 3. Tổ dân phố số 21 đổi tên thành Long Biên; 4. Tổ dân phố số 26 đổi tên thành Trạm 1; 5. Tổ dân phố số 27 đổi tên thành Tư Đình 2; 6. Tổ dân phố số 28 đổi tên thành Tư Đình 1; 7. Tổ dân phố số 29 đổi tên thành Thạch Cầu 2; 8. Tổ dân phố số 30 đổi tên thành Thạch Cầu 1; 9. Tổ dân phố số 31 đổi tên thành Thống Nhất; 10. Tổ dân phố số 35 đổi tên thành Thổ Khối 2; 11. Tổ dân phố số 36 đổi tên thành Thổ Khối 1; 12. Tổ dân phố số 37 đổi tên thành Độc Lập; 13. Sáp nhập Tổ dân phố số 1 và số 2 đổi tên thành 918; 14. Sáp nhập Tổ dân phố số 3 và số 18 đổi tên thành Cự Đồng; 15. Sáp nhập Tổ dân phố 4 với một phần Tổ dân phố số 6 và số 7 đổi tên thành Thạch Bàn; 16. Sáp nhập Tổ dân phố số 5, một phần Tổ dân phố số 6 và số 7 đổi tên thành Ngọc Trì 1; 17. Sáp nhập Tổ dân phố số 9, một phần Tổ dân phố số 7 và số 10 đổi tên thành Ngô 1; 18. Sáp nhập Tổ dân phố 11, một phần Tổ dân phố số 7 và số 10 đổi tên thành Ngô 2; 19. Sáp nhập Tổ dân phố số 13 và Tổ dân phố số 14 đổi tên thành Thạch Cầu Bây 1; 20. Sáp nhập Tổ dân phố số 15 và Tổ dân phố số 16 đổi tên thành Thạch Cầu Bây 2; 21. Sáp nhập Tổ dân phố số 19 và Tổ dân phố số 20 đổi tên thành Nha 2; 22. Sáp nhập Tổ dân phố số 22, Tổ dân phố số số 24 và một phần Tổ dân phố số 25 đổi tên thành Nha 1; 23. Sáp nhập Tổ dân phố số 23 và một phần Tổ dân phố số 25 đổi tên thành Trạm 2; 24. Sáp nhập Tổ dân phố số 32 và một phần Tổ dân phố số 33 đổi tên thành Xuân Đỗ Hạ; 25. Sáp nhập Tổ dân phố số 8, Tổ dân phố số 34 và một phần Tổ dân phố số 33 đổi tên thành Xuân Đỗ Thượng.</ref><ref name=":1">{{Chú thích web |last=Thế Đông – Đinh Dũng |date=2026-06-26 |title=Hội đồng nhân dân phường Long Biên thông qua Nghị quyết về sắp xếp các tổ dân phố |url=https://hanoimoi.vn/hdnd-phuong-long-bien-thong-qua-nghi-quyet-ve-sap-xep-cac-to-dan-pho-1209394.html?gidzl=0vsDI8EU61K7WebEYOCV6W-5Zq6NqHOQ4uQ35y3M41yJqz4IdO91JHxJX42SqnLAJD3KGcAsCg1iXfyS5m |url-status=live |archive-url=https://web.archive.org/web/20260710401509/https://hanoimoi.vn/hdnd-phuong-long-bien-thong-qua-nghi-quyet-ve-sap-xep-cac-to-dan-pho-1209394.html?gidzl=0vsDI8EU61K7WebEYOCV6W-5Zq6NqHOQ4uQ35y3M41yJqz4IdO91JHxJX42SqnLAJD3KGcAsCg1iXfyS5m |archive-date=2026-07-10 |access-date=2026-07-10 |website=Cơ quan Báo và Phát thanh, truyền hình Hà Nội}}</ref><ref name=":2">{{Chú thích web |last=Quốc Dũng – Thế Đông |date=2026-07-04 |title=Phường Long Biên công bố 25 tổ dân phố sau sắp xếp |url=https://hanoimoi.vn/phuong-long-bien-cong-bo-25-to-dan-pho-sau-sap-xep-1210614.html?gidzl=NxKWOqa5SK1RgYHbGnXsJrEgAsfTJNPFJwadF0fAS4fF_7KvLnuX64By86jMJtKV4FzmQM8WWMGIJ0HrGW |url-status=live |archive-url=https://web.archive.org/web/20260710401509/https://hanoimoi.vn/phuong-long-bien-cong-bo-25-to-dan-pho-sau-sap-xep-1210614.html?gidzl=NxKWOqa5SK1RgYHbGnXsJrEgAsfTJNPFJwadF0fAS4fF_7KvLnuX64By86jMJtKV4FzmQM8WWMGIJ0HrGW |archive-date=2026-07-10 |access-date=2026-07-10 |website=Cơ quan Báo và Phát thanh, truyền hình Hà Nội}}</ref><ref name=":3">{{Chú thích web |last=Phường Long Biên – thành phố Hà Nội |date=2026-07-04 |title=Long Biên Công bố danh sách, sơ đồ 25 Tổ dân phố sau sắp xếp và bộ máy tổ chức 25 Tổ dân phố |url=https://web.facebook.com/story.php?story_fbid=122177153228910155&id=61577304668843&rdid=dHg8N1Cy9SakzqEC# |url-status=dead |archive-url=https://web.archive.org/web/20260721401509/https://web.facebook.com/story.php?story_fbid=122177153228910155&id=61577304668843&rdid=dHg8N1Cy9SakzqEC# |archive-date=2026-07-21 |access-date=2026-07-21}}</ref>
+
+== Hành chính ==
+Phường Long Biên được chia thành 25 tổ dân phố: 918, Cự Đồng, Độc Lập, Long Biên, Ngọc Trì 1, 2, Ngô 1, 2, Nha 1, 2, Thạch Bàn, Thạch Cầu 1, 2, Thạch Cầu Bây 1, 2, Thống Nhất, Thổ Khối 1, 2, Thượng Hội, Trạm 1, 2, Tư Đình 1, 2, Xuân Đỗ Hạ và Xuân Đỗ Thượng.<ref name=":1" /><ref name=":2" /><ref name=":3" />
+{| class="wikitable sortable" align="center" width="100%" cellspacing="6" cellpadding="0" style="background: #f9f9f9; border: 1px #aaa solid; margin-top: 16px"
+! colspan="4" style="background: #E6E6FA; font-size: 95%;" |Danh sách các tổ dân phố thuộc phường Long Biên<ref name=":1" /><ref name=":2" /><ref name=":3" />
+|-
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Dân số <sup>(2026)</sup>
+|-
+| align="left" |Tổ dân phố 918
+|2.665
+|-
+| align="left" |Cự Đồng
+|3.558
+|-
+| align="left" |Độc Lập
+|1.257
+|-
+| align="left" |Long Biên
+|2.229
+|-
+| align="left" |Ngọc Trì 1
+|4.109
+|-
+| align="left" |Ngọc Trì 2
+|5.093
+|-
+| align="left" |Ngô 1
+|2.408
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Dân số <sup>(2026)</sup>
+|-
+| align="left" |Ngô 2
+|3.454
+|-
+| align="left" |Nha 1
+|3.594
+|-
+| align="left" |Nha 2
+|2.394
+|-
+| align="left" |Thạch Bàn
+|2.511
+|-
+| align="left" |Thạch Cầu 1
+|2.430
+|-
+| align="left" |Thạch Cầu 2
+|2.747
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Dân số <sup>(2026)</sup>
+|-
+| align="left" |Thạch Cầu Bây 1
+|3.344
+|-
+| align="left" |Thạch Cầu Bây 2
+|3.521
+|-
+| align="left" |Thống Nhất
+|1.884
+|-
+| align="left" |Thổ Khối 1
+|2.625
+|-
+| align="left" |Thổ Khối 2
+|2.440
+|-
+| align="left" |Thượng Hội
+|2.235
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Dân số <sup>(2026)</sup>
+|-
+| align="left" |Trạm 1
+|3.257
+|-
+| align="left" |Trạm 2
+|2.672
+|-
+| align="left" |Tư Đình 1
+|2.693
+|-
+| align="left" |Tư Đình 2
+|2.543
+|-
+| align="left" |Xuân Đỗ Hạ
+|3.029
+|-
+| align="left" |Xuân Đỗ Thượng
+|3.464
+|}
+|}<!-- 
+== Lịch sử== 
+Phường Thạch Bàn được thành lập năm 2003 trên cơ sở toàn bộ 527,21 ha diện tích tự nhiên và 11.300 người của xã Thạch Bàn, huyện [[Gia Lâm (huyện)| Gia Lâm]].<ref name = "ND132">[http://thuvienphapluat.vn/archive/Nghi-dinh/Nghi-dinh-132-2003-ND-CP-dieu-chinh-dia-gioi-hanh-chinh-de-thanh-lap-quan-Long-Bien-Hoang-Mai-phuong-thuoc-quan-Hoang-Mai-Ha-Noi-vb51571t11.aspx Nghị định số 132/2003/NĐ-CP ngày 6 tháng 11 năm 2003 của Chính phủ] về việc điều chỉnh địa giới hành chính để thành lập các quận Long Biên, Hoàng Mai, thành lập các phường trực thuộc quận Long Biên, quận Hoàng Mai, thành phố Hà Nội.</ref>
+== Hành chính== 
+Phường Thạch Bàn được chia thành 16 tổ dân phố, bao gồm TDP số : 1, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17
+
+== Văn hóa== 
+Đình Cầu Bây ở Thạch Bàn là di tích thờ vị [[tướng nhà Đinh]] Lã Lang Đường có công phù tá cho [[Đinh Bộ Lĩnh]] dẹp [[loạn 12 sứ quân]].
+
+Đình làng Ngô thờ tướng nhà Đinh Lã Lang Đế có công phù tá cho [[Đinh Bộ Lĩnh]] dẹp [[loạn 12 sứ quân]] và đánh quân Ngô. Anh trai của vị tướng Lã Lang Đế là Lã Lang Đường được thờ ở làng Cầu Bây bên cạnh làng Ngô.
+ -->
+
+== Địa chỉ trụ sở các cơ quan==
+[[hình:Water reservoir in Phuong Cu Khoi, Long Bien district.jpg|thumb| trái| Một hồ nước trong khu dân cư]]
+* Trụ sở Ủy ban nhân dân phường: Số 199, đường Bát Khối.<ref name=":0">Địa chỉ cũ: Số 199, đường Bát Khối, phường Long Biên, quận Long Biên</ref><ref name="trusomoi">{{Cite web |date=25 tháng 6 năm 2025 |title=Thông báo về địa điểm trụ sở làm việc của 126 phường, xã sau sắp xếp thuộc phạm vi quản lý của thành phố Hà Nội |url=https://dcdn.dantri.com.vn/2025/06/25/tru-so-126-xa-phuong-cua-ha-noi-1750822481952.pdf |website=UBND TP Hà Nội |access-date=2026-05-15 |archive-date=2026-04-25 |archive-url=https://web.archive.org/web/20260425080946/https://dcdn.dantri.com.vn/2025/06/25/tru-so-126-xa-phuong-cua-ha-noi-1750822481952.pdf |url-status=dead }}</ref>
+* Trung tâm phục vụ hành chính công: Số 199, đường Bát Khối.<ref name=":0" /><ref>{{Chú thích báo |last=Trung tâm Phục vụ hành chính công thành phố Hà Nội |title=Hà Nội công khai địa điểm tiếp nhận thủ tục hành chính thuộc UBND 126 xã/phường và 30 điểm tiếp nhận của 12 Chi nhánh thuộc Trung tâm Phục vụ hành chính công Thành phố, thông tin đường dây nóng hỗ trợ người dân, doanh nghiệp |url=https://ttpvhcc.hanoi.gov.vn/hoat-dong-cua-trung-tam/ha-noi-cong-khai-dia-diem-tiep-nhan-thu-tuc-hanh-chinh-thuoc-ubnd-126-xa-phuong-va-30-diem-tiep-nhan-cua-12-chi-nhanh-thuoc-trung-tam-phuc-vu-hanh-chinh-cong-thanh-pho-thong-tin-duong-day-nong-ho-tro-nguoi-dan-doanh-nghiep-2850250704103711121.htm }}{{Liên kết hỏng|date=2026-07-30 |bot=InternetArchiveBot }}</ref>
+* Công an phường:<ref>{{Chú thích báo |last=Báo Đại biểu Nhân dân |first= |title=Danh sách 126 trụ sở Công an cấp xã thuộc Công an TP. Hà Nội để người dân tới làm căn cước, đăng ký xe |url=https://daibieunhandan.vn/danh-sach-126-tru-so-cong-an-cap-xa-thuoc-cong-an-tp-ha-noi-de-nguoi-dan-toi-lam-can-cuoc-dang-ky-xe-10378397.html}}</ref>
+** Trụ sở làm việc số 1: Số 197, đường Bát Khối.<ref>Địa chỉ cũ: Số 197, đường Bát Khối, phường Long Biên, quận Long Biên</ref>
+** Trụ sở làm việc số 2: Số 308, phố Ngọc Trì.<ref>Địa chỉ cũ: Số 308, phố Ngọc Trì, phường Thạch Bàn, quận Long Biên (Trước là Công an phường Thạch Bàn cũ)</ref>
+** Trụ sở làm việc số 3: Số 607, đường Bát Khối.<ref>Địa chỉ cũ: Số 607, đường Bát Khối, phường Cự Khối, quận Long Biên</ref>
+
+== Di tích== 
+*Đình Hạ Trại thuộc thôn Thống Nhất là nơi thờ vị [[tướng nhà Đinh]] tên gọi Lã Lang Đế có công phù tá cho [[Đinh Bộ Lĩnh]] dẹp [[loạn 12 sứ quân]].
+*Đình Thổ Khối có từ trước năm 1730, bên trong thờ 6 vị thành hoàng trong đó có 3 vị là [[tướng nhà Đinh]]: [[Bạch Đa]] đại vương, Dị Mệ đại vương và Đào thành hoàng có công dẹp [[loạn 12 sứ quân]].
+== Danh nhân== 
+* '''[[Đặng Phúc Thông]]''' (1906 – 1951), là một kỹ sư giao thông công chính, Thứ trưởng Bộ Giao thông công chính của Chính phủ [[Việt Nam Dân chủ Cộng hòa]], là thành viên [[Đảng Xã hội Việt Nam]], sau vào [[Đảng Cộng sản Việt Nam]].
+* '''[[Trần Linh]]''' (1929 – 2022) là một sĩ quan cấp cao trong [[Quân đội nhân dân Việt Nam]], hàm [[Trung tướng]]. Ông nguyên là Phó Tư lệnh phụ trách về Chính trị [[Bộ đội Biên phòng Việt Nam]].
+
+== Chú thích== 
+{{tham khảo| 30em}}
+
+== Tham khảo==
+{{Sơ khai Hà Nội}}{{Đơn vị hành chính thuộc thành phố Hà Nội}}

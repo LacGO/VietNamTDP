@@ -1,0 +1,48 @@
+{{Thông tin đơn vị hành chính Việt Nam | xã
+| tên = Sơn Lương
+| hình = 
+| ghi chú hình = 
+| vĩ độ = 21.452871161973167
+| kinh độ = 104.97187148274487
+| diện tích = 96,92 km²<ref name=MS/>
+| dân số = 23.365 người<ref name=MS/>
+| thời điểm dân số = 2025
+| mật độ dân số = {{formatnum:{{#expr:floor({{formatnum:23.365|R}}/{{formatnum:96,92|R}})}} }} người/km²
+| vùng = [[Đông Bắc Bộ]]
+| tỉnh = [[Phú Thọ]]
+| thành lập =16 tháng 6 năm 2025<ref>Nghị quyết số 1676/NQ-UBTVQH15</ref> 
+| trụ sở UBND = 
+| mã hành chính = 08296<ref>{{Chú thích web |url=https://danhmuchanhchinh.gso.gov.vn/ |title=Tổng cục Thống kê |access-date=2022-03-24 |archive-date=2021-01-10 |archive-url=https://web.archive.org/web/20210110034519/https://www.gso.gov.vn/phuong-phap-thong-ke/danh-muc/don-vi-hanh-chinh/ |url-status=dead }}</ref>
+| mã bưu chính =35523 
+|web={{url|sonluong.phutho.gov.vn}}
+}}
+{{other|Sơn Lương (định hướng)}}
+'''Sơn Lương''' là một [[Xã (Việt Nam)|xã]] thuộc [[Tỉnh (Việt Nam)|tỉnh]] [[Phú Thọ]], [[Việt Nam]].
+
+== Địa lý ==
+Xã Sơn Lương nằm ở phía Đông Bắc tỉnh [[Phú Thọ]], có vị trí địa lý<ref>{{Chú thích web |title=Đơn vị hành chính Việt Nam |url=https://sapnhap.bando.com.vn/ |access-date=2026-06-25 |website=sapnhap.bando.com.vn}}</ref>:
+
+* Phía Bắc giáp xã [[Hiền Lương]].
+* Phía Nam giáp xã [[Trung Sơn, Phú Thọ|Trung Sơn]] và xã [[Xuân Viên]].
+* Phía Tây giáp xã [[Chấn Thịnh]] và xã [[Nghĩa Tâm]], tỉnh [[Lào Cai]].
+* Phía Đông giáp xã [[Văn Lang, Phú Thọ|Văn Lang]] và xã [[Tiên Lương]].
+
+Xã có diện tích 96,92&nbsp;km², dân số năm 2025 là 23.365 người, mật độ dân số đạt {{formatnum:{{#expr:floor({{formatnum:23.365|R}}/{{formatnum:96,92|R}})}} }} người/km².
+
+==Hành chính==
+Xã Sơn Lương được chia thành 44 khu: 1, 2, 3A, 3B, 4, 5, 6, 7, 8, 9, Ao Bon, Đá Trắng, Đại Phú, Đình A, Đoàn Kết, Đồng An, Đồng Ve, Hưng Thịnh, Liên An, Phú Cường, Phú Sơn, Phú Thịnh, Quyết Tiến, Rường Cao, Sơn Tình, Tam Giao, Tân Bình, Tân Hội, Tân Lập, Tân Sơn, Tân Tiến, Thành Lập, Trung Tâm, Văn Phú, Vĩnh Thịnh, Xe Ngà, Xuân Hà, Xuân Hương, Xuân Nhật, Xuân Tân, Xuân Thắng 1, Xuân Thắng 2, Xuân Thượng, Xuân Tình.<ref>{{Chú thích web |last=Ủy ban nhân dân xã Sơn Lương |date=2026-01-23 |title=Quyết định số 62/QĐ-UBND về việc thành lập các khu vực bỏ phiếu bầu cử đại biểu Quốc hội khóa XVI và đại biểu Hội đồng nhân dân các cấp, nhiệm kỳ 2026 - 2031 |url=https://www.facebook.com/story.php?story_fbid=122158806602929845&id=61577895364678&rdid=souOofHH7Yuyq2G3# |url-status=live |archive-url=https://web.archive.org/web/20260423090807/https://www.facebook.com/story.php?story_fbid=122158806602929845&id=61577895364678&rdid=souOofHH7Yuyq2G3# |archive-date=2026-04-23 |access-date=2026-04-23 |website=Trang thông tin xã Sơn Lương - tỉnh Phú Thọ}}</ref><ref name=":1">{{Chú thích web |last=Bộ Dân tộc và Tôn giáo |date=2026-01-29 |title=Danh sách Thôn vùng đồng bào dân tộc thiểu số và miền núi, thôn đặc biệt khó khăn giai đoạn 2026 - 2030 trên địa bàn tỉnh Phú Thọ |url=http://files.ubdt.gov.vn/files/ecm/source_files/2026/02/05/11252411_4.%20Ph%C3%BA%20Th%E1%BB%8D%201%20(th%C3%B4n).signed_26-02-05.pdf |url-status=live |archive-url=https://web.archive.org/web/20260417090807/http://files.ubdt.gov.vn/files/ecm/source_files/2026/02/05/11252411_4.%20Ph%C3%BA%20Th%E1%BB%8D%201%20(th%C3%B4n).signed_26-02-05.pdf |archive-date=2026-04-17 |access-date=2026-04-17 |website=Cổng Thông tin điện tử Bộ Dân tộc và Tôn giáo}}</ref>
+
+==Lịch sử==
+Trước kia, địa bàn xã Sơn Lương ngày nay là địa bàn của các xã Mỹ Lung, Mỹ Lương và Lương Sơn thuộc huyện [[Yên Lập (huyện)|Yên Lập]] cũ.
+
+Ngày [[16 tháng 6]] năm [[2025]]:
+
+* [[Quốc hội Việt Nam|Quốc hội]] ban hành Nghị quyết số 203/2025/QH15 về việc sửa đổi, bổ sung một số điều của Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam (nghị quyết có hiệu lực từ ngày [[16 tháng 6]] năm [[2025]]).<ref>{{Chú thích web |last=xaydungchinhsach.chinhphu.vn |date=2025-06-28 |title=NGHỊ QUYẾT 203/2025/QH15 SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA HIẾN PHÁP NƯỚC CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM |url=https://xaydungchinhsach.chinhphu.vn/nghi-quyet-203-2025-qh15-sua-doi-bo-sung-mot-so-dieu-cua-hien-phap-nuoc-cong-hoa-xa-hoi-chu-nghia-viet-nam-119250616181735552.htm |url-status=live |archive-url=https://web.archive.org/web/20260715200606/https://xaydungchinhsach.chinhphu.vn/nghi-quyet-203-2025-qh15-sua-doi-bo-sung-mot-so-dieu-cua-hien-phap-nuoc-cong-hoa-xa-hoi-chu-nghia-viet-nam-119250616181735552.htm |archive-date=2026-07-15 |access-date=2026-07-15 |website=Báo Điện tử Chính phủ |language=vi}}</ref> Theo đó, kết thúc hoạt động của đơn vị hành chính cấp huyện trong cả nước từ ngày 1 tháng 7 năm 2025.
+* [[Ủy ban Thường vụ Quốc hội]] ban hành Nghị quyết số 1676/NQ-UBTVQH15 về việc sắp xếp đơn vị hành chính cấp xã của tỉnh [[Phú Thọ]] năm 2025 (nghị quyết có hiệu lực từ ngày [[16 tháng 6]] năm [[2025]]).<ref>{{Chú thích web |last=xaydungchinhsach.chinhphu.vn |date=2025-06-20 |title=Nghị quyết số 1676/NQ-UBTVQH15 sắp xếp các ĐVHC cấp xã của tỉnh Phú Thọ năm 2025 |url=https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-1676-nq-ubtvqh15-sap-xep-cac-dvhc-cap-xa-cua-tinh-phu-tho-nam-2025-119250616204317326.htm |url-status=live |archive-url=https://web.archive.org/web/20260725082021/https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-1676-nq-ubtvqh15-sap-xep-cac-dvhc-cap-xa-cua-tinh-phu-tho-nam-2025-119250616204317326.htm |archive-date=2026-07-25 |access-date=2026-07-27 |website=Báo Điện tử Chính phủ |language=vi}}</ref> Theo đó, sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của các xã Mỹ Lung, Mỹ Lương và Lương Sơn thành xã mới có tên gọi là '''xã Sơn Lương'''.
+
+==Chú thích==
+{{tham khảo|30em}}
+
+==Tham khảo==
+{{sơ khai Phú Thọ}}
+{{Đơn vị hành chính thuộc tỉnh Phú Thọ}}

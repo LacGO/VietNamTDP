@@ -1,0 +1,75 @@
+{{Thông tin đơn vị hành chính Việt Nam | xã
+| tên = Mường Thàng
+| hình = 
+| ghi chú hình = 
+| vĩ độ = 20.666534375189563
+| kinh độ = 105.33457671954669
+| diện tích = 91,58 km²
+| dân số = 19.883 người
+| thời điểm dân số = 2025
+| mật độ dân số = {{formatnum:{{#expr:floor({{formatnum:19.883| R}}/{{formatnum:91,58| R}})}} }} người/km²
+| vùng = [[Đông Bắc Bộ]]
+| tỉnh = [[Phú Thọ]]
+| thành lập =16/6/2025 
+| trụ sở UBND = 
+| mã hành chính = 
+| mã bưu chính = 
+}}
+
+'''Mường Thàng''' là một [[Xã (Việt Nam)|xã]] thuộc tỉnh [[Phú Thọ]], [[Việt Nam]]. Xã được đặt tên theo một trong 4 xứ Mường cổ.
+
+== Địa lý ==
+Xã Mường Thàng có vị trí địa lý:
+
+* Phía bắc giáp xã [[Thung Nai]] và xã [[Cao Phong, Phú Thọ|Cao Phong]].
+* Phía nam giáp xã [[Tân Lạc (xã)|Tân Lạc]] và xã [[Thượng Cốc]].
+* Phía đông giáp xã [[Mường Động, Phú Thọ|Mường Động]].
+* Phía tây giáp xã [[Mường Hoa]] và xã [[Mường Bi, Phú Thọ|Mường Bi]].
+
+== Hành chính ==
+Xã Mường Thàng được chia thành 37 xóm: Bảm, Bãi Bệ 1, Bãi Bệ 2, Bằng, Bợ, Chao Khạ, Chầm, Dũng Tiến, Đai, Đảy, Đồi, Đồng Mới, Đồng Nhất, Đội Tây Phong, Đúc, Khuận, Lãi, Mạc, Mới, Nam Hồng, Nam Thái, Nam Thành, Nà Bái, Nếp, Ngái, Ong, Pheo, Phố Bằng, Quà, Rớm Khánh, Tây Sơn, Thang, Thôi Bạ, Trẹo Ngoài 1, Trẹo Ngoài 2, Trẹo Trong, Um.<ref>{{Chú thích web |last=Ủy ban bầu cử xã Mường Thàng |date=2025-12-24 |title=Nghị quyết số 6/NQ-UBBC về việc ấn định số đơn vị bầu cử, danh sách các đơn vị bầu cử và số lượng đại biểu Hội đồng nhân dân xã được bầu ở mỗi đơn vị bầu cử đại biểu Hội đồng nhân dân xã Mường Thàng khoá II, nhiệm kỳ 2026 - 2031 |url=https://muongthang.phutho.gov.vn/index.php/2013-12-13-01-52-02/v-n-ba-n-ca-a-huya-n/finish/3-v-n-ba-n-ca-a-n-va/54-nq06-va-via-c-a-n-a-nh-sa-n-va-ba-u-ca-danh-sa-ch-ca-c-n-va-ba-u-ca-va-sa-l-a-ng-a-i-bia-u-h-nd-xa-m-a-ng-tha-ng/0 |url-status=live |archive-url=https://web.archive.org/web/20260423090807/https://muongthang.phutho.gov.vn/index.php/2013-12-13-01-52-02/v-n-ba-n-ca-a-huya-n/finish/3-v-n-ba-n-ca-a-n-va/54-nq06-va-via-c-a-n-a-nh-sa-n-va-ba-u-ca-danh-sa-ch-ca-c-n-va-ba-u-ca-va-sa-l-a-ng-a-i-bia-u-h-nd-xa-m-a-ng-tha-ng/0 |archive-date=2026-04-23 |access-date=2026-04-23 |website=Trang Thông tin điện tử xã Mường Thàng - tỉnh Phú Thọ}}</ref><ref name=":1">{{Chú thích web |last=Bộ Dân tộc và Tôn giáo |date=2026-01-29 |title=Danh sách Thôn vùng đồng bào dân tộc thiểu số và miền núi, thôn đặc biệt khó khăn giai đoạn 2026 - 2030 trên địa bàn tỉnh Phú Thọ |url=http://files.ubdt.gov.vn/files/ecm/source_files/2026/02/05/11252411_4.%20Ph%C3%BA%20Th%E1%BB%8D%201%20(th%C3%B4n).signed_26-02-05.pdf |url-status=live |archive-url=https://web.archive.org/web/20260417090807/http://files.ubdt.gov.vn/files/ecm/source_files/2026/02/05/11252411_4.%20Ph%C3%BA%20Th%E1%BB%8D%201%20(th%C3%B4n).signed_26-02-05.pdf |archive-date=2026-04-17 |access-date=2026-04-17 |website=Cổng Thông tin điện tử Bộ Dân tộc và Tôn giáo}}</ref>
+
+== Lịch sử ==
+Địa bàn xã Mường Thàng trước kia thuộc huyện [[Cao Phong (huyện)|Cao Phong]], tỉnh [[Hòa Bình (tỉnh)|Hòa Bình]] cũ.
+
+Trước năm [[1945]], Thạch Yên là một xã thuộc tổng Cao Phong, châu Kỳ Sơn.<ref name=":0">{{chú thích sách |url=https://www.google.com/books/edition/Địa_ch%C3%AD_Hòa_Bình/jUZRAQAAMAAJ |year=2005 |isbn= |doi= |id= |tác giả= |tựa đề=Địa chí Hòa Bình |nhà xuất bản=Nhà xuất bản Chính trị quốc gia |nơi= |trang=834}}</ref>
+
+Sau [[Cách mạng Tháng Tám]], xã Thạch Yên thuộc huyện [[Kỳ Sơn (huyện Hòa Bình)|Kỳ Sơn]].
+
+[[Tháng 8]] năm [[1954]], Ủy ban kháng chiến hành chính Liên khu III quyết định chia xã Thạch Yên thành 2 xã Yên Thượng và Yên Lập.<ref name=":0" />
+
+Ngày [[12 tháng 12]] năm [[2001]], [[Chính phủ Việt Nam|Chính phủ]] ban hành Nghị định số 95/2001/NĐ-CP về việc chia huyện [[Kỳ Sơn (huyện Hòa Bình)|Kỳ Sơn]], tỉnh [[Hòa Bình (tỉnh)|Hoà Bình]] thành hai huyện Cao Phong và Kỳ Sơn.<ref>{{Chú thích web |last=Cổng Thông tin điện tử Chính phủ |first= |title=Nghị định số 95/2001/NĐ-CP của Chính phủ: Về việc chia huyện Kỳ Sơn, tỉnh Hoà Bình thành hai huyện Cao Phong và Kỳ Sơn. |url=http://vanban.chinhphu.vn/default.aspx?pageid=27160&docid=10051 |access-date=2026-07-16 |website=vanban.chinhphu.vn |language=vi}}</ref> Các xã Yên Thượng và Yên Lập chuyển sang trực thuộc huyện Cao Phong.
+
+Đến năm [[2018]]:
+
+* Xã Yên Lập có diện tích 22,77&nbsp;km², dân số là 2.184 người, mật độ dân số đạt 96 người/km².
+* Xã Yên Thượng có diện tích 17,24&nbsp;km², dân số là 2.490 người, mật độ dân số đạt 144 người/km².
+
+Ngày [[17 tháng 12]] năm [[2019]], [[Ủy ban Thường vụ Quốc hội]] ban hành Nghị quyết số 830/NQ-UBTVQH14 về việc sắp xếp các đơn vị hành chính cấp huyện, cấp xã thuộc tỉnh Hòa Bình (nghị quyết có hiệu lực từ ngày [[1 tháng 1]] năm [[2020]]).<ref>{{Chú thích web |last=Cổng Thông tin điện tử Chính phủ |first= |title=Nghị quyết số 830/NQ-UBTVQH14 của ỦY BAN THƯỜNG VỤ QUỐC HỘI: Về việc sắp xếp các đơn vị hành chính cấp huyện, cấp xã thuộc tỉnh Hòa Bình |url=http://vanban.chinhphu.vn/default.aspx?pageid=27160&docid=198695 |access-date=2026-07-16 |website=vanban.chinhphu.vn |language=vi}}</ref> Theo đó, sáp nhập toàn bộ diện tích và dân số của hai xã Yên Lập và Yên Thượng để tái lập xã Thạch Yên.
+
+Ngày [[12 tháng 6]] năm [[2025]], [[Quốc hội Việt Nam|Quốc hội]] ban hành Nghị quyết số 202/2025/QH15<ref name="202/2025/QH15">{{Chú thích web |ngày=2025-06-12 |tựa đề=Nghị quyết số 202/2025/QH15 về việc sắp xếp đơn vị hành chính cấp tỉnh |url=https://quochoi.vn/tintuc/Pages/tin-hoat-dong-cua-quoc-hoi.aspx?ItemID=94532 |url-status=live |url lưu trữ=https://web.archive.org/web/20250612150244/https://quochoi.vn/tintuc/Pages/tin-hoat-dong-cua-quoc-hoi.aspx?ItemID=94532 |ngày lưu trữ=2025-06-12 |ngày truy cập=2025-06-12 |website=Cổng thông tin điện tử Quốc hội Việt Nam}}</ref> về việc sắp xếp đơn vị hành chính cấp tỉnh (nghị quyết có hiệu lực từ ngày 12 tháng 6 năm 2025). Theo đó, sáp nhập tỉnh [[Hòa Bình (tỉnh)|Hòa Bình]] và tỉnh [[Vĩnh Phúc (tỉnh)|Vĩnh Phúc]] vào tỉnh Phú Thọ. Địa bàn xã Mường Thàng thuộc tỉnh Phú Thọ.
+
+Ngày [[16 tháng 6]] năm [[2025]]:
+
+* Quốc hội ban hành Nghị quyết số 203/2025/QH15 về việc sửa đổi, bổ sung một số điều của Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam (nghị quyết có hiệu lực từ ngày [[16 tháng 6]] năm [[2025]]).<ref>{{Chú thích web |last=xaydungchinhsach.chinhphu.vn |date=2025-06-28 |title=NGHỊ QUYẾT 203/2025/QH15 SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA HIẾN PHÁP NƯỚC CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM |url=https://xaydungchinhsach.chinhphu.vn/nghi-quyet-203-2025-qh15-sua-doi-bo-sung-mot-so-dieu-cua-hien-phap-nuoc-cong-hoa-xa-hoi-chu-nghia-viet-nam-119250616181735552.htm |url-status=live |archive-url=https://web.archive.org/web/20260715200606/https://xaydungchinhsach.chinhphu.vn/nghi-quyet-203-2025-qh15-sua-doi-bo-sung-mot-so-dieu-cua-hien-phap-nuoc-cong-hoa-xa-hoi-chu-nghia-viet-nam-119250616181735552.htm |archive-date=2026-07-15 |access-date=2026-07-15 |website=Báo Điện tử Chính phủ |language=vi }}</ref> Theo đó, kết thúc hoạt động của đơn vị hành chính cấp huyện trong cả nước từ ngày 1 tháng 7 năm 2025.
+* Ủy ban Thường vụ Quốc hội ban hành Nghị quyết số 1676/NQ-UBTVQH15 về việc sắp xếp các đơn vị hành chính cấp xã của tỉnh Phú Thọ năm 2025 (nghị quyết có hiệu lực từ ngày [[16 tháng 6]] năm [[2025]]).<ref>{{Chú thích web |last=xaydungchinhsach.chinhphu.vn |date=2025-06-20 |title=Nghị quyết số 1676/NQ-UBTVQH15 sắp xếp các ĐVHC cấp xã của tỉnh Phú Thọ năm 2025 |url=https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-1676-nq-ubtvqh15-sap-xep-cac-dvhc-cap-xa-cua-tinh-phu-tho-nam-2025-119250616204317326.htm |access-date=2025-09-07 |website=xaydungchinhsach.chinhphu.vn |language=vi}}</ref> Theo đó, sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của các xã Dũng Phong, Nam Phong, Tây Phong và Thạch Yên (huyện [[Cao Phong (huyện)|Cao Phong]]) thành xã mới có tên gọi là '''xã Mường Thàng'''.<!-- 
+==Lịch sử==
+Trước năm 1945, Thạch Yên là một xã thuộc tổng Cao Phong, châu Kỳ Sơn.<ref name=":0">{{chú thích sách|tác giả=|tựa đề=Địa chí Hòa Bình|nhà xuất bản=Nhà xuất bản Chính trị quốc gia|year=2005|nơi=|trang=834|url=https://www.google.com/books/edition/Địa_ch%C3%AD_Hòa_Bình/jUZRAQAAMAAJ|doi=|id=|isbn=}}</ref> Sau [[Cách mạng Tháng Tám]], xã Thạch Yên thuộc huyện [[Kỳ Sơn (huyện Hòa Bình)|Kỳ Sơn]].
+
+[[Tháng 8]] năm [[1954]], Ủy ban kháng chiến hành chính Liên khu III quyết định chia xã Thạch Yên thành 2 xã Yên Thượng và Yên Lập.<ref name=":0" />
+
+Ngày [[12 tháng 12]] năm [[2001]], huyện Cao Phong được thành lập,<ref>{{Chú thích web|url=https://thuvienphapluat.vn/van-ban/bat-dong-san/Nghi-dinh-95-2001-ND-CP-chia-huyen-Ky-Son-tinh-Hoa-Binh-thanh-hai-huyen-Cao-Phong-va-Ky-Son-7380.aspx|tựa đề=Nghị định 95/2001/NĐ-CP về việc chia huyện Kỳ Sơn, tỉnh Hòa Bình thành hai huyện Cao Phong và Kỳ Sơn|tác giả=|họ=|tên=|ngày=|website=|url lưu trữ=|ngày lưu trữ=|ngày truy cập=}}</ref> các xã Yên Thượng và Yên Lập chuyển sang trực thuộc huyện Cao Phong.
+
+Đến năm 2018, xã Yên Lập có diện tích 22,77&nbsp;km², dân số là 2.184 người, mật độ dân số đạt 96 người/km²; xã Yên Thượng có diện tích 17,24&nbsp;km², dân số là 2.490 người, mật độ dân số đạt 144 người/km².
+
+Ngày [[17 tháng 12]] năm [[2019]], Ủy ban Thường vụ Quốc hội ban hành Nghị quyết số 830/NQ-UBTVQH14 về việc sắp xếp các đơn vị hành chính cấp huyện, cấp xã thuộc tỉnh Hòa Bình (nghị quyết có hiệu lực từ ngày [[1 tháng 1]] năm [[2020]]).<ref name=NQ830>{{Chú thích web|url=https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/Nghi-quyet-830-NQ-UBTVQH14-2019-sap-xep-don-vi-hanh-chinh-cap-huyen-xa-thuoc-tinh-Hoa-Binh-432100.aspx|tựa đề=Nghị quyết số 830/NQ-UBTVQH14 năm 2019 về việc sắp xếp các đơn vị hành chính cấp huyện, cấp xã thuộc tỉnh Hòa Bình|tác giả=|họ=|tên=|ngày=|website=|url lưu trữ=|ngày lưu trữ=|ngày truy cập=}}</ref> Theo đó, sáp nhập toàn bộ diện tích và dân số của hai xã Yên Lập và Yên Thượng để tái lập xã Thạch Yên.
+
+ -->
+
+==Chú thích==
+{{tham khảo|30em}}
+
+==Tham khảo==
+
+{{sơ khai Phú Thọ}}
+{{Đơn vị hành chính thuộc tỉnh Phú Thọ}}

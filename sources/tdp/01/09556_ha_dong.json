@@ -1,0 +1,300 @@
+{
+  "ward_code": "09556",
+  "ward_name": "Hà Đông",
+  "province_code": "01",
+  "resolution": "",
+  "arrangement": "2026_07",
+  "effective_date": "2026-07-01",
+  "verified": "unverified",
+  "extraction": {
+    "source": "vi.wikipedia.org",
+    "title": "(cache)",
+    "mode": "table"
+  },
+  "sources": [
+    {
+      "key": "wiki-09556-1",
+      "title": "Phường Hà Đông công bố Nghị quyết của Hội đồng nhân dân phường về việc sắp xếp, tổ chức lại các tổ dân phố trên địa bàn",
+      "url": "https://hadong.hanoi.gov.vn/dang-doan-the/phuong-ha-dong-cong-bo-nghi-quyet-cua-hdnd-phuong-ve-viec-sap-xep-to-chuc-lai-cac-to-dan-pho-tren-dia-ban-2809260701103914527.htm",
+      "date": "2026-06-20",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-09556-2",
+      "title": "Nghị quyết số 111/2025/UBTVQH15 ngày 24 tháng 12 năm 2025 của Ủy ban Thường vụ Quốc hội về phân loại đô thị",
+      "url": "https://cdn.nhandan.vn/files/f4a4abf7f9a0ba4a91744616546d850872b76917f90d5a74cc9eebef1369fb6f/111.pdf",
+      "date": "2026-07-12",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-09556-3",
+      "title": "Nghị quyết số 1656/NQ-UBTVQH15 ngày 16 tháng 6 năm 2025 của Ủy ban Thường vụ Quốc hội về việc sắp xếp các đơn vị hành chính cấp xã của thành phố Hà Nội năm 2025",
+      "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf",
+      "date": "2026-06-30",
+      "type": "wikipedia-ref"
+    }
+  ],
+  "note": "Trích tự động từ Wikipedia tiếng Việt (mode=table). Cần đối chiếu nghị quyết HĐND phường/xã.",
+  "tdp": [
+    {
+      "name": "1 Hà Cầu",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "2 Hà Cầu",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "3 Hà Cầu",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "4 Hà Cầu",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "5 Hà Cầu",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "6 Hà Cầu",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "7 Hà Cầu",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "1 La Khê",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "2 La Khê",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "3 La Khê",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "4 La Khê",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "5 La Khê",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "6 La Khê",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "9 La Khê",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "1 Mộ Lao",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "2 Mộ Lao",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "3 Mộ Lao",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "4 Mộ Lao",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "5 Mộ Lao",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "6 Mộ Lao",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "7 Mộ Lao",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "8 Mộ Lao",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "9 Mộ Lao",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "1 Nguyễn Trãi",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "2 Nguyễn Trãi",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "3 Nguyễn Trãi",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "4 Nguyễn Trãi",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "5 Nguyễn Trãi",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "1 Phúc La",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "2 Phúc La",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "3 Phúc La",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "4 Phúc La",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "5 Phúc La",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "6 Phúc La",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "7 Phúc La",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "8 Phúc La",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "9 Phúc La",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "10 Phúc La",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "11 Phúc La",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "12 Phúc La",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "1 Quang Trung",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "2 Quang Trung",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "3 Quang Trung",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "4 Quang Trung",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "5 Quang Trung",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "6 Quang Trung",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "1 Vạn Phúc",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "2 Vạn Phúc",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "3 Vạn Phúc",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "4 Vạn Phúc",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "5 Vạn Phúc",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "1 Văn Quán",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "2 Văn Quán",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "3 Văn Quán",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "4 Văn Quán",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "5 Văn Quán",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "6 Văn Quán",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "7 Văn Quán",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "1 Yết Kiêu",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "2 Yết Kiêu",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "3 Yết Kiêu",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Văn Khê 1",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Văn Khê 2",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Văn Khê 3",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Yên Phúc",
+      "type": "tổ dân phố"
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "ward_code": "09877",
+  "ward_name": "An Khánh",
+  "province_code": "01",
+  "resolution": "",
+  "arrangement": "2026_07",
+  "effective_date": "2026-07-01",
+  "verified": "unverified",
+  "extraction": {
+    "source": "vi.wikipedia.org",
+    "title": "(cache)",
+    "mode": "table"
+  },
+  "sources": [
+    {
+      "key": "wiki-09877-1",
+      "title": "Danh sách người ứng cử Đại biểu Hội đồng Nhân dân xã An Khánh nhiệm kỳ 2026 – 2031",
+      "url": "https://ankhanh.hanoi.gov.vn/thong-bao/danh-sach-nguoi-ung-cu-dai-bieu-hoi-dong-nhan-dan-xa-an-khanh-nhiem-ky-2026-2031-2777260228002756727.htm",
+      "date": "2026-03-15",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-09877-2",
+      "title": "Nghị quyết số 111/2025/UBTVQH15 ngày 24 tháng 12 năm 2025 của Ủy ban Thường vụ Quốc hội về phân loại đô thị",
+      "url": "https://cdn.nhandan.vn/files/f4a4abf7f9a0ba4a91744616546d850872b76917f90d5a74cc9eebef1369fb6f/111.pdf",
+      "date": "2026-07-12",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-09877-3",
+      "title": "Kỳ họp thứ ba (Kỳ họp thường lệ) Hội đồng nhân dân xã An Khánh khóa XXI, nhiệm kỳ 2021 – 2026",
+      "url": "https://ankhanh.hanoi.gov.vn/hoat-dong-khoi-chinh-quyen/ky-hop-thu-ba-ky-hop-thuong-le-hdnd-xa-an-khanh-khoa-xxi-nhiem-ky-2021-2026-2777251209101129734.htm",
+      "date": "2025-12-08",
+      "type": "wikipedia-ref"
+    }
+  ],
+  "note": "Trích tự động từ Wikipedia tiếng Việt (mode=table). Cần đối chiếu nghị quyết HĐND phường/xã.",
+  "tdp": [
+    {
+      "name": "Tổ dân phố 2",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Tổ dân phố 3",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Tổ dân phố 4",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Tổ dân phố 5",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "An Hạ",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "An Thọ",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Cát Thuế",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Đào Nguyên",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Đông Lao",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Đồng Nhân",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Hoa Thám",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "La Tinh",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Minh Khai",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Mộc Hòan",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Ngãi Cầu",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Ngự Câu",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Phú Vinh",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Phương Quan",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Thanh Quang",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Thống Nhất",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Tiền Phong",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Trường An",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Vân Côn",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Vân Lũng",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Yên Lũng",
+      "type": "tổ dân phố"
+    }
+  ]
+}

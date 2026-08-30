@@ -1,0 +1,149 @@
+{{Thông tin đơn vị hành chính Việt Nam|Xã
+| tên = Yên Bài
+| hình = Khoang Xanh Suoi Tien suoi thac 01.jpg 
+| ghi chú hình = Thác nước tại xã Yên Bài 
+| vĩ độ = 21.077700286424026
+| kinh độ = 105.42583072695561
+| diện tích = 68,19 km²
+| dân số = 21.416 người
+| thời điểm dân số = 2025
+| mật độ dân số = {{formatnum:{{#expr:floor({{formatnum:21.416| R}}/{{formatnum:68,19| R}})}} }} người/km²
+| vùng = [[Đồng bằng sông Hồng]]
+| thành phố = [[Hà Nội]]
+| thành lập = 
+| trụ sở UBND = Thôn Vân Hòa<ref>{{Chú thích web |url=https://storage-vnportal.vnpt.vn/gov-hni/6244/VanBan/2025/6/25/TB-729-2025.pdf |title=Thông báo số 729/TB-UBND ngày 25 tháng 6 năm 2025 của Ủy ban nhân dân thành phố Hà Nội về địa điểm trụ sở làm việc của 126 phường, xã sau sắp xếp thuộc phạm vi quản lý của thành phố Hà Nội|access-date=2026-06-15 |archive-date=2026-06-15 |archive-url=https://web.archive.org/web/20260615034519/https://storage-vnportal.vnpt.vn/gov-hni/6244/VanBan/2025/6/25/TB-729-2025.pdf |url-status=dead | website = Cổng Thông tin điện tử Ủy ban nhân dân thành phố Hà Nội}}</ref>
+| mã hành chính =09706<ref>{{Chú thích web |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/19ttg.signed.pdf |title=Quyết định số 19/2025/QĐ-TTg ngày 30 tháng 6 năm 2025 của Thủ tướng Chính phủ về việc Ban hành Bảng danh mục và mã số các đơn vị hành chính Việt Nam |access-date=2026-06-15 |archive-date=2026-06-15 |archive-url=https://web.archive.org/web/20260615034519/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/19ttg.signed.pdf |url-status=dead | website = Cổng Thông tin điện tử Chính phủ}}</ref> 
+| mã bưu chính = 
+|web={{url|yenbai.hanoi.gov.vn}}|bản đồ 1={{maplink|frame=yes|plain=yes|type=shape|frame-width=280|frame-align=center|stroke-width=3}}|trụ sở Đảng ủy=Thôn Vân Hòa}}
+'''Yên Bài''' là một [[Xã (Việt Nam)|xã]] thuộc thành phố [[Hà Nội]], [[Việt Nam]].
+
+== Địa lý==
+Xã Yên Bài có vị trí địa lý:
+
+* Phía đông giáp xã [[Đoài Phương]]
+* Phía tây giáp xã [[Ba Vì, Hà Nội|Ba Vì]]
+* Phía nam giáp xã [[Thịnh Minh]] thuộc tỉnh [[Phú Thọ]], xã [[Yên Xuân, Hà Nội|Yên Xuân]] và xã [[Hòa Lạc, Hà Nội|Hòa Lạc]]
+
+* Phía bắc giáp xã [[Suối Hai]] và phường [[Tùng Thiện]].<ref>{{Chú thích web |last=Viện nghiên cứu Phát triển kinh tế – xã hội Hà Nội |date=2025-07-02 |title=Xã Yên Bài: Những thông tin chi tiết sau sắp xếp |url=https://hanoionline.vn/xa-yen-baimp4-344051.htm |url-status=live |archive-url=https://web.archive.org/web/20260711400809/https://hanoionline.vn/xa-yen-baimp4-344051.htm |archive-date=2026-07-11 |access-date=2026-07-11 |website=Cơ quan Báo và Phát thanh Truyền hình Hà Nội}}</ref><ref>{{Chú thích web |last=Cơ quan Báo và Phát thanh Truyền hình Hà Nội |date=2025-07-08 |title=Xã Yên Bài: Tất cả thông tin chỉ dẫn bạn cần biết |url=https://hanoionline.vn/xa-yen-bai-tat-ca-thong-tin-chi-dan-ban-can-biet-345484.htm |url-status=live |archive-url=https://web.archive.org/web/20260711401509/https://hanoionline.vn/xa-yen-bai-tat-ca-thong-tin-chi-dan-ban-can-biet-345484.htm |archive-date=2026-07-11 |access-date=2026-07-11}}</ref>
+
+Xã Yên Bài có diện tích tự nhiên là 68,19 km<sup>2</sup>, quy mô dân số năm 2025 là 21.416 người và mật độ dân số đạt 314 người/km<sup>2</sup>.<ref>{{Chú thích web |last=Mai Hữu |date=2026-04-05 |title=Hà Nội: Chi tiết phương án tổng thể sắp xếp đơn vị hành chính cấp xã |url=https://hanoimoi.vn/ha-noi-chi-tiet-phuong-an-tong-the-sap-xep-don-vi-hanh-chinh-cap-xa-700278.html |url-status=live |archive-url=https://web.archive.org/web/20260711401509/https://hanoimoi.vn/ha-noi-chi-tiet-phuong-an-tong-the-sap-xep-don-vi-hanh-chinh-cap-xa-700278.html |archive-date=2026-07-11 |access-date=2026-07-11 |website=Cơ quan Báo và Phát thanh, truyền hình Hà Nội}}</ref><ref>Công văn số 2896/BNV-CQĐP ngày 27 tháng 5 năm 2025 của Bộ Nội vụ về việc cung cấp thông tin danh mục dự kiến đơn vị hành chính cấp xã mới.</ref>
+
+== Lịch sử==
+
+=== Trước năm 1976 ===
+
+=== Giai đoạn 1976 – nay ===
+Sau ngày 2 tháng 7 năm 1976, 3 xã: Hòa Thuận, Vân Sơn và Yên Bài thuộc huyện [[Ba Vì (huyện)|Ba Vì]]; 4 xã: Bình Yên, Đồng Trúc, Hạ Bằng và Tân Xã thuộc huyện [[Thạch Thất (huyện)|Thạch Thất]] của tỉnh [[Hà Sơn Bình]].
+
+Ngày 18 tháng 12 năm 1976, hợp nhất xã Vân Sơn và xã Hòa Thuận thành một xã lấy tên là xã Vân Hòa thuộc huyện [[Ba Vì (huyện)|Ba Vì]] cùng tỉnh.<ref>Quyết định số 1508-TCCP ngày 18 tháng 12 năm 1976 của Phủ Thủ tướng về việc hợp nhất xã Vân Sơn và xã Hòa Thuận thành một xã lấy tên là xã Vân Hòa thuộc huyện Ba Vì, tỉnh Hà Sơn Bình.</ref>
+
+Ngày 29 tháng 12 năm 1978, sáp nhập các huyện [[Ba Vì (huyện)|Ba Vì]] và [[Thạch Thất (huyện)|Thạch Thất]] của tỉnh [[Hà Sơn Bình]] vào thành phố [[Hà Nội]]. Khi đó, 2 xã: Vân Hòa và Yên Bài thuộc huyện [[Ba Vì (huyện)|Ba Vì]]; 4 xã: Bình Yên, Đồng Trúc, Hạ Bằng và Tân Xã thuộc huyện [[Thạch Thất (huyện)|Thạch Thất]] của thành phố [[Hà Nội]].<ref>Nghị quyết ngày 29 tháng 12 năm 1978 của Quốc hội khóa VI, Kỳ họp thứ 4 phê chuẩn việc phân vạch lại địa giới thành phố Hà Nội, thành phố Hồ Chí Minh, các tỉnh Hà Sơn Bình, Vĩnh Phú, Cao Lạng, Bắc Thái, Quảng Ninh và Đồng Nai.</ref>
+
+Ngày 12 tháng 8 năm 1991, chia tỉnh [[Hà Sơn Bình]] thành 2 tỉnh, lấy tên là tỉnh [[Hòa Bình (tỉnh)|Hòa Bình]] và tỉnh [[Hà Tây (tỉnh)|Hà Tây]]. Chuyển 2 huyện: [[Ba Vì (huyện)|Ba Vì]] và [[Thạch Thất (huyện)|Thạch Thất]] của thành phố [[Hà Nội]] về tỉnh [[Hà Tây (tỉnh)|Hà Tây]]. Khi đó, 2 xã: Vân Hòa và Yên Bài thuộc huyện [[Ba Vì (huyện)|Ba Vì]]; 4 xã: Bình Yên, Đồng Trúc, Hạ Bằng và Tân Xã thuộc huyện [[Thạch Thất (huyện)|Thạch Thất]] của tỉnh [[Hà Tây (tỉnh)|Hà Tây]].<ref>Nghị quyết ngày 12 tháng 8 năm 1991 của Quốc hội khóa VIII, Kỳ họp thứ 9 về việc điều chỉnh địa giới hành chính một số tỉnh, thành phố trực thuộc Trung ương.</ref>
+
+Ngày 29 tháng 8 năm 1994, thành lập xã Thạch Hòa (huyện [[Thạch Thất (huyện)|Thạch Thất]]) trên cơ sở diện tích tự nhiên 102,24 ha, nhân khẩu 2.099 của xã Bình Yên; diện tích tự nhiên 418,72 ha, nhân khẩu 516 của xã Tân Xã; diện tích tự nhiên 556 ha, nhân khẩu 1.402 của xã Hạ Bằng; nhân khẩu 593 của xã Đồng Trúc và diện tích tự nhiên 1.349,92 ha của trường bắn quốc gia A1 (do Bộ Quốc phòng giao lại).<ref>Nghị định số 107-CP ngày 29 tháng 8 năm 1994 của Chính phủ về việc thành lập xã Thạch Hòa, huyện Thạch Thất; thị trấn Phúc Thọ, huyện Phúc Thọ; thị trấn Tây Đằng, huyện Ba Vì, tỉnh Hà Tây.</ref>
+
+Ngày 29 tháng 5 năm 2008, hợp nhất tỉnh [[Hà Tây (tỉnh)|Hà Tây]] vào thành phố [[Hà Nội]]. Khi đó, 2 xã: Vân Hòa và Yên Bài thuộc huyện [[Ba Vì (huyện)|Ba Vì]]; xã Thạch Hòa thuộc huyện [[Thạch Thất (huyện)|Thạch Thất]] của thành phố [[Hà Nội]].<ref>Nghị quyết số 15/2008/QH12 ngày 29 tháng 5 năm 2008 của Quốc hội khóa XII, Kỳ họp thứ 3 về việc điều chỉnh địa giới hành chính thành phố Hà Nội và một số tỉnh có liên quan.</ref>
+
+Ngày 16 tháng 6 năm 2025:
+
+* Kết thúc hoạt động của đơn vị hành chính cấp huyện trong cả nước.<ref>{{Chú thích web |last= |date= |title=Nghị quyết số 203/2025/QH15 ngày 16 tháng 6 năm 2025 của Quốc hội khóa XV, Kỳ họp thứ 9 về việc sửa đổi, bổ sung một số điều của Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/nq-sua-doi-hien-phap.pdf |url-status=live |archive-url=https://web.archive.org/web/20260613090807/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/nq-sua-doi-hien-phap.pdf |archive-date=2026-06-13 |access-date=2026-06-13 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+* Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của xã Vân Hòa, xã Yên Bài (huyện [[Ba Vì (huyện)|Ba Vì]]) và một phần diện tích tự nhiên, quy mô dân số của xã Thạch Hòa (huyện [[Thạch Thất (huyện)|Thạch Thất]]) thành xã mới có tên gọi là xã Yên Bài.<ref>{{Chú thích web |title=Nghị quyết số 1656/NQ-UBTVQH15 ngày 16 tháng 6 năm 2025 của Ủy ban Thường vụ Quốc hội về việc sắp xếp các đơn vị hành chính cấp xã của thành phố Hà Nội năm 2025 |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf |url-status=live |archive-url=https://web.archive.org/web/20260630400809/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf |archive-date=2026-06-30 |access-date=2026-06-30 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+* Sau khi sắp xếp, xã Yên Bài được chia thành 22 thôn.<ref>14 thôn: Bặn, Bơn, Đa Cuống, Đồng Chay, Hòa Trung, Mồ Đồi, Muồng Cháu, Muồng Phú Vàng, Muồng Voi, Nghe, Rùa, Việt Hòa, Xoan và Xuân Hòa của xã Vân Hòa cũ; 8 thôn: Bài, Chóng, Mít Mái, Muỗi, Phú Yên, Quảng Phúc, Quýt và Việt Yên của xã Yên Bài cũ.</ref><ref>{{Chú thích web |title=Thông tư số 10/2022/TT-BTNMT ngày 29 tháng 9 năm 2022 của Bộ Tài nguyên và Môi trường về việc Ban hành Danh mục địa danh dân cư, sơn văn, thủy văn, kinh tế – xã hội phục vụ công tác thành lập bản đồ thành phố Hà Nội |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2022/10/10-btnmt.pdf |url-status=live |archive-url=https://web.archive.org/web/20260630400809/https://datafiles.chinhphu.vn/cpp/files/vbpq/2022/10/10-btnmt.pdf |archive-date=2026-06-30 |access-date=2026-06-30 |website=Cổng Thông tin điện tử Chính phủ}}</ref><ref>{{Chú thích web |title=Danh sách Thôn vùng đồng bào dân tộc thiểu số và miền núi, thôn đặc biệt khó khăn giai đoạn 2026 – 2030 trên địa bàn thành phố Hà Nội (Kèm theo Quyết định số 104/QĐ-BDTTG ngày 27 tháng 02 năm 2026 của Bộ trưởng Bộ Dân tộc và Tôn giáo) |url=http://files.ubdt.gov.vn/files/ecm/source_files/2026/03/09/11023866_2.%20H%C3%A0%20N%E1%BB%99i%20(th%C3%B4n).signed_26-03-09.pdf |url-status=dead |archive-url=https://web.archive.org/web/20260812201510/http://files.ubdt.gov.vn/files/ecm/source_files/2026/03/09/11023866_2.%20H%C3%A0%20N%E1%BB%99i%20(th%C3%B4n).signed_26-03-09.pdf |archive-date=2026-08-12 |access-date=2026-08-12 |website=Cổng Thông tin điện tử Bộ Dân tộc và Tôn giáo}}</ref><ref>{{Chú thích web |last= |date= |title=Quyết định số 19/QĐ-UBBC ngày 19 tháng 3 năm 2026 của Ủy ban bầu cử xã Yên Bài về việc công bố kết quả bầu cử theo từng đơn vị bầu cử và danh sách những người trúng cử đại biểu Hội đồng nhân dân xã Yên Bài, khóa XXII, nhiệm kỳ 2026 – 2031 |url=https://sqhx-hanoi.mediacdn.vn/91579363132710912/2026/3/20/qd-19-cong-bo-qd-bau-cu-17739945114411628936923.pdf |url-status=dead |archive-url=https://web.archive.org/web/20260729400809/https://sqhx-hanoi.mediacdn.vn/91579363132710912/2026/3/20/qd-19-cong-bo-qd-bau-cu-17739945114411628936923.pdf |archive-date=2026-07-29 |access-date=2026-07-29 |website=Trang Thông tin điện tử xã Yên Bài – thành phố Hà Nội}}</ref>
+Ngày 24 tháng 6 năm 2026, thành lập 9 thôn mới: Phúc Yên, Quýt, Bài, Yên Hòa, Xuân Trung, Vân Sơn, Muồng, Phú Vàng và Vân Hòa.<ref>1. Sáp nhập diện tích tự nhiên, quy mô dân số của thôn Phú Yên và Quảng Phúc thành thôn Phúc Yên (654 hộ); 2. Sáp nhập diện tích tự nhiên, quy mô dân số của thôn Quýt – Chóng (Theo trục giao thông đường UBND Yên Bài cũ) thành thôn Quýt (505 hộ); 3. Sáp nhập diện tích tự nhiên, quy mô dân số của thôn Mít Mái, Muỗi, Bài (Theo trục giao thông Ba Vành – Suối Mơ) thành thôn Bài (840 hộ); 4. Sáp nhập diện tích tự nhiên, quy mô dân số của thôn Việt Hòa và Việt Yên thành thôn Yên Hòa (471 hộ); 5. Sáp nhập diện tích tự nhiên, quy mô dân số của thôn Hòa Trung và Xuân Hòa thành thôn Xuân Trung (494 hộ); 6. Sáp nhập diện tích tự nhiên, quy mô dân số của thôn Rùa – Xoan – Nghe thành thôn Vân Sơn (511 hộ); 7. Sáp nhập diện tích tự nhiên, quy mô dân số của thôn Muồng Voi – Muồng Cháu thành thôn Muồng (586 hộ); 8. Sáp nhập diện tích tự nhiên, quy mô dân số của thôn Bơn, Đa Cuống, Muồng Phú Vàng thành thôn Phú Vàng (606 hộ); 9. Sáp nhập diện tích tự nhiên, quy mô dân số của thôn Bặn – Mồ Đồi – Đồng Chay (theo lịch sử và đường giao thông liên thôn) thành thôn Vân Hòa (654 hộ).</ref><ref name=":0">{{Chú thích web |title=Đề án số 2/ĐA-UBND ngày 11 tháng 6 năm 2026 về việc việc sắp xếp, tổ chức lại thôn trên địa bàn xã Yên Bài, thành phố Hà Nội |url=https://sqhx-hanoi.mediacdn.vn/91579363132710912/2026/6/13/de-an-sap-xep-thon-tren-dia-ban-xa-yen-bai-17813412034231325467056.pdf |url-status=live |archive-url=https://web.archive.org/web/20260729400809/https://sqhx-hanoi.mediacdn.vn/91579363132710912/2026/6/13/de-an-sap-xep-thon-tren-dia-ban-xa-yen-bai-17813412034231325467056.pdf |archive-date=2026-07-29 |access-date=2026-07-29 |website=Trang Thông tin điện tử xã Yên Bài – thành phố Hà Nội}}</ref><ref name=":1">{{Chú thích web |last=Xã Yên Bài – thành phố Hà Nội |date=2026-06-24 |title=Hội đồng nhân dân xã Yên Bài tổ chức thành công Kỳ họp thường lệ giữa năm 2026 (Kỳ họp thứ Ba), khóa XXII, nhiệm kỳ 2026 – 2031 |url=https://web.facebook.com/story.php?story_fbid=1023491040263872&id=100078089572480&rdid=fJr99rs13Raqw9Jg# |url-status=dead |archive-url=https://web.archive.org/web/20260729400809/https://web.facebook.com/story.php?story_fbid=1023491040263872&id=100078089572480&rdid=fJr99rs13Raqw9Jg# |archive-date=2026-07-29 |access-date=2026-07-29 |website=}}</ref>[[Tập_tin:Bản_đồ_các_thôn_thuộc_xã_Yên_Bài_–_thành_phố_Hà_Nội.jpg|trái|nhỏ|206x206px|Sơ đồ địa giới 9 thôn trên địa bàn xã Yên Bài của thành phố Hà Nội (từ ngày 1 tháng 7 năm 2026)<ref name=":2">{{Chú thích web |last=Xã Yên Bài – thành phố Hà Nội |date=2026-06-13 |title=Xã Yên Bài triển khai đề án sắp xếp, tổ chức lại thôn năm 2026 |url=https://web.facebook.com/photo/?fbid=1014351297844513&set=a.210101108269540 |url-status=dead |archive-url=https://web.archive.org/web/20260729201509/https://web.facebook.com/photo/?fbid=1014351297844513&set=a.210101108269540 |archive-date=2026-07-29 |access-date=2026-07-29}}</ref>]]<!--== Lễ hội:== 
+Hồng Hà có các lễ hội lớn sau:
+
+*Ngày 3 tháng giêng: [[Lễ hội rước bánh dày làng Bá]] được 5 miền trong làng thay nhau tổ chức(miền Tâm tỉnh, Đồng tâm, Đồng tiến, Liên Hợp, Đồng Độ).
+*Ngày 4 đến ngày 8, 9 tháng Giêng: Hội vật dân tộc của Xã, khởi khai từ điểm luyện binh thời nhà Đinh ở vùng Châu Diên (Ô Diên thành-kinh đô nhà Tiền Lý). Đây được coi là cái nôi của Hội vật dân tộc ở miền Bắc, là sới vật duy nhất của huyện Đan Phượng còn giữ và phát triển cho đến ngày nay.
+*Ngày 13 tháng giêng lễ hội Cầu Ngư làng Vạn Vĩ, tưởng nhớ thành hoàng làng Võ Duệ có công phò tá nhà Hậu Lê.
+*Ngày 14 tháng 3 [[Âm lịch| ÂL]]: Lễ hội thôn Bồng Lai thờ Đức Thánh Mẫu Hạo Nương cung phi thứ 9 của vua Lý Thánh Tông, thân mẫu của hoàng tử là '''[[Hoằng Chân]] (tức''' [[Linh Lang]] Đại vương) một là vị thần được thờ tại [[đền Voi Phục]] (một trong [[Thăng Long tứ trấn| Tứ trấn]] của Thăng Long Hà Nội) phía Tây thành Thăng Long cũ.
+*Ngày 15-16 tháng 3 (ÂL): [[Hội thả diều truyền thống Bá Dương Nội]]. Đây là một lễ hội dân gian đặc sắc của vùng đồng bằng châu thổ trồng lúa nước. Được sự quan tâm của đông đảo nhân dân thủ đô.
+
+== Dân cư, văn hoá, xã hội:== 
+Hồng Hà là một xã đông dân cư, có mật độ phân bố dân cư cao thuộc loại cao của huyện. Theo thống kê tháng 7 năm 2006 thì dân số Hồng Hà khoảng 12000 người.
+
+Lịch sử hình thành và phát triển của xã Hồng Hà chứng kiến nhiều cuộc di dân quy mô lớn. Năm 1971, do ảnh hưởng của thiên nhiên, 2 làng Nại Châu và Nại Xá và một phần các làng Bá Dương Nội, Bá Dương Thị bị lở xuống sông Hồng, năm 1972 theo tiếng gọi của Đảng, nhân dân các làng bị ảnh hưởng trận lụt lịch sử đã ngược dòng sông Mã lập vùng kinh mới thành lập hợp tác xã Thống Nhất tại xã Chiềng Khương huyện Sông Mã tỉnh Sơn La.
+
+Hòa bình được lập lại thì đã có nhiều đợt di dân tới làm việc tại vùng kinh tế mới khác như (Hà Bắc, Sơn La, Lâm Đồng, bãi Tứ Liên, Yên Phụ).
+
+Là một xã đông dân cư đất nông nghiệp ít (5 thước/người) nên xã Hồng Hà phát triển nhiều nghề phụ như nấu rượu gạo, làm đậu và chăn nuôi lợn. Rượu và đậu làng Bá nổi tiếng trong vùng chủ yếu cung cấp cho nội thành Hà Nội.
+
+== Di tích== 
+Đình làng Bá Dương, thờ [[tướng nhà Đinh]] Nguyễn Cả, người tham gia dẹp [[loạn 12 sứ quân]] lập ra nhà nước [[Đại Cồ Việt]].
+
+Miếu Châu Thổ (hay còn gọi là miếu diều), thờ thần linh châu thổ, nơi tổ chức lễ hội diều truyền thống lớn nhất miền bắc vào ngày 15/3 Âm lịch hàng năm.
+
+Đình Tu thờ Linh Lang Đại Vương,là vị thần được thờ tại [[đền Voi Phục]] (một trong [[Thăng Long tứ trấn| Tứ trấn]] của Thăng Long Hà Nội) phía Tây thành Thăng Long.
+
+Đền Đoàn thờ Hạo Nương, bà là cung phi thứ 9 của vua Lý Thánh Tông, thân mẫu của hoàng tử '''[[Hoằng Chân]] (tức''' Linh Lang Đại vương)
+
+== Lịch sử - văn hóa== 
+Được hình thành từ rất lâu đời Nét văn hóa của Tiến Thịnh mang đậm sắc thái văn hóa Đồng Bằng châu thổ Sông Hồng. Nhiều di tích lịch sử văn hóa như Đình làng, chùa bị tàn phá do chiến tranh và hậu quả của cuộc cải cách ruộng đất. (thập niên 60, thế kỷ XX). Đến nay nhờ vào các nguồn đóng góp của nhân dân địa phương và kinh phí hỗ trợ của nhà nước các đình chùa hầu như đã được tu tạo khá khang trang như Đền Thiên Cổ, Chùa Bảo Lâm (Làng Thọ Lão), Chùa Hương Lâm.. vì được thừa hưởng nhiều nét văn hóa từ thời vua Trần nên nơi đây còn lưu giữ nhiều di tích mang đậm nét thời trần và thôn còn lại nhiều nét văn hóa đó là thôn Thọ Lão với di tích đình làng và chùa Bảo Lâm còn để lại và một trong các vẻ đẹp văn hóa đó chính là cây đa, bến nước, sân đình của thôn Chu Trần và đó cũng là nét văn hóa ngày nay của thôn.-->
+
+== Hành chính==
+Xã Yên Bài được chia thành 9 thôn: Bài, Muồng, Phú Vàng, Phúc Yên, Quýt, Vân Hòa, Vân Sơn, Xuân Trung và Yên Hòa.<ref name=":0" /><ref name=":1" />
+{| class="wikitable sortable" cellpadding="0" cellspacing="6" width="100%" align="center" style="background: #f9f9f9; border: 1px #aaa solid; margin-top: 16px"
+! colspan="4" style="background: #E6E6FA; font-size: 95%;" |Danh sách các thôn thuộc xã Yên Bài<ref name=":0" /><ref name=":1" />
+|-
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| cellpadding="1" cellspacing="1" width="100%" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Bài
+|840
+|-
+| align="left" |Muồng
+|586
+|-
+| align="left" |Phú Vàng
+|606
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| cellpadding="1" cellspacing="1" width="100%" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Phúc Yên
+|654
+|-
+| align="left" |Quýt
+|505
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| cellpadding="1" cellspacing="1" width="100%" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Vân Hòa
+|654
+|-
+| align="left" |Vân Sơn
+|511
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| cellpadding="1" cellspacing="1" width="100%" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Xuân Trung
+|494
+|-
+| align="left" |Yên Hòa
+|471
+|}
+|}
+
+==Danh nhân== 
+*
+
+==Hình ảnh==
+[[File:Khu du lịch Long Việt, Ba Vì, Hà Nội - panoramio.jpg|thumb|Khu du lịch Long Việt]]
+
+== Chú thích==
+{{tham khảo}}
+
+== Tham khảo==
+
+{{sơ khai Hà Nội}}
+{{Đơn vị hành chính thuộc thành phố Hà Nội}}

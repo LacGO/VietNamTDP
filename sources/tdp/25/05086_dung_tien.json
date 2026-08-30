@@ -1,0 +1,132 @@
+{
+  "ward_code": "05086",
+  "ward_name": "Dũng Tiến",
+  "province_code": "25",
+  "resolution": "",
+  "arrangement": "truoc_2026_07",
+  "effective_date": "",
+  "verified": "unverified",
+  "extraction": {
+    "source": "vi.wikipedia.org",
+    "title": "Dũng Tiến",
+    "mode": "narrative"
+  },
+  "sources": [
+    {
+      "key": "wiki-05086-1",
+      "title": "Tiểu sử tóm tắt của ứng viên Đại biểu Hội đồng nhân dân xã Dũng Tiến nhiệm kỳ 2026 -2031 thuộc đơn vị bầu cử số 1, xã Dũng Tiến.",
+      "url": "https://dungtien.phutho.gov.vn/index.php/tin-t-c-s-ki-n/tin-n-i-b-t/635-tia-u-sa-ta-m-ta-t-ca-a-a-ng-via-n-a-i-bia-u-h-nd-xa-d-ng-tia-n-nhia-m-ka-2026-2031-thua-c-n-va-ba-u-ca-sa-1-xa-d-ng-tia-n",
+      "date": "2026-03-05",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-05086-2",
+      "title": "Tiểu sử tóm tắt của ứng viên Đại biểu Hội đồng nhân dân xã Dũng Tiến nhiệm kỳ 2026 - 2031 thuộc đơn vị bầu cử số 2, xã Dũng Tiến",
+      "url": "https://dungtien.phutho.gov.vn/index.php/tin-t-c-s-ki-n/tin-n-i-b-t/636-tia-u-sa-ta-m-ta-t-ca-a-a-ng-via-n-a-i-bia-u-h-nd-xa-d-ng-tia-n-nhia-m-ka-2026-2031-thua-c-n-va-ba-u-ca-sa-2-xa-d-ng-tia-n",
+      "date": "2026-03-05",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-05086-3",
+      "title": "Tiểu sử tóm tắt của ứng viên Đại biểu Hội đồng nhân dân xã Dũng Tiến nhiệm kỳ 2026 - 2031 thuộc đơn vị bầu cử số 3, xã Dũng Tiến",
+      "url": "https://dungtien.phutho.gov.vn/index.php/tin-t-c-s-ki-n/tin-n-i-b-t/634-tia-u-sa-ta-m-ta-t-ca-a-a-ng-via-n-a-i-bia-u-h-nd-xa-d-ng-tia-n-nhia-m-ka-2026-2031-thua-c-n-va-ba-u-ca-sa-5-xa-d-ng-tia-n",
+      "date": "2026-03-05",
+      "type": "wikipedia-ref"
+    }
+  ],
+  "note": "Trích tự động từ Wikipedia tiếng Việt (mode=narrative). Cần đối chiếu nghị quyết HĐND phường/xã. ⚠️ Danh mục có thể là hiện trạng TRƯỚC sắp xếp thôn/TDP 01/7/2026 — Wikipedia chưa cập nhật nghị quyết mới.",
+  "tdp": [
+    {
+      "name": "Ba Giang",
+      "type": "xóm"
+    },
+    {
+      "name": "Ba Lầm",
+      "type": "xóm"
+    },
+    {
+      "name": "Bãi Khoai",
+      "type": "xóm"
+    },
+    {
+      "name": "Cành",
+      "type": "xóm"
+    },
+    {
+      "name": "Chạo",
+      "type": "xóm"
+    },
+    {
+      "name": "Cuối",
+      "type": "xóm"
+    },
+    {
+      "name": "Dăm",
+      "type": "xóm"
+    },
+    {
+      "name": "Đồng Hòa",
+      "type": "xóm"
+    },
+    {
+      "name": "Khoang",
+      "type": "xóm"
+    },
+    {
+      "name": "Lựng",
+      "type": "xóm"
+    },
+    {
+      "name": "Má Mư",
+      "type": "xóm"
+    },
+    {
+      "name": "Mư",
+      "type": "xóm"
+    },
+    {
+      "name": "Mý Đông",
+      "type": "xóm"
+    },
+    {
+      "name": "Mý Thượng",
+      "type": "xóm"
+    },
+    {
+      "name": "Mỵ",
+      "type": "xóm"
+    },
+    {
+      "name": "Nghìa",
+      "type": "xóm"
+    },
+    {
+      "name": "Nuông",
+      "type": "xóm"
+    },
+    {
+      "name": "Pang",
+      "type": "xóm"
+    },
+    {
+      "name": "Phố Mỵ Thanh",
+      "type": "xóm"
+    },
+    {
+      "name": "Suối Thượng",
+      "type": "xóm"
+    },
+    {
+      "name": "Thông",
+      "type": "xóm"
+    },
+    {
+      "name": "Thượng",
+      "type": "xóm"
+    },
+    {
+      "name": "Vọ",
+      "type": "xóm"
+    }
+  ]
+}

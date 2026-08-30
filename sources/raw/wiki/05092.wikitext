@@ -1,0 +1,74 @@
+{{Thông tin đơn vị hành chính Việt Nam | xã
+| tên = Thung Nai
+| hình =Tòa nhà Quyển sách mở.jpg 
+| ghi chú hình =[[MEDDOM|Công viên Di sản các nhà khoa học Việt Nam]] 
+| vĩ độ = 20.729114974419083
+| kinh độ = 105.31350470148443
+| diện tích = 86,34 km²
+| dân số = 10.600 người
+| thời điểm dân số = 2025
+| mật độ dân số = {{formatnum:{{#expr:floor({{formatnum:10.600| R}}/{{formatnum:86,34| R}})}} }} người/km²
+| vùng = [[Đông Bắc Bộ]]
+| tỉnh = [[Phú Thọ]]
+| thành lập =16/6/2025 
+| trụ sở UBND = 
+| mã hành chính =05092 
+| mã bưu chính =36511 
+|web={{url|thungnai.phutho.gov.vn}}
+}}
+
+'''Thung Nai''' là một [[Xã (Việt Nam)|xã]] miền núi thuộc tỉnh [[Phú Thọ]], [[Việt Nam]].
+
+Cái tên Thung Nai bắt nguồn từ việc trước đây, khu vực này là một thung lũng rộng lớn có rất nhiều hươu, nai sinh sống, cũng từ đó người dân địa phương gọi đây là Thung Nai.<ref name = "100kqtn">{{chú thích sách |tựa đề= 100 kỳ quan thiên nhiên Việt Nam|tác giả = Nhóm Trí Thức Việt|năm= 2013|nhà xuất bản= Nhà Xuất bản Lao động}}</ref>
+
+== Địa lý ==
+Xã Thung Nai dân cư chủ yếu là [[người Mường]]. Đây là một địa danh du lịch cách [[Hà Nội|Thủ đô Hà Nội]] hơn 100&nbsp;km.
+
+Xã Thung Nai có vị trí địa lý
+
+* Phía bắc giáp xã [[Tiền Phong, Phú Thọ|Tiền Phong]] và phường [[Thống Nhất, Phú Thọ|Thống Nhất]].
+* Phía nam giáp xã [[Mường Thàng]].
+* Phía đông giáp xã [[Cao Phong, Phú Thọ|Cao Phong]].
+* Phía tây giáp xã [[Tả Van]] (thuộc tỉnh [[Lào Cai]]).
+
+== Hành chính ==
+Xã Thung Nai được chia thành 20 xóm: Bắc Sơn, Cáp, Chiềng, Dài, Dệ, Giang, Hải Phong, Khụ, Lòn, Má 1, Má 2, Môn, Mỗ, Mới, Mu, Nai, Tiến, Tiện, Tiềng, Tráng.<ref name=":1">{{Chú thích web |last=Bộ Dân tộc và Tôn giáo |date=2026-01-29 |title=Danh sách Thôn vùng đồng bào dân tộc thiểu số và miền núi, thôn đặc biệt khó khăn giai đoạn 2026 - 2030 trên địa bàn tỉnh Phú Thọ |url=http://files.ubdt.gov.vn/files/ecm/source_files/2026/02/05/11252411_4.%20Ph%C3%BA%20Th%E1%BB%8D%201%20(th%C3%B4n).signed_26-02-05.pdf |url-status=live |archive-url=https://web.archive.org/web/20260417090807/http://files.ubdt.gov.vn/files/ecm/source_files/2026/02/05/11252411_4.%20Ph%C3%BA%20Th%E1%BB%8D%201%20(th%C3%B4n).signed_26-02-05.pdf |archive-date=2026-04-17 |access-date=2026-04-17 |website=Cổng Thông tin điện tử Bộ Dân tộc và Tôn giáo}}</ref><ref>{{Chú thích web |last=Ủy ban bầu cử xã Thung Nai |date=2026-03-18 |title=Nghị quyết số 47/NQ-UBBC về việc Công bố kết quả bầu cử và danh sách những người trúng cử đại biểu Hội đồng nhân dân xã Thung Nai khóa XXI, nhiệm kỳ 2026 - 2031 |url=https://web.facebook.com/story.php?story_fbid=122165178122945012&id=61578350363678&rdid=JwMk53FiDS5Bq1vJ# |url-status=live |archive-url=https://web.archive.org/web/20260425090807/https://web.facebook.com/story.php?story_fbid=122165178122945012&id=61578350363678&rdid=JwMk53FiDS5Bq1vJ# |archive-date=2026-04-25 |access-date=2026-04-25 |website=Trang thông tin điện tử xã Thung Nai, tỉnh Phú Thọ}}</ref>
+
+== Lịch sử ==
+Thung Nai trước kia là một xã thuộc huyện [[Cao Phong (huyện)|Cao Phong]], tỉnh [[Hòa Bình (tỉnh)|Hòa Bình]] cũ.
+
+Ngày [[12 tháng 6]] năm [[2025]], [[Quốc hội Việt Nam|Quốc hội]] ban hành Nghị quyết số 202/2025/QH15<ref name="202/2025/QH15">{{Chú thích web |ngày=2025-06-12 |tựa đề=Nghị quyết số 202/2025/QH15 về việc sắp xếp đơn vị hành chính cấp tỉnh |url=https://quochoi.vn/tintuc/Pages/tin-hoat-dong-cua-quoc-hoi.aspx?ItemID=94532 |url-status=live |url lưu trữ=https://web.archive.org/web/20250612150244/https://quochoi.vn/tintuc/Pages/tin-hoat-dong-cua-quoc-hoi.aspx?ItemID=94532 |ngày lưu trữ=2025-06-12 |ngày truy cập=2025-06-12 |website=Cổng thông tin điện tử Quốc hội Việt Nam}}</ref> về việc sắp xếp đơn vị hành chính cấp tỉnh (nghị quyết có hiệu lực từ ngày 12 tháng 6 năm 2025). Theo đó, sáp nhập tỉnh [[Hòa Bình (tỉnh)|Hòa Bình]] và tỉnh [[Vĩnh Phúc (tỉnh)|Vĩnh Phúc]] vào tỉnh Phú Thọ. Xã Thung Nai thuộc tỉnh Phú Thọ.
+
+Ngày [[16 tháng 6]] năm [[2025]]:
+
+* Quốc hội ban hành Nghị quyết số 203/2025/QH15 về việc sửa đổi, bổ sung một số điều của Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam (nghị quyết có hiệu lực từ ngày [[16 tháng 6]] năm [[2025]]).<ref>{{Chú thích web|last=xaydungchinhsach.chinhphu.vn|date=2025-06-28|title=NGHỊ QUYẾT 203/2025/QH15 SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA HIẾN PHÁP NƯỚC CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM|url=https://xaydungchinhsach.chinhphu.vn/nghi-quyet-203-2025-qh15-sua-doi-bo-sung-mot-so-dieu-cua-hien-phap-nuoc-cong-hoa-xa-hoi-chu-nghia-viet-nam-119250616181735552.htm|url-status=live|archive-url=https://web.archive.org/web/20260715200606/https://xaydungchinhsach.chinhphu.vn/nghi-quyet-203-2025-qh15-sua-doi-bo-sung-mot-so-dieu-cua-hien-phap-nuoc-cong-hoa-xa-hoi-chu-nghia-viet-nam-119250616181735552.htm|archive-date=2026-07-15|access-date=2026-07-15|website=Báo Điện tử Chính phủ|language=vi}}</ref> Theo đó, kết thúc hoạt động của đơn vị hành chính cấp huyện trong cả nước từ ngày 1 tháng 7 năm 2025.
+* [[Ủy ban Thường vụ Quốc hội]] ban hành Nghị quyết số 1676/NQ-UBTVQH15 về việc sắp xếp các đơn vị hành chính cấp xã của tỉnh Phú Thọ năm 2025 (nghị quyết có hiệu lực từ ngày [[16 tháng 6]] năm [[2025]]).<ref>{{Chú thích web|last=xaydungchinhsach.chinhphu.vn|date=2025-06-20|title=Nghị quyết số 1676/NQ-UBTVQH15 sắp xếp các ĐVHC cấp xã của tỉnh Phú Thọ năm 2025|url=https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-1676-nq-ubtvqh15-sap-xep-cac-dvhc-cap-xa-cua-tinh-phu-tho-nam-2025-119250616204317326.htm|url-status=live|archive-url=https://web.archive.org/web/20260725082021/https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-1676-nq-ubtvqh15-sap-xep-cac-dvhc-cap-xa-cua-tinh-phu-tho-nam-2025-119250616204317326.htm|archive-date=2026-07-25|access-date=2025-09-07|website=Báo Điện tử Chính phủ|language=vi}}</ref> Theo đó, sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của các xã Bắc Phong, Bình Thanh và Thung Nai thành xã mới có tên gọi là '''xã Thung Nai'''.
+
+== Du lịch ==
+{{Xem thêm|Quần thể di tích Thác Bờ}}
+Với vẻ đẹp kỳ thú, Thung Nai được nhiều du khách trong và ngoài nước yêu mến gọi là "[[Vịnh Hạ Long]] trên núi". Nhờ hệ thống [[núi đá vôi]] rất đặc trưng của Hòa Bình, khi ngập nước, Thung Nai chẳng khác nào một Hạ Long thu nhỏ.
+
+Ở Thung Nai có rất nhiều địa danh để tham quan, khám phá như bản Mu, lòng hồ [[nhà máy thủy điện Hòa Bình|thủy điện Hòa Bình]], đền Bà Chúa Thác Bờ, chợ nổi, hang Trạch, động Thác Bờ... Cảnh quan tại Thung Nai đẹp và hoang sơ với những đảo đá trên hồ hay những khu rừng rậm rạp. Ngoài tìm hiểu các nét văn hóa đặc sắc của người dân địa phương, du khách còn có dịp thưởng thức những món ăn ngon như cá thiểu hồ sông Đà hun khói, lợn Mường,...
+
+=== Động Thác Bờ ===
+
+[[Hình:Động Thác Bờ, Cao Phong, Hòa Bình.jpg|nhỏ|200px|Lối vào bên trong động Thác Bờ]]
+Động Thác Bờ thuộc xóm Bưng, xã [[Mường Hoa]], tỉnh [[Phú Thọ]]. Động sâu hơn 100m, lòng động gập ghềnh, nhấp nhô chỗ rộng, chỗ hẹp, nơi rộng nhất tới 20m. Động được chia làm 3 cung phòng lớn. Qua tìm hiểu và nghiên cứu thực tế, về mặt địa chất, địa mạo động Thác Bờ thuộc loại hình [[karst|hang động karst]] có giá trị về mặt địa chất địa mạo và du lịch.<ref>{{Chú thích web|url = http://hoabinhtour.com.vn/vn/news/518/283/DONG-THAC-BO.html|tiêu đề = Động Thác Bờ|ngày = 2016-03-21|nhà xuất bản = Công ty TNHH MTV Du lịch Hòa Bình|ngày truy cập = 2017-01-19|archive-date = ngày 31 tháng 1 năm 2017 |archive-url = https://web.archive.org/web/20170131190350/http://hoabinhtour.com.vn/vn/news/518/283/DONG-THAC-BO.html|url-status = dead}}</ref>
+
+=== Đền bà chúa Thác Bờ ===
+
+[[Hình:Đền Chúa Thác Bờ.jpg|nhỏ|200px|Đền Chúa Thác Bờ]]
+
+Theo sử cũ, vào đầu thế kỷ 15, có bà Đinh Thị Vân, một người dân địa phương đã nhiều lần giúp vua Lê đánh giặc. Một lần, khi vận chuyển lương thực cho nhà vua đánh giặc, thuyền của bà gặp nạn. Xác bà trôi về đây và hiển linh. Để tưởng nhớ công lao của bà, người dân đã lập đền thờ và vinh danh bà là Đức thánh Thác Bờ, là người cai quản cả một dọc Tây Bắc, các xứ [[Người Mường|Mường]] [[Hòa Bình (tỉnh)|Hòa Bình]], xứ [[Người Thái (Việt Nam)|Thái]] [[Sơn La]], [[Lai Châu]]...<ref name = "100kqtn" /> Chính vì vậy, du khách khi du ngoạn nơi này luôn ghé thăm, thưởng ngoạn vẻ đẹp cổ kính của ngôi đền.
+
+Vào năm 1979 nhà nước quyết định đắp đập ngăn sông làm [[nhà máy thủy điện Hòa Bình]], đền Thác Bờ xưa không còn nữa, một gia đình họ Quách đã phát tâm và nhờ sự đóng góp của thập phương qua 5 lần xây dựng và di chuyển đã xây dựng được đền Bờ ngày nay.
+
+==Hình ảnh==
+[[File:Bình Thanh, Cao Phong, Hòa Bình, Vietnam - panoramio.jpg|thumb|Tượng đài Anh hùng Cù Chính Lan]]
+
+== Chú thích ==
+{{Tham khảo|30em}}
+
+== Tham khảo ==
+{{sơ khai Phú Thọ}}
+{{Đơn vị hành chính thuộc tỉnh Phú Thọ}}

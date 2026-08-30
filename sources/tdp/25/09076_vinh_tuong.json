@@ -1,0 +1,148 @@
+{
+  "ward_code": "09076",
+  "ward_name": "Vĩnh Tường",
+  "province_code": "25",
+  "resolution": "",
+  "arrangement": "truoc_2026_07",
+  "effective_date": "",
+  "verified": "unverified",
+  "extraction": {
+    "source": "vi.wikipedia.org",
+    "title": "Vĩnh Tường, Phú Thọ",
+    "mode": "narrative"
+  },
+  "sources": [
+    {
+      "key": "wiki-09076-1",
+      "title": "Quyết định số 7/QĐ-UBBC về việc ấn định và công bố số đơn vị bầu cử, danh sách các đơn vị bầu cử và số lượng đại biểu được bầu ở mỗi đơn vị bầu cử đại biểu Hội đồng nhân dân xã Vĩnh Tường, nhiệm kỳ 2026 - 2031",
+      "url": "https://vinhtuong.phutho.gov.vn/index.php/2013-12-13-01-52-02/1-van-ban-cua-xa",
+      "date": "2025-12-24",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-09076-2",
+      "title": "Nghị quyết số 111/2025/UBTVQH15 về phân loại đô thị",
+      "url": "https://xaydungchinhsach.chinhphu.vn/nghi-quyet-so-111-2025-ubtvqh15-ve-phan-loai-do-thi-119260101170432239.htm",
+      "date": "2026-01-21",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-09076-3",
+      "title": "Nghị quyết số 1287/NQ-UBTVQH15 của UBTVQH Về việc sắp xếp đơn vị hành chính cấp xã của tỉnh Vĩnh Phúc giai đoạn 2023 – 2025",
+      "url": "https://quochoi.vn/tintuc/Pages/tin-hoat-dong-cua-quoc-hoi.aspx?ItemID=91157",
+      "date": "2024-11-21",
+      "type": "wikipedia-ref"
+    }
+  ],
+  "note": "Trích tự động từ Wikipedia tiếng Việt (mode=narrative). Cần đối chiếu nghị quyết HĐND phường/xã. ⚠️ Danh mục có thể là hiện trạng TRƯỚC sắp xếp thôn/TDP 01/7/2026 — Wikipedia chưa cập nhật nghị quyết mới.",
+  "tdp": [
+    {
+      "name": "Bắc Trại",
+      "type": "thôn"
+    },
+    {
+      "name": "Chùa",
+      "type": "thôn"
+    },
+    {
+      "name": "Đông Đình",
+      "type": "thôn"
+    },
+    {
+      "name": "Đội Cấn",
+      "type": "thôn"
+    },
+    {
+      "name": "Hà Trì",
+      "type": "thôn"
+    },
+    {
+      "name": "Hoa Đà",
+      "type": "thôn"
+    },
+    {
+      "name": "Hoa Phú",
+      "type": "thôn"
+    },
+    {
+      "name": "Hồ Xuân Hương",
+      "type": "thôn"
+    },
+    {
+      "name": "Lạc Trung",
+      "type": "thôn"
+    },
+    {
+      "name": "Ngọc Động",
+      "type": "thôn"
+    },
+    {
+      "name": "Ngược Phù Lập",
+      "type": "thôn"
+    },
+    {
+      "name": "Nhật Tân",
+      "type": "thôn"
+    },
+    {
+      "name": "Phong Doanh",
+      "type": "thôn"
+    },
+    {
+      "name": "Phú Lập Ngòai",
+      "type": "thôn"
+    },
+    {
+      "name": "Phúc Lập Trong",
+      "type": "thôn"
+    },
+    {
+      "name": "Phù Cốc",
+      "type": "thôn"
+    },
+    {
+      "name": "Quảng Cư",
+      "type": "thôn"
+    },
+    {
+      "name": "Tứ Kỳ",
+      "type": "thôn"
+    },
+    {
+      "name": "Vũ Di",
+      "type": "thôn"
+    },
+    {
+      "name": "Xuân Húc 1",
+      "type": "thôn"
+    },
+    {
+      "name": "Xuân Húc 2",
+      "type": "thôn"
+    },
+    {
+      "name": "Xuân Lai",
+      "type": "thôn"
+    },
+    {
+      "name": "Xuôi Phù Lập",
+      "type": "thôn"
+    },
+    {
+      "name": "Yên Cát",
+      "type": "thôn"
+    },
+    {
+      "name": "Yên Nhiên",
+      "type": "thôn"
+    },
+    {
+      "name": "Yên Thịnh",
+      "type": "thôn"
+    },
+    {
+      "name": "Yên Trình",
+      "type": "thôn"
+    }
+  ]
+}

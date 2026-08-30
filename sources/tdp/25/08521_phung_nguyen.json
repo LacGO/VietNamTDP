@@ -1,0 +1,76 @@
+{
+  "ward_code": "08521",
+  "ward_name": "Phùng Nguyên",
+  "province_code": "25",
+  "resolution": "",
+  "arrangement": "truoc_2026_07",
+  "effective_date": "",
+  "verified": "unverified",
+  "extraction": {
+    "source": "vi.wikipedia.org",
+    "title": "Phùng Nguyên",
+    "mode": "narrative!old"
+  },
+  "sources": [
+    {
+      "key": "wiki-08521-1",
+      "title": "Xã Phùng Nguyên thành lập 19 khu vực bỏ phiếu phục vụ bầu cử đại biểu Quốc hội khóa XVI và đại biểu Hội đồng nhân dân các cấp nhiệm kỳ 2026 - 2031",
+      "url": "https://phungnguyen.phutho.gov.vn/index.php/bau-cu/xa-phung-nguyen-thanh-lap-19-khu-vuc-bo-phieu-phuc-vu-bau-cu-dai-bieu-quoc-hoi-khoa-xvi-va-dai-bieu-hdnd-cac-cap-nhiem-ky-2026-2031",
+      "date": "2026-02-03",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-08521-2",
+      "title": "",
+      "url": "https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Nghi-quyet-828-NQ-UBTVQH14-2019-sap-xep-don-vi-hanh-chinh-cap-xa-thuoc-tinh-Phu-Tho-432098.aspx",
+      "date": "",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-08521-3",
+      "title": "NGHỊ QUYẾT 203/2025/QH15 SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA HIẾN PHÁP NƯỚC CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM",
+      "url": "https://xaydungchinhsach.chinhphu.vn/nghi-quyet-203-2025-qh15-sua-doi-bo-sung-mot-so-dieu-cua-hien-phap-nuoc-cong-hoa-xa-hoi-chu-nghia-viet-nam-119250616181735552.htm",
+      "date": "2025-06-28",
+      "type": "wikipedia-ref"
+    }
+  ],
+  "note": "Trích tự động từ Wikipedia tiếng Việt (mode=narrative!old). Cần đối chiếu nghị quyết HĐND phường/xã. ⚠️ Danh mục có thể là hiện trạng TRƯỚC sắp xếp thôn/TDP 01/7/2026 — Wikipedia chưa cập nhật nghị quyết mới.",
+  "tdp": [
+    {
+      "name": "Bồng Lạng",
+      "type": "khu"
+    },
+    {
+      "name": "Dụng Hiền",
+      "type": "khu"
+    },
+    {
+      "name": "Đại Đình",
+      "type": "khu"
+    },
+    {
+      "name": "Đại Tụ",
+      "type": "khu"
+    },
+    {
+      "name": "Hòa Bình",
+      "type": "khu"
+    },
+    {
+      "name": "Lạng Thị",
+      "type": "khu"
+    },
+    {
+      "name": "Trung Chính",
+      "type": "khu"
+    },
+    {
+      "name": "Trung Thanh",
+      "type": "khu"
+    },
+    {
+      "name": "Vu Tử",
+      "type": "khu"
+    }
+  ]
+}

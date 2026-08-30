@@ -1,0 +1,136 @@
+{
+  "ward_code": "09832",
+  "ward_name": "Hoài Đức",
+  "province_code": "01",
+  "resolution": "",
+  "arrangement": "2026_07",
+  "effective_date": "2026-07-01",
+  "verified": "unverified",
+  "extraction": {
+    "source": "vi.wikipedia.org",
+    "title": "(cache)",
+    "mode": "table"
+  },
+  "sources": [
+    {
+      "key": "wiki-09832-1",
+      "title": "Thông báo số 798/TB-UBND ngày 1 tháng 7 năm 2026 của Ủy ban nhân dân xã Hoài Đức về việc sắp xếp thôn, tổ dân phố theo Nghị quyết của Hội đồng nhân dân xã Hoài Đức",
+      "url": "https://sqhx-hanoi.mediacdn.vn/91579363132710912/2026/7/3/thong-bao-cong-khai-danh-sach-cac-thon-sau-sap-xep-17830387482731638752566.pdf",
+      "date": "",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-09832-2",
+      "title": "Danh sách chính thức những người ứng cử đại biểu Hội đồng Nhân dân xã Hoài Đức nhiệm kỳ 2026 – 2031",
+      "url": "https://hoaiduc.hanoi.gov.vn/thong-bao/danh-sach-chinh-thuc-nhung-nguoi-ung-cudai-bieu-hoi-dong-nhan-dan-xa-hoai-duc-nhiem-ky-2026-2031-2784260226140627576.htm?gidzl=CF8N4uq5mrGqxHCLXnt5KZhh716VIvvU8-z9IiiVcWKZuHX6aHQO0YApJn6THCjK8hCSHpMBnk5sY0J7LW",
+      "date": "2026-02-13",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-09832-3",
+      "title": "Nghị quyết số 111/2025/UBTVQH15 ngày 24 tháng 12 năm 2025 của Ủy ban Thường vụ Quốc hội về phân loại đô thị",
+      "url": "https://cdn.nhandan.vn/files/f4a4abf7f9a0ba4a91744616546d850872b76917f90d5a74cc9eebef1369fb6f/111.pdf",
+      "date": "2026-07-12",
+      "type": "wikipedia-ref"
+    }
+  ],
+  "note": "Trích tự động từ Wikipedia tiếng Việt (mode=table). Cần đối chiếu nghị quyết HĐND phường/xã.",
+  "tdp": [
+    {
+      "name": "Kim Chung",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Trạm Trôi",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Ải",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Cao Hạ",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Cao Trung",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Cao Xá",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Chiền",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Cựu Quán",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Dậu 1",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Dậu 2",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Dền",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Đa",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Đại Tự",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Giang Xá",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Lai Xá",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Lũng Kênh",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Lưu Xá",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Nhuệ",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Nội",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Phú Đa",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Thượng Thụy",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Vực",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Yên Bệ",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Yên Vĩnh",
+      "type": "tổ dân phố"
+    }
+  ]
+}

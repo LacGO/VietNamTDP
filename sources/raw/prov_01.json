@@ -1,0 +1,1272 @@
+{
+ "Code": "01",
+ "Name": "Hà Nội",
+ "FullName": "Thành phố Hà Nội",
+ "NameEn": "Hanoi",
+ "FullNameEn": "Hanoi City",
+ "CodeName": "ha_noi",
+ "AdministrativeUnitFullName": "Thành phố trực thuộc trung ương",
+ "PostalCodePrefix": "10, 11, 12, 13, 14",
+ "Wards": [
+  {
+   "Code": "00004",
+   "Name": "Ba Đình",
+   "FullName": "Phường Ba Đình",
+   "NameEn": "Ba Dinh",
+   "FullNameEn": "Ba Dinh Ward",
+   "CodeName": "ba_dinh",
+   "AdministrativeUnitShortName": "Phường",
+   "PostalCode": "11120"
+  },
+  {
+   "Code": "00008",
+   "Name": "Ngọc Hà",
+   "FullName": "Phường Ngọc Hà",
+   "NameEn": "Ngoc Ha",
+   "FullNameEn": "Ngoc Ha Ward",
+   "CodeName": "ngoc_ha",
+   "AdministrativeUnitShortName": "Phường",
+   "PostalCode": "11119"
+  },
+  {
+   "Code": "00025",
+   "Name": "Giảng Võ",
+   "FullName": "Phường Giảng Võ",
+   "NameEn": "Giang Vo",
+   "FullNameEn": "Giang Vo Ward",
+   "CodeName": "giang_vo",
+   "AdministrativeUnitShortName": "Phường",
+   "PostalCode": "11110"
+  },
+  {
+   "Code": "00070",
+   "Name": "Hoàn Kiếm",
+   "FullName": "Phường Hoàn Kiếm",
+   "NameEn": "Hoan Kiem",
+   "FullNameEn": "Hoan Kiem Ward",
+   "CodeName": "hoan_kiem",
+   "AdministrativeUnitShortName": "Phường",
+   "PostalCode": "11024"
+  },
+  {
+   "Code": "00082",
+   "Name": "Cửa Nam",
+   "FullName": "Phường Cửa Nam",
+   "NameEn": "Cua Nam",
+   "FullNameEn": "Cua Nam Ward",
+   "CodeName": "cua_nam",
+   "AdministrativeUnitShortName": "Phường",
+   "PostalCode": "11018"
+  },
+  {
+   "Code": "00091",
+   "Name": "Phú Thượng",
+   "FullName": "Phường Phú Thượng",
+   "NameEn": "Phu Thuong",
+   "FullNameEn": "Phu Thuong Ward",
+   "CodeName": "phu_thuong",
+   "AdministrativeUnitShortName": "Phường",
+   "PostalCode": "11210"
+  },
+  {
+   "Code": "00097",
+   "Name": "Hồng Hà",
+   "FullName": "Phường Hồng Hà",
+   "NameEn": "Hong Ha",
+   "FullNameEn": "Hong Ha Ward",
+   "CodeName": "hong_ha",
+   "AdministrativeUnitShortName": "Phường",
+   "PostalCode": "11025"
+  },
+  {
+   "Code": "00103",
+   "Name": "Tây Hồ",
+   "FullName": "Phường Tây Hồ",
+   "NameEn": "Tay Ho",
+   "FullNameEn": "Tay Ho Ward",
+   "CodeName": "tay_ho",
+   "AdministrativeUnitShortName": "Phường",
+   "PostalCode": "11214"
+  },
+  {
+   "Code": "00118",
+   "Name": "Bồ Đề",
+   "FullName": "Phường Bồ Đề",
+   "NameEn": "Bo De",
+   "FullNameEn": "Bo De Ward",
+   "CodeName": "bo_de",
+   "AdministrativeUnitShortName": "Phường",
+   "PostalCode": "11813"
+  },
+  {
+   "Code": "00127",
+   "Name": "Việt Hưng",
+   "FullName": "Phường Việt Hưng",
+   "NameEn": "Viet Hung",
+   "FullNameEn": "Viet Hung Ward",
+   "CodeName": "viet_hung",
+   "AdministrativeUnitShortName": "Phường",
+   "PostalCode": "11806"
+  },
+  {
+   "Code": "00136",
+   "Name": "Phúc Lợi",
+   "FullName": "Phường Phúc Lợi",
+   "NameEn": "Phuc Loi",
+   "FullNameEn": "Phuc Loi Ward",
+   "CodeName": "phuc_loi",
+   "AdministrativeUnitShortName": "Phường",
+   "PostalCode": "11817"
+  },
+  {
+   "Code": "00145",
+   "Name": "Long Biên",
+   "FullName": "Phường Long Biên",
+   "NameEn": "Long Bien",
+   "FullNameEn": "Long Bien Ward",
+   "CodeName": "long_bien",
+   "AdministrativeUnitShortName": "Phường",
+   "PostalCode": "11814"
+  },
+  {
+   "Code": "00160",
+   "Name": "Nghĩa Đô",
+   "FullName": "Phường Nghĩa Đô",
+   "NameEn": "Nghia Do",
+   "FullNameEn": "Nghia Do Ward",
+   "CodeName": "nghia_do",
+   "AdministrativeUnitShortName": "Phường",
+   "PostalCode": "11307"
+  },
+  {
+   "Code": "00166",
+   "Name": "Cầu Giấy",
+   "FullName": "Phường Cầu Giấy",
+   "NameEn": "Cau Giay",
+   "FullNameEn": "Cau Giay Ward",
+   "CodeName": "cau_giay",
+   "AdministrativeUnitShortName": "Phường",
+   "PostalCode": "11314"
+  },
+  {
+   "Code": "00175",
+   "Name": "Yên Hoà",
+   "FullName": "Phường Yên Hoà",
+   "NameEn": "Yen Hoa",
+   "FullNameEn": "Yen Hoa Ward",
+   "CodeName": "yen_hoa",
+   "AdministrativeUnitShortName": "Phường",
+   "PostalCode": "11312"
+  },
+  {
+   "Code": "00190",
+   "Name": "Ô Chợ Dừa",
+   "FullName": "Phường Ô Chợ Dừa",
+   "NameEn": "O Cho Dua",
+   "FullNameEn": "O Cho Dua Ward",
+   "CodeName": "o_cho_dua",
+   "AdministrativeUnitShortName": "Phường",
+   "PostalCode": "11511"
+  },
+  {
+   "Code": "00199",
+   "Name": "Láng",
+   "FullName": "Phường Láng",
+   "NameEn": "Lang",
+   "FullNameEn": "Lang Ward",
+   "CodeName": "lang",
+   "AdministrativeUnitShortName": "Phường",
+   "PostalCode": "11528"
+  },
+  {
+   "Code": "00226",
+   "Name": "Văn Miếu - Quốc Tử Giám",
+   "FullName": "Phường Văn Miếu - Quốc Tử Giám",
+   "NameEn": "Van Mieu - Quoc Tu Giam",
+   "FullNameEn": "Van Mieu - Quoc Tu Giam Ward",
+   "CodeName": "van_mieu_quoc_tu_giam",
+   "AdministrativeUnitShortName": "Phường",
+   "PostalCode": "11508"
+  },
+  {
+   "Code": "00229",
+   "Name": "Kim Liên",
+   "FullName": "Phường Kim Liên",
+   "NameEn": "Kim Lien",
+   "FullNameEn": "Kim Lien Ward",
+   "CodeName": "kim_lien",
+   "AdministrativeUnitShortName": "Phường",
+   "PostalCode": "11520"
+  },
+  {
+   "Code": "00235",
+   "Name": "Đống Đa",
+   "FullName": "Phường Đống Đa",
+   "NameEn": "Dong Da",
+   "FullNameEn": "Dong Da Ward",
+   "CodeName": "dong_da",
+   "AdministrativeUnitShortName": "Phường",
+   "PostalCode": "11527"
+  },
+  {
+   "Code": "00256",
+   "Name": "Hai Bà Trưng",
+   "FullName": "Phường Hai Bà Trưng",
+   "NameEn": "Hai Ba Trung",
+   "FullNameEn": "Hai Ba Trung Ward",
+   "CodeName": "hai_ba_trung",
+   "AdministrativeUnitShortName": "Phường",
+   "PostalCode": "11626"
+  },
+  {
+   "Code": "00283",
+   "Name": "Vĩnh Tuy",
+   "FullName": "Phường Vĩnh Tuy",
+   "NameEn": "Vinh Tuy",
+   "FullNameEn": "Vinh Tuy Ward",
+   "CodeName": "vinh_tuy",
+   "AdministrativeUnitShortName": "Phường",
+   "PostalCode": "11622"
+  },
+  {
+   "Code": "00292",
+   "Name": "Bạch Mai",
+   "FullName": "Phường Bạch Mai",
+   "NameEn": "Bach Mai",
+   "FullNameEn": "Bach Mai Ward",
+   "CodeName": "bach_mai",
+   "AdministrativeUnitShortName": "Phường",
+   "PostalCode": "11618"
+  },
+  {
+   "Code": "00301",
+   "Name": "Vĩnh Hưng",
+   "FullName": "Phường Vĩnh Hưng",
+   "NameEn": "Vinh Hung",
+   "FullNameEn": "Vinh Hung Ward",
+   "CodeName": "vinh_hung",
+   "AdministrativeUnitShortName": "Phường",
+   "PostalCode": "11712"
+  },
+  {
+   "Code": "00316",
+   "Name": "Định Công",
+   "FullName": "Phường Định Công",
+   "NameEn": "Dinh Cong",
+   "FullNameEn": "Dinh Cong Ward",
+   "CodeName": "dinh_cong",
+   "AdministrativeUnitShortName": "Phường",
+   "PostalCode": "11717"
+  },
+  {
+   "Code": "00322",
+   "Name": "Tương Mai",
+   "FullName": "Phường Tương Mai",
+   "NameEn": "Tuong Mai",
+   "FullNameEn": "Tuong Mai Ward",
+   "CodeName": "tuong_mai",
+   "AdministrativeUnitShortName": "Phường",
+   "PostalCode": "11715"
+  },
+  {
+   "Code": "00328",
+   "Name": "Lĩnh Nam",
+   "FullName": "Phường Lĩnh Nam",
+   "NameEn": "Linh Nam",
+   "FullNameEn": "Linh Nam Ward",
+   "CodeName": "linh_nam",
+   "AdministrativeUnitShortName": "Phường",
+   "PostalCode": "11709"
+  },
+  {
+   "Code": "00331",
+   "Name": "Hoàng Mai",
+   "FullName": "Phường Hoàng Mai",
+   "NameEn": "Hoang Mai",
+   "FullNameEn": "Hoang Mai Ward",
+   "CodeName": "hoang_mai",
+   "AdministrativeUnitShortName": "Phường",
+   "PostalCode": "11720"
+  },
+  {
+   "Code": "00337",
+   "Name": "Hoàng Liệt",
+   "FullName": "Phường Hoàng Liệt",
+   "NameEn": "Hoang Liet",
+   "FullNameEn": "Hoang Liet Ward",
+   "CodeName": "hoang_liet",
+   "AdministrativeUnitShortName": "Phường",
+   "PostalCode": "11719"
+  },
+  {
+   "Code": "00340",
+   "Name": "Yên Sở",
+   "FullName": "Phường Yên Sở",
+   "NameEn": "Yen So",
+   "FullNameEn": "Yen So Ward",
+   "CodeName": "yen_so",
+   "AdministrativeUnitShortName": "Phường",
+   "PostalCode": "11707"
+  },
+  {
+   "Code": "00352",
+   "Name": "Phương Liệt",
+   "FullName": "Phường Phương Liệt",
+   "NameEn": "Phuong Liet",
+   "FullNameEn": "Phuong Liet Ward",
+   "CodeName": "phuong_liet",
+   "AdministrativeUnitShortName": "Phường",
+   "PostalCode": "11412"
+  },
+  {
+   "Code": "00364",
+   "Name": "Khương Đình",
+   "FullName": "Phường Khương Đình",
+   "NameEn": "Khuong Dinh",
+   "FullNameEn": "Khuong Dinh Ward",
+   "CodeName": "khuong_dinh",
+   "AdministrativeUnitShortName": "Phường",
+   "PostalCode": "11410"
+  },
+  {
+   "Code": "00367",
+   "Name": "Thanh Xuân",
+   "FullName": "Phường Thanh Xuân",
+   "NameEn": "Thanh Xuan",
+   "FullNameEn": "Thanh Xuan Ward",
+   "CodeName": "thanh_xuan",
+   "AdministrativeUnitShortName": "Phường",
+   "PostalCode": "11417"
+  },
+  {
+   "Code": "00376",
+   "Name": "Sóc Sơn",
+   "FullName": "Xã Sóc Sơn",
+   "NameEn": "Soc Son",
+   "FullNameEn": "Soc Son Commune",
+   "CodeName": "soc_son",
+   "AdministrativeUnitShortName": "Xã",
+   "PostalCode": "12206"
+  },
+  {
+   "Code": "00382",
+   "Name": "Kim Anh",
+   "FullName": "Xã Kim Anh",
+   "NameEn": "Kim Anh",
+   "FullNameEn": "Kim Anh Commune",
+   "CodeName": "kim_anh",
+   "AdministrativeUnitShortName": "Xã",
+   "PostalCode": "12234"
+  },
+  {
+   "Code": "00385",
+   "Name": "Trung Giã",
+   "FullName": "Xã Trung Giã",
+   "NameEn": "Trung Gia",
+   "FullNameEn": "Trung Gia Commune",
+   "CodeName": "trung_gia",
+   "AdministrativeUnitShortName": "Xã",
+   "PostalCode": "12210"
+  },
+  {
+   "Code": "00430",
+   "Name": "Đa Phúc",
+   "FullName": "Xã Đa Phúc",
+   "NameEn": "Da Phuc",
+   "FullNameEn": "Da Phuc Commune",
+   "CodeName": "da_phuc",
+   "AdministrativeUnitShortName": "Xã",
+   "PostalCode": "12232"
+  },
+  {
+   "Code": "00433",
+   "Name": "Nội Bài",
+   "FullName": "Xã Nội Bài",
+   "NameEn": "Noi Bai",
+   "FullNameEn": "Noi Bai Commune",
+   "CodeName": "noi_bai",
+   "AdministrativeUnitShortName": "Xã",
+   "PostalCode": "12233"
+  },
+  {
+   "Code": "00454",
+   "Name": "Đông Anh",
+   "FullName": "Xã Đông Anh",
+   "NameEn": "Dong Anh",
+   "FullNameEn": "Dong Anh Commune",
+   "CodeName": "dong_anh",
+   "AdministrativeUnitShortName": "Xã",
+   "PostalCode": "12306"
+  },
+  {
+   "Code": "00466",
+   "Name": "Phúc Thịnh",
+   "FullName": "Xã Phúc Thịnh",
+   "NameEn": "Phuc Thinh",
+   "FullNameEn": "Phuc Thinh Commune",
+   "CodeName": "phuc_thinh",
+   "AdministrativeUnitShortName": "Xã",
+   "PostalCode": "12331"
+  },
+  {
+   "Code": "00475",
+   "Name": "Thư Lâm",
+   "FullName": "Xã Thư Lâm",
+   "NameEn": "Thu Lam",
+   "FullNameEn": "Thu Lam Commune",
+   "CodeName": "thu_lam",
+   "AdministrativeUnitShortName": "Xã",
+   "PostalCode": "12330"
+  },
+  {
+   "Code": "00493",
+   "Name": "Thiên Lộc",
+   "FullName": "Xã Thiên Lộc",
+   "NameEn": "Thien Loc",
+   "FullNameEn": "Thien Loc Commune",
+   "CodeName": "thien_loc",
+   "AdministrativeUnitShortName": "Xã",
+   "PostalCode": "12332"
+  },
+  {
+   "Code": "00508",
+   "Name": "Vĩnh Thanh",
+   "FullName": "Xã Vĩnh Thanh",
+   "NameEn": "Vinh Thanh",
+   "FullNameEn": "Vinh Thanh Commune",
+   "CodeName": "vinh_thanh",
+   "AdministrativeUnitShortName": "Xã",
+   "PostalCode": "12333"
+  },
+  {
+   "Code": "00541",
+   "Name": "Phù Đổng",
+   "FullName": "Xã Phù Đổng",
+   "NameEn": "Phu Dong",
+   "FullNameEn": "Phu Dong Commune",
+   "CodeName": "phu_dong",
+   "AdministrativeUnitShortName": "Xã",
+   "PostalCode": "12413"
+  },
+  {
+   "Code": "00562",
+   "Name": "Thuận An",
+   "FullName": "Xã Thuận An",
+   "NameEn": "Thuan An",
+   "FullNameEn": "Thuan An Commune",
+   "CodeName": "thuan_an",
+   "AdministrativeUnitShortName": "Xã",
+   "PostalCode": "12429"
+  },
+  {
+   "Code": "00565",
+   "Name": "Gia Lâm",
+   "FullName": "Xã Gia Lâm",
+   "NameEn": "Gia Lam",
+   "FullNameEn": "Gia Lam Commune",
+   "CodeName": "gia_lam",
+   "AdministrativeUnitShortName": "Xã",
+   "PostalCode": "12428"
+  },
+  {
+   "Code": "00577",
+   "Name": "Bát Tràng",
+   "FullName": "Xã Bát Tràng",
+   "NameEn": "Bat Trang",
+   "FullNameEn": "Bat Trang Commune",
+   "CodeName": "bat_trang",
+   "AdministrativeUnitShortName": "Xã",
+   "PostalCode": "12423"
+  },
+  {
+   "Code": "00592",
+   "Name": "Từ Liêm",
+   "FullName": "Phường Từ Liêm",
+   "NameEn": "Tu Liem",
+   "FullNameEn": "Tu Liem Ward",
+   "CodeName": "tu_liem",
+   "AdministrativeUnitShortName": "Phường",
+   "PostalCode": "12016"
+  },
+  {
+   "Code": "00598",
+   "Name": "Thượng Cát",
+   "FullName": "Phường Thượng Cát",
+   "NameEn": "Thuong Cat",
+   "FullNameEn": "Thuong Cat Ward",
+   "CodeName": "thuong_cat",
+   "AdministrativeUnitShortName": "Phường",
+   "PostalCode": "11912"
+  },
+  {
+   "Code": "00602",
+   "Name": "Đông Ngạc",
+   "FullName": "Phường Đông Ngạc",
+   "NameEn": "Dong Ngac",
+   "FullNameEn": "Dong Ngac Ward",
+   "CodeName": "dong_ngac",
+   "AdministrativeUnitShortName": "Phường",
+   "PostalCode": "11909"
+  },
+  {
+   "Code": "00611",
+   "Name": "Xuân Đỉnh",
+   "FullName": "Phường Xuân Đỉnh",
+   "NameEn": "Xuan Dinh",
+   "FullNameEn": "Xuan Dinh Ward",
+   "CodeName": "xuan_dinh",
+   "AdministrativeUnitShortName": "Phường",
+   "PostalCode": "11908"
+  },
+  {
+   "Code": "00613",
+   "Name": "Tây Tựu",
+   "FullName": "Phường Tây Tựu",
+   "NameEn": "Tay Tuu",
+   "FullNameEn": "Tay Tuu Ward",
+   "CodeName": "tay_tuu",
+   "AdministrativeUnitShortName": "Phường",
+   "PostalCode": "11914"
+  },
+  {
+   "Code": "00619",
+   "Name": "Phú Diễn",
+   "FullName": "Phường Phú Diễn",
+   "NameEn": "Phu Dien",
+   "FullNameEn": "Phu Dien Ward",
+   "CodeName": "phu_dien",
+   "AdministrativeUnitShortName": "Phường",
+   "PostalCode": "11916"
+  },
+  {
+   "Code": "00622",
+   "Name": "Xuân Phương",
+   "FullName": "Phường Xuân Phương",
+   "NameEn": "Xuan Phuong",
+   "FullNameEn": "Xuan Phuong Ward",
+   "CodeName": "xuan_phuong",
+   "AdministrativeUnitShortName": "Phường",
+   "PostalCode": "12008"
+  },
+  {
+   "Code": "00634",
+   "Name": "Tây Mỗ",
+   "FullName": "Phường Tây Mỗ",
+   "NameEn": "Tay Mo",
+   "FullNameEn": "Tay Mo Ward",
+   "CodeName": "tay_mo",
+   "AdministrativeUnitShortName": "Phường",
+   "PostalCode": "12009"
+  },
+  {
+   "Code": "00637",
+   "Name": "Đại Mỗ",
+   "FullName": "Phường Đại Mỗ",
+   "NameEn": "Dai Mo",
+   "FullNameEn": "Dai Mo Ward",
+   "CodeName": "dai_mo",
+   "AdministrativeUnitShortName": "Phường",
+   "PostalCode": "12010"
+  },
+  {
+   "Code": "00640",
+   "Name": "Thanh Trì",
+   "FullName": "Xã Thanh Trì",
+   "NameEn": "Thanh Tri",
+   "FullNameEn": "Thanh Tri Commune",
+   "CodeName": "thanh_tri",
+   "AdministrativeUnitShortName": "Xã",
+   "PostalCode": "12522"
+  },
+  {
+   "Code": "00643",
+   "Name": "Thanh Liệt",
+   "FullName": "Phường Thanh Liệt",
+   "NameEn": "Thanh Liet",
+   "FullNameEn": "Thanh Liet Ward",
+   "CodeName": "thanh_liet",
+   "AdministrativeUnitShortName": "Phường",
+   "PostalCode": "12510"
+  },
+  {
+   "Code": "00664",
+   "Name": "Đại Thanh",
+   "FullName": "Xã Đại Thanh",
+   "NameEn": "Dai Thanh",
+   "FullNameEn": "Dai Thanh Commune",
+   "CodeName": "dai_thanh",
+   "AdministrativeUnitShortName": "Xã",
+   "PostalCode": "12523"
+  },
+  {
+   "Code": "00679",
+   "Name": "Ngọc Hồi",
+   "FullName": "Xã Ngọc Hồi",
+   "NameEn": "Ngoc Hoi",
+   "FullNameEn": "Ngoc Hoi Commune",
+   "CodeName": "ngoc_hoi",
+   "AdministrativeUnitShortName": "Xã",
+   "PostalCode": "12516"
+  },
+  {
+   "Code": "00685",
+   "Name": "Nam Phù",
+   "FullName": "Xã Nam Phù",
+   "NameEn": "Nam Phu",
+   "FullNameEn": "Nam Phu Commune",
+   "CodeName": "nam_phu",
+   "AdministrativeUnitShortName": "Xã",
+   "PostalCode": "12524"
+  },
+  {
+   "Code": "04930",
+   "Name": "Yên Xuân",
+   "FullName": "Xã Yên Xuân",
+   "NameEn": "Yen Xuan",
+   "FullNameEn": "Yen Xuan Commune",
+   "CodeName": "yen_xuan",
+   "AdministrativeUnitShortName": "Xã",
+   "PostalCode": "13132"
+  },
+  {
+   "Code": "08974",
+   "Name": "Quang Minh",
+   "FullName": "Xã Quang Minh",
+   "NameEn": "Quang Minh",
+   "FullNameEn": "Quang Minh Commune",
+   "CodeName": "quang_minh",
+   "AdministrativeUnitShortName": "Xã",
+   "PostalCode": "12907"
+  },
+  {
+   "Code": "08980",
+   "Name": "Yên Lãng",
+   "FullName": "Xã Yên Lãng",
+   "NameEn": "Yen Lang",
+   "FullNameEn": "Yen Lang Commune",
+   "CodeName": "yen_lang",
+   "AdministrativeUnitShortName": "Xã",
+   "PostalCode": "12924"
+  },
+  {
+   "Code": "08995",
+   "Name": "Tiến Thắng",
+   "FullName": "Xã Tiến Thắng",
+   "NameEn": "Tien Thang",
+   "FullNameEn": "Tien Thang Commune",
+   "CodeName": "tien_thang",
+   "AdministrativeUnitShortName": "Xã",
+   "PostalCode": "12912"
+  },
+  {
+   "Code": "09022",
+   "Name": "Mê Linh",
+   "FullName": "Xã Mê Linh",
+   "NameEn": "Me Linh",
+   "FullNameEn": "Me Linh Commune",
+   "CodeName": "me_linh",
+   "AdministrativeUnitShortName": "Xã",
+   "PostalCode": "12923"
+  },
+  {
+   "Code": "09552",
+   "Name": "Kiến Hưng",
+   "FullName": "Phường Kiến Hưng",
+   "NameEn": "Kien Hung",
+   "FullNameEn": "Kien Hung Ward",
+   "CodeName": "kien_hung",
+   "AdministrativeUnitShortName": "Phường",
+   "PostalCode": "12121"
+  },
+  {
+   "Code": "09556",
+   "Name": "Hà Đông",
+   "FullName": "Phường Hà Đông",
+   "NameEn": "Ha Dong",
+   "FullNameEn": "Ha Dong Ward",
+   "CodeName": "ha_dong",
+   "AdministrativeUnitShortName": "Phường",
+   "PostalCode": "12123"
+  },
+  {
+   "Code": "09562",
+   "Name": "Yên Nghĩa",
+   "FullName": "Phường Yên Nghĩa",
+   "NameEn": "Yen Nghia",
+   "FullNameEn": "Yen Nghia Ward",
+   "CodeName": "yen_nghia",
+   "AdministrativeUnitShortName": "Phường",
+   "PostalCode": "12116"
+  },
+  {
+   "Code": "09568",
+   "Name": "Phú Lương",
+   "FullName": "Phường Phú Lương",
+   "NameEn": "Phu Luong",
+   "FullNameEn": "Phu Luong Ward",
+   "CodeName": "phu_luong",
+   "AdministrativeUnitShortName": "Phường",
+   "PostalCode": "12120"
+  },
+  {
+   "Code": "09574",
+   "Name": "Sơn Tây",
+   "FullName": "Phường Sơn Tây",
+   "NameEn": "Son Tay",
+   "FullNameEn": "Son Tay Ward",
+   "CodeName": "son_tay",
+   "AdministrativeUnitShortName": "Phường",
+   "PostalCode": "12721"
+  },
+  {
+   "Code": "09604",
+   "Name": "Tùng Thiện",
+   "FullName": "Phường Tùng Thiện",
+   "NameEn": "Tung Thien",
+   "FullNameEn": "Tung Thien Ward",
+   "CodeName": "tung_thien",
+   "AdministrativeUnitShortName": "Phường",
+   "PostalCode": "12722"
+  },
+  {
+   "Code": "09616",
+   "Name": "Đoài Phương",
+   "FullName": "Xã Đoài Phương",
+   "NameEn": "Doai Phuong",
+   "FullNameEn": "Doai Phuong Commune",
+   "CodeName": "doai_phuong",
+   "AdministrativeUnitShortName": "Xã",
+   "PostalCode": "12723"
+  },
+  {
+   "Code": "09619",
+   "Name": "Quảng Oai",
+   "FullName": "Xã Quảng Oai",
+   "NameEn": "Quang Oai",
+   "FullNameEn": "Quang Oai Commune",
+   "CodeName": "quang_oai",
+   "AdministrativeUnitShortName": "Xã",
+   "PostalCode": "12637"
+  },
+  {
+   "Code": "09634",
+   "Name": "Cổ Đô",
+   "FullName": "Xã Cổ Đô",
+   "NameEn": "Co Do",
+   "FullNameEn": "Co Do Commune",
+   "CodeName": "co_do",
+   "AdministrativeUnitShortName": "Xã",
+   "PostalCode": "12614"
+  },
+  {
+   "Code": "09661",
+   "Name": "Minh Châu",
+   "FullName": "Xã Minh Châu",
+   "NameEn": "Minh Chau",
+   "FullNameEn": "Minh Chau Commune",
+   "CodeName": "minh_chau",
+   "AdministrativeUnitShortName": "Xã",
+   "PostalCode": "12608"
+  },
+  {
+   "Code": "09664",
+   "Name": "Vật Lại",
+   "FullName": "Xã Vật Lại",
+   "NameEn": "Vat Lai",
+   "FullNameEn": "Vat Lai Commune",
+   "CodeName": "vat_lai",
+   "AdministrativeUnitShortName": "Xã",
+   "PostalCode": "12620"
+  },
+  {
+   "Code": "09676",
+   "Name": "Bất Bạt",
+   "FullName": "Xã Bất Bạt",
+   "NameEn": "Bat Bat",
+   "FullNameEn": "Bat Bat Commune",
+   "CodeName": "bat_bat",
+   "AdministrativeUnitShortName": "Xã",
+   "PostalCode": "12638"
+  },
+  {
+   "Code": "09694",
+   "Name": "Suối Hai",
+   "FullName": "Xã Suối Hai",
+   "NameEn": "Suoi Hai",
+   "FullNameEn": "Suoi Hai Commune",
+   "CodeName": "suoi_hai",
+   "AdministrativeUnitShortName": "Xã",
+   "PostalCode": "12639"
+  },
+  {
+   "Code": "09700",
+   "Name": "Ba Vì",
+   "FullName": "Xã Ba Vì",
+   "NameEn": "Ba Vi",
+   "FullNameEn": "Ba Vi Commune",
+   "CodeName": "ba_vi",
+   "AdministrativeUnitShortName": "Xã",
+   "PostalCode": "12629"
+  },
+  {
+   "Code": "09706",
+   "Name": "Yên Bài",
+   "FullName": "Xã Yên Bài",
+   "NameEn": "Yen Bai",
+   "FullNameEn": "Yen Bai Commune",
+   "CodeName": "yen_bai",
+   "AdministrativeUnitShortName": "Xã",
+   "PostalCode": "12630"
+  },
+  {
+   "Code": "09715",
+   "Name": "Phúc Thọ",
+   "FullName": "Xã Phúc Thọ",
+   "NameEn": "Phuc Tho",
+   "FullNameEn": "Phuc Tho Commune",
+   "CodeName": "phuc_tho",
+   "AdministrativeUnitShortName": "Xã",
+   "PostalCode": "12806"
+  },
+  {
+   "Code": "09739",
+   "Name": "Phúc Lộc",
+   "FullName": "Xã Phúc Lộc",
+   "NameEn": "Phuc Loc",
+   "FullNameEn": "Phuc Loc Commune",
+   "CodeName": "phuc_loc",
+   "AdministrativeUnitShortName": "Xã",
+   "PostalCode": "12829"
+  },
+  {
+   "Code": "09772",
+   "Name": "Hát Môn",
+   "FullName": "Xã Hát Môn",
+   "NameEn": "Hat Mon",
+   "FullNameEn": "Hat Mon Commune",
+   "CodeName": "hat_mon",
+   "AdministrativeUnitShortName": "Xã",
+   "PostalCode": "12810"
+  },
+  {
+   "Code": "09784",
+   "Name": "Đan Phượng",
+   "FullName": "Xã Đan Phượng",
+   "NameEn": "Dan Phuong",
+   "FullNameEn": "Dan Phuong Commune",
+   "CodeName": "dan_phuong",
+   "AdministrativeUnitShortName": "Xã",
+   "PostalCode": "13007"
+  },
+  {
+   "Code": "09787",
+   "Name": "Liên Minh",
+   "FullName": "Xã Liên Minh",
+   "NameEn": "Lien Minh",
+   "FullNameEn": "Lien Minh Commune",
+   "CodeName": "lien_minh",
+   "AdministrativeUnitShortName": "Xã",
+   "PostalCode": "13023"
+  },
+  {
+   "Code": "09817",
+   "Name": "Ô Diên",
+   "FullName": "Xã Ô Diên",
+   "NameEn": "O Dien",
+   "FullNameEn": "O Dien Commune",
+   "CodeName": "o_dien",
+   "AdministrativeUnitShortName": "Xã",
+   "PostalCode": "13022"
+  },
+  {
+   "Code": "09832",
+   "Name": "Hoài Đức",
+   "FullName": "Xã Hoài Đức",
+   "NameEn": "Hoai Duc",
+   "FullNameEn": "Hoai Duc Commune",
+   "CodeName": "hoai_duc",
+   "AdministrativeUnitShortName": "Xã",
+   "PostalCode": "13226"
+  },
+  {
+   "Code": "09856",
+   "Name": "Dương Hoà",
+   "FullName": "Xã Dương Hoà",
+   "NameEn": "Duong Hoa",
+   "FullNameEn": "Duong Hoa Commune",
+   "CodeName": "duong_hoa",
+   "AdministrativeUnitShortName": "Xã",
+   "PostalCode": "13227"
+  },
+  {
+   "Code": "09871",
+   "Name": "Sơn Đồng",
+   "FullName": "Xã Sơn Đồng",
+   "NameEn": "Son Dong",
+   "FullNameEn": "Son Dong Commune",
+   "CodeName": "son_dong",
+   "AdministrativeUnitShortName": "Xã",
+   "PostalCode": "13224"
+  },
+  {
+   "Code": "09877",
+   "Name": "An Khánh",
+   "FullName": "Xã An Khánh",
+   "NameEn": "An Khanh",
+   "FullNameEn": "An Khanh Commune",
+   "CodeName": "an_khanh",
+   "AdministrativeUnitShortName": "Xã",
+   "PostalCode": "13219"
+  },
+  {
+   "Code": "09886",
+   "Name": "Dương Nội",
+   "FullName": "Phường Dương Nội",
+   "NameEn": "Duong Noi",
+   "FullNameEn": "Duong Noi Ward",
+   "CodeName": "duong_noi",
+   "AdministrativeUnitShortName": "Phường",
+   "PostalCode": "12114"
+  },
+  {
+   "Code": "09895",
+   "Name": "Quốc Oai",
+   "FullName": "Xã Quốc Oai",
+   "NameEn": "Quoc Oai",
+   "FullNameEn": "Quoc Oai Commune",
+   "CodeName": "quoc_oai",
+   "AdministrativeUnitShortName": "Xã",
+   "PostalCode": "13306"
+  },
+  {
+   "Code": "09910",
+   "Name": "Kiều Phú",
+   "FullName": "Xã Kiều Phú",
+   "NameEn": "Kieu Phu",
+   "FullNameEn": "Kieu Phu Commune",
+   "CodeName": "kieu_phu",
+   "AdministrativeUnitShortName": "Xã",
+   "PostalCode": "13327"
+  },
+  {
+   "Code": "09931",
+   "Name": "Hưng Đạo",
+   "FullName": "Xã Hưng Đạo",
+   "NameEn": "Hung Dao",
+   "FullNameEn": "Hung Dao Commune",
+   "CodeName": "hung_dao",
+   "AdministrativeUnitShortName": "Xã",
+   "PostalCode": "13325"
+  },
+  {
+   "Code": "09952",
+   "Name": "Phú Cát",
+   "FullName": "Xã Phú Cát",
+   "NameEn": "Phu Cat",
+   "FullNameEn": "Phu Cat Commune",
+   "CodeName": "phu_cat",
+   "AdministrativeUnitShortName": "Xã",
+   "PostalCode": "13314"
+  },
+  {
+   "Code": "09955",
+   "Name": "Thạch Thất",
+   "FullName": "Xã Thạch Thất",
+   "NameEn": "Thach That",
+   "FullNameEn": "Thach That Commune",
+   "CodeName": "thach_that",
+   "AdministrativeUnitShortName": "Xã",
+   "PostalCode": "13129"
+  },
+  {
+   "Code": "09982",
+   "Name": "Hạ Bằng",
+   "FullName": "Xã Hạ Bằng",
+   "NameEn": "Ha Bang",
+   "FullNameEn": "Ha Bang Commune",
+   "CodeName": "ha_bang",
+   "AdministrativeUnitShortName": "Xã",
+   "PostalCode": "13117"
+  },
+  {
+   "Code": "09988",
+   "Name": "Hoà Lạc",
+   "FullName": "Xã Hoà Lạc",
+   "NameEn": "Hoa Lac",
+   "FullNameEn": "Hoa Lac Commune",
+   "CodeName": "hoa_lac",
+   "AdministrativeUnitShortName": "Xã",
+   "PostalCode": "13131"
+  },
+  {
+   "Code": "10003",
+   "Name": "Tây Phương",
+   "FullName": "Xã Tây Phương",
+   "NameEn": "Tay Phuong",
+   "FullNameEn": "Tay Phuong Commune",
+   "CodeName": "tay_phuong",
+   "AdministrativeUnitShortName": "Xã",
+   "PostalCode": "13130"
+  },
+  {
+   "Code": "10015",
+   "Name": "Chương Mỹ",
+   "FullName": "Phường Chương Mỹ",
+   "NameEn": "Chuong My",
+   "FullNameEn": "Chuong My Ward",
+   "CodeName": "chuong_my",
+   "AdministrativeUnitShortName": "Phường",
+   "PostalCode": "13438"
+  },
+  {
+   "Code": "10030",
+   "Name": "Phú Nghĩa",
+   "FullName": "Xã Phú Nghĩa",
+   "NameEn": "Phu Nghia",
+   "FullNameEn": "Phu Nghia Commune",
+   "CodeName": "phu_nghia",
+   "AdministrativeUnitShortName": "Xã",
+   "PostalCode": "13411"
+  },
+  {
+   "Code": "10045",
+   "Name": "Xuân Mai",
+   "FullName": "Xã Xuân Mai",
+   "NameEn": "Xuan Mai",
+   "FullNameEn": "Xuan Mai Commune",
+   "CodeName": "xuan_mai",
+   "AdministrativeUnitShortName": "Xã",
+   "PostalCode": "13417"
+  },
+  {
+   "Code": "10072",
+   "Name": "Quảng Bị",
+   "FullName": "Xã Quảng Bị",
+   "NameEn": "Quang Bi",
+   "FullNameEn": "Quang Bi Commune",
+   "CodeName": "quang_bi",
+   "AdministrativeUnitShortName": "Xã",
+   "PostalCode": "13432"
+  },
+  {
+   "Code": "10081",
+   "Name": "Trần Phú",
+   "FullName": "Xã Trần Phú",
+   "NameEn": "Tran Phu",
+   "FullNameEn": "Tran Phu Commune",
+   "CodeName": "tran_phu",
+   "AdministrativeUnitShortName": "Xã",
+   "PostalCode": "13423"
+  },
+  {
+   "Code": "10096",
+   "Name": "Hoà Phú",
+   "FullName": "Xã Hoà Phú",
+   "NameEn": "Hoa Phu",
+   "FullNameEn": "Hoa Phu Commune",
+   "CodeName": "hoa_phu",
+   "AdministrativeUnitShortName": "Xã",
+   "PostalCode": "13427"
+  },
+  {
+   "Code": "10114",
+   "Name": "Thanh Oai",
+   "FullName": "Xã Thanh Oai",
+   "NameEn": "Thanh Oai",
+   "FullNameEn": "Thanh Oai Commune",
+   "CodeName": "thanh_oai",
+   "AdministrativeUnitShortName": "Xã",
+   "PostalCode": "13527"
+  },
+  {
+   "Code": "10126",
+   "Name": "Bình Minh",
+   "FullName": "Xã Bình Minh",
+   "NameEn": "Binh Minh",
+   "FullNameEn": "Binh Minh Commune",
+   "CodeName": "binh_minh",
+   "AdministrativeUnitShortName": "Xã",
+   "PostalCode": "13512"
+  },
+  {
+   "Code": "10144",
+   "Name": "Tam Hưng",
+   "FullName": "Xã Tam Hưng",
+   "NameEn": "Tam Hung",
+   "FullNameEn": "Tam Hung Commune",
+   "CodeName": "tam_hung",
+   "AdministrativeUnitShortName": "Xã",
+   "PostalCode": "13510"
+  },
+  {
+   "Code": "10180",
+   "Name": "Dân Hoà",
+   "FullName": "Xã Dân Hoà",
+   "NameEn": "Dan Hoa",
+   "FullNameEn": "Dan Hoa Commune",
+   "CodeName": "dan_hoa",
+   "AdministrativeUnitShortName": "Xã",
+   "PostalCode": "13521"
+  },
+  {
+   "Code": "10183",
+   "Name": "Thường Tín",
+   "FullName": "Xã Thường Tín",
+   "NameEn": "Thuong Tin",
+   "FullNameEn": "Thuong Tin Commune",
+   "CodeName": "thuong_tin",
+   "AdministrativeUnitShortName": "Xã",
+   "PostalCode": "13606"
+  },
+  {
+   "Code": "10210",
+   "Name": "Hồng Vân",
+   "FullName": "Xã Hồng Vân",
+   "NameEn": "Hong Van",
+   "FullNameEn": "Hong Van Commune",
+   "CodeName": "hong_van",
+   "AdministrativeUnitShortName": "Xã",
+   "PostalCode": "13611"
+  },
+  {
+   "Code": "10231",
+   "Name": "Thượng Phúc",
+   "FullName": "Xã Thượng Phúc",
+   "NameEn": "Thuong Phuc",
+   "FullNameEn": "Thuong Phuc Commune",
+   "CodeName": "thuong_phuc",
+   "AdministrativeUnitShortName": "Xã",
+   "PostalCode": "13635"
+  },
+  {
+   "Code": "10237",
+   "Name": "Chương Dương",
+   "FullName": "Xã Chương Dương",
+   "NameEn": "Chuong Duong",
+   "FullNameEn": "Chuong Duong Commune",
+   "CodeName": "chuong_duong",
+   "AdministrativeUnitShortName": "Xã",
+   "PostalCode": "13632"
+  },
+  {
+   "Code": "10273",
+   "Name": "Phú Xuyên",
+   "FullName": "Xã Phú Xuyên",
+   "NameEn": "Phu Xuyen",
+   "FullNameEn": "Phu Xuyen Commune",
+   "CodeName": "phu_xuyen",
+   "AdministrativeUnitShortName": "Xã",
+   "PostalCode": "13906"
+  },
+  {
+   "Code": "10279",
+   "Name": "Phượng Dực",
+   "FullName": "Xã Phượng Dực",
+   "NameEn": "Phuong Duc",
+   "FullNameEn": "Phuong Duc Commune",
+   "CodeName": "phuong_duc",
+   "AdministrativeUnitShortName": "Xã",
+   "PostalCode": "13921"
+  },
+  {
+   "Code": "10330",
+   "Name": "Chuyên Mỹ",
+   "FullName": "Xã Chuyên Mỹ",
+   "NameEn": "Chuyen My",
+   "FullNameEn": "Chuyen My Commune",
+   "CodeName": "chuyen_my",
+   "AdministrativeUnitShortName": "Xã",
+   "PostalCode": "13926"
+  },
+  {
+   "Code": "10342",
+   "Name": "Đại Xuyên",
+   "FullName": "Xã Đại Xuyên",
+   "NameEn": "Dai Xuyen",
+   "FullNameEn": "Dai Xuyen Commune",
+   "CodeName": "dai_xuyen",
+   "AdministrativeUnitShortName": "Xã",
+   "PostalCode": "13930"
+  },
+  {
+   "Code": "10354",
+   "Name": "Vân Đình",
+   "FullName": "Xã Vân Đình",
+   "NameEn": "Van Dinh",
+   "FullNameEn": "Van Dinh Commune",
+   "CodeName": "van_dinh",
+   "AdministrativeUnitShortName": "Xã",
+   "PostalCode": "13806"
+  },
+  {
+   "Code": "10369",
+   "Name": "Ứng Thiên",
+   "FullName": "Xã Ứng Thiên",
+   "NameEn": "Ung Thien",
+   "FullNameEn": "Ung Thien Commune",
+   "CodeName": "ung_thien",
+   "AdministrativeUnitShortName": "Xã",
+   "PostalCode": "13835"
+  },
+  {
+   "Code": "10402",
+   "Name": "Ứng Hoà",
+   "FullName": "Xã Ứng Hoà",
+   "NameEn": "Ung Hoa",
+   "FullNameEn": "Ung Hoa Commune",
+   "CodeName": "ung_hoa",
+   "AdministrativeUnitShortName": "Xã",
+   "PostalCode": "13837"
+  },
+  {
+   "Code": "10417",
+   "Name": "Hoà Xá",
+   "FullName": "Xã Hoà Xá",
+   "NameEn": "Hoa Xa",
+   "FullNameEn": "Hoa Xa Commune",
+   "CodeName": "hoa_xa",
+   "AdministrativeUnitShortName": "Xã",
+   "PostalCode": "13836"
+  },
+  {
+   "Code": "10441",
+   "Name": "Mỹ Đức",
+   "FullName": "Xã Mỹ Đức",
+   "NameEn": "My Duc",
+   "FullNameEn": "My Duc Commune",
+   "CodeName": "my_duc",
+   "AdministrativeUnitShortName": "Xã",
+   "PostalCode": "13728"
+  },
+  {
+   "Code": "10459",
+   "Name": "Phúc Sơn",
+   "FullName": "Xã Phúc Sơn",
+   "NameEn": "Phuc Son",
+   "FullNameEn": "Phuc Son Commune",
+   "CodeName": "phuc_son",
+   "AdministrativeUnitShortName": "Xã",
+   "PostalCode": "13729"
+  },
+  {
+   "Code": "10465",
+   "Name": "Hồng Sơn",
+   "FullName": "Xã Hồng Sơn",
+   "NameEn": "Hong Son",
+   "FullNameEn": "Hong Son Commune",
+   "CodeName": "hong_son",
+   "AdministrativeUnitShortName": "Xã",
+   "PostalCode": "13718"
+  },
+  {
+   "Code": "10489",
+   "Name": "Hương Sơn",
+   "FullName": "Xã Hương Sơn",
+   "NameEn": "Huong Son",
+   "FullNameEn": "Huong Son Commune",
+   "CodeName": "huong_son",
+   "AdministrativeUnitShortName": "Xã",
+   "PostalCode": "13723"
+  }
+ ]
+}

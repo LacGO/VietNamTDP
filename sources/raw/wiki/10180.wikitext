@@ -1,0 +1,173 @@
+{{Thông tin đơn vị hành chính Việt Nam|Xã
+| tên = Dân Hòa
+| hình =Cổng làng Ước Lễ.JPG 
+| ghi chú hình =Cổng làng Ước Lễ – xã Dân Hòa 
+| vĩ độ = 20.796176920287248
+| kinh độ = 105.78217599657273
+| diện tích = 38,44 km²
+| dân số = 62.755 người
+| thời điểm dân số = 2025
+| mật độ dân số = {{formatnum:{{#expr:floor({{formatnum:62.755| R}}/{{formatnum:38,44| R}})}} }} người/km²
+| vùng = [[Đồng bằng sông Hồng]]
+| thành phố = [[Hà Nội]]
+| thành lập = 
+| trụ sở UBND =Số 45 khu trung tâm thôn Tảo Dương<ref>{{Chú thích web |url=https://storage-vnportal.vnpt.vn/gov-hni/6244/VanBan/2025/6/25/TB-729-2025.pdf |title=Thông báo số 729/TB-UBND ngày 25 tháng 6 năm 2025 của Ủy ban nhân dân thành phố Hà Nội về địa điểm trụ sở làm việc của 126 phường, xã sau sắp xếp thuộc phạm vi quản lý của thành phố Hà Nội|access-date=2026-06-15 |archive-date=2026-06-15 |archive-url=https://web.archive.org/web/20260615034519/https://storage-vnportal.vnpt.vn/gov-hni/6244/VanBan/2025/6/25/TB-729-2025.pdf |url-status=dead | website = Cổng Thông tin điện tử Ủy ban nhân dân thành phố Hà Nội}}</ref> 
+| mã hành chính =10180<ref>{{Chú thích web |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/19ttg.signed.pdf |title=Quyết định số 19/2025/QĐ-TTg ngày 30 tháng 6 năm 2025 của Thủ tướng Chính phủ về việc Ban hành Bảng danh mục và mã số các đơn vị hành chính Việt Nam |access-date=2026-06-15 |archive-date=2026-06-15 |archive-url=https://web.archive.org/web/20260615034519/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/19ttg.signed.pdf |url-status=dead | website = Cổng Thông tin điện tử Chính phủ}}</ref> 
+| mã bưu chính = 
+|trụ sở Đảng ủy=Thôn Ước Lễ|web={{url|danhoa.hanoi.gov.vn}}}}{{other|Dân Hòa (định hướng)}}
+'''Dân Hòa''' là một [[Xã (Việt Nam)|xã]] thuộc thành phố [[Hà Nội]], [[Việt Nam]].
+
+== Địa lý == 
+Xã Dân Hòa có vị trí địa lý:
+
+* Phía đông giáp xã [[Thường Tín (xã)|Thường Tín]] và xã [[Thượng Phúc]]
+* Phía tây giáp xã [[Hòa Phú, Hà Nội|Hòa Phú]] với ranh giới tự nhiên là [[sông Đáy]]
+* Phía nam giáp xã [[Ứng Thiên]] và xã [[Phượng Dực]]
+* Phía bắc giáp xã [[Thanh Oai (xã)|Thanh Oai]] và xã [[Tam Hưng]].<ref>{{Chú thích web |last=Viện nghiên cứu Phát triển kinh tế – xã hội Hà Nội |date=2025-07-02 |title=Xã Dân Hòa: Những thông tin chi tiết sau sắp xếp |url=https://hanoionline.vn/xa-dan-hoa-nhung-thong-tin-chi-tiet-sau-sap-xep-343984.htm |url-status=dead |archive-url=https://web.archive.org/web/20260807400809/https://hanoionline.vn/xa-dan-hoa-nhung-thong-tin-chi-tiet-sau-sap-xep-343984.htm |archive-date=2026-08-07 |access-date=2026-08-07 |website=Cơ quan Báo và Phát thanh Truyền hình Hà Nội}}</ref><ref>{{Chú thích web |last=Cơ quan Báo và Phát thanh Truyền hình Hà Nội |date=2025-07-08 |title=Xã Dân Hòa: Tất cả thông tin chỉ dẫn bạn cần biết |url=https://hanoionline.vn/xa-dan-hoa-tat-ca-thong-tin-chi-dan-ban-can-biet-345447.htm |url-status=dead |archive-url=https://web.archive.org/web/20260807401509/https://hanoionline.vn/xa-dan-hoa-tat-ca-thong-tin-chi-dan-ban-can-biet-345447.htm |archive-date=2026-08-07 |access-date=2026-08-07}}</ref>
+Xã Dân Hòa có diện tích tự nhiên là 38,44&nbsp;km<sup>2</sup>, quy mô dân số năm 2025 là 62.755 người và mật độ dân số đạt 1.632 người/km<sup>2</sup>.<ref>{{Chú thích web |last=Mai Hữu |date=2026-04-05 |title=Hà Nội: Chi tiết phương án tổng thể sắp xếp đơn vị hành chính cấp xã |url=https://hanoimoi.vn/ha-noi-chi-tiet-phuong-an-tong-the-sap-xep-don-vi-hanh-chinh-cap-xa-700278.html |url-status=live |archive-url=https://web.archive.org/web/20260711401509/https://hanoimoi.vn/ha-noi-chi-tiet-phuong-an-tong-the-sap-xep-don-vi-hanh-chinh-cap-xa-700278.html |archive-date=2026-07-11 |access-date=2026-07-11 |website=Cơ quan Báo và Phát thanh, truyền hình Hà Nội}}</ref><ref>Công văn số 2896/BNV-CQĐP ngày 27 tháng 5 năm 2025 của Bộ Nội vụ về việc cung cấp thông tin danh mục dự kiến đơn vị hành chính cấp xã mới.</ref>
+
+== Lịch sử ==
+
+=== Trước năm 1976 ===
+
+=== Giai đoạn 1976 – nay ===
+Sau ngày 2 tháng 7 năm 1976, 6 xã: Cao Dương, Dân Hòa, Hồng Dương, Liên Châu, Tân Ước và Xuân Dương thuộc huyện [[Thanh Oai (huyện)|Thanh Oai]] của tỉnh [[Hà Sơn Bình]].
+
+Ngày 12 tháng 8 năm 1991, chia tỉnh [[Hà Sơn Bình]] thành 2 tỉnh, lấy tên là tỉnh [[Hòa Bình (tỉnh)|Hòa Bình]] và tỉnh [[Hà Tây (tỉnh)|Hà Tây]]. Khi đó, 6 xã: Cao Dương, Dân Hòa, Hồng Dương, Liên Châu, Tân Ước và Xuân Dương thuộc huyện [[Thanh Oai (huyện)|Thanh Oai]] của tỉnh [[Hà Tây (tỉnh)|Hà Tây]].<ref>Nghị quyết ngày 12 tháng 8 năm 1991 của Quốc hội khóa VIII, Kỳ họp thứ 9 về việc điều chỉnh địa giới hành chính một số tỉnh, thành phố trực thuộc Trung ương.</ref>
+
+Ngày 29 tháng 5 năm 2008, hợp nhất tỉnh [[Hà Tây (tỉnh)|Hà Tây]] vào thành phố [[Hà Nội]]. Khi đó, 6 xã: Cao Dương, Dân Hòa, Hồng Dương, Liên Châu, Tân Ước và Xuân Dương thuộc huyện [[Thanh Oai (huyện)|Thanh Oai]] của thành phố [[Hà Nội]].<ref>Nghị quyết số 15/2008/QH12 ngày 29 tháng 5 năm 2008 của Quốc hội khóa XII, Kỳ họp thứ 3 về việc điều chỉnh địa giới hành chính thành phố Hà Nội và một số tỉnh có liên quan.</ref>
+
+Ngày 14 tháng 11 năm 2024, thành lập xã Cao Xuân Dương trên cơ sở nhập xã Xuân Dương và xã Cao Dương.<ref>{{Chú thích web |tiêu đề=Nghị quyết số 1286/NQ-UBTVQH15 ngày 14 tháng 11 năm 2024 của Ủy ban Thường vụ Quốc hội về việc sắp xếp đơn vị hành chính cấp xã của thành phố Hà Nội giai đoạn 2023 – 2025 |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/11/1286-qh.signed.pdf |url-status=dead |archive-url=https://web.archive.org/web/20260725401509/https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/11/1286-qh.signed.pdf |ngày lưu trữ=2026-07-25 |ngày truy cập=2026-07-25 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+
+Ngày 16 tháng 6 năm 2025:
+
+* Kết thúc hoạt động của đơn vị hành chính cấp huyện trong cả nước.<ref>{{Chú thích web |last= |date= |title=Nghị quyết số 203/2025/QH15 ngày 16 tháng 6 năm 2025 của Quốc hội khóa XV, Kỳ họp thứ 9 về việc sửa đổi, bổ sung một số điều của Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/nq-sua-doi-hien-phap.pdf |url-status=live |archive-url=https://web.archive.org/web/20260613090807/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/nq-sua-doi-hien-phap.pdf |archive-date=2026-06-13 |access-date=2026-06-13 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+* Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của các xã Cao Xuân Dương, Hồng Dương, Liên Châu, Tân Ước và Dân Hòa (huyện [[Thanh Oai (huyện)|Thanh Oai]]) thành xã mới có tên gọi là xã Dân Hòa.<ref>{{Chú thích web |title=Nghị quyết số 1656/NQ-UBTVQH15 ngày 16 tháng 6 năm 2025 của Ủy ban Thường vụ Quốc hội về việc sắp xếp các đơn vị hành chính cấp xã của thành phố Hà Nội năm 2025 |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf |url-status=live |archive-url=https://web.archive.org/web/20260630400809/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf |archive-date=2026-06-30 |access-date=2026-06-30 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+* Sau khi sắp xếp, xã Dân Hòa được chia thành 34 tổ dân phố – thôn, gồm 1 tổ dân phố và 33 thôn.<ref>10 thôn: Áng Phao, Bến, Cao Xá, Đa Ngư, Mới, Mục Xá, Thị Nguyên (trước thuộc xã Cao Dương), Trường Xuân, Vân Đồng và Xuyên Dương (trước thuộc xã Xuân Dương) của xã Cao Xuân Dương cũ; 7 thôn: Ba Dư, Hoàng Trung, Mạch Kỳ, Ngọc Đình, Ngô Đồng, Phương Nhị và Tảo Dương của xã Hồng Dương cũ; 2 thôn: Châu Mai và Từ Châu của xã Liên Châu cũ; 5 thôn: Phúc Thụy, Quế Sơn, Tri Lễ 1, 2 và Ước Lễ của xã Tân Ước cũ; 10 tổ dân phố – thôn, gồm tổ dân phố Vác và 9 thôn: An Khoái, Hoàng Văn Thụ, Phú Thọ, Thế Hiển, Tiên Lữ, Tiên Văn, Trần Phú, Trung Hòa, Vũ Lăng của xã Dân Hòa cũ.</ref><ref>{{Chú thích web |title=Thông tư số 10/2022/TT-BTNMT ngày 29 tháng 9 năm 2022 của Bộ Tài nguyên và Môi trường về việc Ban hành Danh mục địa danh dân cư, sơn văn, thủy văn, kinh tế – xã hội phục vụ công tác thành lập bản đồ thành phố Hà Nội |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2022/10/10-btnmt.pdf |url-status=live |archive-url=https://web.archive.org/web/20260630400809/https://datafiles.chinhphu.vn/cpp/files/vbpq/2022/10/10-btnmt.pdf |archive-date=2026-06-30 |access-date=2026-06-30 |website=Cổng Thông tin điện tử Chính phủ}}</ref><ref>{{Chú thích web |last= |date= |title=Quyết định số 25/QĐ-UBBC ngày 24 tháng 2 năm 2026 của Ủy ban bầu cử xã Dân Hòa về việc công bố danh sách chính thức những người ứng cử đại biểu Hội đồng Nhân dân xã Dân Hòa, nhiệm kỳ 2026 – 2031 theo từng đơn vị bầu cử |url=https://sqhx-hanoi.mediacdn.vn/91579363132710912/2026/2/26/qd-25-ubbc-xa-phan-bo-dai-bieu-ung-cu-theo-don-vi-bau-cu-17721482701901299801807.pdf |url-status=dead |archive-url=https://web.archive.org/web/20260808201510/https://sqhx-hanoi.mediacdn.vn/91579363132710912/2026/2/26/qd-25-ubbc-xa-phan-bo-dai-bieu-ung-cu-theo-don-vi-bau-cu-17721482701901299801807.pdf |archive-date=2026-08-08 |access-date=2026-08-08 |website=Trang Thông tin điện tử xã Dân Hòa – thành phố Hà Nội}}</ref>
+Ngày 30 tháng 6 năm 2026, thành lập 8 thôn mới: Xuyên Dương, Thị Nguyên, Mục Xá, Phú An Tiên, Hoàng Kỳ, Đồng Tiến, Ước Lễ, Tri Lễ và tổ dân phố mới Canh Hoạch.<ref>1. Các thôn giữ nguyên (9 thôn): Thôn Trường Xuân, Thôn Cao Xá, Thôn Áng Phao, Thôn Vũ Lăng, Thôn Ngọc Đình, Thôn Tảo Dương, Thôn Quế Sơn, Thôn Từ Châu, Thôn Châu Mai; 2. Thôn Xuyên Dương (sáp nhập: thôn Vân Đồng + thôn Xuyên Dương); 3. Thôn Thị Nguyên (sáp nhập: thôn Thị Nguyên + thôn Bến); 4. Thôn Mục Xá (sáp nhập: thôn Mục Xá + Đa Ngư + thôn Mới); 5. Tổ dân phố Canh Hoạch (sáp nhập: tổ dân phố Vác + thôn Tiên Văn + thôn Thế Hiển + thôn Trung Hòa + thôn Trần Phú + thôn Hoàng Văn Thụ); 6. Thôn Phú An Tiên (sáp nhập: thôn Tiên Lữ + thôn Phú Thọ + thôn An Khoái); 7. Thôn Hoàng Kỳ (sáp nhập: thôn Hoàng Trung + thôn Mạch Kỳ); 8. Thôn Đồng Tiến (sáp nhập: thôn Ba Dư + Ngô Đồng + Phương Nhị); 9. Thôn Ước Lễ (sáp nhập: thôn Ước Lễ + thôn Phúc Thụy); 10. Thôn Tri Lễ (sáp nhập: thôn Tri Lễ 1 + Tri Lễ 2).</ref><ref name=":0">{{Chú thích web |last=Trung tâm Dịch vụ tổng hợp xã Dân Hòa |date=2026-06-18 |title=Bài tuyên truyền về Đề án sắp xếp, tổ chức lại Thôn trên địa bàn xã Hòa Phú năm 2026 |url=https://danhoa.hanoi.gov.vn/thong-tin-tuyen-truyen/du-thao-phuong-an-sap-xep-thon-to-dan-pho-tren-dia-ban-xa-dan-hoa-2765260615173046462.htm?gidzl=rd7L4DfD4rVIRj4Mq5KJLjDjqnV70n1LpJlQ4v457rEIFzmIoGLDKyCnYH7C3aa4n37R568w3VDstqmNLG |url-status=dead |archive-url=https://web.archive.org/web/20260808201510/https://danhoa.hanoi.gov.vn/thong-tin-tuyen-truyen/du-thao-phuong-an-sap-xep-thon-to-dan-pho-tren-dia-ban-xa-dan-hoa-2765260615173046462.htm?gidzl=rd7L4DfD4rVIRj4Mq5KJLjDjqnV70n1LpJlQ4v457rEIFzmIoGLDKyCnYH7C3aa4n37R568w3VDstqmNLG |archive-date=2026-08-08 |access-date=2026-08-08 |website=Trang Thông tin điện tử xã Dân Hòa – thành phố Hà Nội}}</ref><ref name=":02">{{Chú thích web |last=Trung tâm Dịch vụ tổng hợp xã Dân Hòa |date=2026-06-30 |title=Kỳ họp thứ ba Hội đồng nhân dân xã Dân Hòa khóa XXIV: ngày làm việc thứ hai hoàn thành toàn bộ chương trình |url=https://danhoa.hanoi.gov.vn/tin-tuc-su-kien/ky-hop-thu-ba-hdnd-xa-dan-hoa-khoa-xxiv-ngay-lam-viec-thu-hai-hoan-thanh-toan-bo-chuong-trinh-2765260630193033066.htm?gidzl=Ok2xDOQYZXnc_xypZBgE7MVylJsRx8qHUQgqEStgWXSchh8ubUhG5tUWvpkGuTH0SA2rFcBISm0OWwEA7W |url-status=dead |archive-url=https://web.archive.org/web/20260808201510/https://danhoa.hanoi.gov.vn/tin-tuc-su-kien/ky-hop-thu-ba-hdnd-xa-dan-hoa-khoa-xxiv-ngay-lam-viec-thu-hai-hoan-thanh-toan-bo-chuong-trinh-2765260630193033066.htm?gidzl=Ok2xDOQYZXnc_xypZBgE7MVylJsRx8qHUQgqEStgWXSchh8ubUhG5tUWvpkGuTH0SA2rFcBISm0OWwEA7W |archive-date=2026-08-08 |access-date=2026-08-08 |website=Trang Thông tin điện tử xã Dân Hòa – thành phố Hà Nội}}</ref><!--== Lịch sử, địa lý và phát triển== 
+'''Xã Hồng Phong''' tên cũ là xã Yên Khê, năm [[1958]] được đổi tên là Hồng Phong. Là một trong 31 xã, thị trấn của huyện [[Chương Mỹ (huyện)| Chương Mỹ]] thành phố [[Hà Nội]].-->
+
+== Hành chính ==
+Xã Dân Hòa được chia thành 18 tổ dân phố – thôn, gồm tổ dân phố Canh Hoạch và 17 thôn: Áng Phao, Cao Xá, Châu Mai, Đồng Tiến, Hoàng Kỳ, Mục Xá, Ngọc Đình, Phú An Tiên, Quế Sơn, Tảo Dương, Thị Nguyên, Tri Lễ, Trường Xuân, Từ Châu, Ước Lễ, Vũ Lăng, Xuyên Dương.<ref name=":0" /><ref name=":02" />
+{| class="wikitable sortable" cellpadding="0" cellspacing="6" width="100%" align="center" style="background: #f9f9f9; border: 1px #aaa solid; margin-top: 16px"
+! colspan="4" style="background: #E6E6FA; font-size: 95%;" |Danh sách các tổ dân phố – thôn thuộc xã Dân Hòa<ref name=":0" /><ref name=":02" />
+|-
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| cellpadding="1" cellspacing="1" width="100%" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| colspan="4" align="left" style="background: #F5F5DC; padding-left: 30px;" |'''Tổ dân phố (1)'''
+|-
+| align="left" |Canh Hoạch
+|1.608
+|-
+| colspan="4" align="left" style="background: #F5F5DC; padding-left: 30px;" |'''Thôn (17)'''
+|-
+| align="left" |Áng Phao
+|817
+|-
+| align="left" |Cao Xá
+|831
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| cellpadding="1" cellspacing="1" width="100%" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Châu Mai
+|1.619
+|-
+| align="left" |Đồng Tiến
+|1.249
+|-
+| align="left" |Hoàng Kỳ
+|937
+|-
+| align="left" |Mục Xá
+|862
+|-
+| align="left" |Ngọc Đình
+|687
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| cellpadding="1" cellspacing="1" width="100%" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Phú An Tiên
+|831
+|-
+| align="left" |Quế Sơn
+|544
+|-
+| align="left" |Tảo Dương
+|823
+|-
+| align="left" |Thị Nguyên
+|880
+|-
+| align="left" |Tri Lễ
+|1.273
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| cellpadding="1" cellspacing="1" width="100%" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Trường Xuân
+|1.353
+|-
+| align="left" |Từ Châu
+|1.055
+|-
+| align="left" |Ước Lễ
+|906
+|-
+| align="left" |Vũ Lăng
+|521
+|-
+| align="left" |Xuyên Dương
+|686
+|}
+|}
+
+== Xã hội ==
+
+=== Tôn giáo=== 
+Dân Hoà gồm 2 tôn giáo chủ yếu là Đạo Phật và Đạo [[Công giáo]], trong đó người dân theo Đạo Công giáo tập trung ở 2 thôn Canh Hoạch và Tiên Lữ. Tuy nhiên, phần lớn người dân đều theo [[Thảo luận:Tôn giáo tại Việt Nam|Lương giáo (không có niềm tin tôn giáo)]], chủ yếu là thờ cúng tổ tiên. Một số ít thì theo đạo [[Thiên Chúa]], [https://hanoimoi.vn/truyen-thong-doan-ket-luong-giao-o-thanh-oai-554399.html họ chủ yếu tổ chức giáng sinh và các ngày lễ tôn vinh chúa Jesus.]
+
+=== Kinh tế=== 
+Xã có 21 làng nghề tại 24 thôn và khu phố: 7 làng nghề nón, mũ lá; 7 làng nghề tăm hương, 4 làng nghề mộc, trạm khắc, chế biến gỗ, 3 làng nghề chế biến thực phẩm (giò, chả) và 1 làng nghề mây tre.
+
+Dân Hoà vốn nổi tiếng với nhiều nghề truyền thống, như làm quạt giấy, làm lồng chim ở Canh Hoạch. Vào thời xưa, đây chính là những vật phẩm nổi tiếng của vùng quê này dùng để tiến Vua. Còn Vũ Lăng, nổi tiếng với nghề trạm khảm đồ thờ, đồ mỹ nghệ bằng gỗ, nức lòng bốn phương, giúp cho kinh tế của thôn nói riêng và của xã nói chung ngày càng phát triển.
+
+Trong 5-7 năm trở lại đây, Tiên Lữ nổi lên như một điểm sáng về kinh tế với việc trở thành đầu mối thu mua lồng chim và giao hàng cho cửa hàng, đại lý tại các tỉnh phía Bắc. Tiên Lữ giờ đây đã thực sự thay hình đổi dạng, ngày càng phát triển hơn.
+
+Hiện nay cùng với sự phát triển đa dạng nhiều ngành nghề, nghề thủ công như mộc, chạm khắc, chế tác vật liệu từ tre, làm lồng chim, quạt giấy, buôn bán, mở cửa hàng dịch vụ kết hợp với sản xuất nông nghiệp, trồng lúa trồng rau màu, chăn nuôi đã đưa Dân Hòa đã đưa Dân Hòa thành một trong những xã phát triển khá của huyện Thanh Oai. Khu vực phố Vác ven quốc lộ 21 khá sầm uất với khá nhiều cửa hàng dịch vụ như: điện máy xanh, Vmart, thế giới di động, cửa hàng kinh doanh đồ dân dụng...
+
+Xã Dân Hòa có diện tích 5,2&nbsp;km², dân số năm 1999 là 7.354 người,<ref name = MS>{{Chú thích web | url = http://mic.gov.vn/uploads/20100623/E124-2009%20(31-12)2-MSDVHCVN.xls | tiêu đề = Mã số đơn vị hành chính Việt Nam | ngày truy cập = ngày 10 tháng 4 năm 2012 | nhà xuất bản = Bộ Thông tin & Truyền thông | archive-date = 2013-03-24 | archive-url = https://web.archive.org/web/20130324095035/http://mic.gov.vn/uploads/20100623/E124-2009%20%2831-12%292-MSDVHCVN.xls | url-status = dead }}</ref> mật độ dân số đạt 1.414 người/km².
+
+== Di tích== 
+Ở xã Dân Hòa cũng như nhiều địa phương ở đồng bằng Bắc Bộ nói chung và Hà Nội nói riêng cũng có các di tích như đình, chùa nhà ở trong thôn xóm. Nổi bật là 3 di tích ở xã Dân Hòa đã được công nhận là di tích cấp quốc gia. Trong đó di tích đình và chùa làng Vác (thôn Canh Hoạch) thờ năm vị được phong là thành hoàng làng (Ngũ vị Đại Vương) được công nhận là di tích cấp quốc gia 1991. Nhà thờ họ Nguyễn cũng được công nhận là di tích cấp quốc gia 1995. Di tích cấp quốc gia đình Sàn thôn Tảo Dương.<ref>{{Chú thích web | last = nhipsonghanoi.hanoimoi.vn | title = Đình Tảo Dương | url = https://nhipsonghanoi.hanoimoi.vn/dinh-tao-duong-627134.html | archive-url = https://web.archive.org/web/20240520162545/https://nhipsonghanoi.hanoimoi.vn/dinh-tao-duong-627134.html | archive-date = 2024-05-20 | access-date = 2025-10-10 | website = nhipsonghanoi.hanoimoi.vn | language = vi-VN | url-status = live }}</ref>
+
+<!-- 
+== Di tích lịch sử== 
+Đền Hoàng Trung thuộc xã Hồng Dương là di tích lịch sử văn hóa thờ hai vị [[tướng nhà Đinh]] là Cao Y và [[Lưu Cơ]] đã có công dẹp [[loạn 12 sứ quân]], lập ra làng Hoàng Trung.
+
+Đình Tảo Dương là một ngôi đình cổ được kiến tạo năm 1545, là nơi thờ tự [[Tướng nhà Đinh| tứ vị thành hoàng thời Đinh]]: Hoàng Tế đại vương, được vua [[Đinh Tiên Hoàng]] phong làm quan Thái úy. Trần Tuệ đại vương con ông Trần Kính, được vua Đinh phong làm "Thái phó đại tướng quân". Trần Minh đại vương là anh em sinh đôi của ông Trần Tuệ, được phong làm "Tham tán binh sự tướng quân". Hoàng Hựu đại vương (còn gọi là Nguyễn Hựu) là người Tảo Dương, con cụ Nguyễn Quang và cụ Đặng Thị Minh được vua Đinh phong làm "Điều sát binh sự tướng quân".
+ -->
+== Giao thông== 
+Các tuyến hệ thống giao thông quan trọng ở xã Dân Hòa:
+* Quốc lộ 21B: Ba La - Thạch Bích - Bình Đà - Kim Bài - Chuông - Vác - Quán Tròn - Bạt - Vân Đình - Đinh Xuyên - chợ Dầu...
+* Tỉnh lộ 429: từ ngã tư Vác đi cầu Ba Thá
+* Đường từ ngã tư Vác đi đường trục phía Nam và tỉnh lộ 427 (xã Thanh Thùy) cũng được trải nhựa.
+* Đường trục phía nam Hà Nội
+* Hệ thống xe buýt: 78, 91, 103A, 103B, 115, 123, 125...
+
+== Chú thích== 
+{{tham khảo| 30em}}
+
+== Tham khảo== 
+{{sơ khai Hà Nội}}
+{{Đơn vị hành chính thuộc thành phố Hà Nội}}

@@ -1,0 +1,116 @@
+{{Thông tin đơn vị hành chính Việt Nam|Xã
+| tên = Kim Anh
+| hình = Hồ Đồng Đò.jpg
+| ghi chú hình = Hồ Đồng Đò
+| vĩ độ = 21.273307056186557
+| kinh độ = 105.7496808760823
+| vĩ phút = | vĩ giây = | kinh phút = | kinh giây = 
+| diện tích = 52,8 km²
+| dân số = 48.564 người
+| thời điểm dân số = 2025
+| mật độ dân số = {{formatnum:{{#expr:floor({{formatnum:48.564| R}}/{{formatnum:52,8| R}})}} }} người/km²
+| vùng = [[Đồng bằng sông Hồng]]
+| thành phố = [[Hà Nội]]
+| thành lập = 
+| trụ sở UBND = Thôn Liên Thắng<ref>{{Chú thích web |url=https://storage-vnportal.vnpt.vn/gov-hni/6244/VanBan/2025/6/25/TB-729-2025.pdf |title=Thông báo số 729/TB-UBND ngày 25 tháng 6 năm 2025 của Ủy ban nhân dân thành phố Hà Nội về địa điểm trụ sở làm việc của 126 phường, xã sau sắp xếp thuộc phạm vi quản lý của thành phố Hà Nội|access-date=2026-06-15 |archive-date=2026-06-15 |archive-url=https://web.archive.org/web/20260615034519/https://storage-vnportal.vnpt.vn/gov-hni/6244/VanBan/2025/6/25/TB-729-2025.pdf |url-status=dead | website = Cổng Thông tin điện tử Ủy ban nhân dân thành phố Hà Nội}}</ref>
+| mã hành chính = 00382<ref>{{Chú thích web |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/19ttg.signed.pdf |title=Quyết định số 19/2025/QĐ-TTg ngày 30 tháng 6 năm 2025 của Thủ tướng Chính phủ về việc Ban hành Bảng danh mục và mã số các đơn vị hành chính Việt Nam |access-date=2026-06-15 |archive-date=2026-06-15 |archive-url=https://web.archive.org/web/20260615034519/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/19ttg.signed.pdf |url-status=dead | website = Cổng Thông tin điện tử Chính phủ}}</ref>
+| mã bưu chính = 
+| web = {{url|kimanh.hanoi.gov.vn}}
+|bản đồ 1={{maplink|frame=yes|plain=yes|type=shape|frame-width=280|frame-align=center|stroke-width=3}}|trụ sở Đảng ủy=Thôn Phú Sơn}}
+{{other|Kim Anh (định hướng)}}
+'''Kim Anh''' là một [[Xã (Việt Nam)|xã]] thuộc thành phố [[Hà Nội]], [[Việt Nam]].
+
+== Địa lý== 
+[[hình:Hồ Đồng Đò 2019.jpg| thumb| trái| [[Hồ Đồng Đò]]]]
+Xã Kim Anh có vị trí địa lý:
+
+* Phía đông giáp xã [[Trung Giã]]
+* Phía tây giáp phường [[Phúc Yên (phường)|Phúc Yên]] thuộc tỉnh [[Phú Thọ]]
+* Phía nam giáp xã [[Nội Bài]]
+* Phía bắc giáp phường [[Xuân Hòa, Phú Thọ|Xuân Hòa]] thuộc tỉnh [[Phú Thọ]].<ref>{{Chú thích web |last=Báo Tin tức và Dân tộc – Thông tấn xã Việt Nam |date=2025-07-01 |title=126 bản đồ địa giới hành chính của Hà Nội sau sáp nhập |url=https://baotintuc.vn/anh/126-ban-do-dia-gioi-hanh-chinh-cua-ha-noi-sau-sap-nhap-20250701143216649.htm |url-status=dead |archive-url=https://web.archive.org/web/20260723112357/https://baotintuc.vn/anh/126-ban-do-dia-gioi-hanh-chinh-cua-ha-noi-sau-sap-nhap-20250701143216649.htm |archive-date=2026-07-23 |access-date=2026-07-23 }}</ref><ref>{{Chú thích web |last=Viện nghiên cứu Phát triển kinh tế – xã hội Hà Nội |date=2025-07-02 |title=Xã Kim Anh: Những thông tin chi tiết sau sắp xếp |url=https://hanoionline.vn/xa-kim-anh-nhung-thong-tin-chi-tiet-sau-sap-xep-344094.htm |url-status=live |archive-url=https://web.archive.org/web/20260701400809/https://hanoionline.vn/xa-kim-anh-nhung-thong-tin-chi-tiet-sau-sap-xep-344094.htm |archive-date=2026-07-01 |access-date=2026-07-01 |website=Cơ quan Báo và Phát thanh Truyền hình Hà Nội}}</ref>
+Xã Kim Anh có diện tích tự nhiên là 52,8 km<sup>2</sup>, quy mô dân số năm 2025 là 48.564 người và mật độ dân số đạt 919 người/km<sup>2</sup>.<ref>{{Chú thích web|last=Mai Hữu|date=2026-04-05|title=Hà Nội: Chi tiết phương án tổng thể sắp xếp đơn vị hành chính cấp xã|url=https://hanoimoi.vn/ha-noi-chi-tiet-phuong-an-tong-the-sap-xep-don-vi-hanh-chinh-cap-xa-700278.html|url-status=bot: unknown|archive-url=https://web.archive.org/web/20250710163328/https://hanoimoi.vn/ha-noi-chi-tiet-phuong-an-tong-the-sap-xep-don-vi-hanh-chinh-cap-xa-700278.html|archive-date=2025-07-10|access-date=2026-07-11|website=Cơ quan Báo và Phát thanh, truyền hình Hà Nội}}</ref><ref>Công văn số 2896/BNV-CQĐP ngày 27 tháng 5 năm 2025 của Bộ Nội vụ về việc cung cấp thông tin danh mục dự kiến đơn vị hành chính cấp xã mới.</ref>
+
+== Lịch sử==
+
+=== Trước năm 1976 ===
+
+=== Giai đoạn 1976 – nay ===
+Sau ngày 2 tháng 7 năm 1976, 3 xã: Minh Phú, Minh Trí và Tân Dân thuộc huyện [[Kim Anh (huyện)|Kim Anh]] thuộc tỉnh [[Vĩnh Phú (xã)|Vĩnh Phú]].
+
+Ngày 5 tháng 7 năm 1977, hợp nhất huyện [[Đa Phúc (huyện)|Đa Phúc]], huyện [[Kim Anh (huyện)|Kim Anh]], thị trấn (thuộc tỉnh) [[Xuân Hòa, Phú Thọ|Xuân Hòa]] thành một huyện lấy tên là huyện [[Sóc Sơn (huyện)|Sóc Sơn]]. Khi đó, 3 xã: Minh Phú, Minh Trí và Tân Dân thuộc huyện [[Sóc Sơn (huyện)|Sóc Sơn]].<ref>Quyết định số 178-CP ngày 5 tháng 7 năm 1977 của Hội đồng Chính phủ về việc hợp nhất và điều chỉnh địa giới một số huyện thuộc tỉnh Vĩnh Phú.</ref>
+
+Ngày 29 tháng 12 năm 1978, sáp nhập huyện [[Sóc Sơn (huyện)|Sóc Sơn]] của tỉnh [[Vĩnh Phú (tỉnh)|Vĩnh Phú]] vào thành phố [[Hà Nội]]. Khi đó, 3 xã: Minh Phú, Minh Trí và Tân Dân thuộc huyện [[Sóc Sơn (huyện)|Sóc Sơn]] của thành phố [[Hà Nội]].<ref>Nghị quyết ngày 29 tháng 12 năm 1978 của Quốc hội khóa VI, Kỳ họp thứ 4 phê chuẩn việc phân vạch lại địa giới thành phố Hà Nội, thành phố Hồ Chí Minh, các tỉnh Hà Sơn Bình, Vĩnh Phú, Cao Lạng, Bắc Thái, Quảng Ninh và Đồng Nai.</ref>
+
+Ngày 16 tháng 6 năm 2025:
+
+* Kết thúc hoạt động của đơn vị hành chính cấp huyện trong cả nước.<ref>{{Chú thích web |last= |date= |title=Nghị quyết số 203/2025/QH15 ngày 16 tháng 6 năm 2025 của Quốc hội khóa XV, Kỳ họp thứ 9 về việc sửa đổi, bổ sung một số điều của Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/nq-sua-doi-hien-phap.pdf |url-status=live |archive-url=https://web.archive.org/web/20260613090807/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/nq-sua-doi-hien-phap.pdf |archive-date=2026-06-13 |access-date=2026-06-13 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+* Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của các xã Tân Dân, Minh Phú và Minh Trí (huyện [[Sóc Sơn (huyện)|Sóc Sơn]]) thành xã mới có tên gọi là xã Kim Anh.<ref>{{Chú thích web |title=Nghị quyết số 1656/NQ-UBTVQH15 ngày 16 tháng 6 năm 2025 của Ủy ban Thường vụ Quốc hội về việc sắp xếp các đơn vị hành chính cấp xã của thành phố Hà Nội năm 2025 |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf |url-status=bot: unknown |archive-url=https://web.archive.org/web/20260513110024/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf |archive-date=2026-05-13 |access-date=2026-06-30 |website=Cổng Thông tin điện tử Chính phủ }}</ref>
+* Sau khi sắp xếp, xã Kim Anh được chia thành 28 thôn.<ref>12 thôn: An Trung, Điền Quy, Môn Tự, Ninh Cầm, Ninh Kiều, Ninh Nội, Quán Mỹ, Thanh Vân, Xuân Áp, Xuân Hòa, Xuân Lễ, Xuân Long của xã Tân Dân cũ; 8 thôn: Lâm Trường, Phú Cường, Phú Hạ, Phú Hữu, Phú Ninh, Phú Thịnh, Thanh Sơn và Thanh Trí của xã Minh Phú cũ; 8 thôn: Chợ Hội, Gò Gạo, Lập Trí, Minh Tân, Thái Lai, Thắng Hữu, Thắng Trí và Vụ Bản của xã Minh Trí cũ.</ref><ref>{{Chú thích web |title=Thông tư số 10/2022/TT-BTNMT ngày 29 tháng 9 năm 2022 của Bộ Tài nguyên và Môi trường về việc Ban hành Danh mục địa danh dân cư, sơn văn, thủy văn, kinh tế – xã hội phục vụ công tác thành lập bản đồ thành phố Hà Nội |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2022/10/10-btnmt.pdf |url-status=bot: unknown |archive-url=https://web.archive.org/web/20260630082812/https://datafiles.chinhphu.vn/cpp/files/vbpq/2022/10/10-btnmt.pdf |archive-date=2026-06-30 |access-date=2026-06-30 |website=Cổng Thông tin điện tử Chính phủ }}</ref><ref>{{Chú thích web |last= |date= |title=Nghị quyết số 1/NQ-UBBC ngày 15 tháng 12 năm 2025 của Ủy ban bầu cử xã Kim Anh về việc ấn định số đơn vị bầu cử và số lượng đại biểu Hội đồng nhân dân xã được bầu cử ở mỗi đơn vị |url=https://sqhx-hanoi.mediacdn.vn/91579363132710912/2026/1/5/nq-so-01-ubbc-1-176758828088013214930.pdf |url-status=bot: unknown |archive-url=https://web.archive.org/web/20260708154703/https://sqhx-hanoi.mediacdn.vn/91579363132710912/2026/1/5/nq-so-01-ubbc-1-176758828088013214930.pdf |archive-date=2026-07-08 |access-date=2026-07-01 |website=Trang Thông tin điện tử xã Kim Anh – thành phố Hà Nội }}</ref>
+
+Ngày 24 tháng 6 năm 2026, thành lập 9 thôn mới: Phú Thượng, Phú Sơn, Mỹ Ninh, An Ninh, Thanh Ninh, Xuân Sơn, Lập Trí, Liên Thắng và Thái Vụ.<ref>1. Thôn Phú Thượng: Thành lập trên cơ sở hợp nhất toàn bộ diện tích và dân số các thôn Phú Thịnh, Lâm Trường, Phú Hữu, Phú Cường để thành lập thôn Phú Thượng; 2. Thôn Phú Sơn: Thành lập trên cơ sở hợp nhất toàn bộ diện tích và dân số Thôn Phú Ninh và Thôn Thanh Sơn; 3. Thôn Mỹ Ninh: Thành lập trên cơ sở hợp nhất toàn bộ diện tích và dân số Thôn Quán Mỹ và Thôn Ninh Cầm; 4. Thôn An Ninh: Thành lập trên cơ sở hợp nhất toàn bộ diện tích và dân số Thôn An Trung và Thôn Ninh Kiều; 5. Thôn Thanh Ninh: Thành lập trên cơ sở hợp nhất toàn bộ diện tích và dân số các thôn: Thanh Vân, Ninh Nội, Điền Quy, Môn Tự; 6. Thôn Xuân Sơn: Thành lập trên cơ sở hợp nhất toàn bộ diện tích và dân số các thôn: Xuân Long, Xuân Lễ, Xuân Áp; 7. Thôn Lập Trí: Thành lập trên cơ sở hợp nhất toàn bộ diện tích và dân số các thôn: Lập Trí, Chợ Hội, Xuân Hòa; 8. Thôn Liên Thắng: Thành lập trên cơ sở hợp nhất toàn bộ diện tích và dân số Thôn Thắng Trí và Thôn Thắng Hữu; 9. Thôn Thái Vụ: Thành lập trên cơ sở hợp nhất toàn bộ diện tích và dân số các thôn: Thái Lai, Vụ Bản, Gò Gạo, Minh Tân; 10. Thôn Phú Hạ: Giữ nguyên toàn bộ diện tích và dân số; 11. Thôn Thanh Trí: Giữ nguyên toàn bộ diện tích và dân số.</ref><ref name=":0">{{Chú thích web |last= |date= |title=Thông báo số 2028/TB-UBND ngày 7 tháng 7 năm 2026 của Ủy ban nhân dân xã Kim Anh về việc công bố danh sách các thôn sau sắp xếp trên địa bàn xã Kim Anh năm 2026 |url=https://kimanh.hanoi.gov.vn/thong-bao/thong-bao-ve-viec-cong-bo-danh-sach-cac-thon-sau-sap-xep-tren-dia-ban-xa-kim-anh-nam-2026-2683260707163531297.htm#img-lightbox-1 |url-status=dead |archive-url=https://web.archive.org/web/20260706400809/https://kimanh.hanoi.gov.vn/thong-bao/thong-bao-ve-viec-cong-bo-danh-sach-cac-thon-sau-sap-xep-tren-dia-ban-xa-kim-anh-nam-2026-2683260707163531297.htm#img-lightbox-1 |archive-date=2026-07-06 |access-date=2026-07-06|website=Trang Thông tin điện tử xã Kim Anh – thành phố Hà Nội}}</ref>
+
+== Hành chính ==
+Xã Kim Anh được chia thành 11 thôn: An Ninh, Lập Trí, Liên Thắng, Mỹ Ninh, Phú Hạ, Phú Sơn, Phú Thượng, Thanh Ninh, Thanh Trí, Thái Vụ và Xuân Sơn.<ref name=":0" />
+{| class="wikitable sortable" align="center" width="100%" cellspacing="6" cellpadding="0" style="background: #f9f9f9; border: 1px #aaa solid; margin-top: 16px"
+! colspan="4" style="background: #E6E6FA; font-size: 95%;" |Danh sách các thôn thuộc xã Kim Anh<ref name=":0" />
+|-
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |An Ninh
+|1.000
+|-
+| align="left" |Lập Trí
+|1.552
+|-
+| align="left" |Liên Thắng
+|1.815
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Mỹ Ninh
+|1.082
+|-
+| align="left" |Phú Hạ
+|686
+|-
+| align="left" |Phú Sơn
+|724
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Phú Thượng
+|1.250
+|-
+| align="left" |Thanh Ninh
+|1.142
+|-
+| align="left" |Thanh Trí
+|1.354
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Thái Vụ
+|1.267
+|-
+| align="left" |Xuân Sơn
+|1.052
+|}
+|}
+
+== Chú thích ==
+{{tham khảo}}
+
+== Tham khảo==
+{{Sơ khai Hà Nội}}{{Đơn vị hành chính thuộc thành phố Hà Nội}}

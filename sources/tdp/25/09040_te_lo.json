@@ -1,0 +1,152 @@
+{
+  "ward_code": "09040",
+  "ward_name": "Tề Lỗ",
+  "province_code": "25",
+  "resolution": "",
+  "arrangement": "truoc_2026_07",
+  "effective_date": "",
+  "verified": "unverified",
+  "extraction": {
+    "source": "vi.wikipedia.org",
+    "title": "Tề Lỗ",
+    "mode": "narrative"
+  },
+  "sources": [
+    {
+      "key": "wiki-09040-1",
+      "title": "Ủy ban bầu cử xã Tề Lỗ công bố danh sách chính thức những người ứng cử đại biểu Hội đồng nhân dân xã Tề Lỗ nhiệm kỳ 2026 - 2031 theo từng đơn vị bầu cử",
+      "url": "https://web.facebook.com/story.php?story_fbid=122173649300919277&id=61577578334853&rdid=t5CyIIQe8aZRs7UT#",
+      "date": "2026-03-02",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-09040-2",
+      "title": "TOÀN VĂN: Nghị quyết số 202/2025/QH15 về sắp xếp đơn vị hành chính cấp tỉnh",
+      "url": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-202-2025-qh15-ve-sap-xep-don-vi-hanh-chinh-cap-tinh-119250612174148722.htm",
+      "date": "2025-07-16",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-09040-3",
+      "title": "NGHỊ QUYẾT 203/2025/QH15 SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA HIẾN PHÁP NƯỚC CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM",
+      "url": "https://xaydungchinhsach.chinhphu.vn/nghi-quyet-203-2025-qh15-sua-doi-bo-sung-mot-so-dieu-cua-hien-phap-nuoc-cong-hoa-xa-hoi-chu-nghia-viet-nam-119250616181735552.htm",
+      "date": "2025-06-28",
+      "type": "wikipedia-ref"
+    }
+  ],
+  "note": "Trích tự động từ Wikipedia tiếng Việt (mode=narrative). Cần đối chiếu nghị quyết HĐND phường/xã. ⚠️ Danh mục có thể là hiện trạng TRƯỚC sắp xếp thôn/TDP 01/7/2026 — Wikipedia chưa cập nhật nghị quyết mới.",
+  "tdp": [
+    {
+      "name": "Báo Văn 1",
+      "type": "thôn"
+    },
+    {
+      "name": "Báo Văn 2",
+      "type": "thôn"
+    },
+    {
+      "name": "Đông Lỗ 1",
+      "type": "thôn"
+    },
+    {
+      "name": "Đông Lỗ 2",
+      "type": "thôn"
+    },
+    {
+      "name": "Đồng Lạc 1",
+      "type": "thôn"
+    },
+    {
+      "name": "Đồng Lạc 2",
+      "type": "thôn"
+    },
+    {
+      "name": "Đồng Lạc 3",
+      "type": "thôn"
+    },
+    {
+      "name": "Giã Bàng 1",
+      "type": "thôn"
+    },
+    {
+      "name": "Giã Bàng 2",
+      "type": "thôn"
+    },
+    {
+      "name": "Giã Bàng 3",
+      "type": "thôn"
+    },
+    {
+      "name": "Hòang Thạch",
+      "type": "thôn"
+    },
+    {
+      "name": "Hùng Vĩ 1",
+      "type": "thôn"
+    },
+    {
+      "name": "Hùng Vĩ 2",
+      "type": "thôn"
+    },
+    {
+      "name": "Hùng Vĩ 3",
+      "type": "thôn"
+    },
+    {
+      "name": "Lạc Trung",
+      "type": "thôn"
+    },
+    {
+      "name": "Lỗ Quynh",
+      "type": "thôn"
+    },
+    {
+      "name": "Nhân Lý",
+      "type": "thôn"
+    },
+    {
+      "name": "Nhân Trai",
+      "type": "thôn"
+    },
+    {
+      "name": "Phú Thọ",
+      "type": "thôn"
+    },
+    {
+      "name": "Tân Nguyên",
+      "type": "thôn"
+    },
+    {
+      "name": "Thiệu Tổ",
+      "type": "thôn"
+    },
+    {
+      "name": "Trung Hậu",
+      "type": "thôn"
+    },
+    {
+      "name": "Trung Nguyên",
+      "type": "thôn"
+    },
+    {
+      "name": "Xuân Chiếm",
+      "type": "thôn"
+    },
+    {
+      "name": "Yên Lạc 1",
+      "type": "thôn"
+    },
+    {
+      "name": "Yên Lạc 2",
+      "type": "thôn"
+    },
+    {
+      "name": "Yên Lạc 3",
+      "type": "thôn"
+    },
+    {
+      "name": "Yên Lạc 4",
+      "type": "thôn"
+    }
+  ]
+}

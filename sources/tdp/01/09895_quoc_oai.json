@@ -1,0 +1,116 @@
+{
+  "ward_code": "09895",
+  "ward_name": "Quốc Oai",
+  "province_code": "01",
+  "resolution": "",
+  "arrangement": "2026_07",
+  "effective_date": "2026-07-01",
+  "verified": "unverified",
+  "extraction": {
+    "source": "vi.wikipedia.org",
+    "title": "(cache)",
+    "mode": "table"
+  },
+  "sources": [
+    {
+      "key": "wiki-09895-1",
+      "title": "Kỳ họp thứ Ba Hội đồng nhân dân xã Quốc Oai thông qua nhiều nghị quyết quan trọng vì sự phát triển địa phương",
+      "url": "https://thanhuyhanoi.vn/tin-tuc/xa-quoc-oai/ky-hop-thu-ba-hdnd-xa-quoc-oai-thong-qua-nhieu-nghi-quyet-quan-trong-vi-su-phat-trien-dia-phuong-50046724.html",
+      "date": "2026-06-18",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-09895-2",
+      "title": "Xã Quốc Oai triển khai kế hoạch lấy ý kiến cử tri về đề án sắp xếp, sáp nhập, đổi tên thôn trên địa bàn",
+      "url": "https://quocoai.hanoi.gov.vn/dang-uy-hdnd-ubnd-ub-mttq/xa-quoc-oai-trien-khai-ke-hoach-lay-y-kien-cu-tri-ve-de-an-sap-xep-sap-nhap-doi-ten-thon-tren-dia-ban-2770260606095942765.htm",
+      "date": "2026-06-06",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-09895-3",
+      "title": "Nghị quyết số 111/2025/UBTVQH15 ngày 24 tháng 12 năm 2025 của Ủy ban Thường vụ Quốc hội về phân loại đô thị",
+      "url": "https://cdn.nhandan.vn/files/f4a4abf7f9a0ba4a91744616546d850872b76917f90d5a74cc9eebef1369fb6f/111.pdf",
+      "date": "2026-04-30",
+      "type": "wikipedia-ref"
+    }
+  ],
+  "note": "Trích tự động từ Wikipedia tiếng Việt (mode=table). Cần đối chiếu nghị quyết HĐND phường/xã.",
+  "tdp": [
+    {
+      "name": "Du Nghệ",
+      "type": "thôn"
+    },
+    {
+      "name": "Đa Phúc",
+      "type": "thôn"
+    },
+    {
+      "name": "Đình Tổ",
+      "type": "thôn"
+    },
+    {
+      "name": "Hoa Vôi",
+      "type": "thôn"
+    },
+    {
+      "name": "Khánh Tân",
+      "type": "thôn"
+    },
+    {
+      "name": "Năm Trại",
+      "type": "thôn"
+    },
+    {
+      "name": "Ngô Sài",
+      "type": "thôn"
+    },
+    {
+      "name": "Phú Đức",
+      "type": "thôn"
+    },
+    {
+      "name": "Phủ Quốc",
+      "type": "thôn"
+    },
+    {
+      "name": "Phượng Cách 1",
+      "type": "thôn"
+    },
+    {
+      "name": "Phượng Cách 2",
+      "type": "thôn"
+    },
+    {
+      "name": "Phượng Cách 3",
+      "type": "thôn"
+    },
+    {
+      "name": "Quảng Yên",
+      "type": "thôn"
+    },
+    {
+      "name": "Sài Khê",
+      "type": "thôn"
+    },
+    {
+      "name": "Sơn Trung",
+      "type": "thôn"
+    },
+    {
+      "name": "Thạch Thán 1",
+      "type": "thôn"
+    },
+    {
+      "name": "Thạch Thán 2",
+      "type": "thôn"
+    },
+    {
+      "name": "Thạch Thán 4",
+      "type": "thôn"
+    },
+    {
+      "name": "Thụy Khê",
+      "type": "thôn"
+    }
+  ]
+}

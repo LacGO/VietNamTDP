@@ -1,0 +1,268 @@
+{{Thông tin đơn vị hành chính Việt Nam |Phường
+| tên = Xuân Phương
+| hình =Vietnam Military History Museum (4 - 2025).png 
+| ghi chú hình =Bảo tàng Lịch sử Quân sự Việt Nam 
+| vĩ độ = 21.031537346347076
+| kinh độ = 105.74836978370351
+| diện tích = 10,81 km²
+| dân số = 104.947 người
+| thời điểm dân số = 2025
+| mật độ dân số = {{formatnum:{{#expr:floor({{formatnum:104.947|R}}/{{formatnum:10,81|R}})}} }} người/km²
+| vùng = [[Đồng bằng sông Hồng]]
+| thành phố = [[Hà Nội]]
+| trụ sở UBND = Số 28 đường Foresa 4B, Khu đô thị Xuân Phương<ref>{{Chú thích web |url=https://storage-vnportal.vnpt.vn/gov-hni/6244/VanBan/2025/6/25/TB-729-2025.pdf |title=Thông báo số 729/TB-UBND ngày 25 tháng 6 năm 2025 của Ủy ban nhân dân thành phố Hà Nội về địa điểm trụ sở làm việc của 126 phường, xã sau sắp xếp thuộc phạm vi quản lý của thành phố Hà Nội|access-date=2026-06-15 |archive-date=2026-06-15 |archive-url=https://web.archive.org/web/20260615034519/https://storage-vnportal.vnpt.vn/gov-hni/6244/VanBan/2025/6/25/TB-729-2025.pdf |url-status=dead | website = Cổng Thông tin điện tử Ủy ban nhân dân thành phố Hà Nội}}</ref>
+| mã hành chính =00622<ref>{{Chú thích web |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/19ttg.signed.pdf |title=Quyết định số 19/2025/QĐ-TTg ngày 30 tháng 6 năm 2025 của Thủ tướng Chính phủ về việc Ban hành Bảng danh mục và mã số các đơn vị hành chính Việt Nam |access-date=2026-06-15 |archive-date=2026-06-15 |archive-url=https://web.archive.org/web/20260615034519/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/19ttg.signed.pdf |url-status=dead | website = Cổng Thông tin điện tử Chính phủ}}</ref> 
+| web = {{url|xuanphuong.hanoi.gov.vn}}
+|trụ sở Đảng ủy=Số 28 đường Foresa 4B, Khu đô thị Xuân Phương|bản đồ 1={{maplink|frame=yes|plain=yes|type=shape|frame-width=280|frame-align=center|stroke-width=3}}}}
+{{other|Xuân Phương (định hướng)}}
+'''Xuân Phương''' là một [[Phường (Việt Nam)|phường]] thuộc thành phố [[Hà Nội]], [[Việt Nam]].
+
+==Địa lý==
+Phường Xuân Phương có vị trí địa lý: 
+*Phía đông giáp phường [[Từ Liêm (phường)|Từ Liêm]] (đi theo ranh giới cấp xã cũ – [[sông Nhuệ]])
+*Phía tây giáp xã [[Hoài Đức (xã)|Hoài Đức]] và xã [[Sơn Đồng]] (ranh giới đi theo đường giao thông quy hoạch – ranh giới cấp huyện cũ)
+* Phía nam giáp phường [[Tây Mỗ]] (ranh giới đi theo [[Đại lộ Thăng Long|đường cao tốc Láng]] [[Đại lộ Thăng Long|– Hòa Lạc]])
+*Phía bắc giáp phường [[Tây Tựu]] và phường [[Phú Diễn]] (ranh giới đi theo đường [[Quốc lộ 32]] – đường Cầu Diễn).<ref>{{Chú thích web |last=Báo Điện tử Chính phủ |date=2025-04-28 |title=Chi tiết dự thảo phương án sắp xếp các phường của Hà Nội |url=https://xaydungchinhsach.chinhphu.vn/chi-tiet-du-thao-phuong-an-sap-xep-cac-phuong-cua-ha-noi-119250421100531902.htm |url-status=dead |archive-url=https://web.archive.org/web/20260316174230/https://xaydungchinhsach.chinhphu.vn/chi-tiet-du-thao-phuong-an-sap-xep-cac-phuong-cua-ha-noi-119250421100531902.htm |archive-date=2026-03-16 |access-date=2026-07-10 |website=Xây dựng chính sách, pháp luật}}</ref><ref>{{Chú thích web |last=Viện nghiên cứu Phát triển kinh tế – xã hội Hà Nội |date=2025-07-03 |title=Phường Xuân Phương: Những thông tin chi tiết sau sắp xếp |url=https://xuanphuong.hanoi.gov.vn/tin-tuc-su-kien/phuong-xuan-phuong-nhung-thong-tin-chi-tiet-sau-sap-xep-2793250703112114815.htm |url-status=dead |archive-url=https://web.archive.org/web/20260813400809/https://xuanphuong.hanoi.gov.vn/tin-tuc-su-kien/phuong-xuan-phuong-nhung-thong-tin-chi-tiet-sau-sap-xep-2793250703112114815.htm |archive-date=2026-08-13 |access-date=2026-08-13 |website=Trang Thông tin điện tử phường Xuân Phương – thành phố Hà Nội}}</ref><ref>{{Chú thích web |last=Cơ quan Báo và Phát thanh Truyền hình Hà Nội |date=2025-07-07 |title=Phường Xuân Phương: Tất cả thông tin chỉ dẫn bạn cần biết |url=https://hanoionline.vn/phuong-xuan-phuong-tat-ca-thong-tin-chi-dan-ban-can-biet-345331.htm |url-status=dead |archive-url=https://web.archive.org/web/20260813401509/https://hanoionline.vn/phuong-xuan-phuong-tat-ca-thong-tin-chi-dan-ban-can-biet-345331.htm |archive-date=2026-08-13 |access-date=2026-08-13}}</ref>
+Phường Xuân Phương có diện tích tự nhiên là 10,81&nbsp;km<sup>2</sup>, quy mô dân số năm 2025 là 104.947 người và mật độ dân số đạt 9.708 người/km<sup>2</sup>.<ref>{{Chú thích web |last=Mai Hữu |date=2026-04-05 |title=Hà Nội: Chi tiết phương án tổng thể sắp xếp đơn vị hành chính cấp xã |url=https://hanoimoi.vn/ha-noi-chi-tiet-phuong-an-tong-the-sap-xep-don-vi-hanh-chinh-cap-xa-700278.html |url-status=bot: unknown |archive-url=https://web.archive.org/web/20250710163328/https://hanoimoi.vn/ha-noi-chi-tiet-phuong-an-tong-the-sap-xep-don-vi-hanh-chinh-cap-xa-700278.html |archive-date=2025-07-10 |access-date=2026-07-08 |website=Cơ quan Báo và Phát thanh, truyền hình Hà Nội}}</ref><ref>Công văn số 2896/BNV-CQĐP ngày 27 tháng 5 năm 2025 của Bộ Nội vụ về việc cung cấp thông tin danh mục dự kiến đơn vị hành chính cấp xã mới.</ref>
+
+==Lịch sử==
+
+=== Trước năm 1976 ===
+
+=== Giai đoạn 1976 – nay ===
+Sau ngày 2 tháng 7 năm 1976, xã Vân Canh thuộc huyện [[Hoài Đức (huyện)|Hoài Đức]] của tỉnh [[Hà Sơn Bình]].
+
+Ngày 29 tháng 12 năm 1978, sáp nhập huyện Hoài Đức của tỉnh [[Hà Sơn Bình]] vào thành phố [[Hà Nội]]. Khi đó, xã Vân Canh thuộc huyện [[Hoài Đức (huyện)|Hoài Đức]] của thành phố [[Hà Nội]].<ref>Nghị quyết ngày 29 tháng 12 năm 1978 của Quốc hội khóa VI, Kỳ họp thứ 4 phê chuẩn việc phân vạch lại địa giới thành phố Hà Nội, thành phố Hồ Chí Minh, các tỉnh Hà Sơn Bình, Vĩnh Phú, Cao Lạng, Bắc Thái, Quảng Ninh và Đồng Nai.</ref>
+
+Ngày 12 tháng 8 năm 1991, chia tỉnh [[Hà Sơn Bình]] thành 2 tỉnh, lấy tên là tỉnh [[Hòa Bình (tỉnh)|Hòa Bình]] và tỉnh [[Hà Tây (tỉnh)|Hà Tây]]. Chuyển huyện [[Hoài Đức (huyện)|Hoài Đức]] của thành phố [[Hà Nội]] về tỉnh [[Hà Tây (tỉnh)|Hà Tây]]. Khi đó, xã Vân Canh thuộc huyện [[Hoài Đức (huyện)|Hoài Đức]] của tỉnh [[Hà Tây (tỉnh)|Hà Tây]].<ref>Nghị quyết ngày 12 tháng 8 năm 1991 của Quốc hội khóa VIII, Kỳ họp thứ 9 về việc điều chỉnh địa giới hành chính một số tỉnh, thành phố trực thuộc Trung ương.</ref>
+
+Ngày 29 tháng 5 năm 2008, hợp nhất tỉnh [[Hà Tây (tỉnh)|Hà Tây]] vào thành phố [[Hà Nội]]. Khi đó, xã Vân Canh thuộc huyện [[Hoài Đức (huyện)|Hoài Đức]] của thành phố [[Hà Nội]].<ref>Nghị quyết số 15/2008/QH12 ngày 29 tháng 5 năm 2008 của Quốc hội khóa XII, Kỳ họp thứ 3 về việc điều chỉnh địa giới hành chính thành phố Hà Nội và một số tỉnh có liên quan.</ref>
+
+Ngày [[27 tháng 12]] năm [[2013]], Chính phủ ban hành Nghị quyết số 132/NQ-CP về việc điều chỉnh địa giới hành chính huyện Từ Liêm để thành lập 2 quận và 23 phường thuộc thành phố Hà Nội.<ref name=NQ132>{{Chú thích web|url=https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/Nghi-quyet-132-NQ-CP-nam-2013-dieu-chinh-dia-gioi-hanh-chinh-Tu-Liem-Ha-Noi-217666.aspx|tựa đề=Nghị quyết 132/NQ-CP năm 2013 về việc điều chỉnh địa giới hành chính huyện Từ Liêm để thành lập 2 quận và 23 phường thuộc thành phố Hà Nội|tác giả=|họ=|tên=|ngày=|website=|url lưu trữ=|ngày lưu trữ=|ngày truy cập=}}</ref> Theo đó:
+*Điều chỉnh 9,30 ha diện tích tự nhiên và 596 người của xã Xuân Phương ở phía bắc [[Quốc lộ 32]] về phường [[Tây Tựu]] thuộc quận [[Bắc Từ Liêm]] mới thành lập
+*Chuyển xã Xuân Phương về quận Nam Từ Liêm mới thành lập
+*Thành lập phường Phương Canh trên cơ sở điều chỉnh 260,76 ha diện tích tự nhiên và 20.243 người của xã Xuân Phương
+*Thành lập phường Xuân Phương trên cơ sở điều chỉnh 275,58 ha diện tích tự nhiên và 13.809 người còn lại của xã Xuân Phương.
+Ngày 16 tháng 6 năm 2025:
+
+* Kết thúc hoạt động của đơn vị hành chính cấp huyện trong cả nước.<ref>{{Chú thích web |last= |date= |title=Nghị quyết số 203/2025/QH15 ngày 16 tháng 6 năm 2025 của Quốc hội khóa XV, Kỳ họp thứ 9 về việc sửa đổi, bổ sung một số điều của Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/nq-sua-doi-hien-phap.pdf |url-status=live |archive-url=https://web.archive.org/web/20260613090807/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/nq-sua-doi-hien-phap.pdf |archive-date=2026-06-13 |access-date=2026-06-13 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+* Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của phường Phương Canh, phường Xuân Phương, một phần diện tích tự nhiên, quy mô dân số của phường Đại Mỗ và phường Tây Mỗ (quận [[Nam Từ Liêm]]), một phần diện tích tự nhiên của xã Vân Canh (huyện [[Hoài Đức (huyện)|Hoài Đức]]), phần còn lại của phường Minh Khai và phần còn lại của phường Phúc Diễn (quận [[Bắc Từ Liêm]]) thành phường mới có tên gọi là phường Xuân Phương.<ref>{{Chú thích web |title=Nghị quyết số 1656/NQ-UBTVQH15 ngày 16 tháng 6 năm 2025 của Ủy ban Thường vụ Quốc hội về việc sắp xếp các đơn vị hành chính cấp xã của thành phố Hà Nội năm 2025 |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf |url-status=live |archive-url=https://web.archive.org/web/20260630400809/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf |archive-date=2026-06-30 |access-date=2026-06-30 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+* Sau khi sắp xếp, phường Xuân Phương được chia thành 29 tổ dân phố.<ref>8 tổ dân phố: 1, 2 Tu Hoàng, 3, 4, 5, 6, 7 Hòe Thị và 8 Tu Hoàng của phường Phương Canh cũ; 8 tổ dân phố: 1, 2, 3, 4, 5, 6, 7 và 8 của phường Xuân Phương cũ; 6 tổ dân phố: 1, 2, 3, 4 Miêu, Nhuệ Giang và 6 của phường Tây Mỗ cũ; 7 tổ dân phố: 9, 10, 11, 12, 13, 14 và 15 của phường Phúc Diễn cũ.</ref><ref>{{Chú thích web |title=Thông tư số 10/2022/TT-BTNMT ngày 29 tháng 9 năm 2022 của Bộ Tài nguyên và Môi trường về việc Ban hành Danh mục địa danh dân cư, sơn văn, thủy văn, kinh tế – xã hội phục vụ công tác thành lập bản đồ thành phố Hà Nội |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2022/10/10-btnmt.pdf |url-status=live |archive-url=https://web.archive.org/web/20260630400809/https://datafiles.chinhphu.vn/cpp/files/vbpq/2022/10/10-btnmt.pdf |archive-date=2026-06-30 |access-date=2026-06-30 |website=Cổng Thông tin điện tử Chính phủ}}</ref><ref>{{Chú thích web |last= |date= |title=Quyết định số 33/QĐ-UBBC ngày 25 tháng 2 năm 2026 của Ủy ban bầu cử phường Xuân Phương về việc công bố danh sách chính thức số những người ứng cử đại biểu Hội đồng nhân dân phường Xuân Phương khóa II, nhiệm kỳ 2026 – 2031 |url=https://sqhx-hanoi.mediacdn.vn/91579363132710912/2026/2/27/33ubbcquyet-dinh-cong-bo-ds-chinh-thuc-nhung-nguoi-ung-cu-hdnd-phuong-xuan-phuong-17721595740772117876491.pdf |url-status=dead |archive-url=https://web.archive.org/web/20260814201510/https://sqhx-hanoi.mediacdn.vn/91579363132710912/2026/2/27/33ubbcquyet-dinh-cong-bo-ds-chinh-thuc-nhung-nguoi-ung-cu-hdnd-phuong-xuan-phuong-17721595740772117876491.pdf |archive-date=2026-08-14 |access-date=2026-08-14 |website=Trang Thông tin điện tử phường Xuân Phương – thành phố Hà Nội}}</ref>
+Ngày 5 tháng 12 năm 2025, đổi tên tổ dân phố 6 thuộc phường Tây Mỗ (cũ) thành tổ dân phố Dream Town; ghép toàn bộ phần diện tích tự nhiên của phường Đại Mỗ, phường Minh Khai và xã Vân Canh lần lượt vào 3 tổ dân phố: Nhuệ Giang, 15 và 7 Hòe Thị.<ref>I. Đổi tên tổ dân phố trùng tên: 1. Đổi tên Tổ dân phố số 6 thuộc phường Tây Mỗ (cũ) do trùng tên, tên tổ dân phố sau khi đổi: Tổ dân phố Dream Town; 2. Giữ nguyên tên gọi tổ dân phố số 6 (phường Xuân Phương cũ); II. Việc ghép 03 Khu vực dân cư vào 03 tổ dân phố hiện có: 1. Ghép toàn bộ phần diện tích tự nhiên của phường Đại Mỗ (quận Nam Từ Liêm cũ) đã được chuyển giao về phường Xuân Phương, vào Tổ dân phố Nhuệ Giang; 2. Ghép toàn bộ phần diện tích tự nhiên của phường Minh Khai (quận Bắc Từ Liêm cũ) đã được chuyển giao về phường Xuân Phương, vào Tổ dân phố 15; 3. Ghép toàn bộ phần diện tích tự nhiên của xã Vân Canh (huyện Hoài Đức cũ) đã được chuyển giao về phường Xuân Phương, vào Tổ dân phố 7 Hòe Thị;</ref><ref>{{Chú thích web |title=Phương án số 292/PA-UBND ngày 31 tháng 10 năm 2025 của Ủy ban nhân dân phường Xuân Phương về việc đổi tên tổ dân phố do trùng tên và Ghép khu vực dân cư vào tổ dân phố hiện có sau khi sắp xếp đơn vị hành chính phường Xuân Phương |url=https://sqhx-hanoi.mediacdn.vn/91579363132710912/2025/11/9/pa-292-doi-ten-nhap-tdp-1762685136842562671036.pdf |url-status=dead |archive-url=https://web.archive.org/web/20260814201510/https://sqhx-hanoi.mediacdn.vn/91579363132710912/2025/11/9/pa-292-doi-ten-nhap-tdp-1762685136842562671036.pdf |archive-date=2026-08-14 |access-date=2026-08-14 |website=Trang Thông tin điện tử phường Xuân Phương – thành phố Hà Nội}}</ref><ref>{{Chú thích web |last=Phòng Văn hóa – Xã hội phường Xuân Phương |date=2025-11-23 |title=Sáng kiến kinh nghiệm: "Giải pháp nâng cao hiệu quả thực hiện phương án đổi tên tổ dân phố và ghép khu dân cư vào tổ dân phố hiện có sau khi sắp xếp đơn vị hành chính" |url=https://sqhx-hanoi.mediacdn.vn/91579363132710912/2026/1/21/duong-thi-thuy-linh-hang-17689880741572136978825.pdf |url-status=dead |archive-url=https://web.archive.org/web/20260814201510/https://sqhx-hanoi.mediacdn.vn/91579363132710912/2026/1/21/duong-thi-thuy-linh-hang-17689880741572136978825.pdf |archive-date=2026-08-14 |access-date=2026-08-14 |website=Trang Thông tin điện tử phường Xuân Phương – thành phố Hà Nội}}</ref><ref>{{Chú thích web |last=Thanh Thủy – Bảo Vy |date=2025-12-05 |title=Phường Xuân Phương hoàn thành toàn bộ chỉ tiêu năm 2025, thông qua 7 nghị quyết tạo nền tảng phát triển năm 2026 |url=https://www.thanhuyhanoi.vn/tin-tuc/phuong-xuan-phuong/phuong-xuan-phuong-hoan-thanh-toan-bo-chi-tieu-nam-2025-thong-qua-7-nghi-quyet-tao-nen-tang-phat-trien-nam-2026-50031553.html |url-status=dead |archive-url=https://web.archive.org/web/20260814201510/https://www.thanhuyhanoi.vn/tin-tuc/phuong-xuan-phuong/phuong-xuan-phuong-hoan-thanh-toan-bo-chi-tieu-nam-2025-thong-qua-7-nghi-quyet-tao-nen-tang-phat-trien-nam-2026-50031553.html |archive-date=2026-08-14 |access-date=2026-08-14 |website=Trang Thông tin điện tử Đảng bộ thành phố Hà Nội}}</ref>
+
+Ngày 24 tháng 12 năm 2025, xác định phần lớn của phường Xuân Phương là [[Đô thị Việt Nam|đô thị loại II]].<ref>Chuyển tiếp từ 2 phường: Minh Khai, Phúc Diễn thuộc quận Bắc Từ Liêm và 4 phường: Đại Mỗ, Tây Mỗ, Phương Canh, Xuân Phương thuộc quận Nam Từ Liêm.</ref><ref>{{Chú thích web |title=Nghị quyết số 111/2025/UBTVQH15 ngày 24 tháng 12 năm 2025 của Ủy ban Thường vụ Quốc hội về phân loại đô thị |url=https://cdn.nhandan.vn/files/f4a4abf7f9a0ba4a91744616546d850872b76917f90d5a74cc9eebef1369fb6f/111.pdf |url-status=dead |archive-url=https://web.archive.org/web/20260712401509/https://cdn.nhandan.vn/files/f4a4abf7f9a0ba4a91744616546d850872b76917f90d5a74cc9eebef1369fb6f/111.pdf |archive-date=2026-07-12 |access-date=2026-07-12 |website=Báo Nhân dân}}</ref>
+
+Ngày 29 tháng 6 năm 2026, thành lập 13 tổ dân phố mới: 1 Thị Cấm, 6, 8 Hòe Thị, 11, 12 Tu Hoàng, 13, 14 Kiều Mai, 15, 16 Phúc Diễn, 18; 19, 20 Miêu Nha. Đổi tên 8 tổ dân phố: từ 4 đến 7; 5, 3 Hòe Thị, 2 Tu Hoàng, 8 lần lượt thành 8 tổ dân phố: 2 Thị Cấm, từ 3 đến 5 Ngọc Mạch, 7, 9 Hòe Thị, 10 Tu Hoàng, 17 Phúc Diễn.<ref>1. Tổ dân phố số 1 Thị Cấm: Tách tòa nhà Thông tấn nhập với Tổ dân phố số 2, toàn bộ phần còn lại của tổ dân phố số 3 (cũ) thành một số dân phố; 2. Tổ dân phố số 2 Thị Cấm: Giữ nguyên trạng vị trí, địa giới, quy mô số hộ của tổ dân phố số 4 (cũ), chỉ đổi tên Tổ dân phố; 3. Tổ dân phố số 3 Ngọc Mạch: Giữ nguyên trạng vị trí, địa giới, quy mô số hộ của tổ dân phố số 5 (cũ), chi đổi tên Tổ dân phố; 4. Tổ dân phố số 4 Ngọc Mạch: Giữ nguyên trạng vị trí, địa giới, quy mô số hộ của tổ dân phố số 6 (cũ), chỉ đổi tên Tổ dân phố; 5. Tổ dân phố số 5 Ngọc Mạch: Giữ nguyên trạng vị trí, địa giới, quy mô số hộ của tổ dân phố số 7 (cũ), chỉ đổi tên Tổ dân phố; 6. Tổ dân phố số 6 Hòe Thị: Toàn bộ tổ dân phố số 6 Hòe Thị (cũ) sáp nhập với một phần tổ dân phố số 7 Hòe Thị (cũ) thành một tổ dân phố; 7. Tổ dân phố số 7 Hòe Thị: Giữ nguyên trạng vị trí, địa giới, quy mô số hộ của tổ dân phố số 5 Hòe Thị (cũ), chi đổi tên Tổ dân phố; 8. Tổ dân phố số 8 Hòe Thị: Toàn bộ tổ dân phố số 4 Hòe Thị (cũ) sáp nhập với một phần tổ dân phố số 7 Hòe Thị (cũ) thành một tổ dân phố; 9. Tổ dân phố số 9 Hòe Thị: Giữ nguyên trạng vị trí, địa giới, quy mô số hộ của tổ dân phố số 3 Hòe Thị (cũ), chỉ đổi tên Tổ dân phố; 10. Tổ dân phố số 10 Tu Hoàng: Giữ nguyên trạng vị trí, địa giới, quy mô số hộ của tổ dân phố số 2 Tu Hoàng (cũ), chỉ đổi tên Tổ dân phố; 11. Tổ dân phố số 11 Tu Hoàng: Toàn bộ tổ dân phố số 1 Tu Hoàng (cũ) sáp nhập với một phần tổ dân phố số 8 Tu Hoàng (cũ) thành một tổ dân phố; 12. Tổ dân phố số 12 Tu Hoàng: Toàn bộ phần còn lại của Tổ dân phố số 8 Tu Hoàng (cũ) sau khi tách một phần thành một tổ dân phố; 13. Tổ dân phố số 13 Kiều Mai: Sáp nhập toàn bộ tổ dân phố số 14 (cũ), toàn bộ tổ dân phố số 15 (cũ) và ngõ 7 và ngõ 15 thuộc tổ dân phố số 13 (cũ) thành một tổ dân phố; 14. Tổ dân phố số 14 Kiều Mai: Sáp nhập toàn bộ tổ dân phố số 11 (cũ), toàn bộ tổ dân phố số 12 (cũ) và tổ dân phố số 13 (cũ) (sau khi tách ngõ 7 và ngõ 15 sang tổ dân phố số 14) thành một tổ dân phố; 15. Tổ dân phố số 15 Phúc Diễn: Sáp nhập toàn bộ Tổ dân phố số 9 (cũ) và tổ dân phố số 10 (cũ) thành một tổ dân phố; 16. Tổ dân phố số 16 Phúc Diễn: Toàn bộ Tổ dân phố số 2 (cũ) sáp nhập với một phần Tổ dân phố số 1 và tòa nhà Thông tấn thuộc tổ dân phố số 3 (cũ) thành một tổ dân phố; 17. Tổ dân phố số 17 Phúc Diễn: Giữ nguyên trạng vị trí, địa giới, quy mô số hộ của tổ dân phố số 8 (cũ), chỉ đổi tên Tổ dân phố; 18. Tổ dân phố số 18: Một phần tổ dân phố số 1 (cũ) sáp nhập với tổ dân phố Nhuệ Giang (cũ) và tổ dân phố Dream Town (cũ) thành một tổ dân phố; 19. Tổ dân phố số 19 Miêu Nha: Sáp nhập toàn bộ Tổ dân | phố số 2 Miêu Nha (cũ) và tổ dân phố số 3 Miêu Nha (cũ) thành một tổ dân phố; 20. Tổ dân phố số 20 Miêu Nha: Sáp nhập toàn bộ Tổ dân phố số 1 Miêu Nha (cũ) và tổ dân phố số 4 Miêu Nha (cũ) thành một tổ dân phố.</ref><ref name=":4">{{Chú thích web |title=Nghị quyết số 23/NQ-HĐND ngày 29 tháng 6 năm 2026 của Hội đồng nhân dân phường Xuân Phương về việc sắp xếp tổ dân phố trên địa bàn phường Xuân Phương |url=https://sqhx-hanoi.mediacdn.vn/91579363132710912/2026/7/2/nghi-quyet-ve-viec-sap-xep-to-dan-pho-tren-dia-ban-phuong-xuan-phuong-1782956919350269275607.pdf |url-status=dead |archive-url=https://web.archive.org/web/20260814201510/https://sqhx-hanoi.mediacdn.vn/91579363132710912/2026/7/2/nghi-quyet-ve-viec-sap-xep-to-dan-pho-tren-dia-ban-phuong-xuan-phuong-1782956919350269275607.pdf |archive-date=2026-08-14 |access-date=2026-08-14 |website=Trang Thông tin điện tử phường Xuân Phương – thành phố Hà Nội}}</ref><ref name=":0">{{Chú thích web |title=Thông báo số 1897/TB-UBND ngày 1 tháng 7 năm 2026 của Ủy ban nhân dân phường Xuân Phương về việc thực hiện Nghị quyết sắp xếp tổ dân phố trên địa bàn phường Xuân Phương, thành phố Hà Nội |url=https://sqhx-hanoi.mediacdn.vn/91579363132710912/2026/7/2/document-2026-07-01t153556227-1782956810486969010180.pdf |url-status=dead |archive-url=https://web.archive.org/web/20260814201510/https://sqhx-hanoi.mediacdn.vn/91579363132710912/2026/7/2/document-2026-07-01t153556227-1782956810486969010180.pdf |archive-date=2026-08-14 |access-date=2026-08-14 |website=Trang Thông tin điện tử phường Xuân Phương – thành phố Hà Nội}}</ref>
+[[Tập tin:Bản đồ các tổ dân phố thuộc phường Xuân Phương của thành phố Hà Nội (từ ngày 1 tháng 7 năm 2026).jpg|trái|nhỏ|353x353px|Bản đồ ranh giới tổ dân phố phường Xuân Phương của thành phố Hà Nội (từ ngày 1 tháng 7 năm 2026)<ref>{{Chú thích web |last=Phường Xuân Phương – thành phố Hà Nội |date=2026-07-02 |title=Bản đồ ranh giới tổ dân phố phường Xuân Phương |url=https://web.facebook.com/photo/?fbid=1544803560768056&set=pcb.1544804974101248 |url-status=dead |archive-url=https://web.archive.org/web/20260814201510/https://web.facebook.com/photo/?fbid=1544803560768056&set=pcb.1544804974101248 |archive-date=2026-08-14 |access-date=2026-08-14}}</ref>]]
+
+== Hành chính ==
+Phường Xuân Phương được chia thành 20 tổ dân phố: 1, 2 Thị Cấm, từ 3 đến 5 Ngọc Mạch, từ 6 đến 9 Hòe Thị, từ 10 đến 12 Tu Hoàng, 13, 14 Kiều Mai, từ 15 đến 17 Phúc Diễn, 18; 19 và 20 Miêu Nha.<ref name=":4" /><ref name=":0" />
+{| class="wikitable sortable" cellpadding="0" cellspacing="6" width="100%" align="center" style="background: #f9f9f9; border: 1px #aaa solid; margin-top: 16px"
+! colspan="4" style="background: #E6E6FA; font-size: 95%;" |Danh sách các tổ dân phố thuộc phường Xuân Phương<ref name=":4" /><ref name=":0" />
+|-
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| cellpadding="1" cellspacing="1" width="100%" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |1 Thị Cấm
+|837
+|-
+| align="left" |2 Thị Cấm
+|902
+|-
+| align="left" |3 Ngọc Mạch
+|784
+|-
+| align="left" |4 Ngọc Mạch
+|812
+|-
+| align="left" |5 Ngọc Mạch
+|802
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| cellpadding="1" cellspacing="1" width="100%" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |6 Hòe Thị
+|1.017
+|-
+| align="left" |7 Hòe Thị
+|905
+|-
+| align="left" |8 Hòe Thị
+|862
+|-
+| align="left" |9 Hòe Thị
+|1.078
+|-
+| align="left" |10 Tu Hoàng
+|2.361
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| cellpadding="1" cellspacing="1" width="100%" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |11 Tu Hoàng
+|898
+|-
+| align="left" |12 Tu Hoàng
+|895
+|-
+| align="left" |13 Kiều Mai
+|1.310
+|-
+| align="left" |14 Kiều Mai
+|820
+|-
+| align="left" |15 Phúc Diễn
+|739
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| cellpadding="1" cellspacing="1" width="100%" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |16 Phúc Diễn
+|702
+|-
+| align="left" |17 Phúc Diễn
+|1.152
+|-
+| align="left" |18
+|1.451
+|-
+| align="left" |19 Miêu Nha
+|1.652
+|-
+| align="left" |20 Miêu Nha
+|1.489
+|}
+|}<!-- 
+==Lịch sử==
+[[Tập tin:Newone - bưởi Diễn 01.jpg|nhỏ|350px|Bưởi Diễn]]
+Phường Phúc Diễn được thành lập vào ngày [[27 tháng 12]] năm [[2013]] trên cơ sở điều chỉnh 209,03 ha diện tích tự nhiên và 21.820 người của xã [[Phú Diễn]], 8 ha diện tích tự nhiên và 1.914 người của thị trấn [[Cầu Diễn]] thuộc huyện [[Từ Liêm (huyện)|Từ Liêm]] cũ.<ref name=NQ132>{{Chú thích web|url=https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/Nghi-quyet-132-NQ-CP-nam-2013-dieu-chinh-dia-gioi-hanh-chinh-Tu-Liem-Ha-Noi-217666.aspx|tựa đề=Nghị quyết 132/NQ-CP năm 2013 về việc điều chỉnh địa giới hành chính huyện Từ Liêm để thành lập 2 quận và 23 phường thuộc thành phố Hà Nội|tác giả=|họ=|tên=|ngày=|website=|url lưu trữ=|ngày lưu trữ=|ngày truy cập=}}</ref>
+
+Sau khi thành lập, phường có 217,03 ha diện tích tự nhiên và 23.734 người.
+
+Làng Hòe Thị là một trong bảy làng Canh, cùng với các làng Kim Bảng và Hoàng Bảng (sau nhập chung là [[làng Kim Hoàng]]), An Trai và [[Làng Hậu Ái|Hậu Ái]] (đều thuộc xã [[Vân Canh, Hoài Đức|Vân Canh]]), làng Thị Cấm và làng Ngọc Mạch (thuộc phường [[Xuân Phương]], quận [[Nam Từ Liêm]]), thuộc tổng Phương Canh, huyện [[Từ Liêm (huyện)|Từ Liêm]].<ref name="KH1">{{chú thích web|author1=Anh Chi|title=Làng Kim Hoàng tài hoa và văn hiến|url=http://www.daibieunhandan.vn/ONA_BDT/NewsPrint.aspx?newsId=70365|website=Người đại biểu nhân dân|ngày xuất bản=ngày 19 tháng 4 năm 2009|access-date=ngày 22 tháng 12 năm 2016|archive-date=2016-12-22|archive-url=https://web.archive.org/web/20161222232347/http://www.daibieunhandan.vn/ONA_BDT/NewsPrint.aspx?newsId=70365}}</ref>
+
+==Lịch sử==
+Phường Phương Canh được thành lập vào đầu năm [[2014]] trên cơ sở điều chỉnh 260,76 ha diện tích tự nhiên và 20.243 người của xã Xuân Phương thuộc huyện [[Từ Liêm (huyện)|Từ Liêm]] cũ.<ref name=NQ132>{{Chú thích web|url=https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/Nghi-quyet-132-NQ-CP-nam-2013-dieu-chinh-dia-gioi-hanh-chinh-Tu-Liem-Ha-Noi-217666.aspx|tựa đề=Nghị quyết 132/NQ-CP năm 2013 về việc điều chỉnh địa giới hành chính huyện Từ Liêm để thành lập 2 quận và 23 phường thuộc thành phố Hà Nội|tác giả=|họ=|tên=|ngày=|website=|url lưu trữ=|ngày lưu trữ=|ngày truy cập=}}</ref>
+
+==Văn hóa==
+===Di tích===
+Hai thôn (tương ứng với 2 làng) của Phương Canh đều có các di tích lịch sử là đình và chùa được công nhận là di tích lịch sử - văn hóa cấp quốc gia{{cần dẫn nguồn}}. Đây là những công trình có nhiều giá trị văn hóa và kiến trúc.
+
+===Lễ hội truyền thống===
+Lễ hội làng Tu Hoàng diễn ra vào ngày 9 và 10 tháng 2 (âm lịch) hàng năm. Chính hội vào mùng 10 tháng 2. Làng Hoè Thị tổ chức lễ hội truyền thống vào các ngày 11, 12 và 13 tháng 2 (âm lịch) hàng năm.
+
+== Lịch sử ==
+Xã Vân Canh đã được hình thành lâu đời, ít nhất là từ thời Lý và tên xã Vân Canh xuất hiện thời Lê sơ. Gồm 3 làng: [[Làng Kim Hoàng|Kim Hoàng]] (do 2 làng Kim Bảng và Hoàng Bảng gộp vào), An Trai và Hậu Ái (Nhân Ái).
+
+Tổng Hương Canh xưa có hai xã là Hương Canh và Vân Canh, gồm tất cả bảy làng Canh. Đây là một vùng đất cổ, các làng Canh đều được gọi theo Nôm là kẻ Canh, cư dân đến sống ở đây ít nhất cũng từ đầu công nguyên. Theo bản Ngọc Phả do Đông các đại học sỹ Nguyễn Bính soạn, từ đời Vua Hùng thứ XVIII, ông Phan Tây Nhạc đã từ Châu Ái (Thanh Hóa) ra vùng Canh cư ngụ. Sau ông có theo Tản Viên Sơn Thánh đi đánh quân Thục, nên được Vua Hùng gả cháu gái và cho phong ấp ở vùng Canh. Đây là một vùng quê cổ kính, văn hiến, đã được ghi nhận qua câu phương ngôn nổi tiếng: ''Mỗ, La, Canh, Cót tứ danh hương''...
+
+Bảy làng Canh gồm: Ngọc Mạch, Hòe Thị, Thị Cấm, Hậu Ái, An Trai, Kim Bảng và Hoàng Bảng. Hai làng Kim Bảng và Hoàng Bảng đến cuối thế kỷ XVI đã nhập thành một làng Kim Hoàng và dựng ngôi đình lớn. Tấm biển ''Lưỡng bảng hội đình'' hiện còn lưu giữ ở đình Kim Hoàng.
+
+Theo các nhà nghiên cứu lịch sử, Hán Nôm thì xã Vân Canh nói chung là một vùng đất cổ, cách ngày nay khoảng 2000 năm.
+
+Theo quan niệm phong thủy, mạch khí từ Tam Đảo, Tây Hồ dồn về tụ lại ở Đồng Trầm. Năm 894, Cao Biền – thứ sử Giao Châu nổi tiếng là một nhà phong thủy đi ngang qua để lại mấy câu:
+
+"Tây Hồ thoát mạch
+
+Lạc tại Vân Canh
+
+Mạch trầm thủy để
+
+Thế xuất khoa danh"
+
+Quả đúng theo lời trên, trong suốt chiều dài lịch sử khoa cử xã Vân Canh có 15 vị tiến sĩ nho học đỗ khoa thi tiến sĩ và tương đương. Theo Từ Liêm huyện đăng khoa lục, số người đỗ Hương cống thời Lê là 44 người, đỗ Hương cống thời Nguyễn là 3 người, đỗ Cử nhân thời Nguyễn là 15 người. Số người đỗ sinh đồ thời Lê là 3 người, đỗ sinh đồ thời Nguyễn là 5 người, đỗ tú tài thời Nguyễn là 26 người.
+
+Theo các tài liệu lịch sử, làng Hậu Ái có 9 người đỗ tiến sĩ, 21 hương cống, cử nhân, 15 sinh đồ, tú tài. Người đầu tiên đỗ đại khoa là Đỗ Kính Tu, đỗ Thái học sinh dưới triều Lý Anh Tông (1138 - 1175) cùng với Tô Hiến Thành, phụ chính cho vua, được ban quốc tính. Năm 1182, ông được cử làm "Đế Sư" của vua Lý Cao Tông. Năm 1210, Lý Cao Tông ốm nặng, cho gọi Đỗ Kính Tu vào nhận mệnh ký thác lập hoàng tử Sảm lên ngôi vua tức Lý Huệ Tông.
+
+Nguyễn Bá Đôn, người thôn Hậu Ái đỗ cát sĩ khoa Tân Hợi (1851) đã làm đôi câu đối thờ ông ở đình làng:
+
+"Thánh địa đốc sinh hiền văn võ tài du vi quốc bảo.
+
+Đăng sơn nan vãn nhật anh hùng phá giang lưu"
+
+''Tức là:'' "Nơi thánh địa ắt sinh ra người hiền. Mưu tài văn võ là của quí cho đất nước"
+
+Sau Đỗ Kính Tu là Nguyễn Hành, đỗ Đệ tam giáp đồng Tiến sĩ năm 1532, làm đến Lại bộ tả thị lang. Con ông là Nguyễn Lương cũng đỗ Đệ tam giáp đồng Tiến sĩ năm 1550.
+
+Về dòng họ Lê ở Hậu Ái, vốn là dòng dõi Lê Lợi từ đất Lam Sơn (Thanh Hóa) ra lập nghiệp có nhiều người khoa bảng. Từ đường của họ Lê còn có câu đối:
+
+"Tự tiền Lê Chí Quốc triều, khoa hoạn thiên liên lưu thế phả.
+
+Thủy cố lý cập Thanh Hoa, bản chi phái dẫn du gia khương":
+
+''Tức là: "'' Từ tiền Lê tới Quốc triều, khoa hoạn truyền đời lưu vào gia phả. Vốn từ đất Thanh Hóa, con cháu ngày càng phát đạt."
+
+Người đầu tiên của dòng họ Lê, đỗ đạt cao là Lê Củ Phương, đỗ Hoàng giáp năm 1541, làm đến Hiến sát sứ. Cháu tằng tôn của ông là Lê Đức Vọng đỗ Đệ tam giáp đồng tiến sỹ năm 1637 làm đến Thừa chính sứ. Ngoài ra, các con của Lê Củ Phương là Lê Địch Văn và Lê Địch Giáo đỗ cát sỹ (1) và 2 con của cụ Lê Đức Vọng là Lê Đức Minh đỗ ''Hương cống (Cống sĩ)'' và Lê Đức Nghiệp đỗ khoa Hoành từ (2);
+
+Ở làng Kim Hoàng người đỗ Tiến sĩ đầu tiên là cụ Trần Hiền (Hoè Hiên tiên sinh) sinh năm 1684. Ông đậu tiến sĩ khoa Quí Sửu 1733 dưới đời Lê Thuần Tông, sung chức hàn lâm viện thị giảng.
+
+Con Trần Hiền là Trần Huân, hiệu là Yên Lý tiên sinh đậu ''Cử nhân'' khoa Ất Dậu (1745) đời Lê được bổ nhiệm làm chi phủ Lâm Thao.
+
+Trần Bá Lãm, con trưởng của Trần Huân, là học trò của tiến sĩ Nguyễn Quí Hiển. Ông đậu giải Nguyên khoa thi hương, năm Cảnh Hưng thứ 40 (1779) lúc tròn 22 tuổi. Năm Cảnh Hưng thư 44, ông phụng mệnh làm phúc khảo trường thi Nghệ An khoa Quí Mão (1783). Năm Nhâm Ngọ (1786), khi hoàng tự tôn của vua Lê Hiển Tông là Lê Duy Kỳ lên nắm chính sự, ông sung chức thị nội văn chức. Năm 1787 Lê Duy Kỳ chính thức lên ngôi, đặt niên hiệu Chiêu Thống. Để thu phục nhân tâm và theo đề nghị của Nguyễn Hữu Chỉnh, cho mở chế khoa để thu phục người tài. Số người vào điện thi có tới trên 200, chỉ có hai người được lấy đỗ. Trần Bá Lãm ở vị trí đậu đệ nhất giáp. Do sinh vào thời thác loạn nên ông chẳng được yên để yến vũ tu văn, bước hoạn đồ của ông chịu nhiều thăng trầm trôi nổi, phải trải qua ba triều đại và năm đời vua. Ông được giữ chức cấp sư trung rồi thăng hàn lâm viện hiệu uý, rồi được bổ giữ chức Hải Dương đốc đồng tham hiệp nhung vụ, được phong tước Canh nhạc bá dưới thời Lê Chiêu Thống.
+
+Con Trần Bá Lãm là Trần Bá Kiên đậu ''giải nguyên'' khoa Đinh Mão (1807) sung chức phó sứ như thanh cầu phong, nhưng vì chánh sứ không đi được, ông thay quyền đó là năm Minh Mạng nguyên niên.
+
+Ở Kim Hoàng còn có dòng họ Lý Trần (gốc họ Đặng) có cụ Đặng Trần Diễm là thầy dạy cho 3 người con đều đỗ tiến sĩ, được nhận sắc phong của Vua "Giáo tử đăng khoa". Các con của ông là:
+
+Lý Trần Quán, cháu ngoại của tiến sĩ Trần Hiền, gọi tiến sĩ Trần Bá Lãm là cậu ruột. Đậu cử nhân năm 19 tuổi, năm 32 tuổi đỗ tiến sĩ đệ tam giáp đồng tiến sĩ. Lý Trần Quán đã từng đảm nhiệm các chức vụ: hiến sát sứ Hải Dương, đốc đồng tỉnh Cao Bằng, hiệp trấn tỉnh Sơn Tây, sau cùng là đông các đại học sĩ Quốc tử Giám tu nghiệp. Ông đã tự chôn sống mình để trả giá cho sự sai lầm là quá tin học trò, đến nỗi trao chúa vào tay quân phản bội, đó là tháng 7 năm 1786, lúc đó ông đang ở làng Hạ Lôi (Yên Lãng). Sau này, khi vua Lê Chiêu Thống lên ngôi, năm Đinh Mùi (1787) đã truy tặng Lý Trần Quán làm Đại vương, phong phúc thần và ban cho đôi câu đối: "Khảng khái cần vương dị; Thung dung tựu nghĩa nan".
+
+Lý Trần Dự đỗ tiến sĩ năm 25 tuổi. Theo những người họ tộc Lý Trần ở Kim Hoàng, ông còn người em trai là Lý Trần Thản cũng đậu tiến sĩ, nhưng Lý Trần Thản theo về quê mẹ Hải Dương từ bé, nên khi thành danh, tính vào khoa mục ở Hải Dương.
+
+Ngoài các vị đại khoa, làng Kim Hoàng còn 31 người đỗ ''Hương cống''. Trong đó có ông Trần Ánh, cùng 3 con là Trần Hiếu, Trần Diễn, Trần Trí, đều đỗ ''Hương cống''; và Tiến sĩ Trần Bá Lãm có con trai là Trần Tùng và con Trần Tùng là Trần Đĩnh đều đỗ ''Hương cống.''
+
+''Chú thích:''
+
+(1) ''Cát sỹ'' là học vị sau khi thi đỗ khoa Bác học Hoành từ.
+
+(2) ''Khoa Hoành từ'' để chọn nhân tài có văn hay học rộng.
+
+== Nghệ thuật ==
+Vân Canh còn là quê hương của dòng Tranh Kim Hoàng cùng với dòng tranh điệp Đông Hồ, dòng tranh Hàng Trống được xem là ba dòng tranh dân gian lâu đời ở Việt Nam. Tranh của làng Kim Hoàng có đủ loại tranh thờ cúng, tranh chúc tụng như một số dòng tranh khác cùng thời ([[Tranh Đông Hồ|Đông Hồ]], [[Tranh Hàng Trống|Hàng Trống]]) nhưng tranh Kim Hoàng lại biết kết hợp nhiều ưu điểm của hai dòng tranh đó. Tranh Kim Hoàng có nét khắc thanh mảnh, tỉ mỉ hơn tranh Đông Hồ; màu sắc lại tươi như tranh Hàng Trống. Vì thế nó tạo cho dòng tranh này những giá trị riêng. Nghề làm tranh thịnh nhất trong thế ký 19. Đến trận lụt vỡ đê Liên Mạc năm 1913 tràn vào đình đã cuốn trôi bản khắc cộng với kinh tế khó khăn nên dòng tranh Kim Hoàng dần bị thất truyền.
+
+Những năm gần đây bà Nguyễn Thị Thu Hòa - Giám đốc bảo làng gốm sứ Hà Nội bằng sự đam mê và nhiệt huyết của mình đã cố gắng khôi phục lại dòng tranh độc đáo của làng Kim Hoàng. Dự án đã đạt được những thành công bước đầu khi công chúng đã biết đến dòng tranh và sắm các bức tranh về trang trí trong gia đình và ra thế giới.
+
+== Đô thị hóa ==
+Từ khoảng năm 2007-2008 trước khi sáp nhập vào Hà Nội UBND tỉnh Hà Tây đã ra quyết định thu hồi đất ruộng đồng trên địa bàn xã để quy hoạch thực hiện 3 dự án khu đô thị mới ở 3 thôn
+
+* Khu đô thị mới Vân Canh tại thôn Hậu Ái
+* Khu đô thi Vườn Cam tại thôn Kim Hoàng
+* Khu đô thị Đại học Vân Canh - An Lạc Green Symphony
+
+Sau khi trở thành xã thuộc thủ đô Hà Nội 1/8/2008, tuyến đường liên tỉnh 422B đã được sửa chữa và nâng cấp trở nên rộng rãi và đẹp đẽ như hiện nay.
+
+Các công trình trong xã cũng được tu sửa và xây mới như nhà văn hóa 3 thôn, nhà văn hóa xã, Đài tưởng niệm liệt sĩ và UBND xã Vân Canh.
+
+Trên địa bàn xã có 3 tuyến xe buýt ngang qua tỉnh lộ 422B số 97 đi từ BX Hoài Đức đến Công viên Nghĩa Đô - Cầu Giấy.Tuyến 57 từ Nam thăng long đi kcn Phú nghĩa . Tuyến 50 Long biên - khu đô thị Vân Canh.
+
+Năm 2017 Nhà nước thu hồi đất hoa màu trên địa bàn xã để thực hiện dự án Đường vành đai 3,5 nối Đại lộ Thăng Long với quốc lộ 32.
+
+Trong năm 2018-2019 công an huyện và xã cũng thực hiện việc cắm biển đường, ngõ, ngách và làm số nhà trên địa bàn xã khiến hoạt động sản xuất, kinh doanh trở nên dễ dàng hơn.
+-->
+
+==Văn hóa==
+===Di tích===
+Hai thôn (tương ứng với 2 làng) của Xuân Phương đều có các di tích lịch sử là đình và chùa được công nhận là di tích lịch sử - văn hóa cấp quốc gia{{cần dẫn nguồn}}. Đây là những công trình có nhiều giá trị văn hóa và kiến trúc.
+
+Nhà thờ Ngọc Mạch là nơi tổ chức lễ và các hoạt động văn hóa Thiên chúa giáo của người theo đạo trong làng và khu vực lân cận.
+
+===Lễ hội truyền thống===
+Lễ hội làng Ngọc Mạch diễn ra vào ngày 9 và 10 tháng 2 (âm lịch) hàng năm. Chính hội vào mùng 10/2
+
+Làng Thị Cấm tổ chức lễ hội truyền thống vào các ngày 11,12 và 13 tháng 2 hàng năm.
+
+Đó là những lễ hội còn giữ được nhiều hoạt động văn hóa cổ truyền đặc sắc: Hội thổi cơm thi (mùng 8 tháng giêng) tại thôn Thị Cấm, thi đấu cờ người tại làng Ngọc Mạch.
+
+==Chú thích==
+{{Tham khảo}}
+
+== Tham khảo ==
+{{sơ khai Hà Nội}}
+{{Đơn vị hành chính thuộc thành phố Hà Nội}}

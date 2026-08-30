@@ -1,0 +1,293 @@
+{{Thông tin đơn vị hành chính Việt Nam|Xã
+| tên = Dương Hòa
+| hình = Quán Giá 2025.jpg
+| ghi chú hình = Quán Giá
+| vĩ độ = 21.042027317036727
+| kinh độ = 105.6731761769879
+| diện tích = 17,41 km²
+| dân số = 58.830 người
+| thời điểm dân số = 2025
+| thành phố = [[Hà Nội]]
+| web = {{url|duonghoa.hanoi.gov.vn}}
+| mã hành chính =09856<ref>{{Chú thích web |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/19ttg.signed.pdf |title=Quyết định số 19/2025/QĐ-TTg ngày 30 tháng 6 năm 2025 của Thủ tướng Chính phủ về việc Ban hành Bảng danh mục và mã số các đơn vị hành chính Việt Nam |access-date=2026-06-15 |archive-date=2026-06-15 |archive-url=https://web.archive.org/web/20260615034519/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/19ttg.signed.pdf |url-status=dead | website = Cổng Thông tin điện tử Chính phủ}}</ref> 
+|vùng=[[Đồng bằng sông Hồng]]|mật độ dân số={{formatnum:{{#expr:floor({{formatnum:58.830| R}}/{{formatnum:17,41| R}})}} }} người/km²|trụ sở Đảng ủy=Thôn Yên Sở 3|trụ sở UBND=Thôn Yên Sở 3<ref>{{Chú thích web |url=https://storage-vnportal.vnpt.vn/gov-hni/6244/VanBan/2025/6/25/TB-729-2025.pdf |title=Thông báo số 729/TB-UBND ngày 25 tháng 6 năm 2025 của Ủy ban nhân dân thành phố Hà Nội về địa điểm trụ sở làm việc của 126 phường, xã sau sắp xếp thuộc phạm vi quản lý của thành phố Hà Nội|access-date=2026-06-15 |archive-date=2026-06-15 |archive-url=https://web.archive.org/web/20260615034519/https://storage-vnportal.vnpt.vn/gov-hni/6244/VanBan/2025/6/25/TB-729-2025.pdf |url-status=dead | website = Cổng Thông tin điện tử Ủy ban nhân dân thành phố Hà Nội}}</ref>}}{{other|Dương Hòa (định hướng)}}'''Dương Hòa''' là một [[Xã (Việt Nam)|xã]] thuộc thành phố [[Hà Nội]], [[Việt Nam]].
+
+== Địa lý== 
+Xã Dương Hòa có vị trí địa lý:
+
+* Phía đông giáp xã [[Hoài Đức (xã)|Hoài Đức]]
+* Phía tây giáp xã [[Hát Môn]] và xã [[Quốc Oai (xã)|Quốc Oai]] với ranh giới tự nhiên là [[sông Đáy]] 
+* Phía nam giáp xã [[Sơn Đồng]]
+* Phía bắc giáp xã [[Đan Phượng (xã)|Đan Phượng]].<ref>{{Chú thích web |last=Viện nghiên cứu Phát triển kinh tế – xã hội Hà Nội |date=2025-07-02 |title=Xã Dương Hòa: Những thông tin chi tiết sau sắp xếp |url=https://hanoionline.vn/xa-duong-hoa-nhung-thong-tin-chi-tiet-sau-sap-xep-344192.htm |url-status=dead |archive-url=https://web.archive.org/web/20260814400809/https://hanoionline.vn/xa-duong-hoa-nhung-thong-tin-chi-tiet-sau-sap-xep-344192.htm |archive-date=2026-08-14 |access-date=2026-08-14 |website=Cơ quan Báo và Phát thanh Truyền hình Hà Nội}}</ref><ref>{{Chú thích web |last=Cơ quan Báo và Phát thanh Truyền hình Hà Nội |date=2025-07-07 |title=Xã Dương Hòa: Tất cả thông tin chỉ dẫn bạn cần biết |url=https://hanoionline.vn/xa-duong-hoa-tat-ca-thong-tin-chi-dan-ban-can-biet-345211.htm |url-status=dead |archive-url=https://web.archive.org/web/20260814401509/https://hanoionline.vn/xa-duong-hoa-tat-ca-thong-tin-chi-dan-ban-can-biet-345211.htm |archive-date=2026-08-14 |access-date=2026-08-14}}</ref>
+Xã Dương Hòa có diện tích tự nhiên là 17,41&nbsp;km<sup>2</sup>, quy mô dân số năm 2025 là 58.830 người và mật độ dân số đạt 3.379 người/km<sup>2</sup>.<ref>{{Chú thích web |last=Mai Hữu |date=2026-04-05 |title=Hà Nội: Chi tiết phương án tổng thể sắp xếp đơn vị hành chính cấp xã |url=https://hanoimoi.vn/ha-noi-chi-tiet-phuong-an-tong-the-sap-xep-don-vi-hanh-chinh-cap-xa-700278.html |url-status=bot: unknown |archive-url=https://web.archive.org/web/20250710163328/https://hanoimoi.vn/ha-noi-chi-tiet-phuong-an-tong-the-sap-xep-don-vi-hanh-chinh-cap-xa-700278.html |archive-date=2025-07-10 |access-date=2026-07-08 |website=Cơ quan Báo và Phát thanh, truyền hình Hà Nội}}</ref><ref>Công văn số 2896/BNV-CQĐP ngày 27 tháng 5 năm 2025 của Bộ Nội vụ về việc cung cấp thông tin danh mục dự kiến đơn vị hành chính cấp xã mới.</ref>
+
+== Lịch sử==
+
+=== Trước năm 1976 ===
+[[hình:Đình yên sở tiền đường.jpg| thumb| trái| [[Đình Yên Sở]]]]
+Xã Dương Hòa được thành lập vào năm 1945 trên cơ sở tách 2 làng Dương Liễu và Mậu Hòa thuộc tổng Dương Liễu, huyện Đan Phượng, phủ Hoài Đức, tỉnh [[Hà Đông (tỉnh)|Hà Đông]].
+
+Xã Dương Cát được thành lập vào năm 1945 trên cơ sở tách 4 làng Cát Ngòi, Đắc Sở, Quế Dương, Yên Sở thuộc tổng Dương Liễu, huyện Đan Phượng, phủ Hoài Đức, tỉnh [[Hà Đông (tỉnh)|Hà Đông]].
+
+Năm 1956, xã Dương Hòa tách thành 2 xã Dương Liễu và Minh Khai, xã Dương Cát tách thành 3 xã Cát Quế, Đắc Sở, Yên Sở.
+
+=== Giai đoạn 1976 – nay ===
+Sau ngày 2 tháng 7 năm 1976, 5 xã: Cát Quế, Dương Liễu, Đắc Sở, Minh Khai và Yên Sở thuộc huyện [[Hoài Đức (huyện)|Hoài Đức]] của thuộc tỉnh [[Hà Sơn Bình]].
+
+Ngày 29 tháng 12 năm 1978, sáp nhập huyện [[Hoài Đức (huyện)|Hoài Đức]] của tỉnh [[Hà Sơn Bình]] vào thành phố [[Hà Nội]]. Khi đó, 5 xã: Cát Quế, Dương Liễu, Đắc Sở, Minh Khai và Yên Sở thuộc huyện [[Hoài Đức (huyện)|Hoài Đức]] của thành phố [[Hà Nội]].<ref>Nghị quyết ngày 29 tháng 12 năm 1978 của Quốc hội khóa VI, Kỳ họp thứ 4 phê chuẩn việc phân vạch lại địa giới thành phố Hà Nội, thành phố Hồ Chí Minh, các tỉnh Hà Sơn Bình, Vĩnh Phú, Cao Lạng, Bắc Thái, Quảng Ninh và Đồng Nai.</ref>
+
+Ngày 12 tháng 8 năm 1991, chia tỉnh [[Hà Sơn Bình]] thành 2 tỉnh, lấy tên là tỉnh [[Hòa Bình (tỉnh)|Hòa Bình]] và tỉnh [[Hà Tây (tỉnh)|Hà Tây]]. Chuyển huyện [[Hoài Đức (huyện)|Hoài Đức]] của thành phố [[Hà Nội]] về tỉnh [[Hà Tây (tỉnh)|Hà Tây]]. Khi đó, 5 xã: Cát Quế, Dương Liễu, Đắc Sở, Minh Khai và Yên Sở thuộc huyện [[Hoài Đức (huyện)|Hoài Đức]] của tỉnh [[Hà Tây (tỉnh)|Hà Tây]].<ref>Nghị quyết ngày 12 tháng 8 năm 1991 của Quốc hội khóa VIII, Kỳ họp thứ 9 về việc điều chỉnh địa giới hành chính một số tỉnh, thành phố trực thuộc Trung ương.</ref>
+
+Ngày 29 tháng 5 năm 2008, hợp nhất tỉnh [[Hà Tây (tỉnh)|Hà Tây]] vào thành phố [[Hà Nội]]. Khi đó, 5 xã: Cát Quế, Dương Liễu, Đắc Sở, Minh Khai và Yên Sở thuộc huyện [[Hoài Đức (huyện)|Hoài Đức]] của thành phố [[Hà Nội]].<ref>Nghị quyết số 15/2008/QH12 ngày 29 tháng 5 năm 2008 của Quốc hội khóa XII, Kỳ họp thứ 3 về việc điều chỉnh địa giới hành chính thành phố Hà Nội và một số tỉnh có liên quan.</ref>
+
+Ngày 16 tháng 6 năm 2025:
+
+* Kết thúc hoạt động của đơn vị hành chính cấp huyện trong cả nước.<ref>{{Chú thích web | title = Nghị quyết số 203/2025/QH15 ngày 16 tháng 6 năm 2025 của Quốc hội khóa XV, Kỳ họp thứ 9 về việc sửa đổi, bổ sung một số điều của Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam | url = https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/nq-sua-doi-hien-phap.pdf | access-date = 2026-06-13 | website = Cổng Thông tin điện tử Chính phủ |last=|date=|url-status=live|archive-url=https://web.archive.org/web/20260613090807/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/nq-sua-doi-hien-phap.pdf|archive-date=2026-06-13}}</ref>
+* Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của các xã Cát Quế, Dương Liễu, Đắc Sở, Minh Khai và Yên Sở (huyện [[Hoài Đức (huyện)|Hoài Đức]]) thành xã mới có tên gọi là xã Dương Hòa.<ref>{{Chú thích web |title=Nghị quyết số 1656/NQ-UBTVQH15 ngày 16 tháng 6 năm 2025 của Ủy ban Thường vụ Quốc hội về việc sắp xếp các đơn vị hành chính cấp xã của thành phố Hà Nội năm 2025|url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf|url-status=live|archive-url=https://web.archive.org/web/20260630400809/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf|archive-date=2026-06-30|access-date=2026-06-30|website=Cổng Thông tin điện tử Chính phủ}}</ref>
+* Sau khi sắp xếp, xã Dương Hòa được chia thành 46 thôn.<ref>10 thôn: đánh số từ 1 đến 9 và Cát Ngòi của xã Cát Quế cũ; 14 thôn: Chàng Chợ, Chàng Trũng, Chùa Đồng, Đình Đàu, Đoàn Kết, Đồng, Đồng Phú, Gia, Hòa Hợp, Hợp Nhất, Me Táo, Mới, Quê và Thống Nhất của xã Dương Liễu cũ; 6 thôn: Chùa Ngụ, Diềm Xá, Đông, Đông Hạ, Sơn Hà và Trung Kỳ của xã Đắc Sở cũ; 7 thôn: Minh Hiệp từ 1 đến 3 và Minh Hòa từ 1 đến 4 của xã Minh Khai cũ; 9 thôn, đánh số từ 1 đến 9 của xã Yên Sở cũ.</ref><ref>{{Chú thích web | title = Thông tư số 10/2022/TT-BTNMT ngày 29 tháng 9 năm 2022 của Bộ Tài nguyên và Môi trường về việc Ban hành Danh mục địa danh dân cư, sơn văn, thủy văn, kinh tế – xã hội phục vụ công tác thành lập bản đồ thành phố Hà Nội | url = https://datafiles.chinhphu.vn/cpp/files/vbpq/2022/10/10-btnmt.pdf | access-date = 2026-06-30 | website = Cổng Thông tin điện tử Chính phủ |url-status=live|archive-url=https://web.archive.org/web/20260630400809/https://datafiles.chinhphu.vn/cpp/files/vbpq/2022/10/10-btnmt.pdf|archive-date=2026-06-30}}</ref><ref>{{Chú thích web |last=|date=|title=Thông báo số 9/TB-UBND ngày 10 tháng 3 năm 2026 của Ủy ban bầu cử xã Dương Hòa về ngày bầu cử, thời gian bỏ phiếu và địa điểm các khu vực bỏ phiểu bầu cử đại biểu Quốc hội khóa XVI và đại biểu Hội đồng nhân dân các cấp nhiệm kỳ 2026 – 2031 trên địa bàn xã Dương Hòa|url=https://sqhx-hanoi.mediacdn.vn/91579363132710912/2026/3/12/tb-09ubbc-ve-thoi-gian-dia-diem-khu-vuc-bau-cu-17732896402121186900900.pdf|url-status=dead|archive-url=https://web.archive.org/web/20260814201510/https://sqhx-hanoi.mediacdn.vn/91579363132710912/2026/3/12/tb-09ubbc-ve-thoi-gian-dia-diem-khu-vuc-bau-cu-17732896402121186900900.pdf|archive-date=2026-08-14|access-date=2026-08-14|website=Trang Thông tin điện tử xã Dương Hòa – thành phố Hà Nội}}</ref>
+Ngày 6 tháng 11 năm 2025, 9 thôn, đánh số từ 1 đến 9 (xã Yên Sở cũ) đổi tên lần lượt thành 9 thôn: Yên Sở từ 1 đến 9.<ref>1. Thôn 1 (xã Yên Sở cũ) đổi tên thành thôn Yên Sở 1, xã Dương Hòa; 2. Thôn 2 (xã Yên Sở cũ) đổi tên thành thôn Yên Sở 2, xã Dương Hòa; 3. Thôn 3 (xã Yên Sở cũ) đổi tên thành thôn Yên Sở 3, xã Dương Hòa; 4. Thôn 4 (xã Yên Sở cũ) đổi tên thành thôn Yên Sở 4, xã Dương Hòa; 5. Thôn 5 (xã Yên Sở cũ) đổi tên thành thôn Yên Sở 5, xã Dương Hòa; 6. Thôn 6 (xã Yên Sở cũ) đổi tên thành thôn Yên Sở 6, xã Dương Hòa; 7. Thôn 7 (xã Yên Sở cũ) đổi tên thành thôn Yên Sở 7, xã Dương Hòa; 8. Thôn 8 (xã Yên Sở cũ) đổi tên thành thôn Yên Sở 8, xã Dương Hòa; 9. Thôn 9 (xã Yên Sở cũ) đổi tên thành thôn Yên Sở 9, xã Dương Hòa.</ref><ref>{{Chú thích web |last=|date=|title=Thông báo số 246/TB-UBND ngày 13 tháng 11 năm 2025 của Ủy ban nhân dân xã Dương Hòa về việc đổi tên 09 thôn trên địa bàn xã Dương Hòa sau sắp xếp đơn vị hành chính cấp xã|url=https://duonghoa.hanoi.gov.vn/thong-bao/thong-bao-ve-viec-doi-ten-9-thon-tren-dia-ban-xa-duong-hoa-sau-sap-xep-don-vi-hanh-chinh-cap-xa-277925112019510301.htm?gidzl=gq7uUVdiSdklNln_y_HqVA1UytRgf2zykLgcBRxmAoUvLFSXvFaf8BW6e7Regtfsk0Rp83LadByp_ErsUG|url-status=dead|archive-url=https://web.archive.org/web/20260814201510/https://duonghoa.hanoi.gov.vn/thong-bao/thong-bao-ve-viec-doi-ten-9-thon-tren-dia-ban-xa-duong-hoa-sau-sap-xep-don-vi-hanh-chinh-cap-xa-277925112019510301.htm?gidzl=gq7uUVdiSdklNln_y_HqVA1UytRgf2zykLgcBRxmAoUvLFSXvFaf8BW6e7Regtfsk0Rp83LadByp_ErsUG|archive-date=2026-08-14|access-date=2026-08-14|website=Trang Thông tin điện tử xã Dương Hòa – thành phố Hà Nội}}</ref>
+
+Ngày 24 tháng 6 năm 2026, thành lập 18 thôn mới: Minh Hòa, Minh Hiệp, Dương Liễu từ 1 đến 5, Cát Quế từ 1 đến 5, Yên Sở từ 1 đến 4, Đắc Sở 1 và 2.<ref name=":1">1. Thôn Minh Hòa: Thành lập trên cơ sở sáp nhập Thôn Minh Hòa 1, Thôn Minh Hòa 2, Thôn Minh Hòa 3, Thôn Minh Hòa 4; 2. Thôn Minh Hiệp: Thành lập trên cơ sở sáp nhập Thôn Minh Hiệp 1, Thôn Minh Hiệp 2, Thôn Minh Hiệp 3; 3. Thôn Dương Liễu 1: Thành lập trên cơ sở sáp nhập Thôn Chàng Chợ, Thôn Chàng Trũng, Thôn Gia; 4. Thôn Dương Liễu 2: Thành lập trên cơ sở sáp nhập Thôn Đồng, Thôn Đoàn Kết, Thôn Hợp Nhất, Thôn Đình Đàu; 5. Thôn Dương Liễu 3: Thành lập trên cơ sở sáp nhập Thôn Quê, Thôn Chùa Đồng, Thôn Thống Nhất; 6. Thôn Dương Liễu 4: Thành lập trên cơ sở sáp nhập Thôn Mới, Thôn Hòa Hợp; 7. Thôn Dương Liễu 5: Thành lập trên cơ sở sáp nhập Thôn Đồng Phú, Thôn Me Táo; 8. Thôn Cát Quế 1: Thành lập trên cơ sở sáp nhập Thôn 1, Thôn 3; 9. Thôn Cát Quế 2: Thành lập trên cơ sở sáp nhập Thôn 2, Thôn 5; 10. Thôn Cát Quế 3: Thành lập trên cơ sở sáp nhập Thôn 4, Thôn 6; 11. Thôn Cát Quế 4: Thành lập trên cơ sở sáp nhập Thôn 7, Thôn Cát Ngòi; 12. Thôn Cát Quế 5: Thành lập trên cơ sở sáp nhập Thôn 8, Thôn 9; 13. Thôn Yên Sở 1: Thành lập trên cơ sở sáp nhập Thôn Yên Sở 1, Thôn Yên Sở 2, Thôn Yên Sở 9; 14. Thôn Yên Sở 2: Thành lập trên cơ sở sáp nhập Thôn Yên Sở 3, Thôn Yên Sở 4; 15. Thôn Yên Sở 3: Thành lập trên cơ sở sáp nhập Thôn Yên Sở 5, Thôn Yên Sở 6; 16. Thôn Yên Sở 4: Thành lập trên cơ sở sáp nhập Thôn Yên Sở 7, Thôn Yên Sở 8; 17. Thôn Đắc Sở 1: Thành lập trên cơ sở sáp nhập Thôn Diềm Xá, Thôn Trung Kỳ, Thôn Đông; 18. Thôn Đắc Sở 2: Thành lập trên cơ sở sáp nhập Thôn Đông Hạ, Thôn Chùa Ngụ, Thôn Sơn Hà.</ref><ref name=":2">{{Chú thích web | last = | title = Nghị quyết số 18/NQ-HĐND ngày 24 tháng 6 năm 2026 của Hội đồng nhân dân xã Dương Hòa về việc sắp xếp, tổ chức lại thôn trên địa bàn xã Dương Hòa | url = https://duonghoa.hanoi.gov.vn/sap-xep-thon/nghi-quyet-so-18-nq-hdnd-ngay-24-6-2026-ve-viec-sap-xep-to-chuc-lai-thon-tren-dia-ban-xa-duong-hoa-2779260702092120507.htm?gidzl=dqjSJgtHM2IRL5X8fybU8vHKLas-cGGlZL035khD07IDNb8QiCG2SumC1Ksybb4bZ0nM6pK4gp5RgD1S9W | access-date = 2026-08-14 |date=|url-status=dead|archive-url=https://web.archive.org/web/20260814201510/https://duonghoa.hanoi.gov.vn/sap-xep-thon/nghi-quyet-so-18-nq-hdnd-ngay-24-6-2026-ve-viec-sap-xep-to-chuc-lai-thon-tren-dia-ban-xa-duong-hoa-2779260702092120507.htm?gidzl=dqjSJgtHM2IRL5X8fybU8vHKLas-cGGlZL035khD07IDNb8QiCG2SumC1Ksybb4bZ0nM6pK4gp5RgD1S9W|archive-date=2026-08-14|website=Trang Thông tin điện tử xã Dương Hòa – thành phố Hà Nội}}</ref><!-- 
+== Tên gọi lịch sử== 
+Trước đây xã Yên Sở có tên nôm là Kẻ Giá hay còn gọi là Giá Dừa, Giá Lụa.
+
+== Nghề nghiệp== 
+Chủ yếu là làm mộc, nề và giáo viên, có nghề truyền thống trồng dâu chăn tằm dệt lụa, người dân rất hiếu học.
+
+== Đô thị== 
+Hiện nay trên địa giới của xã đang triển khai dự án khu đô thị mới Yên Phú và An Thịnh.
+Yên Sở nằm trong quy hoạch Khu đô thị S2 của Hà Nội. Một số tuyến giao thông chạy qua địa bàn có thể kể đến như đường tỉnh 422, đê tả sông Đáy và dự án đường Liên khu vực 1 nối Đức Thượng - Song Phương, đường Vành đai 4, trục Hồ Tây - Ba Vì, đường nối Vành đai 4 với Mỹ Đình đang được triển khai. Yên Sở đang hoàn thiện cơ sở hạ tầng để đạt tiêu chí trở thành phường.
+
+== Di tích== 
+Xã Yên Sở có [[Quán Giá]]<ref>{{Chú thích web| url = http://www.hanoitourism.gov.vn/hanoitourist_eng/home/tin_tuc_chi_tiet.php?nhom_don_vi_id = 7&nhom_tin_nhom_tin_don_viPage = 4&tin_tuc_id = 270&don_vi_id = 29| tiêu đề = Giới thiệu về Quán Giá của Sở Du lịch Hà Nội| nhà xuất bản = Sở Du lịch Hà Nội| ngày truy cập = ngày 18 tháng 8 năm 2008}}{{Liên kết hỏng| date = ngày 31 tháng 5 năm 2021 | bot = InternetArchiveBot }}</ref> là nơi thờ [[Lý Phục Man]] hàng năm lễ hội tổ chức vào ngày mùng 10 tháng 3 âm lịch<ref>{{Chú thích web| url = http://www.amnh.org/exhibitions/vietnam/06_heroes/06b_honoring.php| tiêu đề = Giới thiệu về Hội Giá của Bảo tàng Lịch sử Tự nhiên Hoa Kỳ| nhà xuất bản = Armerican Museum of Natural History (AMNH)| ngày truy cập = ngày 18 tháng 8 năm 2008 }}</ref> (xem [http://www.amnh.org/exhibitions/vietnam/media/ly_phuc.ram video]).
+
+== Giao thông== 
+Xã Minh Khai nằm trên trục đường đê được trải nhựa phẳng phiu nối thị trấn [[Phùng]], huyện Đan Phượng và xã [[Đức Thượng]] (tại hai điểm giao với quốc lộ 32) với phường [[Yên Nghĩa]], quốc lộ 6 (thuộc quận [[Hà Đông (quận)| Hà Đông]]).
+
+Hệ thống xe buýt: tuyến 66.
+
+== Di tích== 
+Đền Mậu Hòa là di tích lịch sử văn hóa thờ vị [[tướng nhà Đinh]] Phạm Đông Nga, người đã theo [[Đinh Bộ Lĩnh]] đánh dẹp [[loạn 12 sứ quân]] và trở thành tướng tài, được phong Tổng đốc đại vương. Ông có công khởi dựng làng Mậu Hòa nằm ven bờ đê sông Đáy.
+
+== Kinh tế== 
+Xã Minh Khai ngoài sản xuất nông nghiệp còn có nghề làm miến tổng với quy mô lớn. Khắp các tuyến đường nhất là tuyến đê chạy qua xã toàn là miến được bà con phơi kín bên rìa đường. Trong thôn có rất nhiều xưởng miến của các hộ chế biến sản xuất cung cấp ra ngoài thị trường.
+
+== Văn Hóa lịch sử== 
+Thôn Dương Liễu là 1 vùng đất cổ kính với nhiều di tích lịch sử văn hóa như: Chùa Hương Trai, chùa Đồng, Chùa Bãi, Quán Dương Liễu, Đình Hàng Tổng.
+
+Chùa Hương Trai là ngôi chùa nổi tiếng ở vùng bắc bộ Việt Nam với bệ đá hoa sen thời Trần cổ nhất nước được đục năm 1370, chùa còn có 1 pho tượng Quan Âm bảo mã quý hiếm
+
+Quán Dương liễu là nơi thờ vọng đức Lý Phục Man tướng quân thời Tiền Lý Nam Đế, kiến trúc nổi chội với tòa Phương đình cao 2 tầng 8 mái rất trang nhã cùng với nhiều đồ thờ tự quý giá như: Nhang án, hạc, sập thờ, kiệu bát cống, kiệu văn, bát bửu, chấp kích...
+
+Đình Hàng Tổng được Tiến sĩ Nguyễn Danh Dự là người bản xã đứng ra kêu gọi 3 thôn Dương liễu, Quế Dương (Cát Quế), Mậu Hòa (Minh Khai) cùng nhau xây dựng năm kỷ tỵ 1689, đây là ngôi đình to đẹp, bề thế bậc nhất nhì đồng bằng Bắc Bộ và cả nước thời đó, năm 1947 trong cuộc chiến chống Pháp đình bị thiêu hủy trong phong trào tiêu thổ kháng chiến, năm 2010 đình được phục dựng với quy mô như hiện nay.Hội chính của làng là ngày 12-3 âm lịch hàng năm
+
+Xã Cát Quế được đặt tên bằng cách ghép tên hai làng Cát Ngòi và Quế Dương (diện tích và dân số làng Quế Dương chiếm phần lớn).Là một xã cổ, có truyền thống vật võ.Cách trung tâm Hà Nội 12Km theo hướng Tây. Trước đây tên xã là Vinh Quang.
+
+Nơi đây có di chỉ khảo cổ Vinh Quang nổi tiếng từ thời văn hóa Phùng Nguyên cách nay trên 3000 năm.
+
+{| class = "wikitable"
+| +
+![[Tập tin:Cát quế đền vật.jpg| nhỏ| đền vật Thôn Quế Dương, xã Cát Quế]]
+![[Tập tin:Cát quế đền mẫu.jpg| nhỏ| Đền Mẫu cát quế]]
+![[Tập tin:Cát Quế 2.jpg| nhỏ| Chim Garuda đất nung đời Mạc ở chùa làng Quế Dương, Cát Quế]]
+| -
+| [[Tập tin:Cát quế 1920.jpg| nhỏ| Hội Vật cát Quế thời xưa]]
+| [[Tập tin:Cát quế hội làng.jpg| nhỏ| Hội cát quế 2015| 222x222px]]
+| [[Tập tin:Cát Quế 1.jpg| nhỏ| Nhang Án đời Lê, Đình Quế Dương, Cát Quế]]
+|}
+
+Xã có các di tích văn hóa,lịch sử đã được xếp hạng như Đền Vật, Đền Mẫu, Chùa Đại Bi, Chùa Vĩnh Phúc... nét đặc trưng văn hóa của làng Quế Dương mà làng khác không có là mỗi xóm có một nơi thờ cúng gọi là "Điếm". Điếm vừa là nơi thờ cúng, hội họp, vui chơi của dân trong 1 xóm.
+
+Chùa Đại Bi tên nôm là chùa Bái nằm ở phía bắc xã hiện có 1 bệ tam thế bằng đá từ thời Trần năm 1374 là một trong 3 bệ đá thời Trần cổ nhất Việt Nam. Ngoài ra có 1 quả chuông thời Tây Sơn năm 1798, 1 khánh đồng đúc năm 1816. Phía hậu điện của chùa có 2 tòa Tái Động miêu tả cảnh các tầng địa ngục vô cùng sinh động và độc đáo.
+
+Phía Nam của xã là chùa Vĩnh Phúc tên Nôm là chùa Vắng, nếu chùa Đại bi nổi danh với bệ đá thời trần thì chùa Vĩnh Phúc lại nổi tiếng với bệ thờ Đất nung thời Mạc hiếm hoi còn sót lại trên toàn quốc Việt Nam.
+
+Về các nơi thờ cúng ở xã:
+
++ Chùa: Đạo Phật (Chùa Bái - chùa Đại Bi, chùa Vắng - chùa Vĩnh Phúc)
+
++ Nhà thờ: Đạo Thiên Chúa (2 nhà thờ: 1 ở thôn Quế Dương, 1 ở thôn Cát Ngòi)
+
++ Đình: của làng
+
++ Đền
+
++ Miếu
+
++ Điếm: có thể vừa là nơi thờ cúng vừa là nơi vui chơi hoặc chỉ là một ngôi nhà trống làm chỗ dừng chân.
+
+Xã có các lễ hội truyền thống mang đậm nét dân gian như hội Đền Mẫu thờ công chúa Liễu Hạnh (diễn ra từ ngày 01-03/03 âm lịch). Hội này chỉ có thiếu nữ và các cụ bà tham gia lễ hội.
+
+Ngoài ra 5 năm tổ chức 1 lần hội Đền Vật (quán Vật, Đình Đấu) (diễn ra từ 14-16/01 âm lịch các năm có số cuối là 0 hoặc 5). Hội Đền Vật gồm 2 phần chính là lễ rước quân và hội vật. Hội vật thu hút nhiều người trong xã cũng như khách thập phương đến xem và tham gia. Trong xã có nhiều đô vật đẳng cấp quốc gia như Lê Duy Hợi đã 2 lần đoạt huy chương vàng SeaGame. Người Cát Quế tự hào với câu ca:
+
+" Đông Anh, Thạch Thất đã tài
+
+vẫn thua Cát Quế một vài ông Đô"
+
+.
+Kinh tế của xã chủ yếu phát triển nghề phụ như làm bột sắn, đót, làm đường mạch nha, mì miến, bánh kẹo, nước giải khát và buôn bán...
+
+Nông nghiệp chiếm tỉ trọng nhỏ trong phát triển kinh tế của xã. Tuy nhiên, xã có giống bưởi quý đặc sản, đang được viện nông nghiệp Việt Nam bảo tồn nguồn ghen, đó là giống bưởi đường Quế Dương.
+[[Tập tin:Hội vật cát quế.jpg| nhỏ| 476x476px| Hội Vật thôn Quế Dương, xã Cát Quế]]
+
+ -->
+
+== Hành chính==
+Xã Dương Hòa chia thành 18 thôn: Cát Quế từ 1 đến 5, Dương Liễu từ 1 đến 5, Đắc Sở 1, 2, Minh Hiệp, Minh Hòa và Yên Sở từ 1 đến 4.<ref name=":2" />
+{| class="wikitable sortable" cellpadding="0" cellspacing="6" width="100%" align="center" style="background: #f9f9f9; border: 1px #aaa solid; margin-top: 16px"
+! colspan="4" style="background: #E6E6FA; font-size: 95%;" |Danh sách các thôn thuộc xã Dương Hòa<ref name=":2" />
+|-
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| cellpadding="1" cellspacing="1" width="100%" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Cát Quế 1
+|893
+|-
+| align="left" |Cát Quế 2
+|809
+|-
+| align="left" |Cát Quế 3
+|726
+|-
+| align="left" |Cát Quế 4
+|848
+|-
+| align="left" |Cát Quế 5
+|1.039
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| cellpadding="1" cellspacing="1" width="100%" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Dương Liếu 1
+|777
+|-
+| align="left" |Dương Liễu 2
+|931
+|-
+| align="left" |Dương Liễu 3
+|793
+|-
+| align="left" |Dương Liễu 4
+|621
+|-
+| align="left" |Dương Liễu 5
+|652
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| cellpadding="1" cellspacing="1" width="100%" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Đắc Sở 1
+|652
+|-
+| align="left" |Đắc Sở 2
+|676
+|-
+| align="left" |Minh Hiệp
+|698
+|-
+| align="left" |Minh Hòa
+|833
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| cellpadding="1" cellspacing="1" width="100%" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Yên Sở 1
+|858
+|-
+| align="left" |Yên Sở 2
+|807
+|-
+| align="left" |Yên Sở 3
+|660
+|-
+| align="left" |Yên Sở 4
+|892
+|}
+|}
+
+== Tín ngưỡng, tôn giáo và văn hoá==
+Trên địa bàn xã 2 thôn Cát Ngòi và Quế Dương có một phần người dân theo [[Kitô giáo|đạo Thiên chúa]].
+
+Đình và chùa trên địa bàn xã đã được nhà nước xếp hạng công nhận là di tích lịch sử văn hoá.
+
+Trên địa bàn xã Dương Hòa có nhiều di tích lịch sử cấp quốc gia là Quán Giá - Rừng Giá; chùa Hương Trai; đền Mẫu Quế Duơng;<ref>{{Chú thích web | last = nguoihanoi.vn | date = 2023-04-25 | title = Đền Mẫu Liễu (huyện Hoài Đức) | url = https://nguoihanoi.vn/den-mau-lieu-huyen-hoai-duc-71405.html | access-date = 2025-10-27 | website = Tạp chí Người Hà Nội | language = vi}}</ref> đền Vật;<ref>{{Chú thích web | last = nguoihanoi.vn | date = 2023-08-03 | title = Đền Vật (huyện Hoài Đức) | url = https://nguoihanoi.vn/den-vat-huyen-hoai-duc-74663.html | access-date = 2025-10-27 | website = Tạp chí Người Hà Nội | language = vi}}</ref> đền Mậu Hòa; đền Dương Liễu; chùa Đại Bi; chùa Vĩnh Phúc;
+
+[[Đình Yên Sở|'''Quán Giá''']] là nơi thờ Tướng công Thái uý Lý Phục Man một người con của làng Giá - Yên Sở đã có công giúp Lý Bí lập nên nhà nước Vạn Xuân ở thế kỷ thứ VI.
+
+Danh sách di tích, di chỉ trên từng khu vực xếp theo số lượng:
+
+- Thôn Quế Dương có 9 điểm: di chỉ khảo cổ học Vinh Quang, chùa Đại Bi, chùa Vĩnh Phúc, chùa Phổ Am, đình Quế Dương, đền Vật, đền mẫu Quế Dương, võ chỉ Quế Dương, nhà thờ hoàng giáp Nguyễn Thúc Thông và tiến sĩ Nguyễn Tiên Sạn.
+
+- Thôn Dương Liễu có 8 điểm: trong đó thôn Dương Liễu cổ có 6 điểm như chùa Hương Trai, chùa Linh Châu, đền Dương Liễu, đình hàng tổng, nhà thờ tiến sĩ Phí Đăng Nhậm, nhà thờ tiến sĩ Nguyễn Danh Dự. Ngoài ra xưa kia cạnh thôn Dương Liễu có thôn Khả Liễu nay đã chuyển đi nhưng để lại 2 di tích là đình Khả Liễu nay là điếm Hạ thôn Hoa, chùa Khả Liễu hay chùa Đồng.<ref>{{Chú thích web | title = Di tích lịch sử Dương Hòa | url = https://ditichlichsuduonghoa.vn/ | access-date = 2025-11-22 | website = Di tích lịch sử Dương Hòa | language = vi}}</ref>
+
+- Thôn Yên Sở có 6 điểm: chùa Pháp Vũ, chùa Ngọc Tân, quán Giá, văn chỉ Yên Sở, chùa Lụa, từ chỉ Trần Danh Tiêu.<ref>{{Chú thích web | title = Từ chỉ Trần Danh Tiêu | url = https://ditichlichsuduonghoa.vn/tu-chi-tran-danh-tieu | access-date = 2025-11-22 | website = Di tích lịch sử Dương Hòa | language = vi}}</ref>
+
+- Thôn Mậu Hòa có 4 điểm: chùa Địa Linh, đền Mậu Hòa, đình Mậu Hòa, nhà thờ tiến sĩ Nguyễn Ích Tốn.<ref>{{Chú thích web | title = Đình Mậu Hòa | url = https://ditichlichsuduonghoa.vn/dinh-mau-hoa | access-date = 2025-11-22 | website = Di tích lịch sử Dương Hòa | language = vi}}</ref>
+
+- Thôn Đắc Sở có 4 điểm: chùa Phúc Lâm, đình Đắc Sở, nhà thờ lãnh binh Vương Trí Hải, tượng đài Tiếng Bom Sấu Giá.<ref>{{Chú thích web | title = DI TÍCH TƯỢNG ĐÀI TIẾNG BOM SẤU GIÁ | url = https://ditichlichsuduonghoa.vn/di-tich-tuong-dai-tieng-bom-sau-gia | access-date = 2025-11-22 | website = Di tích lịch sử Dương Hòa | language = vi}}</ref>
+
+- Thôn Cát Ngòi có 2 điểm: chùa Cát Ngòi, đình Cát Ngòi.<ref>{{Chú thích web | title = Đình Cát Ngòi | url = https://ditichlichsuduonghoa.vn/dinh-cat-ngoi | access-date = 2025-11-22 | website = Di tích lịch sử Dương Hòa | language = vi}}</ref>
+
+- Thôn Sơn Tượng có 2 điểm: chùa Sơn Tượng, đình Sơn Tượng.<ref>{{Chú thích web | title = Đình Sơn Tượng | url = https://ditichlichsuduonghoa.vn/dinh-son-tuong | access-date = 2025-11-22 | website = Di tích lịch sử Dương Hòa | language = vi}}</ref>
+
+== Kinh tế== 
+Trên địa bàn xã Dương Hòa có 3 [[Làng nghề Việt Nam|làng nghề]] chế biến nông sản ở Dương Liễu, Cát Quế và Minh Khai với sản phẩm nổi bật là [[Miến| miến dong]]. Ngoài ra xã còn có đặc sản [[bánh gai]] ở Yên Sở và vùng Đắc Sở chuyên trồng [[phật thủ]].<ref name = ":0">{{Chú thích web | last = Hậu Lộc | date = 2025-06-30 | title = Xã Dương Hòa sẵn sàng trên hành trình mới | url = https://phapluat.tuoitrethudo.vn/xa-duong-hoa-san-sang-tren-hanh-trinh-moi-105279.html | access-date = 2025-07-01 | website = Báo Tuổi trẻ Thủ đô}}</ref><ref>{{Chú thích web | last = Minh Huệ | date = 2016-06-05 | title = Phật thủ Đắc Sở | url = https://sovhtt.hanoi.gov.vn/phat-thu-dac/ | access-date = 2025-07-01 | website = Sở Văn Hóa Thể Thao Hà Nội}}</ref>
+
+== Xã hội==
+
+== Ẩm thực - sản vật== 
+Xã Dương Hòa có nhiều đặc sản, sản vật địa phương như:
+
+* Bánh gai làng Giá<ref>{{Chú thích báo | last = Đặc sản Hà Nội - Bánh gai làng Giá | title = Đặc sản Hà Nội - Bánh gai làng Giá | url = https://langngheviet.com.vn/dac-san-ha-noi-banh-gai-lang-gia-33365.html | access-date = 2025-10-27 | work = Đặc sản Hà Nội - Bánh gai làng Giá | language = vi-VN}}</ref>
+* Bánh tro Đắc Sở
+* Miến dong, bún khô Minh Khai
+* Miến dong, bún khô Dương Liễu
+* Phật thủ Đắc Sở
+* Bưởi đường Quế Dương<ref>{{Chú thích web | last = 569691543527106 | date = 2011-04-04 | title = Bưởi đường Quế Dương | url = https://nongnghiepmoitruong.vn/buoi-duong-que-duong-d76304.html | access-date = 2025-10-27 | website = nongnghiepmoitruong.vn | language = vi}}</ref>
+
+== Giao thông== 
+Các tuyến giao thông quan trọng trên địa bàn xã Dương Hòa:
+
+* Đường vành đai 4 Hà Nội
+* Đường tỉnh 422: Hoài Đức - Quốc Oai
+* Đường đê tả Đáy (đoạn qua xã có tên là đường Lý Phục Man): kết nối với Quốc lộ 32, Đại Lộ Thăng Long, Quốc lộ 6...
+* Hệ thống xe buýt: 66, 163.
+
+== Danh nhân==
+
+* [[Lý Phục Man]]: Vị tướng thời vua Lý Nam Đế. Quê ở thôn Yên Sở.
+* Nguyễn Thúc Thông (1425 - ?): Hoàng giáp năm Thái Hòa thứ 6 ([[1448]]). Quê ở thôn Quế Dương.
+* Nguyễn Ích Tốn (1455 - 1510): Đồng tiến sĩ xuất thân năm giáp thìn 1484 niên hiệu Hồng Đức thứ 15, ông là một trong Tao Đàn nhị thập bát tú. Quê ở thôn Mậu Hòa.
+* Nguyễn Tiên Sạn (1510 - 1586): Tiến sĩ năm nhâm thìn 1532 niên hiệu Đại Chính thứ 3 triều Mạc. Quê ở thôn Quế Dương, ông chính là cháu nội của Hoàng giáp Nguyễn Thúc Thông, làm quan giữ chức Đề Hình Giám Sát Ngự Sử.
+* Nguyễn Danh Siêu (? - ?): Tả Đô Đốc hàm tòng nhất phẩm làm quan dưới triều Lê Trung Hưng. Quê ở giáp Bài Thượng thôn Quế Dương, hiện được thờ tại di tích Võ Chỉ Quế Dương hay còn gọi Cầu Hàng Đội.
+* Nguyễn Diễn (? - ?): Thượng tướng, Thế quận công, Khuê Trung hầu, quốc lão hoa công thời Lê Trung Hưng. Quê ở thôn Quế Dương, hiện thờ tại di tích Võ Chỉ Quế Dương.
+* Nguyễn Hiền Tài (? - ?): Tán trị công thần, đặc tiến kim tử vinh lộc đại phu, thái thường tự khanh, tước Văn Quế tử, ông kiêm nhiệm cả hai ban văn võ nên cũng là võ quan với chức vụ đô chỉ huy sứ ty hàm chánh tam phẩm thời Lê Trung Hưng. Quê ở giáp Bài Thượng thôn Quế Dương, hiện thờ tại di tích Võ Chỉ Quế Dương. Ông làm quan khoảng niên hiệu Đức Long (1629-1634).
+* Nguyễn Phi Kiến ([[1564]] – [[1628]]): Tiến sĩ năm Vĩnh Tộ thứ 5 ([[1623]]). Quê ở thôn Dương Liễu.
+* Phí Đăng Nhậm (1618-?): Tiến sĩ năm 1661 thời vua Lê Thần Tông. Quê ở thôn Dương Liễu.
+* [[Nguyễn Danh Dự]] ([[1657]] – [[1714]]): Danh thần thời Lê trung hưng. Quê ở thôn Dương Liễu.
+* Trần Danh Tiêu (1709 - 1758): Hàn Lâm Đại Học Sĩ, Phượng Lĩnh bá trụ quốc. Quê ở thôn Yên Sở.
+* Nguyễn Văn Uyên: Hộ Bộ Đô Lại triều Lê Trung Hưng. Quê giáp Vĩnh Trung thôn Quế Dương, hiện thờ tại di tích Võ Chỉ Quế Dương.
+* Trần Nhuận: Hiệu Uý Các Nha, võ quan đời Lê Trung Hưng. Quê ở giáp Vĩnh Trung thôn Quế Dương, hiện thờ tại di tích Võ Chỉ Quế Dương.
+* Nguyễn Chiếu Minh: Hiệu Uý Các Nha, võ quan đời Lê Trung Hưng. Quê ở giáp Vĩnh Trung thôn Quế Dương, hiện thờ tại di tích Võ Chỉ Quế Dương.
+* Nguyễn Quý Công (? - ?): Phó bảng ngạch võ khoảng niên hiệu Tự Đức nhà Nguyễn, làm quan tới chức Chánh Lãnh Binh hàm chánh tam phẩm. Quê ở thôn Quế Dương, hiện thờ tại di tích Võ Chỉ Quế Dương.
+* Vương Trí Hải tự Phúc Quảng: Phó quản cơ, lãnh binh niên hiệu Tự Đức nhà Nguyễn. Quê ở thôn Đắc Sở.
+* Nguyễn Bá Luận (1887 -1968): Hồng Lô Tự Khanh triều Nguyễn. Quê ở thôn Dương Liễu.
+* [[Nguyễn Quang Dương]] (sinh năm [[1962]]): Nguyên Ủy viên Ban Chấp hành Trung ương Đảng, nguyên Phó Trưởng ban Tổ chức Trung ương. Quê gốc thôn Quế Dương nay vẫn còn từ đường, sau này chuyển lên sống ở thôn Dương Liễu.
+* [[Nguyễn Quang Đức]] (sinh năm 1971): Ủy viên Ban Chấp hành Trung ương Đảng, Phó Trưởng Ban Tuyên giáo và Dân vận Trung ương. Quê gốc thôn Quế Dương nay vẫn còn từ đường, sau này chuyển lên sống ở thôn Dương Liễu
+* [[Dương Nghiễm Mậu]] ([[1936]] – [[2016]]): [[Nhà văn]] Việt Nam. Quê ở thôn Mậu Hòa.
+* [[Kim Xuyến]] (sinh năm [[1945]]): [[Nghệ sĩ ưu tú]], [[diễn viên]]. Quê ở thôn Yên Sở.
+
+== Chú thích== 
+{{tham khảo| 30em}}
+
+== Tham khảo ==
+{{Sơ khai Hà Nội}}
+{{Đơn vị hành chính thuộc thành phố Hà Nội}}

@@ -1,0 +1,112 @@
+{
+  "ward_code": "10210",
+  "ward_name": "Hồng Vân",
+  "province_code": "01",
+  "resolution": "",
+  "arrangement": "2026_07",
+  "effective_date": "2026-07-01",
+  "verified": "unverified",
+  "extraction": {
+    "source": "vi.wikipedia.org",
+    "title": "(cache)",
+    "mode": "table"
+  },
+  "sources": [
+    {
+      "key": "wiki-10210-1",
+      "title": "Nghị quyết số 20/NQ-HĐND ngày 29 tháng 6 năm 2026 của Hội đồng nhân dân xã Hồng Vân về việc thành lập, sắp xếp, tổ chức lại thôn trên địa bàn xã Hồng Vân",
+      "url": "https://datafiles.hanoi.gov.vn/gov-hni/7166/VanBan/2026/7/3/Ngh%E1%BB%8B%20Quy%E1%BA%BFt%20s%E1%BB%91%2020%20v%E1%BB%81%20s%E1%BA%AFp%20x%E1%BA%BFp%20Th%C3%B4n_1.pdf",
+      "date": "2026-07-19",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-10210-2",
+      "title": "Quyết định số 9/QĐ-UBND ngày 22 tháng 2 năm 2026 của Ủy ban bầu cử xã Hồng Vân về việc Công bố Danh sách những người ứng cử đại biểu Hội đồng nhân dân xã Hồng Vân, nhiệm kỳ 2026 – 2031 theo từng đơn vị bầu cử",
+      "url": "https://datafiles.hanoi.gov.vn/gov-hni/7166/VanBan/2026/2/24/Q%C4%90%20-%20C%C3%B4ng%20b%E1%BB%91%20danh%20s%C3%A1ch%20ch%C3%ADnh%20th%E1%BB%A9c%20nh%E1%BB%AFng%20ng%C6%B0%E1%BB%9Di%20%E1%BB%A9ng%20c%E1%BB%AD-trang.pdf",
+      "date": "",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-10210-3",
+      "title": "Nghị quyết số 1656/NQ-UBTVQH15 ngày 16 tháng 6 năm 2025 của Ủy ban Thường vụ Quốc hội về việc sắp xếp các đơn vị hành chính cấp xã của thành phố Hà Nội năm 2025",
+      "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf",
+      "date": "2026-05-13",
+      "type": "wikipedia-ref"
+    }
+  ],
+  "note": "Trích tự động từ Wikipedia tiếng Việt (mode=table). Cần đối chiếu nghị quyết HĐND phường/xã.",
+  "tdp": [
+    {
+      "name": "Bạch Liên",
+      "type": "thôn"
+    },
+    {
+      "name": "Bằng Sở",
+      "type": "thôn"
+    },
+    {
+      "name": "Duyên Trường",
+      "type": "thôn"
+    },
+    {
+      "name": "Dương Tảo",
+      "type": "thôn"
+    },
+    {
+      "name": "Đại Lộ",
+      "type": "thôn"
+    },
+    {
+      "name": "Đông Thai",
+      "type": "thôn"
+    },
+    {
+      "name": "Hà Hồi",
+      "type": "thôn"
+    },
+    {
+      "name": "Hạ Hồi",
+      "type": "thôn"
+    },
+    {
+      "name": "Hạ Thái",
+      "type": "thôn"
+    },
+    {
+      "name": "Khê Hồi",
+      "type": "thôn"
+    },
+    {
+      "name": "Nỏ Bạn",
+      "type": "thôn"
+    },
+    {
+      "name": "Nội Thôn",
+      "type": "thôn"
+    },
+    {
+      "name": "Phương Quế",
+      "type": "thôn"
+    },
+    {
+      "name": "Sở Hạ",
+      "type": "thôn"
+    },
+    {
+      "name": "Vân La",
+      "type": "thôn"
+    },
+    {
+      "name": "Xâm Dương",
+      "type": "thôn"
+    },
+    {
+      "name": "Xâm Động",
+      "type": "thôn"
+    },
+    {
+      "name": "Xâm Thị",
+      "type": "thôn"
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "ward_code": "07894",
+  "ward_name": "Nông Trang",
+  "province_code": "25",
+  "resolution": "",
+  "arrangement": "2026_07",
+  "effective_date": "2026-07-01",
+  "verified": "unverified",
+  "extraction": {
+    "source": "vi.wikipedia.org",
+    "title": "Nông Trang",
+    "mode": "narrative"
+  },
+  "sources": [
+    {
+      "key": "wiki-07894-1",
+      "title": "NGHỊ QUYẾT 203/2025/QH15 SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA HIẾN PHÁP NƯỚC CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM",
+      "url": "https://xaydungchinhsach.chinhphu.vn/nghi-quyet-203-2025-qh15-sua-doi-bo-sung-mot-so-dieu-cua-hien-phap-nuoc-cong-hoa-xa-hoi-chu-nghia-viet-nam-119250616181735552.htm",
+      "date": "2025-06-28",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-07894-2",
+      "title": "Nghị quyết số 1676/NQ-UBTVQH15 sắp xếp các ĐVHC cấp xã của tỉnh Phú Thọ năm 2025",
+      "url": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-1676-nq-ubtvqh15-sap-xep-cac-dvhc-cap-xa-cua-tinh-phu-tho-nam-2025-119250616204317326.htm",
+      "date": "2025-06-20",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-07894-3",
+      "title": "Đình Vân Cơ, di tích thờ Vua Đinh Tiên Hoàng ở Phú Thọ",
+      "url": "http://viettri.phutho.gov.vn/tin-tuc/du-lich/dinh-van-co-chua-an-thien-8754-33.html",
+      "date": "2026-05-17",
+      "type": "wikipedia-ref"
+    }
+  ],
+  "note": "Trích tự động từ Wikipedia tiếng Việt (mode=narrative). Cần đối chiếu nghị quyết HĐND phường/xã.",
+  "tdp": [
+    {
+      "name": "Cẩm Đội",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Đại Nải",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Đinh Tiên Hòang",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Lâm Thắng",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Liên Minh",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Liên Phương",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Minh Phương",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Ngọai Thụy Vân",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Nguyễn Du",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Nguyễn Tất Thành",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Nguyệt Cư",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Nỗ Lực",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Nội Thụy Vân",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Phú Hậu",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Phú Thịnh",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Phương Châu",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Tản Viên",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Tân Phương",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Vân Cơ",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Vĩnh Phú",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Vũ Duệ",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Xuân Nương",
+      "type": "tổ dân phố"
+    }
+  ]
+}

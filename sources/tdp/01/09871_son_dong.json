@@ -1,0 +1,104 @@
+{
+  "ward_code": "09871",
+  "ward_name": "Sơn Đồng",
+  "province_code": "01",
+  "resolution": "",
+  "arrangement": "2026_07",
+  "effective_date": "2026-07-01",
+  "verified": "unverified",
+  "extraction": {
+    "source": "vi.wikipedia.org",
+    "title": "(cache)",
+    "mode": "table"
+  },
+  "sources": [
+    {
+      "key": "wiki-09871-1",
+      "title": "Danh sách chính thức những người ứng cử đại biểu Hội đồng Nhân dân xã Sơn Đồng khóa XXI, nhiệm kỳ 2026 – 2031",
+      "url": "https://sondong.hanoi.gov.vn/tin-tuc-su-kien/danh-sach-chinh-thuc-nhan-su-ung-cu-dai-bieu-hoi-dong-nhan-dan-xa-son-dong-279026030209394042.htm?gidzl=oB_s81ZfH0tCeF8c4l533Csk_2K5-1aCqlwiT5Rz4bdK_w8aKQ0GMzRszdO2eqLVWgRnT3RcPuSS7UX03m",
+      "date": "2026-02-24",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-09871-2",
+      "title": "Nghị quyết số 1656/NQ-UBTVQH15 ngày 16 tháng 6 năm 2025 của Ủy ban Thường vụ Quốc hội về việc sắp xếp các đơn vị hành chính cấp xã của thành phố Hà Nội năm 2025",
+      "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf",
+      "date": "2026-06-30",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-09871-3",
+      "title": "Nghị quyết số 203/2025/QH15 ngày 16 tháng 6 năm 2025 của Quốc hội khóa XV, Kỳ họp thứ 9 về việc sửa đổi, bổ sung một số điều của Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam",
+      "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/nq-sua-doi-hien-phap.pdf",
+      "date": "",
+      "type": "wikipedia-ref"
+    }
+  ],
+  "note": "Trích tự động từ Wikipedia tiếng Việt (mode=table). Cần đối chiếu nghị quyết HĐND phường/xã.",
+  "tdp": [
+    {
+      "name": "Tổ dân phố 1",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Tổ dân phố 2",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "An Trai",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Đình",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Hậu Ái",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Kim Hòang",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Lại Yên 1",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Lại Yên 2",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Ngọai",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Nội",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Phương Bảng",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Phương Viên 1",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Phương Viên 2",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Quyết Tiến",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Tiền Lệ",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Yên Thái",
+      "type": "tổ dân phố"
+    }
+  ]
+}

@@ -1,0 +1,157 @@
+{{Thông tin đơn vị hành chính Việt Nam |Xã
+| tên = Quảng Bị
+| vĩ độ = 20.878628509040585
+| kinh độ = 105.69810088457712
+| diện tích = 37,14 km²
+| dân số = 62.968 người
+| thời điểm dân số = 2025
+| mật độ dân số ={{formatnum:{{#expr:floor({{formatnum:62.968| R}}/{{formatnum:37,14| R}})}} }} người/km² 
+| thành phố = [[Hà Nội]]
+|trụ sở UBND=Thôn Thái Hòa<ref>{{Chú thích web |url=https://storage-vnportal.vnpt.vn/gov-hni/6244/VanBan/2025/6/25/TB-729-2025.pdf |title=Thông báo số 729/TB-UBND ngày 25 tháng 6 năm 2025 của Ủy ban nhân dân thành phố Hà Nội về địa điểm trụ sở làm việc của 126 phường, xã sau sắp xếp thuộc phạm vi quản lý của thành phố Hà Nội|access-date=2026-06-15 |archive-date=2026-06-15 |archive-url=https://web.archive.org/web/20260615034519/https://storage-vnportal.vnpt.vn/gov-hni/6244/VanBan/2025/6/25/TB-729-2025.pdf |url-status=dead | website = Cổng Thông tin điện tử Ủy ban nhân dân thành phố Hà Nội}}</ref>|trụ sở Đảng ủy=Thôn Duyên Hòa|mã hành chính=10072<ref>{{Chú thích web |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/19ttg.signed.pdf |title=Quyết định số 19/2025/QĐ-TTg ngày 30 tháng 6 năm 2025 của Thủ tướng Chính phủ về việc Ban hành Bảng danh mục và mã số các đơn vị hành chính Việt Nam |access-date=2026-06-15 |archive-date=2026-06-15 |archive-url=https://web.archive.org/web/20260615034519/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/19ttg.signed.pdf |url-status=dead | website = Cổng Thông tin điện tử Chính phủ}}</ref>|web={{url|quangbi.hanoi.gov.vn}}|vùng=[[Đồng bằng sông Hồng]]|bản đồ 1={{maplink|frame=yes|plain=yes|type=shape|frame-width=280|frame-align=center|stroke-width=3}}}}
+
+'''Quảng Bị''' là một [[Xã (Việt Nam)|xã]] thuộc thành phố [[Hà Nội]], [[Việt Nam]].
+
+== Địa lý== 
+Xã Quảng Bị có vị trí địa lý:
+* Phía đông giáp xã [[Bình Minh, Hà Nội|Bình Minh]] và xã [[Thanh Oai (huyện)|Thanh Oai]] với ranh giới tự nhiên là [[sông Đáy]]
+* Phía tây giáp xã [[Phú Nghĩa, Hà Nội|Phú Nghĩa]] và xã [[Trần Phú, Hà Nội|Trần Phú]]
+* Phía nam giáp xã [[Hòa Phú, Hà Nội|Hòa Phú]]
+* Phía bắc giáp phường [[Chương Mỹ (phường)|Chương Mỹ]].<ref>{{Chú thích web |last=Viện nghiên cứu Phát triển kinh tế – xã hội Hà Nội |date=2025-07-02 |title=Xã Quảng Bị: Những thông tin chi tiết sau sắp xếp |url=https://hanoionline.vn/xa-quang-bi-nhung-thong-tin-chi-tiet-sau-sap-xep-344207.htm |url-status=live |archive-url=https://web.archive.org/web/20260804400809/https://hanoionline.vn/xa-quang-bi-nhung-thong-tin-chi-tiet-sau-sap-xep-344207.htm |archive-date=2026-08-04 |access-date=2026-08-04 |website=Cơ quan Báo và Phát thanh Truyền hình Hà Nội}}</ref><ref>{{Chú thích web |last=Cơ quan Báo và Phát thanh Truyền hình Hà Nội |date=2025-07-08 |title=Xã Quảng Bị: Tất cả thông tin chỉ dẫn bạn cần biết |url=https://hanoionline.vn/xa-quang-bi-tat-ca-thong-tin-chi-dan-ban-can-biet-345418.htm |url-status=dead |archive-url=https://web.archive.org/web/20250709012425/https://hanoionline.vn/xa-quang-bi-tat-ca-thong-tin-chi-dan-ban-can-biet-345418.htm |archive-date=2025-07-09 |access-date=2026-08-04 }}</ref>
+Xã Quảng Bị có diện tích tự nhiên là 37,14 km<sup>2</sup>, quy mô dân số năm 2025 là 62.968 người và mật độ dân số đạt 1.695 người/km<sup>2</sup>.<ref>{{Chú thích web |last=Mai Hữu |date=2026-04-05 |title=Hà Nội: Chi tiết phương án tổng thể sắp xếp đơn vị hành chính cấp xã |url=https://hanoimoi.vn/ha-noi-chi-tiet-phuong-an-tong-the-sap-xep-don-vi-hanh-chinh-cap-xa-700278.html |url-status=bot: unknown |archive-url=https://web.archive.org/web/20250710163328/https://hanoimoi.vn/ha-noi-chi-tiet-phuong-an-tong-the-sap-xep-don-vi-hanh-chinh-cap-xa-700278.html |archive-date=2025-07-10 |access-date=2026-07-11 |website=Cơ quan Báo và Phát thanh, truyền hình Hà Nội }}</ref><ref>Công văn số 2896/BNV-CQĐP ngày 27 tháng 5 năm 2025 của Bộ Nội vụ về việc cung cấp thông tin danh mục dự kiến đơn vị hành chính cấp xã mới.</ref>
+
+== Lịch sử==
+
+=== Trước năm 1976 ===
+Từ năm 1802 đến năm 1954, Quảng Bị là huyện lị của huyện Chương Mỹ. Đặc điểm này ảnh hưởng làm cho xã trở thành xã phát triển nhất của huyện, chỉ sau 2 thị trấn Chúc Sơn và Xuân Mai.
+
+=== Giai đoạn 1976 – nay ===
+Sau ngày 2 tháng 7 năm 1976, 5 xã: Hoàng Diệu, Hợp Đồng, Lam Điền, Quảng Bị và Tốt Động thuộc huyện [[Chương Mỹ (huyện)|Chương Mỹ]] của tỉnh [[Hà Sơn Bình]].
+
+Ngày 12 tháng 8 năm 1991, chia tỉnh [[Hà Sơn Bình]] thành 2 tỉnh, lấy tên là tỉnh [[Hòa Bình (tỉnh)|Hòa Bình]] và tỉnh [[Hà Tây (tỉnh)|Hà Tây]]. Khi đó, 5 xã: Hoàng Diệu, Hợp Đồng, Lam Điền, Quảng Bị và Tốt Động thuộc huyện [[Chương Mỹ (huyện)|Chương Mỹ]] của tỉnh [[Hà Tây (tỉnh)|Hà Tây]].<ref>Nghị quyết ngày 12 tháng 8 năm 1991 của Quốc hội khóa VIII, Kỳ họp thứ 9 về việc điều chỉnh địa giới hành chính một số tỉnh, thành phố trực thuộc Trung ương.</ref>
+
+Ngày 29 tháng 5 năm 2008, hợp nhất tỉnh [[Hà Tây (tỉnh)|Hà Tây]] vào thành phố [[Hà Nội]]. Khi đó, 5 xã: Hoàng Diệu, Hợp Đồng, Lam Điền, Quảng Bị và Tốt Động thuộc huyện [[Chương Mỹ (huyện)|Chương Mỹ]] của thành phố [[Hà Nội]].<ref>Nghị quyết số 15/2008/QH12 ngày 29 tháng 5 năm 2008 của Quốc hội khóa XII, Kỳ họp thứ 3 về việc điều chỉnh địa giới hành chính thành phố Hà Nội và một số tỉnh có liên quan.</ref>
+
+Ngày 16 tháng 6 năm 2025:
+
+* Kết thúc hoạt động của đơn vị hành chính cấp huyện trong cả nước.<ref>{{Chú thích web |last= |date= |title=Nghị quyết số 203/2025/QH15 ngày 16 tháng 6 năm 2025 của Quốc hội khóa XV, Kỳ họp thứ 9 về việc sửa đổi, bổ sung một số điều của Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/nq-sua-doi-hien-phap.pdf |url-status=live |archive-url=https://web.archive.org/web/20260613090807/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/nq-sua-doi-hien-phap.pdf |archive-date=2026-06-13 |access-date=2026-06-13 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+* Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của các xã Hoàng Diệu, Hợp Đồng, Quảng Bị, Tốt Động và phần còn lại của xã Lam Điền (huyện [[Chương Mỹ (huyện)|Chương Mỹ]]) thành xã mới có tên gọi là xã Quảng Bị.<ref>{{Chú thích web |title=Nghị quyết số 1656/NQ-UBTVQH15 ngày 16 tháng 6 năm 2025 của Ủy ban Thường vụ Quốc hội về việc sắp xếp các đơn vị hành chính cấp xã của thành phố Hà Nội năm 2025 |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf |url-status=bot: unknown |archive-url=https://web.archive.org/web/20260513110024/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf |archive-date=2026-05-13 |access-date=2026-06-30 |website=Cổng Thông tin điện tử Chính phủ }}</ref>
+* Sau khi sắp xếp, xã Quảng Bị được chia thành 31 thôn.<ref>6 thôn: An Hiền, Bài Trượng, Cốc Hạ, Cốc Thượng, Trại Hiền và Trại Trung của xã Hoàng Diệu cũ; 4 thôn: Đạo Ngạn, Đồng Du, Đồng Lệ và Thái Hòa của xã Hợp Đồng cũ; 4 thôn: 1, 2, 5 và Liên Hợp của xã Quảng Bị cũ; 12 thôn: Bến, Cả, Đầm, Đồng Dâu, Đừn, Giữa, Leo, Mát, Mới, Trại, Tròn và Và của xã Tốt Động cũ; 5 thôn: Duyên Ứng, Đại Từ, Lam Điền, Lương Xá và Ứng Hòa của xã Lam Điền cũ.</ref><ref>{{Chú thích web |title=Thông tư số 10/2022/TT-BTNMT ngày 29 tháng 9 năm 2022 của Bộ Tài nguyên và Môi trường về việc Ban hành Danh mục địa danh dân cư, sơn văn, thủy văn, kinh tế – xã hội phục vụ công tác thành lập bản đồ thành phố Hà Nội |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2022/10/10-btnmt.pdf |url-status=bot: unknown |archive-url=https://web.archive.org/web/20260630082812/https://datafiles.chinhphu.vn/cpp/files/vbpq/2022/10/10-btnmt.pdf |archive-date=2026-06-30 |access-date=2026-06-30 |website=Cổng Thông tin điện tử Chính phủ }}</ref><ref>{{Chú thích web |last=Minh Thân |date=2026-02-26 |title=Ủy ban bầu cử xã Quảng Bị công bố và niêm yết công khai danh sách chính thức 45 người ứng cử đại biểu HĐND xã nhiệm kỳ 2026 – 2031 |url=https://quangbi.hanoi.gov.vn/tin-tuc-su-kien/uy-ban-bau-cu-xa-quang-bi-da-cong-bo-va-niem-yet-cong-khai-danh-sach-chinh-thuc-45-nguoi-ung-cu-dai-bieu-hdnd-xa-nhiem-ky-2026-2031-2684260226182154662.htm?gidzl=T0doITsu52fm5lPFrwCT97iR-qJA_aeYPKtuGywlI7Co5wqIdAP9SJKVhXl9gXnwPK_xIpEVWDDIsBaGA0 |url-status=dead |archive-url=https://web.archive.org/web/20260805201510/https://quangbi.hanoi.gov.vn/tin-tuc-su-kien/uy-ban-bau-cu-xa-quang-bi-da-cong-bo-va-niem-yet-cong-khai-danh-sach-chinh-thuc-45-nguoi-ung-cu-dai-bieu-hdnd-xa-nhiem-ky-2026-2031-2684260226182154662.htm?gidzl=T0doITsu52fm5lPFrwCT97iR-qJA_aeYPKtuGywlI7Co5wqIdAP9SJKVhXl9gXnwPK_xIpEVWDDIsBaGA0 |archive-date=2026-08-05 |access-date=2026-08-05 |website=Trang Thông tin điện tử xã Quảng Bị – thành phố Hà Nội}}</ref>
+Ngày 26 tháng 6 năm 2026, thành lập 7 thôn mới: Yên Duyệt, Ninh Kiều, Tốt Động, An Hiền, Trung Hạ, Duyên Hòa và Thái Hòa; đổi tên thôn Trại thành thôn Tân Long.<ref>1. Thôn Yên Duyệt: Thành lập trên cơ sở sáp nhập thôn Mát, thôn Tròn, thôn Cả và thôn Mới; 2. Thôn Ninh Kiều: Thành lập trên cơ sở sáp nhập thôn Bến, thôn Đừn, thôn Đồng Dâu; 3. Thôn Tốt Động: Thành lập trên cơ sở sáp nhập thôn Và, thôn Leo, thôn Giữa, thôn Đầm; 4. Thôn An Hiền: Thành lập trên cơ sở sáp nhập thôn An Hiền và thôn Trại Hiền; 5. Thôn Trung Hạ: Thành lập trên cơ sở sáp nhập thôn Trại Trung và thôn Cốc Hạ; 6. Thôn Duyên Hòa: Thành lập trên cơ sở sáp nhập thôn Ứng Hòa và thôn Duyên Ứng; 7. Thôn Thái Hòa: Thành lập trên cơ sở sáp nhập thôn Thái Hòa và thôn Đồng Du; 8. Thôn Tân Long: Giữ nguyên hiện trạng, thay đổi tên gọi từ thôn Trại; 9. Thôn 1: Giữ nguyên; 10. Thôn 2: Giữ nguyên; 11. Thôn Liên Hợp: Giữ nguyên; 12. Thôn 5: Giữ nguyên; 13. Thôn Cốc Thượng: Giữ nguyên; 14. Thôn Bài Trượng: Giữ nguyên; 15. Thôn Lam Điền: Giữ nguyên; 16. Thôn Lương Xá: Giữ nguyên; 17. Thôn Đại Từ: Giữ nguyên; 18. Thôn Đồng Lệ: Giữ nguyên; 19. Thôn Đạo Ngạn: Giữ nguyên.</ref><ref name=":02">{{Chú thích web |last= |date= |title=Thông báo số 269/TB-UBND ngày 30 tháng 6 năm 2026 của Ủy ban nhân dân xã Quảng Bị về việc công khai Nghị quyết về sắp xếp, đặt tên, đổi tên thôn trên địa bàn xã Quảng Bị |url=https://sqhx-hanoi.mediacdn.vn/91579363132710912/2026/7/2/thong-bao-nq-sap-xep-thon-1782987257991528023477.pdf |url-status=dead |archive-url=https://web.archive.org/web/20260805201510/https://sqhx-hanoi.mediacdn.vn/91579363132710912/2026/7/2/thong-bao-nq-sap-xep-thon-1782987257991528023477.pdf |archive-date=2026-08-05 |access-date=2026-08-05 |website=Trang Thông tin điện tử xã Quảng Bị – thành phố Hà Nội}}</ref>
+
+== Hành chính == 
+Xã Quảng Bị được chia thành 19 thôn: 1, 2, 5, An Hiền, Bài Trượng, Cốc Thượng, Duyên Hòa, Đại Từ, Đạo Ngạn, Đồng Lệ, Lam Điền, Liên Hợp, Lương Xá, Ninh Kiều, Tân Long, Thái Hòa, Tốt Động, Trung Hạ và Yên Duyệt.<ref name=":02" />
+{| class="wikitable sortable" align="center" width="100%" cellspacing="6" cellpadding="0" style="background: #f9f9f9; border: 1px #aaa solid; margin-top: 16px"
+! colspan="4" style="background: #E6E6FA; font-size: 95%;" |Danh sách các thôn thuộc xã Quảng Bị<ref name=":02" />
+|-
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Thôn 1
+|861
+|-
+| align="left" |Thôn 2
+|778
+|-
+| align="left" |Thôn 5
+|751
+|-
+| align="left" |An Hiền
+|513
+|-
+| align="left" |Bài Trượng
+|569
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Cốc Thượng
+|657
+|-
+| align="left" |Duyên Hòa
+|944
+|-
+| align="left" |Đại Từ
+|537
+|-
+| align="left" |Đạo Ngạn
+|523
+|-
+| align="left" |Đồng Lệ
+|711
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Lam Điền
+|577
+|-
+| align="left" |Liên Hợp
+|750
+|-
+| align="left" |Lương Xá
+|722
+|-
+| align="left" |Ninh Kiều
+|710
+|-
+| align="left" |Tân Long
+|533
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Thái Hòa
+|605
+|-
+| align="left" |Tốt Động
+|957
+|-
+| align="left" |Trung Hạ
+|763
+|-
+| align="left" |Yên Duyệt
+|997
+|}
+|}
+
+== Xã hội ==
+Xã Quảng Bị một phần phía tây nam nằm trong vùng rốn lũ của thành phố Hà Nội. Vào mùa mưa bão, mỗi khi nước sông Bùi lên cao, thường xuyên bị ngập lụt nhất là khu vực Tốt Động, nước rút chậm nên ngụt lụt có thể kéo dài nhiều ngày.<ref>{{Chú thích web | last = Đô | first = Báo Tuổi Trẻ Thủ | title = Nhiều xã của huyện Chương Mỹ vẫn ngập trong nước | url = https://tuoitrethudo.vn/nhieu-xa-cua-huyen-chuong-my-van-ngap-trong-nuoc-259985.html | access-date = 2025-11-23 | website = Báo Tuổi Trẻ Thủ Đô | language = vi}}</ref>
+
+=== Làng nghề ===
+Nằm kề vùng rốn lũ nên sản xuất nông nghiệp trong mùa mưa bão thường xuyên chịu nhiều ảnh hưởng. Nhóm lao động tham gia kinh doanh, buôn bán phát triển tập trung nhiều ở các thôn Bến, Trại, Đừn, thôn 1, thôn 2. Toàn xã đã có 3 làng nghề được công nhận là Thái Hòa, Lam Điền, Bài Trượng thì đều là các làng nghề mây tre đan và mây tre giang đan xuất khẩu. Đến nay, hiện cả 3 làng nghề của xã hầu như không còn hoạt động và được đưa ra khỏi danh hiệu làng nghề truyền thống của thành phố Hà Nội.<ref>{{Chú thích web | last = nguoihanoi.vn | date = 2023-05-07 | title = Hà Nội rà soát, đề xuất đưa 29 làng nghề ra khỏi danh hiệu làng nghề truyền thống | url = https://nguoihanoi.vn/ha-noi-ra-soat-de-xuat-dua-29-lang-nghe-ra-khoi-danh-hieu-lang-nghe-truyen-thong-71669.html | access-date = 2025-11-23 | website = Tạp chí Người Hà Nội | language = vi}}</ref>
+
+== Văn hóa== 
+Xã Quảng Bị là vùng đất cổ có nhiều di tích trong đó có nhiều di tích đã được xếp hạng cấp quốc gia như: di tích đình Yên Duyệt, di tích đình Tốt Động, di tích Phủ từ Lương Xá, di tích Lăng mộ Lý Triện, di tích nhà thờ họ Đặng thôn Lương Xá.
+
+Nơi đây từng diễn ra [[Trận Tốt Động – Chúc Động]] giữa nghĩa quân Lam Sơn và quân Minh xâm lược.
+
+Nghệ thuật tuồng cổ tại thôn Cốc Thượng đã được thành phố Hà Nội đưa vào danh mục cần được bảo tồn. Bằng các hình thức truyền dạy, khuyến khích hoạt động, nhân rộng trong sinh hoạt cộng đồng.<ref>{{Chú thích web | last = đô | first = Báo Lao động thủ | title = Bài 2: Di sản văn hóa phi vật thể Hà Nội trong “cơn lốc” đô thị hóa | url = https://laodongthudo.vn/bai-2-di-san-van-hoa-phi-vat-the-ha-noi-trong-con-loc-do-thi-hoa-175100.html | access-date = 2025-11-23 | website = Báo Lao động thủ đô | language = vi}}</ref>
+
+== Danh nhân==
+
+* Đô đốc Đông Hầu [[Đặng Tiến Đông]] người làng Lương Xá.
+* [[Đặng Ma La]], người xóm Và - vị Thám hoa trẻ tuổi nhất Việt Nam.<ref>{{Chú thích web | last = Online | first = Báo Giáo dục và Thời đại | date = 2022-03-07 | title = Chuyện ít biết về vị Thám hoa trẻ nhất Việt Nam | url = https://giaoducthoidai.vn/chuyen-it-biet-ve-vi-tham-hoa-tre-nhat-viet-nam-post500067.html | access-date = 2025-11-23 | website = Báo Giáo dục và Thời đại Online | language = vi}}</ref>
+
+== Giao thông== 
+Các tuyến đường và hệ thống giao thông chính đi qua xã Quảng Bị:
+
+* Đường đê hữu Đáy: Quốc Oai - Chương Mỹ - Mỹ Đức...
+* Đường Chúc Sơn đi Ba Thá
+* Đường liên xã từ Chúc Sơn - Hữu Văn - Quốc lộ 21. Kết nối với quốc lộ 6 với vùng chậm lũ, Vôi Đá, Miếu Môn...
+* Đường sông: sông Đáy<ref>{{Chú thích web | last = Vũ | first = Hạ | date = 2024-03-15 | title = Toàn cảnh vị trí quy hoạch cầu vượt sông Đáy nối huyện Chương Mỹ - Thanh Oai, Hà Nội | url = https://giaoducthudo.giaoducthoidai.vn/toan-canh-vi-tri-quy-hoach-cau-vuot-song-day-noi-huyen-chuong-my-thanh-oai-ha-noi-134932.html | access-date = 2025-11-23 | website = Giáo dục thủ đô | language = vi}}</ref> (chủ yếu để tiêu thoát nước)
+* Hệ thống xe buýt: 102, 114, 124, HB22...
+
+== Chú thích== 
+{{tham khảo}}
+
+== Tham khảo ==
+{{sơ khai Hà Nội}}
+{{Đơn vị hành chính thuộc thành phố Hà Nội}}

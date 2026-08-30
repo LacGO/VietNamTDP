@@ -1,0 +1,64 @@
+{{Thông tin đơn vị hành chính Việt Nam| Xã
+| tên = An Bình
+| hình = 
+| ghi chú hình = 
+| vĩ độ = 20.451589364956906
+| kinh độ = 105.72339812194765
+| diện tích = 61,84 km²
+| dân số = 51.382 người
+| thời điểm dân số = 2025
+| mật độ dân số = {{formatnum:{{#expr:floor({{formatnum:51.382| R}}/{{formatnum:61,84| R}})}} }} người/km²
+| vùng = [[Đông Bắc Bộ]]
+| tỉnh = [[Phú Thọ]]
+| thành lập = 16 tháng 6 năm 2025<ref>Nghị quyết số 1676/NQ-UBTVQH15</ref>
+| trụ sở UBND = Thôn Chợ Đập
+| mã hành chính = 
+| mã bưu chính = 
+|web= {{url|anbinh.phutho.gov.vn}}
+}}
+{{other|An Bình (định hướng)}}
+'''An Bình''' là một [[Xã (Việt Nam)|xã]] thuộc tỉnh [[Phú Thọ]], [[Việt Nam]].
+
+== Địa lý ==
+Xã An Bình nằm ở phía Đông Nam của tỉnh Phú Thọ, có vị trí địa lý<ref>{{Chú thích web |title=Đơn vị hành chính Việt Nam |url=https://sapnhap.bando.com.vn/ |access-date=2026-04-14 |website=sapnhap.bando.com.vn}}</ref>:
+
+* Phía Bắc giáp xã [[Dũng Tiến]] và xã [[An Nghĩa]].
+* Phía Nam giáp xã [[Phú Sơn]] (thuộc tỉnh [[Ninh Bình]]).
+* Phía Đông giáp xã [[Gia Lâm, Ninh Bình|Gia Lâm]], [[Gia Tường]] (thuộc tỉnh [[Ninh Bình]]) và xã [[Lạc Thủy (xã)|Lạc Thủy]].
+* Phía Tây giáp xã [[Lạc Lương]] và xã [[Yên Trị, Phú Thọ|Yên Trị]].
+
+Xã có diện tích tự nhiên là 61,84&nbsp;km², quy mô dân số là 51.382 người, mật độ dân số là 831 người/km².<ref>{{Chú thích web |title=An Bình, Phú Thọ |url=https://vndatabase.com/vi/tinh-thanh/phu-tho/xa-an-binh |access-date=2026-04-14 |website=VNDatabase |language=vi}}</ref>
+
+==Hành chính==
+Xã An Bình được chia thành 37 thôn: An Phú, An Sơn 2, Cây Rường, Chín, Chợ Đập, Cui, Cú Đẻ, Đại Đồng, Đồng Bầu, Đồng Bông, Đồng Rặt, Đồng Vạn, Đồng Huống, Đức Bình, Đừng, Hợp Thành, Khoang, Liên Ba, Liên Hồng, Liên Phú, Liên Phú 3, Mán, Măng, Minh Thành, Niếng, Ninh Ngoại, Ninh Nội, Phú Tường, Tám, Tân Thành, Thắng Lợi, Thơi, Tiên Lữ, Trâm, Voi, Vỏ, Vôn.<ref name=":1">{{Chú thích web |last=Bộ Dân tộc và Tôn giáo |date=2026-01-29 |title=Danh sách Thôn vùng đồng bào dân tộc thiểu số và miền núi, thôn đặc biệt khó khăn giai đoạn 2026 - 2030 trên địa bàn tỉnh Phú Thọ |url=http://files.ubdt.gov.vn/files/ecm/source_files/2026/02/05/11252411_4.%20Ph%C3%BA%20Th%E1%BB%8D%201%20(th%C3%B4n).signed_26-02-05.pdf |url-status=live |archive-url=https://web.archive.org/web/20260417090807/http://files.ubdt.gov.vn/files/ecm/source_files/2026/02/05/11252411_4.%20Ph%C3%BA%20Th%E1%BB%8D%201%20(th%C3%B4n).signed_26-02-05.pdf |archive-date=2026-04-17 |access-date=2026-04-17 |website=Cổng Thông tin điện tử Bộ Dân tộc và Tôn giáo}}</ref><ref>{{Chú thích web |last=Trung tâm Dịch vụ sự nghiệp công xã An Bình - tỉnh Phú Thọ |date=2026-03-12 |title=Bầu cử đại biểu Hội đồng nhân dân xã An Bình tỉnh Phú Thọ nhiệm kỳ 2026 - 2031 - 5 đơn vị bầu cử của xã An Bình |url=https://web.facebook.com/story.php?story_fbid=122142804663045774&id=61581373233523&rdid=iSrvjrNHSub2BM6c# |url-status=live |archive-url=https://web.archive.org/web/20260418090807/https://web.facebook.com/story.php?story_fbid=122142804663045774&id=61581373233523&rdid=iSrvjrNHSub2BM6c# |archive-date=2026-04-18 |access-date=2026-04-18}}</ref>
+
+==Lịch sử==
+Địa bàn xã An Bình hiện nay trước đây vốn là ba xã: Hưng Thi, Thống Nhất, An Bình thuộc huyện [[Lạc Thủy (huyện)|Lạc Thủy]], tỉnh [[Hòa Bình (tỉnh)|Hòa Bình]] cũ.
+
+Trước khi sáp nhập năm 2019, xã Thống Nhất là địa bàn của các xã:
+
+* Xã An Lạc có diện tích 24,01&nbsp;km², dân số là 2.717 người, mật độ dân số đạt 113 người/km², có 8 thôn: Liên Phú 1, Liên Phú 2, Liên Phú 3, An Phú, Tân Thành, Minh Thành, Minh Hải, Lộc Thành.
+* Xã Đồng Môn có diện tích 19,32&nbsp;km², dân số là 1.400 người, mật độ dân số đạt 72 người/km².
+* Xã Liên Hòa có diện tích 14,65&nbsp;km², dân số là 1.751 người, mật độ dân số đạt 120 người/km².
+
+Ngày [[17 tháng 12]] năm [[2019]], [[Ủy ban Thường vụ Quốc hội]] ban hành Nghị quyết số 830/NQ-UBTVQH14 về việc sắp xếp các đơn vị hành chính cấp huyện, cấp xã thuộc tỉnh Hòa Bình (nghị quyết có hiệu lực từ ngày [[1 tháng 1]] năm [[2020]]).<ref name="NQ830">Nghị quyết số 830/NQ-UBTVQH14 năm 2019 về việc sắp xếp các đơn vị hành chính cấp huyện, cấp xã thuộc tỉnh Hòa Bình</ref> Theo đó, sáp nhập toàn bộ diện tích và dân số của ba xã An Lạc, Đồng Môn và Liên Hòa thành xã Thống Nhất.
+
+Ngày [[12 tháng 6]] năm [[2025]], [[Quốc hội Việt Nam|Quốc hội]] ban hành Nghị quyết số 202/2025/QH15 về việc sắp xếp đơn vị hành chính cấp tỉnh (nghị quyết có hiệu lực từ ngày [[12 tháng 6]] năm [[2025]]).<ref>{{Chú thích web |last=xaydungchinhsach.chinhphu.vn |date=2025-07-16 |title=TOÀN VĂN: Nghị quyết số 202/2025/QH15 về sắp xếp đơn vị hành chính cấp tỉnh |url=https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-202-2025-qh15-ve-sap-xep-don-vi-hanh-chinh-cap-tinh-119250612174148722.htm |url-status=live |archive-url=http://web.archive.org/web/20260705025431/https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-202-2025-qh15-ve-sap-xep-don-vi-hanh-chinh-cap-tinh-119250612174148722.htm |archive-date=2026-07-05 |access-date=2026-07-25 |website=Báo Điện tử Chính phủ |language=vi}}</ref> Theo đó, sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của tỉnh [[Vĩnh Phúc (tỉnh)|Vĩnh Phúc]], tỉnh [[Hòa Bình (tỉnh)|Hòa Bình]] và tỉnh [[Phú Thọ]] thành tỉnh mới có tên gọi là tỉnh '''Phú Thọ'''.
+
+Ngày [[16 tháng 6]] năm [[2025]]:
+
+* Quốc hội ban hành Nghị quyết số 203/2025/QH15 về việc sửa đổi, bổ sung một số điều của Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam (nghị quyết có hiệu lực từ ngày [[16 tháng 6]] năm [[2025]]).<ref>{{Chú thích web |last=xaydungchinhsach.chinhphu.vn |date=2025-06-28 |title=NGHỊ QUYẾT 203/2025/QH15 SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA HIẾN PHÁP NƯỚC CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM |url=https://xaydungchinhsach.chinhphu.vn/nghi-quyet-203-2025-qh15-sua-doi-bo-sung-mot-so-dieu-cua-hien-phap-nuoc-cong-hoa-xa-hoi-chu-nghia-viet-nam-119250616181735552.htm |url-status=live |archive-url=http://web.archive.org/web/20260715200606/https://xaydungchinhsach.chinhphu.vn/nghi-quyet-203-2025-qh15-sua-doi-bo-sung-mot-so-dieu-cua-hien-phap-nuoc-cong-hoa-xa-hoi-chu-nghia-viet-nam-119250616181735552.htm |archive-date=2026-07-15 |access-date=2026-07-15 |website=Báo Điện tử Chính phủ |language=vi}}</ref> Theo đó, kết thúc hoạt động của đơn vị hành chính cấp huyện trong cả nước từ ngày 1 tháng 7 năm 2025.
+* [[Ủy ban Thường vụ Quốc hội]] ban hành Nghị quyết số 1676/NQ-UBTVQH15 về việc sắp xếp đơn vị hành chính cấp xã của tỉnh [[Phú Thọ]] năm 2025 (nghị quyết có hiệu lực từ ngày [[16 tháng 6]] năm [[2025]]).<ref>{{Chú thích web |last=xaydungchinhsach.chinhphu.vn |date=2025-06-20 |title=Nghị quyết số 1676/NQ-UBTVQH15 sắp xếp các ĐVHC cấp xã của tỉnh Phú Thọ năm 2025 |url=https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-1676-nq-ubtvqh15-sap-xep-cac-dvhc-cap-xa-cua-tinh-phu-tho-nam-2025-119250616204317326.htm |url-status=live |archive-url=http://web.archive.org/web/20260725082021/https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-1676-nq-ubtvqh15-sap-xep-cac-dvhc-cap-xa-cua-tinh-phu-tho-nam-2025-119250616204317326.htm |archive-date=2026-07-25 |access-date=2025-09-07 |website=Báo Điện tử Chính phủ |language=vi}}</ref> Theo đó, sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của các xã Hưng Thi, Thống Nhất và An Bình thành xã mới có tên gọi là '''xã An Bình'''.
+
+==Giao thông ==
+Xã này là điểm kết thúc của đường [[Quốc lộ 37C]] (nối Ý Yên - Gián Khẩu - Nho Quan - đường Hồ Chí Minh).
+==Kinh tế==
+Nghề nghiệp chủ yếu củ người dân là trồng rừng, sản xuất gỗ công nghiệp thô, chăn nuôi gia súc gia cầm. Đặc biệt xã An Bình nổi tiếng với giống [[gà Lạc Thủy]].
+
+==Chú thích==
+{{tham khảo|30em}}
+
+==Tham khảo==
+
+{{sơ khai Phú Thọ}}
+{{Đơn vị hành chính thuộc tỉnh Phú Thọ}}

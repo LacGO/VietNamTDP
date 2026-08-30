@@ -1,0 +1,120 @@
+{
+  "ward_code": "09043",
+  "ward_name": "Tam Hồng",
+  "province_code": "25",
+  "resolution": "",
+  "arrangement": "truoc_2026_07",
+  "effective_date": "",
+  "verified": "unverified",
+  "extraction": {
+    "source": "vi.wikipedia.org",
+    "title": "Tam Hồng",
+    "mode": "narrative"
+  },
+  "sources": [
+    {
+      "key": "wiki-09043-1",
+      "title": "Nghị quyết số 111/2025/UBTVQH15 về phân loại đô thị",
+      "url": "https://xaydungchinhsach.chinhphu.vn/nghi-quyet-so-111-2025-ubtvqh15-ve-phan-loai-do-thi-119260101170432239.htm",
+      "date": "2026-01-21",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-09043-2",
+      "title": "Tiểu sử tóm tắt các ứng cử viên ứng cử đại biểu Hội đồng nhân dân xã Tam Hồng khóa II, nhiệm kỳ 2026 - 2031",
+      "url": "https://www.facebook.com/story.php?story_fbid=122129391633006156&id=61580184704728&rdid=j9tnINjvlzb3STeB#",
+      "date": "2026-03-10",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-09043-3",
+      "title": "TOÀN VĂN: Nghị quyết số 202/2025/QH15 về sắp xếp đơn vị hành chính cấp tỉnh",
+      "url": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-202-2025-qh15-ve-sap-xep-don-vi-hanh-chinh-cap-tinh-119250612174148722.htm",
+      "date": "2025-07-16",
+      "type": "wikipedia-ref"
+    }
+  ],
+  "note": "Trích tự động từ Wikipedia tiếng Việt (mode=narrative). Cần đối chiếu nghị quyết HĐND phường/xã. ⚠️ Danh mục có thể là hiện trạng TRƯỚC sắp xếp thôn/TDP 01/7/2026 — Wikipedia chưa cập nhật nghị quyết mới.",
+  "tdp": [
+    {
+      "name": "Bàng Mới",
+      "type": "thôn"
+    },
+    {
+      "name": "Bình Lâm",
+      "type": "thôn"
+    },
+    {
+      "name": "Chùa",
+      "type": "thôn"
+    },
+    {
+      "name": "Đình",
+      "type": "thôn"
+    },
+    {
+      "name": "Đình Chợ",
+      "type": "thôn"
+    },
+    {
+      "name": "Đông Mẫu",
+      "type": "thôn"
+    },
+    {
+      "name": "Đông Nam",
+      "type": "thôn"
+    },
+    {
+      "name": "Gia",
+      "type": "thôn"
+    },
+    {
+      "name": "Lâm Xuyên 1",
+      "type": "thôn"
+    },
+    {
+      "name": "Lâm Xuyên 2",
+      "type": "thôn"
+    },
+    {
+      "name": "Lâm Xuyên 3",
+      "type": "thôn"
+    },
+    {
+      "name": "Lũng Thượng",
+      "type": "thôn"
+    },
+    {
+      "name": "Miễu",
+      "type": "thôn"
+    },
+    {
+      "name": "Mới",
+      "type": "thôn"
+    },
+    {
+      "name": "Nho Lâm",
+      "type": "thôn"
+    },
+    {
+      "name": "Phù Lưu",
+      "type": "thôn"
+    },
+    {
+      "name": "Tảo Phú",
+      "type": "thôn"
+    },
+    {
+      "name": "Trại Lớn",
+      "type": "thôn"
+    },
+    {
+      "name": "Yên Nghiệp",
+      "type": "thôn"
+    },
+    {
+      "name": "Yên Tâm",
+      "type": "thôn"
+    }
+  ]
+}

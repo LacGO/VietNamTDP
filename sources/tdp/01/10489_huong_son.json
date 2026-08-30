@@ -1,0 +1,96 @@
+{
+  "ward_code": "10489",
+  "ward_name": "Hương Sơn",
+  "province_code": "01",
+  "resolution": "",
+  "arrangement": "2026_07",
+  "effective_date": "2026-07-01",
+  "verified": "unverified",
+  "extraction": {
+    "source": "vi.wikipedia.org",
+    "title": "(cache)",
+    "mode": "table"
+  },
+  "sources": [
+    {
+      "key": "wiki-10489-1",
+      "title": "Kỳ họp thứ 3 Hội đồng nhân dân xã Hương Sơn khóa XXI: Xem xét, quyết định nhiều nội dung quan trọng",
+      "url": "https://huongson.hanoi.gov.vn/tin-tuc-su-kien/ky-hop-thu-3-hdnd-xa-huong-son-khoa-xxi-xem-xet-quyet-dinh-nhieu-noi-dung-quan-trong-2711260629171045062.htm",
+      "date": "2026-06-29",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-10489-2",
+      "title": "Nghị quyết số 1656/NQ-UBTVQH15 ngày 16 tháng 6 năm 2025 của Ủy ban Thường vụ Quốc hội về việc sắp xếp các đơn vị hành chính cấp xã của thành phố Hà Nội năm 2025",
+      "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf",
+      "date": "2026-06-30",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-10489-3",
+      "title": "Đề án sắp xếp thôn trên địa bàn xã Hương Sơn",
+      "url": "https://huongson.hanoi.gov.vn/tin-tuc-su-kien/de-an-sap-xep-thon-tren-dia-ban-xa-huong-son-27112606150822395.htm",
+      "date": "2026-06-12",
+      "type": "wikipedia-ref"
+    }
+  ],
+  "note": "Trích tự động từ Wikipedia tiếng Việt (mode=table). Cần đối chiếu nghị quyết HĐND phường/xã.",
+  "tdp": [
+    {
+      "name": "An Thắng",
+      "type": "thôn"
+    },
+    {
+      "name": "Đông Bình",
+      "type": "thôn"
+    },
+    {
+      "name": "Đốc Tín",
+      "type": "thôn"
+    },
+    {
+      "name": "Đục Khê",
+      "type": "thôn"
+    },
+    {
+      "name": "Hội Xá",
+      "type": "thôn"
+    },
+    {
+      "name": "Hưng An",
+      "type": "thôn"
+    },
+    {
+      "name": "Kim Bôi",
+      "type": "thôn"
+    },
+    {
+      "name": "Mỹ Hà",
+      "type": "thôn"
+    },
+    {
+      "name": "Mỹ Hiền",
+      "type": "thôn"
+    },
+    {
+      "name": "Phú Yên",
+      "type": "thôn"
+    },
+    {
+      "name": "Tiên Mai",
+      "type": "thôn"
+    },
+    {
+      "name": "Trung Tuyết",
+      "type": "thôn"
+    },
+    {
+      "name": "Vạn Phúc",
+      "type": "thôn"
+    },
+    {
+      "name": "Yến Vỹ",
+      "type": "thôn"
+    }
+  ]
+}

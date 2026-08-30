@@ -1,0 +1,64 @@
+{{Thông tin đơn vị hành chính Việt Nam | xã
+| tên = Đông Thành
+| hình = 
+| ghi chú hình = 
+| vĩ độ =21.454379062027943
+| kinh độ = 105.21264548012753
+| diện tích = 130,94 km²<ref name=MS/>
+| dân số = 27.169 người<ref name=MS/>
+| thời điểm dân số = 2025
+| mật độ dân số = {{formatnum:{{#expr:floor({{formatnum:27.169| R}}/{{formatnum:130,94| R}})}} }} người/km²
+| vùng = [[Đông Bắc Bộ]]
+| tỉnh = [[Phú Thọ]]
+| thành lập =16 tháng 6 năm 2025<ref>Nghị quyết số 1676/NQ-UBTVQH15</ref> 
+| trụ sở UBND = 
+| mã hành chính = 08209<ref>{{Chú thích web |url=https://danhmuchanhchinh.gso.gov.vn/ |title=Tổng cục Thống kê |access-date=2022-04-09 |archive-date=2021-01-10 |archive-url=https://web.archive.org/web/20210110034519/https://www.gso.gov.vn/phuong-phap-thong-ke/danh-muc/don-vi-hanh-chinh/ |url-status=dead }}</ref>
+| mã bưu chính = 
+|web={{url|dongthanh.phutho.gov.vn}}
+}}
+{{other|Đông Thành (định hướng)}}
+'''Đông Thành''' là một [[Xã (Việt Nam)|xã]] thuộc tỉnh [[Phú Thọ]], [[Việt Nam]].
+
+== Địa lý ==
+Xã Đông Thành nằm ở phía Bắc tỉnh [[Phú Thọ]], cách phường [[Việt Trì (phường)|Việt Trì]] 25&nbsp;km về phía Tây Bắc, có vị trí địa lý:
+
+* Phía Bắc giáp xã [[Quảng Yên, Phú Thọ|Quảng Yên]].
+* Phía Nam giáp phường [[Âu Cơ (phường)|Âu Cơ]].
+* Phía Tây giáp xã [[Hoàng Cương (xã)|Hoàng Cương]] và xã [[Chí Tiên, Phú Thọ|Chí Tiên]].
+* Phía Đông giáp xã [[Trạm Thản]] và phường [[Phú Thọ, Phú Thọ|Phú Thọ]].
+
+Xã Đông Thành có diện tích 130,94&nbsp;km², dân số năm 2025 là 27.169 người, mật độ dân số đạt 207 người/km².
+
+== Hành chính ==
+Xã Đông Thành hiện nay được chia thành 40 khu: 1 Đông Thành, 2 Đông Thành, 3 Đông Thành, 4 Đông Thành, 5 Đông Thành, 6 Đông Thành, 7 Đông Thành, 8 Đông Thành, 9 Đông Thành, 10 Đông Thành, 11 Đông Thành, 12 Đông Thành, 13 Đông Thành, 14 Đông Thành, 15 Đông Thành, 16 Đông Thành, 17 Đông Thành, 1 Khải Xuân, 2 Khải Xuân, 3 Khải Xuân, 4 Khải Xuân, 5 Khải Xuân, 6 Khải Xuân, 7 Khải Xuân, 8 Khải Xuân, 9 Khải Xuân, 10 Khải Xuân, 11 Khải Xuân, 12 Khải Xuân, 1 Võ Lao, 2 Võ Lao, 3 Võ Lao, 4 Võ Lao, 5 Võ Lao, 6 Võ Lao, 7 Võ Lao, 8 Võ Lao, 9 Võ Lao, 10 Võ Lao, 11 Võ Lao.<ref name=":1">{{Chú thích web |last=Bộ Dân tộc và Tôn giáo |date=2026-01-29 |title=Danh sách Thôn vùng đồng bào dân tộc thiểu số và miền núi, thôn đặc biệt khó khăn giai đoạn 2026 - 2030 trên địa bàn tỉnh Phú Thọ
+
+|url=https://baophutho.vn/dong-thanh-phat-huy-tiem-nang-thuc-day-tang-truong-ben-vung-253094.htm
+|url=http://files.ubdt.gov.vn/files/ecm/source_files/2026/02/05/11252411_4.%20Ph%C3%BA%20Th%E1%BB%8D%201%20(th%C3%B4n).signed_26-02-05.pdf |url-status=live |archive-url=https://web.archive.org/web/20260417090807/http://files.ubdt.gov.vn/files/ecm/source_files/2026/02/05/11252411_4.%20Ph%C3%BA%20Th%E1%BB%8D%201%20(th%C3%B4n).signed_26-02-05.pdf |archive-date=2026-04-17 |access-date=2026-04-17 |website=Cổng Thông tin điện tử Bộ Dân tộc và Tôn giáo}}</ref><ref>{{Chú thích web |last=Ủy ban bầu cử xã Đông Thành |date=2026-02-13 |title=Nghị quyết số 1/NQ-UBBC về việc công bố danh sách những người ứng cử đại biểu Hội đồng nhân dân xã Đông Thành khóa XXV, nhiệm kỳ 2026 - 2031 theo từng đơn vị bầu cử |url=https://dongthanh.phutho.gov.vn/phocadownload/NQ%20cong%20bo%20DS%20nhung%20nguoi%20ung%20cu%20dai%20bieu%20QH%20vaf%20HDND%20cac%20cap_0001_compressed.pdf |url-status=live |archive-url=https://web.archive.org/web/20260420090807/https://dongthanh.phutho.gov.vn/phocadownload/NQ%20cong%20bo%20DS%20nhung%20nguoi%20ung%20cu%20dai%20bieu%20QH%20vaf%20HDND%20cac%20cap_0001_compressed.pdf |archive-date=2026-04-20 |access-date=2026-04-20 |website=Trang Thông tin điện tử xã Đông Thành - tỉnh Phú Thọ}}</ref>
+
+==Lịch sử==
+Trước kia, Đông Thành là một xã thuộc huyện [[Thanh Ba (huyện)|Thanh Ba]] cũ.
+
+Ngày [[16 tháng 6]] năm [[2025]]:
+
+* [[Quốc hội Việt Nam|Quốc hội]] ban hành Nghị quyết số 203/2025/QH15 về việc sửa đổi, bổ sung một số điều của Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam (nghị quyết có hiệu lực từ ngày [[16 tháng 6]] năm [[2025]]).<ref>{{Chú thích web |last=xaydungchinhsach.chinhphu.vn |date=2025-06-28 |title=NGHỊ QUYẾT 203/2025/QH15 SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA HIẾN PHÁP NƯỚC CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM |url=https://xaydungchinhsach.chinhphu.vn/nghi-quyet-203-2025-qh15-sua-doi-bo-sung-mot-so-dieu-cua-hien-phap-nuoc-cong-hoa-xa-hoi-chu-nghia-viet-nam-119250616181735552.htm |url-status=live |archive-url=http://web.archive.org/web/20260715200606/https://xaydungchinhsach.chinhphu.vn/nghi-quyet-203-2025-qh15-sua-doi-bo-sung-mot-so-dieu-cua-hien-phap-nuoc-cong-hoa-xa-hoi-chu-nghia-viet-nam-119250616181735552.htm |archive-date=2026-07-15 |access-date=2026-07-15 |website=Báo Điện tử Chính phủ |language=vi}}</ref> Theo đó, kết thúc hoạt động của đơn vị hành chính cấp huyện trong cả nước từ ngày 1 tháng 7 năm 2025.
+* [[Ủy ban Thường vụ Quốc hội]] ban hành Nghị quyết số 1676/NQ-UBTVQH15 về việc sắp xếp đơn vị hành chính cấp xã của tỉnh [[Phú Thọ]] năm 2025 (nghị quyết có hiệu lực từ ngày [[16 tháng 6]] năm [[2025]]).<ref>{{Chú thích web |last=xaydungchinhsach.chinhphu.vn |date=2025-06-20 |title=Nghị quyết số 1676/NQ-UBTVQH15 sắp xếp các ĐVHC cấp xã của tỉnh Phú Thọ năm 2025 |url=https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-1676-nq-ubtvqh15-sap-xep-cac-dvhc-cap-xa-cua-tinh-phu-tho-nam-2025-119250616204317326.htm |url-status=live |archive-url=http://web.archive.org/web/20260725082021/https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-1676-nq-ubtvqh15-sap-xep-cac-dvhc-cap-xa-cua-tinh-phu-tho-nam-2025-119250616204317326.htm |archive-date=2026-07-25 |access-date=2026-07-27 |website=Báo Điện tử Chính phủ |language=vi}}</ref> Theo đó, sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của các xã Võ Lao, Khải Xuân và Đông Thành thành xã mới có tên gọi là '''xã Đông Thành'''.
+
+== Văn hóa ==
+
+=== Đình Đông Thượng ===
+Đình Đông Thượng là di tích nổi tiếng ở Đông Thành; được xây dựng từ lâu đời, thờ 4 vị đại vương, trong đó 2 vị là Tuấn công và Hiển công thời vua Hùng Duệ Vương và 2 vị đại vương họ Vi là Thỏa Kỳ Đô hộ thông minh Nẫm ứng đại vương và Trung quân Chính trực dũng lược Hùng đoán đại vương. Đây là 2 vị [[tướng nhà Đinh]] họ Vi Đông Thành có công giúp [[Đinh Bộ Lĩnh]] dẹp [[loạn 12 sứ quân]] vào thời nhà Đinh thế kỷ thứ X.<ref>{{Chú thích web |url=http://baophutho.vn/dat-nguoi-phu-tho/201204/dinh-dong-thuong-chua-minh-linh-di-san-van-hoa-o-dong-thanh-14112 |ngày truy cập=2017-09-10 |tựa đề=Đình Đông Thượng, chùa Minh Linh - di sản văn hóa ở Đông Thành |archive-date=2019-04-25 |archive-url=https://web.archive.org/web/20190425221439/http://baophutho.vn/dat-nguoi-phu-tho/201204/dinh-dong-thuong-chua-minh-linh-di-san-van-hoa-o-dong-thanh-14112 |url-status=dead }}</ref> Theo thần tích xã Yên Bình thuộc tổng Yên Lành, huyện Thanh Ba, tỉnh Phú Thọ, do Nguyễn Bính soạn năm 1572 thì đây là hai anh em song sinh là Nỗi Cả (Nỗi Cả Đô Hộ Đại Vương) và Trung Quân (Trung Quân Trực Dũng Đại Vương), có công dẹp [[loạn 12 sứ quân]] thời [[Đinh Bộ Lĩnh]].
+
+=== Đình Chẻm ===
+Đình Chẻm là một di sản văn hóa tiêu biểu. Nơi đây thờ Thánh Mẫu Xuân Dung - chính cung Hoàng hậu và hai người con trai của Vua Hùng thứ 17 (tức Hùng Nghị Vương) đó là: Đông Hải Ất sơn, Bảo Ninh Bảo quốc, những vị Thần đã có công phù trợ các Vua Hùng khai thiên dựng nước từ buổi bình minh của dân tộc Việt Nam.
+Do những công lao to lớn trong công cuộc dựng nước, các vị đã được Vua Hùng sắc phong tôn hiệu là Diên Hy Bạch Trác Hoằng Hiệp Trác Vĩ Đông hải Thượng đẳng Thần, về sau được dân làng Khải Xuân suy tôn làm Thành hoàng làng, các triều đại phong kiến sau này tiếp tục xuống chiếu phong Thần, giao cho dân làng Khải Xuân phụng thờ hương khói để tỏ lòng tri ân với tổ tiên và các bậc tiền bối đã có công dựng nước và giữ nước.
+
+== Giao thông ==
+Địa bàn xã có [[đường cao tốc Nội Bài – Lào Cai]] chạy qua.
+
+==Chú thích==
+{{tham khảo|30em}}
+
+==Tham khảo==
+
+{{sơ khai Phú Thọ}}
+{{Đơn vị hành chính thuộc tỉnh Phú Thọ}}

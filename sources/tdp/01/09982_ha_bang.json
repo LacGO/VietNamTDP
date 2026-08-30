@@ -1,0 +1,92 @@
+{
+  "ward_code": "09982",
+  "ward_name": "Hạ Bằng",
+  "province_code": "01",
+  "resolution": "",
+  "arrangement": "truoc_2026_07",
+  "effective_date": "",
+  "verified": "unverified",
+  "extraction": {
+    "source": "vi.wikipedia.org",
+    "title": "(cache)",
+    "mode": "table"
+  },
+  "sources": [
+    {
+      "key": "wiki-09982-1",
+      "title": "Hội đồng nhân dân xã Hạ Bằng thông qua 10 nghị quyết, định hướng phát triển 6 tháng cuối năm 2026",
+      "url": "https://hanoimoi.vn/hdnd-xa-ha-bang-thong-qua-10-nghi-quyet-dinh-huong-phat-trien-6-thang-cuoi-nam-2026-1209314.html?gidzl=FGYFDHFWZXav5uip6VkE638JWZ04_eSTA46ACmQktnqhJzmo1FVT6Yj8spK1fujA8KYFRsKOsJGT5k6A6m",
+      "date": "2026-06-26",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-09982-2",
+      "title": "Nghị quyết số 1656/NQ-UBTVQH15 ngày 16 tháng 6 năm 2025 của Ủy ban Thường vụ Quốc hội về việc sắp xếp các đơn vị hành chính cấp xã của thành phố Hà Nội năm 2025",
+      "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf",
+      "date": "2026-05-13",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-09982-3",
+      "title": "Danh sách chính thức những người ứng cử đại biểu Hội đồng nhân dân xã Hạ Bằng nhiệm kỳ 2026 – 2031 theo từng đơn vị bầu cử",
+      "url": "https://web.facebook.com/story.php?story_fbid=122176317620925980&id=61577779402625&rdid=0R25PV1E74MVg4yp#",
+      "date": "2026-02-26",
+      "type": "wikipedia-ref"
+    }
+  ],
+  "note": "Trích tự động từ Wikipedia tiếng Việt (mode=table). Cần đối chiếu nghị quyết HĐND phường/xã. ⚠️ Danh mục có thể là hiện trạng TRƯỚC sắp xếp thôn/TDP 01/7/2026 — Wikipedia chưa cập nhật nghị quyết mới.",
+  "tdp": [
+    {
+      "name": "Bình Yên 1",
+      "type": "thôn"
+    },
+    {
+      "name": "Bình Yên 2",
+      "type": "thôn"
+    },
+    {
+      "name": "Bình Yên 3",
+      "type": "thôn"
+    },
+    {
+      "name": "Bình Yên 4",
+      "type": "thôn"
+    },
+    {
+      "name": "Cần Kiệm 1",
+      "type": "thôn"
+    },
+    {
+      "name": "Cần Kiệm 2",
+      "type": "thôn"
+    },
+    {
+      "name": "Cần Kiệm 3",
+      "type": "thôn"
+    },
+    {
+      "name": "Đồng Trúc 1",
+      "type": "thôn"
+    },
+    {
+      "name": "Đồng Trúc 2",
+      "type": "thôn"
+    },
+    {
+      "name": "Hạ Bằng 1",
+      "type": "thôn"
+    },
+    {
+      "name": "Hạ Bằng 2",
+      "type": "thôn"
+    },
+    {
+      "name": "Tân Xã 1",
+      "type": "thôn"
+    },
+    {
+      "name": "Tân Xã 2",
+      "type": "thôn"
+    }
+  ]
+}

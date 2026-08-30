@@ -1,0 +1,92 @@
+{{Thông tin đơn vị hành chính Việt Nam |Xã
+| tên = Thổ Tang
+| hình =Dinh tho tang.jpg 
+| ghi chú hình =[[Đình Thổ Tang]] 
+| vĩ độ = 21.254184770771115
+| kinh độ = 105.49447203050529
+| diện tích = 21,30 km²
+| dân số = 43.208 người
+| thời điểm dân số = 2025
+| mật độ dân số = {{formatnum:{{#expr:floor({{formatnum:43.208| R}}/{{formatnum:21,30| R}})}} }} người/km²
+| vùng = [[Đông Bắc Bộ]]
+| tỉnh = [[Phú Thọ]]
+| thành lập = *2007<ref name=ND51 />: Thành lập thị trấn Thổ Tang
+*16 tháng 6 năm 2025<ref>Nghị quyết số 1676/NQ-UBTVQH15</ref>: Thành lập xã Thổ Tang
+| trụ sở UBND =Phố Lý Quốc Sư 
+| mã hành chính = 09112<ref>{{Chú thích web |url=https://danhmuchanhchinh.gso.gov.vn/ |title=Tổng cục Thống kê |access-date=2021-12-22 |archive-date=2021-01-10 |archive-url=https://web.archive.org/web/20210110034519/https://www.gso.gov.vn/phuong-phap-thong-ke/danh-muc/don-vi-hanh-chinh/ |url-status=dead }}</ref>
+| mã bưu chính =15612 
+|web={{url|thotang.phutho.gov.vn}}
+|loại đô thị=|năm công nhận=}}
+
+'''Thổ Tang''' là một [[Xã (Việt Nam)|xã]] thuộc tỉnh [[Phú Thọ]], [[Việt Nam]]. 
+
+==Địa lý==
+Xã Thổ Tang nằm cách phường [[Việt Trì (phường)|Việt Trì]] trung tâm tỉnh [[Phú Thọ]] về phía đông nam, có vị trí địa lý:
+*Phía đông giáp xã [[Vĩnh Tường, Phú Thọ|Vĩnh Tường]]
+*Phía tây giáp xã [[Vĩnh Thành, Phú Thọ|Vĩnh Thành]]
+*Phía nam giáp xã [[Vĩnh Phú (xã)|Vĩnh Phú]]
+*Phía bắc giáp xã [[Vĩnh Hưng, Phú Thọ|Vĩnh Hưng]].
+
+Xã có diện tích 21,30&nbsp;km², dân số năm 2025 là 43.208 người, mật độ dân số đạt 2.029 người/km².<ref>{{Chú thích web |title=Xã Thổ Tang, Tỉnh Phú Thọ mới sáp nhập 2026 |url=https://tinhthanhvn.com/province/phu-tho/xa-tho-tang |access-date=2026-06-20 |website=Tỉnh Thành Việt Nam |language=vi}}</ref>
+
+==Hành chính==
+Xã Thổ Tang được chia thành 41 tổ dân phố - thôn, gồm 11 tổ dân phố: Bắc Cường, Đông Cả, Lá Sen, Nam Cường, Phương Viên, Trúc Lâm, Vĩnh Sơn 1, Vĩnh Sơn 2, Vĩnh Sơn 3, Vĩnh Sơn 4, Vĩnh Sơn 5 và 30 thôn: Chùa Chợ, Đông, Phú Hạnh, Phú Thứ A, Phú Thứ B, Phú Trưng A, Phú Trưng B, Phú Trưng C, Phù Chính, Quảng Cư, Táo, Tân Lập, Thạch Ngõa, Thọ Trưng, Thượng, Trung, Xóm Đơi, Xóm Lâm, Xóm Mới A, Xóm Mới B.<ref name=":0">{{Chú thích web |last=Trang Thông tin điện tử xã Thổ Tang - tỉnh Phú Thọ |date=2026-02-02 |title=Thông báo Về việc niêm yết danh sách cử tri, địa điểm niêm yết danh sách cử tri, địa điểm bỏ phiếu bầu cử đại biểu Quốc hội khóa XVI và đại biểu Hội đồng nhân dân các cấp nhiệm kỳ 2026 - 2031 |url=https://thotang.phutho.gov.vn/index.php/tin-t-c-s-ki-n/chinh-tr/3442-thong-bao-ve-viec-niem-yet-danh-sach-cu-tri-dia-diem-niem-yet-danh-sach-cu-tri-dia-diem-bo-phieu-bau-cu-dai-bieu-quoc-hoi-khoa-xvi-vadai-bieu-hdnd-cac-cap-nhiem-ky-2026-2031 |url-status=live |archive-url=https://web.archive.org/web/20260425090807/https://thotang.phutho.gov.vn/index.php/tin-t-c-s-ki-n/chinh-tr/3442-thong-bao-ve-viec-niem-yet-danh-sach-cu-tri-dia-diem-niem-yet-danh-sach-cu-tri-dia-diem-bo-phieu-bau-cu-dai-bieu-quoc-hoi-khoa-xvi-vadai-bieu-hdnd-cac-cap-nhiem-ky-2026-2031 |archive-date=2026-04-25 |access-date=2026-04-25}}</ref>
+
+==Lịch sử==
+Thổ Tang là vùng đất cổ có lịch sử lâu đời. Những hiện vật như bôn, đục, mảnh gốm... tìm thấy trong những cuộc khai quật khảo cổ học ở di chỉ [[Văn hóa Đồng Đậu|Đồng Đậu]], xã [[Yên Lạc (xã)|Yên Lạc]] (cách Thổ Tang 8&nbsp;km), di chỉ [[Lũng Hòa]] (cách 2&nbsp;km), đặc biệt là di chỉ Ma Cả nằm trên địa bàn Thổ Tang khai quật năm 1978 đã khẳng định Thổ Tang cũng là một trong những điểm cư trú làm ăn sinh sống của các cư dân người Việt cổ, cách ngày nay khoảng trên dưới 3.500 năm, vào nửa đầu thiên niên kỷ thứ hai [[trước Công nguyên]], thuộc thời kỳ vành đai [[văn hóa Phùng Nguyên]].
+
+Quá trình hình thành nên một Thổ Tang sầm uất như ngày nay, được bắt đầu từ “Giai đoạn Ma Cả”, những người đến khai hoang làm ăn sinh sống đầu tiên ở ven bờ sông Phan, trải qua nhiều năm phát triển họ đã sử dụng các công cụ thô sơ đồ đá để phục vụ lao động sản xuất, duy trì cuộc sống hàng ngày. Về sau dần dần họ thiên di định canh định cư ở xóm Cả (khu Đông ngày nay). Để củng cố và phát triển thế lực, thủ lĩnh [[Nguyễn Khoan]], lúc bấy giờ hùng cứ suốt một dải từ [[Bạch Hạc]] qua Thổ Tang đến [[Yên Lạc (huyện)|Yên Lạc]], đã lệnh cho một số làng thuộc khu vực mình cai quản phải di chuyển đến nơi khác, do đó cư dân Thổ Tang lúc đó phải di chuyển ra cánh đồng Ma Trám lập thành làng mới. Tại đây dân làng đã dựng lên ngôi đình đầu tiên, nay nơi đó chỉ còn lại dấu tích gọi là bãi Nền Đình. Sau khi [[Đinh Bộ Lĩnh]] dẹp xong loạn cát cứ [[12 sứ quân]], lập nên triều đình [[nhà Đinh]] thống nhất, các làng thiên di trước được lệnh trở về chỗ cũ, do đó dân cư sống ở cánh đồng Ma Trám đã quay trở lại xóm Cả hình thành nên trung tâm vùng Thổ Tang ổn định. Từ xóm Cả, làng Thổ Tang tiếp tục phát triển mở rộng ra khu Đông, khu Bắc, khu Nam và Phương Viên ngày nay.<ref>{{Chú thích web |url=http://vinhphuc.edu.vn/thcsthotang/news/new10801/lich-su-thi-tran-tho-tang |title=LỊCH SỬ THỊ TRẤN THỔ TANG |access-date=2016-09-03 |archive-date=2016-09-18 |archive-url=https://web.archive.org/web/20160918223718/http://vinhphuc.edu.vn/thcsthotang/news/new10801/lich-su-thi-tran-tho-tang |url-status=dead }}</ref>
+
+Cùng với những biến cố của lịch sử, xã Thổ Tang cũng có những thay đổi về địa vực hành chính và tên gọi khác nhau. Trong thời phong kiến tự chủ, Thổ Tang còn có tên gọi là Địa Tang, Làng Giang hay Kẻ Giang. Địa Tang vốn thuộc đất Phong Châu thừa hóa quận, dưới triều đại [[nhà Trần]] nằm trong châu Tam Đới, lộ Đông Đô, đến triều đại [[Nhà Hậu Lê|nhà Lê]] thuộc phủ Tam Đái, trấn [[Sơn Tây trấn|Sơn Tây]], đến thời [[nhà Nguyễn]], năm Minh Mạng thứ 2 ([[1821]]) Thổ Tang thuộc về phủ Tam Đa, sang năm thứ 3 ([[1822]]) thuộc phủ Vĩnh Tường, tỉnh Sơn Tây. Sau khi thực dân Pháp xâm lược Việt Nam, để thuận tiện cho việc cai trị, ngày [[29 tháng 12]] năm [[1899]] [[toàn quyền Đông Dương]] quyết định thành lập tỉnh [[Vĩnh Yên (tỉnh)|Vĩnh Yên]], lúc này phủ Vĩnh Tường thuộc tỉnh Vĩnh Yên, có 8 tổng, với 78 làng. Trong đó tổng Lương Điền gồm các làng: '''Thổ Tang''', Phương Viên, Đông Viên, Lạc Trung, Lương Điền, Lương Trù, Phong Doanh, Sơn Tang, Vân Ổ, Xuân Húc. Lỵ sở phủ Vĩnh Tường trước kia đặt ở Văn Trưng (tổng Kiên Cường), năm 1831 dời đến địa phận 3 làng Bồ Điền, Huy Ngạc và Yên Nhiên (tổng Thượng Trưng), đến năm 1914 phủ lỵ dời đến Thổ Tang (tổng Lương Điền), nay là địa điểm khu Ủy ban nhân dân thị trấn.
+
+Sau [[Cách mạng Tháng Tám]] năm 1945, thực hiện chủ trương của Quốc hội và Chính phủ, các tỉnh đều xóa bỏ cấp tổng, đồng thời các làng, xã nhỏ hợp nhất thành xã lớn hơn và bỏ tên phủ gọi chung là huyện. Do đó, đầu năm 1946 hai làng Sơn Tang và Phương Viên hợp nhất thành xã Đức Thắng, còn làng Thổ Tang được chuyển thành xã Thổ Tang. Năm 1949, xã Thổ Tang hợp nhất với xã Đức Thắng thành xã Thái Học. Cuộc kháng chiến chống thực dân Pháp kết thúc, năm 1955 làng Sơn Tang được tách ra để thành lập xã Vĩnh Sơn, xã Thái Học còn lại hai làng Thổ Tang và Phương Viên. Đến đầu năm 1965, xã Thái Học được đổi tên thành xã Thổ Tang.<ref>{{Chú thích web|url=https://www.vinhphuc.gov.vn/ct/cms/HeThongChinhTriTinh/uybannhandancachuyenthanhthi/huyenvinhtuong/Lists/TinTucHoatDong/View_Detail.aspx?ItemID=253|tựa đề=Giới thiệu về xã Thổ Tang|ngày=2008-06-09|website=Cổng thông tin giao tiếp - điện tử tỉnh Vĩnh Phúc}}{{Liên kết hỏng|date=2023-03-15 |bot=InternetArchiveBot }}</ref>
+
+Ngày [[2 tháng 4]] năm [[2007]], [[Chính phủ Việt Nam|Chính phủ]] ban hành Nghị định 51/2007/NĐ-CP.<ref name=ND51>{{Chú thích web|url=https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/Nghi-dinh-51-2007-ND-CP-thanh-lap-thi-tran-Tho-Tang-Thanh-Lang-Gia-Khanh-thuoc-huyen-Vinh-Tuong-Binh-Xuyen-tinh-Vinh-Phuc-53612.aspx|title=Nghị định số 51/2007/NĐ-CP về thành lập thị trấn Thổ Tang, thị trấn Thanh Lãng, thị trấn Gia Khánh thuộc các huyện Vĩnh Tường, Bình Xuyên, tỉnh Vĩnh Phúc|last=|first=|date=|website=|archive-url=|archive-date=|url-status=|access-date =}}</ref> Theo đó, thành lập thị trấn Thổ Tang trên cơ sở toàn bộ 526,79 ha diện tích tự nhiên và 14.049 người của xã Thổ Tang.
+
+Sau khi thành lập, thị trấn Thổ Tang được chia thành 6 tổ dân phố: Trúc Lâm, Nam Cường, Bắc Cường, Lá Sen, Đông Cả, Phương Viên.
+
+Ngày [[12 tháng 6]] năm [[2025]], [[Quốc hội Việt Nam|Quốc hội]] ban hành Nghị quyết số 202/2025/QH15 về việc sắp xếp đơn vị hành chính cấp tỉnh (nghị quyết có hiệu lực từ ngày [[12 tháng 6]] năm [[2025]]).<ref>{{Chú thích web|last=xaydungchinhsach.chinhphu.vn|date=2025-07-16|title=TOÀN VĂN: Nghị quyết số 202/2025/QH15 về sắp xếp đơn vị hành chính cấp tỉnh|url=https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-202-2025-qh15-ve-sap-xep-don-vi-hanh-chinh-cap-tinh-119250612174148722.htm|url-status=live|archive-url=https://web.archive.org/web/20260705025431/https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-202-2025-qh15-ve-sap-xep-don-vi-hanh-chinh-cap-tinh-119250612174148722.htm|archive-date=2026-07-05|access-date=2026-07-25|website=Báo Điện tử Chính phủ|language=vi}}</ref> Theo đó, sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của tỉnh [[Vĩnh Phúc (tỉnh)|Vĩnh Phúc]], tỉnh [[Hòa Bình (tỉnh)|Hòa Bình]] và tỉnh [[Phú Thọ]] thành tỉnh mới có tên gọi là tỉnh '''Phú Thọ'''.
+
+Ngày [[16 tháng 6]] năm [[2025]]:
+
+* Quốc hội ban hành Nghị quyết số 203/2025/QH15 về việc sửa đổi, bổ sung một số điều của Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam (nghị quyết có hiệu lực từ ngày [[16 tháng 6]] năm [[2025]]).<ref>{{Chú thích web|last=xaydungchinhsach.chinhphu.vn|date=2025-06-28|title=NGHỊ QUYẾT 203/2025/QH15 SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA HIẾN PHÁP NƯỚC CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM|url=https://xaydungchinhsach.chinhphu.vn/nghi-quyet-203-2025-qh15-sua-doi-bo-sung-mot-so-dieu-cua-hien-phap-nuoc-cong-hoa-xa-hoi-chu-nghia-viet-nam-119250616181735552.htm|url-status=live|archive-url=https://web.archive.org/web/20260715200606/https://xaydungchinhsach.chinhphu.vn/nghi-quyet-203-2025-qh15-sua-doi-bo-sung-mot-so-dieu-cua-hien-phap-nuoc-cong-hoa-xa-hoi-chu-nghia-viet-nam-119250616181735552.htm|archive-date=2026-07-15|access-date=2026-07-15|website=Báo Điện tử Chính phủ|language=vi}}</ref> Theo đó, kết thúc hoạt động của đơn vị hành chính cấp huyện trong cả nước từ ngày 1 tháng 7 năm 2025.
+
+* [[Ủy ban Thường vụ Quốc hội]] ban hành Nghị quyết số 1676/NQ-UBTVQH15 về việc sắp xếp đơn vị hành chính cấp xã của tỉnh [[Phú Thọ]] năm 2025 (nghị quyết có hiệu lực từ ngày [[16 tháng 6]] năm [[2025]]).<ref>{{Chú thích web|last=xaydungchinhsach.chinhphu.vn|date=2025-06-20|title=Nghị quyết số 1676/NQ-UBTVQH15 sắp xếp các ĐVHC cấp xã của tỉnh Phú Thọ năm 2025|url=https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-1676-nq-ubtvqh15-sap-xep-cac-dvhc-cap-xa-cua-tinh-phu-tho-nam-2025-119250616204317326.htm|url-status=live|archive-url=https://web.archive.org/web/20260725082021/https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-1676-nq-ubtvqh15-sap-xep-cac-dvhc-cap-xa-cua-tinh-phu-tho-nam-2025-119250616204317326.htm|archive-date=2026-07-25|access-date=2025-09-07|website=Báo Điện tử Chính phủ|language=vi}}</ref> Theo đó, sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của thị trấn Thổ Tang, xã Thượng Trưng và xã Tuân Chính (huyện [[Vĩnh Tường (huyện)|Vĩnh Tường]]) thành xã mới có tên gọi là '''xã Thổ Tang'''.
+Sau khi thực hiện sắp xếp, xã Thổ Tang được chia thành 41 tổ dân phố - thôn, gồm 11 tổ dân phố: Bắc Cường, Đông Cả, Lá Sen, Nam Cường, Phương Viên, Trúc Lâm, Vĩnh Sơn 1, Vĩnh Sơn 2, Vĩnh Sơn 3, Vĩnh Sơn 4, Vĩnh Sơn 5 và 30 thôn: Chùa Chợ, Đông, Phú Hạnh, Phú Thứ A, Phú Thứ B, Phú Trưng A, Phú Trưng B, Phú Trưng C, Phù Chính, Quảng Cư, Táo, Tân Lập, Thạch Ngõa, Thọ Trưng, Thượng, Trung, Xóm Đơi, Xóm Lâm, Xóm Mới A, Xóm Mới B.<ref name=":0" />
+
+Ngày [[24 tháng 12]] năm [[2025]], Ủy ban Thường vụ Quốc hội ban hành Nghị quyết số 111/2025/UBTVQH15 về phân loại đô thị (nghị quyết có hiệu lực từ ngày [[1 tháng 1]] năm [[2026]]).<ref>{{Chú thích web |last=xaydungchinhsach.chinhphu.vn|date=2026-01-21|title=Nghị quyết số 111/2025/UBTVQH15 về phân loại đô thị|url=https://xaydungchinhsach.chinhphu.vn/nghi-quyet-so-111-2025-ubtvqh15-ve-phan-loai-do-thi-119260101170432239.htm|access-date=2026-07-23|website=xaydungchinhsach.chinhphu.vn|language=vi}}</ref> Theo đó, đô thị loại IV, loại V, thị xã và thị trấn trước khi sắp xếp chưa được công nhận loại đô thị được xác định là đô thị loại III. Một phần xã Thổ Tang được xác định là đô thị loại III (từ đô thị loại V của thị trấn Thổ Tang cũ).<!-- 
+Xa xưa, Tuân Chính là vùng đất bãi bồi, luồng lạch sông Hồng. Trải qua quá trình lao động, cải tạo của con người và sự biến đổi của thiên nhiên qua nhiều thế hệ đã hình thành nên làng xã như ngày nay. Ngược dòng lịch sử, Tuân Chính trước cách mạng tháng Tám thuộc tổng Tuân Lộ, nằm trong địa bàn hành chính của phủ Tam Đài (Đến đời nhà Nguyễn trị vì phủ đã đổi tên thành phủ Tam Đa và đến năm 1822 được đổi tên thành phủ Vĩnh Tường). Dưới thời Pháp thuộc, tổng Tuân Lộ có 9 làng, năm 1927, 3 làng Trung, Thượng, Táo sáp nhập vào thành làng Tuân lộ  nên tổng Tuân Lộ còn 6 làng: Phù Lập, Phúc Lập, Phù Cốc, Phù Chính, Quảng Cư, Tuân Lộ. Cách mạng tháng Tám thành công, Chính phủ quyết định xóa bỏ cấp Tổng, hợp nhất các làng nhỏ thành xã lớn.
+
+Tháng 4/1946, các làng thuộc tổng Tuân Lộ trước đây được hợp nhất thành xã mới lấy tên là xã Tuân Chính (Tên xã được ghép từ chữ đầu của làng Tuân Lộ và chữ cuối của làng Phù Chính là 2 làng lớn nhất trong tổng).
+
+Tháng 1/1954, xã Tuân Chính được tách thành 2 xã là Tuân Chính và Tam Phúc. Xã Tam Phúc gồm 3 thôn Phù lập, Phúc Lập và Phù Cốc. Các thôn còn lại thuộc xã Tuân Chính.
+
+Tuân Chính có nghề sản xuất nông nghiệp là chủ yếu, bao gồm cây lúa, ngô, đậu tương và cây sen; nghề chăn nuôi có lợn, gà, cá. Ngoài ra còn một số nghề phụ như: Nghề làm đậu Rùa, đan áo tơi lá (làng Tuân Lộ), nghề buôn bán, lò rèn (thôn Táo)... Cho đến nay chỉ còn lưu truyền nghề làm đậu Rùa [http://diadiemdulich.com/am-thuc/dau-rua-vi-ngon-truyen-thong-vinh-tuong.html {{Webarchive|url=https://web.archive.org/web/20170301005728/http://diadiemdulich.com/am-thuc/dau-rua-vi-ngon-truyen-thong-vinh-tuong.html |date=2017-03-01 }} <nowiki>[2]</nowiki>].
+
+ -->
+
+==Kinh tế==
+Thổ Tang trước kia vốn là một vùng đất thuần nông, chuyên "trồng dâu, nuôi tằm". Với dân số đông và diện tích nông nghiệp khá eo hẹp, người dân dù cần mẫn lao động trên quỹ đất đồng ruộng ít ỏi quanh năm cũng không đủ nuôi sống gia đình. Vì vậy, người dân Thổ Tang bắt đầu đổ đi tứ xứ để làm ăn, buôn bán kiếm sống, lập nghiệp... Nghiệp buôn bán của Thổ Tang bắt nguồn từ đó...
+
+Nói về truyền thống buôn bán, tuy không có thuận lợi (cận thị, cận giang) và cũng không được hưởng chính sách hỗ trợ của Chính phủ để phát triển như nhiều địa phương khác... Nhưng nhờ đức tính cần mẫn, chăm chỉ, người dân Thổ Tang vẫn ngày đêm miệt mài tìm hướng lao động, sản xuất, kinh doanh làm giàu cho bản thân và quê hương.
+
+Thế mạnh về kinh tế của Thổ Tang là kinh doanh nông sản, ngoài ra còn có dịch vụ vận tải, thương mại và sản xuất. Trong những năm gần đây, cơ cấu kinh tế của Thổ Tang được xác định theo hướng: công nghiệp - dịch vụ - thương mại - nông nghiệp.
+
+Thổ Tang có nhiều tiềm năng, lợi thế để thu hút đầu tư phát triển kinh tế xã hội, đặc biệt là nguồn lực đầu tư từ chính người dân Thổ Tang làm ăn xa xứ trở về phát triển quê hương. Kinh tế Thổ Tang luôn đạt mức tăng trưởng cao trong 10 năm gần đây. Tốc độ tăng trưởng kinh tế của thị trấn luôn cao hơn mức bình quân chung của cả huyện và toàn Tỉnh. Cơ cấu kinh tế của Thổ Tang trong những năm vừa qua chuyển biến theo hướng tích cực, có sự chuyển dịch phù hợp với xu thế chung của toàn tỉnh và xã hội, tăng tỷ trọng ngành công nghiệp, thương mại và dịch vụ, giảm dần tỷ trọng ngành nông nghiệp.{{fact}}
+
+==Di tích==
+Tại Thổ Tang hiện còn lưu giữ và bảo tồn được nhiều di tích lịch sử có giá trị như [[Chùa Tùng Vân]], Đền Trúc Lâm, [[Đình Thổ Tang]], Miếu Nhà Nuôi.
+
+==Danh nhân==
+*[[Nguyễn Thái Học]] (1902 – 1930), một nhà cách mạng Việt Nam.
+*[[Lê Thị Luân]] (1962 – 2015) là nữ phó giáo sư, tiến sĩ y học Việt Nam. Bà được tặng [[Giải thưởng Kovalevskaya]] năm 2013 nhờ những nghiên cứu sản xuất vaccine phòng bệnh [[Virus rota|rotavirus]] ở trẻ em.
+*[[Nguyễn Văn Đức]] (1923 – 2002) là Thượng tướng Công an nhân dân Việt Nam và chính trị gia người Việt Nam.
+*[[Phan Thái]] (1928 – 2024), bí danh Trần Hồng, là một tướng lĩnh, sĩ quan cấp cao, quân hàm Thiếu tướng Quân đội nhân dân Việt Nam, nguyên Phó Chủ nhiệm kiêm Tham mưu trưởng Tổng cục Kỹ thuật (1985-1987).
+*[[Phan Văn Tiến]] (sinh năm 1962) là thẩm phán cao cấp người Việt Nam. Ông hiện giữ chức vụ Chánh án Tòa án nhân dân tỉnh Yên Bái.
+
+==Chú thích==
+{{tham khảo}}
+
+== Tham khảo ==
+{{sơ khai Phú Thọ}}
+{{Đơn vị hành chính thuộc tỉnh Phú Thọ}}

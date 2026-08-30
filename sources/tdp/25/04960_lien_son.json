@@ -1,0 +1,216 @@
+{
+  "ward_code": "04960",
+  "ward_name": "Liên Sơn",
+  "province_code": "25",
+  "resolution": "",
+  "arrangement": "truoc_2026_07",
+  "effective_date": "",
+  "verified": "unverified",
+  "extraction": {
+    "source": "vi.wikipedia.org",
+    "title": "Liên Sơn, Phú Thọ",
+    "mode": "narrative"
+  },
+  "sources": [
+    {
+      "key": "wiki-04960-1",
+      "title": "Nghị quyết số 1/NQ-UBBC về việc ấn định và công bố số đơn vị bầu cử, danh sách các đơn vị bầu cử và số lượng đại biểu được bầu ở mỗi đơn vị bầu cử đại biểu Hội đồng nhân dân xã Liên Sơn nhiệm kỳ 2026 - 2031",
+      "url": "https://lienson.phutho.gov.vn/index.php/2013-12-13-01-52-02/v-n-ba-n-ca-a-huya-n/send/6-v-n-ba-n-ca-a-xa/409-nq-va-via-c-a-n-a-nh-va-ca-ng-ba-sa-n-va-ba-u-ca-danh-sa-ch-ca-c-n-va-ba-u-ca-va-sa-l-a-ng-a-i-bia-u-a-c-ba-u-a-ma-i-n-va-ba-u-ca-a-i-bia-u-h-nd-xa-lia-n-s-n-nhia-m-ka-2026-2031.html",
+      "date": "2025-12-24",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-04960-2",
+      "title": "Danh sách Thôn vùng đồng bào dân tộc thiểu số và miền núi, thôn đặc biệt khó khăn giai đoạn 2026 - 2030 trên địa bàn tỉnh Phú Thọ",
+      "url": "http://files.ubdt.gov.vn/files/ecm/source_files/2026/02/05/11252411_4.%20Ph%C3%BA%20Th%E1%BB%8D%201%20(th%C3%B4n).signed_26-02-05.pdf",
+      "date": "2026-01-29",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-04960-3",
+      "title": "Thông báo số 68/TB-UBND về Ngày bầu cử, địa điểm bỏ phiếu bầu cử đại biểu Quốc hội khóa XVI và đại biểu Hội đồng nhân dân các cấp nhiệm kỳ 2026 - 2031 trên địa bàn xã Liên Sơn",
+      "url": "https://web.facebook.com/story.php?story_fbid=122167842584931118&id=61577933556837&rdid=v1198rpFsom5Agtp#",
+      "date": "2026-03-05",
+      "type": "wikipedia-ref"
+    }
+  ],
+  "note": "Trích tự động từ Wikipedia tiếng Việt (mode=narrative). Cần đối chiếu nghị quyết HĐND phường/xã. ⚠️ Danh mục có thể là hiện trạng TRƯỚC sắp xếp thôn/TDP 01/7/2026 — Wikipedia chưa cập nhật nghị quyết mới.",
+  "tdp": [
+    {
+      "name": "3/2A",
+      "type": "thôn"
+    },
+    {
+      "name": "3/2B",
+      "type": "thôn"
+    },
+    {
+      "name": "Ao Kềnh",
+      "type": "thôn"
+    },
+    {
+      "name": "Đồng Sương",
+      "type": "thôn"
+    },
+    {
+      "name": "Quán Trắng",
+      "type": "thôn"
+    },
+    {
+      "name": "Sòng",
+      "type": "thôn"
+    },
+    {
+      "name": "38 xóm: 23/9",
+      "type": "thôn"
+    },
+    {
+      "name": "Bến Cuối",
+      "type": "thôn"
+    },
+    {
+      "name": "Cao",
+      "type": "thôn"
+    },
+    {
+      "name": "Chũm",
+      "type": "thôn"
+    },
+    {
+      "name": "Đá Bạc",
+      "type": "thôn"
+    },
+    {
+      "name": "Đất Đỏ",
+      "type": "thôn"
+    },
+    {
+      "name": "Đầm Đa",
+      "type": "thôn"
+    },
+    {
+      "name": "Đồn Vận",
+      "type": "thôn"
+    },
+    {
+      "name": "Đồng Lau",
+      "type": "thôn"
+    },
+    {
+      "name": "Ghên",
+      "type": "thôn"
+    },
+    {
+      "name": "Giếng Xạ",
+      "type": "thôn"
+    },
+    {
+      "name": "Gò Mè",
+      "type": "thôn"
+    },
+    {
+      "name": "Gừa",
+      "type": "thôn"
+    },
+    {
+      "name": "Hợp Phong",
+      "type": "thôn"
+    },
+    {
+      "name": "Hui",
+      "type": "thôn"
+    },
+    {
+      "name": "Khuộc",
+      "type": "thôn"
+    },
+    {
+      "name": "Làng Hang",
+      "type": "thôn"
+    },
+    {
+      "name": "Lạt",
+      "type": "thôn"
+    },
+    {
+      "name": "Liên Hòa",
+      "type": "thôn"
+    },
+    {
+      "name": "Liên Hợp",
+      "type": "thôn"
+    },
+    {
+      "name": "Liên Khuê",
+      "type": "thôn"
+    },
+    {
+      "name": "Lộc Môn",
+      "type": "thôn"
+    },
+    {
+      "name": "Mía",
+      "type": "thôn"
+    },
+    {
+      "name": "Ngành",
+      "type": "thôn"
+    },
+    {
+      "name": "Ngăm",
+      "type": "thôn"
+    },
+    {
+      "name": "Ngọc Lâm",
+      "type": "thôn"
+    },
+    {
+      "name": "Nước Lạnh",
+      "type": "thôn"
+    },
+    {
+      "name": "Phú Ngọc",
+      "type": "thôn"
+    },
+    {
+      "name": "Quê Sụ",
+      "type": "thôn"
+    },
+    {
+      "name": "Rậm",
+      "type": "thôn"
+    },
+    {
+      "name": "Suối Bến",
+      "type": "thôn"
+    },
+    {
+      "name": "Suối Cỏ",
+      "type": "thôn"
+    },
+    {
+      "name": "Suối Yên",
+      "type": "thôn"
+    },
+    {
+      "name": "Sơn Thủy",
+      "type": "thôn"
+    },
+    {
+      "name": "Tân Sơn",
+      "type": "thôn"
+    },
+    {
+      "name": "Thành Sơn",
+      "type": "thôn"
+    },
+    {
+      "name": "Trại Hòa",
+      "type": "thôn"
+    },
+    {
+      "name": "Vai Đào",
+      "type": "thôn"
+    }
+  ]
+}

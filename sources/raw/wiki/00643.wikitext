@@ -1,0 +1,261 @@
+{{Thông tin đơn vị hành chính Việt Nam|Phường
+| tên = Thanh Liệt
+| hình = Biển tên đường Thanh Liệt IMG 1227 .jpg
+| ghi chú hình = Đường Thanh Liệt
+| vĩ độ = 20.98044904710684
+| kinh độ = 105.80598065260317
+| diện tích = 6,44 km²
+| dân số = 76.238 người
+| thời điểm dân số = 2025
+| mật độ dân số = {{formatnum:{{#expr:floor({{formatnum:76.238| R}}/{{formatnum:6,44| R}})}} }} người/km²
+| vùng = [[Đồng bằng sông Hồng]]
+| thành phố = [[Hà Nội]]
+| mã hành chính = 00643<ref>{{Chú thích web |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/19ttg.signed.pdf |title=Quyết định số 19/2025/QĐ-TTg ngày 30 tháng 6 năm 2025 của Thủ tướng Chính phủ về việc Ban hành Bảng danh mục và mã số các đơn vị hành chính Việt Nam |access-date=2026-06-15 |archive-date=2026-06-15 |archive-url=https://web.archive.org/web/20260615034519/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/19ttg.signed.pdf |url-status=dead | website = Cổng Thông tin điện tử Chính phủ}}</ref>
+| mã bưu chính = 
+| trụ sở UBND = Tổ dân phố Triều Khúc<ref>{{Chú thích web |url=https://storage-vnportal.vnpt.vn/gov-hni/6244/VanBan/2025/6/25/TB-729-2025.pdf |title=Thông báo số 729/TB-UBND ngày 25 tháng 6 năm 2025 của Ủy ban nhân dân thành phố Hà Nội về địa điểm trụ sở làm việc của 126 phường, xã sau sắp xếp thuộc phạm vi quản lý của thành phố Hà Nội|access-date=2026-06-15 |archive-date=2026-06-15 |archive-url=https://web.archive.org/web/20260615034519/https://storage-vnportal.vnpt.vn/gov-hni/6244/VanBan/2025/6/25/TB-729-2025.pdf |url-status=dead | website = Cổng Thông tin điện tử Ủy ban nhân dân thành phố Hà Nội}}</ref>
+| web = {{url|thanhliet.hanoi.gov.vn}}
+| bản đồ 1 = [[File:Thanh Liet map.png| 300px]]
+| tựa bản đồ 1 = Bản đồ phường Thanh Liệt
+| giấu bản đồ mặc định = 
+|trụ sở Đảng ủy=Tổ dân phố Thanh Châu}}
+{{other|Thanh Liệt (định hướng)}}
+'''Thanh Liệt''' là một [[Phường (Việt Nam)|phường]] thuộc thành phố [[Hà Nội]], [[Việt Nam]].
+
+== Địa lý== 
+Phường Thanh Liệt có vị trí địa lý:
+
+* Phía đông giáp phường [[Định Công (phường)|Định Công]] và phường [[Hoàng Liệt]] (với ranh giới tự nhiên là [[sông Tô Lịch]])
+* Phía tây giáp phường [[Đại Mỗ]] và phường [[Hà Đông (phường)|Hà Đông]]
+* Phía nam giáp phường [[Kiến Hưng (phường)|Kiến Hưng]] và xã [[Đại Thanh, Hà Nội|Đại Thanh]].
+* Phía bắc giáp phường [[Thanh Xuân (phường)|Thanh Xuân]] và [[Khương Đình]].<ref>{{Chú thích web|last=Viện nghiên cứu Phát triển kinh tế – xã hội Hà Nội|date=2025-07-02|title=Phường Thanh Liệt: Những thông tin chi tiết sau sắp xếp|url=https://hanoionline.vn/phuong-thanh-liet-nhung-thong-tin-chi-tiet-sau-sap-xep-344137.htm|url-status=dead|archive-url=https://web.archive.org/web/20251214074315/https://hanoionline.vn/phuong-thanh-liet-nhung-thong-tin-chi-tiet-sau-sap-xep-344137.htm|archive-date=2025-12-14|access-date=2026-08-07|website=Cơ quan Báo và Phát thanh Truyền hình Hà Nội}}</ref><ref>{{Chú thích web|last=Cơ quan Báo và Phát thanh Truyền hình Hà Nội|date=2025-07-08|title=Phường Thanh Liệt: Tất cả thông tin chỉ dẫn bạn cần biết|url=https://hanoionline.vn/phuong-thanh-liet-tat-ca-thong-tin-chi-dan-ban-can-biet-345179.htm|url-status=dead|archive-url=https://web.archive.org/web/20251111074032/https://hanoionline.vn/phuong-thanh-liet-tat-ca-thong-tin-chi-dan-ban-can-biet-345179.htm|archive-date=2025-11-11|access-date=2026-08-07}}</ref>
+Phường Thanh Liệt có diện tích tự nhiên là 6,44 km<sup>2</sup>, quy mô dân số năm 2025 là 76.238 người và mật độ dân số đạt 11.838 người/km<sup>2</sup>.<ref>{{Chú thích web |last=Mai Hữu|date=2026-04-05|title=Hà Nội: Chi tiết phương án tổng thể sắp xếp đơn vị hành chính cấp xã|url=https://hanoimoi.vn/ha-noi-chi-tiet-phuong-an-tong-the-sap-xep-don-vi-hanh-chinh-cap-xa-700278.html|url-status=bot: unknown|archive-url=https://web.archive.org/web/20250710163328/https://hanoimoi.vn/ha-noi-chi-tiet-phuong-an-tong-the-sap-xep-don-vi-hanh-chinh-cap-xa-700278.html|archive-date=2025-07-10|access-date=2026-07-08|website=Cơ quan Báo và Phát thanh, truyền hình Hà Nội}}</ref><ref>Công văn số 2896/BNV-CQĐP ngày 27 tháng 5 năm 2025 của Bộ Nội vụ về việc cung cấp thông tin danh mục dự kiến đơn vị hành chính cấp xã mới.</ref>
+
+== Lịch sử==
+
+=== Trước năm 1976 ===
+Thanh Liệt là một làng cổ, chạy dọc [[sông Tô Lịch]] trên chiều dài chừng hơn 1 km, bên sông này có chiếc cầu Quang Bình bắc qua, nối làng với làng Bằng Liệt; lại có Cầu Tó bắc song song trên đường 70 Văn Điển - Hà Đông, không chỉ thuận tiện cho đi lại mà còn tạo ra cảnh quan đẹp. Theo bia "Quang Bình kiều bi ký" thì vào năm Long Đức thứ ba (1734), cầu bị hỏng, mẹ chúa [[Trịnh Doanh]] đã bỏ ra 200 quan tiền để sửa cầu; em chúa Trịnh Doanh cũng góp 5 quan<ref name="TL">{{Chú thích web| url = http://www.hanoimoi.com.vn/newsdetail/1000_nam_thang_long/68165/lang-thanh-li7879t.htm| title = Làng Thanh Liệt| access-date = ngày 14 tháng 5 năm 2010| author = TS. Bùi Xuân Đính| publisher = Báo Hà Nội Mới điện tử}}{{Liên kết hỏng| date = ngày 4 tháng 7 năm 2021| bot = InternetArchiveBot}}</ref>.
+
+Đầu thế kỷ 19, làng Thanh Liệt là một xã có tên là Quang Liệt, thuộc tổng Quang Liệt, huyện Thanh Trì, phủ Ứng Thiên, trấn [[Sơn Nam (địa danh cũ Việt Nam)|Sơn Nam Thượng]] (từ năm Minh Mạng thứ 12 - 1831 là tỉnh Hà Nội, năm 1902 là tỉnh Cầu Đơ, năm 1904 đổi thành tỉnh Hà Đông). Năm Thiệu Trị thứ tư (1844), tên làng và tên tổng lại đổi là "Thanh Liệt"<ref name = "TL" />. Ngày 20/4/1961, kỳ họp thứ 2 Quốc hội khoá II thông qua Nghị quyết phê chuẩn mở rộng thành phố Hà Nội. Trong đó xã Thanh Liệt thuộc huyện [[Thanh Trì (huyện)|Thanh Trì]] cùng với một số xã khác được chuyển từ [[Hà Đông (tỉnh)|tỉnh Hà Đông]] về thành phố Hà Nội<ref name = "TL2">{{Chú thích web| url = http://hanoi.vietnamplus.vn/Home/Dia-gioi-thanh-pho-Ha-Noi-mo-rong-lan-thu-nhat/20099/541.vnplus| title = Địa giới thành phố Hà Nội mở rộng lần thứ nhất| access-date = ngày 10 tháng 7 năm 2010| publisher = Báo điện tử VietnamPlus, Thông tấn xã Việt Nam| archive-url = https://web.archive.org/web/20100716173831/http://hanoi.vietnamplus.vn/Home/Dia-gioi-thanh-pho-Ha-Noi-mo-rong-lan-thu-nhat/20099/541.vnplus| archive-date = ngày 16 tháng 7 năm 2010}}</ref>.
+
+=== Giai đoạn 1976 – nay ===
+Sau ngày 2 tháng 7 năm 1976, 4 xã: Đại Kim, Khương Đình, Tân Triều và Thanh Liệt thuộc huyện [[Thanh Trì (huyện)|Thanh Trì]]; 2 xã: Nhân Chính và Trung Văn thuộc huyện [[Từ Liêm (huyện)|Từ Liêm]] của thành phố [[Hà Nội]]; tiểu khu Yết Kiêu và xã Văn Yên thuộc thị xã [[Hà Đông (quận)|Hà Đông]]; xã Đại Thanh thuộc huyện [[Thường Tín (huyện)|Thường Tín]] của tỉnh [[Hà Sơn Bình]].
+
+Ngày 29 tháng 12 năm 1978, sáp nhập thị xã [[Hà Đông (quận)|Hà Đông]] và xã Đại Thanh của huyện [[Thường Tín (huyện)|Thường Tín]] thuộc tỉnh [[Hà Sơn Bình]] vào thành phố [[Hà Nội]].<ref>Nghị quyết ngày 29 tháng 12 năm 1978 của Quốc hội khóa VI, Kỳ họp thứ 4 phê chuẩn việc phân vạch lại địa giới thành phố Hà Nội, thành phố Hồ Chí Minh, các tỉnh Hà Sơn Bình, Vĩnh Phú, Cao Lạng, Bắc Thái, Quảng Ninh và Đồng Nai.</ref>
+
+Ngày 17 tháng 2 năm 1979, sáp nhập xã Tả Thanh Oai (Đại Thanh cũ) (của huyện [[Thường Tín (huyện)|Thường Tín]]) vào huyện [[Thanh Trì (xã)|Thanh Trì]].<ref>Quyết định số 49-CP ngày 17 tháng 2 năm 1979 của Hội đồng Chính phủ về việc điều chỉnh địa giới một số xã, thị trấn thuộc các huyện Sóc Sơn, Mê Linh, Hoài Đức, Phúc Thọ và Thanh Trì thuộc thành phố Hà Nội.</ref>
+
+Ngày 3 tháng 1 năm 1981, từ nay các đơn vị hành chính cơ sở ở nội thành, nội thị của các [[Thành phố thuộc tỉnh (Việt Nam)|thành phố thuộc tỉnh]], [[Thị xã (Việt Nam)|thị xã]] và [[Quận (Việt Nam)|quận]] gọi là [[Phường (Việt Nam)|phường]]. Khi đó, phường Yết Kiêu thuộc thị xã [[Hà Đông (quận)|Hà Đông]].<ref>Quyết định số 3-CP ngày 3 tháng 1 năm 1981 của Hội đồng Chính phủ về việc thống nhất tên gọi các đơn vị hành chính ở nội thành nội thị.</ref>
+
+Ngày 13 tháng 10 năm 1982, thành lập phường Thanh Xuân Bắc (quận [[Đống Đa (quận)|Đống Đa]]) gồm đất của ba thôn Phùng Khoang, xã Trung Văn, huyện [[Từ Liêm (huyện)|Từ Liêm]], thôn Triều Khúc, xã Tân Triều huyện [[Thanh Trì (huyện)|Thanh Trì]] và thôn Cự Chính, xã Nhân Chính, huyện [[Từ Liêm (huyện)|Từ Liêm]].<ref>{{Chú thích web |title=Quyết định số 173-HĐBT ngày 13 tháng 10 năm 1982 của Hội đồng Bộ trưởng về việc phân vạch địa giới một số phường và thị trấn thuộc thành phố Hà Nội |url=https://chinhphu.vn/default.aspx?pageid=27160&docid=6408 |url-status=dead |archive-url=https://web.archive.org/web/20260822201510/https://chinhphu.vn/default.aspx?pageid=27160&docid=6408 |archive-date=2026-08-22 |access-date=2026-08-22 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+
+Ngày 12 tháng 8 năm 1991, chia tỉnh [[Hà Sơn Bình]] thành 2 tỉnh, lấy tên là tỉnh [[Hòa Bình (tỉnh)|Hòa Bình]] và tỉnh [[Hà Tây (tỉnh)|Hà Tây]]. Khi đó, phường Yết Kiêu và xã Văn Yên thuộc thị xã [[Hà Đông (quận)|Hà Đông]] của tỉnh [[Hà Tây (tỉnh)|Hà Tây]].<ref>Nghị quyết ngày 12 tháng 8 năm 1991 của Quốc hội khóa VIII, Kỳ họp thứ 9 về việc điều chỉnh địa giới hành chính một số tỉnh, thành phố trực thuộc Trung ương.</ref>
+
+Ngày 23 tháng 6 năm 1994, thành lập phường Văn Mỗ (thị xã [[Hà Đông (quận)|Hà Đông]]) trên cơ sở các thôn Văn Quán, Mỗ Lao (của xã Văn Yên) và phố Trần Phú của phường Yết Kiêu.<ref>{{Chú thích web |title=Nghị định số 52-CP ngày 23 tháng 6 năm 1994 của Chính phủ về việc điều chỉnh địa giới huyện và thành lập thị trấn, phường thuộc các huyện Hoài Đức, Chương Mỹ, Thạch Thất, Thanh Oai, thị xã Hà Đông, tỉnh Hà Tây |url=https://chinhphu.vn/default.aspx?pageid=27160&docid=2281 |url-status=dead |archive-url=https://web.archive.org/web/20260804201510/https://chinhphu.vn/default.aspx?pageid=27160&docid=2281 |archive-date=2026-08-04 |access-date=2026-08-04 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+
+Ngày 22 tháng 11 năm 1996:
+
+* Tách toàn bộ diện tích tự nhiên và nhân khẩu của xã Khương Đình (huyện [[Thanh Trì (huyện)|Thanh Trì]]) về quận [[Thanh Xuân (quận)|Thanh Xuân]] mới thành lập.
+* Phường Thanh Xuân Nam được thành lập trên cơ sở 32,8 ha diện tích tự nhiên và 8.266 nhân khẩu của phường Thanh Xuân Bắc.
+* Phường Hạ Đình được thành lập trên cơ sở phần còn lại của xã Khương Đình gồm 58,6 ha diện tích tự nhiên và 4.245 nhân khẩu.<ref>{{Chú thích web |title=Nghị định số 74-CP ngày 22 tháng 11 năm 1996 của Chính phủ về việc thành lập quận Thanh Xuân, quận Cầu Giấy, thành lập và đổi tên một số phường thuộc thành phố Hà Nội |url=https://chinhphu.vn/default.aspx?pageid=27160&docid=3229 |url-status=dead |archive-url=https://web.archive.org/web/20260822201510/https://chinhphu.vn/default.aspx?pageid=27160&docid=3229 |archive-date=2026-08-22 |access-date=2026-08-22 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+
+Ngày 6 tháng 11 năm 2003:
+
+* Tách toàn bộ diện tích tự nhiên và dân số của xã Đại Kim thuộc huyện [[Thanh Trì (huyện)|Thanh Trì]] về quận [[Hoàng Mai (quận)|Hoàng Mai]] mới thành lập.
+* Thành lập phường Đại Kim trên cơ sở toàn bộ diện tích tự nhiên và dân số của xã Đại Kim.<ref>Nghị định số 132/2003/NĐ-CP ngày 6 tháng 11 năm 2003 của Chính phủ về việc điều chỉnh địa giới hành chính để thành lập các quận Long Biên, Hoàng Mai, thành lập các phường trực thuộc quận Long Biên, quận Hoàng Mai, thành phố Hà Nội.</ref>
+
+Ngày 27 tháng 12 năm 2006, thành lập thành phố [[Hà Đông (quận)|Hà Đông]] trên cơ sở toàn bộ diện tích tự nhiên, dân số và các đơn vị hành chính trực thuộc của thị xã [[Hà Đông (quận)|Hà Đông]]. Khi đó, phường Văn Mỗ thuộc thành phố [[Hà Đông (quận)|Hà Đông]].<ref name="ND1552">{{Chú thích web |tựa đề=Nghị định số 155/2006/NĐ-CP ngày 27 tháng 12 năm 2006 của Chính phủ về việc thành lập thành phố Hà Đông thuộc tỉnh Hà Tây|url=https://chinhphu.vn/default.aspx?pageid=27160&docid=18995|url-status=dead|archive-url=https://web.archive.org/web/20260804201510/https://chinhphu.vn/default.aspx?pageid=27160&docid=18995|archive-date=2026-08-04|access-date=2026-08-04|website=Cổng Thông tin điện tử Chính phủ}}</ref>
+
+Ngày 1 tháng 3 năm 2008, thành lập phường Văn Quán (thị xã [[Hà Đông (quận)|Hà Đông]]) trên cơ sở điều chỉnh 139,6 ha diện tích tự nhiên và 12.547 nhân khẩu của phường Văn Mỗ.<ref>{{Chú thích web |title=Nghị định số 23/2008/NĐ-CP ngày 1 tháng 3 năm 2008 của Chính phủ về việc điều chỉnh địa giới hành chính xã, phường, để thành lập phường thuộc thành phố Hà Đông, thành phố Sơn Tây, tỉnh Hà Tây|url=https://chinhphu.vn/default.aspx?pageid=27160&docid=59294|url-status=dead|archive-url=https://web.archive.org/web/20260809201510/https://chinhphu.vn/default.aspx?pageid=27160&docid=59294|archive-date=2026-08-09|access-date=2026-08-09|website=Cổng Thông tin điện tử Chính phủ}}</ref>
+
+Ngày 29 tháng 5 năm 2008, hợp nhất tỉnh [[Hà Tây (tỉnh)|Hà Tây]] vào thành phố [[Hà Nội]]. Khi đó, phường Văn Quán thuộc thành phố [[Hà Đông (quận)|Hà Đông]] của thành phố [[Hà Nội]].<ref>Nghị quyết số 15/2008/QH12 ngày 29 tháng 5 năm 2008 của Quốc hội khóa XII, Kỳ họp thứ 3 về việc điều chỉnh địa giới hành chính thành phố Hà Nội và một số tỉnh có liên quan.</ref>
+
+Ngày 8 tháng 5 năm 2009, thành lập quận [[Hà Đông (quận)|Hà Đông]] trên cơ sở thành phố [[Hà Đông (quận)|Hà Đông]]. Khi đó, phường Văn Quán thuộc quận [[Hà Đông (quận)|Hà Đông]].<ref name="19/NQ-CP">{{Chú thích web |url=https://chinhphu.vn/default.aspx?pageid=27160&docid=86463|tựa đề=Nghị quyết số 19/NQ-CP ngày 8 tháng 5 năm 2009 của Chính phủ về việc xác lập địa giới hành chính xã Đông Xuân thuộc huyện Quốc Oai; các xã Tiến Xuân, Yên Bình, Yên Trung thuộc huyện Thạch Thất; huyện Mê Linh thuộc thành phố Hà Nội; thành lập quận Hà Đông và các phường trực thuộc; chuyển thành phố Sơn Tây thành thị xã Sơn Tây thuộc thành phố Hà Nội|tác giả=|họ=|tên=|ngày=|website=Cổng Thông tin điện tử Chính phủ|url lưu trữ=https://web.archive.org/web/20260809201510/https://chinhphu.vn/default.aspx?pageid=27160&docid=86463|ngày lưu trữ=2026-08-09|ngày truy cập=2026-08-09|url-status=dead}}</ref>
+
+Ngày 14 tháng 11 năm 2024, nhập phường Thanh Xuân Nam (quận [[Thanh Xuân (quận)|Thanh Xuân]]) vào phường Thanh Xuân Bắc.<ref>{{Chú thích web | url = https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/11/1286-qh.signed.pdf| title = Nghị quyết số 1286/NQ-UBTVQH15 ngày 14 tháng 11 năm 2024 của Ủy ban Thường vụ Quốc hội về việc sắp xếp đơn vị hành chính cấp xã của thành phố Hà Nội giai đoạn 2023 – 2025| access-date = 2026-07-04|url-status=live|archive-url=https://web.archive.org/web/20260704400809/https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/11/1286-qh.signed.pdf|archive-date=2026-07-04|website=Cổng Thông tin điện tử Chính phủ}}</ref>
+
+Ngày 16 tháng 6 năm 2025:
+
+* Kết thúc hoạt động của đơn vị hành chính cấp huyện trong cả nước.<ref>{{Chú thích web |last= |date= |title=Nghị quyết số 203/2025/QH15 ngày 16 tháng 6 năm 2025 của Quốc hội khóa XV, Kỳ họp thứ 9 về việc sửa đổi, bổ sung một số điều của Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/nq-sua-doi-hien-phap.pdf |url-status=live |archive-url=https://web.archive.org/web/20260613090807/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/nq-sua-doi-hien-phap.pdf |archive-date=2026-06-13 |access-date=2026-06-13 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+* Sắp xếp một phần diện tích tự nhiên, quy mô dân số của xã Tả Thanh Oai (huyện [[Thanh Trì (huyện)|Thanh Trì]]), phần còn lại của phường Đại Kim (quận [[Hoàng Mai (quận)|Hoàng Mai]]), phần còn lại của phường Thanh Xuân Bắc, phần còn lại của phường Hạ Đình (quận [[Thanh Xuân (quận)|Thanh Xuân]]), phần còn lại của phường Văn Quán (quận [[Hà Đông (quận)|Hà Đông]]), phần còn lại của xã Thanh Liệt và phần còn lại của xã Tân Triều (huyện [[Thanh Trì (huyện)|Thanh Trì]]) thành phường mới có tên gọi là phường Thanh Liệt.<ref>{{Chú thích web |title=Nghị quyết số 1656/NQ-UBTVQH15 ngày 16 tháng 6 năm 2025 của Ủy ban Thường vụ Quốc hội về việc sắp xếp các đơn vị hành chính cấp xã của thành phố Hà Nội năm 2025 |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf |url-status=bot: unknown |archive-url=https://web.archive.org/web/20260513110024/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf |archive-date=2026-05-13 |access-date=2026-06-30 |website=Cổng Thông tin điện tử Chính phủ }}</ref>
+* Sau khi sắp xếp, phường Thanh Liệt được chia thành 31 tổ dân phố – thôn, gồm 24 tổ dân phố và 7 thôn.<ref>10 tổ dân phố: 1, 2 khu dân cư 13, 4 khu dân cư 14, 6, 8 khu dân cư 15, 9, 10 khu dân cư 17, 11, 12 khu dân cư 18 và 13 khu dân cư 19 (trước thuộc phường Thanh Xuân Nam) của phường Thanh Xuân Bắc cũ; 4 tổ dân phố: 12 và từ 14 đến 16 của phường Hạ Đình cũ; 3 tổ dân phố, đánh số từ 10 đến 12 của phường Văn Quán cũ; 7 tổ dân phố – thôn, gồm 2 tổ dân phố: 1 Khu tập thể 56 + 664, 2 Liên cơ Hoa Cà và 5 thôn: Nội, Thượng, Tràng, Văn, Vực của xã Thanh Liệt cũ; 7 tổ dân phố – thôn, gồm 5 tổ dân phố: 1 đường Chiến Thắng, 2 Cầu Bươu, 3 xóm Mới, 4 chung cư Ecogreen City, 7 Tổng cục V Bộ Công an và 2 thôn: Triều Khúc, Yên Xá của xã Tân Triều cũ.</ref><ref>{{Chú thích web|url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2022/10/10-btnmt.pdf|title=Thông tư số 10/2022/TT-BTNMT ngày 29 tháng 9 năm 2022 của Bộ Tài nguyên và Môi trường về việc Ban hành Danh mục địa danh dân cư, sơn văn, thủy văn, kinh tế – xã hội phục vụ công tác thành lập bản đồ thành phố Hà Nội|access-date=2026-06-30|url-status=bot: unknown|archive-url=https://web.archive.org/web/20260630082812/https://datafiles.chinhphu.vn/cpp/files/vbpq/2022/10/10-btnmt.pdf|archive-date=2026-06-30|website=Cổng Thông tin điện tử Chính phủ}}</ref><ref>{{Chú thích web |last=|date=|title=Quyết định số 12/QĐ-UBBC ngày 21 tháng 2 năm 2026 của Ủy ban bầu cử phường Thanh Liệt về việc công bố danh sách chính thức những người ứng cử đại biểu Hội đồng nhân dân phường Thanh Liệt khóa II, nhiệm kỳ 2026 – 2031|url=https://sqhx-hanoi.mediacdn.vn/91579363132710912/2026/2/26/ubbc-qd-12-cong-bo-danh-sach-chinh-thuc-nhung-nguoi-ung-cu-17720961151431031468102.pdf|url-status=dead|archive-url=https://web.archive.org/web/20260808201510/https://sqhx-hanoi.mediacdn.vn/91579363132710912/2026/2/26/ubbc-qd-12-cong-bo-danh-sach-chinh-thuc-nhung-nguoi-ung-cu-17720961151431031468102.pdf|archive-date=2026-08-08|access-date=2026-08-08|website=Trang Thông tin điện tử phường Thanh Liệt – thành phố Hà Nội}}</ref>
+Ngày 22 tháng 8 năm 2025, chuyển đổi 6 thôn: Triều Khúc, Yên Xá (xã Tân Triều cũ), Thượng, Nội, Tràng và Vực Văn (xã Thanh Liệt cũ) thành tổ dân phố; đổi tên 17 tổ dân phố: 1, 2 khu dân cư 13, 4 khu dân cư 14, 6, 8 khu dân cư 15, 9, 10 khu dân cư 17, 11, 12 khu dân cư 18, 13 khu dân cư 19 (phường Thanh Xuân Bắc cũ), 12, từ 14 đến 16 (phường Hạ Đình cũ), từ 10 đến 12 (phường Văn Quán cũ) lần lượt thành 17 tổ dân phố: 1, 2, 4, 6, từ 8 đến 13 Thanh Xuân Nam, 12, từ 14 đến 16 Hạ Đình và từ 10 đến 12 Văn Quán.<ref>Điều 1. Chuyển đổi 07 thôn thuộc xã Tân Triều, xã Thanh Liệt trước sắp xếp thành Tổ dân phố phường Thanh Liệt, cụ thể: I. Xã Tân Triều: 1. Thôn Triều Khúc, xã Tân Triều thành Tổ dân phố Triều Khúc, phường Thanh Liệt; 2. Thôn Yên Xá, xã Tân Triều thành Tổ dân phố Yên Xá, phường Thanh Liệt; II. Xã Thanh Liệt cũ: 3. Thôn Thượng, xã Thanh Liệt thành Tổ dân phố Thượng, phường Thanh Liệt; 4. Thôn Nội, xã Thanh Liệt thành Tổ dân phố Nội, phường Thanh Liệt; 5. Thôn Tràng, xã Thanh Liệt thành Tổ dân phố Tràng, phường Thanh Liệt; 6. Thôn Vực, xã Thanh Liệt thành Tổ dân phố Vực, phường Thanh Liệt; 7. Thôn Văn, xã Thanh Liệt thành Tổ dân phố Văn, phường Thanh Liệt; Điều 2. Giữ nguyên tên gọi đối với 07 tổ dân phố thuộc xã Tân Triều, xã Thanh Liệt, cụ thể như sau: I. Xã Tân Triều: 1. Tổ dân phố số 1, đường Chiến Thắng, xã Tân Triều thành Tổ dân phố số 1 đường Chiến Thắng, phường Thanh Liệt; 2. Tổ dân phố số 3, xóm Mới, xã Tân Triều thành Tổ dân phố số 3 xóm Mới, phường Thanh Liệt; 3. Tổ dân phố số 4, chung cư Ecogreen City, xã Tân Triều thành Tổ dân phố số 4 chung cư Ecogreen City, phường Thanh Liệt; 4. Tổ dân phố số 7 Tổng cục V, Bộ Công an xã Tân Triều thành Tổ dân phố số 7 Tổng cục V, Bộ Công an phường Thanh Liệt; 5. Tổ dân phố số 2, Cầu Bươu, xã Tân Triều thành Tổ dân phố số 2, Cầu Bươu, phường Thanh Liệt; II. Xã Thanh Liệt: 6. Tổ dân phố số 2, Liên cơ Hoa Cà, xã Thanh Liệt thành Tổ dân phố số 2 Liên cơ Hoa Cà, phường Thanh Liệt; 7. Tổ dân phố số 1, Khu tập thể 56 + 664, xã Thanh Liệt thành Tổ dân phố số 1 Khu tập thể 56 + 664, phường Thanh Liệt; Điều 3. Đổi tên gọi đối với 17 Tổ dân phố thuộc, phường Thanh Xuân Bắc, phường Văn Quán, phường Hạ Đình (trước sắp xếp), cụ thể như sau: I. Phường Thanh Xuân Bắc cũ: 1. Tổ dân phố số 1, khu dân cư 13, phường Thanh Xuân Bắc thành Tổ dân phố số 1 Thanh Xuân Nam, phường Thanh Liệt; 2. Tổ dân phố số 2, khu dân cư 13, phường Thanh Xuân Bắc thành Tổ dân phố số 2 Thanh Xuân Nam, phường Thanh Liệt; 3. Tổ dân phố số 4, khu dân cư 14, phường Thanh Xuân Bắc thành Tổ dân phố số 4 Thanh Xuân Nam, phường Thanh Liệt; 4. Tổ dân phố số 6, khu dân cư 15, phường Thanh Xuân Bắc thành Tổ dân phố số 6 Thanh Xuân Nam, phường Thanh Liệt; 5. Tổ dân phố số 8, khu dân cư 16, phường Thanh Xuân Bắc thành Tổ dân phố số 8 Thanh Xuân Nam, phường Thanh Liệt; 6. Tổ dân phố số 9, khu dân cư 17, phường Thanh Xuân Bắc thành Tổ dân phố số 9 Thanh Xuân Nam, phường Thanh Liệt; 7. Tổ dân phố số 10, khu dân cư 17, phường Thanh Xuân Bắc thành Tổ dân phố số 10 Thanh Xuân Nam, phường Thanh Liệt; 8. Tổ dân phố số 11, khu dân cư 18, phường Thanh Xuân Bắc thành Tổ dân phố số 11 Thanh Xuân Nam, phường Thanh Liệt; 19. Tổ dân phố số 12, khu dân cư 18, phường Thanh Xuân Bắc thành Tổ dân phố số 12 Thanh Xuân Nam, phường Thanh Liệt; 20. Tổ dân phố số 13, khu dân cư 19, phường Thanh Xuân Bắc thành Tổ dân phố số 13 Thanh Xuân Nam, phường Thanh Liệt; IV. Phường Hạ Đình cũ: 11. Tổ dân phố số 12, phường Hạ Đình thành Tổ dân phố số 12 Hạ Đình, phường Thanh Liệt; 12. Tổ dân phố số 14, phường Hạ Đình thành Tổ dân phố số 14 Hạ Đình, phường Thanh Liệt; 13. Tổ dân phố số 15, phường Hạ Đình thành Tổ dân phố 15 Hạ Đình, phường Thanh Liệt; 14. Tổ dân phố số 16, phường Hạ Đình thành Tổ dân phố 16 Hạ Đình, phường Thanh Liệt; V. Phường Văn Quán cũ: 15. Tổ dân phố số 10, phường Văn Quán thành Tổ dân phố số 10 Văn Quán, phường Thanh Liệt; 16. Tổ dân phố số 11, phường Văn Quán thành Tổ dân phố số 11 Văn Quán, phường Thanh Liệt; 17. Tổ dân phố số 12, phường Văn Quán thành Tổ dân phố số 12 Văn Quán, phường Thanh Liệt.</ref><ref>{{Chú thích web |last=|date=|title=Quyết định số 541/QĐ-UBND ngày 25 tháng 7 năm 2025 của Ủy ban nhân dân phường Thanh Liệt về việc chuyển đổi thôn thành tổ dân phố và đổi tên tổ dân phố do trùng tên sau khi sắp xếp đơn vị hành chính cấp xã trên địa bàn phường Thanh Liệt, thành phố Hà Nội|url=https://quantrithanhxuan.hanoi.shieldix.app/data/doc/2025/ththanhxuannam/2025_9/8/quyet-dinh-ve-viec-chuyen-doi-thon-thanh-to-dan-pho-va-doi-ten-to-dan-pho-do-tr_89202522.pdf|url-status=dead|archive-url=https://web.archive.org/web/20260808201510/https://quantrithanhxuan.hanoi.shieldix.app/data/doc/2025/ththanhxuannam/2025_9/8/quyet-dinh-ve-viec-chuyen-doi-thon-thanh-to-dan-pho-va-doi-ten-to-dan-pho-do-tr_89202522.pdf|archive-date=2026-08-08|access-date=2026-08-08|website=Trường Tiểu học Thanh Xuân Nam – phường Thanh Liệt – thành phố Hà Nội}}</ref>
+
+Ngày 24 tháng 12 năm 2025, xác định phần lớn của phường Thanh Liệt là [[Đô thị Việt Nam|đô thị loại II]].<ref>Chuyển tiếp từ phường Văn Quán thuộc quận Hà Đông, phường Đại Kim thuộc quận Hoàng Mai và 2 phường: Hạ Đình, Thanh Xuân Bắc thuộc quận Thanh Xuân.</ref><ref>{{Chú thích web|title=Nghị quyết số 111/2025/UBTVQH15 ngày 24 tháng 12 năm 2025 của Ủy ban Thường vụ Quốc hội về phân loại đô thị|url=https://cdn.nhandan.vn/files/f4a4abf7f9a0ba4a91744616546d850872b76917f90d5a74cc9eebef1369fb6f/111.pdf|url-status=dead|archive-url=https://web.archive.org/web/20260430074852/https://cdn.nhandan.vn/files/f4a4abf7f9a0ba4a91744616546d850872b76917f90d5a74cc9eebef1369fb6f/111.pdf|archive-date=2026-04-30|access-date=2026-07-12|website=Báo Nhân dân}}</ref>
+
+Ngày 24 tháng 6 năm 2026, thành lập 12 tổ dân phố mới: Thanh Châu, Vực, Văn, Cầu Bươu, 1, 2 Yên Xá, từ 1 đến 3 Triều Khúc, Tây Nam Kim Giang, 1, 2 Hạ Đình, từ 1 đến 4 Thanh Xuân Nam và Đường Chiến Thắng.<ref name=":1">1. Tổ dân phố Thượng: Giữ nguyên Tổ dân phố Thượng; 2. Tổ dân phố Thanh Châu: Sắp xếp trên cơ sở toàn bộ Tổ dân phố Nội với Tổ dân phố Tràng, Toàn bộ diện tích Công viên Chu Văn An; 3. Tổ dân phố Vực: Sắp xếp trên cơ sở toàn bộ Tổ dân phố Vực + Tổ dân phố số 1 Khu tập thể 56+664, chung cư Eden Rose (trừ khu tập thể công trường 3, Tập thể cơ khí giải phóng A, cá giống thủy sản); 4. Tổ dân phố Văn: Sắp xếp trên cơ sở toàn bộ Tổ dân phố Văn với Tổ dân phố số 2 Liên cơ Hoa Cà; 5. Tổ dân phố Cầu Bươu: Sắp xếp trên cơ sở toàn bộ Tổ dân phố số 2 Cầu Bươu, Bệnh viện K, Khu đô thị Cầu Bươu, Khu tập thể công trường 3 và Tập thể cơ khi giải phóng A, cá giống thủy sản, khu liền kề Hải Âu; 6. Tổ dân phố số 1 Yên Xá: Sắp xếp trên cơ sở toàn bộ Đội 6 Tổ dân phố Yên Xá + 1 phần 2 Đội 7, Khu tập thể 829, Dệt 34, Ngân hàng; 7. Tổ dân phố số 2 Yên Xá: Sắp xếp trên cơ sở toàn bộ 1 phần 2 Đội 7, Khu nhà ở Xã hội Quy hoach + Tổ dân phố Yên Xá Đội 8; 8. Tổ dân phố Tổng cục V: Giữ nguyên Tổ dân phố Tổng cục V; 9. Tổ dân phố số 1 Triều Khúc: Sắp xếp trên cơ sở toàn bộ Tổ dân phố Triều Khúc Xóm Chủa, Xóm Đỗi và 1 phần Xóm Cầu; 10. Tổ dân phố số 2 Triều Khúc: Sắp xếp trên cơ sở phần lớn Xóm Đình + 1 phần Xóm Lẻ; 11. Tổ dân phố số 3 Triều Khúc: Sắp xếp trên cơ sở 1 phần lớn Xóm Cầu + 1 phần Xóm Lẻ + 1 phần Xóm Đình + toàn bộ Xóm Án + Cụm Làng nghề Tân Triều; 12. Tổ dân phố Tây Nam Kim Giang: Sắp xếp trên cơ sở toàn bộ Tổ dân phố số 4 chung cư Ecogreen City + Chung cư Housinco và Ecodream + 1 phần Khu đô thị Tây Nam Kim Giang; 13. Tổ dân phố số 1 Hạ Đình: Sắp xếp trên cơ sở toàn bộ Tổ dân phố số 12 Hạ Đình + Tổ dân phố số 14 Hạ Đình; 14. Tổ dân phố số 2 Hạ Đình: Sắp xếp trên cơ sở toàn bộ Tổ dân phố số 15 Hạ Đình + Tổ dân phố số 16 Hạ Đình; 15. Tổ dân phố số 1 Thanh Xuân Nam: Sắp xếp trên cơ sở toản bộ Tổ dân phố số 1 Thanh Xuân Nam + Tổ dân phố số 2 Thanh Xuân Nam + Tổ dân phố số 4 Thanh Xuân Nam + Tổ dân phố số 6 Thanh Xuân Nam; 16. Tổ đân phố số 2 Thanh Xuân Nam: Sắp xếp trên cơ sở toàn bộ Tổ dân phố số 8 Thanh Xuân Nam + Tổ dân phố số 9 Thanh Xuân Nam + 1 phần Tổ dân phố số 10 Thanh Xuân Nam (phía giáp Tổ dân phố số 9 Thanh Xuân Nam, số nhà lẻ) + Tổ dân phố số 3 xóm Mới; 17. Tổ dân phố số 3 Thanh Xuân Nam: Sắp xếp trên cơ sở 1 phần Tổ dân phố số 10 Thanh Xuân Nam (phía giáp Tổ dân phố số 11, 12 Thanh Xuân Nam, số nhà chẵn) + Tổ dân phố số 11 Thanh Xuân Nam + Tổ dân phố số 12 Thanh Xuân Nam; 18. Tổ dân phố 4 Thanh Xuân Nam: Sắp xếp trên cơ sở toàn bộ Tổ dân phố số 11 Văn Quán + Tổ dân phố số 12 Văn Quán + Tổ dân phố số 13 Thanh Xuân Nam; 19. Tổ dân phố đường Chiến Thắng: Sắp xếp trên cơ sở toàn bộ Tổ dân phố số 10 Văn Quán + Tổ dân phố số 1 đường Chiến Thắng.</ref><ref name=":0">{{Chú thích web |last= |date= |title=Nghị quyết số 19/NQ-HĐND ngày 25 tháng 6 năm 2026 của Hội đồng nhân dân phường Thanh Liệt về việc sắp xếp, tổ chức lại các Tổ dân phố trên địa bàn phường Thanh Liệt |url=https://sqhx-hanoi.mediacdn.vn/91579363132710912/2026/7/16/19nq2026vv-sap-xep-to-chuc-lai-cac-tdp-tren-dia-ban-phuong-thanh-liet0001-1784193337524392974472.pdf |access-date=2026-08-09 |website=Trang Thông tin điện tử phường Thanh Liệt – thành phố Hà Nội|archive-url=https://web.archive.org/web/20260809201510/https://sqhx-hanoi.mediacdn.vn/91579363132710912/2026/7/16/19nq2026vv-sap-xep-to-chuc-lai-cac-tdp-tren-dia-ban-phuong-thanh-liet0001-1784193337524392974472.pdf|archive-date=2026-08-09|url-status=dead}}</ref><!-- 
+== Lịch sử== 
+Dưới thời [[nhà Nguyễn]], Văn Quán vốn là một làng thuộc tổng Thanh Oai Thượng, huyện [[Thanh Oai (huyện)| Thanh Oai]], phủ Ứng Thiên, trấn [[Sơn Nam Thượng]].
+
+Sau năm 1945, làng Văn Quán cùng với các làng Mộ Lao, Cầu Đơ, Hà Trì được sáp nhập vào thị xã Hà Đông. Lúc này, Văn Quán trở thành một thôn ngoại thị của thị xã.
+
+Năm [[1965]], thôn Văn Quán sáp nhập với 3 thôn Mỗ Lao (Mộ Lao), Yên Phúc và Xa La để thành lập xã Văn Yên thuộc thị xã Hà Đông.
+
+Ngày [[23 tháng 6]] năm [[1994]], Chính phủ ban hành Nghị định 52-CP<ref>{{Chú thích web| url = https://thuvienphapluat.vn/van-ban/Bat-dong-san/Nghi-dinh-52-CP-dieu-chinh-dia-gioi-huyen-va-lap-thi-tran-phuong-thuoc-huyen-Hoai-Duc-Chuong-My-Thach-That-Thanh-Oai-thi-xa-Ha-Dong-tinh-Ha-Tay-38810.aspx| tựa đề = Nghị định 52-CP năm 1994 về việc điều chỉnh địa giới huyện và thành lập thị trấn, phường thuộc các huyện Hoài Đức, Chương Mỹ, Thạch Thất, Thanh Oai, thị xã Hà Đông, tỉnh Hà Tây| tác giả = | họ = | tên = | ngày = | website = | url lưu trữ = | ngày lưu trữ = | ngày truy cập = }}</ref>. Theo đó, giải thể xã Văn Yên để thành lập hai phường Văn Mỗ và Phúc La.
+
+Phường Văn Mỗ gồm có các thôn Văn Quán, Mỗ Lao thuộc xã Văn Yên cũ và phố Trần Phú của phường Yết Kiêu với 266,96 ha diện tích tự nhiên và 13.703 người.
+
+Ngày [[27 tháng 12]] năm [[2006]], phường Văn Mỗ thuộc thành phố Hà Đông mới thành lập.
+
+Ngày [[1 tháng 3]] năm [[2008]], Chính phủ ban hành Nghị định 23/2008/NĐ-CP<ref name = "23/2008/NĐ-CP">{{Chú thích web| url = https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/Nghi-dinh-23-2008-ND-CP-dieu-chinh-dia-gioi-hanh-chinh-xa-phuong-de-thanh-lap-phuong-thuoc-thanh-pho-Ha-Dong-Son-Tay-tinh-Ha-Tay-63236.aspx| tựa đề = Nghị định số 23/2008/NĐ-CP về việc điều chỉnh địa giới hành chính xã, phường, để thành lập phường thuộc thành phố Hà Đông, thành phố Sơn Tây, tỉnh Hà Tây| tác giả = | họ = | tên = | ngày = | website = | url lưu trữ = | ngày lưu trữ = | ngày truy cập = }}</ref>. Theo đó, chia phường Văn Mỗ thành hai phường Văn Quán và Mộ Lao.
+
+Phường Văn Quán có 139,6 ha diện tích tự nhiên, dân số là 12.547 người.
+
+Ngày [[8 tháng 5]] năm [[2009]], quận Hà Đông được thành lập trên cơ sở toàn bộ diện tích và dân số của thành phố Hà Đông, phường Văn Quán thuộc quận Hà Đông cho đến nay.
+== Lịch sử== 
+Trước đây, Đại Kim là một xã thuộc huyện [[Thanh Trì (huyện)| Thanh Trì]].
+
+Ngày [[6 tháng 11]] năm [[2003]], xã Đại Kim được chuyển thành phường thuộc quận Hoàng Mai mới thành lập.
+
+== Lịch sử== 
+Thanh Liệt là vùng đất cổ, sớm được người Việt đến tụ cư, khai phá. Năm 1926, làng có đến 2091 nhân khẩu.
+
+Phía đông và cũng là mặt chính của làng nhìn ra sông Tô Lịch với những vườn nhãn, vải cổ thụ kéo dài hai bên bờ. Phía tây là mặt sau của làng có Đầm Tròn khá lớn. Đầm Tròn có lối thông ra sông Nhuệ qua cống Cầu Gạo và ngòi Cầu Bươu. Bên bờ đầm có chùa cổ Quang Ân, đình thờ danh tướng Phạm Tu, phong cảnh thật hữu tình.
+
+Cư dân sống bằng nông nghiệp, làm vườn, trồng nhiều loại cây mang tính đặc sản như vải và nhãn lồng. Vải của Thanh Liệt được [[Nguyễn Trãi]] nhắc đến trong sách Dư địa chí; còn nhãn lồng được ví ngang ổi làng Định Công ("ổi Định Công, nhãn lồng Kẻ Quang").
+
+Làng có chợ Quang họp đầu cầu Quang Bình (nối với làng Bằng) khá sầm uất<ref name = "TL" />. Chợ Quang họp ngay dưới gốc cây gạo cổ thụ đầu cầu. Cây gạo này cùng với hai cây phi lao trong trại ấp của nhà ông Phán Thành (hiện nay là trường tiểu học Thanh Liệt, nằm giữa địa giới hai xóm Tràng và Mụ) từ xa xưa là cái mốc để người Thanh Liệt đi xa về nhận biết làng xóm mình. Cho đến thập niên 60 của thế kỷ XX, từ cách xa gần chục cây số, người đi trên đường Nguyễn Trãi, Hà Đông, ngã tư Vọng, Giáp Bát, Pháp Vân... vẫn nhìn thấy rõ các cây này vươn lên trời cao.
+
+Trước đây xã Thanh Liệt có 10 xóm: Thượng, Chùa Nhĩ, Bơ, Nội, Cầu, Giữa, Tràng, Mụ, Vực, Văn; nay gồm các thôn: thôn Thượng, thôn Nội, thôn Tràng, thôn Vực, thôn Văn. Các thôn Thượng, Nội, Tràng, Vực liền nhau thành một dải; thôn Văn nằm riêng biệt bên kia sông Tô Lịch. Cho đến tận giữa những năm 60 của thế kỷ XX, thôn Văn vẫn khá bị biệt lập với các thôn khác của xã Thanh Liệt vì cầu qua sông Tô Lịch ở khu vực này chưa có; người và xe cộ ngay trong xã muốn vào thôn Văn đều phải ra tận đường 70 rồi mới có đường vào thôn. Khoảng giữa những năm 60 dân làng mới bắc chiếc cầu tre nhỏ (không hơn các cầu "khỉ" ở đồng bằng sông Cửu Long là bao) chỉ đủ để người đi bộ và gồng gánh. Đó chính là tiền thân của chiếc cầu nối giữa thôn Vực và thôn Văn ở khu vực Nhà máy sơn tổng hợp hiện nay.
+
+== Danh nhân và khoa cử== 
+Thế kỷ thứ VI, làng Thanh Liệt sản sinh một người con trở thành vị tướng tài là [[Phạm Tu]] (476 - 545).Ông có công lớn giúp [[Lý Bí]] (Lý Nam Đế) đánh đuổi giặc Lương, lập ra [[nước Vạn Xuân]] độc lập (năm 544), sau lại đánh đuổi giặc [[Chiêm Thành]] giữ yên bờ cõi đất nước. Về sau ông hy sinh trong khi đánh nhau với tướng giặc là Trần Bá Tiên ở cửa sông Tô Lịch. Dân làng lập đền thờ ông ở cánh đồng thôn Trung, gọi là Đình Ngoài<ref name = "TL"/>. Ngoài ra còn có Miếu thờ ông tại thôn Vực (dân làng quen gọi là miếu Vực) nằm ngay mặt đường nhìn ra ngã ba của hai nhánh sông Tô Lịch.
+ 
+Làng Thanh Liệt nổi tiếng về truyền thống học hành thành đạt. Đây là quê hương của [[Chu Văn An]] (1292 - 1370) - vị Nho thần nổi tiếng cương trực, đào tạo được nhiều học trò giỏi cho đất nước vào cuối thời Trần, trở thành vị "Thánh sư" cho nền giáo dục Nho học Việt Nam. Dân làng đã tôn ông làm Thành hoàng, thờ ông tại ngôi đình nằm trên trục đường chính ngay bên bờ sông Tô và hồ Thủy đình, gọi là Đình Trong. Rất tiếc hồ Thủy đình đã bị lấp và Nhà Thủy tạ rất đẹp nằm giữa hồ đã bị phá vào khoảng sau năm 2000 khi làm đường qua đây. 
+[[Tập tin:Nhà Thủy tạ trước đình thờ Chu Văn An ở xã Thanh Liệt (Đầu những năm 2000 trước khi bị phá) Ảnh Nguyễn Hữu Mão.jpg| nhỏ| Nhà Thủy tạ trước đình thờ Danh nhân Chu Văn An ở xã Thanh Liệt (Đầu những năm 2000, trước khi bị phá)]] 
+ 
+Cháu bốn đời của Chu Văn An là Chu Đình Báo đỗ Tiến sĩ khoa Giáp Thìn niên hiệu Hồng Đức đời Vua [[Lê Thánh Tông]] (1484). Theo bia "Hoàng triều Ất Sửu" do Tiến sĩ Hoàng Đình Chuyên (1812 - ?) - người làng [[Linh Đàm]] (nay thuộc quận Hoàng Mai soạn thì làng còn có một vị Tiến sĩ nữa là Trần Thản, song các sách Đăng khoa lục không chép vị Tiến sĩ này<ref name = "TL" />.
+ 
+Ghi tạc công lao của Chu Văn An và để khích lệ tinh thần học tập của người làng, dân làng đã dựng Văn chỉ tại thôn Trung vào năm Cảnh Hưng thứ 26 (1765). Lúc đầu Văn chỉ ở cánh đồng xứ Đầm Tròn. Đến năm Giáp Tý đời Tự Đức (1864), Tú tài Vũ Huy Diệu cho chuyển lên khu đất cao. Văn chỉ gồm 3 gian chính cung lợp ngói, có Tả vu, Hữu vu<ref name = "TL"/>.
+
+Khu tưởng niệm Chu Văn An hiện đang được quy hoạch để xây dựng với diện tích gần 50 ha. (Khu tưởng niệm sẽ nằm trên cánh đồng Thanh Liệt trước đây từ khu sân bóng bộ công an tới khu chùa Quang Ân).
+
+Với truyền thống học hành như thế nên Trường tiểu học Thanh Liệt cũng là một ngôi trường có rất sớm ở trong vùng, nó được xây dựng từ những năm đầu của thế kỷ XX.
+
+Đầu thế kỷ XX, làng Thanh Liệt có ông Vũ Hoành (1873 - 1946) tham gia [[đông Kinh Nghĩa Thục| phong trào Đông Kinh nghĩa thục]] và [[hà Thành đầu độc| vụ Hà Thành đầu độc]], bị đày ra [[Côn Đảo]]. Về sau, bị đưa về an trí tại [[Sa Đéc (thành phố)| Sa Đéc]], ông thể hiện tính khẳng khái: không nhận trợ cấp của Pháp mà tự sống bằng nghề làm thuốc chữa bệnh cho nhân dân và dạy học cho con em trong vùng. Khi giặc Pháp trở lại gây hấn, ông vào Bưng biền tham gia chiến đấu và hy sinh ngày 29 - 11 - 1946<ref name = "TL"/>.
+
+== Di tích lịch sử, văn hóa, lễ hội== 
+[[Tập tin:ĐÌNH THỜ CHU VĂN AN.jpg| nhỏ| Đình thờ danh nhân Chu Văn An tại xã Thanh Liệt bên bờ sông Tô Lịch]]
+
+*[[Tập tin:Một đoạn đường mang tên Thanh Liệt IMG 1228.jpg| nhỏ| Một đoạn đường mang tên Thanh Liệt]][[Tập tin:Một đoạn sông Tô Lịch chảy qua xã Thanh Liệt IMG 1229.jpg| nhỏ| Một đoạn sông Tô Lịch chảy qua xã Thanh Liệt]]Làng Thanh Liệt có ''chùa Quang Ân'' ở thôn Trung (nay là thôn Tràng), theo bia "Quang Ân thạch trụ thạch kiều quán bi ký " thì cầu có từ lâu, đến năm Đinh Mùi niên hiệu Bảo Thái (1727), Nhà sư Tịnh Tuyên trụ trì chùa đứng ra quyên tiền để dựng hậu đường, tháp đá; lại cho xây cầu đá và 3 gian quán bằng đá để dân đi lại thuận tiện<ref name = "TL" />.
+*''Đình làng Thanh Liệ''t: Kể cũng hiếm làng quê Việt Nam nào có đến hai ngôi đình thờ Thành hoàng làng là danh nhân của làng như xã Thanh Liệt: Đình Ngoại nơi thờ tướng Phạm Tu, xây năm Canh Ngọ (1690) hướng đông nam, giữa cánh đồng thôn Trung, nhìn ra hồ Ngọc Thanh Đàm. Đình có quy mô kiến trúc vừa phải, gồm Đại Đình năm gian, nhà cầu nối với hậu cung hai gian tạo nên kết cấu chữ đinh. Nhiều di vật quý còn được lưu giữ: y môn, câu đối, hoành phi, tranh thờ, đôi lục bình đời Thanh, hương án, long ngai bài vị, bảy đạo sắc phong thần và một cuốn thần phả... Đã gần 1500 năm trôi qua, công lao đánh giặc giữ nước của tướng Phạm Tu mãi lưu truyền. Dân chúng làm nhiều câu thơ để ca ngợi, trong đó có câu: ''Tướng sử lục triều Lương địch quốc'' ''Thần bi nhất Phạm liệt danh hương'' Tạm dịch: ''Tướng triều đại năm thứ năm đánh giặc Lương'' ''Bia thần chốn làng quê sáng danh họ Phạm'' Những di tích liên quan đến tướng Phạm Tu còn có miếu Vực. Miếu Vực theo các cụ truyền lại là nơi thờ Phạm Tu theo sắc chỉ vua Lý từ thế kỷ thứ VI. Từ khi có đình Ngoại thì ở đây là nơi thờ vọng Phạm Tu cùng với cha mẹ ông. Miếu nhỏ nhưng rất linh ứng nên bà ngoại, bố mẹ chúa Trịnh Sâm đã bầu hậu tại đây. Ở Thanh Liệt còn có ngôi đình Lý Nhân ở thôn Trung thờ vọng tướng Phạm Tu dựng năm 1872, mở rộng thêm vào năm 1899. Đình Nội nơi thờ Chu Văn An vốn xa xưa là ngôi đền cổ, đến thời Lê Trung hưng trở thành văn từ thờ các vị khoa bảng trong làng. Nên khi xây đình các vị tiến sĩ đại khoa cũng được phối thờ. Đình được khởi dựng vào năm Ất Dậu (1765). Đến năm Giáp Tý (1864), vị tú tài Vũ Huy Hiệu cùng với dân làng chọn nơi đất thoáng hiện nay xây lại đình gồm ba gian chính và hai bên giải vũ. Mùa xuân năm Nhâm Dần (1892) đình được mở rộng. Còn được trùng tu vào năm 1921. Đến năm Nhâm Ngọ 1942 xây thêm nhà thủy toạ. Đình  Nội được xây trên khu đất cao, thoáng rộng ở giữa làng, hướng đông bắc nhìn ra sông Tô Lịch. Kiến trúc kiểu chữ công với ba nếp nhà cao thấp khác nhau. Trước đây di tích là một khối liên hoàn chặt chẽ gắn kết với nhau. Những năm chiến tranh chống Mỹ, con đường trước cửa đình được mở rộng để thuận tiện cho các loại vũ khí phòng không của quân đội ta cơ động chiến đấu, ngôi đình bị chia đôi với nhà Thủy đình. Dịp kỷ niệm 1.000 năm Thăng Long, ngôi đình được trùng tu và chẳng hiểu sao nhà Thủy đình đã bị phá bỏ. Thật tiếc! Thủy đình là một công trình kiến trúc đẹp xây bằng gạch trên khối trụ móng hình tròn, nằm giữa hồ bán nguyệt, soi bóng xuống dòng sông Tô Lịch. Phần trên làm kiểu hai tầng tám mái, các đầu đao uốn cong, phía dưới mở nhiều cửa trông ra tám hướng. Tiền đình là ngôi nhà rộng năm gian, một kiến trúc nhỏ nối hai nếp nhà sau trước. Lớp nhà giữa nối nhà sau tiền đình với hậu cung làm đơn giản gần như hình vuông trong để kiệu, bia đá. Hậu cung là ba gian hẹp lòng, hai gian bên xây bệ thấp để tượng các vị khoa bảng trong làng, tượng tạc nhỏ gồm: con trai cả của Chu công là Chu Tam Tỉnh, trúng tuyển khoa ngự thí năm Tân Hợi; Chu Đình Bảo cháu bốn đời của Chu công đỗ tiến sĩ khoa Giáp Thìn và Lý Trần Thảo người xã Lê Xá, huyện Duy Tiên, nhập tịch ở xã, tiến sĩ khoa Ất Sửu. Tượng Chu công tạc với tỷ lệ gần như người thật, để trong khám lớn trên ví trí cao nhất ở giàn giữa hậu cung. Khác với tượng thần ở các nơi thường tạc “tai to mặt lớn”, mặc triều phục, đội mũ cánh chuồn, tượng Chu công đầu đội khăn xếp, mặc áo lương xanh của nho sinh, khuôn mặt hao gầy, u buồn, đầy tâm trạng. Có lẽ nghệ nhân tạc tượng đã nắm bắt được cái hồn của Chu công khi từ quan về ở ẩn: tiếc rằng tôi sáng chẳng gặp được vua hiền nặng lòng yêu nước thương dân mà đành bất lực. Đình Nội còn lưu giữ được nhiều di vật quý gồm: sáu tấm bia đá, trong đó bốn tấm dựng thời Lê Trung hưng, năm sắc phong thần, một cỗ kiệu, y môn, hoành phi, câu đối và thần phả. 
+*Những ''công trình phúc lợi'' có rất sớm ở Thanh Liệt: Những năm đầu thế kỷ XX, khi Tổng đốc Hà Đông là Hoàng Trọng Phu (dân quen gọi là Ông Thiếu Hà Đông, ông làm Tổng đốc Hà Đông bắt đầu từ năm 1906 và ở chức vị này trên 20 năm), là người có đầu óc canh tân và muốn cho tỉnh Hà Đông phát triển, Thanh Liệt là nơi được ông áp dụng nhiều chính sách và công việc mở mang. Trong thời gian này ông cho lập trường tiểu học Thanh Liệt (nằm trên đất xóm Tràng nhìn ra sông Tô Lịch, ngoài toà nhà kiến trúc khá đẹp với các phòng học còn có khoảng đất rộng làm sân vận động), nhà Ấu trĩ (nằm trên đất xóm Bơ), xây dựng giếng máy (giếng khoan dùng bơm quay tay để bơm nước), nhà hộ sinh (nằm trên đất xóm Giữa nhìn ra sông Tô Lịch), dùng vật liệu dỡ bỏ của chợ Hàng Da mang về để xây quán chợ Quang, xây cầu Quang Bình (có trụ bằng bê tông cốt thép) nối với làng Bằng. Những công trình này có cái tồn tại và hoạt động cho đến những năm 70, 80 của thế kỷ XX mới bị xuống cấp, dỡ bỏ hoặc thay thế. 
+*Con ''đường chạy dọc bờ sông'' Tô Lịch nối từ đường Nguyễn Trãi (gần Ngã Tư Sở) tới đường 70 ở Cầu Tó, hiện nay được đặt tên là đường Khương Đình và đường Kim Giang, xưa chỉ là đường đất. Đến năm 1939 con đường mới được rải đá. Người bỏ tiền ra rải đá con đường là một người giàu có ở xã Thanh Liệt, tên ông là Sáu Nhàn. Trại tạm giam Thanh Liệt hiện nay của Bộ Công an chính là dinh cơ ngày xưa của ông Sáu Nhàn. Đến năm 1968 đoạn đường qua xã Thanh Liệt mới được trải nhựa.
+*
+*Con đường mang tên "đường Thanh Liệt": khoảng sau năm 2010 một con đường rộng với 4 làn xe, có dải phân cách ở giữa nối với đường vành đai Nghiêm Xuân Yêm chạy từ thôn Thượng xuống đến thôn Vực đã được mở. Thực chất con đường này chạy phía sau làng. Tháng 12 năm 2018 thành phố Hà Nội chính thức đặt tên con đường mới mở này là đường Thanh Liệt.[[Tập tin:Biển tên đường Thanh Liệt IMG 1227 .jpg| nhỏ| Biển tên đường Thanh Liệt]]
+*''Lễ hôi làng Thanh Liệt'': Từ xưa, lệ ở Thanh Liệt mở đình từ ngày 7 tháng 2 âm lịch, ngày 8 tháng 2 đón khách, ngày 9 tháng 2 rước từ đình Nội đến đình Ngoại vào dâng lễ rồi rước về. Ngày 10 tháng 2 tế tạ ở hai đình. Trong mấy ngày hội làng có các trò diễn tuồng, chọi gà, đánh cờ bỏi... Cách phục sức của quan viên, của đô tùy và cách đánh trống chiêng đều được đặt thành thơ lục bát nhằm mục đích dễ nhớ như trong bài “Đám rước hội làng” dưới đây: ''Đi đầu đôi ngựa bạch cao'' ''Mười hai cờ sắc vẫy chào gió xuân'' ''Tiếp theo là trống tiền quân'' ''Lọng vàng tám tía, bước chân dập dồn'' ''Đến biển Nam quốc nho tôn'' ''Đôi tàn đi cạnh, đổ dồn tùng dinh'' ''Kế tiếp là kiệu long đình'' ''Hương trầm nghi ngút anh linh văn bài'' ''Trống trung quân bảy tiếng dài'' ''Đến năm cỗ ngọc đủ loài bánh hoa'' ''Nữ quan khiêng kiệu đức bà'' ''Hội nhạc đi trước tấu hoà bát âm'' ''Tư văn các chức tay cầm'' ''Túc Tĩnh, bát bảo có phần trang nghiêm'' ''Đến chiếu trung tịch quan viên'' ''Gươm vàng kiếm bạc bút nghiên hai hàng'' ''Bức trướng nguyên soái dát vàng'' ''Uy nghi trước kiệu thành hoàng đức ông'' ''Bát hương bài vị bên trong'' ''Bước ra đến khỏi cổng đình kiệu quay'' ''Trống hậu quân báo kiệu bay'' ''Trung tâm đám rước tránh ngay ven đường'' ''Ngài mừng ngài hoá bát hương'' ''Kiệu bay đến tận cổng trường Chu công'' ''Lại bay trở lại công đồng'' ''Nhập vào đám rước để cùng rước đi'' ''Kiệu bà đến miếu Vực thì'' ''Ghé vào dâng lễ rước đi đình ngoài'' ''Rước ngày mồng chín tháng Hai'' ''Mồng mười lễ tạ đình ngoài đình trong'' ''Hội làng tôi kể đã xong'' ''Nôm na ghi lại vài dòng xem chung.'' Thanh Liệt nối với mạch đất Thăng Long, quanh co theo dải sông Tô Lịch. Mảnh đất địa linh nhân kiệt đã sinh ra hai danh nhân lớn của lịch sử dân tộc Việt Nam đều đứng ở vị trí hàng đầu. Võ tướng Phạm Tu đã giúp vua Lý Nam Đế đánh quân xâm lược nhà Lương, lập nên nước Vạn Xuân, ngã xuống phòng tuyến sông Tô từ thế kỷ thứ VI. Quốc Tử Giám tư nghiệp Chu Văn An đời Trần. được đời sau tôn vinh là "Vạn thế sư biểu" (Người thầy giáo mẫu mực của muôn đời). đã góp phần đào tạo nhiều nhân tài cho đất nước - một người tài cao đức lớn yêu nước thương dân. Cuộc đời và sự nghiệp của Chu Văn An là tấm gương sáng để hậu thế noi theo.
+ -->
+
+== Hành chính==
+Phường Thanh Liệt được chia thành 19 tổ dân phố: 1, 2 Hạ Đình, từ 1 đến 4 Thanh Xuân Nam, từ 1 đến 3 Triều Khúc, 1, 2 Yên Xá, Cầu Bươu, Đường Chiến Thắng, Tây Nam Kim Giang, Thanh Châu, Thượng, Tổng cục V, Văn và Vực.<ref name=":0" />
+{| class="wikitable sortable" cellpadding="0" cellspacing="6" width="100%" align="center" style="background: #f9f9f9; border: 1px #aaa solid; margin-top: 16px"
+! colspan="4" style="background: #E6E6FA; font-size: 95%;" |Danh sách các tổ dân phố thuộc phường Thanh Liệt<ref name=":0" />
+|-
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| cellpadding="1" cellspacing="1" width="100%" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |1 Hạ Đình
+|914
+|-
+| align="left" |2 Hạ Đình
+|1.115
+|-
+| align="left" |1 Thanh Xuân Nam
+|1.874
+|-
+| align="left" |2 Thanh Xuân Nam
+|1.286
+|-
+| align="left" |3 Thanh Xuân Nam
+|1.597
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| cellpadding="1" cellspacing="1" width="100%" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |4 Thanh Xuân Nam
+|1.410
+|-
+| align="left" |1 Triều Khúc
+|1.969
+|-
+| align="left" |2 Triều Khúc
+|1.302
+|-
+| align="left" |3 Triều Khúc
+|2.213
+|-
+| align="left" |1 Yên Xá
+|1.283
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| cellpadding="1" cellspacing="1" width="100%" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |2 Yên Xá
+|1.191
+|-
+| align="left" |Cầu Bươu
+|1.120
+|-
+| align="left" |Đường Chiến Thắng
+|831
+|-
+| align="left" |Tây Nam Kim Giang
+|1.246
+|-
+| align="left" |Thanh Châu
+|2.251
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| cellpadding="1" cellspacing="1" width="100%" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Thượng
+|1.474
+|-
+| align="left" |Tổng cục V
+|720
+|-
+| align="left" |Văn
+|1.375
+|-
+| align="left" |Vực
+|1.574
+|}
+|}
+
+== Kinh tế== 
+Phường Thanh Liệt có cơ cấu kinh tế như sau: dịch vụ - thương mại, bất động sản và giao thông vận tải. Trên địa bàn có nhiều cửa hàng tiện lợi, siêu thị mini, hệ thống quán ăn, cà phê và dịch vụ tiêu dùng. Dịch vụ - thương mại phát triển nhờ mật độ dân cư cao và quá trình đô thị hóa nhanh, với hoạt động vận tải hàng hóa, giao nhận, kho bãi nhỏ lẻ và vận tải cá nhân phát triển theo nhu cầu đô thị hóa. Phường Thanh Liệt phát triển bất động sản nhờ vị trí gần các tuyến đường giao thông như [[Đường vành đai 3 (Hà Nội)|đường vành đai 3]] và các khu đô thị lớn.<ref name = ":022">{{Chú thích web | title = Phường Thanh Liệt: Những thông tin chi tiết sau sắp xếp | url = https://hanoionline.vn/phuong-thanh-liet-nhung-thong-tin-chi-tiet-sau-sap-xep-344137.htm | access-date = 2025-07-09 | website = [[Đài Phát thanh – Truyền hình Hà Nội]] | language = vi}}</ref>
+
+== Giao thông== 
+Giao thông - vận tải phường Thanh Liệt có lợi thế lớn với các tuyến đường giao thông quan trọng như Nguyễn Xiển - Xa La, Kim Giang, đường 70, giúp kết nối thuận tiện với nội thành và các khu vực ngoại thành.<ref name = ":022" />
+
+== Xã hội==
+
+=== Y tế=== 
+Phường Thanh Liệt có một trong ba cơ sở của [[Bệnh viện K]];<ref name = ":02">{{Chú thích web | last = Đỗ Công | date = 2025-07-21 | title = Nhiều điểm trông giữ xe trái phép trên đất nông nghiệp | url = https://hanoionline.vn/nhieu-diem-trong-giu-xe-trai-phep-tren-dat-nong-nghiep-348168.htm | access-date = 2025-08-14 | website = [[Đài Phát thanh – Truyền hình Hà Nội]] | language = vi}}</ref> hai cơ sở còn lại ở các phường [[Cửa Nam, Hà Nội|Cửa Nam]] và [[Hoàng Liệt]]. Bệnh viện 09 cũng tọa lạc tại phường này.
+
+=== Giáo dục=== 
+[[hình:Đình thờ danh nhân tiên triết Chu Văn An 09.jpg| thumb| trái| Đình thờ [[Chu Văn An]]]]
+Trên địa bàn có đầy đủ hệ thống trường công lập.<ref name = ":02" />
+
+Các trường học tại phường gồm có Tiểu học Triều Khúc, Tiểu học Yên Xá, Tiểu học Phạm Tu, Tiểu học{{En dash}}THCS Tân Triều, Tiểu học{{En dash}}THCS Thanh Liệt, Tiểu học{{En dash}}THCS Thanh Xuân Nam, THCS Nguyễn Lân, THCS{{En dash}}THPT Lương Thế Vinh - Cơ sở Tân Triều, THPT Trần Hưng Đạo và Trường liên cấp THCS - Tiểu học Vietschool Pandora.
+
+Cơ sở giáo dục cao hơn có [[Trường Đại học Công nghệ Giao thông Vận tải]], [[Học viện Kỹ thuật Mật mã (Việt Nam)|Học viện Kỹ thuật]] [[Học viện Kỹ thuật Mật mã (Việt Nam)|Mật mã]], [[Trường Đại học Sư phạm Nghệ thuật Trung ương]] và [[Trường cao đẳng Ngoại ngữ- Công nghệ và Truyền thông]].
+
+== Văn hóa== 
+Theo [[Đài Phát thanh – Truyền hình Hà Nội]], "phường Thanh Liệt khác biệt với nhiều vùng ven đô khác nhờ gìn giữ được các giá trị truyền thống như đình, đền và lễ hội cổ, ngay trong quá trình đô thị hóa nhanh."<ref name = ":022" /> Trong đó, đình, chùa, đền ở các làng Yên Xá và Triều Khúc lần lượt được xếp hạng Di tích Lịch sử Văn hóa vào các năm 1990 và 1993.<ref name = "TT2">{{Chú thích web | author = TS. Bùi Xuân Đính | title = Làng Yên Xá | url = http://www.hanoimoi.com.vn/newsdetail/1000_nam_thang_long/44533/lang-yen-xa.htm | access-date = ngày 14 tháng 5 năm 2010 | publisher = Báo Hà Nội Mới điện tử}}</ref><ref name = "TT1">{{Chú thích web | author = TS. Bùi Xuân Đính | title = Làng Triều Khúc | url = http://www.hanoimoi.com.vn/newsdetail/1000_nam_thang_long/42130/lang-tri7873u-khuc.htm | archive-url = https://web.archive.org/web/20100918030955/http://www.hanoimoi.com.vn/newsdetail/1000_nam_thang_long/42130/lang-tri7873u-khuc.htm | archive-date = 2010-09-18 | access-date = ngày 14 tháng 5 năm 2010 | publisher = Báo Hà Nội Mới điện tử}}</ref><ref>{{Chú thích web | tiêu đề = Chùa Triều Khúc - kiến trúc độc đáo giữa lòng Thủ đô | url = https://hanoi.gov.vn/diachihanoi/-/hn/RtLibd2X8kEn/111301/2762732/18/chua-trieu-khuc---kien-truc-oc-ao-giua-long-thu-o.html%3Bjsessionid%20%3D%20YO8l5p110hc5rli5chx5Hhjz.app2 | url-status = dead | archive-url = https://web.archive.org/web/20180717013052/https://hanoi.gov.vn/diachihanoi/-/hn/RtLibd2X8kEn/111301/2762732/18/chua-trieu-khuc---kien-truc-oc-ao-giua-long-thu-o.html;jsessionid | ngày lưu trữ = 2018-07-17 | ngày truy cập = 2018-11-26 }}</ref>
+
+==Danh nhân==
+* '''[[Chu Văn An]]''' (1292 – 1370), là một [[giáo viên|nhà giáo]], [[thầy thuốc]], quan viên [[Đại Việt]] cuối thời [[nhà Trần|Trần]], '''"danh nhân văn hóa thế giới"'''.
+
+== Chú thích== 
+{{Tham khảo| 2}}
+
+== Tham khảo==
+{{Sơ khai Hà Nội}}{{Đơn vị hành chính thuộc thành phố Hà Nội}}

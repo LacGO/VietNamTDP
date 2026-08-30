@@ -1,0 +1,92 @@
+{
+  "ward_code": "09952",
+  "ward_name": "Phú Cát",
+  "province_code": "01",
+  "resolution": "",
+  "arrangement": "2026_07",
+  "effective_date": "2026-07-01",
+  "verified": "unverified",
+  "extraction": {
+    "source": "vi.wikipedia.org",
+    "title": "(cache)",
+    "mode": "table"
+  },
+  "sources": [
+    {
+      "key": "wiki-09952-1",
+      "title": "Nghị quyết số 1656/NQ-UBTVQH15 ngày 16 tháng 6 năm 2025 của Ủy ban Thường vụ Quốc hội về việc sắp xếp các đơn vị hành chính cấp xã của thành phố Hà Nội năm 2025",
+      "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf",
+      "date": "2026-05-13",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-09952-2",
+      "title": "Ban Chấp hành Đảng bộ xã Phú Cát thảo luận, thống nhất nhiều nội dung quan trọng về sắp xếp thôn và đầu tư phát triển",
+      "url": "https://phucat.hanoi.gov.vn/cong-tac-dang/ban-chap-hanh-dang-bo-xa-phu-cat-thao-luan-thong-nhat-nhieu-noi-dung-quan-trong-ve-sap-xep-thon-va-dau-tu-phat-trien-2767260623092653599.htm",
+      "date": "2026-06-23",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-09952-3",
+      "title": "Danh sách Thôn vùng đồng bào dân tộc thiểu số và miền núi, thôn đặc biệt khó khăn giai đoạn 2026 – 2030 trên địa bàn thành phố Hà Nội (Kèm theo Quyết định số 104/QĐ-BDTTG ngày 27 tháng 02 năm 2026 của Bộ trưởng Bộ Dân tộc và Tôn giáo)",
+      "url": "http://files.ubdt.gov.vn/files/ecm/source_files/2026/03/09/11023866_2.%20H%C3%A0%20N%E1%BB%99i%20(th%C3%B4n).signed_26-03-09.pdf",
+      "date": "2026-08-12",
+      "type": "wikipedia-ref"
+    }
+  ],
+  "note": "Trích tự động từ Wikipedia tiếng Việt (mode=table). Cần đối chiếu nghị quyết HĐND phường/xã.",
+  "tdp": [
+    {
+      "name": "Bạch Thạch",
+      "type": "thôn"
+    },
+    {
+      "name": "Đông Hạ",
+      "type": "thôn"
+    },
+    {
+      "name": "Đông Thượng",
+      "type": "thôn"
+    },
+    {
+      "name": "Giã Cát",
+      "type": "thôn"
+    },
+    {
+      "name": "Hòa Phú",
+      "type": "thôn"
+    },
+    {
+      "name": "Hòa Trúc",
+      "type": "thôn"
+    },
+    {
+      "name": "Long Phú",
+      "type": "thôn"
+    },
+    {
+      "name": "Phú Mãn",
+      "type": "thôn"
+    },
+    {
+      "name": "Phú Sơn",
+      "type": "thôn"
+    },
+    {
+      "name": "Phú Thịnh",
+      "type": "thôn"
+    },
+    {
+      "name": "Thắng Đầu",
+      "type": "thôn"
+    },
+    {
+      "name": "Việt Yên",
+      "type": "thôn"
+    },
+    {
+      "name": "Yên Thái",
+      "type": "thôn"
+    }
+  ]
+}

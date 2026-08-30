@@ -1,0 +1,93 @@
+{{Thông tin đơn vị hành chính Việt Nam | phường
+| tên = Phú Diễn
+| hình = Đường Hồ Tùng Mậu, Hà Nội 005.JPG
+| ghi chú hình = Đường Hồ Tùng Mậu
+| vĩ độ = 21.053693
+| kinh độ = 105.763887
+| diện tích = 6,26 km² 
+| dân số = 40.487 người 
+| thời điểm dân số = 31/12/2024
+| mật độ dân số = {{formatnum:{{#expr:floor({{formatnum:40.487| R}}/{{formatnum:6,26| R}})}} }} người/km²
+| vùng = [[Đồng bằng sông Hồng]]
+| thành phố = [[Hà Nội]]
+| thành lập = 2013<ref name = "132/NQ-CP"/>
+| trụ sở UBND = Tổ 17 Đức Diễn
+| mã hành chính = 
+| mã bưu chính = 
+}}
+'''Phú Diễn''' là một [[Phường (Việt Nam)|phường]] thuộc thành phố [[Hà Nội]], [[Việt Nam]].
+
+== Địa lý== 
+Phường Phú Diễn nằm ở trung tâm quận Bắc Từ Liêm, có vị trí địa lý:<ref>{{Cite web| url = https://xaydungchinhsach.chinhphu.vn/chi-tiet-du-thao-phuong-an-sap-xep-cac-phuong-cua-ha-noi-119250421100531902.htm| title = Chi tiết dự thảo PHƯƠNG ÁN SẮP XẾP CÁC PHƯỜNG của HÀ NỘI| date = 28 tháng 4 năm 2025| website = xaydungchinhsach.chinhphu.vn}}</ref> 
+*Phía Đông tiếp giáp phường [[Cầu Giấy (phường)|Cầu Giấy]], [[Nghĩa Đô (phường)|Nghĩa Đô]] (ranh giới đi theo đường Phạm Văn Đồng)
+*Phía Tây tiếp giáp phường [[Tây Tựu]] (đi theo ranh giới phường cũ)
+*Phía Nam tiếp giáp phường [[Từ Liêm (phường)|Từ Liêm]], [[Xuân Phương]] (ranh giới đi theo đường Hồ Tùng Mậu, đường 32)
+*Phía Bắc tiếp giáp phường [[Đông Ngạc]] (đi theo ranh giới phường cũ)
+
+== Lịch sử== 
+Ngày 20 tháng 4 năm 1978, Bộ trưởng Phủ thủ tướng ban hành Quyết định số 70-BT<ref>{{Chú thích web| url = https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/Quyet-dinh-70-BT-hop-nhat-xa-Phu-Dien-Minh-Khai-thuoc-huyen-Tu-Liem-Ha-Noi-thanh-xa-Phu-Minh-54768.aspx| tựa đề = Quyết định số 70-BT năm 1978 về việc hợp nhất xã Phú Diễn và xã Minh Khai thuộc huyện Từ Liêm, thành phố Hà Nội, thành một xã lấy tên là xã Phú Minh | tác giả = | ngày = 1978-04-20 | website = Thư viện pháp luật | url lưu trữ = | ngày lưu trữ = | ngày truy cập = | url-status = live}}</ref> về việc thành lập xã Phú Minh thượng huyện Từ Liêm trên cơ sở hợp nhất xã Phú Diễn và xã Minh Khai.
+
+Ngày 13 tháng 10 năm 1982, Hội đồng Bộ trưởng ban hành Quyết định số 173-HĐBT<ref>{{Chú thích web| url = https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/Quyet-dinh-173-HDBT-phan-vach-dia-gioi-phuong-va-thi-tran-thanh-pho-Ha-Noi-43981.aspx| title = Quyết định số 173-HĐBT năm 1982 về việc phân vạch địa giới một số phường và thị trấn thuộc thành phố Hà Nội | date = 1982-10-13 | website = Thư viện pháp luật | archive-url = | archive-date = | access-date = | url-status = live}}</ref> về việc thành lập thị trấn Cầu Diễn trên cơ sở một phần của ba xã: Mai Dịch, Phú Minh, Mỹ Đình.
+
+Ngày 17 tháng 9 năm 1990, Ban Tổ chức – Cán bộ của Chính phủ ban hành Quyết định số 383-TCCP<ref>Quyết định số 383-TCCP về việc tách xã Phú Minh để tái lập hai xã Phú Diễn và Minh Khai thuộc huyện Từ Liêm, thành phố Hà Nội.</ref> về việc chia xã Phú Minh thành xã Phú Diễn và xã Minh Khai.<ref>{{Chú thích web| url = https://bactuliem.hanoi.gov.vn/phuong-minh-khai#:~:text = N%C4%83m%201956%20x%C3%A3%20Minh%20Khai%20%C4%91%C6%B0%E1%BB%A3c%20th%C3%A0nh,thu%E1%BB%99c%20huy%E1%BB%87n%20%C4%90an%20Ph%C6%B0%E1%BB%A3ng%2C%20t%E1%BB%89nh%20H%C3%A0%20%C4%90%C3%B4ng.&text = Ng%C3%A0y%2017/9/1990%2C%20Ban%20t%E1%BB%95%20ch%E1%BB%A9c%20c%C3%A1n%20b%E1%BB%99,huy%E1%BB%87n%20T%E1%BB%AB%20Li%C3%AAm%2C%20th%C3%A0nh%20ph%E1%BB%91%20H%C3%A0%20N%E1%BB%99i.| tựa đề = Giới thiệu phường Minh Khai, quận Bắc Từ Liêm | tác giả = BBT | ngày = | website = Cổng thông tin điện tử quận Bắc Từ Liêm, thành phố Hà Nội | url lưu trữ = https://web.archive.org/web/20250607091448/https://bactuliem.hanoi.gov.vn/phuong-minh-khai#:~:text = N%C4%83m%201956%20x%C3%A3%20Minh%20Khai%20%C4%91%C6%B0%E1%BB%A3c%20th%C3%A0nh,thu%E1%BB%99c%20huy%E1%BB%87n%20%C4%90an%20Ph%C6%B0%E1%BB%A3ng%2C%20t%E1%BB%89nh%20H%C3%A0%20%C4%90%C3%B4ng.&text = Ng%C3%A0y%2017/9/1990%2C%20Ban%20t%E1%BB%95%20ch%E1%BB%A9c%20c%C3%A1n%20b%E1%BB%99,huy%E1%BB%87n%20T%E1%BB%AB%20Li%C3%AAm%2C%20th%C3%A0nh%20ph%E1%BB%91%20H%C3%A0%20N%E1%BB%99i.| ngày lưu trữ = 2025-06-07 | ngày truy cập = 2025-06-07 | url-status = dead }}</ref>
+
+Ngày 27 tháng 12 năm 2013, Chính phủ ban hành Nghị quyết số 132/NQ-CP<ref name = "132/NQ-CP">{{Chú thích web| url = https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/Nghi-quyet-132-NQ-CP-nam-2013-dieu-chinh-dia-gioi-hanh-chinh-Tu-Liem-Ha-Noi-217666.aspx| tựa đề = Nghị quyết số 132/NQ-CP năm 2013 về việc điều chỉnh địa giới hành chính huyện Từ Liêm để thành lập 2 quận và 23 phường thuộc thành phố Hà Nội | tác giả = | ngày = 2013-12-27 | website = Thư viện pháp luật | url lưu trữ = | ngày lưu trữ = | ngày truy cập = | url-status = live}}</ref> về việc:
+*Thành lập quận Bắc Từ Liêm thuộc thành phố Hà Nội.
+*Thành lập phường Phú Diễn thuộc quận Bắc Từ Liêm trên cơ sở điều chỉnh 209,03 ha diện tích tự nhiên và 21.820 người của xã Phú Diễn thuộc huyện Từ Liêm; 8 ha diện tích tự nhiên và 1.914 người của thị trấn Cầu Diễn thuộc huyện Từ Liêm.
+*Thành lập phường Phúc Diễn thuộc quận Bắc Từ Liêm trên cơ sở điều chỉnh 189,62 ha diện tích tự nhiên và 19.514 người còn lại của xã Phú Diễn thuộc huyện Từ Liêm; 62,58 ha diện tích tự nhiên và 7.548 người của thị trấn Cầu Diễn thuộc huyện Từ Liêm.
+
+Phường Phú Diễn có 252,20 ha diện tích tự nhiên và 27.062 người.
+
+Tính đến ngày 31/12/2024, phường Phú Diễn có diện tích 2,85&nbsp;km² và quy mô dân số là 32.360 người.<ref name = ĐA>{{Chú thích web| url = https://dbndhanoi.gov.vn/portal/DinhKemTinBai/2025-04/Phu%CC%A3%20lu%CC%A3c%202.1_1PK3sMq-PUSkEKYV.pdf| tựa đề = Thống kê hiện trạng đơn vị hành chính cấp xã hiện nay của thành phố Hà Nội tính đến ngày 31/12/2024 | tác giả = UBND TP. Hà Nội | ngày = 2025 | website = HĐND TP. Hà Nội | url lưu trữ = https://web.archive.org/web/20250530072615/https://dbndhanoi.gov.vn/portal/DinhKemTinBai/2025-04/Phu%CC%A3%20lu%CC%A3c%202.1_1PK3sMq-PUSkEKYV.pdf| ngày lưu trữ = 2025-05-30 | ngày truy cập = 2025-05-30 | url-status = live}}</ref>
+
+Ngày 16 tháng 6 năm 2025:
+
+* [[Quốc hội Việt Nam|Quốc hội]] ban hành Nghị quyết số 203/2025/QH15 về việc sửa đổi, bổ sung một số điều của Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam.<ref>{{Chú thích web |last=xaydungchinhsach.chinhphu.vn |date=2025-06-28 |title=NGHỊ QUYẾT 203/2025/QH15 SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA HIẾN PHÁP NƯỚC CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM |url=https://xaydungchinhsach.chinhphu.vn/nghi-quyet-203-2025-qh15-sua-doi-bo-sung-mot-so-dieu-cua-hien-phap-nuoc-cong-hoa-xa-hoi-chu-nghia-viet-nam-119250616181735552.htm |access-date=2026-07-15 |website=xaydungchinhsach.chinhphu.vn |language=vi}}</ref> Theo đó, kết thúc hoạt động của đơn vị hành chính cấp huyện trong cả nước từ ngày 1 tháng 7 năm 2025.
+* [[Ủy ban Thường vụ Quốc hội]] ban hành Nghị quyết số 1656/NQ-UBTVQH15 về việc sắp xếp các đơn vị hành chính cấp xã của thành phố Hà Nội năm 2025 (nghị quyết có hiệu lực từ ngày 16 tháng 6 năm 2025). Theo đó, sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của phường Phú Diễn, một phần của các phường Cổ Nhuế 1, Phúc Diễn (quận [[Bắc Từ Liêm]]) và Mai Dịch (quận [[Cầu Giấy (quận)|Cầu Giấy]]) thành phường mới có tên gọi là '''phường Phú Diễn'''.<ref>{{Cite web| url = https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-1656-nq-ubtvqh15-sap-xep-cac-dvhc-cap-xa-cua-thanh-pho-ha-noi-nam-2025-119250616192433872.htm| title = Nghị quyết số 1656/NQ-UBTVQH15 sắp xếp các ĐVHC cấp xã của thành phố Hà Nội năm 2025| date = 20 tháng 6 năm 2025| website = xaydungchinhsach.chinhphu.vn}}</ref><!-- 
+== Lịch sử== 
+[[Tập tin:Newone - bưởi Diễn 01.jpg| nhỏ| 350px| Bưởi Diễn]]
+Phường Phúc Diễn được thành lập vào ngày [[27 tháng 12]] năm [[2013]] trên cơ sở điều chỉnh 209,03 ha diện tích tự nhiên và 21.820 người của xã [[Phú Diễn]], 8 ha diện tích tự nhiên và 1.914 người của thị trấn [[Cầu Diễn]] thuộc huyện [[Từ Liêm (huyện)| Từ Liêm]] cũ.<ref name = NQ132>{{Chú thích web| url = https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/Nghi-quyet-132-NQ-CP-nam-2013-dieu-chinh-dia-gioi-hanh-chinh-Tu-Liem-Ha-Noi-217666.aspx| tựa đề = Nghị quyết 132/NQ-CP năm 2013 về việc điều chỉnh địa giới hành chính huyện Từ Liêm để thành lập 2 quận và 23 phường thuộc thành phố Hà Nội| tác giả = | họ = | tên = | ngày = | website = | url lưu trữ = | ngày lưu trữ = | ngày truy cập = }}</ref>
+
+Sau khi thành lập, phường có 217,03 ha diện tích tự nhiên và 23.734 người.
+
+== Lịch sử== 
+Phường Cổ Nhuế 1 được thành lập vào ngày [[27 tháng 12]] năm [[2013]] trên cơ sở điều chỉnh 217,70 ha diện tích tự nhiên và 33.346 người của xã [[Cổ Nhuế]], 3,30 ha diện tích tự nhiên và 372 người của thị trấn [[Cầu Diễn]] thuộc huyện [[Từ Liêm (huyện)| Từ Liêm]] cũ.<ref name = NQ132>{{Chú thích web| url = https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/Nghi-quyet-132-NQ-CP-nam-2013-dieu-chinh-dia-gioi-hanh-chinh-Tu-Liem-Ha-Noi-217666.aspx| tựa đề = Nghị quyết 132/NQ-CP năm 2013 về việc điều chỉnh địa giới hành chính huyện Từ Liêm để thành lập 2 quận và 23 phường thuộc thành phố Hà Nội| tác giả = | họ = | tên = | ngày = | website = | url lưu trữ = | ngày lưu trữ = | ngày truy cập = }}</ref>
+
+Sau khi thành lập, phường có 221 ha diện tích tự nhiên và 33.718 người.
+
+Ngày [[27 tháng 4]] năm [[2021]], Ủy ban Thường vụ Quốc hội ban hành Nghị quyết số 1263/NQ-UBTVQH14 (nghị quyết có hiệu lực từ ngày [[1 tháng 7]] năm [[2021]])<ref name = NQ1263>{{Chú thích web| url = https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Nghi-quyet-1263-NQ-UBTVQH14-2021-dieu-chinh-dia-gioi-don-vi-hanh-chinh-giua-cac-quan-Ha-Noi-473347.aspx| tựa đề = Nghị quyết số 1263/NQ-UBTVQH14 năm 2021 về việc điều chỉnh địa giới đơn vị hành chính giữa các quận Cầu Giấy, Bắc Từ Liêm và Nam Từ Liêm thuộc thành phố Hà Nội}}</ref>. Theo đó, điều chỉnh 10,32 ha diện tích tự nhiên khu vực 8 tổ dân phố Bắc Nghĩa Tân do phường [[Nghĩa Tân, Cầu Giấy| Nghĩa Tân]], quận Cầu Giấy quản lý hành chính (bao gồm các tổ dân phố số 25, 26, 27, 28, 29, 30, 31, 32) đang thuộc địa giới hành chính của phường Cổ Nhuế 1 vào phường Nghĩa Tân, quận Cầu Giấy.
+
+Sau khi điều chỉnh địa giới hành chính, phường Cổ Nhuế 1 có diện tích 2,22&nbsp;km², dân số là 45.274 người.
+
+== Lịch sử== 
+Trước đây, Mai Dịch là một xã thuộc huyện [[Từ Liêm (huyện)| Từ Liêm]] cũ.
+
+Ngày [[13 tháng 10]] năm [[1982]], Hội đồng Bộ trưởng ban hành Quyết định số 173-HĐBT<ref name = 173-HĐBT>{{Chú thích web| url = https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/Quyet-dinh-173-HDBT-phan-vach-dia-gioi-phuong-va-thi-tran-thanh-pho-Ha-Noi-43981.aspx| title = Quyết định 173-HĐBT năm 1982 về việc phân vạch địa giới một số phường và thị trấn thuộc thành phố Hà Nội do Hội đồng Bộ trưởng ban hành| last = | first = | date = | website = | archive-url = | archive-date = | url-status = | access-date = }}</ref>. Theo đó, thành lập thị trấn [[Cầu Diễn]] trên cơ sở tách một phần diện tích và dân số của ba xã Mai Dịch, Phú Minh và [[Mỹ Đình]].
+
+Ngày [[17 tháng 9]] năm [[1990]], thành lập thị trấn Mai Dịch trên cơ sở giải thể xã Mai Dịch và điều chỉnh một phần diện tích, dân số của thị trấn Cầu Diễn.
+
+Ngày [[22 tháng 11]] năm [[1996]], Chính phủ ban hành Nghị định 74-CP<ref name = ND74>{{Chú thích web| url = https://thuvienphapluat.vn/van-ban/Bat-dong-san/Nghi-dinh-74-CP-thanh-lap-quan-Thanh-Xuan-quan-Cau-Giay-thanh-lap-va-doi-ten-mot-so-phuong-thuoc-thanh-pho-Ha-Noi-40215.aspx| title = Nghị định 74-CP năm 1996 về việc thành lập quận Thanh Xuân, quận Cầu Giấy, thành lập và đổi tên một số phường thuộc thành phố Hà Nội| last = | first = | date = | website = | archive-url = | archive-date = | url-status = | access-date = }}</ref>. Theo đó, chuyển thị trấn Mai Dịch về quận Cầu Giấy mới thành lập và thành lập phường Mai Dịch trên cơ sở toàn bộ 208,4 ha diện tích tự nhiên, 13.087 người của thị trấn Mai Dịch.
+
+Ngày [[27 tháng 4]] năm [[2021]], Ủy ban Thường vụ Quốc hội ban hành Nghị quyết số 1263/NQ-UBTVQH14 (nghị quyết có hiệu lực từ ngày [[1 tháng 7]] năm [[2021]])<ref name = NQ1263>{{Chú thích web| url = https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Nghi-quyet-1263-NQ-UBTVQH14-2021-dieu-chinh-dia-gioi-don-vi-hanh-chinh-giua-cac-quan-Ha-Noi-473347.aspx| tựa đề = Nghị quyết số 1263/NQ-UBTVQH14 năm 2021 về việc điều chỉnh địa giới đơn vị hành chính giữa các quận Cầu Giấy, Bắc Từ Liêm và Nam Từ Liêm thuộc thành phố Hà Nội}}</ref>. Theo đó, điều chỉnh 1,86 ha diện tích tự nhiên tổ dân phố số 28 do phường Mai Dịch quản lý hành chính đang thuộc địa giới hành chính của phường [[Mỹ Đình 2]], quận Nam Từ Liêm vào phường Mai Dịch.
+
+Sau khi điều chỉnh địa giới hành chính, phường Mai Dịch có diện tích 2,02&nbsp;km², dân số là 40.511 người.
+-->
+Từ ngày 01 tháng 7 năm 2026, phường Phú Diễn có 27 tổ dân phố<ref>{{Chú thích web |title=UBND phường Phú Diễn công khai dự thảo Đề án sắp xếp, đổi tên các tổ dân phố trên địa bàn phường Phú Diễn |url=https://phudien.hanoi.gov.vn/chi-dao-cua-dia-phuong/ubnd-phuong-phu-dien-cong-khai-du-thao-de-an-sap-xep-doi-ten-cac-to-dan-pho-tren-dia-ban-phuong-phu-dien-279426061110023285.htm}}</ref>: 1 Đức Diễn, 2 Đức Diễn, 3 Đình Quán, 4 Phúc Diễn, 5 Phú Diễn, 6 Phú Diễn, 7 Phú Diễn, 8 Phú Diễn, 9 Phú Diễn, 10 Phú Diễn, 11 Phú Diễn, 12 Phú Diễn, 13 Phú Diễn, 14 Phú Diễn, 15 Phú Diễn, 16 Phú Diễn, 17 Phú Diễn, 18 Mai Dịch, 19 Mai Dịch, 20 Mai Dịch, 21 Mai Dịch, 22 Mai Dịch, 23 Mai Dịch, 24 Mai Dịch, Hoàng 20, Hoàng 21, Hoàng 22.
+
+== Văn hóa== 
+[[Tập tin:Newone - bưởi Diễn 03.jpg| trái| nhỏ| 270x270px| [[Bưởi Diễn]]]]
+Làng Phú Diễn nổi tiếng với [[Bưởi Diễn]], loại Bưởi này chỉ có vào dịp tết, có màu vàng và một mùi hương đặc trưng, bưởi ăn ngọt dịu, mát, ngoài ra vỏ của nó rất mỏng, múi mọng nước và rất đều. Bưởi Diễn là một trong những món quà ngày tết của người Hà Nội xưa và nay. Tuy nhiên bây giờ loại quả này không còn được trồng nhiều như trước, mà muốn ăn được bưởi đúng gốc Diễn thì phải về vườn đặt từ tháng 10, tháng 11 âm lịch may ra mới có.
+
+Ngoài ra ở Làng Phú Diễn còn có một loại Bưởi tên là Bưởi Đào, có vào dịp rằm tháng 8. Sở dĩ nó có tên là bưởi đào vì múi và vỏ trong của nó có màu hồng. Vỏ ngoài của quả bưởi này là màu xanh lá cây. Nếu như mà ăn vào dịp rằm tháng tám thì bưởi ăn rất ngọt, múi dóc, nhưng lại không được thơm như bưởi Diễn Tết. Còn nếu như để quá sang tháng 10 tháng 11 âm lịch thì vỏ bưởi sẽ hơi ngả sang màu vàng và bưởi sẽ ăn có vị hơi chua.
+
+Ở huyện [[Từ Liêm (huyện)|Từ Liêm]] trước đây, các cụ xưa có để lại câu nói: "[[Cam Canh]], [[bưởi Diễn]], [[dưa Đăm]], hồng [[Xuân Đỉnh]]." Đây là những loại quả đặc trưng riêng của từng vùng.
+
+==Danh nhân==
+* [[Phạm Thị Hồng Yến]] (sinh năm 1975) là nữ chính trị gia, chuyên gia kinh tế nước Cộng hòa xã hội chủ nghĩa Việt Nam.
+
+==Chú thích== 
+{{tham khảo}}
+
+== Tham khảo== 
+{{Sơ khai Hà Nội}}
+{{Đơn vị hành chính thuộc thành phố Hà Nội}}

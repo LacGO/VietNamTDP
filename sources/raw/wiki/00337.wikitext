@@ -1,0 +1,153 @@
+{{Thông tin đơn vị hành chính Việt Nam |Phường
+| tên = Hoàng Liệt
+| hình = LinhDamFromAbove.jpg
+| ghi chú hình = Khu đô thị [[Linh Đàm]] nhìn từ trên cao
+| vĩ độ = 20.961162517370585
+| kinh độ = 105.82660398136903
+| diện tích = 4,04 km² 
+| dân số = 55.820 người 
+| thời điểm dân số = 2025
+| mật độ dân số = {{formatnum:{{#expr:floor({{formatnum:55.820| R}}/{{formatnum:4,04| R}})}} }} người/km²
+| vùng = [[Đồng bằng sông Hồng]]
+| thành phố = [[Hà Nội]]
+| trụ sở UBND = Số 5, đường Linh Đường<ref>{{Chú thích web |url=https://storage-vnportal.vnpt.vn/gov-hni/6244/VanBan/2025/6/25/TB-729-2025.pdf |title=Thông báo số 729/TB-UBND ngày 25 tháng 6 năm 2025 của Ủy ban nhân dân thành phố Hà Nội về địa điểm trụ sở làm việc của 126 phường, xã sau sắp xếp thuộc phạm vi quản lý của thành phố Hà Nội|access-date=2026-06-15 |archive-date=2026-06-15 |archive-url=https://web.archive.org/web/20260615034519/https://storage-vnportal.vnpt.vn/gov-hni/6244/VanBan/2025/6/25/TB-729-2025.pdf |url-status=dead | website = Cổng Thông tin điện tử Ủy ban nhân dân thành phố Hà Nội}}</ref>
+| mã hành chính = 00337<ref>{{Chú thích web |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/19ttg.signed.pdf |title=Quyết định số 19/2025/QĐ-TTg ngày 30 tháng 6 năm 2025 của Thủ tướng Chính phủ về việc Ban hành Bảng danh mục và mã số các đơn vị hành chính Việt Nam |access-date=2026-06-15 |archive-date=2026-06-15 |archive-url=https://web.archive.org/web/20260615034519/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/19ttg.signed.pdf |url-status=dead | website = Cổng Thông tin điện tử Chính phủ}}</ref>
+| web = {{url|hoangliet.hanoi.gov.vn}}
+| bản đồ 1 = [[File:Hoang Liet map.png| 300px]]
+| tựa bản đồ 1 = Bản đồ phường Hoàng Liệt|trụ sở Đảng ủy=Số 5, đường Linh Đường}}
+'''Hoàng Liệt''' là một [[Phường (Việt Nam)|phường]] thuộc thành phố [[Hà Nội]], [[Việt Nam]].
+
+== Địa lý == 
+Phường Hoàng Liệt có vị trí địa lý:
+* Phía đông giáp phường [[Hoàng Mai, Hà Nội|Hoàng Mai]] và phường [[Yên Sở]] (ranh giới đi theo [[Đường Ngọc Hồi, Hà Nội|đường Ngọc Hồi]])
+* Phía tây giáp phường [[Thanh Liệt]] (ranh giới đi theo [[sông Tô Lịch]])
+* Phía nam giáp xã [[Đại Thanh, Hà Nội|Đại Thanh]] (ranh giới đi theo [[sông Tô Lịch]])
+* Phía bắc giáp phường [[Định Công (phường)|Định Công]] (ranh giới đi theo [[Đường Giải Phóng, Hà Nội|đường Giải Phóng]] – đường Nguyễn Hữu Thọ – [[Đường vành đai 3 (Hà Nội)|đường Vành Đai 3]]).<ref>{{Chú thích web |last=Báo Điện tử Chính phủ|date=2025-04-28|title=Chi tiết dự thảo phương án sắp xếp các phường của Hà Nội|url=https://xaydungchinhsach.chinhphu.vn/chi-tiet-du-thao-phuong-an-sap-xep-cac-phuong-cua-ha-noi-119250421100531902.htm|url-status=dead|archive-url=https://web.archive.org/web/20260316174230/https://xaydungchinhsach.chinhphu.vn/chi-tiet-du-thao-phuong-an-sap-xep-cac-phuong-cua-ha-noi-119250421100531902.htm|archive-date=2026-03-16|access-date=2026-07-10|website=Xây dựng chính sách, pháp luật}}</ref><ref>{{Chú thích web |last=Viện nghiên cứu Phát triển kinh tế – xã hội Hà Nội|date=2025-07-03|title=Phường Hoàng Liệt: Những thông tin chi tiết sau sắp xếp|url=https://hanoionline.vn/phuong-hoang-liet-nhung-thong-tin-chi-tiet-sau-sap-xep-344244.htm|url-status=dead|archive-url=https://web.archive.org/web/20260822400809/https://hanoionline.vn/phuong-hoang-liet-nhung-thong-tin-chi-tiet-sau-sap-xep-344244.htm|archive-date=2026-08-22|access-date=2026-08-22|website=Cơ quan Báo và Phát thanh Truyền hình Hà Nội}}</ref><ref>{{Chú thích web |last=Cơ quan Báo và Phát thanh Truyền hình Hà Nội|date=2025-07-04|title=Phường Hoàng Liệt: Tất cả thông tin chỉ dẫn bạn cần biết|url=https://hanoionline.vn/phuong-hoang-liet-tat-ca-thong-tin-chi-dan-ban-can-biet-344558.htm|url-status=dead|archive-url=https://web.archive.org/web/20260822401509/https://hanoionline.vn/phuong-hoang-liet-tat-ca-thong-tin-chi-dan-ban-can-biet-344558.htm|archive-date=2026-08-22|access-date=2026-08-22}}</ref>
+Phường Hoàng Liệt có diện tích tự nhiên là 4,04&nbsp;km<sup>2</sup>, quy mô dân số năm 2025 là 55.820 người và mật độ dân số đạt 13.816 người/km<sup>2</sup>.<ref>{{Chú thích web |last=Mai Hữu|date=2026-04-05|title=Hà Nội: Chi tiết phương án tổng thể sắp xếp đơn vị hành chính cấp xã|url=https://hanoimoi.vn/ha-noi-chi-tiet-phuong-an-tong-the-sap-xep-don-vi-hanh-chinh-cap-xa-700278.html|url-status=bot: unknown|archive-url=https://web.archive.org/web/20250710163328/https://hanoimoi.vn/ha-noi-chi-tiet-phuong-an-tong-the-sap-xep-don-vi-hanh-chinh-cap-xa-700278.html|archive-date=2025-07-10|access-date=2026-07-08|website=Cơ quan Báo và Phát thanh, truyền hình Hà Nội}}</ref><ref>Công văn số 2896/BNV-CQĐP ngày 27 tháng 5 năm 2025 của Bộ Nội vụ về việc cung cấp thông tin danh mục dự kiến đơn vị hành chính cấp xã mới.</ref>
+
+Trên địa bàn phường có Nhà máy nước Pháp Vân, Bến xe Nước Ngầm. [[Sông Tô Lịch]] chảy đến Hoàng Liệt thì nhận thêm nước của [[sông Sét]] đổ vào, rồi chảy qua cống điều tiết Thanh Liệt. Phần lớn [[hồ Linh Đàm]] nằm ở phường Hoàng Liệt.
+
+== Lịch sử==
+
+=== Trước năm 1976 ===
+[[Tập tin:1984 Linh Đàm maps.png| trái| nhỏ| Bản đồ khu vực [[Linh Đàm]] năm 1984, nay thuộc phường Hoàng Liệt]]
+Ngày 2 tháng 4 năm 1955, Ủy ban Hành chính Liên khu 3 ban hành Quyết nghị số 142-NGQ-CB/QT, sáp nhập 24 thôn thuộc quận Văn Điển cũ (gồm 2 huyện [[Thanh Trì (huyện)|Thanh Trì]] và [[Thanh Oai (huyện)|Thanh Oai]]) thành 9 xã, trong đó xã Hoàng Liệt gồm 4 thôn: Bằng Liệt (nay là Bằng A, Bằng B), Linh Đàm, Pháp Vân, Tứ Kỳ.<ref name = ":12">{{Chú thích web | last = Hoa Thành | first = | date = 2025-05-02 | title = Khám phá lịch sử tên gọi 7 phường mới của quận Hoàng Mai | url = https://phapluat.tuoitrethudo.vn/kham-pha-lich-su-ten-goi-7-phuong-moi-cua-quan-hoang-mai-103231.html | access-date = 2025-08-06 | website = Tuổi trẻ và Pháp luật | language = vi}}</ref><ref>{{Chú thích web | last = Nga Nguyễn | date = 29 tháng 3 năm 2025 | title = Phường Hoàng Liệt (quận Hoàng Mai) kỷ niệm 70 năm thành lập: Tự hào hành trình phát triển, hướng tới kỷ nguyên mới | url = https://thanhuyhanoi.vn/tin-tuc/ky-nguyen-vuon-minh-cua-dan-toc-viet-nam/phuong-hoang-liet-quan-hoang-mai-ky-niem-70-nam-thanh-lap-tu-hao-hanh-trinh-phat-trien-huong-toi-ky-nguyen-moi-50022166.html | url-status = live | access-date = 7 tháng 8 năm 2025 | website = [[Thành ủy Hà Nội]]}}</ref> Tổng dân số toàn xã Hoàng Liệt thời điểm này khoảng gần 2.000 nhân khẩu. Khi đó, quận Văn Điển thuộc tỉnh [[Hà Đông (tỉnh)|Hà Đông]], sau đó là [[Hà Tây (tỉnh)|Hà Tây]] và từ tháng 4 năm 1961 được chuyển về thuộc Hà Nội. Xã Hoàng Liệt thuộc huyện Thanh Trì.<ref name = ":1">{{Chú thích web | last = An Thanh | date = 26 tháng 3 năm 2025 | title = Hành trình 70 năm đáng tự hào của phường Hoàng Liệt | url = https://kinhtedothi.vn/hanh-trinh-70-nam-dang-tu-hao-cua-phuong-hoang-liet.html | access-date = 7 tháng 8 năm 2025 | website = Báo Kinh tế Đô thị}}</ref>
+
+=== Giai đoạn 1976 – nay ===
+Sau ngày 2 tháng 7 năm 1976, thị trấn Văn Điển và 6 xã: Đại Kim, Hoàng Liệt, Tam Hiệp, Thanh Liệt, Tứ Hiệp, Vĩnh Quỳnh thuộc huyện Thanh Trì của thành phố [[Hà Nội]].
+
+Ngày 14 tháng 3 năm 1984, cắt 14,8 hécta của xã Tứ Hiệp, 25 hécta của xã Tam Hiệp, 4,2 héc ta của xã Vĩnh Quỳnh để nhập vào thị trấn Văn Điển (huyện [[Thanh Trì (huyện)|Thanh Trì]]).<ref>{{Chú thích web |title=Quyết định số 42-HĐBT ngày 14 tháng 3 năm 1984 của Hội đồng Bộ trưởng về việc phân vạch địa giới một số phường, thị trấn thuộc thành phố Hà Nội |url=https://chinhphu.vn/default.aspx?pageid=27160&docid=6190 |url-status=dead |archive-url=https://web.archive.org/web/20260822201510/https://chinhphu.vn/default.aspx?pageid=27160&docid=6190 |archive-date=2026-08-22 |access-date=2026-08-22 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+
+Ngày 6 tháng 11 năm 2003:
+
+* Tách toàn bộ diện tích tự nhiên và dân số của các xã: Đại Kim, Hoàng Liệt và 20 ha diện tích tự nhiên của xã Tứ Hiệp thuộc huyện [[Thanh Trì (huyện)|Thanh Trì]] về quận [[Hoàng Mai (quận)|Hoàng Mai]] mới thành lập.
+* Thành lập phường Hoàng Liệt trên cơ sở toàn bộ diện tích tự nhiên và dân số của xã Hoàng Liệt, 20 ha diện tích tự nhiên của xã Tứ Hiệp.
+* Thành lập phường Đại Kim trên cơ sở toàn bộ diện tích tự nhiên và dân số của xã Đại Kim.<ref name="132/2003/NĐ-CP">{{Chú thích web| url = https://hethongphapluat.com/nghi-dinh-132-2003-nd-cp-ve-viec-dieu-chinh-dia-gioi-hanh-chinh-de-thanh-lap-cac-quan-long-bien-hoang-mai-thanh-lap-cac-phuong-truc-thuoc-quan-long-bien-quan-hoang-mai-thanh-pho-ha-noi.html| tựa đề = Nghị định số 132/2003/NĐ-CP ngày 6 tháng 11 năm 2003 của Chính phủ về việc điều chỉnh địa giới hành chính để thành lập các quận Long Biên, Hoàng Mai, thành lập các phường trực thuộc quận Long Biên, quận Hoàng Mai, thành phố Hà Nội | tác giả = | ngày = | website = Hệ thống pháp luật | url lưu trữ =https://web.archive.org/web/20260822201510/https://hethongphapluat.com/nghi-dinh-132-2003-nd-cp-ve-viec-dieu-chinh-dia-gioi-hanh-chinh-de-thanh-lap-cac-quan-long-bien-hoang-mai-thanh-lap-cac-phuong-truc-thuoc-quan-long-bien-quan-hoang-mai-thanh-pho-ha-noi.html | ngày lưu trữ =2026-08-22 | ngày truy cập =2026-08-22 | url-status = dead}}</ref>
+
+Ngày 16 tháng 6 năm 2025:
+
+* Kết thúc hoạt động của đơn vị hành chính cấp huyện trong cả nước.<ref>{{Chú thích web |last= |date= |title=Nghị quyết số 203/2025/QH15 ngày 16 tháng 6 năm 2025 của Quốc hội khóa XV, Kỳ họp thứ 9 về việc sửa đổi, bổ sung một số điều của Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/nq-sua-doi-hien-phap.pdf |url-status=live |archive-url=https://web.archive.org/web/20260613090807/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/nq-sua-doi-hien-phap.pdf |archive-date=2026-06-13 |access-date=2026-06-13 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+* Sắp xếp một phần diện tích tự nhiên, quy mô dân số của phường Hoàng Liệt (quận [[Hoàng Mai (quận)|Hoàng Mai]]), thị trấn Văn Điển, xã Tam Hiệp, xã Thanh Liệt (huyện [[Thanh Trì (huyện)|Thanh Trì]]) và một phần diện tích tự nhiên của phường Đại Kim (quận [[Hoàng Mai (quận)|Hoàng Mai]]) thành phường mới có tên gọi là phường Hoàng Liệt.<ref>{{Chú thích web |title=Nghị quyết số 1656/NQ-UBTVQH15 ngày 16 tháng 6 năm 2025 của Ủy ban Thường vụ Quốc hội về việc sắp xếp các đơn vị hành chính cấp xã của thành phố Hà Nội năm 2025 |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf |url-status=bot: unknown |archive-url=https://web.archive.org/web/20260513110024/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf |archive-date=2026-05-13 |access-date=2026-06-30 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+Ngày 1 tháng 7 năm 2025, phường Hoàng Liệt được chia thành 39 tổ dân phố.<ref>69 tổ dân phố: từ 1 đến 3 (Bằng A), 4, 5 (Bằng B), 8; 11A, 11B (Tứ Kỳ), 12, 14 VP6 (Linh Đàm), 15, 23, 24 (Bán đảo Linh Đàm), 16A, 16B, 17A, 17B, 21; 22 (1X2 Bắc Linh Đàm), 25 (HH4C), 26 (HH4B), 27 (HH4A), 28 (HH3A), 29 (HH3B), 30 (HH3C), 31, 39 Tây Nam Linh Đàm, 32 (HH1A), 33 (HH1B), 34 (HH1C), 35 (HH2A), 36 (HH2B), 37 (HH2C), 38, 40, 41, 42, Quốc Bảo (trước là tổ dân phố Quốc Bảo thuộc thị trấn Văn Điển) và Tựu Liệt (trước là thôn Tựu Liệt thuộc xã Tam Hiệp).</ref><ref>{{Chú thích web |title=Thông tư số 10/2022/TT-BTNMT ngày 29 tháng 9 năm 2022 của Bộ Tài nguyên và Môi trường về việc Ban hành Danh mục địa danh dân cư, sơn văn, thủy văn, kinh tế – xã hội phục vụ công tác thành lập bản đồ thành phố Hà Nội |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2022/10/10-btnmt.pdf |url-status=bot: unknown |archive-url=https://web.archive.org/web/20260630082812/https://datafiles.chinhphu.vn/cpp/files/vbpq/2022/10/10-btnmt.pdf |archive-date=2026-06-30 |access-date=2026-06-30 |website=Cổng Thông tin điện tử Chính phủ}}</ref><ref>{{Chú thích web |last=Ủy ban bầu cử phường Hoàng Liệt |date=2026-02-25 |title=Danh sách chính thức những người ứng cử đại biểu Hội đồng nhân dân phường Hoàng Liệt nhiệm kỳ 2026 – 2031 |url=https://sqhx-hanoi.mediacdn.vn/91579363132710912/2026/2/27/danh-sach-final-17721661106261820390522.pdf |url-status=dead |archive-url=https://web.archive.org/web/20260824201510/https://sqhx-hanoi.mediacdn.vn/91579363132710912/2026/2/27/danh-sach-final-17721661106261820390522.pdf |archive-date=2026-08-24 |access-date=2026-08-24 |website=Trang Thông tin điện tử phường Hoàng Liệt – thành phố Hà Nội}}</ref>
+
+Ngày 24 tháng 12 năm 2025, xác định một phần của phường Hoàng Liệt là [[Đô thị Việt Nam|đô thị loại II]] và [[Đô thị Việt Nam|đô thị loại III]].<ref>Đô thị loại II (chuyển tiếp từ 2 phường: Đại Kim và Hoàng Liệt thuộc quận Hoàng Mai) và đô thị loại III (chuyển tiếp từ thị trấn Văn Điển thuộc huyện Thanh Trì).</ref><ref>{{Chú thích web |title=Nghị quyết số 111/2025/UBTVQH15 ngày 24 tháng 12 năm 2025 của Ủy ban Thường vụ Quốc hội về phân loại đô thị |url=https://cdn.nhandan.vn/files/f4a4abf7f9a0ba4a91744616546d850872b76917f90d5a74cc9eebef1369fb6f/111.pdf |url-status=dead |archive-url=https://web.archive.org/web/20260430074852/https://cdn.nhandan.vn/files/f4a4abf7f9a0ba4a91744616546d850872b76917f90d5a74cc9eebef1369fb6f/111.pdf |archive-date=2026-04-30 |access-date=2026-07-12 |website=Báo Nhân dân}}</ref>
+
+Ngày 23 tháng 6 năm 2026, thành lập 20 tổ dân phố mới: 1 – Linh Đàm, 2 – Bắc Linh Đàm, 3, 4, 5 – Bán đảo Linh Đàm, 6, 7, 8, 9, 10 – HH, 11 – Tứ Kỳ, 12, 13, 14 – Tây nam Linh Đàm, 15, 16 – Bằng A, 17 – Bằng B, 18 – Liên Cơ, 19 – Tựu Liệt và 20 – Quốc Bảo.<ref name=":13">1. Tổ dân phố số 1 Linh Đàm được thành lập trên cơ sở sáp nhập từ: Tổ 14 VP6 và tổ dân phố số 12.</ref><ref name=":2">{{Chú thích web |last= |date= |title=Thông báo số 12/TB-TTHĐND ngày 1 tháng 6 năm 2026 của Thường trực Hội đồng nhân dân phường Hoàng Liệt về nội dung, thời gian tổ chức Kỳ họp thứ Hai, Hội đồng nhân dân phường Hoàng Liệt khóa II, nhiệm kỳ 2026 – 2031 |url=https://sqhx-hanoi.mediacdn.vn/91579363132710912/2026/6/2/tb-12-noi-dung-thoi-gian-to-chuc-ky-hop-t2-1780371681972887897436.pdf |url-status=dead |archive-url=https://web.archive.org/web/20260824201510/https://sqhx-hanoi.mediacdn.vn/91579363132710912/2026/6/2/tb-12-noi-dung-thoi-gian-to-chuc-ky-hop-t2-1780371681972887897436.pdf |archive-date=2026-08-24 |access-date=2026-08-24 |website=Trang Thông tin điện tử phường Hoàng Liệt – thành phố Hà Nội}}</ref><ref name=":04">{{Chú thích web |last= |date= |title=Thông báo số 362/TB-UBND ngày 11 tháng 6 năm 2026 của Ủy ban nhân dân phường Hoàng Liệt về việc công khai lấy ý kiến dự thảo Đề án sắp xếp tổ dân phố trên địa bàn phường Hoàng Liệt, thành phố Hà Nội |url=https://sqhx-hanoi.mediacdn.vn/91579363132710912/2026/6/14/tb-cong-khai-17813958035721088797907.pdf |url-status=dead |archive-url=https://web.archive.org/web/20260824201510/https://sqhx-hanoi.mediacdn.vn/91579363132710912/2026/6/14/tb-cong-khai-17813958035721088797907.pdf |archive-date=2026-08-24 |access-date=2026-08-24 |website=Trang Thông tin điện tử phường Hoàng Liệt – thành phố Hà Nội}}</ref><ref name=":3">{{Chú thích web |last=Sen Hoàng |date=2026-07-09 |title=Kiện toàn bộ máy cơ sở: Phường Hoàng Liệt ra mắt Cấp ủy và các Tổ dân phố mới |url=https://suckhoeviet.org.vn/kien-toan-bo-may-co-so-phuong-hoang-liet-ra-mat-cap-uy-va-cac-to-dan-pho-moi-27287.html |url-status=dead |archive-url=https://web.archive.org/web/20260824201510/https://suckhoeviet.org.vn/kien-toan-bo-may-co-so-phuong-hoang-liet-ra-mat-cap-uy-va-cac-to-dan-pho-moi-27287.html |archive-date=2026-08-24 |access-date=2026-08-24 |website=Tạp chí Sức khỏe Việt}}</ref><ref name=":4">{{Chú thích web |last=Hoàng Liệt hôm nay – thành phố Hà Nội |date=2026-07-15 |title=Danh sách tổ trưởng, phó tổ trưởng trên địa bàn phường Hoàng Liệt sau sắp xếp |url=https://web.facebook.com/photo?fbid=122137697259072228&set=a.122099519079072228 |url-status=dead |archive-url=https://web.archive.org/web/20260824201510/https://web.facebook.com/photo?fbid=122137697259072228&set=a.122099519079072228 |archive-date=2026-08-24 |access-date=2026-08-24}}</ref><!-- 
+== Lịch sử== 
+Trước đây, Đại Kim là một xã thuộc huyện [[Thanh Trì (huyện)| Thanh Trì]].
+
+Ngày [[6 tháng 11]] năm [[2003]], xã Đại Kim được chuyển thành phường thuộc quận Hoàng Mai mới thành lập.
+ -->
+
+== Hành chính==
+Phường Hoàng Liệt được chia thành 20 tổ dân phố: 1 – Linh Đàm, 2 – Bắc Linh Đàm, 3, 4, 5 – Bán đảo Linh Đàm, 6, 7, 8, 9, 10 – HH, 11 – Tứ Kỳ, 12, 13, 14 – Tây nam Linh Đàm, 15, 16 – Bằng A, 17 – Bằng B, 18 – Liên Cơ, 19 – Tựu Liệt và 20 – Quốc Bảo.<ref name=":2" /><ref name=":04" /><ref name=":3" /><ref name=":4" />
+{| class="wikitable sortable" align="center" width="100%" cellspacing="6" cellpadding="0" style="background: #f9f9f9; border: 1px #aaa solid; margin-top: 16px"
+! colspan="4" style="background: #E6E6FA; font-size: 95%;" |Danh sách các tổ dân phố thuộc phường Hoàng Liệt<ref name=":2" /><ref name=":04" /><ref name=":3" /><ref name=":4" />
+|-
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+|-
+| align="left" |1 – Linh Đàm
+|-
+| align="left" |2 – Bắc Linh Đàm
+|-
+| align="left" |3 – Bán đảo Linh Đàm
+|-
+| align="left" |4 – Bán đảo Linh Đàm
+|-
+| align="left" |5 – Bán đảo Linh Đàm
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+|-
+| align="left" |6 – HH
+|-
+| align="left" |7 – HH
+|-
+| align="left" |8 – HH
+|-
+| align="left" |9 – HH
+|-
+| align="left" |10 – HH
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+|-
+| align="left" |11 – Tứ Kỳ
+|-
+| align="left" |12 – Tây nam Linh Đàm
+|-
+| align="left" |13 – Tây nam Linh Đàm
+|-
+| align="left" |14 – Tây nam Linh Đàm
+|-
+| align="left" |15 – Bằng A
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+|-
+| align="left" |16 – Bằng A
+|-
+| align="left" |17 – Bằng B
+|-
+| align="left" |18 – Liên Cơ
+|-
+| align="left" |19 – Tựu Liệt
+|-
+| align="left" |20 – Quốc Bảo
+|}
+|}
+
+== Trụ sở các cơ quan ==
+Trụ sở phường đặt tại số 5 phố Linh Đường.<ref name="trusomoi">{{Chú thích web | date = 25 tháng 6 năm 2025 | title = Thông báo về địa điểm trụ sở làm việc của 126 phường, xã sau sắp xếp thuộc phạm vi quản lý của thành phố Hà Nội | url = https://dcdn.dantri.com.vn/2025/06/25/tru-so-126-xa-phuong-cua-ha-noi-1750822481952.pdf | website = UBND TP Hà Nội}}</ref><ref>{{Chú thích web | last = Nhóm PV | date = 20 tháng 5 năm 2025 | title = Trụ sở các phường mới của quận Hoàng Mai, Hà Nội sau sắp xếp | url = https://laodong.vn/infographic/tru-so-cac-phuong-moi-cua-quan-hoang-mai-ha-noi-sau-sap-xep-1509268.ldo | access-date = 2025-07-22 | website = [[Báo Lao Động]]}}</ref>
+
+== Kinh tế== 
+Hoàng Liệt đã chuyển dịch cơ cấu kinh tế sang phi nông nghiệp, chủ yếu phát triển dịch vụ, thương mại và tiểu thủ công nghiệp. Các làng nghề, đất nông nghiệp truyền thống dần chuyển thành các khu đô thị mới, tòa nhà cao tầng và trung tâm thương mại. Khu vực giáp ranh Thanh Trì và một số khu vực mới có các cơ sở sản xuất nhỏ, kho bãi logistics.<ref name = ":0">{{Chú thích web | title = Phường Hoàng Liệt: Những thông tin chi tiết sau sắp xếp | url = https://hanoionline.vn/phuong-hoang-liet-nhung-thong-tin-chi-tiet-sau-sap-xep-344244.htm | access-date = 2025-07-09 | website = [[Đài Phát thanh – Truyền hình Hà Nội]] | language = vi}}</ref>
+
+Ngành thương mại - dịch vụ là ngành chủ đạo, chiếm tỷ trọng cao trong cơ cấu kinh tế của phường, tập trung phát triển tại các khu đô thị lớn như bán đảo Linh Đàm, Bắc Linh Đàm, Pháp Vân Tứ Hiệp, HH, Tây Nam Linh Đàm.<ref name = ":0" />
+
+Lĩnh vực nông nghiệp tập trung tại khu vực Tam Hiệp theo hướng chuyển đổi cơ cấu cây trồng, giảm dần diện tích lúa, tăng diện tích trồng cây ăn quả, cây cảnh và rau màu.<ref name = ":0" />
+
+== Xã hội==
+
+== Giáo dục== 
+Hoàng Liệt được xem là "vùng quê khoa bảng", "nơi tụ khí anh hóa" theo cách nói của nhà sử học [[Phan Huy Chú]].<ref name = ":0" />
+
+Các trường học tại phường có Tiểu học Chu Văn An, Tiểu học Hoàng Liệt, Tiểu học Linh Đàm,<ref>{{Chú thích web | last = Thanh Hùng | first = | date = 21 tháng 3 năm 2024 | title = Danh sách các trường tiểu học công lập tại quận Hoàng Mai, Hà Nội | url = https://vietnamnet.vn/danh-sach-cac-truong-tieu-hoc-cong-lap-tai-quan-hoang-mai-ha-noi-2261164.html | access-date = 2025-08-07 | website = Báo VietNamNet | language = }}</ref> THCS Hoàng Liệt và THPT Việt Nam - Ba Lan.
+
+== Y tế==
+Các bệnh viện tại phường bao gồm [[Bệnh viện Thăng Long]], Bệnh viện K Tam Hiệp, [[Bệnh viện Đại học Y Dược]] - Cơ sở Linh Đàm với quy mô 500 giường,<ref>{{Chú thích web | last = Đình Phong | first = | date = 2025-07-10 | title = Giữa Thủ đô, dự án xây Bệnh viện gần 20 năm vẫn chưa xong | url = https://tienphong.vn/giua-thu-do-du-an-xay-benh-vien-gan-20-nam-van-chua-xong-post1759079.tpo | access-date = 2025-08-07 | website = [[Báo Tiền Phong]] | language = vi}}</ref><ref>{{Chú thích web | last = Dương Việt Anh | date = 17 tháng 7 năm 2025 | title = Bệnh viện quy mô 500 giường ở phường Hoàng Liệt sắp hoạt động | url = https://diendandothi.kinhtedothi.vn/benh-vien-quy-mo-500-giuong-o-phuong-hoang-liet-sap-hoat-dong-7984.html | access-date = 7 tháng 8 năm 2025 | website = Diễn đàn Đô thị - Báo Kinh tế Đô thị}}</ref> bên cạnh các phòng khám và cơ sở y tế tư nhân khác.
+
+== Văn hóa== 
+Di tích lịch sử văn hóa cấp Quốc gia tọa lạc tại phường có miếu Gàn, đình Linh Đàm (1996), chùa Liên Đàm (1995), [[chùa Tứ Kỳ]] (1995) và nhiều di tích lịch sử văn hóa khác như đình, chùa Bằng Liệt, Pháp Vân, chùa Liên, chùa Từ.<ref name = ":0" />
+
+== Chú thích== 
+{{tham khảo| 30em}}
+
+== Tham khảo==
+{{ sơ khai Hà Nội}}
+{{Đơn vị hành chính thuộc thành phố Hà Nội}}

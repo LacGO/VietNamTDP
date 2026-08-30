@@ -1,0 +1,128 @@
+{
+  "ward_code": "00562",
+  "ward_name": "Thuận An",
+  "province_code": "01",
+  "resolution": "",
+  "arrangement": "2026_07",
+  "effective_date": "2026-07-01",
+  "verified": "unverified",
+  "extraction": {
+    "source": "vi.wikipedia.org",
+    "title": "(cache)",
+    "mode": "table"
+  },
+  "sources": [
+    {
+      "key": "wiki-00562-1",
+      "title": "Kỳ họp thứ 2 – Hội đồng nhân dân xã Thuận An khóa II, nhiệm kỳ 2026 – 2031 thành công tốt đẹp",
+      "url": "https://thuanan.hanoi.gov.vn/chi-dao-dieu-hanh/ky-hop-thu-2-hoi-dong-nhan-dan-xa-thuan-an-khoa-ii-nhiem-ky-2026-2031-thanh-cong-tot-dep-2840260627054535252.htm?gidzl=ULfu5kb4y1DzHNmGurdq7ND5VHhx3FGQQKTw7AnOzHzkGdrD_W_uJs52S1-XNVXDP4edJMEcBxqqx4Nq4G",
+      "date": "2026-06-26",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-00562-2",
+      "title": "Nghị quyết số 1656/NQ-UBTVQH15 ngày 16 tháng 6 năm 2025 của Ủy ban Thường vụ Quốc hội về việc sắp xếp các đơn vị hành chính cấp xã của thành phố Hà Nội năm 2025",
+      "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf",
+      "date": "2026-05-13",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-00562-3",
+      "title": "Thông báo số 599/TB-UBND ngày 5 tháng 6 năm 2026 của Ủy ban nhân dân xã Thuận An về việc công khai dự thảo Đề án sắp xếp thôn, tổ dân phố trên địa bàn xã Thuận An",
+      "url": "https://sqhx-hanoi.mediacdn.vn/91579363132710912/2026/6/17/599-thong-bao-cong-khai-va-du-thao-de-an-1781662937848283220920.pdf",
+      "date": "2026-07-13",
+      "type": "wikipedia-ref"
+    }
+  ],
+  "note": "Trích tự động từ Wikipedia tiếng Việt (mode=table). Cần đối chiếu nghị quyết HĐND phường/xã.",
+  "tdp": [
+    {
+      "name": "Tổ dân phố 1",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Tổ dân phố 2",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Tổ dân phố 3",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Bình Trù",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Dương Quang",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Đại Lạc",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Đề Trụ",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Đổng Xuyên",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Giao Tất",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Giao Tự",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Kim Đà",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Kim Sen",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Kim Sơn",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Lam Khê",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Lâm Giang",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Lê Đặng",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Lệ Chi",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Linh Quy",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Thiên Đức",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Tô Khê",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Trân Tảo",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Yên Mỹ",
+      "type": "tổ dân phố"
+    }
+  ]
+}

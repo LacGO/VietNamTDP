@@ -1,0 +1,116 @@
+{{Thông tin đơn vị hành chính Việt Nam | phường
+| tên = Phú Thượng
+| hình =Ciputra from public street.jpg 
+| ghi chú hình =Tuyến đường Võ Chí Công 
+| vĩ độ = 21.08734299115371
+| kinh độ = 105.80670641401709
+| diện tích = 7,71 km²
+| dân số = 39.322 người
+| thời điểm dân số = 01/07/2025<ref>{{Cite web|url=https://hanoionline.vn/phuong-phu-thuong-tat-ca-thong-tin-chi-dan-ban-can-biet-344779.htm|title=Phường Phú Thượng: Tất cả thông tin chỉ dẫn bạn cần biết|date=05 tháng 07 năm 2025|website=hanoionline.vn}}</ref>
+| mật độ dân số = {{formatnum:{{#expr:floor({{formatnum:39.322|R}}/{{formatnum:7,71|R}})}} }} người/km²
+| vùng = [[Đồng bằng sông Hồng]] 
+| thành phố = [[Hà Nội]]
+| thành lập = 1995<ref name=69-CP/>
+| trụ sở UBND = Số 58, phố Phú Xá
+| mã hành chính = 
+| web = {{url|phuthuong.hanoi.gov.vn}}
+}}
+{{other|Phú Thượng (định hướng)}}
+'''Phú Thượng''' là một [[Phường (Việt Nam)|phường]] thuộc thành phố [[Hà Nội]], [[Việt Nam]].
+
+==Địa lý==
+Phường Phú Thượng có vị trí địa lý:<ref>{{Cite web|url=https://xaydungchinhsach.chinhphu.vn/chi-tiet-du-thao-phuong-an-sap-xep-cac-phuong-cua-ha-noi-119250421100531902.htm|title=Chi tiết dự thảo PHƯƠNG ÁN SẮP XẾP CÁC PHƯỜNG của HÀ NỘI|date=28 tháng 4 năm 2025|website=xaydungchinhsach.chinhphu.vn}}</ref>
+* Phía Đông tiếp giáp các phường [[Hồng Hà, Hà Nội|Hồng Hà]], [[Tây Hồ, Hà Nội|Tây Hồ]] (ranh giới đi theo [[cầu Nhật Tân]] - đường Võ Chí Công)
+* Phía Tây tiếp giáp phường [[Đông Ngạc]] (ranh giới đi theo đường Phạm Văn Đồng - [[cầu Thăng Long]])
+* Phía Nam tiếp giáp phường [[Xuân Đỉnh]] (ranh giới đi theo đường Nguyễn Hoàng Tôn)
+* Phía Bắc tiếp giáp xã [[Vĩnh Thanh, Hà Nội|Vĩnh Thanh]] (ranh giới đi theo đường sông Hồng - đường ranh giới quận hiện nay)
+
+==Hành chính==
+Trụ sở UBND phường đặt tại địa chỉ số 58 Phú Xá, phường Phú Thượng.
+
+Từ ngày 01 tháng 7 năm 2026, phường Phú Thượng có 16 tổ dân phố<ref>{{Chú thích web |title=Phường Phú Thượng công khai phương án sắp xếp tổ dân phố, lấy ý kiến nhân dân trên địa bàn |url=https://phuthuong.hanoi.gov.vn/tin-tuc-su-kien/phuong-phu-thuong-cong-khai-phuong-an-sap-xep-to-dan-pho-lay-y-kien-nhan-dan-tren-dia-ban-2703260610173145217.htm}}</ref>: Nhật Tảo 1, Nhật Tảo 2, Phú Gia 1, Phú Gia 2, Phú Gia 3, Phú Gia 4, Phú Xá 1, Phú Xá 2, Thượng Thụy, Nam Thăng Long 1, Nam Thăng Long 2, Nam Thăng Long 3, Nam Thăng Long 4, Nam Thăng Long 5, Nam Thăng Long 6, Nam Thăng Long 7.
+
+==Lịch sử==
+Xã Phú Thượng được chia thành ba làng: Thượng Thụy, Phú Gia, Phú Xá (có tên nôm lần lượt: làng Bạc, làng Gạ, làng Sù).
+
+Ngày 28 tháng 10 năm 1995, Chính phủ ban hành Nghị định số 69-CP<ref name=69-CP>{{Chú thích web|url=http://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Nghi-dinh-69-CP-thanh-lap-quan-Tay-Ho-thuoc-thanh-pho-Ha-Noi-39593.aspx|tựa đề= Nghị định số 69-CP về việc thành lập quận Tây Hồ thuộc thành phố Hà Nội |tác giả=|ngày= 1995-10-28 |website= Thư viện pháp luật |url lưu trữ=|ngày lưu trữ=|ngày truy cập=|url-status=live}}</ref> về việc:
+* Thành lập quận Tây Hồ thuộc thành phố Hà Nội.
+* Thành lập phường Phú Thượng thuộc quận Tây Hồ trên cơ sở toàn bộ 601,6 hécta diện tích tự nhiên và 7.386 nhân khẩu của xã Phú Thượng thuộc huyện Từ Liêm.
+
+Ngày 16 tháng 6 năm 2025:
+
+* [[Quốc hội Việt Nam|Quốc hội]] ban hành Nghị quyết số 203/2025/QH15 về việc sửa đổi, bổ sung một số điều của Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam.<ref>{{Chú thích web |last=xaydungchinhsach.chinhphu.vn|date=2025-06-28|title=NGHỊ QUYẾT 203/2025/QH15 SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA HIẾN PHÁP NƯỚC CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM|url=https://xaydungchinhsach.chinhphu.vn/nghi-quyet-203-2025-qh15-sua-doi-bo-sung-mot-so-dieu-cua-hien-phap-nuoc-cong-hoa-xa-hoi-chu-nghia-viet-nam-119250616181735552.htm|access-date=2026-07-15|website=xaydungchinhsach.chinhphu.vn|language=vi}}</ref> Theo đó, kết thúc hoạt động của đơn vị hành chính cấp huyện trong cả nước từ ngày 1 tháng 7 năm 2025.
+* [[Ủy ban Thường vụ Quốc hội]] ban hành Nghị quyết số 1656/NQ-UBTVQH15 về việc sắp xếp các đơn vị hành chính cấp xã của thành phố Hà Nội năm 2025 (nghị quyết có hiệu lực từ ngày 16 tháng 6 năm 2025). Theo đó, sắp xếp một phần diện tích tự nhiên, quy mô dân số của các phường Đông Ngạc, Xuân Đỉnh, Xuân Tảo (quận [[Bắc Từ Liêm]]), Xuân La (quận [[Tây Hồ (quận)|Tây Hồ]]), và phần còn lại của phường Phú Thượng (sau khi sắp xếp một phần diện tích tự nhiên, quy mô dân số vào phường Hồng Hà và phường Tây Hồ), thành phường mới có tên gọi là phường Phú Thượng.<ref>{{Cite web|url=https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-1656-nq-ubtvqh15-sap-xep-cac-dvhc-cap-xa-cua-thanh-pho-ha-noi-nam-2025-119250616192433872.htm|title=Nghị quyết số 1656/NQ-UBTVQH15 sắp xếp các ĐVHC cấp xã của thành phố Hà Nội năm 2025|date=20 tháng 6 năm 2025|website=xaydungchinhsach.chinhphu.vn}}</ref>
+
+==Xã hội==
+===Giáo dục đào tạo===
+* Trường Trung học phổ thông Tây Hồ.
+* Trường Trung học cơ sở Phú Thượng.
+* Trường Tiểu học Phú Thượng.
+* Trường Tiểu học Đoàn Thị Điểm.
+* Trường Mầm non Phú Thượng.
+* Trường Mầm non Đoàn Thị Điểm.
+* Trường Mầm non Đông Ngạc B và một số trường mầm non tư nhân khác.
+* Trung tâm dạy nghề Tây Hồ.
+* Trung tâm Giáo dục nghề nghiệp và Giáo dục thường xuyên Tây Hồ và một số trường trung cấp khác.
+
+Trường Trung học phổ thông Tây Hồ thành lập năm 2002.
+
+Ngoài ra, phường Phú Thượng có 2 trường quốc tế tuyển sinh cả bốn cấp học từ mầm non đến cấp 3 là [[Hanoi Academy]] và [[United Nations International School]] nằm ở [[Khu đô thị mới Nam Thăng Long]] (Ciputra).
+
+==Văn hóa==
+===Làng Phú Gia===
+Làng Phú Gia có nghề truyền thống là nấu xôi, rượu nếp, bánh trôi, bánh đa kê... nhưng nổi tiếng nhất vẫn là món xôi được dân Hà Thành xưa nay rất ưa chuộng.
+
+<blockquote>''"Làng Gạ có gốc cây đề,
+
+''Có sông tắm mát có nghề bán xôi".</blockquote>
+[[Tập tin:Mâm_xôi_của_làng_nghề_Phú_Thượng.jpg|thumb|Mâm xôi tại Lễ hội xôi Phú Thượng tháng giêng Giáp Thìn 2024|250px]]
+
+Năm 2024, nghề làm xôi ở Phú Thượng đã được ghi danh di sản văn hóa phi vật thể của Việt Nam.<ref name="2024.344">{{chú thích sách |title= Quyết định số 344/QĐ-BVHTTDL ngày 16/02/2024 của Bộ Văn hóa, Thể thao và Du lịch về việc công bố Danh mục di sản văn hóa phi vật thể quốc gia |publisher= Bộ Văn hóa, Thể thao và Du lịch }}</ref>
+
+===Làng Thượng Thụy===
+Làng Thượng Thụy xưa có nghề chính là trồng hoa lay ơn và buôn chuối. Sau chuyển sang trồng hoa đào, các loại hoa lá và buôn bán các loại hoa phục vụ nội thành Hà Nội và xuất ra các tỉnh lân cận.
+
+===Làng Phú Xá===
+Làng Phú Xá giáp đất Nhật Tân có nghề làm bún và trồng đào. Đào Phú Gia, Phú Xá cũng đẹp không kém làng đào Nhật Tân.
+
+<blockquote>''"Làng Gạ đi bán bánh trôi
+''Làng Sù bán bún dính môi lằng nhằng".</blockquote>
+
+Với diện tích đất nông nghiệp lớn nhất trong ba làng, làng Phú Gia hiện tại là nơi có diện tích trồng đào lớn nhất khu vực Tây Hồ mặc dù đất canh tác đã thu hẹp do xây dựng khu đô thị mới Nam Thăng Long.
+
+===Di tích===
+Theo ''[[Đại Việt sử ký toàn thư]]'', khoảng triều Lý – Trần, các thợ thủ công [[Champa]] bị bắt từ cố quận về kinh đô [[Thăng Long]] được an trí ở tại phía Tây [[đầm Xác Cáo]]. Người thôn ấy tự gọi [[Vijaya (Chăm Pa)|Putrajaya]] để tưởng nhớ quê cũ, sau thường được phiên âm là Bà Già, Phú Gia, Phú Xá,... Khi tiến hành chọn địa điểm đầu tư khu đô thị sinh thái kiểu mẫu, ban lãnh đạo tập đoàn Ciputra ([[Indonesia]]) được tham mưu về địa danh này nên quyết định lập [[Khu đô thị Nam Thăng Long]] ngay sát làng cổ.<ref>{{chú thích sách|url=|tựa đề= Ngôn ngữ và sự phát triển văn hóa xã hội |tác giả= Phó giáo sư, Tiến sĩ Trần Trí Dõi |nhà xuất bản= NXB. Văn hóa Thông tin |year= 2001 |trang=|location= Hà Nội|doi=|id=|isbn=}}</ref>
+
+Phú Xá nay còn bảo lưu được mộ chí của nữ sĩ [[Đoàn Thị Điểm]] vì đây là quê chồng, là ông Tiến sĩ [[Nguyễn Kiều]].
+
+Làng Phú Gia có nhiều điểm di tích như nhà cụ [[Nguyễn Thị An]]. Nơi [[Hồ Chí Minh|chủ tịch Hồ Chí Minh]] lần đầu tiên đặt chân lên đất Hà Nội là cây gạo ven đê sông hồng rồi đi theo bờ đê đến nhà ông Công Ngọc Kha (Trần Lộc) vào ngày 23 tháng 08 năm 1945 ở lại đó tới chiều 25 tháng 8 Bác được các đồng chí [[Trường Chinh]], [[Nguyễn Lương Bằng]], [[Trần Đăng Ninh]], [[Võ Nguyên Giáp]] về đón Bác vào nội thành [[Hà Nội]] trước khi đọc bản tuyên ngôn độc lập tại [[quảng trường Ba Đình]],<ref>{{Chú thích web|url=https://dantri.com.vn/xa-hoi/ngoi-nha-bi-mat-noi-bac-ho-nghi-dau-tien-khi-ve-ha-noi-nam-1945-20160902075534384.htm|tựa đề= Ngôi nhà bí mật nơi Bác Hồ nghỉ đầu tiên khi về Hà Nội năm 1945 |tác giả= Hữu Nghị |ngày= 2016-09-02 |website= Báo Dân Trí |url lưu trữ=|ngày lưu trữ=|ngày truy cập= 2017-02-28 |url-status=live}}</ref> lần thứ hai [[Hồ Chí Minh|chủ tịch Hồ Chí Minh]] về làng Phú Gia thăm gia đình ông Công Ngọc Kha (Trần Lộc) một ngày vào ngày 24 tháng 11 năm 1946 buổi sáng [[Hồ Chí Minh|chủ tịch Hồ Chí Minh]] thăm hỏi gia đình buổi chiều ở nhà ông Công Ngọc Kha [[Hồ Chí Minh|chủ tịch Hồ Chí Minh]] làm việc căn dặn với cán bộ xã Phú Thượng và cán bộ Quận Lãng Bạc chuẩn bị cho cuộc kháng chiến chống Pháp lâu dài, đến chiều tối [[Hồ Chí Minh|chủ tịch Hồ Chí Minh]] chào gia đình và dân Phú Gia rồi về nội thành Hà Nội.
+
+Cách mạng được hình thành từ thời kỳ tiền khởi nghĩa như cơ sở in cờ giải phóng tại nhà [[bà Hai Vẽ]], nhà bà Phó Ái là cơ sở hoạt động của các đồng chí [[Trường Chinh]], [[Hoàng Văn Thụ]], Trần Thị Sáu v.v.. hai cơ sở này và một số gia đình được [[Hồ Chí Minh|chủ tịch Hồ Chí Minh]] về thăm chúc tết vào ngày 31 tháng 1 năm 1957.
+
+[[Chùa Bà Già]] là một ngôi chùa ở làng Phú Gia. Chùa có một lai lịch khá cổ. Nguyên, Phú Gia (tên nôm là làng Gạ) là nơi các vua nhà Trần định cư. Một bộ phận người Chăm được đưa từ phía nam ra đã dựng một ngôi chùa mà sử Toàn thư đã phiên âm là Đa-da-li (Putrajaya). Thái úy [[Trần Nhật Duật]] (1254–1330) thường tới đây đàm đạo về [[Phật giáo]] với vị sư người Chăm trụ trì. Có thể cái tên Bà Già là từ Đa-da-li mà ra. Nay trong chùa còn bức hoành phi cổ khắc ba chữ "Bà Già tự".
+
+[[Đình Phú Gia]] <ref>{{Cite web|url=https://nguoihanoi.vn/dinh-phu-gia-quan-tay-ho-71723.html|title=Đình Phú Gia (quận Tây Hồ)|date=08 tháng 05 năm 2023|website=nguoihanoi.vn}}</ref> là một công trình kiến trúc tông giáo có giá trị nhiều mặt trong kho tàng văn hóa Nhà nước nằm trong cổ tích quan trọng của văn hóa [[Hồ Tây]] lịch sử. Cho đến nay, lai lịch về ngôi đình vẫn còn nhiều điều bí ẩn. Theo sử sách, làng Phú Gia từ lâu đã suy tôn thần Khai Nguyên, một tướng thời [[Hùng Vương]] thứ 6 có công đánh giặc Ân giữ nước, làm [[thành hoàng|thành hoàng làng]]. Tương truyền ngài còn có công trị nạn hồng thủy, đem lại bình yên, hạnh phúc cho dân lành và được vua ban 12 đạo sắc, phong làm [[Thành hoàng|Thành hoàng làng]] với 12 chữ "Cứu nước, cứu dân, âm phù, dương trợ, dân tình yên ổn". Để tưởng nhớ công ơn của thần Khai Nguyên, theo lệ hàng năm vào mùng 8/1 (âm lịch) đến 11/1 (âm lịch) – chính hội là 10/1 (âm lịch), dân làng Phú Gia lại mở hội để tưởng nhớ tới ngài, âu cũng là một nét văn hóa đẹp trong truyền thống "uống nước nhớ nguồn" của người Việt.
+
+Làng Thượng Thuỵ có ngôi nhà thờ [[Kitô giáo]] khá lớn xây từ đầu thế kỷ XX.
+
+Phường Phú Thượng là một dải đất ven sông có phong thủy tốt, cư dân hiền hòa đôn hậu. Là mảnh đất tốt của Hà Nội ngàn năm văn hiến.
+
+===Danh nhân===
+* [[Đoàn Thị Điểm]]: danh nhân văn hóa nổi tiếng, bà được cho là tác giả của một trong bảy bản dịch của tác phẩm "[[Chinh phụ ngâm]]" và được biết đến với nhiều tác phẩm văn học giá trị khác.
+* [[Nguyễn Kiều]]: chồng bà [[Đoàn Thị Điểm]]. Thuở trẻ, ông nổi tiếng hay chữ, có tài văn chương. Khoa [[Ất Mùi]] ([[1715]]) đời vua [[Lê Dụ Tông]], ông đỗ [[Tiến sĩ]], được bổ làm quan, dần lên đến chức [[Đô ngự sử]], tước bá.
+* [[Bùi Trang Chước]] là [[họa sĩ]] bậc thầy [[Việt Nam]] với tác phẩm nổi tiếng [[Quốc huy Việt Nam]].<ref>{{Chú thích web| url =http://tuoitre.vn/Van-hoa-Giai-tri/49770/Mau-Quoc-huy-la-cua-HS-Bui-Trang-Chuoc-va-Tran-Van-Can.html | tiêu đề = Mẫu Quốc huy là của HS Bùi Trang Chước và Trần Văn Cẩn | tác giả 1 = | ngày = 09/29/2004 | ngày truy cập = | nơi xuất bản=Tuổi trẻ| ngôn ngữ = }}</ref> Ông là [[họa sĩ]] chuyên vẽ [[tem thư]], [[tiền]], huân chương và huy chương, biểu trưng. Với một khối lượng đồ sộ, hơn 1000 tác phẩm của ông sắp xếp theo thời gian sáng tác được [[triển lãm]] trưng bày tại [[Hà Nội]] kéo dài trong 3 tuần, từ ngày 27/4 đến 21/5 năm 2004, tại Trung tâm Lưu trữ Quốc gia III.<ref>{{Chú thích web | url =http://hanoimoi.com.vn/forumdetail/Van-hoa/15130/h417n-1000-tac-ph7849m-c7911a-c7889-h7885a-s297-bui-trang-ch4327899c-2734327907c-tr432ng-bay-t7841i-ha-n7897i.htm | tiêu đề =Hơn 1000 tác phẩm của cố họa sĩ Bùi Trang Chước được trưng bày tại Hà Nội | tác giả 1 =Thanh Nga | ngày = | ngày truy cập = | nơi xuất bản =Hà Mội Mới | ngôn ngữ = }}{{Liên kết hỏng|date=2023-05-05 |bot=InternetArchiveBot }}</ref>
+
+==Giao thông==
+Các đường, phố, ngõ chính thuộc phường Phú Thượng: Đường [[An Dương Vương]], Phố [[Bùi Trang Chước]], Phố Phú Gia, Phố Phú Thượng, Phố Phú Xá, Phố Phúc Hoa, Phố Thượng Thụy, Đường [[Lạc Long Quân]], Đường [[Võ Chí Công]], Ngõ 209, Đường An Dương Vương.
+
+==Danh nhân==
+* [[Gioan Baotixita Nguyễn Quang Tuyến]] (sinh năm 1969), giám mục của Giáo hội Công giáo Việt Nam.
+
+==Chú thích==
+{{tham khảo|30em}}
+
+==Tham khảo==
+{{Sơ khai Hà Nội}}
+{{Đơn vị hành chính thuộc thành phố Hà Nội}}

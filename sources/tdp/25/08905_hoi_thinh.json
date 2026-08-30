@@ -1,0 +1,148 @@
+{
+  "ward_code": "08905",
+  "ward_name": "Hội Thịnh",
+  "province_code": "25",
+  "resolution": "",
+  "arrangement": "truoc_2026_07",
+  "effective_date": "",
+  "verified": "unverified",
+  "extraction": {
+    "source": "vi.wikipedia.org",
+    "title": "Hội Thịnh",
+    "mode": "narrative"
+  },
+  "sources": [
+    {
+      "key": "wiki-08905-1",
+      "title": "Tiểu sử tóm tắt 05 người ứng cử đại biểu Hội đồng nhân dân xã Hội Thịnh khóa III, nhiệm kỳ 2026 - 2031. Tại Đơn vị bầu cử số 01 (Gồm các thôn: Lạc Thịnh, Hưng Thịnh, Quang Trung, Thọ Khánh).",
+      "url": "https://hoithinh.phutho.gov.vn/index.php/tin-tuc-su-kien/chinh-tri/tieu-su-tom-tat-05-nguoi-ung-cu-dai-bieu-hoi-dong-nhan-dan-xa-hoi-thinh-khoa-iii-nhiem-ky-2026-2031-tai-don-vi-bau-cu-so-01",
+      "date": "2026-03-06",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-08905-2",
+      "title": "Tiểu sử tóm tắt 05 người ứng cử đại biểu Hội đồng nhân dân xã Hội Thịnh khóa III, nhiệm kỳ 2026 - 2031. Tại Đơn vị bầu cử số 02 (Gồm các thôn: Lê Lợi, Tân Thịnh, Vân Sau, Vân Nội).",
+      "url": "https://hoithinh.phutho.gov.vn/index.php/tin-tuc-su-kien/chinh-tri/tieu-su-tom-tat-05-nguoi-ung-cu-dai-bieu-hoi-dong-nhan-dan-xa-hoi-thinh-khoa-iii-nhiem-ky-2026-2031-tai-don-vi-bau-cu-so-02",
+      "date": "2026-03-06",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-08905-3",
+      "title": "Tiểu sử tóm tắt 05 người ứng cử đại biểu Hội đồng nhân dân xã Hội Thịnh khóa III, nhiệm kỳ 2026 - 2031. Tại Đơn vị bầu cử số 03 (Gồm các thôn: Chấn Yên, Vân Tập, Vân Giữa, Giữa)",
+      "url": "https://hoithinh.phutho.gov.vn/index.php/tin-tuc-su-kien/chinh-tri/tieu-su-tom-tat-05-nguoi-ung-cu-dai-bieu-hoi-dong-nhan-dan-xa-hoi-thinh-khoa-iii-nhiem-ky-2026-2031-tai-don-vi-bau-cu-so-03",
+      "date": "2026-03-06",
+      "type": "wikipedia-ref"
+    }
+  ],
+  "note": "Trích tự động từ Wikipedia tiếng Việt (mode=narrative). Cần đối chiếu nghị quyết HĐND phường/xã. ⚠️ Danh mục có thể là hiện trạng TRƯỚC sắp xếp thôn/TDP 01/7/2026 — Wikipedia chưa cập nhật nghị quyết mới.",
+  "tdp": [
+    {
+      "name": "Chấn Yên",
+      "type": "thôn"
+    },
+    {
+      "name": "Chùa",
+      "type": "thôn"
+    },
+    {
+      "name": "Cuối",
+      "type": "thôn"
+    },
+    {
+      "name": "Diên Lâm",
+      "type": "thôn"
+    },
+    {
+      "name": "Đình",
+      "type": "thôn"
+    },
+    {
+      "name": "Đông",
+      "type": "thôn"
+    },
+    {
+      "name": "Giữa",
+      "type": "thôn"
+    },
+    {
+      "name": "Hạ",
+      "type": "thôn"
+    },
+    {
+      "name": "Hưng Thịnh",
+      "type": "thôn"
+    },
+    {
+      "name": "Lạc Thịnh",
+      "type": "thôn"
+    },
+    {
+      "name": "Lê Lợi",
+      "type": "thôn"
+    },
+    {
+      "name": "Mai Nham",
+      "type": "thôn"
+    },
+    {
+      "name": "Nhân Mỹ",
+      "type": "thôn"
+    },
+    {
+      "name": "Phú Ninh",
+      "type": "thôn"
+    },
+    {
+      "name": "Phú Thị",
+      "type": "thôn"
+    },
+    {
+      "name": "Phúc Lai",
+      "type": "thôn"
+    },
+    {
+      "name": "Quang Trung",
+      "type": "thôn"
+    },
+    {
+      "name": "Tân Thịnh",
+      "type": "thôn"
+    },
+    {
+      "name": "Thọ Khánh",
+      "type": "thôn"
+    },
+    {
+      "name": "Thượng",
+      "type": "thôn"
+    },
+    {
+      "name": "Trại Giềng",
+      "type": "thôn"
+    },
+    {
+      "name": "Vân Du Hòa",
+      "type": "thôn"
+    },
+    {
+      "name": "Vân Giữa",
+      "type": "thôn"
+    },
+    {
+      "name": "Vân Nội",
+      "type": "thôn"
+    },
+    {
+      "name": "Vân Sau",
+      "type": "thôn"
+    },
+    {
+      "name": "Vân Tập",
+      "type": "thôn"
+    },
+    {
+      "name": "Xuân Mới",
+      "type": "thôn"
+    }
+  ]
+}

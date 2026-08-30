@@ -1,0 +1,318 @@
+{{Thông tin đơn vị hành chính Việt Nam |Xã
+| tên = Thanh Trì
+| hình = Đình Ba Dân gate.jpg
+| ghi chú hình = [[Đình Ba Dân]]
+| vĩ độ = 20.945041627025343
+| kinh độ = 105.84549008465572
+| bản đồ 1 ={{maplink|frame=yes|plain=yes|type=shape|frame-width=280|frame-align=center|stroke-width=3}} 
+| diện tích = 10,15 km²
+| dân số = 55.378 người
+| thời điểm dân số = 2025
+| mật độ dân số = {{formatnum:{{#expr:floor({{formatnum:55.378| R}}/{{formatnum:10,15| R}})}} }} người/km²
+| vùng = [[Đồng bằng sông Hồng]]
+| thành phố = [[Hà Nội]]
+| trụ sở UBND = Số 12, Đường Nguyễn Bặc<ref>{{Chú thích web |url=https://storage-vnportal.vnpt.vn/gov-hni/6244/VanBan/2025/6/25/TB-729-2025.pdf |title=Thông báo số 729/TB-UBND ngày 25 tháng 6 năm 2025 của Ủy ban nhân dân thành phố Hà Nội về địa điểm trụ sở làm việc của 126 phường, xã sau sắp xếp thuộc phạm vi quản lý của thành phố Hà Nội|access-date=2026-06-15 |archive-date=2026-06-15 |archive-url=https://web.archive.org/web/20260615034519/https://storage-vnportal.vnpt.vn/gov-hni/6244/VanBan/2025/6/25/TB-729-2025.pdf |url-status=dead | website = Cổng Thông tin điện tử Ủy ban nhân dân thành phố Hà Nội}}</ref>
+| mã hành chính =00640<ref>{{Chú thích web |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/19ttg.signed.pdf |title=Quyết định số 19/2025/QĐ-TTg ngày 30 tháng 6 năm 2025 của Thủ tướng Chính phủ về việc Ban hành Bảng danh mục và mã số các đơn vị hành chính Việt Nam |access-date=2026-06-15 |archive-date=2026-06-15 |archive-url=https://web.archive.org/web/20260615034519/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/19ttg.signed.pdf |url-status=dead | website = Cổng Thông tin điện tử Chính phủ}}</ref> 
+| web = {{url|thanhtri.hanoi.gov.vn}}
+|trụ sở Đảng ủy=Số 12, Đường Nguyễn Bặc}}
+{{other|Thanh Trì (định hướng)}}
+'''Thanh Trì''' là một [[Xã (Việt Nam)|xã]] thuộc thành phố [[Hà Nội]], [[Việt Nam]].
+
+== Địa lý == 
+Xã Thanh Trì có vị trí địa lý:
+
+* Phía đông giáp xã [[Bát Tràng]] với ranh giới tự nhiên là [[sông Hồng]]
+* Phía tây giáp xã [[Đại Thanh, Hà Nội|Đại Thanh]] với ranh giới tự nhiên là [[sông Tô Lịch]]
+* Phía nam giáp xã [[Ngọc Hồi (xã)|Ngọc Hồi]] (với ranh giới tự nhiên là [[sông Tô Lịch]]) và xã [[Nam Phù]]
+* Phía bắc giáp phường [[Yên Sở]] và phường [[Lĩnh Nam (phường)|Lĩnh Nam]].<ref>{{Chú thích web |last=Viện nghiên cứu Phát triển kinh tế – xã hội Hà Nội |date=2025-07-02 |title=Xã Thanh Trì: Những thông tin chi tiết sau sắp xếp |url=https://hanoionline.vn/xa-thanh-tri-nhung-thong-tin-chi-tiet-sau-sap-xep-344226.htm |url-status=dead |archive-url=https://web.archive.org/web/20260823400809/https://hanoionline.vn/xa-thanh-tri-nhung-thong-tin-chi-tiet-sau-sap-xep-344226.htm |archive-date=2026-08-23 |access-date=2026-08-23 |website=Cơ quan Báo và Phát thanh Truyền hình Hà Nội}}</ref><ref>{{Chú thích web |last=Cơ quan Báo và Phát thanh Truyền hình Hà Nội |date=2025-07-07 |title=Xã Thanh Trì: Tất cả thông tin chỉ dẫn bạn cần biết |url=https://hanoionline.vn/xa-thanh-tri-tat-ca-thong-tin-chi-dan-ban-can-biet-345168.htm |url-status=dead |archive-url=https://web.archive.org/web/20260823401509/https://hanoionline.vn/xa-thanh-tri-tat-ca-thong-tin-chi-dan-ban-can-biet-345168.htm |archive-date=2026-08-23 |access-date=2026-08-23}}</ref>
+Xã Thanh Trì có diện tích tự nhiên là 10,15 km<sup>2</sup>, quy mô dân số năm 2025 là 55.378 người và mật độ dân số đạt 5.455 người/km<sup>2</sup>.<ref>{{Chú thích web |last=Mai Hữu |date=2026-04-05 |title=Hà Nội: Chi tiết phương án tổng thể sắp xếp đơn vị hành chính cấp xã |url=https://hanoimoi.vn/ha-noi-chi-tiet-phuong-an-tong-the-sap-xep-don-vi-hanh-chinh-cap-xa-700278.html |url-status=bot: unknown |archive-url=https://web.archive.org/web/20250710163328/https://hanoimoi.vn/ha-noi-chi-tiet-phuong-an-tong-the-sap-xep-don-vi-hanh-chinh-cap-xa-700278.html |archive-date=2025-07-10 |access-date=2026-07-08 |website=Cơ quan Báo và Phát thanh, truyền hình Hà Nội}}</ref><ref>Công văn số 2896/BNV-CQĐP ngày 27 tháng 5 năm 2025 của Bộ Nội vụ về việc cung cấp thông tin danh mục dự kiến đơn vị hành chính cấp xã mới.</ref> 
+
+== Lịch sử ==
+
+=== Trước năm 1976 ===
+Ngày 19 tháng 11 năm 1958, thị trấn Văn Điển được thành lập trên cơ sở tách xóm phố Văn Điển thuộc xã Tứ Hiệp.<ref name=":0">{{chú thích sách| tác giả = | tựa đề = Tổng mục lục văn bản quy phạm pháp luật Việt Nam, 1945-2002| nhà xuất bản = Nhà xuất bản Chính trị quốc gia| year = 2003| nơi = | trang = 271| url = https://www.google.com/books/edition/Tỏ̂ng_mục_lục_văn_bản_quy_ph/0acOAQAAMAAJ| doi = | id = | isbn = }}</ref>
+
+=== Giai đoạn 1976 – nay ===
+Sau ngày 2 tháng 7 năm 1976, thị trấn Văn Điển và 7 xã: Duyên Hà, Ngũ Hiệp, Tam Hiệp, Tứ Hiệp, Vĩnh Quỳnh, Yên Mỹ, Yên Sở thuộc huyện [[Thanh Trì (huyện)|Thanh Trì]] của thành phố [[Hà Nội]].
+
+Ngày 14 tháng 3 năm 1984, cắt 14,8 hécta của xã Tứ Hiệp, 25 hécta của xã Tam Hiệp, 4,2 héc ta của xã Vĩnh Quỳnh để nhập vào thị trấn Văn Điển (huyện [[Thanh Trì (huyện)|Thanh Trì]]).<ref>{{Chú thích web |title=Quyết định số 42-HĐBT ngày 14 tháng 3 năm 1984 của Hội đồng Bộ trưởng về việc phân vạch địa giới một số phường, thị trấn thuộc thành phố Hà Nội |url=https://chinhphu.vn/default.aspx?pageid=27160&docid=6190 |url-status=dead |archive-url=https://web.archive.org/web/20260822201510/https://chinhphu.vn/default.aspx?pageid=27160&docid=6190 |archive-date=2026-08-22 |access-date=2026-08-22 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+
+Ngày 6 tháng 11 năm 2003:
+
+* Tách toàn bộ diện tích tự nhiên và dân số của xã Yên Sở và 35 ha diện tích tự nhiên của xã Tứ Hiệp thuộc huyện [[Thanh Trì (huyện)|Thanh Trì]] về quận [[Hoàng Mai (quận)|Hoàng Mai]] mới thành lập.
+* Thành lập phường Yên Sở trên cơ sở toàn bộ diện tích tự nhiên và dân số của xã Yên Sở, 35 ha diện tích tự nhiên của xã Tứ Hiệp.<ref>Nghị định số 132/2003/NĐ-CP ngày 6 tháng 11 năm 2003 của Chính phủ về việc điều chỉnh địa giới hành chính để thành lập các quận Long Biên, Hoàng Mai, thành lập các phường trực thuộc quận Long Biên, quận Hoàng Mai, thành phố Hà Nội.</ref>
+
+Ngày 16 tháng 6 năm 2025:
+
+* Kết thúc hoạt động của đơn vị hành chính cấp huyện trong cả nước.<ref>{{Chú thích web |last= |date= |title=Nghị quyết số 203/2025/QH15 ngày 16 tháng 6 năm 2025 của Quốc hội khóa XV, Kỳ họp thứ 9 về việc sửa đổi, bổ sung một số điều của Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/nq-sua-doi-hien-phap.pdf |url-status=live |archive-url=https://web.archive.org/web/20260613090807/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/nq-sua-doi-hien-phap.pdf |archive-date=2026-06-13 |access-date=2026-06-13 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+* Sắp xếp một phần diện tích tự nhiên, quy mô dân số của thị trấn Văn Điển, xã Ngũ Hiệp và xã Vĩnh Quỳnh, một phần diện tích tự nhiên, toàn bộ quy mô dân số của xã Yên Mỹ, một phần diện tích tự nhiên của xã Duyên Hà, phần còn lại của xã Tứ Hiệp (huyện [[Thanh Trì (huyện)|Thanh Trì]]) và phần còn lại của phường Yên Sở (quận [[Hoàng Mai (quận)|Hoàng Mai]]) thành xã mới có tên gọi là xã Thanh Trì.<ref>{{Chú thích web |title=Nghị quyết số 1656/NQ-UBTVQH15 ngày 16 tháng 6 năm 2025 của Ủy ban Thường vụ Quốc hội về việc sắp xếp các đơn vị hành chính cấp xã của thành phố Hà Nội năm 2025 |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf |url-status=bot: unknown |archive-url=https://web.archive.org/web/20260513110024/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf |archive-date=2026-05-13 |access-date=2026-06-30 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+* Sau khi sắp xếp, xã Thanh Trì được chia thành 25 tổ dân phố – thôn, gồm 14 tổ dân phố và 11 thôn.<ref>3 tổ dân phố: Chợ, Ga và Xóm Bến của thị trấn Văn Điển cũ; 6 tổ dân phố – thôn, gồm 4 tổ dân phố: C5 – X55, Nhà in Bộ Tổng tham mưu, Phố Lưu Phái, Trung đoàn 17 và 2 thôn: Lưu Phái, Tự Khoát của xã Ngũ Hiệp cũ; 4 tổ dân phố, đánh số từ 1 đến 4 của xã Vĩnh Quỳnh cũ; 3 thôn, đánh số từ 1 đến 3 của xã Yên Mỹ cũ; 8 tổ dân phố – thôn, gồm 3 tổ dân phố: 7, D8, Z179 và 5 thôn: Cổ Điển A, B, Cương Ngô, Đồng Trì, Văn Điển của xã Tứ Hiệp cũ; thôn 4 của xã Vạn Phúc cũ.</ref><ref>{{Chú thích web |title=Thông tư số 10/2022/TT-BTNMT ngày 29 tháng 9 năm 2022 của Bộ Tài nguyên và Môi trường về việc Ban hành Danh mục địa danh dân cư, sơn văn, thủy văn, kinh tế – xã hội phục vụ công tác thành lập bản đồ thành phố Hà Nội |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2022/10/10-btnmt.pdf |url-status=bot: unknown |archive-url=https://web.archive.org/web/20260630082812/https://datafiles.chinhphu.vn/cpp/files/vbpq/2022/10/10-btnmt.pdf |archive-date=2026-06-30 |access-date=2026-06-30 |website=Cổng Thông tin điện tử Chính phủ}}</ref><ref>{{Chú thích web |last= |date= |title=Quyết định số 9/QĐ-UBBC ngày 13 tháng 2 năm 2026 của Ủy ban bầu cử xã Thanh Trì về việc công bố danh sách chính thức những người ứng cử đại biểu Hội đồng nhân dân xã Thanh Trì nhiệm kỳ 2026 – 2031 theo từng đơn vị bầu cử |url=https://sqhx-hanoi.mediacdn.vn/91579363132710912/2026/2/23/quyet-dinh-09-17718435836411193876506.pdf |url-status=dead |archive-url=https://web.archive.org/web/20260826201510/https://sqhx-hanoi.mediacdn.vn/91579363132710912/2026/2/23/quyet-dinh-09-17718435836411193876506.pdf |archive-date=2026-08-26 |access-date=2026-08-26 |website=Trang Thông tin điện tử xã Thanh Trì – thành phố Hà Nội}}</ref>
+Ngày 12 tháng 9 năm 2025, chuyển đổi tổ dân phố thành thôn trên địa bàn xã Thanh Trì.<ref>{{Chú thích web |last=Thanh Hồng |date=2025-07-29 |title=Kỳ họp thứ hai Hội đồng nhân dân xã Thanh Trì: Phát huy dân chủ, quyết nghị nhiều nội dung quan trọng |url=https://thanhtri.hanoi.gov.vn/tin-tuc-su-kien/ky-hop-thu-hai-hdnd-xa-thanh-tri-phat-huy-dan-chu-quyet-nghi-nhieu-noi-dung-quan-trong-2825250729114805085.htm?gidzl=Pzqz5NsPO11ZmZaJTu1c56Z5EX5gWs4MSCTl6swAOauWnZiUQeSnI2F3OKquWpyQ8CGpIcOiTMWqU9Xa4W |url-status=dead |archive-url=https://web.archive.org/web/20260826201510/https://thanhtri.hanoi.gov.vn/tin-tuc-su-kien/ky-hop-thu-hai-hdnd-xa-thanh-tri-phat-huy-dan-chu-quyet-nghi-nhieu-noi-dung-quan-trong-2825250729114805085.htm?gidzl=Pzqz5NsPO11ZmZaJTu1c56Z5EX5gWs4MSCTl6swAOauWnZiUQeSnI2F3OKquWpyQ8CGpIcOiTMWqU9Xa4W |archive-date=2026-08-26 |access-date=2026-08-26 |website=Trang Thông tin điện tử xã Thanh Trì – thành phố Hà Nội}}</ref>
+
+Ngày 24 tháng 12 năm 2025, xác định một phần của xã Thanh Trì là [[Đô thị Việt Nam|đô thị loại II]] và [[Đô thị Việt Nam|đô thị loại III]].<ref>Đô thị loại II (chuyển tiếp từ phường Yên Sở thuộc quận Hoàng Mai) và đô thị loại III (chuyển tiếp từ thị trấn Văn Điển thuộc huyện Thanh Trì).</ref><ref>{{Chú thích web |title=Nghị quyết số 111/2025/UBTVQH15 ngày 24 tháng 12 năm 2025 của Ủy ban Thường vụ Quốc hội về phân loại đô thị |url=https://cdn.nhandan.vn/files/f4a4abf7f9a0ba4a91744616546d850872b76917f90d5a74cc9eebef1369fb6f/111.pdf |url-status=dead |archive-url=https://web.archive.org/web/20260430074852/https://cdn.nhandan.vn/files/f4a4abf7f9a0ba4a91744616546d850872b76917f90d5a74cc9eebef1369fb6f/111.pdf |archive-date=2026-04-30 |access-date=2026-07-12 |website=Báo Nhân dân}}</ref>
+
+Ngày 26 tháng 6 năm 2026, thành lập 4 thôn mới: 1 Yên Mỹ, Cổ Điển A, Tứ Hiệp, Lưu Phái và 12 tổ dân phố mới: Văn Điển, Tân Hiệp, Minh Châu, Thanh Trì, Quang Lai, Quyết Thắng, Ngũ Hiệp, Thanh Bình, Hưng Phúc, Vĩnh Hưng, Vĩnh Thịnh, Vĩnh Phúc đổi tên thôn 3 Yên Mỹ thành thôn 2 Yên Mỹ.<ref name=":12">1. Thôn 1 Yên Mỹ từ các thôn cũ: thôn 1 Yên Mỹ, thôn 2 Yên Mỹ; 2. Thôn 2 Yên Mỹ từ thôn cũ: thôn 3 Yên Mỹ; 3. Thôn Cổ Điển A từ các thôn cũ: Cổ Điển A, khu giãn dân, tái định cư Tứ Hiệp; 4. Thôn Đồng Trì từ thôn cũ: thôn Đồng Trì; 5. Thôn Tứ Hiệp từ các thôn cũ: thôn Cổ Điển B, thôn Cương Ngô; 6. Tổ dân phố Văn Điển từ các thôn cũ: thôn Văn Điển, chung cư Bluegem; 7. Tổ dân phố Tân Hiệp từ thôn cũ: thôn 7 Tứ Hiệp; 8. Thôn Tứ Hiệp từ các thôn cũ: thôn Cổ Điển B, thôn Cương Ngô; 9. Tổ dân phố Thanh Trì từ các thôn cũ: Chợ, Xóm Bến, 1 phần thôn Ga; 10. Tổ dân phố Quang Lai từ các thôn cũ: thôn Ga, thôn D8, khu X4; 11. Tổ dân phố Quyết Thắng từ các thôn cũ: thôn Z179, Trung đoàn 17, khu Đấu giá Tứ Hiệp Ngũ Hiệp; 12. Thôn Tự Khoát từ thôn cũ: thôn Tự Khoát; 13. Tổ dân phố Ngũ Hiệp từ các thôn cũ: thôn Phố Lưu Phái, tái định cư Ngũ Hiệp nhà công vụ Bộ Tổng tham mưu, thôn C5-X55, thôn In Bộ Tổng Tham mưu; 14. Thôn Lưu Phái từ các thôn cũ: thôn Lưu Phái, tái định cư Ngũ Hiệp; 15. Tổ dân phố Thanh Bình từ chung cư: Tecco Garden; 16. Tổ dân phố Hưng Phúc từ chung cư: Tecco Skyille; 17. Tổ dân phố Vĩnh Hưng từ các thôn cũ: thôn 1 Vĩnh Quỳnh, 1 phần thôn Ga; 18. Tổ dân phố Vĩnh Thạnh từ các thôn cũ: thôn 2 Vĩnh Quỳnh, 3 Vĩnh Quỳnh, một phần thôn 4 Vĩnh Quỳnh (Tập thể 664); 19. Tổ dân phố Vĩnh Phúc từ các thôn cũ: thôn 4 Vĩnh Quỳnh, 4 Vạn Phúc, khu tập thể Cây Thuốc, khu tập thể Bao bì lâm sản phố Lưu Phái.</ref><ref name=":1">{{Chú thích web |last=Thanh Hồng – Thu Hằng |date=2026-06-12 |title=Xã Thanh Trì lấy ý kiến nhân dân về phương án sắp xếp, tổ chức lại thôn, tổ dân phố năm 2026 |url=https://thanhtri.hanoi.gov.vn/tin-tuc-su-kien/xa-thanh-tri-lay-y-kien-nhan-dan-ve-phuong-an-sap-xep-to-chuc-lai-thon-to-dan-pho-nam-2026-2825260613003546426.htm?gidzl=YXVDO7aBYIEE2CbcSnAF9uKFocTk4OWcdGsVRMeOYtxD3CjeRXNOUCu9aJiy4TOgpGx3F6R5BN5oV0gD8G |url-status=dead |archive-url=https://web.archive.org/web/20260826201510/https://thanhtri.hanoi.gov.vn/tin-tuc-su-kien/xa-thanh-tri-lay-y-kien-nhan-dan-ve-phuong-an-sap-xep-to-chuc-lai-thon-to-dan-pho-nam-2026-2825260613003546426.htm?gidzl=YXVDO7aBYIEE2CbcSnAF9uKFocTk4OWcdGsVRMeOYtxD3CjeRXNOUCu9aJiy4TOgpGx3F6R5BN5oV0gD8G |archive-date=2026-08-26 |access-date=2026-08-26 |website=Trang Thông tin điện tử xã Thanh Trì – thành phố Hà Nội}}</ref><ref name=":2">{{Chú thích web |last=Thanh Hồng |date=2026-07-01 |title=Xã Thanh Trì công bố thành lập, sắp xếp lại 19 thôn, tổ dân phố và kiện toàn tổ chức chi bộ trên địa bàn |url=https://thanhtri.hanoi.gov.vn/tin-tuc-su-kien/xa-thanh-tri-cong-bo-thanh-lap-sap-xep-lai-19-thon-to-dan-pho-va-kien-toan-to-chuc-chi-bo-tren-dia-ban-2825260701220544819.htm?gidzl=JxeS60Dr8WDBfHWU2Mma1q2Y6niKRoC2MA1E4H1c85e8eHeK56jpN0kaG4T6RtqE2ACIG6Pw_Wig1dGc0G |url-status=dead |archive-url=https://web.archive.org/web/20260826201510/https://thanhtri.hanoi.gov.vn/tin-tuc-su-kien/xa-thanh-tri-cong-bo-thanh-lap-sap-xep-lai-19-thon-to-dan-pho-va-kien-toan-to-chuc-chi-bo-tren-dia-ban-2825260701220544819.htm?gidzl=JxeS60Dr8WDBfHWU2Mma1q2Y6niKRoC2MA1E4H1c85e8eHeK56jpN0kaG4T6RtqE2ACIG6Pw_Wig1dGc0G |archive-date=2026-08-26 |access-date=2026-08-26 |website=Trang Thông tin điện tử xã Thanh Trì – thành phố Hà Nội}}</ref><!-- 
+== Lịch sử== 
+Ngày [[6 tháng 11| 06 tháng 11]] năm [[2003]], 55 ha diện tích tự nhiên của xã Tứ Hiệp được điều chỉnh về quận Hoàng Mai. Trong đó, 20 ha được điều chỉnh về phường Hoàng Liệt, 35 ha được điều chỉnh về phường Yên Sở.
+
+== Làng Cổ Điển== 
+Làng Cổ Điển ở ngay sát thị trấn Văn Điển, hồi cuối Lê đầu Nguyễn cũng là xã Cổ Điển, tổng Cổ Điển, huyện Thanh Trì, phủ Thường tín, trấn [[Sơn Nam (địa danh cũ Việt Nam)| Sơn Nam Thượng]]. Xưa kia, làng là một khối thống nhất, song một trận vỡ đê sông Hồng, dòng nước lũ xẻ làng thành hai phần, gọi là Cổ Điển Trên và Cổ Điển Dưới. Từ sau Cách mạng Tháng Tám, gọi là Cổ Điển A và Cổ Điển B, nhập với các làng Cương Ngô, Đồng Trì và Văn Điển thành xã Tứ Hiệp<ref name = "TH1">{{Chú thích web| url = http://www.hanoimoi.com.vn/newsdetail/1000_nam_thang_long/11224/lang-c7893-272i7875n.htm| title = Làng Cổ Điển| access-date = ngày 14 tháng 5 năm 2010| author = TS. Bùi Xuân Đính| publisher = Báo Hà Nội Mới điện tử}}{{Liên kết hỏng| date = ngày 27 tháng 5 năm 2021 | bot = InternetArchiveBot }}</ref>.
+
+== = Dòng họ== = 
+Làng Cổ Điển có 2 họ lớn: Chử (cư trú ở Cổ Điển A) và Trương (cư trú ở Cổ Điển B) hiện nay. Ngoài làm ruộng, dân làng còn thạo nghề buôn bán, do làng nằm trên đường Thiên lý ([[Quốc lộ 1]]), cách Thăng Long chỉ 10&nbsp;km. So với các làng trong vùng 
+thì trước Cách mạng Tháng Tám, Cổ Điển là làng có kinh tế tương đối khá, có nhiều thương gia buôn bán ở Hà Nội và nhiều tỉnh trung du, miền núi. Nhiều người có các cửa hàng lớn ở Hà Nội, buôn bán đủ các loại hàng hóa. Nhiều người làm thầu khoán, làm thuốc, chủ xí nghiệp... Ngoài ra, dân làng còn làm các nghề phụ khác...<ref name = "TH1"/>
+
+== = Khoa bảng== = 
+Dưới thời phong kiến, Cổ Điển là làng có truyền thống học hành. Làng có 4 vị đỗ đại khoa: Nguyễn Hữu Huy (1446 - ?): đỗ Tiến sĩ năm 1484, làm quan đến chức Giám sát Ngự sử; Nguyễn Lý Uyên (1463 - ?): đỗ Hoàng giáp năm 1487, làm quan đến chức Hàn lâm viện Hiệu lý, Giám sát Ngự sử đạo Kinh Bắc; Ngô Sĩ Kiện (chưa rõ năm sinh, mất), đỗ Tiến sĩ năm 1511, làm quan đến chức Hiến sát sứ; Nguyễn Trừng (chưa rõ năm sinh mất) là con Tiến sĩ Nguyễn Lý Uyên, đỗ Tiến sĩ năm 1553, làm quan đến chức Hiến sát sứ. Hiện tại đình làng còn tấm bia Văn chỉ lập năm Thành Thái thứ 19 (1907). Bài văn bia do Cử nhân, Tuần phủ tỉnh Nam Định Trương Văn Chi (người làng) cùng con trai là Tú tài Trương Trọng Hiền soạn cho biết, Văn chỉ được dựng năm Bính Ngọ đời Thiệu Trị thứ (1846)<ref name = "TH1"/>.
+
+== Di tích lịch sử, văn hóa== 
+*[[Đình Ba Dân]], còn gọi là đình Ba xã, đình Ba Chạ, bởi đây là đình chung của ba làng: Cổ Điển, Cương Ngô và Đồng Trì (cùng nằm trong xã Tứ Hiệp hiện nay), do các làng này cùng thờ [[Nguyễn Bồ]] và [[Đông Hải Đại Vương| Nguyễn Phục]] - hai bộ tướng có công giúp [[Đinh Tiên Hoàng| Đinh Bộ Lĩnh]] dẹp tan [[loạn 12 sứ quân]], thống nhất đất nước. Đình được dựng từ lâu, sau đó được tu bổ vào các năm: Tự Đức thứ 26 (1873), Thành Thái thứ 3 (1891), Thành Thái thứ 9 (1897), Bảo Đại thứ 2 (1927). Ngoài ra còn có đình Trung (Trung Linh ứng từ) là đình riêng của 3 giáp thuộc Cổ Điển Trên<ref name = "TH1"/>.
+*Chùa Long Quang ở sau đình Ba Dân, là chùa chung của ba xã Cổ Điển, Cương Ngô và Đồng Trì. Chùa được xây dựng từ lâu. Vào năm Vĩnh Tộ thứ 4 (1623), chùa được tu bổ lớn. Hiện trong chùa còn 2 quả chuông, trong đó có quả chuông được đúc xong vào ngày 27 tháng 2 năm Cảnh Thịnh thứ 7 (1799)<ref name = "TH1"/>.
+*Đình Trung thờ 2 tướng là [[Nguyễn Bồ]] và Nguyễn Phục, là [[tướng nhà Đinh]]. Năm 967, [[Đinh Bộ Lĩnh]] giao [[Nguyễn Bồ]] làm chỉ huy tiến quân đánh sứ quân [[Nguyễn Siêu]] ở Tây Phù Liệt, không may [[Nguyễn Bồ]] cùng ba tướng Nguyễn Phục, Đinh Thiết, Cao Sơn tử trận.
+* Đình Văn Điển cũng là nơi thờ 2 tướng là [[Nguyễn Bồ]] và Nguyễn Phục, là [[tướng nhà Đinh]]. Năm 967, [[Đinh Bộ Lĩnh]] giao Nguyễn Bồ làm chỉ huy tiến quân đánh sứ quân Nguyễn Siêu ở Tây Phù Liệt, không may Nguyễn Bồ cùng ba tướng Nguyễn Phục, Đinh Thiết, Cao Sơn tử trận.
+
+== Hội làng== 
+Hội làng Cổ Điển cũng là hội chung của ba làng Cổ Điển, Cương Ngô và Đồng Trì, được tổ chức tại đình Ba Dân, từ 14 đến ngày 16 tháng 2, trong đó ngày 15 - 2 là chính hội. Hội có tế lễ, rước kiệu các đức thánh và nhiều trò vui chơi giải trí. Múa sư tử và múa rồng là môn nghệ thuật truyền thống từ lâu đời của 3 làng Cổ Điển - Cương Ngô - Đồng Trì, rất nổi tiếng. Trong dịp lễ hội mừng 990 năm Thăng Long - Hà Nội (năm 2000), đội múa sư tử Cổ Điển - Cương Ngô - Đồng Trì được biểu diễn phục vụ<ref name = "TH1"/>.
+
+ -->
+
+== Hành chính ==
+Xã Thanh Trì được chia thành 19 tổ dân phố – thôn, gồm 12 tổ dân phố: Hưng Phúc, Minh Châu, Ngũ Hiệp, Quang Lai, Quyết Thắng, Tân Hiệp, Thanh Bình, Thanh Trì, Văn Điển, Vĩnh Hưng, Vĩnh Phúc, Vĩnh Thịnh và 7 thôn: 1, 2 Yên Mỹ, Cổ Điển A, Đồng Trì, Lưu Phái, Tứ Hiệp, Tự Khoát.<ref name=":1" /><ref name=":2" />
+{| class="wikitable sortable" align="center" width="100%" cellspacing="6" cellpadding="0" style="background: #f9f9f9; border: 1px #aaa solid; margin-top: 16px"
+! colspan="4" style="background: #E6E6FA; font-size: 95%;" |Danh sách các tổ dân phố – thôn thuộc xã Thanh Trì<ref name=":1" /><ref name=":2" />
+|-
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| colspan="4" align="left" style="background: #F5F5DC; padding-left: 30px;" |'''Tổ dân phố (12)'''
+|-
+| align="left" |Hưng Phúc
+|700
+|-
+| align="left" |Minh Châu
+|704
+|-
+| align="left" |Ngũ Hiệp
+|973
+|-
+| align="left" |Quang Lai
+|975
+|-
+| align="left" |Quyết Thắng
+|1.027
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Tân Hiệp
+|1.240
+|-
+| align="left" |Thanh Bình
+|730
+|-
+| align="left" |Thanh Trì
+|1.248
+|-
+| align="left" |Văn Điển
+|991
+|-
+| align="left" |Vĩnh Hưng
+|1.186
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Vĩnh Phúc
+|849
+|-
+| align="left" |Vĩnh Thịnh
+|750
+|-
+| colspan="4" align="left" style="background: #F5F5DC; padding-left: 30px;" |'''Thôn (7)'''
+|-
+| align="left" |1 Yên Mỹ
+|1.411
+|-
+| align="left" |2 Yên Mỹ
+|845
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Cổ Điển A
+|1.475
+|-
+| align="left" |Đồng Trì
+|568
+|-
+| align="left" |Lưu Phái
+|1.003
+|-
+| align="left" |Tứ Hiệp
+|1.437
+|-
+| align="left" |Tự Khoát
+|1.438
+|}
+|}
+
+== Trụ sở các cơ quan==
+Trụ sở xã đặt tại số 12 đường Nguyễn Bặc.<ref name = "trusomoi">{{Cite web| url = https://dcdn.dantri.com.vn/2025/06/25/tru-so-126-xa-phuong-cua-ha-noi-1750822481952.pdf| title = Thông báo về địa điểm trụ sở làm việc của 126 phường, xã sau sắp xếp thuộc phạm vi quản lý của thành phố Hà Nội| date = 25 tháng 6 năm 2025| website = UBND TP Hà Nội| access-date = 2025-07-03| archive-date = 2026-04-25| archive-url = https://web.archive.org/web/20260425080946/https://dcdn.dantri.com.vn/2025/06/25/tru-so-126-xa-phuong-cua-ha-noi-1750822481952.pdf| url-status = dead}}</ref>
+
+== Kinh tế== 
+Xã Thanh Trì phát triển kinh tế đa dạng: thương mại - dịch vụ, công nghiệp - tiểu thủ công nghiệp. Các tuyến đường lớn như cao tốc Pháp Vân - Cầu Giẽ, [[quốc lộ 1A]], [[Đường vành đai 3 (Hà Nội)|đường vành đai 3]] và tuyến [[Đường sắt Bắc Nam|đường sắt Bắc - Nam]] đi qua địa bàn đã tạo điều kiện thuận lợi cho việc hình thành các trung tâm logistics, kho bãi, vận tải hàng hóa và dịch vụ giao nhận. Khu vực Văn Điển, Tứ Hiệp, Yên Sở hiện là nơi tập trung nhiều chợ dân sinh, siêu thị, cửa hàng tiện lợi, ngân hàng và các cơ sở dịch vụ.<ref name = ":02">{{Chú thích web | title = Xã Thanh Trì: Những thông tin chi tiết sau sắp xếp | url = https://hanoionline.vn/xa-thanh-tri-nhung-thong-tin-chi-tiet-sau-sap-xep-344226.htm | access-date = 2025-07-09 | website = [[Đài Phát thanh – Truyền hình Hà Nội]] | language = vi}}</ref>
+
+Công nghiệp - tiểu thủ công nghiệp giữ vai trò quan trọng, đặc biệt là tại các khu vực Yên Mỹ, Ngũ Hiệp, Vĩnh Quỳnh. Tại đây vẫn duy trì các cơ sở sản xuất nhỏ như cơ khí, vật liệu xây dựng, gia công cơ khí, mộc dân dụng. Nhà máy phân lân Văn Điển một trong những nhà máy phân bón quy mô lớn. Nhiều diện tích đất nông nghiệp tại Thanh Trì đang được chuyển đổi theo hướng nông nghiệp công nghệ cao và đất dịch vụ.<ref name = ":02" />
+
+Khu vực Yên Mỹ phát triển du lịch trải nghiệm, với các hoạt động văn hóa dân gian truyền thống như võ vật cổ truyền, múa gậy, múa côn, múa đao, múa rồng, sư tử, múa sênh tiền. Tại đây có đình làng Yên Mỹ được xây dựng vào năm 1837. Di tích được Nhà nước cấp bằng Di tích lịch sử văn hóa cấp Quốc gia năm 1995.<ref>{{Chú thích web | last = Bảo Thoa | date = 2025-05-17 | title = Tiềm năng phát triển du lịch Yên Mỹ (Thanh Trì, Hà Nội) | url = https://vietnamtourism.gov.vn/post/49743 | url-status = live | access-date = 2025-10-31 | website = Cục Du lịch Quốc gia Việt Nam}}</ref>
+
+== Văn hóa== 
+[[hình:Suquan nguyensieu5.JPG| thumb| trái| Đình Văn Uyên, nơi thờ sứ quân [[Nguyễn Siêu]]]]
+Trên địa bàn hiện có nhiều đình, chùa, miếu như đình Ba Dân, Đình Chung, Đình Văn Điển, Đình Đồng Trì, Đình Yên Mỹ, đình Tự Khoát và đình Hữu Thanh Oai.<ref name = ":02" /> Xã cũng có Nhà thờ giáo xứ Đồng Trì tại thôn Đồng Trì.
+
+<!-- 
+== Làng Đại Lan== 
+Làng Đại Lan cùng với các làng Văn Uyên và Tranh Khúc hợp thành xã Duyên Hà huyện Thanh Trì. Cuối thời Lê, đầu thời Nguyễn làng cũng là một xã thuộc tổng Vạn Phúc huyện Thanh Trì, đến giữa thế kỉ 19 đổi thành xã Đại Quan Châu thuộc tổng Đại Quan, huyện Văn Giang, tỉnh Bắc Ninh. Năm 1907, Đại Lan nhập lại về tổng Vạn Phúc huyện Thanh Trì<ref name = "DH1">{{Chú thích web| url = http://www.hanoimoi.com.vn/newsdetail/1000_nam_thang_long/12753/lang-2727841i-lan.htm| title = Làng Đại Lan| access-date = ngày 14 tháng 5 năm 2010| author = TS. Bùi Xuân Đính| publisher = Báo Hà Nội Mới điện tử}}{{Liên kết hỏng| date = ngày 6 tháng 3 năm 2021 | bot = InternetArchiveBot }}</ref>.
+
+Nằm ven sông Hồng, có đất đai màu mỡ, nên Đại Lan sớm có con người đến lập làng xóm. Việc thờ ba vị nhân thần là Lĩnh Hồ, Minh Chiêu và Chà Mục có từ thời Hùng Vương, là một trong những chứng cứ<ref name = "DH1"/>.
+
+Đại Lan sớm có truyền thống học hành. Vào thời [[Nhà Lê sơ| Lê Sơ]] (1427 - 1526), làng đã có 2 vị đỗ đại khoa<ref name = "DH1"/>:
+
+- [[Nguyễn Như Đổ]] (1424 - 1505, có tài liệu chép ông thọ 103 tuổi): tên tự là Mạnh An, hiệu Khiêm Trai, đỗ Hội nguyên, Bảng nhãn khoa Nhâm Tuất, niên hiệu Đại Bảo đời [[Lê Thái Tông]] (1442) khi mới 18 tuổi, là một trong 2 vị đại khoa trẻ nhất trong 321 vị khoa bảng của Thăng Long - Hà Nội. Ông làm quan đến Lại bộ Thượng thư, kiêm Tế tửu Quốc Tử Giám, hàm Thiếu bảo, được về trí sĩ. Điều đặc biệt nhất, ông đã ba lần được cử đi sứ sang nhà Minh (vào các năm 1443, 1450 và 1459). Ông còn để lại 6 bài thơ chép trong Toàn Việt thi lục. Ông là niềm tự hào của dòng họ Nguyễn ở Đại Lan vì tạo lập truyền thống hiếu học cho con cháu cũng như cho dân làng Đại Lan và vùng lân cận<ref name = "DH1"/>.
+
+- [[Nguyễn Như Huân]] (1422 - ?), là cháu ruột Nguyễn Như Đổ, đỗ Tiến sĩ khoa Mậu Dần, niên hiệu Diên Ninh, đời Lê Nhân Tông (1458), làm quan đến Tham chính<ref name = "DH1"/>.
+
+Tuy nhiên, sự phát đạt về mặt học hành của người Đại Lan chỉ tồn tại trong một thời gian rất ngắn. Nguyên nhân là do sông Hồng luôn luôn đổi dòng, đất bãi bồi bị lở dần nên một phần cư dân phải di sang bên đối ngạn để sống. Vì thế, làng luôn phải chuyển dịch đơn vị hành chính từ huyện Văn Giang sang huyện Thanh Trì. Ngoài việc cả cộng đồng phải rời làng còn có những cuộc chuyển cư lẻ tẻ của các gia đình, dòng họ, đến những làng quê khác để có cuộc sống ổn định hơn. Dòng họ của Nguyễn Như Đổ về sau cũng chuyển đến làng Tử Dương thuộc huyện [[Thường Tín (huyện)| Thường Tín]] ngày nay. Việc luôn phải đối phó với nước lụt làm cho cuộc sống không ổn định, ảnh hưởng lớn đến sự học. Đình chùa của làng chịu đựng nhiều tác động của lũ lụt và chiến tranh nên hiện rất sơ sài<ref name = "DH1"/>.
+
+Tuy vậy, truyền thống hiếu học và tôn sư trọng đạo của Đại Lan vẫn luôn được đề cao. Làng có Hội Tư văn và Văn chỉ (hiện không còn) để thờ các vị tiên hiền, khuyến học cho dân làng. Đặc biệt làng còn thờ Nguyễn Như Đổ là á Thánh ở đình. Tại đình còn một hương án chạm khắc rất công phu, khắc cả hai khổ thơ về đạo học và nêu gương danh tích của vị khai khoa Nguyễn Như Đổ. Đình còn có hai đôi câu đối gỗ sơn son thếp vàng, ghi lại công tích của các vị thần âm phù giúp nhà Trần đánh thắng giặc Nguyên ở cửa Hàm Tử, ca ngợi công mở đường khoa cử của Nguyễn Như Đổ<ref name = "DH1"/>:
+
+::''Hàm Tử cầm Hồ mặc trợ Trần gia thiên tải hậu,
+::''Lãng Sơn bình Thục diễm truyền Hùng Lạc ức niên truyền
+::(Cửa Hàm Tử bắt giặc, ngầm giúp nhà Trần ngàn năm hiển,
+::Lãng Sơn bình giặc Thục, cơ nghiệp Lạc Hùng rạng đời đời).
+hay: 
+::''Bình Thục Nguyên nhung sử sách đan thanh lưu vĩ tích,
+::''Khai quan khoa nhuỵ thân hào mĩ đại ngưỡng anh uy.
+::(Bình Thục, dẹp Nguyên sử sách ngời ngời lưu sự tích,
+::Khai khoa kết trái, thân hào ngưỡng vọng đấng anh uy).
+
+Hàng năm có lễ rước nước từ sông về đình để tế vào 23 tháng Chạp. Hội làng tổ chức vào ngày 6 tháng Giêng, ngoài tế lễ còn có vật và đánh gậy, phản ánh sự tích các vị thần của làng theo nhà Hùng trừ giặc<ref name = "DH1"/>.
+
+Làng Tranh Khúc từ lâu đã nổi tiếng với nghề làm bánh chưng. Bánh làng Tranh bán ở khắp nơi, được đặt trang trọng trên ban thờ, mâm cỗ gia đình người Việt trong các dịp lễ Tết. Nhờ có nghề truyền thống, diện mạo làng Tranh đổi thay từng ngày...
+
+== Lịch sử== 
+Làng Yên Mỹ xưa có tên là Tiểu Lan Châu. Đây là vùng bãi rộng lớn ven sông Hồng, hình thành từ lâu đời (Châu = công châu thổ, tức đất bãi bồi), cư dân lập thành ba làng là Đại Lan Châu, Trung Lan Châu và Tiểu Lan Châu<ref name = "YM1">{{Chú thích web| url = http://www.hanoimoi.com.vn/newsdetail/1000_nam_thang_long/102816/lang-yen-m7929.htm| title = Làng Yên Mỹ| access-date = ngày 14 tháng 5 năm 2010| author = TS. Bùi Xuân Đính| publisher = Báo Hà Nội Mới điện tử| archive-url = https://web.archive.org/web/20110528043223/http://www.hanoimoi.com.vn/newsdetail/1000_nam_thang_long/102816/lang-yen-m7929.htm| archive-date = ngày 28 tháng 5 năm 2011}}</ref>.
+ 
+Khoảng giữa thế kỷ 19, sông Hồng đổi dòng, làm cho làng Trung Lan Châu chuyển sang bên kia sông, nên làng này đổi thành Đại Quan (có nghĩa là ở cửa sông Hồng; nay thuộc xã Văn Đức, huyện Gia Lâm); Đại Lan Châu đổi thành Đại Lan nay thuộc xã Duyên Hà); làng Tiểu Lan Châu, không rõ từ bao giờ đổi thanh An Mỹ (hay Yên Mỹ). Muộn nhất là đến đầu thế kỷ 19, tên Yên Mỹ đã xuất hiện<ref name = "YM1"/>.
+
+Xưa cũng như nay, Yên Mỹ luôn là một xã độc lập. Đầu thế kỷ 19, xã thuộc tổng Vạn Phúc, huyện Thanh Trì, phủ Thường Tín, trấn [[Sơn Nam Thượng]] (từ năm 1831 thuộc tỉnh Hà Nội, từ 1902 thuộc tỉnh Cầu Đơ, năm 1904 đổi làm [[tỉnh Hà Đông]]<ref name = "YM1"/>.
+ 
+Từ tháng 5 - 1961, cùng với các làng xã khác trong huyện Thanh Trì, làng được chuyển về thành phố Hà Nội<ref name = "YM1"/>,<ref name = "YM2">{{Chú thích web| url = http://hanoi.vietnamplus.vn/Home/Dia-gioi-thanh-pho-Ha-Noi-mo-rong-lan-thu-nhat/20099/541.vnplus| title = Địa giới thành phố Hà Nội mở rộng lần thứ nhất| access-date = ngày 10 tháng 7 năm 2010| publisher = Báo điện tử VietnamPlus, Thông tấn xã Việt Nam| archive-url = https://web.archive.org/web/20100716173831/http://hanoi.vietnamplus.vn/Home/Dia-gioi-thanh-pho-Ha-Noi-mo-rong-lan-thu-nhat/20099/541.vnplus| archive-date = ngày 16 tháng 7 năm 2010}}</ref>..
+
+Trước [[Cách mạng Tháng Tám]] 1945, Yên Mỹ là một làng lớn, với 2855 nhân khẩu (năm 1928), gần gấp 3 lần dân số của một làng bình thường ở [[châu thổ Bắc Bộ]]<ref name = "YM1"/>.
+
+Yên Mỹ ở Đông Nam Kinh thành Thăng Long, ngoài đê sông Hồng, được phù sa bồi đắp nên cây cỏ tốt tươi, tạo điều kiiện thuận lợi để phát triển nông nghiệp, nhất là chăn nuôi trâu bò. Trâu bò ở đây được chăm sóc chu đáo nên béo tốt, da bóng nhẫy, bán bao giờ cũng được giá, có thể liệt vào những sản vật nổi tiếng của Thanh Trì "Lúa làng Ngâu, trâu Yên Mỹ" (Ngâu tức làng Yên Ngưu, xã Tam Hiệp)<ref name = "YM1"/>.
+
+== Danh nhân== 
+Làng Yên Mỹ có ông Phạm Quốc Trinh đỗ Tiến sĩ khoa Mậu Thìn niên hiệu Thái Hòa đời Vua [[Lê Nhân Tông]] (năm 1448), làm quan đến chức Thị lang<ref name = "YM1"/>.
+ 
+Yên Mỹ còn là nơi sinh sống một thời gian trước khi ra làm quan của [[Đặng Huấn]] (? - 1583) - vị Quận công quê ở Lương Xá (huyện [[Chương Mỹ (huyện)| Chương Mỹ]], Hà Nội), làm quan [[nhà Mạc]], sau quy thuận [[nhà Lê]], giúp dập nhà Lê đánh tan nhà Mạc. Sau khi thành đạt, ông để người con thứ hai ở lại làng Yên Mỹ, phát triển thành một chi nhánh họ Đặng tại đây. Hiện ở làng vẫn còn nhà thờ, lăng mộ của họ này<ref name = "YM1"/>.
+
+== Di tích lịch sử, văn hóa== 
+Làng Yên Mỹ trước đây có ngôi đình được dựng rất muộn, bắt đầu dựng từ năm 1919, mãi đến năm 1924 mới hoàn thành. Việc làng xây đình muộn có nhiều nguyên nhân. Có thuyết giải thích là do làng nghèo, vì vậy có lời nguyền của các làng bên: "Bao giờ Yên Mỹ làm đình, chạch đẻ ngọn giáo thì mình lấy ta!" Chắc chắn đây chỉ là sự đặt lời của dân gian. Nguyên nhân chính của việc dựng đình muộn này là do làng ở ven sông, chịu tác động của nướac lũ sông Hồng, gây ngập lụt. Chắc hẳn, xưa kia làng từng có đình, nhưng bị nước lụt làm trôi lở nên việc dựng lại rất khó khăn. Ngoài Cao Sơn đại vương và một vị thần họ Phạm có quan hệ họ hàng với Tiến sĩ Phạm Quốc Trinh<ref name = "YM1"/>.
+ 
+Làng Yên Mỹ còn có ngôi [[đền Mẫu, Yên Mỹ| đền Mẫu]] thờ [[Lý Chiêu Hoàng]] - vị vua cuối cùng của triều Lý. Trong đền có tượng bà Chiêu Hoàng đúc bằng đồng vào năm 1937<ref name = "YM1"/>.
+
+Làng có ngôi chùa Thanh Lan, không có gì nổi bật<ref name = "YM1"/>.
+
+== Lịch sử== 
+Vào đầu thế kỉ 19, nơi đây là phần đất các làng: Quỳnh Đô (một xã của tổng Cổ Điển) và Vĩnh Hưng Đặng (một xã đứng đầu tổng Vĩnh Hưng Đặng), đều thuộc phủ Thường Tín, trấn [[Sơn Nam (địa danh cũ Việt Nam)| Sơn Nam Thượng]] (từ năm 1831 trở đi là tỉnh Hà Nội, từ 1904 là [[hà Đông (tỉnh)| tỉnh Hà Đông]])<ref name = "VQ1"/>,<ref name = "VQ2"/>.
+
+Đầu năm 1946, sau cuộc bầu cử Hội đồng nhân dân cấp xã, hai làng Vĩnh Ninh và Quỳnh Đô nhập lại thành xã Vĩnh Quỳnh. Trong kháng chiến chống Pháp, xã Vĩnh Quỳnh nằm trong xã Việt Hưng, Đại Hưng (gồm 11 làng), đến tháng 7- 1956, liên xã Đại Hưng được chia thành 3 xã, trong đó có xã Đại Hưng gồm các thôn: Vĩnh Ninh, Quỳnh Đô và Ích Vịnh, năm 1968 đổi là xã Vĩnh Quỳnh<ref name = "VQ1"/>.
+
+== Làng Vĩnh Ninh== 
+Làng Vĩnh Ninh xa xưa có tên là trang Vĩnh Hưng Đặng, nên còn có tên Nôm là Kẻ Đặng. Đầu thế kỷ XIX là một xã đứng đầu tổng (tổng Vĩnh Hưng Đặng gồm 5 xã: Vĩnh Hưng Đặng, Đại Áng, Nguyệt Áng, Vĩnh Bảo và Vĩnh Hưng Trung) thuộc huyện Thanh Trì, phủ Thường Tín, trấn Sơn Nam Thượng. Cuối thế kỷ XIX, xã Vĩnh Hưng Đặng đổi thành Vĩnh Ninh, tên tổng cũng được đổi theo tên xã. Năm 1926 làng có 1645 nhân khẩu<ref name = "VQ1">{{Chú thích web| url = http://www.hanoimoi.com.vn/newsdetail/1000_nam_thang_long/57477/lang-v297nh-ninh.htm| title = Làng Vĩnh Ninh| access-date = ngày 14 tháng 5 năm 2010| author = TS. Bùi Xuân Đính| publisher = Báo Hà Nội Mới điện tử}}{{Liên kết hỏng| date = 2021-05-29 | bot = InternetArchiveBot }}</ref>.
+
+Tục truyền, làng Vĩnh Ninh hình thành từ thời [[Hùng Vương]] (di chỉ khảo cổ học Chùa Thông có niên đại cách đây 2400 năm, nằm sát làng góp phần chứng minh điều đó). Theo thần phả thì vào thời Hùng Vương thứ sáu, dân làng đã theo Xà Công và Bạch Công đánh giặc Ma Lôi và Xích Tỵ (giặc Mũi Đỏ). Cả hai vị được dân làng thờ làm thanh hoàng. Thực ra, hai vị thành hoàng vốn là các vị thần liên quan đến việc thờ thần nước (Xà Công = Ông Rắn) và thần đất (Bạch Công = Ông Đất - Thổ Địa) - vốn là biểu hiện tín ngưỡng cổ xưa của cư dân nông nghiệp ruộng nước<ref name = "VQ1"/>.
+
+Năm 40 sau Công nguyên, [[Hai Bà Trưng]] phất cờ khởi nghĩa, đập tan ách đô hộ của nhà Hán, thu lại 65 thành trì rồi lên làm vua. Hai Bà đã về làng Vĩnh Ninh, gặp người con gái làng là Nàng Tía, có tài thao lược, liễn vời về triều, giao nhiệm vụ huấn luyện binh sĩ, chuẩn bị đánh địch. Năm 43, quân Hán do [[Mã Viện]] chỉ huy sang chiếm lại nước ta. Nàng Tía được Hai Bà Trưng giao chỉ huy một cánh quân lớn chặn địch ở [[cửa biển Thần Phù]]. Bà đã chiến đấu rất dũng cảm và hy sinh tại đây. Dân làng thương tiếc lập đền thờ, sau đưa về đình thờ làm thành hoàng<ref name = "VQ1"/>.
+
+Dân làng Vĩnh Ninh chủ yếu sống bằng làm ruộng và khai thác nguồn thủy sản trong đồng trũng. Một số buôn bán ở nội thành, phố Văn Điển và các chợ trong vùng<ref name = "VQ1"/>.
+
+Làng Vĩnh Ninh sớm tiếp thu ánh sáng cách mạng. Từ cuối năm 1938, tại đây đã có một số thanh niên, giáo chức và cả chức dịch tiến bộ giắc ngộ cách mạng. Tháng 4 - 1940, khi cơ quan của Xứ ủy Bắc Kỳ đóng tại Nam Hoài Đức bị lộ, thì Vĩnh Ninh là nơi trú chân của một bộ phận cơ quan Xứ. Một Tỉnh ủy viên Hà Đông trong vai một thầy lang chữa bệnh đã đến Vĩnh Ninh, dựa vào mối quen biết với một viên Chánh tổng người làng này đã mở cửa hiệu thuốc Bắc tại đây, làm trạm liên lạc của Xứ ủy. Đồng chí Hoàng Văn Thụ - Bí thư Xứ ủy từng đến đây trong vai con bệnh để bàn với các cán bộ của Xứ để bàn các công việc chung. Từ cửa hiệu thuốc Bắc này, Xứ ủy đã xây dựng được trạm liên lạc của Xứ tại một quán cơm ở phố Văn Điển, để chỉ đạo phong trào cách mạng ở huyện Thanh Trì.
+
+Vĩnh Ninh là quê hương của Thượng tướng [[Vương Thừa Vũ]] - một vị tướng của [[Quân đội Nhân dân Việt Nam| Quân đội nhân dân Việt Nam]].
+
+== Làng Quỳnh Đô== 
+Làng Quỳnh Đô tên Nôm là Giả Quỳnh hay Kẻ Đô. Đầu thế kỷ 19, làng cũng là một xã của tổng Cổ Điển, phủ Thường Tín, trấn Sơn Nam Thượng. Đầu năm 1946, sau cuộc bầu cử Hội đồng nhân dân cấp xã, làng nhập với làng Vĩnh Ninh thành xã Vĩnh Quỳnh<ref name = "VQ2">{{Chú thích web| url = http://www.hanoimoi.com.vn/newsdetail/1000_nam_thang_long/55113/lang-qu7923nh-272o.htm| title = Làng Quỳnh Đô| access-date = ngày 14 tháng 5 năm 2010| author = TS. Bùi Xuân Đính| publisher = Báo Hà Nội Mới điện tử}}{{Liên kết hỏng| date = 2021-05-29 | bot = InternetArchiveBot }}</ref>.
+
+Quỳnh Đô nằm ở vị trí giao thông thủy bộ quan trọng. Về đường bộ, làng nằm trên một nhánh đường Thiên Lý từ phía Nam rẽ về các làng: Ngọc Hồi, Yên Kiện, Lạc Thị, Vĩnh Ninh, Quỳnh Đô, nối với đường 70 từ thị xã Hà Đông- Văn Điển, rồi lại theo đường Cầu Tiên- Quán Sét, lên Chợ Mơ vào Thăng Long.
+
+Về đường thủy, làng nằm bên bờ [[sông Tô Lịch]]. Bến Quỳnh Đô xưa kia rộng rãi, bằng phẳng, kề cận sông rộng (thuyền có trọng tải một vài tấn đều đi được), có Cầu Giả (cầu Quỳnh Đô) xây bằng gạch bắc qua, vừa để nhân dân đi lại thuận tiện, vừa tạo ra nét đẹp duyên dáng, mềm mại cho dòng sông. Sông đã rộng, nước lại vừa trong và mát, hợp cùng với làng xóm, ruộng đồng thành một cảnh quan thơ mộng. Nhiều người coi bến Quỳnh Đô chính là Bến Thanh Trì- một trong "Thăng Long bát cảnh" (tám cảnh đẹp của Thăng Long) mà người Thanh (Trung Quốc) từng vịnh thơ ca ngợi cuối thế kỷ XVIII. Với vị trí đẹp và thuận tiện này nên suốt [[nhà Lê sơ| thời Lê]] (1428 - 1787), làng Quỳnh Đô là lỵ sở của huyện Thanh Trì<ref name = "VQ2"/>. 
+ 
+Dân làng Quỳnh Đô sống bằng nông nghiệp, ngoài ra còn đánh bắt tôm cá trong đồng trũng. Nhờ có nguồn tôm cá này mà làng có nghề làm nước mắm với sản phẩm có uy tín trong vùng ("Nước mắm Kẻ Đô, cá rô Đầm Sét")<ref name = "VQ2"/>. 
+ 
+Người làng Quỳnh Đô có truyền thống thượng võ. Đây là đất vật nổi tiếng ("Lò vật Quỳnh Đô, giỏ cua Cổ Điển")<ref name = "VQ2"/>. 
+ 
+Làng Quỳnh Đô có ngôi đình thờ vọng [[Tô Hiến Thành]] (1102 - 1179) - vị Thái úy Phụ chính [[nhà Lý| thời Lý]], dưới hai triều Anh Tông (1138 - 1175) và Cao Tông (1176 - 1179) và ngôi chùa Linh Thông dựng từ thời Lê nhưng được sửa chữa nhiều vào [[nhà Nguyễn| thời Nguyễn]]. Cả đình và chùa đã được xếp hạng là Di tích lịch sử văn hóa (năm 1989)<ref name = "VQ2"/>.
+ 
+Một bộ phận lớn diện tích đồng ruộng làng Quỳnh Đô nằm trong khu vực Đầm Mực - địa danh đã đi vào lịch sử chống ngoại xâm hào hùng của dân tộc. Rạng sáng mồng 5 Tết Kỷ Dậu (30 - 01 - 1789), quân Tây Sơn do Quang Trung chỉ huy công phá [[ngọc Hồi, Thanh Trì#Đồn Ngọc Hồi| đồn Ngọc Hồi]], quân Thanh đại bại, một bộ phận lớn quân địch tháo chạy tán loạn theo [[Đường Cái Quan| đường cái quan]] về Quỳnh Đô, Ích Vịnh; bị quân của Đô đốc Bảo ém ở làng Đại Áng hành quân lên chặn lại; một cánh khác chạy về hướng Văn Điển bị một cánh quân khác từ Yên Duyên hành quân theo bờ đê sông Hồng đón lõng, phải bật trở lại. Quân Thanh ở cả hai hướng này bị dồn vào Đầm Mực (phía Tây làng Quỳnh Đô) và bị tiêu diệt gần hết. Quân Tây Sơn thừa thắng, tiến vào Khương Thượng - Đống Đa, giải phóng Kinh thành Thăng Long vào chiều mồng 5 Tết<ref name = "VQ2"/>.
+
+== Lịch sử== 
+Xã Ngũ Hiệp gồm các làng Tương Chúc, Đông Trạch, Tự Khoát, Việt Yên, Lưu Phái.
+
+Đầu thế kỷ 19, làng Tương Chúc và làng Tự Khoát là các xã thuộc tổng Nam Phù Liệt, huyện Thanh Trì, phủ Thường Tín, trấn [[Sơn Nam (địa danh cũ Việt Nam)| Sơn Nam Thượng]] (từ tháng 10 năm Tân Mão đời Vua Minh Mạng - 1831 trở đi là tỉnh Hà Nội, từ 1904 là tỉnh Hà Đông). Đầu năm 1946, sau cuộc bầu cử Hội đồng nhân dân cấp xã, các làng: Tương Trúc, Đông Trạch, Tự Khoát, Việt Yên, Lưu Phái hợp nhất thành xã Ngũ Hiệp<ref name = "NH1"/>,<ref name = "NH2"/>.
+
+== Giao thông== 
+Xã Ngũ Hiệp có hệ thống giao thông đa dạng: [[Quốc lộ 1]] cũ, cao tốc Pháp Vân - Cầu Giẽ - Ninh Bình, đường sắt Bắc - Nam...
+
+== Làng Tương Chúc== 
+Làng Tương Chúc đầu thế kỷ 19 là một xã thuộc tổng Nam Phù Liệt, huyện Thanh Trì, phủ Thường Tín, trấn [[Sơn Nam (địa danh cũ Việt Nam)| Sơn Nam Thượng]] (từ tháng 10 năm Tân Mão đời Vua Minh Mạng - 1831 trở đi là tỉnh Hà Nội, từ 1904 là tỉnh Hà Đông). Đầu năm 1946, làng nhập với các làng: Đông Trạch, Tự Khoát, Việt Yên thành xã Ngũ Hiệp<ref name = "NH1">{{Chú thích web| url = http://www.hanoimoi.com.vn/newsdetail/1000_nam_thang_long/148315/lang-t432417ng-truc.htm| title = Làng Tương Chúc| access-date = ngày 14 tháng 5 năm 2010| author = TS. Bùi Xuân Đính| publisher = Báo Hà Nội Mới điện tử}}{{Liên kết hỏng| date = 2021-05-15 | bot = InternetArchiveBot }}</ref>.
+ 
+Tương Chúc nằm trên con đường Thiên lý cổ. Xưa kia, con đường này từ phía Nam ra, đến Bằng Vồi - Quán Gánh men theo phía Đông sông Tô Lịch, qua các làng Duyên Trường- Hạ Thái (nay là xã Duyên Thái, huyện Thường Tín), vào Đông Phù (xã Đông Mỹ), qua Tương Chúc, ra làng Tự Khoát, Lưu Phái rồi nhập với Quốc lộ I hiện này ở phía trên cầu Ngọc Hồi, lên Văn Điển - Cầu Tiên (Thịnh Liệt, quận Hoàng Mai) - Quán Sét (Đồng Quan), vào Hoàng Mai (Chợ Mơ) rồi vào Kinh thành Thăng Long. Vào đầu thời Gia Long 1802 - 1819 (có ý kiến cho rằng, thời Pháp thuộc, khi làm đường xe lửa Bắc Nam) mới nắn lại đường Thiên lý từ Hà Hồi (Thường Tín) lên, tức đoạn đường Quốc lộ I A qua Ngọc Hồi lên cầu Văn Điển hiện nay. Làng lại có sông Tô Lịch chảy qua. Do vị trí giao thông thuận lợi này mà dân làng còn phát đạt về buôn bán. Tại đầu làng Tương Chúc có một chợ lớn trong vùng, có khán thị (quản chợ) trông coi. Vị thế "nhất cận thị, nhị cận giang, tam cận lộ" làm cho kinh tế của làng tương đối khá giả. Ngoài buôn bán, dân làng vẫn làm ruộng và có thêm nghề làm khóa<ref name = "NH1"/>.
+ 
+Tương Chúc là làng nhỏ. Năm 1928 làng có 666 người. Trai đinh của làng trước đây sinh hoạt trong 3 giáp<ref name = "NH1"/>. Trước Cách mạng Tháng Tám, làng Tương Trúc còn 53 mẫu 7 sào ruộng công để chia cấp cho các đối tượng sửa lễ và 6 mẫu đem đấu giá lấy tiền dùng vào các việc công. Ngoài ra, khúc [[sông Tô Lịch]] chảy qua làng, tiếp giáp hai làng Tự Khoát và Đông Phù, hàng năm chia cho 3 giáp khai thác nguồn tôm cá<ref name = "NH1"/>. 
+ 
+Làng Tương Chúc ở bên cạnh làng Tự Khoát, có nhiều yếu tố tương đồng về địa lý, lịch sử. Trước đây, giữa địa phận hai làng còn một khoảnh ruộng công, mỗi làng được nhận một nửa rộng 2 sào 5 miếng (mỗi miếng là 30 mét vuông) để giao cho giáp đương cai của mỗi làng cùng lo việc thờ thần (hai làng cùng làm lễ cơm mới vào tháng Tám, tế thần chung vào 29 tháng Mười). Trước đây, hai làng cùng tổ chức đội phiên tuần để bảo vệ đồng điền, mỗi làng 6 người. Làng có ngôi chùa Hưng Phúc, chung với làng Tự Khoát, thờ Nhị vị sư tổ.<ref name = "NH1"/>.
+
+Ngoài ra, làng còn có chùa Thiên Phúc, phủ thờ Thủy Tinh công chúa. Hội làng diễn ra trong các ngày 8, 9, 10 tháng Hai<ref name = "NH1"/>.
+
+Làng Tương Chúc và Tự Khoát mỗi 4 năm 1 lần, tổ chức Hội Hàng Tổng, cùng một số Xã tại địa phương rước hội, tế lễ tạo nên không khí rất trang nghiêm.
+
+== Làng Tự Khoát== 
+Làng Tự Khoát đầu thế kỷ 19 là một xã thuộc tổng Nam Phù Liệt, huyện Thanh Trì, phủ Thường Tín, trấn Sơn Nam Thượng (từ năm 1831 trở đi là tỉnh Hà Nội, từ 1904 là tỉnh Hà Đông). Đầu năm 1946, làng nhập với các làng: Đông Trạch, Tương Trúc, Việt Yên thành xã Ngũ Hiệp. Năm 1926 làng có 875 người<ref name = "NH2">{{Chú thích web| url = http://www.hanoimoi.com.vn/newsdetail/1000_nam_thang_long/56804/lang-t7921-khoat.htm| title = Làng Tự Khoát| access-date = ngày 14 tháng 5 năm 2010| author = TS. Bùi Xuân Đính| publisher = Báo Hà Nội Mới điện tử}}{{Liên kết hỏng| date = 2021-05-15 | bot = InternetArchiveBot }}</ref>.
+ 
+Tự Khoát ở cách cống Ngọc Hồi vài trăm mét về phía Đông, nằm trên con đường Thiên lý cổ. Do vị trí giao thông thuận lợi, dân làng còn phát đạt về buôn bán, ngoài làm ruộng và các nghề đan thúng mủng.<ref name = "NH2"/>.
+ 
+Làng Tự Khoát trước đây có ngôi đình thờ Cao Sơn - một tỳ tướng của [[Đinh Tiên Hoàng| Đinh Bộ Lĩnh]], bị tử trận trong khi đánh nhau với Sứ quân [[Nguyễn Siêu]] (năm 967), nay đình đã bị hoang phế. Làng có ngôi chùa Hưng Phúc nằm sát Quốc lộ I, cách cống Ngọc Hồi 200 mét. Tương truyền, vào cuối thời Lý, Vua Lý Huệ Tông (1211 - 1224) mắc bệnh nặng mà chưa có con nối ngôi, đất nước loạn lạc, dân chúng cơ hàn. Có hai vị công chúa xin về đất làng Tự Khoát, lấy đỉnh Trúc Lĩnh (núi có nhiều cây trúc) của làng làm nơi nghỉ. Hai Bà thấy dân chúng đói khổ, thiếu ruộng tốt để cày cấy, liền xuất hết tiền bạc của mình để mua thóc gạo cứu giúp những người nghèo rồi chiêu tập họ khai hoang để có ruộng cày cấy. Thấy làng có cả một núi trúc bạt ngàn, hai Bà tổ chức cho dân làng đẵn trúc để đan lát các loại thúng mủng, nong nia để dùng và để bán, từ đó dân làng có nghề đan lát. Hai Bà còn cho dựng am Đông Phù để sớm hôm đèn nhang cầu mong cho dân làng được no đủ, hạnh phúc<ref name = "NH2"/>. 
+ 
+Được hai năm, nhà Vua bắt hai bà về triều để gả cho quan lang ở biên giới, song hai bà nhất quyết không nghe lời. Không thuyết phục được, nhà vua cho đốt am Đông Phù nhằm triệt chỗ nương thân của hai bà. Song hai bà lại được dân làng Tự Khoát đốn về, dựng lại am trên núi Trúc, rồi mở mang am thành chùa, nên gọi là chùa Tự Khoát (chùa mở rộng), trở thành một ngôi chùa lớn trong vùng. Đáng tiếc qua thời gian, chiến tranh, nhiều công trình của chùa đã bị hủy hoại, song nhìn từ ngoài vào, thì đây vẫn là một ngôi chùa lớn và đẹp. Trước Tam quan của chùa có một doi đất cao, rộng đến hơn 2000 mét vuông, gọi là Gò Đình Yến. Tục truyền, từ khi hai vị công chúa rời bỏ Kinh thành về đây tu hạnh, vào những dịp Tết và Thanh minh, Vua Lý thường về thăm con và vãn cảnh chùa, cho mổ lợn, bò để tế thần linh tại gò này, sau đó ban yến cho triều thần. Về sau, cho dựng một ngôi miếu để thờ thần linh trời đất<ref name = "NH2"/>.
+
+Tại làng cũng có một ngôi nhà thờ đạo Thiên chúa thuộc Giáo xứ Đồng Trì xây dựng năm 1932. 
+ 
+Làng Tự Khoát in đậm dấu tích của lịch sử đất nước trong trận đánh đồn Ngọc Hồi rạng sáng mồng 5 Tết Kỷ Dậu (1789). Đây là cửa ải trọng yếu để xiết chặt vòng vây quân Thanh ở [[ngọc Hồi, Thanh Trì#Đồn Ngọc Hồi| đồn Ngọc Hồi]] và chặn đường tháo lui của chúng vào thành Thăng Long. Vì thế, tại đây đã diễn ra cuộc giằng co quyết liệt giữa [[nhà Tây Sơn| quân Tây Sơn]] và quân Thanh mà một số địa danh còn ghi lại, như Đình Găng (nơi quân lính hai bên giành nhau từng tấc đất), Ao Đường (máu giặc chảy thành ao), Mả Ngô (xác giặc chất cao thành đống)...<ref name = "NH2"/>
+
+Năm 2015 một con đường mới được xây dựng chạy qua làng Tự Khoát là đường giao thông nối với đường Tứ Hiệp và khu hành chính huyện Thanh Trì tiếp nối đến đường vành đai 3 Pháp Vân Hà nội.
+ -->
+== Xã hội==
+
+=== Giáo dục ===
+Xã Thanh Trì có Trường TH & THCS Yên Mỹ, Trường Tiểu học Vũ Lăng, Trường Tiểu học Ngũ Hiệp, Trường Tiểu học Ngô Sĩ Kiện, Trường THCS Chu Văn An và Trường THPT Ngọc Hồi. Ngoài ra còn có Trường Cán bộ quản lý Nông nghiệp và Phát triển nông thôn.
+
+=== Y tế ===
+Xã có Bệnh viện đa khoa Thanh Trì cùng các trạm y tế Văn Điển và Yên Mỹ.
+
+== Chú thích== 
+{{tham khảo}}
+
+== Tham khảo==
+{{sơ khai Hà Nội}}
+{{Đơn vị hành chính thuộc thành phố Hà Nội}}

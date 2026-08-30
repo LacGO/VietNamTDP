@@ -1,0 +1,42 @@
+{{Thông tin đơn vị hành chính Việt Nam | phường
+| tên = Tây Hồ
+| hình = Phủ Tây Hồ.jpg 
+| ghi chú hình = Phủ Tây Hồ 
+| vĩ độ = 21.06924613869162
+| kinh độ = 105.81144166598172
+| diện tích = 10,72 km²
+| dân số = 100.122 người
+| thời điểm dân số = 2025
+| mật độ dân số = {{formatnum:{{#expr:floor({{formatnum:100.122| R}}/{{formatnum:10,72| R}})}} }} người/km²
+| vùng = [[Đồng bằng sông Hồng]]
+| thành phố = [[Hà Nội]]
+| thành lập = 2025
+| mã hành chính = 
+| mã bưu chính = 
+| trụ sở UBND = 657 Lạc Long Quân
+| web = {{url|tayho.hanoi.gov.vn}}
+}}
+{{other|Tây Hồ (định hướng)}}
+'''Tây Hồ''' là một phường thuộc thành phố [[Hà Nội]], Việt Nam.
+
+== Lịch sử == 
+Ngày [[16 tháng 6]] năm [[2025]]:
+
+* [[Quốc hội Việt Nam|Quốc hội]] ban hành Nghị quyết số 203/2025/QH15 về việc sửa đổi, bổ sung một số điều của Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam.<ref>{{Chú thích web |last=xaydungchinhsach.chinhphu.vn |date=2025-06-28 |title=NGHỊ QUYẾT 203/2025/QH15 SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA HIẾN PHÁP NƯỚC CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM |url=https://xaydungchinhsach.chinhphu.vn/nghi-quyet-203-2025-qh15-sua-doi-bo-sung-mot-so-dieu-cua-hien-phap-nuoc-cong-hoa-xa-hoi-chu-nghia-viet-nam-119250616181735552.htm |access-date=2026-07-15 |website=xaydungchinhsach.chinhphu.vn |language=vi}}</ref> Theo đó, kết thúc hoạt động của đơn vị hành chính cấp huyện trong cả nước từ ngày 1 tháng 7 năm 2025.
+* [[Ủy ban Thường vụ Quốc hội]] ban hành Nghị quyết số 1656/NQ-UBTVQH15 về việc sắp xếp các đơn vị hành chính cấp xã của thành phố Hà Nội năm 2025 (nghị quyết có hiệu lực từ ngày 16 tháng 6 năm 2025). Theo đó, sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của phường Bưởi, một phần của các phường Phú Thượng, Xuân La, Nhật Tân, Quảng An, Tứ Liên, Yên Phụ, Thụy Khuê (quận [[Tây Hồ (quận)|Tây Hồ]]), một phần phường Nghĩa Đô (quận [[Cầu Giấy (quận)|Cầu Giấy]]), để thành lập '''phường Tây Hồ'''.<ref>{{Cite web| url = https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-1656-nq-ubtvqh15-sap-xep-cac-dvhc-cap-xa-cua-thanh-pho-ha-noi-nam-2025-119250616192433872.htm| title = Nghị quyết số 1656/NQ-UBTVQH15 sắp xếp các ĐVHC cấp xã của thành phố Hà Nội năm 2025| date = 20 tháng 6 năm 2025| website = xaydungchinhsach.chinhphu.vn}}</ref>
+
+Sau sắp xếp phường có diện tích tự nhiên 10,56&nbsp;km², quy mô dân số 93.595 người. Phía Đông tiếp giáp phường Hồng Hà (ranh giới đi theo đường An Dương Vương - đường Âu Cơ - đường Nghi Tàm), phía Tây tiếp giáp phường Xuân Đỉnh, Nghĩa Đô (ranh giới đi theo đường Võ Chí Công), phía Nam tiếp giáp phường Ngọc Hà, Ba Đình (ranh giới đi theo đường Thanh Niên - đường Thụy Khuê - đường Mai Xuân Thưởng - đường Hoàng Hoa Thám và đường ranh giới quận cũ), phía Bắc tiếp giáp phường Phú Thượng, Hồng Hà (ranh giới đi theo đường Võ Chí Công - đường An Dương Vương)<ref>{{Cite web| url = https://xaydungchinhsach.chinhphu.vn/chi-tiet-du-thao-phuong-an-sap-xep-cac-phuong-cua-ha-noi-119250421100531902.htm| title = Chi tiết dự thảo PHƯƠNG ÁN SẮP XẾP CÁC PHƯỜNG của HÀ NỘI| date = 28 tháng 4 năm 2025| website = xaydungchinhsach.chinhphu.vn}}</ref> Trụ sở Phường dự kiến đặt tại số 657 Lạc Long Quân.<ref name="trusomoi">{{Cite web| url = https://dcdn.dantri.com.vn/2025/06/25/tru-so-126-xa-phuong-cua-ha-noi-1750822481952.pdf| title = Thông báo về địa điểm trụ sở làm việc của 126 phường, xã sau sắp xếp thuộc phạm vi quản lý của thành phố Hà Nội| date = 25 tháng 6 năm 2025| website = UBND TP Hà Nội| access-date = 2025-06-26| archive-date = 2026-04-25| archive-url = https://web.archive.org/web/20260425080946/https://dcdn.dantri.com.vn/2025/06/25/tru-so-126-xa-phuong-cua-ha-noi-1750822481952.pdf| url-status = dead}}</ref>
+
+== Danh lam thắng cảnh== 
+Phường có nhiều điểm danh lam thắng cảnh và chùa chiền nổi tiếng như [[chùa Kim Liên]], [[chùa Hoằng Ân]], [[Phổ Linh]], [[Phủ Tây Hồ]]. Nơi đây cũng có nhiều khách sạn, căn hộ cao cấp, nhà nghỉ phục vụ du lịch và cho thuê. Trong đó có nhiều khách sạn 5 sao quốc tế và căn hộ quốc tế như InterContinental Hanoi Westlake, Sheraton Hanoi, Elegant suites, Fraser Suites, Pan Pacific Hanoi Oakwood Residence Hanoi, Somerset west point Hanoi, Pentstudio by Ascott West lake Hanoi, Diamond Westlake suites,... khách sạn Sheraton Hà Nội đã từng đón tiếp phu nhân và tổng thống Mỹ George Bush.
+
+Chợ hoa Quảng An của phường là một trong những chợ hoa lớn của [[Hà Nội]]. [[Chùa Trấn Quốc]], đình Yên Phụ
+
+==Danh nhân==
+* [[Nguyễn Khang (họa sĩ)|Nguyễn Khang]] (1911 – 1989), thuộc thế hệ các họa sĩ nổi tiếng đầu tiên của hội họa đương đại Việt Nam, [[giải thưởng Hồ Chí Minh đợt II]] năm 2000.
+
+== Chú thích== 
+{{tham khảo}}
+
+{{sơ khai Hà Nội}}
+{{Đơn vị hành chính thuộc thành phố Hà Nội}}

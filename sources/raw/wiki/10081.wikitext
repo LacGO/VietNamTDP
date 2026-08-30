@@ -1,0 +1,141 @@
+{{Thông tin đơn vị hành chính Việt Nam|Xã
+| tên = Trần Phú
+| hình = 
+| ghi chú hình = 
+| vĩ độ = 20.86175147808962
+| kinh độ = 105.66028230881395
+| diện tích = 44,36 km²
+| dân số = 47.528 người
+| thời điểm dân số = 2025
+| mật độ dân số = {{formatnum:{{#expr:floor({{formatnum:47.528| R}}/{{formatnum:44,36| R}})}} }} người/km²
+| vùng = [[Đồng bằng sông Hồng]]
+| thành phố = [[Hà Nội]]
+| thành lập = 
+| trụ sở UBND = Thôn Hữu Văn<ref>{{Chú thích web |url=https://storage-vnportal.vnpt.vn/gov-hni/6244/VanBan/2025/6/25/TB-729-2025.pdf |title=Thông báo số 729/TB-UBND ngày 25 tháng 6 năm 2025 của Ủy ban nhân dân thành phố Hà Nội về địa điểm trụ sở làm việc của 126 phường, xã sau sắp xếp thuộc phạm vi quản lý của thành phố Hà Nội|access-date=2026-06-15 |archive-date=2026-06-15 |archive-url=https://web.archive.org/web/20260615034519/https://storage-vnportal.vnpt.vn/gov-hni/6244/VanBan/2025/6/25/TB-729-2025.pdf |url-status=dead | website = Cổng Thông tin điện tử Ủy ban nhân dân thành phố Hà Nội}}</ref>
+| mã hành chính =10081<ref>{{Chú thích web |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/19ttg.signed.pdf |title=Quyết định số 19/2025/QĐ-TTg ngày 30 tháng 6 năm 2025 của Thủ tướng Chính phủ về việc Ban hành Bảng danh mục và mã số các đơn vị hành chính Việt Nam |access-date=2026-06-15 |archive-date=2026-06-15 |archive-url=https://web.archive.org/web/20260615034519/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/19ttg.signed.pdf |url-status=dead | website = Cổng Thông tin điện tử Chính phủ}}</ref> 
+| mã bưu chính = 
+| web = {{url|tranphu.hanoi.gov.vn}}
+|trụ sở Đảng ủy=Thôn Công An}}
+{{other|Trần Phú (định hướng)}}
+'''Trần Phú''' là một [[Xã (Việt Nam)|xã]] thuộc thành phố [[Hà Nội]], [[Việt Nam]].
+
+== Địa lý ==
+Xã Trần Phú có vị trí địa lý:
+
+* Phía đông giáp xã [[Quảng Bị]] và xã [[Hòa Phú, Hà Nội|Hòa Phú]]
+* Phía tây giáp xã [[Liên Sơn, Phú Thọ|Liên Sơn]] và xã [[Cao Dương]] thuộc tỉnh [[Phú Thọ]]
+* Phía nam giáp xã [[Phúc Sơn]]
+* Phía bắc giáp xã [[Xuân Mai]] và xã [[Phú Nghĩa, Hà Nội|Phú Nghĩa]].<ref>{{Chú thích web |last=Viện nghiên cứu Phát triển kinh tế – xã hội Hà Nội |date=2025-07-02 |title=Xã Trần Phú: Những thông tin chi tiết sau sắp xếp |url=https://hanoionline.vn/xa-tran-phu-nhung-thong-tin-chi-tiet-sau-sap-xep-344149.htm |url-status=dead |archive-url=https://web.archive.org/web/20250703090141/https://hanoionline.vn/xa-tran-phu-nhung-thong-tin-chi-tiet-sau-sap-xep-344149.htm |archive-date=2025-07-03 |access-date=2026-08-02 |website=Cơ quan Báo và Phát thanh Truyền hình Hà Nội }}</ref><ref>{{Chú thích web |last=Cơ quan Báo và Phát thanh Truyền hình Hà Nội |date=2025-07-08 |title=Xã Trần Phú: Tất cả thông tin chỉ dẫn bạn cần biết |url=https://hanoionline.vn/xa-tran-phu-tat-ca-thong-tin-chi-dan-ban-can-biet-345458.htm |url-status=dead |archive-url=https://web.archive.org/web/20251108180525/https://hanoionline.vn/xa-tran-phu-tat-ca-thong-tin-chi-dan-ban-can-biet-345458.htm |archive-date=2025-11-08 |access-date=2026-08-02 }}</ref>
+
+Xã Trần Phú có diện tích tự nhiên là 44,36 km<sup>2</sup>, quy mô dân số năm 2025 là 47.528 người và mật độ dân số đạt 1.071 người/km<sup>2</sup>.<ref>{{Chú thích web |last=Mai Hữu |date=2026-04-05 |title=Hà Nội: Chi tiết phương án tổng thể sắp xếp đơn vị hành chính cấp xã |url=https://hanoimoi.vn/ha-noi-chi-tiet-phuong-an-tong-the-sap-xep-don-vi-hanh-chinh-cap-xa-700278.html |url-status=dead |archive-url=https://web.archive.org/web/20250710163328/https://hanoimoi.vn/ha-noi-chi-tiet-phuong-an-tong-the-sap-xep-don-vi-hanh-chinh-cap-xa-700278.html |archive-date=2025-07-10 |access-date=2026-07-11 |website=Cơ quan Báo và Phát thanh, truyền hình Hà Nội }}</ref><ref>Công văn số 2896/BNV-CQĐP ngày 27 tháng 5 năm 2025 của Bộ Nội vụ về việc cung cấp thông tin danh mục dự kiến đơn vị hành chính cấp xã mới.</ref>
+
+== Lịch sử==
+
+=== Trước năm 1976 ===
+
+=== Giai đoạn 1976 – nay ===
+Sau ngày 2 tháng 7 năm 1976, 5 xã: Hoàng Văn Thụ, Hữu Văn, Mỹ Lương, Tân Tiến và Trần Phú thuộc huyện [[Chương Mỹ (huyện)|Chương Mỹ]]; xã Đồng Tâm thuộc huyện [[Mỹ Đức (huyện)|Mỹ Đức]] của tỉnh [[Hà Sơn Bình]].
+
+Ngày 12 tháng 8 năm 1991, chia tỉnh [[Hà Sơn Bình]] thành 2 tỉnh, lấy tên là tỉnh [[Hòa Bình (tỉnh)|Hòa Bình]] và tỉnh [[Hà Tây (tỉnh)|Hà Tây]]. Khi đó, 5 xã: Hoàng Văn Thụ, Hữu Văn, Mỹ Lương, Tân Tiến và Trần Phú thuộc huyện [[Chương Mỹ (huyện)|Chương Mỹ]]; xã Đồng Tâm thuộc huyện [[Mỹ Đức (huyện)|Mỹ Đức]] của tỉnh [[Hà Tây (tỉnh)|Hà Tây]].<ref>Nghị quyết ngày 12 tháng 8 năm 1991 của Quốc hội khóa VIII, Kỳ họp thứ 9 về việc điều chỉnh địa giới hành chính một số tỉnh, thành phố trực thuộc Trung ương.</ref>
+
+Ngày 29 tháng 5 năm 2008, hợp nhất tỉnh [[Hà Tây (tỉnh)|Hà Tây]] vào thành phố [[Hà Nội]]. Khi đó, 5 xã: Hoàng Văn Thụ, Hữu Văn, Mỹ Lương, Tân Tiến và Trần Phú thuộc huyện [[Chương Mỹ (huyện)|Chương Mỹ]]; xã Đồng Tâm thuộc huyện [[Mỹ Đức (huyện)|Mỹ Đức]] của thành phố [[Hà Nội]].<ref>Nghị quyết số 15/2008/QH12 ngày 29 tháng 5 năm 2008 của Quốc hội khóa XII, Kỳ họp thứ 3 về việc điều chỉnh địa giới hành chính thành phố Hà Nội và một số tỉnh có liên quan.</ref>
+
+Ngày 16 tháng 6 năm 2025:
+
+* Kết thúc hoạt động của đơn vị hành chính cấp huyện trong cả nước.<ref>{{Chú thích web |last= |date= |title=Nghị quyết số 203/2025/QH15 ngày 16 tháng 6 năm 2025 của Quốc hội khóa XV, Kỳ họp thứ 9 về việc sửa đổi, bổ sung một số điều của Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/nq-sua-doi-hien-phap.pdf |url-status=live |archive-url=https://web.archive.org/web/20260613090807/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/nq-sua-doi-hien-phap.pdf |archive-date=2026-06-13 |access-date=2026-06-13 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+* Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của các xã Hoàng Văn Thụ, Hữu Văn, Mỹ Lương, Trần Phú (huyện [[Chương Mỹ (huyện)|Chương Mỹ]]), phần còn lại của xã Đồng Tâm (huyện [[Mỹ Đức (huyện)|Mỹ Đức]]) và phần còn lại của xã Tân Tiến (huyện [[Chương Mỹ (huyện)|Chương Mỹ]]) thành xã mới có tên gọi là xã Trần Phú.<ref>{{Chú thích web |title=Nghị quyết số 1656/NQ-UBTVQH15 ngày 16 tháng 6 năm 2025 của Ủy ban Thường vụ Quốc hội về việc sắp xếp các đơn vị hành chính cấp xã của thành phố Hà Nội năm 2025 |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf |url-status=bot: unknown |archive-url=https://web.archive.org/web/20260513110024/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf |archive-date=2026-05-13 |access-date=2026-06-30 |website=Cổng Thông tin điện tử Chính phủ }}</ref>
+* Sau khi sắp xếp, xã Trần Phú được chia thành 32 thôn.<ref>9 thôn: An Tiến, Công An, Hòa Bình, Thuần Lương, Tiến Văn, Văn Mỹ, Văn Phú, Văn Sơn và Yên Trình của xã Hoàng Văn Thụ cũ; 8 thôn: An Thuận 1, 2, Đông Viên, Hòa Bình, Mỹ Hạ, Mỹ Thượng, Quang Trung và Quyết Tiến của xã Hữu Văn cũ; 3 thôn: Khôn Duy, Mỹ Lương và Núi Sáo của xã Mỹ Lương cũ; 12 thôn: Dương Kệ, Đồng Ké, Hồng Thái, Hưng Thịnh, Kỳ Viên, Miếu Môn, Nghè, Phú Mỹ, Tân Hội, Thướp, Trung Tiến và Vôi Đá của xã Trần Phú cũ.</ref><ref>{{Chú thích web |title=Thông tư số 10/2022/TT-BTNMT ngày 29 tháng 9 năm 2022 của Bộ Tài nguyên và Môi trường về việc Ban hành Danh mục địa danh dân cư, sơn văn, thủy văn, kinh tế – xã hội phục vụ công tác thành lập bản đồ thành phố Hà Nội |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2022/10/10-btnmt.pdf |url-status=bot: unknown |archive-url=https://web.archive.org/web/20260630082812/https://datafiles.chinhphu.vn/cpp/files/vbpq/2022/10/10-btnmt.pdf |archive-date=2026-06-30 |access-date=2026-06-30 |website=Cổng Thông tin điện tử Chính phủ }}</ref><ref>{{Chú thích web |title=Danh sách Thôn vùng đồng bào dân tộc thiểu số và miền núi, thôn đặc biệt khó khăn giai đoạn 2026 – 2030 trên địa bàn thành phố Hà Nội (Kèm theo Quyết định số 104/QĐ-BDTTG ngày 27 tháng 02 năm 2026 của Bộ trưởng Bộ Dân tộc và Tôn giáo) |url=http://files.ubdt.gov.vn/files/ecm/source_files/2026/03/09/11023866_2.%20H%C3%A0%20N%E1%BB%99i%20(th%C3%B4n).signed_26-03-09.pdf |url-status=dead |archive-url=https://web.archive.org/web/20260812201510/http://files.ubdt.gov.vn/files/ecm/source_files/2026/03/09/11023866_2.%20H%C3%A0%20N%E1%BB%99i%20(th%C3%B4n).signed_26-03-09.pdf |archive-date=2026-08-12 |access-date=2026-08-12 |website=Cổng Thông tin điện tử Bộ Dân tộc và Tôn giáo}}</ref><ref>{{Chú thích web |last= |date= |title=Nghị quyết số 1/NQ-UBBC ngày 13 tháng 2 năm 2026 của Ủy ban bầu cử xã Trần Phú về việc công bố danh sách chính thức những người ứng cử đại biểu Hội đồng nhân dân xã Trần Phú khóa XXI, nhiệm kỳ 2026 – 2031 theo từng đơn vị bầu cử |url=https://sqhx-hanoi.mediacdn.vn/91579363132710912/2026/2/25/01-nghi-quyet-cong-bo-danh-sach-chinh-thuc-nguoi-ung-cu-dai-bieu-hdnd-xa-1772024942990177685118.pdf |url-status=dead |archive-url=https://web.archive.org/web/20260803130350/https://sqhx-hanoi.mediacdn.vn/91579363132710912/2026/2/25/01-nghi-quyet-cong-bo-danh-sach-chinh-thuc-nguoi-ung-cu-dai-bieu-hdnd-xa-1772024942990177685118.pdf |archive-date=2026-08-03 |access-date=2026-08-03 |website=Trang Thông tin điện tử xã Trần Phú – thành phố Hà Nội }}</ref>
+Ngày 6 tháng 7 năm 2025, đổi tên 2 thôn: Hòa Bình (xã Hữu Văn cũ) và Hòa Bình (xã Hoàng Văn Thụ cũ) lần lượt thành 2 thôn: Hòa Bình 1 và 2; chỉnh một phần diện tích, dân số từ xã Đồng Tâm vào thôn Tân Hội và từ xã Tân Tiến cũ vào thôn Văn Sơn.<ref>1. Thôn Hòa Bình (xã Hữu Văn cũ) đổi thành Hòa Bình 1; 2. Thôn Hòa Bình (xã Hoàng Văn Thụ cũ) đổi thành Hòa Bình 2; 3. Điều chỉnh một phần diện tích, dân số từ xã Đồng Tâm (huyện Mỹ Đức cũ) vào thôn Tân Hội và từ xã Tân Tiến cũ vào thôn Văn Sơn.</ref><ref>{{Chú thích web |last=Minh Phương |date=2025-06-07 |title=Hội đồng nhân dân xã Trần Phú tổ chức kỳ họp thứ hai: Hoàn thiện thể chế, thúc đẩy phát triển toàn diện trong giai đoạn mới |url=https://thanhuyhanoi.vn/tin-tuc/chinh-tri/hdnd-xa-tran-phu-to-chuc-ky-hop-thu-hai-hoan-thien-the-che-thuc-day-phat-trien-toan-dien-trong-giai-doan-moi-50029477.html |url-status=dead |archive-url=https://web.archive.org/web/20260803201510/https://thanhuyhanoi.vn/tin-tuc/chinh-tri/hdnd-xa-tran-phu-to-chuc-ky-hop-thu-hai-hoan-thien-the-che-thuc-day-phat-trien-toan-dien-trong-giai-doan-moi-50029477.html |archive-date=2026-08-03 |access-date=2026-08-03 |website=Trang Thông tin điện tử Đảng bộ thành phố Hà Nội}}</ref>
+
+Ngày 25 tháng 6 năm 2026, thành lập 11 thôn mới: Hồng Tiến, Mạnh Tiến, Kỳ Viên, Miếu Môn, Đồng Ké, Hữu Văn, Thống Nhất, Mỹ Tiến, Tiến Văn, Hoàng Văn Thụ và Văn Sơn.<ref>1. Sáp nhập các thôn Trung Tiến, Hồng Thái thành thôn Hồng Tiến; 2. Sáp nhập các thôn Nghè, Thướp, Dương Kệ thành thôn Mạnh Tiến; 3. Sáp nhập các thôn Kỳ Viên, Hưng Thịnh và Tân Hội thành thôn Kỳ Viên; 4. Sáp nhập các thôn Vôi Đá, Miếu Môn và Núi Sáo thành thôn Miếu Môn; 5. Sáp nhập thôn Đồng Ké và Phú Mỹ thành thôn Đồng Ké; 6. Sáp nhập các thôn An Thuận 1, An Thuận 2 và Hòa Bình 1 thành thôn Hữu Văn; 7. Sáp nhập các thôn Quang Trung, Quyết Tiến và Đông Viên thành thôn Thống Nhất; 8. Sáp nhập thôn Mỹ Thượng và Mỹ Hạ thành thôn Mỹ Tiến; 9. Sáp nhập các thôn Hòa Bình 2, An Tiến và Tiến Văn thành thôn Tiến Văn; 10. Sáp nhập thôn Thuần Lương và Yên Trình thành thôn Hoàng Văn Thụ; 11. Sáp nhập thôn Văn Phú và Văn Sơn thành thôn Văn Sơn; 12. 4 thôn gồm Mỹ Lương, Khôn Duy, Công An và Văn Mỹ được giữ nguyên hiện trạng.</ref><ref name=":0">{{Chú thích web |last=Đức Bảo |date=2026-06-15 |title=Xã Trần Phú triển khai xây dựng dự thảo Đề án sắp xếp, sáp nhập và kiện toàn tổ chức thôn trên địa bàn |url=https://tranphu.hanoi.gov.vn/tin-tuc-su-kien/xa-tran-phu-trien-khai-xay-dung-du-thao-de-an-sap-xep-sap-nhap-va-kien-toan-to-chuc-thon-tren-dia-ban-2827260615110647499.htm |url-status=dead |archive-url=https://web.archive.org/web/20260803201510/https://tranphu.hanoi.gov.vn/tin-tuc-su-kien/xa-tran-phu-trien-khai-xay-dung-du-thao-de-an-sap-xep-sap-nhap-va-kien-toan-to-chuc-thon-tren-dia-ban-2827260615110647499.htm |archive-date=2026-08-03 |access-date=2026-08-03 |website=Trang Thông tin điện tử xã Trần Phú – thành phố Hà Nội}}</ref><ref name=":2">{{Chú thích web |last=Đức Bảo – Duy Hương |date=2026-06-18 |title=Xã Trần Phú triển khai lộ trình thực hiện đề án sắp xếp, sáp nhập và kiện toàn tổ chức thôn năm 2026 |url=https://tranphu.hanoi.gov.vn/chi-dao-dieu-hanh/xa-tran-phu-trien-khai-lo-trinh-thuc-hiende-an-sap-xep-sap-nhap-va-kien-toan-to-chuc-thon-nam-2026-2827260618184119985.htm |url-status=dead |archive-url=https://web.archive.org/web/20260803201510/https://tranphu.hanoi.gov.vn/chi-dao-dieu-hanh/xa-tran-phu-trien-khai-lo-trinh-thuc-hiende-an-sap-xep-sap-nhap-va-kien-toan-to-chuc-thon-nam-2026-2827260618184119985.htm |archive-date=2026-08-03 |access-date=2026-08-03 |website=Trang Thông tin điện tử xã Trần Phú – thành phố Hà Nội}}</ref><ref name=":1">{{Chú thích web |last=Minh Khiêm |date=2026-06-25 |title=Hội đồng nhân dân xã Trần Phú thông qua nghị quyết sắp xếp, sáp nhập thôn |url=https://hanoimoi.vn/hdnd-xa-tran-phu-thong-qua-nghi-quyet-sap-xep-sap-nhap-thon-1209139.html?gidzl=vH5hNZW8Fb3X3czOCXCuKkeBRLmlGZLGeGmtM7uGPrNqNZHJUa5iMALRRr0j4cbRy09iLZJhA60_FGawKW |url-status=dead |archive-url=https://web.archive.org/web/20260803201510/https://hanoimoi.vn/hdnd-xa-tran-phu-thong-qua-nghi-quyet-sap-xep-sap-nhap-thon-1209139.html?gidzl=vH5hNZW8Fb3X3czOCXCuKkeBRLmlGZLGeGmtM7uGPrNqNZHJUa5iMALRRr0j4cbRy09iLZJhA60_FGawKW |archive-date=2026-08-03 |access-date=2026-08-03 |website=Cơ quan Báo và Phát thanh, truyền hình Hà Nội}}</ref><ref name=":3">{{Chú thích web |last=Minh Khiêm – Hồng Đào |date=2026-06-30 |title=Xã Trần Phú kiện toàn tổ chức bộ máy tại 15 thôn sau sắp xếp |url=https://hanoimoi.vn/xa-tran-phu-kien-toan-to-chuc-bo-may-tai-15-thon-sau-sap-xep-1209974.html?gidzl=DVEI4RqnxWGnx9ONjohe1JZgcHIeUEW3S-t34FagkWOcly0R_Nkn2tUwcnYgABG88kEO7ZI-yqaak33g1W |url-status=dead |archive-url=https://web.archive.org/web/20260803201510/https://hanoimoi.vn/xa-tran-phu-kien-toan-to-chuc-bo-may-tai-15-thon-sau-sap-xep-1209974.html?gidzl=DVEI4RqnxWGnx9ONjohe1JZgcHIeUEW3S-t34FagkWOcly0R_Nkn2tUwcnYgABG88kEO7ZI-yqaak33g1W |archive-date=2026-08-03 |access-date=2026-08-03 |website=Cơ quan Báo và Phát thanh, truyền hình Hà Nội}}</ref>
+
+== Hành chính ==
+Xã Trần Phú được chia thành 15 thôn: Công An, Đồng Ké, Hoàng Văn Thụ, Hồng Tiến, Hữu Văn, Khôn Duy, Kỳ Viên, Mạnh Tiến, Miếu Môn, Mỹ Lương, Mỹ Tiến, Thống Nhất, Tiến Văn, Văn Mỹ và Văn Sơn.<ref name=":0" /><ref name=":2" /><ref name=":1" /><ref name=":3" />
+{| class="wikitable sortable" cellpadding="0" cellspacing="6" width="100%" align="center" style="background: #f9f9f9; border: 1px #aaa solid; margin-top: 16px"
+! colspan="4" style="background: #E6E6FA; font-size: 95%;" |Danh sách các thôn thuộc xã Trần Phú<ref name=":0" /><ref name=":2" /><ref name=":1" /><ref name=":3" />
+|-
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| cellpadding="1" cellspacing="1" width="100%" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Công An
+| -
+|-
+| align="left" |Đồng Ké
+|266
+|-
+| align="left" |Hoàng Văn Thụ
+|704
+|-
+| align="left" |Hồng Tiến
+|524
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| cellpadding="1" cellspacing="1" width="100%" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Hữu Văn
+|873
+|-
+| align="left" |Khôn Duy
+| -
+|-
+| align="left" |Kỳ Viên
+|606
+|-
+| align="left" |Mạnh Tiến
+|510
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| cellpadding="1" cellspacing="1" width="100%" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Miếu Môn
+|680
+|-
+| align="left" |Mỹ Lương
+| -
+|-
+| align="left" |Mỹ Tiến
+|506
+|-
+| align="left" |Thống Nhất
+|740
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| cellpadding="1" cellspacing="1" width="100%" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Tiến Văn
+|567
+|-
+| align="left" |Văn Mỹ
+| -
+|-
+| align="left" |Văn Sơn
+|716
+|}
+|}<!-- 
+== Hành chính== 
+Xã Đồng Tâm được lập ra vào năm 1953 sau khi sáp nhập thôn Hoành của xã Thượng Lâm<ref>Xã Thượng Lâm hiện tại có 5 thôn: Trì, Thượng, Trung, Nội, Phượng</ref> và thôn Đồng Mít của xã Phúc Lâm. Hiện nay, xã vẫn có 2 thôn: thôn Hoành và thôn Đồng Mít, chia thành 14 xóm.
+
+== Văn hóa== 
+Tiêu biểu có Trống đồng Miếu Môn ở thôn Hoành là một trong số các trống đồng Đông Sơn nổi tiếng được phát hiện ở đây. Hiện nay, Trống đồng Miếu Môn được lưu trữ ở Viện Bảo tàng Lịch sử Việt Nam.
+
+== Xem thêm== 
+*[[Tranh chấp đất đai tại Đồng Tâm]]
+ -->
+
+== Chú thích== 
+{{tham khảo}}
+
+== Tham khảo==
+
+{{sơ khai Hà Nội}}
+{{Đơn vị hành chính thuộc thành phố Hà Nội}}
+
+[[Thể loại:Đơn vị hành chính Việt Nam đặt tên theo tên người]]

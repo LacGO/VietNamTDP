@@ -1,0 +1,112 @@
+{
+  "ward_code": "05212",
+  "ward_name": "Pà Cò",
+  "province_code": "25",
+  "resolution": "",
+  "arrangement": "truoc_2026_07",
+  "effective_date": "",
+  "verified": "unverified",
+  "extraction": {
+    "source": "vi.wikipedia.org",
+    "title": "Pà Cò",
+    "mode": "narrative"
+  },
+  "sources": [
+    {
+      "key": "wiki-05212-1",
+      "title": "Thông báo số 384/TB-UBND về Thời gian, địa điểm bỏ phiếu bầu cử đại biểu Quốc hội khóa XVI và bầu cử đại biểu Hội đồng nhân dân các cấp, nhiệm kỳ 2026 - 2031 trên địa bàn xã Pà Cò, tỉnh Phú Thọ",
+      "url": "https://paco.phutho.gov.vn/index.php/tin-t-c-s-ki-n/chinh-tr/300-tha-ng-ba-o-tha-i-gian-a-a-ia-m-ba-phia-u-ba-u-ca-a-i-bia-u-qua-c-ha-i-kha-a-xvi-va-ba-u-ca-a-i-bia-u-h-nd-ca-c-ca-p-nhia-m-ka-2026-2031-tra-n-a-a-ba-n-xa-pa-ca-ta-nh-pha-tha-xa",
+      "date": "2026-03-08",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-05212-2",
+      "title": "Danh sách Thôn vùng đồng bào dân tộc thiểu số và miền núi, thôn đặc biệt khó khăn giai đoạn 2026 - 2030 trên địa bàn tỉnh Phú Thọ",
+      "url": "http://files.ubdt.gov.vn/files/ecm/source_files/2026/02/05/11252411_4.%20Ph%C3%BA%20Th%E1%BB%8D%201%20(th%C3%B4n).signed_26-02-05.pdf",
+      "date": "2026-01-29",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-05212-3",
+      "title": "NGHỊ QUYẾT 203/2025/QH15 SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA HIẾN PHÁP NƯỚC CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM",
+      "url": "https://xaydungchinhsach.chinhphu.vn/nghi-quyet-203-2025-qh15-sua-doi-bo-sung-mot-so-dieu-cua-hien-phap-nuoc-cong-hoa-xa-hoi-chu-nghia-viet-nam-119250616181735552.htm",
+      "date": "2025-06-28",
+      "type": "wikipedia-ref"
+    }
+  ],
+  "note": "Trích tự động từ Wikipedia tiếng Việt (mode=narrative). Cần đối chiếu nghị quyết HĐND phường/xã. ⚠️ Danh mục có thể là hiện trạng TRƯỚC sắp xếp thôn/TDP 01/7/2026 — Wikipedia chưa cập nhật nghị quyết mới.",
+  "tdp": [
+    {
+      "name": "Bò Báu",
+      "type": "xóm"
+    },
+    {
+      "name": "Bò Liêm",
+      "type": "xóm"
+    },
+    {
+      "name": "Cang",
+      "type": "xóm"
+    },
+    {
+      "name": "Chà Đáy",
+      "type": "xóm"
+    },
+    {
+      "name": "Cun",
+      "type": "xóm"
+    },
+    {
+      "name": "Hang Kia",
+      "type": "xóm"
+    },
+    {
+      "name": "Mượt",
+      "type": "xóm"
+    },
+    {
+      "name": "Pà Cò 1",
+      "type": "xóm"
+    },
+    {
+      "name": "Pà Cò Lớn",
+      "type": "xóm"
+    },
+    {
+      "name": "Pà Háng Lớn",
+      "type": "xóm"
+    },
+    {
+      "name": "Pà Khôm",
+      "type": "xóm"
+    },
+    {
+      "name": "Pheo",
+      "type": "xóm"
+    },
+    {
+      "name": "Tam Hòa",
+      "type": "xóm"
+    },
+    {
+      "name": "Táu Nà",
+      "type": "xóm"
+    },
+    {
+      "name": "Thung Ẳng",
+      "type": "xóm"
+    },
+    {
+      "name": "Thung Mài",
+      "type": "xóm"
+    },
+    {
+      "name": "Thung Mặn",
+      "type": "xóm"
+    },
+    {
+      "name": "Xà Lính",
+      "type": "xóm"
+    }
+  ]
+}

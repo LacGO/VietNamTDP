@@ -1,0 +1,140 @@
+{
+  "ward_code": "08740",
+  "ward_name": "Phúc Yên",
+  "province_code": "25",
+  "resolution": "",
+  "arrangement": "2026_07",
+  "effective_date": "2026-07-01",
+  "verified": "unverified",
+  "extraction": {
+    "source": "vi.wikipedia.org",
+    "title": "Phúc Yên (phường)",
+    "mode": "narrative"
+  },
+  "sources": [
+    {
+      "key": "wiki-08740-1",
+      "title": "Phường Phúc Yên tổ chức lấy ý kiến Nhân dân về việc sắp xếp, đổi tên tổ dân phố",
+      "url": "https://phucyen.phutho.gov.vn/index.php/tin-t-c-s-ki-n/chinh-tr/3819-phuong-phuc-yen-to-chuc-lay-y-kien-nhan-dan-ve-viec-sap-xep-doi-ten-to-dan-pho",
+      "date": "7/17/2026",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-08740-2",
+      "title": "DANH SÁCH BÍ THƯ CHI BỘ - TỔ TRƯỞNG 25 TỔ DÂN PHỐ PHƯỜNG PHÚC YÊN",
+      "url": "https://phucyen.phutho.gov.vn/index.php/tin-t-c-s-ki-n/chinh-tr/3872-danh-sach-bi-thu-chi-bo-to-truong-25-to-dan-pho-phuong-phuc-yen",
+      "date": "7/17/2026",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-08740-3",
+      "title": "Nghị quyết số 484/NQ-UBTVQH14 về việc thành lập phường Tiền Châu, phường Nam Viêm thuộc thị xã Phúc Yên và thành lập thành phố Phúc Yên thuộc tỉnh Vĩnh Phúc",
+      "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2018/02/484.signed.pdf",
+      "date": "2018-02-07",
+      "type": "wikipedia-ref"
+    }
+  ],
+  "note": "Trích tự động từ Wikipedia tiếng Việt (mode=narrative). Cần đối chiếu nghị quyết HĐND phường/xã.",
+  "tdp": [
+    {
+      "name": "Đại Tân",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Đạm Nội",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "1 – Hùng Vương",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "2 – Hùng Vương",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "3 – Hùng Vương",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "4 – Hùng Vương",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Khả Do 1",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Khả Do 2",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Kim Xuyên",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Nam Viêm",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Phúc Thắng",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Tiên Thịnh",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Tiền Châu",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "1 – Trưng Nhị",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "2 – Trưng Nhị",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "3 – Trưng Nhị",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "4 – Trưng Nhị",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "1 – Trưng Trắc",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "2 – Trưng Trắc",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "3 – Trưng Trắc",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "4 – Trưng Trắc",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "5 – Trưng Trắc",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Xuân Mai",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Xuân Phương",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Xuân Thượng",
+      "type": "tổ dân phố"
+    }
+  ]
+}

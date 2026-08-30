@@ -1,0 +1,61 @@
+{{Thông tin đơn vị hành chính Việt Nam | xã
+| tên = Liên Hòa
+| hình = 
+| ghi chú hình = 
+| vĩ độ = 21.407812021943798
+| kinh độ = 105.5227194098027
+| diện tích = 18,80 km²<ref name=MS/>
+| dân số = 19.257 người<ref name=MS/>
+| thời điểm dân số = 2025
+| mật độ dân số = {{formatnum:{{#expr:floor({{formatnum:19.257| R}}/{{formatnum:18,80| R}})}} }} người/km²
+| vùng = [[Đông Bắc Bộ]]
+| tỉnh = [[Phú Thọ]]
+| thành lập =16 tháng 6 năm 2025<ref>Nghị quyết số 1676/NQ-UBTVQH15</ref> 
+| trụ sở UBND =Thôn Phú Khánh 
+| mã hành chính = 08812<ref>{{Chú thích web |url=https://danhmuchanhchinh.gso.gov.vn/ |title=Tổng cục Thống kê |access-date=2022-03-24 |archive-date=2021-01-10 |archive-url=https://web.archive.org/web/20210110034519/https://www.gso.gov.vn/phuong-phap-thong-ke/danh-muc/don-vi-hanh-chinh/ |url-status=dead }}</ref>
+| mã bưu chính =15409 
+|web={{url|lienhoa.phutho.gov.vn}}
+|loại đô thị=|năm công nhận=}}
+{{other|Liên Hòa (định hướng)}}
+'''Liên Hòa''' là một [[Xã (Việt Nam)|xã]] thuộc tỉnh [[Phú Thọ]], [[Việt Nam]].
+
+== Địa lý ==
+Xã Liên Hòa nằm ở phía Bắc tỉnh [[Phú Thọ]], có vị trí địa lý<ref>{{Chú thích web |title=Đơn vị hành chính Việt Nam |url=https://sapnhap.bando.com.vn/ |access-date=2026-06-14 |website=sapnhap.bando.com.vn}}</ref>:
+
+* Phía Bắc, Tây Bắc và Đông Bắc giáp xã [[Thái Hòa, Phú Thọ|Thái Hòa]].
+* Phía Nam giáp xã [[Tiên Lữ, Phú Thọ|Tiên Lữ]].
+* Phía Tây giáp xã [[Lập Thạch (xã)|Lập Thạch]].
+* Phía Đông giáp xã [[Tam Dương Bắc]] và xã [[Hoàng An]].
+
+Xã có diện tích 18,80&nbsp;km², dân số năm 2025 là 19.257 người, mật độ dân số đạt 1.024 người/km².<ref>{{Chú thích web |title=Xã Liên Hòa, Tỉnh Phú Thọ mới sáp nhập 2026 |url=https://tinhthanhvn.com/province/phu-tho/xa-lien-hoa |access-date=2026-06-14 |website=Tỉnh Thành Việt Nam |language=vi}}</ref>
+
+==Hành chính==
+Xã Liên Hòa được chia thành 21 thôn: Bồ Thầy, Cộng Hòa, Đông Lai, Hoa Giang, Hoa Lư, Hòa Bình, Làng Bến, Ngọc Liễn, Phú Cả, Phú Khánh, Phú Ninh, Phú Thụ, Quảng Khuân, Tây Hạ Đông, Tây Hạ Nam, Tây Thượng, Thái Bình, Thượng Đạt, Trụ Thạch, Xích Thổ, Xuân Me.<ref name=":0">{{Chú thích web |last=Ủy ban bầu cử xã Liên Hòa |date=2025-12-24 |title=Nghị quyết số 1/NQ-UBBC về việc ấn định và công bố số đơn vị bầu cử, danh sách các đơn vị bầu cử và số lượng đại biểu Hội đồng nhân dân xã nhiệm kỳ 2026 - 2031 được bầu ở mỗi đơn vị bầu cử |url=https://lienhoa.phutho.gov.vn/index.php/van-ban-phap-quy?task=download.send&id=10&catid=5&m=0 |url-status=live |archive-url=https://web.archive.org/web/20260422090807/https://lienhoa.phutho.gov.vn/index.php/van-ban-phap-quy?task=download.send&id=10&catid=5&m=0 |archive-date=2026-04-22 |access-date=2026-04-22 |website=Trang Thông tin điện tử xã Liên Hòa - tỉnh Phú Thọ}}</ref>
+
+==Lịch sử==
+Trước kia, Liên Hòa là một xã thuộc huyện [[Lập Thạch (huyện)|Lập Thạch]], tỉnh [[Vĩnh Phúc (tỉnh)|Vĩnh Phúc]] cũ.
+
+Ngày [[4 tháng 4]] năm [[2008]], [[Chính phủ Việt Nam|Chính phủ]] ban hành Nghị định số 39/2008/NĐ-CP về việc thành lập thị trấn Hoa Sơn trên cơ sở điều chỉnh 481,57 ha diện tích tự nhiên và 6.730 người của Liễn Sơn; 3,47 ha diện tích tự nhiên và 200 người của xã Thái Hòa.
+
+Ngày [[12 tháng 6]] năm [[2025]], [[Quốc hội Việt Nam|Quốc hội]] ban hành Nghị quyết số 202/2025/QH15 về việc sắp xếp đơn vị hành chính cấp tỉnh (nghị quyết có hiệu lực từ ngày [[12 tháng 6]] năm [[2025]]).<ref>{{Chú thích web |last=xaydungchinhsach.chinhphu.vn |date=2025-07-16 |title=TOÀN VĂN: Nghị quyết số 202/2025/QH15 về sắp xếp đơn vị hành chính cấp tỉnh |url=https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-202-2025-qh15-ve-sap-xep-don-vi-hanh-chinh-cap-tinh-119250612174148722.htm |url-status=live |archive-url=http://web.archive.org/web/20260705025431/https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-202-2025-qh15-ve-sap-xep-don-vi-hanh-chinh-cap-tinh-119250612174148722.htm |archive-date=2026-07-05 |access-date=2026-07-25 |website=Báo Điện tử Chính phủ |language=vi}}</ref> Theo đó, sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của tỉnh [[Vĩnh Phúc (tỉnh)|Vĩnh Phúc]], tỉnh [[Hòa Bình (tỉnh)|Hòa Bình]] và tỉnh [[Phú Thọ]] thành tỉnh mới có tên gọi là tỉnh '''Phú Thọ'''.
+
+Ngày [[16 tháng 6]] năm [[2025]]:
+
+* Quốc hội ban hành Nghị quyết số 203/2025/QH15 về việc sửa đổi, bổ sung một số điều của Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam (nghị quyết có hiệu lực từ ngày [[16 tháng 6]] năm [[2025]]).<ref>{{Chú thích web |last=xaydungchinhsach.chinhphu.vn |date=2025-06-28 |title=NGHỊ QUYẾT 203/2025/QH15 SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA HIẾN PHÁP NƯỚC CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM |url=https://xaydungchinhsach.chinhphu.vn/nghi-quyet-203-2025-qh15-sua-doi-bo-sung-mot-so-dieu-cua-hien-phap-nuoc-cong-hoa-xa-hoi-chu-nghia-viet-nam-119250616181735552.htm |url-status=live |archive-url=http://web.archive.org/web/20260715200606/https://xaydungchinhsach.chinhphu.vn/nghi-quyet-203-2025-qh15-sua-doi-bo-sung-mot-so-dieu-cua-hien-phap-nuoc-cong-hoa-xa-hoi-chu-nghia-viet-nam-119250616181735552.htm |archive-date=2026-07-15 |access-date=2026-07-15 |website=Báo Điện tử Chính phủ |language=vi}}</ref> Theo đó, kết thúc hoạt động của đơn vị hành chính cấp huyện trong cả nước từ ngày 1 tháng 7 năm 2025.
+* [[Ủy ban Thường vụ Quốc hội]] ban hành Nghị quyết số 1676/NQ-UBTVQH15 về việc sắp xếp đơn vị hành chính cấp xã của tỉnh [[Phú Thọ]] năm 2025 (nghị quyết có hiệu lực từ ngày [[16 tháng 6]] năm [[2025]]).<ref>{{Chú thích web |last=xaydungchinhsach.chinhphu.vn |date=2025-06-20 |title=Nghị quyết số 1676/NQ-UBTVQH15 sắp xếp các ĐVHC cấp xã của tỉnh Phú Thọ năm 2025 |url=https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-1676-nq-ubtvqh15-sap-xep-cac-dvhc-cap-xa-cua-tinh-phu-tho-nam-2025-119250616204317326.htm |url-status=live |archive-url=http://web.archive.org/web/20260725082021/https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-1676-nq-ubtvqh15-sap-xep-cac-dvhc-cap-xa-cua-tinh-phu-tho-nam-2025-119250616204317326.htm |archive-date=2026-07-25 |access-date=2026-07-27 |website=Báo Điện tử Chính phủ |language=vi}}</ref> Theo đó, sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của thị trấn Hoa Sơn, xã Bàn Giản và xã Liên Hòa thành xã mới có tên gọi là '''xã Liên Hòa'''.
+
+Sau khi thực hiện sắp xếp, xã Liên Hòa được chia thành 21 thôn: Bồ Thầy, Cộng Hòa, Đông Lai, Hoa Giang, Hoa Lư, Hòa Bình, Làng Bến, Ngọc Liễn, Phú Cả, Phú Khánh, Phú Ninh, Phú Thụ, Quảng Khuân, Tây Hạ Đông, Tây Hạ Nam, Tây Thượng, Thái Bình, Thượng Đạt, Trụ Thạch, Xích Thổ, Xuân Me.<ref name=":0" />
+
+Ngày [[24 tháng 12]] năm [[2025]], Ủy ban Thường vụ Quốc hội ban hành Nghị quyết số 111/2025/UBTVQH15 về phân loại đô thị (nghị quyết có hiệu lực từ ngày [[1 tháng 1]] năm [[2026]]).<ref>{{Chú thích web |last=xaydungchinhsach.chinhphu.vn |date=2026-01-21 |title=Nghị quyết số 111/2025/UBTVQH15 về phân loại đô thị |url=https://xaydungchinhsach.chinhphu.vn/nghi-quyet-so-111-2025-ubtvqh15-ve-phan-loai-do-thi-119260101170432239.htm |access-date=2026-07-23 |website=xaydungchinhsach.chinhphu.vn |language=vi}}</ref> Theo đó, đô thị loại IV, loại V, thị xã và thị trấn trước khi sắp xếp chưa được công nhận loại đô thị được xác định là đô thị loại III. Một phần xã Liên Hòa được xác định là đô thị loại III (từ đô thị loại V của thị trấn Hoa Sơn cũ).<!-- 
+==Lịch sử==
+Thị trấn Hoa Sơn được thành lập vào ngày [[4 tháng 4]] năm [[2008]] trên cơ sở điều chỉnh 481,57 ha diện tích tự nhiên và 6.730 người của Liễn Sơn; 3,47 ha diện tích tự nhiên và 200 người của xã Thái Hòa.<ref name="ND39">{{Chú thích web|url=https://thuvienphapluat.vn/van-ban/Bat-dong-san/Nghi-dinh-39-2008-ND-CP-dieu-chinh-dia-gioi-hanh-chinh-xa-phuong-thanh-lap-thi-tran-phuong-thuoc-huyen-Me-Linh-Lap-Thach-Phuc-Yen-tinh-Vinh-Phuc-64903.aspx|title=Nghị định 39/2008/NĐ-CP về điều chỉnh địa giới hành chính xã, phường để thành lập thị trấn, phường thuộc các huyện: Mê Linh, Lập Thạch và thị xã Phúc Yên, tỉnh Vĩnh Phúc|last=|first=|date=|website=|archive-url=|archive-date=|url-status=|accessdate =}}</ref>
+
+Sau khi thành lập, thị trấn có 485,04 ha diện tích tự nhiên và 6.930 người. 
+-->
+
+==Chú thích==
+{{tham khảo|30em}}
+
+== Tham khảo ==
+{{sơ khai Phú Thọ}}
+{{Đơn vị hành chính thuộc tỉnh Phú Thọ}}

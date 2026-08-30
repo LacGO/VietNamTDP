@@ -1,0 +1,100 @@
+{
+  "ward_code": "09664",
+  "ward_name": "Vật Lại",
+  "province_code": "01",
+  "resolution": "",
+  "arrangement": "2026_07",
+  "effective_date": "2026-07-01",
+  "verified": "unverified",
+  "extraction": {
+    "source": "vi.wikipedia.org",
+    "title": "(cache)",
+    "mode": "table"
+  },
+  "sources": [
+    {
+      "key": "wiki-09664-1",
+      "title": "Hội đồng nhân dân xã Vật Lại khóa XXI tổ chức thành công Kỳ họp thứ Ba, thông qua nhiều nghị quyết quan trọng",
+      "url": "https://vatlai.hanoi.gov.vn/tin-tuc-su-kien-noi-bat/hdnd-xa-vat-lai-khoa-xxi-to-chuc-thanh-cong-ky-hop-thu-ba-thong-qua-nhieu-nghi-quyet-quan-trong-2730260702073317489.htm?gidzl=Q7K-DOlWP1LiQZepWVjX46PcEJMTy60TUsLgEPxtDHj_PcqxalLd6NOqFJgGzZDD9sTaQMBLf6yHZk5W5m",
+      "date": "2026-07-02",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-09664-2",
+      "title": "Xã Vật Lại tổ chức hội nghị phổ biến, quán triệt nghị quyết về Đề án sáp nhập thôn",
+      "url": "https://vatlai.hanoi.gov.vn/tin-tuc-su-kien-noi-bat/xa-vat-lai-to-chuc-hoi-nghi-pho-bien-quan-triet-nghi-quyet-ve-de-an-sap-nhap-thon-2730260615152424766.htm?gidzl=y_P61DOPY5xtwK82t0ADM_tbGGF02OnHuEOI3yCEsLVavHKDpmoBLUstHGpD3zy1lEGSNs8JtljhqnYCN0",
+      "date": "2026-06-15",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-09664-3",
+      "title": "Danh sách 15 thôn sau sắp xếp, tổ chức lại thôn theo nghị quyết của Ban Chấp hành Đảng bộ xã Vật Lại",
+      "url": "https://web.facebook.com/story.php?story_fbid=1496824859150272&id=100064683157439&rdid=k76Qi7olKd3vAn2M#",
+      "date": "2026-07-04",
+      "type": "wikipedia-ref"
+    }
+  ],
+  "note": "Trích tự động từ Wikipedia tiếng Việt (mode=table). Cần đối chiếu nghị quyết HĐND phường/xã.",
+  "tdp": [
+    {
+      "name": "Đồng Bảng",
+      "type": "thôn"
+    },
+    {
+      "name": "Phong Châu",
+      "type": "thôn"
+    },
+    {
+      "name": "Phú Châu",
+      "type": "thôn"
+    },
+    {
+      "name": "Phú Hữu",
+      "type": "thôn"
+    },
+    {
+      "name": "Phú Xuyên",
+      "type": "thôn"
+    },
+    {
+      "name": "Phúc Xuyên",
+      "type": "thôn"
+    },
+    {
+      "name": "Tăng Cấu",
+      "type": "thôn"
+    },
+    {
+      "name": "Thái Hòa",
+      "type": "thôn"
+    },
+    {
+      "name": "Tri Lai",
+      "type": "thôn"
+    },
+    {
+      "name": "Trung Hà",
+      "type": "thôn"
+    },
+    {
+      "name": "Vật Lại",
+      "type": "thôn"
+    },
+    {
+      "name": "Vật Phụ",
+      "type": "thôn"
+    },
+    {
+      "name": "Vật Yên",
+      "type": "thôn"
+    },
+    {
+      "name": "Yên Bồ",
+      "type": "thôn"
+    },
+    {
+      "name": "Yên Kỳ",
+      "type": "thôn"
+    }
+  ]
+}

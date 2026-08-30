@@ -1,0 +1,57 @@
+{{Thông tin đơn vị hành chính Việt Nam|xã
+| tên = Đức Nhàn
+| hình = 
+| ghi chú hình = 
+| vĩ độ = 21.011671200598574
+| kinh độ = 104.96033178258887
+| diện tích = 107,60 km²
+| dân số = 7.389 người
+| thời điểm dân số = 2025
+| mật độ dân số = {{formatnum:{{#expr:floor({{formatnum:7.389| R}}/{{formatnum:107,60| R}})}} }} người/km²
+| vùng = [[Đông Bắc Bộ]]
+| tỉnh = [[Phú Thọ]]
+| thành lập = 16/6/2025
+| trụ sở UBND = 
+| mã hành chính = 
+| mã bưu chính = 
+}}
+
+'''Đức Nhàn''' là một [[Xã (Việt Nam)|xã]] thuộc tỉnh [[Phú Thọ]], [[Việt Nam]].
+
+==Địa lý==
+Xã Đức Nhàn có vị trí địa lý:
+*Phía bắc giáp xã [[Xuân Đài (xã)|Xuân Đài]].
+*Phía nam và phía đông giáp xã [[Tân Pheo]].
+*Phía tây giáp tỉnh [[Sơn La]] với ranh giới tự nhiên là [[sông Đà]].
+
+==Hành chính==
+Xã Đức Nhàn được chia thành 17 xóm: Ấm, Bàn Hạ, Bưa Cốc, Bưa Sen, Chiềng Cang, Chum Nưa, Cơi, Duốc, Đăm, Đầm Phế, Kế, Lài, Nà Mười, Nghê, Nước Mọc, Tuổng Bãi, Tuổng Đồi.<ref name=":1">{{Chú thích web |last=Bộ Dân tộc và Tôn giáo |date=2026-01-29 |title=Danh sách Thôn vùng đồng bào dân tộc thiểu số và miền núi, thôn đặc biệt khó khăn giai đoạn 2026 - 2030 trên địa bàn tỉnh Phú Thọ |url=http://files.ubdt.gov.vn/files/ecm/source_files/2026/02/05/11252411_4.%20Ph%C3%BA%20Th%E1%BB%8D%201%20(th%C3%B4n).signed_26-02-05.pdf |url-status=live |archive-url=https://web.archive.org/web/20260417090807/http://files.ubdt.gov.vn/files/ecm/source_files/2026/02/05/11252411_4.%20Ph%C3%BA%20Th%E1%BB%8D%201%20(th%C3%B4n).signed_26-02-05.pdf |archive-date=2026-04-17 |access-date=2026-04-17 |website=Cổng Thông tin điện tử Bộ Dân tộc và Tôn giáo}}</ref><ref>{{Chú thích web |last=Ủy ban bầu cử xã Đức Nhàn |date=2026-02-14 |title=Nghị quyết số 1/NQ-UBBC về việc công bố danh sách những người ứng cử đại biểu Hội đồng nhân dân xã Đức Nhàn, nhiệm kỳ 2026 - 2031 theo từng đơn vị bầu cử |url=https://web.facebook.com/story.php?story_fbid=122125334061085489&id=61582564671857&rdid=Kb9I1qgxrgvMyq2b# |url-status=live |archive-url=https://web.archive.org/web/20260420090807/https://web.facebook.com/story.php?story_fbid=122125334061085489&id=61582564671857&rdid=Kb9I1qgxrgvMyq2b# |archive-date=2026-04-20 |access-date=2026-04-20 |website=Trung tâm Dịch vụ sự nghiệp công xã Đức Nhàn - Tỉnh Phú Thọ}}</ref>
+
+==Lịch sử==
+Xã Đức Nhàn trước đây thuộc huyện [[Đà Bắc (huyện)|Đà Bắc]], tỉnh Hòa Bình. Xã tồn tại đến ngày 22 tháng 1 năm 1957 thì bị giải thể, chia thành 8 xã Đồng Ruộng, Đồng Chum, Tân Pheo, Mường Chiềng, Giáp Đắt, Suối Nánh, Mường Tuổng, Đồng Nghê.<ref name=":0">{{chú thích sách |url=https://www.google.com/books/edition/Địa_ch%C3%AD_Hòa_Bình/jUZRAQAAMAAJ |year=2005 |isbn= |doi= |id= |tác giả= |tựa đề=Địa chí Hòa Bình |nhà xuất bản=Nhà xuất bản Chính trị quốc gia |nơi= |trang=842}}</ref>
+
+Ngày [[17 tháng 12]] năm [[2019]], [[Ủy ban Thường vụ Quốc hội]] ban hành Nghị quyết số 830/NQ-UBTVQH14 về việc sắp xếp các đơn vị hành chính cấp huyện, cấp xã thuộc tỉnh Hòa Bình (nghị quyết có hiệu lực từ ngày [[1 tháng 1]] năm [[2020]]).<ref name="NQ830">{{Chú thích web|url=https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/Nghi-quyet-830-NQ-UBTVQH14-2019-sap-xep-don-vi-hanh-chinh-cap-huyen-xa-thuoc-tinh-Hoa-Binh-432100.aspx|tựa đề=Nghị quyết số 830/NQ-UBTVQH14 năm 2019 về việc sắp xếp các đơn vị hành chính cấp huyện, cấp xã thuộc tỉnh Hòa Bình|tác giả=|họ=|tên=|ngày=|website=|url lưu trữ=|ngày lưu trữ=|ngày truy cập=}}</ref> Theo đó, sáp nhập toàn bộ diện tích và dân số của xã Mường Tuổng vào xã Mường Chiềng, thành lập xã Nánh Nghê trên cơ sở toàn bộ xã Suối Nánh và xã Đồng Nghê.
+
+Ngày [[12 tháng 6]] năm [[2025]], [[Quốc hội Việt Nam|Quốc hội]] ban hành Nghị quyết số 202/2025/QH15<ref name="202/2025/QH15">{{Chú thích web |ngày=2025-06-12 |tựa đề=Nghị quyết số 202/2025/QH15 về việc sắp xếp đơn vị hành chính cấp tỉnh |url=https://quochoi.vn/tintuc/Pages/tin-hoat-dong-cua-quoc-hoi.aspx?ItemID=94532 |url-status=live |url lưu trữ=https://web.archive.org/web/20250612150244/https://quochoi.vn/tintuc/Pages/tin-hoat-dong-cua-quoc-hoi.aspx?ItemID=94532 |ngày lưu trữ=2025-06-12 |ngày truy cập=2025-06-12 |website=Cổng thông tin điện tử Quốc hội Việt Nam}}</ref> về việc sắp xếp đơn vị hành chính cấp tỉnh (nghị quyết có hiệu lực từ ngày 12 tháng 6 năm 2025). Theo đó, sáp nhập tỉnh [[Hòa Bình (tỉnh)|Hòa Bình]] và tỉnh [[Vĩnh Phúc (tỉnh)|Vĩnh Phúc]] vào tỉnh Phú Thọ. Địa bàn thành lập xã Đức Nhàn thuộc tỉnh Phú Thọ.
+
+Ngày [[16 tháng 6]] năm [[2025]]:
+
+* Quốc hội ban hành Nghị quyết số 203/2025/QH15 về việc sửa đổi, bổ sung một số điều của Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam (nghị quyết có hiệu lực từ ngày [[16 tháng 6]] năm [[2025]]).<ref>{{Chú thích web |last=xaydungchinhsach.chinhphu.vn |date=2025-06-28 |title=NGHỊ QUYẾT 203/2025/QH15 SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA HIẾN PHÁP NƯỚC CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM |url=https://xaydungchinhsach.chinhphu.vn/nghi-quyet-203-2025-qh15-sua-doi-bo-sung-mot-so-dieu-cua-hien-phap-nuoc-cong-hoa-xa-hoi-chu-nghia-viet-nam-119250616181735552.htm |access-date=2026-07-15 |website=xaydungchinhsach.chinhphu.vn |language=vi}}</ref> Theo đó, kết thúc hoạt động của đơn vị hành chính cấp huyện trong cả nước từ ngày 1 tháng 7 năm 2025.
+* Ủy ban Thường vụ Quốc hội ban hành Nghị quyết số 1676/NQ-UBTVQH15 về việc sắp xếp các đơn vị hành chính cấp xã của tỉnh Phú Thọ năm 2025 (nghị quyết có hiệu lực từ ngày [[16 tháng 6]] năm [[2025]]).<ref>{{Chú thích web |last=xaydungchinhsach.chinhphu.vn |date=2025-06-20 |title=Nghị quyết số 1676/NQ-UBTVQH15 sắp xếp các ĐVHC cấp xã của tỉnh Phú Thọ năm 2025 |url=https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-1676-nq-ubtvqh15-sap-xep-cac-dvhc-cap-xa-cua-tinh-phu-tho-nam-2025-119250616204317326.htm |access-date=2025-09-07 |website=xaydungchinhsach.chinhphu.vn |language=vi}}</ref> Theo đó, sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của xã Mường Chiềng và xã Nánh Nghê (huyện [[Đà Bắc (huyện)|Đà Bắc]]) thành xã mới có tên gọi là '''xã Đức Nhàn'''.<!-- 
+==Lịch sử==
+Địa bàn xã Nánh Nghê hiện nay trước đây vốn là hai xã Suối Nánh và Đồng Nghê thuộc huyện Đà Bắc.
+
+Xã Suối Nánh và xã Đồng Nghê được thành lập vào ngày [[22 tháng 1]] năm [[1957]] trên cơ sở một phần diện tích và dân số của xã Đức Nhàn cũ.<ref>{{chú thích sách|tác giả=|tựa đề=Địa chí Hòa Bình|nhà xuất bản=Nhà xuất bản Chính trị quốc gia|year=2005|nơi=|trang=842|url=https://www.google.com/books/edition/Địa_ch%C3%AD_Hòa_Bình/jUZRAQAAMAAJ|doi=|id=|isbn=}}</ref>
+
+Đến năm 2018, xã Suối Nánh có diện tích 35,55&nbsp;km², dân số là 1.320 người, mật độ dân số đạt 37 người/km². Xã Đồng Nghê có diện tích 32,00&nbsp;km², dân số là 1.852 người, mật độ dân số đạt 58 người/km².
+
+Ngày [[17 tháng 12]] năm [[2019]], Ủy ban Thường vụ Quốc hội ban hành Nghị quyết số 830/NQ-UBTVQH14 về việc sắp xếp các đơn vị hành chính cấp huyện, cấp xã thuộc tỉnh Hòa Bình (nghị quyết có hiệu lực từ ngày [[1 tháng 1]] năm [[2020]]).<ref name=NQ830>{{Chú thích web|url=https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/Nghi-quyet-830-NQ-UBTVQH14-2019-sap-xep-don-vi-hanh-chinh-cap-huyen-xa-thuoc-tinh-Hoa-Binh-432100.aspx|tựa đề=Nghị quyết số 830/NQ-UBTVQH14 năm 2019 về việc sắp xếp các đơn vị hành chính cấp huyện, cấp xã thuộc tỉnh Hòa Bình|tác giả=|họ=|tên=|ngày=|website=|url lưu trữ=|ngày lưu trữ=|ngày truy cập=}}</ref> Theo đó, sáp nhập toàn bộ diện tích và dân số của xã Suối Nánh và xã Đồng Nghê thành xã Nánh Nghê.
+
+ -->
+
+==Chú thích==
+{{tham khảo}}
+
+==Tham khảo==
+{{sơ khai Phú Thọ}}
+{{Đơn vị hành chính thuộc tỉnh Phú Thọ}}

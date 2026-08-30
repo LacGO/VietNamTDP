@@ -1,0 +1,76 @@
+{{Thông tin đơn vị hành chính Việt Nam | Xã
+| tên = Tây Cốc
+| hình = 
+| ghi chú hình = 
+| vĩ độ = 21
+| kinh độ = 105
+| vĩ phút = 37
+| vĩ giây = 5
+| kinh phút = 7
+| kinh giây = 29
+| diện tích = 59,07 km²<ref name=MS/>
+| dân số = 21.227 người<ref name=MS/>
+| thời điểm dân số = 2025
+| mật độ dân số = {{formatnum:{{#expr:floor({{formatnum:21.227|R}}/{{formatnum:59,07|R}})}} }} người/km²
+| dân tộc = 
+| vùng = [[Đông Bắc Bộ]]
+| tỉnh = [[Phú Thọ]]
+| thành lập = 2003<ref>32/2003/NĐ-CP</ref>
+| trụ sở UBND =Khu 3 
+| mã hành chính = 08023<ref>{{Chú thích web |url=https://danhmuchanhchinh.gso.gov.vn/ |title=Tổng cục Thống kê |access-date=2022-03-24 |archive-date=2021-01-10 |archive-url=https://web.archive.org/web/20210110034519/https://www.gso.gov.vn/phuong-phap-thong-ke/danh-muc/don-vi-hanh-chinh/ |url-status=dead }}</ref>
+| mã bưu chính =35319 
+}}'''Tây Cốc''' là một [[Xã (Việt Nam)|xã]] thuộc [[Tỉnh (Việt Nam)|tỉnh]] [[Phú Thọ]], [[Việt Nam]].
+
+== Địa lý ==
+Xã Tây Cốc nằm ở phía Bắc tỉnh [[Phú Thọ]], có vị trí địa lý<ref>{{Chú thích web |title=Đơn vị hành chính Việt Nam |url=https://sapnhap.bando.com.vn/ |access-date=2026-06-29 |website=sapnhap.bando.com.vn}}</ref>:
+
+* Phía Bắc giáp xã [[Thác Bà (xã)|Thác Bà]], tỉnh [[Lào Cai]] và xã [[Chí Đám]].
+* Phía Nam giáp xã [[Yên Kỳ]].
+* Phía Tây giáp xã [[Bằng Luân]].
+* Phía Đông giáp xã [[Đoan Hùng (xã)|Đoan Hùng]] và xã [[Chân Mộng]].
+
+Xã có diện tích 59,07&nbsp;km², dân số năm 2025 là 21.227 người, mật độ dân số đạt {{formatnum:{{#expr:floor({{formatnum:21.227|R}}/{{formatnum:59,07|R}})}} }} người/km².<ref>{{Chú thích web |title=Xã Tây Cốc, Tỉnh Phú Thọ mới sáp nhập 2026 |url=https://tinhthanhvn.com/province/phu-tho/xa-tay-coc |access-date=2026-06-29 |website=Tỉnh Thành Việt Nam |language=vi}}</ref>
+
+==Hành chính==
+Xã Tây Cốc được chia thành 34 khu: 1, 2, 3, 4, 5, An Thái, Bằng Tường, Cát Lâm 1, Cát Lâm 2, Cẩn Độ, Chợ Ngà, Duỗn Trung, Đoàn Kết, Hợp Lai, Hùng Phú, Phố, Phúc Đình, Phúc Khuê, Phúc Thịnh, Phương Nhuế, Tân Long, Tây Mỗ 1, Tây Mỗ 2, Tây Mỗ 3, Tập Kết, Thái Hà, Thuật Cổ, Trung Tâm, Văn Phú, Vân Hùng, Việt Hùng 1, Việt Hùng 2, Việt Hùng 3, Việt Hùng 4.<ref name=":1">{{Chú thích web |last=Bộ Dân tộc và Tôn giáo |date=2026-01-29 |title=Danh sách Thôn vùng đồng bào dân tộc thiểu số và miền núi, thôn đặc biệt khó khăn giai đoạn 2026 - 2030 trên địa bàn tỉnh Phú Thọ |url=http://files.ubdt.gov.vn/files/ecm/source_files/2026/02/05/11252411_4.%20Ph%C3%BA%20Th%E1%BB%8D%201%20(th%C3%B4n).signed_26-02-05.pdf |url-status=live |archive-url=https://web.archive.org/web/20260417090807/http://files.ubdt.gov.vn/files/ecm/source_files/2026/02/05/11252411_4.%20Ph%C3%BA%20Th%E1%BB%8D%201%20(th%C3%B4n).signed_26-02-05.pdf |archive-date=2026-04-17 |access-date=2026-04-17 |website=Cổng Thông tin điện tử Bộ Dân tộc và Tôn giáo}}</ref><ref>{{Chú thích web |last=Xã Tây Cốc - tỉnh Phú Thọ |date=2026-03-03 |title=Danh sách chính thức những người ứng cử đại biểu Hội đồng nhân dân xã Tây Cốc khóa XXIII, nhiệm kỳ 2026 - 2031 |url=https://web.facebook.com/story.php?story_fbid=122160812024923377&id=61577701325566&rdid=v0qr0w56U0fL8guL# |url-status=live |archive-url=https://web.archive.org/web/20260424090807/https://web.facebook.com/story.php?story_fbid=122160812024923377&id=61577701325566&rdid=v0qr0w56U0fL8guL# |archive-date=2026-04-24 |access-date=2026-04-24}}</ref>
+
+==Lịch sử==
+Trước kia, Tây Cốc là một xã thuộc huyện [[Đoan Hùng (huyện)|Đoan Hùng]] cũ.
+
+Ngày [[1 tháng 4]] năm [[2003]], [[Chính phủ Việt Nam|Chính phủ]] ban hành Nghị định số 32/2003/NĐ-CP<ref>{{Chú thích web |last=Cổng Thông tin điện tử Chính phủ |first= |title=Nghị định số 32/2003/NĐ-CP của Chính phủ: Nghị định điều chỉnh địa giới hành chính mở rộng thị xã Phú Thọ, thành lập xã, phường thuộc thị xã Phú Thọ và huyện Đoan Hùng, tỉnh Phú Thọ |url=http://chinhphu.vn/default.aspx?pageid=27160&docid=11743 |access-date=2026-06-29 |website=chinhphu.vn |language=vi}}</ref> về việc điều chỉnh địa giới hành chính mở rộng thị xã Phú Thọ, thành lập xã, phường thuộc thị xã Phú Thọ và huyện Đoan Hùng, tỉnh Phú Thọ. Theo đó, thành lập xã Ca Đình trên cơ sở 1.417 ha diện tích tự nhiên và 2.749 nhân khẩu của xã Tây Cốc.
+
+Sau khi điều chỉnh địa giới hành chính, xã Tây Cốc còn lại 1.534 ha diện tích tự nhiên và 5.502 nhân khẩu.
+
+Đến năm [[2018]]:
+
+* Xã Phong Phú có diện tích 6,56&nbsp;km², dân số là 2.828 người, mật độ dân số đạt 431 người/km².
+* Xã Phương Trung có diện tích 8,41&nbsp;km², dân số là 1.768 người, mật độ dân số đạt 210 người/km².
+* Xã Quế Lâm có diện tích 14,80&nbsp;km², dân số là 4.001 người, mật độ dân số đạt 270 người/km².
+
+Ngày [[17 tháng 12]] năm [[2019]], [[Ủy ban Thường vụ Quốc hội]] ban hành Nghị quyết 828/NQ-UBTVQH14 về việc sắp xếp các đơn vị hành chính cấp xã thuộc tỉnh Phú Thọ (nghị quyết có hiệu lực từ ngày [[1 tháng 1]] năm [[2020]]).<ref name="NQ828" /> Theo đó, sáp nhập toàn bộ diện tích và dân số của ba xã Phong Phú, Phương Trung và Quế Lâm thành xã Phú Lâm.
+
+Ngày [[16 tháng 6]] năm [[2025]]:
+
+* [[Quốc hội Việt Nam|Quốc hội]] ban hành Nghị quyết số 203/2025/QH15 về việc sửa đổi, bổ sung một số điều của Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam (nghị quyết có hiệu lực từ ngày [[16 tháng 6]] năm [[2025]]).<ref>{{Chú thích web|last=xaydungchinhsach.chinhphu.vn|date=2025-06-28|title=NGHỊ QUYẾT 203/2025/QH15 SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA HIẾN PHÁP NƯỚC CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM|url=https://xaydungchinhsach.chinhphu.vn/nghi-quyet-203-2025-qh15-sua-doi-bo-sung-mot-so-dieu-cua-hien-phap-nuoc-cong-hoa-xa-hoi-chu-nghia-viet-nam-119250616181735552.htm|url-status=live|archive-url=https://web.archive.org/web/20260715200606/https://xaydungchinhsach.chinhphu.vn/nghi-quyet-203-2025-qh15-sua-doi-bo-sung-mot-so-dieu-cua-hien-phap-nuoc-cong-hoa-xa-hoi-chu-nghia-viet-nam-119250616181735552.htm|archive-date=2026-07-15|access-date=2026-07-15|website=Báo Điện tử Chính phủ|language=vi}}</ref> Theo đó, kết thúc hoạt động của đơn vị hành chính cấp huyện trong cả nước từ ngày 1 tháng 7 năm 2025.
+
+* Ủy ban Thường vụ Quốc hội ban hành Nghị quyết số 1676/NQ-UBTVQH15 về việc sắp xếp đơn vị hành chính cấp xã của tỉnh [[Phú Thọ]] năm 2025 (nghị quyết có hiệu lực từ ngày [[16 tháng 6]] năm [[2025]]).<ref>{{Chú thích web|last=xaydungchinhsach.chinhphu.vn|date=2025-06-20|title=Nghị quyết số 1676/NQ-UBTVQH15 sắp xếp các ĐVHC cấp xã của tỉnh Phú Thọ năm 2025|url=https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-1676-nq-ubtvqh15-sap-xep-cac-dvhc-cap-xa-cua-tinh-phu-tho-nam-2025-119250616204317326.htm|url-status=live|archive-url=https://web.archive.org/web/20260725082021/https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-1676-nq-ubtvqh15-sap-xep-cac-dvhc-cap-xa-cua-tinh-phu-tho-nam-2025-119250616204317326.htm|archive-date=2026-07-25|access-date=2025-09-07|website=Báo Điện tử Chính phủ|language=vi}}</ref> Theo đó, sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của các xã Phú Lâm, Ca Đình và Tây Cốc thành xã mới có tên gọi là '''xã''' '''Tây Cốc'''.
+
+==Giao thông==
+Tây Cốc có [[quốc lộ 70]] và tỉnh lộ 319 đi qua.<!-- ==Kinh tế==
+Kinh tế của xã rất đa dạng bao gồm: kinh tế nông nghiệp là chủ yếu chiếm tới hơn 70% lực lượng lao động, dịch vụ (buôn bán)và công nghiệp chế biến chè chiếm gần 30% lực lượng lao động.Tây cốc cùng với Nhân dân huyện Đoan Hùng đang từng bước phát triển kinh tế của mình nhưng vẫn còn tương đối chậm vì tương đối xa trung tâm nên việc thu hút đâu tư còn gặp nhiều khó khăn.Kinh tế phát triển chủ yếu là dựa vào sản xuất kinh doanh nhỏ(chủ yếu là sản phẩm lâm sản và chè){{fact|date=7-2014}}
+
+Ưu thế phát triển kinh tế: gần đường quốc lộ thuận lợi cho viêc giao lưu buôn bán, Tây cốc có hệ thống đồi núi thấp đất feralit phù hợp với loại cây chè đã được khai thác từ lâu đó được xem là những ưu thế lớn để Tây Cốc phát triển nền kinh tế hàng hóa từ cây chè.{{fact|date=7-2014}}
+
+==Lịch sử==
+Địa bàn xã Phú Lâm hiện nay trước đây vốn là ba xã: Phong Phú, Phương Trung, Quế Lâm.
+
+Trước khi sáp nhập, xã Phong Phú có diện tích 6,56&nbsp;km², dân số là 2.828 người, mật độ dân số đạt 431 người/km². Xã Phương Trung có diện tích 8,41&nbsp;km², dân số là 1.768 người, mật độ dân số đạt 210 người/km². Xã Quế Lâm có diện tích 14,80&nbsp;km², dân số là 4.001 người, mật độ dân số đạt 270 người/km².
+
+Ngày [[17 tháng 12]] năm [[2019]], Ủy ban Thường vụ Quốc hội ban hành Nghị quyết 828/NQ-UBTVQH14 về việc sắp xếp các đơn vị hành chính cấp xã thuộc tỉnh Phú Thọ (nghị quyết có hiệu lực từ ngày [[1 tháng 1]] năm [[2020]]).<ref name=NQ828>{{Chú thích web|url=https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Nghi-quyet-828-NQ-UBTVQH14-2019-sap-xep-don-vi-hanh-chinh-cap-xa-thuoc-tinh-Phu-Tho-432098.aspx|tựa đề=Nghị quyết số 828/NQ-UBTVQH14 năm 2019 về việc sắp xếp các đơn vị hành chính cấp xã thuộc tỉnh Phú Thọ|tác giả=|họ=|tên=|ngày=|website=|url lưu trữ=|ngày lưu trữ=|ngày truy cập=}}</ref> Theo đó, sáp nhập toàn bộ diện tích và dân số của ba xã Phong Phú, Phương Trung và Quế Lâm thành xã Phú Lâm. -->
+
+==Chú thích==
+{{tham khảo|30em}}
+
+==Tham khảo==
+
+{{sơ khai Phú Thọ}}{{Đơn vị hành chính thuộc tỉnh Phú Thọ}}

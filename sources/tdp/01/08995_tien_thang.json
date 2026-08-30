@@ -1,0 +1,104 @@
+{
+  "ward_code": "08995",
+  "ward_name": "Tiến Thắng",
+  "province_code": "01",
+  "resolution": "",
+  "arrangement": "2026_07",
+  "effective_date": "2026-07-01",
+  "verified": "unverified",
+  "extraction": {
+    "source": "vi.wikipedia.org",
+    "title": "(cache)",
+    "mode": "table"
+  },
+  "sources": [
+    {
+      "key": "wiki-08995-1",
+      "title": "Nghị quyết số 1656/NQ-UBTVQH15 ngày 16 tháng 6 năm 2025 của Ủy ban Thường vụ Quốc hội về việc sắp xếp các đơn vị hành chính cấp xã của thành phố Hà Nội năm 2025",
+      "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf",
+      "date": "2026-05-13",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-08995-2",
+      "title": "Nghị quyết số 203/2025/QH15 ngày 16 tháng 6 năm 2025 của Quốc hội khóa XV, Kỳ họp thứ 9 về việc sửa đổi, bổ sung một số điều của Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam",
+      "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/nq-sua-doi-hien-phap.pdf",
+      "date": "",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-08995-3",
+      "title": "Nghị quyết số 19/NQ-CP ngày 8 tháng 5 năm 2009 của Chính phủ về việc xác lập địa giới hành chính xã Đông Xuân thuộc huyện Quốc Oai; các xã Tiến Xuân, Yên Bình, Yên Trung thuộc huyện Thạch Thất; huyện Mê Linh thuộc thành phố Hà Nội; thành lập quận Hà Đông và các phường trực thuộc; chuyển thành phố Sơn Tây thành thị xã Sơn Tây thuộc thành phố Hà Nội",
+      "url": "https://chinhphu.vn/default.aspx?pageid=27160&docid=86463",
+      "date": "2025-01-20",
+      "type": "wikipedia-ref"
+    }
+  ],
+  "note": "Trích tự động từ Wikipedia tiếng Việt (mode=table). Cần đối chiếu nghị quyết HĐND phường/xã.",
+  "tdp": [
+    {
+      "name": "Bạch Trữ",
+      "type": "thôn"
+    },
+    {
+      "name": "Bến Ngọc",
+      "type": "thôn"
+    },
+    {
+      "name": "Cư An",
+      "type": "thôn"
+    },
+    {
+      "name": "Kim Diến",
+      "type": "thôn"
+    },
+    {
+      "name": "Mỹ Lộc",
+      "type": "thôn"
+    },
+    {
+      "name": "Nam Cường",
+      "type": "thôn"
+    },
+    {
+      "name": "Phú Đa",
+      "type": "thôn"
+    },
+    {
+      "name": "Phú Hữu",
+      "type": "thôn"
+    },
+    {
+      "name": "Phú Mỹ",
+      "type": "thôn"
+    },
+    {
+      "name": "Tân Tiến",
+      "type": "thôn"
+    },
+    {
+      "name": "Thanh Tước",
+      "type": "thôn"
+    },
+    {
+      "name": "Thanh Vân",
+      "type": "thôn"
+    },
+    {
+      "name": "Thái Lai",
+      "type": "thôn"
+    },
+    {
+      "name": "Thượng",
+      "type": "thôn"
+    },
+    {
+      "name": "Văn Lôi",
+      "type": "thôn"
+    },
+    {
+      "name": "Yên Bài",
+      "type": "thôn"
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{{Thông tin đơn vị hành chính Việt Nam|xã
+| tên = Phùng Nguyên
+| hình = 
+| ghi chú hình = 
+| vĩ độ = 21.297642413890166
+| kinh độ = 105.28119291224523
+| diện tích = 30,57 km²
+| dân số = 41.046 người
+| thời điểm dân số = 2025
+| mật độ dân số = {{formatnum:{{#expr:floor({{formatnum:41.046| R}}/{{formatnum:30,57| R}})}} }} người/km²
+| vùng = [[Đông Bắc Bộ]]
+| tỉnh = [[Phú Thọ]]
+| thành lập = 16/6/2025<ref>Nghị quyết số 1676/NQ-UBTVQH15</ref>
+| trụ sở UBND = 
+| mã hành chính = 08521<ref>{{Chú thích web |url=https://danhmuchanhchinh.gso.gov.vn/ |title=Tổng cục Thống kê |access-date=2022-04-10 |archive-date=2021-01-10 |archive-url=https://web.archive.org/web/20210110034519/https://www.gso.gov.vn/phuong-phap-thong-ke/danh-muc/don-vi-hanh-chinh/ |url-status=dead }}</ref>
+| mã bưu chính = 
+|web={{url|phungnguyen.phutho.gov.vn}}
+}}
+{{other|Phùng Nguyên (định hướng)}}
+'''Phùng Nguyên''' là một [[Xã (Việt Nam)|xã]] thuộc [[Tỉnh (Việt Nam)|tỉnh]] [[Phú Thọ]], [[Việt Nam]].
+
+==Địa lý==
+Xã Phùng Nguyên nằm ở phía Bắc tỉnh Phú Thọ, có vị trí địa lý:
+*Phía Đông và Đông Nam giáp xã [[Bản Nguyên]].
+*Phía Tây và giáp xã [[Vạn Xuân, Phú Thọ|Vạn Xuân]].
+*Phía Bắc giáp xã [[Lâm Thao, Phú Thọ|Lâm Thao]] và xã [[Hy Cương]].
+*Phía Tây Nam giáp xã [[Tam Nông, Phú Thọ|Tam Nông]]
+
+Xã Phùng Nguyên có diện tích 30,57&nbsp;km², dân số năm 2025 là 41.046 người<ref>{{Chú thích web |date=2025-06-30 |title=Phú Thọ có 148 xã, phường sau sắp xếp |url=https://phobienphapluat.vn/phu-tho-co-148-xa-phuong-sau-sap-xep-a1549.html |access-date=2026-03-22 |website=Tạp chí Phổ biến và Tham vấn pháp luật Việt Nam |language=vi}}</ref>, mật độ dân số đạt 1,343 người/km².<ref>{{Chú thích web |title=Xã Phùng Nguyên, Tỉnh Phú Thọ mới sáp nhập 2026 |url=https://tinhthanhvn.com/province/phu-tho/xa-phung-nguyen |access-date=2026-03-22 |website=Tỉnh Thành Việt Nam |language=vi}}</ref>
+
+==Hành chính==
+Xã Phùng Nguyên được chia thành 43 khu: 1, 2, 3, 4, 5, 6, 7, 8 (xã Phùng Nguyên cũ), 1, 2, 4, 6, 7, 8, 9, 10, 12, 13, 14, 15, 17, 18 (xã Sơn Vi cũ), 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12 (xã Tứ Xã cũ), Bồng Lạng, Dụng Hiền, Đại Đình, Đại Tụ, Hòa Bình, Lạng Thị, Trung Chính, Trung Thanh, Vu Tử.<ref>{{Chú thích web |last=Trang Thông tin điện tử xã Phùng Nguyên - tỉnh Phú Thọ |date=2026-02-03 |title=Xã Phùng Nguyên thành lập 19 khu vực bỏ phiếu phục vụ bầu cử đại biểu Quốc hội khóa XVI và đại biểu Hội đồng nhân dân các cấp nhiệm kỳ 2026 - 2031 |url=https://phungnguyen.phutho.gov.vn/index.php/bau-cu/xa-phung-nguyen-thanh-lap-19-khu-vuc-bo-phieu-phuc-vu-bau-cu-dai-bieu-quoc-hoi-khoa-xvi-va-dai-bieu-hdnd-cac-cap-nhiem-ky-2026-2031 |url-status=live |archive-url=https://web.archive.org/web/20260423090807/https://phungnguyen.phutho.gov.vn/index.php/bau-cu/xa-phung-nguyen-thanh-lap-19-khu-vuc-bo-phieu-phuc-vu-bau-cu-dai-bieu-quoc-hoi-khoa-xvi-va-dai-bieu-hdnd-cac-cap-nhiem-ky-2026-2031 |archive-date=2026-04-23 |access-date=2026-04-23}}</ref>
+
+==Lịch sử==
+Địa bàn xã Phùng Nguyên hiện nay trước đây vốn là ba xã: Tứ Xã, Sơn Vi, Phùng Nguyên thuộc huyện [[Lâm Thao (huyện)|Lâm Thao]] cũ.
+ 
+Đến năm [[2018]]:
+
+* Xã Kinh Kệ có diện tích 6,08&nbsp;km², dân số là 5.509 người, mật độ dân số đạt 906 người/km².
+* Xã Hợp Hải có diện tích 5,19&nbsp;km², dân số là 3.182 người, mật độ dân số đạt 613 người/km².
+* Xã Sơn Dương có diện tích 3,95&nbsp;km², dân số là 4.501 người, mật độ dân số đạt 1.139 người/km².
+
+Ngày [[17 tháng 12]] năm [[2019]], [[Ủy ban Thường vụ Quốc hội]] ban hành Nghị quyết 828/NQ-UBTVQH14 về việc sắp xếp các đơn vị hành chính cấp xã thuộc tỉnh Phú Thọ (nghị quyết có hiệu lực từ ngày [[1 tháng 1]] năm [[2020]]).<ref name=NQ828>{{Chú thích web|url=https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Nghi-quyet-828-NQ-UBTVQH14-2019-sap-xep-don-vi-hanh-chinh-cap-xa-thuoc-tinh-Phu-Tho-432098.aspx|tựa đề=Nghị quyết số 828/NQ-UBTVQH14 năm 2019 về việc sắp xếp các đơn vị hành chính cấp xã thuộc tỉnh Phú Thọ|tác giả=|họ=|tên=|ngày=|website=|url lưu trữ=|ngày lưu trữ=|ngày truy cập=}}</ref> Theo đó, sáp nhập toàn bộ diện tích và dân số của ba xã Hợp Hải, Kinh Kệ và Sơn Dương thành xã Phùng Nguyên.
+
+Ngày [[16 tháng 6]] năm [[2025]]:
+
+* [[Quốc hội Việt Nam|Quốc hội]] ban hành Nghị quyết số 203/2025/QH15 về việc sửa đổi, bổ sung một số điều của Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam (nghị quyết có hiệu lực từ ngày [[16 tháng 6]] năm [[2025]]).<ref>{{Chú thích web |last=xaydungchinhsach.chinhphu.vn |date=2025-06-28 |title=NGHỊ QUYẾT 203/2025/QH15 SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA HIẾN PHÁP NƯỚC CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM |url=https://xaydungchinhsach.chinhphu.vn/nghi-quyet-203-2025-qh15-sua-doi-bo-sung-mot-so-dieu-cua-hien-phap-nuoc-cong-hoa-xa-hoi-chu-nghia-viet-nam-119250616181735552.htm |url-status=live |archive-url=https://web.archive.org/web/20260715200606/https://xaydungchinhsach.chinhphu.vn/nghi-quyet-203-2025-qh15-sua-doi-bo-sung-mot-so-dieu-cua-hien-phap-nuoc-cong-hoa-xa-hoi-chu-nghia-viet-nam-119250616181735552.htm |archive-date=2026-07-15 |access-date=2026-07-15 |website=Báo Điện tử Chính phủ |language=vi}}</ref> Theo đó, kết thúc hoạt động của đơn vị hành chính cấp huyện trong cả nước từ ngày 1 tháng 7 năm 2025.
+* Ủy ban Thường vụ Quốc hội ban hành Nghị quyết số 1676/NQ-UBTVQH15 về việc sắp xếp đơn vị hành chính cấp xã của tỉnh [[Phú Thọ]] năm 2025 (nghị quyết có hiệu lực từ ngày [[16 tháng 6]] năm [[2025]]).<ref>{{Chú thích web |last=xaydungchinhsach.chinhphu.vn |date=2025-06-20 |title=Nghị quyết số 1676/NQ-UBTVQH15 sắp xếp các ĐVHC cấp xã của tỉnh Phú Thọ năm 2025 |url=https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-1676-nq-ubtvqh15-sap-xep-cac-dvhc-cap-xa-cua-tinh-phu-tho-nam-2025-119250616204317326.htm |url-status=live |archive-url=https://web.archive.org/web/20260725082021/https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-1676-nq-ubtvqh15-sap-xep-cac-dvhc-cap-xa-cua-tinh-phu-tho-nam-2025-119250616204317326.htm |archive-date=2026-07-25 |access-date=2026-07-27 |website=Báo Điện tử Chính phủ |language=vi}}</ref> Theo đó, sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của các xã Tứ Xã, Sơn Vi và Phùng Nguyên thành xã mới có tên gọi là '''xã Phùng Nguyên'''.
+
+== Di tích ==
+*Di chỉ [[văn hóa Phùng Nguyên]] - di tích lịch sử văn hóa cấp quốc gia
+*Đình làng Hữu Bổ - di tích cấp quốc gia
+*Chùa An Phúc - đình Sơn Dương - di tích cấp quốc gia
+*Đình làng Phùng Nguyên
+*Chùa Phúc Nguyên - làng Phùng Nguyên
+*Cổng làng Phùng Nguyên
+*Đình làng Kinh Kệ
+*Chùa Khánh Nghiêm - làng Kinh Kệ
+*Chùa Long Thành - làng Hữu Bổ
+*Chùa Diên Khánh - làng Hữu Bổ
+*Đền làng Hữu Bổ
+*Đình làng Vu Tử
+*Chùa Sơn Thủy - làng Vu Tử
+*Chùa Phúc Khánh
+*Miếu làng Lạng Hồ
+*Đền thờ Lân Hổ Đại Vương
+
+== Danh nhân ==
+* [[Nguyễn Doãn Khánh]]
+
+==Chú thích==
+{{tham khảo}}
+
+== Tham khảo ==
+{{Sơ khai Phú Thọ}}
+{{Đơn vị hành chính thuộc tỉnh Phú Thọ}}

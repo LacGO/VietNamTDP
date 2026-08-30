@@ -1,0 +1,104 @@
+{{Thông tin đơn vị hành chính Việt Nam|xã
+| tên = Hoàng Cương
+| hình = 
+| ghi chú hình =
+| vĩ độ = 21.46079850131167
+| kinh độ = 105.1317130038824
+| diện tích = 39,51 km²
+| dân số = 27.890 người
+| thời điểm dân số = 2025
+| mật độ dân số = {{formatnum:{{#expr:floor({{formatnum:27.890| R}}/{{formatnum:39,51| R}})}} }} người/km²
+| vùng = [[Đông Bắc Bộ]]
+| tỉnh = [[Phú Thọ]]
+| thành lập = 
+| trụ sở UBND =Khu 8 Hoàng Cương 
+| mã hành chính = 08203<ref>{{Chú thích web |url=https://danhmuchanhchinh.gso.gov.vn/ |title=Tổng cục Thống kê |access-date=2021-12-22 |archive-date=2021-01-10 |archive-url=https://web.archive.org/web/20210110034519/https://www.gso.gov.vn/phuong-phap-thong-ke/danh-muc/don-vi-hanh-chinh/ |url-status=dead }}</ref>
+| mã bưu chính =35720 
+|web={{url|hoangcuong.phutho.gov.vn}}
+}}
+{{other|Hoàng Cương (định hướng)}}
+'''Hoàng Cương''' là một [[Xã (Việt Nam)|xã]] thuộc tỉnh [[Phú Thọ]], [[Việt Nam]].
+
+==Địa lý==
+Xã Hoàng Cương nằm ở phía bắc tỉnh [[Phú Thọ]], có vị trí địa lý<ref>{{Chú thích web |title=Đơn vị hành chính Việt Nam |url=https://sapnhap.bando.com.vn/ |access-date=2026-06-07 |website=sapnhap.bando.com.vn}}</ref>:
+*Phía đông giáp xã [[Quảng Yên, Phú Thọ|Quảng Yên]] và xã [[Đông Thành, Phú Thọ|Đông Thành]].
+*Phía tây giáp xã [[Cẩm Khê (xã)|Cẩm Khê]].
+*Phía nam giáp xã [[Chí Tiên]].
+*Phía bắc giáp xã [[Thanh Ba (xã)|Thanh Ba]] và xã [[Vĩnh Chân]].
+
+Xã có diện tích 39,51&nbsp;km², dân số năm 2025 là 27.890 người, mật độ dân số đạt 706 người/km².
+
+==Hành chính==
+Xã Hoàng Cương được chia thành 42 khu: 1 Hoàng Cương, 2 Hoàng Cương, 3 Hoàng Cương, 4 Hoàng Cương, 5 Hoàng Cương, 6 Hoàng Cương, 7 Hoàng Cương, 8 Hoàng Cương, 9 Hoàng Cương, 10 Hoàng Cương, 11 Hoàng Cương, 12 Hoàng Cương, 13 Hoàng Cương, 14 Hoàng Cương, 15 Hoàng Cương, 1 Ninh Dân, 2 Ninh Dân, 3 Ninh Dân, 4 Ninh Dân, 5 Ninh Dân, 6 Ninh Dân, 7 Ninh Dân, 8 Ninh Dân, 9 Ninh Dân, 10 Ninh Dân, 11 Ninh Dân, 12 Ninh Dân, An Ninh 1, An Ninh 2, Bắc Sơn, Đoàn Kết, Hoàng Xá, Hồng Phong, Liên Hà, Phố Ẻn, Quyết Thắng, Quyết Tiến, Tây Sơn, Thanh Ba, Thống Nhất, Trường Sơn, Vũ Yển.<ref name=":12">{{Chú thích web |last=Bộ Dân tộc và Tôn giáo |date=2026-01-29 |title=Danh sách Thôn vùng đồng bào dân tộc thiểu số và miền núi, thôn đặc biệt khó khăn giai đoạn 2026 - 2030 trên địa bàn tỉnh Phú Thọ |url=http://files.ubdt.gov.vn/files/ecm/source_files/2026/02/05/11252411_4.%20Ph%C3%BA%20Th%E1%BB%8D%201%20(th%C3%B4n).signed_26-02-05.pdf |url-status=live |archive-url=https://web.archive.org/web/20260417090807/http://files.ubdt.gov.vn/files/ecm/source_files/2026/02/05/11252411_4.%20Ph%C3%BA%20Th%E1%BB%8D%201%20(th%C3%B4n).signed_26-02-05.pdf |archive-date=2026-04-17 |access-date=2026-04-17 |website=Cổng Thông tin điện tử Bộ Dân tộc và Tôn giáo}}</ref><ref>{{Chú thích web |last=Ủy ban bầu cử xã Hoàng Cương |date=2026-02-23 |title=Nghị quyết số 2/NQ-UBBC về việc công bố danh sách chính thức những người ứng cử đại biểu Hội đồng nhân dân xã Hoàng Cương nhiệm kỳ 2026 - 2031 |url=https://hoangcuong.phutho.gov.vn/index.php/bau-cu/3604-nghi-quyet-ve-viec-cong-bo-danh-sach-nhung-nguoi-ung-cu-va-danh-sach-chinh-thuc-nhung-nguoi-ung-cu-dai-bieu-hdnd-xa-hoang-cuong-khoa-iii-nhiem-ky-2026-2031 |url-status=live |archive-url=https://web.archive.org/web/20260421090807/https://hoangcuong.phutho.gov.vn/index.php/bau-cu/3604-nghi-quyet-ve-viec-cong-bo-danh-sach-nhung-nguoi-ung-cu-va-danh-sach-chinh-thuc-nhung-nguoi-ung-cu-dai-bieu-hdnd-xa-hoang-cuong-khoa-iii-nhiem-ky-2026-2031 |archive-date=2026-04-21 |access-date=2026-04-21 |website=Trang Thông tin điện tử xã Hoàng Cương - tỉnh Phú Thọ}}</ref>
+
+==Lịch sử==
+Địa bàn xã Hoàng Cương trước đây vốn là ba xã Ninh Dân, Mạn Lạn, Hoàng Cương thuộc huyện [[Thanh Ba (huyện)|Thanh Ba]] cũ.
+
+Ngày [[5 tháng 7]] năm [[1977]], Hội đồng Chính phủ ban hành Quyết định số 178-CP về việc sáp nhập phần lớn huyện [[Thanh Ba (huyện)|Thanh Ba]] và toàn bộ huyện [[Đoan Hùng (huyện)|Đoan Hùng]] và huyện [[Hạ Hòa (huyện)|Hạ Hòa]] thành huyện [[Sông Lô (huyện Vĩnh Phú)|Sông Lô]]. Xã Hoàng Cương thuộc huyện Sông Lô.
+
+Ngày [[22 tháng 12]] năm [[1980]], Hội đồng Chính phủ ban hành Quyết định số 377-CP về việc chia huyện Sông Lô thành hai huyện [[Đoan Hùng (huyện)|Đoan Hùng]] và [[Thanh Hòa (huyện)|Thanh Hòa]]. Xã Hoàng Cương thuộc huyện Thanh Hòa.
+
+Ngày [[7 tháng 10]] năm [[1995]], huyện [[Thanh Hòa (huyện)|Thanh Hòa]] được tách ra thành 2 huyện [[Thanh Ba (huyện)|Thanh Ba]] và [[Hạ Hòa (huyện)|Hạ Hòa]]. Xã Hoàng Cương thuộc huyện Thanh Ba.
+
+Ngày [[23 tháng 11]] năm [[1995]], thị trấn Thanh Ba được thành lập trên cơ sở 367 ha diện tích tự nhiên của xã Đào Giã, 47,3 ha diện tích tự nhiên của xã Đồng Xuân, 192 ha diện tích tự nhiên của xã Ninh Dân. Đồng thời, phần còn lại của xã Đào Giã được sáp nhập vào các xã Đông Lĩnh, Đồng Xuân, Ninh Dân và Thái Ninh.
+
+Đến năm [[2018]]:
+
+* Xã Hoàng Cương có diện tích 3,69&nbsp;km², dân số là 3.228 người, mật độ dân số đạt 875 người/km².
+* Xã Thanh Xá có diện tích 6,07&nbsp;km², dân số là 2.184 người, mật độ dân số đạt 360 người/km².
+* Xã Yên Nội có diện tích 6,28&nbsp;km², dân số là 2.775 người, mật độ dân số đạt 442 người/km².
+* Xã Mạn Lạn có diện tích 5,54&nbsp;km², dân số là 3.408 người, mật độ dân số đạt 615 người/km².
+* Xã Phương Lĩnh có diện tích 3,98&nbsp;km², dân số là 1.728 người, mật độ dân số đạt 434 người/km².
+* Xã Vũ Yển có diện tích 2,64&nbsp;km², dân số là 2.380 người, mật độ dân số đạt 902 người/km².
+
+Ngày [[17 tháng 12]] năm [[2019]], [[Ủy ban Thường vụ Quốc hội]] ban hành Nghị quyết 828/NQ-UBTVQH14 về việc sắp xếp các đơn vị hành chính cấp xã thuộc tỉnh Phú Thọ (nghị quyết có hiệu lực từ ngày [[1 tháng 1]] năm [[2020]]).<ref name="NQ828">{{Chú thích web|url=https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Nghi-quyet-828-NQ-UBTVQH14-2019-sap-xep-don-vi-hanh-chinh-cap-xa-thuoc-tinh-Phu-Tho-432098.aspx|tựa đề=Nghị quyết số 828/NQ-UBTVQH14 năm 2019 về việc sắp xếp các đơn vị hành chính cấp xã thuộc tỉnh Phú Thọ|tác giả=|họ=|tên=|ngày=|website=|url lưu trữ=|ngày lưu trữ=|ngày truy cập=}}</ref> Theo đó:
+
+* Sáp nhập toàn bộ diện tích và dân số của hai xã Thanh Xá và Yên Nội vào xã Hoàng Cương.
+* Sáp nhập toàn bộ diện tích và dân số của hai xã Vũ Yển và Phương Lĩnh vào xã Mạn Lạn.
+Ngày [[16 tháng 6]] năm [[2025]]:
+
+* [[Quốc hội Việt Nam|Quốc hội]] ban hành Nghị quyết số 203/2025/QH15 về việc sửa đổi, bổ sung một số điều của Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam (nghị quyết có hiệu lực từ ngày [[16 tháng 6]] năm [[2025]]).<ref>{{Chú thích web |last=xaydungchinhsach.chinhphu.vn |date=2025-06-28 |title=NGHỊ QUYẾT 203/2025/QH15 SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA HIẾN PHÁP NƯỚC CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM |url=https://xaydungchinhsach.chinhphu.vn/nghi-quyet-203-2025-qh15-sua-doi-bo-sung-mot-so-dieu-cua-hien-phap-nuoc-cong-hoa-xa-hoi-chu-nghia-viet-nam-119250616181735552.htm |url-status=live |archive-url=http://web.archive.org/web/20260715200606/https://xaydungchinhsach.chinhphu.vn/nghi-quyet-203-2025-qh15-sua-doi-bo-sung-mot-so-dieu-cua-hien-phap-nuoc-cong-hoa-xa-hoi-chu-nghia-viet-nam-119250616181735552.htm |archive-date=2026-07-15 |access-date=2026-07-15 |website=Báo Điện tử Chính phủ |language=vi}}</ref> Theo đó, kết thúc hoạt động của đơn vị hành chính cấp huyện trong cả nước từ ngày 1 tháng 7 năm 2025.
+* Ủy ban Thường vụ Quốc hội ban hành Nghị quyết số 1676/NQ-UBTVQH15 về việc sắp xếp đơn vị hành chính cấp xã của tỉnh [[Phú Thọ]] năm 2025 (nghị quyết có hiệu lực từ ngày [[16 tháng 6]] năm [[2025]]).<ref>{{Chú thích web |last=xaydungchinhsach.chinhphu.vn |date=2025-06-20 |title=Nghị quyết số 1676/NQ-UBTVQH15 sắp xếp các ĐVHC cấp xã của tỉnh Phú Thọ năm 2025 |url=https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-1676-nq-ubtvqh15-sap-xep-cac-dvhc-cap-xa-cua-tinh-phu-tho-nam-2025-119250616204317326.htm |url-status=live |archive-url=http://web.archive.org/web/20260725082021/https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-1676-nq-ubtvqh15-sap-xep-cac-dvhc-cap-xa-cua-tinh-phu-tho-nam-2025-119250616204317326.htm |archive-date=2026-07-25 |access-date=2026-07-27 |website=Báo Điện tử Chính phủ |language=vi}}</ref> Theo đó, sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của các xã Ninh Dân, Mạn Lạn và Hoàng Cương thành xã mới có tên gọi là '''xã Hoàng Cương'''.
+<!-- 
+==Lịch sử==
+Địa bàn xã Mạn Lạn trước đây vốn là ba xã: Mạn Lạn, Phương Lĩnh, Vũ Yển.
+
+Xã Vũ Yển có tên tục là làng Ẻn hay phố Ẻn.
+
+Trước khi sáp nhập, xã Mạn Lạn có diện tích 5,54&nbsp;km², dân số là 3.408 người, mật độ dân số đạt 615 người/km². Xã Phương Lĩnh có diện tích 3,98&nbsp;km², dân số là 1.728 người, mật độ dân số đạt 434 người/km². Xã Vũ Yển có diện tích 2,64&nbsp;km², dân số là 2.380 người, mật độ dân số đạt 902 người/km².
+
+Ngày [[17 tháng 12]] năm [[2019]], Ủy ban Thường vụ Quốc hội ban hành Nghị quyết 828/NQ-UBTVQH14 về việc sắp xếp các đơn vị hành chính cấp xã thuộc tỉnh Phú Thọ (nghị quyết có hiệu lực từ ngày [[1 tháng 1]] năm [[2020]]).<ref name=NQ828>{{Chú thích web|url=https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Nghi-quyet-828-NQ-UBTVQH14-2019-sap-xep-don-vi-hanh-chinh-cap-xa-thuoc-tinh-Phu-Tho-432098.aspx|tựa đề=Nghị quyết số 828/NQ-UBTVQH14 năm 2019 về việc sắp xếp các đơn vị hành chính cấp xã thuộc tỉnh Phú Thọ|tác giả=|họ=|tên=|ngày=|website=|url lưu trữ=|ngày lưu trữ=|ngày truy cập=}}</ref> Theo đó, sáp nhập toàn bộ diện tích và dân số của hai xã Vũ Yển và Phương Lĩnh vào xã Mạn Lạn.
+
+==Văn hóa==
+===Ẩm thực===
+* Bánh đúc bột lọc
+
+===Di tích===
+* [[Đình Ngũ Giáp]]: thờ Công chúa Phật Nguyệt, tương truyền là một nữ tướng thủy quân của [[Hai Bà Trưng]]. Hội đình hàng năm vào ngày mùng 3 tháng Giêng. -->
+
+== Văn hóa ==
+
+=== Ẩm thực ===
+
+* Bánh đúc bột lọc
+
+=== Di tích ===
+
+* [[Đình Ngũ Giáp]]: thờ Công chúa Phật Nguyệt, tương truyền là một nữ tướng thủy quân của [[Hai Bà Trưng]]. Hội đình hàng năm vào ngày mùng 3 tháng Giêng.
+*Đền Thông (với các lễ mồng 2 tháng Giêng bày cỗ cầu chay, rằm tháng Ba làm lễ cầu mặn, mồng 10 tháng Tám lễ cầu Thần nông)
+*Miếu Bà chúa Ao Giang
+*Làng Ngang
+*Giếng Cả
+*Bãi bông
+*Cội Thị.
+
+==Danh nhân==
+* '''[[Phan Ngọc Minh]]''' (sinh năm 1932) là một bác sĩ quân y, [[đại tá Quân đội nhân dân Việt Nam]], nguyên là Chỉ huy trưởng Trung tâm nghiên cứu và sản xuất thuốc, chủ nhiệm Labo tách chiết thành phẩm máu của [[Học viện Quân y (Việt Nam)|Học viện Quân y]], giám đốc Trung tâm Công nghệ sinh học Đông Nam Á, giám đốc công ty công nghệ y sinh Hoà Lạc.
+
+==Chú thích==
+{{tham khảo|30em}}
+
+==Tham khảo==
+
+{{sơ khai Phú Thọ}}
+{{Đơn vị hành chính thuộc tỉnh Phú Thọ}}

@@ -1,0 +1,173 @@
+{{Thông tin đơn vị hành chính Việt Nam|Xã
+| tên = Quang Minh
+| hình =Trung tam thuong ma Me Linh Plaza-hanoi - panoramio.jpg 
+| ghi chú hình =Trung tâm thương mại Mê Linh Plaza 
+| diện tích = 32,17 km²
+| dân số = 69.623 người
+| thời điểm dân số = 2025
+| mật độ dân số = {{formatnum:{{#expr:floor({{formatnum:69.623| R}}/{{formatnum:32,17| R}})}} }} người/km²
+| vùng = [[Đồng bằng sông Hồng]]
+| thành phố = [[Hà Nội]]
+| thành lập = 
+| mã hành chính =08974<ref>{{Chú thích web |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/19ttg.signed.pdf |title=Quyết định số 19/2025/QĐ-TTg ngày 30 tháng 6 năm 2025 của Thủ tướng Chính phủ về việc Ban hành Bảng danh mục và mã số các đơn vị hành chính Việt Nam |access-date=2026-06-15 |archive-date=2026-06-15 |archive-url=https://web.archive.org/web/20260615034519/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/19ttg.signed.pdf |url-status=dead | website = Cổng Thông tin điện tử Chính phủ}}</ref> 
+| web = {{url|quangminh.hanoi.gov.vn}}
+| vĩ độ = 21.182775727352453| kinh độ = 105.72077884794687|bản đồ 1={{maplink|frame=yes|plain=yes|type=shape|frame-width=280|frame-align=center|stroke-width=3}}|trụ sở UBND=Thôn Nội Đồng<ref>{{Chú thích web |url=https://storage-vnportal.vnpt.vn/gov-hni/6244/VanBan/2025/6/25/TB-729-2025.pdf |title=Thông báo số 729/TB-UBND ngày 25 tháng 6 năm 2025 của Ủy ban nhân dân thành phố Hà Nội về địa điểm trụ sở làm việc của 126 phường, xã sau sắp xếp thuộc phạm vi quản lý của thành phố Hà Nội|access-date=2026-06-15 |archive-date=2026-06-15 |archive-url=https://web.archive.org/web/20260615034519/https://storage-vnportal.vnpt.vn/gov-hni/6244/VanBan/2025/6/25/TB-729-2025.pdf |url-status=dead | website = Cổng Thông tin điện tử Ủy ban nhân dân thành phố Hà Nội}}</ref>|phân chia hành chính=|trụ sở Đảng ủy=Thôn Nội Đồng}}
+{{other|Quang Minh (định hướng)}}
+'''Quang Minh''' là một [[xã]] thuộc thành phố [[Hà Nội]], [[Việt Nam]].
+
+== Địa lý== 
+Xã Quang Minh có trị trí địa lý:
+
+* Phía đông giáp xã [[Phúc Thịnh]]
+* Phía tây giáp xã [[Tiến Thắng]]
+* Phía nam giáp xã [[Mê Linh (xã)|Mê Linh]]
+* Phía bắc giáp xã [[Nội Bài]] với ranh giới tự nhiên là [[sông Cà Lồ]].<ref>{{Chú thích web |last=Viện nghiên cứu Phát triển kinh tế – xã hội Hà Nội |date=2025-07-02 |title=Xã Quang Minh: Những thông tin chi tiết sau sắp xếp |url=https://hanoionline.vn/xa-quang-minh-nhung-thong-tin-chi-tiet-sau-sap-xep-343898.htm |url-status=bot: unknown |archive-url=https://web.archive.org/web/20250702073113/https://hanoionline.vn/xa-quang-minh-nhung-thong-tin-chi-tiet-sau-sap-xep-343898.htm |archive-date=2025-07-02 |access-date=2026-07-01 |website=Cơ quan Báo và Phát thanh Truyền hình Hà Nội }}</ref><ref>{{Chú thích web|last=Cơ quan Báo và Phát thanh Truyền hình Hà Nội|date=2025-07-08|title=Xã Quang Minh: Tất cả thông tin chỉ dẫn bạn cần biết|url=https://hanoionline.vn/xa-quang-minh-tat-ca-thong-tin-chi-dan-ban-can-biet-345323.htm|url-status=bot: unknown|archive-url=https://web.archive.org/web/20260117134414/https://hanoionline.vn/xa-quang-minh-tat-ca-thong-tin-chi-dan-ban-can-biet-345323.htm|archive-date=2026-01-17|access-date=2026-07-11}}</ref>
+Xã Quang Minh có diện tích tự nhiên là 32,17&nbsp;km<sup>2</sup>, quy mô dân số năm 2025 là 69.623 người và mật độ dân số đạt 2.164 người/km<sup>2</sup>.<ref>{{Chú thích web|last=Mai Hữu|date=2026-04-05|title=Hà Nội: Chi tiết phương án tổng thể sắp xếp đơn vị hành chính cấp xã|url=https://hanoimoi.vn/ha-noi-chi-tiet-phuong-an-tong-the-sap-xep-don-vi-hanh-chinh-cap-xa-700278.html|url-status=bot: unknown|archive-url=https://web.archive.org/web/20250710163328/https://hanoimoi.vn/ha-noi-chi-tiet-phuong-an-tong-the-sap-xep-don-vi-hanh-chinh-cap-xa-700278.html|archive-date=2025-07-10|access-date=2026-07-11|website=Cơ quan Báo và Phát thanh, truyền hình Hà Nội}}</ref><ref>Công văn số 2896/BNV-CQĐP ngày 27 tháng 5 năm 2025 của Bộ Nội vụ về việc cung cấp thông tin danh mục dự kiến đơn vị hành chính cấp xã mới.</ref>
+
+== Lịch sử==
+
+=== Trước năm 1976 ===
+
+=== Giai đoạn 1976 – nay ===
+Sau ngày 2 tháng 7 năm 1976, 4 xã: Đại Thịnh, Mê Linh, Thanh Lâm và Tiền Phong thuộc huyện [[Yên Lãng (huyện)|Yên Lãng]]; 2 xã: Kim Hoa và Quang Minh thuộc huyện [[Kim Anh (huyện)|Kim Anh]] của tỉnh [[Vĩnh Phú (tỉnh)|Vĩnh Phú]].
+
+Ngày 5 tháng 7 năm 1977, hợp nhất huyện [[Bình Xuyên (huyện)|Bình Xuyên]] và huyện [[Yên Lãng (huyện)|Yên Lãng]] thành một huyện lấy tên là huyện [[Mê Linh (huyện)|Mê Linh]] và sáp nhập 2 xã của huyện [[Kim Anh (huyện)|Kim Anh]]: Quang Minh và Kim Hoa vào huyện [[Mê Linh (huyện)|Mê Linh]]. Khi đó, 6 xã: Đại Thịnh, Kim Hoa, Mê Linh, Quang Minh, Thanh Lâm và Tiền Phong thuộc huyện [[Mê Linh (huyện)|Mê Linh]] của tỉnh [[Vĩnh Phú (tỉnh)|Vĩnh Phú]].<ref>Quyết định số 178-CP ngày 5 tháng 7 năm 1977 của Hội đồng Chính phủ về việc hợp nhất và điều chỉnh địa giới một số huyện thuộc tỉnh Vĩnh Phú.</ref>
+
+Ngày 29 tháng 12 năm 1978, sáp nhập các xã Đại Thịnh, Mê Linh, Thanh Lâm, Tiền Phong, Quang Minh và Kim Hoa thuộc huyện [[Mê Linh (huyện)|Mê Linh]] của tỉnh [[Vĩnh Phú (tỉnh)|Vĩnh Phú]] vào thành phố [[Hà Nội]].<ref>Nghị quyết ngày 29 tháng 12 năm 1978 của Quốc hội khóa VI, Kỳ họp thứ 4 phê chuẩn việc phân vạch lại địa giới thành phố Hà Nội, thành phố Hồ Chí Minh, các tỉnh Hà Sơn Bình, Vĩnh Phú, Cao Lạng, Bắc Thái, Quảng Ninh và Đồng Nai.</ref>
+
+Ngày 12 tháng 8 năm 1991, chuyển huyện [[Mê Linh (huyện)|Mê Linh]] của thành phố [[Hà Nội]] về tỉnh [[Vĩnh Phú (tỉnh)|Vĩnh Phú]]. Khi đó, 6 xã: Đại Thịnh, Kim Hoa, Mê Linh, Quang Minh, Thanh Lâm và Tiền Phong thuộc huyện [[Mê Linh (huyện)|Mê Linh]] của tỉnh [[Vĩnh Phú (tỉnh)|Vĩnh Phú]].<ref>Nghị quyết ngày 12 tháng 8 năm 1991 của Quốc hội khóa VIII, Kỳ họp thứ 9 về việc điều chỉnh địa giới hành chính một số tỉnh, thành phố trực thuộc Trung ương.</ref>
+
+Ngày 6 tháng 11 năm 1996, chia tỉnh [[Vĩnh Phú (tỉnh)|Vĩnh Phú]] thành hai tỉnh là tỉnh [[Phú Thọ]] và tỉnh [[Vĩnh Phúc (tỉnh)|Vĩnh Phúc]]. Khi đó, 6 xã: Đại Thịnh, Kim Hoa, Mê Linh, Quang Minh, Thanh Lâm và Tiền Phong thuộc huyện [[Mê Linh (huyện)|Mê Linh]] của tỉnh [[Vĩnh Phúc (tỉnh)|Vĩnh Phúc]].<ref>Nghị quyết ngày 6 tháng 11 năm 1996 của Quốc hội khóa IX, Kỳ họp thứ 10 về việc chia và điều chỉnh địa giới hành chính một số tỉnh.</ref>
+
+Ngày 4 tháng 4 năm 2008, thành lập thị trấn Chi Đông và thị trấn Quang Minh trên cơ sở xã Quang Minh.<ref>{{Chú thích web |title=Nghị định số 39/2008/NĐ-CP ngày 4 tháng 4 năm 2008 của Chính phủ về việc điều chỉnh địa giới hành chính xã, phường, thành lập thị trấn, phường thuộc huyện Mê Linh, huyện Lập Thạch, thị xã Phúc Yên, tỉnh Vĩnh Phúc |url=https://chinhphu.vn/default.aspx?pageid=27160&docid=62782 |url-status=live |archive-url=https://web.archive.org/web/20260706400809/https://chinhphu.vn/default.aspx?pageid=27160&docid=62782 |archive-date=2026-07-06 |access-date=2026-07-06 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+
+Ngày 29 tháng 5 năm 2008, chuyển toàn bộ huyện [[Mê Linh (huyện)|Mê Linh]] của tỉnh [[Vĩnh Phúc (tỉnh)|Vĩnh Phúc]] về thành phố [[Hà Nội]].<ref>Nghị quyết số 15/2008/QH12 ngày 29 tháng 5 năm 2008 của Quốc hội về việc điều chỉnh địa giới hành chính thành phố Hà Nội và một số tỉnh có liên quan.</ref>
+
+Ngày 8 tháng 5 năm 2009, xác lập địa giới hành chính của huyện [[Mê Linh (huyện)|Mê Linh]] thuộc thành phố [[Hà Nội]]. Khi đó, 2 thị trấn: Chi Đông, Quang Minh và 5 xã: Đại Thịnh, Kim Hoa, Mê Linh, Thanh Lâm, Tiền Phong thuộc huyện [[Mê Linh (huyện)|Mê Linh]] của thành phố [[Hà Nội]].<ref>{{Chú thích web |title=Nghị quyết số 19/NQ-CP ngày 8 tháng 5 năm 2009 của Chính phủ về việc xác lập địa giới hành chính xã Đông Xuân thuộc huyện Quốc Oai; các xã Tiến Xuân, Yên Bình, Yên Trung thuộc huyện Thạch Thất; huyện Mê Linh thuộc thành phố Hà Nội; thành lập quận Hà Đông và các phường trực thuộc; chuyển thành phố Sơn Tây thành thị xã Sơn Tây thuộc thành phố Hà Nội |url=https://chinhphu.vn/default.aspx?pageid=27160&docid=86463 |url-status=bot: unknown |archive-url=https://web.archive.org/web/20250120035053/https://chinhphu.vn/default.aspx?pageid=27160&docid=86463 |archive-date=2025-01-20 |access-date=2026-07-06 |website=Cổng Thông tin điện tử Chính phủ }}</ref>
+
+Ngày 16 tháng 6 năm 2025:
+
+* Kết thúc hoạt động của đơn vị hành chính cấp huyện trong cả nước.<ref>{{Chú thích web |last= |date= |title=Nghị quyết số 203/2025/QH15 ngày 16 tháng 6 năm 2025 của Quốc hội khóa XV, Kỳ họp thứ 9 về việc sửa đổi, bổ sung một số điều của Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/nq-sua-doi-hien-phap.pdf |url-status=live |archive-url=https://web.archive.org/web/20260613090807/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/nq-sua-doi-hien-phap.pdf |archive-date=2026-06-13 |access-date=2026-06-13 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+* Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của thị trấn Chi Đông, thị trấn Quang Minh, phần còn lại của xã Mê Linh, phần còn lại của xã Tiền Phong, phần còn lại của xã Đại Thịnh, phần còn lại của xã Kim Hoa và xã Thanh Lâm (huyện [[Mê Linh (huyện)|Mê Linh]]) thành xã mới có tên gọi là xã Quang Minh.<ref>{{Chú thích web |title=Nghị quyết số 1656/NQ-UBTVQH15 ngày 16 tháng 6 năm 2025 của Ủy ban Thường vụ Quốc hội về việc sắp xếp các đơn vị hành chính cấp xã của thành phố Hà Nội năm 2025 |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf |url-status=bot: unknown |archive-url=https://web.archive.org/web/20260513110024/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf |archive-date=2026-05-13 |access-date=2026-06-30 |website=Cổng Thông tin điện tử Chính phủ }}</ref>
+* Sau khi sắp xếp, xã Quang Minh được chia thành 31 tổ dân phố – thôn, gồm 18 tổ dân phố và 13 thôn.<ref>8 tổ dân phố, đánh số từ 1 đến 8 của thị trấn Chi Đông cũ; 10 tổ dân phố, đánh số từ 1 đến 9 và 11 của thị trấn Quang Minh cũ; 2 thôn: Ấp Hạ và Liễu Trì của xã Mê Linh cũ; thôn Ấp 1 của xã Tiền Phong cũ; 3 thôn: Đại Bái, Nội Đồng và Thường Lệ của xã Đại Thịnh cũ; 3 thôn: Bảo Tháp, Kim Tiền và Phù Trì của xã Kim Hoa cũ; 4 thôn: Đồng Vỡ, Lâm Hộ, Phú Nhi và Yên Vinh của xã Thanh Lâm cũ.</ref><ref>{{Chú thích web |title=Thông tư số 10/2022/TT-BTNMT ngày 29 tháng 9 năm 2022 của Bộ Tài nguyên và Môi trường về việc Ban hành Danh mục địa danh dân cư, sơn văn, thủy văn, kinh tế – xã hội phục vụ công tác thành lập bản đồ thành phố Hà Nội |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2022/10/10-btnmt.pdf |url-status=bot: unknown |archive-url=https://web.archive.org/web/20260630082812/https://datafiles.chinhphu.vn/cpp/files/vbpq/2022/10/10-btnmt.pdf |archive-date=2026-06-30 |access-date=2026-06-30 |website=Cổng Thông tin điện tử Chính phủ }}</ref><ref>{{Chú thích web |last= |date= |title=Quyết định số 39/QĐ-UBBC ngày 13 tháng 2 năm 2026 của Ủy ban bầu cử xã Quang Minh về việc công bố danh sách chính thức những người ứng cử đại biểu Hội đồng nhân dân xã Quang Minh nhiệm kỳ 2026 – 2031 theo từng đơn vị bầu cử |url=https://sqhx-hanoi.mediacdn.vn/91579363132710912/2026/2/28/39-da-gop-1772266321698369155298.pdf |url-status=bot: unknown |archive-url=https://web.archive.org/web/20260706224340/https://sqhx-hanoi.mediacdn.vn/91579363132710912/2026/2/28/39-da-gop-1772266321698369155298.pdf |archive-date=2026-07-06 |access-date=2026-07-01 |website=Trang Thông tin điện tử xã Quang Minh – thành phố Hà Nội }}</ref>
+
+Ngày 1 tháng 7 năm 2025, 18 tổ dân phố, đánh số từ 1 đến 9, 11 của thị trấn Quang Minh cũ và từ 1 đến 8 của thị trấn Chi Đông cũ được đổi thành 18 thôn với tên gọi lần lượt như sau: Giai Lạc từ 1 đến 3, Gia Thượng 1, 2, Gia Trung 1, 2, Đồng, Ấp Tre, Gia Tân, Hòa Bình và Chi Đông từ 2 đến 8.<ref>1.1. Các tổ dân phố của thị trấn Quang Minh cũ được đổi thành thôn thuộc Ủy ban nhân dân xã Quang Minh với tên gọi như sau: (1) Tổ dân phố số 01 đổi tên thành Thôn Giai Lạc 1, xã Quang Minh; (2) Tổ dân phố số 02 đổi tên thành Thôn Giai Lạc 2, xã Quang Minh; (3) Tổ dân phố số 03 đổi tên thành Thôn Giai Lạc 3, xã Quang Minh; (4) Tổ dân phố số 04 đổi tên thành Thôn Gia Thượng 1, xã Quang Minh; (5) Tổ dân phố số 05 đổi tên thành Thôn Gia Thượng 2, xã Quang Minh; (6) Tổ dân phố số 06 đổi tên thành Thôn Gia Trung 1, xã Quang Minh; (7) Tổ dân phố số 07 đổi tên thành Thôn Gia Trung 2, xã Quang Minh; (8) Tổ dân phố số 08 đổi tên thành Thôn Đồng, xã Quang Minh; (9) Tổ dân phố số 09 đổi tên thành Thôn Ấp Tre, xã Quang Minh; (10) Tổ dân phố số 11 đổi tên thành Thôn Gia Tân, xã Quang Minh; 1.2. Các tổ dân phố của thị trấn Chi Đông cũ được đổi thành thôn thuộc Ủy ban nhân dân xã Quang Minh với tên gọi như sau: (1) Tổ dân phố số 01 đổi tên thành Thôn Hòa Bình, xã Quang Minh; (2) Tổ dân phố số 02 đổi tên thành Thôn Chi Đông 2, xã Quang Minh; (3) Tổ dân phố số 03 đổi tên thành Thôn Chi Đông 3, xã Quang Minh; (4) Tổ dân phố số 04 đổi tên thành Thôn Chi Đông 4, xã Quang Minh; (5) Tổ dân phố số 05 đổi tên thành Thôn Chi Đông 5, xã Quang Minh; (6) Tổ dân phố số 06 đổi tên thành Thôn Chi Đông 6, xã Quang Minh; (7) Tổ dân phố số 07 đổi tên thành Thôn Chi Đông 7, xã Quang Minh; (8) Tổ dân phố số 08 đổi tên thành Thôn Chi Đông 8, xã Quang Minh; 2. Các thôn được giữ nguyên tên và chuyển về xã Quang Minh (1) Thôn Yên Vinh, xã Thanh Lâm cũ nay chuyển thành thôn Yên Vinh, xã Quang Minh; (2) Thôn Phú Nhi, xã Thanh Lâm cũ nay chuyển thành thôn Phú Nhi, xã Quang Minh; (3) Thôn Lâm Hộ, xã Thanh Lâm cũ nay chuyển thành thôn Lâm Hộ, xã Quang Minh; (4) Thôn Đồng Vỡ, xã Thanh Lâm cũ nay chuyển thành thôn Đồng Vỡ, xã Quang Minh; (5) Thôn Phù Trì, xã Kim Hoa cũ nay chuyển thành thôn Phù Trì, xã Quang Minh; (6) Thôn Bảo Tháp, xã Kim Hoa cũ nay chuyển thành thôn Bảo Tháp, xã Quang Minh; (7) Thôn Kim Tiền, xã Kim Hoa cũ nay chuyển thành thôn Kim Tiền, xã Quang Minh; (8) Thôn Thường Lệ, xã Đại Thịnh cũ nay chuyển thành thôn Thường Lệ, xã Quang Minh; (9) Thôn Đại Bái, xã Đại Thịnh cũ nay chuyển thành thôn Đại Bái, xã Quang Minh; (10) Thôn Nội Đồng, xã Đại Thịnh cũ nay chuyển thành thôn Nội Đồng, xã Quang Minh; (11) Thôn Liễu Trì, xã Mê Linh cũ nay chuyển thành thôn Liễu Trì, xã Quang Minh; (12) Thôn Ấp Hạ, xã Mê Linh cũ nay chuyển thành thôn Ấp Hạ, xã Quang Minh; (13) Thôn Ấp 1, xã Tiền Phong cũ nay chuyển thành thôn Ấp 1, xã Quang Minh.</ref><ref>{{Chú thích web |title=Thông báo số 5/TB-UBND ngày 3 tháng 7 năm 2025 của Ủy ban nhân dân xã Quang Minh về việc chuyển đổi các tổ dân phố thành thôn và đổi tên thôn; các thôn được giữ nguyên tên và chuyển về xã Quang Minh |url=http://mnquangminha.giaoducmelinh.edu.vn/upload/28669/20250820/tb_05_doi_ten_22847.pdf |url-status=live |archive-url=https://web.archive.org/web/20260706400809/http://mnquangminha.giaoducmelinh.edu.vn/upload/28669/20250820/tb_05_doi_ten_22847.pdf |archive-date=2026-07-06 |access-date=2026-07-06}}</ref>
+
+Ngày 24 tháng 12 năm 2025, xác định một phần của xã Quang Minh là [[Đô thị Việt Nam|đô thị loại III]].<ref>Chuyển tiếp từ 2 thị trấn: Chi Đông và Quang Minh thuộc huyện Mê Linh.</ref><ref>{{Chú thích web |title=Nghị quyết số 111/2025/UBTVQH15 ngày 24 tháng 12 năm 2025 của Ủy ban Thường vụ Quốc hội về phân loại đô thị |url=https://cdn.nhandan.vn/files/f4a4abf7f9a0ba4a91744616546d850872b76917f90d5a74cc9eebef1369fb6f/111.pdf |url-status=dead |archive-url=https://web.archive.org/web/20260430074852/https://cdn.nhandan.vn/files/f4a4abf7f9a0ba4a91744616546d850872b76917f90d5a74cc9eebef1369fb6f/111.pdf |archive-date=2026-04-30 |access-date=2026-07-12 |website=Báo Nhân dân }}</ref>
+
+Ngày 22 tháng 6 năm 2026, thành lập 10 thôn mới: Giai Lạc, Gia Thượng, Gia Trung, Chi Đông từ 1 đến 3, Thanh Minh, Bảo Kim, Phú Lâm và Thanh Bình.<ref>1. Thôn Giai Lạc: Thành lập trên cơ sở sáp nhập toàn bộ các thôn: Giai Lạc 1, Giai Lạc 2 và Giai Lạc 3; 2. Thôn Gia Thượng: Thành lập trên cơ sở sáp nhập toàn bộ các thôn: Gia Thượng 1 và Gia Thượng 2; 3. Thôn Gia Trung: Thành lập trên cơ sở sáp nhập toàn bộ các thôn: Gia Trung 1, Gia Trung 2 và Khu dân cư Licogi 18, Vinaconex 2, Khu đô thị Long Việt; 4. Thôn Bảo Kim: Thành lập trên cơ sở sáp nhập toàn bộ các thôn: Bảo Tháp và Kim Tiền; 5. Thôn Thanh Minh: Thành lập trên cơ sở sáp nhập toàn bộ các thôn: Ấp Tre và Đồng Vỡ; 6. Thôn Chi Đông 1: Thành lập trên cơ sở sáp nhập toàn bộ các thôn: Chi Đông 1, Chi Đông 2 và Khu đô thị Chi Đông Vinaconex 9; 7. Thôn Chi Đông 2: Thành lập trên cơ sở sáp nhập toàn bộ các thôn: Chi Đông 3, Chi Đông 4 và Chi Đông 5; 8. Thôn Chi Đông 3: Thành lập trên cơ sở sáp nhập toàn bộ các thôn: Chi Đông 6, Chi Đông 7 và Chi Đông 8; 9. Thôn Thanh Bình: Thành lập trên cơ sở sáp nhập toàn bộ các thôn: Ấp Hạ và Ấp 1; 10. Thôn Phú Lâm: Thành lập trên cơ sở sáp nhập toàn bộ các thôn: Phú Nhi và Lâm Hộ; 11. Thôn Yên Vinh: Giữ nguyên trạng; 12. Thôn Đồng: Giữ nguyên trạng; 13. Thôn Gia Tân: Giữ nguyên trạng thôn Gia Tân, Khu đô thị Long Việt Riverside; 14. Thôn Phù Trì: Giữ nguyên trạng; 15. Thôn Nội Đồng: Giữ nguyên trạng thôn Nội Đồng, Khu đô thị HUD; 16. Thôn Thường Lệ: Giữ nguyên trạng; 17. Thôn Đại Bái: Giữ nguyên trạng; 18. Thôn Liễu Trì: Giữ nguyên trạng.</ref><ref name=":1">{{Chú thích web |title=Đề án số 3/ĐA-UBND ngày 5 tháng 6 năm 2026 của Ủy ban nhân dân xã Quang Minh về việc xin ý kiến nhân dân triển khai thực hiện việc sắp xếp, sáp nhập thôn trên địa bàn xã Quang Minh năm 2026 |url=https://sqhx-hanoi.mediacdn.vn/91579363132710912/2026/6/11/da-03-xin-y-kien-nhan-dan-1-1781168550353338990663.pdf |url-status=dead |archive-url=https://web.archive.org/web/20260730201509/https://sqhx-hanoi.mediacdn.vn/91579363132710912/2026/6/11/da-03-xin-y-kien-nhan-dan-1-1781168550353338990663.pdf |archive-date=2026-07-30 |access-date=2026-07-30 |website=Trang Thông tin điện tử xã Quang Minh – thành phố Hà Nội}}</ref><ref name=":0">{{Chú thích web |title=Nghị quyết số 34/NQ-HĐND ngày 22 tháng 6 năm 2026 của Hội đồng nhân dân xã Quang Minh về việc sắp xếp, sáp nhập thôn trên địa bàn xã Quang Minh |url=https://sqhx-hanoi.mediacdn.vn/91579363132710912/2026/6/23/nq-sap-xep-sap-nhap-thon-1782191123461616488246.pdf |url-status=bot: unknown |archive-url=https://web.archive.org/web/20260713090635/https://sqhx-hanoi.mediacdn.vn/91579363132710912/2026/6/23/nq-sap-xep-sap-nhap-thon-1782191123461616488246.pdf |archive-date=2026-07-13 |access-date=2026-07-06 |website=Trang Thông tin điện tử xã Quang Minh – thành phố Hà Nội }}</ref>
+
+== Hành chính==
+Xã Quang Minh được chia thành 18 thôn: Bảo Kim, Chi Đông từ 1 đến 3, Đại Bái, Đồng, Gia Tân, Gia Thượng, Gia Trung, Giai Lạc, Liễu Trì, Nội Đồng, Phú Lâm, Phù Trì, Thanh Bình, Thanh Minh, Thường Lệ và Yên Vinh.<ref name=":1" /><ref name=":0" />
+{| class="wikitable sortable" cellpadding="0" cellspacing="6" width="100%" align="center" style="background: #f9f9f9; border: 1px #aaa solid; margin-top: 16px"
+! colspan="4" style="background: #E6E6FA; font-size: 95%;" |Danh sách các thôn thuộc xã Quang Minh<ref name=":1" /><ref name=":0" />
+|-
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| cellpadding="1" cellspacing="1" width="100%" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Bảo Kim
+|996
+|-
+| align="left" |Chi Đông 1
+|832
+|-
+| align="left" |Chi Đông 2
+|933
+|-
+| align="left" |Chi Đông 3
+|806
+|-
+| align="left" |Đại Bái
+|522
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| cellpadding="1" cellspacing="1" width="100%" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Đồng
+|577
+|-
+| align="left" |Gia Tân
+|454
+|-
+| align="left" |Gia Thượng
+|943
+|-
+| align="left" |Gia Trung
+|1.159
+|-
+| align="left" |Giai Lạc
+|1.045
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| cellpadding="1" cellspacing="1" width="100%" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Liễu Trì
+|620
+|-
+| align="left" |Nội Đồng
+|1.362
+|-
+| align="left" |Phú Lâm
+|1.225
+|-
+| align="left" |Phù Trì
+|1.278
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| cellpadding="1" cellspacing="1" width="100%" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Thanh Bình
+|518
+|-
+| align="left" |Thanh Minh
+|960
+|-
+| align="left" |Thường Lệ
+|1.460
+|-
+| align="left" |Yên Vinh
+|838
+|}
+|}<!-- 
+== Lịch sử== 
+Địa bàn thị trấn Chi Đông ngày nay vốn là thôn Chi Đông thuộc xã Quang Minh cũ.
+
+Thị trấn Chi Đông được thành lập vào ngày 4 tháng 4 năm 2008 trên cơ sở chia xã Quang Minh thành thị trấn Quang Minh và thị trấn Chi Đông<ref>{{Chú thích web| url = https://thuvienphapluat.vn/van-ban/bat-dong-san/Nghi-dinh-39-2008-ND-CP-dieu-chinh-dia-gioi-hanh-chinh-xa-phuong-thanh-lap-thi-tran-phuong-thuoc-huyen-Me-Linh-Lap-Thach-Phuc-Yen-tinh-Vinh-Phuc-64903.aspx| title = Nghị định 39/2008/NĐ-CP về điều chỉnh địa giới hành chính xã, phường để thành lập thị trấn, phường thuộc các huyện Mê Linh, Lập Thạch và thị xã Phúc Yên, tỉnh Vĩnh Phúc| last = | first = | date = | website = | archive-url = | archive-date = | url-status = | access-date = }}</ref>.
+== Hành chính== 
+Thị trấn Chi Đông được chia thành 8 tổ dân phố, đánh số từ 1 đến 8
+
+== Văn hóa==
+
+=== Hội vật Chi Đông=== 
+Hội vật truyền thống của Chi Đông có từ những năm 70 của thế kỷ trước, thu hút rất nhiều đô vật nổi tiếng trong cả nước về thi đấu. Tuy nhiên, sau những năm 80 bị mai một dần. Đến năm 1993, đền chùa Chi Đông được công nhận là di tích lịch sử quốc gia, chính quyền và Nhân dân địa phương khôi phục lại hội vật truyền thống của làng. Từ đó đến nay, năm nào, Chi Đông cũng tổ chức lễ hội truyền thống, với rất nhiều hoạt động văn hóa, văn nghệ, thể thao, trong đó đặc sắc và hào hứng nhất là môn vật.<ref>[https://chidongquetoi.blogspot.com/2017/03/le-hoi-vat-co-truyen-chi-ong-me-linh-ha.html Thông tin về lễ hội vật Chi Đông]</ref>
+
+=== Rượu gạo Chi Đông=== 
+Rượu Chi Đông là là rượu thủ công nấu từ gạo, một đặc sản truyền thống của người Chi Đông từ cổ xưa. Người Chi Đông tự làm men, ủ cơm và cất thành Rượu. Rượu Chi Đông được sử dụng trong các sự kiện ma chay, cưới hỏi, lễ Tết...
+
+Rượu Chi Đông nặng, nhưng êm và không đau đầu. Điều này xưa vẫn nổi tiếng trong vùng.
+
+Ngày nay, Chi Đông chỉ còn chừng 4 đến 5 gia đình vẫn còn làm nghề nấu rượu thủ công. Mặc dù vậy, chất lượng và hương vị của Rượu Chi Đông vẫn là đặc sản của Chi Đông.
+
+== Lịch sử== 
+Xã Kim Hoa ngày nay, vào đầu thế kỷ 19, là phần đất xã Kim Hoa, tổng Kim Hoa, huyện Kim Hoa (sau đến giữa thế kỷ 19 đổi thành huyện [[Kim Anh]], nay là một phần huyện Sóc Sơn), phủ Bắc Hà (năm Minh Mạng đổi là phủ Thiên Phúc), trấn [[Kinh Bắc]] (năm 1831 thuộc tỉnh [[Bắc Ninh]])<ref>Cuốn Tên làng xã Việt Nam đầu thế kỷ 19, trang 73.</ref>.
+
+Ngày [[5 tháng 7]] năm [[1977]], xã Kim Hoa được sáp nhập vào huyện Mê Linh mới thành lập, khi đó thuộc tỉnh [[Vĩnh Phú (tỉnh)| Vĩnh Phú]]<ref>{{Chú thích web| url = https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/Quyet-dinh-178-CP-hop-nhat-dieu-chinh-dia-gioi-huyen-thuoc-tinh-Vinh-Phu-57438.aspx| title = Quyết định 178-CP ngày ngày 5 tháng 7 năm 1977 về việc hợp nhất và điều chỉnh địa giới một số huyện thuộc tỉnh Vĩnh Phú| last = | first = | date = | website = | archive-url = | archive-date = | url-status = | access-date = }}</ref>.
+-->
+
+==Danh nhân==
+* [[Đỗ Nhuận (quan)|Đỗ Nhuận]] (1440 – ?) là danh thần [[nhà Lê sơ]] trong [[lịch sử Việt Nam]].
+
+== Chú thích== 
+{{tham khảo}}
+
+== Tham khảo== 
+{{sơ khai Hà Nội}}
+{{Đơn vị hành chính thuộc thành phố Hà Nội}}

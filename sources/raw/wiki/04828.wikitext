@@ -1,0 +1,131 @@
+{{Thông tin đơn vị hành chính Việt Nam | phường
+| tên = Thống Nhất
+| hình = 
+| ghi chú hình = 
+| vĩ độ = 20.782689560840403
+| kinh độ = 105.344144024819
+| diện tích = 55,21 km²
+| dân số = 22.897 người
+| thời điểm dân số = 2025
+| mật độ dân số = {{formatnum:{{#expr:floor({{formatnum:22.897| R}}/{{formatnum:55,21| R}})}} }} người/km²
+| vùng = [[Đông Bắc Bộ]]
+| tỉnh = [[Phú Thọ]]
+| thành lập = 16/6/2025
+| trụ sở UBND =Đường Trần Đăng Ninh, Tổ 7 
+| mã hành chính = 
+| mã bưu chính = 
+|web={{url|thongnhat.phutho.gov.vn}}
+}}
+{{other|Thống Nhất (định hướng)}}
+'''Thống Nhất''' là một [[Phường (Việt Nam)|phường]] thuộc tỉnh [[Phú Thọ]], [[Việt Nam]].
+
+==Địa lý==
+Phường Thống Nhất có vị trí địa lý:
+*Phía Bắc giáp xã [[Đà Bắc (xã)|Đà Bắc]], phường [[Tân Hòa, Phú Thọ|Tân Hòa]] và phường [[Hòa Bình, Phú Thọ|Hòa Bình]].
+*Phía Nam giáp xã [[Thung Nai]] và xã [[Cao Phong (xã)|Cao Phong]].
+*Phía Đông giáp phường [[Kỳ Sơn (phường)|Kỳ Sơn]], xã [[Nật Sơn, Phú Thọ|Nật Sơn]] và xã [[Mường Động]].
+*Phía Tây giáp xã [[Tiền Phong, Phú Thọ|Tiền Phong]].
+
+==Hành chính==
+Theo [https://thongnhat.phutho.gov.vn/Chuyen-muc-tin/tabid/2/details/4367 Nghị quyết số '''20/NQ-HĐND''' ngày '''25 tháng 6 năm 2026'''] của HĐND phường Thống Nhất về việc sắp xếp, đổi tên tổ dân phố từ ngày '''1 tháng 7 năm 2026''', địa bàn phường được tổ chức lại còn '''16 tổ dân phố''' hình thành trên cơ sở sáp nhập các tổ dân phố thuộc các phường cũ Thái Bình, Thống Nhất, Dân Chủ và xóm Nưa (xã Vầy Nưa cũ), cụ thể:
+{| class="wikitable"
+!Tổ dân phố mới
+!Các tổ dân phố/xóm cũ
+|-
+|Tổ dân phố số 1
+|TDP 1, 2 và 4 (phường Thái Bình cũ)
+|-
+|Tổ dân phố số 2
+|TDP 3 và 5 (phường Thái Bình cũ)
+|-
+|Tổ dân phố số 3
+|TDP 6 (phường Thái Bình cũ) và TDP 1 (phường Thống Nhất cũ)
+|-
+|Tổ dân phố số 4
+|TDP 7 (phường Thái Bình cũ) và TDP 2 (phường Thống Nhất cũ)
+|-
+|Tổ dân phố số 5
+|TDP 8, 9 và 10 (phường Thái Bình cũ)
+|-
+|Tổ dân phố số 6
+|TDP 3 và 4 (phường Thống Nhất cũ)
+|-
+|Tổ dân phố số 7
+|TDP 5 và 6 (phường Thống Nhất cũ)
+|-
+|Tổ dân phố số 8
+|TDP 7 và 9 (phường Thống Nhất cũ)
+|-
+|Tổ dân phố số 9
+|TDP 9 (phường Dân Chủ cũ) và TDP 8 (phường Thống Nhất cũ)
+|-
+|Tổ dân phố số 10
+|TDP 7 và 8 (phường Dân Chủ cũ)
+|-
+|Tổ dân phố số 11
+|TDP 5 và 6 (phường Dân Chủ cũ)
+|-
+|Tổ dân phố số 12
+|TDP 2 và 14 (phường Dân Chủ cũ)
+|-
+|Tổ dân phố số 13
+|TDP 10, 11 và 12 (phường Dân Chủ cũ)
+|-
+|Tổ dân phố số 14
+|TDP 1 và 13 (phường Dân Chủ cũ)
+|-
+|Tổ dân phố số 15
+|TDP 3 và 4 (phường Dân Chủ cũ)
+|-
+|Tổ dân phố số 16
+|Tổ Vôi và tổ Tháu (phường Thái Bình cũ) cùng xóm Nưa (xã Vầy Nưa cũ)
+|}
+
+==Lịch sử==
+Trước đây, Thống Nhất là một phường thuộc thành phố [[Hòa Bình (thành phố)|Hòa Bình]], tỉnh [[Hòa Bình (tỉnh)|Hòa Bình]] cũ.
+
+[[Tháng 6]] năm [[1955]], các xã Dân Chủ, Thái Bình và Thống Nhất thuộc huyện [[Kỳ Sơn (huyện Hòa Bình)|Kỳ Sơn]] trên cơ sở một phần diện tích và dân số của xã [[Hòa Bình, Phú Thọ|Quỳnh Lâm]] cũ.<ref>{{chú thích sách|tác giả=|tựa đề=Kỳ Sơn, lịch sử kháng chiến chống thực dân Pháp và đế quốc Mỹ (1945-1975)|nhà xuất bản=Nhà xuất bản Quân đội nhân dân|year=2003|nơi=|trang=11|url=https://www.google.com/books/edition/Kỳ_Sơn_lịch_sử_kháng_chié̂n_ch/T2RQAQAAMAAJ|doi=|id=|isbn=}}</ref>
+
+Ngày [[22 tháng 1]] năm [[1957]], xóm Ngòi và xóm Sủ Bến thuộc xã Dân Chủ được sáp nhập vào xã Sủ Ngòi mới thành lập.<ref>{{Chú thích web |tác giả= |họ= |tên= |ngày=2021-01-12 |tựa đề=Chính phủ báo cáo giải trình một số nội dung về việc thành lập đơn vị hành chính thuộc các tỉnh Bình Định, Hòa Bình và Bắc Ninh |url=http://quochoi.vn/tintuc/Pages/tin-hoat-dong-cua-quoc-hoi.aspx?ItemID=51224 |url lưu trữ= |ngày lưu trữ= |ngày truy cập= |website=Cổng thông tin điện tử Quốc hội Việt Nam}}</ref>
+
+Ngày [[11 tháng 11]] năm [[1983]], [[Hội đồng Bộ trưởng]] ban hành Quyết định số 130/HĐBT về việc mở rộng thị xã Hòa Bình thuộc tỉnh Hà Sơn Bình.<ref>{{Chú thích web |last=Cổng Thông tin điện tử Chính phủ |first= |title=Quyết định số 130/HĐBT của Hội đồng Bộ trưởng: Quyết định về việc mở rộng thị xã Hoà Bình thuộc tỉnh Hà Sơn Bình |url=http://chinhphu.vn/default.aspx?pageid=27160&docid=6612 |access-date=2026-08-29 |website=www.chinhphu.vn |language=vi}}</ref> Theo đó, chuyển xã Thái Bình về thị xã Hòa Bình quản lý.
+
+Ngày [[24 tháng 4]] năm [[1988]], Hội đồng Bộ trưởng ban hành Quyết định 71/HĐBT về việc phân vạch địa giới hành chính huyện Kỳ Sơn và thị xã Hòa Bình thuộc tỉnh Hà Sơn Bình.<ref>{{Chú thích web |last=Cổng Thông tin điện tử Chính phủ |first= |title=Quyết định số 71/HĐBT của Hội đồng Bộ trưởng: Quyết định về việc phân vạch địa giới hành chính huyện Kỳ Sơn và thị xã Hoà Bình thuộc tỉnh Hà Sơn Bình |url=http://vanban.chinhphu.vn/default.aspx?pageid=27160&docid=269 |access-date=2026-08-29 |website=www.chinhphu.vn}}</ref> Theo đó, chuyển xã Dân Chủ và xã Thống Nhất về thị xã Hòa Bình quản lý.
+
+Ngày [[22 tháng 10]] năm [[2002]], [[Chính phủ Việt Nam|Chính phủ]] ban hành Nghị định số 84/2002/NĐ-CP.<ref>{{Chú thích web |last=Cổng Thông tin điện tử Chính phủ |first= |title=Nghị định số 84/2002/NĐ-CP của Chính phủ: Nghị định về việc thành lập các phường Thái Bình, Thịnh Lang thuộc thị xã Hoà Bình, tỉnh Hoà Bình |url=http://vanban.chinhphu.vn/default.aspx?pageid=27160&docid=11140 |access-date=2026-08-29 |website=vanban.chinhphu.vn |language=vi}}</ref> Theo đó, thành lập phường Thái Bình trên cơ sở toàn bộ diện tích và dân số của xã Thái Bình.
+
+Sau khi thành lập, phường Thái Bình có 1.198,89 ha diện tích tự nhiên, dân số là 5.242 người.
+
+Đến năm [[2018]]:
+
+* Phường Thái Bình có diện tích 9,85&nbsp;km², dân số là 5.809 người, mật độ dân số đạt 590 người/km².
+* Xã Dân Chủ có diện tích 7,80&nbsp;km², dân số là 4.076 người, mật độ dân số đạt 523 người/km².
+* Xã Thống Nhất có diện tích 15,8&nbsp;km², dân số là 3.911 người, mất độ dân số đạt 248 người/km².
+
+Ngày [[17 tháng 12]] năm [[2019]], [[Ủy ban Thường vụ Quốc hội]] ban hành Nghị quyết số 830/NQ-UBTVQH14 về việc sắp xếp các đơn vị hành chính cấp huyện, cấp xã thuộc tỉnh [[Hòa Bình (tỉnh)|Hòa Bình]] (nghị quyết có hiệu lực từ ngày [[1 tháng 1]] năm [[2020]]).<ref>{{Chú thích web |title=Nghị quyết số 830/NQ-UBTVQH14 về việc sắp xếp các đơn vị hành chính cấp huyện, cấp xã thuộc tỉnh Hòa Bình. |url=https://congbao.chinhphu.vn/van-ban/nghi-quyet-so-830-nq-ubtvqh14-30318.htm |access-date=2026-08-29 |website=congbao.chinhphu.vn |language=vi}}</ref> Theo đó:
+
+* Sáp nhập 1,17&nbsp;km² diện tích tự nhiên, 4.141 người của khu vực Mát thuộc phường Chăm Mát vừa giải thể với toàn bộ diện tích tự nhiên, dân số của xã Dân Chủ.
+* Sáp nhập 1,71&nbsp;km² diện tích tự nhiên và 3.545 người của khu vực Chăm thuộc phường Chăm Mát vừa giải thể với  toàn bộ diện tích tự nhiên và dân số của xã Thống Nhất thành phường Thống Nhất.
+* Sáp nhập 11,09&nbsp;km² diện tích tự nhiên và 578 người của xã Thái Thịnh vào phường Thái Bình.
+
+Sau khi thành lập hay điều chỉnh:
+
+* Phường Dân Chủ có 8,97&nbsp;km² diện tích tự nhiên và dân số là 8.217 người.
+* Phường Thái Bình có 20,94&nbsp;km² diện tích tự nhiên và dân số là 6.387 người.
+* Phường Thống Nhất có 17,51&nbsp;km² diện tích tự nhiên và dân số là 7.456 người.
+
+Ngày [[12 tháng 6]] năm [[2025]], [[Quốc hội Việt Nam|Quốc hội]] ban hành Nghị quyết số 202/2025/QH15<ref name="202/2025/QH15">{{Chú thích web |ngày=2025-06-12 |tựa đề=Nghị quyết số 202/2025/QH15 về việc sắp xếp đơn vị hành chính cấp tỉnh |url=https://quochoi.vn/tintuc/Pages/tin-hoat-dong-cua-quoc-hoi.aspx?ItemID=94532 |url-status=live |url lưu trữ=https://web.archive.org/web/20250612150244/https://quochoi.vn/tintuc/Pages/tin-hoat-dong-cua-quoc-hoi.aspx?ItemID=94532 |ngày lưu trữ=2025-06-12 |ngày truy cập=2025-06-12 |website=Cổng thông tin điện tử Quốc hội Việt Nam}}</ref> về việc sắp xếp đơn vị hành chính cấp tỉnh (Nghị quyết có hiệu lực từ ngày 12 tháng 6 năm 2025). Theo đó, sáp nhập tỉnh [[Hòa Bình (tỉnh)|Hòa Bình]] và tỉnh [[Vĩnh Phúc (tỉnh)|Vĩnh Phúc]] vào tỉnh Phú Thọ. Phường Thống Nhất thuộc tỉnh Phú Thọ.
+
+Ngày [[16 tháng 6]] năm [[2025]]:
+
+* Quốc hội ban hành Nghị quyết số 203/2025/QH15 về việc sửa đổi, bổ sung một số điều của Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam (nghị quyết có hiệu lực từ ngày [[16 tháng 6]] năm [[2025]]).<ref>{{Chú thích web |last=xaydungchinhsach.chinhphu.vn |date=2025-06-28 |title=NGHỊ QUYẾT 203/2025/QH15 SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA HIẾN PHÁP NƯỚC CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM |url=https://xaydungchinhsach.chinhphu.vn/nghi-quyet-203-2025-qh15-sua-doi-bo-sung-mot-so-dieu-cua-hien-phap-nuoc-cong-hoa-xa-hoi-chu-nghia-viet-nam-119250616181735552.htm |url-status=live |archive-url=https://web.archive.org/web/20260715200606/https://xaydungchinhsach.chinhphu.vn/nghi-quyet-203-2025-qh15-sua-doi-bo-sung-mot-so-dieu-cua-hien-phap-nuoc-cong-hoa-xa-hoi-chu-nghia-viet-nam-119250616181735552.htm |archive-date=2026-07-15 |access-date=2026-07-15 |website=Báo Điện tử Chính phủ |language=vi }}</ref> Theo đó, kết thúc hoạt động của đơn vị hành chính cấp huyện trong cả nước từ ngày 1 tháng 7 năm 2025.
+
+* Ủy ban Thường vụ Quốc hội ban hành Nghị quyết số 1676/NQ-UBTVQH15 về việc sắp xếp đơn vị hành chính cấp xã của tỉnh [[Phú Thọ]] năm 2025 (nghị quyết có hiệu lực từ ngày [[16 tháng 6]] năm [[2025]]).<ref>{{Chú thích web |last=xaydungchinhsach.chinhphu.vn |date=2025-06-20 |title=Nghị quyết số 1676/NQ-UBTVQH15 sắp xếp các ĐVHC cấp xã của tỉnh Phú Thọ năm 2025 |url=https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-1676-nq-ubtvqh15-sap-xep-cac-dvhc-cap-xa-cua-tinh-phu-tho-nam-2025-119250616204317326.htm |url-status=live |archive-url=https://web.archive.org/web/20260725082021/https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-1676-nq-ubtvqh15-sap-xep-cac-dvhc-cap-xa-cua-tinh-phu-tho-nam-2025-119250616204317326.htm |archive-date=2026-07-25 |access-date=2025-09-07 |website=Báo Điện tử Chính phủ |language=vi }}</ref> Theo đó, sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của các phường Dân Chủ, Thái Bình, Thống Nhất (thành phố [[Hòa Bình (thành phố)|Hòa Bình]]) và một phần xã Vầy Nưa (huyện [[Đà Bắc (huyện)|Đà Bắc]]) thành phường mới có tên gọi là '''phường Thống Nhất'''.
+
+==Chú thích==
+{{tham khảo|30em}}
+
+==Tham khảo==
+
+{{sơ khai Phú Thọ}}
+{{Đơn vị hành chính thuộc tỉnh Phú Thọ}}

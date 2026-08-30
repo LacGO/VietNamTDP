@@ -1,0 +1,230 @@
+{{Thông tin đơn vị hành chính Việt Nam |Phường
+| tên = Đống Đa
+| ghi chú hình = 
+| vĩ độ = 21.017856709220183
+| kinh độ = 105.82491891993277
+| diện tích = 2,07 km²
+| dân số = 81.358 người
+| thời điểm dân số = 2025
+| mật độ dân số = {{formatnum:{{#expr:floor({{formatnum:81.358| R}}/{{formatnum:2,07| R}})}} }} người/km²
+| vùng = [[Đồng bằng sông Hồng]]
+| thành phố = [[Hà Nội]]
+| trụ sở UBND = Số 59 phố Hoàng Cầu<ref>{{Chú thích web |url=https://storage-vnportal.vnpt.vn/gov-hni/6244/VanBan/2025/6/25/TB-729-2025.pdf |title=Thông báo số 729/TB-UBND ngày 25 tháng 6 năm 2025 của Ủy ban nhân dân thành phố Hà Nội về địa điểm trụ sở làm việc của 126 phường, xã sau sắp xếp thuộc phạm vi quản lý của thành phố Hà Nội|access-date=2026-06-15 |archive-date=2026-06-15 |archive-url=https://web.archive.org/web/20260615034519/https://storage-vnportal.vnpt.vn/gov-hni/6244/VanBan/2025/6/25/TB-729-2025.pdf |url-status=dead | website = Cổng Thông tin điện tử Ủy ban nhân dân thành phố Hà Nội}}</ref>
+| mã hành chính =00235<ref>{{Chú thích web |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/19ttg.signed.pdf |title=Quyết định số 19/2025/QĐ-TTg ngày 30 tháng 6 năm 2025 của Thủ tướng Chính phủ về việc Ban hành Bảng danh mục và mã số các đơn vị hành chính Việt Nam |access-date=2026-06-15 |archive-date=2026-06-15 |archive-url=https://web.archive.org/web/20260615034519/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/19ttg.signed.pdf |url-status=dead | website = Cổng Thông tin điện tử Chính phủ}}</ref> 
+| web ={{url|dongda.hanoi.gov.vn}} 
+| bản đồ 1 = {{maplink|frame=yes|plain=yes|type=shape|frame-width=280|frame-align=center|stroke-width=3}}| nhiều hình = {{multiple image
+| border = infobox
+| total_width = 280
+| image_style = border:1;
+| caption_align = center
+| perrow = 1/2/3/2
+| image3 = Dong Da Lake Hoan Cau view 2026.webp
+| caption3 = Hồ Hoàng Cầu
+| image4 = Phố Tây Sơn, quận Đống Đa, Hà Nội 02.jpg
+| caption4 = Phố Tây Sơn, phường Đống Đa, Hà Nội
+| image5 = Gò Đống Đa.JPG 
+| caption5 = Tượng Nguyễn Huệ tại Gò Đống Đa, phường Đống Đa
+}}|trụ sở Đảng ủy=Số 59 phố Hoàng Cầu}}
+{{other|Đống Đa (định hướng)}}
+'''Đống Đa''' là một [[Phường (Việt Nam)|phường]] thuộc thành phố [[Hà Nội]], [[Việt Nam]].
+== Địa lý==
+Phường Đống Đa có vị trí địa lý:
+
+* Phía đông giáp phường [[Văn Miếu – Quốc Tử Giám]] và phường [[Kim Liên (phường)|Kim Liên]] (ranh giới đi theo đường Xã Đàn – phố Nam Đồng – phố Đặng Văn Ngữ – phố Hồ Đắc Di – phố Tây Sơn)
+* Phía tây giáp phường [[Láng (phường)|Láng]] (ranh giới đi theo phố Láng Hạ)
+* Phía nam giáp phường [[Thanh Xuân (phường)|Thanh Xuân]] và phường [[Khương Đình]] (ranh giới đi dọc theo đường Nguyễn Trãi – [[sông Tô Lịch]])
+* Phía bắc giáp phường [[Ô Chợ Dừa (phường)|Ô Chợ Dừa]] (ranh giới đi theo phố Thái Hà – phố Hoàng Cầu – đường Xã Đàn).<ref>{{Chú thích web |last=Báo Điện tử Chính phủ|date=2025-04-28|title=Chi tiết dự thảo phương án sắp xếp các phường của Hà Nội|url=https://xaydungchinhsach.chinhphu.vn/chi-tiet-du-thao-phuong-an-sap-xep-cac-phuong-cua-ha-noi-119250421100531902.htm|url-status=live|archive-url=https://web.archive.org/web/20260703400809/https://xaydungchinhsach.chinhphu.vn/chi-tiet-du-thao-phuong-an-sap-xep-cac-phuong-cua-ha-noi-119250421100531902.htm|archive-date=2026-07-03|access-date=2026-07-03|website=Xây dựng chính sách, pháp luật}}</ref><ref>{{Chú thích web |last=Viện nghiên cứu Phát triển kinh tế – xã hội Hà Nội|date=2025-07-02|title=Phường Đống Đa: Những thông tin chi tiết sau sắp xếp|url=https://hanoionline.vn/phuong-dong-da-nhung-thong-tin-chi-tiet-sau-sap-xep-344133.htm|url-status=dead|archive-url=https://web.archive.org/web/20260816400809/https://hanoionline.vn/phuong-dong-da-nhung-thong-tin-chi-tiet-sau-sap-xep-344133.htm|archive-date=2026-08-16|access-date=2026-08-16|website=Cơ quan Báo và Phát thanh Truyền hình Hà Nội}}</ref><ref>{{Chú thích web |last=Cơ quan Báo và Phát thanh Truyền hình Hà Nội|date=2025-07-04|title=Phường Đống Đa: Tất cả thông tin chỉ dẫn bạn cần biết|url=https://hanoionline.vn/phuong-dong-da-tat-ca-thong-tin-chi-dan-ban-can-biet-344585.htm|url-status=dead|archive-url=https://web.archive.org/web/20260816401509/https://hanoionline.vn/phuong-dong-da-tat-ca-thong-tin-chi-dan-ban-can-biet-344585.htm|archive-date=2026-08-16|access-date=2026-08-16}}</ref>
+
+Phường Đống Đa có diện tích tự nhiên 2,07 km<sup>2</sup>, quy mô dân số năm 2025 là 81.358 người và mật độ dân số đạt 39.303 người/km<sup>2</sup>.<ref>Công văn số 2896/BNV-CQĐP ngày 27 tháng 5 năm 2025 của Bộ Nội vụ về việc cung cấp thông tin danh mục dự kiến đơn vị hành chính cấp xã mới.</ref><ref name=":02">{{Chú thích web |last=Viện nghiên cứu Phát triển kinh tế - xã hội Hà Nội|date=2025-07-02|title=Phường Đống Đa: Những thông tin chi tiết sau sắp xếp|url=https://hanoionline.vn/phuong-dong-da-nhung-thong-tin-chi-tiet-sau-sap-xep-344133.htm|url-status=live|archive-url=https://web.archive.org/web/20260701400809/https://hanoionline.vn/phuong-dong-da-nhung-thong-tin-chi-tiet-sau-sap-xep-344133.htm|archive-date=2026-07-01|access-date=2026-07-01|website=Cơ quan Báo và Phát thanh Truyền hình Hà Nội}}</ref>
+
+== Lịch sử==
+
+=== Trước năm 1976 ===
+
+=== Giai đoạn 1976 – nay ===
+Sau ngày 2 tháng 7 năm 1976, 7 tiểu khu: Láng Hạ, Nam Đồng, Nguyễn Trãi, Ô Chợ Dừa, Quang Trung, Thịnh Quang và Trung Liệt thuộc khu phố [[Đống Đa (quận)|Đống Đa]] thuộc thành phố [[Hà Nội]].
+
+Ngày 3 tháng 1 năm 1981, từ nay ở nội thành, đơn vị hành chính cấp dưới trực tiếp của [[Thành phố trực thuộc trung ương (Việt Nam)|thành phố trực thuộc trung ương]] đều thống nhất gọi là [[Quận (Việt Nam)|quận]]; các đơn vị hành chính cơ sở ở nội thành, nội thị của các [[Thành phố thuộc tỉnh (Việt Nam)|thành phố thuộc tỉnh]], [[Thị xã (Việt Nam)|thị xã]] và [[Quận (Việt Nam)|quận]] gọi là [[Phường (Việt Nam)|phường]]. Khi đó, 7 phường: Láng Hạ, Nam Đồng, Nguyễn Trãi, Ô Chợ Dừa, Quang Trung, Thịnh Quang và Trung Liệt thuộc quận [[Đống Đa (quận)|Đống Đa]].<ref>Quyết định số 3-CP ngày 3 tháng 1 năm 1981 của Hội đồng Chính phủ về việc thống nhất tên gọi các đơn vị hành chính ở nội thành nội thị.</ref>
+
+Ngày 22 tháng 11 năm 1996, đổi tên phường Nguyễn Trãi thành phường Ngã Tư Sở.<ref>{{Chú thích web |title=Nghị định số 74-CP ngày 22 tháng 11 năm 1996 của Chính phủ về việc thành lập quận Thanh Xuân, quận Cầu Giấy, thành lập và đổi tên một số phường thuộc thành phố Hà Nội |url=https://chinhphu.vn/default.aspx?pageid=27160&docid=3229 |url-status=live |archive-url=https://web.archive.org/web/20260704400809/https://chinhphu.vn/default.aspx?pageid=27160&docid=3229 |archive-date=2026-07-04 |access-date=2026-07-04 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+
+Ngày 14 tháng 11 năm 2024, nhập toàn bộ diện tích tự nhiên là 0,14 km<sup>2</sup>, quy mô dân số là 4.645 người của phường Ngã Tư Sở sau khi điều chỉnh vào phường Thịnh Quang.<ref>{{Chú thích web |title=Nghị quyết số 1286/NQ-UBTVQH15 ngày 14 tháng 11 năm 2024 của Ủy ban Thường vụ Quốc hội về việc sắp xếp đơn vị hành chính cấp xã của thành phố Hà Nội giai đoạn 2023 – 2025 |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/11/1286-qh.signed.pdf |url-status=live |archive-url=https://web.archive.org/web/20260704400809/https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/11/1286-qh.signed.pdf |archive-date=2026-07-04 |access-date=2026-07-04 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+
+Ngày 16 tháng 6 năm 2025:
+
+* Kết thúc hoạt động của đơn vị hành chính cấp huyện trong cả nước.<ref>{{Chú thích web |last= |date= |title=Nghị quyết số 203/2025/QH15 ngày 16 tháng 6 năm 2025 của Quốc hội khóa XV, Kỳ họp thứ 9 về việc sửa đổi, bổ sung một số điều của Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/nq-sua-doi-hien-phap.pdf |url-status=live |archive-url=https://web.archive.org/web/20260613090807/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/nq-sua-doi-hien-phap.pdf |archive-date=2026-06-13 |access-date=2026-06-13 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+* Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của phường Thịnh Quang và một phần diện tích tự nhiên, quy mô dân số của các phường Quang Trung, Láng Hạ, Nam Đồng, Ô Chợ Dừa, Trung Liệt (quận [[Đống Đa (quận)|Đống Đa]]) thành phường mới có tên gọi là phường Đống Đa.<ref>{{Chú thích web |title=Nghị quyết số 1656/NQ-UBTVQH15 ngày 16 tháng 6 năm 2025 của Ủy ban Thường vụ Quốc hội về việc sắp xếp các đơn vị hành chính cấp xã của thành phố Hà Nội năm 2025 |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf |url-status=live |archive-url=https://web.archive.org/web/20260630400809/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf |archive-date=2026-06-30 |access-date=2026-06-30 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+Ngày 5 tháng 12 năm 2025, đổi tên tổ dân phố trên địa bàn phường Đống Đa. Sau khi sắp xếp, phường Đống Đa được chia thành 77 tổ dân phố.<ref>77 tổ dân phố, đánh số từ 1 đến 7, 7A, từ 8 đến 12, 12A, từ 13 đến 25, 25A, từ 26 đến 35, 35A, từ 36 đến 38, 38A, 38B, 39, 39A, 40, 40A, từ 41 đến 53, 53A, 54, 54A, 54B, từ 55 đến 63, 63A, 64 và 64A.</ref><ref>{{Chú thích web |title=Thông tư số 10/2022/TT-BTNMT ngày 29 tháng 9 năm 2022 của Bộ Tài nguyên và Môi trường về việc Ban hành Danh mục địa danh dân cư, sơn văn, thủy văn, kinh tế – xã hội phục vụ công tác thành lập bản đồ thành phố Hà Nội |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2022/10/10-btnmt.pdf |url-status=live |archive-url=https://web.archive.org/web/20260630400809/https://datafiles.chinhphu.vn/cpp/files/vbpq/2022/10/10-btnmt.pdf |archive-date=2026-06-30 |access-date=2026-06-30 |website=Cổng Thông tin điện tử Chính phủ}}</ref><ref>{{Chú thích web |last=Hoàng Điệp |date=2025-12-05 |title=Hội đồng nhân dân phường Đống Đa: Xem xét nhiều nội dung quan trọng tạo tiền đề cho năm 2026 |url=https://hanoi.gov.vn/tin-dia-phuong/hdnd-phuong-dong-da-xem-xet-nhieu-noi-dung-quan-trong-tao-tien-de-cho-nam-2026-4251205132808661.htm?gidzl=xBdJJtkKkHNefjT9SOon5k2dtqflsB8J_QVV6MhTinJzejj9Quot4w_nZ40yYUeThlU3HpYX75zhVfMz5m |url-status=dead |archive-url=https://web.archive.org/web/20260817201510/https://hanoi.gov.vn/tin-dia-phuong/hdnd-phuong-dong-da-xem-xet-nhieu-noi-dung-quan-trong-tao-tien-de-cho-nam-2026-4251205132808661.htm?gidzl=xBdJJtkKkHNefjT9SOon5k2dtqflsB8J_QVV6MhTinJzejj9Quot4w_nZ40yYUeThlU3HpYX75zhVfMz5m |archive-date=2026-08-17 |access-date=2026-08-17 |website=Cổng Thông tin điện tử Ủy ban nhân dân thành phố Hà Nội}}</ref><ref>{{Chú thích web |last= |date= |title=Nghị quyết số 1/NQ-UBBC ngày 20 tháng 3 năm 2026 của Ủy ban bầu cử phường Đống Đa về việc công bố danh sách người trúngcử đại biểu Hội đồng nhân dân phường Đống Đa khóa II, nhiệm kỳ 2026 – 2031 |url=https://sqhx-hanoi.mediacdn.vn/91579363132710912/2026/3/20/ubbc-nq-01-1773993016992619371796.pdf |url-status=dead |archive-url=https://web.archive.org/web/20260817201510/https://sqhx-hanoi.mediacdn.vn/91579363132710912/2026/3/20/ubbc-nq-01-1773993016992619371796.pdf |archive-date=2026-08-17 |access-date=2026-08-17 |website=Trang Thông tin điện tử phường Đống Đa – thành phố Hà Nội}}</ref>
+
+Ngày 24 tháng 12 năm 2025, xác định phường Đống Đa là [[Đô thị Việt Nam|đô thị loại II]].<ref>Chuyển tiếp từ 6 phường: Láng Hạ, Nam Đồng, Ô Chợ Dừa, Quang Trung, Thịnh Quang và Trung Liệt thuộc quận Đống Đa.</ref><ref>{{Chú thích web |title=Nghị quyết số 111/2025/UBTVQH15 ngày 24 tháng 12 năm 2025 của Ủy ban Thường vụ Quốc hội về phân loại đô thị |url=https://cdn.nhandan.vn/files/f4a4abf7f9a0ba4a91744616546d850872b76917f90d5a74cc9eebef1369fb6f/111.pdf |url-status=dead |archive-url=https://web.archive.org/web/20260430074852/https://cdn.nhandan.vn/files/f4a4abf7f9a0ba4a91744616546d850872b76917f90d5a74cc9eebef1369fb6f/111.pdf |archive-date=2026-04-30 |access-date=2026-07-12 |website=Báo Nhân dân}}</ref>
+
+Ngày 26 tháng 6 năm 2026, thành lập 23 tổ dân phố mới, đánh số từ 1 đến 23.<ref>1. Tổ dân phố số 1: Sáp nhập từ tổ dân phố 1 + tổ dân phố 2 + tổ dân phố 12 + 1 phần tổ dân phố 15 + 1 phần tổ dân phố 16; 2. Tổ dân phố số 2: Sáp nhập từ 1 phần tổ dân phố 8 + tổ dân phố 9 + tổ dân phố 10 + tổ dân phố 12A + 1 phần tổ dân phố 7A + 1 phần tổ dân phố 3; 3. Tổ dân phố số 3: Sáp nhập từ 1 phần tổ dân phố 3 + tổ dân phố 11 + tổ dân phố 4 + tổ dân phố 5; 4. Tổ dân phố số 4: Sáp nhập từ tổ dân phố 6 + tổ dân phố 7 + 1 phần tổ dân phố 7A + 1 phần tổ dân phố 8; 5. Tổ dân phố số 5: Sáp nhập từ 1 phần tổ dân phố 16 + tổ dân phố 17 + tổ dân phố 18 + 1 phần tổ dân phố 21; 6. Tổ dân phố số 6: Sáp nhập từ tổ dân phố 13 + tổ dân phố 14 + tổ dân phố 22 + 1 phần tổ dân phố 15 + 1 phần tổ dân phố 20; 7. Tổ dân phố số 7: Sáp nhập từ tổ dân phố 23 + tổ dân phố 24 + tổ dân phố 25A; 8. Tổ dân phố số 8: Sáp nhập từ tổ dân phố 19 + 1 phần tổ dân phố 21 + 1 phần tổ dân phố 20; 9. Tổ dân phố số 9: Sáp nhập từ tổ dân phố 25 + tổ dân phố 26 + tổ dân phố 27 + tổ dân phố 28; 10. Tổ dân phố số 10: Sáp nhập từ tổ dân phố 38 + tổ dân phố 38A + tổ dân phố 37 + tổ dân phố 38B + 1 phần tổ dân phố 36; 11. Tổ dân phố số 11: Sáp nhập từ tổ dân phố 39A + tổ dân phố 39 + tổ dân phố 40 + 1 phần tổ dân phố 40A; 12. Tổ dân phố số 12: Sáp nhập từ tổ dân phố 35A + tổ dân phố 35 + 1 phần tổ dân phố 36; 13. Tổ dân phố số 13: Sáp nhập từ tổ dân phố 34 + 1 phần tổ dân phố 40A; 14. Tổ dân phố số 14: Sáp nhập từ 1 phần tổ dân phố 31 + tổ dân phố 32 + tổ dân phố 33; 15. Tổ dân phố số 15: Sáp nhập từ 1 phần tổ dân phố 31 + tổ dân phố 29 + tổ dân phố 30; 16. Tổ dân phố số 16: Sáp nhập từ tổ dân phố 41 + tổ dân phố 42 + tổ dân phố 43 + 1 phần tổ dân phố 44; 17. Tổ dân phố số 17: Sáp nhập từ tổ dân phố 45 + tổ dân phố 46 + tổ dân phố 47 + tổ dân phố 48 + 1 phần tổ dân phố 44; 18. Tổ dân phố số 18: Sáp nhập từ 1 phần tổ dân phố 60 + tổ dân phố 61 + tổ dân phố 62 + tổ dân phố 49; 19. Tổ dân phố số 19: Sáp nhập từ tổ dân phố 51 + 1 phần tổ dân phố 60 + tổ dân phố 50 + 1 phần tổ dân phố 52; 20. Tổ dân phố số 20: Sáp nhập từ 1 phần tổ dân phố 52 + tổ dân phố 53 + tổ dân phố 53A + tổ dân phố 54; 21. Tổ dân phố số 21: Sáp nhập từ 1 phần tổ dân phố 56 + tổ dân phố 54A + tổ dân phố 55 + 1 phần tổ dân phố 54B; 22. Tổ dân phố số 22: Sáp nhập từ tổ dân phố 59 + tổ dân phố 58 + tổ dân phố 57 + 1 phần tổ dân phố 56; 23. Tổ dân phố số 23: Sáp nhập từ tổ dân phố 63 + tổ dân phố 64 + tổ dân phố 63A + tổ dân phố 64A +1 phần tổ dân phố 54B.</ref><ref name=":2">{{Chú thích web |last=Ủy ban nhân dân phường Đống Đa |date=2026-06-19 |title=Dự thảo phương án sắp xếp tổ dân phố năm 2026 |url=https://web.facebook.com/photo/?fbid=1318587850445644&set=pcb.1318386863799076 |url-status=dead |archive-url=https://web.archive.org/web/20260817201510/https://web.facebook.com/photo/?fbid=1318587850445644&set=pcb.1318386863799076 |archive-date=2026-08-17 |access-date=2026-08-17 |website=Đống Đa xưa và nay – thành phố Hà Nội}}</ref><ref name=":1">{{Chú thích web |last= |date= |title=Nghị quyết số 23/NQ-HĐND ngày 26 tháng 6 năm 2026 của Hội đồng nhân dân phường Đống Đa về việc sắp xếp, tổ chức lại tổ dân phố trên địa bàn phường Đống Đa |url=https://dongda.hanoi.gov.vn/tin-tuc-hoat-dong-hoi-dong-nhan-dan/cac-nghi-quyet-cua-hoi-dong-nhan-dan-phuong-dong-da-nhiem-ky-2026-2030-ky-hop-thu-3-2806260730153454135.htm |url-status=dead |archive-url=https://web.archive.org/web/20260817400809/https://dongda.hanoi.gov.vn/tin-tuc-hoat-dong-hoi-dong-nhan-dan/cac-nghi-quyet-cua-hoi-dong-nhan-dan-phuong-dong-da-nhiem-ky-2026-2030-ky-hop-thu-3-2806260730153454135.htm |archive-date=2026-08-17 |access-date=2026-08-17 |website=Trang Thông tin điện tử phường Đống Đa – thành phố Hà Nội}}</ref>
+
+== Hành chính ==
+Phường Đống Đa được chia thành 23 tổ dân phố, đánh số từ 1 đến 23.<ref name=":2" /><ref name=":1" />
+{| class="wikitable sortable" align="center" width="100%" cellspacing="6" cellpadding="0" style="background: #f9f9f9; border: 1px #aaa solid; margin-top: 16px"
+! colspan="4" style="background: #E6E6FA; font-size: 95%;" |Danh sách các tổ dân phố thuộc phường Đống Đa<ref name=":2" /><ref name=":1" />
+|-
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Tổ dân phố 1
+|1.023
+|-
+| align="left" |Tổ dân phố 2
+|1.186
+|-
+| align="left" |Tổ dân phố 3
+|1.127
+|-
+| align="left" |Tổ dân phố 4
+|1.155
+|-
+| align="left" |Tổ dân phố 5
+|1.005
+|-
+| align="left" |Tổ dân phố 6
+|1.099
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Tổ dân phố 7
+|862
+|-
+| align="left" |Tổ dân phố 8
+|1.009
+|-
+| align="left" |Tổ dân phố 9
+|1.188
+|-
+| align="left" |Tổ dân phố 10
+|1.006
+|-
+| align="left" |Tổ dân phố 11
+|814
+|-
+| align="left" |Tổ dân phố 12
+|1.019
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Tổ dân phố 13
+|881
+|-
+| align="left" |Tổ dân phố 14
+|868
+|-
+| align="left" |Tổ dân phố 15
+|852
+|-
+| align="left" |Tổ dân phố 16
+|1.070
+|-
+| align="left" |Tổ dân phố 17
+|1.266
+|-
+| align="left" |Tổ dân phố 18
+|1.182
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Tổ dân phố 19
+|1.096
+|-
+| align="left" |Tổ dân phố 20
+|1.226
+|-
+| align="left" |Tổ dân phố 21
+|1.294
+|-
+| align="left" |Tổ dân phố 22
+|1.158
+|-
+| align="left" |Tổ dân phố 23
+|1.253
+|}
+|}
+
+== Địa chỉ trụ sở các cơ quan==
+* Trụ sở Đảng ủy - UBND phường: Số 59, phố Hoàng Cầu.<ref name = ":0">Địa chỉ cũ: Số 59-61, phố Hoàng Cầu, phường Ô Chợ Dừa, quận Đống Đa (Trước là Quận ủy - HĐND - UBND quận Đống Đa cũ)</ref><ref name = "trusomoi2">{{Chú thích web | date = 25 tháng 6 năm 2025 | title = Thông báo về địa điểm trụ sở làm việc của 126 phường, xã sau sắp xếp thuộc phạm vi quản lý của thành phố Hà Nội | url = https://dcdn.dantri.com.vn/2025/06/25/tru-so-126-xa-phuong-cua-ha-noi-1750822481952.pdf | website = UBND TP Hà Nội}}</ref>
+* Trung tâm phục vụ hành chính công: Số 59, phố Hoàng Cầu.<ref name = ":0" /><ref>{{Chú thích báo | last = Trung tâm Phục vụ hành chính công thành phố Hà Nội | title = Hà Nội công khai địa điểm tiếp nhận thủ tục hành chính thuộc UBND 126 xã/phường và 30 điểm tiếp nhận của 12 Chi nhánh thuộc Trung tâm Phục vụ hành chính công Thành phố, thông tin đường dây nóng hỗ trợ người dân, doanh nghiệp | url = https://ttpvhcc.hanoi.gov.vn/hoat-dong-cua-trung-tam/ha-noi-cong-khai-dia-diem-tiep-nhan-thu-tuc-hanh-chinh-thuoc-ubnd-126-xa-phuong-va-30-diem-tiep-nhan-cua-12-chi-nhanh-thuoc-trung-tam-phuc-vu-hanh-chinh-cong-thanh-pho-thong-tin-duong-day-nong-ho-tro-nguoi-dan-doanh-nghiep-2850250704103711121.htm}}</ref>
+* Công an phường:<ref>{{Chú thích báo | last = Báo Đại biểu Nhân dân | first = | title = Danh sách 126 trụ sở Công an cấp xã thuộc Công an TP. Hà Nội để người dân tới làm căn cước, đăng ký xe | url = https://daibieunhandan.vn/danh-sach-126-tru-so-cong-an-cap-xa-thuoc-cong-an-tp-ha-noi-de-nguoi-dan-toi-lam-can-cuoc-dang-ky-xe-10378397.html}}</ref>
+** Trụ sở tiếp công dân, nhận tin báo, tố giác về tội phạm: Số 63, phố Hoàng Cầu.<ref>Địa chỉ cũ: Số 63, phố Hoàng Cầu, phường Ô Chợ Dừa, quận Đống Đa (Trước là Đảng ủy - HĐND - UBND phường Ô Chợ Dừa cũ)</ref>
+** Trụ sở tiếp nhận, cấp đổi, cấp lại CCCD; đăng ký xe, cấp, đổi GPLX; tiếp nhận và giải quyết thủ tục thành chính về cư trú: Số 119, phố Thái Hà.<ref>Địa chỉ cũ: Số 119, phố Thái Hà, phường Trung Liệt, quận Đống Đa (Trước là Trụ sở Công an phường Trung Liệt cũ)</ref>
+** Trụ sở tiếp nhận phản ánh và xử phạt vi phạm hành chính liên quan đến lĩnh vực trật tự đô thị, trật tự công cộng, trật tự ATGT: Số 156, ngõ Thái Thịnh 1.<ref>Địa chỉ cũ: Số 156, ngõ Thái Thịnh 1, phường Thịnh Quang, quận Đống Đa (Trước là Trụ sở Công an phường Thịnh Quang cũ)</ref>
+
+== Giáo dục== 
+Trên địa bàn phường hiện có 5 trường tiểu học, 4 trường trung học cơ sở và 2 trường Trung học phổ thông
+
+Các trường tiểu học trên địa bàn phường:
+
+* Tiểu học Bế Văn Đàn
+* Tiểu học Quang Trung
+* Tiểu học Thịnh Quang
+* Tiểu học Thái Thịnh
+* Tiểu học Thịnh Hào
+
+Các trường THCS trên địa bàn phường:
+
+* THCS Bế Văn Đàn
+* THCS Quang Trung
+* THCS Thịnh Quang
+* THCS Thái Thịnh
+
+Các trường THPT trên địa bàn phường:
+
+* [[Trường Trung học phổ thông Lê Quý Đôn – Đống Đa|THPT Lê Quý Đôn]]
+* [[Trường Trung học phổ thông Quang Trung – Đống Đa|THPT Quang Trung]]
+
+Các trường khác trên địa bàn phường:
+
+* [https://dtcblehongphong.hanoi.gov.vn/trang-chu Trường đào tạo cán bộ Lê Hồng Phong]
+* Trường cao đẳng nghề công nghiệp Hà Nội
+
+== Cở sở văn hoá - xã hội== 
+Di tích lịch sử [[Gò Đống Đa]], đền thờ Quang Trung là cụm di tích cấp Quốc gia đặc biệt, tưởng niệm chiến thắng Ngọc Hồi - Đống Đa năm 1789 - dấu mốc vĩ đại trong lịch sử chống ngoại xâm của [[dân tộc Việt Nam]]. Đây là biểu tượng văn hóa - lịch sử mang tầm Quốc gia, gắn liền với bản sắc địa phương.
+
+Các đình làng truyền thống như đình Thịnh Quang, [[Nam Đồng (phường)|Nam Đồng]], Hoàng Cầu,... là những di tích lịch sử - kiến trúc nghệ thuật được xếp hạng cấp thành phố và Quốc gia. Những công trình này không chỉ phản ánh lịch sử hình thành các làng cổ phía Tây kinh thành [[Thăng Long]], mà còn là trung tâm tổ chức lễ hội, sinh hoạt cộng đồng tiêu biểu.<ref>{{Chú thích web | last = Giới thiệu chung về phường Đống Đa, thành phố Hà Nội | title = Giới thiệu chung về phường Đống Đa, thành phố Hà Nội | url = | archive-url = https://dongda.hanoi.gov.vn/gioi-thieu-chung-62989/gioi-thieu-chung-ve-phuong-dong-da-thanh-pho-ha-noi-2806250627173844843.htm}}</ref>
+
+[[Chùa Phúc Khánh]] (Thịnh Quang) là trung tâm tín ngưỡng nổi bật của Thủ đô, đặc biệt nổi tiếng với lễ cầu an đầu năm, thu hút hàng nghìn phật tử và người dân trong và ngoài khu vực.
+
+Về lễ hội: Các chùa cổ như chùa Nam Đồng, Xã Đàn, Cổ Miễu cùng tổ chức các lễ hội truyền thống vào các ngày 12, 13 và 17 tháng Hai âm lịch, góp phần duy trì mạch văn hóa dân gian trong lòng đô thị hiện đại.
+
+Danh sách các di tích lịch sử, văn hoá, tôn giáo, cơ sở ý tế:
+
+* [[Gò Đống Đa]] - Đền thờ vua Quang Trung
+* [[Chùa Phúc Khánh]]
+* Chùa Nam Đồng
+* Chùa Xã Đàn
+* Chùa Cổ Miễu
+* [[Đàn Xã Tắc]]
+* Nhà thờ Thái Hà
+* Đình Nam Đồng
+* Đình Ứng Thiên
+* Đình Thịnh Quang
+* [[Lăng Hoàng Cao Khải]]
+* Lăng Hoàng Trọng Phu
+* Bệnh viện Nội tiết Trung Ương - Cơ sở Thái Thịnh
+* [[Bệnh viện Châm cứu Trung ương|Bệnh viện Châm cứu Trung Ương]]
+* Bệnh viện Nông nghiệp - Cơ sở 1
+
+==Danh nhân==
+* '''[[Thạch Lam]]''' (1910 – 1942) là một [[nhà văn]] Việt Nam thuộc nhóm ''[[Tự Lực văn đoàn]]''.
+
+== Chú thích== 
+{{tham khảo}}
+
+== Tham khảo ==
+{{sơ khai Hà Nội}}
+{{Đơn vị hành chính thuộc thành phố Hà Nội}}

@@ -1,0 +1,140 @@
+{
+  "ward_code": "00352",
+  "ward_name": "Phương Liệt",
+  "province_code": "01",
+  "resolution": "",
+  "arrangement": "2026_07",
+  "effective_date": "2026-07-01",
+  "verified": "unverified",
+  "extraction": {
+    "source": "vi.wikipedia.org",
+    "title": "(cache)",
+    "mode": "table"
+  },
+  "sources": [
+    {
+      "key": "wiki-00352-1",
+      "title": "Nghị quyết số 22/NQ-HĐND ngày 25 tháng 6 năm 2026 của Hội đồng nhân dân phường Phương Liệt về việc thành lập, sắp xếp, tổ chức lại tổ dân phố trên địa bàn phường Phương Liệt",
+      "url": "https://datafiles.hanoi.gov.vn/gov-hni/6960/VanBan/2026/6/26/NQ%2022%20TH%C3%80NH%20L%E1%BA%ACP-%20S%E1%BA%AEP%20X%E1%BA%BEP%20L%E1%BA%A0I%20TDP.pdf",
+      "date": "",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-00352-2",
+      "title": "Nghị quyết số 11/NQ-HĐND ngày 30 tháng 9 năm 2025 của Hội đồng nhân dân phường Phương Liệt về việc đổi tên tổ dân phố trên địa bàn phường Phương Liệt",
+      "url": "https://datafiles.hanoi.gov.vn/gov-hni/6960/VanBan/2025/10/2/NQ%2011%20%C4%91%E1%BB%95i%20t%C3%AAn%20t%E1%BB%95%20DP%20tr%C3%AAn%20%C4%91%E1%BB%8Ba%20b%C3%A0n%20ph%C6%B0%E1%BB%9Dng.pdf",
+      "date": "",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-00352-3",
+      "title": "Nghị quyết số 111/2025/UBTVQH15 ngày 24 tháng 12 năm 2025 của Ủy ban Thường vụ Quốc hội về phân loại đô thị",
+      "url": "https://cdn.nhandan.vn/files/f4a4abf7f9a0ba4a91744616546d850872b76917f90d5a74cc9eebef1369fb6f/111.pdf",
+      "date": "2026-04-30",
+      "type": "wikipedia-ref"
+    }
+  ],
+  "note": "Trích tự động từ Wikipedia tiếng Việt (mode=table). Cần đối chiếu nghị quyết HĐND phường/xã.",
+  "tdp": [
+    {
+      "name": "Tổ dân phố 1",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Tổ dân phố 2",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Tổ dân phố 3",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Tổ dân phố 4",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Tổ dân phố 5",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Tổ dân phố 6",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Tổ dân phố 7",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Tổ dân phố 8",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Tổ dân phố 9",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Tổ dân phố 10",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Tổ dân phố 11",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Tổ dân phố 12",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Tổ dân phố 13",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Tổ dân phố 14",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Tổ dân phố 15",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Tổ dân phố 16",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Tổ dân phố 17",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Tổ dân phố 18",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Tổ dân phố 19",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Tổ dân phố 20",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Tổ dân phố 21",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Tổ dân phố 22",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Tổ dân phố 23",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Tổ dân phố 24",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Tổ dân phố 25",
+      "type": "tổ dân phố"
+    }
+  ]
+}

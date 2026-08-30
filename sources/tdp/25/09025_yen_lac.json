@@ -1,0 +1,140 @@
+{
+  "ward_code": "09025",
+  "ward_name": "Yên Lạc",
+  "province_code": "25",
+  "resolution": "",
+  "arrangement": "truoc_2026_07",
+  "effective_date": "",
+  "verified": "unverified",
+  "extraction": {
+    "source": "vi.wikipedia.org",
+    "title": "Yên Lạc (xã)",
+    "mode": "narrative"
+  },
+  "sources": [
+    {
+      "key": "wiki-09025-1",
+      "title": "Nghị quyết số 111/2025/UBTVQH15 về phân loại đô thị",
+      "url": "https://xaydungchinhsach.chinhphu.vn/nghi-quyet-so-111-2025-ubtvqh15-ve-phan-loai-do-thi-119260101170432239.htm",
+      "date": "2026-01-21",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-09025-2",
+      "title": "Xã Yên Lạc công bố danh sách chính thức những người ứng cử đại biểu Hội đồng nhân dân xã nhiệm kỳ 2026 - 2031",
+      "url": "https://web.facebook.com/reel/1461395022059419",
+      "date": "2026-02-28",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-09025-3",
+      "title": "TOÀN VĂN: Nghị quyết số 202/2025/QH15 về sắp xếp đơn vị hành chính cấp tỉnh",
+      "url": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-202-2025-qh15-ve-sap-xep-don-vi-hanh-chinh-cap-tinh-119250612174148722.htm",
+      "date": "2025-07-16",
+      "type": "wikipedia-ref"
+    }
+  ],
+  "note": "Trích tự động từ Wikipedia tiếng Việt (mode=narrative). Cần đối chiếu nghị quyết HĐND phường/xã. ⚠️ Danh mục có thể là hiện trạng TRƯỚC sắp xếp thôn/TDP 01/7/2026 — Wikipedia chưa cập nhật nghị quyết mới.",
+  "tdp": [
+    {
+      "name": "Chi Chỉ",
+      "type": "thôn"
+    },
+    {
+      "name": "Cốc Lâm",
+      "type": "thôn"
+    },
+    {
+      "name": "Cổ Tích",
+      "type": "thôn"
+    },
+    {
+      "name": "Cung Thượng",
+      "type": "thôn"
+    },
+    {
+      "name": "Dịch Đồng",
+      "type": "thôn"
+    },
+    {
+      "name": "Đại Nội",
+      "type": "thôn"
+    },
+    {
+      "name": "Phú Cường",
+      "type": "thôn"
+    },
+    {
+      "name": "Vật Cách",
+      "type": "thôn"
+    },
+    {
+      "name": "Vĩnh Đòai 1",
+      "type": "thôn"
+    },
+    {
+      "name": "Vĩnh Đòai 2",
+      "type": "thôn"
+    },
+    {
+      "name": "Vĩnh Đòai 3",
+      "type": "thôn"
+    },
+    {
+      "name": "Vĩnh Đòai 4",
+      "type": "thôn"
+    },
+    {
+      "name": "Vĩnh Đông 1",
+      "type": "thôn"
+    },
+    {
+      "name": "Vĩnh Đông 2",
+      "type": "thôn"
+    },
+    {
+      "name": "Vĩnh Đông 3",
+      "type": "thôn"
+    },
+    {
+      "name": "Vĩnh Đông 4",
+      "type": "thôn"
+    },
+    {
+      "name": "Vĩnh Đông 5",
+      "type": "thôn"
+    },
+    {
+      "name": "Vĩnh Đông 6",
+      "type": "thôn"
+    },
+    {
+      "name": "Vĩnh Tiên 1",
+      "type": "thôn"
+    },
+    {
+      "name": "Vĩnh Tiên 2",
+      "type": "thôn"
+    },
+    {
+      "name": "Vĩnh Tiên 3",
+      "type": "thôn"
+    },
+    {
+      "name": "Vĩnh Trung 1",
+      "type": "thôn"
+    },
+    {
+      "name": "Vĩnh Trung 2",
+      "type": "thôn"
+    },
+    {
+      "name": "Vĩnh Trung 3",
+      "type": "thôn"
+    },
+    {
+      "name": "Yên Quán",
+      "type": "thôn"
+    }
+  ]
+}

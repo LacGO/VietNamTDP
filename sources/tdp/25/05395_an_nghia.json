@@ -1,0 +1,180 @@
+{
+  "ward_code": "05395",
+  "ward_name": "An Nghĩa",
+  "province_code": "25",
+  "resolution": "",
+  "arrangement": "truoc_2026_07",
+  "effective_date": "",
+  "verified": "unverified",
+  "extraction": {
+    "source": "vi.wikipedia.org",
+    "title": "An Nghĩa",
+    "mode": "narrative"
+  },
+  "sources": [
+    {
+      "key": "wiki-05395-1",
+      "title": "Nghị quyết số 1/NQ-UBBC về việc công bố danh sách những người ứng cử đại biểu Hội đồng nhân dân xã An Nghĩa, nhiệm kỳ 2026 - 2031 theo từng đơn vị bầu cử",
+      "url": "https://web.facebook.com/story.php?story_fbid=122164609958943116&id=61578293489383&rdid=jISNQURTHYEkZmPM#",
+      "date": "2026-02-24",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-05395-2",
+      "title": "Nghị quyết số 111/2025/UBTVQH15 về phân loại đô thị",
+      "url": "https://xaydungchinhsach.chinhphu.vn/nghi-quyet-so-111-2025-ubtvqh15-ve-phan-loai-do-thi-119260101170432239.htm",
+      "date": "2026-01-21",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-05395-3",
+      "title": "Danh sách Thôn vùng đồng bào dân tộc thiểu số và miền núi, thôn đặc biệt khó khăn giai đoạn 2026 - 2030 trên địa bàn tỉnh Phú Thọ",
+      "url": "http://files.ubdt.gov.vn/files/ecm/source_files/2026/02/05/11252411_4.%20Ph%C3%BA%20Th%E1%BB%8D%201%20(th%C3%B4n).signed_26-02-05.pdf",
+      "date": "2026-01-29",
+      "type": "wikipedia-ref"
+    }
+  ],
+  "note": "Trích tự động từ Wikipedia tiếng Việt (mode=narrative). Cần đối chiếu nghị quyết HĐND phường/xã. ⚠️ Danh mục có thể là hiện trạng TRƯỚC sắp xếp thôn/TDP 01/7/2026 — Wikipedia chưa cập nhật nghị quyết mới.",
+  "tdp": [
+    {
+      "name": "Ba Bường",
+      "type": "khu"
+    },
+    {
+      "name": "Đệt",
+      "type": "khu"
+    },
+    {
+      "name": "Đồi",
+      "type": "khu"
+    },
+    {
+      "name": "Đồng Tâm",
+      "type": "khu"
+    },
+    {
+      "name": "Lộng",
+      "type": "khu"
+    },
+    {
+      "name": "Quyết Tiến",
+      "type": "khu"
+    },
+    {
+      "name": "Thắng Lợi",
+      "type": "khu"
+    },
+    {
+      "name": "Vai",
+      "type": "khu"
+    },
+    {
+      "name": "Vôi",
+      "type": "khu"
+    },
+    {
+      "name": "26 thôn: 2A",
+      "type": "khu"
+    },
+    {
+      "name": "An Ninh",
+      "type": "khu"
+    },
+    {
+      "name": "Bảy",
+      "type": "khu"
+    },
+    {
+      "name": "Bến Đình",
+      "type": "khu"
+    },
+    {
+      "name": "Bến Nghĩa",
+      "type": "khu"
+    },
+    {
+      "name": "Bột",
+      "type": "khu"
+    },
+    {
+      "name": "Bưa Cú",
+      "type": "khu"
+    },
+    {
+      "name": "Chùa",
+      "type": "khu"
+    },
+    {
+      "name": "Đầm Đa",
+      "type": "khu"
+    },
+    {
+      "name": "Đòan Kết",
+      "type": "khu"
+    },
+    {
+      "name": "Đồng Danh",
+      "type": "khu"
+    },
+    {
+      "name": "Đồng Sắn",
+      "type": "khu"
+    },
+    {
+      "name": "Đồng Thung",
+      "type": "khu"
+    },
+    {
+      "name": "Đồng Tiến",
+      "type": "khu"
+    },
+    {
+      "name": "Gốc Xanh",
+      "type": "khu"
+    },
+    {
+      "name": "Lão Ngọai",
+      "type": "khu"
+    },
+    {
+      "name": "Lão Nội",
+      "type": "khu"
+    },
+    {
+      "name": "Lũ",
+      "type": "khu"
+    },
+    {
+      "name": "Phú Bình",
+      "type": "khu"
+    },
+    {
+      "name": "Rị",
+      "type": "khu"
+    },
+    {
+      "name": "Sỏi",
+      "type": "khu"
+    },
+    {
+      "name": "Sông Bôi",
+      "type": "khu"
+    },
+    {
+      "name": "Tân Lâm",
+      "type": "khu"
+    },
+    {
+      "name": "Tân Phú",
+      "type": "khu"
+    },
+    {
+      "name": "Tân Thành",
+      "type": "khu"
+    },
+    {
+      "name": "Tân Thắng",
+      "type": "khu"
+    }
+  ]
+}

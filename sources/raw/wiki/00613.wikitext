@@ -1,0 +1,153 @@
+{{Thông tin đơn vị hành chính Việt Nam |Phường
+| tên = Tây Tựu
+| hình = Đình Đăm.jpg
+| ghi chú hình = Đình Đăm tại phường Tây Tựu
+| vĩ độ = 21.064626609314924
+| kinh độ = 105.74560689987759
+| diện tích = 7,54 km²
+| dân số = 39.436 người
+| thời điểm dân số = 2025
+| vùng = [[Đồng bằng sông Hồng]]
+| thành phố = [[Hà Nội]]
+| quận = 
+| trụ sở UBND =Tổ dân phố Ngọa Long<ref>{{Chú thích web |url=https://storage-vnportal.vnpt.vn/gov-hni/6244/VanBan/2025/6/25/TB-729-2025.pdf |title=Thông báo số 729/TB-UBND ngày 25 tháng 6 năm 2025 của Ủy ban nhân dân thành phố Hà Nội về địa điểm trụ sở làm việc của 126 phường, xã sau sắp xếp thuộc phạm vi quản lý của thành phố Hà Nội|access-date=2026-06-15 |archive-date=2026-06-15 |archive-url=https://web.archive.org/web/20260615034519/https://storage-vnportal.vnpt.vn/gov-hni/6244/VanBan/2025/6/25/TB-729-2025.pdf |url-status=dead | website = Cổng Thông tin điện tử Ủy ban nhân dân thành phố Hà Nội}}</ref> 
+| mã hành chính = 00613<ref>{{Chú thích web |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/19ttg.signed.pdf |title=Quyết định số 19/2025/QĐ-TTg ngày 30 tháng 6 năm 2025 của Thủ tướng Chính phủ về việc Ban hành Bảng danh mục và mã số các đơn vị hành chính Việt Nam |access-date=2026-06-15 |archive-date=2026-06-15 |archive-url=https://web.archive.org/web/20260615034519/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/19ttg.signed.pdf |url-status=dead | website = Cổng Thông tin điện tử Chính phủ}}</ref>
+|trụ sở Đảng ủy=Số 12 Phúc Lý|bản đồ 1={{maplink|frame=yes|plain=yes|type=shape|frame-width=280|frame-align=center|stroke-width=3}}|mật độ dân số={{formatnum:{{#expr:floor({{formatnum:39.436| R}}/{{formatnum:7,54| R}})}} }} người/km²|web={{url|taytuu.hanoi.gov.vn}}}}
+'''Tây Tựu''' là một [[Phường (Việt Nam)|phường]] thuộc thành phố [[Hà Nội]], [[Việt Nam]].
+
+== Địa lý== 
+Phường Tây Tựu có vị trí địa lý:
+* Phía đông giáp phường [[Đông Ngạc]] và phường [[Phú Diễn]] (ranh giới đi theo đường ranh giới phường cũ)
+* Phía tây giáp xã [[Ô Diên]] và xã [[Hoài Đức (xã)|Hoài Đức]] (ranh giới đi theo đường giao thông quy hoạch)
+* Phía nam giáp phường [[Xuân Phương]] (ranh giới đi theo đường Cầu Diễn)
+* Phía bắc giáp phường [[Thượng Cát]] (ranh giới đi theo đường Tây Thăng Long).<ref>{{Chú thích web |last=Báo Điện tử Chính phủ |date=2025-04-28 |title=Chi tiết dự thảo phương án sắp xếp các phường của Hà Nội |url=https://xaydungchinhsach.chinhphu.vn/chi-tiet-du-thao-phuong-an-sap-xep-cac-phuong-cua-ha-noi-119250421100531902.htm |url-status=dead |archive-url=https://web.archive.org/web/20260316174230/https://xaydungchinhsach.chinhphu.vn/chi-tiet-du-thao-phuong-an-sap-xep-cac-phuong-cua-ha-noi-119250421100531902.htm |archive-date=2026-03-16 |access-date=2026-07-10 |website=Xây dựng chính sách, pháp luật}}</ref><ref>{{Chú thích web |last=Viện nghiên cứu Phát triển kinh tế – xã hội Hà Nội |date=2025-07-02 |title=Phường Tây Tựu: Những thông tin chi tiết sau sắp xếp |url=https://hanoionline.vn/phuong-tay-tuu-nhung-thong-tin-chi-tiet-sau-sap-xep-344082.htm |url-status=dead |archive-url=https://web.archive.org/web/20260813400809/https://hanoionline.vn/phuong-tay-tuu-nhung-thong-tin-chi-tiet-sau-sap-xep-344082.htm |archive-date=2026-08-13 |access-date=2026-08-13 |website=Cơ quan Báo và Phát thanh Truyền hình Hà Nội}}</ref><ref>{{Chú thích web |last=Cơ quan Báo và Phát thanh Truyền hình Hà Nội |date=2025-07-06 |title=Phường Tây Tựu: Tất cả thông tin chỉ dẫn bạn cần biết |url=https://hanoionline.vn/phuong-tay-tuu-tat-ca-thong-tin-chi-dan-ban-can-biet-344693.htm |url-status=dead |archive-url=https://web.archive.org/web/20250706032720/https://hanoionline.vn/phuong-tay-tuu-tat-ca-thong-tin-chi-dan-ban-can-biet-344693.htm |archive-date=2025-07-06 |access-date=2026-08-13 }}</ref>
+Phường Tây Tựu có diện tích tự nhiên là 7,54&nbsp;km<sup>2</sup>, quy mô dân số năm 2025 là 39.436 người và mật độ dân số đạt 5.230 người/km<sup>2</sup>.<ref>{{Chú thích web |last=Mai Hữu |date=2026-04-05 |title=Hà Nội: Chi tiết phương án tổng thể sắp xếp đơn vị hành chính cấp xã |url=https://hanoimoi.vn/ha-noi-chi-tiet-phuong-an-tong-the-sap-xep-don-vi-hanh-chinh-cap-xa-700278.html |url-status=bot: unknown |archive-url=https://web.archive.org/web/20250710163328/https://hanoimoi.vn/ha-noi-chi-tiet-phuong-an-tong-the-sap-xep-don-vi-hanh-chinh-cap-xa-700278.html |archive-date=2025-07-10 |access-date=2026-07-08 |website=Cơ quan Báo và Phát thanh, truyền hình Hà Nội}}</ref><ref>Công văn số 2896/BNV-CQĐP ngày 27 tháng 5 năm 2025 của Bộ Nội vụ về việc cung cấp thông tin danh mục dự kiến đơn vị hành chính cấp xã mới.</ref>
+
+== Lịch sử==
+
+=== Trước năm 1976 ===
+Địa bàn phường Tây Tựu ngày nay tương ứng với tổng Tây Đam có từ thế kỉ 18 - 19, ban đầu tổng thuộc huyện Từ Liêm, phủ Quốc Oai, tỉnh [[Sơn Tây (tỉnh Việt Nam)|Sơn Tây]]. Đến năm 1831 thuộc phủ Hoài Đức, tỉnh [[Hà Nội (tỉnh)|Hà Nội]] (đến năm [[1902]] đổi thành tỉnh [[Hà Đông (tỉnh)|Hà Đông]]). Sau khi bỏ cấp tổng phủ gọi chung là xã huyện vào năm [[1945]], xã Tây Tựu được thành lập trên cơ sở tách làng Tây Đam (sau đổi thành Tây Tựu) của tổng Tây Đam.
+
+Ban đầu, xã Tây Tựu thuộc huyện [[Đan Phượng (huyện)|Đan Phượng]], tỉnh [[Hà Đông (tỉnh)|Hà Đông]]. Đến năm [[1961]], xã Trung Kiên sáp nhập vào huyện [[Từ Liêm (huyện)|Từ Liêm]], thành phố [[Hà Nội]]. Năm 1965 xã Trung Kiên được đổi lại thành xã Tây Tựu.
+
+=== Giai đoạn 1976 – nay ===
+Sau ngày 2 tháng 7 năm 1976, xã Kim Chung thuộc huyện [[Hoài Đức (huyện)|Hoài Đức]] của tỉnh [[Hà Sơn Bình]].
+
+Ngày 29 tháng 12 năm 1978, sáp nhập huyện Hoài Đức của tỉnh [[Hà Sơn Bình]] vào thành phố [[Hà Nội]]. Khi đó, xã Kim Chung thuộc huyện [[Hoài Đức (huyện)|Hoài Đức]] của thành phố [[Hà Nội]].<ref>Nghị quyết ngày 29 tháng 12 năm 1978 của Quốc hội khóa VI, Kỳ họp thứ 4 phê chuẩn việc phân vạch lại địa giới thành phố Hà Nội, thành phố Hồ Chí Minh, các tỉnh Hà Sơn Bình, Vĩnh Phú, Cao Lạng, Bắc Thái, Quảng Ninh và Đồng Nai.</ref>
+
+Ngày 12 tháng 8 năm 1991, chia tỉnh [[Hà Sơn Bình]] thành 2 tỉnh, lấy tên là tỉnh [[Hòa Bình (tỉnh)|Hòa Bình]] và tỉnh [[Hà Tây (tỉnh)|Hà Tây]]. Chuyển huyện [[Hoài Đức (huyện)|Hoài Đức]] của thành phố [[Hà Nội]] về tỉnh [[Hà Tây (tỉnh)|Hà Tây]]. Khi đó, xã Kim Chung thuộc huyện [[Hoài Đức (huyện)|Hoài Đức]] của tỉnh [[Hà Tây (tỉnh)|Hà Tây]].<ref>Nghị quyết ngày 12 tháng 8 năm 1991 của Quốc hội khóa VIII, Kỳ họp thứ 9 về việc điều chỉnh địa giới hành chính một số tỉnh, thành phố trực thuộc Trung ương.</ref>
+
+Ngày 29 tháng 5 năm 2008, hợp nhất tỉnh [[Hà Tây (tỉnh)|Hà Tây]] vào thành phố [[Hà Nội]]. Khi đó, xã Kim Chung thuộc huyện [[Hoài Đức (huyện)|Hoài Đức]] của thành phố [[Hà Nội]].<ref>Nghị quyết số 15/2008/QH12 ngày 29 tháng 5 năm 2008 của Quốc hội khóa XII, Kỳ họp thứ 3 về việc điều chỉnh địa giới hành chính thành phố Hà Nội và một số tỉnh có liên quan.</ref>
+
+Đến ngày [[27 tháng 12]] năm [[2013]], phường Tây Tựu được thành lập trên cơ sở xã Tây Tựu và một phần xã Xuân Phương thuộc quận [[Bắc Từ Liêm]] mới thành lập.
+
+Ngày 16 tháng 6 năm 2025:
+
+* Kết thúc hoạt động của đơn vị hành chính cấp huyện trong cả nước.<ref>{{Chú thích web |last= |date= |title=Nghị quyết số 203/2025/QH15 ngày 16 tháng 6 năm 2025 của Quốc hội khóa XV, Kỳ họp thứ 9 về việc sửa đổi, bổ sung một số điều của Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/nq-sua-doi-hien-phap.pdf |url-status=live |archive-url=https://web.archive.org/web/20260613090807/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/nq-sua-doi-hien-phap.pdf |archive-date=2026-06-13 |access-date=2026-06-13 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+* Sắp xếp một phần diện tích tự nhiên, quy mô dân số của phường Minh Khai, một phần diện tích tự nhiên, toàn bộ quy mô dân số của phường Tây Tựu (quận [[Bắc Từ Liêm]]) và một phần diện tích tự nhiên của xã Kim Chung (huyện [[Hoài Đức (huyện)|Hoài Đức]]) thành phường mới có tên gọi là phường Tây Tựu.<ref>{{Chú thích web |title=Nghị quyết số 1656/NQ-UBTVQH15 ngày 16 tháng 6 năm 2025 của Ủy ban Thường vụ Quốc hội về việc sắp xếp các đơn vị hành chính cấp xã của thành phố Hà Nội năm 2025 |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf |url-status=bot: unknown |archive-url=https://web.archive.org/web/20260513110024/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf |archive-date=2026-05-13 |access-date=2026-06-30 |website=Cổng Thông tin điện tử Chính phủ }}</ref>
+* Sau khi sắp xếp, phường Tây Tựu được chia thành 27 tổ dân phố.<ref>13 tổ dân phố: Ngọa Long 1, 2, Nguyên Xá từ 1 đến 3, Phúc Lý từ 1 đến 4, Văn Trì từ 1 đến 4 của phường Minh Khai cũ; 14 tổ dân phố: 1, 15, Hạ từ 9 đến 12, Thượng từ 1 đến 4, Trung từ 5 đến 8 của phường Tây Tựu cũ.</ref><ref>{{Chú thích web |title=Thông tư số 10/2022/TT-BTNMT ngày 29 tháng 9 năm 2022 của Bộ Tài nguyên và Môi trường về việc Ban hành Danh mục địa danh dân cư, sơn văn, thủy văn, kinh tế – xã hội phục vụ công tác thành lập bản đồ thành phố Hà Nội |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2022/10/10-btnmt.pdf |url-status=bot: unknown |archive-url=https://web.archive.org/web/20260630082812/https://datafiles.chinhphu.vn/cpp/files/vbpq/2022/10/10-btnmt.pdf |archive-date=2026-06-30 |access-date=2026-06-30 |website=Cổng Thông tin điện tử Chính phủ }}</ref><ref>{{Chú thích web |last= |date= |title=Quyết định số 20/QĐ-UBBC ngày 23 tháng 2 năm 2026 của Ủy ban bầu cử phường Tây Tựu về việc công bố danh sách chính thức những người ứng cử đại biểu Hội đồng nhân dân phường Tây Tựu nhiệm kỳ 2026 – 2031 theo từng đơn vị bầu cử |url=https://sqhx-hanoi.mediacdn.vn/91579363132710912/2026/2/24/232-qd-20-ubbc-cong-bo-1771932290269869072111.pdf |url-status=dead |archive-url=https://web.archive.org/web/20260814201510/https://sqhx-hanoi.mediacdn.vn/91579363132710912/2026/2/24/232-qd-20-ubbc-cong-bo-1771932290269869072111.pdf |archive-date=2026-08-14 |access-date=2026-08-14 |website=Trang Thông tin điện tử phường Tây Tựu – thành phố Hà Nội}}</ref>
+Ngày 24 tháng 12 năm 2025, xác định phần lớn của phường Tây Tựu là [[Đô thị Việt Nam|đô thị loại II]].<ref>Chuyển tiếp từ 2 phường: Minh Khai và Tây Tựu thuộc quận Bắc Từ Liêm.</ref><ref>{{Chú thích web |title=Nghị quyết số 111/2025/UBTVQH15 ngày 24 tháng 12 năm 2025 của Ủy ban Thường vụ Quốc hội về phân loại đô thị |url=https://cdn.nhandan.vn/files/f4a4abf7f9a0ba4a91744616546d850872b76917f90d5a74cc9eebef1369fb6f/111.pdf |url-status=dead |archive-url=https://web.archive.org/web/20260814175111/https://cdn.nhandan.vn/files/f4a4abf7f9a0ba4a91744616546d850872b76917f90d5a74cc9eebef1369fb6f/111.pdf |archive-date=2026-08-14 |access-date=2026-07-12 |website=Báo Nhân dân }}</ref>
+
+Ngày 29 tháng 6 năm 2026, thành lập 12 tổ dân phố mới: Phúc Lý 1, 2, Văn Trì 1, 2, Ngọa Long, Minh Khai, Thượng 1, 2, Trung 1, 2, Hạ 1 và 2.<ref name=":0">1. Sáp nhập tổ dân phố Phúc Lý 1 và tổ dân phố Phúc Lý 2 thành: 01 Tổ dân phố. Tên gọi mới sau sắp xếp: Tổ dân phố Phúc Lý 1; 2. Sáp nhập tổ dân phố Phúc Lý 3 và tổ dân phố Phúc Lý 4 thành: 01 Tổ dân phố. Tên gọi mới sau sắp xếp: Tổ dân phố Phúc Lý 2; 3. Sáp nhập tổ dân phố Văn Trì 1 và tổ dân phố Văn Trì 3 thành: 01 Tổ dân phố. Tên gọi mới sau sắp xếp: Tổ dân phố Văn Trì 1; 4. Sáp nhập tổ dân phố Văn Trì 2 và tổ dân phố Văn Trì 4 thành: 01 Tổ dân phố. Tên gọi mới sau sắp xếp: Tổ dân phố Văn Trì 2; 5. Sáp nhập tổ dân phố Ngọa Long 1 và tổ dân phố Ngọa Long 2 thành: 01 Tổ dân phố. Tên gọi mới sau sắp xếp: Tổ dân phố Ngọa Long; 6. Giữ nguyên tên gọi sau sắp xếp: Tổ dân phố Nguyên Xá 1; 7. Giữ nguyên tên gọi sau sắp xếp: Tổ dân phố Nguyên Xá 2; 8. Sáp nhập tổ dân phố Nguyên Xá 3 và tổ dân phố số 15 thành: 01 Tổ dân phố. Tên gọi mới sau sắp xếp: Tổ dân phố Minh Khai; 9. Sáp nhập tổ dân phố Thượng 1, tổ dân phố Thượng 2 và tổ dân phố số 1 thành: 01 Tổ dân phố. Tên gọi mới sau sắp xếp: Tổ dân phố Thượng 1; 10. Sáp nhập tổ dân phố Thượng 3 và tổ dân phố số Thượng 4 thành: 01 Tổ dân phố. Tên gọi mới sau sắp xếp: Tổ dân phố Thượng 2; 11. Sáp nhập tổ dân phố Trung 5 và tổ dân phố số Trung 6 thành: 01 Tổ dân phố. Tên gọi mới sau sắp xếp: Tổ dân phố Trung 1; 12. Sáp nhập tổ dân phố Trung 7 và tổ dân phố số Trung 8 thành: 01 Tổ dân phố. Tên gọi mới sau sắp xếp: Tổ dân phố Trung 2; 13. Sáp nhập tổ dân phố Hạ 9 và tổ dân phố số Hạ 10 thành: 01 Tổ dân phố. Tên gọi mới sau sắp xếp: Tổ dân phố Hạ 1; 14. Sáp nhập tổ dân phố Hạ 11 và tổ dân phố số Hạ 12 thành: 01 Tổ dân phố. Tên gọi mới sau sắp xếp: Tổ dân phố Hạ 2.</ref><ref name=":1">{{Chú thích web |title=Nghị quyết số 28/NQ-HĐND ngày 29 tháng 6 năm 2026 của Hội đồng nhân dân phường Tây Tựu về việc sắp xếp, tổ chức lại tổ dân phố trên địa bàn phường Tây Tựu |url=https://sqhx-hanoi.mediacdn.vn/91579363132710912/2026/7/2/3-nq-hdnd-phuong-ve-sap-xep-to-dan-pho-1782960762003287089972.pdf |url-status=dead |archive-url=https://web.archive.org/web/20260815201510/https://sqhx-hanoi.mediacdn.vn/91579363132710912/2026/7/2/3-nq-hdnd-phuong-ve-sap-xep-to-dan-pho-1782960762003287089972.pdf |archive-date=2026-08-15 |access-date=2026-08-15 |website=Trang Thông tin điện tử phường Tây Tựu – thành phố Hà Nội}}</ref><ref name=":4">{{Chú thích web |title=Phụ lục Danh mục tổ dân phố sắp xếp, tổ chức lại trên địa bàn phường Tây Tựu (Kèm theo Nghị quyết số 28/NQ-HĐND ngày 29 tháng 6 năm 2026 của Hội đồng nhân dân phường Tây Tựu) |url=https://sqhx-hanoi.mediacdn.vn/91579363132710912/2026/7/2/3-nq-bieu-kem-theo-17829612653611767467584.pdf |url-status=dead |archive-url=https://web.archive.org/web/20260814201510/https://sqhx-hanoi.mediacdn.vn/91579363132710912/2026/7/2/3-nq-bieu-kem-theo-17829612653611767467584.pdf |archive-date=2026-08-14 |access-date=2026-08-14 |website=Trang Thông tin điện tử phường Tây Tựu – thành phố Hà Nội}}</ref><ref name=":3">{{Chú thích web |title=Thông báo số 1971/TB-UBND ngày 30 tháng 6 năm 2026 của Ủy ban nhân dân phường Tây Tựu về việc công khai nội dung Nghị quyết sắp xếp, tổ chức lại tổ dân phố trên địa bàn phường Tây Tựu |url=https://sqhx-hanoi.mediacdn.vn/91579363132710912/2026/7/2/tay-tuu-thong-bao-1971-cong-khai-nghi-quyet-1782961600161608578189.pdf |url-status=dead |archive-url=https://web.archive.org/web/20260815201510/https://sqhx-hanoi.mediacdn.vn/91579363132710912/2026/7/2/tay-tuu-thong-bao-1971-cong-khai-nghi-quyet-1782961600161608578189.pdf |archive-date=2026-08-15 |access-date=2026-08-15 |website=Trang Thông tin điện tử phường Tây Tựu – thành phố Hà Nội}}</ref>
+
+== Hành chính ==
+Phường Tây Tựu được chia thành 14 tổ dân phố: Hạ 1, 2, Minh Khai, Ngọa Long, Nguyên Xá 1, 2, Phúc Lý 1, 2, Thượng 1, 2, Trung 1, 2, Văn Trì 1 và 2.<ref name=":0" /><ref name=":1" /><ref name=":4" /><ref name=":3" />
+{| class="wikitable sortable" cellpadding="0" cellspacing="6" width="100%" align="center" style="background: #f9f9f9; border: 1px #aaa solid; margin-top: 16px"
+! colspan="4" style="background: #E6E6FA; font-size: 95%;" |Danh sách các tổ dân phố thuộc phường Tây Tựu<ref name=":0" /><ref name=":1" /><ref name=":4" /><ref name=":3" />
+|-
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| cellpadding="1" cellspacing="1" width="100%" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Hạ 1
+|1.005
+|-
+| align="left" |Hạ 2
+|929
+|-
+| align="left" |Minh Khai
+|705
+|-
+| align="left" |Ngọa Long
+|1.208
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| cellpadding="1" cellspacing="1" width="100%" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Nguyên Xá 1
+|2.941
+|-
+| align="left" |Nguyên Xá 2
+|3.962
+|-
+| align="left" |Phúc Lý 1
+|821
+|-
+| align="left" |Phúc Lý 2
+|876
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| cellpadding="1" cellspacing="1" width="100%" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Thượng 1
+|1.868
+|-
+| align="left" |Thượng 2
+|1.335
+|-
+| align="left" |Trung 1
+|967
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| cellpadding="1" cellspacing="1" width="100%" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Trung 2
+|945
+|-
+| align="left" |Văn Trì 1
+|1.110
+|-
+| align="left" |Văn Trì 2
+|2.618
+|}
+|}
+
+== Văn hóa==
+Tây Tựu nổi tiếng với nghề trồng hoa, rau sống, cây gia vị.
+<!-- 
+== Giao thông== 
+Các tuyến, hệ thống giao thông quan trọng đi qua xã Kim Chung:
+
+* Quốc lộ 32: Xã có gần 2000m quốc lộ 32 chạy qua (đoạn từ lý trình km13 + 915 đến km15 + 620) trong tổng số 5960m quốc lộ 32 đi qua huyện Hoài Đức.
+* Tỉnh lộ 422B: đi ngã tư Canh, ngã tư Sơn Đồng.
+* Hệ thống xe buýt: 20A, 29, 70A, 70B, 92, 97, 117, 163...
+
+== Văn hóa==
+
+=== Di tích=== 
+Xã Kim Chung có nhiều di tích có giá trị về văn hóa, lịch sử, kiến trúc, nghệ thuật cũng như khảo cổ học tiêu biểu như:
+
+* Cụm di tích đình chùa Lai Xá thờ Hoàng hậu Thuận Thiên, Cung phi Nguyệt Nương; An Sinh Vương Trần Liễu đã được dân làng phong làm thành hoàng và thờ tự. Cụm di tích được Bộ văn hóa thông tin xếp hạng là di tích kiến trúc và nghệ thuật cấp quốc gia 1990.
+* Di chỉ Vườn Chuối là di chỉ có giá trị nghiên cứu khảo cổ học từ 2000 - 3000 năm trước với nhiều cổ vật như đồ đá, đồ đồng, sành, tre...
+* Bảo tàng Nhiếp ảnh Lai Xá là nơi bảo tồn, lưu giữ nhiều hiện vật, di sản văn hóa, sự thăng trầm của nghề ảnh suốt thế kỷ 20 đến nay.
+* Bảo tàng Nguyễn Văn Huyên, nơi lưu giữ, trưng bày, giới thiệu về cuộc đời và sự nghiệp nghiên cứu khoa học, giáo dục của giáo sư Nguyễn Văn Huyên, Bộ trưởng Bộ Quốc gia Giáo dục nước Việt Nam Dân Chủ Cộng Hoà (1946 – 1975).
+
+== Hạ tầng== 
+Với vị trí nằm sát trung tâm nội thành thành phố Hà Nội nên xã có tốc độ đô thị hóa khá nhanh ở các khu dân cư thôn xóm. Có rất nhiều khu đô thị lớn ở xã và ở các xã, thị trấn lân cận như: khu đô thị Kim Chung - Di Trạch (nay là Hinode Royal Park), khu đô thị Vân Canh, khu đô thị Lideco, khu đô thị Vườn Cam... cho thấy tốc độ đô thị hóa ở đây khá lớn. Việc đô thị hóa ngoài tự phát quá nhanh và nhiều cũng gây ra một số hệ lụy như cung vượt quá cầu ở các khu đô thị này gây ra nhiều lãng phí.
+
+== Kinh tế== 
+Xã Kim Chung hầu như không còn đất sản xuất nông nghiệp. Kinh tế hộ gia đình chủ yếu dựa vào thương mại, dịch vụ, tiểu thủ công nghiệp. Đây là xã có dịch vụ phát triển mạnh nhất là ở thôn Lai Xá. Thôn Lai Xá cũng là làng nghề truyền thống nhiếp ảnh đã được công nhận. Thôn Đại Tự còn có nghề mộc, cơ khí nhỏ. Cơ sở hạ tầng dân sinh của xã đang dần hiện đại ở một xã ven đô.
+ -->
+== Chú thích== 
+{{tham khảo| 30em}}
+
+== Tham khảo ==
+{{Sơ khai Hà Nội}}
+{{Đơn vị hành chính thuộc thành phố Hà Nội}}

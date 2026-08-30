@@ -1,0 +1,168 @@
+{
+  "ward_code": "00127",
+  "ward_name": "Việt Hưng",
+  "province_code": "01",
+  "resolution": "",
+  "arrangement": "2026_07",
+  "effective_date": "2026-07-01",
+  "verified": "unverified",
+  "extraction": {
+    "source": "vi.wikipedia.org",
+    "title": "(cache)",
+    "mode": "table"
+  },
+  "sources": [
+    {
+      "key": "wiki-00127-1",
+      "title": "Nghị quyết số 14/NQ-HĐND ngày 29 tháng 6 năm 2026 của Hội đồng nhân dân phường Việt Hưng về việc thành lập, sắp xếp, tổ chức lại tổ dân phố trên địa bàn phường Việt Hưng, thành phố Hà Nội",
+      "url": "https://sqhx-hanoi.mediacdn.vn/91579363132710912/2026/7/5/2-nghi-quyet-sap-xep-tdp-17832357773631644105426.pdf",
+      "date": "2026-07-23",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-00127-2",
+      "title": "Nghị quyết số 111/2025/UBTVQH15 ngày 24 tháng 12 năm 2025 của Ủy ban Thường vụ Quốc hội về phân loại đô thị",
+      "url": "https://cdn.nhandan.vn/files/f4a4abf7f9a0ba4a91744616546d850872b76917f90d5a74cc9eebef1369fb6f/111.pdf",
+      "date": "2026-08-14",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-00127-3",
+      "title": "Kỳ họp thứ hai (kỳ họp chuyên đề) Hội đồng nhân dân lâm thời phường Việt Hưng, nhiệm kỳ 2021 – 2026",
+      "url": "https://viethung.hanoi.gov.vn/tin-tuc-su-kien/ky-hop-thu-hai-ky-hop-chuyen-de-hoi-dong-nhan-dan-lam-thoi-phuong-viet-hung-nhiem-ky-2021-2026-2783250724095552263.htm?gidzl=l4PrBu6MgN-uMN4fYuolSRXOToETY_eZfGmhTv_RftBrMNubpedr9V9HUYQSWgPoymPx86KBuUbXX9UjVG",
+      "date": "2025-07-24",
+      "type": "wikipedia-ref"
+    }
+  ],
+  "note": "Trích tự động từ Wikipedia tiếng Việt (mode=table). Cần đối chiếu nghị quyết HĐND phường/xã.",
+  "tdp": [
+    {
+      "name": "Đức Giang 1",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Đức Giang 2",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Đức Giang 3",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Đức Giang 4",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Đức Giang 5",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Đức Giang 6",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Đức Giang 7",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Đức Giang 8",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Giang Biên 1",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Giang Biên 2",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Giang Biên 3",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Giang Biên 4",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Giang Biên 5",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Giang Biên 6",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Giang Biên 7",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Giang Biên 8",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Giang Biên 9",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Thượng Thanh 1",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Thượng Thanh 2",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Thượng Thanh 3",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Thượng Thanh 4",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Thượng Thanh 5",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Thượng Thanh 6",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Thượng Thanh 7",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Thượng Thanh 8",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Việt Hưng 1",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Việt Hưng 2",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Việt Hưng 3",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Việt Hưng 4",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Việt Hưng 5",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Việt Hưng 6",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Việt Hưng 7",
+      "type": "tổ dân phố"
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "ward_code": "10180",
+  "ward_name": "Dân Hoà",
+  "province_code": "01",
+  "resolution": "",
+  "arrangement": "2026_07",
+  "effective_date": "2026-07-01",
+  "verified": "unverified",
+  "extraction": {
+    "source": "vi.wikipedia.org",
+    "title": "(cache)",
+    "mode": "table"
+  },
+  "sources": [
+    {
+      "key": "wiki-10180-1",
+      "title": "Kỳ họp thứ ba Hội đồng nhân dân xã Dân Hòa khóa XXIV: ngày làm việc thứ hai hoàn thành toàn bộ chương trình",
+      "url": "https://danhoa.hanoi.gov.vn/tin-tuc-su-kien/ky-hop-thu-ba-hdnd-xa-dan-hoa-khoa-xxiv-ngay-lam-viec-thu-hai-hoan-thanh-toan-bo-chuong-trinh-2765260630193033066.htm?gidzl=Ok2xDOQYZXnc_xypZBgE7MVylJsRx8qHUQgqEStgWXSchh8ubUhG5tUWvpkGuTH0SA2rFcBISm0OWwEA7W",
+      "date": "2026-06-30",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-10180-2",
+      "title": "Nghị quyết số 1656/NQ-UBTVQH15 ngày 16 tháng 6 năm 2025 của Ủy ban Thường vụ Quốc hội về việc sắp xếp các đơn vị hành chính cấp xã của thành phố Hà Nội năm 2025",
+      "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf",
+      "date": "2026-06-30",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-10180-3",
+      "title": "Bài tuyên truyền về Đề án sắp xếp, tổ chức lại Thôn trên địa bàn xã Hòa Phú năm 2026",
+      "url": "https://danhoa.hanoi.gov.vn/thong-tin-tuyen-truyen/du-thao-phuong-an-sap-xep-thon-to-dan-pho-tren-dia-ban-xa-dan-hoa-2765260615173046462.htm?gidzl=rd7L4DfD4rVIRj4Mq5KJLjDjqnV70n1LpJlQ4v457rEIFzmIoGLDKyCnYH7C3aa4n37R568w3VDstqmNLG",
+      "date": "2026-06-18",
+      "type": "wikipedia-ref"
+    }
+  ],
+  "note": "Trích tự động từ Wikipedia tiếng Việt (mode=table). Cần đối chiếu nghị quyết HĐND phường/xã.",
+  "tdp": [
+    {
+      "name": "Canh Họach",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Áng Phao",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Cao Xá",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Châu Mai",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Đồng Tiến",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Hòang Kỳ",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Mục Xá",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Ngọc Đình",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Phú An Tiên",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Quế Sơn",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Tảo Dương",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Thị Nguyên",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Tri Lễ",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Trường Xuân",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Từ Châu",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Ước Lễ",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Vũ Lăng",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Xuyên Dương",
+      "type": "tổ dân phố"
+    }
+  ]
+}

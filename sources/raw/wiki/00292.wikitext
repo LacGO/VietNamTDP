@@ -1,0 +1,317 @@
+{{Thông tin đơn vị hành chính Việt Nam |Phường
+| tên = Bạch Mai
+| hình = Hanoi University of Science and Technology - DSC04501.JPG 
+| ghi chú hình = Đại học Bách Khoa Hà Nội 
+| vĩ độ = 21.008267436148177
+| kinh độ = 105.84868253053538
+| diện tích = 2,95 km²
+| dân số = 129.571 người
+| thời điểm dân số = 2025
+| mật độ dân số = {{formatnum:{{#expr:floor({{formatnum:129.571| R}}/{{formatnum:2,95| R}})}} }} người/km²
+| vùng = [[Đồng bằng sông Hồng]]
+| thành phố = [[Hà Nội]]
+| trụ sở UBND = Số 33 Đại Cồ Việt<ref>{{Chú thích web |url=https://storage-vnportal.vnpt.vn/gov-hni/6244/VanBan/2025/6/25/TB-729-2025.pdf |title=Thông báo số 729/TB-UBND ngày 25 tháng 6 năm 2025 của Ủy ban nhân dân thành phố Hà Nội về địa điểm trụ sở làm việc của 126 phường, xã sau sắp xếp thuộc phạm vi quản lý của thành phố Hà Nội|access-date=2026-06-15 |archive-date=2026-06-15 |archive-url=https://web.archive.org/web/20260615034519/https://storage-vnportal.vnpt.vn/gov-hni/6244/VanBan/2025/6/25/TB-729-2025.pdf |url-status=dead | website = Cổng Thông tin điện tử Ủy ban nhân dân thành phố Hà Nội}}</ref>
+| mã hành chính =00292<ref>{{Chú thích web |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/19ttg.signed.pdf |title=Quyết định số 19/2025/QĐ-TTg ngày 30 tháng 6 năm 2025 của Thủ tướng Chính phủ về việc Ban hành Bảng danh mục và mã số các đơn vị hành chính Việt Nam |access-date=2026-06-15 |archive-date=2026-06-15 |archive-url=https://web.archive.org/web/20260615034519/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/19ttg.signed.pdf |url-status=dead | website = Cổng Thông tin điện tử Chính phủ}}</ref> 
+| mã bưu chính = 
+| bản đồ 1 = [[File:Bach Mai map.png| 300px]]
+| tựa bản đồ 1 = Bản đồ phường Bạch Mai
+|web={{url|bachmai.hanoi.gov.vn}}|trụ sở Đảng ủy=Số 33 Đại Cồ Việt}}
+{{other|Bạch Mai (định hướng)}}
+'''Bạch Mai''' là một [[Phường (Việt Nam)|phường]] thuộc thành phố [[Hà Nội]], [[Việt Nam]].
+
+== Địa lý== 
+Phường Bạch Mai có vị trí địa lý:
+
+* Phía đông giáp phường [[Vĩnh Tuy (phường)|Vĩnh Tuy]] (ranh giới đi dọc theo [[sông Kim Ngưu]])
+* Phía tây giáp phường [[Kim Liên (phường)|Kim Liên]] (ranh giới đi theo đường Giải Phóng)
+* Phía nam giáp phường [[Tương Mai]] (ranh giới đi theo phố Đại La – phố Minh Khai)
+* Phía bắc giáp phường [[Hai Bà Trưng, Hà Nội|Hai Bà Trưng]] (ranh giới đi theo đường đường Đại Cồ Việt – Trần Khát Chân).<ref>{{Chú thích web | url = https://xaydungchinhsach.chinhphu.vn/chi-tiet-du-thao-phuong-an-sap-xep-cac-phuong-cua-ha-noi-119250421100531902.htm| title = Chi tiết dự thảo phương án sắp xếp các phường của Hà Nội| date = 2025-04-28| website = Xây dựng chính sách, pháp luật|last=Báo Điện tử Chính phủ|url-status=live|archive-url=https://web.archive.org/web/20260703400809/https://xaydungchinhsach.chinhphu.vn/chi-tiet-du-thao-phuong-an-sap-xep-cac-phuong-cua-ha-noi-119250421100531902.htm|archive-date=2026-07-03|access-date=2026-07-03}}</ref><ref>{{Chú thích web |last=Viện nghiên cứu Phát triển kinh tế – xã hội Hà Nội|date=2025-07-02|title=Phường Bạch Mai: Những thông tin chi tiết sau sắp xếp|url=https://hanoionline.vn/phuong-bach-mai-nhung-thong-tin-chi-tiet-sau-sap-xep-344074.htm|url-status=dead|archive-url=https://web.archive.org/web/20260816400809/https://hanoionline.vn/phuong-bach-mai-nhung-thong-tin-chi-tiet-sau-sap-xep-344074.htm|archive-date=2026-08-16|access-date=2026-08-16|website=Cơ quan Báo và Phát thanh Truyền hình Hà Nội}}</ref><ref>{{Chú thích web |last=Cơ quan Báo và Phát thanh Truyền hình Hà Nội|date=2025-07-04|title=Phường Bạch Mai: Tất cả thông tin chỉ dẫn bạn cần biết|url=https://hanoionline.vn/phuong-bach-mai-tat-ca-thong-tin-chi-dan-ban-can-biet-344696.htm|url-status=dead|archive-url=https://web.archive.org/web/20260816401509/https://hanoionline.vn/phuong-bach-mai-tat-ca-thong-tin-chi-dan-ban-can-biet-344696.htm|archive-date=2026-08-16|access-date=2026-08-16}}</ref>
+Phường Bạch Mai có diện tích tự nhiên là 2,95&nbsp;km<sup>2</sup>, quy mô dân số năm 2025 là 129.571 người và mật độ dân số đạt 43.992 người/km<sup>2</sup>.<ref>Công văn số 2896/BNV-CQĐP ngày 27 tháng 5 năm 2025 của Bộ Nội vụ về việc cung cấp thông tin danh mục dự kiến đơn vị hành chính cấp xã mới.</ref><ref name=":02">{{Chú thích web |last=Viện nghiên cứu Phát triển kinh tế - xã hội Hà Nội|date=2025-07-02|title=Phường Bạch Mai: Những thông tin chi tiết sau sắp xếp|url=https://hanoionline.vn/phuong-bach-mai-nhung-thong-tin-chi-tiet-sau-sap-xep-344074.htm|url-status=live|archive-url=https://web.archive.org/web/20260701400809/https://hanoionline.vn/phuong-bach-mai-nhung-thong-tin-chi-tiet-sau-sap-xep-344074.htm|archive-date=2026-07-01|access-date=2026-07-01|website=Cơ quan Báo và Phát thanh Truyền hình Hà Nội}}</ref>
+
+== Lịch sử==
+
+=== Trước năm 1976 ===
+
+=== Giai đoạn 1976 – nay ===
+Sau ngày 2 tháng 7 năm 1976, 10 tiểu khu: Bách Khoa, Bạch Mai, Cầu Dền, Đồng Tâm, Lê Đại Hành, Minh Khai, Quỳnh Lôi, Quỳnh Mai, Thanh Nhàn và Trương Định thuộc khu phố [[Hai Bà Trưng (quận)|Hai Bà Trưng]]; tiểu khu Phương Mai thuộc khu phố [[Đống Đa (quận)|Đống Đa]] của thành phố [[Hà Nội]].
+
+Ngày 3 tháng 1 năm 1981, từ nay ở nội thành, đơn vị hành chính cấp dưới trực tiếp của [[Thành phố trực thuộc trung ương (Việt Nam)|thành phố trực thuộc trung ương]] đều thống nhất gọi là [[Quận (Việt Nam)|quận]]; các đơn vị hành chính cơ sở ở nội thành, nội thị của các [[Thành phố thuộc tỉnh (Việt Nam)|thành phố thuộc tỉnh]], [[Thị xã (Việt Nam)|thị xã]] và [[Quận (Việt Nam)|quận]] gọi là [[Phường (Việt Nam)|phường]]. Khi đó, 10 phường: Bách Khoa, Bạch Mai, Cầu Dền, Đồng Tâm, Lê Đại Hành, Minh Khai, Quỳnh Lôi, Quỳnh Mai, Thanh Nhàn và Trương Định thuộc quận [[Hai Bà Trưng (quận)|Hai Bà Trưng]]; phường Phương Mai thuộc quận [[Đống Đa (quận)|Đống Đa]].<ref>Quyết định số 3-CP ngày 3 tháng 1 năm 1981 của Hội đồng Chính phủ về việc thống nhất tên gọi các đơn vị hành chính ở nội thành nội thị.</ref>
+
+Ngày 14 tháng 11 năm 2024:
+
+* Nhập phường Quỳnh Lôi vào phường Bạch Mai.
+* Nhập phường Cầu Dền vào phường Bách Khoa và phường Thanh Nhàn.<ref>{{Chú thích web |tiêu đề=Nghị quyết số 1286/NQ-UBTVQH15 ngày 14 tháng 11 năm 2024 của Ủy ban Thường vụ Quốc hội về việc sắp xếp đơn vị hành chính cấp xã của thành phố Hà Nội giai đoạn 2023 – 2025 |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/11/1286-qh.signed.pdf |url-status=dead |archive-url=https://web.archive.org/web/20260703400809/https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/11/1286-qh.signed.pdf |ngày lưu trữ=2026-07-03 |ngày truy cập=2026-07-03 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+
+Ngày 16 tháng 6 năm 2025:
+
+* Kết thúc hoạt động của đơn vị hành chính cấp huyện trong cả nước.<ref>{{Chú thích web |last= |date= |title=Nghị quyết số 203/2025/QH15 ngày 16 tháng 6 năm 2025 của Quốc hội khóa XV, Kỳ họp thứ 9 về việc sửa đổi, bổ sung một số điều của Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/nq-sua-doi-hien-phap.pdf |url-status=live |archive-url=https://web.archive.org/web/20260613090807/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/nq-sua-doi-hien-phap.pdf |archive-date=2026-06-13 |access-date=2026-06-13 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+* Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của các phường Bạch Mai, Bách Khoa, Quỳnh Mai, một phần diện tích tự nhiên, quy mô dân số của các phường Minh Khai, Đồng Tâm, Lê Đại Hành (quận [[Hai Bà Trưng (quận)|Hai Bà Trưng]]), Phương Mai (quận [[Đống Đa (quận)|Đống Đa]]), Trương Định và phần còn lại của phường Thanh Nhàn (quận [[Hai Bà Trưng (quận)|Hai Bà Trưng]]) thành phường mới có tên gọi là phường Bạch Mai.<ref>{{Chú thích web |title=Nghị quyết số 1656/NQ-UBTVQH15 ngày 16 tháng 6 năm 2025 của Ủy ban Thường vụ Quốc hội về việc sắp xếp các đơn vị hành chính cấp xã của thành phố Hà Nội năm 2025 |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf |url-status=live |archive-url=https://web.archive.org/web/20260630400809/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf |archive-date=2026-06-30 |access-date=2026-06-30 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+Ngày 21 tháng 7 năm 2025, sắp xếp, đổi tên 108 tổ dân phố trên địa bàn phường Bạch Mai. Sau khi sắp xếp, phường Bạch Mai được chia thành 108 tổ dân phố.<ref>108 tổ dân phố: 1A, 1B, 1C, 2A, 2B, 3A, 3B, 4A, 4B, 5A, 5B, 6A, 6B, 7A, 7B, 8, 9A, 9B, 10A, 10B, 10C, từ 11 đến 14, 15A, 15B, từ 16 đến 22, từ 24 đến 30, 31A, 31B, 32A, 32B, từ 33 đến 39, 40A, 40B, từ 41 đến 56, 57A, 57B, 57C, từ 58 đến 60, 61A, 61B, 62A, 62B, 63, 64A, 64B, 65, 66A, 66B, 67A, 67B, 67C, 68A, 68B, 69A, 69B và từ 70 đến 84.</ref><ref>{{Chú thích web |title=Thông tư số 10/2022/TT-BTNMT ngày 29 tháng 9 năm 2022 của Bộ Tài nguyên và Môi trường về việc Ban hành Danh mục địa danh dân cư, sơn văn, thủy văn, kinh tế – xã hội phục vụ công tác thành lập bản đồ thành phố Hà Nội |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2022/10/10-btnmt.pdf |url-status=live |archive-url=https://web.archive.org/web/20260630400809/https://datafiles.chinhphu.vn/cpp/files/vbpq/2022/10/10-btnmt.pdf |archive-date=2026-06-30 |access-date=2026-06-30 |website=Cổng Thông tin điện tử Chính phủ}}</ref><ref>{{Chú thích web |last=Phòng Văn hóa – Xã hội phường Bạch Mai |date=2025-07-17 |title=Phường Bạch Mai triển khai lấy ý kiến về đổi tên tổ dân phố |url=https://bachmai.hanoi.gov.vn/chi-dao-dieu-hanh/phuong-bach-mai-trien-khai-lay-y-kien-ve-doi-ten-to-dan-pho-2821250717170327152.htm |url-status=dead |archive-url=https://web.archive.org/web/20260817201510/https://bachmai.hanoi.gov.vn/chi-dao-dieu-hanh/phuong-bach-mai-trien-khai-lay-y-kien-ve-doi-ten-to-dan-pho-2821250717170327152.htm |archive-date=2026-08-17 |access-date=2026-08-17 |website=Trang Thông tin điện tử phường Bạch Mai – thành phố Hà Nội}}</ref><ref>{{Chú thích web |last=Đình Hiệp |date=2025-07-21 |title=Phường Bạch Mai thông qua nghị quyết về việc đổi tên các tổ dân phố |url=https://hanoimoi.vn/phuong-bach-mai-thong-qua-nghi-quyet-ve-viec-doi-ten-cac-to-dan-pho-709870.html?gidzl=gMS5L4uObmQjU05IH02V0wnx35bJLfa8iNiC2bPJc0-nVWXQLmAS2ECjNrC01y46uYjGL3ZHJgTZIncJ10 |url-status=dead |archive-url=https://web.archive.org/web/20260817201510/https://hanoimoi.vn/phuong-bach-mai-thong-qua-nghi-quyet-ve-viec-doi-ten-cac-to-dan-pho-709870.html?gidzl=gMS5L4uObmQjU05IH02V0wnx35bJLfa8iNiC2bPJc0-nVWXQLmAS2ECjNrC01y46uYjGL3ZHJgTZIncJ10 |archive-date=2026-08-17 |access-date=2026-08-17 |website=Cơ quan Báo và Phát thanh, truyền hình Hà Nội}}</ref><ref>{{Chú thích web |last= |date= |title=Quyết định số 8/QĐ-UBBC ngày 24 tháng 6 năm 2026 của Ủy ban bầu cử phường Bạch Mai về việc công bố danh sách chính thức những người ứng cử đại biểu Hội đồng nhân dân phường Bạch Mai khóa II, nhiệm kỳ 2026 – 2031 |url=https://web.facebook.com/story.php?story_fbid=122164338866937665&id=61578129956362&rdid=mFZW9fT47WUdIEDi# |url-status=dead |archive-url=https://web.archive.org/web/20260817201510/https://web.facebook.com/story.php?story_fbid=122164338866937665&id=61578129956362&rdid=mFZW9fT47WUdIEDi# |archive-date=2026-08-17 |access-date=2026-08-17 |website=Mặt trận phường Bạch Mai – thành phố Hà Nội}}</ref>
+
+Ngày 24 tháng 12 năm 2025, xác định phường Bạch Mai là [[Đô thị Việt Nam|đô thị loại II]].<ref>Chuyển tiếp từ phường Phương Mai thuộc quận Đống Đa và 8 phường: Bách Khoa, Bạch Mai, Đồng Tâm, Lê Đại Hành, Minh Khai, Quỳnh Mai, Thanh Nhàn, Trương Định thuộc quận Hai Bà Trưng.</ref><ref>{{Chú thích web |title=Nghị quyết số 111/2025/UBTVQH15 ngày 24 tháng 12 năm 2025 của Ủy ban Thường vụ Quốc hội về phân loại đô thị |url=https://cdn.nhandan.vn/files/f4a4abf7f9a0ba4a91744616546d850872b76917f90d5a74cc9eebef1369fb6f/111.pdf |url-status=dead |archive-url=https://web.archive.org/web/20260430074852/https://cdn.nhandan.vn/files/f4a4abf7f9a0ba4a91744616546d850872b76917f90d5a74cc9eebef1369fb6f/111.pdf |archive-date=2026-04-30 |access-date=2026-07-12 |website=Báo Nhân dân}}</ref>
+
+Ngày 26 tháng 6 năm 2026, thành lập 49 tổ dân phố mới, đánh số từ 1 đến 4, từ 6 đến 34 và từ 36 đến 51; đổi tên 2 tổ dân phố: 20 và 63 lần lượt thành 2 tổ dân phố: 5 và 35.<ref>1. Thành lập Tổ dân phố số 01 (816 hộ/2390 nhân khẩu) trên cơ sở sắp xếp Tổ dân phố số 17 (425 hộ/1245 nhân khẩu) và Tổ dân phố số 24 (391 hộ/1145 nhân khẩu); 2. Thành lập Tổ dân phố số 02 (725 hộ/2123 nhân khẩu) trên cơ sở sáp nhập Tổ dân phố số 15A (279 hộ/875 nhân khẩu), Tổ dân phố số 15B (110 hộ/312 nhân khẩu) và Tổ dân phố số 16 (336 hộ/936 nhân khẩu); 3. Thành lập Tổ dân phố số 03 (846 hộ/2492 nhân khẩu) trên cơ sở sắp xếp Tổ dân phố số 12 (563 hộ/1960 nhân khẩu) và Tổ dân phố số 14 (283 hộ/982 nhân khẩu); 4. Thành lập Tổ dân phố số 04 (860 hộ/3053 nhân khẩu) trên cơ sở sắp xếp Tổ dân phố số 13 (396 hộ/1521 nhân khẩu) và Tổ dân phố số 19 (464 hộ/1532 nhân khẩu); 5. Thành lập Tổ dân phố số 05 (815 hộ/2643 nhân khẩu) trên cơ sở đổi tên Tổ dân phố số 20 (815 hộ/2643 nhân khẩu); 6. Thành lập Tổ dân phố số 06 (795 hộ/2475 nhân khẩu) trên cơ sở sắp xếp Tổ dân phố số 18 (425 hộ/1245 nhân khẩu) và Tổ dân phố số 24 (391 hộ/1145 nhân khẩu); 7. Thành lập Tổ dân phố số 07 (890 hộ/3001 nhân khẩu) trên cơ sở sắp xếp Tổ dân phố số 21 (389 hộ/1519 nhân khẩu) và Tổ dân phố số 22 (501 hộ/1482 nhân khẩu); 8. Thành lập Tổ dân phố số 08 (795 hộ/2475 nhân khẩu) trên cơ sở sắp xếp phần lớn Tổ dân phố số 3A (Trừ số 373 đến số 383 đường Trần Khát Chân và ngõ đến số 41 Võ Thị Sáu) (425 hộ/1245 nhân khẩu), Tổ dân phố 3B (404 hộ/1284 nhân khẩu) và Tổ dân phố số 11 (Từ đầu đường Trần Khát Chân đến ngõ 105 phố Bạch Mai) (231 hộ/741 nhân khẩu); 9. Thành lập Tổ dân phố số 09 (730 hộ/1676 nhân khẩu) trên cơ sở sắp xếp Tổ dân phố số 9A (705 hộ/ nhân khẩu) và một phần Tổ dân phố số 11 (Từ ngõ 105 phố Bạch Mai đến ngõ Đình Đông phố Bạch Mai) (25 hộ/79 nhân khẩu); 10. Thành lập Tổ dân phố số 10 (871 hộ/2646 nhân khẩu) trên cơ sở sắp xếp Tổ dân phố số 9B (456 hộ/1493 nhân khẩu), Tổ dân phố số 5A (325 hộ/1153 nhân khẩu) và một phần Tổ dân phố số 11 (Từ ngõ Đình Đông đến ngõ Chùa Hương Tuyết - ngõ 205 phố Bạch Mai) (501 hộ/1482 nhân khẩu); 11. Thành lập Tổ dân phố số 11 (708 hộ/2835 nhân khẩu) trên cơ sở sắp xếp Tổ dân phố số 6A (245 hộ/1004 nhân khẩu), Tổ dân phố số 7B (388 hộ/1595 nhân khẩu) và một phần Tổ dân phố số 11 (Từ ngõ Chùa Hương Tuyết – ngõ 205 Bạch Mai đến ngõ Trại Găng) (75 hộ/236 nhân khẩu); 12. Thành lập Tổ dân phố số 12 (715 hộ/2502 nhân khẩu) trên cơ sở sắp xếp phần lớn Tổ dân phố số 5B (Trừ số 195 Thanh Nhàn đến số 235 Thanh Nhàn; số 161 ngõ Quỳnh đến số 181 ngõ Quỷnh) (252 hộ/971 nhân khẩu), Tổ dân phố số 7A (361 hộ/1239 nhân khẩu) và một phần Tổ dân phố số 10A (Tập thể Ngân hàng, phố Võ Thị Sáu) (102 hộ/292 nhân khẩu); 13. Thành lập Tổ dân phố số 13 (732 hộ/2650 nhân khẩu) trên cơ sở sắp xếp hai phần Tổ dân phố số 10A (Trừ tập thể Ngân hàng, phố Võ Thị Sáu) (178 hộ/726 nhân khẩu), Tổ dân phố số 10B (271 hộ/890 nhân khẩu) và Tổ dân phố số 10C (283 hộ/1034 nhân khẩu); 14. Thành lập Tổ dân phố số 14 (711 hộ/2175 nhân khẩu) trên cơ sở sắp xếp hai phần Tổ dân phố số 1A (399 hộ/1215 nhân khẩu), Tổ dân phố số 1B (292 hộ/881 nhân khẩu) và một phần Tổ dân phố số 1C (Từ số 373 đến số 383 đường Trần Khát Chân; ngõ 1 đến số 41 Võ Thị Sáu) (20 hộ/79 nhân khẩu); 15. Thành lập Tổ dân phố số 15 (804 hộ/3191 nhân khẩu) trên cơ sở sắp xếp Tổ dân phố số 2A (379 hộ/1438 nhân khẩu) và Tổ dân phố số 2B (425 hộ/1753 nhân khẩu); 16. Thành lập Tổ dân phố số 16 (773 hộ/3420 nhân khẩu) trên cơ sở sắp xếp Tổ dân phố số 4A (241 hộ/1029 nhân khẩu), Tổ dân phố số 4B (247 hộ/1123 nhân khẩu) và Tổ dân phố số 8 (285 hộ/1268 nhân khẩu); 17. Thành lập Tổ dân phố số 17 (787 hộ/2463 nhân khẩu) trên cơ sở sắp xếp Tổ dân phố số 32A (317 hộ/973 nhân khẩu) và Tổ dân phố số 33 (470 hộ/1490 nhân khẩu); 18. Thành lập Tổ dân phố số 18 (803 hộ/2404 nhân khẩu) trên cơ sở sắp xếp Tổ dân phố số 32B (331 hộ/1010 nhân khẩu) và phần lớn Tổ dân phố số 34 (Trừ tập thể E5) (472 hộ/1444 nhân khẩu); 19. Thành lập Tổ dân phố số 19 (707 hộ/2216 nhân khẩu) trên cơ sở sắp xếp Tổ dân phố số 31A (346 hộ/1060 nhân khẩu) và Tổ dân phố số 31B (361 hộ/1156 nhân khẩu); 20. Thành lập Tổ dân phố số 20 (831 hộ/2658 nhân khẩu) trên cơ sở sắp xếp một phần Tổ dân phố số 34 (Tập thể E5) (40 hộ/361 nhân khẩu), Tổ dân phố số 35 (701 hộ/1987 nhân khẩu) và một phần Tổ dân phố số 36 (Trừ các tập thể D1, D2, D3, D4, khu nhà A8A, A8B thuộc ngõ 10 phố 8/3) (90 hộ/310 nhân khẩu); 21. Thành lập Tổ dân phố số 21 (1011 hộ/2642 nhân khẩu) trên cơ sở sắp xếp Tổ dân phố số 36 (gồm các tập thể D1, D2, D3, D4, khu nhà A8A, A8B thuộc ngõ 10 phố 8/3) (519 hộ/1481 nhân khẩu) và Tổ dân phố số 37 (492 hộ/1161 nhân khẩu); 22. Thành lập Tổ dân phố số 22 (1007 hộ/2810 nhân khẩu) trên cơ sở sắp xếp Tổ dân phố số 38 (539 hộ/1339 nhân khẩu) và Tổ dân phố số 39 (468 hộ/1471 nhân khẩu); 23. Thành lập Tổ dân phố số 23 (853 hộ/3028 nhân khẩu) trên cơ sở sắp xếp Tổ dân phố số 40A (414 hộ/1441 nhân khẩu) và Tổ dân phố số 43 (439 hộ/1587 nhân khẩu); 24. Thành lập Tổ dân phố số 24 (784 hộ/2642 nhân khẩu) trên cơ sở sắp xếp Tổ dân phố số 42 (464 hộ/1597 nhân khẩu) và Tổ dân phố số 44 (320 hộ/1045 nhân khẩu); 25. Thành lập Tổ dân phố số 25 (865 hộ/3098 nhân khẩu) trên cơ sở sắp xếp Tổ dân phố số 40B (381 hộ/1375 nhân khẩu), Tổ dân phố số 41 (407/1448 nhân khẩu) và một phần Tổ dân phố 5B (Từ số 195 đến số 235 phố Thanh Nhàn; 161 đến 181 ngõ Quỷnh) (77 hộ/275 nhân khẩu); 26. Thành lập Tổ dân phố số 26 (801 hộ/3002 nhân khẩu) trên cơ sở sắp xếp Tổ dân phố số 6B (414 hộ/1512 nhân khẩu) và Tổ dân phố số 46 (387/1490 nhân khẩu); 27. Thành lập Tỗ dân phố số 27 (723 hộ/2351 nhân khẩu) trên cơ sở sắp xếp Tổ dân phố số 49 (503 hộ/1546 nhân khẩu) và một phần Tổ dân phố 47 (gồm ngõ 4 phố Thanh Nhàn đến ngõ 259 phố Bạch Mai) (220 hộ/769 nhân khẩu); 28. Thành lập Tổ dân phố số 28 (765 hộ/2895 nhân khẩu) trên cơ sở sắp xếp Tổ dân phố số 45 (496 hộ/1737 nhân khẩu) và Tổ dân phố 50 (269 hộ/1158 nhân khẩu); 29. Thành lập Tổ dân phố số 29 (709 hộ/2573 nhân khẩu) trên cơ sở sắp xếp Tổ dân phố số 51 (337 hộ/1172 nhân khẩu) và Tổ dân phố 52 (372 hộ/1401 nhân khẩu); 30. Thành lập Tổ dân phố số 30 (1002 hộ/3392 nhân khẩu) trên cơ sở sắp xếp Tổ dân phố số 53 (485 hộ/1649 nhân khẩu) và Tổ dân phố 54 (517 hộ/1743 nhân khẩu); 31. Thành lập Tổ dân phố số 31 (760 hộ/3044 nhân khẩu) trên cơ sở sắp xếp Tổ dân phố số 57A (483 hộ/1649 nhân khẩu), một nửa Tổ dân phố số 57B (toàn bộ các hộ trong khu vực số lẻ ngõ 159 Hồng Mai đến số chẫn ngõ 133 Hồng Mai) (91 hộ/872 nhân khẩu) và một nửa Tổ dân phố số 57C (toàn bộ các hộ trong khu vực số lẻ ngõ 159 phố Hồng Mai đến số chẫn ngõ 133 phố Hồng Mai) (186 hộ/523 nhân khẩu); 32. Thành lập Tổ dân phố số 32 (714 hộ/2611 nhân khẩu) trên cơ sở sắp xếp một nửa Tổ dân phố số 57B (toàn bộ các hộ trong khu vực số chẫn ngõ 159 phố Hồng Mai) (182 hộ/872 nhân khẩu), một nửa Tổ dân phố số 57C (toàn bộ các hộ trong khu vực số chẵn ngõ 159 phố Hồng Mai) (170 hộ/523 nhân khẩu) và Tổ dân phố số 60 (362 hộ/1216 nhân khẩu); 33. Thành lập Tổ dân phố số 33 (702 hộ/2528 nhân khẩu) trên cơ sở sắp xếp Tổ dân phố số 61A (364 hộ/1326 nhân khẩu) và phần lớn Tổ dân phố số 61B (trừ hẻm 10 đến số 24 ngách 369 ngõ Quỳnh và ngõ 79 phố 8/3) (338 hộ/1202 nhân khẩu); 34. Thành lập Tổ dân phố số 34 (712 hộ/2427 nhân khẩu) trên cơ sở sắp xếp một phần Tổ dân phố số 61B (gồm hẻm 10 đến số 24 ngách 369 ngõ Quỳnh và ngõ 79 phố 8/3) (63 hộ/221 nhân khẩu), Tổ dân phố số 62A (229 hộ/740 nhân khẩu), Tổ dân phố số 62B (213 hộ/702 cá nhân) và phần lớn Tồ dân phố số 64A (các hộ bên số chẫn ngõ 191 Minh Khai) (207 hộ/764 nhân khẩu); 35. Thành lập Tổ dân phố số 35 (702 hộ/2029 nhân khẩu) trên cơ sở đổi tên Tổ dân phố số 63 (702 hộ/2029 nhân khẩu); 36. Thành lập Tổ dân phố số 36 (760 hộ/3044 nhân khẩu) trên cơ sở sắp xếp một phần Tổ dân phố số 64A (30 hộ/95 nhân khẩu), Tổ dân phố số 64B (238 hộ/924 nhân khẩu), Tổ dân phố số 65 (303 hộ/1227 nhân khẩu) và Tổ dân phố số 67A (256 hộ/876 nhân khẩu); 37. Thành lập Tổ dân phố số 37 (1001 hộ/3337 nhân khẩu) trên cơ sở sắp xếp Tổ dân phố số 66A (251 hộ/897 nhân khẩu), Tổ dân phố số 66B (237 hộ/825 nhân khẩu), Tổ dân phố số 67B (268 hộ/859 nhân khẩu) và Tổ dân phố số 67С (245 hộ/756 nhân khẩu); 38. Thành lập Tổ dân phố số 38 (820 hộ/2863 nhân khẩu) trên cơ sở sắp xếp Tổ dân phố số 68A (266 hộ/931 nhân khẩu), Tổ dân phố số 68B (252 hộ/882 nhân khẩu) và Tổ dân phố số 69A (302 hộ/1050 nhân khẩu); 39. Thành lập Tổ dân phố số 39 (812 hộ/2868 nhân khẩu) trên cơ sở sắp xếp Tổ dân phố số 58 (512 hộ/1888 nhân khẩu) và phần lớn Tổ dân phố số 59 (trừ các hộ số 10 ngách 35 ngõ Hòa Bình 2) (300 hộ/980 nhân khẩu); 40. Thành lập Tổ dân phố số 40 (828 hộ/2417 nhân khẩu) trên cơ sở sắp xếp Tổ dân phố số 55 (416 hộ/1290 nhân khẩu) và Tổ dân phố số 56 (412 hộ/1127 nhân khẩu); 41. Thành lập Tổ dân phố số 41 (817 hộ/2917 nhân khẩu) trên cơ sở sắp xếp một phần Tổ dân phố số 59 (các hộ thuộc số 10 ngách 35 ngõ Hòa Bình 2: từ số đến số 15 và từ số 2 đến số 10) (15 hộ/75 nhân khẩu), Tổ dân phố số 69B (316 hộ/1150 nhân khẩu) và phần lớn Tổ dân phố số 70 (từ ngõ 9 phố Minh Khai đến ngõ 30 phố Hồng Mai ) (486 hộ/1692 nhân khẩu); 42. Thành lập Tổ dân phố số 42 (859 hộ/2253 nhân khẩu) trên cơ sở sắp xếp phần lớn Tổ dân phố số 47 (các hộ bên số chẫn từ ngã tư phố Lê Thanh Nghị – Bạch Mai đến ngõ Điện Thông phố Bạch Mai) (413 hộ/1479 nhân khẩu) và TỔ dân phố số 48 (446 hộ/1774 nhân khẩu); 43. Thành lập Tổ dân phố số 43 (752 hộ/2601 nhân khẩu) trên cơ sở sắp xếp một phần Tổ dân phố số 70 (Từ ngõ 424 phố Bạch Mai đến số 488 phố Bạch Mai) (20 hộ/70 nhân khẩu), Tổ dân phố số 71 (323 hộ/1070 nhân khẩu) và Tổ dân phố số 72 (409 hộ/1461 nhân khẩu); 44. Thành lập Tổ dân phố số 44 (777 hộ/3223 nhân khẩu) trên cơ sở sắp xếp Tổ dân phố số 73 (425 hộ/1590 nhân khẩu) và phần lớn Tổ dân phố số 74 (352 hộ/1663 nhân khẩu); 45. Thành lập Tổ dân phố số 45 (723 hộ/2285 nhân khẩu) trên cơ sở sắp xếp Tổ dân phố số 75 (633 hộ/1910 nhân khẩu) và một phần Tổ dân phố số 74 (Đoạn phố Trần Đại Nghĩa; ngõ Tự do, phố Đại La và ngách 56 ngõ Tự do; bên số lẻ ngõ 60 phố Đại La) (90 hộ/375 nhân khẩu); 46. Thành lập Tổ dân phố số 46 (875 hộ/3511 nhân khẩu) trên cơ sở sắp xếp Tổ dân phố số 27 (276 hộ/1150 nhân khẩu), Tổ dân phố số 28 (302 hộ/1191 nhân khẩu) và Tổ dân phố số 29 (297 hộ/1170 nhân khẩu); 47. Thành lập Tổ dân phố số 47 (1009 hộ/3840 nhân khẩu) trên cơ sở sắp xếp Tổ dân phố số 25 (345 hộ/1312 nhân khẩu), Tổ dân phố số 26 (333 hộ/1245 nhân khẩu) và Tổ dân phố số 30 (331 hộ/1283 nhân khẩu); 48. Thành lập Tổ dân phố số 48 (964 hộ/3032 nhân khẩu) trên cơ sở sắp xếp Tổ dân phố số 76 (668 hộ/1994 nhân khẩu) và một nửa Tổ dân phố số 77 (bên số chẫn phố Lê Thanh Nghị và phố Trần Đại Nghĩa) (296 hộ/1038 nhân khẩu); 49. Thành lập Tổ dân phố số 49 (918 hộ/3008 nhân khẩu) trên cơ sở sắp xếp Tổ dân phố số 78 (623 hộ/1972 nhân khẩu) và một nửa Tổ dân phố số 77 (bên số lẻ phố Lê Thanh Nghị và đường Giải phóng) (295 hộ/1036 nhân khẩu); 50. Thành lập Tổ dân phố số 50 (1001 hộ/3354 nhân khẩu) trên cơ sở sắp xếp Tổ dân phố số 79 (282 hộ/1060 nhân khẩu), Tổ dân phố số 80 (334 hộ/1061 nhân khẩu) và Tổ dân phố số 81 (385 hộ/1233 nhân khẩu); 51. Thành lập Tổ dân phố số 51 (1108 hộ/2997 nhân khẩu) trên cơ sở sắp xếp Tổ dân phố số 82 (332 hộ/1027 nhân khẩu), Tổ dân phố số 83 (554 hộ/1246 nhân khẩu) và Tổ dân phố số 84 (242 hộ/724 nhân khẩu).</ref><ref name=":1">{{Chú thích web |last= |date= |title=Nghị quyết số 88/NQ-HĐND ngày 26 tháng 6 năm 2026 của Hội đồng nhân dân phường Bạch Mai về việc sắp xếp tổ dân phố trên địa bàn phường Bạch Mai |url=https://sqhx-hanoi.mediacdn.vn/91579363132710912/2026/7/10/nq-88-2026-hdnd-ve-sap-xep-to-dan-pho-1783669618357653608035.pdf |url-status=dead |archive-url=https://web.archive.org/web/20260817201510/https://sqhx-hanoi.mediacdn.vn/91579363132710912/2026/7/10/nq-88-2026-hdnd-ve-sap-xep-to-dan-pho-1783669618357653608035.pdf |archive-date=2026-08-17 |access-date=2026-08-17 |website=Trang Thông tin điện tử phường Bạch Mai – thành phố Hà Nội}}</ref>
+[[Tập tin:Bản đồ các tổ dân phố thuộc phường Bạch Mai của thành phố Hà Nội (từ ngày 1 tháng 7 năm 2026).png|trái|nhỏ|250x250px|Bản đồ phương án sắp xếp tổ dân phố phường Bạch Mai của thành phố Hà Nội (từ ngày 1 tháng 7 năm 2026)<ref name=":022">{{Chú thích web |last=Trang Thông tin điện tử phường Bạch Mai – thành phố Hà Nội |date=2026-06-22 |title=Phường Bạch Mai: Tuyên truyền Bản đồ phương án sáp nhập tổ dân phố năm 2026 |url=https://bachmai.hanoi.gov.vn/thong-bao/phuong-bach-mai-tuyen-truyen-ban-do-phuong-an-sap-nhap-to-dan-pho-nam-2026-2821260622144610692.htm |url-status=dead |archive-url=https://web.archive.org/web/20260817400809/https://bachmai.hanoi.gov.vn/thong-bao/phuong-bach-mai-tuyen-truyen-ban-do-phuong-an-sap-nhap-to-dan-pho-nam-2026-2821260622144610692.htm |archive-date=2026-08-17 |access-date=2026-08-17 |website=}}</ref>]]
+
+== Hành chính ==
+Phường Bạch Mai được chia thành 51 tổ dân phố, đánh số từ 1 đến 51.<ref name=":1" />
+{| class="wikitable sortable" align="center" width="100%" cellspacing="6" cellpadding="0" style="background: #f9f9f9; border: 1px #aaa solid; margin-top: 16px"
+! colspan="4" style="background: #E6E6FA; font-size: 95%;" |Danh sách các tổ dân phố thuộc phường Bạch Mai<ref name=":1" />
+|-
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Tổ dân phố 1
+|816
+|-
+| align="left" |Tổ dân phố 2
+|725
+|-
+| align="left" |Tổ dân phố 3
+|846
+|-
+| align="left" |Tổ dân phố 4
+|860
+|-
+| align="left" |Tổ dân phố 5
+|815
+|-
+| align="left" |Tổ dân phố 6
+|795
+|-
+| align="left" |Tổ dân phố 7
+|890
+|-
+| align="left" |Tổ dân phố 8
+|795
+|-
+| align="left" |Tổ dân phố 9
+|730
+|-
+| align="left" |Tổ dân phố 10
+|871
+|-
+| align="left" |Tổ dân phố 11
+|708
+|-
+| align="left" |Tổ dân phố 12
+|715
+|-
+| align="left" |Tổ dân phố 13
+|732
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Tổ dân phố 14
+|711
+|-
+| align="left" |Tổ dân phố 15
+|804
+|-
+| align="left" |Tổ dân phố 16
+|773
+|-
+| align="left" |Tổ dân phố 17
+|787
+|-
+| align="left" |Tổ dân phố 18
+|803
+|-
+| align="left" |Tổ dân phố 19
+|707
+|-
+| align="left" |Tổ dân phố 20
+|831
+|-
+| align="left" |Tổ dân phố 21
+|1.011
+|-
+| align="left" |Tổ dân phố 22
+|1.007
+|-
+| align="left" |Tổ dân phố 23
+|853
+|-
+| align="left" |Tổ dân phố 24
+|784
+|-
+| align="left" |Tổ dân phố 25
+|865
+|-
+| align="left" |Tổ dân phố 26
+|801
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Tổ dân phố 27
+|723
+|-
+| align="left" |Tổ dân phố 28
+|765
+|-
+| align="left" |Tổ dân phố 29
+|709
+|-
+| align="left" |Tổ dân phố 30
+|1.002
+|-
+| align="left" |Tổ dân phố 31
+|760
+|-
+| align="left" |Tổ dân phố 32
+|714
+|-
+| align="left" |Tổ dân phố 33
+|702
+|-
+| align="left" |Tổ dân phố 34
+|712
+|-
+| align="left" |Tổ dân phố 35
+|702
+|-
+| align="left" |Tổ dân phố 36
+|760
+|-
+| align="left" |Tổ dân phố 37
+|1.001
+|-
+| align="left" |Tổ dân phố 38
+|820
+|-
+| align="left" |Tổ dân phố 39
+|812
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Tổ dân phố 40
+|828
+|-
+| align="left" |Tổ dân phố 41
+|817
+|-
+| align="left" |Tổ dân phố 42
+|859
+|-
+| align="left" |Tổ dân phố 43
+|752
+|-
+| align="left" |Tổ dân phố 44
+|777
+|-
+| align="left" |Tổ dân phố 45
+|723
+|-
+| align="left" |Tổ dân phố 46
+|875
+|-
+| align="left" |Tổ dân phố 47
+|1.009
+|-
+| align="left" |Tổ dân phố 48
+|964
+|-
+| align="left" |Tổ dân phố 49
+|918
+|-
+| align="left" |Tổ dân phố 50
+|1.001
+|-
+| align="left" |Tổ dân phố 51
+|1.108
+|}
+|}<!-- 
+== Xã hội== 
+Phường Bách Khoa là khu vực tập trung nhiều cơ quan, trường học, doanh nghiệp lớn của quận Hai Bà Trưng như: [[Đại học Bách khoa Hà Nội]], [[Trường Đại học Mở Hà Nội]], Trường cao đẳng nghề Bách khoa Hà Nội, Chợ Bách Khoa, trường tiểu học Lê Văn Tám, trường THCS Ngô Gia Tự.
+== Giao thông== 
+Các tuyến đường chính của phường Bách Khoa, quận Hai Bà Trưng như: Đại Cồ Việt, Giải Phóng, Trần Đại Nghĩa, Tạ Quang Bửu, Lê Thanh Nghị, Nguyễn Hiền.
+
+== Khí hậu== 
+Khí hậu ẩm và cận nhiệt đới .  Nhiệt độ trung bình là 23 ° C. Tháng ấm nhất là tháng Bảy, ở 28  ° C , và tháng Giêng lạnh nhất, ở 18 ° C.  Lượng mưa trung bình là 2.285 mm mỗi năm. Tháng ẩm ướt nhất là tháng 8, với lượng mưa 462 mm và tháng 1 ẩm ướt nhất với 17 mm.
+
+== Phố Minh Khai== 
+Thời xưa, phố Minh Khai là một đoạn của tòa thành đất vòng ngoài bao quanh kinh thành Thăng Long.
+
+Thời Pháp thuộc, phần phía tây của phố Minh Khai được gọi là Hưng Ký (đặt theo tên nhà tư sản Hưng Ký, người có một dãy nhà cho thuê ở đây). Phần phía đông được gọi là phố Mai Động (đặt theo tên làng sở tại). Trong đợt đổi tên phố tháng 6/1964, hai phố được hợp nhất và đặt tên là phố Minh Khai.<ref name = ":0" />
+
+Trên địa bàn phường Phương Mai có nhiều loại hình khu dân cư gồm khu nhà tập thể Phương Mai cũ, khu chung cư cao tầng và nhà ở riêng lẻ, chia làm tổng cộng 22 tổ dân phố. Nhiều bệnh viện đa khoa và chuyên khoa thuộc tuyến trung ương và tương đương đều nằm trong phường, trong đó thể kể đến [[Bệnh viện Bạch Mai]] – một trong những bệnh viện đa khoa lớn và lâu đời nhất miền bắc Việt Nam.
+
+== Tên gọi== 
+Tên gọi của phường Phương Mai, theo sách ''Hà nội – phố làng biên niên sử'' (1999) của Nguyễn Bắc và Nguyễn Vinh Phúc thì là do sự ghép hai tên làng [[Phương Liệt]] và [[Bạch Mai]].<ref name = ":0">{{Chú thích web| url = https://phuongmai.dongda.hanoi.gov.vn/gioi-thieu-chung| tựa đề = Giới thiệu chung| website = Phường Phương Mai| ngôn ngữ = vi-VN| url-status = live| ngày truy cập = 2023-05-04}}</ref>
+
+== Lịch sử== 
+Địa bàn phường Phương Mai xưa là vùng đồng lúa – phía đông là cánh đồng làng [[Kim Liên (phường)| Kim Liên]] và phía tây là cánh đồng làng [[Trung Tự]].<ref name = ":0" />{{Sfnp| Nguyễn Phúc Vinh| 2004| p = 536}} Những cánh đồng này là các ruộng lúa và ao rau muống trải dài chạy dọc theo một con rạch ở phía sau [[Bệnh viện Bạch Mai]] – mà ngày nay là khu vực đoạn giữa và cuối phố Phương Mai. Con rạch này xưa kia tháo nước từ [[hồ Bảy Mẫu]] ra [[sông Lừ]] rồi chảy qua cống Vọng. Xung quanh đó cho đến cuối thời Nguyễn hầu như vắng bóng cư dân, ngoài mấy gia đình trong xóm Trại Cam Đường nằm ở phần đất phía đông sông Lừ thuộc làng cổ Trung Tự, thuộc phường Đông Tác có từ [[Nhà Lê sơ| thời Lê]]. Về sau con rạch đã bị thu hẹp dền và cuối cùng phải đặt ống cống ngầm, dấu vết độc nhất còn sót lại của vùng trũng này là hồ Kim Liên, thuộc địa phận phường Kim Liên.
+
+Khu vực phía nam phường từ khu vực Bệnh viện Bạch Mai ngày nay là địa phận làng [[Phương Liệt]].{{Sfnp| Nguyễn Phúc Vinh| 2004| p = 691}}
+
+== Địa lý== 
+Phường Phương Mai nằm ở phía đông nam quận [[Đống Đa (quận)| Đống Đa]], phía nam giáp phường [[Phương Liệt]], quận [[Thanh Xuân (quận)| Thanh Xuân]] với ranh giới là đường Trường Chinh, phía bắc giáp với phường [[Kim Liên (phường)| Kim Liên]], quận Đống Đa với ranh giới là phố Đào Duy Anh, phía Tây giáp với phường [[Khương Thượng]] và phường [[Trung Tự]], quận Đống Đa, phía đông giáp với hai phường [[Bạch Mai| Bách Khoa]] và [[Bạch Mai| Đồng Tâm]], quận [[Hai Bà Trưng]] với ranh giới là [[Đường Giải Phóng, Hà Nội| đường Giải Phóng]] và phố Vọng.<ref name = ":0" /> Phường có diện tích 0,62&nbsp;km<sup>2</sup>, với địa hình bằng phẳng.<ref name = ":0" /><ref>{{Chú thích web| url = https://dongda.hanoi.gov.vn/gioi-thieu| tựa đề = Giới thiệu| website = Quận Đống Đa| ngôn ngữ = vi| url-status = live| ngày truy cập = 2023-05-04}}</ref> Trên địa bàn phường có sông Lừ chảy qua ở phần ranh giới phía tây của phường.
+
+== Chính quyền địa phương==
+
+=== Tổ dân phố=== 
+Tính tới hết năm 2016, phường Phương Mai có 44 tổ dân phố, đặt tên theo thứ tự từ tổ dân phố số 1 tới tổ dân phố số 44. Tháng 1 năm 2017, tổ dân phố số 45 và tổ dân phố số 46 được thành lập cho hai khu chung cư mới trên địa bàn phường.<ref>{{Chú thích web| url = https://thuvienphapluat.vn/van-ban/Xay-dung-Do-thi/Quyet-dinh-382-QD-UBND-thanh-lap-To-dan-pho-moi-Ha-Noi-2016-2017-339036.aspx| tựa đề = Quyết định 382/QĐ-UBND về việc thành lập tổ dân phố mới trên địa bàn thành phố Hà Nội năm 2016| tác giả = [[Ủy ban nhân dân thành phố Hà Nội]]| ngày = 2017-01-19| website = Thư viện pháp luật| url-status = live| ngày truy cập = 2023-05-04}}</ref>
+
+Ngày 24 tháng 2 năm 2020, [[Hội đồng nhân dân thành phố Hà Nội]] ban hành nghị quyết về việc sáp nhập, đặt tên và đổi tên thôn, tổ dân phố trên địa bàn thành phố. Phường Phương Mai thực hiện sáp nhập và đổi tên 46 tổ dân phố cũ để lập 22 tổ dân phố mới, đặt tên theo thứ tự từ tổ dân phố số 1 tới tổ dân phố số 22.<ref>{{Chú thích web| url = http://www.hanoimoi.com.vn/tin-tuc/Chinh-tri/959489/ha-noi-sap-nhap-dat-ten-va-doi-ten-thon-to-dan-pho-tai-11-quan-huyen| tựa đề = Hà Nội sáp nhập, đặt tên và đổi tên thôn, tổ dân phố tại 11 quận, huyện| tác giả = Việt Tuấn| ngày = 2020-02-26| website = [[Hà Nội mới]]| url-status = live| ngày truy cập = 2023-05-04}}</ref><ref>{{Chú thích web| url = https://thuvienphapluat.vn/van-ban/Xay-dung-Do-thi/Nghi-quyet-01-NQ-HDND-2020-sap-nhap-dat-ten-va-doi-ten-thon-to-dan-pho-thanh-pho-Ha-Noi-436855.aspx| tựa đề = Nghị quyết 01/NQ-HĐND 2020 sáp nhập đặt tên và đổi tên thôn tổ dân phố thành phố Hà Nội| tác giả = [[Hội đồng nhân dân thành phố Hà Nội]]| ngày = 2020-02-24| website = Thư viện pháp luật| url-status = live| ngày truy cập = 2023-05-04}}</ref> 22 tổ dân phố này giữ ổn định đến hiện tại.
+
+=== Bộ máy tổ chức=== 
+Bộ máy tổ chức của phường Phương Mai gồm Đảng bộ phường Phương Mai, Hội đồng nhân dân phường Phương Mai, Ủy ban Mặt trận Tổ quốc phường Phương Mai và Ủy ban nhân dân phường Phương Mai, có văn phòng tại ngõ 28D phố Lương Định Của.
+
+Công an phường Phương Mai có văn phòng trên phố Phương Mai.
+
+== Đô thị== 
+Trên địa bàn phường Phương Mai có nhiều loại hình khu dân cư gồm khu nhà tập thể cũ, chung cư cao tầng và nhà ở riêng lẻ. Khu tập thể Phương Mai gồm nhiều khu nhà khác nhau. Các dãy nhà E và T nằm trên phố Phương Mai. Do vị trí nằm đối diện nhiều bệnh viện lớn nên từ đầu những năm 2000, lối đi giữa khu nhà E dần phát triển thành khu chợ tự phát để mở hàng quán phục vụ đồ ăn cho người nhà bệnh nhân.<ref>{{Chú thích web| url = https://laodongthudo.vn/khu-tap-the-phuong-mai-ha-noi-san-duong-noi-bo-thanh-noi-hop-cho-39934.html| tựa đề = Khu tập thể Phương Mai (Hà Nội): Sân, đường nội bộ thành nơi họp chợ| tác giả = Tuấn Dũng| họ = | tên = | website = Lao động thủ đô| ngôn ngữ = vi| url-status = live| ngày truy cập = 2023-05-06}}</ref> Các phòng thuộc dãy nhà E nằm trên mặt phố Phương Mai được nhiều nhà sử dụng để kinh doanh thiết bị y tế. Các dãy nhà D và dãy nhà I nằm trên phố Lương Định Của.
+
+Nằm trong phường Phương Mai có hai dự án chung cư cao tầng là khu chung cư và văn phòng Meco Complex – đi vào hoạt động từ năm 2013 – và chung cư Capital Garden – bàn giao nhà cho cư dân từ năm 2016.<ref name = ":1">{{Chú thích web| url = https://dangcongsan.vn/ban-doc/y-kien-ban-doc/nhieu-sai-pham-tai-chung-cu-meco-complex-577713.html| tựa đề = Nhiều sai phạm tại chung cư Meco Complex| tác giả = TL| ngày = 2021-04-04| website = Đảng Cộng sản Việt Nam| ngôn ngữ = vi| url-status = live| ngày truy cập = 2023-05-06}}</ref><ref name = ":2">{{Chú thích web| url = https://thanhnien.vn/cu-dan-capital-garden-to-chu-dau-tu-ban-giao-can-ho-chua-du-dieu-kien-185672167.htm| tựa đề = Cư dân Capital Garden 'tố' chủ đầu tư bàn giao căn hộ chưa đủ điều kiện| tác giả = Lê Quân| họ = | ngày = 2017-06-14| website = [[Thanh Niên (báo)| Thanh Niên]]| ngôn ngữ = vi| url-status = live| ngày truy cập = 2023-05-06}}</ref> Cả hai dự án chung cư sau khi đi vào hoạt động đều mắc những sai phạm liên quan tới xây dựng, phòng cháy chữa cháy và thiếu quyền lợi cho cư dân.<ref name = ":1" /><ref name = ":2" /><ref>{{Chú thích web| url = https://danviet.vn/vi-pham-phong-chay-chua-chay-ha-noi-dinh-chi-nhieu-chung-cu-cao-tang-20221006143132664.htm| tựa đề = Vi phạm phòng cháy chữa cháy: Hà Nội đình chỉ nhiều chung cư cao tầng| tác giả = Thái Nguyễn| họ = | website = Dân Việt| ngôn ngữ = vi| url-status = live| ngày truy cập = 2023-05-06}}</ref>
+
+== Xã hội==
+
+=== Y tế=== 
+Trạm Y tế phường Phương Mai đặt tại ngõ 28C phố Lương Định Của. Trên địa bàn phường Phương Mai còn đặt nhiều bệnh viện đa khoa và chuyên khoa thuộc tuyến trung ương và tương đương. [[Bệnh viện Bạch Mai]] trực thuộc [[Bộ Y tế (Việt Nam)| Bộ Y tế]] là một trong những bệnh viện đa khoa lớn và lâu đời nhất miền bắc Việt Nam, được thành lập từ năm 1911 với tên ban đầu là Nhà thương Cống Vọng.<ref>{{Chú thích web| url = https://tuoitre.vn/news-20211219094324933.htm| tựa đề = 110 năm thành lập Bệnh viện Bạch Mai: Từ Nhà thương Cống Vọng đến bệnh viện lớn nhất miền Bắc| tác giả = Dương Liễu| họ = | tên = | ngày = 2021-12-19| website = [[Tuổi Trẻ (báo)| Tuổi Trẻ]]| ngôn ngữ = vi| url-status = live| ngày truy cập = 2023-05-06}}</ref>
+
+=== Giáo dục=== 
+Phường Phương Mai có đủ các cấp trường học gồm [[Trường mẫu giáo| trường mầm non]], [[Trường tiểu học| tiểu học]], [[Trung học cơ sở (Việt Nam)| trung học cơ sở]] và [[Trung học phổ thông (Việt Nam)| trung học phổ thông]]. Cấp mầm non có trường Mầm non Phương Mai, cấp tiểu học có trường Tiểu học Phương Mai, cấp trung học cơ sở có trường Trung học cơ sở Phương Mai và cấp trung học phổ thông có trường Trung học phổ thông Phùng Khắc Khoan.
+
+== Giao thông== 
+Nằm trên địa bàn phường Phương Mai gồm hệ thống đường bộ gồm 6 đường, phố, bao gồm:
+
+* Đường Trường Chinh<br>Được đặt theo tên nhà cách mạng [[Trường Chinh]], đoạn đường Trường Chinh đi qua địa phận phường Phương Mai gồm dãy số nhà chẵn kéo dài từ ngã tư giao với phố Đại La tới cầu L5 bắc qua sông Lừ, nguyên là đất làng Phương Liệt xưa.{{Sfnp| Nguyễn Phúc Vinh| 2004| p = 671–673}} Nằm trên đường là khu dân cư của phường.
+* Đường Giải Phóng<br>Đoạn đường Giải Phóng đi qua địa phận phường Phương Mai gồm dãy số nhà chẵn kéo dài từ ngã tư giao với đường Đại Cồ Việt tới ngã tư Vọng, đi qua nhiều bệnh viện lớn như [[Bệnh viện Việt Pháp (Hà Nội)| Bệnh viện Việt Pháp Hà Nội]], [[Bệnh viện Bạch Mai]], [[Bệnh viện Tai Mũi Họng Trung ương]] và [[Cục Thú y (Việt Nam)| Cục Thú y]].{{Sfnp| Nguyễn Phúc Vinh| 2004| p = 143}}
+* Phố Vọng<br>Là ranh giới phía đông của phường Phương Mai, giáp với phường [[Bạch Mai| Đồng Tâm]] của quận [[Hai Bà Trưng (quận)| Hai Bà Trưng]], phần phố Vọng thuộc địa phận phường Phương Mai gồm dãy nhà số chẵn từ đường Giải Phóng đến ngã tư giao với đường Trường Chinh và phố Đại La.<ref>{{Chú thích web| url = https://vov.vn/xa-hoi/ha-noi-pho-vong-nhung-dieu-nhuc-mat-thanh-quen-956246.vov| tựa đề = Hà Nội: Phố Vọng, những điều nhức mắt... thành quen!| tác giả = CTV Khánh Châu| ngày = 2019-09-16| website = VOV| ngôn ngữ = vi| url-status = live| ngày truy cập = 2023-05-04}}</ref> Trước đây, phố này là một đoạn cong của [[Quốc lộ 1]], nằm trên đất làng [[Phương Liệt]] cũ, sau khi nắn thẳng đường Giải Phóng thì trở thành một phố riêng.{{Sfnp| Nguyễn Phúc Vinh| 2004| p = 691}}
+* Phố Phương Mai<br>Được đặt tên năm 1996, phố chạy từ đường Giải Phóng qua đoạn giao với phố Lương Định Của tới khu nhà C10 tập thể Kim Liên. Phố đi qua khu vực vốn là cánh đồng làng Kim Liên và Trung Tự xưa.{{Sfnp| Nguyễn Phúc Vinh| 2004| p = 536}} Hiện nay phố Phương Mai là nơi chuyên buôn bán các thiết bị y tế do khu vực này quy tụ nhiều bệnh viện lớn như Bệnh viện Bạch Mai, [[Bệnh viện Lão khoa Trung ương]], [[Bệnh viện Da liễu Trung ương]] và Bệnh viện Việt Pháp Hà Nội.<ref>{{Chú thích web| url = https://tienphong.vn/post-1511687.tpo| tựa đề = Phát hiện máy đo nồng độ cồn không nguồn gốc tại 'phố thiết bị y tế' Phương Mai| tác giả = Trần Hoàng| ngày = 2023-02-21| website = [[Tiền Phong (báo)| Tiền Phong]]| ngôn ngữ = vi| url-status = live| ngày truy cập = 2023-05-04}}</ref> Sâu trong các ngõ ở đầu phố là khu tập thể Phương Mai.<ref>{{Chú thích web| url = https://kinhtedothi.vn/khu-tap-the-phuong-mai-quan-dong-da-via-he-long-duong-thanh-noi-hop-cho.html| tựa đề = Khu tập thể Phương Mai, quận Đống Đa: Vỉa hè, lòng đường thành nơi họp chợ| tác giả = Vân Nhi| họ = | tên = | ngày = 2020-05-29| website = Báo Kinh tế đô thị| ngôn ngữ = vi| url-status = live| ngày truy cập = 2023-05-04}}</ref>
+* Phố Lương Định Của<br>Năm 2000, phần phố Lương Định Của đi qua địa phận phường Phương Mai được kéo dài từ đoạn phố Lương Định Của gốc đặt tên năm 1995 từ ngã tư giao với phố Phương Mai tới Công ty Giống cây trồng Trung ương I.<ref>{{Chú thích web| url = https://nguoihanoi.com.vn/pho-luong-dinh-cua-quan-dong-da-ha-noi-32245.html| tựa đề = Phố Lương Định Của, quận Đống Đa, Hà Nội| họ = | ngày = 2017-09-22| website = Người Hà Nội| ngôn ngữ = vi| url-status = live| ngày truy cập = 2023-05-04}}</ref><ref>{{Chú thích web| url = https://thuvienphapluat.vn/van-ban/Xay-dung-Do-thi/Nghi-quyet-07-2000-NQ-HD-dat-ten-va-dieu-chinh-ten-duong-pho-o-Ha-noi-35492.aspx| tựa đề = Nghị quyết 07/2000/NQ-HĐ đặt tên và điều chỉnh tên một số đường, phố ở Hà nội| tác giả = Hội đồng nhân dân thành phố Hà Nội| ngày = 2000-07-21| website = Thư viện pháp luật| url-status = live| ngày truy cập = 2023-05-04}}</ref> Được đặt theo tên nhà nông học [[Lương Định Của]], phố đi qua khu vực vốn trước đây là cánh đồng cũ của làng Kim Liên.{{Sfnp| Nguyễn Phúc Vinh| 2004| p = 364}}
+* Phố Đào Duy Anh<br>Được đặt theo tên nhà văn hóa [[Đào Duy Anh]], đoạn phố Đào Duy Anh đi qua địa phận phường Phương Mai gồm dãy số nhà lẻ kéo dài từ ngã tư giao với đường Giải Phóng tới giáp phố Hoàng Tích Trí. Khu vực này trước đây là cánh đồng lúa của làng Kim Liên.{{Sfnp| Nguyễn Phúc Vinh| 2004| p = 91}}
+Các tuyến xe buýt đi qua địa bàn phường qua đường Giải Phóng, đường Trường Chinh và phố Phương Mai. Dọc theo đường Giải Phóng ở phía địa phận phường Phương Mai có tuyến đường sắt bắc nam đi qua.<ref>{{Chú thích web| url = https://vovgiaothong.vn/newsaudio/lan-chiem-hanh-lang-an-toan-duong-sat-doan-qua-vien-bach-mai-de-ban-hang-d29693.html| tựa đề = Lấn chiếm hành lang an toàn đường sắt đoạn qua viện Bạch Mai để bán hàng| tác giả = Phúc Tài| ngày = 2022-10-25| website = VOV Giao thông| ngôn ngữ = vi| url-status = live| ngày truy cập = 2023-05-04}}</ref>
+
+-->
+
+== Địa chỉ trụ sở các cơ quan==
+
+* Trụ sở Đảng ủy - UBND phường: Số 33, đường Đại Cồ Việt.<ref name = ":0">Địa chỉ cũ: Số 33, đường Đại Cồ Việt, phường Lê Đại Hành, quận Hai Bà Trưng</ref><ref name = "trusomoi">{{Chú thích web | date = 25 tháng 6 năm 2025| title = Thông báo về địa điểm trụ sở làm việc của 126 phường, xã sau sắp xếp thuộc phạm vi quản lý của thành phố Hà Nội| url = https://dcdn.dantri.com.vn/2025/06/25/tru-so-126-xa-phuong-cua-ha-noi-1750822481952.pdf| website = UBND TP Hà Nội}}</ref>
+* Trung tâm phục vụ hành chính công: Số 33, đường Đại Cồ Việt.<ref name = ":0" /><ref>{{Chú thích báo| url = https://ttpvhcc.hanoi.gov.vn/hoat-dong-cua-trung-tam/ha-noi-cong-khai-dia-diem-tiep-nhan-thu-tuc-hanh-chinh-thuoc-ubnd-126-xa-phuong-va-30-diem-tiep-nhan-cua-12-chi-nhanh-thuoc-trung-tam-phuc-vu-hanh-chinh-cong-thanh-pho-thong-tin-duong-day-nong-ho-tro-nguoi-dan-doanh-nghiep-2850250704103711121.htm| title = Hà Nội công khai địa điểm tiếp nhận thủ tục hành chính thuộc UBND 126 xã/phường và 30 điểm tiếp nhận của 12 Chi nhánh thuộc Trung tâm Phục vụ hành chính công Thành phố, thông tin đường dây nóng hỗ trợ người dân, doanh nghiệp| last = Trung tâm Phục vụ hành chính công thành phố Hà Nội}}</ref>
+* Công an phường:<ref>{{Chú thích báo| url = https://daibieunhandan.vn/danh-sach-126-tru-so-cong-an-cap-xa-thuoc-cong-an-tp-ha-noi-de-nguoi-dan-toi-lam-can-cuoc-dang-ky-xe-10378397.html| title = Danh sách 126 trụ sở Công an cấp xã thuộc Công an TP. Hà Nội để người dân tới làm căn cước, đăng ký xe| last = Báo Đại biểu Nhân dân| first = }}</ref>
+** Trụ sở chính: Số 201, phố Minh Khai.<ref>Địa chỉ cũ: Số 201, phố Minh Khai, phường Minh Khai, quận Hai Bà Trưng</ref>
+** Trụ sở đăng ký giải quyết cư trú, cấp căn cước, định danh điện tử: Số 33, ngõ Hòa Bình 7.<ref>Địa chỉ cũ: Số 33, ngõ Hòa Bình 7, phường Minh Khai, quận Hai Bà Trưng</ref>
+** Trụ sở giải quyết tin báo tố giác tội phạm: Số 101A, Tập thể K2 Bách Khoa.<ref>Địa chỉ cũ: Số 101A, Tập thể K2 Bách Khoa, phường Bách Khoa, quận Hai Bà Trưng</ref>
+** Trụ sở thực hiện công tác quản lý, đăng ký ô tô, xe máy: Số 127, phố Bạch Mai.<ref>Địa chỉ cũ: Số 127, phố Bạch Mai, phường Bạch Mai, quận Hai Bà Trưng</ref>
+
+==Danh nhân==
+* '''[[Nguyễn Hữu Đức (Hà Nội)|Nguyễn Hữu Đức]]''' (sinh năm 1971) là [[đại biểu Quốc hội Việt Nam]] [[Quốc hội Việt Nam khóa XIII|khóa XIII]], XIV, thuộc đoàn đại biểu [[Bình Định (tỉnh)|Bình Định]], Ủy viên thường trực [[Ủy ban Kinh tế của Quốc hội]], Phó Chủ tịch Nhóm nghị sĩ hữu nghị Việt Nam – [[Cuba]].
+
+== Chú thích== 
+{{tham khảo}}
+
+== Tham khảo ==
+{{sơ khai Hà Nội}}
+{{Đơn vị hành chính thuộc thành phố Hà Nội}}

@@ -1,0 +1,108 @@
+{
+  "ward_code": "10459",
+  "ward_name": "Phúc Sơn",
+  "province_code": "01",
+  "resolution": "",
+  "arrangement": "2026_07",
+  "effective_date": "2026-07-01",
+  "verified": "unverified",
+  "extraction": {
+    "source": "vi.wikipedia.org",
+    "title": "(cache)",
+    "mode": "table"
+  },
+  "sources": [
+    {
+      "key": "wiki-10459-1",
+      "title": "Trân trọng giới thiệu danh sách và tiểu sử tóm tắt của những ông/bà ứng cử đại biểu Hội đồng nhân dân xã Phú Sơn khóa II nhiệm kỳ 2026 – 2031",
+      "url": "https://phucson.hanoi.gov.vn/thong-tin-da-phuong-tien/tran-trong-gioi-thieu-danh-sach-va-tieu-su-tom-tat-cua-nhung-ong-ba-ung-cu-dai-bieu-hdnd-xa-phuc-son-khoa-ii-nhiem-ky-2026-2031-2729260305091132916.htm",
+      "date": "2026-03-05",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-10459-2",
+      "title": "Nghị quyết số 1656/NQ-UBTVQH15 ngày 16 tháng 6 năm 2025 của Ủy ban Thường vụ Quốc hội về việc sắp xếp các đơn vị hành chính cấp xã của thành phố Hà Nội năm 2025",
+      "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf",
+      "date": "2026-05-13",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-10459-3",
+      "title": "Công bố danh sách các thôn sau thành lập, sắp xếp, tổ chức lại trên địa bàn xã Phúc Sơn",
+      "url": "https://phucson.hanoi.gov.vn/thong-tin-da-phuong-tien/thong-bao-2729260702112007874.htm",
+      "date": "2026-07-02",
+      "type": "wikipedia-ref"
+    }
+  ],
+  "note": "Trích tự động từ Wikipedia tiếng Việt (mode=table). Cần đối chiếu nghị quyết HĐND phường/xã.",
+  "tdp": [
+    {
+      "name": "Bột Xuyên",
+      "type": "thôn"
+    },
+    {
+      "name": "Đồng Mít",
+      "type": "thôn"
+    },
+    {
+      "name": "Giáp Ba",
+      "type": "thôn"
+    },
+    {
+      "name": "Giáp Bốn",
+      "type": "thôn"
+    },
+    {
+      "name": "Giữa Qúyt",
+      "type": "thôn"
+    },
+    {
+      "name": "Hòanh 1",
+      "type": "thôn"
+    },
+    {
+      "name": "Hòanh 2",
+      "type": "thôn"
+    },
+    {
+      "name": "Lai Tảo",
+      "type": "thôn"
+    },
+    {
+      "name": "Mỹ Thành",
+      "type": "thôn"
+    },
+    {
+      "name": "Nội Thượng Lâm",
+      "type": "thôn"
+    },
+    {
+      "name": "Phú Cường",
+      "type": "thôn"
+    },
+    {
+      "name": "Phúc Khảm Lâm",
+      "type": "thôn"
+    },
+    {
+      "name": "Phúc Lâm Hạ",
+      "type": "thôn"
+    },
+    {
+      "name": "Phúc Lâm Trung",
+      "type": "thôn"
+    },
+    {
+      "name": "Thượng",
+      "type": "thôn"
+    },
+    {
+      "name": "Trì Thượng Lâm",
+      "type": "thôn"
+    },
+    {
+      "name": "Tuy Lai",
+      "type": "thôn"
+    }
+  ]
+}

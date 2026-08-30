@@ -1,0 +1,479 @@
+{{Thông tin đơn vị hành chính Việt Nam |Phường
+| tên = Hồng Hà
+| hình = Long Bien Bridge 3796092037 9c2b2a236a.jpg 
+| ghi chú hình = Cầu Long Biên 
+| vĩ độ = 21.06413682411844
+| kinh độ = 105.83368295282298
+| diện tích = 15,09 km²
+| dân số = 123.282 người
+| thời điểm dân số = 2025
+| mật độ dân số = {{formatnum:{{#expr:floor({{formatnum:123.282| R}}/{{formatnum:15,09| R}})}} }} người/km²
+| vùng = [[Đồng bằng sông Hồng]]
+| thành phố = [[Hà Nội]]
+| thành lập = 
+| trụ sở UBND = Số 30 phố Tứ Liên<ref>{{Chú thích web |url=https://storage-vnportal.vnpt.vn/gov-hni/6244/VanBan/2025/6/25/TB-729-2025.pdf |title=Thông báo số 729/TB-UBND ngày 25 tháng 6 năm 2025 của Ủy ban nhân dân thành phố Hà Nội về địa điểm trụ sở làm việc của 126 phường, xã sau sắp xếp thuộc phạm vi quản lý của thành phố Hà Nội|access-date=2026-06-15 |archive-date=2026-06-15 |archive-url=https://web.archive.org/web/20260615034519/https://storage-vnportal.vnpt.vn/gov-hni/6244/VanBan/2025/6/25/TB-729-2025.pdf |url-status=dead | website = Cổng Thông tin điện tử Ủy ban nhân dân thành phố Hà Nội}}</ref>
+| mã hành chính =00097<ref>{{Chú thích web |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/19ttg.signed.pdf |title=Quyết định số 19/2025/QĐ-TTg ngày 30 tháng 6 năm 2025 của Thủ tướng Chính phủ về việc Ban hành Bảng danh mục và mã số các đơn vị hành chính Việt Nam |access-date=2026-06-15 |archive-date=2026-06-15 |archive-url=https://web.archive.org/web/20260615034519/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/19ttg.signed.pdf |url-status=dead | website = Cổng Thông tin điện tử Chính phủ}}</ref> 
+| mã bưu chính = 
+|web={{url|hongha.hanoi.gov.vn}}|bản đồ 1={{maplink|frame=yes|plain=yes|type=shape|frame-width=280|frame-align=center|stroke-width=3}}|trụ sở Đảng ủy=Số 362 Âu Cơ}}
+
+{{other|Hồng Hà (định hướng)}}
+'''Hồng Hà''' là một [[Phường (Việt Nam)|phường]] thuộc thành phố [[Hà Nội]], Việt Nam. Vị trí phường bao trọn tuyến đê và phần [[sông Hồng]] chảy qua nội thành [[Hà Nội]].
+
+== Địa lý ==
+Phường Hồng Hà có vị trí địa lý:
+
+* Phía đông giáp xã [[Vĩnh Thanh, Hà Nội|Vĩnh Thanh]], xã [[Đông Anh (xã)|Đông Anh]], phường [[Bồ Đề (phường)|Bồ Đề]] và phường [[Long Biên (phường)|Long Biên]] với ranh giới tự nhiên là [[sông Hồng]]
+* Phía tây giáp phường [[Tây Hồ (phường)|Tây Hồ]], phường [[Ba Đình (phường)|Ba Đình]], phường [[Hoàn Kiếm (phường)|Hoàn Kiếm]], phường [[Cửa Nam (phường)|Cửa Nam]], phường [[Hai Bà Trưng (phường)|Hai Bà Trưng]] và phường [[Vĩnh Tuy (phường)|Vĩnh Tuy]] với ranh giới đi theo đường đê Âu Cơ – Hồng Hà – Trần Quang Khải – Nguyễn Khoái
+* Phía nam giáp phường [[Lĩnh Nam (phường)|Lĩnh Nam]]
+* Phía bắc giáp phường [[Phú Thượng]].<ref>{{Chú thích web |last=Báo Điện tử Chính phủ|date=2025-04-28|title=Chi tiết dự thảo phương án sắp xếp các phường của Hà Nội|url=https://xaydungchinhsach.chinhphu.vn/chi-tiet-du-thao-phuong-an-sap-xep-cac-phuong-cua-ha-noi-119250421100531902.htm|url-status=live|archive-url=https://web.archive.org/web/20260710401509/https://xaydungchinhsach.chinhphu.vn/chi-tiet-du-thao-phuong-an-sap-xep-cac-phuong-cua-ha-noi-119250421100531902.htm|archive-date=2026-07-10|access-date=2026-07-10|website=Xây dựng chính sách, pháp luật}}</ref><ref>{{Chú thích web |last=Viện nghiên cứu Phát triển kinh tế – xã hội Hà Nội|date=2025-07-02|title=Phường Hồng Hà: Những thông tin chi tiết sau sắp xếp|url=https://hanoionline.vn/phuong-hong-ha-nhung-thong-tin-chi-tiet-sau-sap-xep-344188.htm|url-status=live|archive-url=https://web.archive.org/web/20260701400809/https://hanoionline.vn/phuong-hong-ha-nhung-thong-tin-chi-tiet-sau-sap-xep-344188.htm|archive-date=2026-07-01|access-date=2026-07-01|website=Cơ quan Báo và Phát thanh Truyền hình Hà Nội}}</ref><ref>{{Chú thích web |last=Cơ quan Báo và Phát thanh Truyền hình Hà Nội|date=2025-07-04|title=Phường Hồng Hà: Tất cả thông tin chỉ dẫn bạn cần biết|url=https://hanoionline.vn/phuong-hong-ha-tat-ca-thong-tin-chi-dan-ban-can-biet-344573.htm|url-status=live|archive-url=https://web.archive.org/web/20260711401509/https://hanoionline.vn/phuong-hong-ha-tat-ca-thong-tin-chi-dan-ban-can-biet-344573.htm|archive-date=2026-07-11|access-date=2026-07-11}}</ref>
+
+Phường Hồng Hà có diện tích tự nhiên là 15,09&nbsp;km<sup>2</sup>, quy mô dân số năm 2025 là 123.282 người và mật độ dân số đạt 8.169 người/km<sup>2</sup>.<ref>{{Chú thích web |last=Mai Hữu|date=2026-04-05|title=Hà Nội: Chi tiết phương án tổng thể sắp xếp đơn vị hành chính cấp xã|url=https://hanoimoi.vn/ha-noi-chi-tiet-phuong-an-tong-the-sap-xep-don-vi-hanh-chinh-cap-xa-700278.html|url-status=live|archive-url=https://web.archive.org/web/20260711401509/https://hanoimoi.vn/ha-noi-chi-tiet-phuong-an-tong-the-sap-xep-don-vi-hanh-chinh-cap-xa-700278.html|archive-date=2026-07-11|access-date=2026-07-11|website=Cơ quan Báo và Phát thanh, truyền hình Hà Nội}}</ref><ref>Công văn số 2896/BNV-CQĐP ngày 27 tháng 5 năm 2025 của Bộ Nội vụ về việc cung cấp thông tin danh mục dự kiến đơn vị hành chính cấp xã mới.</ref>
+
+Phường Hồng Hà sau sáp nhập trở thành phường nội đô rộng nhất Hà Nội. Phường trải dài từ cầu Nhật Tân đến cầu Vĩnh Tuy, chạy dọc đê sông Hồng. Ngoài ra, sau sắp xếp phường cũng dự kiến trở thành phường đông dân nhất Hà Nội.<ref>{{Chú thích web | last = Hương Ly | date = 19 tháng 4 năm 2025 | title = Hà Nội: Phường Hồng Hà hình thành từ khu vực ngoài đê sông Hồng thuộc 5 quận | url = https://hanoimoi.vn/ha-noi-phuong-hong-ha-hinh-thanh-tu-khu-vuc-ngoai-de-song-hong-thuoc-5-quan-699626.html | access-date = 2026-07-23 | website = Cơ quan Báo và Phát thanh, truyền hình Hà Nội|archive-url=https://web.archive.org/web/20260723401509/https://hanoimoi.vn/ha-noi-phuong-hong-ha-hinh-thanh-tu-khu-vuc-ngoai-de-song-hong-thuoc-5-quan-699626.html|archive-date=2026-07-23|url-status=dead}}</ref><ref>{{Chú thích web | last = Khánh An | date = 2025-04-20 | title = Phường đông dân nhất Hà Nội sau sắp xếp đơn vị hành chính | url = https://laodong.vn/thoi-su/phuong-dong-dan-nhat-ha-noi-sau-sap-xep-don-vi-hanh-chinh-1494271.ldo | url-status = live | archive-url = https://web.archive.org/web/20250421134907/https://laodong.vn/thoi-su/phuong-dong-dan-nhat-ha-noi-sau-sap-xep-don-vi-hanh-chinh-1494271.ldo | archive-date = 2025-04-21 | access-date = 2025-06-22 | website = Báo Lao động}}</ref><ref name="vietnamnet">{{Chú thích web | last = N. Huyền | date = 2025-05-05 | title = Điều đặc biệt ở phường rộng nhất Hà Nội sau sắp xếp | url = https://vietnamnet.vn/dieu-dac-biet-o-phuong-rong-nhat-ha-noi-sau-sap-xep-2397684.html | access-date = 2026-07-23 | website = Báo VietNamNet|archive-url=https://web.archive.org/web/20260723401509/https://vietnamnet.vn/dieu-dac-biet-o-phuong-rong-nhat-ha-noi-sau-sap-xep-2397684.html|archive-date=2026-07-23|url-status=dead}}</ref><ref name="hnonline">{{chú thích web | url = https://hanoionline.vn/video/o-phuong-dong-dan-nhat-thu-do-340602.htm | title = Ở phường đông dân nhất Thủ đô | author = Cơ quan Báo và Phát thanh Truyền hình Hà Nội | date = 2025-06-16 | website = | access-date = 2026-07-23|archive-url=https://web.archive.org/web/20260723401509/https://hanoionline.vn/video/o-phuong-dong-dan-nhat-thu-do-340602.htm|archive-date=2026-07-23|url-status=dead}}</ref>
+
+Có những ý kiến cho rằng, do nằm ở vị trí ngoài đê sông Hồng, sau khi sáp nhập, phường Hồng Hà có thể xem là khu vực có khí hậu mát mẻ nhất khu vực nội đô Hà Nội. Theo lãnh đạo thành phố Hà Nội, việc hình thành phường Hồng Hà đóng vai trò trọng điểm, đặc thù gắn với trục sông Hồng, biểu tượng phát triển của thành phố này trong [[Kỷ nguyên vươn mình]].<ref name="nnmt">{{Chú thích web | last = Xuân Vũ | date = 13 tháng 5 năm 2025 | title = Hồng Hà sẽ là phường 'mát nhất' nội đô Hà Nội | url = https://nongnghiepmoitruong.vn/hong-ha-se-la-phuong-mat-nhat-noi-do-ha-noi-d752960.html | access-date = 2026-07-23 | website = Báo Nông nghiệp và Môi trường|archive-url=https://web.archive.org/web/20260723401509/https://nongnghiepmoitruong.vn/hong-ha-se-la-phuong-mat-nhat-noi-do-ha-noi-d752960.html|archive-date=2026-07-23|url-status=dead}}</ref><ref>{{Chú thích web | last = Anh Tuấn | date = 2025-06-17 | title = Kỳ vọng của Hà Nội khi hình thành 3 phường, xã đặc thù trọng điểm của Hà Nội | url = https://laodong.vn/xa-hoi/ky-vong-cua-ha-noi-khi-hinh-thanh-3-phuong-xa-dac-thu-trong-diem-cua-ha-noi-1525594.ldo | access-date = 2026-07-23 | website = Báo Lao động|archive-url=https://web.archive.org/web/20260723401509/https://laodong.vn/xa-hoi/ky-vong-cua-ha-noi-khi-hinh-thanh-3-phuong-xa-dac-thu-trong-diem-cua-ha-noi-1525594.ldo|archive-date=2026-07-23|url-status=dead}}</ref>
+
+== Lịch sử ==
+
+=== Trước năm 1976 ===
+
+=== Giai đoạn 1976 – nay ===
+Sau ngày 2 tháng 7 năm 1976, 2 tiểu khu: Phúc Xá và Yên Phụ thuộc khu phố [[Ba Đình (quận)|Ba Đình]]; 2 tiểu khu: Bạch Đằng và Thanh Lương thuộc khu phố [[Hai Bà Trưng (quận)|Hai Bà Trưng]]; 2 tiểu khu: Chương Dương và Phúc Tân thuộc khu phố [[Hoàn Kiếm (quận)|Hoàn Kiếm]]; thị trấn Gia Lâm và 2 xã: Bồ Đề, Ngọc Thụy thuộc huyện [[Gia Lâm (huyện)|Gia Lâm]] của thành phố [[Hà Nội]].
+
+Ngày 3 tháng 1 năm 1981, từ nay ở nội thành, đơn vị hành chính cấp dưới trực tiếp của [[Thành phố trực thuộc trung ương (Việt Nam)|thành phố trực thuộc trung ương]] đều thống nhất gọi là [[Quận (Việt Nam)|quận]]; các đơn vị hành chính cơ sở ở nội thành, nội thị của các [[Thành phố thuộc tỉnh (Việt Nam)|thành phố thuộc tỉnh]], [[Thị xã (Việt Nam)|thị xã]] và [[Quận (Việt Nam)|quận]] gọi là [[Phường (Việt Nam)|phường]]. Khi đó, 2 phường: Phúc Xá và Yên Phụ thuộc quận [[Ba Đình (quận)|Ba Đình]]; 2 phường: Bạch Đằng và Thanh Lương thuộc quận [[Hai Bà Trưng (quận)|Hai Bà Trưng]]; 2 phường: Chương Dương và Phúc Tân thuộc quận [[Hoàn Kiếm (quận)|Hoàn Kiếm]].<ref>Quyết định số 3-CP ngày 3 tháng 1 năm 1981 của Hội đồng Chính phủ về việc thống nhất tên gọi các đơn vị hành chính ở nội thành nội thị.</ref>
+
+Ngày 28 tháng 10 năm 1995, tách phường Yên Phụ của quận [[Ba Đình (quận)|Ba Đình]] về quận [[Tây Hồ (quận)|Tây Hồ]] mới thành lập.<ref>{{Chú thích web |title=Nghị định số 69-CP ngày 28 tháng 10 năm 1995 của Chính phủ về việc thành lập quận Tây Hồ thuộc thành phố Hà Nội|url=https://chinhphu.vn/default.aspx?pageid=27160&docid=3072|url-status=dead|archive-url=https://web.archive.org/web/20260818201510/https://chinhphu.vn/default.aspx?pageid=27160&docid=3072|archive-date=2026-08-18|access-date=2026-08-18|website=Cổng Thông tin điện tử Chính phủ}}</ref>
+
+Ngày 6 tháng 11 năm 2003:
+
+* Tách toàn bộ diện tích tự nhiên và dân số của các xã: Ngọc Thụy, Bồ Đề và thị trấn Gia Lâm thuộc huyện [[Gia Lâm (huyện)|Gia Lâm]] về quận [[Long Biên (quận)|Long Biên]] mới thành lập.
+* Thành lập phường Bồ Đề trên cơ sở 379,92 ha diện tích tự nhiên và 9.888 nhân khẩu của xã Bồ Đề và 6.271 nhân khẩu của thị trấn Gia Lâm.
+* Thành lập phường Ngọc Thụy trên cơ sở toàn bộ diện tích tự nhiên và dân số của xã Ngọc Thụy.<ref>Nghị định số 132/2003/NĐ-CP ngày 6 tháng 11 năm 2003 của Chính phủ về việc điều chỉnh địa giới hành chính để thành lập các quận Long Biên, Hoàng Mai, thành lập các phường trực thuộc quận Long Biên, quận Hoàng Mai, thành phố Hà Nội.</ref>
+
+Ngày 16 tháng 6 năm 2025:
+
+* Kết thúc hoạt động của đơn vị hành chính cấp huyện trong cả nước.<ref>{{Chú thích web |last= |date= |title=Nghị quyết số 203/2025/QH15 ngày 16 tháng 6 năm 2025 của Quốc hội khóa XV, Kỳ họp thứ 9 về việc sửa đổi, bổ sung một số điều của Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/nq-sua-doi-hien-phap.pdf |url-status=live |archive-url=https://web.archive.org/web/20260613090807/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/nq-sua-doi-hien-phap.pdf |archive-date=2026-06-13 |access-date=2026-06-13 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+* Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của các phường Chương Dương, Phúc Tân (quận [[Hoàn Kiếm (quận)|Hoàn Kiếm]]), Phúc Xá (quận [[Ba Đình (quận)|Ba Đình]]), một phần diện tích tự nhiên, quy mô dân số của các phường Nhật Tân, Phú Thượng, Quảng An (quận [[Tây Hồ (quận)|Tây Hồ]]), Thanh Lương (quận [[Hai Bà Trưng (quận)|Hai Bà Trưng]]), Tứ Liên, Yên Phụ (quận [[Tây Hồ (quận)|Tây Hồ]]), một phần diện tích tự nhiên của phường Bồ Đề và phường Ngọc Thụy (quận [[Long Biên (quận)|Long Biên]]), phần còn lại của phường Bạch Đằng (quận [[Hai Bà Trưng (quận)|Hai Bà Trưng]]) thành phường mới có tên gọi là phường Hồng Hà.<ref>{{Chú thích web |title=Nghị quyết số 1656/NQ-UBTVQH15 ngày 16 tháng 6 năm 2025 của Ủy ban Thường vụ Quốc hội về việc sắp xếp các đơn vị hành chính cấp xã của thành phố Hà Nội năm 2025 |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf |url-status=live |archive-url=https://web.archive.org/web/20260630400809/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf |archive-date=2026-06-30 |access-date=2026-06-30 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+* Sau khi sắp xếp, phường Hồng Hà được chia thành 96 tổ dân phố.<ref>18 tổ dân phố, đánh số từ 1 đến 18 của phường Chương Dương cũ; 16 tổ dân phố, đánh số từ 1 đến 16 của phường Phúc Tân cũ; 22 tổ dân phố, đánh số từ 1 đến 22 của phường Phúc Xá cũ; 4 tổ dân phố, đánh số từ 6 đến 9 của phường Nhật Tân cũ; tổ dân phố 15 của phường Phú Thượng cũ; 2 tổ dân phố: 2 và 6 của phường Quảng An cũ; 3 tổ dân phố, đánh số từ 19 đến 21 của phường Thanh Lương cũ; 11 tổ dân phố, đánh số từ 1 đến 11 của phường Tứ Liên cũ; 11 tổ dân phố, đánh số từ 4 đến 14 của phường Yên Phụ cũ; 8 tổ dân phố, đánh số từ 7 đến 14 của phường Bạch Đằng cũ.</ref><ref>{{Chú thích web |title=Thông tư số 10/2022/TT-BTNMT ngày 29 tháng 9 năm 2022 của Bộ Tài nguyên và Môi trường về việc Ban hành Danh mục địa danh dân cư, sơn văn, thủy văn, kinh tế – xã hội phục vụ công tác thành lập bản đồ thành phố Hà Nội |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2022/10/10-btnmt.pdf |url-status=live |archive-url=https://web.archive.org/web/20260630400809/https://datafiles.chinhphu.vn/cpp/files/vbpq/2022/10/10-btnmt.pdf |archive-date=2026-06-30 |access-date=2026-06-30 |website=Cổng Thông tin điện tử Chính phủ}}</ref><ref name=":1">{{Chú thích web |title=Biên bản ngày 24 tháng 11 năm 2025 của Ban Chỉ đạo Phong trào Toàn dân đoàn kết xây dựng đời sống văn hóa – Ủy ban nhân dân phường Hồng Hà về việc họp xét, đề nghị tặng danh hiệu Tổ dân phố văn hóa năm 2025 phường Hồng Hà |url=https://hongha.hanoi.gov.vn/van-hoa-xa-hoi/bien-ban-ve-viec-hop-xet-de-nghi-tang-danh-hieu-to-dan-pho-van-hoa-nam-2025-phuong-hong-ha-2815251126214512991.htm |url-status=dead |archive-url=https://web.archive.org/web/20260815201510/https://hongha.hanoi.gov.vn/van-hoa-xa-hoi/bien-ban-ve-viec-hop-xet-de-nghi-tang-danh-hieu-to-dan-pho-van-hoa-nam-2025-phuong-hong-ha-2815251126214512991.htm |archive-date=2026-08-15 |access-date=2026-08-15 |website=Trang Thông tin điện tử phường Hồng Hà – thành phố Hà Nội}}</ref><ref name=":2">{{Chú thích web |title=Quyết định số 33/QĐ-UBBC ngày 23 tháng 2 năm 2026 của Ủy ban bầu cử về việc công bố danh sách chính thức những người ứng cử đại biểu Hội đồng nhân dân phường Hồng Hà nhiệm kỳ 2026 – 2031 |url=https://hongha.hanoi.gov.vn/chi-dao-cua-dia-phuong/quyet-dinh-2815260227140043094.htm |url-status=dead |archive-url=https://web.archive.org/web/20260815201510/https://hongha.hanoi.gov.vn/chi-dao-cua-dia-phuong/quyet-dinh-2815260227140043094.htm |archive-date=2026-08-15 |access-date=2026-08-15 |website=Trang Thông tin điện tử phường Hồng Hà – thành phố Hà Nội}}</ref><ref name=":03">{{Chú thích web |last=Ủy ban bầu cử phường Hồng Hà |date=2026-02-28 |title=Danh sách chính thức những người ứng cử đại biểu Hội đồng nhân dân phường Hồng Hà nhiệm kỳ 2026 – 2031 |url=https://web.facebook.com/story.php?story_fbid=122162148710934829&id=61578044879147&rdid=C0ek9n6kycOEPWVK# |url-status=dead |archive-url=https://web.archive.org/web/20260701400809/https://web.facebook.com/story.php?story_fbid=122162148710934829&id=61578044879147&rdid=C0ek9n6kycOEPWVK# |archive-date=2026-07-01 |access-date=2026-07-01 |website=Phường Hồng Hà – thành phố Hà Nội: Kết nối và phát triển}}</ref>
+Ngày 24 tháng 12 năm 2025, xác định phường Hồng Hà là [[Đô thị Việt Nam|đô thị loại II]].<ref>Chuyển tiếp từ phường Phúc Xá thuộc quận Ba Đình, 2 phường: Bạch Đằng, Thanh Lương thuộc quận Hai Bà Trưng, 2 phường: Chương Dương, Phúc Tân thuộc quận Hoàn Kiếm, 2 phường: Bồ Đề, Ngọc Thụy thuộc quận Long Biên và 5 phường: Nhật Tân, Phú Thượng, Quảng An, Tứ Liên, Yên Phụ thuộc quận Tây Hồ)</ref><ref>{{Chú thích web |title=Nghị quyết số 111/2025/UBTVQH15 ngày 24 tháng 12 năm 2025 của Ủy ban Thường vụ Quốc hội về phân loại đô thị|url=https://cdn.nhandan.vn/files/f4a4abf7f9a0ba4a91744616546d850872b76917f90d5a74cc9eebef1369fb6f/111.pdf|url-status=dead|archive-url=https://web.archive.org/web/20260430074852/https://cdn.nhandan.vn/files/f4a4abf7f9a0ba4a91744616546d850872b76917f90d5a74cc9eebef1369fb6f/111.pdf|archive-date=2026-04-30|access-date=2026-07-12|website=Báo Nhân dân}}</ref><!-- 
+== Lịch sử== 
+Trước kia được gọi là làng Tứ Tổng<ref>{{Chú thích web| url = http://hanoimoi.com.vn/Tin-tuc/1000_nam_thang_long/100999/t7913;-t7893;ng-c7911;a-th259;ng-long--ha-n7897;i-x432;a| tựa đề = Tứ Tổng của Thăng Long- Hà Nội xưa| website = hanoimoi.com.vn| ngày truy cập = 2023-04-25}}</ref>. Từ năm 1961 đến năm 1995 là xã Tứ Liên thuộc [[huyện Từ Liêm]]. Từ năm 1995 tách khỏi huyện Từ Liêm và đổi tên thành phường Tứ Liên thuộc quận [[Tây Hồ (quận)| Tây Hồ]].
+
+Trước đây Tứ Liên là một vùng đất bồi với những dải đất phù sa màu mỡ. Người dân ở đây chủ yếu trồng trọt hoa màu như ngô, khoai, lạc, sắn. Sau thời kì đổi mới, Tứ Liên chuyển mình và phát triển thành làng Quất nghệ thuật, đến nay đã được 30 năm. Mặc dù Quất Quảng Bá ra đời trước từ rất lâu và được biết đến rộng rãi, nhưng dần dần Quất Tứ Liên đang dần dần tạo được chỗ đứng.
+
+== Lịch sử== 
+Phúc Tân là một dải đất nằm bên hữu ngạn sông Hồng (Nhị Hà). Từ xa xưa là những làng thôn nghèo thưa thớt. Cộng đồng cư dân phường Phúc Tân có một quá trình hình thành và phát triển lâu đời. Qua bao thế kỉ dựng xây, không ngừng đô thị hóa, từ những phường, thôn, làng nhỏ nằm sát bờ sông Nhị xưa, nay đã trở thành một trong những phường trung tâm của thủ đô Hà Nội.
+
+Địa danh Phúc Tân là tên gọi từ sau [[Cách mạng tháng Tám]]. Theo sử sách cũ, ngay từ [[thế kỉ XI]] đến [[thể kỉ XIV]], nhà nước phong kiến Lý - Trần chọn [[Thăng Long]] làm quốc đô, xây dựng kinh thành trên bờ Tây sông Hồng. Để bảo vệ kinh thành khỏi sự tàn phá của thiên tai, ngay từ năm [[1108]], triều đình đã huy động nhân dân đắp đê ở phường [[Cơ Xá]] dọc sông Hồng từ [[Nghi Tàm]], [[Yên Phụ]] xuống [[Lương Yên]], [[Thanh Trì]] ngày nay.
+
+Năm [[1248]], [[Trần Thái Tông]] khuếch trương việc trị thủy sông Hồng, hạ lệnh đắp một hệ thống đê, gọi là đê Đỉnh Nhĩ (quai vạc) chạy suốt từ đầu nguồn đến bờ biển đề phòng nước lụt sông Hồng; đặt chức "Hà đê sứ" và "phó sứ" để trông coi, đôn đốc việc đắp đê.
+
+Mùa lũ hằng năm, các viên chánh sứ, phó sứ về đê phải trực tiếp đi tuần tra, thấy chỗ nào non phải tu bổ ngay, nếu biếng nhác không làm tròn nhiệm vụ để đến nỗi trôi dân cư, ngập lúa má sẽ tùy tội nặng nhẹ mà khiển phạt (An Nam chí nguyện).
+
+Từ đời nhà Trần, sau khi một miền đất rộng lớn ven châu thổ sông Hồng phía Đông Bắc kinh thành Thăng Long bắt đầu được khai phá thì cộng đồng cư dân trong khu vực phường Phúc Tân ngày nay có thể cũng được hình thành. Theo các cụ già làng Bắc Biên Trung Hà ([[Gia Lâm]]) thì người dân ở đây là dân gốc phường Cơ Xá (địa giới Cơ Xá rộng vốn là một phường cổ, bao gồm một dải đất chạy dọc hữu ngạn sông Hồng gồm 4 thôn: Cơ Xá Tây Biên nam (một xóm nhỏ làng [[Đồng Nhân]] - [[hai Bà Trưng (quận)| quận Hai Bà Trưng]]), Cơ Xá Trung Hà (một làng đông dân cư gần cầu Long Biên), Cơ Xá Bắc Biên (Phúc Xá Bắc Biên).
+
+Theo [[Phạm Đình Hổ]], một nho sĩ sống vào nửa sau [[thể kỷ XVIII]] mô tả: Kinh thành khi xưa có phường Giang Khẩu (sau là Hà Khẩu) tiếp giáp bờ sông Nhị, liền với các ngòi sông Nhị chảy vào sông Tô. Do cửa sông Tô dần dần bị bồi lấp, bến càng Hà Nội chuyển lên phía Bắc (khoảng phố Nguyên Khiết) ngày nay.
+
+== Lịch sử== 
+Ngọc Thụy trước đây là một xã thuộc huyện Gia Lâm.
+
+Ngọc Thụy có quá trình hình thành và phát triển gần một 1.000 năm lịch sử. Đây cũng là quê hương của Thái uý Việt Quốc công Lý Thường Kiệt.
+
+Xa xưa, tính từ thời Lý (lấy năm sinh của Lý Thường Kiệt là năm [[1019]]) thì đây thuộc vùng đất Long Biên, trong huyện Gia Lâm, phủ Thiên Đức; thời Trần thuộc lộ Bắc Giang. Khi thực dân Pháp xâm lược nước ta và suốt thời gian Pháp đô hộ, Gia Lâm thuộc tỉnh Bắc Ninh. Các ấp xóm, trại, làng, xã lúc ấy có: Gia Quất, Gia Thượng, Yên Tân, Bắc Cầu, Thượng Cát, Thanh Am,... Cùng nằm trong tổng Gia Thụy, thuộc tỉnh Bắc Ninh.
+
+[[Cách mạng Tháng Tám]] năm [[1945]] thành công, ngày đầu của cuộc kháng chiến chống thực dân Pháp, vùng đất Ngọc Thụy nằm trong Đặc khu Ngọc Thụy, trực thuộc tỉnh Bắc Ninh, vùng đất Đặc khu lúc ấy tới tận Sài Đồng, Thạch Bàn ngày nay.
+
+[[Tháng 3]] năm [[1949]], trên chủ trương mở mặt trận đường 5, Đặc khu Ngọc Thụy được chuyển về tỉnh Hưng Yên. Qua thực tế hoạt động gặp nhiều khó khăn, Ủy ban kháng chiến tỉnh Hưng Yên đã đề nghị trên cho chuyển trả lại về Gia Lâm thuộc tỉnh Bắc Ninh. Khi chuyển về, Đặc khu Ngọc Thụy được phân chia thành xã Ngọc Thụy và xã Hồng Tiến.
+
+Đến [[tháng 10]] năm [[1954]], xã Ngọc Thụy được chuyển về quận VIII, ngoại thành Hà Nội.
+
+Cuối năm [[1955]] đầu năm [[1956]], sau cải cách ruộng đất, xã Ngọc Thụy được phân chia thành 2 xã để tiện điều hành, quản lý, lấy tên là xã Ngọc Thụy và xã Thượng Thanh (Gia QuấtThượng về Thượng Thanh, Gia Quất Hạ ở lại Ngọc Thụy).
+
+Ngày [[20 tháng 4]] năm [[1961]], tại kỳ họp thứ hai Quốc hội khóa II quyết định mở rộng thành phố Hà Nội và sáp nhập vào thành phố Hà Nội một số khu vực thuộc tỉnh Hà Đông, Bắc Ninh, VĩnhPhúc và Hưng Yên; theo đó Ngọc Thụy cùng 15 xã của huyện Gia Lâm và một số xã, thị trấn của các huyện Từ Sơn, Tiên Du, Thuận Thành được chuyển giao về Hà Nội.
+
+Tiếp theo, ngày [[31 tháng 5]] năm [[1961]], Hội đồng Chính phủ ra quyết định chia các khu vực nội, ngoại thành của thành phố Hà Nội thành 4 khu phố và 4 huyện. Theo quyết định này, Ngọc Thụy là một trong 31 xã và hai thị trấn thuộc huyện Gia Lâm, ngoại thành Hà Nội. Vị trí địa lý xã Ngọc Thụy lúc ấy được xác định:
+*Phía Đông giáp xã Thượng Thanh 
+*Phía Nam giáp thị trấn Gia Lâm
+*Phía Bắc có sông Đuống, bên kia sông là xã Đông Hội, huyện Đông Anh
+*Phía Tây giáp xã Tứ Liên, huyện Từ Liêm (nay thuộc quận
+Tây Hồ).
+
+Xã có các thôn: Bắc Biên, Gia Quất, Yên Tân, Gia Thượng, Bắc Cầu.
+
+Bắc Biên, Trung Hà xưa kia vốn là làng An Xá thuộc thành Đại La. Khi vua Lý Thái Tổ dời đô từ Hoa Lư ra Đại La đã đổi Đại La thành Thăng Long. Làng An Xá trở thành làng củathành Thăng Long.
+
+Năm [[1014]] (Năm [[Thiên Thuận thứ 5]]), vua Lý Thái Tổ cho đắp thành để xây dựng dinh thự. Nhà Vua cho di dân làng An Xá ra bãi bồi ở sông Nhị Hà (Sông Hồng). An Xá là quê hương của Ngô Tuấn (tức Lý Thường Kiệt) có địa giới như sau:
+ 
+- Bắc giáp làng Xuân Canh, Bắc Cầu, Gia Thượng.
+
+- Đông giáp làng Gia Quất, làng Thạch Cầu, Lâm Hạ, Gia Thụy, Ái Mộ.
+
+- Nam giáp cống ông Mạc, Quyết Thủy, Đồng Tân, Hà Khẩu.
+
+- Tây giáp làng Quảng Bá, Tây Hồ, An Hòa, Hoè Nhai.
+
+Nhờ có Lý Thường Kiệt dâng sớ tấu xin vua nên dân làng An Xá được miễn mọi thứ thuế, lệ, phu phen tạp dịch, vì An Xá ở bãi bồi không có đất cấy lúa. Đến năm [[Thuận Thiên thứ 5]] ([[1132]]), Vua Lý Thần Tông đi kinh lý làng An Xá vào lúc nước sông Nhị Hà lên to, thấy nhà nào cũng bắc bục để ở nên Vua ra sắc chỉ đổi tên làng An Xá thành làng Cơ Xá. Cơ có nghĩa cơ động, nhưng chữ cơ lại đồng âm với chữ cơ là đói (cơ hàn) nên năm [[Duy Tân thứ 5]] ([[1911]]) dân làng đã xin đổi tên làng Cơ Xá thành làng Phúc Xá. Phúc có nghĩa là phúc đức, cũng còn có nghĩa dân mong muốn có ruộng để trồng dâu nuôi tằm. Phúc Xá Nam nay thuộc khu Đống Mác; Phúc Xá Tây hiện nay là An Dương còn Phúc Xá Bắc Biên, Phúc Xá Trung Hà nay thuộc Ngọc Thụy. Phúc Xá xưa đều ở bãi giữa sông Hồng (sông Nhị Hà). Phúc Xá Trung Hà được Nhà nước bơm cát từ Sông Hồng vào lấp Đầm Bến (Đầm Sen) chia đất cho dân vào năm [[1975]]-[[1976]]. Phúc Xá lúc đó thuộc tổng Phúc Lâm, [[Hoàn Long (huyện)| huyện Hoàn Long]], tỉnh Hà Đông, sau chính quyền Pháp đô hộ đổi huyện Hoàn Long thành đại lý Hoàn Long, thuộc thành Hà Nội.
+
+Sau [[Cách mạng Tháng Tám]], Phúc Xá thành đặc khu Phúc Xá thuộc liên khu 1 Hà Nội. Đặc khu Phúc Xá có bãi Phúc Xá Trung Hà, bãi Phúc Xá Bắc Biên và Phúc Xá Tây Biên,...
+
+Đến năm [[1956]], thì Phúc Xá Bắc Biên, Trung Hà sáp nhập vào phường Ngọc Thụy cho đến nay.
+
+Phường Ngọc Thụy được thành lập năm 2003 trên cơ sở toàn bộ 898,99 ha diện tích tự nhiên và 18.568 người của xã Ngọc Thụy, huyện Gia Lâm.<ref name = "ND132">[http://thuvienphapluat.vn/archive/Nghi-dinh/Nghi-dinh-132-2003-ND-CP-dieu-chinh-dia-gioi-hanh-chinh-de-thanh-lap-quan-Long-Bien-Hoang-Mai-phuong-thuoc-quan-Hoang-Mai-Ha-Noi-vb51571t11.aspx Nghị định số 132/2003/NĐ-CP ngày 6 tháng 11 năm 2003 của Chính phủ] về việc điều chỉnh địa giới hành chính để thành lập các quận Long Biên, Hoàng Mai, thành lập các phường trực thuộc quận Long Biên, quận Hoàng Mai, thành phố Hà Nội.</ref>
+
+== Xã hội== 
+=== Giáo dục=== 
+Trên địa bàn phường có các trường:
+* Mầm non Bắc Biên.[https://mnbacbien.longbien.edu.vn/lb/mnbacbien.html?qi = 152_315202022] {{Webarchive| url = https://web.archive.org/web/20210720122550/https://mnbacbien.longbien.edu.vn/lb/mnbacbien.html?qi = 152_315202022 | date = 2021-07-20 }}
+* Mầm non Ngọc Thuỵ.[https://mnngocthuy.longbien.edu.vn/lb/mnngocthuy.html?qi = 152_315202080] {{Webarchive| url = https://web.archive.org/web/20210720122551/https://mnngocthuy.longbien.edu.vn/lb/mnngocthuy.html?qi = 152_315202080 | date = 2021-07-20 }}
+* Mầm non Bắc Cầu.[https://mnbaccau.longbien.edu.vn/lb/mnbaccau.html?qi = 152_315202038] {{Webarchive| url = https://web.archive.org/web/20210720122551/https://mnbaccau.longbien.edu.vn/lb/mnbaccau.html?qi = 152_315202038 | date = 2021-07-20 }}.
+* Tiểu học Ngọc Thuỵ.[https://thngocthuy.longbien.edu.vn/lb/thngocthuy.html?qi = 152_315202050] {{Webarchive| url = https://web.archive.org/web/20210720122550/https://thngocthuy.longbien.edu.vn/lb/thngocthuy.html?qi = 152_315202050 | date = 2021-07-20 }}
+* Tiểu học Gia Thượng.[https://thgiathuong.longbien.edu.vn/lb/thgiathuong.html?qi = 152_315202045] {{Webarchive| url = https://web.archive.org/web/20210720122555/https://thgiathuong.longbien.edu.vn/lb/thgiathuong.html?qi = 152_315202045 | date = 2021-07-20 }}
+* Tiểu học Lý Thường Kiệt.[https://thlythuongkiet.longbien.edu.vn/lb/thlythuongkiet.html?qi = 152_315202064] {{Webarchive| url = https://web.archive.org/web/20210720122602/https://thlythuongkiet.longbien.edu.vn/lb/thlythuongkiet.html?qi = 152_315202064 | date = 2021-07-20 }}
+* THCS Ngọc Thuỵ.[https://thcsngocthuy.longbien.edu.vn/lb/thcsngocthuy.html?qi = 152_315202091] {{Webarchive| url = https://web.archive.org/web/20210720124102/https://thcsngocthuy.longbien.edu.vn/lb/thcsngocthuy.html?qi = 152_315202091 | date = 2021-07-20 }}
+* THCS Lý Thường Kiệt
+* Học viện Hậu Cần
+* Trường Việt Pháp ALEXANDRE YERSIN.
+
+Phường Quảng An là một trong 8 phường của quận [[Tây Hồ (quận)| Tây Hồ]], [[Hà Nội]], phường do các làng Nghi Tàm, Quảng Bá, Quảng Bình, An Ninh hợp thành.
+
+== Danh lam thắng cảnh== 
+Phường có nhiều điểm danh lam thắng cảnh và chùa chiền nổi tiếng như [[chùa Kim Liên]], [[chùa Hoằng Ân]], [[Phổ Linh]], [[Phủ Tây Hồ]]. Nơi đây cũng có nhiều khách sạn, căn hộ cao cấp, nhà nghỉ phục vụ du lịch và cho thuê. Trong đó có nhiều khách sạn 5 sao quốc tế và căn hộ quốc tế như InterContinental Hanoi Westlake, Sheraton Hanoi, Elegant suites, Fraser Suites, Pan Pacific Hanoi Oakwood Residence Hanoi, Somerset west point Hanoi, Pentstudio by Ascott West lake Hanoi, Diamond Westlake suites,... khách sạn Sheraton Hà Nội đã từng đón tiếp phu nhân và tổng thống Mỹ George Bush.
+
+Chợ hoa Quảng An của phường là một trong những chợ hoa lớn của [[Hà Nội]].
+
+== Lịch sử== 
+Làng Nhật Tân ở phía tây bắc Hồ Tây, kề cận làng Quảng Bá. Thời phong kiến, làng này là một phường, có tên là Nhật Chiêu, thuộc tổng Thượng, huyện Vĩnh Thuận, phủ Phụng Thiên (Kinh đô [[Thăng Long]] [[nhà Lê sơ| thời Lê]]); từ năm 1831 thuộc phủ Hoài Đức, [[hà Nội (tỉnh)| tỉnh Hà Nội]]; từ năm 1889 thuộc [[cầu Đơ| tỉnh Cầu Đơ]] (năm 1904 đổi làm tỉnh Hà Đông)<ref name = "NT1">{{Chú thích web | url = http://www.hanoimoi.com.vn/forumdetail/1000_nam_thang_long/15595/lang-nh7853t-tan.htm | ngày truy cập = 2010-05-15 | tựa đề = Làng Nhật Tân. TS Bùi Xuân Đính | archive-date = ngày 24 tháng 1 năm 2011 | archive-url = https://web.archive.org/web/20110124222816/http://www.hanoimoi.com.vn/forumdetail/1000_nam_thang_long/15595/lang-nh7853t-tan.htm}}</ref>.
+
+Đến năm 1915, làng đổi thành xã Nhật Chiêu thuộc [[Hoàn Long (huyện)| huyện Hoàn Long]], tỉnh Hà Đông. Cuối năm 1942, xã lại đổi thuộc Đại lý đặc biệt Hà Nội. Trong [[chiến tranh Đông Dương| kháng chiến chống Pháp]], thuộc xã Quảng Tân, quận 1 ngoại thành của chính quyền cách mạng. Sau [[Cải cách ruộng đất]] (giữa năm 1956), tách ra thành xã Nhật Tân, gồm bốn thôn Đông - Nam - Tây - Bắc thuộc quận 5; đến năm 1961 thuộc huyện [[Từ Liêm]]<ref name = "NT1"/>.
+
+Năm 1995, sau khi thành lập quận Tây Hồ từ một số phường thuộc quận [[Ba Đình (quận)| Ba Đình]] và xã thuộc huyện [[Từ Liêm]]<ref name = "TH1">[http://www.chinhphu.vn/portal/page?_pageid = 578,33345598&_dad = portal&_schema = PORTAL&docid = 3072 Nghị định số 69/CP ngày 28/10/1995 của Chính phủ về việc thành lập quận Tây Hồ thuộc thành phố Hà Nội]</ref>, phường Nhật Tân thuộc quận Tây Hồ.
+
+Mảnh đất Nhật Tân từng ghi lại hai sự kiện lịch sử của đất nước thời phong kiến. Một là, vào năm Kỷ Tỵ (1509), Vua [[Lê Uy Mục]] bị Giản Tu công Oanh cướp ngôi, phải chạy về phường Nhật Chiêu rồi bị bắt, trên đwòng bị giải về kinh đô đã uống thuốc độc tự tử. Hai là, ở gần ngã ba Nhật Tân, nơi có hai cây gạo bên đường có một miếu, gọi là miếu Chúa Lâm. Theo các bậc cao niên thì đây là nơi Chúa [[Trịnh Khải]] (Trịnh Tông) bị Nguyễn Trang bắt và giao cho quân Tây Sơn. Trên đường bị giải từ Hạ Lôi (Vĩnh Phúc) qua đò Chèm - đình Nhật Tảo, đến quán hàng nước ở ngã ba Nhật Chiêu, cả bọn vào nghỉ, Trịnh Tông bất ngờ đoạt lấy con dao bổ cau của bà hàng nước đâm vào cổ rồi chết. Về sau, dân làng lập ngôi miếu để thờ, gọi là miếu Chúa lâm chung (chúa chết), sau gọi tắt là miếu Chúa Lâm<ref name = "NT1"/>.
+
+Nhật Tân xưa có một dãy bảy [[cây gạo]] cổ thụ, tương truyền do bà Lạc phi - vợ [[Lạc Long Quân]] trồng, để ứng với bảy bọc trứng do bà sinh ra, hóa thành bảy con rồng bay lên trời. Trong bài "Phú Tây Hồ" của [[Nguyễn Huy Lượng]] sáng tác năm 1802 có nhắc đến bảy cây gạo này. Ở thôn Bắc có miếu Cung, nằm dưới hai cây gạo cổ thụ trên khu đất cao ngoài bãi có, tương truyền là nơi sinh của Uy Đô - con của Hoàng hậu vợ Vua [[Trần Thánh Tông]]. Khi trưởng thành, Uy Đô đã theo [[Trần Hưng Đạo]] đánh giặc Nguyên - Mông, lập được nhiều chiến công nên được phong là Dâm Đàm đại vương, được thờ ở đình (Dâm Đàm là tên gọi khác của Hồ Tây)<ref name = "NT1"/>.
+
+-->
+
+== Hành chính ==
+Phường Hồng Hà được chia thành 96 tổ dân phố: từ 7 đến 14 khu vực Bạch Đằng, từ 1 đến 18 khu vực Chương Dương, từ 6 đến 9 khu vực Nhật Tân, 15 khu vực Phú Thượng, từ 1 đến 16 khu vực Phúc Tân, từ 1 đến 22 khu vực Phúc Xá, 2, 6 khu vực Quảng An, từ 19 đến 21 khu vực Thanh Lương, từ 1 đến 11 khu vực Tứ Liên và từ 4 đến 14 khu vực Yên Phụ.<ref name=":1" /><ref name=":2" /><ref name=":03" />
+{| class="wikitable sortable" align="center" width="100%" cellspacing="6" cellpadding="0" style="background: #f9f9f9; border: 1px #aaa solid; margin-top: 16px"
+! colspan="4" style="background: #E6E6FA; font-size: 95%;" |Danh sách các tổ dân phố thuộc phường Hồng Hà<ref name=":1" /><ref name=":2" /><ref name=":03" />
+|-
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+|-
+| align="left" |7 khu vực Bạch Đằng
+|-
+| align="left" |8 khu vực Bạch Đằng
+|-
+| align="left" |9 khu vực Bạch Đằng
+|-
+| align="left" |10 khu vực Bạch Đằng
+|-
+| align="left" |11 khu vực Bạch Đằng
+|-
+| align="left" |12 khu vực Bạch Đằng
+|-
+| align="left" |13 khu vực Bạch Đằng
+|-
+| align="left" |14 khu vực Bạch Đằng
+|-
+| align="left" |1 khu vực Chương Dương
+|-
+| align="left" |2 khu vực Chương Dương
+|-
+| align="left" |3 khu vực Chương Dương
+|-
+| align="left" |4 khu vực Chương Dương
+|-
+| align="left" |5 khu vực Chương Dương
+|-
+| align="left" |6 khu vực Chương Dương
+|-
+| align="left" |7 khu vực Chương Dương
+|-
+| align="left" |8 khu vực Chương Dương
+|-
+| align="left" |9 khu vực Chương Dương
+|-
+| align="left" |10 khu vực Chương Dương
+|-
+| align="left" |11 khu vực Chương Dương
+|-
+| align="left" |12 khu vực Chương Dương
+|-
+| align="left" |13 khu vực Chương Dương
+|-
+| align="left" |14 khu vực Chương Dương
+|-
+| align="left" |15 khu vực Chương Dương
+|-
+| align="left" |16 khu vực Chương Dương
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+|-
+| align="left" |17 khu vực Chương Dương
+|-
+| align="left" |18 khu vực Chương Dương
+|-
+| align="left" |6 khu vực Nhật Tân
+|-
+| align="left" |7 khu vực Nhật Tân
+|-
+| align="left" |8 khu vực Nhật Tân
+|-
+| align="left" |9 khu vực Nhật Tân
+|-
+| align="left" |15 khu vực Phú Thượng
+|-
+| align="left" |1 khu vực Phúc Tân
+|-
+| align="left" |2 khu vực Phúc Tân
+|-
+| align="left" |3 khu vực Phúc Tân
+|-
+| align="left" |4 khu vực Phúc Tân
+|-
+| align="left" |5 khu vực Phúc Tân
+|-
+| align="left" |6 khu vực Phúc Tân
+|-
+| align="left" |7 khu vực Phúc Tân
+|-
+| align="left" |8 khu vực Phúc Tân
+|-
+| align="left" |9 khu vực Phúc Tân
+|-
+| align="left" |10 khu vực Phúc Tân
+|-
+| align="left" |11 khu vực Phúc Tân
+|-
+| align="left" |12 khu vực Phúc Tân
+|-
+| align="left" |13 khu vực Phúc Tân
+|-
+| align="left" |14 khu vực Phúc Tân
+|-
+| align="left" |15 khu vực Phúc Tân
+|-
+| align="left" |16 khu vực Phúc Tân
+|-
+| align="left" |1 khu vực Phúc Xá
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+|-
+| align="left" |2 khu vực Phúc Xá
+|-
+| align="left" |3 khu vực Phúc Xá
+|-
+| align="left" |4 khu vực Phúc Xá
+|-
+| align="left" |5 khu vực Phúc Xá
+|-
+| align="left" |6 khu vực Phúc Xá
+|-
+| align="left" |7 khu vực Phúc Xá
+|-
+| align="left" |8 khu vực Phúc Xá
+|-
+| align="left" |9 khu vực Phúc Xá
+|-
+| align="left" |10 khu vực Phúc Xá
+|-
+| align="left" |11 khu vực Phúc Xá
+|-
+| align="left" |12 khu vực Phúc Xá
+|-
+| align="left" |13 khu vực Phúc Xá
+|-
+| align="left" |14 khu vực Phúc Xá
+|-
+| align="left" |15 khu vực Phúc Xá
+|-
+| align="left" |16 khu vực Phúc Xá
+|-
+| align="left" |17 khu vực Phúc Xá
+|-
+| align="left" |18 khu vực Phúc Xá
+|-
+| align="left" |19 khu vực Phúc Xá
+|-
+| align="left" |20 khu vực Phúc Xá
+|-
+| align="left" |21 khu vực Phúc Xá
+|-
+| align="left" |22 khu vực Phúc Xá
+|-
+| align="left" |2 khu vực Quảng An
+|-
+| align="left" |6 khu vực Quảng An
+|-
+| align="left" |19 khu vực Thanh Lương
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+|-
+| align="left" |20 khu vực Thanh Lương
+|-
+| align="left" |21 khu vực Thanh Lương
+|-
+| align="left" |1 khu vực Tứ Liên
+|-
+| align="left" |2 khu vực Tứ Liên
+|-
+| align="left" |3 khu vực Tứ Liên
+|-
+| align="left" |4 khu vực Tứ Liên
+|-
+| align="left" |5 khu vực Tứ Liên
+|-
+| align="left" |6 khu vực Tứ Liên
+|-
+| align="left" |7 khu vực Tứ Liên
+|-
+| align="left" |8 khu vực Tứ Liên
+|-
+| align="left" |9 khu vực Tứ Liên
+|-
+| align="left" |10 khu vực Tứ Liên
+|-
+| align="left" |11 khu vực Tứ Liên
+|-
+| align="left" |4 khu vực Yên Phụ
+|-
+| align="left" |5 khu vực Yên Phụ
+|-
+| align="left" |6 khu vực Yên Phụ
+|-
+| align="left" |7 khu vực Yên Phụ
+|-
+| align="left" |8 khu vực Yên Phụ
+|-
+| align="left" |9 khu vực Yên Phụ
+|-
+| align="left" |10 khu vực Yên Phụ
+|-
+| align="left" |11 khu vực Yên Phụ
+|-
+| align="left" |12 khu vực Yên Phụ
+|-
+| align="left" |13 khu vực Yên Phụ
+|-
+| align="left" |14 khu vực Yên Phụ
+|}
+|}
+
+== Địa chỉ trụ sở các cơ quan ==
+* '''Trụ sở Đảng uỷ - HĐND phường''': Số 362, đường Âu Cơ.<ref name=":02">Địa chỉ cũ: Số 362, đường Âu Cơ, phường Nhật Tân, quận Tây Hồ</ref><ref name="trusomoi3">{{Chú thích web|date=25 tháng 6 năm 2025|title=Thông báo về địa điểm trụ sở làm việc của 126 phường, xã sau sắp xếp thuộc phạm vi quản lý của thành phố Hà Nội|url=https://dcdn.dantri.com.vn/2025/06/25/tru-so-126-xa-phuong-cua-ha-noi-1750822481952.pdf|website=UBND TP Hà Nội|access-date=2025-06-29|archive-date=2026-04-25|archive-url=https://web.archive.org/web/20260425080946/https://dcdn.dantri.com.vn/2025/06/25/tru-so-126-xa-phuong-cua-ha-noi-1750822481952.pdf|url-status=dead}}</ref> 
+<center>
+{|
+|-
+|[[File:Trụ sở Đảng uỷ - HĐND phường Hồng Hà, Hà Nội.jpg|thumb|Trụ sở Đảng uỷ - HĐND phường Hồng Hà, Hà Nội]]
+|}
+</center>
+* '''Trụ sở UBND phường''': Số 30, phố Tứ Liên.<ref name=":0">Địa chỉ cũ: Số 30, phố Tứ Liên, phường Tứ Liên, quận Tây Hồ</ref> 
+<center>
+{|
+|-
+|[[File:Trụ sở UBND phường Hồng Hà, Hà Nội.jpg|thumb|Trụ sở UBND phường Hồng Hà, Hà Nội]]
+|}
+</center>
+* '''Trung tâm phục vụ hành chính công''': Số 6, phố Bảo Linh.<ref>Địa chỉ cũ: Số 6, phố Bảo Linh, phường Phúc Tân, quận Hoàn Kiếm (Trước là Trụ sở UBND - UBMTTQ phường Phúc Tân cũ)</ref>
+<center>
+{|
+|-
+|[[File:Trung tâm phục vụ hành chính công phường Hồng Hà, Hà Nội.jpg|thumb|Trung tâm phục vụ hành chính công phường Hồng Hà, Hà Nội]]
+|}
+</center>
+* '''Công an phường''':<ref>{{Chú thích báo|url=https://daibieunhandan.vn/danh-sach-126-tru-so-cong-an-cap-xa-thuoc-cong-an-tp-ha-noi-de-nguoi-dan-toi-lam-can-cuoc-dang-ky-xe-10378397.html|title=Danh sách 126 trụ sở Công an cấp xã thuộc Công an TP. Hà Nội để người dân tới làm căn cước, đăng ký xe|last=Báo Đại biểu Nhân dân|first=}}</ref>
+** '''Trụ sở 1''': Số 37, phố Tứ Liên.<ref>Địa chỉ cũ: Số 37, phố Tứ Liên, phường Tứ Liên, quận Tây Hồ</ref>
+<center>
+{|
+|- 
+|[[File:Trụ sở 1 Công an phường Hồng Hà, Hà Nội.jpg|thumb|Trụ sở 1 Công an phường Hồng Hà, Hà Nội]]
+|}
+</center>
+** '''Trụ sở 2''': Số 529, đường Hồng Hà.<ref>Địa chỉ cũ: Số 529, đường Hồng Hà, phường Phúc Tân, quận Hoàn Kiếm (Trước là Trụ sở Công an phường Phúc Tân cũ)</ref>
+<center>
+{|
+|-
+|[[File:Trụ sở 2 Công an phường Hồng Hà, Hà Nội.jpg|thumb|Trụ sở 2 Công an phường Hồng Hà, Hà Nội]]
+|}
+</center>
+** '''Trụ sở 3''': Ngõ 24, phố An Xá.<ref>Địa chỉ cũ: Ngõ 24, phố An Xá, phường Phúc Xá, quận Ba Đình</ref>
+<center>
+{|
+|-
+|[[File:Trụ sở 3 Công an phường Hồng Hà, Hà Nội.jpg|thumb|Trụ sở 3 Công an phường Hồng Hà, Hà Nội]]
+|}
+</center>
+** '''Trụ sở 4''': Số 15, phố An Dương.<ref>Địa chỉ cũ: Số 15, phố An Dương, phường Yên Phụ, quận Tây Hồ (Trước là Trụ sở UBND phường Yên Phụ cũ)</ref>
+<center>
+{|
+|- 
+|[[File:Trụ sở 4 Công an phường Hồng Hà, Hà Nội.jpg|thumb|Trụ sở 4 Công an phường Hồng Hà, Hà Nội]]
+|}
+</center>
+** '''Trụ sở 5''': Số 90, đường Bạch Đằng.<ref>Địa chỉ cũ: Số 90, đường Bạch Đằng, phường Chương Dương, quận Hoàn Kiếm (Trước là Trụ sở công an phường Chương Dương cũ)</ref>
+<center>
+{|
+|-
+|[[File:Trụ sở 5 Công an phường Hồng Hà, Hà Nội.jpg|thumb|Trụ sở 5 Công an phường Hồng Hà, Hà Nội]]
+|}
+</center>
+
+== Đường phố== 
+{{Columns| col1 = 
+* Phố An Dương
+* Đường An Dương Vương
+* Phố An Xá
+* Đường Âu Cơ
+* Đường Bạch Đằng
+* Phố Bảo Linh
+* Phố Cầu Đất
+* Phố Chương Dương Độ
+* Đường Đầm Trấu
+* Đường Đê Quai
+* Phố Hàm Tử Quan| col2 = * Đường Hồng Hà
+* Phố Lãng Yên
+* Đường Nghi Tàm
+* Phố Nghĩa Dũng
+* Phố Nguyên Khiết
+* Đường Nguyễn Khoái
+* Phố Nguyễn Tư Giản
+* Đường Nước Phần Lan
+* Phố Phúc Tân
+* Phố Phúc Xá
+* Phố Tân Ấp| col3 = * Phố Tây Kết
+* Phố Thanh Yên
+* Đường Trần Khánh Dư
+* Đường Trần Nhật Duật
+* Đường Trần Quang Khải
+* Phố Tứ Liên
+* Phố Vạn Kiếp
+* Phố Vân Đồn
+* Phố Vọng Hà
+* Đường Yên Phụ}}
+
+== Địa điểm nổi tiếng== 
+* [[Chợ Long Biên]]
+* [[Chợ Tứ Liên]]
+* Bệnh viện Đa khoa Hoè Nhai (cơ sở 2)
+* Bệnh viện Đa khoa MEDILATEC
+* [[Trường Cao đẳng Y tế Hà Nội]] (cơ sở 2)
+* Trường Trung cấp Kinh tế Hà Nội
+* Trường Trung cấp Xây dựng Hà Nội
+* [[Cảng Hà Nội]]
+* Làng đào truyền thống Nhật Tân
+* Chi nhánh Nhà xuất bản Trẻ tại Hà Nội
+
+== Chú thích== 
+{{tham khảo| 30em}}
+== Tham khảo==
+{{Sơ khai Hà Nội}}{{Đơn vị hành chính thuộc thành phố Hà Nội}}

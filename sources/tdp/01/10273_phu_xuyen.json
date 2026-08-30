@@ -1,0 +1,168 @@
+{
+  "ward_code": "10273",
+  "ward_name": "Phú Xuyên",
+  "province_code": "01",
+  "resolution": "",
+  "arrangement": "2026_07",
+  "effective_date": "2026-07-01",
+  "verified": "unverified",
+  "extraction": {
+    "source": "vi.wikipedia.org",
+    "title": "(cache)",
+    "mode": "table"
+  },
+  "sources": [
+    {
+      "key": "wiki-10273-1",
+      "title": "Danh sách chính thức những người ứng cử đại biểu Hội đồng nhân dân xã Phú Xuyên nhiệm kỳ 2026 – 2031",
+      "url": "https://phuxuyen.hanoi.gov.vn/bau-cu-dai-bieu-hdnd-nhiem-ky-2026-2031/danh-sach-chinh-thuc-nhung-nguoi-ung-cu-dai-bieu-hoi-dong-nhan-dan-xa-phu-xuyen-nhiem-ky-2026-2031-2656260228234951782.htm",
+      "date": "2026-06-30",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-10273-2",
+      "title": "Nghị quyết số 111/2025/UBTVQH15 ngày 24 tháng 12 năm 2025 của Ủy ban Thường vụ Quốc hội về phân loại đô thị",
+      "url": "https://cdn.nhandan.vn/files/f4a4abf7f9a0ba4a91744616546d850872b76917f90d5a74cc9eebef1369fb6f/111.pdf",
+      "date": "2026-04-30",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-10273-3",
+      "title": "Nghị quyết số 1656/NQ-UBTVQH15 ngày 16 tháng 6 năm 2025 của Ủy ban Thường vụ Quốc hội về việc sắp xếp các đơn vị hành chính cấp xã của thành phố Hà Nội năm 2025",
+      "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf",
+      "date": "2026-05-13",
+      "type": "wikipedia-ref"
+    }
+  ],
+  "note": "Trích tự động từ Wikipedia tiếng Việt (mode=table). Cần đối chiếu nghị quyết HĐND phường/xã.",
+  "tdp": [
+    {
+      "name": "An Định",
+      "type": "thôn"
+    },
+    {
+      "name": "An Lãng",
+      "type": "thôn"
+    },
+    {
+      "name": "Bộ Đầu",
+      "type": "thôn"
+    },
+    {
+      "name": "Chanh Thôn",
+      "type": "thôn"
+    },
+    {
+      "name": "Cổ Châu",
+      "type": "thôn"
+    },
+    {
+      "name": "Duyên Trang",
+      "type": "thôn"
+    },
+    {
+      "name": "Duyên Yết",
+      "type": "thôn"
+    },
+    {
+      "name": "Đại Đồng",
+      "type": "thôn"
+    },
+    {
+      "name": "Đống Chanh",
+      "type": "thôn"
+    },
+    {
+      "name": "Đỗ Xá",
+      "type": "thôn"
+    },
+    {
+      "name": "Hà Thao",
+      "type": "thôn"
+    },
+    {
+      "name": "Khôn Thôn",
+      "type": "thôn"
+    },
+    {
+      "name": "Lam Sơn",
+      "type": "thôn"
+    },
+    {
+      "name": "Lạt Dương",
+      "type": "thôn"
+    },
+    {
+      "name": "Mỹ Lâm",
+      "type": "thôn"
+    },
+    {
+      "name": "Nam Phú",
+      "type": "thôn"
+    },
+    {
+      "name": "Nam Quất",
+      "type": "thôn"
+    },
+    {
+      "name": "Nguyên Hanh",
+      "type": "thôn"
+    },
+    {
+      "name": "Phong Triều",
+      "type": "thôn"
+    },
+    {
+      "name": "Phú An",
+      "type": "thôn"
+    },
+    {
+      "name": "Phú Cường",
+      "type": "thôn"
+    },
+    {
+      "name": "Phú Minh",
+      "type": "thôn"
+    },
+    {
+      "name": "Phú Mỹ",
+      "type": "thôn"
+    },
+    {
+      "name": "Phú Nhiêu",
+      "type": "thôn"
+    },
+    {
+      "name": "Quang Trung",
+      "type": "thôn"
+    },
+    {
+      "name": "Sơn Thanh",
+      "type": "thôn"
+    },
+    {
+      "name": "Thao Chính",
+      "type": "thôn"
+    },
+    {
+      "name": "Thống Nhất",
+      "type": "thôn"
+    },
+    {
+      "name": "Thụy Phú",
+      "type": "thôn"
+    },
+    {
+      "name": "Trần Phú",
+      "type": "thôn"
+    },
+    {
+      "name": "Vạn Điểm",
+      "type": "thôn"
+    },
+    {
+      "name": "Văn Minh",
+      "type": "thôn"
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "ward_code": "04990",
+  "ward_name": "Nật Sơn",
+  "province_code": "25",
+  "resolution": "Nghị quyết số 22/NQ-HĐND HĐND cấp xã",
+  "arrangement": "2026_07",
+  "effective_date": "2026-07-01",
+  "verified": "primary",
+  "extraction": {
+    "source": "natson.phutho.gov.vn",
+    "url": "https://natson.phutho.gov.vn/index.php/tuyen-truyen-sap-nhap-doi-ten-thon-xom",
+    "mode": "portal-html"
+  },
+  "sources": [
+    {
+      "key": "portal-04990",
+      "title": "Tuyên truyền đề án sáp nhâp, đổi tên thôn xóm",
+      "url": "https://natson.phutho.gov.vn/index.php/tuyen-truyen-sap-nhap-doi-ten-thon-xom",
+      "date": "2026",
+      "type": "cong_ttdt"
+    }
+  ],
+  "note": "Trích từ cổng TTĐT phường/xã (nghị quyết/thông báo HĐND cấp xã).",
+  "tdp": [
+    {
+      "name": "Mường Tú (sắp xếp xóm Bái Tam và xóm Vó Mái)",
+      "type": "thôn"
+    },
+    {
+      "name": "Đoàn Kết (sắp xếp xóm Đồng Bãi và xóm Gò Bùi)",
+      "type": "thôn"
+    },
+    {
+      "name": "Sáng Trong (sắp xếp xóm Sáng Trong và xóm Nước Đúc)",
+      "type": "thôn"
+    },
+    {
+      "name": "Sáng Mới (sắp xếp xóm Sáng Mới và xóm Gò Tháu)",
+      "type": "thôn"
+    },
+    {
+      "name": "Tân Sơn (sắp xếp xóm Cuôi và xóm Láu Ráy)",
+      "type": "thôn"
+    },
+    {
+      "name": "Bắc Sơn (sắp xếp xóm Hồi Trám và xóm Cầu)",
+      "type": "thôn"
+    },
+    {
+      "name": "Hùng Tiến (sắp xếp xóm Chỉ Ngoài và xóm Ba Bị)",
+      "type": "thôn"
+    },
+    {
+      "name": "Xuân Thủy (sắp xếp xóm Khớt và xóm Bèo)",
+      "type": "thôn"
+    },
+    {
+      "name": "Thượng Bì (sắp xếp xóm Ngheo và xóm Đầm Sáng)",
+      "type": "thôn"
+    },
+    {
+      "name": "Khoai Nè (sắp xếp xóm Khoai và xóm Bờ Nè)",
+      "type": "thôn"
+    },
+    {
+      "name": "Bờ Rường (sắp xếp xóm Bờ và xóm Rường)",
+      "type": "thôn"
+    },
+    {
+      "name": "Hang Lờm",
+      "type": "thôn"
+    },
+    {
+      "name": "Khăm",
+      "type": "thôn"
+    },
+    {
+      "name": "Khả",
+      "type": "thôn"
+    },
+    {
+      "name": "Đằng Long",
+      "type": "thôn"
+    },
+    {
+      "name": "Suối Kho",
+      "type": "thôn"
+    },
+    {
+      "name": "Chỉ Bái",
+      "type": "thôn"
+    },
+    {
+      "name": "Bà Rà",
+      "type": "thôn"
+    },
+    {
+      "name": "Tre Thị",
+      "type": "thôn"
+    }
+  ]
+}

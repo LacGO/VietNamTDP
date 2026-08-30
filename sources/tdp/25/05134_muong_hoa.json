@@ -1,0 +1,100 @@
+{
+  "ward_code": "05134",
+  "ward_name": "Mường Hoa",
+  "province_code": "25",
+  "resolution": "",
+  "arrangement": "truoc_2026_07",
+  "effective_date": "",
+  "verified": "unverified",
+  "extraction": {
+    "source": "vi.wikipedia.org",
+    "title": "Mường Hoa",
+    "mode": "narrative"
+  },
+  "sources": [
+    {
+      "key": "wiki-05134-1",
+      "title": "Quyết định số 9/QĐ-UBND về việc thành lập khu vực bỏ phiếu bầu cử đại biểu Quốc hội khóa XVI và đại biểu Hội đồng nhân dân các cấp nhiệm kỳ 2026 – 2031, trên địa bàn xã Mường Hoa",
+      "url": "https://muonghoa.phutho.gov.vn/images/Q%C4%90_Th%C3%A0nh_l%E1%BA%ADp_khu_v%E1%BB%B1c_b%E1%BB%8F_phi%E1%BA%BFu_b%E1%BA%A7u_c%E1%BB%AD.signed.signed.signed_1.pdf",
+      "date": "2026-01-13",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-05134-2",
+      "title": "Nghị quyết số 830/NQ-UBTVQH14 của ỦY BAN THƯỜNG VỤ QUỐC HỘI: Về việc sắp xếp các đơn vị hành chính cấp huyện, cấp xã thuộc tỉnh Hòa Bình",
+      "url": "http://vanban.chinhphu.vn/default.aspx?pageid=27160&docid=198695",
+      "date": "2026-06-18",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-05134-3",
+      "title": "Danh sách Thôn vùng đồng bào dân tộc thiểu số và miền núi, thôn đặc biệt khó khăn giai đoạn 2026 - 2030 trên địa bàn tỉnh Phú Thọ",
+      "url": "http://files.ubdt.gov.vn/files/ecm/source_files/2026/02/05/11252411_4.%20Ph%C3%BA%20Th%E1%BB%8D%201%20(th%C3%B4n).signed_26-02-05.pdf",
+      "date": "2026-01-29",
+      "type": "wikipedia-ref"
+    }
+  ],
+  "note": "Trích tự động từ Wikipedia tiếng Việt (mode=narrative). Cần đối chiếu nghị quyết HĐND phường/xã. ⚠️ Danh mục có thể là hiện trạng TRƯỚC sắp xếp thôn/TDP 01/7/2026 — Wikipedia chưa cập nhật nghị quyết mới.",
+  "tdp": [
+    {
+      "name": "Đạy",
+      "type": "xóm"
+    },
+    {
+      "name": "Đung",
+      "type": "xóm"
+    },
+    {
+      "name": "Giác",
+      "type": "xóm"
+    },
+    {
+      "name": "Liếm",
+      "type": "xóm"
+    },
+    {
+      "name": "Mu",
+      "type": "xóm"
+    },
+    {
+      "name": "Mường Kè",
+      "type": "xóm"
+    },
+    {
+      "name": "Nẻ",
+      "type": "xóm"
+    },
+    {
+      "name": "Ngau",
+      "type": "xóm"
+    },
+    {
+      "name": "Ngòi",
+      "type": "xóm"
+    },
+    {
+      "name": "Ong",
+      "type": "xóm"
+    },
+    {
+      "name": "Tân Vinh",
+      "type": "xóm"
+    },
+    {
+      "name": "Thăm",
+      "type": "xóm"
+    },
+    {
+      "name": "Thỏi Láo",
+      "type": "xóm"
+    },
+    {
+      "name": "Thung",
+      "type": "xóm"
+    },
+    {
+      "name": "Tớn Thưa",
+      "type": "xóm"
+    }
+  ]
+}

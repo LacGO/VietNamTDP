@@ -1,0 +1,120 @@
+{
+  "ward_code": "00622",
+  "ward_name": "Xuân Phương",
+  "province_code": "01",
+  "resolution": "",
+  "arrangement": "2026_07",
+  "effective_date": "2026-07-01",
+  "verified": "unverified",
+  "extraction": {
+    "source": "vi.wikipedia.org",
+    "title": "(cache)",
+    "mode": "table"
+  },
+  "sources": [
+    {
+      "key": "wiki-00622-1",
+      "title": "Nghị quyết số 23/NQ-HĐND ngày 29 tháng 6 năm 2026 của Hội đồng nhân dân phường Xuân Phương về việc sắp xếp tổ dân phố trên địa bàn phường Xuân Phương",
+      "url": "https://sqhx-hanoi.mediacdn.vn/91579363132710912/2026/7/2/nghi-quyet-ve-viec-sap-xep-to-dan-pho-tren-dia-ban-phuong-xuan-phuong-1782956919350269275607.pdf",
+      "date": "2026-08-14",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-00622-2",
+      "title": "Thông báo số 1897/TB-UBND ngày 1 tháng 7 năm 2026 của Ủy ban nhân dân phường Xuân Phương về việc thực hiện Nghị quyết sắp xếp tổ dân phố trên địa bàn phường Xuân Phương, thành phố Hà Nội",
+      "url": "https://sqhx-hanoi.mediacdn.vn/91579363132710912/2026/7/2/document-2026-07-01t153556227-1782956810486969010180.pdf",
+      "date": "2026-08-14",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-00622-3",
+      "title": "Nghị quyết số 111/2025/UBTVQH15 ngày 24 tháng 12 năm 2025 của Ủy ban Thường vụ Quốc hội về phân loại đô thị",
+      "url": "https://cdn.nhandan.vn/files/f4a4abf7f9a0ba4a91744616546d850872b76917f90d5a74cc9eebef1369fb6f/111.pdf",
+      "date": "2026-07-12",
+      "type": "wikipedia-ref"
+    }
+  ],
+  "note": "Trích tự động từ Wikipedia tiếng Việt (mode=table). Cần đối chiếu nghị quyết HĐND phường/xã.",
+  "tdp": [
+    {
+      "name": "1 Thị Cấm",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "2 Thị Cấm",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "3 Ngọc Mạch",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "4 Ngọc Mạch",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "5 Ngọc Mạch",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "6 Hòe Thị",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "7 Hòe Thị",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "8 Hòe Thị",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "9 Hòe Thị",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "10 Tu Hòang",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "11 Tu Hòang",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "12 Tu Hòang",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "13 Kiều Mai",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "14 Kiều Mai",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "15 Phúc Diễn",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "16 Phúc Diễn",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "17 Phúc Diễn",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "18",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "19 Miêu Nha",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "20 Miêu Nha",
+      "type": "tổ dân phố"
+    }
+  ]
+}

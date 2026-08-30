@@ -1,0 +1,190 @@
+{{Thông tin đơn vị hành chính Việt Nam |Phường
+| tên = Phương Liệt
+| hình =Khu đô thị Định Công 04.jpg 
+| ghi chú hình =Khu đô thị Định Công tại phường 
+| vĩ độ = 20.9987741632021
+| kinh độ = 105.82581471534424
+| bản đồ 1 = {{maplink|frame=yes|plain=yes|type=shape|frame-width=280|frame-align=center|stroke-width=3}}
+| diện tích = 3,2 km²
+| dân số = 81.977 người
+| thời điểm dân số = 2025
+| mật độ dân số = {{formatnum:{{#expr:floor({{formatnum:81.977| R}}/{{formatnum:3,20| R}})}} }} người/km²
+
+| vùng = [[Đồng bằng sông Hồng]]
+| thành phố = [[Hà Nội]]
+| trụ sở UBND = Số 136 Nguyễn Ngọc Nại<ref>{{Chú thích web |url=https://storage-vnportal.vnpt.vn/gov-hni/6244/VanBan/2025/6/25/TB-729-2025.pdf |title=Thông báo số 729/TB-UBND ngày 25 tháng 6 năm 2025 của Ủy ban nhân dân thành phố Hà Nội về địa điểm trụ sở làm việc của 126 phường, xã sau sắp xếp thuộc phạm vi quản lý của thành phố Hà Nội|access-date=2026-06-15 |archive-date=2026-06-15 |archive-url=https://web.archive.org/web/20260615034519/https://storage-vnportal.vnpt.vn/gov-hni/6244/VanBan/2025/6/25/TB-729-2025.pdf |url-status=dead | website = Cổng Thông tin điện tử Ủy ban nhân dân thành phố Hà Nội}}</ref> 
+| mã hành chính =00352<ref>{{Chú thích web |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/19ttg.signed.pdf |title=Quyết định số 19/2025/QĐ-TTg ngày 30 tháng 6 năm 2025 của Thủ tướng Chính phủ về việc Ban hành Bảng danh mục và mã số các đơn vị hành chính Việt Nam |access-date=2026-06-15 |archive-date=2026-06-15 |archive-url=https://web.archive.org/web/20260615034519/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/19ttg.signed.pdf |url-status=dead | website = Cổng Thông tin điện tử Chính phủ}}</ref> 
+|trụ sở Đảng ủy=Lô 9 Khu đô thị mới Định Công|web={{url|phuongliet.hanoi.gov.vn}}}}
+'''Phương Liệt''' là một [[Phường (Việt Nam)|phường]] thuộc thành phố [[Hà Nội]], [[Việt Nam]].
+
+== Địa lý== 
+Phường Phương Liệt có vị trí địa lý: 
+*Phía đông giáp phường [[Tương Mai]] (ranh giới đi theo đường Giải Phóng)
+*Phía tây giáp phường [[Khương Đình]] (ranh giới đi theo đường quy hoạch ven hồ Đầm Hồng – đường Vương Thừa Vũ)
+* Phía nam giáp phường [[Định Công (phường)|Định Công]] (ranh giới đi theo [[Đường vành đai 2,5 (Hà Nội)|đường Vành Đai 2,5]])
+* Phía bắc giáp phường [[Kim Liên (phường)|Kim Liên]] (ranh giới đi theo đường Trường Chinh).<ref>{{Chú thích web |last=Báo Điện tử Chính phủ |date=2025-04-28 |title=Chi tiết dự thảo phương án sắp xếp các phường của Hà Nội |url=https://xaydungchinhsach.chinhphu.vn/chi-tiet-du-thao-phuong-an-sap-xep-cac-phuong-cua-ha-noi-119250421100531902.htm |url-status=bot: unknown |archive-url=https://web.archive.org/web/20260316174230/https://xaydungchinhsach.chinhphu.vn/chi-tiet-du-thao-phuong-an-sap-xep-cac-phuong-cua-ha-noi-119250421100531902.htm |archive-date=2026-03-16 |access-date=2026-07-03 |website=Xây dựng chính sách, pháp luật}}</ref><ref name=":03">{{Chú thích web |last=Viện nghiên cứu Phát triển kinh tế – xã hội Hà Nội |date=2025-07-02 |title=Phường Phương Liệt: Những thông tin chi tiết sau sắp xếp |url=https://hanoionline.vn/phuong-phuong-liet-nhung-thong-tin-chi-tiet-sau-sap-xep-344185.htm |url-status=dead |archive-url=https://web.archive.org/web/20260827201510/https://hanoionline.vn/phuong-phuong-liet-nhung-thong-tin-chi-tiet-sau-sap-xep-344185.htm |archive-date=2026-08-27 |access-date=2025-08-27 |website=Cơ quan Báo và Phát thanh Truyền hình Hà Nội}}</ref><ref>{{Chú thích web |last=Cơ quan Báo và Phát thanh Truyền hình Hà Nội |date=2025-07-06 |title=Phường Phương Liệt: Tất cả thông tin chỉ dẫn bạn cần biết |url=https://hanoionline.vn/phuong-phuong-liet-tat-ca-thong-tin-chi-dan-ban-can-biet-344890.htm |url-status=dead |archive-url=https://web.archive.org/web/20260827401509/https://hanoionline.vn/phuong-phuong-liet-tat-ca-thong-tin-chi-dan-ban-can-biet-344890.htm |archive-date=2026-08-27 |access-date=2026-08-27}}</ref>
+Phường Phương Liệt có diện tích tự nhiên là 3,2&#x20;km<sup>2</sup>, quy mô dân số năm 2025 là 81.977 người và mật độ dân số đạt 25.617 người/km<sup>2</sup>.<ref>{{Chú thích web |last=Mai Hữu |date=2026-04-05 |title=Hà Nội: Chi tiết phương án tổng thể sắp xếp đơn vị hành chính cấp xã |url=https://hanoimoi.vn/ha-noi-chi-tiet-phuong-an-tong-the-sap-xep-don-vi-hanh-chinh-cap-xa-700278.html |url-status=live |archive-url=https://web.archive.org/web/20260711401509/https://hanoimoi.vn/ha-noi-chi-tiet-phuong-an-tong-the-sap-xep-don-vi-hanh-chinh-cap-xa-700278.html |archive-date=2026-07-11 |access-date=2026-07-11 |website=Cơ quan Báo và Phát thanh, truyền hình Hà Nội}}</ref><ref>Công văn số 2896/BNV-CQĐP ngày 27 tháng 5 năm 2025 của Bộ Nội vụ về việc cung cấp thông tin danh mục dự kiến đơn vị hành chính cấp xã mới.</ref>
+
+== Lịch sử==
+
+=== Tên gọi ===
+Phường Phương Liệt được đặt theo tên của làng Phương Liệt xưa. Tên cũ của làng là Giáp Cửu, còn có tên nôm là làng Vọng. Các bậc tiền bối đã không chịu để con cháu mai sau phải xếp Giáp thứ 9 nên đã đổi tên làng thành Phương Liệt – trong đó "Phương" nghĩa là thơm; "Liệt" nghĩa là oanh liệt.<ref name="PL">{{Chú thích web | url = https://phuongliet.hanoi.gov.vn/di-tich-lich-su-phuong-liet/di-tich-quoc-gia-dinh-phuong-liet-2826250802082153488.htm?gidzl=LgsF3zHKdMPIiei9tasKQ5gzWWV0GSPeJB_HLPuLnJiUlD5GcaJ4R1xfqG6Q6SzXI-cAM3Yqo2TOqLMPP0 | tựa đề = Di tích Quốc gia Đình Phương Liệt | tác giả = Trang Thông tin điện tử phường Phương Liệt – thành phố Hà Nội | ngày =2025-08-02 | website =  | url lưu trữ = https://web.archive.org/web/20260828201510/https://phuongliet.hanoi.gov.vn/di-tich-lich-su-phuong-liet/di-tich-quoc-gia-dinh-phuong-liet-2826250802082153488.htm?gidzl=LgsF3zHKdMPIiei9tasKQ5gzWWV0GSPeJB_HLPuLnJiUlD5GcaJ4R1xfqG6Q6SzXI-cAM3Yqo2TOqLMPP0 | ngày lưu trữ = 2026-08-28 | ngày truy cập = 2026-08-28 | url-status = dead }}</ref>
+
+=== Thời kỳ phong kiến ===
+Phường Phương Liệt nằm trên đất của làng Phương Liệt xưa. Làng Phương Liệt – hay làng Vọng hoặc làng Giáp Cửu – nằm ở phía Nam kinh thành Thăng Long, thuộc tổng [[Hoàng Mai (quận)|Hoàng Mai]], huyện [[Thanh Trì (huyện)|Thanh Trì]], phủ [[Thường Tín (phủ)|Thường Tín]], trấn [[Sơn Nam (trấn)|Sơn Nam Thượng]].<ref name="PL" /> Làng có diện tích lớn, phía bắc giáp cánh đồng làng Kim Liên – tức khu [[Bệnh viện Da liễu Trung ương|Bệnh viên Da liễu Trung ương]] và Bệnh viện Việt Pháp Hà Nội ngày nay; phía tây là khu vực [[Sân bay Bạch Mai]] cũ – sân bay có nằm trên một phần đất của làng; còn phía đông vượt qua [[Quốc lộ 1]] – hay phố Vọng ngày nay – tới giáp cánh đồng làng Hoàng Mai.<ref>{{chú thích sách| url = | tựa đề = Phố và đường Hà Nội | tác giả = Nguyễn Vinh Phúc | nhà xuất bản = NXB. [[Bộ Giao thông Vận tải (Việt Nam)|Giao thông vận tải]] | year = 2004 | trang = 691 | location = Hà Nội | doi = | id = | isbn = }}</ref> Thời Nguyễn, làng có nghề dệt gối, sợi thì mua ở chợ Bờ, Hòa Bình, dệt xong khâu lại nhồi bông mang lên bỏ mối cho các nhà buôn ở [[phố Hàng Bông]]. Ngoài nghề dệt gối làng còn làm nông nghiệp.<ref name="HNM">{{Chú thích web| url = http://hanoimoi.com.vn/tin-tuc/phong-su-ky-su/1050393/lang-toi-nam-1972| tựa đề = Làng tôi, năm 1972... | tác giả = Nguyễn Ngọc Tiến | ngày = 2022-12-17 | website = Cơ quan Báo và Phát thanh, truyền hình Hà Nội | url lưu trữ =https://web.archive.org/web/20260828201510/http://hanoimoi.com.vn/tin-tuc/phong-su-ky-su/1050393/lang-toi-nam-1972 | ngày lưu trữ =2026-08-28 | ngày truy cập = 2026-08-28 | url-status = dead}}</ref>
+
+Năm [[Đồng Khánh]] thứ 3 (1888) địa bàn làng thuộc tổng Hoàng Mai, huyện [[Hoàn Long (huyện)|Hoàn Long]], tỉnh Hà Nội. Sau khi chiếm Hà Nội, thực dân Pháp lấy đất làng xây đài phát vô tuyến điện – nay là tập thể Đài Tiếng nói Việt Nam ở ngõ 128C phố Đại La – sau đó lại lấy đất làm kho chứa than ở phía đông, cho xây ga Vọng. Ở phía tây bắc, họ lập xưởng đá, làm đường tàu qua đầu làng để chở đá hộc từ Thanh Hóa, Ninh Bình ra nghiền nhỏ, phục vụ cho các công trình xây dựng. Còn phía tây, họ xây sân bay quân sự Bạch Mai. Đoạn quốc lộ 1 chạy qua làng trở thành phố Vọng. Trước đình làng có hai đầm rộng, người Pháp cho tư nhân đấu thấu trồng sen, nuôi cá.<ref name = HNM/>
+
+Làng Phương Liệt sau thuộc địa phận phường Phương Liệt, quận Đống Đa. Thuộc địa giới hành chính của phường, ngoài phần đất của làng Phương Liệt cũ còn có một phần đất của làng Định Công Hạ và làng Giáp Bát.
+
+=== Giai đoạn 1976 – nay ===
+Sau ngày 2 tháng 7 năm 1976, 3 tiểu khu: Khương Thượng, Nguyễn Trãi và Phương Liệt thuộc khu phố [[Đống Đa (quận)|Đống Đa]]; 3 xã: Định Công, Khương Đình và Thịnh Liệt thuộc huyện [[Thanh Trì (huyện)|Thanh Trì]] của thành phố [[Hà Nội]].
+
+Ngày 3 tháng 1 năm 1981, từ nay ở nội thành, đơn vị hành chính cấp dưới trực tiếp của [[Thành phố trực thuộc trung ương (Việt Nam)|thành phố trực thuộc trung ương]] đều thống nhất gọi là [[Quận (Việt Nam)|quận]]; các đơn vị hành chính cơ sở ở nội thành, nội thị của các [[Thành phố thuộc tỉnh (Việt Nam)|thành phố thuộc tỉnh]], [[Thị xã (Việt Nam)|thị xã]] và [[Quận (Việt Nam)|quận]] gọi là [[Phường (Việt Nam)|phường]]. Khi đó, 5 phường: Khương Thượng, Nguyễn Trãi và Phương Liệt thuộc quận [[Đống Đa (quận)|Đống Đa]].<ref>Quyết định số 3-CP ngày 3 tháng 1 năm 1981 của Hội đồng Chính phủ về việc thống nhất tên gọi các đơn vị hành chính ở nội thành nội thị.</ref>
+
+Ngày 22 tháng 11 năm 1996:
+
+* Tách toàn bộ diện tích tự nhiên và nhân khẩu của phường Phương Liệt; 78,1 ha diện tích tự nhiên và 20.862 nhân khẩu của phường Nguyễn Trãi, 98,4 ha diện tích tự nhiên và 5.506 nhân khẩu của phường Khương Thượng (thuộc quận [[Đống Đa (quận)|Đống Đa]]); toàn bộ diện tích tự nhiên và nhân khẩu của xã Khương Đình (huyện [[Thanh Trì (huyện)|Thanh Trì]]) về quận [[Thanh Xuân (quận)|Thanh Xuân]] mới thành lập.
+* Phường Khương Mai được thành lập trên cơ sở 98,4 ha diện tích tự nhiên và 5.506 nhân khẩu của phường Khương Thượng.
+* Phường Khương Trung được thành lập trên cơ sở 78,1 ha diện tích tự nhiên và 20.862 nhân khẩu của phường Nguyễn Trãi (quận [[Đống Đa (quận)|Đống Đa]]).
+* Phường Khương Đình được thành lập trên cơ sở 138,9 ha diện tích tự nhiên và 5.929 nhân khẩu của xã Khương Đình.<ref name="74-CP">{{Chú thích web| url = https://thuvienphapluat.vn/van-ban/Bat-dong-san/Nghi-dinh-74-CP-thanh-lap-quan-Thanh-Xuan-quan-Cau-Giay-thanh-lap-va-doi-ten-mot-so-phuong-thuoc-thanh-pho-Ha-Noi-40215.aspx| title = Nghị định số 74-CP ngày 22 tháng 11 năm 1996 của Chính phủ về việc thành lập quận Thanh Xuân, quận Cầu Giấy, thành lập và đổi tên một số phường thuộc thành phố Hà Nội | tác giả = | date =  | website = Thư viện pháp luật | archive-url =https://web.archive.org/web/20260828201510/https://thuvienphapluat.vn/van-ban/Bat-dong-san/Nghi-dinh-74-CP-thanh-lap-quan-Thanh-Xuan-quan-Cau-Giay-thanh-lap-va-doi-ten-mot-so-phuong-thuoc-thanh-pho-Ha-Noi-40215.aspx | archive-date =2026-08-28 | access-date =2026-08-28 | url-status = live}}</ref>
+
+Ngày 6 tháng 11 năm 2003:
+
+* Tách toàn bộ diện tích tự nhiên và dân số của các xã: Định Công và Thịnh Liệt thuộc huyện [[Thanh Trì (huyện)|Thanh Trì]] về quận [[Hoàng Mai (quận)|Hoàng Mai]] mới thành lập.
+* Thành lập 2 phường: Định Công và Thịnh Liệt trên cơ sở toàn bộ diện tích tự nhiên và dân số của 2 xã có tên tương ứng.<ref>Nghị định số 132/2003/NĐ-CP ngày 6 tháng 11 năm 2003 của Chính phủ về việc điều chỉnh địa giới hành chính để thành lập các quận Long Biên, Hoàng Mai, thành lập các phường trực thuộc quận Long Biên, quận Hoàng Mai, thành phố Hà Nội.</ref>
+
+Ngày 16 tháng 6 năm 2025:
+
+* Kết thúc hoạt động của đơn vị hành chính cấp huyện trong cả nước.<ref>{{Chú thích web |last= |date= |title=Nghị quyết số 203/2025/QH15 ngày 16 tháng 6 năm 2025 của Quốc hội khóa XV, Kỳ họp thứ 9 về việc sửa đổi, bổ sung một số điều của Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/nq-sua-doi-hien-phap.pdf |url-status=live |archive-url=https://web.archive.org/web/20260613090807/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/nq-sua-doi-hien-phap.pdf |archive-date=2026-06-13 |access-date=2026-06-13 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+* Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của phường Khương Mai (quận [[Thanh Xuân (quận)|Thanh Xuân]]), phần còn lại của phường Thịnh Liệt (quận [[Hoàng Mai (quận)|Hoàng Mai]]), phần còn lại của phường Phương Liệt (quận [[Thanh Xuân (quận)|Thanh Xuân]]), phần còn lại của phường Định Công (quận [[Hoàng Mai (quận)|Hoàng Mai]]), phần còn lại của phường Khương Đình và phường Khương Trung (quận [[Thanh Xuân (quận)|Thanh Xuân]]) thành phường mới có tên gọi là phường Phương Liệt.<ref>{{Chú thích web |title=Nghị quyết số 1656/NQ-UBTVQH15 ngày 16 tháng 6 năm 2025 của Ủy ban Thường vụ Quốc hội về việc sắp xếp các đơn vị hành chính cấp xã của thành phố Hà Nội năm 2025 |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf |url-status=bot: unknown |archive-url=https://web.archive.org/web/20260513110024/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf |archive-date=2026-05-13 |access-date=2026-06-30 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+* Sau khi sắp xếp, phường Phương Liệt được chia thành 62 tổ dân phố.<ref>21 tổ dân phố, đánh số từ 1 đến 21 của phường Khương Mai cũ; tổ dân phố 1 của phường Thịnh Liệt cũ; 17 tổ dân phố, đánh số từ 3 đến 19 của phường Phương Liệt cũ; 16 tổ dân phố: 1, 2 và từ 30 đến 43 của phường Định Công cũ; tổ dân phố 9 của phường Khương Đình cũ; 6 tổ dân phố, đánh số từ 17 đến 19 và từ 21 đến 23 của phường Khương Trung cũ.</ref><ref>{{Chú thích web |title=Thông tư số 10/2022/TT-BTNMT ngày 29 tháng 9 năm 2022 của Bộ Tài nguyên và Môi trường về việc Ban hành Danh mục địa danh dân cư, sơn văn, thủy văn, kinh tế - xã hội phục vụ công tác thành lập bản đồ thành phố Hà Nội |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2022/10/10-btnmt.pdf |url-status=bot: unknown |archive-url=https://web.archive.org/web/20260630082812/https://datafiles.chinhphu.vn/cpp/files/vbpq/2022/10/10-btnmt.pdf |archive-date=2026-06-30 |access-date=2026-06-30 |website=Cổng Thông tin điện tử Chính phủ}}</ref><ref>{{Chú thích web |title=Quyết định số 33/QĐ-UBBC ngày 25 tháng 2 năm 2026 của Ủy ban bầu cử phường Phương Liệt về việc công bố danh sách chính thức những người ứng cử đại biểu Hội đồng nhân dân phường Phương Liệt khóa II, nhiệm kỳ 2026 – 2031 |url=https://sqhx-hanoi.mediacdn.vn/91579363132710912/2026/2/26/quyet-dinh-so-33-ds-nguoi-ung-cu-1-1772072022937839644454.pdf |url-status=dead |archive-url=https://web.archive.org/web/20260828154616/https://sqhx-hanoi.mediacdn.vn/91579363132710912/2026/2/26/quyet-dinh-so-33-ds-nguoi-ung-cu-1-1772072022937839644454.pdf |archive-date=2026-08-28 |access-date=2026-08-28 |website=Trang Thông tin điện tử phường Phương Liệt – thành phố Hà Nội}}</ref>
+Ngày 30 tháng 9 năm 2025, đổi tên 41 tổ dân phố, đánh số từ 3 đến 19 (phường Phương Liệt cũ), 1, 2, từ 30 đến 33, 40, từ 34 đến 39, từ 41 đến 43 (phường Định Công cũ), 1 (phường Thịnh Liệt cũ), từ 17 đến 19, từ 21 đến 23 (phường Khương Trung cũ) và 9 (phường Khương Đình cũ) lần lượt thành 41 tổ dân phố, đánh số từ 22 đến 60, 62 và 61.<ref>I. 21 tổ dân phố thuộc phường Khương Mai (cũ): 1. Giữ nguyên tổ dân phố số 1; 2. Giữ nguyên tổ dân phố số 2; 3. Giữ nguyên tổ dân phố số 3; 4. Giữ nguyên tổ dân phố số 4; 5. Giữ nguyên tổ dân phố số 5; 6. Giữ nguyên tổ dân phố số 6; 7. Giữ nguyên tổ dân phố số 7; 8. Giữ nguyên tổ dân phố số 8; 9. Giữ nguyên tổ dân phố số 9; 10. Giữ nguyên tổ dân phố số 10; 11. Giữ nguyên tổ dân phố số 11; 12. Giữ nguyên tổ dân phố số 12; 13. Giữ nguyên tổ dân phố số 13; 14. Giữ nguyên tổ dân phố số 14; 15. Giữ nguyên tổ dân phố số 15; 16. Giữ nguyên tổ dân phố số 16; 17. Giữ nguyên tổ dân phố số 17; 18. Giữ nguyên tổ dân phố số 18; 19. Giữ nguyên tổ dân phố số 19; 20. Giữ nguyên tổ dân phố số 20; 21. Giữ nguyên tổ dân phố số 21; II. 17 tổ dân phố thuộc phường Phương Liệt (cũ): 22. Tổ dân phố số 3 đổi tên thành tổ dân phố số 22; 23. Tổ dân phố số 4 đổi tên thành tổ dân phố số 23; 24. Tổ dân phố số 5 đổi tên thành tổ dân phố số 24; 25. Tổ dân phố số 6 đổi tên thành tổ dân phố số 25; 26. Tổ dân phố số 7 đổi tên thành tổ dân phố số 26; 27. Tổ dân phố số 8 đổi tên thành tổ dân phố số 27; 28. Tổ dân phố số 9 đổi tên thành tổ dân phố số 28; 29. Tổ dân phố số 10 đổi tên thành tổ dân phố số 29; 30. Tổ dân phố số 11 đổi tên thành tổ dân phố số 30; 31. Tổ dân phố số 12 đổi tên thành tổ dân phố số 31; 32. Tổ dân phố số 13 đổi tên thành tổ dân phố số 32; 33. Tổ dân phố số 14 đổi tên thành tổ dân phố số 33; 34. Tổ dân phố số 15 đổi tên thành tổ dân phố số 34; 35. Tổ dân phố số 16 đổi tên thành tổ dân phố số 35; 36. Tổ dân phố số 17 đổi tên thành tổ dân phố số 36; 37. Tổ dân phố số 18 đổi tên thành tổ dân phố số 37; 38. Tổ dân phố số 19 đổi tên thành tổ dân phố số 38; III. 16 tổ dân phố thuộc phường Định Công (cũ): 39. Tổ dân phố số 1 đổi tên thành tổ dân phố số 39; 40. Tổ dân phố số 2 đổi tên thành tổ dân phố số 40; 41. Tổ dân phố số 30 đổi tên thành tổ dân phố số 41; 42. Tổ dân phố số 31 đổi tên thành tổ dân phố số 42; 43. Tổ dân phố số 32 đổi tên thành tổ dân phố số 43; 44. Tổ dân phố số 33 đổi tên thành tổ dân phố số 44; 45. Tổ dân phố số 40 đổi tên thành tổ dân phố số 45; 46. Tổ dân phố số 34 đổi tên thành tổ dân phố số 46; 47. Tổ dân phố số 35 đổi tên thành tổ dân phố số 47; 48. Tổ dân phố số 36 đổi tên thành tổ dân phố số 48; 49. Tổ dân phố số 37 đổi tên thành tổ dân phố số 49; 50. Tổ dân phố số 38 đổi tên thành tổ dân phố số 50; 51. Tổ dân phố số 39 đổi tên thành tổ dân phố số 51; 52. Tổ dân phố số 41 đổi tên thành tổ dân phố số 52; 53. Tổ dân phố số 42 đổi tên thành tổ dân phố số 53; 54. Tổ dân phố số 43 đổi tên thành tổ dân phố số 54; IV. 01 tổ dân phố thuộc phường Thịnh Liệt (cũ): 55. Tổ dân phố số 1 đổi tên thành tổ dân phố số 55; V. 06 tổ dân phố thuộc phường Khương Trung (cũ): 56. Tổ dân phố số 17 đổi tên thành tổ dân phố số 56; 57. Tổ dân phố số 18 đổi tên thành tổ dân phố số 57; 58. Tổ dân phố số 19 đổi tên thành tổ dân phố số 58; 59. Tổ dân phố số 21 đổi tên thành tổ dân phố số 59; 60. Tổ dân phố số 22 đổi tên thành tổ dân phố số 60; 61. Tổ dân phố số 23 đổi tên thành tổ dân phố số 62; VI. 01 tổ dân phố thuộc phường Khương Đình (cũ): 62. Tổ dân phố số 9 đổi tên thành tổ dân phố số 61.</ref><ref>{{Chú thích web |last= |date=2025-09-03 |title=Quyết định số 63/QĐ-ĐU ngày 15 tháng 7 năm 2025 của Đảng ủy phường Phương Liệt về việc đổi tên chi bộ tổ dân phố trực thuộc Đảng ủy phường Phương Liệt |url=https://storage-vnportal.vnpt.vn/gov-hni/6960/VanBan/2025/7/28/qd-64-2025-doi%20ten%20chi%20bo.pdf |url-status=dead |archive-url=https://web.archive.org/web/20260828400809/https://storage-vnportal.vnpt.vn/gov-hni/6960/VanBan/2025/7/28/qd-64-2025-doi%20ten%20chi%20bo.pdf |archive-date=2026-08-28 |access-date=2026-08-28 |website=Trang Thông tin điện tử phường Phương Liệt – thành phố Hà Nội}}</ref><ref>{{Chú thích web |last= |date= |title=Nghị quyết số 11/NQ-HĐND ngày 30 tháng 9 năm 2025 của Hội đồng nhân dân phường Phương Liệt về việc đổi tên tổ dân phố trên địa bàn phường Phương Liệt |url=https://datafiles.hanoi.gov.vn/gov-hni/6960/VanBan/2025/10/2/NQ%2011%20%C4%91%E1%BB%95i%20t%C3%AAn%20t%E1%BB%95%20DP%20tr%C3%AAn%20%C4%91%E1%BB%8Ba%20b%C3%A0n%20ph%C6%B0%E1%BB%9Dng.pdf |url-status=dead |archive-url=https://web.archive.org/web/20260828400809/https://datafiles.hanoi.gov.vn/gov-hni/6960/VanBan/2025/10/2/NQ%2011%20%C4%91%E1%BB%95i%20t%C3%AAn%20t%E1%BB%95%20DP%20tr%C3%AAn%20%C4%91%E1%BB%8Ba%20b%C3%A0n%20ph%C6%B0%E1%BB%9Dng.pdf |archive-date=2026-08-28 |access-date=2026-08-28 |website=Trang Thông tin điện tử phường Phương Liệt – thành phố Hà Nội}}</ref>
+
+Ngày 24 tháng 12 năm 2025, xác định phường Phương Liệt là [[Đô thị Việt Nam|đô thị loại II]].<ref>Chuyển tiếp từ 4 phường: Khương Đình, Khương Mai, Khương Trung, Phương Liệt thuộc quận Thanh Xuân và 2 phường: Định Công, Thịnh Liệt thuộc quận Hoàng Mai.</ref><ref>{{Chú thích web |title=Nghị quyết số 111/2025/UBTVQH15 ngày 24 tháng 12 năm 2025 của Ủy ban Thường vụ Quốc hội về phân loại đô thị |url=https://cdn.nhandan.vn/files/f4a4abf7f9a0ba4a91744616546d850872b76917f90d5a74cc9eebef1369fb6f/111.pdf |url-status=dead |archive-url=https://web.archive.org/web/20260430074852/https://cdn.nhandan.vn/files/f4a4abf7f9a0ba4a91744616546d850872b76917f90d5a74cc9eebef1369fb6f/111.pdf |archive-date=2026-04-30 |access-date=2026-07-12 |website=Báo Nhân dân}}</ref>
+
+Ngày 25 tháng 6 năm 2026, thành lập 23 tổ dân phố mới, đánh số từ 1 đến 14, 16 và từ 18 đến 25; đổi tên 2 tổ dân phố: 38 và 54 lần lượt thành tổ dân phố: 15 và 17.<ref>1. Tổ dân phố 1: Thành lập trên cơ sở toàn bộ diện tích, dân số của các tổ dân phố số 1, số 3, số 4; Tổ dân phố 2: Thành lập trên cơ sở toàn bộ diện tích, dân số của các tổ dân phố số 6, số 7, số 8; 3. Tổ dân phố 3: Thành lập trên cơ sở toàn bộ diện tích, dân số của các tổ dân phố số 2, số 10, số 11; 4. Tổ dân phố 4: Thành lập trên cơ sở toàn bộ diện tích, dân số của các tổ dân phố số 5, số 12, số 13; 5. Tổ dân phố 5: Thành lập trên cơ sở toàn bộ diện tích, dân số của các tổ dân phố số 9, số 14, số 15; 6. Tổ dân phố 6: Thành lập trên cơ sở toàn bộ diện tích, dân số của các tổ dân phố số 16, số 18, số 19; 7. Tổ dân phố 7: Thành lập trên cơ sở toàn bộ diện tích, dân số của các tổ dân phố số 17, số 20, số 21; 8. Tổ dân phố 8: Thành lập trên cơ sở toàn bộ diện tích, dân số của các tổ dân phố số 23, số 24; 9. Tổ dân phố 9: Thành lập trên cơ sở toàn bộ diện tích, dân số của các tổ dân phố số 22, số 25; 10. Tổ dân phố 10: Thành lập trên cơ sở toàn bộ diện tích, dân số của các tổ dân phố số 26, số 27; 11. Tổ dân phố 11: Thành lập trên cơ sở toàn bộ diện tích, dân số của các tổ dân phố số 29, số 32; 12. Tổ dân phố 12: Thành lập trên cơ sở toàn bộ bộ diện tích, dân số của các tổ dân phố số 28, số 30, số 31; 13. Tổ dân phố 13: Thành lập trên cơ sở toàn bộ diện tích, dân số của các tổ dân phố số 33, số 34; 14. Tổ dân phố 14: Thành lập trên cơ sở toàn bộ diện tích, dân số của các tổ dân phố số 35, số 36 và thêm một phần của tổ 41; 15. Tổ dân phố 15: Giữ nguyên và đổi tên tổ dân phố số 38; 16. Tổ dân phố 16: Thành lập trên cơ sở toàn bộ diện tích, dân số của các tổ dân phố số 37, số 55 và thêm phần còn lại của tổ 41; 17. Tổ dân phố 17: Giữ nguyên và đổi tên tổ dân phố số 54; 18. Tổ dân phố 18: Thành lập trên cơ sở toàn bộ diện tích, dân số của các tổ dân phố số 42, số 43, số 47; 19. Tổ dân phố 19: Thành lập trên cơ sở toàn bộ diện tích, dân số của các tổ dân phố số 46, số 48, số 49; 20. Tổ dân phố 20: Thành lập trên cơ sở toàn bộ diện tích, dân số của các tổ dân phố số 50, số 51 và thêm một phần của tổ 45; 21. Tổ dân phố 21: Thành lập trên cơ sở toàn bộ diện tích, dân số của các tổ dân phố số 44, tổ 52 và thêm phần còn lại của tổ 45; 22. Tổ dân phố 22: Thành lập trên cơ sở toàn bộ diện tích, dân số của các tổ dân phố số 39, số 40, số 53; 23. Tổ dân phố 23: Thành lập trên cơ sở toàn bộ diện tích, dân số của các tổ dân phố số 60, số 58 và thêm một phần của tổ 61; 24. Tổ dân phố 24: Thành lập trên cơ sở toàn bộ diện tích, dân số của các tổ dân phố số 57, số 59 và thêm phần còn lại của tổ 61; 25. Tổ dân phố 25: Thành lập trên cơ sở toàn bộ diện tích, dân số của các tổ dân phố số 56, số 62.</ref><ref name=":1">{{Chú thích web |last= |date= |title=Nghị quyết số 22/NQ-HĐND ngày 25 tháng 6 năm 2026 của Hội đồng nhân dân phường Phương Liệt về việc thành lập, sắp xếp, tổ chức lại tổ dân phố trên địa bàn phường Phương Liệt |url=https://datafiles.hanoi.gov.vn/gov-hni/6960/VanBan/2026/6/26/NQ%2022%20TH%C3%80NH%20L%E1%BA%ACP-%20S%E1%BA%AEP%20X%E1%BA%BEP%20L%E1%BA%A0I%20TDP.pdf |url-status=dead |archive-url=https://web.archive.org/web/20260828201510/https://datafiles.hanoi.gov.vn/gov-hni/6960/VanBan/2026/6/26/NQ%2022%20TH%C3%80NH%20L%E1%BA%ACP-%20S%E1%BA%AEP%20X%E1%BA%BEP%20L%E1%BA%A0I%20TDP.pdf |archive-date=2026-08-28 |access-date=2026-08-28 |website=Trang Thông tin điện tử phường Phương Liệt – thành phố Hà Nội}}</ref>
+
+== Hành chính ==
+Phường Phương Liệt được chia thành 25 tổ dân phố, đánh số từ 1 đến 25.<ref name=":1" />
+{| class="wikitable sortable" align="center" width="100%" cellspacing="6" cellpadding="0" style="background: #f9f9f9; border: 1px #aaa solid; margin-top: 16px"
+! colspan="4" style="background: #E6E6FA; font-size: 95%;" |Danh sách các tổ dân phố thuộc phường Phương Liệt<ref name=":1" />
+|-
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Tổ dân phố 1
+|878
+|-
+| align="left" |Tổ dân phố 2
+|1.056
+|-
+| align="left" |Tổ dân phố 3
+|994
+|-
+| align="left" |Tổ dân phố 4
+|874
+|-
+| align="left" |Tổ dân phố 5
+|1.051
+|-
+| align="left" |Tổ dân phố 6
+|796
+|-
+| align="left" |Tổ dân phố 7
+|925
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Tổ dân phố 8
+|884
+|-
+| align="left" |Tổ dân phố 9
+|993
+|-
+| align="left" |Tổ dân phố 10
+|924
+|-
+| align="left" |Tổ dân phố 11
+|1.042
+|-
+| align="left" |Tổ dân phố 12
+|1.141
+|-
+| align="left" |Tổ dân phố 13
+|918
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Tổ dân phố 14
+|1.119
+|-
+| align="left" |Tổ dân phố 15
+|721
+|-
+| align="left" |Tổ dân phố 16
+|1.056
+|-
+| align="left" |Tổ dân phố 17
+|1.047
+|-
+| align="left" |Tổ dân phố 18
+|791
+|-
+| align="left" |Tổ dân phố 19
+|852
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Tổ dân phố 20
+|768
+|-
+| align="left" |Tổ dân phố 21
+|760
+|-
+| align="left" |Tổ dân phố 22
+|892
+|-
+| align="left" |Tổ dân phố 23
+|1.023
+|-
+| align="left" |Tổ dân phố 24
+|777
+|-
+| align="left" |Tổ dân phố 25
+|979
+|}
+|}
+
+== Địa chỉ trụ sở các cơ quan ==
+* '''Trụ sở Đảng ủy''': Lô 9, khu đô thị mới Định Công, phường Phương Liệt<ref name=":02">Địa chỉ cũ: Lô 9, khu đô thị mới Định Công, phường Định Công, quận Hoàng Mai</ref><ref name="trusomoi3">{{Chú thích web | date = 25 tháng 6 năm 2025 | title = Thông báo về địa điểm trụ sở làm việc của 126 phường, xã sau sắp xếp thuộc phạm vi quản lý của thành phố Hà Nội | url = https://dcdn.dantri.com.vn/2025/06/25/tru-so-126-xa-phuong-cua-ha-noi-1750822481952.pdf | website = UBND TP Hà Nội | access-date = 2025-12-04 | archive-date = 2026-04-25 | archive-url = https://web.archive.org/web/20260425080946/https://dcdn.dantri.com.vn/2025/06/25/tru-so-126-xa-phuong-cua-ha-noi-1750822481952.pdf | url-status = dead }}</ref>
+* '''Trụ sở UBND phường''': Số 136, phố Nguyễn Ngọc Nại, phường Phương Liệt<ref name=":0">Địa chỉ cũ: Số 136, phố Nguyễn Ngọc Nại, phường Khương Mai, quận Thanh Xuân</ref>
+* '''Trung tâm phục vụ hành chính công''': Số 136, phố Nguyễn Ngọc Nại, phường Phương Liệt<ref name=":0" /><ref>{{Chú thích báo | last = Trung tâm Phục vụ hành chính công thành phố Hà Nội | title = Hà Nội công khai địa điểm tiếp nhận thủ tục hành chính thuộc UBND 126 xã/phường và 30 điểm tiếp nhận của 12 Chi nhánh thuộc Trung tâm Phục vụ hành chính công Thành phố, thông tin đường dây nóng hỗ trợ người dân, doanh nghiệp | url = https://ttpvhcc.hanoi.gov.vn/hoat-dong-cua-trung-tam/ha-noi-cong-khai-dia-diem-tiep-nhan-thu-tuc-hanh-chinh-thuoc-ubnd-126-xa-phuong-va-30-diem-tiep-nhan-cua-12-chi-nhanh-thuoc-trung-tam-phuc-vu-hanh-chinh-cong-thanh-pho-thong-tin-duong-day-nong-ho-tro-nguoi-dan-doanh-nghiep-2850250704103711121.htm }}{{Liên kết hỏng|date=2026-08-12 |bot=InternetArchiveBot }}</ref>
+* '''Công an phường''':<ref>{{Chú thích báo| url = https://daibieunhandan.vn/danh-sach-126-tru-so-cong-an-cap-xa-thuoc-cong-an-tp-ha-noi-de-nguoi-dan-toi-lam-can-cuoc-dang-ky-xe-10378397.html| title = Danh sách 126 trụ sở Công an cấp xã thuộc Công an TP. Hà Nội để người dân tới làm căn cước, đăng ký xe| last = Báo Đại biểu Nhân dân| first = }}</ref>
+** '''Trụ sở chính''': Số 12D18, khu đô thị mới Định Công, phường Phương Liệt<ref>Địa chỉ cũ: Số 12D18, khu đô thị mới Định Công, phường Định Công, quận Hoàng Mai</ref>
+** '''Trụ sở tiếp nhận thủ tục đăng ký xe''': Số 128, phố Vọng, phường Tương Mai<ref name=":12">Địa chỉ cũ: Số 128, phố Vọng, phường Phương Liệt, quận Thanh Xuân</ref>
+
+== Văn hóa == 
+*Đình Phương Liệt nằm trên phố Phương Liệt.<ref>{{Chú thích web| url = https://nhipsonghanoi.hanoimoi.com.vn/tin-tuc/Xua-va-nay/828215/dinh-phuong-liet| tựa đề = Đình Phương Liệt | tác giả = Thủy Hương | ngày = 2022-12-17 | website = Báo Hànộimới | url lưu trữ = | ngày lưu trữ = | ngày truy cập = 2023-04-27 | url-status = live}}</ref><ref>{{Chú thích web | url = https://thanhxuan.hanoi.gov.vn/tuyen-dung-cong-chuc-vien-chuc/-/asset_publisher/HgNzlI7sMGQj/content/-inh-phuong-liet | tựa đề = Đình Phương Liệt | tác giả = BBT | ngày = 2014-06-13 | website = Cổng thông tin điện tử quận Thanh Xuân | url lưu trữ = https://web.archive.org/web/20230427085130/https://thanhxuan.hanoi.gov.vn/tuyen-dung-cong-chuc-vien-chuc/-/asset_publisher/HgNzlI7sMGQj/content/-inh-phuong-liet | ngày lưu trữ = 2023-04-27 | ngày truy cập = 2023-04-27 | url-status = dead }}</ref>
+*Miếu thờ Trạng nguyên Lưu Danh Công.
+
+== Giao thông== 
+Địa bàn phường Phương Liệt có hai đường lớn chạy qua là [[Đường Trường Chinh, Hà Nội|đường Trường Chinh]] và [[Đường Giải Phóng, Hà Nội|đường Giải Phóng]], cùng với các phố nhỏ đi qua khu dân cư là phố Phương Liệt, phố Vọng, phố Phan Đình Giót, phố Nguyễn Văn Trỗi, phố Định Công, phố Nguyễn Lân và phố Hà Kế Tấn.
+
+== Chú thích== 
+{{tham khảo| 30em}}
+
+== Tham khảo ==
+{{Sơ khai Hà Nội}}
+{{Đơn vị hành chính thuộc thành phố Hà Nội}}

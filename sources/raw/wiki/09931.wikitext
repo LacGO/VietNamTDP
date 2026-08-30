@@ -1,0 +1,128 @@
+{{Thông tin đơn vị hành chính Việt Nam|Xã
+| tên = Hưng Đạo
+| hình =Đình so 2019.jpg 
+| ghi chú hình =Tòa đại đình – Đình so 
+| vĩ độ = 20.974248067135132
+| kinh độ = 105.67280498455254
+| diện tích = 24,9 km²
+| dân số = 49.357 người
+| thời điểm dân số = 2025
+| mật độ dân số = {{formatnum:{{#expr:floor({{formatnum:49.357| R}}/{{formatnum:24,9| R}})}} }} người/km²
+| vùng = [[Đồng bằng sông Hồng]]
+| thành phố = [[Hà Nội]]
+| thành lập = 
+| trụ sở UBND = Thôn Thị Ngoại<ref>{{Chú thích web |url=https://storage-vnportal.vnpt.vn/gov-hni/6244/VanBan/2025/6/25/TB-729-2025.pdf |title=Thông báo số 729/TB-UBND ngày 25 tháng 6 năm 2025 của Ủy ban nhân dân thành phố Hà Nội về địa điểm trụ sở làm việc của 126 phường, xã sau sắp xếp thuộc phạm vi quản lý của thành phố Hà Nội|access-date=2026-06-15 |archive-date=2026-06-15 |archive-url=https://web.archive.org/web/20260615034519/https://storage-vnportal.vnpt.vn/gov-hni/6244/VanBan/2025/6/25/TB-729-2025.pdf |url-status=dead | website = Cổng Thông tin điện tử Ủy ban nhân dân thành phố Hà Nội}}</ref>
+| mã hành chính =09931<ref>{{Chú thích web |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/19ttg.signed.pdf |title=Quyết định số 19/2025/QĐ-TTg ngày 30 tháng 6 năm 2025 của Thủ tướng Chính phủ về việc Ban hành Bảng danh mục và mã số các đơn vị hành chính Việt Nam |access-date=2026-06-15 |archive-date=2026-06-15 |archive-url=https://web.archive.org/web/20260615034519/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/19ttg.signed.pdf |url-status=dead | website = Cổng Thông tin điện tử Chính phủ}}</ref> 
+| web = {{url|hungdao.hanoi.gov.vn}}
+|bản đồ 1={{maplink|frame=yes|plain=yes|type=shape|frame-width=280|frame-align=center|stroke-width=3}}|trụ sở Đảng ủy=Thôn Cộng Hòa 1}}
+{{other|Hưng Đạo (định hướng)}}
+'''Hưng Đạo''' là một [[xã]] thuộc thành phố [[Hà Nội]], [[Việt Nam]].
+
+== Địa lý== 
+Xã Hưng Đạo có vị trí địa lý:
+
+* Phía đông giáp phường [[Yên Nghĩa]] với ranh giới tự nhiên là [[sông Đáy]]
+* Phía tây giáp xã [[Kiều Phú (xã)|Kiều Phú]]
+* Phía nam giáp xã [[Phú Nghĩa, Hà Nội|Phú Nghĩa]] và phường [[Chương Mỹ (phường)|Chương Mỹ]]
+* Phía bắc giáp xã [[Quốc Oai (xã)|Quốc Oai]] và xã [[An Khánh, Hà Nội|An Khánh]] (ranh giới tự nhiên là [[sông Đáy]]).<ref>{{Chú thích web |last=Viện nghiên cứu Phát triển kinh tế – xã hội Hà Nội |date=2025-07-02 |title=Xã Hưng Đạo: Những thông tin chi tiết sau sắp xếp |url=https://hanoionline.vn/xa-hung-dao-nhung-thong-tin-chi-tiet-sau-sap-xep-344172.htm |url-status=live |archive-url=https://web.archive.org/web/20260711400809/https://hanoionline.vn/xa-hung-dao-nhung-thong-tin-chi-tiet-sau-sap-xep-344172.htm |archive-date=2026-07-11 |access-date=2026-07-11 |website=Cơ quan Báo và Phát thanh Truyền hình Hà Nội}}</ref><ref>{{Chú thích web |last=Cơ quan Báo và Phát thanh Truyền hình Hà Nội |date=2025-07-07 |title=Xã Hưng Đạo: Tất cả thông tin chỉ dẫn bạn cần biết |url=https://hanoionline.vn/xa-hung-dao-tat-ca-thong-tin-chi-dan-ban-can-biet-345264.htm |url-status=dead |archive-url=https://web.archive.org/web/20260711401509/https://hanoionline.vn/xa-hung-dao-tat-ca-thong-tin-chi-dan-ban-can-biet-345264.htm |archive-date=2026-07-11 |access-date=2026-07-11}}</ref>
+Xã Hưng Đạo có diện tích tự nhiên là 24,9 km<sup>2</sup>, quy mô dân số năm 2025 là 49.357 người và mật độ dân số đạt 1.982 người/km<sup>2</sup>.<ref>{{Chú thích web |last=Mai Hữu |date=2026-04-05 |title=Hà Nội: Chi tiết phương án tổng thể sắp xếp đơn vị hành chính cấp xã |url=https://hanoimoi.vn/ha-noi-chi-tiet-phuong-an-tong-the-sap-xep-don-vi-hanh-chinh-cap-xa-700278.html |url-status=live |archive-url=https://web.archive.org/web/20260711401509/https://hanoimoi.vn/ha-noi-chi-tiet-phuong-an-tong-the-sap-xep-don-vi-hanh-chinh-cap-xa-700278.html |archive-date=2026-07-11 |access-date=2026-07-11 |website=Cơ quan Báo và Phát thanh, truyền hình Hà Nội}}</ref><ref>Công văn số 2896/BNV-CQĐP ngày 27 tháng 5 năm 2025 của Bộ Nội vụ về việc cung cấp thông tin danh mục dự kiến đơn vị hành chính cấp xã mới.</ref>
+
+== Lịch sử==
+
+=== Trước năm 1976 ===
+
+=== Giai đoạn 1976 – nay ===
+Sau ngày 2 tháng 7 năm 1976, 5 xã: Cộng Hòa, Đại Thành, Đồng Quang, Tân Hòa và Tân Phú thuộc huyện [[Quốc Oai (huyện)|Quốc Oai]] của tỉnh [[Hà Sơn Bình]].
+
+Ngày 29 tháng 12 năm 1978, sáp nhập các xã Cộng Hòa, Tân Hòa, Tân Phú và Đại Thành của huyện [[Quốc Oai (huyện)|Quốc Oai]] thuộc tỉnh [[Hà Sơn Bình]] vào thành phố [[Hà Nội]].<ref>Nghị quyết ngày 29 tháng 12 năm 1978 của Quốc hội khóa VI, Kỳ họp thứ 4 phê chuẩn việc phân vạch lại địa giới thành phố Hà Nội, thành phố Hồ Chí Minh, các tỉnh Hà Sơn Bình, Vĩnh Phú, Cao Lạng, Bắc Thái, Quảng Ninh và Đồng Nai.</ref>
+
+Ngày 17 tháng 2 năm 1979, sáp nhập các xã Cộng Hòa, Tân Hòa, Tân Phú và Đại Thành (của huyện [[Quốc Oai (huyện)|Quốc Oai]]) vào huyện [[Hoài Đức (huyện)|Hoài Đức]].<ref>Quyết định số 49-CP ngày 17 tháng 2 năm 1979 của Hội đồng Chính phủ về việc điều chỉnh địa giới một số xã, thị trấn thuộc các huyện Sóc Sơn, Mê Linh, Hoài Đức, Phúc Thọ và Thanh Trì thuộc thành phố Hà Nội.</ref>
+
+Ngày 12 tháng 8 năm 1991, chia tỉnh [[Hà Sơn Bình]] thành 2 tỉnh, lấy tên là tỉnh [[Hòa Bình (tỉnh)|Hòa Bình]] và tỉnh [[Hà Tây (tỉnh)|Hà Tây]]. Khi đó, xã Đồng Quang thuộc huyện Quốc Oai của tỉnh [[Hà Tây (tỉnh)|Hà Tây]].<ref>Nghị quyết ngày 12 tháng 8 năm 1991 của Quốc hội khóa VIII, Kỳ họp thứ 9 về việc điều chỉnh địa giới hành chính một số tỉnh, thành phố trực thuộc Trung ương.</ref>
+
+Ngày 23 tháng 6 năm 1994, chuyển giao các xã Tân Phú, Đại Thành, Cộng Hòa, Tân Hòa thuộc huyện [[Hoài Đức (huyện)|Hoài Đức]] về huyện [[Quốc Oai (huyện)|Quốc Oai]] quản lý.<ref>{{Chú thích web |title=Nghị định số 52-CP ngày 23 tháng 6 năm 1994 của Chính phủ về việc điều chỉnh địa giới huyện và thành lập thị trấn, phường thuộc các huyện Hoài Đức, Chương Mỹ, Thạch Thất, Thanh Oai, thị xã Hà Đông, tỉnh Hà Tây |url=https://chinhphu.vn/default.aspx?pageid=27160&docid=2281 |url-status=dead |archive-url=https://web.archive.org/web/20260725401509/https://chinhphu.vn/default.aspx?pageid=27160&docid=2281 |archive-date=2026-07-25 |access-date=2026-07-25 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+
+Ngày 29 tháng 5 năm 2008, hợp nhất tỉnh [[Hà Tây (tỉnh)|Hà Tây]] vào thành phố [[Hà Nội]]. Khi đó, 5 xã: Cộng Hòa, Đại Thành, Đồng Quang, Tân Hòa và Tân Phú thuộc huyện [[Quốc Oai (huyện)|Quốc Oai]] của thành phố [[Hà Nội]].<ref>Nghị quyết số 15/2008/QH12 ngày 29 tháng 5 năm 2008 của Quốc hội khóa XII, Kỳ họp thứ 3 về việc điều chỉnh địa giới hành chính thành phố Hà Nội và một số tỉnh có liên quan.</ref>
+
+Ngày 14 tháng 11 năm 2024:
+
+* Nhập xã Tân Hòa vào xã Cộng Hòa.
+* Thành lập xã Hưng Đạo trên cơ sở nhập xã Đại Thành và xã Tân Phú.<ref>{{Chú thích web |tiêu đề=Nghị quyết số 1286/NQ-UBTVQH15 ngày 14 tháng 11 năm 2024 của Ủy ban Thường vụ Quốc hội về việc sắp xếp đơn vị hành chính cấp xã của thành phố Hà Nội giai đoạn 2023 – 2025 |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/11/1286-qh.signed.pdf |url-status=dead |archive-url=https://web.archive.org/web/20260725401509/https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/11/1286-qh.signed.pdf |ngày lưu trữ=2026-07-25 |ngày truy cập=2026-07-25 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+
+Ngày 16 tháng 6 năm 2025:
+
+* Kết thúc hoạt động của đơn vị hành chính cấp huyện trong cả nước.<ref>{{Chú thích web |last= |date= |title=Nghị quyết số 203/2025/QH15 ngày 16 tháng 6 năm 2025 của Quốc hội khóa XV, Kỳ họp thứ 9 về việc sửa đổi, bổ sung một số điều của Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/nq-sua-doi-hien-phap.pdf |url-status=live |archive-url=https://web.archive.org/web/20260613090807/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/nq-sua-doi-hien-phap.pdf |archive-date=2026-06-13 |access-date=2026-06-13 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+* Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của các xã Cộng Hoà, Đồng Quang và Hưng Đạo (huyện [[Quốc Oai (huyện)|Quốc Oai]]) thành xã mới có tên gọi là xã Hưng Đạo.<ref>{{Chú thích web |title=Nghị quyết số 1656/NQ-UBTVQH15 ngày 16 tháng 6 năm 2025 của Ủy ban Thường vụ Quốc hội về việc sắp xếp các đơn vị hành chính cấp xã của thành phố Hà Nội năm 2025 |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf |url-status=live |archive-url=https://web.archive.org/web/20260630400809/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf |archive-date=2026-06-30 |access-date=2026-06-30 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+* Sau khi sắp xếp, xã Hưng Đạo được chia thành 21 thôn.<ref>12 thôn, đánh số từ 1 đến 6 (trước thuộc xã Cộng Hòa) và từ 7 đến 12 (trước thuộc xã Tân Hòa) của xã Cộng Hòa cũ; 3 thôn: Dương Cốc, Đồng Lư và Yên Nội của xã Đồng Quang cũ; 6 thôn: Đại Tảo, Độ Chàng, Tình Lam (trước thuộc xã Đại Thành), Hạ Hòa, Phú Hạng và Yên Quán (trước thuộc xã Tân Phú) của xã Hưng Đạo cũ.</ref><ref>{{Chú thích web |title=Thông tư số 10/2022/TT-BTNMT ngày 29 tháng 9 năm 2022 của Bộ Tài nguyên và Môi trường về việc Ban hành Danh mục địa danh dân cư, sơn văn, thủy văn, kinh tế – xã hội phục vụ công tác thành lập bản đồ thành phố Hà Nội |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2022/10/10-btnmt.pdf |url-status=live |archive-url=https://web.archive.org/web/20260630400809/https://datafiles.chinhphu.vn/cpp/files/vbpq/2022/10/10-btnmt.pdf |archive-date=2026-06-30 |access-date=2026-06-30 |website=Cổng Thông tin điện tử Chính phủ}}</ref><ref>{{Chú thích web |last= |date= |title=Quyết định số 26/QĐ-UBND ngày 24 tháng 2 năm 2026 của Ủy ban bầu cử xã Hưng Đạo về việc lập và công bố danh sách chính thức những người ứng cử đại biểu Hội đồng nhân dân xã Hưng Đạo nhiệm kỳ 2026 – 2031 theo đơn vị bầu cử |url=https://web.facebook.com/story.php?story_fbid=122170803266912163&id=61577364907714&rdid=hyVM6NGYsENfidjK# |url-status=dead |archive-url=https://web.archive.org/web/20260728201509/https://web.facebook.com/story.php?story_fbid=122170803266912163&id=61577364907714&rdid=hyVM6NGYsENfidjK# |archive-date=2026-07-28 |access-date=2026-07-28 |website=Trang Trung Tâm Dịch Vụ Tổng Hợp Xã Hưng Đạo – thành phố Hà Nội}}</ref>
+Ngày 18 tháng 6 năm 2026, thành lập 8 thôn mới: Cộng Hòa 1, 2, Tân Hòa 1, 2, Tân Phú 1, 2, Đại Thành 1 và 2.<ref>1. Thôn Cộng Hòa 1 sáp nhập từ thôn 1, thôn 2 và thôn 3; 2. Thôn Cộng Hòa 2 sáp nhập từ thôn 4, thôn 5 và thôn 6; 3. Thôn Tân Hòa 1 sáp nhập từ thôn 7, thôn 8 và thôn 9; 4. Thôn Tân Hòa 2 sáp nhập từ thôn 10, thôn 11 và thôn 12; 5. Thôn Đồng Lư: Giữ nguyên; 6. Thôn Dương Cốc: Giữ nguyên; 7. Thôn Yên Nội: Giữ nguyên; 8. Sáp nhập 1/2 diện tích và dân số của Phú Hạng với Yên Quán thành thôn Tân Phú 1; 9. Sáp nhập 1/2 diện tích và dân số của thôn Phú Hạng với Hạ Hòa thành thôn Tân Phú 2; 10. Sáp nhập 230 hộ, 1150 nhân khẩu thôn Tình Lam với Đại Tảo thành thôn Đại Thành 1; 11. Sáp nhập 431 hộ, 1548 nhân khẩu thôn Tình Lam với Độ Chàng thành thôn Đại Thành 2.</ref><ref name=":1">{{Chú thích web |last= |date= |title=Kế hoạch số 346/KH-UBND ngày 12 tháng 6 năm 2026 của Ủy ban nhân dân xã Hưng Đạo về việc sáp nhập thôn trên địa bàn xã Hưng Đạo |url=https://datafiles.hanoi.gov.vn/gov-hni/7050/VanBan/2026/6/15/02.6.2026%20KH%20s%C3%A1p%20nh%E1%BA%ADp%20th%C3%B4n.pdf |url-status=dead |archive-url=https://web.archive.org/web/20260728201509/https://datafiles.hanoi.gov.vn/gov-hni/7050/VanBan/2026/6/15/02.6.2026%20KH%20s%C3%A1p%20nh%E1%BA%ADp%20th%C3%B4n.pdf |archive-date=2026-07-28 |access-date=2026-07-28 |website=Trang Thông tin điện tử xã Hưng Đạo – thành phố Hà Nội}}</ref><ref name=":2">{{Chú thích web |last=Minh Anh – Hoàng Anh |date=2026-06-30 |title=Xã Hưng Đạo công bố nghị quyết thành lập, sắp xếp, tổ chức lại thôn và quyết định thành lập chi bộ thôn |url=https://hungdao.hanoi.gov.vn/tin-tuc-su-kien/xa-hung-dao-cong-bo-nghi-quyet-thanh-lap-sap-xep-to-chuc-lai-thon-va-quyet-dinh-thanh-lap-chi-bo-thon-2772260630215911841.htm |url-status=dead |archive-url=https://web.archive.org/web/20260728201509/https://hungdao.hanoi.gov.vn/tin-tuc-su-kien/xa-hung-dao-cong-bo-nghi-quyet-thanh-lap-sap-xep-to-chuc-lai-thon-va-quyet-dinh-thanh-lap-chi-bo-thon-2772260630215911841.htm |archive-date=2026-07-28 |access-date=2026-07-28 |website=Trang Thông tin điện tử xã Hưng Đạo – thành phố Hà Nội}}</ref>
+
+== Hành chính==
+Xã Hưng Đạo được chia thành 11 thôn: Cộng Hòa 1, 2, Dương Cốc, Đại Thành 1, 2, Đồng Lư, Tân Hòa 1, 2, Tân Phú 1, 2 và Yên Nội.<ref name=":1" /><ref name=":2" />
+{| class="wikitable sortable" cellpadding="0" cellspacing="6" width="100%" align="center" style="background: #f9f9f9; border: 1px #aaa solid; margin-top: 16px"
+! colspan="4" style="background: #E6E6FA; font-size: 95%;" |Danh sách các thôn thuộc xã Hưng Đạo<ref name=":1" /><ref name=":2" />
+|-
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| cellpadding="1" cellspacing="1" width="100%" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Cộng Hòa 1
+|959
+|-
+| align="left" |Cộng Hòa 2
+|1.124
+|-
+| align="left" |Dương Cốc
+|855
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| cellpadding="1" cellspacing="1" width="100%" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Đại Thành 1
+|1.009
+|-
+| align="left" |Đại Thành 2
+|1.092
+|-
+| align="left" |Đồng Lư
+|1.511
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| cellpadding="1" cellspacing="1" width="100%" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Tân Hòa 1
+|841
+|-
+| align="left" |Tân Hòa 2
+|1.186
+|-
+| align="left" |Tân Phú 1
+|820
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| cellpadding="1" cellspacing="1" width="100%" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Tân Phú 2
+|826
+|-
+| align="left" |Yên Nội
+|2.702
+|}
+|}
+
+== Di tích - Danh thắng==
+* Di tích quốc gia Quán Trên - Quán Dưới - Cây đa thuộc làng Đồng Lư, thờ thành hoàng làng Đồng Lư là [[Tướng nhà Đinh|3 anh em họ Cao]], người trang Sơn Lộ có công giúp [[Đinh Tiên Hoàng]] dẹp [[loạn 12 sứ quân]].<ref>{{Chú thích web | url = http://ditichlichsuvanhoa.com/dttc/QUAN-TREN-%E2%80%93-QUAN-DUOI-a413.html | ngày truy cập = 2018-12-22 | tựa đề = Di tích lịch sử văn hóa quốc gia Quán Trên - Quán Dưới | archive-date = ngày 23 tháng 12 năm 2018 | archive-url = https://web.archive.org/web/20181223030113/http://ditichlichsuvanhoa.com/dttc/QUAN-TREN-%E2%80%93-QUAN-DUOI-a413.html }}</ref>
+* Đình Đồng Lư cũng thờ thành hoàng làng Đồng Lư. Làng Đồng Lư và Làng So xưa thuộc trang Sơn Lộ nên cùng có đình Đồng Lư và [[đình So]] thờ tam vị thành hoàng
+* [[Đình So]] thuộc xã Cộng Hòa là một trong những ngôi đình đẹp nhất xứ Đoài "Đẹp [[đình So]] - To đình Cấn", được xếp hạng di tích quốc gia đặc biệt. Đình được xây dựng năm 1673 thờ tam vị Đại Vương có công giúp vua [[Đinh Tiên Hoàng]] - Đinh Bộ Lĩnh dẹp [[loạn 12 sứ quân]].<ref>{{Chú thích web | url = http://hanoitv.vn/doc-dao-kien-truc-dinh-so-d4532.html | ngày truy cập = 2017-07-02 | tựa đề = Độc đáo kiến trúc Đình So | archive-date = 2018-11-20 | archive-url = https://web.archive.org/web/20181120095354/http://hanoitv.vn/doc-dao-kien-truc-dinh-so-d4532.html | url-status = dead }}</ref>
+
+== Chú thích== 
+{{tham khảo}}
+
+== Tham khảo ==
+{{Sơ khai Hà Nội}}{{Đơn vị hành chính thuộc thành phố Hà Nội}}

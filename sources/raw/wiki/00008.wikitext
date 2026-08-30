@@ -1,0 +1,273 @@
+{{Thông tin đơn vị hành chính Việt Nam |Phường
+| tên = Ngọc Hà
+| hình =Quần Ngựa Palace of Sports.jpg 
+| ghi chú hình =Cung thể thao Quần Ngựa 
+| vĩ độ = 21.03438422734925
+| kinh độ = 105.81459354232786
+| diện tích = 2,67 km²
+| dân số = 93.536 người
+| thời điểm dân số = 2025
+| mật độ dân số = {{formatnum:{{#expr:floor({{formatnum:93.536|R}}/{{formatnum:2,67|R}})}} }} người/km²
+| vùng = [[Đồng bằng sông Hồng]]
+| thành phố = [[Hà Nội]]
+| trụ sở UBND = Số 25, phố Liễu Giai<ref>{{Chú thích web |url=https://storage-vnportal.vnpt.vn/gov-hni/6244/VanBan/2025/6/25/TB-729-2025.pdf |title=Thông báo số 729/TB-UBND ngày 25 tháng 6 năm 2025 của Ủy ban nhân dân thành phố Hà Nội về địa điểm trụ sở làm việc của 126 phường, xã sau sắp xếp thuộc phạm vi quản lý của thành phố Hà Nội|access-date=2026-06-15 |archive-date=2026-06-15 |archive-url=https://web.archive.org/web/20260615034519/https://storage-vnportal.vnpt.vn/gov-hni/6244/VanBan/2025/6/25/TB-729-2025.pdf |url-status=dead | website = Cổng Thông tin điện tử Ủy ban nhân dân thành phố Hà Nội}}</ref>
+| mã hành chính =00008<ref>{{Chú thích web |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/19ttg.signed.pdf |title=Quyết định số 19/2025/QĐ-TTg ngày 30 tháng 6 năm 2025 của Thủ tướng Chính phủ về việc Ban hành Bảng danh mục và mã số các đơn vị hành chính Việt Nam |access-date=2026-06-15 |archive-date=2026-06-15 |archive-url=https://web.archive.org/web/20260615034519/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/19ttg.signed.pdf |url-status=dead | website = Cổng Thông tin điện tử Chính phủ}}</ref> 
+|trụ sở Đảng ủy=Số 25, phố Liễu Giai|web={{url|ngocha.hanoi.gov.vn}}}}
+{{other|Ngọc Hà}}
+'''Ngọc Hà''' là một [[Phường (Việt Nam)|phường]] thuộc thành phố [[Hà Nội]], [[Việt Nam]].
+
+==Địa lý==
+Phường Ngọc Hà có vị trí địa lý: 
+* Phía đông giáp phường [[Ba Đình (phường)|Ba Đình]] (ranh giới đi theo ngõ 55 đường Hoàng Hoa Thám – ngõ 158 phố Ngọc Hà – ngõ 135 Đội Cấn – phố Đội Cấn – phố Giang Văn Minh – phố Kim Mã).
+* Phía tây giáp phường [[Nghĩa Đô (phường)|Nghĩa Đô]] (ranh giới đi theo [[Đường vành đai 2 (Hà Nội)|đường Vành đai 2]] – [[sông Tô Lịch]]).
+* Phía nam giáp phường [[Giảng Võ]] (ranh giới đi theo phố Phan Kế Bính – Liễu Giai – Đào Tấn – Kim Mã).
+* Phía bắc giáp phường [[Tây Hồ (phường)|Tây Hồ]] (ranh giới đi theo đường Hoàng Hoa Thám).<ref>{{Chú thích web |last=Báo Điện tử Chính phủ |date=2025-04-28 |title=Chi tiết dự thảo phương án sắp xếp các phường của Hà Nội |url=https://xaydungchinhsach.chinhphu.vn/chi-tiet-du-thao-phuong-an-sap-xep-cac-phuong-cua-ha-noi-119250421100531902.htm |url-status=live |archive-url=https://web.archive.org/web/20260710401509/https://xaydungchinhsach.chinhphu.vn/chi-tiet-du-thao-phuong-an-sap-xep-cac-phuong-cua-ha-noi-119250421100531902.htm |archive-date=2026-07-10 |access-date=2026-07-10 |website=Xây dựng chính sách, pháp luật}}</ref><ref>{{Chú thích web |last=Viện nghiên cứu Phát triển kinh tế – xã hội Hà Nội |date=2025-07-02 |title=Phường Ngọc Hà: Những thông tin chi tiết sau sắp xếp |url=https://hanoionline.vn/phuong-ngoc-ha-nhung-thong-tin-chi-tiet-sau-sap-xep-344049.htm |url-status=dead |archive-url=https://web.archive.org/web/20260818400809/https://hanoionline.vn/phuong-ngoc-ha-nhung-thong-tin-chi-tiet-sau-sap-xep-344049.htm |archive-date=2026-08-18 |access-date=2026-08-18 |website=Cơ quan Báo và Phát thanh Truyền hình Hà Nội}}</ref><ref>{{Chú thích web |last=Cơ quan Báo và Phát thanh Truyền hình Hà Nội |date=2025-07-04 |title=Phường Ngọc Hà: Tất cả thông tin và thủ tục cần biết |url=https://hanoionline.vn/phuong-ngoc-ha-tat-ca-thong-tin-va-thu-tuc-can-biet-344748.htm |url-status=dead |archive-url=https://web.archive.org/web/20260818401509/https://hanoionline.vn/phuong-ngoc-ha-tat-ca-thong-tin-va-thu-tuc-can-biet-344748.htm |archive-date=2026-08-18 |access-date=2026-08-18}}</ref>
+Phường Ngọc Hà có diện tích tự nhiên là 2,67&nbsp;km<sup>2</sup>, quy mô dân số năm 2025 là 93.536 người và mật độ dân số đạt 35.032 người/km<sup>2</sup>.<ref>{{Chú thích web |last=Mai Hữu |date=2026-04-05 |title=Hà Nội: Chi tiết phương án tổng thể sắp xếp đơn vị hành chính cấp xã |url=https://hanoimoi.vn/ha-noi-chi-tiet-phuong-an-tong-the-sap-xep-don-vi-hanh-chinh-cap-xa-700278.html |url-status=live |archive-url=https://web.archive.org/web/20260711401509/https://hanoimoi.vn/ha-noi-chi-tiet-phuong-an-tong-the-sap-xep-don-vi-hanh-chinh-cap-xa-700278.html |archive-date=2026-07-11 |access-date=2026-07-11 |website=Cơ quan Báo và Phát thanh, truyền hình Hà Nội}}</ref><ref>Công văn số 2896/BNV-CQĐP ngày 27 tháng 5 năm 2025 của Bộ Nội vụ về việc cung cấp thông tin danh mục dự kiến đơn vị hành chính cấp xã mới.</ref>
+
+==Lịch sử==
+
+=== Trước năm 1976 ===
+Xưa kia, nơi đây là phần đất của [[thập tam trại]] – mười ba làng bao quanh [[hồ Tây]], chuyên sản xuất những nhu yếu phẩm cung cấp cho kinh thành Thăng Long trước kia: Ngọc Hà, Thụy Khuê,... Địa bàn của phường Ngọc Hà ngày nay tương ứng với các [[làng Ngọc Hà]], Hữu Tiệp, Đại Yên, nổi tiếng với nghề trồng hoa và làm thuốc nam. Trong đợt khai quật [[hoàng thành Thăng Long]], các nhà khảo cổ đã tìm thấy dấu tích một con sông cổ chảy ngang qua kinh thành theo hướng Đông – Tây, về phía làng Ngọc Hà xưa, và họ cho rằng đây là con sông mang tên ''sông ngọc'' (''Ngọc Hà''), làm nên tên làng Ngọc Hà.
+
+{{bài chi tiết|Làng Ngọc Hà}}
+Cuối thế kỷ 19, chính quyền [[thực dân Pháp]] chiếm một phần đất của làng Ngọc Hà để xây dựng Phủ Toàn quyền và Vườn hoa Bách Thảo.<ref name="NH1">{{Chú thích web|url=https://hanoimoi.vn/lang-ngoc-ha-70035.html|tựa đề= Làng Ngọc Hà |tác giả= Bùi Xuân Đính |ngày= 2005-09-07 |website= Cơ quan Báo và Phát thanh, truyền hình Hà Nội |url lưu trữ=https://web.archive.org/web/20250530072615/https://hanoimoi.vn/lang-ngoc-ha-70035.html|ngày lưu trữ= 2025-05-30 |ngày truy cập= 2025-05-30 |url-status=dead}}</ref> Do ở gần Phủ Toàn quyền nên ở đầu phố Ngọc Hà có một đồn lính khố xanh làm nhiệm vụ bảo vệ an ninh vùng ven của Phủ.<ref name=NH1/>
+
+Ngày 21 tháng 12 năm 1974, UBND TP. Hà Nội ban hành Quyết định<ref>Quyết định về việc thành lập các tiểu khu thuộc các khu phố, thành phố Hà Nội.</ref> về việc thành lập tiểu khu Ngọc Hà thuộc khu phố Ba Đình.
+
+=== Giai đoạn 1976 – nay ===
+Sau ngày 2 tháng 7 năm 1976, 5 tiểu khu: Cầu Giấy, Cống Vị, Đội Cấn, Kim Mã và Ngọc Hà thuộc khu phố [[Ba Đình (quận)|Ba Đình]] của thành phố [[Hà Nội]].
+
+Ngày 3 tháng 1 năm 1981, từ nay ở nội thành, đơn vị hành chính cấp dưới trực tiếp của [[Thành phố trực thuộc trung ương (Việt Nam)|thành phố trực thuộc trung ương]] đều thống nhất gọi là [[Quận (Việt Nam)|quận]]; các đơn vị hành chính cơ sở ở nội thành, nội thị của các [[Thành phố thuộc tỉnh (Việt Nam)|thành phố thuộc tỉnh]], [[Thị xã (Việt Nam)|thị xã]] và [[Quận (Việt Nam)|quận]] gọi là [[Phường (Việt Nam)|phường]]. Khi đó, 5 phường: Cầu Giấy, Cống Vị, Đội Cấn, Kim Mã và Ngọc Hà thuộc quận [[Ba Đình (quận)|Ba Đình]].<ref>Quyết định số 3-CP ngày 3 tháng 1 năm 1981 của Hội đồng Chính phủ về việc thống nhất tên gọi các đơn vị hành chính ở nội thành nội thị.</ref>
+
+Ngày 22 tháng 11 năm 1996, đổi tên phường Cầu Giấy thành phường Ngọc Khánh.<ref>{{Chú thích web |title=Nghị định số 74-CP ngày 22 tháng 11 năm 1996 của Chính phủ về việc thành lập quận Thanh Xuân, quận Cầu Giấy, thành lập và đổi tên một số phường thuộc thành phố Hà Nội |url=https://chinhphu.vn/default.aspx?pageid=27160&docid=3229 |url-status=dead |archive-url=https://web.archive.org/web/20260818061807/https://chinhphu.vn/default.aspx?pageid=27160&docid=3229 |archive-date=2026-08-18 |access-date=2026-08-18 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+
+Ngày 5 tháng 1 năm 2005:
+
+* Điều chỉnh 01 ha diện tích tự nhiên và 200 nhân khẩu của phường Cống Vị về phường Ngọc Khánh quản lý.
+* Điều chỉnh 5,58 ha diện tích tự nhiên và 805 nhân khẩu của phường Ngọc Khánh về phường Cống Vị quản lý.
+* Thành lập phường Liễu Giai trên cơ sở 52,88 ha diện tích tự nhiên và 13.415 nhân khẩu của phường Cống Vị, 19,90 ha diện tích tự nhiên và 5.226 nhân khẩu của phường Ngọc Hà.
+* Thành lập phường Vĩnh Phúc trên cơ sở 73,72 ha diện tích tự nhiên và 15.743 nhân khẩu của phường Cống Vị.<ref>{{Chú thích web|url=https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Nghi-dinh-02-2005-ND-CP-dieu-chinh-dia-gioi-hanh-chinh-thanh-lap-phuong-thuoc-quan-Ba-Dinh-Cau-Giay-thanh-lap-thi-tran-Trau-Quy-Gia-Lam-Ha-Noi-52953.aspx|tựa đề= Nghị định số 2/2005/NĐ-CP ngày 5 tháng 1 năm 2005 của Chính phủ về việc điều chỉnh địa giới hành chính, thành lập phường thuộc các quận Ba Đình, Cầu Giấy và thành lập thị trấn Trâu Quỳ, huyện Gia Lâm, thành phố Hà Nội |tác giả=|ngày= |website= |url lưu trữ=https://web.archive.org/web/20260818201510/https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Nghi-dinh-02-2005-ND-CP-dieu-chinh-dia-gioi-hanh-chinh-thanh-lap-phuong-thuoc-quan-Ba-Dinh-Cau-Giay-thanh-lap-thi-tran-Trau-Quy-Gia-Lam-Ha-Noi-52953.aspx|ngày lưu trữ=2026-08-18|ngày truy cập=2026-08-18|url-status=dead}}</ref>
+
+Ngày 16 tháng 6 năm 2025:
+
+* Kết thúc hoạt động của đơn vị hành chính cấp huyện trong cả nước.<ref>{{Chú thích web |last= |date= |title=Nghị quyết số 203/2025/QH15 ngày 16 tháng 6 năm 2025 của Quốc hội khóa XV, Kỳ họp thứ 9 về việc sửa đổi, bổ sung một số điều của Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/nq-sua-doi-hien-phap.pdf |url-status=live |archive-url=https://web.archive.org/web/20260613090807/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/nq-sua-doi-hien-phap.pdf |archive-date=2026-06-13 |access-date=2026-06-13 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+* Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của phường Vĩnh Phúc, phường Liễu Giai, một phần diện tích tự nhiên, quy mô dân số của các phường Cống Vị, Kim Mã, Ngọc Khánh (quận [[Ba Đình (quận)|Ba Đình]]), Nghĩa Đô (quận [[Cầu Giấy (quận)|Cầu Giấy]]), phần còn lại của phường Đội Cấn và phường Ngọc Hà (quận [[Ba Đình (quận)|Ba Đình]]) thành phường mới có tên gọi là phường Ngọc Hà.<ref>{{Chú thích web |title=Nghị quyết số 1656/NQ-UBTVQH15 ngày 16 tháng 6 năm 2025 của Ủy ban Thường vụ Quốc hội về việc sắp xếp các đơn vị hành chính cấp xã của thành phố Hà Nội năm 2025 |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf |url-status=live |archive-url=https://web.archive.org/web/20260630400809/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf |archive-date=2026-06-30 |access-date=2026-06-30 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+Ngày 6 tháng 8 năm 2025, tổ chức lại và đổi tên 77 tổ dân phố trên địa bàn phường Ngọc Hà. Sau khi sắp xếp, phường Ngọc Hà được chia thành 77 tổ dân phố.<ref>77 tổ dân phố: 1A, 1B, 2, 3A, 3B, 4A, 4B, 5A, 5B, 6A, 6B, 7, 8A, 8B, 9, 10A, 10B, 11A, 11B, từ 12 đến 14, 15A, 15B, từ 16 đến 18, 19A, 19B, 20A, 20B, 20C, 21A, 21B, 22, 23A, 23B, từ 24 đến 32, 33A, 33B, 33C, 34, 35, 36A, 36B, 37A, 37B, 37C, 38, 39A, 39B, 40, 41A, 41B, từ 42 đến 45, 46A, 46B, 47, 48, 49A, 49B và từ 50 đến 54.</ref><ref>{{Chú thích web |title=Thông tư số 10/2022/TT-BTNMT ngày 29 tháng 9 năm 2022 của Bộ Tài nguyên và Môi trường về việc Ban hành Danh mục địa danh dân cư, sơn văn, thủy văn, kinh tế – xã hội phục vụ công tác thành lập bản đồ thành phố Hà Nội |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2022/10/10-btnmt.pdf |url-status=live |archive-url=https://web.archive.org/web/20260630400809/https://datafiles.chinhphu.vn/cpp/files/vbpq/2022/10/10-btnmt.pdf |archive-date=2026-06-30 |access-date=2026-06-30 |website=Cổng Thông tin điện tử Chính phủ}}</ref><ref>{{Chú thích web |last=Tạ Trung Hiếu |date=2025-08-07 |title=Hội đồng nhân dân phường Ngọc Hà khóa I, nhiệm kỳ 2021 – 2026 tổ chức thành công kỳ họp thứ ba (kỳ họp chuyên đề) |url=https://ngocha.hanoi.gov.vn/tin-tuc-hoat-dong-hdnd/hdnd-phuong-ngoc-ha-khoa-i-nhiem-ky-2021-2026-to-chuc-thanh-cong-ky-hop-thu-ba-ky-hop-chuyen-de-280225080717253101.htm?gidzl=JTvQGwicG3z9mLv5eJz1FK76M4A_EH8sNS84IxLl6cLJbm8Pj6iQP5R60HdZFHfXKiPG7JBGoIzDhYT4FG |url-status=dead |archive-url=https://web.archive.org/web/20260818201510/https://ngocha.hanoi.gov.vn/tin-tuc-hoat-dong-hdnd/hdnd-phuong-ngoc-ha-khoa-i-nhiem-ky-2021-2026-to-chuc-thanh-cong-ky-hop-thu-ba-ky-hop-chuyen-de-280225080717253101.htm?gidzl=JTvQGwicG3z9mLv5eJz1FK76M4A_EH8sNS84IxLl6cLJbm8Pj6iQP5R60HdZFHfXKiPG7JBGoIzDhYT4FG |archive-date=2026-08-18 |access-date=2026-08-18 |website=Trang Thông tin điện tử phường Ngọc Hà – thành phố Hà Nội}}</ref><ref>{{Chú thích web |last= |date= |title=Quyết định số 14/QĐ-UBBC ngày 24 tháng 2 năm 2026 của Ủy ban bầu cử phường Ngọc Hà về việc công bố danh sách chính thức những người ứng cử đại biểu Hội đồng nhân dân phường Ngọc Hà khóa II, nhiệm kỳ 2026 – 2031 |url=https://ochodua.hanoi.gov.vn/bau-cu-dai-bieu-quoc-hoi-khoa-xvi-va-dai-bieu-hoi-dong-nhan-dan-cac-cap-nhiem-ky-2026-2031/danh-sach-chinh-thuc-nhung-nguoi-ung-cu-dai-bieu-hdnd-phuong-o-cho-dua-khoa-ii-nhiem-ky-2026-2031-2832260226075535494.htm |url-status=dead |archive-url=https://web.archive.org/web/20260818201510/https://ochodua.hanoi.gov.vn/bau-cu-dai-bieu-quoc-hoi-khoa-xvi-va-dai-bieu-hoi-dong-nhan-dan-cac-cap-nhiem-ky-2026-2031/danh-sach-chinh-thuc-nhung-nguoi-ung-cu-dai-bieu-hdnd-phuong-o-cho-dua-khoa-ii-nhiem-ky-2026-2031-2832260226075535494.htm |archive-date=2026-08-18 |access-date=2026-08-18 |website=Trang Thông tin điện tử phường Ngọc Hà – thành phố Hà Nội}}</ref>
+
+Ngày 24 tháng 12 năm 2025, xác định phường Ngọc Hà là [[Đô thị Việt Nam|đô thị loại II]].<ref>Chuyển tiếp từ 7 phường: Cống Vị, Đội Cấn, Kim Mã, Liễu Giai, Ngọc Hà, Ngọc Khánh và Vĩnh Phúc thuộc quận Ba Đình và phường Nghĩa Đô thuộc quận Cầu Giấy).</ref><ref>{{Chú thích web |title=Nghị quyết số 111/2025/UBTVQH15 ngày 24 tháng 12 năm 2025 của Ủy ban Thường vụ Quốc hội về phân loại đô thị |url=https://cdn.nhandan.vn/files/f4a4abf7f9a0ba4a91744616546d850872b76917f90d5a74cc9eebef1369fb6f/111.pdf |url-status=dead |archive-url=https://web.archive.org/web/20260430074852/https://cdn.nhandan.vn/files/f4a4abf7f9a0ba4a91744616546d850872b76917f90d5a74cc9eebef1369fb6f/111.pdf |archive-date=2026-04-30 |access-date=2026-07-12 |website=Báo Nhân dân}}</ref>
+
+Ngày 24 tháng 6 năm 2026, thành lập 29 tổ dân phố mới, đánh số từ 1 đến 14 và từ 16 đến 30; đổi tên tổ dân phố 17 thành tổ dân phố 15.<ref>1. Tổ dân phố số 1 Gồm: 1 phần Tổ dân phố số 2 (không bao gồm các hộ dân thuộc ngách 158/168 đến mương Cổ Ngựa) và 1 phần Tổ dân phố 3A (không bao gồm các hộ dân từ số nhà 16-24 ngõ 97 Hoàng Hoa Thám và toàn bộ khu nhà tình nghĩa); 2. Tổ dân phố số 2 Gồm Tổ dân phố số 1A, 1 phần Tổ dân phố 1B (không bao gồm 40 hộ dân bên số chẵn của ngách 158/177 Ngọc Hà) và 1 phần Tổ dân phố 9 (gồm 221 hộ dân từ 135 Đội Cấn đến 167 Đội Cấn); 3. Tổ dân phố số 3 Gồm toàn bộ Tổ dân phố 10A và 1 phần Tổ dân phố 9 (không bao gồm 221 hộ dân từ số 135 Đội Cấn đến 167 Đội Cấn), 1 phần Tổ dân phố 10B (không bao gồm các hộ bên lẻ của ngõ 194 Đội Cấn phía giáp ranh với Tổ dân phố 11A); 4. Tổ dân phố số 4 Gồm toàn bộ Tổ dân phố 15B và Tổ dân phố 16; 5. Tổ dân phố số 5 Gồm toàn bộ các Tổ dân phố 13, Tổ dân phố 14, Tổ dân phố 15A; 6. Tổ dân phố số 6 Gồm toàn bộ Tổ dân phố 11A, Tổ dân phố 11B, 1 phần Tổ dân phố 10B (bao gồm 120 hộ bên lẻ của ngõ 194 Đội Cấn) và phần lớn Tổ dân phố 12 (không bao gồm 37 hộ khu vực chùa Bát Tháp từ ngõ 209 đến 227 Đội Cấn); 7. Tổ dân phố số 7 Gồm toàn bộ Tổ dân phố 6A, Tổ dân phố 6B, 1 phần Tổ dân phố 7 (bao gồm các hộ dân từ số 95 đến 131 ngõ 173 Hoàng Hoa Thám và các hộ dân từ số 8 đến 32 ngõ 209 Đội Cấn), 1 phần Tổ dân phố 1B (bao gồm các hộ dân bên số chẫn của ngách 158/177 Ngọc Hà); 8. Tổ dân phố số 8 Gồm toàn bộ các Tổ dân phố 5A, Tổ dân phố 5B và 1 phần của Tổ dân phố 2 và Tổ dân phố 3A (bao gồm các hộ khu nhà tình nghĩa và các hộ dân thuộc ngách 158/168 đến mương Cổ Ngựa của tổ 2); 9. Tổ dân phố số 9 Gồm toàn bộ Tổ dân phố 3B và Tổ dân phố 4A, 1 phần Tổ dân phố 4B (không bao gồm 40 hộ dân cư giáp với Nhà máy bia Hà Nội thuộc ngách 1/189 Hoàng Hoa Thám, ngách 31 và 61 ngõ Hoàng Hoa Thám), 1 phần Tổ dân phố 3A (bao gồm các hộ dân từ số nhà 16-24 ngõ 97 Hoàng Hoa Thám); 10. Tổ dân phố số 10 Gồm toàn bộ Tổ dân phố 21A, Tổ dân phố 21B và phần lớn tổ dân phổ 23B (không bao gồm 150 hộ từ ngách 189/155 Hoàng Hoa Thám đến phố Đội Cấn), 1 phần Tổ dân phố 8B (bao gồm 50 hộ của tổ 8B từ ngõ 279 Đội Cấn đến điểm đất số 2 (đối diện Đình Đại Yên) và 1 phần Tổ dân phố 4B (bao gồm 40 hộ ngách 1/189, ngách 31/189 và 61/189 Hoàng Hoa Thám); 11. Tổ dân phố số 11 Gồm toàn bộ các Tổ dân phố 20A, Tổ dân phố 20B và Tổ dân phố 20C; 12. Tổ dân phố số 12 Gồm toàn bộ Tổ dân phố 22, Tổ dân phố 23A và 1 phần Tổ dân phố 23B (bao gồm 150 hộ từ ngách 189/155 Hoàng Hoa Thám đến phố Đội Cấn); 13. Tổ dân phố số 13 Gồm 1 phần Tổ dân phố số 7 (không bao gồm các hộ dân từ số 95 đến 131 ngõ 173 Hoàng Hoa Thám và các hộ dân từ số 8 đến 32 ngõ 209 Đội Cấn) và 1 phần Tổ dân phố 8A (bao gồm các hộ dân từ số 18 ngách 173/68 Hoàng Hoa Thám đến 158 ngách 173/68 Hoàng Hoa Thám và số lẻ hém 173/68/39 Hoàng Hoa Thám, từ 17-55A ngõ 209 Đội Cấn, 28 đến 96 ngõ 173 Hoàng Hoa Thám); 14. Tổ dân phố số 14 Gồm 1 phần Tổ dân phố 8A (không bao gồm các hộ dân từ số 18 ngách 173/68 Hoàng Hoa Thám đến 158 ngách 173/68 Hoàng Hoa Thám, số lẻ hẻm 173/68/39 Hoàng Hoa Thám) và 1 phần Tổ dân phố 8B (không bao gồm các hộ dân từ đầu ngõ 279 Đội Cấn đến điểm đất số 2 (đối diện Đình Đại Yên), 1 phần Tổ dân phố 12 (bao gồm các hộ dân từ 209 Đội Cấn đến 227 Đội Cấn); 15. Tổ dân phố số 15: Giữ nguyên và đổi tên Tổ dân phố 17; 16. Tổ dân phố số 16 Gồm toàn bộ các Tổ dân phố 26, Tổ dân phố 27, Tổ dân phố 28; 17. Tổ dân phố số 17 Gồm toàn bộ các Tổ dân phố 24 và Tổ dân phố 25; 18. Tổ dân phố số 18 Gồm toàn bộ các Tổ dân phố 30, Tổ dân phố 31; 19. Tổ dân phố số 19 Gồm toàn bộ các Tổ dân phố 29, Tổ dân phố 36A, Tổ dân phố 36B; 20. Tổ dân phố số 20 Gồm toàn bộ các Tổ dân phố 18, Tổ dân phố 19A, Tổ dân phố 19B; 21. Tổ dân phố số 21 Gồm toàn bộ các Tổ dân phố 32, Tổ dân phố 34 và Tồ dân phố 35; 22. Tồ dân phố số 22 Gồm toàn bộ các Tổ dân phố Tổ dân phố 33A, Tổ dân phố 33B, Tổ dân phố 33C; 23. Tổ dân phố số 23 Gồm toàn bộ các Tổ dân phố 45, Tổ dân phố 46A, Tổ dân phố 46B; 24. Tổ dân phố số 24 Gồm toàn bộ các Tổ dân phố 38, Tổ dân phố 52, Tổ dân phố 53, 1 phần Tổ dân phố 51 (bao gồm 84 hộ thuộc toà nhà N1 và N2), 1 phần Tổ dân phố 54 (bao gồm 171 hộ thuộc khu Tập thể Quân khu Thủ đô); 25. Tổ dân phố số 25 Gồm toàn bộ các Tổ dân phố 37A, Tổ dân phố 37B, Tổ dân phố 37C; 26. Tổ dân phố số 26 Gồm toàn bộ các Tổ dân phố 42, Tổ dân phố 43, Tổ dân phố 44, 1 phần Tổ dân phố 54 (bao gồm 180 hộ thuộc khu Tập thể Pháo Binh); 27. Tổ dân phố số 27 Gồm toàn bộ các Tổ dân phố 50, phần lớn Tổ dân phố 51 (không bao gồm 84 hộ thuộc toà nhà N1 và N2), 1 phần Tổ dân phố 48 (bao gồm 180 hộ toà thuộc toà nhà H1, chung cư Newtaco và khu 45 căn hộ), 1 phần Tổ dân phố 49A (bao gồm 125 hộ dân thuộc các toà nhà K1, K2, K3); 28. Tổ dân phố số 28 Gồm toàn bộ các Tổ dân phố 47, 49B, 1 phần Tổ dân phố 48 (không bao gồm 180 hộ toà H1, chung cu Newtaco, khu 45 căn hộ) và 1 phần Tổ dân phố 49A (không bao gồm 125 hộ dân thuộc các toà nhà K1, K2, K3); 29. Tổ dân phố số 29 Gồm toàn bộ các Tổ dân phố 39A, Tổ dân phố 39B và 1 phần Tổ dân phố 40 (bao gồm 158 hộ thuộc tổ 40 phía giáp với Tổ dân phố 39A); 30. Tổ dân phố số 30 Gồm toàn bộ các Tổ dân phố 41A, Tổ dân phố 41B và 1 phần Tổ dân phố 40 (bao gồm 272 hộ thuộc Tổ dân phố 40 phía tiếp giáp Đền Cống Yên).</ref><ref name=":0">{{Chú thích web |last= |date= |title=Đề án số 1336/ĐA-UBND ngày 23 tháng 6 năm 2026 của Ủy ban nhân dân phường Ngọc Hà về việc sắp xếp tổ dân phố trên địa bàn phường Ngọc Hà |url=https://sqhx-hanoi.mediacdn.vn/91579363132710912/2026/7/30/1782442794145-17853845977681500504991.pdf |url-status=dead |archive-url=https://web.archive.org/web/20260818201510/https://sqhx-hanoi.mediacdn.vn/91579363132710912/2026/7/30/1782442794145-17853845977681500504991.pdf |archive-date=2026-08-18 |access-date=2026-08-18 |website=Trang Thông tin điện tử phường Ngọc Hà – thành phố Hà Nội}}</ref><ref name=":1">{{Chú thích web |last= |date= |title=Thông báo số 178/TB-UBND ngày 31 tháng 7 năm 2026 của Ủy ban nhân dân phường Ngọc Hà về việc công khai Nghị quyết sắp xếp tổ dân phố trên địa bàn phường Ngọc Hà |url=https://datafiles.hanoi.gov.vn/gov-hni/6930/VanBan/2026/8/6/1785839945519.pdf |url-status=dead |archive-url=https://web.archive.org/web/20260818400809/https://datafiles.hanoi.gov.vn/gov-hni/6930/VanBan/2026/8/6/1785839945519.pdf |archive-date=2026-08-18 |access-date=2026-08-18 |website=Trang Thông tin điện tử phường Ngọc Hà – thành phố Hà Nội}}</ref>
+
+== Hành chính ==
+Phường Ngọc Hà được chia thành 30 tổ dân phố, đánh số từ 1 đến 30.<ref name=":0" /><ref name=":1" />
+{| class="wikitable sortable" align="center" width="100%" cellspacing="6" cellpadding="0" style="background: #f9f9f9; border: 1px #aaa solid; margin-top: 16px"
+! colspan="4" style="background: #E6E6FA; font-size: 95%;" |Danh sách các tổ dân phố thuộc phường Ngọc Hà<ref name=":0" /><ref name=":1" />
+|-
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Tổ dân phố 1
+|980
+|-
+| align="left" |Tổ dân phố 2
+|1.040
+|-
+| align="left" |Tổ dân phố 3
+|903
+|-
+| align="left" |Tổ dân phố 4
+|1.021
+|-
+| align="left" |Tổ dân phố 5
+|1.380
+|-
+| align="left" |Tổ dân phố 6
+|919
+|-
+| align="left" |Tổ dân phố 7
+|1.060
+|-
+| align="left" |Tổ dân phố 8
+|805
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Tổ dân phố 9
+|1.031
+|-
+| align="left" |Tổ dân phố 10
+|867
+|-
+| align="left" |Tổ dân phố 11
+|1.022
+|-
+| align="left" |Tổ dân phố 12
+|1.060
+|-
+| align="left" |Tổ dân phố 13
+|852
+|-
+| align="left" |Tổ dân phố 14
+|817
+|-
+| align="left" |Tổ dân phố 15
+|754
+|-
+| align="left" |Tổ dân phố 16
+|1.272
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Tổ dân phố 17
+|904
+|-
+| align="left" |Tổ dân phố 18
+|1.029
+|-
+| align="left" |Tổ dân phố 19
+|803
+|-
+| align="left" |Tổ dân phố 20
+|1.038
+|-
+| align="left" |Tổ dân phố 21
+|846
+|-
+| align="left" |Tổ dân phố 22
+|766
+|-
+| align="left" |Tổ dân phố 23
+|807
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Tổ dân phố 24
+|1.121
+|-
+| align="left" |Tổ dân phố 25
+|970
+|-
+| align="left" |Tổ dân phố 26
+|1.102
+|-
+| align="left" |Tổ dân phố 27
+|898
+|-
+| align="left" |Tổ dân phố 28
+|927
+|-
+| align="left" |Tổ dân phố 29
+|982
+|-
+| align="left" |Tổ dân phố 30
+|913
+|}
+|}<!-- 
+==Lịch sử==
+Trước đây, phường có tên là phường '''Cầu Giấy'''. Ngày [[22 tháng 11]] năm [[1996]], phường Cầu Giấy được đổi tên thành phường Ngọc Khánh<ref name=74-CP>{{Chú thích web|url=https://thuvienphapluat.vn/van-ban/bat-dong-san/Nghi-dinh-74-CP-thanh-lap-quan-Thanh-Xuan-quan-Cau-Giay-thanh-lap-va-doi-ten-mot-so-phuong-thuoc-thanh-pho-Ha-Noi-40215.aspx|title=Nghị định 74-CP năm 1996 về việc thành lập quận Thanh Xuân, quận Cầu Giấy, thành lập và đổi tên một số phường thuộc thành phố Hà Nội|last=|first=|date=|website=|archive-url=|archive-date=|url-status=|access-date =}}</ref>.
+
+==Lịch sử==
+Cống Vị được hình thành cách đây gần một nghìn năm ở phía Tây kinh thành Thăng Long. Đó là một vùng đất cổ đã được phù sa sông Hồng bồi đắp.
+
+Hà Nội xưa có nhiều sông ngòi nằm trong vùng. Để để phòng lũ lụt, người ta cho đắp một đường thành bao bọc gọi là La Thành. Đến năm 864, Cao Biền đời nhà Đường sang thay thế đã mở rộng là Đại La thành, đến nay vẫn còn vết tích.
+
+Trong suốt ba thế kỷ thống trị của nhà Đường, trong một thời gian, các vùng như Quần Ngựa, Ngọc Hà, gò Long Thủ,...hầu như không có dân sinh sống, ruộng bỏ hoang, cây cối rậm rạp, cỏ mọc um tùm: <blockquote>''" Mênh mang hồ nước sình lầy''<br>''Nhấp nhô đồi núi, rừng cây bạt ngàn"''</blockquote>Từ năm 1010, khi Lý Công Uẩn rời đô ra Thăng Long, thành Đại La được tu sửa, bồi đắp và mở cửa ô Bảo Khánh (phía Tây Cống Vị).
+
+Vào thế kỷ XI, người dân nghèo ven sông Đuống đã xin nhà vua sang Thăng long khai hoang. Họ cùng nhau khai phá miền rừng cây rậm rạp, đồng lầy, cỏ mọc hoang vu dọc bờ sông Tô Lịch lập nên mười ba trại. Đó là các trại: Vạn Phúc, Vĩnh Phúc, Đại Yên, Thủ Lệ, Ngọc Khánh, Ngọc Hà, Liễu Giai, Kim Mã, Hữu Tiệp, Giảng Võ, Cống Vị, Cống Yên, Xuân Biểu.
+
+Phường Cống Vị hiện nay do sáu trại hình thành. Đó là các trại: Cống Yên, Vĩnh Phúc, Cống Vị, Vạn Phúc Thượng, Liễu Giai và Kim Mã Thượng.
+
+Sáu trại trên thuộc phủ ứng Thiên, kinh thành Thăng Long.
+
+Thời vua Lê, phủ ứng Thiên đổi là phủ Phụng Thiên gồm 2 huyện Vĩnh Xương và Quảng Đức. Các trại thuốc Tổng nội huyện Quảng Đức.
+
+Thời Nguyễn, năm Gia Long thứ 4 (1805) huyện Quảng Đức đổi thành huyện Vĩnh Thuận.
+
+năm Minh Mạng thứ 12 (1831), thành Thăng Long bị xóa tên, thành lập tỉnh Hà Nội. Phủ Hoài Đức thuộc tỉnh Hà Nội gồm 3 huyện: Vĩnh Xương, Vĩnh Thuận, Từ Liêm. Các trại trên đổi thành xã thuộc Tổng Nội, huyện Vĩnh Thuận.
+
+Năm 1899, thực dân Pháp đổi các xã thành "Thôn" thuộc Tổng Nội, [[Hoàn Long (huyện)|huyện Hoàn Long]].
+
+Sau Cách Mạng tháng 8/1945, chỉnh phủ nước Việt Nam dân chủ cộng hòa bỏ cấp tổng nhưng vẫn duy trì đơn vị hành chính ngoại thành. Sáu thôn trên thuộc khu Đại La ngoại thành Hà Nội.
+
+Tháng 10/1954, giải phóng Thủ đo, chính quyền cách mạng vẫn để cấp "thôn" thuộc Quận.
+
+Ngày 24/11/1975, tổ chức bầu cử Hội đồng nhân dân thành phố khóa I, các đơn vị hành chính được chia thành 4 quận nội thành và 4 quận ngoại thành. Sau cải cách ruộng đất và sửa sai, các thôn ở ngoại thành sáp nhập thành xã.
+
+Các thôn Vạn Phúc Thượng, Cống Vị, Vĩnh Phúc, Liễu Giai, Kim Mã Thượng...thuộc xã Phúc Lệ.
+
+3/1958 có quyết định bỏ cấp quận, 36 khu phố được sắp xếp lại thành 12 khu phố trực thuộc, dưới có 242 khối phố. Các thôn Cống Vị, Liễu Giai đổi thành,... khối phố.
+
+31/5/1968, thành lập các tiểu khu Ba Đình có 35 tiểu khu và các khối phố Vĩnh Phúc, Liễu Giai, Cống Vị trở thành các Tiểu khu có Ban đại diện hành chính.
+
+Ngày 16/1/1979, khu phố Ba Đình được sắp xếp lại còn 15 tiểu khu. Trong đó, tiểu khu lớn Cống Vị được thành lập trên cơ sở thống nhất ba tiểu khu nhỏ: Vĩnh Phúc, Liễu Giai, Cống Vị.
+
+1/1981, Hội đồng Bộ trưởng quy định thống nhất gọi khu phố là Quận và Tiểu khu là Phường. Sáu làng cổ là Vĩnh Phúc, Liễu Giai, Cống Yến, Cống Vị, Vạn Phúc Thượng và Kim Mã thượng chính thức nằm trong địa giới phường Cống Vị từ đó.
+
+Năm 2005, theo Nghị định của Chính phủ ban hành ngày ngày 5 tháng 1 năm 2005, phường Cống Vị sẽ phân tách làm 3 phường: Cống Vị, Vĩnh Phúc và Liễu Giai...
+
+==Lịch sử==
+Phường Liễu Giai được thành lập vào ngày [[5 tháng 1]] năm [[2005]] trên cơ sở điều chỉnh 52,88 ha diện tích tự nhiên và 13.415 nhân khẩu của phường Cống Vị, 19,90 ha diện tích tự nhiên và 5.226 nhân khẩu của phường Ngọc Hà<ref name="02/2005/NĐ-CP">{{Chú thích web|url=https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Nghi-dinh-02-2005-ND-CP-dieu-chinh-dia-gioi-hanh-chinh-thanh-lap-phuong-thuoc-quan-Ba-Dinh-Cau-Giay-thanh-lap-thi-tran-Trau-Quy-Gia-Lam-Ha-Noi-52953.aspx|title=Nghị định 02/2005/NĐ-CP về việc điều chỉnh địa giới hành chính, thành lập phường thuộc các quận Ba Đình, Cầu Giấy và thành lập thị trấn Trâu Quỳ, huyện Gia Lâm, thành phố Hà Nội|last=|first=|date=|website=|archive-url=|archive-date=|url-status=|accessdate =}}</ref>. Sau khi thành lập, phường có 72,78 ha diện tích tự nhiên và 18.641 nhân khẩu.
+
+==Lịch sử==
+Phường Vĩnh Phúc được thành lập vào ngày [[5 tháng 1]] năm [[2005]] trên cơ sở điều chỉnh một phần diện tích tự nhiên và dân số của phường Cống Vị<ref name="02/2005/NĐ-CP">{{Chú thích web|url=https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Nghi-dinh-02-2005-ND-CP-dieu-chinh-dia-gioi-hanh-chinh-thanh-lap-phuong-thuoc-quan-Ba-Dinh-Cau-Giay-thanh-lap-thi-tran-Trau-Quy-Gia-Lam-Ha-Noi-52953.aspx|title=Nghị định 02/2005/NĐ-CP về việc điều chỉnh địa giới hành chính, thành lập phường thuộc các quận Ba Đình, Cầu Giấy và thành lập thị trấn Trâu Quỳ, huyện Gia Lâm, thành phố Hà Nội|last=|first=|date=|website=|archive-url=|archive-date=|url-status=|access-date =}}</ref> (ranh giới là phố Đội Cấn).
+
+==Lịch sử==
+Trước đây, xã Nghĩa Đô thuộc huyện Từ Liêm.
+
+Ngày [[13 tháng 10]] năm [[1982]], thành lập thị trấn Nghĩa Đô trên cơ sở xã Nghĩa Đô.<ref name="173-HĐBT">{{Chú thích web|url=https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-173-HDBT-phan-vach-dia-gioi-phuong-va-thi-tran-thanh-pho-Ha-Noi-43981.aspx|title= Quyết định số 173-HĐBT năm 1982 về việc phân vạch địa giới một số phường và thị trấn thuộc thành phố Hà Nội |date= 1982-10-14 |website= Thư viện pháp luật |archive-url=|archive-date=|access-date=|url-status=live}}</ref>
+
+Ngày [[12 tháng 8]] năm [[1991]], thành lập thị trấn Nghĩa Tân trên cơ sở tách một phần của thị trấn Nghĩa Đô.
+
+Ngày [[1 tháng 12]] năm [[1996]], thành lập phường Nghĩa Đô thuộc quận [[Cầu Giấy (quận)|Cầu Giấy]] mới thành lập trên cơ sở thị trấn Nghĩa Đô của huyện [[Từ Liêm (huyện)|Từ Liêm]].<ref name="74-CP">{{Chú thích web|url=https://thuvienphapluat.vn/van-ban/Bat-dong-san/Nghi-dinh-74-CP-thanh-lap-quan-Thanh-Xuan-quan-Cau-Giay-thanh-lap-va-doi-ten-mot-so-phuong-thuoc-thanh-pho-Ha-Noi-40215.aspx|title= Nghị định số 74-CP năm 1996 về việc thành lập quận Thanh Xuân, quận Cầu Giấy, thành lập và đổi tên một số phường thuộc thành phố Hà Nội |date= 1996-11-22 |website= Thư viện pháp luật |archive-url=|archive-date=|access-date=|url-status=live}}</ref>
+
+Ngày [[16 tháng 6]] năm [[2025]], [[Ủy ban Thường vụ Quốc hội]] ban hành Nghị quyết số 1656/NQ-UBTVQH15 trong đó về việc sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của các phường Nghĩa Đô, Nghĩa Tân, Quan Hoa (quận [[Cầu Giấy (quận)|Cầu Giấy]] cũ), Cổ Nhuế 1 (quận [[Bắc Từ Liêm]] cũ), một phần của các phường Dịch Vọng, Dịch Vọng Hậu, Mai Dịch (quận [[Cầu Giấy (quận)|Cầu Giấy]] cũ), một phần của phường Xuân Tảo (quận [[Bắc Từ Liêm]] cũ), một phần của phường Xuân La (quận [[Tây Hồ (quận)|Tây Hồ]] cũ) thành phường mới có tên gọi là phường Nghĩa Đô.<ref>{{Cite web |date=20 tháng 6 năm 2025 |title=Nghị quyết số 1656/NQ-UBTVQH15 sắp xếp các ĐVHC cấp xã của thành phố Hà Nội năm 2025 |url=https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-1656-nq-ubtvqh15-sap-xep-cac-dvhc-cap-xa-cua-thanh-pho-ha-noi-nam-2025-119250616192433872.htm |website=xaydungchinhsach.chinhphu.vn}}</ref>
+
+-->
+
+==Văn hóa==
+===[[Ngọc Hà (làng cổ)|Làng Ngọc Hà]]===
+Ngọc Hà có ngôi đình ở phía Đông Bắc làng, chính giữa một hồ nước, rộng trên một bán đảo, cách Vườn Bách Thảo một con đường cái.<ref name=NH1/>
+
+===Làng Hữu Tiệp===
+Làng Hữu Tiệp nằm sát đường Hoàng Hoa Thám, ở phía Bắc làng Ngọc Hà. Làng nghề chính của làng Hữu Tiệp là trồng hoa. Hai làng Hữu Tiệp – Ngọc Hà bằng một tên chung: Trại Hàng Hoa.<ref>{{Chú thích web|url=http://hanoimoi.com.vn/Ban-in/1000_nam_thang_long/54298/lang-h7919%3Bu-ti7879%3Bp|tựa đề= Làng Hữu Tiệp |tác giả= Bùi Xuân Đính |ngày= 2005-07-26 |website= Cơ quan Báo và Phát thanh, truyền hình Hà Nội |url lưu trữ=https://web.archive.org/web/20250530072615/http://hanoimoi.com.vn/Ban-in/1000_nam_thang_long/54298/lang-h7919%3Bu-ti7879%3Bp|ngày lưu trữ= 2025-05-30 |ngày truy cập= 2025-05-30 |url-status=dead}}</ref>
+
+===Làng Đại Yên===
+Đại Yên cũng là một làng nằm trong khu vực [[Thập tam trại]]. Làng tiếp giáp [[đường Hoàng Hoa Thám]] (Đường Thành cũ) về phía Bắc, làng Ngọc Hà, Hữu Tiệp về phía Đông, làng Vĩnh Phúc về phía Tây và đường Quần Ngựa (hay Đường Mới, tức phố Đội Cấn) về phía Nam.<ref>{{Chú thích web|url=https://hanoimoi.vn/lang-dai-yen-88565.html|tựa đề= Làng Đại Yên |tác giả= Bùi Xuân Đính |ngày= 2006-03-14 |website= Cơ quan Báo và Phát thanh, truyền hình Hà Nội |url lưu trữ=https://web.archive.org/web/20250530072615/https://hanoimoi.vn/lang-dai-yen-88565.html|ngày lưu trữ= 2025-05-30 |ngày truy cập= 2025-05-30 |url-status=dead}}</ref>
+
+==Giao thông==
+{{Columns| col1 = * Bưởi
+* Đốc Ngữ
+* Đội Cấn
+* Đội Nhân
+* Giang Văn Minh
+* Hoàng Hoa Thám| col2 = * Hùng Vương
+* Kim Mã Thượng
+* Liễu Giai
+* Linh Lang
+* Ngọc Hà| col3 = 
+* Phan Kế Bính
+* Quần Ngựa
+* Vạn Bảo
+* Vạn Phúc
+* Vĩnh Phúc
+}}
+
+==Hình ảnh==
+[[File:Hồ Hữu Tiệp.jpg|thumb|[[Hồ Hữu Tiệp]]]]
+
+==Chú thích==
+{{tham khảo|30em}}
+
+== Tham khảo ==
+{{Sơ khai Hà Nội}}{{Đơn vị hành chính thuộc thành phố Hà Nội}}

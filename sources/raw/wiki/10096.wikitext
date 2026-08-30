@@ -1,0 +1,162 @@
+{{Thông tin đơn vị hành chính Việt Nam |Xã
+| tên = Hòa Phú 
+| hình = Cầu hạ dục.jpg
+| ghi chú hình = Cầu Hạ Dục
+| vùng = [[Đồng bằng sông Hồng]] 
+| thành phố = [[Hà Nội]]
+| trụ sở UBND = Thôn Hòa Phúc<ref>{{Chú thích web |url=https://storage-vnportal.vnpt.vn/gov-hni/6244/VanBan/2025/6/25/TB-729-2025.pdf |title=Thông báo số 729/TB-UBND ngày 25 tháng 6 năm 2025 của Ủy ban nhân dân thành phố Hà Nội về địa điểm trụ sở làm việc của 126 phường, xã sau sắp xếp thuộc phạm vi quản lý của thành phố Hà Nội|access-date=2026-06-15 |archive-date=2026-06-15 |archive-url=https://web.archive.org/web/20260615034519/https://storage-vnportal.vnpt.vn/gov-hni/6244/VanBan/2025/6/25/TB-729-2025.pdf |url-status=dead | website = Cổng Thông tin điện tử Ủy ban nhân dân thành phố Hà Nội}}</ref> 
+| thành lập = 
+| vĩ độ = 20.832890511113007
+| kinh độ = 105.70985884226786
+| diện tích = 29,88 km²
+| dân số = 49.948 người
+| thời điểm dân số = 2025
+| mật độ dân số = {{formatnum:{{#expr:floor({{formatnum:49.948| R}}/{{formatnum:29,88| R}})}} }} người/km²
+| mã hành chính =10096<ref>{{Chú thích web |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/19ttg.signed.pdf |title=Quyết định số 19/2025/QĐ-TTg ngày 30 tháng 6 năm 2025 của Thủ tướng Chính phủ về việc Ban hành Bảng danh mục và mã số các đơn vị hành chính Việt Nam |access-date=2026-06-15 |archive-date=2026-06-15 |archive-url=https://web.archive.org/web/20260615034519/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/19ttg.signed.pdf |url-status=dead | website = Cổng Thông tin điện tử Chính phủ}}</ref> 
+| web = {{url|hoaphu.hanoi.gov.vn}}
+|trụ sở Đảng ủy=Thôn Đại Đồng|bản đồ 1={{maplink|frame=yes|plain=yes|type=shape|frame-width=280|frame-align=center|stroke-width=3}}}}
+{{other|Hòa Phú (định hướng)}}
+'''Hòa Phú''' là một [[Xã (Việt Nam)|xã]] thuộc thành phố [[Hà Nội]], [[Việt Nam]].
+
+== Địa lý== 
+Xã Hòa Phú có vị trí địa lý:
+
+* Phía đông giáp xã [[Thanh Oai (xã)|Thanh Oai]] với ranh giới tự nhiên là [[sông Đáy]]
+* Phía tây giáp xã [[Trần Phú, Hà Nội|Trần Phú]]
+* Phía nam giáp xã [[Phúc Sơn, Hà Nội|Phúc Sơn]], xã [[Ứng Thiên]] và xã [[Dân Hòa]]
+* Phía bắc giáp xã [[Quảng Bị]].<ref>{{Chú thích web |last=Viện nghiên cứu Phát triển kinh tế – xã hội Hà Nội|date=2025-07-02|title=Xã Hòa Phú: Những thông tin chi tiết sau sắp xếp|url=https://hanoionline.vn/xa-hoa-phu-nhung-thong-tin-chi-tiet-sau-sap-xep-344194.htm|url-status=dead|archive-url=https://web.archive.org/web/20260804400809/https://hanoionline.vn/xa-hoa-phu-nhung-thong-tin-chi-tiet-sau-sap-xep-344194.htm|archive-date=2026-08-04|access-date=2026-08-04|website=Cơ quan Báo và Phát thanh Truyền hình Hà Nội}}</ref><ref>{{Chú thích web |last=Cơ quan Báo và Phát thanh Truyền hình Hà Nội|date=2025-07-07|title=Xã Hòa Phú: Tất cả thông tin chỉ dẫn bạn cần biết|url=https://hanoionline.vn/xa-hoa-phu-tat-ca-thong-tin-chi-dan-ban-can-biet-345285.htm|url-status=dead|archive-url=https://web.archive.org/web/20260804401509/https://hanoionline.vn/xa-hoa-phu-tat-ca-thong-tin-chi-dan-ban-can-biet-345285.htm|archive-date=2026-08-04|access-date=2026-08-04}}</ref>
+Xã Hòa Phú có diện tích tự nhiên là 29,88 km<sup>2</sup>, quy mô dân số năm 2025 là 49.948 người và mật độ dân số đạt 1.695 người/km<sup>2</sup>.<ref>{{Chú thích web |last=Mai Hữu|date=2026-04-05|title=Hà Nội: Chi tiết phương án tổng thể sắp xếp đơn vị hành chính cấp xã|url=https://hanoimoi.vn/ha-noi-chi-tiet-phuong-an-tong-the-sap-xep-don-vi-hanh-chinh-cap-xa-700278.html|url-status=live|archive-url=https://web.archive.org/web/20260711401509/https://hanoimoi.vn/ha-noi-chi-tiet-phuong-an-tong-the-sap-xep-don-vi-hanh-chinh-cap-xa-700278.html|archive-date=2026-07-11|access-date=2026-07-11|website=Cơ quan Báo và Phát thanh, truyền hình Hà Nội}}</ref><ref>Công văn số 2896/BNV-CQĐP ngày 27 tháng 5 năm 2025 của Bộ Nội vụ về việc cung cấp thông tin danh mục dự kiến đơn vị hành chính cấp xã mới.</ref>
+
+== Lịch sử==
+
+=== Trước năm 1976 ===
+
+=== Giai đoạn 1976 – nay ===
+Sau ngày 2 tháng 7 năm 1976, 7 xã: Đồng Lạc, Đồng Phú, Hòa Chính, Hồng Phong, Phú Nam An, Thượng Vực và Văn Võ thuộc huyện [[Chương Mỹ (huyện)|Chương Mỹ]]; xã Kim Thư thuộc huyện [[Thanh Oai (huyện)|Thanh Oai]] của tỉnh [[Hà Sơn Bình]].
+
+Ngày 12 tháng 8 năm 1991, chia tỉnh [[Hà Sơn Bình]] thành 2 tỉnh, lấy tên là tỉnh [[Hòa Bình (tỉnh)|Hòa Bình]] và tỉnh [[Hà Tây (tỉnh)|Hà Tây]]. Khi đó, 7 xã: Đồng Lạc, Đồng Phú, Hòa Chính, Hồng Phong, Phú Nam An, Thượng Vực và Văn Võ thuộc huyện [[Chương Mỹ (huyện)|Chương Mỹ]]; xã Kim Thư thuộc huyện [[Thanh Oai (huyện)|Thanh Oai]] của tỉnh [[Hà Tây (tỉnh)|Hà Tây]].<ref>Nghị quyết ngày 12 tháng 8 năm 1991 của Quốc hội khóa VIII, Kỳ họp thứ 9 về việc điều chỉnh địa giới hành chính một số tỉnh, thành phố trực thuộc Trung ương.</ref>
+
+Ngày 29 tháng 5 năm 2008, hợp nhất tỉnh [[Hà Tây (tỉnh)|Hà Tây]] vào thành phố [[Hà Nội]]. Khi đó, 7 xã: Đồng Lạc, Đồng Phú, Hòa Chính, Hồng Phong, Phú Nam An, Thượng Vực và Văn Võ thuộc huyện [[Chương Mỹ (huyện)|Chương Mỹ]]; xã Kim Thư thuộc huyện [[Thanh Oai (huyện)|Thanh Oai]] của thành phố [[Hà Nội]].<ref>Nghị quyết số 15/2008/QH12 ngày 29 tháng 5 năm 2008 của Quốc hội khóa XII, Kỳ họp thứ 3 về việc điều chỉnh địa giới hành chính thành phố Hà Nội và một số tỉnh có liên quan.</ref>
+
+Ngày 14 tháng 11 năm 2024:
+
+* Thành lập xã Hồng Phú trên cơ sở nhập xã Đồng Phú và xã Hồng Phong.
+* Thành lập xã Hòa Phú trên cơ sở nhập xã Phú Nam An và xã Hòa Chính.<ref>{{Chú thích web |tiêu đề=Nghị quyết số 1286/NQ-UBTVQH15 ngày 14 tháng 11 năm 2024 của Ủy ban Thường vụ Quốc hội về việc sắp xếp đơn vị hành chính cấp xã của thành phố Hà Nội giai đoạn 2023 – 2025 |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/11/1286-qh.signed.pdf |url-status=dead |archive-url=https://web.archive.org/web/20260725401509/https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/11/1286-qh.signed.pdf |ngày lưu trữ=2026-07-25 |ngày truy cập=2026-07-25 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+
+Ngày 16 tháng 6 năm 2025:
+
+* Kết thúc hoạt động của đơn vị hành chính cấp huyện trong cả nước.<ref>{{Chú thích web |last= |date= |title=Nghị quyết số 203/2025/QH15 ngày 16 tháng 6 năm 2025 của Quốc hội khóa XV, Kỳ họp thứ 9 về việc sửa đổi, bổ sung một số điều của Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/nq-sua-doi-hien-phap.pdf |url-status=live |archive-url=https://web.archive.org/web/20260613090807/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/nq-sua-doi-hien-phap.pdf |archive-date=2026-06-13 |access-date=2026-06-13 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+* Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của các xã Hòa Phú, Đồng Lạc, Hồng Phú, Thượng Vực, Văn Võ (huyện [[Chương Mỹ (huyện)|Chương Mỹ]]) và phần còn lại của xã Kim Thư (huyện [[Thanh Oai (huyện)|Thanh Oai]]) thành xã mới có tên gọi là xã Hòa Phú.<ref>{{Chú thích web |title=Nghị quyết số 1656/NQ-UBTVQH15 ngày 16 tháng 6 năm 2025 của Ủy ban Thường vụ Quốc hội về việc sắp xếp các đơn vị hành chính cấp xã của thành phố Hà Nội năm 2025 |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf |url-status=live |archive-url=https://web.archive.org/web/20260630400809/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf |archive-date=2026-06-30 |access-date=2026-06-30 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+* Sau khi sắp xếp, xã Hòa Phú được chia thành 33 thôn.<ref>7 thôn: Lưu Xá, Lý Nhân, Phụ Chính, Yên Nhân (trước thuộc xã Hòa Chính), Mỗ Xá, Nam Mẫu và Phú Đức (trước thuộc xã Phú Nam An) của xã Hòa Phú cũ; 5 thôn: Hội Triều, Phượng Luật, Thọ An, Yên Lạc và Yên Sơn của xã Đồng Lạc cũ; 10 thôn: Hạ Dục, Hoàng Xá, Hòa Xá, Thượng Phúc (trước thuộc xã Đồng Phú), Hạ, Mới, Thượng, Trại Cốc, Trung và Yên Cốc (trước thuộc xã Hồng Phong) của xã Hồng Phú cũ; 5 thôn: An Mỹ, An Thượng, Đồng Luân, Trung Vực Ngoài và Trung Vực Trong của xã Thượng Vực cũ; 6 thôn: Cấp Tiến, Cộng Hòa, Hai Năm, Hợp Nhất, Nguyễn Trãi và Tân Hợp của xã Văn Võ cũ; một phần của thôn Đoàn Kết của xã Kim Thư cũ.</ref><ref>{{Chú thích web |title=Thông tư số 10/2022/TT-BTNMT ngày 29 tháng 9 năm 2022 của Bộ Tài nguyên và Môi trường về việc Ban hành Danh mục địa danh dân cư, sơn văn, thủy văn, kinh tế – xã hội phục vụ công tác thành lập bản đồ thành phố Hà Nội |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2022/10/10-btnmt.pdf |url-status=live |archive-url=https://web.archive.org/web/20260630400809/https://datafiles.chinhphu.vn/cpp/files/vbpq/2022/10/10-btnmt.pdf |archive-date=2026-06-30 |access-date=2026-06-30 |website=Cổng Thông tin điện tử Chính phủ}}</ref><ref>{{Chú thích web |last= |date= |title=Quyết định số 8/QĐ-UBBC ngày 24 tháng 2 năm 2026 của Ủy ban bầu cử xã Hòa Phú về việc công bố danh sách chính thức những người ứng cử đại biểu Hội đồng nhân dân xã Hòa Phú, nhiệm kỳ 2026 – 2031 |url=https://sqhx-hanoi.mediacdn.vn/91579363132710912/2026/3/2/qd-08-cong-bo-ds-chinh-thuc-ok0001-1772451578969514782390.pdf |url-status=dead |archive-url=https://web.archive.org/web/20260805201510/https://sqhx-hanoi.mediacdn.vn/91579363132710912/2026/3/2/qd-08-cong-bo-ds-chinh-thuc-ok0001-1772451578969514782390.pdf |archive-date=2026-08-05 |access-date=2026-08-05 |website=Trang Thông tin điện tử xã Hòa Phú – thành phố Hà Nội}}</ref>
+Ngày 15 tháng 1 năm 2026, ghép khu vực dân cư xóm Đa Ngư Thượng (thuộc thôn Đoàn Kết của xã Kim Thư cũ) vào thôn Hai Năm.<ref>Ghép khu vực dân cư xóm Đa Ngư Thượng (thuộc xã Kim Thư, huyện Thanh Oai cũ) vào thôn Hai Năm, xã Hòa Phú.</ref><ref>{{Chú thích web |last=Đỗ Minh |date=2025-07-22 |title=Xã Thanh Oai bàn giao một phần diện tích, quy mô dân số cho xã Hòa Phú |url=https://hanoimoi.vn/xa-thanh-oai-ban-giao-mot-phan-dien-tich-quy-mo-dan-so-cho-xa-hoa-phu-710030.html?gidzl=nAxg9LT37JR0iUuZNLWKEC6ruYzA348vt-FXA4vTG6Y8kRHv75H1Qe-njt19M1HXt-7Y83EbtC8YKa8PD0 |url-status=dead |archive-url=https://web.archive.org/web/20260805201510/https://hanoimoi.vn/xa-thanh-oai-ban-giao-mot-phan-dien-tich-quy-mo-dan-so-cho-xa-hoa-phu-710030.html?gidzl=nAxg9LT37JR0iUuZNLWKEC6ruYzA348vt-FXA4vTG6Y8kRHv75H1Qe-njt19M1HXt-7Y83EbtC8YKa8PD0 |archive-date=2026-08-05 |access-date=2026-08-05 |website=Cơ quan Báo và Phát thanh, truyền hình Hà Nội}}</ref><ref>{{Chú thích web |last=Ngọc Ánh |date=2026-01-16 |title=Xã Hòa Phú hoàn tất sắp xếp địa bàn dân cư, ghép xóm Đa Ngư Thượng vào thôn Hai Năm |url=https://app.thanhuyhanoi.vn/tin-tuc/xay-dung-dang/xa-hoa-phu-hoan-tat-sap-xep-dia-ban-dan-cu-ghep-xom-da-ngu-thuong-vao-thon-hai-nam-50039631.html |url-status=dead |archive-url=https://web.archive.org/web/20260805201510/https://app.thanhuyhanoi.vn/tin-tuc/xay-dung-dang/xa-hoa-phu-hoan-tat-sap-xep-dia-ban-dan-cu-ghep-xom-da-ngu-thuong-vao-thon-hai-nam-50039631.html |archive-date=2026-08-05 |access-date=2026-08-05 |website=Trang Thông tin điện tử Đảng bộ thành phố Hà Nội}}</ref>
+
+Ngày 29 tháng 6 năm 2026, thành lập 13 thôn mới: Đại Đồng, An Thượng, Võ Lao, Văn La, Mỗ Xá, Phú Yên, Nhân Chính, Lưu Hoàng, Hòa Phúc, Hồng Phong, Lễ Khê, Đồng Lạc và Sơn Triều.<ref>1. Sắp xếp thôn Đồng Luân, Trung Vực Trong và Trung Vực Ngoài thành thôn Đại Đồng; 2. Sắp xếp thôn An Thượng và An Mỹ thành thôn An Thượng; 3. Sắp xếp thôn Nguyễn Trãi, Cộng Hoà, Cấp Tiến, Tân Hợp thành thôn Võ Lao; 4. Sắp xếp thôn Hai Năm và Hợp Nhất thành thôn Văn La; 5. Sắp xếp thôn Mỗ Xá và Nam Mẫu thành thôn Mỗ Xá; 6. Sắp xếp thôn Phú Đức và Yên Nhân thành thôn Phú Yên; 7. Sắp xếp thôn Lý Nhân và Phụ Chính thành thôn Nhân Chính; 8. Sắp xếp thôn Lưu Xá và Hoàng Xá thành thôn Lưu Hoàng; 9. Sắp xếp thôn Hoà Xá và Thượng Phúc thành thôn Hoà Phúc; 10. Sắp xếp thôn Hạ, Trại Cốc, Yên Cốc thành thôn Hồng Phong; 11. Sắp xếp thôn Thượng, Trung, Mới thành thôn Lễ Khê; 12. Sắp xếp thôn Phượng Luật, Yên Lạc, Thọ An thành thôn Đồng Lạc; 13. Sắp xếp thôn Yên Sơn và Hội Triều thành thôn Sơn Triều; 14. Thôn Hạ Dục tiếp tục giữ nguyên.</ref><ref name=":0">{{Chú thích web |last=Trang Thông tin điện tử xã Hòa Phú – thành phố Hà Nội |date=2026-06-18 |title=Bài tuyên truyền về Đề án sắp xếp, tổ chức lại Thôn trên địa bàn xã Hòa Phú năm 2026 |url=https://hoaphu.hanoi.gov.vn/thong-tin-tuyen-truyen/bai-tuyen-truyen-ve-de-an-sap-xep-to-chuc-lai-thon-tren-dia-ban-xa-hoa-phu-nam-2026-2715260618110247206.htm?gidzl=U06aEh8GBp9y7g0yk0icF7qReJQlNdqxOqsYCQiFVseq5_TW-GP-Q3CVz6ci2YjZOq-XEJFy8Buvjn4hC0 |url-status=dead |archive-url=https://web.archive.org/web/20260805201510/https://hoaphu.hanoi.gov.vn/thong-tin-tuyen-truyen/bai-tuyen-truyen-ve-de-an-sap-xep-to-chuc-lai-thon-tren-dia-ban-xa-hoa-phu-nam-2026-2715260618110247206.htm?gidzl=U06aEh8GBp9y7g0yk0icF7qReJQlNdqxOqsYCQiFVseq5_TW-GP-Q3CVz6ci2YjZOq-XEJFy8Buvjn4hC0 |archive-date=2026-08-05 |access-date=2026-08-05}}</ref><ref name=":02">{{Chú thích web |last=Lê Hân |date=2026-06-30 |title=Hội đồng nhân dân xã Hòa Phú xem xét nhiều nội dung quan trọng tại Kỳ họp thứ Ba, quyết nghị các giải pháp phát triển 6 tháng cuối năm |url=https://sqhx-hanoi.mediacdn.vn/91579363132710912/2026/7/2/thong-bao-nq-sap-xep-thon-1782987257991528023477.pdf |url-status=dead |archive-url=https://web.archive.org/web/20260805201510/https://sqhx-hanoi.mediacdn.vn/91579363132710912/2026/7/2/thong-bao-nq-sap-xep-thon-1782987257991528023477.pdf |archive-date=2026-08-05 |access-date=2026-08-05 |website=Trang Thông tin điện tử xã Hòa Phú – thành phố Hà Nội}}</ref><!-- 
+== Lịch sử, địa lý và phát triển== 
+'''Xã Hồng Phong''' tên cũ là xã Yên Khê, năm [[1958]] được đổi tên là Hồng Phong. Là một trong 31 xã, thị trấn của huyện [[Chương Mỹ (huyện)| Chương Mỹ]] thành phố [[Hà Nội]].
+ -->
+
+== Hành chính==
+Xã Hòa Phú được chia thành 14 thôn: An Thượng, Đại Đồng, Đồng Lạc, Hạ Dục, Hòa Phúc, Hồng Phong, Lễ Khê, Lưu Hoàng, Mỗ Xá, Nhân Chính, Phú Yên, Sơn Triều, Văn La và Võ Lao.<ref name=":0" /><ref name=":02" />
+{| class="wikitable sortable" align="center" width="100%" cellspacing="6" cellpadding="0" style="background: #f9f9f9; border: 1px #aaa solid; margin-top: 16px"
+! colspan="4" style="background: #E6E6FA; font-size: 95%;" |Danh sách các thôn thuộc xã Hòa Phú<ref name=":0" /><ref name=":02" />
+|-
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |An Thượng
+|742
+|-
+| align="left" |Đại Đồng
+|983
+|-
+| align="left" |Đồng Lạc
+|725
+|-
+| align="left" |Hạ Dục
+|588
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Hòa Phúc
+|900
+|-
+| align="left" |Hồng Phong
+|589
+|-
+| align="left" |Lễ Khê
+|654
+|-
+| align="left" |Lưu Hoàng
+|781
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Mỗ Xá
+|651
+|-
+| align="left" |Nhân Chính
+|752
+|-
+| align="left" |Phú Yên
+|805
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Sơn Triều
+|710
+|-
+| align="left" |Văn La
+|922
+|-
+| align="left" |Võ Lao
+|1.157
+|}
+|}
+
+== Giáo dục ==
+
+=== Các trường Trung học Phổ thông ===
+* THPT Chương Mỹ B
+
+=== Các Trường Trung học Cơ sở ===
+* THCS Văn Võ
+* THCS Thượng Vực
+* THCS Phú Nam An
+* THCS Hồng Phong
+* THCS Hòa Chính
+* THCS Đồng Phú
+* THCS Đồng Lạc
+
+=== Các trường Tiểu học ===
+* TH Văn Võ
+* TH Thượng Vực
+* TH Phú Nam An
+* TH Hồng Phong
+* TH Hòa Chính
+* TH Đồng Phú
+* TH Đồng Lạc
+
+== Di tích - Danh thắng==
+
+=== Đình Yên Nhân ===
+Căn cứ vào thần phả và các tư liệu Hán Nôm còn lưu giữ được ở Đình Yên Nhân thì đình thờ 4 vị là: Dương Phương Lan, vợ Ngô Quyền; Đỗ Lang Vương là vị quan triều nhà Ngô; Mai Gia Minh, tướng của Ngô Quyền hy sinh ở ở Lục Đầu giang và Hồ Thông, người có công dẹp [[loạn 12 sứ quân]] thời nhà Đinh.<ref>{{Chú thích web | url = http://ditichlichsuvanhoa.com/dttc/DINH-CHUA-YEN-NHAN-a406.html | ngày truy cập = 2018-11-20 | tựa đề = Đình Chùa làng Yên Nhân | archive-date = ngày 20 tháng 11 năm 2018 | archive-url = https://web.archive.org/web/20181120095823/http://ditichlichsuvanhoa.com/dttc/DINH-CHUA-YEN-NHAN-a406.html }}</ref>
+
+Thờ Hồ Thông là người văn võ toàn tài, thông minh, trí tuệ được phong làm chỉ huy phó sứ thời vua [[Đinh Tiên Hoàng]]. Ông sinh ngày 6 tháng 8 năm âm lịch. Cha là Hồ Minh, mẹ là Nguyễn Thị Thái quê quán ở xã Hòa Phú, thành phố [[Hà Nội]]. Sinh thời ông là người văn võ toàn tài, thông minh, trí tuệ được phong làm chỉ huy phó sứ thời vua [[Đinh Tiên Hoàng]]: Ông có công lao rất lớn trong việc đánh dẹp [[12 sứ quân]], ông mất ngày 2 tháng 12 âm lịch được tặng phong là: "Quảng Hóa hà hải linh thông thiện thánh đại vương".
+
+== Chú thích== 
+{{tham khảo}}
+
+== Tham khảo ==
+{{sơ khai Hà Nội}}
+{{Đơn vị hành chính thuộc thành phố Hà Nội}}

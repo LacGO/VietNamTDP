@@ -1,0 +1,146 @@
+{{Thông tin đơn vị hành chính Việt Nam|Xã
+| tên = Kiều Phú
+| hình = 
+| ghi chú hình = 
+| diện tích = 34,54 km²
+| dân số = 60.885 người
+| thời điểm dân số = 2025
+| mật độ dân số = {{formatnum:{{#expr:floor({{formatnum:60.885| R}}/{{formatnum:34,54| R}})}} }} người/km²
+| vùng = [[Đồng bằng sông Hồng]]
+| thành phố = [[Hà Nội]]
+| thành lập = 
+| trụ sở UBND = Thôn Phú Mỹ<ref>{{Chú thích web |url=https://storage-vnportal.vnpt.vn/gov-hni/6244/VanBan/2025/6/25/TB-729-2025.pdf |title=Thông báo số 729/TB-UBND ngày 25 tháng 6 năm 2025 của Ủy ban nhân dân thành phố Hà Nội về địa điểm trụ sở làm việc của 126 phường, xã sau sắp xếp thuộc phạm vi quản lý của thành phố Hà Nội|access-date=2026-06-15 |archive-date=2026-06-15 |archive-url=https://web.archive.org/web/20260615034519/https://storage-vnportal.vnpt.vn/gov-hni/6244/VanBan/2025/6/25/TB-729-2025.pdf |url-status=dead | website = Cổng Thông tin điện tử Ủy ban nhân dân thành phố Hà Nội}}</ref>
+| mã hành chính =09910<ref>{{Chú thích web |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/19ttg.signed.pdf |title=Quyết định số 19/2025/QĐ-TTg ngày 30 tháng 6 năm 2025 của Thủ tướng Chính phủ về việc Ban hành Bảng danh mục và mã số các đơn vị hành chính Việt Nam |access-date=2026-06-15 |archive-date=2026-06-15 |archive-url=https://web.archive.org/web/20260615034519/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/19ttg.signed.pdf |url-status=dead | website = Cổng Thông tin điện tử Chính phủ}}</ref> 
+| web = {{url|kieuphu.hanoi.gov.vn}}
+| vĩ độ = 20.97289867916046| kinh độ = 105.61415838456573|bản đồ 1={{maplink|frame=yes|plain=yes|type=shape|frame-width=280|frame-align=center|stroke-width=3}}|trụ sở Đảng ủy=Thôn Thế Trụ}}
+{{about| xã thuộc thành phố Hà Nội, thành lập năm 2025| nhân vật lịch sử cùng tên| Kiều Phú}}
+'''Kiều Phú''' là một [[xã]] thuộc thành phố [[Hà Nội]], [[Việt Nam]].
+
+== Địa lý== 
+Xã Kiều Phú có vị trí địa lý:
+
+* Phía đông giáp xã [[Quốc Oai (xã)|Quốc Oai]] và xã [[Hưng Đạo, Hà Nội|Hưng Đạo]]
+* Phía tây giáp xã [[Phú Cát]]
+* Phía nam giáp xã [[Phú Nghĩa, Hà Nội|Phú Nghĩa]]
+* Phía bắc giáp xã [[Hạ Bằng]] và xã [[Tây Phương, Hà Nội|Tây Phương]].<ref>{{Chú thích web |last=Viện nghiên cứu Phát triển kinh tế – xã hội Hà Nội |date=2025-07-02 |title=Xã Kiều Phú: Những thông tin chi tiết sau sắp xếp |url=https://hanoionline.vn/xa-kieu-phu-nhung-thong-tin-chi-tiet-sau-sap-xep-344178.htm |url-status=bot: unknown |archive-url=https://web.archive.org/web/20250704014503/https://hanoionline.vn/xa-kieu-phu-nhung-thong-tin-chi-tiet-sau-sap-xep-344178.htm |archive-date=2025-07-04 |access-date=2026-07-11 |website=Cơ quan Báo và Phát thanh Truyền hình Hà Nội }}</ref><ref>{{Chú thích web |last=Cơ quan Báo và Phát thanh Truyền hình Hà Nội |date=2025-07-04 |title=Xã Kiều Phú: Tất cả thông tin chỉ dẫn bạn cần biết |url=https://hanoionline.vn/xa-kieu-phu-tat-ca-thong-tin-chi-dan-ban-can-biet-345415.htm |url-status=live |archive-url=https://web.archive.org/web/20260711401509/https://hanoionline.vn/xa-kieu-phu-tat-ca-thong-tin-chi-dan-ban-can-biet-345415.htm |archive-date=2026-07-11 |access-date=2026-07-11}}</ref>
+Xã Kiều Phú có diện tích tự nhiên là 34,54 km<sup>2</sup>, quy mô dân số năm 2025 là 60.885 người và mật độ dân số đạt 1.762 người/km<sup>2</sup>.<ref>{{Chú thích web |last=Mai Hữu |date=2026-04-05 |title=Hà Nội: Chi tiết phương án tổng thể sắp xếp đơn vị hành chính cấp xã |url=https://hanoimoi.vn/ha-noi-chi-tiet-phuong-an-tong-the-sap-xep-don-vi-hanh-chinh-cap-xa-700278.html |url-status=live |archive-url=https://web.archive.org/web/20260711401509/https://hanoimoi.vn/ha-noi-chi-tiet-phuong-an-tong-the-sap-xep-don-vi-hanh-chinh-cap-xa-700278.html |archive-date=2026-07-11 |access-date=2026-07-11 |website=Cơ quan Báo và Phát thanh, truyền hình Hà Nội}}</ref><ref>Công văn số 2896/BNV-CQĐP ngày 27 tháng 5 năm 2025 của Bộ Nội vụ về việc cung cấp thông tin danh mục dự kiến đơn vị hành chính cấp xã mới.</ref>
+
+== Lịch sử==
+
+=== Tên gọi ===
+
+=== Trước năm 1976 ===
+Địa bàn xã Kiều Phú từ thế kỷ X đã là căn cứ chính [[Đỗ Động Giang]] của tướng [[Đỗ Cảnh Thạc]] trong thời [[loạn 12 sứ quân]]. Ông là người chiếm đóng căn cứ Đỗ Động Giang, có công trấn giữ bình yên cho khu vực này trong thời loạn lạc nên được dân lập đền thờ ở xã này.<ref>[https://quocphongthudo.vn/van-hoa-xa-hoi/di-tich-lich-su-van-hoa-dinh-co-hien.html Di tích lịch sử văn hóa đình Cổ Hiền, xã Kiều Phú]</ref>
+
+=== Giai đoạn 1976 – nay ===
+Sau ngày 2 tháng 7 năm 1976, 6 xã: Cấn Hữu, Liệp Tuyết, Nghĩa Hương, Ngọc Liệp, Ngọc Mỹ và Tuyết Nghĩa thuộc huyện [[Quốc Oai (huyện)|Quốc Oai]]; 2 xã: Bình Phú và Hữu Bằng thuộc huyện [[Thạch Thất (huyện)|Thạch Thất]] của tỉnh [[Hà Sơn Bình]].
+
+Ngày 29 tháng 12 năm 1978, sáp nhập huyện Thạch Thất của tỉnh [[Hà Sơn Bình]] vào thành phố [[Hà Nội]]. Khi đó, 2 xã: Bình Phú và Hữu Bằng thuộc huyện [[Thạch Thất (huyện)|Thạch Thất]] của thành phố [[Hà Nội]].<ref>Nghị quyết ngày 29 tháng 12 năm 1978 của Quốc hội khóa VI, Kỳ họp thứ 4 phê chuẩn việc phân vạch lại địa giới thành phố Hà Nội, thành phố Hồ Chí Minh, các tỉnh Hà Sơn Bình, Vĩnh Phú, Cao Lạng, Bắc Thái, Quảng Ninh và Đồng Nai.</ref>
+
+Ngày 12 tháng 8 năm 1991, chia tỉnh [[Hà Sơn Bình]] thành 2 tỉnh, lấy tên là tỉnh [[Hòa Bình (tỉnh)|Hòa Bình]] và tỉnh [[Hà Tây (tỉnh)|Hà Tây]]. Chuyển huyện [[Thạch Thất (huyện)|Thạch Thất]] của thành phố [[Hà Nội]] về tỉnh [[Hà Tây (tỉnh)|Hà Tây]]. Khi đó, 6 xã: Cấn Hữu, Liệp Tuyết, Nghĩa Hương, Ngọc Liệp, Ngọc Mỹ và Tuyết Nghĩa thuộc huyện [[Quốc Oai (huyện)|Quốc Oai]]; 2 xã: Bình Phú và Hữu Bằng thuộc huyện [[Thạch Thất (huyện)|Thạch Thất]] của tỉnh [[Hà Tây (tỉnh)|Hà Tây]].<ref>Nghị quyết ngày 12 tháng 8 năm 1991 của Quốc hội khóa VIII, Kỳ họp thứ 9 về việc điều chỉnh địa giới hành chính một số tỉnh, thành phố trực thuộc Trung ương.</ref>
+
+Ngày 29 tháng 5 năm 2008, hợp nhất tỉnh [[Hà Tây (tỉnh)|Hà Tây]] vào thành phố [[Hà Nội]]. Khi đó, 6 xã: Cấn Hữu, Liệp Tuyết, Nghĩa Hương, Ngọc Liệp, Ngọc Mỹ và Tuyết Nghĩa thuộc huyện [[Quốc Oai (huyện)|Quốc Oai]]; 2 xã: Bình Phú và Hữu Bằng thuộc huyện [[Thạch Thất (huyện)|Thạch Thất]] của thành phố [[Hà Nội]].<ref>Nghị quyết số 15/2008/QH12 ngày 29 tháng 5 năm 2008 của Quốc hội khóa XII, Kỳ họp thứ 3 về việc điều chỉnh địa giới hành chính thành phố Hà Nội và một số tỉnh có liên quan.</ref>
+
+Ngày 14 tháng 11 năm 2024:
+
+* Thành lập xã Liệp Nghĩa (huyện [[Quốc Oai (huyện)|Quốc Oai]]) trên cơ sở nhập xã Nghĩa Hương và xã Liệp Tuyết.
+* Thành lập xã Quang Trung (huyện [[Thạch Thất (huyện)|Thạch Thất]]) trên cơ sở nhập xã Hữu Bằng và xã Bình Phú.<ref>{{Chú thích web |tiêu đề=Nghị quyết số 1286/NQ-UBTVQH15 ngày 14 tháng 11 năm 2024 của Ủy ban Thường vụ Quốc hội về việc sắp xếp đơn vị hành chính cấp xã của thành phố Hà Nội giai đoạn 2023 – 2025 |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/11/1286-qh.signed.pdf |url-status=dead |archive-url=https://web.archive.org/web/20241121185017/https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/11/1286-qh.signed.pdf |ngày lưu trữ=2024-11-21 |ngày truy cập=2024-11-21 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+
+Ngày 16 tháng 6 năm 2025:
+
+* Kết thúc hoạt động của đơn vị hành chính cấp huyện trong cả nước.<ref>{{Chú thích web |last= |date= |title=Nghị quyết số 203/2025/QH15 ngày 16 tháng 6 năm 2025 của Quốc hội khóa XV, Kỳ họp thứ 9 về việc sửa đổi, bổ sung một số điều của Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/nq-sua-doi-hien-phap.pdf |url-status=live |archive-url=https://web.archive.org/web/20260613090807/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/nq-sua-doi-hien-phap.pdf |archive-date=2026-06-13 |access-date=2026-06-13 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+* Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của các xã Cấn Hữu, Liệp Nghĩa, Tuyết Nghĩa, phần còn lại của xã Ngọc Liệp (huyện [[Quốc Oai (huyện)|Quốc Oai]]) và xã Quang Trung (huyện [[Thạch Thất (huyện)|Thạch Thất]]), phần còn lại của xã Ngọc Mỹ (huyện [[Quốc Oai (huyện)|Quốc Oai]]) thành xã mới có tên gọi là xã Kiều Phú.<ref>{{Chú thích web |title=Nghị quyết số 1656/NQ-UBTVQH15 ngày 16 tháng 6 năm 2025 của Ủy ban Thường vụ Quốc hội về việc sắp xếp các đơn vị hành chính cấp xã của thành phố Hà Nội năm 2025 |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf |url-status=bot: unknown |archive-url=https://web.archive.org/web/20260513110024/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf |archive-date=2026-05-13 |access-date=2026-06-30 |website=Cổng Thông tin điện tử Chính phủ }}</ref>
+* Sau khi sắp xếp, xã Kiều Phú được chia thành 25 thôn.<ref>6 thôn: Cây Chay, Cấn Hạ, Cấn Thượng, Đĩnh Tú, Thái Khê và Thượng Khê của xã Cấn Hữu cũ; 8 thôn: Bái Ngoại, Bái Nội, Đại Phu, Thông Đạt, Vĩnh Phúc (trước thuộc xã Liệp Tuyết), Thế Trụ, Văn Khê và Văn Quang (trước thuộc xã Nghĩa Hương) của xã Liệp Nghĩa cũ; 5 thôn: Cổ Hiền, Đại Đồng Độ Lân, Liên Trì Đồng Sơn, Muôn và Ro của xã Tuyết Nghĩa cũ; 4 thôn: Đồng Bụt, Liệp Mai, Ngọc Bài và Ngọc Phúc của xã Ngọc Liệp cũ; 2 thôn: Ngọc Than và Phú Mỹ của xã Ngọc Mỹ cũ.</ref><ref>{{Chú thích web |title=Thông tư số 10/2022/TT-BTNMT ngày 29 tháng 9 năm 2022 của Bộ Tài nguyên và Môi trường về việc Ban hành Danh mục địa danh dân cư, sơn văn, thủy văn, kinh tế – xã hội phục vụ công tác thành lập bản đồ thành phố Hà Nội |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2022/10/10-btnmt.pdf |url-status=live |archive-url=https://web.archive.org/web/20260630400809/https://datafiles.chinhphu.vn/cpp/files/vbpq/2022/10/10-btnmt.pdf |archive-date=2026-06-30 |access-date=2026-06-30 |website=Cổng Thông tin điện tử Chính phủ}}</ref><ref>{{Chú thích web |last= |date= |title=Thông báo số 1120/TB-UBND ngày 2 tháng 2 năm 2026 của Ủy ban nhân dân xã Kiều Phú về việc niêm yết danh sách cử tri bầu cử đại biểu Quốc hội khóa XVI và bầu cứ đại biểu Hội đồng nhân dân các cấp nhiệm kỳ 2026 – 2031 |url=https://truongtieuhocnghiahuong.edu.vn/upload/101636/20260203/1120_TB-UBND_fd7e5.pdf |url-status=dead |archive-url=https://web.archive.org/web/20260728201509/https://truongtieuhocnghiahuong.edu.vn/upload/101636/20260203/1120_TB-UBND_fd7e5.pdf |archive-date=2026-07-28 |access-date=2026-07-28 |website=Trường Tiểu học Nghĩa Hương – xã Kiều Phú – thành phố Hà Nội}}</ref>
+Ngày 23 tháng 6 năm 2026, thành lập 7 thôn mới: Cấn Hạ, Thái Thượng Khê, Ngọc Bái, Liệp Tuyết, Tuyết Nghĩa, Muôn Ro và Ngọc Liệp; đổi tên thôn Liên Trì Đồng Sơn thành thôn Liên Sơn.<ref>1. Thôn Cấn Hạ: Hình thành trên cơ sở sáp nhập nguyên trạng thôn Cây Chay và thôn Cấn Hạ; 2. Thôn Thái Thượng Khê: Hình thành trên cơ sở sáp nhập nguyên trạng các thôn: Thôn Thượng Khê và Thôn Thái Khê; 3. Thôn Ngọc Bái: Hình thành trên cơ sở sáp nhập nguyên trạng các thôn: Thôn Bái Nội với Thôn Bái Ngoại; 4. Thôn Liệp Tuyết: Hình thành trên cơ sở sáp nhập nguyên trạng các thôn: Thôn Đại Phu và thôn Thông Đạt; 5. Thôn Tuyết Nghĩa: Hình thành trên cơ sở sáp nhập nguyên trạng các thôn: Đại Đồng Độ Lân và Thôn Cổ Hiền; 6. Thôn Muôn Ro: Hình thành trên cơ sở sáp nhập nguyên trạng các thôn: Thôn Muôn và Thôn Ro; 7. Thôn Ngọc Liệp: Hình thành trên cơ sở sáp nhập nguyên trạng các thôn: Thôn Ngọc Bài và Thôn Ngọc Phúc; 8. Thôn Cấn Thượng: Giữ nguyên; 9. Thôn Đĩnh Tú: Giữ nguyên; 10. Thôn Ngọc Than: Giữ nguyên; 11. Thôn Phú Mỹ: Giữ nguyên; 12. Thôn Văn Khê: Giữ nguyên; 13. Thôn Văn Quang: Giữ nguyên; 14. Thôn Thế Trụ: Giữ nguyên; 15. Thôn Vĩnh Phúc: Giữ nguyên; 16. Thôn Liên Sơn: Giữ nguyên, đổi tên từ Liên Trì Đồng Sơn thành Liên Sơn; 17. Thôn Đồng Bụt: Giữ nguyên; 18. Thôn Liệp Mai: Giữ nguyên.</ref><ref name=":1">{{Chú thích web |last= |date= |title=Nghị quyết số 20/NQ-HĐND ngày 23 tháng 6 năm 2026 của Hội đồng nhân dân xã Kiều Phú về việc sắp xếp, tổ chức lại, đổi tên thôn trên địa bàn xã Kiều Phú |url=https://datafiles.hanoi.gov.vn/gov-hni/7020/VanBan/2026/6/29/NQ-20-H%C4%90ND.pdf |url-status=dead |archive-url=https://web.archive.org/web/20260729201509/https://datafiles.hanoi.gov.vn/gov-hni/7020/VanBan/2026/6/29/NQ-20-H%C4%90ND.pdf |archive-date=2026-07-29 |access-date=2026-07-29 |website=Trang Thông tin điện tử xã Kiều Phú – thành phố Hà Nội}}</ref>
+
+== Hành chính==
+Xã Kiều Phú được chia thành 18 thôn: Cấn Hạ, Cấn Thượng, Đĩnh Tú, Đồng Bụt, Liên Sơn, Liệp Mai, Liệp Tuyết, Muôn Ro, Ngọc Bái, Ngọc Liệp, Ngọc Than, Phú Mỹ, Thái Thượng Khê, Thế Trụ, Tuyết Nghĩa, Văn Khê, Văn Quang và Vĩnh Phúc.<ref name=":1" />
+{| class="wikitable sortable" align="center" width="100%" cellspacing="6" cellpadding="0" style="background: #f9f9f9; border: 1px #aaa solid; margin-top: 16px"
+! colspan="4" style="background: #E6E6FA; font-size: 95%;" |Danh sách các thôn thuộc xã Kiều Phú<ref name=":1" />
+|-
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Cấn Hạ
+|669
+|-
+| align="left" |Cấn Thượng
+|1.195
+|-
+| align="left" |Đĩnh Tú
+|749
+|-
+| align="left" |Đồng Bụt
+|1.336
+|-
+| align="left" |Liên Sơn
+|510
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Liệp Mai
+|952
+|-
+| align="left" |Liệp Tuyết
+|662
+|-
+| align="left" |Muôn Ro
+|742
+|-
+| align="left" |Ngọc Bái
+|595
+|-
+| align="left" |Ngọc Liệp
+|846
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Ngọc Than
+|2.433
+|-
+| align="left" |Phú Mỹ
+|1.254
+|-
+| align="left" |Thái Thượng Khê
+|741
+|-
+| align="left" |Thế Trụ
+|675
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Tuyết Nghĩa
+|748
+|-
+| align="left" |Văn Khê
+|800
+|-
+| align="left" |Văn Quang
+|813
+|-
+| align="left" |Vĩnh Phúc
+|533
+|}
+|}
+
+== Di tích lịch sử ==
+Khu vực [[Đỗ Động Giang|Đình Cổ Hiền]] nằm ở gần [[sông Tích]], được coi là vị trí trung tâm thành Quèn xưa của Đỗ Tướng Công. Đình là nơi thờ thành hoàng làng Độc Nhĩ Vương [[Đỗ Cảnh Thạc]], vị tướng nhà Ngô và một lãnh đạo nổi tiếng thời [[12 sứ quân]]. [[Đỗ Cảnh Thạc]] là một vị tướng có tài, ngoài những chiến công hiển hách, ông còn là người giúp nhân dân trong "Nông – Trang – Canh – Cửi" nên khi mất được người dân trong lãnh địa suy tôn là thành hoàng làng.
+{{chính| Khu di tích Đỗ Động Giang}}
+Các di tích đền Lốt và đình thôn Liên Trì Đồng Sơn tại xã Kiều Phú thành phố Hà Nội là nơi thờ [[Công chúa nhà Đinh|công chúa Liên Hoa]], con gái Vua [[Đinh Tiên Hoàng]], nơi gắn với sự nghiệp cầm quân đánh dẹp sứ quân [[Đỗ Cảnh Thạc]] ở căn cứ quân sự thành Quèn.<ref>[https://sovhtt.hanoi.gov.vn/quoc-oai-le-hoi-truyen-thong-thon-lien-tri-dong-son/ Quốc Oai: Lễ hội truyền thống thôn Liên Trì Đồng Sơn]</ref>
+
+== Chú thích== 
+{{tham khảo}}
+
+== Tham khảo ==
+{{Sơ khai Hà Nội}}{{Đơn vị hành chính thuộc thành phố Hà Nội}}

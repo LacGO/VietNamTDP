@@ -1,0 +1,92 @@
+{
+  "ward_code": "08134",
+  "ward_name": "Văn Lang",
+  "province_code": "25",
+  "resolution": "",
+  "arrangement": "truoc_2026_07",
+  "effective_date": "",
+  "verified": "unverified",
+  "extraction": {
+    "source": "vi.wikipedia.org",
+    "title": "(cache)",
+    "mode": "narrative"
+  },
+  "sources": [
+    {
+      "key": "wiki-08134-1",
+      "title": "Danh sách Thôn vùng đồng bào dân tộc thiểu số và miền núi, thôn đặc biệt khó khăn giai đoạn 2026 - 2030 trên địa bàn tỉnh Phú Thọ",
+      "url": "http://files.ubdt.gov.vn/files/ecm/source_files/2026/02/05/11252411_4.%20Ph%C3%BA%20Th%E1%BB%8D%201%20(th%C3%B4n).signed_26-02-05.pdf",
+      "date": "2026-01-29",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-08134-2",
+      "title": "Danh sách chính thức 31 người ứng cử đại biểu Hội đồng nhân dân xã Văn Lang khóa XXII, nhiệm kỳ 2026 - 2031 tại 05 đơn vị bầu cử",
+      "url": "https://web.facebook.com/story.php?story_fbid=122159509616931548&id=61577946443443&rdid=HM6zKc71aKRekkEY#",
+      "date": "2026-02-27",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-08134-3",
+      "title": "NGHỊ QUYẾT 203/2025/QH15 SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA HIẾN PHÁP NƯỚC CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM",
+      "url": "https://xaydungchinhsach.chinhphu.vn/nghi-quyet-203-2025-qh15-sua-doi-bo-sung-mot-so-dieu-cua-hien-phap-nuoc-cong-hoa-xa-hoi-chu-nghia-viet-nam-119250616181735552.htm",
+      "date": "2025-06-28",
+      "type": "wikipedia-ref"
+    }
+  ],
+  "note": "Trích tự động từ Wikipedia tiếng Việt (mode=narrative). Cần đối chiếu nghị quyết HĐND phường/xã. ⚠️ Danh mục có thể là hiện trạng TRƯỚC sắp xếp thôn/TDP 01/7/2026 — Wikipedia chưa cập nhật nghị quyết mới.",
+  "tdp": [
+    {
+      "name": "1",
+      "type": "khu"
+    },
+    {
+      "name": "2",
+      "type": "khu"
+    },
+    {
+      "name": "3",
+      "type": "khu"
+    },
+    {
+      "name": "4",
+      "type": "khu"
+    },
+    {
+      "name": "5",
+      "type": "khu"
+    },
+    {
+      "name": "6",
+      "type": "khu"
+    },
+    {
+      "name": "7",
+      "type": "khu"
+    },
+    {
+      "name": "8 (xã Bằng Giã cũ)",
+      "type": "khu"
+    },
+    {
+      "name": "4 (xã Minh Côi cũ)",
+      "type": "khu"
+    },
+    {
+      "name": "5 (xã Văn Lang cũ)",
+      "type": "khu"
+    },
+    {
+      "name": "8",
+      "type": "khu"
+    },
+    {
+      "name": "9",
+      "type": "khu"
+    },
+    {
+      "name": "10 (xã Vô Tranh cũ)",
+      "type": "khu"
+    }
+  ]
+}

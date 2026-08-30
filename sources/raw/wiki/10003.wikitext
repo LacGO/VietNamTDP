@@ -1,0 +1,533 @@
+{{Về|một xã ở Hà Nội||Phương Tây}}
+{{Thông tin đơn vị hành chính Việt Nam|Xã
+| tên = Tây Phương
+| hình = Chùa Tây Phương.JPG
+| ghi chú hình = Chùa Tây Phương
+| vĩ độ = 21.032254549840488
+| kinh độ = 105.60297721323893
+| diện tích = 31,06 km²
+| dân số = 99.874 người
+| thời điểm dân số = 2025
+| thành phố = [[Hà Nội]]
+|vùng=[[Đồng bằng sông Hồng]]|bản đồ 1={{maplink|frame=yes|plain=yes|type=shape|frame-width=280|frame-align=center|stroke-width=3}}|mật độ dân số={{formatnum:{{#expr:floor({{formatnum:99.874| R}}/{{formatnum:31,06| R}})}} }} người/km²|mã hành chính=10003<ref>{{Chú thích web |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/19ttg.signed.pdf |title=Quyết định số 19/2025/QĐ-TTg ngày 30 tháng 6 năm 2025 của Thủ tướng Chính phủ về việc Ban hành Bảng danh mục và mã số các đơn vị hành chính Việt Nam |access-date=2026-06-15 |archive-date=2026-06-15 |archive-url=https://web.archive.org/web/20260615034519/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/19ttg.signed.pdf |url-status=dead | website = Cổng Thông tin điện tử Chính phủ}}</ref>|web={{url|tayphuong.hanoi.gov.vn}}|trụ sở UBND=Thôn Yên<ref>{{Chú thích web |url=https://storage-vnportal.vnpt.vn/gov-hni/6244/VanBan/2025/6/25/TB-729-2025.pdf |title=Thông báo số 729/TB-UBND ngày 25 tháng 6 năm 2025 của Ủy ban nhân dân thành phố Hà Nội về địa điểm trụ sở làm việc của 126 phường, xã sau sắp xếp thuộc phạm vi quản lý của thành phố Hà Nội|access-date=2026-06-15 |archive-date=2026-06-15 |archive-url=https://web.archive.org/web/20260615034519/https://storage-vnportal.vnpt.vn/gov-hni/6244/VanBan/2025/6/25/TB-729-2025.pdf |url-status=dead | website = Cổng Thông tin điện tử Ủy ban nhân dân thành phố Hà Nội}}</ref>|trụ sở Đảng ủy=Thôn Bình Phú}}
+
+'''Tây Phương''' là một [[Xã (Việt Nam)|xã]] thuộc thành phố [[Hà Nội]], [[Việt Nam]]. 
+
+== Địa lý ==
+Xã Tây Phương có vị trí địa lý:
+
+* Phía đông giáp xã [[Hát Môn]] và xã [[Quốc Oai (xã)|Quốc Oai]]
+* Phía tây giáp xã [[Thạch Thất (xã)|Thạch Thất]] và xã [[Hạ Bằng]]
+* Phía nam giáp xã [[Kiều Phú (xã)|Kiều Phú]]
+* Phía bắc giáp xã [[Phúc Thọ (xã)|Phúc Thọ]].<ref>{{Chú thích web|last=Viện nghiên cứu Phát triển kinh tế – xã hội Hà Nội|date=2025-07-02|title=Xã Tây Phương: Những thông tin chi tiết sau sắp xếp|url=https://hanoionline.vn/xa-tay-phuong-nhung-thong-tin-chi-tiet-sau-sap-xep-344097.htm|url-status=dead|archive-url=https://web.archive.org/web/20251002232717/https://hanoionline.vn/xa-tay-phuong-nhung-thong-tin-chi-tiet-sau-sap-xep-344097.htm|archive-date=2025-10-02|access-date=2026-07-11|website=Cơ quan Báo và Phát thanh Truyền hình Hà Nội}}</ref><ref>{{Chú thích web |last=Cơ quan Báo và Phát thanh Truyền hình Hà Nội|date=2025-07-07|title=Xã Tây Phương: Tất cả thông tin chỉ dẫn bạn cần biết|url=https://hanoionline.vn/xa-tay-phuong-tat-ca-thong-tin-chi-dan-ban-can-biet-345470.htm|url-status=dead|archive-url=https://web.archive.org/web/20250708014301/https://hanoionline.vn/xa-tay-phuong-tat-ca-thong-tin-chi-dan-ban-can-biet-345470.htm|archive-date=2025-07-08|access-date=2026-07-11}}</ref>
+Xã Tây Phương có diện tích tự nhiên là 31,06 km<sup>2</sup>, quy mô dân số năm 2025 là 99.874 người và mật độ dân số đạt 3.215 người/km<sup>2</sup>.<ref>{{Chú thích web |last=Mai Hữu|date=2026-04-05|title=Hà Nội: Chi tiết phương án tổng thể sắp xếp đơn vị hành chính cấp xã|url=https://hanoimoi.vn/ha-noi-chi-tiet-phuong-an-tong-the-sap-xep-don-vi-hanh-chinh-cap-xa-700278.html|url-status=bot: unknown|archive-url=https://web.archive.org/web/20250710163328/https://hanoimoi.vn/ha-noi-chi-tiet-phuong-an-tong-the-sap-xep-don-vi-hanh-chinh-cap-xa-700278.html|archive-date=2025-07-10|access-date=2026-07-11|website=Cơ quan Báo và Phát thanh, truyền hình Hà Nội}}</ref><ref>Công văn số 2896/BNV-CQĐP ngày 27 tháng 5 năm 2025 của Bộ Nội vụ về việc cung cấp thông tin danh mục dự kiến đơn vị hành chính cấp xã mới.</ref>
+
+Xã Tây Phương nằm cách trung tâm Thủ đô khoảng 30 km về phía tây. Xã có địa hình khá bằng phẳng, ngoài trừ phía cực tây có đồi Câu Lậu cao hơn 100 m, là nơi tọa lạc ngôi chùa nổi tiếng. Từ trung tâm Thủ đô có thể đến đây theo hướng [[Đại lộ Thăng Long]], khoảng km18 có [[khu công nghiệp]] Thạch Thất vốn thuộc địa bàn xã. Các tuyến [[Xe buýt Hà Nội|xe buýt]] qua Tây Phương gồm: 74, 88, 89, 107, 117, 157.<ref>{{Chú thích web |last=Minh Thu |date=2025-03-21 |title=Lễ hội chùa Tây Phương sẽ được tổ chức đầu tháng 4/2025 |url=https://baodantoc.vn/news-1742523756775.htm |url-status=live |website=Báo Dân tộc và Phát triển|access-date=2026-07-25|archive-url=https://web.archive.org/web/20260725401509/https://baodantoc.vn/news-1742523756775.htm|archive-date=2026-07-25}}</ref>
+
+== Lịch sử ==
+
+=== Tên gọi ===
+Xã Tây Phương được đặt tên theo [[chùa Tây Phương]] − [[Di tích quốc gia đặc biệt (Việt Nam)|Di tích quốc gia đặc biệt]] nằm trên địa bàn xã. Ngôi chùa nổi tiếng với những pho tượng La Hán tuyệt đẹp đã đi vào thi ca, được công nhận [[Bảo vật quốc gia (Việt Nam)|Bảo vật quốc gia]] và có lễ hội là Di sản văn hóa phi vật thể quốc gia. Đây cũng là địa phương có nhiều [[Làng nghề Việt Nam|làng nghề]] truyền thống, tiêu biểu nhất là [[Thợ mộc|nghề mộc]] với 5 làng đã được công nhận gồm: Chàng Sơn, Hữu Bằng, Canh Nậu, Dị Nậu và Hương Ngải. Ngoài ra, xã còn có làng nghề cơ kim khí Phùng Xá, làng nghề [[Chè lam|bánh chè lam]] Thạch Xá và làng nghề [[Ngành mây tre đan Việt Nam|mây tre đan]] Bình Phú. Vùng đất Tây Phương vốn được biết đến với nghệ thuật [[Rối nước làng Ra|múa rối nước làng Ra]] và là nơi khai sinh vở chèo [[Lưu Bình - Dương Lễ|Lưu Bình Dương Lễ]]. Đây cũng là quê hương của Tây Kỳ Vương [[Nguyễn Kính]], Trạng Bùng [[Phùng Khắc Khoan]] và nhiều danh nhân khác.<ref>{{Chú thích web|date=2021-04-14|title=Những làng nghề truyền thống huyện Thạch Thất|url=https://langngheviet.com.vn/nhung-lang-nghe-truyen-thong-huyen-thach-that-20460.html|website=|access-date=2026-07-25|last=Tạp chí Làng nghề Việt Nam|archive-url=https://web.archive.org/web/20260610222557/https://langngheviet.com.vn/nhung-lang-nghe-truyen-thong-huyen-thach-that-20460.html|archive-date=2026-06-10|url-status=bot: unknown}}</ref><ref>{{Chú thích web|last=Lê Hải|date=2025-03-21|title=Lễ hội chùa Tây Phương 2025: Vinh danh di sản văn hóa và bảo vật quốc gia|url=https://hanoi.gov.vn/tin-quan-huyen/le-hoi-chua-tay-phuong-2025-vinh-danh-di-san-van-hoa-va-bao-vat-quoc-gia-4250321172601537.htm|website=Ủy ban nhân dân Thành phố Hà Nội|access-date=2026-07-25|archive-url=https://web.archive.org/web/20250621074009/https://hanoi.gov.vn/tin-quan-huyen/le-hoi-chua-tay-phuong-2025-vinh-danh-di-san-van-hoa-va-bao-vat-quoc-gia-4250321172601537.htm|archive-date=2025-06-21|url-status=dead}}</ref>
+
+=== Trước năm 1976 ===
+
+=== Giai đoạn 1976 – nay ===
+Sau ngày 2 tháng 7 năm 1976, 8 xã: Bình Phú, Canh Nậu, Chàng Sơn, Dị Nậu, Hương Ngải, Hữu Bằng, Phùng Xá và Thạch Xá thuộc huyện [[Thạch Thất (huyện)|Thạch Thất]]; 3 xã: Hoàng Ngô, Ngọc Liệp và Yên Sơn thuộc huyện [[Quốc Oai (huyện)|Quốc Oai]] của tỉnh [[Hà Sơn Bình]].
+
+Ngày 29 tháng 12 năm 1978, sáp nhập huyện [[Thạch Thất (huyện)|Thạch Thất]] của tỉnh [[Hà Sơn Bình]] vào thành phố [[Hà Nội]]. Khi đó, 8 xã: Bình Phú, Canh Nậu, Chàng Sơn, Dị Nậu, Hương Ngải, Hữu Bằng, Phùng Xá và Thạch Xá thuộc huyện [[Thạch Thất (huyện)|Thạch Thất]] của thành phố [[Hà Nội]].<ref>Nghị quyết ngày 29 tháng 12 năm 1978 của Quốc hội khóa VI, Kỳ họp thứ 4 phê chuẩn việc phân vạch lại địa giới thành phố Hà Nội, thành phố Hồ Chí Minh, các tỉnh Hà Sơn Bình, Vĩnh Phú, Cao Lạng, Bắc Thái, Quảng Ninh và Đồng Nai.</ref>
+
+Ngày 23 tháng 12 năm 1988, thành lập thị trấn Quốc Oai trên cơ sở giải thể xã Hoàng Ngô của huyện [[Quốc Oai (huyện)|Quốc Oai]].<ref>Quyết định số 187-HĐBT ngày 23 tháng 12 năm 1988 của Hội đồng Bộ trưởng về việc thị trấn Quốc Oai của huyện Quốc Oai thuộc tỉnh Hà Sơn Bình.</ref>
+
+Ngày 12 tháng 8 năm 1991, chia tỉnh [[Hà Sơn Bình]] thành 2 tỉnh, lấy tên là tỉnh [[Hòa Bình (tỉnh)|Hòa Bình]] và tỉnh [[Hà Tây (tỉnh)|Hà Tây]]. Chuyển huyện [[Thạch Thất (huyện)|Thạch Thất]] của thành phố [[Hà Nội]] về tỉnh [[Hà Tây (tỉnh)|Hà Tây]]. Khi đó, 8 xã: Bình Phú, Canh Nậu, Chàng Sơn, Dị Nậu, Hương Ngải, Hữu Bằng, Phùng Xá và Thạch Xá thuộc huyện [[Thạch Thất (huyện)|Thạch Thất]]; thị trấn Quốc Oai và 2 xã: Ngọc Liệp, Yên Sơn thuộc huyện [[Quốc Oai (huyện)|Quốc Oai]] của tỉnh [[Hà Tây (tỉnh)|Hà Tây]].<ref>Nghị quyết ngày 12 tháng 8 năm 1991 của Quốc hội khóa VIII, Kỳ họp thứ 9 về việc điều chỉnh địa giới hành chính một số tỉnh, thành phố trực thuộc Trung ương.</ref>
+
+Ngày 29 tháng 5 năm 2008, hợp nhất tỉnh [[Hà Tây (tỉnh)|Hà Tây]] vào thành phố [[Hà Nội]]. Khi đó, 8 xã: Bình Phú, Canh Nậu, Chàng Sơn, Dị Nậu, Hương Ngải, Hữu Bằng, Phùng Xá và Thạch Xá thuộc huyện [[Thạch Thất (huyện)|Thạch Thất]]; thị trấn Quốc Oai và 2 xã: Ngọc Liệp, Yên Sơn thuộc huyện [[Quốc Oai (huyện)|Quốc Oai]] của thành phố [[Hà Nội]].<ref>Nghị quyết số 15/2008/QH12 ngày 29 tháng 5 năm 2008 của Quốc hội khóa XII, Kỳ họp thứ 3 về việc điều chỉnh địa giới hành chính thành phố Hà Nội và một số tỉnh có liên quan.</ref>
+
+Ngày 14 tháng 11 năm 2024:
+
+* Thành lập xã Phượng Sơn (huyện [[Quốc Oai (huyện)|Quốc Oai]]) trên cơ sở nhập xã Phượng Cách và xã Yên Sơn.
+* Thành lập xã Lam Sơn (huyện [[Thạch Thất (huyện)|Thạch Thất]]) trên cơ sở nhập xã Dị Nậu và xã Canh Nậu.
+* Thành lập xã Quang Trung (huyện [[Thạch Thất (huyện)|Thạch Thất]]) trên cơ sở nhập xã Hữu Bằng và xã Bình Phú.
+* Nhập xã Chàng Sơn (huyện [[Thạch Thất (huyện)|Thạch Thất]]) vào xã Thạch Xá.<ref>{{Chú thích web |tiêu đề=Nghị quyết số 1286/NQ-UBTVQH15 ngày 14 tháng 11 năm 2024 của Ủy ban Thường vụ Quốc hội về việc sắp xếp đơn vị hành chính cấp xã của thành phố Hà Nội giai đoạn 2023 – 2025 |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/11/1286-qh.signed.pdf |url-status=dead |archive-url=https://web.archive.org/web/20241121185017/https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/11/1286-qh.signed.pdf |ngày lưu trữ=2024-11-21 |ngày truy cập=2024-11-21 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+
+Ngày 16 tháng 6 năm 2025:
+
+* Kết thúc hoạt động của đơn vị hành chính cấp huyện trong cả nước.<ref>{{Chú thích web |last= |date= |title=Nghị quyết số 203/2025/QH15 ngày 16 tháng 6 năm 2025 của Quốc hội khóa XV, Kỳ họp thứ 9 về việc sửa đổi, bổ sung một số điều của Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/nq-sua-doi-hien-phap.pdf |url-status=live |archive-url=https://web.archive.org/web/20260613090807/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/nq-sua-doi-hien-phap.pdf |archive-date=2026-06-13 |access-date=2026-06-13 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+* Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của các xã Phùng Xá, Hương Ngải, Lam Sơn, Thạch Xá, một phần diện tích tự nhiên, quy mô dân số của xã Quang Trung (huyện [[Thạch Thất (huyện)|Thạch Thất]]), một phần diện tích tự nhiên của thị trấn Quốc Oai, xã Ngọc Liệp và xã Phượng Sơn (huyện [[Quốc Oai (huyện)|Quốc Oai]]) thành xã mới có tên gọi là xã Tây Phương.<ref>{{Chú thích web |title=Nghị quyết số 1656/NQ-UBTVQH15 ngày 16 tháng 6 năm 2025 của Ủy ban Thường vụ Quốc hội về việc sắp xếp các đơn vị hành chính cấp xã của thành phố Hà Nội năm 2025 |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf |url-status=bot: unknown |archive-url=https://web.archive.org/web/20260513110024/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf |archive-date=2026-05-13 |access-date=2026-06-30 |website=Cổng Thông tin điện tử Chính phủ }}</ref>
+* Sau khi sắp xếp, xã Tây Phương được chia thành 42 thôn.<ref>4 thôn: Bùng và Vĩnh Lộc từ 1 đến 3 của xã Phùng Xá cũ; 5 thôn, đánh số từ 1 đến 5 của xã Hương Ngải cũ; 9 thôn: 1, 2A, 2B, 3A, 3B, 4 (trước thuộc xã Canh Nậu), Đoàn Kết, Hòa Bình và Tam Nông (trước thuộc xã Dị Nậu) của xã Lam Sơn cũ; 9 thôn: từ 1 đến 4 (trước thuộc xã Chàng Sơn), Cầu Liêu, Đồng Sống, Tây Phương, Thạch và Yên của xã Thạch Xá cũ; 15 thôn: Bình Xá, Cuối Chùa, Đầu Làng, Đình Giữa, Phú Hòa, Thái Hòa (trước thuộc xã Bình Phú), Ba Mát, Bàn Giữa, Bò, Đình, Đông, Giếng, Miễu, Sen và Sy Chợ (trước thuộc xã Hữu Bằng) của xã Quang Trung cũ.</ref><ref>{{Chú thích web|title=Thông tư số 10/2022/TT-BTNMT ngày 29 tháng 9 năm 2022 của Bộ Tài nguyên và Môi trường về việc Ban hành Danh mục địa danh dân cư, sơn văn, thủy văn, kinh tế – xã hội phục vụ công tác thành lập bản đồ thành phố Hà Nội|url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2022/10/10-btnmt.pdf|url-status=bot: unknown|archive-url=https://web.archive.org/web/20260630082812/https://datafiles.chinhphu.vn/cpp/files/vbpq/2022/10/10-btnmt.pdf|archive-date=2026-06-30|access-date=2026-06-30|website=Cổng Thông tin điện tử Chính phủ}}</ref><ref>{{Chú thích web |last=|date=|title=Nghị quyết số 1/NQ-UBBC ngày 15 tháng 12 năm 2025 của Ủy ban bầu cử xã Tây Phương về việc ấn định và công bố số đơn vị bầu cử, danh sách các đơn vị bầu cử và số đại biểu được bầu ở mỗi đơn vị bầu cử đại biểu Hội đồng nhân dân xã Tây Phương nhiệm kỳ 2026 – 2031|url=https://sqhx-hanoi.mediacdn.vn/91579363132710912/2025/12/17/ubbc-nq-01-an-dinh-cong-bo-danh-sach-dvbc-so-luong-db-moi-dvbc-xa-tay-phuong0001-17659323388571147090568.pdf|url-status=dead|archive-url=https://web.archive.org/web/20260728201509/https://sqhx-hanoi.mediacdn.vn/91579363132710912/2025/12/17/ubbc-nq-01-an-dinh-cong-bo-danh-sach-dvbc-so-luong-db-moi-dvbc-xa-tay-phuong0001-17659323388571147090568.pdf|archive-date=2026-07-28|access-date=2026-07-28|website=Trang Thông tin điện tử xã Tây Phương – thành phố Hà Nội}}</ref>
+Ngày 24 tháng 12 năm 2025, xác định một phần của xã Tây Phương là [[Đô thị Việt Nam|đô thị loại III]].<ref>Chuyển tiếp từ thị trấn Quốc Oai thuộc huyện Quốc Oai.</ref><ref>{{Chú thích web|title=Nghị quyết số 111/2025/UBTVQH15 ngày 24 tháng 12 năm 2025 của Ủy ban Thường vụ Quốc hội về phân loại đô thị|url=https://cdn.nhandan.vn/files/f4a4abf7f9a0ba4a91744616546d850872b76917f90d5a74cc9eebef1369fb6f/111.pdf|url-status=dead|archive-url=https://web.archive.org/web/20260814175111/https://cdn.nhandan.vn/files/f4a4abf7f9a0ba4a91744616546d850872b76917f90d5a74cc9eebef1369fb6f/111.pdf|archive-date=2026-08-14|access-date=2026-07-12|website=Báo Nhân dân}}</ref>
+
+Ngày 25 tháng 6 năm 2026, thành lập 15 thôn mới: Hương Ngải 1, 2, Canh Nậu 2, 3, Dị Nậu 1, Tây Phương, Chàng Sơn 1, 2, Hữu Bằng từ 1 đến 3, Bình Phú, Phú Ổ, Vĩnh Lộc 1 và 2; đổi tên 3 thôn: 1, 4 Lam Sơn và Đoàn Kết lần lượt thành 3 thôn: Canh Nậu 1, 4 và Bến.<ref>1. Sáp nhập Thôn 1 Hương Ngải, Thôn 2 Hương Ngải và Thôn 3 Hương Ngải để thành lập thôn Hương Ngải 1; 2. Sáp nhập Thôn 4 Hương Ngải và Thôn 5 Hương Ngải để thành lập thôn Hương Ngải 2; 3. Đổi tên Thôn 1 Lam Sơn thành thôn Canh Nậu 1; 4. Đổi tên Thôn 4 Lam Sơn thành thôn Canh Nậu 4; 5. Sáp nhập các thôn 2A, 2B thành thôn Canh Nậu 2; 6. Sáp nhập các thôn 3A, 3B thành thôn Canh Nậu 3; 7. Sáp nhập thôn Hòa Bình và thôn Tam Nông thành thôn Dị Nậu; 8. Đổi tên thôn Đoàn Kết thành thôn Bến; 9. Sáp nhập thôn Cầu Liêu, thôn Đồng Sống và thôn Tây Phương thành thôn Tây Phương; 10. Sáp nhập thôn 1 Thạch Xá và thôn 2 Thạch Xá thành thôn Chàng Sơn 1; 11. Sáp nhập thôn 3 Thạch Xá và thôn 4 Thạch Xá thành thôn Chàng Sơn 2; 12. Giữ nguyên thôn Thạch và thôn Yên; 13. Sáp nhập các thôn Đình, Bàn, Ba Mát thành thôn Hữu Bằng 1; 14. Sáp nhập các thôn Sen, Si Chợ, Giếng thành thôn Hữu Bằng 2; 15. Sáp nhập các thôn Bò, Miễu, Đông thành thôn Hữu Bằng 3; 16. Sáp nhập các thôn Thái Hòa, Phú Hòa, Bình Xá thành thôn Bình Phú; 17. Sáp nhập các thôn Đầu Làng, Đình Giữa, Cuối Chùa thành thôn Phú Ổ; 18. Thành lập thôn Vĩnh Lộc 1 trên cơ sở toàn bộ thôn Vĩnh Lộc 1 và một phần thôn Vĩnh Lộc 2; 19. Thành lập thôn Vĩnh Lộc 2 trên cơ sở toàn bộ thôn Vĩnh Lộc 3 và phần còn lại của thôn Vĩnh Lộc 2; 20. Giữ nguyên thôn Bùng.</ref><ref name=":0">{{Chú thích web |last=Nguyễn Hằng |date=2026-06-08 |title=Xã Tây Phương tổ chức hội nghị lấy ý kiến đối với dự thảo đề án sắp xếp, sáp nhập, đổi tên thôn trên địa bàn |url=https://tayphuong.hanoi.gov.vn/cai-cach-hanh-chinh/xa-tay-phuong-to-chuc-hoi-nghi-lay-y-kien-doi-voi-du-thao-de-an-sap-xep-sap-nhap-doi-ten-thon-tren-dia-ban-2769260606175132815.htm?gidzl=Vk93LBBTa5bw_KTIkCQGM7JzGL6WnvPTRgz9KgANpbrjeHzJeCxCMcsc65IbdfeAPwPC3cNw3kOyjzoKMm |url-status=dead |archive-url=https://web.archive.org/web/20260728201509/https://tayphuong.hanoi.gov.vn/cai-cach-hanh-chinh/xa-tay-phuong-to-chuc-hoi-nghi-lay-y-kien-doi-voi-du-thao-de-an-sap-xep-sap-nhap-doi-ten-thon-tren-dia-ban-2769260606175132815.htm?gidzl=Vk93LBBTa5bw_KTIkCQGM7JzGL6WnvPTRgz9KgANpbrjeHzJeCxCMcsc65IbdfeAPwPC3cNw3kOyjzoKMm |archive-date=2026-07-28 |access-date=2026-07-28 |website=Trang Thông tin điện tử xã Tây Phương – thành phố Hà Nội}}</ref><ref name=":1">{{Chú thích web |last=Kiều Linh |date=2026-06-09 |title=Tây Phương triển khai phát phiếu lấy ý kiến nhân dân về sắp xếp, sáp nhập thôn |url=https://tayphuong.hanoi.gov.vn/cai-cach-hanh-chinh/tay-phuong-trien-khai-phat-phieu-lay-y-kien-nhan-dan-ve-sap-xep-sap-nhap-thon-2769260608165407878.htm |url-status=dead |archive-url=https://web.archive.org/web/20260728201509/https://tayphuong.hanoi.gov.vn/cai-cach-hanh-chinh/tay-phuong-trien-khai-phat-phieu-lay-y-kien-nhan-dan-ve-sap-xep-sap-nhap-thon-2769260608165407878.htm |archive-date=2026-07-28 |access-date=2026-07-28 |website=Trang Thông tin điện tử xã Tây Phương – thành phố Hà Nội}}</ref><ref name=":2">{{Chú thích web |title=Thông báo số 373/TB-UBND ngày 19 tháng 6 năm 2026 của Ủy ban nhân dân xã Tây Phương về việc niêm yết công khai kết quả lấy ý kiến nhân dân về Đề án sắp xếp thôn dân cư trên địa bàn xã Tây Phương |url=https://web.facebook.com/story.php?story_fbid=122212840022516361&id=61565490837892&rdid=KHleWFAQG4VwEWr0# |url-status=dead |archive-url=https://web.facebook.com/story.php?story_fbid=122212840022516361&id=61565490837892&rdid=KHleWFAQG4VwEWr0#https://web.facebook.com/story.php?story_fbid=122212840022516361&id=61565490837892&rdid=KHleWFAQG4VwEWr0# |archive-date=2026-07-28 |access-date=2026-07-28 |website=Trang Truyền thông xã Tây Phương – thành phố Hà Nội}}</ref><ref name=":3">{{Chú thích web |title=Thông báo số 392/TB-UBND ngày 29 tháng 6 năm 2026 của Ủy ban nhân dân xã Tây Phương về việc công bố Nghị quyết số 28/NQ-HĐND ngày 25/6/2026 của Hội đồng nhân dân xã Tây Phương về thành lập, sắp xếp, đổi tên thôn và danh sách các thôn sau thành lập, sắp xếp, đổi tên trên địa bàn xã Tây Phương |url=https://sqhx-hanoi.mediacdn.vn/91579363132710912/2026/6/30/tb-cong-bo-nghi-quyet-cua-hdnd-xa-ve-sap-xep-thon-1782815182481876369142.pdf |url-status=dead |archive-url=https://web.archive.org/web/20260728201509/https://sqhx-hanoi.mediacdn.vn/91579363132710912/2026/6/30/tb-cong-bo-nghi-quyet-cua-hdnd-xa-ve-sap-xep-thon-1782815182481876369142.pdf |archive-date=2026-07-28 |access-date=2026-07-28 |website=Trang Thông tin điện tử xã Tây Phương – thành phố Hà Nội}}</ref>
+
+== Hành chính ==
+Xã Tây Phương được chia thành 21 thôn: Bến, Bình Phú, Bùng, Canh Nậu từ 1 đến 4, Chàng Sơn 1, 2, Dị Nậu, Hương Ngải 1, 2, Hữu Bằng từ 1 đến 3, Phú Ổ, Tây Phương, Thạch, Vĩnh Lộc 1, 2 và Yên.<ref name=":0" /><ref name=":1" /><ref name=":2" /><ref name=":3" />
+{| class="wikitable sortable" align="center" width="100%" cellspacing="6" cellpadding="0" style="background: #f9f9f9; border: 1px #aaa solid; margin-top: 16px"
+! colspan="4" style="background: #E6E6FA; font-size: 95%;" |Danh sách các thôn thuộc xã Tây Phương<ref name=":0" /><ref name=":1" /><ref name=":2" /><ref name=":3" />
+|-
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Bến
+|753
+|-
+| align="left" |Bình Phú
+|1.414
+|-
+| align="left" |Bùng
+| -
+|-
+| align="left" |Canh Nậu 1
+|770
+|-
+| align="left" |Canh Nậu 2
+|1.248
+|-
+| align="left" |Canh Nậu 3
+|1.213
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Canh Nậu 4
+|744
+|-
+| align="left" |Chàng Sơn 1
+|1.409
+|-
+| align="left" |Chàng Sơn 2
+|1.589
+|-
+| align="left" |Dị Nậu
+|1.450
+|-
+| align="left" |Hương Ngải 1
+|1.627
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Hương Ngải 2
+|1.207
+|-
+| align="left" |Hữu Bằng 1
+|1.622
+|-
+| align="left" |Hữu Bằng 2
+|1.651
+|-
+| align="left" |Hữu Bằng 3
+|1.677
+|-
+| align="left" |Phú Ổ
+|1.547
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Tây Phương
+|688
+|-
+| align="left" |Thạch
+| -
+|-
+| align="left" |Vĩnh Lộc 1
+| rowspan="2" |2.474
+|-
+| align="left" |Vĩnh Lộc 2
+|-
+| align="left" |Yên
+| -
+|}
+|}<!-- 
+
+== Lịch Sử ==
+Trước đây Thạch Xá là xã thuộc huyện [[Thạch Thất (huyện)|Thạch Thất]], phủ [[Quốc Oai (huyện)|Quốc Oai]], tỉnh Sơn Tây. Từ năm 1965 thuộc tỉnh Hà Tây, đến năm 1975 thuộc tỉnh [[Hà Sơn Bình]]. Từ 1978 đến 1991 nhập vào thủ đô [[Hà Nội]]. Từ năm 1991 lại trở về với tỉnh [[Hà Tây (tỉnh)|Hà Tây]]. Từ 1 tháng 8 năm 2008 thuộc thủ đô [[Hà Nội]], khi [[Hà Tây]] được sáp nhập vào [[Hà Nội]]
+
+== Văn Hoá ==
+Thạch Xá nổi bật nên có [[chùa Tây Phương]] nằm trên núi Câu Lâu và được công nhận là [[Di tích quốc gia đặc biệt (Việt Nam)|Di tích quốc gia đặc biệt]] của thủ đô [[Hà Nội]]. 
+Thạch Xá có được nhắc đến là một làng nghề truyền thống, đó là làm bánh chè lam và chuồn chuồn tre, bánh chè lam nằm trong những món đặc sản không thể quên của thủ đô [[Hà Nội]]
+
+[[Tập_tin:Thập_Bát_La_Hán_-_Chùa_tây_Phương_-_La_Hán_Cười.jpg|thế=|không_khung|250x250px|Thập_Bát_La_Hán_-_Chùa_tây_Phương_-_La_Hán_Cười]] [[Tập_tin:La_Hán_chùa_Tây_Phương.JPG|không khung|250x250px|La_Hán_chùa_Tây_Phương]] [[Tập_tin:1_trong_18_La_Hán_chùa_Tây_Phương.jpg|không khung|250x250px|1_trong_18_La_Hán_chùa_Tây_Phương]]
+
+
+Hương Ngải là một xã có bề dày truyền thống văn hóa. Nơi đây có nhiều [[Di tích lịch sử văn hóa quốc gia|di tích lịch sử - văn hóa]] như: đền thờ Đức Thánh Mẫu Liễu Hạnh, đình làng Hương Ngải, chùa Hương Ngải,...
+
+Năm 2021, Hương Ngải được công nhận là xã đạt chuẩn nông thôn mới nâng cao.
+
+== Lịch sử ==
+Trước đây Hương Ngải là xã thuộc huyện [[Thạch Thất (huyện)|Thạch Thất]], phủ Quốc Oai, tỉnh [[Sơn Tây (tỉnh Việt Nam)|Sơn Tây]]. Từ năm [[1965]] thuộc tỉnh Hà Tây, đến năm 1975 thuộc tỉnh [[Hà Sơn Bình]]. Từ [[1978]] đến [[1991]] nhập vào thủ đô [[Hà Nội]]. Từ năm 1991 lại trở về với tỉnh [[Hà Tây (tỉnh)|Hà Tây]]. Từ 1 tháng 8 năm 2008 thuộc Hà Nội, khi [[Hà Tây (tỉnh)|Hà Tây]] được sáp nhập vào [[Hà Nội]]
+
+== Đơn vị hành chính ==
+Xã Hương Ngải trước đây bao gồm 4 thôn: Nậu Thượng, Nậu Trong, Nậu Hạ và Nậu Tư. Nay được phân lại thành 9 thôn, đánh số từ 1 đến 9.
+
+== Di tích - Danh thắng ==
+* Đầu Làng có quán [[Nghinh Hương]], tương truyền trước sau quán có 7 cây cổ thụ được trồng theo hình sao Bắc Đẩu, tượng trưng cho một làng xã có tiếng văn học. Quán Nghinh Hương được coi là nơi đã truyền tải và Việt hoá tích chèo cổ [[Lưu Bình - Dương Lễ]], một tích chèo giàu giá trị nhân văn của danh sĩ [[Vũ Trinh]], in sâu trong tâm trí nhiều thế hệ người dân Việt Nam. Và cũng là nơi tổ chức lễ Nghinh hương đón sĩ tử đỗ đạt ghi danh bảng vàng, hồi hương vinh qui bái tổ. Đến nay, vẫn còn truyền tụng câu ca:
+:''"Chúc sỹ tử ứng thí tranh khôi''
+:''Nghinh tân khoa hồi hương bái tổ"''.
+* Giữa làng có miếu thờ Tam vị Thần hoàng làng đón các già làng thọ trăm tuổi và những người đỗ đại khoa trở lên ngồi tế lễ. Đó là một cái đích để các sỹ tử Hương Ngải phấn đấu học hành và các cụ trong làng gắng luyện rèn sức khỏe để sống lâu. Tại đây có treo bức đại tự lớn do vua Tự Đức ban tặng năm 1874 với 4 chữ: '''"Mỹ tục khả phong"'''. Hai bên là câu đối của Đình nguyên Hoàng Giáp [[Nguyễn Đăng Huân]]:
+:''"Quốc Oai dực chấn Trung hưng tích''
+:''Thạch Thất lưu hương thượng đẳng từ"''.
+* Cuối làng có Bia Văn chỉ, trong đó có đoạn viết:
+: ''"Ôi, thờ cúng và khắc bia các vị hương hiền không dám chỉ vì các vị đó, mà muốn mong con cháu sau này nối tiếp truyền thống vẻ vang của các cụ mà thôi. Thảng hoặc sau này, nếu ai có chí qua đây chiêm ngưỡng mà thấy hứng khởi, đó là điều mong muốn của cả làng ta vậy..."''.
+: Ngoài ra giữa Làng còn có Võ chỉ ghi lại sự tích, công trạng của 8 võ tướng đã lập được nhiều chiến công lớn trong các triều đại phong kiến. Như Đại trụ Quận công Bùi Khắc Vinh, Điện tiền chỉ huy sứ Cấn Hiên, Vũ thế Phó bảng Phí Đăng Thịnh,...
+
+== Truyền thống khoa bảng ==
+Qua ghi chép của một số thư tịch cổ, làng có sáu người đỗ đại khoa là:
+# [[Liêu Hiến Chương]], đỗ Thái học sinh triều Lý.
+# [[Liêu Hiến Quang]], đỗ Thái học sinh triều Lý.
+# [[Đỗ Hịch]], đỗ Đệ tam giáp đồng tiến sĩ triều Lê (Năm 1493)
+# [[Phí Thạc]], đỗ Đệ nhị giáp tiến sĩ xuất thân triều Mạc (Năm 1529)
+# [[Đỗ Thê]], đỗ Đệ tam giáp đồng tiến sĩ triều Lê (Năm 1685). Là cháu 7 đời của Tiến sĩ [[Đỗ Hịch]]
+# [[Nguyễn Đăng Huân]], sinh năm 1805, đỗ [[Thủ khoa nho học Việt Nam|Đình nguyên]] - [[Hoàng giáp]] tiến sĩ khoa Kỷ Sửu 1829, niên hiệu [[Minh Mạng]] thứ 10.
+
+
+== Lược sử ==
+'''Xã Phùng Xá''' ngày nay gồm hai làng cổ là '''Phùng Thôn''' (tên nôm là '''làng Bùng''') và '''Vĩnh Lộc'''. Theo tư liệu dân gian, '''làng Bùng''' xưa kia có tên là '''An Hoa Trang''', là mảnh đất nổi danh không chỉ bởi truyền thống văn hóa mà còn bởi bề dày thành tựu trong học vấn và khoa bảng. xã có hai làng cổ nổi bật là '''Vĩnh Lộc''' và '''Bùng'''. Trong đó, '''Vĩnh Lộc''' được biết đến là '''làng nghề truyền thống''', nơi người dân sinh sống bằng các nghề thủ công lâu đời. Còn '''Bùng''' lại nổi danh là '''làng học''', nơi sản sinh ra nhiều thế hệ học trò xuất sắc và mang đậm truyền thống hiếu học của vùng đất Thạch Thất.
+
+
+Trong khi đó, '''làng Vĩnh Lộc''' trước kia có tên gọi là '''làng Lọc ''(Dân gian còn gọi là Nủa Bừa)''''', về sau được '''vua ban tên là Vĩnh Lộc''' – mang ý nghĩa '''"đời đời hưởng lộc của vua"'''. Làng Vĩnh Lộc từ lâu đã nổi tiếng với nghề '''cơ kim khí truyền thống''', chuyên chế tạo các '''dụng cụ nông nghiệp''' như cày, quốc, xẻng... phục vụ sản xuất cho cả một vùng rộng lớn.
+
+'''Làng Bùng''' lại từng là nơi phát triển thịnh vượng nghề '''dệt chồi (hoặc sồi), lụa và lượt'''. Đặc biệt, các sản phẩm như '''khăn lượt, áo lượt, giấy lọc bột'''... đều phải dùng đến '''lượt Bùng''' – cho thấy trình độ tinh xảo của nghề dệt nơi đây từ thuở xa xưa. Không những vậy, làng Bùng còn được xem là '''mảnh đất học''', nơi sản sinh ra nhiều bậc hiền tài, tiêu biểu là '''Trạng nguyên Phùng Khắc Khoan''' – người được mệnh danh là '''"Trạng Bùng"''', một danh sĩ lỗi lạc của thời Lê - Mạc. Đến ngày nay, nơi đây vẫn là quê hương của nhiều vị lãnh đạo cấp cao của '''huyện Thạch Thất''' cũng như '''thành phố Hà Nội'''.
+
+== Dân cư ==
+'''Phùng Xá''' là một trong những xã có '''diện tích rộng lớn''' của huyện '''Thạch Thất''', thành phố Hà Nội. Về mặt dân cư, xã hiện được chia thành hai cộng đồng chính là '''dân cư làng Bùng''' và '''dân cư làng Vĩnh Lộc''', mỗi làng mang một nét đặc trưng riêng về lịch sử, văn hóa và phân bố địa lý.
+
+* '''Cộng đồng dân cư làng Vĩnh Lộc''' có '''sự phân bố rộng rãi''', không chỉ trong địa bàn xã mà còn vươn ra cả các vùng lân cận. Chủ yếu người dân tập trung tại các khu vực truyền thống như '''Vĩnh Lộc 1, Vĩnh Lộc 2 và Vĩnh Lộc 3'''. Ngoài ra, một bộ phận lớn cư dân làng Vĩnh Lộc còn sinh sống và kinh doanh tại các '''khu công nghiệp''' được nhà nước quy hoạch hoặc '''do chính người dân địa phương đầu tư phát triển''', tiêu biểu như:
+** '''Khu công nghiệp Phùng Xá''',
+** '''Khu Duy Thịnh''' (tọa lạc trên địa bàn xã Bình Phú, do người dân Vĩnh Lộc mua lại phục vụ sản xuất – kinh doanh),
+** '''Khu Văn Minh''',
+** '''Khu Đồng Vàng''',
+** Và đặc biệt là '''khu dịch vụ Vĩnh Lộc''' – khu vực giáp ranh với xã Hữu Bằng, hiện nay đang thu hút đông đảo người dân Hữu Bằng đến '''mua, thuê đất để sinh sống và buôn bán'''.
+* Trong khi đó, '''dân cư làng Bùng''' vẫn giữ được sự '''quần cư chặt chẽ''', với gần như '''100% người dân đang sinh sống tập trung tại Thôn Bùng''' – khu vực trung tâm của làng truyền thống, nơi lưu giữ những giá trị văn hóa – lịch sử lâu đời.
+
+== Văn hóa ==
+Lễ hội làng Bùng, xã Phùng Xá, huyện Thạch Thất, Hà Nội, là một sự kiện văn hóa truyền thống đặc sắc, diễn ra hàng năm từ ngày mùng 6 đến mùng 10 tháng Giêng âm lịch. Nét nổi bật nhất của lễ hội là '''hội vật truyền thống''', thu hút đông đảo người dân địa phương và du khách tham gia.​
+
+=== HỘI LÀNG BÙNG - PHÙNG XÁ ===
+
+=== Nguồn gốc và ý nghĩa ===
+Hội vật làng Bùng được tổ chức nhằm tưởng nhớ công ơn '''Thành Hoàng làng Bùng – tướng quân Phùng Thanh Hòa''', người có công tập hợp nghĩa sĩ trong vùng luyện tập võ nghệ, giúp vua chống lại giặc Lương và truyền dạy võ vật cho trai tráng làng Bùng.
+
+=== Hoạt động chính ===
+Hội vật làng Bùng không giới hạn độ tuổi, hạng cân hay giới tính của các đô vật, coi trọng tinh thần thượng võ, không đặt nặng tính ăn thua hay giải thưởng. Trước khi bước vào sới vật, các đô vật thực hiện nghi lễ "xe đài" – một hình thức khởi động mang tính dân tộc, vừa thể hiện sự tôn kính vừa trình diễn sức mạnh và sự dẻo dai.
+
+=== Giá trị văn hóa ===
+Hội vật làng Bùng đã trở thành một môn thể thao góp phần giữ gìn và phát huy giá trị văn hóa truyền thống của dân tộc. Người dân làng Bùng dù đi làm ăn xa cũng quay về làng để tham gia hội vật, tạo không khí vui tươi, phấn khởi trong những ngày đầu xuân mới. Thông qua hội vật, địa phương cũng phát hiện và bồi dưỡng những tài năng cho bộ môn vật của huyện Thạch Thất.
+
+Lễ hội làng Bùng không chỉ là dịp để tưởng nhớ công ơn của các bậc tiền nhân mà còn là cơ hội để cộng đồng gắn kết, phát huy truyền thống văn hóa và tinh thần thượng võ của dân tộc<gallery>
+Tập tin:Hội vật làng Bùng.jpg|Hội vật làng Bùng diễn ra vào khoảng mùng 4 Tết nguyên đán
+</gallery>
+
+=== HỘI LÀNG VĨNH LỘC - PHÙNG XÁ ===
+Hội làng Vĩnh Lộc, xã Phùng Xá, huyện Thạch Thất, Hà Nội, là một lễ hội truyền thống mang đậm bản sắc văn hóa dân gian, được tổ chức để tưởng nhớ các vị Thành hoàng làng và tôn vinh nghề truyền thống của địa phương.
+
+=== Thời gian tổ chức ===
+Lễ hội thường được tổ chức vào ngày 4 tháng Giêng âm lịch hàng năm. Ngoài ra, cứ mỗi 5 năm một lần, vào ngày mùng 7 tháng Giêng, lễ hội được tổ chức quy mô lớn hơn để tưởng nhớ công ơn của tam vị Thành hoàng họ Vũ, với sự tham gia đông đảo của dân làng và khách thập phương .
+
+=== Nghi lễ và hoạt động ===
+Lễ hội bắt đầu với phần rước kiệu từ Quán Vĩnh Lộc đến Cầu Cả, sau đó rước về Đình làng Vĩnh Lộc. Trong quá trình rước, người dân nơi đoàn rước đi qua thường bày biện lễ vật trước cửa nhà, mặc trang phục trang trọng (thường là áo dài) và chắp tay hành lễ khi đoàn rước đi qua. Phần lễ bao gồm các nghi thức tế lễ, dâng hương và lễ mặn. Phần hội có thể bao gồm các hoạt động như kéo co , đi cầu khỉ .... (trong quá khứ có thể là thi làm cày bừa), thể hiện sự gắn bó với nghề truyền thống của làng .​
+
+=== Ý nghĩa văn hóa ===
+Lễ hội nhằm tưởng nhớ các vị Thành hoàng làng Vĩnh Lộc, những người có công với dân làng và nghề truyền thống. Đây cũng là dịp để cộng đồng dân cư thể hiện lòng biết ơn, gắn kết tình làng nghĩa xóm và duy trì, phát huy các giá trị văn hóa truyền thống của địa phương.<gallery>
+Tập tin:Đoàn lễ chuẩn bị rước thánh.jpg|Một số hình ảnh về hoạt động hội làng Vĩnh Lộc 2025
+Tập tin:Tam Thánh Làng Vĩnh Lộc.jpg
+Tập tin:Một trong ba vị thánh đang được rước.jpg
+Tập tin:Hoạt động kéo co trong hội làng.jpg
+Tập tin:Lễ khai hội truyền thống Vĩnh Lộc.jpg
+Tập tin:Bạch mã.jpg
+</gallery>Từ hai lễ hội truyền thống đặc sắc của làng Bùng và làng Vĩnh Lộc, có thể thấy rõ nét văn hóa lâu đời và tinh thần cộng đồng bền chặt của người dân xã Phùng Xá. Nếu như lễ hội làng Bùng mang đậm dấu ấn của một vùng đất hiếu học, tôn vinh truyền thống khoa bảng và các bậc danh nhân như Trạng Bùng Phùng Khắc Khoan, thì lễ hội làng Vĩnh Lộc lại thể hiện lòng tri ân đối với các vị Thành hoàng làng và nghề truyền thống cơ kim khí, qua những nghi lễ rước kiệu, tế lễ trang nghiêm cùng các hoạt động mang đậm tính nghề nghiệp. Cả hai lễ hội không chỉ góp phần bảo tồn và phát huy các giá trị văn hóa dân gian, mà còn là dịp để cộng đồng người dân Phùng Xá cùng nhau ôn lại cội nguồn, tăng thêm sự gắn kết và niềm tự hào về quê hương mình.[[Tập tin:Khu công nghiệp Phùng Xá.jpg|nhỏ|Khu công nghiệp làng nghề Phùng Xá]]
+
+== Kinh tế ==
+'''Phùng Xá''' là một trong những xã có nền kinh tế phát triển năng động bậc nhất huyện '''Thạch Thất'''. Với lợi thế từ '''làng nghề truyền thống Vĩnh Lộc''' – nơi hội tụ tinh hoa lao động và kỹ nghệ thủ công – Phùng Xá đã trở thành cái nôi sản sinh ra phần lớn các doanh nghiệp, cơ sở sản xuất quan trọng của toàn huyện. Chính làng nghề này đã đóng vai trò như một bàn đạp mạnh mẽ thúc đẩy kinh tế địa phương không ngừng vươn lên.
+
+'''Làng Vĩnh Lộc''' được báo chí ưu ái mệnh danh là '''“làng giám đốc”''', bởi nơi đây có tỷ lệ hộ gia đình làm kinh doanh thuộc hàng cao nhất cả nước – '''trung bình cứ 4 gia đình thì có 1 gia đình sở hữu doanh nghiệp riêng'''. Đáng chú ý, không hiếm những gia đình có '''3–4 anh em ruột''' đều là giám đốc các công ty khác nhau, thể hiện tinh thần khởi nghiệp mạnh mẽ và tư duy kinh doanh bền vững đã ăn sâu vào nếp sống làng nghề.[[Tập tin:Khu công nghiệp Duy Thịnh.jpg|nhỏ|Các xe chở tôn thép đứng chờ dỡ hàng tại khu công nghiệp Phùng Xá]]
+
+Trước kia, người dân Vĩnh Lộc nổi tiếng với '''nghề cơ khí truyền thống''', nhưng cùng với sự chuyển mình của nền kinh tế thị trường, họ đã nhanh chóng thích nghi và '''chuyển hướng sang ngành công nghiệp thép''' – một lĩnh vực đòi hỏi cả kỹ thuật lẫn tầm nhìn kinh tế nhạy bén. Chính sự năng động và đổi mới ấy đã góp phần đưa Vĩnh Lộc trở thành một điểm sáng về phát triển kinh tế không chỉ của xã '''Phùng Xá''', mà còn của toàn huyện '''Thạch Thất'''.
+
+Các doanh nghiệp tại '''xã Phùng Xá''' không chỉ năng động trong sản xuất kinh doanh mà còn rất '''chịu khó học hỏi, cập nhật công nghệ hiện đại''' để nâng cao năng suất lao động. Đặc biệt trong lĩnh vực '''kinh doanh và gia công thép''', hầu hết các công ty đều đã '''đầu tư mạnh vào máy móc tiên tiến''', nhiều thiết bị được '''nhập khẩu trực tiếp từ nước ngoài''' nhằm đáp ứng yêu cầu sản xuất ngày càng cao.
+
+Nhiều doanh nghiệp trong xã hiện nay sở hữu '''các máy cắt CNC hiện đại''', có giá trị lên đến '''hàng chục tỷ đồng''', cho thấy sự quyết tâm trong việc '''đổi mới công nghệ''' và theo kịp xu hướng của ngành công nghiệp hiện đại. Chính nhờ tư duy mở, dám nghĩ dám làm và mạnh dạn đầu tư, Phùng Xá đang ngày càng khẳng định vị thế là '''trung tâm kinh tế công nghiệp trọng điểm''' của huyện '''Thạch Thất'''.
+[[Tập tin:Kho xưởng của một doanh nghiệp buôn Thép tại địa phương.jpg|nhỏ|Kho xưởng của một doanh nghiệp Thép]]
+Theo '''số liệu thống kê năm 2020''', toàn huyện '''Thạch Thất''' có hơn '''2.576 doanh nghiệp''' đang hoạt động. Trong đó, riêng '''xã Phùng Xá''' đã chiếm '''khoảng 1/5 tổng số doanh nghiệp toàn huyện''' – '''tỷ lệ cao nhất trong các xã, thị trấn của Thạch Thất'''. Phần lớn các doanh nghiệp này tập trung tại '''làng nghề Vĩnh Lộc''', nơi có truyền thống làm cơ khí và hiện đang phát triển mạnh trong lĩnh vực '''kinh doanh, gia công thép'''. Ngoài ra, Phùng Xá còn có hàng trăm '''cơ sở sản xuất nhỏ lẻ''' đang hoạt động, góp phần quan trọng vào việc '''tạo công ăn việc làm cho người dân địa phương'''.
+
+Không chỉ thu hút doanh nghiệp trong nước, '''Phùng Xá''' còn là điểm đến hấp dẫn của '''nhiều tập đoàn, công ty nước ngoài''' đến từ '''Nhật Bản, Hàn Quốc, Singapore, Hồng Kông...''' chọn làm nơi đặt '''nhà máy sản xuất'''. Một số doanh nghiệp tiêu biểu có thể kể đến như:[[Tập tin:Máy chấn CNC của một doanh nghiệp gia công Thép.jpg|nhỏ|Máy chấn CNC của một doanh nghiệp địa phương]]
+* '''Meiko Electronics'''
+* '''Công ty Young Fast'''
+* '''URC Việt Nam'''
+* '''Công ty Bánh mứt kẹo Hà Nội'''
+* '''Công ty Xà phòng Hà Nội'''
+* '''Tổng công ty Bia - Rượu - Nước giải khát Hà Nội (HABECO)'''
+* '''Công ty Thuốc lá Thăng Long'''
+* '''Công ty Bánh kẹo Tràng An'''
+
+Sự hiện diện của các doanh nghiệp lớn và tập đoàn quốc tế không chỉ thúc đẩy '''sự phát triển kinh tế toàn diện''' cho xã Phùng Xá mà còn '''tạo ra hàng chục nghìn việc làm mỗi năm''', nâng cao đời sống cho người dân và khẳng định vị thế của Phùng Xá như một '''trung tâm công nghiệp năng động hàng đầu huyện Thạch Thất'''.[[Tập tin:Máy cắt CNC hiện đại của một doanh nghiệp chuyên gia công Thép.jpg|nhỏ|Máy cắt hiện đại của một doanh nghiệp gia công Thép]]
+
+'''Không chỉ nổi bật về phát triển kinh tế, Phùng Xá còn là một trong những địa phương đi đầu trong phong trào xây dựng nông thôn mới của huyện Thạch Thất. Bắt đầu triển khai từ năm 2011, đến nay xã đã đạt và cơ bản hoàn thành 19/19 tiêu chí trong chương trình xây dựng nông thôn mới. Với những nỗ lực và thành tựu nổi bật đó, Phùng Xá vinh dự được Thủ tướng Chính phủ tặng bằng khen, là một trong 6 xã tiêu biểu của huyện Thạch Thất đạt chuẩn nông thôn mới.'''
+
+'''Cùng với các làng nghề truyền thống lân cận như Hữu Bằng, Chàng Sơn..., Phùng Xá đã và đang góp phần hình thành nên một vùng đất trù phú, năng động và thịnh vượng, nơi hội tụ giữa truyền thống và hiện đại, giữa lao động sáng tạo và tư duy hội nhập.'''
+== Nhân vật nổi tiếng ==
+Các nhân vật nổi tiếng sinh ra ở xã này gồm:<ref name=PKK>{{chú thích web|url=http://www.thachthat.gov.vn/ph%C3%B9ng-kh%E1%BA%AFc-khoan-ngày 6 tháng 6 năm 2010.aspx|title=Phùng Khắc Khoan|publisher=Ủy ban Nhân dân huyện [[Thạch Thất (huyện)|Thạch Thất]]|access-date =ngày 23 tháng 10 năm 2012}}{{Liên kết hỏng|date = ngày 25 tháng 6 năm 2021 |bot=InternetArchiveBot }}</ref>
+
+* Đại tư mã [[Nguyễn Cảnh Câu]] thời Lý
+* Hàn Lâm viện thị thư Thám hoa [[Nguyễn Đăng Đạt]] thời Trần
+* Đặc tiến Kim tử Vinh Lộc Đại phu tiến sĩ [[Vũ Đình Dung]]
+* [[Nguyễn Nham]]
+* [[Phùng Khắc Khoan]] (Trạng Bùng)
+* [[Phú Quang|Nhạc sĩ Phú Quang]]
+* [[Phùng Khắc Đăng|Trung tướng Phùng Khắc Đăng]] (nguyên Phó chủ nhiệm Tổng cục Chính trị) hậu duệ đời thứ bảy của Trạng bùng Phùng Khắc Khoan
+* VDV Cấn Tất Dự
+
+Đình Hữu Bằng, còn có tên nôm là đình Kẻ Nủa, thuộc xã Hữu Bằng, huyện Thạch Thất, cách trung tâm thành phố Hà Nội khoảng 23&nbsp;km.
+
+Đình Hữu Bằng toạ lạc ở trên khu đất cao, của đình trông về hướng Tây, phía trước có hồ sen rộng, mùa thu hoa nở đưa nhuỵ hương thơm ngào ngạt vào trong đình. Nhìn tổng thể khu di tích kiến trúc kiểu chữ đinh, gồm Đại bái và Hậu cung.
+
+Ngôi nhà Đại bái nằm ngang 3 gian 2 dĩ, khoảng cách các gian tương đối rộng. Gian giữa rộng 4,1m, các gian bên rộng 3,45m, chái rộng 3,25m, dĩ rộng 1,6m. Bộ vì đỡ mái làm theo kiểu chồng giường, giá chiêng có 6 hàng chân, khoảng cách từ cột cái đến cột quân là 2m, từ cột quân đến cột hiên là 1,7m. Đường kính cột cái là 50&nbsp;cm, cột quân là 40&nbsp;cm. Cung thờ là toà nhà dọc nối liền với Đại bái, chia làm bốn gian cách đều 2,3m. Theo văn khắc trên câu đầu thì đình Hữu Bằng được xây dựng vào thời Lê năm Chính Hoà 10 (1689) đến triều Nguyễn năm Minh Mệnh 8(1827) trùng tu lớn.
+
+Đình Hữu Bằng bảo lưu nhiều hiện vật điêu khắc gỗ mang phong cách nghệ thuật tiêu biểu ở thế kỷ XVII và thế kỷ XIX. Đáng chú ý là những đầu dư chạm đầu rồng và 4 bức cốn nách ở 2 bộ vì gian giữa chạm người đánh trống, uống rượu, đánh đàn, đấu võ, miêu tả cảnh sinh hoạt hôi hè của người dân Hữu Bằng thuở xưa. Đình Hữu Bằng còn lưu giữ được 27 đạo sắc của các triều vua thời phong kiến cho các vị thành hoàng và 5 cỗ kiệu sơn son thiếp vàng phong cách điêu khắc nghệ thuật thế kỷ XIX, như bát bửu, xà mâu, cây đèn, quán tẩy... nghệ thuật thời Nguyễn.
+
+==Giao thông ==
+# Xã nằm cách trung tâm của thủ đô Hà Nội khoảng 23&nbsp;km, và được nối liền bởi trục đường giao thông quan trọng Láng - Hòa Lạc.
+
+==Kinh tế==
+Hữu Bằng mang đặc điểm một làng nghề nổi tiếng có lịch sử truyền thống lâu đời, đất chật nhưng người thì đông. Trước đây xã là một làng nghề dệt truyền thống có tiếng. Tuy nhiên, thời gian gần đây nghề dệt dần bị thay thế cho nghề kinh doanh đồ gỗ và sofa.
+
+'''Xã Hữu Bằng hiện nay có khoảng 8.750 hộ gia đình trong đó 5.850 hộ gia đình tham gia nghề gỗ, chiếm 75% tổng số hộ trong xã. Nghề gỗ là phần thu nhập chính của xã, hàng năm đóng góp khoảng 80% trong tổng thu nhập của toàn xã.'''<ref>{{Chú thích web|url=http://thoibaovietlangnghe.com.vn/lang-nghe/lang-nghe-go-huu-bang-thach-that-ha-noi-da-dang-hoa-san-pham-de-phat-trien.html10258|tiêu đề=Làng nghề gỗ Hữu Bằng, Thạch Thất (Hà Nội): Đa dạng hoá sản phẩm để phát triển|website=Thời Báo Việt Làng Nghề|ngày truy cập=2018-08-01|archive-date = ngày 1 tháng 8 năm 2018 |archive-url=https://web.archive.org/web/20180801124823/http://thoibaovietlangnghe.com.vn/lang-nghe/lang-nghe-go-huu-bang-thach-that-ha-noi-da-dang-hoa-san-pham-de-phat-trien.html10258}}</ref>
+
+Cùng với sự phát triển và chọn lọc tự nhiên đã hình thành lên một chuỗi cung ứng nội bộ trong chính làng nghề. Từ các đơn vị cung ứng nguyên liên, vật liệu, máy móc thiết bị - đến công đoạn sản xuất và phân phối sản phẩm. Tại Hữu Bằng, nguyên liệu gỗ thường do các công ty cung ứng. Các hộ gia đình tham gia với vai trò chế biến, sản xuất và tiêu thụ sản phẩm. Tuy nhiên các hộ cũng chia thành nhóm và đảm nhận các công đoạn khác nhau trong chế biến. Nhà thì làm phần thô, nhà thì nhập sản phẩm thô về làm hoàn thiện. Sản phẩm làm xong một phần chuyển qua những cửa hàng bán tại làng nghề hoặc xuất trực tiếp đi các nơi khác tiêu thụ.
+
+Rất nhiều người trẻ ở Hữu Bằng đã ngày càng nhanh nhạy trong kinh doanh. Không chỉ bán hàng tại xưởng hay đổ hàng cho các mối buôn tới làng nghề. Nhiều người Hữu Bằng còn tự chủ động tìm đầu ra, nhận các công trình hay mở các cửa hàng ở các thành phố khác để tiêu thụ sản phẩm. Rất nhiều các cửa hàng ở phố Đê La Thành hay Nguyễn Trãi (Hà Nội) có chủ là người Hữu Bằng.
+
+Sản phẩm của Hữu Bằng tương đối đa dạng và phong phú bao gồm cả đồ nội thất gia đình và đồ nội thất văn phòng. Trong đó đồ nội thất gia đình chiếm đa số (70-80% lượng sản phẩm). Đồ nội thất văn phòng chiếm khoảng  20-30% lượng sản phẩm. Các sản phẩm thường có giá rẻ, hướng đến phân khúc bình dân. Thị trường của các sản phẩm của Hữu Bằng gần như 100% là thị trường nội địa, trong đó 80% lượng sản phẩm được tiêu thụ ở các tỉnh phía Bắc còn lại 20% được tiêu thụ tại thị trường Miền Nam.
+
+Những năm gần đây ghi nhận một sự thay đổi lớn về nhận thức và định hướng nghề của Hữu Bằng. Trong khi những làng nghề mộc truyền thống khác như Đồng Kỵ - Bắc Ninh, La Xuyên - Nam Định...vẫn trung thành với sản phẩm đồ gỗ tự nhiên chạm trổ truyền thống. Thị trường ngày một co hẹp do xu hướng tiêu dùng ngày càng hiện đại. Thì làng nghề Hữu Bằng đã có sự chuyển đổi mạnh mẽ và thức thời hơn. Nắm bắt được xu hướng nhà chung cư mọc lên nhiều đi kèm với xu hướng nội thất đơn giản và hiện đại. Các sản phẩm làng nghề Hữu Bằng cũng chuyển đổi theo. Sử dụng nhiều nguyên liệu gỗ rừng trồng (thay vì gỗ tự nhiên) và gỗ công nghiệp. Giá thành cũng rẻ để hướng đến đại đa số khách hàng bình dân. Các sản phẩm cũng đa dạng như [http://amiasofa.com/sofa/ sofa] (da, nỉ, gỗ), bàn ghế ăn, bàn ghế phòng khách thiết kế đơn giản, giường ngủ, tủ quần áo, kệ tivi, bàn trang điểm...
+
+==Một số nhân vật nổi bật==
+* Tiến sĩ Nguyễn Ngung
+*Tiến sĩ Nguyễn Văn Bân 
+*Thượng thư Nguyễn Văn Đào 
+*[[Nghệ sĩ Nhân dân]] [[Tào Mạt]] 
+*Nghệ sĩ ngâm thơ Hồ Điệp 
+* Tông sư [[Nguyễn Lộc (võ sư)|Nguyễn Lộc]], sáng tổ môn võ truyền thống [[Vovinam]]
+* Nhà báo Phan Lạc Phúc
+*Nhà văn Phan Lạc Tiếp
+*Nhà văn Phan Quế
+* Nhạc sĩ Phan Lạc Hoa
+* Nguyên Thứ trưởng Bộ Y tế Nguyễn Văn Đàn
+*Tuyển thủ bóng đá quốc gia [[Nguyễn Văn Quyết]]
+
+=== Di tích ===
+Xã Dị Nậu xưa thuộc tổng Núc gồm các xã: Dị Nậu, Canh Nậu, Hương Ngải.
+
+
+Về di tích xã Dị Nậu có khá nhiều di tích, có 2 Chùa, 2 Đình, 2 nhà thờ Thiên chúa giáo ở vị trí của hai thôn Dị và Bến. Ngoài ra còn nhiều đền thờ, miếu mạo ở các xóm. Các di tích tiêu biểu có giá trị về văn hóa, lịch sử, kiến trúc ở xã:
+
+* Di tích đình Dị Nậu thờ Lý Phục Man có công giúp [[Lý Bí (nhà Đường)|Lý Bí]] chống quân Lương và thờ Tam vị họ Đỗ người gốc Hán có công cai quản, trông nom và bảo vệ dân làng. Di tích được Bộ văn hóa thông tin xếp hạng cấp quốc gia.
+* Di tích chùa Dị Nậu tên chữ là Bảo Quang Tự thờ thiền sư [[Từ Đạo Hạnh]]. Di tích chùa Dị Nậu được Bộ văn hóa thông tin xếp hạng cấp quốc gia.
+
+==Lịch sử==
+Nguyên khai, Canh Nậu ngày nay là một vùng đất gồm những gò đống không cao, phía dưới là những bãi trũng, lầy, cỏ dại lau lạch, các ngòi rãnh nước chằng chịt. Trải qua nhiều thế kỉ khai phá, người dân đã tạo nên những cách đồng, những khu ruộng bằng phẳng, lập thành làng. Canh Nậu xưa có tên Nôm gọi là '''kẻ Núc''', sau đặt tên tự là '''Canh Nậu''' với nghĩa CANH (''畊'') là "cày", NẬU (''耨'') là "bừa", hàm ý chỉ làng quê lấy nghề nông làm gốc.
+
+Trước [[Cách mạng tháng Tám|Cách mạng tháng 8]], Canh Nậu là một xã thuộc tổng Hương Ngải, huyện Thạch Thất. Sau Cách mạng tháng 8, Canh Nậu được sáp nhập với các xã trong tổng Hương Ngải cũ gọi là khu, sau đổi tên thành xã, mang tên '''Hương Ngải'''. Đầu tháng 4 năm 1948, làng Hương Ngải được tách ra thành một xã riêng; còn 3 làng Canh Nậu, Dị Nậu, Bến Thôn lập thành 1 xã mới mang tên '''Lam Sơn'''.
+
+Tháng 5 năm 1955, Canh Nậu lại được tách ra một lần nữa, tách khỏi Lam Sơn thành lập một xã riêng trở về với cái tên ban đầu là xã '''Canh Nậu'''.
+
+==Lịch sử==
+Nguyên tên Nôm xưa của xã là '''làng Chàng''', được cho là bắt nguồn từ tên một dụng cụ làm mộc cổ là ''đục Chàng Chảy''. Về sau, làng được gọi theo âm Hán Việt là '''Chàng Thôn''', rồi biến âm thành '''Chàng Sơn''' như ngày nay.
+
+Thời điểm thành lập làng Chàng chưa được xác định chính thức vì chưa tìm được tài liệu lịch sử nào ghi chép lại. Hiện tại, có hai giả thuyết khác nhau về thời điểm thành lập làng.
+
+===Giả thuyết thứ nhất===
+Thuyết này cho rằng làng Chàng được thành lập từ thời kỳ [[Hùng Vương]], căn cứ vào truyền thuyết về một người thợ mộc tên là Sần (Phó Sần) ở làng Chàng xưa từng dẫn một đoàn thợ mộc lên [[dãy núi Ba Vì|núi Ba Vì]] để làm đền, đài cho thánh [[Sơn Tinh|Tản Viên]] là con rể của vua Hùng Vương thứ 18 (tức Hùng Duệ Vương). Theo thuyết này thì làng Chàng đã có từ cách nay khoảng 2.300-2.500 năm. Câu chuyện cụ Phó Sần từng được nhà văn [[Nguyễn Tuân]] đề cập trong tác phẩm "Vang bóng một thời".
+
+===Giả thuyết thứ hai===
+Thuyết này dựa trên thuyết thứ nhất để nêu thành luận điểm: Một tụ điểm dân cư sinh sống và phát triển đến mức đã có một nghề thợ mộc như vậy thì tụ điểm dân cư đó không phải là mới thành lập vào thời kỳ Hùng Vương được mà phải là phải được thành lập trước đó hàng nghìn năm, nghĩa là từ thời kỳ Văn Lang - Âu Lạc hay chí ít cũng là vào thời kỳ đầu dựng nước Văn Lang.{{cần dẫn nguồn}}
+
+Tuy vậy, như đã nêu ở trên, đấy chỉ là những giả thuyết. Mặc dù vậy, các học giả đều thống nhất xã Chàng Sơn là một trong những xã của huyện Thạch Thất có nền văn hiến từ xa xưa.{{cần dẫn nguồn}}
+
+==Kinh tế==
+Chàng Sơn là một xã người nhiều ruộng ít nên kinh tế chính của xã không từ nghề nông mà từ các nghề phụ, trong đó nghề mộc là chủ yếu. Từ xưa, Chàng Sơn nổi tiếng khắp [[Xứ Đoài]] xưa là dân "bách nghệ". Có những nghề rất độc đáo, nổi tiếng như nghề mộc, nghề làm quạt, nghề tạc tượng, làm nhà cổ nhà gỗ, nghề nề, nghề sơn... Nghề mộc truyền thống ở Chàng Sơn đã trở thành nghề chính của người dân trong xã chiếm 54,6% giá trị sản xuất, nông nghiệp chỉ chiếm 5,6%, còn lại là thương mại và dịch vụ.{{fact|date = ngày 6 tháng 1 năm 2013}}
+
+Bàn tay tài hoa của người thợ Chàng Sơn còn lưu dấu trên một số công trình nổi tiếng của Việt Nam như: Kiến trúc gỗ và 18 pho tượng La hán [[Chùa Tây Phương]], và Văn Miếu Quốc Tử Giám... Những dấu ấn tài hoa đấy vẫn còn lưu lại ít nhiều tại Chàng Sơn ngày nay như:
+* Nghề mộc, chạm truyền thống: tủ chè, tràng kỷ, sập, phản, giường, cầu thang, đồ thờ...<ref>[http://www.ktdt.com.vn/newsdetail.asp?NewsId=85650&CatId=55]{{Liên kết hỏng|date=2021-02-11|bot=InternetArchiveBot}}</ref>
+* Nghề múa rối nước, làm rối nước <ref>[http://www.baodatviet.vn/Home/Roi-nuoc-Chang-Son-cuoc-choi-200-nam/20085/6412.datviet]{{Liên kết hỏng|date=2021-02-11|bot=InternetArchiveBot}}</ref>
+* Nghề làm tượng gỗ, tượng Phật 
+* In ấn: tổ tôm, tú lơ khơ, tam cúc...{{fact|date = ngày 6 tháng 1 năm 2013}}
+* Làm quạt nan, quạt giấy, quạt gỗ mỹ nghệ...
+* Mây tre giang đan...{{fact|date = ngày 6 tháng 1 năm 2013}}
+* Đồ nông nghiệp: gàu tát nước, đòn gánh, thúng, mủng, long, nia...{{fact|date = ngày 6 tháng 1 năm 2013}}
+* Khắc bàn in, làm nhà, làm đình, chùa...
+*
+
+ -->
+
+== Trụ sở các cơ quan ==
+Trụ sở Đảng ủy, Mặt trận Tổ quốc và các tổ chức chính trị − xã hội được đặt tại xã cũ Quang Trung; còn trụ sở Hội đồng nhân dân và [[Ủy ban nhân dân]] nằm tại xã cũ Thạch Xá.<ref>{{Chú thích web |last=Khánh An |date=2025-05-26 |title=5 xã mới ở huyện Thạch Thất được đặt trụ sở tại đâu sau sắp xếp |url=https://laodong.vn/thoi-su/5-xa-moi-o-huyen-thach-that-duoc-dat-tru-so-tai-dau-sau-sap-xep-1512798.ldo |website=[[Lao Động (báo)|Lao Động]]}}</ref>
+
+== Văn hóa ==
+[[Tập tin:Phùng Khắc Khoan.jpg|nhỏ|357x357px|Chân dung Trạng Bùng Phùng Khắc Khoan]]
+'''Khoa bảng Nho học'''
+* Đỗ Đạt: Đệ nhị giáp tiến sĩ xuất thân triều Lê Thánh Tông (1487)
+* Nguyễn Ngung: Đệ tam giáp đồng tiến sĩ triều Lê Thánh Tông (1487), tước Hầu
+* Đỗ Hịch: Đệ tam giáp đồng tiến sĩ triều Lê Thánh Tông (1493)
+* Phùng Đốc: Đệ nhị giáp tiến sĩ xuất thân triều Lê Hiến Tông (1499)
+* Phí Thạc: Đệ nhị giáp tiến sĩ xuất thân triều Mạc Thái Tổ (1529)
+* Đặng Lương Tá: Đệ nhị giáp tiến sĩ xuất thân triều Mạc Thái Tổ (1529)
+* [[Phùng Khắc Khoan]]: Đệ nhị giáp tiến sĩ xuất thân triều Lê Anh Tông (1557), tước Mai Quận Công
+* Phan Bảng: Đệ nhị giáp tiến sĩ xuất thân triều Lê Thần Tông (1623)
+* Nguyễn Văn Đĩnh: Đệ tam giáp đồng tiến sĩ triều Lê Hy Tông (1679)
+* Nguyễn Côn: Đệ tam giáp đồng tiến sĩ triều Lê Hy Tông (1680)
+* Đỗ Thê: Đệ tam giáp đồng tiến sĩ triều Lê Hy Tông (1685)
+* Nguyễn Nham: Đệ tam giáp đồng tiến sĩ triều Lê Dụ Tông (1715)
+* Nguyễn Thì Lượng: Đệ tam giáp đồng tiến sĩ triều Lê Duy Phường (1731)
+* Vũ Đình Dung: Đệ tam giáp đồng tiến sĩ triều Lê Thuần Tông (1733), tước Phùng Lĩnh Hầu
+* [[Nguyễn Đăng Huân]]: [[Đình nguyên]] triều Nguyễn Minh Mạng (1829)
+* Chu Duy Tân: Đệ tam giáp đồng tiến sĩ triều Nguyễn Tự Đức (1849)
+* Vũ Huy Huyến: Đệ tam giáp đồng tiến sĩ triều Nguyễn Tự Đức (1862)
+* Nguyễn Văn Bân: Đệ tam giáp đồng tiến sĩ triều Nguyễn Thành Thái (1901)
+
+'''Binh nghiệp võ tướng'''
+* [[Nguyễn Kính]]: công thần khai quốc triều Mạc, tước Tây Kỳ Vương
+* [[Mạc Ngọc Liễn]]: [[Thái phó]] triều Mạc, tước Đà Quốc Công
+* Vũ Chí Đạo: Thiếu tướng (1984), Chính ủy [[Binh chủng Đặc công, Quân đội nhân dân Việt Nam|Binh chủng đặc công]], tên thật là Nguyễn Hữu Chính
+* Phí Văn Hải: Thiếu tướng (1990), Chủ nhiệm Kỹ thuật Quân khu 2
+* [[Phùng Khắc Đăng]]: Trung tướng, [[Phó Chủ nhiệm Tổng cục Chính trị Quân đội nhân dân Việt Nam|Phó Chủ nhiệm Tổng cục Chính trị]], Đại biểu [[Quốc hội Việt Nam khóa XIII|Quốc hội khóa XIII]]
+* [[Phí Quốc Tuấn]]: Trung tướng (2012), Tư lệnh [[Bộ Tư lệnh Thủ đô Hà Nội]]
+* [[Đỗ Căn (tướng)|Đỗ Căn]]: Thượng tướng (2019), [[Phó Chủ nhiệm Tổng cục Chính trị Quân đội nhân dân Việt Nam|Phó Chủ nhiệm Tổng cục Chính trị]], Đại biểu [[Quốc hội Việt Nam khóa XII|Quốc hội khóa XII]]
+
+'''Văn nghệ, thể thao'''
+* [[Tào Mạt]]: soạn giả chèo, [[Nghệ sĩ nhân dân (Việt Nam)|Nghệ sĩ nhân dân]] (1993) được truy tặng [[Giải thưởng Hồ Chí Minh]] (1996)
+* [[Bằng Việt]]: nhà thơ nhận [[Giải thưởng Nhà nước (Việt Nam)|Giải thưởng Nhà nước]] về văn học (2001)
+* [[Phan Lạc Hoa]]: nhạc sĩ nổi tiếng với ca khúc [[Tàu anh qua núi]]
+* [[Phú Quang]]: nhạc sĩ nổi tiếng với ca khúc [[Em ơi Hà Nội phố]]
+* [[Nguyễn Lộc]]: võ sư sáng lập Việt Võ Đạo ([[Vovinam]])
+* [[Cấn Tất Dự]]: đô vật 05 lần vô địch [[Đại hội Thể thao Đông Nam Á|SEA games]] (2011, 2013, 2019, 2022, 2023)<ref>{{Chú thích web |last=Ngọc Trâm |date=2023-08-04 |title=Niềm tự hào của vùng đất vật |url=https://sovhtt.hanoi.gov.vn/niem-tu-hao-cua-vung-dat-vat/ |website=Sở Văn Hóa Thể Thao Hà Nội}}</ref>
+
+'''Di tích đã xếp hạng'''<ref>{{chú thích sách |url=https://books.google.com.vn/books/about/%C4%90%E1%BB%8Ba_ch%C3%AD_H%C3%A0_T%C3%A2y.html?id=i9bUlgEACAAJ&redir_esc=y |last2=Đặng Văn Tu |last3=Đinh Khắc Thuân |isbn=9786045500552 |pp=461-465 |tiêu đề=Địa chí Hà Tây |nhà xuất bản=Nhà xuất bản Hà Nội |năm=2011 |tác giả=Nguyễn Tá Nhí}}</ref>
+
+{{div col|colwidth=20em}}
+{| style="font-size:90%; border:gray solid 1px; border-collapse:collapse; background:#fafcfc; margin:auto;" cellspacing="0" cellpadding="5" border="1"
+|-
+!STT||Tên||Vị trí||Quyết định||Ngày
+|-
+| colspan="5" style="background:#2eccfa; text-align: left"|''Di tích quốc gia Đặc biệt''
+|-
+| style="text-align:center"|1||Chùa Tây Phương||Làng Thạch||2408/QĐ-TTg||31/12/2014
+|-
+| colspan="5" style="background:#2eccfa; text-align: left"|''Di tích quốc gia''
+|-
+| style="text-align:center"|2||Chùa Thạch Thôn||Làng Thạch|| rowspan="2"|95/1998/QĐ- BVHTT|| rowspan="2" |31/08/1998
+|-
+| style="text-align:center"|3||Đình Yên Thôn||Làng Yên
+|-
+| style="text-align:center"|4||Đình Chàng Sơn||rowspan="3"|Làng Chàng|| rowspan="3"|1728VH/QĐ|| rowspan="3" |02/10/1991
+|-
+| style="text-align:center"|5||Chùa Chàng Sơn
+|-
+| style="text-align:center"|6||Quán Chàng Sơn
+|-
+| style="text-align:center"|7||Đình Hữu Bằng|| rowspan="3" |Làng Nủa|| rowspan="3" |1758VH/QĐ|| rowspan="3" |05/09/1989
+|-
+| style="text-align:center"|8||Chùa Hữu Bằng
+|-
+| style="border-bottom:1px solid gray; text-align:center"|9||Văn chỉ Hữu Bằng
+|-
+| style="text-align:center"|10||Quán Vĩnh Lộc||Làng Lọc||2009VH/QĐ||15/11/1991
+|-
+| style="text-align:center"|11||Nhà thờ Phùng Khắc Khoan|| rowspan="3" |Làng Bùng||34VH/QĐ||09/01/1990
+|-
+| style="text-align:center"|12||Đình Phùng Thôn|| rowspan="3"|57VH/QĐ|| rowspan="3" |18/01/1993
+|-
+| style="text-align:center"|13||Chùa Phùng Thôn
+|-
+| style="text-align:center"|14||Đình Phú Đa||Làng Ra
+|-
+| style="text-align:center"|15||Chùa Đặng||Làng Bình Xá||52/2001/QĐ- BVHTT||26/12/2001
+|-
+| style="text-align:center"|16||Đình Thôn Bến|| rowspan="2" |Làng Bến|| rowspan="4" |1539VH/QĐ|| rowspan="4" |27/12/1990
+|-
+| style="text-align:center"|17||Chùa Thôn Bến
+|-
+| style="text-align:center"|18||Đình Dị Nậu|| rowspan="2" |Làng Dị Nậu
+|-
+| style="text-align:center"|19||Chùa Dị Nậu
+|-
+|style="text-align:center"|20||Chùa Canh Nậu|| rowspan="3" |Làng Canh Nậu|| rowspan="3" |1430/QĐ|| rowspan="3" |12/10/1993
+|-
+|style="text-align:center"|21||Quán Canh Nậu
+|-
+|style="text-align:center"|22||Đình Canh Nậu
+|}
+
+{| style="font-size:90%; border:gray solid 1px; border-collapse:collapse; background:#fafcfc; margin:auto;" cellspacing="0" cellpadding="5" border="1"
+|-
+!STT||Tên||Vị trí||Quyết định||Ngày
+|-
+| colspan="5" style="background:#2eccfa; text-align: left" |''Di tích cấp tỉnh, thành phố''
+|-
+| style="text-align: center" |23||Chùa Ba Thôn||Làng Dị Nậu|| rowspan="2" |47QĐ/UB|| rowspan="2" |10/01/2003
+|-
+| style="text-align: center" |24||Chùa Thôn 3|| rowspan="3" |Làng Canh Nậu
+|-
+| style="text-align: center" |25||Chùa Thôn 1|| rowspan="2" |306QĐ/UB|| rowspan="2" |22/02/2006
+|-
+| style="text-align: center" |26||Chùa Thôn 4
+|-
+| style="text-align: center" |27||Quán Hương Ngải|| rowspan="3" |Làng Ngái|| rowspan="3" |1054QĐ/UB|| rowspan="3" |10/08/2005
+|-
+| style="text-align: center" |28||Đình Giang
+|-
+| style="text-align: center" |29||Đình Đông Thanh
+|-
+| style="text-align: center" |30||Đình Bình Xá||Làng Bình Xá||655QĐ/UB||03/07/2000
+|-
+| style="text-align: center" |31|| Đình Thái Hòa||Làng Thái Hòa||158QĐ/UB||04/02/2003
+|-
+| style="text-align: center" |32|| Đền Động Hoa|| Làng Yên|| 313/QĐ||05/02/2002
+|-
+| style="text-align: center" |33|| Đình Trong||Làng Thạch||<ref>{{Chú thích web |last=Đức Long |date=2020-11-16 |title=Đình Trong (Thạch Xá, Thạch Thất) đón nhận Bằng xếp hạng Di tích lịch sử nghệ thuật cấp Thành phố |url=https://sovhtt.hanoi.gov.vn/dinh-trong-thach-xa-thach-that-don-nhan-bang-xep-hang-di-tich-lich-su-nghe-thuat-cap-thanh-pho/ |website=Sở Văn hóa Thể thao Hà Nội}}</ref>||07/08/2020
+|-
+| style="text-align: center" |34||Miếu Cầu Cả|| rowspan="4" |Làng Lọc|| rowspan="2" | <ref>{{Chú thích web |last=Mai Phương |date=2024-11-21 |title=Di tích Văn Chỉ và miếu Cầu Cả (xã Phùng Xá, huyện Thạch Thất) xếp hạng cấp Thành phố |url=https://sovhtt.hanoi.gov.vn/di-tich-van-chi-va-mieu-cau-ca-xa-phung-xa-huyen-thach-that-xep-hang-cap-thanh-pho/ |website=Sở Văn hóa Thể thao Hà Nội}}</ref>|| rowspan="2" |24/06/2024
+|-
+| style="text-align: center" |35||Văn chỉ Vĩnh Lộc
+|-
+| style="text-align: center" |36||Đình Vĩnh Lộc
+| colspan="2" rowspan="6" |<ref>{{Chú thích luận văn|type=Luận văn Thạc sĩ|last=Nguyễn Thị Châm|year=2018|title=Quản lý Di tích lịch sử văn hóa trên địa bàn xã Phùng Xá, huyện Thạch Thất, Hà Nội|publisher=Trường Đại học Sư phạm Nghệ thuật Trung Ương|pp=23}}</ref>
+|-
+| style="text-align: center" |37||Chùa Vĩnh Lộc
+|-
+| style="text-align: center" |38||Quán Làng Bùng
+| rowspan="5" |Làng Bùng
+|-
+| style="text-align: center" |39||Văn chỉ Làng Bùng
+|-
+| style="text-align: center" |40||Võ chỉ Làng Bùng
+|-
+| style="text-align: center" |41||Nhà thờ quan trấn
+|-
+| style="text-align: center" |42||Nhà thờ họ Nguyễn Đăng
+|<ref>{{Chú thích web |last=Huy Khánh |date=2016-09-24 |title=Nhà thờ họ Nguyễn Đăng xã Phùng Xá đón Bằng xếp hạng Di tích lịch sử của Thành phố |url=https://daithachthat.gov.vn/nha-tho-ho-nguyen-dang--xa-phung-xa-don-bang-xep-hang-di-tich-lich-su-cua-thanh-pho_1179.html |website=Đài Phát Thanh Thạch Thất}}</ref>||12/05/2016
+|-
+| colspan="5" style="text-align: center" |{{Mở rộng danh sách}}
+|}
+{{div col end}}
+
+== Đặc sản ==
+Chè lam Thạch Xá, bánh tẻ Cầu Liêu
+
+==Hình ảnh==
+[[Tập tin:UBNHxaphungxa.jpg|thumb|Trụ sở UBND xã Phùng Xá trước đây]]
+[[Tập tin:Cổng vào xã Phùng Xá tại đường 419.jpg|thumb|Cổng vào xã Phùng Xá cũ tại đường 419]]
+
+== Chú thích ==
+{{tham khảo|30em}}
+
+== Tham khảo ==
+{{Sơ khai Hà Nội}}
+{{Đơn vị hành chính thuộc thành phố Hà Nội}}

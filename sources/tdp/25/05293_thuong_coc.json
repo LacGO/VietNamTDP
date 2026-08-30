@@ -1,0 +1,152 @@
+{
+  "ward_code": "05293",
+  "ward_name": "Thượng Cốc",
+  "province_code": "25",
+  "resolution": "",
+  "arrangement": "truoc_2026_07",
+  "effective_date": "",
+  "verified": "unverified",
+  "extraction": {
+    "source": "vi.wikipedia.org",
+    "title": "Thượng Cốc",
+    "mode": "narrative"
+  },
+  "sources": [
+    {
+      "key": "wiki-05293-1",
+      "title": "Danh sách Thôn vùng đồng bào dân tộc thiểu số và miền núi, thôn đặc biệt khó khăn giai đoạn 2026 - 2030 trên địa bàn tỉnh Phú Thọ",
+      "url": "http://files.ubdt.gov.vn/files/ecm/source_files/2026/02/05/11252411_4.%20Ph%C3%BA%20Th%E1%BB%8D%201%20(th%C3%B4n).signed_26-02-05.pdf",
+      "date": "2026-01-29",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-05293-2",
+      "title": "Thông báo số 20/TB-UBND về việc Niêm yết danh sách cử tri bầu cử đại biểu Quốc hội khóa XVI và bầu cử Hội đồng nhân dân các cấp nhiệm kỳ 2026 - 2031",
+      "url": "https://web.facebook.com/story.php?story_fbid=122114261655143079&id=61584292379239&rdid=RCbHXTif4zTx8nbV#",
+      "date": "2026-02-02",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-05293-3",
+      "title": "TOÀN VĂN: Nghị quyết số 202/2025/QH15 về sắp xếp đơn vị hành chính cấp tỉnh",
+      "url": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-202-2025-qh15-ve-sap-xep-don-vi-hanh-chinh-cap-tinh-119250612174148722.htm",
+      "date": "2025-07-16",
+      "type": "wikipedia-ref"
+    }
+  ],
+  "note": "Trích tự động từ Wikipedia tiếng Việt (mode=narrative). Cần đối chiếu nghị quyết HĐND phường/xã. ⚠️ Danh mục có thể là hiện trạng TRƯỚC sắp xếp thôn/TDP 01/7/2026 — Wikipedia chưa cập nhật nghị quyết mới.",
+  "tdp": [
+    {
+      "name": "Anh",
+      "type": "xóm"
+    },
+    {
+      "name": "Cáo",
+      "type": "xóm"
+    },
+    {
+      "name": "Cốc",
+      "type": "xóm"
+    },
+    {
+      "name": "Dóm Bái",
+      "type": "xóm"
+    },
+    {
+      "name": "Đồng Tâm",
+      "type": "xóm"
+    },
+    {
+      "name": "Khang Trào",
+      "type": "xóm"
+    },
+    {
+      "name": "Khặng Vát",
+      "type": "xóm"
+    },
+    {
+      "name": "Khụ",
+      "type": "xóm"
+    },
+    {
+      "name": "La Văn Cầu",
+      "type": "xóm"
+    },
+    {
+      "name": "Lội Mương",
+      "type": "xóm"
+    },
+    {
+      "name": "Luống",
+      "type": "xóm"
+    },
+    {
+      "name": "Mận Bùi",
+      "type": "xóm"
+    },
+    {
+      "name": "Mè Cổm",
+      "type": "xóm"
+    },
+    {
+      "name": "Mới",
+      "type": "xóm"
+    },
+    {
+      "name": "Ốc",
+      "type": "xóm"
+    },
+    {
+      "name": "Ráy",
+      "type": "xóm"
+    },
+    {
+      "name": "Răng Thiển",
+      "type": "xóm"
+    },
+    {
+      "name": "Rậm Cọ",
+      "type": "xóm"
+    },
+    {
+      "name": "Rểnh",
+      "type": "xóm"
+    },
+    {
+      "name": "Rộc Khửm",
+      "type": "xóm"
+    },
+    {
+      "name": "Thăn",
+      "type": "xóm"
+    },
+    {
+      "name": "Thây Voi",
+      "type": "xóm"
+    },
+    {
+      "name": "Thượng Riêng",
+      "type": "xóm"
+    },
+    {
+      "name": "Trang 1",
+      "type": "xóm"
+    },
+    {
+      "name": "Trang 2",
+      "type": "xóm"
+    },
+    {
+      "name": "Tre",
+      "type": "xóm"
+    },
+    {
+      "name": "Tre Báng",
+      "type": "xóm"
+    },
+    {
+      "name": "Vôi Hạ",
+      "type": "xóm"
+    }
+  ]
+}

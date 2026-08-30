@@ -1,0 +1,156 @@
+{
+  "ward_code": "07900",
+  "ward_name": "Việt Trì",
+  "province_code": "25",
+  "resolution": "",
+  "arrangement": "2026_07",
+  "effective_date": "2026-07-01",
+  "verified": "unverified",
+  "extraction": {
+    "source": "vi.wikipedia.org",
+    "title": "Việt Trì (phường)",
+    "mode": "narrative"
+  },
+  "sources": [
+    {
+      "key": "wiki-07900-1",
+      "title": "Nghị quyết số 2/2019/NQ-HDND về việc Thông quan Đề án sắp xếp, sáp nhập khu dân cư trên địa bàn tỉnh Phú Thọ",
+      "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2019/08/02hdndpt.signed.pdf",
+      "date": "2019-07-19",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-07900-2",
+      "title": "Các đơn vị bầu cử tổ chức hội nghị tiếp xúc cử tri thực hiện quyền vận động bầu cử",
+      "url": "https://viettri.phutho.gov.vn/tin-tuc/bau-cu-dai-bieu-quoc-hoi-khoa-xvi-va-dai-bieu-hdnd-cac-cap-nhiem-ky-20262031/cac-don-vi-bau-cu-to-chuc-hoi-nghi-tiep-xuc-cu-tri-thuc-hien-quyen-van-dong-bau-cu-10213-112.html",
+      "date": "2026-03-05",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-07900-3",
+      "title": "Các đồng chí lãnh đạo phường dự kiểm tra và bỏ phiếu tại các điểm bầu cử",
+      "url": "https://viettri.phutho.gov.vn/tin-tuc/bau-cu-dai-bieu-quoc-hoi-khoa-xvi-va-dai-bieu-hdnd-cac-cap-nhiem-ky-20262031/cac-dong-chi-lanh-dao-phuong-du-kiem-tra-va-bo-phieu-tai-cac-diem-bau-cu-10240-112.html",
+      "date": "2026-03-15",
+      "type": "wikipedia-ref"
+    }
+  ],
+  "note": "Trích tự động từ Wikipedia tiếng Việt (mode=narrative). Cần đối chiếu nghị quyết HĐND phường/xã.",
+  "tdp": [
+    {
+      "name": "Bảo Đà",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Dữu Lâu",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Gia Cẩm",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Hàm Nghi",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Hòa Phong",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Hồng Hải",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Hùng Quốc Vương",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Hương Trầm",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Kim Quất Hạ",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Lăng Cẩm",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Lê Qúy Đôn",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Minh Bột",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Minh Nông",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Minh Tân",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Ngọai Lâu Thượng",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Nguyễn Thái Học",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Nội Lâu Thượng",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Phan Chu Trinh",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Quang Trung",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Quất Thượng",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Quế Trạo",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Tân Dân",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Tân Đức",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Tân Phú",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Tân Thuận",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Tân Tiến",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Thanh Xuân",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Trần Phú",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Trưng Vương",
+      "type": "tổ dân phố"
+    }
+  ]
+}

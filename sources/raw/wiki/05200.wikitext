@@ -1,0 +1,129 @@
+{{Thông tin đơn vị hành chính Việt Nam|xã
+| tên = Mai Châu
+| hình = Mai Chau 2008.jpg
+| ghi chú hình = Một phần quang cảnh thung lũng tại xã Mai Châu
+| vĩ độ = 20.66599958793185
+| kinh độ = 105.08858350903287
+| diện tích = 147,74 km² 
+| dân số = 19.143 người 
+| thời điểm dân số =2025 
+| mật độ dân số = {{formatnum:{{#expr:floor({{formatnum:19.143| R}}/{{formatnum:147,74| R}})}} }} người/km²
+| vùng = [[Đông Bắc Bộ]] 
+| tỉnh = [[Phú Thọ]] 
+| thành lập = 16 tháng 6 năm 2025<ref>Nghị quyết số 1676/NQ-UBTVQH15</ref>
+| trụ sở UBND =Quốc lộ 15, tiểu khu 2 
+| mã hành chính = 05200<ref>{{Chú thích web |url=https://danhmuchanhchinh.gso.gov.vn/ |title=Tổng cục Thống kê |access-date=2022-04-08 |archive-date=2021-01-10 |archive-url=https://web.archive.org/web/20210110034519/https://www.gso.gov.vn/phuong-phap-thong-ke/danh-muc/don-vi-hanh-chinh/ |url-status=dead }}</ref>
+|web={{url|maichau.phutho.gov.vn}}
+|mã bưu chính=36406
+|loại đô thị=|năm công nhận=|dân tộc=[[Người Thái (Việt Nam)|Thái]], [[Người Việt|Kinh]], [[Người Mường|Mường]], ...}}
+{{other|Mai Châu (định hướng)}}
+'''Mai Châu''' là một [[Xã (Việt Nam)|xã]] thuộc tỉnh [[Phú Thọ]], [[Việt Nam]].
+
+==Địa lý==
+Xã Mai Châu nằm ở phía Tây Nam tỉnh [[Phú Thọ]], nằm trong thung lũng giữa những vách đá vôi, nằm dọc Quốc lộ 15, cách xã [[Tân Lạc (xã)|Tân Lạc]] khoảng 35&nbsp;km và cách [[Hà Nội]] khoảng 135&nbsp;km, có vị trí địa lý<ref>{{Chú thích web |title=Đơn vị hành chính Việt Nam |url=https://sapnhap.bando.com.vn/ |access-date=2026-04-19 |website=sapnhap.bando.com.vn}}</ref>:
+
+* Phía Bắc giáp xã [[Vân Hồ (xã)|Vân Hồ]], tỉnh [[Sơn La]] và xã [[Tân Mai (xã)|Tân Mai]].
+* Phía Nam giáp xã [[Phú Lệ]] và xã [[Cổ Lũng]], tỉnh [[Thanh Hóa]].
+* Phía Tây giáp xã [[Mai Hạ]], xã [[Bao La, Phú Thọ|Bao La]] và xã [[Pà Cò]].
+* Phía Đông giáp xã [[Mường Bi]] và xã [[Vân Sơn, Phú Thọ|Vân Sơn]].
+
+Xã có diện tích 147,74&nbsp;km², dân số năm 2025 là 19.143 người, mật độ dân số đạt 130 người/km².<ref>{{Chú thích web |title=Xã Mai Châu, Tỉnh Phú Thọ mới sáp nhập 2026 |url=https://tinhthanhvn.com/province/phu-tho/xa-mai-chau |access-date=2026-04-19 |website=Tỉnh Thành Việt Nam |language=vi}}</ref>
+
+Trung tâm của xã là tiểu khu 2. Cư dân của xã chủ yếu là người Thái, người Kinh và người Mường.
+
+==Hành chính==
+Xã Mai Châu được được chia thành 37 tiểu khu - tổ dân phố - xóm, gồm 4 tiểu khu: 1, 2, 3, 4; 4 tổ dân phố: Chiềng Sại, Pom Coọng, Vãng, Văn và 29 xóm: Bâng, Bin, Cha, Cha Long, Chà Đáy, Chiềng An, Đậu, Đồng Bảng, Hiềng, Hợp Thành, Nà Chiềng, Nà Lụt, Nà Mèo, Nà Mo, Nà Phặt, Nà Piềng, Nàng, Nhót, Nhuối, Noong Luông, Phiêng Xa, Suối Rút, Thung Đẹt, Thung Khe, Tiểu Khu, Tòng, Vắt, Xăm Pà, Xô.<ref name=":1">{{Chú thích web |last=Bộ Dân tộc và Tôn giáo |date=2026-01-29 |title=Danh sách Thôn vùng đồng bào dân tộc thiểu số và miền núi, thôn đặc biệt khó khăn giai đoạn 2026 - 2030 trên địa bàn tỉnh Phú Thọ |url=http://files.ubdt.gov.vn/files/ecm/source_files/2026/02/05/11252411_4.%20Ph%C3%BA%20Th%E1%BB%8D%201%20(th%C3%B4n).signed_26-02-05.pdf |url-status=live |archive-url=https://web.archive.org/web/20260417090807/http://files.ubdt.gov.vn/files/ecm/source_files/2026/02/05/11252411_4.%20Ph%C3%BA%20Th%E1%BB%8D%201%20(th%C3%B4n).signed_26-02-05.pdf |archive-date=2026-04-17 |access-date=2026-04-17 |website=Cổng Thông tin điện tử Bộ Dân tộc và Tôn giáo}}</ref><ref name=":2">{{Chú thích web |last=Trang thông tin điện tử xã Mai Châu - tỉnh Phú Thọ |date=2026-03-21 |title=Danh sách người trúng cử đại biểu Hội đồng nhân dân xã Mai Châu khóa II, nhiệm kỳ 2026 - 2031 |url=https://web.facebook.com/story.php?story_fbid=1366508072175702&id=100064495670978&rdid=2q1WDo07Bx1paMb7# |url-status=live |archive-url=https://web.archive.org/web/20260423090807/https://web.facebook.com/story.php?story_fbid=1366508072175702&id=100064495670978&rdid=2q1WDo07Bx1paMb7# |archive-date=2026-04-23 |access-date=2026-04-23}}</ref>
+
+==Lịch sử==
+Trước đây, địa bàn xã Mai Châu là địa bàn của thị trấn Mai Châu cùng các xã Nà Phòn, Thành Sơn, Tòng Đậu và một phần xã Đồng Tân thuộc huyện [[Mai Châu (huyện)|Mai Châu]], tỉnh [[Hòa Bình (tỉnh)|Hòa Bình]].
+
+Sau [[Cách mạng Tháng Tám]] năm 1945, địa bàn xã Mai Châu hiện nay là một phần xã Mai Thượng thuộc châu Mai Đà.
+
+Đầu năm [[1951]], xã Pù Bin được thành lập trên cơ sở tách từ xã Mai Thượng, là một trong năm xã của liên xã Mai Châu (bao gồm Tân Mai, Mai Thượng, Mai Hạ, Bao La và Pù Bin). Khi mới thành lập, xã Pù Bin có 11 xóm: Bin, Nà Phặt, Nàng, Pưa Mu, Hiềng, Chà Đáy, Noong Luông, Noong, Ó, Piềng Đậu, Nà Đú.
+
+Ngày [[21 tháng 9]] năm [[1956]], Thủ tướng Chính phủ ban hành Nghị định số 1053-TTg chia huyện Mai Đà thành hai huyện Đà Bắc và Mai Châu, địa bàn xã Nà Phòn, Mai Thượng và Pù Bin lúc bấy giờ là một phần xã Mai Thượng thuộc huyện Mai Châu.
+
+Ngày [[22 tháng 1]] năm [[1957]], Ủy ban hành chính Liên khu III quyết định chia xã Pù Bin thành hai xã Pù Bin và Noong Luông. Xã Noong Luông có 6 xóm: Noong Luông, Thắm Nành, Chà Đáy, Noong Ó, Hiềng, Nà Đú.<ref name=":02" />
+
+Ngày [[9 tháng 8]] năm [[1957]], Ủy ban kháng chiến Liên khu III quyết nghị chia xã Mai Thượng thành 7 xã: Chiềng Châu, Chiềng Sại, Đồng Bảng, Nà Mèo, Nà Phòn, Thung Khe, Tòng Đậu.<ref name=":0" />
+
+Ngày [[26 tháng 12]] năm [[1990]], thị trấn Mai Châu được thành lập trên cơ sở toàn bộ diện tích và dân số của xã Chiềng Sại, trở thành thị trấn huyện lỵ của huyện Mai Châu.
+
+Ngày [[27 tháng 3]] năm [[1999]], Chính phủ ban hành Nghị định số 15/1999/NĐ-CP về việc thành lập xã Tân Sơn trên cơ sở 1.695,6 ha diện tích tự nhiên và 1.090 người của xã Bao La.
+
+Đến năm [[2018]]:
+
+* Xã Nà Phòn có diện tích 4,97&nbsp;km², dân số là 1.639 người, mật độ dân số đạt 330 người/km².
+* Xã Nà Mèo có diện tích 27,43&nbsp;km², dân số là 1.402 người, mật độ dân số đạt 51 người/km²
+* Xã Noong Luông có diện tích 16,36&nbsp;km², dân số là 1.699 người, mật độ dân số đạt 104 người/km².
+* Xã Pù Bin có diện tích 21,42&nbsp;km², dân số là 1.831 người, mật độ dân số đạt 85 người/km².
+* Xã Thung Khe có diện tích 18,47&nbsp;km², dân số là 580 người, mật độ dân số đạt 31 người/km².
+* Xã Đồng Bảng có diện tích 27,48&nbsp;km², dân số là 1.547 người, mật độ dân số đạt 56 người/km², gồm 1 tiểu khu và 4 xóm: Đồng Bảng, Bâng, Vắt, Phiêng Xa.
+* Xã Tân Sơn có diện tích 11,61&nbsp;km², dân số là 1.147 người, mật độ dân số đạt 99 người/km².
+
+Ngày [[17 tháng 12]] năm [[2019]], [[Ủy ban Thường vụ Quốc hội]] ban hành Nghị quyết số 830/NQ-UBTVQH14 về việc sắp xếp các đơn vị hành chính cấp huyện, cấp xã thuộc tỉnh Hòa Bình (nghị quyết có hiệu lực từ ngày [[1 tháng 1]] năm [[2020]]).<ref name="NQ830" /> Theo đó:
+
+* Sáp nhập toàn bộ diện tích và dân số của xã Nà Mèo vào xã Nà Phòn.
+* Sáp nhập toàn bộ diện tích và dân số của ba xã Noong Luông, Pù Bin và Thung Khe thành xã Thành Sơn.
+* Sáp nhập toàn bộ diện tích và dân số của xã Đồng Bảng và xã Tân Sơn thành xã Đồng Tân.
+
+Ngày [[12 tháng 6]] năm [[2025]], [[Quốc hội Việt Nam|Quốc hội]] ban hành Nghị quyết số 202/2025/QH15 về việc sắp xếp đơn vị hành chính cấp tỉnh (nghị quyết có hiệu lực từ ngày [[12 tháng 6]] năm [[2025]]).<ref>{{Chú thích web |last=xaydungchinhsach.chinhphu.vn |date=2025-07-16 |title=TOÀN VĂN: Nghị quyết số 202/2025/QH15 về sắp xếp đơn vị hành chính cấp tỉnh |url=https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-202-2025-qh15-ve-sap-xep-don-vi-hanh-chinh-cap-tinh-119250612174148722.htm |url-status=live |archive-url=https://web.archive.org/web/20260705025431/https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-202-2025-qh15-ve-sap-xep-don-vi-hanh-chinh-cap-tinh-119250612174148722.htm |archive-date=2026-07-05 |access-date=2026-07-25 |website=Báo Điện tử Chính phủ |language=vi }}</ref> Theo đó, sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của tỉnh [[Vĩnh Phúc (tỉnh)|Vĩnh Phúc]], tỉnh [[Hòa Bình (tỉnh)|Hòa Bình]] và tỉnh [[Phú Thọ]] thành tỉnh mới có tên gọi là tỉnh '''Phú Thọ'''.
+
+Ngày [[16 tháng 6]] năm [[2025]]:
+
+* Quốc hội ban hành Nghị quyết số 203/2025/QH15 về việc sửa đổi, bổ sung một số điều của Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam (nghị quyết có hiệu lực từ ngày [[16 tháng 6]] năm [[2025]]).<ref>{{Chú thích web|last=xaydungchinhsach.chinhphu.vn|date=2025-06-28|title=NGHỊ QUYẾT 203/2025/QH15 SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA HIẾN PHÁP NƯỚC CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM|url=https://xaydungchinhsach.chinhphu.vn/nghi-quyet-203-2025-qh15-sua-doi-bo-sung-mot-so-dieu-cua-hien-phap-nuoc-cong-hoa-xa-hoi-chu-nghia-viet-nam-119250616181735552.htm|url-status=live|archive-url=https://web.archive.org/web/20260715200606/https://xaydungchinhsach.chinhphu.vn/nghi-quyet-203-2025-qh15-sua-doi-bo-sung-mot-so-dieu-cua-hien-phap-nuoc-cong-hoa-xa-hoi-chu-nghia-viet-nam-119250616181735552.htm|archive-date=2026-07-15|access-date=2026-07-15|website=Báo Điện tử Chính phủ|language=vi}}</ref> Theo đó, kết thúc hoạt động của đơn vị hành chính cấp huyện trong cả nước từ ngày 1 tháng 7 năm 2025.
+* Ủy ban Thường vụ Quốc hội ban hành Nghị quyết số 1676/NQ-UBTVQH15 về việc sắp xếp đơn vị hành chính cấp xã của tỉnh [[Phú Thọ]] năm 2025 (nghị quyết có hiệu lực từ ngày [[16 tháng 6]] năm [[2025]]).<ref>{{Chú thích web|last=xaydungchinhsach.chinhphu.vn|date=2025-06-20|title=Nghị quyết số 1676/NQ-UBTVQH15 sắp xếp các ĐVHC cấp xã của tỉnh Phú Thọ năm 2025|url=https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-1676-nq-ubtvqh15-sap-xep-cac-dvhc-cap-xa-cua-tinh-phu-tho-nam-2025-119250616204317326.htm|url-status=live|archive-url=https://web.archive.org/web/20260725082021/https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-1676-nq-ubtvqh15-sap-xep-cac-dvhc-cap-xa-cua-tinh-phu-tho-nam-2025-119250616204317326.htm|archive-date=2026-07-25|access-date=2026-07-27|website=Báo Điện tử Chính phủ|language=vi}}</ref> Theo đó, sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của thị trấn Mai Châu, các xã Nà Phòn, Thành Sơn, Tòng Đậu và một phần xã Đồng Tân thành xã mới có tên gọi là '''xã Mai Châu'''.
+
+Sau khi thực hiện sắp xếp, xã Mai Châu được được chia thành 37 tiểu khu - tổ dân phố - xóm, gồm 4 tiểu khu: 1, 2, 3, 4; 4 tổ dân phố: Chiềng Sại, Pom Coọng, Vãng, Văn và 29 xóm: Bâng, Bin, Cha, Cha Long, Chà Đáy, Chiềng An, Đậu, Đồng Bảng, Hiềng, Hợp Thành, Nà Chiềng, Nà Lụt, Nà Mèo, Nà Mo, Nà Phặt, Nà Piềng, Nàng, Nhót, Nhuối, Noong Luông, Phiêng Xa, Suối Rút, Thung Đẹt, Thung Khe, Tiểu Khu, Tòng, Vắt, Xăm Pà, Xô.<ref name=":1" /><ref name=":2" />
+
+Ngày [[24 tháng 12]] năm [[2025]], Ủy ban Thường vụ Quốc hội ban hành Nghị quyết số 111/2025/UBTVQH15 về phân loại đô thị (nghị quyết có hiệu lực từ ngày [[1 tháng 1]] năm [[2026]]).<ref>{{Chú thích web |last=xaydungchinhsach.chinhphu.vn|date=2026-01-21|title=Nghị quyết số 111/2025/UBTVQH15 về phân loại đô thị|url=https://xaydungchinhsach.chinhphu.vn/nghi-quyet-so-111-2025-ubtvqh15-ve-phan-loai-do-thi-119260101170432239.htm|access-date=2026-07-23|website=xaydungchinhsach.chinhphu.vn|language=vi}}</ref> Theo đó, đô thị loại IV, loại V, thị xã và thị trấn trước khi sắp xếp chưa được công nhận loại đô thị được xác định là đô thị loại III. Một phần xã Mai Châu được xác định là đô thị loại III (từ đô thị loại V của thị trấn Mai Châu cũ).<!-- 
+==Lịch sử==
+Ngày [[21 tháng 9]] năm [[1956]], Thủ tướng Chính phủ ban hành Nghị định số 1053-TTg chia huyện Mai Đà thành hai huyện Đà Bắc và Mai Châu, địa bàn xã Nà Phòn lúc bấy giờ là một phần xã Mai Thượng thuộc huyện Mai Châu.
+
+Ngày [[9 tháng 8]] năm [[1957]], Ủy ban kháng chiến Liên khu III quyết nghị chia xã Mai Thượng thành 7 xã: Chiềng Châu, Chiềng Sại, Đồng Bảng, Nà Mèo, Nà Phòn, Thung Khe, Tòng Đậu.<ref name=":0">{{chú thích sách|tác giả=|tựa đề=Địa chí Hòa Bình|nhà xuất bản=Nhà xuất bản Chính trị quốc gia|year=2005|nơi=|trang=313|url=https://www.google.com/books/edition/Địa_ch%C3%AD_Hòa_Bình/jUZRAQAAMAAJ|doi=|id=|isbn=}}</ref><ref>{{Chú thích web|url=http://baohoabinh.com.vn/289/121439/Xa-Na-Phon-Nhieu-tiem-nang-de-phat-trien-KT-XH.htm|tựa đề=Xã Nà Phòn-Nhiều tiềm năng để phát triển KT-XH|tác giả=|họ=|tên=|ngày=2018-09-10|website=Báo Hòa Bình điện tử|url lưu trữ=|ngày lưu trữ=|ngày truy cập=}}</ref><ref>{{Chú thích web|url=http://baohoabinh.com.vn/289/121090/Xa-Na-Meo-tung-buoc-vuot-kho-vuon-len.htm|tựa đề=Xã Nà Mèo-từng bước vượt khó vươn lên|tác giả=|họ=|tên=|ngày=2018-08-30|website=Báo Hòa Bình điện tử|url lưu trữ=|ngày lưu trữ=|ngày truy cập=}}</ref>
+
+Đến năm 2018, xã Nà Phòn có diện tích 4,97&nbsp;km², dân số là 1.639 người, mật độ dân số đạt 330 người/km². Xã Nà Mèo có diện tích 27,43&nbsp;km², dân số là 1.402 người, mật độ dân số đạt 51 người/km².
+
+Ngày [[17 tháng 12]] năm [[2019]], Ủy ban Thường vụ Quốc hội ban hành Nghị quyết số 830/NQ-UBTVQH14 về việc sắp xếp các đơn vị hành chính cấp huyện, cấp xã thuộc tỉnh Hòa Bình (nghị quyết có hiệu lực từ ngày [[1 tháng 1]] năm [[2020]]).<ref name=NQ830>{{Chú thích web|url=https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/Nghi-quyet-830-NQ-UBTVQH14-2019-sap-xep-don-vi-hanh-chinh-cap-huyen-xa-thuoc-tinh-Hoa-Binh-432100.aspx|tựa đề=Nghị quyết số 830/NQ-UBTVQH14 năm 2019 về việc sắp xếp các đơn vị hành chính cấp huyện, cấp xã thuộc tỉnh Hòa Bình|tác giả=|họ=|tên=|ngày=|website=|url lưu trữ=|ngày lưu trữ=|ngày truy cập=}}</ref> Theo đó, sáp nhập toàn bộ diện tích và dân số của xã Nà Mèo vào xã Nà Phòn.
+
+==Lịch sử==
+Sau [[Cách mạng Tháng Tám]] năm 1945, địa bàn xã Thành Sơn hiện nay là một phần xã Mai Thượng thuộc châu Mai Đà.
+
+Đầu năm 1951, xã Pù Bin được thành lập trên cơ sở tách từ xã Mai Thượng, là một trong năm xã của liên xã Mai Châu (bao gồm Tân Mai, Mai Thượng, Mai Hạ, Bao La và Pù Bin). Khi mới thành lập, xã Pù Bin có 11 xóm: Bin, Nà Phặt, Nàng, Pưa Mu, Hiềng, Chà Đáy, Noong Luông, Noong, Ó, Piềng Đậu, Nà Đú.<ref>{{Chú thích web|url=http://baohoabinh.com.vn/289/123008/Xa-Pu-Bin-tao-duoc-chuyen-tot-tr111ng-phat-trien-KT-XH.htm|tựa đề=Xã Pù Bin tạo được chuyển tốt trong phát triển KT-XH|tác giả=|họ=|tên=|ngày=2018-10-29|website=Báo Hòa Bình điện tử|url lưu trữ=|ngày lưu trữ=|ngày truy cập=}}</ref>
+
+Ngày [[21 tháng 9]] năm [[1956]], Thủ tướng Chính phủ ban hành Nghị định số 1053-TTg chia huyện Mai Đà thành hai huyện Đà Bắc và Mai Châu, các xã Mai Thượng và Pù Bin thuộc huyện Mai Châu.
+
+Ngày [[22 tháng 1]] năm [[1957]], Ủy ban hành chính Liên khu III quyết định chia xã Pù Bin thành hai xã Pù Bin và Noong Luông. Xã Noong Luông có 6 xóm: Noong Luông, Thắm Nành, Chà Đáy, Noong Ó, Hiềng, Nà Đú.<ref name=":0">{{chú thích sách|tác giả=|tựa đề=Địa chí Hòa Bình|nhà xuất bản=Nhà xuất bản Chính trị quốc gia|year=2005|nơi=|trang=313|url=https://www.google.com/books/edition/Địa_ch%C3%AD_Hòa_Bình/jUZRAQAAMAAJ|doi=|id=|isbn=}}</ref><ref>{{Chú thích web|url=http://baohoabinh.com.vn/289/122842/Xa-No111ng-Luong-dang-tung-buoc-vuot-kho-noi-vung-cao.htm|tựa đề=Xã Noong Luông đang từng bước vượt khó nơi vùng cao|tác giả=|họ=|tên=|ngày=2018-10-24|website=Báo Hòa Bình điện tử|url lưu trữ=|ngày lưu trữ=|ngày truy cập=}}</ref>
+
+Ngày [[9 tháng 8]] năm [[1957]], Ủy ban kháng chiến Liên khu III quyết nghị chia xã Mai Thượng thành 7 xã: Chiềng Châu, Chiềng Sại, Đồng Bảng, Nà Mèo, Nà Phòn, Thung Khe, Tòng Đậu.<ref name=":0" /><ref>{{Chú thích web|url=http://www.baohoabinh.com.vn/289/121866/Mien-dat-tren-dinh-Thung-Khe.htm|tựa đề=Miền đất trên đỉnh Thung Khe|tác giả=|họ=|tên=|ngày=2018-09-21|website=Báo Hòa Bình điện tử|url lưu trữ=|ngày lưu trữ=|ngày truy cập=}}</ref>
+
+Đến năm 2018, xã Noong Luông có diện tích 16,36&nbsp;km², dân số là 1.699 người, mật độ dân số đạt 104 người/km²; xã Pù Bin có diện tích 21,42&nbsp;km², dân số là 1.831 người, mật độ dân số đạt 85 người/km²; xã Thung Khe có diện tích 18,47&nbsp;km², dân số là 580 người, mật độ dân số đạt 31 người/km².
+
+Ngày [[17 tháng 12]] năm [[2019]], Ủy ban Thường vụ Quốc hội ban hành Nghị quyết số 830/NQ-UBTVQH14 về việc sắp xếp các đơn vị hành chính cấp huyện, cấp xã thuộc tỉnh Hòa Bình (nghị quyết có hiệu lực từ ngày [[1 tháng 1]] năm [[2020]]).<ref name=NQ830>{{Chú thích web|url=https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/Nghi-quyet-830-NQ-UBTVQH14-2019-sap-xep-don-vi-hanh-chinh-cap-huyen-xa-thuoc-tinh-Hoa-Binh-432100.aspx|tựa đề=Nghị quyết số 830/NQ-UBTVQH14 năm 2019 về việc sắp xếp các đơn vị hành chính cấp huyện, cấp xã thuộc tỉnh Hòa Bình|tác giả=|họ=|tên=|ngày=|website=|url lưu trữ=|ngày lưu trữ=|ngày truy cập=}}</ref> Theo đó, sáp nhập toàn bộ diện tích và dân số của ba xã Noong Luông, Pù Bin và Thung Khe thành xã Thành Sơn.
+
+==Lịch sử==
+Địa bàn xã Đồng Tân hiện nay trước đây vốn là hai xã Đồng Bảng và Tân Sơn thuộc huyện Mai Châu.
+
+Xã Đồng Bảng được thành lập vào ngày [[9 tháng 8]] năm [[1957]] trên cơ sở một phần diện tích và dân số của xã Mai Thượng cũ.<ref>{{chú thích sách|tác giả=|tựa đề=Địa chí Hòa Bình|nhà xuất bản=Nhà xuất bản Chính trị quốc gia|year=2005|nơi=|trang=313|url=https://www.google.com/books/edition/Địa_ch%C3%AD_Hòa_Bình/jUZRAQAAMAAJ|doi=|id=|isbn=}}</ref><ref>{{Chú thích web|url=http://baohoabinh.com.vn/289/123931/Xa-Dong-Bang,-phat-huy-loi-the-tr111ng-phat-trien-ben-Quoc-lo-6.htm|tựa đề=Xã Đồng Bảng, phát huy lợi thế trong phát triển bên Quốc lộ 6|tác giả=|họ=|tên=|ngày=2018-11-27|website=Báo Hòa Bình điện tử|url lưu trữ=|ngày lưu trữ=|ngày truy cập=}}</ref>
+
+Xã Tân Sơn được thành lập vào ngày [[27 tháng 3]] năm [[1999]] trên cơ sở 1.695,6 ha diện tích tự nhiên và 1.090 người của xã Bao La.<ref>{{Chú thích web|url=https://thuvienphapluat.vn/van-ban/bat-dong-san/Nghi-dinh-15-1999-ND-CP-dieu-chinh-dia-gioi-hanh-chinh-va-thanh-lap-thi-tran-xa-cua-cac-huyen-Kim-Boi-Mai-Chau-Lac-Son-va-Yen-Thuy-tinh-Hoa-Binh-45162.aspx|tựa đề=Nghị định số 15/1999/NĐ-CP về việc điều chỉnh địa giới hành chính và thành lập thị trấn, xã của các huyện Kim Bôi, Mai Châu, Lạc Sơn và Yên Thủy, tỉnh Hòa Bình|tác giả=|họ=|tên=|ngày=|website=|url lưu trữ=|ngày lưu trữ=|ngày truy cập=}}</ref>
+
+Đến năm 2018, xã Đồng Bảng có diện tích 27,48&nbsp;km², dân số là 1.547 người, mật độ dân số đạt 56 người/km², gồm 1 tiểu khu và 4 xóm: Đồng Bảng, Bâng, Vắt, Phiêng Xa. Xã Tân Sơn có diện tích 11,61&nbsp;km², dân số là 1.147 người, mật độ dân số đạt 99 người/km².
+
+Ngày [[17 tháng 12]] năm [[2019]], Ủy ban Thường vụ Quốc hội ban hành Nghị quyết số 830/NQ-UBTVQH14 về việc sắp xếp các đơn vị hành chính cấp huyện, cấp xã thuộc tỉnh Hòa Bình.<ref name=NQ830>{{Chú thích web|url=https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/Nghi-quyet-830-NQ-UBTVQH14-2019-sap-xep-don-vi-hanh-chinh-cap-huyen-xa-thuoc-tinh-Hoa-Binh-432100.aspx|tựa đề=Nghị quyết số 830/NQ-UBTVQH14 năm 2019 về việc sắp xếp các đơn vị hành chính cấp huyện, cấp xã thuộc tỉnh Hòa Bình|tác giả=|họ=|tên=|ngày=|website=|url lưu trữ=|ngày lưu trữ=|ngày truy cập=}}</ref> Theo đó, sáp nhập toàn bộ diện tích và dân số của xã Đồng Bảng và xã Tân Sơn thành xã Đồng Tân. 
+-->
+
+==Du lịch==
+* Bản Lác là một làng dân tộc Thái, thu hút đông khách du lịch tham quan.
+
+==Danh nhân==
+* [[Đặng Bích Ngọc]] (sinh năm 1980), Đại biểu Quốc hội nước [[Việt Nam|Cộng hòa xã hội chủ nghĩa Việt Nam]].
+
+==Tham khảo==
+{{tham khảo}}
+==Liên kết ngoài==
+* [http://dddn.com.vn/20090730121836504cat118/ban-lac-mai-chau-diem-sang-trong-ban-do-du-lich-viet.htm Bản Lác - Mai Châu: "Điểm sáng" trong bản đồ du lịch Việt] {{Webarchive|url=https://web.archive.org/web/20121111081459/http://dddn.com.vn/20090730121836504cat118/ban-lac-mai-chau-diem-sang-trong-ban-do-du-lich-viet.htm |date=2012-11-11 }}
+
+==Tham khảo==
+{{Sơ khai Phú Thọ}}
+{{Đơn vị hành chính thuộc tỉnh Phú Thọ}}

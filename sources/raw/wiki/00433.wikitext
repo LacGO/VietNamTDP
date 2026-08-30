@@ -1,0 +1,171 @@
+{{Thông tin đơn vị hành chính Việt Nam |Xã
+| tên = Nội Bài
+| hình =Sân bay Nội Bài.jpg 
+| ghi chú hình =[[Sân bay quốc tế Nội Bài]] 
+| vĩ độ = 21.229201462101205
+| kinh độ = 105.75825734734369
+| diện tích = 51,64 km²
+| dân số = 70.469 người
+| thời điểm dân số = 2025
+| mật độ dân số = {{formatnum:{{#expr:floor({{formatnum:70.469| R}}/{{formatnum:51,64| R}})}} }} người/km²
+| vùng = [[Đồng bằng sông Hồng]]
+| thành phố = [[Hà Nội]]
+| thành lập = 
+| trụ sở UBND = Thôn Thanh Nhàn<ref>{{Chú thích web |url=https://storage-vnportal.vnpt.vn/gov-hni/6244/VanBan/2025/6/25/TB-729-2025.pdf |title=Thông báo số 729/TB-UBND ngày 25 tháng 6 năm 2025 của Ủy ban nhân dân thành phố Hà Nội về địa điểm trụ sở làm việc của 126 phường, xã sau sắp xếp thuộc phạm vi quản lý của thành phố Hà Nội|access-date=2026-06-15 |archive-date=2026-06-15 |archive-url=https://web.archive.org/web/20260615034519/https://storage-vnportal.vnpt.vn/gov-hni/6244/VanBan/2025/6/25/TB-729-2025.pdf |url-status=dead | website = Cổng Thông tin điện tử Ủy ban nhân dân thành phố Hà Nội}}</ref>
+| mã hành chính =00433<ref>{{Chú thích web |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/19ttg.signed.pdf |title=Quyết định số 19/2025/QĐ-TTg ngày 30 tháng 6 năm 2025 của Thủ tướng Chính phủ về việc Ban hành Bảng danh mục và mã số các đơn vị hành chính Việt Nam |access-date=2026-06-15 |archive-date=2026-06-15 |archive-url=https://web.archive.org/web/20260615034519/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/19ttg.signed.pdf |url-status=dead | website = Cổng Thông tin điện tử Chính phủ}}</ref> 
+| mã bưu chính = 
+|bản đồ 1={{maplink|frame=yes|plain=yes|type=shape|frame-width=280|frame-align=center|stroke-width=3}}|web={{url|noibai.hanoi.gov.vn}}|trụ sở Đảng ủy=Thôn Yên Ninh}}
+{{về-phân biệt| xã thuộc Hà Nội| Sân bay quốc tế Nội Bài}}
+'''Nội Bài''' là một [[Xã (Việt Nam)|xã]] thuộc thành phố [[Hà Nội]], [[Việt Nam]].
+
+== Địa lý ==
+Xã Nội Bài có vị trí địa lý:
+
+* Phía đông giáp xã [[Sóc Sơn (xã)|Sóc Sơn]]
+* Phía tây giáp phường [[Phúc Yên (phường)|Phúc Yên]] thuộc tỉnh [[Phú Thọ]] với ranh giới tự nhiên là [[sông Cà Lồ]]
+* Phía nam giáp xã [[Tiến Thắng]], xã [[Quang Minh]] và xã [[Phúc Thịnh]] với ranh giới tự nhiên là [[sông Cà Lồ]]
+* Phía bắc giáp xã [[Kim Anh (xã)|Kim Anh]] và xã [[Trung Giã]].<ref>{{Chú thích web |last=Viện nghiên cứu Phát triển kinh tế - xã hội Hà Nội |date=2025-07-02 |title=Xã Nội Bài: Những thông tin chi tiết sau sắp xếp |url=https://hanoionline.vn/xa-noi-bai-nhung-thong-tin-chi-tiet-sau-sap-xep-344089.htm |url-status=live |archive-url=https://web.archive.org/web/20260701400809/https://hanoionline.vn/xa-noi-bai-nhung-thong-tin-chi-tiet-sau-sap-xep-344089.htm |archive-date=2026-07-01 |access-date=2026-07-01 |website=Cơ quan Báo và Phát thanh Truyền hình Hà Nội}}</ref><ref>{{Chú thích web|last=Cơ quan Báo và Phát thanh Truyền hình Hà Nội|date=2025-07-08|title=Xã Nội Bài: Tất cả thông tin chỉ dẫn bạn cần biết|url=https://hanoionline.vn/xa-noi-bai-tat-ca-thong-tin-chi-dan-ban-can-biet-345356.htm|url-status=bot: unknown|archive-url=https://web.archive.org/web/20250708014226/https://hanoionline.vn/xa-noi-bai-tat-ca-thong-tin-chi-dan-ban-can-biet-345356.htm|archive-date=2025-07-08|access-date=2026-07-11}}</ref>
+
+Xã Nội Bài có diện tích tự nhiên là 51,64 km<sup>2</sup>, quy mô dân số năm 2025 là 70.469 người và mật độ dân số đạt 1.364 người/km<sup>2</sup>.<ref>{{Chú thích web|last=Mai Hữu|date=2026-04-05|title=Hà Nội: Chi tiết phương án tổng thể sắp xếp đơn vị hành chính cấp xã|url=https://hanoimoi.vn/ha-noi-chi-tiet-phuong-an-tong-the-sap-xep-don-vi-hanh-chinh-cap-xa-700278.html|url-status=bot: unknown|archive-url=https://web.archive.org/web/20250710163328/https://hanoimoi.vn/ha-noi-chi-tiet-phuong-an-tong-the-sap-xep-don-vi-hanh-chinh-cap-xa-700278.html|archive-date=2025-07-10|access-date=2026-07-11|website=Cơ quan Báo và Phát thanh, truyền hình Hà Nội}}</ref><ref>Công văn số 2896/BNV-CQĐP ngày 27 tháng 5 năm 2025 của Bộ Nội vụ về việc cung cấp thông tin danh mục dự kiến đơn vị hành chính cấp xã mới.</ref>
+
+== Lịch sử==
+
+=== Trước năm 1976 ===
+Từ xa xưa đến thập kỷ 50-60 của thế kỷ XX, xã Nội Bài có nhiều lần thay đổi về tên gọi và địa giới hành chính.
+
+Năm 544-548, thời vua Lý Nam Đế, gọi là làng Gia Hạ, ở tại Đồng Nẻ. Về sau, làng Gia Hạ chuyển về định cư sát sông Cà Lồ nhằm đảm bảo nguồn nước sinh sống lâu dài.
+
+Năm 557, thời Việt Vương Triệu Quang Phục, làng Gia Hạ đổi tên thành làng Hương Gia.
+
+Năm 1816, thời vua Duy Tân, làng Gia Hạ được chia thành hai làng Hương Gia, Thụy Hương và thuộc các huyện Thiên Đức, Đông Ngàn, Kim Hoa (tỉnh Bắc Ninh).
+
+Năm 1836-1909, Hương Gia là lỵ sở của huyện Kim Anh.
+
+Trước cách mạng Tháng Tám năm 1945, Ủy ban cách mạng lâm thời huyện Kim Anh quyết định thành lập xã Tân Hưng và lấy tên mới là xã Việt Cường.
+
+Ngày 20 tháng 6 năm 1949, do yêu cầu của cuộc kháng chiến chống thực dân Pháp, huyện Kim Anh quyết định hợp nhất hai xã Việt Cường và Phù Xá lấy tên là xã Phú Cường. Khi sáp nhập, xã Phú Cường gồm các thôn: Hương Gia, Thụy Hương, Phú Ninh, (thuộc xã Việt Cường) và thôn Đông Bài, Nội Bài, Bùa Hậu, Phù Xá Đoài, Phù Xá Đông (thuộc xã Phù Xá), còn lại hai thôn Thạch Lỗi và Bến Cốc được nhập về xã Minh Tân.
+
+Năm 1955, để phù hợp với giai đoạn cách mạng mới, huyện Kim Anh quyết định điều chỉnh lại địa giới hành chính một số thôn, xã. Theo đó, Phú Cường được chia tách thành hai xã Phú Minh và Phú Cường. Xã Phú Cường gồm các thôn: Hương Gia, Thụy Hương, ấp Cầu Đen, Đồng Lều, Tân Phú.<ref>{{Chú thích web | url = http://moha.gov.vn/boundary/vnBoundary.html | ngày truy cập = 2011-01-01 | tựa đề = Bản đồ hành chính Việt Nam | archive-date = ngày 23 tháng 8 năm 2011 | archive-url = https://web.archive.org/web/20110823095511/http://moha.gov.vn/boundary/vnBoundary.html }}</ref>
+
+=== Giai đoạn 1976 – nay ===
+Sau ngày 2 tháng 7 năm 1976, 6 xã: Hiền Ninh, Mai Đình, Phú Cường, Phú Minh, Quang Tiến và Thanh Xuân thuộc huyện [[Kim Anh (huyện)|Kim Anh]] thuộc tỉnh [[Vĩnh Phú (xã)|Vĩnh Phú]].
+
+Ngày 5 tháng 7 năm 1977, hợp nhất huyện [[Đa Phúc (huyện)|Đa Phúc]], huyện [[Kim Anh (huyện)|Kim Anh]], thị trấn (thuộc tỉnh) [[Xuân Hòa, Phú Thọ|Xuân Hòa]] thành một huyện lấy tên là huyện [[Sóc Sơn (huyện)|Sóc Sơn]]. Khi đó, 6 xã: Hiền Ninh, Mai Đình, Phú Cường, Phú Minh, Quang Tiến và Thanh Xuân thuộc huyện [[Sóc Sơn (huyện)|Sóc Sơn]].<ref>Quyết định số 178-CP ngày 5 tháng 7 năm 1977 của Hội đồng Chính phủ về việc hợp nhất và điều chỉnh địa giới một số huyện thuộc tỉnh Vĩnh Phú.</ref>
+
+Ngày 29 tháng 12 năm 1978, sáp nhập huyện [[Sóc Sơn (huyện)|Sóc Sơn]] của tỉnh [[Vĩnh Phú (tỉnh)|Vĩnh Phú]] vào thành phố [[Hà Nội]]. Khi đó, 6 xã: Hiền Ninh, Mai Đình, Phú Cường, Phú Minh, Quang Tiến và Thanh Xuân thuộc huyện [[Sóc Sơn (huyện)|Sóc Sơn]] của thành phố [[Hà Nội]].<ref>Nghị quyết ngày 29 tháng 12 năm 1978 của Quốc hội khóa VI, Kỳ họp thứ 4 phê chuẩn việc phân vạch lại địa giới thành phố Hà Nội, thành phố Hồ Chí Minh, các tỉnh Hà Sơn Bình, Vĩnh Phú, Cao Lạng, Bắc Thái, Quảng Ninh và Đồng Nai.</ref>
+
+Ngày 16 tháng 6 năm 2025:
+
+* Kết thúc hoạt động của đơn vị hành chính cấp huyện trong cả nước.<ref>{{Chú thích web |last= |date= |title=Nghị quyết số 203/2025/QH15 ngày 16 tháng 6 năm 2025 của Quốc hội khóa XV, Kỳ họp thứ 9 về việc sửa đổi, bổ sung một số điều của Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/nq-sua-doi-hien-phap.pdf |url-status=live |archive-url=https://web.archive.org/web/20260613090807/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/nq-sua-doi-hien-phap.pdf |archive-date=2026-06-13 |access-date=2026-06-13 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+* Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của các xã Phú Cường, Hiền Ninh, Thanh Xuân và phần còn lại của các xã Mai Đình, Phú Minh, Quang Tiến (huyện [[Sóc Sơn (huyện)|Sóc Sơn]]) thành xã mới có tên gọi là xã Nội Bài.<ref>{{Chú thích web |title=Nghị quyết số 1656/NQ-UBTVQH15 ngày 16 tháng 6 năm 2025 của Ủy ban Thường vụ Quốc hội về việc sắp xếp các đơn vị hành chính cấp xã của thành phố Hà Nội năm 2025 |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf |url-status=bot: unknown |archive-url=https://web.archive.org/web/20260513110024/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf |archive-date=2026-05-13 |access-date=2026-06-30 |website=Cổng Thông tin điện tử Chính phủ }}</ref>
+* Sau khi sắp xếp, xã Nội Bài được chia thành 32 tổ dân cư – khu dân cư – thôn, gồm 2 tổ dân cư, 2 khu dân cư và 28 thôn.<ref>4 thôn: Dân cư Hàng không, Hương Gia, Tân Trại và Thụy Hương của xã Phú Cường cũ; 7 thôn: Hiền Lương, Khu Chợ, Nam Cương, Ninh Môn, Tân Thái, Tân Trung Chùa và Yên Ninh của xã Hiền Ninh cũ; 9 tổ dân cư – thôn, gồm 2 tổ dân cư: Kim Anh, Thạch Lỗi và 7 thôn: Bái Thượng, Chợ Nga, Đồi Cốc, Đồng Giá, Na, Thanh Nhàn, Trung của xã Thanh Xuân cũ; 6 khu dân cư – thôn, gồm 2 khu dân cư: 2, 3 và 4 thôn: Đoài, Đông, Tập thể Sân bay, Thắng Lợi của xã Phú Minh cũ; 6 thôn: Bắc Hạ, Bắc Thượng, Điền Xá, Đông Lai, Quảng Hội và Xuân Bách của xã Quang Tiến cũ.</ref><ref>{{Chú thích web |title=Thông tư số 10/2022/TT-BTNMT ngày 29 tháng 9 năm 2022 của Bộ Tài nguyên và Môi trường về việc Ban hành Danh mục địa danh dân cư, sơn văn, thủy văn, kinh tế – xã hội phục vụ công tác thành lập bản đồ thành phố Hà Nội |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2022/10/10-btnmt.pdf |url-status=bot: unknown |archive-url=https://web.archive.org/web/20260630082812/https://datafiles.chinhphu.vn/cpp/files/vbpq/2022/10/10-btnmt.pdf |archive-date=2026-06-30 |access-date=2026-06-30 |website=Cổng Thông tin điện tử Chính phủ }}</ref><ref>{{Chú thích web |last=Trang Thông tin điện tử xã Nội Bài – thành phố Hà Nội |date=2026-02-25 |title=Công bố danh sách chính thức những người ứng cử đại biểu Hội đồng nhân dân xã Nội Bài nhiệm kỳ 2026 – 2031 |url=https://noibai.hanoi.gov.vn/bau-cu-dai-bieu-quoc-hoi-khoa-xvi-va-dai-bieu-hdnd-cac-cap-nhiem-ky-2026-2031/cong-bo-danh-sach-chinh-thuc-nhung-nguoi-ung-cu-dai-bieu-hdnd-xa-noi-bai-nhiem-ky-2026-2031-2723260226151631137.htm |url-status=live |archive-url=https://web.archive.org/web/20260701400809/https://noibai.hanoi.gov.vn/bau-cu-dai-bieu-quoc-hoi-khoa-xvi-va-dai-bieu-hdnd-cac-cap-nhiem-ky-2026-2031/cong-bo-danh-sach-chinh-thuc-nhung-nguoi-ung-cu-dai-bieu-hdnd-xa-noi-bai-nhiem-ky-2026-2031-2723260226151631137.htm |archive-date=2026-07-01 |access-date=2026-07-01}}</ref>
+
+Ngày 26 tháng 6 năm 2026, thành lập 12 thôn mới: Thắng Lợi, Thụy Hương, Thanh Nhàn, Kim Anh, Thạch Lỗi, Nam Cương, Ninh Môn, Yên Ninh, Hiền Lương, Ninh Bắc và Đông Lai; đổi tên 2 thôn: Phù Xá Đông và Phù Xá Đoài lần lượt thành 2 thôn: Đông và Đoài.<ref>1. Các thôn giữ nguyên gồm: Thôn Phù Xá Đông (đổi tên từ thôn Đông); thôn Phù Xá Đoài (đổi tên từ thôn Đoài), thôn Hương Gia, thôn Tân Trại, thôn Xuân Bách; 2. Thôn Thắng Lợi: Sáp nhập thôn Thắng Lợi, Khu dân cư số 2, Khu dân cư số 3, Tập thể sân bay Nội Bài; 3. Thôn Thụy Hương: Sáp nhập thôn Thụy Hương và thôn Dân cư Hàng không; 4. Thôn Trung Na: Sáp nhập thôn Na và thôn Trung; 5. Thôn Thanh Nhàn: Sáp nhập thôn Thanh Nhàn, Bái Thượng, Chợ Nga; 6. Thôn Kim Anh: Sáp nhập thôn Đồi Cốc và Tổ dân cư Kim Anh; 7. Thôn Thạch Lỗi: Sáp nhập thôn Thạch Lỗi, TDC Thạch Lỗi và thôn Đồng Giá; 8. Thôn Nam Cương: Sáp nhập thôn Khu Chợ và Nam Cương; 9. Thôn Ninh Môn: Sáp nhập thôn Ninh Môn, xóm Thái Đường (thôn Tân Thái) và xóm Chùa Nấu (thôn Tân Trung Chùa); 10. Thôn Yên Ninh: Sáp nhập thôn Yên Ninh và xóm Tân An (thôn Tân Thái); 11. Thôn Hiền Lương: Sáp nhập thôn Hiền Lương và 5 xóm thuộc thôn Tân Trung Chùa gồm xóm Trung Lương, Tân Lương, Bốt Trong, Bốt Ngoài, Lan Chùa; 12. Thôn Ninh Bắc: Sáp nhập thôn Bắc Hạ, Bắc Thượng, Điền Xá; 13. Thôn Đông Lai: sáp nhập thôn Đông Lai và Quảng Hội.</ref><ref name=":2">{{Chú thích web |last=Trang Thông tin điện tử xã Nội Bài – thành phố Hà Nội |date=2026-06-12 |title=Đề án sắp xếp, tổ chức lại thôn trên địa bàn xã Nội Bài, thành phố Hà Nội |url=https://noibai.hanoi.gov.vn/chi-dao-dieu-hanh/de-an-sap-xep-to-chuc-lai-thon-tren-dia-ban-xa-noi-bai-thanh-pho-ha-noi-2723260612144102734.htm |url-status=dead |archive-url=https://web.archive.org/web/20260719401509/https://noibai.hanoi.gov.vn/chi-dao-dieu-hanh/de-an-sap-xep-to-chuc-lai-thon-tren-dia-ban-xa-noi-bai-thanh-pho-ha-noi-2723260612144102734.htm |archive-date=2026-07-19 |access-date=2026-07-19}}</ref><ref name=":0">{{Chú thích web |last=Trang Thông tin điện tử xã Nội Bài – thành phố Hà Nội |date=2026-06-05 |title=Phương án sắp xếp lại các thôn/khu/tổ dân cư trên địa bàn xã Nội Bài |url=https://noibai.hanoi.gov.vn/chi-dao-dieu-hanh/phuong-an-sap-xep-lai-cac-thon-khu-to-dan-cu-tren-dia-ban-xa-noi-bai-2723260605192015212.htm |url-status=live |archive-url=https://web.archive.org/web/20260705400809/https://noibai.hanoi.gov.vn/chi-dao-dieu-hanh/phuong-an-sap-xep-lai-cac-thon-khu-to-dan-cu-tren-dia-ban-xa-noi-bai-2723260605192015212.htm |archive-date=2026-07-05 |access-date=2026-07-05}}</ref><ref name=":1">{{Chú thích web |last=Như Anh |date=2026-06-26 |title=Kỳ họp thứ ba, Hội đồng nhân dân xã Nội Bài: Đánh giá toàn diện tình hình kinh tế – xã hội 6 tháng đầu năm 2026 |url=https://nguoihanoi.vn/ky-hop-thu-ba-hdnd-xa-noi-bai-danh-gia-toan-dien-tinh-hinh-kinh-te-xa-hoi-6-thang-dau-nam-2026-101440.html |url-status=bot: unknown |archive-url=https://web.archive.org/web/20260711030927/https://nguoihanoi.vn/ky-hop-thu-ba-hdnd-xa-noi-bai-danh-gia-toan-dien-tinh-hinh-kinh-te-xa-hoi-6-thang-dau-nam-2026-101440.html |archive-date=2026-07-11 |access-date=2026-07-05 |website=Tạp chí Người Hà Nội }}</ref>
+
+== Hành chính ==
+Xã Nội Bài được chia thành 17 thôn: Đông Lai, Hiền Lương, Hương Gia, Kim Anh, Nam Cương, Ninh Bắc, Ninh Môn, Phù Xá Đoài, Phù Xá Đông, Tân Trại, Thanh Nhàn, Thạch Lỗi, Thắng Lợi, Thụy Hương, Trung Na, Xuân Bách và Yên Ninh.<ref name=":2" /><ref name=":0" /><ref name=":1" />
+{| class="wikitable sortable" align="center" width="100%" cellspacing="6" cellpadding="0" style="background: #f9f9f9; border: 1px #aaa solid; margin-top: 16px"
+! colspan="4" style="background: #E6E6FA; font-size: 95%;" |Danh sách các thôn thuộc xã Nội Bài<ref name=":2" /><ref name=":0" /><ref name=":1" />
+|-
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Đông Lai
+|932
+|-
+| align="left" |Hiền Lương
+|1.308
+|-
+| align="left" |Hương Gia
+|1.278
+|-
+| align="left" |Kim Anh
+|580
+|-
+| align="left" |Nam Cương
+|618
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Ninh Bắc
+|1.273
+|-
+| align="left" |Ninh Môn
+|1.091
+|-
+| align="left" |Phù Xá Đoài
+|1.234
+|-
+| align="left" |Phù Xá Đông
+|944
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Tân Trại
+|1.408
+|-
+| align="left" |Thanh Nhàn
+|1.276
+|-
+| align="left" |Thạch Lỗi
+|1.360
+|-
+| align="left" |Thắng Lợi
+|1.108
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Thụy Hương
+|1.413
+|-
+| align="left" |Trung Na
+|671
+|-
+| align="left" |Xuân Bách
+|789
+|-
+| align="left" |Yên Ninh
+|902
+|}
+|}
+
+== Giao thông==
+Trên địa bàn xã có [[sân bay quốc tế Nội Bài]].
+
+== Di tích - Danh thắng==
+
+=== Làng Thụy Hương ===
+Thụy Hương là một làng cổ thuộc xã Nội Bài, nằm ở phía Nam [[sân bay quốc tế Nội Bài]]. Năm 544-548, thời vua Lý Nam Đế, gọi là làng Gia Hạ, ở tại Đồng Nẻ. Về sau, làng Gia Hạ chuyển về định cư sát sông Cà Lồ nhằm đảm bảo nguồn nước sinh sống lâu dài.
+
+Vào thế kỉ thứ 9, làng Thụy Hương có tên là hương Cát Lợi, huyện Thường Lạc, sau là thôn Đoài, xã Da Hạ, huyện Kim Hoa phủ [[Bắc Hà (phủ)|Bắc Hà]].
+Năm 1816, thời vua Duy Tân, có tên là Thụy Hương thuộc các huyện Thiên Đức, Đông Ngàn, Kim Hoa (tỉnh [[Bắc Ninh]])
+Ngày 20/6/1949, Thụy Hương thuộc xã Phú Cường, huyện Kim Anh, tỉnh Vĩnh Phú
+ngày 5 tháng năm 1977, huyện Kim Anh hợp nhất với huyện Đa Phúc thành huyện [[Sóc Sơn (huyện)|Sóc Sơn]]. Ngày 29/12/1978 huyện [[Sóc Sơn (huyện)|Sóc Sơn]] được chuyển về Hà Nội.
+ 
+Đình Thụy Hương là nơi thờ đức thánh Tam Giang – những vị tướng nổi tiếng trung quân ái quốc dưới thời Triệu Việt Vương.
+
+Sự tích [[thánh Tam Giang]] cho biết: Vào năm 502, ở làng Vân Mẫu, thành phố [[Bắc Ninh (thành phố)|Bắc Ninh]] có một người con gái tên là Phùng Từ Nhan. Năm 18 tuổi, Từ Nhan chiêm bao thấy thần Long từ trên trời hạ xuống quấn mình trên sông Lục Đầu, sau đó bà mang thai 14 tháng và sinh hạ được cái bọc năm con: 4 trai 1 gái. Do là con trời ban cho nên bà lấy [[họ Trương]] của [[Ngọc Hoàng]] đặt cho các con là [[Trương Hống]], [[Trương Hát]], Trương Lừng, Trương Lẫy và Trương Đạm Nương. Thời gian sau đó, [[Ngọc Hoàng]] sai Lã Tiên Ông xuống trần dạy văn võ cho 5 người con tại bãi Tràng Học gần nhà Cổ Trạch. Năm an hem đều văn võ song toàn, lớn lên hưởng ứng lời kêu gọi của Triệu Việt Vương, họ xung phòng làm tướng tiến đánh giặc Lương ở đầm Dạ Trạch và giành thắng lợi lớn. [[Trương Hống]] được phong tướng trấn giữ làng Tiên Tảo ([[Sóc Sơn (huyện)|Sóc Sơn]], Hà Nội), Trương Hát được phong tướng trấn giữ làng Tam Lư ([[Từ Sơn (thành phố)|Từ Sơn]], Bắc Ninh).
+
+Khi [[Triệu Quang Phục]] lên ngôi vua, Lý Phật Tử đã đem quân đánh lại nhưng không thắng, bèn dùng kế cầu hôn gả con. Trương Hống và Trương Hát đã can Triệu Việt Vương nhưng Vua không nghe nên bị mắc mưu rồi bị đánh bại. Lý Phật Tử đoạt được ngôi vua, biết các ông là tướng tài giỏi bèn cho người mời ra làm quan. Song các ông nhất lòng trung quân, mắng lại rằng: "Tôi trung chẳng thờ hai vua, huống hồ hắn là kẻ vong ơn bội nghĩa?" Biết không thể khuất phục được, Lý Phật tử lệnh truy bắt các ông khắp nơi. Các ông biết không thoát được liền tự vẫn ở dòng sông Cầu để giữ trọn tấm lòng trung với vua. [[Ngọc Hoàng Thượng đế]] cảm thương đã sắc phong Trương Hống, Trương Hát làm thần sông. Nhân dân 372 làng dọc theo sông Cầu và các nơi hai ông từng đóng quân đánh giặc đều thương tiếc, lập đền thờ làm Thần. Các triều đại [[nhà Ngô]], Đinh, Lê, Lý sau đó được âm phù giữ yên bờ cõi nên đều phong anh em họ Trương là Đức thánh Tam Giang - đại vương thượng đẳng thần. Thánh Tam Giang còn gắn liền với huyền thoại ra đời tác phẩm [[Nam quốc sơn hà]], bản tuyên ngôn độc lập đầu tiên của người Việt.
+
+Chùa Thụy Hương có tên khác là Linh Quang Tự có hầm của phi công công sản Việt Nam thời chiến tranh chống Mỹ, hiện nay di tích đã được tu bổ khang trang.
+
+== Nhân vật nổi bật== 
+* Thiền sư [[Ngô Chân Lưu]], vị [[Tăng thống]] đầu tiên của trong lịch sử [[Phật giáo Việt Nam]].
+
+== Chú thích== 
+{{tham khảo}}
+
+== Tham khảo==
+{{Sơ khai Hà Nội}}{{Đơn vị hành chính thuộc thành phố Hà Nội}}

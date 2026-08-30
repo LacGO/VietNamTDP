@@ -1,0 +1,84 @@
+{
+  "ward_code": "09616",
+  "ward_name": "Đoài Phương",
+  "province_code": "01",
+  "resolution": "",
+  "arrangement": "2026_07",
+  "effective_date": "2026-07-01",
+  "verified": "unverified",
+  "extraction": {
+    "source": "vi.wikipedia.org",
+    "title": "(cache)",
+    "mode": "table"
+  },
+  "sources": [
+    {
+      "key": "wiki-09616-1",
+      "title": "Nghị quyết ngày 18/NQ-HĐND ngày 29 tháng 6 năm 2026 của Hội đồng nhân dân xã Đoài Phương về việc thành lập, sắp xếp, tổ chức lại thôn, đổi tên thôn trên địa bàn xã Đoài Phương, thành phố Hà Nội",
+      "url": "https://datafiles.hanoi.gov.vn/gov-hni/7045/VanBan/2026/7/1/NQ%2018%20s%E1%BA%AFp%20x%E1%BA%BFp%20th%C3%B4n.pdf",
+      "date": "2026-07-14",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-09616-2",
+      "title": "Công bố danh sách trích ngang 37 người ứng cử đại biểu Hội đồng nhân dân xã Đoài Phương khóa II, nhiệm kỳ 2026 – 2031",
+      "url": "https://doaiphuong.hanoi.gov.vn/bau-cu-dbqh-hdnd-cac-cap/cong-bo-danh-sach-trich-ngang-37-nguoi-ung-cu-dai-bieu-hdnd-xa-doai-phuong-khoa-ii-nhiem-ky-2026-2031-2774260301212840892.htm?gidzl=15k_2jcaw140HBiCqxdW4m11km_5kxf06HRW2SgxuK90JR1UoBkpG44KibEJwB996nxZLpJhpc8gtANi4m",
+      "date": "2026-03-01",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-09616-3",
+      "title": "Nghị quyết số 111/2025/UBTVQH15 ngày 24 tháng 12 năm 2025 của Ủy ban Thường vụ Quốc hội về phân loại đô thị",
+      "url": "https://cdn.nhandan.vn/files/f4a4abf7f9a0ba4a91744616546d850872b76917f90d5a74cc9eebef1369fb6f/111.pdf",
+      "date": "2026-07-12",
+      "type": "wikipedia-ref"
+    }
+  ],
+  "note": "Trích tự động từ Wikipedia tiếng Việt (mode=table). Cần đối chiếu nghị quyết HĐND phường/xã.",
+  "tdp": [
+    {
+      "name": "Ấp Bắc",
+      "type": "thôn"
+    },
+    {
+      "name": "Bắc Kiên",
+      "type": "thôn"
+    },
+    {
+      "name": "Cổ Đông",
+      "type": "thôn"
+    },
+    {
+      "name": "Đòan Kết",
+      "type": "thôn"
+    },
+    {
+      "name": "Kim Sơn",
+      "type": "thôn"
+    },
+    {
+      "name": "Kim Tân",
+      "type": "thôn"
+    },
+    {
+      "name": "La Thành",
+      "type": "thôn"
+    },
+    {
+      "name": "Măng Sơn",
+      "type": "thôn"
+    },
+    {
+      "name": "Sơn Đông",
+      "type": "thôn"
+    },
+    {
+      "name": "Tân Phú",
+      "type": "thôn"
+    },
+    {
+      "name": "Tây Ninh",
+      "type": "thôn"
+    }
+  ]
+}

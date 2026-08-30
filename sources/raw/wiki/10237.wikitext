@@ -1,0 +1,173 @@
+{{Thông tin đơn vị hành chính Việt Nam |Xã
+| tên = Chương Dương
+| hình = 
+| ghi chú hình = 
+| vĩ độ = 20.84634188741914
+| kinh độ = 105.90129611399963
+| diện tích = 28,89 km²
+| dân số = 59.973 người
+| thời điểm dân số = 2025
+| mật độ dân số = {{formatnum:{{#expr:floor({{formatnum:59.973| R}}/{{formatnum:28,89| R}})}} }} người/km²
+| vùng = [[Đồng bằng sông Hồng]]
+| thành phố = [[Hà Nội]]
+| thành lập = 
+| trụ sở UBND = Thôn Kỳ Lộc<ref>{{Chú thích web |url=https://storage-vnportal.vnpt.vn/gov-hni/6244/VanBan/2025/6/25/TB-729-2025.pdf |title=Thông báo số 729/TB-UBND ngày 25 tháng 6 năm 2025 của Ủy ban nhân dân thành phố Hà Nội về địa điểm trụ sở làm việc của 126 phường, xã sau sắp xếp thuộc phạm vi quản lý của thành phố Hà Nội|access-date=2026-06-15 |archive-date=2026-06-15 |archive-url=https://web.archive.org/web/20260615034519/https://storage-vnportal.vnpt.vn/gov-hni/6244/VanBan/2025/6/25/TB-729-2025.pdf |url-status=dead | website = Cổng Thông tin điện tử Ủy ban nhân dân thành phố Hà Nội}}</ref>
+| mã hành chính =10237<ref>{{Chú thích web |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/19ttg.signed.pdf |title=Quyết định số 19/2025/QĐ-TTg ngày 30 tháng 6 năm 2025 của Thủ tướng Chính phủ về việc Ban hành Bảng danh mục và mã số các đơn vị hành chính Việt Nam |access-date=2026-06-15 |archive-date=2026-06-15 |archive-url=https://web.archive.org/web/20260615034519/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/19ttg.signed.pdf |url-status=dead }}</ref> 
+| mã bưu chính = 
+|web={{url|chuongduong.hanoi.gov.vn}}|bản đồ 1={{maplink|frame=yes|plain=yes|type=shape|frame-width=280|frame-align=center|stroke-width=3}}|trụ sở Đảng ủy=Thôn Vũ Lăng}}{{other|Chương Dương (định hướng)}}'''Chương Dương''' là một [[Xã (Việt Nam)|xã]] thuộc thành phố [[Hà Nội]], [[Việt Nam]].
+
+== Địa lý ==
+Xã Chương Dương có vị trí địa lý:
+
+* Phía đông giáp xã [[Triệu Việt Vương (xã)|Triệu Việt Vương]], xã [[Mễ Sở]] và xã [[Châu Ninh]] thuộc tỉnh [[Hưng Yên]] với ranh giới tự nhiên là [[sông Hồng]]
+* Phía tây giáp xã [[Thượng Phúc]]
+* Phía nam giáp xã [[Phú Xuyên, Hà Nội|Phú Xuyên]]
+* Phía bắc giáp xã [[Hồng Vân]].<ref>{{Chú thích web |last=Viện nghiên cứu Phát triển kinh tế – xã hội Hà Nội|date=2025-07-02|title=Xã Chương Dương: Những thông tin chi tiết sau sắp xếp|url=https://hanoionline.vn/xa-chuong-duong-nhung-thong-tin-chi-tiet-sau-sap-xep-343897.htm|url-status=live|archive-url=https://web.archive.org/web/20260701400809/https://hanoionline.vn/xa-chuong-duong-nhung-thong-tin-chi-tiet-sau-sap-xep-343897.htm|archive-date=2026-07-01|access-date=2026-07-01|website=Cơ quan Báo và Phát thanh Truyền hình Hà Nội}}</ref><ref>{{Chú thích web |last=Cơ quan Báo và Phát thanh Truyền hình Hà Nội|date=2025-07-04|title=Xã Chương Dương: Tất cả thông tin và thủ tục cần biết|url=https://hanoionline.vn/xa-chuong-duong-tat-ca-thong-tin-chi-dan-ban-can-biet-345162.htm|url-status=live|archive-url=https://web.archive.org/web/20260711401509/https://hanoionline.vn/xa-chuong-duong-tat-ca-thong-tin-chi-dan-ban-can-biet-345162.htm|archive-date=2026-07-11|access-date=2026-07-11}}</ref>
+
+Xã Chương Dương có diện tích tự nhiên là 28,89&nbsp;km<sup>2</sup>, quy mô dân số năm 2025 là 59.973 người và mật độ dân số đạt 2.075 người/km<sup>2</sup>.<ref>{{Chú thích web |last=Mai Hữu|date=2026-04-05|title=Hà Nội: Chi tiết phương án tổng thể sắp xếp đơn vị hành chính cấp xã|url=https://hanoimoi.vn/ha-noi-chi-tiet-phuong-an-tong-the-sap-xep-don-vi-hanh-chinh-cap-xa-700278.html|url-status=live|archive-url=https://web.archive.org/web/20260711401509/https://hanoimoi.vn/ha-noi-chi-tiet-phuong-an-tong-the-sap-xep-don-vi-hanh-chinh-cap-xa-700278.html|archive-date=2026-07-11|access-date=2026-07-11|website=Cơ quan Báo và Phát thanh, truyền hình Hà Nội}}</ref><ref>Công văn số 2896/BNV-CQĐP ngày 27 tháng 5 năm 2025 của Bộ Nội vụ về việc cung cấp thông tin danh mục dự kiến đơn vị hành chính cấp xã mới.</ref>
+
+== Lịch sử==
+
+=== Trước năm 1976 ===
+
+=== Giai đoạn 1976 – nay ===
+Sau ngày 2 tháng 7 năm 1976, 7 xã: Chương Dương, Lê Lợi, Thắng Lợi, Thống Nhất, Thư Phú, Tô Hiệu và Tự Nhiên thuộc huyện [[Thường Tín (huyện)|Thường Tín]].
+
+Ngày 12 tháng 8 năm 1991, chia tỉnh [[Hà Sơn Bình]] thành 2 tỉnh, lấy tên là tỉnh [[Hòa Bình (tỉnh)|Hòa Bình]] và tỉnh [[Hà Tây (tỉnh)|Hà Tây]]. Khi đó, 7 xã: Chương Dương, Lê Lợi, Thắng Lợi, Thống Nhất, Thư Phú, Tô Hiệu và Tự Nhiên thuộc huyện [[Thường Tín (huyện)|Thường Tín]] của tỉnh [[Hà Tây (tỉnh)|Hà Tây]].<ref>Nghị quyết ngày 12 tháng 8 năm 1991 của Quốc hội khóa VIII, Kỳ họp thứ 9 về việc điều chỉnh địa giới hành chính một số tỉnh, thành phố trực thuộc Trung ương.</ref>
+
+Ngày 29 tháng 5 năm 2008, hợp nhất tỉnh [[Hà Tây (tỉnh)|Hà Tây]] vào thành phố [[Hà Nội]]. Khi đó, 7 xã: Chương Dương, Lê Lợi, Thắng Lợi, Thống Nhất, Thư Phú, Tô Hiệu và Tự Nhiên thuộc huyện [[Thường Tín (huyện)|Thường Tín]] của thành phố [[Hà Nội]].<ref>Nghị quyết số 15/2008/QH12 ngày 29 tháng 5 năm 2008 của Quốc hội khóa XII, Kỳ họp thứ 3 về việc điều chỉnh địa giới hành chính thành phố Hà Nội và một số tỉnh có liên quan.</ref>
+
+Ngày 14 tháng 11 năm 2024:
+
+* Nhập xã Thư Phú vào xã Chương Dương.
+* Thành lập xã Vạn Nhất trên cơ sở nhập xã Vạn Điểm và xã Thống Nhất.<ref>{{Chú thích web |tiêu đề=Nghị quyết số 1286/NQ-UBTVQH15 ngày 14 tháng 11 năm 2024 của Ủy ban Thường vụ Quốc hội về việc sắp xếp đơn vị hành chính cấp xã của thành phố Hà Nội giai đoạn 2023 – 2025 |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/11/1286-qh.signed.pdf |url-status=bot: unknown |archive-url=https://web.archive.org/web/20260630103653/https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/11/1286-qh.signed.pdf |ngày lưu trữ=2026-06-30 |ngày truy cập=2026-06-30 |website=Cổng Thông tin điện tử Chính phủ }}</ref>
+
+Ngày 16 tháng 6 năm 2025:
+
+* Kết thúc hoạt động của đơn vị hành chính cấp huyện trong cả nước.<ref>{{Chú thích web |last= |date= |title=Nghị quyết số 203/2025/QH15 ngày 16 tháng 6 năm 2025 của Quốc hội khóa XV, Kỳ họp thứ 9 về việc sửa đổi, bổ sung một số điều của Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/nq-sua-doi-hien-phap.pdf |url-status=live |archive-url=https://web.archive.org/web/20260613090807/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/nq-sua-doi-hien-phap.pdf |archive-date=2026-06-13 |access-date=2026-06-13 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+* Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của các xã Chương Dương, Lê Lợi, Thắng Lợi, Tự Nhiên, một phần diện tích tự nhiên, quy mô dân số của xã Tô Hiệu và xã Vạn Nhất (huyện [[Thường Tín (huyện)|Thường Tín]]) thành xã mới có tên gọi là xã Chương Dương.<ref>{{Chú thích web |title=Nghị quyết số 1656/NQ-UBTVQH15 ngày 16 tháng 6 năm 2025 của Ủy ban Thường vụ Quốc hội về việc sắp xếp các đơn vị hành chính cấp xã của thành phố Hà Nội năm 2025|url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf|url-status=live|archive-url=https://web.archive.org/web/20260630400809/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf|archive-date=2026-06-30|access-date=2026-06-30|website=Cổng Thông tin điện tử Chính phủ}}</ref>
+* Sau khi sắp xếp, xã Chương Dương được chia thành 38 khu phố – khu dân cư – đội – thôn, gồm 1 khu phố, 3 khu dân cư, 10 đội và 24 thôn.<ref>8 khu dân cư – thôn, gồm 5 thôn: Phú Mỹ, Thư Dương, Vĩnh Lộc (trước thuộc xã Thư Phú), Chương Lộc, Kỳ Dương và 3 khu dân cư, đánh số từ 1 đến 3 của xã Chương Dương cũ; 3 thôn: An Cảnh, Hà Vỹ và Từ Vân của xã Lê Lợi cũ; 11 thôn: Bình Lăng, Đào Xá, Đống Xung, Hạ Giáp, Hướng Dương, Khoái Cầu, Khoái Nội, Kiều Thị, Mai Xá, Một Thượng và Phương Cù của xã Thắng Lợi cũ; 10 đội, đánh số từ 1 đến 10 của xã Tự Nhiên cũ; 4 khu phố – thôn, gồm khu phố Tía và 3 thôn: An Duyên, Đông Duyên, Tử Dương của xã Tô Hiệu cũ; 2 thôn: Giáp Long và Hoàng Xá (trước thuộc xã Thống Nhất) của xã Vạn Nhất cũ.</ref><ref>{{Chú thích web|title=Thông tư số 10/2022/TT-BTNMT ngày 29 tháng 9 năm 2022 của Bộ Tài nguyên và Môi trường về việc Ban hành Danh mục địa danh dân cư, sơn văn, thủy văn, kinh tế – xã hội phục vụ công tác thành lập bản đồ thành phố Hà Nội|url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2022/10/10-btnmt.pdf|url-status=bot: unknown|archive-url=https://web.archive.org/web/20260630082812/https://datafiles.chinhphu.vn/cpp/files/vbpq/2022/10/10-btnmt.pdf|archive-date=2026-06-30|access-date=2026-06-30|website=Cổng Thông tin điện tử Chính phủ}}</ref><ref>{{Chú thích web |title=Quyết định số 2/QĐ-UBBC ngày 22 tháng 12 năm 2025 của Ủy ban bầu cử xã Chương Dương về việc ấn định số đơn vị bầu cử, danh sách các đơn vị bầu cử và số lượng đại biểu được bầu ở mỗi đơn vị bầu cử đại biểu Hội đồng nhân dân xã Chương Dương nhiệm kỳ 2026 – 2031 |url=https://datafiles.hanoi.gov.vn/gov-hni/6999/VanBan/2025/12/22/Q%C4%90%20s%E1%BB%91%2002.pdf |url-status=live |archive-url=https://web.archive.org/web/20260702400809/https://datafiles.hanoi.gov.vn/gov-hni/6999/VanBan/2025/12/22/Q%C4%90%20s%E1%BB%91%2002.pdf |archive-date=2026-07-02 |access-date=2026-07-02 |website=Trang Thông tin điện tử xã Chương Dương – thành phố Hà Nội}}</ref>
+
+Ngày 15 tháng 1 năm 2026, bàn giao đội 9 từ xã Chương Dương về xã [[Hồng Vân]].<ref>{{Chú thích web |last=Quách Văn Toán |date=2026-01-15 |title=Xã Chương Dương, xã Hồng Vân bàn giao địa giới hành chính, tổ chức Đảng và các tổ chức chính trị – xã hội của Đội 9 |url=https://thanhuyhanoi.vn/tin-tuc/xa-chuong-duong/xa-chuong-duong-xa-hong-van-ban-giao-dia-gioi-hanh-chinh-to-chuc-dang-va-cac-to-chuc-chinh-tri--xa-hoi-cua-doi-9-50035501.html |url-status=bot: unknown |archive-url=https://web.archive.org/web/20260510075917/https://www.thanhuyhanoi.vn/tin-tuc/xa-chuong-duong/xa-chuong-duong-xa-hong-van-ban-giao-dia-gioi-hanh-chinh-to-chuc-dang-va-cac-to-chuc-chinh-tri--xa-hoi-cua-doi-9-50035501.html |archive-date=2026-05-10 |access-date=2026-07-02 |website=Trang Thông tin điện tử Đảng bộ thành phố Hà Nội }}</ref>
+
+Ngày 27 tháng 6 năm 2026, thành lập 10 thôn mới: Hoàng Long, Tử Dương, Vũ Lăng, Thắng Lợi, Lê Lợi, Chương Dương, Kỳ Lộc, Thư Phú, Tự Nhiên 1 và 2.<ref>1. Thôn Hoàng Long: Thành lập trên cơ sở sắp xếp/sáp nhập thôn Hoàng Xá và thôn Giáp Long; 2. Thôn Tử Dương: Thành lập trên cơ sở sắp xếp/sáp nhập thôn Tử Dương và Khu Phố Tía; 3. Thôn Vũ Lăng: Thành lập trên cơ sở sắp xếp/sáp nhập thôn Đào Xá, Đống Xung, Hướng Dương, Kiều Thị, Khoái Cầu và thôn Mai Xá; 4. Thôn Thắng Lợi: Thành lập trên cơ sở sắp xếp/sáp nhập thôn Phương Cù, Một Thượng, Khoái Nội, Bình Lăng và Hạ Giáp; 5. Thôn Lê Lợi: Thành lập trên cơ sở sắp xếp/sáp nhập thôn An Cảnh và thôn Từ Vân; 6. Thôn Chương Dương: Thành lập trên cơ sở sắp xếp/sáp nhập Khu dân cư số 1, Khu dân cư số 2 và Khu dân cư số 3; 7. Thôn Kỳ Lộc: Thành lập trên cơ sở sắp xếp/sáp nhập thôn Kỳ Dương và thôn Chương Lộc; 8. Thôn Thư Phú: Thành lập trên cơ sở sắp xếp/sáp nhập thôn Phú Mỹ và thôn Thư Dương; 9. Thôn Tự Nhiên 1: Thành lập trên cơ sở sắp xếp/sáp nhập Đội 1, Đội 2, Đội 10 và Đội 6; 10. Thôn Tự Nhiên 2: Thành lập trên cơ sở sắp xếp/sáp nhập Đội 3, Đội 4, Đội 5, Đội 7 và Đội 8; 11. Các thôn giữ nguyên: Đông Duyên, An Duyên, Hà Vỹ và Vĩnh Lộc.</ref><ref name=":0">{{Chú thích web |title=Phương án số 7/PA-UBND ngày 11 tháng 6 năm 2026 của Ủy ban nhân dân xã Chương Dương về việc sắp xếp các thôn trên địa bàn xã Chương Dương |url=https://sqhx-hanoi.mediacdn.vn/91579363132710912/2026/6/16/pa-so-07-sap-xep-cac-thon-tren-dia-ban-xa-chuong-duong2-1781578889675821608658.pdf |url-status=bot: unknown |archive-url=https://web.archive.org/web/20260702130124/https://sqhx-hanoi.mediacdn.vn/91579363132710912/2026/6/16/pa-so-07-sap-xep-cac-thon-tren-dia-ban-xa-chuong-duong2-1781578889675821608658.pdf |archive-date=2026-07-02 |access-date=2026-07-02 |website=Trang Thông tin điện tử xã Chương Dương – thành phố Hà Nội }}</ref><ref name=":1">{{Chú thích web |last=Hoài Thu |date=2026-06-29 |title=Hội đồng nhân dân xã Chương Dương tổ chức thành công kỳ họp thứ Hai Hội đồng nhân dân xã khóa XXIII, nhiệm kỳ 2026 – 2031 |url=https://chuongduong.hanoi.gov.vn/tin-tuc-cua-hdnd/hdnd-xa-chuong-duong-to-chuc-thanh-cong-ky-hop-thu-hai-hdnd-xa-khoa-xxiii-nhiem-ky-2026-2031-2799260629103937026.htm |url-status=live |archive-url=https://web.archive.org/web/20260702400809/https://chuongduong.hanoi.gov.vn/tin-tuc-cua-hdnd/hdnd-xa-chuong-duong-to-chuc-thanh-cong-ky-hop-thu-hai-hdnd-xa-khoa-xxiii-nhiem-ky-2026-2031-2799260629103937026.htm |archive-date=2026-07-02 |access-date=2026-07-02 |website=Trang Thông tin điện tử xã Chương Dương – thành phố Hà Nội}}</ref><ref name=":2">{{Chú thích web |last=Chương Dương đất anh hùng – thành phố Hà Nội |date=2026-07-04 |title=Danh sách các thôn xã Chương Dương sau sắp xếp |url=https://web.facebook.com/photo.php?fbid=122184705230936609&set=a.122105894750936609&type=3&rdid=d0bVmJ3O6GTO378k&share_url=https%3A%2F%2Fweb.facebook.com%2Fshare%2F18qtQwsNq6%2F%3F_rdc%3D1%26_rdr# |url-status=live |archive-url=https://web.archive.org/web/20260705400809/https://web.facebook.com/photo.php?fbid=122184705230936609&set=a.122105894750936609&type=3&rdid=d0bVmJ3O6GTO378k&share_url=https%3A%2F%2Fweb.facebook.com%2Fshare%2F18qtQwsNq6%2F%3F_rdc%3D1%26_rdr# |archive-date=2026-07-05 |access-date=2026-07-05 |website=}}</ref><!-- 
+Xã Vạn Nhất là đơn vị hành chính cấp xã thuộc phía Nam Huyện Thường Tín, trên cơ sở sát nhập xã [[Vạn Điểm]] và xã [[Thống Nhất, Thường Tín]]: UBND huyện công bố Nghị quyết 1286/NQ-UBTVQH15 của Ủy Ban Thường vụ Quốc hội, từ ngày 1/1/2025, thành lập xã Vạn Nhất trên cơ sở nhập toàn bộ diện tích tự nhiên 3,06km2, quy mô dân số 8.579 người của xã Vạn Điểm và toàn bộ diện tích tự nhiên 4,92km2, quy mô dân số 8.237 người của xã Thống Nhất. Sau khi thành lập, xã Vạn Nhất có diện tích tự nhiên 7,98km2 và quy mô dân số 16.816 người<ref>{{Chú thích web| url = https://kinhtedothi.vn/thuong-tin-ra-mat-co-quan-don-vi-hanh-chinh-moi-xa-chuong-duong-van-nhat.html| tiêu đề = Thường Tín ra mắt cơ quan, đơn vị hành chính mới xã Chương Dương, Vạn Nhất| họ = Hải| tên = Hữu| ngày = 2025-01-04| website = Báo Kinh tế đô thị - Đọc tin tức thời sự kinh tế 24h mới nhất| ngôn ngữ = vi| ngày truy cập = 2025-03-14}}</ref>
+
+Xã Tô Hiệu nằm bên [[đường sắt Bắc Nam| đường sắt Thống Nhất]], [[Quốc lộ 1]] cũ và mới ([[đường cao tốc Pháp Vân – Cầu Giẽ]]) (đường 1A cũ, cùng đường sắt Bắc-Nam cắt ngang xã, đường 1A mới chạy ở rìa phía Đông của xã). Chính giữa xã là ga Tía, ga đường sắt Thống Nhất.<ref>Tập bản đồ hành chính Việt Nam (Administrative Atlas)</ref>
+
+Xã Tô Hiệu gồm 4 làng Tử Dương (Tía) <ref>[http://www.hannom.org.vn/web/tchn/data/9501v.htm Bài nghiên cứu Về đạo sắc "Tử Dương thần từ", của Cung Khắc Lược và Chu Quang Trứ, trên Tạp chí Hán Nôm số 1/1995.]{{Liên kết hỏng| date = 2024-09-20 | bot = InternetArchiveBot }}</ref> và An Duyên, An Định và Đông Duyên. Đầu thế kỷ 19, các làng của xã Tô Hiệu là các xã (thời xưa) thuộc 2 tổng của huyện Thượng Phúc phủ Thường Tín trấn [[Sơn Nam (địa danh cũ Việt Nam)| Sơn Nam Thượng]], là: Tử Dương, tên dân gian là làng Tía thuộc tổng Bình Lăng, còn An Duyên (Yên Duyên), tên dân gian: làng Mui, An Định, tên dân gian: làng Giành, Đông Duyên, tên dân gian: làng Đình Dâu thuộc tổng Tín Yên (Tín An)<ref>Cuốn Tên làng xã Việt Nam đầu thế kỷ 19, trang 48.</ref>. Đến năm 1831, các làng này cùng toàn phủ Thường Tín thuộc tỉnh Hà Nội. Theo Ngô Vi Liễn, tổng Tín Yên phủ Thường Tín gồm các làng xã: ''Đông Duyên (tức Dương Dần), Hà Vĩ, Lưu Khê, Tín Yên (tức Dừng), Yên Duyên (An Duyên, tức Mui). Làng Tử Dương (Tía) thuộc tổng Bình Lăng.''<ref>Tên làng xã và địa dư các tỉnh Bắc Kỳ, Ngô Vi Liễn, trang 42-43.</ref> Thời [[Pháp thuộc]], đất xã Tô Hiệu thuộc huyện Thường Tín tỉnh [[Hà Đông (tỉnh)| Hà Đông]]. Sau cách mạng Tháng Tám, bỏ cấp tổng, xã Tô Hiệu được thành lập, lấy tên của chiến sĩ cách mạng [[Tô Hiệu]] làm tên xã. Sau cùng với huyện Thường Tín, xã Tô Hiệu lần lượt thuộc các tỉnh Hà Đông, [[Hà Tây]], [[Hà Sơn Bình]], [[Hà Tây]], rồi năm 2008 được nhập về [[Hà Nội]]. Làng Tía nay nằm 2 bên Quốc lộ 1 và đường sắt Thống nhất Bắc-Nam (ga Tía).
+[[Tập tin:ChuaMui.jpg| nhỏ| phải| Nghè thuộc chùa Mui xã Tô Hiệu]]Trong làng Mui có lễ hội vào mùng 7 tết hàng năm diễn ra tại chùa Mui. Khách từ tứ phương thường đổ về đây để xem lễ hội đánh gậy, múa lân, múa võ và nhiều tiết mục đặc sắc khác. Ở đây còn có một khu chợ cổ diễn ra tấp nập vào mỗi buổi sáng và chiều.
+
+== Hành chính== 
+Xã Tô Hiệu gồm các thôn An Duyên, Đông Duyên, Tử Dương (bao gồm cả khu dân cư phố Tía), An Định.
+== Giao thông== 
+* Cao tốc Pháp Vân - Cầu Giẽ
+* Quốc lộ 1 cũ
+* Đường tỉnh lộ 429.
+== Kinh tế== 
+Xã Tô Hiệu nằm ở vị trí giao thông thuận lợi. Nhóm thương mại dịch vụ phát triển ở thôn Tử Dương, phố Tía. Nhóm nghề mộc phát triển nhất ở thôn An Định. Các thôn khác: nông nghiệp, làm thợ,...
+
+== Lịch sử== 
+Trước là xã Hồng Châu, sau đổi tên thành xã Tự Nhiên.
+
+[[Tháng 8]] năm [[1948]], các xã Chương – Kỳ - Lộc, Vĩnh – Thư – Phú và xã Tự Nhiên hợp nhất thành xã Quang Khải.
+
+[[Tháng 10]] năm [[1957]], xã Quang Khải được tách thành hai xã: Hồng Châu và Quang Khải.
+
+Năm [[1974]], xã Hồng Châu đổi tên thành xã Tự Nhiên như ngày nay.
+
+== Văn hóa== 
+*Xã Tự Nhiên có bãi Tự Nhiên hay còn gọi là bãi Chử Đồng Tử, nằm ở phía Bắc của xã, giáp sông Hồng, là nơi Chử Đồng Tử gặp Tiên Dung.
+*Đình làng Tự Nhiên (Thờ [[Chử Đồng Tử]] - Tiên Dung).
+
+Địa giới hành chính của xã Thắng Lợi nằm cạnh Quốc lộ 1, cách trung tâm Hà Nội khoảng 25&nbsp;km, gồm 11 thôn: Kiều Thị (橋市), Hướng Dương (向陽), Đống Xung (棟充), Đào Xá (陶舍), Khoái Cầu (快梂), Mai Xá (梅舍), Hạ Giáp (不沒下), Bình Lăng (平陵), Khoái Nội (快内), Một Thượng (不沒上), Phương Cù (芳瞿).
+
+Đầu thế kỷ 19, làng Vạn Điểm là xã Vạn Điểm (thời xưa) thuộc tổng Vạn Điểm huyện Thượng Phúc phủ Thường Tín trấn [[Sơn Nam (địa danh cũ Việt Nam)| Sơn Nam Thượng]]<ref>Cuốn Tên làng xã Việt Nam đầu thế kỷ 19, trang 48.</ref>. Làng nghề truyền thống sản xuất đồ mộc cao cấp, cung cấp cho nhiều địa phương trong nước và xuất khẩu ra nước ngoài.
+
+== Di tích lịch sử== 
+Thôn Vĩnh Lộc (Thờ Thiên Cương Đại Vương)và Phú Mỹ có đình làng được xếp hạng di tích lịch sử quốc gia (Đình làng thôn Phú Mỹ được Bộ Văn hóa thông tin xếp hạng Di tích lịch sử, văn hóa và nghệ thuật năm 1987).
+Thôn Thư Dương có di tích đình, chùa Thư Dương bị giặc Pháp tàn phá năm 1948. Năm 2017 Đình Thư Dương được Sở Văn hóa thông tin - Thể thao và Du lịch Hà Nội xếp hạng Di tích lịch sử.
+
+ -->
+
+== Hành chính ==
+Xã Chương Dương chia thành 14 thôn: An Duyên, Chương Dương, Đông Duyên, Hà Vỹ, Hoàng Long, Kỳ Lộc, Lê Lợi, Thắng Lợi, Thư Phú, Tử Dương, Tự Nhiên 1, 2, Vĩnh Lộc và Vũ Lăng.<ref name=":0" /><ref name=":1" /><ref name=":2" />
+{| class="wikitable sortable" align="center" width="100%" cellspacing="6" cellpadding="0" style="background: #f9f9f9; border: 1px #aaa solid; margin-top: 16px"
+! colspan="4" style="background: #E6E6FA; font-size: 95%;" |Danh sách các thôn thuộc xã Chương Dương<ref name=":0" /><ref name=":1" /><ref name=":2" />
+|-
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |An Duyên
+|1.267
+|-
+| align="left" |Chương Dương
+|1.029
+|-
+| align="left" |Đông Duyên
+|614
+|-
+| align="left" |Hà Vỹ
+|959
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Hoàng Long
+|919
+|-
+| align="left" |Kỳ Lộc
+|606
+|-
+| align="left" |Lê Lợi
+|1.418
+|-
+| align="left" |Thắng Lợi
+|1.308
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Thư Phú
+|744
+|-
+| align="left" |Tử Dương
+|983
+|-
+| align="left" |Tự Nhiên 1
+|1.167
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Tự Nhiên 2
+|1.275
+|-
+| align="left" |Vĩnh Lộc
+|1.364
+|-
+| align="left" |Vũ Lăng
+|1.613
+|}
+|}
+
+== Nhân vật nổi bật ==
+[[Tập tin:CongChuaMui.jpg| nhỏ|trái| Cổng tam quan nghè và chùa Mui]]
+* [[Doãn Hoành Tuấn]] hay 尹宏濬,<ref>[http://lib.nomfoundation.org/collection/1/volume/264/page/33 Khâm định Việt sử thông giám cương mục, quyển 23 bản chữ Hán, Lê Thánh Tông, trang 33.]</ref> người làng An Duyên, quan nhà Lê sơ, triều [[Lê Thánh Tông]], đỗ [[Đồng tiến sĩ xuất thân|Đệ tam giáp tiến sĩ xuất thân]] năm [[1478]],<ref>{{Chú thích web | url = http://www.hannom.org.vn/default.asp?CatID%20=%20564 | ngày truy cập = 2016-01-03 | tựa đề = Văn bia đề danh tiến sĩ khoa Mậu Tuất niên hiệu Hồng Đức thứ 9 (1478) | archive-date = 2013-12-24 | archive-url = https://web.archive.org/web/20131224224902/http://www.hannom.org.vn/default.asp?CatID | url-status = dead }}</ref> [[Thượng thư]] [[bộ Lễ]], đi sứ [[nhà Minh]] năm 1480 mang thư trả lời [[nhà Minh]] của vua Lê về việc [[Đại Việt]] [[chiến tranh Đại Việt - Lan Xang (1467-1480)|chinh phạt]] [[Lào|Ai Lao]] và tranh chấp biên giới Đại Việt-Đại Minh năm 1479.<ref>Việt sử thông giám cương mục, chính biên, tập XII trang 1155-1157, tức chính biên quyển 23 trang 25-27</ref><ref>{{Chú thích web | url = http://www.informatik.uni-leipzig.de/~duc/sach/dvsktt/dvsktt18a.html | ngày lưu trữ = 2011-05-25 | ngày truy cập = 2016-01-03 | tiêu đề = Đại Việt sử ký Bản kỷ thực lục - quyển XIII - nhà Lê | archive-url = https://web.archive.org/web/20110525142459/http://www.informatik.uni-leipzig.de/~duc/sach/dvsktt/dvsktt18a.html | url-status = dead }}</ref>
+* [[Doãn Mậu Khôi]] 尹茂魁, đỗ Đệ tam giáp tiến sĩ xuất thân năm [[1502]],<ref>{{Chú thích web | url = http://www.hannom.org.vn/default.asp?CatID%20=%20564 | ngày truy cập = 2016-01-03 | tựa đề = Văn bia đề danh tiến sĩ khoa Nhâm Tuất niên hiệu Cảnh Thống thứ 5 (1502) | archive-date = 2013-12-24 | archive-url = https://web.archive.org/web/20131224224902/http://www.hannom.org.vn/default.asp?CatID | url-status = dead }}</ref> người làng An Duyên, Thượng thư bộ Lễ, tới thời Lê Uy Mục được cử đi sứ nhà Minh 1507.<ref>Doãn Mậu Khôi đi sứ sang [[Tên gọi Trung Quốc|Trung Hoa]], mừng [[Minh Vũ Tông|Minh Võ Tông]] lên ngôi, tháng 11 năm [[1507]]([http://www.avsnonline.net/library/ebooks/vn/lichsu/kdvstgcm/kdvstgcm30.html Khâm định Việt sử thông giám cương mục] {{Webarchive| url = https://web.archive.org/web/20090121040518/http://avsnonline.net/library/ebooks/vn/lichsu/kdvstgcm/kdvstgcm30.html | date = 2009-01-21 }}).</ref>
+* Doãn Mậu Đàm 尹茂覃 hay còn gọi là [[Doãn Đàm]] (1557-?), quê gốc An Duyên, sau chuyển cư tới thôn Cự Phú xã [[Tam Đa]] huyện [[Phù Cừ]] tỉnh [[Hưng Yên]], đỗ Đệ tam giáp tiến sĩ xuất thân năm [[1586]].<ref>{{Chú thích web | url = http://www.mactoc.com/newsdetail/849/cac-nha-khoa-bang-trieu-mac-tiep-theo-va-het.aspx | title = ''Các nhà khoa bảng triều Mạc'', phần cuối, mục 1528. Doãn Đàm (1557-?), trang web Mạc tộc. | access-date = 2025-11-04 | archive-date = 2022-01-24 | archive-url = https://web.archive.org/web/20220124004515/http://www.mactoc.com/newsdetail/849/cac-nha-khoa-bang-trieu-mac-tiep-theo-va-het.aspx | url-status = dead }}</ref>
+
+== Chú thích== 
+{{tham khảo| 30em}}
+
+== Tham khảo ==
+{{sơ khai Hà Nội}}
+{{Đơn vị hành chính thuộc thành phố Hà Nội}}

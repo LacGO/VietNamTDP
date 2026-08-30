@@ -1,0 +1,193 @@
+{{Thông tin đơn vị hành chính Việt Nam|Phường
+| tên = Tùng Thiện
+| hình = Son_Tay_Church_2.jpg
+| ghi chú hình = [[Nhà thờ chính tòa Sơn Lộc]]
+| vĩ độ = 21.126302946992592
+| kinh độ = 105.47554378462902
+| diện tích = 32,34 km²
+| dân số = 42.052 người
+| thời điểm dân số = 2025
+| mật độ dân số = {{formatnum:{{#expr:floor({{formatnum:42.052| R}}/{{formatnum:32,34| R}})}} }} người/km²
+| vùng = [[Đồng bằng sông Hồng]]
+| thành phố = [[Hà Nội]]
+| thành lập = 
+| trụ sở UBND = Số 66 đường Thanh Mỹ, tổ dân phố Thanh Mỹ<ref>{{Chú thích web |url=https://storage-vnportal.vnpt.vn/gov-hni/6244/VanBan/2025/6/25/TB-729-2025.pdf |title=Thông báo số 729/TB-UBND ngày 25 tháng 6 năm 2025 của Ủy ban nhân dân thành phố Hà Nội về địa điểm trụ sở làm việc của 126 phường, xã sau sắp xếp thuộc phạm vi quản lý của thành phố Hà Nội|access-date=2026-06-15 |archive-date=2026-06-15 |archive-url=https://web.archive.org/web/20260615034519/https://storage-vnportal.vnpt.vn/gov-hni/6244/VanBan/2025/6/25/TB-729-2025.pdf |url-status=dead | website = Cổng Thông tin điện tử Ủy ban nhân dân thành phố Hà Nội}}</ref>
+| mã hành chính = 09604<ref>{{Chú thích web |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/19ttg.signed.pdf |title=Quyết định số 19/2025/QĐ-TTg ngày 30 tháng 6 năm 2025 của Thủ tướng Chính phủ về việc Ban hành Bảng danh mục và mã số các đơn vị hành chính Việt Nam |access-date=2026-06-15 |archive-date=2026-06-15 |archive-url=https://web.archive.org/web/20260615034519/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/19ttg.signed.pdf |url-status=dead | website = Cổng Thông tin điện tử Chính phủ}}</ref>
+| mã bưu chính = 
+| web = {{url|tungthien.hanoi.gov.vn}}
+|bản đồ 1={{maplink|frame=yes|plain=yes|type=shape|frame-width=280|frame-align=center|stroke-width=3}}|loại đô thị=|trụ sở Đảng ủy=Số 261 đường 413, tổ dân phố Xuân Sơn}}
+'''Tùng Thiện''' là một [[Phường (Việt Nam)|phường]] thuộc thành phố [[Hà Nội]], [[Việt Nam]].
+
+== Địa lý== 
+Phường Tùng Thiện có vị trí địa lý:
+* Phía đông giáp xã [[Phúc Thọ (xã)|Phúc Thọ]]
+* Phía tây giáp xã [[Suối Hai]]
+* Phía nam giáp xã [[Yên Bài]] và xã [[Đoài Phương]]
+* Phía bắc giáp xã [[Quảng Oai (xã)|Quảng Oai]] và phường [[Sơn Tây (phường)|Sơn Tây]].<ref name=":0">{{Chú thích web |last=Viện nghiên cứu Phát triển kinh tế – xã hội Hà Nội |date=2025-07-02 |title=Phường Tùng Thiện: Những thông tin chi tiết sau sắp xếp |url=https://hanoionline.vn/phuong-tung-thien-nhung-thong-tin-chi-tiet-sau-sap-xep-344216.htm |url-status=bot: unknown |archive-url=https://web.archive.org/web/20251002231929/https://hanoionline.vn/phuong-tung-thien-nhung-thong-tin-chi-tiet-sau-sap-xep-344216.htm |archive-date=2025-10-02 |access-date=2026-07-11 |website=Cơ quan Báo và Phát thanh Truyền hình Hà Nội }}</ref><ref name=":3">{{Chú thích web |last=Cơ quan Báo và Phát thanh Truyền hình Hà Nội |date=2025-07-07 |title=Phường Tùng Thiện: Tất cả thông tin chỉ dẫn bạn cần biết |url=https://hanoionline.vn/phuong-tung-thien-tat-ca-thong-tin-chi-dan-ban-can-biet-345176.htm |url-status=bot: unknown |archive-url=https://web.archive.org/web/20251002231850/https://hanoionline.vn/phuong-tung-thien-tat-ca-thong-tin-chi-dan-ban-can-biet-345176.htm |archive-date=2025-10-02 |access-date=2026-07-11 }}</ref>
+Phường Tùng Thiện có diện tích tự nhiên là 32,34 km<sup>2</sup>, quy mô dân số năm 2025 là 42.052 người và mật độ dân số đạt 1.300 người/km<sup>2</sup>.<ref>{{Chú thích web |last=Mai Hữu |date=2026-04-05 |title=Hà Nội: Chi tiết phương án tổng thể sắp xếp đơn vị hành chính cấp xã |url=https://hanoimoi.vn/ha-noi-chi-tiet-phuong-an-tong-the-sap-xep-don-vi-hanh-chinh-cap-xa-700278.html |url-status=bot: unknown |archive-url=https://web.archive.org/web/20250710163328/https://hanoimoi.vn/ha-noi-chi-tiet-phuong-an-tong-the-sap-xep-don-vi-hanh-chinh-cap-xa-700278.html |archive-date=2025-07-10 |access-date=2026-07-11 |website=Cơ quan Báo và Phát thanh, truyền hình Hà Nội }}</ref><ref>Công văn số 2896/BNV-CQĐP ngày 27 tháng 5 năm 2025 của Bộ Nội vụ về việc cung cấp thông tin danh mục dự kiến đơn vị hành chính cấp xã mới.</ref>
+
+== Lịch sử==
+
+=== Tên gọi ===
+Tùng Thiện là tên một huyện cũ, được đổi tên từ huyện Minh Nghĩa năm 1853.<ref name=":1" />
+
+Theo sách ''Tên làng xã Việt Nam đầu thế kỷ 19'', huyện Tùng Thiện thuộc [[Phủ (đơn vị hành chính)|phủ]] Quảng Oai, tỉnh [[Sơn Tây (tỉnh Việt Nam)|Sơn Tây]]. Huyện bao gồm sáu tổng: Thanh Vị, Phú Kỳ, Vật Lại, Cẩm Đái, Bối Sơn, Mỹ Tuyền. Đến năm 1965, huyện gồm các đơn vị hành chính Thanh Vị, Cam Thượng, Nhân Lý, Thụy Phiêu, Mỹ Khê, Bối Sơn, Tường Phiêu, La Gián.<ref>Viện Hán Nôm (1981), ''Tên làng xã Việt Nam đầu thế kỷ 19'', Nhà xuất bản Khoa học xã hội, trang 36.</ref><ref>Phạm Xuân Độ (1941), ''Sđd'', trang 212.</ref>
+
+Huyện Tùng Thiện tồn tại đến năm 1968 thì sáp nhập với một số đơn vị hành chính để thành lập huyện [[Ba Vì (huyện)|Ba Vì]].<ref name=":1">{{Chú thích web | last = Ánh Dương | date = 19 tháng 4 năm 2025 | title = Thị xã Sơn Tây lý giải về đặt tên 3 đơn vị hành chính: Sơn Tây, Tùng Thiện, Đoài Phương | url = https://hanoimoi.vn/thi-xa-son-tay-ly-giai-ve-dat-ten-3-don-vi-hanh-chinh-son-tay-tung-thien-doai-phuong-699622.html | url-status = bot: unknown | access-date = 2026-07-12 | website = Báo Hà Nội Mới | archive-url = https://web.archive.org/web/20251017051205/https://hanoimoi.vn/thi-xa-son-tay-ly-giai-ve-dat-ten-3-don-vi-hanh-chinh-son-tay-tung-thien-doai-phuong-699622.html | archive-date = 2025-10-17 }}</ref>
+
+=== Trước năm 1976 ===
+=== Giai đoạn 1976 – nay ===
+Sau ngày 2 tháng 7 năm 1976, 3 xã: Thanh Mỹ, Trung Sơn Trầm và Xuân Sơn thuộc huyện [[Ba Vì (huyện)|Ba Vì]]; xã Trung Hưng thuộc thị xã [[Sơn Tây (thị xã)|Sơn Tây]] của tỉnh [[Hà Sơn Bình]].
+
+Ngày 29 tháng 12 năm 1978, sáp nhập huyện [[Ba Vì (huyện)|Ba Vì]] và thị xã [[Sơn Tây (thị xã)|Sơn Tây]] của tỉnh [[Hà Sơn Bình]] vào thành phố [[Hà Nội]]. Khi đó, 3 xã: Thanh Mỹ, Trung Sơn Trầm và Xuân Sơn thuộc huyện [[Ba Vì (huyện)|Ba Vì]]; xã Trung Hưng thuộc thị xã [[Sơn Tây (thị xã)|Sơn Tây]] của thành phố [[Hà Nội]].<ref>Nghị quyết ngày 29 tháng 12 năm 1978 của Quốc hội khóa VI, Kỳ họp thứ 4 phê chuẩn việc phân vạch lại địa giới thành phố Hà Nội, thành phố Hồ Chí Minh, các tỉnh Hà Sơn Bình, Vĩnh Phú, Cao Lạng, Bắc Thái, Quảng Ninh và Đồng Nai.</ref>
+
+Ngày 2 tháng 6 năm 1982, tách các xã Thanh Mỹ, Xuân Sơn, Trung Sơn Trầm của huyện [[Ba Vì (huyện)|Ba Vì]] chuyển sang thị xã [[Sơn Tây (thị xã)|Sơn Tây]].<ref>{{Chú thích web |title=Quyết định số 101-HĐBT ngày 2 tháng 6 năm 1982 của Hội đồng Bộ trưởng về việc phân vạch địa giới thị xã Sơn Tây, huyện Ba Vì và huyện Phúc Thọ thuộc thành phố Hà Nội |url=https://chinhphu.vn/default.aspx?pageid=27160&docid=6469 |url-status=live |archive-url=https://web.archive.org/web/20260712401509/https://chinhphu.vn/default.aspx?pageid=27160&docid=6469 |archive-date=2026-07-12 |access-date=2026-07-12 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+
+Ngày 14 tháng 3 năm 1984:
+
+* Cắt 78,2 hécta diện tích tự nhiên và 1648 nhân khẩu của xã Trung Hưng, 25,5 hécta diện tích tự nhiên và 263 nhân khẩu của xã Trung Sơn Trầm, 8,5 hécta diện tích tự nhiên và 9 nhân khẩu của xã Thanh Mỹ để thành lập phường Sơn Lộc.
+* Cắt 213 hécta diện tích tự nhiên và 106 nhân khẩu của xã Xuân Sơn, 35,37 hécta diện tích tự nhiên và 44 nhân khẩu của xã Thanh Mỹ để thành lập phường Xuân Khanh.<ref>{{Chú thích web |title=Quyết định số 42-HĐBT ngày 14 tháng 3 năm 1984 của Hội đồng Bộ trưởng về việc phân vạch địa giới một số phường, thị trấn thuộc thành phố Hà Nội |url=https://chinhphu.vn/default.aspx?pageid=27160&docid=6190 |url-status=dead |archive-url=https://web.archive.org/web/20260712401509/https://chinhphu.vn/default.aspx?pageid=27160&docid=6190 |archive-date=2026-07-12 |access-date=2026-07-12 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+
+Ngày 12 tháng 8 năm 1991, chia tỉnh [[Hà Sơn Bình]] thành 2 tỉnh, lấy tên là tỉnh [[Hòa Bình (tỉnh)|Hòa Bình]] và tỉnh [[Hà Tây (tỉnh)|Hà Tây]]. Chuyển thị xã [[Sơn Tây (thị xã)|Sơn Tây]] của thành phố [[Hà Nội]] về tỉnh [[Hà Tây (tỉnh)|Hà Tây]]. Khi đó, 2 phường: Sơn Lộc, Xuân Khanh và 4 xã: Thanh Mỹ, Trung Hưng, Trung Sơn Trầm, Xuân Sơn thuộc thị xã [[Sơn Tây (thị xã)|Sơn Tây]] của tỉnh [[Hà Tây (tỉnh)|Hà Tây]].<ref>Nghị quyết ngày 12 tháng 8 năm 1991 của Quốc hội khóa VIII, Kỳ họp thứ 9 về việc điều chỉnh địa giới hành chính một số tỉnh, thành phố trực thuộc Trung ương.</ref>
+
+Ngày 13 tháng 4 năm 2006, công nhận thị xã [[Sơn Tây (thị xã)|Sơn Tây]] là [[Đô thị Việt Nam|đô thị loại III]].<ref>Quyết định số 655/QĐ-BXD ngày 13 tháng 4 năm 2006 của Bộ Xây dựng về việc công nhận thị xã Sơn Tây là đô thị loại III.</ref><ref>{{Chú thích web |last=Hoàng Thành |date=2025-03-12 |title=Địa danh nổi tiếng duy nhất từng lên thành phố rồi lại xuống thị xã, sáp nhập cấp xã mở rộng không gian phát triển |url=https://danviet.vn/dia-danh-duy-nhat-cua-ca-nuoc-tung-len-thanh-pho-roi-lai-xuong-thi-xa-sap-nhap-cap-xa-de-lam-gi-20250310204458614-d1214932.html |url-status=dead |archive-url=https://web.archive.org/web/20260714232153/https://danviet.vn/dia-danh-duy-nhat-cua-ca-nuoc-tung-len-thanh-pho-roi-lai-xuong-thi-xa-sap-nhap-cap-xa-de-lam-gi-20250310204458614-d1214932.html |archive-date=2026-07-14 |access-date=2026-07-12 |website=Báo Dân Việt }}</ref>
+
+Ngày 2 tháng 8 năm 2007, thành lập thành phố [[Sơn Tây (thị xã)|Sơn Tây]] trên cơ sở toàn bộ diện tích tự nhiên, dân số và các đơn vị hành chính trực thuộc của thị xã [[Sơn Tây (thị xã)|Sơn Tây]]. Khi đó, 2 phường: Sơn Lộc, Xuân Khanh và 4 xã: Thanh Mỹ, Trung Hưng, Trung Sơn Trầm, Xuân Sơn thuộc thành phố [[Sơn Tây (thị xã)|Sơn Tây]].<ref name="ND130">{{Chú thích web |tựa đề=Nghị định số 130/2007/NĐ-CP ngày 2 tháng 8 năm 2007 của Chính phủ về việc thành lập thành phố Sơn Tây thuộc tỉnh Hà Tây |url=https://chinhphu.vn/default.aspx?pageid=27160&docid=34840 |url-status=dead |archive-url=https://web.archive.org/web/20260712401509/https://chinhphu.vn/default.aspx?pageid=27160&docid=34840 |archive-date=2026-07-12 |access-date=2026-07-12 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+
+Ngày 1 tháng 3 năm 2008, thành lập 2 phường: Trung Hưng và Trung Sơn Trầm trên cơ sở 2 xã có tên tương ứng.<ref>{{Chú thích web |title=Nghị định số 23/2008/NĐ-CP ngày 1 tháng 3 năm 2008 của Chính phủ về việc điều chỉnh địa giới hành chính xã, phường, để thành lập phường thuộc thành phố Hà Đông, thành phố Sơn Tây, tỉnh Hà Tây |url=https://chinhphu.vn/default.aspx?pageid=27160&docid=59294 |url-status=live |archive-url=https://web.archive.org/web/20260712401509/https://chinhphu.vn/default.aspx?pageid=27160&docid=59294 |archive-date=2026-07-12 |access-date=2026-07-12 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+
+Ngày 29 tháng 5 năm 2008, hợp nhất tỉnh [[Hà Tây (tỉnh)|Hà Tây]] vào thành phố [[Hà Nội]]. Khi đó, 4 phường: Sơn Lộc, Trung Hưng, Trung Sơn Trầm, Xuân Khanh và 2 xã: Thanh Mỹ, Xuân Sơn thuộc thành phố [[Sơn Tây (thị xã)|Sơn Tây]] của thành phố [[Hà Nội]]. <ref>Nghị quyết số 15/2008/QH12 ngày 29 tháng 5 năm 2008 của Quốc hội khóa XII, Kỳ họp thứ 3 về việc điều chỉnh địa giới hành chính thành phố Hà Nội và một số tỉnh có liên quan.</ref>
+
+Ngày 8 tháng 5 năm 2009, chuyển thành phố [[Sơn Tây (thị xã)|Sơn Tây]] thành thị xã [[Sơn Tây (thị xã)|Sơn Tây]]. Khi đó, 4 phường: Sơn Lộc, Trung Hưng, Trung Sơn Trầm, Xuân Khanh và 2 xã: Thanh Mỹ, Xuân Sơn thuộc thị xã [[Sơn Tây (thị xã)|Sơn Tây]].<ref name="NQ19">{{Chú thích web |tác giả= |họ= |tên= |ngày= |tựa đề=Nghị quyết số 19/NQ-CP ngày 8 tháng 5 năm 2009 của Chính phủ về việc xác lập địa giới hành chính xã Đông Xuân thuộc huyện Quốc Oai; các xã Tiến Xuân, Yên Bình, Yên Trung thuộc huyện Thạch Thất; huyện Mê Linh thuộc thành phố Hà Nội; thành lập quận Hà Đông và các phường trực thuộc; chuyển thành phố Sơn Tây thành thị xã Sơn Tây thuộc thành phố Hà Nội |url=https://chinhphu.vn/default.aspx?pageid=27160&docid=86463 |url-status=live |url lưu trữ=https://web.archive.org/web/20260712401509/https://chinhphu.vn/default.aspx?pageid=27160&docid=86463 |ngày lưu trữ=2026-07-12 |ngày truy cập=2026-07-12 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+
+Ngày 16 tháng 6 năm 2025:
+
+* Kết thúc hoạt động của đơn vị hành chính cấp huyện trong cả nước.<ref>{{Chú thích web |last= |date= |title=Nghị quyết số 203/2025/QH15 ngày 16 tháng 6 năm 2025 của Quốc hội khóa XV, Kỳ họp thứ 9 về việc sửa đổi, bổ sung một số điều của Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/nq-sua-doi-hien-phap.pdf |url-status=live |archive-url=https://web.archive.org/web/20260613090807/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/nq-sua-doi-hien-phap.pdf |archive-date=2026-06-13 |access-date=2026-06-13 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+* Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của phường Xuân Khanh, phường Trung Sơn Trầm, xã Xuân Sơn, phần còn lại của phường Trung Hưng, phường Sơn Lộc và xã Thanh Mỹ (thị xã [[Sơn Tây (thị xã)|Sơn Tây]]) thành phường mới có tên gọi là phường Tùng Thiện.<ref>{{Chú thích web |title=Nghị quyết số 1656/NQ-UBTVQH15 ngày 16 tháng 6 năm 2025 của Ủy ban Thường vụ Quốc hội về việc sắp xếp các đơn vị hành chính cấp xã của thành phố Hà Nội năm 2025 |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf |url-status=bot: unknown |archive-url=https://web.archive.org/web/20260513110024/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf |archive-date=2026-05-13 |access-date=2026-06-30 |website=Cổng Thông tin điện tử Chính phủ }}</ref>
+* Sau khi sắp xếp, phường Tùng Thiện được chia thành 31 tổ dân phố – thôn, gồm 16 tổ dân phố, 15 thôn và một phần của 3 tổ dân phố.<ref>8 tổ dân phố, đánh số từ 1 đến 8 của phường Xuân Khanh cũ; 5 tổ dân phố: 1, 2 và từ 6 đến 8 của phường Trung Sơn Trầm cũ; 9 tổ dân phố – thôn, gồm tổ dân phố Z175 và 8 thôn: Kỳ Sơn, Lễ Khê, Nhân Lý, Tam Sơn, Văn Khê, Xóm Bướm, Xóm Chằm, Xuân Khanh của xã Xuân Sơn cũ; một phần của 2 tổ dân phố: 1 và 8 của phường Trung Hưng cũ; tổ dân phố 6 và một phần của tổ dân phố 7 của phường Sơn Lộc cũ; 8 tổ dân phố – thôn, gồm tổ dân phố Vị Thủy và 7 thôn: 400, Quảng Đại, Tây Vị, Thanh Tiến, Thanh Vị, Thủ Trung, Vị Thủy của xã Thanh Mỹ cũ.</ref><ref>{{Chú thích web|title=Thông tư số 10/2022/TT-BTNMT ngày 29 tháng 9 năm 2022 của Bộ Tài nguyên và Môi trường về việc Ban hành Danh mục địa danh dân cư, sơn văn, thủy văn, kinh tế – xã hội phục vụ công tác thành lập bản đồ thành phố Hà Nội|url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2022/10/10-btnmt.pdf|url-status=bot: unknown|archive-url=https://web.archive.org/web/20260630082812/https://datafiles.chinhphu.vn/cpp/files/vbpq/2022/10/10-btnmt.pdf|archive-date=2026-06-30|access-date=2026-06-30|website=Cổng Thông tin điện tử Chính phủ}}</ref><ref name=":03">{{Chú thích web |last=Trang Thông tin điện tử phường Tùng Thiện – thành phố Hà Nội|date=2026-02-27|title=Phường Tùng Thiện công bố danh sách 31 người ứng cử đại biểu Hội đồng nhân dân phường nhiệm kỳ 2026 – 2031|url=https://tungthien.hanoi.gov.vn/tin-tuc-su-kien/phuong-tung-thien-cong-bo-danh-sach-31-nguoi-ung-cu-dai-bieu-hdnd-phuong-nhiem-ky-20262031-2694260227225930356.htm?gidzl=s7j1ADDUWXZSP4KksKEA6j5kIIZ2JjnCo3aIBirEXqwHOa9vpqxLJ90xG7IK7TH5oZ4HS3Gz5FO1rb-66W|url-status=live|archive-url=https://web.archive.org/web/20260701400809/https://tungthien.hanoi.gov.vn/tin-tuc-su-kien/phuong-tung-thien-cong-bo-danh-sach-31-nguoi-ung-cu-dai-bieu-hdnd-phuong-nhiem-ky-20262031-2694260227225930356.htm?gidzl=s7j1ADDUWXZSP4KksKEA6j5kIIZ2JjnCo3aIBirEXqwHOa9vpqxLJ90xG7IK7TH5oZ4HS3Gz5FO1rb-66W|archive-date=2026-07-01|access-date=2026-07-01|website=}}</ref>
+Ngày 29 tháng 7 năm 2025, đổi tên 11 tổ dân phố của 3 phường: Trung Sơn Trầm, Xuân Khanh và Sơn Lộc lần lượt thành 11 tổ dân phố: 1, 2, từ 6 đến 8 Trung Sơn Trầm, 1, 2, từ 6 đến 8 Xuân Khanh và 6 Sơn Lộc; chuyển đổi 14 thôn: Nhân Lý, Xóm Bướm, Văn Khê, Xuân Khanh, Xóm Chằm, Kỳ Sơn, Tam Sơn, Lễ Khê xã Xuân Sơn và Tây Vị, Thanh Tiến, Thanh Vị, Thủ Trung, Quảng Đại, 400 xã Thanh Mỹ thành tổ dân phố; chuyển đổi thôn Vị Thủy xã Thanh Mỹ thành tổ dân phố Vị Thủy 1; sáp nhập một phần tổ dân phố 1 phường Trung Hưng vào thôn Thanh Tiến, một phần tổ dân phố 8 phường Trung Hưng vào thôn Thủ Trung, một phần tổ dân phố 7 phường Sơn Lộc vào tổ dân phố 8 Trung Sơn Trầm.<ref>I. Đổi tên 11 tổ dân phố do trùng số tự nhiên: 1. Tổ dân phố 1, phường Trung Sơn Trầm thành tổ dân phố 1 Trung Sơn Trầm; 2. Tổ dân phố 2, phường Trung Sơn Trầm thành tổ dân phố 2 Trung Sơn Trầm; 3. Tổ dân phố 6, phường Trung Sơn Trầm thành tổ dân phố 6 Trung Sơn Trầm; 4. Tổ dân phố 7, phường Trung Sơn Trầm thành tổ dân phố 7 Trung Sơn Trầm; 5. Tổ dân phố 8, phường Trung Sơn Trầm thành tổ dân phố 8 Trung Sơn Trầm; 6. Tổ dân phố 1, phường Xuân Khanh thành tổ dân phố 1 Xuân Khanh; 7. Tổ dân phố 2, phường Xuân Khanh thành tổ dân phố 2 Xuân Khanh; 8. Tổ dân phố 6, phường Xuân Khanh thành tổ dân phố 6 Xuân Khanh; 9. Tổ dân phố 7, phường Xuân Khanh thành tổ dân phố 7 Xuân Khanh; 10. Tổ dân phố 8, phường Xuân Khanh thành tổ dân phố 8 Xuân Khanh; 11. Tổ dân phố 6, phường Sơn Lộc thành tổ dân phố 6 Sơn Lộc; II. Chuyển đổi 15 thôn thành tổ dân phố: 1. Thôn Nhân Lý, xã Xuân Sơn đổi tên thành tổ dân phố Nhân Lý; 2. Thôn Xóm Bướm, xã Xuân Sơn đổi tên thành tổ dân phố Xóm Bướm; 3. Thôn Văn Khê, xã Xuân Sơn đổi tên thành tổ dân phố Văn Khê; 4. Thôn Xuân Khanh, xã Xuân Sơn đổi tên thành tổ dân phố Xuân Khanh; 5. Thôn Xóm Chằm, xã Xuân Sơn đổi tên thành tổ dân phố Xóm Chằm; 6. Thôn Kỳ Sơn, xã Xuân Sơn đổi tên thành tổ dân phố Kỳ Sơn; 7. Thôn Tam Sơn, xã Xuân Sơn đổi tên thành tổ dân phố Tam Sơn; 8. Thôn Lễ Khê, xã Xuân Sơn đổi tên thành tổ dân phố Lễ Khê; 9. Thôn Vị Thủy, xã Thanh Mỹ đổi tên thành tổ dân phố Vị Thủy 1; 10. Thôn Tây Vị, xã Thanh Mỹ đổi tên thành tổ dân phố Tây Vị; 11. Thôn Thanh Tiến, xã Thanh Mỹ đổi tên thành tổ dân phố Thanh Tiến; 12. Thôn Thanh Vị, xã Thanh Mỹ đổi tên thành tổ dân phố Thanh Vị; 13. Thôn Thủ Trung, xã Thanh Mỹ đổi tên thành tổ dân phố Thủ Trung; 14. Thôn Quảng Đại, xã Thanh Mỹ đổi tên thành tổ dân phố Quảng Đại, 15. Thôn 400, xã Thanh Mỹ đổi tên thành tổ dân phố 400; III. Sắp xếp các tổ dân phố còn 1 phần thuộc phường Tùng Thiện sau sắp vị hành chính tại phường Tùng Thiện: 1. 1 phần Tổ dân phố 01 Phường Trung Hưng sáp nhập vào Thôn Thanh Tiến phường Tùng Thiện; 2. 1 phần Tổ dân phố 8 Phường Trung Hưng sáp nhập vào Thôn Thủ Trung phường Tùng Thiện; 3. 1 phần Tổ dân phố 7 Phường Sơn Lộc sáp nhập vào Tổ dân phố 8 Trung Sơn Trầm.</ref><ref>{{Chú thích web |title=Nghị quyết số 11/NQ-HĐND ngày 29 tháng 7 năm 2025 của Hội đồng nhân dân phường Tùng Thiện về việc chuyển đổi thôn thành tổ dân phố, đổi tên tổ dân phố do trùng số tự nhiên và sắp xếp các tổ dân phố còn 1 phần thuộc phường Tùng Thiện sau sắp xếp đơn vị hành chính tại phường Tùng Thiện, thành phố Hà Nội |url=https://storage-vnportal.vnpt.vn/gov-hni/7047/VanBan/2025/8/2/nq11%2029.7.2025%20H%C4%90ND%20ph%C6%B0%E1%BB%9Dng%20v%E1%BB%81%20%C4%91%E1%BB%95i%20t%C3%AAn%20TDP.pdf |url-status=live |archive-url=https://web.archive.org/web/20260713401509/https://storage-vnportal.vnpt.vn/gov-hni/7047/VanBan/2025/8/2/nq11%2029.7.2025%20H%C4%90ND%20ph%C6%B0%E1%BB%9Dng%20v%E1%BB%81%20%C4%91%E1%BB%95i%20t%C3%AAn%20TDP.pdf |archive-date=2026-07-13 |access-date=2026-07-13 |website=Trang Thông tin điện tử phường Tùng Thiện – thành phố Hà Nội}}</ref>
+
+Ngày 24 tháng 12 năm 2025, xác định phường Tùng Thiện là [[Đô thị Việt Nam|đô thị loại II]].<ref>Chuyển tiếp từ 4 phường: Sơn Lộc, Trung Hưng, Trung Sơn Trầm, Xuân Khanh và 2 xã: Thanh Mỹ, Xuân Sơn thuộc thị xã Sơn Tây – đô thị loại III.</ref><ref>{{Chú thích web |title=Nghị quyết số 111/2025/UBTVQH15 ngày 24 tháng 12 năm 2025 của Ủy ban Thường vụ Quốc hội về phân loại đô thị |url=https://cdn.nhandan.vn/files/f4a4abf7f9a0ba4a91744616546d850872b76917f90d5a74cc9eebef1369fb6f/111.pdf |url-status=dead |archive-url=https://web.archive.org/web/20260814175111/https://cdn.nhandan.vn/files/f4a4abf7f9a0ba4a91744616546d850872b76917f90d5a74cc9eebef1369fb6f/111.pdf |archive-date=2026-08-14 |access-date=2026-07-12 |website=Báo Nhân dân }}</ref>
+
+Ngày 29 tháng 6 năm 2026, thành lập 12 tổ dân phố mới: Trung Sơn, Trung Hậu, Sơn Lộc, Thanh Vị, Vị Thủy, Thanh Mỹ, Văn Khê, Nhân Lý, Xuân Sơn, Xuân Khanh, Hữu Nghị và Thắng Lợi.<ref>1. Tổ dân phố Trung Sơn được thành lập từ toàn bộ tổ dân phố 2 Trung Sơn Trầm, phần lớn tổ dân phố 8 Trung Sơn Trầm, phần lớn tổ dân phố 7 Trung Sơn Trầm và một phần tổ dân phố 6 Trung Sơn Trầm; 2. Tổ dân phố Trung Hậu được hình thành từ toàn bộ tổ dân phố 1 Trung Sơn Trầm và phần lớn tổ dân phố 6 Trung Sơn Trầm; 3. Tổ dân phố Sơn Lộc được sắp xếp từ toàn bộ tổ dân phố 6 Sơn Lộc, một phần tổ dân phố 7 và tổ dân phố 8 Trung Sơn Trầm, khu tái định cư Trung Hưng cùng một phần Khu đô thị Picenza; 4. Tổ dân phố Thanh Vị được thành lập từ tổ dân phố 400, phần lớn tổ dân phố Thanh Tiến, phần lớn tổ dân phố Thanh Vị, một phần tổ dân phố Quảng Đại, tổ dân phố Vị Thủy 1 và tổ dân phố Thủ Trung; 5. Tổ dân phố Vị Thủy được hình thành từ tổ dân phố Vị Thủy, phần lớn tổ dân phố Vị Thủy 1 cùng một phần tổ dân phố Tây Vị và Nhân Lý; 6. Tổ dân phố Thanh Mỹ được thành lập từ phần lớn các tổ dân phố Quảng Đại, Thủ Trung, Tây Vị và một phần tổ dân phố Thanh Vị; 7. Tổ dân phố Văn Khê được sắp xếp từ tổ dân phố Xóm Chằm, tổ dân phố Văn Khê, tổ dân phố Z175 cùng một phần tổ dân phố Xuân Khanh; 8. Tổ dân phố Nhân Lý được thành lập từ phần lớn tổ dân phố Nhân Lý và tổ dân phố Xóm Bướm, quy mô khoảng 766 hộ dân; 9. Tổ dân phố Xuân Sơn được hình thành từ các tổ dân phố Lễ Khê, Tam Sơn, Kỳ Sơn và phần lớn tổ dân phố Xuân Khanh; 10. Tổ dân phố Xuân Khanh được sắp xếp từ tổ dân phố 7 Xuân Khanh, tổ dân phố 8 Xuân Khanh cùng một phần các tổ dân phố 2, 4, 6 Xuân Khanh và tổ dân phố Xóm Bướm; 11. Tổ dân phố Hữu Nghị được thành lập từ tổ dân phố 5, phần lớn các tổ dân phố 3, 4, 6 Xuân Khanh và một phần tổ dân phố Nhân Lý; 12. Tổ dân phố Thắng Lợi được hình thành từ tổ dân phố 1 Xuân Khanh, phần lớn tổ dân phố 2 Xuân Khanh cùng một phần tổ dân phố 3, Xóm Bướm, Nhân Lý và Vị Thủy 1.</ref><ref name=":4">{{Chú thích web |last=Diễn đàn phường Tùng Thiện – thành phố Hà Nội |date=2026-06-08 |title=Phường Tùng Thiện tổ chức hội nghị lấy ý kiến về đề án sắp xếp tổ dân phố, tạo đồng thuận cho giai đoạn phát triển mới |url=https://web.facebook.com/photo?fbid=122197152278908534&set=pcb.122197152908908534 |url-status=dead |archive-url=https://web.archive.org/web/20260730201509/https://web.facebook.com/photo?fbid=122197152278908534&set=pcb.122197152908908534 |archive-date=2026-07-30 |access-date=2026-07-30}}</ref><ref name=":12">{{Chú thích web |last=Trang Thông tin điện tử phường Tùng Thiện – thành phố Hà Nội|date=2026-06-17|title=Phường Tùng thiện lấy ý kiến nhân dân về đề án sắp xếp tổ dân phố|url=https://tungthien.hanoi.gov.vn/tin-tuc-su-kien/phuong-tung-thien-lay-y-kien-nhan-dan-ve-de-an-sap-xep-to-dan-pho-2694260617155201594.htm|url-status=live|archive-url=https://web.archive.org/web/20260713401509/https://tungthien.hanoi.gov.vn/tin-tuc-su-kien/phuong-tung-thien-lay-y-kien-nhan-dan-ve-de-an-sap-xep-to-dan-pho-2694260617155201594.htm|archive-date=2026-07-13|access-date=2026-07-13}}</ref><ref name=":2">{{Chú thích web |last=Phan Thanh|date=2026-06-30|title=Hội đồng nhân dân phường Tùng Thiện khóa II thông qua 05 nghị quyết quan trọng tại kỳ họp thường lệ giữa năm 2026|url=https://dbndhanoi.gov.vn/bai-viet/hdnd-phuong-tung-thien-khoa-ii-thong-qua-05-nghi-quyet-quan-trong-tai-ky-hop-thuong-le-giua-nam-2026|url-status=live|archive-url=https://web.archive.org/web/20260713401509/https://dbndhanoi.gov.vn/bai-viet/hdnd-phuong-tung-thien-khoa-ii-thong-qua-05-nghi-quyet-quan-trong-tai-ky-hop-thuong-le-giua-nam-2026|archive-date=2026-07-13|access-date=2026-07-13|website=Trang Thông tin điện tử Đoàn đại biểu Quốc hội và Hội đồng nhân dân thành phố Hà Nội}}</ref>[[Tập tin:Bản đồ các tổ dân phố thuộc phường Tùng Thiện – thành phố Hà Nội.jpg|trái|nhỏ|250x250px|Phương án sắp xếp các tổ dân phố trên địa bàn phường Tùng Thiện của thành phố Hà Nội (từ ngày 1 tháng 7 năm 2026)<ref name=":12" />]]
+== Hành chính==
+Phường Tùng Thiện được chia thành 12 tổ dân phố: Hữu Nghị, Nhân Lý, Sơn Lộc, Thanh Mỹ, Thanh Vị, Thắng Lợi, Trung Hậu, Trung Sơn, Văn Khê, Vị Thủy, Xuân Khanh và Xuân Sơn.<ref name=":4" /><ref name=":12" /><ref name=":2" />
+{| class="wikitable sortable" cellpadding="0" cellspacing="6" width="100%" align="center" style="background: #f9f9f9; border: 1px #aaa solid; margin-top: 16px"
+! colspan="4" style="background: #E6E6FA; font-size: 95%;" |Danh sách các tổ dân phố thuộc phường Tùng Thiện<ref name=":4" /><ref name=":12" /><ref name=":2" />
+|-
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| cellpadding="1" cellspacing="1" width="100%" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Hữu Nghị
+|1.107
+|-
+| align="left" |Nhân Lý
+|731
+|-
+| align="left" |Sơn Lộc
+|1.003
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| cellpadding="1" cellspacing="1" width="100%" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Thanh Mỹ
+|736
+|-
+| align="left" |Thanh Vị
+|1.002
+|-
+| align="left" |Thắng Lợi
+|866
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| cellpadding="1" cellspacing="1" width="100%" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Trung Hậu
+|1.051
+|-
+| align="left" |Trung Sơn
+|1.193
+|-
+| align="left" |Văn Khê
+|713
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| cellpadding="1" cellspacing="1" width="100%" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Vị Thủy
+|709
+|-
+| align="left" |Xuân Khanh
+|722
+|-
+| align="left" |Xuân Sơn
+|705
+|}
+|}<!-- 
+Xuân Sơn là một vùng đất cổ được thành lập từ rất lâu. Dưới thời phong kiến, Xuân Sơn gồm có 5 xã Nhân Lý, Văn Khê, Xuân Khanh, Lễ Khê, Tam Sơn (02 xóm Rừng Nghè và Xóm Chàm thuộc xã Tam Sơn) đều thuộc tổng Nhân Lý huyện Tùng Thiện.
+
+Cách mạng tháng Tám năm 1945 thành công, Tổng Nhân Lý đổi tên thành xã Xuân Sơn thuộc huyện Tùng Thiện, tỉnh Hà Tây.
+
+Ngày 01/7/1965, hai tỉnh Sơn Tây và Hà Đông sáp nhập thành tỉnh Hà Tây, như vậy trong giai đoạn này xã Xuân Sơn thuộc tỉnh Hà Tây.
+
+Tháng 10/1968, hợp nhất 03 huyện Tùng Thiện, Quảng Oai, Bất Bạt thành huyện Ba Vì thuộc tỉnh Hà Tây, xã Xuân Sơn lúc này thuộc huyện Ba Vì, tỉnh Hà Tây.
+
+Ngày 27/12/1975, Hà Tây hợp nhất với tỉnh Hoà Bình thành tỉnh Hà Sơn Bình, xã Xuân Sơn thuộc tỉnh Hà Sơn Bình.
+
+Năm 1978, hai thị xã Sơn Tây và Hà Đông, các huyện Ba Vì, Phúc Thọ, Thạch Thất, Đan Phượng, Hoài Đức và một số xã của các huyện Chương Mỹ, Thanh Oai, Thường Tín, Quốc Oai thuộc tỉnh Hà Sơn Bình được chuyển về Hà Nội, xã Xuân Sơn thuộc quản lý hành chính của thủ đô Hà Nội.
+
+Tháng 9/1982, xã Xuân Sơn và một số xã (thuộc huyện Tùng Thiện cũ) từ huyện Ba Vì chuyển về thị xã Sơn Tây.
+
+Ngày 14/3/1984, Hội đồng Bộ trưởng nay là Chính phủ ra Quyết định số 42-CP/HĐBT về việc tách một phần diện tích xã Xuân Sơn thành lập Phường Xuân Khanh.
+
+Ngày 12/8/1991 theo Nghị quyết của Quốc hội khoá VIII tại kỳ họp thứ 9 tỉnh Hà Sơn Bình được tách thành 2 tỉnh: tỉnh Hoà Bình và tỉnh Hà Tây. Như vậy, tỉnh Hà Tây tái lập, giai đoạn này xã Xuân Sơn thuộc thị xã Sơn Tây, tỉnh Hà Tây.
+
+Tháng 8/2007, Thủ tướng Chính phủ ký Nghị định thành lập thành phố Sơn Tây thuộc tỉnh Hà Tây, xã Xuân Sơn thuộc thành phố Sơn Tây.
+
+Từ ngày 01/8/2008, xã Xuân Sơn cùng toàn bộ các xã, phường thuộc tỉnh Hà Tây được sáp nhập vào thành phố Hà Nội và ổn định về quản lý hành chính cho đến nay.
+
+== Lịch sử thành lập==
+
+Phường Xuân Khanh được thành lập theo Quyết định số 42/QĐ-HĐBT ngày 14/3/1984 của Hội đồng Bộ trưởng nước Cộng hoà xã hội chủ nghĩa Việt Nam (nay là Chính phủ). Địa dư hành chính của phường hình thành trên cơ sở tách và nhập của 2 xã Xuân Sơn và Thanh Mỹ hợp thành.
+
+ -->
+
+== Kinh tế== 
+[[hình:Khu nghỉ dưỡng Trung Sơn Trầm ở Sơn Tây (8).jpg|thumb| trái| Quang cảnh trong khu nghỉ dưỡng Trung Sơn Trầm]]
+Kinh tế phường Tùng Thiện phát triển đa ngành với thương mại – dịch vụ, nông nghiệp chất lượng cao, du lịch sinh thái và nghỉ dưỡng.<ref name=":0" />
+
+Phường này có sự kết hợp giữa các khu đô thị trung tâm cũ, vùng nông nghiệp ven đô và khu vực rừng núi, quốc phòng. Trong đó, các khu vực như Sơn Lộc, Trung Hưng, Trung Sơn Trầm trước đây là trung tâm của thị xã Sơn Tây, tập trung dân cư đông đúc, là đầu mối cung cấp và tiêu thụ hàng hóa cho các vùng lân cận, tạo điều kiện cho dịch vụ thương mại, hậu cần và tiêu dùng phát triển mạnh.<ref name=":0" />
+
+Thanh Mỹ là vùng sản xuất nông nghiệp trọng điểm (rau an toàn, cây ăn quả, hoa màu), có mô hình hợp tác xã nông nghiệp quy mô lớn.<ref name=":3" /> Trong khi đó, Xuân Sơn giáp với [[Vườn quốc gia Ba Vì]] nên có điều kiện thổ nhưỡng và khí hậu phù hợp cho phát triển nông nghiệp sinh thái, trồng dược liệu, rau rừng, chăn nuôi thả tự nhiên.<ref name=":0" />
+
+Phường Tùng Thiện được đánh giá là có tiềm năng về du lịch – nghỉ dưỡng, do là điểm giao thoa với vùng sinh thái bán sơn địa. Đồng thời, phường có khả năng bảo tồn rừng theo quy hoạch tổng thể khu vực phía Tây Hà Nội.<ref name=":0" />
+
+== Xã hội==
+
+=== Y tế=== 
+Bệnh viện Chỉnh hình và Phục hồi chức năng Hà Nội tọa lạc tại phường.
+
+=== Giáo dục=== 
+Phường có đầy đủ hệ thống trường học từ cấp Tiểu học đến THPT.<ref name=":0" /> Các cơ sở giáo dục cao hơn bao gồm [[Trường Đại học Công nghiệp Việt – Hung|Trường Đại học Công nghiệp Việt - Hung]],<ref>{{chú thích web | author = | ngày = | tiêu đề = Trang chủ Trường Đại học Công nghiệp Việt - Hung | url = http://viu.edu.vn | url-status = live | ngày truy cập = 24 tháng 6 năm 2025 | ngôn ngữ = | nơi xuất bản = }}</ref> [[Trường Đại học Lao động – Xã hội|Trường Đại học Lao động Xã hội]] - Cơ sở Sơn Tây, Trường Cao đẳng Kỹ thuật quân sự 1, [[Trường Sĩ quan Pháo binh]], Trường Quân sự Bộ tư lệnh thủ đô.
+
+== Văn hóa== 
+Trên địa bàn có các đình, chùa tổ chức các lễ hội truyền thống. Trong đó, đình làng Cầm thường tổ chức lễ hội đình vào tháng Giêng hàng năm, bao gồm phần tế lễ, múa rối và trò chơi dân gian. Chùa Mễ Sơn tổ chức lễ hội truyền thống hàng năm vào cuối tháng Giêng{{Em dash}}đầu tháng Hai âm lịch.<ref name=":0" />
+
+Tùng Thiện có [[Nhà thờ chính tòa Sơn Lộc]] trực thuộc [[Giáo phận Hưng Hóa]].
+
+== Chú thích== 
+{{Tham khảo| 2}}
+
+== Thư mục ==
+* ''Sơn Tây tỉnh địa chí'', Phạm Xuân Độ, 1941.
+
+== Tham khảo ==
+{{Sơ khai Hà Nội}}{{Đơn vị hành chính thuộc thành phố Hà Nội}}

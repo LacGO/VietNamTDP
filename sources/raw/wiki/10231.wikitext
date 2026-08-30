@@ -1,0 +1,189 @@
+{{Thông tin đơn vị hành chính Việt Nam|Xã
+| tên = Thượng Phúc
+| hình = Một góc xã Thượng Phúc.png
+| ghi chú hình = Một góc làng Nghiêm Xá
+| vĩ độ = 20.84322876802567
+| kinh độ = 105.8534684453133
+| diện tích = 28,91 km²
+| dân số = 45.464 người
+| thời điểm dân số = 2025
+| mật độ dân số = {{formatnum:{{#expr:floor({{formatnum:45.464| R}}/{{formatnum:28,91| R}})}} }} người/km²
+| vùng = [[Đồng bằng sông Hồng]]
+| thành phố = [[Hà Nội]]
+| mã hành chính =10231<ref>{{Chú thích web |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/19ttg.signed.pdf |title=Quyết định số 19/2025/QĐ-TTg ngày 30 tháng 6 năm 2025 của Thủ tướng Chính phủ về việc Ban hành Bảng danh mục và mã số các đơn vị hành chính Việt Nam |access-date=2026-06-15 |archive-date=2026-06-15 |archive-url=https://web.archive.org/web/20260615034519/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/19ttg.signed.pdf |url-status=dead }}</ref> 
+| mã bưu chính = 
+| trụ sở UBND = Thôn Phúc Lộc<ref>{{Chú thích web |url=https://storage-vnportal.vnpt.vn/gov-hni/6244/VanBan/2025/6/25/TB-729-2025.pdf |title=Thông báo số 729/TB-UBND ngày 25 tháng 6 năm 2025 của Ủy ban nhân dân thành phố Hà Nội về địa điểm trụ sở làm việc của 126 phường, xã sau sắp xếp thuộc phạm vi quản lý của thành phố Hà Nội|access-date=2026-06-15 |archive-date=2026-06-15 |archive-url=https://web.archive.org/web/20260615034519/https://storage-vnportal.vnpt.vn/gov-hni/6244/VanBan/2025/6/25/TB-729-2025.pdf |url-status=dead | website = Cổng Thông tin điện tử Ủy ban nhân dân thành phố Hà Nội}}</ref>
+| thành lập = 
+|bản đồ 1={{maplink|frame=yes|plain=yes|type=shape|frame-width=280|frame-align=center|stroke-width=3}}|web={{url|thuongphuc.hanoi.gov.vn}}|trụ sở Đảng ủy=Thôn Hồng Thái}}
+
+'''Thượng Phúc''' là một [[Xã (Việt Nam)|xã]] thuộc thành phố [[Hà Nội]], [[Việt Nam]].
+
+== Địa lý==
+Xã Thượng Phúc có vị trí địa lý:
+* Phía đông giáp xã [[Chương Dương (xã)|Chương Dương]].
+* Phía tây giáp xã [[Dân Hòa]]
+* Phía nam giáp xã [[Phượng Dực]] và xã [[Phú Xuyên, Hà Nội|Phú Xuyên]]
+* Phía bắc giáp xã [[Thường Tín (huyện)|Thường Tín]] và xã [[Hồng Vân]].<ref>{{Chú thích web |last=Viện nghiên cứu Phát triển kinh tế – xã hội Hà Nội |date=2025-07-02 |title=Xã Thượng Phúc: Những thông tin chi tiết sau sắp xếp |url=https://hanoionline.vn/xa-thuong-phuc-nhung-thong-tin-chi-tiet-sau-sap-xep-344238.htm |url-status=bot: unknown |archive-url=https://web.archive.org/web/20250703090141/https://hanoionline.vn/xa-thuong-phuc-nhung-thong-tin-chi-tiet-sau-sap-xep-344238.htm |archive-date=2025-07-03 |access-date=2026-07-01 |website=Cơ quan Báo và Phát thanh Truyền hình Hà Nội }}</ref><ref>{{Chú thích web |last=Cơ quan Báo và Phát thanh Truyền hình Hà Nội |date=2025-07-07 |title=Xã Thượng Phúc: Tất cả thông tin chỉ dẫn bạn cần biết |url=https://hanoionline.vn/xa-thuong-phuc-tat-ca-thong-tin-chi-dan-ban-can-biet-345165.htm |url-status=live |archive-url=https://web.archive.org/web/20260711401509/https://hanoionline.vn/xa-thuong-phuc-tat-ca-thong-tin-chi-dan-ban-can-biet-345165.htm |archive-date=2026-07-11 |access-date=2026-07-11}}</ref>
+Xã Thượng Phúc có diện tích tự nhiên là 28,91&nbsp;km<sup>2</sup>, quy mô dân số năm 2025 là 45.464 người và mật độ dân số đạt 1.572 người/km<sup>2</sup>.<ref>{{Chú thích web |last=Mai Hữu |date=2026-04-05 |title=Hà Nội: Chi tiết phương án tổng thể sắp xếp đơn vị hành chính cấp xã |url=https://hanoimoi.vn/ha-noi-chi-tiet-phuong-an-tong-the-sap-xep-don-vi-hanh-chinh-cap-xa-700278.html |url-status=bot: unknown |archive-url=https://web.archive.org/web/20250710163328/https://hanoimoi.vn/ha-noi-chi-tiet-phuong-an-tong-the-sap-xep-don-vi-hanh-chinh-cap-xa-700278.html |archive-date=2025-07-10 |access-date=2026-07-11 |website=Cơ quan Báo và Phát thanh, truyền hình Hà Nội }}</ref><ref>Công văn số 2896/BNV-CQĐP ngày 27 tháng 5 năm 2025 của Bộ Nội vụ về việc cung cấp thông tin danh mục dự kiến đơn vị hành chính cấp xã mới.</ref>
+
+Ngoài ra, [[Quốc lộ 1|Quốc lộ 1A]] và tuyến [[Đường sắt Bắc Nam|đường sắt Bắc - Nam]] chạy qua địa bàn xã, giúp Thượng Phúc dễ dàng kết nối với các khu vực khác, thúc đẩy phát triển giao thương và dịch vụ.
+
+Xã Thượng Phúc mới đang bước vào một thời kỳ chuyển mình quan trọng, với tinh thần chủ động và quyết liệt trong quá trình chuẩn bị và vận hành thử nghiệm mô hình chính quyền địa phương hai cấp, sẵn sàng khai mở chặng đường phát triển mới mang tính toàn diện, hiện đại và bền vững.
+== Lịch sử ==
+
+=== Trước năm 1976 ===
+
+=== Giai đoạn 1976 – nay ===
+Sau ngày 2 tháng 7 năm 1976, 5 xã: Dũng Tiến, Nghiêm Xuyên, Nguyễn Trãi, Quất Động và Tân Minh thuộc huyện [[Thường Tín (huyện)|Thường Tín]] của tỉnh [[Hà Sơn Bình]].
+
+Ngày 12 tháng 8 năm 1991, chia tỉnh [[Hà Sơn Bình]] thành 2 tỉnh, lấy tên là tỉnh [[Hòa Bình (tỉnh)|Hòa Bình]] và tỉnh [[Hà Tây (tỉnh)|Hà Tây]]. Khi đó, 5 xã: Dũng Tiến, Nghiêm Xuyên, Nguyễn Trãi, Quất Động và Tân Minh thuộc huyện [[Thường Tín (huyện)|Thường Tín]] của tỉnh [[Hà Tây (tỉnh)|Hà Tây]].<ref>Nghị quyết ngày 12 tháng 8 năm 1991 của Quốc hội khóa VIII, Kỳ họp thứ 9 về việc điều chỉnh địa giới hành chính một số tỉnh, thành phố trực thuộc Trung ương.</ref>
+
+Ngày 29 tháng 5 năm 2008, hợp nhất tỉnh [[Hà Tây (tỉnh)|Hà Tây]] vào thành phố [[Hà Nội]]. Khi đó, 5 xã: Dũng Tiến, Nghiêm Xuyên, Nguyễn Trãi, Quất Động và Tân Minh thuộc huyện [[Thường Tín (huyện)|Thường Tín]] của thành phố [[Hà Nội]].<ref>Nghị quyết số 15/2008/QH12 ngày 29 tháng 5 năm 2008 của Quốc hội khóa XII, Kỳ họp thứ 3 về việc điều chỉnh địa giới hành chính thành phố Hà Nội và một số tỉnh có liên quan.</ref>
+
+Ngày 16 tháng 6 năm 2025:
+
+* Kết thúc hoạt động của đơn vị hành chính cấp huyện trong cả nước.<ref>{{Chú thích web |last= |date= |title=Nghị quyết số 203/2025/QH15 ngày 16 tháng 6 năm 2025 của Quốc hội khóa XV, Kỳ họp thứ 9 về việc sửa đổi, bổ sung một số điều của Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/nq-sua-doi-hien-phap.pdf |url-status=live |archive-url=https://web.archive.org/web/20260613090807/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/nq-sua-doi-hien-phap.pdf |archive-date=2026-06-13 |access-date=2026-06-13 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+* Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của các xã Tân Minh, Dũng Tiến, Quất Động, Nghiêm Xuyên và Nguyễn Trãi (huyện [[Thường Tín (huyện)|Thường Tín]]) thành xã mới có tên gọi là xã Thượng Phúc.<ref>{{Chú thích web |title=Nghị quyết số 1656/NQ-UBTVQH15 ngày 16 tháng 6 năm 2025 của Ủy ban Thường vụ Quốc hội về việc sắp xếp các đơn vị hành chính cấp xã của thành phố Hà Nội năm 2025 |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf |url-status=bot: unknown |archive-url=https://web.archive.org/web/20260513110024/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf |archive-date=2026-05-13 |access-date=2026-06-30 |website=Cổng Thông tin điện tử Chính phủ }}</ref>
+* Sau khi sắp xếp, xã Thượng Phúc được chia thành 32 thôn.<ref>5 thôn: La Uyên, Phú Lương, Phúc Trại, Thọ Giáo và Triều Đông của xã Tân Minh cũ; 7 thôn: Bùng Nội, Cao Xá, Cổ Chất, Đông Cứu, Ngoài Làng, Xóm Bến và Xóm Ngang của xã Dũng Tiến cũ; 8 thôn: Đô Quan, Đức Trạch, Hướng Xá, Lưu Xá, Nguyên Bì, Quất Động, Quất Lâm và Quất Tỉnh của xã Quất Động cũ; 3 thôn: Cống Xuyên, Liễu Viên và Nghiêm Xá của xã Nghiêm Xuyên cũ; 9 thôn: Đình Tổ, Gia Khánh, Gia Phúc, Hòe Thị, Lộc Dư, Mai Sao, Mễ Sơn, Vĩnh Mộ và Xóm Bến của xã Nguyễn Trãi cũ.</ref><ref>{{Chú thích web |title=Thông tư số 10/2022/TT-BTNMT ngày 29 tháng 9 năm 2022 của Bộ Tài nguyên và Môi trường về việc Ban hành Danh mục địa danh dân cư, sơn văn, thủy văn, kinh tế – xã hội phục vụ công tác thành lập bản đồ thành phố Hà Nội |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2022/10/10-btnmt.pdf |url-status=bot: unknown |archive-url=https://web.archive.org/web/20260630082812/https://datafiles.chinhphu.vn/cpp/files/vbpq/2022/10/10-btnmt.pdf |archive-date=2026-06-30 |access-date=2026-06-30 |website=Cổng Thông tin điện tử Chính phủ }}</ref><ref>{{Chú thích web |last=Trang Thông tin điện tử xã Thượng Phúc – thành phố Hà Nội |date=2026-03-03 |title=Ủy ban bầu cử xã Thượng Phúc công bố danh sách chính thức những người ứng cử đại biểu Hội đồng nhân dân xã khoá II, nhiệm kỳ 2026 – 2031 theo từng đơn vị bầu cử trên địa bàn xã |url=https://thuongphuc.hanoi.gov.vn/tin-tuc-su-kien/uy-ban-bau-cu-xa-thuong-phuc-cong-bo-danh-sach-chinh-thuc-nhung-nguoi-ung-cu-dai-bieu-hdnd-xa-khoa-ii-nhiem-ky-2026-2031-theo-tung-don-vi-bau-cu-tren-dia-ban-xa-2841260225190818303.htm |url-status=live |archive-url=https://web.archive.org/web/20260702400809/https://thuongphuc.hanoi.gov.vn/tin-tuc-su-kien/uy-ban-bau-cu-xa-thuong-phuc-cong-bo-danh-sach-chinh-thuc-nhung-nguoi-ung-cu-dai-bieu-hdnd-xa-khoa-ii-nhiem-ky-2026-2031-theo-tung-don-vi-bau-cu-tren-dia-ban-xa-2841260225190818303.htm |archive-date=2026-07-02 |access-date=2026-07-02 |website=}}</ref>
+
+Ngày 26 tháng 6 năm 2026, thành lập 11 thôn mới: Đông Cứu, Ba Lăng, Nghiêm Xá, Triều Phú, La Phù, Lâm Tỉnh, Hồng Thái, Tam Xá, Mễ Sơn, Phúc Đậu và Phúc Lộc.<ref>1. Thôn Đông Cứu: được hình thành từ thôn Cổ Chất và thôn Đông Cứu; 2. Thôn Ba Lăng: được hình thành từ các thôn, xóm Bùng Nội, Ngoài Làng, Xóm Ngang, Xóm Bến và Cao Xá; 3. Thôn Cống Xuyên giữ nguyên địa giới hành chính hiện nay; 4. Thôn Nghiêm Xá: được hình thành từ Nghiêm Xá và Liễu Viên; 5. Thôn Triều Phú: được hình thành từ Triều Đông và Phú Lương; 6. Thôn La Phù: được hình thành từ Thọ Giáo, La Uyên và Phúc Trại; 7. Thôn Lâm Tỉnh: được hình thành từ Quất Tỉnh và Quất Lâm; 8. Thôn Hồng Thái: được hình thành từ Đô Quan, Đức Trạch và Quất Động; 9. Thôn Tam Xá: được hình thành từ Nguyên Bì, Hướng Xá và Lưu Xá; 10. Thôn Mễ Sơn: được hình thành từ Đình Tổ, Xóm Bến và Mễ Sơn; 11. Thôn Phúc Đậu: được hình thành từ Gia Khánh, Gia Phúc và Vĩnh Mộ; 12. Thôn Phúc Lộc: được hình thành từ Lộc Dư, Mai Sao và Hòe Thị.</ref><ref name=":0">{{Chú thích web |last=Trang Thông tin điện tử xã Thượng Phúc – thành phố Hà Nội |date=2026-06-05 |title=Xã Thượng Phúc thực hiện chủ trương sắp xếp, sáp nhập các thôn trên địa bàn |url=https://thuongphuc.hanoi.gov.vn/dang-uy-xa-thuong-phuc/xa-thuong-phuc-thuc-hien-chu-truong-sap-xep-sap-nhap-cac-thon-tren-dia-ban-2841260605215528554.htm?gidzl=qyhfPKxoP2FNrUrZHEviBDVVusbIi6mfmOktE5xXF2x4YhCy2RGzVSE5vprSlZnubO2qFsAh2RXtI_DW8G |url-status=live |archive-url=https://web.archive.org/web/20260702400809/https://thuongphuc.hanoi.gov.vn/dang-uy-xa-thuong-phuc/xa-thuong-phuc-thuc-hien-chu-truong-sap-xep-sap-nhap-cac-thon-tren-dia-ban-2841260605215528554.htm?gidzl=qyhfPKxoP2FNrUrZHEviBDVVusbIi6mfmOktE5xXF2x4YhCy2RGzVSE5vprSlZnubO2qFsAh2RXtI_DW8G |archive-date=2026-07-02 |access-date=2026-07-02}}</ref><ref name=":1">{{Chú thích web |last=Trang Thông tin điện tử xã Thượng Phúc – thành phố Hà Nội |date=2026-06-28 |title=Kỳ họp thứ Hai Hội đồng nhân dân xã khóa II thông qua nhiều Nghị quyết quan trọng |url=https://thuongphuc.hanoi.gov.vn/tin-tuc-su-kien/ky-hop-thu-hai-hdnd-xa-khoa-ii-thong-qua-nhieu-nghi-quyet-quan-trong-2841260628002916646.htm?gidzl=UYHiAXwZ41P-EsWi5ByO6NymPoK3u1aVQMGpT0-nIHXiPJTmMEH8IsjgOt4DxabEFMymSs9IjaaD6w8K50 |url-status=live |archive-url=https://web.archive.org/web/20260702400809/https://thuongphuc.hanoi.gov.vn/tin-tuc-su-kien/ky-hop-thu-hai-hdnd-xa-khoa-ii-thong-qua-nhieu-nghi-quyet-quan-trong-2841260628002916646.htm?gidzl=UYHiAXwZ41P-EsWi5ByO6NymPoK3u1aVQMGpT0-nIHXiPJTmMEH8IsjgOt4DxabEFMymSs9IjaaD6w8K50 |archive-date=2026-07-02 |access-date=2026-07-02}}</ref><ref name=":2">{{Chú thích web |last=Xã Thượng Phúc – thành phố Hà Nội |date=2026-07-03 |title=Chính thức công bố: Danh sách 12 thôn mới trên địa bàn xã Thượng Phúc sau khi sắp xếp, tinh gọn bộ máy |url=https://web.facebook.com/story.php?story_fbid=122183818880916458&id=61577493762418&rdid=ssNbUiFhiZ6T63RY# |url-status=dead |archive-url=https://web.archive.org/web/20260719401509/https://web.facebook.com/story.php?story_fbid=122183818880916458&id=61577493762418&rdid=ssNbUiFhiZ6T63RY# |archive-date=2026-07-19 |access-date=2026-07-19}}</ref>
+== Hành chính==
+Xã Thượng Phúc được chia thành 12 thôn: Ba Lăng, Cống Xuyên, Đông Cứu, Hồng Thái, La Phù, Lâm Tỉnh, Mễ Sơn, Nghiêm Xá, Phúc Đậu, Phúc Lộc, Tam Xá và Triều Phú.<ref name=":0" /><ref name=":1" /><ref name=":2" />
+{| class="wikitable sortable" align="center" width="100%" cellspacing="6" cellpadding="0" style="background: #f9f9f9; border: 1px #aaa solid; margin-top: 16px"
+! colspan="4" style="background: #E6E6FA; font-size: 95%;" |Danh sách các thôn thuộc xã Thượng Phúc<ref name=":0" /><ref name=":1" /><ref name=":2" />
+|-
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Ba Lăng
+|1.774
+|-
+| align="left" |Cống Xuyên
+|981
+|-
+| align="left" |Đông Cứu
+|1.126
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Hồng Thái
+|1.250
+|-
+| align="left" |La Phù
+|1.731
+|-
+| align="left" |Lâm Tỉnh
+|630
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Mễ Sơn
+|988
+|-
+| align="left" |Nghiêm Xá
+|1.086
+|-
+| align="left" |Phúc Đậu
+|1.302
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Phúc Lộc
+|958
+|-
+| align="left" |Tam Xá
+|1.000
+|-
+| align="left" |Triều Phú
+|1.077
+|}
+|}
+
+== Đặc điểm văn hoá - xã hội<ref>Toàn bộ thông tin của phần này được tóm tắt dựa trên bản tin giới thiệu về xã mới của Đài Phát thanh - Truyền hình Xã Thượng Phúc, tháng 7 năm 2025.</ref> ==
+Xã Thượng Phúc là một vùng đất giàu truyền thống văn hóa với những di tích tín ngưỡng đặc sắc. Lịch sử còn ghi chép lại, Thượng Phúc nổi tiếng với tín ngưỡng đa thần thờ Tứ Pháp, xưa kia khi khoa học chưa phát triển, con người hình dung tất cả các hiện tượng thiên nhiên đều là thần thánh nên mới có tín ngưỡng thờ Tứ Pháp gắn với những ngôi chùa, tiêu biểu như chùa Đậu ở làng Gia Phúc (Nguyễn Trãi) thờ thần mưa.
+
+Xã có những lễ hội mang đậm bản sắc dân tộc, thể hiện sự gắn bó của cộng đồng như lễ hội chùa Đậu  (Nguyễn Trãi), lễ hội bơi chải ngày 2/9 thôn Cống Xuyên, lễ hội truyền thống gắn với đình - đền Quất Tỉnh...
+
+Không chỉ là vùng đất danh hương, khoa bảng, xã Thượng Phúc còn nổi tiếng với hệ thống di tích lịch sử, không gian tín ngưỡng và các lễ hội văn hóa truyền thống đặc sắc. Nơi đây tiếp nhận và lưu giữ nhiều giá trị văn hóa dân gian tiêu biểu của vùng phía Nam Thăng Long - Hà Nội, với các lễ hội mang đậm bản sắc địa phương thường được tổ chức vào dịp đầu xuân hằng năm.
+
+Nét nổi bật ở Thượng Phúc chính là tín ngưỡng thờ tổ nghề. Tín ngưỡng thờ tổ nghề đã trở thành nét văn hóa truyền thống đặc sắc, thể hiện sự biết ơn đến những vị sáng lập, mở mang ngành nghề cho nhân dân. Ở hầu hết các làng nghề của Thượng Phúc, trong những ngôi đình, đền, miếu đều đặt ban thờ tổ nghề bên cạnh ban thờ đức Thành hoàng làng như đình Cống Xuyên,...
+
+Xã có những làng nghề truyền thống như làng thêu Quất Động, thêu Dũng Tiến, dệt, thợ nề Cống Xuyên và các nghề thủ công khác. Những làng nghề này là nơi lưu giữ và phát triển những kỹ năng thủ công truyền thống của địa phương.
+
+Các trường mầm non, THCS, THPT triển khai vận dụng các phương pháp, kỹ thuật dạy học tích cực và thực hiện việc đổi mới phương pháp dạy và học. Một số trường tiêu biểu trên địa bàn xã có thể kể đến như: Trường Mầm non Hòa Bình, Thắng Lợi; Trường Tiểu học Nguyễn Trãi, Trường THCS Dũng Tiến,...
+
+Trên địa bàn xã hiện có hệ thống trạm y tế cơ sở đảm nhiệm chức năng chăm sóc sức khỏe ban đầu, khám chữa bệnh thông thường và chăm sóc sức khỏe sinh sản định kỳ cho người dân. Bên cạnh đó, một số phòng khám đa khoa được đầu tư trang thiết bị y tế hiện đại, hoạt động với nhiều chuyên khoa, đáp ứng hiệu quả nhu cầu khám chữa bệnh chuyên sâu của người dân địa phương.
+
+<!-- 
+Đầu thế kỷ 19, các làng của Nghiêm Xuyên hiện nay, là: Nghiêm Xá, Liễu Viên,.. thuộc tổng Triều Đông huyện Thượng Phúc; Cống Xuyên,... thuộc tổng Đông Cứu huyện Thượng Phúc phủ Thường Tín trấn [[Sơn Nam (địa danh cũ Việt Nam)| Sơn Nam Thượng]]<ref>Cuốn Tên làng xã Việt Nam đầu thế kỷ 19, trang 48.</ref>. Năm 1831, chúng thuộc huyện Thượng Phúc phủ Thường Tín tỉnh Hà Nội. Thời [[Pháp thuộc]] chúng là các xã trong 2 tổng thuộc huyện Thường Tín tỉnh Hà Đông.
+
+== Văn hóa== 
+Làng Nghiêm Xá thuộc xã Nghiêm Xuyên được công nhận là [[làng văn hóa]] năm 1993 và [[đình| đình làng]] được công nhận là [[di tích lịch sử văn hóa]]. Đình làng thờ trạng nguyên [[Nguyễn Hiền]] cùng 12 vị trạng nguyên khác.
+
+Đầu thế kỷ 19, làng Quất Động thuộc tổng Bình Lăng huyện Thượng Phúc phủ Thường Tín trấn [[Sơn Nam (địa danh cũ Việt Nam)| Sơn Nam Thượng]]<ref>Cuốn Tên làng xã Việt Nam đầu thế kỷ 19, trang 48.</ref>.
+
+== Giáo dục== 
+Xã có truyền thống hiếu học từ xưa đến nay. Nhân dân trong xã luôn giữ gìn những nát đẹp văn hóa, làm rạng vẻ "Đất danh hương", góp phần tạo nên vùng đất mà sử gia Phan Huy Chú cho rằng "có tiếng văn học. Những người học trò giỏi, bề tôi hiền nối tiếp sinh ra".
+Thời phong kiến, xã đã có 2 tiến sĩ: Phạm thế Hỗ và Trần Khái. 
+Năm 1959, trường phổ thông cấp II được thành lập, gọi là trường Phổ thông cấp II Nông nghiệp, đặt tại Chợ đình Quất Động. Trường có 2 lớp 5, 2 lớp 6 và 2 lớp 7. Học sinh là con em trong xã và cả các xã lân cận. Trường Phổ thông cấp II Nông nghiệp được coi là trường Phổ thông cấp II khu vực.
+Năm 1960, trường phổ thông cấp II Quất Động được thành lập.
+
+== Đình Hướng Xá== 
+Đình làng Hướng Xá là di tích lịch sử thờ vị tướng Đào Công Thắng có công giúp [[Đinh Bộ Lĩnh]] đánh dẹp [[12 sứ quân]]. Đào Công Thắng là vị tướng văn võ toàn tài đã giúp nhà vua thống nhất đất nước [[Đại Cồ Việt]], làm đến đại tướng bình [[12 sứ quân]] và được phong làm đại vương lục quốc triệu lễ bộ công, lần thứ 8, thứ 9 của triều đình. Nhân dân nhớ công ơn người, đã lập đình thờ người và tôn là Thành Hoàng đô hộ Hùng kế Đống Binh Đại Vương. Ngày nay, đình Hướng Xá còn lưu giữ được 4 đạo sắc phong của các đời vua Lê Hiển Tông, Tự đức, Đồng Khánh, Duy Tân và một đạo sắc phong đã bị mục nát phần ghi niên hiệu.<ref>[https://thuongtin.hanoi.gov.vn/xa-thi-tran/-/view_content/7035693-lang-huong-xa-quat-dong-noi-de-tim-ve-voi-nhung-gia-tri-cua-thoi-gian.html Làng Hướng Xá (Quất Động) - nơi để tìm về với những giá trị của thời gian]</ref>
+
+Đầu thế kỷ 19 các thôn trên của xã Nguyễn Trãi là các làng xã thuộc các tổng La Phù, Đông Cứu của huyện Thượng Phúc phủ Thường Tín trấn [[Sơn Nam (địa danh cũ Việt Nam)| Sơn Nam Thượng]]<ref>Cuốn Tên làng xã Việt Nam đầu thế kỷ 19, trang 48.</ref>
+
+== Di tích lịch sử== 
+Chùa Đậu thuộc thôn Gia Phúc, trong chùa có 2 hòa thượng được ướp xác lâu năm. Lễ hội chùa Đậu diễn ra vào ngày mùng 8,9,10 tháng giêng âm lịch.
+
+Chùa Vĩnh Mộ: trong chùa có đền thờ Quỳnh Hoa thánh mẫu.
+
+Thôn Vĩnh Mộ có đền thờ và sự tích Nguyễn Bính, Bản Quán Thành Hoàng Hiển Ứng Linh Chương Tôn Thần thời [[12 sứ quân]], là vị [[tướng nhà Đinh]] có công giúp [[Đinh Bộ Lĩnh]] đánh dẹp [[12 sứ quân]].<ref>{{Chú thích web | url = http://www.hannom.org.vn/trichyeu.asp?param = 2339&Catid = 242 | ngày truy cập = 2018-12-06 | tiêu đề = Xã Vĩnh Mộ 永 慕: 16 tr., do Nguyễn Bính soạn năm 1572, về sự tích Nguyễn Bính 阮 平 (Bản Quán Thành Hoàng Hiển Ứng Linh Chương Tôn Thần 本 貫 城 隍 顯 應 靈 彰 尊 神) thời 12 sứ quân. | archive-date = 2018-12-06 | archive-url = https://web.archive.org/web/20181206145308/http://www.hannom.org.vn/trichyeu.asp?param = 2339&Catid = 242 | url-status = dead }}</ref>
+
+Thôn Lộc Dư có cổng làng được xây dựng từ thời xa xưa, giếng nước sân đình và đặc biệt có đền thờ "Cô Bơ bông: người giúp việc cho mẫu thoải cực kỳ linh thiêng.
+
+Thôn Hòe Thị có đền thờ Đức thần hoàng Dương Trực Nguyên người có công xây dựng và mở mang thôn.
+
+== Văn hóa== 
+=== Các di tích lịch sử văn hoá=== 
+*Thôn Ba Lăng: Chùa Phúc, Chùa Buộm, Chùa Quán Sao.
+* Thôn Cao Xá: Chùa Thiện, chùa Thích Ca.
+* Thôn Đông Cứu: Chùa Đông Cứu (Sùng Quang Tự).
+* Thôn Cổ Chất: Chùa Cổ Chất (Hưng Khánh Tự).
+* Các thôn trong xã đều có đình chùa miếu mạo để thờ phật và thành hoàng làng:
+* Cụm di tích Đình - đền - chùa Đông Cứu xếp hạng Di tích lịch sử cấp thành phố năm 1998; Đình Ba Lăng xếp hạng di tích Kiến trúc - Nghệ thuật cấp thành phố năm 2018; Đình Cao Xá xếp hạng Di tích Lịch sử cấp thành phố năm 2018.
+
+=== Làng nghề truyền thống=== 
+Hiện nay xã Dũng Tiến đang có nghề thêu ren hết sức phát triền ở hầu hết tất cả các thôn trong xã, ngoài ra còn có một số nghề mới được du nhập và đang trên đà phát triển.
+[[Làng nghề thêu truyền thống Thôn Cổ Chất| Làng nghề thêu truyền thống Đông cứu]] là làng nghề thêu cổ đã có truyền thống thêu các loại trang phục cổ xưa từ cách đây hơn 3 thế kỷ, là làng nghề được chọn may long bào cho vua các triều đại phong kiến Việt Nam.
+Năm 2001 tỉnh Hà Tây (nay là Hà Nội) công nhận làng nghề truyền thống, ngày 12 tháng 02 năm 2017 Bộ văn hóa thể thao & du lịch Công nhận: "Di sản văn hóa Phi vật thể Quốc gia nghề thêu truyền thống".
+
+=== Truyền thống văn hoá=== 
+Xã Dũng Tiến được tôn vinh là xã có truyền thông hiếu học kết hợp văn hoá, nơi đây đã sản sinh ra nhiều nhân tài giúp ích cho địa phương cho đất nước{{fact| date = ngày 6 tháng 1 năm 2013}}. Tiêu biểu trong đó là dòng họ [[Vũ Bá thôn Ba Lăng]] và họ Nghiêm, đây chính là những dòng họ đã khai sinh ra xã Dũng Tiến{{fact| date = ngày 6 tháng 1 năm 2013}}. Đã đóng góp rất nhiều công lao cho xã Dũng Tiến{{fact| date = ngày 6 tháng 1 năm 2013}}.
+* Tiêu biểu là cụ Nguyễn Chí (Hoàng Giáp) người xã Cao Xá, huyện Thượng Phúc, nay là thôn Cao Xá, xã Dũng Tiến, huyện Thường Tín, TP.Hà Nội, đỗ Đệ nhị giáp Tiến sĩ xuất thân (Hoàng Giáp) khoa Mậu Thìn, niên hiệu Đoan Khánh thứ 4 (1508), đời Lê Uy Mục. Làm đến chức quan Thị Lang. Thôn Cao Xá có 2 dòng họ Nguyễn, vị Hoàng Giáp này thuộc dòng họ Nguyễn đông nhất ở thôn Cao Xá trên (hậu duệ là các ông Nguyễn Đăng Trình, ông Nguyễn Đăng Đệ).
+* Nhà giáo dân dân, Giáo sư, Tiến sĩ Nghiêm Văn Dĩnh người xóm Ngang thôn Ba Lăng từng giữ chức vụ bí thư đảng ủy hiệu phó Trường Đại học Giao thông Vận tải, thành viên hội đồng chức danh Giáo sư nhà nước.
+* Phó giáo sư, Tiến sĩ Vũ Bình Dương người xóm Làng thôn Ba Lăng công tác tại Học viện Quân Y, bộ Quốc phòng được nhà nước phong hàm Phó Giáo sư năm 37 tuổi.
+
+-->
+== Hình ảnh== 
+<gallery>
+Tập tin:Nhà truyền thống Nghiêm Xuyên.png| Nhà lưu niệm Bác Hồ tại thôn Cống Xuyên
+</gallery>
+
+== Chú thích== 
+{{reflist}}
+
+== Tham khảo ==
+{{Sơ khai Hà Nội}}
+{{Đơn vị hành chính thuộc thành phố Hà Nội}}

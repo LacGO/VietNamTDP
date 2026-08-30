@@ -1,0 +1,176 @@
+{
+  "ward_code": "08434",
+  "ward_name": "Tam Nông",
+  "province_code": "25",
+  "resolution": "",
+  "arrangement": "truoc_2026_07",
+  "effective_date": "",
+  "verified": "unverified",
+  "extraction": {
+    "source": "vi.wikipedia.org",
+    "title": "Tam Nông, Phú Thọ",
+    "mode": "narrative"
+  },
+  "sources": [
+    {
+      "key": "wiki-08434-1",
+      "title": "Thông báo số 55/TB-UBND về việc niêm yết danh sách cử tri bầu cử đại biểu Quốc hội khóa XVI và đại biểu Hội đồng nhân dân các cấp, nhiệm kỳ 2026 - 2031",
+      "url": "https://tamnong.phutho.gov.vn/tu-lieu/he-thong-van-ban/thong-bao-cua-ubnd-xa-ve-viec-niem-yet-danh-sach-cu-tri-bau-cu/?gidzl=R7jrEFJyBdPeP74-yUGcT6XWUJlexdDpTsqiEBYwSIDoQYXbxUfoBtK_VsMvlIX_T3XtPJUkjcv_yVqgT0",
+      "date": "2026-01-30",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-08434-2",
+      "title": "Nghị quyết số 828/NQ-UBTVQH14 của ỦY BAN THƯỜNG VỤ QUỐC HỘI: Về việc sắp xếp các đơn vị hành chính cấp xã thuộc tỉnh Phú Thọ",
+      "url": "http://vanban.chinhphu.vn/default.aspx?pageid=27160&docid=198693",
+      "date": "2026-07-03",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-08434-3",
+      "title": "Nghị quyết số 111/2025/UBTVQH15 về phân loại đô thị",
+      "url": "https://xaydungchinhsach.chinhphu.vn/nghi-quyet-so-111-2025-ubtvqh15-ve-phan-loai-do-thi-119260101170432239.htm",
+      "date": "2026-01-21",
+      "type": "wikipedia-ref"
+    }
+  ],
+  "note": "Trích tự động từ Wikipedia tiếng Việt (mode=narrative). Cần đối chiếu nghị quyết HĐND phường/xã. ⚠️ Danh mục có thể là hiện trạng TRƯỚC sắp xếp thôn/TDP 01/7/2026 — Wikipedia chưa cập nhật nghị quyết mới.",
+  "tdp": [
+    {
+      "name": "1 Dân Quyền",
+      "type": "khu"
+    },
+    {
+      "name": "2 Dân Quyền",
+      "type": "khu"
+    },
+    {
+      "name": "3 Dân Quyền",
+      "type": "khu"
+    },
+    {
+      "name": "4 Dân Quyền",
+      "type": "khu"
+    },
+    {
+      "name": "5 Dân Quyền",
+      "type": "khu"
+    },
+    {
+      "name": "6 Dân Quyền",
+      "type": "khu"
+    },
+    {
+      "name": "7 Dân Quyền",
+      "type": "khu"
+    },
+    {
+      "name": "8 Dân Quyền",
+      "type": "khu"
+    },
+    {
+      "name": "9 Dân Quyền",
+      "type": "khu"
+    },
+    {
+      "name": "10 Dân Quyền",
+      "type": "khu"
+    },
+    {
+      "name": "11 Dân Quyền",
+      "type": "khu"
+    },
+    {
+      "name": "12 Dân Quyền",
+      "type": "khu"
+    },
+    {
+      "name": "13 Dân Quyền",
+      "type": "khu"
+    },
+    {
+      "name": "14 Dân Quyền",
+      "type": "khu"
+    },
+    {
+      "name": "15 Dân Quyền",
+      "type": "khu"
+    },
+    {
+      "name": "1 Hưng Hóa",
+      "type": "khu"
+    },
+    {
+      "name": "3 Hưng Hóa",
+      "type": "khu"
+    },
+    {
+      "name": "4 Hưng Hóa",
+      "type": "khu"
+    },
+    {
+      "name": "5 Hưng Hóa",
+      "type": "khu"
+    },
+    {
+      "name": "6 Hưng Hóa",
+      "type": "khu"
+    },
+    {
+      "name": "7 Hưng Hóa",
+      "type": "khu"
+    },
+    {
+      "name": "1 Hương Nộn",
+      "type": "khu"
+    },
+    {
+      "name": "2 Hương Nộn",
+      "type": "khu"
+    },
+    {
+      "name": "3 Hương Nộn",
+      "type": "khu"
+    },
+    {
+      "name": "4 Hương Nộn",
+      "type": "khu"
+    },
+    {
+      "name": "5 Hương Nộn",
+      "type": "khu"
+    },
+    {
+      "name": "6 Hương Nộn",
+      "type": "khu"
+    },
+    {
+      "name": "7 Hương Nộn",
+      "type": "khu"
+    },
+    {
+      "name": "8 Hương Nộn",
+      "type": "khu"
+    },
+    {
+      "name": "9 Hương Nộn",
+      "type": "khu"
+    },
+    {
+      "name": "10 Hương Nộn",
+      "type": "khu"
+    },
+    {
+      "name": "11 Hương Nộn",
+      "type": "khu"
+    },
+    {
+      "name": "12 Hương Nộn",
+      "type": "khu"
+    },
+    {
+      "name": "13 Hương Nộn",
+      "type": "khu"
+    }
+  ]
+}

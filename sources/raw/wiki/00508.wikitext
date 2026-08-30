@@ -1,0 +1,133 @@
+{{Thông tin đơn vị hành chính Việt Nam|Xã
+| tên = Vĩnh Thanh
+| hình =Cầu Nhật Tân, Hà Nội 2022-07-26 005.jpg 
+| ghi chú hình =Cầu Nhật Tân, Vĩnh Thanh 
+| vĩ độ = 21.118528911135392
+| kinh độ = 105.80219811585712
+| diện tích = 22,52 km²
+| dân số = 64.698 người
+| thời điểm dân số = 2025
+| mật độ dân số = {{formatnum:{{#expr:floor({{formatnum:64.698| R}}/{{formatnum:22,52| R}})}} }} người/km²
+| vùng = [[Đồng bằng sông Hồng]]
+| thành phố = [[Hà Nội]]
+| thành lập =16/6/2025 
+| trụ sở UBND = Thôn Đồng Nhân<ref>{{Chú thích web |url=https://storage-vnportal.vnpt.vn/gov-hni/6244/VanBan/2025/6/25/TB-729-2025.pdf |title=Thông báo số 729/TB-UBND ngày 25 tháng 6 năm 2025 của Ủy ban nhân dân thành phố Hà Nội về địa điểm trụ sở làm việc của 126 phường, xã sau sắp xếp thuộc phạm vi quản lý của thành phố Hà Nội|access-date=2026-06-15 |archive-date=2026-06-15 |archive-url=https://web.archive.org/web/20260615034519/https://storage-vnportal.vnpt.vn/gov-hni/6244/VanBan/2025/6/25/TB-729-2025.pdf |url-status=dead | website = Cổng Thông tin điện tử Ủy ban nhân dân thành phố Hà Nội}}</ref>
+| mã hành chính =00508<ref>{{Chú thích web |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/19ttg.signed.pdf |title=Quyết định số 19/2025/QĐ-TTg ngày 30 tháng 6 năm 2025 của Thủ tướng Chính phủ về việc Ban hành Bảng danh mục và mã số các đơn vị hành chính Việt Nam |access-date=2026-06-15 |archive-date=2026-06-15 |archive-url=https://web.archive.org/web/20260615034519/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/19ttg.signed.pdf |url-status=dead | website = Cổng Thông tin điện tử Chính phủ}}</ref> 
+| mã bưu chính = 
+| web = {{url|vinhthanh.hanoi.gov.vn}}
+|bản đồ 1={{maplink|frame=yes|plain=yes|type=shape|frame-width=280|frame-align=center|stroke-width=3}}|trụ sở Đảng ủy=Thôn Đồng Nhân}}
+{{other|Vĩnh Thanh (định hướng)}}
+'''Vĩnh Thanh''' là một [[Xã (Việt Nam)|xã]] thuộc thành phố [[Hà Nội]], [[Việt Nam]].
+
+== Địa lý== 
+Xã Vĩnh Thanh có vị trí địa lý:
+
+* Phía đông giáp xã [[Đông Anh (xã)|Đông Anh]]
+* Phía tây giáp xã [[Thiên Lộc]]
+* Phía nam giáp phường [[Phú Thượng]], phường [[Hồng Hà (phường)|Hồng Hà]] và phường [[Bồ Đề (phường)|Bồ Đề]] với ranh giới tự nhiên là [[sông Hồng]]
+* Phía bắc giáp xã [[Phúc Thịnh]].<ref>{{Chú thích web |last=Viện nghiên cứu Phát triển kinh tế – xã hội Hà Nội |date=2025-07-02 |title=Xã Vĩnh Thanh: Những thông tin chi tiết sau sắp xếp |url=https://hanoionline.vn/xa-vinh-thanh-nhung-thong-tin-chi-tiet-sau-sap-xep-344072.htm |url-status=live |archive-url=https://web.archive.org/web/20260701400809/https://hanoionline.vn/xa-vinh-thanh-nhung-thong-tin-chi-tiet-sau-sap-xep-344072.htm |archive-date=2026-07-01 |access-date=2026-07-01 |website=Cơ quan Báo và Phát thanh Truyền hình Hà Nội}}</ref><ref>{{Chú thích web |last=Cơ quan Báo và Phát thanh Truyền hình Hà Nội |date=2025-07-07 |title=Xã Vĩnh Thanh: Tất cả thông tin chỉ dẫn bạn cần biết |url=https://hanoionline.vn/xa-vinh-thanh-tat-ca-thong-tin-chi-dan-ban-can-biet-345214.htm |url-status=live |archive-url=https://web.archive.org/web/20260711401509/ |archive-date=2026-07-11 |access-date=2026-07-11}}</ref>
+Xã Vĩnh Thanh có diện tích tự nhiên là 22,52 km<sup>2</sup>, quy mô dân số năm 2025 là 64.698 người và mật độ dân số đạt 2.872 người/km<sup>2</sup>.<ref>{{Chú thích web |last=Mai Hữu |date=2026-04-05 |title=Hà Nội: Chi tiết phương án tổng thể sắp xếp đơn vị hành chính cấp xã |url=https://hanoimoi.vn/ha-noi-chi-tiet-phuong-an-tong-the-sap-xep-don-vi-hanh-chinh-cap-xa-700278.html |url-status=live |archive-url=https://web.archive.org/web/20260708401509/https://hanoimoi.vn/ha-noi-chi-tiet-phuong-an-tong-the-sap-xep-don-vi-hanh-chinh-cap-xa-700278.html |archive-date=2026-07-08 |access-date=2026-07-08 |website=Cơ quan Báo và Phát thanh, truyền hình Hà Nội}}</ref><ref>Công văn số 2896/BNV-CQĐP ngày 27 tháng 5 năm 2025 của Bộ Nội vụ về việc cung cấp thông tin danh mục dự kiến đơn vị hành chính cấp xã mới.</ref>
+
+== Lịch sử ==
+
+=== Trước năm 1976 ===
+
+=== Giai đoạn 1976 – nay ===
+Sau ngày 2 tháng 7 năm 1976, 6 xã: Hải Bối, Kim Chung, Kim Nỗ, Tàm Xá, Vĩnh Ngọc và Xuân Canh thuộc huyện [[Đông Anh (huyện)|Đông Anh]] của thành phố [[Hà Nội]].
+
+Ngày 16 tháng 6 năm 2025:
+
+* Kết thúc hoạt động của đơn vị hành chính cấp huyện trong cả nước.<ref>{{Chú thích web |last= |date= |title=Nghị quyết số 203/2025/QH15 ngày 16 tháng 6 năm 2025 của Quốc hội khóa XV, Kỳ họp thứ 9 về việc sửa đổi, bổ sung một số điều của Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/nq-sua-doi-hien-phap.pdf |url-status=live |archive-url=https://web.archive.org/web/20260613090807/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/nq-sua-doi-hien-phap.pdf |archive-date=2026-06-13 |access-date=2026-06-13 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+* Sắp xếp phần còn lại của xã Tàm Xá và xã Xuân Canh, phần còn lại của xã Vĩnh Ngọc và phần còn lại của các xã Kim Chung, Hải Bối, Kim Nỗ (huyện [[Đông Anh (huyện)|Đông Anh]]) thành xã mới có tên gọi là xã Vĩnh Thanh.<ref>{{Chú thích web |title=Nghị quyết số 1656/NQ-UBTVQH15 ngày 16 tháng 6 năm 2025 của Ủy ban Thường vụ Quốc hội về việc sắp xếp các đơn vị hành chính cấp xã của thành phố Hà Nội năm 2025 |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf |url-status=live |archive-url=https://web.archive.org/web/20260630400809/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf |archive-date=2026-06-30 |access-date=2026-06-30 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+* Sau khi sắp xếp, xã Vĩnh Thanh được chia thành 11 thôn.<ref>2 thôn: Đoài và Đông của xã Tàm Xá cũ; 4 thôn: Ngọc Chi, Ngọc Giang, Phương Trạch và Vĩnh Thanh của xã Vĩnh Ngọc cũ; 5 thôn: Cổ Điển, Đồng Nhân, Hải Bối, Khu dân cư Thăng Long và Yên Hà của xã Hải Bối cũ.</ref><ref>{{Chú thích web |title=Thông tư số 10/2022/TT-BTNMT ngày 29 tháng 9 năm 2022 của Bộ Tài nguyên và Môi trường về việc Ban hành Danh mục địa danh dân cư, sơn văn, thủy văn, kinh tế – xã hội phục vụ công tác thành lập bản đồ thành phố Hà Nội |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2022/10/10-btnmt.pdf |url-status=live |archive-url=https://web.archive.org/web/20260630400809/https://datafiles.chinhphu.vn/cpp/files/vbpq/2022/10/10-btnmt.pdf |archive-date=2026-06-30 |access-date=2026-06-30 |website=Cổng Thông tin điện tử Chính phủ}}</ref><ref name=":0">{{Chú thích web |last=Trang Thông tin điện tử xã Vĩnh Thanh – thành phố Hà Nội |date=2026-03-03 |title=Danh sách chính thức những người ứng cử đại biểu Hội đồng nhân dân xã Vĩnh Thanh khóa II, nhiệm kỳ 2026 – 2031 |url=https://vinhthanh.hanoi.gov.vn/tin-tuc-su-kien/danh-sach-chinh-thucnhung-nguoi-ung-cu-dai-bieu-hoi-dong-nhan-dan-xa-vinh-thanh-khoa-ii-nhiem-ky-2026-2031-2781260302102927279.htm?gidzl=a5l7UWDLPaAKHCDy2KXYH9z0ndyK7Mj4q1QUAHOHCq62IvDu7araHTeKbNmS63b2tnwRUMMbFvG91bHYG0 |url-status=live |archive-url=https://web.archive.org/web/20260701400809/https://vinhthanh.hanoi.gov.vn/tin-tuc-su-kien/danh-sach-chinh-thucnhung-nguoi-ung-cu-dai-bieu-hoi-dong-nhan-dan-xa-vinh-thanh-khoa-ii-nhiem-ky-2026-2031-2781260302102927279.htm?gidzl=a5l7UWDLPaAKHCDy2KXYH9z0ndyK7Mj4q1QUAHOHCq62IvDu7araHTeKbNmS63b2tnwRUMMbFvG91bHYG0 |archive-date=2026-07-01 |access-date=2026-07-01 |website=}}</ref>
+
+== Hành chính==
+Xã Vĩnh Thanh được chia thành 11 thôn: Cổ Điển, Đoài, Đông, Đồng Nhân, Hải Bối, Khu dân cư Thăng Long, Ngọc Chi, Ngọc Giang, Phương Trạch, Vĩnh Thanh và Yên Hà.<ref name=":0" />
+{| class="wikitable sortable" align="center" width="100%" cellspacing="6" cellpadding="0" style="background: #f9f9f9; border: 1px #aaa solid; margin-top: 16px"
+! colspan="4" style="background: #E6E6FA; font-size: 95%;" |Danh sách các thôn thuộc xã Vĩnh Thanh<ref name=":0" />
+|-
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+|-
+| align="left" |Cổ Điển
+|-
+| align="left" |Đoài
+|-
+| align="left" |Đông
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+|-
+| align="left" |Đồng Nhân
+|-
+| align="left" |Hải Bối
+|-
+| align="left" |Khu dân cư Thăng Long
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+|-
+| align="left" |Ngọc Chi
+|-
+| align="left" |Ngọc Giang
+|-
+| align="left" |Phương Trạch
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+|-
+| align="left" |Vĩnh Thanh
+|-
+| align="left" |Yên Hà
+|}
+|}
+
+== Trụ sở các cơ quan ==
+Trụ sở xã đặt tại thôn Đồng Nhân, xã Hải Bối cũ.
+
+<!-- 
+== Lịch sử== 
+Đầu thế kỷ XIX, khu vực xã Vĩnh Ngọc hiện nay thuộc tổng Cổ Loa, huyện Đông Ngàn, phủ Từ Sơn, trấn Kinh Bắc. Lúc bấy giờ xã Vĩnh Ngọc được chia thành 3 xã: Chiêm Trạch, Ngọc Giang và Phương Trạch.
+
+Ngày [[27 tháng 3]] năm [[1946]], hợp nhất 3 xã Chiêm Trạch, Ngọc Giang và Phương Trạch thành xã Tân Trạch.
+
+Ngày [[19 tháng 5]] năm [[1949]], hợp nhất 3 xã Tân Trạch, Ngũ Lão và Vân Long thành xã Toàn Thắng.
+
+[[Tháng 3]] năm [[1955]], chia xã Toàn Thắng thành 3 xã: Tân Trạch, Ngũ Lão, Vân Long.
+
+[[Tháng 2]] năm [[1956]], đổi tên xã Tân Trạch thành xã Tân Tiến.
+
+Ngày [[20 tháng 4]] năm [[1961]], Quốc hội ban hành Nghị quyết<ref>{{Chú thích web| url = https://m.thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Nghi-Quyet-mo-rong-thanh-pho-Ha-Noi-42689.aspx| tựa đề = Nghị quyết về việc mở rộng thành phố Hà Nội | tác giả = | ngày = | website = Thư viện Pháp luật | url lưu trữ = | ngày lưu trữ = | ngày truy cập = }}</ref> về việc sáp nhập xã Tân Tiến vào thành phố Hà Nội.
+
+Ngày [[31 tháng 5]] năm [[1961]], Hội đồng Chính phủ ban hành 78-CP<ref>{{Chú thích web| url = https://m.thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-78-CP-chia-khu-vuc-noi-ngoai-thanh-thanh-pho-Ha-Noi-20286.aspx| tựa đề = Quyết định số 78-CP năm 1961 chia các khu vực nội thành và ngoại thành của Thành phố Hà Nội | tác giả = | ngày = | website = Thư viện Pháp luật | url lưu trữ = | ngày lưu trữ = | ngày truy cập = }}</ref>. Theo đó, xã Tân Tiến thuộc huyện Đông Anh, thành phố Hà Nội quản lý.
+
+Năm [[1965]], đổi tên xã Tân Tiến thành xã Vĩnh Ngọc.<ref name = ĐA>{{chú thích sách| author = UBND huyện Đông Anh | url = https://donganh.hanoi.gov.vn/documents/6071114/6720657/D%E1%BB%B1+th%E1%BA%A3o+%C4%91%E1%BB%81+%C3%A1n+qu%E1%BA%ADn+%C4%90%C3%B4ng+Anh.pdf| title = Dự thảo Đề án thành lập quận Đông Anh và các phường thuộc quận Đông Anh, thành phố Hà Nội | year = 2023 | location = Đông Anh, Hà Nội | p = 149-150 | url-status = live| archive-url = https://web.archive.org/web/20230712081151/https://donganh.hanoi.gov.vn/documents/6071114/6720657/D%E1%BB%B1+th%E1%BA%A3o+%C4%91%E1%BB%81+%C3%A1n+qu%E1%BA%ADn+%C4%90%C3%B4ng+Anh.pdf| archive-date = 2023-07-12}}</ref>
+
+== Kinh tế - xã hội== 
+Giáo dục: Trên địa bàn xã Vĩnh Ngọc có nhiều ngôi trường dành cho chủ yếu con em trong xã và các xã lân cận trong huyện Đông Anh. Trong đó có ba ngôi trường Công lập là Trường Mầm non Vĩnh Ngọc, trường Mầm non Họa Mi, Trường Tiểu học Vĩnh Ngọc và Trường trung học cơ sở Vĩnh Ngọc. Hai ngôi trường [[Giáo dục tiểu học| Tiểu học]] và [[Trung học cơ sở (Việt Nam)| Trung học cơ sở]] của xã đã được Ủy ban nhân dân thành phố [[Hà Nội]] công nhận là trường đạt chuẩn quốc gia. Bên cạnh đó còn có nhiều trung tâm giáo dục, các ngôi trường cấp III đóng trên địa bàn xã.
+
+Y tế: Hiện nay trên đại bàn xã có các trung tâm Y tế đạt tiêu chuẩn quốc gia, các phòng khám hiện đại đáp ứng được tốt nhu cầu của nhân dân.
+
+== Văn hóa== 
+Trong những năm 1941 - 1945, thôn Ngọc Giang, xã Vĩnh Ngọc, huyện Đông Anh trở thành an toàn khu quan trọng của Ban Thường vụ T.Ư Đảng về làm việc, hội họp và chỉ đạo kháng chiến. Ngọc Giang không chỉ là cơ sở an toàn khu đầu tiên của huyện Đông Anh mà còn là nơi T.Ư Đảng tổ chức hội họp. Đầu năm 1945, tại chùa Ngọc Giang đã diễn ra cuộc họp lịch sử của T.Ư do đồng chí Trường Chinh chủ trì, quyết định chủ trương chuẩn bị khởi nghĩa giành chính quyền trong phạm vi cả nước. Ngày 21/8/1945, đoàn biểu tình của thôn Ngọc Giang, xã Vĩnh Ngọc đã lên thẳng huyện lỵ Đông Anh phối hợp cùng lực lượng các địa phương khác giành chính quyền, giải phóng huyện Đông Anh. Cũng nhờ an toàn khu này, trong 4 năm trường kỳ gian khổ, T.Ư Đảng đã được bảo vệ an toàn, lãnh đạo cách mạng từng bước đi lên, tạo nên thắng lợi lịch sử tháng 8/1945.
+*Đình làng thôn Ngọc Chi: là nơi thờ tướng [[Nồi Hầu]] và vợ của ông, cùng với 2 con trai là Đống Vĩnh, Lý Vực. [[Nồi Hầu]] là một vị tướng giỏi dưới thời vua [[An Dương Vương]] 2 con trai của ông cũng là tướng võ trong triều.Đình làng Ngọc Chi có bề dày lịch sử lâu đời và hiện nay là một di tích lịch Sở văn hóa đã được xếp hạng năm 1993. Ngoài ra còn thờ những dòng họ đã lập ra thôn Ngọc Chi như dòng họ: Phạm, Nguyễn, Hoàng, Bùi, Dương, Trần, Lê, Trịnh.
+*[[Chùa Khánh Long (Quốc Sư Tự)]] thôn Vĩnh Thanh: chùa xây dựng vào thời kỳ nhà Lê niên hiệu Chính Hòa năm 1698, người khai sáng ra ngôi chùa này là Quốc Sư Hòa thượng – Nguyễn Đức Trung tự là Đạo Chất Thiền Sư ở chùa Báo Thiên – Hà Nội. Trên Bia ghi "Quốc Sư Tự Bi" "Quốc Sư Hòa Thượng trụ trì Trung Đô Báo Thiên Tự" Có nghĩa là Bia ghi lịch sử chùa Quốc Sư của Quốc Sư Hòa thượng trụ trì chùa Báo Thiên ở Phủ Trung Đô. Chính vì vậy chùa Khánh Long (chùa Quốc Sư Tự) có liên quan mật thiết với chùa và Tháp Báo Thiên ở Hà Nội là một ngôi chùa cổ kính có giá trị về lịch sử, một di sản rất lớn của Thủ Đô. Trải qua thăng trầm lịch sử nhất là 2 cuộc chiến tranh chống Pháp và chống Mỹ chùa bị phá hoàn toàn đến khi hòa bình chùa được nhân dân Phật tử xây dựng lại nho nhỏ để thờ Phật. Năm 1968 chùa được Thủ tướng [[Phạm Văn Đồng]] tặng bằng khen là một nơi hoạt động cách mạng chủ chốt, không những thế chùa còn được nhận nhiều bằng khen trong phòng chống thiên tai, bão, lũ lụt,.... và công tác Phật sự.
+
+== Giao thông== 
+Xã có tuyến [[tuyến đường cao tốc Hà Nội – Nội Bài| cao tốc Nhật Tân – Nội Bài]], có quốc lộ 3 chạy qua,<ref name = "Vinh Ngoc"/> đê tả Hồng. Nút giao ngã tư cầu vượt Vĩnh Ngọc (trên đường 5 kéo dài) cắt đường Nhật Tân - Nội Bài (đường Võ Nguyên Giáp) tại Km0 + 419 là một trong những nút giao thông lớn ở huyện Đông Anh cũng như ở cửa ngõ phía bắc thành phố Hà Nội.
+
+Cầu Nhật Tân bắc qua Sông Hồng: Mặt cầu rộng 33,2m chia thành 4 làn xe cơ giới, 2 làn xe buýt, 2 dải xe hỗn hợp, phân cách giữa, đường dành cho người đi bộ. Cầu dài 3,9&nbsp;km và có đường dẫn 4,5&nbsp;km, trong đó phần chính của cầu qua sông dài 1,5&nbsp;km. Tổng mức đầu tư dự định cho cầu từ 7.500 tỷ đến 8.100 tỷ đồng tùy theo số lượng cột phải thi công.
+
+Ngày 7 tháng 3 năm 2009, gói thầu số 3 xây dựng đường dẫn phía Bắc cầu Nhật Tân đã được khởi công trên địa bàn xã Vĩnh Ngọc, Đông Anh.
+
+Đường 5 kéo dài: Tuyến đường từ ngã tư cầu Chui tới khu đô thị Bắc Thăng Long - Vân Trì. Tuyến đường dài 13,5&nbsp;km với 3 cây cầu được đầu tư với tổng vốn gần 4.200 tỷ đồng của thành phố.
+-->
+== Chú thích== 
+{{tham khảo}}
+
+== Tham khảo==
+{{Sơ khai Hà Nội}}{{Đơn vị hành chính thuộc thành phố Hà Nội}}

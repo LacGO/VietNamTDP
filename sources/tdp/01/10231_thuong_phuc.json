@@ -1,0 +1,88 @@
+{
+  "ward_code": "10231",
+  "ward_name": "Thượng Phúc",
+  "province_code": "01",
+  "resolution": "",
+  "arrangement": "2026_07",
+  "effective_date": "2026-07-01",
+  "verified": "unverified",
+  "extraction": {
+    "source": "vi.wikipedia.org",
+    "title": "(cache)",
+    "mode": "table"
+  },
+  "sources": [
+    {
+      "key": "wiki-10231-1",
+      "title": "Kỳ họp thứ Hai Hội đồng nhân dân xã khóa II thông qua nhiều Nghị quyết quan trọng",
+      "url": "https://thuongphuc.hanoi.gov.vn/tin-tuc-su-kien/ky-hop-thu-hai-hdnd-xa-khoa-ii-thong-qua-nhieu-nghi-quyet-quan-trong-2841260628002916646.htm?gidzl=UYHiAXwZ41P-EsWi5ByO6NymPoK3u1aVQMGpT0-nIHXiPJTmMEH8IsjgOt4DxabEFMymSs9IjaaD6w8K50",
+      "date": "2026-06-28",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-10231-2",
+      "title": "Ủy ban bầu cử xã Thượng Phúc công bố danh sách chính thức những người ứng cử đại biểu Hội đồng nhân dân xã khoá II, nhiệm kỳ 2026 – 2031 theo từng đơn vị bầu cử trên địa bàn xã",
+      "url": "https://thuongphuc.hanoi.gov.vn/tin-tuc-su-kien/uy-ban-bau-cu-xa-thuong-phuc-cong-bo-danh-sach-chinh-thuc-nhung-nguoi-ung-cu-dai-bieu-hdnd-xa-khoa-ii-nhiem-ky-2026-2031-theo-tung-don-vi-bau-cu-tren-dia-ban-xa-2841260225190818303.htm",
+      "date": "2026-03-03",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-10231-3",
+      "title": "Nghị quyết số 1656/NQ-UBTVQH15 ngày 16 tháng 6 năm 2025 của Ủy ban Thường vụ Quốc hội về việc sắp xếp các đơn vị hành chính cấp xã của thành phố Hà Nội năm 2025",
+      "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf",
+      "date": "2026-05-13",
+      "type": "wikipedia-ref"
+    }
+  ],
+  "note": "Trích tự động từ Wikipedia tiếng Việt (mode=table). Cần đối chiếu nghị quyết HĐND phường/xã.",
+  "tdp": [
+    {
+      "name": "Ba Lăng",
+      "type": "thôn"
+    },
+    {
+      "name": "Cống Xuyên",
+      "type": "thôn"
+    },
+    {
+      "name": "Đông Cứu",
+      "type": "thôn"
+    },
+    {
+      "name": "Hồng Thái",
+      "type": "thôn"
+    },
+    {
+      "name": "La Phù",
+      "type": "thôn"
+    },
+    {
+      "name": "Lâm Tỉnh",
+      "type": "thôn"
+    },
+    {
+      "name": "Mễ Sơn",
+      "type": "thôn"
+    },
+    {
+      "name": "Nghiêm Xá",
+      "type": "thôn"
+    },
+    {
+      "name": "Phúc Đậu",
+      "type": "thôn"
+    },
+    {
+      "name": "Phúc Lộc",
+      "type": "thôn"
+    },
+    {
+      "name": "Tam Xá",
+      "type": "thôn"
+    },
+    {
+      "name": "Triều Phú",
+      "type": "thôn"
+    }
+  ]
+}

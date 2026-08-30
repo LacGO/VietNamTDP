@@ -1,0 +1,50 @@
+{{Thông tin đơn vị hành chính Việt Nam | xã
+| tên = Liên Châu
+| hình = 
+| ghi chú hình = 
+| vĩ độ = 21.182757531999446
+| kinh độ = 105.55009747738242
+| diện tích = 26,00 km²<ref name=MS/>
+| dân số = 35.029 người<ref name=MS/>
+| thời điểm dân số = 2025
+| mật độ dân số = {{formatnum:{{#expr:floor({{formatnum:35.029| R}}/{{formatnum:26,00| R}})}} }} người/km²
+| vùng =[[Đông Bắc Bộ]] 
+| tỉnh = [[Phú Thọ]]
+| thành lập =16 tháng 6 năm 2025<ref>Nghị quyết số 1676/NQ-UBTVQH15</ref> 
+| trụ sở UBND =Thôn Nhật Chiêu 4 
+| mã hành chính = 09064
+| mã bưu chính =15715 
+|web={{url|lienchau.phutho.gov.vn}}
+}}
+{{other|Liên Châu (định hướng)}}
+'''Liên Châu''' là một [[Xã (Việt Nam)|xã]] thuộc tỉnh [[Phú Thọ]], [[Việt Nam]].
+
+== Địa lý ==
+Xã Liên Châu nằm ở phía Đông tỉnh [[Phú Thọ]], có vị trí địa lý<ref>{{Chú thích web |title=Đơn vị hành chính Việt Nam |url=https://sapnhap.bando.com.vn/ |access-date=2026-06-13 |website=sapnhap.bando.com.vn}}</ref>:
+
+* Phía Bắc giáp xã [[Tam Hồng]].
+* Phía Nam giáp xã [[Phúc Lộc, Hà Nội|Phúc Lộc]], thành phố [[Hà Nội]].
+* Phía Tây giáp xã [[Vĩnh Phú (xã)|Vĩnh Phú]].
+* Phía Đông giáp xã [[Nguyệt Đức]].
+
+Xã có diện tích 26.00&nbsp;km², dân số năm 2025 là 35.029 người, mật độ đạt 1.347 người/km².<ref>{{Chú thích web |title=Xã Liên Châu, Tỉnh Phú Thọ mới sáp nhập 2026 |url=https://tinhthanhvn.com/province/phu-tho/xa-lien-chau |access-date=2026-06-13 |website=Tỉnh Thành Việt Nam |language=vi}}</ref>
+
+==Hành chính==
+Xã Liên Châu được chia thành 38 thôn: 1, 2, 3, 4, 5, 6, 7, 8, 9, Cẩm Nha, Cẩm Trạch, Cẩm Viên, Đại Tự 1, Đại Tự 2, Đại Tự 3, Đại Tự 4, Đại Tự 56, Nhật Chiêu 1, Nhật Chiêu 2, Nhật Chiêu 3, Nhật Chiêu 4, Nhật Tiến 1, Nhật Tiến 2, Nhật Tiến 3, Phú Phong, Phương Nha 1, Phương Nha 2, Tam Kỳ 1, Tam Kỳ 2, Tam Kỳ 3, Tam Kỳ 4, Tam Kỳ 56, Thụ Ích 1, Thụ Ích 2, Thụ Ích 3, Thụ Ích 4, Trung An, Trung Nha.<ref>{{Chú thích web |last=Ủy ban bầu cử xã Liên Châu |date=2026-02-23 |title=Nghị quyết số 2/NQ-UBBC về việc công bố danh sách chính thức những người ứng cử đại biểu Hội đồng nhân dân xã Liên Châu, nhiệm kỳ 2026 - 2031 |url=https://lienchau.phutho.gov.vn/index.php/2013-12-13-01-52-02/1-van-ban-cua-xa/26-nghi-quyet-so-02-nq-ubbc?start=20 |url-status=live |archive-url=https://web.archive.org/web/20260422090807/https://lienchau.phutho.gov.vn/index.php/2013-12-13-01-52-02/1-van-ban-cua-xa/26-nghi-quyet-so-02-nq-ubbc?start=20 |archive-date=2026-04-22 |access-date=2026-04-22 |website=Trang Thông tin điện tử xã Liên Châu - tỉnh Phú Thọ}}</ref>
+
+==Lịch sử==
+Trước kia, Liên Châu là một xã thuộc huyện [[Yên Lạc (huyện)|Yên Lạc]], tỉnh [[Vĩnh Phúc (tỉnh)|Vĩnh Phúc]] cũ.
+
+Ngày [[12 tháng 6]] năm [[2025]], [[Quốc hội Việt Nam|Quốc hội]] ban hành Nghị quyết số 202/2025/QH15 về việc sắp xếp đơn vị hành chính cấp tỉnh (nghị quyết có hiệu lực từ ngày [[12 tháng 6]] năm [[2025]]).<ref>{{Chú thích web |last=xaydungchinhsach.chinhphu.vn |date=2025-07-16 |title=TOÀN VĂN: Nghị quyết số 202/2025/QH15 về sắp xếp đơn vị hành chính cấp tỉnh |url=https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-202-2025-qh15-ve-sap-xep-don-vi-hanh-chinh-cap-tinh-119250612174148722.htm |url-status=live |archive-url=http://web.archive.org/web/20260705025431/https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-202-2025-qh15-ve-sap-xep-don-vi-hanh-chinh-cap-tinh-119250612174148722.htm |archive-date=2026-07-05 |access-date=2026-07-25 |website=Báo Điện tử Chính phủ |language=vi}}</ref> Theo đó, sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của tỉnh [[Vĩnh Phúc (tỉnh)|Vĩnh Phúc]], tỉnh [[Hòa Bình (tỉnh)|Hòa Bình]] và tỉnh [[Phú Thọ]] thành tỉnh mới có tên gọi là tỉnh '''Phú Thọ'''.
+
+Ngày [[16 tháng 6]] năm [[2025]]:
+
+* Quốc hội ban hành Nghị quyết số 203/2025/QH15 về việc sửa đổi, bổ sung một số điều của Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam (nghị quyết có hiệu lực từ ngày [[16 tháng 6]] năm [[2025]]).<ref>{{Chú thích web |last=xaydungchinhsach.chinhphu.vn |date=2025-06-28 |title=NGHỊ QUYẾT 203/2025/QH15 SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA HIẾN PHÁP NƯỚC CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM |url=https://xaydungchinhsach.chinhphu.vn/nghi-quyet-203-2025-qh15-sua-doi-bo-sung-mot-so-dieu-cua-hien-phap-nuoc-cong-hoa-xa-hoi-chu-nghia-viet-nam-119250616181735552.htm |url-status=live |archive-url=http://web.archive.org/web/20260715200606/https://xaydungchinhsach.chinhphu.vn/nghi-quyet-203-2025-qh15-sua-doi-bo-sung-mot-so-dieu-cua-hien-phap-nuoc-cong-hoa-xa-hoi-chu-nghia-viet-nam-119250616181735552.htm |archive-date=2026-07-15 |access-date=2026-07-15 |website=Báo Điện tử Chính phủ |language=vi}}</ref> Theo đó, kết thúc hoạt động của đơn vị hành chính cấp huyện trong cả nước từ ngày 1 tháng 7 năm 2025.
+* [[Ủy ban Thường vụ Quốc hội]] ban hành Nghị quyết số 1676/NQ-UBTVQH15 về việc sắp xếp đơn vị hành chính cấp xã của tỉnh [[Phú Thọ]] năm 2025 (nghị quyết có hiệu lực từ ngày [[16 tháng 6]] năm [[2025]]).<ref>{{Chú thích web |last=xaydungchinhsach.chinhphu.vn |date=2025-06-20 |title=Nghị quyết số 1676/NQ-UBTVQH15 sắp xếp các ĐVHC cấp xã của tỉnh Phú Thọ năm 2025 |url=https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-1676-nq-ubtvqh15-sap-xep-cac-dvhc-cap-xa-cua-tinh-phu-tho-nam-2025-119250616204317326.htm |url-status=live |archive-url=http://web.archive.org/web/20260725082021/https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-1676-nq-ubtvqh15-sap-xep-cac-dvhc-cap-xa-cua-tinh-phu-tho-nam-2025-119250616204317326.htm |archive-date=2026-07-25 |access-date=2026-07-27 |website=Báo Điện tử Chính phủ |language=vi}}</ref> Theo đó, sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của các xã Đại Từ, Hồng Châu và Liên Châu thành xã mới có tên gọi là '''xã Liên Châu'''.
+
+==Chú thích==
+{{tham khảo}}
+
+== Tham khảo ==
+{{Sơ khai Phú Thọ}}
+{{Đơn vị hành chính thuộc tỉnh Phú Thọ}}

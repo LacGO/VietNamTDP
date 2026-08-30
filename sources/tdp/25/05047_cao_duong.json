@@ -1,0 +1,232 @@
+{
+  "ward_code": "05047",
+  "ward_name": "Cao Dương",
+  "province_code": "25",
+  "resolution": "",
+  "arrangement": "truoc_2026_07",
+  "effective_date": "",
+  "verified": "unverified",
+  "extraction": {
+    "source": "vi.wikipedia.org",
+    "title": "Cao Dương",
+    "mode": "narrative"
+  },
+  "sources": [
+    {
+      "key": "wiki-05047-1",
+      "title": "Danh sách Thôn vùng đồng bào dân tộc thiểu số và miền núi, thôn đặc biệt khó khăn giai đoạn 2026 - 2030 trên địa bàn tỉnh Phú Thọ",
+      "url": "http://files.ubdt.gov.vn/files/ecm/source_files/2026/02/05/11252411_4.%20Ph%C3%BA%20Th%E1%BB%8D%201%20(th%C3%B4n).signed_26-02-05.pdf",
+      "date": "2026-01-29",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-05047-2",
+      "title": "Danh sách chính thức những người trúng cử Đại biểu Hội đồng nhân dân xã Cao Dương khóa III, nhiệm kỳ 2026 - 2031",
+      "url": "https://web.facebook.com/story.php?story_fbid=122168312936934963&id=61578048904238&rdid=cYKScjji9KPZVSi6#",
+      "date": "2026-03-24",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-05047-3",
+      "title": "",
+      "url": "https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/Nghi-quyet-31-NQ-CP-dieu-chinh-dia-gioi-hanh-chinh-huyen-va-thanh-pho-Hoa-Binh-tinh-Hoa-Binh-91385.aspx",
+      "date": "",
+      "type": "wikipedia-ref"
+    }
+  ],
+  "note": "Trích tự động từ Wikipedia tiếng Việt (mode=narrative). Cần đối chiếu nghị quyết HĐND phường/xã. ⚠️ Danh mục có thể là hiện trạng TRƯỚC sắp xếp thôn/TDP 01/7/2026 — Wikipedia chưa cập nhật nghị quyết mới.",
+  "tdp": [
+    {
+      "name": "An Thịnh",
+      "type": "thôn"
+    },
+    {
+      "name": "Bá Lam",
+      "type": "thôn"
+    },
+    {
+      "name": "Băng Hợp",
+      "type": "thôn"
+    },
+    {
+      "name": "Bổng Dao",
+      "type": "thôn"
+    },
+    {
+      "name": "Cao Đường",
+      "type": "thôn"
+    },
+    {
+      "name": "Cáp",
+      "type": "thôn"
+    },
+    {
+      "name": "Châu Dể",
+      "type": "thôn"
+    },
+    {
+      "name": "Chợ Bến",
+      "type": "thôn"
+    },
+    {
+      "name": "Dẻ Cao",
+      "type": "thôn"
+    },
+    {
+      "name": "Đa Sỹ",
+      "type": "thôn"
+    },
+    {
+      "name": "Đồng Bon",
+      "type": "thôn"
+    },
+    {
+      "name": "Đồng Chồm",
+      "type": "thôn"
+    },
+    {
+      "name": "Đồng Đăng",
+      "type": "thôn"
+    },
+    {
+      "name": "Đồng Kẹ",
+      "type": "thôn"
+    },
+    {
+      "name": "Đồng Om",
+      "type": "thôn"
+    },
+    {
+      "name": "Đồng Phú",
+      "type": "thôn"
+    },
+    {
+      "name": "Gạo",
+      "type": "thôn"
+    },
+    {
+      "name": "Gò Mu",
+      "type": "thôn"
+    },
+    {
+      "name": "Hợp Thung",
+      "type": "thôn"
+    },
+    {
+      "name": "Lai Trì",
+      "type": "thôn"
+    },
+    {
+      "name": "Nghĩa Kếp",
+      "type": "thôn"
+    },
+    {
+      "name": "Om Làng",
+      "type": "thôn"
+    },
+    {
+      "name": "Quang Trung",
+      "type": "thôn"
+    },
+    {
+      "name": "Quèn Thị",
+      "type": "thôn"
+    },
+    {
+      "name": "Quyền Chương",
+      "type": "thôn"
+    },
+    {
+      "name": "Sấu Hạ",
+      "type": "thôn"
+    },
+    {
+      "name": "Sấu Thượng",
+      "type": "thôn"
+    },
+    {
+      "name": "Song Hùynh",
+      "type": "thôn"
+    },
+    {
+      "name": "Thanh Hà",
+      "type": "thôn"
+    },
+    {
+      "name": "Thạch Quyền",
+      "type": "thôn"
+    },
+    {
+      "name": "Thăng",
+      "type": "thôn"
+    },
+    {
+      "name": "Trung Báo",
+      "type": "thôn"
+    },
+    {
+      "name": "Văn Thái",
+      "type": "thôn"
+    },
+    {
+      "name": "Vệ An",
+      "type": "thôn"
+    },
+    {
+      "name": "Xuân Dương",
+      "type": "thôn"
+    },
+    {
+      "name": "Xuân Thanh",
+      "type": "thôn"
+    },
+    {
+      "name": "Yên Lịch",
+      "type": "thôn"
+    },
+    {
+      "name": "11 xóm: Bặc Rặc",
+      "type": "thôn"
+    },
+    {
+      "name": "Chợ Nội",
+      "type": "thôn"
+    },
+    {
+      "name": "Đồng An",
+      "type": "thôn"
+    },
+    {
+      "name": "Đồng Thành",
+      "type": "thôn"
+    },
+    {
+      "name": "Mỹ Tân",
+      "type": "thôn"
+    },
+    {
+      "name": "Ông Cây",
+      "type": "thôn"
+    },
+    {
+      "name": "Phương Viên",
+      "type": "thôn"
+    },
+    {
+      "name": "Phượng Sồ",
+      "type": "thôn"
+    },
+    {
+      "name": "Suối Sỏi",
+      "type": "thôn"
+    },
+    {
+      "name": "Tân Thành",
+      "type": "thôn"
+    },
+    {
+      "name": "Tiên Hội",
+      "type": "thôn"
+    }
+  ]
+}

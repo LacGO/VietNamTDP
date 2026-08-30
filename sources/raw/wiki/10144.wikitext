@@ -1,0 +1,122 @@
+{{Thông tin đơn vị hành chính Việt Nam|Xã|tên=Tam Hưng|hình=Hau cung Boi Khe1.jpg|ghi chú hình=Di tích hậu cung chùa Bối Khê|vùng=[[Đồng bằng sông Hồng]]|thành phố=[[Hà Nội]]|trụ sở Đảng ủy=Thôn Bạch Đa|trụ sở UBND=Số 65 thôn Vĩnh Dụ<ref>{{Chú thích web |url=https://storage-vnportal.vnpt.vn/gov-hni/6244/VanBan/2025/6/25/TB-729-2025.pdf |title=Thông báo số 729/TB-UBND ngày 25 tháng 6 năm 2025 của Ủy ban nhân dân thành phố Hà Nội về địa điểm trụ sở làm việc của 126 phường, xã sau sắp xếp thuộc phạm vi quản lý của thành phố Hà Nội|access-date=2026-06-15 |archive-date=2026-06-15 |archive-url=https://web.archive.org/web/20260615034519/https://storage-vnportal.vnpt.vn/gov-hni/6244/VanBan/2025/6/25/TB-729-2025.pdf |url-status=dead | website = Cổng Thông tin điện tử Ủy ban nhân dân thành phố Hà Nội}}</ref>|vĩ độ=20.871073271882|kinh độ=105.80595819986554|bản đồ 1={{maplink|frame=yes|plain=yes|type=shape|frame-width=280|frame-align=center|stroke-width=3}}|diện tích=29,45 km²|thời điểm dân số=2025|dân số=39.087 người|mật độ dân số={{formatnum:{{#expr:floor({{formatnum:39.087| R}}/{{formatnum:29,45| R}})}} }} người/km²|mã hành chính=10144<ref>{{Chú thích web |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/19ttg.signed.pdf |title=Quyết định số 19/2025/QĐ-TTg ngày 30 tháng 6 năm 2025 của Thủ tướng Chính phủ về việc Ban hành Bảng danh mục và mã số các đơn vị hành chính Việt Nam |access-date=2026-06-15 |archive-date=2026-06-15 |archive-url=https://web.archive.org/web/20260615034519/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/19ttg.signed.pdf |url-status=dead | website = Cổng Thông tin điện tử Chính phủ}}</ref>|web={{url|tamhung.hanoi.gov.vn}}}}
+
+'''Tam Hưng''' là một [[Xã (Việt Nam)|xã]] thuộc thành phố [[Hà Nội]], [[Việt Nam]].
+
+== Địa lý ==
+Xã Tam Hưng có vị trí địa lý:
+* Phía đông giáp xã [[Ngọc Hồi (xã)|Ngọc Hồi]], xã [[Thường Tín (xã)|Thường Tín]] và xã [[Thượng Phúc]]
+* Phía tây giáp xã [[Bình Minh, Hà Nội|Bình Minh]] và xã [[Thanh Oai (xã)|Thanh Oai]] 
+* Phía nam giáp xã [[Dân Hòa]] 
+* Phía bắc giáp xã [[Đại Thanh (xã)|Đại Thanh]].<ref>{{Chú thích web |last=Viện nghiên cứu Phát triển kinh tế – xã hội Hà Nội |date=2025-07-02 |title=Xã Tam Hưng: Những thông tin chi tiết sau sắp xếp |url=https://hanoionline.vn/xa-tam-hung-nhung-thong-tin-chi-tiet-sau-sap-xep-343973.htm |url-status=dead |archive-url=https://web.archive.org/web/20260807400809/https://hanoionline.vn/xa-tam-hung-nhung-thong-tin-chi-tiet-sau-sap-xep-343973.htm |archive-date=2026-08-07 |access-date=2026-08-07 |website=Cơ quan Báo và Phát thanh Truyền hình Hà Nội}}</ref><ref>{{Chú thích web |last=Cơ quan Báo và Phát thanh Truyền hình Hà Nội |date=2025-07-08 |title=Xã Tam Hưng: Tất cả thông tin chỉ dẫn bạn cần biết |url=https://hanoionline.vn/xa-tam-hung-tat-ca-thong-tin-chi-dan-ban-can-biet-345684.htm |url-status=dead |archive-url=https://web.archive.org/web/20250710023023/https://hanoionline.vn/xa-tam-hung-tat-ca-thong-tin-chi-dan-ban-can-biet-345684.htm |archive-date=2025-07-10 |access-date=2026-08-07 }}</ref>
+Xã Tam Hưng có diện tích tự nhiên là 29,45 km<sup>2</sup>, quy mô dân số năm 2025 là 39.087 người và mật độ dân số đạt 1.327 người/km<sup>2</sup>.<ref>{{Chú thích web |last=Mai Hữu |date=2026-04-05 |title=Hà Nội: Chi tiết phương án tổng thể sắp xếp đơn vị hành chính cấp xã |url=https://hanoimoi.vn/ha-noi-chi-tiet-phuong-an-tong-the-sap-xep-don-vi-hanh-chinh-cap-xa-700278.html |url-status=live |archive-url=https://web.archive.org/web/20260711401509/https://hanoimoi.vn/ha-noi-chi-tiet-phuong-an-tong-the-sap-xep-don-vi-hanh-chinh-cap-xa-700278.html |archive-date=2026-07-11 |access-date=2026-07-11 |website=Cơ quan Báo và Phát thanh, truyền hình Hà Nội}}</ref><ref>Công văn số 2896/BNV-CQĐP ngày 27 tháng 5 năm 2025 của Bộ Nội vụ về việc cung cấp thông tin danh mục dự kiến đơn vị hành chính cấp xã mới.</ref>
+
+== Lịch sử ==
+
+=== Trước năm 1976 ===
+Trước kia, xã Tam Hưng có 7 thôn: Song Khê, Tê Quả, Đại Định, Hưng Giáo, Lê Dương, Văn Khê, Bùi Xá. Thôn Song Khê nguyên là hai làng Bối Khê và Phúc Khê. Thôn này có ngôi chùa cổ là chùa Bối Khê
+
+Trước năm 1965 Tam Hưng thuộc tỉnh Hà Đông, sau năm 1965-1975 thuộc Tỉnh Hà Tây, đến 1975 thuộc tỉnh Hà Sơn Bình.
+
+=== Giai đoạn 1976 – nay ===
+Sau ngày 2 tháng 7 năm 1976, 4 xã: Mỹ Hưng, Tam Hưng, Thanh Thùy và Thanh Văn thuộc huyện [[Thanh Oai (huyện)|Thanh Oai]] của tỉnh [[Hà Sơn Bình]].
+
+Ngày 12 tháng 8 năm 1991, chia tỉnh [[Hà Sơn Bình]] thành 2 tỉnh, lấy tên là tỉnh [[Hòa Bình (tỉnh)|Hòa Bình]] và tỉnh [[Hà Tây (tỉnh)|Hà Tây]]. Khi đó, 4 xã: Mỹ Hưng, Tam Hưng, Thanh Thùy và Thanh Văn thuộc huyện [[Thanh Oai (huyện)|Thanh Oai]] của tỉnh [[Hà Tây (tỉnh)|Hà Tây]].<ref>Nghị quyết ngày 12 tháng 8 năm 1991 của Quốc hội khóa VIII, Kỳ họp thứ 9 về việc điều chỉnh địa giới hành chính một số tỉnh, thành phố trực thuộc Trung ương.</ref>
+
+Ngày 29 tháng 5 năm 2008, hợp nhất tỉnh [[Hà Tây (tỉnh)|Hà Tây]] vào thành phố [[Hà Nội]]. Khi đó, 4 xã: Mỹ Hưng, Tam Hưng, Thanh Thùy và Thanh Văn thuộc huyện [[Thanh Oai (huyện)|Thanh Oai]] của thành phố [[Hà Nội]].<ref>Nghị quyết số 15/2008/QH12 ngày 29 tháng 5 năm 2008 của Quốc hội khóa XII, Kỳ họp thứ 3 về việc điều chỉnh địa giới hành chính thành phố Hà Nội và một số tỉnh có liên quan.</ref>
+
+Ngày 16 tháng 6 năm 2025:
+
+* Kết thúc hoạt động của đơn vị hành chính cấp huyện trong cả nước.<ref>{{Chú thích web |last= |date= |title=Nghị quyết số 203/2025/QH15 ngày 16 tháng 6 năm 2025 của Quốc hội khóa XV, Kỳ họp thứ 9 về việc sửa đổi, bổ sung một số điều của Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/nq-sua-doi-hien-phap.pdf |url-status=live |archive-url=https://web.archive.org/web/20260613090807/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/nq-sua-doi-hien-phap.pdf |archive-date=2026-06-13 |access-date=2026-06-13 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+* Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của các xã Mỹ Hưng, Thanh Thùy, Thanh Văn và Tam Hưng (huyện [[Thanh Oai (huyện)|Thanh Oai]]) thành xã mới có tên gọi là xã Tam Hưng.<ref>{{Chú thích web |title=Nghị quyết số 1656/NQ-UBTVQH15 ngày 16 tháng 6 năm 2025 của Ủy ban Thường vụ Quốc hội về việc sắp xếp các đơn vị hành chính cấp xã của thành phố Hà Nội năm 2025 |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf |url-status=bot: unknown |archive-url=https://web.archive.org/web/20260513110024/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf |archive-date=2026-05-13 |access-date=2026-06-30 |website=Cổng Thông tin điện tử Chính phủ }}</ref>
+* Sau khi sắp xếp, xã Tam Hưng được chia thành 22 thôn.<ref>5 thôn: Đan Thầm, Phượng Mỹ, Quảng Minh, Thạch Nham và Thiên Đông của xã Mỹ Hưng cũ; 6 thôn: Dụ Tiền, Dư Dụ, Gia Vĩnh, Rùa Hạ, Rùa Thượng và Từ Am của xã Thanh Thùy cũ; 4 thôn: Bạch Nao, Quan Nhân, Tam Đa và Úc Lý của xã Thanh Văn cũ; 7 thôn: Bùi Xá, Đại Định, Hưng Giáo, Lê Dương, Song Khê, Tê Quả và Văn Khê của xã Tam Hưng cũ.</ref><ref>{{Chú thích web |title=Thông tư số 10/2022/TT-BTNMT ngày 29 tháng 9 năm 2022 của Bộ Tài nguyên và Môi trường về việc Ban hành Danh mục địa danh dân cư, sơn văn, thủy văn, kinh tế – xã hội phục vụ công tác thành lập bản đồ thành phố Hà Nội |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2022/10/10-btnmt.pdf |url-status=bot: unknown |archive-url=https://web.archive.org/web/20260630082812/https://datafiles.chinhphu.vn/cpp/files/vbpq/2022/10/10-btnmt.pdf |archive-date=2026-06-30 |access-date=2026-06-30 |website=Cổng Thông tin điện tử Chính phủ }}</ref><ref>{{Chú thích web |last=Ủy ban bầu cử xã Tam Hưng |date=2026-02-25 |title=Danh sách chính thức những người ứng cử đại biểu Hội đồng nhân dân xã Tam Hưng khóa XXIII, nhiệm kỳ 2026 – 2031 |url=https://sqhx-hanoi.mediacdn.vn/91579363132710912/2026/2/26/danh-sach-bau-cu-tam-hung-65x43-24-2-1772114933339953181145.pdf |url-status=dead |archive-url=https://web.archive.org/web/20260808201510/https://sqhx-hanoi.mediacdn.vn/91579363132710912/2026/2/26/danh-sach-bau-cu-tam-hung-65x43-24-2-1772114933339953181145.pdf |archive-date=2026-08-08 |access-date=2026-08-08 |website=Trang Thông tin điện tử xã Tam Hưng – thành phố Hà Nội}}</ref>
+[[Tập tin:Bản đồ các thôn thuộc xã Tam Hưng của thành phố Hà Nội (đến ngày 1 tháng 7 năm 2026).png|trái|nhỏ|239x239px|Ranh giới, bản đồ các thôn xã Tam Hưng trước sắp xếp (đến ngày 1 tháng 7 năm 2026)<ref>{{Chú thích web |last=Trang Thông tin điện tử xã Tam Hưng – thành phố Hà Nội |date=2026-06-15 |title=Cập nhật phương án sắp xếp thôn trên địa bàn xã Tam Hưng |url=https://tamhung.hanoi.gov.vn/tin-tuc-su-kien/cap-nhat-phuong-an-sap-xep-thon-tren-dia-ban-xa-tam-hung-2682260615074255815.htm?gidzl=XuJxGtXc-cI3c_z5SdxwPOcRzq5kA_DZbyt-HJWj_6N8oVX4O2skPPd7hKTb9geodiV_GcB9qpGMVMV-PW |url-status=dead |archive-url=https://web.archive.org/web/20260808201510/https://tamhung.hanoi.gov.vn/tin-tuc-su-kien/cap-nhat-phuong-an-sap-xep-thon-tren-dia-ban-xa-tam-hung-2682260615074255815.htm?gidzl=XuJxGtXc-cI3c_z5SdxwPOcRzq5kA_DZbyt-HJWj_6N8oVX4O2skPPd7hKTb9geodiV_GcB9qpGMVMV-PW |archive-date=2026-08-08 |access-date=2026-08-08}}</ref>]]
+Ngày 25 tháng 6 năm 2026, thành lập 8 thôn mới: Đại Thanh, Văn Xá, Thạch Đan, Phượng Thiên, Rùa Thượng Am, Vĩnh Dụ, Bạch Đa và Nhân Lý.<ref name=":1">1. Thôn Đại Thanh: Thành lập trên cơ sở sáp nhập toàn bộ thôn Tê Quả và thôn Đại Định; 2. Thôn Hưng Giáo: Giữ nguyên; 3. Thôn Song Khê: Giữ nguyên; 4. Thôn Lê Dương: Giữ nguyên; 5. Thôn Văn Xá: Thành lập trên cơ sở sáp nhập toàn bộ thôn Văn Khê và thôn Bùi Xá; 6. Thôn Quảng Minh: Giữ nguyên; 7. Thôn Thạch Đan: Thành lập trên cơ sở sáp nhập toàn bộ thôn Đan Thầm và thôn Thạch Nham; 8. Thôn Phượng Thiên: Thành lập trên cơ sở sáp nhập toàn bộ thôn Thiên Đông và thôn Phượng Mỹ; 9. Thôn Rùa Hạ: Giữ nguyên; 10. Thôn Rùa Thượng Am: Thành lập trên cơ sở sáp nhập toàn bộ thôn Rùa Thượng và thôn Từ Am; 11. Thôn Vĩnh Dụ: Thành lập trên cơ sở sáp nhập toàn bộ thôn Gia Vĩnh và thôn Dụ Tiền; 12. Thôn Dư Dụ: Giữ nguyên; 13. Thôn Bạch Đa: Thành lập trên cơ sở sáp nhập toàn bộ thôn Tam Đa và thôn Bạch Nao; 14. Thôn Nhân Lý: Thành lập trên cơ sở sáp nhập toàn bộ thôn Úc Lý và thôn Quan Nhân.</ref><ref name=":0">{{Chú thích web |last= |date= |title=Đề án năm 2026 của Ủy ban nhân dân xã Tam Hưng về việc sắp xếp thôn trên địa bàn xã Tam Hưng |url=https://sqhx-hanoi.mediacdn.vn/91579363132710912/2026/6/10/1-de-an-nhap-thon14t96-1-1781102903400382554290.pdf |url-status=dead |archive-url=https://web.archive.org/web/20260808201510/https://sqhx-hanoi.mediacdn.vn/91579363132710912/2026/6/10/1-de-an-nhap-thon14t96-1-1781102903400382554290.pdf |archive-date=2026-08-08 |access-date=2026-08-08 |website=Trang Thông tin điện tử xã Tam Hưng – thành phố Hà Nội}}</ref><ref name=":2">{{Chú thích web |last= |date= |title=Thông báo số 410/TB-UBND ngày 29 tháng 6 năm 2026 của Ủy ban nhân dân xã Tam Hưng về việc công khai Nghị quyết sắp xếp thôn trên địa bàn xã Tam Hưng |url=https://sqhx-hanoi.mediacdn.vn/91579363132710912/2026/6/29/tb-410-13thong-bao-cong-khai-nq-sap-xep-thon-17827046575532024059434.pdf |url-status=dead |archive-url=https://web.archive.org/web/20260808201510/https://sqhx-hanoi.mediacdn.vn/91579363132710912/2026/6/29/tb-410-13thong-bao-cong-khai-nq-sap-xep-thon-17827046575532024059434.pdf |archive-date=2026-08-08 |access-date=2026-08-08 |website=Trang Thông tin điện tử xã Tam Hưng – thành phố Hà Nội}}</ref>
+[[Tập tin:Bản đồ các thôn thuộc xã Tam Hưng của thành phố Hà Nội.jpg|trái|nhỏ|172x172px|Phương án sắp xếp thôn trên địa bàn xã Tam Hưng của thành phố Hà Nội (từ ngày 1 tháng 7 năm 2026)<ref>{{Chú thích web |last=Trang Thông tin điện tử xã Tam Hưng – thành phố Hà Nội |date=2026-06-23 |title=Thống nhất đề xuất tên gọi mới sau sáp nhập thôn Rùa Thượng và thôn Từ Am |url=https://tamhung.hanoi.gov.vn/tin-tuc-su-kien/thong-nhat-de-xuat-ten-goi-moi-sau-sap-nhap-thon-rua-thuong-va-thon-tu-am-2682260623122823114.htm |url-status=dead |archive-url=https://web.archive.org/web/20260808201510/https://tamhung.hanoi.gov.vn/tin-tuc-su-kien/thong-nhat-de-xuat-ten-goi-moi-sau-sap-nhap-thon-rua-thuong-va-thon-tu-am-2682260623122823114.htm |archive-date=2026-08-08 |access-date=2026-08-08}}</ref>]]
+
+== Hành chính ==
+Xã Tam Hưng được chia thành 14 thôn: Bạch Đa, Dư Dụ, Đại Thanh, Hưng Giáo, Lê Dương, Nhân Lý, Phượng Thiên, Quảng Minh, Rùa Hạ, Rùa Thượng Am, Song Khê, Thạch Đan, Văn Xá và Vĩnh Dụ.<ref name=":0" /><ref name=":2" />
+{| class="wikitable sortable" cellpadding="0" cellspacing="6" width="100%" align="center" style="background: #f9f9f9; border: 1px #aaa solid; margin-top: 16px"
+! colspan="4" style="background: #E6E6FA; font-size: 95%;" |Danh sách các thôn thuộc xã Tam Hưng<ref name=":0" /><ref name=":2" />
+|-
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| cellpadding="1" cellspacing="1" width="100%" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Bạch Đa
+|1.133
+|-
+| align="left" |Dư Dụ
+|533
+|-
+| align="left" |Đại Thanh
+|844
+|-
+| align="left" |Hưng Giáo
+|524
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| cellpadding="1" cellspacing="1" width="100%" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Lê Dương
+|768
+|-
+| align="left" |Nhân Lý
+|805
+|-
+| align="left" |Phượng Thiên
+|1.000
+|-
+| align="left" |Quảng Minh
+|717
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| cellpadding="1" cellspacing="1" width="100%" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Rùa Hạ
+|832
+|-
+| align="left" |Rùa Thượng Am
+|600
+|-
+| align="left" |Song Khê
+|1.097
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| cellpadding="1" cellspacing="1" width="100%" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Thạch Đan
+|514
+|-
+| align="left" |Văn Xá
+|652
+|-
+| align="left" |Vĩnh Dụ
+|567
+|}
+|}
+
+== Di tích - Danh thắng ==
+Xã này có [[Dự án đường trục phía nam Hà Nội]] đi qua. Đây là nơi sinh ra người đầu tiên được khắc tên ở bia [[Văn miếu|Văn Miếu]] là Trạng nguyên [[Nguyễn Trực]].<ref>{{chú thích web| url = http://www.nhandan.com.vn/cmlink/nhandanhangthang/nhan-dan-h-ng-thang/khoa-h-c-giao-d-c/h-i-cac-nha-s-h-c/h-i-cac-nha-s-h-c-1.307653 | tiêu đề = Hỏi các nhà sử học | ngày = 08/13/2011 | ngày truy cập = | nơi xuất bản = Nhân dân | ngôn ngữ = }}</ref> 
+
+Xã được nhà nước khảo sát là nơi [[nuôi trồng thủy sản]] ([[rùa biển]]) do [[Chi cục Thủy sản Hà Nội]] thực hiện.<ref>{{chú thích web | url = http://dangcongsan.vn/cpv/Modules/Preview/PrintPreview.aspx?co_id = 7338497&cn_id = 343008 | tiêu đề = Hà Nội: Tăng cường tuyên truyền giáo dục về bảo vệ rùa biển | ngày = 05/29/2009 | ngày truy cập = | nơi xuất bản = Website Đảng Cộng sản Việt Nam | ngôn ngữ = }}{{Liên kết hỏng| date = 2024-12-05 | bot = InternetArchiveBot }}</ref> Năm 2010, xã được nhà nước xem là nơi trồng [[lúa]] trọng điểm cần phát triển và mở rộng tại địa bàn [[Hà Nội]].<ref>{{chú thích web | url = http://www.cpv.org.vn/cpv/modules/news/newsdetail.aspx?cn_id = 428401&co_id = 30066 | tiêu đề = Liên kết "bốn nhà" xây dựng vùng lúa chất lượng cao ở Hà Nội | ngày = 10/13/2010 | ngày truy cập = | nơi xuất bản = Website Đảng Cộng sản Việt Nam | ngôn ngữ = }}{{Liên kết hỏng| date = 2024-12-05 | bot = InternetArchiveBot }}</ref>
+
+Chùa Bối Khê 
+
+== Kinh tế == 
+ Công Ty Logistic J&T Express đặt kho DP và kho MKD đặt tại xã Thanh Thùy (cũ)
+
+=== Đình Phương Mỹ ===
+Đình làng Phương Mỹ, xã Mỹ Hưng thờ Phạm Huyền Thông - Thái Úy thống lĩnh tiền quân thủy bộ [[thời Đinh]] sau được phong Thái Úy Thượng Quốc Đại Vương. Ông là người trang Hồ Liên ([[Thanh Oai (huyện)|Thanh Oai]]), có công đánh dẹp các sứ quân [[Ngô Xương Xí]], [[Nguyễn Siêu]], [[Phạm Bạch Hổ]]. Ông cũng được thờ ở Đình Cư An xã Tam Đồng, huyện [[Mê Linh (huyện)|Mê Linh]].<ref>[http://nguoihanoi.com.vn/pho-vuong-trung-nhi-va-thai-uy-pham-huyen-thong_243224.html Phó vương Trưng Nhị và Thái úy Phạm Huyền Thông]</ref>
+
+== Chú thích== 
+{{tham khảo| 30em}}
+
+== Tham khảo ==
+{{Sơ khai Hà Nội}}{{Đơn vị hành chính thuộc thành phố Hà Nội}}

@@ -1,0 +1,77 @@
+{{Thông tin đơn vị hành chính Việt Nam | phường
+| tên = Thanh Miếu
+| hình =Cvvl.jpg 
+| ghi chú hình =Công viên Văn Lang 
+| vĩ độ = 21.317625696063914
+| kinh độ = 105.42950047689021
+| diện tích = 19,57 km²
+| dân số = 27.957 người
+| thời điểm dân số = 2025
+| mật độ dân số = {{formatnum:{{#expr:floor({{formatnum:27.957| R}}/{{formatnum:19,57| R}})}} }} người/km²
+| dân tộc = [[Người Việt|Kinh]]
+| vùng = [[Đông Bắc Bộ]]
+| tỉnh = [[Phú Thọ]]
+| thành lập =16/6/2025 
+| trụ sở UBND = 
+| mã hành chính = 
+| mã bưu chính = 
+}}
+'''Thanh Miếu''' là một [[Phường (Việt Nam)|phường]] thuộc tỉnh [[Phú Thọ]], [[Việt Nam]].
+
+==Địa lý==
+Phường Thanh Miếu có vị trí địa lý:
+
+* Phía Bắc giáp phường [[Việt Trì (phường)|Việt Trì]].
+* Phía Nam giáp xã [[Vĩnh Thành, Phú Thọ|Vĩnh Thành]].
+* Phía Đông giáp xã [[Sơn Đông (xã)|Sơn Đông]].
+* Phía Tây giáp thành phố [[Hà Nội]].
+
+==Hành chính==
+Phường Thanh Miếu được chia thành 39 tổ dân phố: Anh Dũng, Âu Cơ, Bạch Hạc, Bến Gót, Chàng Đông, Chàng Nam, Đoàn Kết, Đồi Cam, Đồng Lực, Đồng Tâm, Gát, Hạ Giáp, Hai Bà Trưng, Hoà Bình, Hồng Hà, Hùng Vương, Kiến Thiết, Lang Đài, Mai Sơn, Mộ Hạ, Mộ Thượng, Phong Châu, Quyết Tiến, Sông Lô, Sông Thao, Tân Thịnh, Thanh Bình, Thanh Hà, Thành Công, Thi Đua, Thọ Mai, Thượng Thọ, Tiên Cát, Tiên Phú, Tiền Phong, Văn Lang, Việt Hưng, Việt Thắng và Việt Yên.
+
+==Lịch sử==
+Ngày [[13 tháng 1]] năm [[1984]], Hội đồng Bộ trưởng ban hành Quyết định số 10-HĐBT.<ref>{{Chú thích web|url=https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/quyet-dinh-10-hdbt-phan-vach-dia-gioi-xa-phuong-thanh-pho-viet-tri-tinh-vinh-phu-43394.aspx|tựa đề=Quyết định số 10-HĐBT năm 1984 về việc phân vạch địa giới một số xã, phường thuộc thành phố Việt Trì, tỉnh Vĩnh Phú do Hội đồng Bộ trưởng ban hành|url-status=live}}</ref> Theo đó, chia phường Thanh Miếu thành 2 phường Thanh Miếu và Thọ Sơn.
+
+Phường Thanh Miếu gồm có các xóm Kiến Thiết, Hoà Bình, Trung Kiên, Đồi Cam, Thanh Miếu, các hồ ven sông Lô và một phần khu đồi A của xã Trưng Vương nhập vào.
+
+Ngày [[8 tháng 4]] năm [[2002]], Chính phủ ban hành Nghị định số 39/2002/NĐ-CP.<ref name=ND39>{{Chú thích web|url=https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Nghi-dinh-39-2002-ND-CP-thanh-lap-phuong-thuoc-thanh-pho-Viet-Tri-doi-ten-huyen-Song-Thao-thanh-huyen-Cam-Khe-tinh-Phu-Tho-49270.aspx|tựa đề=Nghị định 39/2002/NĐ-CP về việc thành lập các phường thuộc thành phố Việt Trì và đổi tên huyện Sông Thao thành huyện Cẩm Khê, tỉnh Phú Thọ|tác giả=|họ=|tên=|ngày=|website=|url lưu trữ=|ngày lưu trữ=|ngày truy cập=}}</ref> Theo đó, thành lập phường [[Bến Gót]] trên cơ sở 256,1ha diện tích tự nhiên và 5.732 người của phường Thanh Miếu.
+
+Sau khi điều chỉnh địa giới hành chính, phường Thanh Miếu còn lại 263,14ha diện tích tự nhiên và 8.769 người.
+
+Ngày [[16 tháng 6]] năm [[2025]]:
+
+* [[Quốc hội Việt Nam|Quốc hội]] ban hành Nghị quyết số 203/2025/QH15 về việc sửa đổi, bổ sung một số điều của Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam.<ref>{{Chú thích web |last=xaydungchinhsach.chinhphu.vn |date=2025-06-28 |title=NGHỊ QUYẾT 203/2025/QH15 SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA HIẾN PHÁP NƯỚC CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM |url=https://xaydungchinhsach.chinhphu.vn/nghi-quyet-203-2025-qh15-sua-doi-bo-sung-mot-so-dieu-cua-hien-phap-nuoc-cong-hoa-xa-hoi-chu-nghia-viet-nam-119250616181735552.htm |access-date=2026-07-15 |website=xaydungchinhsach.chinhphu.vn |language=vi}}</ref> Theo đó, kết thúc hoạt động của đơn vị hành chính cấp huyện trong cả nước từ ngày 1 tháng 7 năm 2025.
+* [[Ủy ban Thường vụ Quốc hội]] ban hành Nghị quyết số 1676/NQ-UBTVQH15 về việc sắp xếp các đơn vị hành chính cấp xã của tỉnh Phú Thọ năm 2025.<ref>{{Chú thích web |last=xaydungchinhsach.chinhphu.vn |date=2025-06-20 |title=Nghị quyết số 1676/NQ-UBTVQH15 sắp xếp các ĐVHC cấp xã của tỉnh Phú Thọ năm 2025 |url=https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-1676-nq-ubtvqh15-sap-xep-cac-dvhc-cap-xa-cua-tinh-phu-tho-nam-2025-119250616204317326.htm |access-date=2025-09-07 |website=xaydungchinhsach.chinhphu.vn |language=vi}}</ref> Theo đó, sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của các phường Thọ Sơn, Tiên Cát, Bạch Hạc, Thanh Miếu và xã Sông Lô (thành phố [[Việt Trì (thành phố)|Việt Trì]]) thành phường mới có tên gọi là '''phường Thanh Miếu'''.
+<!-- 
+== Lịch sử ==
+Làng Bạch Hạc xưa kia thuộc vùng đất Phong Châu, là nơi trấn giữ phía Đông kinh đô nước Văn Lang đời Hùng Vương. Truyện Mộc tinh hay [[quỷ Xương Cuồng]] có giải thích về nguồn gốc tên gọi Bạch Hạc. Bạch Hạc là kinh đô đầu tiên của nước Văn Lang đọc lập.
+
+Bạch Hạc là nơi chiếm đóng của tướng [[Kiều Công Hãn]] trong thời [[loạn 12 sứ quân]] với căn cứ thành Tam Giang ở ngã ba sông. Ngày nay di tích đền Tam Giang thờ thần sông Bạch Hạc, Kiều Công Hãn và Trần Nhật Duật.
+
+Thời [[nhà Lê]], xã Bạch Hạc thuộc phủ Tam Đới, [[Sơn Tây trấn|trấn Sơn Tây]]. Đến thời nhà Nguyễn là một xã thuộc huyện [[Vĩnh Tường (huyện)|Bạch Hạc]], phủ Tam Đái (sau được đổi thành phủ Vĩnh Tường), tỉnh [[Sơn Tây (tỉnh Việt Nam)|Sơn Tây]].
+
+Thời Pháp thuộc, xã Bạch Hạc thuộc huyện [[Vĩnh Tường (huyện)|Bạch Hạc]], phủ Vĩnh Tường, tỉnh [[Vĩnh Yên (tỉnh)|Vĩnh Yên]].
+
+Ngày [[7 tháng 6]] năm [[1957]], [[Thủ tướng Việt Nam|Thủ tướng Chính phủ]] ban hành Nghị định cho sáp nhập thị trấn Bạch Hạc thuộc huyện Vĩnh Tường, tỉnh [[Vĩnh Phúc (tỉnh)|Vĩnh Phúc]] về tỉnh [[Phú Thọ]] và hợp nhất với thị trấn [[Thanh Miếu|Việt Trì]] để trở thành thị xã [[Việt Trì (thành phố)|Việt Trì]]. Lúc này thị trấn Bạch Hạc thuộc thị xã Việt Trì.
+
+Ngày [[13 tháng 1]] năm [[1984]], [[Hội đồng Bộ trưởng]] ra Quyết định phân vạch địa giới xã, phường của thành phố Việt Trì. Theo đó, giải thể thị trấn Bạch Hạc để thành lập phường Bạch Hạc.
+
+==Đình Mộ Chu Hạ==
+Đình, Miếu Mộ Chu Hạ thờ Vua Lê Đại Hành và 2 bà hoàng hậu.
+
+Trong một lần truy bắt quân giặc Tống Vua Lê Đại Hành đi qua cánh đồng làng Mộ Chu Hạ thì trời tối, người dân đem cỏ cho ngựa của nhà Vua và quân lính ăn. Để thiết đãi quân lính của vua dân làng đã đem gạo nếp đồ xôi thay nhau giã bánh giầy phân phát cho mỗi người một cái, sáng hôm sau dân làng giã bánh dầy cho vua và binh lính mang theo làm lương thực. Cảm động tấm lòng của người dân Mộ Chu Hạ, sau khi dẹp yên quân Tống, Vua Lê Đại Hành đã ban Sắc phong cho bánh giầy của làng Mộ Chu Hạ. Từ đó, dân làng Mộ Chu Hạ luôn bảo nhau phải giữ gìn tục giã bánh giầy vào 10/1 âm lịch hàng năm để tưởng nhớ công ơn Vua, và ôn lại truyền thống lịch sử của làng.
+
+Hàng trăm năm qua dân làng vẫn giữ tục giã bánh giầy. Cứ đến dịp Giỗ Tổ Hùng Vương – Lễ hội đền Hùng người dân làng Mộ Chu Hạ lại bảo nhau, mỗi người một việc tề tựu đại Đình làng để chuẩn bị để tham gia hội thi giã bánh giầy tuyển chọn để cúng tiến các Vua Hùng. 5 thanh niên trai tráng khỏe mạnh được tuyển chọn kĩ kàng, ăn mặc chay sạch phải luyện tập kĩ trước khi tham gia hội thi.
+ -->
+
+== Danh nhân ==
+* [[Quách A]] (? – 40), nữ tướng thời Hai Bà Trưng. Được phong làm Khâu Ni Công Chúa
+* [[Nguyễn Thành Nam (Phú Thọ)|Nguyễn Thành Nam]] (sinh năm 1966) là [[Đại biểu Quốc hội Việt Nam|Đại biểu Quốc hội]] nước Cộng hòa xã hội chủ nghĩa Việt Nam.
+
+==Chú thích==
+{{tham khảo}}
+
+==Tham khảo==
+
+{{sơ khai Phú Thọ}}
+{{Đơn vị hành chính thuộc tỉnh Phú Thọ}}

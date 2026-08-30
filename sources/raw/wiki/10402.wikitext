@@ -1,0 +1,153 @@
+{{Thông tin đơn vị hành chính Việt Nam|Xã
+| tên = Ứng Hòa
+| hình = 
+| ghi chú hình = 
+| vĩ độ = 20.68523843025681
+| kinh độ = 105.81019148460307
+| thời điểm dân số = 2025
+| thành phố = [[Hà Nội]]
+| diện tích = 67,81 km²
+| dân số = 63.750 người
+| mật độ dân số = {{formatnum:{{#expr:floor({{formatnum:63.750| R}}/{{formatnum:41,32| R}})}} }} người/km²
+| thành lập = 
+| web = {{url|unghoa.hanoi.gov.vn}}
+| mã hành chính =10402<ref>{{Chú thích web |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/19ttg.signed.pdf |title=Quyết định số 19/2025/QĐ-TTg ngày 30 tháng 6 năm 2025 của Thủ tướng Chính phủ về việc Ban hành Bảng danh mục và mã số các đơn vị hành chính Việt Nam |access-date=2026-06-15 |archive-date=2026-06-15 |archive-url=https://web.archive.org/web/20260615034519/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/19ttg.signed.pdf |url-status=dead | website = Cổng Thông tin điện tử Chính phủ}}</ref> 
+| trụ sở UBND = Thôn Hòa Lâm<ref>{{Chú thích web |url=https://storage-vnportal.vnpt.vn/gov-hni/6244/VanBan/2025/6/25/TB-729-2025.pdf |title=Thông báo số 729/TB-UBND ngày 25 tháng 6 năm 2025 của Ủy ban nhân dân thành phố Hà Nội về địa điểm trụ sở làm việc của 126 phường, xã sau sắp xếp thuộc phạm vi quản lý của thành phố Hà Nội|access-date=2026-06-15 |archive-date=2026-06-15 |archive-url=https://web.archive.org/web/20260615034519/https://storage-vnportal.vnpt.vn/gov-hni/6244/VanBan/2025/6/25/TB-729-2025.pdf |url-status=dead | website = Cổng Thông tin điện tử Ủy ban nhân dân thành phố Hà Nội}}</ref>
+| biệt danh = Khu Cháy Anh hùng|vùng=[[Đồng bằng sông Hồng]]|trụ sở Đảng ủy=Thôn Hòa Lâm}}
+{{other|Ứng Hòa (định hướng)}}
+'''Ứng Hòa''' là một [[xã]] thuộc thành phố [[Hà Nội]], [[Việt Nam]].
+
+== Địa lý== 
+Xã Ứng Hòa có vị trí địa lý:
+
+* Phía đông giáp xã [[Chuyên Mỹ]]
+* Phía tây giáp xã [[Hòa Xá]]
+* Phía nam giáp phường [[Nguyễn Úy (phường)|Nguyễn Úy]], phường [[Lê Hồ (phường)|Lê Hồ]] và phường [[Duy Hà]] thuộc tỉnh [[Ninh Bình]]
+* Phía bắc giáp xã [[Vân Đình]] và xã [[Phượng Dực]].<ref>{{Chú thích web |last=Viện nghiên cứu Phát triển kinh tế – xã hội Hà Nội |date=2025-07-02 |title=Xã Ứng Hòa: Những thông tin chi tiết sau sắp xếp |url=https://hanoionline.vn/xa-ung-hoa-nhung-thong-tin-chi-tiet-sau-sap-xep-344065.htm |url-status=dead |archive-url=https://web.archive.org/web/20260701400809/https://hanoionline.vn/xa-ung-hoa-nhung-thong-tin-chi-tiet-sau-sap-xep-344065.htm |archive-date=2026-07-01 |access-date=2026-07-01 |website=Cơ quan Báo và Phát thanh Truyền hình Hà Nội}}</ref><ref>{{Chú thích web |last=Cơ quan Báo và Phát thanh Truyền hình Hà Nội |date=2025-07-08 |title=Xã Ứng Hòa: Tất cả thông tin chỉ dẫn bạn cần biết |url=https://hanoionline.vn/xa-ung-hoa-tat-ca-thong-tin-chi-dan-ban-can-biet-345452.htm |url-status=dead |archive-url=https://web.archive.org/web/20260711401509/https://hanoionline.vn/xa-ung-hoa-tat-ca-thong-tin-chi-dan-ban-can-biet-345452.htm |archive-date=2026-07-11 |access-date=2026-07-11}}</ref>
+Xã Ứng Hòa có diện tích tự nhiên là 67,81 km<sup>2</sup>, quy mô dân số năm 2025 là 63.750 người và mật độ dân số đạt 1.542 người/km<sup>2</sup>.<ref>{{Chú thích web |last=Mai Hữu |date=2026-04-05 |title=Hà Nội: Chi tiết phương án tổng thể sắp xếp đơn vị hành chính cấp xã |url=https://hanoimoi.vn/ha-noi-chi-tiet-phuong-an-tong-the-sap-xep-don-vi-hanh-chinh-cap-xa-700278.html |url-status=live |archive-url=https://web.archive.org/web/20260711401509/https://hanoimoi.vn/ha-noi-chi-tiet-phuong-an-tong-the-sap-xep-don-vi-hanh-chinh-cap-xa-700278.html |archive-date=2026-07-11 |access-date=2026-07-11 |website=Cơ quan Báo và Phát thanh, truyền hình Hà Nội}}</ref><ref>Công văn số 2896/BNV-CQĐP ngày 27 tháng 5 năm 2025 của Bộ Nội vụ về việc cung cấp thông tin danh mục dự kiến đơn vị hành chính cấp xã mới.</ref>
+
+== Lịch sử==
+
+=== Tên gọi ===
+Tên gọi xã Ứng Hòa kế thừa tên gọi của huyện [[Ứng Hòa (huyện)|Ứng Hòa]], thành phố [[Hà Nội]].
+
+=== Trước năm 1976 ===
+
+=== Giai đoạn 1976 – nay ===
+Sau ngày 2 tháng 7 năm 1976, 9 xã: Đại Cường, Đại Hùng, Đông Lỗ, Đồng Tân, Hòa Lâm, Kim Đường, Minh Đức, Trầm Lộng và Trung Tú thuộc huyện [[Ứng Hòa (huyện)|Ứng Hòa]] của tỉnh [[Hà Sơn Bình]].
+
+Ngày 12 tháng 8 năm 1991, chia tỉnh [[Hà Sơn Bình]] thành 2 tỉnh, lấy tên là tỉnh [[Hòa Bình (tỉnh)|Hòa Bình]] và tỉnh [[Hà Tây (tỉnh)|Hà Tây]]. Khi đó, 9 xã: Đại Cường, Đại Hùng, Đông Lỗ, Đồng Tân, Hòa Lâm, Kim Đường, Minh Đức, Trầm Lộng và Trung Tú thuộc huyện [[Ứng Hòa (huyện)|Ứng Hòa]] của tỉnh [[Hà Tây (tỉnh)|Hà Tây]].<ref>Nghị quyết ngày 12 tháng 8 năm 1991 của Quốc hội khóa VIII, Kỳ họp thứ 9 về việc điều chỉnh địa giới hành chính một số tỉnh, thành phố trực thuộc Trung ương.</ref>
+
+Ngày 29 tháng 5 năm 2008, hợp nhất tỉnh [[Hà Tây (tỉnh)|Hà Tây]] vào thành phố [[Hà Nội]]. Khi đó, 9 xã: Đại Cường, Đại Hùng, Đông Lỗ, Đồng Tân, Hòa Lâm, Kim Đường, Minh Đức, Trầm Lộng và Trung Tú thuộc huyện [[Ứng Hòa (huyện)|Ứng Hòa]] của thành phố [[Hà Nội]].<ref>Nghị quyết số 15/2008/QH12 ngày 29 tháng 5 năm 2008 của Quốc hội khóa XII, Kỳ họp thứ 3 về việc điều chỉnh địa giới hành chính thành phố Hà Nội và một số tỉnh có liên quan.</ref>
+
+Ngày 14 tháng 11 năm 2024, nhập xã Hòa Lâm vào xã Trầm Lộng.<ref>{{Chú thích web |tiêu đề=Nghị quyết số 1286/NQ-UBTVQH15 ngày 14 tháng 11 năm 2024 của Ủy ban Thường vụ Quốc hội về việc sắp xếp đơn vị hành chính cấp xã của thành phố Hà Nội giai đoạn 2023 – 2025 |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/11/1286-qh.signed.pdf |url-status=dead |archive-url=https://web.archive.org/web/20260725401509/https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/11/1286-qh.signed.pdf |ngày lưu trữ=2026-07-25 |ngày truy cập=2026-07-25 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+
+Ngày 16 tháng 6 năm 2025:
+
+* Kết thúc hoạt động của đơn vị hành chính cấp huyện trong cả nước.<ref>{{Chú thích web |last= |date= |title=Nghị quyết số 203/2025/QH15 ngày 16 tháng 6 năm 2025 của Quốc hội khóa XV, Kỳ họp thứ 9 về việc sửa đổi, bổ sung một số điều của Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/nq-sua-doi-hien-phap.pdf |url-status=live |archive-url=https://web.archive.org/web/20260613090807/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/nq-sua-doi-hien-phap.pdf |archive-date=2026-06-13 |access-date=2026-06-13 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+* Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của các xã Đại Cường, Đại Hùng, Đông Lỗ, Đồng Tân, Kim Đường, Minh Đức, Trầm Lộng và Trung Tú (huyện [[Ứng Hòa (huyện)|Ứng Hòa]]) thành xã mới có tên gọi là xã Ứng Hòa.<ref>{{Chú thích web |title=Nghị quyết số 1656/NQ-UBTVQH15 ngày 16 tháng 6 năm 2025 của Ủy ban Thường vụ Quốc hội về việc sắp xếp các đơn vị hành chính cấp xã của thành phố Hà Nội năm 2025 |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf |url-status=live |archive-url=https://web.archive.org/web/20260630400809/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf |archive-date=2026-06-30 |access-date=2026-06-30 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+* Sau khi sắp xếp, xã Ứng Hòa được chia thành 57 thôn.<ref>3 thôn: Đông Đình, Giang Triều và Kim Giang của xã Đại Cường cũ; 4 thôn: Du Đồng, Ngũ Luân, Quan Tự và Trung Thượng của xã Đại Hùng cũ; 6 thôn: Đào Xá, Mạnh Tân, Ngọc Trục, Nhân Trai, Thống Nhất và Viên Đình của xã Đông Lỗ cũ; 8 thôn: Đồng Xung, Khánh Vân, Khả Lạc, Mỹ Cầu, Thái Bằng, Tứ Kỳ, Vọng Tân và Xuân Tình của xã Đồng Tân cũ; 5 thôn: Cung Thuế, Kim Bồng, Mãn Xoan, Phượng Viền và Tu Lễ của xã Kim Đường cũ; 6 thôn: Bùng, Cầu, Giới Đức, Nam Chính, Quan Châm và Thần của xã Minh Đức cũ; 17 thôn: Cống Khê, Đống Long, Hòa Chanh, Mỹ Lâm, Phúc Quan, Trạch Bái, Trạch Xá (trước thuộc xã Hòa Lâm), An Cư, An Hòa, An Thái, Cao Minh, Kiện Vũ, Lương Đa, Phú Điền, Thu Nội, Trầm Lộng và Xuân Đài của xã Trầm Lồng cũ; 8 thôn: Cao Xá, Chẩn Kỳ, Dũng Cảm, Dương Liễu, Lạc Đạo, Quảng Tái, Thanh Hội và Tự Chung của xã Trung Tú cũ.</ref><ref>{{Chú thích web |title=Thông tư số 10/2022/TT-BTNMT ngày 29 tháng 9 năm 2022 của Bộ Tài nguyên và Môi trường về việc Ban hành Danh mục địa danh dân cư, sơn văn, thủy văn, kinh tế – xã hội phục vụ công tác thành lập bản đồ thành phố Hà Nội |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2022/10/10-btnmt.pdf |url-status=live |archive-url=https://web.archive.org/web/20260630400809/https://datafiles.chinhphu.vn/cpp/files/vbpq/2022/10/10-btnmt.pdf |archive-date=2026-06-30 |access-date=2026-06-30 |website=Cổng Thông tin điện tử Chính phủ}}</ref><ref>{{Chú thích web |last=Trang Thông tin điện tử xã Ứng Hòa – thành phố Hà Nội |date=2026-02-25 |title=Danh sách chính thức những người ứng cử đại biểu Hội đồng nhân dân xã Ứng Hòa khóa II, nhiệm kỳ 2026 – 2031 |url=https://unghoa.hanoi.gov.vn/bau-cu-db-quoc-hoi-hdnd-cac-cap/danh-sach-chinh-thuc-nhung-nguoi-ung-cu-dai-bieu-hdnd-xa-ung-hoa-khoa-ii-nhiem-ky-20262031-2796260225213711308.htm |url-status=dead |archive-url=https://web.archive.org/web/20260801400809/https://unghoa.hanoi.gov.vn/bau-cu-db-quoc-hoi-hdnd-cac-cap/danh-sach-chinh-thuc-nhung-nguoi-ung-cu-dai-bieu-hdnd-xa-ung-hoa-khoa-ii-nhiem-ky-20262031-2796260225213711308.htm |archive-date=2026-08-01 |access-date=2026-08-01 |website=}}</ref>
+Ngày 29 tháng 6 năm 2026, thành lập 16 thôn mới: Trung Tú, Đạo Tú, Đồng Tân, Đồng Thịnh, Minh Đức, Hòa Lâm, Trầm Lộng, An Phú, Minh Đường, Kim Đường, Kim Phượng, Đại Bối, Đại Hùng, Đại Cường, Hùng Vương và Đông Lỗ.<ref>1. Sáp nhập thôn toàn bộ diện tích và dân số của 4 thôn Dũng Cảm, Lạc Đạo, Dương Liễu, Chẩn Kỳ để thành lập thôn mới, lấy tên gọi là thôn Trung Tú; 2. Sáp nhập thôn toàn bộ diện tích và dân số của 4 thôn Quảng Tái, Tự Chung, Thanh Hội, Cao Xá để thành lập thôn mới, lấy tên gọi là Đạo Tú; 3. Sáp nhập thôn toàn bộ diện tích và dân số của 6 thôn Vọng Tân, Khả Lạc, Tứ Kỳ, Thái Bằng, Khánh Vân, Mỹ Cầu để thành lập thôn mới, lấy tên gọi là Đồng Tân; 4. Sáp nhập thôn toàn bộ diện tích và dân số của 4 thôn Đồng Xung, Xuân Tình, Nam Chính, Quan Châm để thành lập thôn mới, lấy tên gọi là Đồng Thịnh; 5. Sáp nhập thôn toàn bộ diện tích và dân số của 3 thôn Cầu, Bùng, Thần để thành lập thôn mới, lấy tên gọi là Minh Đức; 6. Sáp nhập thôn toàn bộ diện tích và dân số của 4 thôn Trạch Xá, Trạch Bái, Mỹ Lâm, Cống Khê để thành lập thôn mới, lấy tên gọi là Hoà Lâm; 7. Sáp nhập thôn toàn bộ diện tích và dân số của 8 thôn Phúc Quan, Đống Long, Hoà Chanh, Cao Minh, Xuân Đài, Thu Nội, Lương Đa, Trầm Lộng để thành lập thôn mới, lấy tên gọi là Trầm Lộng; 8. Sáp nhập thôn toàn bộ diện tích và dân số của 5 thôn An Cư, An Hoà, Phú Điền, Kiện Vũ, An Thái để thành lập thôn mới, lấy tên gọi là An Phú; 9. Sáp nhập thôn toàn bộ diện tích và dân số của 2 thôn Giới Đức, Mãn Xoan để thành lập thôn mới, lấy tên gọi là Minh Đường; 10. Sáp nhập thôn toàn bộ diện tích và dân số của 2 thôn Tu Lễ, Cung Thuế để thành lập thôn mới, lấy tên gọi là Kim Đường; 11. Sáp nhập thôn toàn bộ diện tích và dân số của 2 thôn Kim Bồng, Phượng Viền để thành lập thôn mới, lấy tên gọi là Kim Phượng; 12. Sáp nhập thôn toàn bộ diện tích và dân số của 2 thôn Ngũ Luân, Trung Thượng để thành lập thôn mới, lấy tên gọi là Đại Bối; 13. Sáp nhập thôn toàn bộ diện tích và dân số của 2 thôn Quan Tự, Du Đồng để thành lập thôn mới, lấy tên gọi là Đại Hùng; 14. Sáp nhập thôn toàn bộ diện tích và dân số của 2 thôn Kim Giang, Giang Triều để thành lập thôn mới, lấy tên gọi là Đại Cường; 15. Sáp nhập thôn toàn bộ diện tích và dân số của 3 thôn Đông Đình, Đào Xá, Viên Đình để thành lập thôn mới, lấy tên gọi là Hùng Vương; 16. Sáp nhập thôn toàn bộ diện tích và dân số của 4 thôn Nhân Trai, Ngọc Trục, Mạnh Tân, Thống Nhất để thành lập thôn mới, lấy tên gọi là Đông Lỗ.</ref><ref name=":02" /><ref name=":1">{{Chú thích web |last=Hoàng Sơn |date=2026-06-29 |title=Hội đồng nhân dân xã Ứng Hòa thông qua đề án sắp xếp thôn với sự đồng thuận rất cao |url=https://hanoimoi.vn/hdnd-xa-ung-hoa-thong-qua-de-an-sap-xep-thon-voi-su-dong-thuan-rat-cao-1209700.html?gidzl=pgQ0JdrYgZlAkOH8TtckEiM-WKzkUwWpZk-34ZekhJE9keGHENUZOeZZZnHiSAPYsxo8H6Q5zHz4U6EkEG |url-status=dead |archive-url=https://web.archive.org/web/20260801400809/https://hanoimoi.vn/hdnd-xa-ung-hoa-thong-qua-de-an-sap-xep-thon-voi-su-dong-thuan-rat-cao-1209700.html?gidzl=pgQ0JdrYgZlAkOH8TtckEiM-WKzkUwWpZk-34ZekhJE9keGHENUZOeZZZnHiSAPYsxo8H6Q5zHz4U6EkEG |archive-date=2026-08-01 |access-date=2026-08-01 |website=Cơ quan Báo và Phát thanh, truyền hình Hà Nội}}</ref>[[Tập tin:Bản đồ các thôn thuộc xã Ứng Hòa – thành phố Hà Nội.png|trái|nhỏ|250x250px|Sơ đồ các thôn thuộc xã Ứng Hòa của thành phố Hà Nội (từ ngày 1 tháng 7 năm 2026)<ref name=":02">{{Chú thích web |last=Phùng Lương – Lê Quí |date=2026-06-11 |title=Ứng Hòa triển khai đề án, kế hoạch sắp xếp thôn và hướng dẫn lấy phiếu ý kiến nhân dân trên địa bàn xã |url=https://unghoa.hanoi.gov.vn/dang-uy-hdnd-ubnd/ung-hoa-trien-khai-de-an-ke-hoach-sap-xep-thon-va-huong-dan-lay-phieu-y-kien-nhan-dan-tren-dia-ban-xa-279626061118294934.htm?gidzl=pTjU8SU5MKt9n5edpPvTJCR0MIVKdrr2ZP5RUe3AM4AAn5nvWvDM4ukTLtpMb5CJsC9GB6OyRp9TmeHTJm |url-status=dead |archive-url=https://web.archive.org/web/20260801400809/https://unghoa.hanoi.gov.vn/dang-uy-hdnd-ubnd/ung-hoa-trien-khai-de-an-ke-hoach-sap-xep-thon-va-huong-dan-lay-phieu-y-kien-nhan-dan-tren-dia-ban-xa-279626061118294934.htm?gidzl=pTjU8SU5MKt9n5edpPvTJCR0MIVKdrr2ZP5RUe3AM4AAn5nvWvDM4ukTLtpMb5CJsC9GB6OyRp9TmeHTJm |archive-date=2026-08-01 |access-date=2026-08-01 |website=Trang Thông tin điện tử xã Ứng Hòa – thành phố Hà Nội}}</ref>]]
+== Hành chính==
+Xã Ứng Hòa được chia thành 16 thôn: An Phú, Đại Bối, Đại Cường, Đại Hùng, Đạo Tú, Đông Lỗ, Đồng Tân, Đồng Thịnh, Hòa Lâm, Hùng Vương, Kim Đường, Kim Phượng, Minh Đường, Minh Đức, Trầm Lộng và Trung Tú.<ref name=":02" /><ref name=":1" />
+{| class="wikitable sortable" align="center" width="100%" cellspacing="6" cellpadding="0" style="background: #f9f9f9; border: 1px #aaa solid; margin-top: 16px"
+! colspan="4" style="background: #E6E6FA; font-size: 95%;" |Danh sách các thôn thuộc xã Ứng Hòa<ref name=":02" /><ref name=":1" />
+|-
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |An Phú
+|1.064
+|-
+| align="left" |Đại Bối
+|859
+|-
+| align="left" |Đại Cường
+|1.154
+|-
+| align="left" |Đại Hùng
+|834
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Đạo Tú
+|1.338
+|-
+| align="left" |Đông Lỗ
+|1.047
+|-
+| align="left" |Đồng Tân
+|1.222
+|-
+| align="left" |Đồng Thịnh
+|979
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Hòa Lâm
+|1.284
+|-
+| align="left" |Hùng Vương
+|1.021
+|-
+| align="left" |Kim Đường
+|1.300
+|-
+| align="left" |Kim Phượng
+|918
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Minh Đường
+|841
+|-
+| align="left" |Minh Đức
+|1.152
+|-
+| align="left" |Trầm Lộng
+|1.085
+|-
+| align="left" |Trung Tú
+|1.232
+|}
+|}<!-- 
+== Lịch sử, địa lý== 
+Trung Tú xưa thuộc Tổng Đạo Tú, Phủ Ứng Thiên (hay Phủ Ứng Hòa), tỉnh [[Hà Đông (tỉnh)| Hà Đông]] cũ. Cái tên Trung Tú nghĩa là nằm giữa tổng Đạo Tú.
+
+Trong thời kỳ [[chiến tranh Đông Dương]], Trầm Lộng là nơi hoạt động và nuôi dấu các ông: [[Đỗ Mười]], [[Hoàng Quốc Việt]]...Trầm lộng là cơ quan đầu não kháng chiến trong khu vực Khu Cháy {{fact| date = 7-2014}}.
+
+Trong thời kỳ [[chiến tranh Việt Nam]], Trầm lộng là một điển hình của [[Việt Nam Dân chủ Cộng hòa]] về giao nhiều quân, thực hiện các phong trào: [[Thanh niên ba sẵn sàng]], [[Phụ nữ ba đảm đang]], [[Gậy Trường sơn tặng người thân lên đường nhập ngũ]].
+
+Di tích [[chùa Chòng]] và chợ Chòng cũ nay vẫn còn, là di tích lịch sử an toàn khu đã được [[Nhà nước]] [[Việt Nam]] xếp hạng.... {{fact| date = 7-2014}}
+
+Trầm Lộng có nền kinh tế thuần nông, có nghề phụ nhưng chưa đóng góp nhiều vào việc cải thiện đời sống người dân. Chăn nuôi cũng đang là nghề mở ra hướng đi mới cho người dân và mang lại thu nhập đáng kể. Tuy nhiên do tình hình thiếu điện chung của cả nước, nên ngành nghề này đang gặp rất nhiều khó khăn.
+
+Trầm Lộng có một trường [[tiểu học]] (Tiểu học Trầm Lộng) và một trường [[trung học cơ sở]] (Trường trung học cơ sở Trầm Lộng).
+
+Làng nghề may áo dài Trạch Xá là một làng nghề lâu đời ở Việt Nam. Trạch Xá, xã Hòa Lâm là quê hương của bà tổ nghề may [[Nguyễn Thị Sen (hoàng hậu)| Nguyễn Thị Sen]]. Bà là hoàng hậu thứ tư của Vua [[Đinh Tiên Hoàng]] sau đã về quê hương để truyền nghề cho dân làng.
+
+== Lịch sử== 
+Xã Kim Đường trước có tên là xã '''Ngũ Lão'''
+
+ -->
+
+== Nhân vật nổi bật== 
+* [[Nguyễn Thị Sen (hoàng hậu)|'''Nguyễn Thị Sen''']] (thế kỷ X) là tứ phi Hoàng hậu [[nhà Đinh]], một trong những người vợ của vua [[Đinh Tiên Hoàng]] trong lịch sử Việt Nam.
+
+== Chú thích== 
+{{tham khảo}}
+
+== Tham khảo ==
+{{sơ khai Hà Nội}}
+{{Đơn vị hành chính thuộc thành phố Hà Nội}}

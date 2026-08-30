@@ -1,0 +1,329 @@
+{{Thông tin đơn vị hành chính Việt Nam|Xã
+| tên = Phù Đổng
+| hình = The_Water_pavillion_in_Phu_Dong_Shrine.JPG 
+| ghi chú hình = Thủy đình [[đền Phù Đổng]] 
+| vĩ độ = 21.074636439143767
+| kinh độ = 105.9260698082415
+| diện tích = 41,62 km²
+| dân số = 111.484 người
+| thời điểm dân số = 2025
+| mật độ dân số = {{formatnum:{{#expr:floor({{formatnum:111.484| R}}/{{formatnum:41,62| R}})}} }} người/km²
+| vùng = [[Đồng bằng sông Hồng]]
+| thành phố = [[Hà Nội]]
+| thành lập = 
+| trụ sở UBND =Thôn Thượng<ref>{{Chú thích web |url=https://storage-vnportal.vnpt.vn/gov-hni/6244/VanBan/2025/6/25/TB-729-2025.pdf |title=Thông báo số 729/TB-UBND ngày 25 tháng 6 năm 2025 của Ủy ban nhân dân thành phố Hà Nội về địa điểm trụ sở làm việc của 126 phường, xã sau sắp xếp thuộc phạm vi quản lý của thành phố Hà Nội|access-date=2026-06-15 |archive-date=2026-06-15 |archive-url=https://web.archive.org/web/20260615034519/https://storage-vnportal.vnpt.vn/gov-hni/6244/VanBan/2025/6/25/TB-729-2025.pdf |url-status=dead | website = Cổng Thông tin điện tử Ủy ban nhân dân thành phố Hà Nội}}</ref> 
+| mã hành chính =00541<ref>{{Chú thích web |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/19ttg.signed.pdf |title=Quyết định số 19/2025/QĐ-TTg ngày 30 tháng 6 năm 2025 của Thủ tướng Chính phủ về việc Ban hành Bảng danh mục và mã số các đơn vị hành chính Việt Nam |access-date=2026-06-15 |archive-date=2026-06-15 |archive-url=https://web.archive.org/web/20260615034519/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/19ttg.signed.pdf |url-status=dead | website = Cổng Thông tin điện tử Chính phủ}}</ref> 
+| mã bưu chính = 
+|bản đồ 1={{maplink|frame=yes|plain=yes|type=shape|frame-width=280|frame-align=center|stroke-width=3}}|web={{url|phudong.hanoi.gov.vn}}|trụ sở Đảng ủy=Thôn Thượng}}{{other|Phù Đổng (định hướng)}}
+'''Phù Đổng''' là một [[Xã (Việt Nam)|xã]] thuộc thành phố [[Hà Nội]], [[Việt Nam]].
+
+== Địa lý== 
+Xã Phù Đổng có vị trí địa lý:
+*Phía đông giáp phường [[Phù Khê]], phường [[Từ Sơn (phường)|Từ Sơn]] và xã [[Đại Đồng, Bắc Ninh|Đại Đồng]] thuộc tỉnh [[Bắc Ninh]]
+*Phía tây giáp phường [[Việt Hưng, Hà Nội|Việt Hưng]] và phường [[Phúc Lợi (phường)|Phúc Lợi]] với ranh giới tự nhiên là [[sông Đuống]]
+*Phía nam giáp xã [[Gia Lâm, Hà Nội|Gia Lâm]] và xã [[Thuận An, Hà Nội|Thuận An]] với ranh giới tự nhiên là [[sông Đuống]]
+*Phía bắc giáp xã [[Đông Anh (xã)|Đông Anh]] và xã [[Thư Lâm]].<ref>{{Chú thích web |last=Viện nghiên cứu Phát triển kinh tế – xã hội Hà Nội|date=2025-07-02|title=Xã Phù Đổng: Những thông tin chi tiết sau sắp xếp|url=https://hanoionline.vn/xa-phu-dong-nhung-thong-tin-chi-tiet-sau-sap-xep-344052.htm|url-status=live|archive-url=https://web.archive.org/web/20260701400809/https://hanoionline.vn/xa-phu-dong-nhung-thong-tin-chi-tiet-sau-sap-xep-344052.htm|archive-date=2026-07-01|access-date=2026-07-01|website=Cơ quan Báo và Phát thanh Truyền hình Hà Nội}}</ref><ref>{{Chú thích web|last=Cơ quan Báo và Phát thanh Truyền hình Hà Nội|date=2025-07-04|title=Xã Phù Đổng: Tất cả thông tin chỉ dẫn bạn cần biết|url=https://hanoionline.vn/xa-phu-dong-tat-ca-thong-tin-chi-dan-ban-can-biet-345369.htm|url-status=bot: unknown|archive-url=https://web.archive.org/web/20250809024252/https://hanoionline.vn/xa-phu-dong-tat-ca-thong-tin-chi-dan-ban-can-biet-345369.htm|archive-date=2025-08-09|access-date=2026-07-11}}</ref>
+Xã Phù Đổng có diện tích tự nhiên là 41,62 km<sup>2</sup>, quy mô dân số năm 2025 là 111.484 người và mật độ dân số đạt 2.678 người/km<sup>2</sup>.<ref>{{Chú thích web|last=Mai Hữu|date=2026-04-05|title=Hà Nội: Chi tiết phương án tổng thể sắp xếp đơn vị hành chính cấp xã|url=https://hanoimoi.vn/ha-noi-chi-tiet-phuong-an-tong-the-sap-xep-don-vi-hanh-chinh-cap-xa-700278.html|url-status=bot: unknown|archive-url=https://web.archive.org/web/20250710163328/https://hanoimoi.vn/ha-noi-chi-tiet-phuong-an-tong-the-sap-xep-don-vi-hanh-chinh-cap-xa-700278.html|archive-date=2025-07-10|access-date=2026-07-11|website=Cơ quan Báo và Phát thanh, truyền hình Hà Nội}}</ref><ref>Công văn số 2896/BNV-CQĐP ngày 27 tháng 5 năm 2025 của Bộ Nội vụ về việc cung cấp thông tin danh mục dự kiến đơn vị hành chính cấp xã mới.</ref>
+
+== Lịch sử==
+
+=== Trước năm 1976 ===
+Năm Canh Tuất năm 1490, vua [[Lê Thánh Tông]] cho định lại bản đồ cả nước, gồm 13 (đạo) xứ thừa tuyên (sau gọi là xứ). Từ triều Tây Sơn tới đầu triều Nguyễn đổi sang gọi là trấn. Theo đó, xã Phù Đổng thuộc huyện Tiên Du trực thuộc phủ Từ Sơn, trấn Kinh Bắc.
+
+Năm 1831, vua Minh Mạng thực hiện cuộc cải cách hành chính thống nhất trong cả nước, theo đó bãi bỏ cấp tổng trấn; chuyển các trấn, dinh thành tỉnh. Theo đó, xã Phù Đổng trực thuộc huyện Tiên Du, tỉnh Bắc Ninh.
+
+Ngày 20 tháng 4 năm 1961, Quốc hội ban hành Nghị quyết<ref>{{Chú thích web| url = https://m.thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Nghi-Quyet-mo-rong-thanh-pho-Ha-Noi-42689.aspx| tựa đề = Nghị quyết về việc mở rộng thành phố Hà Nội | tác giả = | ngày = | website = Thư viện Pháp luật | url lưu trữ = | ngày lưu trữ = | ngày truy cập = }}</ref> về việc sáp nhập xã Phù Đổng vào thành phố Hà Nội quản lý.
+
+Ngày 31 tháng 5 năm 1961, Hội đồng Chính phủ ban hành 78-CP.<ref>{{Chú thích web| url = https://m.thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-78-CP-chia-khu-vuc-noi-ngoai-thanh-thanh-pho-Ha-Noi-20286.aspx| tựa đề = Quyết định số 78-CP năm 1961 chia các khu vực nội thành và ngoại thành của Thành phố Hà Nội | tác giả = | ngày = | website = Thư viện Pháp luật | url lưu trữ = | ngày lưu trữ = | ngày truy cập = }}</ref> Theo đó, xã Phù Đổng thuộc huyện Gia Lâm, thành phố Hà Nội quản lý.
+
+Ngày 15 tháng 3 năm 1967, thành phố Hà Nội ban hành Quyết định về việc sáp nhập thôn Đổng Xuyên (Gióng Mốt) thuộc xã Phù Đổng vào xã Đặng Xá.<ref name = ĐA>{{chú thích sách| author = UBND huyện Gia Lâm | url = http://gialam.hanoi.gov.vn/documents/291387/8044749/%C4%90%E1%BB%81+%C3%A1n+th%C3%A0nh+l%E1%BA%ADp+qu%C3%A2n+Gia+L%C3%A2m+v%C3%A0+c%C3%A1c+ph%C6%B0%E1%BB%9Dng.pdf/bb4a0fd2-3739-4619-afa8-a0a1f5261e9c| title = Đề án thành lập quận Gia Lâm và các phường thuộc quận Gia Lâm, thành phố Hà Nội | year = 2023 | location = Gia Lâm, Hà Nội | p = 126-127-128 | url-status = live| archive-url = https://web.archive.org/web/20230812224556/http://gialam.hanoi.gov.vn/documents/291387/8044749/%C4%90%E1%BB%81+%C3%A1n+th%C3%A0nh+l%E1%BA%ADp+qu%C3%A2n+Gia+L%C3%A2m+v%C3%A0+c%C3%A1c+ph%C6%B0%E1%BB%9Dng.pdf/bb4a0fd2-3739-4619-afa8-a0a1f5261e9c| archive-date = 2023-08-12}}</ref><ref>Lịch sử Đảng bộ và nhân dân xã Đặng Xá, (1930-2015) tr. 13-40, nxb Thông tấn 2018</ref>
+
+=== Giai đoạn 1976 – nay ===
+Sau ngày 2 tháng 7 năm 1976, thị trấn Yên Viên và 9 xã: Cổ Bi, Dương Hà, Đặng Xá, Đình Xuyên, Ninh Hiệp, Phù Đổng, Trung Mầu, Yên Thường, Yên Viên thuộc huyện [[Gia Lâm (huyện)|Gia Lâm]] của thành phố [[Hà Nội]].
+
+Ngày 14 tháng 11 năm 2024:
+
+* Thành lập xã Thiên Đức trên cơ sở nhập xã Đình Xuyên và xã Dương Hà.
+* Nhập xã Trung Mầu vào xã Phù Đổng.<ref>{{Chú thích web |tiêu đề=Nghị quyết số 1286/NQ-UBTVQH15 ngày 14 tháng 11 năm 2024 của Ủy ban Thường vụ Quốc hội về việc sắp xếp đơn vị hành chính cấp xã của thành phố Hà Nội giai đoạn 2023 – 2025 |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/11/1286-qh.signed.pdf |url-status=live |archive-url=https://web.archive.org/web/20241121185017/https://quochoi.vn/tintuc/Pages/tin-hoat-dong-cua-quoc-hoi.aspx?ItemID=91149 |ngày lưu trữ=2024-11-21 |ngày truy cập=2024-11-21 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+
+Ngày 16 tháng 6 năm 2025:
+
+* Kết thúc hoạt động của đơn vị hành chính cấp huyện trong cả nước.<ref>{{Chú thích web |last= |date= |title=Nghị quyết số 203/2025/QH15 ngày 16 tháng 6 năm 2025 của Quốc hội khóa XV, Kỳ họp thứ 9 về việc sửa đổi, bổ sung một số điều của Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/nq-sua-doi-hien-phap.pdf |url-status=live |archive-url=https://web.archive.org/web/20260613090807/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/nq-sua-doi-hien-phap.pdf |archive-date=2026-06-13 |access-date=2026-06-13 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+* Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của thị trấn Yên Viên, các xã Ninh Hiệp, Phù Đổng, Thiên Đức, Yên Thường, Yên Viên, phần còn lại của xã Cổ Bi và phần còn lại của xã Đặng Xá (huyện [[Gia Lâm (huyện)|Gia Lâm]]) thành xã mới có tên gọi là xã Phù Đổng.<ref>{{Chú thích web |title=Nghị quyết số 1656/NQ-UBTVQH15 ngày 16 tháng 6 năm 2025 của Ủy ban Thường vụ Quốc hội về việc sắp xếp các đơn vị hành chính cấp xã của thành phố Hà Nội năm 2025 |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf |url-status=bot: unknown |archive-url=https://web.archive.org/web/20260513110024/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf |archive-date=2026-05-13 |access-date=2026-06-30 |website=Cổng Thông tin điện tử Chính phủ }}</ref>
+* Sau khi sắp xếp, xã Phù Đổng được chia thành 56 tổ dân phố – thôn, gồm 15 tổ dân phố và 41 thôn.<ref>9 tổ dân phố: Đuống 1, 2, Ga, Liên Cơ, Thái Bình, Tiền Phong, Vân, Yên Hà và Yên Tân của thị trấn Yên Viên cũ; 9 thôn, đánh số từ 1 đến 9 của xã Ninh Hiệp cũ; 10 thôn: đánh số từ 1 đến 3, Thịnh Liên (trước thuộc xã Trung Mầu), Đổng Viên, Phù Dực 1, 2 và Phù Đổng từ 1 đến 3 của xã Phù Đổng cũ; 9 tổ dân phố – thôn, gồm 8 thôn: Hạ, Thượng, Trung (trước thuộc xã Dương Hà), từ 1 đến 3, Tế Xuyên 1, 2 và tổ dân phố Yên Bình (trước thuộc xã Đình Xuyên) của xã Thiên Đức cũ; 10 tổ dân phố – thôn, gồm tổ dân phố Dốc Lã và 9 thôn: Đình Vỹ, Đỗ Xá, Lại Hoàng, Liên Đàm, Quy Mông, Trùng Quán, Xuân Dục, Yên Khê, Yên Thường của xã Yên Thường cũ; 9 tổ dân phố – thôn, 4 tổ dân phố: Bưu Điện, Cơ khí Yên Viên, Địa Chất, Hồ Cầu Đuống và 5 thôn: Ái Mộ, Cống Thôn, Kim Quan, Lã Côi, Yên Viên của xã Yên Viên cũ.</ref><ref>{{Chú thích web |title=Thông tư số 10/2022/TT-BTNMT ngày 29 tháng 9 năm 2022 của Bộ Tài nguyên và Môi trường về việc Ban hành Danh mục địa danh dân cư, sơn văn, thủy văn, kinh tế – xã hội phục vụ công tác thành lập bản đồ thành phố Hà Nội |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2022/10/10-btnmt.pdf |url-status=bot: unknown |archive-url=https://web.archive.org/web/20260630082812/https://datafiles.chinhphu.vn/cpp/files/vbpq/2022/10/10-btnmt.pdf |archive-date=2026-06-30 |access-date=2026-06-30 |website=Cổng Thông tin điện tử Chính phủ }}</ref><ref name=":0">{{Chú thích web|last=|date=|title=Quyết định số 7/QĐ-UBBC ngày 13 tháng 2 năm 2026 của Ủy ban bầu cử xã Phù Đổng về việc công bố danh sách chính thức những người ứng cử theo từng Đơn vị bầu cử đại biểu Hội đồng nhân dân xã Phù Đổng nhiệm kỳ 2026 – 2031|url=https://sqhx-hanoi.mediacdn.vn/91579363132710912/2026/2/25/qd-ubbc-so-07-qd-cong-bo-17719871775921642057449.pdf|url-status=bot: unknown|archive-url=https://web.archive.org/web/20260714134318/https://sqhx-hanoi.mediacdn.vn/91579363132710912/2026/2/25/qd-ubbc-so-07-qd-cong-bo-17719871775921642057449.pdf|archive-date=2026-07-14|access-date=2026-07-01|website=Trang Thông tin điện tử xã Phù Đổng – thành phố Hà Nội}}</ref>
+
+Ngày 30 tháng 9 năm 2025, chuyển đổi 15 tổ dân phố: Yên Bình, Cơ Khí Yên Viên, Bưu Điện, Địa Chất, Hồ Cầu Đuống, Đuống 1, 2, Thái Bình, Ga, Vân, Liên Cơ, Tiền Phong, Yên Hà, Yên Tân và Dốc Lã thành thôn; đổi tên 6 thôn, đánh số từ 1 đến 3 trước kia thuộc xã Đình Xuyên (xã Thiên Đức cũ) và từ 1 đến 3 trước thuộc xã Trung Mầu (xã Phù Đổng cũ) lần lượt thành 6 thôn: Công Đình từ 1 đến 3 và từ 1 đến 3 Trung Mầu.<ref>I. Thực hiện chuyển đổi 15 tổ dân phố thành thôn trên địa bàn xã Phủ Đồng như sau: 1. Chuyển tổ dân phố Yên Bình thành thôn Yên Bình; 2. Chuyển tổ dân phố Cơ Khí Yên Viên thành thôn Yên Viên; 3. Chuyển tổ dân phố Bưu Điện thành thôn Bưu Điện; 4. Chuyển tổ dân phố Địa Chất thành thôn Địa Chất; 5. Chuyển tổ dân phố Hồ Cầu Đuống thành thôn Hồ Cầu Đuống; 6. Chuyển tổ dân phố Đuống 1 thành thôn Đuống 1; 7. Chuyển tổ dân phố Đuống 2 thành thôn Đuống 2; 8. Chuyển tổ dân phố Thái Bình thành thôn Thái Bình; 9. Chuyển tổ dân phố Ga thành thôn Ga; 10. Chuyển tổ dân phố Vân thành thôn Vân; 11. Chuyển tổ dân phố Liên Cơ thành thôn Liên Cơ; 12. Chuyển tổ dân phố Tiền Phong thành thôn Tiền Phong; 13. Chuyển tổ dân phố Yên Hà thành thôn Yên Hà; 14. Chuyển tổ dân phố Yên Tân thành thôn Yên Tân; 15. Chuyển tổ dân phố Dốc Lã thành thôn Dốc Lã; II. Thực hiện đổi tên 06 thôn do trùng tên thôn trên địa bàn xã Phù Đồng như sau: 1. Thôn 1, xã Phù Đổng thành thôn Công Đình 1, xã Phù Đổng; 2. Thôn 2, xã Phù Đổng thành thôn Công Đình 2, xã Phù Đổng; 3. Thôn 3, xã Phù Đổng thành thôn Công Đình 3, xã Phù Đổng; 4. Thôn 1, xã Phù Đổng thành thôn 1 Trung Mầu, xã Phù Đổng; 5. Thôn 2, xã Phù Đổng thành thôn 2 Trung Mầu, xã Phù Đổng; 6. Thôn 3, xã Phù Đổng thành thôn 3 Trung Mầu, xã Phù Đổng.</ref><ref>{{Chú thích web |title=Thông báo số 224/TB-UBND ngày 3 tháng 10 năm 2025 của Ủy ban nhân dân xã Phù Đổng về việc chuyển đổi tổ dân phố thành thôn và đổi tên thôn trên địa bàn xã Phù Đổng |url=https://quantrigialam.hanoi.shieldix.app/data/doc/gialamedu/2025/thyenthuong/2025_10/29/tb-so-224-chuyen-doi-tdp-thanh-thon-va-doi-ten-thon_2910202515.pdf |url-status=bot: unknown |archive-url=https://web.archive.org/web/20260711061935/https://quantrigialam.hanoi.shieldix.app/data/doc/gialamedu/2025/thyenthuong/2025_10/29/tb-so-224-chuyen-doi-tdp-thanh-thon-va-doi-ten-thon_2910202515.pdf |archive-date=2026-07-11 |access-date=2026-07-08 }}</ref>
+
+Ngày 24 tháng 12 năm 2025, xác định một phần của xã Phù Đổng là [[Đô thị Việt Nam|đô thị loại III]].<ref>Chuyển tiếp từ thị trấn Yên Viên thuộc huyện Gia Lâm.</ref><ref>{{Chú thích web |title=Nghị quyết số 111/2025/UBTVQH15 ngày 24 tháng 12 năm 2025 của Ủy ban Thường vụ Quốc hội về phân loại đô thị |url=https://cdn.nhandan.vn/files/f4a4abf7f9a0ba4a91744616546d850872b76917f90d5a74cc9eebef1369fb6f/111.pdf |url-status=dead |archive-url=https://web.archive.org/web/20260430074852/https://cdn.nhandan.vn/files/f4a4abf7f9a0ba4a91744616546d850872b76917f90d5a74cc9eebef1369fb6f/111.pdf |archive-date=2026-04-30 |access-date=2026-07-12 |website=Báo Nhân dân }}</ref>
+
+Ngày 29 tháng 6 năm 2026, thành lập 18 thôn mới: Vân, Yên Tân, Cơ khí Yên Viên, Ái Mộ, Cống Thôn, Kim Quan, Yên Viên, Phù Dực, Phù Đổng, Trung Mầu, Tế Xuyên, Công Đình, Yên Xá, Quy Mông và từ 1 đến 4 Ninh Hiệp.<ref>1. Thôn Vân gồm thôn Liên Cơ và thôn Vân; 2. Thôn Yên Tân gồm thôn Yên Tân, thôn Tiền Phong và thôn Yên Bình; 3. Thôn Cơ khí Yên Viên gồm thôn Cơ khí Yên Viên và ngõ 11 thôn Cống Thôn (60 hộ), 10 hộ dân thuộc thôn Tế Xuyên 2, Tiểu đoàn 26 phần giáp đường 34m; 4. Thôn Ái Mộ gồm thôn Ái Mộ, thôn Địa chất, thôn Đuống 1, thôn Hồ Cầu Đuống, 1 phần của thôn Đuống 2 (147 hộ từ ngõ số 2 Phan đăng Lưu đến ngõ số 294) và 1 phần thôn Kim Quan (10 hộ) là khu Đồng Dưa lấy tim đường sắt Lạng Sơn – Hà Nội; 5. Thôn Cống Thôn gồm thôn Cống Thôn (trừ đi khu giáp chân đê đầu đường Yên Viên – Đình Xuyên – Ninh Hiệp chuyển về thôn Cơ Khí Yên Viên) và 1/2 thôn Ga, 279 hộ từ ngõ 420 đến ngõ 292; 6. Thôn Kim Quan gồm thôn Kim Quan, thôn Thái Bình, ½ thôn Ga 279 hộ từ ngõ 292 đến thôn Thái Bình (ngõ 176) và 1 phần thôn Đuống 2 phần giải toả Cầu Đuống mới, 308 hộ); 7. Thôn Yên Viên gồm thôn Yên Viên và thôn Bưu Điện; 8. Thôn Phù Dực gồm thôn Phù Dực 1 và thôn Phù Dực 2; 9. Thôn Phù Đổng gồm thôn Phù Đổng 1, Phù Đổng 2 và thôn Phù Đổng 3; 10. Thôn Trung Mầu gồm thôn 1 Trung Mầu, thôn 2 Trung Mầu và thôn 3 Trung Mầu; 11. Thôn Tế Xuyên gồm thôn Tế Xuyên 1 và thôn Tế Xuyên 2; 12. Thôn Công Đình gồm thôn Công Đình 1, thôn Công Đình 2 và thôn Công Đình 3; 13. Thôn Yên Xá gồm thôn Yên Thường và thôn Đỗ Xá; 14. Thôn Quy Mông gồm thôn Dốc Lã và thôn Quy Mông; 15. Thôn 1 Ninh Hiệp gồm thôn 1, thôn 5 và thôn 3 (trừ đi diện tích ngõ Gạo của thôn 3 chuyển về thôn Ninh Hiệp 2); 16. Thôn 2 Ninh Hiệp gồm thôn 2, thôn 4 và ngõ Gạo của thôn 3 với 50 hộ và một số hộ dân thuộc thôn 6 cũ trên trục đường từ thôn 4 đi Trường Mầm non Ninh Hiệp 10 hộ; 17. Thôn 3 Ninh Hiệp gồm thôn 6 (trừ một số hộ dân thuộc thôn 6 cũ trên trục đường từ thôn 4 đi Trường Mầm non Ninh Hiệp) và thôn 7; 18. Thôn 4 Ninh Hiệp gồm thôn 8 và thôn 9 và 230 hộ khu nhà thấp tầng Tuấn Dung; 19. Giữ nguyên 13 thôn không sáp nhập: Lã Côi, Yên Hà, Đổng Viên, Thịnh Liên, Trung, Hạ, Thượng, Đình Vỹ, Xuân Dục, Yên Khê, Trùng Quán, Liên Đàm và Lại Hoàng.</ref><ref name=":1">{{Chú thích web |title=Đề án tháng 6 năm 2026 của Ủy ban nhân dân xã Phù Đổng về việc sắp xếp các thôn trên địa bàn xã Phù Đổng |url=https://sqhx-hanoi.mediacdn.vn/91579363132710912/2026/6/10/de-an-sap-nhap-thon-106-17810779263261302425777.pdf |url-status=bot: unknown |archive-url=https://web.archive.org/web/20260710153421/https://sqhx-hanoi.mediacdn.vn/91579363132710912/2026/6/10/de-an-sap-nhap-thon-106-17810779263261302425777.pdf |archive-date=2026-07-10 |access-date=2026-07-09 |website=Trang Thông tin điện tử xã Phù Đổng – thành phố Hà Nội }}</ref><ref name=":2">{{Chú thích web |last=Nguyễn Sơn |date=2026-07-01 |title=Xã Phù Đổng công bố các quyết định sắp xếp thôn, kiện toàn nhân sự cơ sở |url=https://phudong.hanoi.gov.vn/tin-tuc-su-kien/xa-phu-dong-cong-bo-cac-quyet-dinh-sap-xep-thon-kien-toan-nhan-su-co-so-2704260701211352135.htm |url-status=live |archive-url=https://web.archive.org/web/20260709401509/https://phudong.hanoi.gov.vn/tin-tuc-su-kien/xa-phu-dong-cong-bo-cac-quyet-dinh-sap-xep-thon-kien-toan-nhan-su-co-so-2704260701211352135.htm |archive-date=2026-07-09 |access-date=2026-07-09 |website=Trang Thông tin điện tử xã Phù Đổng – thành phố Hà Nội}}</ref><!-- 
+== Lịch sử== 
+Trước đây, địa bàn xã Yên Thường thuộc tổng Yên Thường, phủ Từ Sơn, tỉnh Bắc Ninh.
+
+Ngày [[25 tháng 1]] năm [[1948]], Chính phủ đã ban hành Sắc lệnh số 120-SL bãi bỏ cấp phủ. Theo đó, xã Yên Thường thuộc huyện Từ Sơn, tỉnh Bắc Ninh.
+
+Ngày [[9 tháng 7]] năm [[1948]], Ủy ban kháng chiến hành chính liên khu 1 ban hành Quyết định số 422PC/2 về việc hợp nhất 3 xã Thiên Đức, Đình Vỹ và Yên Thường thành xã Quang Trung thuộc huyện Từ Sơn, tỉnh Bắc Ninh.
+
+Ngày [[20 tháng 4]] năm [[1961]], Quốc hội ban hành Nghị quyết<ref>{{Chú thích web| url = https://m.thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Nghi-Quyet-mo-rong-thanh-pho-Ha-Noi-42689.aspx| tựa đề = Nghị quyết về việc mở rộng thành phố Hà Nội | tác giả = | ngày = | website = Thư viện Pháp luật | url lưu trữ = | ngày lưu trữ = | ngày truy cập = }}</ref> về việc sáp nhập xã Quang Trung vào thành phố Hà Nội quản lý.
+
+Ngày [[31 tháng 5]] năm [[1961]], Hội đồng Chính phủ ban hành 78-CP<ref>{{Chú thích web| url = https://m.thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-78-CP-chia-khu-vuc-noi-ngoai-thanh-thanh-pho-Ha-Noi-20286.aspx| tựa đề = Quyết định số 78-CP năm 1961 chia các khu vực nội thành và ngoại thành của Thành phố Hà Nội | tác giả = | ngày = | website = Thư viện Pháp luật | url lưu trữ = | ngày lưu trữ = | ngày truy cập = }}</ref> về việc chia xã Quang Trung thành xã Quang Trung I và Quang Trung II thuộc huyện Gia Lâm, thành phố Hà Nội quản lý.
+
+Năm [[1964]], đổi tên xã Quang Trung II thành xã Yên Thường với 9 thôn.
+
+Năm [[1993]], thành lập tổ dân phố Dốc Lã trên cơ sở một phần diện tích và dân số của thôn Trùng Quán.<ref name = ĐA>{{chú thích sách| author = UBND huyện Gia Lâm | url = http://gialam.hanoi.gov.vn/documents/291387/8044749/%C4%90%E1%BB%81+%C3%A1n+th%C3%A0nh+l%E1%BA%ADp+qu%C3%A2n+Gia+L%C3%A2m+v%C3%A0+c%C3%A1c+ph%C6%B0%E1%BB%9Dng.pdf/bb4a0fd2-3739-4619-afa8-a0a1f5261e9c| title = Đề án thành lập quận Gia Lâm và các phường thuộc quận Gia Lâm, thành phố Hà Nội | year = 2023 | location = Gia Lâm, Hà Nội | p = 72-73 | url-status = live| archive-url = https://web.archive.org/web/20230812224556/http://gialam.hanoi.gov.vn/documents/291387/8044749/%C4%90%E1%BB%81+%C3%A1n+th%C3%A0nh+l%E1%BA%ADp+qu%C3%A2n+Gia+L%C3%A2m+v%C3%A0+c%C3%A1c+ph%C6%B0%E1%BB%9Dng.pdf/bb4a0fd2-3739-4619-afa8-a0a1f5261e9c| archive-date = 2023-08-12}}</ref>
+
+== Lịch sử== 
+Trước đây, xã Đình Xuyên thuộc huyện Đông Ngàn, phủ Từ Sơn, trấn Kinh 
+Bắc.
+
+Dưới thời [[Hùng Vương]], Đình Xuyên nằm trong bộ lạc Rồng của bộ Vũ Ninh.
+
+Dưới thời [[nhà Trần]], hai huyện [[Đông Ngàn (huyện)| Đông Ngàn]] và [[Tiên Du]] ra đời, Đình Xuyên nằm trong phủ [[Từ Sơn]].
+
+Đầu thế kỷ XIX, xã Đình Xuyên được chia thành xã Công Đình và xã Ninh Xuyên.
+
+Năm [[1888]], đổi tên xã Ninh Xuyên thành xã Tế Xuyên.
+
+[[Tháng 4]] năm [[1946]], sáp nhập 2 xã Công Đình và Tế Xuyên thành xã Công Tế.
+
+[[Tháng 8]] năm [[1949]], hợp nhất 3 xã: Phù Ninh, Công Tế, Hạ Dương thành xã Năng Hạ.
+
+[[Tháng 7]] năm [[1955]], xã Năng Hạ được chia thành 3 xã: Ninh Hiệp, Đình Xuyên, Dương Hà thuộc huyện Từ Sơn, tỉnh Bắc Ninh.<ref name = ĐA>{{chú thích sách| author = UBND huyện Gia Lâm | url = http://gialam.hanoi.gov.vn/documents/291387/8044749/%C4%90%E1%BB%81+%C3%A1n+th%C3%A0nh+l%E1%BA%ADp+qu%C3%A2n+Gia+L%C3%A2m+v%C3%A0+c%C3%A1c+ph%C6%B0%E1%BB%9Dng.pdf/bb4a0fd2-3739-4619-afa8-a0a1f5261e9c| title = Đề án thành lập quận Gia Lâm và các phường thuộc quận Gia Lâm, thành phố Hà Nội | year = 2023 | location = Gia Lâm, Hà Nội | p = 149-150 | url-status = live| archive-url = https://web.archive.org/web/20230812224556/http://gialam.hanoi.gov.vn/documents/291387/8044749/%C4%90%E1%BB%81+%C3%A1n+th%C3%A0nh+l%E1%BA%ADp+qu%C3%A2n+Gia+L%C3%A2m+v%C3%A0+c%C3%A1c+ph%C6%B0%E1%BB%9Dng.pdf/bb4a0fd2-3739-4619-afa8-a0a1f5261e9c| archive-date = 2023-08-12}}</ref>
+
+Ngày [[20 tháng 4]] năm [[1961]], Quốc hội ban hành Nghị quyết<ref>{{Chú thích web| url = https://m.thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Nghi-Quyet-mo-rong-thanh-pho-Ha-Noi-42689.aspx| tựa đề = Nghị quyết về việc mở rộng thành phố Hà Nội | tác giả = | ngày = | website = Thư viện Pháp luật | url lưu trữ = | ngày lưu trữ = | ngày truy cập = }}</ref> về việc sáp nhập xã Đình Xuyên vào thành phố Hà Nội quản lý.
+
+Ngày [[31 tháng 5]] năm [[1961]], Hội đồng Chính phủ ban hành 78-CP<ref>{{Chú thích web| url = https://m.thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-78-CP-chia-khu-vuc-noi-ngoai-thanh-thanh-pho-Ha-Noi-20286.aspx| tựa đề = Quyết định số 78-CP năm 1961 chia các khu vực nội thành và ngoại thành của Thành phố Hà Nội | tác giả = | ngày = | website = Thư viện Pháp luật | url lưu trữ = | ngày lưu trữ = | ngày truy cập = }}</ref>. Theo đó, xã Đình Xuyên thuộc huyện Gia Lâm, thành phố Hà Nội quản lý.
+
+Ngày [[9 tháng 12]] năm [[2020]], HĐND TP. Hà Nội ban hành Nghị quyết số 30/NQ-HĐND<ref>{{Chú thích web| url = https://m.thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Nghi-quyet-30-NQ-HDND-2020-thanh-lap-dat-ten-thon-to-dan-pho-thanh-pho-Ha-Noi-461372.aspx| tựa đề = Nghị quyết số 30/NQ-HĐND năm 2020 về việc thành lập đặt tên thôn tổ dân phố thành phố Hà Nội năm 2020 | tác giả = | ngày = 2023-12-09| website = Thư viện Pháp luật | url lưu trữ = | ngày lưu trữ = | ngày truy cập = }}</ref> về việc:
+*Sáp nhập Thôn 2 vào Thôn 1.
+*Thành lập Thôn 2 trên cơ sở Thôn 3 và Thôn 4.
+*Thành lập Thôn 3 trên cơ sở Thôn 5 và Thôn 6. 
+'''Thôn 1 , thôn 2, thôn 3 là 3 thôn thuộc làng Công Đình'''
+*Thành lập Thôn Tế Xuyên 1 trên cơ sở một phần Thôn 7 và Thôn 9.
+*Thành lập Thôn Tế Xuyên 2 trên cơ sở Thôn 8 và một phần còn lại của Thôn 7, Thôn 9.
+*Thành lập TDP Yên Bình trên cơ sở TDP Hòa Bình và TDP Yên Bắc.
+
+== Văn hóa== 
+=== Làng Công Đình=== 
+Trước kia có tên là tùng đình ấp năm 1590 để tránh phạm huý chúa Trịnh tùng dân làng đã cải tên tùng đình thành công đình cho đến ngày nay. Làng Công Đình có đền thờ thần Cây Gạo, tương truyền xưa Đinh Bộ Lĩnh bị giặc đuổi đến bờ sông thì gặp cây gạo bất ngờ đổ xuống thành một cái cầu bắc ngang sông vì thế nhà vua thoát nạn. Cảm ơn cây thần đã giúp đỡ, vua ban chiếu cho dân lập đền thờ và sắc phong thần là Cây Gạo đại vương, cho dân làng thờ làm thành hoàng làng.<ref>{{Chú thích web | url = http://bando.go2.vn/pho/dinh-xuyen-361.htm | ngày truy cập = 2019-01-14 | tựa đề = Phố Đình Xuyên | archive-date = 2019-01-15 | archive-url = https://web.archive.org/web/20190115023448/http://bando.go2.vn/pho/dinh-xuyen-361.htm }}</ref>
+
+Đình làng Công Đình thờ Tả Phù, người làng Phù Ninh, có tài chăn ngựa,có lần ngài vào đền trúc lâm làm lễ mong thánh phủ hộ đánh giắc sau này làm thám tử lập công giúp vua thắng giặc Chúa Bầu nên được phong thưởng, ngài đã cho xây dựng đình làng vào năm 1664. Khi ông mất, dân làng Công Đình tôn làm hậu thần cho thờ tại đình .
+
+Miếu thờ Đại vương Nguyễn Nộn, người gốc làng Gióng (Phù Đổng). Ông từng bắt được vàng nhưng không nộp nên bị truy bắt. Nguyễn Nộn trốn đi rồi tụ quân nổi dậy vào những năm cuối cùng của triều Lý,với danh nghĩa phù lý dẹp trần chiếm giữ cả vùng Bắc Giang. Đầu thời Trần, thế lực ông mạnh, vua phải phong tước vương và gả công chúa cho. Ngài mất vào ngày tháng 3 có nhật thực ( nhằm ngà 1 tháng 3 năm 1229) . Ngài được sắc phong là Hoài đạo vũ hiệu đại vương ( Hoài Đạo Vương). Trong đền còn lưu giữ được 7 đạo sắc phong.
+ Làng công đình nổi tiếng với nghề nấu rượu và làm diêm truyền thống .
+
+=== Làng Tế Xuyên=== 
+Thôn Tế Xuyên có lễ hội truyền thống diễn ra vào ngày 9 - 11 tháng 2 âm lịch hàng năm. Lễ hội tưởng nhớ công ơn của thành hoàng làng, Tướng Đỗ Trung, một tướng người Chăm có công đánh giặc Chà Hòa đời Trần. Đình Tế Xuyên được gọi là Kinh Bắc Hoàng Cung, đây là nơi duy nhất tại Bắc Bộ thờ một danh tướng người Chăm. Trong lễ hội ngoài các nghi lễ truyền thống còn có các trò chơi dân gian khác.
+
+Đình, miếu Tế Xuyên còn gọi là Ninh Xuyên theo tên làng xưa, lại có tên “Kinh Bắc hành cung”. Thời Nguyễn, xã Đình Xuyên nằm trong tổng Hạ Dương, huyện Đông Ngàn, thuộc về phủ Từ Sơn, xứ Kinh Bắc. Đến năm 1961 theo quyết định của Chính phủ VNDCCH, xã Đình Xuyên cùng các xã Yên Thường, Phù Đổng, Ninh Hiệp, Trung Mầu, Dương Hà và thị trấn Yên Viên vốn thuộc hai huyện Từ Sơn, Tiên Du (tỉnh Bắc Ninh) mới đổi về huyện Gia Lâm, Thành phố Hà Nội.
+
+Cụm di tích này được Bộ Văn hóa và Thông tin công nhận là Di tích kiến trúc nghệ thuật quốc gia vào ngày ngày 23 tháng 6 năm 1992.
+
+== Lịch sử== 
+Trước đây, xã Dương Hà thuộc tổng Hạ Dương, phủ Từ Sơn, tỉnh Bắc Ninh. Lúc bấy giờ, Dương Hà được chia thành 6 xã: Hạ Dương, Công Đình, Ninh Xuyên, Ninh Giang, Hiệp Phù, Phù Ninh.
+
+Ngày [[9 tháng 7]] năm [[1948]], Ủy ban kháng chiến Hành chính Liên khu 1 ban hành Quyết định số 422/PC/2 về việc hợp nhất 3 xã: Phù Ninh, Hạ Dương, Công Tế thành xã Năng Hạ thuộc huyện Từ Sơn, tỉnh Bắc Ninh.
+
+[[Tháng 7]] năm [[1955]], Chính phủ ban hành Quyết định chia xã Năng Hạ thành 3 xã: Dương Hà, Đình Xuyên và Ninh Niệp thuộc huyện Từ Sơn, tỉnh Bắc Ninh.<ref name = ĐA>{{chú thích sách| author = UBND huyện Gia Lâm | url = http://gialam.hanoi.gov.vn/documents/291387/8044749/%C4%90%E1%BB%81+%C3%A1n+th%C3%A0nh+l%E1%BA%ADp+qu%C3%A2n+Gia+L%C3%A2m+v%C3%A0+c%C3%A1c+ph%C6%B0%E1%BB%9Dng.pdf/bb4a0fd2-3739-4619-afa8-a0a1f5261e9c| title = Đề án thành lập quận Gia Lâm và các phường thuộc quận Gia Lâm, thành phố Hà Nội | year = 2023 | location = Gia Lâm, Hà Nội | p = 142-143 | url-status = live| archive-url = https://web.archive.org/web/20230812224556/http://gialam.hanoi.gov.vn/documents/291387/8044749/%C4%90%E1%BB%81+%C3%A1n+th%C3%A0nh+l%E1%BA%ADp+qu%C3%A2n+Gia+L%C3%A2m+v%C3%A0+c%C3%A1c+ph%C6%B0%E1%BB%9Dng.pdf/bb4a0fd2-3739-4619-afa8-a0a1f5261e9c| archive-date = 2023-08-12}}</ref>
+
+Ngày [[20 tháng 4]] năm [[1961]], Quốc hội ban hành Nghị quyết<ref>{{Chú thích web| url = https://m.thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Nghi-Quyet-mo-rong-thanh-pho-Ha-Noi-42689.aspx| tựa đề = Nghị quyết về việc mở rộng thành phố Hà Nội | tác giả = | ngày = | website = Thư viện Pháp luật | url lưu trữ = | ngày lưu trữ = | ngày truy cập = }}</ref> về việc sáp nhập xã Dương Hà vào thành phố Hà Nội quản lý.
+
+Ngày [[31 tháng 5]] năm [[1961]], Hội đồng Chính phủ ban hành 78-CP<ref>{{Chú thích web| url = https://m.thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-78-CP-chia-khu-vuc-noi-ngoai-thanh-thanh-pho-Ha-Noi-20286.aspx| tựa đề = Quyết định số 78-CP năm 1961 chia các khu vực nội thành và ngoại thành của Thành phố Hà Nội | tác giả = | ngày = | website = Thư viện Pháp luật | url lưu trữ = | ngày lưu trữ = | ngày truy cập = }}</ref>. Theo đó, xã Dương Hà thuộc huyện Gia Lâm, thành phố Hà Nội quản lý.
+
+== Lịch sử== 
+Trước đây, Trung Mầu là một xã thuộc tổng Dũng Vi, huyện Tiên Du, trấn Kinh Bắc. Lúc bấy giờ, được chia thành xã Thịnh Lân và xã Trung Mâu.
+
+Đầu thế kỷ XX, đổi tên xã Thịnh Lân thành xã Thịnh Liên và đổi tên xã Trung Mâu thành xã Trung Mầu.
+
+Trong kháng chiến chống Pháp, nằm trong xã Toàn Thắng của huyện Gia Lâm.
+
+Năm [[1946]], sáp nhập 2 xã Thịnh Liên và Trung Mầu 
+thành xã Trung Hưng thuộc huyện Tiên Du, tỉnh Bắc Ninh.
+
+Giữa năm [[1956]], làng Trung Mầu và làng Thịnh Liên tách khỏi xã Toàn Thắng để lập thành xã Trung Hưng thuộc huyện Tiên Du, tỉnh Bắc Ninh.
+
+Ngày [[20 tháng 4]] năm [[1961]], Quốc hội ban hành Nghị quyết<ref>{{Chú thích web| url = https://m.thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Nghi-Quyet-mo-rong-thanh-pho-Ha-Noi-42689.aspx| tựa đề = Nghị quyết về việc mở rộng thành phố Hà Nội | tác giả = | ngày = | website = Thư viện Pháp luật | url lưu trữ = | ngày lưu trữ = | ngày truy cập = }}</ref> về việc sáp nhập xã Trung Hưng vào thành phố Hà Nội quản lý.
+
+Ngày [[31 tháng 5]] năm [[1961]], Hội đồng Chính phủ ban hành 78-CP<ref>{{Chú thích web| url = https://m.thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-78-CP-chia-khu-vuc-noi-ngoai-thanh-thanh-pho-Ha-Noi-20286.aspx| tựa đề = Quyết định số 78-CP năm 1961 chia các khu vực nội thành và ngoại thành của Thành phố Hà Nội | tác giả = | ngày = | website = Thư viện Pháp luật | url lưu trữ = | ngày lưu trữ = | ngày truy cập = }}</ref>. Theo đó, xã Trung Hưng thuộc huyện Gia Lâm, thành phố Hà Nội quản lý.
+
+Năm [[1964]], đổi tên xã Trung Hưng thành xã Trung Mầu.<ref name = ĐA>{{chú thích sách| author = UBND huyện Gia Lâm | url = http://gialam.hanoi.gov.vn/documents/291387/8044749/%C4%90%E1%BB%81+%C3%A1n+th%C3%A0nh+l%E1%BA%ADp+qu%C3%A2n+Gia+L%C3%A2m+v%C3%A0+c%C3%A1c+ph%C6%B0%E1%BB%9Dng.pdf/bb4a0fd2-3739-4619-afa8-a0a1f5261e9c| title = Đề án thành lập quận Gia Lâm và các phường thuộc quận Gia Lâm, thành phố Hà Nội | year = 2023 | location = Gia Lâm, Hà Nội | p = 135-136 | url-status = live| archive-url = https://web.archive.org/web/20230812224556/http://gialam.hanoi.gov.vn/documents/291387/8044749/%C4%90%E1%BB%81+%C3%A1n+th%C3%A0nh+l%E1%BA%ADp+qu%C3%A2n+Gia+L%C3%A2m+v%C3%A0+c%C3%A1c+ph%C6%B0%E1%BB%9Dng.pdf/bb4a0fd2-3739-4619-afa8-a0a1f5261e9c| archive-date = 2023-08-12}}</ref>
+
+Ngày [[9 tháng 12]] năm [[2020]], HĐND TP. Hà Nội ban hành Nghị quyết số 30/NQ-HĐND<ref>{{Chú thích web| url = https://m.thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Nghi-quyet-30-NQ-HDND-2020-thanh-lap-dat-ten-thon-to-dan-pho-thanh-pho-Ha-Noi-461372.aspx| tựa đề = Nghị quyết số 30/NQ-HĐND năm 2020 về việc thành lập đặt tên thôn tổ dân phố thành phố Hà Nội năm 2020 | tác giả = | ngày = 2023-12-09| website = Thư viện Pháp luật | url lưu trữ = | ngày lưu trữ = | ngày truy cập = }}</ref> về việc:
+*Sáp nhập Thôn 3 vào thôn 2.
+*Thành lập Thôn 3 trên cơ sở Thôn 4 và Thôn 5.
+
+== Kinh tế== 
+Trung Màu là một xã thuần nông xa trung tâm huyện. Kinh tế phụ thuộc chủ yếu vào nông nghiệp như trồng lúa, trồng màu, chăn nuôi bò, lợn, gà. Nhóm dịch vụ, thương mại, tiểu thủ công nghiệp chưa phát triển.
+
+Những năm qua, Trung Mầu đã thực hiện quyết liệt việc chuyển đổi cơ cấu kinh tế, phát triển trồng trọt chăn nuôi và các ngành nghề phụ như: Trồng cây cảnh, chăn nuôi bò sữa, dâu tằm,... Nhiều mô kinh kinh tế mới đã và đang được hình thành và từng bước được nhân rộng. Năm 2000, Trung Mầu được phong tặng danh hiệu "Đơn vị anh hùng lực lượng vũ trang nhân dân" thời kỳ chống Pháp.
+
+== Văn hóa== 
+[[Tập tin:Đình Thịnh Liên.jpg| nhỏ| phải| 260px| Đình Thịnh Liên thờ 3 vị tướng thời Đinh có công dẹp loạn và lập ra làng Trung Mầu xưa]]
+
+=== Di tích=== 
+Xã Trung Mầu gồm hai làng Trung Mầu và làng Thịnh Liên với 5 di tích lịch sử văn hóa. Làng Trung Mầu xưa có một đình, một nghè, hai chùa (một gọi là Chùa Đô, một gọi là chùa Mới nay xây nhà truyền thống của xã). Làng Thịnh Liên xưa có hai đình hai chùa. Năm 2017, cả 2 làng đều phục dựng lại các ngôi đình với tên gọi là đình Trung Mầu và đình Thịnh Liên. Theo sắc phong còn để lại cả hai làng Trung Mầu và Thịnh Liên đều thờ [[tướng nhà Đinh| ba vị tướng]]: Cao Chương Đại Vương, Cao Gia Đại Vương, Tòng Chinh Đại Vương thời nhà Đinh. Các vị [[tướng nhà Đinh]] này đều là nhân vật cụ thể có công đánh dẹp [[12 sứ quân]] và Chiêm Thành giữ nước thuộc địa phận hai làng được nhà vua phong tướng sắc.<ref>{{Chú thích web | url = https://phatgiaohoabinh.com/ha-noi-le-khoi-cong-phuc-dung-dinh-lang-trung-mau/ | ngày lưu trữ = 2019-07-26 | ngày truy cập = 2019-07-26 | tiêu đề = Hà Nội: Lễ khởi công phục dựng đình làng Trung Mầu | archive-url = https://web.archive.org/web/20190726123935/https://phatgiaohoabinh.com/ha-noi-le-khoi-cong-phuc-dung-dinh-lang-trung-mau/ | url-status = dead }}</ref> Riêng làng Thịnh Liên vì đại bộ phận là dân chài còn thờ thêm vị thần: "Hán Giang Thủy Tộc Long Vương".
+
+Theo cuốn lịch sử các làng ở thủ đô [[Hà Nội]], Trung Mầu có tên nôm là làng Miêu, một làng xưa thờ quốc sư triều Lý [[Nguyễn Minh Không]] (tức [[Lý Quốc Sư]]) tại Chùa Đô. Vì có chiến tích đối với quốc gia, nhà sư đó còn được vua đưa về tưởng niệm tại Kinh đô Thăng Long. Hiện nay có đền thờ ở phố [[Lý Quốc Sư]] quận [[Hoàn Kiếm (quận)| Hoàn Kiếm]] nội thành Hà Nội và ở [[chùa Bái Đính]], [[Ninh Bình]] trên quê hương ông.
+
+== Giao thông== 
+Các tuyến, hệ thống giao thông đi qua xã Trung Mầu:
+* Đường Dốc Lã - Trung Mầu: nối với Quốc lộ 1 cũ đi qua 4 xã của huyện Gia Lâm: Yên Thường, Ninh Hiệp, Phù Đổng, Trung Mầu
+* Đường đê tả Đuống: nối với quốc lộ 1, đê Tiên Du,...
+* Đường sông: xã nằm bên bờ tả ngạn sông Đuống
+* Hệ thống xe buýt: 42.
+ -->
+
+== Hành chính == 
+Xã Phù Đổng được chia thành 31 thôn: từ 1 đến 4 Ninh Hiệp, Ái Mộ, Công Đình, Cống Thôn, Cơ khí Yên Viên, Đình Vỹ, Đổng Viên, Hạ, Kim Quan, Lã Côi, Lại Hoàng, Liên Đàm, Phù Dực, Phù Đổng, Quy Mông, Tế Xuyên, Thịnh Liên, Thượng, Trung, Trung Mầu, Trùng Quán, Vân, Xuân Dục, Yên Hà, Yên Khê, Yên Tân, Yên Viên, Yên Xá.<ref name=":1" /><ref name=":2" />
+{| class="wikitable sortable" align="center" width="100%" cellspacing="6" cellpadding="0" style="background: #f9f9f9; border: 1px #aaa solid; margin-top: 16px"
+! colspan="4" style="background: #E6E6FA; font-size: 95%;" |Danh sách các thôn thuộc xã Phù Đổng<ref name=":1" /><ref name=":2" />
+|-
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |1 Ninh Hiệp
+|1.741
+|-
+| align="left" |2 Ninh Hiệp
+|1.109
+|-
+| align="left" |3 Ninh Hiệp
+|1.300
+|-
+| align="left" |4 Ninh Hiệp
+|1.331
+|-
+| align="left" |Ái Mộ
+|1.008
+|-
+| align="left" |Công Đình
+|1.749
+|-
+| align="left" |Cống Thôn
+|894
+|-
+| align="left" |Cơ khí Yên Viên
+|702
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Đình Vỹ
+|803
+|-
+| align="left" |Đổng Viên
+|1.021
+|-
+| align="left" |Hạ
+|611
+|-
+| align="left" |Kim Quan
+|1.593
+|-
+| align="left" |Lã Côi
+|1.037
+|-
+| align="left" |Lại Hoàng
+|504
+|-
+| align="left" |Liên Đàm
+|512
+|-
+| align="left" |Phù Dực
+|1.746
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Phù Đổng
+|1.922
+|-
+| align="left" |Quy Mông
+|613
+|-
+| align="left" |Tế Xuyên
+|1.012
+|-
+| align="left" |Thịnh Liên
+|315
+|-
+| align="left" |Thượng
+|633
+|-
+| align="left" |Trung
+|1.038
+|-
+| align="left" |Trung Mầu
+|1.701
+|-
+| align="left" |Trùng Quán
+|928
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Vân
+|1.026
+|-
+| align="left" |Xuân Dục
+|1.111
+|-
+| align="left" |Yên Hà
+|688
+|-
+| align="left" |Yên Khê
+|732
+|-
+| align="left" |Yên Tân
+|1.434
+|-
+| align="left" |Yên Viên
+|959
+|-
+| align="left" |Yên Xá
+|707
+|}
+|}
+
+== Kinh tế==
+Là xã nằm bên bờ sông Đuống đất đai rộng rãi, Phù Đổng có lợi thế phát triển mạnh ngành nông nghiệp, chăn nuôi. Ngoài sản xuất nông nghiệp như cấy lúa, trồng ngô bãi, rau màu thì nghề chăn nuôi bò sữa ở đây cũng khá phát triển và phân bố ở nhiều thôn và nhiều xóm thúc đẩy phát triển kinh tế hộ cá thể. Thêm vào đó ở xã có nghề trồng hoa giấy, cây cảnh đã được thành phố Hà Nội cấp giấy chứng nhận làng nghề. Nghề trồng hoa giấy, cây cảnh phát triển mạnh nhất là ở khu vực đường từ hầm chui Quốc lộ 1 mới hướng đi thôn Trung Mầu. Bộ mặt nông thôn trong xã thay đổi tích cực phần lớn là đóng góp từ nghề nuôi bò sữa, cây cảnh, hoa giấy. Gần đây, xã Phù Đổng cũng trở thành một trong những trung tâm buôn bán quần áo lớn nhất miền Bắc sau khi sáp nhập với xã Ninh Hiệp cũ.
+
+== Văn hóa== 
+Theo truyền thuyết thì Phù Đổng là nơi sinh ra Thánh Gióng là một trong Tứ Bất Tử. Các di tích liên quan đến Thánh Gióng đều là những di tích, di sản có giá trị quý báu về văn hóa, lịch sử. Cụm di tích đền Gióng ở thôn Phù Đổng đã được công nhận là di tích cấp quốc gia đặc biệt. Cùng với đó là Lễ hội Gióng Phù Đổng (ngày 9 tháng Tư âm lịch) cũng là di sản phi vật thể của nhân loại đã được UNESCO vinh danh.
+
+Làng Trung Mầu xưa có một đình, một nghè, hai chùa (một gọi là Chùa Đô, một gọi là chùa Mới nay xây nhà truyền thống của xã). Làng Thịnh Liên xưa có hai đình hai chùa. Năm 2017, cả 2 làng đều phục dựng lại các ngôi đình với tên gọi là đình Trung Mầu và đình Thịnh Liên. Theo sắc phong còn để lại cả hai làng Trung Mầu và Thịnh Liên đều thờ [[tướng nhà Đinh|ba vị tướng]]: Cao Chương Đại Vương, Cao Gia Đại Vương, Tòng Chinh Đại Vương thời nhà Đinh. Các vị [[tướng nhà Đinh]] này đều là nhân vật cụ thể có công đánh dẹp [[12 sứ quân]] và Chiêm Thành giữ nước thuộc địa phận hai làng được nhà vua phong tướng sắc.<ref>{{Chú thích web | url = https://phatgiaohoabinh.com/ha-noi-le-khoi-cong-phuc-dung-dinh-lang-trung-mau/ | title = Hà Nội: Lễ khởi công phục dựng đình làng Trung Mầu | access-date = 2025-11-01 | archive-date = 2019-07-26 | archive-url = https://web.archive.org/web/20190726123935/https://phatgiaohoabinh.com/ha-noi-le-khoi-cong-phuc-dung-dinh-lang-trung-mau/ | url-status = dead }}</ref> Riêng làng Thịnh Liên vì đại bộ phận là dân chài còn thờ thêm vị thần: "Hán Giang Thủy Tộc Long Vương".
+
+Theo cuốn lịch sử các làng ở thủ đô [[Hà Nội]], Trung Mầu có tên nôm là làng Miêu, một làng xưa thờ quốc sư triều Lý [[Nguyễn Minh Không]] (tức [[Lý Quốc Sư]]) tại Chùa Đô. Vì có chiến tích đối với quốc gia, nhà sư đó còn được vua đưa về tưởng niệm tại Kinh đô Thăng Long. Hiện nay có đền thờ ở phố [[Lý Quốc Sư]] quận [[Hoàn Kiếm]] nội thành Hà Nội và ở [[chùa Bái Đính]], [[Ninh Bình]] trên quê hương ông.
+
+== Danh nhân==
+
+* Công chúa [[Lê Ngọc Hân]] (1770 - 1799)
+* Quận công Nguyễn Đình Huấn (1717 - 1777). Đền thờ ông đã được xếp hạng là di tích cấp quốc gia năm 1995.
+* Quận công Nguyễn Đăng Doanh.
+* [[Đặng Công Chất]] (1621 - 1683).
+* [[Ngô Xuân Quảng]] (1945 - 1972). Tên ông được đặt cho tuyến phố từ Quốc lộ 5 tới Học viện Nông Nghiệp I.
+* [[Lâm Văn Đoan]] (sinh năm [[1976]]): Trưởng Đoàn [[Danh sách Đại biểu Quốc hội Việt Nam khóa XV|Đại biểu Quốc hội khóa XV]] tỉnh [[Lâm Đồng]], Nguyên Phó Chủ nhiệm [[Ủy ban Xã hội của Quốc hội (Việt Nam)|Ủy ban Xã hội của Quốc hội]]
+
+== Giao thông== 
+Các tuyến, hệ thống giao thông quan trọng ở xã Phù Đổng:
+* Quốc lộ 1 mới (km155 - km158)
+* Tỉnh lộ 270: đi phường Từ Sơn
+* Đường đê tả Đuống: cầu Đuống đi Trung Mầu
+* Đường Dốc Lã: Yên Thường đi Trung Mầu
+* Hệ thống xe buýt: 42, 54, 146, 203, 210...
+
+== Chú thích== 
+{{tham khảo| 30em}}
+
+== Tham khảo==
+
+{{sơ khai Hà Nội}}
+{{Đơn vị hành chính thuộc thành phố Hà Nội}}

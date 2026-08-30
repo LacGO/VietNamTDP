@@ -1,0 +1,177 @@
+{{Thông tin đơn vị hành chính Việt Nam|Xã
+| tên = Yên Xuân
+| hình =Núi Viên Nam - NKS.jpg 
+| ghi chú hình =Núi Viên Nam ở xã Yên Xuân nhìn từ trung tâm thành phố 
+| diện tích = 78,01 km²
+| dân số = 29.375 người
+| thời điểm dân số = 2025
+| mật độ dân số = {{formatnum:{{#expr:floor({{formatnum:29.375| R}}/{{formatnum:78,01| R}})}} }} người/km²
+| vùng = [[Đồng bằng sông Hồng]]
+| thành phố = [[Hà Nội]]
+| thành lập = 
+| trụ sở UBND =Thôn Yên Bình 2<ref>{{Chú thích web |url=https://storage-vnportal.vnpt.vn/gov-hni/6244/VanBan/2025/6/25/TB-729-2025.pdf |title=Thông báo số 729/TB-UBND ngày 25 tháng 6 năm 2025 của Ủy ban nhân dân thành phố Hà Nội về địa điểm trụ sở làm việc của 126 phường, xã sau sắp xếp thuộc phạm vi quản lý của thành phố Hà Nội|access-date=2026-06-15 |archive-date=2026-06-15 |archive-url=https://web.archive.org/web/20260615034519/https://storage-vnportal.vnpt.vn/gov-hni/6244/VanBan/2025/6/25/TB-729-2025.pdf |url-status=dead | website = Cổng Thông tin điện tử Ủy ban nhân dân thành phố Hà Nội}}</ref> 
+| mã hành chính =04930<ref>{{Chú thích web |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/19ttg.signed.pdf |title=Quyết định số 19/2025/QĐ-TTg ngày 30 tháng 6 năm 2025 của Thủ tướng Chính phủ về việc Ban hành Bảng danh mục và mã số các đơn vị hành chính Việt Nam |access-date=2026-06-15 |archive-date=2026-06-15 |archive-url=https://web.archive.org/web/20260615034519/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/19ttg.signed.pdf |url-status=dead | website = Cổng Thông tin điện tử Chính phủ}}</ref> 
+| web = {{url|yenxuan.hanoi.gov.vn}}
+| vĩ độ = 20.99891064487622| kinh độ = 105.46126524546396|bản đồ 1={{maplink|frame=yes|plain=yes|type=shape|frame-width=280|frame-align=center|stroke-width=3}}|trụ sở Đảng ủy=Thôn Tiến Xuân 1}}
+{{other|Yên Xuân (định hướng)}}
+'''Yên Xuân''' là một [[Xã (Việt Nam)|xã]] thuộc thành phố [[Hà Nội]], [[Việt Nam]].
+
+== Địa lý== 
+Xã Yên Xuân có vị trí địa lý:
+
+* Phía đông giáp xã [[Phú Cát]]
+* Phía tây giáp xã [[Thịnh Minh]] và phường [[Kỳ Sơn (phường)|Kỳ Sơn]] thuộc tỉnh [[Phú Thọ]]
+* Phía nam giáp xã [[Lương Sơn, Phú Thọ|Lương Sơn]] thuộc tỉnh [[Phú Thọ]]
+* Phía bắc giáp xã [[Yên Bài]] và xã [[Hòa Lạc, Hà Nội|Hòa Lạc]].<ref>{{Chú thích web |last=Viện nghiên cứu Phát triển kinh tế – xã hội Hà Nội |date=2025-07-02 |title=Xã Yên Xuân: Những thông tin chi tiết sau sắp xếp |url=https://hanoionline.vn/xa-yen-xuan-nhung-thong-tin-chi-tiet-sau-sap-xep-344163.htm |url-status=live |archive-url=https://web.archive.org/web/20260711400809/https://hanoionline.vn/xa-yen-xuan-nhung-thong-tin-chi-tiet-sau-sap-xep-344163.htm |archive-date=2026-07-11 |access-date=2026-07-11 |website=Cơ quan Báo và Phát thanh Truyền hình Hà Nội}}</ref><ref>{{Chú thích web |last=Cơ quan Báo và Phát thanh Truyền hình Hà Nội |date=2025-07-04 |title=Xã Yên Xuân: Tất cả thông tin chỉ dẫn bạn cần biết |url=https://hanoionline.vn/xa-yen-xuan-tat-ca-thong-tin-chi-dan-ban-can-biet-345488.htm |url-status=live |archive-url=https://web.archive.org/web/20260711401509/https://hanoionline.vn/xa-yen-xuan-tat-ca-thong-tin-chi-dan-ban-can-biet-345488.htm |archive-date=2026-07-11 |access-date=2026-07-11}}</ref>
+Xã Yên Xuân có diện tích tự nhiên là 78,01 km<sup>2</sup>, quy mô dân số năm 2025 là 29.375 người và mật độ dân số đạt 376 người/km<sup>2</sup>.<ref>{{Chú thích web |last=Mai Hữu |date=2026-04-05 |title=Hà Nội: Chi tiết phương án tổng thể sắp xếp đơn vị hành chính cấp xã |url=https://hanoimoi.vn/ha-noi-chi-tiet-phuong-an-tong-the-sap-xep-don-vi-hanh-chinh-cap-xa-700278.html |url-status=live |archive-url=https://web.archive.org/web/20260711401509/https://hanoimoi.vn/ha-noi-chi-tiet-phuong-an-tong-the-sap-xep-don-vi-hanh-chinh-cap-xa-700278.html |archive-date=2026-07-11 |access-date=2026-07-11 |website=Cơ quan Báo và Phát thanh, truyền hình Hà Nội}}</ref><ref>Công văn số 2896/BNV-CQĐP ngày 27 tháng 5 năm 2025 của Bộ Nội vụ về việc cung cấp thông tin danh mục dự kiến đơn vị hành chính cấp xã mới.</ref>
+
+== Lịch sử==
+
+=== Trước năm 1976 ===
+
+=== Giai đoạn 1976 – nay ===
+Sau ngày 2 tháng 7 năm 1976, 4 xã: Đông Xuân, Tiến Xuân, Yên Bình và Yên Trung thuộc huyện [[Lương Sơn (huyện)|Lương Sơn]]; 4 xã: Bình Yên, Đồng Trúc, Hạ Bằng và Tân Xã thuộc huyện [[Thạch Thất (huyện)|Thạch Thất]] của tỉnh [[Hà Sơn Bình]].
+
+Ngày 29 tháng 12 năm 1978, sáp nhập huyện [[Thạch Thất (huyện)|Thạch Thất]] của tỉnh [[Hà Sơn Bình]] vào thành phố [[Hà Nội]]. Khi đó, 4 xã: Bình Yên, Đồng Trúc, Hạ Bằng và Tân Xã thuộc huyện [[Thạch Thất (huyện)|Thạch Thất]] của thành phố [[Hà Nội]].<ref>Nghị quyết ngày 29 tháng 12 năm 1978 của Quốc hội khóa VI, Kỳ họp thứ 4 phê chuẩn việc phân vạch lại địa giới thành phố Hà Nội, thành phố Hồ Chí Minh, các tỉnh Hà Sơn Bình, Vĩnh Phú, Cao Lạng, Bắc Thái, Quảng Ninh và Đồng Nai.</ref>
+
+Ngày 12 tháng 8 năm 1991, chia tỉnh [[Hà Sơn Bình]] thành 2 tỉnh, lấy tên là tỉnh [[Hòa Bình (tỉnh)|Hòa Bình]] và tỉnh [[Hà Tây (tỉnh)|Hà Tây]]. Chuyển huyện [[Thạch Thất (huyện)|Thạch Thất]] của thành phố [[Hà Nội]] về tỉnh [[Hà Tây (tỉnh)|Hà Tây]]. Khi đó, 4 xã: Đông Xuân, Tiến Xuân, Yên Bình và Yên Trung thuộc huyện [[Lương Sơn (huyện)|Lương Sơn]] của tỉnh [[Hòa Bình (tỉnh)|Hòa Bình]]; 4 xã: Bình Yên, Đồng Trúc, Hạ Bằng và Tân Xã thuộc huyện [[Thạch Thất (huyện)|Thạch Thất]] của tỉnh [[Hà Tây (tỉnh)|Hà Tây]].<ref>Nghị quyết ngày 12 tháng 8 năm 1991 của Quốc hội khóa VIII, Kỳ họp thứ 9 về việc điều chỉnh địa giới hành chính một số tỉnh, thành phố trực thuộc Trung ương.</ref>
+
+Ngày 29 tháng 8 năm 1994, thành lập xã Thạch Hòa (huyện [[Thạch Thất (huyện)|Thạch Thất]]) trên cơ sở diện tích tự nhiên 102,24 ha, nhân khẩu 2.099 của xã Bình Yên; diện tích tự nhiên 418,72 ha, nhân khẩu 516 của xã Tân Xã; diện tích tự nhiên 556 ha, nhân khẩu 1.402 của xã Hạ Bằng; nhân khẩu 593 của xã Đồng Trúc và diện tích tự nhiên 1.349,92 ha của trường bắn quốc gia A1 (do Bộ Quốc phòng giao lại).<ref>Nghị định số 107-CP ngày 29 tháng 8 năm 1994 của Chính phủ về việc thành lập xã Thạch Hòa, huyện Thạch Thất; thị trấn Phúc Thọ, huyện Phúc Thọ; thị trấn Tây Đằng, huyện Ba Vì, tỉnh Hà Tây.</ref>
+
+Ngày 29 tháng 5 năm 2008:
+
+* Hợp nhất tỉnh [[Hà Tây (tỉnh)|Hà Tây]] vào thành phố [[Hà Nội]]. Khi đó, xã Thạch Hòa thuộc huyện [[Thạch Thất (huyện)|Thạch Thất]] của thành phố [[Hà Nội]].
+* Chuyển toàn bộ diện tích tự nhiên và dân số hiện tại của 4 xã thuộc huyện [[Lương Sơn (huyện)|Lương Sơn]] của tỉnh [[Hòa Bình (tỉnh)|Hòa Bình]] về thành phố [[Hà Nội]], bao gồm: xã Đông Xuân, xã Tiến Xuân, xã Yên Bình, xã Yên Trung.<ref>Nghị quyết số 15/2008/QH12 ngày 29 tháng 5 năm 2008 của Quốc hội khóa XII, Kỳ họp thứ 3 về việc điều chỉnh địa giới hành chính thành phố Hà Nội và một số tỉnh có liên quan.</ref>
+
+Ngày 8 tháng 5 năm 2009, chuyển xã Đông Xuân vào huyện [[Quốc Oai (huyện)|Quốc Oai]] quản lý. Chuyển xã Tiến Xuân, xã Yên Bình, xã Yên Trung vào huyện [[Thạch Thất (huyện)|Thạch Thất]] quản lý.<ref>{{Chú thích web |title=Nghị quyết số 19/NQ-CP ngày 8 tháng 5 năm 2009 của Chính phủ về việc xác lập địa giới hành chính xã Đông Xuân thuộc huyện Quốc Oai; các xã Tiến Xuân, Yên Bình, Yên Trung thuộc huyện Thạch Thất; huyện Mê Linh thuộc thành phố Hà Nội; thành lập quận Hà Đông và các phường trực thuộc; chuyển thành phố Sơn Tây thành thị xã Sơn Tây thuộc thành phố Hà Nội |url=https://chinhphu.vn/default.aspx?pageid=27160&docid=86463 |url-status=dead |archive-url=https://web.archive.org/web/20260725401509/https://chinhphu.vn/default.aspx?pageid=27160&docid=86463 |archive-date=2026-07-25 |access-date=2026-07-25 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+
+Ngày 16 tháng 6 năm 2025:
+
+* Kết thúc hoạt động của đơn vị hành chính cấp huyện trong cả nước.<ref>{{Chú thích web |last= |date= |title=Nghị quyết số 203/2025/QH15 ngày 16 tháng 6 năm 2025 của Quốc hội khóa XV, Kỳ họp thứ 9 về việc sửa đổi, bổ sung một số điều của Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/nq-sua-doi-hien-phap.pdf |url-status=live |archive-url=https://web.archive.org/web/20260613090807/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/nq-sua-doi-hien-phap.pdf |archive-date=2026-06-13 |access-date=2026-06-13 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+* Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của các xã Đông Xuân (huyện [[Quốc Oai (huyện)|Quốc Oai]]), Yên Bình, Yên Trung, phần còn lại của xã Tiến Xuân và phần còn lại của xã Thạch Hòa (huyện [[Thạch Thất (huyện)|Thạch Thất]]) thành xã mới có tên gọi là xã Yên Xuân.<ref>{{Chú thích web |title=Nghị quyết số 1656/NQ-UBTVQH15 ngày 16 tháng 6 năm 2025 của Ủy ban Thường vụ Quốc hội về việc sắp xếp các đơn vị hành chính cấp xã của thành phố Hà Nội năm 2025 |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf |url-status=live |archive-url=https://web.archive.org/web/20260630400809/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf |archive-date=2026-06-30 |access-date=2026-06-30 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+* Sau khi sắp xếp, xã Yên Xuân được chia thành 29 thôn.<ref>7 thôn: Cửa Khâu, Đồng Âm, Đồng Bèn, Đồng Chằm, Đồng Rằng, Lập Thành và Viên Nam của xã Đông Xuân cũ; 6 thôn, đánh số từ 1 đến 6 của xã Yên Bình cũ; 4 thôn: Đầm Bối, Hội Hương, Luồng Lặt và Sổ Tơi của xã Yên Trung cũ; 7 thôn, đánh số từ 1 đến 7 của xã Tiến Xuân cũ.</ref><ref>{{Chú thích web |title=Thông tư số 10/2022/TT-BTNMT ngày 29 tháng 9 năm 2022 của Bộ Tài nguyên và Môi trường về việc Ban hành Danh mục địa danh dân cư, sơn văn, thủy văn, kinh tế – xã hội phục vụ công tác thành lập bản đồ thành phố Hà Nội |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2022/10/10-btnmt.pdf |url-status=live |archive-url=https://web.archive.org/web/20260630400809/https://datafiles.chinhphu.vn/cpp/files/vbpq/2022/10/10-btnmt.pdf |archive-date=2026-06-30 |access-date=2026-06-30 |website=Cổng Thông tin điện tử Chính phủ}}</ref><ref>{{Chú thích web |title=Danh sách Thôn vùng đồng bào dân tộc thiểu số và miền núi, thôn đặc biệt khó khăn giai đoạn 2026 – 2030 trên địa bàn thành phố Hà Nội (Kèm theo Quyết định số 104/QĐ-BDTTG ngày 27 tháng 02 năm 2026 của Bộ trưởng Bộ Dân tộc và Tôn giáo) |url=http://files.ubdt.gov.vn/files/ecm/source_files/2026/03/09/11023866_2.%20H%C3%A0%20N%E1%BB%99i%20(th%C3%B4n).signed_26-03-09.pdf |url-status=dead |archive-url=https://web.archive.org/web/20260812201510/http://files.ubdt.gov.vn/files/ecm/source_files/2026/03/09/11023866_2.%20H%C3%A0%20N%E1%BB%99i%20(th%C3%B4n).signed_26-03-09.pdf |archive-date=2026-08-12 |access-date=2026-08-12 |website=Cổng Thông tin điện tử Bộ Dân tộc và Tôn giáo}}</ref><ref>{{Chú thích web |last=Trang Thông tin điện tử xã Yên Xuân – thành phố Hà Nội |date=2026-02-25 |title=Danh sách chính thức những người ứng cử đại biểu Hội đồng nhân dân xã Yên Xuân khóa II nhiệm kỳ 2026 – 2031 |url=https://yenxuan.hanoi.gov.vn/thong-bao/danh-sach-chinh-thuc-nhung-nguoi-ung-cu-dai-bieu-hoi-dong-nhan-dan-xa-yen-xuan-khoa-ii-nhiem-ky-2026-2031-2760260225110108875.htm |url-status=dead |archive-url=https://web.archive.org/web/20260728201509/https://yenxuan.hanoi.gov.vn/thong-bao/danh-sach-chinh-thuc-nhung-nguoi-ung-cu-dai-bieu-hoi-dong-nhan-dan-xa-yen-xuan-khoa-ii-nhiem-ky-2026-2031-2760260225110108875.htm |archive-date=2026-07-28 |access-date=2026-07-28 |website=}}</ref><ref>{{Chú thích web |last=Trang Thông tin, Kinh tế – Văn hóa xã Yên Xuân – thành phố Hà Nội |date=2026-02-25 |title=Danh sách chính thức những người ứng cử đại biểu Hội đồng nhân dân xã Yên Xuân khóa II, nhiệm kỳ 2026 – 2031 tại đơn vị bầu cử số: 02 (gồm: thôn Đồng Âm, thôn Đồng Bèn, thôn Viên Nam) |url=https://web.facebook.com/photo?fbid=122161305590925544&set=pcb.122161306736925544 |url-status=dead |archive-url=https://web.archive.org/web/20260728201509/https://web.facebook.com/photo?fbid=122161305590925544&set=pcb.122161306736925544 |archive-date=2026-07-28 |access-date=2026-07-28}}</ref>
+Ngày 9 tháng 12 năm 2025, ghép các khu vực dân cư vào 2 thôn: 7 và Đồng Chằm.<ref>{{Chú thích web |last=Trang Thông tin điện tử xã Yên Xuân – thành phố Hà Nội |date=2025-12-09 |title=Kỳ họp thứ 4 Hội đồng nhân dân xã Yên Xuân khoá I nhiệm kỳ 2021 – 2026: Thông qua nhiều Nghị quyết quan trọng |url=https://yenxuan.hanoi.gov.vn/tin-tuc-su-kien/ky-hop-thu-4-hdnd-xa-yen-xuan-khoa-i-nhiem-ky-2021-2026-thong-qua-nhieu-nghi-quyet-quan-trong-276025121117540098.htm |url-status=dead |archive-url=https://web.archive.org/web/20260728201509/https://yenxuan.hanoi.gov.vn/tin-tuc-su-kien/ky-hop-thu-4-hdnd-xa-yen-xuan-khoa-i-nhiem-ky-2021-2026-thong-qua-nhieu-nghi-quyet-quan-trong-276025121117540098.htm |archive-date=2026-07-28 |access-date=2026-07-28}}</ref><ref>{{Chú thích web |last=Đinh Hồng – Hữu Thiện |date=2025-12-24 |title=Xã Yên Xuân: Hội nghị công bố quyết định chỉ định trưởng phó thôn lâm thời |url=https://yenxuan.hanoi.gov.vn/tin-tuc-su-kien/xa-yen-xuan-hoi-nghi-cong-bo-quyet-dinh-chi-dinh-truong-pho-thon-lam-thoi-2760251224214254028.htm?gidzl=WklR5W65Iao6zDyG2vv9I8Vns1eSoqH8cA664npF4K6GzDSI7PqLI9waq1iJpKKInANPIZQrNwHh18HEJW |url-status=dead |archive-url=https://web.archive.org/web/20260728201509/https://yenxuan.hanoi.gov.vn/tin-tuc-su-kien/xa-yen-xuan-hoi-nghi-cong-bo-quyet-dinh-chi-dinh-truong-pho-thon-lam-thoi-2760251224214254028.htm?gidzl=WklR5W65Iao6zDyG2vv9I8Vns1eSoqH8cA664npF4K6GzDSI7PqLI9waq1iJpKKInANPIZQrNwHh18HEJW |archive-date=2026-07-28 |access-date=2026-07-28 |website=Trang Thông tin điện tử xã Yên Xuân – thành phố Hà Nội}}</ref>
+
+Ngày 26 tháng 6 năm 2026, thành lập 10 thôn mới: Đông Xuân 1, 2, Tiến Xuân từ 1 đến 3, Yên Bình từ 1 đến 3, Yên Trung 1 và 2; đổi tên thôn Đồng Chằm thành thôn Đông Xuân 3.<ref>1. Thôn Đông Xuân 1: Thành lập trên cơ sở toàn bộ thôn Viên Nam, thôn Đồng Rằng và thôn Đồng Bèn; 2. Thôn Đông Xuân 2: Thành lập trên cơ sở toàn bộ thôn Cửa Khâu, thôn Lập Thành và thôn Đồng Âm; 3. Thôn Đông Xuân 3: Giữ nguyên toàn bộ thôn Đồng Chằm và đổi tên; 4. Thôn Tiến Xuân 1: Thành lập trên cơ sở toàn bộ thôn 3 Tiến Xuân và thôn 4 Tiến Xuân; 5. Thôn Tiến Xuân 2: Thành lập trên cơ sở toàn bộ thôn 1 Tiến Xuân, thôn 2 Tiến Xuân và thôn 7 Tiến Xuân; 6. Thôn Tiến Xuân 3: Thành lập trên cơ sở toàn bộ thôn 5 Tiến Xuân và thôn 6 Tiến Xuân; 7. Thôn Yên Bình 1: Thành lập trên cơ sở toàn bộ thôn 1 Yên Bình và thôn 2 Yên Bình; 8. Thôn Yên Bình 2: Thành lập trên cơ sở toàn bộ thôn 3 Yên Bình và thôn 4 Yên Bình; 9. Thôn Yên Bình 3: Thành lập trên cơ sở toàn bộ thôn 5 Yên Bình và thôn 6 Yên Bình; 10. Thôn Yên Trung 1: Thành lập trên cơ sở toàn bộ Luồng Lặt, thôn Hội Hương và một phần diện tích của thôn Đầm Bối; 11. Thôn Yên Trung 2: Thành lập trên cơ sở toàn bộ thôn Sổ Tơi và một phần diện tích của thôn Đầm Bối (khu Đồng Tròn).</ref><ref name=":0">{{Chú thích web |last=Trang Thông tin điện tử xã Yên Xuân – thành phố Hà Nội |date=2026-06-13 |title=Đề án sắp xếp thôn trên địa bàn xã Yên Xuân, thành phố Hà Nội |url=https://yenxuan.hanoi.gov.vn/tin-tuc-su-kien/de-an-sap-xep-thon-tren-dia-ban-xa-yen-xuan-thanh-pho-ha-noi-2760260613185251169.htm |url-status=dead |archive-url=https://web.archive.org/web/20260728201509/https://yenxuan.hanoi.gov.vn/tin-tuc-su-kien/de-an-sap-xep-thon-tren-dia-ban-xa-yen-xuan-thanh-pho-ha-noi-2760260613185251169.htm |archive-date=2026-07-28 |access-date=2026-07-28 |website=}}</ref><ref name=":3">{{Chú thích web |title=Thông báo số 522/TB-UBND ngày 30 tháng 6 năm 2026 của Ủy ban nhân dân xã Yên Xuân về việc công bố danh sách các thôn sau sắp xếp trên địa bàn xã Yên Xuân |url=https://web.facebook.com/story.php?story_fbid=122179997828925544&id=61577766322879&rdid=AbHGkfsCPG8T5wZX# |url-status=dead |archive-url=https://web.archive.org/web/20260728201509/https://web.facebook.com/story.php?story_fbid=122179997828925544&id=61577766322879&rdid=AbHGkfsCPG8T5wZX# |archive-date=2026-07-28 |access-date=2026-07-28 |website=Trang Thông tin, Kinh tế – Văn hóa xã Yên Xuân – thành phố Hà Nội}}</ref>
+[[Tập tin:Bản đồ các thôn thuộc xã Yên Xuân – thành phố Hà Nội.png|trái|nhỏ|250x250px|Sơ đồ các thôn thuộc xã Yên Xuân của thành phố Hà Nội (từ ngày 1 tháng 7 năm 2026)<ref name=":0" />]]<!-- 
+== Lịch sử== 
+Dưới [[thời Nguyễn]], vùng đất xã Đông Xuân hiện nay thuộc tổng Dã Cát, huyện Mỹ Lương, phủ [[Quốc Oai (huyện)| Quốc Oai]], tỉnh [[Sơn Tây (tỉnh Việt Nam)| Sơn Tây]]<ref>{{chú thích sách| tác giả = | tựa đề = Đồng Khánh địa dư chí| nhà xuất bản = | year = | nơi = | trang = | url = https://www.google.com/books/edition/同慶地与志/n1M7V3zmKMAC| doi = | id = | isbn = }}</ref>. Đến thời [[Pháp thuộc]], tỉnh Hòa Bình được thành lập, hai xã Bằng Lộ và Đào Lãng thuộc tổng Dã Cát được sáp nhập về châu [[Lương Sơn]], tỉnh Hòa Bình.
+
+Sau [[Cách mạng Tháng Tám]], hai xã Bằng Lộ và Đào Lãng hợp nhất thành xã [[Tiến Xuân]] thuộc huyện Lương Sơn. [[Tháng 10]] năm [[1948]], xã Tiến Xuân được chuyển về huyện [[Kỳ Sơn (huyện Hòa Bình)| Kỳ Sơn]].<ref>{{chú thích sách| tác giả = | tựa đề = Địa chí Hòa Bình| nhà xuất bản = Nhà xuất bản Chính trị quốc gia| year = 2005| nơi = | trang = 834| url = https://www.google.com/books/edition/Địa_ch%C3%AD_Hòa_Bình/jUZRAQAAMAAJ| doi = | id = | isbn = }}</ref>
+
+Ngày [[22 tháng 1]] năm [[1957]], Ủy ban kháng chiến hành chính Liên khu 3 ban hành quyết định chia xã Tiến Xuân thành hai xã Tiến Xuân và Đông Xuân<ref name = ":0">{{chú thích sách| tác giả = | tựa đề = Địa chí Hòa Bình| nhà xuất bản = Nhà xuất bản Chính trị quốc gia| year = 2005| nơi = | trang = 312-313| url = https://www.google.com/books/edition/Địa_ch%C3%AD_Hòa_Bình/jUZRAQAAMAAJ| doi = | id = | isbn = }}</ref>. Ngày [[27 tháng 2]] năm [[1961]], xã Đông Xuân được chuyển về huyện Lương Sơn theo Quyết định số 31-CP của Hội đồng Chính phủ.<ref>{{chú thích sách| tác giả = | tựa đề = Tổng mục lục văn bản quy phạm pháp luật Việt Nam, 1945-2002| nhà xuất bản = Nhà xuất bản Chính trị quốc gia| year = 2003| nơi = | trang = 345| url = https://www.google.com/books/edition/Tỏ̂ng_mục_lục_văn_bản_quy_ph/0acOAQAAMAAJ| doi = | id = | isbn = }}</ref>
+
+Ngày [[1 tháng 8]] năm [[2008]], xã Đông Xuân tách ra khỏi huyện Lương Sơn và sáp nhập vào thành phố [[Hà Nội]] theo Nghị quyết số 15/2008/QH12 của Quốc hội.<ref>{{Chú thích web| url = https://thuvienphapluat.vn/van-ban/bat-dong-san/Nghi-quyet-15-2008-QH12-dieu-chinh-dia-gioi-hanh-chinh-thanh-pho-Ha-Noi-va-mot-so-tinh-co-lien-quan-68076.aspx| tựa đề = Nghị quyết 15/2008/QH12 về việc điều chỉnh địa giới hành chính thành phố Hà Nội và một số tỉnh có liên quan do Quốc hội ban hành| tác giả = | họ = | tên = | ngày = | website = | url lưu trữ = | ngày lưu trữ = | ngày truy cập = }}</ref>
+
+Ngày [[8 tháng 5]] năm [[2009]], Chính phủ ban hành Nghị quyết số 19/NQ-CP<ref name = NQ19>{{Chú thích web| url = https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/Nghi-quyet-19-NQ-CP-xac-lap-dia-gioi-hanh-chinh-88093.aspx| tựa đề = Nghị quyết số 19/NQ-CP về việc xác lập địa giới hành chính xã Đông Xuân thuộc huyện Quốc Oai; các xã Tiến Xuân, Yên Bình, Yên Trung thuộc huyện Thạch Thất; huyện Mê Linh thuộc thành phố Hà Nội; thành lập quận Hà Đông và các phường trực thuộc; chuyển thành phố Sơn Tây thành thị xã Sơn Tây thuộc thành phố Hà Nội| tác giả = | họ = | tên = | ngày = | website = | url lưu trữ = | ngày lưu trữ = | ngày truy cập = }}</ref>. Theo đó, chuyển toàn bộ 1.720,36 ha diện tích tự nhiên và 4.495 người của xã Đông Xuân vào huyện Quốc Oai quản lý.
+
+== Lịch sử== 
+Xã Thạch Hòa được thành lập trên vùng vốn là đất trồng trọt và đất hoang của các xã cực Tây huyện Thạch Thất là [[Tân Xã]], [[Hạ Bằng]], [[Bình Yên, Thạch Thất| Bình Yên]] và [[Đồng Trúc]]. Do nằm sát [[dãy núi Ba Vì]] và là vùng giáp ranh truyền thống giữa tỉnh [[Hà Tây (tỉnh)| Hà Tây]] và tỉnh [[Hòa Bình (tỉnh)| Hòa Bình]] nên dân cư ở khu vực này vốn rất thưa thớt. Cũng vì vậy, trên địa bàn xã không có thôn, làng truyền thống nào.
+
+Tên gọi ''Thạch Hòa'' là từ ghép của ''Thạch Thất'' (tên huyện) và ''Hòa Lạc''. Hòa Lạc vốn là đồn [[lính khố xanh]] thời [[Pháp thuộc]] và là một nút giao tương đối quan trọng, do từ đây có đường đi tới [[Liên Quan| huyện lỵ Thạch Thất]], thị xã [[Sơn Tây (thị xã)| Sơn Tây]], đồn [[Xuân Mai (thị trấn)| Xuân Mai]] và có thể đi sát tới chân núi Ba Vì (mạn [[Sân bay Hòa Lạc| phi trường Hòa Lạc]] ngày nay). Hòa Lạc ngày nay lại là tên gọi của một thôn thuộc xã Bình Yên, nằm giáp với xã Thạch Hòa về phía Đông Bắc.
+
+Sau khi thành lập xã, việc di dân từ các xã khác trong huyện Thạch Thất và các huyện lân cận của tỉnh ([[Ba Vì (huyện)| Ba Vì]], [[Phúc Thọ (huyện)| Phúc Thọ]],...) đã được thúc đẩy. Nhờ vậy, khu vực ngã ba Hòa Lạc nói riêng và xã Thạch Hòa nói chung đã trở nên đông đúc hơn, có sự phát triển tương đối.
+
+Trong suốt lịch sử tồn tại, vùng Thạch Hòa được người địa phương đặt cho nhiều hơn một tên gọi. Khi dân cư còn rất ít thì nơi đây được gọi là ''rừng''{{Cần chú thích}} do sự hoang vu của nó. Vùng giáp với huyện [[Lương Sơn]], tỉnh Hòa Bình lại được gọi bằng tên của xã kế bên – [[Tiến Xuân]]. Trước khi có sự phát triển của [[Khu công nghệ cao Hòa Lạc| khu Công nghệ cao Hòa Lạc]], do người ở địa phương khác hầu như chỉ biết tới cái tên ''Hòa Lạc'' nên họ cũng dùng tên đó để chỉ cả vùng Thạch Hòa.
+
+== Lịch sử== 
+Dưới [[thời Nguyễn]], vùng đất xã Tiến Xuân hiện nay thuộc tổng Dã Cát, huyện Mỹ Lương, phủ [[Quốc Oai (huyện)| Quốc Oai]], tỉnh [[Sơn Tây (tỉnh Việt Nam)| Sơn Tây]]<ref>{{chú thích sách| tác giả = | tựa đề = Đồng Khánh địa dư chí| nhà xuất bản = | year = | nơi = | trang = | url = https://www.google.com/books/edition/同慶地与志/n1M7V3zmKMAC| doi = | id = | isbn = }}</ref>. Đến thời [[Pháp thuộc]], tỉnh Hòa Bình được thành lập, hai xã Bằng Lộ và Đào Lãng thuộc tổng Dã Cát được sáp nhập về châu [[Lương Sơn]], tỉnh Hòa Bình.
+
+Sau [[Cách mạng Tháng Tám]], hai xã Bằng Lộ và Đào Lãng hợp nhất thành xã Tiến Xuân thuộc huyện Lương Sơn. [[Tháng 10]] năm [[1948]], xã Tiến Xuân được chuyển về huyện [[Kỳ Sơn (huyện Hòa Bình)| Kỳ Sơn]].<ref>{{chú thích sách| tác giả = | tựa đề = Địa chí Hòa Bình| nhà xuất bản = Nhà xuất bản Chính trị quốc gia| year = 2005| nơi = | trang = 834| url = https://www.google.com/books/edition/Địa_ch%C3%AD_Hòa_Bình/jUZRAQAAMAAJ| doi = | id = | isbn = }}</ref>
+
+Ngày [[22 tháng 1]] năm [[1957]], Ủy ban kháng chiến hành chính Liên khu 3 ban hành quyết định chia xã Tiến Xuân thành hai xã Tiến Xuân và [[Yên Xuân, Hà Nội| Đông Xuân]]<ref name = ":0">{{chú thích sách| tác giả = | tựa đề = Địa chí Hòa Bình| nhà xuất bản = Nhà xuất bản Chính trị quốc gia| year = 2005| nơi = | trang = 312-313| url = https://www.google.com/books/edition/Địa_ch%C3%AD_Hòa_Bình/jUZRAQAAMAAJ| doi = | id = | isbn = }}</ref>. Ngày [[27 tháng 2]] năm [[1961]], xã Tiến Xuân được chuyển trở lại huyện Lương Sơn theo Quyết định số 31-CP của Hội đồng Chính phủ.<ref>{{chú thích sách| tác giả = | tựa đề = Tổng mục lục văn bản quy phạm pháp luật Việt Nam, 1945-2002| nhà xuất bản = Nhà xuất bản Chính trị quốc gia| year = 2003| nơi = | trang = 345| url = https://www.google.com/books/edition/Tỏ̂ng_mục_lục_văn_bản_quy_ph/0acOAQAAMAAJ| doi = | id = | isbn = }}</ref>
+
+Ngày [[21 tháng 4]] năm [[1965]], Ủy ban Thường vụ Quốc hội ban hành Quyết định 103-NQ-TVQH<ref>{{Chú thích web| url = https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/Quyet-dinh-103-NQ-TVQH-phe-chuan-thanh-lap-tinh-Bac-Thai-Nam-Ha-Ha-Tay-sap-nhap-xa-An-Hoa-Thach-That-Son-Tay-vao-xa-Tien-xuan-Luong-Son-Hoa-Binh-17889.aspx| tựa đề = Quyết định 103-NQ-TVQH năm 1965 về việc phê chuẩn việc thành lập các tỉnh Bắc Thái, Nam Hà, Hà Tây và việc sáp nhập xã An Hòa thuộc huyện Thạch Thất, tỉnh Sơn Tây (cũ) vào xã Tiến Xuân thuộc huyện Lương Sơn, tỉnh Hòa Bình do Ủy ban thường vụ Quốc hội ban hành| tác giả = | họ = | tên = | ngày = | website = | url lưu trữ = | ngày lưu trữ = | ngày truy cập = }}</ref>. Theo đó, sáp nhập xã An Hòa thuộc huyện Thạch Thất, tỉnh Sơn Tây vào xã Tiến Xuân.
+
+Ngày [[1 tháng 8]] năm [[2008]], xã Tiến Xuân tách ra khỏi huyện Lương Sơn và sáp nhập vào thành phố [[Hà Nội]] theo Nghị quyết số 15/2008/QH12 của Quốc hội.<ref>{{Chú thích web| url = https://thuvienphapluat.vn/van-ban/bat-dong-san/Nghi-quyet-15-2008-QH12-dieu-chinh-dia-gioi-hanh-chinh-thanh-pho-Ha-Noi-va-mot-so-tinh-co-lien-quan-68076.aspx| tựa đề = Nghị quyết 15/2008/QH12 về việc điều chỉnh địa giới hành chính thành phố Hà Nội và một số tỉnh có liên quan do Quốc hội ban hành| tác giả = | họ = | tên = | ngày = | website = | url lưu trữ = | ngày lưu trữ = | ngày truy cập = }}</ref>
+
+Ngày [[8 tháng 5]] năm [[2009]], Chính phủ ban hành Nghị quyết số 19/NQ-CP<ref name = NQ19>{{Chú thích web| url = https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/Nghi-quyet-19-NQ-CP-xac-lap-dia-gioi-hanh-chinh-88093.aspx| tựa đề = Nghị quyết số 19/NQ-CP về việc xác lập địa giới hành chính xã Đông Xuân thuộc huyện Quốc Oai; các xã Tiến Xuân, Yên Bình, Yên Trung thuộc huyện Thạch Thất; huyện Mê Linh thuộc thành phố Hà Nội; thành lập quận Hà Đông và các phường trực thuộc; chuyển thành phố Sơn Tây thành thị xã Sơn Tây thuộc thành phố Hà Nội| tác giả = | họ = | tên = | ngày = | website = | url lưu trữ = | ngày lưu trữ = | ngày truy cập = }}</ref>. Theo đó, chuyển toàn bộ 3.457,74 ha diện tích tự nhiên và 6.606 người của xã Tiến Xuân vào huyện Thạch Thất quản lý.
+
+== Lịch sử== 
+Dưới [[thời Nguyễn]], vùng đất xã Yên Bình hiện nay thuộc tổng Hòa Lạc, huyện Mỹ Lương, phủ [[Quốc Oai (huyện)| Quốc Oai]], tỉnh [[Sơn Tây (tỉnh Việt Nam)| Sơn Tây]]<ref>{{chú thích sách| tác giả = | tựa đề = Đồng Khánh địa dư chí| nhà xuất bản = | year = | nơi = | trang = | url = https://www.google.com/books/edition/同慶地与志/n1M7V3zmKMAC| doi = | id = | isbn = }}</ref>. Đến thời [[Pháp thuộc]], tỉnh Hòa Bình được thành lập, hai xã Quang Diệu và Yên Lệ thuộc tổng Hòa Lạc được sáp nhập về châu [[Lương Sơn]], tỉnh Hòa Bình.
+
+Sau [[Cách mạng Tháng Tám]], hai xã Quang Diệu và Yên Lệ hợp nhất thành xã Yên Quang thuộc huyện Lương Sơn. [[Tháng 10]] năm [[1948]], xã Yên Quang được chuyển về huyện [[Kỳ Sơn (huyện Hòa Bình)| Kỳ Sơn]].<ref>{{chú thích sách| tác giả = | tựa đề = Địa chí Hòa Bình| nhà xuất bản = Nhà xuất bản Chính trị quốc gia| year = 2005| nơi = | trang = 834| url = https://www.google.com/books/edition/Địa_ch%C3%AD_Hòa_Bình/jUZRAQAAMAAJ| doi = | id = | isbn = }}</ref>
+
+Ngày [[10 tháng 11]] năm [[1956]], Ủy ban kháng chiến hành chính Liên khu 3 ban hành quyết định chia xã Yên Quang thành 3 xã: Yên Bình, Yên Quang và Yên Trung<ref name = ":0">{{chú thích sách| tác giả = | tựa đề = Địa chí Hòa Bình| nhà xuất bản = Nhà xuất bản Chính trị quốc gia| year = 2005| nơi = | trang = 312| url = https://www.google.com/books/edition/Địa_ch%C3%AD_Hòa_Bình/jUZRAQAAMAAJ| doi = | id = | isbn = }}</ref>. Ngày [[27 tháng 2]] năm [[1961]], xã Yên Bình được chuyển về huyện Lương Sơn theo Quyết định số 31-CP của Hội đồng Chính phủ.<ref>{{chú thích sách| tác giả = | tựa đề = Tổng mục lục văn bản quy phạm pháp luật Việt Nam, 1945-2002| nhà xuất bản = Nhà xuất bản Chính trị quốc gia| year = 2003| nơi = | trang = 345| url = https://www.google.com/books/edition/Tỏ̂ng_mục_lục_văn_bản_quy_ph/0acOAQAAMAAJ| doi = | id = | isbn = }}</ref>
+
+Ngày [[1 tháng 8]] năm [[2008]], xã Yên Bình tách ra khỏi huyện Lương Sơn và sáp nhập vào thành phố [[Hà Nội]] theo Nghị quyết số 15/2008/QH12 của Quốc hội.<ref>{{Chú thích web| url = https://thuvienphapluat.vn/van-ban/bat-dong-san/Nghi-quyet-15-2008-QH12-dieu-chinh-dia-gioi-hanh-chinh-thanh-pho-Ha-Noi-va-mot-so-tinh-co-lien-quan-68076.aspx| tựa đề = Nghị quyết 15/2008/QH12 về việc điều chỉnh địa giới hành chính thành phố Hà Nội và một số tỉnh có liên quan do Quốc hội ban hành| tác giả = | họ = | tên = | ngày = | website = | url lưu trữ = | ngày lưu trữ = | ngày truy cập = }}</ref>
+
+Ngày [[8 tháng 5]] năm [[2009]], Chính phủ ban hành Nghị quyết số 19/NQ-CP<ref name = NQ19>{{Chú thích web| url = https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/Nghi-quyet-19-NQ-CP-xac-lap-dia-gioi-hanh-chinh-88093.aspx| tựa đề = Nghị quyết số 19/NQ-CP về việc xác lập địa giới hành chính xã Đông Xuân thuộc huyện Quốc Oai; các xã Tiến Xuân, Yên Bình, Yên Trung thuộc huyện Thạch Thất; huyện Mê Linh thuộc thành phố Hà Nội; thành lập quận Hà Đông và các phường trực thuộc; chuyển thành phố Sơn Tây thành thị xã Sơn Tây thuộc thành phố Hà Nội| tác giả = | họ = | tên = | ngày = | website = | url lưu trữ = | ngày lưu trữ = | ngày truy cập = }}</ref>. Theo đó, chuyển toàn bộ 2.073,06 ha diện tích tự nhiên và 5.875 người của xã Yên Bình vào huyện Thạch Thất quản lý.
+
+== Lịch sử== 
+Dưới [[thời Nguyễn]], vùng đất xã Yên Trung hiện nay thuộc tổng Hòa Lạc, huyện Mỹ Lương, phủ [[Quốc Oai (huyện)| Quốc Oai]], tỉnh [[Sơn Tây (tỉnh Việt Nam)| Sơn Tây]]<ref>{{chú thích sách| tác giả = | tựa đề = Đồng Khánh địa dư chí| nhà xuất bản = | year = | nơi = | trang = | url = https://www.google.com/books/edition/同慶地与志/n1M7V3zmKMAC| doi = | id = | isbn = }}</ref>. Đến thời [[Pháp thuộc]], tỉnh Hòa Bình được thành lập, hai xã Quang Diệu và Yên Lệ thuộc tổng Hòa Lạc được sáp nhập về châu [[Lương Sơn]], tỉnh Hòa Bình.
+
+Sau [[Cách mạng Tháng Tám]], hai xã Quang Diệu và Yên Lệ hợp nhất thành xã Yên Quang thuộc huyện Lương Sơn. [[Tháng 10]] năm [[1948]], xã Yên Quang được chuyển về huyện [[Kỳ Sơn (huyện Hòa Bình)| Kỳ Sơn]].<ref>{{chú thích sách| tác giả = | tựa đề = Địa chí Hòa Bình| nhà xuất bản = Nhà xuất bản Chính trị quốc gia| year = 2005| nơi = | trang = 834| url = https://www.google.com/books/edition/Địa_ch%C3%AD_Hòa_Bình/jUZRAQAAMAAJ| doi = | id = | isbn = }}</ref>
+
+Ngày [[10 tháng 11]] năm [[1956]], Ủy ban kháng chiến hành chính Liên khu 3 ban hành quyết định chia xã Yên Quang thành 3 xã: Yên Bình, Yên Quang và Yên Trung<ref name = ":0">{{chú thích sách| tác giả = | tựa đề = Địa chí Hòa Bình| nhà xuất bản = Nhà xuất bản Chính trị quốc gia| year = 2005| nơi = | trang = 312| url = https://www.google.com/books/edition/Địa_ch%C3%AD_Hòa_Bình/jUZRAQAAMAAJ| doi = | id = | isbn = }}</ref>. Ngày [[27 tháng 2]] năm [[1961]], xã Yên Trung được chuyển về huyện Lương Sơn theo Quyết định số 31-CP của Hội đồng Chính phủ.<ref>{{chú thích sách| tác giả = | tựa đề = Tổng mục lục văn bản quy phạm pháp luật Việt Nam, 1945-2002| nhà xuất bản = Nhà xuất bản Chính trị quốc gia| year = 2003| nơi = | trang = 345| url = https://www.google.com/books/edition/Tỏ̂ng_mục_lục_văn_bản_quy_ph/0acOAQAAMAAJ| doi = | id = | isbn = }}</ref>
+
+Ngày [[1 tháng 8]] năm [[2008]], xã Yên Trung tách ra khỏi huyện Lương Sơn và sáp nhập vào thành phố [[Hà Nội]] theo Nghị quyết số 15/2008/QH12 của Quốc hội.<ref>{{Chú thích web| url = https://thuvienphapluat.vn/van-ban/bat-dong-san/Nghi-quyet-15-2008-QH12-dieu-chinh-dia-gioi-hanh-chinh-thanh-pho-Ha-Noi-va-mot-so-tinh-co-lien-quan-68076.aspx| tựa đề = Nghị quyết 15/2008/QH12 về việc điều chỉnh địa giới hành chính thành phố Hà Nội và một số tỉnh có liên quan do Quốc hội ban hành| tác giả = | họ = | tên = | ngày = | website = | url lưu trữ = | ngày lưu trữ = | ngày truy cập = }}</ref>
+
+Ngày [[8 tháng 5]] năm [[2009]], Chính phủ ban hành Nghị quyết số 19/NQ-CP<ref name = NQ19>{{Chú thích web| url = https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/Nghi-quyet-19-NQ-CP-xac-lap-dia-gioi-hanh-chinh-88093.aspx| tựa đề = Nghị quyết số 19/NQ-CP về việc xác lập địa giới hành chính xã Đông Xuân thuộc huyện Quốc Oai; các xã Tiến Xuân, Yên Bình, Yên Trung thuộc huyện Thạch Thất; huyện Mê Linh thuộc thành phố Hà Nội; thành lập quận Hà Đông và các phường trực thuộc; chuyển thành phố Sơn Tây thành thị xã Sơn Tây thuộc thành phố Hà Nội| tác giả = | họ = | tên = | ngày = | website = | url lưu trữ = | ngày lưu trữ = | ngày truy cập = }}</ref>. Theo đó, chuyển toàn bộ 1.532,76 ha diện tích tự nhiên và 3.278 người của xã Yên Trung vào huyện Thạch Thất quản lý.
+-->
+
+== Hành chính==
+Xã Yên Xuân được chia thành 11 thôn: Đông Xuân từ 1 đến 3, Tiến Xuân từ 1 đến 3, Yên Bình từ 1 đến 3 và Yên Trung 1, 2.<ref name=":0" /><ref name=":3" />
+{| class="wikitable sortable" align="center" width="100%" cellspacing="6" cellpadding="0" style="background: #f9f9f9; border: 1px #aaa solid; margin-top: 16px"
+! colspan="4" style="background: #E6E6FA; font-size: 95%;" |Danh sách các thôn thuộc xã Yên Xuân<ref name=":0" /><ref name=":3" />
+|-
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Đông Xuân 1
+|727
+|-
+| align="left" |Đông Xuân 2
+|634
+|-
+| align="left" |Đông Xuân 3
+|604
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Tiến Xuân 1
+|539
+|-
+| align="left" |Tiến Xuân 2
+|764
+|-
+| align="left" |Tiến Xuân 3
+|613
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Yên Bình 1
+|709
+|-
+| align="left" |Yên Bình 2
+|603
+|-
+| align="left" |Yên Bình 3
+|607
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Yên Trung 1
+|571
+|-
+| align="left" |Yên Trung 2
+|412
+|}
+|}
+
+== Chú thích==
+{{tham khảo}}
+
+== Tham khảo ==
+{{Sơ khai Hà Nội}}{{Đơn vị hành chính thuộc thành phố Hà Nội}}

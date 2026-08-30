@@ -1,0 +1,482 @@
+{{Thông tin đơn vị hành chính Việt Nam |Phường
+| tên = Tương Mai
+| hình=Ngã ba giao phố Tân Mai và đường hồ Đền Lừ.jpg
+| ghi chú hình =Ngã ba giao cắt phố Tân Mai (đường vành đai 2,5) và đường hồ Đền Lừ, phía Tây Nam công viên hồ Đền Lừ
+| vĩ độ = 20.98847926847348
+| kinh độ = 105.85487152089983
+| diện tích = 3,56 km²
+| dân số = 136.292 người
+| thời điểm dân số = 2025
+| mật độ dân số = {{formatnum:{{#expr:floor({{formatnum:136.292| R}}/{{formatnum:3,56| R}})}} }} người/km²
+| vùng = [[Đồng bằng sông Hồng]]
+| thành phố = [[Hà Nội]]
+| trụ sở UBND = Số 2/224 đường Hoàng Mai<ref>{{Chú thích web |url=https://storage-vnportal.vnpt.vn/gov-hni/6244/VanBan/2025/6/25/TB-729-2025.pdf |title=Thông báo số 729/TB-UBND ngày 25 tháng 6 năm 2025 của Ủy ban nhân dân thành phố Hà Nội về địa điểm trụ sở làm việc của 126 phường, xã sau sắp xếp thuộc phạm vi quản lý của thành phố Hà Nội|access-date=2026-06-15 |archive-date=2026-06-15 |archive-url=https://web.archive.org/web/20260615034519/https://storage-vnportal.vnpt.vn/gov-hni/6244/VanBan/2025/6/25/TB-729-2025.pdf |url-status=dead | website = Cổng Thông tin điện tử Ủy ban nhân dân thành phố Hà Nội}}</ref>
+| bản đồ 1 = {{maplink|frame=yes|plain=yes|type=shape|frame-width=280|frame-align=center|stroke-width=3}}
+| tựa bản đồ 1 = Bản đồ phường Tương Mai
+| mã hành chính = 00322<ref>{{Chú thích web |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/19ttg.signed.pdf |title=Quyết định số 19/2025/QĐ-TTg ngày 30 tháng 6 năm 2025 của Thủ tướng Chính phủ về việc Ban hành Bảng danh mục và mã số các đơn vị hành chính Việt Nam |access-date=2026-06-15 |archive-date=2026-06-15 |archive-url=https://web.archive.org/web/20260615034519/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/19ttg.signed.pdf |url-status=dead | website = Cổng Thông tin điện tử Chính phủ}}</ref> 
+| web = {{url|tuongmai.hanoi.gov.vn}}
+|trụ sở Đảng ủy=Số 323 đường Trần Đại Nghĩa}}
+'''Tương Mai''' là một [[Phường (Việt Nam)|phường]] thuộc thành phố [[Hà Nội]], [[Việt Nam]].
+
+== Địa lý== 
+Phường Tương Mai có vị trí địa lý: 
+*Phía đông giáp phường [[Vĩnh Tuy (phường)|Vĩnh Tuy]] và phường [[Vĩnh Hưng (phường)|Vĩnh Hưng]] (ranh giới đi theo đường [[sông Kim Ngưu]] – đường Lĩnh Nam)
+*Phía tây giáp phường [[Phương Liệt]] (ranh giới đi theo [[Đường Giải Phóng, Hà Nội|đường Giải Phóng]])
+*Phía nam giáp phường [[Hoàng Mai, Hà Nội|Hoàng Mai]] (ranh giới đi theo [[Đường vành đai 2,5 (Hà Nội)|đường Vành đai 2,5]] – phố Tân Mai – phố Kim Đồng).
+*Phía bắc giáp phường [[Bạch Mai]] (ranh giới đi theo [[Đường vành đai 2 (Hà Nội)|đường Vành Đai 2]] – phố Đại La).<ref>{{Chú thích web|last=Báo Điện tử Chính phủ|date=2025-04-28|title=Chi tiết dự thảo phương án sắp xếp các phường của Hà Nội|url=https://xaydungchinhsach.chinhphu.vn/chi-tiet-du-thao-phuong-an-sap-xep-cac-phuong-cua-ha-noi-119250421100531902.htm|url-status=bot: unknown|archive-url=https://web.archive.org/web/20260815095531/https://xaydungchinhsach.chinhphu.vn/chi-tiet-du-thao-phuong-an-sap-xep-cac-phuong-cua-ha-noi-119250421100531902.htm|archive-date=2026-08-15|access-date=2026-07-10|website=Xây dựng chính sách, pháp luật}}</ref><ref>{{Chú thích web|last=Viện nghiên cứu Phát triển kinh tế – xã hội Hà Nội|date=2025-07-03|title=Phường Tương Mai: Những thông tin chi tiết sau sắp xếp|url=https://hanoionline.vn/phuong-tuong-mai-nhung-thong-tin-chi-tiet-sau-sap-xep-344237.htm|url-status=dead|archive-url=https://web.archive.org/web/20250703090141/https://hanoionline.vn/phuong-tuong-mai-nhung-thong-tin-chi-tiet-sau-sap-xep-344237.htm|archive-date=2025-07-03|access-date=2026-08-15|website=Cơ quan Báo và Phát thanh Truyền hình Hà Nội}}</ref><ref>{{Chú thích web|last=Cơ quan Báo và Phát thanh Truyền hình Hà Nội|date=2025-07-04|title=Phường Tương Mai: Tất cả thông tin chỉ dẫn bạn cần biết|url=https://hanoionline.vn/phuong-tuong-mai-tat-ca-thong-tin-chi-dan-ban-can-biet-344587.htm|url-status=dead|archive-url=https://web.archive.org/web/20250705005025/https://hanoionline.vn/phuong-tuong-mai-tat-ca-thong-tin-chi-dan-ban-can-biet-344587.htm|archive-date=2025-07-05|access-date=2026-08-15}}</ref>
+Phường Tương Mai có diện tích tự nhiên là 3,56&nbsp;km<sup>2</sup>, quy mô dân số năm 2025 là 136.292 người và mật độ dân số đạt 38.284 người/km<sup>2</sup>.<ref>{{Chú thích web|last=Mai Hữu|date=2026-04-05|title=Hà Nội: Chi tiết phương án tổng thể sắp xếp đơn vị hành chính cấp xã|url=https://hanoimoi.vn/ha-noi-chi-tiet-phuong-an-tong-the-sap-xep-don-vi-hanh-chinh-cap-xa-700278.html|url-status=bot: unknown|archive-url=https://web.archive.org/web/20250710163328/https://hanoimoi.vn/ha-noi-chi-tiet-phuong-an-tong-the-sap-xep-don-vi-hanh-chinh-cap-xa-700278.html|archive-date=2025-07-10|access-date=2026-07-11|website=Cơ quan Báo và Phát thanh, truyền hình Hà Nội}}</ref><ref>Công văn số 2896/BNV-CQĐP ngày 27 tháng 5 năm 2025 của Bộ Nội vụ về việc cung cấp thông tin danh mục dự kiến đơn vị hành chính cấp xã mới.</ref>
+
+== Lịch sử==
+
+=== Trước năm 1976 ===
+Với điều kiện nhiều ao hồ và vị trí sát Kinh đô [[Thăng Long]] cùng hệ thống giao thông sông Sét lên này tạo điều kiện thuận lợi để làng phát triển kinh tế. Dân làng còn khai thác các nguồn thủy sản trong ao hồ, trên sông. Ngoài xôi, làng có nghề làm tương từ những quả mơ ngon.<ref name="TM1">{{Chú thích web| url = https://hanoimoi.vn/lang-tuong-mai-72777.html| tựa đề = Làng Tương Mai | tác giả = Bùi Xuân Đính | ngày = 2005-10-07 | website = Cơ quan Báo và Phát thanh, truyền hình Hà Nội | url lưu trữ = | ngày lưu trữ = | ngày truy cập = 2026-08-21 | url-status = live }}</ref> Tuy nhiên, trước thời [[nhà Mạc]], làng chỉ là một xóm gọi là Xóm Lẻ, thuộc làng Hoàng Mai lúc bấy giờ.<ref name=":7" />
+
+Đầu thế kỷ XVI, thời [[nhà Mạc]], Xóm Lẻ của làng Hoàng Mai xin tách riêng lập làng mới, đặt tên gọi Tương Mai (tương có nghĩa tương đồng, sánh ngang); nhưng theo quy định thời xưa, khi muốn lập làng là phải có đình, đền. Khi đình dựng xong, dân Tương Mai đã thương lượng với các cụ trưởng làng Hoàng Mai để làng Tương Mai được thờ [[Trần Khát Chân]]. Việc này cũng không được chấp thuận vì Hoàng Mai là một làng lớn, nơi có thái ấp và dinh thự của [[Trần Khát Chân]] nên phải thờ ông anh còn làng Tương Mai phải thờ ông em [[Trần Hãng]], và vì "Chuông làng nào làng ấy đánh, thánh làng nào làng ấy thờ". Nhưng, làng Tương Mai có người đỗ tiến sĩ làm quan to trong triều đình lúc đó nên làng Hoàng Mai bị ép phải chấp thuận, dù không đồng lòng; làng Tương Mai lúc này mới chính thức được sáng lập.<ref name=":7" /> Sau đó, đình Tương Mai được phép cho [[Trần Khát Chân]] là [[Thành hoàng|thành hoàng làng]] còn [[đình Hoàng Mai]] chỉ cho được [[Trần Hãng]] là thành hoàng làng, nhưng khoảng giữa và cuối thế kỷ XX thì đình Hoàng Mai lấy cả [[Trần Khát Chân]] là thành hoàng làng.<ref name=":7" />
+
+[[Nhà Trần|Thời Trần]], cùng với các làng trong vùng Kẻ Mơ, làng Tương Mai nằm trong thái ấp của Thượng tướng quân [[Trần Khát Chân]]. Dấu tích của Thái ấp kẻ Mơ xưa ở làng Tương Mai là địa danh Đống Sành (đi về phía bắc chùa Tương Mai trên con đường Trương Định hiện nay), nơi sản xuất đồ sành sứ.<ref name="TM1" />
+
+Cuối [[Nhà Hậu Lê|thời Hậu Lê]], đầu [[Nhà Nguyễn|thời Nguyễn]], làng Tương Mai là một xã thuộc tổng Hoàng Mai, huyện Thanh Trì, trấn Sơn Nam Thượng (năm 1831 đổi làm tỉnh Hà Nội). Năm 1899, cắt về tổng Thịnh Liệt.<ref name="TM1" />
+
+Dưới thời [[Đế quốc thực dân Pháp|thực dân Pháp]], một trường bắn Tương Mai được lập ra tại làng,<ref name="TM1" /> một phần của trường bắn cũ hiện tại là Chung cư K35 Tân Mai.
+
+Trong [[chiến tranh Đông Dương|kháng chiến chống Pháp]], làng Tương Mai nằm trong quận VII của Hà Nội.<ref name="TM1" />
+
+Hòa bình lập lại vào năm 1954, làng nằm trong xã Hoàng Văn Thụ, quận VII của Hà Nội.<ref name="TM1" />
+
+Năm 1961, xã này nhập thêm làng (thôn) Mai Động và cùng với các xã trong quận VII hợp với các xã của huyện Thanh Trì, tỉnh Hà Đông thành huyện Thanh Trì của Hà Nội.<ref name="TM1" />
+
+Ngày 9 tháng 8 năm 1973, Hội đồng Chính phủ ban hành Quyết định về việc sáp nhập 2 thôn: Giáp Bát, Giáp Lục của xã Thịnh Liệt, thôn Tương Mai và khoảng 10 ha ở phía nam đường Minh Khai của thôn Mai Động thuộc xã Hoàng Văn Thụ, huyện Thanh Trì vào tiểu khu Minh Khai thuộc khu phố Hai Bà Trưng.{{Cần chú thích|ngày=tháng 6 năm 2026}}
+
+=== Giai đoạn 1976 – nay ===
+Sau ngày 2 tháng 7 năm 1976, 5 tiểu khu: Đồng Tâm, Giáp Bát, Minh Khai, Trương Định và Tương Mai thuộc khu phố [[Hai Bà Trưng (quận)|Hai Bà Trưng]]; tiểu khu Phương Liệt thuộc khu phố [[Đống Đa (quận)|Đống Đa]]; 2 xã: Hoàng Văn Thụ và Vĩnh Tuy thuộc huyện [[Thanh Trì (huyện)|Thanh Trì]] của thành phố [[Hà Nội]].
+
+Ngày 3 tháng 1 năm 1981, từ nay ở nội thành, đơn vị hành chính cấp dưới trực tiếp của [[Thành phố trực thuộc trung ương (Việt Nam)|thành phố trực thuộc trung ương]] đều thống nhất gọi là [[Quận (Việt Nam)|quận]]; các đơn vị hành chính cơ sở ở nội thành, nội thị của các [[Thành phố thuộc tỉnh (Việt Nam)|thành phố thuộc tỉnh]], [[Thị xã (Việt Nam)|thị xã]] và [[Quận (Việt Nam)|quận]] gọi là [[Phường (Việt Nam)|phường]]. Khi đó, 5 phường: Đồng Tâm, Giáp Bát, Minh Khai, Trương Định và Tương Mai thuộc quận [[Hai Bà Trưng (quận)|Hai Bà Trưng]]; phường Phương Liệt thuộc quận [[Đống Đa (quận)|Đống Đa]].<ref>{{Chú thích web |date= |title=Quyết định số 3-CP ngày 3 tháng 1 năm 1981 của Hội đồng Chính phủ về việc thống nhất tên gọi các đơn vị hành chính ở nội thành nội thị |url=https://vbpl.vn/van-ban/chi-tiet/quyet-dinh-so-3-cp-ve-viec-thong-nhat-ten-goi-cac-don-vi-hanh-chinh-o-noi-thanh-noi-thi--4072 |url-status=live |access-date=2026-08-21 |website=Cơ sở dữ liệu quốc gia về pháp luật|archive-url=|archive-date=}}</ref>
+
+Ngày 13 tháng 10 năm 1982:
+
+* Thành lập phường Mai Động (quận [[Hai Bà Trưng (quận)|Hai Bà Trưng]]) bao gồm thôn Mai Động và xóm Mơ Táo của xã Hoàng Văn Thụ thuộc huyện [[Thanh Trì (huyện)|Thanh Trì]].
+* Sáp nhập xóm Mã Cả của xã Hoàng Văn Thụ thuộc huyện [[Thanh Trì (huyện)|Thanh Trì]] vào phường Tương Mai thuộc quận [[Hai Bà Trưng (quận)|Hai Bà Trưng]].<ref>{{Chú thích web |url=https://chinhphu.vn/default.aspx?pageid=27160&docid=6408|title=Quyết định số 173-HĐBT ngày 13 tháng 10 năm 1982 của Hội đồng Bộ trưởng về việc phân vạch địa giới một số phường và thị trấn thuộc thành phố Hà Nội|access-date=2026-08-21|archive-date=|archive-url=|url-status=dead|website=Cổng Thông tin điện tử Chính phủ}}</ref>
+
+Ngày 14 tháng 3 năm 1984, chia phường Giáp Bát thành hai phường lấy tên là phường Giáp Bát và phường Tân Mai.<ref>{{Chú thích web |url=https://chinhphu.vn/default.aspx?pageid=27160&docid=6190|title=Quyết định số 42-HĐBT ngày 14 tháng 3 năm 1984 của Hội đồng Bộ trưởng về việc phân vạch địa giới một số phường, thị trấn thuộc thành phố Hà Nội|access-date=2026-08-21|archive-date=|archive-url=|url-status=live|website=Cổng Thông tin điện tử Chính phủ}}</ref>
+
+Ngày 26 tháng 10 năm 1990, giải thể xã Hoàng Văn Thụ thuộc huyện [[Thanh Trì (huyện)|Thanh Trì]]; chuyển 175,5 ha diện tích tự nhiên và 6824 nhân khẩu của xã Hoàng Văn Thụ (cũ) cho quận [[Hai Bà Trưng (quận)|Hai Bà Trưng]] quản lý để thành lập phường Hoàng Văn Thụ.<ref>Quyết định số 456/TCCP ngày 26 tháng 10 năm 1990 của Ban Tổ chức – Cán bộ Chính phủ về việc thành lập phường Hoàng Văn Thụ thuộc quận Hai Bà Trưng, thành phố Hà Nội.</ref>
+
+Ngày 22 tháng 11 năm 1996, tách toàn bộ diện tích tự nhiên và nhân khẩu của phường Phương Liệt (thuộc quận [[Đống Đa (quận)|Đống Đa]]) về quận [[Thanh Xuân (quận)|Thanh Xuân]] mới thành lập.<ref>{{Chú thích web |url=https://chinhphu.vn/default.aspx?pageid=27160&docid=3229|title=Nghị định số 74-CP ngày 22 tháng 11 năm 1996 của Chính phủ về việc thành lập quận Thanh Xuân, quận Cầu Giấy, thành lập và đổi tên một số phường thuộc thành phố Hà Nội|access-date=2026-08-27|archive-date=2026-08-27|archive-url=https://web.archive.org/web/20260827201510/https://chinhphu.vn/default.aspx?pageid=27160&docid=3229|url-status=dead|website=Cổng Thông tin điện tử Chính phủ}}</ref>
+
+Ngày 6 tháng 11 năm 2003:
+
+* Tách toàn bộ diện tích tự nhiên và dân số của xã Vĩnh Tuy thuộc huyện [[Thanh Trì (huyện)|Thanh Trì]]; toàn bộ diện tích tự nhiên và dân số của các phường: Mai Động, Tương Mai, Tân Mai, Giáp Bát và Hoàng Văn Thụ thuộc quận [[Hai Bà Trưng (quận)|Hai Bà Trưng]] về quận [[Hoàng Mai (quận)|Hoàng Mai]] mới thành lập.
+* Thành lập phường Vĩnh Hưng trên cơ sở toàn bộ diện tích tự nhiên và dân số của xã Vĩnh Tuy.<ref name=":6">{{Chú thích web| url = https://hethongphapluat.com/nghi-dinh-132-2003-nd-cp-ve-viec-dieu-chinh-dia-gioi-hanh-chinh-de-thanh-lap-cac-quan-long-bien-hoang-mai-thanh-lap-cac-phuong-truc-thuoc-quan-long-bien-quan-hoang-mai-thanh-pho-ha-noi.html| tựa đề = Nghị định số 132/2003/NĐ-CP ngày 6 tháng 11 năm 2003 của Chính phủ về việc điều chỉnh địa giới hành chính để thành lập các quận Long Biên, Hoàng Mai, thành lập các phường trực thuộc quận Long Biên, quận Hoàng Mai, thành phố Hà Nội | tác giả = | ngày =  | website = Hệ thống pháp luật | url lưu trữ = | ngày lưu trữ = | ngày truy cập =2026-08-21 | url-status = live}}</ref>
+
+Ngày 16 tháng 6 năm 2025:
+
+* Kết thúc hoạt động của đơn vị hành chính cấp huyện trong cả nước.<ref>{{Chú thích web |last=|date=|title=Nghị quyết số 203/2025/QH15 ngày 16 tháng 6 năm 2025 của Quốc hội khóa XV, Kỳ họp thứ 9 về việc sửa đổi, bổ sung một số điều của Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam|url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/nq-sua-doi-hien-phap.pdf|url-status=live|archive-url=https://web.archive.org/web/20260613090807/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/nq-sua-doi-hien-phap.pdf|archive-date=2026-06-13|access-date=2026-06-13|website=Cổng Thông tin điện tử Chính phủ}}</ref>
+* Sắp xếp một phần diện tích tự nhiên, quy mô dân số của phường Giáp Bát (quận [[Hoàng Mai (quận)|Hoàng Mai]]), phường Phương Liệt (quận [[Thanh Xuân (quận)|Thanh Xuân]]), phần còn lại của phường Mai Động (quận [[Hoàng Mai (quận)|Hoàng Mai]]), phần còn lại của các phường Minh Khai, Đồng Tâm, Trương Định (quận [[Hai Bà Trưng (quận)|Hai Bà Trưng]]), phần còn lại của các phường Hoàng Văn Thụ, Tân Mai, Tương Mai và phần còn lại của phường Vĩnh Hưng (quận [[Hoàng Mai (quận)|Hoàng Mai]]) thành phường mới có tên gọi là phường Tương Mai.<ref>{{Chú thích web|title=Nghị quyết số 1656/NQ-UBTVQH15 ngày 16 tháng 6 năm 2025 của Ủy ban Thường vụ Quốc hội về việc sắp xếp các đơn vị hành chính cấp xã của thành phố Hà Nội năm 2025|url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf|url-status=bot: unknown|archive-url=https://web.archive.org/web/20260513110024/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf|archive-date=2026-05-13|access-date=2026-06-30|website=Cổng Thông tin điện tử Chính phủ}}</ref>
+* Sau khi sắp xếp, phường Tương Mai được chia thành 108 tổ dân phố và một phần của 1 tổ dân phố.<ref>12 tổ dân phố, đánh số từ 1 đến 7, từ 9 đến 12 và 14 của phường Giáp Bát cũ; 2 tổ dân phố: 1 và 2 của phường Phương Liệt cũ; 14 tổ dân phố, đánh số từ 1 đến 11, 16, 17 Chung cư Lilama và 18 của phường Mai Động cũ; 9 tổ dân phố, đánh số từ 14 đến 22 của phường Minh Khai cũ; 3 tổ dân phố, đánh số từ 10 đến 12 của phường Đồng Tâm cũ; 11 tổ dân phố, đánh số từ 6 đến 16 của phường Trương Định cũ; 32 tổ dân phố, đánh số từ 1 đến 31 và 33 của phường Hoàng Văn Thụ cũ; 6 tổ dân phố: 1, 7, 18, 19 và 22 của phường Tân Mai cũ; 19 tổ dân phố, đánh số từ 1 đến 19 của phường Tương Mai cũ; tổ dân phố 34 và một phần của tổ dân phố 17 của phường Vĩnh Hưng cũ.</ref><ref>{{Chú thích web|title=Thông tư số 10/2022/TT-BTNMT ngày 29 tháng 9 năm 2022 của Bộ Tài nguyên và Môi trường về việc Ban hành Danh mục địa danh dân cư, sơn văn, thủy văn, kinh tế – xã hội phục vụ công tác thành lập bản đồ thành phố Hà Nội|url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2022/10/10-btnmt.pdf|url-status=bot: unknown|archive-url=https://web.archive.org/web/20260630082812/https://datafiles.chinhphu.vn/cpp/files/vbpq/2022/10/10-btnmt.pdf|archive-date=2026-06-30|access-date=2026-06-30|website=Cổng Thông tin điện tử Chính phủ}}</ref><ref>{{Chú thích web|last=Ủy ban nhân dân phường Tương Mai|date=2025-03-15|title=Địa điểm niêm yết danh sách cử tri phường Tương Mai (Cuộc Bầu cử đại biểu Quốc hội khóa XVI và Đại biểu Hội đồng nhân dân các cấp nhiệm kỳ 2026 – 2031|url=https://sqhx-hanoi.mediacdn.vn/91579363132710912/2026/2/2/ds-niem-yet-1770005363759252243003.pdf|url-status=dead|archive-url=https://web.archive.org/web/20260822053413/https://sqhx-hanoi.mediacdn.vn/91579363132710912/2026/2/2/ds-niem-yet-1770005363759252243003.pdf|archive-date=2026-08-22|access-date=2026-08-19|website=Trang Thông tin điện tử phường Tương Mai – thành phố Hà Nội}}</ref>
+
+Ngày 24 tháng 12 năm 2025, xác định phường Tương Mai là [[Đô thị Việt Nam|đô thị loại II]].<ref>Chuyển tiếp từ 3 phường: Đồng Tâm, Minh Khai, Trương Định thuộc quận Hai Bà Trưng, 6 phường: Giáp Bát, Hoàng Văn Thụ, Mai Động, Tân Mai, Tương Mai, Vĩnh Hưng thuộc quận Hoàng Mai và phường Phương Liệt thuộc quận Thanh Xuân.</ref><ref>{{Chú thích web |title=Nghị quyết số 111/2025/UBTVQH15 ngày 24 tháng 12 năm 2025 của Ủy ban Thường vụ Quốc hội về phân loại đô thị|url=https://cdn.nhandan.vn/files/f4a4abf7f9a0ba4a91744616546d850872b76917f90d5a74cc9eebef1369fb6f/111.pdf|url-status=dead|archive-url=https://web.archive.org/web/20260430074852/https://cdn.nhandan.vn/files/f4a4abf7f9a0ba4a91744616546d850872b76917f90d5a74cc9eebef1369fb6f/111.pdf|archive-date=2026-04-30|access-date=2026-07-12|website=Báo Nhân dân}}</ref>
+
+Ngày 29 tháng 6 năm 2026, thành lập 49 tổ dân phố mới, đánh số từ 1 đến 33, từ 35 đến 44 và từ 46 đến 52; đổi tên tổ dân phố: 13 và 19 Tương Mai lần lượt thành 2 tổ dân phố: 34 và 45.<ref>1. Tổ dân phố số 1: Sáp nhập toàn bộ Tổ dân phố số 1 và Tổ dân phố số 2 Phương Liệt; 2. Tổ dân phố số 2: Giữ nguyên phần lớn Tổ dân phố số 10 Đồng Tâm và cắt 20 hộ gia đình sang Tổ dân phố 11, 12 Đồng Tâm (Điểm cắt từ số nhà 231 đến số nhà 251 Phố Vọng và 10 hộ gia đình trong ngõ 239 phố Vọng); 3. Tổ dân phố số 3: Sáp nhập Tổ dân phố số 11, số 12 Đồng Tâm và 20 hộ gia đình Tổ dân phố số 10 Đồng Tâm (Gồm các hộ gia đình từ số nhà 231 đến số nhà 251 Phố Vọng và 10 hộ trong ngõ 239 phố Vọng); 4. Tổ dân phố số 4: Sáp nhập toàn bộ Tổ dân phố số 1, Tổ dân phố số 2, Tổ dân phố số 3 Giáp Bát và một phần Tổ dân phố 4 Giáp Bát (Từ số nhà 31 đến số 67 đường Giáp Bát, 06 hộ gia đình trong Ngõ 51 đường Giáp Bát, Từ số 1 đến số 51 ngõ 67 đường Giáp Bát (số lẻ), Ngách 553/106 và 553/108 Ngõ 67 Giáp Bát và 01 hộ Ngõ 106/553 đường Giáp Bát); 5. Tổ dân phố số 5: Sáp nhập toàn bộ Tổ dân phố số 9, số 10, số 11 Giáp Bát và một phần tổ dân phố số 12 Giáp Bát (gồm các hộ gia đình từ số 773 đường Giải Phóng đến số 803 đường Giải Phóng); 6. Tổ dân phố số 6: Sáp nhập toàn bộ Tổ dân phố số 5, số 6 Giáp Bát Và phần lớn Tổ dân phố số 4 Giáp Bát (Từ số nhà 69 đến số 103 đường Giáp Bát; 06 hộ gia đình trong Ngõ 85 đường Giáp Bát); 7. Tổ dân phố số 7: Sáp nhập toàn bộ Tổ dân phố số 7, Tổ dân phố số 14 Giáp Bát và một phần Tổ dân phố số 12 Giáp Bát (gồm các hộ gia đình trong khu tập thể du lịch – Ngõ 809 đường Giải Phóng và các hộ gia đình khu tập thể cơ khí Quang Trung số 805 đường Giải Phóng); 8. Tổ dân phố số 8: Sáp nhập toàn bộ Tổ dân phố số 6 và tổ dân phố số 16 Trương Định; 9. Tổ dân phố số 9: Sáp nhập toàn bộ Tổ dân phố số 7 và tổ dân phố số 8 Trương Định; 10. Tổ dân phố số 10: Sáp nhập toàn bộ Tổ dân phố số 14 và tổ dân phố số 15 Trương Định; 11. Tổ dân phố số 11: Sáp nhập toàn bộ Tổ dân phố số 1 và Tổ dân phố số 3 Tương Mai; 12. Tổ dân phố số 12: Sáp nhập toàn bộ Tổ dân phố số 11, Tổ dân phố số 12, Tổ dân phố số 13 Trương Định; 13. Tổ dân phố số 13: Sáp nhập toàn bộ Tổ dân phố số 2, Tổ dân phố số 4 và Tổ dân phố số 6 Tương Mai; 14. Tổ dân phố số 14: Sáp nhập toàn bộ Tổ dân phố số 5 và Tổ dân phố số 7 Tương Mai; 15. Tổ dân phố số 15: Sáp nhập toàn bộ Tổ dân phố số 1 Tân Mai và Tổ dân phố số 8 Tương Mai; 16. Tổ dân phố số 16: Sáp nhập toàn bộ Tổ dân phố số 9 và Tổ dân phố số 10 Trương Định; 17. Tổ dân phố số 17: Sáp nhập toàn bộ Tổ dân phố số 14, Tổ dân phố số 15, và phần lớn Tổ dân phố số 16 Minh Khai; 18. Tổ dân phố số 18: Sáp nhập toàn bộ Tổ dân phố số 17, Tổ dân phố số 18, Và Tổ dân phố số 19 Minh Khai; 19. Tổ dân phố số 19: Sáp nhập toàn bộ Tổ dân phố số 20, Tổ dân phố số 21, Và Tổ dân phố số 22 Minh Khai; 20. Tổ dân phố số 20: Sáp nhập toàn bộ Tổ dân phố số 1 và Tổ dân phố số 2 Hoàng Văn Thụ; 21. Tổ dân phố số 21: Sáp nhập toàn bộ Tổ dân phố số 6, số 7 và một phần Tổ 5 Hoàng Văn Thụ (Cắt từ chợ Hoàng Mai tiếp giáp dãy ki ốt 158 đường Hoàng Mai đến ngõ 160 đường Hoàng Mai. Bên chẵn gồm trường Trung học cơ sở Hoàng Văn Thụ đến ngách 2/160 sau đó đi vòng vào Đình Hoàng Mai và Chùa Nga Mi đến cổng sau chùa Nga Mi nối ra ngõ 94 đường Hoàng Mai. Bên lẻ gồm các hộ gia đình từ đối diện cổng Đình Hoàng Mai, ngách 29/160, ngách 31/160, ngách 39/160, ngách 51/160, ngách 59/160, ngách 67/160 đến hết số 93 ngõ 94 đường Hoàng Mai); 22. Tổ dân phố số 22: Sáp nhập toàn bộ Tổ dân phố số 3 và Tổ dân phố số 4 Hoàng Văn Thụ; 23. Tổ dân phố số 23: Sáp nhập toàn bộ Tổ dân phố số 8, Tổ dân phố số 19 và một phần lớn tổ 5 Hoàng Văn Thụ (gồm 07 hộ gia đình từ số 103 đến số 113 Ngõ Gốc Đề, Ngõ 160 đường Hoàng Mai gồm tập thể Công an Phường ngách 1/160 và Trường Tiểu học Hoàng Văn Thụ (bên lẻ); 24. Tổ dân phố số 24: Sáp nhập toàn bộ Tổ dân phố số 10 và Tổ dân phố số 11 Hoàng Văn Thụ; 25. Tổ dân phố số 25: Sáp nhập toàn bộ Tổ dân phố số 14 và Tổ dân phố số 15 Hoàng Văn Thụ; 26. Tổ dân phố số 26: Sáp nhập toàn bộ Tổ dân phố số 30 và Tổ dân phố số 31 Hoàng Văn Thụ; 27. Tổ dân phố số 27: Sáp nhập toàn bộ Tổ dân phố số 9 và Tổ dân phố số 16 Hoàng Văn Thụ; 28. Tổ dân phố số 28: Sáp nhập toàn bộ Tổ dân phố số 1 và phần lớn Tổ dân phố số 2 Mai Động (gồm các hộ gia đình từ đầu ngách 101 đến số 39 Ngõ 254 Minh Khai – bên lẻ); 29. Tổ dân phố số 29: Sáp nhập toàn bộ Tổ dân phố số 5 và Tổ dân phố số 6 Mai Động; 30. Tổ dân phố số 30: Sáp nhập toàn bộ Tổ dân phố số 3, số 4 Mai Động và một phần nhỏ Tổ dân phố số 2 Mai Động (gồm các hộ gia đình từ đầu ngách 101 đến hẻm 36 Ngõ 254 Minh Khai – bên chẵn); 31. Tổ dân phố số 31: Sáp nhập toàn bộ Tổ dân phố số 7 và Tổ dân phố số 8 Mai Động; 32. Tổ dân phố số 32: Sáp nhập toàn bộ Tổ dân phố số 9 và Tổ dân phố số 10 Tương Mai; 33. Tổ dân phố số 33: Sáp nhập toàn bộ Tổ dân phố số 11 và Tổ dân phố số 12 Tương Mai; 34. Tổ dân phố số 35: Sáp nhập toàn bộ Tổ dân phố số 13 Hoàng Văn Thụ và một phần tổ dân phố số 18 Hoàng Văn Thụ. (Từ số 01/62/224 đến số 27/62/224. Dọc ngõ 224 đến khu nhà vườn (Cà phê 88) giáp đường đang mở nhà máy nước Tương Ma; 35. Tổ dân phố số 36: Sáp nhập toàn bộ Tổ dân phố số 20 Hoàng Văn Thụ và một phần tổ dân phố số 18 Hoàng Văn Thụ. Tính từ số nhà 04/224 (giáp đường mới sát Ủy ban nhân dân Phường Tương Mai) chạy dọc Ngõ 224 đến số 62/224, Từ số 02 ngách 62 (sau nhà Hội họp) chạy thẳng đến hết số 50 ngách 62; 36. Tổ dân phố số 37: Sáp nhập toàn bộ Tổ dân phố số 23 và Tổ dân phố số 24; 37. Tổ dân phố số 38: Sáp nhập toàn bộ Tổ dân phố số 9, Tổ dân phố số 10, Tổ dân phố số 11 Mai Động; 38. Tổ dân phố số 39: Sáp nhập toàn bộ Tổ dân phố số 25, số 27 và một phần lớn Tổ dân phố số 26 Hoàng Văn Thụ (gồm các hộ gia đình từ số 44 ngõ 299 đến số 56 ngõ 299 đường Hoàng Mai, Các hộ gia đình Từ số 01 ngách 44/299 đến số 45, Từ số 02 đến số nhà 48 ngách 44/299, Các hộ gia đình từ số 01 đến số 61, từ số 02 đến số 46 ngách 48/299 đường Hoàng Mai; 39. Tổ dân phố số 40: Sáp nhập toàn bộ Tổ dân phố số 17 và một phần nhỏ Tổ dân phố số 26 Hoàng Văn Thụ (Gồm các hộ gia đình từ số 02 đến số 58 ngách 56/299 đường Hoàng Mai, Từ số 01 đến số 69 ngách 56/299 đường Hoàng Mai và 02 số nhà 58, 60 ngõ 299 đường Hoàng Mai; 40. Tổ dân phố số 41: Sáp nhập toàn bộ tổ dân phố số 18, Tổ dân phố số 19, Tổ dân phố số 22 Tân Mai; 41. Tổ dân phố số 42: Sáp nhập toàn bộ Tổ dân phố số 15 và Tổ dân phố số 16 Tương Mai; 42. Tổ dân phố số 43: Sáp nhập toàn bộ Tổ dân phố số 14 và Tổ dân phố số 17 Tương Mai; 43. Tổ dân phố số 44: Sáp nhập toàn bộ Tổ dân phố số 7 Tân Mai và Tổ dân phố số 18 Tương Mai; 44. Tổ dân phố số 46: Sáp nhập toàn bộ Tổ dân phố số 21 và Tổ dân phố số 22 Hoàng Văn Thụ; 45. Tổ dân phố số 47: Sáp nhập toàn bộ Tổ dân phố số 28 và Tổ dân phố số 29 Hoàng Văn Thụ; 46. Tổ dân phố số 48: Sáp nhập toàn bộ Tổ dân phố số 16, số 17, số 18 Mai Động và 270 hộ gia đình thuộc Chung cư Lilama 52 Lĩnh Nam và 35 hộ gia đình tổ dân phố 17 Vĩnh Hưng; 47. Tổ dân phố số 50: Sáp nhập toàn bộ Tổ dân phố số 12 Hoàng Văn Thụ và một phần Tổ dân phố số 33 Hoàng Văn Thụ (gồm các hộ gia đình từ số nhà 407 ngõ 383 Tam Trinh kéo dọc theo Sông Gạo đến các hộ gia đình giáp ranh với mặt đường Lĩnh Nam); 48. Tổ dân phố số 51: Sáp nhập toàn bộ Tổ dân phố số 34 Vĩnh Hưng và một phần Tổ dân phố số 33 Hoàng Văn Thụ (Cắt các hộ gia đình từ đầu ngõ 409 Tam Trinh (gần HC) dọc theo Sông Gạo đến hết khu nhà vườn Vĩnh Hoàng và toàn bộ khu đất nông nghiệp Đồng Bắng đối diện 285 Lĩnh Nam; 49. Tổ dân phố số 34: Giữ nguyên Tổ dân phố số 13 Tương Mai; 50. Tổ dân phố số 45: Giữ nguyên trạng Tổ dân phố số 19 Tương Mai; 51. Tổ dân phố số 52: Thành lập Tổ dân phố mới từ chung cư cao tầng Feliz homes Dự án KLB (Hoàng Văn Thụ).</ref><ref name=":022">{{Chú thích web |last=Ủy ban nhân dân phường Tương Mai|date=2026-06-14|title=Dự thảo phương án sắp xếp tổ dân phố trên địa bàn phường Tương Mai|url=https://sqhx-hanoi.mediacdn.vn/91579363132710912/2026/6/15/phuong-an-sap-xep-to-dan-pho-178151767477133804325.pdf|url-status=dead|archive-url=https://web.archive.org/web/20260819400809/https://sqhx-hanoi.mediacdn.vn/91579363132710912/2026/6/15/phuong-an-sap-xep-to-dan-pho-178151767477133804325.pdf|archive-date=2026-08-19|access-date=2026-08-19|website=Trang Thông tin điện tử phường Tương Mai – thành phố Hà Nội}}</ref><ref name=":23">{{Chú thích web |last=Anh Đức|date=2026-06-25|title=Phường Tương Mai phấn đấu hoàn thành và hoàn thành vượt mức các chỉ tiêu năm 2026|url=https://hanoi.gov.vn/tin-dia-phuong/phuong-tuong-mai-phan-dau-hoan-thanh-va-hoan-thanh-vuot-muc-cac-chi-tieu-nam-2026-4260625175002456.htm?gidzl=trsH8gEwuopRGfKagQFZAD91bIIszBGhpq33ThRtjYZFGv9qiwAtUvX6bIAsy-OknKF3SsDAraS_fhldBW|url-status=dead|archive-url=https://web.archive.org/web/20260819201510/https://hanoi.gov.vn/tin-dia-phuong/phuong-tuong-mai-phan-dau-hoan-thanh-va-hoan-thanh-vuot-muc-cac-chi-tieu-nam-2026-4260625175002456.htm?gidzl=trsH8gEwuopRGfKagQFZAD91bIIszBGhpq33ThRtjYZFGv9qiwAtUvX6bIAsy-OknKF3SsDAraS_fhldBW|archive-date=2026-08-19|access-date=2026-08-19|website=Cổng Thông tin điện tử Ủy ban nhân dân thành phố Hà Nội}}</ref>
+
+== Hành chính ==
+Phường Tương Mai được chia thành 51 tổ dân phố, đánh số từ 1 đến 48 và từ 50 đến 52.<ref name=":022" /><ref name=":23" />
+{| class="wikitable sortable" cellpadding="0" cellspacing="6" width="100%" align="center" style="background: #f9f9f9; border: 1px #aaa solid; margin-top: 16px"
+! colspan="4" style="background: #E6E6FA; font-size: 95%;" |Danh sách các tổ dân phố thuộc phường Tương Mai<ref name=":022" /><ref name=":23" />
+|-
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| cellpadding="1" cellspacing="1" width="100%" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Tổ dân phố 1
+|923
+|-
+| align="left" |Tổ dân phố 2
+|792
+|-
+| align="left" |Tổ dân phố 3
+|927
+|-
+| align="left" |Tổ dân phố 4
+|908
+|-
+| align="left" |Tổ dân phố 5
+|840
+|-
+| align="left" |Tổ dân phố 6
+|915
+|-
+| align="left" |Tổ dân phố 7
+|720
+|-
+| align="left" |Tổ dân phố 8
+|843
+|-
+| align="left" |Tổ dân phố 9
+|929
+|-
+| align="left" |Tổ dân phố 10
+|921
+|-
+| align="left" |Tổ dân phố 11
+|856
+|-
+| align="left" |Tổ dân phố 12
+|1.129
+|-
+| align="left" |Tổ dân phố 13
+|1.238
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| cellpadding="1" cellspacing="1" width="100%" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Tổ dân phố 14
+|1.042
+|-
+| align="left" |Tổ dân phố 15
+|712
+|-
+| align="left" |Tổ dân phố 16
+|937
+|-
+| align="left" |Tổ dân phố 17
+|916
+|-
+| align="left" |Tổ dân phố 18
+|927
+|-
+| align="left" |Tổ dân phố 19
+|859
+|-
+| align="left" |Tổ dân phố 20
+|915
+|-
+| align="left" |Tổ dân phố 21
+|877
+|-
+| align="left" |Tổ dân phố 22
+|710
+|-
+| align="left" |Tổ dân phố 23
+|1.100
+|-
+| align="left" |Tổ dân phố 24
+|821
+|-
+| align="left" |Tổ dân phố 25
+|714
+|-
+| align="left" |Tổ dân phố 26
+|799
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| cellpadding="1" cellspacing="1" width="100%" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Tổ dân phố 27
+|726
+|-
+| align="left" |Tổ dân phố 28
+|881
+|-
+| align="left" |Tổ dân phố 29
+|719
+|-
+| align="left" |Tổ dân phố 30
+|783
+|-
+| align="left" |Tổ dân phố 31
+|788
+|-
+| align="left" |Tổ dân phố 32
+|1.013
+|-
+| align="left" |Tổ dân phố 33
+|920
+|-
+| align="left" |Tổ dân phố 34
+|850
+|-
+| align="left" |Tổ dân phố 35
+|779
+|-
+| align="left" |Tổ dân phố 36
+|774
+|-
+| align="left" |Tổ dân phố 37
+|936
+|-
+| align="left" |Tổ dân phố 38
+|804
+|-
+| align="left" |Tổ dân phố 39
+|712
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| cellpadding="1" cellspacing="1" width="100%" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Tổ dân phố 40
+|721
+|-
+| align="left" |Tổ dân phố 41
+|1.090
+|-
+| align="left" |Tổ dân phố 42
+|1.049
+|-
+| align="left" |Tổ dân phố 43
+|985
+|-
+| align="left" |Tổ dân phố 44
+|742
+|-
+| align="left" |Tổ dân phố 45
+|761
+|-
+| align="left" |Tổ dân phố 46
+|1.016
+|-
+| align="left" |Tổ dân phố 47
+|850
+|-
+| align="left" |Tổ dân phố 48
+|1.184
+|-
+| align="left" |Tổ dân phố 50
+|1.002
+|-
+| align="left" |Tổ dân phố 51
+|778
+|-
+| align="left" |Tổ dân phố 52
+|1.178
+|}
+|}
+
+== Trụ sở các cơ quan ==
+* Trụ sở Đảng ủy – Ủy ban Mặt trận Tổ quốc Việt Nam phường: số 323, đường Trần Đại Nghĩa.<ref>Địa chỉ cũ: Số 323, đường Trần Đại Nghĩa, phường Trương Định, quận Hai Bà Trưng (Trước là trụ sở phường Trương Định cũ)</ref><ref>{{Chú thích web |title=Thông báo số 729/TB-UBND ngày 25 tháng 6 năm 2025 của Ủy ban nhân dân thành phố Hà Nội về địa điểm trụ sở làm việc của 126 phường, xã sau sắp xếp thuộc phạm vi quản lý của thành phố Hà Nội |url=https://dcdn.dantri.com.vn/2025/06/25/tru-so-126-xa-phuong-cua-ha-noi-1750822481952.pdf |url-status=dead |archive-url=https://web.archive.org/web/20260818201510/https://dcdn.dantri.com.vn/2025/06/25/tru-so-126-xa-phuong-cua-ha-noi-1750822481952.pdf |archive-date=2026-08-18 |access-date=2026-08-18 |website=Báo Dân trí}}</ref>
+* Trụ sở Hội đồng nhân dân – Ủy ban nhân dân phường: số 2, ngõ 224 đường Hoàng Mai.<ref name=":0">Địa chỉ cũ: Số 2, ngõ 224 đường Hoàng Mai, phường Hoàng Văn Thụ, quận Hoàng Mai (Trước là trụ sở phường Hoàng Văn Thụ cũ)</ref>
+* Trung tâm phục vụ hành chính công: số 2, ngõ 224 đường Hoàng Mai.<ref name=":0" /><ref>{{Chú thích web |title=Phụ lục I Danh sách các điểm phục vụ hành chính công thuộc 126 xã/phường và thông tin đường dây nóng hỗ trợ, giải đáp những khó khăn, vướng mắc của người dân, doanh nghiệp về giải quyết thủ tục hành chính trên địa bàn thành phố Hà Nội |url=https://sqhx-hanoi.mediacdn.vn/91579363132710912/2025/7/4/phu-luc-126-diem-phuc-vu-hanh-chinh-cong-thuoc-xa-va-cac-chi-nhanh-duong-day-nong-1751600197452826849512.pdf |url-status=dead |archive-url=https://web.archive.org/web/20260818201510/https://sqhx-hanoi.mediacdn.vn/91579363132710912/2025/7/4/phu-luc-126-diem-phuc-vu-hanh-chinh-cong-thuoc-xa-va-cac-chi-nhanh-duong-day-nong-1751600197452826849512.pdf |archive-date=2026-08-18 |access-date=2026-08-18}}</ref>
+* Công an phường:<ref>{{Chú thích web |last=T.L |date=2025-07-02 |title=Danh sách 126 trụ sở Công an cấp xã thuộc Công an Thành phố Hà Nội để người dân tới làm căn cước, đăng ký xe |url=https://daibieunhandan.vn/danh-sach-126-tru-so-cong-an-cap-xa-thuoc-cong-an-tp-ha-noi-de-nguoi-dan-toi-lam-can-cuoc-dang-ky-xe-10378397.html |url-status=dead |archive-url=https://web.archive.org/web/20260818201510/https://daibieunhandan.vn/danh-sach-126-tru-so-cong-an-cap-xa-thuoc-cong-an-tp-ha-noi-de-nguoi-dan-toi-lam-can-cuoc-dang-ky-xe-10378397.html |archive-date=2026-08-18 |access-date=2026-08-18 |website=Báo Đại biểu Nhân dân}}</ref>
+** Trụ sở chính: số 44, phố Nguyễn An Ninh.<ref>Địa chỉ cũ: Số 44, phố Nguyễn An Ninh, phường Tương Mai, quận Hoàng Mai</ref>
+** Trụ sở tiếp công dân, giải quết hồ sơ đăng ký cư trú, tiếp nhận giải quyết hồ sơ cấp giấy chứng nhận đủ điều kiện về an ninh trật tự: số 522, đường Trương Định.<ref>Địa chỉ cũ: Số 524, đường Trương Định, phường Tân Mai, quận Hoàng Mai</ref>
+** Trụ sở xử lý vi phạm giao thông, trật tự đô thị, đăng ký xe mô tô: số 261, phố Vọng.<ref>Địa chỉ cũ: Số 261, phố Vọng, phường Đồng Tâm, quận Hai Bà Trưng</ref>
+** Trụ sở tổ an ninh: Số 50, đường Trương Định.<ref>Địa chỉ cũ: Số 50, đường Trương Định, phường Trương Định, quận Hai Bà Trưng</ref>
+
+== Các làng cổ ==
+
+=== Cổ Mai ===
+{{Xem thêm 2|[[Đậu phụ Mơ]]}}
+[[File:Southeast Hanoi 1935 map.png|thumb|left|Đông Nam Hà Nội năm 1935, kẻ Mơ được tô màu xanh lá cây]]
+Cổ Mai hay làng Mơ (tiếng nôm là kẻ Mơ) là vùng đất cổ nam Kinh thành [[Thăng Long]], dân gọi là kẻ Mơ vì nơi đây chủ yếu trồng mơ, gồm có 4 làng chính: Tương Mai, Hoàng Mai, Mai Động, Hồng Mai (nay là [[Bạch Mai]]<ref>{{Chú thích web |last=Vĩnh Trà |date=2021-12-18 |title=Đài phát sóng Bạch Mai: 16 tháng ghi dấu 7 sự kiện lịch sử |url=https://vov.vn/chinh-tri/dai-phat-song-bach-mai-16-thang-ghi-dau-7-su-kien-lich-su-post912436.vov |access-date=2026-08-21 |website=Báo Điện tử Tiếng nói Việt Nam |language=|archive-url=|archive-date=|url-status=live}}</ref>).<ref name=":2">{{Chú thích web |last=Quỳnh Anh |title=Kẻ Mơ – một vùng văn hóa cổ Thăng Long |url=https://sovhtt.hanoi.gov.vn/ke-mo-mot-vung-van-hoa-co-thang-long/ |url-status=live |archive-date= |access-date=2026-08-21 |website=Sở Văn hóa và Thể thao Thành phố Hà Nội|date=2021-02-04|archive-url=}}</ref><ref>{{Chú thích web |last=Báo VietNamNet |first= |title=Thăm làng cổ Hoàng Mai |url=https://vietnamnet.vn/tham-lang-co-hoang-mai-670.html |access-date=2026-08-21 |website=|date=2010-11-24|archive-url=|archive-date=|url-status=live}}</ref> Làng Quỳnh Lôi có trên đất kẻ Mơ nhưng chưa được coi là thuộc kẻ Mơ (trước thời Pháp thì chỉ là một xóm trại<ref>{{Chú thích web |last=Trần Văn Mỹ |date=2006-09-20 |title=Làng Quỳnh Lôi và dấu tích danh nhân |url=https://hanoimoi.vn/lang-quynh-loi-va-dau-tich-danh-nhan-107974.html |url-status=live |access-date=2026-08-18 |website=Cơ quan Báo và Phát thanh, truyền hình Hà Nội|archive-url=|archive-date=}}</ref>).<ref>{{Chú thích web |last=Nguyễn Trương Quý |first= |date=2025-08-24 |title=Vùng nước, vùng chữ góc thành nam |url=https://nguoidothi.net.vn/vung-nuoc-vung-chu-goc-thanh-nam-49369.html |url-status=live |access-date=2026-08-21 |website=Viện Nghiên cứu đô thị và Phát triển hạ tầng (Tổng hội Xây dựng Việt Nam)|archive-url=|archive-date=}}</ref> Vùng đất Cổ Mai chạy từ Tương Mai, Bạch Mai đến Vĩnh Tuy, Tân Khai. Vùng đất giáp với [[Thịnh Liệt|kẻ Sét]] về phía Nam; cửa ô Cầu Dền Kinh thành Thăng Long về phía bắc; [[Phương Liệt]], [[Hoàng Liệt]] về phía Tây và [[Vĩnh Tuy]], [[Thanh Nhàn]], Lãng Yên về phía Đông.
+
+Vùng đất Cổ Mai được xem một trong những khu vực cổ xưa nhất của Hà Nội, với dấu vết sinh sống từ khoảng 3000-4000 năm trước Công nguyên.<ref>{{Chú thích web |last=HNM |date=2004-02-15 |title=Những dấu ấn lịch sử và văn hóa ở quận mới Hoàng Mai |url=https://hanoimoi.vn/nhung-dau-an-lich-su-va-van-hoa-o-quan-moi-hoang-mai-28990.html |url-status=live |access-date=2026-08-21 |website=Cơ quan Báo và Phát thanh, truyền hình Hà Nội|archive-url=|archive-date=}}</ref> Trong đó, một số công cụ như rìu đá, vòng đá đã được khai quật trong khu mộ táng ở bờ [[sông Kim Ngưu]]<ref name=":02" /> và mộ thời [[Đông Hán]] tại gò Mã Vẽ (giữa hai làng Tương Mai và Hoàng Mai).<ref>{{Chú thích web |last=Trang Thông tin điện tử phường Yên Sở – thành phố Hà Nội|date=2025-04-21|title=Lịch sử 7 địa danh đơn vị hành chính cơ sở của quận Hoàng Mai|url=http://yenso.hanoi.gov.vn/van-hoa-xa-hoi-63601/lich-su-7-dia-danh-don-vi-hanh-chinh-co-so-cua-quan-hoang-mai-2797250421091509937.htm|access-date=2026-08-21|website=|archive-url=|archive-date=|url-status=live}}</ref>
+
+Hiện nay 3 trong 4 làng cổ thuộc phường Tương Mai:
+
+* '''Làng Hoàng Mai''': Tức Mai Vàng, tiếng Nôm là Mơ Vàng, còn gọi là Mơ Rượu vì ở đây nấu được rượu mơ, rượu cúc ngon nổi tiếng, còn được đưa lên vua, nhưng nghề làm rượu đã thất truyền từ lâu.<ref>{{Chú thích web |last=Vương Anh |date=2020-07-25 |title=Kẻ Mơ – mạch làng vẫn chảy |url=https://nhipsonghanoi.hanoimoi.vn/ke-mo-mach-lang-van-chay-624576.html |url-status=live |archive-date= |access-date=2026-08-21 |website=Cơ quan Báo và Phát thanh, truyền hình Hà Nội|archive-url=}}</ref> Cổng làng xưa ở đầu đường Hoàng Mai, hiện tại không còn nữa. Làng Hoàng Mai là làng to nhất vùng đất, trải trên đường Hoàng Mai ngày nay.
+** Làng có 2 thôn Đông Mai và Tây Mai, tên tục là thôn Đông, thôn Đoài.<ref name=":1" /> Đầu thôn Đông Mai ở ngõ 224 đường Hoàng Mai, đầu thôn Tây Mai ở đầu đường Hoàng Mai.
+** Làng có xóm Bến Lợi,<ref name=":1">{{Chú thích web |last=Trần Văn Mĩ |date=2003-09-09 |title=Làng cổ Hoàng Mai |url=https://hanoimoi.vn/lang-co-hoang-mai-22689.html |url-status=live |access-date=2026-08-21 |website=Cơ quan Báo và Phát thanh, truyền hình Hà Nội|archive-url=|archive-date=}}</ref> do đông dân cư và xa làng Hoàng Mai lên xóm sau này thành một thôn gọi là thôn Thanh Mai, tên phổ biến ngày nay là Đền Lừ
+** Làng ngày xưa có một hồ lớn tên Mai Hồ trong ngõ 52 phố Minh Khai ngày nay. Trong ngõ đó xưa có trại Mai Hồ.<ref>{{Chú thích web |last=HNMCT |date=2005-06-29 |title=Phố Minh Khai từ vùng đất xưa |url=https://hanoimoi.vn/pho-minh-khai-tu-vung-dat-xua-63478.html |url-status=live |access-date=2026-08-21 |website=Cơ quan Báo và Phát thanh, truyền hình Hà Nội |archive-url=|archive-date=}}</ref> Hiện nay, hồ và trại không còn và một xưởng của [[công ty cổ phần bánh kẹo Hải Hà]] được xây ở khu đất đó.
+* '''Làng Mai Động''': Tức Động Mai, tên cổ là My Động, tiếng nôm là Mơ Đậu. Làng có hai xóm, xóm chính tên là Mơ Đậu vì xóm chủ yếu làm nghề đậu phụ, nuôi lợn, nhưng hiện tại chỉ còn vài nhà bán đậu, xóm phụ tên Mơ Táo vì xóm trồng nhiều táo.<ref name=":2" /> Cổng làng hiện nay ở đầu ngõ 254 phố Minh Khai. Xóm Mơ Đậu xưa ở trên ngõ 254 phố Minh Khai ngày nay còn xóm Mơ Táo xưa ở trên ngõ 139 đường Tam Trinh.
+* '''Làng Tương Mai''': Tên cũ là Xóm Lẻ,<ref name=":7">{{Chú thích web |last=Lan Châu |date=2021-10-20 |title=Hoàng Mai chuyện cũ |url=https://nguoihanoi.vn/hoang-mai-chuyen-cu-3604.html |url-status=dead |access-date=2026-08-21 |website=Tạp chí Người Hà Nội |language=|archive-url=|archive-date=}}</ref> còn gọi là Mơ Cơm vì chuyên bán cơm, xôi cho khách đi từ phía nam lên Thăng Long.<ref name=":2" /> Trước thời [[nhà Mạc]], làng là một xóm lẻ làng Hoàng Mai. Đầu thế kỷ XVI, làng xin được tách riêng do dân làng có mong muốn làng sánh ngang, tương đồng làng Hoàng Mai, nên mới có tên là Tương Mai.<ref name=":7" /> Do có người đỗ tiến sĩ làm quan to trong triều, xóm được tách ra thành làng Tương Mai.<ref name=":7" /> Làng nổi tiếng với xôi xéo, hiện tại còn vài nhà vẫn bán xôi. Làng chủ yếu nằm phía Bắc đường Nguyễn Đức Cảnh đến ngõ 151 đường Nguyễn Đức Cảnh và phía Nam ngõ 179 đường Trương Định ngày nay. Cổng làng hiện nay ở đầu ngõ 281 đường Trương Định.
+Con đường nối từ [[nút giao thông Pháp Vân]] đến ngõ 727 đường Tam Trinh (nút giao với đường Tam Trinh) được đặt tên là phố Cổ Mai vào ngày 15 tháng 7 năm 2026 và chính thức treo biển vào ngày 8 tháng 8 năm 2026 theo tên của vùng đất này.<ref>{{Chú thích web |last=Thông tấn xã Việt Nam |date=2026-07-15 |title=Hà Nội đặt tên 51 tuyến đường, phố mới |url=https://vtv.vn/ha-noi-dat-ten-51-tuyen-duong-pho-moi-100260715204144963.htm |access-date=2026-08-18 |website=Đài Truyền hình Việt Nam |language=|archive-url=https://web.archive.org/web/20260818201510/https://vtv.vn/ha-noi-dat-ten-51-tuyen-duong-pho-moi-100260715204144963.htm|archive-date=2026-08-18|url-status=dead}}</ref><ref>{{Chú thích web |last=Trần Oanh |date=2026-08-08 |title=Phường Hoàng Mai gắn biển tên phố Cổ Mai: Nối liền chiều sâu lịch sử và nhịp sống hiện đại |url=https://hanoimoi.vn/phuong-hoang-mai-gan-bien-ten-pho-co-mai-noi-lien-chieu-sau-lich-su-va-nhip-song-hien-dai-1215658.html |access-date=2026-08-18 |website=Cơ quan Báo và Phát thanh, truyền hình Hà Nội |language=|archive-url=https://web.archive.org/web/20260818201510/https://hanoimoi.vn/phuong-hoang-mai-gan-bien-ten-pho-co-mai-noi-lien-chieu-sau-lich-su-va-nhip-song-hien-dai-1215658.html|archive-date=2026-08-18|url-status=dead}}</ref>
+
+==== Mai Động ====
+Năm 1979, khi nạo vét sông Kim Ngưu, những công cụ bằng đá có niên đại khoảng từ 3.500 năm đến 4.000 năm đã được phát hiện.<ref name=":02">{{Chú thích web |tác giả=Trần Văn Mỹ |họ= |tên= |ngày=2020-05-21 |tựa đề=Mai Động hồn làng trong phố |url=http://nhipsonghanoi.hanoimoi.com.vn/tin-tuc/Xua-va-nay/822719/mai-dong---hon-lang-trong-pho |url lưu trữ= |ngày lưu trữ= |ngày truy cập=2026-08-21 |website=Cơ quan Báo và Phát thanh, truyền hình Hà Nội|url-status=live}}</ref>
+
+Vào những năm đầu Công nguyên, [[Tam Trinh|Nguyễn Tam Trinh]], người quận [[Cửu Chân]], đến Mai Động mở trường dạy văn và võ. Năm 40, khi [[Khởi nghĩa Hai Bà Trưng|Hai Bà Trưng phất cờ khởi nghĩa]], Tam Trinh đem 3.000 tráng đinh lên [[Hát Môn]] tụ nghĩa.<ref name=":02" />
+
+Đầu thế kỷ XV, Mai Động là nơi diễn ra một trận chiến giữa quân Minh do Vương Thông chỉ huy và nghĩa quân của Lê Lợi do Thái giám Lê Nguyễn chỉ huy.<ref name=":02" />
+
+==== Minh Khai (phố) ====
+Thời xưa, phố Minh Khai là một đoạn của tòa thành đất vòng ngoài bao quanh kinh thành Thăng Long. Thời Pháp thuộc, phần phía tây của phố Minh Khai (từ ngã tư Trung Hiền đến ngõ Chùa Hưng Ký hiện nay) được gọi là phố Hưng Ký (đặt theo tên nhà tư sản Hưng Ký, người có một dãy nhà cho thuê ở đây và đã lập lên [[chùa Hưng Ký]]). Phần phía đông (từ ngõ Chùa Hưng Ký đến cầu Mai Động hiện nay) được gọi là phố Mai Động (đặt theo tên làng). Hai phố được hợp nhất và đặt tên là phố Minh Khai vào tháng 6 năm 1964 theo nhà cách mạng [[Nguyễn Thị Minh Khai]].<ref name=":02" />
+
+==== Giáp Bát ====
+{{Xem thêm 2|[[Giáp Bát]]}}
+Giáp Bát (tên khác là làng Tám) là một trong 9 giáp của làng Sét ([[Thịnh Liệt]]).<ref name=":3">{{Chú thích web |last=Bùi Xuân Đính |date=2006-06-06 |title=Làng Giáp Bát |url=https://hanoimoi.vn/lang-giap-bat-96951.html |url-status=live |access-date=2026-08-21 |website=Cơ quan Báo và Phát thanh, truyền hình Hà Nội|archive-url=|archive-date=}}</ref> Làng nằm trên đường Giáp Bát và phần lớn trong địa bàn phường, trước đó. Đầu thế kỷ XX, Giáp Bát nhập thêm Giáp Thất vì giáp này còn quá ít đinh. Làng có hai xóm là xóm Trong và xóm Ngoài. Làng Giáp Bát xưa hầu như theo [[Công giáo tại Việt Nam|Công giáo]]. Khi [[Kitô giáo|Thiên chúa giáo]] vào làng, dân bỏ nghề làm vàng mã.<ref name=":3" />
+
+==== Trung Hiền ====
+Ngã tư Trung Hiền hay với tên phổ biến hơn là ngã tư Chợ Mơ, ngã tư là nút giao giữa 4 đường lớn - Bạch Mại, Trương Định, Đại La, Minh Khai. Tên được lấy từ một người đàn ông tên Trung Hiền, sinh sống tại làng Tương Mai xưa. Tương truyền rằng ông có sức khoẻ, giỏi võ nghệ, tính tình khảng khái sẵn sàng giúp người, ông còn đứng ra giúp nhà nước đương thời thẳng tay trừng trị bọn lưu manh. Do có sự căm thù và hết đường làm ăn, những người bị ông trừng trị sau đó đã ám sát ông. Người làng tỏ lòng thương tiếc lên đã lập lên miếu nhỏ đầu làng thờ ông tại dưới một cây đa cổ thụ, ngã tư [[Bạch Mai]] ngày nay. Do ở đầu làng nên người từ phương Nam tới hay đi qua lễ bái. Miếu này đã dỡ sau năm 1954.<ref>{{Chú thích web |last=HNM |date=2004-08-04 |title=Ngã tư Trung Hiền – Kẻ Mơ |url=https://hanoimoi.vn/nga-tu-trung-hien-ke-mo-37250.html |url-status=dead |access-date=2026-08-21 |website=Cơ quan Báo và Phát thanh, truyền hình Hà Nội|archive-url=|archive-date=}}</ref> Một trường tiểu học trong ngõ Trại Cá từng được đặt tên theo ông.<ref name="Trường Tiểu học Trung Hiền cũ">Trường Tiểu học Trung Hiền cũ</ref>
+
+==== Trại Cá ====
+Ngõ Trại Cá được đặt tên vì ngày xưa trong ngõ có nghề làm cá, buôn cá của dân di cư sang khu đất Cổ Mai,<ref>{{Chú thích web |last=Thúy Hằng |date=2016-09-03 |title=Thú vị tên ngõ Hà Nội |url=https://thanhnien.vn/thu-vi-ten-ngo-ha-noi-185589900.htm |url-status=dead |access-date=2026-08-21 |website=Báo Thanh Niên |language=|archive-url=|archive-date=}}</ref> các ngành nghề này đã bỏ từ lâu.
+
+== Xã hội==
+
+=== Giáo dục ===
+{{right|[[File:Trường_tiểu_học_và_trường_trung_học_cơ_sở_Tân_Mai.jpg|thumb|Trường tiểu học Tân Mai (trái) và trường trung học cơ sở Tân Mai (phải)]][[File:Khu_chung_cư_K35_Tân_Mai.jpg|thumb|Khu chung cư K35 Tân Mai]]}}Ngày 10 tháng 8 năm 2026, phường công bố việc sát nhập các trường học trên địa bàn, giảm từ 22 trường công xuống 11 trường công.<ref>{{Chú thích web |last=Hà Thanh - Thanh Hòa |first=Báo |date=2026-08-10 |title=Phường Tương Mai còn 11 trường công lập sau sắp xếp |url=https://hanoimoi.vn/phuong-tuong-mai-con-11-truong-cong-lap-sau-sap-xep-1215927.html |access-date=2026-08-20 |website=Báo Hànộimới |language=vi}}</ref><ref>{{Chú thích web |last=Vương Vân |date=2026-08-11 |title=Phường Tương Mai còn 11 cơ sở giáo dục công lập sau sắp xếp |url=https://hanoi.gov.vn/tin-dia-phuong/phuong-tuong-mai-con-11-co-so-giao-duc-cong-lap-sau-sap-xep-4260810190309013.htm |url-status=live |access-date=2026-08-20 |website=Ủy ban nhân dân Thành phố Hà Nội - Cổng thông tin điện tử}}</ref>
+
+Các địa điểm giáo dục nổi bật trên địa bàn phường (từ Bắc xuống Nam, từ Đông sang Tây):
+
+* Trương Trung học cơ sở Phương Liệt
+* Trung tâm Kỹ năng thực hành Cơ giới đường bộ thuộc Trường Cao đẳng Giao thông vận tải Trung ương I
+*Trường Tiểu học Giáp Bát:
+**Trụ sở chính: số 120 đường Giáp Bát.
+**Phân hiệu 1: ngõ 252 phố Minh Khai.<ref>Trường Tiểu học Quỳnh Lôi cũ</ref>
+**Phân hiệu 2: số 10 ngõ Trại Cá.<ref name="Trường Tiểu học Trung Hiền cũ"/>
+* Trường Trung học cơ sở Giáp Bát:
+**Trụ sở chính: số 20 đường Giáp Bát.
+**Phân hiệu 1: ngõ 337 đường Giải Phóng.<ref>Trường Trung học cơ sở Phương Liệt cũ</ref>
+* Trường Tiểu học Công nghệ giáo dục Hà Nội
+*Trường Mẫu giáo Tương Mai:
+**Trụ sở chính: số 126 phố Nguyễn An Ninh.
+**Phân hiệu 2: số 7 ngõ Thống Nhất.<ref>Trường Mầm non Trương Định cũ</ref>
+**Thuộc phân hiệu 2: Ngách 20 ngõ Trại Cá.
+* Trường Mầm non Giáp Bát:
+** Trụ sở chính: số 55 phố Nguyễn An Ninh.<ref>Trường Mầm non 10-10 cũ</ref>
+** Phân hiệu 1: ngõ 19 phố Kim Đồng.
+** Phân hiệu 2: số 1 ngõ 389 đường Trương Định.<ref>Trường Mầm non Hoa Hồng cũ</ref>
+*Trường Tiểu học Tân Định
+*Trường Trung học cơ sở Tân Định
+*Trường Tiểu học Tân Mai
+*Trường Trung học cơ sở Tân Mai
+* [[Trường Đại học Phương Đông (Việt Nam)|Trường Đại học Phương Đông]]
+* Trường Mầm non Hoàng Văn Thụ
+** Trụ sở chính: số 108 phố Mai Động.<ref>Trường Mầm non Mai Động cũ</ref>
+** Phân hiệu 1: khu đô thị Đền Lừ I.<ref>Trường Mầm non Tuổi Thơ cũ</ref>
+** Phân hiệu 2: số 121 đường Hoàng Mai.
+*Trường Tiểu học Hoàng Văn Thụ:
+**Trụ sở chính: khu đô thị Đền Lừ I.<ref>Trường Tiểu học Đền Lừ cũ</ref>
+**Phân hiệu 1: số 19 ngõ 160 đường Hoàng Mai.
+**Thuộc phân hiệu 1: số 11 phố Mai Động.<ref>Cơ sở 2 Trường Tiểu học Mai Động cũ</ref>
+*Trường Trung học cơ sở Hoàng Văn Thụ:
+**Trụ sở chính: khu đô thị Đền Lừ I.<ref>Trường Trung học cơ sở Đền Lừ cũ</ref>
+**Phân hiệu 1: số 2 ngõ 160 đường Hoàng Mai.
+*Trương Trung học phổ thông Đông Kinh
+*Trương Trung học phổ thông Văn Hiến
+
+=== Cơ quan, doanh nghiệp ===
+Các cơ quan, doanh nghiệp nổi bật trên địa bàn phường:
+
+* Công ty Cổ phần Bánh kẹo Hải Hà & Công ty Liên doanh Hải Hà Kotobuki
+*Công ty Cổ phần Vật tư Công nghiệp Hà Nội
+*Công ty Cổ phần Cơ điện Thống Nhất (sản xuất quạt điện với thương hiệu Vinawind)
+*Công ty Cổ phần Xuất nhập khẩu Rau quả I (chế biến thực phẩm)
+*Tổng Công ty Lắp máy Việt Nam
+*Công ty TNHH MTV cơ khí Trần Hưng Đạo
+*Công ty Cổ phần Sản xuất – Xuất nhập khẩu Dệt may (VINATEXIMEX)
+*Công ty Cổ phần Hợp tác Lao động và Thương Mại (LABCO)
+*Công ty Cổ phần Vật tư Nông nghiệp Hà Nội
+*Nhà máy nước Tương Mai (thuộc Công ty Nước sạch Hà Nội)
+
+Công ty Cổ phần Tập đoàn Hồ Gươm Group có tiền thân là Xí nghiệp may thời trang Trương Định<ref>{{Chú thích web |title=Lễ kỉ niệm 25 năm thành lập Công ty Cổ phần Tập đoàn Hồ Gươm |url=http://www.vietnamtextile.org.vn/le-ki-niem-25-nam-thanh-lap-cong-ty-cp-tap-doan-ho-guom_p1_1-1_2-1_3-666_4-2269_9-2_11-10_12-75_13-1034.html |access-date=2026-08-18 |website=|date=2017-08-14|last=Hiệp hội Dệt may Việt Nam|archive-url=https://web.archive.org/web/20260818201510/http://www.vietnamtextile.org.vn/le-ki-niem-25-nam-thanh-lap-cong-ty-cp-tap-doan-ho-guom_p1_1-1_2-1_3-666_4-2269_9-2_11-10_12-75_13-1034.html|archive-date=2026-08-18|url-status=dead}}</ref> trụ sở tại 208 đường Trương Định, ngày nay xưởng vẫn hoạt động dưới tập đoàn.
+
+Phường có khu công nghiệp không chính thức hay gọi là Khu công nghiệp Vĩnh Hoàng (phía Đông của Khu đô thị Vĩnh Hoàng, phía Bắc [[Đường vành đai 2,5 (Hà Nội)|đường Vĩnh Hoàng]]).
+
+=== Khu công cộng ===
+Các công viên công cộng trên địa bàn phường:
+*Vườn hoa Hoàng Văn Thụ (hay gọi là công viên Hoàng Văn Thụ hoặc khu tưởng niệm Đồng chí Hoàng Văn Thụ)
+*Công viên hồ Đền Lừ (hay gọi ngắn là Công viên Đền Lừ)
+*Vườn hoa Đền Lừ, Vườn hoa nhỏ Đền Lừ
+*Công viên Khu đô thị Vĩnh Hoàng (tên khác là công viên hồ Vĩnh Hoàng hoặc công viên Vĩnh Hoàng).
+Một số khu công cộng khác:
+*Nhà thi đấu Tương Mai: số 5 ngõ 104 phố Nguyễn An Ninh
+*<bdi>Trung tâm Văn hóa Thể thao phường Tương Mai</bdi><bdi>: số 81 ngõ 151 đường Nguyễn Đức Cảnh</bdi>
+*Nhà văn hóa Tương Mai: số 85 ngách 91 ngõ Trại Cá
+*Sân Kho: số 102 ngõ Trại Cá
+*<bdi>Câu lạc bộ Giếng Tròn Làng Tương Mai: ngõ 151 phố Nguyễn Đức Cảnh</bdi>
+*Sân bóng đá <bdi>Câu lạc bộ</bdi> Thể thao Thiếu nhi Tân Mai: ngách 88 ngõ 389 đường Trương Định
+
+=== Giếng tròn ===
+Phường Tương Mai có nhiều giếng giữ lại từ xưa, nổi bật là giếng xóm Tây, giếng xóm Đông và giếng xóm Trung, tuy đã qua cải tạo.<ref name=":1" /> Nhiều giếng cũng đã bị lấp, điển hình là giếng Bô lấp để làm khu vui chơi cho thiếu nhi, ngày nay là Câu lạc bộ Giếng tròn làng Tương Mai.<ref name=":1" /> Một trong 4 máy bay B52 trưng bày ở [[Bảo tàng Phòng không - Không quân (Việt Nam)|Bảo tàng Phòng không – Không quân]] đã rơi xuống làng Tương Mai và các vùng lân cận, phần chính rơi xuống giếng Phố, nay là một cơ sở may của Tập đoàn Hồ Gươm Group tại số 208 đường Trương Định.<ref>{{Chú thích sách |last=Lưu Minh |first=Trị |title=Hà Nội Danh thắng và Di tích tập 02 |date= |publisher=Nhà Xuất bản Hà Nội |year=2011 |isbn=9786045500910 |edition= |location= |publication-date= |pages=393 |language=vi}}</ref>
+
+== Văn hóa==
+
+=== Hội vật làng Mai Động ===
+Hội vật làng Mai Động được tổ chức từ mùng 4 đến mùng 7 [[Tết Nguyên Đán]]<ref name=":32">{{Chú thích web |tác giả=Duy Linh |họ= |tên= |ngày=2018-02-19 |tựa đề=Hội vật làng Mai Động |url=https://nhandan.com.vn/photo_news/hoi-vat-lang-mai-dong-316916/ |url lưu trữ= |ngày lưu trữ= |ngày truy cập=2026-08-21 |website=Báo Nhân dân|url-status=live}}</ref> (hoặc mùng 6 theo một số nguồn tin<ref name=":42">{{Chú thích web |tác giả=Công Phương |họ= |tên= |ngày=2020-01-30 |tựa đề=Sôi nổi hội vật truyền thống làng Mai Động |url=https://phapluatxahoi.vn/soi-noi-hoi-vat-truyen-thong-lang-mai-dong-177928.html |url lưu trữ=https://web.archive.org/web/20260818201510/https://phapluatxahoi.vn/soi-noi-hoi-vat-truyen-thong-lang-mai-dong-177928.html |ngày lưu trữ=2026-08-18 |ngày truy cập=2026-08-18 |website=Pháp luật xã hội – Báo Kinh tế và đô thị|url-status=dead}}</ref><ref name=":5">{{Chú thích web |tác giả=Quang Hùng |họ= |tên= |ngày=2020-01-29 |tựa đề=Đầu xuân về Mai Động xem đấu vật cổ truyền |url=https://vovgiaothong.vn/dau-xuan-ve-mai-dong-xem-dau-vat-co-truyen |url lưu trữ=https://web.archive.org/web/20260818201510/https://vovgiaothong.vn/dau-xuan-ve-mai-dong-xem-dau-vat-co-truyen |ngày lưu trữ=2026-08-18 |ngày truy cập=2026-08-18 |website=Ban VOV Giao thông Quốc gia (Đài Tiếng nói Việt Nam)|url-status=dead}}</ref>) tại đình Mai Động. Hội vật quy tụ nhiều lứa tuổi: từ các bô lão, trung niên, thanh niên đến các cháu thiếu niên nhi đồng, tới từ các lò vật trên cả nước.<ref name=":32" /> Các hoạt động đặc trưng là đánh trống vật, thực hiện nghi lễ "xe đài" hay "Múa Hạc", người chiến thắng dâng hương lễ thánh.<ref name=":32" /> Người thắng cuộc nhận được một phần tiền thưởng từ đóng góp của người dân trong làng.<ref name=":42" />
+
+Hội vật bắt đầu sau lễ rước thánh kiệu tưởng nhớ Đức Thánh Tam Trinh. Đây cũng là một trong số các nguồn đô vật cho đội tuyển quốc gia.<ref name=":5" /> Thể lệ hội:
+
+* Trước mỗi trận đấu, các đô vật phải thực hiện nghi thức chào sân.<ref name=":5" />
+* Để dành chiến thắng, một đô vật phải thắng liên tiếp ba trận với ba đối thủ khác nhau (đô vật vào thách đấu sau mỗi chiến thắng được gọi là thách đấu để "phá giải").<ref name=":5" />
+
+=== Tâm linh ===
+
+{{right|[[File:Cổng_đền_Lư_Giang.jpg|thumb|Cổng đền Lư Giang]]}}
+
+Địa điểm văn hóa tâm linh nổi bật:
+
+* Đền Cổ Mai (thờ chúa bà Bản Hạc)
+* Chùa Tương Mai
+* Đình Tương Mai, thờ [[Trần Khát Chân]] ([[Thành hoàng|thành hoàng làng]])
+*[[Chùa Nga My|Chùa Hoàng Mai]] (hay gọi là Chùa Nga My)
+*[[Đình Hoàng Mai]]
+*[[Chùa Hưng Ký]]
+*Đền Mai Sau (tên được lấy từ Vũ Thị Sau, vợ ông [[Trần Văn Thành]], tức Hưng Ký)
+*Chùa Thiện Khánh (hay chùa Mai Động):
+**Trong chùa hiện lưu được một tấm bia niên hiệu Vĩnh Trị thứ 5 (1680), một pho tượng của quận chúa Trịnh Thị Ngọc Sanh và của người em là Trịnh Thị Ngọc Nhị, ngoài ra cũng đã xây thêm Điện Mẫu.<ref name=":22">{{Chú thích web |tác giả= |họ= |tên= |ngày= |tựa đề=Đình nghè Mai Động |url=http://ditichlichsu-vanhoahanoi.com/2017/10/02/dinh-nghe-mai-dong/ |url lưu trữ=https://web.archive.org/web/20260818201510/http://ditichlichsu-vanhoahanoi.com/2017/10/02/dinh-nghe-mai-dong/ |ngày lưu trữ=2026-08-18 |ngày truy cập=2026-08-18 |website=Di tích lịch sử – văn hóa Hà Nội|url-status=dead}}</ref>
+*Nghè Mai Động (hay Đình nghè Mai Động):
+**Nghè Mai Động là nơi ở cũ của Đức Thánh Tam Trinh, phía trước có giếng Ngọc. Nghè được dựng lại vào năm Duy Tân thứ 10 (1916) với tiền tế 5 gian và hậu cung 2 gian, quay hướng tây-bắc, bố cục hình “chữ Tam”. Nghè Mai Động là di tích lịch sử kiến trúc quốc gia.<ref name=":22" />
+*Đình Ông, thờ [[Lý Đạo Thành]]
+*Đình Mai Động (hay đình làng Mai Động), thờ [[Tam Trinh|Nguyễn Tam Trinh]] ([[Thành hoàng|thành hoàng làng]])<ref name=":12">{{Chú thích web |tác giả=Q.N. |họ= |tên= |ngày=2017-05-18 |tựa đề=Đình làng Mai Động |url=https://laodongthudo.vn/dinh-lang-mai-dong-53365.html |url lưu trữ=https://web.archive.org/web/20260818201510/https://laodongthudo.vn/dinh-lang-mai-dong-53365.html |ngày lưu trữ=2026-08-18 |ngày truy cập=2026-08-18 |website=Báo Lao động thủ đô|url-status=dead}}</ref>
+**Đức Thánh [[Tam Trinh]] là tướng của [[Hai Bà Trưng]] và là người đã dạy chữ và truyền nghề làm đậu phụ cho người dân ở đây. Đình Mai Động là di tích lịch sử kiến trúc quốc gia.<ref name=":22" />
+**Hiện tại trong đình còn lưu giữ 5 bia đá có nội dung về lịch sử vùng đất Mai Động và các nhân vật liên quan.<ref name=":12" /> Về mặt kiến trúc, "nghi môn gồm 4 trụ biểu nhìn ra một gốc đa to và hồ nhỏ hình chữ nhật. Ngoài cổng có tượng đôi voi chầu, mới thay cho sư tử đá. Toà tiền tế rộng 5 gian, cửa bức bàn, thềm cao 5 bậc, đầu hàng hiên có tượng hai vị Hộ pháp đối diện nhau. Tiếp theo là thiêu hương 6 gian nối với hậu cung. Hai bên sân có nhà tả, hữu mạc 3 gian, cũng cửa bức bàn".<ref name=":22" /> 
+*Đền Lư Giang (hay Đền Lừ), thờ Phạm Tổ Thu và Phạm Ngưu Tất
+*Chùa Linh Quang
+*Đền Mai Hoa
+*Miếu thờ cô bé Mai Hoa
+
+=== Thơ ca ===
+Dân gian có câu ca về rượu làng Hoàng Mai “Rượu làng Mơ/Cờ Mộ Trạch" hay “Rượu làng Mơ/Thơ Kẻ Lủ”:<ref name=":2" />
+::''“Em là con gái Kẻ Mơ,''
+::''Em đi bán rượu tình cờ gặp anh''
+::''Rượu ngon chẳng quản be sành,''
+::''Áo rách khéo vá hơn lành vụng may.”''
+Nhà thơ lãng mạn nổi tiếng [[Nguyễn Bính]] viết bài thơ "Tương Tư" vào năm 1939 về làng Hoàng Mai,<ref name=":2" /> bài thơ được thêm vào phần đọc thêm các chương trình Sách giáo khoa Ngữ văn lớp 11 (1990-2020):
+{{center|
+:''"Thôn Đoài ngồi nhớ thôn Đông,''
+:''Một người chín nhớ mười mong một người.''
+:''Gió mưa là bệnh của giời,''
+:''Tương tư là bệnh của tôi yêu nàng.''
+:''Hai thôn chung lại một làng,''
+:''Cớ sao bên ấy chẳng sang bên này?''
+:''Ngày qua ngày lại qua ngày,''
+:''Lá xanh nhuộm đã thành cây lá vàng.''
+:''Bảo rằng cách trở đò giang,''
+:''Không sang là chẳng đường sang đã đành.''
+:''Nhưng đây cách một đầu đình,''
+:''Có xa xôi mấy mà tình xa xôi...''
+:
+:''Tương tư thức mấy đêm rồi,''
+:''Biết cho ai, hỏi ai người biết cho!''
+:''Bao giờ bến mới gặp đò?''
+:''Hoa khuê các bướm giang hồ gặp nhau?''
+:''Nhà em có một giàn giầu,''
+:''Nhà anh có một hàng cau liên phòng.''
+::
+:''Thôn Đoài thì nhớ thôn Đông,''
+:''Cau thôn Đoài nhớ giầu không thôn nào?"''<ref>Hoài Thanh và Hoài Chân (1942). ''Tuyển tập Thi nhân Việt Nam 1932-1941''. Nhà in tư nhân Nguyễn Đức Phiên.</ref>}}
+
+== Giao thông==
+Một số con đường trên địa bàn phường:
+{{right|[[File:Đường_Bờ_Sông_Sét.jpg|thumb|Đường Bờ Sông Sét]]}}
+*Phố Tương Mai: từ số nhà 131 phố Nguyễn An Ninh, qua cầu Khỉ đến số 252 đường Giải phóng; có [[chiều dài]] 300m, rộng 8m. Trước đây là một đoạn phố Nguyễn An Ninh.
+*Phố Nguyễn An Ninh: [[chiều dài]] 950m, rộng từ 8-10,5m, đi từ số nhà 303 phố Trương Định đến 303 phố Vọng. Trước đây phố này nối với đường Giải Phóng, nhưng sau khi xây cầu Nguyễn An Ninh bắc qua [[sông Sét]] thì phố Nguyễn An Ninh được nắn thẳng để nối vào phố Vọng.
+*Đường Hoàng Mai: từ số nhà 99 đường Trương Định đến điểm giao cắt phố Tân Mai [[Đường vành đai 2,5 (Hà Nội)|đường vành đai 2,5]]), đầu cầu Kim Ngưu – Đền Lừ. Tên đường trước tháng 7/1999 là Ngõ 103 đường Trương Định.
+*Phố Nguyễn Đức Cảnh: từ điểm giao cắt với đường Trương Định đến Nhà máy nước Tương Mai.
+*Phố Lương Khánh Thiện: từ điểm giao cắt với phố Nguyễn Đức Cảnh đến điểm giao cắt với phố Tân Mai.
+*Đường Trương Định (một phần): từ đoạn giáp địa phận phường [[Bạch Mai]] đến đoạn giáp địa phận phường [[Hoàng Mai, Hà Nội|Hoàng Mai]].
+*Phố Vọng (một phần): từ điểm giao cắt đường Trường Trinh đến nơi giao cắt với đường Giải Phóng
+*Phố Mai Động: từ cầu KU1 đến điểm giao cắt với đường Hoàng Mai.
+*Đường Bờ Hồ Đền Lừ: từ Nhà máy nước Tương Mai đến Khu đô thị Đền Lừ, từ Nhà máy nước Tương Mai đến điểm giao cắt với phố Tân Mai.
+*Phố Kim Ngưu, phố Tân Mai, phố Vĩnh Hoàng (phía chiều hướng về đường [[Đường Giải Phóng, Hà Nội|Giải Phóng]] – [[Quốc lộ 1|Quốc lộ 1A]]) hay một phần [[Đường vành đai 2,5 (Hà Nội)|đường vành đai 2,5]]: từ điểm giao đường Lĩnh Nam và phố Vĩnh Hoàng đến ngã ba Giải Phóng – Kim Đồng.
+*Đường Bờ Sông Sét (một phần): từ đầu cầu Khỉ phía đông sông Sét đền cầu Kim Đồng.
+*Đường Giáp Bát (một phần): từ số 641 đường Giải Phóng đến điểm giao cắt với phố Kim Đồng.
+*Phố Trần Đại Nghĩa (một phần) (xưa hay gọi là phố Trần Đại Nghĩa kéo dài hoặc phố Trần Đại Nghĩa ven [[sông Sét]]): từ nút giao với phố Đại La đến số 303 phía Đông phố Trần Đại Nghĩa và số 134 phía Tây phố Trần Đại Nghĩa thì chia ra hai nhánh, 2 nhánh phố đó đi xuống đến cầu Khỉ.
+*Đường Tam Trinh (một phần):
+**Phía Tây sông Kim Ngưu: từ đầu cầu Mai Động đến đầu cầu KU1
+**Phía Đông sông Kim Ngưu: từ giao cắt với đường Lĩnh Nam đến đầu cầu Kim Ngưu - Đền Lừ
+*Phố Đại La, phố Minh Khai, [[Đường vành đai 2 (Hà Nội)|đường vành đai 2]] trên cao (chiều về phía Đông): từ giữa ngã tư Sở đến giữa cầu Mai Động
+Một số ngõ, ngách nổi bật: ngõ Trại Cá, ngõ Gốc Đề, ngõ Chùa Hưng Ký, ngõ 254 phố Minh Khai, ngõ 553 đường Giải Phóng, ngõ Giáp Bát, ngõ 19 phố Kim Đồng, ngách 20 ngõ Trại Cá.
+
+== Chú thích== 
+{{tham khảo| 30em}}
+
+== Tham khảo==
+{{Sơ khai Hà Nội}}{{Đơn vị hành chính thuộc thành phố Hà Nội}}

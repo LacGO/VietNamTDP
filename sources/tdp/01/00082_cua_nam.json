@@ -1,0 +1,104 @@
+{
+  "ward_code": "00082",
+  "ward_name": "Cửa Nam",
+  "province_code": "01",
+  "resolution": "",
+  "arrangement": "2026_07",
+  "effective_date": "2026-07-01",
+  "verified": "unverified",
+  "extraction": {
+    "source": "vi.wikipedia.org",
+    "title": "(cache)",
+    "mode": "table"
+  },
+  "sources": [
+    {
+      "key": "wiki-00082-1",
+      "title": "Nghị quyết về việc thành lập, sắp xếp, tổ chức lại các tổ dân phố trên địa bàn phường Cửa Nam",
+      "url": "https://cuanam.hanoi.gov.vn/thong-tin-cong-khai/nghi-quyet-ve-thanh-lap-sap-xep-to-chuc-lai-to-dan-pho-tren-dia-ban-phuong-cua-nam-2801260630145626688.htm",
+      "date": "2026-06-29",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-00082-2",
+      "title": "Quyết định số 27/QĐ-UBBC ngày 12 tháng 2 năm 2026 của Ủy ban bầu cử phường Cửa Nam về việc công bố danh sách chính thức những người ứng cử đại biểu Hội đồng nhân dân phường Cửa Nam khóa II, nhiệm kỳ 2026 – 2031 theo từng đơn vị bầu cử",
+      "url": "https://cuanam.hanoi.gov.vn/thong-tin-cong-khai/cong-bo-danh-sach-chinh-thuc-nhung-nguoi-ung-cu-dai-bieu-hdnd-phuong-cua-nam-khoa-ii-nhiem-ky-20262031-2801260225102003906.htm",
+      "date": "2026-08-16",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-00082-3",
+      "title": "Nghị quyết số 111/2025/UBTVQH15 ngày 24 tháng 12 năm 2025 của Ủy ban Thường vụ Quốc hội về phân loại đô thị",
+      "url": "https://cdn.nhandan.vn/files/f4a4abf7f9a0ba4a91744616546d850872b76917f90d5a74cc9eebef1369fb6f/111.pdf",
+      "date": "2026-04-30",
+      "type": "wikipedia-ref"
+    }
+  ],
+  "note": "Trích tự động từ Wikipedia tiếng Việt (mode=table). Cần đối chiếu nghị quyết HĐND phường/xã.",
+  "tdp": [
+    {
+      "name": "Bà Triệu",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Dã Tượng",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Hai Bà Trưng",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Hàm Long",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Hàng Bài",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Lê Thánh Tông",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Lý Thường Kiệt",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Nam Ngư",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Ngô Quyền",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Phan Bội Châu",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Phan Chu Trinh",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Quang Trung",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Quán Sứ",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Trần Hưng Đạo",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Trần Quốc Tỏan",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Yết Kiêu",
+      "type": "tổ dân phố"
+    }
+  ]
+}

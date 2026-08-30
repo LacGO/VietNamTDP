@@ -1,0 +1,55 @@
+{{Thông tin đơn vị hành chính Việt Nam |Xã
+| tên = Yên Lãng
+| hình = 
+| ghi chú hình = 
+| vĩ độ = 21.470600324208277
+| kinh độ = 105.37788547747553
+| diện tích = 38,20 km²
+| dân số = 18.459 người
+| thời điểm dân số = 31/12/2024
+| mật độ dân số = {{formatnum:{{#expr:floor({{formatnum:18.459| R}}/{{formatnum:38,20| R}})}} }} người/km²
+| vùng = [[Đông Bắc Bộ]]
+| tỉnh = [[Phú Thọ]]
+| thành lập = 16 tháng 6 năm 2025<ref>Nghị quyết số 1676/NQ-UBTVQH15</ref>
+| trụ sở UBND =Thôn Phú Cường 
+| mã hành chính = 08773<ref>{{Chú thích web |url=https://danhmuchanhchinh.gso.gov.vn/ |title=Tổng cục Thống kê |access-date=2022-03-21 |archive-date=2021-01-10 |archive-url=https://web.archive.org/web/20210110034519/https://www.gso.gov.vn/phuong-phap-thong-ke/danh-muc/don-vi-hanh-chinh/ |url-status=dead }}</ref>
+| mã bưu chính =15524 
+|web={{url|https://yenlang.phutho.gov.vn/}}}}
+{{other|Yên Lãng (định hướng)}}
+'''Yên Lãng''' là một [[Xã (Việt Nam)|xã]] vùng núi thuộc tỉnh [[Phú Thọ]], [[Việt Nam]].
+
+== Địa lý ==
+Xã Yên Lãng nằm ở phía Bắc tỉnh [[Phú Thọ]], có vị trí địa lý<ref>{{Chú thích web |title=Đơn vị hành chính Việt Nam |url=https://sapnhap.bando.com.vn/ |access-date=2026-07-17 |website=sapnhap.bando.com.vn}}</ref>:
+*Phía bắc giáp xã [[Phú Lương, Tuyên Quang|Phú Lương]], tỉnh [[Tuyên Quang]].
+*Phía nam giáp xã [[Tam Sơn (xã)|Tam Sơn]].
+*Phía tây giáp xã [[Trường Sinh]], tỉnh [[Tuyên Quang]] và xã [[Hải Lựu]].
+*Phía đông giáp xã [[Hợp Lý]].
+Xã có diện tích 38,20&nbsp;km², dân số năm 2025 là 18.459 người, mật độ dân số đạt {{formatnum:{{#expr:floor({{formatnum:18.459| R}}/{{formatnum:38,20| R}})}} }} người/km².
+
+== Dân cư ==
+Xã bao gồm các dân tộc [[Người Kinh|Kinh]] và [[Dao]]. Dân tộc [[Dao]] chủ yếu sống tại thôn Thành Công. Tuy nhiên sự khác biệt lối sống của người [[Dao]] với người [[Người Kinh|Kinh]] đang dần hẹp lại.
+
+==Hành chính==
+Xã Yên Lãng được chia thành 21 thôn: Đá Đen, Đá Đứng, Đoàn Kết, Đồng Dạ, Đồng Dong, Đồng Nùng, Đồng Tâm, Đức Thịnh, Hoành Sơn, Lãng Sơn, Lý Nhân, Minh Tân, Phú Cường, Quang Viễn, Tam Đa, Thành Công, Thống Nhất, Trường Xuân, Xóm Mới, Yên Sơn, Yên Thiết.<ref name=":1">{{Chú thích web |last=Bộ Dân tộc và Tôn giáo |date=2026-01-29 |title=Danh sách Thôn vùng đồng bào dân tộc thiểu số và miền núi, thôn đặc biệt khó khăn giai đoạn 2026 - 2030 trên địa bàn tỉnh Phú Thọ |url=http://files.ubdt.gov.vn/files/ecm/source_files/2026/02/05/11252411_4.%20Ph%C3%BA%20Th%E1%BB%8D%201%20(th%C3%B4n).signed_26-02-05.pdf |url-status=live |archive-url=https://web.archive.org/web/20260417090807/http://files.ubdt.gov.vn/files/ecm/source_files/2026/02/05/11252411_4.%20Ph%C3%BA%20Th%E1%BB%8D%201%20(th%C3%B4n).signed_26-02-05.pdf |archive-date=2026-04-17 |access-date=2026-04-17 |website=Cổng Thông tin điện tử Bộ Dân tộc và Tôn giáo}}</ref><ref>{{Chú thích web |last=Ủy ban bầu cử xã Yên Lãng |date=2026-02-12 |title=Danh sách chính thức những người ứng cử đại biểu Hội đồng nhân dân xã Yên Lãng nhiệm kỳ 2026 - 2031 |url=https://yenlang.phutho.gov.vn/index.php/bau-cu-dai-bieu-quoc-hoi-khoa-xiv-va-hdnd-cac-cap-nhiem-ky-2026-2031/danh-sach-nguoi-ung-cu-dai-bieu-hdnd-xa-yen-lang-nhiem-ky-2026-2031 |url-status=live |archive-url=https://web.archive.org/web/20260427090807/https://yenlang.phutho.gov.vn/index.php/bau-cu-dai-bieu-quoc-hoi-khoa-xiv-va-hdnd-cac-cap-nhiem-ky-2026-2031/danh-sach-nguoi-ung-cu-dai-bieu-hdnd-xa-yen-lang-nhiem-ky-2026-2031 |archive-date=2026-04-27 |access-date=2026-04-27 |website=Trang Thông tin điện tử xã Yên Lãng - tỉnh Phú Thọ}}</ref>
+
+== Lịch sử ==
+Trước kia, địa bàn xã Yên Lãng ngày nay là địa bàn của các xã Quang Yên và Lãng Công thuộc huyện [[Sông Lô (huyện Vĩnh Phúc)|Sông Lô]], tỉnh [[Vĩnh Phúc (tỉnh)|Vĩnh Phúc]] cũ.
+
+Đến năm [[2024]], xã Lãng Công gồm 11 thôn: Trường Xuân Hoành Sơn, Tam Đa, Yên Sơn, Thành Công, Phú Cường, Minh Tân, Đoàn Kết, Thống Nhất, Lãng Sơn.
+
+Ngày [[12 tháng 6]] năm [[2025]], [[Quốc hội Việt Nam|Quốc hội]] ban hành Nghị quyết số 202/2025/QH15 về việc sắp xếp đơn vị hành chính cấp tỉnh (nghị quyết có hiệu lực từ ngày [[12 tháng 6]] năm [[2025]]).<ref>{{Chú thích web |last=xaydungchinhsach.chinhphu.vn|date=2025-07-16|title=TOÀN VĂN: Nghị quyết số 202/2025/QH15 về sắp xếp đơn vị hành chính cấp tỉnh|url=https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-202-2025-qh15-ve-sap-xep-don-vi-hanh-chinh-cap-tinh-119250612174148722.htm|url-status=live|archive-url=http://web.archive.org/web/20260705025431/https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-202-2025-qh15-ve-sap-xep-don-vi-hanh-chinh-cap-tinh-119250612174148722.htm|archive-date=2026-07-05|access-date=2026-07-25|website=Báo Điện tử Chính phủ|language=vi}}</ref> Theo đó, sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của tỉnh [[Vĩnh Phúc (tỉnh)|Vĩnh Phúc]], tỉnh [[Hòa Bình (tỉnh)|Hòa Bình]] và tỉnh [[Phú Thọ]] thành tỉnh mới có tên gọi là tỉnh '''Phú Thọ'''.
+
+Ngày [[16 tháng 6]] năm [[2025]]:
+
+* Quốc hội ban hành Nghị quyết số 203/2025/QH15 về việc sửa đổi, bổ sung một số điều của Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam (nghị quyết có hiệu lực từ ngày [[16 tháng 6]] năm [[2025]]).<ref>{{Chú thích web |last=xaydungchinhsach.chinhphu.vn|date=2025-06-28|title=NGHỊ QUYẾT 203/2025/QH15 SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA HIẾN PHÁP NƯỚC CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM|url=https://xaydungchinhsach.chinhphu.vn/nghi-quyet-203-2025-qh15-sua-doi-bo-sung-mot-so-dieu-cua-hien-phap-nuoc-cong-hoa-xa-hoi-chu-nghia-viet-nam-119250616181735552.htm|url-status=live|archive-url=http://web.archive.org/web/20260715200606/https://xaydungchinhsach.chinhphu.vn/nghi-quyet-203-2025-qh15-sua-doi-bo-sung-mot-so-dieu-cua-hien-phap-nuoc-cong-hoa-xa-hoi-chu-nghia-viet-nam-119250616181735552.htm|archive-date=2026-07-15|access-date=2026-07-15|website=Báo Điện tử Chính phủ|language=vi}}</ref> Theo đó, kết thúc hoạt động của đơn vị hành chính cấp huyện trong cả nước từ ngày 1 tháng 7 năm 2025.
+
+* [[Ủy ban Thường vụ Quốc hội]] ban hành Nghị quyết số 1676/NQ-UBTVQH15 về việc sắp xếp đơn vị hành chính cấp xã của tỉnh [[Phú Thọ]] năm 2025 (nghị quyết có hiệu lực từ ngày [[16 tháng 6]] năm [[2025]]).<ref>{{Chú thích web |last=xaydungchinhsach.chinhphu.vn |date=2025-06-20 |title=Nghị quyết số 1676/NQ-UBTVQH15 sắp xếp các ĐVHC cấp xã của tỉnh Phú Thọ năm 2025 |url=https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-1676-nq-ubtvqh15-sap-xep-cac-dvhc-cap-xa-cua-tinh-phu-tho-nam-2025-119250616204317326.htm |url-status=live |archive-url=http://web.archive.org/web/20260725082021/https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-1676-nq-ubtvqh15-sap-xep-cac-dvhc-cap-xa-cua-tinh-phu-tho-nam-2025-119250616204317326.htm |archive-date=2026-07-25 |access-date=2026-07-25 |website=Báo Điện tử Chính phủ |language=vi}}</ref> Theo đó, sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của xã Quang Yên và xã Lãng Công thành xã mới có tên gọi là '''xã Yên Lãng'''.
+
+==Du lịch==
+Yên Lãng có một số địa điểm thu hút nhiều người trong khu vực đến tham quan như: Gò Sim Yên Sơn, Đát Mưa, Hồ Suối Sải. Ngoài ra xã còn có một hệ thống núi non khá hùng vĩ với núi Sáng cao 664 mét và hai cây đa vài trăm năm tuổi.{{Cần chú thích|ngày=tháng 7 năm 2026}}
+
+==Chú thích==
+{{tham khảo}}
+
+== Tham khảo ==
+{{sơ khai Phú Thọ}}{{Đơn vị hành chính thuộc tỉnh Phú Thọ}}

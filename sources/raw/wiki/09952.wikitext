@@ -1,0 +1,98 @@
+{{Thông tin đơn vị hành chính Việt Nam |Xã
+| tên = Phú Cát
+| hình =Không ảnh núi Viên Nam.jpg 
+| ghi chú hình =Núi Viên Nam 
+| diện tích = 51,21 km²
+| dân số = 43.339 người
+| thời điểm dân số = 2025
+| mật độ dân số = {{formatnum:{{#expr:floor({{formatnum:43.339| R}}/{{formatnum:51,21| R}})}} }} người/km²
+| vùng = [[Đồng bằng sông Hồng]]
+| thành phố = [[Hà Nội]]
+| thành lập = 
+| mã hành chính =09832<ref>{{Chú thích web |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/19ttg.signed.pdf |title=Quyết định số 19/2025/QĐ-TTg ngày 30 tháng 6 năm 2025 của Thủ tướng Chính phủ về việc Ban hành Bảng danh mục và mã số các đơn vị hành chính Việt Nam |access-date=2026-06-15 |archive-date=2026-06-15 |archive-url=https://web.archive.org/web/20260615034519/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/19ttg.signed.pdf |url-status=dead | website = Cổng Thông tin điện tử Chính phủ}}</ref> 
+| web = {{url|phucat.hanoi.gov.vn}}
+| vĩ độ = 20.97206251111898| kinh độ = 105.56404030550196|bản đồ 1={{maplink|frame=yes|plain=yes|type=shape|frame-width=280|frame-align=center|stroke-width=3}}|trụ sở UBND=Thôn Đông Hạ<ref>{{Chú thích web |url=https://storage-vnportal.vnpt.vn/gov-hni/6244/VanBan/2025/6/25/TB-729-2025.pdf |title=Thông báo số 729/TB-UBND ngày 25 tháng 6 năm 2025 của Ủy ban nhân dân thành phố Hà Nội về địa điểm trụ sở làm việc của 126 phường, xã sau sắp xếp thuộc phạm vi quản lý của thành phố Hà Nội|access-date=2026-06-15 |archive-date=2026-06-15 |archive-url=https://web.archive.org/web/20260615034519/https://storage-vnportal.vnpt.vn/gov-hni/6244/VanBan/2025/6/25/TB-729-2025.pdf |url-status=dead | website = Cổng Thông tin điện tử Ủy ban nhân dân thành phố Hà Nội}}</ref>|trụ sở Đảng ủy=Thôn Giã Cát}}
+{{other|Phú Cát (định hướng)}}
+'''Phú Cát''' là một [[Xã (Việt Nam)|xã]] thuộc thành phố [[Hà Nội]], [[Việt Nam]].
+
+== Địa lý== 
+Xã Phú Cát có vị trí địa lý:
+*Phía đông giáp xã [[Hạ Bằng]] và xã [[Kiều Phú (xã)|Kiều Phú]]
+*Phía tây giáp xã [[Lương Sơn, Phú Thọ|Lương Sơn]] thuộc tỉnh [[Phú Thọ]]
+*Phía nam giáp xã [[Xuân Mai, Hà Nội|Xuân Mai]] và xã [[Phú Nghĩa, Hà Nội|Phú Nghĩa]]
+*Phía bắc giáp xã [[Hòa Lạc, Hà Nội|Hòa Lạc]] và xã [[Yên Xuân, Hà Nội|Yên Xuân]].<ref>{{Chú thích web |last=Viện nghiên cứu Phát triển kinh tế – xã hội Hà Nội |date=2025-07-02 |title=Xã Phú Cát: Những thông tin chi tiết sau sắp xếp |url=https://hanoionline.vn/xa-phu-cat-nhung-thong-tin-chi-tiet-sau-sap-xep-344179.htm |url-status=dead |archive-url=https://web.archive.org/web/20250703090100/https://hanoionline.vn/xa-phu-cat-nhung-thong-tin-chi-tiet-sau-sap-xep-344179.htm |archive-date=2025-07-03 |access-date=2026-07-01 |website=Cơ quan Báo và Phát thanh Truyền hình Hà Nội }}</ref><ref>{{Chú thích web |last=Cơ quan Báo và Phát thanh Truyền hình Hà Nội |date=2025-07-07 |title=Xã Phú Cát: Tất cả thông tin chỉ dẫn bạn cần biết |url=https://hanoionline.vn/xa-phu-cat-tat-ca-thong-tin-chi-dan-ban-can-biet-345276.htm |url-status=dead |archive-url=https://web.archive.org/web/20250805233855/https://hanoionline.vn/xa-phu-cat-tat-ca-thong-tin-chi-dan-ban-can-biet-345276.htm |archive-date=2025-08-05 |access-date=2026-07-11 }}</ref>
+Xã Phú Cát có diện tích tự nhiên là 51,21&nbsp;km<sup>2</sup>, quy mô dân số năm 2025 là 43.339 người và mật độ dân số đạt 846 người/km<sup>2</sup>.<ref>{{Chú thích web |last=Mai Hữu |date=2026-04-05 |title=Hà Nội: Chi tiết phương án tổng thể sắp xếp đơn vị hành chính cấp xã |url=https://hanoimoi.vn/ha-noi-chi-tiet-phuong-an-tong-the-sap-xep-don-vi-hanh-chinh-cap-xa-700278.html |url-status=bot: unknown |archive-url=https://web.archive.org/web/20250710163328/https://hanoimoi.vn/ha-noi-chi-tiet-phuong-an-tong-the-sap-xep-don-vi-hanh-chinh-cap-xa-700278.html |archive-date=2025-07-10 |access-date=2026-07-11 |website=Cơ quan Báo và Phát thanh, truyền hình Hà Nội }}</ref><ref>Công văn số 2896/BNV-CQĐP ngày 27 tháng 5 năm 2025 của Bộ Nội vụ về việc cung cấp thông tin danh mục dự kiến đơn vị hành chính cấp xã mới.</ref>
+
+== Lịch sử==
+
+=== Trước năm 1976 ===
+
+=== Giai đoạn 1976 – nay ===
+Sau ngày 2 tháng 7 năm 1976, 4 xã: Đông Yên, Hòa Thạch, Phú Cát và Phú Mãn thuộc huyện [[Quốc Oai (huyện)|Quốc Oai]] của tỉnh [[Hà Sơn Bình]].
+
+Ngày 12 tháng 8 năm 1991, chia tỉnh [[Hà Sơn Bình]] thành 2 tỉnh, lấy tên là tỉnh [[Hòa Bình (tỉnh)|Hòa Bình]] và tỉnh [[Hà Tây (tỉnh)|Hà Tây]]. Khi đó, 4 xã: Đông Yên, Hòa Thạch, Phú Cát và Phú Mãn thuộc huyện [[Quốc Oai (huyện)|Quốc Oai]] của [[Hà Tây (tỉnh)|tỉnh Hà Tây]].<ref>Nghị quyết ngày 12 tháng 8 năm 1991 của Quốc hội khóa VIII, Kỳ họp thứ 9 về việc điều chỉnh địa giới hành chính một số tỉnh, thành phố trực thuộc Trung ương.</ref>
+
+Ngày 29 tháng 5 năm 2008, hợp nhất tỉnh [[Hà Tây (tỉnh)|Hà Tây]] vào thành phố [[Hà Nội]]. Khi đó, 4 xã: Đông Yên, Hòa Thạch, Phú Cát và Phú Mãn thuộc huyện [[Quốc Oai (huyện)|Quốc Oai]] của thành phố [[Hà Nội]].<ref>Nghị quyết số 15/2008/QH12 ngày 29 tháng 5 năm 2008 của Quốc hội khóa XII, Kỳ họp thứ 3 về việc điều chỉnh địa giới hành chính thành phố Hà Nội và một số tỉnh có liên quan.</ref>
+
+Ngày 16 tháng 6 năm 2025:
+
+* Kết thúc hoạt động của đơn vị hành chính cấp huyện trong cả nước.<ref>{{Chú thích web |last= |date= |title=Nghị quyết số 203/2025/QH15 ngày 16 tháng 6 năm 2025 của Quốc hội khóa XV, Kỳ họp thứ 9 về việc sửa đổi, bổ sung một số điều của Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/nq-sua-doi-hien-phap.pdf |url-status=live |archive-url=https://web.archive.org/web/20260613090807/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/nq-sua-doi-hien-phap.pdf |archive-date=2026-06-13 |access-date=2026-06-13 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+* Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của các xã Đông Yên, Hoà Thạch, Phú Mãn và phần còn lại của xã Phú Cát (huyện [[Quốc Oai (huyện)|Quốc Oai]]) thành xã mới có tên gọi là xã Phú Cát.<ref>{{Chú thích web |title=Nghị quyết số 1656/NQ-UBTVQH15 ngày 16 tháng 6 năm 2025 của Ủy ban Thường vụ Quốc hội về việc sắp xếp các đơn vị hành chính cấp xã của thành phố Hà Nội năm 2025 |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf |url-status=bot: unknown |archive-url=https://web.archive.org/web/20260513110024/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf |archive-date=2026-05-13 |access-date=2026-06-30 |website=Cổng Thông tin điện tử Chính phủ }}</ref>
+* Sau khi sắp xếp, xã Phú Cát được chia thành 20 thôn.<ref>4 thôn: Đông Hạ, Đông Thượng, Việt Yên và Yên Thái của xã Đông Yên cũ; 5 thôn: Bạch Thạch, Hòa Phú, Hòa Trúc, Long Phú và Thắng Đầu của xã Hòa Thạch cũ; 5 thôn: Cổ Rùa, Đồng Âm, Đồng Vàng, Đồng Vỡ và Trán Voi của xã Phú Mãn cũ; 6 thôn, đánh số từ 2 đến 7 của xã Phú Cát cũ.</ref><ref>{{Chú thích web |title=Thông tư số 10/2022/TT-BTNMT ngày 29 tháng 9 năm 2022 của Bộ Tài nguyên và Môi trường về việc Ban hành Danh mục địa danh dân cư, sơn văn, thủy văn, kinh tế – xã hội phục vụ công tác thành lập bản đồ thành phố Hà Nội |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2022/10/10-btnmt.pdf |url-status=bot: unknown |archive-url=https://web.archive.org/web/20260630082812/https://datafiles.chinhphu.vn/cpp/files/vbpq/2022/10/10-btnmt.pdf |archive-date=2026-06-30 |access-date=2026-06-30 |website=Cổng Thông tin điện tử Chính phủ }}</ref><ref>{{Chú thích web |title=Danh sách Thôn vùng đồng bào dân tộc thiểu số và miền núi, thôn đặc biệt khó khăn giai đoạn 2026 – 2030 trên địa bàn thành phố Hà Nội (Kèm theo Quyết định số 104/QĐ-BDTTG ngày 27 tháng 02 năm 2026 của Bộ trưởng Bộ Dân tộc và Tôn giáo) |url=http://files.ubdt.gov.vn/files/ecm/source_files/2026/03/09/11023866_2.%20H%C3%A0%20N%E1%BB%99i%20(th%C3%B4n).signed_26-03-09.pdf |url-status=dead |archive-url=https://web.archive.org/web/20260812201510/http://files.ubdt.gov.vn/files/ecm/source_files/2026/03/09/11023866_2.%20H%C3%A0%20N%E1%BB%99i%20(th%C3%B4n).signed_26-03-09.pdf |archive-date=2026-08-12 |access-date=2026-08-12 |website=Cổng Thông tin điện tử Bộ Dân tộc và Tôn giáo}}</ref><ref name=":0">{{Chú thích web |last= |date= |title=Thông báo số 159/TB-UBND ngày 4 tháng 2 năm 2026 của Ủy ban nhân dân xã Phú Cát về việc niêm yết danh sách cử tri bầu cử đại biểu Quốc hội khóa XVI và bầu cứ đại biểu Hội đồng nhân dân các cấp nhiệm kỳ 2026 – 2031 |url=https://sqhx-hanoi.mediacdn.vn/91579363132710912/2026/2/4/document-1-1770198226094872639895.pdf |url-status=dead |archive-url=https://web.archive.org/web/20260728201509/=https://sqhx-hanoi.mediacdn.vn/91579363132710912/2026/2/4/document-1-1770198226094872639895.pdf |archive-date=2026-07-28 |access-date=2026-07-28 |website=Trang Thông tin điện tử xã Phú Cát – thành phố Hà Nội}}</ref>
+Ngày 25 tháng 6 năm 2026, thành lập 5 thôn mới: Phú Sơn, Hòa Phú, Phú Thịnh, Giã Cát và Phú Mãn.<ref>1. Thành lập thôn Phú Sơn trên cơ sở sáp nhập Thôn 2 và Thôn 3; 2. Sáp nhập 135 hộ của thôn 3 thuộc Công ty Chè Long Phú trước đây về thôn Hòa Phú; 3. Thành lập thôn Phú Thịnh trên cơ sở sáp nhập Thôn 6 và Thôn 7; 4. Thành lập thôn Giã Cát từ Thôn 4 và Thôn 5; 5. Thôn Phú Mãn: Được sáp nhập từ Thôn Cổ Rùa, Thôn Đồng Âm, Thôn Trán Voi, Thôn Đồng Vàng, Thôn Đồng Vỡ.</ref><ref name=":1">{{Chú thích web |last=Minh Phượng |date=2026-06-23 |title=Ban Chấp hành Đảng bộ xã Phú Cát thảo luận, thống nhất nhiều nội dung quan trọng về sắp xếp thôn và đầu tư phát triển |url=https://phucat.hanoi.gov.vn/cong-tac-dang/ban-chap-hanh-dang-bo-xa-phu-cat-thao-luan-thong-nhat-nhieu-noi-dung-quan-trong-ve-sap-xep-thon-va-dau-tu-phat-trien-2767260623092653599.htm |url-status=dead |archive-url=https://web.archive.org/web/20260729201509/https://phucat.hanoi.gov.vn/cong-tac-dang/ban-chap-hanh-dang-bo-xa-phu-cat-thao-luan-thong-nhat-nhieu-noi-dung-quan-trong-ve-sap-xep-thon-va-dau-tu-phat-trien-2767260623092653599.htm |archive-date=2026-07-29 |access-date=2026-07-29 |website=Trang Thông tin điện tử xã Phú Cát – thành phố Hà Nội}}</ref><ref name=":2">{{Chú thích web |last=Trung tâm Dịch vụ Tổng hợp xã Phú Cát – thành phố Hà Nội |date=2026-06-23 |title=Ban Chấp hành Hội Liên hiệp Phụ nữ xã Phú Cát tổ chức Hội nghị quán triệt một số nội dung sáp nhập thôn và triển khai đề án sắp xếp, kiện toàn tổ chức và cán bộ chi hội phụ nữ sau sáp nhập thôn trên địa bàn xã Phú Cát |url=https://web.facebook.com/story.php?story_fbid=122184524762905696&id=61577170897988&rdid=k80V9pUNkwgEQIy0# |url-status=dead |archive-url=https://web.archive.org/web/20260729201509/https://web.facebook.com/story.php?story_fbid=122184524762905696&id=61577170897988&rdid=k80V9pUNkwgEQIy0# |archive-date=2026-07-29 |access-date=2026-07-29}}</ref><ref name=":3">{{Chú thích web |last=M. Thư |date=2026-07-01 |title=Xã Phú Cát công bố các quyết định sắp xếp thôn và kiện toàn nhân sự ở cơ sở |url=https://hanoimoi.vn/xa-phu-cat-cong-bo-cac-quyet-dinh-sap-xep-thon-va-kien-toan-nhan-su-o-co-so-1210216.html?gidzl=KLZ17BJRLaTLHyKQli1LI5zAn1QYprOQH4JDG_F03Kj1GSn5zvSCIH0Ibq2dmL0PGnUKG33Jig9giTfIHG |url-status=dead |archive-url=https://web.archive.org/web/20260729201509/https://hanoimoi.vn/xa-phu-cat-cong-bo-cac-quyet-dinh-sap-xep-thon-va-kien-toan-nhan-su-o-co-so-1210216.html?gidzl=KLZ17BJRLaTLHyKQli1LI5zAn1QYprOQH4JDG_F03Kj1GSn5zvSCIH0Ibq2dmL0PGnUKG33Jig9giTfIHG |archive-date=2026-07-29 |access-date=2026-07-29 |website=Cơ quan Báo và Phát thanh, truyền hình Hà Nội}}</ref>
+
+== Hành chính ==
+Xã Phú Cát được chia thành 13 thôn: Bạch Thạch, Đông Hạ, Đông Thượng, Giã Cát, Hòa Phú, Hòa Trúc, Long Phú, Phú Mãn, Phú Sơn, Phú Thịnh, Thắng Đầu, Việt Yên và Yên Thái.<ref name=":0" /><ref name=":1" /><ref name=":2" /><ref name=":3" />
+{| class="wikitable sortable" cellpadding="0" cellspacing="6" width="100%" align="center" style="background: #f9f9f9; border: 1px #aaa solid; margin-top: 16px"
+! colspan="4" style="background: #E6E6FA; font-size: 95%;" |Danh sách các thôn thuộc xã Phú Cát<ref name=":0" /><ref name=":1" /><ref name=":2" /><ref name=":3" />
+|-
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| cellpadding="1" cellspacing="1" width="100%" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+|-
+| align="left" |Bạch Thạch
+|-
+| align="left" |Đông Hạ
+|-
+| align="left" |Đông Thượng
+|-
+| align="left" |Giã Cát
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| cellpadding="1" cellspacing="1" width="100%" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+|-
+| align="left" |Hòa Phú
+|-
+| align="left" |Hòa Trúc
+|-
+| align="left" |Long Phú
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| cellpadding="1" cellspacing="1" width="100%" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+|-
+| align="left" |Phú Mãn
+|-
+| align="left" |Phú Sơn
+|-
+| align="left" |Phú Thịnh
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| cellpadding="1" cellspacing="1" width="100%" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+|-
+| align="left" |Thắng Đầu
+|-
+| align="left" |Việt Yên
+|-
+| align="left" |Yên Thái
+|}
+|}
+
+== Chú thích ==
+{{tham khảo}}
+
+== Tham khảo ==
+{{sơ khai Hà Nội}}
+{{Đơn vị hành chính thuộc thành phố Hà Nội}}

@@ -1,0 +1,178 @@
+{{Thông tin đơn vị hành chính Việt Nam|xã
+|tên=Cẩm Khê
+|hình=Vòng xoay thị trấn Sông Thao.jpg
+|ghi chú hình=Vòng xoay ở trung tâm xã Cẩm Khê
+|vĩ độ= 21.419784862913254
+|kinh độ= 105.13519438694158
+|diện tích=50,44 km²
+|dân số=47.095 người
+|thời điểm dân số=2025
+| mật độ dân số = {{formatnum:{{#expr:floor({{formatnum:47.095| R}}/{{formatnum:50,44| R}})}} }} người/km²
+|vùng=[[Đông Bắc Bộ]]
+|tỉnh=[[Phú Thọ]]
+|mã hành chính=08341
+|mã bưu chính=
+|cỡ hình=250x250px
+|trụ sở UBND=289 Hoa Khê
+|thành lập=16 tháng 6 năm 2025<ref>Nghị quyết số 1676/NQ-UBTVQH15</ref>|loại đô thị=|năm công nhận=}}
+{{other|Cẩm Khê (định hướng)}}
+'''Cẩm Khê''' là một [[Xã (Việt Nam)|xã]] thuộc tỉnh [[Phú Thọ]], [[Việt Nam]]. Đây là một xã miền trung du nằm tại hữu ngạn [[sông Thao]]. Với gốc là xã thuần nông, Cẩm Khê có nền kinh tế đa dạng, với làng nghề nón lá Sai Nga nổi tiếng và các khu công nghiệp lớn trong vùng.
+
+== Địa lý ==
+[[Tập_tin:Tỉnh_lộ_313.jpg|trái|nhỏ|267x267px|Tỉnh lộ 313 đoạn qua xã]]
+Xã Cẩm Khê nằm ở phía trung tâm tỉnh [[Phú Thọ]], cách phường [[Việt Trì (phường)|Việt Trì]] 35&nbsp;km về phía tây bắc và cách thành phố [[Hà Nội]] 90&nbsp;km về phía tây bắc, có vị trí địa lý:
+
+* Phía đông bắc qua [[sông Hồng]] giáp xã [[Vĩnh Chân]], xã [[Hoàng Cương (xã)|Hoàng Cương]], xã [[Chí Tiên, Phú Thọ|Chí Tiên]].
+* Phía tây giáp xã [[Tiên Lương]], xã [[Vân Bán, Phú Thọ|Vân Bán]].
+* Phía nam giáp xã [[Phú Khê]].
+
+Xã Cẩm Khê có diện tích 50,44&nbsp;km², dân số năm 2025 là 47.095 người và mật độ dân số là 933 người/km².<ref>{{Chú thích web |last= |first= |date=2025-05-16 |title=Chi tiết tên gọi, diện tích, dân số 66 xã, phường của Phú Thọ sau sắp xếp |url=https://vietnamnet.vn/chi-tiet-ten-goi-dien-tich-dan-so-66-xa-phuong-cua-phu-tho-sau-sap-xep-2401584.html |access-date=2025-07-06 |website=VietNamNet News |language=}}</ref>
+
+=== Khí hậu - Thủy văn ===
+Cẩm Khê nằm trong vùng [[khí hậu nhiệt đới gió mùa]]. Hằng năm, địa phương này thường chịu tác động của khoảng 3 đến 5 [[Bão|cơn bão]] lớn, kèm theo một số trận lốc xoáy cục bộ. Các hiện tượng này thường mang theo lượng mưa lớn đến rất lớn, dễ gây ngập úng trên diện rộng. Vào mùa đông, Cẩm Khê chịu ảnh hưởng rõ rệt từ [[gió mùa Đông Bắc]], với nhiệt độ có thể giảm xuống gần 10&nbsp;°C, gây tác động không nhỏ đến đời sống và hoạt động sản xuất của người dân.<ref name=":12" />
+
+=== Sông ngòi - Hồ đầm ===
+Xã nằm giáp ranh với [[sông Hồng]], đoạn này thường gọi là [[sông Thao]], đây là con sông quan trọng nhất hình thành nên vùng đồng ruộng phù sa cổ và hệ thống bãi bồi ven sông. Ngoài ra, còn có ngòi Me bắt nguồn từ vùng đồi núi phía tây khu vực huyện Cẩm Khê cũ, nối liền với hồ Đập Thìn và hồ Vực Si, đều là những hồ nước lớn. Mạng lưới sông, ngòi, hồ và đầm phân bố tương đối đồng đều trên địa bàn xã, tạo điều kiện thuận lợi cho phát triển giao thông đường thủy, tưới tiêu nông nghiệp và nuôi trồng thủy sản. Vào mùa mưa, lưu lượng nước tại các dòng chảy có thể tăng gấp nhiều lần so với mùa khô, thường gây ra những đợt lũ lụt nghiêm trọng.<ref name=":1">{{Chú thích web |date=2020-12-21 |title=Giới thiệu chung về huyện Cẩm Khê |url=https://camkhe.phutho.gov.vn/Chuyen-muc-tin/Chi-tiet-tin/t/gioi-thieu-chung-ve-huyen-cam-khe/title/14918/ctitle/166 |access-date=2025-07-06 |website=Cổng thông tin điện tử huyện Cẩm Khê}}</ref>
+
+== Hành chính ==
+Xã Cẩm Khê được chia thành 70 khu: Bình Phú, Cầu Tiến, Chùa, Chùa Bộ, Cống 1, Cống 2, Cửa Miếu, Đạng 1, Đạng 2, Đình, Đình Cả, Đình Thổ Khối, Đoàn Kết (thị trấn Cẩm Khê cũ), Đoàn Kết (xã Phong Thịnh cũ), Đông Viên, Đồng Hàng, Đồng Minh, Đồng Tâm, Gò Chùa (thị trấn Cẩm Khê cũ), Gò Chùa (xã Phong Thịnh cũ), Gò Hèo, Gò Làng Dưới, Gò Làng Trên, Gò Làng Trung, Gò Sồi, Gọ 1, Gọ 2, Hạ Khê, Kiến Thiết, Minh Tân, Mỏ Son, Ngâu, Nhà Thị, Phú Động, Quang Trung, Quyết Tâm, Quyết Thắng, Quyết Tiến, Sậu 1, Sậu 2, Sơn Hà, Suối Gấm, Tân Lập (thị trấn Cẩm Khê cũ), Tân Lập (xã Phong Thịnh cũ), Tân Thành, Tân Tiến, Thành Công, Thống Nhất (thị trấn Cẩm Khê cũ), Thống Nhất (xã Minh Tân cũ), Thống Nhất (xã Phong Thịnh cũ), Thổ Khối, Thượng, Tiền Phong, Trung Sơn, Trung Thành, Trù Dương, Văn Phú 1, Văn Phú 2, Văn Phú 3, Văn Phú 3, Vực Câu, Xóm Cánh 1, Xóm Cánh 2, Xóm Cánh 3, Xóm Chằm, Xóm Dộc, Xóm Giữa, Xóm Làng, Xóm Thượng, Xóm Trại.<ref name=":2">{{Chú thích web |last=Thông tin Cẩm Khê - tỉnh Phú Thọ |date=2026-02-25 |title=Danh sách chính thức 39 người ứng cử đại biểu Hội đồng nhân dân xã Cẩm Khê khóa II, nhiệm kỳ 2026-2031 tại 05 đơn vị bầu cử |url=https://web.facebook.com/share/p/1EAk5pihem/ |url-status=live |archive-url=https://web.archive.org/web/20260419090807/https://web.facebook.com/share/p/1EAk5pihem/ |archive-date=2026-04-19 |access-date=2026-04-19 |website=}}</ref>
+
+== Lịch sử ==
+
+=== Tên gọi ===
+Tên gọi Cẩm Khê được lấy theo tên huyện Cẩm Khê cũ. Xa xưa là huyện Ma Khê (麻溪). [[Ma Khê]] là tên ông tổ bộ tộc [[người Tày]], họ Ma. Thời đó, bộ tộc này định cư dọc bờ hữu ngạn Nậm Tao (sau gọi là [[sông Thao]] - một đoạn sông Hồng). Ma Khê được [[Hùng Vương|vua Hùng]] phong làm Lương tướng, chính vì vậy mà vùng đất này mang tên của ông. Thời Đinh Tiên Hoàng đổi thành Hoa Khê (華溪), thời Trần lại đổi thành Kim Khê (金溪) sau lại đổi thành Hoa Khê<ref>{{Chú thích web |last=baophutho.vn |date=2007-11-22 |title=Ngôi đền thờ phụ quốc Ma Khê |url=https://baophutho.vn/ngoi-den-tho-phu-quoc-ma-khe-15036.htm |access-date=2025-07-06 |website=Báo Phú Thọ |language=vi }}{{Liên kết hỏng|date=2026-07-08 |bot=InternetArchiveBot }}</ref>
+
+Năm [[1841]], vì [[Húy kỵ|kỵ huý]], trùng âm tên của một con dâu của vua [[Gia Long]] là [[Hồ Thị Hoa]], [[nhà Nguyễn]] đổi tên huyện [[Hoa Khê]] thành huyện [[Cẩm Khê (huyện)|Cẩm Khê]] (錦溪) (vẫn thuộc phủ [[Lâm Thao (huyện)|Lâm Thao]], tỉnh [[Sơn Tây (tỉnh Việt Nam)|Sơn Tây]]). Tên [[Cẩm Khê (huyện)|Cẩm Khê]] được dùng từ đó cho đến ngày nay. [[Cẩm Khê (huyện)|Cẩm Khê]] có nghĩa là suối gấm.<ref>{{Chú thích web |last=Tô Nam |date=2015-08-07 |title=Cẩm Khê gấm vóc |url=https://nhandan.vn/cam-khe-gam-voc-post239507.html |access-date=2025-07-06 |website=Báo Nhân Dân |language=vi}}</ref>
+
+=== Hành chính ===
+Trước kia, địa bàn xã Cẩm Khê ngày nay là địa bàn của thị trấn Cẩm Khê và các xã Minh Tân, Phong Thịnh thuộc huyện [[Cẩm Khê (huyện)|Cẩm Khê]] cũ.
+
+Lỵ sở của huyện Cẩm Khê đặt tại xã Đông Phú từ năm Minh Mạng thứ 16 (1835), khi huyện Cẩm Khê còn mang tên gọi lịch sử là Hoa Khê.<ref>{{chú thích web|url=http://camkhe.phutho.gov.vn/?name=news&cat=29&id=34|title=Giới thiệu chung về Huyện Cẩm Khê|access-date=ngày 28 tháng 11 năm 2014|date=ngày 6 tháng 5 năm 2013|publisher=Cổng thông tin điện tử huyện Cẩm Khê}}</ref>
+
+Sau năm [[1945]], xã Phương Xá gồm 2 thôn: Phương Xá, Thổ Khối và phố Lưu Phương (nguyên là phố Cầu Tây).
+
+Xã Cẩm Khê hiện tại là do 11 xã năm 1975 sáp nhập thành: Đông Phú, một phần xã [[Phú Khê]], Thanh Nga, Sơn Nga, Sai Nga, Đồng Cam, Phương Xá, Phùng Xá, Cấp Dẫn, Xương Thịnh và Sơn Tình.
+
+Ngày [[23 tháng 11]] năm [[1995]], Chính phủ ban hành Nghị định số 82-CP. Theo đó, thành lập thị trấn Sông Thao, thị trấn huyện lỵ huyện [[Sông Thao (huyện)|Sông Thao]] trên cơ sở toàn bộ 418,29 ha diện tích tự nhiên của xã Đông Phú và 33 ha diện tích tự nhiên của xã [[Phú Khê]].
+
+Sau khi thành lập, thị trấn Sông Thao có 451,29 ha diện tích tự nhiên và 7.954 người.
+
+Ngày [[8 tháng 4]] năm [[2002]], Chính phủ ban hành Nghị định số 39/2002/NĐ-CP<ref>{{Chú thích web |last=Cổng Thông tin điện tử Chính phủ |first= |title=Nghị định số 39/2002/NĐ-CP của Chính phủ: Nghị định về thành lập các phường thuộc thành phố Việt Trì và đổi tên huyện Sông Thao thành huyện Cẩm Khê, tỉnh Phú Thọ |url=http://chinhphu.vn/default.aspx?pageid=27160&docid=10478 |access-date=2026-07-15 |website=chinhphu.vn |language=vi}}</ref>. Theo đó, huyện Sông Thao đổi lại tên cũ là huyện Cẩm Khê, thị trấn Sông Thao thuộc huyện Cẩm Khê.
+
+Đến năm [[2018]]:
+
+* Thị trấn Sông Thao có diện tích 4,70&nbsp;km², dân số là 6.359 người, mật độ dân số đạt 1.353 người/km².
+* Xã Sơn Nga có diện tích 5,07&nbsp;km², dân số là 1.852 người, mật độ dân số đạt 365 người/km².
+* Xã Sai Nga có diện tích 4,06&nbsp;km², dân số là 4.479 người, mật độ dân số đạt 1.103 người/km².
+* Xã Thanh Nga có diện tích 3,95&nbsp;km², dân số là 2.380 người, mật độ dân số đạt 603 người/km².
+* Xã Đồng Cam có diện tích 2,57&nbsp;km², dân số là 2.530 người, mật độ dân số đạt 984 người/km².
+* Xã Phùng Xá có diện tích 4,08&nbsp;km², dân số là 4.055 người, mật độ dân số đạt 994 người/km².
+* Xã Phương Xá có diện tích 3,65&nbsp;km², dân số là 4.055 người, mật độ dân số đạt 1.111 người/km².
+
+Ngày [[17 tháng 12]] năm [[2019]], [[Ủy ban Thường vụ Quốc hội]] ban hành Nghị quyết 828/NQ-UBTVQH14 về việc sắp xếp các đơn vị hành chính cấp xã thuộc tỉnh [[Phú Thọ]] giai đoạn 2019–2021 (nghị quyết có hiệu lực từ ngày [[1 tháng 1]] năm [[2020]]).<ref name="NQ828">{{Chú thích web |tác giả= |họ= |tên= |ngày=2019-12-17 |tựa đề=Nghị quyết số 828/NQ-UBTVQH14 của ỦY BAN THƯỜNG VỤ QUỐC HỘI: Về việc sắp xếp các đơn vị hành chính cấp xã thuộc tỉnh Phú Thọ |url=https://chinhphu.vn/default.aspx?pageid=27160&docid=198693 |url lưu trữ= |ngày lưu trữ= |ngày truy cập=2025-07-07 |website=chinhphu.vn}}</ref> Theo đó:
+
+* Sáp nhập toàn bộ diện tích và dân số của ba xã Đồng Cam, Phương Xá và Phùng Xá thành xã Minh Tân.
+* Sáp nhập toàn bộ diện tích và dân số của ba xã Thanh Nga, Sơn Nga, Sai Nga và thị trấn Sông Thao thành thị trấn Cẩm Khê.
+Ngày [[14 tháng 11]] năm [[2024]], Ủy ban Thường vụ Quốc hội ban hành Nghị quyết số 1282/NQ-UBTVQH15 về việc sắp xếp các đơn vị hành chính cấp xã thuộc tỉnh [[Phú Thọ]] giai đoạn 2023–2025 (nghị quyết có hiệu lực từ ngày [[1 tháng 1]] năm [[2025]]).<ref name="NQ1282">{{Chú thích web |tác giả= |họ= |tên= |ngày= |tựa đề=Nghị quyết số 1282/NQ-UBTVQH15 của UBTVQH về việc sắp xếp đơn vị hành chính cấp xã của tỉnh Phú Thọ giai đoạn 2023–2025 |url=https://quochoi.vn/tintuc/Pages/tin-hoat-dong-cua-quoc-hoi.aspx?ItemID=91152 |url lưu trữ= |ngày lưu trữ= |ngày truy cập= |website=}}</ref> Theo đó, sáp nhập toàn bộ diện tích và dân số của ba xã Cấp Dẫn, Xương Thịnh và Sơn Tình thành xã Phong Thịnh.
+
+Ngày [[16 tháng 6]] năm [[2025]]:
+
+* [[Quốc hội Việt Nam|Quốc hội]] ban hành Nghị quyết số 203/2025/QH15 về việc sửa đổi, bổ sung một số điều của Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam (nghị quyết có hiệu lực từ ngày [[16 tháng 6]] năm [[2025]]).<ref>{{Chú thích web |last=xaydungchinhsach.chinhphu.vn |date=2025-06-28 |title=NGHỊ QUYẾT 203/2025/QH15 SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA HIẾN PHÁP NƯỚC CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM |url=https://xaydungchinhsach.chinhphu.vn/nghi-quyet-203-2025-qh15-sua-doi-bo-sung-mot-so-dieu-cua-hien-phap-nuoc-cong-hoa-xa-hoi-chu-nghia-viet-nam-119250616181735552.htm |url-status=live |archive-url=http://web.archive.org/web/20260715200606/https://xaydungchinhsach.chinhphu.vn/nghi-quyet-203-2025-qh15-sua-doi-bo-sung-mot-so-dieu-cua-hien-phap-nuoc-cong-hoa-xa-hoi-chu-nghia-viet-nam-119250616181735552.htm |archive-date=2026-07-15 |access-date=2026-07-15 |website=Báo Điện tử Chính phủ |language=vi}}</ref> Theo đó, kết thúc hoạt động của đơn vị hành chính cấp huyện trong cả nước từ ngày 1 tháng 7 năm 2025.
+* Ủy ban Thường vụ Quốc hội ban hành Nghị quyết số 1676/NQ-UBTVQH15 về việc sắp xếp đơn vị hành chính cấp xã của tỉnh [[Phú Thọ]] năm 2025 (nghị quyết có hiệu lực từ ngày [[16 tháng 6]] năm [[2025]]).<ref>{{Chú thích web |last=xaydungchinhsach.chinhphu.vn |date=2025-06-20 |title=Nghị quyết số 1676/NQ-UBTVQH15 sắp xếp các ĐVHC cấp xã của tỉnh Phú Thọ năm 2025 |url=https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-1676-nq-ubtvqh15-sap-xep-cac-dvhc-cap-xa-cua-tinh-phu-tho-nam-2025-119250616204317326.htm |url-status=live |archive-url=http://web.archive.org/web/20260725082021/https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-1676-nq-ubtvqh15-sap-xep-cac-dvhc-cap-xa-cua-tinh-phu-tho-nam-2025-119250616204317326.htm |archive-date=2026-07-25 |access-date=2026-07-27 |website=Báo Điện tử Chính phủ |language=vi}}</ref> Theo đó, sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của thị trấn Cẩm Khê, xã Minh Tân và xã Phong Thịnh thành xã mới có tên gọi là '''xã Cẩm Khê'''.
+
+Sau khi thành lập, xã Cẩm Khê được chia thành 70 khu: Bình Phú, Cầu Tiến, Chùa, Chùa Bộ, Cống 1, Cống 2, Cửa Miếu, Đạng 1, Đạng 2, Đình, Đình Cả, Đình Thổ Khối, Đoàn Kết (thị trấn Cẩm Khê cũ), Đoàn Kết (xã Phong Thịnh cũ), Đông Viên, Đồng Hàng, Đồng Minh, Đồng Tâm, Gò Chùa (thị trấn Cẩm Khê cũ), Gò Chùa (xã Phong Thịnh cũ), Gò Hèo, Gò Làng Dưới, Gò Làng Trên, Gò Làng Trung, Gò Sồi, Gọ 1, Gọ 2, Hạ Khê, Kiến Thiết, Minh Tân, Mỏ Son, Ngâu, Nhà Thị, Phú Động, Quang Trung, Quyết Tâm, Quyết Thắng, Quyết Tiến, Sậu 1, Sậu 2, Sơn Hà, Suối Gấm, Tân Lập (thị trấn Cẩm Khê cũ), Tân Lập (xã Phong Thịnh cũ), Tân Thành, Tân Tiến, Thành Công, Thống Nhất (thị trấn Cẩm Khê cũ), Thống Nhất (xã Minh Tân cũ), Thống Nhất (xã Phong Thịnh cũ), Thổ Khối, Thượng, Tiền Phong, Trung Sơn, Trung Thành, Trù Dương, Văn Phú 1, Văn Phú 2, Văn Phú 3, Văn Phú 3, Vực Câu, Xóm Cánh 1, Xóm Cánh 2, Xóm Cánh 3, Xóm Chằm, Xóm Dộc, Xóm Giữa, Xóm Làng, Xóm Thượng, Xóm Trại.<ref name=":2" />
+
+Ngày [[24 tháng 12]] năm [[2025]], Ủy ban Thường vụ Quốc hội ban hành Nghị quyết số 111/2025/UBTVQH15 về phân loại đô thị (nghị quyết có hiệu lực từ ngày [[1 tháng 1]] năm [[2026]]).<ref>{{Chú thích web |last=xaydungchinhsach.chinhphu.vn|date=2026-01-21|title=Nghị quyết số 111/2025/UBTVQH15 về phân loại đô thị|url=https://xaydungchinhsach.chinhphu.vn/nghi-quyet-so-111-2025-ubtvqh15-ve-phan-loai-do-thi-119260101170432239.htm|access-date=2026-07-23|website=xaydungchinhsach.chinhphu.vn|language=vi}}</ref> Theo đó, đô thị loại IV, loại V, thị xã và thị trấn trước khi sắp xếp chưa được công nhận loại đô thị được xác định là đô thị loại III. Một phần xã Cẩm Khê được xác định là đô thị loại III (từ đô thị loại V của thị trấn Cẩm Khê cũ).
+
+== Xã hội ==
+
+=== Giáo dục ===
+Xã Cẩm Khê hiện tại có các cơ sở giáo dục sau (không kể các trường Tiểu học, THCS):
+
+* THPT Cẩm Khê<ref>{{Chú thích web |last=Trường THPT Cẩm Khê |title=Trường THPT Cẩm Khê |url=http://thptcamkhe.phutho.edu.vn/ |archive-url=https://web.archive.org/web/20210514004753/http://thptcamkhe.phutho.edu.vn/ |archive-date=2021-05-14 |access-date=2025-07-06 |website=thptcamkhe.phutho.edu.vn |language=vi |url-status=dead }}</ref>
+* THPT Sông Thao
+* THPT Phương Xá<ref>{{Chú thích web |last=Trường Trung Học Phổ Thông Phương Xá |title=Trường Trung Học Phổ Thông Phương Xá |url=http://thptphuongxa.phutho.edu.vn/ |archive-url=https://web.archive.org/web/20200917235432/http://thptphuongxa.phutho.edu.vn/ |archive-date=2020-09-17 |access-date=2025-07-06 |website=thptphuongxa.phutho.edu.vn |language=vi |url-status=dead }}</ref>
+
+=== Y tế ===
+Xã Cẩm Khê có Trung tâm Y tế Cẩm Khê là cơ sở y tế chính của khu vực, với đầy đủ các trang thiết bị y tế và đội ngũ bác sỹ, y tá có kinh nghiệm.<ref>{{Chú thích web |last= |first= |title=Giới thiệu chung |url=https://benhviendakhoacamkhe.vn/vi/about/Gioi-thieu-chung.html |access-date=2025-07-06 |website=TTYT huyện Cẩm Khê |language=vi}}</ref> Ngoài ra cũng có nhiều trạm y tế, phòng khám nhỏ.
+
+=== Kinh tế ===
+Xã Cẩm Khê có nền kinh tế đa dạng, với gốc gác là nghề [[nông nghiệp]], [[chăn nuôi gia súc]], [[Chăn nuôi gia cầm|gia cầm]] và [[thủy sản]]. Về sản xuất [[nông nghiệp]], [[lúa]] và [[ngô]] là những cây canh tác chính. Hoạt động [[chăn nuôi gia súc]], [[Chăn nuôi gia cầm|gia cầm]] được duy trì ổn định, với quy mô đàn [[lợn]], [[gà]], [[vịt]], [[bò]] gia tăng đáng kể nhờ áp dụng mô hình chăn nuôi tập trung, quy mô lớn. Nuôi trồng thủy sản cũng được chú trọng, đặc biệt là các loại có giá trị như [[cá chép đỏ]], [[tôm càng xanh]], [[Ốc bươu|ốc nhồi]],... đang được duy trì và mở rộng diện tích nuôi.<ref name=":1" />
+
+Xã Cẩm Khê cũng là vùng sản xuất công nghiệp chính của khu vực huyện [[Cẩm Khê (huyện)|Cẩm Khê]] cũ. Xã gồm 2 khu công nghiệp:<ref name=":1" />
+
+''Cụm công nghiệp thị trấn Cẩm Khê'' có diện tích 100ha nằm phía đông của xã Cẩm Khê, đã được đầu tư hệ thống điện, nước, cây xăng, mặt đường được thảm nhựa thuận tiện cho sản xuất, lưu thông. Hiện tại có 01 doanh nghiệp nước ngoài (công ty TNHH YIDA Việt Nam) đầu tư sản xuất giai đoạn 3 với tổng số vốn 1.228 tỷ đồng
+
+Khu Công nghiệp Cẩm Khê có tổng diện tích quy hoạch 450ha, nằm trên địa bàn xã Cẩm Khê. Hiện tại đã có 17 doanh nghiệp đầu tư, kinh doanh.
+
+Các cơ sở kinh doanh thương mại - dịch vụ trên địa huyện phát triển nhanh và rộng khắp; hoạt động bán buôn, bán lẻ duy trì ổn định, phục vụ tốt nhu cầu sản xuất và tiêu dùng của nhân dân.<ref name=":1" />
+
+=== Làng nghề ===
+Nơi đây nổi tiếng nhất là làng nghề làm [[nón lá]] Sai Nga. Vào năm 1949, "ông tổ" Phạm Văn Quất có gốc ở làng Chuông, xã [[Thanh Oai (xã)|Phương Trung]], huyện [[Thanh Oai (huyện)|Thanh Oai]], tỉnh [[Hà Tây (tỉnh)|Hà Tây]] cũ (nay là xã [[Thanh Oai (xã)|Thanh Oai]], thành phố [[Hà Nội]]) lên Cẩm Khê lập nghiệp. Được thừa hưởng kỹ năng làm nón từ quê hương, ông truyền dạy cách làm nón cho người dân xã Sai Nga, lâu dần đến những năm [[Thập niên 1960|1960]], hàng trăm hộ dân đã dựa vào nghề làm nón để kiếm sống.<ref>{{Chú thích web |last=Huyền Chi |first= |date=2022-11-28 |title=Ông tổ làng nghề nón lá Sai Nga và hành trình "giữ hồn" nón Việt |url=https://langngheviet.com.vn/ong-to-lang-nghe-non-la-sai-nga-va-hanh-trinh-giu-hon-non-viet-21756.html |access-date=2025-07-06 |website=Tạp chí Điện tử Làng nghề Việt Nam |language=vi}}</ref> Theo thống kê của xã Sai Nga cũ, trước kia hơn 90% số hộ trong xã làm nghề làm nón truyền thống. Nay có khu Công nghiệp Cẩm Khê, số hộ làm giảm đi đôi chút.<ref name=":3">{{Chú thích web |last=Mạnh Thuần |date=2025-05-04 |title=Nghề thủ công truyền thống nón lá Sai Nga - Di sản văn hóa phi vật thể quốc gia |url=http://vanhoanghethuat.vn/nghe-thu-cong-truyen-thong-non-la-sai-nga-di-san-van-hoa-phi-vat-the-quoc-gia.htm |access-date=2025-07-06 |website=Tạp chí Văn hóa Nghệ thuật}}</ref>
+
+Để làm ra một chiếc nón hoàn chỉnh, người thợ phải trải qua nhiều công đoạn tỉ mỉ. Nguyên liệu làm nón gồm có lá, khuôn, vành, mo tre hoặc mo vầu, sợi cước, sợi len, cùng các dụng cụ để là phẳng lá. Lá nón được thu mua từ nhiều vùng, thường được bán tại các phiên chợ trong làng. Mỗi chiếc nón cần khoảng ba giờ để hoàn thành, chưa kể các bước xử lý bằng [[Kali nitrat|diêm sinh]] và trang trí hoa lá giữa hai lớp lá mỏng để tăng tính thẩm mỹ. Một chiếc nón đạt chuẩn cần có vành tròn đều, cân đối, màu trắng sáng, đường khâu mềm mại và khoảng cách các mũi khâu đều đặn.<ref name=":4">{{Chú thích web |last=Mai Lữ |first= |date=2021-07-10 |title=Giữ nghề nón lá Sai Nga |url=https://nhandan.vn/giu-nghe-non-la-sai-nga-post654453.html |access-date=2025-07-06 |website=Báo Nhân Dân điện tử |language=vi}}</ref>
+
+Người dân Sai Nga chủ yếu sản xuất hai loại nón: nón kỹ và nón thưa. Nón kỹ được làm từ nguyên liệu tuyển chọn kỹ lưỡng, bên trong lót [[Nylon|ni-lông]], kèm theo hoa văn hoặc hình ảnh đẹp về quê hương, đất nước. Sau khi hoàn thiện, nón được quét dầu bóng, gắn quai và khâu chóp nón một cách cẩn thận. Loại này có giá từ 55.000 đến 100.000 đồng mỗi chiếc. Trong khi đó, nón thưa có quy trình đơn giản hơn, nhẹ và ít lớp, thường được bán cho tiểu thương với giá từ 20.000 đến 50.000 đồng một chiếc, chủ yếu phục vụ cho thị trường du lịch và xuất khẩu.<ref name=":4" />
+
+Hiện nay, toàn làng có khoảng 500 hộ gia đình tham gia làm nón, với sản lượng đạt khoảng 550.000 chiếc mỗi năm. Nghề làm nón mang lại nguồn thu hàng chục tỷ đồng, góp phần quan trọng vào phát triển kinh tế địa phương.<ref name=":5">{{Chú thích web |last=Vĩnh Hà |date=2025-02-20 |title=Nét đẹp làng nghề nón lá Sai Nga |url=https://baophutho.vn/net-dep-lang-nghe-non-la-sai-nga-228223.htm |access-date=2025-07-06 |website=Báo Phú Thọ |language=vi}}</ref> Nón Sai Nga đã được lan rộng, được bạn bè trong nước và quốc tế công nhận. Năm 2004, Sai Nga chính thức được công nhận là làng nghề, với khoảng 40% thu nhập của người dân đến từ nghề làm nón. Đến năm 2020, [[Bộ Văn hóa, Thể thao và Du lịch (Việt Nam)|Bộ Văn hóa, Thể thao và Du lịch]] đã quyết định công nhận nghề thủ công truyền thống làm nón lá Sai Nga là [[Di sản văn hóa phi vật thể|Di sản văn hóa phi vật thể quốc gia]]. Năm 2021, sản phẩm nón lá Sai Nga được xếp hạng [[Chương trình Mỗi xã một sản phẩm|OCOP]] 3 sao và đến năm 2024 đã được nâng lên OCOP 4 sao. Nón làng Sai Nga được đưa đi tiêu thụ tại các hội chợ thương mại, các dịp lễ lớn như [[Giỗ Tổ Hùng Vương|Giỗ Tổ Hùng Vương – Lễ hội Đền Hùng]], cũng như phân phối tới nhiều tỉnh thành như [[Lào Cai]], [[Thái Nguyên]]... Ngoài ra, sản phẩm còn được [[xuất khẩu]] sang thị trường [[Trung Quốc]].<ref name=":3" /><ref name=":5" />
+
+Bên cạnh nghề làm nón, xã Sai Nga cũ còn nổi tiếng với làng nghề trồng rau Văn Phú, được biết đến với mô hình sản xuất rau sạch, an toàn, đáp ứng đầy đủ các tiêu chí vệ sinh [[Vệ sinh an toàn thực phẩm|an toàn thực phẩm]] theo tiêu chuẩn [[VietGAP]]. Theo số liệu từ UBND xã Sai Nga cũ, làng rau Văn Phú hiện có khoảng 750 hộ tham gia sản xuất trên tổng diện tích 20ha, trong đó có hơn 100 hộ nằm trong dự án rau an toàn với diện tích 12ha. Mỗi năm, làng cung cấp ra thị trường khoảng 4.000 tấn rau củ quả các loại, đạt doanh thu trên 54 tỷ đồng.<ref>{{Chú thích web |last=Nguyễn Hiếu |date=2015-05-09 |title=Làng rau Văn Phú (Phú Thọ): Hướng đi mới trong sản xuất rau sạch theo tiêu chuẩn VietGap |url=https://vnbusiness.vn/kinh-doanh-xanh/lang-rau-van-phu-phu-tho-huong-di-moi-trong-san-xuat-rau-sach-theo-tieu-chuan-vietgap-1011781.html |access-date=2025-07-06 |website=Vnbusiness}}</ref>
+
+=== Giao thông ===
+Xã Cẩm Khê kết nối giao thông với tuyến đường [[Đường cao tốc Nội Bài – Lào Cai|Cao tốc Nội Bài - Lào Cai]] tại nút giao Sai Nga (IC10 - Km 79) và [[Quốc lộ 32C]] chạy dọc men theo bờ đê [[sông Thao]]. Tỉnh lộ 313 nối xã Cẩm Khê với xã [[Phú Khê]]. Ngày [[10 tháng 7]] năm [[2024]], Hội đồng nhân dân tỉnh Phú Thọ Khóa XIX, Kỳ họp thứ 8 thông qua Nghị quyết số 2539/TTr-UBND về việc đặt tên 07 tuyến đường, 22 tuyến phố trên địa bàn xã Cẩm Khê hiện nay.<ref>{{Chú thích web |last=baophutho.vn |date=2024-07-15 |title=Nghị quyết về việc đặt tên đường, phố trên địa bàn thị trấn Cẩm Khê, huyện Câm Khê, tỉnh Phú Thọ |url=https://baophutho.vn/nghi-quyet-ve-viec-dat-ten-duong-pho-tren-dia-ban-thi-tran-cam-khe-huyen-cam-khe-tinh-phu-tho-215544.htm |access-date=2025-07-06 |website=Báo Phú Thọ |language=vi}}</ref> Trong đó có những cái tên mang tính lịch sử, văn hóa như Hoa Khê, Sông Thao, Nga Hà, ...
+
+* ''Đường sắt:'' Gần ga đường sắt Phú Thọ (phường [[Phong Châu (phường)|Phong Châu]]) và ga đường sắt Chí Chủ (xã [[Chí Tiên]]).
+* ''Đường hàng không:'' cách sân bay quốc tế Nội Bài 80&nbsp;km.
+* ''Đường thủy:'' Có bến đò Chí Chủ, bến đò Phương Xá và một số bến đò ngang nhỏ khác.<ref name=":1" />
+
+== Văn hóa - Du lịch ==
+
+=== Di tích ===
+Vốn là một vùng quê truyền thống Việt Nam, xã Cẩm Khê có nhiều [[Đình|đình làng]], [[chùa]], [[đền]] thờ các vị [[Thành hoàng]], [[Hùng Vương|vua Hùng]], các danh nhân có công dựng nước. Nhiều di tích đã được công nhận là di tích lịch sử văn hóa. Ví dụ như:<ref>{{Chú thích web |title=Di tích, Di sản |url=https://camkhe.phutho.gov.vn/Chuyen-muc-tin/t/di-tich-di-san/ctitle/154 |access-date=2025-07-07 |website=Cổng thông tin điện tử huyện Cẩm Khê}}</ref>
+
+* Đình cả Phương Xá, Chùa Khánh Long, Đình Thổ Khối được công nhận cấp Quốc gia.<ref>{{Chú thích web |last=Phùng Hạnh |last2=Nguyễn Xuân Thư |last3=Bùi Bá Đạt |date=2023-12-19 |title=Đình cả Phương Xá - Di tích lịch sử văn hóa cấp Quốc gia |url=https://camkhe.phutho.gov.vn/Chuyen-muc-tin/Chi-tiet-tin/t/%C4%90%C3%ACnh%20c%E1%BA%A3%20Ph%C6%B0%C6%A1ng%20X%C3%A1%20-%20Di%20t%C3%ADch%20l%E1%BB%8Bch%20s%E1%BB%AD%20v%C4%83n%20h%C3%B3a%20c%E1%BA%A5p%20Qu%E1%BB%91c%20gia/title/17917/ctitle/154 |access-date=2025-07-07 |website=Cổng thông tin điện tử huyện Cẩm Khê}}</ref><ref>{{Chú thích web |last=Phùng Hạnh |last2=Nguyễn Xuân Thư |last3=Bùi Bá Đạt |date=2024-01-29 |title=Chùa Khánh Long (Chùa Phương Xá) - Di tích lịch sử văn hóa cấp Quốc gia |url=https://camkhe.phutho.gov.vn/Chuyen-muc-tin/Chi-tiet-tin/title/18199/ctitle/154?t=Ch%C3%B9a%20Kh%C3%A1nh%20Long%20(Ch%C3%B9a%20Ph%C6%B0%C6%A1ng%20X%C3%A1)%20-%20Di%20t%C3%ADch%20l%E1%BB%8Bch%20s%E1%BB%AD%20v%C4%83n%20h%C3%B3a%20c%E1%BA%A5p%20Qu%E1%BB%91c%20gia |access-date=2025-07-07 |website=Cổng thông tin điện tử huyện Cẩm Khê}}</ref><ref>{{Chú thích web |last=Phùng Hạnh |last2=Nguyễn Xuân Thư |last3=Bùi Bá Đạt |date=2024-07-30 |title=Đình Thổ Khối- Di tích lịch sử văn hóa cấp Quốc gia |url=https://camkhe.phutho.gov.vn/Chuyen-muc-tin/Chi-tiet-tin/t/%C4%90%C3%ACnh%20Th%E1%BB%95%20Kh%E1%BB%91i-%20Di%20t%C3%ADch%20l%E1%BB%8Bch%20s%E1%BB%AD%20v%C4%83n%20h%C3%B3a%20c%E1%BA%A5p%20Qu%E1%BB%91c%20gia/title/19412/ctitle/154 |access-date=2025-07-07 |website=Cổng thông tin điện tử huyện Cẩm Khê}}</ref>
+* Đình Hạ Khê, Đình cả Phùng Xá, Đình Bình Phú, Đình Đồng Kệ.
+* Đền Nghè, Chùa Tùng Khâu.
+* Cụm đình - chùa Vực Câu, Cụm đình - chùa Văn Phú Sai Nga, Cụm đình-chùa Sơn Cương, Cụm di tích đình Khiển và chùa Vân Ngư.<!-- 
+==Địa lý==
+[[Hình:Tỉnh lộ 313.jpg|thumb|left|200px|Tỉnh lộ 313 đoạn qua thị trấn]]
+
+Thị trấn Cẩm Khê nằm gần trung tâm huyện [[Cẩm Khê (huyện)|Cẩm Khê]], có vị trí địa lý:
+*Phía đông và phía bắc giáp huyện [[Thanh Ba (huyện)|Thanh Ba]]
+*Phía tây giáp các xã [[Cấp Dẫn]], [[Cẩm Khê (xã)|Minh Tân]] và [[Tùng Khê, Cẩm Khê|Tùng Khê]]
+*Phía nam giáp các xã [[Phú Khê]], [[Sơn Tình]] và [[Xương Thịnh]].
+
+Thị trấn Cẩm Khê có diện tích 17,78&nbsp;km², dân số năm 2018 là 15.070 người, mật độ dân số đạt 848 người/km².<ref name="NQ828"/>
+
+==Lịch sử==
+Địa bàn thị trấn Cẩm Khê trước đây vốn là 4 xã: Đông Phú, Sai Nga, Sơn Nga, Thanh Nga và một phần xã Phú Khê.
+
+Lỵ sở của huyện Cẩm Khê đặt tại xã Đông Phú từ năm Minh Mạng thứ 16 (1835), khi huyện Cẩm Khê còn mang tên gọi lịch sử là Hoa Khê.<ref>{{chú thích web| url =http://camkhe.phutho.gov.vn/?name=news&cat=29&id=34 | title =Giới thiệu chung về Huyện Cẩm Khê | access-date = ngày 28 tháng 11 năm 2014 |date = ngày 6 tháng 5 năm 2013 | publisher =Cổng thông tin điện tử huyện Cẩm Khê}}</ref>
+
+Ngày [[23 tháng 11]] năm [[1995]], Chính phủ ban hành Nghị định số 82-CP. Theo đó, thành lập thị trấn Sông Thao, thị trấn huyện lỵ huyện [[Sông Thao (huyện)|Sông Thao]], trên cơ sở toàn bộ 418,29 ha diện tích tự nhiên của xã Đông Phú và 33 ha diện tích tự nhiên của xã [[Phú Khê|Phú Khê]].
+
+Sau khi thành lập, thị trấn Sông Thao có 451,29 ha diện tích tự nhiên và 7.954 người.
+
+Ngày [[8 tháng 4]] năm [[2002]], huyện Sông Thao đổi lại tên cũ là huyện Cẩm Khê,<ref>{{Chú thích web|url=https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Nghi-dinh-39-2002-ND-CP-thanh-lap-phuong-thuoc-thanh-pho-Viet-Tri-doi-ten-huyen-Song-Thao-thanh-huyen-Cam-Khe-tinh-Phu-Tho-49270.aspx|tựa đề=Nghị định 39/2002/NĐ-CP về việc thành lập các phường thuộc thành phố Việt Trì và đổi tên huyện Sông Thao thành huyện Cẩm Khê, tỉnh Phú Thọ|tác giả=|họ=|tên=|ngày=|website=|url lưu trữ=|ngày lưu trữ=|ngày truy cập=}}</ref> thị trấn Sông Thao thuộc huyện Cẩm Khê.
+
+Đến năm 2018, thị trấn Sông Thao có diện tích 4,70&nbsp;km², dân số là 6.359 người, mật độ dân số đạt 1.353 người/km². Xã Sơn Nga có diện tích 5,07&nbsp;km², dân số là 1.852 người, mật độ dân số đạt 365 người/km². Xã Sai Nga có diện tích 4,06&nbsp;km², dân số là 4.479 người, mật độ dân số đạt 1.103 người/km². Xã Thanh Nga có diện tích 3,95&nbsp;km², dân số là 2.380 người, mật độ dân số đạt 603 người/km².
+
+Ngày [[17 tháng 12]] năm [[2019]], Ủy ban Thường vụ Quốc hội ban hành Nghị quyết 828/NQ-UBTVQH14 về việc sắp xếp các đơn vị hành chính cấp xã thuộc tỉnh Phú Thọ (nghị quyết có hiệu lực từ ngày [[1 tháng 1]] năm [[2020]]).<ref name=NQ828>{{Chú thích web|url=https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Nghi-quyet-828-NQ-UBTVQH14-2019-sap-xep-don-vi-hanh-chinh-cap-xa-thuoc-tinh-Phu-Tho-432098.aspx|tựa đề=Nghị quyết số 828/NQ-UBTVQH14 năm 2019 về việc sắp xếp các đơn vị hành chính cấp xã thuộc tỉnh Phú Thọ|tác giả=|họ=|tên=|ngày=|website=|url lưu trữ=|ngày lưu trữ=|ngày truy cập=}}</ref> Theo đó, sáp nhập toàn bộ diện tích và dân số của 3 xã: Sai Nga, Sơn Nga, Thanh Nga vào thị trấn Sông Thao để thành lập thị trấn Cẩm Khê.
+
+==Lịch sử==
+Địa bàn xã Minh Tân hiện nay trước đây vốn là ba xã: Đồng Cam, Phùng Xá, Phương Xá.
+
+Sau năm [[1945]], xã Phương Xá gồm 2 thôn: Phương Xá, Thổ Khối và phố Lưu Phương (nguyên là phố Cầu Tây).
+
+Trước khi sáp nhập, xã Đồng Cam có diện tích 2,57&nbsp;km², dân số là 2.530 người, mật độ dân số đạt 984 người/km². Xã Phùng Xá có diện tích 4,08&nbsp;km², dân số là 4.055 người, mật độ dân số đạt 994 người/km². Xã Phương Xá có diện tích 3,65&nbsp;km², dân số là 4.055 người, mật độ dân số đạt 1.111 người/km².
+
+Ngày [[17 tháng 12]] năm [[2019]], Ủy ban Thường vụ Quốc hội ban hành Nghị quyết 828/NQ-UBTVQH14 về việc sắp xếp các đơn vị hành chính cấp xã thuộc tỉnh Phú Thọ (nghị quyết có hiệu lực từ ngày [[1 tháng 1]] năm [[2020]]).<ref name=NQ828>{{Chú thích web|url=https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Nghi-quyet-828-NQ-UBTVQH14-2019-sap-xep-don-vi-hanh-chinh-cap-xa-thuoc-tinh-Phu-Tho-432098.aspx|tựa đề=Nghị quyết số 828/NQ-UBTVQH14 năm 2019 về việc sắp xếp các đơn vị hành chính cấp xã thuộc tỉnh Phú Thọ|tác giả=|họ=|tên=|ngày=|website=|url lưu trữ=|ngày lưu trữ=|ngày truy cập=}}</ref> Theo đó, sáp nhập toàn bộ diện tích và dân số của ba xã: Đồng Cam, Phùng Xá, Phương Xá thành xã Minh Tân.
+
+ -->
+
+== Chú thích ==
+{{reflist}}
+
+== Tham khảo ==
+{{Sơ khai Phú Thọ}}
+{{Đơn vị hành chính thuộc tỉnh Phú Thọ}}

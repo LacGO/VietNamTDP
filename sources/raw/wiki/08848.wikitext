@@ -1,0 +1,66 @@
+{{Thông tin đơn vị hành chính Việt Nam | xã
+| tên = Sông Lô
+| hình =Núi Đền (Điện Sơn) bên hồ Ngọc Đá.jpg 
+| ghi chú hình =Núi Đền (Điện Sơn) bên hồ Ngọc Đá 
+| vĩ độ = 21.382529621689905
+| kinh độ = 105.43378219384601
+| diện tích = 33,40 km²<ref name=MS/>
+| dân số = 34.291 người<ref name=MS/>
+| thời điểm dân số = 2025
+| mật độ dân số = {{formatnum:{{#expr:floor({{formatnum:34.291| R}}/{{formatnum:33,40| R}})}} }} người/km²
+| vùng = [[Đông Bắc Bộ]]
+| tỉnh = [[Phú Thọ]]
+| thành lập =16 tháng 6 năm 2025<ref>Nghị quyết số 1676/NQ-UBTVQH15</ref> 
+| trụ sở UBND =
+| mã hành chính = 08848<ref>{{Chú thích web |url=https://danhmuchanhchinh.gso.gov.vn/ |title=Tổng cục Thống kê |access-date=2022-04-10 |archive-date=2021-01-10 |archive-url=https://web.archive.org/web/20210110034519/https://www.gso.gov.vn/phuong-phap-thong-ke/danh-muc/don-vi-hanh-chinh/ |url-status=dead }}</ref>
+| mã bưu chính =15523 
+|web={{url|songlo.phutho.gov.vn}}
+}}
+{{other|Sông Lô (định hướng)}}
+'''Sông Lô''' là một [[Xã (Việt Nam)|xã]] thuộc [[Tỉnh (Việt Nam)|tỉnh]] [[Phú Thọ]], [[Việt Nam]].
+
+Đây là một trong 148 đơn vị hành chính của tỉnh Phú Thọ sau sắp xếp không bao gồm diện tích tự nhiên và quy mô dân số của xã Sông Lô (thành phố [[Việt Trì (thành phố)|Việt Trì]]), nay là một phần của phường [[Thanh Miếu]].
+
+==Địa lý==
+Xã Sông Lô nằm ở phía trung tâm tỉnh Phú Thọ, có vị trí địa lý<ref>{{Chú thích web |title=Đơn vị hành chính Việt Nam |url=https://sapnhap.bando.com.vn/ |access-date=2026-05-17 |website=sapnhap.bando.com.vn}}</ref>:
+
+* Phía Đông giáp xã [[Lập Thạch (xã)|Lập Thạch]] và [[Tiên Lữ, Phú Thọ|Tiên Lữ]].
+* Phía Tây giáp xã [[Bình Phú, Phú Thọ|Bình Phú]] và phường [[Vân Phú]] với ranh giới là [[Sông Lô]]
+* Phía Nam giáp phường [[Việt Trì (phường)|Việt Trì]] và xã [[Sơn Đông (xã)|Sơn Đông]].
+* Phía Bắc giáp xã [[Tam Sơn (xã)|Tam Sơn]].
+
+Xã có địa hình bằng phẳng, đất đai phì nhiêu, dân cư được phân bố tập trung.
+
+Xã Sông Lô có diện tích 33,40&nbsp;km², dân số năm 2025 là 34.291 người, mật độ dân số đạt 1.027 người/km².<ref>{{Chú thích web |title=Xã Sông Lô, Tỉnh Phú Thọ mới sáp nhập 2026 |url=https://tinhthanhvn.com/province/phu-tho/xa-song-lo |access-date=2026-05-17 |website=Tỉnh Thành Việt Nam |language=vi}}</ref>
+
+==Hành chính==
+Xã Sông Lô được chia thành 35 thôn: An Khang, Bằng Phú, Chiến Thắng, Dương Thọ, Đại Thắng, Đoàn Kết, Đồng Tâm, Giáp Trung, Hiệp Lực, Hoa Mỹ, Khoái Thọ, Khoái Thượng, Khoái Trung, Lương Thịnh, Minh Khai, Minh Tân, Nam Giáp, Phú Cường, Phú Thượng, Quyết Thắng, Sông Lô, Thiều Xuân, Thống Nhất, Thượng Trưng, Thượng Yên, Tiến Bộ, Tiền Phong, Vạn Thắng, Yên Bình, Yên Kiều, Yên Lương, Yên Mỹ, Yên Phú, Yên Thái, Yên Tĩnh.<ref>{{Chú thích web |last=Trang thông tin xã Sông Lô, tỉnh Phú Thọ |date=2026-03-05 |title=Danh sách người ứng cử đại biểu Hội đồng nhân dân xã Sông Lô, nhiệm kỳ 2026 - 2031 tại Đơn vị bầu cử số 1 gồm Thôn Minh Khai, Đại Thắng, Thống Nhất, Đoàn Kết, Minh Tân |url=https://www.facebook.com/story.php?story_fbid=122163505814931629&id=61577948889394&rdid=9yITT3B0AZRb87UA# |url-status=live |archive-url=https://web.archive.org/web/20260423090807/https://www.facebook.com/story.php?story_fbid=122163505814931629&id=61577948889394&rdid=9yITT3B0AZRb87UA# |archive-date=2026-04-23 |access-date=2026-04-23}}</ref><ref>{{Chú thích web |last=Trang thông tin xã Sông Lô, tỉnh Phú Thọ |date=2026-03-05 |title=Danh sách người ứng cử đại biểu Hội đồng nhân dân xã Sông Lô, nhiệm kỳ 2026 - 2031 tại Đơn vị bầu cử số 2 gồm Thôn Tiền Phong, Hoa Mỹ, An Khang, Sông Lô |url=https://www.facebook.com/story.php?story_fbid=122163506036931629&id=61577948889394&rdid=kENBxQrOMKQrMo8D# |url-status=live |archive-url=https://web.archive.org/web/20260423090807/https://www.facebook.com/story.php?story_fbid=122163506036931629&id=61577948889394&rdid=kENBxQrOMKQrMo8D# |archive-date=2026-04-23 |access-date=2026-04-23}}</ref><ref>{{Chú thích web |last=Trang thông tin xã Sông Lô, tỉnh Phú Thọ |date=2026-03-05 |title=Danh sách người ứng cử đại biểu Hội đồng nhân dân xã Sông Lô, nhiệm kỳ 2026 - 2031 tại Đơn vị bầu cử số 3 gồm Thôn Phú Cường, Yên Lương, Lương Thịnh, Yên Kiều, Yên Mỹ, Phú Thượng. |url=https://www.facebook.com/story.php?story_fbid=122163506498931629&id=61577948889394&rdid=sKhDEm5BFAw9Vbes# |url-status=live |archive-url=https://web.archive.org/web/20260423090807/https://www.facebook.com/story.php?story_fbid=122163506498931629&id=61577948889394&rdid=sKhDEm5BFAw9Vbes# |archive-date=2026-04-23 |access-date=2026-04-23}}</ref><ref>{{Chú thích web |last=Trang thông tin xã Sông Lô, tỉnh Phú Thọ |date=2026-03-05 |title=Danh sách người ứng cử đại biểu Hội đồng nhân dân xã Sông Lô, nhiệm kỳ 2026 - 2031 tại Đơn vị bầu cử số 4 gồm Thôn Dương Thọ, Thượng Trưng, Nam Giáp, Khoái Thượng |url=https://www.facebook.com/share/p/1YusAnvNgv/ |url-status=live |archive-url=https://web.archive.org/web/20260423090807/https://www.facebook.com/share/p/1YusAnvNgv/ |archive-date=2026-04-23 |access-date=2026-04-23}}</ref><ref>{{Chú thích web |last=Trang thông tin xã Sông Lô, tỉnh Phú Thọ |date=2026-03-05 |title=Danh sách người ứng cử đại biểu Hội đồng nhân dân xã Sông Lô, nhiệm kỳ 2026 - 2031 tại Đơn vị bầu cử số 5 gồm Thôn Khoái Trung, Khoái Thọ, Giáp Trung |url=https://www.facebook.com/share/p/1CaZDd9PBU/ |url-status=live |archive-url=https://web.archive.org/web/20260423090807/https://www.facebook.com/share/p/1CaZDd9PBU/ |archive-date=2026-04-23 |access-date=2026-04-23}}</ref><ref>{{Chú thích web |last=Trang thông tin xã Sông Lô, tỉnh Phú Thọ |date=2026-03-05 |title=Danh sách người ứng cử đại biểu Hội đồng nhân dân xã Sông Lô, nhiệm kỳ 2026 - 2031 tại Đơn vị bầu cử số 6 gồm Thôn Đồng Tâm, Vạn Thắng, Hiệp Lực, Yên Bình, Bằng Phú, Yên Phú, Thượng Yên |url=https://www.facebook.com/share/p/1BBYazQZAv/ |url-status=live |archive-url=https://web.archive.org/web/20260423090807/https://www.facebook.com/share/p/1BBYazQZAv/ |archive-date=2026-04-23 |access-date=2026-04-23}}</ref><ref>{{Chú thích web |last=Trang thông tin xã Sông Lô, tỉnh Phú Thọ |date=2026-03-05 |title=Danh sách người ứng cử đại biểu Hội đồng nhân dân xã Sông Lô, nhiệm kỳ 2026 - 2031 tại Đơn vị bầu cử số 7 gồm Thôn Yên Thái, Tiến Bộ, Chiến Thắng, Yên Tĩnh, Quyết Thắng, Thiều Xuân |url=https://www.facebook.com/share/p/1HbhWXfjSw/ |url-status=live |archive-url=https://web.archive.org/web/20260423090807/https://www.facebook.com/share/p/1HbhWXfjSw/ |archive-date=2026-04-23 |access-date=2026-04-23}}</ref>
+
+==Lịch sử==
+Trước kia, địa bàn xã Sông Lô ngày nay là địa bàn của các xã Đồng Thịnh, Tứ Yên, Đức Bác và Yên Thạch thuộc huyện [[Sông Lô (huyện Vĩnh Phúc)|Sông Lô]], tỉnh [[Vĩnh Phúc (tỉnh)|Vĩnh Phúc]] cũ.
+
+Ngày [[12 tháng 6]] năm [[2025]], [[Quốc hội Việt Nam|Quốc hội]] ban hành Nghị quyết số 202/2025/QH15 về việc sắp xếp đơn vị hành chính cấp tỉnh (nghị quyết có hiệu lực từ ngày [[12 tháng 6]] năm [[2025]]).<ref>{{Chú thích web |last=xaydungchinhsach.chinhphu.vn|date=2025-07-16|title=TOÀN VĂN: Nghị quyết số 202/2025/QH15 về sắp xếp đơn vị hành chính cấp tỉnh|url=https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-202-2025-qh15-ve-sap-xep-don-vi-hanh-chinh-cap-tinh-119250612174148722.htm|url-status=live|archive-url=https://web.archive.org/web/20260705025431/https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-202-2025-qh15-ve-sap-xep-don-vi-hanh-chinh-cap-tinh-119250612174148722.htm|archive-date=2026-07-05|access-date=2026-07-25|website=Báo Điện tử Chính phủ|language=vi}}</ref> Theo đó, sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của tỉnh [[Vĩnh Phúc (tỉnh)|Vĩnh Phúc]], tỉnh [[Hòa Bình (tỉnh)|Hòa Bình]] và tỉnh [[Phú Thọ]] thành tỉnh mới có tên gọi là tỉnh '''Phú Thọ'''.
+
+Ngày [[16 tháng 6]] năm [[2025]]:
+
+* Quốc hội ban hành Nghị quyết số 203/2025/QH15 về việc sửa đổi, bổ sung một số điều của Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam (nghị quyết có hiệu lực từ ngày [[16 tháng 6]] năm [[2025]]).<ref>{{Chú thích web |last=xaydungchinhsach.chinhphu.vn |date=2025-06-28 |title=NGHỊ QUYẾT 203/2025/QH15 SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA HIẾN PHÁP NƯỚC CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM |url=https://xaydungchinhsach.chinhphu.vn/nghi-quyet-203-2025-qh15-sua-doi-bo-sung-mot-so-dieu-cua-hien-phap-nuoc-cong-hoa-xa-hoi-chu-nghia-viet-nam-119250616181735552.htm |url-status=live |archive-url=https://web.archive.org/web/20260715200606/https://xaydungchinhsach.chinhphu.vn/nghi-quyet-203-2025-qh15-sua-doi-bo-sung-mot-so-dieu-cua-hien-phap-nuoc-cong-hoa-xa-hoi-chu-nghia-viet-nam-119250616181735552.htm |archive-date=2026-07-15 |access-date=2026-07-15 |website=Báo Điện tử Chính phủ |language=vi}}</ref> Theo đó, kết thúc hoạt động của đơn vị hành chính cấp huyện trong cả nước từ ngày 1 tháng 7 năm 2025.
+* [[Ủy ban Thường vụ Quốc hội]] ban hành Nghị quyết số 1676/NQ-UBTVQH15 về việc sắp xếp đơn vị hành chính cấp xã của tỉnh [[Phú Thọ]] năm 2025 (nghị quyết có hiệu lực từ ngày [[16 tháng 6]] năm [[2025]]).<ref>{{Chú thích web |last=xaydungchinhsach.chinhphu.vn |date=2025-06-20 |title=Nghị quyết số 1676/NQ-UBTVQH15 sắp xếp các ĐVHC cấp xã của tỉnh Phú Thọ năm 2025 |url=https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-1676-nq-ubtvqh15-sap-xep-cac-dvhc-cap-xa-cua-tinh-phu-tho-nam-2025-119250616204317326.htm |url-status=live |archive-url=https://web.archive.org/web/20260725082021/https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-1676-nq-ubtvqh15-sap-xep-cac-dvhc-cap-xa-cua-tinh-phu-tho-nam-2025-119250616204317326.htm |archive-date=2026-07-25 |access-date=2026-07-27 |website=Báo Điện tử Chính phủ |language=vi}}</ref> Theo đó, sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của các xã Đồng Thịnh, Tứ Yên, Đức Bác và Yên Thạch (huyện [[Sông Lô (huyện Vĩnh Phúc)|Sông Lô]]) thành xã mới có tên gọi là '''xã Sông Lô'''.
+
+== Giai thoại ==
+Trên đỉnh núi Đền tại thôn Thống Nhất, xã Sông Lô có khối đá lớn, biểu tượng của xã Lập Thạch xưa, cũng là biểu tượng của huyện Lập Thạch xưa. Nơi đây ba nhà giáo: Nguyễn Nham, Nguyễn Tuấn, Nguyễn Tiễu từng dạy con vua Lý Thái Tổ trong 3 năm, sau đó về đây chọn làm nơi mở trường lớp dạy học cho dân. Sau khi các ông qua đời và được cho là đã hóa đá tại đây, nhân dân lập đền thờ. Gặp khi khó khăn trong sản xuất, quan trên sức về nhân dân lập đàn cầu đảo rất linh ứng. Nhà Lý phong tặng các ngài là Tam vị Thạch Sơn Đại vương. Nhà Trần phong tặng các ngài là Thượng đẳng thần, đền thờ các ngài là Tối Linh Từ (theo nội dung THẦN TÍCH CHÍNH BẢN đang lưu trữ tại đình Vĩnh Quang và Lý lịch di tích).
+
+Ngày [[21 tháng 1|21]] [[21 tháng 1|tháng 1]] năm [[2020]], UBND tỉnh Vĩnh Phúc đã ra Quyết định số 147/QĐ-UBND xếp hạng cấp tỉnh Di tích Lịch sử-Văn hóa Đình Vĩnh Quang. Các triều đại phong kiến đều có sắc phong cho các nơi thờ các ngài: đình Đại Trung (Đình Cả), đình Miêu Nha hoặc Do Nha (Đình Ngà), đình Vĩnh Quang (đình làng Chùa), đình Thiều Xuân (làng Thiều).
+
+==Danh nhân==
+* '''[[Lê Quang Bích]]''' (sinh năm 1960) là thẩm phán cao cấp người Việt Nam. Ông hiện giữ chức vụ Chánh án Tòa án nhân dân tỉnh [[Tuyên Quang]].
+* [[Nguyễn Xuân Yêm (tướng công an)|'''Nguyễn Xuân Yêm''']] (sinh năm 1957) là một sĩ quan cấp cao của lực lượng Công an nhân dân Việt Nam. Ông là Giáo sư, Tiến sĩ mang hàm Trung tướng, nguyên là Giám đốc Học viện Cảnh sát nhân dân (2009 – 2018).
+* '''[[Trần Cừ]]''' (1920 – 1950) là một quân nhân của Quân đội Nhân dân Việt Nam, nguyên Đại đội trưởng Đại đội 336, Trung đoàn 209, Đại đoàn 312. Ông tử trận trong một trận đánh mở màn Chiến dịch Biên giới và được nhà nước Việt Nam phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân.
+* '''[[Triệu Xuân Hòa]]''' (sinh năm 1953) là một sĩ quan Quân đội nhân dân Việt Nam, Anh hùng lực lượng vũ trang nhân dân Việt Nam, hàm Trung tướng. Nguyên Phó Trưởng ban Chỉ đạo Tây Nguyên, nguyên Tư lệnh Quân khu 7, Đại biểu Quốc hội Việt Nam khóa XII thuộc đoàn đại biểu Quốc hội tỉnh Đồng Nai.
+
+==Chú thích==
+{{tham khảo|30em}}
+
+==Tham khảo==
+
+{{sơ khai Phú Thọ}}
+{{Đơn vị hành chính thuộc tỉnh Phú Thọ}}

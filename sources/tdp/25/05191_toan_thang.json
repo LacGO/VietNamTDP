@@ -1,0 +1,128 @@
+{
+  "ward_code": "05191",
+  "ward_name": "Toàn Thắng",
+  "province_code": "25",
+  "resolution": "",
+  "arrangement": "truoc_2026_07",
+  "effective_date": "",
+  "verified": "unverified",
+  "extraction": {
+    "source": "vi.wikipedia.org",
+    "title": "Toàn Thắng",
+    "mode": "narrative"
+  },
+  "sources": [
+    {
+      "key": "wiki-05191-1",
+      "title": "Nghị quyết số 830/NQ-UBTVQH14 của ỦY BAN THƯỜNG VỤ QUỐC HỘI: Về việc sắp xếp các đơn vị hành chính cấp huyện, cấp xã thuộc tỉnh Hòa Bình",
+      "url": "http://vanban.chinhphu.vn/default.aspx?pageid=27160&docid=198695",
+      "date": "2026-07-14",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-05191-2",
+      "title": "Danh sách Thôn vùng đồng bào dân tộc thiểu số và miền núi, thôn đặc biệt khó khăn giai đoạn 2026 - 2030 trên địa bàn tỉnh Phú Thọ",
+      "url": "http://files.ubdt.gov.vn/files/ecm/source_files/2026/02/05/11252411_4.%20Ph%C3%BA%20Th%E1%BB%8D%201%20(th%C3%B4n).signed_26-02-05.pdf",
+      "date": "2026-01-29",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-05191-3",
+      "title": "TOÀN VĂN: Nghị quyết số 202/2025/QH15 về sắp xếp đơn vị hành chính cấp tỉnh",
+      "url": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-202-2025-qh15-ve-sap-xep-don-vi-hanh-chinh-cap-tinh-119250612174148722.htm",
+      "date": "2025-07-16",
+      "type": "wikipedia-ref"
+    }
+  ],
+  "note": "Trích tự động từ Wikipedia tiếng Việt (mode=narrative). Cần đối chiếu nghị quyết HĐND phường/xã. ⚠️ Danh mục có thể là hiện trạng TRƯỚC sắp xếp thôn/TDP 01/7/2026 — Wikipedia chưa cập nhật nghị quyết mới.",
+  "tdp": [
+    {
+      "name": "Ào U",
+      "type": "xóm"
+    },
+    {
+      "name": "Bận Dọi",
+      "type": "xóm"
+    },
+    {
+      "name": "Bùi Nước",
+      "type": "xóm"
+    },
+    {
+      "name": "Chiềng",
+      "type": "xóm"
+    },
+    {
+      "name": "Chiềng Đồi",
+      "type": "xóm"
+    },
+    {
+      "name": "Cò",
+      "type": "xóm"
+    },
+    {
+      "name": "Đá",
+      "type": "xóm"
+    },
+    {
+      "name": "Đồi Bệ",
+      "type": "xóm"
+    },
+    {
+      "name": "Đừng",
+      "type": "xóm"
+    },
+    {
+      "name": "Gia Phú",
+      "type": "xóm"
+    },
+    {
+      "name": "Hông Thọng",
+      "type": "xóm"
+    },
+    {
+      "name": "Khi",
+      "type": "xóm"
+    },
+    {
+      "name": "Mường Dạ",
+      "type": "xóm"
+    },
+    {
+      "name": "Nghẹ",
+      "type": "xóm"
+    },
+    {
+      "name": "Rên",
+      "type": "xóm"
+    },
+    {
+      "name": "Sống",
+      "type": "xóm"
+    },
+    {
+      "name": "Tân Lập",
+      "type": "xóm"
+    },
+    {
+      "name": "Tân Thành",
+      "type": "xóm"
+    },
+    {
+      "name": "Trang",
+      "type": "xóm"
+    },
+    {
+      "name": "Trám",
+      "type": "xóm"
+    },
+    {
+      "name": "Trăng Tà",
+      "type": "xóm"
+    },
+    {
+      "name": "Úi",
+      "type": "xóm"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{{Thông tin đơn vị hành chính Việt Nam | phường
+| tên = Xuân Đỉnh 
+| hình = Hoa Binh Park monument.jpg
+| ghi chú hình = Công viên Hòa Bình tại phường Xuân Đỉnh
+| vĩ độ = 21.071240
+| kinh độ = 105.791107
+| diện tích = 5,48 km²
+| dân số = 32.628 người
+| thời điểm dân số = 2024
+| mật độ dân số = {{formatnum:{{#expr:floor(32628/5.48)}} }} người/km²
+| vùng = [[Đồng bằng sông Hồng]]
+| thành phố = [[Hà Nội]]
+| thành lập = 2013<ref name = NQ132 />
+| trụ sở UBND = Phố Minh Tảo
+}}
+
+'''Xuân Đỉnh''' là một [[Phường (Việt Nam)|phường]] thuộc thành phố [[Hà Nội]], [[Việt Nam]].
+
+== Địa lý== 
+Phường Xuân Đỉnh có vị trí địa lý:<ref>{{Chú thích web| url = https://xaydungchinhsach.chinhphu.vn/chi-tiet-du-thao-phuong-an-sap-xep-cac-phuong-cua-ha-noi-119250421100531902.htm| title = Chi tiết dự thảo PHƯƠNG ÁN SẮP XẾP CÁC PHƯỜNG của HÀ NỘI| date = 28 tháng 4 năm 2025| website = xaydungchinhsach.chinhphu.vn}}</ref> 
+*Phía Đông tiếp giáp phường Tây Hồ (ranh giới đi theo đường Võ Chí Công)
+*Phía Tây tiếp giáp phường Đông Ngạc (ranh giới đi theo đường Phạm Văn Đồng)
+*Phía Nam tiếp giáp phường Nghĩa Đô (ranh giới đi theo đường quy hoạch số 23 - sông Nhuệ - Khu đô thị StarLake - đường Giao thông quy hoạch)
+* Phía Bắc tiếp giáp phường Phú Thượng (ranh giới đi theo đường Nguyễn Hoàng Tôn)
+
+== Lịch sử== 
+Trước đây, Xuân Đỉnh là một xã thuộc huyện [[Từ Liêm (huyện)|Từ Liêm]] cũ.
+
+Ngày [[27 tháng 12]] năm [[2013]], Chính phủ ban hành Nghị quyết số 132/NQ-CP về việc điều chỉnh địa giới hành chính huyện Từ Liêm để thành lập 2 quận và 23 phường thuộc thành phố Hà Nội.<ref name = NQ132>{{Chú thích web| url = https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/Nghi-quyet-132-NQ-CP-nam-2013-dieu-chinh-dia-gioi-hanh-chinh-Tu-Liem-Ha-Noi-217666.aspx| tựa đề = Nghị quyết 132/NQ-CP năm 2013 về việc điều chỉnh địa giới hành chính huyện Từ Liêm để thành lập 2 quận và 23 phường thuộc thành phố Hà Nội| tác giả = | họ = | tên = | ngày = | website = | url lưu trữ = | ngày lưu trữ = | ngày truy cập = }}</ref> Theo đó:
+*Chuyển xã Xuân Đỉnh về quận Bắc Từ Liêm mới thành lập
+*Thành lập phường Xuân Đỉnh trên cơ sở điều chỉnh 352,20 ha diện tích tự nhiên và 33.659 người của xã Xuân Đỉnh
+*Thành lập phường Xuân Tảo trên cơ sở điều chỉnh 226,30 ha diện tích tự nhiên và 12.622 người còn lại của xã Xuân Đỉnh.
+
+Ngày [[16 tháng 6]] năm [[2025]]:
+
+* [[Quốc hội Việt Nam|Quốc hội]] ban hành Nghị quyết số 203/2025/QH15 về việc sửa đổi, bổ sung một số điều của Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam.<ref>{{Chú thích web |last=xaydungchinhsach.chinhphu.vn|date=2025-06-28|title=NGHỊ QUYẾT 203/2025/QH15 SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA HIẾN PHÁP NƯỚC CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM|url=https://xaydungchinhsach.chinhphu.vn/nghi-quyet-203-2025-qh15-sua-doi-bo-sung-mot-so-dieu-cua-hien-phap-nuoc-cong-hoa-xa-hoi-chu-nghia-viet-nam-119250616181735552.htm|access-date=2026-07-15|website=xaydungchinhsach.chinhphu.vn|language=vi}}</ref> Theo đó, kết thúc hoạt động của đơn vị hành chính cấp huyện trong cả nước từ ngày 1 tháng 7 năm 2025.
+* [[Ủy ban Thường vụ Quốc hội]] ban hành Nghị quyết số 1656/NQ-UBTVQH15 về việc sắp xếp các đơn vị hành chính cấp xã của thành phố Hà Nội năm 2025 (nghị quyết có hiệu lực từ ngày 16 tháng 6 năm 2025). Theo đó, sắp xếp một phần diện tích tự nhiên, quy mô dân số của các phường Xuân Đỉnh, Cổ Nhuế 1, Xuân Tảo (quận [[Bắc Từ Liêm]]) và một phần phường Xuân La (quận [[Tây Hồ (quận)|Tây Hồ]]) thành phường mới có tên gọi là '''phường Xuân Đỉnh'''.<ref>{{Chú thích web| url = https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-1656-nq-ubtvqh15-sap-xep-cac-dvhc-cap-xa-cua-thanh-pho-ha-noi-nam-2025-119250616192433872.htm| title = Nghị quyết số 1656/NQ-UBTVQH15 sắp xếp các ĐVHC cấp xã của thành phố Hà Nội năm 2025| date = 20 tháng 6 năm 2025| website = xaydungchinhsach.chinhphu.vn}}</ref>
+<!-- 
+== Lịch sử== 
+Phường Cổ Nhuế 1 được thành lập vào ngày [[27 tháng 12]] năm [[2013]] trên cơ sở điều chỉnh 217,70 ha diện tích tự nhiên và 33.346 người của xã [[Cổ Nhuế]], 3,30 ha diện tích tự nhiên và 372 người của thị trấn [[Cầu Diễn]] thuộc huyện [[Từ Liêm (huyện)| Từ Liêm]] cũ.<ref name = NQ132>{{Chú thích web| url = https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/Nghi-quyet-132-NQ-CP-nam-2013-dieu-chinh-dia-gioi-hanh-chinh-Tu-Liem-Ha-Noi-217666.aspx| tựa đề = Nghị quyết 132/NQ-CP năm 2013 về việc điều chỉnh địa giới hành chính huyện Từ Liêm để thành lập 2 quận và 23 phường thuộc thành phố Hà Nội| tác giả = | họ = | tên = | ngày = | website = | url lưu trữ = | ngày lưu trữ = | ngày truy cập = }}</ref>
+
+Sau khi thành lập, phường có 221 ha diện tích tự nhiên và 33.718 người.
+
+Ngày [[27 tháng 4]] năm [[2021]], Ủy ban Thường vụ Quốc hội ban hành Nghị quyết số 1263/NQ-UBTVQH14 (nghị quyết có hiệu lực từ ngày [[1 tháng 7]] năm [[2021]])<ref name = NQ1263>{{Chú thích web| url = https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Nghi-quyet-1263-NQ-UBTVQH14-2021-dieu-chinh-dia-gioi-don-vi-hanh-chinh-giua-cac-quan-Ha-Noi-473347.aspx| tựa đề = Nghị quyết số 1263/NQ-UBTVQH14 năm 2021 về việc điều chỉnh địa giới đơn vị hành chính giữa các quận Cầu Giấy, Bắc Từ Liêm và Nam Từ Liêm thuộc thành phố Hà Nội}}</ref>. Theo đó, điều chỉnh 10,32 ha diện tích tự nhiên khu vực 8 tổ dân phố Bắc Nghĩa Tân do phường [[Nghĩa Tân, Cầu Giấy| Nghĩa Tân]], quận Cầu Giấy quản lý hành chính (bao gồm các tổ dân phố số 25, 26, 27, 28, 29, 30, 31, 32) đang thuộc địa giới hành chính của phường Cổ Nhuế 1 vào phường Nghĩa Tân, quận Cầu Giấy.
+
+Sau khi điều chỉnh địa giới hành chính, phường Cổ Nhuế 1 có diện tích 2,22&nbsp;km², dân số là 45.274 người.
+-->
+
+== Địa chỉ trụ sở các cơ quan== 
+'''Trụ sở Đảng ủy – UBND phường''': Phố Minh Tảo, phường Xuân Đỉnh (Địa chỉ cũ: Phố Minh Tảo, phường Xuân Tảo, quận Bắc Từ Liêm)
+
+== Kinh tế== 
+Xuân Đỉnh nổi tiếng với [[hồng xiêm]]. Hồng xiêm Xuân Đỉnh có hương thơm và vị ngọt đặc biệt. Hồng được trồng ở đất Xuân Đỉnh hình phễu, quả to từ trên xuống dưới, da hồng, bổ ra có mùi thơm dịu, cát mịn, ăn có vị ngọt mát, phân biệt với hồng xiêm nơi khác cát to, có vị ngọt đậm, quả lớn hơn, hình dạng quả không đồng nhất. Bên cạnh [[cam Canh]], [[bưởi Diễn]], [[quất Quảng Bá]], [[đào Nhật Tân]], [[cốm Vòng]]... hồng xiêm Xuân Đỉnh cũng là niềm tự hào, món quà quý của người Hà Nội.<ref>[http://giadinh.vnexpress.net/tin-tuc/am-thuc/hong-xiem-xuan-dinh-2361883.html Hồng xiêm Xuân Đỉnh]</ref> Những năm về trước hầu như nhà nào trong xã cũng trồng hồng xiêm, với số lượng cây lên đến hàng vạn, khiến xã trở thành một lãnh địa của hồng xiêm ngon nổi tiếng miền Bắc. Tuy nhiên, hiện nay, với tốc độ đô thị hóa quá nhanh, hồng xiêm Xuân Đỉnh cũng đang thu hẹp diện tích.
+
+Phường còn có nghề làm bánh mứt kẹo truyền thống, đặc biệt là [[mứt tết]] và [[bánh trung thu]]. Những năm trước đây việc ít chú trọng vệ sinh an toàn thực phẩm và nhãn mác bao bì đã khiến bánh mứt kẹo Xuân Đỉnh trở thành đối tượng phản ánh của các phương tiện truyền thông.<ref>[http://giadinh.vnexpress.net/tin-tuc/to-am/mao-hiem-khi-mua-mut-tet-khong-nhan-mac-2267390.html Mạo hiểm khi mua mứt Tết không nhãn mác]</ref> Bánh mứt kẹo Xuân Đỉnh hiện không thể cạnh tranh với những mặt hàng xa xỉ của những hãng sản xuất có tên tuổi, tuy nhiên một số người vẫn biết và tìm đến mua hàng của một số gia đình nghệ nhân có uy tín như cơ sở Sinh Hùng; Đinh Tỵ; Bình Chung; Hồng Hạnh; Havico; Thành Công và một số cơ sở khác. Những nhà sản xuất quy mô nhỏ lẻ đang dần rút lui để chuyển nghề còn số khác đang chuyển dần sang làm ăn công nghiệp, đề cao vệ sinh an toàn thực phẩm hơn trước. Từ dịp tết nguyên đán 2009, theo báo chí, công tác vệ sinh an toàn thực phẩm tại các cơ sở sản xuất bánh, mứt, kẹo tại làng nghề Xuân Đỉnh đã bước đầu được thực hiện nghiêm ngặt ngay từ khâu chế biến.<ref>[http://www.antd.vn/Tianyon/Index.aspx?ArticleID = 39868&ChannelID = 5 Làng nghề bánh mứt kẹo đã coi trọng vệ sinh ATTP]{{Liên kết hỏng| date = 2022-03-25 | bot = InternetArchiveBot }}</ref>
+
+==Hình ảnh==
+[[File:Cổng trường THPT Xuân Đình.jpg|thumb|Cổng trường THPT Xuân Đình]]
+
+== Chú thích== 
+{{tham khảo| 30em}}
+{{sơ khai Hà Nội}}
+{{Đơn vị hành chính thuộc thành phố Hà Nội}}

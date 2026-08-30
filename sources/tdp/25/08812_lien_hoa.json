@@ -1,0 +1,124 @@
+{
+  "ward_code": "08812",
+  "ward_name": "Liên Hoà",
+  "province_code": "25",
+  "resolution": "",
+  "arrangement": "truoc_2026_07",
+  "effective_date": "",
+  "verified": "unverified",
+  "extraction": {
+    "source": "vi.wikipedia.org",
+    "title": "Liên Hòa (xã)",
+    "mode": "narrative"
+  },
+  "sources": [
+    {
+      "key": "wiki-08812-1",
+      "title": "Nghị quyết số 1/NQ-UBBC về việc ấn định và công bố số đơn vị bầu cử, danh sách các đơn vị bầu cử và số lượng đại biểu Hội đồng nhân dân xã nhiệm kỳ 2026 - 2031 được bầu ở mỗi đơn vị bầu cử",
+      "url": "https://lienhoa.phutho.gov.vn/index.php/van-ban-phap-quy?task=download.send&id=10&catid=5&m=0",
+      "date": "2025-12-24",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-08812-2",
+      "title": "Nghị quyết số 111/2025/UBTVQH15 về phân loại đô thị",
+      "url": "https://xaydungchinhsach.chinhphu.vn/nghi-quyet-so-111-2025-ubtvqh15-ve-phan-loai-do-thi-119260101170432239.htm",
+      "date": "2026-01-21",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-08812-3",
+      "title": "TOÀN VĂN: Nghị quyết số 202/2025/QH15 về sắp xếp đơn vị hành chính cấp tỉnh",
+      "url": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-202-2025-qh15-ve-sap-xep-don-vi-hanh-chinh-cap-tinh-119250612174148722.htm",
+      "date": "2025-07-16",
+      "type": "wikipedia-ref"
+    }
+  ],
+  "note": "Trích tự động từ Wikipedia tiếng Việt (mode=narrative). Cần đối chiếu nghị quyết HĐND phường/xã. ⚠️ Danh mục có thể là hiện trạng TRƯỚC sắp xếp thôn/TDP 01/7/2026 — Wikipedia chưa cập nhật nghị quyết mới.",
+  "tdp": [
+    {
+      "name": "Bồ Thầy",
+      "type": "thôn"
+    },
+    {
+      "name": "Cộng Hòa",
+      "type": "thôn"
+    },
+    {
+      "name": "Đông Lai",
+      "type": "thôn"
+    },
+    {
+      "name": "Hoa Giang",
+      "type": "thôn"
+    },
+    {
+      "name": "Hoa Lư",
+      "type": "thôn"
+    },
+    {
+      "name": "Hòa Bình",
+      "type": "thôn"
+    },
+    {
+      "name": "Làng Bến",
+      "type": "thôn"
+    },
+    {
+      "name": "Ngọc Liễn",
+      "type": "thôn"
+    },
+    {
+      "name": "Phú Cả",
+      "type": "thôn"
+    },
+    {
+      "name": "Phú Khánh",
+      "type": "thôn"
+    },
+    {
+      "name": "Phú Ninh",
+      "type": "thôn"
+    },
+    {
+      "name": "Phú Thụ",
+      "type": "thôn"
+    },
+    {
+      "name": "Quảng Khuân",
+      "type": "thôn"
+    },
+    {
+      "name": "Tây Hạ Đông",
+      "type": "thôn"
+    },
+    {
+      "name": "Tây Hạ Nam",
+      "type": "thôn"
+    },
+    {
+      "name": "Tây Thượng",
+      "type": "thôn"
+    },
+    {
+      "name": "Thái Bình",
+      "type": "thôn"
+    },
+    {
+      "name": "Thượng Đạt",
+      "type": "thôn"
+    },
+    {
+      "name": "Trụ Thạch",
+      "type": "thôn"
+    },
+    {
+      "name": "Xích Thổ",
+      "type": "thôn"
+    },
+    {
+      "name": "Xuân Me",
+      "type": "thôn"
+    }
+  ]
+}

@@ -1,0 +1,166 @@
+{{Thông tin đơn vị hành chính Việt Nam |Phường
+| tên = Yên Nghĩa
+| hình = Ga Yên Nghĩa.jpg 
+| ghi chú hình = Ga Yên Nghĩa – Đường sắt đô thị Hà Nội 
+| vĩ độ = 20.955192303276263
+| kinh độ = 105.73383157495923
+| diện tích = 13,18 km²
+| dân số = 49.643 người
+| thời điểm dân số = 2025
+| mật độ dân số = {{formatnum:{{#expr:floor({{formatnum:49.643| R}}/{{formatnum:13,18| R}})}} }} người/km²
+| vùng = [[Đồng bằng sông Hồng]]
+| thành phố = [[Hà Nội]]
+| trụ sở UBND =Tổ dân phố Trung Hưng 
+| mã hành chính =09562<ref>{{Chú thích web |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/19ttg.signed.pdf |title=Quyết định số 19/2025/QĐ-TTg ngày 30 tháng 6 năm 2025 của Thủ tướng Chính phủ về việc Ban hành Bảng danh mục và mã số các đơn vị hành chính Việt Nam |access-date=2026-06-15 |archive-date=2026-06-15 |archive-url=https://web.archive.org/web/20260615034519/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/19ttg.signed.pdf |url-status=dead | website = Cổng Thông tin điện tử Chính phủ}}</ref> 
+|trụ sở Đảng ủy=Số 6 đường Đê Tả Đáy|web={{url|yennghia.hanoi.gov.vn}}|bản đồ 1={{maplink|frame=yes|plain=yes|type=shape|frame-width=280|frame-align=center|stroke-width=3}}}}
+{{other|Yên Nghĩa (định hướng)}}
+'''Yên Nghĩa''' là một [[Phường (Việt Nam)|phường]] thuộc thành phố [[Hà Nội]], [[Việt Nam]].
+
+== Địa lý== 
+Phường Yên Nghĩa có vị trí địa lý:
+* Phía đông giáp phường [[Phú Lương (phường)|Phú Lương]] và xã [[Bình Minh, Hà Nội|Bình Minh]] (đi theo ranh giới cấp xã và cấp huyện cũ) 
+* Phía tây giáp xã [[An Khánh, Hà Nội|An Khánh]], xã [[Hưng Đạo, Hà Nội|Hưng Đạo]] và phường [[Chương Mỹ (phường)|Chương Mỹ]] (đi theo ranh giới cấp huyện cũ và [[sông Đáy]]) 
+* Phía nam giáp phường [[Chương Mỹ (phường)|Chương Mỹ]] và xã [[Bình Minh, Hà Nội|Bình Minh]] ([[sông Đáy]] và đi theo ranh giới cấp huyện cũ) 
+* Phía bắc giáp xã [[An Khánh, Hà Nội|An Khánh]] và phường [[Dương Nội]] (ranh giới đi theo kênh tiêu nước Tây Hà Nội và đường sắt Hà Đông).<ref>{{Chú thích web |last=Báo Điện tử Chính phủ |date=2025-04-28 |title=Chi tiết dự thảo phương án sắp xếp các phường của Hà Nội |url=https://xaydungchinhsach.chinhphu.vn/chi-tiet-du-thao-phuong-an-sap-xep-cac-phuong-cua-ha-noi-119250421100531902.htm |url-status=dead |archive-url=https://web.archive.org/web/20260316174230/https://xaydungchinhsach.chinhphu.vn/chi-tiet-du-thao-phuong-an-sap-xep-cac-phuong-cua-ha-noi-119250421100531902.htm |archive-date=2026-03-16 |access-date=2026-07-10 |website=Xây dựng chính sách, pháp luật}}</ref><ref>{{Chú thích web |last=Viện nghiên cứu Phát triển kinh tế – xã hội Hà Nội |date=2025-07-02 |title=Phường Yên Nghĩa: Những thông tin chi tiết sau sắp xếp |url=https://hanoionline.vn/phuong-yen-nghia-nhung-thong-tin-chi-tiet-sau-sap-xep-344087.htm |url-status=dead |archive-url=https://web.archive.org/web/20260807400809/https://hanoionline.vn/phuong-yen-nghia-nhung-thong-tin-chi-tiet-sau-sap-xep-344087.htm |archive-date=2026-08-07 |access-date=2026-08-07 |website=Cơ quan Báo và Phát thanh Truyền hình Hà Nội}}</ref><ref>{{Chú thích web |last=Cơ quan Báo và Phát thanh Truyền hình Hà Nội |date=2025-07-07 |title=Phường Yên Nghĩa: Tất cả thông tin chỉ dẫn bạn cần biết |url=https://hanoionline.vn/phuong-yen-nghia-tat-ca-thong-tin-chi-dan-ban-can-biet-345173.htm |url-status=dead |archive-url=https://web.archive.org/web/20260807401509/https://hanoionline.vn/phuong-yen-nghia-tat-ca-thong-tin-chi-dan-ban-can-biet-345173.htm |archive-date=2026-08-07 |access-date=2026-08-07}}</ref>
+Phường Yên Nghĩa có diện tích tự nhiên là 13,18 km<sup>2</sup>, quy mô dân số năm 2025 là 49.643 người và mật độ dân số đạt 3.766 người/km<sup>2</sup>.<ref>{{Chú thích web |last=Mai Hữu |date=2026-04-05 |title=Hà Nội: Chi tiết phương án tổng thể sắp xếp đơn vị hành chính cấp xã |url=https://hanoimoi.vn/ha-noi-chi-tiet-phuong-an-tong-the-sap-xep-don-vi-hanh-chinh-cap-xa-700278.html |url-status=bot: unknown |archive-url=https://web.archive.org/web/20250710163328/https://hanoimoi.vn/ha-noi-chi-tiet-phuong-an-tong-the-sap-xep-don-vi-hanh-chinh-cap-xa-700278.html |archive-date=2025-07-10 |access-date=2026-07-08 |website=Cơ quan Báo và Phát thanh, truyền hình Hà Nội}}</ref><ref>Công văn số 2896/BNV-CQĐP ngày 27 tháng 5 năm 2025 của Bộ Nội vụ về việc cung cấp thông tin danh mục dự kiến đơn vị hành chính cấp xã mới.</ref>
+
+== Lịch sử==
+
+=== Trước năm 1976 ===
+
+=== Giai đoạn 1976 – nay ===
+Sau ngày 2 tháng 7 năm 1976, 2 xã: Đồng Mai và Phú Lãm thuộc huyện [[Thanh Oai (huyện)|Thanh Oai]]; xã Yên Nghĩa thuộc huyện [[Hoài Đức (huyện)|Hoài Đức]] của tỉnh [[Hà Sơn Bình]].
+
+Ngày 29 tháng 12 năm 1978, sáp nhập huyện [[Hoài Đức (huyện)|Hoài Đức]] và phần Bắc đường số 6 thuộc xã Phú Lãm của huyện [[Thanh Oai (huyện)|Thanh Oai]] thuộc tỉnh [[Hà Sơn Bình]] vào thành phố [[Hà Nội]].<ref>Nghị quyết ngày 29 tháng 12 năm 1978 của Quốc hội khóa VI, Kỳ họp thứ 4 phê chuẩn việc phân vạch lại địa giới thành phố Hà Nội, thành phố Hồ Chí Minh, các tỉnh Hà Sơn Bình, Vĩnh Phú, Cao Lạng, Bắc Thái, Quảng Ninh và Đồng Nai.</ref>
+
+Ngày 17 tháng 2 năm 1979, sáp nhập thôn Do Lộ (phần bắc đường số 6, xã Phú Lãm) vào xã Yên Nghĩa thuộc huyện [[Hoài Đức (huyện)|Hoài Đức]].<ref>Quyết định số 49-CP ngày 17 tháng 2 năm 1979 của Hội đồng Chính phủ về việc điều chỉnh địa giới một số xã, thị trấn thuộc các huyện Sóc Sơn, Mê Linh, Hoài Đức, Phúc Thọ và Thanh Trì thuộc thành phố Hà Nội.</ref>
+
+Ngày 12 tháng 8 năm 1991, chia tỉnh [[Hà Sơn Bình]] thành 2 tỉnh, lấy tên là tỉnh [[Hòa Bình (tỉnh)|Hòa Bình]] và tỉnh [[Hà Tây (tỉnh)|Hà Tây]]. Chuyển huyện [[Hoài Đức (huyện)|Hoài Đức]] của thành phố [[Hà Nội]] về tỉnh [[Hà Tây (tỉnh)|Hà Tây]]. Khi đó, xã Đồng Mai thuộc huyện [[Thanh Oai (huyện)|Thanh Oai]]; xã Yên Nghĩa thuộc huyện [[Hoài Đức (huyện)|Hoài Đức]] của tỉnh [[Hà Tây (tỉnh)|Hà Tây]].<ref>Nghị quyết ngày 12 tháng 8 năm 1991 của Quốc hội khóa VIII, Kỳ họp thứ 9 về việc điều chỉnh địa giới hành chính một số tỉnh, thành phố trực thuộc Trung ương.</ref>
+
+Ngày 23 tháng 9 năm 2003, chuyển xã Yên Nghĩa của huyện [[Hoài Đức (huyện)|Hoài Đức]] về thị xã [[Hà Đông (quận)|Hà Đông]] quản lý.<ref>{{Chú thích web| url = https://chinhphu.vn/default.aspx?pageid=27160&docid=12234| tựa đề = Nghị định số 107/2003/NĐ-CP ngày 23 tháng 9 năm 2003 của Chính phủ về việc điều chỉnh địa giới hành chính mở rộng thị xã Hà Đông, thành lập phường thuộc thị xã Hà Đông và mở rộng thị trấn Vân Đình huyện Ứng Hòa, tỉnh Hà Tây| tác giả = | họ = | tên = | ngày = | website =Cổng Thông tin điện tử Chính phủ | url lưu trữ =https://web.archive.org/web/20260809201510/https://chinhphu.vn/default.aspx?pageid=27160&docid=12234 | ngày lưu trữ =2026-08-09 | ngày truy cập =2026-08-09 |url-status=dead}}</ref> 
+
+Ngày 4 tháng 1 năm 2006, chuyển toàn bộ xã Đồng Mai thuộc huyện [[Thanh Oai (huyện)|Thanh Oai]] về thị xã [[Hà Đông (quận)|Hà Đông]] quản lý.<ref>Nghị định số 1/2006/NĐ-CP ngày 4 tháng 1 năm 2006 của Chính phủ về việc điều chỉnh địa giới hành chính, mở rộng thị xã Hà Đông, tỉnh Hà Tây.</ref>
+
+Ngày 27 tháng 12 năm 2006, thành lập thành phố [[Hà Đông (quận)|Hà Đông]] trên cơ sở toàn bộ diện tích tự nhiên, dân số và các đơn vị hành chính trực thuộc của thị xã [[Hà Đông (quận)|Hà Đông]]. Khi đó, 2 xã: Đồng Mai và Yên Nghĩa thuộc thành phố [[Hà Đông (quận)|Hà Đông]].<ref name="ND155">{{Chú thích web |tựa đề=Nghị định số 155/2006/NĐ-CP ngày 27 tháng 12 năm 2006 của Chính phủ về việc thành lập thành phố Hà Đông thuộc tỉnh Hà Tây |url=https://chinhphu.vn/default.aspx?pageid=27160&docid=18995 |url-status=dead |archive-url=https://web.archive.org/web/20260804201510/https://chinhphu.vn/default.aspx?pageid=27160&docid=18995 |archive-date=2026-08-04 |access-date=2026-08-04 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+
+Ngày 29 tháng 5 năm 2008, hợp nhất tỉnh [[Hà Tây (tỉnh)|Hà Tây]] vào thành phố [[Hà Nội]]. Khi đó, 2 xã: Đồng Mai và Yên Nghĩa thuộc thành phố [[Hà Đông (quận)|Hà Đông]] của thành phố [[Hà Nội]].<ref>Nghị quyết số 15/2008/QH12 ngày 29 tháng 5 năm 2008 của Quốc hội khóa XII, Kỳ họp thứ 3 về việc điều chỉnh địa giới hành chính thành phố Hà Nội và một số tỉnh có liên quan.</ref>
+
+Ngày 8 tháng 5 năm 2009:
+
+* Thành lập quận [[Hà Đông (quận)|Hà Đông]] trên cơ sở thành phố [[Hà Đông (quận)|Hà Đông]].
+* Thành lập 2 phường: Đồng Mai và Yên Nghĩa trên cơ sở 2 xã có tên tương ứng.<ref name="19/NQ-CP">{{Chú thích web| url = https://chinhphu.vn/default.aspx?pageid=27160&docid=86463| tựa đề = Nghị quyết số 19/NQ-CP ngày 8 tháng 5 năm 2009 của Chính phủ về việc xác lập địa giới hành chính xã Đông Xuân thuộc huyện Quốc Oai; các xã Tiến Xuân, Yên Bình, Yên Trung thuộc huyện Thạch Thất; huyện Mê Linh thuộc thành phố Hà Nội; thành lập quận Hà Đông và các phường trực thuộc; chuyển thành phố Sơn Tây thành thị xã Sơn Tây thuộc thành phố Hà Nội| tác giả = | họ = | tên = | ngày = | website =Cổng Thông tin điện tử Chính phủ | url lưu trữ =https://web.archive.org/web/20260809201510/https://chinhphu.vn/default.aspx?pageid=27160&docid=86463 | ngày lưu trữ =2026-08-09 | ngày truy cập =2026-08-09 |url-status=dead}}</ref>
+
+Ngày 16 tháng 6 năm 2025:
+
+* Kết thúc hoạt động của đơn vị hành chính cấp huyện trong cả nước.<ref>{{Chú thích web |last= |date= |title=Nghị quyết số 203/2025/QH15 ngày 16 tháng 6 năm 2025 của Quốc hội khóa XV, Kỳ họp thứ 9 về việc sửa đổi, bổ sung một số điều của Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/nq-sua-doi-hien-phap.pdf |url-status=live |archive-url=https://web.archive.org/web/20260613090807/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/nq-sua-doi-hien-phap.pdf |archive-date=2026-06-13 |access-date=2026-06-13 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+* Sắp xếp một phần diện tích tự nhiên, quy mô dân số của phường Đồng Mai và phần còn lại của phường Yên Nghĩa (quận [[Hà Đông (quận)|Hà Đông]]) thành phường mới có tên gọi là phường Yên Nghĩa.<ref>{{Chú thích web |title=Nghị quyết số 1656/NQ-UBTVQH15 ngày 16 tháng 6 năm 2025 của Ủy ban Thường vụ Quốc hội về việc sắp xếp các đơn vị hành chính cấp xã của thành phố Hà Nội năm 2025 |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf |url-status=live |archive-url=https://web.archive.org/web/20260630400809/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf |archive-date=2026-06-30 |access-date=2026-06-30 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+* Sau khi sắp xếp, phường Yên Nghĩa được chia thành 38 tổ dân phố.<ref>17 tổ dân phố: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16 và 17 của phường Đồng Mai cũ; 21 tổ dân phố: 1, 2, 3, 4, 5, 6, 7, 8, 10, 11, 12, 13, 14, 15, 16, 17, 18, 20, 21 và 22 của phường Yên Nghĩa cũ.</ref><ref>{{Chú thích web |title=Thông tư số 10/2022/TT-BTNMT ngày 29 tháng 9 năm 2022 của Bộ Tài nguyên và Môi trường về việc Ban hành Danh mục địa danh dân cư, sơn văn, thủy văn, kinh tế – xã hội phục vụ công tác thành lập bản đồ thành phố Hà Nội |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2022/10/10-btnmt.pdf |url-status=live |archive-url=https://web.archive.org/web/20260630400809/https://datafiles.chinhphu.vn/cpp/files/vbpq/2022/10/10-btnmt.pdf |archive-date=2026-06-30 |access-date=2026-06-30 |website=Cổng Thông tin điện tử Chính phủ}}</ref><ref>{{Chú thích web |last= |date= |title=Quyết định số 58/QĐ-UBND ngày 24 tháng 1 năm 2026 của Ủy ban nhân dân phường Yên Nghĩa về việc thành lập khu vực bỏ phiếu bầu cử đại biểu Quốc hội khóa XVI và đại biểu Hội đồng nhân dân các cấp nhiệm kỳ 2026 – 2031 trên địa bàn phường Yên Nghĩa |url=https://yennghia.hanoi.gov.vn/chi-dao-dieu-hanh/quyet-dinhthanh-lap-khu-vuc-bo-phieu-bau-cu-dai-bieu-quoc-hoi-khoa-xvi-va-dai-bieu-hoi-dong-nhan-dan-cac-cap-nhiem-ky-2026-2031-tren-dia-ban-phuong-yen-nghia-2782260128094536538.htm |url-status=dead |archive-url=https://web.archive.org/web/20260808201510/https://yennghia.hanoi.gov.vn/chi-dao-dieu-hanh/quyet-dinhthanh-lap-khu-vuc-bo-phieu-bau-cu-dai-bieu-quoc-hoi-khoa-xvi-va-dai-bieu-hoi-dong-nhan-dan-cac-cap-nhiem-ky-2026-2031-tren-dia-ban-phuong-yen-nghia-2782260128094536538.htm |archive-date=2026-08-08 |access-date=2026-08-08 |website=Trang Thông tin điện tử phường Yên Nghĩa – thành phố Hà Nội}}</ref>
+Ngày 26 tháng 8 năm 2025, đổi tên 20 tổ dân phố, đánh số từ 20 đến 22 (phường Yên Nghĩa cũ) và từ 1 đến 17 (phường Đồng Mai cũ) lần lượt thành 20 tổ dân phố, đánh số từ 19 đến 38.<ref>1. Tổ dân phố 1 phường Yên Nghĩa: Giữ nguyên; 2. Tổ dân phố 2 phường Yên Nghĩa: Giữ nguyên; 3. Tổ dân phố 3 phường Yên Nghĩa: Giữ nguyên; 4. Tổ dân phố 4 phường Yên Nghĩa: Giữ nguyên; 5. Tổ dân phố 5 phường Yên Nghĩa: Giữ nguyên; 6. Tổ dân phố 6 phường Yên Nghĩa: Giữ nguyên; 7. Tổ dân phố 7 phường Yên Nghĩa: Giữ nguyên; 8. Tổ dân phố 8 phường Yên Nghĩa: Giữ nguyên; 9. Tổ dân phố 9 phường Yên Nghĩa: Giữ nguyên; 10. Tổ dân phố 10 phường Yên Nghĩa: Giữ nguyên; 11. Tổ dân phố 11 phường Yên Nghĩa: Giữ nguyên; 12. Tổ dân phố 12 phường Yên Nghĩa: Giữ nguyên; 13. Tổ dân phố 13 phường Yên Nghĩa: Giữ nguyên; 14. Tổ dân phố 14 phường Yên Nghĩa: Giữ nguyên; 15. Tổ dân phố 15 phường Yên Nghĩa: Giữ nguyên; 16. Tổ dân phố 16 phường Yên Nghĩa: Giữ nguyên; 17. Tổ dân phố 17 phường Yên Nghĩa: Giữ nguyên; 18. Tổ dân phố 18 phường Yên Nghĩa: Giữ nguyên; 19. Đổi tên tổ dân phố 20 phường Yên Nghĩa thành tổ dân phố 19; 20. Đổi tên tổ dân phố 21 phường Yên Nghĩa thành tổ dân phố 20; 21. Đổi tên tổ dân phố 22 phường Yên Nghĩa thành tổ dân phố 21; 22. Đổi tên tổ dân phố 1 phường Đồng Mai thành tổ dân phố 22; 23. Đổi tên tổ dân phố 2 phường Đồng Mai thành tổ dân phố 23; 24. Đổi tên tổ dân phố 3 phường Đồng Mai thành tổ dân phố 24; 25. Đổi tên tổ dân phố 4 phường Đồng Mai thành tổ dân phố 25; 26. Đổi tên tổ dân phố 5 phường Đồng Mai thành tổ dân phố 26; 27. Đổi tên tổ dân phố 6 phường Đồng Mai thành tổ dân phố 27; 28. Đổi tên tổ dân phố 7 phường Đồng Mai thành tổ dân phố 28; 29. Đổi tên tổ dân phố 8 phường Đồng Mai thành tổ dân phố 29; 30. Đổi tên tổ dân phố 9 phường Đồng Mai thành tổ dân phố 30; 31. Đổi tên tổ dân phố 10 phường Đồng Mai thành tổ dân phố 31; 32. Đổi tên tổ dân phố 11 phường Đồng Mai thành tổ dân phố 32; 33. Đổi tên tổ dân phố 12 phường Đồng Mai thành tổ dân phố 33; 34. Đổi tên tổ dân phố 13 phường Đồng Mai thành tổ dân phố 34; 35. Đổi tên tổ dân phố 14 phường Đồng Mai thành tổ dân phố 35; 36. Đổi tên tổ dân phố 15 phường Đồng Mai thành tổ dân phố 36; 37. Đổi tên tổ dân phố 16 phường Đồng Mai thành tổ dân phố 37; 38. Đổi tên tổ dân phố 17 phường Đồng Mai thành tổ dân phố 38.</ref><ref>{{Chú thích web |last= |date= |title=Nghị quyết số 13/NQ-HĐND ngày 26 tháng 8 năm 2025 của Hội đồng nhân dân xã Yên Nghĩa về việc đổi tên tổ dân phố sau sắp xếp đơn vị hành chính phường Yên Nghĩa |url=https://yennghia.hanoi.gov.vn/chi-dao-dieu-hanh/nghi-quyet-cua-hdnd-phuong-ve-viec-doi-ten-tdp-sau-sap-xep-don-vi-hanh-chinh-phuong-yen-nghia-2782250828153506825.htm |url-status=dead |archive-url=https://web.archive.org/web/20260808201510/https://yennghia.hanoi.gov.vn/chi-dao-dieu-hanh/nghi-quyet-cua-hdnd-phuong-ve-viec-doi-ten-tdp-sau-sap-xep-don-vi-hanh-chinh-phuong-yen-nghia-2782250828153506825.htm |archive-date=2026-08-08 |access-date=2026-08-08 |website=Trang Thông tin điện tử phường Yên Nghĩa – thành phố Hà Nội}}</ref>
+
+Ngày 24 tháng 12 năm 2025, xác định phường Yên Nghĩa là [[Đô thị Việt Nam|đô thị loại II]].<ref>Chuyển tiếp từ 2 phường: Đồng Mai và Yên Nghĩa thuộc quận Hà Đông.</ref><ref>{{Chú thích web |title=Nghị quyết số 111/2025/UBTVQH15 ngày 24 tháng 12 năm 2025 của Ủy ban Thường vụ Quốc hội về phân loại đô thị |url=https://cdn.nhandan.vn/files/f4a4abf7f9a0ba4a91744616546d850872b76917f90d5a74cc9eebef1369fb6f/111.pdf |url-status=dead |archive-url=https://web.archive.org/web/20260712401509/https://cdn.nhandan.vn/files/f4a4abf7f9a0ba4a91744616546d850872b76917f90d5a74cc9eebef1369fb6f/111.pdf |archive-date=2026-07-12 |access-date=2026-07-12 |website=Báo Nhân dân}}</ref>
+
+Ngày 26 tháng 6 năm 2026, thành lập 12 tổ dân phố mới: Quốc An, Trung Hưng, Quyết Thắng, Yên Phúc, An Định, Do Lộ, Hòa Bình, Nhân Huệ, Cổ Bản, Nhân Sơn, Đồng Dương và Đồng Hoàng; đổi tên 3 tổ dân phố: 19, 18 và 14 lần lượt thành 3 tổ dân phố: Yên Bình, Yên Hòa và An Lạc.<ref name=":1">1. Tổ dân phố Quốc An: Thành lập trên cơ sở sáp nhập toàn bộ tổ dân phố 12, toàn bộ tổ dân phố 13 và một phần tổ dân phố 20 gồm Đất dịch vụ khu D và Khu biệt thự thuộc Khu đô thị Đô Nghĩa; 2. Tổ dân phố Trung Hưng: Thành lập trên cơ sở sáp nhập toàn bộ tổ dân phố 10, toàn bộ tổ dân phố 11 và một phần tổ dân phố 20 thuộc Khu liền kề của Khu đô thị Đô Nghĩa; 3. Tổ dân phố Yên Bình: Thành lập trên cơ sở giữ nguyên toàn bộ Tổ dân phố 19; 4. Tổ dân phố Yên Hòa: Thành lập trên cơ sở giữ nguyên toàn bộ Tổ dân phố 18; 5. Tổ dân phố Quyết Thắng: Thành lập trên cơ sở sáp nhập toàn bộ tổ dân phố 7, toàn bộ tổ dân phố 8 và toàn bộ tổ dân phố 9; 6. Tổ dân phố Yên Phúc: Thành lập trên cơ sở sáp nhập toàn bộ tổ dân phố 17, toàn bộ tổ dân phố 21 và Tòa chung cư CT4; 7. Tổ dân phố An Định: Thành lập trên cơ sở sáp nhập toàn bộ tổ dân phố 5 và toàn bộ tổ dân phố 6; 8. Tổ dân phố Do Lộ: Thành lập trên cơ sở sáp nhập toàn bộ tổ dân phố 1, toàn bộ tổ dân phố 2, toàn bộ tổ dân phố 3 và toàn bộ tổ dân phố 4; 9. Tổ dân phố Hòa Bình: Thành lập trên cơ sở sáp nhập toàn bộ tổ dân phố 15 và toàn bộ tổ dân phố 16; 10. Tổ dân phố An Lạc: Thành lập trên cơ sở giữ nguyên toàn bộ Tổ dân phố 14; 11. Tổ dân phố Nhân Huệ: Thành lập trên cơ sở sáp nhập toàn bộ tổ dân phố 24, toàn bộ tổ dân phố 25 và toàn bộ tổ dân phố 26; 12. Tổ dân phố Cổ Bản: Thành lập trên cơ sở sáp nhập toàn bộ tổ dân phố 22, toàn bộ tổ dân phố 23 và Khu đất dịch vụ Đồng Mai I; 13. Tổ dân phố Nhân Sơn: Thành lập trên cơ sở sáp nhập toàn bộ tổ dân phố 27, toàn bộ tổ dân phố 28, toàn bộ tổ dân phố 29, toàn bộ tổ dân phố 30 và Khu đất dịch vụ Đồng Mai 2; 14. Tổ dân phố Đồng Dương: Thành lập trên cơ sở sáp nhập toàn bộ tổ dân phố 31, toàn bộ tổ dân phố 32, toàn bộ tổ dân phố 33, toàn bộ tổ dân phố 34, toàn bộ tổ dân phố 35 và Khu đất dịch vụ Đồng Mai 3; 15. Tổ dân phố Đồng Hoàng: Thành lập trên cơ sở sáp nhập toàn bộ tổ dân phố 36, toàn bộ tổ dân phố 37, toàn bộ tổ dân phố 38 và Khu đất dịch vụ Đồng Mai 4.</ref><ref name=":2">{{Chú thích web |last= |date= |title=Đề án năm 2026 của Ủy ban nhân dân phường Yên Nghĩa về việc sắp xếp, tổ chức lại tổ dân phố trên địa bàn phường Yên Nghĩa, thành phố Hà Nội năm 2026 |url=https://sqhx-hanoi.mediacdn.vn/91579363132710912/2026/6/13/du-thao-de-an-sap-xep-tdp-1-17813617792671702006110.pdf |url-status=dead |archive-url=https://web.archive.org/web/20260808201510/https://sqhx-hanoi.mediacdn.vn/91579363132710912/2026/6/13/du-thao-de-an-sap-xep-tdp-1-17813617792671702006110.pdf |archive-date=2026-08-08 |access-date=2026-08-08 |website=Trang Thông tin điện tử phường Yên Nghĩa – thành phố Hà Nội}}</ref><ref name=":0">{{Chú thích web |last=Phương Thanh |date=2026-07-02 |title=15 tổ dân phố mới – Nền tảng vững chắc cho sự phát triển của phường Yên Nghĩa |url=https://yennghia.hanoi.gov.vn/tin-tuc-su-kien-66276/15-to-dan-pho-moi-nen-tang-vung-chac-cho-su-phat-trien-cua-phuong-yen-nghia-2782260702162728254.htm |url-status=dead |archive-url=https://web.archive.org/web/20260808201510/https://yennghia.hanoi.gov.vn/tin-tuc-su-kien-66276/15-to-dan-pho-moi-nen-tang-vung-chac-cho-su-phat-trien-cua-phuong-yen-nghia-2782260702162728254.htm |archive-date=2026-08-08 |access-date=2026-08-08 |website=Trang Thông tin điện tử phường Yên Nghĩa – thành phố Hà Nội}}</ref>
+[[Tập tin:Bản đồ các tổ dân phố thuộc phường Yên Nghĩa của thành phố Hà Nội (từ ngày 1 tháng 7 năm 2026).jpg|trái|nhỏ|331x331px|Ranh giới tổ dân phố mới thuộc phường Yên Nghĩa của thành phố Hà Nội (từ ngày 1 tháng 7 năm 2026)<ref name=":0" />]]<!--== Lịch sử== 
+Trước đây, Đồng Mai là một xã thuộc huyện Thanh Oai.
+
+Ngày [[4 tháng 1]] năm [[2006]], Chính phủ ban hành Nghị định 01/2006/NĐ-CP<ref>{{Chú thích web| url = https://thuvienphapluat.vn/van-ban/Bat-dong-san/Nghi-dinh-01-2006-ND-CP-dieu-chinh-dia-gioi-hanh-chinh-mo-rong-thi-xa-Ha-Dong-tinh-Ha-Tay-8246.aspx| tựa đề = Nghị định 01/2006/NĐ-CP về việc điều chỉnh địa giới hành chính, mở rộng thị xã Hà Đông, tỉnh Hà Tây| tác giả = | họ = | tên = | ngày = | website = | url lưu trữ = | ngày lưu trữ = | ngày truy cập = }}</ref>. Theo đó, chuyển toàn bộ diện tích và dân số của xã Đồng Mai về thị xã Hà Đông quản lý.
+
+Ngày [[27 tháng 12]] năm [[2006]], xã Đồng Mai thuộc thành phố Hà Đông mới thành lập.
+
+Ngày [[8 tháng 5]] năm [[2009]], Chính phủ ban hành Nghị quyết 19/NQ-CP<ref name = "19/NQ-CP">{{Chú thích web| url = https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Nghi-quyet-19-NQ-CP-xac-lap-dia-gioi-hanh-chinh-88093.aspx| tựa đề = Nghị quyết số 19/NQ-CP về việc xác lập địa giới hành chính xã Đông Xuân thuộc huyện Quốc Oai; các xã: Tiến Xuân, Yên Bình, Yên Trung thuộc huyện Thạch Thất; huyện Mê Linh thuộc thành phố Hà Nội; thành lập quận Hà Đông và các phường trực thuộc; chuyển thành phố Sơn Tây thành thị xã Sơn Tây thuộc thành Hà Nội| tác giả = | họ = | tên = | ngày = | website = | url lưu trữ = | ngày lưu trữ = | ngày truy cập = }}</ref>. Theo đó, thành lập quận Hà Đông trên cơ sở toàn bộ diện tích, dân số của quận Hà Đông và thành lập phường Đồng Mai thuộc quận Hà Đông trên cơ sở toàn bộ diện tích, dân số của xã Đồng Mai.
+
+Sau khi thành lập, phường Đồng Mai có 634,19 ha diện tích tự nhiên, dân số là 13.639 người.
+ -->
+
+== Hành chính==
+Phường Yên Nghĩa được chia thành 15 tổ dân phố: An Định, An Lạc, Cổ Bản, Do Lộ, Đồng Dương, Đồng Hoàng, Hòa Bình, Nhân Huệ, Nhân Sơn, Quốc An, Quyết Thắng, Trung Hưng, Yên Bình, Yên Hòa và Yên Phúc.<ref name=":2" /><ref name=":0" />
+{| class="wikitable sortable" cellpadding="0" cellspacing="6" width="100%" align="center" style="background: #f9f9f9; border: 1px #aaa solid; margin-top: 16px"
+! colspan="4" style="background: #E6E6FA; font-size: 95%;" |Danh sách các tổ dân phố thuộc phường Yên Nghĩa<ref name=":2" /><ref name=":0" />
+|-
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| cellpadding="1" cellspacing="1" width="100%" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |An Định
+|1.111
+|-
+| align="left" |An Lạc
+|768
+|-
+| align="left" |Cổ Bản
+|1.174
+|-
+| align="left" |Do Lộ
+|1.648
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| cellpadding="1" cellspacing="1" width="100%" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Đồng Dương
+|1.020
+|-
+| align="left" |Đồng Hoàng
+|710
+|-
+| align="left" |Hòa Bình
+|1.170
+|-
+| align="left" |Nhân Huệ
+|1.000
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| cellpadding="1" cellspacing="1" width="100%" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Nhân Sơn
+|1.266
+|-
+| align="left" |Quốc An
+|1.330
+|-
+| align="left" |Quyết Thắng
+|1.209
+|-
+| align="left" |Trung Hưng
+|1.213
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| cellpadding="1" cellspacing="1" width="100%" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Yên Bình
+|1.624
+|-
+| align="left" |Yên Hòa
+|1.319
+|-
+| align="left" |Yên Phúc
+|1.804
+|}
+|}
+
+==Cơ sở hạ tầng==
+=== Khu đô thị ===
+
+* Khu đô thị Đô Nghĩa
+
+=== Đường sắt trên cao=== 
+Phường Yên Nghĩa là điểm cuối của tuyến đường sắt trên cao Cát Linh - Hà Đông.
+
+=== Hệ thống xe buýt=== 
+Bến xe Yên Nghĩa có vị trí tại QL6, phường Yên Nghĩa chuyên trách cho các tuyến xe đi các tỉnh phía Bắc.
+
+==Danh nhân==
+* [[Nguyễn Thị Oanh (sinh 1996)|Nguyễn Thị Oanh]] (sinh năm 1996) là một huấn luyện viên và cựu [[vận động viên]] [[điền kinh]] người Việt Nam.
+
+== Chú thích== 
+{{tham khảo}}
+
+== Tham khảo==
+{{sơ khai Hà Nội}}
+{{Đơn vị hành chính thuộc thành phố Hà Nội}}

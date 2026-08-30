@@ -1,0 +1,84 @@
+{
+  "ward_code": "04792",
+  "ward_name": "Tân Hoà",
+  "province_code": "25",
+  "resolution": "",
+  "arrangement": "2026_07",
+  "effective_date": "2026-07-01",
+  "verified": "unverified",
+  "extraction": {
+    "source": "vi.wikipedia.org",
+    "title": "Tân Hòa, Phú Thọ",
+    "mode": "numbered"
+  },
+  "sources": [
+    {
+      "key": "wiki-04792-1",
+      "title": "Nghị quyết số 830/NQ-UBTVQH14 về việc sắp xếp các đơn vị hành chính cấp huyện, cấp xã thuộc tỉnh Hòa Bình.",
+      "url": "https://congbao.chinhphu.vn/van-ban/nghi-quyet-so-830-nq-ubtvqh14-30318.htm",
+      "date": "2026-08-29",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-04792-2",
+      "title": "TOÀN VĂN: Nghị quyết số 202/2025/QH15 về sắp xếp đơn vị hành chính cấp tỉnh",
+      "url": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-202-2025-qh15-ve-sap-xep-don-vi-hanh-chinh-cap-tinh-119250612174148722.htm",
+      "date": "2025-07-16",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-04792-3",
+      "title": "NGHỊ QUYẾT 203/2025/QH15 SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA HIẾN PHÁP NƯỚC CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM",
+      "url": "https://xaydungchinhsach.chinhphu.vn/nghi-quyet-203-2025-qh15-sua-doi-bo-sung-mot-so-dieu-cua-hien-phap-nuoc-cong-hoa-xa-hoi-chu-nghia-viet-nam-119250616181735552.htm",
+      "date": "2025-06-28",
+      "type": "wikipedia-ref"
+    }
+  ],
+  "note": "Trích tự động từ Wikipedia tiếng Việt (mode=numbered). Cần đối chiếu nghị quyết HĐND phường/xã.",
+  "tdp": [
+    {
+      "name": "Tổ dân phố 1",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Tổ dân phố 2",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Tổ dân phố 3",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Tổ dân phố 4",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Tổ dân phố 5",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Tổ dân phố 6",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Tổ dân phố 7",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Tổ dân phố 8",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Tổ dân phố 9",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Tổ dân phố 10",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Tổ dân phố 11",
+      "type": "tổ dân phố"
+    }
+  ]
+}

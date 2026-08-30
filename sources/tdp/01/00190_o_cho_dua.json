@@ -1,0 +1,132 @@
+{
+  "ward_code": "00190",
+  "ward_name": "Ô Chợ Dừa",
+  "province_code": "01",
+  "resolution": "",
+  "arrangement": "2026_07",
+  "effective_date": "2026-07-01",
+  "verified": "unverified",
+  "extraction": {
+    "source": "vi.wikipedia.org",
+    "title": "(cache)",
+    "mode": "table"
+  },
+  "sources": [
+    {
+      "key": "wiki-00190-1",
+      "title": "Kỳ họp thứ hai Hội đồng nhân dân Phường Ô Chợ Dừa: Quyết sách nhiều vấn đề lớn cho giai đoạn 2026 – 2030",
+      "url": "https://ochodua.hanoi.gov.vn/hoat-dong-cua-hoi-dong-nhan-dan/ky-hop-thu-hai-hdnd-phuong-o-cho-dua-quyet-sach-nhieu-van-de-lon-cho-giai-doan-2026-2030-2832260625133501091.htm",
+      "date": "2026-06-25",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-00190-2",
+      "title": "Danh sách chính thức những người ứng cử đại biểu Hội đồng nhân dân Phường Ô Chợ Dừa khóa II, nhiệm kỳ 2026 – 2031",
+      "url": "https://ochodua.hanoi.gov.vn/bau-cu-dai-bieu-quoc-hoi-khoa-xvi-va-dai-bieu-hoi-dong-nhan-dan-cac-cap-nhiem-ky-2026-2031/danh-sach-chinh-thuc-nhung-nguoi-ung-cu-dai-bieu-hdnd-phuong-o-cho-dua-khoa-ii-nhiem-ky-2026-2031-2832260226075535494.htm",
+      "date": "2026-02-25",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-00190-3",
+      "title": "Phương án tháng 5 năm 2026 của Ủy ban nhân dân phường Ô Chợ Dừa về việc sắp xếp tổ dân phố trên địa bàn phường Ô Chợ Dừa",
+      "url": "https://ochodua.hanoi.gov.vn/du-an-de-an/phuong-o-cho-dua-lay-y-kien-nhan-dan-du-thao-phuong-an-sap-xep-to-dan-pho-283226061817070944.htm",
+      "date": "",
+      "type": "wikipedia-ref"
+    }
+  ],
+  "note": "Trích tự động từ Wikipedia tiếng Việt (mode=table). Cần đối chiếu nghị quyết HĐND phường/xã.",
+  "tdp": [
+    {
+      "name": "Tổ dân phố 1",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Tổ dân phố 2",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Tổ dân phố 3",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Tổ dân phố 4",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Tổ dân phố 5",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Tổ dân phố 6",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Tổ dân phố 7",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Tổ dân phố 8",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Tổ dân phố 9",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Tổ dân phố 10",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Tổ dân phố 11",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Tổ dân phố 12",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Tổ dân phố 13",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Tổ dân phố 14",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Tổ dân phố 15",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Tổ dân phố 16",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Tổ dân phố 17",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Tổ dân phố 18",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Tổ dân phố 19",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Tổ dân phố 20",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Tổ dân phố 21",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Tổ dân phố 22",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Tổ dân phố 23",
+      "type": "tổ dân phố"
+    }
+  ]
+}

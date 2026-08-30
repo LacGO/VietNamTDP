@@ -1,0 +1,24 @@
+[
+  {
+    "province_code": "01",
+    "name": "Hà Nội",
+    "full_name": "Thành phố Hà Nội",
+    "name_en": "Hanoi",
+    "full_name_en": "Hanoi City",
+    "code_name": "ha_noi",
+    "unit_type": "Thành phố trực thuộc trung ương",
+    "postal_prefix": "10, 11, 12, 13, 14",
+    "ward_count": 126
+  },
+  {
+    "province_code": "25",
+    "name": "Phú Thọ",
+    "full_name": "Tỉnh Phú Thọ",
+    "name_en": "Phu Tho",
+    "full_name_en": "Phu Tho Province",
+    "code_name": "phu_tho",
+    "unit_type": "Tỉnh",
+    "postal_prefix": "15, 35, 36",
+    "ward_count": 148
+  }
+]

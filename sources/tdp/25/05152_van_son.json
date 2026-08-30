@@ -1,0 +1,144 @@
+{
+  "ward_code": "05152",
+  "ward_name": "Vân Sơn",
+  "province_code": "25",
+  "resolution": "",
+  "arrangement": "truoc_2026_07",
+  "effective_date": "",
+  "verified": "unverified",
+  "extraction": {
+    "source": "vi.wikipedia.org",
+    "title": "Vân Sơn, Phú Thọ",
+    "mode": "narrative"
+  },
+  "sources": [
+    {
+      "key": "wiki-05152-1",
+      "title": "Nghị quyết số 1/NQ-UBBC về việc công bố danh sách chính thức những người ứng cử đại biểu Hội đồng nhân dân xã Vân Sơn khóa III, nhiệm kỳ 2026 - 2031 theo từng đơn vị bầu cử",
+      "url": "https://vanson.phutho.gov.vn/images/3._Ngh%E1%BB%8B_quy%E1%BA%BFt_c%C3%B4ng_b%E1%BB%91_DS_ch%C3%ADnh_th%E1%BB%A9c_nh%E1%BB%AFng_ng%C6%B0%E1%BB%9Di_%E1%BB%A9ng_c%E1%BB%AD_%C4%90BH%C4%90ND_x%C3%A3_V%C3%A2n_S%C6%A1n_nhi%E1%BB%87m_k%E1%BB%B3_2026.2031.pdf",
+      "date": "2026-02-25",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-05152-2",
+      "title": "Danh sách Thôn vùng đồng bào dân tộc thiểu số và miền núi, thôn đặc biệt khó khăn giai đoạn 2026 - 2030 trên địa bàn tỉnh Phú Thọ",
+      "url": "http://files.ubdt.gov.vn/files/ecm/source_files/2026/02/05/11252411_4.%20Ph%C3%BA%20Th%E1%BB%8D%201%20(th%C3%B4n).signed_26-02-05.pdf",
+      "date": "2026-01-29",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-05152-3",
+      "title": "",
+      "url": "https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/Nghi-quyet-830-NQ-UBTVQH14-2019-sap-xep-don-vi-hanh-chinh-cap-huyen-xa-thuoc-tinh-Hoa-Binh-432100.aspx",
+      "date": "",
+      "type": "wikipedia-ref"
+    }
+  ],
+  "note": "Trích tự động từ Wikipedia tiếng Việt (mode=narrative). Cần đối chiếu nghị quyết HĐND phường/xã. ⚠️ Danh mục có thể là hiện trạng TRƯỚC sắp xếp thôn/TDP 01/7/2026 — Wikipedia chưa cập nhật nghị quyết mới.",
+  "tdp": [
+    {
+      "name": "Bách",
+      "type": "xóm"
+    },
+    {
+      "name": "Bắc Thung",
+      "type": "xóm"
+    },
+    {
+      "name": "Biệng",
+      "type": "xóm"
+    },
+    {
+      "name": "Bo Trẳm",
+      "type": "xóm"
+    },
+    {
+      "name": "Bò",
+      "type": "xóm"
+    },
+    {
+      "name": "Bục",
+      "type": "xóm"
+    },
+    {
+      "name": "Bương Bái",
+      "type": "xóm"
+    },
+    {
+      "name": "Cá",
+      "type": "xóm"
+    },
+    {
+      "name": "Chiến",
+      "type": "xóm"
+    },
+    {
+      "name": "Chiềng",
+      "type": "xóm"
+    },
+    {
+      "name": "Dồ",
+      "type": "xóm"
+    },
+    {
+      "name": "Hày Dưới",
+      "type": "xóm"
+    },
+    {
+      "name": "Hày Trên",
+      "type": "xóm"
+    },
+    {
+      "name": "Hò",
+      "type": "xóm"
+    },
+    {
+      "name": "Hưng",
+      "type": "xóm"
+    },
+    {
+      "name": "Hượp",
+      "type": "xóm"
+    },
+    {
+      "name": "Khao",
+      "type": "xóm"
+    },
+    {
+      "name": "Lở",
+      "type": "xóm"
+    },
+    {
+      "name": "Luông Cá",
+      "type": "xóm"
+    },
+    {
+      "name": "Luông Dưới",
+      "type": "xóm"
+    },
+    {
+      "name": "Lự",
+      "type": "xóm"
+    },
+    {
+      "name": "Mý",
+      "type": "xóm"
+    },
+    {
+      "name": "Nghẹ",
+      "type": "xóm"
+    },
+    {
+      "name": "Tớn Trong",
+      "type": "xóm"
+    },
+    {
+      "name": "Trẳm",
+      "type": "xóm"
+    },
+    {
+      "name": "Xôm",
+      "type": "xóm"
+    }
+  ]
+}

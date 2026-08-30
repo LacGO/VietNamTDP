@@ -1,0 +1,138 @@
+{{Thông tin đơn vị hành chính Việt Nam|Xã
+| tên = Phúc Lộc
+| hình = 
+| ghi chú hình = 
+| diện tích = 41,15 km²
+| dân số = 61.457 người
+| thời điểm dân số = 2025
+| mật độ dân số = {{formatnum:{{#expr:floor({{formatnum:61.457| R}}/{{formatnum:41,15| R}})}} }} người/km²
+| vùng = [[Đồng bằng sông Hồng]]
+| thành phố = [[Hà Nội]]
+| thành lập = 
+| mã hành chính =09739<ref>{{Chú thích web |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/19ttg.signed.pdf |title=Quyết định số 19/2025/QĐ-TTg ngày 30 tháng 6 năm 2025 của Thủ tướng Chính phủ về việc Ban hành Bảng danh mục và mã số các đơn vị hành chính Việt Nam |access-date=2026-06-15 |archive-date=2026-06-15 |archive-url=https://web.archive.org/web/20260615034519/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/19ttg.signed.pdf |url-status=dead | website = Cổng Thông tin điện tử Chính phủ}}</ref> 
+| web = {{url|phucloc.hanoi.gov.vn}}
+| vĩ độ = 21.13023447188468| kinh độ = 105.54676924224566|bản đồ 1={{maplink|frame=yes|plain=yes|type=shape|frame-width=280|frame-align=center|stroke-width=3}}|trụ sở UBND=Số 99 thôn Võng Ngoại<ref>{{Chú thích web |url=https://storage-vnportal.vnpt.vn/gov-hni/6244/VanBan/2025/6/25/TB-729-2025.pdf |title=Thông báo số 729/TB-UBND ngày 25 tháng 6 năm 2025 của Ủy ban nhân dân thành phố Hà Nội về địa điểm trụ sở làm việc của 126 phường, xã sau sắp xếp thuộc phạm vi quản lý của thành phố Hà Nội|access-date=2026-06-15 |archive-date=2026-06-15 |archive-url=https://web.archive.org/web/20260615034519/https://storage-vnportal.vnpt.vn/gov-hni/6244/VanBan/2025/6/25/TB-729-2025.pdf |url-status=dead | website = Cổng Thông tin điện tử Ủy ban nhân dân thành phố Hà Nội}}</ref>|trụ sở Đảng ủy=Số 99 thôn Võng Ngoại}}
+{{other|Phúc Lộc (định hướng)}}
+'''Phúc Lộc''' là một [[xã]] thuộc thành phố [[Hà Nội]], [[Việt Nam]].
+
+== Địa lý== 
+Xã Phúc Lộc có vị trí địa lý:
+
+* Phía đông giáp xã [[Yên Lãng, Hà Nội|Yên Lãng]] và xã [[Liên Minh, Hà Nội|Liên Minh]]
+* Phía tây giáp phường [[Sơn Tây (phường)|Sơn Tây]]
+* Phía nam giáp xã [[Phúc Thọ (xã)|Phúc Thọ]] và xã [[Hát Môn]]
+* Phía bắc giáp xã [[Vĩnh Phú (xã)|Vĩnh Phú]], xã [[Liên Châu]] và xã [[Nguyệt Đức]] thuộc tỉnh [[Phú Thọ]] với ranh giới tự nhiên là [[sông Hồng]].<ref>{{Chú thích web |last=Viện nghiên cứu Phát triển kinh tế – xã hội Hà Nội |date=2025-07-02 |title=Xã Phúc Lộc: Những thông tin chi tiết sau sắp xếp |url=https://hanoionline.vn/xa-phuc-loc-nhung-thong-tin-chi-tiet-sau-sap-xep-344068.htm |url-status=dead |archive-url=https://web.archive.org/web/20260701400809/https://hanoionline.vn/xa-phuc-loc-nhung-thong-tin-chi-tiet-sau-sap-xep-344068.htm |archive-date=2026-07-01 |access-date=2026-07-01 |website=Cơ quan Báo và Phát thanh Truyền hình Hà Nội}}</ref><ref>{{Chú thích web |last=Cơ quan Báo và Phát thanh Truyền hình Hà Nội |date=2025-07-08 |title=Xã Phúc Lộc: Tất cả thông tin chỉ dẫn bạn cần biết |url=https://hanoionline.vn/xa-phuc-loc-tat-ca-thong-tin-chi-dan-ban-can-biet-345350.htm |url-status=bot: unknown |archive-url=https://web.archive.org/web/20250812155545/https://hanoionline.vn/xa-phuc-loc-tat-ca-thong-tin-chi-dan-ban-can-biet-345350.htm |archive-date=2025-08-12 |access-date=2026-07-11 }}</ref>
+Xã Phúc Lộc có diện tích tự nhiên là 41,15 km<sup>2</sup>, quy mô dân số năm 2025 là 61.457 người và mật độ dân số đạt 1.493 người/km<sup>2</sup>.<ref>{{Chú thích web |last=Mai Hữu |date=2026-04-05 |title=Hà Nội: Chi tiết phương án tổng thể sắp xếp đơn vị hành chính cấp xã |url=https://hanoimoi.vn/ha-noi-chi-tiet-phuong-an-tong-the-sap-xep-don-vi-hanh-chinh-cap-xa-700278.html |url-status=bot: unknown |archive-url=https://web.archive.org/web/20250710163328/https://hanoimoi.vn/ha-noi-chi-tiet-phuong-an-tong-the-sap-xep-don-vi-hanh-chinh-cap-xa-700278.html |archive-date=2025-07-10 |access-date=2026-07-11 |website=Cơ quan Báo và Phát thanh, truyền hình Hà Nội }}</ref><ref>Công văn số 2896/BNV-CQĐP ngày 27 tháng 5 năm 2025 của Bộ Nội vụ về việc cung cấp thông tin danh mục dự kiến đơn vị hành chính cấp xã mới.</ref>
+
+== Lịch sử==
+
+=== Trước năm 1976 ===
+
+=== Giai đoạn 1976 – nay ===
+Sau ngày 2 tháng 7 năm 1976, 8 xã: Cẩm Đình, Phương Độ, Sen Chiểu, Vân Hà, Vân Nam, Vân Phúc, Võng Xuyên và Xuân Phú thuộc huyện [[Phúc Thọ (huyện)|Phúc Thọ]] của tỉnh [[Hà Sơn Bình]].
+
+Ngày 29 tháng 12 năm 1978, sáp nhập huyện [[Phúc Thọ (huyện)|Phúc Thọ]] của tỉnh [[Hà Sơn Bình]] vào thành phố [[Hà Nội]]. Khi đó, 8 xã: Cẩm Đình, Phương Độ, Sen Chiểu, Vân Hà, Vân Nam, Vân Phúc, Võng Xuyên và Xuân Phú thuộc huyện [[Phúc Thọ (huyện)|Phúc Thọ]] của thành phố [[Hà Nội]].<ref>Nghị quyết ngày 29 tháng 12 năm 1978 của Quốc hội khóa VI, Kỳ họp thứ 4 phê chuẩn việc phân vạch lại địa giới thành phố Hà Nội, thành phố Hồ Chí Minh, các tỉnh Hà Sơn Bình, Vĩnh Phú, Cao Lạng, Bắc Thái, Quảng Ninh và Đồng Nai.</ref>
+
+Ngày 12 tháng 8 năm 1991, chia tỉnh [[Hà Sơn Bình]] thành 2 tỉnh, lấy tên là tỉnh [[Hòa Bình (tỉnh)|Hòa Bình]] và tỉnh [[Hà Tây (tỉnh)|Hà Tây]]. Chuyển huyện [[Phúc Thọ (huyện)|Phúc Thọ]] của thành phố [[Hà Nội]] về tỉnh [[Hà Tây (tỉnh)|Hà Tây]]. Khi đó, 8 xã: Cẩm Đình, Phương Độ, Sen Chiểu, Vân Hà, Vân Nam, Vân Phúc, Võng Xuyên và Xuân Phú thuộc huyện [[Phúc Thọ (huyện)|Phúc Thọ]] của tỉnh [[Hà Tây (tỉnh)|Hà Tây]].<ref>Nghị quyết ngày 12 tháng 8 năm 1991 của Quốc hội khóa VIII, Kỳ họp thứ 9 về việc điều chỉnh địa giới hành chính một số tỉnh, thành phố trực thuộc Trung ương.</ref>
+
+Ngày 29 tháng 5 năm 2008, hợp nhất tỉnh [[Hà Tây (tỉnh)|Hà Tây]] vào thành phố [[Hà Nội]]. Khi đó, 8 xã: Cẩm Đình, Phương Độ, Sen Chiểu, Vân Hà, Vân Nam, Vân Phúc, Võng Xuyên và Xuân Phú thuộc huyện [[Phúc Thọ (huyện)|Phúc Thọ]] của thành phố [[Hà Nội]].<ref>Nghị quyết số 15/2008/QH12 ngày 29 tháng 5 năm 2008 của Quốc hội khóa XII, Kỳ họp thứ 3 về việc điều chỉnh địa giới hành chính thành phố Hà Nội và một số tỉnh có liên quan.</ref>
+
+Ngày 11 tháng 2 năm 2020:
+
+* Thành lập xã Xuân Đình trên cơ sở nhập xã Cẩm Đình và xã Xuân Phú.
+* Thành lập xã Sen Phương trên cơ sở nhập xã Phương Độ và xã Sen Chiểu.<ref name="NQ895">{{Chú thích web |tác giả= |họ= |tên= |ngày= |tựa đề=Nghị quyết số 895/NQ-UBTVQH14 ngày 11 tháng 2 năm 2020 của Ủy ban Thường vụ Quốc hội về việc sắp xếp đơn vị hành chính cấp xã thuộc thành phố Hà Nội |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2020/02/895.signed.pdf |url-status=dead |url lưu trữ=https://web.archive.org/web/20260630155040/https://datafiles.chinhphu.vn/cpp/files/vbpq/2020/02/895.signed.pdf |ngày lưu trữ=2026-06-30 |ngày truy cập=2026-07-25 |website=Cổng Thông tin điện tử Chính phủ }}</ref>
+
+Ngày 14 tháng 11 năm 2024, thành lập xã Nam Hà trên cơ sở nhập xã Vân Hà và xã Vân Nam.<ref>{{Chú thích web |tiêu đề=Nghị quyết số 1286/NQ-UBTVQH15 ngày 14 tháng 11 năm 2024 của Ủy ban Thường vụ Quốc hội về việc sắp xếp đơn vị hành chính cấp xã của thành phố Hà Nội giai đoạn 2023 – 2025 |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/11/1286-qh.signed.pdf |url-status=dead |archive-url=https://web.archive.org/web/20260731202233/https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/11/1286-qh.signed.pdf |ngày lưu trữ=2026-07-31 |ngày truy cập=2026-07-25 }}</ref>
+
+Ngày 16 tháng 6 năm 2025:
+
+* Kết thúc hoạt động của đơn vị hành chính cấp huyện trong cả nước.<ref>{{Chú thích web |last= |date= |title=Nghị quyết số 203/2025/QH15 ngày 16 tháng 6 năm 2025 của Quốc hội khóa XV, Kỳ họp thứ 9 về việc sửa đổi, bổ sung một số điều của Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/nq-sua-doi-hien-phap.pdf |url-status=live |archive-url=https://web.archive.org/web/20260613090807/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/nq-sua-doi-hien-phap.pdf |archive-date=2026-06-13 |access-date=2026-06-13 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+* Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của các xã Nam Hà, Sen Phương, Vân Phúc, Võng Xuyên và Xuân Đình (huyện [[Phúc Thọ (huyện)|Phúc Thọ]]) thành xã mới có tên gọi là xã Phúc Lộc.<ref>{{Chú thích web |title=Nghị quyết số 1656/NQ-UBTVQH15 ngày 16 tháng 6 năm 2025 của Ủy ban Thường vụ Quốc hội về việc sắp xếp các đơn vị hành chính cấp xã của thành phố Hà Nội năm 2025 |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf |url-status=bot: unknown |archive-url=https://web.archive.org/web/20260513110024/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf |archive-date=2026-05-13 |access-date=2026-06-30 |website=Cổng Thông tin điện tử Chính phủ }}</ref>
+* Sau khi sắp xếp, xã Phúc Lộc được chia thành 46 thôn.<ref>8 thôn: Bãi Cháy, Bãi Đồn (trước thuộc xã Vân Hà) và từ 1 đến 6 (trước thuộc xã Vân Nam) của xã Nam Hà cũ; 10 thôn, đánh số từ 1 đến 10 của xã Sen Phương cũ; 6 thôn, đánh số từ 1 đến 6 của xã Vân Phúc cũ; 12 thôn: Bắc Võng Ngoại, Bảo Lộc từ 1 đến 5, Lục Xuân, Nam Võng Ngoại, Nghĩa Lộ, Phúc Trạch, Phúc Xuyên và Võng Nội của xã Võng Xuyên cũ; 10 thôn: Ân Phú, Cẩm Đình, Cựu Đình, Cựu Lục, Phú Châu, Vân Đình, Xuân Đoài, Xuân Đông, Xuân Trù và Yên Đình của xã Xuân Đình cũ.</ref><ref>{{Chú thích web |title=Thông tư số 10/2022/TT-BTNMT ngày 29 tháng 9 năm 2022 của Bộ Tài nguyên và Môi trường về việc Ban hành Danh mục địa danh dân cư, sơn văn, thủy văn, kinh tế – xã hội phục vụ công tác thành lập bản đồ thành phố Hà Nội |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2022/10/10-btnmt.pdf |url-status=bot: unknown |archive-url=https://web.archive.org/web/20260630082812/https://datafiles.chinhphu.vn/cpp/files/vbpq/2022/10/10-btnmt.pdf |archive-date=2026-06-30 |access-date=2026-06-30 |website=Cổng Thông tin điện tử Chính phủ }}</ref><ref name=":0">{{Chú thích web |last=Diễn đàn xã Phúc Lộc – thành phố Hà Nội |date=2026-02-26 |title=Danh sách chính thức những người ứng cử đại biểu Hội đồng nhân dân xã Phúc Lộc khóa II nhiệm kỳ 2026 – 2031 tại 09 đơn vị bầu cử |url=https://web.facebook.com/story.php?story_fbid=122159392868928533&id=61577855994766&rdid=vturQLbSK05UKbq3# |url-status=dead |archive-url=https://web.archive.org/web/20260701400809/https://web.facebook.com/story.php?story_fbid=122159392868928533&id=61577855994766&rdid=vturQLbSK05UKbq3# |archive-date=2026-07-01 |access-date=2026-07-01 |website=}}</ref>
+Ngày 15 tháng 7 năm 2025, đổi tên 22 thôn, đánh số từ 1 đến 6 của xã Vân Phúc cũ, từ 1 đến 6 của xã Nam Hà cũ và từ 1 đến 10 của xã Sen Phương cũ lần lượt thành 22 thôn: Vân Phúc từ 1 đến 6, Nam Hà từ 1 đến 6 và Sen Phương từ 1 đến 10.<ref>I. Đối với 6 thôn thuộc địa bàn xã Vân Phúc cũ: 1. Đổi tên từ thôn 1 thành thôn Vân Phúc 1; 2. Đổi tên từ thôn 2 thành thôn Vân Phúc 2; 3. Đổi tên từ thôn 3 thành thôn Vân Phúc 3; 4. Đổi tên từ thôn 4 thành thôn Vân Phúc 4; 5. Đổi tên từ thôn 5 thành thôn Vân Phúc 5; 6. Đổi tên từ thôn 6 thành thôn Vân Phúc 6; II. Đối với 8 thôn thuộc địa bàn xã Nam Hà cũ: 1. Đổi tên từ thôn 1 thành thôn Nam Hà 1; 2. Đổi tên từ thôn 2 thành thôn Nam Hà 2; 3. Đổi tên từ thôn 3 thành thôn Nam Hà 3; 4. Đổi tên từ thôn 4 thành thôn Nam Hà 4; 4. Đổi tên từ thôn 4 thành thôn Nam Hà 4; 5. Đổi tên từ thôn 5 thành thôn Nam Hà 5; 6. Đổi tên từ thôn 6 thành thôn Nam Hà 6; 6. Giữ nguyên tên gọi của 02 thôn: Bãi Đồn và Bãi Cháy; III. Đối với 10 thôn thuộc địa bàn xã Sen Phương cũ: 1. Đổi tên từ thôn 1 thành thôn Sen Phương 1; 2. Đổi tên từ thôn 2 thành thôn Sen Phương 2; 3. Đổi tên từ thôn 3 thành thôn Sen Phương 3; 4. Đổi tên từ thôn 4 thành thôn Sen Phương 4; 5. Đổi tên từ thôn 5 thành thôn Sen Phương 5; 6. Đổi tên từ thôn 6 thành thôn Sen Phương 6; 7. Đổi tên từ thôn 7 thành thôn Sen Phương 7; 8. Đổi tên từ thôn 8 thành thôn Sen Phương 8; 9. Đổi tên từ thôn 9 thành thôn Sen Phương 9; 10. Đổi tên từ thôn 10 thành thôn Sen Phương 10; IV. Giữ nguyên tên gọi của các thôn thuộc 02 xã cũ: Võng Xuyên, Xuân Đình do không đặt tên thôn theo số thứ tự.</ref><ref>{{Chú thích web |title=Nghị quyết số 10/NQ-HĐND ngày 15 tháng 7 năm 2025 của Hội đồng nhân dân xã Phúc Lộc về việc đổi tên thôn trên địa bàn xã Phúc Lộc, thành phố Hà Nội |url=https://sqhx-hanoi.mediacdn.vn/91579363132710912/2025/8/11/nq-10-17549174511781147234658.pdf |url-status=dead |archive-url=https://web.archive.org/web/20260727030319/https://sqhx-hanoi.mediacdn.vn/91579363132710912/2025/8/11/nq-10-17549174511781147234658.pdf |archive-date=2026-07-27 |access-date=2026-07-26 |website=Trang Thông tin điện tử xã Phúc Lộc – thành phố Hà Nội }}</ref>
+
+Ngày 27 tháng 6 năm 2026, thành lập 17 thôn mới: Sen Chiểu 1, 2, Phương Độ, Linh Chiểu, Vân Phúc 1, 2, Vân Nam, Vĩnh Lộc, Vân Hà, Cẩm Đình, Xuân Lục, Xuân Phú, Võng Xuyên, Võng Ngoại, Nghĩa Lục, Bảo Lộc 1 và 2.<ref>1. Sáp nhập nguyên trạng thôn Sen Phương 1 và thôn Sen Phương 2 thành lập thôn Sen Chiểu 1; 2. Sáp nhập nguyên trạng thôn Sen Phương 3 và Sen Phương 4 thành thôn Sen Chiểu 2; 3. Sáp nhập nguyên trạng các thôn Sen Phương 5, Sen Phương 6, Sen Phương 7 thành thôn Phương Độ; 4. Sáp nhập nguyên trạng các thôn Sen Phương 8, Sen Phương 9, Sen Phương 10 thành thôn Linh Chiểu; 5. Sáp nhập nguyên trạng các thôn Vân Phúc 1, Vân Phúc 2, Vân Phúc 3 thành thôn Vân Phúc 1; 6. Sáp nhập nguyên trạng thôn Vân Phúc 4, Vân Phúc 5, Vân Phúc 6 sáp nhập thành thôn Vân Phúc 2; 7. Sáp nhập nguyên trạng các thôn Nam Hà 1, Nam Hà 2, Nam Hà 3 thành thôn Vân Nam; 8 Sáp nhập nguyên trạng các thôn Nam Hà 4, Nam Hà 5, Nam Hà 6 thành thôn Vĩnh Lộc; 9. Sáp nhập nguyên trạng thôn Bãi Đồn và thôn Bãi Cháy sáp nhập thành thôn Vân Hà; 10. Sáp nhập nguyên trạng các thôn Cựu Đình, Cẩm Đình, Vân Đình, Yên Đình thành thôn Cẩm Đình; 11. Sáp nhập nguyên trạng các thôn Xuân Trù, Xuân Đoài, Cựu Lục thành thôn Xuân Lục; 12. Sáp nhập nguyên trạng các thôn Phú Châu, Ân Phú, Xuân Đông thành thôn Xuân Phú; 13. Sáp nhập nguyên trạng thôn Phúc Xuyên, Phúc Trạch, Võng Nội thành thôn Võng Xuyên; 14. Sáp nhập nguyên trạng thôn Nam Võng Ngoại và Bắc Võng Ngoại thành thôn Võng Ngoại; 15. Sáp nhập nguyên trạng thôn Nghĩa Lộ và thôn Lục Xuân thành thôn Nghĩa Lục; 16. Sáp nhập nguyên trạng thôn Bảo Lộc 1 và thôn Bảo Lộc 2 thành thôn Bảo Lộc 1; 17. Sáp nhập nguyên trạng các thôn Bảo Lộc 3, Bảo Lộc 4, Bảo Lộc 5 sáp nhập thành thôn Bảo Lộc 2.</ref><ref name=":1">{{Chú thích web |last=Vân Anh – Quỳnh Hoa |date=2026-06-05 |title=Phúc Lộc đồng hành cùng chủ trương sáp nhập thôn dân cư |url=https://phucloc.hanoi.gov.vn/van-hoa-xa-hoi/phuc-loc-dong-hanh-cung-chu-truong-sap-nhap-thon-dan-cu-2728260605183420604.htm |url-status=dead |archive-url=https://web.archive.org/web/20260726401509/https://phucloc.hanoi.gov.vn/van-hoa-xa-hoi/phuc-loc-dong-hanh-cung-chu-truong-sap-nhap-thon-dan-cu-2728260605183420604.htm |archive-date=2026-07-26 |access-date=2026-07-26 |website=Trang Thông tin điện tử xã Phúc Lộc – thành phố Hà Nội}}</ref><ref name=":2">{{Chú thích web |last=Nguyễn Tuyết |date=2026-06-27 |title=Hội đồng nhân dân xã Phúc Lộc thông qua Nghị quyết sắp xếp 46 thôn thành 17 thôn mới |url=https://thanhuyhanoi.vn/tin-tuc/hanoi-portal/hdnd-xa-phuc-loc-thong-qua-nghi-quyet-sap-xep-46-thon-thanh-17-thon-moi--50047279.html |url-status=dead |archive-url=https://web.archive.org/web/20260726144131/https://thanhuyhanoi.vn/tin-tuc/hanoi-portal/hdnd-xa-phuc-loc-thong-qua-nghi-quyet-sap-xep-46-thon-thanh-17-thon-moi--50047279.html |archive-date=2026-07-26 |access-date=2026-07-26 |website=Trang Thông tin điện tử Đảng bộ thành phố Hà Nội }}</ref><ref name=":3">{{Chú thích web |last=Diễn đàn xã Phúc Lộc – thành phố Hà Nội |date=2026-07-22 |title=Trân trọng giới thiệu 17 thôn trên địa bàn xã Phúc Lộc sau khi thực hiện sắp xếp, sáp nhập thôn |url=https://web.facebook.com/story.php?story_fbid=122181528410928533&id=61577855994766&rdid=xaoBLbnwbgYxFNac# |url-status=dead |archive-url=https://web.archive.org/web/20260726401509/https://web.facebook.com/story.php?story_fbid=122181528410928533&id=61577855994766&rdid=xaoBLbnwbgYxFNac# |archive-date=2026-07-26 |access-date=2026-07-26}}</ref>
+
+== Hành chính==
+Xã Phúc Lộc được chia thành 17 thôn: Bảo Lộc 1, 2, Cẩm Đình, Linh Chiểu, Nghĩa Lục, Phương Độ, Sen Chiểu 1, 2, Vân Hà, Vân Nam, Vân Phúc 1, 2, Vĩnh Lộc, Võng Ngoại, Võng Xuyên, Xuân Lục và Xuân Phú.<ref name=":1" /><ref name=":2" /><ref name=":3" />
+{| class="wikitable sortable" align="center" width="100%" cellspacing="6" cellpadding="0" style="background: #f9f9f9; border: 1px #aaa solid; margin-top: 16px"
+! colspan="4" style="background: #E6E6FA; font-size: 95%;" |Danh sách các thôn thuộc xã Phúc Lộc<ref name=":1" /><ref name=":2" /><ref name=":3" />
+|-
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Bảo Lộc 1
+|833
+|-
+| align="left" |Bảo Lộc 2
+|826
+|-
+| align="left" |Cẩm Đình
+|948
+|-
+| align="left" |Linh Chiểu
+|1.175
+|-
+| align="left" |Nghĩa Lục
+|903
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Phương Độ
+|748
+|-
+| align="left" |Sen Chiểu 1
+|820
+|-
+| align="left" |Sen Chiểu 2
+|802
+|-
+| align="left" |Vân Hà
+|525
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Vân Nam
+|858
+|-
+| align="left" |Vân Phúc 1
+|990
+|-
+| align="left" |Vân Phúc 2
+|940
+|-
+| align="left" |Vĩnh Lộc
+|978
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Võng Ngoại
+|991
+|-
+| align="left" |Võng Xuyên
+|1.079
+|-
+| align="left" |Xuân Lục
+|945
+|-
+| align="left" |Xuân Phú
+|857
+|}
+|}
+
+== Chú thích ==
+{{tham khảo}}
+
+== Tham khảo ==
+{{Sơ khai Hà Nội}}{{Đơn vị hành chính thuộc thành phố Hà Nội}}

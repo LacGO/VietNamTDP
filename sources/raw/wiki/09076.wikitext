@@ -1,0 +1,75 @@
+{{Thông tin đơn vị hành chính Việt Nam | Xã
+| tên = Vĩnh Tường
+| hình =TT Vĩnh Tường.jpeg 
+| ghi chú hình =Một góc xã Vĩnh Tường 
+| vĩ độ = 21.21693022118782
+| kinh độ = 105.51309765116054
+| diện tích = 26,20 km²<ref name=MS/>
+| dân số = 47.315 người<ref name=MS/>
+| thời điểm dân số = 2025
+| mật độ dân số = {{formatnum:{{#expr:floor({{formatnum:47.315|R}}/{{formatnum:26,20|R}})}} }} người/km²
+| vùng = [[Đông Bắc Bộ]]
+| tỉnh = [[Phú Thọ]]
+| thành lập = 16/6/2025
+| trụ sở UBND =Đường Lê Xoay 
+| mã hành chính = 09076<ref>{{Chú thích web |url=https://danhmuchanhchinh.gso.gov.vn/ |title=Tổng cục Thống kê |access-date=2022-04-10 |archive-date=2021-01-10 |archive-url=https://web.archive.org/web/20210110034519/https://www.gso.gov.vn/phuong-phap-thong-ke/danh-muc/don-vi-hanh-chinh/ |url-status=dead }}</ref>
+| mã bưu chính =15606 
+|logo=Biểu trưng huyện Vĩnh Tường, tỉnh Vĩnh Phúc, Việt Nam.svg
+|ghi chú logo=Biểu trưng
+|web={{url|vinhtuong.phutho.gov.vn}}
+|loại đô thị=|năm công nhận=}}
+{{other|Vĩnh Tường (định hướng)}}
+'''Vĩnh Tường''' là một [[Xã (Việt Nam)|xã]] thuộc tỉnh [[Phú Thọ]], [[Việt Nam]].
+
+==Địa lý==
+Xã Vĩnh Tường có vị trí địa lý:
+*Phía đông giáp xã [[Tam Hồng, Phú Thọ|Tam Hồng]]
+*Phía tây giáp xã [[Thổ Tang]]
+*Phía nam giáp xã [[Vĩnh Phú (xã)|Vĩnh Phú]]
+*Phía bắc giáp xã [[Vĩnh Hưng, Phú Thọ|Vĩnh Hưng]]
+*Phía đông bắc giáp xã [[Tề Lỗ, Phú Thọ|Tề Lỗ]]
+
+Xã có diện tích 26,20&nbsp;km², dân số năm 2025 là 47.315 người, mật độ dân số đạt {{formatnum:{{#expr:floor({{formatnum:47.315|R}}/{{formatnum:26,20|R}})}} }} người/km².
+
+==Hành chính==
+Xã Vĩnh Tường được chia thành 37 thôn: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, Bắc Trại, Chùa, Đông Đình, Đội Cấn, Hà Trì, Hoa Đà, Hoa Phú, Hồ Xuân Hương, Lạc Trung, Ngọc Động, Ngược Phù Lập, Nhật Tân, Phong Doanh, Phú Lập Ngoài, Phúc Lập Trong, Phù Cốc, Quảng Cư, Tứ Kỳ, Vũ Di, Xuân Húc 1, Xuân Húc 2, Xuân Lai, Xuôi Phù Lập, Yên Cát, Yên Nhiên, Yên Thịnh, Yên Trình.<ref name=":0">{{Chú thích web |last=Ủy ban bầu cử xã Vĩnh Tường |date=2025-12-24 |title=Quyết định số 7/QĐ-UBBC về việc ấn định và công bố số đơn vị bầu cử, danh sách các đơn vị bầu cử và số lượng đại biểu được bầu ở mỗi đơn vị bầu cử đại biểu Hội đồng nhân dân xã Vĩnh Tường, nhiệm kỳ 2026 - 2031 |url=https://vinhtuong.phutho.gov.vn/index.php/2013-12-13-01-52-02/1-van-ban-cua-xa |url-status=live |archive-url=https://web.archive.org/web/20260426090807/https://vinhtuong.phutho.gov.vn/index.php/2013-12-13-01-52-02/1-van-ban-cua-xa |archive-date=2026-04-26 |access-date=2026-04-26 |website=Trang Thông tin điện tử xã Vĩnh Tường - tỉnh Phú Thọ}}</ref>
+
+==Lịch sử==
+Trước kia, địa bàn xã Vĩnh Tường hiện nay là địa bàn của thị trấn Vĩnh Tường, thị trấn Tứ Trưng và các xã Lương Điền, Vũ Di thuộc huyện [[Vĩnh Tường (huyện)|Vĩnh Tường]], tỉnh [[Vĩnh Phúc (tỉnh)|Vĩnh Phúc]] cũ. 
+
+Ngày [[23 tháng 11]] năm [[1995]], thị trấn Vĩnh Tường được thành lập trên cơ sở tách 282,62 ha diện tích tự nhiên và 4.171 người của xã Vũ Di và 3,348 ha diện tích tự nhiên của xã Tứ Trưng.
+
+Ngày [[23 tháng 9]] năm [[2009]], [[Chính phủ Việt Nam|Chính phủ]] ban hành Nghị quyết số 46/NQ-CP. Theo đó, thành lập thị trấn Tứ Trưng trên cơ sở toàn bộ 497,47 ha diện tích tự nhiên và 7.177 người của xã Tứ Trưng.
+
+Ngày [[14 tháng 11]] năm [[2024]], [[Ủy ban Thường vụ Quốc hội]] ban hành Nghị quyết 1287/NQ-UBTVQH15 về việc sắp xếp đơn vị hành chính cấp xã của tỉnh Vĩnh Phúc giai đoạn 2023 – 2025 (nghị quyết có hiệu lực từ ngày [[1 tháng 1]] năm [[2025]]).<ref>{{Chú thích web |date=2024-11-21 |title=Nghị quyết số 1287/NQ-UBTVQH15 của UBTVQH Về việc sắp xếp đơn vị hành chính cấp xã của tỉnh Vĩnh Phúc giai đoạn 2023 – 2025 |url=https://quochoi.vn/tintuc/Pages/tin-hoat-dong-cua-quoc-hoi.aspx?ItemID=91157 |url-status=live |archive-url=https://web.archive.org/web/20260713212545/https://quochoi.vn/tintuc/Pages/tin-hoat-dong-cua-quoc-hoi.aspx%3FItemID%3D91157 |archive-date=2026-07-13 |access-date=2026-08-09 |website=Cổng thông tin điện tử Quốc hội}}</ref> Theo đó:
+
+* Sáp nhập toàn bộ diện tích và dân số của hai xã Vân Xuân và Bình Dương thành xã Lương Điền.
+* Sáp nhập toàn bộ diện tích và dân số của xã Tam Phúc vào thị trấn Vĩnh Tường.
+
+Ngày [[12 tháng 6]] năm [[2025]], [[Quốc hội Việt Nam|Quốc hội]] ban hành Nghị quyết số 202/2025/QH15 về việc sắp xếp đơn vị hành chính cấp tỉnh (nghị quyết có hiệu lực từ ngày [[12 tháng 6]] năm [[2025]]).<ref>{{Chú thích web |last=xaydungchinhsach.chinhphu.vn|date=2025-07-16|title=TOÀN VĂN: Nghị quyết số 202/2025/QH15 về sắp xếp đơn vị hành chính cấp tỉnh|url=https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-202-2025-qh15-ve-sap-xep-don-vi-hanh-chinh-cap-tinh-119250612174148722.htm|url-status=live|archive-url=http://web.archive.org/web/20260705025431/https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-202-2025-qh15-ve-sap-xep-don-vi-hanh-chinh-cap-tinh-119250612174148722.htm|archive-date=2026-07-05|access-date=2026-07-25|website=Báo Điện tử Chính phủ|language=vi}}</ref> Theo đó, sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của tỉnh [[Vĩnh Phúc (tỉnh)|Vĩnh Phúc]], tỉnh [[Hòa Bình (tỉnh)|Hòa Bình]] và tỉnh [[Phú Thọ]] thành tỉnh mới có tên gọi là tỉnh '''Phú Thọ'''.
+
+Ngày [[16 tháng 6]] năm [[2025]]:
+
+* Quốc hội ban hành Nghị quyết số 203/2025/QH15 về việc sửa đổi, bổ sung một số điều của Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam (nghị quyết có hiệu lực từ ngày [[16 tháng 6]] năm [[2025]]).<ref>{{Chú thích web |last=xaydungchinhsach.chinhphu.vn|date=2025-06-28|title=NGHỊ QUYẾT 203/2025/QH15 SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA HIẾN PHÁP NƯỚC CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM|url=https://xaydungchinhsach.chinhphu.vn/nghi-quyet-203-2025-qh15-sua-doi-bo-sung-mot-so-dieu-cua-hien-phap-nuoc-cong-hoa-xa-hoi-chu-nghia-viet-nam-119250616181735552.htm|url-status=live|archive-url=http://web.archive.org/web/20260715200606/https://xaydungchinhsach.chinhphu.vn/nghi-quyet-203-2025-qh15-sua-doi-bo-sung-mot-so-dieu-cua-hien-phap-nuoc-cong-hoa-xa-hoi-chu-nghia-viet-nam-119250616181735552.htm|archive-date=2026-07-15|access-date=2026-07-15|website=Báo Điện tử Chính phủ|language=vi}}</ref> Theo đó, kết thúc hoạt động của đơn vị hành chính cấp huyện trong cả nước từ ngày 1 tháng 7 năm 2025.
+
+* Ủy ban Thường vụ Quốc hội ban hành Nghị quyết số 1676/NQ-UBTVQH15 về việc sắp xếp đơn vị hành chính cấp xã của tỉnh [[Phú Thọ]] năm 2025 (nghị quyết có hiệu lực từ ngày [[16 tháng 6]] năm [[2025]]).<ref>{{Chú thích web |last=xaydungchinhsach.chinhphu.vn|date=2025-06-20|title=Nghị quyết số 1676/NQ-UBTVQH15 sắp xếp các ĐVHC cấp xã của tỉnh Phú Thọ năm 2025|url=https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-1676-nq-ubtvqh15-sap-xep-cac-dvhc-cap-xa-cua-tinh-phu-tho-nam-2025-119250616204317326.htm|url-status=live|archive-url=http://web.archive.org/web/20260725082021/https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-1676-nq-ubtvqh15-sap-xep-cac-dvhc-cap-xa-cua-tinh-phu-tho-nam-2025-119250616204317326.htm|archive-date=2026-07-25|access-date=2026-07-25|website=Báo Điện tử Chính phủ|language=vi}}</ref> Theo đó, sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của thị trấn Vĩnh Tường, thị trấn Tứ Trưng, xã Lương Điền và xã Vũ Di thành xã mới có tên gọi là '''xã Vĩnh Tường'''.
+
+Sau khi thành lập, xã Vĩnh Tường được chia thành 37 thôn: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, Bắc Trại, Chùa, Đông Đình, Đội Cấn, Hà Trì, Hoa Đà, Hoa Phú, Hồ Xuân Hương, Lạc Trung, Ngọc Động, Ngược Phù Lập, Nhật Tân, Phong Doanh, Phú Lập Ngoài, Phúc Lập Trong, Phù Cốc, Quảng Cư, Tứ Kỳ, Vũ Di, Xuân Húc 1, Xuân Húc 2, Xuân Lai, Xuôi Phù Lập, Yên Cát, Yên Nhiên, Yên Thịnh, Yên Trình.<ref name=":0" />
+
+Ngày [[24 tháng 12]] năm [[2025]], Ủy ban Thường vụ Quốc hội ban hành Nghị quyết số 111/2025/UBTVQH15 về phân loại đô thị (nghị quyết có hiệu lực từ ngày [[1 tháng 1]] năm [[2026]]).<ref>{{Chú thích web |last=xaydungchinhsach.chinhphu.vn |date=2026-01-21 |title=Nghị quyết số 111/2025/UBTVQH15 về phân loại đô thị |url=https://xaydungchinhsach.chinhphu.vn/nghi-quyet-so-111-2025-ubtvqh15-ve-phan-loai-do-thi-119260101170432239.htm |access-date=2026-07-23 |website=xaydungchinhsach.chinhphu.vn |language=vi}}</ref> Theo đó, đô thị loại IV, loại V, thị xã và thị trấn trước khi sắp xếp chưa được công nhận loại đô thị được xác định là đô thị loại III. Một phần xã Vĩnh Tường được xác định là đô thị loại III (từ đô thị loại V của thị trấn Vĩnh Tường và thị trấn Tứ Trưng cũ).
+
+== Danh nhân ==
+
+* [[Đội Cấn]] (1881 – 1918): Tên thật là Trịnh Văn Đạt, người làng Yên Nhiên, phủ Vĩnh Tường, nay thuộc xã Vĩnh Tường, tỉnh Phú Thọ. Nhà nghèo, năm 1910, ông đăng lính khố xanh thay cho anh trai với cái tên là Trịnh Văn Cấn, sau thăng dần lên chức đội lính khố xanh trong cơ binh Pháp đóng ở Thái Nguyên, vì thế ông được gọi là Đội Cấn.
+* [[Lê Xoay]] (1912 – 1942), Bí thư đầu tiên của Đảng bộ Đảng Cộng sản Việt Nam tỉnh [[Vĩnh Yên (tỉnh)|Vĩnh Yên]]. Ông còn có bí danh là Lê Phúc Thành, người làng Yên Nhiên, tổng Thượng Trưng, phủ Vĩnh Tường, tỉnh Vĩnh Yên, nay thuộc xã Vĩnh Tường, tỉnh Phú Thọ.
+* [[Nguyễn Văn Sơn (Tuyên Quang)]] (1970 –) là một chính trị gia người Việt Nam. Ông hiện là Phó Bí thư Tỉnh ủy Tuyên Quang, Chủ tịch Hội đồng nhân dân tỉnh Tuyên Quang nhiệm kỳ 2026 - 2031.
+* [[Lê Duy Thành]] (1969 –) là một cựu chính trị gia người Việt Nam. Ông nguyên là Chủ tịch Ủy ban nhân dân tỉnh Vĩnh Phúc nhiệm kỳ 2016-2021. Trong Đảng Cộng sản Việt Nam, ông từng là Phó Bí thư Tỉnh ủy Vĩnh Phúc, Bí thư Ban Cán sự Đảng Ủy ban nhân dân tỉnh Vĩnh Phúc.
+* [[Nguyễn Văn Hoa]] (1960 –) là thẩm phán cao cấp người Việt Nam. Ông hiện giữ chức vụ Chánh án Tòa án nhân dân tỉnh Vĩnh Phúc.
+* [[Phan Đức Hiếu]] (1974 –) là luật gia, chính trị gia nước Cộng hòa xã hội chủ nghĩa Việt Nam. Ông hiện là Ủy viên Thường trực Ủy ban Kinh tế của Quốc hội, Đại biểu Quốc hội khóa XV & XVI từ Thái Bình. Ông từng là Đảng ủy viên Đảng bộ Bộ Kế hoạch và Đầu tư, Phó Viện trưởng Viện Nghiên cứu quản lý kinh tế Trung ương.
+* [[Phan Tiến Dũng]] (1970 –) là một chính khách người Việt Nam. Ông hiện là Chủ tịch Ủy ban nhân dân thành phố Phúc Yên thuộc tỉnh Vĩnh Phúc.
+
+==Chú thích==
+{{tham khảo|30em}}
+==Tham khảo==
+{{sơ khai Phú Thọ}}
+{{Đơn vị hành chính thuộc tỉnh Phú Thọ}}

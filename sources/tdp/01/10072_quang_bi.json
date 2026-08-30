@@ -1,0 +1,116 @@
+{
+  "ward_code": "10072",
+  "ward_name": "Quảng Bị",
+  "province_code": "01",
+  "resolution": "",
+  "arrangement": "2026_07",
+  "effective_date": "2026-07-01",
+  "verified": "unverified",
+  "extraction": {
+    "source": "vi.wikipedia.org",
+    "title": "(cache)",
+    "mode": "table"
+  },
+  "sources": [
+    {
+      "key": "wiki-10072-1",
+      "title": "Ủy ban bầu cử xã Quảng Bị công bố và niêm yết công khai danh sách chính thức 45 người ứng cử đại biểu HĐND xã nhiệm kỳ 2026 – 2031",
+      "url": "https://quangbi.hanoi.gov.vn/tin-tuc-su-kien/uy-ban-bau-cu-xa-quang-bi-da-cong-bo-va-niem-yet-cong-khai-danh-sach-chinh-thuc-45-nguoi-ung-cu-dai-bieu-hdnd-xa-nhiem-ky-2026-2031-2684260226182154662.htm?gidzl=T0doITsu52fm5lPFrwCT97iR-qJA_aeYPKtuGywlI7Co5wqIdAP9SJKVhXl9gXnwPK_xIpEVWDDIsBaGA0",
+      "date": "2026-02-26",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-10072-2",
+      "title": "Nghị quyết số 1656/NQ-UBTVQH15 ngày 16 tháng 6 năm 2025 của Ủy ban Thường vụ Quốc hội về việc sắp xếp các đơn vị hành chính cấp xã của thành phố Hà Nội năm 2025",
+      "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf",
+      "date": "2026-05-13",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-10072-3",
+      "title": "Thông báo số 269/TB-UBND ngày 30 tháng 6 năm 2026 của Ủy ban nhân dân xã Quảng Bị về việc công khai Nghị quyết về sắp xếp, đặt tên, đổi tên thôn trên địa bàn xã Quảng Bị",
+      "url": "https://sqhx-hanoi.mediacdn.vn/91579363132710912/2026/7/2/thong-bao-nq-sap-xep-thon-1782987257991528023477.pdf",
+      "date": "",
+      "type": "wikipedia-ref"
+    }
+  ],
+  "note": "Trích tự động từ Wikipedia tiếng Việt (mode=table). Cần đối chiếu nghị quyết HĐND phường/xã.",
+  "tdp": [
+    {
+      "name": "Thôn 1",
+      "type": "thôn"
+    },
+    {
+      "name": "Thôn 2",
+      "type": "thôn"
+    },
+    {
+      "name": "Thôn 5",
+      "type": "thôn"
+    },
+    {
+      "name": "An Hiền",
+      "type": "thôn"
+    },
+    {
+      "name": "Bài Trượng",
+      "type": "thôn"
+    },
+    {
+      "name": "Cốc Thượng",
+      "type": "thôn"
+    },
+    {
+      "name": "Duyên Hòa",
+      "type": "thôn"
+    },
+    {
+      "name": "Đại Từ",
+      "type": "thôn"
+    },
+    {
+      "name": "Đạo Ngạn",
+      "type": "thôn"
+    },
+    {
+      "name": "Đồng Lệ",
+      "type": "thôn"
+    },
+    {
+      "name": "Lam Điền",
+      "type": "thôn"
+    },
+    {
+      "name": "Liên Hợp",
+      "type": "thôn"
+    },
+    {
+      "name": "Lương Xá",
+      "type": "thôn"
+    },
+    {
+      "name": "Ninh Kiều",
+      "type": "thôn"
+    },
+    {
+      "name": "Tân Long",
+      "type": "thôn"
+    },
+    {
+      "name": "Thái Hòa",
+      "type": "thôn"
+    },
+    {
+      "name": "Tốt Động",
+      "type": "thôn"
+    },
+    {
+      "name": "Trung Hạ",
+      "type": "thôn"
+    },
+    {
+      "name": "Yên Duyệt",
+      "type": "thôn"
+    }
+  ]
+}

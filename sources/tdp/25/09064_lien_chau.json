@@ -1,0 +1,156 @@
+{
+  "ward_code": "09064",
+  "ward_name": "Liên Châu",
+  "province_code": "25",
+  "resolution": "",
+  "arrangement": "truoc_2026_07",
+  "effective_date": "",
+  "verified": "unverified",
+  "extraction": {
+    "source": "vi.wikipedia.org",
+    "title": "Liên Châu",
+    "mode": "narrative"
+  },
+  "sources": [
+    {
+      "key": "wiki-09064-1",
+      "title": "Nghị quyết số 2/NQ-UBBC về việc công bố danh sách chính thức những người ứng cử đại biểu Hội đồng nhân dân xã Liên Châu, nhiệm kỳ 2026 - 2031",
+      "url": "https://lienchau.phutho.gov.vn/index.php/2013-12-13-01-52-02/1-van-ban-cua-xa/26-nghi-quyet-so-02-nq-ubbc?start=20",
+      "date": "2026-02-23",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-09064-2",
+      "title": "TOÀN VĂN: Nghị quyết số 202/2025/QH15 về sắp xếp đơn vị hành chính cấp tỉnh",
+      "url": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-202-2025-qh15-ve-sap-xep-don-vi-hanh-chinh-cap-tinh-119250612174148722.htm",
+      "date": "2025-07-16",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-09064-3",
+      "title": "NGHỊ QUYẾT 203/2025/QH15 SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA HIẾN PHÁP NƯỚC CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM",
+      "url": "https://xaydungchinhsach.chinhphu.vn/nghi-quyet-203-2025-qh15-sua-doi-bo-sung-mot-so-dieu-cua-hien-phap-nuoc-cong-hoa-xa-hoi-chu-nghia-viet-nam-119250616181735552.htm",
+      "date": "2025-06-28",
+      "type": "wikipedia-ref"
+    }
+  ],
+  "note": "Trích tự động từ Wikipedia tiếng Việt (mode=narrative). Cần đối chiếu nghị quyết HĐND phường/xã. ⚠️ Danh mục có thể là hiện trạng TRƯỚC sắp xếp thôn/TDP 01/7/2026 — Wikipedia chưa cập nhật nghị quyết mới.",
+  "tdp": [
+    {
+      "name": "Cẩm Nha",
+      "type": "thôn"
+    },
+    {
+      "name": "Cẩm Trạch",
+      "type": "thôn"
+    },
+    {
+      "name": "Cẩm Viên",
+      "type": "thôn"
+    },
+    {
+      "name": "Đại Tự 1",
+      "type": "thôn"
+    },
+    {
+      "name": "Đại Tự 2",
+      "type": "thôn"
+    },
+    {
+      "name": "Đại Tự 3",
+      "type": "thôn"
+    },
+    {
+      "name": "Đại Tự 4",
+      "type": "thôn"
+    },
+    {
+      "name": "Đại Tự 56",
+      "type": "thôn"
+    },
+    {
+      "name": "Nhật Chiêu 1",
+      "type": "thôn"
+    },
+    {
+      "name": "Nhật Chiêu 2",
+      "type": "thôn"
+    },
+    {
+      "name": "Nhật Chiêu 3",
+      "type": "thôn"
+    },
+    {
+      "name": "Nhật Chiêu 4",
+      "type": "thôn"
+    },
+    {
+      "name": "Nhật Tiến 1",
+      "type": "thôn"
+    },
+    {
+      "name": "Nhật Tiến 2",
+      "type": "thôn"
+    },
+    {
+      "name": "Nhật Tiến 3",
+      "type": "thôn"
+    },
+    {
+      "name": "Phú Phong",
+      "type": "thôn"
+    },
+    {
+      "name": "Phương Nha 1",
+      "type": "thôn"
+    },
+    {
+      "name": "Phương Nha 2",
+      "type": "thôn"
+    },
+    {
+      "name": "Tam Kỳ 1",
+      "type": "thôn"
+    },
+    {
+      "name": "Tam Kỳ 2",
+      "type": "thôn"
+    },
+    {
+      "name": "Tam Kỳ 3",
+      "type": "thôn"
+    },
+    {
+      "name": "Tam Kỳ 4",
+      "type": "thôn"
+    },
+    {
+      "name": "Tam Kỳ 56",
+      "type": "thôn"
+    },
+    {
+      "name": "Thụ Ích 1",
+      "type": "thôn"
+    },
+    {
+      "name": "Thụ Ích 2",
+      "type": "thôn"
+    },
+    {
+      "name": "Thụ Ích 3",
+      "type": "thôn"
+    },
+    {
+      "name": "Thụ Ích 4",
+      "type": "thôn"
+    },
+    {
+      "name": "Trung An",
+      "type": "thôn"
+    },
+    {
+      "name": "Trung Nha",
+      "type": "thôn"
+    }
+  ]
+}

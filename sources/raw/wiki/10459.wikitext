@@ -1,0 +1,133 @@
+{{Thông tin đơn vị hành chính Việt Nam|Xã
+| tên = Phúc Sơn
+| thành phố = [[Hà Nội]]
+| vùng = [[Đồng bằng sông Hồng]]
+| vĩ độ = 20.780657314289737
+| kinh độ = 105.70303612913239
+| diện tích = 49,31 km²
+| dân số = 54.084 người
+| thời điểm dân số = 2025
+| mật độ dân số = {{formatnum:{{#expr:floor({{formatnum:54.084| R}}/{{formatnum:49,31| R}})}} }} người/km²
+| mã hành chính =10459<ref>{{Chú thích web |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/19ttg.signed.pdf |title=Quyết định số 19/2025/QĐ-TTg ngày 30 tháng 6 năm 2025 của Thủ tướng Chính phủ về việc Ban hành Bảng danh mục và mã số các đơn vị hành chính Việt Nam |access-date=2026-06-15 |archive-date=2026-06-15 |archive-url=https://web.archive.org/web/20260615034519/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/19ttg.signed.pdf |url-status=dead | website = Cổng Thông tin điện tử Chính phủ}}</ref> 
+|thành lập=|web={{url|phucson.hanoi.gov.vn}}|bản đồ 1={{maplink|frame=yes|plain=yes|type=shape|frame-width=280|frame-align=center|stroke-width=3}}|trụ sở UBND=Khu trung tâm Mỹ Thành<ref>{{Chú thích web |url=https://storage-vnportal.vnpt.vn/gov-hni/6244/VanBan/2025/6/25/TB-729-2025.pdf |title=Thông báo số 729/TB-UBND ngày 25 tháng 6 năm 2025 của Ủy ban nhân dân thành phố Hà Nội về địa điểm trụ sở làm việc của 126 phường, xã sau sắp xếp thuộc phạm vi quản lý của thành phố Hà Nội|access-date=2026-06-15 |archive-date=2026-06-15 |archive-url=https://web.archive.org/web/20260615034519/https://storage-vnportal.vnpt.vn/gov-hni/6244/VanBan/2025/6/25/TB-729-2025.pdf |url-status=dead | website = Cổng Thông tin điện tử Ủy ban nhân dân thành phố Hà Nội}}</ref>|trụ sở Đảng ủy=Thôn Lai Tảo}}
+{{other|Phúc Sơn (định hướng)}}
+'''Phúc Sơn''' là một [[Xã (Việt Nam)|xã]] thuộc thành phố [[Hà Nội]], [[Việt Nam]].
+
+== Địa lý==
+Xã Phúc Sơn có vị trí địa lý:
+
+* Phía đông giáp xã [[Ứng Thiên]]
+* Phía tây giáp xã [[Liên Sơn, Phú Thọ|Liên Sơn]] và xã [[Cao Dương]] thuộc tỉnh [[Phú Thọ]]
+* Phía nam giáp xã [[Hồng Sơn, Hà Nội|Hồng Sơn]] và [[Vân Đình]]
+* Phía bắc giáp xã [[Trần Phú, Hà Nội|Trần Phú]] và xã [[Hòa Phú, Hà Nội|Hòa Phú]].<ref>{{Chú thích web |last=Viện nghiên cứu Phát triển kinh tế – xã hội Hà Nội |date=2025-07-02 |title=Xã Phúc Sơn: Những thông tin chi tiết sau sắp xếp |url=https://hanoionline.vn/xa-phuc-son-nhung-thong-tin-chi-tiet-sau-sap-xep-344169.htm |url-status=dead |archive-url=https://web.archive.org/web/20250703090315/https://hanoionline.vn/xa-phuc-son-nhung-thong-tin-chi-tiet-sau-sap-xep-344169.htm |archive-date=2025-07-03 |access-date=2026-08-02 |website=Cơ quan Báo và Phát thanh Truyền hình Hà Nội }}</ref><ref>{{Chú thích web |last=Cơ quan Báo và Phát thanh Truyền hình Hà Nội |date=2025-07-09 |title=Xã Phúc Sơn: Tất cả thông tin chỉ dẫn bạn cần biết |url=https://hanoionline.vn/xa-phuc-son-tat-ca-thong-tin-chi-dan-ban-can-biet-345679.htm |url-status=dead |archive-url=https://web.archive.org/web/20250710023002/https://hanoionline.vn/xa-phuc-son-tat-ca-thong-tin-chi-dan-ban-can-biet-345679.htm |archive-date=2025-07-10 |access-date=2026-08-02 }}</ref>
+Xã Phúc Sơn có diện tích tự nhiên là 49,31&nbsp;km<sup>2</sup>, quy mô dân số năm 2025 là 54.084 người và mật độ dân số đạt 1.096 người/km<sup>2</sup>.<ref>{{Chú thích web |last=Mai Hữu |date=2026-04-05 |title=Hà Nội: Chi tiết phương án tổng thể sắp xếp đơn vị hành chính cấp xã |url=https://hanoimoi.vn/ha-noi-chi-tiet-phuong-an-tong-the-sap-xep-don-vi-hanh-chinh-cap-xa-700278.html |url-status=dead |archive-url=https://web.archive.org/web/20250710163328/https://hanoimoi.vn/ha-noi-chi-tiet-phuong-an-tong-the-sap-xep-don-vi-hanh-chinh-cap-xa-700278.html |archive-date=2025-07-10 |access-date=2026-07-11 |website=Cơ quan Báo và Phát thanh, truyền hình Hà Nội }}</ref><ref>Công văn số 2896/BNV-CQĐP ngày 27 tháng 5 năm 2025 của Bộ Nội vụ về việc cung cấp thông tin danh mục dự kiến đơn vị hành chính cấp xã mới.</ref>
+
+== Lịch sử ==
+
+=== Trước năm 1976 ===
+
+=== Giai đoạn 1976 – nay ===
+Sau ngày 2 tháng 7 năm 1976, 6 xã: Bột Xuyên, Đồng Tâm, Mỹ Thành, Phúc Lâm, Thượng Lâm và Tuy Lai thuộc huyện [[Mỹ Đức (huyện)|Mỹ Đức]] của tỉnh [[Hà Sơn Bình]].
+
+Ngày 12 tháng 8 năm 1991, chia tỉnh [[Hà Sơn Bình]] thành 2 tỉnh, lấy tên là tỉnh [[Hòa Bình (tỉnh)|Hòa Bình]] và tỉnh [[Hà Tây (tỉnh)|Hà Tây]]. Khi đó, 6 xã: Bột Xuyên, Đồng Tâm, Mỹ Thành, Phúc Lâm, Thượng Lâm và Tuy Lai thuộc huyện [[Mỹ Đức (huyện)|Mỹ Đức]] của tỉnh [[Hà Tây (tỉnh)|Hà Tây]].<ref>Nghị quyết ngày 12 tháng 8 năm 1991 của Quốc hội khóa VIII, Kỳ họp thứ 9 về việc điều chỉnh địa giới hành chính một số tỉnh, thành phố trực thuộc Trung ương.</ref>
+
+Ngày 29 tháng 5 năm 2008, hợp nhất tỉnh [[Hà Tây (tỉnh)|Hà Tây]] vào thành phố [[Hà Nội]]. Khi đó, 6 xã: Bột Xuyên, Đồng Tâm, Mỹ Thành, Phúc Lâm, Thượng Lâm và Tuy Lai thuộc huyện [[Mỹ Đức (huyện)|Mỹ Đức]] của thành phố [[Hà Nội]].<ref>Nghị quyết số 15/2008/QH12 ngày 29 tháng 5 năm 2008 của Quốc hội khóa XII, Kỳ họp thứ 3 về việc điều chỉnh địa giới hành chính thành phố Hà Nội và một số tỉnh có liên quan.</ref>
+
+Ngày 14 tháng 11 năm 2024, thành lập xã Mỹ Xuyên trên cơ sở nhập xã Mỹ Thành và xã Bột Xuyên.<ref>{{Chú thích web |tiêu đề=Nghị quyết số 1286/NQ-UBTVQH15 ngày 14 tháng 11 năm 2024 của Ủy ban Thường vụ Quốc hội về việc sắp xếp đơn vị hành chính cấp xã của thành phố Hà Nội giai đoạn 2023 – 2025 |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/11/1286-qh.signed.pdf |url-status=dead |archive-url=https://web.archive.org/web/20260731202233/https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/11/1286-qh.signed.pdf |ngày lưu trữ=2026-07-31 |ngày truy cập=2026-07-25 |website=Cổng Thông tin điện tử Chính phủ }}</ref>
+
+Ngày 16 tháng 6 năm 2025:
+
+* Kết thúc hoạt động của đơn vị hành chính cấp huyện trong cả nước.<ref>{{Chú thích web |last= |date= |title=Nghị quyết số 203/2025/QH15 ngày 16 tháng 6 năm 2025 của Quốc hội khóa XV, Kỳ họp thứ 9 về việc sửa đổi, bổ sung một số điều của Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/nq-sua-doi-hien-phap.pdf |url-status=live |archive-url=https://web.archive.org/web/20260613090807/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/nq-sua-doi-hien-phap.pdf |archive-date=2026-06-13 |access-date=2026-06-13 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+* Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của các xã Mỹ Xuyên, Phúc Lâm, Thượng Lâm, Tuy Lai và một phần diện tích tự nhiên, toàn bộ quy mô dân số của xã Đồng Tâm (huyện [[Mỹ Đức (huyện)|Mỹ Đức]]) thành xã mới có tên gọi là xã Phúc Sơn.<ref>{{Chú thích web |title=Nghị quyết số 1656/NQ-UBTVQH15 ngày 16 tháng 6 năm 2025 của Ủy ban Thường vụ Quốc hội về việc sắp xếp các đơn vị hành chính cấp xã của thành phố Hà Nội năm 2025 |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf |url-status=bot: unknown |archive-url=https://web.archive.org/web/20260513110024/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf |archive-date=2026-05-13 |access-date=2026-06-30 |website=Cổng Thông tin điện tử Chính phủ }}</ref>
+* Sau khi sắp xếp, xã Phúc Sơn được chia thành 40 thôn.<ref>9 thôn: Bột Xuyên, Lai Tảo, Mỹ Tiên, Phú Hữu, Phú Văn, Phúc Khê (trước thuộc xã Bột Xuyên), Vĩnh Lạc, Vĩnh Xương Thượng và Vĩnh Xương Trung (trước thuộc xã Mỹ Thành) của xã Mỹ Xuyên cũ; 6 thôn: Chân Chim, Khảm Lâm, Phúc Lâm Hạ, Phúc Lâm Thượng, Phúc Lâm Trung và Phù Yên của xã Phúc Lâm cũ; 5 thôn: Nội, Phượng, Thượng, Trì và Trung của xã Thượng Lâm cũ; 14 thôn: Bèn, Bụa, Cát, Cầu, Đình Lê, Đồng Mả, Giáp Bốn, Quýt từ 1 đến 4, Thượng, Trê và Trù của xã Tuy Lai cũ; 6 thôn: Đồng Mít 1, 2 và Hoành từ 1 đến 4 của xã Đồng Tâm cũ.</ref><ref>{{Chú thích web |title=Thông tư số 10/2022/TT-BTNMT ngày 29 tháng 9 năm 2022 của Bộ Tài nguyên và Môi trường về việc Ban hành Danh mục địa danh dân cư, sơn văn, thủy văn, kinh tế – xã hội phục vụ công tác thành lập bản đồ thành phố Hà Nội |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2022/10/10-btnmt.pdf |url-status=bot: unknown |archive-url=https://web.archive.org/web/20260630082812/https://datafiles.chinhphu.vn/cpp/files/vbpq/2022/10/10-btnmt.pdf |archive-date=2026-06-30 |access-date=2026-06-30 |website=Cổng Thông tin điện tử Chính phủ }}</ref><ref>{{Chú thích web |last=Trang Thông tin điện tử xã Phúc Sơn – thành phố Hà Nội |date=2026-03-05 |title=Trân trọng giới thiệu danh sách và tiểu sử tóm tắt của những ông/bà ứng cử đại biểu Hội đồng nhân dân xã Phú Sơn khóa II nhiệm kỳ 2026 – 2031 |url=https://phucson.hanoi.gov.vn/thong-tin-da-phuong-tien/tran-trong-gioi-thieu-danh-sach-va-tieu-su-tom-tat-cua-nhung-ong-ba-ung-cu-dai-bieu-hdnd-xa-phuc-son-khoa-ii-nhiem-ky-2026-2031-2729260305091132916.htm |url-status=dead |archive-url=https://web.archive.org/web/20260803400809/https://phucson.hanoi.gov.vn/thong-tin-da-phuong-tien/tran-trong-gioi-thieu-danh-sach-va-tieu-su-tom-tat-cua-nhung-ong-ba-ung-cu-dai-bieu-hdnd-xa-phuc-son-khoa-ii-nhiem-ky-2026-2031-2729260305091132916.htm |archive-date=2026-08-03 |access-date=2026-08-03 |website=}}</ref>
+Ngày 26 tháng 6 năm 2026, thành lập 16 thôn mới: Hoành 1, 2, Đồng Mít, Phúc Khảm Lâm, Phúc Lâm Trung, Phúc Lâm Hạ, Trì Thượng Lâm, Nội Thượng Lâm, Tuy Lai, Thượng, Giữa Quýt, Giáp Ba, Giáp Bốn, Phú Cường, Bột Xuyên và Mỹ Thành.<ref>1. Thôn Hoành 1: Sáp nhập toàn bộ quy mô hộ gia đình/dân số của thôn Hoành 1 với thôn Hoành 2 để thành lập thôn mới; 2. Thôn Hoành 2: Sáp nhập toàn bộ quy mô hộ gia đình/dân số của thôn Hoành 3 với thôn Hoành 4 để thành lập thôn mới; 3. Thôn Đồng Mít: Sáp nhập toàn bộ quy mô hộ gia đình/dân số của thôn Đồng Mít 1 với thôn Đồng Mít 2 để thành lập thôn mới; 4. Thôn Phúc Khảm Lâm: Sáp nhập toàn bộ quy mô hộ gia đình/dân số của thôn Khảm Lâm với thôn Phúc Lâm Thượng để thành lập thôn mới; 5. Thôn Phúc Lâm Trung: Sáp nhập toàn bộ quy mô hộ gia đình/dân số của thôn Chân Chim với thôn Phúc Lâm Trung để thành lập thôn mới; 6. Thôn Phúc Lâm Hạ: Sáp nhập toàn bộ quy mô hộ gia đình/dân số của thôn Phù Yên với thôn Phúc Lâm Hạ để thành lập thôn mới; 7. Thôn Trì Thượng Lâm: Sáp nhập toàn bộ quy mô hộ gia đình/dân số của thôn Thượng (Thượng Lâm) với thôn Trì để thành lập thôn mới; 8. Thôn Nội Thượng Lâm: Sáp nhập toàn bộ quy mô hộ gia đình/dân số của thôn Trung với thôn Nội với thôn Phượng để thành lập thôn mới; 9. Thôn Tuy Lai: Sáp nhập toàn bộ quy mô hộ gia đình/dân số của thôn Trê với thôn Cầu với thôn Bên để thành lập thôn mới; 10. Thôn Thượng: Sáp nhập toàn bộ quy mô hộ gia đình/dân số của thôn Thượng (Tuy Lai) với thôn Đồng Mả để thành lập thôn mới; 11. Thôn Giữa Quýt: Sáp nhập toàn bộ quy mô hộ gia đình/dân số của thôn Quýt 1 với thôn Quýt 2 với thôn Quýt 3 với thôn Quýt 4 để thành lập thôn mới; 12. Thôn Giáp Ba: Sáp nhập toàn bộ quy mô hộ gia đình/dân số của thôn Cát với thôn Trù với thôn Đình Lê để thành lập thôn mới; 13. Thôn Giáp Bốn: Sáp nhập toàn bộ quy mô hộ gia đình/dân số của thôn Bụa với thôn Giáp Bốn để thành lập thôn mới; 14. Thôn Phú Cường: Sáp nhập toàn bộ quy mô hộ gia đình/dân số của thôn Phúc Khê với thôn Phú Hữu để thành lập thôn mới; 15. Thôn Bột Xuyên: Sáp nhập toàn bộ quy mô hộ gia đình/dân số của thôn Mỹ Tiên với Thôn Phú Văn với thôn Bột Xuyên để thành lập thôn mới; 16. Thôn Mỹ Thành: Sáp nhập toàn bộ quy mô hộ gia đình/dân số của thôn Vĩnh Xương Thượng với thôn Vĩnh Xương Trung với thôn Vĩnh Lạc để thành lập thôn mới; 17. Thôn Lai Tảo: Giữ nguyên.</ref><ref name=":02">{{Chú thích web |last= |date= |title=Đề án tháng 6 năm 2026 của Ủy ban nhân dân xã Phúc Sơn về việc sắp xếp thôn trên địa bàn xã Phúc Sơn thành phố Hà Nội |url=https://sqhx-hanoi.mediacdn.vn/91579363132710912/2026/6/15/du-thao-de-an-sap-nhap-thon-xa-phuc-son-17815193337851283503133.pdf |url-status=dead |archive-url=https://web.archive.org/web/20260803083136/https://sqhx-hanoi.mediacdn.vn/91579363132710912/2026/6/15/du-thao-de-an-sap-nhap-thon-xa-phuc-son-17815193337851283503133.pdf |archive-date=2026-08-03 |access-date=2026-08-03 |website=Trang Thông tin điện tử xã Phúc Sơn – thành phố Hà Nội }}</ref><ref name=":0">{{Chú thích web |last=Nguyễn Thị Thà |date=2026-07-02 |title=Công bố danh sách các thôn sau thành lập, sắp xếp, tổ chức lại trên địa bàn xã Phúc Sơn |url=https://phucson.hanoi.gov.vn/thong-tin-da-phuong-tien/thong-bao-2729260702112007874.htm |url-status=dead |archive-url=https://web.archive.org/web/20260803201510/https://phucson.hanoi.gov.vn/thong-tin-da-phuong-tien/thong-bao-2729260702112007874.htm |archive-date=2026-08-03 |access-date=2026-08-03 |website=Trang Thông tin điện tử xã Phúc Sơn – thành phố Hà Nội}}</ref>
+
+== Hành chính ==
+Xã Phúc Sơn được chia thành 17 thôn: Bột Xuyên, Đồng Mít, Giáp Ba, Giáp Bốn, Giữa Quýt, Hoành 1, 2, Lai Tảo, Mỹ Thành, Nội Thượng Lâm, Phú Cường, Phúc Khảm Lâm, Phúc Lâm Hạ, Phúc Lâm Trung, Thượng, Trì Thượng Lâm và Tuy Lai.<ref name=":02" /><ref name=":0" />
+{| class="wikitable sortable" align="center" width="100%" cellspacing="6" cellpadding="0" style="background: #f9f9f9; border: 1px #aaa solid; margin-top: 16px"
+! colspan="4" style="background: #E6E6FA; font-size: 95%;" |Danh sách các thôn thuộc xã Phúc Sơn<ref name=":02" /><ref name=":0" />
+|-
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Bột Xuyên
+|801
+|-
+| align="left" |Đồng Mít
+|949
+|-
+| align="left" |Giáp Ba
+|691
+|-
+| align="left" |Giáp Bốn
+|529
+|-
+| align="left" |Giữa Quýt
+|975
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Hoành 1
+|767
+|-
+| align="left" |Hoành 2
+|955
+|-
+| align="left" |Lai Tảo
+|976
+|-
+| align="left" |Mỹ Thành
+|1.084
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Nội Thượng Lâm
+|1.059
+|-
+| align="left" |Phú Cường
+|681
+|-
+| align="left" |Phúc Khảm Lâm
+|929
+|-
+| align="left" |Phúc Lâm Hạ
+|689
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Phúc Lâm Trung
+|796
+|-
+| align="left" |Thượng
+|580
+|-
+| align="left" |Trì Thượng Lâm
+|832
+|-
+| align="left" |Tuy Lai
+|807
+|}
+|}
+
+=== <!-- == Hành chính== Xã Mỹ Xuyên được thành lập ngày 01/01/2025 trên cơ sở sáp nhập toàn bộ diện tích tự nhiên là 3,91 km2, quy mô dân số là 3.967 người của xã [[Phúc Sơn| Mỹ Thành]] và toàn bộ diện tích tự nhiên là 5,81 km2, quy mô dân số là 9.169 người của xã [[Bột Xuyên]].<ref name = ":0" /> Trụ sở UBND xã Mỹ Xuyên được đặt tại UBND xã [[Phúc Sơn| Mỹ Thành]] cũ. == Hành chính== Xã Đồng Tâm được lập ra vào năm 1953 sau khi sáp nhập thôn Hoành của xã Thượng Lâm<ref>Xã Thượng Lâm hiện tại có 5 thôn: Trì, Thượng, Trung, Nội, Phượng</ref> và thôn Đồng Mít của xã Phúc Lâm. Hiện nay, xã vẫn có 2 thôn: thôn Hoành và thôn Đồng Mít, chia thành 14 xóm. == Văn hóa== Tiêu biểu có Trống đồng Miếu Môn ở thôn Hoành là một trong số các trống đồng Đông Sơn nổi tiếng được phát hiện ở đây. Hiện nay, Trống đồng Miếu Môn được lưu trữ ở Viện Bảo tàng Lịch sử Việt Nam. == Xem thêm== *[[Tranh chấp đất đai tại Đồng Tâm]] == Thắng cảnh - Du lịch== Xã Tuy Lai nằm ở vùng bán sơn địa. Phía Tây là khu vực đồi núi, đầm, hồ rộng lớn với nhiều dãy núi đẹp. Quần thể [[hồ Tuy Lai]] với diện tích hàng trăm ha, đan xen với những quả núi đá vôi nằm giữa lòng hồ. Nơi đây hợp với [[hồ Quan Sơn]] phía nam được coi là [[Vịnh Hạ Long]] thu nhỏ. Nơi đây có tiềm năng rất lớn về du lịch. Đặc biệt phong cảnh nơi đây vẫn giữ được nét hoang sơ. Thời Bảo Đại, xã Phúc Lâm có thôn: Đường Mít và Chân Chim. Đến 1953, tách thôn Đồng Mít để ghép lập nên xã Đồng Tâm, đồng thời, nhập thôn Khảm Lâm về xã Phúc Lâm như hiện nay. == Lịch sử== Thượng Lâm là một xã đầu thời Nguyễn thuộc trấn Sơn Nam thượng, phủ Ứng Thiên, huyện Chương Đức, tổng Viên Nội; sau thuộc Hà Đông tỉnh, Mỹ Đức phủ. Thời gian sau phát triển thành 3 thôn: Hoành, Thượng, Liên Trì. Từ năm 1953, thôn Hoành tách ra để lập xã Đồng Tâm, xã Thượng Lâm còn lại 2 thôn. == Đình Thượng Lâm== Đình làng Thượng Lâm được xây dựng từ thời Vua [[Đinh Tiên Hoàng]]. Đình là nơi lưu giữ nhiều sắc phong về các vị anh hùng dân tộc như Cao Sơn Đại Vương, Quý Minh Đại Vương, Uy Đức Đại Vương, Vĩnh Hoa Công chúa, Quá Hải Đại Vương.<ref>[https://dantri.com.vn/xa-hoi/doc-dao-kieu-bay-o-hoi-lang-thuong-lam-trang-20160323065119203.htm Độc đáo "kiệu bay" ở hội làng Thượng Lâm Trang]</ref> Trống đồng xuất hiện từ thời cổ đại phân bố cả vùng Đông Nam Á cổ, được coi đó là vật linh để thờ cúng. Ở Việt Nam, từ thời trước [[nhà Đinh]], đã có đền thờ thần Đồng Cổ ở [[Thanh Hóa]], cho nên vua [[Đinh Tiên Hoàng]] mới tặng thần Đồng Cổ cho làng Thượng Lâm, huyện [[Mỹ Đức (huyện)| Mỹ Đức]], tỉnh [[Hà Đông (tỉnh)| Hà Đông]] cũ để thờ trong đình làm Thành hoàng làng.<ref>[https://kienthuc.net.vn/di-san/kham-pha-thu-vi-trong-dong-linh-vat-duoc-tho-cung-408865.html Khám phá thú vị: Trống đồng - “linh vật” được thờ cúng]</ref> Những ghi chép về trống đồng cổ trong sử sách Việt Nam còn lại rất ít, và thật ra cũng chỉ xoay quanh hai chiếc trống mà thôi. Trống Đan Nê đã được các sách nhắc đến: Việt Điện U linh, Đại Việt Sử ký Toàn thư, Lĩnh Nam chích quái, Đại Nam Nhất thống Chí. Một chiếc khác có khả năng là trống Miếu Môn I, đã được ghi nhận trong thần tích của làng Thượng Lâm, do [[Đinh Tiên Hoàng]] ban thưởng để làm trống thờ.<ref>[http://vinhbacviet.tripod.com/chuong8.htm Thủy-quân của Vua Hùng và Trống Đồng-cổ Đan-Nê]</ref> Bài văn của đền thờ [[thần Cao Sơn]] và Quý Minh tại trang Thượng Lâm, huyện Chương Đức: Đền Thượng Lâm xưa vốn có chiếc trống đồng, tương truyền là chiến lợi phẩm của [[Đinh Tiên Hoàng]] thu được khi đánh dẹp các sứ quân, sau đem tặng vào đền thờ để báo đáp công của thần đã giải vây cho mình trong một trận đánh. Đến thời Lê, nhà Mạc nổi lên cướp ngôi, các quan triều đình là Uy Quốc Công Nguyễn Bá Lân, An Hoà Hầu Nguyễn Hoàng Dụ và đại tướng quân Nguyên Văn Lữ vâng mệnh đi đánh dẹp, đem quân qua đền, vào cầu khấn xin thần giúp đỡ phù hộ, quả được ứng nghiệm. Đến năm vua mới lên ngôi, sai ba vị trên mang sắc phong tặng về Chương Đức. Ba vị bèn cúng tiến chiêng, trống, đồ thờ vào đền, lại cử quan Bộ Lễ là Lê Tung soạn văn tế.<ref>{{Chú thích web | url = http://www.hannom.org.vn/trichyeu.asp?param = 663&Catid = 53 | ngày truy cập = 2018-12-07 | tiêu đề = Lê Tung 黎嵩, Thượng Thư Bộ Lễ, Đông các đại học sĩ kiêm Quốc tử giám Tế tửu soạn năm Canh Ngọ Hồng Thuận 2(1510) | archive-date = 2018-12-07 | archive-url = https://web.archive.org/web/20181207102851/http://www.hannom.org.vn/trichyeu.asp?param = 663&Catid = 53 | url-status = dead }}</ref> --> ===
+
+== Trụ sở các cơ quan==
+Trụ sở Đảng ủy xã đặt tại thôn Lai Tảo, trụ sở Ủy ban nhân dân xã đặt tại, thôn Vĩnh Lạc, thuộc xã Mỹ Xuyên cũ.<ref name="trusomoi">{{Chú thích web| url = https://dcdn.dantri.com.vn/2025/06/25/tru-so-126-xa-phuong-cua-ha-noi-1750822481952.pdf| title = Thông báo về địa điểm trụ sở làm việc của 126 phường, xã sau sắp xếp thuộc phạm vi quản lý của thành phố Hà Nội| date = 25 tháng 6 năm 2025| website = UBND TP Hà Nội| access-date = 2025-07-13| archive-date = 2026-04-25| archive-url = https://web.archive.org/web/20260425080946/https://dcdn.dantri.com.vn/2025/06/25/tru-so-126-xa-phuong-cua-ha-noi-1750822481952.pdf| url-status = dead}}</ref>
+
+== Chú thích== 
+{{tham khảo}}
+
+== Tham khảo ==
+{{sơ khai Hà Nội}}
+{{Đơn vị hành chính thuộc thành phố Hà Nội}}

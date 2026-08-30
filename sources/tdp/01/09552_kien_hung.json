@@ -1,0 +1,148 @@
+{
+  "ward_code": "09552",
+  "ward_name": "Kiến Hưng",
+  "province_code": "01",
+  "resolution": "",
+  "arrangement": "2026_07",
+  "effective_date": "2026-07-01",
+  "verified": "unverified",
+  "extraction": {
+    "source": "vi.wikipedia.org",
+    "title": "(cache)",
+    "mode": "table"
+  },
+  "sources": [
+    {
+      "key": "wiki-09552-1",
+      "title": "Nghị quyết số 20/NQ-HĐND ngày 29 tháng 6 năm 2026 về việc sắp xếp tổ dân phố trên địa bàn phường Kiến Hưng",
+      "url": "https://web.facebook.com/photo/?fbid=122204070122923089&set=a.122100499604923089",
+      "date": "2026-07-01",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-09552-2",
+      "title": "Ủy ban bầu cử phường Kiến Hưng công bố danh sách chính thức 37 người ứng cử Hội đồng nhân dân phường Kiến Hưng nhiệm kỳ 2026 – 2031",
+      "url": "https://kienhung.hanoi.gov.vn/bau-cu-quoc-hoi-va-hdnd/uy-ban-bau-cu-phuong-kien-hung-cong-bo-danh-sach-chinh-thuc-37-nguoi-ung-cu-hdnd-phuong-kien-hung-nhiem-ky-2026-2031-281026022623051494.htm?gidzl=RySfNua9JL5hs2rPWn58KclPArwL4Ku0V8fxMPbC4bOjYoPOnK8LKIJR9rd7HHHLBjbmNJNG_r4_Z0X9Km",
+      "date": "2026-02-26",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-09552-3",
+      "title": "Nghị quyết số 111/2025/UBTVQH15 ngày 24 tháng 12 năm 2025 của Ủy ban Thường vụ Quốc hội về phân loại đô thị",
+      "url": "https://cdn.nhandan.vn/files/f4a4abf7f9a0ba4a91744616546d850872b76917f90d5a74cc9eebef1369fb6f/111.pdf",
+      "date": "2026-07-12",
+      "type": "wikipedia-ref"
+    }
+  ],
+  "note": "Trích tự động từ Wikipedia tiếng Việt (mode=table). Cần đối chiếu nghị quyết HĐND phường/xã.",
+  "tdp": [
+    {
+      "name": "Đa Sỹ 1",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Đa Sỹ 2",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Đa Sỹ 3",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Đa Sỹ 4",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Hòang Công 1",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Hòang Công 2",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Hòang Công 3",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Hòang Công 4",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Hòang Công 5",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Hòang Công 6",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Hưng Thịnh 1",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Hưng Thịnh 2",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Hưng Thịnh 3",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Hưng Thịnh 4",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Mậu Lương 1",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Mậu Lương 2",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Mậu Lương 3",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Phú La 1",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Phú La 2",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Phú La 3",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Phú La 4",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Phú La 5",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Phú La 6",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Văn La 1",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Văn La 2",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Văn Phú 1",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Văn Phú 2",
+      "type": "tổ dân phố"
+    }
+  ]
+}

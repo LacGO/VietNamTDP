@@ -1,0 +1,108 @@
+{{Thông tin đơn vị hành chính Việt Nam|xã
+| tên = An Nghĩa
+| hình = 
+| ghi chú hình = 
+| vĩ độ = 20.54329948957079
+| kinh độ = 105.75248931687146
+| diện tích = 95,73 km²
+| dân số = 27.556 người
+| thời điểm dân số = 2025
+| mật độ dân số = {{formatnum:{{#expr:floor({{formatnum:27.556| R}}/{{formatnum:95,73| R}})}} }} người/km²
+| vùng = [[Đông Bắc Bộ]]
+| tỉnh = [[Phú Thọ]]
+| thành lập = 16 tháng 6 năm 2025<ref>Nghị quyết số 1676/NQ-UBTVQH15</ref>
+| trụ sở UBND = An Thịnh 
+| mã hành chính = 05395
+| mã bưu chính =36822 
+|web={{url|annghia.phutho.gov.vn}}
+|loại đô thị=|năm công nhận=}}
+{{other|An Nghĩa (định hướng)}}
+'''An Nghĩa''' là một [[Xã (Việt Nam)|xã]] thuộc tỉnh [[Phú Thọ]], [[Việt Nam]].
+
+==Địa lý==
+Xã An Nghĩa nằm ở phía đông nam tỉnh [[Phú Thọ]], có vị trí địa lý:
+*Phía đông giáp xã [[Hương Sơn, Hà Nội|Hương Sơn]], thành phố [[Hà Nội]].
+*Phía tây giáp xã [[Hợp Kim]], xã [[Dũng Tiến]] và xã [[An Bình, Phú Thọ|An Bình]].
+*Phía nam giáp xã [[An Bình, Phú Thọ|An Bình]], xã [[Lạc Thủy (xã)|Lạc Thủy]].
+*Phía bắc giáp xã [[Cao Dương, Phú Thọ|Cao Dương]] và xã [[Mỹ Đức, Hà Nội|Mỹ Đức]], thành phố [[Hà Nội]]
+
+Xã An Nghĩa có diện tích 95,73&nbsp;km², dân số năm 2025 là 27.556 người<ref>{{Chú thích web |date=2025-06-30 |title=Phú Thọ có 148 xã, phường sau sắp xếp |url=https://phobienphapluat.vn/phu-tho-co-148-xa-phuong-sau-sap-xep-a1549.html |access-date=2026-03-24 |website=Tạp chí Phổ biến và Tham vấn pháp luật Việt Nam |language=vi}}</ref>, mật độ dân số đạt 288 người/km².<ref>{{Chú thích web |title=Xã An Nghĩa, Tỉnh Phú Thọ mới sáp nhập 2026 |url=https://tinhthanhvn.com/province/phu-tho/xa-an-nghia |access-date=2026-03-24 |website=Tỉnh Thành Việt Nam |language=vi}}</ref>
+
+Xã có vị trí địa lý thuận lợi có các tuyến đường [[Quốc lộ 21|Quốc lộ 21A]], [[Quốc lộ 12B|tuyến đường 12B]] và [[đường Hồ Chí Minh]] chạy qua thuận lợi cho giao thông đi lại, phát triển kinh tế.
+
+==Hành chính==
+Xã An Nghĩa được chia thành 35 khu - thôn, gồm 9 khu: Ba Bường, Đệt, Đồi, Đồng Tâm, Lộng, Quyết Tiến, Thắng Lợi, Vai, Vôi và 26 thôn: 2A, An Ninh, Bảy, Bến Đình, Bến Nghĩa, Bột, Bưa Cú, Chùa, Đầm Đa, Đoàn Kết, Đồng Danh, Đồng Sắn, Đồng Thung, Đồng Tiến, Gốc Xanh, Lão Ngoại, Lão Nội, Lũ, Phú Bình, Rị, Sỏi, Sông Bôi, Tân Lâm, Tân Phú, Tân Thành, Tân Thắng.<ref name=":0">{{Chú thích web |last=Ủy ban nhân dân xã An Nghĩa |date=2025-11-20 |title=Thông báo số 71/TB-UBND về việc Niêm yết công khai kết quả họp bình xét "Thôn, Khu dân cư Văn hóa", năm 2025 |url=https://annghia.phutho.gov.vn/index.php/tin-t-c-s-ki-n/chinh-tr/756-niem-yet-cong-khai-ket-qua-hop-binh-xet-thon-khu-dan-cu-van-hoa-nam-2025 |url-status=live |archive-url=https://web.archive.org/web/20260418090807/https://annghia.phutho.gov.vn/index.php/tin-t-c-s-ki-n/chinh-tr/756-niem-yet-cong-khai-ket-qua-hop-binh-xet-thon-khu-dan-cu-van-hoa-nam-2025 |archive-date=2026-04-18 |access-date=2026-04-18 |website=Trang Thông tin điện tử xã An Nghĩa - tỉnh Phú Thọ}}</ref><ref name=":1">{{Chú thích web |last=Bộ Dân tộc và Tôn giáo |date=2026-01-29 |title=Danh sách Thôn vùng đồng bào dân tộc thiểu số và miền núi, thôn đặc biệt khó khăn giai đoạn 2026 - 2030 trên địa bàn tỉnh Phú Thọ |url=http://files.ubdt.gov.vn/files/ecm/source_files/2026/02/05/11252411_4.%20Ph%C3%BA%20Th%E1%BB%8D%201%20(th%C3%B4n).signed_26-02-05.pdf |url-status=live |archive-url=https://web.archive.org/web/20260417090807/http://files.ubdt.gov.vn/files/ecm/source_files/2026/02/05/11252411_4.%20Ph%C3%BA%20Th%E1%BB%8D%201%20(th%C3%B4n).signed_26-02-05.pdf |archive-date=2026-04-17 |access-date=2026-04-17 |website=Cổng Thông tin điện tử Bộ Dân tộc và Tôn giáo}}</ref><ref name=":2">{{Chú thích web |last=Ủy ban bầu cử xã An Nghĩa |date=2026-02-24 |title=Nghị quyết số 1/NQ-UBBC về việc công bố danh sách những người ứng cử đại biểu Hội đồng nhân dân xã An Nghĩa, nhiệm kỳ 2026 - 2031 theo từng đơn vị bầu cử |url=https://web.facebook.com/story.php?story_fbid=122164609958943116&id=61578293489383&rdid=jISNQURTHYEkZmPM# |url-status=live |archive-url=https://web.archive.org/web/20260418090807/https://web.facebook.com/story.php?story_fbid=122164609958943116&id=61578293489383&rdid=jISNQURTHYEkZmPM# |archive-date=2026-04-18 |access-date=2026-04-18 |website=Mặt trận xã An Nghĩa, tỉnh Phú Thọ}}</ref>
+
+==Lịch sử==
+Địa bàn xã An Nghĩa hiện nay trước đây vốn là thị trấn Ba Hàng Đồi, xã Phú Nghĩa và xã Phú Thành thuộc huyện [[Lạc Thủy (huyện)|Lạc Thủy]], tỉnh [[Hòa Bình (tỉnh)|Hòa Bình]] cũ.
+
+Ngày [[22 tháng 1]] năm [[1957]], xã Thanh Nông được thành lập trên cơ sở tách một phần diện tích và dân số của xã Hợp Thanh thuộc huyện [[Lương Sơn (huyện)|Lương Sơn]].<ref>{{chú thích sách|tác giả=|tựa đề=Địa chí Hòa Bình|nhà xuất bản=Nhà xuất bản Chính trị quốc gia|year=2005|nơi=|trang=313|url=https://www.google.com/books/edition/Địa_ch%C3%AD_Hòa_Bình/jUZRAQAAMAAJ|doi=|id=|isbn=}}</ref>
+
+Ngày [[26 tháng 11]] năm [[1970]], Bộ trưởng Phủ thủ tướng ban hành Quyết định số 71-BT. Theo đó, chuyển xã Thanh Nông về huyện [[Kim Bôi (huyện)|Kim Bôi]] quản lý.
+
+Lịch sử hình thành của thị trấn bắt đầu từ những khu dân cư tập trung của nông trường Thanh Hà nằm trên địa bàn xã Thanh Nông lúc bấy giờ.
+
+Ngày [[13 tháng 7]] năm [[1967]], thị trấn nông trường Thanh Hà được thành lập theo Quyết định số 269-NV của Bộ trưởng Bộ Nội vụ.
+
+Ngày [[27 tháng 3]] năm [[1999]], [[Chính phủ Việt Nam|Chính phủ]] ban hành Nghị định số 15/1999/NĐ-CP. Theo đó:
+
+* Giải thể thị trấn nông trường Thanh Hà; dân cư thuộc thị trấn nông trường Thanh Hà hiện đang sinh sống trên địa bàn các xã Hợp Thanh, Nam Thượng, Mỹ Hòa và Phú Thành giao về các xã đó quản lý.
+* Thành lập thị trấn Thanh Hà trên cơ sở 364,98 ha diện tích tự nhiên và 2.187 người của các đội sản xuất 2, 4, 6 và 9 của nông trường Thanh Hà (thuộc địa bàn của xã Thanh Nông).
+
+Sau khi thành lập, thị trấn Thanh Hà có diện tích 3,65&nbsp;km², dân số là 2.187 người. Xã Thanh Nông còn lại 27,3&nbsp;km² diện tích tự nhiên, dân số là 4.584 người, mật độ dân số đạt 168 người/km².
+
+Ngày [[14 tháng 7]] năm [[2009]], Chính phủ ban hành Nghị quyết 31/NQ-CP về việc điều chỉnh địa giới hành chính huyện Kim Bôi. Theo đó, chuyển thị trấn Thanh Hà và xã Thanh Nông thuộc huyện Kim Bôi về huyện Lạc Thủy quản lý.
+
+Đến năm [[2018]]:
+
+* Xã Cố Nghĩa có diện tích 13,42&nbsp;km², dân số là 4,127 người, mật độ dân số đạt 308 người/km².
+* Xã Phú Lão có diện tích 17,55&nbsp;km², dân số là 3.751 người, mật độ dân số đạt 214 người/km².
+* Thị trấn Thanh Hà có diện tích 2,76&nbsp;km², dân số là 2.169 người, mật độ dân số đạt 786 người/km².
+* Xã Thanh Nông có diện tích 24,35&nbsp;km², dân số là 5.203 người, mật độ dân số đạt 214 người/km².
+
+Ngày [[17 tháng 12]] năm [[2019]], [[Ủy ban Thường vụ Quốc hội]] ban hành Nghị quyết số 830/NQ-UBTVQH14 về việc sắp xếp các đơn vị hành chính cấp huyện, cấp xã thuộc tỉnh Hòa Bình (nghị quyết có hiệu lực từ ngày [[1 tháng 1]] năm [[2020]]). Theo đó:
+
+* Sáp nhập toàn bộ diện tích và dân số của hai xã Phú Lão và Cố Nghĩa thành xã Phú Nghĩa.
+* Sáp nhập toàn bộ diện tích và dân số của xã Thanh Nông vào thị trấn Thanh Hà để thành lập thị trấn Ba Hàng Đồi.
+
+Ngày [[12 tháng 6]] năm [[2025]], [[Quốc hội Việt Nam|Quốc hội]] ban hành Nghị quyết số 202/2025/QH15 về việc sắp xếp đơn vị hành chính cấp tỉnh (nghị quyết có hiệu lực từ ngày [[12 tháng 6]] năm [[2025]]).<ref>{{Chú thích web |last=xaydungchinhsach.chinhphu.vn |date=2025-07-16 |title=TOÀN VĂN: Nghị quyết số 202/2025/QH15 về sắp xếp đơn vị hành chính cấp tỉnh |url=https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-202-2025-qh15-ve-sap-xep-don-vi-hanh-chinh-cap-tinh-119250612174148722.htm |url-status=live |archive-url=http://web.archive.org/web/20260705025431/https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-202-2025-qh15-ve-sap-xep-don-vi-hanh-chinh-cap-tinh-119250612174148722.htm |archive-date=2026-07-05 |access-date=2026-07-25 |website=Báo Điện tử Chính phủ |language=vi}}</ref> Theo đó, sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của tỉnh [[Vĩnh Phúc (tỉnh)|Vĩnh Phúc]], tỉnh [[Hòa Bình (tỉnh)|Hòa Bình]] và tỉnh [[Phú Thọ]] thành tỉnh mới có tên gọi là tỉnh '''Phú Thọ'''.
+
+Ngày [[16 tháng 6]] năm [[2025]]:
+
+* [[Quốc hội Việt Nam|Quốc hội]] ban hành Nghị quyết số 203/2025/QH15 về việc sửa đổi, bổ sung một số điều của Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam (nghị quyết có hiệu lực từ ngày [[16 tháng 6]] năm [[2025]]).<ref>{{Chú thích web |last=xaydungchinhsach.chinhphu.vn |date=2025-06-28 |title=NGHỊ QUYẾT 203/2025/QH15 SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA HIẾN PHÁP NƯỚC CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM |url=https://xaydungchinhsach.chinhphu.vn/nghi-quyet-203-2025-qh15-sua-doi-bo-sung-mot-so-dieu-cua-hien-phap-nuoc-cong-hoa-xa-hoi-chu-nghia-viet-nam-119250616181735552.htm |url-status=live |archive-url=http://web.archive.org/web/20260715200606/https://xaydungchinhsach.chinhphu.vn/nghi-quyet-203-2025-qh15-sua-doi-bo-sung-mot-so-dieu-cua-hien-phap-nuoc-cong-hoa-xa-hoi-chu-nghia-viet-nam-119250616181735552.htm |archive-date=2026-07-15 |access-date=2026-07-15 |website=Báo Điện tử Chính phủ |language=vi}}</ref> Theo đó, kết thúc hoạt động của đơn vị hành chính cấp huyện trong cả nước từ ngày 1 tháng 7 năm 2025.
+
+* [[Ủy ban Thường vụ Quốc hội]] ban hành Nghị quyết số 1676/NQ-UBTVQH15 về việc sắp xếp đơn vị hành chính cấp xã của tỉnh [[Phú Thọ]] năm 2025 (nghị quyết có hiệu lực từ ngày [[16 tháng 6]] năm [[2025]]).<ref>{{Chú thích web |last=xaydungchinhsach.chinhphu.vn |date=2025-06-20 |title=Nghị quyết số 1676/NQ-UBTVQH15 sắp xếp các ĐVHC cấp xã của tỉnh Phú Thọ năm 2025 |url=https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-1676-nq-ubtvqh15-sap-xep-cac-dvhc-cap-xa-cua-tinh-phu-tho-nam-2025-119250616204317326.htm |url-status=live |archive-url=http://web.archive.org/web/20260725082021/https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-1676-nq-ubtvqh15-sap-xep-cac-dvhc-cap-xa-cua-tinh-phu-tho-nam-2025-119250616204317326.htm |archive-date=2026-07-25 |access-date=2025-09-07 |website=Báo Điện tử Chính phủ |language=vi}}</ref> Theo đó, sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của thị trấn Ba Hàng Đồi, xã Phú Nghĩa và xã Phú Thành thành xã mới có tên gọi là '''xã An Nghĩa'''.
+Sau khi thực hiện sắp xếp, xã An Nghĩa được chia thành 35 khu - thôn, gồm 9 khu: Ba Bường, Đệt, Đồi, Đồng Tâm, Lộng, Quyết Tiến, Thắng Lợi, Vai, Vôi và 26 thôn: 2A, An Ninh, Bảy, Bến Đình, Bến Nghĩa, Bột, Bưa Cú, Chùa, Đầm Đa, Đoàn Kết, Đồng Danh, Đồng Sắn, Đồng Thung, Đồng Tiến, Gốc Xanh, Lão Ngoại, Lão Nội, Lũ, Phú Bình, Rị, Sỏi, Sông Bôi, Tân Lâm, Tân Phú, Tân Thành, Tân Thắng.<ref name=":0" /><ref name=":1" /><ref name=":2" />
+
+Ngày [[24 tháng 12]] năm [[2025]], Ủy ban Thường vụ Quốc hội ban hành Nghị quyết số 111/2025/UBTVQH15 về phân loại đô thị (nghị quyết có hiệu lực từ ngày [[1 tháng 1]] năm [[2026]]).<ref>{{Chú thích web |last=xaydungchinhsach.chinhphu.vn |date=2026-01-21 |title=Nghị quyết số 111/2025/UBTVQH15 về phân loại đô thị |url=https://xaydungchinhsach.chinhphu.vn/nghi-quyet-so-111-2025-ubtvqh15-ve-phan-loai-do-thi-119260101170432239.htm |access-date=2026-07-23 |website=xaydungchinhsach.chinhphu.vn |language=vi}}</ref> Theo đó, đô thị loại IV, loại V, thị xã và thị trấn trước khi sắp xếp chưa được công nhận loại đô thị được xác định là đô thị loại III. Một phần xã An Nghĩa được xác định là đô thị loại III (từ đô thị loại V của thị trấn Ba Hàng Đồi cũ).<!-- 
+==Lịch sử==
+Phần lớn địa bàn thị trấn Ba Hàng Đồi hiện nay trước đây là xã Thanh Nông thuộc huyện Lạc Thủy.
+
+Xã Thanh Nông vốn thuộc huyện [[Lương Sơn (huyện)|Lương Sơn]], được thành lập vào ngày [[22 tháng 1]] năm [[1957]] trên cơ sở tách một phần diện tích và dân số của xã Hợp Thanh.<ref>{{chú thích sách|tác giả=|tựa đề=Địa chí Hòa Bình|nhà xuất bản=Nhà xuất bản Chính trị quốc gia|year=2005|nơi=|trang=313|url=https://www.google.com/books/edition/Địa_ch%C3%AD_Hòa_Bình/jUZRAQAAMAAJ|doi=|id=|isbn=}}</ref>
+
+Ngày [[26 tháng 11]] năm [[1970]], Bộ trưởng Phủ thủ tướng ban hành Quyết định số 71-BT.<ref>{{Chú thích web|url=https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-71-BTdua-mot-so-xa-thuoc-huyen-Luong-Son-tinh-Hoa-Binh-ve-huyen-Kim-Boi-cung-tinh-18942.aspx|tựa đề=Quyết định 71-BT năm 1970 về việc đưa một số xã thuộc huyện Lương Sơn tỉnh Hòa Bình về huyện Kim Bôi cùng tỉnh do Bộ trưởng Phủ thủ tướng ban hành|tác giả=|họ=|tên=|ngày=|website=|url lưu trữ=|ngày lưu trữ=|ngày truy cập=}}</ref> Theo đó, chuyển xã Thanh Nông về huyện [[Kim Bôi (huyện)|Kim Bôi]] quản lý.
+
+Lịch sử hình thành của thị trấn bắt đầu từ những khu dân cư tập trung của nông trường Thanh Hà nằm trên địa bàn xã Thanh Nông lúc bấy giờ.
+
+Ngày [[13 tháng 7]] năm [[1967]], thị trấn nông trường Thanh Hà được thành lập theo Quyết định số 269-NV của Bộ trưởng Bộ Nội vụ.<ref>{{Chú thích web|url=https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-269-NV-phe-chuan-viec-thanh-lap-2-thi-tran-nong-truong-thuoc-tinh-Hoa-binh-18195.aspx|tựa đề=Quyết định 269-NV năm 1967 phê chuẩn việc thành lập 2 thị trấn nông trường thuộc tỉnh Hòa Bình do Bộ trưởng Bộ Nội vụ ban hành|tác giả=|họ=|tên=|ngày=|website=|url lưu trữ=|ngày lưu trữ=|ngày truy cập=}}</ref>
+
+Ngày [[27 tháng 3]] năm [[1999]], Chính phủ ban hành Nghị định số 15/1999/NĐ-CP.<ref name=ND15>{{Chú thích web|url=https://thuvienphapluat.vn/van-ban/bat-dong-san/Nghi-dinh-15-1999-ND-CP-dieu-chinh-dia-gioi-hanh-chinh-va-thanh-lap-thi-tran-xa-cua-cac-huyen-Kim-Boi-Mai-Chau-Lac-Son-va-Yen-Thuy-tinh-Hoa-Binh-45162.aspx|tựa đề=Nghị định số 15/1999/NĐ-CP về việc điều chỉnh địa giới hành chính và thành lập thị trấn, xã của các huyện Kim Bôi, Mai Châu, Lạc Sơn và Yên Thủy, tỉnh Hoà Bình|tác giả=|họ=|tên=|ngày=|website=|url lưu trữ=|ngày lưu trữ=|ngày truy cập=}}</ref> Theo đó:
+*Giải thể thị trấn nông trường Thanh Hà; dân cư thuộc thị trấn nông trường Thanh Hà hiện đang sinh sống trên địa bàn các xã Hợp Thanh, Nam Thượng, Mỹ Hòa và Phú Thành giao về các xã đó quản lý.
+*Thành lập thị trấn Thanh Hà trên cơ sở 364,98 ha diện tích tự nhiên và 2.187 người của các đội sản xuất 2, 4, 6 và 9 của nông trường Thanh Hà (thuộc địa bàn của xã Thanh Nông).
+
+Sau khi thành lập, thị trấn Thanh Hà có diện tích 3,65&nbsp;km², dân số là 2.187 người. Xã Thanh Nông còn lại 27,3&nbsp;km² diện tích tự nhiên, dân số là 4.584 người, mật độ dân số đạt 168 người/km².
+
+Ngày [[14 tháng 7]] năm [[2009]], Chính phủ ban hành Nghị quyết 31/NQ-CP về việc điều chỉnh địa giới hành chính huyện Kim Bôi.<ref>{{Chú thích web|url=https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/Nghi-quyet-31-NQ-CP-dieu-chinh-dia-gioi-hanh-chinh-huyen-va-thanh-pho-Hoa-Binh-tinh-Hoa-Binh-91385.aspx|tựa đề=Nghị quyết số 31/NQ-CP về việc điều chỉnh địa giới hành chính một số huyện và thành phố Hòa Bình, tỉnh Hòa Bình|tác giả=|họ=|tên=|ngày=|website=|url lưu trữ=|ngày lưu trữ=|ngày truy cập=}}</ref> Theo đó, chuyển thị trấn Thanh Hà và xã Thanh Nông thuộc huyện Kim Bôi về huyện Lạc Thủy quản lý.
+
+Đến năm 2018, thị trấn Thanh Hà có diện tích 2,76&nbsp;km², dân số là 2.169 người, mật độ dân số đạt 786 người/km². Xã Thanh Nông có diện tích 24,35&nbsp;km², dân số là 5.203 người, mật độ dân số đạt 214 người/km².
+
+Ngày [[17 tháng 12]] năm [[2019]], Ủy ban Thường vụ Quốc hội ban hành Nghị quyết số 830/NQ-UBTVQH14 về việc sắp xếp các đơn vị hành chính cấp huyện, cấp xã thuộc tỉnh Hòa Bình (nghị quyết có hiệu lực từ ngày [[1 tháng 1]] năm [[2020]]).<ref name=NQ830>{{Chú thích web|url=https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/Nghi-quyet-830-NQ-UBTVQH14-2019-sap-xep-don-vi-hanh-chinh-cap-huyen-xa-thuoc-tinh-Hoa-Binh-432100.aspx|tựa đề=Nghị quyết số 830/NQ-UBTVQH14 năm 2019 về việc sắp xếp các đơn vị hành chính cấp huyện, cấp xã thuộc tỉnh Hòa Bình|tác giả=|họ=|tên=|ngày=|website=|url lưu trữ=|ngày lưu trữ=|ngày truy cập=}}</ref> Theo đó, sáp nhập toàn bộ diện tích và dân số của xã Thanh Nông vào thị trấn Thanh Hà để thành lập thị trấn Ba Hàng Đồi.
+
+-->
+
+==Chú thích==
+{{tham khảo}}
+
+==Tham khảo==
+{{Sơ khai Phú Thọ}}
+{{Đơn vị hành chính thuộc tỉnh Phú Thọ}}

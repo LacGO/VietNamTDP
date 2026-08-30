@@ -1,0 +1,149 @@
+{{Thông tin đơn vị hành chính Việt Nam |Phường
+| tên = Phú Lương
+| hình =Ga Hà Đông.jpg 
+| ghi chú hình =Ga Hà Đông ở phường Phú Lương 
+| vĩ độ = 20.94030418490343
+| kinh độ = 105.76453516599408
+| diện tích = 9,4 km²
+| dân số = 52.024 người
+| thời điểm dân số = 2025
+| mật độ dân số = {{formatnum:{{#expr:floor({{formatnum:52.024| R}}/{{formatnum:9,4| R}})}} }} người/km²
+| vùng = [[Đồng bằng sông Hồng]]
+| thành phố = [[Hà Nội]]
+| thành lập = 
+| trụ sở UBND = Tổ dân phố Quang Lãm<ref>{{Chú thích web |url=https://storage-vnportal.vnpt.vn/gov-hni/6244/VanBan/2025/6/25/TB-729-2025.pdf |title=Thông báo số 729/TB-UBND ngày 25 tháng 6 năm 2025 của Ủy ban nhân dân thành phố Hà Nội về địa điểm trụ sở làm việc của 126 phường, xã sau sắp xếp thuộc phạm vi quản lý của thành phố Hà Nội|access-date=2026-06-15 |archive-date=2026-06-15 |archive-url=https://web.archive.org/web/20260615034519/https://storage-vnportal.vnpt.vn/gov-hni/6244/VanBan/2025/6/25/TB-729-2025.pdf |url-status=dead | website = Cổng Thông tin điện tử Ủy ban nhân dân thành phố Hà Nội}}</ref>
+| mã hành chính =09568<ref>{{Chú thích web |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/19ttg.signed.pdf |title=Quyết định số 19/2025/QĐ-TTg ngày 30 tháng 6 năm 2025 của Thủ tướng Chính phủ về việc Ban hành Bảng danh mục và mã số các đơn vị hành chính Việt Nam |access-date=2026-06-15 |archive-date=2026-06-15 |archive-url=https://web.archive.org/web/20260615034519/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/19ttg.signed.pdf |url-status=dead | website = Cổng Thông tin điện tử Chính phủ}}</ref> 
+| mã bưu chính = 
+|trụ sở Đảng ủy=Số 52 đường Phú Cường|bản đồ 1={{maplink|frame=yes|plain=yes|type=shape|frame-width=280|frame-align=center|stroke-width=3}}|web={{url|phuluong.hanoi.gov.vn}}}}{{other|Phú Lương (định hướng)}}
+'''Phú Lương''' là một [[Phường (Việt Nam)|phường]] thuộc thành phố [[Hà Nội]], [[Việt Nam]].
+
+== Địa lý== 
+Phường Phú Lương có vị trí địa lý:
+*Phía đông giáp xã [[Đại Thanh (xã)|Đại Thanh]] và xã [[Bình Minh, Hà Nội|Bình Minh]] (ranh giới đi đường giao thông quy hoạch – ranh giới cấp huyện cũ)
+*Phía tây giáp phường [[Dương Nội]] và phường [[Yên Nghĩa]] (đi theo ranh giới cấp xã cũ)
+*Phía nam giáp xã [[Bình Minh, Hà Nội|Bình Minh]] (đi theo ranh giới cấp huyện cũ)
+*Phía bắc giáp phường [[Kiến Hưng (phường)|Kiến Hưng]] (đi theo ranh giới cấp xã cũ và đường sắt Hà Đông).<ref>{{Chú thích web |last=Báo Điện tử Chính phủ |date=2025-04-28 |title=Chi tiết dự thảo phương án sắp xếp các phường của Hà Nội |url=https://xaydungchinhsach.chinhphu.vn/chi-tiet-du-thao-phuong-an-sap-xep-cac-phuong-cua-ha-noi-119250421100531902.htm |url-status=dead |archive-url=https://web.archive.org/web/20260316174230/https://xaydungchinhsach.chinhphu.vn/chi-tiet-du-thao-phuong-an-sap-xep-cac-phuong-cua-ha-noi-119250421100531902.htm |archive-date=2026-03-16 |access-date=2026-07-10 |website=Xây dựng chính sách, pháp luật}}</ref><ref>{{Chú thích web |last=Viện nghiên cứu Phát triển kinh tế – xã hội Hà Nội |date=2025-07-02 |title=Phường Phú Lương: Những thông tin chi tiết sau sắp xếp |url=https://hanoionline.vn/phuong-phu-luong-nhung-thong-tin-chi-tiet-sau-sap-xep-344015.htm |url-status=dead |archive-url=https://web.archive.org/web/20260807400809/https://hanoionline.vn/phuong-phu-luong-nhung-thong-tin-chi-tiet-sau-sap-xep-344015.htm |archive-date=2026-08-07 |access-date=2026-08-07 |website=Cơ quan Báo và Phát thanh Truyền hình Hà Nội}}</ref><ref>{{Chú thích web |last=Cơ quan Báo và Phát thanh Truyền hình Hà Nội |date=2025-07-08 |title=Phường Phú Lương: Tất cả thông tin chỉ dẫn bạn cần biết |url=https://hanoionline.vn/phuong-phu-luong-tat-ca-thong-tin-chi-dan-ban-can-biet-345225.htm |url-status=dead |archive-url=https://web.archive.org/web/20260807401509/https://hanoionline.vn/phuong-phu-luong-tat-ca-thong-tin-chi-dan-ban-can-biet-345225.htm |archive-date=2026-08-07 |access-date=2026-08-07}}</ref>
+Phường Phú Lương có diện tích tự nhiên là 9,4 km<sup>2</sup>, quy mô dân số năm 2025 là 52.024 người và mật độ dân số đạt 5.534 người/km<sup>2</sup>.<ref>{{Chú thích web |last=Mai Hữu |date=2026-04-05 |title=Hà Nội: Chi tiết phương án tổng thể sắp xếp đơn vị hành chính cấp xã |url=https://hanoimoi.vn/ha-noi-chi-tiet-phuong-an-tong-the-sap-xep-don-vi-hanh-chinh-cap-xa-700278.html |url-status=bot: unknown |archive-url=https://web.archive.org/web/20250710163328/https://hanoimoi.vn/ha-noi-chi-tiet-phuong-an-tong-the-sap-xep-don-vi-hanh-chinh-cap-xa-700278.html |archive-date=2025-07-10 |access-date=2026-07-08 |website=Cơ quan Báo và Phát thanh, truyền hình Hà Nội}}</ref><ref>Công văn số 2896/BNV-CQĐP ngày 27 tháng 5 năm 2025 của Bộ Nội vụ về việc cung cấp thông tin danh mục dự kiến đơn vị hành chính cấp xã mới.</ref>
+
+== Lịch sử==
+
+=== Trước năm 1976 ===
+
+=== Giai đoạn 1976 – nay ===
+Sau ngày 2 tháng 7 năm 1976, 4 xã: Cự Khê, Hữu Hòa, Phú Lãm và Phú Lương thuộc huyện [[Thanh Oai (huyện)|Thanh Oai]]; xã Kiến Hưng thuộc thị xã [[Hà Đông (quận)|Hà Đông]] của tỉnh [[Hà Sơn Bình]].
+
+Ngày 29 tháng 12 năm 1978, sáp nhập thị xã [[Hà Đông (quận)|Hà Đông]] và xã Hữu Hòa của huyện [[Thanh Oai (huyện)|Thanh Oai]] thuộc tỉnh [[Hà Sơn Bình]] vào thành phố [[Hà Nội]].<ref>Nghị quyết ngày 29 tháng 12 năm 1978 của Quốc hội khóa VI, Kỳ họp thứ 4 phê chuẩn việc phân vạch lại địa giới thành phố Hà Nội, thành phố Hồ Chí Minh, các tỉnh Hà Sơn Bình, Vĩnh Phú, Cao Lạng, Bắc Thái, Quảng Ninh và Đồng Nai.</ref>
+
+Ngày 17 tháng 2 năm 1979, sáp nhập xã Hữu Hòa (của huyện [[Thanh Oai (huyện)|Thanh Oai]]) vào huyện [[Thanh Trì (huyện)|Thanh Trì]].<ref>Quyết định số 49-CP ngày 17 tháng 2 năm 1979 của Hội đồng Chính phủ về việc điều chỉnh địa giới một số xã, thị trấn thuộc các huyện Sóc Sơn, Mê Linh, Hoài Đức, Phúc Thọ và Thanh Trì thuộc thành phố Hà Nội.</ref>
+
+Ngày 12 tháng 8 năm 1991, chia tỉnh [[Hà Sơn Bình]] thành 2 tỉnh, lấy tên là tỉnh [[Hòa Bình (tỉnh)|Hòa Bình]] và tỉnh [[Hà Tây (tỉnh)|Hà Tây]]. Khi đó, 3 xã: Cự Khê, Phú Lãm và Phú Lương thuộc huyện [[Thanh Oai (huyện)|Thanh Oai]]; xã Kiến Hưng thuộc thị xã [[Hà Đông (quận)|Hà Đông]] của tỉnh [[Hà Tây (tỉnh)|Hà Tây]].<ref>Nghị quyết ngày 12 tháng 8 năm 1991 của Quốc hội khóa VIII, Kỳ họp thứ 9 về việc điều chỉnh địa giới hành chính một số tỉnh, thành phố trực thuộc Trung ương.</ref>
+
+Ngày 23 tháng 9 năm 2003, chuyển xã Phú Lương, xã Phú Lãm của huyện [[Thanh Oai (huyện)|Thanh Oai]] về thị xã [[Hà Đông (quận)|Hà Đông]] quản lý.<ref>{{Chú thích web| url = https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/Nghi-dinh-107-2003-ND-CP-dieu-chinh-dia-gioi-hanh-chinh-mo-rong-thi-xa-Ha-Dong-thanh-lap-phuong-mo-rong-thi-tran-Van-Dinh-Ung-Hoa-Ha-Tay-51526.aspx| tựa đề = Nghị định số 107/2003/NĐ-CP ngày 23 tháng 9 năm 2003 của Chính phủ về việc điều chỉnh địa giới hành chính mở rộng thị xã Hà Đông, thành lập phường thuộc thị xã Hà Đông và mở rộng thị trấn Vân Đình huyện Ứng Hòa, tỉnh Hà Tây| tác giả = | họ = | tên = | ngày = | website = | url lưu trữ =https://web.archive.org/web/20260807201510/https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/Nghi-dinh-107-2003-ND-CP-dieu-chinh-dia-gioi-hanh-chinh-mo-rong-thi-xa-Ha-Dong-thanh-lap-phuong-mo-rong-thi-tran-Van-Dinh-Ung-Hoa-Ha-Tay-51526.aspx | ngày lưu trữ =2026-08-07 | ngày truy cập =2026-08-07 |url-status=dead}}</ref>
+
+Ngày 27 tháng 12 năm 2006, thành lập thành phố [[Hà Đông (quận)|Hà Đông]] trên cơ sở toàn bộ diện tích tự nhiên, dân số và các đơn vị hành chính trực thuộc của thị xã [[Hà Đông (quận)|Hà Đông]]. Khi đó, 3 xã: Kiến Hưng, Phú Lãm và Phú Lương thuộc thành phố [[Hà Đông (quận)|Hà Đông]].<ref name="ND155">{{Chú thích web |tựa đề=Nghị định số 155/2006/NĐ-CP ngày 27 tháng 12 năm 2006 của Chính phủ về việc thành lập thành phố Hà Đông thuộc tỉnh Hà Tây |url=https://chinhphu.vn/default.aspx?pageid=27160&docid=18995 |url-status=dead |archive-url=https://web.archive.org/web/20260804201510/https://chinhphu.vn/default.aspx?pageid=27160&docid=18995 |archive-date=2026-08-04 |access-date=2026-08-04 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+
+Ngày 29 tháng 5 năm 2008, hợp nhất tỉnh [[Hà Tây (tỉnh)|Hà Tây]] vào thành phố [[Hà Nội]]. Khi đó, 3 xã: Kiến Hưng, Phú Lãm và Phú Lương thuộc thành phố [[Hà Đông (quận)|Hà Đông]]; xã Cự Khê thuộc huyện [[Thanh Oai (huyện)|Thanh Oai]] của thành phố [[Hà Nội]].<ref>Nghị quyết số 15/2008/QH12 ngày 29 tháng 5 năm 2008 của Quốc hội khóa XII, Kỳ họp thứ 3 về việc điều chỉnh địa giới hành chính thành phố Hà Nội và một số tỉnh có liên quan.</ref>
+
+Ngày 8 tháng 5 năm 2009:
+
+* Thành lập quận [[Hà Đông (quận)|Hà Đông]] trên cơ sở thành phố [[Hà Đông (quận)|Hà Đông]].
+* Thành lập 3 phường: Kiến Hưng, Phú Lãm và Phú Lương trên cơ sở 3 xã có tên tương ứng.<ref name="19/NQ-CP">{{Chú thích web| url = https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Nghi-quyet-19-NQ-CP-xac-lap-dia-gioi-hanh-chinh-88093.aspx| tựa đề = Nghị quyết số 19/NQ-CP ngày 8 tháng 5 năm 2009 của Chính phủ về việc xác lập địa giới hành chính xã Đông Xuân thuộc huyện Quốc Oai; các xã Tiến Xuân, Yên Bình, Yên Trung thuộc huyện Thạch Thất; huyện Mê Linh thuộc thành phố Hà Nội; thành lập quận Hà Đông và các phường trực thuộc; chuyển thành phố Sơn Tây thành thị xã Sơn Tây thuộc thành phố Hà Nội| tác giả = | họ = | tên = | ngày = | website = | url lưu trữ =https://web.archive.org/web/20260808201510/https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Nghi-quyet-19-NQ-CP-xac-lap-dia-gioi-hanh-chinh-88093.aspx | ngày lưu trữ =2026-08-08 | ngày truy cập =2026-08-08 |url-status=dead}}</ref>
+
+Ngày 16 tháng 6 năm 2025:
+
+* Kết thúc hoạt động của đơn vị hành chính cấp huyện trong cả nước.<ref>{{Chú thích web |last= |date= |title=Nghị quyết số 203/2025/QH15 ngày 16 tháng 6 năm 2025 của Quốc hội khóa XV, Kỳ họp thứ 9 về việc sửa đổi, bổ sung một số điều của Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/nq-sua-doi-hien-phap.pdf |url-status=live |archive-url=https://web.archive.org/web/20260613090807/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/nq-sua-doi-hien-phap.pdf |archive-date=2026-06-13 |access-date=2026-06-13 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+* Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của phường Phú Lãm, một phần diện tích tự nhiên, quy mô dân số của phường Kiến Hưng, phường Phú Lương (quận [[Hà Đông (quận)|Hà Đông]]), xã Cự Khê (huyện [[Thanh Oai (huyện)|Thanh Oai]]) và xã Hữu Hòa (huyện [[Thanh Trì (huyện)|Thanh Trì]]) thành phường mới có tên gọi là phường Phú Lương.<ref>{{Chú thích web |title=Nghị quyết số 1656/NQ-UBTVQH15 ngày 16 tháng 6 năm 2025 của Ủy ban Thường vụ Quốc hội về việc sắp xếp các đơn vị hành chính cấp xã của thành phố Hà Nội năm 2025 |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf |url-status=bot: unknown |archive-url=https://web.archive.org/web/20260513110024/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf |archive-date=2026-05-13 |access-date=2026-06-30 |website=Cổng Thông tin điện tử Chính phủ }}</ref>
+* Sau khi sắp xếp, phường Phú Lương được chia thành 32 tổ dân phố.<ref>9 tổ dân phố: 1, 2, 3, 4, 5, 6, 7, 8 và 9 của phường Phú Lãm cũ; tổ dân phố 26 của phường Kiến Hưng cũ; 22 tổ dân phố: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21 và 22 của phường Phú Lương cũ.</ref><ref>{{Chú thích web |title=Thông tư số 10/2022/TT-BTNMT ngày 29 tháng 9 năm 2022 của Bộ Tài nguyên và Môi trường về việc Ban hành Danh mục địa danh dân cư, sơn văn, thủy văn, kinh tế – xã hội phục vụ công tác thành lập bản đồ thành phố Hà Nội |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2022/10/10-btnmt.pdf |url-status=bot: unknown |archive-url=https://web.archive.org/web/20260630082812/https://datafiles.chinhphu.vn/cpp/files/vbpq/2022/10/10-btnmt.pdf |archive-date=2026-06-30 |access-date=2026-06-30 |website=Cổng Thông tin điện tử Chính phủ }}</ref><ref>{{Chú thích web |last=Trang Thông tin điện tử phường Phú Lương – thành phố Hà Nội |date=2026-03-20 |title=Danh sách những người trúng cử đại biểu Hội đồng nhân dân phường Phú Lương khoá II, nhiệm kỳ 2026 – 2031 |url=https://phuluong.hanoi.gov.vn/bau-cu-hdnd-cac-cap-nk-2026-2031/danh-sach-nhung-nguoi-trung-cu-dai-bieu-hdnd-phuong-phu-luong-khoa-ii-nhiem-ky-2026-2031-279226032211095055.htm?gidzl=_8qk1uTPBKluaYe1ZK4jIVIG8mAN5YLBwiOg1i4GAasrmYm7cH1uJUJCUGIS6tmQuymh0M9DvJPzWbWfIG |url-status=dead |archive-url=https://web.archive.org/web/20260808201510/https://phuluong.hanoi.gov.vn/bau-cu-hdnd-cac-cap-nk-2026-2031/danh-sach-nhung-nguoi-trung-cu-dai-bieu-hdnd-phuong-phu-luong-khoa-ii-nhiem-ky-2026-2031-279226032211095055.htm?gidzl=_8qk1uTPBKluaYe1ZK4jIVIG8mAN5YLBwiOg1i4GAasrmYm7cH1uJUJCUGIS6tmQuymh0M9DvJPzWbWfIG |archive-date=2026-08-08 |access-date=2026-08-08 |website=}}</ref>
+Ngày 17 tháng 7 năm 2025, đổi tên 9 tổ dân phố, đánh số từ 1 đến 9 (phường Phú Lãm cũ) lần lượt thành 9 tổ dân phố: 1A, 2A, 3A, 4A, 5A, 6A, 7A, 8A và 9A.<ref>1. Đổi tên Tổ dân phố 1 (phường Phú Lãm cũ) thành Tổ dân phố Số 1A; 2. Đổi tên Tổ dân phố 2 (phường Phú Lãm cũ) thành Tổ dân phố Số 2A; 3. Đổi tên Tổ dân phố 3 (phường Phú Lãm cũ) thành Tổ dân phố Số 3A; 4. Đổi tên Tổ dân phố 4 (phường Phú Lãm cũ) thành Tổ dân phố Số 4A; 5. Đổi tên Tổ dân phố 5 (phường Phú Lãm cũ) thành Tổ dân phố Số 5A; 6. Đổi tên Tổ dân phố 6 (phường Phú Lãm cũ) thành Tổ dân phố Số 6A; 7. Đổi tên Tổ dân phố 7 (phường Phú Lãm cũ) thành Tổ dân phố Số 7A; 8. Đổi tên Tổ dân phố 8 (phường Phú Lãm cũ) thành Tổ dân phố Số 8A; 9. Đổi tên Tổ dân phố 9 (phường Phú Lãm cũ) thành Tổ dân phố Số 9A; 10. Giữ nguyên tên gọi của 22 Tổ dân phố phường Phú Lương cũ và Tổ dân phố 26 phường Kiến Hưng cũ khi điều chỉnh địa giới hành chính về phường Phú Lương.</ref><ref>{{Chú thích web |last= |date= |title=Quyết định số 96/QĐ-UBND ngày 25 tháng 7 năm 2025 của Ủy ban nhân dân phường Phú Lương về việc đổi tên tổ dân phố trên địa bàn phường Phú Lương |url=https://web.facebook.com/photo/?fbid=1045564351080049&set=gm.3733293720136384&idorvanity=1315732825225831 |url-status=dead |archive-url=https://web.archive.org/web/20260808201510/https://web.facebook.com/photo/?fbid=1045564351080049&set=gm.3733293720136384&idorvanity=1315732825225831 |archive-date=2026-08-08 |access-date=2026-08-08 |website=Phú Lương News – thành phố Hà Nội}}</ref>
+
+Ngày 24 tháng 12 năm 2025, xác định phần lớn của phường Phú Lương là [[Đô thị Việt Nam|đô thị loại II]].<ref>Chuyển tiếp từ 3 phường: Kiến Hưng, Phú Lãm và Phú Lương thuộc quận Hà Đông.</ref><ref>{{Chú thích web |title=Nghị quyết số 111/2025/UBTVQH15 ngày 24 tháng 12 năm 2025 của Ủy ban Thường vụ Quốc hội về phân loại đô thị |url=https://cdn.nhandan.vn/files/f4a4abf7f9a0ba4a91744616546d850872b76917f90d5a74cc9eebef1369fb6f/111.pdf |url-status=dead |archive-url=https://web.archive.org/web/20260430074852/https://cdn.nhandan.vn/files/f4a4abf7f9a0ba4a91744616546d850872b76917f90d5a74cc9eebef1369fb6f/111.pdf |archive-date=2026-04-30 |access-date=2026-07-12 |website=Báo Nhân dân }}</ref>
+
+Ngày 24 tháng 6 năm 2026, thành lập 12 tổ dân phố mới: Ba La, Văn Nội 1, 2, Nhân Trạch 1, 2, Trinh Lương, Thượng Mạo, Động Lãm, Bắc Lãm 8, 9, Thanh Lãm 2 và Quang Lãm; đổi tên 5 tổ dân phố: 1A, 3A, 7A, 8A và 26 lần lượt thành 5 tổ dân phố: Thanh Lãm 1, Phú Lãm, Huyền Kỳ 1, 2 và Thanh Hà.<ref name=":1">1. Tổ dân phố Ba La: Thành lập trên cơ sở toàn bộ tổ dân phố 1 và tổ dân phố 9A; 2. Tổ dân phố Văn Nội 1: Thành lập trên cơ sở toàn bộ tổ dân phố 2 và tổ dân phố 3; 3. Tổ dân phố Văn Nội 2: Thành lập trên cơ sở toàn bộ tổ dân phố 4 và tổ dân phố 5; 4. Tổ dân phố Nhân Trạch 1: Thành lập trên cơ sở toàn bộ tổ dân phố 6 và tổ dân phố 7; 5. Tổ dân phố Nhân Trạch 2: Thành lập trên cơ sở toàn bộ tổ dân phố 8 và tổ dân phố 9; 6. Tổ dân phố Trinh Lương: Thành lập trên cơ sở toàn bộ tổ dân phố 10, tổ dân phố 11 và tổ dân phố 12; 7. Tổ dân phố Thượng Mạo: Thành lập trên cơ sở toàn bộ tổ dân phố 13 và tổ dân phố 14; 8. Tổ dân phố Động Lãm: Thành lập trên cơ sở toàn bộ tổ dân phố 15 và tổ dân phố 16; 9. Tổ dân phố Bắc Lãm 8: Thành lập trên cơ sở toàn bộ tổ dân phố 17 và tổ dân phố 18, tổ dân phố 19; 10. Tổ dân phố Bắc Lãm 9: Thành lập trên cơ sở toàn bộ tổ dân phố 20, tổ dân phố 21 và tổ dân phố 22; 11. Tổ dân phố Thanh Lãm 1: Thành lập trên cơ sở toàn bộ tổ dân phố 1A; 12. Tổ dân phố Thanh Lãm 2: Thành lập trên cơ sở toàn bộ tổ dân phố 2A và một phần tổ dân phố 6A; 13. Tổ dân phố Phú Lãm: Thành lập trên cơ sở toàn bộ tổ dân phố 3A; 14. Tổ dân phố Quang Lãm: Thành lập trên cơ sở toàn bộ tổ dân phố 4A, tổ dân phố 5A và một phần tổ dân phố 6A; 15. Tổ dân phố Huyền Kỳ 1: Thành lập trên cơ sở toàn bộ tổ dân phố 7A; 16. Tổ dân phố Huyền Kỳ 2: Thành lập trên cơ sở toàn bộ tổ dân phố 8A; 17. Tổ dân phố Thanh Hà: Thành lập trên cơ sở toàn bộ tổ dân phố 26.</ref><ref name=":0">{{Chú thích web |last= |date= |title=Thông báo số 518/TB-UBND ngày 27 tháng 6 năm 2026 của Ủy ban nhân dân phường Phú Lương về việc công bố tổ dân phố sau sắp xếp trên địa bàn phường Phú Lương |url=https://web.facebook.com/groups/1315732825225831/permalink/4128665463932539/?rdid=G8PDa2BDSCNXvKtn# |url-status=dead |archive-url=https://web.archive.org/web/20260808201510/https://web.facebook.com/groups/1315732825225831/permalink/4128665463932539/?rdid=G8PDa2BDSCNXvKtn# |archive-date=2026-08-08 |access-date=2026-08-08 |website=Phú Lương News – thành phố Hà Nội}}</ref><ref name=":2">{{Chú thích web |last=Hồng Vân |date=2026-06-23 |title=Phường Phú Lương dự kiến giảm từ 32 xuống còn 17 tổ dân phố, tạo nền tảng cho quản trị hiện đại và chuyển đổi số |url=https://phuluong.hanoi.gov.vn/an-toan-thuc-pham-68598/phuong-phu-luong-giam-tu-32-xuong-con-17-to-dan-pho-tao-nen-tang-cho-quan-tri-hien-dai-va-chuyen-doi-so-2792260623093406513.htm?gidzl=aWq6MpGMl46M4W9TFWwyGvWL2bucNBL1XaC3Md1QkaVPHmLRA5heHuX9K5WjKUmGZqa2NMAGAeyhCHUuGm |url-status=dead |archive-url=https://web.archive.org/web/20260808201510/https://phuluong.hanoi.gov.vn/an-toan-thuc-pham-68598/phuong-phu-luong-giam-tu-32-xuong-con-17-to-dan-pho-tao-nen-tang-cho-quan-tri-hien-dai-va-chuyen-doi-so-2792260623093406513.htm?gidzl=aWq6MpGMl46M4W9TFWwyGvWL2bucNBL1XaC3Md1QkaVPHmLRA5heHuX9K5WjKUmGZqa2NMAGAeyhCHUuGm |archive-date=2026-08-08 |access-date=2026-08-08 |website=Trang Thông tin điện tử phường Phú Lương – thành phố Hà Nội}}</ref>
+
+==Hành chính==
+Phường Phú Lương được chia thành 17 tổ dân phố: Ba La, Bắc Lãm 8, 9, Động Lãm, Huyền Kỳ 1, 2, Nhân Trạch 1, 2, Phú Lãm, Quang Lãm, Thanh Hà, Thanh Lãm 1, 2, Thượng Mạo, Trinh Lương, Văn Nội 1 và 2.<ref name=":0" /><ref name=":2" />
+{| class="wikitable sortable" align="center" width="100%" cellspacing="6" cellpadding="0" style="background: #f9f9f9; border: 1px #aaa solid; margin-top: 16px"
+! colspan="4" style="background: #E6E6FA; font-size: 95%;" |Danh sách các tổ dân phố thuộc phường Phú Lương<ref name=":0" /><ref name=":2" />
+|-
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Ba La
+|1.365
+|-
+| align="left" |Bắc Lãm 8
+|1.016
+|-
+| align="left" |Bắc Lãm 9
+|1.212
+|-
+| align="left" |Động Lãm
+|751
+|-
+| align="left" |Huyền Kỳ 1
+|1.031
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Huyền Kỳ 2
+|1.013
+|-
+| align="left" |Nhân Trạch 1
+|869
+|-
+| align="left" |Nhân Trạch 2
+|803
+|-
+| align="left" |Phú Lãm
+|2.100
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Quang Lãm
+|1.383
+|-
+| align="left" |Thanh Hà
+|716
+|-
+| align="left" |Thanh Lãm 1
+|745
+|-
+| align="left" |Thanh Lãm 2
+|1.154
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Thượng Mạo
+|833
+|-
+| align="left" |Trinh Lương
+|1.419
+|-
+| align="left" |Văn Nội 1
+|890
+|-
+| align="left" |Văn Nội 2
+|1.028
+|}
+|}
+
+== Danh nhân ==
+* [[Nguyễn Đăng Tiến (chính khách)]]
+
+==Chú thích== 
+{{tham khảo}}
+
+== Tham khảo ==
+{{sơ khai Hà Nội}}
+{{Đơn vị hành chính thuộc thành phố Hà Nội}}

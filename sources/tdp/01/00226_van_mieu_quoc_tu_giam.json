@@ -1,0 +1,180 @@
+{
+  "ward_code": "00226",
+  "ward_name": "Văn Miếu - Quốc Tử Giám",
+  "province_code": "01",
+  "resolution": "",
+  "arrangement": "2026_07",
+  "effective_date": "2026-07-01",
+  "verified": "unverified",
+  "extraction": {
+    "source": "vi.wikipedia.org",
+    "title": "(cache)",
+    "mode": "numbered"
+  },
+  "sources": [
+    {
+      "key": "wiki-00226-1",
+      "title": "Phường Văn Miếu – Quốc Tử Giám công khai dự thảo phương án sắp xếp tổ dân phố năm 2026",
+      "url": "https://vanmieuquoctugiam.hanoi.gov.vn/thong-tin-cong-khai/phuong-van-mieu-quoc-tu-giam-cong-khai-du-thao-phuong-an-sap-xep-to-dan-pho-nam-2026-2813260612155433657.htm?gidzl=wjsg9dq-u43kmguWToRfH-R3fY5fTxf2-9oWB6ejx1xvnwCjQYRgIVFCf2SmVBb9yCtt9sMXqdzNU3_aGW",
+      "date": "2026-06-12",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-00226-2",
+      "title": "Danh sách chính thức những người ứng cử đại biểu Hội đồng nhân dân phường Văn Miếu – Quốc Tử Giám khóa II",
+      "url": "https://vanmieuquoctugiam.hanoi.gov.vn/tin-tuc-bau-cu/cong-bo-danh-sach-chinh-thuc-08-nguoi-ung-cu-dai-bieu-hdnd-phuong-van-mieu-quoc-tu-giam-khoa-ii-nhiem-ky-20262031-don-vi-bau-cu-so-1-2813260302140724567.htm?gidzl=7uIWE63k3saRcwG-QlO6RXEQh3vqfrLg3SMgCtVz0pOCdgaoT_O5OGQLhZWjh5PX1PJzE6L9MvfWPUyBQm",
+      "date": "2026-02-12",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-00226-3",
+      "title": "Hội đồng nhân dân phường tổ chức Kỳ họp thứ ba – Kỳ họp chuyên đề: Xem xét, thảo luận, thông qua nghị quyết về đổi tên tổ dân phố trên địa bàn phường Văn Miếu – Quốc Tử Giám",
+      "url": "https://web.facebook.com/phuongvanmieuquoctugiam/posts/pfbid028q3JhbnprFET3oDUQ5ppMGXL5FfsZHo18yDdMBMXYTidWjsSn5bdXVwsBfJXkEejl",
+      "date": "2025-08-08",
+      "type": "wikipedia-ref"
+    }
+  ],
+  "note": "Trích tự động từ Wikipedia tiếng Việt (mode=numbered). Cần đối chiếu nghị quyết HĐND phường/xã.",
+  "tdp": [
+    {
+      "name": "Tổ dân phố 1",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Tổ dân phố 2",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Tổ dân phố 3",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Tổ dân phố 4",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Tổ dân phố 5",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Tổ dân phố 6",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Tổ dân phố 7",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Tổ dân phố 8",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Tổ dân phố 9",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Tổ dân phố 10",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Tổ dân phố 11",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Tổ dân phố 12",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Tổ dân phố 13",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Tổ dân phố 14",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Tổ dân phố 15",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Tổ dân phố 16",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Tổ dân phố 17",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Tổ dân phố 18",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Tổ dân phố 19",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Tổ dân phố 20",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Tổ dân phố 21",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Tổ dân phố 22",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Tổ dân phố 23",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Tổ dân phố 24",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Tổ dân phố 25",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Tổ dân phố 26",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Tổ dân phố 27",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Tổ dân phố 28",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Tổ dân phố 29",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Tổ dân phố 30",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Tổ dân phố 31",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Tổ dân phố 32",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Tổ dân phố 33",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Tổ dân phố 34",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Tổ dân phố 35",
+      "type": "tổ dân phố"
+    }
+  ]
+}

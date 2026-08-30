@@ -1,0 +1,98 @@
+{{Thông tin đơn vị hành chính Việt Nam|xã
+| tên = Cao Phong
+| hình =Newone - trụ sở HĐND, UBND huyện Cao Phong.jpg 
+| ghi chú hình =Trụ sở Ủy ban nhân dân xã Cao Phong 
+| vĩ độ = 20.718137017716657
+| kinh độ = 105.32541051694515
+| diện tích = 77,76 km²
+| dân số = 20.372 người
+| thời điểm dân số = 2025
+| mật độ dân số = {{formatnum:{{#expr:floor({{formatnum:20.372| R}}/{{formatnum:77,76| R}})}} }} người/km²
+| vùng = [[Đông Bắc Bộ]]
+| tỉnh = [[Phú Thọ]]
+| thành lập = 16 tháng 6 năm 2025<ref>Nghị quyết số 1676/NQ-UBTVQH15</ref>
+| trụ sở UBND =Thôn 2 
+| mã hành chính = 05089<ref>{{Chú thích web |url=https://danhmuchanhchinh.gso.gov.vn/ |title=Tổng cục Thống kê |access-date=2022-04-10 |archive-date=2021-01-10 |archive-url=https://web.archive.org/web/20210110034519/https://www.gso.gov.vn/phuong-phap-thong-ke/danh-muc/don-vi-hanh-chinh/ |url-status=dead }}</ref>
+| mã bưu chính =36506 
+|web={{url|caophong.phutho.gov.vn}}
+|loại đô thị=|năm công nhận=}}
+{{other|Cao Phong (định hướng)}}
+'''Cao Phong''' là một xã thuộc tỉnh [[Phú Thọ]], [[Việt Nam]].
+==Địa lý==
+Xã Cao Phong nằm ở phía nam tỉnh [[Phú Thọ]], có vị trí địa lý<ref>{{Chú thích web |title=Đơn vị hành chính Việt Nam |url=https://sapnhap.bando.com.vn/ |access-date=2026-04-05 |website=sapnhap.bando.com.vn}}</ref>:
+*Phía đông giáp xã [[Mường Động]].
+*Phía tây giáp xã [[Thung Nai]].
+*Phía nam giáp xã [[Mường Thàng]].
+*Phía bắc giáp phường [[Thống Nhất, Phú Thọ|Thống Nhất]].
+
+Xã có diện tích 77,76&nbsp;km², dân số năm 2025 là 20.372 người, mật độ dân số đạt 262 người/km².<ref>{{Chú thích web |title=Xã Cao Phong, Tỉnh Phú Thọ mới sáp nhập 2026 |url=https://tinhthanhvn.com/province/phu-tho/xa-cao-phong |access-date=2026-04-05 |website=Tỉnh Thành Việt Nam |language=vi}}</ref>
+
+==Hành chính==
+Xã Cao Phong được chia thành 20 thôn: 1, 2, 3, 4, 5, 6, 7, Bưng, Cạn Hạ, Cạn Thượng, Chằng, Hợp Tiến, Mừng, Nhõi, Quáng, Rú, Thu Phong, Trang Trên, Trang Trong, Vỏ.<ref name=":2">{{Chú thích web |last=Cổng TTĐT xã Cao Phong |date=7/17/2026 |title=Sáp nhập thôn mới nhất ở Phú Thọ, xã Cao Phong (địa phận tỉnh Hòa Bình cũ), bỏ chữ xóm, mang tên chữ thôn |url=https://danviet.vn/sap-nhap-thon-xom-moi-nhat-o-phu-tho-xa-cao-phong-dia-phan-tinh-hoa-binh-cu-bo-chu-xom-mang-ten-chu-thon-d1444172.html |url-status=live |access-date=7/17/2026 |website=Báo Dân Việt}}</ref><ref name=":3">{{Chú thích web |title=Xã Cao Phong triển khai đề án sắp xếp, tổ chức lại và đặt tên các xóm, khu dân cư |url=https://caophong.phutho.gov.vn/index.php/tin-t-c-s-ki-n/chinh-tr/3472-dat-ten-xom |access-date=7/17/2026 |website=caophong.phutho.gov.vn}}</ref><ref name=":4">{{Chú thích web |title=Nghị quyết về việc sắp xếp, tổ chức lại, đặt tên xóm, khu dân cư trên địa bàn xã Cao Phong |url=https://caophong.phutho.gov.vn/index.php/van-ban/3485-nq24 |access-date=7/17/2026 |website=caophong.phutho.gov.vn}}</ref>
+
+==Lịch sử==
+Trước kia, địa bàn xã Cao Phong ngày nay là địa bàn của thị trấn Cao Phong, xã Hợp Phong và xã Thu Phong thuộc huyện [[Cao Phong (huyện)|Cao Phong]], tỉnh [[Hòa Bình (tỉnh)|Hòa Bình]] cũ.
+
+Trước năm [[1945]], địa bàn xã Cao Phong thuộc tổng Cao Phong, châu Kỳ Sơn.<ref name=":0" /> Sau [[Cách mạng Tháng Tám]], xã Cao Phong thuộc huyện [[Kỳ Sơn (huyện Hòa Bình)|Kỳ Sơn]].
+
+[[Tháng 8]] năm [[1954]], Ủy ban kháng chiến hành chính Liên khu III quyết định chia xã Cao Phong thành 8 xã: Dũng Phong, Nam Phong, Tân Phong, Tây Phong, Thu Phong, Xuân Phong, Đông Phong và Bắc Phong.<ref name=":0" />
+
+Năm [[1994]], thị trấn Cao Phong được thành lập trên cơ sở giải thể thị trấn Nông trường Cao Phong cũ, ban đầu thuộc huyện [[Kỳ Sơn (huyện Hòa Bình)|Kỳ Sơn]].<ref>Nghị định số 80/CP ngày 1/8/1994</ref>
+
+Năm [[2001]], huyện [[Cao Phong (huyện)|Cao Phong]] được thành lập trên cơ sở một phần diện tích và dân số của huyện Kỳ Sơn. Thị trấn Cao Phong trở thành thị trấn huyện lỵ của huyện Cao Phong.<ref>Nghị định số 95/2001/NĐ-CP ngày 12 tháng 12 năm 2001</ref>
+
+Ngày [[17 tháng 12]] năm [[2019]], [[Ủy ban Thường vụ Quốc hội]] ban hành Nghị quyết số 830/NQ-UBTVQH14 về việc sắp xếp các đơn vị hành chính cấp huyện, cấp xã thuộc tỉnh [[Hòa Bình (tỉnh)|Hòa Bình]] (nghị quyết có hiệu lực từ ngày [[1 tháng 1]] năm [[2020]]).<ref name="NQ830" /> Theo đó, sáp nhập toàn bộ diện tích và dân số của ba xã Đông Phong, Tân Phong và Xuân Phong thành xã Hợp Phong.
+
+Ngày [[12 tháng 6]] năm [[2025]], [[Quốc hội Việt Nam|Quốc hội]] ban hành Nghị quyết số 202/2025/QH15 về việc sắp xếp đơn vị hành chính cấp tỉnh (nghị quyết có hiệu lực từ ngày [[12 tháng 6]] năm [[2025]]).<ref>{{Chú thích web |last=xaydungchinhsach.chinhphu.vn |date=2025-07-16 |title=TOÀN VĂN: Nghị quyết số 202/2025/QH15 về sắp xếp đơn vị hành chính cấp tỉnh |url=https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-202-2025-qh15-ve-sap-xep-don-vi-hanh-chinh-cap-tinh-119250612174148722.htm |url-status=live |archive-url=http://web.archive.org/web/20260705025431/https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-202-2025-qh15-ve-sap-xep-don-vi-hanh-chinh-cap-tinh-119250612174148722.htm |archive-date=2026-07-05 |access-date=2026-07-25 |website=Báo Điện tử Chính phủ |language=vi}}</ref> Theo đó, sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của tỉnh [[Vĩnh Phúc (tỉnh)|Vĩnh Phúc]], tỉnh [[Hòa Bình (tỉnh)|Hòa Bình]] và tỉnh [[Phú Thọ]] thành tỉnh mới có tên gọi là tỉnh '''Phú Thọ'''.
+
+Ngày [[16 tháng 6]] năm [[2025]]:
+
+* Quốc hội ban hành Nghị quyết số 203/2025/QH15 về việc sửa đổi, bổ sung một số điều của Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam (nghị quyết có hiệu lực từ ngày [[16 tháng 6]] năm [[2025]]).<ref>{{Chú thích web |last=xaydungchinhsach.chinhphu.vn |date=2025-06-28 |title=NGHỊ QUYẾT 203/2025/QH15 SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA HIẾN PHÁP NƯỚC CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM |url=https://xaydungchinhsach.chinhphu.vn/nghi-quyet-203-2025-qh15-sua-doi-bo-sung-mot-so-dieu-cua-hien-phap-nuoc-cong-hoa-xa-hoi-chu-nghia-viet-nam-119250616181735552.htm |url-status=live |archive-url=http://web.archive.org/web/20260715200606/https://xaydungchinhsach.chinhphu.vn/nghi-quyet-203-2025-qh15-sua-doi-bo-sung-mot-so-dieu-cua-hien-phap-nuoc-cong-hoa-xa-hoi-chu-nghia-viet-nam-119250616181735552.htm |archive-date=2026-07-15 |access-date=2026-07-15 |website=Báo Điện tử Chính phủ |language=vi}}</ref> Theo đó, kết thúc hoạt động của đơn vị hành chính cấp huyện trong cả nước từ ngày 1 tháng 7 năm 2025.
+* [[Ủy ban Thường vụ Quốc hội]] ban hành Nghị quyết số 1676/NQ-UBTVQH15 về việc sắp xếp đơn vị hành chính cấp xã của tỉnh [[Phú Thọ]] năm 2025 (nghị quyết có hiệu lực từ ngày [[16 tháng 6]] năm [[2025]]).<ref>{{Chú thích web |last=xaydungchinhsach.chinhphu.vn |date=2025-06-20 |title=Nghị quyết số 1676/NQ-UBTVQH15 sắp xếp các ĐVHC cấp xã của tỉnh Phú Thọ năm 2025 |url=https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-1676-nq-ubtvqh15-sap-xep-cac-dvhc-cap-xa-cua-tinh-phu-tho-nam-2025-119250616204317326.htm |url-status=live |archive-url=http://web.archive.org/web/20260725082021/https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-1676-nq-ubtvqh15-sap-xep-cac-dvhc-cap-xa-cua-tinh-phu-tho-nam-2025-119250616204317326.htm |archive-date=2026-07-25 |access-date=2026-07-27 |website=Báo Điện tử Chính phủ |language=vi}}</ref> Theo đó, sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của thị trấn Cao Phong, xã Hợp Phong và xã Thu Phong thành xã mới có tên gọi là '''xã Cao Phong'''.
+
+Sau khi thực hiện sắp xếp, xã Cao Phong được chia thành 31 khu - xóm, 7 khu: 1, 2, 3, 4, 5, 6, 7 và 24 xóm: Bưng 1, Bưng 2, Cạn Hạ, Cạn Thượng, Chằng Ngoài, Chằng Trong, Đỉnh Cun, Đúng Thá, Mới, Mừng, Nam Sơn 2, Nhõi 3, Nhõi Trong, Quáng Giữa, Quáng Ngoài, Quáng Trong, Quyền, Rú Giữa, Rú Mới, Thiều Nau, Trang Giữa, Trang Trên, Trang Trong, Vỏ.<ref name=":1">{{Chú thích web |last=Bộ Dân tộc và Tôn giáo |date=2026-01-29 |title=Danh sách Thôn vùng đồng bào dân tộc thiểu số và miền núi, thôn đặc biệt khó khăn giai đoạn 2026 - 2030 trên địa bàn tỉnh Phú Thọ |url=http://files.ubdt.gov.vn/files/ecm/source_files/2026/02/05/11252411_4.%20Ph%C3%BA%20Th%E1%BB%8D%201%20(th%C3%B4n).signed_26-02-05.pdf |url-status=live |archive-url=https://web.archive.org/web/20260417090807/http://files.ubdt.gov.vn/files/ecm/source_files/2026/02/05/11252411_4.%20Ph%C3%BA%20Th%E1%BB%8D%201%20(th%C3%B4n).signed_26-02-05.pdf |archive-date=2026-04-17 |access-date=2026-04-17 |website=Cổng Thông tin điện tử Bộ Dân tộc và Tôn giáo}}</ref><ref>{{Chú thích web |last=Trang Thông tin điện tử Ủy ban nhân dân xã Cao Phong - tỉnh Phú Thọ |date=2026-03-15 |title=Danh sách Khu vực bỏ phiếu đại biểu Quốc hội Khóa XVI và đại biểu Hội đồng nhân dân các cấp, nhiệm kỳ 2026-2031 |url=https://caophong.phutho.gov.vn/index.php/bau-cu/3391-khu-vuc-bo-phieu |url-status=live |archive-url=https://web.archive.org/web/20260419090807/https://caophong.phutho.gov.vn/index.php/bau-cu/3391-khu-vuc-bo-phieu |archive-date=2026-04-19 |access-date=2026-04-19}}</ref>
+
+Ngày [[24 tháng 12]] năm [[2025]], Ủy ban Thường vụ Quốc hội ban hành Nghị quyết số 111/2025/UBTVQH15 về phân loại đô thị (nghị quyết có hiệu lực từ ngày [[1 tháng 1]] năm [[2026]]).<ref>{{Chú thích web |last=xaydungchinhsach.chinhphu.vn|date=2026-01-21|title=Nghị quyết số 111/2025/UBTVQH15 về phân loại đô thị|url=https://xaydungchinhsach.chinhphu.vn/nghi-quyet-so-111-2025-ubtvqh15-ve-phan-loai-do-thi-119260101170432239.htm|access-date=2026-07-23|website=xaydungchinhsach.chinhphu.vn|language=vi}}</ref> Theo đó, đô thị loại IV, loại V, thị xã và thị trấn trước khi sắp xếp chưa được công nhận loại đô thị được xác định là đô thị loại III. Một phần xã Cao Phong được xác định là đô thị loại III (từ đô thị loại V của thị trấn Cao Phong cũ).
+
+Ngày [[25 tháng 6]] năm [[2026]], Hội đồng nhân dân xã Cao Phong ban hành Nghị quyết số 24/NQ-HĐND về việc sắp xếp, tổ chức lại, đặt tên xóm, khu dân cư trên địa bàn xã Cao Phong.<ref>{{Chú thích web |date=2026-06-25 |title=Nghị quyết số 24/NQ-HĐND về việc sắp xếp, tổ chức lại, đặt tên xóm, khu dân cư trên địa bàn xã Cao Phong |url=https://caophong.phutho.gov.vn/images/H%C4%90ND/NQ24sapxepthon.pdf |url-status=live |access-date=2026-07-17 |website=caophong.phutho.gov.vn|last=Hội đồng nhân dân xã Cao Phong}}</ref> Theo đó:
+
+* Sắp xếp toàn bộ diện tích tự nhiên, số hộ dân của hai xóm Đỉnh Cun và Nam Sơn 2 thành thôn mới có tên gọi là thôn Thu Phong.
+* Sắp xếp toàn bộ diện tích tự nhiên, số hộ dân của hai xóm Vỏ và Mới thành thôn mới có tên gọi là thôn Vỏ.
+* Sắp xếp toàn bộ diện tích tự nhiên, số hộ dân của hai xóm Thiều Nau và Đúng Thá thành thôn mới có tên gọi là thôn Hợp Tiến.
+* Sắp xếp toàn bộ diện tích tự nhiên, số hộ dân của hai xóm Rú Giũa và Rú Mới thành thôn mới có tên gọi là thôn Rú.
+* Sắp xếp toàn bộ diện tích tự nhiên, số hộ dân của hai xóm Nhõi 3 và Nhõi Trong thành thôn mới có tên gọi là thôn Nhõi.
+* Sắp xếp toàn bộ diện tích tự nhiên, số hộ dân của hai xóm Chằng Trong và Chằng Ngoài thành thôn mới có tên gọi là thôn Chằng.
+* Sắp xếp toàn bộ diện tích tự nhiên, số hộ dân của ba xóm Quáng Ngoài, Quáng Giữa và Quáng Trong thành thôn mới có tên gọi là thôn Quáng.
+* Sắp xếp toàn bộ diện tích tự nhiên, số hộ dân của hai xóm Quyền và Cạn Hạ thành thôn mới có tên gọi là thôn Cạn Hạ.
+* Sắp xếp 124 hộ của xóm Bưng 1 và toàn bộ diện tích tự nhiên, số hộ dân của xóm Bưng 2 thành thôn mới có tên gọi là thôn Bưng.
+* Sắp xếp 87 hộ của xóm Trang Giữa với toàn bộ diện tích tự nhiên, số hộ dân của xóm Trang Trong thành thôn mới có tên gọi là thôn Trang Trong.
+* Sắp xếp 70 hộ còn lại của xóm Trang Giữa và toàn bộ diện tích tự nhiên, số hộ dân của xóm Trang Trên thành thôn mới có tên gọi là thôn Trang Trên.
+* Sắp xếp 9 hộ còn lại của xóm Bưng 1 và toàn bộ diện tích tự nhiên, số hộ dân của khu 2 thành thôn mới có tên gọi là thôn 2.
+* Chuyển hai xóm Mừng, Cạn Thượng và các khu 1, 3, 4, 5, 6, 7 thành các thôn tương ứng.
+
+Sau khi sắp xếp, tổ chức lại các xóm, khu dân cư, xã Cao Phong được chia thành 20 thôn: 1, 2, 3, 4, 5, 6, 7, Bưng, Cạn Hạ, Cạn Thượng, Chằng, Hợp Tiến, Mừng, Nhõi, Quáng, Rú, Thu Phong, Trang Trên, Trang Trong, Vỏ.<ref name=":2" /><ref name=":3" /><ref name=":4" /><!-- 
+==Lịch sử==
+Trước năm 1945, địa bàn xã Hợp Phong hiện nay là một phần xã Cao Phong thuộc tổng Cao Phong, châu Kỳ Sơn.<ref name=":0">{{chú thích sách|tác giả=|tựa đề=Địa chí Hòa Bình|nhà xuất bản=Nhà xuất bản Chính trị quốc gia|year=2005|nơi=|trang=834|url=https://www.google.com/books/edition/Địa_ch%C3%AD_Hòa_Bình/jUZRAQAAMAAJ|doi=|id=|isbn=}}</ref> Sau [[Cách mạng Tháng Tám]], xã Cao Phong thuộc huyện [[Kỳ Sơn (huyện Hòa Bình)|Kỳ Sơn]].
+
+[[Tháng 8]] năm [[1954]], Ủy ban kháng chiến hành chính Liên khu III quyết định chia xã Cao Phong thành 8 xã: Dũng Phong, Nam Phong, Tân Phong, Tây Phong, Thu Phong, Xuân Phong, Đông Phong và Bắc Phong.<ref name=":0" />
+
+Ngày [[12 tháng 12]] năm [[2001]], huyện Cao Phong được thành lập,<ref>{{Chú thích web|url=https://thuvienphapluat.vn/van-ban/bat-dong-san/Nghi-dinh-95-2001-ND-CP-chia-huyen-Ky-Son-tinh-Hoa-Binh-thanh-hai-huyen-Cao-Phong-va-Ky-Son-7380.aspx|tựa đề=Nghị định 95/2001/NĐ-CP về việc chia huyện Kỳ Sơn, tỉnh Hòa Bình thành hai huyện Cao Phong và Kỳ Sơn|tác giả=|họ=|tên=|ngày=|website=|url lưu trữ=|ngày lưu trữ=|ngày truy cập=}}</ref> các xã Đông Phong, Tân Phong và Xuân Phong chuyển sang trực thuộc huyện Cao Phong.
+
+Đến năm 2018, xã Đông Phong có diện tích 9,76&nbsp;km², dân số là 2.272 người, mật độ dân số đạt 233 người/km²; xã Tân Phong có diện tích 8,58&nbsp;km², dân số là 2.612 người, mật độ dân số đạt 304 người/km²; xã Xuân Phong có diện tích 30,78&nbsp;km², dân số là 3.479 người, mật độ dân số đạt 113 người/km².
+
+Ngày [[17 tháng 12]] năm [[2019]], Ủy ban Thường vụ Quốc hội ban hành Nghị quyết số 830/NQ-UBTVQH14 về việc sắp xếp các đơn vị hành chính cấp huyện, cấp xã thuộc tỉnh Hòa Bình.<ref name=NQ830>{{Chú thích web|url=https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/Nghi-quyet-830-NQ-UBTVQH14-2019-sap-xep-don-vi-hanh-chinh-cap-huyen-xa-thuoc-tinh-Hoa-Binh-432100.aspx|tựa đề=Nghị quyết số 830/NQ-UBTVQH14 năm 2019 về việc sắp xếp các đơn vị hành chính cấp huyện, cấp xã thuộc tỉnh Hòa Bình|tác giả=|họ=|tên=|ngày=|website=|url lưu trữ=|ngày lưu trữ=|ngày truy cập=}}</ref> Theo đó, sáp nhập toàn bộ diện tích và dân số của ba xã Đông Phong, Tân Phong và Xuân Phong thành xã Hợp Phong. 
+-->
+
+==Văn hóa==
+Xã Cao Phong là vùng đất gắn với sự nghiệp giáng thế và cứu dân của [[Cô Đôi Thượng Ngàn]] - là một vị tiên nữ nổi tiếng xinh đẹp trong truyền thuyết tín ngưỡng thờ Mẫu Việt Nam. Cô Đôi Thượng Ngàn được thờ ở nhiều di tích đền và phủ ở phía Bắc Việt Nam và được ca ngợi trong những ca khúc hát văn nổi tiếng mang tên "Cô Đôi Thượng Ngàn". Những dấu tích hiện nay còn ở đền Thượng Bồng Lai.
+
+===Đền Bồng Lai===
+Đền Bồng Lai ở trong động Thiên Thai, khu vực núi Đầu Rồng, xã Cao Phong, tỉnh [[Phú Thọ]]. Tương truyền, nơi đây là vùng đất mà vị quan họ Hà, cha của [[Cô Đôi Thượng Ngàn]] đã đưa gia đình di chuyển từ [[Nho Quan (huyện)|Nho Quan]] - [[Ninh Bình]] đến để lập nghiệp.
+
+Đền Bồng Lai Cao Phong cổ đã có từ lâu đời, trải qua thăng trầm của thời gian chỉ còn phế tích tại khu đất nơi xưa. Đây là ngôi đền mới được xây dựng lại năm 2013 - 2014. Tương truyền đây cũng chính là nơi hóa của Cô Đôi Thượng Ngàn. Đền còn giữ được hai đạo sắc phong của các đời vua. Đây là ngôi đền được tỉnh [[Hòa Bình (tỉnh)|Hòa Bình]] (nay là [[Phú Thọ]]) quan tâm đặc biệt.
+
+==Chú thích==
+{{tham khảo|30em}}
+==Tham khảo==
+{{Sơ khai Phú Thọ}}
+{{Đơn vị hành chính thuộc tỉnh Phú Thọ}}

@@ -1,0 +1,96 @@
+{
+  "ward_code": "04891",
+  "ward_name": "Tiền Phong",
+  "province_code": "25",
+  "resolution": "",
+  "arrangement": "2026_07",
+  "effective_date": "2026-07-01",
+  "verified": "unverified",
+  "extraction": {
+    "source": "vi.wikipedia.org",
+    "title": "Tiền Phong, Phú Thọ",
+    "mode": "narrative"
+  },
+  "sources": [
+    {
+      "key": "wiki-04891-1",
+      "title": "Nghị quyết số 3/NQ-UBBC về việc công bố kết quả bầu cử và danh sách những người trúng cử đại biểu Hội đồng nhân dân xã Tiền Phong khóa XXI, nhiệm kỳ 2026 - 2031",
+      "url": "https://tienphong.phutho.gov.vn/index.php/finish/3-v-n-ba-n-ca-a-n-va/198-nghii-quya-i-t-ca-ng-ba-i-ka-i-t-quai-ba-i-u-c-i-vai-danh-sai-ch-nh-i-ng-ng-i-i-trui-ng-c-i-ai-i-bia-i-u-h-nd-xai-tia-i-n-phong-khoai-xxi-nhia-i-m-kyi-2026-2031/0",
+      "date": "2026-03-18",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-04891-2",
+      "title": "Nghị Quyết về việc Sắp xếp, đặt tên, đổi tên thôn trên địa bàn xã Tiền Phong",
+      "url": "https://tienphong.phutho.gov.vn/index.php/tin-t-c-s-ki-n/753-nghi-quyet-ve-viec-sap-xep-dat-ten-doi-ten-thon-tren-dia-ban-xa-tien-phong",
+      "date": "",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-04891-3",
+      "title": "Danh sách Thôn vùng đồng bào dân tộc thiểu số và miền núi, thôn đặc biệt khó khăn giai đoạn 2026 - 2030 trên địa bàn tỉnh Phú Thọ",
+      "url": "http://files.ubdt.gov.vn/files/ecm/source_files/2026/02/05/11252411_4.%20Ph%C3%BA%20Th%E1%BB%8D%201%20(th%C3%B4n).signed_26-02-05.pdf",
+      "date": "2026-01-29",
+      "type": "wikipedia-ref"
+    }
+  ],
+  "note": "Trích tự động từ Wikipedia tiếng Việt (mode=narrative). Cần đối chiếu nghị quyết HĐND phường/xã.",
+  "tdp": [
+    {
+      "name": "Cò Xa",
+      "type": "xóm"
+    },
+    {
+      "name": "Dướng",
+      "type": "xóm"
+    },
+    {
+      "name": "Điêng Lựng",
+      "type": "xóm"
+    },
+    {
+      "name": "Đòan Kết",
+      "type": "xóm"
+    },
+    {
+      "name": "Đức Phong",
+      "type": "xóm"
+    },
+    {
+      "name": "Lau",
+      "type": "xóm"
+    },
+    {
+      "name": "Mó Nẻ",
+      "type": "xóm"
+    },
+    {
+      "name": "Nà Mát",
+      "type": "xóm"
+    },
+    {
+      "name": "Phiếu",
+      "type": "xóm"
+    },
+    {
+      "name": "Săng Bờ",
+      "type": "xóm"
+    },
+    {
+      "name": "Tham",
+      "type": "xóm"
+    },
+    {
+      "name": "Thín",
+      "type": "xóm"
+    },
+    {
+      "name": "Túp",
+      "type": "xóm"
+    },
+    {
+      "name": "Vầy Ang",
+      "type": "xóm"
+    }
+  ]
+}

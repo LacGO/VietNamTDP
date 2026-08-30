@@ -1,0 +1,63 @@
+{{Thông tin đơn vị hành chính Việt Nam|xã
+| tên = Quyết Thắng
+| hình = 
+| ghi chú hình = 
+| vĩ độ = 20.45661097674956
+| kinh độ = 105.38945416590985
+| diện tích = 59,70 km²
+| dân số = 22.746 người
+| thời điểm dân số = 2025
+| mật độ dân số = {{formatnum:{{#expr:floor({{formatnum:22.746|R}}/{{formatnum:59,70|R}})}} }} người/km²
+| vùng = [[Đông Bắc Bộ]]
+| tỉnh = [[Phú Thọ]]
+| thành lập =1 tháng 1 năm 2020<ref>Nghị quyết số 830/NQ-UBTVQH15</ref> 
+| trụ sở UBND =Xóm Kho 
+| mã hành chính = 05323
+| mã bưu chính =36619 
+|web={{url|quyetthang.phutho.gov.vn}}
+}}
+{{other|Quyết Thắng (định hướng)}}
+'''Quyết Thắng''' là một [[Xã (Việt Nam)|xã]] thuộc [[Tỉnh (Việt Nam)|tỉnh]] [[Phú Thọ]], [[Việt Nam]].
+
+==Địa lý==
+Xã Quyết Thắng nằm ở phía nam tỉnh [[Phú Thọ]] có vị trí địa lý<ref>{{Chú thích web |title=Đơn vị hành chính Việt Nam |url=https://sapnhap.bando.com.vn/ |access-date=2026-06-23 |website=sapnhap.bando.com.vn}}</ref>:
+*Phía đông giáp xã [[Lạc Sơn (xã)|Lạc Sơn]].
+*Phía tây giáp xã [[Toàn Thắng]].
+*Phía nam giáp xã [[Ngọc Sơn (xã)|Ngọc Sơn]]
+*Phía bắc giáp xã [[Tân Lạc (xã)|Tân Lạc]], xã [[Thượng Cốc]] và xã [[Yên Phú, Phú Thọ|Yên Phú]].
+
+Xã có diện tích 59,70&nbsp;km², dân số năm 2025 là 22.746 người, mật độ dân số đạt {{formatnum:{{#expr:floor({{formatnum:22.746|R}}/{{formatnum:59,70|R}})}} }} người/km².
+
+==Hành chính==
+Xã Quyết Thắng được chia thành 38 xóm: Ba Khoang, Bai Chim, Bai Khưa, Bai Vớn, Bán Ngoài, Bán Trong, Băn Chao, Be Dưới, Be Ngoài, Be Trên, Châu Tróng, Chiềng, Dồng Cài, Duộng Rềnh, Đảng 1, Đảng 2, Đôm Hạ, Đôm Thượng, Éo, Giang Bãi, Khải Cai, Kho, Mận Thơng, Mương Chóng, Mượng Hạ, Nàng, Ong Man, Ót, Phản Chuông, Pheo, Quyển, Rảy, Rẽ Vơng, Thếnh, Trám Chất, Trẳm, Vó, Yến Báy.<ref name=":1">{{Chú thích web |last=Bộ Dân tộc và Tôn giáo |date=2026-01-29 |title=Danh sách Thôn vùng đồng bào dân tộc thiểu số và miền núi, thôn đặc biệt khó khăn giai đoạn 2026 - 2030 trên địa bàn tỉnh Phú Thọ |url=http://files.ubdt.gov.vn/files/ecm/source_files/2026/02/05/11252411_4.%20Ph%C3%BA%20Th%E1%BB%8D%201%20(th%C3%B4n).signed_26-02-05.pdf |url-status=live |archive-url=https://web.archive.org/web/20260417090807/http://files.ubdt.gov.vn/files/ecm/source_files/2026/02/05/11252411_4.%20Ph%C3%BA%20Th%E1%BB%8D%201%20(th%C3%B4n).signed_26-02-05.pdf |archive-date=2026-04-17 |access-date=2026-04-17 |website=Cổng Thông tin điện tử Bộ Dân tộc và Tôn giáo}}</ref><ref>{{Chú thích web |last=Trang Thông tin điện tử xã Quyết Thắng - tỉnh Phú Thọ |date=2026-03-15 |title=Danh sách chính thức những người ứng cử đại biểu Hội đồng nhân dân xã Quyết Thắng khóa III, nhiệm kỳ 2026 - 2031 tại Đơn vị bầu cử số 1 gồm 08 xóm; Xóm Mận Thơng, xóm Yến Báy, xóm Éo, xóm Trẳm, xóm Thếnh, xóm Rẽ Vơng, xóm Băn Chao, Xóm Trám Chất |url=https://quyetthang.phutho.gov.vn/index.php/tin-t-c-s-ki-n/tin-n-i-b-t/391-don-vi-bau-cu-so-01 |url-status=live |archive-url=https://web.archive.org/web/20260423090807/https://quyetthang.phutho.gov.vn/index.php/tin-t-c-s-ki-n/tin-n-i-b-t/391-don-vi-bau-cu-so-01 |archive-date=2026-04-23 |access-date=2026-04-23}}</ref><ref>{{Chú thích web |last=Trang Thông tin điện tử xã Quyết Thắng - tỉnh Phú Thọ |date=2026-03-15 |title=Danh sách chính thức những người ứng cử đại biểu Hội đồng nhân dân xã Quyết Thắng khóa III, nhiệm kỳ 2026 - 2031 tại Đơn vị bầu cử số 2 gồm 06 xóm: Xóm Duộng Rềnh, xóm Pheo, xóm Khải Cai, xóm Giang Bãi, xóm Rảy, xóm Phản Chuông |url=https://quyetthang.phutho.gov.vn/index.php/tin-t-c-s-ki-n/tin-n-i-b-t/392-don-vi-bau-cu-so-02 |url-status=live |archive-url=https://quyetthang.phutho.gov.vn/index.php/tin-t-c-s-ki-n/tin-n-i-b-t/392-don-vi-bau-cu-so-02https://quyetthang.phutho.gov.vn/index.php/tin-t-c-s-ki-n/tin-n-i-b-t/392-don-vi-bau-cu-so-02 |archive-date=2026-04-23 |access-date=2026-04-23}}</ref><ref>{{Chú thích web |last=Trang Thông tin điện tử xã Quyết Thắng - tỉnh Phú Thọ |date=2026-03-15 |title=Danh sách chính thức những người ứng cử đại biểu Hội đồng nhân dân xã Quyết Thắng khóa III, nhiệm kỳ 2026 - 2031 tại Đơn vị bầu cử số 3 với 4 xóm gồm: Xóm Ba Khoang, xóm Chiềng, xóm Châu Tróng, xóm Quyển |url=https://quyetthang.phutho.gov.vn/index.php/tin-t-c-s-ki-n/tin-n-i-b-t/393-don-vi-bau-cu-so-03 |url-status=live |archive-url=https://web.archive.org/web/20260423090807/https://quyetthang.phutho.gov.vn/index.php/tin-t-c-s-ki-n/tin-n-i-b-t/393-don-vi-bau-cu-so-03 |archive-date=2026-04-23 |access-date=2026-04-23}}</ref><ref>{{Chú thích web |last=Trang Thông tin điện tử xã Quyết Thắng - tỉnh Phú Thọ |date=2026-03-15 |title=Danh sách chính thức những người ứng cử đại biểu Hội đồng nhân dân xã Quyết Thắng khóa III, nhiệm kỳ 2026 - 2031 tại Đơn vị bầu cử số 4 với 5 xóm gồm: Xóm Đảng 1, xóm Đảng 2, xóm Vó, xóm Nàng, xóm Dồng Cài |url=https://quyetthang.phutho.gov.vn/index.php/tin-t-c-s-ki-n/tin-n-i-b-t/394-don-vi-bau-cu-so-04 |url-status=live |archive-url=https://web.archive.org/web/20260423090807/https://quyetthang.phutho.gov.vn/index.php/tin-t-c-s-ki-n/tin-n-i-b-t/394-don-vi-bau-cu-so-04 |archive-date=2026-04-23 |access-date=2026-04-23}}</ref><ref>{{Chú thích web |last=Trang Thông tin điện tử xã Quyết Thắng - tỉnh Phú Thọ |date=2026-03-15 |title=Danh sách chính thức những người ứng cử đại biểu Hội đồng nhân dân xã Quyết Thắng khóa III, nhiệm kỳ 2026 - 2031 tại Đơn vị bầu cử số 5 với 6 xóm gồm: Xóm Be Trên, xóm Be Dưới, xóm Be Ngoài, xóm Ong Man, xóm Kho, xóm Ót |url=https://quyetthang.phutho.gov.vn/index.php/tin-t-c-s-ki-n/tin-n-i-b-t/395-don-vi-bau-cu-so-05 |url-status=live |archive-url=https://web.archive.org/web/20260423090807/https://quyetthang.phutho.gov.vn/index.php/tin-t-c-s-ki-n/tin-n-i-b-t/395-don-vi-bau-cu-so-05 |archive-date=2026-04-23 |access-date=2026-04-23}}</ref><ref>{{Chú thích web |last=Trang Thông tin điện tử xã Quyết Thắng - tỉnh Phú Thọ |date=2026-03-15 |title=Danh sách chính thức những người ứng cử đại biểu Hội đồng nhân dân xã Quyết Thắng khóa III, nhiệm kỳ 2026 - 2031 tại Đơn vị bầu cử số 6 với 9 xóm gồm: Xóm Bán Trong, xóm Bán Ngoài, xóm Đôm Thượng, xóm Đôm Hạ, xóm Mương Chóng, xóm Mượng Hạ, xóm Bai Chim, xóm Bai Khưa, xóm Bai Vớn |url=https://quyetthang.phutho.gov.vn/index.php/tin-t-c-s-ki-n/tin-n-i-b-t/396-don-vi-bau-cu-so-06 |url-status=live |archive-url=https://web.archive.org/web/20260423090807/https://quyetthang.phutho.gov.vn/index.php/tin-t-c-s-ki-n/tin-n-i-b-t/396-don-vi-bau-cu-so-06 |archive-date=2026-04-23 |access-date=2026-04-23}}</ref>
+
+==Lịch sử==
+Địa bàn xã Quyết Thắng hiện nay trước đây vốn là ba xã: Chí Đạo, Định Cư và Quyết Thắng thuộc huyện [[Lạc Sơn (huyện)|Lạc Sơn]], tỉnh [[Hòa Bình (tỉnh)|Hòa Bình]] cũ.
+
+Ngày [[15 tháng 9]] năm [[1956]], Chính phủ ban hành Quyết định số 566/QĐ-LK3<ref>{{chú thích sách|tác giả=|tựa đề=Địa chí Hòa Bình|nhà xuất bản=Nhà xuất bản Chính trị quốc gia|year=2005|nơi=|trang=311|url=https://www.google.com/books/edition/Địa_ch%C3%AD_Hòa_Bình/jUZRAQAAMAAJ|doi=|id=|isbn=}}</ref> về việc:
+
+* Thành lập xã Phú Lương, xã Chí Đạo và xã Định Cư trên cơ sở một phần diện tích và dân số của xã Quyết Thắng.
+* Thành lập xã Chí Thiện và xã Phúc Tuy trên cơ sở một phần diện tích và dân số của xã Kiến Thiết cũ.
+
+Đến năm [[2018]]:
+
+* Xã Chí Thiện có diện tích 7,50&nbsp;km², dân số là 2.664 người, mật độ dân số đạt 355 người/km².
+* Xã Phú Lương có diện tích 20,43&nbsp;km², dân số là 6.812 người, mật độ dân số đạt 333 người/km².
+* Xã Phúc Tuy có diện tích 9,22&nbsp;km², dân số là 2.606 người, mật độ dân số đạt 283 người/km².
+
+Ngày [[17 tháng 12]] năm [[2019]], [[Ủy ban Thường vụ Quốc hội]] ban hành Nghị quyết số 830/NQ-UBTVQH14 về việc sắp xếp các đơn vị hành chính cấp huyện, cấp xã thuộc tỉnh Hòa Bình (nghị quyết có hiệu lực từ ngày [[1 tháng 1]] năm [[2020]]).<ref name="NQ830">{{Chú thích web|url=https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/Nghi-quyet-830-NQ-UBTVQH14-2019-sap-xep-don-vi-hanh-chinh-cap-huyen-xa-thuoc-tinh-Hoa-Binh-432100.aspx|tựa đề=Nghị quyết số 830/NQ-UBTVQH14 năm 2019 về việc sắp xếp các đơn vị hành chính cấp huyện, cấp xã thuộc tỉnh Hòa Bình|tác giả=|họ=|tên=|ngày=|website=|url lưu trữ=|ngày lưu trữ=|ngày truy cập=}}</ref> Theo đó, sáp nhập toàn bộ diện tích và dân số của ba xã Chí Thiện, Phú Lương và Phúc Tuy thành xã Quyết Thắng.
+
+Ngày [[12 tháng 6]] năm [[2025]], [[Quốc hội Việt Nam|Quốc hội]] ban hành Nghị quyết số 202/2025/QH15 về việc sắp xếp đơn vị hành chính cấp tỉnh (nghị quyết có hiệu lực từ ngày [[12 tháng 6]] năm [[2025]]).<ref>{{Chú thích web |last=xaydungchinhsach.chinhphu.vn |date=2025-07-16 |title=TOÀN VĂN: Nghị quyết số 202/2025/QH15 về sắp xếp đơn vị hành chính cấp tỉnh |url=https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-202-2025-qh15-ve-sap-xep-don-vi-hanh-chinh-cap-tinh-119250612174148722.htm |url-status=live |archive-url=https://web.archive.org/web/20260705025431/https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-202-2025-qh15-ve-sap-xep-don-vi-hanh-chinh-cap-tinh-119250612174148722.htm |archive-date=2026-07-05 |access-date=2026-07-25 |website=Báo Điện tử Chính phủ |language=vi}}</ref> Theo đó, sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của tỉnh [[Vĩnh Phúc (tỉnh)|Vĩnh Phúc]], tỉnh [[Hòa Bình (tỉnh)|Hòa Bình]] và tỉnh [[Phú Thọ]] thành tỉnh mới có tên gọi là tỉnh '''Phú Thọ'''.
+
+Ngày [[16 tháng 6]] năm [[2025]]:
+
+* Quốc hội ban hành Nghị quyết số 203/2025/QH15 về việc sửa đổi, bổ sung một số điều của Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam (nghị quyết có hiệu lực từ ngày [[16 tháng 6]] năm [[2025]]).<ref>{{Chú thích web |last=xaydungchinhsach.chinhphu.vn |date=2025-06-28 |title=NGHỊ QUYẾT 203/2025/QH15 SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA HIẾN PHÁP NƯỚC CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM |url=https://xaydungchinhsach.chinhphu.vn/nghi-quyet-203-2025-qh15-sua-doi-bo-sung-mot-so-dieu-cua-hien-phap-nuoc-cong-hoa-xa-hoi-chu-nghia-viet-nam-119250616181735552.htm |url-status=live |archive-url=https://web.archive.org/web/20260715200606/https://xaydungchinhsach.chinhphu.vn/nghi-quyet-203-2025-qh15-sua-doi-bo-sung-mot-so-dieu-cua-hien-phap-nuoc-cong-hoa-xa-hoi-chu-nghia-viet-nam-119250616181735552.htm |archive-date=2026-07-15 |access-date=2026-07-15 |website=Báo Điện tử Chính phủ |language=vi}}</ref> Theo đó, kết thúc hoạt động của đơn vị hành chính cấp huyện trong cả nước từ ngày 1 tháng 7 năm 2025.
+* Ủy ban Thường vụ Quốc hội ban hành Nghị quyết số 1676/NQ-UBTVQH15 về việc sắp xếp đơn vị hành chính cấp xã của tỉnh [[Phú Thọ]] năm 2025 (nghị quyết có hiệu lực từ ngày [[16 tháng 6]] năm [[2025]]).<ref>{{Chú thích web |last=xaydungchinhsach.chinhphu.vn |date=2025-06-20 |title=Nghị quyết số 1676/NQ-UBTVQH15 sắp xếp các ĐVHC cấp xã của tỉnh Phú Thọ năm 2025 |url=https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-1676-nq-ubtvqh15-sap-xep-cac-dvhc-cap-xa-cua-tinh-phu-tho-nam-2025-119250616204317326.htm |url-status=live |archive-url=https://web.archive.org/web/20260725082021/https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-1676-nq-ubtvqh15-sap-xep-cac-dvhc-cap-xa-cua-tinh-phu-tho-nam-2025-119250616204317326.htm |archive-date=2026-07-25 |access-date=2026-07-27 |website=Báo Điện tử Chính phủ |language=vi}}</ref> Theo đó, sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của các xã Chí Đạo, Định Cư và Quyết Thắng thành xã mới có tên gọi là '''xã Quyết Thắng'''.
+
+==Chú thích==
+{{tham khảo}}
+
+==Tham khảo==
+
+{{sơ khai Phú Thọ}}
+{{Đơn vị hành chính thuộc tỉnh Phú Thọ}}

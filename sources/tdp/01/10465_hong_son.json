@@ -1,0 +1,124 @@
+{
+  "ward_code": "10465",
+  "ward_name": "Hồng Sơn",
+  "province_code": "01",
+  "resolution": "",
+  "arrangement": "2026_07",
+  "effective_date": "2026-07-01",
+  "verified": "unverified",
+  "extraction": {
+    "source": "vi.wikipedia.org",
+    "title": "(cache)",
+    "mode": "table"
+  },
+  "sources": [
+    {
+      "key": "wiki-10465-1",
+      "title": "Hồng Sơn công bố Nghị quyết về sắp xếp, tổ chức lại thôn và kiện toàn tổ chức, cán bộ thôn, chi bộ sau sắp xếp",
+      "url": "https://hongson.hanoi.gov.vn/tin-tuc-su-kien/hong-son-cong-bo-nghi-quyet-ve-sap-xep-to-chuc-lai-thon-va-kien-toan-to-chuc-can-bo-thon-chi-bo-sau-sap-xep-270726063016061308.htm?gidzl=gaBSE9L1cqEkNTW-drgTHQTVtJQ02PvDi0tQOOqDdKdd2DaxY0tD4kK7ZplPKSH0wLk5QJO9Cd9Aa42VGG",
+      "date": "2026-06-30",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-10465-2",
+      "title": "Nghị quyết số 1656/NQ-UBTVQH15 ngày 16 tháng 6 năm 2025 của Ủy ban Thường vụ Quốc hội về việc sắp xếp các đơn vị hành chính cấp xã của thành phố Hà Nội năm 2025",
+      "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf",
+      "date": "2026-06-30",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-10465-3",
+      "title": "Xã Hồng Sơn tổ chức Hội nghị xin ý kiến phương án sắp xếp thôn trên địa bàn xã",
+      "url": "https://hongson.hanoi.gov.vn/chi-dao-cua-dia-phuong/xa-hong-son-to-chuc-hoi-nghi-xin-y-kien-phuong-an-sap-xep-thon-tren-dia-ban-xa-2707260608165951448.htm?gidzl=A-VMV6i7Jd4l-D9wOHn8ToRwrtv-JqjpCQZGANDBI7TchTDpTaiOB6IYXNCd5n5-QFwF8JPsqQqyRWPASm",
+      "date": "2026-06-08",
+      "type": "wikipedia-ref"
+    }
+  ],
+  "note": "Trích tự động từ Wikipedia tiếng Việt (mode=table). Cần đối chiếu nghị quyết HĐND phường/xã.",
+  "tdp": [
+    {
+      "name": "Áng Hạ",
+      "type": "thôn"
+    },
+    {
+      "name": "Áng Thượng",
+      "type": "thôn"
+    },
+    {
+      "name": "Đặng",
+      "type": "thôn"
+    },
+    {
+      "name": "Đoan Nữ",
+      "type": "thôn"
+    },
+    {
+      "name": "Đòai",
+      "type": "thôn"
+    },
+    {
+      "name": "Đức Thụ",
+      "type": "thôn"
+    },
+    {
+      "name": "Gò Mái",
+      "type": "thôn"
+    },
+    {
+      "name": "Hạ Phùng Xá",
+      "type": "thôn"
+    },
+    {
+      "name": "Hợp Tiến",
+      "type": "thôn"
+    },
+    {
+      "name": "Kinh Đào Tảo Khê",
+      "type": "thôn"
+    },
+    {
+      "name": "La Đồng",
+      "type": "thôn"
+    },
+    {
+      "name": "Lê Xá",
+      "type": "thôn"
+    },
+    {
+      "name": "Nghĩa",
+      "type": "thôn"
+    },
+    {
+      "name": "Phú Sơn",
+      "type": "thôn"
+    },
+    {
+      "name": "Tân Độ",
+      "type": "thôn"
+    },
+    {
+      "name": "Thanh Bình",
+      "type": "thôn"
+    },
+    {
+      "name": "Thượng 1 Phùng Xá",
+      "type": "thôn"
+    },
+    {
+      "name": "Thượng 2 Phùng Xá",
+      "type": "thôn"
+    },
+    {
+      "name": "Thượng Nội",
+      "type": "thôn"
+    },
+    {
+      "name": "Trung Thượng",
+      "type": "thôn"
+    },
+    {
+      "name": "Viêm Khê",
+      "type": "thôn"
+    }
+  ]
+}

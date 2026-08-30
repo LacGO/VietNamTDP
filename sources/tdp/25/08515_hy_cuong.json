@@ -1,0 +1,132 @@
+{
+  "ward_code": "08515",
+  "ward_name": "Hy Cương",
+  "province_code": "25",
+  "resolution": "",
+  "arrangement": "truoc_2026_07",
+  "effective_date": "",
+  "verified": "unverified",
+  "extraction": {
+    "source": "vi.wikipedia.org",
+    "title": "Hy Cương",
+    "mode": "narrative"
+  },
+  "sources": [
+    {
+      "key": "wiki-08515-1",
+      "title": "XÃ HY CƯƠNG: TỔ CHỨC HỘI THẢO LẤY Ý KIẾN NHÂN DÂN VỀ PHƯƠNG ÁN ĐỔI TÊN THÔN TRÊN ĐỊA BÀN",
+      "url": "https://hycuong.phutho.gov.vn/index.php/tin-tuc-su-kien/chinh-tri/xa-hy-cuong-to-chuc-hoi-thao-lay-y-kien-nhan-dan-ve-phuong-an-doi-ten-thon-tren-dia-ban",
+      "date": "7/17/2026",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-08515-2",
+      "title": "NGHỊ QUYẾT 203/2025/QH15 SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA HIẾN PHÁP NƯỚC CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM",
+      "url": "https://xaydungchinhsach.chinhphu.vn/nghi-quyet-203-2025-qh15-sua-doi-bo-sung-mot-so-dieu-cua-hien-phap-nuoc-cong-hoa-xa-hoi-chu-nghia-viet-nam-119250616181735552.htm",
+      "date": "2025-06-28",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-08515-3",
+      "title": "Nghị quyết số 1676/NQ-UBTVQH15 sắp xếp các ĐVHC cấp xã của tỉnh Phú Thọ năm 2025",
+      "url": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-1676-nq-ubtvqh15-sap-xep-cac-dvhc-cap-xa-cua-tinh-phu-tho-nam-2025-119250616204317326.htm",
+      "date": "2025-06-20",
+      "type": "wikipedia-ref"
+    }
+  ],
+  "note": "Trích tự động từ Wikipedia tiếng Việt (mode=narrative). Cần đối chiếu nghị quyết HĐND phường/xã. ⚠️ Danh mục có thể là hiện trạng TRƯỚC sắp xếp thôn/TDP 01/7/2026 — Wikipedia chưa cập nhật nghị quyết mới.",
+  "tdp": [
+    {
+      "name": "Bàn Cờ",
+      "type": "thôn"
+    },
+    {
+      "name": "Bề Cả",
+      "type": "thôn"
+    },
+    {
+      "name": "Cao Thắng",
+      "type": "thôn"
+    },
+    {
+      "name": "Chu Hóa",
+      "type": "thôn"
+    },
+    {
+      "name": "Chu Khổng",
+      "type": "thôn"
+    },
+    {
+      "name": "Cổ Tích",
+      "type": "thôn"
+    },
+    {
+      "name": "Đài",
+      "type": "thôn"
+    },
+    {
+      "name": "Đông Thịnh",
+      "type": "thôn"
+    },
+    {
+      "name": "Gia Ninh",
+      "type": "thôn"
+    },
+    {
+      "name": "Hạ",
+      "type": "thôn"
+    },
+    {
+      "name": "Hóc Trăn",
+      "type": "thôn"
+    },
+    {
+      "name": "Hy Cương",
+      "type": "thôn"
+    },
+    {
+      "name": "Khang Phụ",
+      "type": "thôn"
+    },
+    {
+      "name": "Lảo Quân",
+      "type": "thôn"
+    },
+    {
+      "name": "Lũng",
+      "type": "thôn"
+    },
+    {
+      "name": "Mồng Sung",
+      "type": "thôn"
+    },
+    {
+      "name": "Nhà Nít",
+      "type": "thôn"
+    },
+    {
+      "name": "Nhà Sống",
+      "type": "thôn"
+    },
+    {
+      "name": "Nhân Hùng",
+      "type": "thôn"
+    },
+    {
+      "name": "Phú Mỹ",
+      "type": "thôn"
+    },
+    {
+      "name": "Phú Nghĩa",
+      "type": "thôn"
+    },
+    {
+      "name": "Phú Thị",
+      "type": "thôn"
+    },
+    {
+      "name": "Thượng",
+      "type": "thôn"
+    }
+  ]
+}

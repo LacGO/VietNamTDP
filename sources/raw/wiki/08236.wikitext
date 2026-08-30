@@ -1,0 +1,60 @@
+{{Thông tin đơn vị hành chính Việt Nam | xã
+| tên = Phú Mỹ
+| hình = 
+| ghi chú hình = 
+| vĩ độ = 21.503287602331724
+| kinh độ = 105.25612425945454
+| diện tích = 27,36 km²
+| dân số = 15.460 người
+| thời điểm dân số = 2025
+| mật độ dân số = {{formatnum:{{#expr:floor({{formatnum:15.460| R}}/{{formatnum:27,36| R}})}} }} người/km²
+| vùng = [[Đông Bắc Bộ]]
+| tỉnh = [[Phú Thọ]]
+| thành lập =16 tháng 6 năm 2025<ref>Nghị quyết số 1676/NQ-UBTVQH15</ref> 
+| trụ sở UBND =Khu 8 
+| mã hành chính = 08236
+| mã bưu chính =35214 
+|web={{url|phumy.phutho.gov.vn}}
+}}
+{{other|Phú Mỹ (định hướng)}}
+'''Phú Mỹ''' là một [[xã]] thuộc [[Tỉnh (Việt Nam)|tỉnh]] [[Phú Thọ]], [[Việt Nam]].
+
+== Địa lý ==
+Xã Phú Mỹ nằm ở phía Bắc của tỉnh [[Phú Thọ]], có vị trí địa lý<ref>{{Chú thích web |title=Đơn vị hành chính Việt Nam |url=https://sapnhap.bando.com.vn/ |access-date=2026-04-19 |website=sapnhap.bando.com.vn}}</ref>:
+
+* Phía Bắc giáp xã [[Chân Mộng, Phú Thọ|Chân Mộng]].
+* Phía Nam giáp xã [[Dân Chủ]].
+* Phía Tây giáp xã [[Trạm Thản]].
+* Phía Đông giáp xã [[Trường Sinh]], tỉnh [[Tuyên Quang]].
+
+Xã có diện tích 27,36&nbsp;km², dân số năm 2025 là 15.460 người, mật độ dân số đạt 565 người/km².
+
+==Hành chính==
+Xã Phú Mỹ được chia thành 27 khu: 1, 2, 3, 4, 5, 6, 7, 8 (xã Lệ Mỹ cũ), 1, 2, 3, 4, 5, 6, 7, 8 (xã Liên Hoa cũ), 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11 (xã Phú Mỹ cũ).<ref>{{Chú thích web |last=Ủy ban nhân dân xã Phú Mỹ |date=2026-01-23 |title=Quyết định số 30/QĐ-UBND về việc thành lập khu vực bỏ phiếu bầu cử đại biểu Quốc hội khóa XVI và đại biểu Hội đồng nhân dân các cấp, nhiệm kỳ 2026 - 2031 |url=https://phumy.phutho.gov.vn/tu-lieu/he-thong-van-ban/quyet-dinh-ve-viec-thanh-lap-khu-vuc-bo-phieu-bau-cu-dai-bieu-quoc-hoi-khoa-xvi-va-dai-bieu-hoi-dong-nhan-dan-cac-cap-nhiem-ky-2026-2031/ |url-status=live |archive-url=https://web.archive.org/web/20260423090807/https://phumy.phutho.gov.vn/tu-lieu/he-thong-van-ban/quyet-dinh-ve-viec-thanh-lap-khu-vuc-bo-phieu-bau-cu-dai-bieu-quoc-hoi-khoa-xvi-va-dai-bieu-hoi-dong-nhan-dan-cac-cap-nhiem-ky-2026-2031/ |archive-date=2026-04-23 |access-date=2026-04-23 |website=Trang Thông tin điện tử xã Phú Mỹ - tỉnh Phú Thọ}}</ref>
+
+==Lịch sử==
+Từ năm [[1970]] trở về trước, xã Phú Mỹ thuộc huyện [[Sông Lô (huyện Vĩnh Phúc)|Sông Lô]], tỉnh [[Vĩnh Phú (tỉnh)|Vĩnh Phú]].
+
+Đến năm [[1980]], Hội đồng Chính phủ ra Quyết định 377/CP sửa đổi địa giới hành chính một số huyện, chia huyện Sông Thao và sông Lô thành hai huyện nhỏ và có địa giới là huyện [[Phong Châu]], tỉnh [[Vĩnh Phú (tỉnh)|Vĩnh Phú]]. Theo đó, huyện Phong Châu thêm 4 xã là Phú Mỹ, Liên Hoa, Tiên Phú, Trạm Thản.
+
+Đến năm [[1990]], xã Phú Mỹ nhập chung vào huyện [[Phù Ninh (huyện)|Phù Ninh]], tỉnh [[Phú Thọ]].
+
+Ngày [[19 tháng 1]] năm [[2009]], Chính phủ ra Nghị định số 05/NĐ-CP, theo đó 770,71 ha diện tích tự nhiên và 3.618 nhân khẩu của xã Phú Mỹ được tách ra để thành lập xã Lệ Mỹ thuộc huyện Phù Ninh. Xã Lệ Mỹ có 770,71 ha diện tích tự nhiên và 3.618 nhân khẩu.<ref name="nd0509">{{Chú thích web|url=http://www.chinhphu.vn/portal/page/portal/chinhphu/hethongvanban?class_id=1&mode=detail&document_id=83704|tiêu đề=Nghị định số 05/NĐ-CP của Chính phủ: Về việc điều chỉnh địa giới hành chính xã, thành lập xã thuộc huyện Phù Ninh, huyện Thanh Ba; xác định địa giới hành chính xã Tân Đức thuộc thành phố Việt Trì, tỉnh Phú Thọ|nhà xuất bản=Cổng Thông tin điện tử Chính phủ|ngày truy cập=2015-01-19|archive-date=2015-01-19|archive-url=https://web.archive.org/web/20150119143704/http://www.chinhphu.vn/portal/page/portal/chinhphu/hethongvanban?class_id=1&mode=detail&document_id=83704|url-status=dead}}</ref>
+
+Ngày [[16 tháng 6]] năm [[2025]]:
+
+* [[Quốc hội Việt Nam|Quốc hội]] ban hành Nghị quyết số 203/2025/QH15 về việc sửa đổi, bổ sung một số điều của Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam (nghị quyết có hiệu lực từ ngày [[16 tháng 6]] năm [[2025]]).<ref>{{Chú thích web |last=xaydungchinhsach.chinhphu.vn |date=2025-06-28 |title=NGHỊ QUYẾT 203/2025/QH15 SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA HIẾN PHÁP NƯỚC CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM |url=https://xaydungchinhsach.chinhphu.vn/nghi-quyet-203-2025-qh15-sua-doi-bo-sung-mot-so-dieu-cua-hien-phap-nuoc-cong-hoa-xa-hoi-chu-nghia-viet-nam-119250616181735552.htm |url-status=live |archive-url=https://web.archive.org/web/20260715200606/https://xaydungchinhsach.chinhphu.vn/nghi-quyet-203-2025-qh15-sua-doi-bo-sung-mot-so-dieu-cua-hien-phap-nuoc-cong-hoa-xa-hoi-chu-nghia-viet-nam-119250616181735552.htm |archive-date=2026-07-15 |access-date=2026-07-15 |website=Báo Điện tử Chính phủ |language=vi }}</ref> Theo đó, kết thúc hoạt động của đơn vị hành chính cấp huyện trong cả nước từ ngày 1 tháng 7 năm 2025.
+* [[Ủy ban Thường vụ Quốc hội]] ban hành Nghị quyết số 1676/NQ-UBTVQH15 về việc sắp xếp đơn vị hành chính cấp xã của tỉnh [[Phú Thọ]] năm 2025 (nghị quyết có hiệu lực từ ngày [[16 tháng 6]] năm [[2025]]).<ref>{{Chú thích web |last=xaydungchinhsach.chinhphu.vn |date=2025-06-20 |title=Nghị quyết số 1676/NQ-UBTVQH15 sắp xếp các ĐVHC cấp xã của tỉnh Phú Thọ năm 2025 |url=https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-1676-nq-ubtvqh15-sap-xep-cac-dvhc-cap-xa-cua-tinh-phu-tho-nam-2025-119250616204317326.htm |url-status=live |archive-url=https://web.archive.org/web/20260725082021/https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-1676-nq-ubtvqh15-sap-xep-cac-dvhc-cap-xa-cua-tinh-phu-tho-nam-2025-119250616204317326.htm |archive-date=2026-07-25 |access-date=2026-07-27 |website=Báo Điện tử Chính phủ |language=vi }}</ref> Theo đó, sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của các xã Liên Hoa, Lệ Mỹ và Phú Mỹ thành xã mới có tên gọi là '''xã Phú Mỹ'''.
+
+== Kinh tế ==
+Ngành nghề địa phương: trồng trọt đặc biệt là cây sắn và cây chè, chăn nuôi lợn, gà, tằm, ong mật, chim bồ câu , trâu bò.<!-- == Lịch sử ==
+Xã Lệ Mỹ được tách ra từ xã [[Phú Mỹ, Phù Ninh|Phú Mỹ]] từ ngày 19 tháng 1 năm 2009 theo Nghị định số 05/NĐ-CP của Chính phủ Việt Nam.<ref name="nd0509">{{Chú thích web|url=http://www.chinhphu.vn/portal/page/portal/chinhphu/hethongvanban?class_id=1&mode=detail&document_id=83704|tiêu đề=Nghị định số 05/NĐ-CP của Chính phủ: Về việc điều chỉnh địa giới hành chính xã, thành lập xã thuộc huyện Phù Ninh, huyện Thanh Ba; xác định địa giới hành chính xã Tân Đức thuộc thành phố Việt Trì, tỉnh Phú Thọ|nhà xuất bản=Cổng Thông tin điện tử Chính phủ|ngày truy cập=2015-01-19|archive-date=2015-01-19|archive-url=https://web.archive.org/web/20150119143704/http://www.chinhphu.vn/portal/page/portal/chinhphu/hethongvanban?class_id=1&mode=detail&document_id=83704|url-status=dead}}</ref>
+
+Xã Lệ Mỹ có 770,71 ha diện tích tự nhiên và 3.618 người. -->
+
+== Chú thích ==
+{{tham khảo}}
+
+==Tham khảo==
+{{Sơ khai Phú Thọ}}
+{{Đơn vị hành chính thuộc tỉnh Phú Thọ}}

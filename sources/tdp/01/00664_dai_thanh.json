@@ -1,0 +1,116 @@
+{
+  "ward_code": "00664",
+  "ward_name": "Đại Thanh",
+  "province_code": "01",
+  "resolution": "",
+  "arrangement": "2026_07",
+  "effective_date": "2026-07-01",
+  "verified": "unverified",
+  "extraction": {
+    "source": "vi.wikipedia.org",
+    "title": "(cache)",
+    "mode": "table"
+  },
+  "sources": [
+    {
+      "key": "wiki-00664-1",
+      "title": "Kỳ họp thứ Hai Hội đồng nhân dân xã Đại Thanh khóa II, nhiệm kỳ 2026 – 2031 thành công tốt đẹp",
+      "url": "https://daithanh.hanoi.gov.vn/tin-tuc-su-kien/ky-hop-thu-hai-hdnd-xa-dai-thanh-khoa-ii-nhiem-ky-2026-2031-thanh-cong-tot-dep-2768260630174459848.htm",
+      "date": "2026-07-01",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-00664-2",
+      "title": "Quyết định số 30/QĐ-UBBC ngày 12 tháng 2 năm 2026 của Ủy ban bầu cử xã Đại Thanh về việc công bố danh sách chính thức và phân bổ những người ứng cử đại biểu Hội đồng nhân dân xã Đại Thanh khóa II, nhiệm kỳ 2026 – 2031",
+      "url": "https://daithanh.hanoi.gov.vn/hoi-dong-nhan-dan/quyet-dinh-ve-viec-cong-bo-danh-sach-chinh-thuc-va-phan-bo-nhung-nguoi-ung-cu-dai-bieu-hoi-dong-nhan-dan-xa-dai-thanh-khoa-ii-nhiem-ky-2026-2031-2768260226094952956.htm",
+      "date": "2026-08-08",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-00664-3",
+      "title": "Nghị quyết số 111/2025/UBTVQH15 ngày 24 tháng 12 năm 2025 của Ủy ban Thường vụ Quốc hội về phân loại đô thị",
+      "url": "https://cdn.nhandan.vn/files/f4a4abf7f9a0ba4a91744616546d850872b76917f90d5a74cc9eebef1369fb6f/111.pdf",
+      "date": "2026-07-12",
+      "type": "wikipedia-ref"
+    }
+  ],
+  "note": "Trích tự động từ Wikipedia tiếng Việt (mode=table). Cần đối chiếu nghị quyết HĐND phường/xã.",
+  "tdp": [
+    {
+      "name": "8 Tả Thanh Oai",
+      "type": "thôn"
+    },
+    {
+      "name": "10 Tả Thanh Oai",
+      "type": "thôn"
+    },
+    {
+      "name": "Cầu Bươu",
+      "type": "thôn"
+    },
+    {
+      "name": "Hùynh Cung",
+      "type": "thôn"
+    },
+    {
+      "name": "Hữu Lê",
+      "type": "thôn"
+    },
+    {
+      "name": "Hữu Thanh Oai",
+      "type": "thôn"
+    },
+    {
+      "name": "Hữu Từ",
+      "type": "thôn"
+    },
+    {
+      "name": "Ích Vịnh",
+      "type": "thôn"
+    },
+    {
+      "name": "Nhân Hòa",
+      "type": "thôn"
+    },
+    {
+      "name": "Phú Diễn",
+      "type": "thôn"
+    },
+    {
+      "name": "Qùynh Đô",
+      "type": "thôn"
+    },
+    {
+      "name": "Siêu Quần",
+      "type": "thôn"
+    },
+    {
+      "name": "Tả Thanh Oai",
+      "type": "thôn"
+    },
+    {
+      "name": "Tập thể Phân Lân – 105",
+      "type": "thôn"
+    },
+    {
+      "name": "Tập thể Pin",
+      "type": "thôn"
+    },
+    {
+      "name": "Tập thể Yên Ngưu",
+      "type": "thôn"
+    },
+    {
+      "name": "Thượng Phúc",
+      "type": "thôn"
+    },
+    {
+      "name": "Vĩnh Ninh",
+      "type": "thôn"
+    },
+    {
+      "name": "Yên Ngưu",
+      "type": "thôn"
+    }
+  ]
+}

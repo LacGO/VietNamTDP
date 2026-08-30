@@ -1,0 +1,215 @@
+{{Thông tin đơn vị hành chính Việt Nam| Xã
+| tên = Đại Xuyên
+| vĩ độ = 20.69391831113625
+| kinh độ = 105.95345030418643
+| vĩ phút = 
+| vĩ giây = 
+| kinh phút = 
+| kinh giây = 
+| diện tích = 51,66 km²
+| dân số = 74.905 người
+| thời điểm dân số = 2025
+| mật độ dân số = {{formatnum:{{#expr:floor({{formatnum:74.905| R}}/{{formatnum:51,66| R}})}} }} người/km²
+| vùng = [[Đồng bằng sông Hồng]]
+| thành phố = [[Hà Nội]]
+| hình = Thôn Thượng Xuyên, xã Đại Xuyên, huyện Phú Xuyên, Hà Nội.jpg
+| ghi chú hình = Thôn Thượng Xuyên
+| web = {{url|daixuyen.hanoi.gov.vn}}
+| mã hành chính =10342<ref>{{Chú thích web |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/19ttg.signed.pdf |title=Quyết định số 19/2025/QĐ-TTg ngày 30 tháng 6 năm 2025 của Thủ tướng Chính phủ về việc Ban hành Bảng danh mục và mã số các đơn vị hành chính Việt Nam |access-date=2026-06-15 |archive-date=2026-06-15 |archive-url=https://web.archive.org/web/20260615034519/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/19ttg.signed.pdf |url-status=dead }}</ref> 
+|bản đồ 1={{maplink|frame=yes|plain=yes|type=shape|frame-width=280|frame-align=center|stroke-width=3}}|trụ sở Đảng ủy=Thôn Ninh Sơn|trụ sở UBND=Thôn Hòa Khê<ref>{{Chú thích web |url=https://storage-vnportal.vnpt.vn/gov-hni/6244/VanBan/2025/6/25/TB-729-2025.pdf |title=Thông báo số 729/TB-UBND ngày 25 tháng 6 năm 2025 của Ủy ban nhân dân thành phố Hà Nội về địa điểm trụ sở làm việc của 126 phường, xã sau sắp xếp thuộc phạm vi quản lý của thành phố Hà Nội|access-date=2026-06-15 |archive-date=2026-06-15 |archive-url=https://web.archive.org/web/20260615034519/https://storage-vnportal.vnpt.vn/gov-hni/6244/VanBan/2025/6/25/TB-729-2025.pdf |url-status=dead | website = Cổng Thông tin điện tử Ủy ban nhân dân thành phố Hà Nội}}</ref>}}
+'''Đại Xuyên''' là một [[Xã (Việt Nam)|xã]] thuộc thành phố [[Hà Nội]], [[Việt Nam]].
+
+== Địa lý== 
+Xã Đại Xuyên có vị trí địa lý:
+
+* Phía đông giáp xã [[Đức Hợp]] thuộc tỉnh [[Hưng Yên]] với ranh giới tự nhiên là [[sông Hồng]]
+* Phía tây giáp xã [[Chuyên Mỹ]]
+* Phía nam giáp phường [[Đồng Văn (phường)|Đồng Văn]] và phường [[Duy Tân (phường)|Duy Tân]] thuộc tỉnh [[Ninh Bình]]
+* Phía bắc giáp xã [[Phú Xuyên, Hà Nội|Phú Xuyên]].<ref>{{Chú thích web |last=Viện nghiên cứu Phát triển kinh tế – xã hội Hà Nội |date=2025-07-02 |title=Xã Đại Xuyên: Những thông tin chi tiết sau sắp xếp |url=https://hanoionline.vn/xa-dai-xuyen-nhung-thong-tin-chi-tiet-sau-sap-xep-344290.htm |url-status=live |archive-url=https://web.archive.org/web/20260701400809/https://hanoionline.vn/xa-dai-xuyen-nhung-thong-tin-chi-tiet-sau-sap-xep-344290.htm |archive-date=2026-07-01 |access-date=2026-07-01 |website=Cơ quan Báo và Phát thanh Truyền hình Hà Nội}}</ref><ref>{{Chú thích web |last=Cơ quan Báo và Phát thanh Truyền hình Hà Nội |date=2025-07-09 |title=Xã Đại Xuyên: Tất cả thông tin chỉ dẫn bạn cần biết |url=https://hanoionline.vn/xa-dai-xuyen-tat-ca-thong-tin-chi-dan-ban-can-biet-345197.htm |url-status=live |archive-url=https://web.archive.org/web/20260711401509/https://hanoionline.vn/xa-dai-xuyen-tat-ca-thong-tin-chi-dan-ban-can-biet-345197.htm |archive-date=2026-07-11 |access-date=2026-07-11}}</ref>
+Xã Đại Xuyên có diện tích tự nhiên là 51,66 km<sup>2</sup>, quy mô dân số năm 2025 là 74.906 người và mật độ dân số đạt 1.449 người/km<sup>2</sup>.<ref>{{Chú thích web |last=Mai Hữu |date=2026-04-05 |title=Hà Nội: Chi tiết phương án tổng thể sắp xếp đơn vị hành chính cấp xã |url=https://hanoimoi.vn/ha-noi-chi-tiet-phuong-an-tong-the-sap-xep-don-vi-hanh-chinh-cap-xa-700278.html |url-status=live |archive-url=https://web.archive.org/web/20260711401509/https://hanoimoi.vn/ha-noi-chi-tiet-phuong-an-tong-the-sap-xep-don-vi-hanh-chinh-cap-xa-700278.html |archive-date=2026-07-11 |access-date=2026-07-11 |website=Cơ quan Báo và Phát thanh, truyền hình Hà Nội}}</ref><ref>Công văn số 2896/BNV-CQĐP ngày 27 tháng 5 năm 2025 của Bộ Nội vụ về việc cung cấp thông tin danh mục dự kiến đơn vị hành chính cấp xã mới.</ref>
+
+== Lịch sử==
+
+=== Trước năm 1976 ===
+
+=== Giai đoạn 1976 – nay ===
+Sau ngày 2 tháng 7 năm 1976, 7 xã: Bạch Hạ, Đại Xuyên, Khai Thái, Minh Tân, Phú Tiến và Quang Lãng thuộc huyện [[Phú Xuyên (huyện)|Phú Xuyên]] của tỉnh [[Hà Sơn Bình]].
+
+Ngày 12 tháng 8 năm 1991, chia tỉnh [[Hà Sơn Bình]] thành 2 tỉnh, lấy tên là tỉnh [[Hòa Bình (tỉnh)|Hòa Bình]] và tỉnh [[Hà Tây (tỉnh)|Hà Tây]]. Khi đó, 7 xã: Bạch Hạ, Đại Xuyên, Khai Thái, Minh Tân, Phú Tiến và Quang Lãng thuộc huyện [[Phú Xuyên (huyện)|Phú Xuyên]] của thuộc tỉnh [[Hà Tây (tỉnh)|Hà Tây]].<ref>Nghị quyết ngày 12 tháng 8 năm 1991 của Quốc hội khóa VIII, Kỳ họp thứ 9 về việc điều chỉnh địa giới hành chính một số tỉnh, thành phố trực thuộc Trung ương.</ref>
+
+Ngày 29 tháng 5 năm 2008, hợp nhất tỉnh [[Hà Tây (tỉnh)|Hà Tây]] vào thành phố [[Hà Nội]]. Khi đó, 7 xã: Bạch Hạ, Đại Xuyên, Khai Thái, Minh Tân, Phú Tiến và Quang Lãng thuộc huyện [[Phú Xuyên (huyện)|Phú Xuyên]] của thành phố [[Hà Nội]].<ref>Nghị quyết số 15/2008/QH12 ngày 29 tháng 5 năm 2008 của Quốc hội khóa XII, Kỳ họp thứ 3 về việc điều chỉnh địa giới hành chính thành phố Hà Nội và một số tỉnh có liên quan.</ref>
+
+Ngày 16 tháng 6 năm 2025:
+
+* Kết thúc hoạt động của đơn vị hành chính cấp huyện trong cả nước.<ref>{{Chú thích web |last= |date= |title=Nghị quyết số 203/2025/QH15 ngày 16 tháng 6 năm 2025 của Quốc hội khóa XV, Kỳ họp thứ 9 về việc sửa đổi, bổ sung một số điều của Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/nq-sua-doi-hien-phap.pdf |url-status=live |archive-url=https://web.archive.org/web/20260613090807/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/nq-sua-doi-hien-phap.pdf |archive-date=2026-06-13 |access-date=2026-06-13 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+* Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của các xã Bạch Hạ, Khai Thái, Minh Tân, Phúc Tiến, Quang Lãng, Tri Thủy và Đại Xuyên (huyện [[Phú Xuyên (huyện)|Phú Xuyên]]) thành xã mới có tên gọi là xã Đại Xuyên.<ref>{{Chú thích web |title=Nghị quyết số 1656/NQ-UBTVQH15 ngày 16 tháng 6 năm 2025 của Ủy ban Thường vụ Quốc hội về việc sắp xếp các đơn vị hành chính cấp xã của thành phố Hà Nội năm 2025 |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf |url-status=live |archive-url=https://web.archive.org/web/20260630400809/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf |archive-date=2026-06-30 |access-date=2026-06-30 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+* Sau khi sắp xếp, xã Đại Xuyên được chia thành 46 khu dân cư – xóm – thôn, gồm 2 khu dân cư, 1 xóm và 43 thôn.<ref>6 thôn: An Bình, Giáp Ba, Giáp Tư, Hòa Hạ, Hòa Thượng và Thủy Trú của xã Bạch Hạ cũ; 6 khu dân cư – thôn, gồm khu dân cư Bãi Chim và 5 thôn: Khai Thái, Lập Phương, Vĩnh Hạ, Vĩnh Thượng, Vĩnh Trung của xã Khai Thái cũ; 8 thôn: Bái Xuyên, Đồng Lạc, Mai Trang, Tân Tiến, Thành Lập 1, 2 và Thần Quy của xã Minh Tân cũ; 5 thôn: An Khoái, Cổ Chế, Khả Liễu, Phúc Lâm và Ứng Hòa của xã Phúc Tiến cũ; 8 thôn: Mai Xá, Mễ, Quang Lãng, Sảo Hạ, Sảo Thượng, Tạ, Tầm Hạ và Tầm Thượng của xã Quang Lãng cũ; 6 thôn – xóm, gồm 5 thôn: Bái Đô, Hoàng Nguyên, Nhân Sơn, Tri Thủy, Vĩnh Ninh và xóm Hồng Thái của xã Tri Thủy cũ; 7 khu dân cư – thôn, gồm khu dân cư Cầu Giẽ và 6 thôn: Cổ Trai, Đa Chất, Kiều Đoài, Kiều Đông, Thái Lai, Thường Xuyên của xã Đại Xuyên cũ.</ref><ref>{{Chú thích web |title=Thông tư số 10/2022/TT-BTNMT ngày 29 tháng 9 năm 2022 của Bộ Tài nguyên và Môi trường về việc Ban hành Danh mục địa danh dân cư, sơn văn, thủy văn, kinh tế – xã hội phục vụ công tác thành lập bản đồ thành phố Hà Nội |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2022/10/10-btnmt.pdf |url-status=live |archive-url=https://web.archive.org/web/20260630400809/https://datafiles.chinhphu.vn/cpp/files/vbpq/2022/10/10-btnmt.pdf |archive-date=2026-06-30 |access-date=2026-06-30 |website=Cổng Thông tin điện tử Chính phủ}}</ref><ref>{{Chú thích web |title=Quyết định số 6/QĐ-UBBC ngày 18 tháng 12 năm 2025 của Ủy ban bầu cử xã Đại Xuyên về việc ấn định số đơn vị bầu cử, danh sách các đơn vị bầu cử và số lượng đại biểu được bầu ở mỗi đơn vị bầu cử đại biểu Hội đồng nhân dân xã Đại Xuyên nhiệm kỳ 2026 - 2031 |url=https://datafiles.hanoi.gov.vn/gov-hni/7006/VanBan/2026/1/13/Q%C4%90%20C%C3%94NG%20BO%20CAC%20DON%20VI%20BC%20X%C3%83%20%C4%90%E1%BA%A0I%20XUY%C3%8AN%20(1).pdf |url-status=live |archive-url=https://web.archive.org/web/20260702400809/https://datafiles.hanoi.gov.vn/gov-hni/7006/VanBan/2026/1/13/Q%C4%90%20C%C3%94NG%20BO%20CAC%20DON%20VI%20BC%20X%C3%83%20%C4%90%E1%BA%A0I%20XUY%C3%8AN%20(1).pdf |archive-date=2026-07-02 |access-date=2026-07-02 |website=Trang Thông tin điện tử xã Đại Xuyên – thành phố Hà Nội}}</ref>
+
+Ngày 26 tháng 6 năm 2026, thành lập 13 thôn mới: Vĩnh Xuân, An Hòa, Đông Đoài, Cổ Trai, Đa Thái, Bình Minh, Hòa Khê, Ninh Sơn, Bái Đô, Minh Khai, Quang Lãng, Kim Quy, Bái Xuyên và Thần Quy.<ref>1. 9 thôn được giữ nguyên gồm: Lập Phương, Khai Thái, Vĩnh Thượng, Cổ Chế, Khả Liễu, Phúc Lâm, Thường Xuyên, Tri Thủy và Hoàng Nguyên; 2. Thôn Vĩnh Xuân được thành lập trên cơ sở sáp nhập thôn Vĩnh Trung, Vĩnh Hạ và khu dân cư Bãi Chim; 3. Thôn An Hòa được thành lập từ thôn Ứng Hòa và An Khoái; 4. Thôn Đông Đoài được hình thành từ thôn Kiều Đông, Kiều Đoài và một phần khu dân cư Cầu Giẽ; 5. Thôn Cổ Trai được thành lập từ thôn Cổ Trai và phần còn lại của khu dân cư Cầu Giẽ; 6. Thôn Đa Thái được sáp nhập từ thôn Thái Lai và Đa Chất; 7. Thôn Bình Minh được thành lập từ các thôn Giáp Ba, Giáp Tư, An Bình và Thủy Trú; 8. Thôn Hòa Khê được hình thành từ thôn Hòa Thượng và Hòa Hạ; 9. Thôn Ninh Sơn được thành lập trên cơ sở sáp nhập thôn Vĩnh Ninh và Nhân Sơn; 10. Thôn Bái Đô được thành lập từ thôn Bái Đô và xóm Hồng Thái; 11. Thôn Minh Khai được hình thành từ các thôn Tạ, Sảo Thượng, Sảo Hạ và Mễ; 12. Thôn Quang Lãng được thành lập từ các thôn Quang Lãng, Tầm Thượng, Tầm Hạ và Mai Xá; 13. Thôn Kim Quy được sáp nhập từ các thôn Kim Quy, Thành Lập 1, Thành Lập 2 và Tân Tiến; 14. Thôn Bái Xuyên được thành lập từ thôn Bái Xuyên và Đồng Lạc; 15. Thôn Thần Quy được hình thành trên cơ sở sáp nhập thôn Mai Trang và Thần Quy.</ref><ref name=":1">{{Chú thích web |last=Ủy ban nhân dân xã Đại Xuyên – thành phố Hà Nội |date=2026 |title=Đề án sắp xếp thôn, xóm, khu dân cư trên địa bàn xã Đại Xuyên, thành phố Hà Nội |url=https://drive.google.com/drive/folders/1RC1Wa6P95kpSCjv9VMVvrrhwQelBn_Bc |url-status=live |archive-url=https://web.archive.org/web/20260702400809/https://drive.google.com/drive/folders/1RC1Wa6P95kpSCjv9VMVvrrhwQelBn_Bc |archive-date=2026-07-02 |access-date=2026-07-02}}</ref><ref name=":0">{{Chú thích web |last=Trang Thông tin điện tử xã Đại Xuyên – thành phố Hà Nội |date=2026-07-07 |title=Xã Đại Xuyên chính thức có 23 thôn sau khi sắp xếp, tổ chức lại |url=https://daixuyen.hanoi.gov.vn/thong-tin-tuyen-truyen/xa-dai-xuyen-chinh-thuc-co-23-thon-sau-khi-sap-xep-to-chuc-lai-2699260706101554813.htm?gidzl=x5Fo7Gm1h7_eJFOR1XkkSET1zXCV5QLt-qUg4Hz5ztRx4FX164UX9Vz5-KHF5QSce4JuH6BMOsjJ2G2eVG |url-status=live |archive-url=https://web.archive.org/web/20260708400809/https://daixuyen.hanoi.gov.vn/thong-tin-tuyen-truyen/xa-dai-xuyen-chinh-thuc-co-23-thon-sau-khi-sap-xep-to-chuc-lai-2699260706101554813.htm?gidzl=x5Fo7Gm1h7_eJFOR1XkkSET1zXCV5QLt-qUg4Hz5ztRx4FX164UX9Vz5-KHF5QSce4JuH6BMOsjJ2G2eVG |archive-date=2026-07-08 |access-date=2026-07-08}}</ref><!-- 
+== Lịch sử== 
+♦ Thôn Tri Thủy xưa kia có tên là Biện Thủy. Đây là khu đất trũng gần bến sông, những cư dân làm nghề chài lưới đến đây tụ cư, dần trở thành xóm chài. Những dòng họ đến đây sinh sống là họ Vũ, họ Tạ, họ Phạm, họ Nguyễn, họ Đỗ, họ Lê, họ Đào... Sau này Biện Thủy được đổi tên thành Tri Thủy.
+
+♦ Thôn Nhân Sơn, xưa kia có tên là Khơi Xá, thuộc làng Biện Thủy. Những dòng họ đến đây sinh sống là họ Nguyễn, họ Trần, họ Đào, họ Hoàng và họ Chu. Năm 1890, làng Khơi Xá được đổi tên thành Nhân Sơn.
+
+♦ Thôn Vĩnh Ninh có chùa Đa Bảo là chốn tổ đạo Phật của xã, xây dựng vào năm 1684. Chùa là nơi sinh hoạt tín ngưỡng,đào tạo các tu hành, chức sắc đạo Phật như các tăng sư, đại đức... Trong những năm kháng chiến chùa là nơi hoạt động bí mật của tổ chức Việt Minh. 
+Những dòng họ đến Vĩnh Ninh sinh sống là họ Nguyễn, họ Tạ, họ Đào, họ Trần, họ Hoàng,...
+
+♦ Thôn Hoàng Nguyên, là thôn có Tiểu chủng viện Hoàng Nguyên được xây dựng vào năm 1823. Đây là nơi giảng dạy kinh bổn, giáo lý và đào tạo các tu sĩ, linh mục,... của Công giáo. Hoàng Nguyên là thôn Công giáo toàn tòng. Những dòng họ đến đây sinh sống là họ Nguyễn, họ Lại, họ Đào,...
+
+♦ Thôn Bái Đô, trước kia có tên là Bái Đô Thượng. Những dòng họ đến đây sinh sống là họ Nguyễn, họ Phạm, họ Đỗ, họ Đào, họ Hoàng, họ Lê,...
+
+♦ Xóm Hồng Thái xưa kia có tên là xóm kẻ khó, bao gồm những người dân nghèo bỏ quê của mình đến đây làm thuê cho nhà chung, sau đó được nhà chung cấp đất và được cố đạo người Pháp bảo lãnh với Công xứ người Pháp, nên được đổi tên là Đạo Nguyên. Năm 1961 Đạo Nguyên được đổi tên thành Hồng Thái. Trước đây xóm Hồng Thái thuộc thôn Bái Đô, từ năm 1994 được tách ra thành đơn vị hành chính độc lập. Những dòng họ đến đây sinh sống là họ Nguyễn, họ Hoàng, họ Vương,...
+
+• Cùng với quá trình biến đổi của tự nhiên, xã hội, địa giới hành chính và tên gọi của các làng xã có nhiều thay đổi: Từ trước Cách mạng tháng 8 năm 1945, các thôn trên là những làng độc lập thuộc tổng Biện Thủy, huyện Phú Xuyên, tỉnh Hà Đông. Đến tháng 4-1946, các xã trên được hợp nhất thành hai xã là Trí Bảo (gồm Tri Thủy, Nhân Sơn, Vĩnh Ninh) và Bái Hoàng Đạo (gồm Hoàng Nguyên, Bái Đô, Đạo Nguyên), thuộc huyện Phú Xuyên,tỉnh Hà Đông. Năm 1948, hai xã Trí Bảo và Bái Hoàng Đạo được hợp nhất, lấy tên là xã Hiệp Hoà. Cuối năm 1970, xã Hiệp Hoà được đổi tên là xã Tri Thủy, thuộc huyện Phú Xuyên, tỉnh Hà Tây. Năm 1976, tỉnh Hà Tây hợp nhất với tỉnh Hoà Bình, xã Tri Thủy thuộc huyện Phú Xuyên, tỉnh Hà Sơn Bình. Năm 1991, hai tỉnh Hà Tây và Hoà Bình tái lập, xã Tri Thủy thuộc huyện Phú Xuyên, tỉnh Hà Tây.
+
+== Di tích lịch sử== 
+* Chùa Đa Bảo: được xây dựng từ năm 1684 (niên hiệu Vĩnh Tộ đời vua Lê Hi Tông). Do thời gian và chiến tranh, đặc biệt là trong thời kì kháng chiến chống [[Pháp]], chùa đã bị hư hại và phải trải qua nhiều lần trùng tu. Hiện nay chùa toạ lạc tại thôn Vĩnh Ninh.
+* Tiểu chủng viện Hoàng Nguyên: được người Pháp xây dựng năm 1823, tại thôn Hoàng Nguyên. Đây từng là nơi học tập của rất nhiều chức sắc nổi tiếng của Công giáo như Hồng y [[Phaolô Giuse Phạm Đình Tụng| Phạm Đình Tụng]], Hồng y [[Giuse Maria Trịnh Văn Căn| Trịnh Văn Căn]]...
+*Đình Tri Thủy: thuộc thôn Tri Thủy, có thời kì được gọi là Tri Thủy trường, do người Pháp chiếm đóng làm nơi thực hiện các công việc hành chính trong xã.
+*Văn chỉ Tri Thủy: Văn chỉ là nơi được xây dựng để khuyến khích việc học tập theo khoa cử xưa. Văn chỉ của xã Tri Thủy từng được xây dựng ở phía sau đình Tri Thủy, nhưng đã bị phá huỷ trong thập kỷ 70-80 của thế kỷ XX. Ngày nay nền móng của Văn chỉ Tri Thủy vẫn còn và đang có nhiều ý kiến mong muốn phục dựng Văn chỉ như một cách để bảo tồn truyền thống và khuyến khích tinh thần học tập của con em nhân dân trong thôn.
+
+== Văn hoá giáo dục== 
+• Văn Hoá:
+
+Vào cuối thời Lê, đầu thời Nguyễn (thế kỷ XVII-XX) các làng đều có phe, giáp, phường, hội.
+
+Giáp là tổ chức xã hội tập hợp quần chúng theo giới tính. Nhà ai sinh con trai, khi đầy tuổi có cơi trầu trình với giáp trưởng để giáp trưởng làm lễ thánh. Lúc ấy, người đó đã bắt đầu trở thành thành viên của giáp. Thông thường làng nào cũng có giáp, tuỳ theo làng lớn hay làng nhỏ mà mỗi làng có từ 2 đến 3 giáp. Điểm sinh hoạt của các giáp là đình làng.
+
+Các làng xưa còn có các hội, như hội tư văn, hội vãi già...và các hội khác như hội đồng môn, phường, tổ chức đăng lính...
+
+Ngày nay, dấu ấn của phường hội vẫn còn hiện diện, tuy rất mờ nhạt. Các làng đều có nhà văn hoá, có quy chế hoạt động (tương tự hương ước) của làng, xã.
+
+Đình, chùa, nhà thờ,... được giữ gìn, tôn tạo.
+
+• Giáo dục:
+
+Trong lịch sử, đã có một số người trong xã đỗ đạt trong các cuộc thi theo khoa cử truyền thống, như: cụ Vũ Tú Sáu ở thôn Tri Thủy, cụ Nguyễn Huy Môn ở thôn Nhân Sơn (đỗ tú tài toàn phần và được cử làm quan ở Hà Nam.
+ 
+Hiện nay, các thôn trong xã đều đã có một trường tiểu học, xã có một trường trung học cơ sở đặt tại thôn Nhân Sơn. Các trường đều được xây dựng kiên cố, khang trang, được trang bị đầy đủ các trang thiết bị học tập cần thiết.
+
+Xã có một trường cấp 3 đóng trên địa bàn thôn Tri Thủy, trường Trung hoc phổ thông Phú Xuyên B.
+
+Ngày nay, cùng với sự phát triển chung về đời sống vật chất và đời sống tinh thần của nhân dân, công tác giáo dục được người dân trong xã rất chú ý.
+
+== Kinh tế== 
+Xã có 1 chợ là chợ Bìm, tại thôn Tri Thủy, là nơi để người dân trao đổi, buôn bán hàng hoá.
+Người dân trong xã chủ yếu sống bằng nông nghiệp, ngoài ra còn có các nghề thủ công, một số người làm nghề buôn bán nhỏ,...
+
+Đàn gia súc gia cầm trong xã khá lớn, và được biết đến như là một trong những trung tâm ấp trứng vịt, giết mổ trâu bò lớn trong huyện Phú Xuyên.
+
+Chùa Giáng (Ráng) tên chữ là Viên Minh Tự khá nổi tiếng. Đây là nơi trụ trì của Hòa thượng Thích Phổ Tuệ, Pháp chủ Giáo hội Phật giáo Việt Nam.
+
+[[Di tích về thời Đinh| Quần thể di tích Quang Lãng]] gồm các đền, đình, miếu, lăng mộ ở các làng thuộc địa bàn xã Quang Lãng thờ Lục vị đại vương (6 anh em trai là Nguyễn Vật, Nguyễn Lôi, Nguyễn Quảng, Nguyễn Quán, Nguyễn Linh, Nguyễn Lặc có công giúp vua [[Đinh Tiên Hoàng]] dẹp [[loạn 12 sứ quân]], tiêu biểu như đình Sảo Thượng, đình Mai Xá,...<ref>[http://nguoihanoi.com.vn/su-tich-thanh-hoang-dinh-sao-thuong_241103.html Sự tích Thành hoàng đình Sảo Thượng]</ref>
+
+*Đình Quang Lãng là nơi thờ chính Nguyễn Quán và Nguyễn Lặc tại nơi mà 4 người em lập đồn Hạ.
+*Đình Mễ thờ Lục vị đại vương, họ Nguyễn tên Vật, Lôi, Quảng, Quán, Linh, Lặc công giúp vua Đinh Tiên Hoàng dẹp loạn 12 sứ quân. Đình được xếp hạng di tích quốc gia.
+*Đình Mai Xá là nơi thờ chính Nguyễn Quảng và Nguyễn Linh tại nơi hai ông mất và cũng thuộc khu vực lập đồn Hạ.
+*Đình Sảo Thượng là di tích quốc gia thờ Nguyễn Vật - hiệu Hiển Vật đại vương là người anh cả trong sáu anh em trai có công giúp vua Đinh Tiên Hoàng dẹp loạn 12 sứ quân. Đặc biệt, Đạo quân của ông Nguyễn Vật đã tiến về Trường Châu đánh thắng sứ quân Trần Hồ. Đình được xếp hạng di tích quốc gia năm 2001.
+*Đình Tạ và đình Sảo Thượng là nơi thờ chính Nguyễn Vật tại nơi người anh cả lập đồn Thượng.
+*Đình Tầm Khê thờ chính Nguyễn Lôi, người đã lập đồn Trung tại khu Cây Gạo.
+
+ -->
+
+== Hành chính ==
+Xã Đại Xuyên được chia thành 23 thôn: An Hòa, Bái Đô, Bái Xuyên, Bình Minh, Cổ Chế, Cổ Trai, Đa Thái, Đông Đoài, Hoàng Nguyên, Hòa Khê, Khai Thái, Khả Liễu, Kim Quy, Lập Phương, Minh Khai, Ninh Sơn, Phúc Lâm, Quang Lãng, Thần Quy, Thường Xuyên, Tri Thủy, Vĩnh Thượng và Vĩnh Xuân.<ref name=":1" /><ref name=":0" />
+{| class="wikitable sortable" cellpadding="0" cellspacing="6" width="100%" align="center" style="background: #f9f9f9; border: 1px #aaa solid; margin-top: 16px"
+! colspan="4" style="background: #E6E6FA; font-size: 95%;" |Danh sách các thôn thuộc xã Đại Xuyên<ref name=":1" /><ref name=":0" />
+|-
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| cellpadding="1" cellspacing="1" width="100%" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |An Hòa
+|1.094
+|-
+| align="left" |Bái Đô
+|744
+|-
+| align="left" |Bái Xuyên
+|1.529
+|-
+| align="left" |Bình Minh
+|1.240
+|-
+| align="left" |Cổ Chế
+|905
+|-
+| align="left" |Cổ Trai
+|946
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| cellpadding="1" cellspacing="1" width="100%" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Đa Thái
+|816
+|-
+| align="left" |Đông Đoài
+|670
+|-
+| align="left" |Hoàng Nguyên
+|679
+|-
+| align="left" |Hòa Khê
+|1.322
+|-
+| align="left" |Khai Thái
+|676
+|-
+| align="left" |Khả Liễu
+|642
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| cellpadding="1" cellspacing="1" width="100%" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Kim Quy
+|1.681
+|-
+| align="left" |Lập Phương
+|621
+|-
+| align="left" |Minh Khai
+|675
+|-
+| align="left" |Ninh Sơn
+|1.050
+|-
+| align="left" |Phúc Lâm
+|704
+|-
+| align="left" |Quang Lãng
+|1.039
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| cellpadding="1" cellspacing="1" width="100%" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Thần Quy
+|1.555
+|-
+| align="left" |Thường Xuyên
+|547
+|-
+| align="left" |Tri Thủy
+|809
+|-
+| align="left" |Vĩnh Thượng
+|520
+|-
+| align="left" |Vĩnh Xuân
+|3.121
+|}
+|}
+
+== Chú thích ==
+{{tham khảo| 30em}}
+
+== Tham khảo==
+
+{{sơ khai Hà Nội}}
+{{Đơn vị hành chính thuộc thành phố Hà Nội}}

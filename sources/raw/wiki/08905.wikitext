@@ -1,0 +1,71 @@
+{{Thông tin đơn vị hành chính Việt Nam|xã
+| tên = Hội Thịnh
+| hình = 
+| ghi chú hình = 
+| vĩ độ = 21.338479823117744
+| kinh độ = 105.5508919885936
+| diện tích = 25,10 km²<ref name=MS/>
+| dân số = 37.115 người<ref name=MS/>
+| thời điểm dân số = 2025
+| mật độ dân số = {{formatnum:{{#expr:floor({{formatnum:37.115|R}}/{{formatnum:25,10|R}})}} }} người/km²
+| vùng = [[Đông Bắc Bộ]]
+| tỉnh = [[Phú Thọ]]
+| thành lập =1 tháng 1 năm 2025<ref>Nghị quyết số 1287/NQ-UBTVQH15</ref> 
+| trụ sở UBND = 
+| mã hành chính = 08905<ref>{{Chú thích web |url=https://danhmuchanhchinh.gso.gov.vn/ |title=Tổng cục Thống kê |access-date=2022-04-10 |archive-date=2021-01-10 |archive-url=https://web.archive.org/web/20210110034519/https://www.gso.gov.vn/phuong-phap-thong-ke/danh-muc/don-vi-hanh-chinh/ |url-status=dead }}</ref>
+| mã bưu chính =15214 
+|web={{url|hoithinh.phutho.gov.vn}}
+}}
+
+'''Hội Thịnh''' là một [[Xã (Việt Nam)|xã]] thuộc tỉnh [[Phú Thọ]], [[Việt Nam]].
+
+==Địa lý==
+Xã Hội Thịnh nằm ở phía Đông tỉnh [[Phú Thọ]], cách phường [[Việt Trì (phường)|Việt Trì]] 20&nbsp;km về phía đông, có vị trí địa lý<ref>{{Chú thích web |title=Đơn vị hành chính Việt Nam |url=https://sapnhap.bando.com.vn/ |access-date=2026-06-08 |website=sapnhap.bando.com.vn}}</ref>:
+
+* Phía Bắc giáp xã [[Tam Dương (xã)|Tam Dương]].
+* Phía Nam giáp xã [[Tề Lỗ]].
+* Phía Tây giáp xã [[Hoàng An]] và xã [[Vĩnh An, Phú Thọ|Vĩnh An]].
+* Phía Đông giáp phường [[Vĩnh Phúc (phường)|Vĩnh Phúc]] và phường [[Vĩnh Yên (phường)|Vĩnh Yên]].
+
+Xã có diện tích 25,10&nbsp;km², dân số năm 2025 là 37.115 người, mật độ dân số đạt {{formatnum:{{#expr:floor({{formatnum:37.115|R}}/{{formatnum:25,10|R}})}} }} người/km².<ref>{{Chú thích web |title=Xã Hội Thịnh, Tỉnh Phú Thọ mới sáp nhập 2026 |url=https://tinhthanhvn.com/province/phu-tho/xa-hoi-thinh |access-date=2026-06-08 |website=Tỉnh Thành Việt Nam |language=vi}}</ref>
+
+==Hành chính==
+Xã Hội Thịnh được chia thành 28 thôn: 12, Chấn Yên, Chùa, Cuối, Diên Lâm, Đình, Đông, Giữa, Hạ, Hưng Thịnh, Lạc Thịnh, Lê Lợi, Mai Nham, Nhân Mỹ, Phú Ninh, Phú Thị, Phúc Lai, Quang Trung, Tân Thịnh, Thọ Khánh, Thượng, Trại Giềng, Vân Du Hòa, Vân Giữa, Vân Nội, Vân Sau, Vân Tập, Xuân Mới.<ref>{{Chú thích web |last=Trang Thông tin điện tử xã Hội Thịnh - tỉnh Phú Thọ |date=2026-03-06 |title=Tiểu sử tóm tắt 05 người ứng cử đại biểu Hội đồng nhân dân xã Hội Thịnh khóa III, nhiệm kỳ 2026 - 2031. Tại Đơn vị bầu cử số 01 (Gồm các thôn: Lạc Thịnh, Hưng Thịnh, Quang Trung, Thọ Khánh). |url=https://hoithinh.phutho.gov.vn/index.php/tin-tuc-su-kien/chinh-tri/tieu-su-tom-tat-05-nguoi-ung-cu-dai-bieu-hoi-dong-nhan-dan-xa-hoi-thinh-khoa-iii-nhiem-ky-2026-2031-tai-don-vi-bau-cu-so-01 |url-status=live |archive-url=https://web.archive.org/web/20260421090807/https://hoithinh.phutho.gov.vn/index.php/tin-tuc-su-kien/chinh-tri/tieu-su-tom-tat-05-nguoi-ung-cu-dai-bieu-hoi-dong-nhan-dan-xa-hoi-thinh-khoa-iii-nhiem-ky-2026-2031-tai-don-vi-bau-cu-so-01 |archive-date=2026-04-21 |access-date=2026-04-21}}</ref><ref>{{Chú thích web |last=Trang Thông tin điện tử xã Hội Thịnh - tỉnh Phú Thọ |date=2026-03-06 |title=Tiểu sử tóm tắt 05 người ứng cử đại biểu Hội đồng nhân dân xã Hội Thịnh khóa III, nhiệm kỳ 2026 - 2031. Tại Đơn vị bầu cử số 02 (Gồm các thôn: Lê Lợi, Tân Thịnh, Vân Sau, Vân Nội). |url=https://hoithinh.phutho.gov.vn/index.php/tin-tuc-su-kien/chinh-tri/tieu-su-tom-tat-05-nguoi-ung-cu-dai-bieu-hoi-dong-nhan-dan-xa-hoi-thinh-khoa-iii-nhiem-ky-2026-2031-tai-don-vi-bau-cu-so-02 |url-status=live |archive-url=https://web.archive.org/web/20260421090807/https://hoithinh.phutho.gov.vn/index.php/tin-tuc-su-kien/chinh-tri/tieu-su-tom-tat-05-nguoi-ung-cu-dai-bieu-hoi-dong-nhan-dan-xa-hoi-thinh-khoa-iii-nhiem-ky-2026-2031-tai-don-vi-bau-cu-so-02 |archive-date=2026-04-21 |access-date=2026-04-21}}</ref><ref>{{Chú thích web |last=Trang Thông tin điện tử xã Hội Thịnh - tỉnh Phú Thọ |date=2026-03-06 |title=Tiểu sử tóm tắt 05 người ứng cử đại biểu Hội đồng nhân dân xã Hội Thịnh khóa III, nhiệm kỳ 2026 - 2031. Tại Đơn vị bầu cử số 03 (Gồm các thôn: Chấn Yên, Vân Tập, Vân Giữa, Giữa) |url=https://hoithinh.phutho.gov.vn/index.php/tin-tuc-su-kien/chinh-tri/tieu-su-tom-tat-05-nguoi-ung-cu-dai-bieu-hoi-dong-nhan-dan-xa-hoi-thinh-khoa-iii-nhiem-ky-2026-2031-tai-don-vi-bau-cu-so-03 |url-status=live |archive-url=https://web.archive.org/web/20260421090807/https://hoithinh.phutho.gov.vn/index.php/tin-tuc-su-kien/chinh-tri/tieu-su-tom-tat-05-nguoi-ung-cu-dai-bieu-hoi-dong-nhan-dan-xa-hoi-thinh-khoa-iii-nhiem-ky-2026-2031-tai-don-vi-bau-cu-so-03 |archive-date=2026-04-21 |access-date=2026-04-21}}</ref><ref>{{Chú thích web |last=Trang Thông tin điện tử xã Hội Thịnh - tỉnh Phú Thọ |date=2026-03-09 |title=Tiểu sử tóm tắt 07 người ứng cử đại biểu Hội đồng nhân dân xã Hội Thịnh khóa III, nhiệm kỳ 2026 - 2031. Tại Đơn vị bầu cử số 04 (Gồm các thôn: Viên Du Hoà, 12, Nhân Mỹ và thôn Phú Thị) |url=https://hoithinh.phutho.gov.vn/index.php/tin-tuc-su-kien/chinh-tri/tieu-su-tom-tat-07-nguoi-ung-cu-dai-bieu-hoi-dong-nhan-dan-xa-hoi-thinh-khoa-iii-nhiem-ky-2026-2031-tai-don-vi-bau-cu-so-04 |url-status=live |archive-url=https://web.archive.org/web/20260421090807/https://hoithinh.phutho.gov.vn/index.php/tin-tuc-su-kien/chinh-tri/tieu-su-tom-tat-07-nguoi-ung-cu-dai-bieu-hoi-dong-nhan-dan-xa-hoi-thinh-khoa-iii-nhiem-ky-2026-2031-tai-don-vi-bau-cu-so-04 |archive-date=2026-04-21 |access-date=2026-04-21}}</ref><ref>{{Chú thích web |last=Trang Thông tin điện tử xã Hội Thịnh - tỉnh Phú Thọ |date=2026-03-09 |title=Tiểu sử tóm tắt 05 người ứng cử đại biểu Hội đồng nhân dân xã Hội Thịnh khóa III, nhiệm kỳ 2026 - 2031. Tại Đơn vị bầu cử số 05 (Gồm các thôn: Đình, Trại Giềng, Xuân Mới và Phú Ninh) |url=https://hoithinh.phutho.gov.vn/index.php/tin-tuc-su-kien/chinh-tri/tieu-su-tom-tat-05-nguoi-ung-cu-dai-bieu-hoi-dong-nhan-dan-xa-hoi-thinh-khoa-iii-nhiem-ky-2026-2031-tai-don-vi-bau-cu-so-05 |url-status=live |archive-url=https://web.archive.org/web/20260421090807/https://hoithinh.phutho.gov.vn/index.php/tin-tuc-su-kien/chinh-tri/tieu-su-tom-tat-05-nguoi-ung-cu-dai-bieu-hoi-dong-nhan-dan-xa-hoi-thinh-khoa-iii-nhiem-ky-2026-2031-tai-don-vi-bau-cu-so-05 |archive-date=2026-04-21 |access-date=2026-04-21}}</ref><ref>{{Chú thích web |last=Trang Thông tin điện tử xã Hội Thịnh - tỉnh Phú Thọ |date=2026-03-09 |title=Tiểu sử tóm tắt 05 người ứng cử đại biểu Hội đồng nhân dân xã Hội Thịnh khóa III, nhiệm kỳ 2026 - 2031. Tại Đơn vị bầu cử số 06 (Gồm các thôn: Phúc Lai, Đông, Chùa và Mai Nham) |url=https://hoithinh.phutho.gov.vn/index.php/tin-tuc-su-kien/chinh-tri/tieu-su-tom-tat-05-nguoi-ung-cu-dai-bieu-hoi-dong-nhan-dan-xa-hoi-thinh-khoa-iii-nhiem-ky-2026-2031-tai-don-vi-bau-cu-so-06 |url-status=live |archive-url=https://web.archive.org/web/20260421090807/https://hoithinh.phutho.gov.vn/index.php/tin-tuc-su-kien/chinh-tri/tieu-su-tom-tat-05-nguoi-ung-cu-dai-bieu-hoi-dong-nhan-dan-xa-hoi-thinh-khoa-iii-nhiem-ky-2026-2031-tai-don-vi-bau-cu-so-06 |archive-date=2026-04-21 |access-date=2026-04-21}}</ref><ref>{{Chú thích web |last=Trang Thông tin điện tử xã Hội Thịnh - tỉnh Phú Thọ |date=2026-03-09 |title=Tiểu sử tóm tắt 05 người ứng cử đại biểu Hội đồng nhân dân xã Hội Thịnh khóa III, nhiệm kỳ 2026 - 2031. Tại Đơn vị bầu cử số 07 (Gồm các thôn: Diên Lâm, Thượng, Cuối và Hạ) |url=https://hoithinh.phutho.gov.vn/index.php/tin-tuc-su-kien/chinh-tri/tieu-su-tom-tat-05-nguoi-ung-cu-dai-bieu-hoi-dong-nhan-dan-xa-hoi-thinh-khoa-iii-nhiem-ky-2026-2031-tai-don-vi-bau-cu-so-07 |url-status=live |archive-url=https://web.archive.org/web/20260421090807/https://hoithinh.phutho.gov.vn/index.php/tin-tuc-su-kien/chinh-tri/tieu-su-tom-tat-05-nguoi-ung-cu-dai-bieu-hoi-dong-nhan-dan-xa-hoi-thinh-khoa-iii-nhiem-ky-2026-2031-tai-don-vi-bau-cu-so-07 |archive-date=2026-04-21 |access-date=2026-04-21}}</ref>
+
+== Lịch sử ==
+Trước kia, Hội Thịnh là một xã thuộc huyện [[Tam Dương (huyện)|Tam Dương]], tỉnh [[Vĩnh Phúc (tỉnh)|Vĩnh Phúc]] cũ.
+
+Sau năm [[1975]], các xã Hợp Thịnh, Vân Hội, Duy Phiên và Thanh Vân thuộc huyện Tam Duơng, tỉnh [[Vĩnh Phú (tỉnh)|Vĩnh Phú]].
+
+Ngày [[5 tháng 7]] năm [[1977]], phần lớn huyện Tam Dương đựoc hợp nhất với huyện [[Lập Thạch (huyện)|Lập Thạch]] để thành lập huyện [[Tam Đảo (huyện)|Tam Đảo]]. Các xã Hợp Thịnh, Vân Hội, Duy Phiên và Thanh Vân thuộc huyện Tam Đảo.
+
+Ngày [[23 tháng 11]] năm [[1995]], [[Chính phủ Việt Nam|Chính phủ]] ban hành Nghị định số 82-CP về việc thành lập thị trấn Tam Dương trên cơ sở điều chỉnh một phần diện tích tự nhiên và nhân khẩu của xã Hợp Thịnh và xã Vân Hội.<ref>Nghị định số 82-CP năm 1995 của Chính phủ.</ref>
+
+Ngày [[26 tháng 11]] năm [[1996]], tỉnh Vĩnh Phúc được tái lập từ tỉnh Vĩnh Phú. Các xã Hợp Thịnh, Vân Hội, Duy Phiên và Thanh Vân thuộc huyện Tam Đảo, tỉnh Vĩnh Phúc.
+
+Ngày [[14 tháng 11]] năm [[2024]], [[Ủy ban Thường vụ Quốc hội]] ban hành Nghị quyết số 1287/NQ-UBTVQH15 về việc sắp xếp đơn vị hành chính cấp xã của tỉnh Vĩnh Phúc giai đoạn 2023 – 2025 (nghị quyết có hiệu lực từ ngày [[1 tháng 1]] năm [[2025]]). Theo đó, sáp nhập hai xã Vân Hội và Hợp Thịnh thành xã Hội Thịnh.<ref name="NQ1287">{{Chú thích web |last= |first= |date= |title=Nghị quyết số 1287/NQ-UBTVQH15 của UBTVQH Về việc sắp xếp đơn vị hành chính cấp xã của tỉnh Vĩnh Phúc giai đoạn 2023 – 2025 |url=https://quochoi.vn/tintuc/Pages/tin-hoat-dong-cua-quoc-hoi.aspx?ItemID=91157 |url-status=dead |archive-url=https://web.archive.org/web/20241121153739/https://quochoi.vn/tintuc/Pages/tin-hoat-dong-cua-quoc-hoi.aspx?ItemID=91157 |archive-date=2024-11-21 |access-date= |website=}}</ref>
+
+Ngày [[12 tháng 6]] năm [[2025]], [[Quốc hội Việt Nam|Quốc hội]] ban hành Nghị quyết số 202/2025/QH15 về việc sắp xếp đơn vị hành chính cấp tỉnh (nghị quyết có hiệu lực từ ngày [[12 tháng 6]] năm [[2025]]).<ref>{{Chú thích web |last=xaydungchinhsach.chinhphu.vn|date=2025-07-16|title=TOÀN VĂN: Nghị quyết số 202/2025/QH15 về sắp xếp đơn vị hành chính cấp tỉnh|url=https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-202-2025-qh15-ve-sap-xep-don-vi-hanh-chinh-cap-tinh-119250612174148722.htm|url-status=live|archive-url=http://web.archive.org/web/20260705025431/https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-202-2025-qh15-ve-sap-xep-don-vi-hanh-chinh-cap-tinh-119250612174148722.htm|archive-date=2026-07-05|access-date=2026-07-25|website=Báo Điện tử Chính phủ|language=vi}}</ref> Theo đó, sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của tỉnh [[Vĩnh Phúc (tỉnh)|Vĩnh Phúc]], tỉnh [[Hòa Bình (tỉnh)|Hòa Bình]] và tỉnh [[Phú Thọ]] thành tỉnh mới có tên gọi là tỉnh '''Phú Thọ'''.
+
+Ngày [[16 tháng 6]] năm [[2025]]:
+
+* Quốc hội ban hành Nghị quyết số 203/2025/QH15 về việc sửa đổi, bổ sung một số điều của Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam (nghị quyết có hiệu lực từ ngày [[16 tháng 6]] năm [[2025]]).<ref>{{Chú thích web |last=xaydungchinhsach.chinhphu.vn|date=2025-06-28|title=NGHỊ QUYẾT 203/2025/QH15 SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA HIẾN PHÁP NƯỚC CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM|url=https://xaydungchinhsach.chinhphu.vn/nghi-quyet-203-2025-qh15-sua-doi-bo-sung-mot-so-dieu-cua-hien-phap-nuoc-cong-hoa-xa-hoi-chu-nghia-viet-nam-119250616181735552.htm|url-status=live|archive-url=http://web.archive.org/web/20260715200606/https://xaydungchinhsach.chinhphu.vn/nghi-quyet-203-2025-qh15-sua-doi-bo-sung-mot-so-dieu-cua-hien-phap-nuoc-cong-hoa-xa-hoi-chu-nghia-viet-nam-119250616181735552.htm|archive-date=2026-07-15|access-date=2026-07-15|website=Báo Điện tử Chính phủ|language=vi}}</ref> Theo đó, kết thúc hoạt động của đơn vị hành chính cấp huyện trong cả nước từ ngày 1 tháng 7 năm 2025.
+* Ủy ban Thường vụ Quốc hội ban hành Nghị quyết số 1676/NQ-UBTVQH15 về việc sắp xếp đơn vị hành chính cấp xã của tỉnh [[Phú Thọ]] năm 2025 (nghị quyết có hiệu lực từ ngày [[16 tháng 6]] năm [[2025]]).<ref>{{Chú thích web |last=xaydungchinhsach.chinhphu.vn |date=2025-06-20 |title=Nghị quyết số 1676/NQ-UBTVQH15 sắp xếp các ĐVHC cấp xã của tỉnh Phú Thọ năm 2025 |url=https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-1676-nq-ubtvqh15-sap-xep-cac-dvhc-cap-xa-cua-tinh-phu-tho-nam-2025-119250616204317326.htm |url-status=live |archive-url=http://web.archive.org/web/20260725082021/https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-1676-nq-ubtvqh15-sap-xep-cac-dvhc-cap-xa-cua-tinh-phu-tho-nam-2025-119250616204317326.htm |archive-date=2026-07-25 |access-date=2026-07-27|website=Báo Điện tử Chính phủ|language=vi}}</ref> Theo đó, sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của các xã Hội Thịnh, Duy Phiên và Thanh Vân thành xã mới có tên gọi là '''xã Hội Thịnh'''.
+
+== Văn hóa - xã hội ==
+Xã Hội Thịnh là vùng đất có truyền thống lịch sử lâu đời, gắn liền với quá trình hình thành và phát triển của huyện Tam Dương, tỉnh Vĩnh Phúc cũ. Trong các thời kỳ kháng chiến chống thực dân Pháp và đế quốc Mỹ, nhân dân địa phương đã tích cực tham gia các phong trào cách mạng, đóng góp sức người, sức của cho sự nghiệp đấu tranh giải phóng dân tộc. Nhiều gia đình có con em tham gia quân đội và lực lượng dân quân tự vệ.
+
+Hội Thịnh là địa phương có đời sống văn hóa phong phú, với nhiều phong tục, tập quán truyền thống được gìn giữ qua nhiều thế hệ. Các hoạt động văn hóa cộng đồng gắn liền với sinh hoạt làng xã và tín ngưỡng dân gian, thể hiện tinh thần đoàn kết của người dân trong vùng.
+
+Một trong những sinh hoạt văn hóa tiêu biểu của địa phương là [[Hội vật truyền thống xã Hội Thịnh]], được tổ chức vào ngày 10 tháng Giêng âm lịch hằng năm. Lễ hội thu hút đông đảo nhân dân trong xã và du khách các địa phương lân cận tham dự, góp phần bảo tồn các giá trị văn hóa truyền thống và nâng cao đời sống tinh thần của cộng đồng dân cư.
+
+==Danh nhân==
+* [[Hữu Thỉnh]]
+
+==Chú thích==
+{{tham khảo|30em}}
+
+==Tham khảo==
+
+{{sơ khai Phú Thọ}}
+{{Đơn vị hành chính thuộc tỉnh Phú Thọ}}

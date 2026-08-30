@@ -1,0 +1,104 @@
+{
+  "ward_code": "10402",
+  "ward_name": "Ứng Hoà",
+  "province_code": "01",
+  "resolution": "",
+  "arrangement": "2026_07",
+  "effective_date": "2026-07-01",
+  "verified": "unverified",
+  "extraction": {
+    "source": "vi.wikipedia.org",
+    "title": "(cache)",
+    "mode": "table"
+  },
+  "sources": [
+    {
+      "key": "wiki-10402-1",
+      "title": "Ứng Hòa triển khai đề án, kế hoạch sắp xếp thôn và hướng dẫn lấy phiếu ý kiến nhân dân trên địa bàn xã",
+      "url": "https://unghoa.hanoi.gov.vn/dang-uy-hdnd-ubnd/ung-hoa-trien-khai-de-an-ke-hoach-sap-xep-thon-va-huong-dan-lay-phieu-y-kien-nhan-dan-tren-dia-ban-xa-279626061118294934.htm?gidzl=pTjU8SU5MKt9n5edpPvTJCR0MIVKdrr2ZP5RUe3AM4AAn5nvWvDM4ukTLtpMb5CJsC9GB6OyRp9TmeHTJm",
+      "date": "2026-06-11",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-10402-2",
+      "title": "Danh sách chính thức những người ứng cử đại biểu Hội đồng nhân dân xã Ứng Hòa khóa II, nhiệm kỳ 2026 – 2031",
+      "url": "https://unghoa.hanoi.gov.vn/bau-cu-db-quoc-hoi-hdnd-cac-cap/danh-sach-chinh-thuc-nhung-nguoi-ung-cu-dai-bieu-hdnd-xa-ung-hoa-khoa-ii-nhiem-ky-20262031-2796260225213711308.htm",
+      "date": "2026-02-25",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-10402-3",
+      "title": "Nghị quyết số 1656/NQ-UBTVQH15 ngày 16 tháng 6 năm 2025 của Ủy ban Thường vụ Quốc hội về việc sắp xếp các đơn vị hành chính cấp xã của thành phố Hà Nội năm 2025",
+      "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf",
+      "date": "2026-06-30",
+      "type": "wikipedia-ref"
+    }
+  ],
+  "note": "Trích tự động từ Wikipedia tiếng Việt (mode=table). Cần đối chiếu nghị quyết HĐND phường/xã.",
+  "tdp": [
+    {
+      "name": "An Phú",
+      "type": "thôn"
+    },
+    {
+      "name": "Đại Bối",
+      "type": "thôn"
+    },
+    {
+      "name": "Đại Cường",
+      "type": "thôn"
+    },
+    {
+      "name": "Đại Hùng",
+      "type": "thôn"
+    },
+    {
+      "name": "Đạo Tú",
+      "type": "thôn"
+    },
+    {
+      "name": "Đông Lỗ",
+      "type": "thôn"
+    },
+    {
+      "name": "Đồng Tân",
+      "type": "thôn"
+    },
+    {
+      "name": "Đồng Thịnh",
+      "type": "thôn"
+    },
+    {
+      "name": "Hòa Lâm",
+      "type": "thôn"
+    },
+    {
+      "name": "Hùng Vương",
+      "type": "thôn"
+    },
+    {
+      "name": "Kim Đường",
+      "type": "thôn"
+    },
+    {
+      "name": "Kim Phượng",
+      "type": "thôn"
+    },
+    {
+      "name": "Minh Đường",
+      "type": "thôn"
+    },
+    {
+      "name": "Minh Đức",
+      "type": "thôn"
+    },
+    {
+      "name": "Trầm Lộng",
+      "type": "thôn"
+    },
+    {
+      "name": "Trung Tú",
+      "type": "thôn"
+    }
+  ]
+}

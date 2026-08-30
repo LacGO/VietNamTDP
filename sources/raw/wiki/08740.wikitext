@@ -1,0 +1,79 @@
+{{Thông tin đơn vị hành chính Việt Nam|phường
+|tên=Phúc Yên
+|hình=Hospital 74 Central.JPG|ghi chú hình=Bên trong bệnh viện 74 Trung Ương
+|diện tích=23,4 km²
+|dân số=63.954 người
+|thời điểm dân số=2025
+| mật độ dân số = {{formatnum:{{#expr:floor({{formatnum:63.954| R}}/{{formatnum:23,4| R}})}} }} người/km²
+|vùng=[[Đông Bắc Bộ]]
+|tỉnh=[[Phú Thọ]]
+|thành lập=16 tháng 6 năm 2025
+|trụ sở UBND=
+|mã hành chính=08740
+|vĩ độ=21.237974339107108
+|kinh độ=105.70526389605926
+}}
+{{other|Phúc Yên (định hướng)}}
+'''Phúc Yên''' là một [[Phường (Việt Nam)|phường]] thuộc tỉnh [[Phú Thọ]], [[Việt Nam]].
+
+== Địa lý ==
+Phường Phúc Yên có vị trí địa lý:
+
+* Phía Bắc giáp phường [[Xuân Hòa, Phú Thọ|Xuân Hoà]].
+* Phía Tây giáp xã [[Bình Nguyên, Phú Thọ|Bình Nguyên]] và xã [[Xuân Lãng, Phú Thọ|Xuân Lãng]].
+* Phía Nam giáp xã [[Tiến Thắng, Hà Nội|Tiến Thắng]], thành phố [[Hà Nội]].
+* Phía Đông giáp xã [[Kim Anh, Hà Nội|Kim Anh]] và xã [[Nội Bài]], thành phố [[Hà Nội]].
+
+== Hành chính ==
+Phường Phúc Yên được chia thành 25 tổ dân phố: Đại Tân, Đạm Nội, 1 – Hùng Vương, 2 – Hùng Vương, 3 – Hùng Vương, 4 – Hùng Vương, Khả Do 1, Khả Do 2, Kim Xuyên, Nam Viêm, Phúc Thắng, Tiên Thịnh, Tiền Châu, 1 – Trưng Nhị, 2 – Trưng Nhị, 3 – Trưng Nhị, 4 – Trưng Nhị, 1 – Trưng Trắc, 2 – Trưng Trắc, 3 – Trưng Trắc, 4 – Trưng Trắc, 5 – Trưng Trắc, Xuân Mai, Xuân Phương, Xuân Thượng.<ref>{{Chú thích web |title=Phường Phúc Yên tổ chức lấy ý kiến Nhân dân về việc sắp xếp, đổi tên tổ dân phố |url=https://phucyen.phutho.gov.vn/index.php/tin-t-c-s-ki-n/chinh-tr/3819-phuong-phuc-yen-to-chuc-lay-y-kien-nhan-dan-ve-viec-sap-xep-doi-ten-to-dan-pho |url-status=live |access-date=7/17/2026 |website=phucyen.phutho.gov.vn}}</ref><ref>{{Chú thích web |title=DANH SÁCH BÍ THƯ CHI BỘ - TỔ TRƯỞNG 25 TỔ DÂN PHỐ PHƯỜNG PHÚC YÊN |url=https://phucyen.phutho.gov.vn/index.php/tin-t-c-s-ki-n/chinh-tr/3872-danh-sach-bi-thu-chi-bo-to-truong-25-to-dan-pho-phuong-phuc-yen |url-status=live |access-date=7/17/2026 |website=phucyen.phutho.gov.vn}}</ref>
+
+== Lịch sử ==
+Trước kia, địa bàn phường Phúc Yên ngày nay là địa bàn các phường Hùng Vương, Phúc Thắng, Trưng Nhị, Trưng Trắc, Nam Viêm và Tiền Châu thuộc thành phố [[Phúc Yên (thành phố)|Phúc Yên]], tỉnh [[Vĩnh Phúc (tỉnh)|Vĩnh Phúc]] cũ.
+
+Ngày [[17 tháng 6]] năm [[1949]], Ủy ban kháng chiến hành chính Liên khu I ban hành Quyết định số 361-PC/2 về việc hợp nhất khu phố Phúc Yên vào xã Đức Thắng thành xã Phúc Thắng thuộc huyện [[Kim Anh (huyện)|Kim Anh]], tỉnh [[Phúc Yên (tỉnh)|Phúc Yên]].<ref name=":0">{{Chú thích web |tác giả= |họ= |tên= |ngày= |tựa đề=Phúc Yên - đô thị 113 năm tuổi |url=http://phucyen.vinhphuc.gov.vn/pages/Detail.aspx?newsid=1653 |url lưu trữ= |ngày lưu trữ= |ngày truy cập= |website=Cổng thông tin điện tử thành phố Phúc Yên}}{{Liên kết hỏng|date=2022-12-09|bot=InternetArchiveBot}}</ref>
+
+Ngày [[1 tháng 2]] năm [[1955]], Thủ tướng Chính phủ ban hành Nghị định số 450-TTg tái lập thị xã Phúc Yên.<ref name=":0" />
+
+Ngày [[5 tháng 7]] năm [[1977]], [[Chính phủ Việt Nam|Chính phủ]] ban hành Quyết định số 178-CP về việc hợp nhất và điều chỉnh địa giới một số huyện thuộc tỉnh Vĩnh Phú. Theo đó:
+
+* Sáp nhập huyện [[Kim Anh (huyện)|Kim Anh]] với huyện [[Đa Phúc (huyện)|Đa Phúc]] thành huyện [[Sóc Sơn (huyện)|Sóc Sơn]]. Xã Nam Viêm và xã Phúc Thắng thuộc huyện Sóc Sơn.
+* Sáp nhập huyện [[Yên Lãng (huyện)|Yên Lãng]] với huyện [[Bình Xuyên (huyện)|Bình Xuyên]] thành huyện [[Mê Linh (huyện)|Mê Linh]]. Xã Tiền Châu thuộc huyện Mê Linh.
+
+Ngày [[17 tháng 2]] năm [[1979]], Hội đồng Chính phủ ban hành Quyết định 49-CP. Theo đó, chuyển thị trấn Xuân Hòa, xã Nam Viêm và xã Phúc Thắng về huyện Mê Linh quản lý.
+
+Ngày [[9 tháng 12]] năm [[2003]], Chính phủ ban hành Nghị định 153/2003/NĐ-CP về việc thành lập thị xã Phúc Yên và huyện Tam Đảo, tỉnh Vĩnh Phúc.<ref>{{Chú thích web |title=Nghị định số 153/2003/NĐ-CP của Chính phủ: Nghị định thành lập thị xã Phúc Yên và huyện Tam Đảo, tỉnh Vĩnh Phúc |url=https://chinhphu.vn/default.aspx?pageid=27160&docid=12401 |url-status=live |access-date=2026-08-29 |website=www.chinhphu.vn}}</ref> Theo đó:
+
+* Chuyển các xã Nam Viêm, Tiền Châu và Phúc Thắng về thị xã Phúc Yên vừa tái lập.
+* Thành lập phường Hùng Vương trên cơ sở điều chỉnh 65,20 ha diện tích tự nhiên và 7.430 người của thị trấn Phúc Yên; 93,40 ha diện tích tự nhiên và 1.911 người của xã Phúc Thắng.
+* Thành lập phường Trưng Trắc trên cơ sở điều chỉnh 97,24 ha diện tích tự nhiên và 8.168 người của thị trấn Phúc Yên.
+* Thành lập phường Trưng Nhị trên cơ sở 169,04 ha diện tích tự nhiên và 6.934 nhân khẩu của thị trấn Phúc Yên.
+* Thành lập phường Phúc Thắng trên cơ sở toàn bộ 637,29 ha diện tích tự nhiên và 8.261 người còn lại của xã Phúc Thắng.
+
+Ngày [[7 tháng 2]] năm [[2018]], [[Ủy ban Thường vụ Quốc hội]] ban hành Nghị quyết số 484/NQ-UBTVQH14 (nghị quyết có hiệu lực từ ngày [[7 tháng 2]] năm [[2018]]).<ref>{{Chú thích web |last=Ủy ban Thường vụ Quốc hội |date=2018-02-07 |title=Nghị quyết số 484/NQ-UBTVQH14 về việc thành lập phường Tiền Châu, phường Nam Viêm thuộc thị xã Phúc Yên và thành lập thành phố Phúc Yên thuộc tỉnh Vĩnh Phúc |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2018/02/484.signed.pdf |access-date=2026-08-29 |website=Cổng Thông tin điện tử Chính phủ}}</ref> Theo đó:
+
+* Thành lập phường Nam Viêm trên cơ sở toàn bộ 5,88&nbsp;km² diện tích tự nhiên và 8.489 người của xã Nam Viêm.
+* Thành lập phường Tiền Châu trên cơ sở toàn bộ 7,14&nbsp;km² diện tích tự nhiên và 12.689 người của xã Tiền Châu.
+
+* Chuyển thị xã Phúc Yên thành thành phố Phúc Yên thuộc tỉnh Vĩnh Phúc.
+
+Ngày [[14 tháng 11]] năm [[2024]], Ủy ban Thường vụ Quốc hội ban hành Nghị quyết số 1287/NQ-UBTVQH15 về việc sắp xếp đơn vị hành chính cấp xã của tỉnh [[Vĩnh Phúc (tỉnh)|Vĩnh Phúc]] giai đoạn 2023 – 2025 (nghị quyết có hiệu lực từ ngày [[1 tháng 1]] năm [[2025]]).<ref>{{Chú thích web |last=Ủy ban Thường vụ Quốc hội |date=2024-11-14 |title=Nghị quyết số 1287/NQ-UBTVQH15 về việc sắp xếp đơn vị hành chính cấp xã của tỉnh Vĩnh Phúc giai đoạn 2023 – 2025 |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/11/1287-qh15.signed.pdf |url-status=live |access-date=2026-07-27 |website=Cổng Thông tin điện tử Chính phủ}}</ref> Theo đó, sáp nhập phường Trưng Trắc và phường Trưng Nhị thành phường Hai Bà Trưng.
+
+Ngày [[12 tháng 6]] năm [[2025]], [[Quốc hội Việt Nam|Quốc hội]] ban hành Nghị quyết số 202/2025/QH15 về việc sắp xếp đơn vị hành chính cấp tỉnh (nghị quyết có hiệu lực từ ngày [[12 tháng 6]] năm [[2025]]).<ref>{{Chú thích web |last=xaydungchinhsach.chinhphu.vn |date=2025-07-16 |title=TOÀN VĂN: Nghị quyết số 202/2025/QH15 về sắp xếp đơn vị hành chính cấp tỉnh |url=https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-202-2025-qh15-ve-sap-xep-don-vi-hanh-chinh-cap-tinh-119250612174148722.htm |url-status=live |archive-url=https://web.archive.org/web/20260705025431/https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-202-2025-qh15-ve-sap-xep-don-vi-hanh-chinh-cap-tinh-119250612174148722.htm |archive-date=2026-07-05 |access-date=2026-07-25 |website=Báo Điện tử Chính phủ |language=vi }}</ref> Theo đó, sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của tỉnh [[Vĩnh Phúc (tỉnh)|Vĩnh Phúc]], tỉnh [[Hòa Bình (tỉnh)|Hòa Bình]] và tỉnh [[Phú Thọ]] thành tỉnh mới có tên gọi là tỉnh '''Phú Thọ'''.
+
+Ngày [[16 tháng 6]] năm [[2025]]:
+
+* Quốc hội ban hành Nghị quyết số 203/2025/QH15 về việc sửa đổi, bổ sung một số điều của Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam (nghị quyết có hiệu lực từ ngày [[16 tháng 6]] năm [[2025]]).<ref>{{Chú thích web |last=xaydungchinhsach.chinhphu.vn |date=2025-06-28 |title=NGHỊ QUYẾT 203/2025/QH15 SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA HIẾN PHÁP NƯỚC CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM |url=https://xaydungchinhsach.chinhphu.vn/nghi-quyet-203-2025-qh15-sua-doi-bo-sung-mot-so-dieu-cua-hien-phap-nuoc-cong-hoa-xa-hoi-chu-nghia-viet-nam-119250616181735552.htm |url-status=live |archive-url=https://web.archive.org/web/20260715200606/https://xaydungchinhsach.chinhphu.vn/nghi-quyet-203-2025-qh15-sua-doi-bo-sung-mot-so-dieu-cua-hien-phap-nuoc-cong-hoa-xa-hoi-chu-nghia-viet-nam-119250616181735552.htm |archive-date=2026-07-15 |access-date=2026-07-15 |website=Báo Điện tử Chính phủ |language=vi }}</ref> Theo đó, kết thúc hoạt động của đơn vị hành chính cấp huyện trong cả nước từ ngày 1 tháng 7 năm 2025.
+* Ủy ban Thường vụ Quốc hội ban hành Nghị quyết số 1676/NQ-UBTVQH15 về việc sắp xếp đơn vị hành chính cấp xã của tỉnh [[Phú Thọ]] năm 2025 (nghị quyết có hiệu lực từ ngày [[16 tháng 6]] năm [[2025]]). Theo đó, sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của các phường Hùng Vương, Hai Bà Trưng, Phúc Thắng, Tiền Châu và Nam Viêm (thành phố [[Phúc Yên (thành phố)|Phúc Yên]]) thành phường mới có tên gọi là '''phường Phúc Yên'''.<ref>{{Chú thích web |last=xaydungchinhsach.chinhphu.vn |date=2025-06-20 |title=Nghị quyết số 1676/NQ-UBTVQH15 sắp xếp các ĐVHC cấp xã của tỉnh Phú Thọ năm 2025 |url=https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-1676-nq-ubtvqh15-sap-xep-cac-dvhc-cap-xa-cua-tinh-phu-tho-nam-2025-119250616204317326.htm |access-date=2025-09-07 |website=xaydungchinhsach.chinhphu.vn |language=vi}}</ref>
+Sau khi thực hiện sắp xếp, phường Phúc Yên được chia thành 54 tổ dân phố: 3 Đạm Nội, 4 Đạm Nội, 1 – Hùng Vương, 2 – Hùng Vương, 3 – Hùng Vương, 4 – Hùng Vương, 5 – Hùng Vương, 6 – Hùng Vương, 7 – Hùng Vương, 8 – Hùng Vương, 9 – Hùng Vương, 1 – Trưng Nhị, 2 – Trưng Nhị, 3 – Trưng Nhị, 4 – Trưng Nhị, 5 – Trưng Nhị, 6 – Trưng Nhị, 7 – Trưng Nhị, 8 – Trưng Nhị, 1 – Trưng Trắc, 2 – Trưng Trắc, 3 – Trưng Trắc, 4 – Trưng Trắc, 5 – Trưng Trắc, 6 – Trưng Trắc, 7 – Trưng Trắc, 8 – Trưng Trắc, 9 – Trưng Trắc, 10 – Trưng Trắc, Cả Đoài, Cả Đông, Đại Lợi, Đại Phùng, Đạm Phú, Đồng Cờ, Khả Do, Kim Xuyên, Nam Viêm, Tân Lợi, Tân Minh, Tiên Thịnh, Tiền Châu, Xuân Bến, Xuân Đức, Xuân Mai 1, Xuân Mai 2, Xuân Mai 3, Xuân Mới, Xuân Phương 1, Xuân Phương 2, Xuân Phương 3, Xuân Thượng 1, Xuân Thượng 2, Xuân Yên.<ref>{{Chú thích web |last=Ủy ban nhân dân phường Phúc Yên|date=2026-03-09|title=Thông báo số 78/TB-UBND về ngày bầu cử, thời gian bỏ phiếu và nơi bỏ phiếu bầu cử đại biểu Quốc khóa XVI và đại biểu HĐND các cấp nhiệm kỳ 2026 - 2031|url=https://phucyen.phutho.gov.vn/images/66._TB_Ng%C3%A0y_b%E1%BA%A7u_c%E1%BB%AD_n%C6%A1i_b%E1%BB%8F_phi%E1%BA%BFu.signed.signed.pdf|url-status=live|archive-url=https://web.archive.org/web/20260417090807/https://phucyen.phutho.gov.vn/images/66._TB_Ng%C3%A0y_b%E1%BA%A7u_c%E1%BB%AD_n%C6%A1i_b%E1%BB%8F_phi%E1%BA%BFu.signed.signed.pdf|archive-date=2026-04-17|access-date=2026-04-17|website=Trang Thông tin điện tử phường Phúc Yên - tỉnh Phú Thọ}}</ref>
+==Di tích==
+* Đình Khả Do
+
+== Danh nhân ==
+* [[Ngô Văn Phú]] (1937 – 2022) là [[nhà thơ]], nhà văn Việt Nam, được tặng Giải thưởng Nhà nước về Văn học Nghệ thuật vào năm 2012. Bài thơ “Mây và bông” với chỉ bốn câu thơ, viết năm 1961, là bài thơ nổi tiếng nhất của ông.
+* [[Trần Đức Thắng]] (sinh năm 1973) là một chính khách người Việt Nam. Ông hiện là Ủy viên Bộ Chính trị khóa XIV, [[Bí thư Thành ủy Hà Nội]], Bí thư Đảng ủy Bộ Tư lệnh Thủ đô, Trưởng đoàn Đại biểu Quốc hội khóa XVI thành phố Hà Nội nhiệm kì 2026 – 2031.
+
+== Chú thích ==
+{{reflist}}
+== Tham khảo ==
+{{sơ khai Phú Thọ}}
+{{Đơn vị hành chính thuộc tỉnh Phú Thọ}}

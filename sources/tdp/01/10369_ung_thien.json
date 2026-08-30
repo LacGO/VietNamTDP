@@ -1,0 +1,116 @@
+{
+  "ward_code": "10369",
+  "ward_name": "Ứng Thiên",
+  "province_code": "01",
+  "resolution": "",
+  "arrangement": "2026_07",
+  "effective_date": "2026-07-01",
+  "verified": "unverified",
+  "extraction": {
+    "source": "vi.wikipedia.org",
+    "title": "(cache)",
+    "mode": "table"
+  },
+  "sources": [
+    {
+      "key": "wiki-10369-1",
+      "title": "Nghị quyết số 12/NQ-HĐND ngày 25 tháng 6 năm 2026 của Hội đồng nhân dân xã Ứng Thiên về việc sắp xếp thôn trên địa bàn xã Ứng Thiên",
+      "url": "https://sqhx-hanoi.mediacdn.vn/91579363132710912/2026/6/26/document-3-1782473778120970168990.pdf",
+      "date": "2026-08-01",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-10369-2",
+      "title": "Nghị quyết số 1656/NQ-UBTVQH15 ngày 16 tháng 6 năm 2025 của Ủy ban Thường vụ Quốc hội về việc sắp xếp các đơn vị hành chính cấp xã của thành phố Hà Nội năm 2025",
+      "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf",
+      "date": "2026-06-30",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-10369-3",
+      "title": "Nghị quyết số 203/2025/QH15 ngày 16 tháng 6 năm 2025 của Quốc hội khóa XV, Kỳ họp thứ 9 về việc sửa đổi, bổ sung một số điều của Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam",
+      "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/nq-sua-doi-hien-phap.pdf",
+      "date": "2026-06-13",
+      "type": "wikipedia-ref"
+    }
+  ],
+  "note": "Trích tự động từ Wikipedia tiếng Việt (mode=table). Cần đối chiếu nghị quyết HĐND phường/xã.",
+  "tdp": [
+    {
+      "name": "Cầu Bầu",
+      "type": "thôn"
+    },
+    {
+      "name": "Đạo Tú",
+      "type": "thôn"
+    },
+    {
+      "name": "Đống Thịnh",
+      "type": "thôn"
+    },
+    {
+      "name": "Liên Bạt",
+      "type": "thôn"
+    },
+    {
+      "name": "Lương Đình",
+      "type": "thôn"
+    },
+    {
+      "name": "Lưu Khê",
+      "type": "thôn"
+    },
+    {
+      "name": "Miêng Hạ",
+      "type": "thôn"
+    },
+    {
+      "name": "Miêng Thượng",
+      "type": "thôn"
+    },
+    {
+      "name": "Phú Lương",
+      "type": "thôn"
+    },
+    {
+      "name": "Phù Yên",
+      "type": "thôn"
+    },
+    {
+      "name": "Quảng Nguyên",
+      "type": "thôn"
+    },
+    {
+      "name": "Song Vũ",
+      "type": "thôn"
+    },
+    {
+      "name": "Thanh Hoa",
+      "type": "thôn"
+    },
+    {
+      "name": "Trần Đăng",
+      "type": "thôn"
+    },
+    {
+      "name": "Trung Thượng",
+      "type": "thôn"
+    },
+    {
+      "name": "Trường Thịnh",
+      "type": "thôn"
+    },
+    {
+      "name": "Viên Ngọai",
+      "type": "thôn"
+    },
+    {
+      "name": "Viên Nội",
+      "type": "thôn"
+    },
+    {
+      "name": "Xà Cầu",
+      "type": "thôn"
+    }
+  ]
+}

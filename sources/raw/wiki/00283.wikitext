@@ -1,0 +1,245 @@
+{{Thông tin đơn vị hành chính Việt Nam |Phường
+| tên = Vĩnh Tuy
+| hình = Times_City_31-8-2013_Newone-IMG_0531.jpg 
+| ghi chú hình = KĐT Times City, 2013
+| vĩ độ = 21.001457920445798
+| kinh độ = 105.87150435385428
+| diện tích = 2,33 km²
+| dân số = 90.583 người
+| thời điểm dân số = 2025
+| mật độ dân số = {{formatnum:{{#expr:floor({{formatnum:90.583| R}}/{{formatnum:2,33| R}})}} }} người/km²
+| vùng = [[Đồng bằng sông Hồng]]
+| thành phố = [[Hà Nội]]
+| trụ sở UBND = Số 35 phố Vĩnh Tuy<ref>{{Chú thích web |url=https://storage-vnportal.vnpt.vn/gov-hni/6244/VanBan/2025/6/25/TB-729-2025.pdf |title=Thông báo số 729/TB-UBND ngày 25 tháng 6 năm 2025 của Ủy ban nhân dân thành phố Hà Nội về địa điểm trụ sở làm việc của 126 phường, xã sau sắp xếp thuộc phạm vi quản lý của thành phố Hà Nội|access-date=2026-06-15 |archive-date=2026-06-15 |archive-url=https://web.archive.org/web/20260615034519/https://storage-vnportal.vnpt.vn/gov-hni/6244/VanBan/2025/6/25/TB-729-2025.pdf |url-status=dead | website = Cổng Thông tin điện tử Ủy ban nhân dân thành phố Hà Nội}}</ref>
+| mã hành chính =00283<ref>{{Chú thích web |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/19ttg.signed.pdf |title=Quyết định số 19/2025/QĐ-TTg ngày 30 tháng 6 năm 2025 của Thủ tướng Chính phủ về việc Ban hành Bảng danh mục và mã số các đơn vị hành chính Việt Nam |access-date=2026-06-15 |archive-date=2026-06-15 |archive-url=https://web.archive.org/web/20260615034519/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/19ttg.signed.pdf |url-status=dead }}</ref> 
+| bản đồ 1 = [[File:Vinh Tuy map.png| 300px]]
+| tựa bản đồ 1 = Bản đồ phường Vĩnh Tuy
+|web={{url|vinhtuy.hanoi.gov.vn}}|trụ sở Đảng ủy=Số 25a ngõ 13 đường Lĩnh Nam}}
+{{other|Vĩnh Tuy}}
+'''Vĩnh Tuy''' là một [[Phường (Việt Nam)|phường]] thuộc thành phố [[Hà Nội]], [[Việt Nam]].
+
+== Địa lý== 
+Phường Vĩnh Tuy có vị trí địa lý: 
+*Phía đông giáp phường [[Vĩnh Hưng (phường)|Vĩnh Hưng]] (ranh giới đi theo cầu Vĩnh Tuy – phố Dương Văn Bé – phố Tân Khai)
+* Phía tây giáp phường [[Bạch Mai]] và phường [[Tương Mai]] (ranh giới đi dọc theo [[sông Kim Ngưu]] – đường Tam Trinh)
+* Phía nam giáp phường [[Tương Mai]] (ranh giới đi theo đường Lĩnh Nam)
+*Phía bắc giáp phường [[Hai Bà Trưng, Hà Nội|Hai Bà Trưng]] và phường [[Hồng Hà (phường)|Hồng Hà]] (ranh giới đi theo đường Trần Khát Chân – đê Nguyễn Khoái).<ref>{{Chú thích web |last=Báo Điện tử Chính phủ |date=2025-04-28 |title=Chi tiết dự thảo phương án sắp xếp các phường của Hà Nội |url=https://xaydungchinhsach.chinhphu.vn/chi-tiet-du-thao-phuong-an-sap-xep-cac-phuong-cua-ha-noi-119250421100531902.htm |url-status=live |archive-url=https://web.archive.org/web/20260703400809/https://xaydungchinhsach.chinhphu.vn/chi-tiet-du-thao-phuong-an-sap-xep-cac-phuong-cua-ha-noi-119250421100531902.htm |archive-date=2026-07-03 |access-date=2026-07-03 |website=Xây dựng chính sách, pháp luật}}</ref><ref>{{Chú thích web |last=Báo Tin tức và Dân tộc – Thông tấn xã Việt Nam|date=2025-07-01|title=126 bản đồ địa giới hành chính của Hà Nội sau sáp nhập|url=https://baotintuc.vn/anh/126-ban-do-dia-gioi-hanh-chinh-cua-ha-noi-sau-sap-nhap-20250701143216649.htm|url-status=dead|archive-url=https://web.archive.org/web/20260723112357/https://baotintuc.vn/anh/126-ban-do-dia-gioi-hanh-chinh-cua-ha-noi-sau-sap-nhap-20250701143216649.htm|archive-date=2026-07-23|access-date=2026-07-23}}</ref><ref>{{Chú thích web |last=Viện nghiên cứu Phát triển kinh tế – xã hội Hà Nội |date=2025-07-02 |title=Phường Vĩnh Tuy: Những thông tin chi tiết sau sắp xếp |url=https://hanoionline.vn/phuong-vinh-tuy-nhung-thong-tin-chi-tiet-sau-sap-xep-344069.htm |url-status=live |archive-url=https://web.archive.org/web/20260701400809/https://hanoionline.vn/phuong-vinh-tuy-nhung-thong-tin-chi-tiet-sau-sap-xep-344069.htm |archive-date=2026-07-01 |access-date=2026-07-01 |website=Cơ quan Báo và Phát thanh Truyền hình Hà Nội}}</ref>
+Phường Vĩnh Tuy có diện tích tự nhiên là 2,33&nbsp;km<sup>2</sup>, quy mô dân số năm 2025 là 90.583 người và mật độ dân số đạt 38.876 người/km<sup>2</sup>.<ref>{{Chú thích web |last=Mai Hữu|date=2026-04-05|title=Hà Nội: Chi tiết phương án tổng thể sắp xếp đơn vị hành chính cấp xã|url=https://hanoimoi.vn/ha-noi-chi-tiet-phuong-an-tong-the-sap-xep-don-vi-hanh-chinh-cap-xa-700278.html|url-status=live|archive-url=https://web.archive.org/web/20260711401509/https://hanoimoi.vn/ha-noi-chi-tiet-phuong-an-tong-the-sap-xep-don-vi-hanh-chinh-cap-xa-700278.html|archive-date=2026-07-11|access-date=2026-07-11|website=Cơ quan Báo và Phát thanh, truyền hình Hà Nội}}</ref><ref>Công văn số 2896/BNV-CQĐP ngày 27 tháng 5 năm 2025 của Bộ Nội vụ về việc cung cấp thông tin danh mục dự kiến đơn vị hành chính cấp xã mới.</ref>
+
+== Lịch sử==
+
+=== Trước năm 1976 ===
+Khu vực này vốn là Vĩnh Hưng Trang. Đến năm 1740, vua [[Lê Hiển Tông]] lên ngôi lấy niên hiệu Cảnh Hưng nên Vĩnh Hưng Trang được đổi thành xã Vĩnh Tuy.<ref name=":12">{{Chú thích web |last=HNM |date=2004-08-31 |title=Vĩnh Hưng – từ xã thành phường |url=https://hanoimoi.vn/vinh-hung-tu-xa-thanh-phuong-39177.html |url-status=dead |archive-url=https://web.archive.org/web/20260819201510/https://hanoimoi.vn/vinh-hung-tu-xa-thanh-phuong-39177.html |archive-date=2026-08-19 |access-date=2026-08-19 |website=Cơ quan Báo và Phát thanh, truyền hình Hà Nội}}</ref>
+
+=== Giai đoạn 1976 – nay ===
+Sau ngày 2 tháng 7 năm 1976, 2 tiểu khu: Thanh Lương và Vĩnh Tuy thuộc khu phố [[Hai Bà Trưng (quận)|Hai Bà Trưng]]; 2 xã: Hoàng Văn Thụ và Vĩnh Tuy thuộc huyện [[Thanh Trì (huyện)|Thanh Trì]] của thành phố [[Hà Nội]].
+
+Ngày 3 tháng 1 năm 1981, từ nay ở nội thành, đơn vị hành chính cấp dưới trực tiếp của [[Thành phố trực thuộc trung ương (Việt Nam)|thành phố trực thuộc trung ương]] đều thống nhất gọi là [[Quận (Việt Nam)|quận]]; các đơn vị hành chính cơ sở ở nội thành, nội thị của các [[Thành phố thuộc tỉnh (Việt Nam)|thành phố thuộc tỉnh]], [[Thị xã (Việt Nam)|thị xã]] và [[Quận (Việt Nam)|quận]] gọi là [[Phường (Việt Nam)|phường]]. Khi đó, 2 phường: Thanh Lương và Vĩnh Tuy thuộc quận [[Hai Bà Trưng (quận)|Hai Bà Trưng]].<ref>Quyết định số 3-CP ngày 3 tháng 1 năm 1981 của Hội đồng Chính phủ về việc thống nhất tên gọi các đơn vị hành chính ở nội thành nội thị.</ref>
+
+Ngày 13 tháng 10 năm 1982, thành lập phường Mai Động (quận [[Hai Bà Trưng (quận)|Hai Bà Trưng]]) bao gồm thôn Mai Động và xóm Mơ Táo của xã Hoàng Văn Thụ thuộc huyện [[Thanh Trì (huyện)|Thanh Trì]].<ref>{{Chú thích web |title=Quyết định số 173-HĐBT ngày 13 tháng 10 năm 1982 của Hội đồng Bộ trưởng về việc phân vạch địa giới một số phường và thị trấn thuộc thành phố Hà Nội |url=https://chinhphu.vn/default.aspx?pageid=27160&docid=6408 |url-status=dead |archive-url=https://web.archive.org/web/20260703400809/https://chinhphu.vn/default.aspx?pageid=27160&docid=6408 |archive-date=2026-07-03 |access-date=2026-07-03 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+
+Ngày 6 tháng 11 năm 2003:
+
+* Tách toàn bộ diện tích tự nhiên và dân số của xã Vĩnh Tuy thuộc huyện [[Thanh Trì (huyện)|Thanh Trì]] và phường Mai Động thuộc quận [[Hai Bà Trưng (quận)|Hai Bà Trưng]] về quận [[Hoàng Mai (quận)|Hoàng Mai]] mới thành lập.
+* Thành lập phường Vĩnh Hưng trên cơ sở toàn bộ diện tích tự nhiên và dân số của xã Vĩnh Tuy.<ref>Nghị định số 132/2003/NĐ-CP ngày 6 tháng 11 năm 2003 của Chính phủ về việc điều chỉnh địa giới hành chính để thành lập các quận Long Biên, Hoàng Mai, thành lập các phường trực thuộc quận Long Biên, quận Hoàng Mai, thành phố Hà Nội.</ref>
+
+Ngày 16 tháng 6 năm 2025:
+
+* Kết thúc hoạt động của đơn vị hành chính cấp huyện trong cả nước.<ref>{{Chú thích web |last= |date= |title=Nghị quyết số 203/2025/QH15 ngày 16 tháng 6 năm 2025 của Quốc hội khóa XV, Kỳ họp thứ 9 về việc sửa đổi, bổ sung một số điều của Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/nq-sua-doi-hien-phap.pdf |url-status=live |archive-url=https://web.archive.org/web/20260613090807/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/nq-sua-doi-hien-phap.pdf |archive-date=2026-06-13 |access-date=2026-06-13 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+* Sắp xếp một phần diện tích tự nhiên, quy mô dân số của các phường Mai Động (quận [[Hoàng Mai (quận)|Hoàng Mai]]), Thanh Lương (quận [[Hai Bà Trưng (quận)|Hai Bà Trưng]]), Vĩnh Hưng (quận [[Hoàng Mai (quận)|Hoàng Mai]]) và Vĩnh Tuy (quận [[Hai Bà Trưng (quận)|Hai Bà Trưng]]) thành phường mới có tên gọi là phường Vĩnh Tuy.<ref>{{Chú thích web |title=Nghị quyết số 1656/NQ-UBTVQH15 ngày 16 tháng 6 năm 2025 của Ủy ban Thường vụ Quốc hội về việc sắp xếp các đơn vị hành chính cấp xã của thành phố Hà Nội năm 2025 |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf |url-status=live |archive-url=https://web.archive.org/web/20260630400809/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf |archive-date=2026-06-30 |access-date=2026-06-30 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+* Sau khi sắp xếp, phường Vĩnh Tuy được chia thành 82 tổ dân phố và một phần của 2 tổ dân phố.<ref>23 tổ dân phố, đánh số từ 12 đến 15, từ 19 đến 37 và một phần của tổ dân phố số 16 của phường Mai Động cũ; 18 tổ dân phố, đánh số từ 1 đến 18 của phường Thanh Lương cũ; 2 tổ dân phố: 21, 31 và một phần của tổ dân phố số 20 của phường Vĩnh Hưng cũ; 39 tổ dân phố: 1A, 1B, từ 2 đến 7, 8A, 8B, từ 9 đến 14, 15A, 15B, 16, 16A, 17A, 17B, 17C, 17D, 17E, 17F, 17G, 17H, 17I, 17K, 17L, từ 18 đến 23, 29A và 29B của phường Vĩnh Tuy cũ.</ref><ref>{{Chú thích web |title=Thông tư số 10/2022/TT-BTNMT ngày 29 tháng 9 năm 2022 của Bộ Tài nguyên và Môi trường về việc Ban hành Danh mục địa danh dân cư, sơn văn, thủy văn, kinh tế - xã hội phục vụ công tác thành lập bản đồ thành phố Hà Nội |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2022/10/10-btnmt.pdf |url-status=live |archive-url=https://web.archive.org/web/20260630400809/https://datafiles.chinhphu.vn/cpp/files/vbpq/2022/10/10-btnmt.pdf |archive-date=2026-06-30 |access-date=2026-06-30 |website=Cổng Thông tin điện tử Chính phủ}}</ref><ref>{{Chú thích web |title=Quyết định số 8/QĐ-UBBC ngày 23 tháng 2 năm 2026 của Ủy ban bầu cử phường Vĩnh Tuy về việc công bố danh sách chính thức những người ứng cử đại biểu Hội đồng nhân dân phường Vĩnh Tuy khóa II, nhiệm kỳ 2026 – 2031 theo từng đơn vị bầu cử |url=https://sqhx-hanoi.mediacdn.vn/91579363132710912/2026/2/25/qd-08-1772005866096108825581.pdf |url-status=dead |archive-url=https://web.archive.org/web/20260702400809/https://sqhx-hanoi.mediacdn.vn/91579363132710912/2026/2/25/qd-08-1772005866096108825581.pdf |archive-date=2026-07-02 |access-date=2026-07-02 |website=Trang Thông tin điện tử phường Vĩnh Tuy – thành phố Hà Nội}}</ref>
+
+Ngày 8 tháng 7 năm 2025, ghép 107 hộ dân còn lại thuộc tổ dân phố 16 (phường Mai Động trước đây) vào tổ dân phố 19; ghép 20 hộ dân còn lại thuộc tổ dân phố 20 (phường Vĩnh Hưng trước đây) vào tổ dân phố 21; đổi tên 76 tổ dân phố: 3, 2, 9, 10, 11, 4, 5, 12, 7, 6, 14, 8, 17, 16 (phường Thanh Lương cũ), 5, 4, 3, 2, 14, 1A, 1B, 7, 6, 8A, 8B, từ 9 đến 13, 15A, 15B, 16, 16A, 17A, 17B, 17C, 17D, 17E, 17F, 17G, 17H, 17I, 17K, 17L, từ 18 đến 23 (phường Vĩnh Tuy cũ), 21, từ 12 đến 15, 29, 30, 32, 31, 28, từ 22 đến 24, 27, 26, 25, 20, 36, 37, 19, 33, 34 (phường Mai Động cũ), 31 và 21 (phường Vĩnh Hưng cũ) lần lượt thành 76 tổ dân phố, đánh số từ 2 đến, 12, 14, 16, 17, 19, 20A, 20B, 21, 22, 23A, 23B, 24, 25, 26A, 26B, 27, 28, 29C, 30, 31A, 31B, 31C, 32A, 32B, 33A, 33B, 33C, 33D, 33E, 33F, 33G, 33H, 33I, 33K, 33L, 34A, 34B, 35, 36, 37A, 37B, 38, 39A, 39B, 40A, 40B, 41A, 41B, 41C, 41D, 42A, 42B, 42C, 42D, 43A, 43B, 43C, 43D, 44A, 44B, 44C, 44D, 45A, 45B, 44E và 44F.<ref>I. Phường Thanh Lương cũ: 1. Giữ nguyên tổ dân phố số 1; 2. Đổi tên tổ dân phố số 3 thành tổ dân phố số 2; 3. Đổi tên tổ dân phố số 2 thành tổ dân phố số 3; 4. Đổi tên tổ dân phố số 9 thành tổ dân phố số 4; 5. Đổi tên tổ dân phố số 10 thành tổ dân phố số 5; 6. Đổi tên tổ dân phố số 11 thành tổ dân phố số 6; 7. Đổi tên tổ dân phố số 4 thành tổ dân phố số 7; 8. Đổi tên tổ dân phố số 5 thành tổ dân phố số 8; 9. Đổi tên tổ dân phố số 12 thành tổ dân phố số 9; 10. Đổi tên tổ dân phố số 7 thành tổ dân phố số 10; 11. Đổi tên tổ dân phố số 6 thành tổ dân phố số 11; 12. Đổi tên tổ dân phố số 14 thành tổ dân phố số 12; 13. Giữ nguyên tổ dân phố số 13; 14. Đổi tên tổ dân phố số 8 thành tổ dân phố số 14; 15. Giữ nguyên tổ dân phố số 15; 16. Đổi tên tổ dân phố số 17 thành tổ dân phố số 16; 17. Đổi tên tổ dân phố số 16 thành tổ dân phố số 17; 18. Giữ nguyên tổ dân phố số 18; II. Phường Vĩnh Tuy cũ: 19. Đổi tên tổ dân phố số 5 thành tổ dân phố số 19; 20. Đổi tên tổ dân phố số 4 thành tổ dân phố số 20A; 21. Đổi tên tổ dân phố số 3 thành tổ dân phố số 20B; 22. Đổi tên tổ dân phố số 2 thành tổ dân phố số 21; 23. Đổi tên tổ dân phố số 14 thành tổ dân phố số 22; 24. Đổi tên tổ dân phố số 1A thành tổ dân phố số 23A; 25. Đổi tên tổ dân phố 1B thành tổ dân phố số 23B; 26. Đổi tên tổ dân phố số 7 thành tổ dân phố số 24; 27. Đổi tên tổ dân phố số 6 thành tổ dân phố số 25; 28. Đổi tên tổ dân phố số 8A thành tổ dân phố số 26A; 29. Đổi tên tổ dân phố số 8B thành tổ dân phố số 26B; 30. Đổi tên tổ dân phố số 9 thành tổ dân phố số 27; 31. Đổi tên tổ dân phố số 10 thành tổ dân phố số 28; 32. Giữ nguyên tổ dân phố số 29A, 33. Giữ nguyên tổ dân phố số 29B; 34. Đổi tên tổ dân phố số 11 thành tổ dân phố số 29C; 35. Đổi tên tổ dân phố số 12 thành tổ dân phố số 30; 36. Đổi tên tổ dân phố số 13 thành tổ dân phố số 31A; 37. Đổi tên tổ dân phố số 15A thành tổ dân phố số 31B; 38. Đổi tên tổ dân phố số 15B thành tổ dân phố số 31C; 39. Đổi tên tổ dân phố số 16 thành tổ dân phố số 32A; 40. Đổi tên tổ dân phố số 16A thành tổ dân phố số 32B; 41. Đổi tên tổ dân phố số 17A thành tổ dân phố số 33A; 42. Đổi tên tổ dân phố số 17B thành tổ dân phố số 33B; 43. Đổi tên tổ dân phố số 17C thành tổ dân phố số 33C; 44. Đổi tên tổ dân phố số 17D thành tổ dân phố số 17D; 45. Đổi tên tổ dân phố số 17E thành tổ dân phố số 33E; 46. Đổi tên tổ dân phố số 17F thành tổ dân phố số 33F; 47. Đổi tên tổ dân phố số 17G thành tổ dân phố số 33G; 48. Đổi tên tổ dân phố số 17H thành tổ dân phố số 33H; 49. Đổi tên tổ dân phố số 17I thành tổ dân phố số 33I; 50. Đổi tên tổ dân phố số 17K thành tổ dân phố số 33K; 51. Đổi tên tổ dân phố số 17L thành tổ dân phố số 33L; 52. Đổi tên tổ dân phố số 18 thành tổ dân phố số 34A; 53. Đổi tên tổ dân phố số 19 thành tổ dân phố số 34B; 54. Đổi tên tổ dân phố số 20 thành tổ dân phố số 35; 55. Đổi tên tổ dân phố số 21 thành tổ dân phố số 36; 56. Đổi tên tổ dân phố số 22 thành tổ dân phố số 37A; 57. Đổi tên tổ dân phố số 23 thành tổ dân phố số 37B; III. Phường Mai Động và Phường Vĩnh Hưng cũ: 58. Đổi tên tổ dân phố 21 thành tổ dân phố số 38; 59. Đổi tên tổ dân phố số 12 thành tổ dân phố số 39A; 60. Đổi tên tổ dân phố số 13 thành tổ dân phố số 39B; 61. Đổi tên tổ dân phố số 14 thành tổ dân phố số 40A; 62. Đổi tên tổ dân phố số 15 thành tổ dân phố số 40B; 63. Đổi tên tổ dân phố 29 thành tổ dân phố số 41A; 64. Đổi tên tổ dân phố 30 thành tổ dân phố số 41B; 65. Đổi tên tổ dân phố số 32 thành tổ dân phố số 41C; 66. Đổi tên tổ dân phố số 31 thành tổ dân phố số 41D; 67. Đổi tên tổ dân phố 28 thành tổ dân phố số 42A; 68. Đổi tên tổ dân phố 22 thành tổ dân phố số 42B; 69. Đổi tên tổ dân phố 23 thành tổ dân phố số 42C; 70. Đổi tên tổ dân phố 24 thành tổ dân phố số 42D; 71. Đổi tên tổ dân phố 27 thành tổ dân phố số 43A; 72. Đổi tên tổ dân phố số 26 thành tổ dân phố số 43B; 73. Đổi tên tổ dân phố 25 thành tổ dân phố số 43C; 74. Đổi tên tổ dân phố 20 thành tổ dân phố số 43D; 75. Đổi tên tổ dân phố 36 thành tổ dân phố số 44A; 76. Đổi tên tổ dân phố 37 thành tổ dân phố số 44B; 77. Đổi tên tổ dân phố số 35 thành tổ dân phố số 44C; 78. Ghép 107 hộ dân còn lại thuộc tổ dân phố số 16 (phường Mai Động trước đây) vào tổ dân phố số 19 (phường Mai Động trước đây) và đổi tên thành tổ dân phố 44D; 79. Đổi tên tổ dân phố số 31 (phường Vĩnh Hưng cũ) thành tổ dân phố số 44E; 80. Ghép 20 hộ dân còn lại thuộc tổ dân phố số 20 (phường Vĩnh Hưng trước đây) vào tổ dân phố số 21 (phường Vĩnh Hưng trước đây) và đổi tên thành tổ dân phố 44F; 81. Đổi tên tổ dân phố số 33 thành tổ dân phố số 45A; 82. Đổi tên tổ dân phố số 33 thành tổ dân phố số 45B.</ref><ref>{{Chú thích web |title=Quyết định số 211/QĐ-UBND ngày 11 tháng 7 năm 2025 của Ủy ban nhân dân phường Vĩnh Tuy về việc đổi tên, sắp xếp các tổ dân phố trên địa bàn phường Vĩnh Tuy |url=https://vinhtuy.hanoi.gov.vn/chi-dao-cua-dia-phuong/phuong-vinh-tuy-tran-trong-gui-toi-nhan-dan-tren-dia-ban-phuong-quyet-dinh-doi-ten-va-sap-xep-cac-to-dan-pho-tren-dia-ban-phuong-vinh-tuy-sau-sap-xep-don-vi-hanh-chinh-2823250715085301846.htm?gidzl=k9LlU2ZpYNIyYcj-8kw9SRsCQtWrlufoyeixVcBaq7VyYpHxO-dG9_Q6PtndiD9s-OGoA36cLzCzBVADTW |url-status=live |archive-url=https://web.archive.org/web/20260704400809/https://vinhtuy.hanoi.gov.vn/chi-dao-cua-dia-phuong/phuong-vinh-tuy-tran-trong-gui-toi-nhan-dan-tren-dia-ban-phuong-quyet-dinh-doi-ten-va-sap-xep-cac-to-dan-pho-tren-dia-ban-phuong-vinh-tuy-sau-sap-xep-don-vi-hanh-chinh-2823250715085301846.htm?gidzl=k9LlU2ZpYNIyYcj-8kw9SRsCQtWrlufoyeixVcBaq7VyYpHxO-dG9_Q6PtndiD9s-OGoA36cLzCzBVADTW |archive-date=2026-07-04 |access-date=2026-07-04 |website=Trang Thông tin điện tử phường Vĩnh Tuy – thành phố Hà Nội}}</ref>
+
+Ngày 24 tháng 12 năm 2025, xác định phường Vĩnh Tuy là [[Đô thị Việt Nam|đô thị loại II]].<ref>Chuyển tiếp từ 2 phường: Thanh Lương, Vĩnh Tuy thuộc quận Hai Bà Trưng và 2 phường: Mai Động, Vĩnh Hưng thuộc quận Hoàng Mai.</ref><ref>{{Chú thích web |title=Nghị quyết số 111/2025/UBTVQH15 ngày 24 tháng 12 năm 2025 của Ủy ban Thường vụ Quốc hội về phân loại đô thị |url=https://cdn.nhandan.vn/files/f4a4abf7f9a0ba4a91744616546d850872b76917f90d5a74cc9eebef1369fb6f/111.pdf |url-status=dead |archive-url=https://web.archive.org/web/20260430074852/https://cdn.nhandan.vn/files/f4a4abf7f9a0ba4a91744616546d850872b76917f90d5a74cc9eebef1369fb6f/111.pdf |archive-date=2026-04-30 |access-date=2026-07-12 |website=Báo Nhân dân}}</ref>
+
+Ngày 26 tháng 6 năm 2026, thành lập 36 tổ dân phố mới, đánh số từ 1 đến 14 và từ 17 đến 38; đổi tên 2 tổ dân phố: 29A và 29B lần lượt thành 2 tổ dân phố: 15 và 16.<ref>1. Sáp nhập toàn bộ các tổ dân phố: 1, 3, phần lớn tổ dân phố 2 và 1 phần tổ dân phố 14 thành tổ dân phố 1; 2. Sáp nhập toàn bộ các tổ dân phố 4, 5, 6 thành tổ dân phố 2; 3. Sáp nhập toàn bộ các tổ dân phố 7, 8 và 1 phần tổ dân phố 2 thành tổ dân phố 3; 4. Sáp nhập toàn bộ tổ dân phố 9 và phần lớn các tổ dân phố 12, 13 thành tổ dân phố 4; 5. Sáp nhập toàn bộ tổ dân phố 10 và phần lớn tổ dân phố 14 thành tổ dân phố số 5; 6. Sáp nhập toàn bộ tổ dân phố 11, 15 và một phần tổ dân phố 20B thành tổ dân phố số 6; 7. Sáp nhập toàn bộ tổ dân phố 16, 17 và một phần tổ dân phố 12, 13 thành tổ dân phố số 7; 8. Sáp nhập toàn bộ các tổ dân phố 18, 23A, 23B thành tổ dân phố số 8; 9. Sáp nhập toàn bộ các tổ dân phố 19, 25 thành tổ dân phố số 9; 10. Sáp nhập toàn bộ các tổ dân phố 24, 26A, 26B thành tổ dân phố số 10; 11. Sáp nhập toàn bộ tổ dân phố 20A, phần lớn tổ dân phố 10B, 21 và một phần tổ dân phố 30 thành tổ dân phố số 11; 12. Sáp nhập toàn bộ các tổ dân phố 22, 31A, phần lớn tổ dân phố 30 và 1 phần tổ dân phố 21 thành tổ dân phố số 12; 13. Sáp nhập toàn bộ các tổ dân phố 31B, 31C thành tổ dân phố số 13; 14. Sáp nhập toàn bộ các tổ dân phố 27, 28, 29C thành tổ dân phố số 14; 15. Giữ nguyên tổ dân phố 29A và đổi tên thành tổ dân phố số 15; 16. Giữ nguyên tổ dân phố 29B và đổi tên thành tổ dân phố số 16; 17. Sáp nhập toàn bộ tổ dân phố 38 và một phần tổ dân phố 32 thành tổ dân phố số 17; 18. Sáp nhập toàn bộ tổ dân phố 32B và phần lớn tổ dân phố 32A thành tổ dân phố số 18; 19. Sáp nhập toàn bộ các tổ dân phố 33E, 33F, 33G thành tổ dân phố số 19; 20. Sáp nhập toàn bộ các tổ dân phố 33H, 33L thành tổ dân phố số 20; 21. Sáp nhập toàn bộ các tổ dân phố 33A, 33B thành tổ dân phố số 21; 22. Sáp nhập toàn bộ các tổ dân phố 33C, 33D thành tổ dân phố số 22; 23. Sáp nhập toàn bộ các tổ dân phố 33I, 33K thành tổ dân phố số 23; 24. Giữ nguyên phần lớn tổ dân phố 34A và đổi tên thành tổ dân phố số 24; 25. Sáp nhập toàn bộ tổ dân phố 34B và một phần các tổ dân phố 34A, 37A thành tổ dân phố số 25; 26. Sáp nhập toàn bộ các tổ dân phố 35, 36 thành tổ dân phố số 26; 27. Sáp nhập toàn bộ tổ dân phố 37B và phần lớn tổ dân phố 37A thành tổ dân phố số 27; 28. Sáp nhập toàn bộ các tổ dân phố 39A, 39B, 40A thành tổ dân phố số 28; 29. Sáp nhập toàn bộ các tổ dân phố 41A, 41C thành tổ dân phố số 29; 30. Sáp nhập toàn bộ các tổ dân phố 41B, 41D thành tổ dân phố số 30; 31. Sáp nhập toàn bộ các tổ dân phố 42A, 42B thành tổ dân phố số 31; 32. Sáp nhập toàn bộ các tổ dân phố 42C, 42D thành tổ dân phố số 32; 33. Sáp nhập toàn bộ các tổ dân phố 43A, 43B thành tổ dân phố số 33; 34. Sáp nhập toàn bộ các tổ dân phố 43C, 43D thành tổ dân phố số 34; 35. Sáp nhập toàn bộ các tổ dân phố 44A, 44B thành tổ dân phố số 35; 36. Sáp nhập toàn bộ các tổ dân phố 40B, 44C và một phần tổ dân phố 44D thành tổ dân phố số 36; 37. Sáp nhập toàn bộ các tổ dân phố 44E, 44F và phần lớn tổ dân phố 44D thành tổ dân phố số 37; 38. Sáp nhập toàn bộ các tổ dân phố 45A, 45B thành tổ dân phố số 38.</ref><ref name=":0">{{Chú thích web |last=Trang Thông tin điện tử phường Vĩnh Tuy – thành phố Hà Nội |date=2026-06-15 |title=Phương án sắp xếp, đổi tên tổ dân phố trên địa bàn phường Vĩnh Tuy |url=https://vinhtuy.hanoi.gov.vn/thong-bao/phuong-an-sap-xep-doi-ten-to-dan-pho-tren-dia-ban-phuong-vinh-tuy-28232606151421561.htm?gidzl=ssK21mMaRdVVUWO13xbkSzvv0WCOxMbraNvI1K-sCt2VVbq0Jhip89Lp3WTAuZ5ncd5RKp7ey5b10ALgTG |url-status=live |archive-url=https://web.archive.org/web/20260704400809/https://vinhtuy.hanoi.gov.vn/thong-bao/phuong-an-sap-xep-doi-ten-to-dan-pho-tren-dia-ban-phuong-vinh-tuy-28232606151421561.htm?gidzl=ssK21mMaRdVVUWO13xbkSzvv0WCOxMbraNvI1K-sCt2VVbq0Jhip89Lp3WTAuZ5ncd5RKp7ey5b10ALgTG |archive-date=2026-07-04 |access-date=2026-07-04}}</ref><ref name=":2">{{Chú thích web |last=Nguyễn Thị Hạnh |date=2026-06-26 |title=Phường Vĩnh Tuy quyết nghị nhiều nhiệm vụ trọng tâm tại Kỳ họp thứ hai Hội đồng nhân dân phường khóa II |url=https://thanhuyhanoi.vn/tin-tuc/phuong-vinh-tuy/phuong-vinh-tuy-quyet-nghi-nhieu-nhiem-vu-trong-tam-tai-ky-hop-thu-hai-hdnd-phuong-khoa-ii-50047586.html |url-status=live |archive-url=https://web.archive.org/web/20260704400809/https://thanhuyhanoi.vn/tin-tuc/phuong-vinh-tuy/phuong-vinh-tuy-quyet-nghi-nhieu-nhiem-vu-trong-tam-tai-ky-hop-thu-hai-hdnd-phuong-khoa-ii-50047586.html |archive-date=2026-07-04 |access-date=2026-07-04 |website=Trang Thông tin điện tử Đảng bộ thành phố Hà Nội}}</ref><!-- 
+== Lịch sử== 
+Mai Động có tên cổ là My Động. Năm 1979, khi nạo vét sông Kim Ngưu, những công cụ bằng đá có niên đại khoảng từ 3.500 năm đến 4.000 năm đã được phát hiện.<ref name = ":0">{{Chú thích web| url = http://nhipsonghanoi.hanoimoi.com.vn/tin-tuc/Xua-va-nay/822719/mai-dong---hon-lang-trong-pho| tựa đề = Mai Động hồn làng trong phố| tác giả = Trần Văn Mỹ| họ = | tên = | ngày = 21 tháng 5 năm 2020| website = | url lưu trữ = | ngày lưu trữ = | ngày truy cập = 1 tháng 8 năm 2020}}</ref>
+
+Vào những năm đầu Công nguyên, Tam Trinh, người quận Cửu Chân, đến Mai Động mở trường dạy văn và võ. Năm 40, khi Hai Bà Trưng phất cờ khởi nghĩa, Tam Trinh đem 3.000 tráng đinh lên Hát Môn tụ nghĩa.<ref name = ":0" />
+
+Đầu thế kỷ XV, Mai Động là nơi diễn ra một trận chiến giữa quân Minh do Vương Thông chỉ huy và nghĩa quân của Lê Lợi do Thái giám Lê Nguyễn chỉ huy.<ref name = ":0" />
+
+=== Hành chính=== 
+Phường Mai Động được thành lập ngày [[13 tháng 10]] năm [[1982]] trên cơ sở tách thôn Mai Động và xóm Mơ Táo của xã Hoàng Văn Thụ thuộc huyện [[Thanh Trì (huyện)| Thanh Trì]] cũ, lúc đầu phường thuộc quận Hai Bà Trưng.
+
+Từ [[1 tháng 1]] năm [[2004]], phường Mai Động chuyển sang trực thuộc quận Hoàng Mai.
+
+== Đình Mai Động== 
+Đình Mai Động nằm ở ngõ 254 Minh Khai, phường Mai Động, quận Hoàng Mai, Hà Nội.
+
+Đình Mai Động thờ Đức Thánh [[Tam Trinh]]. Ngài là tướng của [[Hai Bà Trưng]] và đã lập công tích lớn. Ngài cũng là người đã dạy chữ và truyền nghề làm đậu phụ cho người dân ở đây. Ngài là [[Thành hoàng| Thành Hoàng]] làng Mai Động, tiền thân của phường Mai Động bây giờ.<ref name = ":1">{{Chú thích web| url = https://laodongthudo.vn/dinh-lang-mai-dong-53365.html| tựa đề = Đình làng Mai Động| tác giả = Q.N.| họ = | tên = | ngày = 18 tháng 5 năm 2017| website = Lao động thủ đô| url lưu trữ = | ngày lưu trữ = | ngày truy cập = 1 tháng 8 năm 2020}}</ref> Hiện tại trong đình còn lưu giữ 5 bia đá có nội dung về lịch sử vùng đất Mai Động và các nhân vật liên quan.<ref name = ":1" />
+
+Về mặt kiến trúc, "nghi môn gồm 4 trụ biểu nhìn ra một gốc đa to và hồ nhỏ hình chữ nhật. Ngoài cổng có tượng đôi voi chầu, mới thay cho sư tử đá. Toà tiền tế rộng 5 gian, cửa bức bàn, thềm cao 5 bậc, đầu hàng hiên có tượng hai vị Hộ pháp đối diện nhau. Tiếp theo là thiêu hương 6 gian nối với hậu cung. Hai bên sân có nhà tả, hữu mạc 3 gian, cũng cửa bức bàn".<ref name = ":2">{{Chú thích web| url = http://ditichlichsu-vanhoahanoi.com/2017/10/02/dinh-nghe-mai-dong/| tựa đề = Đình nghè Mai Động| tác giả = | họ = | tên = | ngày = | website = Di tích lịch sử - văn hóa Hà Nội| url lưu trữ = | ngày lưu trữ = | ngày truy cập = 1 tháng 8 năm 2020}}</ref>
+
+Đình Mai Động là di tích lịch sử kiến trúc quốc gia.<ref name = ":2" />
+
+== Nghè Mai Động== 
+Nghè Mai Động là nơi ở cũ của Đức Thánh Tam Trinh, phía trước có giếng Ngọc. Nghè được dựng lại vào năm Duy Tân thứ 10 (1916) với tiền tế 5 gian và hậu cung 2 gian, quay hướng tây-bắc, bố cục hình “chữ Tam”.<ref name = ":2" />
+
+Nghè Mai Động là di tích lịch sử kiến trúc quốc gia.<ref name = ":2" />
+
+== Chùa Mai Động== 
+Chùa Mai động nằm cạnh nghè Mai Động. Trong chùa hiện lưu được một tấm bia niên hiệu Vĩnh Trị thứ 5 (1680), một pho tượng của quận chúa Trịnh Thị Ngọc Sanh và của người em là Trịnh Thị Ngọc Nhị, ngoài ra cũng đã xây thêm Điện Mẫu.<ref name = ":2" />
+
+== Hội vật làng Mai Động== 
+Hội vật làng Mai Động được tổ chức từ mùng 4 đến mùng 7 [[Tết Nguyên Đán]]<ref name = ":3">{{Chú thích web| url = https://nhandan.com.vn/photo_news/hoi-vat-lang-mai-dong-316916/| tựa đề = Hội vật làng Mai Động| tác giả = Duy Linh| họ = | tên = | ngày = 19 tháng 2 năm 2018| website = Nhân dân| url lưu trữ = | ngày lưu trữ = | ngày truy cập = 8 tháng 1 năm 2020}}</ref> (hoặc mùng 6 theo một số nguồn tin<ref name = ":4">{{Chú thích web| url = https://phapluatxahoi.vn/soi-noi-hoi-vat-truyen-thong-lang-mai-dong-177928.html| tựa đề = Sôi nổi hội vật truyền thống làng Mai Động| tác giả = Công Phương| họ = | tên = | ngày = 30 tháng 1 năm 2020| website = Pháp luật xã hội| url lưu trữ = | ngày lưu trữ = | ngày truy cập = 1 tháng 8 năm 2020}}</ref><ref name = ":5">{{Chú thích web| url = https://vovgiaothong.vn/dau-xuan-ve-mai-dong-xem-dau-vat-co-truyen| tựa đề = Đầu xuân về Mai Động xem đấu vật cổ truyền| tác giả = Quang Hùng| họ = | tên = | ngày = 29 tháng 1 năm 2020| website = | url lưu trữ = | ngày lưu trữ = | ngày truy cập = 1 tháng 8 năm 2020}}</ref>). Hội vật quy tụ nhiều lứa tuổi: từ các bô lão, trung niên, thanh niên đến các cháu thiếu niên nhi đồng, tới từ các lò vật trên cả nước.<ref name = ":3" /> Các hoạt động đặc trưng là ''đánh trống vật, thực hiện nghi lễ "xe đài" hay "Múa Hạc", người chiến thắng dâng hương lễ thánh''.<ref name = ":3" /> Người thắng cuộc nhận được một phần tiền thưởng từ đóng góp của người dân trong làng.<ref name = ":4" />
+
+Hội vật bắt đầu sau lễ rước thánh kiệu tưởng nhớ Đức Thánh Tam Trinh.
+
+Đây cũng là một trong số các nguồn đô vật cho đội tuyển quốc gia.<ref name = ":5" />
+
+=== Thể lệ===
+
+* Trước mỗi trận đấu, các đô vật phải thực hiện nghi thức chào sân.<ref name = ":5" />
+* Để dành chiến thắng, một đô vật phải thắng liên tiếp ba trận với ba đối thủ khác nhau (đô vật vào thách đấu sau mỗi chiến thắng được gọi là thách đấu để "phá giải").<ref name = ":5" />
+-->
+
+== Hành chính ==
+Phường Vĩnh Tuy được chia thành 38 tổ dân phố, đánh số từ 1 đến 38.<ref name=":0" /><ref name=":2" />
+{| class="wikitable sortable" align="center" width="100%" cellspacing="6" cellpadding="0" style="background: #f9f9f9; border: 1px #aaa solid; margin-top: 16px"
+! colspan="4" style="background: #E6E6FA; font-size: 95%;" |Danh sách các tổ dân phố thuộc phường Vĩnh Tuy<ref name=":0" /><ref name=":2" />
+|-
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Tổ dân phố 1
+|1.209
+|-
+| align="left" |Tổ dân phố 2
+|1.133
+|-
+| align="left" |Tổ dân phố 3
+|858
+|-
+| align="left" |Tổ dân phố 4
+|815
+|-
+| align="left" |Tổ dân phố 5
+|823
+|-
+| align="left" |Tổ dân phố 6
+|964
+|-
+| align="left" |Tổ dân phố 7
+|948
+|-
+| align="left" |Tổ dân phố 8
+|1.244
+|-
+| align="left" |Tổ dân phố 9
+|756
+|-
+| align="left" |Tổ dân phố 10
+|1.090
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Tổ dân phố 11
+|992
+|-
+| align="left" |Tổ dân phố 12
+|1.195
+|-
+| align="left" |Tổ dân phố 13
+|1.069
+|-
+| align="left" |Tổ dân phố 14
+|1.079
+|-
+| align="left" |Tổ dân phố 15
+|933
+|-
+| align="left" |Tổ dân phố 16
+|911
+|-
+| align="left" |Tổ dân phố 17
+|870
+|-
+| align="left" |Tổ dân phố 18
+|956
+|-
+| align="left" |Tổ dân phố 19
+|1.187
+|-
+| align="left" |Tổ dân phố 20
+|837
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Tổ dân phố 21
+|960
+|-
+| align="left" |Tổ dân phố 22
+|957
+|-
+| align="left" |Tổ dân phố 23
+|1.305
+|-
+| align="left" |Tổ dân phố 24
+|813
+|-
+| align="left" |Tổ dân phố 25
+|753
+|-
+| align="left" |Tổ dân phố 26
+|758
+|-
+| align="left" |Tổ dân phố 27
+|708
+|-
+| align="left" |Tổ dân phố 28
+|970
+|-
+| align="left" |Tổ dân phố 29
+|1.023
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Tổ dân phố 30
+|1.024
+|-
+| align="left" |Tổ dân phố 31
+|888
+|-
+| align="left" |Tổ dân phố 32
+|1.179
+|-
+| align="left" |Tổ dân phố 33
+|1.166
+|-
+| align="left" |Tổ dân phố 34
+|1.370
+|-
+| align="left" |Tổ dân phố 35
+|870
+|-
+| align="left" |Tổ dân phố 36
+|892
+|-
+| align="left" |Tổ dân phố 37
+|1.342
+|-
+| align="left" |Tổ dân phố 38
+|1.244
+|}
+|}
+
+== Chú thích ==
+{{tham khảo| 30em}}
+
+== Tham khảo ==
+{{Sơ khai Hà Nội}}
+{{Đơn vị hành chính thuộc thành phố Hà Nội}}

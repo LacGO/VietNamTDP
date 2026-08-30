@@ -1,0 +1,258 @@
+{{Thông tin đơn vị hành chính Việt Nam|Phường
+| tên = Hoàng Mai
+| hình = Pháp Vân Interchange.jpg
+| ghi chú hình = [[Nút giao thông Pháp Vân]]
+| vĩ độ = 20.9691523726301
+| kinh độ = 105.848787241675
+| vĩ phút = | diện tích = 9,04 km²
+| dân số = 98.502 người
+| thời điểm dân số = 2025
+| mật độ dân số = {{formatnum:{{#expr:floor({{formatnum:98.502| R}}/{{formatnum:9,04| R}})}} }} người/km²
+| vùng = [[Đồng bằng sông Hồng]]
+| thành phố = [[Hà Nội]]
+| trụ sở UBND = Số 8 ngõ 6 phố Bùi Huy Bích<ref>{{Chú thích web |url=https://storage-vnportal.vnpt.vn/gov-hni/6244/VanBan/2025/6/25/TB-729-2025.pdf |title=Thông báo số 729/TB-UBND ngày 25 tháng 6 năm 2025 của Ủy ban nhân dân thành phố Hà Nội về địa điểm trụ sở làm việc của 126 phường, xã sau sắp xếp thuộc phạm vi quản lý của thành phố Hà Nội|access-date=2026-06-15 |archive-date=2026-06-15 |archive-url=https://web.archive.org/web/20260615034519/https://storage-vnportal.vnpt.vn/gov-hni/6244/VanBan/2025/6/25/TB-729-2025.pdf |url-status=dead | website = Cổng Thông tin điện tử Ủy ban nhân dân thành phố Hà Nội}}</ref>
+| mã hành chính = 00331<ref>{{Chú thích web |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/19ttg.signed.pdf |title=Quyết định số 19/2025/QĐ-TTg ngày 30 tháng 6 năm 2025 của Thủ tướng Chính phủ về việc Ban hành Bảng danh mục và mã số các đơn vị hành chính Việt Nam |access-date=2026-06-15 |archive-date=2026-06-15 |archive-url=https://web.archive.org/web/20260615034519/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/19ttg.signed.pdf |url-status=dead }}</ref>
+| web = {{url|hoangmai.hanoi.gov.vn}}
+|trụ sở Đảng ủy=Số 8 ngõ 6 phố Bùi Huy Bích}}
+{{other|Hoàng Mai (định hướng)}}
+'''Hoàng Mai''' là một [[Phường (Việt Nam)|phường]] thuộc thành phố [[Hà Nội]], [[Việt Nam]].
+
+== Địa lý== 
+Phường Hoàng Mai có vị trí địa lý:
+
+* Phía đông giáp phường [[Lĩnh Nam (phường)|Lĩnh Nam]] (ranh giới đi theo [[Đường vành đai 3 (Hà Nội)|đường vành đai 3]])
+* Phía tây giáp phường [[Định Công (phường)|Định Công]] và phường [[Hoàng Liệt]] (ranh giới đi theo [[Đường Giải Phóng, Hà Nội|đường Giải Phóng]])
+* Phía nam giáp phường [[Yên Sở]] (ranh giới đi theo [[Đường vành đai 3 (Hà Nội)|đường Vành Đai 3]])
+* Phía bắc giáp phường [[Tương Mai]] và phường [[Vĩnh Hưng (phường)|Vĩnh Hưng]] (ranh giới đi theo đường Tân Mai – [[Đường vành đai 2,5 (Hà Nội)|đường vành đai 2,5]] – đường Lĩnh Nam).<ref>{{Chú thích web |last=Báo Điện tử Chính phủ |date=2025-04-28 |title=Chi tiết dự thảo phương án sắp xếp các phường của Hà Nội |url=https://xaydungchinhsach.chinhphu.vn/chi-tiet-du-thao-phuong-an-sap-xep-cac-phuong-cua-ha-noi-119250421100531902.htm |url-status=bot: unknown |archive-url=https://web.archive.org/web/20260316174230/https://xaydungchinhsach.chinhphu.vn/chi-tiet-du-thao-phuong-an-sap-xep-cac-phuong-cua-ha-noi-119250421100531902.htm |archive-date=2026-03-16 |access-date=2026-07-03 |website=Xây dựng chính sách, pháp luật }}</ref><ref name=":2">{{Chú thích web | date = 27 tháng 6 năm 2025 | title = Phường Hoàng Mai – phát huy truyền thống, vững bước tương lai | url = https://hoangmai.hanoi.gov.vn/gioi-thieu/phuong-hoang-mai-phat-huy-truyen-thong-vung-buoc-tuong-lai-2819250627162826043.htm | access-date = 3 tháng 7 năm 2026 | website = | last = Trang Thông tin điện tử phường Hoàng Mai – thành phố Hà Nội | archive-url = https://web.archive.org/web/20250807173156/https://hoangmai.hanoi.gov.vn/gioi-thieu/phuong-hoang-mai-phat-huy-truyen-thong-vung-buoc-tuong-lai-2819250627162826043.htm | archive-date = 2025-08-07 | url-status = dead }}</ref><ref name=":0" /><ref>{{Chú thích web |last=Cơ quan Báo và Phát thanh Truyền hình Hà Nội|date=2025-07-04|title=Phường Hoàng Mai: Tất cả thông tin chỉ dẫn bạn cần biết|url=https://hanoionline.vn/phuong-hoang-mai-tat-ca-thong-tin-chi-dan-ban-can-biet-344620.htm|url-status=dead|archive-url=https://web.archive.org/web/20260827401509/https://hanoionline.vn/phuong-hoang-mai-tat-ca-thong-tin-chi-dan-ban-can-biet-344620.htm|archive-date=2026-08-27|access-date=2026-08-27}}</ref>
+Phường Hoàng Mai có diện tích tự nhiên là 9,04&nbsp;km<sup>2</sup>, quy mô dân số năm 2025 là 98.502 người và mật độ dân số đạt 10.896 người/km<sup>2</sup>.<ref>{{Chú thích web |last=Mai Hữu|date=2026-04-05|title=Hà Nội: Chi tiết phương án tổng thể sắp xếp đơn vị hành chính cấp xã|url=https://hanoimoi.vn/ha-noi-chi-tiet-phuong-an-tong-the-sap-xep-don-vi-hanh-chinh-cap-xa-700278.html|url-status=live|archive-url=https://web.archive.org/web/20260711401509/https://hanoimoi.vn/ha-noi-chi-tiet-phuong-an-tong-the-sap-xep-don-vi-hanh-chinh-cap-xa-700278.html|archive-date=2026-07-11|access-date=2026-07-11|website=Cơ quan Báo và Phát thanh, truyền hình Hà Nội}}</ref><ref>Công văn số 2896/BNV-CQĐP ngày 27 tháng 5 năm 2025 của Bộ Nội vụ về việc cung cấp thông tin danh mục dự kiến đơn vị hành chính cấp xã mới.</ref>
+
+Trên địa bàn phường có [[sông Sét]], sông Kim Ngưu, [[hồ Yên Sở]] và hồ Đồng Khuyến.
+
+== Lịch sử==
+=== Trước năm 1976 ===
+Vùng đất Cổ Mai{{En dash}}bao gồm hai làng Hoàng Mai và Tương Mai{{En dash}}được xem một trong những khu vực cổ xưa nhất của Hà Nội, với dấu vết sinh sống từ khoảng 2000{{En dash}}1000 năm trước Công nguyên. Trong đó, một số công cụ như rìu đá, vòng đá đã được khai quật trong khu mộ táng ở bờ [[sông Kim Ngưu]]<ref name=":0" /> và mộ thời [[Đông Hán]] tại gò Mã Vẽ.<ref>{{Chú thích web | last =Trang Thông tin điện tử phường Yên Sở – thành phố Hà Nội | date = 2025-04-21 | title = Lịch sử 7 địa danh đơn vị hành chính cơ sở của quận Hoàng Mai | url = http://yenso.hanoi.gov.vn/van-hoa-xa-hoi-63601/lich-su-7-dia-danh-don-vi-hanh-chinh-co-so-cua-quan-hoang-mai-2797250421091509937.htm | access-date = 2026-08-27 | website = |archive-url=https://web.archive.org/web/20260827201510/http://yenso.hanoi.gov.vn/van-hoa-xa-hoi-63601/lich-su-7-dia-danh-don-vi-hanh-chinh-co-so-cua-quan-hoang-mai-2797250421091509937.htm|archive-date=2026-08-27|url-status=dead}}</ref>
+
+=== Giai đoạn 1976 – nay ===
+Sau ngày 2 tháng 7 năm 1976, 8 xã: Hoàng Liệt, Hoàng Văn Thụ, Lĩnh Nam, Thịnh Liệt, Trần Phú, Tứ Hiệp, Vĩnh Tuy và Yên Sở thuộc huyện [[Thanh Trì (huyện)|Thanh Trì]]; 2 tiểu khu: Giáp Bát và Tương Mai thuộc khu phố [[Hai Bà Trưng (quận)|Hai Bà Trưng]] của thành phố [[Hà Nội]].
+
+Ngày 3 tháng 1 năm 1981, từ nay ở nội thành, đơn vị hành chính cấp dưới trực tiếp của [[Thành phố trực thuộc trung ương (Việt Nam)|thành phố trực thuộc trung ương]] đều thống nhất gọi là [[Quận (Việt Nam)|quận]]; các đơn vị hành chính cơ sở ở nội thành, nội thị của các [[Thành phố thuộc tỉnh (Việt Nam)|thành phố thuộc tỉnh]], [[Thị xã (Việt Nam)|thị xã]] và [[Quận (Việt Nam)|quận]] gọi là [[Phường (Việt Nam)|phường]]. Khi đó, 2 phường: Giáp Bát và Tương Mai thuộc quận [[Hai Bà Trưng (quận)|Hai Bà Trưng]] của thành phố [[Hà Nội]].<ref>Quyết định số 3-CP ngày 3 tháng 1 năm 1981 của Hội đồng Chính phủ về việc thống nhất tên gọi các đơn vị hành chính ở nội thành nội thị.</ref>
+
+Ngày 13 tháng 10 năm 1982, sáp nhập xóm Mã Cả của xã Hoàng Văn Thụ thuộc huyện [[Thanh Trì (huyện)|Thanh Trì]] vào phường Tương Mai thuộc quận [[Hai Bà Trưng (quận)|Hai Bà Trưng]].<ref>{{Chú thích web |title=Quyết định số 173-HĐBT ngày 13 tháng 10 năm 1982 của Hội đồng Bộ trưởng về việc phân vạch địa giới một số phường và thị trấn thuộc thành phố Hà Nội |url=https://chinhphu.vn/default.aspx?pageid=27160&docid=6408 |url-status=dead |archive-url=https://web.archive.org/web/20260703400809/https://chinhphu.vn/default.aspx?pageid=27160&docid=6408 |archive-date=2026-07-03 |access-date=2026-07-03 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+
+Ngày 14 tháng 3 năm 1984, chia phường Giáp Bát (quận [[Hai Bà Trưng (quận)|Hai Bà Trưng]]) thành hai phường lấy tên là phường Giáp Bát và phường Tân Mai.<ref>{{Chú thích web |title=Quyết định số 42-HĐBT ngày 14 tháng 3 năm 1984 của Hội đồng Bộ trưởng về việc phân vạch địa giới một số phường, thị trấn thuộc thành phố Hà Nội |url=https://chinhphu.vn/default.aspx?pageid=27160&docid=6190 |url-status=live |archive-url=https://web.archive.org/web/20260703400809/https://chinhphu.vn/default.aspx?pageid=27160&docid=6190 |archive-date=2026-07-03 |access-date=2026-07-03 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+
+Ngày 26 tháng 10 năm 1990, giải thể xã Hoàng Văn Thụ thuộc huyện [[Thanh Trì (huyện)|Thanh Trì]]; chuyển 175,5 ha diện tích tự nhiên và 6824 nhân khẩu của xã Hoàng Văn Thụ (cũ) cho quận [[Hai Bà Trưng (quận)|Hai Bà Trưng]] quản lý để thành lập phường Hoàng Văn Thụ.<ref>Quyết định số 456/TCCP ngày 26 tháng 10 năm 1990 của Ban Tổ chức – Cán bộ Chính phủ về việc thành lập phường Hoàng Văn Thụ thuộc quận Hai Bà Trưng, thành phố Hà Nội.</ref>
+
+Ngày 6 tháng 11 năm 2003:
+
+* Tách 6 xã: Hoàng Liệt, Thịnh Liệt, Vĩnh Tuy, Lĩnh Nam, Trần Phú, Yên Sở và 55 ha diện tích tự nhiên của xã Tứ Hiệp thuộc huyện [[Thanh Trì (huyện)|Thanh Trì]]; 4 phường: Tương Mai, Tân Mai, Giáp Bát, Hoàng Văn Thụ thuộc quận [[Hai Bà Trưng (quận)|Hai Bà Trưng]] về quận [[Hoàng Mai (quận)|Hoàng Mai]] mới thành lập.
+* Thành lập phường Hoàng Liệt trên cơ sở toàn bộ diện tích tự nhiên và dân số của xã Hoàng Liệt, 20 ha diện tích tự nhiên của xã Tứ Hiệp.
+* Thành lập phường Yên Sở trên cơ sở toàn bộ diện tích tự nhiên và dân số của xã Yên Sở, 35 ha diện tích tự nhiên của xã Tứ Hiệp.
+* Thành lập phường Vĩnh Hưng trên cơ sở toàn bộ diện tích tự nhiên và dân số của xã Vĩnh Tuy.
+* Thành lập 3 phường: Thịnh Liệt, Lĩnh Nam và Trần Phú trên cơ sở toàn bộ diện tích tự nhiên và dân số của 3 xã có tên tương ứng.<ref>Nghị định số 132/2003/NĐ-CP ngày 6 tháng 11 năm 2003 của Chính phủ về việc điều chỉnh địa giới hành chính để thành lập các quận Long Biên, Hoàng Mai, thành lập các phường trực thuộc quận Long Biên, quận Hoàng Mai, thành phố Hà Nội.</ref>
+
+Ngày 16 tháng 6 năm 2025:
+
+* Kết thúc hoạt động của đơn vị hành chính cấp huyện trong cả nước.<ref>{{Chú thích web |last= |date= |title=Nghị quyết số 203/2025/QH15 ngày 16 tháng 6 năm 2025 của Quốc hội khóa XV, Kỳ họp thứ 9 về việc sửa đổi, bổ sung một số điều của Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/nq-sua-doi-hien-phap.pdf |url-status=live |archive-url=https://web.archive.org/web/20260613090807/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/nq-sua-doi-hien-phap.pdf |archive-date=2026-06-13 |access-date=2026-06-13 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+* Sắp xếp một phần diện tích tự nhiên, quy mô dân số của các phường Giáp Bát, Hoàng Liệt, Hoàng Văn Thụ, Lĩnh Nam, Tân Mai, Thịnh Liệt, Tương Mai, Trần Phú, Vĩnh Hưng và Yên Sở (quận [[Hoàng Mai (quận)|Hoàng Mai]]) thành phường mới có tên gọi là phường Hoàng Mai.<ref>{{Chú thích web |title=Nghị quyết số 1656/NQ-UBTVQH15 ngày 16 tháng 6 năm 2025 của Ủy ban Thường vụ Quốc hội về việc sắp xếp các đơn vị hành chính cấp xã của thành phố Hà Nội năm 2025 |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf |url-status=bot: unknown |archive-url=https://web.archive.org/web/20260513110024/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf |archive-date=2026-05-13 |access-date=2026-06-30 |website=Cổng Thông tin điện tử Chính phủ }}</ref>
+* Sau khi sắp xếp, phường Hoàng Mai được chia thành 87 tổ dân phố và một phần của 7 tổ dân phố.<ref>5 tổ dân phố: 8 và từ 13 đến 16 của phường Giáp Bát; 2 tổ dân phố: 9 và 10 của phường Hoàng Liệt; tổ dân phố 32 và một phần của tổ dân phố 22 của phường Hoàng Văn Thụ; 3 tổ dân phố, đánh số từ 15 đến 17 và một phần của tổ dân phố 19 của phường Lĩnh Nam; 17 tổ dân phố, đánh số từ 2 đến 6, từ 8 đến 17, 20, 21 và một phần của 2 tổ dân phố: 1, 7 của phường Tân Mai; 29 tổ dân phố, đánh số từ 5 đến 33 của phường Thịnh Liệt; tổ dân phố số 20 của phường Tương Mai; 8 tổ dân phố, đánh số từ 1 đến 4 và từ 10 đến 13 của phường Trần Phú; tổ dân phố số 33 và một phần của 2 tổ dân phố: 14, 15 của phường Vĩnh Hưng; 20 tổ dân phố, đánh số từ 1 đến 8, từ 10 đến 14, 17, từ 19 đến 24 và một phần của tổ dân phố 9 của phường Yên Sở.</ref><ref>{{Chú thích web|title=Thông tư số 10/2022/TT-BTNMT ngày 29 tháng 9 năm 2022 của Bộ Tài nguyên và Môi trường về việc Ban hành Danh mục địa danh dân cư, sơn văn, thủy văn, kinh tế - xã hội phục vụ công tác thành lập bản đồ thành phố Hà Nội|url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2022/10/10-btnmt.pdf|url-status=bot: unknown|archive-url=https://web.archive.org/web/20260630082812/https://datafiles.chinhphu.vn/cpp/files/vbpq/2022/10/10-btnmt.pdf|archive-date=2026-06-30|access-date=2026-06-30|website=Cổng Thông tin điện tử Chính phủ}}</ref><ref>{{Chú thích web|title=Thông báo số 362/TB-UBND ngày 2 tháng 2 năm 2026 của Ủy ban nhân dân phường Hoàng Mai về việc niêm yết danh sách cử tri bầu cử đại biểu Quốc hội khóa XVI và đại biểu Hội đồng nhân dân các cấp nhiệm kỳ 2026 – 2031|url=https://sqhx-hanoi.mediacdn.vn/91579363132710912/2026/2/4/camscanner-02-02-2026-16-1770200762398813670342.pdf|url-status=dead|archive-url=https://web.archive.org/web/20260703154616/https://sqhx-hanoi.mediacdn.vn/91579363132710912/2026/2/4/camscanner-02-02-2026-16-1770200762398813670342.pdf|archive-date=2026-07-03|access-date=2026-07-02|website=Trang Thông tin điện tử phường Hoàng Mai – thành phố Hà Nội}}</ref>
+
+Ngày 28 tháng 8 năm 2025, ghép 1 phần tổ dân phố 1 vào tổ dân phố 2, phường Tân Mai (cũ); ghép 1 phần tổ dân phố 7 vào tổ dân phố 8, phường Tân Mai (cũ); ghép 1 phần tổ dân phố 22 vào 1 phần tổ dân phố 32, phường Hoàng Văn Thụ (cũ); ghép 1 phần tổ dân phố 9 vào tổ dân phố 8, phường Yên Sở (cũ); ghép 1 phần tổ dân phố 19, phường Lĩnh Nam (cũ) vào tổ dân phố 1, phường Trần Phú (cũ); ghép 1 phần tổ dân phố 14 và 1 phần tổ dân phố 15, phường Vĩnh Hưng (cũ) vào tổ dân phố 15, phường Lĩnh Nam (cũ).<ref>1. Ghép 01 phần Tổ dân phố số 01, phường Tân Mai (cũ) vào Tổ dân phố số 02, phường Tân Mai (cũ); 2. Ghép 01 phần Tổ dân phố số 07, phường Tân Mai (cũ) vào Tổ dân phố số 08, phường Tân Mai (cũ); 3. Ghép 01 phần Tổ dân phố số 22, phường Hoàng Văn Thụ (cũ) vào 01 phần Tổ dân phố số 32, phường Hoàng Văn Thụ (cũ); 4. Ghép 01 phần Tổ dân phố số 09, phường Yên Sở (cũ) vào Tổ dân phố số 08, phường Yên Sở (cũ); 5. Ghép 01 phần Tổ dân phố số 19, phường Lĩnh Nam (cũ) vào Tổ dân phố số 01, phường Trần Phú (cũ); 6. Ghép 01 phần Tổ dân phố số 14, phường Vĩnh Hưng (cũ) và 01 phần Tổ dân phố số 15, phường Vĩnh Hưng (cũ) vào Tổ dân phố số 15, phường Lĩnh Nam (cũ).</ref><ref>{{Chú thích web |last=Trang Thông tin điện tử phường Hoàng Mai – thành phố Hà Nội |date=2025-09-03 |title=Kỳ họp thứ ba (Kỳ họp chuyên đề) Hội đồng nhân dân phường Hoàng Mai |url=https://hoangmai.hanoi.gov.vn/dang-doan-the/ky-hop-thu-ba-ky-hop-chuyen-de-hdnd-phuong-hoang-mai-2819250903143056425.htm?gidzl=wAO48_r86oNikG0bzrKR9ksv1YVW0XudehvM8RTPH2AilbaajbH4SgQp2YEo3KOZgR5VTp4Ztoet-4aV9m |url-status=live |archive-url=https://web.archive.org/web/20260704400809/https://hoangmai.hanoi.gov.vn/dang-doan-the/ky-hop-thu-ba-ky-hop-chuyen-de-hdnd-phuong-hoang-mai-2819250903143056425.htm?gidzl=wAO48_r86oNikG0bzrKR9ksv1YVW0XudehvM8RTPH2AilbaajbH4SgQp2YEo3KOZgR5VTp4Ztoet-4aV9m |archive-date=2026-07-04 |access-date=2026-07-04}}</ref><ref>{{Chú thích web |last=Trang Thông tin điện tử phường Hoàng Mai – thành phố Hà Nội |date=2025-09-08 |title=Phường Hoàng Mai tổ chức Hội nghị Công bố Quyết định ghép khu vực dân cư vào Tổ dân phố trên địa bàn phường Hoàng Mai |url=https://hoangmai.hanoi.gov.vn/dang-doan-the/phuong-hoang-mai-to-chuc-hoi-nghi-cong-bo-quyet-dinh-ghep-khu-vuc-dan-cu-vao-to-dan-pho-tren-dia-ban-phuong-hoang-mai-2819250908093838857.htm?gidzl=Wg4G5wzcn6c6lXGHfNl5Pecz71cyByzXnhfC7-jqbMJ8kaCQwdcLDCAt41tk89TbpRL5IJ4Rzk5FgcV0Qm |url-status=dead |archive-url=https://web.archive.org/web/20260703400809/https://hoangmai.hanoi.gov.vn/dang-doan-the/phuong-hoang-mai-to-chuc-hoi-nghi-cong-bo-quyet-dinh-ghep-khu-vuc-dan-cu-vao-to-dan-pho-tren-dia-ban-phuong-hoang-mai-2819250908093838857.htm?gidzl=Wg4G5wzcn6c6lXGHfNl5Pecz71cyByzXnhfC7-jqbMJ8kaCQwdcLDCAt41tk89TbpRL5IJ4Rzk5FgcV0Qm |archive-date=2026-07-03 |access-date=2026-07-03}}</ref>
+
+Ngày 24 tháng 12 năm 2025, xác định phường Hoàng Mai là [[Đô thị Việt Nam|đô thị loại II]].<ref>Chuyển tiếp từ 10 phường: Giáp Bát, Hoàng Liệt, Hoàng Văn Thụ, Lĩnh Nam, Tân Mai, Thịnh Liệt, Tương Mai, Trần Phú, Vĩnh Hưng và Yên Sở thuộc quận Hoàng Mai.</ref><ref>{{Chú thích web |title=Nghị quyết số 111/2025/UBTVQH15 ngày 24 tháng 12 năm 2025 của Ủy ban Thường vụ Quốc hội về phân loại đô thị|url=https://cdn.nhandan.vn/files/f4a4abf7f9a0ba4a91744616546d850872b76917f90d5a74cc9eebef1369fb6f/111.pdf|url-status=dead|archive-url=https://web.archive.org/web/20260430074852/https://cdn.nhandan.vn/files/f4a4abf7f9a0ba4a91744616546d850872b76917f90d5a74cc9eebef1369fb6f/111.pdf|archive-date=2026-04-30|access-date=2026-07-12|website=Báo Nhân dân}}</ref>
+
+Ngày 30 tháng 6 năm 2026, thành lập 39 tổ dân phố mới, đánh số từ 1 đến 18, từ 20 đến 26 và từ 28 đến 41; đổi tên 2 tổ dân phố: 20 – Tương Mai và 33 – Vĩnh Hưng lần lượt thành tổ dân phố: 19 và 27.<ref>1. Tổ dân phố số 1: Thành lập trên cơ sở sáp nhập phần lớn tổ dân phố số 13 – Giáp Bát (Phía Bắc Bến xe Giáp Bát) và 01 phần tổ dân phố số 15 – Giáp Bát (toàn bộ bến xe Giáp Bát) vào tổ dân phố số 14 – Giáp Bát và đổi tên thành Tổ dân phố 01, phường Hoàng Mai; 2. Tổ dân phố số 2: Thành lập trên cơ sở sáp nhập 1 phần Tổ dân phố số 2 – Tân Mai (đoạn giao đường sông Sét, Trương Định và Giải Phóng) vào Tổ dân phố số 8 – Giáp Bát và đổi tên thành Tổ dân phố số 02, phường Hoàng Mai; 3. Tổ dân phố số 3: Thành lập trên cơ sở sáp nhập 1 phần Tổ dân phố số 13 – Giáp Bát và 1 phần Tổ dân phố số 15 – Giáp Bát vào Tổ dân phố số 16 – Giáp Bát và đổi tên thành Tổ dân phố số 3, phường Hoàng Mai; 4. Tổ dân phố số 4: Thành lập trên cơ sở Ghép 1 phần Tổ dân phố số 9 – Thịnh Liệt (toàn bộ ranh giới của Tổ dân phố số 4 mới trừ đi Tổ dân phố 10 – Thịnh Liệt cũ) vào Tổ dân phố số 10 – Thịnh Liệt và đổi tên thành Tổ dân phố số 4, phường Hoàng Mai; 5. Tổ dân phố số 5: Thành lập trên cơ sở sáp nhập phần lớn tổ dân phố số 8 – Thịnh Liệt và 1 phần tổ dân phố số 9 – Thịnh Liệt vào Tổ dân phố số 11 – Thịnh Liệt và đổi tên thành Tổ dân phố số 5, phường Hoàng Mai; 6. Tổ dân phố số 6: Thành lập trên cơ sở sáp nhập 1 phần Tổ dân phố số 5 – Thịnh Liệt (toàn bộ tổ dân phố số 5 trừ đi khu chung cư Hồng Hà), 1 phần tổ dân phố số 8 – Thịnh Liệt (nút giao 785 Trương Định với đường Trương Định, chạy dọc đường Trương Định, đến nút giao đường Trương Định và phố Giáp Nhị, tường bao công ty vận tải) và 01 phần tổ dân phố số 7 – Thịnh Liệt (toàn bộ hộ dân phía Bắc của ngõ 1277 đường Giải Phóng) vào tổ dân phố số 6 – Thịnh Liệt và đổi tên thành Tổ dân phố số 6, phường Hoàng Mai; 7. Tổ dân phố số 7: Thành lập trên cơ sở sáp nhập 1 phần tổ dân phố số 5 – Thịnh Liệt (toàn bộ chung cư Hồng Hà) và Tổ dân phố số 12 – Thịnh Liệt vào Tổ dân phố số 13 –Thịnh Liệt và đổi tên thành Tổ dân phố số 7, phường Hoàng Mai; 8. Tổ dân phố số 8: Thành lập trên cơ sở sáp nhập 1 phần Tổ dân phố số 15 – Thịnh Liệt (toàn bộ khu vực dân cư phía Tây của hẻm 88/61/5 phố Giáp Nhị) và Tổ dân phố số 16 – Thịnh Liệt vào Tổ dân phố số 17 – Thịnh Liệt và đổi tên thành Tổ dân phố số 8, phường Hoàng Mai; 9. Tổ dân phố số 9: Thành lập trên cơ sở sáp nhập 1 phần tổ dân phố số 21 – Thịnh Liệt và Tổ dân phố số 18 – Thịnh Liệt vào Tổ dân phố số 19 – Thịnh Liệt và đổi tên thành Tổ dân phố số 9, phường Hoàng Mai; 10. Tổ dân phố số 10: Thành lập trên cơ sở sáp nhập phần lớn Tổ dân phố số 15 – Thịnh Liệt và 1 phần tổ dân phố số 22 – Thịnh Liệt (toàn bộ ranh giới của khu nhà ở thấp tầng) vào tổ dân phố số 14 – Thịnh Liệt và đổi tên thành Tổ dân phố số 10, phường Hoàng Mai; 11. Tổ dân phố số 11: Thành lập trên cơ sở sáp nhập 1 phần tổ dân phố số 7 – Thịnh Liệt và Tổ dân phố số 9 – Hoàng Liệt vào Tổ dân phố số 10 – Hoàng Liệt và đổi tên thành Tổ dân phố số 11, phường Hoàng Mai; 12. Tổ dân phố số 12: Thành lập trên cơ sở sáp nhập 1 phần tổ dân phố số 7 – Thịnh Liệt (Toàn bộ hộ dân phía Đông ngách 134 ngõ 1277 đường Giải Phóng) và 1 phần tổ dân phố số 22 – Thịnh Liệt vào Tổ dân phố số 23 – Thịnh Liệt và đổi tên thành Tổ dân phố số 12, phường Hoàng Mai; 13. Tổ dân phố số 13: Thành lập trên cơ sở sáp nhập 1 phần tổ dân phố số 21 – Thịnh Liệt và tổ dân phố số 20 – Thịnh Liệt vào tổ dân phố số 24 – Thịnh Liệt và đổi tên thành Tổ dân phố số 13, phường Hoàng Mai; 14. Tổ dân phố số 14: Thành lập trên cơ sở sáp nhập Phần lớn tổ dân phố số 2 – Tân Mai, tổ dân phố số 3 –Tân Mai, tổ dân phố số 4 – Tân Mai vào tổ dân phố số 20 Tân Mai và đổi tên thành Tổ dân phố số 14, phường Hoàng Mai; 15. Tổ dân phố số 15: Thành lập trên cơ sở sáp nhập 1 phần tổ dân phố số 8 Tân Mai, tổ dân phố số 5 – Tân Mai vào tổ dân phố số 6 – Tân Mai và đổi tên thành Tổ dân phố số 15, phường Hoàng Mai; 16. Tổ dân phố số 16: Thành lập trên cơ sở sáp nhập Phần lớn tổ dân phố số 10 – Tân Mai, 1 phần tổ dân phố số 8 – Tân Mai vào tổ dân phố số 9 – Tân Mai và đổi tên thành Tổ dân phố số 16, phường Hoàng Mai; 17. Tổ dân phố số 17: Thành lập trên cơ sở sáp nhập 1 phần nhỏ của tổ dân phố 10 – Tân Mai và tổ dân phố số 11 – Tân Mai vào tổ dân phố số 21 – Tân Mai và đổi tên thành Tổ dân phố số 17, phường Hoàng Mai; 18. Tổ dân phố số 18: Thành lập trên cơ sở hợp nhất tổ dân phố số 12 – Tân Mai và tổ dân phố số 13 – Tân Mai thành Tổ dân phố số 18, phường Hoàng Mai; 19. Tổ dân phố số 19: Thành lập trên cơ sở giữ nguyên tổ dân phố số 20 – Tương Mai và đổi tên thành Tổ dân phố số 19, phường Hoàng Mai; 20. Tổ dân phố số 20: Thành lập trên cơ sở hợp nhất tổ dân phố số 25 – Thịnh Liệt và tổ dân phố số 27 – Thịnh Liệt thành Tổ dân phố số 20, phường Hoàng Mai; 21. Tổ dân phố số 21: Thành lập trên cơ sở hợp nhất tổ dân phố số 14 – Tân Mai và tổ dân phố số 15 – Tân Mai thành Tổ dân phố số 21, phường Hoàng Mai; 22. Tổ dân phố số 22: Thành lập trên cơ sở hợp nhất tổ dân phố số 16 – Tân Mai và tổ dân phố số 17 – Tân Mai thành Tổ dân phố số 22, phường Hoàng Mai; 23. Tổ dân phố số 23: Thành lập trên cơ sở hợp nhất tổ dân phố số 32 – Thịnh Liệt và tổ dân phố số 33 – Thịnh Liệt thành Tổ dân phố số 23, phường Hoàng Mai; 24. Tổ dân phố số 24: Thành lập trên cơ sở hợp nhất tổ dân phố số 26 – Thịnh Liệt và tổ dân phố số 28 – Thịnh Liệt thành Tổ dân phố số 24, phường Hoàng Mai; 25. Tổ dân phố số 25: Thành lập trên cơ sở hợp nhất tổ dân phố số 29 – Thịnh Liệt, Tổ dân phố số 30 – Thịnh Liệt và Tổ dân phố số 31 – Thịnh Liệt thành Tổ dân phố số 25, phường Hoàng Mai; 26. Tổ dân phố số 26: Thành lập trên cơ sở điều chỉnh địa giới tổ dân phố số 32 – Hoàng Văn Thụ và đổi tên thành tổ dân phố số 26, phường Hoàng Mai; 27. Tổ dân phố số 27: Giữ nguyên tổ dân phố số 33 – Vĩnh Hưng và đổi tên thành tổ dân phố số 27 phường Hoàng Mai; 28. Tổ dân phố số 28: Thành lập trên cơ sở hợp nhất tổ dân phố số 15 – Lĩnh Nam, tổ dân phố 16 – Lĩnh Nam và tổ dân phố số 17 – Lĩnh Nam thành Tổ dân phố số 28, phường Hoàng Mai; 29. Tổ dân phố số 29: Thành lập trên cơ sở hợp nhất Tổ dân phố số 3 – Trần Phú và Tổ dân phố số 4 – Trần Phú thành Tổ dân phố số 29, phường Hoàng Mai; 30. Tổ dân phố số 30: Thành lập trên cơ sở hợp nhất tổ dân phố số 01 – Trần Phú và tổ dân phố số 02 – Trần Phú thành Tổ dân phố số 30, phường Hoàng Mai; 31. Tổ dân phố số 31: Thành lập trên cơ sở hợp nhất Tổ dân phố số 13 – Trần Phú và Tổ dân phố số 24 – Yên Sở và đổi tên thành Tổ dân phố số 31, phường Hoàng Mai; 32. Tổ dân phố số 32: Thành lập trên cơ sở đổi tên Tổ dân phố số 12 – Trần Phú thành Tổ dân phố số 32, đồng thời điều chỉnh địa giới tổ dân phố số 32, phường Hoàng Mai gồm: Tòa nhà The Zen Residence – đường 2.2. khu đô thị Gamuda Gardens và khu đất công cộng phía Đông Bắc của Gamuda; 33. Tổ dân phố số 33: Thành lập trên cơ sở hợp nhất Tổ dân phố số 10 – Trần Phú và Tổ dân phố số 11 – Trần Phú thành Tổ dân phố số 33, phường Hoàng Mai, đồng thời điều chỉnh địa giới Tổ dân phố 33, phường Hoàng Mai gồm: Tòa nhà The One và The Two Residence – đường 2.2. khu đô thị Gamuda Gardens kéo dài đến phía Đông Bắc của đường Yên Duyên; 34. Tổ dân phố số 34: Thành lập trên cơ sở hợp nhất Tổ dân phố số 1 – Yên Sở và Tổ dân phố số 02 – Yên Sở thành Tổ dân phố số 34, phường Hoàng Mai; 35. Tổ dân phố số 35: Thành lập trên cơ sở hợp nhất Tổ dân phố số 20 – Yên Sở và Tổ dân phố số 21 – Yên Sở thành Tổ dân phố số 35, phường Hoàng Mai; 36. Tổ dân phố số 36: Thành lập trên cơ sở hợp nhất Tổ dân phố số 22 – Yên Sở và Tổ dân phố số 23 – Yên Sở thành Tổ dân phố số 36, phường Hoàng Mai; 37. Tổ dân phố số 37: Thành lập trên cơ sở hợp nhất Tổ dân phố số 10 – Yên Sở, tổ dân phố 11 – Yên Sở và Tổ dân phố số 12 – Yên Sở thành Tổ dân phố số 37, phường Hoàng Mai; 38. Tổ dân phố số 38: Thành lập trên cơ sở hợp nhất Tổ dân phố số 13 – Yên Sở, Tổ dân phố 14 – Yên Sở và Tổ dân phố số 17 – Yên Sở thành Tổ dân phố số 38, phường Hoàng Mai; 39. Tổ dân phố số 39: Thành lập trên cơ sở sáp nhập 1 phần Tổ dân phố số 8 – Yên Sở, Tổ dân phố số 6 – Yên Sở, Tổ dân phố số 7 – Yên Sở vào Tổ dân phố số 19 – Yên Sở và đổi tên thành Tổ dân phố số 39, phường Hoàng Mai; 40. Tổ dân phố số 40: Thành lập trên cơ sở hợp nhất Tổ dân phố số 3 – Yên Sở và Tổ dân phố 4 – Yên Sở thành Tổ dân phố số 40, phường Hoàng Mai; 41. Tổ dân phố số 41: Thành lập trên cơ sở Sáp nhập Phần lớn Tổ dân phố 8 – Yên Sở vào Tổ dân phố số 5 – Yên Sở và đổi tên thành Tổ dân phố số 41, phường Hoàng Mai.</ref><ref name=":1">{{Chú thích web |title=Đề án năm 2026 của Ủy ban nhân dân phường Hoàng Mai về việc sắp xếp, đổi tên tổ dân phố trên địa bàn phường Hoàng Mai |url=https://sqhx-hanoi.mediacdn.vn/91579363132710912/2026/6/12/du-thao-de-an-sap-xep-tdp-1781257626069992231516.pdf |url-status=dead |archive-url=https://web.archive.org/web/20260827201510/https://sqhx-hanoi.mediacdn.vn/91579363132710912/2026/6/12/du-thao-de-an-sap-xep-tdp-1781257626069992231516.pdf |archive-date=2026-08-27 |access-date=2026-08-27 |website=Trang Thông tin điện tử phường Hoàng Mai – thành phố Hà Nội}}</ref><ref name=":3">{{Chú thích web |title=Phương án của Ủy ban nhân dân phường Hoàng Mai về việc sắp xếp, đổi tên tổ dân phố trên địa bàn phường Hoàng Mai |url=https://sqhx-hanoi.mediacdn.vn/91579363132710912/2026/6/12/pa-kem-de-an-17812576460381214297544.pdf |url-status=bot: unknown |archive-url=https://web.archive.org/web/20260703152842/https://sqhx-hanoi.mediacdn.vn/91579363132710912/2026/6/12/pa-kem-de-an-17812576460381214297544.pdf |archive-date=2026-07-03 |access-date=2026-07-03 |website= |date=2026-06-11|last=Trang Thông tin điện tử phường Hoàng Mai – thành phố Hà Nội}}</ref><ref>{{Chú thích web |last=Trang Thông tin điện tử phường Hoàng Mai – thành phố Hà Nội |date=2026-06-14 |title=Về việc công khai bản đồ chi tiết các tổ dân phố trên địa bàn phường Hoàng Mai |url=https://hoangmai.hanoi.gov.vn/thong-bao/ve-viec-cong-khai-ban-do-chi-tiet-cac-to-dan-pho-tren-dia-ban-phuong-hoang-mai-2819260615180312471.htm?gidzl=wuxoCWCQLd7laVOq2GDVT-QG_JSM15aZgvUiPq06N7Qga_bcHmTP9__1gM141W0ZgSQeC3dUfP5o1XjISm |url-status=dead |archive-url=https://web.archive.org/web/20260827201510/https://hoangmai.hanoi.gov.vn/thong-bao/ve-viec-cong-khai-ban-do-chi-tiet-cac-to-dan-pho-tren-dia-ban-phuong-hoang-mai-2819260615180312471.htm?gidzl=wuxoCWCQLd7laVOq2GDVT-QG_JSM15aZgvUiPq06N7Qga_bcHmTP9__1gM141W0ZgSQeC3dUfP5o1XjISm |archive-date=2026-08-27 |access-date=2026-08-27}}</ref><ref name=":4">{{Chú thích web |last=Trang Thông tin điện tử phường Hoàng Mai – thành phố Hà Nội |date=2026-08-19 |title=Về việc công khai Nghị quyết sắp xếp Tổ dân phố trên địa bàn phường Hoàng Mai |url=https://hoangmai.hanoi.gov.vn/thong-bao/ve-viec-cong-khai-nghi-quyet-sap-xep-to-dan-pho-tren-dia-ban-phuong-hoang-mai-2819260819171109828.htm?gidzl=jYVgNM0344UoEEvRQXePGRivxrnr7HKHzZw-32CV44JtEkiD91uL5Q9ekmid7qmHz6-wMpdW5SyhPG8KHG |url-status=dead |archive-url=https://web.archive.org/web/20260827201510/https://hoangmai.hanoi.gov.vn/thong-bao/ve-viec-cong-khai-nghi-quyet-sap-xep-to-dan-pho-tren-dia-ban-phuong-hoang-mai-2819260819171109828.htm?gidzl=jYVgNM0344UoEEvRQXePGRivxrnr7HKHzZw-32CV44JtEkiD91uL5Q9ekmid7qmHz6-wMpdW5SyhPG8KHG |archive-date=2026-08-27 |access-date=2026-08-27}}</ref><!-- 
+== Lịch sử== 
+Trước đây, Trần Phú là một xã thuộc huyện [[Thanh Trì (huyện)| Thanh Trì]].
+
+Ngày [[6 tháng 11]] năm [[2003]], xã Trần Phú được chuyển thành phường thuộc quận Hoàng Mai mới thành lập.<ref name = "132/2003/NĐ-CP">{{Chú thích web| url = https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Nghi-dinh-132-2003-ND-CP-dieu-chinh-dia-gioi-hanh-chinh-de-thanh-lap-quan-Long-Bien-Hoang-Mai-phuong-thuoc-quan-Hoang-Mai-Ha-Noi-51571.aspx| title = Nghị định 132/2003/NĐ-CP về việc điều chỉnh địa giới hành chính để thành lập các quận Long Biên, Hoàng Mai, thành lập các phường trực thuộc quận Long Biên, quận Hoàng Mai, thành phố Hà Nội| last = | first = | date = | website = | archive-url = | archive-date = | url-status = | access-date = }}</ref>
+
+== Lịch sử== 
+Phường Tân Mai được thành lập ngày [[14 tháng 3]] năm [[1984]] theo Quyết định số 42/HĐBT của Hội đồng bộ trưởng, trên cơ sở tách ra từ phường Giáp Bát, ban đầu thuộc quận Hai Bà Trưng.
+
+Từ [[tháng 1]] năm [[2004]], chuyển về quận Hoàng Mai quản lý.
+
+== Lịch sử== 
+Trước đây, Hoàng Văn Thụ là một xã thuộc huyện [[Thanh Trì (huyện)| Thanh Trì]].
+
+Ngày [[26 tháng 10]] năm [[1990]], xã Hoàng Văn Thụ được chuyển về quận [[Hai Bà Trưng (quận)| Hai Bà Trưng]] quản lý và được chuyển thành phường Hoàng Văn Thụ.
+
+Ngày [[6 tháng 11]] năm [[2003]], phường Hoàng Văn Thụ chuyển sang trực thuộc quận Hoàng Mai mới thành lập.<ref name = "132/2003/NĐ-CP">{{Chú thích web| url = https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Nghi-dinh-132-2003-ND-CP-dieu-chinh-dia-gioi-hanh-chinh-de-thanh-lap-quan-Long-Bien-Hoang-Mai-phuong-thuoc-quan-Hoang-Mai-Ha-Noi-51571.aspx| title = Nghị định 132/2003/NĐ-CP về việc điều chỉnh địa giới hành chính để thành lập các quận Long Biên, Hoàng Mai, thành lập các phường trực thuộc quận Long Biên, quận Hoàng Mai, thành phố Hà Nội| last = | first = | date = | website = | archive-url = | archive-date = | url-status = | access-date = }}</ref>
+
+ -->
+
+== Hành chính==
+Phường Hoàng Mai được chia thành 41 tổ dân phố, đánh số từ 1 đến 41.<ref name=":1" /><ref name=":3" /><ref name=":4" />
+{| class="wikitable sortable" cellpadding="0" cellspacing="6" width="100%" align="center" style="background: #f9f9f9; border: 1px #aaa solid; margin-top: 16px"
+! colspan="4" style="background: #E6E6FA; font-size: 95%;" |Danh sách các tổ dân phố thuộc phường Hoàng Mai<ref name=":1" /><ref name=":3" /><ref name=":4" />
+|-
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| cellpadding="1" cellspacing="1" width="100%" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Tổ dân phố 1
+|706
+|-
+| align="left" |Tổ dân phố 2
+|701
+|-
+| align="left" |Tổ dân phố 3
+|1.013
+|-
+| align="left" |Tổ dân phố 4
+|820
+|-
+| align="left" |Tổ dân phố 5
+|940
+|-
+| align="left" |Tổ dân phố 6
+|703
+|-
+| align="left" |Tổ dân phố 7
+|771
+|-
+| align="left" |Tổ dân phố 8
+|701
+|-
+| align="left" |Tổ dân phố 9
+|712
+|-
+| align="left" |Tổ dân phố 10
+|796
+|-
+| align="left" |Tổ dân phố 11
+|707
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| cellpadding="1" cellspacing="1" width="100%" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Tổ dân phố 12
+|754
+|-
+| align="left" |Tổ dân phố 13
+|908
+|-
+| align="left" |Tổ dân phố 14
+|1.070
+|-
+| align="left" |Tổ dân phố 15
+|808
+|-
+| align="left" |Tổ dân phố 16
+|888
+|-
+| align="left" |Tổ dân phố 17
+|701
+|-
+| align="left" |Tổ dân phố 18
+|708
+|-
+| align="left" |Tổ dân phố 19
+|622
+|-
+| align="left" |Tổ dân phố 20
+|702
+|-
+| align="left" |Tổ dân phố 21
+|702
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| cellpadding="1" cellspacing="1" width="100%" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Tổ dân phố 22
+|701
+|-
+| align="left" |Tổ dân phố 23
+|701
+|-
+| align="left" |Tổ dân phố 24
+|700
+|-
+| align="left" |Tổ dân phố 25
+|938
+|-
+| align="left" |Tổ dân phố 26
+|480
+|-
+| align="left" |Tổ dân phố 27
+|678
+|-
+| align="left" |Tổ dân phố 28
+|870
+|-
+| align="left" |Tổ dân phố 29
+|700
+|-
+| align="left" |Tổ dân phố 30
+|705
+|-
+| align="left" |Tổ dân phố 31
+|944
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| cellpadding="1" cellspacing="1" width="100%" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Tổ dân phố 32
+|807
+|-
+| align="left" |Tổ dân phố 33
+|1.137
+|-
+| align="left" |Tổ dân phố 34
+|729
+|-
+| align="left" |Tổ dân phố 35
+|1.010
+|-
+| align="left" |Tổ dân phố 36
+|915
+|-
+| align="left" |Tổ dân phố 37
+|718
+|-
+| align="left" |Tổ dân phố 38
+|705
+|-
+| align="left" |Tổ dân phố 39
+|1.305
+|-
+| align="left" |Tổ dân phố 40
+|708
+|-
+| align="left" |Tổ dân phố 41
+|720
+|}
+|}
+
+== Trụ sở các cơ quan==
+Trụ sở Đảng ủy - UBND phường: Số 8, ngõ 6 phố Bùi Huy Bích, phường Hoàng Mai (Địa chỉ cũ: Số 8, ngõ 6 phố Bùi Huy Bích, phường Thịnh Liệt, quận Hoàng Mai),<ref name="trusomoi">{{Cite web| url = https://dcdn.dantri.com.vn/2025/06/25/tru-so-126-xa-phuong-cua-ha-noi-1750822481952.pdf| title = Thông báo về địa điểm trụ sở làm việc của 126 phường, xã sau sắp xếp thuộc phạm vi quản lý của thành phố Hà Nội| date = 25 tháng 6 năm 2025| website = UBND TP Hà Nội}}</ref><ref>{{Chú thích web | last = Nhóm PV | date = 20 tháng 5 năm 2025 | title = Trụ sở các phường mới của quận Hoàng Mai, Hà Nội sau sắp xếp | url = https://laodong.vn/infographic/tru-so-cac-phuong-moi-cua-quan-hoang-mai-ha-noi-sau-sap-xep-1509268.ldo | access-date = 2025-07-22 | website = [[Báo Lao Động]]}}</ref> trước là trụ sở quận Hoàng Mai.<ref name = ":2" /><ref>{{Chú thích web | last = Hiền Thu | date = 2025-05-19 | title = Quận Hoàng Mai: Đề xuất trụ sở cơ quan hành chính – chính trị 7 phường mới | url = https://hanoimoi.vn/quan-hoang-mai-de-xuat-tru-so-co-quan-hanh-chinh-chinh-tri-7-phuong-moi-702807.html | access-date = 2025-08-06 | website = [[Báo Hà Nội Mới]] | language = vi}}</ref>
+
+== Kinh tế== 
+Ngành kinh tế chủ đạo của phường là thương mại{{Em dash}}dịch vụ, phát triển mạnh trên các tuyến phố chính như Kim Đồng, Tam Trinh, Giải Phóng với các loại hình như bán lẻ, logistics, nhà hàng, quán ăn. Trên địa bàn có các cơ sở sản xuất, kho bãi, gara, xưởng cơ khí nhỏ, phân bố rải rác trong khu dân cư hoặc trên các tuyến đường lớn.<ref>{{Chú thích web | title = Phường Hoàng Mai: Tất cả thông tin chỉ dẫn bạn cần biết | url = https://hanoionline.vn/phuong-hoang-mai-tat-ca-thong-tin-chi-dan-ban-can-biet-344620.htm | access-date = 2025-07-09 | website = [[Đài Phát thanh – Truyền hình Hà Nội]] | language = vi}}</ref> Một số khu đất từng có chức năng công nghiệp đang được chuyển đổi để xây dựng chung cư, trung tâm thương mại, hạ tầng xã hội, như ở khu vực Đồng Tàu, gần bến xe Giáp Bát.<ref name = ":0" /> Tại khu vực này, nông nghiệp không còn vai trò đáng kể, nhiều diện tích đất nông nghiệp đã được chuyển đổi sang đất ở, đất thương mại hoặc đất công trình công cộng.<ref name=":0">{{Chú thích web | title = Phường Hoàng Mai: Những thông tin chi tiết sau sắp xếp | url = https://hanoionline.vn/phuong-hoang-mai-nhung-thong-tin-chi-tiet-sau-sap-xep-344206.htm | access-date = 2025-08-27 | website = Cơ quan Báo và Phát thanh Truyền hình Hà Nội |date=2025-07-02|last=Viện nghiên cứu Phát triển kinh tế – xã hội Hà Nội|archive-url=https://web.archive.org/web/20260827201510/https://hanoionline.vn/phuong-hoang-mai-nhung-thong-tin-chi-tiet-sau-sap-xep-344206.htm|archive-date=2026-08-27|url-status=dead}}</ref>
+
+== Xã hội==
+
+=== Giáo dục ===
+Phường có 18 trường học các cấp,<ref name=":2" /> trong đó có Trường TH & THCS Thịnh Liệt, Trường TH & THCS Hoàng Mai, Trường THPT Trương Định, Trường THPT Trần Quang Khải, Trường quốc tế Singapore - Gamuda Gardens. Cơ sở giáo dục đại học có [[Trường Đại học Kinh tế – Kỹ thuật Công nghiệp|Trường Đại học Kinh tế - Kỹ thuật Công nghiệp]] và Trường Đại học Công nghệ và Quản lý Hữu Nghị.
+
+=== Y tế ===
+Trên địa bàn phường Hoàng Mai có Bệnh viện [[Đại học Y Hà Nội|Đại học Y]] [[Đại học Y Hà Nội|Hà Nội]] - cơ sở Hoàng Mai cũng như Bệnh viện Nam học và Hiếm muộn Hà Nội, bên cạnh các trung tâm y tế, bệnh viện và 98 cơ sở hành nghề y dược tư nhân.<ref name = ":2" /><ref name = ":0" />
+
+== Văn hóa== 
+Phường Hoàng Mai được hình thành từ các phần diện tích và dân cư của nhiều phường khác nhau. Theo [[Đài Phát thanh – Truyền hình Hà Nội]], khu vực Yên Sở, Lĩnh Nam gắn liền với văn hóa làng xã vùng ven sông Hồng; Tân Mai, Tương Mai, Yên Sở, Lĩnh Nam là khu vực làng ven đô, có sự giao thoa giữa văn hóa làng trong đô thị và [[thời kỳ bao cấp]], khu vực Thịnh Liệt, Trần Phú, Hoàng Liệt gắn với [[Thời kỳ Đổi mới|thời kỳ]] [[Thời kỳ Đổi mới|Đổi Mới]] của thành phố với nhiều khu tập thể, khu tái định cư và chung cư cao tầng.<ref name = ":0" />
+
+Phường có 25 công trình, cụm công trình tôn giáo.<ref name = ":2" /> Các di tích văn hóa - lịch sử như đình Giáp Nhất thờ Hắc Y Đại Vương, đình Giáp Nhị thờ Thái Thượng Lão Quân được chính quyền cấp bằng Di tích lịch sử kiến trúc nghệ thuật năm 2002, đình Giáp Tứ thờ Tam Lang Đại Vương (2006), chùa Tâm Pháp và miếu Hàng Xã.<ref name = ":0" />
+
+Hàng năm, người dân tổ chức các lễ hội truyền thống lễ hội đền Lư Giang (19 tháng 8 âm lịch), lễ hội Thịnh Liệt (trung tuần tháng 2 âm lịch), lễ hội bơi trải<ref name = ":2" /> trong đó có bao gồm lễ rước cỗ, mã, nước và các trò chơi dân gian như cờ tướng, chọi gà, bắt vịt, kéo co.<ref name = ":0" />
+
+== Chú thích== 
+{{reflist}}
+== Tham khảo==
+{{Sơ khai Hà Nội}}{{Đơn vị hành chính thuộc thành phố Hà Nội}}

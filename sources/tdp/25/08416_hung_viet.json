@@ -1,0 +1,60 @@
+{
+  "ward_code": "08416",
+  "ward_name": "Hùng Việt",
+  "province_code": "25",
+  "resolution": "",
+  "arrangement": "truoc_2026_07",
+  "effective_date": "",
+  "verified": "unverified",
+  "extraction": {
+    "source": "vi.wikipedia.org",
+    "title": "Hùng Việt",
+    "mode": "narrative"
+  },
+  "sources": [
+    {
+      "key": "wiki-08416-1",
+      "title": "Nghị quyết số 1/NQ-UBBC về việc ấn định và công bố số đơn vị bầu cử, danh sách các đơn vị bầu cử và số lượng đại biểu được bầu của mỗi đơn vị bầu cử đại biểu Hội đồng nhân dân xã Hùng Việt, nhiệm kỳ 2026 - 2031",
+      "url": "https://hungviet.phutho.gov.vn/index.php/2013-12-13-01-52-02/1-van-ban-cua-xa",
+      "date": "2025-12-24",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-08416-2",
+      "title": "",
+      "url": "https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Nghi-quyet-828-NQ-UBTVQH14-2019-sap-xep-don-vi-hanh-chinh-cap-xa-thuoc-tinh-Phu-Tho-432098.aspx",
+      "date": "",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-08416-3",
+      "title": "NGHỊ QUYẾT 203/2025/QH15 SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA HIẾN PHÁP NƯỚC CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM",
+      "url": "https://xaydungchinhsach.chinhphu.vn/nghi-quyet-203-2025-qh15-sua-doi-bo-sung-mot-so-dieu-cua-hien-phap-nuoc-cong-hoa-xa-hoi-chu-nghia-viet-nam-119250616181735552.htm",
+      "date": "2025-06-28",
+      "type": "wikipedia-ref"
+    }
+  ],
+  "note": "Trích tự động từ Wikipedia tiếng Việt (mode=narrative). Cần đối chiếu nghị quyết HĐND phường/xã. ⚠️ Danh mục có thể là hiện trạng TRƯỚC sắp xếp thôn/TDP 01/7/2026 — Wikipedia chưa cập nhật nghị quyết mới.",
+  "tdp": [
+    {
+      "name": "Tình Cương",
+      "type": "thôn"
+    },
+    {
+      "name": "Chế Nhuệ",
+      "type": "thôn"
+    },
+    {
+      "name": "Hanh Cù",
+      "type": "thôn"
+    },
+    {
+      "name": "Phiên Quận",
+      "type": "thôn"
+    },
+    {
+      "name": "Tang Châu",
+      "type": "thôn"
+    }
+  ]
+}

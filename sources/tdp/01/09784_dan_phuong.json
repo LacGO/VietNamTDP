@@ -1,0 +1,88 @@
+{
+  "ward_code": "09784",
+  "ward_name": "Đan Phượng",
+  "province_code": "01",
+  "resolution": "",
+  "arrangement": "2026_07",
+  "effective_date": "2026-07-01",
+  "verified": "unverified",
+  "extraction": {
+    "source": "vi.wikipedia.org",
+    "title": "(cache)",
+    "mode": "table"
+  },
+  "sources": [
+    {
+      "key": "wiki-09784-1",
+      "title": "Nghị quyết số 45/NQ-UBBC ngày 20 tháng 3 năm 2026 của Ủy ban bầu cử xã Đan Phượng về việc công bố kết quả bầu cử và danh sách những người trúng cử đại biểu Hội đồng nhân dân xã Đan Phượng khóa XXIII nhiệm kỳ 2026 – 2031",
+      "url": "https://danphuong.hanoi.gov.vn/chi-dao-dieu-hanh/nghi-quyet-ve-viec-cong-bo-ket-qua-bau-cu-va-danh-sach-nhung-nguoi-trung-cu-dai-bieu-hoi-dong-nhan-dan-xa-dan-phuong-khoa-xxiii-nhiem-ky-2026-2031-2845260320145604966.htm",
+      "date": "",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-09784-2",
+      "title": "Nghị quyết số 111/2025/UBTVQH15 ngày 24 tháng 12 năm 2025 của Ủy ban Thường vụ Quốc hội về phân loại đô thị",
+      "url": "https://cdn.nhandan.vn/files/f4a4abf7f9a0ba4a91744616546d850872b76917f90d5a74cc9eebef1369fb6f/111.pdf",
+      "date": "2026-07-12",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-09784-3",
+      "title": "Nghị quyết số 1656/NQ-UBTVQH15 ngày 16 tháng 6 năm 2025 của Ủy ban Thường vụ Quốc hội về việc sắp xếp các đơn vị hành chính cấp xã của thành phố Hà Nội năm 2025",
+      "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf",
+      "date": "2026-06-30",
+      "type": "wikipedia-ref"
+    }
+  ],
+  "note": "Trích tự động từ Wikipedia tiếng Việt (mode=table). Cần đối chiếu nghị quyết HĐND phường/xã.",
+  "tdp": [
+    {
+      "name": "Bãi Thụy",
+      "type": "thôn"
+    },
+    {
+      "name": "Đại Phùng",
+      "type": "thôn"
+    },
+    {
+      "name": "Đòai Khê",
+      "type": "thôn"
+    },
+    {
+      "name": "Đông Khê",
+      "type": "thôn"
+    },
+    {
+      "name": "Đồng Tháp",
+      "type": "thôn"
+    },
+    {
+      "name": "Phùng",
+      "type": "thôn"
+    },
+    {
+      "name": "Phượng Trì",
+      "type": "thôn"
+    },
+    {
+      "name": "Song Phượng",
+      "type": "thôn"
+    },
+    {
+      "name": "Tân Thành",
+      "type": "thôn"
+    },
+    {
+      "name": "Thu Quế",
+      "type": "thôn"
+    },
+    {
+      "name": "Thụy Ứng",
+      "type": "thôn"
+    },
+    {
+      "name": "Thượng Mỗ",
+      "type": "thôn"
+    }
+  ]
+}

@@ -1,0 +1,210 @@
+{{Thông tin đơn vị hành chính Việt Nam|xã
+| tên = Lương Sơn
+| hình =Road in Tan Vinh Commune of Luong Son District.jpg 
+| ghi chú hình =Một con đường chạy qua địa bàn xã 
+| vĩ độ = 20.87210781217767
+| kinh độ = 105.52848127939453
+| diện tích = 122,14 km²
+| dân số = 45.522 người
+| thời điểm dân số = 2025
+| mật độ dân số = {{formatnum:{{#expr:floor({{formatnum:45.522| R}}/{{formatnum:122,14| R}})}} }} người/km²
+| vùng = [[Đông Bắc Bộ]]
+| tỉnh = [[Phú Thọ]]
+| thành lập = 16 tháng 6 năm 2025
+| trụ sở UBND =Số 543 đường Trần Phú 
+| mã hành chính = 
+| mã bưu chính = 
+|logo=Seal of Lương Sơn District (Remake version).png
+|ghi chú logo=Biểu trưng
+|loại đô thị=|năm công nhận=}}
+{{other|Lương Sơn (định hướng)}}
+'''Lương Sơn''' là một [[Xã (Việt Nam)|xã]] thuộc tỉnh [[Phú Thọ]], [[Việt Nam]].
+
+==Địa lý==
+
+=== Vị trí địa lý ===
+Xã Lương Sơn nằm trên quốc lộ 6A và 12B, cách thành phố Hà Nội 40&nbsp;km, là đầu nối giữa thủ đô [[Hà Nội]] và [[Tây Bắc Bộ]], có vị trí địa lý: 
+*Phía bắc giáp xã [[Yên Xuân, Hà Nội|Yên Xuân]] và xã [[Phú Cát]], thành phố [[Hà Nội]]. 
+*Phía nam giáp xã [[Liên Sơn, Phú Thọ|Liên Sơn]] và xã [[Nật Sơn, Phú Thọ|Nật Sơn]]. 
+*Phía tây giáp phường [[Kỳ Sơn (phường)|Kỳ Sơn]]. 
+*Phía đông giáp xã [[Xuân Mai]], thành phố [[Hà Nội]].
+
+=== Tài nguyên thiên nhiên ===
+Địa hình chủ yếu là đồi - núi đá vôi xen kẽ, dưới các thung lũng là các dòng suối, khe nước tập trung thành đầu nguồn [[sông Bùi]].<ref>{{Chú thích web |last=Cổng thông tin điện tử xã Lâm Sơn |first= |title=Điều kiện - Tự nhiên |url=http://xalamson.hoabinh.gov.vn/index.php/ch-c-nang-nhi-m-v |archive-url=https://web.archive.org/web/20230213040534/http://xalamson.hoabinh.gov.vn/index.php/ch-c-nang-nhi-m-v |archive-date=2023-02-13 |access-date=2026-07-23 |website=xalamson.hoabinh.gov.vn |language=vi |url-status=dead }}</ref>
+
+=== Khí hậu ===
+Nằm trong vùng nhiệt đới gió mùa nóng ẩm, có mùa đông khí lạnh và mưa ít, mùa hè nóng và mưa nhiều, tính chất nhiệt đới thể hiện rõ rệt là nhiệt độ bình quân cao, dao động từ 21,8&nbsp;°C - 24, 7&nbsp;°C. Lượng mưa trung bình từ 1.800 - 2.200mm do ảnh hưởng của gió mùa Đông Bắc từ tháng 12 năm trước tới tháng 1, tháng 2 năm sau, lượng mưa giảm rõ rệt, bình quân chỉ có 12,3&nbsp;mm/năm. Vào mùa hè số ngày mưa và lượng mưa lớn từ tháng 5 đến tháng 10, tập trung vào các tháng 6, 7, 8, 9. Bình quân số ngày mưa cả năm dao động từ 110 - 120 ngày.
+
+Độ ẩm không khí thường dao động từ 60 - 90%, mùa khô ẩm nhiệt độ xuống thấp, độ ẩm chỉ còn 60 - 70% (tháng 1, 2). Tháng có độ ẩm cao là tháng 8, 9 độ ẩm lên tới 85 - 90%. Hướng gió chủ yếu theo 2 hướng Đông Nam và Đông Bắc, ngoài ra còn chịu ảnh hưởng của gió bão và mưa lớn.
+
+=== Sông ngòi ===
+Khu vực xã Lương Sơn có lợi thế khi có sông Bùi chảy qua và các suối nhỏ phân bố đều khắp trên địa bàn, kết hợp với nguồn nước ngầm tương đối dồi dào, đã tạo nên lưu lượng nước phong phú, cung cấp cho sản xuất và sinh hoạt của nhân dân. Tuy nhiên, ở những vùng ven sông, suối nên cũng dễ xảy ra tình trạng lũ quét về mùa mưa.
+
+==Hành chính==
+Xã Lương Sơn được chia thành 54 tiểu khu - thôn - xóm, gồm 14 tiểu khu: 2, 3, 4, 6, 8, 9, 11, 12, 13, 14, Đồng Bái, Liên Sơn, Mo, Móng; 21 thôn: Bùi Trám, Cầu Sơn, Cổ Thỏ, Đầm Rái, Đồng Bãi, Đồng Bưng, Đồng Chanh A, Đồng Chanh B, Đồng Gội, Đồng Quýt, Đồng Sầm, Đồng Sế, Đồng Sỹ, Giếng Ém, Hạnh Phúc, Nắm Lu, Suối Nẩy, Suối Sếu A, Suối Sếu B, Tân Hòa, Tân Sơn và 19 xóm: Bằng Gà, Chanh, Cót, Cột Bài, Dốc Phấn, Đoàn Kết, Đồng Chúi, Đồng Gạo, Đồng Tiến, Kém, Lam Sơn, Nước Vài, Rồng Ôn, Rồng Tắm, Rồng Vòng, Suối Bụ, Rụt, Thầy Mố, Vẽ.<ref name=":1">{{Chú thích web |last=Bộ Dân tộc và Tôn giáo |date=2026-01-29 |title=Danh sách Thôn vùng đồng bào dân tộc thiểu số và miền núi, thôn đặc biệt khó khăn giai đoạn 2026 - 2030 trên địa bàn tỉnh Phú Thọ |url=http://files.ubdt.gov.vn/files/ecm/source_files/2026/02/05/11252411_4.%20Ph%C3%BA%20Th%E1%BB%8D%201%20(th%C3%B4n).signed_26-02-05.pdf |url-status=live |archive-url=https://web.archive.org/web/20260417090807/http://files.ubdt.gov.vn/files/ecm/source_files/2026/02/05/11252411_4.%20Ph%C3%BA%20Th%E1%BB%8D%201%20(th%C3%B4n).signed_26-02-05.pdf |archive-date=2026-04-17 |access-date=2026-04-17 |website=Cổng Thông tin điện tử Bộ Dân tộc và Tôn giáo}}</ref><ref name=":2">{{Chú thích web |last=Ủy ban bầu cử xã Lương Sơn |date=2026-02-24 |title=Nghị quyết số 2/NQ-UBBC về việc công bố danh sách các ứng cử viên Hội đồng nhân dân xã Lương Sơn nhiệm kỳ 2026 - 2031 theo từng đơn vị bầu cử |url=https://luongson.phutho.gov.vn/images/Nghi%CC%A3_quye%CC%82%CC%81t_co%CC%82ng_bo%CC%82%CC%81_danh_sa%CC%81ch_u%CC%9B%CC%81ng_cu%CC%9B%CC%89_vie%CC%82n_H%C4%90ND_xa%CC%83.pdf |url-status=live |archive-url=https://web.archive.org/web/20260422090807/https://luongson.phutho.gov.vn/images/Nghi%CC%A3_quye%CC%82%CC%81t_co%CC%82ng_bo%CC%82%CC%81_danh_sa%CC%81ch_u%CC%9B%CC%81ng_cu%CC%9B%CC%89_vie%CC%82n_H%C4%90ND_xa%CC%83.pdf |archive-date=2026-04-22 |access-date=2026-04-22 |website=Trang Thông tin điện tử xã Lương Sơn - tỉnh Phú Thọ}}</ref>
+
+==Lịch sử==
+Trước kia, địa bàn xã Lương Sơn ngày nay là địa bàn của thị trấn Lương Sơn, các xã Hòa Sơn, Lâm Sơn, Nhuận Trạch, Tân Vinh và một phần xã Cao Sơn thuộc huyện [[Lương Sơn (huyện)|Lương Sơn]], tỉnh [[Hòa Bình (tỉnh)|Hòa Bình]] cũ.
+
+Vùng đất Lương Sơn được hình thành từ lâu đời trong lịch sử, mặc dù trải qua nhiều quá trình thay đổi địa giới hành chính, xong địa bàn xã Lương Sơn ngày nay vẫn thuộc Châu Lương Sơn. Trong giai đoạn đầu thế kỷ 20 đến trước năm [[1945]], Lương Sơn thuộc xã Mỗ Sơn, Tổng Cư Yên, Châu Lương Sơn, tỉnh Hòa Bình.<ref name=":3">{{Chú thích web |last=Cổng thông tin điện tử xã Lâm Sơn |first= |title=Lịch sử - Văn hóa |url=http://xalamson.hoabinh.gov.vn/index.php/co-c-u-t-ch-c |archive-url=https://web.archive.org/web/20230209104536/http://xalamson.hoabinh.gov.vn/index.php/co-c-u-t-ch-c |archive-date=2023-02-09 |access-date=2026-07-23 |website=xalamson.hoabinh.gov.vn |language=vi-vn |url-status=dead }}</ref>
+
+[[Cách mạng Tháng Tám|Cách mạng tháng Tám]] thành công, Nhà nước Việt Nam Dân chủ Cộng hòa chủ trương bãi bỏ cấp Tổng và cho phép sáp nhập một số xã nhỏ thành xã lớn hơn.
+
+Cuối năm [[1946]], hai xã Mỗ Sơn, tổng Cư Yên và xã Quất Lâm, tổng Bằng Lộ sáp nhập lại thành xã Hùng Sơn, là địa bàn sinh sống của nhân dân các dân tộc [[Người Mường|Mường]], [[Người Việt|Kinh]], [[Người Dao|Dao]].<ref name=":3" />
+
+Ngày [[10 tháng 11]] năm [[1956]], Ủy ban kháng chiến hành chính Liên khu 3 ban hành quyết định chia xã Cao Sơn thành 5 xã: Cao Sơn, Đào Lâm, Hợp Hòa, Tân Vinh, Trường Sơn.<ref>{{chú thích sách |url=https://www.google.com/books/edition/Địa_ch%C3%AD_Hòa_Bình/jUZRAQAAMAAJ |year=2005 |isbn= |doi= |id= |tác giả= |tựa đề=Địa chí Hòa Bình |nhà xuất bản=Nhà xuất bản Chính trị quốc gia |nơi= |trang=311}}</ref>
+
+Ngày [[27 tháng 7]] năm [[1957]], Ủy ban kháng chiến hành chính Liên khu 3 ban hành Quyết nghị số 469-TC/KB. Theo đó, xã Hùng Sơn được chia thành 3 xã mới là xã Lâm Sơn, xã Hùng Sơn và xã Hòa Sơn. Xã Lâm Sơn được thành lập, ban đầu gồm các xóm Rổng Cấn, Rổng Vòng, Rổng Tằm, Thung Dâu.
+
+Ngày [[15 tháng 11]] năm [[1968]], Bộ Nội vụ ban hành Quyết định số 631-NV về việc phê chuẩn việc hợp nhất xã thuộc huyện Lương Sơn, tỉnh Hòa Bình. Theo đó, sáp nhập hai xã Đào Lâm và Cao Sơn thành xã Cao Răm.
+
+Năm [[1974]], xóm Trạc Lươn thuộc xã Lâm Sơn được thành lập. 
+
+Ngày [[6 tháng 9]] năm [[1986]], Hội đồng Bộ trưởng ban hành Quyết định 103-HĐBT. Theo đó, thị trấn Lương Sơn được thành lập trên cơ sở giải thể thị trấn Nông trường Cửu Long và xã Hùng Sơn. Sau khi thành lập, thị trấn có 1.925 ha diện tích tự nhiên và 8.065 người.<ref name="QD103">{{Chú thích web|url=https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh103-HDBT-thanh-lap-thi-tran-cac-huyen-Luong-Son-Phu-Xuyen-tinh-Ha-Son-Binh/37168/noi-dung.aspx|tựa đề=Quyết định 103-HĐBT năm 1986 về việc thành lập một số thị trấn của các huyện Lương Sơn, Phú Xuyên thuộc tỉnh Hà Sơn Bình|tác giả=|họ=|tên=|ngày=|website=|url lưu trữ=|ngày lưu trữ=|ngày truy cập=}}</ref>
+
+Năm [[1987]], các xóm Đồng Gạo, Đoàn Kết, Lam Sơn, Dốc Phấn và Kẽm thuộc xã Lâm Sơn được thành lập. Lúc này, xã Lâm Sơn gồm có 9 xóm.<ref name=":3" />
+
+Đến năm [[2018]]:
+
+* Xã Cao Răm có diện tích 33,70&nbsp;km², dân số là 4.872 người, mật độ dân số đạt 145 người/km².
+* Xã Hợp Hòa có diện tích 9,54&nbsp;km², dân số là 2.799 người, mật độ dân số đạt 293 người/km².
+* Xã Trường Sơn có diện tích 32,43&nbsp;km², dân số là 2.411 người, mật độ dân số đạt 74 người/km².
+
+Ngày [[25 tháng 12]] năm [[2018]], UBND tỉnh Hoà Bình ban hành Quyết định số 3026/QĐ-UBND về việc nhập, đặt tên, đổi tên thôn, xóm, tổ dân phố trên địa bàn tỉnh Hoà Bình. Theo đó, xóm 8 được nhập vào xóm Dốc Phấn.
+
+Ngày [[20 tháng 11]] năm [[2019]], [[Bộ Xây dựng (Việt Nam)|Bộ Xây dựng]] ban hành Quyết định số 986/QĐ-BXD về việc công nhận thị trấn Lương Sơn và khu vực mở rộng đạt tiêu chí đô thị loại IV.<ref name=":0">{{Chú thích web|url=http://www.baohoabinh.com.vn/12/145515/Thi-tran-Luong-Son-va-khu-vuc-mo-rong-van-minh,-hien-dai-xung-tam-do-thi-loai-IV|tựa đề=Thị trấn Lương Sơn và khu vực mở rộng văn minh, hiện đại xứng tầm đô thị loại IV|ngày=2020-09-19|website=Báo Hòa Bình điện tử|url-status=dead|access-date=2022-02-27|archive-date=2022-02-27|archive-url=https://web.archive.org/web/20220227040736/http://www.baohoabinh.com.vn/12/145515/Thi-tran-Luong-Son-va-khu-vuc-mo-rong-van-minh,-hien-dai-xung-tam-do-thi-loai-IV}}</ref>
+
+Ngày [[17 tháng 12]] năm [[2019]], [[Ủy ban Thường vụ Quốc hội]] ban hành Nghị quyết số 830/NQ-UBTVQH14 về việc sắp xếp các đơn vị hành chính cấp huyện, cấp xã thuộc tỉnh Hòa Bình (nghị quyết có hiệu lực từ ngày [[1 tháng 1]] năm [[2020]]).<ref>{{Chú thích web |last=Cổng Thông tin điện tử Chính phủ |title=Nghị quyết số 830/NQ-UBTVQH14 của ỦY BAN THƯỜNG VỤ QUỐC HỘI: Về việc sắp xếp các đơn vị hành chính cấp huyện, cấp xã thuộc tỉnh Hòa Bình |url=https://vanban.chinhphu.vn/default.aspx?pageid=27160&docid=198695 |access-date=2026-07-23 |website=vanban.chinhphu.vn |language=vi}}</ref> Theo đó, sáp nhập toàn bộ diện tích và dân số của ba xã Cao Răm, Hợp Hòa và Trường Sơn để tái lập xã Cao Sơn.
+
+Đến năm [[2024]]:
+
+* Thị trấn Lương Sơn được chia thành 15 tiểu khu: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15 và 3 xóm: Mòng, Đồng Bái, Mỏ.
+* Xã Lâm Sơn được chia thành 8 xóm: Đồng Gạo, Rổng Vòng, Rổng Tằm, Rổng Cấn, Lam Sơn, Đoàn Kết, Kẽm, Dốc Phấn.
+* Xã Tân Vinh được chia thành 11 xóm: Rụt, Thị Tân, Vé, Suối Khế, Tân Hòa, Cời, Đồng Tiến, Đồng Chúi, Tân Lập, Nước Vải.
+
+Ngày [[12 tháng 6]] năm [[2025]], [[Quốc hội Việt Nam|Quốc hội]] ban hành Nghị quyết số 202/2025/QH15<ref name="202/2025/QH15">{{Chú thích web |ngày=2025-06-12 |tựa đề=Nghị quyết số 202/2025/QH15 về việc sắp xếp đơn vị hành chính cấp tỉnh |url=https://quochoi.vn/tintuc/Pages/tin-hoat-dong-cua-quoc-hoi.aspx?ItemID=94532 |url-status=live |url lưu trữ=https://web.archive.org/web/20250612150244/https://quochoi.vn/tintuc/Pages/tin-hoat-dong-cua-quoc-hoi.aspx?ItemID=94532 |ngày lưu trữ=2025-06-12 |ngày truy cập=2025-06-12 |website=Cổng thông tin điện tử Quốc hội Việt Nam}}</ref> về việc sắp xếp đơn vị hành chính cấp tỉnh (nghị quyết có hiệu lực từ ngày 12 tháng 6 năm 2025). Theo đó, sáp nhập tỉnh [[Hòa Bình (tỉnh)|Hòa Bình]] và tỉnh [[Vĩnh Phúc (tỉnh)|Vĩnh Phúc]] vào tỉnh Phú Thọ. Địa phận thành lập xã Lương Sơn thuộc tỉnh Phú Thọ.
+
+Ngày [[16 tháng 6]] năm [[2025]]:
+
+* Quốc hội ban hành Nghị quyết số 203/2025/QH15 về việc sửa đổi, bổ sung một số điều của Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam (nghị quyết có hiệu lực từ ngày [[16 tháng 6]] năm [[2025]]).<ref>{{Chú thích web|last=xaydungchinhsach.chinhphu.vn|date=2025-06-28|title=NGHỊ QUYẾT 203/2025/QH15 SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA HIẾN PHÁP NƯỚC CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM|url=https://xaydungchinhsach.chinhphu.vn/nghi-quyet-203-2025-qh15-sua-doi-bo-sung-mot-so-dieu-cua-hien-phap-nuoc-cong-hoa-xa-hoi-chu-nghia-viet-nam-119250616181735552.htm|url-status=live|archive-url=https://web.archive.org/web/20260715200606/https://xaydungchinhsach.chinhphu.vn/nghi-quyet-203-2025-qh15-sua-doi-bo-sung-mot-so-dieu-cua-hien-phap-nuoc-cong-hoa-xa-hoi-chu-nghia-viet-nam-119250616181735552.htm|archive-date=2026-07-15|access-date=2026-07-15|website=Báo Điện tử Chính phủ|language=vi}}</ref> Theo đó, kết thúc hoạt động của đơn vị hành chính cấp huyện trong cả nước từ ngày 1 tháng 7 năm 2025.
+* Ủy ban Thường vụ Quốc hội ban hành Nghị quyết số 1676/NQ-UBTVQH15 về việc sắp xếp các đơn vị hành chính cấp xã của tỉnh Phú Thọ năm 2025 (nghị quyết có hiệu lực từ ngày [[16 tháng 6]] năm [[2025]]).<ref>{{Chú thích web |last=xaydungchinhsach.chinhphu.vn |date=2025-06-20 |title=Nghị quyết số 1676/NQ-UBTVQH15 sắp xếp các ĐVHC cấp xã của tỉnh Phú Thọ năm 2025 |url=https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-1676-nq-ubtvqh15-sap-xep-cac-dvhc-cap-xa-cua-tinh-phu-tho-nam-2025-119250616204317326.htm |access-date=2025-09-07 |website=xaydungchinhsach.chinhphu.vn |language=vi}}</ref> Theo đó, sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của thị trấn Lương Sơn, các xã Hòa Sơn, Lâm Sơn, Nhuận Trạch, Tân Vinh và một phần xã Cao Sơn (huyện [[Lương Sơn (huyện)|Lương Sơn]]) thành xã mới có tên gọi là '''xã Lương Sơn'''.
+
+Sau khi thực hiện sắp xếp, xã Lương Sơn được chia thành 54 tiểu khu - thôn - xóm, gồm 14 tiểu khu: 2, 3, 4, 6, 8, 9, 11, 12, 13, 14, Đồng Bái, Liên Sơn, Mo, Móng; 21 thôn: Bùi Trám, Cầu Sơn, Cổ Thỏ, Đầm Rái, Đồng Bãi, Đồng Bưng, Đồng Chanh A, Đồng Chanh B, Đồng Gội, Đồng Quýt, Đồng Sầm, Đồng Sế, Đồng Sỹ, Giếng Ém, Hạnh Phúc, Nắm Lu, Suối Nẩy, Suối Sếu A, Suối Sếu B, Tân Hòa, Tân Sơn và 19 xóm: Bằng Gà, Chanh, Cót, Cột Bài, Dốc Phấn, Đoàn Kết, Đồng Chúi, Đồng Gạo, Đồng Tiến, Kém, Lam Sơn, Nước Vài, Rồng Ôn, Rồng Tắm, Rồng Vòng, Suối Bụ, Rụt, Thầy Mố, Vẽ.<ref name=":1" /><ref name=":2" />
+
+Ngày [[24 tháng 12]] năm [[2025]], Ủy ban Thường vụ Quốc hội ban hành Nghị quyết số 111/2025/UBTVQH15 về phân loại đô thị (nghị quyết có hiệu lực từ ngày [[1 tháng 1]] năm [[2026]]).<ref>{{Chú thích web |last=xaydungchinhsach.chinhphu.vn |date=2026-01-21 |title=Nghị quyết số 111/2025/UBTVQH15 về phân loại đô thị |url=https://xaydungchinhsach.chinhphu.vn/nghi-quyet-so-111-2025-ubtvqh15-ve-phan-loai-do-thi-119260101170432239.htm |access-date=2026-07-23 |website=xaydungchinhsach.chinhphu.vn |language=vi}}</ref> Theo đó, đô thị loại IV, loại V, thị xã và thị trấn trước khi sắp xếp chưa được công nhận loại đô thị được xác định là đô thị loại III. Một phần xã Lương Sơn được xác định là đô thị loại III (từ đô thị loại IV của thị trấn Lương Sơn cũ).
+
+== Dân cư ==
+Lương Sơn cũng là nơi phát hiện ra di tích người tối cổ cách đây hàng vạn năm với [[di chỉ Hang Tằm]], cho thấy sự hiện diện của con người từ rất lâu ở vùng đất cổ này. Trước thời kỳ cận đại, nơi đây là địa bàn sinh sống của người Mường trước khi có người Kinh đến định cư.
+
+== Di tích ==
+Gần xóm Hụi thuộc địa bàn xã Luơng Sơn có dãy núi Sáng, là núi đá vôi có cụm 4 hang động và là 4 di tích, gồm hai di tích danh lam và hai di tích khảo cổ cấp quốc gia.<ref name="hoabinhgov">Trần Trang. [http://www.hoabinh.gov.vn/web/guest/59/-/vcmsviewcontent/NlQw/2325/2325/95094 Giới thiệu, kêu gọi đầu tư cho Du lịch xã Cao Răm – Lương Sơn] {{Webarchive|url=https://web.archive.org/web/20191224135109/http://www.hoabinh.gov.vn/web/guest/59/-/vcmsviewcontent/NlQw/2325/2325/95094|date=ngày 24 tháng 12 năm 2019}}. hoabinh.gov, 03/11/2014. Truy cập 17/02/2016.</ref> Đó là [[Hang Chổ]], hang Núi Sáng, động Mãn Nguyện và hang Khụ Thượng.
+
+Một trong các hang đó là nơi có di chỉ đười ươi trưởng thành.<ref>[http://vnexpress.net/gl/khoa-hoc/2001/01/3b9ad85c/ Trưng bày bộ di cốt đười ươi và bộ "Sưu tập Vương Hồng Sển"]</ref><ref>[http://www.baoxaydung.vn/Main.aspx?MNU=1135&Style=1&ChiTiet=4161 Hang Chổ - nơi cư trú của nhóm cư dân văn hoá Hoà Bình trên 10.000 năm trước]{{Liên kết hỏng|date=ngày 9 tháng 2 năm 2021|bot=InternetArchiveBot}}</ref>
+
+== Kinh tế ==
+Kinh tế chủ yếu của xã nông lâm nghiệp. Ngoài ra, một bộ phận kinh tế xã từ nguồn thu du lịch và các dịch vụ hỗ trợ du lịch.<!-- 
+== Địa lý ==
+Xã Lâm Sơn nằm phía Tây Bắc huyện Lương Sơn, cách trung tâm Hà Nội 46&nbsp;km, có vị trí địa lý:
+*Phía tây giáp thành phố [[Hòa Bình (thành phố)|Hòa Bình]]
+*Phía bắc giáp thành phố [[Hà Nội]]
+*Phía đông giáp với xã [[Hòa Sơn, Lương Sơn|Hòa Sơn]] và [[Lương Sơn (thị trấn), Lương Sơn|thị trấn Lương Sơn]]
+*Phía nam giáp với xã [[Tân Vinh, Lương Sơn|Tân Vinh]] và [[Cao Sơn, Lương Sơn|Cao Sơn]].
+
+Có tổng diện tích tự nhiên là 3.554,64ha; dân số trung bình 4380 nhân khẩu/ 1.100 hộ, gồm 8 xóm được phân bố dọc theo 8 Km nằm chạy dài trên trục [[quốc lộ 6]] từ Km44+500 tới Km52+500 nối liền Hà Nội với vùng Tây Bắc. Có vị trí địa lý và giao thông thuận lợi, cơ sở hạ tầng từng bước được đầu tư, các công ty doanh nghiệp tiếp tục đầu tư sản xuất kinh doanh có hiệu quả trên địa bàn.
+
+Về tài nguyên thiên nhiên:
+Địa hình chủ yếu là đồi - núi đá vôi xen kẽ, dưới các thung lũng là các dòng suối, khe nước tập trung thành đầu nguồn [[sông Bùi]].
+*Lâm Sơn là xã miền núi, diện tích đất tự nhiên chủ yếu là đất lâm nghiệp chiếm 69,36% với 2.475,87 ha. Trong đó:
+*Đất rừng sản xuất là: 1.530,54 ha chiếm 42,88% diện tích đất tự nhiên;
+*Đất rừng phòng hộ là: 228,63 ha chiếm 6,4% diện tích đất tự nhiên;
+*Đất rừng đặc dụng là: 716,7 ha chiếm 20,08% diện tích đất tự nhiên.
+''Nguồn tham khảo: http://xalamson.hoabinh.gov.vn/index.php/ch-c-nang-nhi-m-v {{Webarchive|url=https://web.archive.org/web/20230213040534/http://xalamson.hoabinh.gov.vn/index.php/ch-c-nang-nhi-m-v |date=2023-02-13 }} - Cổng thông tin điện tử tỉnh Hoà Bình.''
+
+=== Dân cư ===
+Lâm Sơn cũng là nơi phát hiện ra di tích người tối cổ cách đây hàng vạn năm với [[di chỉ Hang Tằm]], cho thấy sự hiện diện của con người từ rất lâu ở vùng đất cổ này. Trước thời kỳ cận đại, nơi đây là địa bàn sinh sống của người Mường trước khi có người Kinh đến định cư.
+
+Dân số 4.380 nhân khẩu/ 1.100 hộ, (dân tộc mường chiếm 49%; dân tộc kinh chiếm 51%). Hiện nay, toàn xã có khoảng 5.000 người, chủ yếu thuộc 2 dân tộc chính là người Mường và [[Kinh|Người Kinh]].
+
+==Hành chính==
+Xã Lâm Sơn được chia thành 8 xóm: Đồng Gạo, Rổng Vòng, Rổng Tằm, Rổng Cấn, Lam Sơn, Đoàn Kết, Kẽm, Dốc Phấn.
+
+==Lịch sử==
+Vùng đất Lâm Sơn được hình thành từ lâu đời trong lịch sử, mặc dù trải qua nhiều quá trình thay đổi địa giới hành chính, xong xã Lâm sơn vẫn thuộc Châu Lương Sơn ( huyện Lương Sơn ngày nay). Trong giai đoạn đầu thế kỷ 20 đến trước năm 1945, Lâm Sơn thuộc xã Mỗ Sơn, Tổng Cư Yên, Châu Lương Sơn, tỉnh Hòa Bình.
+
+Cách mạng tháng Tám thành công, Nhà nước Việt Nam Dân chủ Cộng hòa chủ trương bãi bỏ cấp Tổng và cho phép sáp nhập một số xã nhỏ thành xã lớn hơn. Cuối năm 1946, hai xã Mỗ Sơn, Tổng Cư yên và xã Quấtt Lâm, Tổng Bằng Lộ xáp nhập lại thành xã Hùng Sơn, là địa bàn sinh sống của nhân dân các dân tộc Mường Kinh, Dao, cư trú trên địa bàn 18 xóm, trong đó những xóm chính là: Xóm Bai Đá, Xóm Cố Thổ, Xóm Bùi Trám, Suối Nẩy, Đồng Táu, Gò Bài, Đồng Gội, Đồng Quýt, Xóm Mòng, Xóm Đồng Bái, xóm Mỏ, xóm Phố, Xóm Bãi Lạng, xóm Rổng Cấn, xóm Rổng Tằm, Rổng Vòng, và xóm Thung Dâu.
+
+Sau năm 1954 nhận thấy địa bàn các xã có diện tích quá rộng, trong khi dân cư sinh sống không tập trung, giao thông đi lại khó khăn, cán bộ ít, trình độ còn hạn chế, Năm 1956, Tỉnh ủy, Ủy ban hành chính tỉnh Hòa Bình đã có tờ trình xin chia nhỏ các xã; để thuận tiện cho địa phương xây dựng và phát triển, Ủy ban hành chính Liên khu III đã ra Quyết nghị số: 469 - TC/KB, ngày 27 tháng 7 năm 1957 chia xã Hùng Sơn thành 3 xã mới là xã Lâm Sơn, xã Hùng Sơn và xã Hòa Sơn, từ đó xã Lâm Sơn được thành lập, ban đầu gồm các xóm Rổng Cấn, Rổng Vòng, Rổng Tằm, Thung Dâu.
+
+Trong thời kỳ kháng chiến chống Mỹ, xã Lâm Sơn với địa thế núi Đá hiểm yếu là nơi sơ tán của các cơ quan Trung ương, Tỉnh, Huyện và là nơi đóng quân của nhiều đơn vị bộ đội và công an trong đó có một bộ phận in báo Nhân dân và trường huấn luyện đạo tạo cán bộ cho miền nam, thuộc ban thống nhất Trung ương ( về sau giao lại cho trường cảnh sát nhân dân đến sơ tán và đóng trụ sở tại đây); Tập đoàn sản xuất Chí Hòa một đơn vị thuộc Liên đoàn sản xuất Cửu Long của cán bộ Miền Nam tập kết ra bắc, nơi Bác Hồ đã ghé thăm ( nay thuộc địa bàn xóm Dốc Phấn); sau ngày đất nước thống nhất 1975 các đơn vị như Xí nghiệp vôi đá 1-5; Xí nghiệp vật tư, máy kéo; Trung đoàn 897; Đội sản xuất nông trường chè cửu long; Lâm trường lương Sơn đã đã đóng trụ sở sản xuất và kinh doanh trên địa bàn của xã Lâm Sơn.
+
+Năm 1974 Xóm Trạc Lươn được thành lập trên cơ sở các hộ gia đình công nhân xí nghiệp vật tư, máy kéo, một số hộ dân ở Hà Nội sơ tán trong thời kỳ chiến tranh. Năm 1987 xóm Đồng Gạo được thành lập gồm các hộ gia đình công nhân đội sản xuất 216 xí nghiệp 897; xóm Đoàn Kết được thành lập gồm các hộ gia đình công nhân xí nghiệp 897 và một số gia đình cán bộ và nhân viên Trường cảnh sát nhân dân; xóm Lam Sơn được thành lập gồm các hộ gia đình công nhân đội chè Lam Sơn, Nông trường Cửu Long; xóm Dốc Phấn gồm các hộ gia đình công nhân xí nghiệp vôi đá 1-5 và xóm Kẽm thành lập gồm các hộ gia đình công nhân Lâm trường Lương Sơn, lúc này xã Lâm Sơn gồm có 9 xóm; năm 2004 và 2006 các hộ dân xóm Rổng Vòng, Rổng Cấn, Rổng Tằm, Lam Sơn phải di dời đến các khu tái định cư mới để thực hiện công tác giải phóng mặt bằng cho 2 dự án Làng văn hóa các dân tộc Hòa Bình và Sân gôn Phượng Hoàng, xong đến nay vẫn ổn định 9 xóm là Xóm Kẽm, Lam Sơn, Đoàn kết, Rổng Vòng, Đồng Gạo, Rổng Cấn, Rổng Tằm, Xóm Tám, Dốc Phấn.
+
+Nguồn: http://xalamson.hoabinh.gov.vn/index.php/co-c-u-t-ch-c {{Webarchive|url=https://web.archive.org/web/20230209095837/http://xalamson.hoabinh.gov.vn/index.php/co-c-u-t-ch-c |date=2023-02-09 }}
+
+Theo Quyết định số 3026/QĐ-UBND của UBND tỉnh Hoà Bình ngày ngày 25 tháng 12 năm 2018 về việc nhập, đặt tên, đổi tên thôn, xóm, tổ dân phố trên địa bàn tỉnh Hoà Bình thì xóm 8 được nhập vào xóm Dốc Phấn, đặt tên là xóm Dốc Phấn. Như vậy trên địa bàn xã Lâm Sơn còn lại 8 xóm: Xóm Kẽm, Lam Sơn, Đoàn kết, Rổng Vòng, Đồng Gạo, Rổng Cấn, Rổng Tằm, Dốc Phấn.
+
+== Kinh tế==
+Kinh tế chủ yếu của xã nông lâm nghiệp. Ngoài ra, một bộ phận kinh tế xã từ nguồn thu du lịch và các dịch vụ hỗ trợ du lịch.
+
+==Văn hóa - du lịch==
+=== Danh thắng===
+* '''Làng văn hoá các dân tộc Hòa Bình''', nằm cách Hà Nội 47&nbsp;km, với quy mô hơn 140 ha. Nơi đây giới thiệu nếp sinh hoạt văn hóa dân gian truyền thống như­ chơi đu, ném còn, bắn nỏ, bắn cung, với những ngôi nhà sàn cổ hàng trăm năm tuổi, tự mình chế biến các món ăn dân tộc như cơm lam, thịt gà nấu măng chua, thịt trâu lá lồm, thịt lợn rừng hun khói hoặc nướng với hạt rổi, rấm rút....cùng với các nghệ nhân của địa phương. Du khách cũng có thể đắm mình trong những câu dân ca, hát ru, điệu mời trầu tình tứ của chàng trai cô gái Mường.
+
+==Địa lý==
+Xã Tân Vinh có vị trí chiến lược quan trọng về quân sự và phát triển kinh tế, là xã vùng ven thị trấn Lương Sơn, cửa ngõ tỉnh Hòa Bình, có vị trí địa lý:
+*Phía Đông giáp xã [[Nhuận Trạch]] và [[Cư Yên]]
+*Phía Tây giáp xã [[Lâm Sơn, Lương Sơn|Lâm Sơn]], [[Cao Sơn, Lương Sơn|Cao Sơn]]
+*Phía Nam giáp xã [[Cao Sơn, Lương Sơn|Cao Sơn]]
+*Phía Bắc giáp thị trấn [[Lương Sơn (thị trấn), Lương Sơn|Lương Sơn]].
+
+Xã có tuyến đường Trường Sơn A đi Kim Bôi, vùng an toàn khu (ATK). Với hệ thống giao thông đường bộ, đường thủy - có sống Bùi chảy qua, tạo điều kiện thuận lợi cho việc giao lưu kinh tế, văn hóa - xã hội với các tỉnh đồng bằng, Thủ đô Hà Nội hay lên thành phố Hòa Bình và vùng Tây Bắc.
+
+===Địa hình===
+Địa hình xã Tân Vinh được chia ra làm 2 vùng: 
+*Vùng đồi núi gồm các xóm: Rụt, Thị Tân, Vé và Suối Khế
+*Vùng thấp gồm các xóm chạy dọc theo sông Bùi: Tân Hòa, Cời, Đồng Tiến, Đồng Chúi, Tân Lập, Nước Vải.
+
+===Khí hậu===
+Nằm trong vùng nhiệt đới gió mùa nóng ẩm, có mùa đông khí lạnh và mưa ít, mùa hè nóng và mưa nhiều, tính chất nhiệt đới thể hiện rõ rệt là nhiệt độ bình quân cao, dao động từ 21,8&nbsp;°C - 24, 7&nbsp;°C. Lượng mưa trung bình từ 1.800 - 2.200mm do ảnh hưởng của gió mùa Đông Bắc từ tháng 12 năm trước tới tháng 1, tháng 2 năm sau, lượng mưa giảm rõ rệt, bình quân chỉ có 12,3&nbsp;mm/năm. Vào mùa hè số ngày mưa và lượng mưa lớn từ tháng 5 đến tháng 10, tập trung vào các tháng 6, 7, 8, 9. Bình quân số ngày mưa cả năm dao động từ 110 - 120 ngày.
+
+Độ ẩm không khí thường dao động từ 60 - 90%, mùa khô ẩm nhiệt độ xuống thấp, độ ẩm chỉ còn 60 - 70% (tháng 1, 2). Tháng có độ ẩm cao là tháng 8, 9 độ ẩm lên tới 85 - 90%. Hướng gió chủ yếu theo 2 hướng Đông Nam và Đông Bắc, ngoài ra còn chịu ảnh hưởng của gió bão và mưa lớn.
+
+===Sông ngòi===
+Khu vực xã Tân Vinh có lợi thế khi có sông Bùi chảy qua và các suối nhỏ phân bố đều khắp trên địa bàn, kết hợp với nguồn nước ngầm tương đối dồi dào, đã tạo nên lưu lượng nước phong phú, cung cấp cho sản xuất và sinh hoạt của nhân dân. Tuy nhiên, ở những vùng ven sông, suối nên cũng dễ xảy ra tình trạng lũ quét về mùa mưa.
+===Tài nguyên đất===
+xã Tân Vinh có các loại đất sau: Đất phù sa do sông, suối nên có diện tích khoảng 32ha; đất dốc tụ có diện tích 182ha, đây là 2 loại đất thích hợp cho trồng lúa và hoa màu; đất đỏ vàng vàng nhạt trên đá cát có diện tích 79,28%; đất đỏ vàng trên đá sét có diện tích 517ha, có khả năng phát triển lâm nghiệp. Diện tích núi đá 254ha, còn lại là diện tích sông suối là 67,41ha.
+
+===Tài nguyên rừng===
+Bên cạnh đó, xã Tân Vinh còn một số nguồn tài nguyên quan trọng khác như: Hơn 500 ha rừng chủ yếu là rừng trồng và rừng tự nhiên do các hộ gia đình và xã quản lý. Kết hợp cùng với việc khai thác tốt các điểm du lịch, thu hút, khách du lịch tham quan các khu du lịch lịch sử, văn hóa và sinh thái. Ngoài ra các doanh nghiệp trong và ngoài tỉnh đăng ký khai thác vật liệu xây dựng, xi măng, đá, tạo nên thế mạnh mới về công nghiệp và thương nghiệp trong phát triển kinh tế ở địa phương.
+
+==Hành chính==
+Xã Tân Vinh được chia thành 11 xóm: Rụt, Thị Tân, Vé, Suối Khế, Tân Hòa, Cời, Đồng Tiến, Đồng Chúi, Tân Lập, Nước Vải.
+
+==Kinh tế==
+Vị trí địa lý thuận tiện, xã Tân Vinh có nhiều điều kiện và lợi thế để phát triển nông - lâm nghiệp, tiểu thủ công nghiệp, du lịch, thương mại và dịch vụ.
+
+==Lịch sử==
+Ngày [[10 tháng 11]] năm [[1956]], Ủy ban kháng chiến hành chính Liên khu 3 ban hành quyết định chia xã Cao Sơn thành 5 xã: Cao Sơn, Đào Lâm, Hợp Hòa, Tân Vinh, Trường Sơn.<ref>{{chú thích sách|tác giả=|tựa đề=Địa chí Hòa Bình|nhà xuất bản=Nhà xuất bản Chính trị quốc gia|year=2005|nơi=|trang=311|url=https://www.google.com/books/edition/Địa_ch%C3%AD_Hòa_Bình/jUZRAQAAMAAJ|doi=|id=|isbn=}}</ref>
+
+Ngày [[15 tháng 11]] năm [[1968]], Bộ Nội vụ ban hành Quyết định số 631-NV.<ref>{{Chú thích web|url=https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/Quyet-dinh-631-NV-phe-chuan-viec-hop-nhat-xa-thuoc-huyen-Luong-Son-tinh-Hoa-Binh-18374.aspx|tựa đề=Quyết định 631-NV năm 1968 về việc phê chuẩn việc hợp nhất xã thuộc huyện Lương Sơn, tỉnh Hòa Bình|tác giả=|họ=|tên=|ngày=|website=|url lưu trữ=|ngày lưu trữ=|ngày truy cập=}}</ref> Theo đó, sáp nhập hai xã Đào Lâm và Cao Sơn thành xã Cao Răm.
+
+Đến năm 2018, xã Cao Răm có diện tích 33,70&nbsp;km², dân số là 4.872 người, mật độ dân số đạt 145 người/km²; xã Hợp Hòa có diện tích 9,54&nbsp;km², dân số là 2.799 người, mật độ dân số đạt 293 người/km²; xã Trường Sơn có diện tích 32,43&nbsp;km², dân số là 2.411 người, mật độ dân số đạt 74 người/km².
+
+Ngày [[17 tháng 12]] năm [[2019]], Ủy ban Thường vụ Quốc hội ban hành Nghị quyết số 830/NQ-UBTVQH14 về việc sắp xếp các đơn vị hành chính cấp huyện, cấp xã thuộc tỉnh Hòa Bình (nghị quyết có hiệu lực từ ngày [[1 tháng 1]] năm [[2020]]).<ref name=NQ830>{{Chú thích web|url=https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/Nghi-quyet-830-NQ-UBTVQH14-2019-sap-xep-don-vi-hanh-chinh-cap-huyen-xa-thuoc-tinh-Hoa-Binh-432100.aspx|tựa đề=Nghị quyết số 830/NQ-UBTVQH14 năm 2019 về việc sắp xếp các đơn vị hành chính cấp huyện, cấp xã thuộc tỉnh Hòa Bình|tác giả=|họ=|tên=|ngày=|website=|url lưu trữ=|ngày lưu trữ=|ngày truy cập=}}</ref> Theo đó, sáp nhập toàn bộ diện tích và dân số của ba xã Cao Răm, Hợp Hòa và Trường Sơn để tái lập xã Cao Sơn.
+
+== Di tích ==
+Gần xóm Hụi thuộc địa bàn xã Cao Sơn có dãy núi Sáng, là núi đá vôi có cụm 4 hang động và là 4 di tích, gồm hai di tích danh lam và hai di tích khảo cổ cấp quốc gia.<ref name=hoabinhgov>Trần Trang. [http://www.hoabinh.gov.vn/web/guest/59/-/vcmsviewcontent/NlQw/2325/2325/95094 Giới thiệu, kêu gọi đầu tư cho Du lịch xã Cao Răm – Lương Sơn] {{Webarchive|url=https://web.archive.org/web/20191224135109/http://www.hoabinh.gov.vn/web/guest/59/-/vcmsviewcontent/NlQw/2325/2325/95094 |date = ngày 24 tháng 12 năm 2019}}. hoabinh.gov, 03/11/2014. Truy cập 17/02/2016.</ref> Đó là [[Hang Chổ]], hang Núi Sáng, động Mãn Nguyện và hang Khụ Thượng.
+
+Một trong các hang đó là nơi có di chỉ đười ươi trưởng thành<ref>[http://vnexpress.net/gl/khoa-hoc/2001/01/3b9ad85c/ Trưng bày bộ di cốt đười ươi và bộ "Sưu tập Vương Hồng Sển"]</ref><ref>[http://www.baoxaydung.vn/Main.aspx?MNU=1135&Style=1&ChiTiet=4161 Hang Chổ - nơi cư trú của nhóm cư dân văn hoá Hoà Bình trên 10.000 năm trước]{{Liên kết hỏng|date = ngày 9 tháng 2 năm 2021 |bot=InternetArchiveBot }}</ref> -->
+
+== Giao thông ==
+Xã có tuyến đường Trường Sơn A đi [[Kim Bôi (xã)|Kim Bôi]], vùng an toàn khu (ATK). Với hệ thống giao thông đường bộ, đường thủy có sông Bùi chảy qua, tạo điều kiện thuận lợi cho việc giao lưu kinh tế, văn hóa - xã hội với các tỉnh đồng bằng, thủ đô [[Hà Nội]] hay lên [[Hòa Bình (thành phố)|đô thị Hòa Bình]] và vùng [[Tây Bắc Bộ|Tây Bắc]].
+
+==Danh nhân==
+* [[Hoàng Đức Chính (Hòa Bình)|Hoàng Đức Chính]] (sinh năm 1981): Đại biểu Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam.
+
+==Chú thích==
+{{tham khảo}}
+
+==Tham khảo==
+{{Sơ khai Phú Thọ}}{{Đơn vị hành chính thuộc tỉnh Phú Thọ}}

@@ -1,0 +1,96 @@
+{
+  "ward_code": "10237",
+  "ward_name": "Chương Dương",
+  "province_code": "01",
+  "resolution": "",
+  "arrangement": "2026_07",
+  "effective_date": "2026-07-01",
+  "verified": "unverified",
+  "extraction": {
+    "source": "vi.wikipedia.org",
+    "title": "(cache)",
+    "mode": "table"
+  },
+  "sources": [
+    {
+      "key": "wiki-10237-1",
+      "title": "Hội đồng nhân dân xã Chương Dương tổ chức thành công kỳ họp thứ Hai Hội đồng nhân dân xã khóa XXIII, nhiệm kỳ 2026 – 2031",
+      "url": "https://chuongduong.hanoi.gov.vn/tin-tuc-cua-hdnd/hdnd-xa-chuong-duong-to-chuc-thanh-cong-ky-hop-thu-hai-hdnd-xa-khoa-xxiii-nhiem-ky-2026-2031-2799260629103937026.htm",
+      "date": "2026-06-29",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-10237-2",
+      "title": "Quyết định số 2/QĐ-UBBC ngày 22 tháng 12 năm 2025 của Ủy ban bầu cử xã Chương Dương về việc ấn định số đơn vị bầu cử, danh sách các đơn vị bầu cử và số lượng đại biểu được bầu ở mỗi đơn vị bầu cử đại biểu Hội đồng nhân dân xã Chương Dương nhiệm kỳ 2026 – 2031",
+      "url": "https://datafiles.hanoi.gov.vn/gov-hni/6999/VanBan/2025/12/22/Q%C4%90%20s%E1%BB%91%2002.pdf",
+      "date": "2026-07-02",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-10237-3",
+      "title": "Nghị quyết số 1656/NQ-UBTVQH15 ngày 16 tháng 6 năm 2025 của Ủy ban Thường vụ Quốc hội về việc sắp xếp các đơn vị hành chính cấp xã của thành phố Hà Nội năm 2025",
+      "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf",
+      "date": "2026-06-30",
+      "type": "wikipedia-ref"
+    }
+  ],
+  "note": "Trích tự động từ Wikipedia tiếng Việt (mode=table). Cần đối chiếu nghị quyết HĐND phường/xã.",
+  "tdp": [
+    {
+      "name": "An Duyên",
+      "type": "thôn"
+    },
+    {
+      "name": "Chương Dương",
+      "type": "thôn"
+    },
+    {
+      "name": "Đông Duyên",
+      "type": "thôn"
+    },
+    {
+      "name": "Hà Vỹ",
+      "type": "thôn"
+    },
+    {
+      "name": "Hòang Long",
+      "type": "thôn"
+    },
+    {
+      "name": "Kỳ Lộc",
+      "type": "thôn"
+    },
+    {
+      "name": "Lê Lợi",
+      "type": "thôn"
+    },
+    {
+      "name": "Thắng Lợi",
+      "type": "thôn"
+    },
+    {
+      "name": "Thư Phú",
+      "type": "thôn"
+    },
+    {
+      "name": "Tử Dương",
+      "type": "thôn"
+    },
+    {
+      "name": "Tự Nhiên 1",
+      "type": "thôn"
+    },
+    {
+      "name": "Tự Nhiên 2",
+      "type": "thôn"
+    },
+    {
+      "name": "Vĩnh Lộc",
+      "type": "thôn"
+    },
+    {
+      "name": "Vũ Lăng",
+      "type": "thôn"
+    }
+  ]
+}

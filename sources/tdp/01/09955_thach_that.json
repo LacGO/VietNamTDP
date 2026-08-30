@@ -1,0 +1,104 @@
+{
+  "ward_code": "09955",
+  "ward_name": "Thạch Thất",
+  "province_code": "01",
+  "resolution": "",
+  "arrangement": "2026_07",
+  "effective_date": "2026-07-01",
+  "verified": "unverified",
+  "extraction": {
+    "source": "vi.wikipedia.org",
+    "title": "(cache)",
+    "mode": "table"
+  },
+  "sources": [
+    {
+      "key": "wiki-09955-1",
+      "title": "Hội đồng nhân dân xã Thạch Thất khóa II, nhiệm kỳ 2026 – 2031 tổ chức thành công kỳ họp thứ hai, thông qua 12 nghị quyết quan trọng",
+      "url": "https://thachthat.hanoi.gov.vn/tin-tuc-su-kien/hdnd-xa-thach-that-khoa-ii-nhiem-ky-2026-2031-to-chuc-thanh-cong-ky-hop-thu-hai-thong-qua-12-nghi-quyet-quan-trong-2679260626180119617.htm?gidzl=wSQiO921KYhjsQXccffGB-BThMM3d5Pu-TEaCDAJ3IdyrgKsriGCAws5_ZE6ab1x_e3zCp1FTijxbO1MA0",
+      "date": "2026-06-25",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-09955-2",
+      "title": "Danh sách chính thức những người ứng cử đại biểu Hội đồng nhân dân xã Thạch Thất khóa II, nhiệm kỳ 2026 – 2031 theo từng đơn vị bầu cử",
+      "url": "https://thachthat.hanoi.gov.vn/bau-cu-2026-2031/danh-sach-chinh-thuc-nhung-nguoi-ung-cu-dai-bieu-hdnd-xa-thach-that-khoa-ii-nhiem-ky-2026-2031-theo-tung-don-vi-bau-cu-2679260302170627406.htm",
+      "date": "2026-02-26",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-09955-3",
+      "title": "Nghị quyết số 111/2025/UBTVQH15 ngày 24 tháng 12 năm 2025 của Ủy ban Thường vụ Quốc hội về phân loại đô thị",
+      "url": "https://cdn.nhandan.vn/files/f4a4abf7f9a0ba4a91744616546d850872b76917f90d5a74cc9eebef1369fb6f/111.pdf",
+      "date": "2026-08-14",
+      "type": "wikipedia-ref"
+    }
+  ],
+  "note": "Trích tự động từ Wikipedia tiếng Việt (mode=table). Cần đối chiếu nghị quyết HĐND phường/xã.",
+  "tdp": [
+    {
+      "name": "Cẩm Yên",
+      "type": "thôn"
+    },
+    {
+      "name": "Chi Quan",
+      "type": "thôn"
+    },
+    {
+      "name": "Dương Phú",
+      "type": "thôn"
+    },
+    {
+      "name": "Đại Đồng 1",
+      "type": "thôn"
+    },
+    {
+      "name": "Đại Đồng 2",
+      "type": "thôn"
+    },
+    {
+      "name": "Đại Đồng 3",
+      "type": "thôn"
+    },
+    {
+      "name": "Hòang Thanh Phú",
+      "type": "thôn"
+    },
+    {
+      "name": "Khánh Thượng",
+      "type": "thôn"
+    },
+    {
+      "name": "Kim Quan 1",
+      "type": "thôn"
+    },
+    {
+      "name": "Kim Quan 2",
+      "type": "thôn"
+    },
+    {
+      "name": "Kim Quan 3",
+      "type": "thôn"
+    },
+    {
+      "name": "Liên Quan",
+      "type": "thôn"
+    },
+    {
+      "name": "Ngũ Sơn",
+      "type": "thôn"
+    },
+    {
+      "name": "Phú Kim",
+      "type": "thôn"
+    },
+    {
+      "name": "Phú Nghĩa",
+      "type": "thôn"
+    },
+    {
+      "name": "Thúy Lai",
+      "type": "thôn"
+    }
+  ]
+}

@@ -1,0 +1,180 @@
+{
+  "ward_code": "08848",
+  "ward_name": "Sông Lô",
+  "province_code": "25",
+  "resolution": "",
+  "arrangement": "truoc_2026_07",
+  "effective_date": "",
+  "verified": "unverified",
+  "extraction": {
+    "source": "vi.wikipedia.org",
+    "title": "Sông Lô (xã)",
+    "mode": "narrative"
+  },
+  "sources": [
+    {
+      "key": "wiki-08848-1",
+      "title": "Danh sách người ứng cử đại biểu Hội đồng nhân dân xã Sông Lô, nhiệm kỳ 2026 - 2031 tại Đơn vị bầu cử số 1 gồm Thôn Minh Khai, Đại Thắng, Thống Nhất, Đoàn Kết, Minh Tân",
+      "url": "https://www.facebook.com/story.php?story_fbid=122163505814931629&id=61577948889394&rdid=9yITT3B0AZRb87UA#",
+      "date": "2026-03-05",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-08848-2",
+      "title": "Danh sách người ứng cử đại biểu Hội đồng nhân dân xã Sông Lô, nhiệm kỳ 2026 - 2031 tại Đơn vị bầu cử số 2 gồm Thôn Tiền Phong, Hoa Mỹ, An Khang, Sông Lô",
+      "url": "https://www.facebook.com/story.php?story_fbid=122163506036931629&id=61577948889394&rdid=kENBxQrOMKQrMo8D#",
+      "date": "2026-03-05",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-08848-3",
+      "title": "Danh sách người ứng cử đại biểu Hội đồng nhân dân xã Sông Lô, nhiệm kỳ 2026 - 2031 tại Đơn vị bầu cử số 3 gồm Thôn Phú Cường, Yên Lương, Lương Thịnh, Yên Kiều, Yên Mỹ, Phú Thượng.",
+      "url": "https://www.facebook.com/story.php?story_fbid=122163506498931629&id=61577948889394&rdid=sKhDEm5BFAw9Vbes#",
+      "date": "2026-03-05",
+      "type": "wikipedia-ref"
+    }
+  ],
+  "note": "Trích tự động từ Wikipedia tiếng Việt (mode=narrative). Cần đối chiếu nghị quyết HĐND phường/xã. ⚠️ Danh mục có thể là hiện trạng TRƯỚC sắp xếp thôn/TDP 01/7/2026 — Wikipedia chưa cập nhật nghị quyết mới.",
+  "tdp": [
+    {
+      "name": "An Khang",
+      "type": "thôn"
+    },
+    {
+      "name": "Bằng Phú",
+      "type": "thôn"
+    },
+    {
+      "name": "Chiến Thắng",
+      "type": "thôn"
+    },
+    {
+      "name": "Dương Thọ",
+      "type": "thôn"
+    },
+    {
+      "name": "Đại Thắng",
+      "type": "thôn"
+    },
+    {
+      "name": "Đòan Kết",
+      "type": "thôn"
+    },
+    {
+      "name": "Đồng Tâm",
+      "type": "thôn"
+    },
+    {
+      "name": "Giáp Trung",
+      "type": "thôn"
+    },
+    {
+      "name": "Hiệp Lực",
+      "type": "thôn"
+    },
+    {
+      "name": "Hoa Mỹ",
+      "type": "thôn"
+    },
+    {
+      "name": "Khóai Thọ",
+      "type": "thôn"
+    },
+    {
+      "name": "Khóai Thượng",
+      "type": "thôn"
+    },
+    {
+      "name": "Khóai Trung",
+      "type": "thôn"
+    },
+    {
+      "name": "Lương Thịnh",
+      "type": "thôn"
+    },
+    {
+      "name": "Minh Khai",
+      "type": "thôn"
+    },
+    {
+      "name": "Minh Tân",
+      "type": "thôn"
+    },
+    {
+      "name": "Nam Giáp",
+      "type": "thôn"
+    },
+    {
+      "name": "Phú Cường",
+      "type": "thôn"
+    },
+    {
+      "name": "Phú Thượng",
+      "type": "thôn"
+    },
+    {
+      "name": "Quyết Thắng",
+      "type": "thôn"
+    },
+    {
+      "name": "Sông Lô",
+      "type": "thôn"
+    },
+    {
+      "name": "Thiều Xuân",
+      "type": "thôn"
+    },
+    {
+      "name": "Thống Nhất",
+      "type": "thôn"
+    },
+    {
+      "name": "Thượng Trưng",
+      "type": "thôn"
+    },
+    {
+      "name": "Thượng Yên",
+      "type": "thôn"
+    },
+    {
+      "name": "Tiến Bộ",
+      "type": "thôn"
+    },
+    {
+      "name": "Tiền Phong",
+      "type": "thôn"
+    },
+    {
+      "name": "Vạn Thắng",
+      "type": "thôn"
+    },
+    {
+      "name": "Yên Bình",
+      "type": "thôn"
+    },
+    {
+      "name": "Yên Kiều",
+      "type": "thôn"
+    },
+    {
+      "name": "Yên Lương",
+      "type": "thôn"
+    },
+    {
+      "name": "Yên Mỹ",
+      "type": "thôn"
+    },
+    {
+      "name": "Yên Phú",
+      "type": "thôn"
+    },
+    {
+      "name": "Yên Thái",
+      "type": "thôn"
+    },
+    {
+      "name": "Yên Tĩnh",
+      "type": "thôn"
+    }
+  ]
+}

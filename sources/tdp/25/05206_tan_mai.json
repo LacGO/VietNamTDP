@@ -1,0 +1,124 @@
+{
+  "ward_code": "05206",
+  "ward_name": "Tân Mai",
+  "province_code": "25",
+  "resolution": "",
+  "arrangement": "truoc_2026_07",
+  "effective_date": "",
+  "verified": "unverified",
+  "extraction": {
+    "source": "vi.wikipedia.org",
+    "title": "Tân Mai (xã)",
+    "mode": "narrative"
+  },
+  "sources": [
+    {
+      "key": "wiki-05206-1",
+      "title": "Nghị quyết số 1/NQ-UBBC về việc ấn định số đơn vị bầu cử, danh sách các đơn vị bầu cử và số lượng đại biểu được bầu ở mỗi đơn vị bầu cử đại biểu Hội đồng nhân dân xã Tân Mai nhiệm kỳ 2026 - 2031",
+      "url": "https://tanmai.phutho.gov.vn/index.php/tin-t-c-s-ki-n/chinh-tr/231-ngha-quya-t-va-via-c-a-n-a-nh-sa-n-va-ba-u-ca-danh-sa-ch-n-va-ba-u-ca-va-sa-l-a-ng-a-i-bia-u-a-c-ba-u-a-ma-i-n-va-ba-u-ca-a-i-bia-u-ha-i-a-ng-nha-n-da-n-xa-ta-n-mai-nhia-m-ka-2026-2031",
+      "date": "2025-12-23",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-05206-2",
+      "title": "Nghị quyết số 31/NQ-CP của Chính phủ: Về việc điều chỉnh địa giới hành chính một số huyện và thành phố Hòa Bình, tỉnh Hòa Bình",
+      "url": "http://chinhphu.vn/default.aspx?pageid=27160&docid=91258",
+      "date": "2026-06-27",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-05206-3",
+      "title": "Danh sách Thôn vùng đồng bào dân tộc thiểu số và miền núi, thôn đặc biệt khó khăn giai đoạn 2026 - 2030 trên địa bàn tỉnh Phú Thọ",
+      "url": "http://files.ubdt.gov.vn/files/ecm/source_files/2026/02/05/11252411_4.%20Ph%C3%BA%20Th%E1%BB%8D%201%20(th%C3%B4n).signed_26-02-05.pdf",
+      "date": "2026-01-29",
+      "type": "wikipedia-ref"
+    }
+  ],
+  "note": "Trích tự động từ Wikipedia tiếng Việt (mode=narrative). Cần đối chiếu nghị quyết HĐND phường/xã. ⚠️ Danh mục có thể là hiện trạng TRƯỚC sắp xếp thôn/TDP 01/7/2026 — Wikipedia chưa cập nhật nghị quyết mới.",
+  "tdp": [
+    {
+      "name": "Ban",
+      "type": "xóm"
+    },
+    {
+      "name": "Bãi Cả",
+      "type": "xóm"
+    },
+    {
+      "name": "Cải",
+      "type": "xóm"
+    },
+    {
+      "name": "Chiêng",
+      "type": "xóm"
+    },
+    {
+      "name": "Diềm 2",
+      "type": "xóm"
+    },
+    {
+      "name": "Đá Đỏ",
+      "type": "xóm"
+    },
+    {
+      "name": "Gò Lào",
+      "type": "xóm"
+    },
+    {
+      "name": "Khan Hạ",
+      "type": "xóm"
+    },
+    {
+      "name": "Khan Hò",
+      "type": "xóm"
+    },
+    {
+      "name": "Khan Thượng",
+      "type": "xóm"
+    },
+    {
+      "name": "Mó Rút",
+      "type": "xóm"
+    },
+    {
+      "name": "Nánh Nhân",
+      "type": "xóm"
+    },
+    {
+      "name": "Nà Bó",
+      "type": "xóm"
+    },
+    {
+      "name": "Nọt",
+      "type": "xóm"
+    },
+    {
+      "name": "Phúc",
+      "type": "xóm"
+    },
+    {
+      "name": "Sạn Sộp",
+      "type": "xóm"
+    },
+    {
+      "name": "So Lo",
+      "type": "xóm"
+    },
+    {
+      "name": "Suối Nhúng",
+      "type": "xóm"
+    },
+    {
+      "name": "Suối Lốn",
+      "type": "xóm"
+    },
+    {
+      "name": "Tân Thủy",
+      "type": "xóm"
+    },
+    {
+      "name": "Tôm",
+      "type": "xóm"
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "ward_code": "08545",
+  "ward_name": "Thu Cúc",
+  "province_code": "25",
+  "resolution": "",
+  "arrangement": "truoc_2026_07",
+  "effective_date": "",
+  "verified": "unverified",
+  "extraction": {
+    "source": "vi.wikipedia.org",
+    "title": "Thu Cúc",
+    "mode": "narrative"
+  },
+  "sources": [
+    {
+      "key": "wiki-08545-1",
+      "title": "Nghị quyết số 2/NQ-UBBC về việc công bố danh sách chính thức những người ứng cử đại biểu Hội đồng nhân dân xã Thu Cúc khóa XXI, nhiệm kỳ 2026 - 2031",
+      "url": "https://web.facebook.com/story.php?story_fbid=122159197442936343&id=61578090304725&rdid=agZWlHuYdp3xx5VF#",
+      "date": "2026-02-25",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-08545-2",
+      "title": "Danh sách Thôn vùng đồng bào dân tộc thiểu số và miền núi, thôn đặc biệt khó khăn giai đoạn 2026 - 2030 trên địa bàn tỉnh Phú Thọ",
+      "url": "http://files.ubdt.gov.vn/files/ecm/source_files/2026/02/05/11252411_4.%20Ph%C3%BA%20Th%E1%BB%8D%201%20(th%C3%B4n).signed_26-02-05.pdf",
+      "date": "2026-01-29",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-08545-3",
+      "title": "NGHỊ QUYẾT 203/2025/QH15 SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA HIẾN PHÁP NƯỚC CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM",
+      "url": "https://xaydungchinhsach.chinhphu.vn/nghi-quyet-203-2025-qh15-sua-doi-bo-sung-mot-so-dieu-cua-hien-phap-nuoc-cong-hoa-xa-hoi-chu-nghia-viet-nam-119250616181735552.htm",
+      "date": "2025-06-28",
+      "type": "wikipedia-ref"
+    }
+  ],
+  "note": "Trích tự động từ Wikipedia tiếng Việt (mode=narrative). Cần đối chiếu nghị quyết HĐND phường/xã. ⚠️ Danh mục có thể là hiện trạng TRƯỚC sắp xếp thôn/TDP 01/7/2026 — Wikipedia chưa cập nhật nghị quyết mới.",
+  "tdp": [
+    {
+      "name": "Bặn",
+      "type": "khu"
+    },
+    {
+      "name": "Chiềng 1",
+      "type": "khu"
+    },
+    {
+      "name": "Chiềng 2",
+      "type": "khu"
+    },
+    {
+      "name": "Cón",
+      "type": "khu"
+    },
+    {
+      "name": "Dáy",
+      "type": "khu"
+    },
+    {
+      "name": "Đồng Tăng",
+      "type": "khu"
+    },
+    {
+      "name": "Đồng Tô",
+      "type": "khu"
+    },
+    {
+      "name": "Giác 1",
+      "type": "khu"
+    },
+    {
+      "name": "Giác 3",
+      "type": "khu"
+    },
+    {
+      "name": "Liên Chung",
+      "type": "khu"
+    },
+    {
+      "name": "Mỹ Á",
+      "type": "khu"
+    },
+    {
+      "name": "Ngả Hai",
+      "type": "khu"
+    },
+    {
+      "name": "Quẽ",
+      "type": "khu"
+    },
+    {
+      "name": "Tân Lập",
+      "type": "khu"
+    },
+    {
+      "name": "Trung Tâm 1",
+      "type": "khu"
+    },
+    {
+      "name": "Trung Tâm 2",
+      "type": "khu"
+    },
+    {
+      "name": "Ú",
+      "type": "khu"
+    }
+  ]
+}

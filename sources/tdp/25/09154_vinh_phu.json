@@ -1,0 +1,208 @@
+{
+  "ward_code": "09154",
+  "ward_name": "Vĩnh Phú",
+  "province_code": "25",
+  "resolution": "",
+  "arrangement": "truoc_2026_07",
+  "effective_date": "",
+  "verified": "unverified",
+  "extraction": {
+    "source": "vi.wikipedia.org",
+    "title": "Vĩnh Phú (xã)",
+    "mode": "narrative!old"
+  },
+  "sources": [
+    {
+      "key": "wiki-09154-1",
+      "title": "Nghị quyết số 1287/NQ-UBTVQH15 của UBTVQH Về việc sắp xếp đơn vị hành chính cấp xã của tỉnh Vĩnh Phúc giai đoạn 2023 – 2025",
+      "url": "https://quochoi.vn/tintuc/Pages/tin-hoat-dong-cua-quoc-hoi.aspx?ItemID=91157",
+      "date": "2026-06-24",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-09154-2",
+      "title": "TOÀN VĂN: Nghị quyết số 202/2025/QH15 về sắp xếp đơn vị hành chính cấp tỉnh",
+      "url": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-202-2025-qh15-ve-sap-xep-don-vi-hanh-chinh-cap-tinh-119250612174148722.htm",
+      "date": "2025-07-16",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-09154-3",
+      "title": "NGHỊ QUYẾT 203/2025/QH15 SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA HIẾN PHÁP NƯỚC CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM",
+      "url": "https://xaydungchinhsach.chinhphu.vn/nghi-quyet-203-2025-qh15-sua-doi-bo-sung-mot-so-dieu-cua-hien-phap-nuoc-cong-hoa-xa-hoi-chu-nghia-viet-nam-119250616181735552.htm",
+      "date": "2025-06-28",
+      "type": "wikipedia-ref"
+    }
+  ],
+  "note": "Trích tự động từ Wikipedia tiếng Việt (mode=narrative!old). Cần đối chiếu nghị quyết HĐND phường/xã. ⚠️ Danh mục có thể là hiện trạng TRƯỚC sắp xếp thôn/TDP 01/7/2026 — Wikipedia chưa cập nhật nghị quyết mới.",
+  "tdp": [
+    {
+      "name": "An Hạ",
+      "type": "thôn"
+    },
+    {
+      "name": "An Lão",
+      "type": "thôn"
+    },
+    {
+      "name": "An Lão Ngược",
+      "type": "thôn"
+    },
+    {
+      "name": "An Lão Xuôi",
+      "type": "thôn"
+    },
+    {
+      "name": "An Thọ",
+      "type": "thôn"
+    },
+    {
+      "name": "An Thượng",
+      "type": "thôn"
+    },
+    {
+      "name": "Bảo Trưng",
+      "type": "thôn"
+    },
+    {
+      "name": "Bàn Mạch",
+      "type": "thôn"
+    },
+    {
+      "name": "Bích Chu",
+      "type": "thôn"
+    },
+    {
+      "name": "Cam Giá",
+      "type": "thôn"
+    },
+    {
+      "name": "Cẩm Vực",
+      "type": "thôn"
+    },
+    {
+      "name": "Chung 1",
+      "type": "thôn"
+    },
+    {
+      "name": "Chung 2",
+      "type": "thôn"
+    },
+    {
+      "name": "Chùa",
+      "type": "thôn"
+    },
+    {
+      "name": "Dầu",
+      "type": "thôn"
+    },
+    {
+      "name": "Duy Bình",
+      "type": "thôn"
+    },
+    {
+      "name": "Đông",
+      "type": "thôn"
+    },
+    {
+      "name": "Gồ",
+      "type": "thôn"
+    },
+    {
+      "name": "Hậu Lộc",
+      "type": "thôn"
+    },
+    {
+      "name": "Hệ",
+      "type": "thôn"
+    },
+    {
+      "name": "Hòang Xá",
+      "type": "thôn"
+    },
+    {
+      "name": "Hồi Cương",
+      "type": "thôn"
+    },
+    {
+      "name": "Khách Nhi",
+      "type": "thôn"
+    },
+    {
+      "name": "Khách Nhi Ngược",
+      "type": "thôn"
+    },
+    {
+      "name": "Khách Nhi Xuôi",
+      "type": "thôn"
+    },
+    {
+      "name": "Kim Đê",
+      "type": "thôn"
+    },
+    {
+      "name": "Kim Xa",
+      "type": "thôn"
+    },
+    {
+      "name": "Liễu",
+      "type": "thôn"
+    },
+    {
+      "name": "Môn Tri",
+      "type": "thôn"
+    },
+    {
+      "name": "Mới",
+      "type": "thôn"
+    },
+    {
+      "name": "Tam Đinh",
+      "type": "thôn"
+    },
+    {
+      "name": "Tân An",
+      "type": "thôn"
+    },
+    {
+      "name": "Thủ Độ",
+      "type": "thôn"
+    },
+    {
+      "name": "Thượng",
+      "type": "thôn"
+    },
+    {
+      "name": "Trại Tri",
+      "type": "thôn"
+    },
+    {
+      "name": "Trung",
+      "type": "thôn"
+    },
+    {
+      "name": "Văn Hà",
+      "type": "thôn"
+    },
+    {
+      "name": "Vân Giang",
+      "type": "thôn"
+    },
+    {
+      "name": "Ven",
+      "type": "thôn"
+    },
+    {
+      "name": "Xám",
+      "type": "thôn"
+    },
+    {
+      "name": "Xuân Chiểu",
+      "type": "thôn"
+    },
+    {
+      "name": "Yên Định",
+      "type": "thôn"
+    }
+  ]
+}

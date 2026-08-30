@@ -1,0 +1,177 @@
+{{Thông tin đơn vị hành chính Việt Nam |Xã
+| tên = Nam Phù
+| hình = Suquan nguyensieu3.JPG
+| ghi chú hình = Đình Đông Phù thờ sứ quân [[Nguyễn Siêu]]
+| vĩ độ = 20.917772643058424
+| kinh độ = 105.873694875046
+| bản đồ 1 ={{maplink|frame=yes|plain=yes|type=shape|frame-width=280|frame-align=center|stroke-width=3}} 
+| diện tích = 13,74 km²
+| dân số = 42.772 người
+| thời điểm dân số = 2025
+| mật độ dân số = {{formatnum:{{#expr:floor({{formatnum:42.772| R}}/{{formatnum:13,74| R}})}} }} người/km²
+| vùng = [[Đồng bằng sông Hồng]]
+| thành phố = [[Hà Nội]]
+| thành lập = 
+| trụ sở UBND = Thôn 2 Đông Mỹ<ref name = "trusomoi">{{Cite web| url = https://dcdn.dantri.com.vn/2025/06/25/tru-so-126-xa-phuong-cua-ha-noi-1750822481952.pdf| title = Thông báo về địa điểm trụ sở làm việc của 126 phường, xã sau sắp xếp thuộc phạm vi quản lý của thành phố Hà Nội| date = 25 tháng 6 năm 2025| website = UBND TP Hà Nội| access-date = 2025-06-26| archive-date = 2026-04-25| archive-url = https://web.archive.org/web/20260425080946/https://dcdn.dantri.com.vn/2025/06/25/tru-so-126-xa-phuong-cua-ha-noi-1750822481952.pdf| url-status = dead}}</ref>
+| mã hành chính =00685<ref>{{Chú thích web |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/19ttg.signed.pdf |title=Quyết định số 19/2025/QĐ-TTg ngày 30 tháng 6 năm 2025 của Thủ tướng Chính phủ về việc Ban hành Bảng danh mục và mã số các đơn vị hành chính Việt Nam |access-date=2026-06-15 |archive-date=2026-06-15 |archive-url=https://web.archive.org/web/20260615034519/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/19ttg.signed.pdf |url-status=dead }}</ref> 
+| mã bưu chính = 
+| web = {{url|namphu.hanoi.gov.vn}}
+|trụ sở Đảng ủy=Thôn Đại Lan}}
+'''Nam Phù''' là một [[Xã (Việt Nam)|xã]] thuộc thành phố [[Hà Nội]], [[Việt Nam]].
+
+== Địa lý==
+Xã Nam Phù có vị trí địa lý:
+
+* Phía đông giáp xã [[Văn Giang (xã)|Văn Giang]] và xã [[Mễ Sở]] thuộc tỉnh [[Hưng Yên]] với ranh giới tự nhiên là [[sông Hồng]]
+* Phía tây giáp xã [[Ngọc Hồi (xã)|Ngọc Hồi]]
+* Phía nam giáp xã [[Hồng Vân]]
+* Phía bắc giáp xã [[Thanh Trì (xã)|Thanh Trì]] và xã [[Bát Tràng]].<ref>{{Chú thích web|last=Viện nghiên cứu Phát triển kinh tế – xã hội Hà Nội|date=2025-07-02|title=Xã Nam Phù: Những thông tin chi tiết sau sắp xếp|url=https://hanoionline.vn/xa-nam-phu-nhung-thong-tin-chi-tiet-sau-sap-xep-344236.htm|url-status=bot: unknown|archive-url=https://web.archive.org/web/20250703090100/https://hanoionline.vn/xa-nam-phu-nhung-thong-tin-chi-tiet-sau-sap-xep-344236.htm|archive-date=2025-07-03|access-date=2026-07-01|website=Cơ quan Báo và Phát thanh Truyền hình Hà Nội}}</ref><ref>{{Chú thích web |last=Cơ quan Báo và Phát thanh Truyền hình Hà Nội|date=2025-07-07|title=Xã Nam Phù: Tất cả thông tin chỉ dẫn bạn cần biết|url=https://hanoionline.vn/xa-nam-phu-tat-ca-thong-tin-chi-dan-ban-can-biet-345181.htm|url-status=live|archive-url=https://web.archive.org/web/20260711401509/https://hanoionline.vn/xa-nam-phu-tat-ca-thong-tin-chi-dan-ban-can-biet-345181.htm|archive-date=2026-07-11|access-date=2026-07-11}}</ref>
+
+Xã Nam Phù có diện tích tự nhiên 13,74 km<sup>2</sup>, quy mô dân số năm 2025 là 42.772 người và mật độ dân số đạt 3.112 người/km<sup>2</sup>.<ref>{{Chú thích web|last=Mai Hữu|date=2026-04-05|title=Hà Nội: Chi tiết phương án tổng thể sắp xếp đơn vị hành chính cấp xã|url=https://hanoimoi.vn/ha-noi-chi-tiet-phuong-an-tong-the-sap-xep-don-vi-hanh-chinh-cap-xa-700278.html|url-status=bot: unknown|archive-url=https://web.archive.org/web/20250710163328/https://hanoimoi.vn/ha-noi-chi-tiet-phuong-an-tong-the-sap-xep-don-vi-hanh-chinh-cap-xa-700278.html|archive-date=2025-07-10|access-date=2026-07-11|website=Cơ quan Báo và Phát thanh, truyền hình Hà Nội}}</ref><ref>Công văn số 2896/BNV-CQĐP ngày 27 tháng 5 năm 2025 của Bộ Nội vụ về việc cung cấp thông tin danh mục dự kiến đơn vị hành chính cấp xã mới.</ref>
+
+== Lịch sử ==
+
+=== Trước năm 1976 ===
+Khu vực xã Nam Phù ngay từ thế kỷ X đã là căn cứ chiếm đóng của tướng [[Nguyễn Siêu]] trong thời [[loạn 12 sứ quân]]. Vị tướng này đã chiêu dân lập làng và gây dựng lên một căn cứ quân sự mạnh thời Hậu Ngô Vương.<ref>{{Cite web| url = https://tuoitrethudo.vn/phat-huy-gia-tri-van-hoa-qua-le-hoi-truyen-thong-tong-nam-phu-248132.html| title = Phát huy giá trị văn hoá qua lễ hội truyền thống Tổng Nam Phù| first = Báo Tuổi Trẻ Thủ| last = Đô| website = Báo Tuổi Trẻ Thủ Đô}}</ref><ref>{{Cite web| url = https://kinhtedothi.vn/dac-sacle-hoi-tong-nam-phu| title = Đặc sắc lễ hội Tổng Nam Phù| first = Báo Kinh Tế Đô| last = Thị| website = Báo Kinh Tế Đô Thị}}</ref><ref name="hnm">{{Cite web| url = https://hanoimoi.vn/ha-noi-chi-tiet-phuong-an-tong-the-sap-xep-don-vi-hanh-chinh-cap-xa-700278.html| title = Hà Nội: Chi tiết phương án tổng thể sắp xếp đơn vị hành chính cấp xã| date = 25 tháng 4 năm 2025| website = hanoimoi.vn}}</ref>
+
+Xã Đông Phù Liệt là tên gọi chính thức cho tới trước Cách mạng tháng 8 năm 1945. Lúc ấy xã Đông Phù Liệt thuộc tổng Nam Phù Liệt, huyện Thanh Trì, tỉnh [[Hà Đông (tỉnh)|Hà Đông]] và là lị sở của huyện Thanh Trì.
+
+Theo thần tích xã và các vị cao niên kể lại thì làng Đông Phù Liệt cổ ở giáp bờ sông Hồng và có chợ Đông Phù Liệt là nơi buôn bán sầm uất một vùng. Khi sông Hồng đổi dòng, làng không còn ở cạnh sông nên dân chúng đã chuyển dần vào vùng gò đống phía trái của làng để làm ăn sinh sống, đó là đất Tây Phù Liệt (nay là các xã Tứ Hiệp, Ngũ Hiệp, Liên Ninh).
+
+Trên địa bàn xã còn có [[Chùa Hưng Long]] tức chùa Nhót có lịch sử từ thế kỷ XI thời nhà Lý.Từng được 2 công chúa nhà Lý là Lý Từ Thục và Lý Từ Huy về tu hành.
+
+=== Giai đoạn 1976 – nay ===
+Sau ngày 2 tháng 7 năm 1976, 5 xã: Duyên Hà, Đông Mỹ, Ngũ Hiệp, Vạn Phúc và Yên Mỹ thuộc huyện [[Thanh Trì (huyện)|Thanh Trì]] của thành phố [[Hà Nội]]; 3 xã: Duyên Thái, Liên Ninh và Ninh Sở thuộc huyện [[Thường Tín (huyện)|Thường Tín]] của tỉnh [[Hà Sơn Bình]].
+
+Ngày 29 tháng 12 năm 1978, sáp nhập xã Liên Ninh của huyện [[Thường Tín (huyện)|Thường Tín]] thuộc tỉnh [[Hà Sơn Bình]] vào thành phố [[Hà Nội]].<ref>Nghị quyết ngày 29 tháng 12 năm 1978 của Quốc hội khóa VI, Kỳ họp thứ 4 phê chuẩn việc phân vạch lại địa giới thành phố Hà Nội, thành phố Hồ Chí Minh, các tỉnh Hà Sơn Bình, Vĩnh Phú, Cao Lạng, Bắc Thái, Quảng Ninh và Đồng Nai.</ref>
+
+Ngày 17 tháng 2 năm 1979, sáp nhập xã Liên Ninh (của huyện [[Thường Tín (huyện)|Thường Tín]]) vào huyện [[Thanh Trì (xã)|Thanh Trì]].<ref>Quyết định số 49-CP ngày 17 tháng 2 năm 1979 của Hội đồng Chính phủ về việc điều chỉnh địa giới một số xã, thị trấn thuộc các huyện Sóc Sơn, Mê Linh, Hoài Đức, Phúc Thọ và Thanh Trì thuộc thành phố Hà Nội.</ref>
+
+Ngày 12 tháng 8 năm 1991, chia tỉnh [[Hà Sơn Bình]] thành 2 tỉnh, lấy tên là tỉnh [[Hòa Bình (tỉnh)|Hòa Bình]] và tỉnh [[Hà Tây (tỉnh)|Hà Tây]]. Khi đó, 2 xã: Duyên Thái và Ninh Sở thuộc huyện [[Thường Tín (huyện)|Thường Tín]] của tỉnh [[Hà Tây (tỉnh)|Hà Tây]].<ref>Nghị quyết ngày 12 tháng 8 năm 1991 của Quốc hội khóa VIII, Kỳ họp thứ 9 về việc điều chỉnh địa giới hành chính một số tỉnh, thành phố trực thuộc Trung ương.</ref>
+
+Ngày 29 tháng 5 năm 2008, hợp nhất tỉnh [[Hà Tây (tỉnh)|Hà Tây]] vào thành phố [[Hà Nội]]. Khi đó, 2 xã: Duyên Thái và Ninh Sở thuộc huyện [[Thường Tín (huyện)|Thường Tín]] của thành phố [[Hà Nội]].<ref>Nghị quyết số 15/2008/QH12 ngày 29 tháng 5 năm 2008 của Quốc hội khóa XII, Kỳ họp thứ 3 về việc điều chỉnh địa giới hành chính thành phố Hà Nội và một số tỉnh có liên quan.</ref>
+
+Ngày 16 tháng 6 năm 2025:
+
+* Kết thúc hoạt động của đơn vị hành chính cấp huyện trong cả nước.<ref>{{Chú thích web |last= |date= |title=Nghị quyết số 203/2025/QH15 ngày 16 tháng 6 năm 2025 của Quốc hội khóa XV, Kỳ họp thứ 9 về việc sửa đổi, bổ sung một số điều của Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/nq-sua-doi-hien-phap.pdf |url-status=live |archive-url=https://web.archive.org/web/20260613090807/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/nq-sua-doi-hien-phap.pdf |archive-date=2026-06-13 |access-date=2026-06-13 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+* Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của xã Vạn Phúc, một phần diện tích tự nhiên, quy mô dân số của xã Liên Ninh (huyện [[Thanh Trì (huyện)|Thanh Trì]]) và xã Ninh Sở (huyện [[Thường Tín (huyện)|Thường Tín]]), một phần diện tích tự nhiên, toàn bộ quy mô dân số của xã Đông Mỹ (huyện [[Thanh Trì (huyện)|Thanh Trì]]), một phần diện tích tự nhiên của xã Duyên Thái (huyện [[Thường Tín (huyện)|Thường Tín]]) và phần còn lại của các xã Ngũ Hiệp, Yên Mỹ, Duyên Hà (huyện [[Thanh Trì (huyện)|Thanh Trì]]) thành xã mới có tên gọi là xã Nam Phù.<ref>{{Chú thích web |title=Nghị quyết số 1656/NQ-UBTVQH15 ngày 16 tháng 6 năm 2025 của Ủy ban Thường vụ Quốc hội về việc sắp xếp các đơn vị hành chính cấp xã của thành phố Hà Nội năm 2025 |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf |url-status=bot: unknown |archive-url=https://web.archive.org/web/20260513110024/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf |archive-date=2026-05-13 |access-date=2026-06-30 |website=Cổng Thông tin điện tử Chính phủ }}</ref>
+* Sau khi sắp xếp, xã Nam Phù được chia thành 18 thôn.<ref>3 thôn, đánh số từ 1 đến 3 của xã Vạn Phúc cũ; 2 thôn: Nội Am và Thọ Am của xã Liên Ninh cũ; 5 thôn, đánh số từ 1 đến 5 của xã Đông Mỹ cũ; 4 thôn: Đông Trạch, Tự Khoát, Tương Chúc và Việt Yên của xã Ngũ Hiệp cũ; 4 thôn: Đại Lan, Tân Hà, Tranh Khúc và Văn Uyên của xã Duyên Hà cũ.</ref><ref>{{Chú thích web |title=Thông tư số 10/2022/TT-BTNMT ngày 29 tháng 9 năm 2022 của Bộ Tài nguyên và Môi trường về việc Ban hành Danh mục địa danh dân cư, sơn văn, thủy văn, kinh tế – xã hội phục vụ công tác thành lập bản đồ thành phố Hà Nội |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2022/10/10-btnmt.pdf |url-status=bot: unknown |archive-url=https://web.archive.org/web/20260630082812/https://datafiles.chinhphu.vn/cpp/files/vbpq/2022/10/10-btnmt.pdf |archive-date=2026-06-30 |access-date=2026-06-30 |website=Cổng Thông tin điện tử Chính phủ }}</ref><ref>{{Chú thích web |last=Quỳnh Dung |date=2026-03-01 |title=Nam Phù niêm yết danh sách ứng cử công khai, minh bạch |url=https://hanoimoi.vn/nam-phu-niem-yet-danh-sach-ung-cu-cong-khai-minh-bach-735581.html?gidzl=zT3pUTI6WNNnp_T_tfk0T_l4y7F2bOSjuSkcSyEVrIYtmA1sn9I4SkF2ydkNm81miCFpVZKNPqSzqOU5Tm |url-status=live |archive-url=https://web.archive.org/web/20260702400809/https://hanoimoi.vn/nam-phu-niem-yet-danh-sach-ung-cu-cong-khai-minh-bach-735581.html?gidzl=zT3pUTI6WNNnp_T_tfk0T_l4y7F2bOSjuSkcSyEVrIYtmA1sn9I4SkF2ydkNm81miCFpVZKNPqSzqOU5Tm |archive-date=2026-07-02 |access-date=2026-07-02 |website=Cơ quan Báo và Phát thanh, truyền hình Hà Nội}}</ref>
+
+Ngày 20 tháng 6 năm 2026, thành lập 7 thôn mới: Tương Chúc, Đông Trạch, từ 1 đến 3 Đông Mỹ, Đại Lan và Văn Uyên – Tranh Khúc.<ref>1. Thôn Thọ Am: Được hình thành trên phương án giữ nguyên theo hiện trạng thôn Thọ Am; 2. Thôn Nội Am: Được hình thành trên phương án giữ nguyên theo hiện trạng thôn Nội Am; 3. Thôn Tương Chúc được hình thành trên cơ sở sáp nhập phần lớn thôn Tương Chúc và toàn bộ Thôn Tự Khoát; 4. Thôn Việt Yên: Được hình thành trên phương án giữ nguyên theo hiện trạng thôn Việt Yên; 5. Thôn Đông Trạch được hình thành trên cơ sở sáp nhập 1 phần Thôn 3 Đông Mỹ (Phần dân cư phía đối diện chùa Hưng Long từ sau tập thể Bộ tư lệnh Đặc Công đến sát chân đê) và toàn bộ thôn Đông Trạch; 6. Thôn 1 Đông Mỹ được hình thành trên cơ sở sắp xếp toàn bộ Thôn 1 Đông Mỹ, 1 phần nhỏ thôn Tương Chúc (Đoạn đường từ phía sau cầu Om, sau đường vào nghĩa trang thôn Tương Chúc) và toàn bộ Thôn Tân Hà; 7. Thôn 2 Đông Mỹ được hình thành trên cơ sở sắp xếp toàn bộ Thôn 2 Đông Mỹ và phần lớn Thôn 3 Đông Mỹ (phần còn lại sau khi sáp nhập: phần dân cư phía đối diện chùa Hưng Long từ sau tập thể Bộ tư lệnh Đặc Công đến sát chân đê vào thôn Đông Trạch; 8. Thôn 3 Đông Mỹ được hình thành trên cơ sở sáp nhập phần lớn Thôn 4 Đông Mỹ (trừ 1 số hộ xâm cư sang thôn Đại Lan), toàn bộ Thôn 5 Đông Mỹ và 1 phần Thôn 3 Đông Mỹ (phần nửa dân cư phía bên trái từ đầu cầu đi vào ngõ Đại Thắng; 9. Thôn Đại Lan đươc hình thành trên cơ sở sắp xếp toàn bộ Thôn Đại Lan và 1 phần nhỏ xâm cư Thôn 4 Đông Mỹ (ngoài đê); 10. Thôn Văn Uyên – Tranh Khúc được hình thành trên cơ sở sắp xếp toàn bộ Thôn Văn Uyên và toàn bộ Thôn Tranh Khúc; 11. Thôn 1 Vạn Phúc: Được hình thành trên phương án giữ nguyên theo hiện trạng thôn 1 Vạn Phúc; 12. Thôn 2 Vạn Phúc: Được hình thành trên phương án giữ nguyên theo hiện trạng thôn 2 Vạn Phúc; 13. Thôn 3 Vạn Phúc: Được hình thành trên phương án giữ nguyên theo hiện trạng thôn 3 Vạn Phúc.</ref><ref name=":0">{{Chú thích web |title=Dự thảo tháng 6 năm 2026 của Ủy ban nhân dân xã Nam Phù về sắp xếp, sáp nhập, tổ chức lại các thôn trên địa bàn xã Nam Phù |url=https://sqhx-hanoi.mediacdn.vn/91579363132710912/2026/6/9/de-an-nam-phu-86-17809794187881626631660.pdf |url-status=bot: unknown |archive-url=https://web.archive.org/web/20260703071030/https://sqhx-hanoi.mediacdn.vn/91579363132710912/2026/6/9/de-an-nam-phu-86-17809794187881626631660.pdf |archive-date=2026-07-03 |access-date=2026-07-03 }}</ref><ref name=":1">{{Chú thích web |last=Phương Xuyến |date=2026-06-20 |title=Hội đồng nhân dân xã Nam Phù thông qua nhiều Nghị quyết quan trọng trong chặng đường mới |url=https://namphu.hanoi.gov.vn/tin-tuc-su-kien/hdnd-xa-nam-phu-thong-qua-nhieu-nghi-quyet-quan-trong-trong-chang-duong-moi-2721260620150044205.htm?gidzl=USSnBNRyqdrzs3KhVE7JVt3OD2bdvD8hQjTYAMRkW2uyt6GiOUNHT6ZUDY4oiTLsEzyt93Kv2jPXS_tMVm |url-status=live |archive-url=https://web.archive.org/web/20260703400809/https://namphu.hanoi.gov.vn/tin-tuc-su-kien/hdnd-xa-nam-phu-thong-qua-nhieu-nghi-quyet-quan-trong-trong-chang-duong-moi-2721260620150044205.htm?gidzl=USSnBNRyqdrzs3KhVE7JVt3OD2bdvD8hQjTYAMRkW2uyt6GiOUNHT6ZUDY4oiTLsEzyt93Kv2jPXS_tMVm |archive-date=2026-07-03 |access-date=2026-07-03 |website=Trang Thông tin điện tử xã Nam Phù – thành phố Hà Nội}}</ref><ref name=":2">{{Chú thích web |last=Nam Phù – Khát vọng vươn lên – thành phố Hà Nội |date=2026-07-01 |title=Nam Phù: Kiện toàn Ban Công tác Mặt trận sau sắp xếp thôn – củng cố sức mạnh đại đoàn kết từ khu dân cư |url=https://web.facebook.com/share/p/19Bdfid48Z/ |url-status=live |archive-url=https://web.archive.org/web/20260703400809/https://web.facebook.com/share/p/19Bdfid48Z/ |archive-date=2026-07-03 |access-date=2026-07-03}}</ref>
+
+<!-- 
+== Làng Vạn Phúc== 
+Làng Vạn Phúc vào đầu thế kỷ XIX là "Vạn Phúc châu" thuộc tổng Vạn Phúc, huyện Thanh Trì, phủ Thường tín, trấn Sơn Nam Thượng (năm 1831 đổi làm tỉnh Hà Nội, năm 1904 thuộc tỉnh Hà Đông). Sau Cách mạng, làng nhập với làng Mỹ Ả thành xã mang tên Vạn Phúc. Năm 1926, làng có 1223 nhân khẩu<ref name = "VP1">{{Chú thích web| url = http://www.hanoimoi.com.vn/newsdetail/1000_nam_thang_long/59270/lang-v7841n-phuc.htm| title = Làng Vạn Phúc| access-date = ngày 14 tháng 5 năm 2010| author = TS. Bùi Xuân Đính| publisher = Báo Hà Nội Mới điện tử}}{{Liên kết hỏng| date = 2021-05-29 | bot = InternetArchiveBot }}</ref>.
+
+Vạn Phúc nằm ven sông Hồng, có vùng bãi màu mỡ nên được con người khai phá từ rất sớm. L [http://giadinh.vnexpress.net/tin-tuc/tet-doan-vien/le-ruoc-nuoc-xa-van-phuc-2950845.html àng thờ vị thần tên là Uy Mang (hay Hồng Mang)], theo thần phả là anh em sinh đôi của Vua [[Hùng Nghị Vương]]. Ông là vị tướng văn võ song toàn, có công lớn giúp vua cha giữ yên bờ cõi, sau khi qua đời được phong Phúc thần và được 27 làng xã phụng thờ<ref name = "VP1"/>.
+
+Làng Vạn Phúc in đậm nhiều dấu ấn của lịch sử đất nước. Tháng Giêng năm Giáp Tý (544), Lý Bí ([[Lý Nam Đế| Lý Bôn]]) sau khi khởi binh đánh đuổi được Thứ sử Tiêu Tư của nhà Lương đã xưng vua, đặt tên nước là [[Vạn Xuân]], niên hiệu là Thiên Đức, dựng điện Vạn Xuân. Theo các nhà nghiên cứu thì điện Vạn Xuân ở bên hồ Vạn Xuân (xưa gọi là Vạn Xoan), chính là đầm Vạn Phúc bên bờ sông Hồng<ref name = "VP1"/>.
+
+Năm Bính Ngọ (1426), nghĩa quân Lam Sơn do [[Lê Thái Tổ| Lê Lợi]], [[Nguyễn Trãi]] chỉ huy đóng quân ở Tây Phù Liệt (xã Đông Phù ngày nay). Hai ông đã cho tôn đê Vạn Xuân, biến đoạn đê này thành chiến lũy quan trọng để bao vây thành Đông Quan của giặc Minh<ref name = "VP1"/>.
+
+Tháng Sáu, năm Bính Ngọ (1786), quân Tây Sơn do [[Nguyễn Huệ]] chỉ huy tấn công ra Bắc diệt nhà Trịnh. Chúa Trịnh đã bố trí một lực lượng lớn quân do tướng [[Hoàng Phùng Cơ]] chỉ huy, đóng ở đầm Vạn Phúc để ngăn chặn. Song, quân chúa Trịnh bị đánh tan ngay từ trận đầu. Sáu người con của Hoàng Phùng Cơ chết trong trận này. Cơ và 2 người con còn lại cướp đường chạy về Thăng Long<ref name = "VP1"/>.
+
+Nằm ven sông Hồng, Vạn Phúc có bãi bờ phù sa màu mỡ, thuận tiện cho việc cấy trồng các loại hoa màu, cây công nghiệp. Tuy nhiên, hàng năm, dân làng phải chịu cảnh nước lụt nên phải bỏ nhiều côg sức đắp và tu bổ đê. Phần cuối đê Vạn Xuân (Vạn Xoan) nằm trên đất Vạn Phúc chính là phần quan trọng của đê Đỉnh Nhĩ. Tương truyền, vào đầu thời Lê Sơ, đoạn đê này vỡ đến 13 lần, đắp xong lại vỡ. Bờ đối diện của đê này nằm trên đất làng Nga My của huyện [[Thanh Oai (huyện)| Thanh Oai]]. Trong quá trình đắp đê đó, dân hai làng Vạn Phúc và Nga My thường hỗ trợ nhau về vật chất, phương tiện và cả sức người, từ đó hình thành tục kết nghĩa giữa hai làng, được duy trì cho đến ngày nay<ref name = "VP1"/>.
+
+Vạn Phúc có ngôi đình làng, ngoài vị thần Uy Mang còn thờ Lê Sạn là người làng, đỗ Bảng nhãn khoa Nhâm Tuất niên hiệu Cảnh Thống đời Vua [[Lê Hiến Tông]] (năm 1502), khi ông mới 26 tuổi, làm quan đến Thượng thư bộ Lại, từng đi sứ sang nhà Minh. Làng có chùa Tiên Linh, tên Nôm là chùa Trắng hay chùa Bụt Mọc. Tục truyền, vào thời Vua Lý Thái Tổ (1009 - 1028), có một năm đê vỡ, dân làng thấy một pho tượng trôi trên đầm Vạn Xuân, liền làm lễ khấn trời Phật; lễ xong thì tượng dừng trôi. Vua biết tin liền sức cho dân làng dựng am thờ và cho đặt tên chùa là Bụt Mọc, song dân làng thường quen gọi là chùa Trắng. Sau đó, chùa được mở mang khang trang, nhưng do chiến tranh và thiên tai nên chùa bị xuống cấp, đổ nát dân, hiện chỉ còn hậu cung và trụ cổng chùa<ref name = "VP1"/>.
+
+Dân làng Vạn Phúc có một bộ phận theo Công giáo, dựng nhà thờ vào cuối thế kỷ 19. Nay là Giáo xứ Vạn Phúc thuộc Tổng giáo phận Hà Nội.<ref name = "VP1"/>.
+
+Trong [[chiến tranh Đông Dương| kháng chiến chống Pháp]], các làng Yên Phú, Thọ Am, Nhị Châu, Phương Nhị nhập lại thành một xã mang tên Liên Ninh. Hòa bình lập lại, xã Liên Ninh thuộc huyện Thanh Trì, đến năm 1961, xã được cắt về huyện [[Thường Tín (huyện)| Thường Tín]], [[tỉnh Hà Đông]] (năm 1965 là [[tỉnh Hà Tây]], năm 1975 là tỉnh [[Hà Sơn Bình]]). Đến đầu năm 1979, xã Liên Ninh được cắt về huyện [[Thanh Trì (huyện)| Thanh Trì]], thành phố [[Hà Nội]]<ref name = "YP"/>.
+
+== Làng Yên Phú== 
+Yên Phú cổ xưa có tên là làng Tráng, đầu thế kỷ XIX, là một xã thuộc tổng Ninh Xá, huyện Thanh Trì, phủ Thường Tín, trấn [[Sơn Nam (địa danh cũ Việt Nam)| Sơn Nam Thượng]] (từ năm 1831 thuộc tỉnh Hà Nội, từ năm 1902 thuộc tỉnh Cầu Đơ, sau đổi thành tỉnh Hà Đông)<ref name = "YP">{{Chú thích web| url = http://www.hanoimoi.com.vn/newsdetail/1000_nam_thang_long/105436/lang-yen-phu.htm| title = Làng Yên Phú| access-date = ngày 14 tháng 5 năm 2010| author = TS. Bùi Xuân Đính| publisher = Báo Hà Nội Mới điện tử}}{{Liên kết hỏng| date = ngày 9 tháng 5 năm 2021 | bot = InternetArchiveBot }}</ref>.
+ 
+Yên Phú nằm ven Quốc lộ 1, có [[sông Kim Ngưu]] chảy qua nên rất tiện cho giao lưu hàng hóa. Đây là một làng cổ, hình thành từ thuở các [[Hùng Vương| Vua Hùng]] dựng nước. Theo thần phả ghi lại, vào thời Hùng Vương thứ 18, có bà Phương Dung quê ở làng Lưu Xá, phủ Nghĩa Hưng, [[đạo Sơn Nam]] lớn tuổi mà không chịu lấy chồng, chỉ mộ đạo Phật. Một ngày, bà đến làng Tráng (Yên Phú) thấy cảnh non nước hữu tình, bèn vào chùa Thanh Vân của làng xin tu. Một đêm, bà nằm mộng thấy thần nhân hiện lên báo sẽ có hai vị thủy thần xin làm con nuôi bà để đánh đuổi giặc ngoại xâm. Hôm sau bà ra bờ sông Kim Ngưu, thấy hiện lên hai quả trứng khác thường, bèn đem về, sau nở thành hai chàng trai, đầu người mình rắn, thân da đầy vảy. Bà Phương Dung đặt tên là Trung Vũ và Đài Liệu. Hai chàng lớn nhanh như thổi, chẳng mấy năm đã trở thành tráng sĩ võ nghệ cao cường<ref name = "YP"/>.
+
+Khi [[Hai Bà Trưng]] dấy quân khởi nghĩa, bà Phương Dung cùng hai người con nuôi chiêu mộ 25 tráng sĩ người làng Yên Phú và hàng trăm nghĩa binh ở các nơi lên Hát Môn theo Hai Bà đánh giặc Hán. Giặc tan, bà Phương Dung cùng hai người con nuôi xin trở về thăm làng Yên Phú. Về gần đến làng, trên đoạn sông Kim Ngưu, bỗng có cơn giông nổi lên, bà Phương Dung cùng hai chàng Trung Vũ và Đài Liệu cùng hóa về trời. Hai Bà nghe tin, lấy làm thương tiếc, phong cả ba người làm Phúc thần, sức cho làng Yên Phú thờ. Bà Phương Dung còn được phong làm Phật tổ chùa Thanh Vân (chùa đã được xếp hạng năm 1989). Hội làng trước đây diễn ra vào các ngày 22 tháng Năm (ngày sinh Trung Vũ và Đài Liệu), mồng 7 tháng Một (ngày hóa của các vị thần)<ref name = "YP"/>.
+ 
+Dân làng Yên Phú trước đây làm ruộng kết hợp với buôn bán. Ruộng đất trong làng hầu hết là ruộng công, 6 năm chia lại một lần, vào ngày mồng 7 tháng Giêng, mỗi suất đinh được 2 sào (các cụ từ 60 tuổi trở lên được 2 sào 5 thước)<ref name = "YP"/>.
+ 
+Làng Yên Phú là quê hương của nhà tư sản [[Bạch Thái Bưởi]] (1874 - 1932). Xuất thân trong một gia đình nông dân, ông học chữ Quốc ngữ, chữ Pháp, ra Hà Nội làm thư ký cho các hãng buôn, tiếp thu dần các kinh nghiệm quản lý của người Pháp, rồi đứng ra làm đại lý cung cấp gỗ cho Sở Hỏa Xa, sau đó chuyển sang kinh doanh vận tải trên các sông ở miền Bắc, ra cả biển và vươn tới cả Sài Gòn, Hông Kông. Ông còn đầu tư vào ngành khai thác mỏ lúc đó là độc quyền của tư bản Pháp và kinh doanh cả bất động sản, thành lập nhà in Đông Kinh ấn quán, xuất bản tờ báo Khai hóa nhằm góp phần mở mang dân trí, cổ động cho phong trào đi vào kinh doanh và bảo vệ quyền lợi của giới công thương dân tộc. Ông là biểu tượng cho khát vọng vươn lên làm giàu, chấn hưng nền kinh tế đất nước, đưa Việt Nam trở thành quốc gia hùng mạnh<ref name = "YP"/>.
+
+== Làng Thọ Am== 
+Làng Thọ Am xưa có nghề làm dây thừng, còn làng Nội Am - Om dưới - có nghề làm bánh mứt kẹo. Đây là khu vực xung quanh làng Lộ - nơi có đền Đại Lộ khá nổi tiếng. Ngoài ra còn có chùa Thọ am hay chùa Bất nhiễm.
+
+Làng Thọ Am thờ hai vị Thành Hoàng làng là Tướng quân [[Đoàn Thượng]] ở miếu Thọ Am và Quan nghè Nguyễn Phục ở đình Thọ Am. Đoàn Thượng là dũng tướng rất trung thành với Triều Lý. Khi Lý Chiêu Hoàng thoái vị, nhường ngôi cho [[Trần Cảnh]] (Trần Thái Tông), Đoàn Thượng không quy phục Triều Trần, chống lại việc sát hại con cháu Nhà Lý. Trần Thủ Độ thấy ông là bậc anh hùng liền sai người mang tiền bạc, chức tước tới để thu phục. Ông không màng, quyết giữ đất Hồng Châu, xây thành đắp luỹ, thu mua lương thực phát cho người nghèo, nên được lòng dân chúng trong vùng. Số người đầu quân cho ông chống lại nhà Trần, mong muốn khôi phục Triều Lý ngày càng đông. Năm 1228, ông bị quân của Trần Thủ Độ đánh bại và hy sinh. Nhân dân tiếc thương lập miếu thờ ở Thọ Am để tưởng nhớ đến công lao của ông.
+
+Nguyễn Phục là một vị quan Triều Lê, phụ trách về quân lương. Năm 1470, ông được Vua Lê Thánh Tông phong làm Đốc tướng chỉ huy vận tải quân lương trong trận đánh Chiêm Thành. Đoàn thuyền quân lương khi đến cửa Tùng bị gió bão, phải neo lại tránh bão để tránh tổn thất nên đến tiếp viện trễ mấy ngày. Chiếu theo quân lệnh, ông bị xử trảm tại bãi Nam thuộc vùng vịnh Sơn Trà. Về sau, ông được minh oan và được Vua Lê Thánh Tông phong làm "Phúc thần", truyền sắc phong về một số làng xã để nhân dân hương khói phụng thờ.
+
+Tất cả các làng trong khu vực này (Thọ Am, Nội Am, Tương Trúc, Tự Khoát, Đông Phù thuộc Đông Mỹ, Lộ, Sở Hạ thuộc Ninh Sỏ Thường Tín...) tổ chức lễ hội cùng trong khoảng từ mồng 7-10 tháng 2 âm lịch hàng năm
+-->== Hành chính==
+Xã Nam Phù được chia thành 13 thôn: từ 1 đến 3 Đông Mỹ, từ 1 đến 3 Vạn Phúc, Đại Lan, Đông Trạch, Nội Am, Thọ Am, Tương Chúc, Văn Uyên – Tranh Khúc và Việt Yên.<ref name=":0" /><ref name=":1" /><ref name=":2" />
+{| class="wikitable sortable" align="center" width="100%" cellspacing="6" cellpadding="0" style="background: #f9f9f9; border: 1px #aaa solid; margin-top: 16px"
+! colspan="4" style="background: #E6E6FA; font-size: 95%;" |Danh sách các thôn thuộc xã Nam Phù<ref name=":0" /><ref name=":1" /><ref name=":2" />
+|-
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |1 Đông Mỹ
+|1.834
+|-
+| align="left" |2 Đông Mỹ
+|1.100
+|-
+| align="left" |3 Đông Mỹ
+|950
+|-
+| align="left" |1 Vạn Phúc
+|1.249
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |2 Vạn Phúc
+|1.039
+|-
+| align="left" |3 Vạn Phúc
+|2.083
+|-
+| align="left" |Đại Lan
+|1.200
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Đông Trạch
+|520
+|-
+| align="left" |Nội Am
+|987
+|-
+| align="left" |Thọ Am
+|1.221
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Tương Chúc
+|1.334
+|-
+| align="left" |Văn Uyên – Tranh Khúc
+|648
+|-
+| align="left" |Việt Yên
+|911
+|}
+|}
+
+== Nhân vật nổi bật ==
+[[hình:Chùa Yên Phú, Liên Ninh, Thanh Trì, Hà Nội.jpeg|thumb| trái| Chùa Yên Phú]]
+* [[Nguyễn Siêu]]: vị tướng có công lập làng Tây Phù Liệt thời [[12 sứ quân]] trị vì.
+* [[Đỗ Mười]]: nguyên [[Chủ tịch Hội đồng Bộ trưởng Việt Nam|Chủ tịch Hội đồng Bộ trưởng]] (nay là [[Thủ tướng Chính phủ Việt Nam|Thủ tướng Chính phủ]]) [[Việt Nam]] (1988-1991), nguyên [[Tổng bí thư Đảng Cộng sản Việt Nam]] (1991-1997).
+* [[Nguyễn Thọ Chân]]: Ủy viên Dự khuyết Ban Chấp hành Trung ương Đảng Cộng sản Việt Nam khóa III, Đại sứ Việt Nam Dân chủ Cộng hòa tại Liên Xô (1967–1971) và kiêm Đại sứ tại Thụy Điển (1969–1971), cựu Bộ trưởng Bộ Lao động Việt Nam, Trưởng ban Thi đua Trung ương.
+
+== Chú thích== 
+{{tham khảo}}
+
+== Tham khảo ==
+{{Sơ khai Hà Nội}}{{Đơn vị hành chính thuộc thành phố Hà Nội}}

@@ -1,0 +1,97 @@
+{{Thông tin đơn vị hành chính Việt Nam
+| tên = Thọ Văn
+| vai trò hành chính = Xã
+| hình = 
+| ghi chú hình = 
+| vĩ độ = 21
+| kinh độ = 105
+| vĩ phút = 15
+| vĩ giây = 0
+| kinh phút = 13
+| kinh giây = 55
+| diện tích = 43,54 km²<ref name=MS/>
+| dân số = 15.281 người<ref name=MS/>
+| thời điểm dân số = 2025
+| mật độ dân số = {{formatnum:{{#expr:floor({{formatnum:15.281|R}}/{{formatnum:43,54|R}})}} }} người/km²
+| dân tộc = 
+| vùng = [[Đông Bắc Bộ]]
+| tỉnh = [[Phú Thọ]]
+| thành lập =30 tháng 3 năm 1985<ref>Quyết định số 91/HĐBT</ref> 
+| trụ sở UBND =Khu 3 (xã Thọ Văn cũ) 
+| mã hành chính = 08479<ref>{{Chú thích web |url=https://danhmuchanhchinh.gso.gov.vn/ |title=Tổng cục Thống kê |access-date=2022-03-24 |archive-date=2021-01-10 |archive-url=https://web.archive.org/web/20210110034519/https://www.gso.gov.vn/phuong-phap-thong-ke/danh-muc/don-vi-hanh-chinh/ |url-status=dead }}</ref>
+| mã bưu chính =35971 
+|web={{url|https://thovan.phutho.gov.vn/}}}}
+
+'''Thọ Văn''' là một [[Xã (Việt Nam)|xã]] thuộc tỉnh [[Phú Thọ]], [[Việt Nam]].
+
+== Địa lý ==
+Xã Thọ Văn nằm ở phía trung tâm tỉnh [[Phú Thọ]], có vị trí địa lý<ref>{{Chú thích web |title=Đơn vị hành chính Việt Nam |url=https://sapnhap.bando.com.vn/ |access-date=2026-07-05 |website=sapnhap.bando.com.vn}}</ref>:
+
+* Phía Bắc giáp xã [[Đồng Lương, Phú Thọ|Đồng Lương]] và xã [[Vạn Xuân, Phú Thọ|Vạn Xuân]].
+* Phía Nam giáp xã [[Thanh Sơn, Phú Thọ|Thanh Sơn]] và xã [[Đào Xá]].
+* Phía Tây giáp xã [[Minh Hòa]].
+* Phía Đông giáp xã [[Tam Hồng]].
+
+Xã có diện tích 43,54&nbsp;km², dân số năm 2025 là 15.281 người,<ref>{{Chú thích web |title=Xã Thọ Văn, Tỉnh Phú Thọ mới sáp nhập 2026 |url=https://tinhthanhvn.com/province/phu-tho/xa-tho-van |access-date=2026-07-05 |website=Tỉnh Thành Việt Nam |language=vi}}</ref> mật độ dân số đạt {{formatnum:{{#expr:floor({{formatnum:15.281|R}}/{{formatnum:43,54|R}})}} }} người/km².
+
+==Hành chính==
+Xã Thọ Văn được chia thành 25 khu: 1, 2, 3, 4, 5, 6, 7, 8 (xã Dị Nậu cũ), 1, 2, 3, 4, 5, 6, 7, 8, 9, (xã Tề Lễ cũ), 1, 2, 3, 4, 5, 6, 7, 9 (xã Thọ Văn cũ).<ref name=":1">{{Chú thích web |last=Bộ Dân tộc và Tôn giáo |date=2026-01-29 |title=Danh sách Thôn vùng đồng bào dân tộc thiểu số và miền núi, thôn đặc biệt khó khăn giai đoạn 2026 - 2030 trên địa bàn tỉnh Phú Thọ |url=http://files.ubdt.gov.vn/files/ecm/source_files/2026/02/05/11252411_4.%20Ph%C3%BA%20Th%E1%BB%8D%201%20(th%C3%B4n).signed_26-02-05.pdf |url-status=live |archive-url=https://web.archive.org/web/20260417090807/http://files.ubdt.gov.vn/files/ecm/source_files/2026/02/05/11252411_4.%20Ph%C3%BA%20Th%E1%BB%8D%201%20(th%C3%B4n).signed_26-02-05.pdf |archive-date=2026-04-17 |access-date=2026-04-17 |website=Cổng Thông tin điện tử Bộ Dân tộc và Tôn giáo}}</ref><ref>{{Chú thích web |last=Ủy ban nhân dân xã Thọ Văn |date=2026-02-02 |title=Thông báo số 40/TB-UBND về việc niêm yết danh sách cử tri bầu cử đại biểu Quốc hội khóa XVI và bầu cử đại biểu Hội đồng nhân dân các cấp, nhiệm kỳ 2026 - 2031 |url=https://web.facebook.com/story.php?story_fbid=122161681538924858&id=61577745756275&rdid=ZCgI00KN4NtIEryH# |url-status=live |archive-url=https://web.archive.org/web/20260425090807/https://web.facebook.com/story.php?story_fbid=122161681538924858&id=61577745756275&rdid=ZCgI00KN4NtIEryH# |archive-date=2026-04-25 |access-date=2026-04-25 |website=Xã Thọ Văn tỉnh Phú Thọ}}</ref>
+
+==Lịch sử==
+Trước kia, Thọ Văn là một xã thuộc huyện [[Tam Nông (huyện Phú Thọ)|Tam Nông]] cũ.
+
+Một phần xã Thọ Văn (tức khu vực xã Dị Nậu cũ) chỉ gồm một làng có trùng tên vào đầu thời [[nhà Nguyễn]] thuộc tổng Dị Nậu, huyện Tam Nông, phủ Lâm Thao, [[Sơn Tây trấn|trấn Sơn Tây]],<ref>Cuốn Tên làng xã Việt Nam đầu thế kỷ 19, trang 47 và trang 210</ref> sau được tách sang [[Hưng Hóa|tỉnh Hưng Hóa]], theo thời gian phát triển lên thành xã.
+
+Ngày [[27 tháng 6]] năm [[1977]], Bộ trưởng Phủ thủ tướng ban hành Quyết định số 134-BT về việc hợp nhất và điều chỉnh địa giới một số xã thuộc thành phố Việt Trì, huyện Tam Nông, tỉnh [[Vĩnh Phú (tỉnh)|Vĩnh Phú]]. Theo đó, sáp nhập thôn Thọ Sơn của xã Hương Nộn vào xã Dị Nậu.
+
+Ngày [[5 tháng 7]] năm [[1977]], [[Chính phủ Việt Nam|Hội đồng Chính phủ]] ban hành Quyết định số 178-CP. Theo đó, sáp nhập huyện Tam Nông với huyện [[Thanh Thủy (huyện)|Thanh Thủy]] thành huyện [[Tam Thanh (huyện)|Tam Thanh]].
+
+Ngày [[30 tháng 3]] năm [[1985]], Hội đồng Bộ trưởng ban hành Quyết định số 91/HĐBT<ref>{{Chú thích web |last=Cổng Thông tin điện tử Chính phủ |first= |title=Quyết định số 91/HĐBT của Hội đồng Bộ trưởng: Quyết định về việc thành lập xã Thọ Văn thuộc huyện Tam Thanh, tỉnh Vĩnh Phú |url=http://chinhphu.vn/default.aspx?pageid=27160&docid=6570 |access-date=2026-07-05 |website=chinhphu.vn |language=vi}}</ref> về việc về việc thành lập xã Thọ Văn thuộc huyện Tam Thanh, tỉnh Vĩnh Phú.
+
+Ngày [[6 tháng 11]] năm [[1996]], kỳ họp thứ 10 Quốc hội khóa IX ra Nghị quyết chia tỉnh Vĩnh Phú để tái lập tỉnh [[Phú Thọ]] và tỉnh [[Vĩnh Phúc (tỉnh)|Vĩnh Phúc]]. Xã Thọ Văn thuộc huyện Tam Thanh, tỉnh Phú Thọ.
+
+[[Tháng 4]] năm [[1997]], huyện Tam Thanh lại được tách trở lại thành hai huyện Tam Nông và Thanh Thủy. Xã Thọ Văn thuộc huyện Tam Nông, tỉnh Phú Thọ.
+
+Ngày [[16 tháng 6]] năm [[2025]]:
+
+* [[Quốc hội Việt Nam|Quốc hội]] ban hành Nghị quyết số 203/2025/QH15 về việc sửa đổi, bổ sung một số điều của Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam (nghị quyết có hiệu lực từ ngày [[16 tháng 6]] năm [[2025]]).<ref>{{Chú thích web|last=xaydungchinhsach.chinhphu.vn|date=2025-06-28|title=NGHỊ QUYẾT 203/2025/QH15 SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA HIẾN PHÁP NƯỚC CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM|url=https://xaydungchinhsach.chinhphu.vn/nghi-quyet-203-2025-qh15-sua-doi-bo-sung-mot-so-dieu-cua-hien-phap-nuoc-cong-hoa-xa-hoi-chu-nghia-viet-nam-119250616181735552.htm|url-status=live|archive-url=https://web.archive.org/web/20260715200606/https://xaydungchinhsach.chinhphu.vn/nghi-quyet-203-2025-qh15-sua-doi-bo-sung-mot-so-dieu-cua-hien-phap-nuoc-cong-hoa-xa-hoi-chu-nghia-viet-nam-119250616181735552.htm|archive-date=2026-07-15|access-date=2026-07-15|website=Báo Điện tử Chính phủ|language=vi}}</ref> Theo đó, kết thúc hoạt động của đơn vị hành chính cấp huyện trong cả nước từ ngày 1 tháng 7 năm 2025.
+
+* [[Ủy ban Thường vụ Quốc hội]] ban hành Nghị quyết số 1676/NQ-UBTVQH15 về việc sắp xếp đơn vị hành chính cấp xã của tỉnh [[Phú Thọ]] năm 2025 (nghị quyết có hiệu lực từ ngày [[16 tháng 6]] năm [[2025]]).<ref>{{Chú thích web|last=xaydungchinhsach.chinhphu.vn|date=2025-06-20|title=Nghị quyết số 1676/NQ-UBTVQH15 sắp xếp các ĐVHC cấp xã của tỉnh Phú Thọ năm 2025|url=https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-1676-nq-ubtvqh15-sap-xep-cac-dvhc-cap-xa-cua-tinh-phu-tho-nam-2025-119250616204317326.htm|url-status=live|archive-url=https://web.archive.org/web/20260725082021/https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-1676-nq-ubtvqh15-sap-xep-cac-dvhc-cap-xa-cua-tinh-phu-tho-nam-2025-119250616204317326.htm|archive-date=2026-07-25|access-date=2025-09-07|website=Báo Điện tử Chính phủ|language=vi}}</ref> Theo đó, sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của các xã Dị Nậu, Tề Lễ và Thọ Văn thành xã mới có tên gọi là '''xã Thọ Văn'''.<!-- == Vị trí ==
+Dị Nậu nằm ở phía Nam huyện Tam Nông, tọa độ địa lý khoảng 21<sup>o</sup>15' vĩ bắc và 105<sup>o</sup>15' kinh đông, bên cạnh đầm Dị Nậu (đầm Nậu), phía Tây Nam giáp xã [[Giáp Lai|Giáp Lai, Thanh Sơn]], [[Thanh Sơn (huyện)|huyện Thanh Sơn]], phía Đông Nam giáp xã [[Đào Xá]] huyện [[Thanh Thủy (huyện)|Thanh Thủy]]. Phía đông Dị Nậu giáp [[thành Hưng Hóa|thị trấn Hưng Hóa]], phía Bắc và Đông Bắc giáp xã Hương Nộn, phía Tây Bắc giáp xã Thọ Văn.
+
+== Lịch sử ==
+Xã Dị Nậu, tên nôm là kẻ Núc, chỉ gồm một làng có trùng tên vào đầu thời [[nhà Nguyễn]] thuộc tổng Dị Nậu huyện Tam Nông phủ Lâm Thao [[Sơn Tây trấn|trấn Sơn Tây]],<ref>Cuốn Tên làng xã Việt Nam đầu thế kỷ 19, trang 47 và trang 210</ref> sau được tách sang [[Hưng Hóa|tỉnh Hưng Hóa]], theo thời gian phát triển lên thành xã. Trước khi tách thành hai huyện Tam Nông và Thanh Thủy, thì Dị Nậu là một xã năm ở giữa huyện [[Tam Thanh, Vĩnh Phú|Tam Thanh]] tỉnh [[Vĩnh Phú (tỉnh)|Vĩnh Phú]].
+
+== Điều kiện tự nhiên ==
+ 
+Diện tích của xã, theo số liệu thống kê từ thập kỷ 1970 là 1444 [[hecta|ha]]. Năm 1974 theo chủ trương của huyện, xã Dị Nậu được quy hoạch thành vùng trồng sơn và cây công nghiệp, vì thế một số ruộng đất đã được nhượng bớt cho các xã Hương Nộn, Thọ văn, Hưng Hoá, Đào xá nên đến nay (2005) diện tích tự nhiên của xã chỉ còn 1242 ha (12,42&nbsp;km²).
+
+Dân số của Dị Nậu tính đến đầu năm 2005 là 4552 người với 978 hộ gia đình sống trên 8 khu dân cư.
+
+Dị Nậu là một miền đất cổ, là địa vực hoạt động của các tướng lĩnh thời Hùng Vương dựng nước. Theo Thần tích (Ngọc Phả) mang ký hiệu AEa9/32 còn lưu trữ được ở "Viện nghiên cứu Hán Nôm tại Hà Nội " thì khi các Đức Ngài Tản Viên, Cao Sơn, Quý Minh, Hiếu Lang đời vua Hùng Duệ Vương trên đường đi dẹp giặc Thục Phán đã đến trang Dị Nậu hạ trại (2), dựng phủ đường trên đỉnh gò Trạm Lĩnh và 4 lầu cho quân sĩ đồn trú mà sau này các nơi đó được xây dựng đền Thượng (đền Quốc tế) và 4 ngôi điện: Điện Đông, Điện Tây, Điện Nam, Điện Bắc vào năm 258 TCN. Ngay thời kỳ đó, các Đức Ngài đã dạy dân cày cấy, chăn nuôi và các nghề thủ công. Như vậy xã Dị Nậu đã được các bậc tiền bối đến đây khai thiên lập địa, lập nên làng xã trước năm 258 TCN rất nhiều.
+
+Dựa vào bản Thần tích còn lưu giữ được, thì một trong những bộ lạc người Việt cổ đầu tiên thời Hùng Vương đến đây khai thiên, phá thạch lập nên trang, ấp rồi có làng Dị Nậu từ đời vua Hùng thứ 6, khi Đức Thánh Gióng đại vương đem quân đi đánh giặc Ân. Nếu lấy mốc từ thời gian đó làm chuẩn thì Dị Nậu đã có cách đây khoảng 3600 năm. Con số đó nói lên rằng, nơi đây là một làng Việt cổ mà mọi người dân chúng ta đều có quyền tự hào về lịch sử hào hùng và tuổi thọ đáng trân trọng của nó.
+
+Lúc đầu đến đây sinh cơ lập nghiệp chỉ có 258 suất đinh, hầu hết là dân tộc Việt (dân tộc Kinh) và họ rất tôn kính Đạo Phật. Nghề chính của dân bản địa là cấy lúa, trồng cọ, trồng sơn, trồng sắn, trồng chè, chăn nuôi và săn bắn. Những hộ sống bằng nghề buôn bán hoặc các nghề phi nông nghiệp rất ít. Một số gia đình ngoài làm ruộng, nương còn có nghề phụ: Đánh cá, làm nghề mộc, nề, đan lát, ép dầu dọc, dầu sở...
+
+Mười hai dòng họ đầu tiên đến lập nghiệp ở Dị Nậu là: Họ Tạ, họ Nguyễn, họ Đinh, họ Đặng, họ Trần, họ Lê, họ Hán, họ Ngô, họ Phạm, họ Vũ, họ Đỗ và họ Phan. Sau này xuất hiện thêm một số họ mới đến ngụ cư như họ Hạ, họ Hoàng...
+
+Về tổ chức hành chính, lúc đầu xã Dị Nậu được chia làm chín chòm và bốn giáp. Đó là chòm Chua, chòm Hạ, chòm Vắp, chòm Vồi, chòm Đông, chòm Nam, chòm Dộc, chòm Trưởng, chòm Trên, về sau này có thêm chòm Chò; bốn giáp là: giáp Đông, giáp Tây, giáp Nam, giáp Bắc. Nguyên nhân về sự ra đời thêm Chòm Chò, xin tóm tắt như sau: Giữa mùa nước to vào đầu thế kỷ XX, hội đồng kỳ mục của xã đang bàn việc công ở Chòm Hạ thì có cụ Bùi Bằng Đoàn vào thăm làng Dị Nậu. Cụ Bùi Bằng Đoàn lúc đó giữ chức bang tá và chuẩn bị nhậm chức chi huyện Tam Nông do triều đình cử về. Nhân lúc hội đồng kỳ mục nghỉ giải lao, cụ Tạ Diên Lương (bố cụ Tạ Diên Lượng) chỉ tay ra đồng nước trắng mênh mông, rồi hướng ngón tay về đỉnh Gò Chò, nói với cụ Đoàn rằng, thưa cụ – các hộ dân ở Chòm Hạ và Chòm Vồi cứ về mùa nước là bị lụt lội, cuộc sống khó khăn lắm nên xin cụ duyệt y để dân được khai phá rừng cấm Gò Chò để dân làm nơi định cư cho cuộc sống được ổn định lâu dài. ý kiến của cụ Tạ Diên Lương nghe thật thấu tình đạt lý, trên hợp ý quan, dưới được lòng dân nên được cụ Đoàn phê duyệt. Thế là từ đó làng Dị Nậu có thêm Chòm Chò để nhân dân đến sinh sống ở đó.
+
+Trước cách mạng tháng 8-1945, khu dân cư xã Dị Nậu chỉ sống quây quần từ chòm Hạ tới Cổng Tây. Con đường chính của làng khi đó kéo dài từ Đình Chua đi lên dốc Đình Vắp, qua dốc Lênh Chênh để đi ra Cổng Tây. Gò Lương Vương ở phía bắc của xã trước đây như một ốc đảo, đi lại rất khó khăn. Về phía nam, từ Cổng Tây trở đi còn là những khu rừng rất rậm rạp, nên ở đó có chiếc cổng làng rất kiên cố.
+Ban đầu, xã có mười hai dòng họ và chín chòm nên người dân ở đây từ xưa đã có câu ca: "chín chòm, mười hai nhân ngãi " để chỉ mối quan hệ tình cảm gắn bó, thân thiết giữa các dòng họ và các khu dân cư trong cùng cộng đồng làng xã.
+
+Ngày ngày 22 tháng 5 năm 2012, tại xã Dị Nậu, huyện Tam Nông, đại diện lãnh đạo Trung ương Hội bảo vệ thiên nhiên và môi trường Việt Nam đã công bố Quyết định số 170 và 171QĐ-HMtg công nhận cây thị ngàn năm tuổi và 7 cây hoa đại ở xã Dị Nậu là cây di sản Việt Nam. Cây thị ngàn năm tuổi trồng trước miếu thờ Đức Thánh Tản Viên, từ thời Đinh Bộ Lĩnh (970-979), gốc cây có chu vi 7,6m, thân cây to khoảng 6 người ôm, cao 19m, dáng dấp cổ kính nhưng đầy sức sống, cành lá xum xuê, hàng năm vẫn trổ hoa kết trái. 7 cây hoa đại trồng trước chùa Thiên Sinh Bà Nhan có trên 700 tuổi, quanh năm cành lá xanh tươi, hoa thơm ngào ngạt tôn thêm phong cảnh linh thiêng của ngôi chùa cổ kính.
+
+Việc công nhận cây thị ngàn năm tuổi và 7 cây hoa đại ở xã Dị Nậu là cây di sản Việt Nam đã khẳng định sức sống trường tồn của một làng Việt cổ, qua đó nêu cao tinh thần văn hoá và trách nhiệm của mỗi người dân nhằm bảo tồn, phát huy những giá trị văn hoá mà cha ông ta đã gây dựng nên.
+
+== Liên kết ngoài ==
+* [http://qdnd.vn/qdndsite/vi-vn/91/68/74/74/74/144293/Default.aspx Đền Quốc tế ở Tam Nông]{{Liên kết hỏng|date = ngày 7 tháng 3 năm 2021 |bot=InternetArchiveBot }}, ''Quân đội Nhân dân''
+* [http://baophutho.vn/van-hoa/201205/Cay-thi-ngan-nam-tuoi-va-7-cay-hoa-dai-o-xa-di-Nau-duoc-cong-nhan-la-cay-di-san-Viet-Nam-2168981/ Cây thị ngàn năm tuổi và 7 cây hoa đại ở xã Dị Nậu được công nhận là cây di sản Việt Nam] {{Webarchive|url=https://web.archive.org/web/20141205050110/http://baophutho.vn/van-hoa/201205/Cay-thi-ngan-nam-tuoi-va-7-cay-hoa-dai-o-xa-di-Nau-duoc-cong-nhan-la-cay-di-san-Viet-Nam-2168981/ |date=2014-12-05 }}, ''Báo Phú Thọ''. -->
+
+==Chú thích==
+{{tham khảo|30em}}
+
+== Tham khảo ==
+{{sơ khai Phú Thọ}}
+{{Đơn vị hành chính thuộc tỉnh Phú Thọ}}

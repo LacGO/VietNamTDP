@@ -1,0 +1,196 @@
+{
+  "ward_code": "07999",
+  "ward_name": "Chí Đám",
+  "province_code": "25",
+  "resolution": "",
+  "arrangement": "truoc_2026_07",
+  "effective_date": "",
+  "verified": "unverified",
+  "extraction": {
+    "source": "vi.wikipedia.org",
+    "title": "Chí Đám",
+    "mode": "narrative"
+  },
+  "sources": [
+    {
+      "key": "wiki-07999-1",
+      "title": "Danh sách Khu vực bỏ phiếu bầu cử đại biểu Quốc hội khoá XVI và đại biểu Hội đồng nhân dân các cấp nhiệm kỳ 2026 - 2031",
+      "url": "https://chidam.phutho.gov.vn/phocadownload/13.01.26.QD%20phan%20chia%20khu%20vuc%20bo%20phieu.signed.pdf",
+      "date": "2026-01-15",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-07999-2",
+      "title": "Danh sách Thôn vùng đồng bào dân tộc thiểu số và miền núi, thôn đặc biệt khó khăn giai đoạn 2026 - 2030 trên địa bàn tỉnh Phú Thọ",
+      "url": "http://files.ubdt.gov.vn/files/ecm/source_files/2026/02/05/11252411_4.%20Ph%C3%BA%20Th%E1%BB%8D%201%20(th%C3%B4n).signed_26-02-05.pdf",
+      "date": "2026-01-29",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-07999-3",
+      "title": "NGHỊ QUYẾT 203/2025/QH15 SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA HIẾN PHÁP NƯỚC CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM",
+      "url": "https://xaydungchinhsach.chinhphu.vn/nghi-quyet-203-2025-qh15-sua-doi-bo-sung-mot-so-dieu-cua-hien-phap-nuoc-cong-hoa-xa-hoi-chu-nghia-viet-nam-119250616181735552.htm",
+      "date": "2025-06-28",
+      "type": "wikipedia-ref"
+    }
+  ],
+  "note": "Trích tự động từ Wikipedia tiếng Việt (mode=narrative). Cần đối chiếu nghị quyết HĐND phường/xã. ⚠️ Danh mục có thể là hiện trạng TRƯỚC sắp xếp thôn/TDP 01/7/2026 — Wikipedia chưa cập nhật nghị quyết mới.",
+  "tdp": [
+    {
+      "name": "Ánh Hồng",
+      "type": "khu"
+    },
+    {
+      "name": "Bình Minh",
+      "type": "khu"
+    },
+    {
+      "name": "Cáo Sóc",
+      "type": "khu"
+    },
+    {
+      "name": "Chí",
+      "type": "khu"
+    },
+    {
+      "name": "Đám 1",
+      "type": "khu"
+    },
+    {
+      "name": "Đám 2",
+      "type": "khu"
+    },
+    {
+      "name": "Đòan Kết",
+      "type": "khu"
+    },
+    {
+      "name": "Đông Dương",
+      "type": "khu"
+    },
+    {
+      "name": "Đông Tiến",
+      "type": "khu"
+    },
+    {
+      "name": "Đông Tiệm",
+      "type": "khu"
+    },
+    {
+      "name": "Đồng Mầu",
+      "type": "khu"
+    },
+    {
+      "name": "Gò Măng",
+      "type": "khu"
+    },
+    {
+      "name": "Hồng Minh",
+      "type": "khu"
+    },
+    {
+      "name": "Hùng Quan",
+      "type": "khu"
+    },
+    {
+      "name": "Lã Hòang 1",
+      "type": "khu"
+    },
+    {
+      "name": "Lã Hòang 2",
+      "type": "khu"
+    },
+    {
+      "name": "Lạp Xuyên",
+      "type": "khu"
+    },
+    {
+      "name": "Liên Phú",
+      "type": "khu"
+    },
+    {
+      "name": "Minh Giang",
+      "type": "khu"
+    },
+    {
+      "name": "Minh Giang Sơn",
+      "type": "khu"
+    },
+    {
+      "name": "Nam Đẩu",
+      "type": "khu"
+    },
+    {
+      "name": "Nghinh Lạp",
+      "type": "khu"
+    },
+    {
+      "name": "Ngọc Chúc 1",
+      "type": "khu"
+    },
+    {
+      "name": "Ngọc Chúc 2",
+      "type": "khu"
+    },
+    {
+      "name": "Ngọc Chúc 3",
+      "type": "khu"
+    },
+    {
+      "name": "Nhà Hóp",
+      "type": "khu"
+    },
+    {
+      "name": "Phượng Hùng 1",
+      "type": "khu"
+    },
+    {
+      "name": "Phượng Hùng 2",
+      "type": "khu"
+    },
+    {
+      "name": "Song Phượng 1",
+      "type": "khu"
+    },
+    {
+      "name": "Song Phượng 2",
+      "type": "khu"
+    },
+    {
+      "name": "Tân Lập",
+      "type": "khu"
+    },
+    {
+      "name": "Tân Minh",
+      "type": "khu"
+    },
+    {
+      "name": "Tân Thành",
+      "type": "khu"
+    },
+    {
+      "name": "Thượng Khê",
+      "type": "khu"
+    },
+    {
+      "name": "Vân Tiến 1",
+      "type": "khu"
+    },
+    {
+      "name": "Vân Tiến 2",
+      "type": "khu"
+    },
+    {
+      "name": "Vân Tiến 3",
+      "type": "khu"
+    },
+    {
+      "name": "Vĩnh Lại",
+      "type": "khu"
+    },
+    {
+      "name": "Xuân Áng",
+      "type": "khu"
+    }
+  ]
+}

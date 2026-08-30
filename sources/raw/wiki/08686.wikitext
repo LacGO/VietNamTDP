@@ -1,0 +1,70 @@
+{{Thông tin đơn vị hành chính Việt Nam|xã
+| tên = Tu Vũ
+| hình =L.Girod-Dix Ans de Haut-Tonkin-1899-église de Hoàng-Xà.jpg 
+| ghi chú hình =Nhà thờ cổ Hoàng Xá 
+| vĩ độ = 21.084068417940227
+| kinh độ = 105.29946859366841
+| diện tích = 49,07 km²
+| dân số = 41.564 người
+| thời điểm dân số = 2025
+| mật độ dân số = {{formatnum:{{#expr:floor({{formatnum:41.564| R}}/{{formatnum:49,07| R}})}} }} người/km²
+| vùng = [[Đông Bắc Bộ]]
+| tỉnh = [[Phú Thọ]]
+| thành lập =16 tháng 6 năm 2025<ref>Nghị quyết số 1676/NQ-UBTVQH15</ref> 
+| trụ sở UBND = Khu 10 Đồng Trung
+| mã hành chính = 08686<ref>{{Chú thích web |url=https://danhmuchanhchinh.gso.gov.vn/ |title=Tổng cục Thống kê |access-date=2022-04-09 |archive-date=2021-01-10 |archive-url=https://web.archive.org/web/20210110034519/https://www.gso.gov.vn/phuong-phap-thong-ke/danh-muc/don-vi-hanh-chinh/ |url-status=dead }}</ref>
+| mã bưu chính =35867 
+|web={{url|tuvu.phutho.gov.vn}}
+}}
+{{other|Tu Vũ (định hướng)}}
+'''Tu Vũ''' là một [[Xã (Việt Nam)|xã]] thuộc tỉnh [[Phú Thọ]], [[Việt Nam]].
+
+Vào năm [[1952]], nơi đây đã xảy ra [[Trận Tu Vũ (1952)|Trận Tu Vũ]] trong [[Chiến tranh Đông Dương]].<ref>{{Chú thích web |title=Trận đột phá cứ điểm Tu Vũ |url=https://www.qdnd.vn/quoc-phong-an-ninh/xay-dung-quan-doi/tran-dot-pha-cu-diem-tu-vu-440789 |access-date=2026-07-14 |website=https://www.qdnd.vn |language=vi}}</ref>
+
+==Địa lý==
+Xã Tu Vũ nằm ở phía đông tỉnh [[Phú Thọ]], có vị trí địa lý<ref>{{Chú thích web |title=Đơn vị hành chính Việt Nam |url=https://sapnhap.bando.com.vn/ |access-date=2026-07-14 |website=sapnhap.bando.com.vn}}</ref>:
+*Phía đông giáp xã [[Bất Bạt]] và xã [[Ba Vì, Hà Nội|Ba Vì]], thành phố [[Hà Nội]] với ranh giới là [[sông Đà]].
+*Phía tây giáp xã [[Cự Đồng]] và xã [[Hương Cần]].
+*Phía nam giáp xã [[Yên Sơn, Phú Thọ|Yên Sơn]]
+*Phía bắc giáp xã [[Thanh Thủy, Phú Thọ|Thanh Thủy]].
+
+Xã Tu Vũ có diện tích 49,07&nbsp;km², dân số năm 2025 là 41.564 người, mật độ dân số đạt 847 người/km².<ref>{{Chú thích web |title=Xã Tu Vũ, Tỉnh Phú Thọ mới sáp nhập 2026 |url=https://tinhthanhvn.com/province/phu-tho/xa-tu-vu |access-date=2026-07-14 |website=Tỉnh Thành Việt Nam |language=vi}}</ref>
+
+==Hành chính==
+Xã Tu Vũ được chia thành 57 khu: 1 Đồng Trung, 2 Đồng Trung, 3 Đồng Trung, 4 Đồng Trung, 5 Đồng Trung, 6 Đồng Trung, 7 Đồng Trung, 8 Đồng Trung, 9 Đồng Trung, 10 Đồng Trung, 11 Đồng Trung, 12 Đồng Trung, 13 Đồng Trung, 14 Đồng Trung, 15 Đồng Trung, 16 Đồng Trung, 1 Hoàng Xá, 2 Hoàng Xá, 3 Hoàng Xá, 4 Hoàng Xá, 5 Hoàng Xá, 6 Hoàng Xá, 7 Hoàng Xá, 8 Hoàng Xá, 9 Hoàng Xá, 10 Hoàng Xá, 11 Hoàng Xá, 12 Hoàng Xá, 13 Hoàng Xá, 14 Hoàng Xá, 15 Hoàng Xá, 16 Hoàng Xá, 17 Hoàng Xá, 18 Hoàng Xá, 19 Hoàng Xá, 20 Hoàng Xá, 21 Hoàng Xá, 22 Hoàng Xá, 1 Tu Vũ, 2 Tu Vũ, 3 Tu Vũ, 4 Tu Vũ, 5 Tu Vũ, 6 Tu Vũ, 7 Tu Vũ, 8 Tu Vũ, 9 Tu Vũ, 10 Tu Vũ, 11 Tu Vũ, 12 Tu Vũ, 13 Tu Vũ, 14 Tu Vũ, 15 Tu Vũ, 16 Tu Vũ, 17 Tu Vũ, 18 Tu Vũ, 19 Tu Vũ.<ref name=":1">{{Chú thích web |last=Bộ Dân tộc và Tôn giáo |date=2026-01-29 |title=Danh sách Thôn vùng đồng bào dân tộc thiểu số và miền núi, thôn đặc biệt khó khăn giai đoạn 2026 - 2030 trên địa bàn tỉnh Phú Thọ |url=http://files.ubdt.gov.vn/files/ecm/source_files/2026/02/05/11252411_4.%20Ph%C3%BA%20Th%E1%BB%8D%201%20(th%C3%B4n).signed_26-02-05.pdf |url-status=live |archive-url=https://web.archive.org/web/20260417090807/http://files.ubdt.gov.vn/files/ecm/source_files/2026/02/05/11252411_4.%20Ph%C3%BA%20Th%E1%BB%8D%201%20(th%C3%B4n).signed_26-02-05.pdf |archive-date=2026-04-17 |access-date=2026-04-17 |website=Cổng Thông tin điện tử Bộ Dân tộc và Tôn giáo}}</ref><ref>{{Chú thích web |last=Ủy ban nhân dân xã Tu Vũ |date=2026-03-05 |title=Thông báo số 143/TB-UBND về Ngày bầu cử, địa điểm bỏ phiếu, thời gian bỏ phiếu bầu cử đại biểu Quốc hội khóa XVI và đại biểu Hội đồng nhân dân các cấp nhiệm kỳ 2026 - 2031 trên địa bàn xã Tu Vũ |url=https://web.facebook.com/story.php?story_fbid=122095563261071993&id=61582159799149&rdid=t7QeGiCerFRAgXoJ# |url-status=live |archive-url=https://web.archive.org/web/20260426090807/https://web.facebook.com/story.php?story_fbid=122095563261071993&id=61582159799149&rdid=t7QeGiCerFRAgXoJ# |archive-date=2026-04-26 |access-date=2026-04-26 |website=Xã Tu Vũ - Tỉnh Phú Thọ}}</ref>
+
+==Lịch sử==
+Địa bàn xã Tu Vũ hiện nay trước đây vốn là ba xã: Đồng Trung, Hoàng Xá, Tu Vũ thuộc huyện [[Thanh Thủy (huyện)|Thanh Thủy]] cũ.
+
+Đến năm [[2018]]:
+
+* Xã Tu Vũ có diện tích 4,82&nbsp;km², dân số là 2.540 người, mật độ dân số đạt 527 người/km².
+* Xã Phượng Mao có diện tích 7,75&nbsp;km², dân số là 3.073 người, mật độ dân số đạt 397 người/km².
+* Xã Yến Mao có diện tích 12,95&nbsp;km², dân số là 4.192 người, mật độ dân số đạt 324 người/km².
+* Xã Đồng Luận có diện tích 6,65&nbsp;km², dân số là 5.275 người, mật độ dân số đạt 793 người/km².
+* Xã Trung Nghĩa có diện tích 7,53&nbsp;km², dân số là 3.593 người, mật độ dân số đạt 477 người/km², gồm 7 khu: 1 (thôn Đồi Chè), 2 (thôn Đình), 3 (thôn Chùa), 4 (thôn Việt Hùng), 5 (thôn Lang Vân), 6 (thôn Lang Xương), 7 (thôn Trại Chùa).
+* Xã Trung Thịnh có diện tích 2,39&nbsp;km², dân số là 2.305 người, mật độ dân số đạt 964 người/km².
+
+Ngày [[17 tháng 12]] năm [[2019]], [[Ủy ban Thường vụ Quốc hội]] ban hành Nghị quyết 828/NQ-UBTVQH14 về việc sắp xếp các đơn vị hành chính cấp xã thuộc tỉnh Phú Thọ (nghị quyết có hiệu lực từ ngày [[1 tháng 1]] năm [[2020]]).<ref name="NQ828">{{Chú thích web|url=https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Nghi-quyet-828-NQ-UBTVQH14-2019-sap-xep-don-vi-hanh-chinh-cap-xa-thuoc-tinh-Phu-Tho-432098.aspx|tựa đề=Nghị quyết số 828/NQ-UBTVQH14 năm 2019 về việc sắp xếp các đơn vị hành chính cấp xã thuộc tỉnh Phú Thọ|tác giả=|họ=|tên=|ngày=|website=|url lưu trữ=|ngày lưu trữ=|ngày truy cập=}}</ref> Theo đó:
+
+* Sáp nhập toàn bộ diện tích và dân số của hai xã Phượng Mao và Yến Mao vào xã Tu Vũ.
+* Sáp nhập toàn bộ diện tích và dân số của ba xã Đồng Luận, Trung Nghĩa và Trung Thịnh thành xã Đồng Trung.
+Ngày [[16 tháng 6]] năm [[2025]]:
+
+* [[Quốc hội Việt Nam|Quốc hội]] ban hành Nghị quyết số 203/2025/QH15 về việc sửa đổi, bổ sung một số điều của Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam (nghị quyết có hiệu lực từ ngày [[16 tháng 6]] năm [[2025]]).<ref>{{Chú thích web|last=xaydungchinhsach.chinhphu.vn|date=2025-06-28|title=NGHỊ QUYẾT 203/2025/QH15 SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA HIẾN PHÁP NƯỚC CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM|url=https://xaydungchinhsach.chinhphu.vn/nghi-quyet-203-2025-qh15-sua-doi-bo-sung-mot-so-dieu-cua-hien-phap-nuoc-cong-hoa-xa-hoi-chu-nghia-viet-nam-119250616181735552.htm|url-status=live|archive-url=https://web.archive.org/web/20260715200606/https://xaydungchinhsach.chinhphu.vn/nghi-quyet-203-2025-qh15-sua-doi-bo-sung-mot-so-dieu-cua-hien-phap-nuoc-cong-hoa-xa-hoi-chu-nghia-viet-nam-119250616181735552.htm|archive-date=2026-07-15|access-date=2026-07-15|website=Báo Điện tử Chính phủ|language=vi}}</ref> Theo đó, kết thúc hoạt động của đơn vị hành chính cấp huyện trong cả nước từ ngày 1 tháng 7 năm 2025.
+
+* Ủy ban Thường vụ Quốc hội ban hành Nghị quyết số 1676/NQ-UBTVQH15 về việc sắp xếp đơn vị hành chính cấp xã của tỉnh [[Phú Thọ]] năm 2025 (nghị quyết có hiệu lực từ ngày [[16 tháng 6]] năm [[2025]]).<ref>{{Chú thích web|last=xaydungchinhsach.chinhphu.vn|date=2025-06-20|title=Nghị quyết số 1676/NQ-UBTVQH15 sắp xếp các ĐVHC cấp xã của tỉnh Phú Thọ năm 2025|url=https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-1676-nq-ubtvqh15-sap-xep-cac-dvhc-cap-xa-cua-tinh-phu-tho-nam-2025-119250616204317326.htm|url-status=live|archive-url=https://web.archive.org/web/20260725082021/https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-1676-nq-ubtvqh15-sap-xep-cac-dvhc-cap-xa-cua-tinh-phu-tho-nam-2025-119250616204317326.htm|archive-date=2026-07-25|access-date=2026-07-25|website=Báo Điện tử Chính phủ|language=vi}}</ref> Theo đó, sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của các xã Đồng Trung, Hoàng Xá và Tu Vũ thành xã mới có tên gọi là '''xã Tu Vũ'''.
+<!-- 
+==Lịch sử==
+Địa bàn xã Đồng Trung hiện nay trước đây vốn là ba xã: Đồng Luận, Trung Nghĩa, Trung Thịnh.
+
+Trước khi sáp nhập, xã Đồng Luận có diện tích 6,65&nbsp;km², dân số là 5.275 người, mật độ dân số đạt 793 người/km². Xã Trung Nghĩa có diện tích 7,53&nbsp;km², dân số là 3.593 người, mật độ dân số đạt 477 người/km², gồm 7 khu: 1 (thôn Đồi Chè), 2 (thôn Đình), 3 (thôn Chùa), 4 (thôn Việt Hùng), 5 (thôn Lang Vân), 6 (thôn Lang Xương), 7 (thôn Trại Chùa). Xã Trung Thịnh có diện tích 2,39&nbsp;km², dân số là 2.305 người, mật độ dân số đạt 964 người/km².
+
+Ngày [[17 tháng 12]] năm [[2019]], Ủy ban Thường vụ Quốc hội ban hành Nghị quyết 828/NQ-UBTVQH14 về việc sắp xếp các đơn vị hành chính cấp xã thuộc tỉnh Phú Thọ (nghị quyết có hiệu lực từ ngày [[1 tháng 1]] năm [[2020]]).<ref name=NQ828>{{Chú thích web|url=https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Nghi-quyet-828-NQ-UBTVQH14-2019-sap-xep-don-vi-hanh-chinh-cap-xa-thuoc-tinh-Phu-Tho-432098.aspx|tựa đề=Nghị quyết số 828/NQ-UBTVQH14 năm 2019 về việc sắp xếp các đơn vị hành chính cấp xã thuộc tỉnh Phú Thọ|tác giả=|họ=|tên=|ngày=|website=|url lưu trữ=|ngày lưu trữ=|ngày truy cập=}}</ref> Theo đó, sáp nhập toàn bộ diện tích và dân số của ba xã Đồng Luận, Trung Nghĩa và Trung Thịnh thành xã Đồng Trung.
+ -->
+
+==Chú thích==
+{{tham khảo}}
+==Tham khảo==
+{{sơ khai Phú Thọ}}
+{{Đơn vị hành chính thuộc tỉnh Phú Thọ}}

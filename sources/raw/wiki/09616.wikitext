@@ -1,0 +1,121 @@
+'''Đoài Phương''' là một [[Xã (Việt Nam)|xã]] thuộc thành phố [[Hà Nội]], [[Việt Nam]]. 
+
+{{Thông tin đơn vị hành chính Việt Nam|Xã|tên=Đoài Phương|hình=Kiến trúc của người Khơ-me (kiến trúc Miên) ở Làng Văn hóa các dân tộc Việt Nam tại Sơn Tây (2026).jpg|ghi chú hình=[[Làng Văn hóa – Du lịch các dân tộc Việt Nam]]|vùng=[[Đồng bằng sông Hồng]]|thành phố=[[Hà Nội]]|trụ sở UBND=Thôn Phúc Lộc<ref>{{Chú thích web |url=https://storage-vnportal.vnpt.vn/gov-hni/6244/VanBan/2025/6/25/TB-729-2025.pdf |title=Thông báo số 729/TB-UBND ngày 25 tháng 6 năm 2025 của Ủy ban nhân dân thành phố Hà Nội về địa điểm trụ sở làm việc của 126 phường, xã sau sắp xếp thuộc phạm vi quản lý của thành phố Hà Nội|access-date=2026-06-15 |archive-date=2026-06-15 |archive-url=https://web.archive.org/web/20260615034519/https://storage-vnportal.vnpt.vn/gov-hni/6244/VanBan/2025/6/25/TB-729-2025.pdf |url-status=dead | website = Cổng Thông tin điện tử Ủy ban nhân dân thành phố Hà Nội}}</ref>|vĩ độ=21.068277014574807|kinh độ=105.51703959997344|bản đồ 1={{maplink|frame=yes|plain=yes|type=shape|frame-width=280|frame-align=center|stroke-width=3}}|diện tích=57,1 km²|thời điểm dân số=2025|dân số=39.828 người|mật độ dân số={{formatnum:{{#expr:floor({{formatnum:39.828| R}}/{{formatnum:57,1| R}})}} }} người/km²|mã hành chính=09616<ref>{{Chú thích web |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/19ttg.signed.pdf |title=Quyết định số 19/2025/QĐ-TTg ngày 30 tháng 6 năm 2025 của Thủ tướng Chính phủ về việc Ban hành Bảng danh mục và mã số các đơn vị hành chính Việt Nam |access-date=2026-06-15 |archive-date=2026-06-15 |archive-url=https://web.archive.org/web/20260615034519/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/19ttg.signed.pdf |url-status=dead | website = Cổng Thông tin điện tử Chính phủ}}</ref>|web={{url|doaiphuong.hanoi.gov.vn}}|loại đô thị=|trụ sở Đảng ủy=306 tỉnh lộ 416, thôn Kim Tân}}
+
+== Địa lý== 
+Xã Đoài Phương có vị trí địa lý:
+* Phía đông giáp xã [[Thạch Thất (xã)|Thạch Thất]] và xã [[Hạ Bằng]]
+* Phía tây giáp xã [[Yên Bài]]
+* Phía nam giáp xã [[Hòa Lạc, Hà Nội|Hòa Lạc]]
+* Phía bắc giáp phường [[Tùng Thiện]] và xã [[Phúc Thọ (xã)|Phúc Thọ]].<ref>{{Chú thích web |last=Viện nghiên cứu Phát triển kinh tế – xã hội Hà Nội |date=2025-07-02 |title=Xã Đoài Phương: Những thông tin chi tiết sau sắp xếp |url=https://hanoionline.vn/xa-doai-phuong-nhung-thong-tin-chi-tiet-sau-sap-xep-344056.htm |url-status=live |archive-url=https://web.archive.org/web/20260711400809/https://hanoionline.vn/xa-doai-phuong-nhung-thong-tin-chi-tiet-sau-sap-xep-344056.htm |archive-date=2026-07-11 |access-date=2026-07-11 |website=Cơ quan Báo và Phát thanh Truyền hình Hà Nội}}</ref><ref>{{Chú thích web |last=Cơ quan Báo và Phát thanh Truyền hình Hà Nội |date=2025-07-07 |title=Xã Đoài Phương: Tất cả thông tin chỉ dẫn bạn cần biết |url=https://hanoionline.vn/xa-doai-phuong-tat-ca-thong-tin-chi-dan-ban-can-biet-345205.htm |url-status=live |archive-url=https://web.archive.org/web/20260711401509/https://hanoionline.vn/xa-doai-phuong-tat-ca-thong-tin-chi-dan-ban-can-biet-345205.htm |archive-date=2026-07-11 |access-date=2026-07-11}}</ref>
+Xã Đoài Phương có diện tích tự nhiên là 57,1 km<sup>2</sup>, quy mô dân số năm 2025 là 39.828 người và mật độ dân số đạt 697 người/km<sup>2</sup>.<ref>{{Chú thích web |last=Mai Hữu |date=2026-04-05 |title=Hà Nội: Chi tiết phương án tổng thể sắp xếp đơn vị hành chính cấp xã |url=https://hanoimoi.vn/ha-noi-chi-tiet-phuong-an-tong-the-sap-xep-don-vi-hanh-chinh-cap-xa-700278.html |url-status=live |archive-url=https://web.archive.org/web/20260711401509/https://hanoimoi.vn/ha-noi-chi-tiet-phuong-an-tong-the-sap-xep-don-vi-hanh-chinh-cap-xa-700278.html |archive-date=2026-07-11 |access-date=2026-07-11 |website=Cơ quan Báo và Phát thanh, truyền hình Hà Nội}}</ref><ref>Công văn số 2896/BNV-CQĐP ngày 27 tháng 5 năm 2025 của Bộ Nội vụ về việc cung cấp thông tin danh mục dự kiến đơn vị hành chính cấp xã mới.</ref>
+
+Đoài Phương là một xã vùng bán sơn địa. Trên địa bàn xã có [[hồ Đồng Mô]] là hồ chứa thủy lợi lớn nhất của thành phố Hà Nội với sức chứa 61,9 triệu m<sup>3</sup> và diện tích khoảng 1.400 ha.<ref>{{Chú thích web| url = https://sonnptnt.hanoi.gov.vn/cat166/11586/Rao-riet-bao-dam-an-toan-ho-dap-thuy-loi-mua-mua-lu| tựa đề = Ráo riết bảo đảm an toàn hồ, đập thủy lợi mùa mưa lũ| website = | url lưu trữ = https://web.archive.org/web/20210725130211/https://sonnptnt.hanoi.gov.vn/cat166/11586/Rao-riet-bao-dam-an-toan-ho-dap-thuy-loi-mua-mua-lu| ngày lưu trữ = 2021-07-25| url-status = live|date=2021|access-date=2021-07-25|last=Sở Nông nghiệp và Phát triển Nông thôn thành phố Hà Nội}}</ref><ref>{{Chú thích web| url = https://sonnptnt.hanoi.gov.vn/cat198/3876/BUOC-DAU-DANH-GIA-NGUON-LOI-THUY-SAN--TAI-HO-DONG-MO-THI-XA-SON-TAY-THANH-PHO-HA-NOI| tựa đề = Bước đầu đánh giá nguồn lợi thủy sản tại hồ Đồng Mô| tác giả = Chu Đức Hiếu| website = Sở Nông nghiệp và Phát triển Nông thôn thành phố Hà Nội| url lưu trữ = https://web.archive.org/web/20220720040644/https://sonnptnt.hanoi.gov.vn/cat198/3876/BUOC-DAU-DANH-GIA-NGUON-LOI-THUY-SAN--TAI-HO-DONG-MO-THI-XA-SON-TAY-THANH-PHO-HA-NOI| ngày lưu trữ = 2022-07-20| url-status = live|date=2022|access-date=2022-07-20}}</ref>
+
+== Lịch sử ==
+
+=== Trước năm 1976 ===
+
+=== Giai đoạn 1976 – nay ===
+Sau ngày 2 tháng 7 năm 1976, 3 xã: Cổ Đông, Kim Sơn và Sơn Đông thuộc huyện [[Ba Vì (huyện)|Ba Vì]] của tỉnh [[Hà Sơn Bình]].
+
+Ngày 29 tháng 12 năm 1978, sáp nhập huyện [[Ba Vì (huyện)|Ba Vì]] của tỉnh [[Hà Sơn Bình]] vào thành phố [[Hà Nội]]. Khi đó, 3 xã: Cổ Đông, Kim Sơn và Sơn Đông thuộc huyện [[Ba Vì (huyện)|Ba Vì]] của thành phố [[Hà Nội]].<ref>Nghị quyết ngày 29 tháng 12 năm 1978 của Quốc hội khóa VI, Kỳ họp thứ 4 phê chuẩn việc phân vạch lại địa giới thành phố Hà Nội, thành phố Hồ Chí Minh, các tỉnh Hà Sơn Bình, Vĩnh Phú, Cao Lạng, Bắc Thái, Quảng Ninh và Đồng Nai.</ref>
+
+Ngày 2 tháng 6 năm 1982, tách các xã Kim Sơn, Sơn Đông, Cổ Đông của huyện [[Ba Vì (huyện)|Ba Vì]] chuyển sang thị xã [[Sơn Tây (thị xã)|Sơn Tây]].<ref>{{Chú thích web |title=Quyết định số 101-HĐBT ngày 2 tháng 6 năm 1982 của Hội đồng Bộ trưởng về việc phân vạch địa giới thị xã Sơn Tây, huyện Ba Vì và huyện Phúc Thọ thuộc thành phố Hà Nội |url=https://chinhphu.vn/default.aspx?pageid=27160&docid=6469 |url-status=live |archive-url=https://web.archive.org/web/20260712401509/https://chinhphu.vn/default.aspx?pageid=27160&docid=6469 |archive-date=2026-07-12 |access-date=2026-07-12 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+
+Ngày 12 tháng 8 năm 1991, chia tỉnh [[Hà Sơn Bình]] thành 2 tỉnh, lấy tên là tỉnh [[Hòa Bình (tỉnh)|Hòa Bình]] và tỉnh [[Hà Tây (tỉnh)|Hà Tây]]. Chuyển thị xã [[Sơn Tây (thị xã)|Sơn Tây]] của thành phố [[Hà Nội]] về tỉnh [[Hà Tây (tỉnh)|Hà Tây]]. Khi đó, 3 xã: Cổ Đông, Kim Sơn và Sơn Đông thuộc thị xã [[Sơn Tây (thị xã)|Sơn Tây]] của tỉnh [[Hà Tây (tỉnh)|Hà Tây]].<ref>Nghị quyết ngày 12 tháng 8 năm 1991 của Quốc hội khóa VIII, Kỳ họp thứ 9 về việc điều chỉnh địa giới hành chính một số tỉnh, thành phố trực thuộc Trung ương.</ref>
+
+Ngày 2 tháng 8 năm 2007, thành lập thành phố [[Sơn Tây (thị xã)|Sơn Tây]] trên cơ sở toàn bộ diện tích tự nhiên, dân số và các đơn vị hành chính trực thuộc của thị xã [[Sơn Tây (thị xã)|Sơn Tây]]. Khi đó, 3 xã: Cổ Đông, Kim Sơn và Sơn Đông thuộc thành phố [[Sơn Tây (thị xã)|Sơn Tây]].<ref name="ND130">{{Chú thích web |tựa đề=Nghị định số 130/2007/NĐ-CP ngày 2 tháng 8 năm 2007 của Chính phủ về việc thành lập thành phố Sơn Tây thuộc tỉnh Hà Tây |url=https://chinhphu.vn/default.aspx?pageid=27160&docid=34840 |url-status=dead |archive-url=https://web.archive.org/web/20260712401509/https://chinhphu.vn/default.aspx?pageid=27160&docid=34840 |archive-date=2026-07-12 |access-date=2026-07-12 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+
+Ngày 29 tháng 5 năm 2008, hợp nhất tỉnh [[Hà Tây (tỉnh)|Hà Tây]] vào thành phố [[Hà Nội]]. Khi đó, 3 xã: Cổ Đông, Kim Sơn và Sơn Đông thuộc thành phố [[Sơn Tây (thị xã)|Sơn Tây]] của thành phố [[Hà Nội]].<ref>Nghị quyết số 15/2008/QH12 ngày 29 tháng 5 năm 2008 của Quốc hội khóa XII, Kỳ họp thứ 3 về việc điều chỉnh địa giới hành chính thành phố Hà Nội và một số tỉnh có liên quan.</ref>
+
+Ngày 8 tháng 5 năm 2009, chuyển thành phố [[Sơn Tây (thị xã)|Sơn Tây]] thành thị xã [[Sơn Tây (thị xã)|Sơn Tây]]. Khi đó, 3 xã: Cổ Đông, Kim Sơn và Sơn Đông thuộc thị xã [[Sơn Tây (thị xã)|Sơn Tây]].<ref name="NQ19">{{Chú thích web |tác giả= |họ= |tên= |ngày= |tựa đề=Nghị quyết số 19/NQ-CP ngày 8 tháng 5 năm 2009 của Chính phủ về việc xác lập địa giới hành chính xã Đông Xuân thuộc huyện Quốc Oai; các xã Tiến Xuân, Yên Bình, Yên Trung thuộc huyện Thạch Thất; huyện Mê Linh thuộc thành phố Hà Nội; thành lập quận Hà Đông và các phường trực thuộc; chuyển thành phố Sơn Tây thành thị xã Sơn Tây thuộc thành phố Hà Nội |url=https://chinhphu.vn/default.aspx?pageid=27160&docid=86463 |url-status=live |url lưu trữ=https://web.archive.org/web/20260712401509/https://chinhphu.vn/default.aspx?pageid=27160&docid=86463 |ngày lưu trữ=2026-07-12 |ngày truy cập=2026-07-12 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+
+Ngày 16 tháng 6 năm 2025:
+
+* Kết thúc hoạt động của đơn vị hành chính cấp huyện trong cả nước.<ref>{{Chú thích web |last= |date= |title=Nghị quyết số 203/2025/QH15 ngày 16 tháng 6 năm 2025 của Quốc hội khóa XV, Kỳ họp thứ 9 về việc sửa đổi, bổ sung một số điều của Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/nq-sua-doi-hien-phap.pdf |url-status=live |archive-url=https://web.archive.org/web/20260613090807/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/nq-sua-doi-hien-phap.pdf |archive-date=2026-06-13 |access-date=2026-06-13 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+* Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của xã Kim Sơn, xã Sơn Đông và một phần diện tích tự nhiên, quy mô dân số của xã Cổ Đông (thị xã [[Sơn Tây (thị xã)|Sơn Tây]]) thành xã mới có tên gọi là xã Đoài Phương.<ref>{{Chú thích web |title=Nghị quyết số 1656/NQ-UBTVQH15 ngày 16 tháng 6 năm 2025 của Ủy ban Thường vụ Quốc hội về việc sắp xếp các đơn vị hành chính cấp xã của thành phố Hà Nội năm 2025 |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf |url-status=live |archive-url=https://web.archive.org/web/20260630400809/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf |archive-date=2026-06-30 |access-date=2026-06-30 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+* Sau khi sắp xếp, xã Đoài Phương được chia thành 30 thôn.<ref>7 thôn: Kim Đái 1, 2, Kim Tân, Kim Trung, Lòng Hồ, Nghĩa Sơn và Nhà Thờ của xã Kim Sơn cũ; 10 thôn: Đại Sơn, Đồi Vua, Khoang Sau, Tân An, Tân Phú, Tân Phúc, Tây Ninh, Thống Nhất, Trung Tâm và Vạn An của xã Sơn Đông cũ; 13 thôn: Cổ Liễn, Đại Trung, Đoàn Kết, Đồng Trạng, La Gián, Ngõ Bắc, Ngọc Kiên, Phúc Lộc, Thiên Lộc, Trại Hồ, Trại Láng, Triều Đông và Trung Lạc của xã Cổ Đông cũ.</ref><ref>{{Chú thích web |title=Thông tư số 10/2022/TT-BTNMT ngày 29 tháng 9 năm 2022 của Bộ Tài nguyên và Môi trường về việc Ban hành Danh mục địa danh dân cư, sơn văn, thủy văn, kinh tế – xã hội phục vụ công tác thành lập bản đồ thành phố Hà Nội |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2022/10/10-btnmt.pdf |url-status=live |archive-url=https://web.archive.org/web/20260630400809/https://datafiles.chinhphu.vn/cpp/files/vbpq/2022/10/10-btnmt.pdf |archive-date=2026-06-30 |access-date=2026-06-30 |website=Cổng Thông tin điện tử Chính phủ}}</ref><ref name=":02">{{Chú thích web |last=Trang Thông tin điện tử xã Đoài Phương – thành phố Hà Nội |date=2026-03-01 |title=Công bố danh sách trích ngang 37 người ứng cử đại biểu Hội đồng nhân dân xã Đoài Phương khóa II, nhiệm kỳ 2026 – 2031 |url=https://doaiphuong.hanoi.gov.vn/bau-cu-dbqh-hdnd-cac-cap/cong-bo-danh-sach-trich-ngang-37-nguoi-ung-cu-dai-bieu-hdnd-xa-doai-phuong-khoa-ii-nhiem-ky-2026-2031-2774260301212840892.htm?gidzl=15k_2jcaw140HBiCqxdW4m11km_5kxf06HRW2SgxuK90JR1UoBkpG44KibEJwB996nxZLpJhpc8gtANi4m |url-status=live |archive-url=https://web.archive.org/web/20260701400809/https://doaiphuong.hanoi.gov.vn/bau-cu-dbqh-hdnd-cac-cap/cong-bo-danh-sach-trich-ngang-37-nguoi-ung-cu-dai-bieu-hdnd-xa-doai-phuong-khoa-ii-nhiem-ky-2026-2031-2774260301212840892.htm?gidzl=15k_2jcaw140HBiCqxdW4m11km_5kxf06HRW2SgxuK90JR1UoBkpG44KibEJwB996nxZLpJhpc8gtANi4m |archive-date=2026-07-01 |access-date=2026-07-01 |website=}}</ref>
+Ngày 24 tháng 12 năm 2025, xác định xã Đoài Phương là [[Đô thị Việt Nam|đô thị loại II]].<ref>Chuyển tiếp từ 3 xã: Cổ Đông, Kim Sơn và Sơn Đông thuộc thị xã Sơn Tây – đô thị loại III).</ref><ref>{{Chú thích web |title=Nghị quyết số 111/2025/UBTVQH15 ngày 24 tháng 12 năm 2025 của Ủy ban Thường vụ Quốc hội về phân loại đô thị |url=https://cdn.nhandan.vn/files/f4a4abf7f9a0ba4a91744616546d850872b76917f90d5a74cc9eebef1369fb6f/111.pdf |url-status=dead |archive-url=https://web.archive.org/web/20260712401509/https://cdn.nhandan.vn/files/f4a4abf7f9a0ba4a91744616546d850872b76917f90d5a74cc9eebef1369fb6f/111.pdf |archive-date=2026-07-12 |access-date=2026-07-12 |website=Báo Nhân dân}}</ref>
+
+Ngày 29 tháng 6 năm 2026, thành lập 10 thôn mới: Măng Sơn, Sơn Đông, Tây Ninh, Ấp Bắc, Cổ Đông, Đoàn Kết, La Thành, Bắc Kiên, Kim Tân và Kim Sơn.<ref>1. Thôn Măng Sơn: Thành lập trên cơ sở sáp nhập nguyên hiện trạng 02 thôn Tân Phúc và thôn Khoang Sau; 2. Thôn Sơn Đông: Thành lập trên cơ sở sáp nhập nguyên hiện trạng 02 thôn Thống Nhất, thôn Trung Tâm; 3. Thôn Tây Ninh: Thành lập trên cơ sở sáp nhập nguyên hiện trạng 02 thôn Tây Ninh, thôn Đại Sơn; 4. Thôn Ấp Bắc: Thành lập trên cơ sở sáp nhập nguyên hiện trạng 03 thôn Đồi Vua, Thôn Tân An, Thôn Vạn An; 5. Thôn Tân Phú: Giữ nguyên thôn Tân Phú; 6. Thôn Cổ Đông: Thành lập trên cơ sở sáp nhập nguyên hiện trạng 03 thôn Đồng Trạng, thôn Trại Láng, thôn Cổ Liễn và một phần thôn Phúc Lộc ở khu trung tâm xã Cổ Đông cũ (sau khi chia tách thôn Phúc Lộc làm hai phần theo địa giới đã chia tách trước đây); 7. Thôn Đoàn Kết: Thành lập trên cơ sở sáp nhập một phần thôn Phúc Lộc (gồm các xóm 5, 6, 7, 8, khu dân cư Phúc Liên, thôn Phúc Lộc sau khi chia tách) vào thôn Đoàn Kết; 8. Thôn La Thành: Thành lập trên cơ sở sáp nhập nguyên hiện trạng 04 thôn Ngọc Kiên, thôn Ngõ Bắc, thôn Trung Lạc, Thôn Đại Trung; 10. Thôn Kim Tân: Thành lập trên cơ sở sáp nhập nguyên hiện trạng 03 thôn Nhà Thờ, thôn Kim Trung, thôn Kim Tân; 11. Thôn Kim Sơn: Thành lập trên cơ sở sáp nhập nguyên hiện trạng 04 thôn Kim Đái 1, thôn Kim Đái 2, thôn Lòng Hồ, thôn Nghĩa Sơn.</ref><ref name=":2">{{Chú thích web |title=Đề án tháng 6 năm 2026 của Ủy ban nhân dân xã Đoài Phương về việc sắp xếp, tổ chức lại thôn trên địa bàn xã Đoài Phương, thành phố Hà Nội |url=https://sqhx-hanoi.mediacdn.vn/91579363132710912/2026/6/16/trich-dt-de-an-kem-tb-so-305-17815700374341425389335.pdf |url-status=dead |archive-url=https://web.archive.org/web/20260714401509/https://sqhx-hanoi.mediacdn.vn/91579363132710912/2026/6/16/trich-dt-de-an-kem-tb-so-305-17815700374341425389335.pdf |archive-date=2026-07-14 |access-date=2026-07-14 |website=Trang Thông tin điện tử xã Đoài Phương – thành phố Hà Nội}}</ref><ref name=":3">{{Chú thích web |title=Nghị quyết ngày 18/NQ-HĐND ngày 29 tháng 6 năm 2026 của Hội đồng nhân dân xã Đoài Phương về việc thành lập, sắp xếp, tổ chức lại thôn, đổi tên thôn trên địa bàn xã Đoài Phương, thành phố Hà Nội |url=https://datafiles.hanoi.gov.vn/gov-hni/7045/VanBan/2026/7/1/NQ%2018%20s%E1%BA%AFp%20x%E1%BA%BFp%20th%C3%B4n.pdf |url-status=dead |archive-url=https://web.archive.org/web/20260714401509/https://datafiles.hanoi.gov.vn/gov-hni/7045/VanBan/2026/7/1/NQ%2018%20s%E1%BA%AFp%20x%E1%BA%BFp%20th%C3%B4n.pdf |archive-date=2026-07-14 |access-date=2026-07-14 |website=Trang Thông tin điện tử xã Đoài Phương – thành phố Hà Nội}}</ref>
+
+== Hành chính ==
+Xã Đoài Phương được chia thành 11 thôn: Ấp Bắc, Bắc Kiên, Cổ Đông, Đoàn Kết, Kim Sơn, Kim Tân, La Thành, Măng Sơn, Sơn Đông, Tân Phú và Tây Ninh.<ref name=":2" /><ref name=":3" />
+{| class="wikitable sortable" cellpadding="0" cellspacing="6" width="100%" align="center" style="background: #f9f9f9; border: 1px #aaa solid; margin-top: 16px"
+! colspan="4" style="background: #E6E6FA; font-size: 95%;" |Danh sách các thôn thuộc xã Đoài Phương<ref name=":2" /><ref name=":3" />
+|-
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| cellpadding="1" cellspacing="1" width="100%" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Ấp Bắc
+|1.053
+|-
+| align="left" |Bắc Kiên
+|1.084
+|-
+| align="left" |Cổ Đông
+|1.202
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| cellpadding="1" cellspacing="1" width="100%" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Đoàn Kết
+|1.415
+|-
+| align="left" |Kim Sơn
+|1.150
+|-
+| align="left" |Kim Tân
+|883
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| cellpadding="1" cellspacing="1" width="100%" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |La Thành
+|955
+|-
+| align="left" |Măng Sơn
+|823
+|-
+| align="left" |Sơn Đông
+|829
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| cellpadding="1" cellspacing="1" width="100%" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Tân Phú
+|905
+|-
+| align="left" |Tây Ninh
+|826
+|}
+|}
+
+== Kinh tế ==
+Xã Đoài Phương hiện có [[Làng nghề Việt Nam|làng nghề]] mộc Vạn An; nghề nuôi ong lấy mật ở Kim Sơn và nghề sản xuất giò lụa, miến dong ở Cổ Đông. Thu nhập bình quân toàn xã năm 2025 đạt khoảng 70 triệu đồng/người/năm.<ref name=":0">{{Chú thích web | last = Ánh Dương | last2 = Nam Phong | date = 2025-06-29 | title = Xã Đoài Phương mới vững niềm tin và khát vọng đổi mới | url = https://hanoimoi.vn/xa-doai-phuong-moi-vung-niem-tin-va-khat-vong-doi-moi-707258.html | website = [[Hànộimới]]}}</ref> Xã cũng có nhiều địa điểm du lịch xung quanh khu vực Hồ Đồng Mô như: sân golf Đồng Mô, thôn Lòng Hồ, [[Làng Văn hóa - Du lịch các dân tộc Việt Nam|Làng Văn hóa các dân tộc Việt Nam]], đền Măng Sơn, chùa Khai Nguyên...<ref name = ":0" />
+
+== Xã hội== 
+Xã Đoài Phương là địa bàn đóng quân của nhiều đơn vị và có 3 trường đại học:
+
+* [[Trường Sĩ quan Lục quân 1]] (Cổ Đông)<ref name = ":1">{{Chú thích web | title = Hệ thống nhà trường quân đội | url = https://mod.gov.vn/home/intro/detail/!ut/p/z0/VcuxDoIwFIXhp3G8uW1tGxgxxsGBBHWALqaFBivYSrghPr5EXZz-fMk5aLBGE-0SekshRTuuboy-HorylO14wbL9WbDqUuWa61IwrvCIph-T-07DfZpMgaZNkfyLsH6kbsNmC2thDuQ_IBp-7Ra4jR39CyJN68trr-SWOWgzJUCKVkDOlAMnpLS5cIpLjc_BNG8q7A1z/ | access-date = 2025-07-01 | website = Cổng thông tin điện tử Bộ Quốc phòng}}</ref>
+* [[Trường Sĩ quan Phòng hóa]] (Sơn Đông)<ref name = ":1" />
+* [[Học viện Hậu cần (Việt Nam)|Học viện Hậu cần]] cơ sở 2 (Kim Sơn)<ref>{{Chú thích web | date = 2024-04-30 | title = Học viện Hậu cần tuyển sinh, đào tạo đại học các chuyên ngành gì | url = https://www.qdnd.vn/giao-duc-khoa-hoc/nha-truong-quan-doi/hoc-vien-hau-can-tuyen-sinh-dao-tao-dai-hoc-cac-chuyen-nganh-gi-774962 | access-date = 2025-07-01 | website = [[Quân đội nhân dân (báo)|Quân đội nhân dân]]}}</ref>
+<!-- 
+== Lịch sử hình thành và phát triển== 
+Xã Kim Sơn xưa kia thuộc tổng Bối Sơn huyện Minh Nghĩa, phủ [[Quảng Oai (huyện)| Quảng Oai]], trấn Sơn Tây, nay thuộc thị xã Sơn Tây thành phố Hà Nội.
+ -->
+== Chú thích== 
+{{tham khảo| 30em}}
+
+== Tham khảo ==
+{{sơ khai Hà Nội}}
+{{Đơn vị hành chính thuộc thành phố Hà Nội}}

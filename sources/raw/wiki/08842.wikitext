@@ -1,0 +1,94 @@
+{{Thông tin đơn vị hành chính Việt Nam | xã
+| tên = Tiên Lữ
+| hình = Đình làng Tiên Lữ.jpg
+| ghi chú hình = Mái đình làng Tiên Lữ
+| vĩ độ = 21.37162752604122
+| kinh độ = 105.47943055401188
+| diện tích = 31,8 km²
+| dân số = 32.710 người
+| thời điểm dân số = 2025
+| mật độ dân số = {{formatnum:{{#expr:floor({{formatnum:32.710| R}}/{{formatnum:31,8| R}})}} }} người/km²
+| vùng = [[Đông Bắc Bộ]]
+| tỉnh = [[Phú Thọ]]
+| trụ sở UBND = thôn Mới
+| mã hành chính = 08842<ref>{{Chú thích web |url=https://danhmuchanhchinh.gso.gov.vn/ |title=Tổng cục Thống kê |access-date=2022-04-10 |archive-date=2021-01-10 |archive-url=https://web.archive.org/web/20210110034519/https://www.gso.gov.vn/phuong-phap-thong-ke/danh-muc/don-vi-hanh-chinh/ |url-status=dead }}</ref>
+| mã bưu chính =15424 |
+|web={{url|tienlu.phutho.gov.vn}}
+}}
+{{other|Tiên Lữ (định hướng)}}
+'''Tiên Lữ''' là một [[Xã (Việt Nam)|xã]] nằm ở phía bắc tỉnh [[Phú Thọ]], [[Việt Nam]].
+
+==Địa lý==
+===Vị trí địa lý===
+Xã Tiên Lữ nằm gần [[sông Phó Đáy]], tại ngã ba của hai con sông này, có vị trí địa lý:
+
+* Phía bắc giáp xã [[Lập Thạch (xã)|Lập Thạch]] và xã [[Liên Hòa (xã)|Liên Hòa]].
+* Phía tây giáp xã [[Sông Lô (xã)|Sông Lô]].
+* Phía đông giáp xã [[Hoàng An]].
+* Phía nam giáp xã [[Sơn Đông (xã)|Sơn Đông]] và xã [[Vĩnh An, Phú Thọ|Vĩnh An]].
+Toàn bộ xã có dân số khoảng 32.710 người, gần như toàn bộ người dân là dân tộc Kinh. Dân số tập trung phần lớn ở các thôn: thôn Quẵng, thôn Minh Trụ, thôn Quang Trung, thôn Mới, thôn Xuôi, thôn Dộc, thôn Đình (Tân Thành).
+
+===Địa hình===
+Xã Tiên Lữ thuộc đồng bằng Bắc Bộ và là vùng trũng của tỉnh, có địa hình thấp dần từ Bắc xuống Nam, từ Tây sang Đông. Cấu tạo địa tầng rất cổ, có nhiều đồi núi, độ cao của đất xen nhau, đây là một trong những yếu tố gây không ít khó khăn cho công tác thủy lợi phục vụ phát triển sản xuất nông nghiệp.
+
+===Khí hậu===
+Xã nằm trong vùng [[khí hậu]] [[khí hậu nhiệt đới gió mùa|nhiệt đới gió mùa]], chia làm 4 mùa rõ rệt. Từ tháng 5 đến tháng 10 nhiệt độ trung bình từ 24 - 27oC, đây là mùa có nhiều mưa bão, ảnh hưởng đến phát triển sản xuất, đặc biệt trong lĩnh vực nông nghiệp. Từ tháng 11 đến tháng 4 năm sau, nhiệt độ trung bình hàng năm từ 18 - 24oC. [[Độ ẩm]] tương đối hàng năm là 86%. Số giờ nắng trung bình 1450 đến 1550 giờ. Lượng mưa trung bình từ 1680 - 1730mm, có năm [[giáng thủy#Lượng mưa|lượng mưa]] trên 2000mmm (do vị trí địa lý nên lượng mưa thường cao hơn các xã phía bắc tỉnh từ 100 - 200mm và tập trung vào các tháng 8, 9).
+
+=== Tài nguyên ===
+[[Tập tin:Lap Thach.jpg|nhỏ|trái|200px| Cánh đồng trồng [[lạc]] và [[lúa]] tại xã Tiên Lữ]]
+Xã Tiên Lữ có diện tích đất tự nhiên 115,10&nbsp;km², trong đó diện tích đất nông nghiệp là 6.293,68 ha; diện tích đất nông nghiệp bình quân đầu người của xã là 549m². Thổ nhưỡng chủ yếu là đất phù sa được bồi và đất phù sa không được bồi. Đất phù sa được bồi phân bổ chủ yếu ở vùng ngoài đê ven sông Phó Đáy, hàng năm được phù sa bồi đắp nên đất đai màu mỡ, thích hợp trồng các loại cây công nghiệp ngắn ngày, cây lương thực và hoa màu. Nhìn chung, điều kiện khí hậu và đất đai của Tiên Lữ thuận lợi cho việc phát triển nông nghiệp đa dạng, với nhiều loại cây trồng.
+
+==Hành chính==
+Xã Tiên Lữ được chia thành 35 thôn: Bì La, Chiến Thắng, Cộng Hòa, Dộc, Đại Lữ, Đoàn Kết, Đông Xuân, Đồng Tâm, Hạ Ích, Hoàng Chung, Lai Châu, Lan Hùng, Liên Sơn, Lục Thụ, Minh Khai, Minh Trụ, Mới, Mỹ Đức, Nam, Nghĩa An, Nhật Tân, Nương Ải, Quang Trung, Quẵng, Sơn Bình, Sơn Phùng, Tân Lập, Tân Thành, Thi Đua, Viên Luận, Vinh Quang, Vườn Tràng, Xuân Đán, Xuân Phong, Xuân Quang.<ref>{{Chú thích web |last=Trang Thông Tin - Xã Tiên Lữ - tỉnh Phú Thọ |date=2026-03-05 |title=Xã Tiên Lữ trân trọng giới thiệu tiểu sử tóm tắt các ứng cử viên Đại biểu Hội đồng Nhân dân xã khóa II, nhiệm kỳ 2026 - 2031 tại Đơn vị bầu cử số 01, gồm Thôn Nhật Tân, thôn Xuân Quang, thôn Lai Châu, thôn Nam, thôn Mỹ Đức, thôn Sơn Phùng, thôn Sơn Bình, thôn Lan Hùng |url=https://web.facebook.com/story.php?story_fbid=122164284968926997&id=61577809936144&rdid=Lqn4HEi4jEtajOVy# |url-status=live |archive-url=https://web.archive.org/web/20260426090807/https://web.facebook.com/story.php?story_fbid=122164284968926997&id=61577809936144&rdid=Lqn4HEi4jEtajOVy# |archive-date=2026-04-26 |access-date=2026-04-26}}</ref><ref>{{Chú thích web |last=Trang Thông Tin - Xã Tiên Lữ - tỉnh Phú Thọ |date=2026-03-07 |title=Xã Tiên Lữ trân trọng giới thiệu tiểu sử tóm tắt các ứng cử viên Đại biểu Hội đồng Nhân dân xã khóa II, nhiệm kỳ 2026 - 2031 tại Đơn vị bầu cử số 02, gồm Thôn Mới, thôn Dộc, thôn Quẵng, thôn Minh trụ, thôn Quang Trung, thôn Nương Ải, thôn Tân Thành, thôn Vinh Quang |url=https://web.facebook.com/story.php?story_fbid=122164533944926997&id=61577809936144&rdid=es0ZoqC0wiQy2LBT# |url-status=live |archive-url=https://web.archive.org/web/20260426090807/https://web.facebook.com/story.php?story_fbid=122164533944926997&id=61577809936144&rdid=es0ZoqC0wiQy2LBT# |archive-date=2026-04-26 |access-date=2026-04-26}}</ref><ref>{{Chú thích web |last=Trang Thông Tin - Xã Tiên Lữ - tỉnh Phú Thọ |date=2026-03-07 |title=Xã Tiên Lữ trân trọng giới thiệu tiểu sử tóm tắt các ứng cử viên Đại biểu Hội đồng Nhân dân xã khóa II, nhiệm kỳ 2026 - 2031 tại Đơn vị bầu cử số 03, gồm Thôn Vườn Tràng, thôn Lục Thụ, thôn Minh Khai, thôn Đông Xuân, thôn Nghĩa An, thôn Liên Sơn, thôn Xuân Phong, thôn Đoàn Kết, thôn Thi Đua, Thôn Đồng Tâm. thôn Cộng Hòa, Thôn Chiến Thắng |url=https://web.facebook.com/story.php?story_fbid=122164535876926997&id=61577809936144&rdid=Tkho2m0XMGvLDBEp# |url-status=live |archive-url=https://web.archive.org/web/20260426090807/https://web.facebook.com/story.php?story_fbid=122164535876926997&id=61577809936144&rdid=Tkho2m0XMGvLDBEp# |archive-date=2026-04-26 |access-date=2026-04-26}}</ref><ref>{{Chú thích web |last=Trang Thông Tin - Xã Tiên Lữ - tỉnh Phú Thọ |date=2026-03-08 |title=Xã Tiên Lữ trân trọng giới thiệu tiểu sử tóm tắt các ứng cử viên Đại biểu Hội đồng Nhân dân xã khóa II, nhiệm kỳ 2026 - 2031 tại Đơn vị bầu cử số 04, gồm Thôn Đại Lữ, thôn Hoàng Chung , thôn Xuân Đán |url=https://web.facebook.com/story.php?story_fbid=122164690004926997&id=61577809936144&rdid=AYiRuLpqpU0vht71# |url-status=live |archive-url=https://web.archive.org/web/20260426090807/https://web.facebook.com/story.php?story_fbid=122164690004926997&id=61577809936144&rdid=AYiRuLpqpU0vht71# |archive-date=2026-04-26 |access-date=2026-04-26}}</ref><ref>{{Chú thích web |last=Trang Thông Tin - Xã Tiên Lữ - tỉnh Phú Thọ |date=2026-03-08 |title=Xã Tiên Lữ trân trọng giới thiệu tiểu sử tóm tắt các ứng cử viên Đại biểu Hội đồng Nhân dân xã khóa II, nhiệm kỳ 2026 - 2031 tại Đơn vị bầu cử số 05, gồm Thôn Bì La, thôn Hạ Ích, thôn Tân Lập, thôn Viên Luận |url=https://web.facebook.com/story.php?story_fbid=122164691096926997&id=61577809936144&rdid=yuAEvWkTckgcfBPv# |url-status=live |archive-url=https://web.archive.org/web/20260426090807/https://web.facebook.com/story.php?story_fbid=122164691096926997&id=61577809936144&rdid=yuAEvWkTckgcfBPv# |archive-date=2026-04-26 |access-date=2026-04-26}}</ref>
+
+== Lịch sử ==
+Nơi đây từng được xem là một trong những nơi cư trú đầu tiên của người Việt từ thời các vua Hùng dựng nước. Một giai thoại kể rằng nơi đây từ có các tiên nữ mến cả cảnh núi non tươi đẹp, đã giáng trần xuống tắm và đi dạo trong một sơn động. Từ đó, con động được gọi là động Tiên Du và vùng đất này được gọi là Tiên Lữ.<ref>[http://www.nhandan.com.vn/cmlink/nhandanhangthang/nhan-dan-h-ng-thang/i-s-ng-x-h-i/ng-i-tr-n-s-ng-ng-tien-1.344764 Người trần sống ở động Tiên]</ref> Xã Tiên Lữ này nay hình thành từ ngôi làng Tiên Lữ, còn được gọi ngắn gọn là làng '''Tiên'''. Nguyên thủy, làng có tên là '''Kẻ Chặng''', hay làng '''Chặng''', sau mới đổi tên thành Tiên Lữ.
+
+Đến năm [[2024]], toàn bộ xã được chia thành 8 thôn dân cư: thôn Mới, thôn Dộc, thôn Quẵng, thôn Quang Trung, thôn Minh Trụ, thôn Nương Ải, thôn Tân Thành, Thôn Vinh Quang.
+
+Ngày [[12 tháng 6]] năm [[2025]], [[Quốc hội Việt Nam|Quốc hội]] ban hành Nghị quyết số 202/2025/QH15 về việc sắp xếp đơn vị hành chính cấp tỉnh (nghị quyết có hiệu lực từ ngày [[12 tháng 6]] năm [[2025]]).<ref>{{Chú thích web|last=xaydungchinhsach.chinhphu.vn|date=2025-07-16|title=TOÀN VĂN: Nghị quyết số 202/2025/QH15 về sắp xếp đơn vị hành chính cấp tỉnh|url=https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-202-2025-qh15-ve-sap-xep-don-vi-hanh-chinh-cap-tinh-119250612174148722.htm|url-status=live|archive-url=https://web.archive.org/web/20260705025431/https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-202-2025-qh15-ve-sap-xep-don-vi-hanh-chinh-cap-tinh-119250612174148722.htm|archive-date=2026-07-05|access-date=2026-07-25|website=Báo Điện tử Chính phủ|language=vi}}</ref> Theo đó, sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của tỉnh [[Vĩnh Phúc (tỉnh)|Vĩnh Phúc]], tỉnh [[Hòa Bình (tỉnh)|Hòa Bình]] và tỉnh [[Phú Thọ]] thành tỉnh mới có tên gọi là tỉnh '''Phú Thọ'''.
+
+Ngày [[16 tháng 6]] năm [[2025]]:
+
+* Quốc hội ban hành Nghị quyết số 203/2025/QH15 về việc sửa đổi, bổ sung một số điều của Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam (nghị quyết có hiệu lực từ ngày [[16 tháng 6]] năm [[2025]]).<ref>{{Chú thích web|last=xaydungchinhsach.chinhphu.vn|date=2025-06-28|title=NGHỊ QUYẾT 203/2025/QH15 SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA HIẾN PHÁP NƯỚC CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM|url=https://xaydungchinhsach.chinhphu.vn/nghi-quyet-203-2025-qh15-sua-doi-bo-sung-mot-so-dieu-cua-hien-phap-nuoc-cong-hoa-xa-hoi-chu-nghia-viet-nam-119250616181735552.htm|url-status=live|archive-url=https://web.archive.org/web/20260715200606/https://xaydungchinhsach.chinhphu.vn/nghi-quyet-203-2025-qh15-sua-doi-bo-sung-mot-so-dieu-cua-hien-phap-nuoc-cong-hoa-xa-hoi-chu-nghia-viet-nam-119250616181735552.htm|archive-date=2026-07-15|access-date=2026-07-15|website=Báo Điện tử Chính phủ|language=vi}}</ref> Theo đó, kết thúc hoạt động của đơn vị hành chính cấp huyện trong cả nước từ ngày 1 tháng 7 năm 2025.
+
+* [[Ủy ban Thường vụ Quốc hội]] ban hành Nghị quyết số 1676/NQ-UBTVQH15 về việc sắp xếp đơn vị hành chính cấp xã của tỉnh [[Phú Thọ]] năm 2025 (nghị quyết có hiệu lực từ ngày [[16 tháng 6]] năm [[2025]]).<ref>{{Chú thích web|last=xaydungchinhsach.chinhphu.vn|date=2025-06-20|title=Nghị quyết số 1676/NQ-UBTVQH15 sắp xếp các ĐVHC cấp xã của tỉnh Phú Thọ năm 2025|url=https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-1676-nq-ubtvqh15-sap-xep-cac-dvhc-cap-xa-cua-tinh-phu-tho-nam-2025-119250616204317326.htm|url-status=live|archive-url=https://web.archive.org/web/20260725082021/https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-1676-nq-ubtvqh15-sap-xep-cac-dvhc-cap-xa-cua-tinh-phu-tho-nam-2025-119250616204317326.htm|archive-date=2026-07-25|access-date=2026-07-25|website=Báo Điện tử Chính phủ|language=vi}}</ref> Theo đó, sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của các xã Xuân Lôi, Văn Quán, Đồng Ích và Tiên Lữ (huyện [[Lập Thạch (huyện)|Lập Thạch]]) thành xã mới có tên gọi là '''xã Tiên Lữ'''.
+
+== Giao thông ==
+Xã Tiên Lữ có tỉnh lộ 305 chạy qua là 1 thuận lợi cho phát triển kinh tế. Đường sá các thôn cho tới nay đã tương đối được lát bê tông.
+
+== Kinh tế ==
+[[Tập tin:Nhà ngang (Tiên Lữ, Lập Thạch).jpg|nhỏ|phải|200px| Một căn nhà ngang truyền thống tại xã Tiên Lữ]]
+[[Tập tin:Bánh gạo rang (Tiên Lữ, Lập Thạch).jpg|nhỏ|phải|200px| Bánh gạo rang Tiên Lữ]]
+Kinh tế nông nghiệp là chủ yếu ở Tiên Lữ. Hiện nay, ngoài trồng [[lúa|lúa nước]] còn trồng thêm [[danh sách giống khoai tại Việt Nam|khoai lang]], [[sắn]],... và có nghề phụ như đan lát,...
+
+Người ta có câu "'''Bánh nẳng chợ Tràng, gạo rang Tiên Lữ'''". [[Bánh gạo rang]] (còn gọi là "gạo rang"), là một đặc sản của Tiên Lữ, được làm trong những dịp lễ, tết và làm quà.<ref>[http://vinhphuctv.vn/Qu%E1%BA%A3n-tr%E1%BB%8B/Tin-t%E1%BB%A9c-chung/ID/233120/Banh-gao-rang-Vinh-Phuc Bánh gạo rang Vĩnh Phúc]{{Liên kết hỏng|date=2026-06-13 |bot=InternetArchiveBot }}</ref>
+
+Xã còn có nghề truyền thống làm [[cá thính]] (còn gọi là "cá mắn") nổi tiếng trong nước, thường được biết đến với tên gọi "'''cá thính làng Tiên"'''. Năm 2010, [[cá thính Lập Thạch]] được [[Cục Sở hữu trí tuệ]] cấp giấy phép đăng ký bảo hộ nhãn hiệu, và năm 2012 Hội Chế biến Cá thính Lập Thạch ra đời với 28 hội viên do ông Đỗ Văn Hải ở xã Tiên Lữ làm hội trưởng<ref>[http://nongnghiep.vn/ca-thinh-lang-tien-post137644.html Cá thính làng Tiên]</ref>
+
+==Văn hóa - Du lịch==
+[[Tập tin:Stone in Lap Thach province.jpg|nhỏ|200px|Đá dựng tại động Tiên Du]]
+'''Động Tiên Du''' là một địa điểm du lịch lý tưởng của người dân trong xã. Nằm cách UBND xã [[Tiên Lữ (huyện)|Tiên Lữ]] khoảng 1&nbsp;km, động Tiên Du hiện ra với biết bao kỳ thú, quanh [[động]] có nhiều tảng đá lớn với các hình hài con vật khác nhau và rất lạ kỳ tất cả các con vật đều quay đầu về phía Tây Thiên nơi được coi là Đạo Phật phát tích ở Việt Nam. Cảnh vật nơi đây cũng có núi non trùng điệp tuyệt đẹp.
+
+'''Đình làng''' được xây dựng từ thời [[Nhà Lê trung hưng|Lê Trung hưng]], thờ 3 vị thần có danh hiệu Đông Nha Tam vị Đại vương, những người có công đánh đuổi quân [[Chiêm Thành]] trong trận Đầm Hồng, dân gian thường gọi là chàng Cả, chàng Hai, chàng Ba họ Trần. Ban đầu đường có tên là đình Bụt, toạ lạc trên đồi Tó Trị của làng Chặng. Đến tháng 6 năm [[Minh Mạng]] thứ 15 (1834), đình được dời về trung tâm xã Tiên Lữ và xây dựng mới, đến tháng 12 năm 1834 thì cất nóc và được gọi là đình Tiên Lữ, gọi theo tên làng. Khuôn viên đình có diện tích khoảng 600 m², gồm tòa đại đình 5 gian, 2 dĩ, diện tích 330 m². Phần còn lại là sân đình và hai nhà tả mạc, hữu mạc. Đại đình có 4 mái với các đạo đình hình đầu rồng uốn cong. Thượng cung được nâng cao thành một sàn gác ở chính gian giữa, giảm được phần chuôi vồ. Đình có nhiều bức chạm khắc gỗ trên các bức cốn, kẻ, bẩy và đồ tự khí.
+
+Trong làng có nhiều tập tục và trò chơi dân gian khác nhau như [[đá gà|chọi gà]], [[uống trà]], chơi cờ người...
+<ref>*[http://vinhphuctv.vn/Qu%E1%BA%A3n-tr%E1%BB%8B/Tin-t%E1%BB%A9c-chung/ID/225479/Thu-uong-che-tuoi-lang-Tien-Lu Thú uống chè tươi ở làng Tiên Lữ]{{Liên kết hỏng|date=2026-06-13 |bot=InternetArchiveBot }}</ref>
+
+==Giáo dục==
+Tuy là một vùng còn nghèo khó nhưng xã Tiên Lữ lại rất mạnh về giáo dục {{cần chú thích|date = ngày 4 tháng 8 năm 2015}} và luôn đầu tư nhiều mặt cho nền giáo dục xã nhà.
+
+==Danh nhân==
+* [[Trần Hồng Hà (Vĩnh Phúc)|'''Trần Hồng Hà''']] (sinh ngày 2 tháng 8 năm 1966) là một chính khách người Việt Nam. Ông hiện là đại biểu quốc hội Việt Nam khóa XIV nhiệm kì 2016-2021, thuộc đoàn đại biểu quốc hội tỉnh Vĩnh Phúc, Thẩm phán Toà án nhân dân tối cao, Phó Chủ tịch Nhóm nghị sĩ hữu nghị Việt Nam - Anh.
+* '''[[Triệu Thái]]''' (1370 – ?) là một vị quan thời Lê trong lịch sử Việt Nam.
+* '''[[Nguyễn Thiệu Trị|Nguyễn Thiệu Tri]]''' (1442 – 1522) là Hộ bộ thượng thư thời Lê sơ, đỗ tiến sĩ vào năm 1478. Theo Lịch triều hiến chương loại chí, ông phẫn uất và qua đời vì con ông theo nhà Mạc.
+
+==Chú thích==
+{{Tham khảo|30em}}
+==Liên kết ngoài==
+* [http://www.nhandan.com.vn/cmlink/nhandanhangthang/nhan-dan-h-ng-thang/i-s-ng-x-h-i/ng-i-tr-n-s-ng-ng-tien-1.344764 Người trần sống ở động Tiên]
+* [http://vinhphuctv.vn/Qu%E1%BA%A3n-tr%E1%BB%8B/Tin-t%E1%BB%A9c-chung/ID/225479/Thu-uong-che-tuoi-lang-Tien-Lu Thú uống chè tươi ở làng Tiên Lữ]{{Liên kết hỏng|date=2026-06-13 |bot=InternetArchiveBot }}
+
+== Tham khảo ==
+{{Sơ khai Phú Thọ}}
+{{Đơn vị hành chính thuộc tỉnh Phú Thọ}}

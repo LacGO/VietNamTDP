@@ -1,0 +1,92 @@
+{
+  "ward_code": "08275",
+  "ward_name": "Bình Phú",
+  "province_code": "25",
+  "resolution": "",
+  "arrangement": "truoc_2026_07",
+  "effective_date": "",
+  "verified": "unverified",
+  "extraction": {
+    "source": "vi.wikipedia.org",
+    "title": "Bình Phú, Phú Thọ",
+    "mode": "narrative"
+  },
+  "sources": [
+    {
+      "key": "wiki-08275-1",
+      "title": "Nghị quyết số 18/NQ-HĐND ngày 19/6/2026 của HĐND xã Bình Phú về việc sắp xếp, đổi tên thôn trên địa bàn xã Bình Phú. {{!",
+      "url": "https://binhphu.phutho.gov.vn/tu-lieu/he-thong-van-ban/nghi-quyet-so-18nq-hdnd-ngay-1962026-cua-hdnd-xa-binh-phu-ve-viec-sap-xep-doi-ten-thon-tren-dia-ban-xa-binh-phu/",
+      "date": "2026-07-17",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-08275-2",
+      "title": "Quyết định số 53/QĐ-UBND về việc thành lập các khu vực bỏ phiếu bầu cử đại biểu Quốc hội khóa XVI và đại biểu Hội đồng nhân dân các cấp nhiệm kỳ 2026 - 2031 trên địa bàn xã Bình Phú",
+      "url": "https://binhphu.phutho.gov.vn/tu-lieu/he-thong-van-ban/quyet-dinh-ve-viec-thanh-lap-cac-khu-vuc-bo-phieu-bau-cu-dai-bieu-quoc-hoi-khoa-xvi-va-dai-bieu-hoi-dong-nhan-dan-cac-cap-nhiem-ky-2026-2031-tren-dia-ban-xa-binh-phu/?gidzl=5nqNS09_TGWJ0XDs1sTm31m67tCHPorP1LSP8aCyBri6Lq0cGpOd3WLJ4duVD7HLMWGJApKZKrT91tvn2W",
+      "date": "2026-01-26",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-08275-3",
+      "title": "",
+      "url": "https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Nghi-quyet-828-NQ-UBTVQH14-2019-sap-xep-don-vi-hanh-chinh-cap-xa-thuoc-tinh-Phu-Tho-432098.aspx",
+      "date": "",
+      "type": "wikipedia-ref"
+    }
+  ],
+  "note": "Trích tự động từ Wikipedia tiếng Việt (mode=narrative). Cần đối chiếu nghị quyết HĐND phường/xã. ⚠️ Danh mục có thể là hiện trạng TRƯỚC sắp xếp thôn/TDP 01/7/2026 — Wikipedia chưa cập nhật nghị quyết mới.",
+  "tdp": [
+    {
+      "name": "Bình Bộ",
+      "type": "thôn"
+    },
+    {
+      "name": "Bình Minh",
+      "type": "thôn"
+    },
+    {
+      "name": "Chung Dầu",
+      "type": "thôn"
+    },
+    {
+      "name": "Đình",
+      "type": "thôn"
+    },
+    {
+      "name": "Gai Hạ",
+      "type": "thôn"
+    },
+    {
+      "name": "Long Châu",
+      "type": "thôn"
+    },
+    {
+      "name": "Lũng Hàng",
+      "type": "thôn"
+    },
+    {
+      "name": "Ngọc",
+      "type": "thôn"
+    },
+    {
+      "name": "Quyết Tiến",
+      "type": "thôn"
+    },
+    {
+      "name": "Răm",
+      "type": "thôn"
+    },
+    {
+      "name": "Tranh Ngòai",
+      "type": "thôn"
+    },
+    {
+      "name": "Tranh Trong",
+      "type": "thôn"
+    },
+    {
+      "name": "Xóm Cầu",
+      "type": "thôn"
+    }
+  ]
+}

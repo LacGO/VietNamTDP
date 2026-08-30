@@ -1,0 +1,120 @@
+{{Thông tin đơn vị hành chính Việt Nam|Xã|tên=Đan Phượng|hình=Người Phụ nữ Đan phượng - panoramio.jpg|ghi chú hình=Tượng đài Phụ nữ Ba đảm đang tại tuyến đường Quốc lộ 32|vùng=[[Đồng bằng sông Hồng]]|thành phố=[[Hà Nội]]|trụ sở UBND=Số 105 phố Tây Sơn<ref>{{Chú thích web |url=https://storage-vnportal.vnpt.vn/gov-hni/6244/VanBan/2025/6/25/TB-729-2025.pdf |title=Thông báo số 729/TB-UBND ngày 25 tháng 6 năm 2025 của Ủy ban nhân dân thành phố Hà Nội về địa điểm trụ sở làm việc của 126 phường, xã sau sắp xếp thuộc phạm vi quản lý của thành phố Hà Nội|access-date=2026-06-15 |archive-date=2026-06-15 |archive-url=https://web.archive.org/web/20260615034519/https://storage-vnportal.vnpt.vn/gov-hni/6244/VanBan/2025/6/25/TB-729-2025.pdf |url-status=dead | website = Cổng Thông tin điện tử Ủy ban nhân dân thành phố Hà Nội}}</ref>|vĩ độ=21.082620829646388|kinh độ=105.67286193194741|bản đồ 1={{maplink|frame=yes|plain=yes|type=shape|frame-width=280|frame-align=center|stroke-width=3}}|diện tích=15,3 km²|thời điểm dân số=2025|dân số=47.629 người|mật độ dân số={{formatnum:{{#expr:floor({{formatnum:47.629| R}}/{{formatnum:15,3| R}})}} }} người/km²|mã hành chính=09784<ref>{{Chú thích web |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/19ttg.signed.pdf |title=Quyết định số 19/2025/QĐ-TTg ngày 30 tháng 6 năm 2025 của Thủ tướng Chính phủ về việc Ban hành Bảng danh mục và mã số các đơn vị hành chính Việt Nam |access-date=2026-06-15 |archive-date=2026-06-15 |archive-url=https://web.archive.org/web/20260615034519/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/19ttg.signed.pdf |url-status=dead | website = Cổng Thông tin điện tử Chính phủ}}</ref>|web={{url|danphuong.hanoi.gov.vn}}|trụ sở Đảng ủy=Số 105 phố Tây Sơn}}{{other|Đan Phượng (định hướng)}}
+'''Đan Phượng''' là một [[Xã (Việt Nam)|xã]] thuộc thành phố [[Hà Nội]], [[Việt Nam]].
+
+== Địa lý== 
+Xã Đan Phượng có vị trí địa lý:
+
+* Phía đông giáp xã [[Ô Diên]]
+* Phía tây giáp xã [[Hát Môn]] với ranh giới tự nhiên là [[sông Đáy]]
+* Phía nam giáp xã [[Dương Hòa]] và xã [[Hoài Đức, Hà Nội|Hoài Đức]]
+* Phía bắc giáp xã [[Liên Minh, Hà Nội|Liên Minh]].<ref>{{Chú thích web |last=Viện nghiên cứu Phát triển kinh tế – xã hội Hà Nội |date=2025-07-02 |title=Xã Đan Phượng: Những thông tin chi tiết sau sắp xếp |url=https://hanoionline.vn/xa-dan-phuong-nhung-thong-tin-chi-tiet-sau-sap-xep-344023.htm |url-status=live |archive-url=https://web.archive.org/web/20260701400809/https://hanoionline.vn/xa-dan-phuong-nhung-thong-tin-chi-tiet-sau-sap-xep-344023.htm |archive-date=2026-07-01 |access-date=2026-07-01 |website=Cơ quan Báo và Phát thanh Truyền hình Hà Nội}}</ref><ref>{{Chú thích web |last=Cơ quan Báo và Phát thanh Truyền hình Hà Nội |date=2025-07-08 |title=Xã Đan Phượng: Tất cả thông tin chỉ dẫn bạn cần biết |url=https://hanoionline.vn/xa-dan-phuong-tat-ca-thong-tin-chi-dan-ban-can-biet-345609.htm |url-status=live |archive-url=https://web.archive.org/web/20260711401509/https://hanoionline.vn/xa-dan-phuong-tat-ca-thong-tin-chi-dan-ban-can-biet-345609.htm |archive-date=2026-07-11 |access-date=2026-07-11}}</ref>
+Xã Đan Phượng có diện tích tự nhiên là 15,3 km<sup>2</sup>, quy mô dân số năm 2025 là 47.629 người và mật độ dân số đạt 3.113 người/km<sup>2</sup>.<ref>{{Chú thích web |last=Mai Hữu |date=2026-04-05 |title=Hà Nội: Chi tiết phương án tổng thể sắp xếp đơn vị hành chính cấp xã |url=https://hanoimoi.vn/ha-noi-chi-tiet-phuong-an-tong-the-sap-xep-don-vi-hanh-chinh-cap-xa-700278.html |url-status=live |archive-url=https://web.archive.org/web/20260711401509/https://hanoimoi.vn/ha-noi-chi-tiet-phuong-an-tong-the-sap-xep-don-vi-hanh-chinh-cap-xa-700278.html |archive-date=2026-07-11 |access-date=2026-07-11 |website=Cơ quan Báo và Phát thanh, truyền hình Hà Nội}}</ref><ref>Công văn số 2896/BNV-CQĐP ngày 27 tháng 5 năm 2025 của Bộ Nội vụ về việc cung cấp thông tin danh mục dự kiến đơn vị hành chính cấp xã mới.</ref>
+
+== Lịch sử==
+
+=== Trước năm 1976 ===
+Thị trấn Phùng được thành lập vào năm 1954 trên cơ sở tách thôn Phượng Trì thuộc xã Đan Phượng.<ref name=":0">{{chú thích sách| tác giả = | tựa đề = Đan Phượng, di tích lịch sử, văn hóa, và cách mạng| nhà xuất bản = Nhà xuất bản Văn hóa thông tin| year = 2011| nơi = | trang = 185| url = https://www.google.com/books/edition/Đan_Phượng_di_t%C3%ADch_lịch_sử_văn/EExRAQAAMAAJ| doi = | id = | isbn = }}</ref>
+
+=== Giai đoạn 1976 – nay ===
+Sau ngày 2 tháng 7 năm 1976, thị trấn Phùng và 4 xã: Đan Phượng, Đồng Tháp, Song Phượng, Thượng Mỗ thuộc huyện [[Đan Phượng (huyện)|Đan Phượng]] của tỉnh [[Hà Sơn Bình]].
+
+Ngày 29 tháng 12 năm 1978, sáp nhập huyện [[Đan Phượng (huyện)|Đan Phượng]] của tỉnh [[Hà Sơn Bình]] vào thành phố [[Hà Nội]]. Khi đó, thị trấn Phùng và 4 xã: Đan Phượng, Đồng Tháp, Song Phượng, Thượng Mỗ thuộc huyện [[Đan Phượng (huyện)|Đan Phượng]] của thành phố [[Hà Nội]].<ref>Nghị quyết ngày 29 tháng 12 năm 1978 của Quốc hội khóa VI, Kỳ họp thứ 4 phê chuẩn việc phân vạch lại địa giới thành phố Hà Nội, thành phố Hồ Chí Minh, các tỉnh Hà Sơn Bình, Vĩnh Phú, Cao Lạng, Bắc Thái, Quảng Ninh và Đồng Nai.</ref>
+
+Ngày 12 tháng 8 năm 1991, chia tỉnh [[Hà Sơn Bình]] thành 2 tỉnh, lấy tên là tỉnh [[Hòa Bình (tỉnh)|Hòa Bình]] và tỉnh [[Hà Tây (tỉnh)|Hà Tây]]. Chuyển huyện [[Đan Phượng (huyện)|Đan Phượng]] của thành phố [[Hà Nội]] về tỉnh [[Hà Tây (tỉnh)|Hà Tây]]. Khi đó, thị trấn Phùng và 4 xã: Đan Phượng, Đồng Tháp, Song Phượng, Thượng Mỗ thuộc huyện [[Đan Phượng (huyện)|Đan Phượng]] của tỉnh [[Hà Tây (tỉnh)|Hà Tây]].<ref>Nghị quyết ngày 12 tháng 8 năm 1991 của Quốc hội khóa VIII, Kỳ họp thứ 9 về việc điều chỉnh địa giới hành chính một số tỉnh, thành phố trực thuộc Trung ương.</ref>
+
+Ngày 8 tháng 4 năm 2002, sáp nhập 123,84 ha diện tích tự nhiên và 2.818 nhân khẩu của xã Đan Phượng; 126,54 ha diện tích tự nhiên và 2.505 nhân khẩu của xã Song Phượng vào thị trấn Phùng.<ref>Nghị định số 38/2002/NĐ-CP ngày 8 tháng 4 năm 2002 của Chính phủ về việc điều chỉnh địa giới hành chính để mở rộng thị trấn Phùng, huyện Đan Phượng, tỉnh Hà Tây.</ref>
+
+Ngày 29 tháng 5 năm 2008, hợp nhất tỉnh [[Hà Tây (tỉnh)|Hà Tây]] vào thành phố [[Hà Nội]]. Khi đó, thị trấn Phùng và 4 xã: Đan Phượng, Đồng Tháp, Song Phượng, Thượng Mỗ thuộc huyện [[Đan Phượng (huyện)|Đan Phượng]] của thành phố [[Hà Nội]].<ref>Nghị quyết số 15/2008/QH12 ngày 29 tháng 5 năm 2008 của Quốc hội khóa XII, Kỳ họp thứ 3 về việc điều chỉnh địa giới hành chính thành phố Hà Nội và một số tỉnh có liên quan.</ref>
+
+Ngày 16 tháng 6 năm 2025:
+
+* Kết thúc hoạt động của đơn vị hành chính cấp huyện trong cả nước.<ref>{{Chú thích web |last= |date= |title=Nghị quyết số 203/2025/QH15 ngày 16 tháng 6 năm 2025 của Quốc hội khóa XV, Kỳ họp thứ 9 về việc sửa đổi, bổ sung một số điều của Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/nq-sua-doi-hien-phap.pdf |url-status=live |archive-url=https://web.archive.org/web/20260613090807/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/nq-sua-doi-hien-phap.pdf |archive-date=2026-06-13 |access-date=2026-06-13 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+* Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của thị trấn Phùng và các xã Đồng Tháp, Song Phượng, Thượng Mỗ, Đan Phượng (huyện [[Đan Phượng (huyện)|Đan Phượng]]) thành xã mới có tên gọi là xã Đan Phượng.<ref>{{Chú thích web |title=Nghị quyết số 1656/NQ-UBTVQH15 ngày 16 tháng 6 năm 2025 của Ủy ban Thường vụ Quốc hội về việc sắp xếp các đơn vị hành chính cấp xã của thành phố Hà Nội năm 2025 |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf |url-status=live |archive-url=https://web.archive.org/web/20260630400809/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf |archive-date=2026-06-30 |access-date=2026-06-30 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+* Sau khi sắp xếp, xã Đan Phượng được chia thành 26 tổ dân phố – thôn, gồm 6 tổ dân phố và 20 thôn.<ref>6 tổ dân phố: Nguyễn Thái Học, Phan Đình Phùng, Phùng Hưng, Phượng Trì, Tây Sơn và Thụy Ứng của thị trấn Phùng cũ; 5 thôn: Bãi Tháp, Bãi Thụy, Đại Thần, Đồng Vân và Thọ Vực của xã Đồng Tháp cũ; 4 thôn: Tháp Thượng, Thống Nhất, Thu Quế và Thuận Thượng của xã Song Phượng cũ; 8 thôn: An Sơn 1, 2, Đại Phú, Hoa Chử, Tân Thịnh, Tiến Bộ, Trung Hiền và Trung Thành của xã Thượng Mỗ cũ; 3 thôn: Đại Phùng, Đoài Khê và Đông Khê của xã Đan Phượng cũ.</ref><ref>{{Chú thích web |title=Thông tư số 10/2022/TT-BTNMT ngày 29 tháng 9 năm 2022 của Bộ Tài nguyên và Môi trường về việc Ban hành Danh mục địa danh dân cư, sơn văn, thủy văn, kinh tế – xã hội phục vụ công tác thành lập bản đồ thành phố Hà Nội |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2022/10/10-btnmt.pdf |url-status=live |archive-url=https://web.archive.org/web/20260630400809/https://datafiles.chinhphu.vn/cpp/files/vbpq/2022/10/10-btnmt.pdf |archive-date=2026-06-30 |access-date=2026-06-30 |website=Cổng Thông tin điện tử Chính phủ}}</ref><ref name=":02">{{Chú thích web |last= |date= |title=Nghị quyết số 45/NQ-UBBC ngày 20 tháng 3 năm 2026 của Ủy ban bầu cử xã Đan Phượng về việc công bố kết quả bầu cử và danh sách những người trúng cử đại biểu Hội đồng nhân dân xã Đan Phượng khóa XXIII nhiệm kỳ 2026 – 2031 |url=https://danphuong.hanoi.gov.vn/chi-dao-dieu-hanh/nghi-quyet-ve-viec-cong-bo-ket-qua-bau-cu-va-danh-sach-nhung-nguoi-trung-cu-dai-bieu-hoi-dong-nhan-dan-xa-dan-phuong-khoa-xxiii-nhiem-ky-2026-2031-2845260320145604966.htm |url-status=live |archive-url=https://web.archive.org/web/20260701400809/https://danphuong.hanoi.gov.vn/chi-dao-dieu-hanh/nghi-quyet-ve-viec-cong-bo-ket-qua-bau-cu-va-danh-sach-nhung-nguoi-trung-cu-dai-bieu-hoi-dong-nhan-dan-xa-dan-phuong-khoa-xxiii-nhiem-ky-2026-2031-2845260320145604966.htm |archive-date=2026-07-01 |access-date=2026-07-01 |website=Trang Thông tin điện tử xã Đan Phượng – thành phố Hà Nội}}</ref>
+
+Ngày 24 tháng 12 năm 2025, xác định một phần của xã Đan Phượng là [[Đô thị Việt Nam|đô thị loại III]].<ref>Chuyển tiếp từ thị trấn Phùng thuộc huyện Đan Phượng.</ref><ref>{{Chú thích web |title=Nghị quyết số 111/2025/UBTVQH15 ngày 24 tháng 12 năm 2025 của Ủy ban Thường vụ Quốc hội về phân loại đô thị |url=https://cdn.nhandan.vn/files/f4a4abf7f9a0ba4a91744616546d850872b76917f90d5a74cc9eebef1369fb6f/111.pdf |url-status=dead |archive-url=https://web.archive.org/web/20260712401509/https://cdn.nhandan.vn/files/f4a4abf7f9a0ba4a91744616546d850872b76917f90d5a74cc9eebef1369fb6f/111.pdf |archive-date=2026-07-12 |access-date=2026-07-12 |website=Báo Nhân dân}}</ref>
+
+Ngày 24 tháng 6 năm 2026, thành lập 11 thôn mới: Phùng, Thụy Ứng, Phượng Trì, Đông Khê, Đại Phùng, Thu Quế, Song Phượng, Bãi Thụy, Đồng Tháp, Thượng Mỗ và Tân Thành.<ref>1. Thôn Phùng: Ghép 521 hộ với 1.901 nhân khẩu tổ dân phố Phùng Hưng, 641 hộ với 2.488 nhân khẩu tổ dân phố Nguyễn Thái Học và 91 hộ với 365 nhân khẩu khu dân cư phía tây đường Quốc lộ 32A cũ của thôn Thọ Vực (phía giáp cầu Phùng); 2. Thôn Thụy Ứng: Ghép toàn bộ 739 hộ với 2.727 nhân khẩu tổ dân phố Thụy Ứng, 290 hộ với 1.134 nhân khẩu tổ dân phố Tây Sơn và 452 hộ với 1.500 nhân khẩu tổ dân phố Phan Đình Phùng. Ghép 90 hộ với 236 nhân khẩu, gồm: + 25 hộ, 73 nhân khẩu Khu Đồng Súc – Tổ dân phố Phùng Hưng + 13 hộ, 40 nhân khẩu Khu Đồng Súc – Bãi Thụy + 17 hộ, 46 nhân khẩu khu vực từ Phòng Tài chính – Kế hoạch (huyện trước sắp xếp) đến giáp chùa Sùng Phúc (Thụy Ứng) của phố Nguyễn Thái Học + 35 hộ, 77 nhân khẩu khu Xuất khẩu từ Trụ sở Đảng ủy – Hội đồng nhân dân – Ủy ban nhân dân – Ủy ban Mặt trận Tổ quốc Việt Nam xã Đan Phượng đến hết nghĩa trang Cây Hương thôn Tháp Thượng; 3. Thôn Phượng Trì: Ghép toàn bộ 861 hộ với 3.302 nhân khẩu Tổ dân phố Phượng Trì và 335 hộ với 1.313 nhân khẩu thôn Thọ Vực thành lập thôn mới; 4. Thôn Đông Khê: Giữ nguyên toàn bộ 1.003 hộ với 3.727 nhân khẩu thôn Đông Khê. Ghép 170 hộ, 470 nhân khẩu, gồm: + 131 hộ, 356 nhân khẩu Khu Đồng Sậy – Trẫm Sau Phố Phan Đình Phùng + 22 hộ, 58 nhân khẩu Khu tập thể và trường Trung học phổ thông Đan Phượng (gồm cả sân thể chất) phố Phan Đình Phùng + 17 hộ, 56 nhân khẩu khu tập thể bệnh viện, các cơ quan đơn vị Bệnh viện đa khoa Đan Phượng, Nhà máy nước, Trạm Y tế xã phố Tây Sơn; 5. Thôn Đoài Khê: Giữ nguyên toàn bộ 952 hộ dân; 3.506 nhân khẩu thôn Đoài Khê; 6. Thôn Đại Phùng: Giữ nguyên 1.041 hộ với 3.799 nhân khẩu thôn Đại Phùng. Ghép 43 hộ, 173 nhân khẩu phố Phan Đình Phùng (Đoạn từ Siêu thị Nông sản Đan Phượng đến đường rẽ vào Trường Tiểu học Đan Phượng về thôn Đại Phùng); 7. Thôn Thu Quế: Ghép toàn bộ 415 hộ với 1.648 nhân khẩu Thôn Thu Quế và 228 hộ với 986 nhân khẩu thôn Thống Nhất. Ghép 149 hộ, 316 nhân khẩu (toàn bộ số hộ dân phía tây đường Đìa Đừng – Song Phượng), gồm: + 58 hộ, 127 nhân khẩu khu Vệ Lăng – Cây Sung + 91 hộ, 189 nhân khẩu khu Đìa Đừng; 8. Thôn Song Phượng: Ghép toàn bộ 564 hộ với 1.843 nhân khẩu Thôn Tháp Thượng và 347 hộ với 1.401 nhân khẩu Thôn Thuận Thượng; 9. Thôn Bãi Thụy: Ghép toàn bộ 742 hộ với 2.994 nhân khẩu thôn Bãi Thuỵ và 106 hộ với 561 nhân khẩu Thôn Đại Thần (Khu trên phần của thôn giáp thôn Bãi Thụy); 10. Thôn Đồng Tháp: Ghép toàn bộ 595 hộ với 2.476 nhân khẩu thôn Bãi Tháp, 444 hộ với 1.943 nhân khẩu thôn Đồng Vân và 90 hộ với 409 nhân khẩu thôn Đại Thần (Khu dưới); 11. Thôn Thượng Mỗ: Ghép toàn bộ diện tích và dân số của 4 thôn gồm: Thôn An Sơn 1, An Sơn 2, Đại Phú, Hoa Chử thành lập thôn mới; 12. Thôn Tân Thành: Ghép toàn bộ diện tích và dân số của 4 thôn: Tân Thịnh, Tiến Bộ, Trung Thành, Trung Hiền thành lập thôn mới.</ref><ref name=":1">{{Chú thích web |title=Đề án tháng 6 năm 2026 của Ủy ban nhân dân xã Đan Phượng về việc sắp xếp, tổ chức lại thôn, tổ dân phố trên địa bàn xã Đan Phượng, thành phố Hà Nội |url=https://sqhx-hanoi.mediacdn.vn/91579363132710912/2026/6/15/du-thao-de-an-178149007379786136986.pdf |url-status=live |archive-url=https://web.archive.org/web/20260707400809/https://sqhx-hanoi.mediacdn.vn/91579363132710912/2026/6/15/du-thao-de-an-178149007379786136986.pdf |archive-date=2026-07-07 |access-date=2026-07-07 |website=Trang Thông tin điện tử xã Đan Phượng – thành phố Hà Nội}}</ref><ref name=":2">{{Chú thích web |last=Thiên Tú |date=2026-06-24 |title=Kỳ họp thứ 2 Hội đồng nhân dân xã Đan Phượng khóa XXIII: Xem xét nhiều nội dung quan trọng |url=https://hanoimoi.vn/ky-hop-thu-2-hdnd-xa-dan-phuong-khoa-xxiii-xem-xet-nhieu-noi-dung-quan-trong-1208836.html?gidzl=xNz9CJX6KG3fO4qtCbjK1ELXG3CeMGi7_64JOIvR2GBzDa4p9re8KlrbG3DxLGy3hMz3CsFZ22q0FKTL0W |url-status=live |archive-url=https://web.archive.org/web/20260707400809/https://hanoimoi.vn/ky-hop-thu-2-hdnd-xa-dan-phuong-khoa-xxiii-xem-xet-nhieu-noi-dung-quan-trong-1208836.html?gidzl=xNz9CJX6KG3fO4qtCbjK1ELXG3CeMGi7_64JOIvR2GBzDa4p9re8KlrbG3DxLGy3hMz3CsFZ22q0FKTL0W |archive-date=2026-07-07 |access-date=2026-07-07 |website=Cơ quan Báo và Phát thanh, truyền hình Hà Nội}}</ref><!-- 
+Thượng Mỗ là một làng Việt cổ. Hiện nay, xã có 2 làng, được chia làm 8 thôn. Làng Thượng Mỗ bao gồm từ thôn 1 tới thôn 7 và làng Phù Trung gồm thôn 8(từ 1991 trở về trước, xã được chia thành 8 xóm. Sau năm 1991, 8 xóm này đổi thành 8 thôn).
+Diện tích xã được phân bố ra 2 miền: miền đồng (bên làng) và miền bãi (bên trại). Miền đồng, còn gọi là bên làng, có 4 thôn, từ thôn 1 tới thôn 4. Miền bãi, còn gọi là bên trại, có 4 thôn, từ thôn 5 đến thôn 8.
+* Thế kỷ 19 trở về trước, người làng Thượng Mỗ chỉ sinh sống tập trung tại các xóm ở miền đồng (bên làng). Miền bãi thuở xưa vốn là dòng chảy của sông Hồng, tục gọi " vạn mắm, vạn muối", là nơi giao thương buôn bán giữa các tàu buôn và người dân trên bờ. Sau này sông Hồng lùi dần về phía tây, để lại một bãi phù sa rộng lớn. Cuối thế kỷ 19, người các làng Thượng Mỗ, Hạ Mỗ và một số nơi bắt đầu di cư sang miền bãi sinh sống và lập lên các xóm trại. Đầu thế kỷ 20, Thượng Mỗ có 3 xóm trại ở miền bãi, là các thôn 5,6 và 7. Thôn 8 (hiện nay là thôn Trung Hiền) là người làng Phù Trung bên kia sông Hồng do bị lở đất nên di cư sang lập xóm mới.
+*Trước cách mạng tháng tám, làng Thượng Mỗ và làng Phù Trung là 2 xã độc lập, tục gọi Thượng Mỗ là Mố Thượng (bây giờ một số nơi giáp ranh, người dân vẫn gọi Thượng Mỗ là Mố). Sau cách mạng tháng tám, Thượng Mỗ thuộc xã Hồng Thái (gồm Thượng Mỗ, Hạ Mỗ và Hồng Hà). Từ 1972, xã Hồng Thái tách ra làm 3 xã là Thượng Mỗ, Hạ Mỗ và Hồng Hà.
+
+ -->
+
+== Hành chính ==
+Xã Đan Phượng được chia thành 12 thôn: Bãi Thụy, Đại Phùng, Đoài Khê, Đông Khê, Đồng Tháp, Phùng, Phượng Trì, Song Phượng, Tân Thành, Thu Quế, Thụy Ứng và Thượng Mỗ.<ref name=":1" /><ref name=":2" />
+{| class="wikitable sortable" cellpadding="0" cellspacing="6" width="100%" align="center" style="background: #f9f9f9; border: 1px #aaa solid; margin-top: 16px"
+! colspan="4" style="background: #E6E6FA; font-size: 95%;" |Danh sách các thôn thuộc xã Đan Phượng<ref name=":1" /><ref name=":2" />
+|-
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| cellpadding="1" cellspacing="1" width="100%" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Bãi Thụy
+|848
+|-
+| align="left" |Đại Phùng
+|1.084
+|-
+| align="left" |Đoài Khê
+|952
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| cellpadding="1" cellspacing="1" width="100%" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Đông Khê
+|1.173
+|-
+| align="left" |Đồng Tháp
+|1.129
+|-
+| align="left" |Phùng
+|1.198
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| cellpadding="1" cellspacing="1" width="100%" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Phượng Trì
+|1.105
+|-
+| align="left" |Song Phượng
+|727
+|-
+| align="left" |Tân Thành
+|1.318
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| cellpadding="1" cellspacing="1" width="100%" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Thu Quế
+|792
+|-
+| align="left" |Thụy Ứng
+|1.358
+|-
+| align="left" |Thượng Mỗ
+|1.173
+|}
+|}
+
+== Nhân vật nổi bật==
+* [[Quang Dũng (nhà thơ)|Quang Dũng]] ([[1921]] – [[1988]]): [[Nhà thơ]], [[họa sĩ]], [[nhạc sĩ]], nổi tiếng với tác phẩm "[[Tây Tiến|Tây tiến]]". Quê ở thôn Phượng Trì.
+
+== Đặc sản== 
+* [[Nem Phùng]]<ref>[https://laodong.vn/du-lich/am-thuc/nem-phung-dac-san-dan-da-cang-an-cang-me-o-ha-noi-1409455.html Nem Phùng - đặc sản dân dã càng ăn càng mê ở Hà Nội]</ref>
+
+== Chú thích== 
+{{tham khảo| 30em}}
+
+== Tham khảo==
+
+{{sơ khai Hà Nội}}
+{{Đơn vị hành chính thuộc thành phố Hà Nội}}

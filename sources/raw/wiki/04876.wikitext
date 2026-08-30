@@ -1,0 +1,49 @@
+{{Thông tin đơn vị hành chính Việt Nam | xã
+| tên = Cao Sơn
+| hình = 
+| ghi chú hình = 
+| vĩ độ = 20.865034352969364
+| kinh độ = 105.17197981281724
+| diện tích = 124,93 km²
+| dân số = 8.872 người
+| thời điểm dân số = 2025
+| mật độ dân số = {{formatnum:{{#expr:floor({{formatnum:8.872| R}}/{{formatnum:124,93| R}})}} }} người/km²
+| vùng = [[Đông Bắc Bộ]]
+| tỉnh = [[Phú Thọ]]
+| thành lập = 16/6/2025
+| trụ sở UBND = 
+| mã hành chính = 
+| mã bưu chính = 
+}}
+{{other|Cao Sơn (định hướng)}}
+'''Cao Sơn''' là một [[Xã (Việt Nam)|xã]] thuộc tỉnh [[Phú Thọ]], [[Việt Nam]].
+
+== Địa lý ==
+Xã Cao Sơn có vị trí địa lý:
+
+* Phía bắc giáp xã [[Tân Pheo]], xã [[Khả Cửu]], xã [[Hương Cần]] và xã [[Yên Sơn, Phú Thọ|Yên Sơn]].
+* Phía nam giáp xã [[Tiền Phong, Phú Thọ|Tiền Phong]].
+* Phía đông giáp xã [[Đà Bắc (xã)|Đà Bắc]].
+* Phía tây giáp xã [[Quy Đức, Phú Thọ|Quy Đức]].
+
+== Hành chính ==
+Xã Cao Sơn được chia thành 17 thôn: Bai, Chầm, Cò Phày, Diều Bồ, Diều Luông, Diều Nọi, Ênh, Lanh, Mít, Nà Chiếu, Rằng, Sèo, Sơn Lập, Sơn Phú, Sưng, Tát, Tằm.<ref name=":1">{{Chú thích web |last=Bộ Dân tộc và Tôn giáo |date=2026-01-29 |title=Danh sách Thôn vùng đồng bào dân tộc thiểu số và miền núi, thôn đặc biệt khó khăn giai đoạn 2026 - 2030 trên địa bàn tỉnh Phú Thọ |url=http://files.ubdt.gov.vn/files/ecm/source_files/2026/02/05/11252411_4.%20Ph%C3%BA%20Th%E1%BB%8D%201%20(th%C3%B4n).signed_26-02-05.pdf |url-status=live |archive-url=https://web.archive.org/web/20260417090807/http://files.ubdt.gov.vn/files/ecm/source_files/2026/02/05/11252411_4.%20Ph%C3%BA%20Th%E1%BB%8D%201%20(th%C3%B4n).signed_26-02-05.pdf |archive-date=2026-04-17 |access-date=2026-04-17 |website=Cổng Thông tin điện tử Bộ Dân tộc và Tôn giáo}}</ref><ref>{{Chú thích web |last=Ủy ban bầu cử xã Cao Sơn |date=2026-03-20 |title=Nghị quyết số 3/NQ-UBBC về việc công bố kết quả bầu cử và danh sách những người trúng cử đại biểu Hội đồng nhân dân xã Cao Sơn khóa XXI, nhiệm kỳ 2026 - 2031 |url=https://caoson.phutho.gov.vn/index.php/tin-t-c-s-ki-n/tin-n-i-b-t/713-ca-ng-ba-ka-t-qua-ba-u-ca-va-danh-sa-ch-nha-ng-ng-a-i-tra-ng-ca-a-i-bia-u-ha-i-a-ng-nha-n-da-n-xai-cao-s-n-nhia-m-ka-2026-2031.html |url-status=live |archive-url=https://web.archive.org/web/20260419090807/https://caoson.phutho.gov.vn/index.php/tin-t-c-s-ki-n/tin-n-i-b-t/713-ca-ng-ba-ka-t-qua-ba-u-ca-va-danh-sa-ch-nha-ng-ng-a-i-tra-ng-ca-a-i-bia-u-ha-i-a-ng-nha-n-da-n-xai-cao-s-n-nhia-m-ka-2026-2031.html |archive-date=2026-04-19 |access-date=2026-04-19 |website=Trang Thông tin điện tử xã Cao Sơn - tỉnh Phú Thọ}}</ref>
+
+Từ ngày 01 tháng 7 năm 2026, xã Cao Sơn có 10 thôn<ref>{{Chú thích web |title=XÃ CAO SƠN TRIỂN KHAI DỰ THẢO ĐỀ ÁN SẮP XẾP, ĐẶT TÊN, ĐỔI TÊN THÔN TRÊN ĐỊA BÀN XÃ |url=https://caoson.phutho.gov.vn/index.php/tin-t-c-s-ki-n/tin-n-i-b-t/760-xa-cao-s-n-tria-n-khai-da-tha-o-a-a-n-sa-p-xa-p-a-t-ta-n-a-i-ta-n-tha-n-tra-n-a-a-ba-n-xa.html}}</ref>: Sưng Bai, Tằm, Lanh Rằng, Chầm Mít, Tân Minh, Diều Bồ, Sơn Phú, Tát, Sèo, Ênh.
+
+== Lịch sử ==
+Địa bàn xã Cao Sơn trước đây thuộc huyện [[Đà Bắc (huyện)|Đà Bắc]], tỉnh [[Hòa Bình (tỉnh)|Hòa Bình]].
+
+Ngày [[12 tháng 6]] năm [[2025]], [[Quốc hội Việt Nam|Quốc hội]] ban hành Nghị quyết số 202/2025/QH15<ref name="202/2025/QH15">{{Chú thích web |ngày=2025-06-12 |tựa đề=Nghị quyết số 202/2025/QH15 về việc sắp xếp đơn vị hành chính cấp tỉnh |url=https://quochoi.vn/tintuc/Pages/tin-hoat-dong-cua-quoc-hoi.aspx?ItemID=94532 |url-status=live |url lưu trữ=https://web.archive.org/web/20250612150244/https://quochoi.vn/tintuc/Pages/tin-hoat-dong-cua-quoc-hoi.aspx?ItemID=94532 |ngày lưu trữ=2025-06-12 |ngày truy cập=2025-06-12 |website=Cổng thông tin điện tử Quốc hội Việt Nam}}</ref> về việc sắp xếp đơn vị hành chính cấp tỉnh (nghị quyết có hiệu lực từ ngày 12 tháng 6 năm 2025). Theo đó, sáp nhập tỉnh [[Hòa Bình (tỉnh)|Hòa Bình]] và tỉnh [[Vĩnh Phúc (tỉnh)|Vĩnh Phúc]] vào tỉnh Phú Thọ. Xã Cao Sơn thuộc tỉnh Phú Thọ.
+
+Ngày [[16 tháng 6]] năm [[2025]]:
+
+* Quốc hội ban hành Nghị quyết số 203/2025/QH15 về việc sửa đổi, bổ sung một số điều của Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam (nghị quyết có hiệu lực từ ngày [[16 tháng 6]] năm [[2025]]).<ref>{{Chú thích web |last=xaydungchinhsach.chinhphu.vn|date=2025-06-28|title=NGHỊ QUYẾT 203/2025/QH15 SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA HIẾN PHÁP NƯỚC CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM|url=https://xaydungchinhsach.chinhphu.vn/nghi-quyet-203-2025-qh15-sua-doi-bo-sung-mot-so-dieu-cua-hien-phap-nuoc-cong-hoa-xa-hoi-chu-nghia-viet-nam-119250616181735552.htm|access-date=2026-07-15|website=xaydungchinhsach.chinhphu.vn|language=vi}}</ref> Theo đó, kết thúc hoạt động của đơn vị hành chính cấp huyện trong cả nước từ ngày 1 tháng 7 năm 2025.
+* [[Ủy ban Thường vụ Quốc hội]] ban hành Nghị quyết số 1676/NQ-UBTVQH15 về việc sắp xếp các đơn vị hành chính cấp xã của tỉnh Phú Thọ năm 2025 (nghị quyết có hiệu lực từ ngày [[16 tháng 6]] năm [[2025]]).<ref>{{Chú thích web |last=xaydungchinhsach.chinhphu.vn |date=2025-06-20 |title=Nghị quyết số 1676/NQ-UBTVQH15 sắp xếp các ĐVHC cấp xã của tỉnh Phú Thọ năm 2025 |url=https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-1676-nq-ubtvqh15-sap-xep-cac-dvhc-cap-xa-cua-tinh-phu-tho-nam-2025-119250616204317326.htm |access-date=2025-09-07 |website=xaydungchinhsach.chinhphu.vn |language=vi}}</ref> Theo đó, sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của xã Tân Minh và xã Cao Sơn (huyện [[Đà Bắc (huyện)|Đà Bắc]]) thành xã mới có tên gọi là '''xã Cao Sơn'''.
+
+==Chú thích==
+{{tham khảo|30em}}
+
+== Tham khảo ==
+{{sơ khai Phú Thọ}}
+{{Đơn vị hành chính thuộc tỉnh Phú Thọ}}

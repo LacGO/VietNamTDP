@@ -1,0 +1,88 @@
+{
+  "ward_code": "00577",
+  "ward_name": "Bát Tràng",
+  "province_code": "01",
+  "resolution": "",
+  "arrangement": "2026_07",
+  "effective_date": "2026-07-01",
+  "verified": "unverified",
+  "extraction": {
+    "source": "vi.wikipedia.org",
+    "title": "(cache)",
+    "mode": "table"
+  },
+  "sources": [
+    {
+      "key": "wiki-00577-1",
+      "title": "Hội đồng nhân dân xã Bát Tràng thông qua 9 Nghị quyết tại kỳ họp cuối năm",
+      "url": "https://battrang.hanoi.gov.vn/tin-tuc-su-kien/hdnd-xa-bat-trang-thong-qua-9-nghi-quyet-tai-ky-hop-cuoi-nam-2757251205155819924.htm?gidzl=NiX2CXU4kKfQrqOq7Pc-ILBMHZ83pRnFIDH1D5IPlKfFqKPb1iwm6a3HIpTPdB0OHTaSPMD_VSv94eMzI0",
+      "date": "2025-12-05",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-00577-2",
+      "title": "",
+      "url": "https://m.thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Nghi-quyet-30-NQ-HDND-2020-thanh-lap-dat-ten-thon-to-dan-pho-thanh-pho-Ha-Noi-461372.aspx",
+      "date": "2023-12-09",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-00577-3",
+      "title": "Hội đồng nhân dân xã Bát Tràng khóa XXII tổ chức Kỳ họp thứ 2, nhiệm kỳ 2026 – 2031",
+      "url": "https://battrang.hanoi.gov.vn/hoat-dong-hoi-dong-nhan-dan/hdnd-xa-bat-trang-khoa-xxii-to-chuc-ky-hop-thu-2-nhiem-ky-2026-2031-2757260625163347921.htm?gidzl=bWDMU1GKUHYI759-7Wb-6veTKNq0NNyOW1zMUrS9VXs76b4g1LvpJOWQN7XQ37DFZH8BAcEq9XfH4HLz6W",
+      "date": "2026-06-27",
+      "type": "wikipedia-ref"
+    }
+  ],
+  "note": "Trích tự động từ Wikipedia tiếng Việt (mode=table). Cần đối chiếu nghị quyết HĐND phường/xã.",
+  "tdp": [
+    {
+      "name": "1 Kim Lan",
+      "type": "thôn"
+    },
+    {
+      "name": "2 Kim Lan",
+      "type": "thôn"
+    },
+    {
+      "name": "Bát Tràng",
+      "type": "thôn"
+    },
+    {
+      "name": "Chử Xá",
+      "type": "thôn"
+    },
+    {
+      "name": "Đa Tốn",
+      "type": "thôn"
+    },
+    {
+      "name": "Đào Xuyên",
+      "type": "thôn"
+    },
+    {
+      "name": "Giang Cao",
+      "type": "thôn"
+    },
+    {
+      "name": "Hạ Đông Dư",
+      "type": "thôn"
+    },
+    {
+      "name": "Khoan Tế",
+      "type": "thôn"
+    },
+    {
+      "name": "Thuận Tốn",
+      "type": "thôn"
+    },
+    {
+      "name": "Thượng Đông Dư",
+      "type": "thôn"
+    },
+    {
+      "name": "Trung Quan",
+      "type": "thôn"
+    }
+  ]
+}

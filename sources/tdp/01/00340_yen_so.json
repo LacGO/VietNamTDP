@@ -1,0 +1,84 @@
+{
+  "ward_code": "00340",
+  "ward_name": "Yên Sở",
+  "province_code": "01",
+  "resolution": "",
+  "arrangement": "2026_07",
+  "effective_date": "2026-07-01",
+  "verified": "unverified",
+  "extraction": {
+    "source": "vi.wikipedia.org",
+    "title": "(cache)",
+    "mode": "table"
+  },
+  "sources": [
+    {
+      "key": "wiki-00340-1",
+      "title": "Thông báo số 376/TB-UBND ngày 30 tháng 6 năm 2026 về việc công khai Nghị quyết thành lập, sắp xếp, tổ chức lại tổ dân phố trên địa bàn phường Yên Sở",
+      "url": "https://sqhx-hanoi.mediacdn.vn/91579363132710912/2026/7/2/document-93-1782955348022552230362.pdf",
+      "date": "",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-00340-2",
+      "title": "Đề án năm 2026 của Ủy ban nhân dân phường Yên Sở về việc sắp xếp tổ dân phố trên địa bàn phường Yên Sở, thành phố Hà Nội",
+      "url": "https://yenso.hanoi.gov.vn/thong-bao/ve-viec-cong-khai-du-thao-de-an-sap-xep-to-dan-photren-dia-ban-phuong-yen-so-thanh-pho-ha-noi-2797260611095954568.htm",
+      "date": "",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-00340-3",
+      "title": "Nghị quyết số 111/2025/UBTVQH15 ngày 24 tháng 12 năm 2025 của Ủy ban Thường vụ Quốc hội về phân loại đô thị",
+      "url": "https://cdn.nhandan.vn/files/f4a4abf7f9a0ba4a91744616546d850872b76917f90d5a74cc9eebef1369fb6f/111.pdf",
+      "date": "2026-04-30",
+      "type": "wikipedia-ref"
+    }
+  ],
+  "note": "Trích tự động từ Wikipedia tiếng Việt (mode=table). Cần đối chiếu nghị quyết HĐND phường/xã.",
+  "tdp": [
+    {
+      "name": "Hưng Phúc",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Hưng Thịnh",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Pháp Vân 1",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Pháp Vân 2",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Pháp Vân 3",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Pháp Vân 4",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Pháp Vân 5",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Pháp Vân 6",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Tứ Hiệp 1",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Tứ Hiệp 2",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Tứ Hiệp 3",
+      "type": "tổ dân phố"
+    }
+  ]
+}

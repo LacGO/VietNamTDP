@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.DS_Store
+scratchpad_*.log
+portal_pt*.log
+/pt2.log
+nohup.out

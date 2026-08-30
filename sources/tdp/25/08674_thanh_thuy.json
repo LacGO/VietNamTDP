@@ -1,0 +1,44 @@
+{
+  "ward_code": "08674",
+  "ward_name": "Thanh Thuỷ",
+  "province_code": "25",
+  "resolution": "",
+  "arrangement": "truoc_2026_07",
+  "effective_date": "",
+  "verified": "unverified",
+  "extraction": {
+    "source": "vi.wikipedia.org",
+    "title": "Thanh Thủy, Phú Thọ",
+    "mode": "narrative!old"
+  },
+  "sources": [
+    {
+      "key": "wiki-08674-1",
+      "title": "Danh sách ứng cử viên đại biểu Hội đồng nhân dân xã Thanh Thủy khóa II nhiệm kỳ 2026 - 2031",
+      "url": "https://thanhthuy.phutho.gov.vn/Chuyen-muc-tin/Chi-tiet-tin/t/DANH%20S%C3%81CH%20%E1%BB%A8NG%20C%E1%BB%AC%20VI%C3%8AN%20%C4%90%E1%BA%A0I%20BI%E1%BB%82U%20H%C4%90ND%20X%C3%83%20THANH%20THU%E1%BB%B6%20KHO%C3%81%20II%20NHI%E1%BB%86M%20K%E1%BB%B2%202026%20-%202031/title/67863/ctitle/21",
+      "date": "2026-03-04",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-08674-2",
+      "title": "Nghị quyết số 111/2025/UBTVQH15 về phân loại đô thị",
+      "url": "https://xaydungchinhsach.chinhphu.vn/nghi-quyet-so-111-2025-ubtvqh15-ve-phan-loai-do-thi-119260101170432239.htm",
+      "date": "2026-01-21",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-08674-3",
+      "title": "TOÀN VĂN: Nghị quyết số 202/2025/QH15 về sắp xếp đơn vị hành chính cấp tỉnh",
+      "url": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-202-2025-qh15-ve-sap-xep-don-vi-hanh-chinh-cap-tinh-119250612174148722.htm",
+      "date": "2025-07-16",
+      "type": "wikipedia-ref"
+    }
+  ],
+  "note": "Trích tự động từ Wikipedia tiếng Việt (mode=narrative!old). Cần đối chiếu nghị quyết HĐND phường/xã. ⚠️ Danh mục có thể là hiện trạng TRƯỚC sắp xếp thôn/TDP 01/7/2026 — Wikipedia chưa cập nhật nghị quyết mới.",
+  "tdp": [
+    {
+      "name": "Phố",
+      "type": "khu"
+    }
+  ]
+}

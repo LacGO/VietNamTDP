@@ -1,0 +1,116 @@
+{
+  "ward_code": "00430",
+  "ward_name": "Đa Phúc",
+  "province_code": "01",
+  "resolution": "",
+  "arrangement": "2026_07",
+  "effective_date": "2026-07-01",
+  "verified": "unverified",
+  "extraction": {
+    "source": "vi.wikipedia.org",
+    "title": "(cache)",
+    "mode": "table"
+  },
+  "sources": [
+    {
+      "key": "wiki-00430-1",
+      "title": "Ủy ban nhân dân xã Đa Phúc thông báo chính thức 19 thôn sau sắp xếp (theo Nghị quyết số 22/NQ-HĐND ngày 24 tháng 6 năm 2026 của Hội đồng nhân dân xã Đa Phúc)",
+      "url": "https://web.facebook.com/story.php?story_fbid=122186167904924832&id=61577744976709&rdid=50qWc48pmyeSqD6Q#",
+      "date": "2026-07-03",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-00430-2",
+      "title": "Công bố danh sách chính thức những người ứng cử đại biểu Hội đồng nhân dân xã Đa Phúc nhiệm kỳ 2026 – 2031",
+      "url": "https://daphuc.hanoi.gov.vn/tin-tuc-su-kien/cong-bo-danh-sach-chinh-thuc-nhung-nguoi-ung-cu-dai-bieu-hdnd-xa-da-phuc-nhiem-ky-2026-2031-2766260227170257609.htm",
+      "date": "2026-02-27",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-00430-3",
+      "title": "Nghị quyết số 1656/NQ-UBTVQH15 ngày 16 tháng 6 năm 2025 của Ủy ban Thường vụ Quốc hội về việc sắp xếp các đơn vị hành chính cấp xã của thành phố Hà Nội năm 2025",
+      "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf",
+      "date": "2026-06-30",
+      "type": "wikipedia-ref"
+    }
+  ],
+  "note": "Trích tự động từ Wikipedia tiếng Việt (mode=table). Cần đối chiếu nghị quyết HĐND phường/xã.",
+  "tdp": [
+    {
+      "name": "Bắc Phú",
+      "type": "thôn"
+    },
+    {
+      "name": "Bắc Vọng",
+      "type": "thôn"
+    },
+    {
+      "name": "Đức Hậu",
+      "type": "thôn"
+    },
+    {
+      "name": "Đức Hòa",
+      "type": "thôn"
+    },
+    {
+      "name": "Hiệu Cẩm",
+      "type": "thôn"
+    },
+    {
+      "name": "Kim Lũ",
+      "type": "thôn"
+    },
+    {
+      "name": "Kim Thượng",
+      "type": "thôn"
+    },
+    {
+      "name": "Lai Cách",
+      "type": "thôn"
+    },
+    {
+      "name": "Ngô Đạo",
+      "type": "thôn"
+    },
+    {
+      "name": "Phú Tàng",
+      "type": "thôn"
+    },
+    {
+      "name": "Tân Hưng",
+      "type": "thôn"
+    },
+    {
+      "name": "Thượng Thanh",
+      "type": "thôn"
+    },
+    {
+      "name": "Tiên Tào",
+      "type": "thôn"
+    },
+    {
+      "name": "Việt Long",
+      "type": "thôn"
+    },
+    {
+      "name": "Xuân Dương",
+      "type": "thôn"
+    },
+    {
+      "name": "Xuân Giang",
+      "type": "thôn"
+    },
+    {
+      "name": "Xuân Lai",
+      "type": "thôn"
+    },
+    {
+      "name": "Xuân Ngọc",
+      "type": "thôn"
+    },
+    {
+      "name": "Xuân Thu",
+      "type": "thôn"
+    }
+  ]
+}

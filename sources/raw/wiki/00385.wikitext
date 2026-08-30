@@ -1,0 +1,144 @@
+{{Thông tin đơn vị hành chính Việt Nam |Xã
+| tên = Trung Giã
+| hình = Núi non Sóc Sơn - NKS.jpg 
+| ghi chú hình = Quang cảnh núi non vùng núi Hàm Lợn 
+| vĩ độ = 21.317965800854886
+| kinh độ = 105.85528049794186
+| diện tích = 77,52 km²
+| dân số = 61.315 người
+| thời điểm dân số = 2025
+| mật độ dân số = {{formatnum:{{#expr:floor({{formatnum:61.315| R}}/{{formatnum:77,52| R}})}} }} người/km²
+| vùng = [[Đồng bằng sông Hồng]]
+| thành phố = [[Hà Nội]]
+| thành lập = 
+| trụ sở UBND = Thôn Hồng Kỳ<ref>{{Chú thích web |url=https://storage-vnportal.vnpt.vn/gov-hni/6244/VanBan/2025/6/25/TB-729-2025.pdf |title=Thông báo số 729/TB-UBND ngày 25 tháng 6 năm 2025 của Ủy ban nhân dân thành phố Hà Nội về địa điểm trụ sở làm việc của 126 phường, xã sau sắp xếp thuộc phạm vi quản lý của thành phố Hà Nội|access-date=2026-06-15 |archive-date=2026-06-15 |archive-url=https://web.archive.org/web/20260615034519/https://storage-vnportal.vnpt.vn/gov-hni/6244/VanBan/2025/6/25/TB-729-2025.pdf |url-status=dead | website = Cổng Thông tin điện tử Ủy ban nhân dân thành phố Hà Nội}}</ref>
+| mã hành chính =00385<ref>{{Chú thích web |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/19ttg.signed.pdf |title=Quyết định số 19/2025/QĐ-TTg ngày 30 tháng 6 năm 2025 của Thủ tướng Chính phủ về việc Ban hành Bảng danh mục và mã số các đơn vị hành chính Việt Nam |access-date=2026-06-15 |archive-date=2026-06-15 |archive-url=https://web.archive.org/web/20260615034519/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/19ttg.signed.pdf |url-status=dead | website = Cổng Thông tin điện tử Chính phủ}}</ref> 
+| mã bưu chính ={{url|trunggia.hanoi.gov.vn}} 
+|bản đồ 1={{maplink|frame=yes|plain=yes|type=shape|frame-width=280|frame-align=center|stroke-width=3}}|trụ sở Đảng ủy=Thôn Xuân Bảng}}
+'''Trung Giã''' là một [[Xã (Việt Nam)|xã]] thuộc thành phố [[Hà Nội]], [[Việt Nam]]. Đây là xã nằm ở cực bắc của thành phố [[Hà Nội]]. 
+
+== Địa lý== 
+Xã Trung Giã có vị trí địa lý:
+
+* Phía đông giáp xã [[Hợp Thịnh]] thuộc tỉnh [[Bắc Ninh]]
+* Phía tây giáp phường [[Xuân Hòa, Phú Thọ|Xuân Hòa]] thuộc tỉnh [[Phú Thọ]]<nowiki/> và xã [[Kim Anh (xã)|Kim Anh]] 
+* Phía nam giáp xã [[Nội Bài]], xã [[Sóc Sơn (xã)|Sóc Sơn]] và xã [[Đa Phúc (xã)|Đa Phúc]]
+* Phía bắc giáp xã [[Thành Công, Thái Nguyên|Thành Công]] và phường [[Trung Thành (phường)|Trung Thành]] thuộc tỉnh [[Thái Nguyên]].<ref>{{Chú thích web |last=Viện nghiên cứu Phát triển kinh tế – xã hội Hà Nội |date=2025-07-02 |title=Xã Trung Giã: Những thông tin chi tiết sau sắp xếp |url=https://hanoionline.vn/xa-trung-gia-nhung-thong-tin-chi-tiet-sau-sap-xep-344004.htm |url-status=live |archive-url=https://web.archive.org/web/20260701400809/https://hanoionline.vn/xa-trung-gia-nhung-thong-tin-chi-tiet-sau-sap-xep-344004.htm |archive-date=2026-07-01 |access-date=2026-07-01 |website=Cơ quan Báo và Phát thanh Truyền hình Hà Nội}}</ref><ref>{{Chú thích web |last=Cơ quan Báo và Phát thanh Truyền hình Hà Nội|date=2025-07-08|title=Xã Trung Giã: Tất cả thông tin chỉ dẫn bạn cần biết|url=https://hanoionline.vn/xa-trung-gia-tat-ca-thong-tin-chi-dan-ban-can-biet-345422.htm|url-status=live|archive-url=https://web.archive.org/web/20260711401509/https://hanoionline.vn/xa-trung-gia-tat-ca-thong-tin-chi-dan-ban-can-biet-345422.htm|archive-date=2026-07-11|access-date=2026-07-11}}</ref>
+Xã Trung Giã có diện tích tự nhiên là 77,52 km<sup>2</sup>, quy mô dân số năm 2025 là 61.315 người và mật độ dân số đạt 790 người/km<sup>2</sup>.<ref>{{Chú thích web|last=Mai Hữu|date=2026-04-05|title=Hà Nội: Chi tiết phương án tổng thể sắp xếp đơn vị hành chính cấp xã|url=https://hanoimoi.vn/ha-noi-chi-tiet-phuong-an-tong-the-sap-xep-don-vi-hanh-chinh-cap-xa-700278.html|url-status=bot: unknown|archive-url=https://web.archive.org/web/20250710163328/https://hanoimoi.vn/ha-noi-chi-tiet-phuong-an-tong-the-sap-xep-don-vi-hanh-chinh-cap-xa-700278.html|archive-date=2025-07-10|access-date=2026-07-11|website=Cơ quan Báo và Phát thanh, truyền hình Hà Nội}}</ref><ref>Công văn số 2896/BNV-CQĐP ngày 27 tháng 5 năm 2025 của Bộ Nội vụ về việc cung cấp thông tin danh mục dự kiến đơn vị hành chính cấp xã mới.</ref>
+
+Đây là xã duy nhất trong cả nước giáp với 3 đơn vị hành chính cấp tỉnh khác.
+
+Từ ngày 4 tháng 7 năm 1954 đến ngày 3 tháng 8 năm 1954, đoàn đại diện [[Quân đội Nhân dân Việt Nam]] và đoàn đại diện [[Quân đội Pháp]] đã họp bàn về các quy chế trao trả tù binh, thường dân bị bắt trong chiến tranh, việc tiếp quản các thành phố...
+
+== Lịch sử==
+
+=== Trước năm 1976 ===
+
+=== Giai đoạn 1976 – nay ===
+Sau ngày 2 tháng 7 năm 1976, 4 xã: Bắc Sơn, Hồng Kỳ, Nam Sơn và Trung Giã thuộc huyện [[Đa Phúc (huyện)|Đa Phúc]] của tỉnh [[Vĩnh Phú (xã)|Vĩnh Phú]].
+
+Ngày 5 tháng 7 năm 1977, hợp nhất huyện [[Đa Phúc (huyện)|Đa Phúc]], huyện [[Kim Anh (huyện)|Kim Anh]], thị trấn (thuộc tỉnh) [[Xuân Hòa, Phú Thọ|Xuân Hòa]] thành một huyện lấy tên là huyện [[Sóc Sơn (huyện)|Sóc Sơn]]. Khi đó, 4 xã: Bắc Sơn, Hồng Kỳ, Nam Sơn và Trung Giã thuộc huyện [[Sóc Sơn (huyện)|Sóc Sơn]].<ref>Quyết định số 178-CP ngày 5 tháng 7 năm 1977 của Hội đồng Chính phủ về việc hợp nhất và điều chỉnh địa giới một số huyện thuộc tỉnh Vĩnh Phú.</ref>
+
+Ngày 29 tháng 12 năm 1978, sáp nhập huyện [[Sóc Sơn (huyện)|Sóc Sơn]] của tỉnh [[Vĩnh Phú (tỉnh)|Vĩnh Phú]] vào thành phố [[Hà Nội]]. Khi đó, 4 xã: Bắc Sơn, Hồng Kỳ, Nam Sơn và Trung Giã thuộc huyện [[Sóc Sơn (huyện)|Sóc Sơn]] của thành phố [[Hà Nội]].<ref>Nghị quyết ngày 29 tháng 12 năm 1978 của Quốc hội khóa VI, Kỳ họp thứ 4 phê chuẩn việc phân vạch lại địa giới thành phố Hà Nội, thành phố Hồ Chí Minh, các tỉnh Hà Sơn Bình, Vĩnh Phú, Cao Lạng, Bắc Thái, Quảng Ninh và Đồng Nai.</ref>
+
+Ngày 16 tháng 6 năm 2025:
+
+* Kết thúc hoạt động của đơn vị hành chính cấp huyện trong cả nước.<ref>{{Chú thích web |last= |date= |title=Nghị quyết số 203/2025/QH15 ngày 16 tháng 6 năm 2025 của Quốc hội khóa XV, Kỳ họp thứ 9 về việc sửa đổi, bổ sung một số điều của Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/nq-sua-doi-hien-phap.pdf |url-status=live |archive-url=https://web.archive.org/web/20260613090807/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/nq-sua-doi-hien-phap.pdf |archive-date=2026-06-13 |access-date=2026-06-13 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+* Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của các xã Bắc Sơn, Hồng Kỳ, Nam Sơn và Trung Giã (huyện [[Sóc Sơn (huyện)|Sóc Sơn]]) thành xã mới có tên gọi là xã Trung Giã.<ref>{{Chú thích web |title=Nghị quyết số 1656/NQ-UBTVQH15 ngày 16 tháng 6 năm 2025 của Ủy ban Thường vụ Quốc hội về việc sắp xếp các đơn vị hành chính cấp xã của thành phố Hà Nội năm 2025 |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf |url-status=bot: unknown |archive-url=https://web.archive.org/web/20260513110024/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf |archive-date=2026-05-13 |access-date=2026-06-30 |website=Cổng Thông tin điện tử Chính phủ }}</ref>
+* Sau khi sắp xếp, xã Trung Giã được chia thành 33 thôn.<ref>9 thôn: Chấu, Đa Hội, Đô Lương, Đô Tân, Lai Sơn, Lương Đình, Nam Lý, Phúc Xuân và Tiên Chu của xã Bắc Sơn cũ; 9 thôn, đánh số từ 1 đến 9 của xã Hồng Kỳ cũ; 5 thôn: Đông Hạ, Hoa Sơn, Liên Xuân, Thanh Hà và Xuân Bảng của xã Nam Sơn cũ; 10 thôn: An Lạc, Bình An, Đo, Hòa Bình, Phong Mỹ, Phố Nỷ, Sông Công, Thống Nhất, Trung Kiên và Xuân Sơn của xã Trung Giã cũ.</ref><ref>{{Chú thích web |title=Thông tư số 10/2022/TT-BTNMT ngày 29 tháng 9 năm 2022 của Bộ Tài nguyên và Môi trường về việc Ban hành Danh mục địa danh dân cư, sơn văn, thủy văn, kinh tế – xã hội phục vụ công tác thành lập bản đồ thành phố Hà Nội |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2022/10/10-btnmt.pdf |url-status=bot: unknown |archive-url=https://web.archive.org/web/20260630082812/https://datafiles.chinhphu.vn/cpp/files/vbpq/2022/10/10-btnmt.pdf |archive-date=2026-06-30 |access-date=2026-06-30 |website=Cổng Thông tin điện tử Chính phủ }}</ref><ref>{{Chú thích web |last=Trang Thông tin điện tử xã Trung Giã – thành phố Hà Nội |date=2026-02-25 |title=Trung Giã công bố danh sách chính thức những người ứng cử đại biểu Hội đồng nhân dân xã Trung Giã nhiệm kỳ 2026 – 2031 theo từng đơn vị bầu cử |url=https://trunggia.hanoi.gov.vn/bau-cu-quoc-hoi-va-hdnd-cac-cap-nk-2026-2031/trung-gia-cong-bo-danh-sach-chinh-thuc-nhung-nguoi-ung-cu-dai-bieu-hoi-dong-nhan-dan-xa-trung-gia-nhiem-ky-2026-2031-theo-tung-don-vi-bau-cu-2778260228211815399.htm |url-status=live |archive-url=https://web.archive.org/web/20260701400809/https://trunggia.hanoi.gov.vn/bau-cu-quoc-hoi-va-hdnd-cac-cap-nk-2026-2031/trung-gia-cong-bo-danh-sach-chinh-thuc-nhung-nguoi-ung-cu-dai-bieu-hoi-dong-nhan-dan-xa-trung-gia-nhiem-ky-2026-2031-theo-tung-don-vi-bau-cu-2778260228211815399.htm |archive-date=2026-07-01 |access-date=2026-07-01}}</ref>
+
+Ngày 25 tháng 6 năm 2026, thành lập 14 thôn mới: Bình An, Phố Nỷ, Thống Nhất, An Lạc, Hợp Nhất, Hồng Kỳ, Tân Yên, Kim Ninh, Nam Sơn, Xuân Bảng, Lương Hội, Bắc Sơn, Nam Lý và Lai Sơn.<ref>1. Thôn Bình An: Thành lập trên cơ sở sáp nhập toàn bộ dân số, diện tích tự nhiên của thôn Sông Công, Bình An và thôn Phong Mỹ; 2. Thôn Phố Nỷ: Thành lập trên cơ sở sáp nhập toàn bộ diện tích tự nhiên và dân số của thôn Xuân Sơn và thôn Phố Nỷ; 3. Thôn Thống Nhất: Thành lập trên cơ sở sáp nhập toàn bộ dân số và diện tích tự nhiên của thôn Trung Kiên, Thống Nhất và thôn Đo; 4. Thôn An Lạc: Thành lập trên cơ sở sáp nhập toàn bộ dân số và diện tích tự nhiên của thôn Hòa Bình và thôn An Lạc; 5. Thôn Hợp Nhất: Thành lập trên cơ sở sáp nhập toàn bộ dân số và diện tích tự nhiên của thôn 1 và thôn 2; 6. Thôn Hồng Kỳ: Thành lập trên cơ sở sáp nhập toàn bộ dân số và diện tích tự nhiên của thôn 4 và thôn 5; 7. Thôn Tân Yên: Thành lập trên cơ sở sáp nhập toàn bộ dân số và diện tích tự nhiên của thôn 3, 6 và thôn 7; 8. Thôn Kim Ninh: Thành lập trên cơ sở sáp nhập toàn bộ dân số và diện tích tự nhiên của thôn 8 và thôn 9; 9. Thôn Thanh Hà: Giữ nguyên thôn Thanh Hà; 10. Thôn Nam Sơn: Thành lập trên cơ sở sáp nhập toàn bộ dân số và diện tích tự nhiên của thôn Hoa Sơn và thôn Đông Hạ; 11. Thôn Xuân Bảng: Thành lập trên cơ sở sáp nhập toàn bộ dân số và diện tích tự nhiên của thôn Liên Xuân và thôn Xuân Bảng; 12. Thôn Lương Hội: Thành lập trên cơ sở sáp nhập toàn bộ dân số và diện tích tự nhiên của thôn Đô Lương và thôn Đa Hội; 13. Thôn Bắc Sơn: Thành lập trên cơ sở sáp nhập toàn bộ dân số và diện tích tự nhiên của thôn Phúc Xuân và thôn Tiên Chu; 14. Thôn Nam Lý: Thành lập trên cơ sở sáp nhập toàn bộ dân số và diện tích tự nhiên của thôn Lương Đình và Nam Lý; 15. Thôn Lai Sơn: Thành lập trên cơ sở sáp nhập toàn bộ dân số và diện tích tự nhiên của thôn Lai Sơn và thôn Chấu; 16. Thôn Đô Tân: Giữ nguyên không sáp nhập.</ref><ref name=":0" /><ref name=":2">{{Chú thích web |title=Nghị quyết số 16/NQ-HĐND ngày 25 tháng 6 năm 2026 của Hội đồng nhân dân xã Trung Giã về việc sắp xếp thôn trên địa bàn xã Trung Giã |url=https://web.facebook.com/story.php?story_fbid=122139248895042990&id=61581289700262&rdid=MwlRQSzlfU5bRUqn# |url-status=live |archive-url=https://web.archive.org/web/20260706400809/https://web.facebook.com/story.php?story_fbid=122139248895042990&id=61581289700262&rdid=MwlRQSzlfU5bRUqn# |archive-date=2026-07-06 |access-date=2026-07-06 |website=Trung tâm Dịch vụ Tổng hợp xã Trung Giã – thành phố Hà Nội}}</ref><ref name=":1">{{Chú thích web |last=Trang Thông tin điện tử xã Trung Giã – thành phố Hà Nội |date=2026-07-01 |title=Ủy ban nhân dân xã Trung Giã trân thông báo về việc sắp xếp thôn trên địa bàn xã Trung Giã |url=https://trunggia.hanoi.gov.vn/thong-tin-tuyen-truyen/ubnd-xa-trung-gia-tran-trong-thong-bao-2778260703101745466.htm?gidzl=0M8k6gyC-aC5VIeSfH7vGWns8H-w6l504tGXJUeTeHHAUYPCvnVqGKnwT1ks5g5B72ns5J2ON-5egWt-GG |url-status=live |archive-url=https://web.archive.org/web/20260705400809/https://trunggia.hanoi.gov.vn/thong-tin-tuyen-truyen/ubnd-xa-trung-gia-tran-trong-thong-bao-2778260703101745466.htm?gidzl=0M8k6gyC-aC5VIeSfH7vGWns8H-w6l504tGXJUeTeHHAUYPCvnVqGKnwT1ks5g5B72ns5J2ON-5egWt-GG |archive-date=2026-07-05 |access-date=2026-07-05}}</ref>
+
+== Hành chính==
+Xã Trung Giã được chia thành 16 thôn: An Lạc, Bắc Sơn, Bình An, Đô Tân, Hồng Kỳ, Hợp Nhất, Kim Ninh, Lai Sơn, Lương Hội, Nam Lý, Nam Sơn, Phố Nỷ, Tân Yên, Thanh Hà, Thống Nhất và Xuân Bảng.<ref name=":0">{{Chú thích web |last=Trang Thông tin điện tử xã Trung Giã – thành phố Hà Nội |date=2026-06-06 |title=Trung Giã: Công khai dự thảo đề án sắp xếp các thôn trên địa bàn xã |url=https://trunggia.hanoi.gov.vn/tin-tuc-su-kien/trung-gia-cong-khai-du-thao-de-an-sap-xep-cac-thon-tren-dia-ban-xa-2778260606083856333.htm?gidzl=g0Fq4TIderAi7F0NthgWKwGMy1B0iADNknJmG92tymFY6lT1dRscLkGQfHRClFDSj4od631AbM9oqQQdK0 |url-status=live |archive-url=https://web.archive.org/web/20260705400809/https://trunggia.hanoi.gov.vn/tin-tuc-su-kien/trung-gia-cong-khai-du-thao-de-an-sap-xep-cac-thon-tren-dia-ban-xa-2778260606083856333.htm?gidzl=g0Fq4TIderAi7F0NthgWKwGMy1B0iADNknJmG92tymFY6lT1dRscLkGQfHRClFDSj4od631AbM9oqQQdK0 |archive-date=2026-07-05 |access-date=2026-07-05}}</ref><ref name=":2" /><ref name=":1" />
+{| class="wikitable sortable" align="center" width="100%" cellspacing="6" cellpadding="0" style="background: #f9f9f9; border: 1px #aaa solid; margin-top: 16px"
+! colspan="4" style="background: #E6E6FA; font-size: 95%;" |Danh sách các thôn thuộc xã Trung Giã<ref name=":0" /><ref name=":2" /><ref name=":1" />
+|-
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |An Lạc
+|885
+|-
+| align="left" |Bắc Sơn
+|1.038
+|-
+| align="left" |Bình An
+|1.134
+|-
+| align="left" |Đô Tân
+|878
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Hồng Kỳ
+|900
+|-
+| align="left" |Hợp Nhất
+|948
+|-
+| align="left" |Kim Ninh
+|939
+|-
+| align="left" |Lai Sơn
+|963
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Lương Hội
+|1.101
+|-
+| align="left" |Nam Lý
+|954
+|-
+| align="left" |Nam Sơn
+|1.127
+|-
+| align="left" |Phổ Nỷ
+|1.308
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Tân Yên
+|1.044
+|-
+| align="left" |Thanh Hà
+|657
+|-
+| align="left" |Thống Nhất
+|944
+|-
+| align="left" |Xuân Bảng
+|1.067
+|}
+|}
+
+== Giao thông== 
+Trung Giã nằm trên tuyến quốc lộ 3, giữa tuyến giao thông từ Thái Nguyên về Hà Nội.
+
+== Kinh tế== 
+Trung Giã là một xã kinh tế chủ yếu dựa vào nông nghiệp. Tuy nhiên, xã cũng có một số công ty tư nhân và liên doanh hoạt động trên địa bàn, tiêu biểu như nhà máy liên doanh Yamaha.Trung Giã cũng có nhà máy sản xuất ô tô..
+
+== Giáo dục== 
+Hiện ở Trung Giã dân trí tương đối cao, có tỷ lệ học sinh tốt nghiệp THPT đạt hơn 90% và tỷ lệ đỗ các trường cao đẳng, đại học có tiếng mỗi năm là khá nhiều.
+
+==Hình ảnh==
+[[File:Đền Cô bé ngai vàng.jpg|thumb|Đền Cô bé ngai vàng]]
+
+== Chú thích==
+<references />
+
+== Tham khảo==
+{{sơ khai Hà Nội}}
+{{Đơn vị hành chính thuộc thành phố Hà Nội}}

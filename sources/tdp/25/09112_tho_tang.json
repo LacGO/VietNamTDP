@@ -1,0 +1,164 @@
+{
+  "ward_code": "09112",
+  "ward_name": "Thổ Tang",
+  "province_code": "25",
+  "resolution": "",
+  "arrangement": "2026_07",
+  "effective_date": "2026-07-01",
+  "verified": "unverified",
+  "extraction": {
+    "source": "vi.wikipedia.org",
+    "title": "Thổ Tang",
+    "mode": "narrative"
+  },
+  "sources": [
+    {
+      "key": "wiki-09112-1",
+      "title": "Thông báo Về việc niêm yết danh sách cử tri, địa điểm niêm yết danh sách cử tri, địa điểm bỏ phiếu bầu cử đại biểu Quốc hội khóa XVI và đại biểu Hội đồng nhân dân các cấp nhiệm kỳ 2026 - 2031",
+      "url": "https://thotang.phutho.gov.vn/index.php/tin-t-c-s-ki-n/chinh-tr/3442-thong-bao-ve-viec-niem-yet-danh-sach-cu-tri-dia-diem-niem-yet-danh-sach-cu-tri-dia-diem-bo-phieu-bau-cu-dai-bieu-quoc-hoi-khoa-xvi-vadai-bieu-hdnd-cac-cap-nhiem-ky-2026-2031",
+      "date": "2026-02-02",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-09112-2",
+      "title": "Nghị quyết số 111/2025/UBTVQH15 về phân loại đô thị",
+      "url": "https://xaydungchinhsach.chinhphu.vn/nghi-quyet-so-111-2025-ubtvqh15-ve-phan-loai-do-thi-119260101170432239.htm",
+      "date": "2026-01-21",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-09112-3",
+      "title": "TOÀN VĂN: Nghị quyết số 202/2025/QH15 về sắp xếp đơn vị hành chính cấp tỉnh",
+      "url": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-202-2025-qh15-ve-sap-xep-don-vi-hanh-chinh-cap-tinh-119250612174148722.htm",
+      "date": "2025-07-16",
+      "type": "wikipedia-ref"
+    }
+  ],
+  "note": "Trích tự động từ Wikipedia tiếng Việt (mode=narrative). Cần đối chiếu nghị quyết HĐND phường/xã.",
+  "tdp": [
+    {
+      "name": "Bắc Cường",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Đông Cả",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Lá Sen",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Nam Cường",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Phương Viên",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Trúc Lâm",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Vĩnh Sơn 1",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Vĩnh Sơn 2",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Vĩnh Sơn 3",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Vĩnh Sơn 4",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Vĩnh Sơn 5",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "30 thôn: Chùa Chợ",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Đông",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Phú Hạnh",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Phú Thứ A",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Phú Thứ B",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Phú Trưng A",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Phú Trưng B",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Phú Trưng C",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Phù Chính",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Quảng Cư",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Táo",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Tân Lập",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Thạch Ngõa",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Thọ Trưng",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Thượng",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Trung",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Xóm Đơi",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Xóm Lâm",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Xóm Mới A",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Xóm Mới B",
+      "type": "tổ dân phố"
+    }
+  ]
+}

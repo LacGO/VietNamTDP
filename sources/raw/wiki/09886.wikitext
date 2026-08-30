@@ -1,0 +1,190 @@
+{{Thông tin đơn vị hành chính Việt Nam |Phường
+| tên = Dương Nội
+| hình = Parkhome.jpg 
+| ghi chú hình =Một góc khu đô thị mới Dương Nội 
+| vĩ độ = 20.977285213270243
+| kinh độ = 105.75348282915188
+| diện tích = 7,9 km²
+| dân số = 56.091 người
+| thời điểm dân số = 2025
+| mật độ dân số = {{formatnum:{{#expr:floor({{formatnum:56.091| R}}/{{formatnum:7,9| R}})}} }} người/km²
+| vùng = [[Đồng bằng sông Hồng]]
+| thành phố = [[Hà Nội]]
+| trụ sở UBND = Lô HC01 – khu A khu đô thị mới Dương Nội<ref>{{Chú thích web |url=https://storage-vnportal.vnpt.vn/gov-hni/6244/VanBan/2025/6/25/TB-729-2025.pdf |title=Thông báo số 729/TB-UBND ngày 25 tháng 6 năm 2025 của Ủy ban nhân dân thành phố Hà Nội về địa điểm trụ sở làm việc của 126 phường, xã sau sắp xếp thuộc phạm vi quản lý của thành phố Hà Nội|access-date=2026-06-15 |archive-date=2026-06-15 |archive-url=https://web.archive.org/web/20260615034519/https://storage-vnportal.vnpt.vn/gov-hni/6244/VanBan/2025/6/25/TB-729-2025.pdf |url-status=dead | website = Cổng Thông tin điện tử Ủy ban nhân dân thành phố Hà Nội}}</ref>
+| mã hành chính =09886<ref>{{Chú thích web |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/19ttg.signed.pdf |title=Quyết định số 19/2025/QĐ-TTg ngày 30 tháng 6 năm 2025 của Thủ tướng Chính phủ về việc Ban hành Bảng danh mục và mã số các đơn vị hành chính Việt Nam |access-date=2026-06-15 |archive-date=2026-06-15 |archive-url=https://web.archive.org/web/20260615034519/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/19ttg.signed.pdf |url-status=dead | website = Cổng Thông tin điện tử Chính phủ}}</ref> 
+| mã bưu chính = 
+|trụ sở Đảng ủy=Lô HC01 – khu A khu đô thị mới Dương Nội|bản đồ 1={{maplink|frame=yes|plain=yes|type=shape|frame-width=280|frame-align=center|stroke-width=3}}|web={{url|duongnoi.hanoi.gov.vn}}}}
+'''Dương Nội''' là một [[Phường (Việt Nam)|phường]] thuộc thành phố [[Hà Nội]], [[Việt Nam]].
+
+== Địa lý== 
+Phường Dương Nội có vị trí địa lý:
+
+* Phía đông giáp phường [[Đại Mỗ]], phường [[Hà Đông (phường)|Hà Đông]] và phường [[Kiến Hưng (phường)|Kiến Hưng]] (ranh giới đi theo đường Nguyễn Văn Luyện – đường giao thông quy hoạch – đường Tố Hữu – phố Nguyễn Thanh Bình – đường Lê Trọng Tấn – đường Quang Trung)
+* Phía tây giáp xã [[An Khánh, Hà Nội|An Khánh]] (ranh giới đi theo kênh nội đồng – giao thông quy hoạch – đường Hoa Thám – đường DT70A)
+* Phía nam giáp phường [[Yên Nghĩa]] và phường [[Phú Lương (phường)|Phú Lương]] (ranh giới đi theo đường sắt Hà Đông – đường giao thông quy hoạch)
+* Phía bắc giáp phường [[Tây Mỗ]] (ranh giới đi theo đường DT70A – đường giao thông quy hoạch – đường Nội – đường Nguyễn Văn Luyện).<ref>{{Chú thích web |last=Báo Điện tử Chính phủ |date=2025-04-28 |title=Chi tiết dự thảo phương án sắp xếp các phường của Hà Nội |url=https://xaydungchinhsach.chinhphu.vn/chi-tiet-du-thao-phuong-an-sap-xep-cac-phuong-cua-ha-noi-119250421100531902.htm |url-status=dead |archive-url=https://web.archive.org/web/20260316174230/https://xaydungchinhsach.chinhphu.vn/chi-tiet-du-thao-phuong-an-sap-xep-cac-phuong-cua-ha-noi-119250421100531902.htm |archive-date=2026-03-16 |access-date=2026-07-10 |website=Xây dựng chính sách, pháp luật}}</ref><ref>{{Chú thích web |last=Viện nghiên cứu Phát triển kinh tế – xã hội Hà Nội |date=2025-07-02 |title=Phường Dương Nội: Những thông tin chi tiết sau sắp xếp |url=https://hanoionline.vn/phuong-duong-noi-nhung-thong-tin-chi-tiet-sau-sap-xep-343928.htm |url-status=dead |archive-url=https://web.archive.org/web/20260807400809/https://hanoionline.vn/phuong-duong-noi-nhung-thong-tin-chi-tiet-sau-sap-xep-343928.htm |archive-date=2026-08-07 |access-date=2026-08-07 |website=Cơ quan Báo và Phát thanh Truyền hình Hà Nội}}</ref><ref>{{Chú thích web |last=Cơ quan Báo và Phát thanh Truyền hình Hà Nội |date=2025-07-07 |title=Phường Dương Nội: Tất cả thông tin chỉ dẫn bạn cần biết |url=https://hanoionline.vn/phuong-duong-noi-tat-ca-thong-tin-chi-dan-ban-can-biet-345149.htm |url-status=dead |archive-url=https://web.archive.org/web/20260807401509/https://hanoionline.vn/phuong-duong-noi-tat-ca-thong-tin-chi-dan-ban-can-biet-345149.htm |archive-date=2026-08-07 |access-date=2026-08-07}}</ref>
+
+Phường Dương Nội có diện tích tự nhiên là 7,9&nbsp;km<sup>2</sup>, quy mô dân số năm 2025 là 56.091 người và mật độ dân số đạt 7.100 người/km<sup>2</sup>.<ref>{{Chú thích web |last=Mai Hữu |date=2026-04-05 |title=Hà Nội: Chi tiết phương án tổng thể sắp xếp đơn vị hành chính cấp xã |url=https://hanoimoi.vn/ha-noi-chi-tiet-phuong-an-tong-the-sap-xep-don-vi-hanh-chinh-cap-xa-700278.html |url-status=bot: unknown |archive-url=https://web.archive.org/web/20250710163328/https://hanoimoi.vn/ha-noi-chi-tiet-phuong-an-tong-the-sap-xep-don-vi-hanh-chinh-cap-xa-700278.html |archive-date=2025-07-10 |access-date=2026-07-08 |website=Cơ quan Báo và Phát thanh, truyền hình Hà Nội}}</ref><ref>Công văn số 2896/BNV-CQĐP ngày 27 tháng 5 năm 2025 của Bộ Nội vụ về việc cung cấp thông tin danh mục dự kiến đơn vị hành chính cấp xã mới.</ref>
+
+== Lịch sử==
+
+=== Trước năm 1976 ===
+
+=== Giai đoạn 1976 – nay ===
+Sau ngày 2 tháng 7 năm 1976, tiểu khu Quang Trung và 3 xã: Hà Cầu, Kiến Hưng, Văn Khê thuộc thị xã [[Hà Đông (quận)|Hà Đông]]; 3 xã: Dương Nội, La Phù và Yên Nghĩa thuộc huyện [[Hoài Đức (huyện)|Hoài Đức]]; 2 xã: Phú Lãm và Phú Lương thuộc huyện [[Thanh Oai (huyện)|Thanh Oai]] của tỉnh [[Hà Sơn Bình]].
+
+Ngày 29 tháng 12 năm 1978, sáp nhập huyện [[Hoài Đức (huyện)|Hoài Đức]], thị xã [[Hà Đông (quận)|Hà Đông]] và phần Bắc đường số 6 thuộc xã Phú Lãm của huyện [[Thanh Oai (huyện)|Thanh Oai]] của tỉnh [[Hà Sơn Bình]] vào thành phố [[Hà Nội]].<ref>Nghị quyết ngày 29 tháng 12 năm 1978 của Quốc hội khóa VI, Kỳ họp thứ 4 phê chuẩn việc phân vạch lại địa giới thành phố Hà Nội, thành phố Hồ Chí Minh, các tỉnh Hà Sơn Bình, Vĩnh Phú, Cao Lạng, Bắc Thái, Quảng Ninh và Đồng Nai.</ref>
+
+Ngày 17 tháng 2 năm 1979, sáp nhập thôn Do Lộ (phần bắc đường số 6, xã Phú Lãm) vào xã Yên Nghĩa thuộc huyện [[Hoài Đức (huyện)|Hoài Đức]].<ref>Quyết định số 49-CP ngày 17 tháng 2 năm 1979 của Hội đồng Chính phủ về việc điều chỉnh địa giới một số xã, thị trấn thuộc các huyện Sóc Sơn, Mê Linh, Hoài Đức, Phúc Thọ và Thanh Trì thuộc thành phố Hà Nội.</ref>
+
+Ngày 3 tháng 1 năm 1981, từ nay các đơn vị hành chính cơ sở ở nội thành, nội thị của các [[Thành phố thuộc tỉnh (Việt Nam)|thành phố thuộc tỉnh]], [[Thị xã (Việt Nam)|thị xã]] và [[Quận (Việt Nam)|quận]] gọi là [[Phường (Việt Nam)|phường]]. Khi đó, phường Quang Trung thuộc thị xã [[Hà Đông (quận)|Hà Đông]].<ref>Quyết định số 3-CP ngày 3 tháng 1 năm 1981 của Hội đồng Chính phủ về việc thống nhất tên gọi các đơn vị hành chính ở nội thành nội thị.</ref>
+
+Ngày 12 tháng 8 năm 1991, chia tỉnh [[Hà Sơn Bình]] thành 2 tỉnh, lấy tên là tỉnh [[Hòa Bình (tỉnh)|Hòa Bình]] và tỉnh [[Hà Tây (tỉnh)|Hà Tây]]. Chuyển huyện [[Hoài Đức (huyện)|Hoài Đức]] của thành phố [[Hà Nội]] về tỉnh [[Hà Tây (tỉnh)|Hà Tây]]. Khi đó, phường Quang Trung và 3 xã: Hà Cầu, Kiến Hưng, Văn Khê thuộc thị xã [[Hà Đông (quận)|Hà Đông]]; 3 xã: Dương Nội, La Phù và Yên Nghĩa thuộc huyện [[Hoài Đức (huyện)|Hoài Đức]]; 2 xã: Phú Lãm và Phú Lương thuộc huyện [[Thanh Oai (huyện)|Thanh Oai]] của tỉnh [[Hà Tây (tỉnh)|Hà Tây]].<ref>Nghị quyết ngày 12 tháng 8 năm 1991 của Quốc hội khóa VIII, Kỳ họp thứ 9 về việc điều chỉnh địa giới hành chính một số tỉnh, thành phố trực thuộc Trung ương.</ref>
+
+Ngày 23 tháng 9 năm 2003:
+
+* Chuyển xã Yên Nghĩa của huyện [[Hoài Đức (huyện)|Hoài Đức]], xã Phú Lương, xã Phú Lãm của huyện [[Thanh Oai (huyện)|Thanh Oai]] về thị xã [[Hà Đông (quận)|Hà Đông]] quản lý.
+* Thành lập phường Hà Cầu trên cơ sở toàn bộ diện tích tự nhiên và dân số của xã Hà Cầu.<ref>{{Chú thích web |title=Nghị định số 107/2003/NĐ-CP ngày 23 tháng 9 năm 2003 của Chính phủ về việc điều chỉnh địa giới hành chính mở rộng thị xã Hà Đông, thành lập phường thuộc thị xã Hà Đông và mở rộng thị trấn Vân Đình huyện Ứng Hòa, tỉnh Hà Tây |url=https://chinhphu.vn/default.aspx?pageid=27160&docid=12234 |url-status=dead |archive-url=https://web.archive.org/web/20260809201510/https://chinhphu.vn/default.aspx?pageid=27160&docid=12234 |archive-date=2026-08-09 |access-date=2026-08-09 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+
+Ngày 4 tháng 1 năm 2006, chuyển toàn bộ xã Dương Nội thuộc huyện [[Hoài Đức (huyện)|Hoài Đức]] về thị xã [[Hà Đông (quận)|Hà Đông]] quản lý.<ref>{{Chú thích web| url = https://thuvienphapluat.vn/van-ban/Bat-dong-san/Nghi-dinh-01-2006-ND-CP-dieu-chinh-dia-gioi-hanh-chinh-mo-rong-thi-xa-Ha-Dong-tinh-Ha-Tay-8246.aspx| tựa đề = Nghị định số 1/2006/NĐ-CP ngày 4 tháng 1 năm 2006 của Chính phủ về việc điều chỉnh địa giới hành chính, mở rộng thị xã Hà Đông, tỉnh Hà Tây| tác giả = | họ = | tên = | ngày = | website = | url lưu trữ =https://web.archive.org/web/20260809201510/https://thuvienphapluat.vn/van-ban/Bat-dong-san/Nghi-dinh-01-2006-ND-CP-dieu-chinh-dia-gioi-hanh-chinh-mo-rong-thi-xa-Ha-Dong-tinh-Ha-Tay-8246.aspx | ngày lưu trữ =2026-08-09 | ngày truy cập =2026-08-09 |url-status=dead}}</ref>
+
+Ngày 27 tháng 12 năm 2006, thành lập thành phố [[Hà Đông (quận)|Hà Đông]] trên cơ sở toàn bộ diện tích tự nhiên, dân số và các đơn vị hành chính trực thuộc của thị xã [[Hà Đông (quận)|Hà Đông]]. Khi đó, 2 phường: Hà Cầu, Quang Trung và 6 xã: Dương Nội, Kiến Hưng, Phú Lãm, Phú Lương, Văn Khê, Yên Nghĩa thuộc thành phố [[Hà Đông (quận)|Hà Đông]].<ref>{{Chú thích web| url = https://chinhphu.vn/default.aspx?pageid=27160&docid=18995 | tiêu đề = Nghị định số 155/2006/NĐ-CP ngày 27 tháng 12 năm 2006 của Chính phủ về việc thành lập thành phố Hà Đông thuộc tỉnh Hà Tây| url-status = dead|access-date=2026-08-09|website=Cổng Thông tin điện tử Chính phủ|archive-url=https://web.archive.org/web/20260809201510/https://chinhphu.vn/default.aspx?pageid=27160&docid=18995|archive-date=2026-08-09}}</ref>
+
+Ngày 1 tháng 3 năm 2008:
+
+* Thành lập phường La Khê (quận [[Hà Đông (quận)|Hà Đông]]) trên cơ sở điều chỉnh 222,21 ha diện tích tự nhiên và 9.178 nhân khẩu của xã Văn Khê; 10,09 ha diện tích tự nhiên và 3.660 nhân khẩu của phường Quang Trung; 27,44 ha diện tích tự nhiên và 97 nhân khẩu của xã Yên Nghĩa.
+* Thành lập phường Phú La (quận [[Hà Đông (quận)|Hà Đông]]) trên cơ sở điều chỉnh 106,98 ha diện tích tự nhiên và 3.155 nhân khẩu còn lại của xã Văn Khê; 9,55 ha diện tích tự nhiên và 2.188 nhân khẩu của phường Quang Trung; 22,84 ha diện tích tự nhiên và 631 nhân khẩu của xã Phú Lương; 4,98 ha diện tích tự nhiên và 253 nhân khẩu của xã Phú Lãm; 8,65 ha diện tích tự nhiên và 299 nhân khẩu của xã Yên Nghĩa; 8,07 ha diện tích tự nhiên của phường Hà Cầu; 15,75 ha diện tích tự nhiên của xã Kiến Hưng.<ref>{{Chú thích web |title=Nghị định số 23/2008/NĐ-CP ngày 1 tháng 3 năm 2008 của Chính phủ về việc điều chỉnh địa giới hành chính xã, phường, để thành lập phường thuộc thành phố Hà Đông, thành phố Sơn Tây, tỉnh Hà Tây |url=https://chinhphu.vn/default.aspx?pageid=27160&docid=59294 |url-status=dead |archive-url=https://web.archive.org/web/20260809201510/https://chinhphu.vn/default.aspx?pageid=27160&docid=59294 |archive-date=2026-08-09 |access-date=2026-08-09 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+
+Ngày 29 tháng 5 năm 2008, hợp nhất tỉnh [[Hà Tây (tỉnh)|Hà Tây]] vào thành phố [[Hà Nội]]. Khi đó, 2 phường: La Khê, Phú La và 2 xã: Dương Nội, Yên Nghĩa thuộc thành phố [[Hà Đông (quận)|Hà Đông]]; xã La Phù thuộc huyện [[Hoài Đức (huyện)|Hoài Đức]] của thành phố [[Hà Nội]].<ref>Nghị quyết số 15/2008/QH12 ngày 29 tháng 5 năm 2008 của Quốc hội khóa XII, Kỳ họp thứ 3 về việc điều chỉnh địa giới hành chính thành phố Hà Nội và một số tỉnh có liên quan.</ref>
+
+Ngày 8 tháng 5 năm 2009:
+
+* Thành lập quận [[Hà Đông (quận)|Hà Đông]] trên cơ sở thành phố [[Hà Đông (quận)|Hà Đông]].
+* Thành lập 2 phường: Dương Nội và Yên Nghĩa trên cơ sở 2 xã có tên tương ứng.<ref name="19/NQ-CP">{{Chú thích web| url = https://chinhphu.vn/default.aspx?pageid=27160&docid=86463| tựa đề = Nghị quyết số 19/NQ-CP ngày 8 tháng 5 năm 2009 của Chính phủ về việc xác lập địa giới hành chính xã Đông Xuân thuộc huyện Quốc Oai; các xã Tiến Xuân, Yên Bình, Yên Trung thuộc huyện Thạch Thất; huyện Mê Linh thuộc thành phố Hà Nội; thành lập quận Hà Đông và các phường trực thuộc; chuyển thành phố Sơn Tây thành thị xã Sơn Tây thuộc thành phố Hà Nội| tác giả = | họ = | tên = | ngày = | website =Cổng Thông tin điện tử Chính phủ | url lưu trữ =https://web.archive.org/web/20260809201510/https://chinhphu.vn/default.aspx?pageid=27160&docid=86463 | ngày lưu trữ =2026-08-09 | ngày truy cập =2026-08-09 |url-status=dead}}</ref>
+
+Ngày 16 tháng 6 năm 2025:
+
+* Kết thúc hoạt động của đơn vị hành chính cấp huyện trong cả nước.<ref>{{Chú thích web |last= |date= |title=Nghị quyết số 203/2025/QH15 ngày 16 tháng 6 năm 2025 của Quốc hội khóa XV, Kỳ họp thứ 9 về việc sửa đổi, bổ sung một số điều của Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/nq-sua-doi-hien-phap.pdf |url-status=live |archive-url=https://web.archive.org/web/20260613090807/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/nq-sua-doi-hien-phap.pdf |archive-date=2026-06-13 |access-date=2026-06-13 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+* Sắp xếp một phần diện tích tự nhiên, quy mô dân số của các phường Dương Nội, Phú La, Yên Nghĩa (quận [[Hà Đông (quận)|Hà Đông]]) và xã La Phù (huyện [[Hoài Đức (huyện)|Hoài Đức]]), phần còn lại của phường Đại Mỗ (quận [[Nam Từ Liêm]]) và phần còn lại của phường La Khê (quận [[Hà Đông (quận)|Hà Đông]]) thành phường mới có tên gọi là phường Dương Nội.<ref>{{Chú thích web |title=Nghị quyết số 1656/NQ-UBTVQH15 ngày 16 tháng 6 năm 2025 của Ủy ban Thường vụ Quốc hội về việc sắp xếp các đơn vị hành chính cấp xã của thành phố Hà Nội năm 2025 |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf |url-status=live |archive-url=https://web.archive.org/web/20260630400809/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf |archive-date=2026-06-30 |access-date=2026-06-30 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+* Sau khi sắp xếp, phường Dương Nội được chia thành 21 tổ dân phố.<ref>16 tổ dân phố: 1, 2, Đoàn Kết, Hoàng Hanh, Hoàng Văn Thụ, Hòa Bình, Kiên Quyết, Quang Minh, Quyết Tâm, Quyết Tiến, Thành Công, Thắng Lợi, Thống Nhất, Trung Bình, Trung Kiên và Vinh Quang của phường Dương Nội cũ; tổ dân phố 8 của phường Phú La cũ; tổ dân phố 19 và một phần của tổ dân phố 17 của phường Yên Nghĩa cũ; 3 tổ dân phố: 7, 8, 11 và một phần của 2 tổ dân phố 4, 5 của phường La Khê cũ.</ref><ref>{{Chú thích web |title=Thông tư số 10/2022/TT-BTNMT ngày 29 tháng 9 năm 2022 của Bộ Tài nguyên và Môi trường về việc Ban hành Danh mục địa danh dân cư, sơn văn, thủy văn, kinh tế – xã hội phục vụ công tác thành lập bản đồ thành phố Hà Nội |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2022/10/10-btnmt.pdf |url-status=live |archive-url=https://web.archive.org/web/20260630400809/https://datafiles.chinhphu.vn/cpp/files/vbpq/2022/10/10-btnmt.pdf |archive-date=2026-06-30 |access-date=2026-06-30 |website=Cổng Thông tin điện tử Chính phủ}}</ref><ref>{{Chú thích web |last=Trường Giang – Thuỳ Dương |date=2026-03-20 |title=Phường Dương Nội công bố danh sách 20 đại biểu trúng cử Hội đồng nhân dân phường nhiệm kỳ 2026 – 2031 |url=https://duongnoi.hanoi.gov.vn/tin-tuc-su-kien/phuong-duong-noi-cong-bo-danh-sach-20-dai-bieu-trung-cu-hdnd-phuong-nhiem-ky-2026-2031-2787260320112717204.htm |url-status=dead |archive-url=https://web.archive.org/web/20260808201510/https://duongnoi.hanoi.gov.vn/tin-tuc-su-kien/phuong-duong-noi-cong-bo-danh-sach-20-dai-bieu-trung-cu-hdnd-phuong-nhiem-ky-2026-2031-2787260320112717204.htm |archive-date=2026-08-08 |access-date=2026-08-08 |website=Trang Thông tin điện tử phường Dương Nội – thành phố Hà Nội}}</ref>
+[[Tập tin:Bản đồ các tổ dân phố thuộc phường Dương Nội của thành phố Hà Nội (đến ngày 12 tháng 9 năm 2025).jpg|trái|nhỏ|258x258px|Bản đồ các tổ dân phố thuộc phường Dương Nội của thành phố Hà Nội (đến ngày 12 tháng 9 năm 2025)<ref>{{Chú thích web |last=Dương Nội 24H – thành phố Hà Nội |first= |date=2025-08-20 |title=Phường Dương Nội triển khai ghép khu dân cư vào tổ dân phố và đổi tên một số tổ dân phố sau khi sắp xếp đơn vị hành chính (trước khi sắp xếp) |url=https://web.facebook.com/photo/?fbid=810696071285887&set=pcb.810681631287331 |url-status=dead |archive-url=https://web.archive.org/web/20260810201510/https://web.facebook.com/photo/?fbid=810696071285887&set=pcb.810681631287331 |archive-date=2026-08-10 |access-date=2026-08-10}}</ref>]]
+Ngày 12 tháng 9 năm 2025, ghép Khu D, Đô thị mới Lê Trọng Tấn, Geleximco và diện tích đất tự nhiên thuộc xã La Phù vào tổ dân phố Quyết Tâm; ghép Khu Cổng Đồng thuộc tổ dân phố 4 La Khê cũ, Khu The Terra An Hưng thuộc tổ dân phố 5 La Khê cũ vào tổ dân phố Hoàng Hanh; ghép Khu tập thể Trạm Khí tượng thủy văn, Công ty Môi trường đô thị và diện tích đất nông nghiệp dưới hành lang đường điện cao thế thuộc tổ dân phố 17 Yên Nghĩa cũ vào tổ dân phố 8 Phú La cũ; đổi tên 5 tổ dân phố: 19 phường Yên Nghĩa, 11 phường La Khê, 8 phường Phú La, 8 và 7 phường La Khê lần lượt thành 5 tổ dân phố: 3, An Khang, và từ 5 đến 7.<ref>I. Ghép khu dân cư vào tổ dân phố: 1. Ghép Khu D, Đô thị mới Lê Trọng Tấn, Geleximco và diện tích đất tự nhiên thuộc xã La Phù vào tổ dân phố Quyết Tâm; 2. Ghép Khu Cổng Đồng thuộc tổ dân phố 4 La Khê cũ, Khu The Terra An Hưng thuộc tổ dân phố 5 La Khê cũ vào tổ dân phố Hoàng Hanh; 3. Khu tập thể Trạm Khí Tượng thủy văn, Công ty Môi trường đô thị và diện tích đất nông nghiệp dưới hành lang đường điện cao thế thuộc tổ dân phố 17 Yên Nghĩa cũ vào tổ dân phố 8 Phú La cũ; II. Đổi tên tổ dân phố sau khi ghép: 1. Tổ dân phố 19, phường Yên Nghĩa thành tổ dân phố 3, phường Dương Nội; 2. Tổ dân phố 11, phường La Khê thành tổ dân phố An Khang, phường Dương Nội; 3. Tổ dân phố 8 phường Phú La thành tổ dân phố 5, phường Dương Nội; 4. Tổ dân phố 8, phường La Khê thành tổ dân phố 6, phường Dương Nội; 5. Tổ dân phố 7, phường La Khê thành tổ dân phố 7, phường Dương Nội; III. Danh sách các Tổ dân phố phường Dương Nội giữ nguyên tên gọi: 1. Tổ dân phố 1, phường Dương Nội; 2. Tổ dân phố 2, phường Dương Nội; 3. Tổ dân phố Trung Bình, phường Dương Nội; 4. Tổ dân phố Quyết Tiến, phường Dương Nội; 5. Tổ dân phố Thành Công, phường Dương Nội; 6. Tổ dân phố Kiên Quyết, phường Dương Nội; 7. Tổ dân phố Thống Nhất, phường Dương Nội; 8. Tổ dân phố Hoàng Văn Thụ, phường Dương Nội; 9. Tổ dân phố Quang Minh, phường Dương Nội; 10. Tổ dân phố Hòa Bình, phường Dương Nội; 11. Tổ dân phố Vinh Quang, phường Dương Nội; 12. Tổ dân phố Trung Kiên, phường Dương Nội; 13. Tổ dân phố Đoàn Kết, phường Dương Nội; 14. Tổ dân phố Thắng Lợi, phường Dương Nội.</ref><ref>{{Chú thích web |last=Phương Chi – Phúc Thắng |date=2025-08-21 |title=Phường Dương Nội triển khai Đề án đổi tên, ghép khu dân cư vào tổ dân phố sau khi sắp xếp đơn vị hành chính |url=https://duongnoi.hanoi.gov.vn/tin-tuc-su-kien/phuong-duong-noi-trien-khai-de-an-doi-ten-ghep-khu-dan-cu-vao-to-dan-pho-sau-khi-sap-xep-don-vi-hanh-chinh-2787250821155009915.htm |url-status=dead |archive-url=https://web.archive.org/web/20260810201510/https://duongnoi.hanoi.gov.vn/tin-tuc-su-kien/phuong-duong-noi-trien-khai-de-an-doi-ten-ghep-khu-dan-cu-vao-to-dan-pho-sau-khi-sap-xep-don-vi-hanh-chinh-2787250821155009915.htm |archive-date=2026-08-10 |access-date=2026-08-10 |website=Trang Thông tin điện tử phường Dương Nội – thành phố Hà Nội}}</ref><ref>{{Chú thích web |last= |date= |title=Nghị quyết số 13/NQ-HĐND ngày 12 tháng 9 năm 2025 của Hội đồng nhân dân phường Dương Nội về việc ghép khu dân cư, đổi tên tổ dân phố sau sắp xếp đơn vị hành chính phường Dương Nội |url=https://web.facebook.com/story.php?story_fbid=830903552598472&id=100070365031123&rdid=OoSOu5rAljETVsXF# |url-status=dead |archive-url=https://web.archive.org/web/20260808201510/https://web.facebook.com/story.php?story_fbid=830903552598472&id=100070365031123&rdid=OoSOu5rAljETVsXF# |archive-date=2026-08-08 |access-date=2026-08-08 |website=Dương Nội 24H – thành phố Hà Nội}}</ref>
+[[Tập tin:Bản đồ các tổ dân phố thuộc phường Dương Nội của thành phố Hà Nội (từ ngày 12 tháng 9 năm 2025 đến ngày 18 tháng 6 năm 2026).jpg|trái|nhỏ|259x259px|Bản đồ các tổ dân phố thuộc phường Dương Nội của thành phố Hà Nội (từ ngày 12 tháng 9 năm 2025 đến ngày 1 tháng 7 năm 2026)<ref>{{Chú thích web |last=Dương Nội 24H – thành phố Hà Nội |date=2025-08-20 |title=Phường Dương Nội triển khai ghép khu dân cư vào tổ dân phố và đổi tên một số tổ dân phố sau khi sắp xếp đơn vị hành chính (sau khi sắp xếp) |url=https://web.facebook.com/photo/?fbid=810696087952552&set=pcb.810681631287331 |url-status=dead |archive-url=https://web.archive.org/web/20260810201510/https://web.facebook.com/photo/?fbid=810696087952552&set=pcb.810681631287331 |archive-date=2026-08-10 |access-date=2026-08-10}}</ref>]]
+Ngày 24 tháng 12 năm 2025, xác định phần lớn của phường Dương Nội là [[Đô thị Việt Nam|đô thị loại II]].<ref>Chuyển tiếp từ 4 phường: Dương Nội, Phú La, La Khê, Yên Nghĩa thuộc quận Hà Đông và phường Đại Mỗ thuộc quận Nam Từ Liêm.</ref><ref>{{Chú thích web |title=Nghị quyết số 111/2025/UBTVQH15 ngày 24 tháng 12 năm 2025 của Ủy ban Thường vụ Quốc hội về phân loại đô thị |url=https://cdn.nhandan.vn/files/f4a4abf7f9a0ba4a91744616546d850872b76917f90d5a74cc9eebef1369fb6f/111.pdf |url-status=dead |archive-url=https://web.archive.org/web/20260712401509/https://cdn.nhandan.vn/files/f4a4abf7f9a0ba4a91744616546d850872b76917f90d5a74cc9eebef1369fb6f/111.pdf |archive-date=2026-07-12 |access-date=2026-07-12 |website=Báo Nhân dân}}</ref>
+
+Ngày 18 tháng 6 năm 2026, thành lập 18 tổ dân phố mới: Quyết Tiến, Thành Công, Kiên Quyết, Hoàng Văn Thụ, Thống Nhất, Quang Minh, Trung Kiên, Đoàn Kết, Thắng Lợi, Hoàng Hanh, Vinh Quang, Hòa Bình, An Hưng, 3, Quyết Tâm và từ 5 đến 7.<ref name=":1">1. Tổ dân phố Trung Bình và Tổ dân phố Quyết Tiến được sáp nhập toàn bộ diện tích tự nhiên và dân số để hình thành tổ dân phố mới mang tên Quyết Tiến; 2. Sát nhập một phần diện tích và dân số của Tổ dân phố Kiên Quyết và Tổ dân phố Thành Công được sắp xếp lại để hình thành Tổ dân phố Thành Công; 3. Sát nhập một phần diện tích đất tự nhiên và dân số thuộc tổ dân phố Quyết Tâm, Kiên Quyết và Thống Nhất (gồm các lô đất thuộc khu C, đô thị Lê Trọng Tấn – Geleximco) để hình thành tổ dân phố Kiên Quyết; 4. Sáp nhập một phần diện tích tự nhiên và dân số thuộc tổ dân phố Thành Công, Hoàng Văn Thụ, Quang Minh gồm khu đất dịch vụ La Dương – La Nội từ lô CL12 đến CL32, Trường Tiểu học Trần Quốc Toản, Bệnh viện quốc tế, Trung tâm thương mại Aeon Mall, Khu vực nghĩa trang nhân dân La Nội, Khu vực Nghĩa trang nhân dân La Nội, khu đất dịch vụ LK16, LK17, LK18, để hình thành tổ dân phố Hoàng Văn Thụ; 5. Sáp nhập khu dân cư truyền thống của Thống Nhất và Hoàng Văn Thụ, bao gồm gồm khu dân cư truyền thống, khu đất nông nghiệp xen kẹt cửa Trạm Y tế, trường Trung học cơ sở Dương Nội, Miếu La Cả, để hình thành tổ dân phố Thống Nhất; 6. Tổ dân phố Quang Minh được hình thành trên cơ sở sáp nhập toàn bộ khu dân cư truyền thống của Quang Minh và Hòa Bình, cùng các công trình như Trường Tiểu học Dương Nội B, sân vận động và các khu đất nông nghiệp xen kẹt khu Ken, Đồng Má; 7. Tổ dân phố Trung Kiên sau sắp xếp bao gồm toàn bộ diện tích tự nhiên và dân số tổ dân phố Trung Kiên và một phần diện tích tự nhiên và dân số tổ dân phố Quyết Tâm, Vinh Quang; trong đó gồm có Khu dân cư truyền thống Trung Kiên, Quyết Tâm, Cụm dân cư tổ dân phố Vinh Quang phía Tây đường Ỷ La, Khu đất nông nghiệp vi phạm xen kẹt phía Tây đường Ỷ La từ ngõ 70 phố Ỷ La đến ngõ 138, theo đường vào hợp tác xã đến hết khu đất nông nghiệp sau hợp hợp tác xã tới rãnh thoát nước về khu dân cư, Ao nhà nổi, Đình La Cả, Khu đất nông nghiệp xen kẹt khu Sau Dộc, khu Bốt, Cửa Đình, Ao cân, Cây xăng X2, Khu dân cư truyền thống tổ dân phố Quang Vinh thuộc Phía Tây đường Ỷ La; 8. Sát nhập toàn bộ diện tích và dân số của Tổ dân phố Thắng Lợi và Đoàn Kết, gồm: Khu dân cư truyền thống; Khu đất dịch vụ LK29, LK30, Khu đất nông nghiệp còn lại phía Bắc máng La Khê, Đại học Kiểm Sát, Khu đất nông nghiệp xen kẹt phía Tây phố Ỷ La đoạn từ ngõ 138 phố Ỷ La đến ngõ 164, dọc theo ngõ 164 đến hết khu dân cư tổ dân phố Thắng Lợi, để hình thành tổ dân phố Đoàn Kết; 9. Sáp nhập toàn bộ diện tích tự nhiên và dân số thuộc tổ dân phố Thắng Lợi, Đoàn Kết gồm: Khu đất dịch vụ LK 31, Khu đất dịch vụ Cổng Đồng, Khu Nghĩa Trang nhân dân La Khê, các khu đất nông nghiệp còn lại phía nam máng La Khê, để hình thành tổ dân phố Thắng Lợi; 10. Sáp nhập một phần diện tích tự nhiên và dân số thuộc tổ dân phố Thắng Lợi, Hoàng Hanh gồm: Khu dân cư truyền thống Hoàng Hanh, đất nông nghiệp xen kẹt Đường Mía, Trầm, Khu dân cư truyền thống tổ dân phố Vinh Quang thuộc phía Bắc tuyến đường quy hoạch số 6, Trường Tiểu học Kim Đồng, Mầm Non Dương Nội, khu đất quy hoạch trường Trung cấp nghề IIG, để hình thành tổ dân phố Hoàng Hanh mới; 11. Sáp nhập một phần diện tích và dân số các tổ dân phố Hoàng Hanh, Vinh Quang. gồm: Khu đất dịch vụ 27, 28; Khu dân cư truyền thống tổ dân phố Vinh Quang thuộc phía Nam đường quy hoạch tuyến số 6, Khu đấu giá, tái định cư 19A, 19B, khu đất dịch vụ 20A, 20B, Tổ hợp Trung tâm thương mại và dịch vụ hỗn hợp tại phường Dương Nội thành tổ dân phố Vinh Quang; 12. Sát nhập một phần diện tích của các tổ dân phố: Quang Minh, Hòa Bình, Hoàng Hanh, bao gồm các lô đất phía Bắc phố Phan Hiền thuộc Khu A đô thị Dương Nội: từ A01 đến A05, B01 đến B06, TH03, HC02, H01 đến H03, MG03, I01-I02, J01 đến J04, C01-C02, D01 đến D04, Y01, E01 đến E10, K01 đến K08, L11 đến L13, K10, CX05-MN, F01 đến F10, HC01, TH01, G01 đến G12, để hình thành tổ dân phố Hòa Bình; 13. Sáp nhập một phần diện tích và dân số thuộc tổ dân phố Hoàng Hanh gồm Khu đô thị An Hưng, các lô LK01, LK03 đến LK06, LK09 đến LK15, BT01 đến BT10, BT12, BT13, Tiểu học An Hưng, CC01, CX01, CX02, CX05, CTDV01 (The Tera An Hưng), để hình thành tổ dân phố An Hưng; 14. Sáp nhập một phần diện tích tự nhiên và dân số tổ dân phố 3, tổ dân phố 6 thành tổ dân phố 3 với 791 hộ dân, bao gồm các tòa nhà chung cư CT8, Bệnh viện Nhi Hà Nội, Bệnh viện Thận Hà Nội, Đại học Phenikaa, Nhà máy và khu tập thể A40; 15. Các lô đất thuộc Khu D đô thị Lê Trọng Tấn – Geleximco của Kiên Quyết và Quyết Tâm được hợp nhất thành Tổ dân phố Quyết Tâm; 16. Tổ dân phố 5 được hình thành trên cơ sở sáp nhập toàn bộ tổ dân phố 5 và một phần tổ dân phố 3, tổ dân phố 6, với 921 hộ dân, bao gồm cụm công nghiệp, trạm khí tượng thủy văn và trạm truyền tải điện Ba La; 17. Khu đô thị Park City thuộc Tổ dân phố 6 và Tổ dân phố 7 được điều chỉnh để hình thành Tổ dân phố 6; 18. Tổ dân phố 7 được hình thành trên cơ sở sát nhập một phần diện tích tự nhiên và dân số thuộc tổ dân phố 7 bao gồm khu dân cư hiện hữu; Khu tái định cư và phát triển đô thị 4A; Trường Trung học phổ thông chuyên Nguyễn Huệ; Trung tâm Giáo dục nghề nghiệp – Giáo dục thường xuyên, tòa chung cư FLC; 19. Tổ dân phố 1, Tổ dân phố 2 và Tổ dân phố An Khang được giữ nguyên hiện trạng.</ref><ref name=":0">{{Chú thích web |last=Trang Thông tin điện tử phường Dương Nội – thành phố Hà Nội |date=2026-06-10 |title=Phường Dương Nội dự kiến sắp xếp, tổ chức lại 21 tổ dân phố phù hợp yêu cầu quản lý trong giai đoạn mới |url=https://duongnoi.hanoi.gov.vn/van-hoa-xa-hoi/phuong-duong-noi-du-kien-sap-xep-to-chuc-lai-21-to-dan-pho-phu-hop-yeu-cau-quan-ly-trong-giai-doan-moi-2787260616233943052.htm |url-status=dead |archive-url=https://web.archive.org/web/20260810201510/https://duongnoi.hanoi.gov.vn/van-hoa-xa-hoi/phuong-duong-noi-du-kien-sap-xep-to-chuc-lai-21-to-dan-pho-phu-hop-yeu-cau-quan-ly-trong-giai-doan-moi-2787260616233943052.htm |archive-date=2026-08-10 |access-date=2026-08-10 |website=}}</ref><ref name=":2">{{Chú thích web |last=Thu Oanh |date=2026-06-18 |title=Phường Dương Nội tổ chức kỳ họp thứ hai Hội đồng nhân dân phường khóa II, nhiệm kỳ 2026 – 2031 |url=https://hanoimoi.vn/phuong-duong-noi-to-chuc-ky-hop-thu-hai-hdnd-phuong-khoa-ii-nhiem-ky-2026-2031-1208101.html?gidzl=Eo7pCTnbs1W_FlStrdtR5pyyzJt0VuWTT3pmOPnzYnXwQVGroY_SJoXeyMIOUumTUcsdOMRHTHuOsMJS6W |url-status=dead |archive-url=https://web.archive.org/web/20260810201510/https://hanoimoi.vn/phuong-duong-noi-to-chuc-ky-hop-thu-hai-hdnd-phuong-khoa-ii-nhiem-ky-2026-2031-1208101.html?gidzl=Eo7pCTnbs1W_FlStrdtR5pyyzJt0VuWTT3pmOPnzYnXwQVGroY_SJoXeyMIOUumTUcsdOMRHTHuOsMJS6W |archive-date=2026-08-10 |access-date=2026-08-10 |website=Cơ quan Báo và Phát thanh, truyền hình Hà Nội}}</ref>
+
+== Hành chính ==
+Phường Dương Nội được chia thành 21 tổ dân phố: đánh số từ 1 đến 3, từ 5 đến 7, An Hưng, An Khang, Đoàn Kết, Hoàng Hanh, Hoàng Văn Thụ, Hòa Bình, Kiên Quyết, Quang Minh, Quyết Tâm, Quyết Tiến, Thành Công, Thắng Lợi, Thống Nhất, Trung Kiên và Vinh Quang.<ref name=":0" /><ref name=":2" />
+{| class="wikitable sortable" cellpadding="0" cellspacing="6" width="100%" align="center" style="background: #f9f9f9; border: 1px #aaa solid; margin-top: 16px"
+! colspan="4" style="background: #E6E6FA; font-size: 95%;" |Danh sách các tổ dân phố thuộc phường Dương Nội<ref name=":0" /><ref name=":2" />
+|-
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| cellpadding="1" cellspacing="1" width="100%" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Tổ dân phố 1
+| rowspan="2" |2.130
+|-
+| align="left" |Tổ dân phố 2
+|-
+| align="left" |Tổ dân phố 3
+|791
+|-
+| align="left" |Tổ dân phố 5
+|921
+|-
+| align="left" |Tổ dân phố 6
+|775
+|-
+| align="left" |Tổ dân phố 7
+|789
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| cellpadding="1" cellspacing="1" width="100%" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |An Hưng
+|790
+|-
+| align="left" |An Khang
+|1.096
+|-
+| align="left" |Đoàn Kết
+|802
+|-
+| align="left" |Hoàng Hanh
+|730
+|-
+| align="left" |Hoàng Văn Thụ
+|760
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| cellpadding="1" cellspacing="1" width="100%" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Hòa Bình
+|720
+|-
+| align="left" |Kiên Quyết
+|728
+|-
+| align="left" |Quang Minh
+|966
+|-
+| align="left" |Quyết Tâm
+|725
+|-
+| align="left" |Quyết Tiến
+|1.283
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| cellpadding="1" cellspacing="1" width="100%" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Thành Công
+|821
+|-
+| align="left" |Thắng Lợi
+|724
+|-
+| align="left" |Thống Nhất
+|960
+|-
+| align="left" |Trung Kiên
+|889
+|-
+| align="left" |Vinh Quang
+|750
+|}
+|}<!-- 
+== Lịch sử== 
+Địa bàn phường Phú La xưa là hai làng Văn Phú và Văn La thuộc huyện [[Thanh Oai (huyện)| Thanh Oai]], phủ Ứng Thiên, trấn [[Sơn Nam Thượng]].
+
+[[Tháng 7]] năm [[1949]], hai làng Văn Phú, Văn La hợp nhất với hai làng La Khê và Cầu Đơ thành xã Văn Khê thuộc huyện [[Hoài Đức (huyện)| Hoài Đức]].
+
+[[Tháng 4]] năm [[1955]], tách thôn Cầu Đơ của xã Văn Khê để hợp với thôn Hà Trì của xã Kiến Hưng lập thành xã Hà Cầu thuộc thị xã Hà Đông.<ref name = "KH12">{{chú thích web| url = http://hadong.hanoi.gov.vn/portal/Pages/20130906/ha-dong-nhung-dau-moc-lich-su.aspx| title = Hà Đông - những dấu mốc lịch sử| website = Cổng thông tin điện tử quận Hà Đông| access-date = ngày 3 tháng 12 năm 2016| archive-date = ngày 17 tháng 7 năm 2019 | archive-url = https://web.archive.org/web/20190717132114/http://hadong.hanoi.gov.vn/portal/Pages/20130906/ha-dong-nhung-dau-moc-lich-su.aspx}}</ref>
+
+Ngày [[15 tháng 9]] năm [[1969]], xã Văn Khê được sáp nhập vào thị xã Hà Đông<ref>{{Chú thích web| url = https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/Quyet-dinh178-CP-mo-rong-dia-gioi-thi-xa-Ha-dong-hop-nhat-mot-so-huyen-thuoc-tinh-Ha-tay-18500.aspx| tựa đề = Quyết định 178-CP năm 1969 về việc mở rộng địa giới thị xã Hà Đông và hợp nhất một số huyện thuộc tỉnh Hà Tây| tác giả = | họ = | tên = | ngày = | website = | url lưu trữ = | ngày lưu trữ = | ngày truy cập = }}</ref>.
+
+Ngày [[27 tháng 12]] năm [[2006]], xã Văn Khê thuộc thành phố Hà Đông mới thành lập.
+
+Ngày [[1 tháng 3]] năm [[2008]], Chính phủ ban hành Nghị định 23/2008/NĐ-CP<ref name = "23/2008/NĐ-CP">{{Chú thích web| url = https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/Nghi-dinh-23-2008-ND-CP-dieu-chinh-dia-gioi-hanh-chinh-xa-phuong-de-thanh-lap-phuong-thuoc-thanh-pho-Ha-Dong-Son-Tay-tinh-Ha-Tay-63236.aspx| tựa đề = Nghị định số 23/2008/NĐ-CP về việc điều chỉnh địa giới hành chính xã, phường, để thành lập phường thuộc thành phố Hà Đông, thành phố Sơn Tây, tỉnh Hà Tây| tác giả = | họ = | tên = | ngày = | website = | url lưu trữ = | ngày lưu trữ = | ngày truy cập = }}</ref>. Theo đó, thành lập phường Phú La trên cơ sở điều chỉnh 106,98 ha diện tích tự nhiên và 3.155 người của xã Văn Khê; 9,55 ha diện tích tự nhiên và 2.188 người của phường Quang Trung; 22,84 ha diện tích tự nhiên và 631 người của xã Phú Lương; 4,98 ha diện tích tự nhiên và 253 người của xã Phú Lãm; 8,65 ha diện tích tự nhiên và 299 người của xã Yên Nghĩa; 8,07 ha diện tích tự nhiên của phường Hà Cầu; 15,75 ha diện tích tự nhiên của xã Kiến Hưng.
+
+Sau khi thành lập, phường Phú La có 176,82 ha diện tích tự nhiên, dân số là 6.526 người.
+ -->
+
+==Hình ảnh==
+[[File:HAS School 2.webp|thumb|Trường phổ thông Liên cấp H.A.S (Hanoi Adelaide School) Cơ sở Dương Nội]]
+
+== Chú thích== 
+{{Tham khảo}}
+
+== Tham khảo==
+
+{{sơ khai Hà Nội}}
+{{Đơn vị hành chính thuộc thành phố Hà Nội}}

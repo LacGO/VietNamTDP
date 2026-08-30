@@ -1,0 +1,124 @@
+{
+  "ward_code": "10183",
+  "ward_name": "Thường Tín",
+  "province_code": "01",
+  "resolution": "",
+  "arrangement": "2026_07",
+  "effective_date": "2026-07-01",
+  "verified": "unverified",
+  "extraction": {
+    "source": "vi.wikipedia.org",
+    "title": "(cache)",
+    "mode": "table"
+  },
+  "sources": [
+    {
+      "key": "wiki-10183-1",
+      "title": "Nghị quyết số 11/NQ-HĐND ngày 31 tháng 7 năm 2025 của Hội đồng nhân dân xã Thường Tín khóa I, Kỳ họp thứ hai về việc chuyển đổi \"Tổ dân phố\" thành \"Thôn\" trên địa bàn xã Thường Tín, thành phố Hà Nội",
+      "url": "https://storage-vnportal.vnpt.vn/gov-hni/6995/VanBan/2025/8/13/15.%20NQ%20s%E1%BB%91%2011.pdf",
+      "date": "2026-07-03",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-10183-2",
+      "title": "Uỷ ban bầu cử xã Thường Tín công bố danh sách chính thức những người ứng cử đại biểu Hội đồng nhân dân xã Thường Tín khóa II, nhiệm kỳ 2026 – 2031",
+      "url": "https://thuongtin.hanoi.gov.vn/bau-cu-dai-bieu-quoc-hoi-khoa-xvi-va-dai-bieu-hoi-dong-nhan-dan-cac-cap/uy-ban-bau-cu-xa-thuong-tin-cong-bo-danh-sach-chinh-thuc-nhung-nguoi-ung-cu-dai-bieu-hoi-dong-nhan-dan-xa-thuong-tin-khoa-ii-nhiem-ky-20262031-2843260227152556643.htm",
+      "date": "2026-07-02",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-10183-3",
+      "title": "Nghị quyết số 111/2025/UBTVQH15 ngày 24 tháng 12 năm 2025 của Ủy ban Thường vụ Quốc hội về phân loại đô thị",
+      "url": "https://cdn.nhandan.vn/files/f4a4abf7f9a0ba4a91744616546d850872b76917f90d5a74cc9eebef1369fb6f/111.pdf",
+      "date": "2026-08-14",
+      "type": "wikipedia-ref"
+    }
+  ],
+  "note": "Trích tự động từ Wikipedia tiếng Việt (mode=table). Cần đối chiếu nghị quyết HĐND phường/xã.",
+  "tdp": [
+    {
+      "name": "Bình Vọng",
+      "type": "thôn"
+    },
+    {
+      "name": "Đan Nhiễm",
+      "type": "thôn"
+    },
+    {
+      "name": "Đỗ Hà",
+      "type": "thôn"
+    },
+    {
+      "name": "Hà Liễu",
+      "type": "thôn"
+    },
+    {
+      "name": "Hiền Giang",
+      "type": "thôn"
+    },
+    {
+      "name": "Hòa Bình",
+      "type": "thôn"
+    },
+    {
+      "name": "Khánh Vân",
+      "type": "thôn"
+    },
+    {
+      "name": "Ngọc Động",
+      "type": "thôn"
+    },
+    {
+      "name": "Nguyễn Du",
+      "type": "thôn"
+    },
+    {
+      "name": "Nhân Hiền",
+      "type": "thôn"
+    },
+    {
+      "name": "Nhị Khê",
+      "type": "thôn"
+    },
+    {
+      "name": "Thụy Ứng",
+      "type": "thôn"
+    },
+    {
+      "name": "Thượng Đình",
+      "type": "thôn"
+    },
+    {
+      "name": "Thượng Quán",
+      "type": "thôn"
+    },
+    {
+      "name": "Trát Cầu",
+      "type": "thôn"
+    },
+    {
+      "name": "Trần Phú",
+      "type": "thôn"
+    },
+    {
+      "name": "Văn Giáp",
+      "type": "thôn"
+    },
+    {
+      "name": "Văn Hội",
+      "type": "thôn"
+    },
+    {
+      "name": "Văn Trai",
+      "type": "thôn"
+    },
+    {
+      "name": "Văn Trung",
+      "type": "thôn"
+    },
+    {
+      "name": "Yên Phú",
+      "type": "thôn"
+    }
+  ]
+}

@@ -1,0 +1,204 @@
+{
+  "ward_code": "08716",
+  "ward_name": "Vĩnh Phúc",
+  "province_code": "25",
+  "resolution": "",
+  "arrangement": "2026_07",
+  "effective_date": "2026-07-01",
+  "verified": "unverified",
+  "extraction": {
+    "source": "vi.wikipedia.org",
+    "title": "Vĩnh Phúc (phường)",
+    "mode": "narrative"
+  },
+  "sources": [
+    {
+      "key": "wiki-08716-1",
+      "title": "Quyết định số 114/QĐ-UBND về việc xác định khu vực bỏ phiếu bầu cử đại biểu Quốc hội khóa XVI và bầu cử đại biểu Hội đồng nhân dân các cấp nhiệm kỳ 2026 - 2031 trên địa bàn phường Vĩnh Phúc",
+      "url": "https://vinhphuc.phutho.gov.vn/images/Q%C4%90_X%C3%A1c_%C4%91%E1%BB%8Bnh_khu_v%E1%BB%B1c_b%E1%BB%8F_phi%E1%BA%BFu_26.01.signed.signed.signed.pdf",
+      "date": "2026-01-27",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-08716-2",
+      "title": "TOÀN VĂN: Nghị quyết số 202/2025/QH15 về sắp xếp đơn vị hành chính cấp tỉnh",
+      "url": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-202-2025-qh15-ve-sap-xep-don-vi-hanh-chinh-cap-tinh-119250612174148722.htm",
+      "date": "2025-07-16",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-08716-3",
+      "title": "NGHỊ QUYẾT 203/2025/QH15 SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA HIẾN PHÁP NƯỚC CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM",
+      "url": "https://xaydungchinhsach.chinhphu.vn/nghi-quyet-203-2025-qh15-sua-doi-bo-sung-mot-so-dieu-cua-hien-phap-nuoc-cong-hoa-xa-hoi-chu-nghia-viet-nam-119250616181735552.htm",
+      "date": "2025-06-28",
+      "type": "wikipedia-ref"
+    }
+  ],
+  "note": "Trích tự động từ Wikipedia tiếng Việt (mode=narrative). Cần đối chiếu nghị quyết HĐND phường/xã.",
+  "tdp": [
+    {
+      "name": "An Định",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Bà Triệu",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Bảo Sơn",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Chám",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Chiền",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Chợ Tổng",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Chùa Hà",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Chùa Láp",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Đầm Vạc",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Đậu",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Đinh Tiên Hòang",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Đình Láp",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Định Trung",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Đôn Hậu",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Đống Đa",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Gẩu",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Gẩy",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Gia Viễn",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Gò Dung",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Gò Nọi",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Hán Lữ",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Khai Quang",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Làng Bầu",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Làng Thủy",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Liên Bảo",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Mậu Lâm",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Mậu Thông",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Mê Linh",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Minh Quyết",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Ngô Quyền",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Nguyễn Viết Xuân",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Thanh Giã",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Tô Hiệu",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Trại Giao",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Trần Phú",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Trần Quốc Tỏan",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Trần Quốc Tuấn",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Vẽn",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Vinh Thịnh Đông",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Vinh Thịnh Tây",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Vĩnh Thành",
+      "type": "tổ dân phố"
+    }
+  ]
+}

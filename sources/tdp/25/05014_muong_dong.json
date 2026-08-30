@@ -1,0 +1,176 @@
+{
+  "ward_code": "05014",
+  "ward_name": "Mường Động",
+  "province_code": "25",
+  "resolution": "",
+  "arrangement": "truoc_2026_07",
+  "effective_date": "",
+  "verified": "unverified",
+  "extraction": {
+    "source": "vi.wikipedia.org",
+    "title": "Mường Động",
+    "mode": "narrative"
+  },
+  "sources": [
+    {
+      "key": "wiki-05014-1",
+      "title": "Nghị quyết số 2/NQ-UBBC về việc công bố danh sách những người ứng cử đại biểu Hội đồng nhân dân xã Mường Động, nhiệm kỳ 2026 - 2031, theo từng đơn vị bầu cử",
+      "url": "https://web.facebook.com/story.php?story_fbid=122162004788924845&id=61577745375928&rdid=0ZWfqcnuLgY4P2uo#",
+      "date": "2026-02-14",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-05014-2",
+      "title": "Danh sách Thôn vùng đồng bào dân tộc thiểu số và miền núi, thôn đặc biệt khó khăn giai đoạn 2026 - 2030 trên địa bàn tỉnh Phú Thọ",
+      "url": "http://files.ubdt.gov.vn/files/ecm/source_files/2026/02/05/11252411_4.%20Ph%C3%BA%20Th%E1%BB%8D%201%20(th%C3%B4n).signed_26-02-05.pdf",
+      "date": "2026-01-29",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-05014-3",
+      "title": "NGHỊ QUYẾT 203/2025/QH15 SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA HIẾN PHÁP NƯỚC CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM",
+      "url": "https://xaydungchinhsach.chinhphu.vn/nghi-quyet-203-2025-qh15-sua-doi-bo-sung-mot-so-dieu-cua-hien-phap-nuoc-cong-hoa-xa-hoi-chu-nghia-viet-nam-119250616181735552.htm",
+      "date": "2025-06-28",
+      "type": "wikipedia-ref"
+    }
+  ],
+  "note": "Trích tự động từ Wikipedia tiếng Việt (mode=narrative). Cần đối chiếu nghị quyết HĐND phường/xã. ⚠️ Danh mục có thể là hiện trạng TRƯỚC sắp xếp thôn/TDP 01/7/2026 — Wikipedia chưa cập nhật nghị quyết mới.",
+  "tdp": [
+    {
+      "name": "Kim Đức",
+      "type": "thôn"
+    },
+    {
+      "name": "33 xóm: Bãi Chạo",
+      "type": "thôn"
+    },
+    {
+      "name": "Cặm Cõ",
+      "type": "thôn"
+    },
+    {
+      "name": "Củ",
+      "type": "thôn"
+    },
+    {
+      "name": "Dạnh",
+      "type": "thôn"
+    },
+    {
+      "name": "Đầm Định",
+      "type": "thôn"
+    },
+    {
+      "name": "Đầm Rừng",
+      "type": "thôn"
+    },
+    {
+      "name": "Đồi",
+      "type": "thôn"
+    },
+    {
+      "name": "Đồng Nang",
+      "type": "thôn"
+    },
+    {
+      "name": "Đồng Ngòai",
+      "type": "thôn"
+    },
+    {
+      "name": "Đúp",
+      "type": "thôn"
+    },
+    {
+      "name": "Hạ Sơn",
+      "type": "thôn"
+    },
+    {
+      "name": "Hợp Nhất",
+      "type": "thôn"
+    },
+    {
+      "name": "Khú",
+      "type": "thôn"
+    },
+    {
+      "name": "Kim Bắc",
+      "type": "thôn"
+    },
+    {
+      "name": "Ký Đai",
+      "type": "thôn"
+    },
+    {
+      "name": "Lươn",
+      "type": "thôn"
+    },
+    {
+      "name": "Quê Kho",
+      "type": "thôn"
+    },
+    {
+      "name": "Sằn",
+      "type": "thôn"
+    },
+    {
+      "name": "Sim Ngòai",
+      "type": "thôn"
+    },
+    {
+      "name": "Sim Trong",
+      "type": "thôn"
+    },
+    {
+      "name": "Suối Măng",
+      "type": "thôn"
+    },
+    {
+      "name": "Suối Rèo",
+      "type": "thôn"
+    },
+    {
+      "name": "Thao Cả",
+      "type": "thôn"
+    },
+    {
+      "name": "Thao Con",
+      "type": "thôn"
+    },
+    {
+      "name": "Thung Dao Bắc",
+      "type": "thôn"
+    },
+    {
+      "name": "Thung Mường",
+      "type": "thôn"
+    },
+    {
+      "name": "Thượng Tiến",
+      "type": "thôn"
+    },
+    {
+      "name": "Trang",
+      "type": "thôn"
+    },
+    {
+      "name": "Trạo",
+      "type": "thôn"
+    },
+    {
+      "name": "Trẹo",
+      "type": "thôn"
+    },
+    {
+      "name": "Vãng",
+      "type": "thôn"
+    },
+    {
+      "name": "Ve",
+      "type": "thôn"
+    },
+    {
+      "name": "Vó Cối",
+      "type": "thôn"
+    }
+  ]
+}

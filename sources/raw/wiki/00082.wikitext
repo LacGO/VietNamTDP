@@ -1,0 +1,166 @@
+{{Thông tin đơn vị hành chính Việt Nam|Phường
+| tên = Cửa Nam
+| logo = Logo of Cua Nam, Hanoi.svg
+| ghi chú logo = Biểu trưng
+| hình = Cửa Nam, Hoàn Kiếm, Hà Nội, Vietnam - panoramio.jpg
+| ghi chú hình = Một góc phường Cửa Nam
+| vĩ độ = 21.02028800910787
+| kinh độ = 105.85294052990473
+| diện tích = 1,68 km²
+| dân số = 52.750 người
+| thời điểm dân số = 2025
+| mật độ dân số = {{formatnum:{{#expr:floor({{formatnum:52.750| R}}/{{formatnum:1,68| R}})}} }} người/km²
+| vùng = [[Đồng bằng sông Hồng]]
+| thành phố = [[Hà Nội]]
+| trụ sở UBND = Số 19, phố Quang Trung<ref>{{Chú thích web |url=https://storage-vnportal.vnpt.vn/gov-hni/6244/VanBan/2025/6/25/TB-729-2025.pdf |title=Thông báo số 729/TB-UBND ngày 25 tháng 6 năm 2025 của Ủy ban nhân dân thành phố Hà Nội về địa điểm trụ sở làm việc của 126 phường, xã sau sắp xếp thuộc phạm vi quản lý của thành phố Hà Nội|access-date=2026-06-15 |archive-date=2026-06-15 |archive-url=https://web.archive.org/web/20260615034519/https://storage-vnportal.vnpt.vn/gov-hni/6244/VanBan/2025/6/25/TB-729-2025.pdf |url-status=dead | website = Cổng Thông tin điện tử Ủy ban nhân dân thành phố Hà Nội}}</ref>
+| mã hành chính = 00082<ref>{{Chú thích web |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/19ttg.signed.pdf |title=Quyết định số 19/2025/QĐ-TTg ngày 30 tháng 6 năm 2025 của Thủ tướng Chính phủ về việc Ban hành Bảng danh mục và mã số các đơn vị hành chính Việt Nam |access-date=2026-06-15 |archive-date=2026-06-15 |archive-url=https://web.archive.org/web/20260615034519/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/19ttg.signed.pdf |url-status=dead | website = Cổng Thông tin điện tử Chính phủ}}</ref>
+| web = {{url|cuanam.hanoi.gov.vn}}
+|trụ sở Đảng ủy=Số 21, phố Bà Triệu|bản đồ 1={{maplink|frame=yes|plain=yes|type=shape|frame-width=280|frame-align=center|stroke-width=3}}|trụ sở TTPVHCC=Số 29, phố Quang Trung|trụ sở Công an=Số 89, phố Lý Thường Kiệt}}{{other|Cửa Nam (định hướng)}}
+'''Cửa Nam''' là một [[Phường (Việt Nam)|phường]] thuộc thành phố [[Hà Nội]], [[Việt Nam]]. Tên gọi Cửa Nam bắt nguồn từ vị trí của phường ở cửa phía nam của [[Hoàng thành Thăng Long]].
+
+== Địa lý== 
+Phường Cửa Nam có vị trí địa lý:
+
+* Phía đông giáp phường [[Hồng Hà (phường)|Hồng Hà]] (ranh giới đi theo [[Đường vành đai 1 (Hà Nội)|đường Vành Đai 1]])
+* Phía tây giáp phường [[Ba Đình (phường)|Ba Đình]] và phường [[Văn Miếu – Quốc Tử Giám (phường)|Văn Miếu – Quốc Tử Giám]] (ranh giới đi theo đường sắt – đường Lê Duẩn)
+* Phía nam giáp phường [[Hai Bà Trưng, Hà Nội|Hai Bà Trưng]] (ranh giới đi theo phố Trần Hưng Đạo – phố Hàn Thuyên – phố Lê Văn Hưu – phố Nguyễn Du)
+* Phía bắc giáp phường [[Hoàn Kiếm (phường)|Hoàn Kiếm]] (ranh giới đi theo phố Tràng Tiền – phố Tràng Thi – đường Điện Biên Phủ).<ref>{{Chú thích web |last=Báo Điện tử Chính phủ|date=2025-04-28|title=Chi tiết dự thảo phương án sắp xếp các phường của Hà Nội|url=https://xaydungchinhsach.chinhphu.vn/chi-tiet-du-thao-phuong-an-sap-xep-cac-phuong-cua-ha-noi-119250421100531902.htm|url-status=live|archive-url=https://web.archive.org/web/20260710401509/https://xaydungchinhsach.chinhphu.vn/chi-tiet-du-thao-phuong-an-sap-xep-cac-phuong-cua-ha-noi-119250421100531902.htm|archive-date=2026-07-10|access-date=2026-07-10|website=Xây dựng chính sách, pháp luật}}</ref><ref>{{Chú thích web |last=Viện nghiên cứu Phát triển kinh tế – xã hội Hà Nội|date=2025-07-02|title=Phường Cửa Nam: Những thông tin chi tiết sau sắp xếp|url=https://hanoionline.vn/phuong-cua-nam-nhung-thong-tin-chi-tiet-sau-sap-xep-343921.htm|url-status=dead|archive-url=https://web.archive.org/web/20260815400809/https://hanoionline.vn/phuong-cua-nam-nhung-thong-tin-chi-tiet-sau-sap-xep-343921.htm|archive-date=2026-08-15|access-date=2026-08-15|website=Cơ quan Báo và Phát thanh Truyền hình Hà Nội}}</ref><ref name=":1">{{Chú thích web |last=Cơ quan Báo và Phát thanh Truyền hình Hà Nội|date=2025-07-04|title=Phường Cửa Nam: Tất cả thông tin và thủ tục cần biết|url=https://hanoionline.vn/phuong-cua-nam-tat-ca-thong-tin-va-thu-tuc-can-biet-344626.htm|url-status=dead|archive-url=https://web.archive.org/web/20260815401509/https://hanoionline.vn/phuong-cua-nam-tat-ca-thong-tin-va-thu-tuc-can-biet-344626.htm|archive-date=2026-08-15|access-date=2026-08-15}}</ref>
+Phường Cửa Nam có diện tích tự nhiên là 1,68 km<sup>2</sup>, quy mô dân số năm 2025 là 52.751 người và mật độ dân số đạt 31.398 người/km<sup>2</sup>.<ref>{{Chú thích web |last=Mai Hữu|date=2026-04-05|title=Hà Nội: Chi tiết phương án tổng thể sắp xếp đơn vị hành chính cấp xã|url=https://hanoimoi.vn/ha-noi-chi-tiet-phuong-an-tong-the-sap-xep-don-vi-hanh-chinh-cap-xa-700278.html|url-status=live|archive-url=https://web.archive.org/web/20260711401509/https://hanoimoi.vn/ha-noi-chi-tiet-phuong-an-tong-the-sap-xep-don-vi-hanh-chinh-cap-xa-700278.html|archive-date=2026-07-11|access-date=2026-07-11|website=Cơ quan Báo và Phát thanh, truyền hình Hà Nội}}</ref><ref>Công văn số 2896/BNV-CQĐP ngày 27 tháng 5 năm 2025 của Bộ Nội vụ về việc cung cấp thông tin danh mục dự kiến đơn vị hành chính cấp xã mới.</ref>
+
+== Lịch sử==
+
+=== Tên gọi ===
+Tên gọi Cửa Nam gắn với một tuyến phố và một phường cũ gần Cửa Đông Nam của [[Hoàng thành Thăng Long|thành Thăng Long]] đời Nguyễn, nguyên là đất thôn Yên Trung Thượng xưa.<ref name=":1" />
+
+=== Trước năm 1976 ===
+Khu vực phường Cửa Nam thời Lý–Trần là đất thuộc huyện [[Thọ Xương]] và là một trung tâm buôn bán trọng điểm của kinh thành Thăng Long. Trong thời [[Pháp thuộc]], diện tích phường Cửa Nam ngày nay chiếm phần lớn thành phố Hà Nội cũ thuộc Pháp. Những con phố quy hoạch đồng đều, vuông vức là thành quả của người Pháp trong công cuộc cải tạo nơi đây từ một vùng nông thôn thành khu phố cho người châu Âu và giới thượng lưu bản xứ. Hầu hết các phố thuộc Hoàn Kiếm ngày nay đều đã từng mang tên tiếng Pháp.
+
+Thời kỳ 1954–1961, khu vực này gồm một phần khu phố Hàng Cỏ với khu phố Hai Bà. Từ năm 1961–1981, các khu phố Hoàn Kiếm cũ, khu phố Đồng Xuân cũ, các khối 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 15, 16, 17 của khu phố Hàng Cỏ cũ và các khối 35, 36, 37, 38, 39, 40, 41 của khu phố Hai Bà cũ hợp nhất thành khu phố Hoàn Kiếm.
+
+=== Giai đoạn 1976 – nay ===
+Sau ngày 2 tháng 7 năm 1976, 7 tiểu khu: Cửa Nam, Hàng Bài, Hàng Bông, Hàng Trống, Phan Chu Trinh, Tràng Tiền và Trần Hưng Đạo thuộc khu phố [[Hoàn Kiếm (quận)|Hoàn Kiếm]]; 4 tiểu khu: Bùi Thị Xuân, Ngô Thì Nhậm, Nguyễn Du và Phạm Đình Hổ thuộc khu phố [[Hai Bà Trưng (quận)|Hai Bà Trưng]] của thành phố [[Hà Nội]].
+
+Ngày 3 tháng 1 năm 1981, từ nay ở nội thành, đơn vị hành chính cấp dưới trực tiếp của [[Thành phố trực thuộc trung ương (Việt Nam)|thành phố trực thuộc trung ương]] đều thống nhất gọi là [[Quận (Việt Nam)|quận]]; các đơn vị hành chính cơ sở ở nội thành, nội thị của các [[Thành phố thuộc tỉnh (Việt Nam)|thành phố thuộc tỉnh]], [[Thị xã (Việt Nam)|thị xã]] và [[Quận (Việt Nam)|quận]] gọi là [[Phường (Việt Nam)|phường]]. Khi đó, 7 phường: Cửa Nam, Hàng Bài, Hàng Bông, Hàng Trống, Phan Chu Trinh, Tràng Tiền và Trần Hưng Đạo thuộc quận [[Hoàn Kiếm (quận)|Hoàn Kiếm]]; 4 phường: Bùi Thị Xuân, Ngô Thì Nhậm, Nguyễn Du và Phạm Đình Hổ thuộc quận [[Hai Bà Trưng (quận)|Hai Bà Trưng]].<ref>Quyết định số 3-CP ngày 3 tháng 1 năm 1981 của Hội đồng Chính phủ về việc thống nhất tên gọi các đơn vị hành chính ở nội thành nội thị.</ref>
+
+Ngày 11 tháng 2 năm 2020:
+
+* Nhập phường Bùi Thị Xuân và 0,01 km<sup>2</sup> diện tích tự nhiên, 642 người của phường Ngô Thì Nhậm vào phường Nguyễn Du.
+* Nhập toàn bộ 0,18 km<sup>2</sup> diện tích tự nhiên, 5.526 người của phường Ngô Thì Nhậm sau khi điều chỉnh địa giới đơn vị hành chính vào phường Phạm Đình Hổ.<ref name="NQ895">{{Chú thích web |tác giả= |họ= |tên= |ngày= |tựa đề=Nghị quyết số 895/NQ-UBTVQH14 ngày 11 tháng 2 năm 2020 của Ủy ban Thường vụ Quốc hội về việc sắp xếp đơn vị hành chính cấp xã thuộc thành phố Hà Nội |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2020/02/895.signed.pdf |url-status=dead |url lưu trữ=https://web.archive.org/web/20260630155040/https://datafiles.chinhphu.vn/cpp/files/vbpq/2020/02/895.signed.pdf |ngày lưu trữ=2026-06-30 |ngày truy cập=2026-07-03 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+
+Ngày 16 tháng 6 năm 2025:
+
+* Kết thúc hoạt động của đơn vị hành chính cấp huyện trong cả nước.<ref>{{Chú thích web |last= |date= |title=Nghị quyết số 203/2025/QH15 ngày 16 tháng 6 năm 2025 của Quốc hội khóa XV, Kỳ họp thứ 9 về việc sửa đổi, bổ sung một số điều của Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/nq-sua-doi-hien-phap.pdf |url-status=live |archive-url=https://web.archive.org/web/20260613090807/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/nq-sua-doi-hien-phap.pdf |archive-date=2026-06-13 |access-date=2026-06-13 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+* Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của các phường Hàng Bài, Phan Chu Trinh, Trần Hưng Đạo, một phần diện tích tự nhiên, quy mô dân số của các phường Cửa Nam (quận [[Hoàn Kiếm (quận)|Hoàn Kiếm]]), Nguyễn Du, Phạm Đình Hổ (quận [[Hai Bà Trưng (quận)|Hai Bà Trưng]]) và phần còn lại của các phường Hàng Bông, Hàng Trống, Tràng Tiền (quận [[Hoàn Kiếm (quận)|Hoàn Kiếm]]) thành phường mới có tên gọi là phường Cửa Nam.<ref>{{Chú thích web |title=Nghị quyết số 1656/NQ-UBTVQH15 ngày 16 tháng 6 năm 2025 của Ủy ban Thường vụ Quốc hội về việc sắp xếp các đơn vị hành chính cấp xã của thành phố Hà Nội năm 2025 |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf |url-status=live |archive-url=https://web.archive.org/web/20260630400809/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf |archive-date=2026-06-30 |access-date=2026-06-30 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+* Sau khi sắp xếp, phường Cửa Nam được chia thành 28 tổ dân phố.<ref>7 tổ dân phố, đánh số từ 1 đến 7 của phường Hàng Bài cũ; 5 tổ dân phố, đánh số từ 1 đến 5 của phường Phan Chu Trinh cũ; 6 tổ dân phố, đánh số từ 1 đến 6 của phường Trần Hưng Đạo cũ; 7 tổ dân phố, đánh số từ 1 đến 7 của phường Cửa Nam cũ; 3 tổ dân phố, đánh số từ 3 đến 5 của phường Tràng Tiền cũ.</ref><ref>{{Chú thích web |title=Thông tư số 10/2022/TT-BTNMT ngày 29 tháng 9 năm 2022 của Bộ Tài nguyên và Môi trường về việc Ban hành Danh mục địa danh dân cư, sơn văn, thủy văn, kinh tế – xã hội phục vụ công tác thành lập bản đồ thành phố Hà Nội|url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2022/10/10-btnmt.pdf|url-status=live|archive-url=https://web.archive.org/web/20260630400809/https://datafiles.chinhphu.vn/cpp/files/vbpq/2022/10/10-btnmt.pdf|archive-date=2026-06-30|access-date=2026-06-30|website=Cổng Thông tin điện tử Chính phủ}}</ref><ref>{{Chú thích web |last=|date=|title=Quyết định số 27/QĐ-UBBC ngày 12 tháng 2 năm 2026 của Ủy ban bầu cử phường Cửa Nam về việc công bố danh sách chính thức những người ứng cử đại biểu Hội đồng nhân dân phường Cửa Nam khóa II, nhiệm kỳ 2026 – 2031 theo từng đơn vị bầu cử|url=https://cuanam.hanoi.gov.vn/thong-tin-cong-khai/cong-bo-danh-sach-chinh-thuc-nhung-nguoi-ung-cu-dai-bieu-hdnd-phuong-cua-nam-khoa-ii-nhiem-ky-20262031-2801260225102003906.htm|url-status=dead|archive-url=https://web.archive.org/web/20260816400809/https://cuanam.hanoi.gov.vn/thong-tin-cong-khai/cong-bo-danh-sach-chinh-thuc-nhung-nguoi-ung-cu-dai-bieu-hdnd-phuong-cua-nam-khoa-ii-nhiem-ky-20262031-2801260225102003906.htm|archive-date=2026-08-16|access-date=2026-08-16|website=Trang Thông tin điện tử phường Cửa Nam – thành phố Hà Nội}}</ref>
+Ngày 8 tháng 8 năm 2025, đổi tên 28 tổ dân phố: 1, 3 – Phan Chu Trinh cũ, 4 – Tràng Tiền cũ, 2, 4, 5 – Phan Chu Trinh cũ, 3 – Tràng Tiền cũ, 1, từ 3 đến 5 – Hàng Bài cũ, 5 – Tràng Tiền cũ, 2, 6, 7 – Hàng Bài cũ, 5, 4, 1, 3, 6, 2 – Trần Hưng Đạo cũ, 2, 1, từ 3 đến 7 – Cửa Nam cũ lần lượt thành 28 tổ dân phố, đánh số từ 1 đến 12, 12A và từ 14 đến 28; ghép cụm dân cư trên địa bàn phường Cửa Nam.<ref>1. Đổi tên tổ 1 – Phan Chu Trinh cũ thành tổ dân phố số 1; 2. Đổi tên tổ 3 – Phan Chu Trinh cũ thành tổ dân phố số 2; 3. Đổi tên tổ 4 – Tràng Tiền cũ thành tổ dân phố số 3; 4. Đổi tên tổ 2 – Phan Chu Trinh cũ thành tổ dân phố số 4; 5. Đổi tên tổ 4 – Phan Chu Trinh cũ thành tổ dân phố số 5; 6. Đổi tên tổ 5 – Phan Chu Trinh cũ thành tổ dân phố số 6; 7. Đổi tên tổ 3 – Tràng Tiền cũ thành tổ dân phố số 7; 8. Đổi tên tổ 1 – Hàng Bài cũ thành tổ dân phố số 8; 9. Đổi tên tổ 3 – Hàng Bài cũ thành tổ dân phố số 9; 10. Đổi tên tổ 4 – Hàng Bài cũ thành tổ dân phố số 10; 11. Đổi tên tổ 5 – Hàng Bài cũ thành tổ dân phố số 11; 12. Đổi tên tổ 5 – Tràng Tiền cũ thành tổ dân phố số 12; 13. Đổi tên tổ 2 – Hàng Bài cũ thành tổ dân phố số 12A; 14. Đổi tên tổ 6 – Hàng Bài cũ thành tổ dân phố số 14; 15. Đổi tên tổ 7 – Hàng Bài cũ thành tổ dân phố số 15; 16. Đổi tên tổ 5 – Trần Hưng Đạo cũ thành tổ dân phố số 16; 17. Đổi tên tổ 4 – Trần Hưng Đạo cũ thành tổ dân phố số 17; 18. Đổi tên tổ 1 – Trần Hưng Đạo cũ thành tổ dân phố số 18; 19. Đổi tên tổ 3 – Trần Hưng Đạo cũ thành tổ dân phố số 19; 20. Đổi tên tổ 6 – Trần Hưng Đạo cũ thành tổ dân phố số 20; 21. Đổi tên tổ 2 – Trần Hưng Đạo cũ thành tổ dân phố số 21; 22. Đổi tên tổ 2 – Cửa Nam cũ thành tổ dân phố số 22; 23. Đổi tên tổ 1 – Cửa Nam cũ thành tổ dân phố số 23; 24. Đổi tên tổ 3 – Cửa Nam cũ thành tổ dân phố số 24; 25. Đổi tên tổ 4 – Cửa Nam cũ thành tổ dân phố số 25; 26. Đổi tên tổ 5 – Cửa Nam cũ thành tổ dân phố số 26; 27. Đổi tên tổ 7 – Cửa Nam cũ thành tổ dân phố số 27; 28. Đổi tên tổ 6 – Cửa Nam cũ thành tổ dân phố số 28.</ref><ref>{{Chú thích web |last=Nguyễn Trường|date=2025-07-16|title=Phường Cửa Nam ghép cụm dân cư và đổi tên các tổ dân phố|url=https://nongnghiepmoitruong.vn/phuong-cua-nam-ghep-cum-dan-cu-va-doi-ten-cac-to-dan-pho-d763081.html|url-status=dead|archive-url=https://web.archive.org/web/20260815201510/https://nongnghiepmoitruong.vn/phuong-cua-nam-ghep-cum-dan-cu-va-doi-ten-cac-to-dan-pho-d763081.html|archive-date=2026-08-15|access-date=2026-08-15|website=Báo Nông nghiệp và Môi trường}}</ref><ref>{{Chú thích web |last=Trà Vy |date=2025-08-08 |title=Hội đồng nhân dân phường Cửa Nam thông qua Đề án ghép cụm dân cư và đổi tên tổ dân phố: Bước đi quan trọng trong kiện toàn mô hình quản lý ở cơ sở |url=https://www.thanhuyhanoi.vn/tin-tuc/van-hanh-chinh-quyen-dia-phuong-2-cap/hdnd-phuong-cua-nam-thong-qua-de-an-ghep-cum-dan-cu-va-doi-ten-to-dan-pho-buoc-di-quan-trong-trong-kien-toan-mo-hinh-quan-ly-o-co-so-50030398.html |url-status=dead |archive-url=https://web.archive.org/web/20260815201510/https://www.thanhuyhanoi.vn/tin-tuc/van-hanh-chinh-quyen-dia-phuong-2-cap/hdnd-phuong-cua-nam-thong-qua-de-an-ghep-cum-dan-cu-va-doi-ten-to-dan-pho-buoc-di-quan-trong-trong-kien-toan-mo-hinh-quan-ly-o-co-so-50030398.html |archive-date=2026-08-15 |access-date=2026-08-15 |website=Trang Thông tin điện tử Đảng bộ thành phố Hà Nội}}</ref><ref name=":3">{{Chú thích web |last=Sơn Dương |date=2026-06-16 |title=Phường Cửa Nam tổ chức lấy ý kiến nhân dân về phương án sắp xếp tổ dân phố |url=https://nguoihanoi.vn/phuong-cua-nam-to-chuc-lay-y-kien-nhan-dan-ve-phuong-an-sap-xep-to-dan-pho-101273.html |url-status=dead |archive-url=https://web.archive.org/web/20260816201510/https://nguoihanoi.vn/phuong-cua-nam-to-chuc-lay-y-kien-nhan-dan-ve-phuong-an-sap-xep-to-dan-pho-101273.html |archive-date=2026-08-16 |access-date=2026-08-16 |website=Tạp chí Người Hà Nội – Hội Liên hiệp Văn học Nghệ thuật Hà Nội}}</ref>
+[[Tập tin:Bản đồ các tổ dân phố thuộc phường Cửa Nam của thành phố Hà Nội (đến ngày 1 tháng 7 năm 2026).jpg|trái|nhỏ|250x250px|Bản đồ thực trạng 28 tổ dân phố trên địa bàn phường Cửa Nam của thành phố Hà Nội (từ ngày 8 tháng 8 năm 2025 đến ngày 1 tháng 7 năm 2026)<ref name=":3" />]]
+Ngày 24 tháng 12 năm 2025, xác định phường Cửa Nam là [[Đô thị Việt Nam|đô thị loại II]].<ref>Chuyển tiếp từ 2 phường: Nguyễn Du, Phạm Đình Hổ thuộc quận Hai Bà Trưng và 7 phường: Cửa Nam, Hàng Bài, Hàng Bông, Hàng Trống, Phan Châu Trinh, Tràng Tiền, Trần Hưng Đạo thuộc quận Hoàn Kiếm.</ref><ref>{{Chú thích web |title=Nghị quyết số 111/2025/UBTVQH15 ngày 24 tháng 12 năm 2025 của Ủy ban Thường vụ Quốc hội về phân loại đô thị |url=https://cdn.nhandan.vn/files/f4a4abf7f9a0ba4a91744616546d850872b76917f90d5a74cc9eebef1369fb6f/111.pdf |url-status=dead |archive-url=https://web.archive.org/web/20260430074852/https://cdn.nhandan.vn/files/f4a4abf7f9a0ba4a91744616546d850872b76917f90d5a74cc9eebef1369fb6f/111.pdf |archive-date=2026-04-30 |access-date=2026-07-12 |website=Báo Nhân dân}}</ref>
+
+Ngày 29 tháng 6 năm 2026, thành lập 16 tổ dân phố mới: Lê Thánh Tông, Hai Bà Trưng, Phan Chu Trinh, Hàm Long, Bà Triệu, Lý Thường Kiệt, Hàng Bài, Ngô Quyền, Trần Quốc Toản, Quang Trung, Dã Tượng, Phan Bội Châu, Quán Sứ, Trần Hưng Đạo, Nam Ngư và Yết Kiêu.<ref>1. Tổ dân phố Lê Thánh Tông: Sáp nhập toàn bộ tổ dân phố số 01, một phần tổ dân phố số 02 và 03; 2. Tổ dân phố Hai Bà Trưng: Sáp nhập một phần diện tích tổ dân phố số 03, 04, 08; 3. Tổ dân phố Phan Chu Trinh: Sáp nhập một phần diện tích tổ dân phố số 02, 04, 05; 4. Tổ dân phố Hàm Long: Sáp nhập toàn bộ tổ dân phố số 06 và một phần tổ dân phố số 05, 09; 5. Tổ dân phố Bà Triệu: Sáp nhập toàn bộ tổ dân phố số 07 và một phần tổ dân phố số 03, 12; 6. Tổ dân phố Lý Thường Kiệt: Sáp nhập một phần diện tích tổ dân phố số 08, 12, 12A, 18; 7. Tổ dân phố Hàng Bài: Sáp nhập một phần diện tích tổ dân phố số 09, 10, 12A, 18, 19; 8. Tổ dân phố Ngô Quyền: Sáp nhập một phần diện tích tổ dân phố số 10 và 11; 9. Tổ dân phố Trần Quốc Toản: Sáp nhập một phần diện tích tổ dân phố số 10, 11, 14, 15; 10. Tổ dân phố Quang Trung: Sáp nhập toàn bộ tổ dân phố số 16 và một phần tổ dân phố số 15, 17, 19; 11. Tổ dân phố Dã Tượng: Sáp nhập một phần diện tích tổ dân phố số 18, 19; 12. Tổ dân phố Phan Bội Châu: Sáp nhập toàn bộ tổ dân phố số 22 và tổ dân phố số 23; 13. Tổ dân phố Quán Sứ: Sáp nhập toàn bộ tổ dân phố số 21 và một phần tổ dân phố số 19, 24, 25, 27; 14. Tổ dân phố Trần Hưng Đạo: Sáp nhập một phần diện tích tổ dân phố số 17, 19, 20; 15. Tổ dân phố Nam Ngư: Sáp nhập toàn bộ tổ dân phố số 26 và một phần tổ dân phố số 24, 25, 27, 28; 16. Tổ dân phố Yết Kiêu: Sáp nhập một phần các tổ dân phố số 19, 20, 27, 28.</ref><ref name=":022">{{Chú thích web |last=Phường Cửa Nam – thành phố Hà Nội|date=2026-06-16|title=Phường Cửa Nam tổ chức lấy ý kiến nhân dân về phương án sắp xếp tổ dân phố|url=https://web.facebook.com/phuongcuanamhn/posts/pfbid0nEcJy2FjGrRuWeGVeohP25oxYUfpXyHmsFEXGjpsDmssfKhNaLhWjLGjcr9UQkDcl|url-status=dead|archive-url=https://web.archive.org/web/20260816400809/https://web.facebook.com/phuongcuanamhn/posts/pfbid0nEcJy2FjGrRuWeGVeohP25oxYUfpXyHmsFEXGjpsDmssfKhNaLhWjLGjcr9UQkDcl|archive-date=2026-08-16|access-date=2026-08-16|website=}}</ref><ref name=":02">{{Chú thích web |last=Trang Thông tin điện tử phường Cửa Nam – thành phố Hà Nội|date=2026-06-29|title=Nghị quyết về việc thành lập, sắp xếp, tổ chức lại các tổ dân phố trên địa bàn phường Cửa Nam|url=https://cuanam.hanoi.gov.vn/thong-tin-cong-khai/nghi-quyet-ve-thanh-lap-sap-xep-to-chuc-lai-to-dan-pho-tren-dia-ban-phuong-cua-nam-2801260630145626688.htm|url-status=dead|access-date=2026-08-16|website=|archive-url=https://web.archive.org/web/20260816201510/https://cuanam.hanoi.gov.vn/thong-tin-cong-khai/nghi-quyet-ve-thanh-lap-sap-xep-to-chuc-lai-to-dan-pho-tren-dia-ban-phuong-cua-nam-2801260630145626688.htm|archive-date=2026-08-16}}</ref><ref name=":2">{{Chú thích web |last=Phường Cửa Nam – thành phố Hà Nội |date=2026-07-01 |title=Diện mạo mới của 16 tổ dân phố phường Cửa Nam |url=https://web.facebook.com/story.php?story_fbid=122202081788911815&id=61577354467102&rdid=FqXSUi6ImFt14iax&_rdc=10&_rdr# |url-status=dead |archive-url=https://web.archive.org/web/20260816201510/https://web.facebook.com/story.php?story_fbid=122202081788911815&id=61577354467102&rdid=FqXSUi6ImFt14iax&_rdc=10&_rdr# |archive-date=2026-08-16 |access-date=2026-08-16}}</ref>
+[[Tập tin:Bản đồ các tổ dân phố thuộc phường Cửa Nam của thành phố Hà Nội (từ ngày 1 tháng 7 năm 2026).jpg|trái|nhỏ|250x250px|Bản đồ phương án sắp xếp thành 16 tổ dân phố trên địa bàn phường Cửa Nam của thành phố Hà Nội (từ ngày 1 tháng 7 năm 2026)<ref name=":3" />]]
+
+== Hành chính ==
+Phường Cửa Nam được chia thành 16 tổ dân phố: Bà Triệu, Dã Tượng, Hai Bà Trưng, Hàm Long, Hàng Bài, Lê Thánh Tông, Lý Thường Kiệt, Nam Ngư, Ngô Quyền, Phan Bội Châu, Phan Chu Trinh, Quang Trung, Quán Sứ, Trần Hưng Đạo, Trần Quốc Toản và Yết Kiêu.<ref name=":022" /><ref name=":02" /><ref name=":2" />
+{| class="wikitable sortable" align="center" width="100%" cellspacing="6" cellpadding="0" style="background: #f9f9f9; border: 1px #aaa solid; margin-top: 16px"
+! colspan="4" style="background: #E6E6FA; font-size: 95%;" |Danh sách các tổ dân phố thuộc phường Cửa Nam<ref name=":022" /><ref name=":02" /><ref name=":2" />
+|-
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Bà Triệu
+|1.009
+|-
+| align="left" |Dã Tượng
+|1.186
+|-
+| align="left" |Hai Bà Trưng
+|726
+|-
+| align="left" |Hàm Long
+|894
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Hàng Bài
+|822
+|-
+| align="left" |Lê Thánh Tông
+|874
+|-
+| align="left" |Lý Thường Kiệt
+|1.048
+|-
+| align="left" |Nam Ngư
+|911
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Ngô Quyền
+|872
+|-
+| align="left" |Phan Bội Châu
+|1.165
+|-
+| align="left" |Phan Chu Trinh
+|760
+|-
+| align="left" |Quang Trung
+|1.054
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Quán Sứ
+|1.205
+|-
+| align="left" |Trần Hưng Đạo
+|1.065
+|-
+| align="left" |Trần Quốc Toản
+|766
+|-
+| align="left" |Yết Kiêu
+|911
+|}
+|}
+
+== Trụ sở các cơ quan ==
+* '''Trụ sở Đảng uỷ - HĐND phường''': Số 21, phố Bà Triệu.<ref>Địa chỉ cũ: Số 21, phố Bà Triệu, phường Hàng Bài, quận Hoàn Kiếm</ref><ref name="trusomoi">{{Chú thích web | date = 25 tháng 6 năm 2025| title = Thông báo về địa điểm trụ sở làm việc của 126 phường, xã sau sắp xếp thuộc phạm vi quản lý của thành phố Hà Nội| url = https://dcdn.dantri.com.vn/2025/06/25/tru-so-126-xa-phuong-cua-ha-noi-1750822481952.pdf| website = UBND TP Hà Nội}}</ref>
+* '''Trụ sở UBND''' '''phường''': Số 4, phố Nguyễn Chế Nghĩa.<ref name=":0">Địa chỉ cũ: Số 4, phố Nguyễn Chế Nghĩa, phường Hàng Bài, quận Hoàn Kiếm</ref>
+* '''Trung tâm phục vụ hành chính công''': Số 29, phố Quang Trung.<ref>Địa chỉ cũ: Số 29, phố Quang Trung, phường Trần Hưng Đạo, quận Hoàn Kiếm (Trước là Trụ sở HĐND - UBND phường Trần Hưng Đạo cũ)</ref><ref>{{Chú thích báo| url = https://ttpvhcc.hanoi.gov.vn/hoat-dong-cua-trung-tam/ha-noi-cong-khai-dia-diem-tiep-nhan-thu-tuc-hanh-chinh-thuoc-ubnd-126-xa-phuong-va-30-diem-tiep-nhan-cua-12-chi-nhanh-thuoc-trung-tam-phuc-vu-hanh-chinh-cong-thanh-pho-thong-tin-duong-day-nong-ho-tro-nguoi-dan-doanh-nghiep-2850250704103711121.htm| title = Hà Nội công khai địa điểm tiếp nhận thủ tục hành chính thuộc UBND 126 xã/phường và 30 điểm tiếp nhận của 12 Chi nhánh thuộc Trung tâm Phục vụ hành chính công Thành phố, thông tin đường dây nóng hỗ trợ người dân, doanh nghiệp| last = Trung tâm Phục vụ hành chính công thành phố Hà Nội}}{{Liên kết hỏng|date=2026-07-08 |bot=InternetArchiveBot }}</ref>
+* '''Công an phường''':<ref>{{Chú thích báo| url = https://daibieunhandan.vn/danh-sach-126-tru-so-cong-an-cap-xa-thuoc-cong-an-tp-ha-noi-de-nguoi-dan-toi-lam-can-cuoc-dang-ky-xe-10378397.html| title = Danh sách 126 trụ sở Công an cấp xã thuộc Công an TP. Hà Nội để người dân tới làm căn cước, đăng ký xe| last = Báo Đại biểu Nhân dân| first = }}</ref>
+** '''Trụ sở chính''': Số 89, phố Lý Thường Kiệt.<ref>Địa chỉ cũ: Số 89, phố Lý Thường Kiệt, phường Cửa Nam, quận Hoàn Kiếm</ref>
+** '''Trụ sở tiếp nhận thủ tục hành chính, CCCD''': Số 73, đường Lê Duẩn.<ref>Địa chỉ cũ: Số 73, đường Lê Duẩn, phường Cửa Nam, quận Hoàn Kiếm</ref>
+** '''Trụ sở tiếp nhận thủ tục đăng ký xe''': Số 9, phố Phan Chu Trinh.<ref>Địa chỉ cũ: Số 9, phố Phan Chu Trinh, phường Phan Chu Trinh, quận Hoàn Kiếm</ref>
+
+== Hình ảnh== 
+<gallery>
+Trụ sở Đảng uỷ - HĐND phường Cửa Nam, Hà Nội.jpg|Trụ sở Đảng uỷ - HĐND phường Cửa Nam, Hà Nội
+Trung tâm phục vụ hành chính công phường Cửa Nam, Hà Nội.jpg| Trung tâm phục vụ hành chính công phường Cửa Nam, Hà Nội
+Trụ sở chính Công an phường Cửa Nam, Hà Nội.jpg| Trụ sở chính Công an phường Cửa Nam, Hà Nội
+Trụ sở Công an phường Cửa Nam, Hà Nội.jpg| Trụ sở Công an phường Cửa Nam, Hà Nội
+Khách sạn Hilton Hanoi Opera, Hà Nội 001.JPG| Khách sạn Hilton Hanoi Opera
+Công đoàn ngành giáo dục Hà Nội, Thợ Nhuộm, Hà Nội 001.JPG| Công đoàn ngành giáo dục Hà Nội
+Hồ Thiền Quang (Hà Nội).jpg| Một góc [[hồ Thiền Quang]]
+Hanoi Oper.jpg| Nhà hát Lớn Hà Nội
+</gallery>
+
+==Danh nhân==
+* '''[[Nguyễn Thanh Hải (nữ chính khách)|Nguyễn Thanh Hải]]''' (sinh năm 1970) là nhà vật lý, chính trị gia người Việt Nam. Bà có bằng [[tiến sĩ]] vật lý, học hàm [[Phó Giáo sư (Việt Nam)|phó giáo sư]].
+
+== Chú thích== 
+{{tham khảo|30em}}
+
+== Tham khảo==
+{{sơ khai Hà Nội}}
+{{Đơn vị hành chính thuộc thành phố Hà Nội}}

@@ -1,0 +1,74 @@
+{{Thông tin đơn vị hành chính Việt Nam | xã
+| tên = Vĩnh Chân
+| hình =Khu 4 Yên Luật Hạ Hòa Phú Thọ.jpg 
+| ghi chú hình =Một phần quang cảnh tại xã được chụp tại khu 4 (xã Yên Luật cũ) 
+| vĩ độ = 21
+| kinh độ = 105
+| vĩ phút = 30
+| vĩ giây = 25
+| kinh phút = 3
+| kinh giây = 50
+| diện tích = 27,12 km²
+| dân số = 17.173 người
+| thời điểm dân số = 2025
+| mật độ dân số = {{formatnum:{{#expr:floor({{formatnum:17.173|R}}/{{formatnum:27,12|R}})}} }} người/km²
+| vùng = [[Đông Bắc Bộ]]
+| tỉnh = [[Phú Thọ]]
+| thành lập =16 tháng 6 năm 2025<ref>Nghị quyết số 1676/NQ-UBTVQH15</ref> 
+| trụ sở UBND =Khu 9 
+| mã hành chính = 08143<ref>{{Chú thích web |url=https://danhmuchanhchinh.gso.gov.vn/ |title=Tổng cục Thống kê |access-date=2022-04-10 |archive-date=2021-01-10 |archive-url=https://web.archive.org/web/20210110034519/https://www.gso.gov.vn/phuong-phap-thong-ke/danh-muc/don-vi-hanh-chinh/ |url-status=dead }}</ref>
+| mã bưu chính =35429 
+|web={{url|https://vinhchan.phutho.gov.vn/}}}}
+
+'''Vĩnh Chân''' là một [[Xã (Việt Nam)|xã]] thuộc tỉnh [[Phú Thọ]], [[Việt Nam]].
+
+==Địa lý==
+Xã Vĩnh Chân nằm ở phía tây bắc tỉnh [[Phú Thọ]], có vị trí địa lý<ref>{{Chú thích web |title=Đơn vị hành chính Việt Nam |url=https://sapnhap.bando.com.vn/ |access-date=2026-07-01 |website=sapnhap.bando.com.vn}}</ref>:
+*Phía đông giáp xã [[Thanh Ba (xã)|Thanh Ba]] và xã [[Hoàng Cương (xã)|Hoàng Cương]].
+*Phía tây giáp xã [[Văn Lang, Phú Thọ|Văn Lang]] với ranh giới là [[sông Hồng]] và xã [[Hạ Hòa (xã)|Hạ Hòa]].
+*Phía nam giáp xã [[Tiên Lương]] và xã [[Cẩm Khê (xã)|Cẩm Khê]] với ranh giới là [[sông Hồng]].
+*Phía bắc giáp xã [[Yên Kỳ]].
+
+Xã Vĩnh Chân có diện tích 27,12&nbsp;km², dân số năm 2025 là 17.173 người, mật độ dân số đạt {{formatnum:{{#expr:floor({{formatnum:17.173|R}}/{{formatnum:27,12|R}})}} }} người/km².<ref>{{Chú thích web |title=Xã Vĩnh Chân, Tỉnh Phú Thọ mới sáp nhập 2026 |url=https://tinhthanhvn.com/province/phu-tho/xa-vinh-chan |access-date=2026-07-01 |website=Tỉnh Thành Việt Nam |language=vi}}</ref>
+
+==Hành chính==
+Xã Vĩnh Chân được chia thành 25 khu: 1, 2, 3, 4, 5 (xã Lang Sơn cũ), 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14 (xã Vĩnh Chân cũ), 1, 2, 3, 4, 5, 6 (Xã Yên Luật cũ).<ref>{{Chú thích web |last=Ủy ban nhân dân xã Vĩnh Chân |date=2026-01-21 |title=Quyết định số 65/QĐ-UBND về việc phê chuẩn khu vực bỏ phiếu bầu cử đại biểu Quốc hội khóa XVI và đại biểu Hội đồng nhân dân các cấp nhiệm kỳ 2026 - 2031 trên địa bàn xã Vĩnh Chân |url=https://vinhchan.phutho.gov.vn/portals/29/AttachFiles/2026/2/3/2026_2_3_14_4_56_639057242963549439_3.Q%C4%90%20ph%C3%AA%20chu%E1%BA%A9n%20khu%20v%E1%BB%B1c%20b%E1%BB%8F%20phi%E1%BA%BFu.signed.signed.pdf |url-status=live |archive-url=https://web.archive.org/web/20260426090807/https://vinhchan.phutho.gov.vn/portals/29/AttachFiles/2026/2/3/2026_2_3_14_4_56_639057242963549439_3.Q%C4%90%20ph%C3%AA%20chu%E1%BA%A9n%20khu%20v%E1%BB%B1c%20b%E1%BB%8F%20phi%E1%BA%BFu.signed.signed.pdf |archive-date=2026-04-26 |access-date=2026-04-26 |website=Trang Thông tin điện tử xã Vĩnh Chân - tỉnh Phú Thọ}}</ref><ref name=":1">{{Chú thích web |last=Bộ Dân tộc và Tôn giáo |date=2026-01-29 |title=Danh sách Thôn vùng đồng bào dân tộc thiểu số và miền núi, thôn đặc biệt khó khăn giai đoạn 2026 - 2030 trên địa bàn tỉnh Phú Thọ |url=http://files.ubdt.gov.vn/files/ecm/source_files/2026/02/05/11252411_4.%20Ph%C3%BA%20Th%E1%BB%8D%201%20(th%C3%B4n).signed_26-02-05.pdf |url-status=live |archive-url=https://web.archive.org/web/20260417090807/http://files.ubdt.gov.vn/files/ecm/source_files/2026/02/05/11252411_4.%20Ph%C3%BA%20Th%E1%BB%8D%201%20(th%C3%B4n).signed_26-02-05.pdf |archive-date=2026-04-17 |access-date=2026-04-17 |website=Cổng Thông tin điện tử Bộ Dân tộc và Tôn giáo}}</ref>
+
+==Lịch sử==
+Địa bàn xã Vĩnh Chân hiện nay trước đây vốn là ba xã: Lang Sơn, Vĩnh Chân, Yên Luật thuộc huyện [[Hạ Hòa (huyện)|Hạ Hòa]] cũ.
+
+Xã Vĩnh Chân trước đây có 12 khu, do hai làng hợp thành là Làng Vĩnh và Chân Lao. Làng Vĩnh có năm thôn: Minh Lăng, Minh Trào, Tân Lập, Tân Tiến và Trường Thiện. Làng Chân Lao nằm độc lập như một hòn đảo. Ngoài ra xã còn quản lý khu K30 nằm dọc tuyến đường từ xã Yên Luật tới xã Hương Xạ. K30 là dải đất dài chạy dọc tuyến đường khoảng 2&nbsp;km với 33 hộ dân sinh sống nằm giữa điểm giao giữa 3 xã Chính Công, Yên Luật và Hương Xạ, biệt lập với phần còn lại của xã.
+
+Trải qua các thời kì lịch sử, địa danh, địa giới của xã Vĩnh Chân có nhiều lần thay đổi. Theo các bậc cao niên trong làng kể lại, trước đây một phần dân nơi đây sống bằng nghề chài lưới, chuyên đánh cá trên sông nên có tên là Vạn Vù. Về sau, được Quan trấn Đông Nguyễn Địch Hiền vận động bỏ nghề chài lưới lên bờ khai thác đất hoang làm ruộng và buôn bán, làng đổi tên thành Vụ Cầu. Vụ Cầu gồm 2 làng: Thổ Khối và làng Vù.
+
+Thời [[Pháp thuộc]], địa bàn xã thuộc tổng Vĩnh Chân, Hạ Hòa, tỉnh Hưng Hóa.
+
+Ngày [[15 tháng 5]] năm [[1903]], tỉnh Hưng Hóa đổi tên thành tỉnh Phú Thọ, xã Vĩnh Chân thuộc tỉnh Phú Thọ.
+
+Đến năm [[2018]]:
+
+* Xã Vĩnh Chân có diện tích 5,80&nbsp;km², dân số là 4.198 người, mật độ dân số đạt 724 người/km².
+* Xã Vụ Cầu có diện tích 2,27&nbsp;km², dân số là 1.986 người, mật độ dân số đạt 875 người/km².
+* Xã Mai Tùng có diện tích 3,04&nbsp;km², dân số là 1.349 người, mật độ dân số đạt 444 người/km².
+
+Ngày [[17 tháng 12]] năm [[2019]], [[Ủy ban Thường vụ Quốc hội]] ban hành Nghị quyết 828/NQ-UBTVQH14 về việc sắp xếp các đơn vị hành chính cấp xã thuộc tỉnh Phú Thọ (nghị quyết có hiệu lực từ ngày [[1 tháng 1]] năm [[2020]]).<ref name="NQ828">{{Chú thích web|url=https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Nghi-quyet-828-NQ-UBTVQH14-2019-sap-xep-don-vi-hanh-chinh-cap-xa-thuoc-tinh-Phu-Tho-432098.aspx|tựa đề=Nghị quyết số 828/NQ-UBTVQH14 năm 2019 về việc sắp xếp các đơn vị hành chính cấp xã thuộc tỉnh Phú Thọ|tác giả=|họ=|tên=|ngày=|website=|url lưu trữ=|ngày lưu trữ=|ngày truy cập=}}</ref> Theo đó, sáp nhập toàn bộ diện tích và dân số của hai xã Mai Tùng và Vụ Cầu vào xã Vĩnh Chân.
+
+Ngày [[16 tháng 6]] năm [[2025]]:
+
+* [[Quốc hội Việt Nam|Quốc hội]] ban hành Nghị quyết số 203/2025/QH15 về việc sửa đổi, bổ sung một số điều của Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam (nghị quyết có hiệu lực từ ngày [[16 tháng 6]] năm [[2025]]).<ref>{{Chú thích web |last=xaydungchinhsach.chinhphu.vn|date=2025-06-28|title=NGHỊ QUYẾT 203/2025/QH15 SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA HIẾN PHÁP NƯỚC CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM|url=https://xaydungchinhsach.chinhphu.vn/nghi-quyet-203-2025-qh15-sua-doi-bo-sung-mot-so-dieu-cua-hien-phap-nuoc-cong-hoa-xa-hoi-chu-nghia-viet-nam-119250616181735552.htm|url-status=live|archive-url=http://web.archive.org/web/20260715200606/https://xaydungchinhsach.chinhphu.vn/nghi-quyet-203-2025-qh15-sua-doi-bo-sung-mot-so-dieu-cua-hien-phap-nuoc-cong-hoa-xa-hoi-chu-nghia-viet-nam-119250616181735552.htm|archive-date=2026-07-15|access-date=2026-07-15|website=Báo Điện tử Chính phủ|language=vi}}</ref> Theo đó, kết thúc hoạt động của đơn vị hành chính cấp huyện trong cả nước từ ngày 1 tháng 7 năm 2025.
+
+* Ủy ban Thường vụ Quốc hội ban hành Nghị quyết số 1676/NQ-UBTVQH15 về việc sắp xếp đơn vị hành chính cấp xã của tỉnh [[Phú Thọ]] năm 2025 (nghị quyết có hiệu lực từ ngày [[16 tháng 6]] năm [[2025]]).<ref>{{Chú thích web |last=xaydungchinhsach.chinhphu.vn|date=2025-06-20|title=Nghị quyết số 1676/NQ-UBTVQH15 sắp xếp các ĐVHC cấp xã của tỉnh Phú Thọ năm 2025|url=https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-1676-nq-ubtvqh15-sap-xep-cac-dvhc-cap-xa-cua-tinh-phu-tho-nam-2025-119250616204317326.htm|url-status=live|archive-url=http://web.archive.org/web/20260725082021/https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-1676-nq-ubtvqh15-sap-xep-cac-dvhc-cap-xa-cua-tinh-phu-tho-nam-2025-119250616204317326.htm|archive-date=2026-07-25|access-date=2026-07-25|website=Báo Điện tử Chính phủ|language=vi}}</ref> Theo đó, sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của các xã Lang Sơn, Yên Luật, Vĩnh Chân thành xã mới có tên gọi là '''xã''' '''Vĩnh Chân'''.
+
+== Giáo dục ==
+Vĩnh Chân là địa điểm thứ hai của tỉnh Phú Thọ có trường tiểu học từ thời [[Pháp thuộc]], sau thị xã [[Phú Thọ (thị xã)|Phú Thọ]].
+
+==Danh nhân==
+* '''[[Nguyễn Hồng Phong (Phú Thọ)|Nguyễn Hồng Phong]]''' (sinh năm 1979) là một [[Chính khách|chính trị gia]] người Việt Nam.
+* [[Lê Quang Hùng (chính khách)|'''Lê Quang Hùng''']] (sinh năm 1962) là một [[chính khách]] Việt Nam.
+
+== Chú thích ==
+{{tham khảo}}
+
+== Tham khảo ==
+{{sơ khai Phú Thọ}}
+{{Đơn vị hành chính thuộc tỉnh Phú Thọ}}

@@ -1,0 +1,168 @@
+{
+  "ward_code": "08950",
+  "ward_name": "Bình Xuyên",
+  "province_code": "25",
+  "resolution": "",
+  "arrangement": "truoc_2026_07",
+  "effective_date": "",
+  "verified": "unverified",
+  "extraction": {
+    "source": "vi.wikipedia.org",
+    "title": "Bình Xuyên (xã)",
+    "mode": "narrative"
+  },
+  "sources": [
+    {
+      "key": "wiki-08950-1",
+      "title": "Nghị quyết số 2/NQ-UBBC về việc công bố danh sách chính thức những người ứng cử đại biểu Hội đồng nhân dân xã Bình Xuyên, nhiệm kỳ 2021 - 2026 theo từng đơn vị bầu cử",
+      "url": "https://binhxuyen.phutho.gov.vn/images/nghi_quyet_02.pdf",
+      "date": "2026-02-13",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-08950-2",
+      "title": "Nghị quyết số 111/2025/UBTVQH15 về phân loại đô thị",
+      "url": "https://xaydungchinhsach.chinhphu.vn/nghi-quyet-so-111-2025-ubtvqh15-ve-phan-loai-do-thi-119260101170432239.htm",
+      "date": "2026-01-21",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-08950-3",
+      "title": "Danh sách Thôn vùng đồng bào dân tộc thiểu số và miền núi, thôn đặc biệt khó khăn giai đoạn 2026 - 2030 trên địa bàn tỉnh Phú Thọ",
+      "url": "http://files.ubdt.gov.vn/files/ecm/source_files/2026/02/05/11252411_4.%20Ph%C3%BA%20Th%E1%BB%8D%201%20(th%C3%B4n).signed_26-02-05.pdf",
+      "date": "2026-01-29",
+      "type": "wikipedia-ref"
+    }
+  ],
+  "note": "Trích tự động từ Wikipedia tiếng Việt (mode=narrative). Cần đối chiếu nghị quyết HĐND phường/xã. ⚠️ Danh mục có thể là hiện trạng TRƯỚC sắp xếp thôn/TDP 01/7/2026 — Wikipedia chưa cập nhật nghị quyết mới.",
+  "tdp": [
+    {
+      "name": "Ba Mô",
+      "type": "thôn"
+    },
+    {
+      "name": "Cầu Đá",
+      "type": "thôn"
+    },
+    {
+      "name": "Chân Sơn",
+      "type": "thôn"
+    },
+    {
+      "name": "Chùa Tiếng",
+      "type": "thôn"
+    },
+    {
+      "name": "Cổ Độ",
+      "type": "thôn"
+    },
+    {
+      "name": "Cơ Khí",
+      "type": "thôn"
+    },
+    {
+      "name": "Cơ Quan",
+      "type": "thôn"
+    },
+    {
+      "name": "Gia Du",
+      "type": "thôn"
+    },
+    {
+      "name": "Gò Dẫu",
+      "type": "thôn"
+    },
+    {
+      "name": "Gốc Gạo",
+      "type": "thôn"
+    },
+    {
+      "name": "Hà Châu",
+      "type": "thôn"
+    },
+    {
+      "name": "Hiệp Thuận",
+      "type": "thôn"
+    },
+    {
+      "name": "Hòang Oanh",
+      "type": "thôn"
+    },
+    {
+      "name": "Hương Đà",
+      "type": "thôn"
+    },
+    {
+      "name": "Hương Ngọc",
+      "type": "thôn"
+    },
+    {
+      "name": "Hương Vị",
+      "type": "thôn"
+    },
+    {
+      "name": "Lưu Quang",
+      "type": "thôn"
+    },
+    {
+      "name": "Ngũ Hồ",
+      "type": "thôn"
+    },
+    {
+      "name": "Quang Khải",
+      "type": "thôn"
+    },
+    {
+      "name": "Quảng Khai",
+      "type": "thôn"
+    },
+    {
+      "name": "Sơn Bi",
+      "type": "thôn"
+    },
+    {
+      "name": "Tam Hà",
+      "type": "thôn"
+    },
+    {
+      "name": "Tam Lộng",
+      "type": "thôn"
+    },
+    {
+      "name": "Tam Quang",
+      "type": "thôn"
+    },
+    {
+      "name": "Tân Hà",
+      "type": "thôn"
+    },
+    {
+      "name": "Thanh Xuân",
+      "type": "thôn"
+    },
+    {
+      "name": "Thiếu Khanh",
+      "type": "thôn"
+    },
+    {
+      "name": "Thiện Kế",
+      "type": "thôn"
+    },
+    {
+      "name": "Trại Mới",
+      "type": "thôn"
+    },
+    {
+      "name": "Vĩnh Phượng",
+      "type": "thôn"
+    },
+    {
+      "name": "Xây Dựng",
+      "type": "thôn"
+    },
+    {
+      "name": "Xuân Quang",
+      "type": "thôn"
+    }
+  ]
+}

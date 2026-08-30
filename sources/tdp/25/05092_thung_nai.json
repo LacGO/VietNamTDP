@@ -1,0 +1,120 @@
+{
+  "ward_code": "05092",
+  "ward_name": "Thung Nai",
+  "province_code": "25",
+  "resolution": "",
+  "arrangement": "truoc_2026_07",
+  "effective_date": "",
+  "verified": "unverified",
+  "extraction": {
+    "source": "vi.wikipedia.org",
+    "title": "Thung Nai",
+    "mode": "narrative"
+  },
+  "sources": [
+    {
+      "key": "wiki-05092-1",
+      "title": "Nghị quyết số 47/NQ-UBBC về việc Công bố kết quả bầu cử và danh sách những người trúng cử đại biểu Hội đồng nhân dân xã Thung Nai khóa XXI, nhiệm kỳ 2026 - 2031",
+      "url": "https://web.facebook.com/story.php?story_fbid=122165178122945012&id=61578350363678&rdid=JwMk53FiDS5Bq1vJ#",
+      "date": "2026-03-18",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-05092-2",
+      "title": "Danh sách Thôn vùng đồng bào dân tộc thiểu số và miền núi, thôn đặc biệt khó khăn giai đoạn 2026 - 2030 trên địa bàn tỉnh Phú Thọ",
+      "url": "http://files.ubdt.gov.vn/files/ecm/source_files/2026/02/05/11252411_4.%20Ph%C3%BA%20Th%E1%BB%8D%201%20(th%C3%B4n).signed_26-02-05.pdf",
+      "date": "2026-01-29",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-05092-3",
+      "title": "NGHỊ QUYẾT 203/2025/QH15 SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA HIẾN PHÁP NƯỚC CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM",
+      "url": "https://xaydungchinhsach.chinhphu.vn/nghi-quyet-203-2025-qh15-sua-doi-bo-sung-mot-so-dieu-cua-hien-phap-nuoc-cong-hoa-xa-hoi-chu-nghia-viet-nam-119250616181735552.htm",
+      "date": "2025-06-28",
+      "type": "wikipedia-ref"
+    }
+  ],
+  "note": "Trích tự động từ Wikipedia tiếng Việt (mode=narrative). Cần đối chiếu nghị quyết HĐND phường/xã. ⚠️ Danh mục có thể là hiện trạng TRƯỚC sắp xếp thôn/TDP 01/7/2026 — Wikipedia chưa cập nhật nghị quyết mới.",
+  "tdp": [
+    {
+      "name": "Bắc Sơn",
+      "type": "xóm"
+    },
+    {
+      "name": "Cáp",
+      "type": "xóm"
+    },
+    {
+      "name": "Chiềng",
+      "type": "xóm"
+    },
+    {
+      "name": "Dài",
+      "type": "xóm"
+    },
+    {
+      "name": "Dệ",
+      "type": "xóm"
+    },
+    {
+      "name": "Giang",
+      "type": "xóm"
+    },
+    {
+      "name": "Hải Phong",
+      "type": "xóm"
+    },
+    {
+      "name": "Khụ",
+      "type": "xóm"
+    },
+    {
+      "name": "Lòn",
+      "type": "xóm"
+    },
+    {
+      "name": "Má 1",
+      "type": "xóm"
+    },
+    {
+      "name": "Má 2",
+      "type": "xóm"
+    },
+    {
+      "name": "Môn",
+      "type": "xóm"
+    },
+    {
+      "name": "Mỗ",
+      "type": "xóm"
+    },
+    {
+      "name": "Mới",
+      "type": "xóm"
+    },
+    {
+      "name": "Mu",
+      "type": "xóm"
+    },
+    {
+      "name": "Nai",
+      "type": "xóm"
+    },
+    {
+      "name": "Tiến",
+      "type": "xóm"
+    },
+    {
+      "name": "Tiện",
+      "type": "xóm"
+    },
+    {
+      "name": "Tiềng",
+      "type": "xóm"
+    },
+    {
+      "name": "Tráng",
+      "type": "xóm"
+    }
+  ]
+}

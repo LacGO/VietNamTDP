@@ -1,0 +1,58 @@
+{{Thông tin đơn vị hành chính Việt Nam | phường
+| tên = Tân Hòa
+| hình = Vietnam (4014932202).jpg
+| ghi chú hình =Một người nông dân gặt lúa 
+| vĩ độ = 20.845061284673058
+| kinh độ = 105.33469881547767
+| diện tích = 56,99 km²
+| dân số = 14.316 người
+| thời điểm dân số = 2025
+| mật độ dân số = {{formatnum:{{#expr:floor({{formatnum:14.316| R}}/{{formatnum:56,99| R}})}} }} người/km²
+| vùng = [[Đông Bắc Bộ]]
+| tỉnh = [[Phú Thọ]]
+| thành lập =16/6/2025 
+| trụ sở UBND =Đường Triệu Phúc Lịch 
+| mã hành chính = 04792
+|web={{url|tanhoa.phutho.gov.vn}}
+}}
+{{other|Tân Hòa (định hướng)}}
+'''Tân Hòa''' là một [[Phường (Việt Nam)|phường]] thuộc tỉnh [[Phú Thọ]], [[Việt Nam]].
+
+== Địa lý ==
+Phường Tân Hoà có vị trí địa lý:
+
+* Phía Bắc giáp xã [[Yên Sơn, Phú Thọ|Yên Sơn]].
+* Phía Tây giáp xã [[Đà Bắc (xã)|Đà Bắc]].
+* Phía Nam giáp phường [[Thống Nhất, Phú Thọ|Thống Nhất]].
+* Phía Đông giáp phường [[Kỳ Sơn (phường)|Kỳ Sơn]] và phường [[Hòa Bình, Phú Thọ|Hoà Bình]].
+
+== Hành chính ==
+Phường Tân Hoà được chia thành 11 tổ dân phố đánh số từ 1 đến 11.
+
+== Lịch sử ==
+Trước kia, Tân Hòa là một phường thuộc thành phố [[Hòa Bình (tỉnh)|Hòa Bình]], tỉnh [[Hòa Bình (tỉnh)|Hòa Bình]] cũ.
+
+Trước năm [[1945]], xã Hòa Bình thuộc tổng Hòa Bình, châu Kỳ Sơn.<ref name=":0">{{chú thích sách |url=https://www.google.com/books/edition/Địa_ch%C3%AD_Hòa_Bình/jUZRAQAAMAAJ |year=2005 |isbn= |doi= |id= |tác giả= |tựa đề=Địa chí Hòa Bình |nhà xuất bản=Nhà xuất bản Chính trị quốc gia |nơi= |trang=834}}</ref>
+
+[[Tháng 1]] năm [[1948]], Ủy ban kháng chiến hành chính Liên khu III quyết định chuyển xã Hòa Bình về châu Mai Đà. Tuy nhiên đến [[tháng 1]] năm [[1951]], xã Hòa Bình lại được chuyển về huyện [[Kỳ Sơn (huyện Hòa Bình)|Kỳ Sơn]].<ref name=":0" />
+
+Ngày [[3 tháng 8]] năm [[1978]], Bộ trưởng Phủ Thủ tướng ban hành Quyết định 134-BT về việc sáp nhập xã Hòa Bình và xã Thịnh Lang của huyện Kỳ Sơn vào thị xã Hòa Bình, tỉnh Hà Sơn Bình.
+
+Đến năm [[2018]], xã Hòa Bình có diện tích 21,22&nbsp;km², dân số là 2.437 người, mật độ dân số đạt 115 người/km².
+
+Ngày [[17 tháng 12]] năm [[2019]], [[Ủy ban Thường vụ Quốc hội]] ban hành Nghị quyết số 830/NQ-UBTVQH14 về việc sắp xếp các đơn vị hành chính cấp huyện, cấp xã thuộc tỉnh Hòa Bình (nghị quyết có hiệu lực từ ngày [[1 tháng 1]] năm [[2020]]).<ref>{{Chú thích web |last=Ủy ban Thường vụ Quốc hội |title=Nghị quyết số 830/NQ-UBTVQH14 về việc sắp xếp các đơn vị hành chính cấp huyện, cấp xã thuộc tỉnh Hòa Bình. |url=https://congbao.chinhphu.vn/van-ban/nghi-quyet-so-830-nq-ubtvqh14-30318.htm |access-date=2026-08-29 |website=congbao.chinhphu.vn |language=vi}}</ref> Theo đó, sáp nhập toàn bộ 6,50&nbsp;km² diện tích tự nhiên và 593 người của hai xóm Bích Trụ và Tiểu Khu thuộc xã Thái Thịnh vừa giải thể vào xã Hòa Bình.
+
+Ngày [[12 tháng 6]] năm [[2025]], [[Quốc hội Việt Nam|Quốc hội]] ban hành Nghị quyết số 202/2025/QH15 về việc sắp xếp đơn vị hành chính cấp tỉnh (nghị quyết có hiệu lực từ ngày [[12 tháng 6]] năm [[2025]]).<ref>{{Chú thích web |last=xaydungchinhsach.chinhphu.vn |date=2025-07-16 |title=TOÀN VĂN: Nghị quyết số 202/2025/QH15 về sắp xếp đơn vị hành chính cấp tỉnh |url=https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-202-2025-qh15-ve-sap-xep-don-vi-hanh-chinh-cap-tinh-119250612174148722.htm |url-status=live |archive-url=https://web.archive.org/web/20260705025431/https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-202-2025-qh15-ve-sap-xep-don-vi-hanh-chinh-cap-tinh-119250612174148722.htm |archive-date=2026-07-05 |access-date=2026-07-25 |website=Báo Điện tử Chính phủ |language=vi }}</ref> Theo đó, sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của tỉnh [[Vĩnh Phúc (tỉnh)|Vĩnh Phúc]], tỉnh [[Hòa Bình (tỉnh)|Hòa Bình]] và tỉnh [[Phú Thọ]] thành tỉnh mới có tên gọi là tỉnh '''Phú Thọ'''.
+
+Ngày [[16 tháng 6]] năm [[2025]]:
+
+* Quốc hội ban hành Nghị quyết số 203/2025/QH15 về việc sửa đổi, bổ sung một số điều của Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam (nghị quyết có hiệu lực từ ngày [[16 tháng 6]] năm [[2025]]).<ref>{{Chú thích web |last=xaydungchinhsach.chinhphu.vn |date=2025-06-28 |title=NGHỊ QUYẾT 203/2025/QH15 SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA HIẾN PHÁP NƯỚC CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM |url=https://xaydungchinhsach.chinhphu.vn/nghi-quyet-203-2025-qh15-sua-doi-bo-sung-mot-so-dieu-cua-hien-phap-nuoc-cong-hoa-xa-hoi-chu-nghia-viet-nam-119250616181735552.htm |url-status=live |archive-url=https://web.archive.org/web/20260715200606/https://xaydungchinhsach.chinhphu.vn/nghi-quyet-203-2025-qh15-sua-doi-bo-sung-mot-so-dieu-cua-hien-phap-nuoc-cong-hoa-xa-hoi-chu-nghia-viet-nam-119250616181735552.htm |archive-date=2026-07-15 |access-date=2026-07-15 |website=Báo Điện tử Chính phủ |language=vi }}</ref> Theo đó, kết thúc hoạt động của đơn vị hành chính cấp huyện trong cả nước từ ngày 1 tháng 7 năm 2025.
+* Ủy ban Thường vụ Quốc hội ban hành Nghị quyết số 1676/NQ-UBTVQH15 về việc sắp xếp đơn vị hành chính cấp xã của tỉnh [[Phú Thọ]] năm 2025 (nghị quyết có hiệu lực từ ngày [[16 tháng 6]] năm [[2025]]). Theo đó, sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của phường Tân Hòa, xã Hòa Bình và xã Yên Mông (thành phố [[Hòa Bình (thành phố)|Hoà Bình]]) thành phường mới có tên gọi là '''phường Tân Hòa'''.<ref>{{Chú thích web |last=xaydungchinhsach.chinhphu.vn |date=2025-06-20 |title=Nghị quyết số 1676/NQ-UBTVQH15 sắp xếp các ĐVHC cấp xã của tỉnh Phú Thọ năm 2025 |url=https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-1676-nq-ubtvqh15-sap-xep-cac-dvhc-cap-xa-cua-tinh-phu-tho-nam-2025-119250616204317326.htm |access-date=2025-09-07 |website=xaydungchinhsach.chinhphu.vn |language=vi}}</ref>
+
+== Chú thích ==
+{{tham khảo|30em}}
+
+==Tham khảo==
+
+{{sơ khai Phú Thọ}}
+{{Đơn vị hành chính thuộc tỉnh Phú Thọ}}

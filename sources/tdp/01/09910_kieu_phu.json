@@ -1,0 +1,112 @@
+{
+  "ward_code": "09910",
+  "ward_name": "Kiều Phú",
+  "province_code": "01",
+  "resolution": "",
+  "arrangement": "2026_07",
+  "effective_date": "2026-07-01",
+  "verified": "unverified",
+  "extraction": {
+    "source": "vi.wikipedia.org",
+    "title": "(cache)",
+    "mode": "table"
+  },
+  "sources": [
+    {
+      "key": "wiki-09910-1",
+      "title": "Nghị quyết số 20/NQ-HĐND ngày 23 tháng 6 năm 2026 của Hội đồng nhân dân xã Kiều Phú về việc sắp xếp, tổ chức lại, đổi tên thôn trên địa bàn xã Kiều Phú",
+      "url": "https://datafiles.hanoi.gov.vn/gov-hni/7020/VanBan/2026/6/29/NQ-20-H%C4%90ND.pdf",
+      "date": "",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-09910-2",
+      "title": "Nghị quyết số 1656/NQ-UBTVQH15 ngày 16 tháng 6 năm 2025 của Ủy ban Thường vụ Quốc hội về việc sắp xếp các đơn vị hành chính cấp xã của thành phố Hà Nội năm 2025",
+      "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf",
+      "date": "2026-05-13",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-09910-3",
+      "title": "Nghị quyết số 203/2025/QH15 ngày 16 tháng 6 năm 2025 của Quốc hội khóa XV, Kỳ họp thứ 9 về việc sửa đổi, bổ sung một số điều của Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam",
+      "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/nq-sua-doi-hien-phap.pdf",
+      "date": "",
+      "type": "wikipedia-ref"
+    }
+  ],
+  "note": "Trích tự động từ Wikipedia tiếng Việt (mode=table). Cần đối chiếu nghị quyết HĐND phường/xã.",
+  "tdp": [
+    {
+      "name": "Cấn Hạ",
+      "type": "thôn"
+    },
+    {
+      "name": "Cấn Thượng",
+      "type": "thôn"
+    },
+    {
+      "name": "Đĩnh Tú",
+      "type": "thôn"
+    },
+    {
+      "name": "Đồng Bụt",
+      "type": "thôn"
+    },
+    {
+      "name": "Liên Sơn",
+      "type": "thôn"
+    },
+    {
+      "name": "Liệp Mai",
+      "type": "thôn"
+    },
+    {
+      "name": "Liệp Tuyết",
+      "type": "thôn"
+    },
+    {
+      "name": "Muôn Ro",
+      "type": "thôn"
+    },
+    {
+      "name": "Ngọc Bái",
+      "type": "thôn"
+    },
+    {
+      "name": "Ngọc Liệp",
+      "type": "thôn"
+    },
+    {
+      "name": "Ngọc Than",
+      "type": "thôn"
+    },
+    {
+      "name": "Phú Mỹ",
+      "type": "thôn"
+    },
+    {
+      "name": "Thái Thượng Khê",
+      "type": "thôn"
+    },
+    {
+      "name": "Thế Trụ",
+      "type": "thôn"
+    },
+    {
+      "name": "Tuyết Nghĩa",
+      "type": "thôn"
+    },
+    {
+      "name": "Văn Khê",
+      "type": "thôn"
+    },
+    {
+      "name": "Văn Quang",
+      "type": "thôn"
+    },
+    {
+      "name": "Vĩnh Phúc",
+      "type": "thôn"
+    }
+  ]
+}

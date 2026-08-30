@@ -1,0 +1,88 @@
+{
+  "ward_code": "09700",
+  "ward_name": "Ba Vì",
+  "province_code": "01",
+  "resolution": "",
+  "arrangement": "2026_07",
+  "effective_date": "2026-07-01",
+  "verified": "unverified",
+  "extraction": {
+    "source": "vi.wikipedia.org",
+    "title": "(cache)",
+    "mode": "table"
+  },
+  "sources": [
+    {
+      "key": "wiki-09700-1",
+      "title": "Hội đồng nhân dân xã Ba Vì tổ chức Kỳ họp thứ Hai khóa XXII, nhiệm kỳ 2026 – 2031",
+      "url": "https://bavi.hanoi.gov.vn/tin-tuc-su-kien/hoi-dong-nhan-dan-xa-ba-vi-to-chuc-ky-hop-thu-hai-khoa-xxii-nhiem-ky-2026-2031-2756260630102852165.htm?gidzl=LGeMB5UjBmPH5H8gNROg25mN4o96jYnRInCHS4goU5j64H5o4B0a21r7IoGRud087qD4SZ0qbWmRKgmh10",
+      "date": "2026-06-30",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-09700-2",
+      "title": "Danh sách chính thức những người ứng cử đại biểu Hội đồng nhân dân xã Ba Vì khóa XXII, nhiệm kỳ 2026 – 2031",
+      "url": "https://bavi.hanoi.gov.vn/tin-tuc-su-kien/danh-sach-chinh-thuc-nhung-nguoi-ung-cu-dai-bieu-hdnd-xa-ba-vi-khoa-xxii-nhiem-ky-2026-2031-2756260226172743238.htm?gidzl=s4lXUF-NoJdSLEL-zOpCDz5MvN7kZCjZnbBd8-A8dsFBKESXk8h3C906lNUps9SmaWAo8J0HxHrm-fRDEm",
+      "date": "2026-02-26",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-09700-3",
+      "title": "Nghị quyết số 1656/NQ-UBTVQH15 ngày 16 tháng 6 năm 2025 của Ủy ban Thường vụ Quốc hội về việc sắp xếp các đơn vị hành chính cấp xã của thành phố Hà Nội năm 2025",
+      "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf",
+      "date": "2026-06-30",
+      "type": "wikipedia-ref"
+    }
+  ],
+  "note": "Trích tự động từ Wikipedia tiếng Việt (mode=table). Cần đối chiếu nghị quyết HĐND phường/xã.",
+  "tdp": [
+    {
+      "name": "Bản Dao",
+      "type": "thôn"
+    },
+    {
+      "name": "Bản Miền",
+      "type": "thôn"
+    },
+    {
+      "name": "Đá Chẹ",
+      "type": "thôn"
+    },
+    {
+      "name": "Đá Chông",
+      "type": "thôn"
+    },
+    {
+      "name": "Đồng Tiến",
+      "type": "thôn"
+    },
+    {
+      "name": "Giáp Thượng",
+      "type": "thôn"
+    },
+    {
+      "name": "Hồng Ninh",
+      "type": "thôn"
+    },
+    {
+      "name": "Minh Phú",
+      "type": "thôn"
+    },
+    {
+      "name": "Phú Khánh",
+      "type": "thôn"
+    },
+    {
+      "name": "Phú Mỹ",
+      "type": "thôn"
+    },
+    {
+      "name": "Sơn Lý",
+      "type": "thôn"
+    },
+    {
+      "name": "Tiến Thịnh",
+      "type": "thôn"
+    }
+  ]
+}

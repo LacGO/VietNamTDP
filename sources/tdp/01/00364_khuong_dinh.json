@@ -1,0 +1,188 @@
+{
+  "ward_code": "00364",
+  "ward_name": "Khương Đình",
+  "province_code": "01",
+  "resolution": "",
+  "arrangement": "2026_07",
+  "effective_date": "2026-07-01",
+  "verified": "unverified",
+  "extraction": {
+    "source": "vi.wikipedia.org",
+    "title": "(cache)",
+    "mode": "table"
+  },
+  "sources": [
+    {
+      "key": "wiki-00364-1",
+      "title": "Phường Khương Đình tổ chức Hội nghị công bố Nghị quyết số 21/NQ-HĐND về việc sắp xếp tổ dân phố trên địa bàn",
+      "url": "https://khuongdinh.hanoi.gov.vn/tin-tuc-su-kien/phuong-khuong-dinh-to-chuc-hoi-nghi-cong-bo-nghi-quyet-so-21-nq-hdnd-ve-viec-sap-xep-to-dan-pho-tren-dia-ban-2817260701121309439.htm?gidzl=fTYyOQ9LZo6XnxXdg4o88w34lsA_IueWkCRgQBj2YNZenxvjlq_QVkl2v3xjIzGiwCMsEMOnl0PnfrIB8m",
+      "date": "2026-06-30",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-00364-2",
+      "title": "Nghị quyết số 18/NQ-HĐND ngày 8 tháng 12 năm 2025 của Hội đồng nhân dân phường Khương Đình về việc ghép khu vực dân cư (tòa Gold Tower) vào Tổ dân phố số 22 (Thanh Xuân Trung) trên địa bàn phường Khương Đình sau sắp xếp đơn vị hành chính",
+      "url": "https://datafiles.hanoi.gov.vn/gov-hni/6958/VanBan/2025/12/12/NQ%2018-H%C4%90ND.pdf",
+      "date": "",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-00364-3",
+      "title": "Nghị quyết số 111/2025/UBTVQH15 ngày 24 tháng 12 năm 2025 của Ủy ban Thường vụ Quốc hội về phân loại đô thị",
+      "url": "https://cdn.nhandan.vn/files/f4a4abf7f9a0ba4a91744616546d850872b76917f90d5a74cc9eebef1369fb6f/111.pdf",
+      "date": "2026-04-30",
+      "type": "wikipedia-ref"
+    }
+  ],
+  "note": "Trích tự động từ Wikipedia tiếng Việt (mode=table). Cần đối chiếu nghị quyết HĐND phường/xã.",
+  "tdp": [
+    {
+      "name": "Tổ dân phố 1",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Tổ dân phố 2",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Tổ dân phố 3",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Tổ dân phố 4",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Tổ dân phố 5",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Tổ dân phố 6",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Tổ dân phố 7",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Tổ dân phố 8",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Tổ dân phố 9",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Tổ dân phố 10",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Tổ dân phố 11",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Tổ dân phố 12",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Tổ dân phố 13",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Tổ dân phố 14",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Tổ dân phố 15",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Tổ dân phố 16",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Tổ dân phố 17",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Tổ dân phố 18",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Tổ dân phố 19",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Tổ dân phố 20",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Tổ dân phố 21",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Tổ dân phố 22",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Tổ dân phố 23",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Tổ dân phố 24",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Tổ dân phố 25",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Tổ dân phố 26",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Tổ dân phố 27",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Tổ dân phố 28",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Tổ dân phố 29",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Tổ dân phố 30",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Tổ dân phố 31",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Tổ dân phố 32",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Tổ dân phố 33",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Tổ dân phố 34",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Tổ dân phố 35",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Tổ dân phố 36",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Tổ dân phố 37",
+      "type": "tổ dân phố"
+    }
+  ]
+}

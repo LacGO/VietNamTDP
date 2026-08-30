@@ -1,0 +1,148 @@
+{
+  "ward_code": "00565",
+  "ward_name": "Gia Lâm",
+  "province_code": "01",
+  "resolution": "",
+  "arrangement": "2026_07",
+  "effective_date": "2026-07-01",
+  "verified": "unverified",
+  "extraction": {
+    "source": "vi.wikipedia.org",
+    "title": "(cache)",
+    "mode": "table"
+  },
+  "sources": [
+    {
+      "key": "wiki-00565-1",
+      "title": "Nghị quyết số 25/NQ-HĐND ngày 29 tháng 6 năm 2026 của Hội đồng nhân dân xã Gia Lâm về việc thành lập, sắp xếp các thôn, tổ dân phố trên địa bàn xã Gia Lâm",
+      "url": "https://sqhx-hanoi.mediacdn.vn/91579363132710912/2026/7/2/nghi-quyet-25-17829853049231671182577.pdf",
+      "date": "2026-07-09",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-00565-2",
+      "title": "Nghị quyết số 111/2025/UBTVQH15 ngày 24 tháng 12 năm 2025 của Ủy ban Thường vụ Quốc hội về phân loại đô thị",
+      "url": "https://cdn.nhandan.vn/files/f4a4abf7f9a0ba4a91744616546d850872b76917f90d5a74cc9eebef1369fb6f/111.pdf",
+      "date": "2026-07-12",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-00565-3",
+      "title": "Nghị quyết số 1656/NQ-UBTVQH15 ngày 16 tháng 6 năm 2025 của Ủy ban Thường vụ Quốc hội về việc sắp xếp các đơn vị hành chính cấp xã của thành phố Hà Nội năm 2025",
+      "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf",
+      "date": "2026-05-13",
+      "type": "wikipedia-ref"
+    }
+  ],
+  "note": "Trích tự động từ Wikipedia tiếng Việt (mode=table). Cần đối chiếu nghị quyết HĐND phường/xã.",
+  "tdp": [
+    {
+      "name": "Tổ dân phố 1",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Tổ dân phố 2",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Tổ dân phố 3",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Tổ dân phố 5",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Tổ dân phố 6",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Tổ dân phố 7",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "An Đào",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "An Lạc",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Bình Minh",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Chính Trung",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Cửu Việt",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Kiên Thành",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Nông Nghiệp",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Thành Trung",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Cam",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Dương Đanh",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Dương Đá",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Dương Đình",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Gia Xuân",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Hòang Chu Báo",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Hội",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Kiêu Kỵ",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Phú Thị",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Thuận Quang",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Trung Dương",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Vàng",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Yên Bình",
+      "type": "tổ dân phố"
+    }
+  ]
+}

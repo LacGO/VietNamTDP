@@ -1,0 +1,100 @@
+{
+  "ward_code": "08923",
+  "ward_name": "Đại Đình",
+  "province_code": "25",
+  "resolution": "",
+  "arrangement": "2026_07",
+  "effective_date": "2026-07-01",
+  "verified": "unverified",
+  "extraction": {
+    "source": "vi.wikipedia.org",
+    "title": "Đại Đình",
+    "mode": "narrative"
+  },
+  "sources": [
+    {
+      "key": "wiki-08923-1",
+      "title": "Quyết định số 8/QĐ-UBND về việc phân chia khu vực bỏ phiếu bầu cử đại biểu Quốc hội khóa XVI và đại biểu Hội đồng nhân dân các cấp, nhiệm kỳ 2026 - 2031",
+      "url": "https://daidinh.phutho.gov.vn/index.php/bau-cu/3502-quyet-dinh-ve-viec-phan-chia-khu-vuc-bo-phieu-bau-cu-dai-bieu-quoc-hoi-khoa-xvi-va-dai-bieu-hdnd-cac-cap-nhiem-ky-2026-2031",
+      "date": "2026-01-22",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-08923-2",
+      "title": "Nghị quyết của UBND tỉnh Vĩnh Phúc",
+      "url": "https://vinhphuc.gov.vn/ct/cms/HeThongChinhTriTinh/uybannhandan/Lists/QuyetDinh/View_Detail.aspx?ItemID=676",
+      "date": "2020-04-12",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-08923-3",
+      "title": "Nghị quyết số 111/2025/UBTVQH15 về phân loại đô thị",
+      "url": "https://xaydungchinhsach.chinhphu.vn/nghi-quyet-so-111-2025-ubtvqh15-ve-phan-loai-do-thi-119260101170432239.htm",
+      "date": "2026-01-21",
+      "type": "wikipedia-ref"
+    }
+  ],
+  "note": "Trích tự động từ Wikipedia tiếng Việt (mode=narrative). Cần đối chiếu nghị quyết HĐND phường/xã.",
+  "tdp": [
+    {
+      "name": "Ấp Đồn",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Đại Điền",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Đền Thỏng",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Đông Lộ",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Đồng Hội",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Đồng Lính",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Giáp Giang",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Hữu Tài",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Lán Than",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Lõng Sâu",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Sơn Đình",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Sơn Phong",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Sơn Thanh",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Suối Đùm",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Trại Mới",
+      "type": "tổ dân phố"
+    }
+  ]
+}

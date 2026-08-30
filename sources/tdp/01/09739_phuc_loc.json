@@ -1,0 +1,108 @@
+{
+  "ward_code": "09739",
+  "ward_name": "Phúc Lộc",
+  "province_code": "01",
+  "resolution": "",
+  "arrangement": "2026_07",
+  "effective_date": "2026-07-01",
+  "verified": "unverified",
+  "extraction": {
+    "source": "vi.wikipedia.org",
+    "title": "(cache)",
+    "mode": "table"
+  },
+  "sources": [
+    {
+      "key": "wiki-09739-1",
+      "title": "Hội đồng nhân dân xã Phúc Lộc thông qua Nghị quyết sắp xếp 46 thôn thành 17 thôn mới",
+      "url": "https://thanhuyhanoi.vn/tin-tuc/hanoi-portal/hdnd-xa-phuc-loc-thong-qua-nghi-quyet-sap-xep-46-thon-thanh-17-thon-moi--50047279.html",
+      "date": "2026-06-27",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-09739-2",
+      "title": "Nghị quyết số 10/NQ-HĐND ngày 15 tháng 7 năm 2025 của Hội đồng nhân dân xã Phúc Lộc về việc đổi tên thôn trên địa bàn xã Phúc Lộc, thành phố Hà Nội",
+      "url": "https://sqhx-hanoi.mediacdn.vn/91579363132710912/2025/8/11/nq-10-17549174511781147234658.pdf",
+      "date": "2026-07-27",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-09739-3",
+      "title": "Nghị quyết số 1656/NQ-UBTVQH15 ngày 16 tháng 6 năm 2025 của Ủy ban Thường vụ Quốc hội về việc sắp xếp các đơn vị hành chính cấp xã của thành phố Hà Nội năm 2025",
+      "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf",
+      "date": "2026-05-13",
+      "type": "wikipedia-ref"
+    }
+  ],
+  "note": "Trích tự động từ Wikipedia tiếng Việt (mode=table). Cần đối chiếu nghị quyết HĐND phường/xã.",
+  "tdp": [
+    {
+      "name": "Bảo Lộc 1",
+      "type": "thôn"
+    },
+    {
+      "name": "Bảo Lộc 2",
+      "type": "thôn"
+    },
+    {
+      "name": "Cẩm Đình",
+      "type": "thôn"
+    },
+    {
+      "name": "Linh Chiểu",
+      "type": "thôn"
+    },
+    {
+      "name": "Nghĩa Lục",
+      "type": "thôn"
+    },
+    {
+      "name": "Phương Độ",
+      "type": "thôn"
+    },
+    {
+      "name": "Sen Chiểu 1",
+      "type": "thôn"
+    },
+    {
+      "name": "Sen Chiểu 2",
+      "type": "thôn"
+    },
+    {
+      "name": "Vân Hà",
+      "type": "thôn"
+    },
+    {
+      "name": "Vân Nam",
+      "type": "thôn"
+    },
+    {
+      "name": "Vân Phúc 1",
+      "type": "thôn"
+    },
+    {
+      "name": "Vân Phúc 2",
+      "type": "thôn"
+    },
+    {
+      "name": "Vĩnh Lộc",
+      "type": "thôn"
+    },
+    {
+      "name": "Võng Ngọai",
+      "type": "thôn"
+    },
+    {
+      "name": "Võng Xuyên",
+      "type": "thôn"
+    },
+    {
+      "name": "Xuân Lục",
+      "type": "thôn"
+    },
+    {
+      "name": "Xuân Phú",
+      "type": "thôn"
+    }
+  ]
+}

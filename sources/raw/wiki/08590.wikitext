@@ -1,0 +1,76 @@
+{{Thông tin đơn vị hành chính Việt Nam| xã
+| tên=Xuân Đài
+|hình=|ghi chú hình=
+|vĩ độ= 21.105746941053805
+|kinh độ= 105.00750288272958
+|diện tích=209,60 km²
+|dân số=15.073 người
+|thời điểm dân số=2025
+| mật độ dân số = {{formatnum:{{#expr:floor({{formatnum:15.073| R}}/{{formatnum:209,60| R}})}} }} người/km²
+|vùng=[[Đông Bắc Bộ]]
+|tỉnh=[[Phú Thọ]]
+|thành lập=16 tháng 6 năm 2025<ref>Nghị quyết số 1676/NQ-UBTVQH15</ref>
+|trụ sở UBND=Khu Mu
+|mã hành chính=08590<ref>{{Chú thích web |url=https://danhmuchanhchinh.gso.gov.vn/ |title=Tổng cục Thống kê |access-date=2022-04-10 |archive-date=2021-01-10 |archive-url=https://web.archive.org/web/20210110034519/https://www.gso.gov.vn/phuong-phap-thong-ke/danh-muc/don-vi-hanh-chinh/ |url-status=dead }}</ref>
+|web={{url|xuandai.phutho.gov.vn}}
+|mã bưu chính=35564
+}}
+{{other|Xuân Đài (định hướng)}}
+'''Xuân Đài''' là một [[Xã (Việt Nam)|xã]] miền núi thuộc tỉnh [[Phú Thọ]], [[Việt Nam]]. Đây cũng là đơn vị hành chính có diện tích lớn nhất tỉnh Phú Thọ.
+
+== Địa lý ==
+Xã Xuân Đài nằm ở phía Tây tỉnh [[Phú Thọ]], có vị trí địa lý<ref>{{Chú thích web |title=Đơn vị hành chính Việt Nam |url=https://sapnhap.bando.com.vn/ |access-date=2026-04-19 |website=sapnhap.bando.com.vn}}</ref>:
+
+* Phía Bắc giáp xã [[Lai Đồng]] và xã [[Tân Sơn, Phú Thọ|Tân Sơn]].
+* Phía Nam giáp xã [[Tân Pheo]].
+* Phía Tây giáp xã [[Mường Bang]] (thuộc tỉnh [[Sơn La]]) và xã [[Đức Nhàn, Phú Thọ|Đức Nhàn]].
+* Phía Đông giáp xã [[Minh Đài]] và xã [[Long Cốc]].
+
+Xã có diện tích 209,60&nbsp;km², dân số năm 2025 là 15.073 người, mật độ dân số đạt 72 người/km².<ref>{{Chú thích web |title=Xã Xuân Đài, Tỉnh Phú Thọ mới sáp nhập 2026 |url=https://tinhthanhvn.com/province/phu-tho/xa-xuan-dai |access-date=2026-04-19 |website=Tỉnh Thành Việt Nam |language=vi}}</ref>
+
+Đường tỉnh 316E chạy qua xã. Đồng bào dân tộc thiểu số chiếm đa số, chủ yếu là người Mường và Dao.
+
+== Hành chính ==
+Xã Xuân Đài được chia thành 26 khu: Ai Mười, Căng Đìa, Chiềng 1, Chiềng 2, Chiềng 3, Cỏi, Dù, Dụ, Đồng Cả, Đồng Dò, Đồng Tào, Hạ Bằng, Lạng, Mu, Muỗi Bòng, Nâu, Nhàng, Quyền 1, Quyền 2, Tân Hồi, Tân Lập, Tân Minh, Thang, Vượng, Xuân 1, Xuân 2.<ref name=":1">{{Chú thích web |last=Bộ Dân tộc và Tôn giáo |date=2026-01-29 |title=Danh sách Thôn vùng đồng bào dân tộc thiểu số và miền núi, thôn đặc biệt khó khăn giai đoạn 2026 - 2030 trên địa bàn tỉnh Phú Thọ |url=http://files.ubdt.gov.vn/files/ecm/source_files/2026/02/05/11252411_4.%20Ph%C3%BA%20Th%E1%BB%8D%201%20(th%C3%B4n).signed_26-02-05.pdf |url-status=live |archive-url=https://web.archive.org/web/20260417090807/http://files.ubdt.gov.vn/files/ecm/source_files/2026/02/05/11252411_4.%20Ph%C3%BA%20Th%E1%BB%8D%201%20(th%C3%B4n).signed_26-02-05.pdf |archive-date=2026-04-17 |access-date=2026-04-17 |website=Cổng Thông tin điện tử Bộ Dân tộc và Tôn giáo}}</ref><ref>{{Chú thích web |last=Thông tin xã Xuân Đài - tỉnh Phú Thọ |date=2026-03-03 |title=Danh sách chính thức 36 người ứng cử đại biểu Hội đồng nhân dân xã Xuân Đài khóa XXV, nhiệm kỳ 2026 - 2031 tại 05 đơn vị bầu cử |url=https://web.facebook.com/story.php?story_fbid=122168181488937376&id=61578121284182&rdid=GaywlKj0qHNLtGa0# |url-status=live |archive-url=https://web.archive.org/web/20260426090807/https://web.facebook.com/story.php?story_fbid=122168181488937376&id=61578121284182&rdid=GaywlKj0qHNLtGa0# |archive-date=2026-04-26 |access-date=2026-04-26}}</ref>
+
+== Lịch sử ==
+Xuân Đài là vùng đất truyền thống của người [[Người Mường|Mường]] ở xứ Tổ. Trước đây, Xuân Đài là một xã thuộc huyện [[Tân Sơn (huyện)|Tân Sơn]], tỉnh [[Phú Thọ]].
+
+Ngày [[16 tháng 6]] năm [[2025]]:
+
+* [[Quốc hội Việt Nam|Quốc hội]] ban hành Nghị quyết số 203/2025/QH15 về việc sửa đổi, bổ sung một số điều của Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam (nghị quyết có hiệu lực từ ngày [[16 tháng 6]] năm [[2025]]).<ref>{{Chú thích web |last=xaydungchinhsach.chinhphu.vn|date=2025-06-28|title=NGHỊ QUYẾT 203/2025/QH15 SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA HIẾN PHÁP NƯỚC CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM|url=https://xaydungchinhsach.chinhphu.vn/nghi-quyet-203-2025-qh15-sua-doi-bo-sung-mot-so-dieu-cua-hien-phap-nuoc-cong-hoa-xa-hoi-chu-nghia-viet-nam-119250616181735552.htm|url-status=live|archive-url=http://web.archive.org/web/20260715200606/https://xaydungchinhsach.chinhphu.vn/nghi-quyet-203-2025-qh15-sua-doi-bo-sung-mot-so-dieu-cua-hien-phap-nuoc-cong-hoa-xa-hoi-chu-nghia-viet-nam-119250616181735552.htm|archive-date=2026-07-15|access-date=2026-07-15|website=Báo Điện tử Chính phủ|language=vi}}</ref> Theo đó, kết thúc hoạt động của đơn vị hành chính cấp huyện trong cả nước từ ngày 1 tháng 7 năm 2025.
+
+* [[Ủy ban Thường vụ Quốc hội]] ban hành Nghị quyết số 1676/NQ-UBTVQH15 về việc sắp xếp đơn vị hành chính cấp xã của tỉnh [[Phú Thọ]] năm 2025 (nghị quyết có hiệu lực từ ngày [[16 tháng 6]] năm [[2025]]).<ref>{{Chú thích web |last=xaydungchinhsach.chinhphu.vn|date=2025-06-20|title=Nghị quyết số 1676/NQ-UBTVQH15 sắp xếp các ĐVHC cấp xã của tỉnh Phú Thọ năm 2025|url=https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-1676-nq-ubtvqh15-sap-xep-cac-dvhc-cap-xa-cua-tinh-phu-tho-nam-2025-119250616204317326.htm|url-status=live|archive-url=http://web.archive.org/web/20260725082021/https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-1676-nq-ubtvqh15-sap-xep-cac-dvhc-cap-xa-cua-tinh-phu-tho-nam-2025-119250616204317326.htm|archive-date=2026-07-25|access-date=2026-07-25|website=Báo Điện tử Chính phủ|language=vi}}</ref> Theo đó, sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của các xã Kim Thượng, Xuân Sơn và Xuân Đài thành xã mới có tên gọi là '''xã Xuân Đài'''.
+
+== Cơ sở hạ tầng ==
+{{Đoạn thiếu nguồn gốc}}
+Cơ sở hạ tầng gồm Trạm Y tế xã mới (16 cán bộ y tế, trong đó 3 bác sĩ), một số trường học cơ bản, hệ thống lưới điện nông thôn (trong quá khứ còn thiếu 4/14 thôn chưa có điện), nước sinh hoạt và viễn thông đang dần được cải thiện. Chính quyền địa phương cũng vừa thành lập Trạm Y tế xã mới ([[Tháng mười một|tháng 11]] năm [[2023]]) để phục vụ y tế cơ sở.
+
+Đường sá chủ yếu là đường huyện và tỉnh lộ (đường 316E). Điện lưới đã cơ bản phủ kín các thôn (trước đây còn thôn chưa có điện). Truyền thông có mạng di động và Internet nông thôn cơ bản. Xã có hệ thống trường học tiểu học, THCS cơ bản; trạm y tế xã vừa hợp nhất từ ba trạm cũ và đặt tại Kim Thượng cũ
+. Mạng lưới nước sinh hoạt chủ yếu dùng nước suối, giếng. Trong 5 năm qua, Xuân Đài đã tập trung phát triển du lịch cộng đồng dựa trên Vườn Quốc gia Xuân Sơn và bản sắc Mường – Dao. Khu du lịch cộng đồng bản Dù (xã cũ Kim Thượng) đón trên 8.000 lượt khách mỗi năm
+, đã được công nhận điểm du lịch cấp tỉnh cuối 2024. Các dịch vụ homestay, sản phẩm thổ cẩm và nông sản địa phương đang được phát triển mạnh.
+
+== Dịch bệnh ==
+Trong đợt dịch [[COVID-19]], Xuân Đài mới ghi nhận các ca mắc đầu tiên muộn (lần đầu xuất hiện vào [[Tháng mười một|tháng 11]] năm [[2021]] khi [[Phú Thọ]] ghi nhận các ổ dịch tại huyện [[Tân Sơn (huyện)|Tân Sơn]]). Chưa có báo cáo ổ dịch COVID-19 nghiêm trọng nội vùng riêng. Về sốt xuất huyết Dengue, năm [[2022]] toàn tỉnh có 218 ca tại 13/13 huyện.<ref>{{Chú thích web |last=nghệ |first=Bộ Khoa học và Công |title=Vượt mốc 1.000 ca mắc COVID-19, Phú Thọ xây dựng kịch bản ứng phó với 5 cấp độ dịch |url=https://mst.gov.vn/vuot-moc-1000-ca-mac-covid-19-phu-tho-xay-dung-kich-ban-ung-pho-voi-5-cap-do-dich-197150001.htm |access-date=2026-04-19 |website=Cổng Thông tin điện tử Bộ Khoa học và Công nghệ |language=vi}}</ref>
+
+== Văn hóa ==
+Xã mới chỉ rõ chủ yếu đồng bào Mường, Dao, giữ nhiều bản sắc dân tộc (thổ cẩm, lễ hội cổ truyền). Các di tích lịch sử, nhân vật nổi tiếng liên quan chưa được ghi nhận công khai, dữ liệu lịch sử cụ thể hiện vẫn không xác định.
+
+== Chính trị – lãnh đạo ==
+Đảng bộ xã Xuân Đài mới được thành lập theo kỳ đại hội đầu tiên từ ngày [[28 tháng 7]] năm [[2025]]. Ban Chấp hành Đảng bộ mới có Bí thư là đồng chí [[Lê Thảo]] (nhiệm kỳ [[2025]] – [[2030]]). Thông tin công khai về Chủ tịch UBND xã, các Phó Chủ tịch và các cơ quan chuyên môn xã chưa tìm thấy trên trang chính quyền. Các sự kiện chính trị gần đây là Đại hội Đảng bộ xã lần thứ I (7/2025).<ref>{{Chú thích web |last=baophutho.vn |date=2025-07-27 |title=Đại hội đại biểu Đảng bộ xã Xuân Đài lần thứ I, nhiệm kỳ 2025-2030 |url=https://baophutho.vn/dai-hoi-dai-bieu-dang-bo-xa-xuan-dai-lan-thu-i-nhiem-ky-2025-2030-236886.htm |access-date=2026-04-19 |website=Báo và Phát thanh, Truyền hình Phú Thọ |language=vi}}</ref> Dân biểu, hội đồng nhân dân cấp xã chuẩn bị bầu nhiệm kỳ 2026–2031.
+
+Sự kiện chính trị: Đáng chú ý nhất là Đại hội đại biểu Đảng bộ xã Xuân Đài lần thứ I (ngày 28/7/2025)
+. Tại đại hội này, Đảng bộ mới được kiện toàn, định hướng mục tiêu xây dựng nông thôn mới và phát huy lợi thế du lịch sinh thái. Ngoài ra, UBND xã đã công bố thành lập Trạm Y tế xã mới (ngày 26/11/2023) nhằm sát nhập trạm cũ và tập trung nhân lực y tế
+. Các cuộc họp liên quan đến công tác bầu cử Quốc hội và HĐND các cấp cũng được thông báo (theo thông báo Ủy ban Bầu cử xã), nhưng các kết quả chưa công khai chi tiết.
+
+== Kinh tế – xã hội ==
+Trước khi sáp nhập, Xuân Đài là một trong những xã nghèo của huyện [[Tân Sơn (huyện)|Tân Sơn]]. Tổng diện tích đất là 6.595 ha, trong đó đất sử dụng cho nông nghiệp là 250 ha. Đất lâm nghiệp chiếm 4.361 ha và hầu hết là trồng cây keo. Xuân Đài có tổng dân số là 5.848 người, gồm 1.377 hộ gia đình thuộc 14 khu của xã. Dân tộc Mường chiếm đa số với 84%. Dân tộc Kinh chiếm 12%, 4% là dân tộc Dao. Xã Xuân Đài có những nguồn thu nhập chính: trồng lúa, trồng keo, chăn nuôi, và trồng chè. Tỷ lệ hộ nghèo vẫn ở mức cao. Tỷ lệ hộ nghèo năm 2013 chiếm 24,66% và 29,98% là hộ cận nghèo.,<ref name="MS" /> mật độ dân số đạt 75 người/km².
+
+Đẩy mạnh chương trình giảm nghèo, hỗ trợ sinh kế bền vững (trồng rừng sản xuất gắn công nghiệp chế biến, trồng cây dược liệu), kết hợp phát triển du lịch cộng đồng. Tuyên truyền nâng cao trình độ dân trí, khuyến khích thanh niên đi học nghề, nông nghiệp công nghệ cao… Đồng thời, tăng cường cải cách hành chính, gần dân, tiếp dân, giải quyết thủ tục nhanh gọn để phục vụ tốt nhân dân.
+
+== Chú thích ==
+{{reflist}}
+
+== Tham khảo ==
+{{Sơ khai Phú Thọ}}
+{{Đơn vị hành chính thuộc tỉnh Phú Thọ}}

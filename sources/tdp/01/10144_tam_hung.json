@@ -1,0 +1,96 @@
+{
+  "ward_code": "10144",
+  "ward_name": "Tam Hưng",
+  "province_code": "01",
+  "resolution": "",
+  "arrangement": "2026_07",
+  "effective_date": "2026-07-01",
+  "verified": "unverified",
+  "extraction": {
+    "source": "vi.wikipedia.org",
+    "title": "(cache)",
+    "mode": "table"
+  },
+  "sources": [
+    {
+      "key": "wiki-10144-1",
+      "title": "Nghị quyết số 1656/NQ-UBTVQH15 ngày 16 tháng 6 năm 2025 của Ủy ban Thường vụ Quốc hội về việc sắp xếp các đơn vị hành chính cấp xã của thành phố Hà Nội năm 2025",
+      "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf",
+      "date": "2026-05-13",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-10144-2",
+      "title": "Thống nhất đề xuất tên gọi mới sau sáp nhập thôn Rùa Thượng và thôn Từ Am",
+      "url": "https://tamhung.hanoi.gov.vn/tin-tuc-su-kien/thong-nhat-de-xuat-ten-goi-moi-sau-sap-nhap-thon-rua-thuong-va-thon-tu-am-2682260623122823114.htm",
+      "date": "2026-06-23",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-10144-3",
+      "title": "Thông báo số 410/TB-UBND ngày 29 tháng 6 năm 2026 của Ủy ban nhân dân xã Tam Hưng về việc công khai Nghị quyết sắp xếp thôn trên địa bàn xã Tam Hưng",
+      "url": "https://sqhx-hanoi.mediacdn.vn/91579363132710912/2026/6/29/tb-410-13thong-bao-cong-khai-nq-sap-xep-thon-17827046575532024059434.pdf",
+      "date": "",
+      "type": "wikipedia-ref"
+    }
+  ],
+  "note": "Trích tự động từ Wikipedia tiếng Việt (mode=table). Cần đối chiếu nghị quyết HĐND phường/xã.",
+  "tdp": [
+    {
+      "name": "Bạch Đa",
+      "type": "thôn"
+    },
+    {
+      "name": "Dư Dụ",
+      "type": "thôn"
+    },
+    {
+      "name": "Đại Thanh",
+      "type": "thôn"
+    },
+    {
+      "name": "Hưng Giáo",
+      "type": "thôn"
+    },
+    {
+      "name": "Lê Dương",
+      "type": "thôn"
+    },
+    {
+      "name": "Nhân Lý",
+      "type": "thôn"
+    },
+    {
+      "name": "Phượng Thiên",
+      "type": "thôn"
+    },
+    {
+      "name": "Quảng Minh",
+      "type": "thôn"
+    },
+    {
+      "name": "Rùa Hạ",
+      "type": "thôn"
+    },
+    {
+      "name": "Rùa Thượng Am",
+      "type": "thôn"
+    },
+    {
+      "name": "Song Khê",
+      "type": "thôn"
+    },
+    {
+      "name": "Thạch Đan",
+      "type": "thôn"
+    },
+    {
+      "name": "Văn Xá",
+      "type": "thôn"
+    },
+    {
+      "name": "Vĩnh Dụ",
+      "type": "thôn"
+    }
+  ]
+}

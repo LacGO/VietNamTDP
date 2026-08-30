@@ -1,0 +1,176 @@
+{
+  "ward_code": "00475",
+  "ward_name": "Thư Lâm",
+  "province_code": "01",
+  "resolution": "",
+  "arrangement": "2026_07",
+  "effective_date": "2026-07-01",
+  "verified": "unverified",
+  "extraction": {
+    "source": "vi.wikipedia.org",
+    "title": "(cache)",
+    "mode": "table"
+  },
+  "sources": [
+    {
+      "key": "wiki-00475-1",
+      "title": "Xã Thư Lâm công bố các nghị quyết, quyết định thành lập thôn sau sắp xếp",
+      "url": "https://hanoi.gov.vn/tin-tuc-su-kien-noi-bat/xa-thu-lam-cong-bo-cac-nghi-quyet-quyet-dinh-thanh-lap-thon-sau-sap-xep-4260630205459681.htm",
+      "date": "2026-06-30",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-00475-2",
+      "title": "Các thôn, khu, tổ dân phố trên địa bàn xã Thư Lâm thực hiện niêm yết công khai dự thảo phương án sắp xếp thôn, tổ dân phố",
+      "url": "https://thulam.hanoi.gov.vn/tin-tuc-hoat-dong-khu-dan-cu/cac-thon-khu-to-dan-pho-tren-dia-ban-xa-thu-lam-thuc-hien-niem-yet-cong-khai-du-thao-phuong-an-sap-xep-thon-to-dan-pho-2846260615100304123.htm",
+      "date": "2026-06-15",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-00475-3",
+      "title": "Danh sách 51 khu vực bỏ phiếu bầu cử đại biểu Quốc hội khóa XVI và đại biểu Hội đồng nhân dân các cấp nhiệm kỳ 2026 – 2031 trên địa bàn xã Thư Lâm",
+      "url": "https://thulam.hanoi.gov.vn/tin-tuc-su-kien-bau-cu/danh-sach-51-khu-vuc-bo-phieu-bau-cu-dai-bieu-quoc-hoi-khoa-xvi-va-dai-bieu-hdnd-cac-cap-nhiem-ky-2026-2031-tren-dia-ban-xa-thu-lam-2846260226211639261.htm",
+      "date": "2026-02-26",
+      "type": "wikipedia-ref"
+    }
+  ],
+  "note": "Trích tự động từ Wikipedia tiếng Việt (mode=table). Cần đối chiếu nghị quyết HĐND phường/xã.",
+  "tdp": [
+    {
+      "name": "Bằng Lâm",
+      "type": "thôn"
+    },
+    {
+      "name": "Châu Phong",
+      "type": "thôn"
+    },
+    {
+      "name": "Cổ Miếu",
+      "type": "thôn"
+    },
+    {
+      "name": "Đào Thục",
+      "type": "thôn"
+    },
+    {
+      "name": "Đại Vĩ",
+      "type": "thôn"
+    },
+    {
+      "name": "Đình Ngọc",
+      "type": "thôn"
+    },
+    {
+      "name": "Đình Trung",
+      "type": "thôn"
+    },
+    {
+      "name": "Đường Nhạn",
+      "type": "thôn"
+    },
+    {
+      "name": "Đường Yên",
+      "type": "thôn"
+    },
+    {
+      "name": "Đức Lâm",
+      "type": "thôn"
+    },
+    {
+      "name": "Giao Tác",
+      "type": "thôn"
+    },
+    {
+      "name": "Hà Khê",
+      "type": "thôn"
+    },
+    {
+      "name": "Hà Lâm",
+      "type": "thôn"
+    },
+    {
+      "name": "Kim Tiên",
+      "type": "thôn"
+    },
+    {
+      "name": "Kính Nỗ",
+      "type": "thôn"
+    },
+    {
+      "name": "Lâm Tiên",
+      "type": "thôn"
+    },
+    {
+      "name": "Liên Hà 1",
+      "type": "thôn"
+    },
+    {
+      "name": "Liên Hà 2",
+      "type": "thôn"
+    },
+    {
+      "name": "Lỗ Giao",
+      "type": "thôn"
+    },
+    {
+      "name": "Lỗ Khê",
+      "type": "thôn"
+    },
+    {
+      "name": "Lương Quy",
+      "type": "thôn"
+    },
+    {
+      "name": "Mạnh Tân",
+      "type": "thôn"
+    },
+    {
+      "name": "Phú Lâm",
+      "type": "thôn"
+    },
+    {
+      "name": "Phúc Lâm",
+      "type": "thôn"
+    },
+    {
+      "name": "Thanh Lâm",
+      "type": "thôn"
+    },
+    {
+      "name": "Thiết Úng",
+      "type": "thôn"
+    },
+    {
+      "name": "Thụy Lôi 1",
+      "type": "thôn"
+    },
+    {
+      "name": "Thụy Lôi 2",
+      "type": "thôn"
+    },
+    {
+      "name": "Thụy Lôi 3",
+      "type": "thôn"
+    },
+    {
+      "name": "Tuệ Lâm",
+      "type": "thôn"
+    },
+    {
+      "name": "Tùng Lâm",
+      "type": "thôn"
+    },
+    {
+      "name": "Vân Điềm",
+      "type": "thôn"
+    },
+    {
+      "name": "Vân Hà",
+      "type": "thôn"
+    },
+    {
+      "name": "Xuân Nộn",
+      "type": "thôn"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{{Thông tin đơn vị hành chính Việt Nam | xã
+| tên = Văn Miếu
+| hình = 
+| ghi chú hình = 
+| vĩ độ = 21.112304453994543
+| kinh độ = 105.11422922204774
+| diện tích = 89,11 km²<ref name=MS/>
+| dân số = 18.752 người<ref name=MS/>
+| thời điểm dân số = 2025
+| mật độ dân số = {{formatnum:{{#expr:floor({{formatnum:18.752|R}}/{{formatnum:89,11|R}})}} }} người/km²
+| vùng = [[Đông Bắc Bộ]]
+| tỉnh = [[Phú Thọ]]
+| thành lập =16 tháng 6 năm 2025<ref>Nghị quyết số 1676/NQ-UBTVQH15</ref> 
+| trụ sở UBND =Khu Dẹ 1 
+| mã hành chính = 08611<ref>{{Chú thích web |url=https://danhmuchanhchinh.gso.gov.vn/ |title=Tổng cục Thống kê |access-date=2022-04-10 |archive-date=2021-01-10 |archive-url=https://web.archive.org/web/20210110034519/https://www.gso.gov.vn/phuong-phap-thong-ke/danh-muc/don-vi-hanh-chinh/ |url-status=dead }}</ref>
+| mã bưu chính =35812 
+|web={{url|vanmieu.phutho.gov.vn}}
+}}
+{{other|Văn Miếu (định hướng)}}
+'''Văn Miếu''' là một [[Xã (Việt Nam)|xã]] thuộc tỉnh [[Phú Thọ]], [[Việt Nam]].
+
+== Địa lý ==
+Xã Văn Miếu nằm ở phía Đông tỉnh [[Phú Thọ]], có vị trí địa lý<ref>{{Chú thích web |title=Đơn vị hành chính Việt Nam |url=https://sapnhap.bando.com.vn/ |access-date=2026-07-15 |website=sapnhap.bando.com.vn}}</ref>:
+
+* Phía Bắc giáp xã [[Minh Đài]] và xã [[Võ Miếu]].
+* Phía Nam giáp xã [[Khả Cửu]].
+* Phía Tây giáp xã [[Long Cốc]].
+* Phía Đông giáp xã [[Cự Đồng]] và xã [[Hương Cần]].
+
+Xã có diện tích 89,11&nbsp;km², dân số năm 2025 là 18.752 người, mật độ dân số đạt {{formatnum:{{#expr:floor({{formatnum:18.752|R}}/{{formatnum:89,11|R}})}} }} người/km².<ref>{{Chú thích web |title=Xã Văn Miếu, Tỉnh Phú Thọ mới sáp nhập 2026 |url=https://tinhthanhvn.com/province/phu-tho/xa-van-mieu |access-date=2026-07-15 |website=Tỉnh Thành Việt Nam |language=vi}}</ref>
+
+==Hành chính==
+Xã Văn Miếu được chia thành 31 khu: Cát, Chầm 1, Chầm 2, Chủng, Dẹ 1, Dẹ 2, Dớn, Đầm Mười, Đồng Giao, Gằn, Gò Vố, Hạ Thành, Kén, Lâm Phú, Liệm, Mang Bão, Mận, Mật 1, Mật 2, Mít 1, Mít 2, Nhằn Hạ, Nhằn Thượng, Nưa Hạ, Nưa Thượng, Tam Văn, Thành Công, Trầu, Trống, Xè 1, Xè 2.<ref name=":1">{{Chú thích web |last=Bộ Dân tộc và Tôn giáo |date=2026-01-29 |title=Danh sách Thôn vùng đồng bào dân tộc thiểu số và miền núi, thôn đặc biệt khó khăn giai đoạn 2026 - 2030 trên địa bàn tỉnh Phú Thọ |url=http://files.ubdt.gov.vn/files/ecm/source_files/2026/02/05/11252411_4.%20Ph%C3%BA%20Th%E1%BB%8D%201%20(th%C3%B4n).signed_26-02-05.pdf |url-status=live |archive-url=https://web.archive.org/web/20260417090807/http://files.ubdt.gov.vn/files/ecm/source_files/2026/02/05/11252411_4.%20Ph%C3%BA%20Th%E1%BB%8D%201%20(th%C3%B4n).signed_26-02-05.pdf |archive-date=2026-04-17 |access-date=2026-04-17 |website=Cổng Thông tin điện tử Bộ Dân tộc và Tôn giáo}}</ref><ref>{{Chú thích web |last=Ủy ban bầu cử xã Văn Miếu |date=2026-04-26 |title=Danh sách chính thức những người ứng cử đại biểu Hội đồng nhân dân xã Văn Miếu nhiệm kỳ 2026 - 2031 |url=https://vanmieu.phutho.gov.vn/index.php/tin-tuc-su-kien/chinh-tri/xa-van-mieu-cong-bo-danh-sach-nhung-nguoi-ung-cu-dai-bieu-hdnd-xa-nhiem-ky-2026-2031 |url-status=live |archive-url=https://web.archive.org/web/20260426525318/https://vanmieu.phutho.gov.vn/index.php/tin-tuc-su-kien/chinh-tri/xa-van-mieu-cong-bo-danh-sach-nhung-nguoi-ung-cu-dai-bieu-hdnd-xa-nhiem-ky-2026-2031 |archive-date=2026-04-26 |access-date=2026-04-26 |website=Trang Thông tin điện tử xã Văn Miếu - tỉnh Phú Thọ}}</ref>
+
+==Lịch sử==
+Trước kia, Văn Miếu là một xã thuộc huyện [[Thanh Sơn (huyện)|Thanh Sơn]] cũ
+
+Ngày [[16 tháng 6]] năm [[2025]]:
+
+* [[Quốc hội Việt Nam|Quốc hội]] ban hành Nghị quyết số 203/2025/QH15 về việc sửa đổi, bổ sung một số điều của Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam (nghị quyết có hiệu lực từ ngày [[16 tháng 6]] năm [[2025]]).<ref>{{Chú thích web |last=xaydungchinhsach.chinhphu.vn |date=2025-06-28 |title=NGHỊ QUYẾT 203/2025/QH15 SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA HIẾN PHÁP NƯỚC CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM |url=https://xaydungchinhsach.chinhphu.vn/nghi-quyet-203-2025-qh15-sua-doi-bo-sung-mot-so-dieu-cua-hien-phap-nuoc-cong-hoa-xa-hoi-chu-nghia-viet-nam-119250616181735552.htm |url-status=live |archive-url=http://web.archive.org/web/20260715200606/https://xaydungchinhsach.chinhphu.vn/nghi-quyet-203-2025-qh15-sua-doi-bo-sung-mot-so-dieu-cua-hien-phap-nuoc-cong-hoa-xa-hoi-chu-nghia-viet-nam-119250616181735552.htm |archive-date=2026-07-15 |access-date=2026-07-15 |website=Báo Điện tử Chính phủ |language=vi}}</ref> Theo đó, kết thúc hoạt động của đơn vị hành chính cấp huyện trong cả nước từ ngày 1 tháng 7 năm 2025.
+
+* [[Ủy ban Thường vụ Quốc hội]] ban hành Nghị quyết số 1676/NQ-UBTVQH15 về việc sắp xếp đơn vị hành chính cấp xã của tỉnh [[Phú Thọ]] năm 2025 (nghị quyết có hiệu lực từ ngày [[16 tháng 6]] năm [[2025]]).<ref>{{Chú thích web |last=xaydungchinhsach.chinhphu.vn |date=2025-06-20 |title=Nghị quyết số 1676/NQ-UBTVQH15 sắp xếp các ĐVHC cấp xã của tỉnh Phú Thọ năm 2025 |url=https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-1676-nq-ubtvqh15-sap-xep-cac-dvhc-cap-xa-cua-tinh-phu-tho-nam-2025-119250616204317326.htm |url-status=live |archive-url=http://web.archive.org/web/20260725082021/https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-1676-nq-ubtvqh15-sap-xep-cac-dvhc-cap-xa-cua-tinh-phu-tho-nam-2025-119250616204317326.htm |archive-date=2026-07-25 |access-date=2026-07-25 |website=Báo Điện tử Chính phủ |language=vi}}</ref> Theo đó, sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của các xã Tân Lập, Tân Minh và Văn Miếu thành xã mới có tên gọi là '''xã Văn Miếu'''.
+
+==Chú thích==
+{{tham khảo}}
+
+==Tham khảo==
+
+{{sơ khai Phú Thọ}}
+{{Đơn vị hành chính thuộc tỉnh Phú Thọ}}

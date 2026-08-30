@@ -1,0 +1,112 @@
+{
+  "ward_code": "10045",
+  "ward_name": "Xuân Mai",
+  "province_code": "01",
+  "resolution": "",
+  "arrangement": "2026_07",
+  "effective_date": "2026-07-01",
+  "verified": "unverified",
+  "extraction": {
+    "source": "vi.wikipedia.org",
+    "title": "(cache)",
+    "mode": "table"
+  },
+  "sources": [
+    {
+      "key": "wiki-10045-1",
+      "title": "Nghị quyết số 7/NQ-HĐND ngày 1 tháng 7 năm 2025 của Hội đồng nhân dân xã Xuân Mai về việc đổi tên thôn Tiên Trượng thành thôn Tiên Xuân trên địa bàn xã Xuân Mai",
+      "url": "https://web.facebook.com/photo?fbid=2951579461704436&set=pcb.2489522124753863",
+      "date": "2026-08-05",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-10045-2",
+      "title": "Nghị quyết số 6/NQ-HĐND ngày 1 tháng 7 năm 2025 của Hội đồng nhân dân xã Xuân Mai về việc chuyển đổi tổ dân phố thành thôn trên địa bàn xã Xuân Mai",
+      "url": "https://web.facebook.com/photo?fbid=2951579438371105&set=pcb.2489522124753863",
+      "date": "2026-08-05",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-10045-3",
+      "title": "Nghị quyết số 25/NQ-HĐND ngày 26 tháng 6 năm 2026 của Hội đồng nhân dân xã Xuân Mai về việc sắp xếp thôn trên địa bàn xã Xuân Mai",
+      "url": "https://sqhx-hanoi.mediacdn.vn/91579363132710912/2026/6/27/25-nq-ve-sap-xep-thon-tren-dia-ban-xa-c-17825273502162099132194.pdf",
+      "date": "",
+      "type": "wikipedia-ref"
+    }
+  ],
+  "note": "Trích tự động từ Wikipedia tiếng Việt (mode=table). Cần đối chiếu nghị quyết HĐND phường/xã.",
+  "tdp": [
+    {
+      "name": "Chiến Thắng",
+      "type": "thôn"
+    },
+    {
+      "name": "Đông Tiến",
+      "type": "thôn"
+    },
+    {
+      "name": "Nam Phương",
+      "type": "thôn"
+    },
+    {
+      "name": "Nam Tiến",
+      "type": "thôn"
+    },
+    {
+      "name": "Phương Hạnh",
+      "type": "thôn"
+    },
+    {
+      "name": "Tân Bình",
+      "type": "thôn"
+    },
+    {
+      "name": "Tân Mai",
+      "type": "thôn"
+    },
+    {
+      "name": "Tân Xuân",
+      "type": "thôn"
+    },
+    {
+      "name": "Tiên Xá",
+      "type": "thôn"
+    },
+    {
+      "name": "Tiến Ân",
+      "type": "thôn"
+    },
+    {
+      "name": "Tiến Tiên",
+      "type": "thôn"
+    },
+    {
+      "name": "Trí Thủy",
+      "type": "thôn"
+    },
+    {
+      "name": "Việt An",
+      "type": "thôn"
+    },
+    {
+      "name": "Xuân Hà",
+      "type": "thôn"
+    },
+    {
+      "name": "Xuân Linh",
+      "type": "thôn"
+    },
+    {
+      "name": "Xuân Mai",
+      "type": "thôn"
+    },
+    {
+      "name": "Xuân Sen",
+      "type": "thôn"
+    },
+    {
+      "name": "Xuân Thủy",
+      "type": "thôn"
+    }
+  ]
+}

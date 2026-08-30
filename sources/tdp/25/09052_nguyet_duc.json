@@ -1,0 +1,136 @@
+{
+  "ward_code": "09052",
+  "ward_name": "Nguyệt Đức",
+  "province_code": "25",
+  "resolution": "",
+  "arrangement": "truoc_2026_07",
+  "effective_date": "",
+  "verified": "unverified",
+  "extraction": {
+    "source": "vi.wikipedia.org",
+    "title": "Nguyệt Đức",
+    "mode": "narrative"
+  },
+  "sources": [
+    {
+      "key": "wiki-09052-1",
+      "title": "Thông báo số 62/TB-UBND về Nơi bỏ phiếu bầu cử đại biểu Quốc hội khóa XVI và bầu cử đại biểu Hội đồng nhân dân các cấp, nhiệm kỳ 2026 - 2031 trên địa bàn xã Nguyệt Đức",
+      "url": "https://web.facebook.com/story.php?story_fbid=122165030402929908&id=61577897251692&rdid=7RXVRX5V7sud5pL6#",
+      "date": "2026-03-09",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-09052-2",
+      "title": "TOÀN VĂN: Nghị quyết số 202/2025/QH15 về sắp xếp đơn vị hành chính cấp tỉnh",
+      "url": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-202-2025-qh15-ve-sap-xep-don-vi-hanh-chinh-cap-tinh-119250612174148722.htm",
+      "date": "2025-07-16",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-09052-3",
+      "title": "NGHỊ QUYẾT 203/2025/QH15 SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA HIẾN PHÁP NƯỚC CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM",
+      "url": "https://xaydungchinhsach.chinhphu.vn/nghi-quyet-203-2025-qh15-sua-doi-bo-sung-mot-so-dieu-cua-hien-phap-nuoc-cong-hoa-xa-hoi-chu-nghia-viet-nam-119250616181735552.htm",
+      "date": "2025-06-28",
+      "type": "wikipedia-ref"
+    }
+  ],
+  "note": "Trích tự động từ Wikipedia tiếng Việt (mode=narrative). Cần đối chiếu nghị quyết HĐND phường/xã. ⚠️ Danh mục có thể là hiện trạng TRƯỚC sắp xếp thôn/TDP 01/7/2026 — Wikipedia chưa cập nhật nghị quyết mới.",
+  "tdp": [
+    {
+      "name": "Đinh Xá 1",
+      "type": "thôn"
+    },
+    {
+      "name": "Đinh Xá 2",
+      "type": "thôn"
+    },
+    {
+      "name": "Đinh Xá 3",
+      "type": "thôn"
+    },
+    {
+      "name": "Đinh Xá 4",
+      "type": "thôn"
+    },
+    {
+      "name": "Đinh Xá 5",
+      "type": "thôn"
+    },
+    {
+      "name": "Đống Cao",
+      "type": "thôn"
+    },
+    {
+      "name": "Gảnh Đá",
+      "type": "thôn"
+    },
+    {
+      "name": "Gia Phúc",
+      "type": "thôn"
+    },
+    {
+      "name": "Lưỡng 1",
+      "type": "thôn"
+    },
+    {
+      "name": "Lưỡng 2",
+      "type": "thôn"
+    },
+    {
+      "name": "Mai Yên",
+      "type": "thôn"
+    },
+    {
+      "name": "Miêu Cốc",
+      "type": "thôn"
+    },
+    {
+      "name": "Nghinh Tiên 1",
+      "type": "thôn"
+    },
+    {
+      "name": "Nghinh Tiên 2",
+      "type": "thôn"
+    },
+    {
+      "name": "Nghinh Tiên 3",
+      "type": "thôn"
+    },
+    {
+      "name": "Phần Xa",
+      "type": "thôn"
+    },
+    {
+      "name": "Phố Lồ",
+      "type": "thôn"
+    },
+    {
+      "name": "Phúc Cẩm",
+      "type": "thôn"
+    },
+    {
+      "name": "Tiên Đài",
+      "type": "thôn"
+    },
+    {
+      "name": "Trung Giang",
+      "type": "thôn"
+    },
+    {
+      "name": "Xuân Đài",
+      "type": "thôn"
+    },
+    {
+      "name": "Xóm Chùa",
+      "type": "thôn"
+    },
+    {
+      "name": "Yên Dương",
+      "type": "thôn"
+    },
+    {
+      "name": "Yên Nội",
+      "type": "thôn"
+    }
+  ]
+}

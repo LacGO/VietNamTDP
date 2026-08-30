@@ -1,0 +1,96 @@
+{
+  "ward_code": "00613",
+  "ward_name": "Tây Tựu",
+  "province_code": "01",
+  "resolution": "",
+  "arrangement": "2026_07",
+  "effective_date": "2026-07-01",
+  "verified": "unverified",
+  "extraction": {
+    "source": "vi.wikipedia.org",
+    "title": "(cache)",
+    "mode": "table"
+  },
+  "sources": [
+    {
+      "key": "wiki-00613-1",
+      "title": "Phụ lục Danh mục tổ dân phố sắp xếp, tổ chức lại trên địa bàn phường Tây Tựu (Kèm theo Nghị quyết số 28/NQ-HĐND ngày 29 tháng 6 năm 2026 của Hội đồng nhân dân phường Tây Tựu)",
+      "url": "https://sqhx-hanoi.mediacdn.vn/91579363132710912/2026/7/2/3-nq-bieu-kem-theo-17829612653611767467584.pdf",
+      "date": "2026-08-14",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-00613-2",
+      "title": "Nghị quyết số 28/NQ-HĐND ngày 29 tháng 6 năm 2026 của Hội đồng nhân dân phường Tây Tựu về việc sắp xếp, tổ chức lại tổ dân phố trên địa bàn phường Tây Tựu",
+      "url": "https://sqhx-hanoi.mediacdn.vn/91579363132710912/2026/7/2/3-nq-hdnd-phuong-ve-sap-xep-to-dan-pho-1782960762003287089972.pdf",
+      "date": "2026-08-15",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-00613-3",
+      "title": "Thông báo số 1971/TB-UBND ngày 30 tháng 6 năm 2026 của Ủy ban nhân dân phường Tây Tựu về việc công khai nội dung Nghị quyết sắp xếp, tổ chức lại tổ dân phố trên địa bàn phường Tây Tựu",
+      "url": "https://sqhx-hanoi.mediacdn.vn/91579363132710912/2026/7/2/tay-tuu-thong-bao-1971-cong-khai-nghi-quyet-1782961600161608578189.pdf",
+      "date": "2026-08-15",
+      "type": "wikipedia-ref"
+    }
+  ],
+  "note": "Trích tự động từ Wikipedia tiếng Việt (mode=table). Cần đối chiếu nghị quyết HĐND phường/xã.",
+  "tdp": [
+    {
+      "name": "Hạ 1",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Hạ 2",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Minh Khai",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Ngọa Long",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Nguyên Xá 1",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Nguyên Xá 2",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Phúc Lý 1",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Phúc Lý 2",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Thượng 1",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Thượng 2",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Trung 1",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Trung 2",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Văn Trì 1",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Văn Trì 2",
+      "type": "tổ dân phố"
+    }
+  ]
+}

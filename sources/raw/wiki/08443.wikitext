@@ -1,0 +1,90 @@
+{{Thông tin đơn vị hành chính Việt Nam | Xã
+| tên = Hiền Quan
+| hình = 
+| ghi chú hình = 
+| vĩ độ = 21
+| kinh độ = 105
+| vĩ phút = 22
+| vĩ giây = 32
+| kinh phút = 14
+| kinh giây = 20
+| diện tích = 31,38 km²<ref name=MS/>
+| dân số = 27.476 người<ref name=MS/>
+| thời điểm dân số = 2025
+| mật độ dân số = {{formatnum:{{#expr:floor({{formatnum:27.476|R}}/{{formatnum:31,38|R}})}} }} người/km²
+| dân tộc =[[Người Việt|Kinh]], ... 
+| vùng = [[Đông Bắc Bộ]]
+| tỉnh = [[Phú Thọ]]
+| thành lập = 1954<ref>1147/1954/QN-TCCB</ref>
+| trụ sở UBND =Khu 16 (xã Bắc Sơn cũ) 
+| mã hành chính = 08443<ref>{{Chú thích web |url=https://danhmuchanhchinh.gso.gov.vn/ |title=Tổng cục Thống kê |access-date=2022-04-10 |archive-date=2021-01-10 |archive-url=https://web.archive.org/web/20210110034519/https://www.gso.gov.vn/phuong-phap-thong-ke/danh-muc/don-vi-hanh-chinh/ |url-status=dead }}</ref>
+| mã bưu chính =35962 
+| tên cũ = Tổng Hiền
+| tên khác = Trang Song Quan
+| web = {{url|https://hienquan.phutho.gov.vn/}}
+}}
+
+'''Hiền Quan''' là một [[Xã (Việt Nam)|xã]] thuộc tỉnh [[Phú Thọ]], [[Việt Nam]].
+
+== Địa lý ==
+Xã Hiền Quan nằm ở phía trung tâm tỉnh [[Phú Thọ]], có vị trí địa lý<ref>{{Chú thích web |title=Đơn vị hành chính Việt Nam |url=https://sapnhap.bando.com.vn/ |access-date=2026-06-06 |website=sapnhap.bando.com.vn}}</ref>:
+
+* Phía Bắc giáp phường [[Phong Châu (phường)|Phong Châu]] với ranh giới là [[sông Hồng]].
+* Phía Nam giáp xã [[Vạn Xuân, Phú Thọ|Vạn Xuân]].
+* Phía Tây giáp phường [[Âu Cơ (phường)|Âu Cơ]] và xã [[Liên Minh, Phú Thọ|Liên Minh]] với ranh giới là sông Hồng.
+* Phía Đông giáp xã [[Xuân Lũng]] và xã [[Lâm Thao, Phú Thọ|Lâm Thao]] với ranh giới là sông Hồng.
+
+Xã Hiền Quan có diện tích 31,38 km², dân số năm 2025 là 27.476 người, mật độ dân số đạt {{formatnum:{{#expr:floor({{formatnum:27.476|R}}/{{formatnum:31,38|R}})}} }} người/km².<ref>{{Chú thích web |title=Xã Hiền Quan, Tỉnh Phú Thọ mới sáp nhập 2026 |url=https://tinhthanhvn.com/province/phu-tho/xa-hien-quan |access-date=2026-06-06 |website=Tỉnh Thành Việt Nam |language=vi}}</ref>
+
+== Hành chính ==
+Xã Hiền Quan được chia thành 41 khu: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20 (xã Bắc Sơn cũ), 1, 2, 3, 4, 5, 7, 8, 9, 10, 11, 12, 13, 14 (xã Hiền Quan cũ), 1, 2, 3, 4, 5, 6, 7, 8 (xã Thanh Uyên cũ).<ref>{{Chú thích web |last=Trang Thông tin điện tử xã Hiền Quan - tỉnh Phú Thọ |date=2026-03-15 |title=Danh sách người ứng cử đại biểu Hội đồng nhân dân xã Hiền Quan nhiệm kỳ 2026 - 2031 |url=https://hienquan.phutho.gov.vn/index.php/tin-tuc-su-kien/chinh-tri/danh-sach-nguoi-ung-cu-dai-bieu-hoi-dong-nhan-dan-xa-hien-quan-nhiem-ky-2026-2031 |url-status=live |archive-url=https://web.archive.org/web/20260420090807/https://hienquan.phutho.gov.vn/index.php/tin-tuc-su-kien/chinh-tri/danh-sach-nguoi-ung-cu-dai-bieu-hoi-dong-nhan-dan-xa-hien-quan-nhiem-ky-2026-2031 |archive-date=2026-04-20 |access-date=2026-04-20}}</ref>
+
+== Lịch sử ==
+Địa bàn xã Hiền Quan hiện nay trước đây vốn là ba xã: Thanh Uyên, Bắc Sơn, Hiền Quan thuộc huyện [[Tam Nông (huyện Phú Thọ)|Tam Nông]] cũ.
+
+Ngày [[5 tháng 7]] năm [[1977]], Hội đồng bộ trưởng ban hành Quyết định số 91-HĐBT về việc sáp nhập huyện Tam Nông với huyện [[Thanh Thủy (huyện)|Thanh Thủy]] thành huyện [[Tam Thanh (huyện)|Tam Thanh]].<ref>Quyết định số 178-CP ngày 5-7-1977 của [[Chính phủ Việt Nam|Hội đồng Chính phủ]]</ref> Xã Hiền Quan thuộc huyện Tam Thanh.
+
+Năm [[24 tháng 7]] năm [[1999]], [[Chính phủ]] ban hành Nghị định số 59/1999/NĐ/CP về việc chia huyện Tam Thanh tách ra lại thành hai huyện Tam Nông và Thanh Thủy như cũ. Xã Hiền Quang thuộc huyện Tam Nông.
+
+Đến năm [[2018]]:
+
+* Xã Vực Trường có diện tích 4,59&nbsp;km², dân số là 2.386 người, mật độ dân số đạt 520 người/km².
+* Xã Xuân Quang có diện tích 6,51&nbsp;km², dân số là 4.538 người, mật độ dân số đạt 697 người/km².
+* Xã Hương Nha có diện tích 4,31&nbsp;km², dân số là 3.691 người, mật độ dân số đạt 856 người/km².
+
+Ngày [[17 tháng 12]] năm [[2019]], [[Ủy ban Thường vụ Quốc hội]] ban hành Nghị quyết 828/NQ-UBTVQH14 về việc sắp xếp các đơn vị hành chính cấp xã thuộc tỉnh Phú Thọ (nghị quyết có hiệu lực từ ngày [[1 tháng 1]] năm [[2020]]). Theo đó, sáp nhập toàn bộ diện tích và dân số của ba xã Hương Nha, Xuân Quang và Vực Trường thành xã Bắc Sơn.
+
+Ngày [[16 tháng 6]] năm [[2025]]:
+
+* [[Quốc hội Việt Nam|Quốc hội]] ban hành Nghị quyết số 203/2025/QH15 về việc sửa đổi, bổ sung một số điều của Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam (nghị quyết có hiệu lực từ ngày [[16 tháng 6]] năm [[2025]]).<ref>{{Chú thích web |last=xaydungchinhsach.chinhphu.vn|date=2025-06-28|title=NGHỊ QUYẾT 203/2025/QH15 SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA HIẾN PHÁP NƯỚC CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM|url=https://xaydungchinhsach.chinhphu.vn/nghi-quyet-203-2025-qh15-sua-doi-bo-sung-mot-so-dieu-cua-hien-phap-nuoc-cong-hoa-xa-hoi-chu-nghia-viet-nam-119250616181735552.htm|url-status=live|archive-url=http://web.archive.org/web/20260715200606/https://xaydungchinhsach.chinhphu.vn/nghi-quyet-203-2025-qh15-sua-doi-bo-sung-mot-so-dieu-cua-hien-phap-nuoc-cong-hoa-xa-hoi-chu-nghia-viet-nam-119250616181735552.htm|archive-date=2026-07-15|access-date=2026-07-15|website=Báo Điện tử Chính phủ|language=vi}}</ref> Theo đó, kết thúc hoạt động của đơn vị hành chính cấp huyện trong cả nước từ ngày 1 tháng 7 năm 2025.
+* Ủy ban Thường vụ Quốc hội ban hành Nghị quyết số 1676/NQ-UBTVQH15 về việc sắp xếp đơn vị hành chính cấp xã của tỉnh [[Phú Thọ]] năm 2025 (nghị quyết có hiệu lực từ ngày [[16 tháng 6]] năm [[2025]]).<ref>{{Chú thích web |last=xaydungchinhsach.chinhphu.vn|date=2025-06-20|title=Nghị quyết số 1676/NQ-UBTVQH15 sắp xếp các ĐVHC cấp xã của tỉnh Phú Thọ năm 2025|url=https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-1676-nq-ubtvqh15-sap-xep-cac-dvhc-cap-xa-cua-tinh-phu-tho-nam-2025-119250616204317326.htm|url-status=live|archive-url=http://web.archive.org/web/20260725082021/https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-1676-nq-ubtvqh15-sap-xep-cac-dvhc-cap-xa-cua-tinh-phu-tho-nam-2025-119250616204317326.htm|archive-date=2026-07-25|access-date=2026-07-27|website=Báo Điện tử Chính phủ|language=vi}}</ref> Theo đó, sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của các xã Thanh Uyên, Bắc Sơn và Hiền Quan thành xã mới có tên gọi là '''xã''' '''Hiền Quan'''.<!-- ==Lịch sử==
+Địa bàn xã Bắc Sơn hiện nay trước đây vốn là ba xã: Hương Nha, Vực Trường, Xuân Quang.
+
+Trước khi sáp nhập, xã Vực Trường có diện tích 4,59&nbsp;km², dân số là 2.386 người, mật độ dân số đạt 520 người/km². Xã Xuân Quang có diện tích 6,51&nbsp;km², dân số là 4.538 người, mật độ dân số đạt 697 người/km². Xã Hương Nha có diện tích 4,31&nbsp;km², dân số là 3.691 người, mật độ dân số đạt 856 người/km².
+
+Ngày [[17 tháng 12]] năm [[2019]], Ủy ban Thường vụ Quốc hội ban hành Nghị quyết 828/NQ-UBTVQH14 về việc sắp xếp các đơn vị hành chính cấp xã thuộc tỉnh Phú Thọ (nghị quyết có hiệu lực từ ngày [[1 tháng 1]] năm [[2020]]).<ref name=NQ828>{{Chú thích web|url=https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Nghi-quyet-828-NQ-UBTVQH14-2019-sap-xep-don-vi-hanh-chinh-cap-xa-thuoc-tinh-Phu-Tho-432098.aspx|tựa đề=Nghị quyết số 828/NQ-UBTVQH14 năm 2019 về việc sắp xếp các đơn vị hành chính cấp xã thuộc tỉnh Phú Thọ|tác giả=|họ=|tên=|ngày=|website=|url lưu trữ=|ngày lưu trữ=|ngày truy cập=}}</ref> Theo đó, sáp nhập toàn bộ diện tích và dân số của ba xã Hương Nha, Xuân Quang và Vực Trường thành xã Bắc Sơn. -->
+
+== Kinh tế – xã hội ==
+Sau khi sáp nhập UBND xã Hiền Quan có Trụ sở được đặt tại Trụ sở xã Bắc Sơn cũ'''.'''
+
+Trong 5 năm, Đảng bộ, chính quyền và nhân dân xã đã đoàn kết, nỗ lực thực hiện đồng bộ, hiệu quả Nghị quyết Đại hội Đảng bộ nhiệm kỳ 2020 - 2025. Các chỉ tiêu chủ yếu cơ bản đạt và vượt mục tiêu Nghị quyết Đại hội đề ra. Kinh tế - xã hội ổn định, cơ cấu kinh tế chuyển dịch đúng hướng, diện mạo nông thôn ngày càng khởi sắc. Tổng thu ngân sách trên địa bàn đạt 7,9 tỷ đồng, vượt 12% mục tiêu đề ra; vốn đầu tư toàn xã hội đạt 2.859 tỷ đồng, vượt 42% so với kế hoạch. Công tác chuyển đổi số được đẩy mạnh với 80% cán bộ, công chức cấp xã được bồi dưỡng kỹ năng số, 80% hồ sơ thủ tục hành chính được xử lý trực tuyến. Tỷ lệ gia đình văn hóa đạt 93,9%. Tất cả trường học trên địa bàn đều đạt chuẩn quốc gia. 100% trẻ em trong độ tuổi tiêm chủng được tiêm đủ vắc xin. 100% dân số sử dụng nước sạch. Tỷ lệ hộ nghèo giảm còn 2,6%, hộ cận nghèo còn 3,9%. Thu nhập bình quân đạt 51 triệu đồng/người/năm.
+
+=== Các đề án phát triển ===
+
+==== Đề án phát triển công nghiệp – tiểu thủ công nghiệp ====
+Đề án báo cáo nêu rõ hiện trạng phát triển CN-TTCN sau sáp nhập, các dự án động lực như Khu công nghiệp Bắc Sơn 200ha, Khu Logistic 70ha, đề xuất bổ sung Cụm công nghiệp Thanh Uyên 68ha và Cụm công nghiệp Hiền Quan 72ha. Mục tiêu phấn đấu đến năm 2030 gồm: tốc độ tăng trưởng CN-TTCN đạt từ 12%/năm; tỷ trọng ngành công nghiệp – xây dựng chiếm trên 45% cơ cấu kinh tế; hoàn thiện hạ tầng 2 Cụm công nghiệp mới và lấp đầy tối thiểu 40–50% diện tích; phát triển thêm tối thiểu 25 doanh nghiệp từ hộ kinh doanh; giải quyết việc làm mới cho trên 2.500 lao động; xử lý triệt để ô nhiễm tại các làng nghề, đặc biệt là Mộc Minh Đức.<ref name=":0">{{Chú thích web |title= |url= |archive-url=https://www.facebook.com/profile.php?id=100039454883876 |archive-date=1/7/2025 |access-date=1/7/2025 |website=Hiền Quan-Phú Thọ |page=Hiền Quan-Phú Thọ}}</ref>
+
+==== Đề án phát triển nông nghiệp theo hướng hàng hóa ====
+Dự thảo xác định phát triển vùng sản xuất tập trung, ứng dụng công nghệ cao, liên kết chuỗi giá trị, xây dựng sản phẩm OCOP và chuyển dịch mạnh từ sản xuất nhỏ lẻ sang sản xuất hàng hoá. Mục tiêu phấn đấu đến năm 2030 gồm: giá trị sản xuất nông nghiệp tăng 5–6%/năm; hình thành 3–5 vùng sản xuất hàng hoá chủ lực; tối thiểu 5 sản phẩm OCOP đạt 3–4 sao; cơ giới hoá nông nghiệp đạt trên 80%; lao động nông nghiệp qua đào tạo đạt trên 50%; thu nhập của người dân tăng ổn định.<ref name="phutho.gov.vn">{{Chú thích web |title=Cổng thông tin điện tử tỉnh Phú Thọ Cổng thông tin điện tử tỉnh Phú Thọ |url=https://phutho.gov.vn/ |access-date=2026-03-25 |website=phutho.gov.vn}}</ref>
+
+==Lễ hội Hiền Quan==
+Xã Hiền Quan với 11 lễ hội truyền thống: Lễ hội Đền Hoàng Bà (xã Thanh Uyên cũ), Lễ hội Đình Thu Trường (xã Vực Trường cũ); Lễ hội Đền Xuân Quang (xã Xuân Quang cũ), Lễ hội Đền Chiền Đền Mủi (xã Thanh Uyên cũ), Lễ hội Đền chùa Nam Cường (xã Thanh Uyên cũ); Lễ hội Đình, Đền, Miếu Hạ Hương Nha (xã Hương Nha cũ), Lễ hội Đền Chẹo (xã Thanh Uyên cũ), Lễ hội Đình Gia Dụ (xã Vực Trường cũ), Lễ hội Đình Gia Áo (xã Thanh Uyên cũ), Lễ hội Phết (xã Hiền Quan cũ).<ref name="phutho.gov.vn"/>
+
+Đặc biệt, [[Hội phết Hiền Quan]] là một lễ hội nổi tiếng của Phú Thọ được tổ chức ở xã Hiền Quan. Lễ hội diễn ra từ ngày 12 đến 13 tháng Giêng âm lịch hàng năm, trong đó ngày chính hội là ngày 13. Lễ hội được tổ chức nhằm tôn vinh tinh thần thượng võ và tưởng nhớ hai vị thành hoàng là Thiều Hoa công chúa, một nữ tướng dưới thời [[Hai Bà Trưng]] có công đánh giặc và [[Tướng nhà Đinh#Danh sách|Mộc Trang đại vương]] thời [[nhà Đinh]] có công dẹp [[loạn 12 sứ quân]].
+
+==Chú thích==
+{{tham khảo|30em}}
+
+==Tham khảo==
+
+{{sơ khai Phú Thọ}}{{Đơn vị hành chính thuộc tỉnh Phú Thọ}}

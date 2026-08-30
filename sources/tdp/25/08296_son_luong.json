@@ -1,0 +1,176 @@
+{
+  "ward_code": "08296",
+  "ward_name": "Sơn Lương",
+  "province_code": "25",
+  "resolution": "",
+  "arrangement": "truoc_2026_07",
+  "effective_date": "",
+  "verified": "unverified",
+  "extraction": {
+    "source": "vi.wikipedia.org",
+    "title": "Sơn Lương, Phú Thọ",
+    "mode": "narrative"
+  },
+  "sources": [
+    {
+      "key": "wiki-08296-1",
+      "title": "Quyết định số 62/QĐ-UBND về việc thành lập các khu vực bỏ phiếu bầu cử đại biểu Quốc hội khóa XVI và đại biểu Hội đồng nhân dân các cấp, nhiệm kỳ 2026 - 2031",
+      "url": "https://www.facebook.com/story.php?story_fbid=122158806602929845&id=61577895364678&rdid=souOofHH7Yuyq2G3#",
+      "date": "2026-01-23",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-08296-2",
+      "title": "Danh sách Thôn vùng đồng bào dân tộc thiểu số và miền núi, thôn đặc biệt khó khăn giai đoạn 2026 - 2030 trên địa bàn tỉnh Phú Thọ",
+      "url": "http://files.ubdt.gov.vn/files/ecm/source_files/2026/02/05/11252411_4.%20Ph%C3%BA%20Th%E1%BB%8D%201%20(th%C3%B4n).signed_26-02-05.pdf",
+      "date": "2026-01-29",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-08296-3",
+      "title": "NGHỊ QUYẾT 203/2025/QH15 SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA HIẾN PHÁP NƯỚC CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM",
+      "url": "https://xaydungchinhsach.chinhphu.vn/nghi-quyet-203-2025-qh15-sua-doi-bo-sung-mot-so-dieu-cua-hien-phap-nuoc-cong-hoa-xa-hoi-chu-nghia-viet-nam-119250616181735552.htm",
+      "date": "2025-06-28",
+      "type": "wikipedia-ref"
+    }
+  ],
+  "note": "Trích tự động từ Wikipedia tiếng Việt (mode=narrative). Cần đối chiếu nghị quyết HĐND phường/xã. ⚠️ Danh mục có thể là hiện trạng TRƯỚC sắp xếp thôn/TDP 01/7/2026 — Wikipedia chưa cập nhật nghị quyết mới.",
+  "tdp": [
+    {
+      "name": "Ao Bon",
+      "type": "khu"
+    },
+    {
+      "name": "Đá Trắng",
+      "type": "khu"
+    },
+    {
+      "name": "Đại Phú",
+      "type": "khu"
+    },
+    {
+      "name": "Đình A",
+      "type": "khu"
+    },
+    {
+      "name": "Đòan Kết",
+      "type": "khu"
+    },
+    {
+      "name": "Đồng An",
+      "type": "khu"
+    },
+    {
+      "name": "Đồng Ve",
+      "type": "khu"
+    },
+    {
+      "name": "Hưng Thịnh",
+      "type": "khu"
+    },
+    {
+      "name": "Liên An",
+      "type": "khu"
+    },
+    {
+      "name": "Phú Cường",
+      "type": "khu"
+    },
+    {
+      "name": "Phú Sơn",
+      "type": "khu"
+    },
+    {
+      "name": "Phú Thịnh",
+      "type": "khu"
+    },
+    {
+      "name": "Quyết Tiến",
+      "type": "khu"
+    },
+    {
+      "name": "Rường Cao",
+      "type": "khu"
+    },
+    {
+      "name": "Sơn Tình",
+      "type": "khu"
+    },
+    {
+      "name": "Tam Giao",
+      "type": "khu"
+    },
+    {
+      "name": "Tân Bình",
+      "type": "khu"
+    },
+    {
+      "name": "Tân Hội",
+      "type": "khu"
+    },
+    {
+      "name": "Tân Lập",
+      "type": "khu"
+    },
+    {
+      "name": "Tân Sơn",
+      "type": "khu"
+    },
+    {
+      "name": "Tân Tiến",
+      "type": "khu"
+    },
+    {
+      "name": "Thành Lập",
+      "type": "khu"
+    },
+    {
+      "name": "Trung Tâm",
+      "type": "khu"
+    },
+    {
+      "name": "Văn Phú",
+      "type": "khu"
+    },
+    {
+      "name": "Vĩnh Thịnh",
+      "type": "khu"
+    },
+    {
+      "name": "Xe Ngà",
+      "type": "khu"
+    },
+    {
+      "name": "Xuân Hà",
+      "type": "khu"
+    },
+    {
+      "name": "Xuân Hương",
+      "type": "khu"
+    },
+    {
+      "name": "Xuân Nhật",
+      "type": "khu"
+    },
+    {
+      "name": "Xuân Tân",
+      "type": "khu"
+    },
+    {
+      "name": "Xuân Thắng 1",
+      "type": "khu"
+    },
+    {
+      "name": "Xuân Thắng 2",
+      "type": "khu"
+    },
+    {
+      "name": "Xuân Thượng",
+      "type": "khu"
+    },
+    {
+      "name": "Xuân Tình",
+      "type": "khu"
+    }
+  ]
+}

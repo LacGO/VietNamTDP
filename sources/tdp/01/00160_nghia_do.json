@@ -1,0 +1,225 @@
+{
+  "ward_code": "00160",
+  "ward_name": "Nghĩa Đô",
+  "province_code": "01",
+  "resolution": "Đề án số 246/ĐA-UBND ngày 26/6/2026 của UBND phường Nghĩa Đô về sắp xếp tổ dân phố",
+  "arrangement": "2026_07",
+  "effective_date": "2026-07-01",
+  "verified": "partial",
+  "extraction": {
+    "source": "nghiado.hanoi.gov.vn",
+    "mode": "manual-portal-pdf"
+  },
+  "sources": [
+    {
+      "key": "portal-00160",
+      "title": "Đề án Sắp xếp tổ dân phố trên địa bàn phường Nghĩa Đô",
+      "url": "https://nghiado.hanoi.gov.vn/sap-xep-to-dan-pho/de-an-sap-xep-to-dan-pho-tren-dia-ban-phuong-nghia-do-281626062620064984.htm",
+      "date": "2026-06-26",
+      "type": "cong_ttdt"
+    }
+  ],
+  "note": "Từ 87 xuống 50 tổ dân phố, đánh số 1–50. Theo Đề án UBND phường (chờ nghị quyết HĐND phường chính thức).",
+  "tdp": [
+    {
+      "name": "1",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "2",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "3",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "4",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "5",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "6",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "7",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "8",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "9",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "10",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "11",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "12",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "13",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "14",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "15",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "16",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "17",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "18",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "19",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "20",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "21",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "22",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "23",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "24",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "25",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "26",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "27",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "28",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "29",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "30",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "31",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "32",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "33",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "34",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "35",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "36",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "37",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "38",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "39",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "40",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "41",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "42",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "43",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "44",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "45",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "46",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "47",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "48",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "49",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "50",
+      "type": "tổ dân phố"
+    }
+  ]
+}

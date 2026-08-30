@@ -1,0 +1,88 @@
+{
+  "ward_code": "09604",
+  "ward_name": "Tùng Thiện",
+  "province_code": "01",
+  "resolution": "",
+  "arrangement": "2026_07",
+  "effective_date": "2026-07-01",
+  "verified": "unverified",
+  "extraction": {
+    "source": "vi.wikipedia.org",
+    "title": "(cache)",
+    "mode": "table"
+  },
+  "sources": [
+    {
+      "key": "wiki-09604-1",
+      "title": "Hội đồng nhân dân phường Tùng Thiện khóa II thông qua 05 nghị quyết quan trọng tại kỳ họp thường lệ giữa năm 2026",
+      "url": "https://dbndhanoi.gov.vn/bai-viet/hdnd-phuong-tung-thien-khoa-ii-thong-qua-05-nghi-quyet-quan-trong-tai-ky-hop-thuong-le-giua-nam-2026",
+      "date": "2026-06-30",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-09604-2",
+      "title": "Nghị quyết số 11/NQ-HĐND ngày 29 tháng 7 năm 2025 của Hội đồng nhân dân phường Tùng Thiện về việc chuyển đổi thôn thành tổ dân phố, đổi tên tổ dân phố do trùng số tự nhiên và sắp xếp các tổ dân phố còn 1 phần thuộc phường Tùng Thiện sau sắp xếp đơn vị hành chính tại phường Tùng Thiện, thành phố Hà Nội",
+      "url": "https://storage-vnportal.vnpt.vn/gov-hni/7047/VanBan/2025/8/2/nq11%2029.7.2025%20H%C4%90ND%20ph%C6%B0%E1%BB%9Dng%20v%E1%BB%81%20%C4%91%E1%BB%95i%20t%C3%AAn%20TDP.pdf",
+      "date": "2026-07-13",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-09604-3",
+      "title": "Phường Tùng thiện lấy ý kiến nhân dân về đề án sắp xếp tổ dân phố",
+      "url": "https://tungthien.hanoi.gov.vn/tin-tuc-su-kien/phuong-tung-thien-lay-y-kien-nhan-dan-ve-de-an-sap-xep-to-dan-pho-2694260617155201594.htm",
+      "date": "2026-06-17",
+      "type": "wikipedia-ref"
+    }
+  ],
+  "note": "Trích tự động từ Wikipedia tiếng Việt (mode=table). Cần đối chiếu nghị quyết HĐND phường/xã.",
+  "tdp": [
+    {
+      "name": "Hữu Nghị",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Nhân Lý",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Sơn Lộc",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Thanh Mỹ",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Thanh Vị",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Thắng Lợi",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Trung Hậu",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Trung Sơn",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Văn Khê",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Vị Thủy",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Xuân Khanh",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Xuân Sơn",
+      "type": "tổ dân phố"
+    }
+  ]
+}

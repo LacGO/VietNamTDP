@@ -1,0 +1,116 @@
+{
+  "ward_code": "09715",
+  "ward_name": "Phúc Thọ",
+  "province_code": "01",
+  "resolution": "",
+  "arrangement": "2026_07",
+  "effective_date": "2026-07-01",
+  "verified": "unverified",
+  "extraction": {
+    "source": "vi.wikipedia.org",
+    "title": "(cache)",
+    "mode": "table"
+  },
+  "sources": [
+    {
+      "key": "wiki-09715-1",
+      "title": "Nghị quyết số 11/NQ-HĐND ngày 26 tháng 6 năm 2026 của Hội đồng nhân dân xã Phúc Thọ về việc sắp xếp, đổi tên thôn trên địa bàn xã Phúc Thọ",
+      "url": "https://datafiles.hanoi.gov.vn/gov-hni/7529/VanBan/2026/6/30/NQ%20%C4%91%E1%BB%95i%20t%C3%AAn%20th%C3%B4n%20s%E1%BB%91%2011.pdf",
+      "date": "2026-07-27",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-09715-2",
+      "title": "Công bố danh sách chính thức những người ứng cử đại biểu Hội đồng nhân dân xã Phúc Thọ, khóa II, Nhiệm kỳ 2026 – 2031",
+      "url": "https://phuctho.hanoi.gov.vn/hoat-dong-hoi-dong-nhan-dan/cong-bo-danh-sach-chinh-thuc-nhung-nguoi-ung-cu-dai-bieu-hdnd-xa-phuc-tho-khoa-ii-nhiem-ky-2026-2031-26882603032011564.htm?gidzl=SV1JVJFWXbDrxrTxEVk6K7ZYNdeYzuzLOh1MUI2drrLXlW1u8lxLKc6v1tydheC2QxbJ9MLq8U0VDk62KG",
+      "date": "2026-03-03",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-09715-3",
+      "title": "Nghị quyết số 111/2025/UBTVQH15 ngày 24 tháng 12 năm 2025 của Ủy ban Thường vụ Quốc hội về phân loại đô thị",
+      "url": "https://cdn.nhandan.vn/files/f4a4abf7f9a0ba4a91744616546d850872b76917f90d5a74cc9eebef1369fb6f/111.pdf",
+      "date": "2026-04-30",
+      "type": "wikipedia-ref"
+    }
+  ],
+  "note": "Trích tự động từ Wikipedia tiếng Việt (mode=table). Cần đối chiếu nghị quyết HĐND phường/xã.",
+  "tdp": [
+    {
+      "name": "Bách Lộc",
+      "type": "thôn"
+    },
+    {
+      "name": "Bảo Vệ",
+      "type": "thôn"
+    },
+    {
+      "name": "Cung Sơn",
+      "type": "thôn"
+    },
+    {
+      "name": "Đông Phụng Thượng",
+      "type": "thôn"
+    },
+    {
+      "name": "Đồng Lục",
+      "type": "thôn"
+    },
+    {
+      "name": "Hòa Trung",
+      "type": "thôn"
+    },
+    {
+      "name": "Kỳ Úc",
+      "type": "thôn"
+    },
+    {
+      "name": "Nam Phụng Thượng",
+      "type": "thôn"
+    },
+    {
+      "name": "Phù Long",
+      "type": "thôn"
+    },
+    {
+      "name": "Tân Phúc",
+      "type": "thôn"
+    },
+    {
+      "name": "Tây Phụng Thượng",
+      "type": "thôn"
+    },
+    {
+      "name": "Thanh Phần",
+      "type": "thôn"
+    },
+    {
+      "name": "Thọ Lộc",
+      "type": "thôn"
+    },
+    {
+      "name": "Thư Trai",
+      "type": "thôn"
+    },
+    {
+      "name": "Thượng Cốc",
+      "type": "thôn"
+    },
+    {
+      "name": "Trạch Lôi",
+      "type": "thôn"
+    },
+    {
+      "name": "Trạch Mỹ Lộc",
+      "type": "thôn"
+    },
+    {
+      "name": "Triệu Xuyên",
+      "type": "thôn"
+    },
+    {
+      "name": "Tường Phiêu",
+      "type": "thôn"
+    }
+  ]
+}

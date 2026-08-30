@@ -1,0 +1,64 @@
+{{Thông tin đơn vị hành chính Việt Nam |xã
+| tên = Yên Lạc
+| hình = 
+| ghi chú hình = 
+| vĩ độ = 21.234369794260143
+| kinh độ = 105.5748653044159
+| diện tích = 21,70 km²<ref name=MS/>
+| dân số = 39.730 người
+| thời điểm dân số = 2025
+| mật độ dân số = {{formatnum:{{#expr:floor({{formatnum:39.730| R}}/{{formatnum:21,70| R}})}} }} người/km²
+| vùng = [[Đông Bắc Bộ]]
+| tỉnh = [[Phú Thọ]]
+| thành lập = *28 tháng 5 năm 1997<ref>53/1997/CP</ref>: Thành lập thị trấn Yên Lạc
+*16 tháng 6 năm 2025<ref>Nghị quyết số 1676/NQ-UBTVQH15</ref>:Thành lập xã Yên Lạc
+| trụ sở UBND = 
+| mã hành chính = 09025<ref>{{Chú thích web |url=https://danhmuchanhchinh.gso.gov.vn/ |title=Tổng cục Thống kê |access-date=2022-04-10 |archive-date=2021-01-10 |archive-url=https://web.archive.org/web/20210110034519/https://www.gso.gov.vn/phuong-phap-thong-ke/danh-muc/don-vi-hanh-chinh/ |url-status=dead }}</ref>
+| mã bưu chính = 
+|logo=Biểu trưng huyện Yên Lạc, tỉnh Vĩnh Phúc, Việt Nam.svg
+|ghi chú logo=Biểu trưng
+|loại đô thị=|năm công nhận=}}
+{{other|Yên Lạc (định hướng)}}
+'''Yên Lạc''' là một [[Xã (Việt Nam)|xã]] thuộc tỉnh [[Phú Thọ]], [[Việt Nam]].
+
+==Địa lý==
+Xã Yên Lạc có vị trí địa lý:
+* Phía đông giáp xã [[Xuân Lãng, Phú Thọ|Xuân Lãng]]
+* Phía tây giáp xã [[Tề Lỗ, Phú Thọ|Tề Lỗ]]
+* Phía bắc giáp phường [[Vĩnh Yên (phường)|Vĩnh Yên]]
+* Phía nam giáp xã [[Tam Hồng, Phú Thọ|Tam Hồng]] và xã [[Nguyệt Đức]]
+
+Xã có diện tích 21,70&nbsp;km², dân số năm 2025 là 39.730 người, mật độ dân số đạt {{formatnum:{{#expr:floor({{formatnum:39.730| R}}/{{formatnum:21,70| R}})}} }} người/km²
+
+==Hành chính==
+Xã Yên Lạc được chia thành 25 thôn: Chi Chỉ, Cốc Lâm, Cổ Tích, Cung Thượng, Dịch Đồng, Đại Nội, Phú Cường, Vật Cách, Vĩnh Đoài 1, Vĩnh Đoài 2, Vĩnh Đoài 3, Vĩnh Đoài 4, Vĩnh Đông 1, Vĩnh Đông 2, Vĩnh Đông 3, Vĩnh Đông 4, Vĩnh Đông 5, Vĩnh Đông 6, Vĩnh Tiên 1, Vĩnh Tiên 2, Vĩnh Tiên 3, Vĩnh Trung 1, Vĩnh Trung 2, Vĩnh Trung 3, Yên Quán.<ref name=":0">{{Chú thích web |last=Xã Yên Lạc - tỉnh Phú Thọ |date=2026-02-28 |title=Xã Yên Lạc công bố danh sách chính thức những người ứng cử đại biểu Hội đồng nhân dân xã nhiệm kỳ 2026 - 2031 |url=https://web.facebook.com/reel/1461395022059419 |url-status=live |archive-url=https://web.archive.org/web/20260427090807/https://web.facebook.com/reel/1461395022059419 |archive-date=2026-04-27 |access-date=2026-04-27}}</ref>
+
+==Lịch sử==
+Trước kia, địa bàn xã Yên Lạc ngày nay là địa bàn của thị trấn Yên Lạc và các xã Bình Định, Đồng Cương thuộc huyện [[Yên Lạc (huyện)|Yên Lạc]], tỉnh [[Vĩnh Phúc (tỉnh)|Vĩnh Phúc]] cũ.
+
+Ngày [[28 tháng 5]] năm [[1997]], [[Chính phủ Việt Nam|Chính phủ]] ban hành Nghị định 53-CP năm 1997 về việc thành lập thị trấn Yên Lạc trên cơ sở giải thể xã Minh Tân.<ref>[https://m.thuvienphapluat.vn/van-ban/bat-dong-san/Nghi-dinh-53-CP-thanh-lap-thi-tran-Yen-Lac-thuoc-huyen-Yen-Lac-tinh-Vinh-Phuc-40671.aspx/ Nghị định 53-CP năm 1997 về việc thành lập thị trấn Yên Lạc thuộc huyện Yên Lạc]</ref>
+
+Ngày [[12 tháng 6]] năm [[2025]], [[Quốc hội Việt Nam|Quốc hội]] ban hành Nghị quyết số 202/2025/QH15 về việc sắp xếp đơn vị hành chính cấp tỉnh (nghị quyết có hiệu lực từ ngày [[12 tháng 6]] năm [[2025]]).<ref>{{Chú thích web |last=xaydungchinhsach.chinhphu.vn |date=2025-07-16 |title=TOÀN VĂN: Nghị quyết số 202/2025/QH15 về sắp xếp đơn vị hành chính cấp tỉnh |url=https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-202-2025-qh15-ve-sap-xep-don-vi-hanh-chinh-cap-tinh-119250612174148722.htm |access-date=2026-07-25 |website=Báo Điện tử Chính phủ |language=vi|url-status=live|archive-url=http://web.archive.org/web/20260705025431/https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-202-2025-qh15-ve-sap-xep-don-vi-hanh-chinh-cap-tinh-119250612174148722.htm|archive-date=2026-07-05}}</ref> Theo đó, sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của tỉnh [[Vĩnh Phúc (tỉnh)|Vĩnh Phúc]], tỉnh [[Hòa Bình (tỉnh)|Hòa Bình]] và tỉnh [[Phú Thọ]] thành tỉnh mới có tên gọi là tỉnh '''Phú Thọ'''.
+
+Ngày [[16 tháng 6]] năm [[2025]]:
+
+* Quốc hội ban hành Nghị quyết số 203/2025/QH15 về việc sửa đổi, bổ sung một số điều của Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam (nghị quyết có hiệu lực từ ngày [[16 tháng 6]] năm [[2025]]).<ref>{{Chú thích web |last=xaydungchinhsach.chinhphu.vn|date=2025-06-28|title=NGHỊ QUYẾT 203/2025/QH15 SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA HIẾN PHÁP NƯỚC CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM|url=https://xaydungchinhsach.chinhphu.vn/nghi-quyet-203-2025-qh15-sua-doi-bo-sung-mot-so-dieu-cua-hien-phap-nuoc-cong-hoa-xa-hoi-chu-nghia-viet-nam-119250616181735552.htm|url-status=live|archive-url=http://web.archive.org/web/20260715200606/https://xaydungchinhsach.chinhphu.vn/nghi-quyet-203-2025-qh15-sua-doi-bo-sung-mot-so-dieu-cua-hien-phap-nuoc-cong-hoa-xa-hoi-chu-nghia-viet-nam-119250616181735552.htm|archive-date=2026-07-15|access-date=2026-07-15|website=Báo Điện tử Chính phủ|language=vi}}</ref> Theo đó, kết thúc hoạt động của đơn vị hành chính cấp huyện trong cả nước từ ngày 1 tháng 7 năm 2025.
+
+* [[Ủy ban Thường vụ Quốc hội]] ban hành Nghị quyết số 1676/NQ-UBTVQH15 về việc sắp xếp đơn vị hành chính cấp xã của tỉnh [[Phú Thọ]] năm 2025 (nghị quyết có hiệu lực từ ngày [[16 tháng 6]] năm [[2025]]).<ref>{{Chú thích web |last=xaydungchinhsach.chinhphu.vn |date=2025-06-20 |title=Nghị quyết số 1676/NQ-UBTVQH15 sắp xếp các ĐVHC cấp xã của tỉnh Phú Thọ năm 2025 |url=https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-1676-nq-ubtvqh15-sap-xep-cac-dvhc-cap-xa-cua-tinh-phu-tho-nam-2025-119250616204317326.htm |url-status=live |archive-url=http://web.archive.org/web/20260725082021/https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-1676-nq-ubtvqh15-sap-xep-cac-dvhc-cap-xa-cua-tinh-phu-tho-nam-2025-119250616204317326.htm |archive-date=2026-07-25 |access-date=2026-07-25 |website=Báo Điện tử Chính phủ |language=vi}}</ref> Theo đó, sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của thị trấn Yên Lạc, xã Bình Định và xã Đồng Cương thành một xã mới có tên gọi là '''xã Yên Lạc.'''
+
+Sau khi thành lập, xã Yên Lạc được chia thành 25 thôn: Chi Chỉ, Cốc Lâm, Cổ Tích, Cung Thượng, Dịch Đồng, Đại Nội, Phú Cường, Vật Cách, Vĩnh Đoài 1, Vĩnh Đoài 2, Vĩnh Đoài 3, Vĩnh Đoài 4, Vĩnh Đông 1, Vĩnh Đông 2, Vĩnh Đông 3, Vĩnh Đông 4, Vĩnh Đông 5, Vĩnh Đông 6, Vĩnh Tiên 1, Vĩnh Tiên 2, Vĩnh Tiên 3, Vĩnh Trung 1, Vĩnh Trung 2, Vĩnh Trung 3, Yên Quán.<ref name=":0" />
+
+Ngày [[24 tháng 12]] năm [[2025]], Ủy ban Thường vụ Quốc hội ban hành Nghị quyết số 111/2025/UBTVQH15 về phân loại đô thị (nghị quyết có hiệu lực từ ngày [[1 tháng 1]] năm [[2026]]).<ref>{{Chú thích web |last=xaydungchinhsach.chinhphu.vn |date=2026-01-21 |title=Nghị quyết số 111/2025/UBTVQH15 về phân loại đô thị |url=https://xaydungchinhsach.chinhphu.vn/nghi-quyet-so-111-2025-ubtvqh15-ve-phan-loai-do-thi-119260101170432239.htm |access-date=2026-07-23 |website=xaydungchinhsach.chinhphu.vn |language=vi}}</ref> Theo đó, đô thị loại IV, loại V, thị xã và thị trấn trước khi sắp xếp chưa được công nhận loại đô thị được xác định là đô thị loại III. Một phần xã Yên Lạc được xác định là đô thị loại III (từ đô thị loại V của thị trấn Yên Lạc cũ).
+
+==Văn hóa==
+Xã Yên Lạc khi xưa là căn cứ chiếm đóng của sứ quân [[Nguyễn Khoan]], một tướng trong thời [[loạn 12 sứ quân]]. Ngày nay, [[khu di tích đền Gia Loan - chùa Biện Sơn]] - Đồng Đậu là điểm đến không thể bỏ qua của du khách khi về với Yên Lạc.
+
+==Danh nhân==
+* [[Kim Ngọc]]
+* [[Nguyễn Khoan]]
+
+==Chú thích==
+{{Tham khảo|30em}}
+==Tham khảo==
+{{sơ khai Phú Thọ}}
+{{Đơn vị hành chính thuộc tỉnh Phú Thọ}}

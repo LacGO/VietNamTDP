@@ -1,0 +1,92 @@
+{{Thông tin đơn vị hành chính Việt Nam|Xã
+| tên = Thịnh Minh
+| hình =Newone - VinFast charging station Hoa Binh 01.jpg 
+| ghi chú hình =Trạm sạc ô tô điện VinFast tại cây xăng Yên Quang, xã Thịnh Minh 
+| vĩ độ = 20.956678458121207
+| kinh độ = 105.35204124176539
+| diện tích = 89,21 km²
+| dân số = 19.198 người
+| thời điểm dân số = 2025
+| mật độ dân số = {{formatnum:{{#expr:floor({{formatnum:19.198| R}}/{{formatnum:89,21| R}})}} }} người/km²
+| vùng = [[Đông Bắc Bộ]]
+| tỉnh = [[Phú Thọ]]
+| thành lập = 16/6/2025
+| trụ sở UBND =xóm Xạ Múc 
+| mã hành chính =04897 
+| mã bưu chính =36127 
+|web={{url|thinhminh.phutho.gov.vn}}
+}}
+
+'''Thịnh Minh''' là một [[Xã (Việt Nam)|xã]] thuộc tỉnh [[Phú Thọ]], [[Việt Nam]].
+
+==Địa lý==
+Xã Thịnh Minh có vị trí địa lý:
+*Phía bắc giáp xã [[Ba Vì, Hà Nội|Ba Vì]] và xã [[Yên Bài]], thành phố [[Hà Nội]].
+*Phía nam giáp phường [[Kỳ Sơn (phường)|Kỳ Sơn]].
+*Phía đông giáp xã [[Yên Xuân, Hà Nội|Yên Xuân]], thành phố [[Hà Nội]].
+*Phía tây giáp phường [[Tân Hòa, Phú Thọ|Tân Hòa]] và xã [[Yên Sơn, Phú Thọ|Yên Sơn]] với ranh giới tự nhiên là [[sông Đà]].
+
+==Hành chính==
+Xã Thịnh Minh được chia thành 29 xóm: Bu Chằm, Đình Đa, Đoàn Kết 1, Đoàn Kết 2, Đồng Bài, Độc Lập, Giếng 1, Giếng 2, Hải Cao, Hạnh Phúc, Mè, Mom, Mon, Mỏ Ngô, Nhả, Quốc, Quyết Tiến, Rợn, Tân Lập, Tân Thành, Tân Thịnh, Thông, Tôm, Trung Mường, Trung Thành, Văn Minh, Vân Nam, Vật Lại, Xạ Múc.<ref>{{Chú thích web |last=Ủy ban nhân dân xã Thịnh Minh |date=2026-01-16 |title=Quyết định số 37/QĐ-UBND về việc phân chia khu vực bỏ phiếu bầu cử đại biểu Quốc hội khóa XVI và đại biểu Hội đồng nhân dân các cấp nhiệm kỳ 2026 - 2031 xã Thịnh Minh |url=https://thinhminh-api.phutho.gov.vn/Uploads/Documents/1318/2026/01/29/Q%C4%90%2037-%20UBND%20ph%C3%A2n%20chia%20khu%20v%E1%BB%B1c%20b%E1%BB%8F%20phi%E1%BA%BFu.pdf |url-status=live |archive-url=https://web.archive.org/web/20260425090807/https://thinhminh-api.phutho.gov.vn/Uploads/Documents/1318/2026/01/29/Q%C4%90%2037-%20UBND%20ph%C3%A2n%20chia%20khu%20v%E1%BB%B1c%20b%E1%BB%8F%20phi%E1%BA%BFu.pdf |archive-date=2026-04-25 |access-date=2026-04-25 |website=Trang Thông tin điện tử xã Thịnh Minh - tỉnh Phú Thọ}}</ref><ref name=":1">{{Chú thích web |last=Bộ Dân tộc và Tôn giáo |date=2026-01-29 |title=Danh sách Thôn vùng đồng bào dân tộc thiểu số và miền núi, thôn đặc biệt khó khăn giai đoạn 2026 - 2030 trên địa bàn tỉnh Phú Thọ |url=http://files.ubdt.gov.vn/files/ecm/source_files/2026/02/05/11252411_4.%20Ph%C3%BA%20Th%E1%BB%8D%201%20(th%C3%B4n).signed_26-02-05.pdf |url-status=live |archive-url=https://web.archive.org/web/20260417090807/http://files.ubdt.gov.vn/files/ecm/source_files/2026/02/05/11252411_4.%20Ph%C3%BA%20Th%E1%BB%8D%201%20(th%C3%B4n).signed_26-02-05.pdf |archive-date=2026-04-17 |access-date=2026-04-17 |website=Cổng Thông tin điện tử Bộ Dân tộc và Tôn giáo}}</ref>
+
+==Lịch sử==
+Địa bàn xã Thịnh Minh hiện nay trước đây vốn là các xã Hợp Thành, Quang Tiến và Thịnh Minh thuộc thành phố [[Hòa Bình (thành phố)|Hòa Bình]], tỉnh [[Hòa Bình (tỉnh)|Hòa Bình]] cũ.
+
+Xã Yên Quang vốn thuộc huyện [[Lương Sơn (huyện)|Lương Sơn]], được chuyển về huyện Kỳ Sơn vào [[tháng 10]] năm [[1948]].<ref name=":02" />
+
+Ngày [[22 tháng 1]] năm [[1957]], xã Phúc Tiến thuộc huyện [[Kỳ Sơn (huyện Hòa Bình)|Kỳ Sơn]] được thành lập trên cơ sở tách một phần diện tích và dân số của xã Mông Hóa.<ref name=":0">{{chú thích sách |url=https://www.google.com/books/edition/Địa_ch%C3%AD_Hòa_Bình/jUZRAQAAMAAJ |year=2005 |isbn= |doi= |id= |tác giả= |tựa đề=Địa chí Hòa Bình |nhà xuất bản=Nhà xuất bản Chính trị quốc gia |nơi= |trang=834}}</ref>
+
+[[Tháng 12]] năm [[1955]], xã Hợp Thịnh và xã Phú Minh thuộc huyện [[Kỳ Sơn (huyện Hòa Bình)|Kỳ Sơn]] được thành lập trên cơ sở một phần diện tích và dân số của xã Phú Cường cũ.<ref>{{chú thích sách|tác giả=|tựa đề=Kỳ Sơn, lịch sử kháng chiến chống thực dân Pháp và đế quốc Mỹ (1945-1975)|nhà xuất bản=Nhà xuất bản Quân đội nhân dân|year=2003|nơi=|trang=11|url=https://www.google.com/books/edition/Kỳ_Sơn_lịch_sử_kháng_chié̂n_ch/T2RQAQAAMAAJ|doi=|id=|isbn=}}</ref>
+
+Ngày [[10 tháng 11]] năm [[1956]], Ủy ban kháng chiến hành chính Liên khu 3 ban hành quyết định chia xã Yên Quang thành 3 xã: Yên Bình, Yên Quang và Yên Trung (địa bàn các xã Yên Bình và Yên Trung hiện nay thuộc xã [[Yên Xuân, Hà Nội|Yên Xuân]], thành phố [[Hà Nội]]).<ref>{{chú thích sách |url=https://www.google.com/books/edition/Địa_ch%C3%AD_Hòa_Bình/jUZRAQAAMAAJ |year=2005 |isbn= |doi= |id= |tác giả= |tựa đề=Địa chí Hòa Bình |nhà xuất bản=Nhà xuất bản Chính trị quốc gia |nơi= |trang=312}}</ref>
+
+Ngày [[27 tháng 2]] năm [[1961]], xã Yên Quang được chuyển trở lại huyện Lương Sơn.<ref>{{chú thích sách |url=https://www.google.com/books/edition/Tỏ̂ng_mục_lục_văn_bản_quy_ph/0acOAQAAMAAJ |year=2003 |isbn= |doi= |id= |tác giả= |tựa đề=Tổng mục lục văn bản quy phạm pháp luật Việt Nam, 1945-2002 |nhà xuất bản=Nhà xuất bản Chính trị quốc gia |nơi= |trang=345}}</ref>
+
+Đến ngày [[14 tháng 7]] năm [[2009]], [[Chính phủ Việt Nam|Chính phủ]] ban hành Nghị quyết số 31/NQ-CP về việc điều chỉnh địa giới hành chính một số huyện và thành phố Hòa Bình, tỉnh Hòa Bình.<ref>{{Chú thích web |last=Cổng Thông tin điện tử Chính phủ |first= |title=Nghị quyết số 31/NQ-CP của Chính phủ: Về việc điều chỉnh địa giới hành chính một số huyện và thành phố Hòa Bình, tỉnh Hòa Bình |url=http://vanban.chinhphu.vn/default.aspx?pageid=27160&docid=91258 |access-date=2026-07-17 |website=vanban.chinhphu.vn |language=vi}}</ref> Theo đó, xã Yên Quang lại được chuyển về huyện Kỳ Sơn.
+
+Đến năm [[2018]]:
+
+* Xã Phú Minh có diện tích 19,91&nbsp;km², dân số là 2.555 người, mật độ dân số đạt 128 người/km².
+* Xã Hợp Thịnh có diện tích 10,47&nbsp;km², dân số là 4.129 người, mật độ dân số đạt 394 người/km².
+* Xã Phúc Tiến có diện tích 17,89&nbsp;km², dân số là 1.900 người, mật độ dân số đạt 106 người/km².
+* Xã Yên Quang có diện tích 22,40&nbsp;km², dân số là 4.330 người, mật độ dân số đạt 193 người/km².
+
+Ngày [[17 tháng 12]] năm [[2019]], [[Ủy ban Thường vụ Quốc hội]] ban hành Nghị quyết số 830/NQ-UBTVQH14 về việc sắp xếp các đơn vị hành chính cấp huyện, cấp xã thuộc tỉnh Hòa Bình (nghị quyết có hiệu lực từ ngày [[1 tháng 1]] năm [[2020]]).<ref name="NQ830">{{Chú thích web|url=https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/Nghi-quyet-830-NQ-UBTVQH14-2019-sap-xep-don-vi-hanh-chinh-cap-huyen-xa-thuoc-tinh-Hoa-Binh-432100.aspx|tựa đề=Nghị quyết số 830/NQ-UBTVQH14 năm 2019 về việc sắp xếp các đơn vị hành chính cấp huyện, cấp xã thuộc tỉnh Hòa Bình|tác giả=|họ=|tên=|ngày=|website=|url lưu trữ=|ngày lưu trữ=|ngày truy cập=}}</ref> Theo đó:
+*Sáp nhập toàn bộ diện tích và dân số của huyện Kỳ Sơn vào thành phố Hòa Bình
+*Sáp nhập toàn bộ diện tích và dân số của xã Hợp Thịnh và xã Phú Minh thành xã Thịnh Minh.
+*Sáp nhập toàn bộ diện tích và dân số của xã Yên Quang và xã Phúc Tiến thành xã Quang Tiến.
+Ngày [[12 tháng 6]] năm [[2025]], [[Quốc hội Việt Nam|Quốc hội]] ban hành Nghị quyết số 202/2025/QH15<ref name="202/2025/QH15">{{Chú thích web |ngày=2025-06-12 |tựa đề=Nghị quyết số 202/2025/QH15 về việc sắp xếp đơn vị hành chính cấp tỉnh |url=https://quochoi.vn/tintuc/Pages/tin-hoat-dong-cua-quoc-hoi.aspx?ItemID=94532 |url-status=live |url lưu trữ=https://web.archive.org/web/20250612150244/https://quochoi.vn/tintuc/Pages/tin-hoat-dong-cua-quoc-hoi.aspx?ItemID=94532 |ngày lưu trữ=2025-06-12 |ngày truy cập=2025-06-12 |website=Cổng thông tin điện tử Quốc hội Việt Nam}}</ref> về việc sắp xếp đơn vị hành chính cấp tỉnh (nghị quyết có hiệu lực từ ngày 12 tháng 6 năm 2025). Theo đó, sáp nhập tỉnh [[Hòa Bình (tỉnh)|Hòa Bình]] và tỉnh [[Vĩnh Phúc (tỉnh)|Vĩnh Phúc]] vào tỉnh [[Phú Thọ]]. Xã Thịnh Minh thuộc tỉnh Phú Thọ.
+
+Ngày [[16 tháng 6]] năm [[2025]]:
+
+* Quốc hội ban hành Nghị quyết số 203/2025/QH15 về việc sửa đổi, bổ sung một số điều của Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam (nghị quyết có hiệu lực từ ngày [[16 tháng 6]] năm [[2025]]).<ref>{{Chú thích web|last=xaydungchinhsach.chinhphu.vn|date=2025-06-28|title=NGHỊ QUYẾT 203/2025/QH15 SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA HIẾN PHÁP NƯỚC CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM|url=https://xaydungchinhsach.chinhphu.vn/nghi-quyet-203-2025-qh15-sua-doi-bo-sung-mot-so-dieu-cua-hien-phap-nuoc-cong-hoa-xa-hoi-chu-nghia-viet-nam-119250616181735552.htm|url-status=live|archive-url=https://web.archive.org/web/20260715200606/https://xaydungchinhsach.chinhphu.vn/nghi-quyet-203-2025-qh15-sua-doi-bo-sung-mot-so-dieu-cua-hien-phap-nuoc-cong-hoa-xa-hoi-chu-nghia-viet-nam-119250616181735552.htm|archive-date=2026-07-15|access-date=2026-07-15|website=Báo Điện tử Chính phủ|language=vi}}</ref> Theo đó, kết thúc hoạt động của đơn vị hành chính cấp huyện trong cả nước từ ngày 1 tháng 7 năm 2025.
+* Ủy ban Thường vụ Quốc hội ban hành Nghị quyết số 1676/NQ-UBTVQH15 về việc sắp xếp các đơn vị hành chính cấp xã của tỉnh Phú Thọ năm 2025 (nghị quyết có hiệu lực từ ngày [[16 tháng 6]] năm [[2025]]).<ref>{{Chú thích web |last=xaydungchinhsach.chinhphu.vn |date=2025-06-20 |title=Nghị quyết số 1676/NQ-UBTVQH15 sắp xếp các ĐVHC cấp xã của tỉnh Phú Thọ năm 2025 |url=https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-1676-nq-ubtvqh15-sap-xep-cac-dvhc-cap-xa-cua-tinh-phu-tho-nam-2025-119250616204317326.htm |access-date=2025-09-07 |website=xaydungchinhsach.chinhphu.vn |language=vi}}</ref> Theo đó, sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của các xã Hợp Thành, Quang Tiến và Thịnh Minh (thành phố [[Hòa Bình (thành phố)|Hòa Bình]]) thành xã mới có tên gọi là '''xã Thịnh Minh'''.<!-- 
+==Lịch sử==
+Địa bàn xã Quang Tiến hiện nay trước đây vốn là hai xã Yên Quang và Phúc Tiến thuộc huyện [[Kỳ Sơn (huyện Hòa Bình)|Kỳ Sơn]] cũ.
+
+Xã Phúc Tiến được thành lập vào ngày [[22 tháng 1]] năm [[1957]] trên cơ sở tách một phần diện tích và dân số của xã Mông Hóa.<ref name=":0">{{chú thích sách|tác giả=|tựa đề=Địa chí Hòa Bình|nhà xuất bản=Nhà xuất bản Chính trị quốc gia|year=2005|nơi=|trang=834|url=https://www.google.com/books/edition/Địa_ch%C3%AD_Hòa_Bình/jUZRAQAAMAAJ|doi=|id=|isbn=}}</ref>
+
+Xã Yên Quang vốn thuộc huyện [[Lương Sơn (huyện)|Lương Sơn]], được chuyển về huyện Kỳ Sơn vào [[tháng 10]] năm [[1948]].<ref name=":0" /> Ngày [[10 tháng 11]] năm [[1956]], Ủy ban kháng chiến hành chính Liên khu 3 ban hành quyết định chia xã Yên Quang thành 3 xã: Yên Bình, Yên Quang và Yên Trung (các xã [[Yên Xuân, Hà Nội|Yên Bình]] và [[Yên Xuân, Hà Nội|Yên Trung]] hiện nay thuộc huyện [[Thạch Thất (huyện)|Thạch Thất]], thành phố Hà Nội).<ref>{{chú thích sách|tác giả=|tựa đề=Địa chí Hòa Bình|nhà xuất bản=Nhà xuất bản Chính trị quốc gia|year=2005|nơi=|trang=312|url=https://www.google.com/books/edition/Địa_ch%C3%AD_Hòa_Bình/jUZRAQAAMAAJ|doi=|id=|isbn=}}</ref>
+
+Ngày [[27 tháng 2]] năm [[1961]], xã Yên Quang được chuyển trở lại huyện Lương Sơn.<ref>{{chú thích sách|tác giả=|tựa đề=Tổng mục lục văn bản quy phạm pháp luật Việt Nam, 1945-2002|nhà xuất bản=Nhà xuất bản Chính trị quốc gia|year=2003|nơi=|trang=345|url=https://www.google.com/books/edition/Tỏ̂ng_mục_lục_văn_bản_quy_ph/0acOAQAAMAAJ|doi=|id=|isbn=}}</ref> Đến ngày [[14 tháng 7]] năm [[2009]], xã Yên Quang lại được chuyển về huyện Kỳ Sơn.<ref>{{Chú thích web|url=https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/Nghi-quyet-31-NQ-CP-dieu-chinh-dia-gioi-hanh-chinh-huyen-va-thanh-pho-Hoa-Binh-tinh-Hoa-Binh-91385.aspx|tựa đề=Nghị quyết số 31/NQ-CP về việc điều chỉnh địa giới hành chính một số huyện và thành phố Hòa Bình, tỉnh Hòa Bình|tác giả=|họ=|tên=|ngày=|website=|url lưu trữ=|ngày lưu trữ=|ngày truy cập=}}</ref>
+
+Đến năm 2018, xã Phúc Tiến có diện tích 17,89&nbsp;km², dân số là 1.900 người, mật độ dân số đạt 106 người/km²; xã Yên Quang có diện tích 22,40&nbsp;km², dân số là 4.330 người, mật độ dân số đạt 193 người/km².
+
+Ngày [[17 tháng 12]] năm [[2019]], Ủy ban Thường vụ Quốc hội ban hành Nghị quyết số 830/NQ-UBTVQH14 về việc sắp xếp các đơn vị hành chính cấp huyện, cấp xã thuộc tỉnh Hòa Bình (nghị quyết có hiệu lực từ ngày [[1 tháng 1]] năm [[2020]]).<ref name=NQ830>{{Chú thích web|url=https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/Nghi-quyet-830-NQ-UBTVQH14-2019-sap-xep-don-vi-hanh-chinh-cap-huyen-xa-thuoc-tinh-Hoa-Binh-432100.aspx|tựa đề=Nghị quyết số 830/NQ-UBTVQH14 năm 2019 về việc sắp xếp các đơn vị hành chính cấp huyện, cấp xã thuộc tỉnh Hòa Bình|tác giả=|họ=|tên=|ngày=|website=|url lưu trữ=|ngày lưu trữ=|ngày truy cập=}}</ref> Theo đó:
+*Sáp nhập toàn bộ diện tích và dân số của huyện Kỳ Sơn vào thành phố Hòa Bình
+*Sáp nhập toàn bộ diện tích và dân số của xã Yên Quang và xã Phúc Tiến thành xã Quang Tiến.
+ -->
+
+== Dân cư ==
+Tính đến năm 2025, xã Thịnh Minh có diện tích tự nhiên 89,21&nbsp;km², dân số 19.198 người. Trên địa bàn xã, có 6 dân tộc sinh sống, đông nhất là [[người Mường|Mường]] chiếm 81,1%, [[người Kinh|Kinh]] chiếm 17,5%, [[người Thái|Thái]] chiếm 0,5%, [[người Tày|Tày]] chiếm 0,5%, [[người Dao|Dao]] chiếm 0,2%, [[người Nùng|Nùng]] chiếm 0,2%.
+
+==Danh nhân==
+* [[Nguyễn Nhiêu Cốc]] (1930 – 2010) một nhà cách mạng và chính khách người Việt Nam
+
+==Chú thích==
+{{tham khảo|30em}}
+
+==Tham khảo==
+
+{{sơ khai Phú Thọ}}
+{{Đơn vị hành chính thuộc tỉnh Phú Thọ}}

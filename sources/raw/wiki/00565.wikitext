@@ -1,0 +1,184 @@
+{{Thông tin đơn vị hành chính Việt Nam|Xã
+| tên = Gia Lâm
+| hình = Dương Đanh Communal Hall 2014 E1.jpg
+| ghi chú hình = Đình Dương Đanh
+| vĩ độ = 21.015058232426046
+| kinh độ = 105.94236537501598
+| diện tích = 25,72 km²
+| dân số = 90.498 người
+| thời điểm dân số = 2025
+| mật độ dân số = {{formatnum:{{#expr:floor({{formatnum:90.498| R}}/{{formatnum:25,72| R}})}} }} người/km²
+| vùng = [[Đồng bằng sông Hồng]]
+| thành phố = [[Hà Nội]]
+| thành lập = 
+| trụ sở UBND = Số 1 phố Thuận An<ref>{{Chú thích web |url=https://storage-vnportal.vnpt.vn/gov-hni/6244/VanBan/2025/6/25/TB-729-2025.pdf |title=Thông báo số 729/TB-UBND ngày 25 tháng 6 năm 2025 của Ủy ban nhân dân thành phố Hà Nội về địa điểm trụ sở làm việc của 126 phường, xã sau sắp xếp thuộc phạm vi quản lý của thành phố Hà Nội|access-date=2026-06-15 |archive-date=2026-06-15 |archive-url=https://web.archive.org/web/20260615034519/https://storage-vnportal.vnpt.vn/gov-hni/6244/VanBan/2025/6/25/TB-729-2025.pdf |url-status=dead | website = Cổng Thông tin điện tử Ủy ban nhân dân thành phố Hà Nội}}</ref>
+| mã hành chính =00565<ref>{{Chú thích web |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/19ttg.signed.pdf |title=Quyết định số 19/2025/QĐ-TTg ngày 30 tháng 6 năm 2025 của Thủ tướng Chính phủ về việc Ban hành Bảng danh mục và mã số các đơn vị hành chính Việt Nam |access-date=2026-06-15 |archive-date=2026-06-15 |archive-url=https://web.archive.org/web/20260615034519/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/19ttg.signed.pdf |url-status=dead | website = Cổng Thông tin điện tử Chính phủ}}</ref> 
+| mã bưu chính = 
+| web = {{url|gialam.hanoi.gov.vn}}
+|bản đồ 1={{maplink|frame=yes|plain=yes|type=shape|frame-width=280|frame-align=center|stroke-width=3}}|trụ sở Đảng ủy=Số 1 phố Thuận An}}
+{{other|Gia Lâm (định hướng)}}
+'''Gia Lâm''' là một [[Xã (Việt Nam)|xã]] thuộc thành phố [[Hà Nội]], [[Việt Nam]].
+
+== Địa lý ==
+Xã Gia Lâm có vị trí địa lý:
+
+* Phía đông xã [[Thuận An, Hà Nội|Thuận An]] và xã [[Như Quỳnh (xã)|Như Quỳnh]] thuộc tỉnh [[Hưng Yên]]
+* Phía tây giáp phường [[Phúc Lợi (phường)|Phúc Lợi]], phường [[Long Biên (phường)|Long Biên]] và xã [[Bát Tràng]]
+* Phía nam giáp xã [[Phụng Công]] thuộc tỉnh [[Hưng Yên]]
+* Phía bắc giáp xã [[Phù Đổng (xã)|Phù Đổng]] với ranh giới tự nhiên là [[sông Đuống]].<ref>{{Chú thích web|last=Viện nghiên cứu Phát triển kinh tế – xã hội Hà Nội|date=2025-07-02|title=Xã Gia Lâm: Những thông tin chi tiết sau sắp xếp|url=https://hanoionline.vn/xa-gia-lam-nhung-thong-tin-chi-tiet-sau-sap-xep-343980.htm|url-status=bot: unknown|archive-url=https://web.archive.org/web/20250917111830/https://hanoionline.vn/xa-gia-lam-nhung-thong-tin-chi-tiet-sau-sap-xep-343980.htm|archive-date=2025-09-17|access-date=2026-07-01|website=Cơ quan Báo và Phát thanh Truyền hình Hà Nội}}</ref><ref>{{Chú thích web |last=Cơ quan Báo và Phát thanh Truyền hình Hà Nội|date=2025-07-04|title=Xã Gia Lâm: Tất cả thông tin chỉ dẫn bạn cần biết|url=https://hanoionline.vn/xa-gia-lam-tat-ca-thong-tin-chi-dan-ban-can-biet-345352.htm|url-status=live|archive-url=https://web.archive.org/web/20260711401509/https://hanoionline.vn/xa-gia-lam-tat-ca-thong-tin-chi-dan-ban-can-biet-345352.htm|archive-date=2026-07-11|access-date=2026-07-11}}</ref>
+Xã Gia Lâm có diện tích tự nhiên là 25,72 km<sup>2</sup>, quy mô dân số năm 2025 là 90.498 người và mật độ dân số đạt 3.518 người/km<sup>2</sup>.<ref>{{Chú thích web |last=Mai Hữu|date=2026-04-05|title=Hà Nội: Chi tiết phương án tổng thể sắp xếp đơn vị hành chính cấp xã|url=https://hanoimoi.vn/ha-noi-chi-tiet-phuong-an-tong-the-sap-xep-don-vi-hanh-chinh-cap-xa-700278.html|url-status=live|archive-url=https://web.archive.org/web/20260711401509/https://hanoimoi.vn/ha-noi-chi-tiet-phuong-an-tong-the-sap-xep-don-vi-hanh-chinh-cap-xa-700278.html|archive-date=2026-07-11|access-date=2026-07-11|website=Cơ quan Báo và Phát thanh, truyền hình Hà Nội}}</ref><ref>Công văn số 2896/BNV-CQĐP ngày 27 tháng 5 năm 2025 của Bộ Nội vụ về việc cung cấp thông tin danh mục dự kiến đơn vị hành chính cấp xã mới.</ref>
+
+== Lịch sử==
+
+=== Trước năm 1976 ===
+Trước kia vùng đất huyện Gia Lâm thuộc phủ Thuận An, rồi phủ Thuận Thành, tỉnh Bắc Ninh.<ref name="ĐA" /> Dưới thời [[nhà Lý]], huyện Gia Lâm thuộc phủ Thiên Đức, đến [[thời Trần]] thuộc lộ Bắc Giang. Từ thời [[Hậu Lê]], huyện Gia Lâm thuộc phủ Thuận An, trấn Kinh Bắc.<ref name=":0" />
+
+Năm 1831, vua Minh Mạng cho đổi trấn Kinh Bắc thành tỉnh [[Bắc Ninh]]. Huyện Gia Lâm lúc này thuộc phủ Thuận An, tỉnh Bắc Ninh, gồm có 10 tổng (79 thôn, sở) là các tổng: Cổ Biện, Kim Sơn, Đặng Xá, Gia Thuỵ, Đông Dư, Đa Tốn, Cự Linh, Nghĩa Trai, Như Kinh và Lạc Đạo.<ref name=":0" /> Năm 1862, phủ Thuận An được đổi tên thành phủ [[Thuận Thành (thị xã)|Thuận Thành]], từ đó huyện Gia Lâm thuộc phủ Thuận Thành, tỉnh Bắc Ninh cho đến năm 1945. Năm 1890, [[Toàn quyền Đông Dương]] ban hành Nghị định về việc thành lập đạo Bãi Sậy, lúc này 3 tổng: Nghĩa Trai, Như Kinh và Lạc Đạo được chuyển về huyện [[Văn Lâm]] thuộc đạo Bãi Sậy. Sau [[Cách mạng Tháng Tám]], huyện Gia Lâm thuộc tỉnh Bắc Ninh gồm 20 xã: Bát Tràng, Bồ Đề, Cổ Bi, Cự Khối, Đa Tốn, Đặng Xá, Đông Dư, Gia Thụy, Giang Biên, Hội Xá, Kiêu Kỵ, Kim Lan, Kim Sơn, Lệ Chi, Long Biên, Ngọc Thụy, Phú Thị, Thạch Bàn, Thượng Thanh, Việt Hưng.
+
+Ngày 31 tháng 5 năm 1961, sáp nhập huyện Gia Lâm, thị trấn Yên Viên và 6 xã: Đình Xuyên, Dương Hà, Ninh Hiệp, Trâu Quỳ, Yên Thường, Yên Viên của huyện [[Từ Sơn (thành phố)|Từ Sơn]], tỉnh Bắc Ninh; 2 xã Phù Đổng và Trung Mầu của huyện [[Tiên Du (huyện)|Tiên Du]], tỉnh Bắc Ninh; 2 xã Dương Quang và Dương Xá của huyện [[Thuận Thành (thị xã)|Thuận Thành]], tỉnh Bắc Ninh; xã Văn Đức của huyện [[Văn Giang (huyện)|Văn Giang]], tỉnh [[Hưng Yên]] vào thành phố [[Hà Nội]]. Đồng thời, thành lập thị trấn Gia Lâm (thị trấn huyện lỵ của huyện Gia Lâm) trên cơ sở tách một phần của xã Bồ Đề.
+
+=== Giai đoạn 1976 – nay ===
+Sau ngày 2 tháng 7 năm 1976, 8 xã: Cổ Bi, Dương Xá, Đa Tốn, Đông Dư, Kiêu Kỵ, Phú Thị, Thạch Bàn và Trâu Quỳ thuộc huyện [[Gia Lâm (huyện)|Gia Lâm]] của thành phố [[Hà Nội]].
+
+Ngày 6 tháng 11 năm 2003:
+
+* Tách toàn bộ diện tích tự nhiên và dân số của xã Thạch Bàn thuộc huyện [[Gia Lâm (huyện)|Gia Lâm]] về quận [[Long Biên (quận)|Long Biên]] mới thành lập.
+* Thành lập phường Thạch Bàn trên cơ sở toàn bộ diện tích tự nhiên và dân số của xã Thạch Bàn.<ref>Nghị định số 132/2003/NĐ-CP ngày 6 tháng 11 năm 2003 của Chính phủ về việc điều chỉnh địa giới hành chính để thành lập các quận Long Biên, Hoàng Mai, thành lập các phường trực thuộc quận Long Biên, quận Hoàng Mai, thành phố Hà Nội.</ref>
+
+Ngày 5 tháng 1 năm 2005, thành lập thị trấn Trâu Quỳ – thị trấn huyện lỵ huyện [[Gia Lâm (huyện)|Gia Lâm]] trên cơ sở toàn bộ diện tích tự nhiên và dân số của xã Trâu Quỳ.<ref>{{Chú thích web |tựa đề=Nghị định số 2/2005/NĐ-CP ngày 5 tháng 1 năm 2005 của Chính phủ về việc điều chỉnh địa giới hành chính, thành lập phường thuộc các quận Ba Đình, Cầu Giấy và thành lập thị trấn Trâu Quỳ, huyện Gia Lâm, thành phố Hà Nội |url=https://chinhphu.vn/default.aspx?pageid=27160&docid=14306 |url-status=live |archive-url=https://web.archive.org/web/20260709401509/https://chinhphu.vn/default.aspx?pageid=27160&docid=14306 |archive-date=2026-07-09 |access-date=2026-07-09 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+
+Ngày 14 tháng 11 năm 2024:
+
+* Nhập xã Đông Dư (huyện [[Gia Lâm (huyện)|Gia Lâm]]) vào xã Bát Tràng.
+* Thành lập xã Phú Sơn (huyện [[Gia Lâm (huyện)|Gia Lâm]]) trên cơ sở nhập xã Phú Thị và xã Kim Sơn.<ref>{{Chú thích web |tiêu đề=Nghị quyết số 1286/NQ-UBTVQH15 ngày 14 tháng 11 năm 2024 của Ủy ban Thường vụ Quốc hội về việc sắp xếp đơn vị hành chính cấp xã của thành phố Hà Nội giai đoạn 2023 – 2025 |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/11/1286-qh.signed.pdf |url-status=live |archive-url=https://web.archive.org/web/20241121185017/https://quochoi.vn/tintuc/Pages/tin-hoat-dong-cua-quoc-hoi.aspx?ItemID=91149 |ngày lưu trữ=2024-11-21 |ngày truy cập=2024-11-21 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+
+Ngày 16 tháng 6 năm 2025:
+
+* Kết thúc hoạt động của đơn vị hành chính cấp huyện trong cả nước.<ref>{{Chú thích web |last= |date= |title=Nghị quyết số 203/2025/QH15 ngày 16 tháng 6 năm 2025 của Quốc hội khóa XV, Kỳ họp thứ 9 về việc sửa đổi, bổ sung một số điều của Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/nq-sua-doi-hien-phap.pdf |url-status=live |archive-url=https://web.archive.org/web/20260613090807/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/nq-sua-doi-hien-phap.pdf |archive-date=2026-06-13 |access-date=2026-06-13 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+* Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của xã Dương Xá, xã Kiêu Kỵ, một phần diện tích tự nhiên, toàn bộ quy mô dân số của thị trấn Trâu Quỳ (huyện [[Gia Lâm (huyện)|Gia Lâm]]), một phần diện tích tự nhiên, quy mô dân số của phường Thạch Bàn (quận [[Long Biên (quận)|Long Biên]]) và các xã Phú Sơn, Cổ Bi, Đa Tốn, một phần diện tích tự nhiên của xã Bát Tràng (huyện [[Gia Lâm (huyện)|Gia Lâm]]) thành xã mới có tên gọi là xã Gia Lâm.<ref>{{Chú thích web |title=Nghị quyết số 1656/NQ-UBTVQH15 ngày 16 tháng 6 năm 2025 của Ủy ban Thường vụ Quốc hội về việc sắp xếp các đơn vị hành chính cấp xã của thành phố Hà Nội năm 2025 |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf |url-status=bot: unknown |archive-url=https://web.archive.org/web/20260513110024/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf |archive-date=2026-05-13 |access-date=2026-06-30 |website=Cổng Thông tin điện tử Chính phủ }}</ref>
+* Sau khi sắp xếp, xã Gia Lâm được chia thành 36 tổ dân phố – thôn, gồm 17 tổ dân phố và 19 thôn.<ref>8 tổ dân phố – thôn, gồm 2 tổ dân phố: Đường 5, Nội Thương và 6 thôn: Dương Đanh, Dương Đá, Dương Đình, Thuận Quang, Thuận Tiến, Yên Bình của xã Dương Xá cũ; 8 tổ dân phố – thôn, gồm tổ dân phố Liên Cơ và 7 thôn: Báo Đáp, Chu Xá, Gia Cốc, Hoàng Xá, Kiêu Kỵ, Trung Dương, Xuân Thụy của xã Kiêu Kỵ cũ; 11 tổ dân phố: An Đào, An Lạc, Bình Minh, Chính Trung, Cửu Việt, Đào Nguyên, Kiên Thành, Nông Lâm, Thành Trung, Voi Phục và Vườn Dâu của thị trấn Trâu Quỳ cũ; thôn Phú Thụy (trước thuộc xã Phú Thị) của xã Phú Sơn cũ; 8 tổ dân phố – thôn, gồm 3 tổ dân phố: 2, 3 khu đô thị Đặng Xá, Cơ khí và 5 thôn: Cam 1, 2, Hội, Vàng 1, 2 của xã Cổ Bi cũ.</ref><ref>{{Chú thích web |title=Thông tư số 10/2022/TT-BTNMT ngày 29 tháng 9 năm 2022 của Bộ Tài nguyên và Môi trường về việc Ban hành Danh mục địa danh dân cư, sơn văn, thủy văn, kinh tế – xã hội phục vụ công tác thành lập bản đồ thành phố Hà Nội |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2022/10/10-btnmt.pdf |url-status=bot: unknown |archive-url=https://web.archive.org/web/20260630082812/https://datafiles.chinhphu.vn/cpp/files/vbpq/2022/10/10-btnmt.pdf |archive-date=2026-06-30 |access-date=2026-06-30 |website=Cổng Thông tin điện tử Chính phủ }}</ref><ref name=":02">{{Chú thích web |last= |date= |title=Quyết định số 86/QĐ-UBBC ngày 17 tháng 3 năm 2026 của Ủy ban bầu cử xã Gia Lâm về việc công bố kết quả bầu cử đại biểu Hội đồng nhân dân xã Gia Lâm khóa II, nhiệm kỳ 2026 – 2031 |url=https://sqhx-hanoi.mediacdn.vn/91579363132710912/2026/3/17/qd-cong-bo-ket-qua-bau-cu-hdnd-xa-gia-lam-1773763542923743452807.pdf |url-status=bot: unknown |archive-url=https://web.archive.org/web/20260712143454/https://sqhx-hanoi.mediacdn.vn/91579363132710912/2026/3/17/qd-cong-bo-ket-qua-bau-cu-hdnd-xa-gia-lam-1773763542923743452807.pdf |archive-date=2026-07-12 |access-date=2026-07-01 |website=Trang Thông tin điện tử xã Gia Lâm – thành phố Hà Nội }}</ref>
+
+Ngày 24 tháng 12 năm 2025, xác định một phần của xã Gia Lâm là [[Đô thị Việt Nam|đô thị loại II]] và [[Đô thị Việt Nam|đô thị loại III]].<ref>Đô thị loại II (chuyển tiếp từ phường Thạch Bàn thuộc quận Long Biên) và đô thị loại III (chuyển tiếp thị trấn Trâu Quỳ thuộc huyện Gia Lâm).</ref><ref>{{Chú thích web |title=Nghị quyết số 111/2025/UBTVQH15 ngày 24 tháng 12 năm 2025 của Ủy ban Thường vụ Quốc hội về phân loại đô thị |url=https://cdn.nhandan.vn/files/f4a4abf7f9a0ba4a91744616546d850872b76917f90d5a74cc9eebef1369fb6f/111.pdf |url-status=dead |archive-url=https://web.archive.org/web/20260712401509/https://cdn.nhandan.vn/files/f4a4abf7f9a0ba4a91744616546d850872b76917f90d5a74cc9eebef1369fb6f/111.pdf |archive-date=2026-07-12 |access-date=2026-07-12 |website=Báo Nhân dân}}</ref>
+
+Ngày 29 tháng 6 năm 2026, thành lập 9 tổ dân phố mới: Nông Nghiệp, Bình Minh, An Đào, từ 1 đến 3, từ 5 đến 7 và 9 thôn mới: Dương Đình, Thuận Quang, Dương Đanh, Yên Bình, Cam, Vàng, Gia Xuân, Hoàng Chu Báo; đổi tên thôn Phú Thụy thành thôn Phú Thị.<ref>1. Sắp xếp trên cơ sở sáp nhập tổ dân phố Nông Lâm và tổ dân phố Vườn Dâu thành lập tổ dân phố mới có tên gọi là Tổ dân phố Nông Nghiệp; 2. Sắp xếp trên cơ sở sáp nhập tổ dân phố Thành Trung và một phần khu 31ha, Khu Hải Phát, Sông Hồng và Tòa chung cư Blue Star thành lập tổ dân phố mới có tên gọi là Tổ dân phố Thành Trung; 3. Sắp xếp trên cơ sở sáp nhập tổ dân phố Chính Trung và một phần khu 31ha thành lập tổ dân phố mới có tên gọi là Tổ dân phố Chính Trung; 4. Sắp xếp trên cơ sở sáp nhập tổ dân phố Kiên Thành và Khu TQ5, Khu tái định 7,2 ha, TĐC Dốc Hội – ĐHNNI thành lập tổ dân phố mới có tên gọi là Tổ dân phố Kiên Thành; 5. Sắp xếp trên cơ sở sáp nhập tổ dân phố Bình Minh, tổ dân phố Voi Phục và một phần tổ dân phố Cơ Khí (từ đầu đường Cổ Bi đến Trụ sở Công an huyện cũ) thành lập tổ dân phố mới có tên gọi là Tổ dân phố Bình Minh; 6. Sắp xếp trên cơ sở sáp nhập tổ dân phố An Đào, tổ dân phố Đào Nguyên thành lập tổ dân phố mới có tên gọi là Tổ dân phố An Đào; 7. Sắp xếp trên cơ sở sáp nhập thôn Dương Đình và một phần tổ dân phố Đường 5 (khu chợ ngã tư, tập thể 230, ga Phú Thụy, khu tập thể K612) thành lập thôn mới có tên gọi là thôn Dương Đình; 8. Sắp xếp trên cơ sở sáp nhập thôn Thuận Quang, thôn Thuận Tiến và tổ dân phố Nội Thương thành lập thôn mới có tên gọi là thôn Thuận Quang; 9. Sắp xếp trên cơ sở sáp nhập thôn Dương Đanh và một phần tổ dân phố Đường 5 (khu Chăn Nuôi) thành lập thôn mới có tên gọi là thôn Dương Đanh; 10. Sắp xếp trên cơ sở sáp nhập thôn Yên Bình và một phần tổ dân phố Đường 5 (khu B tập thể Z176) thành lập thôn mới có tên gọi là thôn Yên Bình; 11. Sắp xếp trên cơ sở sáp nhập tổ dân phố Số 2, tổ dân phố Số 3 và một phần tổ dân phố Cơ Khí (khu X8, Đồng Âu) thành lập tổ dân phố mới có tên gọi là Tổ dân phố Số 1; 12. Sắp xếp trên cơ sở sáp nhập thôn Cam 1, thôn Cam 2 và một phần tổ dân phố Cơ Khí (khu tập thể Hồng Hà, Khu hồ Rền) thành lập thôn mới có tên gọi là thôn Cam; 13. Sắp xếp trên cơ sở sáp nhập thôn Vàng 1, thôn Vàng 2 và một phần tổ dân phố Cơ Khí (Từ đường lên cầu Thanh Trì đến khu tập thể Nhà máy Cơ khí) thành lập thôn mới có tên gọi là thôn Vàng; 14. Sắp xếp trên cơ sở sáp nhập thôn Xuân Thụy và thôn Gia Cốc thành lập thôn mới có tên gọi là thôn Gia Xuân; 15. Sắp xếp trên cơ sở sáp nhập thôn Hoàng Xá, thôn Chu Xá, thôn Báo Đáp và tổ dân phố Liên Cơ thành lập thôn mới có tên gọi là thôn Hoàng Chu Báo; 16. Sắp xếp trên cơ sở sáp nhập thôn Trung Dương và khu A tập thể Z176, khu tập thể Xí nghiệp dịch vụ Nông nghiệp (Công ty Chiếu sáng Hà Nội) thành lập thôn mới có tên gọi là thôn Trung Dương; 17. Đổi tên thôn Phú Thụy thành thôn Phú Thị; 18. Thành lập tổ dân phố Số 2 tại Khu đô thị Gia Lâm – Vinhomes Ocean Park trên cơ sở được ghép từ các khu nhà ở thấp tầng: Ngọc Trai, Hải Âu, Sao Biển, San hô, nhà chung cư Masteri, các khu thương mại dịch vụ...; 19. Thành lập tổ dân phố Số 3 tại Khu đô thị Gia Lâm – Vinhomes Ocean Park trên cơ sở được ghép toàn bộ Cụm nhà chung cu S1; 20. Thành lập tổ dân phố Số 5 tại Khu đô thị Gia Lâm – Vinhomes Ocean Park trên cơ sở được ghép từ Cụm nhà chung cư S2 (từ S2-01 đến S2-09); 21. Thành lập tổ dân phố Số 6 tại Khu đô thị Gia Lâm – Vinhomes Ocean Park trên cơ sở được ghép từ Cụm nhà chung cư S2 (từ S2-10 đến S2-19); 22. Thành lập tổ dân phố Số 7 tại Khu đô thị Gia Lâm – Vinhomes Ocean Park trên cơ sở được ghép từ các nhà chung cư The Zen Park, Nhà chung cư B5-CT04 (the Pavilion), Tòa nhà The Zurich, Paris, London, Beverly, the Senique, Masteri (đang xây dựng)...; 23. Tổ dân phố Cửu Việt: Giữ nguyên; 24. Tổ dân phố An Lạc: Giữ nguyên; 25. Thôn Dương Đá: Giữ nguyên; 26. Thôn Hội: Giữ nguyên; 27. Thôn Kiêu Kỵ: Giữ nguyên.</ref><ref name=":2">{{Chú thích web |title=Đề án ngày 5 tháng 6 năm 2026 của Ủy ban nhân dân xã Gia Lâm về việc thành lập, sắp xếp thôn, tổ dân phố trên địa bàn xã Gia Lâm, thành phố Hà Nội |url=https://sqhx-hanoi.mediacdn.vn/91579363132710912/2026/6/9/0562026du-thao-de-an-sap-xep-thon-tdp-2026-cong-khai-17809726959851548847185.pdf |url-status=bot: unknown |archive-url=https://web.archive.org/web/20260709170702/https://sqhx-hanoi.mediacdn.vn/91579363132710912/2026/6/9/0562026du-thao-de-an-sap-xep-thon-tdp-2026-cong-khai-17809726959851548847185.pdf |archive-date=2026-07-09 |access-date=2026-07-09 |website=Trang Thông tin điện tử xã Gia Lâm – thành phố Hà Nội }}</ref><ref name=":1">{{Chú thích web |title=Nghị quyết số 25/NQ-HĐND ngày 29 tháng 6 năm 2026 của Hội đồng nhân dân xã Gia Lâm về việc thành lập, sắp xếp các thôn, tổ dân phố trên địa bàn xã Gia Lâm |url=https://sqhx-hanoi.mediacdn.vn/91579363132710912/2026/7/2/nghi-quyet-25-17829853049231671182577.pdf |url-status=live |archive-url=https://web.archive.org/web/20260709401509/https://sqhx-hanoi.mediacdn.vn/91579363132710912/2026/7/2/nghi-quyet-25-17829853049231671182577.pdf |archive-date=2026-07-09 |access-date=2026-07-09 |website=Trang Thông tin điện tử xã Gia Lâm – thành phố Hà Nội}}</ref>
+
+== Hành chính ==
+Xã Gia Lâm được chia thành 27 tổ dân phố – thôn, gồm 14 tổ dân phố: đánh số từ 1 đến 3, từ 5 đến 7, An Đào, An Lạc, Bình Minh, Chính Trung, Cửu Việt, Kiên Thành, Nông Nghiệp, Thành Trung và 13 thôn: Cam, Dương Đanh, Dương Đá, Dương Đình, Gia Xuân, Hoàng Chu Báo, Hội, Kiêu Kỵ, Phú Thị, Thuận Quang, Trung Dương, Vàng, Yên Bình.<ref name=":2" /><ref name=":1" />
+{| class="wikitable sortable" align="center" width="100%" cellspacing="6" cellpadding="0" style="background: #f9f9f9; border: 1px #aaa solid; margin-top: 16px"
+! colspan="4" style="background: #E6E6FA; font-size: 95%;" |Danh sách các tổ dân phố – thôn thuộc xã Gia Lâm<ref name=":2" /><ref name=":1" />
+|-
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| colspan="4" align="left" style="background: #F5F5DC; padding-left: 30px;" |'''Tổ dân phố (14)'''
+|-
+| align="left" |Tổ dân phố 1
+|1.150
+|-
+| align="left" |Tổ dân phố 2
+|1.775
+|-
+| align="left" |Tổ dân phố 3
+|2.158
+|-
+| align="left" |Tổ dân phố 5
+|2.413
+|-
+| align="left" |Tổ dân phố 6
+|1.797
+|-
+| align="left" |Tổ dân phố 7
+|1.614
+|-
+| align="left" |An Đào
+|1.410
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |An Lạc
+|702
+|-
+| align="left" |Bình Minh
+|712
+|-
+| align="left" |Chính Trung
+|1.153
+|-
+| align="left" |Cửu Việt
+|1.084
+|-
+| align="left" |Kiên Thành
+|1.088
+|-
+| align="left" |Nông Nghiệp
+|772
+|-
+| align="left" |Thành Trung
+|1.108
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| colspan="4" align="left" style="background: #F5F5DC; padding-left: 30px;" |'''Thôn (13)'''
+|-
+| align="left" |Cam
+|1.663
+|-
+| align="left" |Dương Đanh
+|684
+|-
+| align="left" |Dương Đá
+|925
+|-
+| align="left" |Dương Đình
+|1.035
+|-
+| align="left" |Gia Xuân
+|1.052
+|-
+| align="left" |Hoàng Chu Báo
+|1.377
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Hội
+|636
+|-
+| align="left" |Kiêu Kỵ
+|1.111
+|-
+| align="left" |Phú Thị
+|919
+|-
+| align="left" |Thuận Quang
+|1.304
+|-
+| align="left" |Trung Dương
+|1.106
+|-
+| align="left" |Vàng
+|1.312
+|-
+| align="left" |Yên Bình
+|617
+|}
+|}
+== Danh nhân ==
+* '''[[Nguyễn Sơn]]''' (1908 – 1956), tên thật là '''Vũ Nguyên Bác''', một trong 9 Thiếu tướng đầu tiên của [[Quân đội nhân dân Việt Nam|Quân đội Nhân dân Việt Nam]].
+* '''[[Nguyễn Đình Toàn (nghệ sĩ)|Nguyễn Đình Toàn]]''' (1936 – 2023) là [[nhà văn]] và [[nhạc sĩ]] người Việt định cư ở Mỹ.
+
+== Chú thích== 
+{{reflist}}
+
+== Tham khảo==
+{{Sơ khai Hà Nội}}{{Đơn vị hành chính thuộc thành phố Hà Nội}}

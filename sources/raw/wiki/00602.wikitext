@@ -1,0 +1,118 @@
+{{Thông tin đơn vị hành chính Việt Nam | phường
+| tên = Đông Ngạc
+| hình =Toa nha truong hoc vien tai chinh.jpg 
+| ghi chú hình =Học viện Tài chính 
+| vĩ độ = 21.080627977181077
+| kinh độ = 105.77396981828326
+| diện tích = 8,85 km²
+| dân số = 83.544 người
+| thời điểm dân số = 2025
+| mật độ dân số = {{formatnum:{{#expr:floor({{formatnum:83.544|R}}/{{formatnum:8,85|R}})}} }} người/km²
+| vùng = [[Đồng bằng sông Hồng]]
+| thành phố = [[Hà Nội]]
+| thành lập = 2013
+| trụ sở UBND = Phố Văn Hội, TDP số 2
+|bản đồ 1=[[File:Dong Ngac map.png|300px]]
+|tựa bản đồ 1=Bản đồ phường Đông Ngạc
+| mã hành chính = 
+|web={{url|https://dongngac.hanoi.gov.vn}}|bí thư=Ngô Văn Nam|chủ tịch HĐND=Ngô Văn Nam|chủ tịch UBND=Nguyễn Văn Hách|chủ tịch UBMTTQ=Nguyễn Thanh Nhàn}}
+
+'''Đông Ngạc''' là một [[Phường (Việt Nam)|phường]] thuộc thành phố [[Hà Nội]], [[Việt Nam]].
+
+==Địa lý==
+Phường Đông Ngạc, có vị trí địa lý:<ref>{{Cite web|url=https://xaydungchinhsach.chinhphu.vn/chi-tiet-du-thao-phuong-an-sap-xep-cac-phuong-cua-ha-noi-119250421100531902.htm|title=Chi tiết dự thảo PHƯƠNG ÁN SẮP XẾP CÁC PHƯỜNG của HÀ NỘI|date=28 tháng 4 năm 2025|website=xaydungchinhsach.chinhphu.vn}}</ref>
+* Phía Đông tiếp giáp phường [[Phú Thượng, Hà Nội|Phú Thượng]], Xuân Đỉnh (ranh giới đi theo đường Phạm Văn Đồng)
+* Phía Tây tiếp giáp phường [[Thượng Cát]] (ranh giới đi theo sông Nhuệ - phố Viên - ranh giới cấp xã cũ)
+* Phía Nam tiếp giáp phường [[Tây Tựu]], Phú Diễn (đi theo ranh giới cấp xã hiện nay)
+* Phía Bắc tiếp giáp xã Thiên Lộc (ranh giới đi theo đường sông Hồng.
+
+==Lịch sử==
+Trước [[Cách mạng Tháng Tám]] năm 1945, Đông Ngạc là một xã thuộc tổng Xuân Tảo, huyện [[Từ Liêm (huyện)|Từ Liêm]], phủ [[Hoài Đức (phủ)|Hoài Đức]], tỉnh [[Hà Đông (tỉnh)|Hà Đông]]. Sau năm 1954, xã Đông Ngạc thuộc quận Quảng Bá, ngoại thành Hà Nội. Năm 1961, xã Đông Ngạc sáp nhập với hai xã Liên Ngạc và Nhật Tảo thành xã Đức Thắng thuộc huyện Từ Liêm. Năm 1964, xã Đức Thắng đổi tên thành xã Đông Ngạc.<ref name=LXHN88>{{Chú thích sách| title = Làng xã ngoại thành Hà Nội |author = Bùi Thiết | publisher = H: Hà Nội, 1985 |page =88}}</ref>
+
+Làng Đông Ngạc (tên nôm là '''làng Vẽ''' hay '''Kẻ Vẽ''', tên chữ là '''Đông Ngạc'''<ref name=LXHN89>{{Chú thích sách| title = Làng xã ngoại thành Hà Nội |author = Bùi Thiết | publisher = H: Hà Nội, 1985 |page =89}}</ref>) được coi là một trong những làng cổ nhất của Hà Nội. Làng này còn được gọi là "làng tiến sĩ" do có rất nhiều vị tiến sĩ Hán học và Tây học là người làng.
+
+Ngày [[27 tháng 12]] năm [[2013]], Chính phủ ban hành Nghị quyết số 132/NQ-CP về việc điều chỉnh địa giới hành chính huyện Từ Liêm để thành lập 2 quận và 23 phường thuộc thành phố Hà Nội. Theo đó:
+*Chuyển xã Đông Ngạc về quận Bắc Từ Liêm mới thành lập
+*Thành lập phường Đông Ngạc trên cơ sở điều chỉnh 241 ha diện tích tự nhiên và 23.922 người của xã Đông Ngạc
+*Thành lập phường Đức Thắng trên cơ sở điều chỉnh 120 ha diện tích tự nhiên và 19.923 người còn lại của xã Đông Ngạc.
+
+Ngày [[16 tháng 6]] năm [[2025]]:
+
+* [[Quốc hội Việt Nam|Quốc hội]] ban hành Nghị quyết số 203/2025/QH15 về việc sửa đổi, bổ sung một số điều của Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam.<ref>{{Chú thích web |last=xaydungchinhsach.chinhphu.vn|date=2025-06-28|title=NGHỊ QUYẾT 203/2025/QH15 SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA HIẾN PHÁP NƯỚC CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM|url=https://xaydungchinhsach.chinhphu.vn/nghi-quyet-203-2025-qh15-sua-doi-bo-sung-mot-so-dieu-cua-hien-phap-nuoc-cong-hoa-xa-hoi-chu-nghia-viet-nam-119250616181735552.htm|access-date=2026-07-15|website=xaydungchinhsach.chinhphu.vn|language=vi}}</ref> Theo đó, kết thúc hoạt động của đơn vị hành chính cấp huyện trong cả nước từ ngày 1 tháng 7 năm 2025.
+* [[Ủy ban Thường vụ Quốc hội]] ban hành Nghị quyết số 1656/NQ-UBTVQH15 về việc sắp xếp các đơn vị hành chính cấp xã của thành phố Hà Nội năm 2025 (nghị quyết có hiệu lực từ ngày 16 tháng 6 năm 2025). Theo đó, sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của phường Đức Thắng, một phần của các phường Cổ Nhuế 2, Thụy Phương, Minh Khai, Đông Ngạc, Xuân Đỉnh (quận [[Bắc Từ Liêm]]), để thành lập '''phường Đông Ngạc''' mới.<ref>{{Cite web|url=https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-1656-nq-ubtvqh15-sap-xep-cac-dvhc-cap-xa-cua-thanh-pho-ha-noi-nam-2025-119250616192433872.htm|title=Nghị quyết số 1656/NQ-UBTVQH15 sắp xếp các ĐVHC cấp xã của thành phố Hà Nội năm 2025|date=20 tháng 6 năm 2025|website=xaydungchinhsach.chinhphu.vn}}</ref><!-- 
+==Lịch sử==
+Phường Cổ Nhuế 2 được thành lập vào ngày [[27 tháng 12]] năm [[2013]] trên cơ sở điều chỉnh 403,43 ha diện tích tự nhiên và 44.488 người của xã [[Cổ Nhuế]], 1,60 ha diện tích tự nhiên và 292 người của thị trấn [[Cầu Diễn]] thuộc huyện [[Từ Liêm (huyện)|Từ Liêm]] cũ.<ref name=NQ132>{{Chú thích web|url=https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/Nghi-quyet-132-NQ-CP-nam-2013-dieu-chinh-dia-gioi-hanh-chinh-Tu-Liem-Ha-Noi-217666.aspx|tựa đề=Nghị quyết 132/NQ-CP năm 2013 về việc điều chỉnh địa giới hành chính huyện Từ Liêm để thành lập 2 quận và 23 phường thuộc thành phố Hà Nội|tác giả=|họ=|tên=|ngày=|website=|url lưu trữ=|ngày lưu trữ=|ngày truy cập=}}</ref>
+
+Sau khi thành lập, phường có 405,03 ha diện tích tự nhiên và 44.780 người.
+
+==Lịch sử==
+Phường Đức Thắng được thành lập vào ngày [[27 tháng 12]] năm [[2013]] trên cơ sở điều chỉnh 120 ha diện tích tự nhiên và 19.923 người của xã [[Đông Ngạc]] thuộc huyện [[Từ Liêm (huyện)|Từ Liêm]] cũ.<ref name=NQ132>{{Chú thích web|url=https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/Nghi-quyet-132-NQ-CP-nam-2013-dieu-chinh-dia-gioi-hanh-chinh-Tu-Liem-Ha-Noi-217666.aspx|tựa đề=Nghị quyết 132/NQ-CP năm 2013 về việc điều chỉnh địa giới hành chính huyện Từ Liêm để thành lập 2 quận và 23 phường thuộc thành phố Hà Nội|tác giả=|họ=|tên=|ngày=|website=|url lưu trữ=|ngày lưu trữ=|ngày truy cập=}}</ref>
+
+==Lịch sử==
+Trước đây, Thụy Phương là một xã thuộc huyện [[Từ Liêm (huyện)|Từ Liêm]] cũ.
+
+Ngày [[27 tháng 12]] năm [[2013]], Chính phủ ban hành Nghị quyết số 132/NQ-CP<ref name=NQ132>{{Chú thích web|url=https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/Nghi-quyet-132-NQ-CP-nam-2013-dieu-chinh-dia-gioi-hanh-chinh-Tu-Liem-Ha-Noi-217666.aspx|tựa đề=Nghị quyết 132/NQ-CP năm 2013 về việc điều chỉnh địa giới hành chính huyện Từ Liêm để thành lập 2 quận và 23 phường thuộc thành phố Hà Nội|tác giả=|họ=|tên=|ngày=|website=|url lưu trữ=|ngày lưu trữ=|ngày truy cập=}}</ref>. Theo đó, thành lập phường Thụy Phương thuộc quận Bắc Từ Liêm trên cơ sở toàn bộ 287,59 ha diện tích tự nhiên và 13.753 người của xã Thụy Phương.
+
+==Lịch sử==
+Trước đây, Minh Khai là một xã thuộc huyện [[Từ Liêm (huyện)|Từ Liêm]] cũ.
+[[Tập tin:Newone - bưởi Diễn 04.jpg|350px|nhỏ|Bưởi Phú Diễn]]
+Ngày [[20 tháng 4]] năm [[1978]], Bộ trưởng Phủ thủ tướng ban hành Quyết định 70-BT<ref>{{Chú thích web|url=https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/Quyet-dinh-70-BT-hop-nhat-xa-Phu-Dien-Minh-Khai-thuoc-huyen-Tu-Liem-Ha-Noi-thanh-xa-Phu-Minh-54768.aspx|tựa đề=Quyết định 70-BT năm 1978 về việc hợp nhất xã Phú Diễn và xã Minh Khai thuộc huyện Từ Liêm, thành phố Hà Nội, thành một xã lấy tên là xã Phú Minh|tác giả=|họ=|tên=|ngày=|website=|url lưu trữ=|ngày lưu trữ=|ngày truy cập=}}</ref>. Theo đó, hợp nhất hai xã Phú Diễn và Minh Khai thành xã Phú Minh.
+
+Ngày [[17 tháng 9]] năm [[1990]], xã Phú Minh được chia lại thành hai xã Phú Diễn và Minh Khai.
+
+Ngày [[27 tháng 12]] năm [[2013]], Chính phủ ban hành Nghị quyết số 132/NQ-CP<ref name=NQ132>{{Chú thích web|url=https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/Nghi-quyet-132-NQ-CP-nam-2013-dieu-chinh-dia-gioi-hanh-chinh-Tu-Liem-Ha-Noi-217666.aspx|tựa đề=Nghị quyết 132/NQ-CP năm 2013 về việc điều chỉnh địa giới hành chính huyện Từ Liêm để thành lập 2 quận và 23 phường thuộc thành phố Hà Nội|tác giả=|họ=|tên=|ngày=|website=|url lưu trữ=|ngày lưu trữ=|ngày truy cập=}}</ref>. Theo đó, thành lập phường Minh Khai thuộc quận Bắc Từ Liêm trên cơ sở toàn bộ 485,91 ha diện tích tự nhiên và 36.709 người của xã Minh Khai.
+
+-->
+Từ ngày 01 tháng 7 năm 2026, phường Đông Ngạc có 23 tổ dân phố<ref>{{Chú thích web |title=NGHỊ QUYẾT Về việc thành lập, sắp xếp, tổ chức lại tổ dân phố trên địa |url=https://dongngac.hanoi.gov.vn/thong-tin-cong-khai/nghi-quyet-ve-viec-thanh-lap-sap-xep-to-chuc-lai-to-dan-pho-tren-dia-2807260630175829434.htm}}</ref>: Chèm, Đại Đồng, Đoàn Kết, Đống 1, Đống 2, Đông Thụy, Đức Thắng, Hòa Bình, Liên Ngạc, Phú Minh, Tân Trào, Tân Xuân, Thụy Phương, Trù 1, Trù 2, Văn Hiến, Văn Hội, Văn Minh, Vẽ, Viên 1, Viên 2, Viên 3, Viên 4.
+
+==Văn hóa==
+===Các nghề truyền thống===
+Đông Ngạc nổi tiếng với nghề làm giò chả, nem còn đến tận ngày nay. Người xưa có câu "Giò Chèm, nem Vẽ" để nói về 2 thứ đặc sản ngon nổi tiếng vùng này. Chèm và Vẽ là 2 làng thuộc Đông Ngạc cổ xưa, nay là phường Thụy Phương và phường Đông Ngạc. Ngoài ra, những năm 80-90, người làng Đông Ngạc còn làm mũ nan và mây tre truyền thống. Những chiếc mũ nan nhiều màu, vành rộng đã được xuất khẩu sang một số nước như Lào, Campuchia, Cuba,...
+
+===Di tích===
+====Đình Đông Ngạc====
+Phường nổi tiếng với [[đình làng Đông Ngạc]], một ngôi [[đình]] có quy mô to lớn, nhiều hạng mục với các thành phần [[kiến trúc cổ Việt Nam|kiến trúc cổ kính]] và chuẩn mực đã tồn tại từ [[thế kỷ 17]]. Đình được xây dựng trên một thế đất cao ráo, đắc địa ở phía Bắc làng, sát với [[đê]] [[sông Hồng]]. Tương truyền, thời xưa đình vốn là một toà miếu cổ có từ thời [[nhà Đường|Đường]] vào [[thế kỷ 7]]. Năm [[1635]], dân làng đã xây lại và mở rộng thành đình để thờ [[thành hoàng]] làng. Đình thờ 3 vị thần tượng trưng cho cả Thiên - Địa - Nhân. 
+*Thiên thần: [[Thần Độc Cước]], do [[Phan Phu Tiên]] rước về từ [[Sầm Sơn (thành phố)|Sầm Sơn]], [[Thanh Hóa]];
+*Nhân thần: Lê Khôi, cháu vua [[Lê Thái Tổ]], là một tướng lĩnh làm đến chức Nhập nội tư mã, Thượng tướng quân, mất sau trận thắng thành [[Đồ Bàn]]. Thần được người làng là Đô đốc [[Đồng Xuyên Hầu]] rước về từ [[Nghệ An]];
+*Địa thần: Bản thổ Thành hoàng. (trong các sắc phong còn giữ được đều ghi là "Bảo vệ Chương Hòa đôn ngưng thổ địa hiển trưng chi thần"). Thần trừ tai chống hạn cầu cúng linh ứng. Kể từ khi có dân đến ở đến nay thì thần đã là Thành hoàng. Các triều đại đều có [[sắc phong]], sự tích đã bị mai một, nay người dân không còn nhớ rõ nữa.
+
+Ngoài ra Đình còn thờ [[tiến sĩ]] [[Phạm Quang Dung]] là người làng có công đứng ra trùng tu đình năm 1718 và Phạm Thọ Lý, người đã cung tiến đất làm đình lần đầu năm 1635. Trong đình hiện còn lưu giữ nhiều hiện vật quý, có giá trị, như [[bia đá]] và bộ tranh [[sơn mài]] thời [[nhà Lê|Lê]].
+
+====Chùa làng====
+Phường có chùa Tư Khánh với phong cách nghệ thuật [[thế kỷ 18]] - [[thế kỷ 19|19]]. Chùa có quả [[chuông]] đúc năm [[Diên Hựu]] thứ 2 (1315). Trong chùa hiện còn có tấm bia có niên đại Thịnh Đức ghi rõ công đức của vợ chồng Nguyễn Phúc Ninh, cúng gia tư điền sản để tu bổ, dựng lại chùa, và được dân làng tôn làm Hậu Phật.
+
+====Nhà cổ====
+Phường hiện còn trên 100 ngôi nhà cổ có thời gian xây dựng trên 100 năm, trong đó có nhiều ngôi nhà gỗ được đục chạm công phu. Nhà thờ Đỗ Thế Giai, một vị quan lớn thời Lê [[chúa Trịnh|Trịnh]] là nơi còn giữ được khá nhiều những di vật có giá trị và cũng là ngôi nhà được chọn làm bối cảnh quay nhiều [[phim truyện]], [[phim truyền hình]].
+
+===Văn học nghệ thuật===
+Phường có 9 bài [[thơ]] dài để đọc lên lúc thưởng [[lụa]] và [[tiền]] cho các đào nương trong nghi lễ hát [[ca trù]] xưa đã được tổ chức vào dịp hội làng ngày 9 tháng 2 [[âm lịch]] hàng năm. Chín bài thơ này do [[Lê Đức Mao]] (1462 - 1529), một người hay chữ trong làng đã thay mặt các [[giáp (làng)|giáp]] soạn ra. Đây cũng là tư liệu chữ viết đầu tiên về ca trù trong kho tàng di sản [[Hán Nôm]],{{fact|date = ngày 6 tháng 1 năm 2013}} và cũng là cứ liệu sớm nhất về [[thơ lục bát]] và [[song thất lục bát]] trong lịch sử [[văn học Việt Nam]].{{fact|date = ngày 6 tháng 1 năm 2013}}
+
+===Danh nhân===
+Phường Đông Ngạc đã là nơi xuất thân của 18 vị Tiến sĩ nho học (với 1 Thái học sinh, 1 [[Bảng nhãn]], 2 [[Hoàng giáp]] và 14 [[Đồng tiến sĩ]]; gồm: ''[[Phan Phu Tiên]]-1429, Phạm Lân Định (Luân Định)-1514, Phạm Thọ Chỉ-1577, Phạm Hiển Danh-1646, Phạm Quang Trạch-1683, Phan Vinh Phúc-1685, Phạm Quang Hoàn-1694, Phạm Quang Dung-1706, Phạm Quang Ninh (Nguyên Ninh)-1731, Phan Lê Phiên-1757, Nguyễn Đình Thạc-1779, Hoàng Tế Mỹ-1826, Phạm Gia Chuyên-1831, Nguyễn Văn Tùng-1838, Nguyễn Hữu Tạo-1844, Phạm Quang Mãn-1849, Hoàng Tướng Hiệp-1865, Nguyễn Dự-1879''),<ref>Từ Liêm đại khoa lục, Trung tâm Unesco-Thông tin tư liệu lịch sử văn hóa Việt Nam, nhà xuất bản Thời đại.</ref><ref>{{Chú thích web |url=http://www.hannom.org.vn/default.asp?CatID=564 |ngày truy cập=2010-09-08 |tiêu đề=Bia Văn miếu Hà Nội |archive-date=2013-12-24 |archive-url=https://web.archive.org/web/20131224224902/http://www.hannom.org.vn/default.asp?CatID=564 |url-status=dead }}</ref><ref>{{Chú thích web |url=http://www.hannom.org.vn/default.asp?CatID=562 |ngày truy cập=2010-09-08 |tiêu đề=Bia Văn miếu Huế |archive-date=2013-12-24 |archive-url=https://web.archive.org/web/20131224113839/http://www.hannom.org.vn/default.asp?CatID=562 |url-status=dead }}</ref> 2 Phó bảng nho học (Nguyễn Văn Hội-1849, [[Hoàng Tăng Bí]]-1910),<ref>Từ Liêm đại khoa lục</ref><ref>[[Quốc triều khoa bảng lục]], Cao Xuân Dục</ref> 6 vị đỗ sĩ vọng (tức thi hội chỉ vào đến tam trường nhưng nổi tiếng là hiền tài nên cũng coi như tiến sĩ), 7 tiến sĩ thời Pháp, và thời nay đã có tới hơn 50 tiến sĩ.
+
+Xưa phường Đông Ngạc có câu ngạn ngữ "''Đất Kẻ Giàn, quan Kẻ Vẽ''" để bày tỏ niềm tự hào có nhiều người thành đạt trong [[khoa cử|khoa bảng]]. Trong các dòng tộc ở đây, họ nào cũng có người đỗ đại khoa, ít nhất là một người. Nhiều họ như [[Họ Phạm làng Đông Ngạc|họ Phạm]] có 16 người. Gia đình Hoàng giáp Hoàng Tế Mỹ từ khi định cư ở Đông Ngạc có 3 đời nối tiếp nhau đỗ Tiến sĩ và 1 Phó bảng (Hoàng Nguyễn Thự, Hoàng Tế Mỹ, Hoàng Tướng Hiệp, Hoàng Tăng Bí); cũng như gia đình Bảng nhãn Phạm Quang Trạch có tới 7 người đỗ đại khoa (từ Tiến sĩ Phạm Luân Định, Hoàng giáp Phạm Thọ Chỉ đến Tiến sĩ Phạm Quang Ninh) trong khoảng 217 năm (1514-1731).
+
+Đông Ngạc đã sản sinh ra nhiều danh nhân, đóng góp lớn nhiều mặt ở nhiều lĩnh vực và mọi thời kỳ lịch sử:
+* Thời phong kiến có [[Phan Phu Tiên]], [[Đỗ Thế Giai]], [[Lê Đức Mao]], [[Phạm Quang Trạch]], [[Phạm Quang Dung]], [[Phan Lê Phiên]], [[Hoàng Nguyễn Thự]] (chuyển cư đến từ Đông Bình huyện Gia Bình tỉnh Bắc Ninh), [[Hoàng Tế Mỹ]], [[Phạm Gia Chuyên]], [[Nguyễn Hữu Tạo]],...
+* Thời cận-hiện đại với [[Phan Văn Trường]], [[Hoàng Tăng Bí]]... và thời hiện đại với [[Hoàng Minh Giám]] (cố Bộ trưởng Bộ Văn Hoá), bác sĩ [[Hoàng Tích Trý]] (cố Bộ trưởng Bộ Y tế), [[Hoàng Tích Mịnh]] và [[Hoàng Thủy Nguyên]] (hai chú cháu đều được trao tặng [[Giải thưởng Hồ Chí Minh]] lĩnh vực y - dược), Tiến sĩ [[Hoàng Thị Nga]] (nữ tiến sĩ khoa học đầu tiên và nữ hiệu trưởng đại học đầu tiên), Đại tá, GS-BS Phạm Văn Cự (Cựu Phó Giám đốc Bệnh viện Quân đội 175), Trung tướng GS-TS [[Phạm Gia Khánh]] (Giám đốc [[Học viện Quân y]]), GS-TS [[Phạm Gia Khải]] (Viện trưởng Viện Tim mạch), TS [[Phạm Gia Khiêm]] (phó Thủ tướng [[Chính phủ Việt Nam]]) và những chính khách, nhà khoa học khác.
+
+Bên cạnh truyền thống khoa bảng, phường Đông Ngạc còn là một địa bàn quan trọng trong [[chiến tranh Đông Dương|kháng chiến chống Pháp]] ở thủ đô [[Hà Nội]], là cơ sở y tế cứu chữa thương binh trong [[Trận Hà Nội 1946|trận chiến bảo vệ Hà Nội năm 1946]], và đã nuôi giấu nhiều cán bộ kháng chiến trong những năm Pháp chiếm đóng. Năm [[2004]], Đảng bộ và nhân dân phường Đông Ngạc đã được Nhà nước trao tặng danh hiệu [[Anh hùng lực lượng vũ trang nhân dân]].
+
+==Danh nhân==
+* '''[[Nguyễn Hữu Tiến (nhà nghiên cứu)|Nguyễn Hữu Tiến]]''' (1875 – 1941), là một nhà nghiên cứu cộng tác đắc lực với [[Nam Phong tạp chí|tạp chí Nam Phong]].
+
+==Chú thích==
+{{tham khảo|30em}}
+
+==Xem thêm==
+* Nguyễn Xuân Diện, [http://www.nguoivienxu.vietnamnet.vn/truyenthongvaduongdai/ditichvathangcanh/2005/05/435329/ Làng cổ Đông Ngạc] {{Webarchive|url=https://web.archive.org/web/20060722103627/http://www.nguoivienxu.vietnamnet.vn/truyenthongvaduongdai/ditichvathangcanh/2005/05/435329/ |date = ngày 22 tháng 7 năm 2006}}, báo điện tử Người Viễn Xứ
+* Bùi Văn Việt - Phạm Lan Hương, [http://www.vanhoanghethuat.org.vn/2007.01/buivanviet.htm Một trong ba vị thành hoàng làng Vẽ] {{Webarchive|url=https://web.archive.org/web/20070927144108/http://www.vanhoanghethuat.org.vn/2007.01/buivanviet.htm |date=2007-09-27 }}
+* Vu Thi Minh Thuong, [http://www2.vietnamnet.vn/xahoi/dexuat/2004/08/231700/ Làng ven đô cổ nhất] {{Webarchive|url=https://web.archive.org/web/20050311095952/http://www.vietnamnet.vn/xahoi/dexuat/2004/08/231700/ |date = ngày 11 tháng 3 năm 2005}}, Vietnamnet, 30-08-2004
+*[https://www.hanoimoi.com.vn/vn/53/24334/ Làng Kẻ Vẽ, làng hiếu học] {{Webarchive|url=https://web.archive.org/web/20090831183853/http://www.hanoimoi.com.vn/vn/53/24334/ |date = ngày 31 tháng 8 năm 2009}}, Báo điện tử Hà Nội mới
+* Phạm Kim Thanh, [http://www.nhandan.com.vn/tinbai/?top=37&sub=130&Article=82100 Đông Ngạc - Làng Khoa bảng, làng kháng chiến], báo Nhân dân
+* Ngọc Anh, [https://m.vovworld.vn/vi-VN/chuyen-cua-lang/lang-dong-ngac-tu-hao-la-vung-dat-khoa-bang-563138.vov Làng Đông Ngạc - Tự hào là vùng đất khoa bảng], báo điện tử VOV5
+* [https://hanoimoi.vn/dong-ngac-anh-hung-47355.html Đông Ngạc anh hùng], báo Hà Nội mới.
+* Trọng Tài, [https://tienphong.vn/tham-lang-khoa-bang-co-kinh-giua-long-thu-do-post1692475.tpo Thăm làng khoa bảng cổ kính giữa lòng Thủ đô], Báo điện tử Tiền Phong
+* Tuấn Anh - Hoàng Giang, [https://vnexpress.net/lang-trong-pho-hon-500-tuoi-o-ha-noi-4816806.html Làng trong phố hơn 500 tuổi ở Hà Nội], Báo VnExpress
+
+{{Đơn vị hành chính thuộc thành phố Hà Nội}}

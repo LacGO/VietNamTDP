@@ -1,0 +1,180 @@
+{
+  "ward_code": "08842",
+  "ward_name": "Tiên Lữ",
+  "province_code": "25",
+  "resolution": "",
+  "arrangement": "truoc_2026_07",
+  "effective_date": "",
+  "verified": "unverified",
+  "extraction": {
+    "source": "vi.wikipedia.org",
+    "title": "Tiên Lữ, Phú Thọ",
+    "mode": "narrative"
+  },
+  "sources": [
+    {
+      "key": "wiki-08842-1",
+      "title": "Xã Tiên Lữ trân trọng giới thiệu tiểu sử tóm tắt các ứng cử viên Đại biểu Hội đồng Nhân dân xã khóa II, nhiệm kỳ 2026 - 2031 tại Đơn vị bầu cử số 01, gồm Thôn Nhật Tân, thôn Xuân Quang, thôn Lai Châu, thôn Nam, thôn Mỹ Đức, thôn Sơn Phùng, thôn Sơn Bình, thôn Lan Hùng",
+      "url": "https://web.facebook.com/story.php?story_fbid=122164284968926997&id=61577809936144&rdid=Lqn4HEi4jEtajOVy#",
+      "date": "2026-03-05",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-08842-2",
+      "title": "Xã Tiên Lữ trân trọng giới thiệu tiểu sử tóm tắt các ứng cử viên Đại biểu Hội đồng Nhân dân xã khóa II, nhiệm kỳ 2026 - 2031 tại Đơn vị bầu cử số 02, gồm Thôn Mới, thôn Dộc, thôn Quẵng, thôn Minh trụ, thôn Quang Trung, thôn Nương Ải, thôn Tân Thành, thôn Vinh Quang",
+      "url": "https://web.facebook.com/story.php?story_fbid=122164533944926997&id=61577809936144&rdid=es0ZoqC0wiQy2LBT#",
+      "date": "2026-03-07",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-08842-3",
+      "title": "Xã Tiên Lữ trân trọng giới thiệu tiểu sử tóm tắt các ứng cử viên Đại biểu Hội đồng Nhân dân xã khóa II, nhiệm kỳ 2026 - 2031 tại Đơn vị bầu cử số 03, gồm Thôn Vườn Tràng, thôn Lục Thụ, thôn Minh Khai, thôn Đông Xuân, thôn Nghĩa An, thôn Liên Sơn, thôn Xuân Phong, thôn Đoàn Kết, thôn Thi Đua, Thôn Đồng Tâm. thôn Cộng Hòa, Thôn Chiến Thắng",
+      "url": "https://web.facebook.com/story.php?story_fbid=122164535876926997&id=61577809936144&rdid=Tkho2m0XMGvLDBEp#",
+      "date": "2026-03-07",
+      "type": "wikipedia-ref"
+    }
+  ],
+  "note": "Trích tự động từ Wikipedia tiếng Việt (mode=narrative). Cần đối chiếu nghị quyết HĐND phường/xã. ⚠️ Danh mục có thể là hiện trạng TRƯỚC sắp xếp thôn/TDP 01/7/2026 — Wikipedia chưa cập nhật nghị quyết mới.",
+  "tdp": [
+    {
+      "name": "Bì La",
+      "type": "thôn"
+    },
+    {
+      "name": "Chiến Thắng",
+      "type": "thôn"
+    },
+    {
+      "name": "Cộng Hòa",
+      "type": "thôn"
+    },
+    {
+      "name": "Dộc",
+      "type": "thôn"
+    },
+    {
+      "name": "Đại Lữ",
+      "type": "thôn"
+    },
+    {
+      "name": "Đòan Kết",
+      "type": "thôn"
+    },
+    {
+      "name": "Đông Xuân",
+      "type": "thôn"
+    },
+    {
+      "name": "Đồng Tâm",
+      "type": "thôn"
+    },
+    {
+      "name": "Hạ Ích",
+      "type": "thôn"
+    },
+    {
+      "name": "Hòang Chung",
+      "type": "thôn"
+    },
+    {
+      "name": "Lai Châu",
+      "type": "thôn"
+    },
+    {
+      "name": "Lan Hùng",
+      "type": "thôn"
+    },
+    {
+      "name": "Liên Sơn",
+      "type": "thôn"
+    },
+    {
+      "name": "Lục Thụ",
+      "type": "thôn"
+    },
+    {
+      "name": "Minh Khai",
+      "type": "thôn"
+    },
+    {
+      "name": "Minh Trụ",
+      "type": "thôn"
+    },
+    {
+      "name": "Mới",
+      "type": "thôn"
+    },
+    {
+      "name": "Mỹ Đức",
+      "type": "thôn"
+    },
+    {
+      "name": "Nam",
+      "type": "thôn"
+    },
+    {
+      "name": "Nghĩa An",
+      "type": "thôn"
+    },
+    {
+      "name": "Nhật Tân",
+      "type": "thôn"
+    },
+    {
+      "name": "Nương Ải",
+      "type": "thôn"
+    },
+    {
+      "name": "Quang Trung",
+      "type": "thôn"
+    },
+    {
+      "name": "Quẵng",
+      "type": "thôn"
+    },
+    {
+      "name": "Sơn Bình",
+      "type": "thôn"
+    },
+    {
+      "name": "Sơn Phùng",
+      "type": "thôn"
+    },
+    {
+      "name": "Tân Lập",
+      "type": "thôn"
+    },
+    {
+      "name": "Tân Thành",
+      "type": "thôn"
+    },
+    {
+      "name": "Thi Đua",
+      "type": "thôn"
+    },
+    {
+      "name": "Viên Luận",
+      "type": "thôn"
+    },
+    {
+      "name": "Vinh Quang",
+      "type": "thôn"
+    },
+    {
+      "name": "Vườn Tràng",
+      "type": "thôn"
+    },
+    {
+      "name": "Xuân Đán",
+      "type": "thôn"
+    },
+    {
+      "name": "Xuân Phong",
+      "type": "thôn"
+    },
+    {
+      "name": "Xuân Quang",
+      "type": "thôn"
+    }
+  ]
+}

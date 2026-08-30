@@ -1,0 +1,52 @@
+{
+  "ward_code": "08341",
+  "ward_name": "Cẩm Khê",
+  "province_code": "25",
+  "resolution": "",
+  "arrangement": "truoc_2026_07",
+  "effective_date": "",
+  "verified": "unverified",
+  "extraction": {
+    "source": "vi.wikipedia.org",
+    "title": "Cẩm Khê (xã)",
+    "mode": "narrative"
+  },
+  "sources": [
+    {
+      "key": "wiki-08341-1",
+      "title": "Nghị quyết số 111/2025/UBTVQH15 về phân loại đô thị",
+      "url": "https://xaydungchinhsach.chinhphu.vn/nghi-quyet-so-111-2025-ubtvqh15-ve-phan-loai-do-thi-119260101170432239.htm",
+      "date": "2026-01-21",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-08341-2",
+      "title": "Danh sách chính thức 39 người ứng cử đại biểu Hội đồng nhân dân xã Cẩm Khê khóa II, nhiệm kỳ 2026-2031 tại 05 đơn vị bầu cử",
+      "url": "https://web.facebook.com/share/p/1EAk5pihem/",
+      "date": "2026-02-25",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-08341-3",
+      "title": "NGHỊ QUYẾT 203/2025/QH15 SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA HIẾN PHÁP NƯỚC CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM",
+      "url": "https://xaydungchinhsach.chinhphu.vn/nghi-quyet-203-2025-qh15-sua-doi-bo-sung-mot-so-dieu-cua-hien-phap-nuoc-cong-hoa-xa-hoi-chu-nghia-viet-nam-119250616181735552.htm",
+      "date": "2025-06-28",
+      "type": "wikipedia-ref"
+    }
+  ],
+  "note": "Trích tự động từ Wikipedia tiếng Việt (mode=narrative). Cần đối chiếu nghị quyết HĐND phường/xã. ⚠️ Danh mục có thể là hiện trạng TRƯỚC sắp xếp thôn/TDP 01/7/2026 — Wikipedia chưa cập nhật nghị quyết mới.",
+  "tdp": [
+    {
+      "name": "Phương Xá",
+      "type": "thôn"
+    },
+    {
+      "name": "Thổ Khối",
+      "type": "thôn"
+    },
+    {
+      "name": "phố Lưu Phương",
+      "type": "thôn"
+    }
+  ]
+}

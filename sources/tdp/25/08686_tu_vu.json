@@ -1,0 +1,268 @@
+{
+  "ward_code": "08686",
+  "ward_name": "Tu Vũ",
+  "province_code": "25",
+  "resolution": "",
+  "arrangement": "truoc_2026_07",
+  "effective_date": "",
+  "verified": "unverified",
+  "extraction": {
+    "source": "vi.wikipedia.org",
+    "title": "Tu Vũ",
+    "mode": "narrative"
+  },
+  "sources": [
+    {
+      "key": "wiki-08686-1",
+      "title": "Danh sách Thôn vùng đồng bào dân tộc thiểu số và miền núi, thôn đặc biệt khó khăn giai đoạn 2026 - 2030 trên địa bàn tỉnh Phú Thọ",
+      "url": "http://files.ubdt.gov.vn/files/ecm/source_files/2026/02/05/11252411_4.%20Ph%C3%BA%20Th%E1%BB%8D%201%20(th%C3%B4n).signed_26-02-05.pdf",
+      "date": "2026-01-29",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-08686-2",
+      "title": "Thông báo số 143/TB-UBND về Ngày bầu cử, địa điểm bỏ phiếu, thời gian bỏ phiếu bầu cử đại biểu Quốc hội khóa XVI và đại biểu Hội đồng nhân dân các cấp nhiệm kỳ 2026 - 2031 trên địa bàn xã Tu Vũ",
+      "url": "https://web.facebook.com/story.php?story_fbid=122095563261071993&id=61582159799149&rdid=t7QeGiCerFRAgXoJ#",
+      "date": "2026-03-05",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-08686-3",
+      "title": "",
+      "url": "https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Nghi-quyet-828-NQ-UBTVQH14-2019-sap-xep-don-vi-hanh-chinh-cap-xa-thuoc-tinh-Phu-Tho-432098.aspx",
+      "date": "",
+      "type": "wikipedia-ref"
+    }
+  ],
+  "note": "Trích tự động từ Wikipedia tiếng Việt (mode=narrative). Cần đối chiếu nghị quyết HĐND phường/xã. ⚠️ Danh mục có thể là hiện trạng TRƯỚC sắp xếp thôn/TDP 01/7/2026 — Wikipedia chưa cập nhật nghị quyết mới.",
+  "tdp": [
+    {
+      "name": "1 Đồng Trung",
+      "type": "khu"
+    },
+    {
+      "name": "2 Đồng Trung",
+      "type": "khu"
+    },
+    {
+      "name": "3 Đồng Trung",
+      "type": "khu"
+    },
+    {
+      "name": "4 Đồng Trung",
+      "type": "khu"
+    },
+    {
+      "name": "5 Đồng Trung",
+      "type": "khu"
+    },
+    {
+      "name": "6 Đồng Trung",
+      "type": "khu"
+    },
+    {
+      "name": "7 Đồng Trung",
+      "type": "khu"
+    },
+    {
+      "name": "8 Đồng Trung",
+      "type": "khu"
+    },
+    {
+      "name": "9 Đồng Trung",
+      "type": "khu"
+    },
+    {
+      "name": "10 Đồng Trung",
+      "type": "khu"
+    },
+    {
+      "name": "11 Đồng Trung",
+      "type": "khu"
+    },
+    {
+      "name": "12 Đồng Trung",
+      "type": "khu"
+    },
+    {
+      "name": "13 Đồng Trung",
+      "type": "khu"
+    },
+    {
+      "name": "14 Đồng Trung",
+      "type": "khu"
+    },
+    {
+      "name": "15 Đồng Trung",
+      "type": "khu"
+    },
+    {
+      "name": "16 Đồng Trung",
+      "type": "khu"
+    },
+    {
+      "name": "1 Hòang Xá",
+      "type": "khu"
+    },
+    {
+      "name": "2 Hòang Xá",
+      "type": "khu"
+    },
+    {
+      "name": "3 Hòang Xá",
+      "type": "khu"
+    },
+    {
+      "name": "4 Hòang Xá",
+      "type": "khu"
+    },
+    {
+      "name": "5 Hòang Xá",
+      "type": "khu"
+    },
+    {
+      "name": "6 Hòang Xá",
+      "type": "khu"
+    },
+    {
+      "name": "7 Hòang Xá",
+      "type": "khu"
+    },
+    {
+      "name": "8 Hòang Xá",
+      "type": "khu"
+    },
+    {
+      "name": "9 Hòang Xá",
+      "type": "khu"
+    },
+    {
+      "name": "10 Hòang Xá",
+      "type": "khu"
+    },
+    {
+      "name": "11 Hòang Xá",
+      "type": "khu"
+    },
+    {
+      "name": "12 Hòang Xá",
+      "type": "khu"
+    },
+    {
+      "name": "13 Hòang Xá",
+      "type": "khu"
+    },
+    {
+      "name": "14 Hòang Xá",
+      "type": "khu"
+    },
+    {
+      "name": "15 Hòang Xá",
+      "type": "khu"
+    },
+    {
+      "name": "16 Hòang Xá",
+      "type": "khu"
+    },
+    {
+      "name": "17 Hòang Xá",
+      "type": "khu"
+    },
+    {
+      "name": "18 Hòang Xá",
+      "type": "khu"
+    },
+    {
+      "name": "19 Hòang Xá",
+      "type": "khu"
+    },
+    {
+      "name": "20 Hòang Xá",
+      "type": "khu"
+    },
+    {
+      "name": "21 Hòang Xá",
+      "type": "khu"
+    },
+    {
+      "name": "22 Hòang Xá",
+      "type": "khu"
+    },
+    {
+      "name": "1 Tu Vũ",
+      "type": "khu"
+    },
+    {
+      "name": "2 Tu Vũ",
+      "type": "khu"
+    },
+    {
+      "name": "3 Tu Vũ",
+      "type": "khu"
+    },
+    {
+      "name": "4 Tu Vũ",
+      "type": "khu"
+    },
+    {
+      "name": "5 Tu Vũ",
+      "type": "khu"
+    },
+    {
+      "name": "6 Tu Vũ",
+      "type": "khu"
+    },
+    {
+      "name": "7 Tu Vũ",
+      "type": "khu"
+    },
+    {
+      "name": "8 Tu Vũ",
+      "type": "khu"
+    },
+    {
+      "name": "9 Tu Vũ",
+      "type": "khu"
+    },
+    {
+      "name": "10 Tu Vũ",
+      "type": "khu"
+    },
+    {
+      "name": "11 Tu Vũ",
+      "type": "khu"
+    },
+    {
+      "name": "12 Tu Vũ",
+      "type": "khu"
+    },
+    {
+      "name": "13 Tu Vũ",
+      "type": "khu"
+    },
+    {
+      "name": "14 Tu Vũ",
+      "type": "khu"
+    },
+    {
+      "name": "15 Tu Vũ",
+      "type": "khu"
+    },
+    {
+      "name": "16 Tu Vũ",
+      "type": "khu"
+    },
+    {
+      "name": "17 Tu Vũ",
+      "type": "khu"
+    },
+    {
+      "name": "18 Tu Vũ",
+      "type": "khu"
+    },
+    {
+      "name": "19 Tu Vũ",
+      "type": "khu"
+    }
+  ]
+}

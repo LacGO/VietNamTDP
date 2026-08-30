@@ -1,0 +1,244 @@
+{
+  "ward_code": "08344",
+  "ward_name": "Tiên Lương",
+  "province_code": "25",
+  "resolution": "",
+  "arrangement": "truoc_2026_07",
+  "effective_date": "",
+  "verified": "unverified",
+  "extraction": {
+    "source": "vi.wikipedia.org",
+    "title": "Tiên Lương",
+    "mode": "narrative!old"
+  },
+  "sources": [
+    {
+      "key": "wiki-08344-1",
+      "title": "Quyết định số 25/QĐ-UBND về việc thành lập các khu vực bỏ phiếu bầu cử đại biểu Quốc hội khóa XVI và bầu cử đại biểu Hội đồng nhân dân các cấp nhiệm kỳ 2026 - 2031 trên địa bàn xã Tiên Lương",
+      "url": "https://tienluong.phutho.gov.vn/index.php/2013-12-13-01-52-02/1-van-ban-cua-xa",
+      "date": "2026-01-13",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-08344-2",
+      "title": "NGHỊ QUYẾT 203/2025/QH15 SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA HIẾN PHÁP NƯỚC CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM",
+      "url": "https://xaydungchinhsach.chinhphu.vn/nghi-quyet-203-2025-qh15-sua-doi-bo-sung-mot-so-dieu-cua-hien-phap-nuoc-cong-hoa-xa-hoi-chu-nghia-viet-nam-119250616181735552.htm",
+      "date": "2025-06-28",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-08344-3",
+      "title": "Nghị quyết số 1676/NQ-UBTVQH15 sắp xếp các ĐVHC cấp xã của tỉnh Phú Thọ năm 2025",
+      "url": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-1676-nq-ubtvqh15-sap-xep-cac-dvhc-cap-xa-cua-tinh-phu-tho-nam-2025-119250616204317326.htm",
+      "date": "2025-06-20",
+      "type": "wikipedia-ref"
+    }
+  ],
+  "note": "Trích tự động từ Wikipedia tiếng Việt (mode=narrative!old). Cần đối chiếu nghị quyết HĐND phường/xã. ⚠️ Danh mục có thể là hiện trạng TRƯỚC sắp xếp thôn/TDP 01/7/2026 — Wikipedia chưa cập nhật nghị quyết mới.",
+  "tdp": [
+    {
+      "name": "An Đồng",
+      "type": "khu"
+    },
+    {
+      "name": "An Lạc",
+      "type": "khu"
+    },
+    {
+      "name": "An Lộc",
+      "type": "khu"
+    },
+    {
+      "name": "Bẩy Mươi",
+      "type": "khu"
+    },
+    {
+      "name": "Bình Minh",
+      "type": "khu"
+    },
+    {
+      "name": "Cây Lụ",
+      "type": "khu"
+    },
+    {
+      "name": "Cầu Miếu",
+      "type": "khu"
+    },
+    {
+      "name": "Cầu Tây",
+      "type": "khu"
+    },
+    {
+      "name": "Chùa Đá",
+      "type": "khu"
+    },
+    {
+      "name": "Cộng Hòa",
+      "type": "khu"
+    },
+    {
+      "name": "Đình Cả",
+      "type": "khu"
+    },
+    {
+      "name": "Đông Thịnh",
+      "type": "khu"
+    },
+    {
+      "name": "Đồn Điền",
+      "type": "khu"
+    },
+    {
+      "name": "Đồng Minh",
+      "type": "khu"
+    },
+    {
+      "name": "Gò Ban",
+      "type": "khu"
+    },
+    {
+      "name": "Gò Cao",
+      "type": "khu"
+    },
+    {
+      "name": "Gò Mới",
+      "type": "khu"
+    },
+    {
+      "name": "Gò Tre",
+      "type": "khu"
+    },
+    {
+      "name": "Liên Hiệp",
+      "type": "khu"
+    },
+    {
+      "name": "Mái Vở",
+      "type": "khu"
+    },
+    {
+      "name": "Minh Lương",
+      "type": "khu"
+    },
+    {
+      "name": "Minh Thắng",
+      "type": "khu"
+    },
+    {
+      "name": "Mỏ Sẻ",
+      "type": "khu"
+    },
+    {
+      "name": "Mỹ Lương",
+      "type": "khu"
+    },
+    {
+      "name": "Ngọn Đồng",
+      "type": "khu"
+    },
+    {
+      "name": "Nhà Thờ",
+      "type": "khu"
+    },
+    {
+      "name": "Phai Chi",
+      "type": "khu"
+    },
+    {
+      "name": "Rừng Măng",
+      "type": "khu"
+    },
+    {
+      "name": "Tân An",
+      "type": "khu"
+    },
+    {
+      "name": "Thanh Lương",
+      "type": "khu"
+    },
+    {
+      "name": "Thắng Lợi",
+      "type": "khu"
+    },
+    {
+      "name": "Thống Nhất",
+      "type": "khu"
+    },
+    {
+      "name": "Thượng Thọ",
+      "type": "khu"
+    },
+    {
+      "name": "Tiên Sơn",
+      "type": "khu"
+    },
+    {
+      "name": "Tiến Thịnh",
+      "type": "khu"
+    },
+    {
+      "name": "Trại Cụ",
+      "type": "khu"
+    },
+    {
+      "name": "Trầm Vần",
+      "type": "khu"
+    },
+    {
+      "name": "Xóm Chùa",
+      "type": "khu"
+    },
+    {
+      "name": "Xóm Chừa",
+      "type": "khu"
+    },
+    {
+      "name": "Xóm Đát",
+      "type": "khu"
+    },
+    {
+      "name": "Xóm Giữa",
+      "type": "khu"
+    },
+    {
+      "name": "Xóm Gò",
+      "type": "khu"
+    },
+    {
+      "name": "Xóm Làng",
+      "type": "khu"
+    },
+    {
+      "name": "Xóm Mới",
+      "type": "khu"
+    },
+    {
+      "name": "Xóm Ngòai",
+      "type": "khu"
+    },
+    {
+      "name": "Xóm Thịnh",
+      "type": "khu"
+    },
+    {
+      "name": "Xóm Thượng",
+      "type": "khu"
+    },
+    {
+      "name": "Xóm Tri",
+      "type": "khu"
+    },
+    {
+      "name": "Xóm Trong",
+      "type": "khu"
+    },
+    {
+      "name": "Xuân Trường",
+      "type": "khu"
+    },
+    {
+      "name": "Ý Miễn",
+      "type": "khu"
+    }
+  ]
+}

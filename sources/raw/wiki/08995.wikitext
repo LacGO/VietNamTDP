@@ -1,0 +1,123 @@
+{{Thông tin đơn vị hành chính Việt Nam|Xã| tên = Tiến Thắng
+| hình = 
+| ghi chú hình = 
+| diện tích = 36,34 km²
+| dân số = 64.246 người
+| thời điểm dân số = 2025
+| mật độ dân số = {{formatnum:{{#expr:floor({{formatnum:64.246| R}}/{{formatnum:36,34| R}})}} }} người/km²
+| vùng = [[Đồng bằng sông Hồng]]
+| thành phố = [[Hà Nội]]
+| thành lập = 
+| mã hành chính =08995<ref>{{Chú thích web |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/19ttg.signed.pdf |title=Quyết định số 19/2025/QĐ-TTg ngày 30 tháng 6 năm 2025 của Thủ tướng Chính phủ về việc Ban hành Bảng danh mục và mã số các đơn vị hành chính Việt Nam |access-date=2026-06-15 |archive-date=2026-06-15 |archive-url=https://web.archive.org/web/20260615034519/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/19ttg.signed.pdf |url-status=dead | website = Cổng Thông tin điện tử Chính phủ}}</ref> 
+| web = {{url|tienthang.hanoi.gov.vn}}
+| vĩ độ = 21.207858306819215| kinh độ = 105.68795543465893|bản đồ 1={{maplink|frame=yes|plain=yes|type=shape|frame-width=280|frame-align=center|stroke-width=3}}|trụ sở UBND=Thôn Văn Lôi<ref>{{Chú thích web |url=https://storage-vnportal.vnpt.vn/gov-hni/6244/VanBan/2025/6/25/TB-729-2025.pdf |title=Thông báo số 729/TB-UBND ngày 25 tháng 6 năm 2025 của Ủy ban nhân dân thành phố Hà Nội về địa điểm trụ sở làm việc của 126 phường, xã sau sắp xếp thuộc phạm vi quản lý của thành phố Hà Nội|access-date=2026-06-15 |archive-date=2026-06-15 |archive-url=https://web.archive.org/web/20260615034519/https://storage-vnportal.vnpt.vn/gov-hni/6244/VanBan/2025/6/25/TB-729-2025.pdf |url-status=dead | website = Cổng Thông tin điện tử Ủy ban nhân dân thành phố Hà Nội}}</ref>|trụ sở Đảng ủy=Thôn Phú Mỹ}}
+{{other|Tiến Thắng (định hướng)}}
+'''Tiến Thắng''' là một [[xã]] thuộc thành phố [[Hà Nội]], [[Việt Nam]].
+
+== Địa lý== 
+Xã Tiến Thắng có vị trí địa lý:
+
+* Phía đông giáp xã [[Quang Minh, Hà Nội|Quang Minh]]
+* Phía tây giáp xã [[Nguyệt Đức]] thuộc tỉnh [[Phú Thọ]] với ranh giới tự nhiên là [[sông Cà Lồ]]
+* Phía nam giáp xã [[Yên Lãng, Hà Nội|Yên Lãng]] và xã [[Mê Linh (xã)|Mê Linh]]
+* Phía bắc giáp xã [[Xuân Lãng]] (với ranh giới tự nhiên là [[sông Cà Lồ]]), phường [[Phúc Yên (phường)|Phúc Yên]] thuộc tỉnh [[Phú Thọ]] và xã [[Nội Bài]] (với ranh giới tự nhiên là [[sông Cà Lồ]]).<ref>{{Chú thích web |last=Viện nghiên cứu Phát triển kinh tế – xã hội Hà Nội|date=2025-07-02|title=Xã Tiến Thắng: Những thông tin chi tiết sau sắp xếp|url=https://hanoionline.vn/xa-tien-thang-nhung-thong-tin-chi-tiet-sau-sap-xep-344013.htm|url-status=live|archive-url=https://web.archive.org/web/20260701400809/https://hanoionline.vn/xa-tien-thang-nhung-thong-tin-chi-tiet-sau-sap-xep-344013.htm|archive-date=2026-07-01|access-date=2026-07-01|website=Cơ quan Báo và Phát thanh Truyền hình Hà Nội}}</ref><ref>{{Chú thích web |last=Cơ quan Báo và Phát thanh Truyền hình Hà Nội|date=2025-07-08|title=Xã Tiến Thắng: Tất cả thông tin chỉ dẫn bạn cần biết|url=https://hanoionline.vn/xa-tien-thang-tat-ca-thong-tin-chi-dan-ban-can-biet-345220.htm|url-status=live|archive-url=https://web.archive.org/web/20260711401509/https://hanoionline.vn/xa-tien-thang-tat-ca-thong-tin-chi-dan-ban-can-biet-345220.htm|archive-date=2026-07-11|access-date=2026-07-11}}</ref>
+Xã Tiến Thắng có diện tích tự nhiên là 36,34 km<sup>2</sup>, quy mô dân số năm 2025 là 64.246 người và mật độ dân số đạt 1.767 người/km<sup>2</sup>.<ref>{{Chú thích web|last=Mai Hữu|date=2026-04-05|title=Hà Nội: Chi tiết phương án tổng thể sắp xếp đơn vị hành chính cấp xã|url=https://hanoimoi.vn/ha-noi-chi-tiet-phuong-an-tong-the-sap-xep-don-vi-hanh-chinh-cap-xa-700278.html|url-status=bot: unknown|archive-url=https://web.archive.org/web/20250710163328/https://hanoimoi.vn/ha-noi-chi-tiet-phuong-an-tong-the-sap-xep-don-vi-hanh-chinh-cap-xa-700278.html|archive-date=2025-07-10|access-date=2026-07-11|website=Cơ quan Báo và Phát thanh, truyền hình Hà Nội}}</ref><ref>Công văn số 2896/BNV-CQĐP ngày 27 tháng 5 năm 2025 của Bộ Nội vụ về việc cung cấp thông tin danh mục dự kiến đơn vị hành chính cấp xã mới.</ref>
+
+== Lịch sử==
+
+=== Trước năm 1976 ===
+
+=== Giai đoạn 1976 – nay ===
+Sau ngày 2 tháng 7 năm 1976, 7 xã: Đại Thịnh, Tam Đồng, Thanh Lâm, Thạch Đà, Tiến Thắng, Tự Lập và Văn Khê thuộc huyện [[Yên Lãng (huyện)|Yên Lãng]]; xã Kim Hoa thuộc huyện [[Kim Anh (huyện)|Kim Anh]] của tỉnh [[Vĩnh Phú (tỉnh)|Vĩnh Phú]].
+
+Ngày 5 tháng 7 năm 1977, hợp nhất huyện [[Bình Xuyên (huyện)|Bình Xuyên]] và huyện [[Yên Lãng (huyện)|Yên Lãng]] thành một huyện lấy tên là huyện [[Mê Linh (huyện)|Mê Linh]] và sáp nhập xã Kim Hoa của huyện [[Kim Anh (huyện)|Kim Anh]] vào huyện [[Mê Linh (huyện)|Mê Linh]]. Khi đó, 8 xã: Đại Thịnh, Kim Hoa, Tam Đồng, Thanh Lâm, Thạch Đà, Tiến Thắng, Tự Lập và Văn Khê thuộc huyện [[Mê Linh (huyện)|Mê Linh]] của tỉnh [[Vĩnh Phú (tỉnh)|Vĩnh Phú]].<ref>Quyết định số 178-CP ngày 5 tháng 7 năm 1977 của Hội đồng Chính phủ về việc hợp nhất và điều chỉnh địa giới một số huyện thuộc tỉnh Vĩnh Phú.</ref>
+
+Ngày 29 tháng 12 năm 1978, sáp nhập các xã Đại Thịnh, Tam Đồng, Thạch Đà, Thanh Lâm, Tiến Thắng, Tự Lập, Văn Khê và Kim Hoa thuộc huyện [[Mê Linh (huyện)|Mê Linh]] của tỉnh [[Vĩnh Phú (tỉnh)|Vĩnh Phú]] vào thành phố [[Hà Nội]].<ref>Nghị quyết ngày 29 tháng 12 năm 1978 của Quốc hội khóa VI, Kỳ họp thứ 4 phê chuẩn việc phân vạch lại địa giới thành phố Hà Nội, thành phố Hồ Chí Minh, các tỉnh Hà Sơn Bình, Vĩnh Phú, Cao Lạng, Bắc Thái, Quảng Ninh và Đồng Nai.</ref>
+
+Ngày 12 tháng 8 năm 1991, chuyển huyện [[Mê Linh (huyện)|Mê Linh]] của thành phố [[Hà Nội]] về tỉnh [[Vĩnh Phú (tỉnh)|Vĩnh Phú]]. Khi đó, 8 xã: Đại Thịnh, Kim Hoa, Tam Đồng, Thanh Lâm, Thạch Đà, Tiến Thắng, Tự Lập và Văn Khê thuộc huyện [[Mê Linh (huyện)|Mê Linh]] của tỉnh [[Vĩnh Phú (tỉnh)|Vĩnh Phú]].<ref>Nghị quyết ngày 12 tháng 8 năm 1991 của Quốc hội khóa VIII, Kỳ họp thứ 9 về việc điều chỉnh địa giới hành chính một số tỉnh, thành phố trực thuộc Trung ương.</ref>
+
+Ngày 6 tháng 11 năm 1996, chia tỉnh [[Vĩnh Phú (tỉnh)|Vĩnh Phú]] thành hai tỉnh là tỉnh [[Phú Thọ]] và tỉnh [[Vĩnh Phúc (tỉnh)|Vĩnh Phúc]]. Khi đó, 8 xã: Đại Thịnh, Kim Hoa, Tam Đồng, Thanh Lâm, Thạch Đà, Tiến Thắng, Tự Lập và Văn Khê thuộc huyện [[Mê Linh (huyện)|Mê Linh]] của tỉnh [[Vĩnh Phúc (tỉnh)|Vĩnh Phúc]].<ref>Nghị quyết ngày 6 tháng 11 năm 1996 của Quốc hội khóa IX, Kỳ họp thứ 10 về việc chia và điều chỉnh địa giới hành chính một số tỉnh.</ref>
+
+Ngày 29 tháng 5 năm 2008, chuyển toàn bộ huyện [[Mê Linh (huyện)|Mê Linh]] của tỉnh [[Vĩnh Phúc (tỉnh)|Vĩnh Phúc]] về thành phố [[Hà Nội]].<ref>Nghị quyết số 15/2008/QH12 ngày 29 tháng 5 năm 2008 của Quốc hội về việc điều chỉnh địa giới hành chính thành phố Hà Nội và một số tỉnh có liên quan.</ref>
+
+Ngày 8 tháng 5 năm 2009, xác lập địa giới hành chính của huyện [[Mê Linh (huyện)|Mê Linh]] thuộc thành phố [[Hà Nội]]. Khi đó, 8 xã: Đại Thịnh, Kim Hoa, Tam Đồng, Thanh Lâm, Thạch Đà, Tiến Thắng, Tự Lập và Văn Khê thuộc huyện [[Mê Linh (huyện)|Mê Linh]] của thành phố [[Hà Nội]].<ref>{{Chú thích web |title=Nghị quyết số 19/NQ-CP ngày 8 tháng 5 năm 2009 của Chính phủ về việc xác lập địa giới hành chính xã Đông Xuân thuộc huyện Quốc Oai; các xã Tiến Xuân, Yên Bình, Yên Trung thuộc huyện Thạch Thất; huyện Mê Linh thuộc thành phố Hà Nội; thành lập quận Hà Đông và các phường trực thuộc; chuyển thành phố Sơn Tây thành thị xã Sơn Tây thuộc thành phố Hà Nội |url=https://chinhphu.vn/default.aspx?pageid=27160&docid=86463 |url-status=bot: unknown |archive-url=https://web.archive.org/web/20250120035053/https://chinhphu.vn/default.aspx?pageid=27160&docid=86463 |archive-date=2025-01-20 |access-date=2026-07-06 |website=Cổng Thông tin điện tử Chính phủ }}</ref>
+
+Ngày 16 tháng 6 năm 2025:
+
+* Kết thúc hoạt động của đơn vị hành chính cấp huyện trong cả nước.<ref>{{Chú thích web |last= |date= |title=Nghị quyết số 203/2025/QH15 ngày 16 tháng 6 năm 2025 của Quốc hội khóa XV, Kỳ họp thứ 9 về việc sửa đổi, bổ sung một số điều của Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/nq-sua-doi-hien-phap.pdf |url-status=live |archive-url=https://web.archive.org/web/20260613090807/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/nq-sua-doi-hien-phap.pdf |archive-date=2026-06-13 |access-date=2026-06-13 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+* Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của các xã Tam Đồng, Tiến Thắng, Tự Lập, một phần diện tích tự nhiên, quy mô dân số của các xã Đại Thịnh, Kim Hoa, Thanh Lâm, phần còn lại của xã Văn Khê và phần còn lại của xã Thạch Đà (huyện [[Mê Linh (huyện)|Mê Linh]]) thành xã mới có tên gọi là xã Tiến Thắng.<ref>{{Chú thích web |title=Nghị quyết số 1656/NQ-UBTVQH15 ngày 16 tháng 6 năm 2025 của Ủy ban Thường vụ Quốc hội về việc sắp xếp các đơn vị hành chính cấp xã của thành phố Hà Nội năm 2025 |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf |url-status=bot: unknown |archive-url=https://web.archive.org/web/20260513110024/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf |archive-date=2026-05-13 |access-date=2026-06-30 |website=Cổng Thông tin điện tử Chính phủ }}</ref>
+* Sau khi sắp xếp, xã Tiến Thắng được chia thành 22 thôn.<ref>3 thôn: Cư An, Nam Cường và Văn Lôi của xã Tam Đồng cũ; 4 thôn: Bạch Trữ, Diến Táo, Kim Giao và Thái Lai của xã Tiến Thắng cũ; 2 thôn: Phú Mỹ và Yên Bài của xã Tự Lập cũ; thôn Thượng của xã Đại Thịnh cũ; 4 thôn: Bạch Đa, Bến Già, Ngọc Trì và Yên Phú của xã Kim Hoa cũ; 6 thôn: Đức Hậu, Đường 23, Mỹ Lộc, Ngự Tiền, Phú Hữu và Thanh Vân của xã Thanh Lâm cũ; thôn Khê Ngoại 5 của xã Văn Khê cũ; thôn Tân Châu của xã Chu Phan cũ.</ref><ref>{{Chú thích web |title=Thông tư số 10/2022/TT-BTNMT ngày 29 tháng 9 năm 2022 của Bộ Tài nguyên và Môi trường về việc Ban hành Danh mục địa danh dân cư, sơn văn, thủy văn, kinh tế – xã hội phục vụ công tác thành lập bản đồ thành phố Hà Nội |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2022/10/10-btnmt.pdf |url-status=bot: unknown |archive-url=https://web.archive.org/web/20260630082812/https://datafiles.chinhphu.vn/cpp/files/vbpq/2022/10/10-btnmt.pdf |archive-date=2026-06-30 |access-date=2026-06-30 |website=Cổng Thông tin điện tử Chính phủ }}</ref><ref>{{Chú thích web |last= |date= |title=Quyết định số 7/QĐ-UBBC ngày 12 tháng 2 năm 2026 của Ủy ban bầu cử xã Tiến Thắng về việc công bố danh sách chính thức những người ứng cử đại biểu Hội đồng nhân dân xã Tiến Thắng nhiệm kỳ 2026 – 2031 theo từng đơn vị bầu cử |url=https://sqhx-hanoi.mediacdn.vn/91579363132710912/2026/3/1/document-78-1772352831480978193974.pdf |url-status=bot: unknown |archive-url=https://web.archive.org/web/20260714222018/https://sqhx-hanoi.mediacdn.vn/91579363132710912/2026/3/1/document-78-1772352831480978193974.pdf |archive-date=2026-07-14 |access-date=2026-07-01 |website=Trang Thông tin điện tử xã Tiến Thắng – thành phố Hà Nội }}</ref>
+
+Ngày 19 tháng 6 năm 2026, thành lập 6 thôn mới: Tân Tiến, Kim Diến, Mỹ Lộc, Thanh Tước, Bến Ngọc và Phú Đa.<ref>1. Sắp xếp thôn Khê Ngoại 5 và thôn Tân Châu, lấy tên là thôn Tân Tiến; 2. Sắp xếp thôn Diến Táo và thôn Kim Giao, lấy tên là thôn Kim Diến; 3. Sắp xếp thôn Đường 23 và thôn Mỹ Lộc, lấy tên là thôn Mỹ Lộc; 4. Sắp xếp thôn Đức Hậu và thôn Ngự Tiền, lấy tên là thôn Thanh Tước; 5. Sắp xếp thôn Bến Già và thôn Ngọc Trì, lấy tên là thôn Bến Ngọc; 6. Sắp xếp thôn Yên Phú và thôn Bạch Đa, lấy tên là thôn Phú Đa; 7. Các thôn giữ nguyên gồm: Thượng; Bạch Trữ; Thái Lai; Văn Lôi; Cư An; Nam Cường; Yên Bài; Phú Mỹ; Phú Hữu; Thanh Vân.</ref><ref name=":0">{{Chú thích web |last= |date= |title=Thông báo số 1122/TB-UBND ngày 30 tháng 6 năm 2026 của Ủy ban nhân dân xã Tiến Thắng về việc sắp xếp và giữ nguyên thôn trên địa bàn xã Tiến Thắng |url=https://datafiles.hanoi.gov.vn/gov-hni/6010/VanBan/Ti%E1%BA%BFn%20Th%E1%BA%AFng-%20th%C3%B4ng%20b%C3%A1o%20s%E1%BA%AFp%20x%E1%BA%BFp%20th%C3%B4n%20v%C3%A0%20gi%E1%BB%AF%20nguy%C3%AAn%20c%C3%A1c%20th%C3%B4n.639185001645222753.pdf |url-status=live |archive-url=https://web.archive.org/web/20260706400809/https://datafiles.hanoi.gov.vn/gov-hni/6010/VanBan/Ti%E1%BA%BFn%20Th%E1%BA%AFng-%20th%C3%B4ng%20b%C3%A1o%20s%E1%BA%AFp%20x%E1%BA%BFp%20th%C3%B4n%20v%C3%A0%20gi%E1%BB%AF%20nguy%C3%AAn%20c%C3%A1c%20th%C3%B4n.639185001645222753.pdf |archive-date=2026-07-06 |access-date=2026-07-06|website=Trang Thông tin điện tử xã Tiến Thắng – thành phố Hà Nội}}</ref>
+
+== Hành chính==
+Xã Tiến Thắng được chia thành 16 thôn: Bạch Trữ, Bến Ngọc, Cư An, Kim Diến, Mỹ Lộc, Nam Cường, Phú Đa, Phú Hữu, Phú Mỹ, Tân Tiến, Thanh Tước, Thanh Vân, Thái Lai, Thượng, Văn Lôi và Yên Bài.<ref name=":0" />
+{| class="wikitable sortable" cellpadding="0" cellspacing="6" width="100%" align="center" style="background: #f9f9f9; border: 1px #aaa solid; margin-top: 16px"
+! colspan="4" style="background: #E6E6FA; font-size: 95%;" |Danh sách các thôn thuộc xã Tiến Thắng<ref name=":0" />
+|-
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| cellpadding="1" cellspacing="1" width="100%" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+|-
+| align="left" |Bạch Trữ
+|-
+| align="left" |Bến Ngọc
+|-
+| align="left" |Cư An
+|-
+| align="left" |Kim Diến
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| cellpadding="1" cellspacing="1" width="100%" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+|-
+| align="left" |Mỹ Lộc
+|-
+| align="left" |Nam Cường
+|-
+| align="left" |Phú Đa
+|-
+| align="left" |Phú Hữu
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| cellpadding="1" cellspacing="1" width="100%" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+|-
+| align="left" |Phú Mỹ
+|-
+| align="left" |Tân Tiến
+|-
+| align="left" |Thanh Tước
+|-
+| align="left" |Thanh Vân
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| cellpadding="1" cellspacing="1" width="100%" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+|-
+| align="left" |Thái Lai
+|-
+| align="left" |Thượng
+|-
+| align="left" |Văn Lôi
+|-
+| align="left" |Yên Bài
+|}
+|}
+
+== Di tích - Danh thắng ==
+
+=== Đình Cư An ===
+Đình làng Cư An, xã Tam Đồng thờ di tích thờ [[Võ tướng nhà Đinh|tướng Phạm Huyền Thông]] - Thái Úy thống lĩnh tiền quân thủy bộ thời Đinh sau được phong Thái Úy Thượng Quốc Đại Vương. Ông là người trang Hồ Liên ([[Thanh Oai (huyện)|Thanh Oai]]), có công đánh dẹp các sứ quân [[Ngô Xương Xí]], [[Nguyễn Siêu]], [[Phạm Bạch Hổ]]. Ông cũng được thờ ở Đình Phương Mỹ xã Mỹ Hưng, [[Thanh Oai (huyện)|Thanh Oai]] quê hương.<ref>[http://nguoihanoi.com.vn/pho-vuong-trung-nhi-va-thai-uy-pham-huyen-thong_243224.html Phó vương Trưng Nhị và Thái úy Phạm Huyền Thông]</ref>
+
+<!-- 
+Xã Tự Lập có [[đình Phú Mỹ]] được xếp hạng di tích Lịch sử Quốc gia. Hội làng được tổ chức từ ngày 8 đến ngày 10 tháng Giêng hàng năm. Các hạng mục văn hoá tâm linh gồm Đình thờ Thành Hoàng làng,đền thờ thánh bà, và chùa Đâu Suất Tự.Yên Bài cũng có Chùa và Đình mới được xây dựng măn 2016. Nhân dân trong xã chủ yếu làm nghề nông nghiệp, có một số ít Nhân dân trong xã làm xây dựng và một số nghề khác. Nhân dân xã Tự Lập luôn chấp hành tốt các chủ trương của Đảng, chính sách pháp luật của Nhà nước và các quy định của địa phương
+
+Đây từng là nơi tập trận của nghĩa quân Hai Bà Trưng, hiện giờ là khu di tích thành Dền, tại cánh đồng Đồng Mã giáp với cánh đồng xã Tam Đồng. Xã Tự Lập là xã có số lượng sinh viên Đại học/Cao đẳng khá cao trong huyện Mê Linh.
+ -->
+== Chú thích== 
+{{tham khảo| 30em}}
+
+== Tham khảo ==
+{{sơ khai Hà Nội}}
+{{Đơn vị hành chính thuộc thành phố Hà Nội}}

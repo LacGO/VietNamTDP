@@ -1,0 +1,237 @@
+{{Thông tin đơn vị hành chính Việt Nam |Phường
+| tên = Khương Đình
+| hình = Khương Đình Street, HN.jpg 
+| ghi chú hình = Một góc Ngõ 460, Đường Khương Đình 
+| vĩ độ = 20.983483450175022
+| kinh độ = 105.81482955890841
+| diện tích = 3,1 km²
+| dân số = 86.286 người
+| thời điểm dân số = 2025
+| mật độ dân số = {{formatnum:{{#expr:floor({{formatnum:86.286| R}}/{{formatnum:3,1| R}})}} }} người/km²
+| vùng = [[Đồng bằng sông Hồng]]
+| thành phố = [[Hà Nội]]
+| trụ sở UBND =Số 33 Khương Hạ<ref>{{Chú thích web |url=https://storage-vnportal.vnpt.vn/gov-hni/6244/VanBan/2025/6/25/TB-729-2025.pdf |title=Thông báo số 729/TB-UBND ngày 25 tháng 6 năm 2025 của Ủy ban nhân dân thành phố Hà Nội về địa điểm trụ sở làm việc của 126 phường, xã sau sắp xếp thuộc phạm vi quản lý của thành phố Hà Nội|access-date=2026-06-15 |archive-date=2026-06-15 |archive-url=https://web.archive.org/web/20260615034519/https://storage-vnportal.vnpt.vn/gov-hni/6244/VanBan/2025/6/25/TB-729-2025.pdf |url-status=dead | website = Cổng Thông tin điện tử Ủy ban nhân dân thành phố Hà Nội}}</ref> 
+| mã hành chính =00364<ref>{{Chú thích web |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/19ttg.signed.pdf |title=Quyết định số 19/2025/QĐ-TTg ngày 30 tháng 6 năm 2025 của Thủ tướng Chính phủ về việc Ban hành Bảng danh mục và mã số các đơn vị hành chính Việt Nam |access-date=2026-06-15 |archive-date=2026-06-15 |archive-url=https://web.archive.org/web/20260615034519/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/19ttg.signed.pdf |url-status=dead | website = Cổng Thông tin điện tử Chính phủ}}</ref> 
+| bản đồ 1 = [[File:Khuong Dinh map.png| 300px]]
+| tựa bản đồ 1 = Bản đồ phường Khương Đình
+|trụ sở Đảng ủy=Số 60 đường Kim Giang|web={{url|khuongdinh.hanoi.gov.vn}}}}
+'''Khương Đình''' là một [[Phường (Việt Nam)|phường]] thuộc thành phố [[Hà Nội]], [[Việt Nam]].
+
+== Địa lý ==
+Phường Khương Đình có vị trí địa lý:
+* Phía đông giáp phường [[Phương Liệt]] và phường [[Định Công (phường)|Định Công]] (ranh giới đi theo đường giao thông quy hoạch và ranh giới phường cũ)
+* Phía tây giáp phường [[Thanh Liệt]] và phường [[Thanh Xuân (phường)|Thanh Xuân]] (ranh giới đi theo đường Nguyễn Trãi – [[Đường Nguyễn Xiển, Hà Nội|đường Nguyễn Xiển]])
+* Phía nam giáp phường [[Thanh Liệt]] và phường [[Định Công (phường)|Định Công]] (ranh giới đi theo đường Nguyễn Xiển)
+* Phía bắc giáp phường [[Đống Đa (phường)|Đống Đa]] và phường [[Kim Liên (phường)|Kim Liên]] (ranh giới đi theo đường Nguyễn Trãi – [[Đường Trường Chinh, Hà Nội|đường Trường Chinh]] – đường Vương Thừa Vũ).<ref>{{Chú thích web |last=Báo Điện tử Chính phủ |date=2025-04-28 |title=Chi tiết dự thảo phương án sắp xếp các phường của Hà Nội |url=https://xaydungchinhsach.chinhphu.vn/chi-tiet-du-thao-phuong-an-sap-xep-cac-phuong-cua-ha-noi-119250421100531902.htm |url-status=dead |archive-url=https://web.archive.org/web/20260316174230/https://xaydungchinhsach.chinhphu.vn/chi-tiet-du-thao-phuong-an-sap-xep-cac-phuong-cua-ha-noi-119250421100531902.htm |archive-date=2026-03-16 |access-date=2026-07-10 |website=Xây dựng chính sách, pháp luật}}</ref><ref>{{Chú thích web |last=Viện nghiên cứu Phát triển kinh tế – xã hội Hà Nội |date=2025-07-03 |title=Phường Khương Đình: Những thông tin chi tiết sau sắp xếp |url=https://hanoionline.vn/phuong-khuong-dinh-nhung-thong-tin-chi-tiet-sau-sap-xep-344190.htm |url-status=dead |archive-url=https://web.archive.org/web/20260826400809/https://hanoionline.vn/phuong-khuong-dinh-nhung-thong-tin-chi-tiet-sau-sap-xep-344190.htm |archive-date=2026-08-26 |access-date=2026-08-26 |website=Cơ quan Báo và Phát thanh Truyền hình Hà Nội}}</ref><ref>{{Chú thích web |last=Cơ quan Báo và Phát thanh Truyền hình Hà Nội |date=2025-07-05 |title=Phường Khương Đình: Tất cả thông tin chỉ dẫn bạn cần biết |url=https://hanoionline.vn/phuong-khuong-dinh-tat-ca-thong-tin-chi-dan-ban-can-biet-344678.htm |url-status=dead |archive-url=https://web.archive.org/web/20260826401509/https://hanoionline.vn/phuong-khuong-dinh-tat-ca-thong-tin-chi-dan-ban-can-biet-344678.htm |archive-date=2026-08-26 |access-date=2026-08-26}}</ref>
+
+Phường Khương Đình có diện tích tự nhiên là 3,1&nbsp;km<sup>2</sup>, quy mô dân số năm 2025 là 86.286 người và mật độ dân số đạt 27.834 người/km<sup>2</sup>.<ref>{{Chú thích web |last=Mai Hữu |date=2026-04-05 |title=Hà Nội: Chi tiết phương án tổng thể sắp xếp đơn vị hành chính cấp xã |url=https://hanoimoi.vn/ha-noi-chi-tiet-phuong-an-tong-the-sap-xep-don-vi-hanh-chinh-cap-xa-700278.html |url-status=bot: unknown |archive-url=https://web.archive.org/web/20250710163328/https://hanoimoi.vn/ha-noi-chi-tiet-phuong-an-tong-the-sap-xep-don-vi-hanh-chinh-cap-xa-700278.html |archive-date=2025-07-10 |access-date=2026-07-08 |website=Cơ quan Báo và Phát thanh, truyền hình Hà Nội}}</ref><ref>Công văn số 2896/BNV-CQĐP ngày 27 tháng 5 năm 2025 của Bộ Nội vụ về việc cung cấp thông tin danh mục dự kiến đơn vị hành chính cấp xã mới.</ref>
+
+== Lịch sử ==
+
+=== Trước năm 1976 ===
+Trước năm 1945, Khương Đình là một [[Tổng (đơn vị hành chính cũ Việt Nam)|tổng]] thuộc huyện [[Thanh Trì (huyện)|Thanh Trì]], phủ [[Thường Tín (phủ)|Thường Tín]], tỉnh [[Hà Đông (tỉnh)|Hà Đông]]. Sau [[Cách mạng tháng Tám|Cách mạng Tháng Tám]], Khương Đình là một xã thuộc huyện Thanh Trì.
+
+=== Giai đoạn 1976 – nay ===
+Sau ngày 2 tháng 7 năm 1976, 3 tiểu khu: Nguyễn Trãi, Thanh Xuân và Thượng Đình thuộc khu phố [[Đống Đa (quận)|Đống Đa]]; 3 xã: Đại Kim, Khương Đình và Tân Triều thuộc huyện [[Thanh Trì (huyện)|Thanh Trì]]; xã Nhân Chính thuộc huyện [[Từ Liêm (huyện)|Từ Liêm]] của thành phố [[Hà Nội]].
+
+Ngày 3 tháng 1 năm 1981, từ nay ở nội thành, đơn vị hành chính cấp dưới trực tiếp của [[Thành phố trực thuộc trung ương (Việt Nam)|thành phố trực thuộc trung ương]] đều thống nhất gọi là [[Quận (Việt Nam)|quận]]; các đơn vị hành chính cơ sở ở nội thành, nội thị của các [[Thành phố thuộc tỉnh (Việt Nam)|thành phố thuộc tỉnh]], [[Thị xã (Việt Nam)|thị xã]] và [[Quận (Việt Nam)|quận]] gọi là [[Phường (Việt Nam)|phường]]. Khi đó, 3 phường: Nguyễn Trãi, Thanh Xuân và Thượng Đình thuộc quận [[Đống Đa (quận)|Đống Đa]].<ref>Quyết định số 3-CP ngày 3 tháng 1 năm 1981 của Hội đồng Chính phủ về việc thống nhất tên gọi các đơn vị hành chính ở nội thành nội thị.</ref>
+
+Ngày 13 tháng 10 năm 1982:
+
+* Thành lập phường Kim Giang (quận [[Đống Đa (quận)|Đống Đa]]) gồm 13 héc ta đất của thôn Kim Giang, xã Đại Kim, huyện [[Thanh Trì (huyện)|Thanh Trì]] và đoạn đường ven theo sông Tô Lịch (từ phường Thượng Đình tới xã Đại Kim).
+* Phần đất còn lại của thôn Cự Chính, xã Nhân Chính, huyện [[Từ Liêm (huyện)|Từ Liêm]] sáp nhập vào phường Thanh Xuân cùng quận [[Đống Đa (quận)|Đống Đa]].<ref>{{Chú thích web |title=Quyết định số 173-HĐBT ngày 13 tháng 10 năm 1982 của Hội đồng Bộ trưởng về việc phân vạch địa giới một số phường và thị trấn thuộc thành phố Hà Nội |url=https://chinhphu.vn/default.aspx?pageid=27160&docid=6408 |url-status=dead |archive-url=https://web.archive.org/web/20260823201510/https://chinhphu.vn/default.aspx?pageid=27160&docid=6408 |archive-date=2026-08-23 |access-date=2026-08-23 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+
+Ngày 22 tháng 11 năm 1996:
+* Tách toàn bộ diện tích tự nhiên và nhân khẩu của các phường Thượng Đình, Thanh Xuân; 78,1 ha diện tích tự nhiên và 20.862 nhân khẩu của phường Nguyễn Trãi (thuộc quận [[Đống Đa (quận)|Đống Đa]]); toàn bộ diện tích tự nhiên và nhân khẩu của xã Khương Đình (huyện [[Thanh Trì (huyện)|Thanh Trì]]) về quận [[Thanh Xuân (quận)|Thanh Xuân]] mới thành lập.
+* Phường Thanh Xuân (được đổi tên thành phường Thanh Xuân Trung).
+* Phường Khương Trung được thành lập trên cơ sở 78,1 ha diện tích tự nhiên và 20.862 nhân khẩu của phường Nguyễn Trãi (quận [[Đống Đa (quận)|Đống Đa]]).
+* Phường Khương Đình và phường Hạ Đình được thành lập trên cơ sở xã Khương Đình.<ref name="74-CP">{{Chú thích web | date = | title = Nghị định số 74-CP ngày 22 tháng 11 năm 1996 của Chính phủ về việc thành lập quận Thanh Xuân, quận Cầu Giấy, thành lập và đổi tên một số phường thuộc thành phố Hà Nội | url = https://thuvienphapluat.vn/van-ban/Bat-dong-san/Nghi-dinh-74-CP-thanh-lap-quan-Thanh-Xuan-quan-Cau-Giay-thanh-lap-va-doi-ten-mot-so-phuong-thuoc-thanh-pho-Ha-Noi-40215.aspx | url-status = dead | archive-url =https://web.archive.org/web/20260823201510/https://thuvienphapluat.vn/van-ban/Bat-dong-san/Nghi-dinh-74-CP-thanh-lap-quan-Thanh-Xuan-quan-Cau-Giay-thanh-lap-va-doi-ten-mot-so-phuong-thuoc-thanh-pho-Ha-Noi-40215.aspx | archive-date =2026-08-23 | access-date =2026-08-23 | website = Thư viện pháp luật}}</ref>
+
+Ngày 6 tháng 11 năm 2003:
+
+* Tách toàn bộ diện tích tự nhiên và dân số của xã Đại Kim thuộc huyện [[Thanh Trì (huyện)|Thanh Trì]] về quận [[Hoàng Mai (quận)|Hoàng Mai]] mới thành lập.
+* Thành lập phường Đại Kim trên cơ sở toàn bộ diện tích tự nhiên và dân số của xã Đại Kim.<ref>Nghị định số 132/2003/NĐ-CP ngày 6 tháng 11 năm 2003 của Chính phủ về việc điều chỉnh địa giới hành chính để thành lập các quận Long Biên, Hoàng Mai, thành lập các phường trực thuộc quận Long Biên, quận Hoàng Mai, thành phố Hà Nội.</ref>
+
+Ngày 14 tháng 11 năm 2024, nhập phường Kim Giang (quận [[Thanh Xuân (quận)|Thanh Xuân]]) vào phường Hạ Đình.<ref>{{Chú thích web |title=Nghị quyết số 1286/NQ-UBTVQH15 ngày 14 tháng 11 năm 2024 của Ủy ban Thường vụ Quốc hội về việc sắp xếp đơn vị hành chính cấp xã của thành phố Hà Nội giai đoạn 2023 – 2025 |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/11/1286-qh.signed.pdf |url-status=live |archive-url=https://web.archive.org/web/20260704400809/https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/11/1286-qh.signed.pdf |archive-date=2026-07-04 |access-date=2026-07-04 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+
+Ngày 16 tháng 6 năm 2025:
+
+* Kết thúc hoạt động của đơn vị hành chính cấp huyện trong cả nước.<ref>{{Chú thích web |last= |date= |title=Nghị quyết số 203/2025/QH15 ngày 16 tháng 6 năm 2025 của Quốc hội khóa XV, Kỳ họp thứ 9 về việc sửa đổi, bổ sung một số điều của Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/nq-sua-doi-hien-phap.pdf |url-status=live |archive-url=https://web.archive.org/web/20260613090807/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/nq-sua-doi-hien-phap.pdf |archive-date=2026-06-13 |access-date=2026-06-13 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+* Sắp xếp một phần diện tích tự nhiên, quy mô dân số của các phường Hạ Đình, Khương Đình, Khương Trung (quận [[Thanh Xuân (quận)|Thanh Xuân]]), một phần diện tích tự nhiên của phường Đại Kim (quận [[Hoàng Mai (quận)|Hoàng Mai]]) và xã Tân Triều (huyện [[Thanh Trì (huyện)|Thanh Trì]]), phần còn lại của phường Thanh Xuân Trung và phường Thượng Đình (quận [[Thanh Xuân (quận)|Thanh Xuân]]) thành phường mới có tên gọi là phường Khương Đình.<ref>{{Chú thích web |title=Nghị quyết số 1656/NQ-UBTVQH15 ngày 16 tháng 6 năm 2025 của Ủy ban Thường vụ Quốc hội về việc sắp xếp các đơn vị hành chính cấp xã của thành phố Hà Nội năm 2025 |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf |url-status=bot: unknown |archive-url=https://web.archive.org/web/20260513110024/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf |archive-date=2026-05-13 |access-date=2026-06-30 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+* Sau khi sắp xếp, phường Khương Đình được chia thành 78 tổ dân phố.<ref>21 tổ dân phố, đánh số từ 1 đến 10 và từ 17 đến 27 của phường Hạ Đình cũ; 22 tổ dân phố: 1, 3, từ 5 đến 8, từ 10 đến 24 và 26 của phường Khương Đình cũ; 21 tổ dân phố: 1, 1A, từ 2 đến 7, 7A, từ 8 đến 10, 10A, từ 11 đến 13, 13A, từ 14 đến 16 và 20 của phường Khương Trung cũ; 5 tổ dân phố, đánh số từ 22 đến 24, 26 và 27 của phường Thanh Xuân Trung cũ; 9 tổ dân phố: 1, 5, 6, 8, 10, 12, 13, 16 và 17 của phường Thượng Đình cũ.</ref><ref>{{Chú thích web |title=Thông tư số 10/2022/TT-BTNMT ngày 29 tháng 9 năm 2022 của Bộ Tài nguyên và Môi trường về việc Ban hành Danh mục địa danh dân cư, sơn văn, thủy văn, kinh tế – xã hội phục vụ công tác thành lập bản đồ thành phố Hà Nội |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2022/10/10-btnmt.pdf |url-status=bot: unknown |archive-url=https://web.archive.org/web/20260630082812/https://datafiles.chinhphu.vn/cpp/files/vbpq/2022/10/10-btnmt.pdf |archive-date=2026-06-30 |access-date=2026-06-30 |website=Cổng Thông tin điện tử Chính phủ}}</ref><ref>{{Chú thích web |last= |date= |title=Quyết định số 12/QĐ-UBBC ngày 18 tháng 12 năm 2025 của Ủy ban bầu cử phường Khương Đình về việc ấn định và công bố số đơn vị bầu cử, danh sách các đơn vị bầu cử và số đại biểu được bầu ở mỗi đơn vị bầu cử đại biểu Hội đồng nhân dân phường Khương Đình, nhiệm kỳ 2026 – 2031 |url=https://datafiles.hanoi.gov.vn/gov-hni/6958/VanBan/2026/1/5/qd-12-%20ubbc-%20d%C6%A1n%20v%E1%BB%8B%20b%E1%BA%A7u%20c%E1%BB%AD%20K%C4%90_0001.pdf |url-status=dead |archive-url=https://web.archive.org/web/20260825201510/https://datafiles.hanoi.gov.vn/gov-hni/6958/VanBan/2026/1/5/qd-12-%20ubbc-%20d%C6%A1n%20v%E1%BB%8B%20b%E1%BA%A7u%20c%E1%BB%AD%20K%C4%90_0001.pdf |archive-date=2026-08-25 |access-date=2026-08-25 |website=Trang Thông tin điện tử phường Khương Đình – thành phố Hà Nội}}</ref>
+[[hình:Kim Giang Road, Hanoi 30.jpg|thumb|224x224px| trái| Đường Kim Giang]]Ngày 12 tháng 9 năm 2025, ghép khu vực dân cư (tòa Gold Tower) vào tổ dân phố 22 (Thanh Xuân Trung).<ref>{{Chú thích web |last= |date= |title=Nghị quyết số 18/NQ-HĐND ngày 8 tháng 12 năm 2025 của Hội đồng nhân dân phường Khương Đình về việc ghép khu vực dân cư (tòa Gold Tower) vào Tổ dân phố số 22 (Thanh Xuân Trung) trên địa bàn phường Khương Đình sau sắp xếp đơn vị hành chính |url=https://datafiles.hanoi.gov.vn/gov-hni/6958/VanBan/2025/12/12/NQ%2018-H%C4%90ND.pdf |url-status=dead |archive-url=https://web.archive.org/web/20260824201510/https://datafiles.hanoi.gov.vn/gov-hni/6958/VanBan/2025/12/12/NQ%2018-H%C4%90ND.pdf |archive-date=2026-08-24 |access-date=2026-08-24 |website=Trang Thông tin điện tử phường Khương Đình – thành phố Hà Nội}}</ref>
+
+Ngày 24 tháng 12 năm 2025, xác định phần lớn của phường Khương Đình là [[Đô thị Việt Nam|đô thị loại II]].<ref>Chuyển tiếp từ 5 phường: Hạ Đình, Khương Đình, Khương Trung, Thanh Xuân Trung, Thượng Đình thuộc quận Thanh Xuân và phường Đại Kim thuộc quận Hoàng Mai.</ref><ref>{{Chú thích web |title=Nghị quyết số 111/2025/UBTVQH15 ngày 24 tháng 12 năm 2025 của Ủy ban Thường vụ Quốc hội về phân loại đô thị |url=https://cdn.nhandan.vn/files/f4a4abf7f9a0ba4a91744616546d850872b76917f90d5a74cc9eebef1369fb6f/111.pdf |url-status=dead |archive-url=https://web.archive.org/web/20260430074852/https://cdn.nhandan.vn/files/f4a4abf7f9a0ba4a91744616546d850872b76917f90d5a74cc9eebef1369fb6f/111.pdf |archive-date=2026-04-30 |access-date=2026-07-12 |website=Báo Nhân dân}}</ref>
+
+Ngày 25 tháng 6 năm 2026, thành lập 34 tổ dân phố mới, đánh số từ 1 đến 9, từ 11 đến 16, từ 18 đến 21 và từ 23 đến 37; giữ nguyên và đổi tên 3 tổ dân phố: 17 (Khương Đình), 10 (Hạ Đình) và 22 (Thanh Xuân Trung) lần lượt thành 3 tổ dân phố: 14, 23 và 31.<ref name=":12">1. Tổ dân phố số 1: Thành lập trên cơ sở toàn bộ tổ dân phố số 1 (Khương Trung) và 1A (Khương Trung); 2. Tổ dân phố số 2: Thành lập trên cơ sở toàn bộ tổ dân phố số 2 (Khương Trung) và 9 (Khương Trung); 3. Tổ dân phố số 3: Thành lập trên cơ sở toàn bộ tổ dân phố số 11 (Khương Trung) và 12 (Khương Trung); 4. Tổ dân phố số 4: Thành lập trên cơ sở toàn bộ tổ dân phố số 14 (Khương Trung) và 15 (Khương Trung); 5. Tổ dân phố số 5: Thành lập trên cơ sở toàn bộ tổ dân phố số 3 (Khương Trung) và 4 (Khương Trung); 6. Tổ dân phố số 6: Thành lập trên cơ sở toàn bộ tổ dân phố số 7 (Khương Trung) và 8 (Khương Trung); 7. Sáp nhập tổ dân phố 7A (Khương Trung) với tổ dân phố số 20 (Khương Trung), một phần tổ dân phố số 7 (từ số nhà 269 – 283 phố Khương Trung), một phần tổ dân phố số 1 (Khương Đình) gồm các hộ dân nằm bên trái đường Vành đai 2,5 (hướng từ phố Khương Trung đi vào) khoảng 27 hộ với 110 nhân khẩu giáp với tổ dân phố 7A (Khương Trung); 8. Tổ dân phố số 8: Thành lập trên cơ sở toàn bộ tổ dân phố số 13 (Khương Trung) và tổ dân phố số 13A (Khương Trung); 9. Tổ dân phố số 9: Thành lập trên cơ sở toàn bộ tổ dân phố số 5, 6 (Khương Trung) và 16 (Khương Trung); 10. Sáp nhập tổ dân phố số 10 (Khương Trung) với tổ dân phố số 10A (Khương Trung), các hộ dân tổ dân phố số 1 (Khương Đình) nằm bên trái và bên phải đường Vành đai 2,5 (từ phố Vũ Tông Phan đi vào đến phố Khương Trung) khoảng 232 hộ với 948 nhân khẩu giáp với tổ dân phố 10 và 10A; 11. Tổ dân phố số 11: Sáp nhập tổ dân phố số 3 (Khương Đình), một số hộ tổ dân phố số 1 (Khương Đình) (bên trái đường Vành đai 2,5) với 82 hộ 288 nhân khẩu, một số hộ tổ dân phố số 7 (Khương Đình) (bên trái đường Vành đai 2,5) với 152 hộ 405 nhân khẩu giáp với tổ dân phố số 3 (Khương Đình); 12. Tổ dân phố số 12: Sáp nhập tổ dân phố số 5 (Khương Đình) với tổ dân phố số 6 (Khương Đình), một phần tổ dân phố số 1 (Khương Đình) nằm bên phải đường Vành đai 2,5 (hướng từ phố Khương Trung đi vào) với 35 hộ 121 nhân khẩu giáp với tổ dân phố số 5 (Khương Đình); 13. Tổ dân phố số 13: Sáp nhập phần lớn hộ tổ dân phố số 7 (Khương Đình) nằm bên phải đường Vành đai 2,5 (hướng từ phố Khương Trung đi vào) với 193 hộ 780 nhân khẩu giáp với tổ dân phố số 8 (Khương Đình) thành tổ dân phố số 13; 14. Tổ dân phố số 14: Giữ nguyên Tổ dân phố 17 (Khương Đình) và đổi tên tổ dân phố mới; 15. Tổ dân phố số 15: Sáp nhập tổ dân phố số 16 (Khương Đình) với tổ dân phố số 10, 11 (Khương Đình); 16. Tổ dân phố số 16: Sáp nhập tổ dân phố số 12 (Khương Đình) với tổ dân phố số 13 (Khương Đình); 17. Tổ dân phố số 17: Sáp nhập tổ dân phố số 14 (Khương Đình) với tổ dân phố số 15 (Khương Đình); 18. Tổ dân phố số 18: Sáp nhập tổ dân phố số 18 (Khương Đình) với tổ dân phố số 20 (Khương Đình); 19. Tổ dân phố số 19: Sáp nhập tổ dân phố số 19 (Khương Đình) với tổ dân phố số 21 (Khương Đình); 20. Tổ dân phố số 20: Sáp nhập phần lớn tổ dân phố số 22 (Khương Đình) với tổ dân phố số 24 (Khương Đình); 21. Tổ dân phố số 21: Thành lập trên cơ sở sáp nhập Tổ dân phố số 23 (Khương Đình) với Tổ dân phố số 26 (Khương Đình) và 1 phần Tổ dân phố 22 (Khương Đình); 22. Tổ dân phố số 22: Thành lập trên cơ sở sáp nhập Tổ dân phố số 7 (Hạ Đình) với Tổ dân phố số 8, 9 (Hạ Đình); 23. Tổ dân phố số 23: Giữ nguyên Tổ dân phố số 10 (Hạ Đình), đổi tên tổ dân phố mới; 24. Tổ dân phố số 24: Thành lập trên cơ sở sáp nhập Tổ dân phố số 20 (Hạ Đình) với Tổ dân phố 21 (Hạ Đình); 25. Tổ dân phố số 25: Thành lập trên cơ sở sáp nhập Tổ dân phố số 17 (Hạ Đình) với Tổ dân phố số 18, 19 (Hạ Đình) và phần đất một phần diện tích tự nhiên của Đại Kim (Hoàng Mai cũ) đã ghép vào tổ dân phố 27 (Hạ Đình); 26. Tổ dân phố số 26: Thành lập trên cơ sở sáp nhập Tổ dân phố số 22 (Hạ Đình) với Tổ dân phố số 23, 24 (Hạ Đình); 27. Tổ dân phố số 27: Thành lập trên cơ sở sáp nhập Tổ dân phố số 25 (Hạ Đình) với Tổ dân phố số 26, 27 (Hạ Đình); 28. Tổ dân phố số 28: Thành lập trên cơ sở sáp nhập phần lớn Tổ dân phố số 1 (Hạ Đình) với Tổ dân phố số 2 (Hạ Đình), các hộ dân Tổ dân phố số 16 (Thượng Đình) nằm bên trái đường vành đai 2,5 (hướng từ phố Thượng Đình đi vào) với 74 hộ với 180 nhân khẩu giáp Tổ dân phố số 1 (Hạ Đình), một số hộ dân Tổ dân phố 13 (Thượng Đình) nằm bên trái đường vành đai 2,5 (hướng từ phố Thượng Đình đi vào) với 15 hộ với 80 nhân khẩu giáp với Tổ dân phố 16 (Thượng Đình); 29. Tổ dân phố số 29: Thành lập trên cơ sở sáp nhập Tổ dân phố số 3 (Hạ Đình) với Tổ dân phố số 4 (Hạ Đình); 30. Tổ dân phố số 30: Thành lập trên cơ sở sáp nhập Tổ dân phố số 5 (Hạ Đình với Tổ dân phố số 6 (Hạ Đình); 31. Tổ dân phố số 31: Giữ nguyên Tổ dân phố số 22 (Thanh Xuân Trung), đổi tên tổ dân phố mới; 32. Tổ dân phố số 32: Thành lập trên cơ sở sáp nhập Tổ dân phố số 23 (Thanh Xuân Trung) với Tổ dân phố số 24 (Thanh Xuân Trung); 33. Tổ dân phố số 33: Thành lập trên cơ sở sáp nhập Tổ dân phố số 26 (Thanh Xuân Trung) với Tổ dân phố số 27 (Thanh Xuân Trung); 34. Tổ dân phố số 34: Thành lập trên cơ sở sáp nhập Tổ dân phố số 1 (Thượng Đình) với Tổ dân phố số 8 (Thượng Đình); 35. Tổ dân phố số 35: Thành lập trên cơ sở sáp nhập Tổ dân phố số 5 (Thượng Đình) với Tổ dân phố số 6 (Thượng Đình); 36. Tổ dân phố số 36: Thành lập trên cơ sở sáp nhập Tổ dân phố số 10 (Thượng Đình) với Tổ dân phố số 12 (Thượng Đình); 37. Tổ dân phố số 37: Thành lập trên cơ sở sáp nhập phần lớn Tổ dân phố số 13 (Thượng Đình) nằm bên phải đường vành đai 2,5 (hướng từ phố Thượng Đình đi vào) giáp với Tổ dân phố số 16, 17 (Thượng Đình), phần lớn Tổ dân phố số 16 (Thượng Đình) nằm bên phải đường vành đai 2,5 (hướng từ phố Thượng Đình đi vào) giáp với Tổ dân phố 13, 17 (Thượng Đình), một số hộ dân Tổ dân phố số 1 (Hạ Đình) nằm bên phải đường vành đai 2,5 (hướng từ phố Thượng Đình đi vào) giáp với Tổ dân phố số 16 (Thượng Đình) với Tổ dân phố số 17 (Thượng Đình).</ref><ref name=":2">{{Chú thích web |last=Phòng Văn hóa – Xã hội phường Khương Đình |date=2026-06-30 |title=Phường Khương Đình tổ chức Hội nghị công bố Nghị quyết số 21/NQ-HĐND về việc sắp xếp tổ dân phố trên địa bàn |url=https://khuongdinh.hanoi.gov.vn/tin-tuc-su-kien/phuong-khuong-dinh-to-chuc-hoi-nghi-cong-bo-nghi-quyet-so-21-nq-hdnd-ve-viec-sap-xep-to-dan-pho-tren-dia-ban-2817260701121309439.htm?gidzl=fTYyOQ9LZo6XnxXdg4o88w34lsA_IueWkCRgQBj2YNZenxvjlq_QVkl2v3xjIzGiwCMsEMOnl0PnfrIB8m |url-status=dead |archive-url=https://web.archive.org/web/20260825201510/https://khuongdinh.hanoi.gov.vn/tin-tuc-su-kien/phuong-khuong-dinh-to-chuc-hoi-nghi-cong-bo-nghi-quyet-so-21-nq-hdnd-ve-viec-sap-xep-to-dan-pho-tren-dia-ban-2817260701121309439.htm?gidzl=fTYyOQ9LZo6XnxXdg4o88w34lsA_IueWkCRgQBj2YNZenxvjlq_QVkl2v3xjIzGiwCMsEMOnl0PnfrIB8m |archive-date=2026-08-25 |access-date=2026-08-25 |website=Trang Thông tin điện tử phường Khương Đình – thành phố Hà Nội}}</ref><ref name=":1">{{Chú thích web |last=Khương Đình và Tôi |date=2026-07-09 |title=Cẩm nang Danh sách chi tiết 37 tổ dân phố phường Khương Đình sau sắp xếp dành cho bà con |url=https://web.facebook.com/groups/khuongdinhlifeandlove/permalink/2373257646496041/?mibextid=Nif5oz&_rdc=1&_rdr# |url-status=dead |archive-url=https://web.archive.org/web/20260825201510/https://web.facebook.com/groups/khuongdinhlifeandlove/permalink/2373257646496041/?mibextid=Nif5oz&_rdc=1&_rdr# |archive-date=2026-08-25 |access-date=2026-08-25 |website=Mái nhà Khương Đình – thành phố Hà Nội}}</ref>
+[[Tập tin:Bản đồ các tổ dân phố thuộc phường Khương Đình của thành phố Hà Nội (từ ngày 1 tháng 7 năm 2026).png|trái|nhỏ|214x214px|Bản đồ tổ dân phố phường Khương Đình – thành phố Hà Nội (từ ngày 1 tháng 7 năm 2026)<ref name=":0">{{Chú thích web |last=Khương Đình và Tôi |date=2026-07-09 |title=Bản đồ tổ dân phố phường Khương Đình – thành phố Hà Nội |url=https://drive.google.com/file/d/1ghrZ6AavkdVx9BPdIRnPxA5atABI7X3O/view |url-status=dead |archive-url=https://web.archive.org/web/20260825201510/https://drive.google.com/file/d/1ghrZ6AavkdVx9BPdIRnPxA5atABI7X3O/view |archive-date=2026-08-25 |access-date=2026-08-25 |website=Mái nhà Khương Đình – thành phố Hà Nội}}</ref>]]<!--
+== Lịch sử==
+
+Đây nguyên là địa bàn của làng Khương Trung, tổng Khương Đình, huyện Thanh Trì xưa. Làng Khương Trung xưa có 4 xóm: Trên, Hồng, Đầm, Dộc<ref>http://www.hanoi1000nam.vn/index.php?page = phocuaban&do = browser&street_id = 542{{Liên kết hỏng| date = ngày 6 tháng 5 năm 2021 | bot = InternetArchiveBot }}</ref>.
+
+Làng Khương Trung nằm trong vùng "Tam Khương" (ba làng Khương Thượng, Khương Trung và Khương Hạ). Từ năm [[1915]], ba thôn của xã Khương Đình được tách thành ba xã độc lập: xã Khương Thượng thuộc tổng Yên Hạ, xã Khương Trung thuộc tổng Hoàng Mai cùng nằm trong huyện Hoàn Long, còn xã Khương Hạ vẫn nằm trong tổng Khương Đình, huyện Thanh Trì<ref>http://hanoimoi.com.vn/newsdetail/1000_nam_thang_long/93677/lang-kh432417ng-trung.htm</ref>.
+
+Địa dư của làng Khương Trung xưa kia khá rộng: phía Đông giáp đồng làng [[Phương Liệt]] (tức làng Vọng), phía Nam giáp hai làng Khương Hạ và Định Công, phía phía Tây tiếp giáp sông Tô Lịch ngăn cách làng với các làng Thượng Đình, Hạ Đình; phía Bắc và Tây Bắc giáp các làng Láng Hạ, Thịnh Quang, [[Khương Thượng]], Vĩnh Hồ. Năm [[1919]] để xây sân bay Bạch Mai, [[đế quốc thực dân Pháp| thực dân Pháp]] đã sung công một số đất đai của [[Phương Liệt]], [[Khương Thượng]] và một nửa phía đông của thôn Khương Trung. Thôn này mất hẳn xóm Hồng và Đầm.
+
+Địa bàn phường Khương Trung trước đây là làng Khương Trung thuộc xã [[Khương Đình]], huyện [[Thanh Trì (huyện)| Thanh Trì]].<ref>[http://hanoimoi.com.vn/Tin-tuc/1000_nam_thang_long/93677/lang-kh432%3B417%3Bng-trung Làng Khương Trung]</ref><ref>[http://hanoimoi.com.vn/Ban-in/Phong-su-Ky-su/11414/kh432%3B417%3Bng-trung-273%3B7845%3Bt-m7899%3Bi Khương Trung đất mới]</ref> Khoảng 1978-1980, làng Khương Trung trở thành một phần của tiểu khu Nguyễn Trãi, khu phố Đống Đa.<ref>[http://nguoihanoi.com.vn/duong-nguyen-trai-thuoc-quan-dong-da-va-quan-thanh-xuan-ha-noi_241131.html Đường Nguyễn Trãi, thuộc quận Đống Đa và quận Thanh Xuân, Hà Nội]</ref>
+
+Ngày 10 tháng 6 năm 1981, [[Hội đồng nhân dân thành phố Hà Nội]] ra quyết định thay đổi cấp hành chính nội thành Hà Nội, đổi khu phố thành quận, tiểu khu thành phường.<ref name = "Đống Đa">{{Chú thích web | url = https://hanoi.gov.vn/thongtindonvihanhchinh/-/hn/yqjCMtR7tSOC/112102/2798086/quan-ong-a.html;jsessionid = 6wMzr9ZEDeP5UwPdqKMDEkI9.app2 | ngày lưu trữ = 2021-12-04 | ngày truy cập = 2020-08-24 | tiêu đề = Quận Đống Đa | archive-url = https://web.archive.org/web/20211204111453/https://hanoi.gov.vn/thongtindonvihanhchinh/-/hn/yqjCMtR7tSOC/112102/2798086/quan-ong-a.html;jsessionid = 6wMzr9ZEDeP5UwPdqKMDEkI9.app2 | url-status = dead }}</ref> Phường Nguyễn Trãi được thành lập trên cơ sở tiểu khu Nguyễn Trãi thuộc khu phố Đống Đa.
+
+Ngày [[22 tháng 11]] năm [[1996]], Chính phủ ban hành Nghị định 74-CP, theo đó 78,1 ha diện tích tự nhiên và 20.862 dân số của phường Nguyễn Trãi được tách ra để thành lập phường Khương Trung trực thuộc quận Thanh Xuân mới thành lập.<ref name = 74-CP>{{Chú thích web| url = https://thuvienphapluat.vn/van-ban/Bat-dong-san/Nghi-dinh-74-CP-thanh-lap-quan-Thanh-Xuan-quan-Cau-Giay-thanh-lap-va-doi-ten-mot-so-phuong-thuoc-thanh-pho-Ha-Noi-40215.aspx| title = Nghị định 74-CP năm 1996 về việc thành lập quận Thanh Xuân, quận Cầu Giấy, thành lập và đổi tên một số phường thuộc thành phố Hà Nội| last = | first = | date = | website = | archive-url = | archive-date = | url-status = | access-date = }}</ref> Đồng thời, phần diện tích và dân số còn lại của phường Nguyễn Trãi được đổi tên thành phường [[Ngã Tư Sở]] thuộc quận Đống Đa hiện nay.
+
+== Lịch sử== 
+Địa bàn phường Hạ Đình trước đây là một phần xã [[Khương Đình]] thuộc huyện Thanh Trì.
+
+Ngày [[22 tháng 11]] năm [[1996]], xã Khương Đình được chuyển về quận Thanh Xuân mới thành lập và được chia thành hai phường Hạ Đình và Khương Đình.<ref name = 74-CP>{{Chú thích web| url = https://thuvienphapluat.vn/van-ban/Bat-dong-san/Nghi-dinh-74-CP-thanh-lap-quan-Thanh-Xuan-quan-Cau-Giay-thanh-lap-va-doi-ten-mot-so-phuong-thuoc-thanh-pho-Ha-Noi-40215.aspx| title = Nghị định 74-CP năm 1996 về việc thành lập quận Thanh Xuân, quận Cầu Giấy, thành lập và đổi tên một số phường thuộc thành phố Hà Nội| last = | first = | date = | website = | archive-url = | archive-date = | url-status = | access-date = }}</ref>
+
+== Lịch sử== 
+Phường Kim Giang được thành lập vào ngày [[13 tháng 10]] năm [[1982]] trên cơ sở 13 ha diện tích tự nhiên của thôn Kim Giang thuộc xã [[Định Công (phường)| Đại Kim]], huyện Thanh Trì<ref name = 173-HĐBT>{{Chú thích web| url = https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-173-HDBT-phan-vach-dia-gioi-phuong-va-thi-tran-thanh-pho-Ha-Noi-43981.aspx| tựa đề = Quyết định 173-HĐBT năm 1982 về việc phân vạch địa giới một số phường và thị trấn thuộc thành phố Hà Nội| tác giả = | họ = | tên = | ngày = | website = | url lưu trữ = | ngày lưu trữ = | ngày truy cập = }}</ref>. Khi mới thành lập, phường thuộc quận [[Đống Đa (quận)| Đống Đa]]. Tuy nhiên, tại thời điểm thành lập, phường này tách biệt với địa phận quận Đống Đa nên gây khó khăn trong việc quản lý hành chính.
+
+Ngày [[22 tháng 11]] năm [[1996]], phường Kim Giang chuyển sang trực thuộc quận Thanh Xuân mới thành lập.<ref name = 74-CP>{{Chú thích web| url = https://thuvienphapluat.vn/van-ban/Bat-dong-san/Nghi-dinh-74-CP-thanh-lap-quan-Thanh-Xuan-quan-Cau-Giay-thanh-lap-va-doi-ten-mot-so-phuong-thuoc-thanh-pho-Ha-Noi-40215.aspx| title = Nghị định 74-CP năm 1996 về việc thành lập quận Thanh Xuân, quận Cầu Giấy, thành lập và đổi tên một số phường thuộc thành phố Hà Nội.| last = | first = | date = | website = | archive-url = | archive-date = | url-status = | accessdate = }}</ref>
+
+ -->
+
+== Hành chính ==
+Phường Khương Đình được chia thành 37 tổ dân phố, đánh số từ 1 đến 37.<ref name=":2" /><ref name=":1" /><ref name=":0" />
+{| class="wikitable sortable" align="center" width="100%" cellspacing="6" cellpadding="0" style="background: #f9f9f9; border: 1px #aaa solid; margin-top: 16px"
+! colspan="4" style="background: #E6E6FA; font-size: 95%;" |Danh sách các tổ dân phố thuộc phường Khương Đình<ref name=":2" /><ref name=":1" /><ref name=":0" />
+|-
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Tổ dân phố 1
+|658
+|-
+| align="left" |Tổ dân phố 2
+|771
+|-
+| align="left" |Tổ dân phố 3
+|700
+|-
+| align="left" |Tổ dân phố 4
+|651
+|-
+| align="left" |Tổ dân phố 5
+|712
+|-
+| align="left" |Tổ dân phố 6
+|725
+|-
+| align="left" |Tổ dân phố 7
+|1.002
+|-
+| align="left" |Tổ dân phố 8
+|716
+|-
+| align="left" |Tổ dân phố 9
+|1.015
+|-
+| align="left" |Tổ dân phố 10
+|1.002
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Tổ dân phố 11
+|860
+|-
+| align="left" |Tổ dân phố 12
+|751
+|-
+| align="left" |Tổ dân phố 13
+|680
+|-
+| align="left" |Tổ dân phố 14
+|847
+|-
+| align="left" |Tổ dân phố 15
+|1.085
+|-
+| align="left" |Tổ dân phố 16
+|1.113
+|-
+| align="left" |Tổ dân phố 17
+|1.026
+|-
+| align="left" |Tổ dân phố 18
+|1.010
+|-
+| align="left" |Tổ dân phố 19
+|764
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Tổ dân phố 20
+|944
+|-
+| align="left" |Tổ dân phố 21
+|1.134
+|-
+| align="left" |Tổ dân phố 22
+|757
+|-
+| align="left" |Tổ dân phố 23
+|584
+|-
+| align="left" |Tổ dân phố 24
+|1.254
+|-
+| align="left" |Tổ dân phố 25
+|1.038
+|-
+| align="left" |Tổ dân phố 26
+|777
+|-
+| align="left" |Tổ dân phố 27
+|863
+|-
+| align="left" |Tổ dân phố 28
+|744
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Tổ dân phố 29
+|711
+|-
+| align="left" |Tổ dân phố 30
+|737
+|-
+| align="left" |Tổ dân phố 31
+|1.091
+|-
+| align="left" |Tổ dân phố 32
+|700
+|-
+| align="left" |Tổ dân phố 33
+|618
+|-
+| align="left" |Tổ dân phố 34
+|684
+|-
+| align="left" |Tổ dân phố 35
+|684
+|-
+| align="left" |Tổ dân phố 36
+|688
+|-
+| align="left" |Tổ dân phố 37
+|735
+|}
+|}
+
+== Chú thích ==
+{{tham khảo| 30em}}
+
+== Tham khảo==
+{{Sơ khai Hà Nội}}
+{{Đơn vị hành chính thuộc thành phố Hà Nội}}

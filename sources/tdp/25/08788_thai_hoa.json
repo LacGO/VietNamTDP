@@ -1,0 +1,156 @@
+{
+  "ward_code": "08788",
+  "ward_name": "Thái Hoà",
+  "province_code": "25",
+  "resolution": "",
+  "arrangement": "truoc_2026_07",
+  "effective_date": "",
+  "verified": "unverified",
+  "extraction": {
+    "source": "vi.wikipedia.org",
+    "title": "Thái Hòa, Phú Thọ",
+    "mode": "narrative"
+  },
+  "sources": [
+    {
+      "key": "wiki-08788-1",
+      "title": "Danh sách Thôn vùng đồng bào dân tộc thiểu số và miền núi, thôn đặc biệt khó khăn giai đoạn 2026 - 2030 trên địa bàn tỉnh Phú Thọ",
+      "url": "http://files.ubdt.gov.vn/files/ecm/source_files/2026/02/05/11252411_4.%20Ph%C3%BA%20Th%E1%BB%8D%201%20(th%C3%B4n).signed_26-02-05.pdf",
+      "date": "2026-01-29",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-08788-2",
+      "title": "Quyết định số 7/QĐ-UBBC về việc công bố kết quả bầu cử đại biểu Hội đồng nhân dân xã Thái Hòa, nhiệm kỳ 2026 - 2031",
+      "url": "https://web.facebook.com/story.php?story_fbid=122162100518924478&id=61577734363967&rdid=yML2aPUDimd6ptT7#",
+      "date": "2026-03-16",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-08788-3",
+      "title": "TOÀN VĂN: Nghị quyết số 202/2025/QH15 về sắp xếp đơn vị hành chính cấp tỉnh",
+      "url": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-202-2025-qh15-ve-sap-xep-don-vi-hanh-chinh-cap-tinh-119250612174148722.htm",
+      "date": "2025-07-16",
+      "type": "wikipedia-ref"
+    }
+  ],
+  "note": "Trích tự động từ Wikipedia tiếng Việt (mode=narrative). Cần đối chiếu nghị quyết HĐND phường/xã. ⚠️ Danh mục có thể là hiện trạng TRƯỚC sắp xếp thôn/TDP 01/7/2026 — Wikipedia chưa cập nhật nghị quyết mới.",
+  "tdp": [
+    {
+      "name": "Bắc Sơn",
+      "type": "thôn"
+    },
+    {
+      "name": "Bình Chỉ",
+      "type": "thôn"
+    },
+    {
+      "name": "Bình Long",
+      "type": "thôn"
+    },
+    {
+      "name": "Chùa Đại Lương",
+      "type": "thôn"
+    },
+    {
+      "name": "Dộc Mít",
+      "type": "thôn"
+    },
+    {
+      "name": "Dương Chỉ",
+      "type": "thôn"
+    },
+    {
+      "name": "Đá Trắng",
+      "type": "thôn"
+    },
+    {
+      "name": "Đại Lương",
+      "type": "thôn"
+    },
+    {
+      "name": "Đền",
+      "type": "thôn"
+    },
+    {
+      "name": "Đình Tre",
+      "type": "thôn"
+    },
+    {
+      "name": "Đông Định",
+      "type": "thôn"
+    },
+    {
+      "name": "Đồng Làng",
+      "type": "thôn"
+    },
+    {
+      "name": "Đồng Ngõa",
+      "type": "thôn"
+    },
+    {
+      "name": "Gò Giềng",
+      "type": "thôn"
+    },
+    {
+      "name": "Hòang Chỉ",
+      "type": "thôn"
+    },
+    {
+      "name": "Hồng Phong",
+      "type": "thôn"
+    },
+    {
+      "name": "Hữu Phúc",
+      "type": "thôn"
+    },
+    {
+      "name": "Làng Sen",
+      "type": "thôn"
+    },
+    {
+      "name": "Ngọc Hà",
+      "type": "thôn"
+    },
+    {
+      "name": "Phú Xuân",
+      "type": "thôn"
+    },
+    {
+      "name": "Rừng Khảng",
+      "type": "thôn"
+    },
+    {
+      "name": "Sen Hồ",
+      "type": "thôn"
+    },
+    {
+      "name": "Tây Sơn",
+      "type": "thôn"
+    },
+    {
+      "name": "Thản Sơn",
+      "type": "thôn"
+    },
+    {
+      "name": "Thắng Lợi",
+      "type": "thôn"
+    },
+    {
+      "name": "Vinh Phú",
+      "type": "thôn"
+    },
+    {
+      "name": "Vinh Quang",
+      "type": "thôn"
+    },
+    {
+      "name": "Xuân Bái",
+      "type": "thôn"
+    },
+    {
+      "name": "Yên Thích",
+      "type": "thôn"
+    }
+  ]
+}

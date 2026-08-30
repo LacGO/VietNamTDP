@@ -1,0 +1,142 @@
+{
+  "ward_code": "08584",
+  "ward_name": "Võ Miếu",
+  "province_code": "25",
+  "resolution": "Nghị quyết số 20/NQ-HĐND ngày 22/06/2026 HĐND cấp xã",
+  "arrangement": "2026_07",
+  "effective_date": "2026-07-01",
+  "verified": "primary",
+  "extraction": {
+    "source": "vomieu.phutho.gov.vn",
+    "url": "https://storage-vnportal.vnpt.vn/pto-ubnd/5953/Võ Miếu/Tintuc/Thông báo về việc sử dụng tên gọi các thôn sau sắp xếp.signed.signed.pdf",
+    "mode": "portal-pdf"
+  },
+  "sources": [
+    {
+      "key": "portal-08584",
+      "title": "🆘 Thông báo về việc sử dụng tên gọi các thôn sau sắp xếp, đổi tên 👇",
+      "url": "https://storage-vnportal.vnpt.vn/pto-ubnd/5953/Võ Miếu/Tintuc/Thông báo về việc sử dụng tên gọi các thôn sau sắp xếp.signed.signed.pdf",
+      "date": "2026",
+      "type": "cong_ttdt"
+    }
+  ],
+  "note": "Trích từ cổng TTĐT phường/xã (nghị quyết/thông báo HĐND cấp xã).",
+  "tdp": [
+    {
+      "name": "Cự Bành",
+      "type": "thôn"
+    },
+    {
+      "name": "Trại",
+      "type": "thôn"
+    },
+    {
+      "name": "Phú Hà",
+      "type": "thôn"
+    },
+    {
+      "name": "Sang",
+      "type": "thôn"
+    },
+    {
+      "name": "Bần",
+      "type": "thôn"
+    },
+    {
+      "name": "Chiềng",
+      "type": "thôn"
+    },
+    {
+      "name": "Kim Thịnh",
+      "type": "thôn"
+    },
+    {
+      "name": "Địch Quả",
+      "type": "thôn"
+    },
+    {
+      "name": "Mai Thịnh",
+      "type": "thôn"
+    },
+    {
+      "name": "Việt Tiến",
+      "type": "thôn"
+    },
+    {
+      "name": "Việt Phú",
+      "type": "thôn"
+    },
+    {
+      "name": "Sụ Nương",
+      "type": "thôn"
+    },
+    {
+      "name": "Sụ Ngoài",
+      "type": "thôn"
+    },
+    {
+      "name": "Cự Thắng",
+      "type": "thôn"
+    },
+    {
+      "name": "Gò Tre",
+      "type": "thôn"
+    },
+    {
+      "name": "Chòi",
+      "type": "thôn"
+    },
+    {
+      "name": "Kim Lương",
+      "type": "thôn"
+    },
+    {
+      "name": "Thống Nhất",
+      "type": "thôn"
+    },
+    {
+      "name": "Rịa 1",
+      "type": "thôn"
+    },
+    {
+      "name": "Rịa 2",
+      "type": "thôn"
+    },
+    {
+      "name": "Cốc",
+      "type": "thôn"
+    },
+    {
+      "name": "Hà Biên",
+      "type": "thôn"
+    },
+    {
+      "name": "Thanh Hà",
+      "type": "thôn"
+    },
+    {
+      "name": "Tân Bình",
+      "type": "thôn"
+    },
+    {
+      "name": "Vùng",
+      "type": "thôn"
+    },
+    {
+      "name": "Liên Thành",
+      "type": "thôn"
+    },
+    {
+      "name": "Do Lau",
+      "type": "thôn"
+    },
+    {
+      "name": "Quyết Tiến",
+      "type": "thôn"
+    },
+    {
+      "name": "Xuân Thắng",
+      "type": "thôn"
+    }
+  ]
+}

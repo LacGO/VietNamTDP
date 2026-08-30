@@ -1,0 +1,72 @@
+{{Thông tin đơn vị hành chính Việt Nam | xã
+| tên = Sơn Đông
+| hình = 
+| ghi chú hình = 
+| vĩ độ = 21.349814765498554
+| kinh độ = 105.44471533810339
+| diện tích = 26,70 km²<ref name=MS/>
+| dân số = 36.076 người<ref name=MS/>
+| thời điểm dân số = 2025
+| mật độ dân số = {{formatnum:{{#expr:floor({{formatnum:36.076|R}}/{{formatnum:26,70|R}})}} }} người/km²
+| vùng = [[Đông Bắc Bộ]]
+| tỉnh = [[Phú Thọ]]
+| thành lập =16 tháng 6 năm 2025<ref>Nghị quyết số 1676/NQ-UBTVQH15</ref> 
+| trụ sở UBND =Thôn Hạnh Phúc 
+| mã hành chính = 08866<ref>{{Chú thích web |url=https://danhmuchanhchinh.gso.gov.vn/ |title=Tổng cục Thống kê |access-date=2022-04-10 |archive-date=2021-01-10 |archive-url=https://web.archive.org/web/20210110034519/https://www.gso.gov.vn/phuong-phap-thong-ke/danh-muc/don-vi-hanh-chinh/ |url-status=dead }}</ref>
+| mã bưu chính =15421 
+|web={{url|sondong.phutho.gov.vn}}
+}}
+{{other|Sơn Đông (định hướng)}}
+'''Sơn Đông''' là một [[Xã (Việt Nam)|xã]] thuộc [[Tỉnh (Việt Nam)|tỉnh]] [[Phú Thọ]], [[Việt Nam]].
+
+== Địa lý ==
+Xã Sơn Đông nằm ở phía trung tâm tỉnh [[Phú Thọ]], có vị trí địa lý<ref>{{Chú thích web |title=Đơn vị hành chính Việt Nam |url=https://sapnhap.bando.com.vn/ |access-date=2026-06-24 |website=sapnhap.bando.com.vn}}</ref>:
+* Phía bắc giáp xã [[Sông Lô (xã)|Sông Lô]] và xã [[Tiên Lữ, Phú Thọ|Tiên Lữ]].
+* Phía đông giáp xã [[Vĩnh An, Phú Thọ|Vĩnh An]] và xã [[Vĩnh Hưng, Phú Thọ|Vĩnh Hưng]].
+* Phía nam giáp xã [[Vĩnh Thành, Phú Thọ|Vĩnh Thành]].
+* Phía tây giáp phường [[Việt Trì (phường)|Việt Trì]] và phường [[Thanh Miếu]].
+Xã có diện tích 26,70&nbsp;km², dân số năm 2025 là 36.076 người, mật độ dân số đạt {{formatnum:{{#expr:floor({{formatnum:36.076|R}}/{{formatnum:26,70|R}})}} }} người/km².<ref>{{Chú thích web |title=Xã Sơn Đông, Tỉnh Phú Thọ mới sáp nhập 2026 |url=https://tinhthanhvn.com/province/phu-tho/xa-son-dong |access-date=2026-06-24 |website=Tỉnh Thành Việt Nam |language=vi}}</ref>
+
+== Hành chính ==
+Xã Sơn Đông được chia thành 42 thôn: Ái Quốc, Bắc Sơn, Bình Minh, Cây Gạo, Cây Xanh, Dùng, Đa Cai, Đạo Nội, Đẽn, Đoàn Thành, Đông Mật, Đông Thịnh, Giang, Giạn, Hạnh Phúc, Hùng Sơn, Hương Ngãi, Kim Sơn, Kim Tiến, Lam Sơn, Lũng Hòa, Mới, Nam Hải, Ngọc Vị, Nông Xanh, Phan Dư, Phan Lãng, Phấn Kiến, Phú Hậu, Phú Hậu Thượng, Phú Hậu Trung, Quan Tử, Sơn Phục, Suối, Tân Tiến, Thái Sơn, Thành Công, Tổ Gà, Trung Kiên, Trung Thành, Vọng Sơn, Yên Bình.<ref>{{Chú thích web |last=Cổng Thông tin điện tử xã Sơn Đông - tỉnh Phú Thọ |date=2026-03-15 |title=Tiểu sử tóm tắt của người ứng cử đại biểu Hội đồng nhân dân xã Sơn Đông nhiệm kỳ 2026 – 2031 |url=https://sondong.phutho.gov.vn/tieu-su-tom-tat-cua-nguoi-ung-cu-dai-bieu-hdnd-xa-son-dong-nhiem-ky-2026-2031/ |url-status=live |archive-url=https://web.archive.org/web/20260423090807/https://sondong.phutho.gov.vn/tieu-su-tom-tat-cua-nguoi-ung-cu-dai-bieu-hdnd-xa-son-dong-nhiem-ky-2026-2031/ |archive-date=2026-04-23 |access-date=2026-04-23}}</ref>
+
+==Lịch sử==
+Trước kia, Sơn Đông là một xã thuộc huyện [[Lập Thạch (huyện)|Lập Thạch]], tỉnh [[Vĩnh Phúc (tỉnh)|Vĩnh Phúc]] cũ.
+
+Ngày [[14 tháng 11]] năm [[2024]], [[Ủy ban Thường vụ Quốc hội]] ban hành Nghị quyết số 1287/NQ-UBTVQH15 về việc sắp xếp đơn vị hành chính cấp xã của tỉnh Vĩnh Phúc giai đoạn 2023 – 2025 (nghị quyết có hiệu lực từ ngày [[1 tháng 1]] năm [[2025]]). Theo đó, sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của hai xã Đình Chu và Triệu Đề thành xã mới lấy tên là xã Tây Sơn.
+
+Ngày [[12 tháng 6]] năm [[2025]], [[Quốc hội Việt Nam|Quốc hội]] ban hành Nghị quyết số 202/2025/QH15 về việc sắp xếp đơn vị hành chính cấp tỉnh (nghị quyết có hiệu lực từ ngày [[12 tháng 6]] năm [[2025]]).<ref>{{Chú thích web |last=xaydungchinhsach.chinhphu.vn |date=2025-07-16 |title=TOÀN VĂN: Nghị quyết số 202/2025/QH15 về sắp xếp đơn vị hành chính cấp tỉnh |url=https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-202-2025-qh15-ve-sap-xep-don-vi-hanh-chinh-cap-tinh-119250612174148722.htm |url-status=live |archive-url=https://web.archive.org/web/20260705025431/https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-202-2025-qh15-ve-sap-xep-don-vi-hanh-chinh-cap-tinh-119250612174148722.htm |archive-date=2026-07-05 |access-date=2026-07-25 |website=Báo Điện tử Chính phủ |language=vi}}</ref> Theo đó, sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của tỉnh [[Vĩnh Phúc (tỉnh)|Vĩnh Phúc]], tỉnh [[Hòa Bình (tỉnh)|Hòa Bình]] và tỉnh [[Phú Thọ]] thành tỉnh mới có tên gọi là tỉnh '''Phú Thọ'''.
+
+Ngày [[16 tháng 6]] năm [[2025]]:
+
+* Quốc hội ban hành Nghị quyết số 203/2025/QH15 về việc sửa đổi, bổ sung một số điều của Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam (nghị quyết có hiệu lực từ ngày [[16 tháng 6]] năm [[2025]]).<ref>{{Chú thích web |last=xaydungchinhsach.chinhphu.vn |date=2025-06-28 |title=NGHỊ QUYẾT 203/2025/QH15 SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA HIẾN PHÁP NƯỚC CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM |url=https://xaydungchinhsach.chinhphu.vn/nghi-quyet-203-2025-qh15-sua-doi-bo-sung-mot-so-dieu-cua-hien-phap-nuoc-cong-hoa-xa-hoi-chu-nghia-viet-nam-119250616181735552.htm |url-status=live |archive-url=https://web.archive.org/web/20260715200606/https://xaydungchinhsach.chinhphu.vn/nghi-quyet-203-2025-qh15-sua-doi-bo-sung-mot-so-dieu-cua-hien-phap-nuoc-cong-hoa-xa-hoi-chu-nghia-viet-nam-119250616181735552.htm |archive-date=2026-07-15 |access-date=2026-07-15 |website=Báo Điện tử Chính phủ |language=vi}}</ref> Theo đó, kết thúc hoạt động của đơn vị hành chính cấp huyện trong cả nước từ ngày 1 tháng 7 năm 2025.
+* Ủy ban Thường vụ Quốc hội ban hành Nghị quyết số 1676/NQ-UBTVQH15 về việc sắp xếp đơn vị hành chính cấp xã của tỉnh [[Phú Thọ]] năm 2025 (nghị quyết có hiệu lực từ ngày [[16 tháng 6]] năm [[2025]]).<ref>{{Chú thích web |last=xaydungchinhsach.chinhphu.vn |date=2025-06-20 |title=Nghị quyết số 1676/NQ-UBTVQH15 sắp xếp các ĐVHC cấp xã của tỉnh Phú Thọ năm 2025 |url=https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-1676-nq-ubtvqh15-sap-xep-cac-dvhc-cap-xa-cua-tinh-phu-tho-nam-2025-119250616204317326.htm |url-status=live |archive-url=https://web.archive.org/web/20260725082021/https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-1676-nq-ubtvqh15-sap-xep-cac-dvhc-cap-xa-cua-tinh-phu-tho-nam-2025-119250616204317326.htm |archive-date=2026-07-25 |access-date=2026-07-27 |website=Báo Điện tử Chính phủ |language=vi}}</ref> Theo đó, sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của các xã Tây Sơn, Sơn Đông (thuộc huyện [[Lập Thạch (huyện)|Lập Thạch]]) và xã Cao Phong (thuộc huyện [[Sông Lô (huyện Vĩnh Phúc)|Sông Lô]]) thành xã mới có tên gọi là '''xã Sơn Đông.'''
+
+==Văn hóa==
+===Làng tiến sĩ===
+Làng Quan Tử (làng Gốm – làng tiến sĩ) nơi đây đã có 12 người thi đỗ đạt tiến sĩ vào thời Lê.
+
+===Di tích===
+Xã có 18 di tích. Đáng chú ý có 3 di tích đã được xếp hạng cấp quốc gia:
+* Đền thờ Trần Nguyên Hãn, di tích lịch sử văn hóa năm 1984
+* Đền thờ Đỗ Khắc Chung, di tích lịch sử văn hóa năm 1993
+* Chùa Am, di tích lịch sử văn hóa năm 1993.
+
+==Kinh tế==
+Sơn Đông là xã có nghề vận tải thủy trong đó tập trung nhiều nhất là ở thôn Phú Hậu.
+
+==Giao thông==
+Các tuyến, hệ thống giao thông quan trọng đi qua xã:
+* Đường bộ: tỉnh lộ 305
+* Đường sông: [[sông Lô]], [[sông Phó Đáy]].
+
+==Danh nhân==
+
+* [[Trần Nguyên Hãn]] (1390 – 1429): Là một danh tướng tham gia [[khởi nghĩa Lam Sơn]] do [[Lê Lợi]] lãnh đạo, vốn là dòng dõi [[nhà Trần]].
+
+== Chú thích ==
+{{tham khảo|30em}}
+
+== Tham khảo ==
+{{sơ khai Phú Thọ}}
+{{Đơn vị hành chính thuộc tỉnh Phú Thọ}}

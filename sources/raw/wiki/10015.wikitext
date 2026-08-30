@@ -1,0 +1,393 @@
+{{Thông tin đơn vị hành chính Việt Nam|Phường
+| tên = Chương Mỹ
+| hình = Chúc Sơn, Chương Mỹ, Hà Nội.png
+| ghi chú hình = Đường phố ở trung tâm phường Chương Mỹ
+| vĩ độ = 20.92436973172043
+| kinh độ = 105.70204688973203
+| diện tích = 38,92 km²
+| dân số = 87.913 người
+| thời điểm dân số = 2025
+| mật độ dân số = {{formatnum:{{#expr:floor({{formatnum:87.913| R}}/{{formatnum:38,92| R}})}} }} người/km²
+| vùng = [[Đồng bằng sông Hồng]]
+| thành phố = [[Hà Nội]]
+| thành lập = 
+| trụ sở UBND = Số 102, tổ dân phố Bắc Sơn
+| mã hành chính =10015<ref>{{Chú thích web |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/19ttg.signed.pdf |title=Quyết định số 19/2025/QĐ-TTg ngày 30 tháng 6 năm 2025 của Thủ tướng Chính phủ về việc Ban hành Bảng danh mục và mã số các đơn vị hành chính Việt Nam |access-date=2026-06-15 |archive-date=2026-06-15 |archive-url=https://web.archive.org/web/20260615034519/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/19ttg.signed.pdf |url-status=dead | website = Cổng Thông tin điện tử Chính phủ}}</ref> 
+| web = {{url|chuongmy.hanoi.gov.vn}}
+| bản đồ 1 ={{maplink|frame=yes|plain=yes|type=shape|frame-width=280|frame-align=center|stroke-width=3}} 
+|trụ sở Đảng ủy=Số 102, tổ dân phố Bắc Sơn}}
+{{other|Chương Mỹ (định hướng)}}
+'''Chương Mỹ''' là một [[Phường (Việt Nam)|phường]] thuộc thành phố [[Hà Nội]], [[Việt Nam]] và hiện là phường có diện tích lớn nhất của thành phố.
+
+== Địa lý== 
+Phường Chương Mỹ có vị trí địa lý:
+
+* Phía đông giáp phường [[Yên Nghĩa]] và xã [[Bình Minh, Hà Nội|Bình Minh]] với ranh giới tự nhiên là [[sông Đáy]]
+* Phía tây giáp xã [[Phú Nghĩa, Hà Nội|Phú Nghĩa]]
+* Phía nam giáp xã [[Quảng Bị]]
+* Phía bắc giáp xã [[Hưng Đạo, Hà Nội|Hưng Đạo]].<ref>{{Chú thích web |last=Viện nghiên cứu Phát triển kinh tế – xã hội Hà Nội|date=2025-07-02|title=Phường Chương Mỹ: Những thông tin chi tiết sau sắp xếp|url=https://hanoionline.vn/phuong-chuong-my-nhung-thong-tin-chi-tiet-sau-sap-xep-344199.htm|url-status=dead|archive-url=https://web.archive.org/web/20260804400809/https://hanoionline.vn/phuong-chuong-my-nhung-thong-tin-chi-tiet-sau-sap-xep-344199.htm|archive-date=2026-08-04|access-date=2026-08-04|website=Cơ quan Báo và Phát thanh Truyền hình Hà Nội}}</ref><ref>{{Chú thích web |last=Cơ quan Báo và Phát thanh Truyền hình Hà Nội|date=2025-07-07|title=Phường Chương Mỹ: Tất cả thông tin chỉ dẫn bạn cần biết|url=https://hanoionline.vn/phuong-chuong-my-tat-ca-thong-tin-chi-dan-ban-can-biet-345132.htm|url-status=dead|archive-url=https://web.archive.org/web/20260804401509/https://hanoionline.vn/phuong-chuong-my-tat-ca-thong-tin-chi-dan-ban-can-biet-345132.htm|archive-date=2026-08-04|access-date=2026-08-04}}</ref>
+Phường Chương Mỹ có diện tích tự nhiên là 38,92 km<sup>2</sup>, là phường có diện tích lớn nhất thành phố, quy mô dân số năm 2025 là 87.913 người và mật độ dân số đạt 2.258 người/km<sup>2</sup>.<ref>{{Chú thích web |last=Mai Hữu|date=2026-04-05|title=Hà Nội: Chi tiết phương án tổng thể sắp xếp đơn vị hành chính cấp xã|url=https://hanoimoi.vn/ha-noi-chi-tiet-phuong-an-tong-the-sap-xep-don-vi-hanh-chinh-cap-xa-700278.html|url-status=live|archive-url=https://web.archive.org/web/20260711401509/https://hanoimoi.vn/ha-noi-chi-tiet-phuong-an-tong-the-sap-xep-don-vi-hanh-chinh-cap-xa-700278.html|archive-date=2026-07-11|access-date=2026-07-11|website=Cơ quan Báo và Phát thanh, truyền hình Hà Nội}}</ref><ref>Công văn số 2896/BNV-CQĐP ngày 27 tháng 5 năm 2025 của Bộ Nội vụ về việc cung cấp thông tin danh mục dự kiến đơn vị hành chính cấp xã mới.</ref><ref>{{Chú thích web | last = Kim Nhuệ | date = 29 tháng 6 năm 2025 | title = Sáu phường, xã ở Chương Mỹ: Hình hài mới, khát vọng mới | url = https://hanoimoi.vn/sau-phuong-xa-o-chuong-my-hinh-hai-moi-khat-vong-moi-707262.html | url-status = dead | access-date = 2026-08-05 | website = Cơ quan Báo và Phát thanh, truyền hình Hà Nội | language = |archive-url=https://web.archive.org/web/20260805201510/https://hanoimoi.vn/sau-phuong-xa-o-chuong-my-hinh-hai-moi-khat-vong-moi-707262.html|archive-date=2026-08-05}}</ref>
+
+== Lịch sử==
+
+=== Trước năm 1976 ===
+Địa bàn phường Chương Mỹ hiện nay vào năm [[1426]] đã diễn ra hai trận đánh lớn trong cuộc [[khởi nghĩa Lam Sơn]] là trận Ninh Kiều (ngày 13 tháng 9)<ref>{{chú thích sách| tác giả = | tựa đề = Việt Nam, những sự kiện quân sự từ thế kỷ XV đến thế kỷ XVIII| nhà xuất bản = Nhà xuất bản Quân đội nhân dân| year = 2011| nơi = | trang = 55| url = https://www.google.com/books/edition/Việt_Nam_những_sự_kiện_quân_s/8VpQAQAAMAAJ| doi = | id = | isbn = }}</ref> và [[trận Tốt Động – Chúc Động]] (ngày 5 đến ngày 7 tháng 11).<ref>{{chú thích sách| tác giả = | tựa đề = Việt Nam, những sự kiện quân sự từ thế kỷ XV đến thế kỷ XVIII| nhà xuất bản = Nhà xuất bản Quân đội nhân dân| year = 2011| nơi = | trang = 57-58| url = https://www.google.com/books/edition/Việt_Nam_những_sự_kiện_quân_s/8VpQAQAAMAAJ| doi = | id = | isbn = }}</ref>
+
+Đầu thời Nguyễn, Chúc Sơn là tên một tổng và một xã thuộc huyện Chương Đức, phủ Ứng Thiên (sau đổi thành [[Ứng Hòa (huyện)|Ứng Hòa]]), trấn Sơn Nam Thượng. Năm [[1831]], tỉnh [[Hà Nội (tỉnh)|Hà Nội]] được thành lập, huyện Chương Đức thuộc phủ Ứng Hòa, tỉnh Hà Nội.<ref name = ":1">{{Chú thích web| url = http://www.nxbhanoi.com.vn/chi_tiet_tin/tabid/204/cateID/4/artilceID/20385/language/en-US/Default.aspx| tựa đề = Vấn đề xác định không gian huyện Chương Đức trong nghiên cứu địa bạ| ngày = 2019-12-11| website = Trang thông tin điện tử Nhà xuất bản Hà Nội| url-status = dead| access-date = 2025-10-30| archive-date = 2024-07-15| archive-url = https://web.archive.org/web/20240715170723/http://www.nxbhanoi.com.vn/chi_tiet_tin/tabid/204/cateID/4/artilceID/20385/language/en-US/Default.aspx}}</ref>
+
+Theo ''[[Đồng Khánh địa dư chí]]'',<ref>{{chú thích sách| tác giả = | tựa đề = Đồng Khánh địa dư chí| nhà xuất bản = | year = | nơi = | trang = | url = https://www.google.com/books/edition/同慶地与志/n1M7V3zmKMAC| doi = | id = | isbn = }}</ref> tổng Chúc Sơn có 9 xã, thôn: Chúc Sơn, Ninh Sơn, Chúc Lý, Đại Phẩm, Đồng Lệ, Đại An Trường, An Khê, An Duyệt, thôn Giáp Ngọ.
+
+Đến đầu thế kỷ XX, theo sách ''Địa danh và tài liệu lưu trữ về làng xã Bắc Kỳ'', tổng Chúc Sơn thuộc huyện Chương Mỹ, gồm 11 xã, thôn: An Khê; hai thôn Chúc Lý và Ngọc Giả thuộc xã Chúc Lý; Chúc Sơn, Đại An Trường, Đại Phẩm, Đồng Lệ, Giáp Ngọ; hai thôn Ninh Sơn và Vĩnh Yên thuộc xã Ninh Sơn, Trường An.<ref name = ":1" />
+
+Sau [[Cách mạng Tháng Tám]] năm 1945, các xã cũ sáp nhập với nhau để hình thành các xã mới, phần lớn địa bàn thị trấn Chúc Sơn khi đó là xã Ngọc Sơn thuộc huyện Chương Mỹ.
+
+=== Giai đoạn 1976 – nay ===
+Sau ngày 2 tháng 7 năm 1976, 6 xã: Đại Yên, Ngọc Hòa, Ngọc Sơn, Phụng Châu, Thụy Hương và Tiên Phương thuộc huyện [[Chương Mỹ (huyện)|Chương Mỹ]]; 2 xã: Biên Giang và Đồng Mai thuộc huyện [[Thanh Oai (huyện)|Thanh Oai]] của tỉnh [[Hà Sơn Bình]].
+
+Ngày 29 tháng 12 năm 1978, sáp nhập xã Tiên Phương, xã Phụng Châu, phần Bắc đường số 6 thuộc xã Ngọc Hòa và xã Ngọc Sơn của huyện [[Chương Mỹ (huyện)|Chương Mỹ]] thuộc tỉnh [[Hà Sơn Bình]] vào thành phố [[Hà Nội]].<ref>Nghị quyết ngày 29 tháng 12 năm 1978 của Quốc hội khóa VI, Kỳ họp thứ 4 phê chuẩn việc phân vạch lại địa giới thành phố Hà Nội, thành phố Hồ Chí Minh, các tỉnh Hà Sơn Bình, Vĩnh Phú, Cao Lạng, Bắc Thái, Quảng Ninh và Đồng Nai.</ref>
+
+Ngày 17 tháng 2 năm 1979:
+
+* Sáp nhập các thôn Cao Sơn (phần bắc đường số 6, xã Ngọc Hòa) vào xã Tiền Phương; thôn Ninh Sơn (phần bắc đường số 6, xã Ngọc Sơn) vào xã Phụng Châu thuộc huyện [[Hoài Đức (huyện)|Hoài Đức]].
+* Sáp nhập các xã Phụng Châu, Tiền Phương (của huyện [[Chương Mỹ (huyện)|Chương Mỹ]]) vào huyện [[Hoài Đức (huyện)|Hoài Đức]].<ref>Quyết định số 49-CP ngày 17 tháng 2 năm 1979 của Hội đồng Chính phủ về việc điều chỉnh địa giới một số xã, thị trấn thuộc các huyện Sóc Sơn, Mê Linh, Hoài Đức, Phúc Thọ và Thanh Trì thuộc thành phố Hà Nội.</ref>
+
+Ngày 26 tháng 12 năm 1990, thành lập thị trấn Chúc Sơn (thị trấn huyện lỵ huyện [[Chương Mỹ (huyện)|Chương Mỹ]]) trên cơ sở: 79,505 ha diện tích tự nhiên và 3.489 nhân khẩu của xã Ngọc Sơn; 38,630 ha diện tích tự nhiên và 1.294 nhân khẩu của xã Ngọc Hòa.<ref>Quyết định số 581/TCCP ngày 26 tháng 12 năm 1990 của Ban Tổ chức – Cán bộ Chính phủ về việc phân vạch điều chỉnh địa giới hành chính một số xã, thị trấn thuộc huyện Mai Châu, Đà Bắc, Chương Mỹ, Lạc Thủy, Lạc Sơn và thị xã Hòa Bình tỉnh Hà Sơn Bình.</ref>
+
+Ngày 12 tháng 8 năm 1991, chia tỉnh [[Hà Sơn Bình]] thành 2 tỉnh, lấy tên là tỉnh [[Hòa Bình (tỉnh)|Hòa Bình]] và tỉnh [[Hà Tây (tỉnh)|Hà Tây]]. Khi đó, thị trấn Chúc Sơn và 6 xã: Đại Yên, Ngọc Hòa, Ngọc Sơn, Phụng Châu, Thụy Hương, Tiên Phương thuộc huyện [[Chương Mỹ (huyện)|Chương Mỹ]]; 2 xã: Biên Giang và Đồng Mai thuộc huyện [[Thanh Oai (huyện)|Thanh Oai]] của tỉnh [[Hà Tây (tỉnh)|Hà Tây]].<ref>Nghị quyết ngày 12 tháng 8 năm 1991 của Quốc hội khóa VIII, Kỳ họp thứ 9 về việc điều chỉnh địa giới hành chính một số tỉnh, thành phố trực thuộc Trung ương.</ref>
+
+Ngày 23 tháng 6 năm 1994, chuyển giao các xã Phụng Châu, Tiên Phương thuộc huyện [[Hoài Đức (huyện)|Hoài Đức]] về huyện [[Chương Mỹ (huyện)|Chương Mỹ]] quản lý.<ref>{{Chú thích web |tác giả= |họ= |tên= |ngày= |tựa đề=Nghị định số 52-CP ngày 23 tháng 6 năm 1994 của Chính phủ về việc điều chỉnh địa giới huyện và thành lập thị trấn, phường thuộc các huyện Hoài Đức, Chương Mỹ, Thạch Thất, Thanh Oai, thị xã Hà Đông, tỉnh Hà Tây |url=https://chinhphu.vn/default.aspx?pageid=27160&docid=2281 |url-status=dead |url lưu trữ=https://web.archive.org/web/20260804201509/https://chinhphu.vn/default.aspx?pageid=27160&docid=2281 |ngày lưu trữ=2026-08-04 |ngày truy cập=2026-08-04 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+
+Ngày 2 tháng 3 năm 2005, sáp nhập toàn bộ 339,09 ha diện tích tự nhiên và 5.036 nhân khẩu của xã Ngọc Sơn vào thị trấn Chúc Sơn; điều chỉnh 131 ha diện tích tự nhiên và 1.517 nhân khẩu của xã Phụng Châu, 2,97 ha diện tích tự nhiên và 140 nhân khẩu của xã Tiên Phương về thị trấn Chúc Sơn (huyện [[Chương Mỹ (huyện)|Chương Mỹ]]) quản lý.<ref>Nghị định số 23/2005/NĐ-CP ngày 2 tháng 3 năm 2005 của Chính phủ về việc điều chỉnh địa giới hành chính, mở rộng thị trấn Chúc Sơn, huyện Chương Mỹ, tỉnh Hà Tây.</ref>
+
+Ngày 4 tháng 1 năm 2006:
+
+* Sáp nhập 67,64 ha diện tích tự nhiên và 1.097 nhân khẩu của thôn Phượng Bãi, xã Phụng Châu, huyện [[Chương Mỹ (huyện)|Chương Mỹ]] vào xã Biên Giang thuộc huyện [[Thanh Oai (huyện)|Thanh Oai]].
+* Chuyển toàn bộ các xã Biên Giang, Đồng Mai thuộc huyện [[Thanh Oai (huyện)|Thanh Oai]] về thị xã [[Hà Đông (quận)|Hà Đông]] quản lý.<ref>Nghị định số 1/2006/NĐ-CP ngày 4 tháng 1 năm 2006 của Chính phủ về việc điều chỉnh địa giới hành chính, mở rộng thị xã Hà Đông, tỉnh Hà Tây.</ref>
+
+Ngày 27 tháng 12 năm 2006, thành lập thành phố [[Hà Đông (quận)|Hà Đông]] trên cơ sở toàn bộ diện tích tự nhiên, dân số và các đơn vị hành chính trực thuộc của thị xã [[Hà Đông (quận)|Hà Đông]]. Khi đó, 2 xã: Biên Giang và Đồng Mai thuộc thành phố [[Hà Đông (quận)|Hà Đông]].<ref name="ND155">{{Chú thích web|url=https://chinhphu.vn/default.aspx?pageid=27160&docid=18995|tựa đề=Nghị định số 155/2006/NĐ-CP ngày 27 tháng 12 năm 2006 của Chính phủ về việc thành lập thành phố Hà Đông thuộc tỉnh Hà Tây|url-status=dead|access-date=2026-08-04|archive-url=https://web.archive.org/web/20260804201510/https://chinhphu.vn/default.aspx?pageid=27160&docid=18995|archive-date=2026-08-04|website=Cổng Thông tin điện tử Chính phủ}}</ref>
+
+Ngày 29 tháng 5 năm 2008, hợp nhất tỉnh [[Hà Tây (tỉnh)|Hà Tây]] vào thành phố [[Hà Nội]]. Khi đó, thị trấn Chúc Sơn và 5 xã: Đại Yên, Ngọc Hòa, Phụng Châu, Thụy Hương, Tiên Phương thuộc huyện [[Chương Mỹ (huyện)|Chương Mỹ]]; 2 xã: Biên Giang và Đồng Mai thuộc thành phố [[Hà Đông (quận)|Hà Đông]] của thành phố [[Hà Nội]].<ref>Nghị quyết số 15/2008/QH12 ngày 29 tháng 5 năm 2008 của Quốc hội khóa XII, Kỳ họp thứ 3 về việc điều chỉnh địa giới hành chính thành phố Hà Nội và một số tỉnh có liên quan.</ref>
+
+Ngày 8 tháng 5 năm 2009:
+
+* Thành lập quận [[Hà Đông (quận)|Hà Đông]] trên cơ sở thành phố [[Hà Đông (quận)|Hà Đông]].
+* Thành lập 2 phường: Biên Giang và Đồng Mai trên cơ sở 2 xã có tên tương ứng.<ref>Nghị quyết số 19/NQ-CP ngày 8 tháng 5 năm 2009 của Chính phủ về việc xác lập địa giới hành chính xã Đông Xuân thuộc huyện Quốc Oai; các xã Tiến Xuân, Yên Bình, Yên Trung thuộc huyện Thạch Thất; huyện Mê Linh thuộc thành phố Hà Nội; thành lập quận Hà Đông và các phường trực thuộc; chuyển thành phố Sơn Tây thành thị xã Sơn Tây thuộc thành phố Hà Nội.</ref>
+
+Ngày 16 tháng 6 năm 2025:
+
+* Kết thúc hoạt động của đơn vị hành chính cấp huyện trong cả nước.<ref>{{Chú thích web |last= |date= |title=Nghị quyết số 203/2025/QH15 ngày 16 tháng 6 năm 2025 của Quốc hội khóa XV, Kỳ họp thứ 9 về việc sửa đổi, bổ sung một số điều của Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/nq-sua-doi-hien-phap.pdf |url-status=live |archive-url=https://web.archive.org/web/20260613090807/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/nq-sua-doi-hien-phap.pdf |archive-date=2026-06-13 |access-date=2026-06-13 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+* Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của phường Biên Giang (quận [[Hà Đông (quận)|Hà Đông]]), thị trấn Chúc Sơn, các xã Đại Yên, Ngọc Hòa, Phụng Châu, Tiên Phương, Thuỵ Hương (huyện [[Chương Mỹ (huyện)|Chương Mỹ]]) và phần còn lại của phường Đồng Mai (quận [[Hà Đông (quận)|Hà Đông]]) thành phường mới có tên gọi là phường Chương Mỹ.<ref>{{Chú thích web |title=Nghị quyết số 1656/NQ-UBTVQH15 ngày 16 tháng 6 năm 2025 của Ủy ban Thường vụ Quốc hội về việc sắp xếp các đơn vị hành chính cấp xã của thành phố Hà Nội năm 2025 |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf |url-status=live |archive-url=https://web.archive.org/web/20260630400809/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf |archive-date=2026-06-30 |access-date=2026-06-30 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+* Sau khi sắp xếp, phường Chương Mỹ được chia thành 51 tổ dân phố – thôn, gồm 24 tổ dân phố và 27 thôn.<ref>11 tổ dân phố: An Thắng, Đoàn Kết, Giang Chính, Giang Lẻ, Hòa Bình, Phú Mỹ, Phúc Tiến, Phượng Bãi, Rạng Đông, Yên Phúc và Yên Thành của phường Biên Giang cũ; 12 tổ dân phố: An Phú, Bắc Sơn, Bình Sơn, Chùa Vàng, Đông Sơn, Giáp Ngọ, Hòa Sơn, Ninh Kiều, Ninh Sơn, Nội An, Tràng An và Yên Sơn của thị trấn Chúc Sơn cũ; 5 thôn: đánh số từ 1 đến 4 và Yên Khê của xã Đại Yên cũ; 5 thôn: Cả, Cầu, Chúc Lý, Ngọc Giả và Non Nông của xã Ngọc Hòa cũ; 5 thôn: Long Châu Miếu, Long Châu Sơn, Phương Bản, Phượng Đồng và Phượng Nghĩa của xã Phụng Châu cũ; 5 thôn: Cao Sơn, Đồng Nanh, Quyết Tiến, Sơn Đồng và Tiên Lữ của xã Tiên Phương cũ; 7 thôn: Chúc Đồng 1, 2, Phú Bến, Phúc Cầu, Tân An, Tân Mỹ và Trung Tiến của xã Thụy Hương cũ; tổ dân phố 18 của phường Đồng Mai cũ.</ref><ref>{{Chú thích web |title=Thông tư số 10/2022/TT-BTNMT ngày 29 tháng 9 năm 2022 của Bộ Tài nguyên và Môi trường về việc Ban hành Danh mục địa danh dân cư, sơn văn, thủy văn, kinh tế – xã hội phục vụ công tác thành lập bản đồ thành phố Hà Nội|url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2022/10/10-btnmt.pdf|url-status=live|archive-url=https://web.archive.org/web/20260630400809/https://datafiles.chinhphu.vn/cpp/files/vbpq/2022/10/10-btnmt.pdf|archive-date=2026-06-30|access-date=2026-06-30|website=Cổng Thông tin điện tử Chính phủ}}</ref><ref>{{Chú thích web |last=|date=|title=Nghị quyết số 2/NQ-UBBC ngày 20 tháng 3 năm 2026 của Ủy ban bầu cử phường Chương Mỹ về việc xác nhận tư cách đại biểu Hội đồng nhân dân phường Chương Mỹ khóa II, nhiệm kỳ 2026 – 2031|url=https://sqhx-hanoi.mediacdn.vn/91579363132710912/2026/3/21/nghi-quyet-xac-nhan-tu-cach-dai-bieu-17740565460162121995429.pdf|url-status=dead|archive-url=https://web.archive.org/web/20260806201510/https://sqhx-hanoi.mediacdn.vn/91579363132710912/2026/3/21/nghi-quyet-xac-nhan-tu-cach-dai-bieu-17740565460162121995429.pdf|archive-date=2026-08-06|access-date=2026-08-06|website=Trang Thông tin điện tử phường Chương Mỹ – thành phố Hà Nội}}</ref>
+Ngày 6 tháng 12 năm 2025, chuyển đổi 27 thôn: Phượng Đồng, Phượng Nghĩa, Phương Bản, Long Châu Sơn, Long Châu Miếu, từ 1 đến 4, Yên Khê, Tiên Lữ, Quyết Tiến, Đồng Nanh, Cao Sơn, Sơn Đồng, Chúc Đồng 1, 2, Trung Tiến, Tân Mỹ, Tân An, Phú Bến, Phúc Cầu, Cầu, Cả, Chúc Lý, Ngọc Giả và Non Nông thành tổ dân phố.<ref>1. Thôn Phượng Đồng đổi thành tổ dân phố Phượng Đồng; 2. Thôn Phượng Nghĩa đổi thành tổ dân phố Phượng Nghĩa; 3. Thôn Phương Bản đổi thành tổ dân phố Phương Bản; 4. Thôn Long Châu Sơn đổi thành tổ dân phố Long Châu Sơn; 5. Thôn Long Châu Miếu đổi thành tổ dân phố Long Châu Miếu; 6. Thôn 1 đổi thành tổ dân phố 1; 7. Thôn 2 đổi thành tổ dân phố 2; 8. Thôn 3 đổi thành tổ dân phố 3; 9. Thôn 4 đổi thành tổ dân phố 4; 10. Thôn Yên Khê đổi thành tổ dân phố Yên Khê; 11. Thôn Tiên Lữ đổi thành tổ dân phố Tiên Lữ; 12. Thôn Quyết Tiến đổi thành tổ dân phố Quyết Tiến; 13. Thôn Đồng Nanh đổi thành tổ dân phố Đồng Nanh; 14. Thôn Cao Sơn đổi thành tổ dân phố Cao Sơn; 15. Thôn Sơn Đồng đổi thành tổ dân phố Sơn Đồng; 16. Thôn Chúc Đồng 1 đổi thành tổ dân phố Chúc Đồng; 17. Thôn Chúc Đồng 2 đổi thành tổ dân phố Chúc Đồng 2; 18. Thôn Trung Tiến đổi thành tổ dân phố Trung Tiến; 19. Thôn Tân Mỹ đổi thành tổ dân phố Tân Mỹ; 20. Thôn Tân An đổi thành tổ dân phố Tân An; 21. Thôn Phú Bến đổi thành tổ dân phố Phú Bến; 22. Thôn Phúc Cầu đổi thành tổ dân phố Phúc Cầu; 23. Thôn Cầu đổi thành tổ dân phố Cầu; 24. Thôn Cả đổi thành tổ dân phố Cả; 25. Thôn Chúc Lý đổi thành tổ dân phố Chúc Lý; 26. Thôn Ngọc Giả đổi thành tổ dân phố Ngọc Giả; 27. Thôn Nong Nông đổi thành tổ dân phố Non Nông.</ref><ref>{{Chú thích web |title=Nghị quyết số 17/NQ-HĐND ngày 6 tháng 12 năm 2025 của Hội đồng nhân dân phường Chương Mỹ về chuyển đổi thôn thành tổ dân phố trên địa bàn phường Chương Mỹ, thành phố Hà Nội |url=https://chuongmy.hanoi.gov.vn/tin-tuc-su-kien/chuong-my-chuyen-doi-27-thon-thanh-to-dan-pho-2803251210143235823.htm?gidzl=P-ktM2lTGnXZzBDU8SPB66tribivb4CPSAVa2J-I5KrtfxO9F9X5Jd-flLaoc4XBSAcnNsLw1y5nBjn76W |url-status=dead |archive-url=https://web.archive.org/web/20260806201510/https://chuongmy.hanoi.gov.vn/tin-tuc-su-kien/chuong-my-chuyen-doi-27-thon-thanh-to-dan-pho-2803251210143235823.htm?gidzl=P-ktM2lTGnXZzBDU8SPB66tribivb4CPSAVa2J-I5KrtfxO9F9X5Jd-flLaoc4XBSAcnNsLw1y5nBjn76W |archive-date=2026-08-06 |access-date=2026-08-06 |website=Trang Thông tin điện tử phường Chương Mỹ – thành phố Hà Nội}}</ref>
+
+Ngày 24 tháng 12 năm 2025, xác định một phần của phường Chương Mỹ là [[Đô thị Việt Nam|đô thị loại II]] và [[Đô thị Việt Nam|đô thị loại III]].<ref>Đô thị loại II (chuyển tiếp từ 2 phường: Biên Giang và Đồng Mai thuộc quận Hà Đông) và đô thị loại III (chuyển tiếp từ thị trấn Chúc Sơn thuộc huyện Chương Mỹ).</ref><ref>{{Chú thích web |title=Nghị quyết số 111/2025/UBTVQH15 ngày 24 tháng 12 năm 2025 của Ủy ban Thường vụ Quốc hội về phân loại đô thị|url=https://cdn.nhandan.vn/files/f4a4abf7f9a0ba4a91744616546d850872b76917f90d5a74cc9eebef1369fb6f/111.pdf|url-status=dead|archive-url=https://web.archive.org/web/20260712401509/https://cdn.nhandan.vn/files/f4a4abf7f9a0ba4a91744616546d850872b76917f90d5a74cc9eebef1369fb6f/111.pdf|archive-date=2026-07-12|access-date=2026-07-12|website=Báo Nhân dân}}</ref>
+
+Ngày 29 tháng 6 năm 2026, thành lập 20 tổ dân phố mới: Biên Giang, An Phúc Thành, Thụy Dương, Thụy Hương, Chúc Ngọc, Đại Ơn, Long Châu, Phượng Đồng, Phượng Nghĩa, Phương Bản, Ninh Sơn, Tràng An, Phú Hoàng Giáp, Chúc Sơn, Bình Sơn, Quyết Tiến, Tiên Lữ, Đồng Nanh, Đại Phẩm và Đại Yên.<ref>1. Tổ dân phố Biên Giang: Thành lập trên cơ sở toàn bộ các tổ dân phố: Giang Lẻ, Giang Chính, Rạng Đông, Hòa Bình, Đoàn Kết, Phượng Bãi; 2. Tổ dân phố An Phúc Thành: Thành lập trên cơ sở toàn bộ các tổ dân phố: Yên Phúc, An Thắng, Phúc Tiến, Yên Thành; 3. Tổ dân phố Thụy Dương: Thành lập trên cơ sở toàn bộ các tổ dân phố: Chúc Đồng 1, Chúc Đồng 2, Phần lớn tổ dân phố Trung Tiến (339-1660); 4. Tổ dân phố Thụy Hương: Thành lập trên cơ sở toàn bộ các tổ dân phố: Tân An, Phú Bến, Phúc Cầu, Tân Mỹ và một phần nhỏ của tổ dân phố Trung Tiến (5-23); 5. Tổ dân phố Chúc Ngọc: Thành lập trên cơ sở toàn bộ các tổ dân phố: Chúc Lý, Ngọc Giả; 6. Tổ dân phố Đại Ơn: Thành lập trên cơ sở toàn bộ các tổ dân phố: Cầu, Cả, Non Nông, Cao Sơn; 7. Tổ dân phố Long Châu: Thành lập trên cơ sở toàn bộ các tổ dân phố: Long Châu Miếu và phần lớn tổ dân phố Long Châu Sơn (428-1794); 8. Tổ dân phố Phượng Đồng: Thành lập trên cơ sở toàn bộ tổ dân phố: Phượng Đồng, một phần của tổ dân phố Phượng Nghĩa (95-380); 9. Tổ dân phố Phượng Nghĩa: Thành lập trên cơ sở toàn bộ phần còn lại của tổ dân phố: Phượng Nghĩa (trừ phần cắt về tổ dân phố Phượng Đồng); 10. Tổ dân phố Phương Bản: Thành lập trên cơ sở toàn bộ tổ dân phố: Phương Bản và một phần của tổ dân phố Long Châu Sơn (15-63); 11. Tổ dân phố Ninh Sơn: Thành lập trên cơ sở toàn bộ tổ dân phố: Ninh Sơn và một phần tổ dân phố Bắc Sơn (20-76); 12. Tổ dân phố Tràng An: Thành lập trên cơ sở toàn bộ các tổ dân phố: Tràng An, Ninh Kiều; 13. Tổ dân phố Phú Hoàng Giáp: Thành lập trên cơ sở toàn bộ các tổ dân phố: Giáp Ngọ, Phú Mỹ, tổ dân phố 18; 14. Tổ dân phố Chúc Sơn: Thành lập trên cơ sở toàn bộ các tổ dân phố: Chùa Vàng, Nội An, An Phú, Đông Sơn; 15. Tổ dân phố Bình Sơn: Thành lập trên cơ sở toàn bộ các tổ dân phố: Hòa Sơn, Yên Sơn, Bình Sơn và một phần tổ dân phố Bắc Sơn; 16. Tổ dân phố Quyết Tiến: Thành lập trên cơ sở toàn bộ tổ dân phố: Quyết Tiến và 1 phần của tổ dân phố Đồng Nanh (30-136), tổ dân phố Tiên Lữ (203-918); 17. Tổ dân phố Tiên Lữ: Thành lập trên cơ sở toàn bộ (còn lại) của tổ dân phố Tiên Lữ (trừ phần cắt về tổ dân phố Quyết Tiến); 18. Tổ dân phố Đồng Nanh: Thành lập trên cơ sở toàn bộ (phần còn lại) tổ dân phố: Đồng Nanh (trừ phần cắt về tổ dân phố Quyết Tiến); 19. Tổ dân phố Sơn Đồng: Thành lập trên cơ sở toàn bộ tổ dân phố Sơn Đồng (giữ nguyên); 20. Tổ dân phố Đại Phẩm: Thành lập trên cơ sở toàn bộ các tổ dân phố: 1, 2, 3; 21. Tổ dân phố Đại Yên: Thành lập trên cơ sở toàn bộ: tổ dân phố 4 và tổ dân phố Yên Khê.</ref><ref name=":02">{{Chú thích web |last=|date=|title=Nghị quyết số 18/NQ-HĐND ngày 29 tháng 6 năm 2026 của Hội đồng nhân dân phường Chương Mỹ về việc phê chuẩn Đề án thành lập, sắp xếp, tổ chức lại tổ dân phố trên địa bàn phường Chương Mỹ|url=https://sqhx-hanoi.mediacdn.vn/91579363132710912/2026/6/30/18-nq-hdnd-17827851850562080718690.pdf|url-status=dead|archive-url=https://web.archive.org/web/20260805201510/https://sqhx-hanoi.mediacdn.vn/91579363132710912/2026/6/30/18-nq-hdnd-17827851850562080718690.pdf|archive-date=2026-08-05|access-date=2026-08-05|website=Trang Thông tin điện tử phường Chương Mỹ – thành phố Hà Nội}}</ref>
+[[Tập tin:Bản đồ các tổ dân phố thuộc phường Chương Mỹ của thành phố Hà Nội.png|trái|nhỏ|234x234px|Bản đồ chia tổ dân phố phường Chương Mỹ của thành phố Hà Nội (từ ngày 1 tháng 7 năm 2026)<ref>{{Chú thích web |last=Tuổi trẻ Chương Mỹ – thành phố Hà Nội |date=2026-06-16 |title=19 tổ dân phố sau khi sắp xếp, sáp nhập từ ngày 01/7/2026 trên địa bàn phường Chương Mỹ |url=https://web.facebook.com/photo/?fbid=1042689341763728&set=a.160478723318132 |url-status=dead |archive-url=https://web.archive.org/web/20260806201510/https://web.facebook.com/photo/?fbid=1042689341763728&set=a.160478723318132 |archive-date=2026-08-06 |access-date=2026-08-06}}</ref>]]<!-- 
+== Lịch sử== 
+Trước đây, Đồng Mai là một xã thuộc huyện Thanh Oai.
+
+Ngày [[4 tháng 1]] năm [[2006]], Chính phủ ban hành Nghị định 01/2006/NĐ-CP<ref>Nghị định 01/2006/NĐ-CP về việc điều chỉnh địa giới hành chính, mở rộng thị xã Hà Đông, tỉnh Hà Tây</ref>. Theo đó, chuyển toàn bộ diện tích và dân số của xã Đồng Mai về thị xã Hà Đông quản lý.
+
+Ngày [[27 tháng 12]] năm [[2006]], xã Đồng Mai thuộc thành phố Hà Đông mới thành lập.
+
+Ngày [[8 tháng 5]] năm [[2009]], Chính phủ ban hành Nghị quyết 19/NQ-CP<ref name = "19/NQ-CP">Nghị quyết số 19/NQ-CP về việc xác lập địa giới hành chính xã Đông Xuân thuộc huyện Quốc Oai; các xã: Tiến Xuân, Yên Bình, Yên Trung thuộc huyện Thạch Thất; huyện Mê Linh thuộc thành phố Hà Nội; thành lập quận Hà Đông và các phường trực thuộc; chuyển thành phố Sơn Tây thành thị xã Sơn Tây thuộc thành Hà Nội</ref>. Theo đó, thành lập quận Hà Đông trên cơ sở toàn bộ diện tích, dân số của quận Hà Đông và thành lập phường Đồng Mai thuộc quận Hà Đông trên cơ sở toàn bộ diện tích, dân số của xã Đồng Mai.
+
+Sau khi thành lập, phường Đồng Mai có 634,19 ha diện tích tự nhiên, dân số là 13.639 người.
+
+== Lịch sử== 
+Trước đây, Biên Giang từng là một xã thuộc huyện [[Thanh Oai (huyện)| Thanh Oai]].
+
+Ngày [[4 tháng 1]] năm [[2006]], Chính phủ ban hành Nghị định 01/2006/NĐ-CP<ref>Nghị định 01/2006/NĐ-CP về việc điều chỉnh địa giới hành chính, mở rộng thị xã Hà Đông, tỉnh Hà Tây</ref>. Theo đó:
+*Sáp nhập 67,64 ha diện tích tự nhiên và 1.097 nhân khẩu của thôn Phượng Bãi, xã [[Phụng Châu]], huyện Chương Mỹ vào xã Biên Giang
+*Chuyển toàn bộ diện tích và dân số của xã Biên Giang về thị xã Hà Đông quản lý.
+
+Sau khi điều chỉnh địa giới hành chính, xã Biên Giang có 270,30 ha diện tích tự nhiên và 5.942 người.
+
+Ngày [[27 tháng 12]] năm [[2006]], xã Biên Giang thuộc thành phố Hà Đông mới thành lập.
+
+Ngày [[8 tháng 5]] năm [[2009]], Chính phủ ban hành Nghị quyết 19/NQ-CP<ref name = "19/NQ-CP">Nghị quyết số 19/NQ-CP về việc xác lập địa giới hành chính xã Đông Xuân thuộc huyện Quốc Oai; các xã: Tiến Xuân, Yên Bình, Yên Trung thuộc huyện Thạch Thất; huyện Mê Linh thuộc thành phố Hà Nội; thành lập quận Hà Đông và các phường trực thuộc; chuyển thành phố Sơn Tây thành thị xã Sơn Tây thuộc thành Hà Nội</ref>. Theo đó, thành lập quận Hà Đông trên cơ sở toàn bộ diện tích, dân số của quận Hà Đông và thành lập phường Biên Giang thuộc quận Hà Đông trên cơ sở toàn bộ diện tích, dân số của xã Biên Giang.
+
+Sau khi thành lập, phường Biên Giang có 236,05 ha diện tích tự nhiên, dân số là 6.299 người.
+
+== Cơ sở hạ tầng==
+
+=== Khu công nghiệp=== 
+Cụm công nghiệp Biên Giang do chủ đầu tư là Ban quản lý dự án đầu tư xây dựng quận Hà Đông có quy mô hơn 30,7 ha được thành lập vào cuối năm 2017. Đây là cụm công nghiệp nhiều ngành nghề nhằm mục đích thu hút các doanh nghiệp, công ty, hộ sản xuất kinh doanh, cơ sở dịch vụ phục vụ sản xuất công nghiệp vào thuê đất kinh doanh và phát triển kinh tế địa phương.
+
+=== Hệ thống xe buýt=== 
+Phường Biên Giang cách BX Yên Nghĩa 3&nbsp;km về phía Đông.
+
+==== Các tuyến xe buýt hoạt động:==== 
+{| class = "wikitable"
+!Tuyến xe buýt
+!Ghi chú
+!Lộ trình
+| -
+| '''37'''<sup>(Bến xe Giáp Bát - Chương Mỹ)</sup>
+| 
+| ''Chiều đi:'' Bến xe Giáp Bát - Giải Phóng - Kim Đồng - quay đầu tại phố Kim Đồng - Giải Phóng - đường Hoàng Liệt - KĐT Linh Đàm - Nguyễn Duy Trinh - Nguyễn Hữu Thọ - Cầu Dậu - Kim Giang - Đường Cầu Bươu - Viện 103 - Phùng Hưng (Hà Đông) - Cầu Đen - Tô Hiệu - Quang Trung (Hà Đông) - Ba La - Quốc Lộ 6 - Yên Nghĩa - Đồng Mai - [[Cầu Mai Lĩnh]] - Biên Giang - Chương Mỹ
+''Chiều về:'' Chương Mỹ - Biên Giang - Cầu Mai Lĩnh - Đồng Mai - Yên Nghĩa - Quốc lộ 6 - Ba La - Quang Trung (Hà Đông) - Tô Hiệu - Cầu Đen - Phùng Hưng (Hà Đông) - Viện 103 - Đường Cầu Bươu - Kim Giang - Cầu Dậu - Nguyễn Hữu Thọ - Nguyễn Duy Trinh - Khu đô thị Linh Đàm - đường Hoàng Liệt - Ngọc Hồi - Quay đầu tại cty ABB - Ngọc Hồi - Giải Phóng - Bến xe Giáp Bát
+| -
+| '''57'''<sup>(Nam Thăng Long - KCN Phú Nghĩa)</sup>
+| 
+| ''Chiều đi:'' Khu đô thị Mỹ Đình II - Nguyễn Cơ Thạch - Hồ Tùng Mậu - Quốc lộ 32 - Ngã tư Xuân Phương - Cầu vượt TL 70 - Tây Mỗ - Ngọc Trục(Đường 70) -Vạn Phúc - Chu Văn An (Hà Đông) - Quang Trung (Hà Đông) - Ba La - Quốc Lộ 6 - Yên Nghĩa - Đồng Mai - Cầu Mai Lĩnh - Biên Giang - Chúc Sơn - Khu công nghiệp Phú Nghĩa
+''Chiều về:'' Khu công nghiệp Phú Nghĩa (đường nội bộ KCN Phú Nghĩa) - Chúc Sơn - Biên Giang - Cầu Mai Lĩnh - Đồng Mai - Quốc Lộ 6 -Yên Nghĩa - Ba La - Quang Trung (Hà Đông) - Vạn Phúc - Đại Mỗ - Tây Mỗ -Xuân Phương - Ngã tư Xuân Phương - Quốc lộ 32 - Hồ Tùng Mậu - Nguyễn Cơ Thạch - Khu đô thị Mỹ Đình II
+| -
+| '''71B'''<sup>(Bến xe Mỹ Đình - Xuân Mai)</sup>
+| 
+| ''Chiều đi:'' Bến xe Mỹ Đình - Phạm Hùng - Mễ Trì - Lê Quang Đạo - Đại Lộ Thăng Long - Quốc lộ 21A - Ngã 3 Xuân Mai - Quốc lộ 6 - Thị trấn Xuân Mai
+''Chiều về:'' Thị trấn Xuân Mai - Quốc lộ 6 - Ngã 3 Xuân Mai - Quốc lộ 21A - Đại lộ Thăng Long - Lê Quang Đạo - Mễ Trì - Phạm Hùng (Quay đầu tại đối diện bưu cục Thăng Long) - Bến xe Mỹ Đình
+| -
+| '''72'''<sup>(Bến xe Yên Nghĩa - Xuân Mai)</sup>
+| 
+| ''Chiều đi:'' Yên Nghĩa - Biên Giang - Quốc Lộ 6
+''Chiều về:'' Quốc Lộ 6 - Biên Giang - Yên Nghĩa
+| -
+| '''81'''<sup>(Xuân Mai - BX Hương Sơn)</sup>
+| 
+| ''Chiều đi:'' Nhà máy thức ăn chăn nuôi CP Việt Nam – Xuân Mai – Đường mòn Hồ Chí Minh – Miếu Môn – ngã 3 Phúc Lâm – Kênh Đào – Hồng Sơn – Tế Tiêu – bệnh viện Hà – Sêu – Vạn Kim – Đốc Tín – BX Hương Sơn
+''Chiều về:'' BX Hương Sơn – Đốc Tín – Vạn Kim – Sêu – Bệnh viện Hà – Tế Tiêu – Hồng Sơn – Kênh Đào – ngã 3 Phúc Lâm – Miếu Môn – Đường mòn Hồ Chí Minh – Xuân Mai – Nhà máy thức ăn chăn nuôi CP Việt Nam
+| -
+| '''87'''<sup>(Bến xe Mỹ Đình - Quốc Oai - Xuân Mai)</sup>
+| 
+| ''Chiều đi:'' Bến xe Mỹ Đình - Phạm Hùng - Đại lộ Thăng Long (làn đường gom) - Cầu vượt Hoàng Xá (thị trấn Quốc Oai) - Quốc Oai - Thạch Thán - Tỉnh lộ 421B - Quốc lộ 6 - Xuân Mai
+''Chiều về:'' Xuân Mai - Quốc lộ 6 - Tỉnh lộ 421B - Thạch Thán - Quốc Oai - Đại lộ Thăng Long (làn đường gom) - Phạm Hùng - Quay đầu tại ngã 4 Phạm Hùng, Tôn Thất Thuyết - Phạm Hùng - Bến xe Mỹ Đình
+| -
+| '''88'''<sup>(Bến xe Mỹ Đình - Hòa Lạc - Xuân Mai)</sup>
+| 
+| ''Chiều đi:'' Bến xe Mỹ Đình - Phạm Hùng - Mễ Trì - Lê Quang Đạo - Đại lộ Thăng Long (làn đường gom) - Nút giao Hòa Lạc - Quốc lộ 21B - đường Hồ Chí Minh - Xuân Mai
+''Chiều về:'' Xuân Mai - đường Hồ Chí Minh - Quốc lộ 21B - Đại lộ Thăng Long (làn đường gom) - Lê Quang Đạo - Mễ Trì - Phạm Hùng - Quay đầu tại ngã 4 Phạm Hùng, Tôn Thất Thuyết - Phạm Hùng - Bến xe Mỹ Đình
+| -
+| '''102'''<sup>(Bến xe Yên Nghĩa - Vân Đình)</sup>
+| 
+| ''Chiều đi:'' Bến xe Yên Nghĩa - Quang Trung (Hà Đông) - Cầu Mai Lĩnh - Biên Giang (Hà Đông) - Quốc lộ 6 - Thị Trấn Chúc Sơn - Bắc Sơn - Hòa Sơn - Yên Sơn - Tỉnh lộ 419 - Cầu Hạ Dục - Đường Phúc Lâm, Hạ Dục - Tỉnh lộ 429 - Cầu Ba Thá - Tỉnh lộ 429B - Cầu Lão - Quốc lộ 21B - Lê Lợi (Vân Đình) - Vân Đình
+''Chiều về:'' Vân Đình - Lê Lợi (Vân Đình) - Quốc lộ 21B - Cầu Lão - Tỉnh lộ 429B - Tỉnh lộ 429 - Cầu Ba Thá - Tỉnh lộ 429 - Đường Phúc Lâm, Hạ Dục - Cầu Hạ Dục - Tỉnh lộ 419 - Thị trấn Chúc Sơn - Yên Sơn - Hòa Sơn - Bắc Sơn - Quốc lộ 6 - Biên Giang (Hà Đông) - Cầu Mai Lĩnh - Quang Trung (Hà Đông) - Bến xe Yên Nghĩa
+| -
+| '''114'''<sup>(Bến xe Yên Nghĩa - Miếu Môn)</sup>
+| 
+| ''Chiều đi:'' Bến xe Yên Nghĩa - Quang Trung (Hà Đông) - Cầu Mai Lĩnh - Biên Giang (Hà Đông) - Quốc lộ 6 - Thị Trấn Chúc Sơn - Bắc Sơn - Hòa Sơn - Yên Sơn -... - Miếu Môn
+''Chiều về:'' Miếu Môn -... - Thị trấn Chúc Sơn - Yên Sơn - Hòa Sơn - Bắc Sơn - Quốc lộ 6 - Biên Giang (Hà Đông) - Cầu Mai Lĩnh - Quang Trung (Hà Đông) - Bến xe Yên Nghĩa
+| -
+| '''115''' <sup>(Thị trấn Vân Đình - Xuân Mai)</sup>
+| 
+| ''Chiều đi:'' Xuân Mai (Trường Cao đẳng Cộng đồng Hà Tây) - Đường Hồ Chí Minh - Miếu Môn - Tỉnh lộ 429 - Cầu Ba Thá - Tỉnh lộ 419 - Tỉnh lộ 429B - Ngã 4 phố Vác - Quốc lộ 21B - Lê Lợi (Vân Đình) - Vân Đình (Trung tâm Thương mại thị trấn Vân Đình)
+''Chiều về:'' Vân Đình (Trung tâm Thương mại thị trấn Vân Đình) - Lê Lợi (Vân Đình) - Quốc lộ 21B - Ngã 4 phố Vác - Tỉnh lộ 429B - Tỉnh lộ 419 - Cầu Ba Thá - Tỉnh lộ 429 - Miếu Môn - Đường Hồ Chí Minh - Xuân Mai (Trường Cao đẳng Cộng đồng Hà Tây)
+| -
+| '''116''' <sup>(Yên Trung - KCN Phú Nghĩa)</sup>
+| 
+| ''Chiều đi:'' Yên Trung (UBND xã Yên Trung - Thạch Thất) - Tỉnh lộ 446 - Ngã 4 Vai Réo - Vai Réo - Nông Lâm - Phú Cát - Tuyết Nghĩa - Trại Ro - Cấn Hữu - Ngã 4 Cấn Thượng (giao với Tỉnh lộ 421B) - Đông Sơn - Ngã 3 Yên Kiện - Quốc lộ 6 - KCN Phú Nghĩa (Ngã 4 đường Thanh Niên, Hạnh Phúc - KCN Phú Nghĩa)
+''Chiều về:'' KCN Phú Nghĩa (Ngã 4 đường Thanh Niên, Hạnh Phúc - KCN Phú Nghĩa) - Quốc lộ 6 - Ngã 3 Yên Kiện - Đông Sơn - Ngã 4 Cấn Thượng (giao với Tỉnh lộ 421B) - Cấn Hữu - Trại Ro - Tuyết Nghĩa - Phú Cát - Nông Lâm - Vai Réo - Ngã 4 Vai Réo - Tỉnh lộ 446 - Yên Trung (UBND xã Yên Trung - Thạch Thất)
+| -
+| '''124''' <sup>(BX Yên Nghĩa - Chúc Sơn - Thị trấn Kim Bài)</sup>
+| 
+| ''Chiều đi:'' Bến xe Yên Nghĩa - Quốc lộ 6 - Thị trân Chúc Sơn - đường đê (đi qua các xã Thụy Hương, Lam Điền, Hoàng Diệu, Thượng Vực, Văn Võ, (Chương Mỹ); các xã Phương Trung, Kim Thư (Thanh Oai) - Kim Bài (phía trước Bách hóa tổng hợp thị trấn Kim Bài).
+''Chiều về:'' Thị trấn Kim Bài (phía trước Bách hóa tổng hợp thị trấn Kim Bài) - đường đê (đi qua các xã Thụy Hương, Lam Điền, Hoàng Diệu, Thượng Vực, Văn Võ (Chương Mỹ); các xã Phương Trung, Kim Thư (Thanh Oai) - Thị trấn Chúc Sơn - Quốc lộ 6 - Bến xe Yên Nghĩa
+| -
+| '''CNG07'''<sup>(Bến xe Yên Nghĩa - Hoài Đức)</sup>
+| Dịp hội chùa Trăm Gian sẽ đi đường tránh vòng qua Phượng Nghĩa
+| ''Chiều đi:'' Quốc lộ 6 - Cầu Mai Lĩnh - Biên Giang - Phượng Bãi - Chùa Trầm - Tỉnh lộ 419 - Chùa Trăm Gian - Tỉnh lộ 419 - Thị trấn Quốc Oai - Cầu vượt Hoàng Xá - Đường ven Khu Đô thị Sunny Garden - Đường nội bộ Khu Du lịch Tuần Châu Ecopark - Đường vành đai Khu Di tích chùa Thầy - Tỉnh lộ 421B - Đê Song Phương - Tỉnh lộ 422 - Ngã tư Sơn Đồng - Tỉnh lộ 422 - Quốc lộ 32
+''Chiều về:'' Hoài Đức (Bến xe Hoài Đức) - Quốc lộ 32 - Tỉnh lộ 422 - Ngã tư Sơn Đồng - Tỉnh lộ 422 - Đê Song Phương - Tỉnh lộ 421B - Đường vành đai KDT chùa Thầy - Đường nội bộ KDL Tuần Châu Ecopark - Đường ven KĐT Sunny Garden - Cầu vượt Hoàng Xá - Thị trấn Quốc Oai - Tỉnh lộ 419 - Chùa Trăm Gian - Tỉnh lộ 419 - Chùa Trầm - Phượng Bãi - Biên Giang - Cầu Mai Lĩnh - Quốc lộ 6 - Bến xe Yên Nghĩa
+| -
+| '''05'''<sup>(TP. Hòa Bình - Bến xe Yên Nghĩa)</sup>
+| Đây là tuyến buýt không trợ giá
+| Bến xe khách Bình An (thành phố Hoà Bình) – Cầu Hòa Bình – Đường Cù Chính Lan – Đường An Dương Vương – Đường Trần Hưng Đạo – Bến xe khách Trung tâm Hòa Bình – Đường Trần Hưng Đạo – Quốc lộ 6 – Khu Công nghiệp Lương Sơn – Quốc lộ 6 – Xuân Mai – Chúc Sơn – Bến xe Yên Nghĩa
+|}
+
+== Giáo dục== 
+Trường Đại học trên địa bàn:
+*[[Trường Đại học Sư phạm Thể dục Thể thao Hà Nội]][[Tập tin:Đài phun nước "Trống đồng Đông Sơn" tại trường THCS Phụng Châu.jpg| nhỏ| Đài phun nước "Trống đồng Đông Sơn" tại trường THCS Phụng Châu]]
+
+Trường Phổ thông trên địa bàn:
+* THPT Trần Đại Nghĩa
+* THCS Phụng Châu
+*Tiểu học Phụng Châu
+
+== Đặc sản== 
+Nem Phượng được biết đến là đặc sản của Phụng Châu, do gia truyền tại thôn Phượng Nghĩa. Nguyên liệu làm nem Phượng bao gồm: thịt nạc, bì lợn, gạo tẻ, gạo nếp, lá sung. Nguyên liệu đơn giản nhưng phải chế biến điêu luyện thì mới ra thành phẩm ngon.
+
+== Địa điểm nổi tiếng== 
+Phụng Châu với vị trí địa lý được thiên nhiên ưu ái nên cảnh quan phong phú và có nhiều danh lam thắng cảnh đẹp. Nơi đây là địa điểm tham quan và du lịch của người dân thủ đô và các tỉnh vùng ven cũng như du khách nước ngoài khi đến tham quan thành phố [[Hà Nội]]. 
+=== Chợ Phượng=== 
+Đây là chợ phiên lớn được tổ chức vào các ngày Âm lịch như mùng 3, mùng 5, mùng 8, mùng 10, mùng 13, mùng 15, mùng 18, mùng 20, mùng 23, mùng 25, mùng 27, mùng 30 vào buổi sáng. Tuy nhiên, hàng ngày chợ vẫn hoạt động tại gần đó tuy nhiên với quy mô nhỏ hơn. Cuối năm 2019, chợ Phượng được sửa chữa, nâng cấp và mở rộng quy mô với mật độ bê tông phủ kín.
+
+=== Núi Trầm=== 
+[[Tập tin:Núi Trầm, Chương Mỹ, Hà Nội.png| nhỏ| 389x389px| Núi Trầm]]
+Khu du lịch sinh thái [[núi Trầm]] nằm cách trung tâm Hà Nội khoảng 20&nbsp;km là địa điểm khám phá thiên nhiên, du lịch nổi tiếng vùng ngoại ô với quần thể chùa nổi tiếng. Núi Trầm hay còn có tên gọi khác là Tử Trầm Sơn. Ba ngôi chùa tại đây có tên lần lượt là chùa Trầm, chùa Hang và chùa Vô Vi Lễ hội chùa Trầm được tổ chức từ mùng 2 đến mùng 4 tháng 2 âm lịch. Với các trò chơi, văn hóa, văn nghệ dân gian. Mỗi cuối tuần, nơi đây thu hút số lượng lớn du khách về tham quan, tổ chức cắm trại qua đêm. Nơi đây cũng là thiên đường của những người đam mê bộ môn [[Trekking]], đạp xe đạp, chụp ảnh.
+
+=== Chùa Trầm=== 
+[[Chùa Trầm]] tọa lạc tại khu vực thắng cảnh núi Trầm thuộc thôn Long Châu, nên còn có tên là chùa Long Châu. Chùa được xây dựng vào năm Cảnh Trị thứ 7 (1669). Chùa đã qua nhiều lần trùng tu. Ngôi chùa hiện nay còn giữ được nhiều tượng Phật mang phong cách nghệ thuật thế kỷ XVIII - XIX, với kỹ thuật chạm khắc công phu, tinh tế. Trên nền cao tam cấp bằng đá của chùa, ở phiến đá chính giữa có chạm nổi hai con thằn lằn rất đẹp. Lễ hội chùa vào ngày 2 tháng 2 âm lịch hàng năm, thu hút rất đông khách trảy hội, vãn cảnh.
+
+=== Đình Phương Bản=== 
+Đình làng Phương Bản thuộc xã Phụng Châu là nơi thờ [[Phùng Hưng]] và 2 vị [[tướng nhà Đinh]] là Uy Sơn đại vương và Ngọ Tân đại vương. Hai ông là người làng Phương Bản từng chiêu mộ binh sĩ theo giúp vua [[Đinh Tiên Hoàng]] dẹp [[loạn 12 sứ quân]].<ref>[https://luutru.gov.vn/dinh-phuong-ban-148-vtlt.htm Đình Phương Bản]</ref>
+
+== Làng nghề== 
+Phụng Châu có nhiều làng nghề truyền thống, nổi tiếng trong đó là làng nghề điêu khắc đá ở thôn Long Châu. Làng nghề truyền thống này đã có từ lâu đời ở bên cạnh quần thể núi Trầm. Các nghệ nhân điêu khắc đá đã về đây học hỏi, cũng như mở xưởng đá ở nơi đây.
+
+== Cơ sở hạ tầng== 
+Phụng Châu có điều kiện tốt phát triển cơ sở hạ tầng với ưu thế:
+
+* Đường [[Quốc lộ 6]] (kết nối thủ đô [[Hà Nội]] với các tỉnh phía Bắc) và đường TL419 chạy ngay sát địa giới
+* Cách Bến xe Yên Nghĩa và [[Tuyến số 2A (Đường sắt đô thị Hà Nội)]] 5&nbsp;km về phía Đông
+* Cách Khu Công nghiệp Phú Nghĩa 5&nbsp;km về phía Tây
+* Khoảng cách từ trung tâm xã đến [[Đại lộ Thăng Long]] (hay đường cao tốc Láng - Hòa Lạc) khoảng 7&nbsp;km về phía Bắc
+* Khoảng cách từ trung tâm xã đến [[Quốc lộ 21B]] (kết nối giữa thủ đô Hà Nội và hai tỉnh Hà Nam và Nam Định) khoảng 8&nbsp;km về phía Đông Nam
+
+=== Khu đô thị===
+
+* Khu đô thị Dreamhouse Phụng Châu 8
+* Khu đô thị Dreamhouse Phụng Châu 12
+
+=== Trung tâm mua sắm===
+
+* Siêu thị [[Thegioididong.com| Điện Máy Xanh]]
+*Siêu thị [[WinMart]]
+
+=== Đường chính===
+
+* Đường Đê Mới là trục đường chính của Phụng Châu, giao với đường Hoa tại ngã ba Chợ Phượng, kết nối giữa quần thể Núi Trầm và [[Quốc Oai (huyện)| Quốc Oai]].
+*Đường Phượng Thành
+*Đường Văn Miếu
+* Đường Phượng Yên là trục đường phụ, kết nối phố Phượng Đồng và phố Phượng Nghĩa.
+* Đường Hoa là đường chính, kết nối phố Phượng Đồng và phố Phượng Nghĩa, giao với đường Phượng Bãi ([[Biên Giang]]) nối thẳng với [[Quốc lộ 6]] và đường Phúc Tiến ([[Biên Giang]]).
+* Đường Long Châu là tuyến đường giao với đường Phượng Nghĩa, kết nối phố Phượng Nghĩa, phố Long Châu và phố [[Ninh Sơn]], [[Chúc Sơn]].
+*Đường Phương Bản là tuyến đường đi xã [[Tân Hòa, Quốc Oai]].
+*Đường [[Phố Lê Văn Lương, Hà Nội| Lê Văn Lương]] (hay là đường Tố Hữu kéo dài) kết nối Phụng Châu và TT Chúc Sơn với đường vành đai 4 (nằm trong quy hoạch định hướng phát triển không gian Hà Nội) <ref>{{Chú thích web| url = http://www.hanoimoi.com.vn/tin-tuc/Kinh-te/834867/ha-noi-phe-duyet-nhiem-vu-chi-gioi-duong-do-duong-to-huu-keo-dai| tựa đề = Hà Nội: Phê duyệt nhiệm vụ chỉ giới đường đỏ đường Tố Hữu kéo dài| tác giả = | họ = | tên = | ngày = | website = | url lưu trữ = | ngày lưu trữ = | ngày truy cập = }}</ref>
+
+=== Tuyến xe buýt=== 
+{| class = "wikitable"
+!Tuyến xe buýt
+!Ghi chú
+!Lộ trình
+| -
+| <sup>'''163'''(Bến xe Yên Nghĩa - Nhổn)</sup>
+| 
+| ''Chiều đi:'' Quốc lộ 6 - Cầu Mai Lĩnh - Biên Giang - Phượng Bãi - Chùa Trầm - Tỉnh lộ 419 - Chùa Trăm Gian - Tỉnh lộ 419 - Thị trấn Quốc Oai - Cầu vượt Hoàng Xá - Đường ven Khu Đô thị Sunny Garden - Đường nội bộ Khu Du lịch Tuần Châu Ecopark - Đường vành đai Khu Di tích chùa Thầy - Tỉnh lộ 421B - Đê Song Phương - Tỉnh lộ 422 - Ngã tư Sơn Đồng - Tỉnh lộ 422 - Quốc lộ 32
+''Chiều về:'' Hoài Đức (Bến xe Hoài Đức) - Quốc lộ 32 - Tỉnh lộ 422 - Ngã tư Sơn Đồng - Tỉnh lộ 422 - Đê Song Phương - Tỉnh lộ 421B - Đường vành đai KDT chùa Thầy - Đường nội bộ KDL Tuần Châu Ecopark - Đường ven KĐT Sunny Garden - Cầu vượt Hoàng Xá - Thị trấn Quốc Oai - Tỉnh lộ 419 - Chùa Trăm Gian - Tỉnh lộ 419 - Chùa Trầm - Phượng Bãi - Biên Giang - Cầu Mai Lĩnh - Quốc lộ 6 - Bến xe Yên Nghĩa
+|}
+
+-->
+
+== Hành chính== 
+Phường Chương Mỹ được chia thành 21 tổ dân phố: An Phúc Thành, Biên Giang, Bình Sơn, Chúc Ngọc, Chúc Sơn, Đại Phẩm, Đại Yên, Đại Ơn, Đồng Nanh, Long Châu, Ninh Sơn, Phú Hoàng Giáp, Phương Bản, Phượng Đồng, Phượng Nghĩa, Quyết Tiến, Sơn Đồng, Thụy Dương, Thụy Hương, Tiên Lữ và Tràng An.<ref name=":02" />
+{| class="wikitable sortable" align="center" width="100%" cellspacing="6" cellpadding="0" style="background: #f9f9f9; border: 1px #aaa solid; margin-top: 16px"
+! colspan="4" style="background: #E6E6FA; font-size: 95%;" |Danh sách các tổ dân phố thuộc phường Chương Mỹ<ref name=":02" />
+|-
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |An Phúc Thành
+|986
+|-
+| align="left" |Biên Giang
+|1.373
+|-
+| align="left" |Bình Sơn
+|1.126
+|-
+| align="left" |Chúc Ngọc
+|1.308
+|-
+| align="left" |Chúc Sơn
+|1.086
+|-
+| align="left" |Đại Phẩm
+|1.007
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Đại Yên
+|682
+|-
+| align="left" |Đại Ơn
+|1.501
+|-
+| align="left" |Đồng Nanh
+|1.041
+|-
+| align="left" |Long Châu
+|871
+|-
+| align="left" |Ninh Sơn
+|702
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Phú Hoàng Giáp
+|1.145
+|-
+| align="left" |Phương Bản
+|834
+|-
+| align="left" |Phượng Đồng
+|762
+|-
+| align="left" |Phượng Nghĩa
+|1.186
+|-
+| align="left" |Quyết Tiến
+|831
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Sơn Đồng
+|838
+|-
+| align="left" |Thụy Dương
+|931
+|-
+| align="left" |Thụy Hương
+|1.348
+|-
+| align="left" |Tiên Lữ
+|1.058
+|-
+| align="left" |Tràng An
+|728
+|}
+|}
+== Trụ sở các cơ quan ==
+Trụ sở phường đặt tại số 102, tổ dân phố Bắc Sơn, trước là trụ sở huyện Chương Mỹ.<ref>{{Chú thích web | last = Kim Nhuệ | date = 2025-05-20 | title = Huyện Chương Mỹ dự kiến trụ sở phường Chương Mỹ và 5 xã sau sắp xếp | url = https://hanoimoi.vn/huyen-chuong-my-du-kien-tru-so-phuong-chuong-my-va-5-xa-sau-sap-xep-702909.html | url-status = live | archive-url = https://web.archive.org/web/20250624235358/https://hanoimoi.vn/huyen-chuong-my-du-kien-tru-so-phuong-chuong-my-va-5-xa-sau-sap-xep-702909.html | archive-date = 24 tháng 6 năm 2025 | access-date = 2025-08-11 | website = [[Báo Hà Nội Mới]] | language = vi}}</ref><ref>{{Chú thích web | last = Thụ Trần | date = 29 tháng 5 năm 2025 | title = Phương án đặt trung tâm hành chính của 1 phường và 5 xã ở Chương Mỹ | url = https://kinhtedothi.vn/phuong-an-dat-trung-tam-hanh-chinh-cua-1-phuong-va-5-xa-o-chuong-my.719121.html | url-status = live | access-date = 11 tháng 8 năm 2025 | website = Báo Kinh tế Đô thị}}</ref> Đây là phường duy nhất ở Hà Nội được sử dụng trụ sở Ủy ban nhân dân huyện sau sắp xếp.<ref>{{Chú thích web | last = Khánh An | date = 12 tháng 5 năm 2025 | title = Phường duy nhất ở Hà Nội được sử dụng trụ sở UBND huyện sau sắp xếp | url = https://laodong.vn/xa-hoi/phuong-duy-nhat-o-ha-noi-duoc-su-dung-tru-so-ubnd-huyen-sau-sap-xep-1505355.ldo | access-date = 2025-08-11 | website = [[Báo Lao Động]]}}</ref>
+
+== Kinh tế== 
+Trên địa bàn có Cụm công nghiệp Ngọc Hòa - Phụng Châu với các ngành nghề như sản xuất vật liệu xây dựng, chế biến gỗ, cơ khí, sản phẩm nhựa và may mặc. Phường có xu hướng phát triển dịch vụ vận tải, kho bãi, logistics nhờ vị trí cửa ngõ phía nam thủ đô. Đặc biệt, khu vực thị trấn Chúc Sơn cũ là trung tâm hành chính - kinh tế lâu đời, có nhiều chợ đầu mối, cửa hàng, phát triển dịch vụ vận tải, ngân hàng và viễn thông.<ref name = ":1"/><ref name=":0">{{chú thích sách| tác giả = | tựa đề = Chương Mỹ xưa và nay| nhà xuất bản = Sở văn hóa thông tin Hà Tây| year = 2003| nơi = | trang = 52| url = https://www.google.com/books/edition/Chương_Mỹ_xưa_và_nay/i5BuAAAAMAAJ| doi = | id = | isbn = }}</ref>
+
+Nông nghiệp vẫn được duy trì tại các khu vực như Đại Yên, Thụy Hương, Ngọc Hòa. Bên cạnh đó, phường Chương Mỹ phát triển mô hình nông nghiệp công nghệ cao, kết hợp du lịch sinh thái trải nghiệm, phường có một số mô hình nuôi trồng thủy sản tại vùng trũng tại Thụy Hương và Đại Yên.<ref name = ":0" />
+
+Phường có nhiều làng nghề truyền thống gắn với văn hóa bản địa: Chúc Sơn và các vùng phụ cận có truyền thống thủ công mỹ nghệ, chế biến thực phẩm, cơ khí nhỏ; Tiên Phương, Phụng Châu phát triển làng nghề mộc, điêu khắc đá, một số khu vực làm gốm và mây tre đan.<ref name = ":0" />
+
+Phường nằm trong định hướng trở thành một trong những cực tăng trưởng mở rộng về phía Tây Nam của Hà Nội theo Quy hoạch Thủ đô thời kỳ 2021-2030, tầm nhìn 2050.<ref name = ":0" />[[hình:Phố Phượng, Phụng Châu, Hà Nội.png|thumb| Một góc tuyến phố Phượng Nghĩa]]
+
+== Giao thông== 
+Phường có kết nối với khu vực trung du và [[Tây Bắc Bộ|Tây Bắc]], đặc biệt là các tỉnh [[Phú Thọ]], [[Sơn La]], [[Điện Biên]] thông qua [[quốc lộ 6]].<ref name = ":0" />
+
+== Xã hội== 
+[[Tập tin:Núi Trầm, Chương Mỹ, Hà Nội.png| nhỏ|250x250px| Núi Trầm]]
+
+== Y tế ==
+Phường có Bệnh Viện Đa khoa Chương Mỹ và các trạm y tế tương ứng các xã, phường cũ.<ref name = ":0" />
+
+== Giáo dục ==
+Các trường học ở phường gồm có: Tiểu học và THCS Biên Giang, Tiểu học Chúc Sơn A, Tiểu học Chúc Sơn B, THCS Chúc Sơn, Tiểu học và THCS Đại Yên, Tiểu học và THCS Ngọc Hòa, Tiểu học và THCS Phụng Châu, Tiểu học và THCS Tiên Phương, Tiểu học và THCS Thụy Hương, THCS Ngô Sỹ Liên, THPT Chương Mỹ A.<ref name = ":1" /><ref name = ":0" />
+
+[[Trường Đại học Sư phạm Thể dục Thể thao Hà Nội]] tọa lạc trên địa bàn phường.<ref>{{Chú thích web | title = Trường Đại học Sư phạm Thể dục Thể thao Hà Nội | url = https://hupes.edu.vn/ | access-date = 2025-08-11 | website = [[Trường Đại học Sư phạm Thể dục Thể thao Hà Nội]] | language = vi}}</ref>
+
+== Văn hóa== 
+Phường Chương Mỹ có nhiều di tích được xếp hạng cấp quốc gia như [[chùa Trầm]], đình Phương Bản, chùa Vô Vi, chùa Hang, chùa Ba Làng ở Phụng Châu; đình Ninh Sơn, đình Nội, đình Xá ở Chúc Sơn; [[Chùa Trăm Gian (Hà Nội)|chùa Trăm Gian]] ở Tiên Phương.<ref name = ":0"/>
+
+== Chú thích== 
+<references responsive = "" />
+
+== Tham khảo==
+{{Sơ khai Hà Nội}}{{Đơn vị hành chính thuộc thành phố Hà Nội}}

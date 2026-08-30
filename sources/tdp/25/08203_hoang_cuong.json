@@ -1,0 +1,208 @@
+{
+  "ward_code": "08203",
+  "ward_name": "Hoàng Cương",
+  "province_code": "25",
+  "resolution": "",
+  "arrangement": "truoc_2026_07",
+  "effective_date": "",
+  "verified": "unverified",
+  "extraction": {
+    "source": "vi.wikipedia.org",
+    "title": "Hoàng Cương (xã)",
+    "mode": "narrative"
+  },
+  "sources": [
+    {
+      "key": "wiki-08203-1",
+      "title": "Nghị quyết số 2/NQ-UBBC về việc công bố danh sách chính thức những người ứng cử đại biểu Hội đồng nhân dân xã Hoàng Cương nhiệm kỳ 2026 - 2031",
+      "url": "https://hoangcuong.phutho.gov.vn/index.php/bau-cu/3604-nghi-quyet-ve-viec-cong-bo-danh-sach-nhung-nguoi-ung-cu-va-danh-sach-chinh-thuc-nhung-nguoi-ung-cu-dai-bieu-hdnd-xa-hoang-cuong-khoa-iii-nhiem-ky-2026-2031",
+      "date": "2026-02-23",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-08203-2",
+      "title": "Danh sách Thôn vùng đồng bào dân tộc thiểu số và miền núi, thôn đặc biệt khó khăn giai đoạn 2026 - 2030 trên địa bàn tỉnh Phú Thọ",
+      "url": "http://files.ubdt.gov.vn/files/ecm/source_files/2026/02/05/11252411_4.%20Ph%C3%BA%20Th%E1%BB%8D%201%20(th%C3%B4n).signed_26-02-05.pdf",
+      "date": "2026-01-29",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-08203-3",
+      "title": "",
+      "url": "https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Nghi-quyet-828-NQ-UBTVQH14-2019-sap-xep-don-vi-hanh-chinh-cap-xa-thuoc-tinh-Phu-Tho-432098.aspx",
+      "date": "",
+      "type": "wikipedia-ref"
+    }
+  ],
+  "note": "Trích tự động từ Wikipedia tiếng Việt (mode=narrative). Cần đối chiếu nghị quyết HĐND phường/xã. ⚠️ Danh mục có thể là hiện trạng TRƯỚC sắp xếp thôn/TDP 01/7/2026 — Wikipedia chưa cập nhật nghị quyết mới.",
+  "tdp": [
+    {
+      "name": "1 Hòang Cương",
+      "type": "khu"
+    },
+    {
+      "name": "2 Hòang Cương",
+      "type": "khu"
+    },
+    {
+      "name": "3 Hòang Cương",
+      "type": "khu"
+    },
+    {
+      "name": "4 Hòang Cương",
+      "type": "khu"
+    },
+    {
+      "name": "5 Hòang Cương",
+      "type": "khu"
+    },
+    {
+      "name": "6 Hòang Cương",
+      "type": "khu"
+    },
+    {
+      "name": "7 Hòang Cương",
+      "type": "khu"
+    },
+    {
+      "name": "8 Hòang Cương",
+      "type": "khu"
+    },
+    {
+      "name": "9 Hòang Cương",
+      "type": "khu"
+    },
+    {
+      "name": "10 Hòang Cương",
+      "type": "khu"
+    },
+    {
+      "name": "11 Hòang Cương",
+      "type": "khu"
+    },
+    {
+      "name": "12 Hòang Cương",
+      "type": "khu"
+    },
+    {
+      "name": "13 Hòang Cương",
+      "type": "khu"
+    },
+    {
+      "name": "14 Hòang Cương",
+      "type": "khu"
+    },
+    {
+      "name": "15 Hòang Cương",
+      "type": "khu"
+    },
+    {
+      "name": "1 Ninh Dân",
+      "type": "khu"
+    },
+    {
+      "name": "2 Ninh Dân",
+      "type": "khu"
+    },
+    {
+      "name": "3 Ninh Dân",
+      "type": "khu"
+    },
+    {
+      "name": "4 Ninh Dân",
+      "type": "khu"
+    },
+    {
+      "name": "5 Ninh Dân",
+      "type": "khu"
+    },
+    {
+      "name": "6 Ninh Dân",
+      "type": "khu"
+    },
+    {
+      "name": "7 Ninh Dân",
+      "type": "khu"
+    },
+    {
+      "name": "8 Ninh Dân",
+      "type": "khu"
+    },
+    {
+      "name": "9 Ninh Dân",
+      "type": "khu"
+    },
+    {
+      "name": "10 Ninh Dân",
+      "type": "khu"
+    },
+    {
+      "name": "11 Ninh Dân",
+      "type": "khu"
+    },
+    {
+      "name": "12 Ninh Dân",
+      "type": "khu"
+    },
+    {
+      "name": "An Ninh 1",
+      "type": "khu"
+    },
+    {
+      "name": "An Ninh 2",
+      "type": "khu"
+    },
+    {
+      "name": "Bắc Sơn",
+      "type": "khu"
+    },
+    {
+      "name": "Đòan Kết",
+      "type": "khu"
+    },
+    {
+      "name": "Hòang Xá",
+      "type": "khu"
+    },
+    {
+      "name": "Hồng Phong",
+      "type": "khu"
+    },
+    {
+      "name": "Liên Hà",
+      "type": "khu"
+    },
+    {
+      "name": "Phố Ẻn",
+      "type": "khu"
+    },
+    {
+      "name": "Quyết Thắng",
+      "type": "khu"
+    },
+    {
+      "name": "Quyết Tiến",
+      "type": "khu"
+    },
+    {
+      "name": "Tây Sơn",
+      "type": "khu"
+    },
+    {
+      "name": "Thanh Ba",
+      "type": "khu"
+    },
+    {
+      "name": "Thống Nhất",
+      "type": "khu"
+    },
+    {
+      "name": "Trường Sơn",
+      "type": "khu"
+    },
+    {
+      "name": "Vũ Yển",
+      "type": "khu"
+    }
+  ]
+}

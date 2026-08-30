@@ -1,0 +1,72 @@
+{
+  "ward_code": "08494",
+  "ward_name": "Lâm Thao",
+  "province_code": "25",
+  "resolution": "",
+  "arrangement": "truoc_2026_07",
+  "effective_date": "",
+  "verified": "unverified",
+  "extraction": {
+    "source": "vi.wikipedia.org",
+    "title": "Lâm Thao, Phú Thọ",
+    "mode": "narrative!old"
+  },
+  "sources": [
+    {
+      "key": "wiki-08494-1",
+      "title": "Nghị quyết số 111/2025/UBTVQH15 về phân loại đô thị",
+      "url": "https://xaydungchinhsach.chinhphu.vn/nghi-quyet-so-111-2025-ubtvqh15-ve-phan-loai-do-thi-119260101170432239.htm",
+      "date": "2026-01-21",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-08494-2",
+      "title": "Danh sách 21 người trúng cử đại biểu Hội đồng nhân dân xã Lâm Thao khóa II, nhiệm kỳ 2026 - 2031",
+      "url": "https://web.facebook.com/story.php?story_fbid=122167113542936860&id=61578105804572&rdid=eSW4xgaTUA2uBbRa#",
+      "date": "2026-03-20",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-08494-3",
+      "title": "NGHỊ QUYẾT 203/2025/QH15 SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA HIẾN PHÁP NƯỚC CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM",
+      "url": "https://xaydungchinhsach.chinhphu.vn/nghi-quyet-203-2025-qh15-sua-doi-bo-sung-mot-so-dieu-cua-hien-phap-nuoc-cong-hoa-xa-hoi-chu-nghia-viet-nam-119250616181735552.htm",
+      "date": "2025-06-28",
+      "type": "wikipedia-ref"
+    }
+  ],
+  "note": "Trích tự động từ Wikipedia tiếng Việt (mode=narrative!old). Cần đối chiếu nghị quyết HĐND phường/xã. ⚠️ Danh mục có thể là hiện trạng TRƯỚC sắp xếp thôn/TDP 01/7/2026 — Wikipedia chưa cập nhật nghị quyết mới.",
+  "tdp": [
+    {
+      "name": "Lâm Nghĩa",
+      "type": "khu"
+    },
+    {
+      "name": "Lâm Thao",
+      "type": "khu"
+    },
+    {
+      "name": "Ngọc Tỉnh",
+      "type": "khu"
+    },
+    {
+      "name": "Phương Lai",
+      "type": "khu"
+    },
+    {
+      "name": "Tân Sơn",
+      "type": "khu"
+    },
+    {
+      "name": "Tân Trung",
+      "type": "khu"
+    },
+    {
+      "name": "Thùy Nhật",
+      "type": "khu"
+    },
+    {
+      "name": "Tiến Mới",
+      "type": "khu"
+    }
+  ]
+}

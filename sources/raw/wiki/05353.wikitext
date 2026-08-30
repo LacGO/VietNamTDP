@@ -1,0 +1,69 @@
+{{Thông tin đơn vị hành chính Việt Nam|Xã
+| tên = Yên Thủy
+| hình =
+| ghi chú hình =
+| vĩ độ = 20.392539322033404
+| kinh độ = 105.62439186335253
+| diện tích = 76,19 km²
+| dân số = 24.012 người
+| thời điểm dân số = 2025
+| mật độ dân số = {{formatnum:{{#expr:floor({{formatnum:24.012| R}}/{{formatnum:76,19| R}})}} }} người/km²
+| vùng = [[Đông Bắc Bộ]]
+| tỉnh = [[Phú Thọ]]
+| thành lập = *1 tháng 8 năm 1994<ref name=":0" />: Thành lập thị trấn Hàng Trạm
+*16 tháng 6 năm 2025<ref>Nghị quyết số 1676/NQ-UBTVQH15</ref>: Thành lập xã Yên Thủy
+| trụ sở UBND =Số 26 đường Hùng Vương, khu phố Tân Bình
+| mã hành chính = 05353<ref>{{Chú thích web |url=https://danhmuchanhchinh.gso.gov.vn/ |title=Tổng cục Thống kê |access-date=2021-12-22 |archive-date=2021-01-10 |archive-url=https://web.archive.org/web/20210110034519/https://www.gso.gov.vn/phuong-phap-thong-ke/danh-muc/don-vi-hanh-chinh/ |url-status=dead }}</ref>
+| mã bưu chính =36719 
+|web={{url|https://yenthuy.phutho.gov.vn/}}|loại đô thị=|năm công nhận=}}
+{{other|Yên Thủy (định hướng)}}
+'''Yên Thủy''' là một [[Xã (Việt Nam)|xã]] thuộc tỉnh [[Phú Thọ]], [[Việt Nam]].
+
+==Địa lý==
+Xã Yên Thủy là xã nằm ở phía nam của tỉnh [[Phú Thọ]] và vùng [[Đông Bắc Bộ]], có vị trí địa lý:
+*Phía đông giáp xã [[Yên Trị, Phú Thọ|Yên Trị]]
+*Phía tây giáp xã [[Đại Đồng (định hướng)|Đại Đồng]]
+*Phía nam giáp xã [[Cúc Phương]], tỉnh [[Ninh Bình]]
+*Phía bắc giáp xã [[Lạc Lương]]
+
+Xã Yên Thủy có diện tích 76,19&nbsp;km², dân số năm 2025 là 24.012 người, mật độ dân số đạt 315 người/km².<ref name="NQ830"/>
+
+Đây là một xã miền núi, một phần [[vườn quốc gia Cúc Phương]] nằm trên địa bàn xã.
+
+Xã Yên Thủy nằm cách phường [[Việt Trì (phường)|Việt Trì]], trung tâm hành chính tỉnh [[Phú Thọ]] 132&nbsp;km, cách phường [[Tam Điệp (phường)|Tam Điệp]] 45 &nbsp;km, cách phường [[Hoa Lư (phường)|Hoa Lư]], tỉnh [[Ninh Bình]] 47&nbsp;km, cách [[hà Nội|thủ đô Hà Nội]] khoảng 95&nbsp;km, cách trung tâm tỉnh [[Sơn La]] 255&nbsp;km, cách xã [[Nho Quan (xã)|Nho Quan]], tỉnh [[Ninh Bình]] 16&nbsp;km theo 2 hướng của [[quốc lộ 12B]]
+
+==Hành chính==
+Xã Yên Thủy được chia thành 34 khu phố - xóm, gồm 17 khu phố: An Bình, Cả, Đông Yên, Hàng Trạm, Khang Chóng, Lạc Vượng, Tân Bình, Tân Khánh, Tân Thành, Tây Bắc, Thanh Bình, Thắng Lợi, Thống Nhất, Yên Bình, Yên Hòa, Yên Phong, Yên Sơn và 17 xóm: Côm, Đình (xã Lạc Thịnh cũ), Đình (xã Phú Lai cũ), Đình Văn, Hạ, Lành Anh, Lạng, Phố Sấu, Rò, Sấu, Tân Vượng, Thịnh Phú, Thịnh Vượng, Thượng, Trác, Trung Hoa, Xàm.<ref name=":1">{{Chú thích web |last=Bộ Dân tộc và Tôn giáo |date=2026-01-29 |title=Danh sách Thôn vùng đồng bào dân tộc thiểu số và miền núi, thôn đặc biệt khó khăn giai đoạn 2026 - 2030 trên địa bàn tỉnh Phú Thọ |url=http://files.ubdt.gov.vn/files/ecm/source_files/2026/02/05/11252411_4.%20Ph%C3%BA%20Th%E1%BB%8D%201%20(th%C3%B4n).signed_26-02-05.pdf |url-status=live |archive-url=https://web.archive.org/web/20260417090807/http://files.ubdt.gov.vn/files/ecm/source_files/2026/02/05/11252411_4.%20Ph%C3%BA%20Th%E1%BB%8D%201%20(th%C3%B4n).signed_26-02-05.pdf |archive-date=2026-04-17 |access-date=2026-04-17 |website=Cổng Thông tin điện tử Bộ Dân tộc và Tôn giáo}}</ref>
+
+==Lịch sử==
+Địa bàn xã Yên Thủy hiện nay trước đây vốn là thị trấn Hàng Trạm và hai xã Phú Lai, Lạc Thịnh thuộc huyện [[Yên Thủy (huyện)|Yên Thủy]], tỉnh [[Hòa Bình (tỉnh)|Hòa Bình]] cũ.
+
+Ngày [[1 tháng 8]] năm [[1994]], thị trấn Hàng Trạm được thành lập trên cơ sở 270 ha diện tích tự nhiên và 4.444 người của xã Yên Lạc (gồm ba xóm: Hàng Trạm, Yên Bình, Lạc Phong và các khu dân cư của Nông trường 2-9 trên địa bàn xã).<ref name=":0">{{chú thích sách|tác giả=|tựa đề=Địa chí Hòa Bình|nhà xuất bản=Nhà xuất bản Chính trị quốc gia|year=2005|nơi=|trang=369|url=https://www.google.com/books/edition/Địa_ch%C3%AD_Hòa_Bình/jUZRAQAAMAAJ|doi=|id=|isbn=}}</ref>
+
+Đến năm [[2018]]:
+
+* Thị trấn Hàng Trạm có diện tích 2,21&nbsp;km², dân số là 5.417 người, mật độ dân số đạt 2.451 người/km².
+* Xã Yên Lạc có diện tích 29,93&nbsp;km², dân số là 6.086 người, mật độ dân số đạt 203 người/km², gồm 10 xóm: Yên Hoà, Dom, Cả, Khang, Chóng, Ót, Lạc Vượng, Tân Thịnh, Khánh Ninh, Yên Sơn.
+
+Ngày [[17 tháng 12]] năm [[2019]], [[Ủy ban Thường vụ Quốc hội]] ban hành Nghị quyết số 830/NQ-UBTVQH14 về việc sắp xếp các đơn vị hành chính cấp huyện, cấp xã thuộc tỉnh Hòa Bình (nghị quyết có hiệu lực từ ngày [[1 tháng 1]] năm [[2020]]).<ref name="NQ830">{{Chú thích web|url=https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/Nghi-quyet-830-NQ-UBTVQH14-2019-sap-xep-don-vi-hanh-chinh-cap-huyen-xa-thuoc-tinh-Hoa-Binh-432100.aspx|tựa đề=Nghị quyết số 830/NQ-UBTVQH14 năm 2019 về việc sắp xếp các đơn vị hành chính cấp huyện, cấp xã thuộc tỉnh Hòa Bình|tác giả=|họ=|tên=|ngày=|website=|url lưu trữ=|ngày lưu trữ=|ngày truy cập=}}</ref> Theo đó, sáp nhập toàn bộ diện tích và dân số của xã Yên Lạc vào thị trấn Hàng Trạm.
+
+Ngày [[12 tháng 6]] năm [[2025]], [[Quốc hội Việt Nam|Quốc hội]] ban hành Nghị quyết số 202/2025/QH15 về việc sắp xếp đơn vị hành chính cấp tỉnh (nghị quyết có hiệu lực từ ngày [[12 tháng 6]] năm [[2025]]).<ref>{{Chú thích web |last=xaydungchinhsach.chinhphu.vn|date=2025-07-16|title=TOÀN VĂN: Nghị quyết số 202/2025/QH15 về sắp xếp đơn vị hành chính cấp tỉnh|url=https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-202-2025-qh15-ve-sap-xep-don-vi-hanh-chinh-cap-tinh-119250612174148722.htm|url-status=live|archive-url=http://web.archive.org/web/20260705025431/https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-202-2025-qh15-ve-sap-xep-don-vi-hanh-chinh-cap-tinh-119250612174148722.htm|archive-date=2026-07-05|access-date=2026-07-25|website=Báo Điện tử Chính phủ|language=vi}}</ref> Theo đó, sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của tỉnh [[Vĩnh Phúc (tỉnh)|Vĩnh Phúc]], tỉnh [[Hòa Bình (tỉnh)|Hòa Bình]] và tỉnh [[Phú Thọ]] thành tỉnh mới có tên gọi là tỉnh '''Phú Thọ'''.
+
+Ngày [[16 tháng 6]] năm [[2025]]:
+
+* Quốc hội ban hành Nghị quyết số 203/2025/QH15 về việc sửa đổi, bổ sung một số điều của Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam (nghị quyết có hiệu lực từ ngày [[16 tháng 6]] năm [[2025]]).<ref>{{Chú thích web |last=xaydungchinhsach.chinhphu.vn|date=2025-06-28|title=NGHỊ QUYẾT 203/2025/QH15 SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA HIẾN PHÁP NƯỚC CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM|url=https://xaydungchinhsach.chinhphu.vn/nghi-quyet-203-2025-qh15-sua-doi-bo-sung-mot-so-dieu-cua-hien-phap-nuoc-cong-hoa-xa-hoi-chu-nghia-viet-nam-119250616181735552.htm|url-status=live|archive-url=http://web.archive.org/web/20260715200606/https://xaydungchinhsach.chinhphu.vn/nghi-quyet-203-2025-qh15-sua-doi-bo-sung-mot-so-dieu-cua-hien-phap-nuoc-cong-hoa-xa-hoi-chu-nghia-viet-nam-119250616181735552.htm|archive-date=2026-07-15|access-date=2026-07-15|website=Báo Điện tử Chính phủ|language=vi}}</ref> Theo đó, kết thúc hoạt động của đơn vị hành chính cấp huyện trong cả nước từ ngày 1 tháng 7 năm 2025.
+
+* Ủy ban Thường vụ Quốc hội ban hành Nghị quyết số 1676/NQ-UBTVQH15 về việc sắp xếp đơn vị hành chính cấp xã của tỉnh [[Phú Thọ]] năm 2025 (nghị quyết có hiệu lực từ ngày [[16 tháng 6]] năm [[2025]]).<ref>{{Chú thích web |last=xaydungchinhsach.chinhphu.vn|date=2025-06-20|title=Nghị quyết số 1676/NQ-UBTVQH15 sắp xếp các ĐVHC cấp xã của tỉnh Phú Thọ năm 2025|url=https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-1676-nq-ubtvqh15-sap-xep-cac-dvhc-cap-xa-cua-tinh-phu-tho-nam-2025-119250616204317326.htm|url-status=live|archive-url=http://web.archive.org/web/20260725082021/https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-1676-nq-ubtvqh15-sap-xep-cac-dvhc-cap-xa-cua-tinh-phu-tho-nam-2025-119250616204317326.htm|archive-date=2026-07-25|access-date=2026-07-25|website=Báo Điện tử Chính phủ|language=vi}}</ref> Theo đó, sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của thị trấn Hàng Trạm, xã Phú Lai và xã Lạc Thịnh (huyện [[Yên Thủy (huyện)|Yên Thủy]]) thành xã mới có tên gọi là '''xã Yên Thủy'''.
+
+Sau khi thành lập, xã Yên Thủy được chia thành 34 khu phố - xóm, gồm 17 khu phố: An Bình, Cả, Đông Yên, Hàng Trạm, Khang Chóng, Lạc Vượng, Tân Bình, Tân Khánh, Tân Thành, Tây Bắc, Thanh Bình, Thắng Lợi, Thống Nhất, Yên Bình, Yên Hòa, Yên Phong, Yên Sơn và 17 xóm: Côm, Đình (xã Lạc Thịnh cũ), Đình (xã Phú Lai cũ), Đình Văn, Hạ, Lành Anh, Lạng, Phố Sấu, Rò, Sấu, Tân Vượng, Thịnh Phú, Thịnh Vượng, Thượng, Trác, Trung Hoa, Xàm.<ref name=":1" />
+
+Ngày [[24 tháng 12]] năm [[2025]], Ủy ban Thường vụ Quốc hội ban hành Nghị quyết số 111/2025/UBTVQH15 về phân loại đô thị (nghị quyết có hiệu lực từ ngày [[1 tháng 1]] năm [[2026]]).<ref>{{Chú thích web |last=xaydungchinhsach.chinhphu.vn |date=2026-01-21 |title=Nghị quyết số 111/2025/UBTVQH15 về phân loại đô thị |url=https://xaydungchinhsach.chinhphu.vn/nghi-quyet-so-111-2025-ubtvqh15-ve-phan-loai-do-thi-119260101170432239.htm |access-date=2026-07-23 |website=xaydungchinhsach.chinhphu.vn |language=vi}}</ref> Theo đó, đô thị loại IV, loại V, thị xã và thị trấn trước khi sắp xếp chưa được công nhận loại đô thị được xác định là đô thị loại III. Một phần xã Yên Thủy được xác định là đô thị loại III (từ đô thị loại V của thị trấn Hàng Trạm cũ).
+
+==Danh nhân==
+* [[Quách Thu Phương]] (sinh năm 1977) là một nữ diễn viên người Việt Nam
+==Chú thích==
+{{tham khảo}}
+
+==Tham khảo==
+{{sơ khai Phú Thọ}}
+{{Đơn vị hành chính thuộc tỉnh Phú Thọ}}

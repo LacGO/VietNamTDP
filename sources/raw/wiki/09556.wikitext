@@ -1,0 +1,322 @@
+{{Thông tin đơn vị hành chính Việt Nam |Phường
+| tên = Hà Đông
+| hình =  
+| ghi chú hình =  
+| vĩ độ = 20.96491944618931
+| kinh độ = 105.77067401342103
+| diện tích = 9 km²
+| dân số = 185.205 người
+| thời điểm dân số = 2025
+| mật độ dân số = {{formatnum:{{#expr:floor({{formatnum:185.205| R}}/{{formatnum:9| R}})}} }} người/km²
+| vùng = [[Đồng bằng sông Hồng]]
+| bản đồ 1 = [[File:Ha Dong map.png| 300px]]
+| tựa bản đồ 1 = Bản đồ phường Hà Đông
+| thành phố = [[Hà Nội]]
+| thành lập = 
+| trụ sở UBND = Số 2 phố Hà Cầu<ref>{{Chú thích web |url=https://storage-vnportal.vnpt.vn/gov-hni/6244/VanBan/2025/6/25/TB-729-2025.pdf |title=Thông báo số 729/TB-UBND ngày 25 tháng 6 năm 2025 của Ủy ban nhân dân thành phố Hà Nội về địa điểm trụ sở làm việc của 126 phường, xã sau sắp xếp thuộc phạm vi quản lý của thành phố Hà Nội|access-date=2026-06-15 |archive-date=2026-06-15 |archive-url=https://web.archive.org/web/20260615034519/https://storage-vnportal.vnpt.vn/gov-hni/6244/VanBan/2025/6/25/TB-729-2025.pdf |url-status=dead | website = Cổng Thông tin điện tử Ủy ban nhân dân thành phố Hà Nội}}</ref>
+| chủ tịch UBND = | chủ tịch UBMTTQ = | chủ tịch HĐND = | hợp nhất = | bí thư = |logo=Biểu trưng quận Hà Đông, thủ đô Hà Nội, Việt Nam.svg|ghi chú logo=Biểu trưng|trụ sở Đảng ủy=Số 2 phố Hà Cầu|mã hành chính=09556<ref>{{Chú thích web |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/19ttg.signed.pdf |title=Quyết định số 19/2025/QĐ-TTg ngày 30 tháng 6 năm 2025 của Thủ tướng Chính phủ về việc Ban hành Bảng danh mục và mã số các đơn vị hành chính Việt Nam |access-date=2026-06-15 |archive-date=2026-06-15 |archive-url=https://web.archive.org/web/20260615034519/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/19ttg.signed.pdf |url-status=dead | website = Cổng Thông tin điện tử Chính phủ}}</ref>|web={{url|hadong.hanoi.gov.vn}}|nhiều hình={{multiple image
+| border = infobox
+| total_width = 300
+| image_style = border:1;
+| perrow = 2/2
+| image1 = Quận Hà Đông về đêm.jpg
+| caption1 = Phường Hà Đông về đêm
+| image2 = Hồ Văn Quán.jpg
+| caption2 = Hồ Văn Quán}}}}
+{{other|Hà Đông (định hướng)}}
+'''Hà Đông''' là một [[Phường (Việt Nam)|phường]] thuộc thành phố [[Hà Nội]], [[Việt Nam]]. Đây là đơn vị hành chính cấp xã có quy mô dân số lớn nhất của thành phố.
+== Địa lý==
+Phường Hà Đông có vị trí địa lý:
+
+* Phía đông giáp phường [[Thanh Liệt]] (ranh giới đi theo đường Chiến Thắng, ranh giới cấp quận cũ, đường giao thông quy hoạch)
+* Phía tây giáp phường [[Dương Nội]] (ranh giới đi theo đường Lê Trọng Tấn – đường Nguyễn Thanh Bình – đường Nguyễn Văn Luyện)
+* Phía nam giáp phường [[Kiến Hưng (phường)|Kiến Hưng]] (ranh giới đi theo sông Nhuệ – đường Đa Sỹ – phố Hà Trì – phố Hoàng Đôn Hòa – đường sắt Hà Đông)
+* Phía bắc giáp phường [[Đại Mỗ]] (ranh giới đi theo ranh giới quận cũ – ngõ 1 Đại Mỗ – phố Tố Hữu – đường LK11B – đường LK6A – đường giao thông quy hoạch).<ref>{{Chú thích web |last=Báo Điện tử Chính phủ |date=2025-04-28 |title=Chi tiết dự thảo phương án sắp xếp các phường của Hà Nội |url=https://xaydungchinhsach.chinhphu.vn/chi-tiet-du-thao-phuong-an-sap-xep-cac-phuong-cua-ha-noi-119250421100531902.htm |url-status=dead |archive-url=https://web.archive.org/web/20260316174230/https://xaydungchinhsach.chinhphu.vn/chi-tiet-du-thao-phuong-an-sap-xep-cac-phuong-cua-ha-noi-119250421100531902.htm |archive-date=2026-03-16 |access-date=2026-07-10 |website=Xây dựng chính sách, pháp luật}}</ref><ref>{{Chú thích web |last=Viện nghiên cứu Phát triển kinh tế – xã hội Hà Nội |date=2025-07-02 |title=Phường Hà Đông: Những thông tin chi tiết sau sắp xếp |url=https://hanoionline.vn/phuong-ha-dong-nhung-thong-tin-chi-tiet-sau-sap-xep-343926.htm |url-status=dead |archive-url=https://web.archive.org/web/20260807400809/https://hanoionline.vn/phuong-ha-dong-nhung-thong-tin-chi-tiet-sau-sap-xep-343926.htm |archive-date=2026-08-07 |access-date=2026-08-07 |website=Cơ quan Báo và Phát thanh Truyền hình Hà Nội}}</ref><ref>{{Chú thích web |last=Cơ quan Báo và Phát thanh Truyền hình Hà Nội |date=2025-07-07 |title=Phường Hà Đông: Tất cả thông tin chỉ dẫn bạn cần biết |url=https://hanoionline.vn/phuong-ha-dong-tat-ca-thong-tin-chi-dan-ban-can-biet-345156.htm |url-status=dead |archive-url=https://web.archive.org/web/20260807401509/https://hanoionline.vn/phuong-ha-dong-tat-ca-thong-tin-chi-dan-ban-can-biet-345156.htm |archive-date=2026-08-07 |access-date=2026-08-07}}</ref>
+
+Phường Hà Đông có diện tích tự nhiên là 9&nbsp;km<sup>2</sup>, quy mô dân số năm 2025 là 185.205 người và mật độ dân số đạt 20.578 người/km<sup>2</sup>.<ref>{{Chú thích web |last=Mai Hữu |date=2026-04-05 |title=Hà Nội: Chi tiết phương án tổng thể sắp xếp đơn vị hành chính cấp xã |url=https://hanoimoi.vn/ha-noi-chi-tiet-phuong-an-tong-the-sap-xep-don-vi-hanh-chinh-cap-xa-700278.html |url-status=bot: unknown |archive-url=https://web.archive.org/web/20250710163328/https://hanoimoi.vn/ha-noi-chi-tiet-phuong-an-tong-the-sap-xep-don-vi-hanh-chinh-cap-xa-700278.html |archive-date=2025-07-10 |access-date=2026-07-08 |website=Cơ quan Báo và Phát thanh, truyền hình Hà Nội}}</ref><ref>Công văn số 2896/BNV-CQĐP ngày 27 tháng 5 năm 2025 của Bộ Nội vụ về việc cung cấp thông tin danh mục dự kiến đơn vị hành chính cấp xã mới.</ref>
+
+== Lịch sử==
+
+=== Trước năm 1976 ===
+
+=== Giai đoạn 1976 – nay ===
+Sau ngày 2 tháng 7 năm 1976, 3 tiểu khu: Nguyễn Trãi, Quang Trung, Yết Kiêu và 4 xã: Hà Cầu, Vạn Phúc, Văn Khê, Văn Yên thuộc thị xã [[Hà Đông (quận)|Hà Đông]] của tỉnh [[Hà Sơn Bình]]; xã Tân Triều thuộc huyện [[Thanh Trì (huyện)|Thanh Trì]] của thành phố [[Hà Nội]].
+
+Ngày 29 tháng 12 năm 1978, sáp nhập thị xã [[Hà Đông (quận)|Hà Đông]] của tỉnh [[Hà Sơn Bình]] vào thành phố [[Hà Nội]].<ref>Nghị quyết ngày 29 tháng 12 năm 1978 của Quốc hội khóa VI, Kỳ họp thứ 4 phê chuẩn việc phân vạch lại địa giới thành phố Hà Nội, thành phố Hồ Chí Minh, các tỉnh Hà Sơn Bình, Vĩnh Phú, Cao Lạng, Bắc Thái, Quảng Ninh và Đồng Nai.</ref>
+
+Ngày 3 tháng 1 năm 1981, từ nay các đơn vị hành chính cơ sở ở nội thành, nội thị của các [[Thành phố thuộc tỉnh (Việt Nam)|thành phố thuộc tỉnh]], [[Thị xã (Việt Nam)|thị xã]] và [[Quận (Việt Nam)|quận]] gọi là [[Phường (Việt Nam)|phường]]. Khi đó, 3 phường: Nguyễn Trãi, Quang Trung và Yết Kiêu thuộc thị xã [[Hà Đông (quận)|Hà Đông]].<ref>Quyết định số 3-CP ngày 3 tháng 1 năm 1981 của Hội đồng Chính phủ về việc thống nhất tên gọi các đơn vị hành chính ở nội thành nội thị.</ref>
+
+Ngày 12 tháng 8 năm 1991, chia tỉnh [[Hà Sơn Bình]] thành 2 tỉnh, lấy tên là tỉnh [[Hòa Bình (tỉnh)|Hòa Bình]] và tỉnh [[Hà Tây (tỉnh)|Hà Tây]]. Khi đó, 3 phường: Nguyễn Trãi, Quang Trung, Yết Kiêu và 4 xã: Hà Cầu, Vạn Phúc, Văn Khê, Văn Yên thuộc thị xã [[Hà Đông (quận)|Hà Đông]] của tỉnh [[Hà Tây (tỉnh)|Hà Tây]].<ref>Nghị quyết ngày 12 tháng 8 năm 1991 của Quốc hội khóa VIII, Kỳ họp thứ 9 về việc điều chỉnh địa giới hành chính một số tỉnh, thành phố trực thuộc Trung ương.</ref>
+
+Ngày 23 tháng 6 năm 1994:
+
+* Thành lập phường Văn Mỗ trên cơ sở các thôn Văn Quán, Mỗ Lao (của xã Văn Yên) và phố Trần Phú của phường Yết Kiêu.
+* Thành lập phường Phúc La trên cơ sở thôn Xa La, thôn Yên Phúc của xã Văn Yên và các phố Nguyễn Chánh, Tô Hiến Thành, Nguyễn Công Trứ của phường Yết Kiêu.<ref>{{Chú thích web |title=Nghị định số 52-CP ngày 23 tháng 6 năm 1994 của Chính phủ về việc điều chỉnh địa giới huyện và thành lập thị trấn, phường thuộc các huyện Hoài Đức, Chương Mỹ, Thạch Thất, Thanh Oai, thị xã Hà Đông, tỉnh Hà Tây |url=https://chinhphu.vn/default.aspx?pageid=27160&docid=2281 |url-status=dead |archive-url=https://web.archive.org/web/20260804201510/https://chinhphu.vn/default.aspx?pageid=27160&docid=2281 |archive-date=2026-08-04 |access-date=2026-08-04 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+
+Ngày 23 tháng 9 năm 2003:
+
+* Chuyển xã Yên Nghĩa của huyện [[Hoài Đức (huyện)|Hoài Đức]] về thị xã [[Hà Đông (quận)|Hà Đông]] quản lý.
+* Thành lập 2 phường: Vạn Phúc và Hà Cầu trên cơ sở toàn bộ diện tích tự nhiên và dân số của 2 xã có tên tương ứng.<ref>{{Chú thích web |title=Nghị định số 107/2003/NĐ-CP ngày 23 tháng 9 năm 2003 của Chính phủ về việc điều chỉnh địa giới hành chính mở rộng thị xã Hà Đông, thành lập phường thuộc thị xã Hà Đông và mở rộng thị trấn Vân Đình huyện Ứng Hòa, tỉnh Hà Tây |url=https://chinhphu.vn/default.aspx?pageid=27160&docid=12234 |url-status=dead |archive-url=https://web.archive.org/web/20260809201510/https://chinhphu.vn/default.aspx?pageid=27160&docid=12234 |archive-date=2026-08-09 |access-date=2026-08-09 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+
+Ngày 27 tháng 12 năm 2006, thành lập thành phố [[Hà Đông (quận)|Hà Đông]] trên cơ sở toàn bộ diện tích tự nhiên, dân số và các đơn vị hành chính trực thuộc của thị xã [[Hà Đông (quận)|Hà Đông]]. Khi đó, 7 phường: Hà Cầu, Nguyễn Trãi, Phúc La, Quang Trung, Vạn Phúc, Văn Mỗ, Yết Kiêu và 2 xã: Văn Khê, Yên Nghĩa thuộc thành phố [[Hà Đông (quận)|Hà Đông]].<ref name="ND155">{{Chú thích web |tựa đề=Nghị định số 155/2006/NĐ-CP ngày 27 tháng 12 năm 2006 của Chính phủ về việc thành lập thành phố Hà Đông thuộc tỉnh Hà Tây |url=https://chinhphu.vn/default.aspx?pageid=27160&docid=18995 |url-status=dead |archive-url=https://web.archive.org/web/20260804201510/https://chinhphu.vn/default.aspx?pageid=27160&docid=18995 |archive-date=2026-08-04 |access-date=2026-08-04 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+
+Ngày 1 tháng 3 năm 2008:
+
+* Thành lập phường Văn Quán và phường Mộ Lao trên cơ sở phường Văn Mỗ.
+* Thành lập phường La Khê trên cơ sở điều chỉnh 222,21 ha diện tích tự nhiên và 9.178 nhân khẩu của xã Văn Khê; 10,09 ha diện tích tự nhiên và 3.660 nhân khẩu của phường Quang Trung; 27,44 ha diện tích tự nhiên và 97 nhân khẩu của xã Yên Nghĩa.<ref>{{Chú thích web |title=Nghị định số 23/2008/NĐ-CP ngày 1 tháng 3 năm 2008 của Chính phủ về việc điều chỉnh địa giới hành chính xã, phường, để thành lập phường thuộc thành phố Hà Đông, thành phố Sơn Tây, tỉnh Hà Tây |url=https://chinhphu.vn/default.aspx?pageid=27160&docid=59294 |url-status=dead |archive-url=https://web.archive.org/web/20260809204540/https://chinhphu.vn/default.aspx?pageid=27160&docid=59294 |archive-date=2026-08-09 |access-date=2026-08-09 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+
+Ngày 29 tháng 5 năm 2008, hợp nhất tỉnh [[Hà Tây (tỉnh)|Hà Tây]] vào thành phố [[Hà Nội]]. Khi đó, 9 phường: Hà Cầu, La Khê, Mộ Lao, Nguyễn Trãi, Phúc La, Quang Trung, Vạn Phúc, Văn Quán và Yết Kiêu thuộc quận [[Hà Đông (quận)|Hà Đông]] của thành phố [[Hà Nội]].<ref>Nghị quyết số 15/2008/QH12 ngày 29 tháng 5 năm 2008 của Quốc hội khóa XII, Kỳ họp thứ 3 về việc điều chỉnh địa giới hành chính thành phố Hà Nội và một số tỉnh có liên quan.</ref>
+
+Ngày 8 tháng 5 năm 2009, thành lập quận [[Hà Đông (quận)|Hà Đông]] trên cơ sở thành phố [[Hà Đông (quận)|Hà Đông]]. Khi đó, 9 phường: Hà Cầu, La Khê, Mộ Lao, Nguyễn Trãi, Phúc La, Quang Trung, Vạn Phúc, Văn Quán và Yết Kiêu thuộc quận [[Hà Đông (quận)|Hà Đông]].<ref name="NQ19">{{Chú thích web |tác giả= |họ= |tên= |ngày= |tựa đề=Nghị quyết số 19/NQ-CP ngày 8 tháng 5 năm 2009 của Chính phủ về việc xác lập địa giới hành chính xã Đông Xuân thuộc huyện Quốc Oai; các xã Tiến Xuân, Yên Bình, Yên Trung thuộc huyện Thạch Thất; huyện Mê Linh thuộc thành phố Hà Nội; thành lập quận Hà Đông và các phường trực thuộc; chuyển thành phố Sơn Tây thành thị xã Sơn Tây thuộc thành phố Hà Nội |url=https://chinhphu.vn/default.aspx?pageid=27160&docid=86463 |url-status=dead |url lưu trữ=https://web.archive.org/web/20260804201510/https://chinhphu.vn/default.aspx?pageid=27160&docid=86463 |ngày lưu trữ=2026-08-04 |ngày truy cập=2026-08-04 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+
+Ngày 14 tháng 11 năm 2024, nhập phường Yết Kiêu và phường Nguyễn Trãi vào phường Quang Trung.<ref>{{Chú thích web |tiêu đề=Nghị quyết số 1286/NQ-UBTVQH15 ngày 14 tháng 11 năm 2024 của Ủy ban Thường vụ Quốc hội về việc sắp xếp đơn vị hành chính cấp xã của thành phố Hà Nội giai đoạn 2023 – 2025 |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/11/1286-qh.signed.pdf |url-status=dead |archive-url=https://web.archive.org/web/20241121185017/https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/11/1286-qh.signed.pdf |ngày lưu trữ=2024-11-21 |ngày truy cập=2024-11-21 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+
+Ngày 16 tháng 6 năm 2025:
+
+* Kết thúc hoạt động của đơn vị hành chính cấp huyện trong cả nước.<ref>{{Chú thích web |last= |date= |title=Nghị quyết số 203/2025/QH15 ngày 16 tháng 6 năm 2025 của Quốc hội khóa XV, Kỳ họp thứ 9 về việc sửa đổi, bổ sung một số điều của Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/nq-sua-doi-hien-phap.pdf |url-status=live |archive-url=https://web.archive.org/web/20260613090807/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/nq-sua-doi-hien-phap.pdf |archive-date=2026-06-13 |access-date=2026-06-13 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+* Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của phường Phúc La, phường Vạn Phúc, một phần diện tích tự nhiên, quy mô dân số của các phường Quang Trung (quận [[Hà Đông (quận)|Hà Đông]]), Đại Mỗ (quận [[Nam Từ Liêm]]), Hà Cầu, La Khê, Văn Quán (quận [[Hà Đông (quận)|Hà Đông]]) và xã Tân Triều (huyện [[Thanh Trì (huyện)|Thanh Trì]]), phần còn lại của phường Mộ Lao (quận [[Hà Đông (quận)|Hà Đông]]) thành phường mới có tên gọi là phường Hà Đông.<ref>{{Chú thích web |title=Nghị quyết số 1656/NQ-UBTVQH15 ngày 16 tháng 6 năm 2025 của Ủy ban Thường vụ Quốc hội về việc sắp xếp các đơn vị hành chính cấp xã của thành phố Hà Nội năm 2025 |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf |url-status=live |archive-url=https://web.archive.org/web/20260630400809/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf |archive-date=2026-06-30 |access-date=2026-06-30 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+* Sau khi sắp xếp, phường Hà Đông được chia thành 115 tổ dân phố.<ref>19 tổ dân phố: 1, 2, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20 và Yên Phúc của phường Phúc La cũ; 12 tổ dân phố: 6, 7, 8, 9, 10, Bạch Đằng, Chiến Thắng, Đoàn Kết, Độc Lập, Hạnh Phúc, Hồng Phong và Quyết Tiến của phường Vạn Phúc cũ; 32 tổ dân phố: 1, 2, 3, 4, 6, 7, 8, 9, 10, 11, 13, 14 (trước thuộc phường Nguyễn Trãi), 1, 2, 3, 4, 5, 6, 7 (trước thuộc phường Yết Kiêu), 2, 3, 4, 7, 8, 9, 10, 11, 12, 13, 14, 15 và 16 của phường Quang Trung cũ; 15 tổ dân phố: 1, 2, 3, 4, 5 Ngô Thì Nhậm, 1 Tô Hiệu, Cầu Đơ 1, 3, 4, 5, Hà Trì 1, 2, 3, 4 và 5 của phường Hà Cầu cũ; 11 tổ dân phố: 1, 2, 3, 4, 5, 6, 9, 10, Văn Khê 1, 2 và 3 của phường La Khê cũ; 9 tổ dân phố: 1, 2, 3, 4, 5, 6, 7, 8 và 9 của phường Văn Quán cũ; 2 tổ dân phố: 5, 6 và một phần tổ dân phố 2 của xã Tân Triều cũ; 15 tổ dân phố: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 13, 14, 15 và 16 của phường Mộ Lao cũ.</ref><ref>{{Chú thích web |title=Thông tư số 10/2022/TT-BTNMT ngày 29 tháng 9 năm 2022 của Bộ Tài nguyên và Môi trường về việc Ban hành Danh mục địa danh dân cư, sơn văn, thủy văn, kinh tế – xã hội phục vụ công tác thành lập bản đồ thành phố Hà Nội|url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2022/10/10-btnmt.pdf|url-status=live|archive-url=https://web.archive.org/web/20260630400809/https://datafiles.chinhphu.vn/cpp/files/vbpq/2022/10/10-btnmt.pdf|archive-date=2026-06-30|access-date=2026-06-30|website=Cổng Thông tin điện tử Chính phủ}}</ref><ref>{{Chú thích web |last=|date=|title=Thông báo số 108/TB-UBND ngày 6 tháng 3 năm 2026 của Ủy ban nhân dân phường Hà Đông về ngày bầu cử, thời gian bỏ phiếu, địa điểm bỏ phiếu bầu cử đại biểu Quốc hội khóa XVI và đại biểu Hội đồng nhân dân các cấp nhiệm kỳ 2026 – 2031 trên địa bàn phường Hà Đông|url=https://web.facebook.com/story.php?story_fbid=1579318797528144&id=100063501162709&rdid=MsVTeZD9oO2sKrqi#|url-status=dead|archive-url=https://web.archive.org/web/20260810201510/https://web.facebook.com/story.php?story_fbid=1579318797528144&id=100063501162709&rdid=MsVTeZD9oO2sKrqi#|archive-date=2026-08-10|access-date=2026-08-10|website=Ban Xây dựng Đảng phường Hà Đông – thành phố Hà Nội}}</ref>
+Ngày 8 tháng 10 năm 2025, đổi tên 89 tổ dân phố trùng tên; đổi tên tổ dân phố 6 (xã Tân Triều cũ) thành tổ dân phố 6; ghép khu dân cư tổ dân phố 2 xã Tân Triều cũ vào tổ dân phố 5 Tân Triều.<ref>1. Đổi tên 89 tổ dân phố, do trùng tên sau khi sắp xếp đơn vị hành chính phường Hà Đông; 2. đổi tên Tổ dân phố 6 (Tân Triều), phường Hà Đông thành Tổ dân phố 6, phường Hà Đông; 3. Ghép khu dân cư tổ dân phố 2 xã Tân Triều cũ vào tổ dân phố 5 Tân Triều, phường Hà Đông.</ref><ref>{{Chú thích web |last=Minh Thúy|date=2025-10-08|title=Phường Hà Đông thông qua chỉ tiêu biên chế tạm giao với cơ quan, đơn vị|url=https://hanoimoi.vn/phuong-ha-dong-thong-qua-chi-tieu-bien-che-tam-giao-voi-co-quan-don-vi-718849.html?gidzl=--Kk9_a8SZV_-YeXyn1mDlxuA2_a4IKtvwik8ECLScMphtqWiX0cDRJrV2Ap4I0pllv_AZaqt6aX_0bsDG|url-status=dead|archive-url=https://web.archive.org/web/20260810201510/https://hanoimoi.vn/phuong-ha-dong-thong-qua-chi-tieu-bien-che-tam-giao-voi-co-quan-don-vi-718849.html?gidzl=--Kk9_a8SZV_-YeXyn1mDlxuA2_a4IKtvwik8ECLScMphtqWiX0cDRJrV2Ap4I0pllv_AZaqt6aX_0bsDG|archive-date=2026-08-10|access-date=2026-08-10|website=Cơ quan Báo và Phát thanh, truyền hình Hà Nội}}</ref>
+
+Ngày 24 tháng 12 năm 2025, xác định phần lớn của phường Hà Đông là [[Đô thị Việt Nam|đô thị loại II]].<ref>Chuyển tiếp từ 7 phường: Hà Cầu, La Khê, Mộ Lao, Phúc La, Quang Trung, Vạn Phúc, Văn Quán thuộc quận Hà Đông và phường Đại Mỗ thuộc quận Nam Từ Liêm.</ref><ref>{{Chú thích web |title=Nghị quyết số 111/2025/UBTVQH15 ngày 24 tháng 12 năm 2025 của Ủy ban Thường vụ Quốc hội về phân loại đô thị |url=https://cdn.nhandan.vn/files/f4a4abf7f9a0ba4a91744616546d850872b76917f90d5a74cc9eebef1369fb6f/111.pdf |url-status=dead |archive-url=https://web.archive.org/web/20260712401509/https://cdn.nhandan.vn/files/f4a4abf7f9a0ba4a91744616546d850872b76917f90d5a74cc9eebef1369fb6f/111.pdf |archive-date=2026-07-12 |access-date=2026-07-12 |website=Báo Nhân dân}}</ref>
+
+Ngày 26 tháng 6 năm 2026, thành lập 49 tổ dân phố mới: 7 Văn Quán, từ 1 đến 5 Nguyễn Trãi, Yên Phúc, từ 1 đến 10, 12 Phúc La, 2, 3 Yết Kiêu, từ 1 đến 5 Vạn Phúc, từ 1 đến 6 Quang Trung, từ 1 đến 5, 8, 9 Mộ Lao, từ 1 đến 7 Hà Cầu, 2, 5 La Khê, Văn Khê 2 và 3.<ref name=":1">I. Khu vực Văn Quán: 1. Tổ dân phố 1 Văn Quán (mới): Thành lập trên cơ sở tổ dân phố 1 Văn Quán; 2. Tổ dân phố 2 Văn Quán (mới): Thành lập trên cơ sở tổ dân phố 2 Văn Quán; 3. Tổ dân phố 3 Văn Quán (mới): Thành lập trên cơ sở tổ dân phố 3 Văn Quán; 4. Tổ dân phố 4 Văn Quán (mới): Thành lập trên cơ sở tổ dân phố 4 Văn Quán; 5. Tổ dân phố 5 Văn Quán (mới): Thành lập trên cơ sở tổ dân phố 5 Văn Quán; 6. Tổ dân phố 6 Văn Quán (mới): Thành lập trên cơ sở tổ dân phố 6 Văn Quán; 7. Tổ dân phố 1 Văn Quán (mới): Thành lập trên cơ sở tổ dân phố 7 Văn Quán, tổ dân phố 8 Văn Quán, tổ dân phố 9 Văn Quán; II. Khu vực Nguyễn Trãi: 1. Tổ dân phố 1 Nguyễn Trãi (mới): Thành lập trên cơ sở tổ dân phố 1 Nguyễn Trãi, tổ dân phố 11 Nguyễn Trãi; 2. Tổ dân phố 2 Nguyễn Trãi (mới): Thành lập trên cơ sở tổ dân phố 2 Nguyễn Trãi, tổ dân phố 6 Nguyễn Trãi, tổ dân phố 7 Nguyễn Trãi, cộng 20 hộ từ tổ dân phố 4 Nguyễn Trãi (khu vực số 1 – 14 Lê Hồng Phong); 3. Tổ dân phố 3 Nguyễn Trãi (mới): Thành lập trên cơ sở tổ dân phố 3 Nguyễn Trãi, tổ dân phố 4 Nguyễn Trãi; 4. Tổ dân phố 4 Nguyễn Trãi (mới): Thành lập trên cơ sở tổ dân phố 9 Nguyễn Trãi, tổ dân phố 10 Nguyễn Trãi, cộng 15 hộ từ tổ dân phố 1 Nguyễn Trãi (mới); 5. Tổ dân phố 5 Nguyễn Trãi (mới): Thành lập trên cơ sở tổ dân phố 8 Nguyễn Trãi, tổ dân phố 14 Nguyễn Trãi; III. Khu vực Phúc La, Tân Triều: 1. Tổ dân phố Yên Phúc (mới): Thành lập trên cơ sở tổ dân phố Yên Phúc, trừ 100 hộ sang tổ dân phố 1 Phúc La (mới); 2. Tổ dân phố 1 Phúc La (mới): Thành lập trên cơ sở tổ dân phố 1 Phúc La, tổ dân phố 2 Phúc La, cộng 100 hộ tổ dân phố Yên Phúc; 3. Tổ dân phố 2 Phúc La (mới): Thành lập trên cơ sở tổ dân phố 14 Phúc La, tổ dân phố 15 Phúc La, tổ dân phố 16 Phúc La; 4. Tổ dân phố 3 Phúc La (mới): Thành lập trên cơ sở tổ dân phố 5 Tân Triều, tổ dân phố 6; 5. Tổ dân phố 4 Phúc La (mới) Thành lập trên cơ sở tổ dân phố 12 Phúc La, cộng 350 hộ của tổ dân phố 5 Tân Triều (Chung cư Viên Bông, toàn bộ khu nhà liền kề và mặt đường 70); 6. Tổ dân phố 5 Phúc La (mới): Thành lập trên cơ sở tổ dân phố 5 Phúc La, tổ dân phố 13 Phúc La, cộng 160 hộ tổ dân phố 6 Phúc La (cũ); 7. Tổ dân phố 6 Phúc La (mới): Thành lập trên cơ sở tổ dân phố 6 Phúc La, tổ dân phố 7 Phúc La, tổ dân phố 8 Phúc La, tổ dân phố 9 Phúc La; 8. Tổ dân phố 7 Phúc La (mới): Thành lập trên cơ sở tổ dân phố 19 Phúc La, cộng 100 hộ khu tập thể Tỉnh đội; 9. Tổ dân phố 8 Phúc La (mới): Thành lập trên cơ sở tổ dân phố 20 Phúc La; 10. Tổ dân phố 9 Phúc La (mới): Thành lập trên cơ sở tổ dân phố 18 Phúc La, trừ 120 hộ thuộc tổ dân phố 18 Phúc La (cũ) sang tổ dân phố 10 Phúc La (mới); 11. Tổ dân phố 10 Phúc La (mới): Thành lập trên cơ sở tổ dân phố 10 Phúc La, cộng 120 hộ thuộc tổ dân phố 18 Phúc La (cũ); 12. Tổ dân phố 11 Phúc La (mới): Thành lập trên cơ sở tổ dân phố 11 Phúc La; 13. Tổ dân phố 12 Phúc La (mới): Thành lập trên cơ sở tổ dân phố 17 Phúc La; IV. Khu vực Yết Kiêu: 1. Tổ dân phố 1 Yết Kiêu (mới): Thành lập trên cơ sở tổ dân phố 1 Yết Kiêu; 2. Tổ dân phố 2 Yết Kiêu (mới): Thành lập trên cơ sở tổ dân phố 2 Yết Kiêu, tổ dân phố 3 Yết Kiêu, một phần tổ dân phố 1 Quang Trung (Trụ sở Công an, Trung tâm Thương mại 80 Quang Trung, Phi Đoan); 3. Tổ dân phố 3 Yết Kiêu (mới): Thành lập trên cơ sở tổ dân phố 4 Yết Kiêu, tổ dân phố 5 Yết Kiêu, tổ dân phố 6 Yết Kiêu, tổ dân phố 7 Yết Kiêu; V. Khu vực Vạn Phúc: 1. Tổ dân phố 1 Vạn Phúc (mới): Thành lập trên cơ sở tổ dân phố 9 Vạn Phúc, tổ dân phố Độc Lập, tổ dân phố Đoàn Kết, một phần tổ dân phố Quyết Tiến; 2. Tổ dân phố 2 Vạn Phúc (mới): Thành lập trên cơ sở tổ dân phố Chiến Thắng, một phần tổ dân phố Quyết Tiến, một phần tổ dân phố Độc Lập; 3. Tổ dân phố 3 Vạn Phúc (mới): Thành lập trên cơ sở tổ dân phố Hạnh Phúc, tổ dân phố Bạch Đằng, tổ dân phố Hồng Phong; 4. Tổ dân phố 4 Vạn Phúc (mới): Thành lập trên cơ sở tổ dân phố 8 Vạn Phúc, tổ dân phố 10 Vạn Phúc; 5. Tổ dân phố 5 Vạn Phúc (mới): Thành lập trên cơ sở tổ dân phố 7 Vạn Phúc, một phần tổ dân phố 6 Vạn Phúc; VI. Khu vực Quang Trung: 1. Tổ dân phố 1 Quang Trung (mới): Thành lập trên cơ sở tổ dân phố 12 Quang Trung, tổ dân phố 13 Quang Trung, một phần tổ dân phố 6 Vạn Phúc (209 hộ Nhà máy Giấy); 2. Tổ dân phố 2 Quang Trung (mới): Thành lập trên cơ sở tổ dân phố 2 Quang Trung, tổ dân phố 3 Quang Trung, cộng một phần tổ dân phố 7 Quang Trung, cộng một phần tổ dân phố 4 Quang Trung, cộng một phần tổ dân phố 5 Ngô Thì Nhậm; 3. Tổ dân phố 3 Quang Trung (mới): Thành lập trên cơ sở tổ dân phố 14 Quang Trung, tổ dân phố 15 Quang Trung, tổ dân phố 16 Quang Trung; 4. Tổ dân phố 4 Quang Trung (mới): Thành lập trên cơ sở tổ dân phố 4 Quang Trung, tổ dân phố 5 Ngô Thì Nhậm, cộng một phần tổ dân phố 8 Quang Trung (Khu tập thể Sở Xây dựng), cộng một phần tổ dân phố 3 Quang Trung (đoạn từ số nhà 82 đến số nhà 168 Quang Trung), cộng các hộ dãy số lẻ phố Bế Văn Đàn đoạn từ đường Nguyễn Viết Xuân ra đến số 168 Quang Trung, cộng 120 hộ đoạn từ số nhà 174 Quang Trung đến đường Ngô Thì Nhậm (bao gồm Khu tập thể Sở Công nghiệp cũ và phố Thành Công); 5. Tổ dân phố 5 Quang Trung (mới): Thành lập trên cơ sở tổ dân phố 8 Quang Trung, tổ dân phố 13 Nguyễn Trãi, tổ dân phố 9 Quang Trung, Trụ sở phường, cộng một phần tổ dân phố Cầu Đơ 5 (từ ngõ chợ Liên hiệp thực phẩm đến ngõ 10 đường Lê Hồng Phong); 6. Tổ dân phố 6 Quang Trung (mới): Thành lập trên cơ sở tổ dân phố 10 Quang Trung, tổ dân phố 11 Quang Trung, cộng 110 hộ tổ dân phố 1 Ngô Thì Nhậm (cũ); VII. Khu vực Mộ Lao: 1. Tổ dân phố 1 Mộ Lao (mới): Thành lập trên cơ sở tổ dân phố 1 Mộ Lao, tổ dân phố 2 Mộ Lao, tổ dân phố 13 Mộ Lao; 2. Tổ dân phố 2 Mộ Lao (mới): Thành lập trên cơ sở tổ dân phố 14 Mộ Lao, tổ dân phố 15 Mộ Lao; 3. Tổ dân phố 3 Mộ Lao (mới): Thành lập trên cơ sở tổ dân phố 3 Mộ Lao, tổ dân phố 4 Mộ Lao, tổ dân phố 5 Mộ Lao; 4. Tổ dân phố 4 Mộ Lao (mới): Thành lập trên cơ sở tổ dân phố 10 Mộ Lao, tổ dân phố 11 Mộ Lao; 5. Tổ dân phố 5 Mộ Lao (mới): Thành lập trên cơ sở tổ dân phố 16 Mộ Lao; 6. Tổ dân phố 6 Mộ Lao (mới): Thành lập trên cơ sở tổ dân phố 6 Mộ Lao; 7. Tổ dân phố 7 Mộ Lao (mới): Thành lập trên cơ sở tổ dân phố 7 Mộ Lao; 8. Tổ dân phố 8 Mộ Lao (mới): Thành lập trên cơ sở tổ dân phố 8 Mộ Lao, cộng thêm một số hộ tổ dân phố 10 Mộ Lao từ số nhà 3 đến 123 đường Thanh Bình; 9. Tổ dân phố 9 Mộ Lao (mới): Thành lập trên cơ sở tổ dân phố 9 Mộ Lao, cộng thêm một số hộ tổ dân phố 10 Mộ Lao từ số nhà 125 đến 199 đường Thanh Bình; VIII. Khu vực Hà Cầu: 1. Tổ dân phố 1 Hà Cầu (mới): Thành lập trên cơ sở tổ dân phố Cầu Đơ 1, tổ dân phố Cầu Đơ 3, tổ dân phố Cầu Đơ 4, cộng 70 hộ tổ dân phố 3 Quang Trung (cũ), cộng 40 hộ tổ dân phố 3 Nguyễn Trãi (cũ) (từ số 2 đến số 6 Lê Lợi, khu vực phố Hoàng Hoa Thám), cộng 47 hộ tổ dân phố 3 Nguyễn Trãi (cũ) (từ số 8 đến số 70 Lê Lợi), cộng 50 hộ tổ dân phố 4 Nguyễn Trãi (cũ) (từ số 72 Lê Lợi đến số 28 Lê Hồng Phong), cộng Khu đất Dịch vụ Bồ Hòa (tổ dân phố Cầu Đơ 5 cũ); 2. Tổ dân phố 2 Hà Cầu (mới): Thành lập trên cơ sở toàn bộ chung cư Hyundai, Villa 1 (Cầu Đơ 5), Villa 2 (Hà Trì 5), cộng Khu đất Dịch vụ Hà Trì 5 (NO-01 đến NO-09), cộng từ ngõ 1 Hà Trì 5 đến ngõ 11 Hà Trì 5 và khu vực mặt đường Tô Hiệu; 3. Tổ dân phố 3 Hà Cầu (mới) Thành lập trên cơ sở tổ dân phố 1 Tô Hiệu, chung cư Phú Thịnh; 4. Tổ dân phố 4 Hà Cầu (mới): Thành lập trên cơ sở khu đất Dịch vụ Hà Trì 5 (NO-10 đến NO-17), khu B Tỉnh Đội, chung cư Cảnh sát Biển, cộng 100 hộ tổ dân phố Hà Trì 1 (NO-18 đến NO-22), cộng các hộ khu đất Dịch vụ Hà Trì 4 (NO-34 đến NO-36), nghĩa trang, sân bóng, cộng 60 hộ đất Dịch vụ tổ dân phố Hà Trì 2 (NO-27 đến NO-33); 5. Tổ dân phố 5 Hà Cầu (mới): Thành lập trên cơ sở tổ dân phố Hà Trì 1, trừ 100 hộ khu đất Dịch vụ cổng làng Hà Trì chuyển về tổ dân phố 4 Hà Cầu (mới); 6. Tổ dân phố 6 Hà Cầu (mới): Thành lập trên cơ sở tổ dân phố Hà Trì 2, tổ dân phố Hà Trì 3, tổ dân phố Hà Trì 4; 7. Tổ dân phố 7 Hà Cầu (mới): Thành lập trên cơ sở tổ dân phố 1 Ngô Thì Nhậm, tổ dân phố 2 Ngô Thì Nhậm, tổ dân phố 3 Ngô Thì Nhậm, tổ dân phố 4 Ngô Thì Nhậm, cộng 120 hộ từ tổ dân phố 7 Quang Trung, cộng 100 hộ từ tổ dân phố 2 La Khê; IX. Khu vực La Khê: 1. Tổ dân phố 1 La Khê: Thành lập trên cơ sở tổ dân phố 1 La Khê; 2. Tổ dân phố 2 La Khê: Thành lập trên cơ sở tổ dân phố 2 La Khê, trừ 100 hộ tổ dân phố 2 La Khê chuyển về tổ dân phố 7 Hà Cầu (mới); 3. Tổ dân phố 3 La Khê: Thành lập trên cơ sở tổ dân phố 3 La Khê; 4. Tổ dân phố 4 La Khê: Thành lập trên cơ sở tổ dân phố 4 La Khê; 5. Tổ dân phố 5 La Khê: Thành lập trên cơ sở tổ dân phố 5 La Khê, cộng Tòa The Charm thuộc tổ dân phố Văn Khê 2, cộng 52 hộ dãy liền kề 16 Khu đô thị An Hưng; 6. Tổ dân phố 6 La Khê: Thành lập trên cơ sở tổ dân phố 6 La Khê; 7. Tổ dân phố 9 La Khê: Thành lập trên cơ sở tổ dân phố 9 La Khê; 8. Tổ dân phố Văn Khê 2: Thành lập trên cơ sở tổ dân phố 10 La Khê, tổ dân phố Văn Khê 2; 10. Tổ dân phố Văn Khê 3: Thành lập trên cơ sở tổ dân phố Văn Khê 3, cộng khu đất dịch vụ thuộc tổ dân phố 10 Vạn Phúc.</ref><ref name=":0">{{Chú thích web |last=Ban Xây dựng Đảng phường Hà Đông – thành phố Hà Nội |date=2026-06-15 |title=Phương án sắp xếp, tổ chức lại tổ dân phố khu vực Văn Quán và Nguyễn Trãi – phường Hà Đông |url=https://web.facebook.com/story.php?story_fbid=1674007551392601&id=100063501162709&rdid=I2hb75pFKaq6hP7j# |url-status=dead |archive-url=https://web.archive.org/web/20260810201510/https://web.facebook.com/story.php?story_fbid=1674007551392601&id=100063501162709&rdid=I2hb75pFKaq6hP7j# |archive-date=2026-08-10 |access-date=2026-08-10 |website=}}</ref><ref name=":3">{{Chú thích web |last=Ban Xây dựng Đảng phường Hà Đông – thành phố Hà Nội |date=2026-06-16 |title=Phương án sắp xếp tổ dân phố khu vực Phúc La, Tân Triều và Yết Kiêu |url=https://web.facebook.com/story.php?story_fbid=1674646754662014&id=100063501162709&rdid=NOXdhXeCZEuy6RUb# |url-status=dead |archive-url=https://web.archive.org/web/20260810201510/https://web.facebook.com/story.php?story_fbid=1674646754662014&id=100063501162709&rdid=NOXdhXeCZEuy6RUb# |archive-date=2026-08-10 |access-date=2026-08-10}}</ref><ref name=":4">{{Chú thích web |last=Ban Xây dựng Đảng phường Hà Đông – thành phố Hà Nội |date=2026-06-16 |title=Phương án sắp xếp tổ dân phố tại khu vực Vạn Phúc và Quang Trung – phường Hà Đông |url=https://web.facebook.com/story.php?story_fbid=1675220554604634&id=100063501162709&rdid=TbGCkao2xoA0TZba# |url-status=dead |archive-url=https://web.archive.org/web/20260810201510/https://web.facebook.com/story.php?story_fbid=1675220554604634&id=100063501162709&rdid=TbGCkao2xoA0TZba# |archive-date=2026-08-10 |access-date=2026-08-10}}</ref><ref name=":5">{{Chú thích web |last=Ban Xây dựng Đảng phường Hà Đông – thành phố Hà Nội |date=2026-06-17 |title=Phương án sắp xếp tổ dân phố tại các khu vực Mộ Lao, Hà Cầu và La Khê – phường Hà Đông |url=https://web.facebook.com/story.php?story_fbid=1675688657891157&id=100063501162709&rdid=eXe28B7gnex1NJtU# |url-status=dead |archive-url=https://web.archive.org/web/20260810201510/https://web.facebook.com/story.php?story_fbid=1675688657891157&id=100063501162709&rdid=eXe28B7gnex1NJtU# |archive-date=2026-08-10 |access-date=2026-08-10}}</ref><ref name=":2">{{Chú thích web |last=Nguyễn Lợi – Nam Duy |date=2026-06-20 |title=Phường Hà Đông công bố Nghị quyết của Hội đồng nhân dân phường về việc sắp xếp, tổ chức lại các tổ dân phố trên địa bàn |url=https://hadong.hanoi.gov.vn/dang-doan-the/phuong-ha-dong-cong-bo-nghi-quyet-cua-hdnd-phuong-ve-viec-sap-xep-to-chuc-lai-cac-to-dan-pho-tren-dia-ban-2809260701103914527.htm |url-status=dead |archive-url=https://web.archive.org/web/20260810201510/https://hadong.hanoi.gov.vn/dang-doan-the/phuong-ha-dong-cong-bo-nghi-quyet-cua-hdnd-phuong-ve-viec-sap-xep-to-chuc-lai-cac-to-dan-pho-tren-dia-ban-2809260701103914527.htm |archive-date=2026-08-10 |access-date=2026-08-10 |website=Trang Thông tin điện tử phường Hà Đông – thành phố Hà Nội}}</ref>
+
+== Hành chính ==
+Phường Hà Đông được chia thành 65 tổ dân phố: từ 1 đến 7 Hà Cầu, từ 1 đến 6, 9 La Khê, từ 1 đến 9 Mộ Lao, từ 1 đến 5 Nguyễn Trãi, từ 1 đến 12 Phúc La, từ 1 đến 6 Quang Trung, từ 1 đến 5 Vạn Phúc, từ 1 đến 7 Văn Quán, từ 1 đến 3 Yết Kiêu, Văn Khê từ 1 đến 3 và Yên Phúc.<ref name=":0" /><ref name=":3" /><ref name=":4" /><ref name=":5" /><ref name=":2" />
+{| class="wikitable sortable" cellpadding="0" cellspacing="6" width="100%" align="center" style="background: #f9f9f9; border: 1px #aaa solid; margin-top: 16px"
+! colspan="4" style="background: #E6E6FA; font-size: 95%;" |Danh sách các tổ dân phố thuộc phường Hà Đông<ref name=":0" /><ref name=":3" /><ref name=":4" /><ref name=":5" /><ref name=":2" />
+|-
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| cellpadding="1" cellspacing="1" width="100%" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |1 Hà Cầu
+|1.599
+|-
+| align="left" |2 Hà Cầu
+|1.011
+|-
+| align="left" |3 Hà Cầu
+|1.070
+|-
+| align="left" |4 Hà Cầu
+|862
+|-
+| align="left" |5 Hà Cầu
+|802
+|-
+| align="left" |6 Hà Cầu
+|1.399
+|-
+| align="left" |7 Hà Cầu
+|1.362
+|-
+| align="left" |1 La Khê
+|855
+|-
+| align="left" |2 La Khê
+|1.053
+|-
+| align="left" |3 La Khê
+|1.062
+|-
+| align="left" |4 La Khê
+|1.268
+|-
+| align="left" |5 La Khê
+|886
+|-
+| align="left" |6 La Khê
+|1.080
+|-
+| align="left" |9 La Khê
+|1.123
+|-
+| align="left" |1 Mộ Lao
+|1.234
+|-
+| align="left" |2 Mộ Lao
+|1.205
+|-
+| align="left" |3 Mộ Lao
+|1.262
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| cellpadding="1" cellspacing="1" width="100%" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |4 Mộ Lao
+|1.236
+|-
+| align="left" |5 Mộ Lao
+|973
+|-
+| align="left" |6 Mộ Lao
+|709
+|-
+| align="left" |7 Mộ Lao
+|1.172
+|-
+| align="left" |8 Mộ Lao
+|1.265
+|-
+| align="left" |9 Mộ Lao
+|837
+|-
+| align="left" |1 Nguyễn Trãi
+|1.097
+|-
+| align="left" |2 Nguyễn Trãi
+|908
+|-
+| align="left" |3 Nguyễn Trãi
+|703
+|-
+| align="left" |4 Nguyễn Trãi
+|708
+|-
+| align="left" |5 Nguyễn Trãi
+|825
+|-
+| align="left" |1 Phúc La
+|1.054
+|-
+| align="left" |2 Phúc La
+|1.316
+|-
+| align="left" |3 Phúc La
+|1.142
+|-
+| align="left" |4 Phúc La
+|873
+|-
+| align="left" |5 Phúc La
+|1.012
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| cellpadding="1" cellspacing="1" width="100%" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |6 Phúc La
+|1.132
+|-
+| align="left" |7 Phúc La
+|976
+|-
+| align="left" |8 Phúc La
+|1.284
+|-
+| align="left" |9 Phúc La
+|1.134
+|-
+| align="left" |10 Phúc La
+|787
+|-
+| align="left" |11 Phúc La
+|777
+|-
+| align="left" |12 Phúc La
+|879
+|-
+| align="left" |1 Quang Trung
+|837
+|-
+| align="left" |2 Quang Trung
+|830
+|-
+| align="left" |3 Quang Trung
+|798
+|-
+| align="left" |4 Quang Trung
+|1.119
+|-
+| align="left" |5 Quang Trung
+|759
+|-
+| align="left" |6 Quang Trung
+|1.224
+|-
+| align="left" |1 Vạn Phúc
+|1.015
+|-
+| align="left" |2 Vạn Phúc
+|1.006
+|-
+| align="left" |3 Vạn Phúc
+|1.474
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| cellpadding="1" cellspacing="1" width="100%" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |4 Vạn Phúc
+|1.028
+|-
+| align="left" |5 Vạn Phúc
+|908
+|-
+| align="left" |1 Văn Quán
+|956
+|-
+| align="left" |2 Văn Quán
+|886
+|-
+| align="left" |3 Văn Quán
+|1.092
+|-
+| align="left" |4 Văn Quán
+|1.012
+|-
+| align="left" |5 Văn Quán
+|710
+|-
+| align="left" |6 Văn Quán
+|976
+|-
+| align="left" |7 Văn Quán
+|1.358
+|-
+| align="left" |1 Yết Kiêu
+|812
+|-
+| align="left" |2 Yết Kiêu
+|980
+|-
+| align="left" |3 Yết Kiêu
+|1.622
+|-
+| align="left" |Văn Khê 1
+|1.072
+|-
+| align="left" |Văn Khê 2
+|1.756
+|-
+| align="left" |Văn Khê 3
+|845
+|-
+| align="left" |Yên Phúc
+|976
+|}
+|}<!-- === Lịch sử=== Theo cuốn lịch sử Đảng bộ phường Hà Cầu (giai đoạn 1930 - 2010), năm 1896 người Pháp ra Nghị định đặt trụ sở tỉnh Hà Nội tại Cầu Đơ, tên làng Cầu Đơ cũng được đặt làm tên tỉnh trong khoảng thời gian từ tháng 5/1902 đến 12/1904. Cầu Đơ là nơi đất lành chim đậu, dân cư ở các nơi tụ tập về ở ngày một đông và có nhiều người giàu có. Cũng vào đầu thế kỷ XX, Hà Trì là một trong số ít làng của tỉnh Hà Đông được chính quyền đương thời công nhận là làng “mỹ tục khả gia” (phong tục tốt đẹp), nhân dân có cuộc sống hòa thuận, ấm no, hạnh phúc. Như vậy, quá trình hình thành và phát triển từ làng đến xã và nay là phường, Hà Trì và Cầu Đơ vốn có quan hệ gắn bó với đặc trưng nổi bật là nơi đặt đô thị tỉnh lỵ Hà Đông. Trải qua quá trình xây dựng và phát triển, nhân dân địa phương đã xây dựng các công trình kiến trúc văn hóa lịch sử như đình, chùa, miếu...là nơi sinh hoạt văn hóa làng xã và góp phần hình thành nên phong tục tập quán truyền thống của quê hương Hà Cầu. == Lịch sử== Dưới thời [[nhà Nguyễn]], Văn Quán vốn là một làng thuộc tổng Thanh Oai Thượng, huyện [[Thanh Oai (huyện)| Thanh Oai]], phủ Ứng Thiên, trấn [[Sơn Nam Thượng]]. Sau năm 1945, làng Văn Quán cùng với các làng Mộ Lao, Cầu Đơ, Hà Trì được sáp nhập vào thị xã Hà Đông. Lúc này, Văn Quán trở thành một thôn ngoại thị của thị xã. Năm [[1965]], thôn Văn Quán sáp nhập với 3 thôn Mỗ Lao (Mộ Lao), Yên Phúc và Xa La để thành lập xã Văn Yên thuộc thị xã Hà Đông. Ngày [[23 tháng 6]] năm [[1994]], Chính phủ ban hành Nghị định 52-CP<ref>{{Chú thích web| url = https://thuvienphapluat.vn/van-ban/Bat-dong-san/Nghi-dinh-52-CP-dieu-chinh-dia-gioi-huyen-va-lap-thi-tran-phuong-thuoc-huyen-Hoai-Duc-Chuong-My-Thach-That-Thanh-Oai-thi-xa-Ha-Dong-tinh-Ha-Tay-38810.aspx| tựa đề = Nghị định 52-CP năm 1994 về việc điều chỉnh địa giới huyện và thành lập thị trấn, phường thuộc các huyện Hoài Đức, Chương Mỹ, Thạch Thất, Thanh Oai, thị xã Hà Đông, tỉnh Hà Tây| tác giả = | họ = | tên = | ngày = | website = | url lưu trữ = | ngày lưu trữ = | ngày truy cập = }}</ref>. Theo đó, giải thể xã Văn Yên để thành lập hai phường Văn Mỗ và Phúc La. Phường Văn Mỗ gồm có các thôn Văn Quán, Mỗ Lao thuộc xã Văn Yên cũ và phố Trần Phú của phường Yết Kiêu với 266,96 ha diện tích tự nhiên và 13.703 người. Ngày [[27 tháng 12]] năm [[2006]], phường Văn Mỗ thuộc thành phố Hà Đông mới thành lập. Ngày [[1 tháng 3]] năm [[2008]], Chính phủ ban hành Nghị định 23/2008/NĐ-CP<ref name = "23/2008/NĐ-CP">{{Chú thích web| url = https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/Nghi-dinh-23-2008-ND-CP-dieu-chinh-dia-gioi-hanh-chinh-xa-phuong-de-thanh-lap-phuong-thuoc-thanh-pho-Ha-Dong-Son-Tay-tinh-Ha-Tay-63236.aspx| tựa đề = Nghị định số 23/2008/NĐ-CP về việc điều chỉnh địa giới hành chính xã, phường, để thành lập phường thuộc thành phố Hà Đông, thành phố Sơn Tây, tỉnh Hà Tây| tác giả = | họ = | tên = | ngày = | website = | url lưu trữ = | ngày lưu trữ = | ngày truy cập = }}</ref>. Theo đó, chia phường Văn Mỗ thành hai phường Văn Quán và Mộ Lao. Phường Văn Quán có 139,6 ha diện tích tự nhiên, dân số là 12.547 người. Ngày [[8 tháng 5]] năm [[2009]], quận Hà Đông được thành lập trên cơ sở toàn bộ diện tích và dân số của thành phố Hà Đông, phường Văn Quán thuộc quận Hà Đông cho đến nay. == Lịch sử== Dưới thời [[nhà Nguyễn]], Mộ Lao (Mỗ Lao) vốn là một làng thuộc tổng Thiên Mỗ, huyện [[Từ Liêm]], phủ Quốc Oai, trấn [[Sơn Tây trấn| Sơn Tây]]. Đến năm 1831, huyện Từ Liêm chuyển về thuộc phủ Hoài Đức, tỉnh [[Hà Nội (tỉnh)| Hà Nội]]. Sau năm 1945, làng Mộ Lao cùng với các làng Văn Quán, Cầu Đơ, Hà Trì được sáp nhập vào thị xã Hà Đông. Lúc này, Mộ Lao trở thành một thôn ngoại thị của thị xã. Năm 1965, thôn Mộ Lao sáp nhập với 3 thôn Văn Quán, Yên Phúc, Xa La để thành lập xã Văn Yên thuộc thị xã Hà Đông. Ngày [[23 tháng 6]] năm [[1994]], Chính phủ ban hành Nghị định 52-CP<ref>{{Chú thích web| url = https://thuvienphapluat.vn/van-ban/Bat-dong-san/Nghi-dinh-52-CP-dieu-chinh-dia-gioi-huyen-va-lap-thi-tran-phuong-thuoc-huyen-Hoai-Duc-Chuong-My-Thach-That-Thanh-Oai-thi-xa-Ha-Dong-tinh-Ha-Tay-38810.aspx| tựa đề = Nghị định 52-CP năm 1994 về việc điều chỉnh địa giới huyện và thành lập thị trấn, phường thuộc các huyện Hoài Đức, Chương Mỹ, Thạch Thất, Thanh Oai, thị xã Hà Đông, tỉnh Hà Tây| tác giả = | họ = | tên = | ngày = | website = | url lưu trữ = | ngày lưu trữ = | ngày truy cập = }}</ref>. Theo đó, giải thể xã Văn Yên để thành lập hai phường Văn Mỗ và Phúc La. Phường Văn Mỗ gồm có các thôn Văn Quán, Mỗ Lao thuộc xã Văn Yên cũ và phố Trần Phú của phường Yết Kiêu với 266,96 ha diện tích tự nhiên và 13.703 người. Ngày [[27 tháng 12]] năm [[2006]], phường Văn Mỗ thuộc thành phố Hà Đông mới thành lập. Ngày [[1 tháng 3]] năm [[2008]], Chính phủ ban hành Nghị định 23/2008/NĐ-CP<ref name = "23/2008/NĐ-CP">{{Chú thích web| url = https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/Nghi-dinh-23-2008-ND-CP-dieu-chinh-dia-gioi-hanh-chinh-xa-phuong-de-thanh-lap-phuong-thuoc-thanh-pho-Ha-Dong-Son-Tay-tinh-Ha-Tay-63236.aspx| tựa đề = Nghị định số 23/2008/NĐ-CP về việc điều chỉnh địa giới hành chính xã, phường, để thành lập phường thuộc thành phố Hà Đông, thành phố Sơn Tây, tỉnh Hà Tây| tác giả = | họ = | tên = | ngày = | website = | url lưu trữ = | ngày lưu trữ = | ngày truy cập = }}</ref>. Theo đó, chia phường Văn Mỗ thành hai phường Văn Quán và Mộ Lao. Phường Mộ Lao có 126,3 ha diện tích tự nhiên, dân số là 14.105 người. Ngày [[8 tháng 5]] năm [[2009]], quận Hà Đông được thành lập trên cơ sở toàn bộ diện tích và dân số của thành phố Hà Đông, phường Mộ Lao thuộc quận Hà Đông cho đến nay. == Lịch sử== Địa bàn phường Phúc La xưa là hai làng Yên Phúc và Xa La thuộc tổng Thanh Oai Thượng, huyện [[Thanh Oai (huyện)| Thanh Oai]], phủ Ứng Thiên, trấn [[Sơn Nam Thượng]]. Sau năm 1945, hai làng Yên Phúc và Xa La được sáp nhập vào thị xã Hà Đông, trở thành hai thôn ngoại thị của thị xã. Năm [[1965]], hai thôn Yên Phúc, Xa La hợp nhất với 2 thôn Văn Quán, Mỗ Lao (Mộ Lao) để thành lập xã Văn Yên thuộc thị xã Hà Đông. Ngày [[23 tháng 6]] năm [[1994]], Chính phủ ban hành Nghị định 52-CP<ref name = 52-CP>{{Chú thích web| url = https://thuvienphapluat.vn/van-ban/Bat-dong-san/Nghi-dinh-52-CP-dieu-chinh-dia-gioi-huyen-va-lap-thi-tran-phuong-thuoc-huyen-Hoai-Duc-Chuong-My-Thach-That-Thanh-Oai-thi-xa-Ha-Dong-tinh-Ha-Tay-38810.aspx| tựa đề = Nghị định 52-CP năm 1994 về việc điều chỉnh địa giới huyện và thành lập thị trấn, phường thuộc các huyện Hoài Đức, Chương Mỹ, Thạch Thất, Thanh Oai, thị xã Hà Đông, tỉnh Hà Tây| tác giả = | họ = | tên = | ngày = | website = | url lưu trữ = | ngày lưu trữ = | ngày truy cập = }}</ref>. Theo đó, giải thể xã Văn Yên để thành lập hai phường Văn Mỗ và Phúc La. Phường Phúc La gồm có hai thôn Xa La, Yên Phúc của xã Văn Yên cũ và các phố Nguyễn Chánh, Tô Hiến Thành, Nguyễn Công Trứ của phường Yết Kiêu với 139,03 ha diện tích tự nhiên và 4.977 người. Năm 2006, phường Phúc La thuộc thành phố Hà Đông mới thành lập và từ năm 2009 thì trực thuộc quận Hà Đông cho đến nay. -->
+
+== Địa chỉ trụ sở các cơ quan== 
+* '''Trụ sở Đảng ủy''' '''- HĐND - UBND - UBMTTQ phường''': Số 2, phố Hà Cầu.<ref name=":02">Địa chỉ cũ: Số 2, phố Hà Cầu, phường Hà Cầu, quận Hà Đông</ref><ref name="trusomoi3">{{Chú thích web | date = 25 tháng 6 năm 2025 | title = Thông báo về địa điểm trụ sở làm việc của 126 phường, xã sau sắp xếp thuộc phạm vi quản lý của thành phố Hà Nội | url = https://dcdn.dantri.com.vn/2025/06/25/tru-so-126-xa-phuong-cua-ha-noi-1750822481952.pdf | website = UBND TP Hà Nội | access-date = 2025-06-26 | archive-date = 2025-06-26 | archive-url = https://web.archive.org/web/20250626040050/https://dcdn.dantri.com.vn/2025/06/25/tru-so-126-xa-phuong-cua-ha-noi-1750822481952.pdf | url-status = dead }}</ref>
+* '''Trung tâm phục vụ hành chính công''': Số 2, phố Hà Cầu.<ref name=":02" /><ref>{{Chú thích báo | last = Trung tâm Phục vụ hành chính công thành phố Hà Nội | title = Hà Nội công khai địa điểm tiếp nhận thủ tục hành chính thuộc UBND 126 xã/phường và 30 điểm tiếp nhận của 12 Chi nhánh thuộc Trung tâm Phục vụ hành chính công Thành phố, thông tin đường dây nóng hỗ trợ người dân, doanh nghiệp | url = https://ttpvhcc.hanoi.gov.vn/hoat-dong-cua-trung-tam/ha-noi-cong-khai-dia-diem-tiep-nhan-thu-tuc-hanh-chinh-thuoc-ubnd-126-xa-phuong-va-30-diem-tiep-nhan-cua-12-chi-nhanh-thuoc-trung-tam-phuc-vu-hanh-chinh-cong-thanh-pho-thong-tin-duong-day-nong-ho-tro-nguoi-dan-doanh-nghiep-2850250704103711121.htm }}{{Liên kết hỏng|date=2026-07-21 |bot=InternetArchiveBot }}</ref>
+* '''Công an phường''':<ref>{{Chú thích báo | last = Báo Đại biểu Nhân dân | first = | title = Danh sách 126 trụ sở Công an cấp xã thuộc Công an TP. Hà Nội để người dân tới làm căn cước, đăng ký xe | url = https://daibieunhandan.vn/danh-sach-126-tru-so-cong-an-cap-xa-thuoc-cong-an-tp-ha-noi-de-nguoi-dan-toi-lam-can-cuoc-dang-ky-xe-10378397.html}}</ref>
+** '''Trụ sở chính''': Số 163, phố Lê Hồng Phong.<ref>Địa chỉ cũ: Số 163, phố Lê Hồng Phong, phường Hà Cầu, quận Hà Đông</ref>
+** '''Trụ sở tiếp nhận thủ tục đăng ký xe''': Số 2, đường Phùng Hưng.<ref name=":12">Địa chỉ cũ: Số 2, đường Phùng Hưng, phường Văn Quán, quận Hà Đông (Trước là Trụ sở Công an quận Hà Đông cũ)</ref>
+
+== Văn hóa ==
+Phường Hà Đông là nơi có bề dày truyền thống văn hóa với làng nghề truyền thống và nhiều di tích lịch sử, văn hóa cấp Quốc gia.[[Tập tin:Van Phuc weaver at Jacquard loom.jpg| nhỏ|Làng nghề dệt lụa Vạn Phúc]]
+
+== Chú thích== 
+{{tham khảo}}
+
+== Tham khảo ==
+{{sơ khai Hà Nội}}
+{{Đơn vị hành chính thuộc thành phố Hà Nội}}

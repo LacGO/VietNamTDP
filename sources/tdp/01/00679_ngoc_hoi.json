@@ -1,0 +1,92 @@
+{
+  "ward_code": "00679",
+  "ward_name": "Ngọc Hồi",
+  "province_code": "01",
+  "resolution": "",
+  "arrangement": "2026_07",
+  "effective_date": "2026-07-01",
+  "verified": "unverified",
+  "extraction": {
+    "source": "vi.wikipedia.org",
+    "title": "(cache)",
+    "mode": "table"
+  },
+  "sources": [
+    {
+      "key": "wiki-00679-1",
+      "title": "Nghị quyết số 20/NQ-HĐND ngày 27 tháng 8 năm 2025 của Hội đồng nhân dân xã Ngọc Hồi khóa XXII, nhiệm kỳ 2021 – 2026 (Kỳ họp thứ hai) về việc chuyển đổi Tổ Dân phố thành Thôn sau khi sắp xếp đơn vị hành chính cấp xã trên địa bàn xã Ngọc Hồi, thành phố Hà Nội",
+      "url": "https://sqhx-hanoi.mediacdn.vn/91579363132710912/2025/9/6/nq-20-chuyen-doi-tdp-27-8-2025-1757144243124688175461.pdf",
+      "date": "2026-07-03",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-00679-2",
+      "title": "Nghị quyết số 1656/NQ-UBTVQH15 ngày 16 tháng 6 năm 2025 của Ủy ban Thường vụ Quốc hội về việc sắp xếp các đơn vị hành chính cấp xã của thành phố Hà Nội năm 2025",
+      "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf",
+      "date": "2026-05-13",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-00679-3",
+      "title": "Nghị quyết số 203/2025/QH15 ngày 16 tháng 6 năm 2025 của Quốc hội khóa XV, Kỳ họp thứ 9 về việc sửa đổi, bổ sung một số điều của Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam",
+      "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/nq-sua-doi-hien-phap.pdf",
+      "date": "2026-06-13",
+      "type": "wikipedia-ref"
+    }
+  ],
+  "note": "Trích tự động từ Wikipedia tiếng Việt (mode=table). Cần đối chiếu nghị quyết HĐND phường/xã.",
+  "tdp": [
+    {
+      "name": "Thôn 1",
+      "type": "thôn"
+    },
+    {
+      "name": "Thôn 591",
+      "type": "thôn"
+    },
+    {
+      "name": "Đại Áng",
+      "type": "thôn"
+    },
+    {
+      "name": "Lạc Thị",
+      "type": "thôn"
+    },
+    {
+      "name": "Ngọc Hồi",
+      "type": "thôn"
+    },
+    {
+      "name": "Nguyệt Áng",
+      "type": "thôn"
+    },
+    {
+      "name": "Nhị Xuân",
+      "type": "thôn"
+    },
+    {
+      "name": "Phúc Am",
+      "type": "thôn"
+    },
+    {
+      "name": "Phương Nhị",
+      "type": "thôn"
+    },
+    {
+      "name": "Vĩnh Thịnh",
+      "type": "thôn"
+    },
+    {
+      "name": "Vĩnh Trung",
+      "type": "thôn"
+    },
+    {
+      "name": "Yên Kiện",
+      "type": "thôn"
+    },
+    {
+      "name": "Yên Phú",
+      "type": "thôn"
+    }
+  ]
+}

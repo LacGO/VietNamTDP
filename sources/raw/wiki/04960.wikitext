@@ -1,0 +1,112 @@
+{{Thông tin đơn vị hành chính Việt Nam|xã
+| tên = Liên Sơn
+| hình =Petrol station in Cao Ram Commune of Luong Son District.jpg 
+| ghi chú hình =Một trạm xăng tại xã Liên Sơn 
+| vĩ độ = 20.852727506469773
+| kinh độ = 105.55874217364068
+| diện tích = 120,21 km²
+| dân số = 31.834 người
+| thời điểm dân số = 2025
+| mật độ dân số = {{formatnum:{{#expr:floor({{formatnum:31.834| R}}/{{formatnum:120,21| R}})}} }} người/km²
+| vùng = [[Đông Bắc Bộ]]
+| tỉnh = [[Phú Thọ]]
+| thành lập =1956 
+| trụ sở UBND = xóm Gừa
+| mã hành chính = 04960
+| mã bưu chính =36275 
+|web={{url|lienson.phutho.gov.vn}}
+}}
+{{other|Liên Sơn (định hướng)}}
+'''Liên Sơn''' là một [[Xã (Việt Nam)|xã]] thuộc tỉnh [[Phú Thọ]], [[Việt Nam]].
+
+==Địa lý==
+Xã Liên Sơn nằm ở phía đông nam tỉnh [[Phú Thọ]], có vị trí địa lý<ref>{{Chú thích web |title=Đơn vị hành chính Việt Nam |url=https://sapnhap.bando.com.vn/ |access-date=2026-06-05 |website=sapnhap.bando.com.vn}}</ref>:
+*Phía bắc giáp xã [[Lương Sơn, Phú Thọ|Lương Sơn]].
+*Phía tây giáp phường [[Kỳ Sơn (phường)|Kỳ Sơn]].
+*Phía đông giáp xã [[Xuân Mai]] và xã [[Trần Phú, Hà Nội|Trần Phú]], thành phố [[Hà Nội]].
+*Phía nam giáp xã [[Nật Sơn]].
+
+Xã Liên Sơn có diện tích 120,21&nbsp;km², dân số năm 2025 là 31.834 người, mật độ dân số đạt 265 người/km².<ref>{{Chú thích web |title=Xã Liên Sơn, Tỉnh Phú Thọ mới sáp nhập 2026 |url=https://tinhthanhvn.com/province/phu-tho/xa-lien-son |access-date=2026-05-02 |website=Tỉnh Thành Việt Nam |language=vi}}</ref>
+
+==Hành chính==
+Xã Liên Sơn được chia thành 44 thôn - xóm, gồm 6 thôn: 3/2A, 3/2B, Ao Kềnh, Đồng Sương, Quán Trắng, Sòng và 38 xóm: 23/9, Bến Cuối, Cao, Chũm, Đá Bạc, Đất Đỏ, Đầm Đa, Đồn Vận, Đồng Lau, Ghên, Giếng Xạ, Gò Mè, Gừa, Hợp Phong, Hui, Khuộc, Làng Hang, Lạt, Liên Hòa, Liên Hợp, Liên Khuê, Lộc Môn, Mía, Ngành, Ngăm, Ngọc Lâm, Nước Lạnh, Phú Ngọc, Quê Sụ, Rậm, Suối Bến, Suối Cỏ, Suối Yên, Sơn Thủy, Tân Sơn, Thành Sơn, Trại Hòa, Vai Đào.<ref>{{Chú thích web |last=Ủy ban bầu cử xã Liên Sơn |date=2025-12-24 |title=Nghị quyết số 1/NQ-UBBC về việc ấn định và công bố số đơn vị bầu cử, danh sách các đơn vị bầu cử và số lượng đại biểu được bầu ở mỗi đơn vị bầu cử đại biểu Hội đồng nhân dân xã Liên Sơn nhiệm kỳ 2026 - 2031 |url=https://lienson.phutho.gov.vn/index.php/2013-12-13-01-52-02/v-n-ba-n-ca-a-huya-n/send/6-v-n-ba-n-ca-a-xa/409-nq-va-via-c-a-n-a-nh-va-ca-ng-ba-sa-n-va-ba-u-ca-danh-sa-ch-ca-c-n-va-ba-u-ca-va-sa-l-a-ng-a-i-bia-u-a-c-ba-u-a-ma-i-n-va-ba-u-ca-a-i-bia-u-h-nd-xa-lia-n-s-n-nhia-m-ka-2026-2031.html |url-status=live |archive-url=https://web.archive.org/web/20260422090807/https://lienson.phutho.gov.vn/index.php/2013-12-13-01-52-02/v-n-ba-n-ca-a-huya-n/send/6-v-n-ba-n-ca-a-xa/409-nq-va-via-c-a-n-a-nh-va-ca-ng-ba-sa-n-va-ba-u-ca-danh-sa-ch-ca-c-n-va-ba-u-ca-va-sa-l-a-ng-a-i-bia-u-a-c-ba-u-a-ma-i-n-va-ba-u-ca-a-i-bia-u-h-nd-xa-lia-n-s-n-nhia-m-ka-2026-2031.html |archive-date=2026-04-22 |access-date=2026-04-22 |website=Trang Thông tin điện tử xã Liên Sơn - tỉnh Phú Thọ}}</ref><ref name=":1">{{Chú thích web |last=Bộ Dân tộc và Tôn giáo |date=2026-01-29 |title=Danh sách Thôn vùng đồng bào dân tộc thiểu số và miền núi, thôn đặc biệt khó khăn giai đoạn 2026 - 2030 trên địa bàn tỉnh Phú Thọ |url=http://files.ubdt.gov.vn/files/ecm/source_files/2026/02/05/11252411_4.%20Ph%C3%BA%20Th%E1%BB%8D%201%20(th%C3%B4n).signed_26-02-05.pdf |url-status=live |archive-url=https://web.archive.org/web/20260417090807/http://files.ubdt.gov.vn/files/ecm/source_files/2026/02/05/11252411_4.%20Ph%C3%BA%20Th%E1%BB%8D%201%20(th%C3%B4n).signed_26-02-05.pdf |archive-date=2026-04-17 |access-date=2026-04-17 |website=Cổng Thông tin điện tử Bộ Dân tộc và Tôn giáo}}</ref><ref>{{Chú thích web |last=Ủy ban nhân dân xã Liên Sơn |date=2026-03-05 |title=Thông báo số 68/TB-UBND về Ngày bầu cử, địa điểm bỏ phiếu bầu cử đại biểu Quốc hội khóa XVI và đại biểu Hội đồng nhân dân các cấp nhiệm kỳ 2026 - 2031 trên địa bàn xã Liên Sơn |url=https://web.facebook.com/story.php?story_fbid=122167842584931118&id=61577933556837&rdid=v1198rpFsom5Agtp# |url-status=live |archive-url=https://web.archive.org/web/20260422090807/https://web.facebook.com/story.php?story_fbid=122167842584931118&id=61577933556837&rdid=v1198rpFsom5Agtp# |archive-date=2026-04-22 |access-date=2026-04-22 |website=Trang thông tin điện tử xã Liên Sơn - tỉnh Phú Thọ}}</ref>
+
+==Lịch sử==
+Trước đây, địa bàn xã Liên Sơn thuộc địa bàn của ba xã Cư Yên, Cao Sơn và Liên Sơn thuộc huyện [[Lương Sơn (huyện)|Lương Sơn]], tỉnh [[Hòa Bình (tỉnh)|Hòa Bình]] cũ.
+
+Trước năm [[1945]], Cư Yên là một xã thuộc tổng Cư Yên, châu Lương Sơn. Sau [[Cách mạng Tháng Tám]], xã Cư Yên sáp nhập với xã Nhuận Trạch thành xã Yên Trạch thuộc huyện Lương Sơn.
+
+Ngày [[10 tháng 11]] năm [[1956]], Ủy ban kháng chiến hành chính Liên khu 3 ban hành quyết định. Theo đó<ref>{{chú thích sách |tác giả= |tựa đề=Địa chí Hòa Bình |nhà xuất bản=Nhà xuất bản Chính trị quốc gia |year=2005 |nơi= |trang=312 |url=https://www.google.com/books/edition/Địa_ch%C3%AD_Hòa_Bình/jUZRAQAAMAAJ |doi= |id= |isbn=}}</ref>:
+
+* Chia xã Liên Sơn thành 4 xã: Liên Sơn, Thành Lập, Tiến Sơn, Trung Sơn.
+* Chia xã Cao Sơn thành 5 xã: Cao Sơn, Đào Lâm, Hợp Hòa, Tân Vinh, Trường Sơn.
+
+Ngày [[14 tháng 12]] năm [[1957]], Ủy ban kháng chiến hành chính Liên khu 3 ban hành quyết định chia lại xã Yên Trạch thành hai xã Cư Yên và Nhuận Trạch.<ref name=":0" />
+
+Ngày [[15 tháng 11]] năm [[1968]], Bộ Nội vụ ban hành Quyết định số 631-NV. Theo đó, sáp nhập hai xã Đào Lâm và Cao Sơn thành xã Cao Răm.
+
+Đến năm [[2018]]:
+
+* Xã Liên Sơn có diện tích 12,96&nbsp;km², dân số là 4.250 người, mật độ dân số đạt 328 người/km², gồm 8 xóm: Nước Lạnh, Liên Khuê, Gò Mè, Liên Hợp (đổi tên từ Hốc Mã), Đá Bạc, Đồn Vận, Đất Đỏ, 23/9.
+* Xã Thành Lập có diện tích 9,50&nbsp;km², dân số là 3.889 người, mật độ dân số đạt 409 người/km².
+* Xã Tiến Sơn có diện tích 27,67&nbsp;km², dân số là 4.025 người, mật độ dân số đạt 145 người/km².
+* Xã Trung Sơn có diện tích 12,91&nbsp;km², dân số là 4.748 người, mật độ dân số đạt 368 người/km².
+* Xã Cư Yên có diện tích 13,92&nbsp;km², dân số là 4.449 người, mật độ dân số đạt 320 người/km².
+* Xã Cao Răm có diện tích 33,70&nbsp;km², dân số là 4.872 người, mật độ dân số đạt 145 người/km²
+* Xã Hợp Hòa có diện tích 9,54&nbsp;km², dân số là 2.799 người, mật độ dân số đạt 293 người/km²
+* Xã Trường Sơn có diện tích 32,43&nbsp;km², dân số là 2.411 người, mật độ dân số đạt 74 người/km².
+
+Ngày [[17 tháng 12]] năm [[2019]], [[Ủy ban Thường vụ Quốc hội]] ban hành Nghị quyết số 830/NQ-UBTVQH14 về việc sắp xếp các đơn vị hành chính cấp huyện, cấp xã thuộc tỉnh Hòa Bình (nghị quyết có hiệu lực từ ngày [[1 tháng 1]] năm [[2020]]).<ref name="NQ830">{{Chú thích web|url=https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/Nghi-quyet-830-NQ-UBTVQH14-2019-sap-xep-don-vi-hanh-chinh-cap-huyen-xa-thuoc-tinh-Hoa-Binh-432100.aspx|tựa đề=Nghị quyết số 830/NQ-UBTVQH14 năm 2019 về việc sắp xếp các đơn vị hành chính cấp huyện, cấp xã thuộc tỉnh Hòa Bình|tác giả=|họ=|tên=|ngày=|website=|url lưu trữ=|ngày lưu trữ=|ngày truy cập=}}</ref> Theo đó:
+
+* Điều chỉnh 4,42&nbsp;km² diện tích tự nhiên và 1.508 người của xã Liên Sơn (gồm 3 xóm: Nước Lạnh, Liên Khuê, Gò Mè) vào xã Cư Yên
+* Sáp nhập toàn bộ diện tích dân số của 3 xã: Thành Lập, Tiến Sơn, Trung Sơn trở lại xã Liên Sơn.
+* Sáp nhập toàn bộ diện tích và dân số của ba xã Cao Răm, Hợp Hòa và Trường Sơn để tái lập xã Cao Sơn.
+
+Sau khi điều chỉnh:
+
+* Xã Liên Sơn có diện tích 58,62&nbsp;km², dân số là 15.404 người.
+* Xã Cư Yên có diện tích 18,34&nbsp;km², dân số là 5.957 người.
+* Xã Cao Sơn có diện tích 75,67&nbsp;km², dân số là 10.082 người.
+
+Ngày [[12 tháng 6]] năm [[2025]], [[Quốc hội Việt Nam|Quốc hội]] ban hành Nghị quyết số 202/2025/QH15 về việc sắp xếp đơn vị hành chính cấp tỉnh (nghị quyết có hiệu lực từ ngày [[12 tháng 6]] năm [[2025]]).<ref>{{Chú thích web |last=xaydungchinhsach.chinhphu.vn|date=2025-07-16|title=TOÀN VĂN: Nghị quyết số 202/2025/QH15 về sắp xếp đơn vị hành chính cấp tỉnh|url=https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-202-2025-qh15-ve-sap-xep-don-vi-hanh-chinh-cap-tinh-119250612174148722.htm|url-status=live|archive-url=http://web.archive.org/web/20260705025431/https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-202-2025-qh15-ve-sap-xep-don-vi-hanh-chinh-cap-tinh-119250612174148722.htm|archive-date=2026-07-05|access-date=2026-07-25|website=Báo Điện tử Chính phủ|language=vi}}</ref> Theo đó, sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của tỉnh [[Vĩnh Phúc (tỉnh)|Vĩnh Phúc]], tỉnh [[Hòa Bình (tỉnh)|Hòa Bình]] và tỉnh [[Phú Thọ]] thành tỉnh mới có tên gọi là tỉnh '''Phú Thọ'''.
+
+Ngày [[16 tháng 6]] năm [[2025]]:
+
+* Quốc hội ban hành Nghị quyết số 203/2025/QH15 về việc sửa đổi, bổ sung một số điều của Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam (nghị quyết có hiệu lực từ ngày [[16 tháng 6]] năm [[2025]]).<ref>{{Chú thích web |last=xaydungchinhsach.chinhphu.vn |date=2025-06-28 |title=NGHỊ QUYẾT 203/2025/QH15 SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA HIẾN PHÁP NƯỚC CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM |url=https://xaydungchinhsach.chinhphu.vn/nghi-quyet-203-2025-qh15-sua-doi-bo-sung-mot-so-dieu-cua-hien-phap-nuoc-cong-hoa-xa-hoi-chu-nghia-viet-nam-119250616181735552.htm |url-status=live |archive-url=http://web.archive.org/web/20260715200606/https://xaydungchinhsach.chinhphu.vn/nghi-quyet-203-2025-qh15-sua-doi-bo-sung-mot-so-dieu-cua-hien-phap-nuoc-cong-hoa-xa-hoi-chu-nghia-viet-nam-119250616181735552.htm |archive-date=2026-07-15 |access-date=2026-07-15 |website=Báo Điện tử Chính phủ |language=vi}}</ref> Theo đó, kết thúc hoạt động của đơn vị hành chính cấp huyện trong cả nước từ ngày 1 tháng 7 năm 2025.
+* Ủy ban Thường vụ Quốc hội ban hành Nghị quyết số 1676/NQ-UBTVQH15 về việc sắp xếp đơn vị hành chính cấp xã của tỉnh [[Phú Thọ]] năm 2025 (nghị quyết có hiệu lực từ ngày [[16 tháng 6]] năm [[2025]]).<ref>{{Chú thích web |last=xaydungchinhsach.chinhphu.vn |date=2025-06-20 |title=Nghị quyết số 1676/NQ-UBTVQH15 sắp xếp các ĐVHC cấp xã của tỉnh Phú Thọ năm 2025 |url=https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-1676-nq-ubtvqh15-sap-xep-cac-dvhc-cap-xa-cua-tinh-phu-tho-nam-2025-119250616204317326.htm |url-status=live |archive-url=http://web.archive.org/web/20260725082021/https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-1676-nq-ubtvqh15-sap-xep-cac-dvhc-cap-xa-cua-tinh-phu-tho-nam-2025-119250616204317326.htm |archive-date=2026-07-25 |access-date=2026-07-27 |website=Báo Điện tử Chính phủ |language=vi}}</ref> Theo đó, sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của xã Cư Yên, xã Liên Sơn và một phần xã Cao Sơn thành xã mới có tên gọi là '''xã Liên Sơn'''.<!-- 
+==Lịch sử==
+Trước năm 1945, Cư Yên là một xã thuộc tổng Cư Yên, châu Lương Sơn.<ref>{{chú thích sách|tác giả=|tựa đề=Địa chí Hòa Bình|nhà xuất bản=Nhà xuất bản Chính trị quốc gia|year=2005|nơi=|trang=882|url=https://www.google.com/books/edition/Địa_ch%C3%AD_Hòa_Bình/jUZRAQAAMAAJ|doi=|id=|isbn=}}</ref> Sau [[Cách mạng Tháng Tám]], xã Cư Yên sáp nhập với xã Nhuận Trạch thành xã Yên Trạch thuộc huyện Lương Sơn.
+
+Ngày [[14 tháng 12]] năm [[1957]], Ủy ban kháng chiến hành chính Liên khu 3 ban hành quyết định chia lại xã Yên Trạch thành hai xã Cư Yên và Nhuận Trạch.<ref name=":0">{{chú thích sách|tác giả=|tựa đề=Địa chí Hòa Bình|nhà xuất bản=Nhà xuất bản Chính trị quốc gia|year=2005|nơi=|trang=313|url=https://www.google.com/books/edition/Địa_ch%C3%AD_Hòa_Bình/jUZRAQAAMAAJ|doi=|id=|isbn=}}</ref>
+
+Đến năm 2018, xã Cư Yên có diện tích 13,92&nbsp;km², dân số là 4.449 người, mật độ dân số đạt 320 người/km².
+
+Ngày [[17 tháng 12]] năm [[2019]], Ủy ban Thường vụ Quốc hội ban hành Nghị quyết số 830/NQ-UBTVQH14 về việc sắp xếp các đơn vị hành chính cấp huyện, cấp xã thuộc tỉnh Hòa Bình (nghị quyết có hiệu lực từ ngày [[1 tháng 1]] năm [[2020]]).<ref name=NQ830>{{Chú thích web|url=https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/Nghi-quyet-830-NQ-UBTVQH14-2019-sap-xep-don-vi-hanh-chinh-cap-huyen-xa-thuoc-tinh-Hoa-Binh-432100.aspx|tựa đề=Nghị quyết số 830/NQ-UBTVQH14 năm 2019 về việc sắp xếp các đơn vị hành chính cấp huyện, cấp xã thuộc tỉnh Hòa Bình|tác giả=|họ=|tên=|ngày=|website=|url lưu trữ=|ngày lưu trữ=|ngày truy cập=}}</ref> Theo đó, điều chỉnh 4,42&nbsp;km² diện tích tự nhiên và 1.508 người của xã Liên Sơn (gồm 3 xóm: Nước Lạnh, Liên Khuê, Gò Mè) vào xã Cư Yên.
+
+Sau khi điều chỉnh, xã Cư Yên có diện tích 18,34&nbsp;km², dân số là 5.957 người.
+
+==Lịch sử==
+Ngày [[10 tháng 11]] năm [[1956]], Ủy ban kháng chiến hành chính Liên khu 3 ban hành quyết định chia xã Cao Sơn thành 5 xã: Cao Sơn, Đào Lâm, Hợp Hòa, Tân Vinh, Trường Sơn.<ref>{{chú thích sách|tác giả=|tựa đề=Địa chí Hòa Bình|nhà xuất bản=Nhà xuất bản Chính trị quốc gia|year=2005|nơi=|trang=311|url=https://www.google.com/books/edition/Địa_ch%C3%AD_Hòa_Bình/jUZRAQAAMAAJ|doi=|id=|isbn=}}</ref>
+
+Ngày [[15 tháng 11]] năm [[1968]], Bộ Nội vụ ban hành Quyết định số 631-NV.<ref>{{Chú thích web|url=https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/Quyet-dinh-631-NV-phe-chuan-viec-hop-nhat-xa-thuoc-huyen-Luong-Son-tinh-Hoa-Binh-18374.aspx|tựa đề=Quyết định 631-NV năm 1968 về việc phê chuẩn việc hợp nhất xã thuộc huyện Lương Sơn, tỉnh Hòa Bình|tác giả=|họ=|tên=|ngày=|website=|url lưu trữ=|ngày lưu trữ=|ngày truy cập=}}</ref> Theo đó, sáp nhập hai xã Đào Lâm và Cao Sơn thành xã Cao Răm.
+
+Đến năm 2018, xã Cao Răm có diện tích 33,70&nbsp;km², dân số là 4.872 người, mật độ dân số đạt 145 người/km²; xã Hợp Hòa có diện tích 9,54&nbsp;km², dân số là 2.799 người, mật độ dân số đạt 293 người/km²; xã Trường Sơn có diện tích 32,43&nbsp;km², dân số là 2.411 người, mật độ dân số đạt 74 người/km².
+
+Ngày [[17 tháng 12]] năm [[2019]], Ủy ban Thường vụ Quốc hội ban hành Nghị quyết số 830/NQ-UBTVQH14 về việc sắp xếp các đơn vị hành chính cấp huyện, cấp xã thuộc tỉnh Hòa Bình (nghị quyết có hiệu lực từ ngày [[1 tháng 1]] năm [[2020]]).<ref name=NQ830>{{Chú thích web|url=https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/Nghi-quyet-830-NQ-UBTVQH14-2019-sap-xep-don-vi-hanh-chinh-cap-huyen-xa-thuoc-tinh-Hoa-Binh-432100.aspx|tựa đề=Nghị quyết số 830/NQ-UBTVQH14 năm 2019 về việc sắp xếp các đơn vị hành chính cấp huyện, cấp xã thuộc tỉnh Hòa Bình|tác giả=|họ=|tên=|ngày=|website=|url lưu trữ=|ngày lưu trữ=|ngày truy cập=}}</ref> Theo đó, sáp nhập toàn bộ diện tích và dân số của ba xã Cao Răm, Hợp Hòa và Trường Sơn để tái lập xã Cao Sơn.
+
+== Di tích ==
+Gần xóm Hụi thuộc địa bàn xã Cao Sơn có dãy núi Sáng, là núi đá vôi có cụm 4 hang động và là 4 di tích, gồm hai di tích danh lam và hai di tích khảo cổ cấp quốc gia.<ref name=hoabinhgov>Trần Trang. [http://www.hoabinh.gov.vn/web/guest/59/-/vcmsviewcontent/NlQw/2325/2325/95094 Giới thiệu, kêu gọi đầu tư cho Du lịch xã Cao Răm – Lương Sơn] {{Webarchive|url=https://web.archive.org/web/20191224135109/http://www.hoabinh.gov.vn/web/guest/59/-/vcmsviewcontent/NlQw/2325/2325/95094 |date = ngày 24 tháng 12 năm 2019}}. hoabinh.gov, 03/11/2014. Truy cập 17/02/2016.</ref> Đó là [[Hang Chổ]], hang Núi Sáng, động Mãn Nguyện và hang Khụ Thượng.
+
+Một trong các hang đó là nơi có di chỉ đười ươi trưởng thành<ref>[http://vnexpress.net/gl/khoa-hoc/2001/01/3b9ad85c/ Trưng bày bộ di cốt đười ươi và bộ "Sưu tập Vương Hồng Sển"]</ref><ref>[http://www.baoxaydung.vn/Main.aspx?MNU=1135&Style=1&ChiTiet=4161 Hang Chổ - nơi cư trú của nhóm cư dân văn hoá Hoà Bình trên 10.000 năm trước]{{Liên kết hỏng|date = ngày 9 tháng 2 năm 2021 |bot=InternetArchiveBot }}</ref>
+ -->
+
+==Danh nhân==
+* [[Nguyễn Tiến Sinh]] (sinh năm 1968) là chính trị gia người [[Người Mường|dân tộc Mường]] ở Việt Nam.
+* [[Nguyễn Văn Quang (Hòa Bình)|Nguyễn Văn Quang]] (sinh năm 1959) nguyên Chủ tịch Ủy ban nhân dân tỉnh [[Hòa Bình (tỉnh)|Hòa Bình]]. 
+
+==Chú thích==
+{{tham khảo|30em}}
+
+==Tham khảo==
+{{sơ khai Phú Thọ}}
+{{Đơn vị hành chính thuộc tỉnh Phú Thọ}}

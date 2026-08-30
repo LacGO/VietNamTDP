@@ -1,0 +1,190 @@
+{{Thông tin đơn vị hành chính Việt Nam |Xã
+| tên = Sóc Sơn
+| hình = NuiDoiSocSon.jpg 
+| ghi chú hình = Núi Đôi 
+| vĩ độ = 21.257658414448223
+| kinh độ = 105.84883796107425
+| vĩ phút = 
+| vĩ giây = 
+| kinh phút = 
+| kinh giây = 
+| diện tích = 68,24 km²
+| dân số = 117.876 người
+| thời điểm dân số = 2025
+| mật độ dân số = {{formatnum:{{#expr:floor({{formatnum:117.876| R}}/{{formatnum:68,24| R}})}} }} người/km² 
+| vùng = [[Đồng bằng sông Hồng]]
+| thành phố = [[Hà Nội]]
+| thành lập = 
+| trụ sở UBND =Số 1 đường Núi Đôi<ref>{{Chú thích web |url=https://storage-vnportal.vnpt.vn/gov-hni/6244/VanBan/2025/6/25/TB-729-2025.pdf |title=Thông báo số 729/TB-UBND ngày 25 tháng 6 năm 2025 của Ủy ban nhân dân thành phố Hà Nội về địa điểm trụ sở làm việc của 126 phường, xã sau sắp xếp thuộc phạm vi quản lý của thành phố Hà Nội|access-date=2026-06-15 |archive-date=2026-06-15 |archive-url=https://web.archive.org/web/20260615034519/https://storage-vnportal.vnpt.vn/gov-hni/6244/VanBan/2025/6/25/TB-729-2025.pdf |url-status=dead | website = Cổng Thông tin điện tử Ủy ban nhân dân thành phố Hà Nội}}</ref> 
+| mã hành chính = 00376<ref>{{Chú thích web |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/19ttg.signed.pdf |title=Quyết định số 19/2025/QĐ-TTg ngày 30 tháng 6 năm 2025 của Thủ tướng Chính phủ về việc Ban hành Bảng danh mục và mã số các đơn vị hành chính Việt Nam |access-date=2026-06-15 |archive-date=2026-06-15 |archive-url=https://web.archive.org/web/20260615034519/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/19ttg.signed.pdf |url-status=dead | website = Cổng Thông tin điện tử Chính phủ}}</ref> 
+| web = {{url|socson.hanoi.gov.vn}}
+|bản đồ 1={{maplink|frame=yes|plain=yes|type=shape|frame-width=280|frame-align=center|stroke-width=3}}|trụ sở Đảng ủy=Số 2 đường Đa Phúc}}
+{{other|Sóc Sơn (định hướng)}}
+'''Sóc Sơn''' là một [[Xã (Việt Nam)|xã]] thuộc thành phố [[Hà Nội]], [[Việt Nam]].
+
+== Địa lý== 
+Xã Sóc Sơn vị trí địa lý:
+*Phía đông giáp xã [[Đa Phúc (xã)|Đa Phúc]]
+*Phía tây giáp xã [[Nội Bài]]
+*Phía nam giáp xã [[Phúc Thịnh]] và xã [[Thư Lâm]]
+*Phía bắc giáp xã [[Trung Giã]].<ref>{{Chú thích web |last=Viện nghiên cứu Phát triển kinh tế – xã hội Hà Nội |date=2025-07-02 |title=Xã Sóc Sơn: Những thông tin chi tiết sau sắp xếp |url=https://hanoionline.vn/xa-soc-son-nhung-thong-tin-chi-tiet-sau-sap-xep-343977.htm |url-status=bot: unknown |archive-url=https://web.archive.org/web/20250702073113/https://hanoionline.vn/xa-soc-son-nhung-thong-tin-chi-tiet-sau-sap-xep-343977.htm |archive-date=2025-07-02 |access-date=2026-07-01 |website=Cơ quan Báo và Phát thanh Truyền hình Hà Nội }}</ref><ref>{{Chú thích web|last=Cơ quan Báo và Phát thanh Truyền hình Hà Nội|date=2025-07-09|title=Xã Sóc Sơn: Tất cả thông tin chỉ dẫn bạn cần biết|url=https://hanoionline.vn/xa-soc-son-tat-ca-thong-tin-chi-dan-ban-can-biet-345663.htm|url-status=bot: unknown|archive-url=https://web.archive.org/web/20250710023023/https://hanoionline.vn/xa-soc-son-tat-ca-thong-tin-chi-dan-ban-can-biet-345663.htm|archive-date=2025-07-10|access-date=2026-07-11}}</ref>
+Xã Sóc Sơn có diện tích tự nhiên là 68,24 km<sup>2</sup>, quy mô dân số năm 2025 là 117.876 người và mật độ dân số đạt 1.727 người/km<sup>2</sup>.<ref>{{Chú thích web|last=Mai Hữu|date=2026-04-05|title=Hà Nội: Chi tiết phương án tổng thể sắp xếp đơn vị hành chính cấp xã|url=https://hanoimoi.vn/ha-noi-chi-tiet-phuong-an-tong-the-sap-xep-don-vi-hanh-chinh-cap-xa-700278.html|url-status=bot: unknown|archive-url=https://web.archive.org/web/20250710163328/https://hanoimoi.vn/ha-noi-chi-tiet-phuong-an-tong-the-sap-xep-don-vi-hanh-chinh-cap-xa-700278.html|archive-date=2025-07-10|access-date=2026-07-11|website=Cơ quan Báo và Phát thanh, truyền hình Hà Nội}}</ref><ref>Công văn số 2896/BNV-CQĐP ngày 27 tháng 5 năm 2025 của Bộ Nội vụ về việc cung cấp thông tin danh mục dự kiến đơn vị hành chính cấp xã mới.</ref>
+
+== Lịch sử==
+
+=== Trước năm 1976 ===
+
+=== Giai đoạn 1976 – nay ===
+Sau ngày 2 tháng 7 năm 1976, 3 xã: Phù Linh, Tân Minh và Tiên Dược thuộc huyện [[Đa Phúc (huyện)|Đa Phúc]]; 5 xã: Đông Xuân, Mai Đình, Phú Minh, Phù Lỗ và Quang Tiến thuộc huyện [[Kim Anh (huyện)|Kim Anh]] của tỉnh [[Vĩnh Phú (xã)|Vĩnh Phú]].
+
+Ngày 5 tháng 7 năm 1977, hợp nhất huyện [[Đa Phúc (huyện)|Đa Phúc]], huyện [[Kim Anh (huyện)|Kim Anh]], thị trấn (thuộc tỉnh) [[Xuân Hòa, Phú Thọ|Xuân Hòa]] thành một huyện lấy tên là huyện [[Sóc Sơn (huyện)|Sóc Sơn]]. Khi đó, 8 xã: Đông Xuân, Mai Đình, Phú Minh, Phù Linh, Phù Lỗ, Quang Tiến, Tân Minh và Tiên Dược thuộc huyện [[Sóc Sơn (huyện)|Sóc Sơn]].<ref>Quyết định số 178-CP ngày 5 tháng 7 năm 1977 của Hội đồng Chính phủ về việc hợp nhất và điều chỉnh địa giới một số huyện thuộc tỉnh Vĩnh Phú.</ref>
+
+Ngày 29 tháng 12 năm 1978, sáp nhập huyện [[Sóc Sơn (huyện)|Sóc Sơn]] của tỉnh [[Vĩnh Phú (tỉnh)|Vĩnh Phú]] vào thành phố [[Hà Nội]]. Khi đó, 8 xã: Đông Xuân, Mai Đình, Phú Minh, Phù Linh, Phù Lỗ, Quang Tiến, Tân Minh và Tiên Dược thuộc huyện [[Sóc Sơn (huyện)|Sóc Sơn]] của thành phố [[Hà Nội]].<ref>Nghị quyết ngày 29 tháng 12 năm 1978 của Quốc hội khóa VI, Kỳ họp thứ 4 phê chuẩn việc phân vạch lại địa giới thành phố Hà Nội, thành phố Hồ Chí Minh, các tỉnh Hà Sơn Bình, Vĩnh Phú, Cao Lạng, Bắc Thái, Quảng Ninh và Đồng Nai.</ref>
+
+Ngày 3 tháng 3 năm 1987, thành lập thị trấn Sóc Sơn (thị trấn huyện lỵ huyện [[Sóc Sơn (huyện)|Sóc Sơn]]) trên cơ sở 54 hécta đất với 335 nhân khẩu của xã Phù Linh và 26 hécta đất với 284 nhân khẩu của xã Tiên Dược cùng 3.224 nhân khẩu là cán bộ, công nhân viên chức Nhà nước của các cơ quan đóng trên địa bàn này.<ref>{{Chú thích web |title=Quyết định số 45-HĐBT ngày 3 tháng 3 năm 1987 của Hội đồng Bộ trưởng về việc thành lập thị trấn của các huyện Ba Vì và Sóc Sơn thuộc thành phố Hà Nội |url=https://vanban.chinhphu.vn/default.aspx?pageid=27160&docid=4316 |url-status=dead |archive-url=https://web.archive.org/web/20260724134501/https://vanban.chinhphu.vn/default.aspx?pageid=27160&docid=4316 |archive-date=2026-07-24 |access-date=2026-07-24 |website=Cổng Thông tin điện tử Chính phủ }}</ref>
+
+Ngày 16 tháng 6 năm 2025:
+
+* Kết thúc hoạt động của đơn vị hành chính cấp huyện trong cả nước.<ref>{{Chú thích web |last= |date= |title=Nghị quyết số 203/2025/QH15 ngày 16 tháng 6 năm 2025 của Quốc hội khóa XV, Kỳ họp thứ 9 về việc sửa đổi, bổ sung một số điều của Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/nq-sua-doi-hien-phap.pdf |url-status=live |archive-url=https://web.archive.org/web/20260613090807/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/nq-sua-doi-hien-phap.pdf |archive-date=2026-06-13 |access-date=2026-06-13 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+* Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của thị trấn Sóc Sơn, xã Tân Minh và xã Đông Xuân, các xã Phù Lỗ, Phù Linh, Tiên Dược, một phần diện tích tự nhiên, toàn bộ quy mô dân số của xã Mai Đình, một phần diện tích tự nhiên của xã Phú Minh và xã Quang Tiến (huyện [[Sóc Sơn (huyện)|Sóc Sơn]]) thành xã mới có tên gọi là xã Sóc Sơn.<ref>{{Chú thích web |title=Nghị quyết số 1656/NQ-UBTVQH15 ngày 16 tháng 6 năm 2025 của Ủy ban Thường vụ Quốc hội về việc sắp xếp các đơn vị hành chính cấp xã của thành phố Hà Nội năm 2025 |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf |url-status=bot: unknown |archive-url=https://web.archive.org/web/20260513110024/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf |archive-date=2026-05-13 |access-date=2026-06-30 |website=Cổng Thông tin điện tử Chính phủ }}</ref>
+* Sau khi sắp xếp, xã Sóc Sơn được chia thành 62 tổ dân phố – thôn, gồm 5 tổ dân phố và 57 thôn.<ref>5 tổ dân phố, đánh số từ 1 đến 5 của thị trấn Sóc Sơn cũ; 7 thôn: 418, Đan Tảo, Thủy Lợi 2, Vệ Sơn Đoài, Vệ Sơn Đông, Xuân Dục và Xuân Đồng của xã Tân Minh cũ; 10 thôn: 17, Bến, Cả, Chôi, Đông Thủy, Đồng Dành, Phú Thọ, Thượng, Tuyền và Yêm của xã Đông Xuân cũ; 14 thôn: Bắc Giã, Đông, Đông Đoài, Đường 2, 3, Liên Lý, Phố Chợ, Tân Do – Xóm Chòm, Tây Đoài, Trong Ngoài, Xóm Cầu, Xóm Đồng, Xóm Làng và Xóm Sau của xã Phù Lỗ cũ; 4 thôn: Cộng Hòa, Phù Mã, Vệ Linh và Xuân Đoài của xã Phù Linh cũ; 7 thôn: Dược Hạ, Dược Thượng, Đồng Chầm, Đồng Lạc, Lương Châu, Miếu Thờ và Thanh Hà của xã Tiên Dược cũ; 15 thôn: 25, Ấp Cút, Đạc Tài, Đông Bài, Đường 2, Hoàng Dương, Hương Đình Đoài, Hương Đình Đông, Lạc Nông, Mai Đoài, Mai Đông, Mai Nội, Nội Phật, Thái Phù và Thế Trạch của xã Mai Đình cũ.</ref><ref>{{Chú thích web |title=Thông tư số 10/2022/TT-BTNMT ngày 29 tháng 9 năm 2022 của Bộ Tài nguyên và Môi trường về việc Ban hành Danh mục địa danh dân cư, sơn văn, thủy văn, kinh tế – xã hội phục vụ công tác thành lập bản đồ thành phố Hà Nội |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2022/10/10-btnmt.pdf |url-status=bot: unknown |archive-url=https://web.archive.org/web/20260630082812/https://datafiles.chinhphu.vn/cpp/files/vbpq/2022/10/10-btnmt.pdf |archive-date=2026-06-30 |access-date=2026-06-30 |website=Cổng Thông tin điện tử Chính phủ }}</ref><ref>{{Chú thích web |last=Trang Thông tin điện tử xã Sóc Sơn – thành phố Hà Nội |date=2026-02-27 |title=Ủy ban bầu cử xã Sóc Sơn công bố danh sách ứng cử đại biểu Hội đồng nhân dân xã Sóc Sơn nhiệm kỳ 2026 – 2031 |url=https://socson.hanoi.gov.vn/hoat-dong-cua-hdnd/uy-ban-bau-cu-xa-soc-son-cong-bo-danh-sach-ung-cu-dai-bieu-hdnd-xa-nhiem-ky-2026-2031-2788260227142710354.htm |url-status=live |archive-url=https://web.archive.org/web/20260701400809/https://socson.hanoi.gov.vn/hoat-dong-cua-hdnd/uy-ban-bau-cu-xa-soc-son-cong-bo-danh-sach-ung-cu-dai-bieu-hdnd-xa-nhiem-ky-2026-2031-2788260227142710354.htm |archive-date=2026-07-01 |access-date=2026-07-01}}</ref>
+
+Ngày 24 tháng 12 năm 2025, xác định một phần của xã Sóc Sơn là [[Đô thị Việt Nam|đô thị loại III]].<ref>Chuyển tiếp từ thị trấn Sóc Sơn thuộc huyện Sóc Sơn.</ref><ref>{{Chú thích web |title=Nghị quyết số 111/2025/UBTVQH15 ngày 24 tháng 12 năm 2025 của Ủy ban Thường vụ Quốc hội về phân loại đô thị |url=https://cdn.nhandan.vn/files/f4a4abf7f9a0ba4a91744616546d850872b76917f90d5a74cc9eebef1369fb6f/111.pdf |url-status=dead |archive-url=https://web.archive.org/web/20260814175111/https://cdn.nhandan.vn/files/f4a4abf7f9a0ba4a91744616546d850872b76917f90d5a74cc9eebef1369fb6f/111.pdf |archive-date=2026-08-14 |access-date=2026-07-12 |website=Báo Nhân dân }}</ref>
+
+Ngày 24 tháng 6 năm 2026, thành lập 2 tổ dân phố mới: 1, 2 và 18 thôn mới: Xuân Kỳ, Đông Tảo, Thanh Thủy, Thống Nhất, Hương Đình, Mai Xuân, Mai Sơn, 225, Bắc Lý, Đoài, Đông, Phố Chợ, Xuân Đồng, Vệ Sơn, Lương Châu, Đồng Lạc, Phù Mã, Dược Thượng.<ref>1. Tổ dân phố số 1: Thành lập trên cơ sở sáp nhập nguyên trạng toàn bộ tổ dân phố số 1, tổ dân phố số 2, thôn Xuân Đoài; 2. Tổ dân phố số 2: Thành lập trên cơ sở sáp nhập tổ dân phố số 3, tổ dân phố số 4 và tổ dân phố số 5; 1 phần xóm 2 thôn Dược Thượng (77 hộ), khu Mộc Bài thôn Phù Mã (28 hộ); 3. Thôn Xuân Kỳ: Thành lập trên cơ sở sáp nhập nguyên trạng thôn Cả, thôn Bến, thôn Chôi, thôn 17; 4. Thôn Đông Tảo: Thành lập trên cơ sở sáp nhập nguyên trạng thôn Phú Thọ, thôn Đồng Dành, thôn Yêm; 5. Thôn Thanh Thủy: Thành lập trên cơ sở sáp nhập nguyên trạng thôn Thượng, thôn Đông Thủy; 6. Thôn Thống Nhất: Thành lập trên cơ sở sáp nhập nguyên trạng thôn Ấp Cút, thôn Đông Bài, thôn Lạc Nông, Thôn Hoàng Dương, thôn Đạc Tài; 7. Thôn Hương Đình: Thành lập trên cơ sở sáp nhập nguyên trạng thôn Hương Đình Đoài, thôn Hương Đình Đông, thôn Thế Trạch; 8. Thôn Mai Xuân: Thành lập trên cơ sở sáp nhập toàn bộ thôn Tuyền, thôn Nội Phật; 9. Thôn Mai Sơn: Thành lập trên cơ sở sáp nhập nguyên trạng thôn Mai Đoài, thôn Mai Đông, thôn Mai Nội; 10. Thôn 225: Thành lập trên cơ sở sáp nhập nguyên trạng các Thôn 25, Thôn Đường 2 (Mai Đình); 11. Thôn Bắc Lý: Thành lập trên cơ sở sáp nhập nguyên trạng thôn Bắc Giã; phần lớn thôn Liên Lý (trừ 30 hộ tách về thôn Đoài), phần lớn thôn Đường 2 (Phù Lỗ) (trừ 73 hộ tách về thôn Phố Chợ); 12. Thôn Đoài: Thành lập trên cơ sở sáp nhập các thôn Tây Đoài, thôn Đông Đoài, Khu Xóm Làng; 1 phần thôn Liên Lý (30 hộ); 13. Thôn Đông: Thành lập trên cơ sở sáp nhập nguyên trạng các khu Xóm Cầu, khu Xóm Đồng, khu Trong Ngoài, Khu Xóm Sau, khu Tân Do Xóm Chòm, Thôn Đông; 14. Thôn Phố Chợ: Thành lập trên cơ sở sáp nhập nguyên trạng các thôn Phố Chợ, thôn Đường 3; một phần thôn Đường 2 (Phù Lỗ); 15. Thôn Xuân Đồng: Thành lập trên cơ sở sáp nhập nguyên trạng thôn Xuân Đồng và Khu dân cư 418; 16. Thôn Vệ Sơn: Thành lập trên cơ sở sáp nhập nguyên trạng thôn Vệ Sơn Đông, thôn Vệ Sơn Đoài và khu dân cư Thủy Lợi 2; 17. Thôn Lương Châu: Thành lập trên cơ sở sáp nhập nguyên trạng thôn Lương Châu và thôn Miếu Thờ; 18. Thôn Đồng Lạc: Thành lập trên cơ sở sáp nhập nguyên trạng thôn Đồng Chầm, thôn Đồng Lạc, thôn Thanh Hà; 19. Thôn Phù Mã: Thành lập trên cơ sở thôn Phù Mã trong đó tách 28 hộ khu Mộc Bài về Tổ dân phố số 2; 20. Thôn Dược Thượng: Thành lập trên cơ sở thôn Dược Thượng trong đó tách 77 hộ thuộc xóm 2 về Tổ dân phố số 2; 21. Thôn Vệ Linh: Giữ nguyên thôn Vệ Linh; 22. Thôn Cộng Hòa: Giữ nguyên thôn Cộng Hòa; 23. Thôn Thái Phù: Giữ nguyên thôn Thái Phù; 24. Thôn Đan Tảo: Giữ nguyên thôn Đan Tảo; 25. Thôn Xuân Dục: Giữ nguyên thôn Xuân Dục; 26. Thôn Dược Hạ: Giữ nguyên thôn Dược Hạ.</ref><ref name=":0">{{Chú thích web |title=Thông báo số 1743/TB-UBND ngày 30 tháng 6 năm 2026 của Ủy ban nhân dân xã Sóc Sơn về việc công bố thôn, tổ dân phố sau sắp xếp, tổ chức lại |url=https://socson.hanoi.gov.vn/thong-bao/xa-soc-son-thong-bao-thon-to-dan-pho-sau-sap-xep-to-chuc-lai-2788260701170746606.htm |url-status=dead |archive-url=https://web.archive.org/web/20260705400809/https://socson.hanoi.gov.vn/thong-bao/xa-soc-son-thong-bao-thon-to-dan-pho-sau-sap-xep-to-chuc-lai-2788260701170746606.htm |archive-date=2026-07-05 |access-date=2026-07-05 |website=Trang Thông tin điện tử xã Sóc Sơn – thành phố Hà Nội}}</ref>
+
+== Hành chính==
+Xã Sóc Sơn được chia thành 26 tổ dân phố – thôn, gồm 2 tổ dân phố: 1, 2 và 24 thôn: 225, Bắc Lý, Cộng Hòa, Dược Hạ, Dược Thượng, Đan Tảo, Đoài, Đông, Đông Tảo, Đồng Lạc, Hương Đình, Lương Châu, Mai Sơn, Mai Xuân, Phố Chợ, Phù Mã, Thanh Thủy, Thái Phù, Thống Nhất, Vệ Linh, Vệ Sơn, Xuân Dục, Xuân Đồng, Xuân Kỳ.<ref name=":0" />
+{| class="wikitable sortable" cellpadding="0" cellspacing="6" width="100%" align="center" style="background: #f9f9f9; border: 1px #aaa solid; margin-top: 16px"
+! colspan="4" style="background: #E6E6FA; font-size: 95%;" |Danh sách các tổ dân phố – thôn thuộc xã Sóc Sơn<ref name=":0" />
+|-
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| cellpadding="1" cellspacing="1" width="100%" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| colspan="4" align="left" style="background: #F5F5DC; padding-left: 30px;" |'''Tổ dân phố (2)'''
+|-
+| align="left" |Tổ dân phố 1
+|1.133
+|-
+| align="left" |Tổ dân phố 2
+|1.220
+|-
+| colspan="4" align="left" style="background: #F5F5DC; padding-left: 30px;" |'''Thôn (24)'''
+|-
+| align="left" |Thôn 225
+|1.020
+|-
+| align="left" |Bắc Lý
+|1.109
+|-
+| align="left" |Cộng Hòa
+|905
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| cellpadding="1" cellspacing="1" width="100%" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Dược Hạ
+|1.228
+|-
+| align="left" |Dược Thượng
+|1.631
+|-
+| align="left" |Đan Tảo
+|893
+|-
+| align="left" |Đoài
+|1.332
+|-
+| align="left" |Đông
+|1.848
+|-
+| align="left" |Đông Tảo
+|1.094
+|-
+| align="left" |Đồng Lạc
+|1.227
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| cellpadding="1" cellspacing="1" width="100%" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Hương Đình
+|997
+|-
+| align="left" |Lương Châu
+|1.217
+|-
+| align="left" |Mai Sơn
+|1.086
+|-
+| align="left" |Mai Xuân
+|774
+|-
+| align="left" |Phố Chợ
+|978
+|-
+| align="left" |Phù Mã
+|1.046
+|-
+| align="left" |Thanh Thủy
+|964
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| cellpadding="1" cellspacing="1" width="100%" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Thái Phù
+|1.600
+|-
+| align="left" |Thống Nhất
+|1.408
+|-
+| align="left" |Vệ Linh
+|1.041
+|-
+| align="left" |Vệ Sơn
+|1.612
+|-
+| align="left" |Xuân Dục
+|1.672
+|-
+| align="left" |Xuân Đồng
+|805
+|-
+| align="left" |Xuân Kỳ
+|1.916
+|}
+|}<!-- 
+Xã Mai Đình được thành lập trên cơ sở 2 xã Thái Mai và Đại Đình (1948). Trước cách mạng tháng 8-1945 các thôn của xã Mai Đình ngày nay thuộc về 4 tổng gồm: Phủ Lỗ, Bắc Ninh, Phù Xá và tổng Hương Đình.
+
+ -->
+
+== Di tích – Danh thắng == 
+[[hình:Đền Sóc - NKS.jpg| thumb| trái| [[Đền Sóc]]]]
+* Quần thể di tích [[Đền Sóc]] – [[Chùa Non Nước (Hà Nội)|Chùa Non Nước]]
+* Đình Mai Nội xã Mai Đình là di tích lịch sử văn hóa lâu đời thờ [[Nguyễn Bặc]] (với biệt danh Quang Minh) là vị [[tướng nhà Đinh]], có công lớn giúp [[Đinh Tiên Hoàng]] đánh dẹp [[loạn 12 sứ quân]]. Tể tướng [[Nguyễn Bặc]], Ngoại giáp [[Đinh Điền]], Thượng thư [[Trịnh Tú]], Thái sư [[Lưu Cơ]] được tôn vinh là Tứ trụ triều Đinh. Đình làng Hoàng Dương là di tích lịch sử văn hóa nghệ thuật được xếp hạng cấp thành phố.
+
+== Hình ảnh== 
+<gallery>
+TTSS2.jpg| Núi Đôi
+NuiDoiSocSon.jpg| Cánh đồng dưới chân [[Núi Đôi (Sóc Sơn)|núi Đôi]] 
+NuiDoi road.jpg| Đường Núi Đôi
+Da Phuc road.jpg| Đường Đa Phúc
+ThitranSocSon.jpg| Trung tâm xã
+SocSontown.jpg| Đường phố gần [[Chợ Sóc Sơn]]
+Da Phuc road.jpg| Đường Đa Phúc 
+Dong Quan lake - NKS.jpg| [[Hồ Đồng Quan]]
+</gallery>
+
+== Chú thích== 
+{{tham khảo}}
+
+== Tham khảo== 
+{{sơ khai Hà Nội}}
+{{Đơn vị hành chính thuộc thành phố Hà Nội}}

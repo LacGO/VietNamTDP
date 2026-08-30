@@ -1,0 +1,433 @@
+{{Thông tin đơn vị hành chính Việt Nam |Xã
+| tên = Đông Anh
+| hình = A street in Đông Anh Commune.jpg
+| ghi chú hình = Một đoạn đường Cao Lỗ 
+| vĩ độ = 21.14045726512604
+| kinh độ = 105.84919256088658
+| diện tích = 48,68 km²
+| dân số = 118.183 người
+| thời điểm dân số = 2025
+| mật độ dân số = {{formatnum:{{#expr:floor({{formatnum:118.183| R}}/{{formatnum:48,68| R}})}} }} người/km²
+| vùng = [[Đồng bằng sông Hồng]]
+| thành phố = [[Hà Nội]]
+| thành lập = 
+| trụ sở UBND = Số 66 đường Cao Lỗ<ref>{{Chú thích web |url=https://storage-vnportal.vnpt.vn/gov-hni/6244/VanBan/2025/6/25/TB-729-2025.pdf |title=Thông báo số 729/TB-UBND ngày 25 tháng 6 năm 2025 của Ủy ban nhân dân thành phố Hà Nội về địa điểm trụ sở làm việc của 126 phường, xã sau sắp xếp thuộc phạm vi quản lý của thành phố Hà Nội|access-date=2026-06-15 |archive-date=2026-06-15 |archive-url=https://web.archive.org/web/20260615034519/https://storage-vnportal.vnpt.vn/gov-hni/6244/VanBan/2025/6/25/TB-729-2025.pdf |url-status=dead | website = Cổng Thông tin điện tử Ủy ban nhân dân thành phố Hà Nội}}</ref>
+| mã hành chính =00454<ref>{{Chú thích web |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/19ttg.signed.pdf |title=Quyết định số 19/2025/QĐ-TTg ngày 30 tháng 6 năm 2025 của Thủ tướng Chính phủ về việc Ban hành Bảng danh mục và mã số các đơn vị hành chính Việt Nam |access-date=2026-06-15 |archive-date=2026-06-15 |archive-url=https://web.archive.org/web/20260615034519/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/19ttg.signed.pdf |url-status=dead | website = Cổng Thông tin điện tử Chính phủ}}</ref> 
+| mã bưu chính = 
+| web ={{url|donganh.hanoi.gov.vn}} 
+| bản đồ 1 = {{maplink|frame=yes|plain=yes|type=shape|frame-width=280|frame-align=center|stroke-width=3}}|trụ sở Đảng ủy=Số 66 đường Cao Lỗ}}
+{{other|Đông Anh (định hướng)}}
+'''Đông Anh''' là một [[xã (Việt Nam)|xã]] thuộc thành phố [[Hà Nội]], [[Việt Nam]].
+
+== Địa lý ==
+Xã Đông Anh có vị trí địa lý:
+
+* Phía đông giáp xã [[Phù Đổng (xã)|Phù Đổng]]
+* Phía tây giáp xã [[Phúc Thịnh]], xã [[Vĩnh Thanh, Hà Nội|Vĩnh Thanh]] và phường [[Hồng Hà (phường)|Hồng Hà]]
+* Phía nam giáp phường [[Bồ Đề (phường)|Bồ Đề]] và phường [[Việt Hưng, Hà Nội|Việt Hưng]] với ranh giới tự nhiên là [[sông Đuống]]
+* Phía bắc giáp xã [[Thư Lâm]].<ref>{{Chú thích web |last=Viện nghiên cứu Phát triển kinh tế – xã hội Hà Nội |date=2025-07-02 |title=Xã Đông Anh: Những thông tin chi tiết sau sắp xếp |url=https://hanoionline.vn/xa-dong-anh-nhung-thong-tin-chi-tiet-sau-sap-xep-343979.htm |url-status=live |archive-url=https://web.archive.org/web/20260701400809/https://hanoionline.vn/xa-dong-anh-nhung-thong-tin-chi-tiet-sau-sap-xep-343979.htm |archive-date=2026-07-01 |access-date=2026-07-01 |website=Cơ quan Báo và Phát thanh Truyền hình Hà Nội}}</ref><ref>{{Chú thích web |url=https://hanoionline.vn/xa-dong-anh-tat-ca-thong-tin-chi-dan-ban-can-biet-345636.htm |title=Xã Đông Anh: Tất cả thông tin chỉ dẫn bạn cần biết |archive-url=https://web.archive.org/web/20260711401509/https://hanoionline.vn/xa-dong-anh-tat-ca-thong-tin-chi-dan-ban-can-biet-345636.htm |archive-date=2026-07-11 |url-status=live|last=Cơ quan Báo và Phát thanh Truyền hình Hà Nội|date=2025-07-09|access-date=2026-07-11}}</ref>
+Xã Đông Anh có diện tích tự nhiên là 48,68&nbsp;km<sup>2</sup>, quy mô dân số năm 2025 là 118.183 người và mật độ dân số đạt 2.427 người/km<sup>2</sup>.<ref>{{Chú thích web |last=Mai Hữu|date=2026-04-05|title=Hà Nội: Chi tiết phương án tổng thể sắp xếp đơn vị hành chính cấp xã|url=https://hanoimoi.vn/ha-noi-chi-tiet-phuong-an-tong-the-sap-xep-don-vi-hanh-chinh-cap-xa-700278.html|url-status=live|archive-url=https://web.archive.org/web/20260711401509/https://hanoimoi.vn/ha-noi-chi-tiet-phuong-an-tong-the-sap-xep-don-vi-hanh-chinh-cap-xa-700278.html|archive-date=2026-07-11|access-date=2026-07-11|website=Cơ quan Báo và Phát thanh, truyền hình Hà Nội}}</ref><ref>Công văn số 2896/BNV-CQĐP ngày 27 tháng 5 năm 2025 của Bộ Nội vụ về việc cung cấp thông tin danh mục dự kiến đơn vị hành chính cấp xã mới.</ref>
+
+== Lịch sử==
+
+=== Trước năm 1976 ===
+Đầu thế kỉ XIX, xã Đông Anh là vùng đất thuộc các tổng Tuân Lề, Xuân Canh, Phù Lỗ, Cổ Loa, Hà Lỗ, Hội Phụ.
+
+Năm 1919, xã Đông Hội thuộc tổng Hội Phụ, huyện Từ Sơn, tỉnh Bắc Ninh.
+
+Sau Cách mạng tháng Tám năm 1945:
+
+* Hợp nhất ba xã: Dục Nội, Gia Lộc, Lương Quán thành xã Âu Lạc và xã Lỗ Giao sáp nhập vào xã Phúc Tiến.
+* Hợp nhất ba xã: Hà Lỗ, Thù Lỗ, Lỗ khê nhập thành xã Ngũ Hà thuộc huyện Từ Sơn, tỉnh Bắc Ninh.
+
+Năm 1946:
+
+* Hợp nhất xã Đông Trù và xã Đông Ngàn thành xã Song Đông thuộc huyện Từ Sơn, tỉnh Bắc Ninh.
+* Xã Tiên Dương được gọi là xã Ngũ Lão với 6 thôn: Cổ Dương, Tuân Lề, Lễ Pháp, Tiên Kha, Trung Oai, Trầm Mỏ (tức Lương Nỗ sau này).
+
+Ngày 27 tháng 3 năm 1946, hợp nhất 3 xã Chiêm Trạch, Ngọc Giang và Phương Trạch thành xã Tân Trạch.
+
+Tháng 4 năm 1949, xã Liên Hà thuộc huyện Từ Sơn, tỉnh Bắc Ninh được thành lập trên cơ sở sáp nhập xã Ngũ Hà và xã Hà Vĩ.<ref name="ĐA2">{{chú thích sách |author=UBND huyện Đông Anh |url=https://donganh.hanoi.gov.vn/documents/6071114/6720657/D%E1%BB%B1+th%E1%BA%A3o+%C4%91%E1%BB%81+%C3%A1n+qu%E1%BA%ADn+%C4%90%C3%B4ng+Anh.pdf |title=Dự thảo Đề án thành lập quận Đông Anh và các phường thuộc quận Đông Anh, thành phố Hà Nội |year=2023 |location=Đông Anh, Hà Nội |p=89-90 |archive-url=https://web.archive.org/web/20230712081151/https://donganh.hanoi.gov.vn/documents/6071114/6720657/D%E1%BB%B1+th%E1%BA%A3o+%C4%91%E1%BB%81+%C3%A1n+qu%E1%BA%ADn+%C4%90%C3%B4ng+Anh.pdf |archive-date=2023-07-12 |url-status=live}}</ref>
+
+Tháng 5 năm 1949:
+
+* Hợp nhất hai xã: Âu Lạc, Uy Sơn và 2 thôn: Lỗ Giao, Quản Tỉnh của xã Phúc Tiến thành xã Việt Hùng thuộc huyện Đông Anh, tỉnh Phúc Yên.
+* Hợp nhất ba xã: Hội Phụ, Tiên Hội và Song Đông thành xã Đông Hội thuộc huyện Từ Sơn, tỉnh Bắc Ninh.<ref name="ĐA3">{{chú thích sách |author=UBND huyện Đông Anh |url=https://donganh.hanoi.gov.vn/documents/6071114/6720657/D%E1%BB%B1+th%E1%BA%A3o+%C4%91%E1%BB%81+%C3%A1n+qu%E1%BA%ADn+%C4%90%C3%B4ng+Anh.pdf |title=Dự thảo Đề án thành lập quận Đông Anh và các phường thuộc quận Đông Anh, thành phố Hà Nội |year=2023 |location=Đông Anh, Hà Nội |p=60-61 |archive-url=https://web.archive.org/web/20230712081151/https://donganh.hanoi.gov.vn/documents/6071114/6720657/D%E1%BB%B1+th%E1%BA%A3o+%C4%91%E1%BB%81+%C3%A1n+qu%E1%BA%ADn+%C4%90%C3%B4ng+Anh.pdf |archive-date=2023-07-12 |url-status=live}}</ref>
+* Hợp nhất ba xã: Ngũ Lão, Tân Trạch, Vân Long thành xã Toàn Thắng.
+
+Tháng 3 năm 1955, chia xã Toàn Thắng thành 3 xã: Tân Trạch, Ngũ Lão, Vân Long.
+
+Tháng 5 năm 1955, chia xã Việt Hùng thành xã Việt Hùng và xã Uy Sơn.<ref name="ĐA">{{chú thích sách |author=UBND huyện Đông Anh |url=https://donganh.hanoi.gov.vn/documents/6071114/6720657/D%E1%BB%B1+th%E1%BA%A3o+%C4%91%E1%BB%81+%C3%A1n+qu%E1%BA%ADn+%C4%90%C3%B4ng+Anh.pdf |title=Dự thảo Đề án thành lập quận Đông Anh và các phường thuộc quận Đông Anh, thành phố Hà Nội |year=2023 |location=Đông Anh, Hà Nội |p=143-144 |archive-url=https://web.archive.org/web/20230712081151/https://donganh.hanoi.gov.vn/documents/6071114/6720657/D%E1%BB%B1+th%E1%BA%A3o+%C4%91%E1%BB%81+%C3%A1n+qu%E1%BA%ADn+%C4%90%C3%B4ng+Anh.pdf |archive-date=2023-07-12 |url-status=live}}</ref>
+
+Tháng 2 năm 1956, đổi tên xã Tân Trạch thành xã Tân Tiến.
+
+Tháng 10 năm 1965, xã Toàn Thắng đổi tên thành xã Tiên Dương.
+
+Ngày 20 tháng 4 năm 1961, Quốc hội ban hành Nghị quyết về việc mở rộng thành phố Hà Nội. Theo đó:
+
+* Sáp nhập Việt Hùng vào thành phố Hà Nội quản lý.
+* Sáp nhập xã Liên Hà thuộc huyện Từ Sơn, tỉnh Bắc Ninh vào huyện Đông Anh, thành phố Hà Nội quản lý.
+* Sáp nhập xã Tân Tiến vào thành phố Hà Nội.
+
+Ngày 31 tháng 5 năm 1961, Hội đồng Chính phủ ban hành 78-CP. Theo đó:
+
+* Sáp nhập xã Đông Hội (gồm 6 làng: Hội Phụ, Lại Đà, Đông Trù, Đông Ngàn, Tiên Hội, Trung Thôn) của huyện Từ Sơn, tỉnh Bắc Ninh vào huyện Đông Anh, thành phố Hà Nội quản lý.
+* Xã Việt Hùng thuộc huyện Đông Anh, thành phố Hà Nội quản lý.
+* Xã Tân Tiến thuộc huyện Đông Anh, thành phố Hà Nội quản lý.
+
+Năm 1965, đổi tên xã Tân Tiến thành xã Vĩnh Ngọc.<ref name="ĐA4">{{chú thích sách |author=UBND huyện Đông Anh |url=https://donganh.hanoi.gov.vn/documents/6071114/6720657/D%E1%BB%B1+th%E1%BA%A3o+%C4%91%E1%BB%81+%C3%A1n+qu%E1%BA%ADn+%C4%90%C3%B4ng+Anh.pdf |title=Dự thảo Đề án thành lập quận Đông Anh và các phường thuộc quận Đông Anh, thành phố Hà Nội |year=2023 |location=Đông Anh, Hà Nội |p=149-150 |archive-url=https://web.archive.org/web/20230712081151/https://donganh.hanoi.gov.vn/documents/6071114/6720657/D%E1%BB%B1+th%E1%BA%A3o+%C4%91%E1%BB%81+%C3%A1n+qu%E1%BA%ADn+%C4%90%C3%B4ng+Anh.pdf |archive-date=2023-07-12 |url-status=live}}</ref>
+
+=== Giai đoạn 1976 – nay ===
+Sau ngày 2 tháng 7 năm 1976, 13 xã: Cổ Loa, Dục Tú, Đông Hội, Liên Hà, Mai Lâm, Nguyên Khê, Tàm Xá, Tiên Dương, Uy Nỗ, Việt Hùng, Vĩnh Ngọc, Xuân Canh và Xuân Nộn thuộc huyện [[Đông Anh (huyện)|Đông Anh]] của thành phố [[Hà Nội]].
+
+Ngày 13 tháng 10 năm 1982, thành lập thị trấn Đông Anh gồm đất của 4 xã Xuân Nộn, Nguyên Khê, Tiên Dương và Uy Nỗ.<ref>{{Chú thích web |title=Quyết định số 173-HĐBT ngày 13 tháng 10 năm 1982 của Hội đồng Bộ trưởng về việc phân vạch địa giới một số phường và thị trấn thuộc thành phố Hà Nội |url=https://chinhphu.vn/default.aspx?pageid=27160&docid=6408 |url-status=live |archive-url=https://web.archive.org/web/20260706400809/https://chinhphu.vn/default.aspx?pageid=27160&docid=6408 |archive-date=2026-07-06 |access-date=2026-07-06 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+
+Ngày 16 tháng 6 năm 2025:
+
+* Kết thúc hoạt động của đơn vị hành chính cấp huyện trong cả nước.<ref>{{Chú thích web |last= |date= |title=Nghị quyết số 203/2025/QH15 ngày 16 tháng 6 năm 2025 của Quốc hội khóa XV, Kỳ họp thứ 9 về việc sửa đổi, bổ sung một số điều của Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/nq-sua-doi-hien-phap.pdf |url-status=live |archive-url=https://web.archive.org/web/20260613090807/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/nq-sua-doi-hien-phap.pdf |archive-date=2026-06-13 |access-date=2026-06-13 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+* Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của các xã Cổ Loa, Đông Hội, Mai Lâm, một phần diện tích tự nhiên, quy mô dân số của thị trấn Đông Anh và các xã Tàm Xá, Tiên Dương, Vĩnh Ngọc, Xuân Canh, phần còn lại của các xã Liên Hà, Dục Tú, Uy Nỗ, Việt Hùng (huyện [[Đông Anh (huyện)|Đông Anh]]) thành xã mới có tên gọi là xã Đông Anh.<ref>{{Chú thích web |title=Nghị quyết số 1656/NQ-UBTVQH15 ngày 16 tháng 6 năm 2025 của Ủy ban Thường vụ Quốc hội về việc sắp xếp các đơn vị hành chính cấp xã của thành phố Hà Nội năm 2025 |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf |url-status=live |archive-url=https://web.archive.org/web/20260630400809/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf |archive-date=2026-06-30 |access-date=2026-06-30 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+* Sau khi sắp xếp, xã Đông Anh được chia thành 72 tổ dân phố – thôn, gồm 10 tổ dân phố và 62 thôn.<ref>17 thôn: Cầu Cả, Chợ, Chùa, Dõng, Gà, Hương, Lan Trì, Mạch Tràng, Mít, Nhồi Dưới, Nhồi Trên, Phố Chợ, Sằn, Thượng và Vang của xã Cổ Loa cũ; 6 thôn: Đông Ngàn, Đông Trù, Hội Phụ, Lại Đà, Tiên Hội và Trung Thôn của xã Đông Hội cũ; 8 thôn: Du Ngoại, Du Nội, Khu tập thể Địa Chất, Lê Xá, Lộc Hà, Mai Hiên, Phúc Thọ và Thái Bình của xã Mai Lâm cũ; 6 thôn: Lực Canh, Vạn Lộc, Văn Thượng, Văn Tinh, Xuân Canh và Xuân Trạch của xã Xuân Canh cũ; 9 thôn: Dục Tú từ 1 đến 3, Đồng Dầu, Lý Nhân, Nghĩa Vũ, Phúc Hậu 1, 2 và Thạc Quả của xã Dục Tú cũ; 13 thôn: Ấp Tó, Bãi, Chợ, Đài Bi, Đản Dị, Đản Mỗ, Hậu, Nghĩa Lại, Ngoài, Phan Xá, Phúc Lộc, Thượng và Trong của xã Uy Nỗ cũ; 5 thôn: Đoài, Đông, Gia Lộc, Lương Quán và Trung của xã Việt Hùng cũ; 10 tổ dân phố, đánh số từ 1 đến 4, 6 và từ 35 đến 39 của thị trấn Đông Anh cũ.</ref><ref>{{Chú thích web |title=Thông tư số 10/2022/TT-BTNMT ngày 29 tháng 9 năm 2022 của Bộ Tài nguyên và Môi trường về việc Ban hành Danh mục địa danh dân cư, sơn văn, thủy văn, kinh tế – xã hội phục vụ công tác thành lập bản đồ thành phố Hà Nội |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2022/10/10-btnmt.pdf |url-status=live |archive-url=https://web.archive.org/web/20260630400809/https://datafiles.chinhphu.vn/cpp/files/vbpq/2022/10/10-btnmt.pdf |archive-date=2026-06-30 |access-date=2026-06-30 |website=Cổng Thông tin điện tử Chính phủ}}</ref><ref name=":0">{{Chú thích web |last=Trang Thông tin điện tử xã Đông Anh – thành phố Hà Nội |date=2026-03-03 |title=Danh sách trích ngang ứng cử viên đại biểu Hội đồng nhân dân xã Đông Anh |url=https://donganh.hanoi.gov.vn/bau-cu/danh-sach-trich-ngang-ung-cu-vien-dai-bieu-hdnd-xa-dong-anh-2834260303163201247.htm |url-status=live |archive-url=https://web.archive.org/web/20260701400809/https://donganh.hanoi.gov.vn/bau-cu/danh-sach-trich-ngang-ung-cu-vien-dai-bieu-hdnd-xa-dong-anh-2834260303163201247.htm |archive-date=2026-07-01 |access-date=2026-07-01 |website=}}</ref>
+
+Ngày 24 tháng 12 năm 2025, xác định một phần của xã Đông Anh là [[Đô thị Việt Nam|đô thị loại III]].<ref>Chuyển tiếp từ thị trấn Đông Anh thuộc huyện Đông Anh.</ref><ref>{{Chú thích web |title=Nghị quyết số 111/2025/UBTVQH15 ngày 24 tháng 12 năm 2025 của Ủy ban Thường vụ Quốc hội về phân loại đô thị|url=https://cdn.nhandan.vn/files/f4a4abf7f9a0ba4a91744616546d850872b76917f90d5a74cc9eebef1369fb6f/111.pdf|url-status=dead|archive-url=https://web.archive.org/web/20260712401509/https://cdn.nhandan.vn/files/f4a4abf7f9a0ba4a91744616546d850872b76917f90d5a74cc9eebef1369fb6f/111.pdf|archive-date=2026-07-12|access-date=2026-07-12|website=Báo Nhân dân}}</ref>
+
+Ngày 29 tháng 6 năm 2026, đổi tên 5 thôn: Đoài, Trung, Đông, Thượng – Cổ Loa và Thượng – Uy Nỗ lần lượt thành 5 thôn: Cổ Vân, Dục Nội, Việt Hùng, Thượng Thư và Thượng Oai; thành lập 21 thôn mới: Cổ Loa, Đa Vang, Cầu Cả, Hồng Lạc, Thục Vương, Hùng Sơn, Oai Nỗ, Uy Nỗ, Cường Nỗ, Đông Anh, Uy Sơn, Đản Mỗ, Gia Lương, Xuân Canh, Thượng Lộc, Thái Bình, Mai Lâm, Đồng Dầu, Phúc Hậu, Dục Tú và Đông Hội.<ref>1. Giữ nguyên hiện trạng các thôn: Đông Trù, Lực Canh, Xuân Trạch, Mạch Tràng, Lộc Hà, Lý Nhân, Lại Đà, Đông Ngàn, Mai Hiên và Hội Phụ; 2. Giữ nguyên hiện trạng và đổi tên đối với các thôn: thôn Đoài đổi tên thành thôn Cổ Vân, thôn Trung đổi tên thành thôn Dục Nội, thôn Đông đổi tên thành thôn Việt Hùng, thôn Thượng đổi tên thành thôn Thượng Thư, thôn Thượng (bao gồm khu đô thị G6, 319) thành thôn Thượng Oai; 3. Thôn Cổ Loa được ghép từ thôn Chùa, thôn Mít, thôn Chợ (Cổ Loa); 4. Thôn Đa Vang được ghép từ thôn Vang, thôn Phố Chợ; 5. Thôn Cầu Cả được ghép từ thôn Sằn (bao gồm cả khu Xưởng Phim), thôn Cầu Cả (bao gồm cả khu dân cư Vĩnh Thanh trục Quốc lộ 3); 6. Thôn Hồng Lạc được ghéo từ thôn Nhồi Dưới, thôn Nhồi Trên, thôn Hương; 7. Thôn Thục Vương được ghép từ thôn Lan Trì, thôn Gà, thôn Dõng; 8. Thôn Hùng Sơn được ghép từ thôn Đài Bi, thôn Nghĩa Lại, thôn Phúc Lộc; 9. Thôn Oai Nỗ được ghép từ tổ dân phố số 38, tổ dân phố số 39, thôn Hậu, thôn Bãi (Uy Nỗ); 10. Thôn Cường Nỗ được ghép từ thôn Đản Dị, thôn Phan Xá; 11. Thôn Đông Anh được ghép từ tổ dân phố số 1, tổ dân phố số 2, tổ dân phố số 3, tổ dân phố số 4; 12. Thôn Uy Sơn được ghép từ tổ dân phố số 35, tổ dân phố số 36, tổ dân phố số 37, thôn Ấp Tó; 13. Thôn Đản Mỗ được ghép từ tổ dân phố số 6, thôn Đản Mỗ; 14. Thôn Gia Lương được ghép từ thôn Lương Quán, thôn Gia Lộc; 15. Thôn Xuân Canh được ghép từ thôn Xuân Canh, thôn Văn Vinh; 16. Thôn Thượng Lộc được ghép từ thôn Vân Thượng, thôn Vạn Lộc; 17. Thôn Thái Bình được ghép từ thôn Thái Bình, thôn Phúc Thọ, thôn Lê Xá; 18. Thôn Mai Lâm được ghép từ thôn Du Nội, thôn Du Ngoại, Khu tập thể địa chất; 19. Thôn Đồng Dầu được ghép từ thôn Đồng Dầu, thôn Nghĩa Vũ; 20. Thôn Phúc Hậu được ghép từ thôn Phúc Hậu 1, thôn Phúc Hậu 2, thôn Thạc Quả; 21. Thôn Dục Tú được ghép từ thôn Dục Tú 1, thôn Dục Tú 2, thôn Dục Tú 3; 22. Thôn Đông Hội được ghép từ thôn Trung Thôn, thôn Tiên Hội.</ref><ref name=":1">{{Chú thích web |last=Trang Thông tin điện tử xã Đông Anh – thành phố Hà Nội |date=2026-06-18 |title=Xã Đông Anh công khai dự thảo Đề án sắp xếp thôn, tổ dân phố và tổ chức lấy ý kiến Cử tri đại diện hộ gia đình trên địa bàn |url=https://donganh.hanoi.gov.vn/chi-dao-cua-dia-phuong/xa-dong-anh-cong-khai-du-thao-de-an-sap-xep-thonto-dan-pho-va-to-chuc-lay-y-kien-cu-tri-dai-dien-ho-gia-dinh-tren-dia-ban-2834260617182703871.htm |url-status=live |archive-url=https://web.archive.org/web/20260708401509/https://donganh.hanoi.gov.vn/chi-dao-cua-dia-phuong/xa-dong-anh-cong-khai-du-thao-de-an-sap-xep-thonto-dan-pho-va-to-chuc-lay-y-kien-cu-tri-dai-dien-ho-gia-dinh-tren-dia-ban-2834260617182703871.htm |archive-date=2026-07-08 |access-date=2026-07-08}}</ref><ref name=":3">{{Chú thích web |last=24h Đông Anh – thành phố Hà Nội |date=2026-06-18 |title=Dự thảo đề án sắp xếp thôn, tổ dân phố trên địa bàn xã Đông Anh |url=https://web.facebook.com/story.php?story_fbid=1013703561029959&id=100071709720099&rdid=9eHFEEe4asi2rTOc# |url-status=dead |archive-url=https://web.archive.org/web/20260720401509/https://web.facebook.com/story.php?story_fbid=1013703561029959&id=100071709720099&rdid=9eHFEEe4asi2rTOc# |archive-date=2026-07-20 |access-date=2026-07-20}}</ref><ref name=":2">{{Chú thích web |last=Mai Khôi – Hồng Hạnh |date=2026-06-29 |title=Đông Anh thông qua đề án sắp xếp thôn, tổ dân phố, tạo nền tảng xây dựng phường |url=https://hanoimoi.vn/dong-anh-thong-qua-de-an-sap-xep-thon-to-dan-pho-tao-nen-tang-xay-dung-phuong-1209688.html?gidzl=MmOt24Ux87fV6JCEJQObT5GPC0LGzojq6qzeKrBxSt594cK2MgSaTH5DOmPOydbo54Tj0sKgZ293GheaU0 |url-status=live |archive-url=https://web.archive.org/web/20260708401509/https://hanoimoi.vn/dong-anh-thong-qua-de-an-sap-xep-thon-to-dan-pho-tao-nen-tang-xay-dung-phuong-1209688.html?gidzl=MmOt24Ux87fV6JCEJQObT5GPC0LGzojq6qzeKrBxSt594cK2MgSaTH5DOmPOydbo54Tj0sKgZ293GheaU0 |archive-date=2026-07-08 |access-date=2026-07-08 |website=Cơ quan Báo và Phát thanh, truyền hình Hà Nội}}</ref><!-- 
+== Lịch sử== 
+Đầu thế kỷ XIX, xã Đông Hội bao gồm bốn xã: Hội Phụ (gồm 2 làng: Cự Trình, Lại Đà); Đông Ngàn (gồm 4 xóm: Long Tửu, Thượng, Trung, Hạ); Đông Trù và Tiên Hội (gồm 2 làng: Nội Thôn, Trung Thôn) thuộc tổng Hội Phụ, huyện Đông Ngàn, phủ Từ Sơn. Lần lượt thuộc trấn Kinh Bắc (năm [[1802]]), trấn Bắc Ninh (năm [[1820]]) và tỉnh Bắc Ninh (năm [[1831]]).
+
+Năm [[1919]], xã Đông Hội thuộc tổng Hội Phụ, huyện Từ Sơn, tỉnh Bắc Ninh.
+
+Năm [[1946]], hợp nhất xã Đông Trù và xã Đông Ngàn thành xã Song Đông thuộc huyện Từ Sơn, tỉnh Bắc Ninh.
+
+Năm [[1949]], ba xã: Hội Phụ, Tiên Hội và Song Đông được sáp nhập thành xã Đông Hội thuộc huyện Từ Sơn, tỉnh Bắc Ninh.<ref name = ĐA>{{chú thích sách| author = UBND huyện Đông Anh | url = https://donganh.hanoi.gov.vn/documents/6071114/6720657/D%E1%BB%B1+th%E1%BA%A3o+%C4%91%E1%BB%81+%C3%A1n+qu%E1%BA%ADn+%C4%90%C3%B4ng+Anh.pdf| title = Dự thảo Đề án thành lập quận Đông Anh và các phường thuộc quận Đông Anh, thành phố Hà Nội | year = 2023 | location = Đông Anh, Hà Nội | p = 60-61 | url-status = live| archive-url = https://web.archive.org/web/20230712081151/https://donganh.hanoi.gov.vn/documents/6071114/6720657/D%E1%BB%B1+th%E1%BA%A3o+%C4%91%E1%BB%81+%C3%A1n+qu%E1%BA%ADn+%C4%90%C3%B4ng+Anh.pdf| archive-date = 2023-07-12}}</ref>
+
+Ngày [[31 tháng 5]] năm [[1961]], Hội đồng Chính phủ ban hành 78-CP<ref>{{Chú thích web| url = https://m.thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-78-CP-chia-khu-vuc-noi-ngoai-thanh-thanh-pho-Ha-Noi-20286.aspx| tựa đề = Quyết định số 78-CP năm 1961 chia các khu vực nội thành và ngoại thành của Thành phố Hà Nội | tác giả = | ngày = | website = Thư viện Pháp luật | url lưu trữ = | ngày lưu trữ = | ngày truy cập = }}</ref> về việc sáp nhập xã Đông Hội (gồm 6 làng: Hội Phụ, Lại Đà, Đông Trù, Đông Ngàn, Tiên Hội, Trung Thôn) của huyện Từ Sơn, tỉnh Bắc Ninh vào huyện Đông Anh, thành phố Hà Nội quản lý.
+
+== Giao thông== 
+Các tuyến, hệ thống giao thông quan trọng đi qua xã:
+* Quốc lộ 5 (đường 5 kéo dài: khu công nghiệp Thăng Long - Cầu Chui)
+* Quốc lộ 3: Hà Nội - Cao Bằng
+* Đường đê tả Đuống
+* Đường sông: Sông Đuống, sông Ngũ Huyện Khê
+* Hệ thống xe buýt: 15, 17, 43, 46, 65, 122.
+
+== Danh nhân== 
+*Tổng bí thư [[Nguyễn Phú Trọng]] sinh năm 1944, quê ở thôn Lại Đà.
+
+== Lịch sử== 
+Trước kia, vùng đất là xã Tiên Dương ngày nay thuộc tổng Tuân Lệ, huyện Đông Ngàn, phủ Từ Sơn, trấn Kinh Bắc.<ref name = ĐA>{{chú thích sách| author = UBND huyện Đông Anh | url = https://donganh.hanoi.gov.vn/documents/6071114/6720657/D%E1%BB%B1+th%E1%BA%A3o+%C4%91%E1%BB%81+%C3%A1n+qu%E1%BA%ADn+%C4%90%C3%B4ng+Anh.pdf| title = Dự thảo Đề án thành lập quận Đông Anh và các phường thuộc quận Đông Anh, thành phố Hà Nội | year = 2023 | location = Đông Anh, Hà Nội | p = 122-123 | url-status = live| archive-url = https://web.archive.org/web/20230712081151/https://donganh.hanoi.gov.vn/documents/6071114/6720657/D%E1%BB%B1+th%E1%BA%A3o+%C4%91%E1%BB%81+%C3%A1n+qu%E1%BA%ADn+%C4%90%C3%B4ng+Anh.pdf| archive-date = 2023-07-12}}</ref>
+
+Năm [[1946]], xã Tiên Dương được gọi là xã Ngũ Lão với 6 thôn: Cổ Dương, Tuân Lề, Lễ Pháp, Tiên Kha, Trung Oai, Trầm Mỏ (tức Lương Nỗ sau này).
+
+Năm [[1949]], xã Ngũ Lão hợp nhất với các xã Tân Trạch, Vân Long thành xã Toàn Thắng.
+ 
+Năm [[1955]], xã Toàn Thắng chia thành 3 xã:
+*Xã Vân Long đổi tên thành xã Liên Hiệp (nay là xã Vân Nội)
+*Xã Tân Trạch đổi tên thành xã Tân Tiến (nay là xã Vĩnh Ngọc)
+*Xã Ngũ Lão đổi tên thành xã Toàn Thắng.
+
+[[Tháng 10]] năm [[1965]], xã Toàn Thắng đổi tên thành xã Tiên Dương.
+
+Ngày [[13 tháng 10]] năm [[1982]], Hội đồng Bộ trưởng ban hành Quyết định số 173-HĐBT<ref name = 173-HĐBT>{{Chú thích web| url = https://m.thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-173-HDBT-phan-vach-dia-gioi-phuong-va-thi-tran-thanh-pho-Ha-Noi-43981.aspx| tựa đề = Quyết định số 173-HĐBT năm 1982 của Hội đồng Bộ trưởng về việc phân vạch địa giới một số phường và thị trấn thuộc thành phố Hà Nội | tác giả = | ngày = | website = Thư viện Pháp luật | url lưu trữ = | ngày lưu trữ = | ngày truy cập = }}</ref> về việc thành lập thị trấn Đông Anh trên cơ sở một phần diện tích tự nhiên và dân số của Tiên Dương.
+
+== Lịch sử== 
+Đầu thế kỷ XIX, khu vực xã Vĩnh Ngọc hiện nay thuộc tổng Cổ Loa, huyện Đông Ngàn, phủ Từ Sơn, trấn Kinh Bắc. Lúc bấy giờ xã Vĩnh Ngọc được chia thành 3 xã: Chiêm Trạch, Ngọc Giang và Phương Trạch.
+
+Ngày [[27 tháng 3]] năm [[1946]], hợp nhất 3 xã Chiêm Trạch, Ngọc Giang và Phương Trạch thành xã Tân Trạch.
+
+Ngày [[19 tháng 5]] năm [[1949]], hợp nhất 3 xã Tân Trạch, Ngũ Lão và Vân Long thành xã Toàn Thắng.
+
+[[Tháng 3]] năm [[1955]], chia xã Toàn Thắng thành 3 xã: Tân Trạch, Ngũ Lão, Vân Long.
+
+[[Tháng 2]] năm [[1956]], đổi tên xã Tân Trạch thành xã Tân Tiến.
+
+Ngày [[20 tháng 4]] năm [[1961]], Quốc hội ban hành Nghị quyết<ref>{{Chú thích web| url = https://m.thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Nghi-Quyet-mo-rong-thanh-pho-Ha-Noi-42689.aspx| tựa đề = Nghị quyết về việc mở rộng thành phố Hà Nội | tác giả = | ngày = | website = Thư viện Pháp luật | url lưu trữ = | ngày lưu trữ = | ngày truy cập = }}</ref> về việc sáp nhập xã Tân Tiến vào thành phố Hà Nội.
+
+Ngày [[31 tháng 5]] năm [[1961]], Hội đồng Chính phủ ban hành 78-CP<ref>{{Chú thích web| url = https://m.thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-78-CP-chia-khu-vuc-noi-ngoai-thanh-thanh-pho-Ha-Noi-20286.aspx| tựa đề = Quyết định số 78-CP năm 1961 chia các khu vực nội thành và ngoại thành của Thành phố Hà Nội | tác giả = | ngày = | website = Thư viện Pháp luật | url lưu trữ = | ngày lưu trữ = | ngày truy cập = }}</ref>. Theo đó, xã Tân Tiến thuộc huyện Đông Anh, thành phố Hà Nội quản lý.
+
+Năm [[1965]], đổi tên xã Tân Tiến thành xã Vĩnh Ngọc.<ref name = ĐA>{{chú thích sách| author = UBND huyện Đông Anh | url = https://donganh.hanoi.gov.vn/documents/6071114/6720657/D%E1%BB%B1+th%E1%BA%A3o+%C4%91%E1%BB%81+%C3%A1n+qu%E1%BA%ADn+%C4%90%C3%B4ng+Anh.pdf| title = Dự thảo Đề án thành lập quận Đông Anh và các phường thuộc quận Đông Anh, thành phố Hà Nội | year = 2023 | location = Đông Anh, Hà Nội | p = 149-150 | url-status = live| archive-url = https://web.archive.org/web/20230712081151/https://donganh.hanoi.gov.vn/documents/6071114/6720657/D%E1%BB%B1+th%E1%BA%A3o+%C4%91%E1%BB%81+%C3%A1n+qu%E1%BA%ADn+%C4%90%C3%B4ng+Anh.pdf| archive-date = 2023-07-12}}</ref>
+
+== Kinh tế - xã hội== 
+Giáo dục: Trên địa bàn xã Vĩnh Ngọc có nhiều ngôi trường dành cho chủ yếu con em trong xã và các xã lân cận trong huyện Đông Anh. Trong đó có ba ngôi trường Công lập là Trường Mầm non Vĩnh Ngọc, trường Mầm non Họa Mi, Trường Tiểu học Vĩnh Ngọc và Trường trung học cơ sở Vĩnh Ngọc. Hai ngôi trường [[Giáo dục tiểu học| Tiểu học]] và [[Trung học cơ sở (Việt Nam)| Trung học cơ sở]] của xã đã được Ủy ban nhân dân thành phố [[Hà Nội]] công nhận là trường đạt chuẩn quốc gia. Bên cạnh đó còn có nhiều trung tâm giáo dục, các ngôi trường cấp III đóng trên địa bàn xã.
+
+Y tế: Hiện nay trên đại bàn xã có các trung tâm Y tế đạt tiêu chuẩn quốc gia, các phòng khám hiện đại đáp ứng được tốt nhu cầu của nhân dân.
+
+== Văn hóa== 
+Trong những năm 1941 - 1945, thôn Ngọc Giang, xã Vĩnh Ngọc, huyện Đông Anh trở thành an toàn khu quan trọng của Ban Thường vụ T.Ư Đảng về làm việc, hội họp và chỉ đạo kháng chiến. Ngọc Giang không chỉ là cơ sở an toàn khu đầu tiên của huyện Đông Anh mà còn là nơi T.Ư Đảng tổ chức hội họp. Đầu năm 1945, tại chùa Ngọc Giang đã diễn ra cuộc họp lịch sử của T.Ư do đồng chí Trường Chinh chủ trì, quyết định chủ trương chuẩn bị khởi nghĩa giành chính quyền trong phạm vi cả nước. Ngày 21/8/1945, đoàn biểu tình của thôn Ngọc Giang, xã Vĩnh Ngọc đã lên thẳng huyện lỵ Đông Anh phối hợp cùng lực lượng các địa phương khác giành chính quyền, giải phóng huyện Đông Anh. Cũng nhờ an toàn khu này, trong 4 năm trường kỳ gian khổ, T.Ư Đảng đã được bảo vệ an toàn, lãnh đạo cách mạng từng bước đi lên, tạo nên thắng lợi lịch sử tháng 8/1945.
+*Đình làng thôn Ngọc Chi: là nơi thờ tướng [[Nồi Hầu]] và vợ của ông, cùng với 2 con trai là Đống Vĩnh, Lý Vực. [[Nồi Hầu]] là một vị tướng giỏi dưới thời vua [[An Dương Vương]] 2 con trai của ông cũng là tướng võ trong triều.Đình làng Ngọc Chi có bề dày lịch sử lâu đời và hiện nay là một di tích lịch Sở văn hóa đã được xếp hạng năm 1993. Ngoài ra còn thờ những dòng họ đã lập ra thôn Ngọc Chi như dòng họ: Phạm, Nguyễn, Hoàng, Bùi, Dương, Trần, Lê, Trịnh.
+*[[Chùa Khánh Long (Quốc Sư Tự)]] thôn Vĩnh Thanh: chùa xây dựng vào thời kỳ nhà Lê niên hiệu Chính Hòa năm 1698, người khai sáng ra ngôi chùa này là Quốc Sư Hòa thượng – Nguyễn Đức Trung tự là Đạo Chất Thiền Sư ở chùa Báo Thiên – Hà Nội. Trên Bia ghi "Quốc Sư Tự Bi" "Quốc Sư Hòa Thượng trụ trì Trung Đô Báo Thiên Tự" Có nghĩa là Bia ghi lịch sử chùa Quốc Sư của Quốc Sư Hòa thượng trụ trì chùa Báo Thiên ở Phủ Trung Đô. Chính vì vậy chùa Khánh Long (chùa Quốc Sư Tự) có liên quan mật thiết với chùa và Tháp Báo Thiên ở Hà Nội là một ngôi chùa cổ kính có giá trị về lịch sử, một di sản rất lớn của Thủ Đô. Trải qua thăng trầm lịch sử nhất là 2 cuộc chiến tranh chống Pháp và chống Mỹ chùa bị phá hoàn toàn đến khi hòa bình chùa được nhân dân Phật tử xây dựng lại nho nhỏ để thờ Phật. Năm 1968 chùa được Thủ tướng [[Phạm Văn Đồng]] tặng bằng khen là một nơi hoạt động cách mạng chủ chốt, không những thế chùa còn được nhận nhiều bằng khen trong phòng chống thiên tai, bão, lũ lụt,.... và công tác Phật sự.
+
+== Giao thông== 
+Xã có tuyến [[tuyến đường cao tốc Hà Nội – Nội Bài| cao tốc Nhật Tân – Nội Bài]], có quốc lộ 3 chạy qua,<ref name = "Vinh Ngoc"/> đê tả Hồng. Nút giao ngã tư cầu vượt Vĩnh Ngọc (trên đường 5 kéo dài) cắt đường Nhật Tân - Nội Bài (đường Võ Nguyên Giáp) tại Km0 + 419 là một trong những nút giao thông lớn ở huyện Đông Anh cũng như ở cửa ngõ phía bắc thành phố Hà Nội.
+
+Cầu Nhật Tân bắc qua Sông Hồng: Mặt cầu rộng 33,2m chia thành 4 làn xe cơ giới, 2 làn xe buýt, 2 dải xe hỗn hợp, phân cách giữa, đường dành cho người đi bộ. Cầu dài 3,9&nbsp;km và có đường dẫn 4,5&nbsp;km, trong đó phần chính của cầu qua sông dài 1,5&nbsp;km. Tổng mức đầu tư dự định cho cầu từ 7.500 tỷ đến 8.100 tỷ đồng tùy theo số lượng cột phải thi công.
+
+Ngày 7 tháng 3 năm 2009, gói thầu số 3 xây dựng đường dẫn phía Bắc cầu Nhật Tân đã được khởi công trên địa bàn xã Vĩnh Ngọc, Đông Anh.
+
+Đường 5 kéo dài: Tuyến đường từ ngã tư cầu Chui tới khu đô thị Bắc Thăng Long - Vân Trì. Tuyến đường dài 13,5&nbsp;km với 3 cây cầu được đầu tư với tổng vốn gần 4.200 tỷ đồng của thành phố.
+
+== Lịch sử== 
+Trong thời kỳ phong kiến, cuối [[thời Lê]], đầu [[thời Nguyễn]], xã Liên Hà là vùng đất thuộc tổng Hà Lỗ, huyện Đông Ngàn, phủ Từ Sơn, trấn Kinh Bắc (sau là tỉnh Bắc Ninh).
+
+Cách mạng tháng Tám thành công, ba xã: Hà Lỗ, Thù Lỗ, Lỗ khê nhập thành xã Ngũ Hà thuộc huyện Từ Sơn, tỉnh Bắc Ninh.
+
+[[Tháng 4]] năm [[1949]], xã Liên Hà thuộc huyện Từ Sơn, tỉnh Bắc Ninh được thành lập trên cơ sở sáp nhập xã Ngũ Hà và xã Hà Vĩ.<ref name = ĐA>{{chú thích sách| author = UBND huyện Đông Anh | url = https://donganh.hanoi.gov.vn/documents/6071114/6720657/D%E1%BB%B1+th%E1%BA%A3o+%C4%91%E1%BB%81+%C3%A1n+qu%E1%BA%ADn+%C4%90%C3%B4ng+Anh.pdf| title = Dự thảo Đề án thành lập quận Đông Anh và các phường thuộc quận Đông Anh, thành phố Hà Nội | year = 2023 | location = Đông Anh, Hà Nội | p = 89-90 | url-status = live| archive-url = https://web.archive.org/web/20230712081151/https://donganh.hanoi.gov.vn/documents/6071114/6720657/D%E1%BB%B1+th%E1%BA%A3o+%C4%91%E1%BB%81+%C3%A1n+qu%E1%BA%ADn+%C4%90%C3%B4ng+Anh.pdf| archive-date = 2023-07-12}}</ref>
+
+Ngày [[20 tháng 4]] năm [[1961]], Quốc hội ban hành Nghị quyết<ref>{{Chú thích web| url = https://m.thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Nghi-Quyet-mo-rong-thanh-pho-Ha-Noi-42689.aspx| tựa đề = Nghị quyết về việc mở rộng thành phố Hà Nội | tác giả = | ngày = | website = Thư viện Pháp luật | url lưu trữ = | ngày lưu trữ = | ngày truy cập = }}</ref> về việc sáp nhập xã Liên Hà thuộc huyện Từ Sơn, tỉnh Bắc Ninh vào huyện Đông Anh, thành phố Hà Nội quản lý.
+
+== Kinh tế== 
+Trường cấp I, cấp II, trạm y tế xã Liên Hà thuộc thôn Châu Phong.
+
+=== Nông nghiệp=== 
+Hiện tại, việc trồng trọt, chăn nuôi chủ yếu tự cung tự cấp lương thực, thực phẩm trong gia đình mà không sản xuất hàng hoá. Nghề nông nghiệp của Châu Phong đang dần dần mai một, hiện tại người dân chủ yếu trồng lúa nước hai vụ, vụ đông hầu như không trồng mà để đất bỏ hoang. Việc phân công lao động của Châu Phong diễn ra khá mạnh, việc sản xuất đa phần là thuê mướn do dân cư làm nghề nông rất ít và chủ yếu là phụ nữ, đàn ông Châu Phong Hà rất ít khi ra ruộng, cấy cày, gặp hái mà chủ yếu ở nhà sản xuất tiểu thủ công nghiệp.
+
+=== Tiểu thủ công nghiệp, làng nghề=== 
+Dân Châu Phong nổi tiếng khéo tay, có con mắt nghệ thuật cao. Sản phẩm đồ gỗ mỹ nghệ truyền thống là sự kết hợp khéo léo giữa chất liệu tự nhiên là gỗ với bàn tay khối óc của người thợ. Mỗi sản phẩm làm ra đều đánh dấu sự phân công lao động hợp lí, kết hợp với đồ hoạ, kiến trúc tỉ mỉ của con người.
+
+Những năm gần đây kinh tế của Thôn Châu Phong triển mạnh mẽ. Hàng nghìn xưởng thợ thủ công ra đời tại các thôn thu hút một lượng lớn người thợ ở các nơi như Hà Tây (cũ), Ninh Bình, Tuyên Quang, Vĩnh Phúc, Thái Nguyên. Hiện tại, dân nhập cư còn lớn hơn so với dân số hiện tại của xã. Với sự phát triển vượt bậc về kinh tế, người dân có điều kiện xây nhà cao tầng, biệt thự,mua sắm ôtô, xe máy và các trang thiết bị đồ dùng sinh hoạt. Con em trong xã được học hành, giao thông thôn xóm cải thiện.
+
+== Lịch sử== 
+Đầu thế kỷ XIX, địa bàn xã Việt Hùng hiện nay thuộc tổng Cổ Loa, huyện 
+Đông Ngàn, phủ Từ Sơn, trấn Kinh Bắc. Lúc bấy giờ xã Việt Hùng được chia thành 
+4 xã: Dục Nội, Gia Lộc, Lỗ Giao, Lương Quán.
+
+Sau [[Cách mạng tháng Tám]] năm [[1945]], hợp nhất 3 xã: Dục Nội, 
+Gia Lộc, Lương Quán thành xã Âu Lạc và xã Lỗ Giao sáp nhập vào xã Phúc Tiến.
+
+[[Tháng 5]] năm [[1949]], hợp nhất 2 xã: Âu Lạc, Uy Sơn và 2 thôn: Lỗ Giao, Quản Tỉnh của xã Phúc Tiến thành xã Việt Hùng thuộc huyện Đông 
+Anh, tỉnh Phúc Yên.
+
+[[Tháng 5]] năm [[1955]], chia xã Việt Hùng thành xã Việt Hùng và xã Uy 
+Sơn.<ref name = ĐA>{{chú thích sách| author = UBND huyện Đông Anh | url = https://donganh.hanoi.gov.vn/documents/6071114/6720657/D%E1%BB%B1+th%E1%BA%A3o+%C4%91%E1%BB%81+%C3%A1n+qu%E1%BA%ADn+%C4%90%C3%B4ng+Anh.pdf| title = Dự thảo Đề án thành lập quận Đông Anh và các phường thuộc quận Đông Anh, thành phố Hà Nội | year = 2023 | location = Đông Anh, Hà Nội | p = 143-144 | url-status = live| archive-url = https://web.archive.org/web/20230712081151/https://donganh.hanoi.gov.vn/documents/6071114/6720657/D%E1%BB%B1+th%E1%BA%A3o+%C4%91%E1%BB%81+%C3%A1n+qu%E1%BA%ADn+%C4%90%C3%B4ng+Anh.pdf| archive-date = 2023-07-12}}</ref>
+
+Ngày [[20 tháng 4]] năm [[1961]], Quốc hội ban hành Nghị quyết<ref>{{Chú thích web| url = https://m.thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Nghi-Quyet-mo-rong-thanh-pho-Ha-Noi-42689.aspx| tựa đề = Nghị quyết về việc mở rộng thành phố Hà Nội | tác giả = | ngày = | website = Thư viện Pháp luật | url lưu trữ = | ngày lưu trữ = | ngày truy cập = }}</ref> về việc sáp nhập Việt Hùng vào thành phố Hà Nội quản lý.
+
+Ngày [[31 tháng 5]] năm [[1961]], Hội đồng Chính phủ ban hành 78-CP<ref>{{Chú thích web| url = https://m.thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-78-CP-chia-khu-vuc-noi-ngoai-thanh-thanh-pho-Ha-Noi-20286.aspx| tựa đề = Quyết định số 78-CP năm 1961 chia các khu vực nội thành và ngoại thành của Thành phố Hà Nội | tác giả = | ngày = | website = Thư viện Pháp luật | url lưu trữ = | ngày lưu trữ = | ngày truy cập = }}</ref>. Theo đó, xã Việt Hùng thuộc huyện Đông Anh, thành phố Hà Nội quản lý.
+
+== Kinh tế== 
+Cơ cấu kinh tế (% theo giá trị): nông nghiệp đạt 55%, công nghiệp – xây dựng cơ bản đạt 15%, thương mại – dịch vụ và du lịch đạt 30%.
+
+Việt Hùng là đất thuần nông do vậy chỉ có một số nghề truyền thống đặc trưng.
+
+Đặc sản: Các sản vật nổi tiếng của địa phương là: trám đen, tương nếp, mít, bánh tẻ, bánh khoai,...
+
+== Văn hóa== 
+Xã Việt Hùng là một miền đất cổ nằm ở phía bắc kinh thành Cổ Loa. Dục Nội, Gia Lộc, Lương Quán, Lỗ Giao là những địa danh gắn liền với lịch sử Loa Thành - triều đại [[An Dương Vương]] - Thục Phán.
+
+Quần thể di tích hiện nay có bốn đình, có chùa, miếu, và các di vật thờ cúng phần lớn ở trong làng được tôn tạo từ thế kỷ XV.
+
+Đình Dục Nội thờ tướng quân [[Ngô Đễ]] giúp [[Lê Thái Tổ| Lê Lợi]] đánh giặc.
+
+Đình Gia Lộc thờ Đông Bảng Đại Vương. Ông là người có công lớn giúp [[Hai Bà Trưng| Trưng Vương]] khởi nghĩa đánh đuổi [[Tô Định]], chống lại [[Mã Viện]] thời nhà Hán.
+
+Đình Lỗ Giao thờ một vị nữ thần (nữ tướng của Hai Bà Trưng) làm thần hoàng làng.
+
+Đình Lương Quán thờ ông Tạ Đông Nhạc là người có công Đúc Ngựa sắt, làm doi sắt giúp [[Thánh Gióng]] đánh giặc Ân cứu nước.
+
+Bốn chùa: chùa Kiến Dương Thôn Trung, chùa Phúc Hương Thôn Đông, chùa Gia Phúc Gia Lộc, chùa Lỗ Giao.
+
+Hiện đã có 03 Đình và 02 Chùa đã được nhà nước xếp hạng di tích lịch sử văn hoá - nghệ thuật.
+
+Các Lễ hội Đình Chùa được diễn ra vào đầu tháng Giêng và tháng Tám hàng năm.
+
+== Giao thông== 
+Xã có tuyến đường xe lửa từ Hà Nội đi Lào Cai và Thái Nguyên, giữa hai [[ga Yên Viên]] (phía Đông) và [[ga Đông Anh]] (phía tây), trên địa bàn xã có một ga xép gọi là ga Cổ Loa.
+
+-->
+
+== Hành chính ==
+Xã Đông Anh được chia thành 36 thôn: Cầu Cả, Cổ Loa, Cổ Vân, Cường Nỗ, Dục Nội, Dục Tú, Đa Vang, Đản Mỗ, Đông Anh, Đông Hội, Đông Ngàn, Đông Trù, Đồng Dầu, Gia Lương, Hồng Lạc, Hội Phụ, Hùng Sơn, Lại Đà, Lộc Hà, Lực Canh, Lý Nhân, Mai Hiên, Mai Lâm, Mạch Tràng, Oai Nỗ, Phúc Hậu, Thái Bình, Thục Vương, Thượng Lộc, Thượng Oai, Thượng Thư, Uy Nỗ, Uy Sơn, Việt Hùng, Xuân Canh và Xuân Trạch.<ref name=":1" /><ref name=":3" /><ref name=":2" />
+{| class="wikitable sortable" align="center" width="100%" cellspacing="6" cellpadding="0" style="background: #f9f9f9; border: 1px #aaa solid; margin-top: 16px"
+! colspan="4" style="background: #E6E6FA; font-size: 95%;" |Danh sách các thôn thuộc xã Đông Anh<ref name=":1" /><ref name=":3" /><ref name=":2" />
+|-
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Cầu Cả
+|707
+|-
+| align="left" |Cổ Loa
+|1.151
+|-
+| align="left" |Cổ Vân
+|1.329
+|-
+| align="left" |Cường Nỗ
+|945
+|-
+| align="left" |Dục Nội
+|1.180
+|-
+| align="left" |Dục Tú
+|1.398
+|-
+| align="left" |Đa Vang
+|731
+|-
+| align="left" |Đản Mỗ
+|965
+|-
+| align="left" |Đông Anh
+|722
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Đông Hội
+|1.379
+|-
+| align="left" |Đông Ngàn
+|828
+|-
+| align="left" |Đông Trù
+|2.279
+|-
+| align="left" |Đồng Dầu
+|799
+|-
+| align="left" |Gia Lương
+|1.519
+|-
+| align="left" |Hồng Lạc
+|1.102
+|-
+| align="left" |Hội Phụ
+|702
+|-
+| align="left" |Hùng Sơn
+|848
+|-
+| align="left" |Lại Đà
+|891
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Lộc Hà
+|982
+|-
+| align="left" |Lực Canh
+|1.245
+|-
+| align="left" |Lý Nhân
+|932
+|-
+| align="left" |Mai Hiên
+|721
+|-
+| align="left" |Mai Lâm
+|1.350
+|-
+| align="left" |Mạch Tràng
+|989
+|-
+| align="left" |Oai Nỗ
+|987
+|-
+| align="left" |Phúc Hậu
+|1.454
+|-
+| align="left" |Thái Bình
+|1.611
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Thục Vương
+|802
+|-
+| align="left" |Thượng Lộc
+|1.022
+|-
+| align="left" |Thượng Oai
+|641
+|-
+| align="left" |Thượng Thư
+|701
+|-
+| align="left" |Uy Nỗ
+|1.256
+|-
+| align="left" |Uy Sơn
+|733
+|-
+| align="left" |Việt Hùng
+|869
+|-
+| align="left" |Xuân Canh
+|911
+|-
+| align="left" |Xuân Trạch
+|1.073
+|}
+|}
+
+== Văn hóa ==
+[[hình:An Duong Vuong Temple Gate Co Loa.jpg|thumb| trái| Đền thờ An Dương Vương tại khu di tích Cổ Loa]]Xã Đông Anh là một miền đất cổ nằm ở phía bắc kinh thành Cổ Loa. Dục Nội, Gia Lộc, Lương Quán, Lỗ Giao là những địa danh gắn liền với lịch sử Loa Thành - triều đại [[An Dương Vương]] - Thục Phán.
+
+Quần thể di tích hiện nay có bốn đình, có chùa, miếu và các di vật thờ cúng phần lớn ở trong làng được tôn tạo từ thế kỷ XV.
+
+Đình Dục Nội thờ tướng quân [[Ngô Đễ]] giúp[[Lê Thái Tổ|Lê Lợi]] đánh giặc.
+
+Đình Gia Lộc thờ Đông Bảng Đại Vương. Ông là người có công lớn giúp[[Hai Bà Trưng|Trưng Vương]] khởi nghĩa đánh đuổi [[Tô Định]], chống lại [[Mã Viện]] thời nhà Hán.
+
+Đình Lỗ Giao thờ một vị nữ thần (nữ tướng của Hai Bà Trưng) làm thần hoàng làng.
+
+Đình Lương Quán thờ ông Tạ Đông Nhạc là người có công Đúc Ngựa sắt, làm doi sắt giúp [[Thánh Gióng]] đánh giặc Ân cứu nước.
+
+Bốn chùa: chùa Kiến Dương Thôn Trung, chùa Phúc Hương Thôn Đông, chùa Gia Phúc Gia Lộc, chùa Lỗ Giao.
+
+Hiện đã có 3 Đình và 2 Chùa đã được nhà nước xếp hạng di tích lịch sử văn hoá - nghệ thuật.
+
+Các Lễ hội Đình Chùa được diễn ra vào đầu tháng Giêng và tháng Tám hàng năm.
+
+== Kinh tế ==
+
+=== Nông nghiệp ===
+Hiện tại, việc trồng trọt, chăn nuôi chủ yếu tự cung tự cấp lương thực, thực phẩm trong gia đình mà không sản xuất hàng hoá. Nghề nông nghiệp của Châu Phong đang dần dần mai một, hiện tại người dân chủ yếu trồng lúa nước hai vụ, vụ đông hầu như không trồng mà để đất bỏ hoang. Việc phân công lao động của Châu Phong diễn ra khá mạnh, việc sản xuất đa phần là thuê mướn do dân cư làm nghề nông rất ít và chủ yếu là phụ nữ, đàn ông Châu Phong Hà rất ít khi ra ruộng, cấy cày, gặp hái mà chủ yếu ở nhà sản xuất tiểu thủ công nghiệp.
+
+Đặc sản: Các sản vật nổi tiếng của địa phương là: trám đen, tương nếp, mít, bánh tẻ, bánh khoai,...
+
+=== Tiểu thủ công nghiệp, làng nghề ===
+Dân Châu Phong nổi tiếng khéo tay, có con mắt nghệ thuật cao. Sản phẩm đồ gỗ mỹ nghệ truyền thống là sự kết hợp khéo léo giữa chất liệu tự nhiên là gỗ với bàn tay khối óc của người thợ. Mỗi sản phẩm làm ra đều đánh dấu sự phân công lao động hợp lí, kết hợp với đồ hoạ, kiến trúc tỉ mỉ của con người.
+
+Những năm gần đây kinh tế của Thôn Châu Phong triển mạnh mẽ. Hàng nghìn xưởng thợ thủ công ra đời tại các thôn thu hút một lượng lớn người thợ ở các nơi như [[Hà Tây (tỉnh)|Hà Tây]] (cũ), [[Vĩnh Phúc (tỉnh)|Vĩnh Phúc]] (cũ), Ninh Bình, Tuyên Quang, Thái Nguyên. Hiện tại, dân nhập cư còn lớn hơn so với dân số hiện tại của xã. Với sự phát triển vượt bậc về kinh tế, người dân có điều kiện xây nhà cao tầng, biệt thự,mua sắm ôtô, xe máy và các trang thiết bị đồ dùng sinh hoạt. Con em trong xã được học hành, giao thông thôn xóm cải thiện.
+
+== Y tế ==
+Hiện nay trên đại bàn xã có các trung tâm Y tế đạt tiêu chuẩn quốc gia, các phòng khám hiện đại đáp ứng được tốt nhu cầu của nhân dân.
+
+== Giao thông ==
+Đông Anh có vị trí địa lý, giao thông thuận lợi:
+
+* Đường quốc lộ 3 chạy qua trung tâm là một trong những nút giao thông lớn ở cửa ngõ phía bắc thành phố Hà Nội đồng thời là nơi có ga Đông Anh – giao điểm của 2 tuyến đường sắt Hà Nội – Thái Nguyên, Hà Nội – Phú Thọ - Lào Cai – Yên Bái, gần sân bay quốc tế Nội Bài,...
+* Cầu Nhật Tân bắc qua Sông Hồng: Mặt cầu rộng 33,2m chia thành 4 làn xe cơ giới, 2 làn xe buýt, 2 dải xe hỗn hợp, phân cách giữa, đường dành cho người đi bộ. Cầu dài 3,9&nbsp;km và có đường dẫn 4,5&nbsp;km, trong đó phần chính của cầu qua sông dài 1,5&nbsp;km. Tổng mức đầu tư dự định cho cầu từ 7.500 tỷ đến 8.100 tỷ đồng tùy theo số lượng cột phải thi công.
+* Quốc lộ 5 (đường 5 kéo dài: khu công nghiệp Thăng Long - Cầu Chui).
+* Đường đê tả Đuống.
+* Đường sông: Sông Đuống, sông Ngũ Huyện Khê.
+* Hệ thống xe buýt: 15, 17, 43, 46, 65, 122..
+
+Cùng với đó xã có nguồn nhân lực dồi dào, có chất lượng là lợi thế quan trọng để thu hút đầu tư, thúc đẩy phát triển kinh tế - xã hội. Nhiều cơ quan, doanh nghiệp, cơ sở kinh tế của Trung ương, Thành phố và địa phương, đơn vị lực lượng vũ trang đã lựa chọn nơi đây xây dựng và phát triển, ...
+
+Xã có tuyến đường xe lửa từ Hà Nội đi Lào Cai và Thái Nguyên, giữa hai [[ga Yên Viên]] (phía Đông) và [[ga Đông Anh]] (phía tây), trên địa bàn xã có một ga xép gọi là ga Cổ Loa.
+
+== Nhân vật nổi bật==
+
+* '''[[Nguyễn Phú Trọng]]''' (1944 – 2024) là nguyên [[Tổng Bí thư Ban Chấp hành Trung ương Đảng Cộng sản Việt Nam]], nguyên [[Bí thư Quân ủy Trung ương (Việt Nam)|Bí thư Quân ủy Trung ương]].
+* '''[[Trần Trung]]''' (1924 – 1979) là Nguyên Chủ tịch Ủy ban hành chính tỉnh Bắc Giang, nguyên Bí thư [[Tỉnh ủy Bắc Giang]], nguyên Bí thư Tỉnh ủy Hà Bắc.
+* '''[[Trịnh Xuân Thanh]]''' (sinh năm 1966) là Nguyên Phó Chủ tịch UBND tỉnh Hậu Giang.
+* '''[[Nguyễn Huy Tưởng]]''' (1912 – 1960) là [[nhà văn]], [[nhà viết kịch]], [[Chính khách|chính trị gia]].
+* '''[[Đỗ Quốc Sam]]''' (1929 – 2010) là Nguyên Bộ trưởng [[Bộ Kế hoạch và Đầu tư (Việt Nam)|Bộ Kế hoạch và Đầu tư]].
+* '''[[Hoàng Đình Toàn]]''' (sinh năm 1958) là thẩm phán cao cấp người Việt Nam. Ông từng là Chánh án Tòa án nhân dân tỉnh Bắc Kạn (2013 – 2018).
+
+== Chú thích== 
+{{tham khảo| 30em}}
+
+== Tham khảo==
+{{Sơ khai Hà Nội}}{{Đơn vị hành chính thuộc thành phố Hà Nội}}

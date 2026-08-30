@@ -1,0 +1,79 @@
+{{Thông tin đơn vị hành chính Việt Nam | Xã 
+| tên = Toàn Thắng
+| hình = 
+| ghi chú hình = 
+| vĩ độ = 20.510761426039863
+| kinh độ = 105.28877983596844
+| diện tích = 71,10 km²<ref name=MS/>
+| dân số = 15.427 người<ref name=MS/>
+| thời điểm dân số = 31/12/2024
+| mật độ dân số = {{formatnum:{{#expr:floor({{formatnum:15.427|R}}/{{formatnum:71,11|R}})}} }} người/km²
+| vùng = [[Đông Bắc Bộ]]
+| tỉnh = [[Phú Thọ]]
+| thành lập = 16 tháng 6 năm 2025<ref>Nghị quyết số 1676/NQ-UBTVQH15</ref>
+| trụ sở UBND =Xóm Bùi Nước 
+| mã hành chính = 05191<ref>{{Chú thích web |url=https://danhmuchanhchinh.gso.gov.vn/ |title=Tổng cục Thống kê |access-date=2022-04-08 |archive-date=2021-01-10 |archive-url=https://web.archive.org/web/20210110034519/https://www.gso.gov.vn/phuong-phap-thong-ke/danh-muc/don-vi-hanh-chinh/ |url-status=dead }}</ref>
+| mã bưu chính =36582 
+|web={{url|toanthang.phutho.gov.vn}}
+}}
+
+'''Toàn Thắng''' là một [[Xã (Việt Nam)|xã]] thuộc tỉnh [[Phú Thọ]], [[Việt Nam]].
+
+== Địa lý ==
+Xã Toàn Thắng nằm ở phía Nam tỉnh [[Phú Thọ]], có vị trí địa lý<ref>{{Chú thích web |title=Đơn vị hành chính Việt Nam |url=https://sapnhap.bando.com.vn/ |access-date=2026-07-14 |website=sapnhap.bando.com.vn}}</ref>:
+
+* Phía Bắc giáp xã [[Mường Bi]].
+* Phía Nam và phía Tây giáp xã [[Vân Sơn, Phú Thọ|Vân Sơn]].
+* Phía Đông giáp xã [[Tân Lạc (xã)|Tân Lạc]] và xã [[Quyết Thắng, Phú Thọ|Quyết Thắng]].
+
+Xã Toàn Thắng có diện tích 71,11&nbsp;km², dân số năm 2025 là 15.427 người<ref>{{Chú thích web |title=Xã Toàn Thắng, Tỉnh Phú Thọ mới sáp nhập 2026 |url=https://tinhthanhvn.com/province/phu-tho/xa-toan-thang |access-date=2026-07-14 |website=Tỉnh Thành Việt Nam |language=vi}}</ref>, mật độ dân số đạt {{formatnum:{{#expr:floor({{formatnum:15.427|R}}/{{formatnum:71,11|R}})}} }} người/km².
+
+==Hành chính==
+Xã Toàn Thắng được chia thành 22 xóm: Ào U, Bận Dọi, Bùi Nước, Chiềng, Chiềng Đồi, Cò, Đá, Đồi Bệ, Đừng, Gia Phú, Hông Thọng, Khi, Mường Dạ, Nghẹ, Rên, Sống, Tân Lập, Tân Thành, Trang, Trám, Trăng Tà, Úi.<ref name=":1">{{Chú thích web |last=Bộ Dân tộc và Tôn giáo |date=2026-01-29 |title=Danh sách Thôn vùng đồng bào dân tộc thiểu số và miền núi, thôn đặc biệt khó khăn giai đoạn 2026 - 2030 trên địa bàn tỉnh Phú Thọ |url=http://files.ubdt.gov.vn/files/ecm/source_files/2026/02/05/11252411_4.%20Ph%C3%BA%20Th%E1%BB%8D%201%20(th%C3%B4n).signed_26-02-05.pdf |url-status=live |archive-url=https://web.archive.org/web/20260417090807/http://files.ubdt.gov.vn/files/ecm/source_files/2026/02/05/11252411_4.%20Ph%C3%BA%20Th%E1%BB%8D%201%20(th%C3%B4n).signed_26-02-05.pdf |archive-date=2026-04-17 |access-date=2026-04-17 |website=Cổng Thông tin điện tử Bộ Dân tộc và Tôn giáo}}</ref><ref>{{Chú thích web |last=Trung tâm Dịch vụ sự nghiệp công xã Toàn Thắng - tỉnh Phú Thọ |date=2026-02-27 |title=Thông báo các đơn vị bầu cử xã Toàn Thắng |url=https://web.facebook.com/story.php?story_fbid=122160252506906572&id=61577197187593&rdid=19ASO5xKmqF8Dr2y# |url-status=live |archive-url=https://web.archive.org/web/20260426090807/https://web.facebook.com/story.php?story_fbid=122160252506906572&id=61577197187593&rdid=19ASO5xKmqF8Dr2y# |archive-date=2026-04-26 |access-date=2026-04-26}}</ref>
+
+==Lịch sử==
+Trước kia, địa bàn xã Toàn Thắng ngày nay là địa bàn của các xã Gia Mô, Lỗ Sơn và Nhân Mỹ thuộc huyện [[Tân Lạc (huyện)|Tân Lạc]], tỉnh [[Hòa Bình (tỉnh)|Hòa Bình]] cũ.
+
+Ngày [[2 tháng 1]] năm [[1955]], các xã Do Nhân, Quy Mỹ và Tuân Lộ được thành lập trên cơ sở một phần diện tích và dân số của xã Thạch Bi cũ. Khi mới thành lập, ba xã trực thuộc huyện [[Lạc Sơn (huyện)|Lạc Sơn]].<ref>{{chú thích sách |url=https://www.google.com/books/edition/Địa_ch%C3%AD_Hòa_Bình/jUZRAQAAMAAJ |year=2005 |isbn= |doi= |id= |tác giả= |tựa đề=Địa chí Hòa Bình |nhà xuất bản=Nhà xuất bản Chính trị quốc gia |nơi= |trang=311}}</ref>
+
+Ngày [[15 tháng 9]] năm [[1956]], [[Chính phủ Việt Nam|Chính phủ]] ban hành Quyết định số 566/QĐ-LK3. Theo đó, chia xã Quyết Thắng thành 6 xã: Ngổ Luông, Lỗ Sơn, Gia Mô, Phú Lương, Chí Đạo và Định Cư
+
+Ngày [[15 tháng 10]] năm [[1957]], huyện Tân Lạc được thành lập,<ref>{{chú thích sách |url=https://www.google.com/books/edition/Địa_ch%C3%AD_Hòa_Bình/jUZRAQAAMAAJ |year=2005 |isbn= |doi= |id= |tác giả= |tựa đề=Địa chí Hòa Bình |nhà xuất bản=Nhà xuất bản Chính trị quốc gia |nơi= |trang=310}}</ref> các xã Do Nhân, Quy Mỹ và Tuân Lộ chuyển sang trực thuộc huyện Tân Lạc.
+
+Đến năm [[2018]]:
+
+* Xã Do Nhân có diện tích 17,39&nbsp;km², dân số là 2.378 người, mật độ dân số đạt 137 người/km².
+* Xã Quy Mỹ có diện tích 8,97&nbsp;km², dân số là 1.925 người, mật độ dân số đạt 215 người/km².
+* Xã Tuân Lộ có diện tích 9,07&nbsp;km², dân số là 2.640 người, mật độ dân số đạt 291 người/km².
+
+Ngày [[17 tháng 12]] năm [[2019]], [[Ủy ban Thường vụ Quốc hội]] ban hành Nghị quyết số 830/NQ-UBTVQH14 về việc sắp xếp các đơn vị hành chính cấp huyện, cấp xã thuộc tỉnh Hòa Bình (nghị quyết có hiệu lực từ ngày [[1 tháng 1]] năm [[2020]]).<ref>{{Chú thích web |last=Cổng Thông tin điện tử Chính phủ |first= |title=Nghị quyết số 830/NQ-UBTVQH14 của ỦY BAN THƯỜNG VỤ QUỐC HỘI: Về việc sắp xếp các đơn vị hành chính cấp huyện, cấp xã thuộc tỉnh Hòa Bình |url=http://vanban.chinhphu.vn/default.aspx?pageid=27160&docid=198695 |access-date=2026-07-14 |website=vanban.chinhphu.vn |language=vi}}</ref> Theo đó, sáp nhập toàn bộ diện tích và dân số của ba xã Do Nhân, Quy Mỹ và Tuân Lộ thành xã Nhân Mỹ.
+
+Ngày [[12 tháng 6]] năm [[2025]], [[Quốc hội Việt Nam|Quốc hội]] ban hành Nghị quyết số 202/2025/QH15 về việc sắp xếp đơn vị hành chính cấp tỉnh (nghị quyết có hiệu lực từ ngày [[12 tháng 6]] năm [[2025]]).<ref>{{Chú thích web|last=xaydungchinhsach.chinhphu.vn|date=2025-07-16|title=TOÀN VĂN: Nghị quyết số 202/2025/QH15 về sắp xếp đơn vị hành chính cấp tỉnh|url=https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-202-2025-qh15-ve-sap-xep-don-vi-hanh-chinh-cap-tinh-119250612174148722.htm|url-status=live|archive-url=https://web.archive.org/web/20260705025431/https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-202-2025-qh15-ve-sap-xep-don-vi-hanh-chinh-cap-tinh-119250612174148722.htm|archive-date=2026-07-05|access-date=2026-07-25|website=Báo Điện tử Chính phủ|language=vi}}</ref> Theo đó, sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của tỉnh [[Vĩnh Phúc (tỉnh)|Vĩnh Phúc]], tỉnh [[Hòa Bình (tỉnh)|Hòa Bình]] và tỉnh [[Phú Thọ]] thành tỉnh mới có tên gọi là tỉnh '''Phú Thọ'''.
+
+Ngày [[16 tháng 6]] năm [[2025]]:
+
+* Quốc hội ban hành Nghị quyết số 203/2025/QH15 về việc sửa đổi, bổ sung một số điều của Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam (nghị quyết có hiệu lực từ ngày [[16 tháng 6]] năm [[2025]]).<ref>{{Chú thích web|last=xaydungchinhsach.chinhphu.vn|date=2025-06-28|title=NGHỊ QUYẾT 203/2025/QH15 SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA HIẾN PHÁP NƯỚC CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM|url=https://xaydungchinhsach.chinhphu.vn/nghi-quyet-203-2025-qh15-sua-doi-bo-sung-mot-so-dieu-cua-hien-phap-nuoc-cong-hoa-xa-hoi-chu-nghia-viet-nam-119250616181735552.htm|url-status=live|archive-url=https://web.archive.org/web/20260715200606/https://xaydungchinhsach.chinhphu.vn/nghi-quyet-203-2025-qh15-sua-doi-bo-sung-mot-so-dieu-cua-hien-phap-nuoc-cong-hoa-xa-hoi-chu-nghia-viet-nam-119250616181735552.htm|archive-date=2026-07-15|access-date=2026-07-15|website=Báo Điện tử Chính phủ|language=vi}}</ref> Theo đó, kết thúc hoạt động của đơn vị hành chính cấp huyện trong cả nước từ ngày 1 tháng 7 năm 2025.
+
+* Ủy ban Thường vụ Quốc hội ban hành Nghị quyết số 1676/NQ-UBTVQH15 về việc sắp xếp đơn vị hành chính cấp xã của tỉnh [[Phú Thọ]] năm 2025 (nghị quyết có hiệu lực từ ngày [[16 tháng 6]] năm [[2025]]).<ref>{{Chú thích web|last=xaydungchinhsach.chinhphu.vn|date=2025-06-20|title=Nghị quyết số 1676/NQ-UBTVQH15 sắp xếp các ĐVHC cấp xã của tỉnh Phú Thọ năm 2025|url=https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-1676-nq-ubtvqh15-sap-xep-cac-dvhc-cap-xa-cua-tinh-phu-tho-nam-2025-119250616204317326.htm|url-status=live|archive-url=https://web.archive.org/web/20260725082021/https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-1676-nq-ubtvqh15-sap-xep-cac-dvhc-cap-xa-cua-tinh-phu-tho-nam-2025-119250616204317326.htm|archive-date=2026-07-25|access-date=2026-07-25|website=Báo Điện tử Chính phủ|language=vi}}</ref> Theo đó, sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của các xã Gia Mô, Lỗ Sơn và Nhân Mỹ thành xã mới có tên gọi là '''xã Toàn Thắng'''.<!-- 
+==Lịch sử==
+Địa bàn xã Nhân Mỹ hiện nay trước đây vốn là ba xã: Do Nhân, Quy Mỹ, Tuân Lộ thuộc huyện Tân Lạc.
+
+Xã Do Nhân, xã Quy Mỹ và xã Tuân Lộ được thành lập vào ngày [[2 tháng 1]] năm [[1955]] trên cơ sở một phần diện tích và dân số của xã Thạch Bi cũ. Khi mới thành lập, ba xã trực thuộc huyện [[Lạc Sơn (huyện)|Lạc Sơn]].<ref>{{chú thích sách|tác giả=|tựa đề=Địa chí Hòa Bình|nhà xuất bản=Nhà xuất bản Chính trị quốc gia|year=2005|nơi=|trang=311|url=https://www.google.com/books/edition/Địa_ch%C3%AD_Hòa_Bình/jUZRAQAAMAAJ|doi=|id=|isbn=}}</ref>
+
+Ngày [[15 tháng 10]] năm [[1957]], huyện Tân Lạc được thành lập,<ref>{{chú thích sách|tác giả=|tựa đề=Địa chí Hòa Bình|nhà xuất bản=Nhà xuất bản Chính trị quốc gia|year=2005|nơi=|trang=310|url=https://www.google.com/books/edition/Địa_ch%C3%AD_Hòa_Bình/jUZRAQAAMAAJ|doi=|id=|isbn=}}</ref> các xã Do Nhân, Quy Mỹ và Tuân Lộ chuyển sang trực thuộc huyện Tân Lạc.
+
+Đến năm 2018, xã Do Nhân có diện tích 17,39&nbsp;km², dân số là 2.378 người, mật độ dân số đạt 137 người/km²; xã Quy Mỹ có diện tích 8,97&nbsp;km², dân số là 1.925 người, mật độ dân số đạt 215 người/km²; xã Tuân Lộ có diện tích 9,07&nbsp;km², dân số là 2.640 người, mật độ dân số đạt 291 người/km².
+
+Ngày [[17 tháng 12]] năm [[2019]], Ủy ban Thường vụ Quốc hội ban hành Nghị quyết số 830/NQ-UBTVQH14 về việc sắp xếp các đơn vị hành chính cấp huyện, cấp xã thuộc tỉnh Hòa Bình (nghị quyết có hiệu lực từ ngày [[1 tháng 1]] năm [[2020]]).<ref name=NQ830>{{Chú thích web|url=https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/Nghi-quyet-830-NQ-UBTVQH14-2019-sap-xep-don-vi-hanh-chinh-cap-huyen-xa-thuoc-tinh-Hoa-Binh-432100.aspx|tựa đề=Nghị quyết số 830/NQ-UBTVQH14 năm 2019 về việc sắp xếp các đơn vị hành chính cấp huyện, cấp xã thuộc tỉnh Hòa Bình|tác giả=|họ=|tên=|ngày=|website=|url lưu trữ=|ngày lưu trữ=|ngày truy cập=}}</ref> Theo đó, sáp nhập toàn bộ diện tích và dân số của ba xã Do Nhân, Quy Mỹ và Tuân Lộ thành xã Nhân Mỹ. 
+-->
+
+== Văn hóa ==
+Trên địa bàn xã còn gìn giữ được lễ hội đánh cá vào khoảng tháng 3 hàng năm khi đầu mùa mưa, đây là tập tục truyền thống từ thời phong kiến còn chế độ nhà Lang ở [[xứ Mường]].<ref name="bhb">{{Chú thích web|url=http://www.baohoabinh.com.vn/237/70768/Le_hoi_danh_ca_suoi_thang_3_xa_Lo_Son_huyen_Tan_Lac.htm|tiêu đề=Lễ hội đánh cá suối tháng 3 xã Lỗ Sơn, huyện Tân Lạc|ngày truy cập=ngày 10 tháng 12 năm 2016|nhà xuất bản=Báo Hòa Bình|archive-date=2022-08-07|archive-url=https://web.archive.org/web/20220807193506/http://www.baohoabinh.com.vn/237/70768/Le_hoi_danh_ca_suoi_thang_3_xa_Lo_Son_huyen_Tan_Lac.htm|url-status=dead}}</ref>
+
+==Chú thích==
+{{tham khảo|30em}}
+
+==Tham khảo==
+
+{{sơ khai Phú Thọ}}
+{{Đơn vị hành chính thuộc tỉnh Phú Thọ}}

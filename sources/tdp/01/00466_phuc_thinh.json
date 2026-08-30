@@ -1,0 +1,144 @@
+{
+  "ward_code": "00466",
+  "ward_name": "Phúc Thịnh",
+  "province_code": "01",
+  "resolution": "",
+  "arrangement": "2026_07",
+  "effective_date": "2026-07-01",
+  "verified": "unverified",
+  "extraction": {
+    "source": "vi.wikipedia.org",
+    "title": "(cache)",
+    "mode": "table"
+  },
+  "sources": [
+    {
+      "key": "wiki-00466-1",
+      "title": "Công bố danh sách 48 người ứng cử đại biểu Hội đồng nhân dân xã Phúc Thịnh khóa II, nhiệm kỳ 2026 – 2031",
+      "url": "https://phucthinh.hanoi.gov.vn/tin-tuc-su-kien/cong-bo-danh-sach-48-nguoi-ung-cu-dai-bieu-hdnd-xa-phuc-thinh-khoa-ii-nhiem-ky-2026-2031-2689260225154545423.htm",
+      "date": "2026-02-25",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-00466-2",
+      "title": "Nghị quyết số 111/2025/UBTVQH15 ngày 24 tháng 12 năm 2025 của Ủy ban Thường vụ Quốc hội về phân loại đô thị",
+      "url": "https://cdn.nhandan.vn/files/f4a4abf7f9a0ba4a91744616546d850872b76917f90d5a74cc9eebef1369fb6f/111.pdf",
+      "date": "2026-04-30",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-00466-3",
+      "title": "Nghị quyết số 1656/NQ-UBTVQH15 ngày 16 tháng 6 năm 2025 của Ủy ban Thường vụ Quốc hội về việc sắp xếp các đơn vị hành chính cấp xã của thành phố Hà Nội năm 2025",
+      "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf",
+      "date": "2026-05-13",
+      "type": "wikipedia-ref"
+    }
+  ],
+  "note": "Trích tự động từ Wikipedia tiếng Việt (mode=table). Cần đối chiếu nghị quyết HĐND phường/xã.",
+  "tdp": [
+    {
+      "name": "An Thịnh",
+      "type": "thôn"
+    },
+    {
+      "name": "Bến Trung",
+      "type": "thôn"
+    },
+    {
+      "name": "Cán Khê",
+      "type": "thôn"
+    },
+    {
+      "name": "Cổ Dương",
+      "type": "thôn"
+    },
+    {
+      "name": "Đìa",
+      "type": "thôn"
+    },
+    {
+      "name": "Đòai",
+      "type": "thôn"
+    },
+    {
+      "name": "Khê Nữ",
+      "type": "thôn"
+    },
+    {
+      "name": "Lễ Pháp",
+      "type": "thôn"
+    },
+    {
+      "name": "Lương Nỗ",
+      "type": "thôn"
+    },
+    {
+      "name": "Mỹ Nội",
+      "type": "thôn"
+    },
+    {
+      "name": "Nguyên Khê",
+      "type": "thôn"
+    },
+    {
+      "name": "Phù Thụy",
+      "type": "thôn"
+    },
+    {
+      "name": "Quan Âm",
+      "type": "thôn"
+    },
+    {
+      "name": "Sơn Du",
+      "type": "thôn"
+    },
+    {
+      "name": "Tằng My",
+      "type": "thôn"
+    },
+    {
+      "name": "Thượng Phúc",
+      "type": "thôn"
+    },
+    {
+      "name": "Tiên Hùng",
+      "type": "thôn"
+    },
+    {
+      "name": "Tiên Kha",
+      "type": "thôn"
+    },
+    {
+      "name": "Tòan Thắng",
+      "type": "thôn"
+    },
+    {
+      "name": "Trung Oai",
+      "type": "thôn"
+    },
+    {
+      "name": "Tuân Lề",
+      "type": "thôn"
+    },
+    {
+      "name": "Vân Long",
+      "type": "thôn"
+    },
+    {
+      "name": "Vân Nội",
+      "type": "thôn"
+    },
+    {
+      "name": "Vân Trì",
+      "type": "thôn"
+    },
+    {
+      "name": "Vệ",
+      "type": "thôn"
+    },
+    {
+      "name": "Viên Nội",
+      "type": "thôn"
+    }
+  ]
+}

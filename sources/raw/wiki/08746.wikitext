@@ -1,0 +1,70 @@
+{{Thông tin đơn vị hành chính Việt Nam | phường
+| tên = Xuân Hòa
+| hình =Đồi Thằn Lằn - Xuân Hòa.jpg 
+| ghi chú hình =Đồi Thằn Lằn và dãy [[Tam Đảo]] 
+| vĩ độ = 21.367426666375113
+| kinh độ = 105.88940252524458
+| diện tích = 96,00 km²
+| dân số = 55.237 người
+| thời điểm dân số = 2025
+| mật độ dân số = {{formatnum:{{#expr:floor({{formatnum:55.237| R}}/{{formatnum:96,00| R}})}} }} người/km²
+| vùng = [[Đông Bắc Bộ]]
+| tỉnh = [[Phú Thọ]]
+| thành lập = 16/6/2025
+| trụ sở UBND = 
+| mã hành chính = 
+| mã bưu chính = 
+}}
+{{other|Xuân Hòa (định hướng)}}
+'''Xuân Hòa''' là một [[Phường (Việt Nam)|phường]] thuộc tỉnh [[Phú Thọ]], [[Việt Nam]].
+
+==Địa lý==
+Phường Xuân Hòa nằm ở phía Đông tỉnh Phú Thọ, có vị trí địa lý:
+*Phía Bắc giáp tỉnh [[Thái Nguyên]].
+*Phía Nam giáp phường [[Phúc Yên (phường)|Phúc Yên]].
+*Phía Đông giáp thành phố [[Hà Nội]].
+*Phía Tây giáp xã [[Bình Tuyền]] và xã [[Bình Nguyên, Phú Thọ|Bình Nguyên]].
+
+==Hành chính==
+Phường Xuân Hòa được chia thành 23 tổ dân phố: An Đồng, Bảo An, Cao Quang, Đại Quang, Đồng Chằm, Đồng Quỳ, Đồng Xuân, Đức Cung, Hiển Lễ, Hoà Bình, Lập Đinh, Miếu Gỗ, Ngọc Thanh, Quyết Thắng, Sơn Đồng, Thanh Bình, Thanh Lộc, Thắng Lợi, Thống Nhất, Xuân Hòa 1, Xuân Hòa 2, Yên Điềm và Yên Mỹ.
+
+==Lịch sử==
+Trước kia, Xuân Hòa là một phường thuộc thành phố [[Phúc Yên (thành phố)|Phúc Yên]], tỉnh [[Vĩnh Phúc (tỉnh)|Vĩnh Phúc]] cũ.
+
+Ngày [[16 tháng 6]] năm [[1976]], [[Thủ tướng Chính phủ]] ra quyết định về việc thành lập thị trấn Xuân Hòa trực thuộc tỉnh Vĩnh Phú.<ref>{{Chú thích web|url=https://www.vinhphuc.gov.vn/ct/cms/HeThongChinhTriTinh/uybannhandancachuyenthanhthi/thixaphucyen/Lists/TinTucHoatDong/View_Detail.aspx?ItemID=66|tựa đề=Xuân Hòa đô thị tuổi 30 trên đường phát triển|tác giả=|họ=|tên=|ngày=2006-10-10|website=Cổng thông tin điện tử tỉnh Vĩnh Phúc|url lưu trữ=|ngày lưu trữ=|ngày truy cập=}}{{Liên kết hỏng|date=2023-03-31 |bot=InternetArchiveBot }}</ref>
+
+Ngày [[5 tháng 7]] năm [[1977]], Hội đồng Chính phủ ban hành Quyết định 178-CP.<ref>{{Chú thích web|url=https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-178-CP-hop-nhat-dieu-chinh-dia-gioi-huyen-thuoc-tinh-Vinh-Phu-57438.aspx|tựa đề=Quyết định 178-CP năm 1977 về việc hợp nhất và điều chỉnh địa giới một số huyện thuộc tỉnh Vĩnh Phú|tác giả=|họ=|tên=|ngày=|website=|url lưu trữ=|ngày lưu trữ=|ngày truy cập=}}</ref> Theo đó, hợp nhất 2 huyện [[Đa Phúc (huyện)|Đa Phúc]], [[Kim Anh (huyện)|Kim Anh]] và thị trấn Xuân Hòa thành huyện [[Sóc Sơn (huyện)|Sóc Sơn]]; Xuân Hòa trở thành thị trấn thuộc huyện Sóc Sơn.
+
+Ngày [[17 tháng 2]] năm [[1979]], Hội đồng Chính phủ ban hành Quyết định 49-CP.<ref>{{Chú thích web|url=https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/Quyet-dinh-49-CP-dieu-chinh-dia-gioi-xa-thi-tran-huyen-Soc-Son-Me-Linh-Hoai-Duc-Phuc-Tho-Thanh-Tri-thuoc-Ha-Noi-58079.aspx|tựa đề=Quyết định 49-CP năm 1979 điều chỉnh địa giới một số xã, thị trấn thuộc các huyện Sóc Sơn, Mê Linh, Hoài Đức, Phúc Thọ và Thanh Trì thuộc thành phố Hà Nội|tác giả=|họ=|tên=|ngày=|website=|url lưu trữ=|ngày lưu trữ=|ngày truy cập=}}</ref> Theo đó, chuyển thị trấn Xuân Hòa về huyện Mê Linh quản lí.
+
+Ngày [[9 tháng 12]] năm [[2003]], [[Chính phủ Việt Nam|Chính phủ]] ban hành Nghị định 153/2003/NĐ-CP.<ref name="ND153">{{Chú thích web|url=https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Nghi-dinh-153-2003-ND-CP-thanh-lap-thi-xa-Phuc-Yen-huyen-Tam-Dao-tinh-Vinh-Phuc-53824.aspx|title=Nghị định 153/2003/NĐ-CP về việc thành lập thị xã Phúc Yên và huyện Tam Đảo, tỉnh Vĩnh Phúc|last=|first=|date=|website=|archive-url=|archive-date=|url-status=|accessdate =}}</ref> Theo đó, chuyển thị trấn Xuân Hòa về thị xã Phúc Yên vừa tái lập và thành lập phường Xuân Hòa trên cơ sở toàn bộ 763,66ha diện tích tự nhiên và 17.333 người của thị trấn Xuân Hòa.
+
+Ngày [[4 tháng 4]] năm [[2008]], Chính phủ ban hành Nghị định 39/2008/NĐ-CP.<ref name="ND39">{{Chú thích web|url=https://thuvienphapluat.vn/van-ban/Bat-dong-san/Nghi-dinh-39-2008-ND-CP-dieu-chinh-dia-gioi-hanh-chinh-xa-phuong-thanh-lap-thi-tran-phuong-thuoc-huyen-Me-Linh-Lap-Thach-Phuc-Yen-tinh-Vinh-Phuc-64903.aspx|title=Nghị định 39/2008/NĐ-CP về điều chỉnh địa giới hành chính xã, phường để thành lập thị trấn, phường thuộc các huyện: Mê Linh, Lập Thạch và thị xã Phúc Yên, tỉnh Vĩnh Phúc|last=|first=|date=|website=|archive-url=|archive-date=|url-status=|accessdate =}}</ref> Theo đó, thành lập phường Đồng Xuân trên cơ sở điều chỉnh 339,76ha diện tích tự nhiên và 14.217 người của phường Xuân Hòa.
+
+Sau khi điều chỉnh địa giới hành chính, phường Xuân Hòa còn lại 339,76ha diện tích tự nhiên và dân số là 14.217 người.
+
+Ngày [[12 tháng 6]] năm [[2025]], [[Quốc hội Việt Nam|Quốc hội]] ban hành Nghị quyết số 202/2025/QH15<ref name="202/2025/QH15">{{Chú thích web |ngày=2025-06-12 |tựa đề=Nghị quyết số 202/2025/QH15 về việc sắp xếp đơn vị hành chính cấp tỉnh |url=https://quochoi.vn/tintuc/Pages/tin-hoat-dong-cua-quoc-hoi.aspx?ItemID=94532 |url-status=live |url lưu trữ=https://web.archive.org/web/20250612150244/https://quochoi.vn/tintuc/Pages/tin-hoat-dong-cua-quoc-hoi.aspx?ItemID=94532 |ngày lưu trữ=2025-06-12 |ngày truy cập=2025-06-12 |website=Cổng thông tin điện tử Quốc hội Việt Nam}}</ref> về việc sắp xếp đơn vị hành chính cấp tỉnh (Nghị quyết có hiệu lực từ ngày 12 tháng 6 năm 2025). Theo đó, sáp nhập tỉnh [[Hòa Bình (tỉnh)|Hoà Bình]] và tỉnh [[Vĩnh Phúc (tỉnh)|Vĩnh Phúc]] vào tỉnh Phú Thọ. Phường Xuân Hòa thuộc tỉnh Phú Thọ.
+
+Ngày [[16 tháng 6]] năm [[2025]]:
+
+* Quốc hội ban hành Nghị quyết số 203/2025/QH15 về việc sửa đổi, bổ sung một số điều của Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam (nghị quyết có hiệu lực từ ngày [[16 tháng 6]] năm [[2025]]).<ref>{{Chú thích web |last=xaydungchinhsach.chinhphu.vn |date=2025-06-28 |title=NGHỊ QUYẾT 203/2025/QH15 SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA HIẾN PHÁP NƯỚC CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM |url=https://xaydungchinhsach.chinhphu.vn/nghi-quyet-203-2025-qh15-sua-doi-bo-sung-mot-so-dieu-cua-hien-phap-nuoc-cong-hoa-xa-hoi-chu-nghia-viet-nam-119250616181735552.htm |url-status=live |archive-url=http://web.archive.org/web/20260715200606/https://xaydungchinhsach.chinhphu.vn/nghi-quyet-203-2025-qh15-sua-doi-bo-sung-mot-so-dieu-cua-hien-phap-nuoc-cong-hoa-xa-hoi-chu-nghia-viet-nam-119250616181735552.htm |archive-date=2026-07-15 |access-date=2026-07-15 |website=Báo Điện tử Chính phủ |language=vi}}</ref> Theo đó, kết thúc hoạt động của đơn vị hành chính cấp huyện trong cả nước từ ngày 1 tháng 7 năm 2025.
+
+* [[Ủy ban Thường vụ Quốc hội]] ban hành Nghị quyết số 1676/NQ-UBTVQH15 về việc sắp xếp đơn vị hành chính cấp xã của tỉnh [[Phú Thọ]] năm 2025 (nghị quyết có hiệu lực từ ngày [[16 tháng 6]] năm [[2025]]).<ref>{{Chú thích web |last=xaydungchinhsach.chinhphu.vn |date=2025-06-20 |title=Nghị quyết số 1676/NQ-UBTVQH15 sắp xếp các ĐVHC cấp xã của tỉnh Phú Thọ năm 2025 |url=https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-1676-nq-ubtvqh15-sap-xep-cac-dvhc-cap-xa-cua-tinh-phu-tho-nam-2025-119250616204317326.htm |url-status=live |archive-url=http://web.archive.org/web/20260725082021/https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-1676-nq-ubtvqh15-sap-xep-cac-dvhc-cap-xa-cua-tinh-phu-tho-nam-2025-119250616204317326.htm |archive-date=2026-07-25 |access-date=2025-09-07 |website=Báo Điện tử Chính phủ |language=vi}}</ref> Theo đó, sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của các phường Đồng Xuân, Xuân Hòa và các xã Cao Minh, Ngọc Thanh (thành phố [[Phúc Yên (thành phố)|Phúc Yên]], tỉnh [[Vĩnh Phúc (tỉnh)|Vĩnh Phúc]] cũ) thành phường mới có tên gọi là '''phường Xuân Hòa'''.
+Sau khi thực hiện sắp xếp, phường Xuân Hòa được chia thành 37 tổ dân phố: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, T80, An Đồng, Bảo An, Cao Quang, Đại Lộc, Đại Quang, Đồng Chằm, Đồng Đầm, Đồng Giãng, Đồng Quỳ, Đức Cung, Hiển Lễ, Lập Đinh, Miếu Gỗ, Sơn Đồng, Thanh Cao, Thanh Lộc, Thôn Chung, Xuân Hòa 1, Xuân Hòa 2, Yên Điềm, Yên Mỹ 1, Yên Mỹ 2.<ref>{{Chú thích web |last=Bộ Dân tộc và Tôn giáo|date=2026-01-29|title=Danh sách Thôn vùng đồng bào dân tộc thiểu số và miền núi, thôn đặc biệt khó khăn giai đoạn 2026 - 2030 trên địa bàn tỉnh Phú Thọ|url=http://files.ubdt.gov.vn/files/ecm/source_files/2026/02/05/11252411_4.%20Ph%C3%BA%20Th%E1%BB%8D%201%20(th%C3%B4n).signed_26-02-05.pdf|url-status=live|archive-url=https://web.archive.org/web/20260417090807/http://files.ubdt.gov.vn/files/ecm/source_files/2026/02/05/11252411_4.%20Ph%C3%BA%20Th%E1%BB%8D%201%20(th%C3%B4n).signed_26-02-05.pdf|archive-date=2026-04-17|access-date=2026-04-17|website=Cổng Thông tin điện tử Bộ Dân tộc và Tôn giáo}}</ref><ref>{{Chú thích web |last=Ủy ban bầu cử phường Xuân Hòa|date=2026-02-12|title=Nghị quyết số 2/NQ-UBBC về việc công bố danh sách chính thức những người ứng cử đại biểu Hội đồng nhân dân phường Xuân Hòa Khóa XIV, nhiệm kỳ 2026-2031 theo từng đơn vị bầu cử|url=https://xuanhoa.phutho.gov.vn/images/N%C4%83m_2026/NQ_C%C3%94NG_B%E1%BB%90_DANH_S%C3%81CH_CH%C3%8DNH_TH%E1%BB%A8C_NG%C6%AF%E1%BB%9CI_%E1%BB%A8NG_C%E1%BB%AC_%C4%90B_H%C4%90ND_PH%C6%AF%E1%BB%9CNG.pdf|url-status=live|archive-url=https://web.archive.org/web/20260417090807/https://xuanhoa.phutho.gov.vn/images/N%C4%83m_2026/NQ_C%C3%94NG_B%E1%BB%90_DANH_S%C3%81CH_CH%C3%8DNH_TH%E1%BB%A8C_NG%C6%AF%E1%BB%9CI_%E1%BB%A8NG_C%E1%BB%AC_%C4%90B_H%C4%90ND_PH%C6%AF%E1%BB%9CNG.pdf|archive-date=2026-04-17|access-date=2026-04-17|website=Trang Thông tin điện tử phường Xuân Hòa - tỉnh Phú Thọ}}</ref>
+
+== Giao thông ==
+[[hình:Chợ Xuân Hòa.jpg|thumb|trái|Chợ Xuân Hòa]]
+Tuyến xe buýt số 95 (Nam Thăng Long – Xuân Hòa) của [[Hà Nội|thành phố Hà Nội]] đi qua địa bàn phường.<ref>{{Chú thích web |last=vovgiaothong.vn |title=Transecor mở mới tuyến buýt số 95 kết nối ngoại thành |url=https://vovgiaothong.vn/transecor-mo-moi-tuyen-buyt-so-95-ket-noi-ngoai-thanh-d16555.html |access-date=2026-07-16 |website=VOV Giao thông |language=vi|date=2017-06-19}}</ref>
+
+==Di tích - Danh thắng==
+* Khu du lịch [[hồ Đại Lải]]
+==Hình ảnh==
+[[File:Bãi tắm hồ Đại Lải.jpg|thumb|[[Hồ Đại Lải]]]]
+
+==Chú thích==
+{{tham khảo}}
+
+==Tham khảo==
+
+{{sơ khai Phú Thọ}}
+{{Đơn vị hành chính thuộc tỉnh Phú Thọ}}

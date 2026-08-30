@@ -1,0 +1,208 @@
+{{Thông tin đơn vị hành chính Việt Nam |Xã
+| tên = Vân Đình
+| hình =Bún vịt Vân Đình (Hà Nội tháng 7 năm 2018).jpg 
+| ghi chú hình =Bún vịt Vân Đình 
+| vĩ độ = 20.735580477502424
+| kinh độ = 105.77192482870107
+| diện tích = 41,6 km²
+| dân số = 60.828 người
+| thời điểm dân số = 2025
+| mật độ dân số = {{formatnum:{{#expr:floor({{formatnum:60.828| R}}/{{formatnum:41,6| R}})}} }} người/km²
+| thành phố = [[Hà Nội]]
+| thành lập = 
+| web = {{url|vandinh.hanoi.gov.vn}}
+| mã hành chính = 10354<ref>{{Chú thích web |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/19ttg.signed.pdf |title=Quyết định số 19/2025/QĐ-TTg ngày 30 tháng 6 năm 2025 của Thủ tướng Chính phủ về việc Ban hành Bảng danh mục và mã số các đơn vị hành chính Việt Nam |access-date=2026-06-15 |archive-date=2026-06-15 |archive-url=https://web.archive.org/web/20260615034519/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/19ttg.signed.pdf |url-status=dead | website = Cổng Thông tin điện tử Chính phủ}}</ref>
+|bản đồ 1={{maplink|frame=yes|plain=yes|type=shape|frame-width=280|frame-align=center|stroke-width=3}}|vùng=[[Đồng bằng sông Hồng]]|trụ sở UBND=Thôn Hoàng Xá<ref>{{Chú thích web |url=https://storage-vnportal.vnpt.vn/gov-hni/6244/VanBan/2025/6/25/TB-729-2025.pdf |title=Thông báo số 729/TB-UBND ngày 25 tháng 6 năm 2025 của Ủy ban nhân dân thành phố Hà Nội về địa điểm trụ sở làm việc của 126 phường, xã sau sắp xếp thuộc phạm vi quản lý của thành phố Hà Nội|access-date=2026-06-15 |archive-date=2026-06-15 |archive-url=https://web.archive.org/web/20260615034519/https://storage-vnportal.vnpt.vn/gov-hni/6244/VanBan/2025/6/25/TB-729-2025.pdf |url-status=dead | website = Cổng Thông tin điện tử Ủy ban nhân dân thành phố Hà Nội}}</ref>|trụ sở Đảng ủy=Thôn Hoàng Xá}}
+
+'''Vân Đình''' là một [[Xã (Việt Nam)|xã]] thuộc thành phố [[Hà Nội]], [[Việt Nam]].
+
+== Địa lý== 
+Xã Vân Đình có vị trí địa lý:
+
+* Phía đông giáp xã [[Phượng Dực]] và xã [[Ứng Hòa (xã)|Ứng Hòa]]
+* Phía tây giáp xã [[Hồng Sơn, Hà Nội|Hồng Sơn]] với ranh giới tự nhiên là [[sông Đáy]]
+* Phía nam giáp xã [[Hòa Xá]]
+* Phía bắc giáp xã [[Phúc Sơn]] (với ranh giới tự nhiên là [[sông Đáy]]) và xã [[Ứng Thiên]].<ref>{{Chú thích web |last=Viện nghiên cứu Phát triển kinh tế – xã hội Hà Nội |date=2025-07-02 |title=Xã Vân Đình: Những thông tin chi tiết sau sắp xếp |url=https://hanoionline.vn/xa-van-dinh-nhung-thong-tin-chi-tiet-sau-sap-xep-344039.htm |url-status=live |archive-url=https://web.archive.org/web/20260711400809/https://hanoionline.vn/xa-van-dinh-nhung-thong-tin-chi-tiet-sau-sap-xep-344039.htm |archive-date=2026-07-11 |access-date=2026-07-11 |website=Cơ quan Báo và Phát thanh Truyền hình Hà Nội}}</ref><ref>{{Chú thích web |last=Cơ quan Báo và Phát thanh Truyền hình Hà Nội |date=2025-07-08 |title=Xã Vân Đình: Tất cả thông tin chỉ dẫn bạn cần biết |url=https://hanoionline.vn/xa-van-dinh-tat-ca-thong-tin-chi-dan-ban-can-biet-345451.htm |url-status=live |archive-url=https://web.archive.org/web/20260711401509/https://hanoionline.vn/xa-van-dinh-tat-ca-thong-tin-chi-dan-ban-can-biet-345451.htm |archive-date=2026-07-11 |access-date=2026-07-11}}</ref>
+Xã Vân Đình có diện tích tự nhiên là 41,6 km<sup>2</sup>, quy mô dân số năm 2025 là 60.828 người và mật độ dân số đạt 1.462 người/km<sup>2</sup>.<ref>{{Chú thích web |last=Mai Hữu |date=2026-04-05 |title=Hà Nội: Chi tiết phương án tổng thể sắp xếp đơn vị hành chính cấp xã |url=https://hanoimoi.vn/ha-noi-chi-tiet-phuong-an-tong-the-sap-xep-don-vi-hanh-chinh-cap-xa-700278.html |url-status=live |archive-url=https://web.archive.org/web/20260711401509/https://hanoimoi.vn/ha-noi-chi-tiet-phuong-an-tong-the-sap-xep-don-vi-hanh-chinh-cap-xa-700278.html |archive-date=2026-07-11 |access-date=2026-07-11 |website=Cơ quan Báo và Phát thanh, truyền hình Hà Nội}}</ref><ref>Công văn số 2896/BNV-CQĐP ngày 27 tháng 5 năm 2025 của Bộ Nội vụ về việc cung cấp thông tin danh mục dự kiến đơn vị hành chính cấp xã mới.</ref>
+
+== Lịch sử==
+
+=== Trước năm 1976 ===
+Tiền thân xã Vân Đình là thị trấn Vân Đình được thành lập vào năm [[1956]] trên cơ sở tách thôn Vân Đình của xã Tân Phương trở thành huyện lỵ của huyện [[Ứng Hòa (huyện)|Ứng Hòa]].
+
+=== Giai đoạn 1976 – nay ===
+Sau ngày 2 tháng 7 năm 1976, thị trấn Vân Đình và 6 xã: Cao Thành, Đồng Tiến, Phương Tú, Sơn Công, Tảo Dương Văn, Tân Phương thuộc huyện [[Ứng Hòa (huyện)|Ứng Hòa]] của tỉnh [[Hà Sơn Bình]].
+
+Ngày 12 tháng 8 năm 1991, chia tỉnh [[Hà Sơn Bình]] thành 2 tỉnh, lấy tên là tỉnh [[Hòa Bình (tỉnh)|Hòa Bình]] và tỉnh [[Hà Tây (tỉnh)|Hà Tây]]. Khi đó, thị trấn Vân Đình và 6 xã: Cao Thành, Đồng Tiến, Phương Tú, Sơn Công, Tảo Dương Văn, Tân Phương thuộc huyện [[Ứng Hòa (huyện)|Ứng Hòa]] của tỉnh [[Hà Tây (tỉnh)|Hà Tây]].<ref>Nghị quyết ngày 12 tháng 8 năm 1991 của Quốc hội khóa VIII, Kỳ họp thứ 9 về việc điều chỉnh địa giới hành chính một số tỉnh, thành phố trực thuộc Trung ương.</ref>
+
+Ngày 23 tháng 9 năm 2003, chuyển xã Tân Phương; 75,76 ha diện tích tự nhiên và 1.480 nhân khẩu (toàn bộ diện tích tự nhiên và dân số của thôn Hoàng Xá với 70,1 ha và 1.122 nhân khẩu, 3,52 ha diện tích và 150 nhân khẩu của thôn Lương Xá và 2,14 ha diện tích và 208 nhân khẩu của thôn Đình Tràng) thuộc xã Liên Bạt; 36,63 ha diện tích tự nhiên và 558 nhân khẩu của xã Phương Tú; 7,5 ha diện tích nhiên và 36 nhân khẩu (thôn Thái Bình) thuộc xã Vạn Thái sáp nhập về thị trấn Vân Đình quản lý.<ref>{{Chú thích web| url = https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/Nghi-dinh-107-2003-ND-CP-dieu-chinh-dia-gioi-hanh-chinh-mo-rong-thi-xa-Ha-Dong-thanh-lap-phuong-mo-rong-thi-tran-Van-Dinh-Ung-Hoa-Ha-Tay-51526.aspx| title = Nghị định số 107/2003/NĐ-CP ngày 23 tháng 9 năm 2003 của Chính phủ về việc điều chỉnh địa giới hành chính mở rộng thị xã Hà Đông, thành lập phường thuộc thị xã Hà Đông và mở rộng thị trấn Vân Đình huyện Ứng Hòa, tỉnh Hà Tây| last = | first = | date = | website = | archive-url =https://web.archive.org/web/20260801201510/https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/Nghi-dinh-107-2003-ND-CP-dieu-chinh-dia-gioi-hanh-chinh-mo-rong-thi-xa-Ha-Dong-thanh-lap-phuong-mo-rong-thi-tran-Van-Dinh-Ung-Hoa-Ha-Tay-51526.aspx | archive-date =2026-08-01 | url-status =dead | access-date =2026-08-01 }}</ref>
+
+Ngày 29 tháng 5 năm 2008, hợp nhất tỉnh [[Hà Tây (tỉnh)|Hà Tây]] vào thành phố [[Hà Nội]]. Khi đó, thị trấn Vân Đình và 5 xã: Cao Thành, Đồng Tiến, Phương Tú, Sơn Công, Tảo Dương Văn thuộc huyện [[Ứng Hòa (huyện)|Ứng Hòa]] của thành phố [[Hà Nội]].<ref>Nghị quyết số 15/2008/QH12 ngày 29 tháng 5 năm 2008 của Quốc hội khóa XII, Kỳ họp thứ 3 về việc điều chỉnh địa giới hành chính thành phố Hà Nội và một số tỉnh có liên quan.</ref>
+
+Ngày 14 tháng 11 năm 2024, thành lập xã Cao Sơn Tiến trên cơ sở nhập xã Cao Thành, xã Sơn Công và xã Đồng Tiến.<ref>{{Chú thích web |tiêu đề=Nghị quyết số 1286/NQ-UBTVQH15 ngày 14 tháng 11 năm 2024 của Ủy ban Thường vụ Quốc hội về việc sắp xếp đơn vị hành chính cấp xã của thành phố Hà Nội giai đoạn 2023 – 2025 |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/11/1286-qh.signed.pdf |url-status=dead |archive-url=https://web.archive.org/web/20260725401509/https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/11/1286-qh.signed.pdf |ngày lưu trữ=2026-07-25 |ngày truy cập=2026-07-25 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+
+Ngày 16 tháng 6 năm 2025:
+
+* Kết thúc hoạt động của đơn vị hành chính cấp huyện trong cả nước.<ref>{{Chú thích web |last= |date= |title=Nghị quyết số 203/2025/QH15 ngày 16 tháng 6 năm 2025 của Quốc hội khóa XV, Kỳ họp thứ 9 về việc sửa đổi, bổ sung một số điều của Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/nq-sua-doi-hien-phap.pdf |url-status=live |archive-url=https://web.archive.org/web/20260613090807/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/nq-sua-doi-hien-phap.pdf |archive-date=2026-06-13 |access-date=2026-06-13 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+* Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của thị trấn Vân Đình và các xã Cao Sơn Tiến, Phương Tú, Tảo Dương Văn (huyện [[Ứng Hòa (huyện)|Ứng Hòa]]) thành xã mới có tên gọi là xã Vân Đình.<ref>{{Chú thích web |title=Nghị quyết số 1656/NQ-UBTVQH15 ngày 16 tháng 6 năm 2025 của Ủy ban Thường vụ Quốc hội về việc sắp xếp các đơn vị hành chính cấp xã của thành phố Hà Nội năm 2025 |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf |url-status=live |archive-url=https://web.archive.org/web/20260630400809/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf |archive-date=2026-06-30 |access-date=2026-06-30 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+* Sau khi sắp xếp, xã Vân Đình được chia thành 30 thôn.<ref>9 tổ dân phố – thôn, gồm 5 tổ dân phố: Hoàng Văn Thụ, Lê Lợi, Nguyễn Thượng Hiền, Quang Trung, Trần Đăng Ninh và 4 thôn: Hoàng Xá, Ngọ Xá, Thanh Ấm, Vân Đình của thị trấn Vân Đình cũ; 11 thôn: Cao Lãm, Tử Dương (trước thuộc xã Cao Thành), Đoàn Xá, Giang Đường, Giang Làng, Giang Soi, Thành Vật (trước thuộc xã Đồng Tiến), Hoàng Dương, Nghi Lộc, Vĩnh Hạ và Vĩnh Thượng (trước thuộc xã Sơn Công) của xã Cao Sơn Tiến cũ; 6 thôn: Dương Khê, Động Phí, Hậu Xá, Ngọc Động, Nguyễn Xá và Phí Trạch của xã Phương Tú cũ; 4 thôn: Đông Dương, Tảo Khê, Văn Cao và Văn Ông của xã Tảo Dương Văn cũ.</ref><ref>{{Chú thích web |title=Thông tư số 10/2022/TT-BTNMT ngày 29 tháng 9 năm 2022 của Bộ Tài nguyên và Môi trường về việc Ban hành Danh mục địa danh dân cư, sơn văn, thủy văn, kinh tế – xã hội phục vụ công tác thành lập bản đồ thành phố Hà Nội |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2022/10/10-btnmt.pdf |url-status=live |archive-url=https://web.archive.org/web/20260630400809/https://datafiles.chinhphu.vn/cpp/files/vbpq/2022/10/10-btnmt.pdf |archive-date=2026-06-30 |access-date=2026-06-30 |website=Cổng Thông tin điện tử Chính phủ}}</ref><ref>{{Chú thích web |last=Thu Trang |date=2026-02-25 |title=Danh sách chính thức những người ứng cử đại biểu Hội đồng nhân dân xã Vân Đình khóa II, nhiệm kỳ 2026 – 2031 |url=https://vandinh.hanoi.gov.vn/tin-tuc-su-kien/danh-sach-chinh-thuc-nhung-nguoi-ung-cu-dai-bieu-hoi-dong-nhan-dan-xa-van-dinh-khoa-ii-nhiem-ky-2026-2031-2726260225092404685.htm |url-status=dead |archive-url=https://web.archive.org/web/20260801400809/https://vandinh.hanoi.gov.vn/tin-tuc-su-kien/danh-sach-chinh-thuc-nhung-nguoi-ung-cu-dai-bieu-hoi-dong-nhan-dan-xa-van-dinh-khoa-ii-nhiem-ky-2026-2031-2726260225092404685.htm |archive-date=2026-08-01 |access-date=2026-08-01 |website=Trang Thông tin điện tử xã Vân Đình – thành phố Hà Nội}}</ref>
+Ngày 12 tháng 9 năm 2025, chuyển đổi 5 tổ dân phố: Hoàng Văn Thụ, Lê Lợi, Nguyễn Thượng Hiền, Quang Trung và Trần Đăng Ninh của thị trấn Vân Đình cũ thành thôn.<ref>{{Chú thích web |last=Đình Thủy |date=2025-09-12 |title=Thường trực Hội đồng nhân dân xã Vân Đình đã tổ chức Kỳ họp thứ 2 (kỳ họp chuyên đề) Hội đồng nhân dân xã khóa I, nhiệm kỳ 2021 – 2026 |url=https://vandinh.hanoi.gov.vn/tin-tuc-su-kien/thuong-truc-hdnd-xa-van-dinh-da-to-chuc-ky-hop-thu-2-ky-hop-chuyen-de-hdnd-xa-khoa-i-nhiem-ky-2021-2026-2726250912204043802.htm |url-status=dead |archive-url=https://web.archive.org/web/20260801201510/https://vandinh.hanoi.gov.vn/tin-tuc-su-kien/thuong-truc-hdnd-xa-van-dinh-da-to-chuc-ky-hop-thu-2-ky-hop-chuyen-de-hdnd-xa-khoa-i-nhiem-ky-2021-2026-2726250912204043802.htm |archive-date=2026-08-01 |access-date=2026-08-01 |website=Trang Thông tin điện tử xã Vân Đình – thành phố Hà Nội}}</ref>
+
+Ngày 24 tháng 12 năm 2025, xác định một phần của xã Vân Đình là [[Đô thị Việt Nam|đô thị loại III]].<ref>Chuyển tiếp từ thị trấn Vân Đình thuộc huyện Ứng Hòa.</ref><ref>{{Chú thích web |title=Nghị quyết số 111/2025/UBTVQH15 ngày 24 tháng 12 năm 2025 của Ủy ban Thường vụ Quốc hội về phân loại đô thị |url=https://cdn.nhandan.vn/files/f4a4abf7f9a0ba4a91744616546d850872b76917f90d5a74cc9eebef1369fb6f/111.pdf |url-status=dead |archive-url=https://web.archive.org/web/20260712401509/https://cdn.nhandan.vn/files/f4a4abf7f9a0ba4a91744616546d850872b76917f90d5a74cc9eebef1369fb6f/111.pdf |archive-date=2026-07-12 |access-date=2026-07-12 |website=Báo Nhân dân}}</ref>
+
+Ngày 30 tháng 6 năm 2026, thành lập 6 thôn mới: Cao Dương, Thanh Dương, Vĩnh Lộc, Vân Phúc, Thiên Phúc và Vân Ông.<ref>1. 16 thôn giữ nguyên: Tử Dương, Vân Đình, Động Phí, Nghi Lộc, Thành Vật, Hoàng Xá, Phí Trạch, Hậu Xá, Ngọc Động, Đoàn Xá, Dương Khê, Tảo Khê, Ngọ Xá, Nguyễn Xá, Đông Dương và Thanh Ấm; 2. Thành lập thôn Cao Dương trên cơ sở sáp nhập thôn Cao Lãm và Hoàng Dương; 3. Thành lập thôn Thanh Dương trên cơ sở sáp nhập thôn Giang Soi, Giang Làng, Giang Đường; 4. Thành lập thôn Vĩnh Lộc trên cơ sở sáp nhập thôn Vĩnh Hạ và Vĩnh Thượng; 5. Thành lập thôn Vân Phúc trên cơ sở sáp nhập thôn Lê Lợi, Quang Trung và Hoàng Văn Thụ; 6. Thành lập thôn Thiên Phúc trên cơ sở sáp nhập thôn Trần Đăng Ninh và Nguyễn Thượng Hiền; 7. Thành lập thôn Văn Ông trên cơ sở sáp nhập thôn Văn Cao và Văn Ông.</ref><ref name=":0">{{Chú thích web |last=Vân Đình 24H – thành phố Hà Nội |date=2026-06-12 |title=Vân Đình dự kiến còn 22/30 thôn sau sắp xếp, tổ chức lại |url=https://web.facebook.com/story.php?story_fbid=1492567192910093&id=100064704787714&rdid=FiCTkcxtoHGi1hce# |url-status=dead |archive-url=https://web.archive.org/web/20260801201510/https://web.facebook.com/story.php?story_fbid=1492567192910093&id=100064704787714&rdid=FiCTkcxtoHGi1hce# |archive-date=2026-08-01 |access-date=2026-08-01}}</ref><ref name=":02">{{Chú thích web |last=Thu Trang |date=2026-06-13 |title=Cán bộ, đảng viên và nhân dân xã Vân Đình: chung sức, đồng lòng thực hiện tốt chủ trương sáp nhập thôn |url=https://vandinh.hanoi.gov.vn/tin-tuc-su-kien/can-bo-dang-vien-va-nhan-dan-xa-van-dinh-chung-suc-dong-long-thuc-hien-tot-chu-truong-sap-nhap-thon-272626061313500273.htm |url-status=dead |archive-url=https://web.archive.org/web/20260801400809/https://vandinh.hanoi.gov.vn/tin-tuc-su-kien/can-bo-dang-vien-va-nhan-dan-xa-van-dinh-chung-suc-dong-long-thuc-hien-tot-chu-truong-sap-nhap-thon-272626061313500273.htm |archive-date=2026-08-01 |access-date=2026-08-01 |website=Trang Thông tin điện tử xã Vân Đình – thành phố Hà Nội}}</ref><ref name=":1">{{Chú thích web |last=Lại Tấn – Phương Linh |date=2026-06-30 |title=Hội đồng nhân dân xã Vân Đình quyết nghị nhiều nội dung quan trọng tại kỳ họp thường lệ giữa năm |url=https://vandinh.hanoi.gov.vn/tin-tuc-su-kien/hdnd-xa-van-dinh-quyet-nghi-nhieu-noi-dung-quan-trong-tai-ky-hop-thuong-le-giua-nam-2726260630140702371.htm |url-status=dead |archive-url=https://web.archive.org/web/20260801400809/https://vandinh.hanoi.gov.vn/tin-tuc-su-kien/hdnd-xa-van-dinh-quyet-nghi-nhieu-noi-dung-quan-trong-tai-ky-hop-thuong-le-giua-nam-2726260630140702371.htm |archive-date=2026-08-01 |access-date=2026-08-01 |website=Trang Thông tin điện tử xã Vân Đình – thành phố Hà Nội}}</ref><ref name=":2">{{Chú thích web |last=Nguyễn Thu Huyền |date=2026-07-01 |title=Xã Vân Đình công bố quyết định thành lập chi bộ các thôn sau sắp xếp |url=https://thanhuyhanoi.vn/tin-tuc/xa-van-dinh/xa-van-dinh-cong-bo-quyet-dinh-thanh-lap-chi-bo-cac-thon-sau-sap-xep--50047715.html |url-status=dead |archive-url=https://web.archive.org/web/20260801201510/https://thanhuyhanoi.vn/tin-tuc/xa-van-dinh/xa-van-dinh-cong-bo-quyet-dinh-thanh-lap-chi-bo-cac-thon-sau-sap-xep--50047715.html |archive-date=2026-08-01 |access-date=2026-08-01 |website=Trang Thông tin điện tử Đảng bộ thành phố Hà Nội}}</ref>
+
+== Hành chính ==
+Xã Vân Đình được chia thành 22 thôn: Cao Dương, Dương Khê, Đoàn Xá, Đông Dương, Động Phí, Hậu Xá, Hoàng Xá, Nghi Lộc, Ngọ Xá, Ngọc Động, Nguyễn Xá, Phí Trạch, Tảo Khê, Thanh Ấm, Thanh Dương, Thành Vật, Thiên Phúc, Tử Dương, Văn Ông, Vân Đình, Vân Phúc và Vĩnh Lộc.<ref name=":0" /><ref name=":02" /><ref name=":1" /><ref name=":2" />
+{| class="wikitable sortable" align="center" width="100%" cellspacing="6" cellpadding="0" style="background: #f9f9f9; border: 1px #aaa solid; margin-top: 16px"
+! colspan="4" style="background: #E6E6FA; font-size: 95%;" |Danh sách các thôn thuộc xã Vân Đình<ref name=":0" /><ref name=":02" /><ref name=":1" /><ref name=":2" />
+|-
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Cao Dương
+|804
+|-
+| align="left" |Dương Khê
+|550
+|-
+| align="left" |Đoàn Xá
+|956
+|-
+| align="left" |Đông Dương
+|841
+|-
+| align="left" |Động Phí
+|655
+|-
+| align="left" |Hậu Xá
+|569
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Hoàng Xá
+|523
+|-
+| align="left" |Nghi Lộc
+|747
+|-
+| align="left" |Ngọ Xá
+|914
+|-
+| align="left" |Ngọc Động
+|647
+|-
+| align="left" |Nguyễn Xá
+|505
+|-
+| align="left" |Phí Trạch
+|671
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Tảo Khê
+|591
+|-
+| align="left" |Thanh Ấm
+|652
+|-
+| align="left" |Thanh Dương
+|691
+|-
+| align="left" |Thành Vật
+|617
+|-
+| align="left" |Thiên Phúc
+|560
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Tử Dương
+|1.106
+|-
+| align="left" |Văn Ông
+|787
+|-
+| align="left" |Vân Đình
+|1.022
+|-
+| align="left" |Vân Phúc
+|788
+|-
+| align="left" |Vĩnh Lộc
+|743
+|}
+|}
+
+== Văn hóa ==
+Vân Đình là một vùng đất có lịch sử lâu đời. Về mặt địa danh, tên gọi "Kẻ Đình" và tên chữ "Vân Đình" đã khẳng định đây là địa danh cổ. Theo các sách văn hóa, các thần phả, vào thời [[nhà Đinh]], vùng đất "Kẻ Đình" đã là tụ điểm dân cư đông đúc. Vì mang nhiều dấu ấn của [[Đinh Tiên Hoàng Đế]] trong cuộc dẹp [[loạn 12 sứ quân]], nên lúc đầu "Kẻ Đình" có tên là "Kẻ Đinh".<ref>{{Chú thích web | url = https://unghoa.hanoi.gov.vn/thi-tran-van-dinh/-/news/kE1YGAwY2lj1/1/367117.html%3Bjsessionid%20%3D%209cOC8JAeE8AAqdSmmOEQ6wlg.app2 | title = Dư địa chí thị trấn Vân Đình | access-date = 2017-05-13 | archive-date = 2022-07-02 | archive-url = https://web.archive.org/web/20220702005634/https://unghoa.hanoi.gov.vn/thi-tran-van-dinh/-/news/kE1YGAwY2lj1/1/367117.html;jsessionid | url-status = dead }}</ref>
+
+Vân Đình còn là vùng đất văn hóa với nhiều truyền thống tốt đẹp được hình thành trong quá trình phát triển. Là tụ điểm dân cư đông đúc vào thời [[nhà Đinh]], nhân dân Vân Đình đã ủng hộ nghĩa quân [[Đinh Bộ Lĩnh]] xóa bỏ tình trạng cát cứ của [[12 sứ quân]]. Góp phần dựng nên quốc gia [[Đại Cồ Việt]] vào thế kỷ thứ X, đánh dấu mốc lịch sử quan trọng của dân tộc. Ở thôn Vân Đình có đình Thượng, đình Nhì, đình Ba thờ ba anh em ruột người trang Vân Đình đã mộ binh theo [[Đinh Bộ Lĩnh]] dẹp [[loạn 12 sứ quân]]. Quán Lục Sĩ ở Thanh Ấm thờ thần Minh Phúc – một tướng của [[Đinh Bộ Lĩnh]] có công với nước.
+
+Vân Đình có truyền thống hiếu học lâu đời nơi có những danh nhân nổi tiếng như [[Dương Khuê]], [[Dương Lâm]], [[Dương Thiệu Tước]], [[Dương Thụ]],... Trong những năm gần đây thì dòng họ Trần tại Vân Đình có nhiều nổi bật về thi cử và thành đạt hơn.
+
+Vân Đình còn nổi tiếng với các đặc sản như [[vịt cỏ Vân Đình]], [[thịt chó]] Vân Đình, [[giò chả]] Vân Đình, [[bánh cuốn]] chả Vân Đình, gốm Vân Đình v.v...
+
+== Di tích lịch sử== 
+Địa bàn Vân Đình có vài chục [[di tích về thời Đinh]], phản ánh sâu đậm hoạt động của Vua [[Đinh Tiên Hoàng]] và các tướng lĩnh có quê quán ở đây, tiêu biểu như:
+
+*Làng Vân Đình có các di tích lịch sử đình Thượng, đình Nhì, đình Ba thờ ba anh em ruột người trang Vân Đình đã mộ binh theo [[Đinh Bộ Lĩnh]] dẹp [[loạn 12 sứ quân]]. Chiến tranh kết thúc, cả 3 anh em được phong làm hùng trưởng và hưởng thực ấp tại Vân Đình.<ref>[https://giaoducthoidai.vn/khoa-bang-ho-duong-nuc-tieng-van-dinh-post704272.html Khoa bảng họ Dương nức tiếng Vân Đình]</ref>
+*Quán Lục Sĩ ở Thanh Ấm thờ thần Minh Phúc [[Trương Ma Ni]]– một tướng của [[Đinh Bộ Lĩnh]] có công với nước.
+*Đình Thanh Ấm thờ Thành hoàng làng là Minh Phúc Đại vương - một vị tướng có công lớn giúp [[Đinh Tiên Hoàng]] dẹp [[loạn 12 sứ quân]], thống nhất đất nước.
+*Đình Hoàng Xá thờ vị thành hoàng làng là [[thần Quý Minh]] - vị thần trấn nam [[Hoa Lư tứ trấn]].
+*Đình Thanh Dương là nơi thờ thập đạo tướng quân Lê Hoàn.
+*Miếu Cò cùng với đình Đụn nằm ở làng Động Phí là nơi thờ hai anh em Bạch Tượng, Bạch Địa và người em họ Đô Đài. Những vị [[tướng nhà Đinh]] có công thu nạp trai làng Động Phí tham gia dẹp [[loạn 12 sứ quân]].
+*Đình Động Phí thờ Bạch Tượng, vị tướng tham gia dẹp [[loạn 12 sứ quân]]. Thần tích, thần phả ở đình làng Động Phí cho biết [[Đinh Điền]], [[Nguyễn Bặc]] có về đây thu nạp lực lượng Bạch Tượng gồm 500 quân lính.
+*Đình Ngọc Động thờ Bạch Địa, vị tướng có công thu nạp trai làng Ngọc Động tham gia dẹp loạn 12 sứ quân.
+*Đình Nguyễn Xá thờ Đô Đài, tướng tham gia dẹp [[loạn 12 sứ quân]].
+<!-- 
+== Di tích lịch sử== 
+Xã Phương Tú có nhiều [[di tích về thời Đinh]] có giá trị lịch sử như:
+* Đình Động Phí ở xã Phương Tú, Ứng Hòa, [[Hà Nội]] là nơi thờ Bạch Tượng, vị [[tướng nhà Đinh]] tham gia dẹp [[loạn 12 sứ quân]]. Thần tích, thần phả ở đình làng Động Phí cho biết Đinh Điền, Nguyễn Bặc có về đây thu nạp lực lượng Bạch Tượng gồm 500 quân lính.<ref>{{Chú thích web | url = http://vanhien.vn/vi/news/phi-vat-the/Phu-Giay-va-le-hoi-gio-Me-613/ | ngày truy cập = 2018-10-21 | tựa đề = Lịch sử vị thành hoàng làng Động Phí | archive-date = 2015-11-17 | archive-url = https://web.archive.org/web/20151117031802/http://vanhien.vn/vi/news/phi-vat-the/Phu-Giay-va-le-hoi-gio-Me-613/ | url-status = dead }}</ref>
+* Đình Ngọc Động ở làng Ngọc Động xã Phương Tú, Ứng Hòa thờ Bạch Địa, [[tướng nhà Đinh]] tham gia dẹp [[loạn 12 sứ quân]] lập ra nhà nước [[Đại Cồ Việt]]
+* Đình Nguyễn Xá ở làng Nguyễn Xá, xã Phương Tú, Ứng Hòa thờ Đô Đài, [[tướng nhà Đinh]] tham gia dẹp [[loạn 12 sứ quân]] lập ra nhà nước [[Đại Cồ Việt]]
+
+Thôn Tảo Khê thuần là nông nghiệp, giàu truyền thống hiếu học yêu nước, có nhiều người tài thành đạt phục đất nước như: Cụ Nguyễn Văn Lộc (Trương Đỗ Uông),Ngô Thúc Lanh, TSNgô Huy Cẩn cha của giáo sư Ngô Bảo Châu
+
+'''Nguyễn Văn Lộc''' sinh năm 1914 tại Ứng Hòa, Hà Tây cũ - mất năm 1979 tại Hà Nội là nhà cách mạng Việt Nam, Ủy viên Dự khuyết Ban Chấp hành Trung ương Đảng Cộng sản Việt Nam, Bộ trưởng Bộ Nông nghiệp, Chủ nhiệm Ủy ban Thanh tra của Chính phủ.
+
+Ông có tên gọi khác là Trương Đỗ Uông, quê quán ở xã Tảo Dương Văn, huyện Ứng Hòa, Hà Nội, tham gia cách mạng từ năm 18 tuổi.
+
+Năm 1938, ông được kết nạp vào Đảng Cộng sản Đông Dương. Tháng 4/1946 ông được giao phụ trách phong trào của 3 tỉnh Cao Bằng, Bắc Cạn và Thái Nguyên... Kháng chiến chống Pháp bùng nổ, ông được cử làm Phó Bí thư Khu ủy khu II; Phó Bí thư liên khu III (1948); Bí thư liên khu ủy III, Chủ tịch Mặt trận thống nhất Liên khu III (1954).
+
+Ông cũng từng giữ chức Bí thư Tỉnh ủy Hà Đông và Bí thư Tỉnh ủy Sơn Tây. Tháng 7/1958, ông được bổ nhiệm làm Thứ trưởng Bộ Thủy lợi.
+
+Năm 1960, ông được bầu làm Ủy viên dự khuyết Ban Chấp hành Trung ương Đảng Lao động Việt Nam. Sau đó được bổ nhiệm làm Bộ trưởng Bộ Nông nghiệp (1967 - 1971) <sup>[1]</sup>,<sup>[2]</sup>, Bộ trưởng Phó Chủ nhiệm Ủy ban Nông nghiệp Trung ương (1971 - 1974) <sup>[3]</sup>, Chủ nhiệm Ủy ban Thanh tra Chính phủ (1974 - 1976).<sup>[4][5]</sup>...
+
+Năm 2006, ông được Đảng và Nhà nước truy tặng huân chương cao quý nhất- Huân chương sao vàng<sup>[5]</sup>.
+
+-->
+== Nhân vật nổi bật== 
+* [[Dương Khuê]] ([[1839]] – [[1902]]): Vị quan thời [[nhà Nguyễn]], [[nhà thơ]] người Việt Nam. Quê ở thôn Vân Đình.
+* [[Dương Lâm]] ([[1851]] – [[1920]]): Vị quan thời [[nhà Nguyễn]], danh sĩ, nhà giáo người Việt Nam. Đỗ cử nhân năm Mậu Dần ([[1878]]). Quê ở thôn Vân Đình.
+* [[Nguyễn Văn Lộc (bộ trưởng)|Nguyễn Văn Lộc]] ([[1914]] – [[1979]]): Nguyên Bộ trưởng Bộ Nông nghiệp, Tổng [[Thanh tra Chính phủ]]. Quê ở thôn Tảo Khê.
+* [[Dương Thiệu Tước]] ([[1915]] – [[1995]]): [[Nhạc sĩ]] người Việt Nam. Quê ở thôn Vân Đình.
+* NGND. GS. TS Đại số [[Ngô Thúc Lanh| Ngô Thúc Lanh (1923 - 2019)]], Nguyên trưởng khoa Toán-Tin, Trường Đại học Sư phạm Hà Nội. Quê Tảo Dương Văn.
+* [[Dương Thiệu Tống]] ([[1925]] – [[2008]]): [[Giáo sư]], [[tiến sĩ]], nhà giáo người Việt Nam. Quê ở thôn Vân Đình.
+* [[Dương Thụ]] (sinh năm [[1943]]): [[Nhạc sĩ]], nhà giáo người Việt Nam. Quê ở thôn Vân Đình.
+* [[Đỗ Quang Trung]] (sinh năm [[1946]]): Nguyên Bộ trưởng [[Bộ Nội vụ (Việt Nam)|Bộ Nội vụ]]. Quê ở thôn Tử Dương.
+* [[Nguyễn Quang Thiều]] (sinh năm [[1957]]): [[Nhà văn]], [[nhà thơ]] người Việt Nam. Chủ tịch [[Hội Nhà văn Việt Nam]]. Quê ở thôn Hoàng Dương.
+* [[Ngô Bảo Châu|GS Toán học Ngô Bảo Châu]] (sinh 1972), người Việt Nam đầu tiên đoạt giải [[Huy chương Fields|Field]] tương đương Nobel trong toán học, cháu họ nhà giáo Ngô Thúc Lanh, con của GS. TSKH cơ học [[Ngô Huy Cẩn]] và PGS. TS dược Trần Lưu Vân Hiền.
+
+== Chú thích== 
+{{tham khảo| 30em}}
+
+== Tham khảo ==
+{{sơ khai Hà Nội}}
+{{Đơn vị hành chính thuộc thành phố Hà Nội}}

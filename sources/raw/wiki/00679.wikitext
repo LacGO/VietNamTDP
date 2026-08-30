@@ -1,0 +1,239 @@
+{{Thông tin đơn vị hành chính Việt Nam |Xã
+| tên = Ngọc Hồi
+| hình = Chùa_Yên_Phú,_Liên_Ninh,_Thanh_Trì,_Hà_Nội.jpeg 
+| ghi chú hình = [[Chùa Yên Phú]] 
+| vĩ độ = 20.90813103715279
+| kinh độ = 105.8306841593721
+| diện tích = 13,34 km²
+| dân số = 43.864 người
+| thời điểm dân số = 2025
+| mật độ dân số = {{formatnum:{{#expr:floor({{formatnum:43.864| R}}/{{formatnum:13,34| R}})}} }} người/km²
+| vùng = [[Đồng bằng sông Hồng]]
+| thành phố = [[Hà Nội]]
+| thành lập = 
+| trụ sở UBND = Thôn Đại Áng<ref>{{Chú thích web |url=https://storage-vnportal.vnpt.vn/gov-hni/6244/VanBan/2025/6/25/TB-729-2025.pdf |title=Thông báo số 729/TB-UBND ngày 25 tháng 6 năm 2025 của Ủy ban nhân dân thành phố Hà Nội về địa điểm trụ sở làm việc của 126 phường, xã sau sắp xếp thuộc phạm vi quản lý của thành phố Hà Nội|access-date=2026-06-15 |archive-date=2026-06-15 |archive-url=https://web.archive.org/web/20260615034519/https://storage-vnportal.vnpt.vn/gov-hni/6244/VanBan/2025/6/25/TB-729-2025.pdf |url-status=dead | website = Cổng Thông tin điện tử Ủy ban nhân dân thành phố Hà Nội}}</ref>
+| mã hành chính =00679<ref>{{Chú thích web |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/19ttg.signed.pdf |title=Quyết định số 19/2025/QĐ-TTg ngày 30 tháng 6 năm 2025 của Thủ tướng Chính phủ về việc Ban hành Bảng danh mục và mã số các đơn vị hành chính Việt Nam |access-date=2026-06-15 |archive-date=2026-06-15 |archive-url=https://web.archive.org/web/20260615034519/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/19ttg.signed.pdf |url-status=dead }}</ref> 
+| mã bưu chính = 
+|bản đồ 1={{maplink|frame=yes|plain=yes|type=shape|frame-width=280|frame-align=center|stroke-width=3}}|web={{url|ngochoi.hanoi.gov.vn}}|trụ sở Đảng ủy=Số 189 đường Vĩnh Khang, thôn Yên Kiện}}
+{{other|Ngọc Hồi (định hướng)}}
+'''Ngọc Hồi''' là một [[Xã (Việt Nam)|xã]] thuộc thành phố [[Hà Nội]], [[Việt Nam]]. Nơi đây từng diễn ra [[trận Ngọc Hồi]] nổi tiếng trong [[lịch sử Việt Nam]].
+
+== Địa lý== 
+Xã Ngọc Hồi có vị trí địa lý: 
+*Phía đông giáp xã [[Nam Phù]] và xã [[Hồng Vân]]
+*Phía tây giáp xã [[Đại Thanh (xã)|Đại Thanh]] và xã [[Tam Hưng]]
+*Phía nam giáp xã [[Thường Tín (xã)|Thường Tín]]
+*Phía bắc giáp xã [[Đại Thanh (xã)|Đại Thanh]] và xã [[Thanh Trì (xã)|Thanh Trì]].<ref>{{Chú thích web|last=Viện nghiên cứu Phát triển kinh tế – xã hội Hà Nội|date=2025-07-02|title=Xã Ngọc Hồi: Những thông tin chi tiết sau sắp xếp|url=https://hanoionline.vn/xa-ngoc-hoi-nhung-thong-tin-chi-tiet-sau-sap-xep-344153.htm|url-status=bot: unknown|archive-url=https://web.archive.org/web/20251107025528/https://hanoionline.vn/xa-ngoc-hoi-nhung-thong-tin-chi-tiet-sau-sap-xep-344153.htm|archive-date=2025-11-07|access-date=2026-07-01|website=Cơ quan Báo và Phát thanh Truyền hình Hà Nội}}</ref><ref>{{Chú thích web|last=Cơ quan Báo và Phát thanh Truyền hình Hà Nội|date=2025-07-07|title=Xã Ngọc Hồi: Tất cả thông tin chỉ dẫn bạn cần biết|url=https://hanoionline.vn/xa-ngoc-hoi-tat-ca-thong-tin-chi-dan-ban-can-biet-345177.htm|url-status=bot: unknown|archive-url=https://web.archive.org/web/20260121104531/https://hanoionline.vn/xa-ngoc-hoi-tat-ca-thong-tin-chi-dan-ban-can-biet-345177.htm|archive-date=2026-01-21|access-date=2026-07-11}}</ref>
+Xã Ngọc Hồi có diện tích tự nhiên là 13,34 km<sup>2</sup>, quy mô dân số năm 2025 là 43.864 người và mật độ dân số đạt 3.288 người/km<sup>2</sup>.<ref>{{Chú thích web|last=Mai Hữu|date=2026-04-05|title=Hà Nội: Chi tiết phương án tổng thể sắp xếp đơn vị hành chính cấp xã|url=https://hanoimoi.vn/ha-noi-chi-tiet-phuong-an-tong-the-sap-xep-don-vi-hanh-chinh-cap-xa-700278.html|url-status=bot: unknown|archive-url=https://web.archive.org/web/20250710163328/https://hanoimoi.vn/ha-noi-chi-tiet-phuong-an-tong-the-sap-xep-don-vi-hanh-chinh-cap-xa-700278.html|archive-date=2025-07-10|access-date=2026-07-11|website=Cơ quan Báo và Phát thanh, truyền hình Hà Nội}}</ref><ref>Công văn số 2896/BNV-CQĐP ngày 27 tháng 5 năm 2025 của Bộ Nội vụ về việc cung cấp thông tin danh mục dự kiến đơn vị hành chính cấp xã mới.</ref>
+
+== Lịch sử==
+
+=== Trước năm 1976 ===
+
+=== Giai đoạn 1976 – nay ===
+Sau ngày 2 tháng 7 năm 1976, 5 xã: Duyên Thái, Khánh Hà, Liên Ninh, Thanh Hưng và Việt Hưng thuộc huyện [[Thường Tín (huyện)|Thường Tín]] của tỉnh [[Hà Sơn Bình]].
+
+Ngày 29 tháng 12 năm 1978, sáp nhập các xã Liên Ninh, Việt Hưng và Thanh Hưng của huyện [[Thường Tín (huyện)|Thường Tín]] thuộc tỉnh [[Hà Sơn Bình]] vào thành phố [[Hà Nội]].<ref>Nghị quyết ngày 29 tháng 12 năm 1978 của Quốc hội khóa VI, Kỳ họp thứ 4 phê chuẩn việc phân vạch lại địa giới thành phố Hà Nội, thành phố Hồ Chí Minh, các tỉnh Hà Sơn Bình, Vĩnh Phú, Cao Lạng, Bắc Thái, Quảng Ninh và Đồng Nai.</ref>
+
+Ngày 17 tháng 2 năm 1979, sáp nhập các xã Liên Ninh, Ngọc Hồi (Việt Hưng cũ) và Đại Áng (Thanh Hưng cũ) (của huyện [[Thường Tín (huyện)|Thường Tín]]) vào huyện [[Thanh Trì (xã)|Thanh Trì]].<ref>Quyết định số 49-CP ngày 17 tháng 2 năm 1979 của Hội đồng Chính phủ về việc điều chỉnh địa giới một số xã, thị trấn thuộc các huyện Sóc Sơn, Mê Linh, Hoài Đức, Phúc Thọ và Thanh Trì thuộc thành phố Hà Nội.</ref>
+
+Ngày 12 tháng 8 năm 1991, chia tỉnh [[Hà Sơn Bình]] thành 2 tỉnh, lấy tên là tỉnh [[Hòa Bình (tỉnh)|Hòa Bình]] và tỉnh [[Hà Tây (tỉnh)|Hà Tây]]. Khi đó, 2 xã: Duyên Thái và Khánh Hà thuộc huyện [[Thường Tín (huyện)|Thường Tín]] của tỉnh [[Hà Tây (tỉnh)|Hà Tây]].<ref>Nghị quyết ngày 12 tháng 8 năm 1991 của Quốc hội khóa VIII, Kỳ họp thứ 9 về việc điều chỉnh địa giới hành chính một số tỉnh, thành phố trực thuộc Trung ương.</ref>
+
+Ngày 29 tháng 5 năm 2008, hợp nhất tỉnh [[Hà Tây (tỉnh)|Hà Tây]] vào thành phố [[Hà Nội]]. Khi đó, 2 xã: Duyên Thái và Khánh Hà thuộc huyện [[Thường Tín (huyện)|Thường Tín]] của thành phố [[Hà Nội]].<ref>Nghị quyết số 15/2008/QH12 ngày 29 tháng 5 năm 2008 của Quốc hội khóa XII, Kỳ họp thứ 3 về việc điều chỉnh địa giới hành chính thành phố Hà Nội và một số tỉnh có liên quan.</ref>
+
+Ngày 16 tháng 6 năm 2025:
+
+* Kết thúc hoạt động của đơn vị hành chính cấp huyện trong cả nước.<ref>{{Chú thích web |last=|date=|title=Nghị quyết số 203/2025/QH15 ngày 16 tháng 6 năm 2025 của Quốc hội khóa XV, Kỳ họp thứ 9 về việc sửa đổi, bổ sung một số điều của Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam|url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/nq-sua-doi-hien-phap.pdf|url-status=live|archive-url=https://web.archive.org/web/20260613090807/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/nq-sua-doi-hien-phap.pdf|archive-date=2026-06-13|access-date=2026-06-13|website=Cổng Thông tin điện tử Chính phủ}}</ref>
+* Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của xã Ngọc Hồi (huyện [[Thanh Trì (huyện)|Thanh Trì]]), một phần diện tích tự nhiên, quy mô dân số của các xã Duyên Thái (huyện [[Thường Tín (huyện)|Thường Tín]]), Đại Áng (huyện [[Thanh Trì (huyện)|Thanh Trì]]), Khánh Hà (huyện [[Thường Tín (huyện)|Thường Tín]]) và phần còn lại của xã Liên Ninh (huyện [[Thanh Trì (huyện)|Thanh Trì]]) thành xã mới có tên gọi là xã Ngọc Hồi.<ref>{{Chú thích web|title=Nghị quyết số 1656/NQ-UBTVQH15 ngày 16 tháng 6 năm 2025 của Ủy ban Thường vụ Quốc hội về việc sắp xếp các đơn vị hành chính cấp xã của thành phố Hà Nội năm 2025|url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf|url-status=bot: unknown|archive-url=https://web.archive.org/web/20260513110024/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf|archive-date=2026-05-13|access-date=2026-06-30|website=Cổng Thông tin điện tử Chính phủ}}</ref>
+* Sau khi sắp xếp, xã Ngọc Hồi được chia thành 18 tổ dân phố – khu dân cư – thôn, gồm 5 tổ dân phố, 1 khu dân cư và 12 thôn.<ref>5 tổ dân phố – thôn, gồm 2 tổ dân phố: 1, 2 và 3 thôn: Lạc Thị, Ngọc Hồi, Yên Kiện của xã Ngọc Hồi cũ; 2 khu dân cư – thôn, gồm khu dân cư Cơ quan Quốc lộ 1A và thôn Phúc Am của xã Duyên Thái cũ; 4 thôn: Đại Áng, Nguyệt Áng, Vĩnh Thịnh và Vĩnh Trung của xã Đại Áng cũ; thôn Xuân Nê của xã Khánh Hà cũ; 6 tổ dân phố – thôn, gồm 3 tổ dân phố: Cơ khí và Xây lắp số 7, Cụm 591, C – 591 và 3 thôn: Nhị Châu, Phương Nhị, Yên Phú của xã Liên Ninh cũ.</ref><ref>{{Chú thích web|title=Thông tư số 10/2022/TT-BTNMT ngày 29 tháng 9 năm 2022 của Bộ Tài nguyên và Môi trường về việc Ban hành Danh mục địa danh dân cư, sơn văn, thủy văn, kinh tế – xã hội phục vụ công tác thành lập bản đồ thành phố Hà Nội|url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2022/10/10-btnmt.pdf|url-status=bot: unknown|archive-url=https://web.archive.org/web/20260630082812/https://datafiles.chinhphu.vn/cpp/files/vbpq/2022/10/10-btnmt.pdf|archive-date=2026-06-30|access-date=2026-06-30|website=Cổng Thông tin điện tử Chính phủ}}</ref><ref>{{Chú thích web|title=Quyết định số 8/QĐ-UBBC ngày 13 tháng 2 năm 2026 của Ủy ban bầu cử xã Ngọc Hồi về việc công bố danh sách chính thức những người ứng cử đại biểu Hội đồng nhân dân xã Ngọc Hồi, nhiệm kỳ 2026 – 2031|url=https://sqhx-hanoi.mediacdn.vn/91579363132710912/2026/2/25/quyet-dinh-17720137511341540076900.pdf|url-status=bot: unknown|archive-url=https://web.archive.org/web/20260703051330/https://sqhx-hanoi.mediacdn.vn/91579363132710912/2026/2/25/quyet-dinh-17720137511341540076900.pdf|archive-date=2026-07-03|access-date=2026-07-02|website=Trang Thông tin điện tử xã Ngọc Hồi – thành phố Hà Nội}}</ref>
+
+Ngày 27 tháng 8 năm 2025, 5 tổ dân phố: 1, 2 xã Ngọc Hồi (cũ), Cơ khí và Xây lắp số 7, Cụm 591, C – 591 xã Liên Ninh (cũ) và Khu dân cư cơ quan Quốc lộ 1A xã Duyên Thái (cũ) chuyển đổi thành thôn.<ref>1. Tổ dân phố Số 1, xã Ngọc Hồi (cũ), chuyển đổi thành Thôn 1, xã Ngọc Hồi; 2. Tổ dân phố Số 2, xã Ngọc Hồi (cũ), chuyển đổi thành Thôn 2, xã Ngọc Hồi; 3. Tổ dân phố Cơ khí và Xây lắp số 7, xã Liên Ninh (cũ), chuyển đổi thành Thôn Cơ khí và Xây lắp số 7, xã Ngọc Hồi; 4. Tổ dân phố Cụm 591, xã Liên Ninh (cũ), chuyển đổi thành Thôn Cụm 591, xã Ngọc Hồi; 5. Tổ dân phố C – 591, xã Liên Ninh (cũ), chuyển đổi thành Thôn C – 591, xã Ngọc Hồi; 6. Khu dân cư cơ quan Quốc lộ 1A, xã Duyên Thái (cũ), chuyển đổi thành Thôn Cơ quan Quốc lộ 1A, xã Ngọc Hồi.</ref><ref>{{Chú thích web |title=Nghị quyết số 20/NQ-HĐND ngày 27 tháng 8 năm 2025 của Hội đồng nhân dân xã Ngọc Hồi khóa XXII, nhiệm kỳ 2021 – 2026 (Kỳ họp thứ hai) về việc chuyển đổi Tổ Dân phố thành Thôn sau khi sắp xếp đơn vị hành chính cấp xã trên địa bàn xã Ngọc Hồi, thành phố Hà Nội |url=https://sqhx-hanoi.mediacdn.vn/91579363132710912/2025/9/6/nq-20-chuyen-doi-tdp-27-8-2025-1757144243124688175461.pdf |url-status=dead |archive-url=https://web.archive.org/web/20260703023410/https://sqhx-hanoi.mediacdn.vn/91579363132710912/2025/9/6/nq-20-chuyen-doi-tdp-27-8-2025-1757144243124688175461.pdf |archive-date=2026-07-03 |access-date=2026-07-03 |website=Trang Thông tin điện tử xã Ngọc Hồi – thành phố Hà Nội }}</ref>
+
+Ngày 26 tháng 6 năm 2026, thành lập 6 thôn mới: Phương Nhị, Nhị Xuân, Phúc Am, 591, 1 và Ngọc Hồi.<ref>1. Thôn Phương Nhị: Thành lập trên cơ sở nhập toàn bộ diện tích, dân số của thôn Phương Nhị và thôn Cơ khí và Xây lắp số 7; 2. Thôn Nhị Xuân: Thành lập trên cơ sở nhập toàn bộ diện tích, dân số của thôn Nhị Châu và thôn Xuân Nê; 3. Thôn Phúc Am: Thành lập trên cơ sở nhập toàn bộ diện tích, dân số của thôn Cơ quan Quốc lộ 1A và thôn Phúc Am; 4. Thôn 591: Thành lập trên cơ sở nhâp toàn bộ diện tích, dân số của thôn C-591 và thôn Cụm 591; 5. Thôn 1: Thành lập trên cơ sở nhập toàn bộ diện tích, dân số của thôn 1 và thôn 2 và nhập một phần diện tích, dân số của thôn Ngọc Hồi (xóm Mới); 6. Thôn Ngọc Hồi: Điều chỉnh một phần diện tích và dân số (khu Xóm Mới, thôn Ngọc Hồi) sang thôn 1 và thôn 2; 7. Thôn Vĩnh Thịnh: Giữ nguyên; 8. Thôn Vĩnh Trung: Giữ nguyên; 9. Thôn Lạc Thị: Giữ nguyên; 10. Thôn Yên Kiện: Giữ nguyên; 11. Thôn Yên Phú: Giữ nguyên; 12. Thôn Đại Áng: Giữ nguyên; 13. Thôn Nguyệt Áng: Giữ nguyên.</ref><ref name=":2">{{Chú thích web |title=Thông báo số 314/TB-UBND ngày 11 tháng 6 năm 2026 của Ủy ban nhân dân xã Ngọc Hồi về việc niêm yết công khai Phương án sắp xếp thôn trên địa bàn xã Ngọc Hồi năm 2026 |url=https://sqhx-hanoi.mediacdn.vn/91579363132710912/2026/6/12/thong-bao-ve-viec-niem-yet-cong-khai-phuong-an-sap-xep-thon-tren-dia-ban-ngoc-hoi-nam-2026-17812564482152113189080.pdf |url-status=dead |archive-url=https://web.archive.org/web/20260719161549/https://sqhx-hanoi.mediacdn.vn/91579363132710912/2026/6/12/thong-bao-ve-viec-niem-yet-cong-khai-phuong-an-sap-xep-thon-tren-dia-ban-ngoc-hoi-nam-2026-17812564482152113189080.pdf |archive-date=2026-07-19 |access-date=2026-07-19 }}</ref><ref name=":0">{{Chú thích web |last=Trang Thông tin điện tử xã Ngọc Hồi - thành phố Hà Nội |date=2026-06-27 |title=Kỳ họp thứ Hai xã Ngọc Hồi Khóa XXIII, nhiệm kỳ 2026 - 2031 |url=https://ngochoi.hanoi.gov.vn/hoi-dong-nhan-dan/ky-hop-thu-hai-xa-ngoc-hoi-khoa-xxiii-nhiem-ky-2026-2031-272426062617052793.htm?gidzl=Gzb3CdClB1v7naSqUJ8j7Kh4GZXYDIX6KCiKE6C_UaC6m18zP3Gh6LB2G30tO2yR0SD1DJK6nreTTYue70 |url-status=dead |archive-url=https://web.archive.org/web/20260703400809/https://ngochoi.hanoi.gov.vn/hoi-dong-nhan-dan/ky-hop-thu-hai-xa-ngoc-hoi-khoa-xxiii-nhiem-ky-2026-2031-272426062617052793.htm?gidzl=Gzb3CdClB1v7naSqUJ8j7Kh4GZXYDIX6KCiKE6C_UaC6m18zP3Gh6LB2G30tO2yR0SD1DJK6nreTTYue70 |archive-date=2026-07-03 |access-date=2026-07-03}}</ref><ref name=":1">{{Chú thích web |title=Phụ lục năm 2026 về danh mục thôn sắp xếp lại trên địa bàn xã Ngọc Hồi |url=https://sqhx-hanoi.mediacdn.vn/91579363132710912/2026/7/1/171-phu-luc-nq-sx-thon-26-6-1782906097999818663769.pdf |url-status=dead |archive-url=https://web.archive.org/web/20260703051758/https://sqhx-hanoi.mediacdn.vn/91579363132710912/2026/7/1/171-phu-luc-nq-sx-thon-26-6-1782906097999818663769.pdf |archive-date=2026-07-03 |access-date=2026-07-03 }}</ref>
+
+== Hành chính ==
+Xã Ngọc Hồi được chia thành 13 thôn: 1, 591, Đại Áng, Lạc Thị, Ngọc Hồi, Nguyệt Áng, Nhị Xuân, Phúc Am, Phương Nhị, Vĩnh Thịnh, Vĩnh Trung, Yên Kiện và Yên Phú.<ref name=":2" /><ref name=":0" /><ref name=":1" />
+{| class="wikitable sortable" align="center" width="100%" cellspacing="6" cellpadding="0" style="background: #f9f9f9; border: 1px #aaa solid; margin-top: 16px"
+! colspan="4" style="background: #E6E6FA; font-size: 95%;" |Danh sách các thôn thuộc xã Ngọc Hồi<ref name=":2" /><ref name=":0" /><ref name=":1" />
+|-
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Thôn 1
+|800
+|-
+| align="left" |Thôn 591
+|681
+|-
+| align="left" |Đại Áng
+|1.099
+|-
+| align="left" |Lạc Thị
+|1.594
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Ngọc Hồi
+|1.442
+|-
+| align="left" |Nguyệt Áng
+|510
+|-
+| align="left" |Nhị Xuân
+|1.052
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Phúc Am
+|987
+|-
+| align="left" |Phương Nhị
+|1.106
+|-
+| align="left" |Vĩnh Thịnh
+|1.041
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Vĩnh Trung
+|1.084
+|-
+| align="left" |Yên Kiện
+|585
+|-
+| align="left" |Yên Phú
+|787
+|}
+|}
+
+== Di tích - Tham quan ==
+
+=== Làng Ngọc Hồi=== 
+Làng Ngọc Hồi trước Cách mạng thuộc tổng Cổ Điển, huyện Thanh Trì, phủ Thường Tín, tỉnh Hà Đông. Làng nằm ở cửa ngõ phía Nam thủ đô, trên đầu mối giao thông thủy bộ quan trọng. Quốc lộ 1 song song với đường sắt Bắc- Nam dọc theo làng khoảng hơn một cây số.<ref name = "NH1">{{Chú thích web| url = http://www.hanoimoi.com.vn/forumdetail/1000_nam_thang_long/8492/lang-ng7885c-h7891i.htm| title = Làng Ngọc Hồi| access-date = ngày 14 tháng 5 năm 2010| author = TS. Bùi Xuân Đính| archive-url = https://web.archive.org/web/20100706120515/http://www.hanoimoi.com.vn/forumdetail/1000_nam_thang_long/8492/lang-ng7885c-h7891i.htm| archive-date = ngày 6 tháng 7 năm 2010 | url-status = live}}</ref> Làng Ngọc Hồi nay thuộc xã Ngọc Hồi, huyện Thanh Trì.
+
+Làng còn có con đường cổ, xưa gọi là "đường Quai " hay "đường cái cao" vốn là con đường Thiên Lý từ Quán Gánh về Duyên Trường, Hạ Thái lên, qua làng Yên Kiện đến đầu làng Quỳnh Đô (xã Vĩnh Quỳnh) để vào Chợ Mơ, Thăng Long. Đường thủy có sông Tô Lịch từ Hồ Tây - Ngã Tư Sở chảy qua xuôi về Thường Tín.<ref name = "NH1"/>
+
+Đầu thế kỷ 13, Ngọc Hồi có tên là Vĩnh Khang, là làng đông đúc, do ba anh em ông Bảo Công, ả Mô nương và Nhị Mô nương cai quản, trở thành một thế lực quân sự mạnh, ảnh hưởng đến cơ nghiệp của nhà Trần, nên [[Trần Thủ Độ]] đã mang quân đến trấn dẹp, song bị anh em Bảo Công đánh bại. Sau, Bảo Công đem quân của mình về với triều Trần, được gia phong làm tướng và lập nhiều chiến công trong cuộc kháng chiến chống Nguyên- Mông. Sau khi ba anh em mất, Vua Trần phong tặng Bảo Công là Quảng hoá đại vương, ả Mô nương là ả Mô công chúa và Nhị Mô nương là Nhị Mô công chúa, giao cho làng Ngọc Hồi đời đời thờ phụng. Hiện trong đình Ngọc Hồi còn 16 đạo sắc phong cho 3 anh em.<ref name = "NH1"/>
+
+Cuối thế kỷ XVIII, mảnh đất Ngọc Hồi đã đi vào lịch sử đất nước với trận công phá đồn Ngọc Hồi vào rạng sáng mồng 5 Tết Kỷ Dậu (30 -1- 1789). Vết tích của hệ thống đồn luỹ Ngọc Hồi được xác định qua các địa danh Đồng Đồn, Nền Đồn, Cây đa Đồn. Vua Quang Trung đầu chít khăn vàng, cưỡi voi đích thân chỉ huy đội quân cảm tử, có các bức ván gỗ bện rơm ngấm nước phủ kín làm áo giáp, dàn hàng ngang đồng loạt tấn công vào đồn. Quân Thanh bỏ chạy tán loạn, giày xéo lên nhau mà chết. Số sống sót chạy về phía Bắc làng Ngọc Hồi. Một cuộc quyết chiến diễn ra tại đây.. Sử cũ ghi lại, "thây giặc nằm đầy đồng, máu chảy thành suối". Tại liệu địa danh minh chứng thêm: các gò Mả Cả, Mả Ngô là nơi chôn xác giặc, "Ao máu" là nơi máu giặc ngập ngụa. Các tướng giặc là Hứa Thế Hanh, Trương Triều Long đều tử trận. Sầm Nghi Đống cũng thắt cổ tự tử tại Ngọc Hồi. Quân Tây Sơn thừa thắng tiến vào Khương Thượng - Đống Đa, giải phóng kinh thành Thăng Long vào chiều mồng 5 Tết.<ref name = "NH1"/>
+
+=== Đồn Ngọc Hồi=== 
+Tại làng Ngọc Hồi vào tháng 12 năm 1788, quân Thanh đã xây dựng một tiền đồn mạnh để bảo vệ nam thành [[Thăng Long]]. Sau khi [[đồn Hà Hồi]] bị hạ vào ngày [[28 tháng 1]] năm 1789, đồn Ngọc Hồi được tăng cường tới 30.000 quân tinh nhuệ, hỏa lực mạnh để chặn quân Tây Sơn. Đồn ngoài lũy đất còn có hàng rào [[chông]] sắt, [[địa lôi]]. Tướng chỉ huy đồn là [[chuẩn Đô đốc|đề đốc]] Hứa Thế Hanh là phó tướng của [[Tôn Sĩ Nghị]] chỉ huy, phụ tá có tả dực Thượng Duy Thăng, tiên phong Trương Triều Long.
+
+Trên đường tiến ra Thăng Long, quân Tây Sơn dưới sự chỉ huy của Nguyễn Huệ đã tiêu diệt đồn này vào ngày [[30 tháng 1]] năm [[1789]] (mùng 5 Tết Kỷ Dậu).
+
+Vào dịp kỷ niệm 200 năm chiến thắng Ngọc Hồi - Đống Đa (1789 - 1989), tại đầu làng Ngọc Hồi đã xây dựng tượng đài chiến thắng Ngọc Hồi-Đống Đa với ba mũi tên hướng thẳng về phía Thăng Long, thể hiện cho cuộc tiến công thần tốc của quân sĩ Tây Sơn.<ref name = "NH1"/>
+
+=== Di tích lịch sử, văn hóa=== 
+Làng Ngọc Hồi có ngôi đình hướng Tây Nam được dựng vào giữa thế kỷ 18, có kết cấu "ngoài chữ Quốc, trong chữ Vương". Trong đình còn có bản hương ước khắc trên cột đá, lập ngày 10 tháng 5 năm Cảnh Hưng thứ 5 (1744), nội dung ghi công người họ Đình trong làng đã hiến 1 mẫu 6 sào đất cho làng dựng đình, làng cắm mốc giới đình, dựng bia, đề ra quy ước người nào xâm phạm đến đất đình sẽ bị phạt.<ref name = "NH1"/>
+
+Làng còn có chùa mang tên làng. Trong chùa còn một quả chuông đúc năm Minh Mệnh thứ 5 (1824).<ref name = "NH1"/>
+
+=== Lễ hội=== 
+Lễ hội chính của làng diễn ra từ mồng 8 đến 10 tháng 2. Ngoài tế lễ, rước sắc còn có rước cỗ chay (mỗi giáp một người sửa).<ref name = "NH1"/>
+
+=== Làng Yên Kiện=== 
+Làng Yên Kiện, xưa có tên là Khang Kiện, thường gọi là Chạ Yên. Chạ là từ Việt cổ, dùng để chỉ các đơn vị cư trú giống như các làng định cư của người Việt khi mới định hình thời dựng nước của các Vua Hùng. Theo các cụ già trong làng, lúc đầu, làng ở khu vực Đìa ổi, giáp làng Lạc Thị, nên hai làng có nhiều quan hệ mật thiết với nhau, gọi nhau là làng Trên, làng Dưới.<ref name = "YK">{{Chú thích web| url = http://www.hanoimoi.com.vn/newsdetail/1000_nam_thang_long/45725/lang-yen-ki7879n.htm| title = Làng Yên Kiện| access-date = ngày 14 tháng 5 năm 2010| author = TS. Bùi Xuân Đính| publisher = Báo Hà Nội Mới điện tử}}{{Liên kết hỏng| date = ngày 16 tháng 5 năm 2021 | bot = InternetArchiveBot }}</ref>
+
+Xưa kia, địa dư của làng rất rộng, có rất nhiều ruộng, cuộc sống của dân làng cũng tương đối phong lưu, làm được cả đình rất to. Nhưng rồi, do tranh chấp ruộng đất với một số làng trong vùng dẫn đến khiếu kiện kéo dài, làng không thắng kiện, phải bán cả đình, cả ruộng nên số đông dân làng phải phiêu bạt đi nơi khác và làng phải đổi tên thành Yên Kiện (bia hậu năm đầu đời Tự Đức - 1848) trong chùa đã ghi tên "Yên Kiện").<ref name = "YK"/>
+
+Yên Kiện nằm ở cửa ngõ phía Nam Thăng Long, có con đường cổ gọi là "đường Quai " hay "đường cái cao" từ đầu cầu Ngọc Hồi hiện nay chạy qua, lên các làng Lạc Thị- ích Vịnh, nối với đường 70 từ thị xã Hà Đông- Văn Điển ở đầu làng Quỳnh Đô, rồi lại theo đường Cầu Tiên- Quán Sét ở trên, lên Chợ Mơ vào Thăng Long. Có nhà nghiên cứu cho rằng, đường cái cao này chính là con đường Thiên Lý từ Quán Gánh về Duyên Trường, Hạ Thái - Đông Phù, lên Ngọc Hồi để vào Kinh thành Thăng Long xưa.<ref name = "YK"/>
+ 
+Đầu thế kỷ XX, Yên Kiện vẫn là một làng rất nhỏ, chỉ có 275 nhân khẩu (năm 2000 chỉ có 197 hộ với 773 nhân khẩu). Tuy vậy, làng vẫn trở thành một xã thuộc tổng Cổ Điển, huyện Thanh Trì, tỉnh Hà Đông. Tháng 1-1946, làng hợp nhất với các làng Ngọc Hồi, Lưu Phái thành xã Ngọc- Yên- Lưu. Từ đầu năm 1948, làng lần lượt nằm trong các xã Việt Hưng, Đại Hưng. Sau Cải cách ruộng đất, làng nằm trong xã Việt Hưng cùng với các làng Ngọc Hồi, Lạc Thị, Lưu Phái, thuộc huyện Thanh Trì, tỉnh Hà Đông (năm 1961 thuộc huyện Thường Tín và làng Lưu Phái cắt về xã Ngũ Hiệp). Năm 1968, xã Việt Hưng đổi tên thành xã Ngọc Hồi. Đầu năm 1979, xã Ngọc Hồi được cắt về huyện Thanh Trì của Hà Nội.<ref name = "YK"/>
+
+Yên Kiện xưa rất nhiều ruộng, mỗi đinh nam từ 18 tuổi trở lên được chia 5 sào ruộng công. Nhưng ruộng ở đây đa phần là ruộng trũng, xấu, nên thu nhập từ nông nghiệp thấp và không ổn định. Để bảo đảm đời sống, nhân dân các làng làm thêm các nghề phụ, trong đó có nghề diu tôm.<ref name = "YK"/>
+
+Do là làng nhỏ nên làng Yên Kiện không hình thành các xóm. Đinh nam trong làng được chia thành ba giáp (giáp của họ Hoàng, giáp của họ Nguyễn Viết, giáp của họ Nguyễn Văn và họ Phạm).<ref name = "YK"/>
+
+Trước Cách mạng, tuy là làng nhỏ, nhưng các lệ tục về ngôi thứ, tế lễ của Yên Kiện rất phiền phức. Làng kết nghĩa với làng Lưu Phái. Người đến lượt làm cỗ đón Quan anh (ngày 10 tháng Hai) phải mổ trâu hoặc bò rất tốn kém, mặc dù được làng cấp cho 3 mẫu 3 sào ruộng. Cũng trong dịp này, có lệ làm cỗ bổn bàn: mỗi năm, mỗi mâm của những người từ 18 tuổi trở lên có một người phải đăng cai làm một mâm cỗ 3 tầng gồm thịt gà, giò chả, các chép luộc và nhiều món ăn khác để đãi người trong mâm.<ref name = "YK"/>
+ 
+Làng Yên Kiện còn ngôi đình được tu sửa lại vào năm Duy Tân thứ 3 (1909), thờ Câu Mang đại vương cùng hai vợ của ông là Phương Dung và Phương Anh. Câu Mang là vị thần sống vào cuối thời Hùng Vương, có công giúp Hùng Duệ Vương đánh lại nhà Thục, được nhiều làng vùng chiêm trũng thờ. Tại đình làng hiện còn lưu 13 đạo sắc phong cho các vị thành hoàng.<ref name = "YK"/>
+
+Làng có chùa Đại Bi, dựng vào năm Vĩnh Thịnh thứ 16 (1720), được tu bổ vào các năm Cảnh Hưng 28 (1767), Tự Đức nguyên niên (1848). Năm Thiệu Trị thứ hai (1842), đúc chuông.<ref name = "YK"/>
+
+=== Làng Nguyệt Áng=== 
+Nguyệt Áng (làng Nguyệt) là làng quê chiêm trũng thuộc xã Đại Áng, huyện Thanh Trì. Đây là một làng cổ, có từ thời [[Hùng Vương]] dựng nước. Làng thờ Công Ba đại vương, theo thần phả là người em thứ ba của Vua Hùng Vương thứ nhất, có công giúp dân mở mang làng xóm.<ref name = "NA">{{Chú thích web| url = http://www.hanoimoi.com.vn/newsdetail/1000_nam_thang_long/6962/lang-nguy7879t-áng.htm| tiêu đề = Làng Nguyệt Áng| ngày truy cập = ngày 14 tháng 5 năm 2010| author = TS. Bùi Xuân Đính| nhà xuất bản = Báo Hà Nội Mới điện tử}}{{Liên kết hỏng| date = ngày 1 tháng 6 năm 2021 | bot = InternetArchiveBot }}</ref>
+ 
+Tại đầu đình làng, năm 1993 đã phát hiện được ngôi mộ thuyền, bên trong có bộ tuỳ táng là bộ vũ khí bằng đồng rất phong phú. Niên đại của mộ là khoảng 2400 cách thời điểm được phát hiện. Các nhà khảo cổ học đã xác định chủ nhân của một ngôi mộ là một chiến binh thuộc tầng lớp trên của xã hội đương thời.<ref name = "NA"/>
+
+Thời phong kiến, Nguyệt Áng nổi danh là làng khoa bảng với 11 người đỗ đại khoa, gồm 1 [[Trạng nguyên]], 1 [[Thám hoa]], 9 [[Tiến sĩ]], trong đó có năm người thuộc dòng họ Nguyễn Đình là [[Nguyễn Đình Trụ]] (đỗ năm 1656), anh ruột là [[Nguyễn Quốc Trinh]] (Trạng nguyên, 1659) và hai con là Nguyễn Đình Bách (1683), Nguyễn Đình Úc (Thám hoa, 1700) cùng cháu tằng tôn của Nguyễn Quốc Trinh là Nguyễn Đình Quỹ (1715); 3 người họ Lưu là Lưu Tiệp (1772) và em ruột (Lưu Định - 1775) cùng cháu nội là Lưu Quỹ (1835).<ref name = "NA"/>
+
+Làng còn có 29 người đỗ trung khoa (hương cống, cử nhân), gồm 17 người họ Nguyễn Đình, 8 người họ Lưu và 4 người họ Nguyễn Danh. Nhiều trường hợp, cha con, anh em, bố con cùng đỗ, tiêu biểu nhất là gia đình Trạng nguyên Nguyễn Quốc Trinh: 4 người con của ông đều đỗ Hương cống; còn sinh đồ, tú tài thì rất nhiều.<ref name = "NA"/>
+
+Trong những người đỗ đạt của làng Nguyệt, nhiều người thật sự có tài, đem hết tài năng phụng sự đất nước. Tiêu biểu nhất là Nguyễn Quốc Trinh (1625 - 1674). Năm 1667, ông cầm đầu đoàn sứ bộ nhà Lê sang đàm phán thành công với nhà Thanh cho gộp hai kỳ tiến cống (3 năm một kỳ) làm một, giảm được phần lớn sự tốn kém cho triều đình và nỗi vất vả cho các đoàn sứ bộ. Sau ông làm quan đến Bồi tụng (Phó Tể tướng), là người tin cẩn của chúa [[Trịnh Tạc]]. Tuy vậy ông là người khẳng khái, dám chỉ ra điều phải trái của chúa trước triều thần.<ref name = "NA"/>
+
+Người thứ hai là Nguyễn Đình Trụ (1627 - 1703). Sau khi về hưu, ông về mở trường dạy học, học trò đông tới hàng nghìn. Hơn 70 người sau đó đỗ tiến sĩ và hương cống, thành đạt trên đường hoạn lộ. Thời bấy giờ coi ông là một "công phái thầy học".<ref name = "NA"/>
+
+Người thứ ba là [[Lưu Quỹ]] (1811 - ?). Ông nổi tiếng ông là người thẳng thắn, dám tâu việc can ngăn vua nên bị giáng chức. Tháng 2 năm Tân Sửu (1841), Vua [[Thiệu Trị]] lên ngôi, Lưu Quỹ đã cùng Khoa đạo Nguyễn Bỉnh Đức dâng sớ khuyên Vua lưu ý đến 10 điều sách lược trị nước, trong đó, 2 điều được vua tâm đắc nhất là thận trọng trong sự ham chuộng và cẩn thận trong dùng người.<ref name = "NA"/>
+
+Nguyệt Áng vẫn giữ được hệ thống đình, chùa, văn chỉ. Văn chỉ do Trạng nguyên Nguyễn Quốc Trinh cùng em là Tiến sĩ Nguyễn Đình Trụ lập năm 1667, trước khi ông đi sứ. Tại đây còn 2 tầm bia đá quý (dựng năm 1667, 1876), ghi tên những người đỗ đạt của làng, biểu tượng cho truyền thống hiếu học và khoa bảng, là niềm tự hào của dân làng.<ref name = "NA"/>
+
+Lễ hội hàng năm được tổ chức vào 2 dịp chính: 12 tháng 2 (ngày hoá của thần) và 15 tháng 5 là ngày kỳ phúc. Lệ tháng 2 có rước [[bánh dày]].<ref name = "NA"/>
+
+=== Làng Vĩnh Trung=== 
+Làng Vĩnh Trung (Kẻ Vanh) nay thuộc xã Đại Áng, huyện Thanh Trì, xưa thuộc tổng Vĩnh Ninh, huyện Thanh Trì, phủ Thường Tín, trấn Sơn Nam Thượng. Làng nằm trong một vùng trũng ở phía Nam Hà Nội nên xưa kia, đồng ruộng quanh năm ngập nước, chỉ cấy được một vụ lúa chiêm. Để phụ thêm nông nghiệp, dân làng có nghề làm nón.<ref name = "VT">{{Chú thích web| url = http://www.hanoimoi.com.vn/newsdetail/1000_nam_thang_long/8816/lang-v297nh-trung.htm| tiêu đề = Làng Vĩnh Trung| ngày truy cập = ngày 14 tháng 5 năm 2010| author = TS. Bùi Xuân Đính| nhà xuất bản = Báo Hà Nội Mới điện tử}}{{Liên kết hỏng| date = ngày 1 tháng 6 năm 2021 | bot = InternetArchiveBot }}</ref>
+
+Theo quan niệm về thuyết phong thủy của dân làng Vĩnh Trung thì sở dĩ làng có nghề làm nón là vì ở án đình làng từ xưa có 3 mô đất tượng trưng cho 3 ông công, một mô hình cái chảo, giống như một chiếc nón, một mô có hình cái giẻ lau để là lá nón. Sản phẩm chính của nghề làm nón ở đây là nón gủ, còn gọi là nón Ba Tầm, sau làm nón chóp dứa, khoảng 100 năm nay chuyển sang làm nón lá. Làm nón chủ yếu vào thời kì nông nhàn.<ref name = "VT"/>
+
+Kỹ thuật làm nón tuy không cầu kì nhưng chu trình để tạo ra một sản phẩm đòi hỏi sức lao động của cả gia đình trong cả ngày: trẻ nhỏ và người già bóc lá và là lá; trung niên nam giới thì chẻ tre, vót, quấn vòng, đi xa mua nguyên vật liệu; phụ nữ thì lợp và khâu nón. Vào thời kì cao điểm, người các nơi thường về đây làm thuê. Làm nón tuy giá công không cao nhưng sản phẩm là vật dụng thường ngày của mọi đối tượng thôn quê nên dễ tiêu thụ, do vậy người làm nón luôn có nguồn thu phụ trợ cho nông nghiệp. Người làng Vĩnh Trung rất tự hào với nghề làm nón của mình:<ref name = "VT"/>
+
+::''Muốn ăn cơm tám cá trê''
+:''Muốn đội nón đẹp thì về Kẻ Vanh.''
+
+Theo quan niệm từ xưa, Vĩnh Trung là đất tứ linh. Làng có 4 gò tạo thành 4 xóm (Ngoài, Chùa, Đình, Thượng) tượng trưng cho bốn con vật quý là Long - Ly - Quy - Phượng). Từ xưa, làng là một khối thống nhất, tất cả các dòng họ trong làng đều mang tên [[họ Nguyễn]], sinh hoạt trong 6 giáp.<ref name = "VT"/>
+ 
+Làng hiện có hai ngôi đình cùng thờ ba vị "Đại vương thần bắn" là 3 vị thần sống vào đời Hùng Vương thứ 18, có công diệt giặc cứu dân. Một ngôi gọi là Miếu đình Linh Linh hay Đình Ngoài, là đình gốc, được dựng vào năm Bảo Thái thứ 6 (1725). Một ngôi là Đình Trong được dựng vào năm Thành Thái thứ 6 (1894). Làng còn có chùa Ứng Linh. Cả hai đình và chùa đã được công nhận là Di tích lịch sử văn hóa cấp Quốc gia.<ref name = "VT"/>
+
+Lễ hội chính của làng diễn ra vào các dịp: 12- 5 là ngày sinh và ngày phong sắc của thần, tổ chức rước các vị thần từ đình Ngoài vào đình Trong rồi lại rước trả về đình Ngoài. Ngày 12-6: ngày hoá của thần, tổ chức tế lễ riêng tại các đình, bằng trâu hoặc bò của làng và lợn của các giáp. Ngày 2 tháng Chạp: ngày Khánh hạ, các đình tổ chức tế lễ riêng, có cỗ xôi thờ.<ref name = "VT"/>
+
+Quá trình phát triển của các làng xã Đại áng làm nảy sinh những tục lệ tốt đẹp. Xưa kia, các đôi trai gái lấy nhau phải nộp cheo cho làng bằng việc lát một ngũ đường làng dài 7, 5 mét. Làng có tục kết nghĩa với làng Vĩnh Thịnh và Vĩnh Ninh gọi là "Hội kết nghĩa Tam Vĩnh".<ref name = "VT"/>
+
+=== Làng Vĩnh Thịnh=== 
+Làng Vĩnh Thịnh, đầu đời [[Thành Thái]] (1889 - 1907) vẫn mang tên Vĩnh Bảo thuộc tổng Vĩnh Ninh, huyện Thanh Trì, phủ Thường Tín, tỉnh Hà Đông. Làng xưa có 5 xóm: Nghè, Viềng, Giữa, xóm Chùa và xóm Sau và 5 giáp: Đông Nhất, Đông Nhì, Bắc, Nam, Đoài. Nay thuộc xã Đại Áng, huyện Thanh Trì.<ref name = "VTh">{{Chú thích web| url = http://www.hanoimoi.com.vn/newsdetail/1000_nam_thang_long/8664/lang-v297nh-th7883nh.htm| tiêu đề = Làng Vĩnh Thịnh| ngày truy cập = ngày 14 tháng 5 năm 2010| author = TS. Bùi Xuân Đính| nhà xuất bản = Báo Hà Nội Mới điện tử}}{{Liên kết hỏng| date = ngày 1 tháng 6 năm 2021 | bot = InternetArchiveBot }}</ref>
+ 
+Nghề nghiệp chính của dân làng là làm ruộng, song làng còn có nghề làm nón. Theo lưu truyền dân gian thì ông Phạm Quảng quê ở xã Minh Linh, huyện [[Kinh Môn (thị xã)|Kinh Môn]] ([[Hải Dương (tỉnh)|Hải Dương]]) là người truyền nghề làm nón cho làng. Việc buôn bán cũng rất phát đạt, như đi buôn bè ở [[Lào Cai]], [[Yên Bái (tỉnh)|Yên Bái]], buôn các hàng thủ công ở trong vùng như nón Chuông (Thanh Oai), cót Vạn Phúc, các dụng cụ đánh cá của làng Đan Nhiễm... mang xuống Hải Phòng, Hải Dương, Nam Định để bán. Nhiều người đã mua được cửa hàng ở các thành phố, tỉnh lỵ. Cuộc sống của những người buôn này ổn định, Nếu biết cách chi tiêu và phát triển nghề sẽ khấm khá. Người làng Vĩnh Thịnh rất tự hào với nghề buôn của mình:<ref name = "VTh"/>
+
+::''Hỡi cô thắt cái bao xanh''
+:''Có về Vĩnh Thịnh với anh thì về''
+::''Vĩnh Thịnh có nghiệp có nghề''
+:''Có đất làm nón, có nghề đi buôn.
+
+Làng Vĩnh Thịnh hiện còn ngôi đình được dựng vào năm Bảo Thái thứ 6 (1725) và mới được tu sửa lại vào năm Nhâm Thân đời Bảo Đại (1932). Đình thờ Phạm Xạ - là người làng và là vị tướng của Lê Lợi. Theo truyền thuyết và thần phả, khi [[Lê Lợi]] đem quân ra Bắc diệt giặc Minh (1426), ông đã về làng Vĩnh Thịnh. Phạm Xạ khi đó là thanh niên giỏi võ, thông tinh binh pháp, được Lê Lợi tin cậy, giao cho ông tuyển mộ binh sĩ lên đường đánh giặc. 243 thanh niên làng Vĩnh Bảo đã xung phong theo Phạm Xạ gia nhập vào đội quân của Lê Lợi. Từ đó, Phạm Xạ đã tham gia chỉ huy chiến đấu gần 30 trận ở nhiều chiến trường. Đặc biệt ông đã tham gia trận Chi Lăng tháng 9 năm Đinh Mùi (1427) và tự tay chém chết tên tướng chỉ huy giặc là Liễu Thăng, được Lê Lợi phong làm Thống chế Tả tướng quân. Hiện tại miếu còn ba bản sắc phong vào các đời Thành Thái, Duy Tân và Khải Định, 8 bức hoành phi, 19 câu đối khẳng định, ca ngợi tài đức và công lao của Phạm Xạ:<ref name = "VTh"/>
+:''Mưu dũng diệt giặc Minh, muôn thuở non Lam truyền tuấn kiệt
+:''Tiếng thơm ngời dấu thánh, nghìn thu làng cũ nhớ công ơn.
+
+Ngoài đình, làng còn có chùa Thanh Dương, có quả chuông đúc xong ngày 6 tháng 7 năm Thiệu Trị thứ 2 (1842), có đền Hoành Sơn thờ Mẫu Liễu Hạnh.<ref name = "VTh"/>
+
+Lễ hội hàng năm diễn ra vào các ngày: 13- 2 (ngày sinh của thần), 12- 5 (ngày Khánh hạ) và ngày 10 tháng Một (ngày hoá của thần). Trong hội tháng 2 có tục đón tiếp các quan viên hai làng kết nghĩa là Vĩnh Trung và Vĩnh Ninh gọi là "Hội kết nghĩa Tam Vĩnh".<ref name = "VTh"/>
+
+== Kinh tế== 
+=== Làng nghề=== 
+* Làng nghề làm nón Vĩnh Thịnh 
+* Một số có nghề làm nón Lạc Thị
+* Đan lát, lồng bàn Nhị Châu
+* Nghề may thôn Vĩnh Trung
+
+==Hình ảnh==
+<gallery>
+Tập tin:UBND xã Đại Áng - panoramio.jpg| Trụ sở UBND xã Đại Áng trước đây
+</gallery>
+
+== Xem thêm== 
+* [[Trận Ngọc Hồi]]
+
+== Chú thích== 
+{{Tham khảo}}
+
+== Tham khảo==
+{{Sơ khai Hà Nội}}{{Đơn vị hành chính thuộc thành phố Hà Nội}}

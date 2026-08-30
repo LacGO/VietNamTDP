@@ -1,0 +1,112 @@
+{
+  "ward_code": "00634",
+  "ward_name": "Tây Mỗ",
+  "province_code": "01",
+  "resolution": "",
+  "arrangement": "2026_07",
+  "effective_date": "2026-07-01",
+  "verified": "unverified",
+  "extraction": {
+    "source": "vi.wikipedia.org",
+    "title": "(cache)",
+    "mode": "table"
+  },
+  "sources": [
+    {
+      "key": "wiki-00634-1",
+      "title": "Đề án tháng 6 năm 2026 của Ủy ban nhân dân phường Tây Mỗ về việc sắp xếp tổ dân phố trên địa bàn phường Tây Mỗ, thành phố Hà Nội",
+      "url": "https://taymo.hanoi.gov.vn/nghi-quyet-21-2026-nq-hdnd/de-an-sap-xep-to-dan-pho-tren-dia-ban-phuong-tay-mo-thanh-pho-ha-noi-2696260611224822418.htm?gidzl=6g_-CfBpo1KUiFeqcElC5X2n_Z60wiX53UJwQeMudqWBuFfeWRcQHros_MNQuvWLLkYjEcE-RGCMb_BC5m",
+      "date": "",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-00634-2",
+      "title": "Báo cáo số 152/BC-HĐND ngày 26 tháng 6 năm 2026 của Hội đồng nhân dân phường Tây Mỗ về kết quả và công tác tổ chức kỳ họp thường lệ giữa năm 2026 (Kỳ họp thứ Tư) Hội đồng nhân dân phường Tây Mỗ khóa II, nhiệm kỳ 2026 – 2031",
+      "url": "https://taymo.hanoi.gov.vn/tin-tuc-su-kien/ket-qua-va-cong-tac-to-chuc-ky-hop-ky-hop-thuong-le-giua-nam-2026-ky-hop-thu-tu-hdnd-phuong-tay-mo-khoa-ii-nhiem-ky-2026-2031-2696260702092116616.htm?gidzl=bRYR6mC7fnUHfvyT2H-Z59-ccnyH7gT0WlEVH1HCy4s4zvz644trGjEXc4jB5_SGsV_856EWZWaz1WQZ5G",
+      "date": "",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-00634-3",
+      "title": "Nghị quyết số 111/2025/UBTVQH15 ngày 24 tháng 12 năm 2025 của Ủy ban Thường vụ Quốc hội về phân loại đô thị",
+      "url": "https://cdn.nhandan.vn/files/f4a4abf7f9a0ba4a91744616546d850872b76917f90d5a74cc9eebef1369fb6f/111.pdf",
+      "date": "2026-08-14",
+      "type": "wikipedia-ref"
+    }
+  ],
+  "note": "Trích tự động từ Wikipedia tiếng Việt (mode=table). Cần đối chiếu nghị quyết HĐND phường/xã.",
+  "tdp": [
+    {
+      "name": "Tổ dân phố 9",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Tổ dân phố 10",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Tổ dân phố 11",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Tổ dân phố 12",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Tổ dân phố 13",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Tổ dân phố 14",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Tổ dân phố 15",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Tổ dân phố 16",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Tổ dân phố 17",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Chợ",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Đình",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Liên Hợp",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Ngang",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Phú Thứ",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Quang Tiến",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Tháp",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Thống Nhất",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Tó",
+      "type": "tổ dân phố"
+    }
+  ]
+}

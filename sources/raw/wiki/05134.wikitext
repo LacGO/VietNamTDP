@@ -1,0 +1,76 @@
+{{Thông tin đơn vị hành chính Việt Nam | xã
+| tên = Mường Hoa
+| hình = DongThacBo3.jpg
+| ghi chú hình =[[Động Thác Bờ]] 
+| vĩ độ = 20.712680638743645
+| kinh độ = 105.2427585739574
+| diện tích = 104,54 km²<ref name=MS/>
+| dân số = 8.563 người<ref name=MS/>
+| thời điểm dân số = 2025
+| mật độ dân số = {{formatnum:{{#expr:floor({{formatnum:8.563|R}}/{{formatnum:104,54|R}})}} }} người/km²
+| vùng = [[Đông Bắc Bộ]]
+| tỉnh = [[Phú Thọ]]
+| thành lập =16 tháng 6 năm 2025<ref>Nghị quyết số 1676/NQ-UBTVQH15</ref> 
+| trụ sở UBND =Xóm Ong 
+| mã hành chính = 05134<ref>{{Chú thích web |url=https://danhmuchanhchinh.gso.gov.vn/ |title=Tổng cục Thống kê |access-date=2022-03-24 |archive-date=2021-01-10 |archive-url=https://web.archive.org/web/20210110034519/https://www.gso.gov.vn/phuong-phap-thong-ke/danh-muc/don-vi-hanh-chinh/ |url-status=dead }}</ref>
+| mã bưu chính = 
+}}
+{{other|Mường Hoa (định hướng)}}
+'''Mường Hoa''' là một [[Xã (Việt Nam)|xã]] thuộc tỉnh [[Phú Thọ]], [[Việt Nam]].
+
+== Địa lý ==
+Xã Mường Hoa nằm ở phía Nam tỉnh [[Phú Thọ]], có vị trí địa lý<ref>{{Chú thích web |title=Đơn vị hành chính Việt Nam |url=https://sapnhap.bando.com.vn/ |access-date=2026-06-18 |website=sapnhap.bando.com.vn}}</ref>:
+
+* Phía Bắc giáp xã [[Tiền Phong, Phú Thọ|Tiền Phong]] và xã [[Thung Nai]].
+* Phía Nam giáp xã [[Mường Bi]].
+* Phía Tây giáp xã [[Tân Mai (xã)|Tân Mai]].
+* Phía Đông giáp xã [[Mường Thàng]].
+
+Xã có diện tích 104,54&nbsp;km², dân số năm 2025 là 8.563 người,<ref>{{Chú thích web |title=Xã Mường Hoa, Tỉnh Phú Thọ mới sáp nhập 2026 |url=https://tinhthanhvn.com/province/phu-tho/xa-muong-hoa |access-date=2026-06-18 |website=Tỉnh Thành Việt Nam |language=vi}}</ref> mật độ dân số đạt {{formatnum:{{#expr:floor({{formatnum:8.563|R}}/{{formatnum:104,54|R}})}} }} người/km².
+
+==Hành chính==
+Xã Mường Hoa được chia thành 15 xóm: Đạy, Đung, Giác, Liếm, Mu, Mường Kè, Nẻ, Ngau, Ngòi, Ong, Tân Vinh, Thăm, Thỏi Láo, Thung, Tớn Thưa.<ref>{{Chú thích web |last=Ủy ban nhân dân xã Mường Hoa |date=2026-01-13 |title=Quyết định số 9/QĐ-UBND về việc thành lập khu vực bỏ phiếu bầu cử đại biểu Quốc hội khóa XVI và đại biểu Hội đồng nhân dân các cấp nhiệm kỳ 2026 – 2031, trên địa bàn xã Mường Hoa |url=https://muonghoa.phutho.gov.vn/images/Q%C4%90_Th%C3%A0nh_l%E1%BA%ADp_khu_v%E1%BB%B1c_b%E1%BB%8F_phi%E1%BA%BFu_b%E1%BA%A7u_c%E1%BB%AD.signed.signed.signed_1.pdf |url-status=live |archive-url=https://web.archive.org/web/20260423090807/https://muonghoa.phutho.gov.vn/images/Q%C4%90_Th%C3%A0nh_l%E1%BA%ADp_khu_v%E1%BB%B1c_b%E1%BB%8F_phi%E1%BA%BFu_b%E1%BA%A7u_c%E1%BB%AD.signed.signed.signed_1.pdf |archive-date=2026-04-23 |access-date=2026-04-23 |website=Trang Thông tin điện tử xã Mường Hoa - tỉnh Phú Thọ}}</ref><ref name=":1">{{Chú thích web |last=Bộ Dân tộc và Tôn giáo |date=2026-01-29 |title=Danh sách Thôn vùng đồng bào dân tộc thiểu số và miền núi, thôn đặc biệt khó khăn giai đoạn 2026 - 2030 trên địa bàn tỉnh Phú Thọ |url=http://files.ubdt.gov.vn/files/ecm/source_files/2026/02/05/11252411_4.%20Ph%C3%BA%20Th%E1%BB%8D%201%20(th%C3%B4n).signed_26-02-05.pdf |url-status=live |archive-url=https://web.archive.org/web/20260417090807/http://files.ubdt.gov.vn/files/ecm/source_files/2026/02/05/11252411_4.%20Ph%C3%BA%20Th%E1%BB%8D%201%20(th%C3%B4n).signed_26-02-05.pdf |archive-date=2026-04-17 |access-date=2026-04-17 |website=Cổng Thông tin điện tử Bộ Dân tộc và Tôn giáo}}</ref>
+
+==Lịch sử==
+Trước kia, địa bàn xã Mường Hoa ngày nay là địa bàn của hai xã Phú Vinh và Suối Hoa thuộc huyện [[Tân Lạc (huyện)|Tân Lạc]], tỉnh [[Hòa Bình (tỉnh)|Hòa Bình]] cũ.
+
+Ngày [[22 tháng 1]] năm [[1957]], xã Ngòi Hoa và xã Trung Hòa được thành lập trên cơ sở tách một phần diện tích và dân số của xã Mỹ Hòa. Khi mới thành lập, hai xã trực thuộc huyện [[Lạc Sơn (huyện)|Lạc Sơn]].<ref>{{chú thích sách |url=https://www.google.com/books/edition/Địa_ch%C3%AD_Hòa_Bình/jUZRAQAAMAAJ |year=2005 |isbn= |doi= |id= |tác giả= |tựa đề=Địa chí Hòa Bình |nhà xuất bản=Nhà xuất bản Chính trị quốc gia |nơi= |trang=312}}</ref>
+
+Ngày [[15 tháng 10]] năm [[1957]], huyện Tân Lạc được thành lập, xã Trung Hòa chuyển sang trực thuộc huyện Tân Lạc. Đồng thời, xã Ngòi Hoa được chuyển về huyện [[Đà Bắc (huyện)|Đà Bắc]].<ref>{{chú thích sách |url=https://www.google.com/books/edition/Tân_Lạc_lịch_sử_kháng_chiến_ch/9UZRAQAAMAAJ |year=2004 |isbn= |doi= |id= |tác giả= |tựa đề=Tân Lạc, lịch sử kháng chiến chống thực dân Pháp và đế quốc Mỹ (1945-1975) |nhà xuất bản=Nhà xuất bản Quân đội nhân dân |nơi= |trang=13}}</ref>
+
+Ngày [[28 tháng 2]] năm [[1985]], Hội đồng Bộ trưởng ban hành Quyết định số 56-HĐBT<ref>{{Chú thích web |last=Cổng Thông tin điện tử Chính phủ |first= |title=Quyết định số 56/HĐBT của Hội đồng Bộ trưởng: Quyết định về việc sửa đổi cơ cấu tổ chức của Văn phòng Hội đồng Bộ trưởng |url=http://chinhphu.vn/default.aspx?pageid=27160&docid=258 |access-date=2026-06-18 |website=chinhphu.vn |language=vi}}</ref>. Theo đó, chuyển xã Ngòi Hoa thuộc huyện Đà Bắc về huyện Tân Lạc.
+
+Đến năm [[2018]]:
+
+* Xã Ngòi Hoa có diện tích 35,90&nbsp;km², dân số là 1.453 người, mật độ dân số đạt 40 người/km².
+* Xã Trung Hòa có diện tích 35,61&nbsp;km², dân số là 2.361 người, mật độ dân số đạt 66 người/km².
+
+Ngày [[17 tháng 12]] năm [[2019]], [[Ủy ban Thường vụ Quốc hội]] ban hành Nghị quyết số 830/NQ-UBTVQH14 về việc sắp xếp các đơn vị hành chính cấp huyện, cấp xã thuộc tỉnh Hòa Bình (nghị quyết có hiệu lực từ ngày [[1 tháng 1]] năm [[2020]]).<ref>{{Chú thích web |last=Cổng Thông tin điện tử Chính phủ |first= |title=Nghị quyết số 830/NQ-UBTVQH14 của ỦY BAN THƯỜNG VỤ QUỐC HỘI: Về việc sắp xếp các đơn vị hành chính cấp huyện, cấp xã thuộc tỉnh Hòa Bình |url=http://vanban.chinhphu.vn/default.aspx?pageid=27160&docid=198695 |access-date=2026-06-18 |website=vanban.chinhphu.vn |language=vi}}</ref> Theo đó, sáp nhập toàn bộ diện tích và dân số của hai xã Ngòi Hoa và Trung Hòa thành xã Suối Hoa.
+
+Ngày [[12 tháng 6]] năm [[2025]], [[Quốc hội Việt Nam|Quốc hội]] ban hành Nghị quyết số 202/2025/QH15 về việc sắp xếp đơn vị hành chính cấp tỉnh (nghị quyết có hiệu lực từ ngày [[12 tháng 6]] năm [[2025]]).<ref>{{Chú thích web |last=xaydungchinhsach.chinhphu.vn |date=2025-07-16 |title=TOÀN VĂN: Nghị quyết số 202/2025/QH15 về sắp xếp đơn vị hành chính cấp tỉnh |url=https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-202-2025-qh15-ve-sap-xep-don-vi-hanh-chinh-cap-tinh-119250612174148722.htm |url-status=live |archive-url=https://web.archive.org/web/20260705025431/https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-202-2025-qh15-ve-sap-xep-don-vi-hanh-chinh-cap-tinh-119250612174148722.htm |archive-date=2026-07-05 |access-date=2026-07-25 |website=Báo Điện tử Chính phủ |language=vi }}</ref> Theo đó, sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của tỉnh [[Vĩnh Phúc (tỉnh)|Vĩnh Phúc]], tỉnh [[Hòa Bình (tỉnh)|Hòa Bình]] và tỉnh [[Phú Thọ]] thành tỉnh mới có tên gọi là tỉnh '''Phú Thọ'''.
+
+Ngày [[16 tháng 6]] năm [[2025]]:
+
+* Quốc hội ban hành Nghị quyết số 203/2025/QH15 về việc sửa đổi, bổ sung một số điều của Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam (nghị quyết có hiệu lực từ ngày [[16 tháng 6]] năm [[2025]]).<ref>{{Chú thích web|last=xaydungchinhsach.chinhphu.vn|date=2025-06-28|title=NGHỊ QUYẾT 203/2025/QH15 SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA HIẾN PHÁP NƯỚC CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM|url=https://xaydungchinhsach.chinhphu.vn/nghi-quyet-203-2025-qh15-sua-doi-bo-sung-mot-so-dieu-cua-hien-phap-nuoc-cong-hoa-xa-hoi-chu-nghia-viet-nam-119250616181735552.htm|url-status=live|archive-url=https://web.archive.org/web/20260715200606/https://xaydungchinhsach.chinhphu.vn/nghi-quyet-203-2025-qh15-sua-doi-bo-sung-mot-so-dieu-cua-hien-phap-nuoc-cong-hoa-xa-hoi-chu-nghia-viet-nam-119250616181735552.htm|archive-date=2026-07-15|access-date=2026-07-15|website=Báo Điện tử Chính phủ|language=vi}}</ref> Theo đó, kết thúc hoạt động của đơn vị hành chính cấp huyện trong cả nước từ ngày 1 tháng 7 năm 2025.
+* Ủy ban Thường vụ Quốc hội ban hành Nghị quyết số 1676/NQ-UBTVQH15 về việc sắp xếp đơn vị hành chính cấp xã của tỉnh [[Phú Thọ]] năm 2025 (nghị quyết có hiệu lực từ ngày [[16 tháng 6]] năm [[2025]]).<ref>{{Chú thích web |last=xaydungchinhsach.chinhphu.vn |date=2025-06-20 |title=Nghị quyết số 1676/NQ-UBTVQH15 sắp xếp các ĐVHC cấp xã của tỉnh Phú Thọ năm 2025 |url=https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-1676-nq-ubtvqh15-sap-xep-cac-dvhc-cap-xa-cua-tinh-phu-tho-nam-2025-119250616204317326.htm |url-status=live |archive-url=https://web.archive.org/web/20260725082021/https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-1676-nq-ubtvqh15-sap-xep-cac-dvhc-cap-xa-cua-tinh-phu-tho-nam-2025-119250616204317326.htm |archive-date=2026-07-25 |access-date=2026-07-27 |website=Báo Điện tử Chính phủ |language=vi }}</ref> Theo đó, sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của xã Phú Vinh và xã Suối Hoa thành xã mới có tên gọi là '''xã Mường Hoa'''.<!-- 
+==Lịch sử==
+Địa bàn xã Suối Hoa hiện nay trước đây vốn là hai xã Ngòi Hoa và Trung Hòa thuộc huyện Tân Lạc.
+
+Xã Ngòi Hoa và xã Trung Hòa được thành lập vào ngày [[22 tháng 1]] năm [[1957]] trên cơ sở tách một phần diện tích và dân số của xã Mỹ Hòa. Khi mới thành lập, hai xã trực thuộc huyện [[Lạc Sơn (huyện)|Lạc Sơn]].<ref>{{chú thích sách|tác giả=|tựa đề=Địa chí Hòa Bình|nhà xuất bản=Nhà xuất bản Chính trị quốc gia|year=2005|nơi=|trang=312|url=https://www.google.com/books/edition/Địa_ch%C3%AD_Hòa_Bình/jUZRAQAAMAAJ|doi=|id=|isbn=}}</ref>
+
+Ngày [[15 tháng 10]] năm [[1957]], huyện Tân Lạc được thành lập, xã Trung Hòa chuyển sang trực thuộc huyện Tân Lạc. Đồng thời, xã Ngòi Hoa được chuyển về huyện [[Đà Bắc (huyện)|Đà Bắc]].<ref>{{chú thích sách|tác giả=|tựa đề=Tân Lạc, lịch sử kháng chiến chống thực dân Pháp và đế quốc Mỹ (1945-1975)|nhà xuất bản=Nhà xuất bản Quân đội nhân dân|year=2004|nơi=|trang=13|url=https://www.google.com/books/edition/Tân_Lạc_lịch_sử_kháng_chiến_ch/9UZRAQAAMAAJ|doi=|id=|isbn=}}</ref>
+
+Ngày [[28 tháng 2]] năm [[1985]], Hội đồng Bộ trưởng ban hành Quyết định số 56-HĐBT.<ref>{{Chú thích web|url=https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-55-HDBT-dieu-chinh-dia-gioi-huyen-tinh-Ha-Son-Binh-43579.aspx|tựa đề=Quyết định số 56-HĐBT năm 1985 về việc điều chỉnh địa giới một số huyện thuộc tỉnh Hà Sơn Bình do Hội đồng Bộ trưởng ban hành|tác giả=|họ=|tên=|ngày=|website=|url lưu trữ=|ngày lưu trữ=|ngày truy cập=}}</ref> Theo đó, chuyển xã Ngòi Hoa thuộc huyện Đà Bắc về huyện Tân Lạc.
+
+Đến năm 2018, xã Ngòi Hoa có diện tích 35,90&nbsp;km², dân số là 1.453 người, mật độ dân số đạt 40 người/km²; xã Trung Hòa có diện tích 35,61&nbsp;km², dân số là 2.361 người, mật độ dân số đạt 66 người/km².
+
+Ngày [[17 tháng 12]] năm [[2019]], Ủy ban Thường vụ Quốc hội ban hành Nghị quyết số 830/NQ-UBTVQH14 về việc sắp xếp các đơn vị hành chính cấp huyện, cấp xã thuộc tỉnh Hòa Bình (nghị quyết có hiệu lực từ ngày [[1 tháng 1]] năm [[2020]]).<ref name=NQ830>{{Chú thích web|url=https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/Nghi-quyet-830-NQ-UBTVQH14-2019-sap-xep-don-vi-hanh-chinh-cap-huyen-xa-thuoc-tinh-Hoa-Binh-432100.aspx|tựa đề=Nghị quyết số 830/NQ-UBTVQH14 năm 2019 về việc sắp xếp các đơn vị hành chính cấp huyện, cấp xã thuộc tỉnh Hòa Bình|tác giả=|họ=|tên=|ngày=|website=|url lưu trữ=|ngày lưu trữ=|ngày truy cập=}}</ref> Theo đó, sáp nhập toàn bộ diện tích và dân số của hai xã Ngòi Hoa và Trung Hòa thành xã Suối Hoa. 
+-->
+
+==Chú thích==
+{{tham khảo|30em}}
+
+==Tham khảo==
+
+{{sơ khai Phú Thọ}}
+{{Đơn vị hành chính thuộc tỉnh Phú Thọ}}

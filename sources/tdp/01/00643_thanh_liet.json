@@ -1,0 +1,116 @@
+{
+  "ward_code": "00643",
+  "ward_name": "Thanh Liệt",
+  "province_code": "01",
+  "resolution": "",
+  "arrangement": "2026_07",
+  "effective_date": "2026-07-01",
+  "verified": "unverified",
+  "extraction": {
+    "source": "vi.wikipedia.org",
+    "title": "(cache)",
+    "mode": "table"
+  },
+  "sources": [
+    {
+      "key": "wiki-00643-1",
+      "title": "Nghị quyết số 19/NQ-HĐND ngày 25 tháng 6 năm 2026 của Hội đồng nhân dân phường Thanh Liệt về việc sắp xếp, tổ chức lại các Tổ dân phố trên địa bàn phường Thanh Liệt",
+      "url": "https://sqhx-hanoi.mediacdn.vn/91579363132710912/2026/7/16/19nq2026vv-sap-xep-to-chuc-lai-cac-tdp-tren-dia-ban-phuong-thanh-liet0001-1784193337524392974472.pdf",
+      "date": "",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-00643-2",
+      "title": "Nghị quyết số 111/2025/UBTVQH15 ngày 24 tháng 12 năm 2025 của Ủy ban Thường vụ Quốc hội về phân loại đô thị",
+      "url": "https://cdn.nhandan.vn/files/f4a4abf7f9a0ba4a91744616546d850872b76917f90d5a74cc9eebef1369fb6f/111.pdf",
+      "date": "2026-04-30",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-00643-3",
+      "title": "Nghị quyết số 1656/NQ-UBTVQH15 ngày 16 tháng 6 năm 2025 của Ủy ban Thường vụ Quốc hội về việc sắp xếp các đơn vị hành chính cấp xã của thành phố Hà Nội năm 2025",
+      "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf",
+      "date": "2026-05-13",
+      "type": "wikipedia-ref"
+    }
+  ],
+  "note": "Trích tự động từ Wikipedia tiếng Việt (mode=table). Cần đối chiếu nghị quyết HĐND phường/xã.",
+  "tdp": [
+    {
+      "name": "1 Hạ Đình",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "2 Hạ Đình",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "1 Thanh Xuân Nam",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "2 Thanh Xuân Nam",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "3 Thanh Xuân Nam",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "4 Thanh Xuân Nam",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "1 Triều Khúc",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "2 Triều Khúc",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "3 Triều Khúc",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "1 Yên Xá",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "2 Yên Xá",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Cầu Bươu",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Đường Chiến Thắng",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Tây Nam Kim Giang",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Thanh Châu",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Thượng",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Tổng cục V",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Văn",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Vực",
+      "type": "tổ dân phố"
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "ward_code": "00376",
+  "ward_name": "Sóc Sơn",
+  "province_code": "01",
+  "resolution": "",
+  "arrangement": "2026_07",
+  "effective_date": "2026-07-01",
+  "verified": "unverified",
+  "extraction": {
+    "source": "vi.wikipedia.org",
+    "title": "(cache)",
+    "mode": "table"
+  },
+  "sources": [
+    {
+      "key": "wiki-00376-1",
+      "title": "Thông báo số 1743/TB-UBND ngày 30 tháng 6 năm 2026 của Ủy ban nhân dân xã Sóc Sơn về việc công bố thôn, tổ dân phố sau sắp xếp, tổ chức lại",
+      "url": "https://socson.hanoi.gov.vn/thong-bao/xa-soc-son-thong-bao-thon-to-dan-pho-sau-sap-xep-to-chuc-lai-2788260701170746606.htm",
+      "date": "2026-07-05",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-00376-2",
+      "title": "Ủy ban bầu cử xã Sóc Sơn công bố danh sách ứng cử đại biểu Hội đồng nhân dân xã Sóc Sơn nhiệm kỳ 2026 – 2031",
+      "url": "https://socson.hanoi.gov.vn/hoat-dong-cua-hdnd/uy-ban-bau-cu-xa-soc-son-cong-bo-danh-sach-ung-cu-dai-bieu-hdnd-xa-nhiem-ky-2026-2031-2788260227142710354.htm",
+      "date": "2026-02-27",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-00376-3",
+      "title": "Nghị quyết số 111/2025/UBTVQH15 ngày 24 tháng 12 năm 2025 của Ủy ban Thường vụ Quốc hội về phân loại đô thị",
+      "url": "https://cdn.nhandan.vn/files/f4a4abf7f9a0ba4a91744616546d850872b76917f90d5a74cc9eebef1369fb6f/111.pdf",
+      "date": "2026-08-14",
+      "type": "wikipedia-ref"
+    }
+  ],
+  "note": "Trích tự động từ Wikipedia tiếng Việt (mode=table). Cần đối chiếu nghị quyết HĐND phường/xã.",
+  "tdp": [
+    {
+      "name": "Tổ dân phố 1",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Tổ dân phố 2",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Thôn 225",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Bắc Lý",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Cộng Hòa",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Dược Hạ",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Dược Thượng",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Đan Tảo",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Đòai",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Đông",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Đông Tảo",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Đồng Lạc",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Hương Đình",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Lương Châu",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Mai Sơn",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Mai Xuân",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Phố Chợ",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Phù Mã",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Thanh Thủy",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Thái Phù",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Thống Nhất",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Vệ Linh",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Vệ Sơn",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Xuân Dục",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Xuân Đồng",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Xuân Kỳ",
+      "type": "tổ dân phố"
+    }
+  ]
+}

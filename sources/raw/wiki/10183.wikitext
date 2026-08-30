@@ -1,0 +1,278 @@
+{{Thông tin đơn vị hành chính Việt Nam |Xã
+| tên = Thường Tín
+| hình = Chùa Pháp Vân, Văn Bình, Thường Tín, Hà Nội.jpeg
+| ghi chú hình = Cổng chùa Pháp Vân
+| vĩ độ = 20.86921747725671
+| vĩ phút = 
+| diện tích = 28,29 km²
+| dân số = 70.739 người
+| thời điểm dân số = 2025
+| mật độ dân số = {{formatnum:{{#expr:floor({{formatnum:70.739| R}}/{{formatnum:28,29| R}})}} }} người/km²
+| vùng = [[Đồng bằng sông Hồng]]
+| thành phố = [[Hà Nội]]
+| thành lập = 
+| trụ sở UBND =Số 1 đường Thượng Phúc<ref>{{Chú thích web |url=https://storage-vnportal.vnpt.vn/gov-hni/6244/VanBan/2025/6/25/TB-729-2025.pdf |title=Thông báo số 729/TB-UBND ngày 25 tháng 6 năm 2025 của Ủy ban nhân dân thành phố Hà Nội về địa điểm trụ sở làm việc của 126 phường, xã sau sắp xếp thuộc phạm vi quản lý của thành phố Hà Nội|access-date=2026-06-15 |archive-date=2026-06-15 |archive-url=https://web.archive.org/web/20260615034519/https://storage-vnportal.vnpt.vn/gov-hni/6244/VanBan/2025/6/25/TB-729-2025.pdf |url-status=dead | website = Cổng Thông tin điện tử Ủy ban nhân dân thành phố Hà Nội}}</ref> 
+| mã hành chính =10183<ref>{{Chú thích web |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/19ttg.signed.pdf |title=Quyết định số 19/2025/QĐ-TTg ngày 30 tháng 6 năm 2025 của Thủ tướng Chính phủ về việc Ban hành Bảng danh mục và mã số các đơn vị hành chính Việt Nam |access-date=2026-06-15 |archive-date=2026-06-15 |archive-url=https://web.archive.org/web/20260615034519/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/19ttg.signed.pdf |url-status=dead }}</ref> 
+| mã bưu chính = 
+|kinh độ=105.86201046850202|bản đồ 1={{maplink|frame=yes|plain=yes|type=shape|frame-width=280|frame-align=center|stroke-width=3}}|web={{url|thuongtin.hanoi.gov.vn}}|logo=Seal of Thường Tín District.png|ghi chú logo=Biểu trưng|trụ sở Đảng ủy=Số 1 đường Thượng Phúc}}
+{{other|Thường Tín (định hướng)}}
+'''Thường Tín''' là một [[Xã (Việt Nam)|xã]] thuộc [[thành phố]] [[Hà Nội]], [[Việt Nam]].
+
+== Địa lý== 
+Xã Thường Tín có vị trí địa lý:
+*Phía đông giáp xã [[Hồng Vân]]
+*Phía tây giáp xã [[Tam Hưng]]
+*Phía nam giáp xã [[Dân Hòa]] và xã [[Thượng Phúc]]
+*Phía bắc giáp xã [[Ngọc Hồi (xã)|Ngọc Hồi]].<ref>{{Chú thích web|last=Viện nghiên cứu Phát triển kinh tế – xã hội Hà Nội|date=2025-07-02|title=Xã Thường Tín: Những thông tin chi tiết sau sắp xếp|url=https://hanoionline.vn/xa-thuong-tin-nhung-thong-tin-chi-tiet-sau-sap-xep-344168.htm|url-status=bot: unknown|archive-url=https://web.archive.org/web/20250703090141/https://hanoionline.vn/xa-thuong-tin-nhung-thong-tin-chi-tiet-sau-sap-xep-344168.htm|archive-date=2025-07-03|access-date=2026-07-01|website=Cơ quan Báo và Phát thanh Truyền hình Hà Nội}}</ref><ref>{{Chú thích web|last=Cơ quan Báo và Phát thanh Truyền hình Hà Nội|date=2025-07-07|title=Xã Thường Tín: Tất cả thông tin chỉ dẫn bạn cần biết|url=https://hanoionline.vn/xa-thuong-tin-tat-ca-thong-tin-chi-dan-ban-can-biet-345152.htm|url-status=bot: unknown|archive-url=https://web.archive.org/web/20260107120701/https://hanoionline.vn/xa-thuong-tin-tat-ca-thong-tin-chi-dan-ban-can-biet-345152.htm|archive-date=2026-01-07|access-date=2026-07-11}}</ref>
+Xã Thường Tín có diện tích tự nhiên là 28,29&nbsp;km<sup>2</sup>, quy mô dân số năm 2025 là 70.739 người và mật độ dân số đạt 2.500 người/km<sup>2</sup>.<ref>{{Chú thích web|last=Mai Hữu|date=2026-04-05|title=Hà Nội: Chi tiết phương án tổng thể sắp xếp đơn vị hành chính cấp xã|url=https://hanoimoi.vn/ha-noi-chi-tiet-phuong-an-tong-the-sap-xep-don-vi-hanh-chinh-cap-xa-700278.html|url-status=bot: unknown|archive-url=https://web.archive.org/web/20250710163328/https://hanoimoi.vn/ha-noi-chi-tiet-phuong-an-tong-the-sap-xep-don-vi-hanh-chinh-cap-xa-700278.html|archive-date=2025-07-10|access-date=2026-07-11|website=Cơ quan Báo và Phát thanh, truyền hình Hà Nội}}</ref><ref>Công văn số 2896/BNV-CQĐP ngày 27 tháng 5 năm 2025 của Bộ Nội vụ về việc cung cấp thông tin danh mục dự kiến đơn vị hành chính cấp xã mới.</ref>
+
+== Lịch sử==
+
+=== Trước năm 1976 ===
+
+=== Giai đoạn 1976 – nay ===
+Sau ngày 2 tháng 7 năm 1976, 9 xã: Đại Áng, Hà Hồi, Hiền Giang, Hòa Bình, Khánh Hà, Nhị Khê, Tiền Phong, Văn Bình và Văn Phú thuộc huyện [[Thường Tín (huyện)|Thường Tín]] của tỉnh [[Hà Sơn Bình]].
+
+Ngày 29 tháng 12 năm 1978, sáp nhập xã Thanh Hưng của huyện [[Thường Tín (huyện)|Thường Tín]] thuộc tỉnh [[Hà Sơn Bình]] vào thành phố [[Hà Nội]].<ref>Nghị quyết ngày 29 tháng 12 năm 1978 của Quốc hội khóa VI, Kỳ họp thứ 4 phê chuẩn việc phân vạch lại địa giới thành phố Hà Nội, thành phố Hồ Chí Minh, các tỉnh Hà Sơn Bình, Vĩnh Phú, Cao Lạng, Bắc Thái, Quảng Ninh và Đồng Nai.</ref>
+
+Ngày 17 tháng 2 năm 1979, sáp nhập xã Đại Áng (Thanh Hưng cũ) (của huyện [[Thường Tín (huyện)|Thường Tín]]) vào huyện [[Thanh Trì (xã)|Thanh Trì]].<ref>Quyết định số 49-CP ngày 17 tháng 2 năm 1979 của Hội đồng Chính phủ về việc điều chỉnh địa giới một số xã, thị trấn thuộc các huyện Sóc Sơn, Mê Linh, Hoài Đức, Phúc Thọ và Thanh Trì thuộc thành phố Hà Nội.</ref>
+
+Ngày 19 tháng 3 năm 1988, tách phố Ga của xã Văn Bình với 26,82 hécta diện tích tự nhiên và 1.548 nhân khẩu; thôn Trần Phú của xã Văn Phú với 36,48 hécta diện tích tự nhiên và 1.992 nhân khẩu; phố Vồi, chợ Vồi của xã Hà Hồi với 13,82 hécta diện tích tự nhiên và 1.499 nhân khẩu để thành lập thị trấn Thường Tín (huyện [[Thường Tín (huyện)|Thường Tín]]).<ref>{{Chú thích web |tựa đề=Quyết định số 49-HĐBT ngày 19 tháng 3 năm 1988 của Hội đồng Bộ trưởng về việc thành lập một số thị trấn của các huyện Mỹ Đức, Tân Lạc và Thường Tín thuộc tỉnh Hà Sơn Bình |url=https://vanban.chinhphu.vn/default.aspx?pageid=27160&docid=251 |url-status=dead |archive-url=https://web.archive.org/web/20260703400809/https://vanban.chinhphu.vn/default.aspx?pageid=27160&docid=251 |archive-date=2026-07-03 |access-date=2026-07-03 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+
+Ngày 12 tháng 8 năm 1991, chia tỉnh [[Hà Sơn Bình]] thành 2 tỉnh, lấy tên là tỉnh [[Hòa Bình (tỉnh)|Hòa Bình]] và tỉnh [[Hà Tây (tỉnh)|Hà Tây]]. Khi đó, thị trấn Thường Tín và 7 xã: Hiền Giang, Hòa Bình, Khánh Hà, Nhị Khê, Tiền Phong, Văn Bình, Văn Phú thuộc huyện [[Thường Tín (huyện)|Thường Tín]] của tỉnh [[Hà Tây (tỉnh)|Hà Tây]].<ref>Nghị quyết ngày 12 tháng 8 năm 1991 của Quốc hội khóa VIII, Kỳ họp thứ 9 về việc điều chỉnh địa giới hành chính một số tỉnh, thành phố trực thuộc Trung ương.</ref>
+
+Ngày 29 tháng 5 năm 2008, hợp nhất tỉnh [[Hà Tây (tỉnh)|Hà Tây]] vào thành phố [[Hà Nội]]. Khi đó, thị trấn Thường Tín và 7 xã: Hiền Giang, Hòa Bình, Khánh Hà, Nhị Khê, Tiền Phong, Văn Bình, Văn Phú thuộc huyện [[Thường Tín (huyện)|Thường Tín]] của thành phố [[Hà Nội]].<ref>Nghị quyết số 15/2008/QH12 ngày 29 tháng 5 năm 2008 của Quốc hội khóa XII, Kỳ họp thứ 3 về việc điều chỉnh địa giới hành chính thành phố Hà Nội và một số tỉnh có liên quan.</ref>
+
+Ngày 16 tháng 6 năm 2025:
+
+* Kết thúc hoạt động của đơn vị hành chính cấp huyện trong cả nước.<ref>{{Chú thích web |last= |date= |title=Nghị quyết số 203/2025/QH15 ngày 16 tháng 6 năm 2025 của Quốc hội khóa XV, Kỳ họp thứ 9 về việc sửa đổi, bổ sung một số điều của Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/nq-sua-doi-hien-phap.pdf |url-status=live |archive-url=https://web.archive.org/web/20260613090807/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/nq-sua-doi-hien-phap.pdf |archive-date=2026-06-13 |access-date=2026-06-13 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+* Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của thị trấn Thường Tín, các xã Tiền Phong, Hiền Giang, Hòa Bình, Nhị Khê, Văn Bình, Văn Phú (huyện [[Thường Tín (huyện)|Thường Tín]]), phần còn lại của xã Đại Áng (huyện [[Thanh Trì (huyện)|Thanh Trì]]) và xã Khánh Hà (huyện [[Thường Tín (huyện)|Thường Tín]]) thành xã mới có tên gọi là xã Thường Tín.<ref>{{Chú thích web |title=Nghị quyết số 1656/NQ-UBTVQH15 ngày 16 tháng 6 năm 2025 của Ủy ban Thường vụ Quốc hội về việc sắp xếp các đơn vị hành chính cấp xã của thành phố Hà Nội năm 2025 |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf |url-status=bot: unknown |archive-url=https://web.archive.org/web/20260513110024/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf |archive-date=2026-05-13 |access-date=2026-06-30 |website=Cổng Thông tin điện tử Chính phủ }}</ref>
+* Sau khi sắp xếp, xã Thường Tín được chia thành 41 tổ dân phố – cụm dân cư – khu dân cư – thôn, gồm 4 tổ dân phố, 5 cụm dân cư, 1 khu dân cư và 27 thôn.<ref>4 tổ dân phố: Nguyễn Du, Phố Ga, Phố Vồi và Trần Phú của thị trấn Thường Tín cũ; 8 cụm dân cư – thôn, gồm 4 cụm dân cư, đánh số từ 5 đến 8 (thôn Trát Cầu) và 4 thôn: Định Quán, Ngọc Động, Phác Động, Thượng Cung của xã Tiền Phong cũ; 4 thôn: Hưng Hiền, Nhân Hiền, Nhuệ Giang và Quang Hiền của xã Hiền Giang cũ; 5 cụm dân cư – thôn, gồm cụm dân cư Bệnh viện Tâm thần Trung ương và 4 thôn: Dưỡng Hiền, Phụng Công, Quần Hiền, Thụy Ứng của xã Hòa Bình cũ; 5 khu dân cư – thôn, gồm khu dân cư Quán Gánh và 4 thôn: Nhị Khê, Thượng Đình, Trung Thôn, Văn Xá của xã Nhị Khê cũ; 3 thôn: Bình Vọng, Văn Giáp và Văn Hội của xã Văn Bình cũ; 2 thôn: Văn Trai và Yên Phú của xã Văn Phú cũ; 6 thôn: Đan Nhiễm, Đỗ Hà, Hoàng Xá, Khánh Vân, Liễu Ngoại và Liễu Nội của xã Khánh Hà cũ.</ref><ref>{{Chú thích web |title=Thông tư số 10/2022/TT-BTNMT ngày 29 tháng 9 năm 2022 của Bộ Tài nguyên và Môi trường về việc Ban hành Danh mục địa danh dân cư, sơn văn, thủy văn, kinh tế – xã hội phục vụ công tác thành lập bản đồ thành phố Hà Nội |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2022/10/10-btnmt.pdf |url-status=bot: unknown |archive-url=https://web.archive.org/web/20260630082812/https://datafiles.chinhphu.vn/cpp/files/vbpq/2022/10/10-btnmt.pdf |archive-date=2026-06-30 |access-date=2026-06-30 |website=Cổng Thông tin điện tử Chính phủ }}</ref><ref>{{Chú thích web |title=Uỷ ban bầu cử xã Thường Tín công bố danh sách chính thức những người ứng cử đại biểu Hội đồng nhân dân xã Thường Tín khóa II, nhiệm kỳ 2026 – 2031 |url=https://thuongtin.hanoi.gov.vn/bau-cu-dai-bieu-quoc-hoi-khoa-xvi-va-dai-bieu-hoi-dong-nhan-dan-cac-cap/uy-ban-bau-cu-xa-thuong-tin-cong-bo-danh-sach-chinh-thuc-nhung-nguoi-ung-cu-dai-bieu-hoi-dong-nhan-dan-xa-thuong-tin-khoa-ii-nhiem-ky-20262031-2843260227152556643.htm |url-status=dead |archive-url=https://web.archive.org/web/20260702400809/https://thuongtin.hanoi.gov.vn/bau-cu-dai-bieu-quoc-hoi-khoa-xvi-va-dai-bieu-hoi-dong-nhan-dan-cac-cap/uy-ban-bau-cu-xa-thuong-tin-cong-bo-danh-sach-chinh-thuc-nhung-nguoi-ung-cu-dai-bieu-hoi-dong-nhan-dan-xa-thuong-tin-khoa-ii-nhiem-ky-20262031-2843260227152556643.htm |archive-date=2026-07-02 |access-date=2026-07-02 |website=|date=2026-02-27|last=Trang Thông tin điện tử xã Thường Tín – thành phố Hà Nội}}</ref>
+
+Ngày 31 tháng 7 năm 2025, chuyển đổi 4 tổ dân phố: Phố Vồi, Trần Phú, Nguyễn Du và Phố Ga của thị trấn Thường Tín (cũ) thành thôn.<ref>1. Chuyển đổi Tổ dân phố Phố Vồi của Thị trấn Thường Tín (cũ) thành thôn Phố Vồi, xã Thường Tín; 2. Chuyển đổi Tổ dân phố Trần Phú của Thị trấn Thường Tín (cũ) thành thôn Trần Phú, xã Thường Tín; 3. Chuyển đổi Tổ dân phố Nguyễn Du của Thị trấn Thường Tín (cũ) thành thôn Nguyễn Du, xã Thường Tín; 4. Chuyển đổi Tổ dân phố Phố Ga của Thị trấn Thường Tín (cũ) thành thôn Phố Ga, xã Thường Tín.</ref><ref>{{Chú thích web |title=Nghị quyết số 11/NQ-HĐND ngày 31 tháng 7 năm 2025 của Hội đồng nhân dân xã Thường Tín khóa I, Kỳ họp thứ hai về việc chuyển đổi "Tổ dân phố" thành "Thôn" trên địa bàn xã Thường Tín, thành phố Hà Nội |url=https://storage-vnportal.vnpt.vn/gov-hni/6995/VanBan/2025/8/13/15.%20NQ%20s%E1%BB%91%2011.pdf |url-status=live |archive-url=https://web.archive.org/web/20260703400809/https://storage-vnportal.vnpt.vn/gov-hni/6995/VanBan/2025/8/13/15.%20NQ%20s%E1%BB%91%2011.pdf |archive-date=2026-07-03 |access-date=2026-07-03 |website=Trang Thông tin điện tử xã Thường Tín – thành phố Hà Nội}}</ref>
+
+Ngày 24 tháng 12 năm 2025, xác định một phần của xã Thường Tín là [[Đô thị Việt Nam|đô thị loại III]].<ref>Chuyển tiếp từ thị trấn Thường Tín thuộc huyện Thường Tín.</ref><ref>{{Chú thích web |title=Nghị quyết số 111/2025/UBTVQH15 ngày 24 tháng 12 năm 2025 của Ủy ban Thường vụ Quốc hội về phân loại đô thị |url=https://cdn.nhandan.vn/files/f4a4abf7f9a0ba4a91744616546d850872b76917f90d5a74cc9eebef1369fb6f/111.pdf |url-status=dead |archive-url=https://web.archive.org/web/20260814175111/https://cdn.nhandan.vn/files/f4a4abf7f9a0ba4a91744616546d850872b76917f90d5a74cc9eebef1369fb6f/111.pdf |archive-date=2026-08-14 |access-date=2026-07-12 |website=Báo Nhân dân }}</ref>
+
+Ngày 25 tháng 6 năm 2026, thành lập 14 thôn mới: Trát Cầu, Ngọc Động, Thượng Quán, Thượng Đình, Văn Trung, Khánh Vân, Hà Liễu, Văn Trai, Yên Phú, Hòa Bình, Thụy Ứng, Nguyễn Du, Trần Phú và Hiền Giang.<ref>1. Thôn Văn Giáp: Giữ nguyên; 2. Thôn Văn Hội: Giữ nguyên; 3. Thôn Bình Vọng: Giữ nguyên; 4. Thôn Nhị Khê: Giữ nguyên; 5. Thôn Đỗ Hà: Giữ nguyên; 6. Thôn Đan Nhiễm: Giữ nguyên; 7. Thôn Nhân Hiền: Giữ nguyên; 8. Thôn Trát Cầu: Thành lập trên cơ sở sáp nhập toàn bộ Cụm 5 – Trát Cầu, Cụm 6 – Trát Cầu, Cụm 7 – Trát Cầu và Cụm 8 – Trát Cầu; 9. Thôn Ngọc Động: Thành lập trên cơ sở sáp nhập toàn bộ thôn Phác Động và thôn Ngọc Động; 10. Thôn Thượng Quán: Thành lập trên cơ sở sáp nhập toàn bộ thôn Thượng Cung và thôn Định Quán; 11. Thôn Thượng Đình: Thành lập trên cơ sở sáp nhập toàn bộ thôn Thượng Đình và Khu dân cư Phố Quán Gánh; 12. Thôn Văn Trung: Thành lập trên cơ sở sáp nhập toàn bộ thôn Trung Thôn và thôn Văn Xá; 13. Thôn Khánh Vân: Thành lập trên cơ sở sáp nhập toàn bộ thôn Hoàng Xá và thôn Khánh Vân; 14. Thôn Hà Liễu: Thành lập trên cơ sở sáp nhập toàn bộ thôn Liễu Nội và thôn Liễu Ngoại; 15. Thôn Văn Trai: Thành lập trên cơ sở sáp nhập toàn bộ cụm dân cư số 1, cụm dân cư số 2 và cụm dân cư số 3 – Văn Trai; 16. Thôn Yên Phú: Thành lập trên cơ sở sáp nhập toàn bộ cụm dân cư số 4, cụm dân cư số 5 và cụm dân cư số 6 – Yên Phú; 17. Thôn Hòa Bình: Thành lập trên cơ sở sáp nhập toàn bộ thôn Phụng Công, thôn Quần Hiền và thôn Dưỡng Hiền; 18. Thôn Thụy Ứng: Thành lập trên cơ sở sáp nhập toàn bộ thôn Thụy Ứng và Cụm dân cư Bệnh viện Tâm thần Trung ương; 19. Thôn Nguyễn Du: Thành lập trên cơ sở sáp nhập toàn bộ thôn Phố Ga và thôn Nguyễn Du; 20. Thôn Trần Phú: Thành lập trên cơ sở sáp nhập toàn bộ thôn Phố Vồi và thôn Trần Phú; 21. Thôn Hiền Giang: Thành lập trên cơ sở sáp nhập toàn bộ thôn Quang Hiền, thôn Hưng Hiền và thôn Nhuệ Giang.</ref><ref name=":0">{{Chú thích web |last=Trung tâm Dịch vụ Tổng hợp xã Thường Tín – thành phố Hà Nội |date=2026-07-03 |title=Danh sách tên và thông tin chính thức của 21 thôn trên địa bàn xã Thường Tín sau sáp nhập! |url=https://www.facebook.com/story.php?story_fbid=1008620015087457&id=100078184044408&rdid=mIs5Ot4Qq5wTZIGm# |url-status=live |archive-url=https://web.archive.org/web/20260703400809/https://www.facebook.com/story.php?story_fbid=1008620015087457&id=100078184044408&rdid=mIs5Ot4Qq5wTZIGm# |archive-date=2026-07-03 |access-date=2026-07-03}}</ref><!-- 
+Đầu thế kỷ 19, các làng Văn Trai và Yên Phú là: xã Yên Phú, xã Vân Trai của tổng Thượng Hồng huyện Thượng Phúc phủ Thường Tín trấn [[Sơn Nam (địa danh cũ Việt Nam)| Sơn Nam Thượng]]<ref>Cuốn Tên làng xã Việt Nam đầu thế kỷ 19, trang 48.</ref>.
+== Lịch sử== 
+Trước Cách mạng tháng Tám, năm 1945, các thôn thuộc xã Văn Bình ngày nay là các xã: Văn Giáp, Văn Hội thuộc tổng Thượng Cung; xã Bình Vọng thuộc tổng Hà Hồi, tỉnh Hà Đông. Tháng 4/1946, hai xã Văn Giáp, Văn Hội hợp nhất thành xã Giáp Hội. Năm 1948, các xã Giáp Hội, Bình Vọng, Bạch Liên, Phương Quế hợp nhất thành xã Cộng Hòa. Năm 1949, xã Cộng Hòa đổi tên thành xã Bạch Đằng.
+
+Cuối năm 1956, bước vào giai đoạn sửa sai cải cách ruộng đất, xã Bạch Đằng tách thành hai xã: Bạch Đằng và Liên Phương. Xã Bạch Đằng gồm ba thôn: Văn Giáp, Văn Hội, Bình Vọng. Năm 1971 xã Bạch Đằng đổi tên thành xã Văn Bình.
+
+Từ tháng 6 năm 2025, giải thể huyện Thường Tin đồng thời thành lập xã [[Thường Tín (xã)| Thường Tín]] trên cơ sở sáp nhập toàn bộ diện tích và dân số các xã: [[Nhị Khê]], Văn Bình, [[Thường Tín (xã)| Văn Phú]], [[Thường Tín (xã)| Tiền Phong]], [[Hiền Giang]], [[Thường Tín (xã)| Hòa Bình]], [[Thường Tín (xã)| thị trấn Thường Tín]] và phần lớn diện tích tự nhiên và dân số của xã [[Thường Tín (xã)| Khánh Hà]].<ref>{{Chú thích web | last = Khánh An | date = 2025-5-28 | title = 4 xã mới ở huyện Thường Tín được đặt trụ sở tại đâu sau sắp xếp? | url = https://laodong.vn/ban-doc/4-xa-moi-o-huyen-thuong-tin-duoc-dat-tru-so-tai-dau-sau-sap-xep-1514389.ldo | access-date = 2025-10-04 | website = Báo Lao Động}}</ref>
+
+== Giao thông== 
+Xã nằm sát Quốc lộ 1, đường sắt Bắc – Nam, đường cao tốc Pháp Vân – Cầu Giẽ. Đường tỉnh lộ 427 (đường 71 cũ) đi qua địa bàn phía nam xã, nối đường 22 phía tây huyện với đường 1A, đường cao tốc Pháp Vân – Cầu Giẽ và đường thủy sông Hồng Hà Nội  - Nam Định. Văn Bình liền kề các nhà ga, bến xe (ga tàu hỏa Thường Tín, bến xe khách Thường Tín) rất thuận lợi cho giao lưu kinh tế - xã hội.
+
+== Văn hóa== 
+Người dân Văn Bình sống chủ yếu bằng nghề nông, giỏi trồng lúa, rau màu, chăn nuôi gia súc, gia cầm, thủy sản. Ngoài ra, ở Văn Bình còn sớm phát triển nghề thủ công, buôn bán nhỏ. Vào thế kỷ XVI, Bình Vọng nổi tiếng là đất tổ nghề sơn thếp, do tiến sĩ Trần Lư truyền dạy cho dân. Xã có chợ Bằng và chợ Nội. Cơ cấu kinh tế hiện nay: Giá trị sản xuất nông nghiệp chiếm tỷ trọng 13,7%; giá trị thương mại – dịch vụ chiếm 86,3%.
+
+=== Dị tích=== 
+[[Tập tin:Chùa Pháp Vân 4, Văn Bình, Thường Tín, Hà Nội.jpeg| nhỏ| trái| 300px| Chùa Pháp Vân]]
+Xã có 04 di tích cấp Quốc gia, gồm: Chùa làng Văn Giáp được công nhận năm 1991; Chùa làng Văn Hội được công nhận năm 1993; đình làng Bình Vọng, chùa làng Bình Vọng được công nhận năm 1999.
+
+=== Nhân vật nổi bật=== 
+Danh nhân có Trần Lư đỗ tiến sĩ năm 1493; Nguyễn Hữu Đăng đỗ tiến sĩ năm 1667; Nguyễn Tuyền đỗ tiến sĩ năm 1718; Trần Trọng Liêu đỗ tiến sĩ năm 1733; Lê Nguyễn Thường đỗ tiến sĩ năm 1772; Lê Tông Quang đỗ tiến sĩ năm 1822; Nguyễn Tông đỗ tiến sĩ năm 1829; Nguyễn Hinh đỗ tiến sĩ năm 1848; Đinh Doãn Tín đỗ tiến sĩ năm 1568; Nguyễn Nhữ đỗ tiến sĩ năm 1586.
+
+== Danh nhân== 
+*Nơi đây là vùng đất có truyền thống lịch sử văn hoá, đã sinh ra vị anh hùng dân tộc danh nhân văn hoá thế giới: [[Nguyễn Trãi]]
+*Ngoài ra, còn là quê hương của các trí thức yêu nước có công lớn trong truyền bá quốc ngữ và tư tưởng "tự cường dân tộc "như Lương Văn Can, Lương Ngọc Quyến...
+
+== Giao thông== 
+Các tuyến, hệ thống giao thông quan trọng ở xã Nhị Khê:
+* Quốc lộ 1 cũ
+* Đường sắt Bắc - Nam
+* Hệ thống xe buýt: 6A, 6B, 6C, 6D, 6E, 12, 62, 94, 101A, 101B, 108, 113, 125
+== Di tích== 
+Khu di tích [[Nguyễn Trãi]] gồm nhà thờ, mộ tổ họ Nguyễn, bia văn chỉ, Ao Huê, Trại Ổi... ở thôn Nhị Khê tức làng Dũi đã được xếp hạng là di tích cấp quốc gia từ năm 1964.
+
+== Kinh tế== 
+Nhị Khê cũng như các xã khác của huyện Thường Tín nói chung thì ngoài sản xuất nông nghiệp thì lại có thêm những nghề phụ khác nhau. Đối với xã Nhị Khê thì nghề tiện rất nổi tiếng. Các nguyên, vật liệu tiện ngoài gỗ còn có cả đá, vật liệu cứng... Các sản phẩm tiện gồm có đồ dùng gia đình, sinh hoạt, nội thất trang trí, trang sức... Nghề tiện phát triển mạnh ở các thôn phía tây xã như Nhị Khê, Trung Thôn, Văn Xá. Ngoài ra ở xã còn có nghề làm bánh giày và thêm một số loại bánh khác ở khu vực gần Quán Gánh, Thượng Đình. Các ngành nghề nhóm dịch vụ cũng bắt đầu phát triển ở khu vực ven Quốc lộ 1 cũ (Quán Gánh). Cũng do vị trí giao thông thuận lợi, làng nghề, nghề phụ mà kinh tế cá thể của các hộ ở xã Nhị Khê có phần nhỉnh hơn mặt bằng chung ở các xã thuộc đồng bằng sông Hồng.
+
+== Lịch sử== 
+Đầu thế kỷ 19, các thôn làng của xã Hiền Giang là các làng xã (thời xưa) Nhuệ Giang, Nhân Hiền, Hưng Hiền, Dưỡng Hiền, Cổ Hiền của tổng Cổ Hiền huyện Thượng Phúc phủ Thường Tín trấn [[Sơn Nam (địa danh cũ Việt Nam)| Sơn Nam Thượng]].<ref>Cuốn Tên làng xã Việt Nam đầu thế kỷ 19, trang 48.</ref>
+
+== Văn hóa== 
+=== Nghề truyền thống=== 
+*Xã có làng nghề truyền thống là làng chạm khắc đá Nhân Hiền.
+*Xã trước nổi danh với lang nghề điều khắc gỗ sau vì những lí do đã chuyển qua điêu khắc đá
+
+-->
+
+== Hành chính ==
+Xã Thường Tín được chia thành 21 thôn: Bình Vọng, Đan Nhiễm, Đỗ Hà, Hà Liễu, Hiền Giang, Hòa Bình, Khánh Vân, Ngọc Động, Nguyễn Du, Nhân Hiền, Nhị Khê, Thụy Ứng, Thượng Đình, Thượng Quán, Trát Cầu, Trần Phú, Văn Giáp, Văn Hội, Văn Trai, Văn Trung và Yên Phú.<ref name=":0" />
+{| class="wikitable sortable" align="center" width="100%" cellspacing="6" cellpadding="0" style="background: #f9f9f9; border: 1px #aaa solid; margin-top: 16px"
+! colspan="4" style="background: #E6E6FA; font-size: 95%;" |Danh sách các thôn thuộc xã Thường Tín<ref name=":0" />
+|-
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Bình Vọng
+|1.236
+|-
+| align="left" |Đan Nhiễm
+|1.224
+|-
+| align="left" |Đỗ Hà
+|502
+|-
+| align="left" |Hà Liễu
+|838
+|-
+| align="left" |Hiền Giang
+|719
+|-
+| align="left" |Hòa Bình
+|649
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Khánh Vân
+|670
+|-
+| align="left" |Ngọc Động
+|854
+|-
+| align="left" |Nguyễn Du
+|828
+|-
+| align="left" |Nhân Hiền
+|753
+|-
+| align="left" |Nhị Khê
+|669
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Thụy Ứng
+|1.429
+|-
+| align="left" |Thượng Đình
+|887
+|-
+| align="left" |Thượng Quán
+|578
+|-
+| align="left" |Trát Cầu
+|1.574
+|-
+| align="left" |Trần Phú
+|1.023
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Văn Giáp
+|1.301
+|-
+| align="left" |Văn Hội
+|1.283
+|-
+| align="left" |Văn Trai
+|1.060
+|-
+| align="left" |Văn Trung
+|761
+|-
+| align="left" |Yên Phú
+|1.323
+|}
+|}
+
+== Kinh tế ==
+Nền kinh tế xã chủ yếu là kinh doanh dịch vụ. Ngành dịch vụ, thương mại, xây dựng chiếm 90%, nông nghiệp và công nghiệp chiếm 10%.
+
+Trên địa bàn xã Thường Tín có tuyến Quốc lộ 1 đi qua, tạo điều kiện thuận lợi cho việc kinh doanh buôn bán. Xã Thường Tín có chợ Vồi là [[chợ đầu mối]] cung cấp lương thực thực phẩm, hàng hoá cho thủ đô [[Hà Nội]] và các vùng lân cận.
+
+== Xã hội== 
+=== Giáo dục=== 
+==== THPT==== 
+* Trường THPT Thường Tín.
+* Trường TH, THCS & THPT Thăng Long
+* Trung tâm Giáo dục thường xuyên - Giáo dục nghề nghiệp xã Thường Tín
+
+==== THCS====
+* Trường THCS thị trấn Thường Tín 
+* Trường THCS Nguyễn Trãi A
+* Trường TH, THCS & THPT Thăng Long
+* Trường THCS thị trấn Thường Tín - cơ sở 2 (đang xây dựng).
+* Trường THCS Văn Bình
+* Trường THCS Văn Phú
+* Trường THCS Hòa Bình
+* Trường THCS Hiền Giang
+* Trường THCS Khánh Hà
+* Trường THCS Nhị Khê
+* Trường THCS Tiền Phong
+
+==== Tiểu học==== 
+* Trường Tiểu học Nguyễn Du (tên cũ: Trường Tiểu học thị trấn Thường Tín).
+* Trường TH, THCS & THPT Thăng Long
+* Trường Tiểu học Hòa Bình
+* Trường Tiểu học Tiền Phong
+* Trường Tiểu học Hiền Giang
+* Trường Tiểu học Văn Phú
+* Trường Tiểu học Văn Bình
+* Trường Tiểu học Nhị Khê
+* Trường Tiểu học Khánh Hà
+
+==== Mầm non====
+* Trường Mầm non Hoa Sen.
+* Trường Mầm non Hòa Bình
+* Trường Mầm non Tiền Phong
+* Trường Mầm non Hiền Giang
+* Trường Mầm non Văn Phú
+* Trường Mầm non Văn Bình
+* Trường Mầm non Nhị Khê
+* Trường Mầm non Khánh Hà
+
+=== Y tế=== 
+* Bệnh viện Thường Tín
+* Bệnh viện Tâm thần Trung ương I
+* Viện Pháp Y Tâm thần Trung ương
+* Trạm Y Tế xã Thường Tín (Trạm Y tế xã Hiền Giang cũ)
+* Các điểm trạm Y Tế khác trên địa bàn xã
+
+== Giao thông== 
+[[hình:Chùa Pháp Vân 2, Văn Bình, Thường Tín, Hà Nội.jpeg|thumb| trái| Chùa Pháp Vân]]
+Tại đây có nhà ga xe lửa đầu tiên nằm ngoài phạm vi nội thành [[Hà Nội]] trên tuyến đường sắt Bắc - Nam có tên là ga Thường Tín. Xã được tạo bởi thành phần chính là hai tuyến giao lộ cắt nhau ngay cạnh ga Thường Tín là tỉnh lộ 427B - đường 71 và [[Quốc lộ 1]].
+
+Hai tuyến đường chính của xã Thường Tín là đường Trần Phú và đường Trần Nhật Duật. Đường Trần Phú bắt đầu từ ngã ba Thường Tín (Quốc lộ 1) cắt tuyến đường sắt Bắc - Nam cho đến ngã ba Văn Phú thì tách ra. Đường này còn cắt với các tuyến đường ở thị trấn, bao gồm: Danh Hương, Tả Môn, Nguyễn Du, Nguyễn Trãi. Điểm đầu của đường Trần Nhật Duật tại cầu Dừa, gần Khu đất dịch vụ Nhà ở Văn Bình và kết thúc ở Quốc lộ 1 (gần đường vào ga Thường Tín, còn gọi là ngã ba Phố Ga).
+
+Hệ thống xe buýt hoạt động trên địa bàn xã (Có trợ giá)
+* Tuyến 6A: Bến xe Giáp Bát - Cầu Giẽ
+* Tuyến 6B: Bến xe Giáp Bát - Hồng Vân
+* Tuyến 6C: Bến xe Giáp Bát - Phú Minh
+* Tuyến 6D: Bến xe Giáp Bát - Tân Dân
+* Tuyến 6E: Bến xe Giáp Bát - Phú Túc
+* Tuyến 12: Công viên Nghĩa Đô - Khánh Hà
+* Tuyến 62: Bến xe Yên Nghĩa - Bến xe Thường Tín
+* Tuyến 94: Bến xe Giáp Bát - Kim Bài
+* Tuyến 101A: Bến xe Giáp Bát - Vân Đình
+* Tuyến 101B: Bến xe Giáp Bát - Đại Cường
+* Tuyến 108: Bến xe Thường Tín - Minh Tân
+* Tuyến 113: Bến xe Thường Tín - Bến đò Vườn Chuối
+* Tuyến 125: Bến xe Giáp Bát - Tỉnh lộ 427B - Vân Đình
+
+== Đặc sản== 
+*[[Bánh giầy|Bánh dày]] Quán Gánh
+
+==Danh nhân==
+* [[Nguyễn Trãi]] (1380 – 1442), hiệu là '''Ức Trai''', là một nhà chính trị, nhà văn, nhà văn hóa lớn của dân tộc Việt Nam.
+
+== Chú thích== 
+{{tham khảo}}
+
+== Tham khảo ==
+{{sơ khai Hà Nội}}
+{{Đơn vị hành chính thuộc thành phố Hà Nội}}

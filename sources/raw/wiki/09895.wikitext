@@ -1,0 +1,329 @@
+{{Thông tin đơn vị hành chính Việt Nam|Xã
+| tên = Quốc Oai
+| hình = Chùa Thầy (9411972929).jpg 
+| ghi chú hình = [[Chùa Thầy]] 
+| vĩ độ = 20.99173425344392
+| kinh độ = 105.64087941340237
+| diện tích = 24 km²
+| dân số = 63.344 người
+| thời điểm dân số = 2025
+| mật độ dân số = {{formatnum:{{#expr:floor({{formatnum:63.344| R}}/{{formatnum:24| R}})}} }} người/km²
+| vùng = [[Đồng bằng sông Hồng]]
+| thành phố = [[Hà Nội]]
+| thành lập = 
+| trụ sở UBND =Số 10 đường 17/8<ref>{{Chú thích web |url=https://storage-vnportal.vnpt.vn/gov-hni/6244/VanBan/2025/6/25/TB-729-2025.pdf |title=Thông báo số 729/TB-UBND ngày 25 tháng 6 năm 2025 của Ủy ban nhân dân thành phố Hà Nội về địa điểm trụ sở làm việc của 126 phường, xã sau sắp xếp thuộc phạm vi quản lý của thành phố Hà Nội|access-date=2026-06-15 |archive-date=2026-06-15 |archive-url=https://web.archive.org/web/20260615034519/https://storage-vnportal.vnpt.vn/gov-hni/6244/VanBan/2025/6/25/TB-729-2025.pdf |url-status=dead | website = Cổng Thông tin điện tử Ủy ban nhân dân thành phố Hà Nội}}</ref> 
+| mã hành chính =09895<ref>{{Chú thích web |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/19ttg.signed.pdf |title=Quyết định số 19/2025/QĐ-TTg ngày 30 tháng 6 năm 2025 của Thủ tướng Chính phủ về việc Ban hành Bảng danh mục và mã số các đơn vị hành chính Việt Nam |access-date=2026-06-15 |archive-date=2026-06-15 |archive-url=https://web.archive.org/web/20260615034519/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/19ttg.signed.pdf |url-status=dead | website = Cổng Thông tin điện tử Chính phủ}}</ref> 
+| logo=Xã Quốc Oai.png
+| ghi chú logo=Biểu Trưng|bản đồ 1={{maplink|frame=yes|plain=yes|type=shape|frame-width=280|frame-align=center|stroke-width=3}}|web={{url|quocoai.hanoi.gov.vn}}|trụ sở Đảng ủy=Số 12 đường 17/8}}
+{{other|Quốc Oai (định hướng)}}
+'''Quốc Oai''' là một [[Xã (Việt Nam)|xã]] thuộc thành phố [[Hà Nội]], [[Việt Nam]].
+
+== Địa lý== 
+Xã Quốc Oai có vị trí địa lý:
+
+* Phía đông giáp xã [[Sơn Đồng]] và [[An Khánh, Hà Nội|An Khánh]]
+* Phía tây giáp xã [[Tây Phương]] và xã [[Kiều Phú (xã)|Kiều Phú]]
+* Phía nam giáp xã [[Hưng Đạo, Hà Nội|Hưng Đạo]]
+* Phía bắc giáp xã [[Dương Hòa]] và [[Hát Môn]].<ref>{{Chú thích web |last=Viện nghiên cứu Phát triển kinh tế – xã hội Hà Nội |date=2025-07-02 |title=Xã Quốc Oai: Những thông tin chi tiết sau sắp xếp |url=https://hanoionline.vn/xa-quoc-oai-nhung-thong-tin-chi-tiet-sau-sap-xep-344167.htm |url-status=bot: unknown |archive-url=https://web.archive.org/web/20250703090100/https://hanoionline.vn/xa-quoc-oai-nhung-thong-tin-chi-tiet-sau-sap-xep-344167.htm |archive-date=2025-07-03 |access-date=2026-07-11 |website=Cơ quan Báo và Phát thanh Truyền hình Hà Nội }}</ref><ref>{{Chú thích web |last=Cơ quan Báo và Phát thanh Truyền hình Hà Nội |date=2025-07-08 |title=Xã Quốc Oai: Tất cả thông tin chỉ dẫn bạn cần biết |url=https://hanoionline.vn/xa-quoc-oai-tat-ca-thong-tin-chi-dan-ban-can-biet-345416.htm |url-status=live |archive-url=https://web.archive.org/web/20260711401509/https://hanoionline.vn/xa-quoc-oai-tat-ca-thong-tin-chi-dan-ban-can-biet-345416.htm |archive-date=2026-07-11 |access-date=2026-07-11}}</ref>
+Xã Quốc Oai có diện tích tự nhiên là 24&nbsp;km<sup>2</sup>, quy mô dân số năm 2025 là 63.344 người và mật độ dân số đạt 2.639 người/km<sup>2</sup>.<ref>{{Chú thích web |last=Mai Hữu |date=2026-04-05 |title=Hà Nội: Chi tiết phương án tổng thể sắp xếp đơn vị hành chính cấp xã |url=https://hanoimoi.vn/ha-noi-chi-tiet-phuong-an-tong-the-sap-xep-don-vi-hanh-chinh-cap-xa-700278.html |url-status=bot: unknown |archive-url=https://web.archive.org/web/20250710163328/https://hanoimoi.vn/ha-noi-chi-tiet-phuong-an-tong-the-sap-xep-don-vi-hanh-chinh-cap-xa-700278.html |archive-date=2025-07-10 |access-date=2026-07-11 |website=Cơ quan Báo và Phát thanh, truyền hình Hà Nội }}</ref><ref>Công văn số 2896/BNV-CQĐP ngày 27 tháng 5 năm 2025 của Bộ Nội vụ về việc cung cấp thông tin danh mục dự kiến đơn vị hành chính cấp xã mới.</ref>
+
+== Lịch sử==
+
+=== Trước năm 1976 ===
+
+=== Giai đoạn 1976 – nay ===
+Sau ngày 2 tháng 7 năm 1976, 6 xã: Hoàng Ngô, Ngọc Mỹ, Phượng Cách, Sài Sơn, Thạch Thán và Yên Sơn thuộc huyện [[Quốc Oai (huyện)|Quốc Oai]] của tỉnh [[Hà Sơn Bình]].
+
+Ngày 23 tháng 12 năm 1988, thành lập thị trấn Quốc Oai trên cơ sở giải thể xã Hoàng Ngô.<ref>Quyết định số 187-HĐBT ngày 23 tháng 12 năm 1988 của Hội đồng Bộ trưởng về việc thị trấn Quốc Oai của huyện Quốc Oai thuộc tỉnh Hà Sơn Bình.</ref>
+
+Ngày 12 tháng 8 năm 1991, chia tỉnh [[Hà Sơn Bình]] thành 2 tỉnh, lấy tên là tỉnh [[Hòa Bình (tỉnh)|Hòa Bình]] và tỉnh [[Hà Tây (tỉnh)|Hà Tây]]. Khi đó, thị trấn Quốc Oai và 5 xã: Ngọc Mỹ, Phượng Cách, Sài Sơn, Thạch Thán, Yên Sơn thuộc huyện [[Quốc Oai (huyện)|Quốc Oai]] của [[Hà Tây (tỉnh)|tỉnh Hà Tây]].<ref>Nghị quyết ngày 12 tháng 8 năm 1991 của Quốc hội khóa VIII, Kỳ họp thứ 9 về việc điều chỉnh địa giới hành chính một số tỉnh, thành phố trực thuộc Trung ương.</ref>
+
+Ngày 29 tháng 5 năm 2008, hợp nhất tỉnh [[Hà Tây (tỉnh)|Hà Tây]] vào thành phố [[Hà Nội]]. Khi đó, thị trấn Quốc Oai và 5 xã: Ngọc Mỹ, Phượng Cách, Sài Sơn, Thạch Thán, Yên Sơn thuộc huyện [[Quốc Oai (huyện)|Quốc Oai]] của thành phố [[Hà Nội]].<ref>Nghị quyết số 15/2008/QH12 ngày 29 tháng 5 năm 2008 của Quốc hội khóa XII, Kỳ họp thứ 3 về việc điều chỉnh địa giới hành chính thành phố Hà Nội và một số tỉnh có liên quan.</ref>
+
+Ngày 14 tháng 11 năm 2024, thành lập xã Phượng Sơn trên cơ sở nhập xã Phượng Cách và xã Yên Sơn.<ref>{{Chú thích web |tiêu đề=Nghị quyết số 1286/NQ-UBTVQH15 ngày 14 tháng 11 năm 2024 của Ủy ban Thường vụ Quốc hội về việc sắp xếp đơn vị hành chính cấp xã của thành phố Hà Nội giai đoạn 2023 – 2025 |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/11/1286-qh.signed.pdf |url-status=dead |archive-url=https://web.archive.org/web/20260731202233/https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/11/1286-qh.signed.pdf |ngày lưu trữ=2026-07-31 |ngày truy cập=2026-07-25 |website=Cổng Thông tin điện tử Chính phủ }}</ref>
+
+Ngày 16 tháng 6 năm 2025:
+
+* Kết thúc hoạt động của đơn vị hành chính cấp huyện trong cả nước.<ref>{{Chú thích web |last= |date= |title=Nghị quyết số 203/2025/QH15 ngày 16 tháng 6 năm 2025 của Quốc hội khóa XV, Kỳ họp thứ 9 về việc sửa đổi, bổ sung một số điều của Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/nq-sua-doi-hien-phap.pdf |url-status=live |archive-url=https://web.archive.org/web/20260613090807/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/nq-sua-doi-hien-phap.pdf |archive-date=2026-06-13 |access-date=2026-06-13 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+* Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của xã Thạch Thán, xã Sài Sơn, một phần diện tích tự nhiên của xã Ngọc Mỹ, phần còn lại của thị trấn Quốc Oai và xã Phượng Sơn (huyện [[Quốc Oai (huyện)|Quốc Oai]]) thành xã mới có tên gọi là xã Quốc Oai.<ref>{{Chú thích web |title=Nghị quyết số 1656/NQ-UBTVQH15 ngày 16 tháng 6 năm 2025 của Ủy ban Thường vụ Quốc hội về việc sắp xếp các đơn vị hành chính cấp xã của thành phố Hà Nội năm 2025 |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf |url-status=bot: unknown |archive-url=https://web.archive.org/web/20260513110024/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf |archive-date=2026-05-13 |access-date=2026-06-30 |website=Cổng Thông tin điện tử Chính phủ }}</ref>
+* Sau khi sắp xếp, xã Quốc Oai được chia thành 29 thôn.<ref>4 thôn, đánh số từ 1 đến 4 của xã Thạch Thán cũ; 6 thôn: Đa Phúc, Khánh Tân, Năm Trại, Phúc Đức, Sài Khê và Thụy Khuê của xã Sài Sơn cũ; 5 tổ dân phố: Du Nghệ, Đình Tổ, Hoa Vôi, Ngô Sài và Phố Huyện của thị trấn Quốc Oai cũ; 7 thôn: đánh số từ 1 đến 4 (trước thuộc xã Phượng Cách), Ba Nhà, Quảng Yên và Sơn Trung (trước thuộc xã Yên Sơn) của xã Phượng Sơn cũ.</ref><ref>{{Chú thích web |title=Thông tư số 10/2022/TT-BTNMT ngày 29 tháng 9 năm 2022 của Bộ Tài nguyên và Môi trường về việc Ban hành Danh mục địa danh dân cư, sơn văn, thủy văn, kinh tế – xã hội phục vụ công tác thành lập bản đồ thành phố Hà Nội |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2022/10/10-btnmt.pdf |url-status=bot: unknown |archive-url=https://web.archive.org/web/20260630082812/https://datafiles.chinhphu.vn/cpp/files/vbpq/2022/10/10-btnmt.pdf |archive-date=2026-06-30 |access-date=2026-06-30 |website=Cổng Thông tin điện tử Chính phủ }}</ref><ref>{{Chú thích web |last= |date= |title=Quyết định số 117/QĐ-UBND ngày 15 tháng 1 năm 2026 của Ủy ban nhân dân xã Quốc Oai về việc chia khu vực bỏ phiếu bầu cử đại biểu Quốc hội khóa XVI và đại biểu Hội đồng nhân dân các cấp nhiệm kỳ 2026 – 2031 |url=https://sqhx-hanoi.mediacdn.vn/91579363132710912/2026/1/16/qd-chia-khu-vuc-bo-phieu-17685348632181149650229.pdf |url-status=dead |archive-url=https://web.archive.org/web/20260728201509/https://sqhx-hanoi.mediacdn.vn/91579363132710912/2026/1/16/qd-chia-khu-vuc-bo-phieu-17685348632181149650229.pdf |archive-date=2026-07-28 |access-date=2026-07-28 |website=Trang Thông tin điện tử xã Quốc Oai – thành phố Hà Nội}}</ref>
+Ngày 24 tháng 7 năm 2025, 3 tổ dân phố: Hoa Vôi, Du Nghệ, Ngô Sài, Đình Tổ chuyển đổi thành thôn; đổi tên 8 thôn, đánh số từ 1 đến 4 của xã Phượng Sơn (cũ), từ 1 đến 4 của xã Thạch Thán (cũ) và tổ dân phố Phố Huyện của thị trấn Quốc Oai (cũ) lần lượt thành 9 thôn: Phượng Cách từ 1 đến 4, Thạch Thán từ 1 đến 4 và Phủ Quốc.<ref>1. Các tổ dân phố Hoa Vôi, Du Nghệ, Ngô Sài, Đình Tổ sẽ được chuyển đổi tương ứng thành thôn Hoa Vôi, thôn Du Nghệ, thôn Ngô Sài và thôn Đình Tổ; 2. Các thôn 1, 2, 3, 4 của xã Phượng Sơn (cũ) đổi tên thành thôn Phượng Cách 1, 2, 3, 4; 4. còn các thôn 1, 2, 3, 4 của xã Thạch Thán (cũ) đổi thành thôn Thạch Thán 1, 2, 3, 4. 5. Riêng Tổ dân phố Phố Huyện, do mang đặc trưng tên gọi đô thị, được đổi thành thôn Phủ Quốc, gắn với địa danh lịch sử lâu đời của vùng đất Quốc Oai xưa.</ref><ref>{{Chú thích web |last=Kiều Thúy |date=2025-07-15 |title=Xã Quốc Oai triển khai phương án đổi tên thôn, chuyển đổi tổ dân phố: Bảo tồn bản sắc, thống nhất quản lý hành chính |url=https://thanhuyhanoi.vn/tin-tuc/xa-quoc-oai/xa-quoc-oai-trien-khai-phuong-an-doi-ten-thon-chuyen-doi-to-dan-pho-bao-ton-ban-sac-thong-nhat-quan-ly-hanh-chinh-50029533.html |url-status=dead |archive-url=https://web.archive.org/web/20260728201509/https://thanhuyhanoi.vn/tin-tuc/xa-quoc-oai/xa-quoc-oai-trien-khai-phuong-an-doi-ten-thon-chuyen-doi-to-dan-pho-bao-ton-ban-sac-thong-nhat-quan-ly-hanh-chinh-50029533.html |archive-date=2026-07-28 |access-date=2026-07-28|website=Trang Thông tin điện tử Đảng bộ thành phố Hà Nội}}</ref><ref>{{Chú thích web |last=Báo và Phát thanh Truyền hình Hà Nội |date=2025-07-25 |title=Xã Quốc Oai chuyển đổi thôn, tổ dân phố trùng tên sau sắp xếp |url=https://hanoionline.vn/xa-quoc-oai-chuyen-doi-thon-to-dan-pho-trung-ten-sau-sap-xep-348921.htm |url-status=dead |archive-url=https://web.archive.org/web/20260728201509/https://hanoionline.vn/xa-quoc-oai-chuyen-doi-thon-to-dan-pho-trung-ten-sau-sap-xep-348921.htm |archive-date=2026-07-28 |access-date=2026-07-28 |website=}}</ref>
+
+Ngày 24 tháng 12 năm 2025, xác định một phần của xã Quốc Oai là [[Đô thị Việt Nam|đô thị loại III]].<ref>Chuyển tiếp từ thị trấn Quốc Oai thuộc huyện Quốc Oai.</ref><ref>{{Chú thích web |title=Nghị quyết số 111/2025/UBTVQH15 ngày 24 tháng 12 năm 2025 của Ủy ban Thường vụ Quốc hội về phân loại đô thị |url=https://cdn.nhandan.vn/files/f4a4abf7f9a0ba4a91744616546d850872b76917f90d5a74cc9eebef1369fb6f/111.pdf |url-status=dead |archive-url=https://web.archive.org/web/20260430074852/https://cdn.nhandan.vn/files/f4a4abf7f9a0ba4a91744616546d850872b76917f90d5a74cc9eebef1369fb6f/111.pdf |archive-date=2026-04-30 |access-date=2026-07-12 |website=Báo Nhân dân }}</ref>
+
+Ngày 18 tháng 6 năm 2026, thành lập 3 thôn mới: Phượng Cách 3, Quảng Yên và Thạch Thán 2.<ref>1. Hình thành thôn Phượng Cách 3 trên cơ sở sắp xếp thôn Phượng Cách 3 và thôn Phượng Cách 4; 2. Hình thành thôn Quảng Yên trên cơ sở sắp xếp thôn Ba Nhà và thôn Quảng Yên; 3. Hình thành thôn Thạch Thán 2 trên cơ sở sắp xếp thôn Thạch Thán 2 và thôn Thạch Thán 3; 4. Giữ nguyên 16 thôn: Phúc Đức, Thụy Khuê, Đa Phúc, Sài Khê, Khánh Tân, Năm Trại, Phượng Cách 1, Phượng Cách 2, Sơn Trung, Phủ Quốc, Đình Tổ, Hoa Vôi, Ngô Sài, Du Nghệ, Thạch Thán 1 và Thạch Thán 4.</ref><ref name=":1">{{Chú thích web |last=Nguyễn Khải |date=2026-06-06 |title=Xã Quốc Oai triển khai kế hoạch lấy ý kiến cử tri về đề án sắp xếp, sáp nhập, đổi tên thôn trên địa bàn |url=https://quocoai.hanoi.gov.vn/dang-uy-hdnd-ubnd-ub-mttq/xa-quoc-oai-trien-khai-ke-hoach-lay-y-kien-cu-tri-ve-de-an-sap-xep-sap-nhap-doi-ten-thon-tren-dia-ban-2770260606095942765.htm |url-status=dead |archive-url=https://web.archive.org/web/20260728201509/https://quocoai.hanoi.gov.vn/dang-uy-hdnd-ubnd-ub-mttq/xa-quoc-oai-trien-khai-ke-hoach-lay-y-kien-cu-tri-ve-de-an-sap-xep-sap-nhap-doi-ten-thon-tren-dia-ban-2770260606095942765.htm |archive-date=2026-07-28 |access-date=2026-07-28 |website=Trang Thông tin điện tử xã Quốc Oai – thành phố Hà Nội}}</ref><ref name=":2">{{Chú thích web |last=Lê Tuấn Đạt |date=2026-06-18 |title=Kỳ họp thứ Ba Hội đồng nhân dân xã Quốc Oai thông qua nhiều nghị quyết quan trọng vì sự phát triển địa phương |url=https://thanhuyhanoi.vn/tin-tuc/xa-quoc-oai/ky-hop-thu-ba-hdnd-xa-quoc-oai-thong-qua-nhieu-nghi-quyet-quan-trong-vi-su-phat-trien-dia-phuong-50046724.html |url-status=dead |archive-url=https://web.archive.org/web/20260728201509/https://thanhuyhanoi.vn/tin-tuc/xa-quoc-oai/ky-hop-thu-ba-hdnd-xa-quoc-oai-thong-qua-nhieu-nghi-quyet-quan-trong-vi-su-phat-trien-dia-phuong-50046724.html |archive-date=2026-07-28 |access-date=2026-07-28 |website=Trang Thông tin điện tử Đảng bộ thành phố Hà Nội}}</ref><ref name=":0">{{Chú thích web |last= |date= |title=Thông báo số 925/TB-UBND ngày 30 tháng 6 năm 2026 của Ủy ban nhân dân xã Quốc Oai về việc sắp xếp, tổ chức lại thôn trên địa bàn xã Quốc Oai |url=https://web.facebook.com/story.php?story_fbid=122178584594909894&id=61577296829929&rdid=vYmvLwvprT5Rz7Is# |url-status=dead |archive-url=https://web.archive.org/web/20260728201509/https://web.facebook.com/story.php?story_fbid=122178584594909894&id=61577296829929&rdid=vYmvLwvprT5Rz7Is# |archive-date=2026-07-28 |access-date=2026-07-28 |website=Trung Tâm Dịch Vụ Tổng Hợp Xã Quốc Oai – thành phố Hà Nội}}</ref>
+
+== Hành chính==
+Xã Quốc Oai được chia thành 19 thôn: Du Nghệ, Đa Phúc, Đình Tổ, Hoa Vôi, Khánh Tân, Năm Trại, Ngô Sài, Phúc Đức, Phủ Quốc, Phượng Cách từ 1 đến 3, Quảng Yên, Sài Khê, Sơn Trung, Thạch Thán 1, 2, 4 và Thụy Khuê.<ref name=":1" /><ref name=":2" /><ref name=":0" />
+{| class="wikitable sortable" align="center" width="100%" cellspacing="6" cellpadding="0" style="background: #f9f9f9; border: 1px #aaa solid; margin-top: 16px"
+! colspan="4" style="background: #E6E6FA; font-size: 95%;" |Danh sách các thôn thuộc xã Quốc Oai<ref name=":1" /><ref name=":2" /><ref name=":0" />
+|-
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Du Nghệ
+| -
+|-
+| align="left" |Đa Phúc
+| -
+|-
+| align="left" |Đình Tổ
+| -
+|-
+| align="left" |Hoa Vôi
+| -
+|-
+| align="left" |Khánh Tân
+| -
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Năm Trại
+| -
+|-
+| align="left" |Ngô Sài
+| -
+|-
+| align="left" |Phú Đức
+| -
+|-
+| align="left" |Phủ Quốc
+| -
+|-
+| align="left" |Phượng Cách 1
+| -
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Phượng Cách 2
+| -
+|-
+| align="left" |Phượng Cách 3
+|838
+|-
+| align="left" |Quảng Yên
+|1.412
+|-
+| align="left" |Sài Khê
+| -
+|-
+| align="left" |Sơn Trung
+| -
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Thạch Thán 1
+| -
+|-
+| align="left" |Thạch Thán 2
+|873
+|-
+| align="left" |Thạch Thán 4
+| -
+|-
+| align="left" |Thụy Khê
+| -
+|}
+|}
+
+== Kinh tế - xã hội ==
+Trên địa bàn xã có 5 trường học: trường trung học phổ thông Quốc Oai, trung học cơ sở Quốc Oai, trường trung học cơ sở Kiều Phú, trường tiểu học Quốc Oai, trường Bồi dưỡng thường xuyên của huyện Quốc Oai cũ và có 1 trung tâm y tế.
+
+Cụm công nghiệp xã Quốc Oai rộng 72 ha là một khu vực sản xuất quan trọng của khu vực huyện Quốc Oai cũ.
+== Di tích== 
+Xã Quốc Oai có đình Ngô Sài thờ tướng [[Đỗ Cảnh Thạc]] trong thời [[loạn 12 sứ quân]] (thuộc địa bàn xã Sài Sơn cũ). Ông là người chiếm đóng căn cứ [[Đỗ Động Giang]], có công trấn giữ bình yên cho khu vực này trong thời loạn lạc.
+
+== Giao thông ==
+Tỉnh lộ 81, Đường trục chính Bắc Nam, đường Phố Huyện, Đường Phủ Quốc, ĐT419, [[đại lộ Thăng Long]] là các tuyến giao thông đường bộ huyết mạch của xã.<!-- 
+Sài Sơn cũng quê hương cách mạng từ những ngày đầu 1930. Tại đây chi bộ đảng đầu tiên của tỉnh [[Sơn Tây (tỉnh Việt Nam)| Sơn Tây]] cũ được thành lập. là nơi đã nuôi giấu các đồng chí cán bộ cao cấp của Đảng. Năm 1941, nơi đây đã treo lá cờ Đảng trên Núi Thày. Đặc biệt, Sài Sơn đã vinh dự 3 lần được đón Bác Hồ về làm việc.
+
+== Vị trí địa lí & điều kiện tự nhiên<ref>{{Chú thích web| url = https://quocoai.hanoi.gov.vn/43/-/news/qJBPwvS8SSS4/1/608273.html| tựa đề = Đơn vị hành chính xã Sài Sơn| access-date = 2021-03-22| archive-date = 2021-07-04| archive-url = https://web.archive.org/web/20210704053409/http://quocoai.hanoi.gov.vn/43/-/news/qJBPwvS8SSS4/1/608273.html| url-status = dead}}</ref>== 
+Xã Sài Sơn nằm ở phía Bắc huyện [[Quốc Oai (huyện)| Quốc Oai]] cách trung tâm Hà Nội 25 Km về phía Đông.
+
+ - Tiếp giáp:
+
+* Phía đông giáp xã Phượng Sơn.
+* Phía tây giáp xã Quang Trung huyện [[Thạch Thất (huyện)| Thạch Thất]].
+* Phía nam giáp Thị Trấn [[Quốc Oai (xã)| Quốc Oai]].
+* Phía bắc giáp với xã Liên Hiệp huyện [[Phúc Thọ (huyện)| Phúc Thọ]].
+
+- Tổng diện tích tự nhiên: 1.007,08 ha.
+
+- Địa hình bằng phẳng, được chia thành 02 vùng gồm: Vùng Làng và vùng bãi ngăn cách bởi tuyến đê 46. Xã có sông Đáy chảy qua cung cấp nước tưới cho hơn 200ha lúa, màu ở khu vực bãi, có Núi Thầy vừa là danh lam thắng cảnh đẹp vừa là nơi có nhiều di tích lịch sử cấp Quốc gia.
+
+- Số hộ: 6,140  hộ. Nhân khẩu: 21.219 người.
+
+- Các thôn trong xã:
+
+* Thôn Đa Phúc 
+* Thôn Khánh Tân
+* Thôn Năm Trại
+* Thôn Phúc Đức
+* Thôn Sài Khê
+* Thôn Thuỵ Khê
+Sài Sơn (柴山) nằm trong vùng tiêp giáp giữa đồng bằng Bắc-bộ với vùng núi phía tây Bắc-bộ Việt-nam, đựơc bao thêm về phía đông-nam bởi dòng sông Đáy. Thắng cảnh tại đây được tạo nên bởi hệ thống dãy núi đá vôi trùng điệp trải dài trên rìa tây-nam [[sông Đáy]] từ núi Sài, Long Đẩu, Núi Ỏn, Hoa Phát, Bồ Nông, Hương Sơn, Phượng Hoàng kéo tới núi Trầm, xuyên sang Hương Tích, Bút Sơn, tới cả Ninh Bình, Non Nước, Bích Động, Bái Đính, cố đô [[Hoa Lư (thành phố)| Hoa Lư]] rồi ra phía nam cửa Đáy, xuống Biển-đông. Qua nhiều năm tháng, mưa nắng dãi dầu, thiên nhiên biến cải để thành nhiều đỉnh núi nhấp nhô muôn hình, vạn trạng với nhiều hang động bí ẩn, huyền ảo và nhiều bãi bằng, đứt gãy... to nhỏ khác nhau. Các núi đá vôi này còn là nguồn nguyên liệu cho công nghiệp xi-măng, xây dựng... tại địa phương.
+
+Nổi bật trong các dãy núi còn sót lại tại địa phương là ngọn núi Sài và còn có tên gọi khác là núi Thầy hay núi Phật Tích. Núi cao 104m hình con rồng uốn lượn nằm dọc ven tây tỉnh lộ 81 (cũ) cắt qua thôn Đa Phúc từ Nam tới Bắc. Đầu Bắc núi Sài ngoặt về phía Đông chạm làng Thuỵ Khuê. Đuôi rồng thu nhỏ phía Nam cũng vổng lên cao giống như đầu rông phía Bắc ôm gọn chùa "Long" và cũng có tên là "Long Đẩu". Kề sát phía đông đường 81 là núi và chùa Hoa Phát toạ lạc đầu làng Sài-khê éo dài về phía núi "Phượng-hoàng" chếch theo hướng đông, đông-nam và bị chặn lại bởi dòng sông Đáy. Ban đầu hệ thống các núi Sài, núi Long Đẩu, núi Ỏn, Hoa Phát, Mỏm-vọ, Cánh-gà, Hương-sơn, Con-cóc, Quán-sáo, Phượng-hoàng, núi Chùa, Thìn-sơn, Phượng-hoàng, Bồ-nông... quây quần bên nhau tạo thành kỳ quan thiên nhiên. Đến nay nhiều ngọn núi đã bị khai thác, chỉ còn núi Sài, Long-đẩu, Hoa-phát, Phượng-hoàng và một phần núi Ỏn.<ref>{{Chú thích web| url = https://nguoihanoi.vn/cum-nui-sot-thap-luc-ky-son-67914.html| tiêu đề = Cụm núi sót “Thập lục Kỳ Sơn”| tác giả = Phương Anh| ngày = 01/03/2023| website = nguoihanoi.vn| url-status = live}}</ref>
+
+{{Notelist}}
+
+=== Thôn Đa Phúc=== 
+Thôn Đa Phúc là địa phương có lịch sử lâu đời tại xã Sài Sơn. Địa giới gồm các xóm: Tân Hòa, Minh Trung, Đồng Mạc, xóm Rào, Phú Trang, Thượng, Minh Đức, xóm Tây, Tân Hương... Tại thôn còn nhiều di tích lưu lại có giá trị văn hóa và truyền thống cao, tiêu biểu là [[Di tích quốc gia đặc biệt (Việt Nam)| Di tích quốc gia đặc biệt]] [[Chùa Thầy]] <ref>{{Chú thích web| url = http://quocoai.hanoi.gov.vn/documents/2610530/11690697/192819.pdf?version = 1.0| tựa đề = Lễ đón nhận bằng xếp hạng di tích quốc gia đặc biệt chùa Thầy và khu vực núi đá Sài Sơn, Hoàng Xã, và Khai hội chùa Thầy năm 2015.| url-status = dead| ngày truy cập = 2021-06-23| archive-date = 2021-06-24| archive-url = https://web.archive.org/web/20210624203452/http://quocoai.hanoi.gov.vn/documents/2610530/11690697/192819.pdf?version = 1.0}}</ref>, quán Tam Xã, Đình thôn Đa...
+
+Đây là nơi chi bộ đảng được thành lập đầu tiên của tỉnh [[Sơn Tây (tỉnh Việt Nam)| Sơn Tây]].<ref>{{Chú thích web| url = https://nhipsonghanoi.hanoimoi.com.vn/tin-tuc/ngoai-thanh/822179/doi-thay-o-vung-que-truyen-thong-cach-mang-sai-son| tựa đề = Đổi thay ở vùng quê truyền thống cách mạng Sài Sơn}}</ref> Tháng 8-1936, tại xóm Thượng, thôn Đa Phúc, 3 đồng chí: Nguyễn Đình Thỏa, Phan Trọng Tuệ, Đào Văn Tiễu đã thành lập Tổ Cộng sản Đa Phúc. Mùa thu năm 1937, Tổ Cộng sản Đa Phúc được chuyển thành Chi bộ dự bị do đồng chí Phan Trọng Tuệ làm Bí thư. Đầu năm 1938, đồng chí Trần Quý Kiên, Thường vụ Xứ ủy, Bí thư Thành ủy Hà Nội đã trực tiếp về Đa Phúc công nhận Chi bộ dự bị Đa Phúc thành chi bộ chính thức của Đảng, là chi bộ đầu tiên của [[Sơn Tây (tỉnh Việt Nam)| tỉnh Sơn Tây]] khi đó.
+
+Thôn Đa Phúc cũng là địa phương có truyền thống hiếu học, nơi sản sinh ra nhiều tài năng lớn như: Hoàng Giáp Tiến sĩ Phan Hoan, [[Phan Trọng Tuệ]], Nhà giáo Ưu tú [[Phan Bá Ất]], [[Phan Huy Ích]], [[Phan Huy Chú]], [[Tiến sĩ khoa học| Tiến sĩ Khoa học]] [[Phan Trung Điền]]...
+
+=== Thôn Phúc Đức===
+
+Phúc Đức là một thôn thuộc xã Sài Sơn. Thôn cách chân núi Thầy khoảng 1.5&nbsp;km về phía Bắc. Thôn được lập ra từ việc thay đổi bản đồ địa chính đất của xã Dị Nậu và thôn Thụy Khuê. Gồm một cộng đồng cư trú khoảng hơn hai mươi dòng họ, trong đó dòng họ Tạ chiếm đa số. Trong thôn có chùa mang tên thôn thuộc quần thể danh lam thắng cảnh chùa Thầy. Thành phần tôn giáo gồm có ba tôn giáo chính là Phật giáo, Cao Đài Giáo và Thiên chúa giáo. Trong thôn được chia thành 2 khu vực dân cư. Khu vực bên trong đê thì gọi là "làng". Khu vực phía ngoài đê cạnh [[sông Đáy]] gọi là "trại".
+
+== Thơ ca== 
+Là địa phương có lịch sử, văn hóa lâu đời, từ xưa Sài Sơn đi vào trong thơ ca với những hình ảnh vùng quê thanh bình, yên ả của xứ Đoài:<blockquote>
+: ''Bao giờ trở lại đồng Bương, Cấn''
+: ''Về núi Sài Sơn ngó lúa vàng''
+: ''Sông Đáy chậm nguồn qua phủ Quốc''
+: ''Sáo diều khuya khoắt thổi đêm trăng !''
+: ([[Đôi mắt người Sơn Tây]] - [[Quang Dũng (nhà thơ)| Quang Dũng]]).
+</blockquote><blockquote>
+: ''Vẫn sáng vầng trăng ru tiếng sáo'' 
+:''Diều khuya trầm bổng giọng quê hương'' 
+:''Đất đá ong trong lòng giếng mát'' 
+:''Ôi Sơn Tây, Sài Sơn yêu thương!'' 
+:''Sài Sơn kháng chiến mùa đông ấy'' 
+:''Đón Bác dừng chân, cuộc đánh dài'' 
+:''Mở những trang sau rừng Việt Bắc'' 
+:''- Buổi đầu kháng chiến Bác qua đây''
+: (Nhớ một bóng núi - [[Quang Dũng (nhà thơ)| Quang Dũng]]).
+</blockquote><blockquote>''Mây đá ngất trời xanh một dải,''
+
+''Đứng non tiên ngoảnh lại cõi hồng trần.''
+
+''Kìa thành quách, nọ nhân dân,''
+
+''Bóng xe ngựa mấy lần coi thấp thoáng.''
+
+''Nhân hướng mộng trung tranh tướng tướng,''
+
+''Ngã tòng bôi lý trịch kiền khôn.''
+
+''Bóng trăng thanh vừa hé sườn non,''
+
+''Chừng Nhược thủy, Bồng sơn đâu cũng thế.''
+
+''Ngồi tính đốt ba mươi hai tuổi lẻ,''
+
+''Thấy nghiêng trời, lệch bể đã bao phen.''
+
+''Bước chân ra còn mến chốn lâm tuyền,''
+
+''Khách du lãm có duyên cùng cảnh đẹp.''
+
+''Ba mươi sáu động trời còn chưa khép,''
+
+''Vẫy cung nga bắc dịp để ta lên.''
+
+''Nào ai là bạn Trích Tiên.''
+
+(Chơi chùa Thầy - Nguyễn Thượng Hiền).</blockquote><blockquote>''Khen thay con tạo khéo khôn phàm,''
+
+''Một đố giương ra biết mấy ngàm.''
+
+''Triền đá cỏ leo sờ rậm rạp,''
+
+''Lạch khe nước rỉ mó lam nham.''
+
+''Một sư đầu trọc ngồi khua mõ,''
+
+''Hai tiểu lưng tròn đứng giữ am.''
+
+''Đến nơi mới biết rằng Thánh Hoá,''
+
+''Chồn chân mỏi gối hãy còn ham.''
+
+(Chùa Sài Sơn, Hồ Xuân Hương, bản khắc 1922)</blockquote>
+
+== Đặc sản địa phương==
+
+=== Chè lam <ref>{{Chú thích web| url = https://haiquanonline.com.vn/che-lam-ha-noi-109486.html| tựa đề = Chè lam HN| url-status = live}}</ref>=== 
+Điểm khác biệt của chè lam Sài Sơn so với những vùng khác là thường có thêm vài hạt lạc vàng ươm, thơm ngậy trên thanh bánh. Cầm thanh chè lam có vị thơm bùi của lạc, vị ngọt thanh của đường, vị ấm của gừng trên tay và nhâm nhi thưởng thức cùng chén trà xanh, du khách phương xa về trảy hội chùa Thầy khó có thể quên thứ đặc sản dân dã được làm từ tấm lòng hiếu khách và sự chân tình của người Sài Sơn. Đó cũng là một trong những sản vật không thể thiếu của người dân Sài Sơn dâng lên lễ thánh Từ Đạo Hạnh trong mỗi dịp lễ hội chùa Thầy hằng năm.
+
+=== Dơi ngựa <ref>{{Chú thích web| url = https://giadinh.net.vn/an/nhung-san-vat-tien-vua-binh-dan-nhung-ngon-nuc-tieng-cua-nguoi-viet-xua-20190804084914041.htm/| tựa đề = Những sản vật tiến Vua bình dân nhưng ngon nức tiếng của người Việt xưa| url-status = live}}</ref>===
+
+Theo " [[Đại Nam nhất thống chí]]" và " Sơn Tây tỉnh địa chí". Xứ Đoài có bốn thứ quý, tục gọi là " Sơn Tây tứ dị":<blockquote>''Sài sơn chi biển bức,''
+
+''Cấn xá chi lý ngư,''
+
+''Thượng Hiệp chi kỳ bành,''
+
+''Sen chiểu chi muống linh.''
+
+Sài sơn - làng Thầy có con dơi ngựa, Cấn Xá (ven sông Tích) có cá chép,  Thượng Hiệp sát huyện Phúc Thọ có cua đồng, Sen Chiểu (thị xã Sơn Tây) có rau muống.</blockquote>Dơi ngựa Sài Sơn: Loại dơi này có hai loại là dơi trắng và dơi vàng. So với dơi trắng thì dơi ngựa có lông màu vàng quý hơn hẳn, nó thường được gọi là hoáng dơi và là loại dơi cực kì quý được dùng để tiến vua. Dơi ngựa sống ở trong hang, để bắt được chúng rất kỳ công, bù lại thịt dơi béo núc, mập mạp.
+
+== Di tích, Danh thắng==
+
+=== Quần thể di tích Chùa Thầy=== 
+Di tích, thắng cảnh nổi tiếng nhất tại xã Sài Sơn có thể kể đến là [[Di tích quốc gia đặc biệt (Việt Nam)| Di tích quốc gia đặc biệt]] [[Chùa Thầy]] - địa điểm hàng năm thu hút lượng khách du lịch lớn đến tham quan lễ Phật. [[Chùa Thầy]] cũng là nơi gắn liền với tên tuổi của thiền sư [[Từ Đạo Hạnh]]. Ông đã tu hành ở đây rồi hóa thánh tại một hang đá có tên gọi là hang Thánh Hóa bên cạnh chùa Thượng trên núi Sài Sơn. Vì vậy hang này được gọi là hang Thánh Hóa. Tương truyền, sau khi đã hóa, ông đầu thai vào làm con của Sùng Hiền Hầu và trở thành nhà vua Lý Thần Tông. Theo dân gian, ông cũng chính là ông tổ của môn múa rối nước, thường được biểu diễn khi lễ hội vào ngày 07 tháng 3 âm lịch hàng năm.
+
+=== Nhà lưu niệm Chủ tịch Hồ Chí Minh=== 
+Nhà lưu niệm Chủ tịch Hồ Chí Minh dưới chân núi Thầy, cạnh chùa Một Mái (xã Sài Sơn, huyện Quốc Oai, Hà Nội), là địa điểm tham quan hàng đầu tại Di tích quốc gia đặc biệt chùa Thầy và khu vực núi đá Sài Sơn, Hoàng Xá, Phượng Cách. Nơi đây, trong những tháng năm chỉ đạo cuộc kháng chiến trường kỳ chống thực dân Pháp xâm lược, Chủ tịch Hồ Chí Minh đã lưu lại từ ngày 3-2 đến ngày 3-3-1947.
+
+Sách "Lịch sử - Văn hóa Quốc Oai" (NXB Lao Động, 2010), trang 523, viết: "Hồ Chủ tịch về làm việc tại núi Thầy (Sài Sơn) đúng 1 tháng, từ 3-2 đến 3-3-1947. Trong thời gian này, Hồ Chủ tịch cùng Trung ương Đảng và Chính phủ giải quyết nhiều việc trọng đại".
+
+Vào tối 2-3-1947, Bác rời làng Thầy, xuống Phủ đường Quốc Oai, chủ trì phiên họp cuối cùng của Hội đồng Chính phủ tại đây. Hội nghị bàn nhiều việc, trong đó có việc phải cấp tốc chuyển cơ quan lên chiến khu Việt Bắc vì thực dân Pháp đã mở rộng tiến đánh ra vùng ngoại vi Hà Nội. Họp xong, dù đã 4h sáng, Bác còn ghé thăm Ủy ban kháng chiến Hành chính Khu II đóng ở chùa Một Mái, dưới chân núi Hoàng Xá (nay thuộc thị trấn Quốc Oai). Người đã nghỉ lại đó cả ngày 3-3-1947. Đến tối, đồng chí Trần Đăng Ninh và một số cán bộ đến đón, đưa Bác lên Trung Hà, qua phà Phú Thọ, nghỉ lại ở đồn điền Cổ Tiết, rồi từ đó di chuyển dần lên Việt Bắc. Tại chiến khu Việt Bắc, Bác đã cùng Trung ương Đảng tiếp tục lãnh đạo cuộc kháng chiến trường kỳ chống thực dân Pháp cho đến ngày thắng lợi hoàn toàn.
+
+=== Quán Tam Xã=== 
+Quán Tam Xã là tên gọi riêng của đền thờ Đỗ Tướng Công ([[Đỗ Cảnh Thạc]], vị tướng trấn giữ và cai trị vùng [[Đỗ Động Giang]] - đạo Quốc Oai thời [[12 sứ quân]]), ở xã Sài Sơn, huyện Quốc Oai, Hà Nội. Sở dĩ đền có tên như vậy là do 3 thôn Đa Phúc, Sài Khê và Thụy Khuê, trước kia là 3 xã Đa Phúc, Sài Khê và Thụy Khuê (thuộc huyện An Sơn) đều thờ Tướng quân Đỗ Cảnh Thạc làm Thành hoàng.
+
+Theo Thần tích Ngô Quyền, Thần phả Đỗ Tướng Công và lưu truyền trong dân gian thì đền thờ tại xã Sài Sơn được lập ngay trên mộ phần của Tướng quân Đỗ Cảnh Thạc, ngay khi Ngài mới hóa vào năm Mậu Thìn (968). Sau đó đúng một giáp, tức năm 980, Lê Đại Hành vừa lên ngôi Vua đã cấp tiền, vàng cho nhân dân địa phương xây dựng đền thờ Đỗ Tướng Công nguy nga lộng lẫy để cho xứng đáng với công lao giúp nước, dạy dân của Ngài. Ngôi đền đã được UBND tỉnh Hà Tây cấp bằng chứng nhận Di tích lịch sử - văn hóa năm 2002.
+
+Quán Tam Xã tọa lạc trên một khu đất bằng phẳng, thoáng đãng, rộng khoảng 900m2 thuộc thôn Sài Khê, xã Sài Sơn, huyện Quốc Oai, Hà Nội. Từ trung tâm thành phố đến di tích khoảng trên dưới 20&nbsp;km theo 2 lối đi: một là theo lối Hà Đông, hoặc theo Đại lộ Thăng Long đều rất thuận tiện. Di tích nằm sát đường liên huyện, gần với quần thể di tích – danh lam Chùa Thầy của xã Sài Sơn.
+
+Quán Tam Xã còn có tên đền Tam Xã, đền Trình hay đền thờ [[Đỗ Cảnh Thạc| Đỗ tướng công]] nằm ở trung tâm xã Sài Sơn. Xưa dân 3 làng Sài Khê, Thụy Khê, Đa Phúc là 3 xã cùng chung một đền thờ. Nay tam xã hợp nhất vào Sài Sơn nhưng mỗi làng đều xây dựng một ngôi đình để thờ vọng Đỗ tướng công. Vị trí xã Sài Sơn tương truyền là nơi sứ quân [[Đỗ Cảnh Thạc]] hóa.
+
+=== Hệ thống núi đá vôi<ref>{{Chú thích web| url = https://quocoai.hanoi.gov.vn/di-tich-lich-su-van-hoa/-/news/SmTYvCr6jkQ7/0/362123.html| tựa đề = Giá trị khảo cổ, cảnh quan và sinh học của khu núi đá Sài Sơn, Hoàng Xá, Phượng Cách| url-status = dead| ngày truy cập = 2021-06-23| archive-date = 2021-06-24| archive-url = https://web.archive.org/web/20210624203450/https://quocoai.hanoi.gov.vn/di-tich-lich-su-van-hoa/-/news/SmTYvCr6jkQ7/0/362123.html}}</ref>=== 
+Chùa Thầy và khu vực núi đá Sài Sơn, Hoàng Xá, Phượng Cách đã được khoa học xác định là một môi trường có giá trị khảo cổ. Năm 1968, Viện Khảo cổ học Việt Nam đã khai quật khu gò cao trước cửa động Hoàng Xá, sau đó công bố "Di chỉ tại xã Hoàng Ngô, đã thu được 185 di vật đồ đá, đồ đồng, thuộc thời đại kim khí, loại hình văn hoá niên đại Gò Mun". Năm 1994 Khoa Sử trường Đại Học Tổng Hợp Hà Nội phối hợp với Sở Văn hoá Thông tin Hà Tây (cũ) tiến hành khai quật di chỉ khảo cổ Phượng Hoàng với diện tích 43,6m2. Hiện vật thu được gồm xương động vật các công cụ bằng đá, vòng trang sức, các chạc gốm và mảnh gốm vụn và một số đoạn dây đồng... Các hiện vật cho xác định di chỉ có thời đại đồng thau Phùng Nguyên.
+
+Khu núi đá Sài Sơn, Hoàng Xá, Phượng Cách hiện còn 11 ngọn núi sót nổi lên rải rác trong một vùng rộng thuộc địa bàn 4 xã Sài Sơn, Phượng Cách, Yên Sơn và thị trấn Quốc Oai: gồm các ngọn núi: Sài Sơn, Long Đẩu, Hoa Sơn, Hương Sơn (Hổ Sơn) Phượng Hoàng thuộc xã Sài Sơn. Xã Phượng Cách có các ngọn Kỳ Lân, Sơn Tượng và một phần núi Phượng Hoàng chung với xã Sài Sơn. Xã Yên Sơn có các ngọn Âm Giang, Ông Minh và Đồng Hè (Mỏm Vọ) và ngọn Hoàng Xá thuộc thị trấn Quốc Oai.
+
+Nổi tiếng nhất trong hệ thống núi là ngọn núi Sài Sơn, ngọn núi được gọi là núi Thầy, có hình vòng cung cao khoảng 100m từ Sài Sơn kéo xuống tận Hoàng Xá với bán kính trên 3&nbsp;km. Trên núi có nhiều hang động nổi tiếng như hang Cắc cớ (hang Thần) hang Thánh Hoá, hang Bò, hang Gió; lại có Chợ Trời trên đỉnh, quả núi như một vườn thực vật lớn với nhiều loại cây cổ thụ có tuổi đến gần ngàn năm, một vườn thuốc quý mà tự nhiên ban tặng.
+
+Ngọn núi đứng thứ hai trong hệ thống là núi Hoàng Xá (còn gọi là tượng Linh hay núi Ba Ngai) nằm ở địa phận thôn Hoàng Xá của thị trấn Quốc Oai. Núi Hoàng Xá có động Xuyên Sơn hai cửa. Cửa chính ở hướng Đông Nam, đi ra chùa Một Mái (Hoàng Kim tự), cửa sau đi ra hướng Tây Bắc. Vòm động rộng, cao hơn 50m, có 3 lỗ thông thiên. Trong động có nhiều nhũ đá rủ với nhiều hình tượng đẹp.
+
+== Hạ tầng giao thông== 
+Tuyến đường giao thông quan trọng tại xã gồm: ĐT421B, DT420
+
+Ngoài ra tuyến đường CT08 (Đại lộ Thăng Long hay Đường cao tốc Láng – Hòa Lạc) tiếp giáp với xã ở phía Nam và là tuyến cao tốc nối trung tâm Hà Nội với quốc lộ 21A cũ, nay là điểm đầu của đường Hồ Chí Minh. Chiều dài toàn tuyến 29&nbsp;km, hiện là một phần của đường xuyên Á AH8990.
+
+ -->
+
+== Danh nhân ==
+* Thiền sư '''[[Từ Đạo Hạnh]]''' (1072 – 1116) là một [[thiền sư]] người Việt Nam thời [[nhà Lý]].
+* '''[[Phan Huy Ích]]''' (1751 – 1822) là quan đại thần trải ba triều đại [[Nhà Lê trung hưng|Lê trung hưng]], [[Nhà Tây Sơn|Tây Sơn]] và [[Nhà Nguyễn|Nguyễn]].
+* '''[[Phan Huy Chú]]''' (1782 – 1840) là một chính trị gia, [[nhà thơ]], nhà thư tịch lớn, và nhà bác học thời [[nhà Nguyễn]] trong [[lịch sử Việt Nam]].
+* [[Thiếu tướng]] '''[[Phan Trọng Tuệ]]''' (1917 – 1991) là một [[Chính khách|chính trị gia]], [[tướng lĩnh Công an nhân dân Việt Nam]], và là [[Sĩ quan chỉ huy|Tư lệnh]] đầu tiên của [[Bộ đội Biên phòng Việt Nam]]. 
+* Tiến sĩ '''[[Phan Trung Điền]]''' (1939 – 2018) là một [[Tiến sĩ Khoa học]] người Việt Nam.
+* Nhà giáo '''[[Phan Bá Ất]]''' (sinh năm 1945) là một [[Nhà giáo Ưu tú|nhà giáo ưu tú]] người Việt Nam.
+* '''[[Ngô Ngọc Du (nhà thơ)|Ngô Ngọc Du]]''' (? – ?) là nhà thơ thời Tây Sơn.
+
+==Hình ảnh==
+[[File:Chùa Thầy Quốc Oai Hà Nội.jpg|thumb|Chùa Thầy Quốc Oai Hà Nội]]
+
+== Chú thích== 
+{{tham khảo| 30em}}
+
+== Tham khảo==
+
+{{sơ khai Hà Nội}}
+{{Đơn vị hành chính thuộc thành phố Hà Nội}}

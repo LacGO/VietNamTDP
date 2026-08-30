@@ -1,0 +1,108 @@
+{
+  "ward_code": "09772",
+  "ward_name": "Hát Môn",
+  "province_code": "01",
+  "resolution": "",
+  "arrangement": "2026_07",
+  "effective_date": "2026-07-01",
+  "verified": "unverified",
+  "extraction": {
+    "source": "vi.wikipedia.org",
+    "title": "(cache)",
+    "mode": "table"
+  },
+  "sources": [
+    {
+      "key": "wiki-09772-1",
+      "title": "Ngày 25/6/2026, Hội đồng nhân dân xã Hát Môn đã ban hành Nghị quyết số 20/NQ-HĐND về việc sắp xếp thôn trên địa bàn xã",
+      "url": "https://web.facebook.com/story.php?story_fbid=122168322722971054&id=61579131628199&rdid=CGnCXn0CPGs3wVCF#",
+      "date": "2026-07-01",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-09772-2",
+      "title": "Danh sách chính thức Người ứng cử đại biểu Hội đồng nhân dân xã Hát Môn nhiệm kỳ 2026 – 2031",
+      "url": "https://hatmon.hanoi.gov.vn/bau-cu-hdnd-cac-cap/danh-sach-chinh-thuc-nguoi-ung-cu-dai-bieu-hoi-dong-nhan-dan-xa-hat-mon-nhiem-ky-2026-2031-2705260226135335582.htm?gidzl=iIfMJ9mGprArDL9AbWlEKhumMqYB2Cu3ys1JJObSoGQdRbHDYbQT1w5l016ANPe9g305GcGR2wmlcH7BK0",
+      "date": "2026-02-26",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-09772-3",
+      "title": "Kỳ họp thứ 15 Hội đồng nhân dân xã Hát Môn khoá XXIII, nhiệm kỳ 2021 – 2026",
+      "url": "https://hatmon.hanoi.gov.vn/hoi-dong-nhan-dan/ky-hop-thu-15-hdnd-xa-hat-mon-khoa-xxiii-nhiem-ky-2021-2026-2705250721093045683.htm?gidzl=W16OK70PMM643fnMUW9OOOyBbL9d0LWsmbkTLsLLNpEMLPfNPbyBCf1KpWjcL0mycGlBM6J6EVG0THXTOm",
+      "date": "2025-07-21",
+      "type": "wikipedia-ref"
+    }
+  ],
+  "note": "Trích tự động từ Wikipedia tiếng Việt (mode=table). Cần đối chiếu nghị quyết HĐND phường/xã.",
+  "tdp": [
+    {
+      "name": "Điền Hòa Cát",
+      "type": "thôn"
+    },
+    {
+      "name": "Đông Thành",
+      "type": "thôn"
+    },
+    {
+      "name": "Hạ Hiệp",
+      "type": "thôn"
+    },
+    {
+      "name": "Hiệp Lộc",
+      "type": "thôn"
+    },
+    {
+      "name": "Hiệp Thuận",
+      "type": "thôn"
+    },
+    {
+      "name": "Hương Hạ",
+      "type": "thôn"
+    },
+    {
+      "name": "Liên Hiệp",
+      "type": "thôn"
+    },
+    {
+      "name": "Mỹ Giang",
+      "type": "thôn"
+    },
+    {
+      "name": "Ngọc Tảo",
+      "type": "thôn"
+    },
+    {
+      "name": "Quán Hạ",
+      "type": "thôn"
+    },
+    {
+      "name": "Táo Ngọai",
+      "type": "thôn"
+    },
+    {
+      "name": "Thanh Đa",
+      "type": "thôn"
+    },
+    {
+      "name": "Thanh Hồng",
+      "type": "thôn"
+    },
+    {
+      "name": "Thuấn Nhuế",
+      "type": "thôn"
+    },
+    {
+      "name": "Thượng Hiệp",
+      "type": "thôn"
+    },
+    {
+      "name": "Tiền Giang",
+      "type": "thôn"
+    },
+    {
+      "name": "Yên Lâm",
+      "type": "thôn"
+    }
+  ]
+}

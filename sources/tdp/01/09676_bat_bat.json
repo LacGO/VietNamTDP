@@ -1,0 +1,84 @@
+{
+  "ward_code": "09676",
+  "ward_name": "Bất Bạt",
+  "province_code": "01",
+  "resolution": "",
+  "arrangement": "2026_07",
+  "effective_date": "2026-07-01",
+  "verified": "unverified",
+  "extraction": {
+    "source": "vi.wikipedia.org",
+    "title": "(cache)",
+    "mode": "table"
+  },
+  "sources": [
+    {
+      "key": "wiki-09676-1",
+      "title": "Hội đồng nhân dân xã Bất Bạt khai mạc kỳ họp thứ 3, xem xét quyết định nhiều nội dung quan trọng về phát triển địa phương",
+      "url": "https://batbat.hanoi.gov.vn/hoat-dong-cua-hdnd-xa-bat-bat/hdnd-xa-bat-bat-khai-mac-ky-hop-thu-3-xem-xet-quyet-dinh-nhieu-noi-dung-quan-trong-ve-phat-trien-dia-phuong-2759260629084650803.htm",
+      "date": "2026-06-29",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-09676-2",
+      "title": "Ủy ban bầu cử xã Bất Bạt công bố danh sách những người trúng cử đại biểu Hội đồng nhân dân xã Bất Bạt, nhiệm kỳ 2026 – 2031",
+      "url": "https://batbat.hanoi.gov.vn/hoat-dong-cua-hdnd-xa-bat-bat/ubbc-xa-bat-bat-cong-bo-danh-sach-nhung-nguoi-trung-cu-dai-bieu-hdnd-xa-bat-bat-nhiem-ky-2026-2031-2759260320125613804.htm",
+      "date": "2026-03-18",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-09676-3",
+      "title": "Nghị quyết số 1656/NQ-UBTVQH15 ngày 16 tháng 6 năm 2025 của Ủy ban Thường vụ Quốc hội về việc sắp xếp các đơn vị hành chính cấp xã của thành phố Hà Nội năm 2025",
+      "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf",
+      "date": "2026-06-30",
+      "type": "wikipedia-ref"
+    }
+  ],
+  "note": "Trích tự động từ Wikipedia tiếng Việt (mode=table). Cần đối chiếu nghị quyết HĐND phường/xã.",
+  "tdp": [
+    {
+      "name": "Bằng Tạ",
+      "type": "thôn"
+    },
+    {
+      "name": "Cẩm An",
+      "type": "thôn"
+    },
+    {
+      "name": "Đan Thê",
+      "type": "thôn"
+    },
+    {
+      "name": "Khê Thượng",
+      "type": "thôn"
+    },
+    {
+      "name": "Liên Tòng",
+      "type": "thôn"
+    },
+    {
+      "name": "Lương Tuyền",
+      "type": "thôn"
+    },
+    {
+      "name": "Ngọc Nhị",
+      "type": "thôn"
+    },
+    {
+      "name": "Phú Thịnh",
+      "type": "thôn"
+    },
+    {
+      "name": "Thái Bạt",
+      "type": "thôn"
+    },
+    {
+      "name": "Thuần Mỹ",
+      "type": "thôn"
+    },
+    {
+      "name": "Vô Khuy",
+      "type": "thôn"
+    }
+  ]
+}

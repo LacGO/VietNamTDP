@@ -1,0 +1,1278 @@
+province_code,new_ward_code,new_ward_name,new_ward_type,relation,old_unit_type,old_unit_name,old_unit_qualifier,provision_no,source
+01,00070,Hoàn Kiếm,phường,toan_bo,phường,Hàng Bạc,,1,NQ 1656/NQ-UBTVQH15
+01,00070,Hoàn Kiếm,phường,toan_bo,phường,Hàng Bồ,,1,NQ 1656/NQ-UBTVQH15
+01,00070,Hoàn Kiếm,phường,toan_bo,phường,Hàng Buồm,,1,NQ 1656/NQ-UBTVQH15
+01,00070,Hoàn Kiếm,phường,toan_bo,phường,Hàng Đào,,1,NQ 1656/NQ-UBTVQH15
+01,00070,Hoàn Kiếm,phường,toan_bo,phường,Hàng Gai,,1,NQ 1656/NQ-UBTVQH15
+01,00070,Hoàn Kiếm,phường,toan_bo,phường,Hàng Mã,,1,NQ 1656/NQ-UBTVQH15
+01,00070,Hoàn Kiếm,phường,toan_bo,phường,Lý Thái Tổ,,1,NQ 1656/NQ-UBTVQH15
+01,00070,Hoàn Kiếm,phường,mot_phan,phường,Cửa Đông,,1,NQ 1656/NQ-UBTVQH15
+01,00070,Hoàn Kiếm,phường,mot_phan,phường,Cửa Nam,,1,NQ 1656/NQ-UBTVQH15
+01,00070,Hoàn Kiếm,phường,mot_phan,phường,Điện Biên,,1,NQ 1656/NQ-UBTVQH15
+01,00070,Hoàn Kiếm,phường,mot_phan,phường,Đồng Xuân,,1,NQ 1656/NQ-UBTVQH15
+01,00070,Hoàn Kiếm,phường,mot_phan,phường,Hàng Bông,,1,NQ 1656/NQ-UBTVQH15
+01,00070,Hoàn Kiếm,phường,mot_phan,phường,Hàng Trống,,1,NQ 1656/NQ-UBTVQH15
+01,00070,Hoàn Kiếm,phường,mot_phan,phường,Tràng Tiền,,1,NQ 1656/NQ-UBTVQH15
+01,00082,Cửa Nam,phường,toan_bo,phường,Hàng Bài,,2,NQ 1656/NQ-UBTVQH15
+01,00082,Cửa Nam,phường,toan_bo,phường,Phan Chu Trinh,,2,NQ 1656/NQ-UBTVQH15
+01,00082,Cửa Nam,phường,toan_bo,phường,Trần Hưng Đạo,,2,NQ 1656/NQ-UBTVQH15
+01,00082,Cửa Nam,phường,mot_phan,phường,Cửa Nam,,2,NQ 1656/NQ-UBTVQH15
+01,00082,Cửa Nam,phường,mot_phan,phường,Nguyễn Du,,2,NQ 1656/NQ-UBTVQH15
+01,00082,Cửa Nam,phường,mot_phan,phường,Phạm Đình Hổ,,2,NQ 1656/NQ-UBTVQH15
+01,00082,Cửa Nam,phường,phan_con_lai,phường,Hàng Bông,,2,NQ 1656/NQ-UBTVQH15
+01,00082,Cửa Nam,phường,phan_con_lai,phường,Hàng Trống,,2,NQ 1656/NQ-UBTVQH15
+01,00082,Cửa Nam,phường,phan_con_lai,phường,Tràng Tiền,,2,NQ 1656/NQ-UBTVQH15
+01,00004,Ba Đình,phường,toan_bo,phường,Quán Thánh,,3,NQ 1656/NQ-UBTVQH15
+01,00004,Ba Đình,phường,toan_bo,phường,Trúc Bạch,,3,NQ 1656/NQ-UBTVQH15
+01,00004,Ba Đình,phường,mot_phan,phường,Cửa Nam,,3,NQ 1656/NQ-UBTVQH15
+01,00004,Ba Đình,phường,mot_phan,phường,Điện Biên,,3,NQ 1656/NQ-UBTVQH15
+01,00004,Ba Đình,phường,mot_phan,phường,Đội Cấn,,3,NQ 1656/NQ-UBTVQH15
+01,00004,Ba Đình,phường,mot_phan,phường,Kim Mã,,3,NQ 1656/NQ-UBTVQH15
+01,00004,Ba Đình,phường,mot_phan,phường,Ngọc Hà,,3,NQ 1656/NQ-UBTVQH15
+01,00004,Ba Đình,phường,mot_phan_dt,phường,Thụy Khuê,,3,NQ 1656/NQ-UBTVQH15
+01,00004,Ba Đình,phường,phan_con_lai,phường,Cửa Đông,,3,NQ 1656/NQ-UBTVQH15
+01,00004,Ba Đình,phường,phan_con_lai,phường,Đồng Xuân,,3,NQ 1656/NQ-UBTVQH15
+01,00008,Ngọc Hà,phường,toan_bo,phường,Vĩnh Phúc,,4,NQ 1656/NQ-UBTVQH15
+01,00008,Ngọc Hà,phường,toan_bo,phường,Liễu Giai,,4,NQ 1656/NQ-UBTVQH15
+01,00008,Ngọc Hà,phường,mot_phan,phường,Cống Vị,,4,NQ 1656/NQ-UBTVQH15
+01,00008,Ngọc Hà,phường,mot_phan,phường,Kim Mã,,4,NQ 1656/NQ-UBTVQH15
+01,00008,Ngọc Hà,phường,mot_phan,phường,Ngọc Khánh,,4,NQ 1656/NQ-UBTVQH15
+01,00008,Ngọc Hà,phường,mot_phan,phường,Nghĩa Đô,,4,NQ 1656/NQ-UBTVQH15
+01,00008,Ngọc Hà,phường,phan_con_lai,phường,Đội Cấn,,4,NQ 1656/NQ-UBTVQH15
+01,00008,Ngọc Hà,phường,phan_con_lai,phường,Ngọc Hà,,4,NQ 1656/NQ-UBTVQH15
+01,00025,Giảng Võ,phường,toan_bo,phường,Giảng Võ,,5,NQ 1656/NQ-UBTVQH15
+01,00025,Giảng Võ,phường,mot_phan,phường,Cát Linh,,5,NQ 1656/NQ-UBTVQH15
+01,00025,Giảng Võ,phường,mot_phan,phường,Láng Hạ,,5,NQ 1656/NQ-UBTVQH15
+01,00025,Giảng Võ,phường,mot_phan,phường,Ngọc Khánh,,5,NQ 1656/NQ-UBTVQH15
+01,00025,Giảng Võ,phường,mot_phan,phường,Thành Công,,5,NQ 1656/NQ-UBTVQH15
+01,00025,Giảng Võ,phường,phan_con_lai,phường,Cống Vị,,5,NQ 1656/NQ-UBTVQH15
+01,00025,Giảng Võ,phường,phan_con_lai,phường,Kim Mã,,5,NQ 1656/NQ-UBTVQH15
+01,00256,Hai Bà Trưng,phường,toan_bo,phường,Đồng Nhân,,6,NQ 1656/NQ-UBTVQH15
+01,00256,Hai Bà Trưng,phường,toan_bo,phường,Phố Huế,,6,NQ 1656/NQ-UBTVQH15
+01,00256,Hai Bà Trưng,phường,mot_phan,phường,Bạch Đằng,,6,NQ 1656/NQ-UBTVQH15
+01,00256,Hai Bà Trưng,phường,mot_phan,phường,Lê Đại Hành,,6,NQ 1656/NQ-UBTVQH15
+01,00256,Hai Bà Trưng,phường,mot_phan,phường,Nguyễn Du,,6,NQ 1656/NQ-UBTVQH15
+01,00256,Hai Bà Trưng,phường,mot_phan,phường,Thanh Nhàn,,6,NQ 1656/NQ-UBTVQH15
+01,00256,Hai Bà Trưng,phường,phan_con_lai,phường,Phạm Đình Hổ,,6,NQ 1656/NQ-UBTVQH15
+01,00283,Vĩnh Tuy,phường,mot_phan,phường,Mai Động,,7,NQ 1656/NQ-UBTVQH15
+01,00283,Vĩnh Tuy,phường,mot_phan,phường,Thanh Lương,,7,NQ 1656/NQ-UBTVQH15
+01,00283,Vĩnh Tuy,phường,mot_phan,phường,Vĩnh Hưng,,7,NQ 1656/NQ-UBTVQH15
+01,00283,Vĩnh Tuy,phường,mot_phan,phường,Vĩnh Tuy,,7,NQ 1656/NQ-UBTVQH15
+01,00292,Bạch Mai,phường,toan_bo,phường,Bạch Mai,,8,NQ 1656/NQ-UBTVQH15
+01,00292,Bạch Mai,phường,toan_bo,phường,Bách Khoa,,8,NQ 1656/NQ-UBTVQH15
+01,00292,Bạch Mai,phường,toan_bo,phường,Quỳnh Mai,,8,NQ 1656/NQ-UBTVQH15
+01,00292,Bạch Mai,phường,mot_phan,phường,Minh Khai,quận Hai Bà Trưng,8,NQ 1656/NQ-UBTVQH15
+01,00292,Bạch Mai,phường,mot_phan,phường,Đồng Tâm,,8,NQ 1656/NQ-UBTVQH15
+01,00292,Bạch Mai,phường,mot_phan,phường,Lê Đại Hành,,8,NQ 1656/NQ-UBTVQH15
+01,00292,Bạch Mai,phường,mot_phan,phường,Phương Mai,,8,NQ 1656/NQ-UBTVQH15
+01,00292,Bạch Mai,phường,mot_phan,phường,Trương Định,,8,NQ 1656/NQ-UBTVQH15
+01,00292,Bạch Mai,phường,phan_con_lai,phường,Thanh Nhàn,,8,NQ 1656/NQ-UBTVQH15
+01,00235,Đống Đa,phường,toan_bo,phường,Thịnh Quang,,9,NQ 1656/NQ-UBTVQH15
+01,00235,Đống Đa,phường,mot_phan,phường,Quang Trung,quận Đống Đa,9,NQ 1656/NQ-UBTVQH15
+01,00235,Đống Đa,phường,mot_phan,phường,Láng Hạ,,9,NQ 1656/NQ-UBTVQH15
+01,00235,Đống Đa,phường,mot_phan,phường,Nam Đồng,,9,NQ 1656/NQ-UBTVQH15
+01,00235,Đống Đa,phường,mot_phan,phường,Ô Chợ Dừa,,9,NQ 1656/NQ-UBTVQH15
+01,00235,Đống Đa,phường,mot_phan,phường,Trung Liệt,,9,NQ 1656/NQ-UBTVQH15
+01,00229,Kim Liên,phường,toan_bo,phường,Kim Liên,,10,NQ 1656/NQ-UBTVQH15
+01,00229,Kim Liên,phường,toan_bo,phường,Khương Thượng,,10,NQ 1656/NQ-UBTVQH15
+01,00229,Kim Liên,phường,mot_phan,phường,Nam Đồng,,10,NQ 1656/NQ-UBTVQH15
+01,00229,Kim Liên,phường,mot_phan,phường,Phương Liên - Trung Tự,,10,NQ 1656/NQ-UBTVQH15
+01,00229,Kim Liên,phường,mot_phan,phường,Trung Liệt,,10,NQ 1656/NQ-UBTVQH15
+01,00229,Kim Liên,phường,phan_con_lai,phường,Phương Mai,,10,NQ 1656/NQ-UBTVQH15
+01,00229,Kim Liên,phường,phan_con_lai,phường,Quang Trung,quận Đống Đa,10,NQ 1656/NQ-UBTVQH15
+01,00226,Văn Miếu - Quốc Tử Giám,phường,toan_bo,phường,Khâm Thiên,,11,NQ 1656/NQ-UBTVQH15
+01,00226,Văn Miếu - Quốc Tử Giám,phường,toan_bo,phường,Thổ Quan,,11,NQ 1656/NQ-UBTVQH15
+01,00226,Văn Miếu - Quốc Tử Giám,phường,toan_bo,phường,Văn Chương,,11,NQ 1656/NQ-UBTVQH15
+01,00226,Văn Miếu - Quốc Tử Giám,phường,mot_phan,phường,Điện Biên,,11,NQ 1656/NQ-UBTVQH15
+01,00226,Văn Miếu - Quốc Tử Giám,phường,mot_phan,phường,Hàng Bột,,11,NQ 1656/NQ-UBTVQH15
+01,00226,Văn Miếu - Quốc Tử Giám,phường,mot_phan,phường,Văn Miếu - Quốc Tử Giám,,11,NQ 1656/NQ-UBTVQH15
+01,00226,Văn Miếu - Quốc Tử Giám,phường,phan_con_lai,phường,Cửa Nam,,11,NQ 1656/NQ-UBTVQH15
+01,00226,Văn Miếu - Quốc Tử Giám,phường,phan_con_lai,phường,Lê Đại Hành,,11,NQ 1656/NQ-UBTVQH15
+01,00226,Văn Miếu - Quốc Tử Giám,phường,phan_con_lai,phường,Nam Đồng,,11,NQ 1656/NQ-UBTVQH15
+01,00226,Văn Miếu - Quốc Tử Giám,phường,phan_con_lai,phường,Nguyễn Du,,11,NQ 1656/NQ-UBTVQH15
+01,00226,Văn Miếu - Quốc Tử Giám,phường,phan_con_lai,phường,Phương Liên - Trung Tự,,11,NQ 1656/NQ-UBTVQH15
+01,00199,Láng,phường,toan_bo,phường,Láng Thượng,,12,NQ 1656/NQ-UBTVQH15
+01,00199,Láng,phường,phan_con_lai,phường,Láng Hạ,,12,NQ 1656/NQ-UBTVQH15
+01,00199,Láng,phường,phan_con_lai,phường,Ngọc Khánh,,12,NQ 1656/NQ-UBTVQH15
+01,00190,Ô Chợ Dừa,phường,phan_con_lai,phường,Cát Linh,,13,NQ 1656/NQ-UBTVQH15
+01,00190,Ô Chợ Dừa,phường,phan_con_lai,phường,Điện Biên,,13,NQ 1656/NQ-UBTVQH15
+01,00190,Ô Chợ Dừa,phường,phan_con_lai,phường,Thành Công,,13,NQ 1656/NQ-UBTVQH15
+01,00190,Ô Chợ Dừa,phường,phan_con_lai,phường,Ô Chợ Dừa,,13,NQ 1656/NQ-UBTVQH15
+01,00190,Ô Chợ Dừa,phường,phan_con_lai,phường,Trung Liệt,,13,NQ 1656/NQ-UBTVQH15
+01,00190,Ô Chợ Dừa,phường,phan_con_lai,phường,Hàng Bột,,13,NQ 1656/NQ-UBTVQH15
+01,00190,Ô Chợ Dừa,phường,phan_con_lai,phường,Văn Miếu - Quốc Tử Giám,,13,NQ 1656/NQ-UBTVQH15
+01,00097,Hồng Hà,phường,toan_bo,phường,Chương Dương,,14,NQ 1656/NQ-UBTVQH15
+01,00097,Hồng Hà,phường,toan_bo,phường,Phúc Tân,,14,NQ 1656/NQ-UBTVQH15
+01,00097,Hồng Hà,phường,toan_bo,phường,Phúc Xá,,14,NQ 1656/NQ-UBTVQH15
+01,00097,Hồng Hà,phường,mot_phan,phường,Nhật Tân,,14,NQ 1656/NQ-UBTVQH15
+01,00097,Hồng Hà,phường,mot_phan,phường,Phú Thượng,,14,NQ 1656/NQ-UBTVQH15
+01,00097,Hồng Hà,phường,mot_phan,phường,Quảng An,,14,NQ 1656/NQ-UBTVQH15
+01,00097,Hồng Hà,phường,mot_phan,phường,Thanh Lương,,14,NQ 1656/NQ-UBTVQH15
+01,00097,Hồng Hà,phường,mot_phan,phường,Tứ Liên,,14,NQ 1656/NQ-UBTVQH15
+01,00097,Hồng Hà,phường,mot_phan,phường,Yên Phụ,,14,NQ 1656/NQ-UBTVQH15
+01,00097,Hồng Hà,phường,mot_phan_dt,phường,Bồ Đề,,14,NQ 1656/NQ-UBTVQH15
+01,00097,Hồng Hà,phường,mot_phan_dt,phường,Ngọc Thụy,,14,NQ 1656/NQ-UBTVQH15
+01,00097,Hồng Hà,phường,phan_con_lai,phường,Bạch Đằng,,14,NQ 1656/NQ-UBTVQH15
+01,00328,Lĩnh Nam,phường,mot_phan,phường,Lĩnh Nam,,15,NQ 1656/NQ-UBTVQH15
+01,00328,Lĩnh Nam,phường,mot_phan,phường,Thanh Trì,,15,NQ 1656/NQ-UBTVQH15
+01,00328,Lĩnh Nam,phường,mot_phan,phường,Trần Phú,,15,NQ 1656/NQ-UBTVQH15
+01,00328,Lĩnh Nam,phường,mot_phan_dt,phường,Yên Sở,,15,NQ 1656/NQ-UBTVQH15
+01,00328,Lĩnh Nam,phường,phan_con_lai,phường,Thanh Lương,,15,NQ 1656/NQ-UBTVQH15
+01,00331,Hoàng Mai,phường,mot_phan,phường,Giáp Bát,,16,NQ 1656/NQ-UBTVQH15
+01,00331,Hoàng Mai,phường,mot_phan,phường,Hoàng Liệt,,16,NQ 1656/NQ-UBTVQH15
+01,00331,Hoàng Mai,phường,mot_phan,phường,Hoàng Văn Thụ,,16,NQ 1656/NQ-UBTVQH15
+01,00331,Hoàng Mai,phường,mot_phan,phường,Lĩnh Nam,,16,NQ 1656/NQ-UBTVQH15
+01,00331,Hoàng Mai,phường,mot_phan,phường,Tân Mai,,16,NQ 1656/NQ-UBTVQH15
+01,00331,Hoàng Mai,phường,mot_phan,phường,Thịnh Liệt,,16,NQ 1656/NQ-UBTVQH15
+01,00331,Hoàng Mai,phường,mot_phan,phường,Tương Mai,,16,NQ 1656/NQ-UBTVQH15
+01,00331,Hoàng Mai,phường,mot_phan,phường,Trần Phú,,16,NQ 1656/NQ-UBTVQH15
+01,00331,Hoàng Mai,phường,mot_phan,phường,Vĩnh Hưng,,16,NQ 1656/NQ-UBTVQH15
+01,00331,Hoàng Mai,phường,mot_phan,phường,Yên Sở,,16,NQ 1656/NQ-UBTVQH15
+01,00301,Vĩnh Hưng,phường,mot_phan,phường,Vĩnh Hưng,,17,NQ 1656/NQ-UBTVQH15
+01,00301,Vĩnh Hưng,phường,phan_con_lai,phường,Lĩnh Nam,,17,NQ 1656/NQ-UBTVQH15
+01,00301,Vĩnh Hưng,phường,phan_con_lai,phường,Thanh Trì,,17,NQ 1656/NQ-UBTVQH15
+01,00301,Vĩnh Hưng,phường,phan_con_lai,phường,Vĩnh Tuy,,17,NQ 1656/NQ-UBTVQH15
+01,00322,Tương Mai,phường,mot_phan,phường,Giáp Bát,,18,NQ 1656/NQ-UBTVQH15
+01,00322,Tương Mai,phường,mot_phan,phường,Phương Liệt,,18,NQ 1656/NQ-UBTVQH15
+01,00322,Tương Mai,phường,phan_con_lai,phường,Mai Động,,18,NQ 1656/NQ-UBTVQH15
+01,00322,Tương Mai,phường,phan_con_lai,phường,Minh Khai,quận Hai Bà Trưng,18,NQ 1656/NQ-UBTVQH15
+01,00322,Tương Mai,phường,phan_con_lai,phường,Đồng Tâm,,18,NQ 1656/NQ-UBTVQH15
+01,00322,Tương Mai,phường,phan_con_lai,phường,Trương Định,,18,NQ 1656/NQ-UBTVQH15
+01,00322,Tương Mai,phường,phan_con_lai,phường,Hoàng Văn Thụ,,18,NQ 1656/NQ-UBTVQH15
+01,00322,Tương Mai,phường,phan_con_lai,phường,Tân Mai,,18,NQ 1656/NQ-UBTVQH15
+01,00322,Tương Mai,phường,phan_con_lai,phường,Tương Mai,,18,NQ 1656/NQ-UBTVQH15
+01,00322,Tương Mai,phường,phan_con_lai,phường,Vĩnh Hưng,,18,NQ 1656/NQ-UBTVQH15
+01,00316,Định Công,phường,mot_phan,phường,Định Công,,19,NQ 1656/NQ-UBTVQH15
+01,00316,Định Công,phường,mot_phan,phường,Hoàng Liệt,,19,NQ 1656/NQ-UBTVQH15
+01,00316,Định Công,phường,mot_phan,phường,Thịnh Liệt,,19,NQ 1656/NQ-UBTVQH15
+01,00316,Định Công,phường,mot_phan,xã,Tân Triều,,19,NQ 1656/NQ-UBTVQH15
+01,00316,Định Công,phường,mot_phan,xã,Thanh Liệt,,19,NQ 1656/NQ-UBTVQH15
+01,00316,Định Công,phường,mot_phan_dt_toanbo_ds,phường,Đại Kim,,19,NQ 1656/NQ-UBTVQH15
+01,00316,Định Công,phường,phan_con_lai,phường,Giáp Bát,,19,NQ 1656/NQ-UBTVQH15
+01,00337,Hoàng Liệt,phường,mot_phan,phường,Hoàng Liệt,,20,NQ 1656/NQ-UBTVQH15
+01,00337,Hoàng Liệt,phường,mot_phan,thị trấn,Văn Điển,,20,NQ 1656/NQ-UBTVQH15
+01,00337,Hoàng Liệt,phường,mot_phan,xã,Tam Hiệp,huyện Thanh Trì,20,NQ 1656/NQ-UBTVQH15
+01,00337,Hoàng Liệt,phường,mot_phan,xã,Thanh Liệt,,20,NQ 1656/NQ-UBTVQH15
+01,00337,Hoàng Liệt,phường,mot_phan_dt,phường,Đại Kim,,20,NQ 1656/NQ-UBTVQH15
+01,00340,Yên Sở,phường,mot_phan,phường,Thịnh Liệt,,21,NQ 1656/NQ-UBTVQH15
+01,00340,Yên Sở,phường,mot_phan,phường,Yên Sở,,21,NQ 1656/NQ-UBTVQH15
+01,00340,Yên Sở,phường,mot_phan,xã,Tứ Hiệp,,21,NQ 1656/NQ-UBTVQH15
+01,00340,Yên Sở,phường,phan_con_lai,phường,Hoàng Liệt,,21,NQ 1656/NQ-UBTVQH15
+01,00340,Yên Sở,phường,phan_con_lai,phường,Trần Phú,,21,NQ 1656/NQ-UBTVQH15
+01,00367,Thanh Xuân,phường,mot_phan,phường,Nhân Chính,,22,NQ 1656/NQ-UBTVQH15
+01,00367,Thanh Xuân,phường,mot_phan,phường,Thanh Xuân Bắc,,22,NQ 1656/NQ-UBTVQH15
+01,00367,Thanh Xuân,phường,mot_phan,phường,Thanh Xuân Trung,,22,NQ 1656/NQ-UBTVQH15
+01,00367,Thanh Xuân,phường,mot_phan,phường,Thượng Đình,,22,NQ 1656/NQ-UBTVQH15
+01,00367,Thanh Xuân,phường,mot_phan,phường,Trung Hoà,,22,NQ 1656/NQ-UBTVQH15
+01,00367,Thanh Xuân,phường,mot_phan,phường,Trung Văn,,22,NQ 1656/NQ-UBTVQH15
+01,00364,Khương Đình,phường,mot_phan,phường,Hạ Đình,,23,NQ 1656/NQ-UBTVQH15
+01,00364,Khương Đình,phường,mot_phan,phường,Khương Đình,,23,NQ 1656/NQ-UBTVQH15
+01,00364,Khương Đình,phường,mot_phan,phường,Khương Trung,,23,NQ 1656/NQ-UBTVQH15
+01,00364,Khương Đình,phường,mot_phan_dt,phường,Đại Kim,,23,NQ 1656/NQ-UBTVQH15
+01,00364,Khương Đình,phường,mot_phan_dt,xã,Tân Triều,,23,NQ 1656/NQ-UBTVQH15
+01,00364,Khương Đình,phường,phan_con_lai,phường,Thanh Xuân Trung,,23,NQ 1656/NQ-UBTVQH15
+01,00364,Khương Đình,phường,phan_con_lai,phường,Thượng Đình,,23,NQ 1656/NQ-UBTVQH15
+01,00352,Phương Liệt,phường,toan_bo,phường,Khương Mai,,24,NQ 1656/NQ-UBTVQH15
+01,00352,Phương Liệt,phường,phan_con_lai,phường,Thịnh Liệt,,24,NQ 1656/NQ-UBTVQH15
+01,00352,Phương Liệt,phường,phan_con_lai,phường,Phương Liệt,,24,NQ 1656/NQ-UBTVQH15
+01,00352,Phương Liệt,phường,phan_con_lai,phường,Định Công,,24,NQ 1656/NQ-UBTVQH15
+01,00352,Phương Liệt,phường,phan_con_lai,phường,Khương Đình,,24,NQ 1656/NQ-UBTVQH15
+01,00352,Phương Liệt,phường,phan_con_lai,phường,Khương Trung,,24,NQ 1656/NQ-UBTVQH15
+01,00166,Cầu Giấy,phường,mot_phan,phường,Dịch Vọng,,25,NQ 1656/NQ-UBTVQH15
+01,00166,Cầu Giấy,phường,mot_phan,phường,Dịch Vọng Hậu,,25,NQ 1656/NQ-UBTVQH15
+01,00166,Cầu Giấy,phường,mot_phan,phường,Quan Hoa,,25,NQ 1656/NQ-UBTVQH15
+01,00166,Cầu Giấy,phường,mot_phan,phường,Mỹ Đình 1,,25,NQ 1656/NQ-UBTVQH15
+01,00166,Cầu Giấy,phường,mot_phan,phường,Mỹ Đình 2,,25,NQ 1656/NQ-UBTVQH15
+01,00166,Cầu Giấy,phường,mot_phan,phường,Yên Hòa,,25,NQ 1656/NQ-UBTVQH15
+01,00160,Nghĩa Đô,phường,toan_bo,phường,Nghĩa Tân,,26,NQ 1656/NQ-UBTVQH15
+01,00160,Nghĩa Đô,phường,mot_phan,phường,Cổ Nhuế 1,,26,NQ 1656/NQ-UBTVQH15
+01,00160,Nghĩa Đô,phường,mot_phan,phường,Mai Dịch,,26,NQ 1656/NQ-UBTVQH15
+01,00160,Nghĩa Đô,phường,mot_phan,phường,Nghĩa Đô,,26,NQ 1656/NQ-UBTVQH15
+01,00160,Nghĩa Đô,phường,mot_phan,phường,Xuân La,,26,NQ 1656/NQ-UBTVQH15
+01,00160,Nghĩa Đô,phường,mot_phan,phường,Xuân Tảo,,26,NQ 1656/NQ-UBTVQH15
+01,00160,Nghĩa Đô,phường,phan_con_lai,phường,Dịch Vọng,,26,NQ 1656/NQ-UBTVQH15
+01,00160,Nghĩa Đô,phường,phan_con_lai,phường,Dịch Vọng Hậu,,26,NQ 1656/NQ-UBTVQH15
+01,00160,Nghĩa Đô,phường,phan_con_lai,phường,Quan Hoa,,26,NQ 1656/NQ-UBTVQH15
+01,00175,Yên Hòa,phường,mot_phan,phường,Mễ Trì,,27,NQ 1656/NQ-UBTVQH15
+01,00175,Yên Hòa,phường,mot_phan,phường,Nhân Chính,,27,NQ 1656/NQ-UBTVQH15
+01,00175,Yên Hòa,phường,mot_phan,phường,Trung Hòa,,27,NQ 1656/NQ-UBTVQH15
+01,00175,Yên Hòa,phường,phan_con_lai,phường,Yên Hòa,,27,NQ 1656/NQ-UBTVQH15
+01,00103,Tây Hồ,phường,toan_bo,phường,Bưởi,,28,NQ 1656/NQ-UBTVQH15
+01,00103,Tây Hồ,phường,mot_phan,phường,Phú Thượng,,28,NQ 1656/NQ-UBTVQH15
+01,00103,Tây Hồ,phường,mot_phan,phường,Xuân La,,28,NQ 1656/NQ-UBTVQH15
+01,00103,Tây Hồ,phường,phan_con_lai,phường,Nhật Tân,,28,NQ 1656/NQ-UBTVQH15
+01,00103,Tây Hồ,phường,phan_con_lai,phường,Quảng An,,28,NQ 1656/NQ-UBTVQH15
+01,00103,Tây Hồ,phường,phan_con_lai,phường,Tứ Liên,,28,NQ 1656/NQ-UBTVQH15
+01,00103,Tây Hồ,phường,phan_con_lai,phường,Yên Phụ,,28,NQ 1656/NQ-UBTVQH15
+01,00103,Tây Hồ,phường,phan_con_lai,phường,Nghĩa Đô,,28,NQ 1656/NQ-UBTVQH15
+01,00103,Tây Hồ,phường,phan_con_lai,phường,Thụy Khuê,,28,NQ 1656/NQ-UBTVQH15
+01,00091,Phú Thượng,phường,mot_phan,phường,Đông Ngạc,,29,NQ 1656/NQ-UBTVQH15
+01,00091,Phú Thượng,phường,mot_phan,phường,Xuân La,,29,NQ 1656/NQ-UBTVQH15
+01,00091,Phú Thượng,phường,mot_phan,phường,Xuân Đỉnh,,29,NQ 1656/NQ-UBTVQH15
+01,00091,Phú Thượng,phường,mot_phan,phường,Xuân Tảo,,29,NQ 1656/NQ-UBTVQH15
+01,00091,Phú Thượng,phường,phan_con_lai,phường,Phú Thượng,,29,NQ 1656/NQ-UBTVQH15
+01,00613,Tây Tựu,phường,mot_phan,phường,Minh Khai,quận Bắc Từ Liêm,30,NQ 1656/NQ-UBTVQH15
+01,00613,Tây Tựu,phường,mot_phan_dt_toanbo_ds,phường,Tây Tựu,,30,NQ 1656/NQ-UBTVQH15
+01,00613,Tây Tựu,phường,mot_phan_dt,xã,Kim Chung,huyện Hoài Đức,30,NQ 1656/NQ-UBTVQH15
+01,00619,Phú Diễn,phường,toan_bo,phường,Phú Diễn,,31,NQ 1656/NQ-UBTVQH15
+01,00619,Phú Diễn,phường,mot_phan,phường,Cổ Nhuế 1,,31,NQ 1656/NQ-UBTVQH15
+01,00619,Phú Diễn,phường,mot_phan,phường,Mai Dịch,,31,NQ 1656/NQ-UBTVQH15
+01,00619,Phú Diễn,phường,mot_phan,phường,Phúc Diễn,,31,NQ 1656/NQ-UBTVQH15
+01,00611,Xuân Đỉnh,phường,mot_phan,phường,Xuân Đỉnh,,32,NQ 1656/NQ-UBTVQH15
+01,00611,Xuân Đỉnh,phường,phan_con_lai,phường,Cổ Nhuế 1,,32,NQ 1656/NQ-UBTVQH15
+01,00611,Xuân Đỉnh,phường,phan_con_lai,phường,Xuân La,,32,NQ 1656/NQ-UBTVQH15
+01,00611,Xuân Đỉnh,phường,phan_con_lai,phường,Xuân Tảo,,32,NQ 1656/NQ-UBTVQH15
+01,00602,Đông Ngạc,phường,toan_bo,phường,Đức Thắng,,33,NQ 1656/NQ-UBTVQH15
+01,00602,Đông Ngạc,phường,mot_phan,phường,Cổ Nhuế 2,,33,NQ 1656/NQ-UBTVQH15
+01,00602,Đông Ngạc,phường,mot_phan,phường,Thụy Phương,,33,NQ 1656/NQ-UBTVQH15
+01,00602,Đông Ngạc,phường,mot_phan_dt,phường,Minh Khai,quận Bắc Từ Liêm,33,NQ 1656/NQ-UBTVQH15
+01,00602,Đông Ngạc,phường,phan_con_lai,phường,Đông Ngạc,,33,NQ 1656/NQ-UBTVQH15
+01,00602,Đông Ngạc,phường,phan_con_lai,phường,Xuân Đỉnh,,33,NQ 1656/NQ-UBTVQH15
+01,00598,Thượng Cát,phường,toan_bo,phường,Liên Mạc,,34,NQ 1656/NQ-UBTVQH15
+01,00598,Thượng Cát,phường,toan_bo,phường,Thượng Cát,,34,NQ 1656/NQ-UBTVQH15
+01,00598,Thượng Cát,phường,mot_phan_dt,phường,Minh Khai,quận Bắc Từ Liêm,34,NQ 1656/NQ-UBTVQH15
+01,00598,Thượng Cát,phường,mot_phan_dt,phường,Tây Tựu,,34,NQ 1656/NQ-UBTVQH15
+01,00598,Thượng Cát,phường,phan_con_lai,phường,Cổ Nhuế 2,,34,NQ 1656/NQ-UBTVQH15
+01,00598,Thượng Cát,phường,phan_con_lai,phường,Thụy Phương,,34,NQ 1656/NQ-UBTVQH15
+01,00592,Từ Liêm,phường,toan_bo,phường,Cầu Diễn,,35,NQ 1656/NQ-UBTVQH15
+01,00592,Từ Liêm,phường,mot_phan,phường,Mễ Trì,,35,NQ 1656/NQ-UBTVQH15
+01,00592,Từ Liêm,phường,mot_phan,phường,Phú Đô,,35,NQ 1656/NQ-UBTVQH15
+01,00592,Từ Liêm,phường,phan_con_lai,phường,Mai Dịch,,35,NQ 1656/NQ-UBTVQH15
+01,00592,Từ Liêm,phường,phan_con_lai,phường,Mỹ Đình 1,,35,NQ 1656/NQ-UBTVQH15
+01,00592,Từ Liêm,phường,phan_con_lai,phường,Mỹ Đình 2,,35,NQ 1656/NQ-UBTVQH15
+01,00622,Xuân Phương,phường,toan_bo,phường,Phương Canh,,36,NQ 1656/NQ-UBTVQH15
+01,00622,Xuân Phương,phường,toan_bo,phường,Xuân Phương,,36,NQ 1656/NQ-UBTVQH15
+01,00622,Xuân Phương,phường,mot_phan,phường,Đại Mỗ,,36,NQ 1656/NQ-UBTVQH15
+01,00622,Xuân Phương,phường,mot_phan,phường,Tây Mỗ,,36,NQ 1656/NQ-UBTVQH15
+01,00622,Xuân Phương,phường,mot_phan_dt,xã,Vân Canh,,36,NQ 1656/NQ-UBTVQH15
+01,00622,Xuân Phương,phường,phan_con_lai,phường,Minh Khai,quận Bắc Từ Liêm,36,NQ 1656/NQ-UBTVQH15
+01,00622,Xuân Phương,phường,phan_con_lai,phường,Phúc Diễn,,36,NQ 1656/NQ-UBTVQH15
+01,00634,Tây Mỗ,phường,mot_phan,phường,Đại Mỗ,,37,NQ 1656/NQ-UBTVQH15
+01,00634,Tây Mỗ,phường,mot_phan,phường,Dương Nội,,37,NQ 1656/NQ-UBTVQH15
+01,00634,Tây Mỗ,phường,mot_phan,xã,An Khánh,,37,NQ 1656/NQ-UBTVQH15
+01,00634,Tây Mỗ,phường,phan_con_lai,phường,Tây Mỗ,,37,NQ 1656/NQ-UBTVQH15
+01,00637,Đại Mỗ,phường,mot_phan,phường,Dương Nội,,38,NQ 1656/NQ-UBTVQH15
+01,00637,Đại Mỗ,phường,mot_phan,phường,Đại Mỗ,,38,NQ 1656/NQ-UBTVQH15
+01,00637,Đại Mỗ,phường,mot_phan,phường,Mộ Lao,,38,NQ 1656/NQ-UBTVQH15
+01,00637,Đại Mỗ,phường,phan_con_lai,phường,Mễ Trì,,38,NQ 1656/NQ-UBTVQH15
+01,00637,Đại Mỗ,phường,phan_con_lai,phường,Nhân Chính,,38,NQ 1656/NQ-UBTVQH15
+01,00637,Đại Mỗ,phường,phan_con_lai,phường,Trung Hòa,,38,NQ 1656/NQ-UBTVQH15
+01,00637,Đại Mỗ,phường,phan_con_lai,phường,Phú Đô,,38,NQ 1656/NQ-UBTVQH15
+01,00637,Đại Mỗ,phường,phan_con_lai,phường,Trung Văn,,38,NQ 1656/NQ-UBTVQH15
+01,00145,Long Biên,phường,mot_phan,phường,Cự Khối,,39,NQ 1656/NQ-UBTVQH15
+01,00145,Long Biên,phường,mot_phan,phường,Phúc Đồng,,39,NQ 1656/NQ-UBTVQH15
+01,00145,Long Biên,phường,mot_phan,phường,Thạch Bàn,,39,NQ 1656/NQ-UBTVQH15
+01,00145,Long Biên,phường,mot_phan,xã,Bát Tràng,,39,NQ 1656/NQ-UBTVQH15
+01,00145,Long Biên,phường,mot_phan_dt_toanbo_ds,phường,Long Biên,,39,NQ 1656/NQ-UBTVQH15
+01,00145,Long Biên,phường,mot_phan_dt,phường,Bồ Đề,,39,NQ 1656/NQ-UBTVQH15
+01,00145,Long Biên,phường,mot_phan_dt,phường,Gia Thụy,,39,NQ 1656/NQ-UBTVQH15
+01,00118,Bồ Đề,phường,toan_bo,phường,Ngọc Lâm,,40,NQ 1656/NQ-UBTVQH15
+01,00118,Bồ Đề,phường,mot_phan,phường,Đức Giang,,40,NQ 1656/NQ-UBTVQH15
+01,00118,Bồ Đề,phường,mot_phan,phường,Gia Thụy,,40,NQ 1656/NQ-UBTVQH15
+01,00118,Bồ Đề,phường,mot_phan,phường,Thượng Thanh,,40,NQ 1656/NQ-UBTVQH15
+01,00118,Bồ Đề,phường,mot_phan_dt,phường,Phúc Đồng,,40,NQ 1656/NQ-UBTVQH15
+01,00118,Bồ Đề,phường,phan_con_lai,phường,Ngọc Thụy,,40,NQ 1656/NQ-UBTVQH15
+01,00118,Bồ Đề,phường,phan_con_lai,phường,Bồ Đề,,40,NQ 1656/NQ-UBTVQH15
+01,00118,Bồ Đề,phường,phan_con_lai,phường,Long Biên,,40,NQ 1656/NQ-UBTVQH15
+01,00127,Việt Hưng,phường,mot_phan,phường,Giang Biên,,41,NQ 1656/NQ-UBTVQH15
+01,00127,Việt Hưng,phường,mot_phan,phường,Phúc Đồng,,41,NQ 1656/NQ-UBTVQH15
+01,00127,Việt Hưng,phường,mot_phan,phường,Việt Hưng,,41,NQ 1656/NQ-UBTVQH15
+01,00127,Việt Hưng,phường,mot_phan_dt,phường,Phúc Lợi,,41,NQ 1656/NQ-UBTVQH15
+01,00127,Việt Hưng,phường,phan_con_lai,phường,Gia Thụy,,41,NQ 1656/NQ-UBTVQH15
+01,00127,Việt Hưng,phường,phan_con_lai,phường,Đức Giang,,41,NQ 1656/NQ-UBTVQH15
+01,00127,Việt Hưng,phường,phan_con_lai,phường,Thượng Thanh,,41,NQ 1656/NQ-UBTVQH15
+01,00136,Phúc Lợi,phường,mot_phan,phường,Thạch Bàn,,42,NQ 1656/NQ-UBTVQH15
+01,00136,Phúc Lợi,phường,mot_phan,xã,Cổ Bi,,42,NQ 1656/NQ-UBTVQH15
+01,00136,Phúc Lợi,phường,phan_con_lai,phường,Giang Biên,,42,NQ 1656/NQ-UBTVQH15
+01,00136,Phúc Lợi,phường,phan_con_lai,phường,Việt Hưng,,42,NQ 1656/NQ-UBTVQH15
+01,00136,Phúc Lợi,phường,phan_con_lai,phường,Phúc Lợi,,42,NQ 1656/NQ-UBTVQH15
+01,00136,Phúc Lợi,phường,phan_con_lai,phường,Phúc Đồng,,42,NQ 1656/NQ-UBTVQH15
+01,09556,Hà Đông,phường,toan_bo,phường,Phúc La,,43,NQ 1656/NQ-UBTVQH15
+01,09556,Hà Đông,phường,toan_bo,phường,Vạn Phúc,,43,NQ 1656/NQ-UBTVQH15
+01,09556,Hà Đông,phường,mot_phan,phường,Quang Trung,quận Hà Đông,43,NQ 1656/NQ-UBTVQH15
+01,09556,Hà Đông,phường,mot_phan,phường,Đại Mỗ,,43,NQ 1656/NQ-UBTVQH15
+01,09556,Hà Đông,phường,mot_phan,phường,Hà Cầu,,43,NQ 1656/NQ-UBTVQH15
+01,09556,Hà Đông,phường,mot_phan,phường,La Khê,,43,NQ 1656/NQ-UBTVQH15
+01,09556,Hà Đông,phường,mot_phan,phường,Văn Quán,,43,NQ 1656/NQ-UBTVQH15
+01,09556,Hà Đông,phường,mot_phan,xã,Tân Triều,,43,NQ 1656/NQ-UBTVQH15
+01,09556,Hà Đông,phường,phan_con_lai,phường,Mộ Lao,,43,NQ 1656/NQ-UBTVQH15
+01,09886,Dương Nội,phường,mot_phan,phường,Dương Nội,,44,NQ 1656/NQ-UBTVQH15
+01,09886,Dương Nội,phường,mot_phan,phường,Phú La,,44,NQ 1656/NQ-UBTVQH15
+01,09886,Dương Nội,phường,mot_phan,phường,Yên Nghĩa,,44,NQ 1656/NQ-UBTVQH15
+01,09886,Dương Nội,phường,mot_phan,xã,La Phù,,44,NQ 1656/NQ-UBTVQH15
+01,09886,Dương Nội,phường,phan_con_lai,phường,Đại Mỗ,,44,NQ 1656/NQ-UBTVQH15
+01,09886,Dương Nội,phường,phan_con_lai,phường,La Khê,,44,NQ 1656/NQ-UBTVQH15
+01,09562,Yên Nghĩa,phường,mot_phan,phường,Đồng Mai,,45,NQ 1656/NQ-UBTVQH15
+01,09562,Yên Nghĩa,phường,phan_con_lai,phường,Yên Nghĩa,,45,NQ 1656/NQ-UBTVQH15
+01,09568,Phú Lương,phường,toan_bo,phường,Phú Lãm,,46,NQ 1656/NQ-UBTVQH15
+01,09568,Phú Lương,phường,mot_phan,phường,Kiến Hưng,,46,NQ 1656/NQ-UBTVQH15
+01,09568,Phú Lương,phường,mot_phan,phường,Phú Lương,,46,NQ 1656/NQ-UBTVQH15
+01,09568,Phú Lương,phường,mot_phan,xã,Cự Khê,,46,NQ 1656/NQ-UBTVQH15
+01,09568,Phú Lương,phường,mot_phan,xã,Hữu Hòa,,46,NQ 1656/NQ-UBTVQH15
+01,09552,Kiến Hưng,phường,mot_phan,phường,Kiến Hưng,,47,NQ 1656/NQ-UBTVQH15
+01,09552,Kiến Hưng,phường,mot_phan,phường,Phú Lương,,47,NQ 1656/NQ-UBTVQH15
+01,09552,Kiến Hưng,phường,phan_con_lai,phường,Quang Trung,quận Hà Đông,47,NQ 1656/NQ-UBTVQH15
+01,09552,Kiến Hưng,phường,phan_con_lai,phường,Hà Cầu,,47,NQ 1656/NQ-UBTVQH15
+01,09552,Kiến Hưng,phường,phan_con_lai,phường,Phú La,,47,NQ 1656/NQ-UBTVQH15
+01,00643,Thanh Liệt,phường,mot_phan,xã,Tả Thanh Oai,,48,NQ 1656/NQ-UBTVQH15
+01,00643,Thanh Liệt,phường,phan_con_lai,phường,Đại Kim,,48,NQ 1656/NQ-UBTVQH15
+01,00643,Thanh Liệt,phường,phan_con_lai,phường,Thanh Xuân Bắc,,48,NQ 1656/NQ-UBTVQH15
+01,00643,Thanh Liệt,phường,phan_con_lai,phường,Hạ Đình,,48,NQ 1656/NQ-UBTVQH15
+01,00643,Thanh Liệt,phường,phan_con_lai,phường,Văn Quán,,48,NQ 1656/NQ-UBTVQH15
+01,00643,Thanh Liệt,phường,phan_con_lai,xã,Thanh Liệt,,48,NQ 1656/NQ-UBTVQH15
+01,00643,Thanh Liệt,phường,phan_con_lai,xã,Tân Triều,,48,NQ 1656/NQ-UBTVQH15
+01,10015,Chương Mỹ,phường,toan_bo,phường,Biên Giang,,49,NQ 1656/NQ-UBTVQH15
+01,10015,Chương Mỹ,phường,toan_bo,thị trấn,Chúc Sơn,,49,NQ 1656/NQ-UBTVQH15
+01,10015,Chương Mỹ,phường,toan_bo,xã,Đại Yên,,49,NQ 1656/NQ-UBTVQH15
+01,10015,Chương Mỹ,phường,toan_bo,xã,Ngọc Hòa,,49,NQ 1656/NQ-UBTVQH15
+01,10015,Chương Mỹ,phường,toan_bo,xã,Phụng Châu,,49,NQ 1656/NQ-UBTVQH15
+01,10015,Chương Mỹ,phường,toan_bo,xã,Tiên Phương,,49,NQ 1656/NQ-UBTVQH15
+01,10015,Chương Mỹ,phường,toan_bo,xã,Thuỵ Hương,,49,NQ 1656/NQ-UBTVQH15
+01,10015,Chương Mỹ,phường,phan_con_lai,phường,Đồng Mai,,49,NQ 1656/NQ-UBTVQH15
+01,09574,Sơn Tây,phường,toan_bo,phường,Ngô Quyền,,50,NQ 1656/NQ-UBTVQH15
+01,09574,Sơn Tây,phường,toan_bo,phường,Phú Thịnh,,50,NQ 1656/NQ-UBTVQH15
+01,09574,Sơn Tây,phường,toan_bo,phường,Viên Sơn,,50,NQ 1656/NQ-UBTVQH15
+01,09574,Sơn Tây,phường,toan_bo,xã,Đường Lâm,,50,NQ 1656/NQ-UBTVQH15
+01,09574,Sơn Tây,phường,mot_phan,phường,Trung Hưng,,50,NQ 1656/NQ-UBTVQH15
+01,09574,Sơn Tây,phường,mot_phan,phường,Sơn Lộc,,50,NQ 1656/NQ-UBTVQH15
+01,09574,Sơn Tây,phường,mot_phan,xã,Thanh Mỹ,,50,NQ 1656/NQ-UBTVQH15
+01,09604,Tùng Thiện,phường,toan_bo,phường,Xuân Khanh,,51,NQ 1656/NQ-UBTVQH15
+01,09604,Tùng Thiện,phường,toan_bo,phường,Trung Sơn Trầm,,51,NQ 1656/NQ-UBTVQH15
+01,09604,Tùng Thiện,phường,toan_bo,xã,Xuân Sơn,,51,NQ 1656/NQ-UBTVQH15
+01,09604,Tùng Thiện,phường,phan_con_lai,phường,Trung Hưng,,51,NQ 1656/NQ-UBTVQH15
+01,09604,Tùng Thiện,phường,phan_con_lai,phường,Sơn Lộc,,51,NQ 1656/NQ-UBTVQH15
+01,09604,Tùng Thiện,phường,phan_con_lai,xã,Thanh Mỹ,,51,NQ 1656/NQ-UBTVQH15
+01,00640,Thanh Trì,xã,mot_phan,thị trấn,Văn Điển,,52,NQ 1656/NQ-UBTVQH15
+01,00640,Thanh Trì,xã,mot_phan,xã,Ngũ Hiệp,,52,NQ 1656/NQ-UBTVQH15
+01,00640,Thanh Trì,xã,mot_phan,xã,Vĩnh Quỳnh,,52,NQ 1656/NQ-UBTVQH15
+01,00640,Thanh Trì,xã,mot_phan_dt_toanbo_ds,xã,Yên Mỹ,,52,NQ 1656/NQ-UBTVQH15
+01,00640,Thanh Trì,xã,mot_phan_dt,xã,Duyên Hà,,52,NQ 1656/NQ-UBTVQH15
+01,00640,Thanh Trì,xã,phan_con_lai,xã,Tứ Hiệp,,52,NQ 1656/NQ-UBTVQH15
+01,00640,Thanh Trì,xã,phan_con_lai,phường,Yên Sở,,52,NQ 1656/NQ-UBTVQH15
+01,00664,Đại Thanh,xã,phan_con_lai,xã,Tam Hiệp,huyện Thanh Trì,53,NQ 1656/NQ-UBTVQH15
+01,00664,Đại Thanh,xã,phan_con_lai,xã,Hữu Hòa,,53,NQ 1656/NQ-UBTVQH15
+01,00664,Đại Thanh,xã,phan_con_lai,phường,Kiến Hưng,,53,NQ 1656/NQ-UBTVQH15
+01,00664,Đại Thanh,xã,phan_con_lai,thị trấn,Văn Điển,,53,NQ 1656/NQ-UBTVQH15
+01,00664,Đại Thanh,xã,phan_con_lai,xã,Tả Thanh Oai,,53,NQ 1656/NQ-UBTVQH15
+01,00664,Đại Thanh,xã,phan_con_lai,xã,Vĩnh Quỳnh,,53,NQ 1656/NQ-UBTVQH15
+01,00685,Nam Phù,xã,toan_bo,xã,Vạn Phúc,,54,NQ 1656/NQ-UBTVQH15
+01,00685,Nam Phù,xã,mot_phan,xã,Liên Ninh,,54,NQ 1656/NQ-UBTVQH15
+01,00685,Nam Phù,xã,mot_phan,xã,Ninh Sở,,54,NQ 1656/NQ-UBTVQH15
+01,00685,Nam Phù,xã,mot_phan_dt_toanbo_ds,xã,Đông Mỹ,,54,NQ 1656/NQ-UBTVQH15
+01,00685,Nam Phù,xã,mot_phan_dt,xã,Duyên Thái,,54,NQ 1656/NQ-UBTVQH15
+01,00685,Nam Phù,xã,phan_con_lai,xã,Ngũ Hiệp,,54,NQ 1656/NQ-UBTVQH15
+01,00685,Nam Phù,xã,phan_con_lai,xã,Yên Mỹ,,54,NQ 1656/NQ-UBTVQH15
+01,00685,Nam Phù,xã,phan_con_lai,xã,Duyên Hà,,54,NQ 1656/NQ-UBTVQH15
+01,00679,Ngọc Hồi,xã,toan_bo,xã,Ngọc Hồi,,55,NQ 1656/NQ-UBTVQH15
+01,00679,Ngọc Hồi,xã,mot_phan,xã,Duyên Thái,,55,NQ 1656/NQ-UBTVQH15
+01,00679,Ngọc Hồi,xã,mot_phan,xã,Đại Áng,,55,NQ 1656/NQ-UBTVQH15
+01,00679,Ngọc Hồi,xã,mot_phan,xã,Khánh Hà,,55,NQ 1656/NQ-UBTVQH15
+01,00679,Ngọc Hồi,xã,phan_con_lai,xã,Liên Ninh,,55,NQ 1656/NQ-UBTVQH15
+01,10231,Thượng Phúc,xã,toan_bo,xã,Tân Minh,huyện Thường Tín,56,NQ 1656/NQ-UBTVQH15
+01,10231,Thượng Phúc,xã,toan_bo,xã,Dũng Tiến,,56,NQ 1656/NQ-UBTVQH15
+01,10231,Thượng Phúc,xã,toan_bo,xã,Quất Động,,56,NQ 1656/NQ-UBTVQH15
+01,10231,Thượng Phúc,xã,toan_bo,xã,Nghiêm Xuyên,,56,NQ 1656/NQ-UBTVQH15
+01,10231,Thượng Phúc,xã,toan_bo,xã,Nguyễn Trãi,,56,NQ 1656/NQ-UBTVQH15
+01,10183,Thường Tín,xã,toan_bo,thị trấn,Thường Tín,,57,NQ 1656/NQ-UBTVQH15
+01,10183,Thường Tín,xã,toan_bo,xã,Tiền Phong,huyện Thường Tín,57,NQ 1656/NQ-UBTVQH15
+01,10183,Thường Tín,xã,toan_bo,xã,Hiền Giang,,57,NQ 1656/NQ-UBTVQH15
+01,10183,Thường Tín,xã,toan_bo,xã,Hòa Bình,,57,NQ 1656/NQ-UBTVQH15
+01,10183,Thường Tín,xã,toan_bo,xã,Nhị Khê,,57,NQ 1656/NQ-UBTVQH15
+01,10183,Thường Tín,xã,toan_bo,xã,Văn Bình,,57,NQ 1656/NQ-UBTVQH15
+01,10183,Thường Tín,xã,toan_bo,xã,Văn Phú,,57,NQ 1656/NQ-UBTVQH15
+01,10183,Thường Tín,xã,phan_con_lai,xã,Đại Áng,,57,NQ 1656/NQ-UBTVQH15
+01,10183,Thường Tín,xã,phan_con_lai,xã,Khánh Hà,,57,NQ 1656/NQ-UBTVQH15
+01,10237,Chương Dương,xã,toan_bo,xã,Chương Dương,,58,NQ 1656/NQ-UBTVQH15
+01,10237,Chương Dương,xã,toan_bo,xã,Lê Lợi,,58,NQ 1656/NQ-UBTVQH15
+01,10237,Chương Dương,xã,toan_bo,xã,Thắng Lợi,,58,NQ 1656/NQ-UBTVQH15
+01,10237,Chương Dương,xã,toan_bo,xã,Tự Nhiên,,58,NQ 1656/NQ-UBTVQH15
+01,10237,Chương Dương,xã,mot_phan,xã,Tô Hiệu,,58,NQ 1656/NQ-UBTVQH15
+01,10237,Chương Dương,xã,mot_phan,xã,Vạn Nhất,,58,NQ 1656/NQ-UBTVQH15
+01,10210,Hồng Vân,xã,toan_bo,xã,Hà Hồi,,59,NQ 1656/NQ-UBTVQH15
+01,10210,Hồng Vân,xã,toan_bo,xã,Hồng Vân,,59,NQ 1656/NQ-UBTVQH15
+01,10210,Hồng Vân,xã,toan_bo,xã,Liên Phương,,59,NQ 1656/NQ-UBTVQH15
+01,10210,Hồng Vân,xã,toan_bo,xã,Vân Tảo,,59,NQ 1656/NQ-UBTVQH15
+01,10210,Hồng Vân,xã,phan_con_lai,xã,Duyên Thái,,59,NQ 1656/NQ-UBTVQH15
+01,10210,Hồng Vân,xã,phan_con_lai,xã,Ninh Sở,,59,NQ 1656/NQ-UBTVQH15
+01,10210,Hồng Vân,xã,phan_con_lai,xã,Đông Mỹ,,59,NQ 1656/NQ-UBTVQH15
+01,10273,Phú Xuyên,xã,toan_bo,thị trấn,Phú Minh,,60,NQ 1656/NQ-UBTVQH15
+01,10273,Phú Xuyên,xã,toan_bo,thị trấn,Phú Xuyên,,60,NQ 1656/NQ-UBTVQH15
+01,10273,Phú Xuyên,xã,toan_bo,xã,Hồng Thái,,60,NQ 1656/NQ-UBTVQH15
+01,10273,Phú Xuyên,xã,toan_bo,xã,Minh Cường,,60,NQ 1656/NQ-UBTVQH15
+01,10273,Phú Xuyên,xã,toan_bo,xã,Nam Phong,,60,NQ 1656/NQ-UBTVQH15
+01,10273,Phú Xuyên,xã,toan_bo,xã,Nam Tiến,,60,NQ 1656/NQ-UBTVQH15
+01,10273,Phú Xuyên,xã,toan_bo,xã,Quang Hà,,60,NQ 1656/NQ-UBTVQH15
+01,10273,Phú Xuyên,xã,toan_bo,xã,Văn Tự,,60,NQ 1656/NQ-UBTVQH15
+01,10273,Phú Xuyên,xã,phan_con_lai,xã,Tô Hiệu,,60,NQ 1656/NQ-UBTVQH15
+01,10273,Phú Xuyên,xã,phan_con_lai,xã,Vạn Nhất,,60,NQ 1656/NQ-UBTVQH15
+01,10279,Phượng Dực,xã,toan_bo,xã,Hoàng Long,,61,NQ 1656/NQ-UBTVQH15
+01,10279,Phượng Dực,xã,toan_bo,xã,Hồng Minh,,61,NQ 1656/NQ-UBTVQH15
+01,10279,Phượng Dực,xã,toan_bo,xã,Phú Túc,,61,NQ 1656/NQ-UBTVQH15
+01,10279,Phượng Dực,xã,toan_bo,xã,Văn Hoàng,,61,NQ 1656/NQ-UBTVQH15
+01,10279,Phượng Dực,xã,toan_bo,xã,Phượng Dực,,61,NQ 1656/NQ-UBTVQH15
+01,10330,Chuyên Mỹ,xã,toan_bo,xã,Tân Dân,huyện Phú Xuyên,62,NQ 1656/NQ-UBTVQH15
+01,10330,Chuyên Mỹ,xã,toan_bo,xã,Châu Can,,62,NQ 1656/NQ-UBTVQH15
+01,10330,Chuyên Mỹ,xã,toan_bo,xã,Phú Yên,,62,NQ 1656/NQ-UBTVQH15
+01,10330,Chuyên Mỹ,xã,toan_bo,xã,Vân Từ,,62,NQ 1656/NQ-UBTVQH15
+01,10330,Chuyên Mỹ,xã,toan_bo,xã,Chuyên Mỹ,,62,NQ 1656/NQ-UBTVQH15
+01,10342,Đại Xuyên,xã,toan_bo,xã,Bạch Hạ,,63,NQ 1656/NQ-UBTVQH15
+01,10342,Đại Xuyên,xã,toan_bo,xã,Khai Thái,,63,NQ 1656/NQ-UBTVQH15
+01,10342,Đại Xuyên,xã,toan_bo,xã,Minh Tân,,63,NQ 1656/NQ-UBTVQH15
+01,10342,Đại Xuyên,xã,toan_bo,xã,Phúc Tiến,,63,NQ 1656/NQ-UBTVQH15
+01,10342,Đại Xuyên,xã,toan_bo,xã,Quang Lãng,,63,NQ 1656/NQ-UBTVQH15
+01,10342,Đại Xuyên,xã,toan_bo,xã,Tri Thủy,,63,NQ 1656/NQ-UBTVQH15
+01,10342,Đại Xuyên,xã,toan_bo,xã,Đại Xuyên,,63,NQ 1656/NQ-UBTVQH15
+01,10114,Thanh Oai,xã,toan_bo,thị trấn,Kim Bài,,64,NQ 1656/NQ-UBTVQH15
+01,10114,Thanh Oai,xã,toan_bo,xã,Đỗ Động,,64,NQ 1656/NQ-UBTVQH15
+01,10114,Thanh Oai,xã,toan_bo,xã,Kim An,,64,NQ 1656/NQ-UBTVQH15
+01,10114,Thanh Oai,xã,toan_bo,xã,Phương Trung,,64,NQ 1656/NQ-UBTVQH15
+01,10114,Thanh Oai,xã,toan_bo,xã,Thanh Mai,,64,NQ 1656/NQ-UBTVQH15
+01,10114,Thanh Oai,xã,mot_phan,xã,Kim Thư,,64,NQ 1656/NQ-UBTVQH15
+01,10126,Bình Minh,xã,toan_bo,xã,Bích Hòa,,65,NQ 1656/NQ-UBTVQH15
+01,10126,Bình Minh,xã,toan_bo,xã,Bình Minh,,65,NQ 1656/NQ-UBTVQH15
+01,10126,Bình Minh,xã,toan_bo,xã,Cao Viên,,65,NQ 1656/NQ-UBTVQH15
+01,10126,Bình Minh,xã,toan_bo,xã,Thanh Cao,,65,NQ 1656/NQ-UBTVQH15
+01,10126,Bình Minh,xã,mot_phan,xã,Lam Điền,,65,NQ 1656/NQ-UBTVQH15
+01,10126,Bình Minh,xã,phan_con_lai,xã,Cự Khê,,65,NQ 1656/NQ-UBTVQH15
+01,10126,Bình Minh,xã,phan_con_lai,phường,Phú Lương,,65,NQ 1656/NQ-UBTVQH15
+01,10144,Tam Hưng,xã,toan_bo,xã,Mỹ Hưng,,66,NQ 1656/NQ-UBTVQH15
+01,10144,Tam Hưng,xã,toan_bo,xã,Thanh Thùy,,66,NQ 1656/NQ-UBTVQH15
+01,10144,Tam Hưng,xã,toan_bo,xã,Thanh Văn,,66,NQ 1656/NQ-UBTVQH15
+01,10144,Tam Hưng,xã,toan_bo,xã,Tam Hưng,,66,NQ 1656/NQ-UBTVQH15
+01,10180,Dân Hòa,xã,toan_bo,xã,Cao Xuân Dương,,67,NQ 1656/NQ-UBTVQH15
+01,10180,Dân Hòa,xã,toan_bo,xã,Hồng Dương,,67,NQ 1656/NQ-UBTVQH15
+01,10180,Dân Hòa,xã,toan_bo,xã,Liên Châu,,67,NQ 1656/NQ-UBTVQH15
+01,10180,Dân Hòa,xã,toan_bo,xã,Tân Ước,,67,NQ 1656/NQ-UBTVQH15
+01,10180,Dân Hòa,xã,toan_bo,xã,Dân Hòa,,67,NQ 1656/NQ-UBTVQH15
+01,10354,Vân Đình,xã,toan_bo,thị trấn,Vân Đình,,68,NQ 1656/NQ-UBTVQH15
+01,10354,Vân Đình,xã,toan_bo,xã,Cao Sơn Tiến,,68,NQ 1656/NQ-UBTVQH15
+01,10354,Vân Đình,xã,toan_bo,xã,Phương Tú,,68,NQ 1656/NQ-UBTVQH15
+01,10354,Vân Đình,xã,toan_bo,xã,Tảo Dương Văn,,68,NQ 1656/NQ-UBTVQH15
+01,10369,Ứng Thiên,xã,toan_bo,xã,Hoa Viên,,69,NQ 1656/NQ-UBTVQH15
+01,10369,Ứng Thiên,xã,toan_bo,xã,Liên Bạt,,69,NQ 1656/NQ-UBTVQH15
+01,10369,Ứng Thiên,xã,toan_bo,xã,Quảng Phú Cầu,,69,NQ 1656/NQ-UBTVQH15
+01,10369,Ứng Thiên,xã,toan_bo,xã,Trường Thịnh,,69,NQ 1656/NQ-UBTVQH15
+01,10417,Hòa Xá,xã,toan_bo,xã,Hòa Phú,,70,NQ 1656/NQ-UBTVQH15
+01,10417,Hòa Xá,xã,toan_bo,xã,Thái Hòa,huyện Ứng Hòa,70,NQ 1656/NQ-UBTVQH15
+01,10417,Hòa Xá,xã,toan_bo,xã,Bình Lưu Quang,,70,NQ 1656/NQ-UBTVQH15
+01,10417,Hòa Xá,xã,toan_bo,xã,Phù Lưu,,70,NQ 1656/NQ-UBTVQH15
+01,10402,Ứng Hòa,xã,toan_bo,xã,Đại Cường,,71,NQ 1656/NQ-UBTVQH15
+01,10402,Ứng Hòa,xã,toan_bo,xã,Đại Hùng,,71,NQ 1656/NQ-UBTVQH15
+01,10402,Ứng Hòa,xã,toan_bo,xã,Đông Lỗ,,71,NQ 1656/NQ-UBTVQH15
+01,10402,Ứng Hòa,xã,toan_bo,xã,Đồng Tân,,71,NQ 1656/NQ-UBTVQH15
+01,10402,Ứng Hòa,xã,toan_bo,xã,Kim Đường,,71,NQ 1656/NQ-UBTVQH15
+01,10402,Ứng Hòa,xã,toan_bo,xã,Minh Đức,,71,NQ 1656/NQ-UBTVQH15
+01,10402,Ứng Hòa,xã,toan_bo,xã,Trầm Lộng,,71,NQ 1656/NQ-UBTVQH15
+01,10402,Ứng Hòa,xã,toan_bo,xã,Trung Tú,,71,NQ 1656/NQ-UBTVQH15
+01,10441,Mỹ Đức,xã,toan_bo,thị trấn,Đại Nghĩa,,72,NQ 1656/NQ-UBTVQH15
+01,10441,Mỹ Đức,xã,toan_bo,xã,An Phú,,72,NQ 1656/NQ-UBTVQH15
+01,10441,Mỹ Đức,xã,toan_bo,xã,Đại Hưng,,72,NQ 1656/NQ-UBTVQH15
+01,10441,Mỹ Đức,xã,toan_bo,xã,Hợp Thanh,,72,NQ 1656/NQ-UBTVQH15
+01,10441,Mỹ Đức,xã,toan_bo,xã,Phù Lưu Tế,,72,NQ 1656/NQ-UBTVQH15
+01,10465,Hồng Sơn,xã,toan_bo,xã,Phùng Xá,huyện Mỹ Đức,73,NQ 1656/NQ-UBTVQH15
+01,10465,Hồng Sơn,xã,toan_bo,xã,An Mỹ,,73,NQ 1656/NQ-UBTVQH15
+01,10465,Hồng Sơn,xã,toan_bo,xã,Hợp Tiến,,73,NQ 1656/NQ-UBTVQH15
+01,10465,Hồng Sơn,xã,toan_bo,xã,Lê Thanh,,73,NQ 1656/NQ-UBTVQH15
+01,10465,Hồng Sơn,xã,toan_bo,xã,Xuy Xá,,73,NQ 1656/NQ-UBTVQH15
+01,10465,Hồng Sơn,xã,toan_bo,xã,Hồng Sơn,,73,NQ 1656/NQ-UBTVQH15
+01,10459,Phúc Sơn,xã,toan_bo,xã,Mỹ Xuyên,,74,NQ 1656/NQ-UBTVQH15
+01,10459,Phúc Sơn,xã,toan_bo,xã,Phúc Lâm,,74,NQ 1656/NQ-UBTVQH15
+01,10459,Phúc Sơn,xã,toan_bo,xã,Thượng Lâm,,74,NQ 1656/NQ-UBTVQH15
+01,10459,Phúc Sơn,xã,toan_bo,xã,Tuy Lai,,74,NQ 1656/NQ-UBTVQH15
+01,10459,Phúc Sơn,xã,mot_phan_dt_toanbo_ds,xã,Đồng Tâm,,74,NQ 1656/NQ-UBTVQH15
+01,10489,Hương Sơn,xã,toan_bo,xã,An Tiến,,75,NQ 1656/NQ-UBTVQH15
+01,10489,Hương Sơn,xã,toan_bo,xã,Hùng Tiến,,75,NQ 1656/NQ-UBTVQH15
+01,10489,Hương Sơn,xã,toan_bo,xã,Vạn Tín,,75,NQ 1656/NQ-UBTVQH15
+01,10489,Hương Sơn,xã,toan_bo,xã,Hương Sơn,,75,NQ 1656/NQ-UBTVQH15
+01,10030,Phú Nghĩa,xã,toan_bo,xã,Đông Phương Yên,,76,NQ 1656/NQ-UBTVQH15
+01,10030,Phú Nghĩa,xã,toan_bo,xã,Đông Sơn,,76,NQ 1656/NQ-UBTVQH15
+01,10030,Phú Nghĩa,xã,toan_bo,xã,Thanh Bình,,76,NQ 1656/NQ-UBTVQH15
+01,10030,Phú Nghĩa,xã,toan_bo,xã,Trung Hòa,,76,NQ 1656/NQ-UBTVQH15
+01,10030,Phú Nghĩa,xã,toan_bo,xã,Trường Yên,,76,NQ 1656/NQ-UBTVQH15
+01,10030,Phú Nghĩa,xã,toan_bo,xã,Phú Nghĩa,,76,NQ 1656/NQ-UBTVQH15
+01,10045,Xuân Mai,xã,toan_bo,thị trấn,Xuân Mai,,77,NQ 1656/NQ-UBTVQH15
+01,10045,Xuân Mai,xã,toan_bo,xã,Nam Phương Tiến,,77,NQ 1656/NQ-UBTVQH15
+01,10045,Xuân Mai,xã,toan_bo,xã,Thủy Xuân Tiên,,77,NQ 1656/NQ-UBTVQH15
+01,10045,Xuân Mai,xã,mot_phan,xã,Tân Tiến,,77,NQ 1656/NQ-UBTVQH15
+01,10081,Trần Phú,xã,toan_bo,xã,Hoàng Văn Thụ,,78,NQ 1656/NQ-UBTVQH15
+01,10081,Trần Phú,xã,toan_bo,xã,Hữu Văn,,78,NQ 1656/NQ-UBTVQH15
+01,10081,Trần Phú,xã,toan_bo,xã,Mỹ Lương,,78,NQ 1656/NQ-UBTVQH15
+01,10081,Trần Phú,xã,toan_bo,xã,Trần Phú,,78,NQ 1656/NQ-UBTVQH15
+01,10081,Trần Phú,xã,phan_con_lai,xã,Đồng Tâm,,78,NQ 1656/NQ-UBTVQH15
+01,10081,Trần Phú,xã,phan_con_lai,xã,Tân Tiến,,78,NQ 1656/NQ-UBTVQH15
+01,10096,Hòa Phú,xã,toan_bo,xã,Hòa Phú,huyện Chương Mỹ,79,NQ 1656/NQ-UBTVQH15
+01,10096,Hòa Phú,xã,toan_bo,xã,Đồng Lạc,,79,NQ 1656/NQ-UBTVQH15
+01,10096,Hòa Phú,xã,toan_bo,xã,Hồng Phú,,79,NQ 1656/NQ-UBTVQH15
+01,10096,Hòa Phú,xã,toan_bo,xã,Thượng Vực,,79,NQ 1656/NQ-UBTVQH15
+01,10096,Hòa Phú,xã,toan_bo,xã,Văn Võ,,79,NQ 1656/NQ-UBTVQH15
+01,10096,Hòa Phú,xã,phan_con_lai,xã,Kim Thư,,79,NQ 1656/NQ-UBTVQH15
+01,10072,Quảng Bị,xã,toan_bo,xã,Hoàng Diệu,,80,NQ 1656/NQ-UBTVQH15
+01,10072,Quảng Bị,xã,toan_bo,xã,Hợp Đồng,,80,NQ 1656/NQ-UBTVQH15
+01,10072,Quảng Bị,xã,toan_bo,xã,Quảng Bị,,80,NQ 1656/NQ-UBTVQH15
+01,10072,Quảng Bị,xã,toan_bo,xã,Tốt Động,,80,NQ 1656/NQ-UBTVQH15
+01,10072,Quảng Bị,xã,phan_con_lai,xã,Lam Điền,,80,NQ 1656/NQ-UBTVQH15
+01,09661,Minh Châu,xã,toan_bo,xã,Minh Châu,,81,NQ 1656/NQ-UBTVQH15
+01,09661,Minh Châu,xã,mot_phan_dt,thị trấn,Tây Đằng,,81,NQ 1656/NQ-UBTVQH15
+01,09661,Minh Châu,xã,mot_phan_dt,xã,Chu Minh,,81,NQ 1656/NQ-UBTVQH15
+01,09619,Quảng Oai,xã,toan_bo,xã,Cam Thượng,,82,NQ 1656/NQ-UBTVQH15
+01,09619,Quảng Oai,xã,toan_bo,xã,Đông Quang,,82,NQ 1656/NQ-UBTVQH15
+01,09619,Quảng Oai,xã,toan_bo,xã,Tiên Phong,,82,NQ 1656/NQ-UBTVQH15
+01,09619,Quảng Oai,xã,mot_phan_dt_toanbo_ds,xã,Thụy An,,82,NQ 1656/NQ-UBTVQH15
+01,09619,Quảng Oai,xã,phan_con_lai,thị trấn,Tây Đằng,,82,NQ 1656/NQ-UBTVQH15
+01,09619,Quảng Oai,xã,phan_con_lai,xã,Chu Minh,,82,NQ 1656/NQ-UBTVQH15
+01,09664,Vật Lại,xã,toan_bo,xã,Thái Hòa,,83,NQ 1656/NQ-UBTVQH15
+01,09664,Vật Lại,xã,toan_bo,xã,Phú Sơn,huyện Ba Vì,83,NQ 1656/NQ-UBTVQH15
+01,09664,Vật Lại,xã,toan_bo,xã,Đồng Thái,,83,NQ 1656/NQ-UBTVQH15
+01,09664,Vật Lại,xã,toan_bo,xã,Phú Châu,,83,NQ 1656/NQ-UBTVQH15
+01,09664,Vật Lại,xã,toan_bo,xã,Vật Lại,,83,NQ 1656/NQ-UBTVQH15
+01,09634,Cổ Đô,xã,toan_bo,xã,Phú Cường,huyện Ba Vì,84,NQ 1656/NQ-UBTVQH15
+01,09634,Cổ Đô,xã,toan_bo,xã,Cổ Đô,,84,NQ 1656/NQ-UBTVQH15
+01,09634,Cổ Đô,xã,toan_bo,xã,Phong Vân,,84,NQ 1656/NQ-UBTVQH15
+01,09634,Cổ Đô,xã,toan_bo,xã,Phú Hồng,,84,NQ 1656/NQ-UBTVQH15
+01,09634,Cổ Đô,xã,toan_bo,xã,Phú Đông,,84,NQ 1656/NQ-UBTVQH15
+01,09634,Cổ Đô,xã,toan_bo,xã,Vạn Thắng,,84,NQ 1656/NQ-UBTVQH15
+01,09676,Bất Bạt,xã,toan_bo,xã,Thuần Mỹ,,85,NQ 1656/NQ-UBTVQH15
+01,09676,Bất Bạt,xã,toan_bo,xã,Tòng Bạt,,85,NQ 1656/NQ-UBTVQH15
+01,09676,Bất Bạt,xã,toan_bo,xã,Sơn Đà,,85,NQ 1656/NQ-UBTVQH15
+01,09676,Bất Bạt,xã,mot_phan,xã,Cẩm Lĩnh,,85,NQ 1656/NQ-UBTVQH15
+01,09676,Bất Bạt,xã,mot_phan,xã,Minh Quang,,85,NQ 1656/NQ-UBTVQH15
+01,09694,Suối Hai,xã,toan_bo,xã,Ba Trại,,86,NQ 1656/NQ-UBTVQH15
+01,09694,Suối Hai,xã,toan_bo,xã,Tản Lĩnh,,86,NQ 1656/NQ-UBTVQH15
+01,09694,Suối Hai,xã,phan_con_lai,xã,Thụy An,,86,NQ 1656/NQ-UBTVQH15
+01,09694,Suối Hai,xã,phan_con_lai,xã,Cẩm Lĩnh,,86,NQ 1656/NQ-UBTVQH15
+01,09700,Ba Vì,xã,toan_bo,xã,Ba Vì,,87,NQ 1656/NQ-UBTVQH15
+01,09700,Ba Vì,xã,toan_bo,xã,Khánh Thượng,,87,NQ 1656/NQ-UBTVQH15
+01,09700,Ba Vì,xã,phan_con_lai,xã,Minh Quang,,87,NQ 1656/NQ-UBTVQH15
+01,09706,Yên Bài,xã,toan_bo,xã,Vân Hòa,,88,NQ 1656/NQ-UBTVQH15
+01,09706,Yên Bài,xã,toan_bo,xã,Yên Bài,,88,NQ 1656/NQ-UBTVQH15
+01,09706,Yên Bài,xã,mot_phan,xã,Thạch Hòa,,88,NQ 1656/NQ-UBTVQH15
+01,09616,Đoài Phương,xã,toan_bo,xã,Kim Sơn,,89,NQ 1656/NQ-UBTVQH15
+01,09616,Đoài Phương,xã,toan_bo,xã,Sơn Đông,,89,NQ 1656/NQ-UBTVQH15
+01,09616,Đoài Phương,xã,mot_phan,xã,Cổ Đông,,89,NQ 1656/NQ-UBTVQH15
+01,09715,Phúc Thọ,xã,toan_bo,thị trấn,Phúc Thọ,,90,NQ 1656/NQ-UBTVQH15
+01,09715,Phúc Thọ,xã,toan_bo,xã,Long Thượng,,90,NQ 1656/NQ-UBTVQH15
+01,09715,Phúc Thọ,xã,toan_bo,xã,Phúc Hòa,,90,NQ 1656/NQ-UBTVQH15
+01,09715,Phúc Thọ,xã,toan_bo,xã,Phụng Thượng,,90,NQ 1656/NQ-UBTVQH15
+01,09715,Phúc Thọ,xã,toan_bo,xã,Tích Lộc,,90,NQ 1656/NQ-UBTVQH15
+01,09715,Phúc Thọ,xã,toan_bo,xã,Trạch Mỹ Lộc,,90,NQ 1656/NQ-UBTVQH15
+01,09739,Phúc Lộc,xã,toan_bo,xã,Nam Hà,,91,NQ 1656/NQ-UBTVQH15
+01,09739,Phúc Lộc,xã,toan_bo,xã,Sen Phương,,91,NQ 1656/NQ-UBTVQH15
+01,09739,Phúc Lộc,xã,toan_bo,xã,Vân Phúc,,91,NQ 1656/NQ-UBTVQH15
+01,09739,Phúc Lộc,xã,toan_bo,xã,Võng Xuyên,,91,NQ 1656/NQ-UBTVQH15
+01,09739,Phúc Lộc,xã,toan_bo,xã,Xuân Đình,,91,NQ 1656/NQ-UBTVQH15
+01,09772,Hát Môn,xã,toan_bo,xã,Tam Hiệp,huyện Phúc Thọ,92,NQ 1656/NQ-UBTVQH15
+01,09772,Hát Môn,xã,toan_bo,xã,Hiệp Thuận,,92,NQ 1656/NQ-UBTVQH15
+01,09772,Hát Môn,xã,toan_bo,xã,Liên Hiệp,,92,NQ 1656/NQ-UBTVQH15
+01,09772,Hát Môn,xã,toan_bo,xã,Ngọc Tảo,,92,NQ 1656/NQ-UBTVQH15
+01,09772,Hát Môn,xã,toan_bo,xã,Tam Thuấn,,92,NQ 1656/NQ-UBTVQH15
+01,09772,Hát Môn,xã,toan_bo,xã,Thanh Đa,,92,NQ 1656/NQ-UBTVQH15
+01,09772,Hát Môn,xã,toan_bo,xã,Hát Môn,,92,NQ 1656/NQ-UBTVQH15
+01,09955,Thạch Thất,xã,toan_bo,thị trấn,Liên Quan,,93,NQ 1656/NQ-UBTVQH15
+01,09955,Thạch Thất,xã,toan_bo,xã,Cẩm Yên,,93,NQ 1656/NQ-UBTVQH15
+01,09955,Thạch Thất,xã,toan_bo,xã,Đại Đồng,,93,NQ 1656/NQ-UBTVQH15
+01,09955,Thạch Thất,xã,toan_bo,xã,Kim Quan,,93,NQ 1656/NQ-UBTVQH15
+01,09955,Thạch Thất,xã,toan_bo,xã,Lại Thượng,,93,NQ 1656/NQ-UBTVQH15
+01,09955,Thạch Thất,xã,toan_bo,xã,Phú Kim,,93,NQ 1656/NQ-UBTVQH15
+01,09982,Hạ Bằng,xã,toan_bo,xã,Cần Kiệm,,94,NQ 1656/NQ-UBTVQH15
+01,09982,Hạ Bằng,xã,toan_bo,xã,Đồng Trúc,,94,NQ 1656/NQ-UBTVQH15
+01,09982,Hạ Bằng,xã,mot_phan,xã,Bình Yên,,94,NQ 1656/NQ-UBTVQH15
+01,09982,Hạ Bằng,xã,mot_phan,xã,Hạ Bằng,,94,NQ 1656/NQ-UBTVQH15
+01,09982,Hạ Bằng,xã,mot_phan,xã,Tân Xã,,94,NQ 1656/NQ-UBTVQH15
+01,09982,Hạ Bằng,xã,mot_phan_dt,xã,Phú Cát,,94,NQ 1656/NQ-UBTVQH15
+01,10003,Tây Phương,xã,toan_bo,xã,Phùng Xá,huyện Thạch Thất,95,NQ 1656/NQ-UBTVQH15
+01,10003,Tây Phương,xã,toan_bo,xã,Hương Ngải,,95,NQ 1656/NQ-UBTVQH15
+01,10003,Tây Phương,xã,toan_bo,xã,Lam Sơn,,95,NQ 1656/NQ-UBTVQH15
+01,10003,Tây Phương,xã,toan_bo,xã,Thạch Xá,,95,NQ 1656/NQ-UBTVQH15
+01,10003,Tây Phương,xã,mot_phan,xã,Quang Trung,,95,NQ 1656/NQ-UBTVQH15
+01,10003,Tây Phương,xã,mot_phan_dt,thị trấn,Quốc Oai,,95,NQ 1656/NQ-UBTVQH15
+01,10003,Tây Phương,xã,mot_phan_dt,xã,Ngọc Liệp,,95,NQ 1656/NQ-UBTVQH15
+01,10003,Tây Phương,xã,mot_phan_dt,xã,Phượng Sơn,,95,NQ 1656/NQ-UBTVQH15
+01,09988,Hòa Lạc,xã,mot_phan,xã,Tiến Xuân,,96,NQ 1656/NQ-UBTVQH15
+01,09988,Hòa Lạc,xã,mot_phan,xã,Thạch Hòa,,96,NQ 1656/NQ-UBTVQH15
+01,09988,Hòa Lạc,xã,phan_con_lai,xã,Cổ Đông,,96,NQ 1656/NQ-UBTVQH15
+01,09988,Hòa Lạc,xã,phan_con_lai,xã,Bình Yên,,96,NQ 1656/NQ-UBTVQH15
+01,09988,Hòa Lạc,xã,phan_con_lai,xã,Hạ Bằng,,96,NQ 1656/NQ-UBTVQH15
+01,09988,Hòa Lạc,xã,phan_con_lai,xã,Tân Xã,,96,NQ 1656/NQ-UBTVQH15
+01,04930,Yên Xuân,xã,toan_bo,xã,Đông Xuân,huyện Quốc Oai,97,NQ 1656/NQ-UBTVQH15
+01,04930,Yên Xuân,xã,toan_bo,xã,Yên Bình,,97,NQ 1656/NQ-UBTVQH15
+01,04930,Yên Xuân,xã,toan_bo,xã,Yên Trung,,97,NQ 1656/NQ-UBTVQH15
+01,04930,Yên Xuân,xã,phan_con_lai,xã,Tiến Xuân,,97,NQ 1656/NQ-UBTVQH15
+01,04930,Yên Xuân,xã,phan_con_lai,xã,Thạch Hòa,,97,NQ 1656/NQ-UBTVQH15
+01,09895,Quốc Oai,xã,toan_bo,xã,Thạch Thán,,98,NQ 1656/NQ-UBTVQH15
+01,09895,Quốc Oai,xã,toan_bo,xã,Sài Sơn,,98,NQ 1656/NQ-UBTVQH15
+01,09895,Quốc Oai,xã,mot_phan_dt,xã,Ngọc Mỹ,,98,NQ 1656/NQ-UBTVQH15
+01,09895,Quốc Oai,xã,phan_con_lai,thị trấn,Quốc Oai,,98,NQ 1656/NQ-UBTVQH15
+01,09895,Quốc Oai,xã,phan_con_lai,xã,Phượng Sơn,,98,NQ 1656/NQ-UBTVQH15
+01,09931,Hưng Đạo,xã,toan_bo,xã,Cộng Hoà,,99,NQ 1656/NQ-UBTVQH15
+01,09931,Hưng Đạo,xã,toan_bo,xã,Đồng Quang,,99,NQ 1656/NQ-UBTVQH15
+01,09931,Hưng Đạo,xã,toan_bo,xã,Hưng Đạo,,99,NQ 1656/NQ-UBTVQH15
+01,09910,Kiều Phú,xã,toan_bo,xã,Cấn Hữu,,100,NQ 1656/NQ-UBTVQH15
+01,09910,Kiều Phú,xã,toan_bo,xã,Liệp Nghĩa,,100,NQ 1656/NQ-UBTVQH15
+01,09910,Kiều Phú,xã,toan_bo,xã,Tuyết Nghĩa,,100,NQ 1656/NQ-UBTVQH15
+01,09910,Kiều Phú,xã,phan_con_lai,xã,Ngọc Liệp,,100,NQ 1656/NQ-UBTVQH15
+01,09910,Kiều Phú,xã,phan_con_lai,xã,Quang Trung,,100,NQ 1656/NQ-UBTVQH15
+01,09910,Kiều Phú,xã,phan_con_lai,xã,Ngọc Mỹ,,100,NQ 1656/NQ-UBTVQH15
+01,09952,Phú Cát,xã,toan_bo,xã,Đông Yên,,101,NQ 1656/NQ-UBTVQH15
+01,09952,Phú Cát,xã,toan_bo,xã,Hoà Thạch,,101,NQ 1656/NQ-UBTVQH15
+01,09952,Phú Cát,xã,toan_bo,xã,Phú Mãn,,101,NQ 1656/NQ-UBTVQH15
+01,09952,Phú Cát,xã,phan_con_lai,xã,Phú Cát,,101,NQ 1656/NQ-UBTVQH15
+01,09832,Hoài Đức,xã,toan_bo,thị trấn,Trạm Trôi,,102,NQ 1656/NQ-UBTVQH15
+01,09832,Hoài Đức,xã,toan_bo,xã,Di Trạch,,102,NQ 1656/NQ-UBTVQH15
+01,09832,Hoài Đức,xã,toan_bo,xã,Đức Giang,,102,NQ 1656/NQ-UBTVQH15
+01,09832,Hoài Đức,xã,toan_bo,xã,Đức Thượng,,102,NQ 1656/NQ-UBTVQH15
+01,09832,Hoài Đức,xã,mot_phan_dt,phường,Tây Tựu,,102,NQ 1656/NQ-UBTVQH15
+01,09832,Hoài Đức,xã,mot_phan_dt,xã,Tân Lập,,102,NQ 1656/NQ-UBTVQH15
+01,09832,Hoài Đức,xã,phan_con_lai,xã,Kim Chung,huyện Hoài Đức,102,NQ 1656/NQ-UBTVQH15
+01,09856,Dương Hòa,xã,toan_bo,xã,Cát Quế,,103,NQ 1656/NQ-UBTVQH15
+01,09856,Dương Hòa,xã,toan_bo,xã,Dương Liễu,,103,NQ 1656/NQ-UBTVQH15
+01,09856,Dương Hòa,xã,toan_bo,xã,Đắc Sở,,103,NQ 1656/NQ-UBTVQH15
+01,09856,Dương Hòa,xã,toan_bo,xã,Minh Khai,,103,NQ 1656/NQ-UBTVQH15
+01,09856,Dương Hòa,xã,toan_bo,xã,Yên Sở,,103,NQ 1656/NQ-UBTVQH15
+01,09871,Sơn Đồng,xã,toan_bo,xã,Lại Yên,,104,NQ 1656/NQ-UBTVQH15
+01,09871,Sơn Đồng,xã,toan_bo,xã,Sơn Đồng,,104,NQ 1656/NQ-UBTVQH15
+01,09871,Sơn Đồng,xã,toan_bo,xã,Tiền Yên,,104,NQ 1656/NQ-UBTVQH15
+01,09871,Sơn Đồng,xã,mot_phan,xã,An Khánh,,104,NQ 1656/NQ-UBTVQH15
+01,09871,Sơn Đồng,xã,mot_phan,xã,Song Phương,,104,NQ 1656/NQ-UBTVQH15
+01,09871,Sơn Đồng,xã,mot_phan,xã,Vân Côn,,104,NQ 1656/NQ-UBTVQH15
+01,09871,Sơn Đồng,xã,mot_phan_dt,xã,An Thượng,,104,NQ 1656/NQ-UBTVQH15
+01,09871,Sơn Đồng,xã,phan_con_lai,xã,Vân Canh,,104,NQ 1656/NQ-UBTVQH15
+01,09877,An Khánh,xã,toan_bo,xã,Đông La,,105,NQ 1656/NQ-UBTVQH15
+01,09877,An Khánh,xã,phan_con_lai,phường,Dương Nội,,105,NQ 1656/NQ-UBTVQH15
+01,09877,An Khánh,xã,phan_con_lai,xã,An Khánh,,105,NQ 1656/NQ-UBTVQH15
+01,09877,An Khánh,xã,phan_con_lai,xã,La Phù,,105,NQ 1656/NQ-UBTVQH15
+01,09877,An Khánh,xã,phan_con_lai,xã,Song Phương,,105,NQ 1656/NQ-UBTVQH15
+01,09877,An Khánh,xã,phan_con_lai,xã,Vân Côn,,105,NQ 1656/NQ-UBTVQH15
+01,09877,An Khánh,xã,phan_con_lai,xã,An Thượng,,105,NQ 1656/NQ-UBTVQH15
+01,09784,Đan Phượng,xã,toan_bo,thị trấn,Phùng,,106,NQ 1656/NQ-UBTVQH15
+01,09784,Đan Phượng,xã,toan_bo,xã,Đồng Tháp,,106,NQ 1656/NQ-UBTVQH15
+01,09784,Đan Phượng,xã,toan_bo,xã,Song Phượng,,106,NQ 1656/NQ-UBTVQH15
+01,09784,Đan Phượng,xã,toan_bo,xã,Thượng Mỗ,,106,NQ 1656/NQ-UBTVQH15
+01,09784,Đan Phượng,xã,toan_bo,xã,Đan Phượng,,106,NQ 1656/NQ-UBTVQH15
+01,09817,Ô Diên,xã,toan_bo,xã,Hạ Mỗ,,107,NQ 1656/NQ-UBTVQH15
+01,09817,Ô Diên,xã,toan_bo,xã,Tân Hội,,107,NQ 1656/NQ-UBTVQH15
+01,09817,Ô Diên,xã,mot_phan_dt_toanbo_ds,xã,Liên Hà,huyện Đan Phượng,107,NQ 1656/NQ-UBTVQH15
+01,09817,Ô Diên,xã,mot_phan_dt_toanbo_ds,xã,Hồng Hà,,107,NQ 1656/NQ-UBTVQH15
+01,09817,Ô Diên,xã,mot_phan_dt_toanbo_ds,xã,Liên Hồng,,107,NQ 1656/NQ-UBTVQH15
+01,09817,Ô Diên,xã,mot_phan_dt_toanbo_ds,xã,Liên Trung,,107,NQ 1656/NQ-UBTVQH15
+01,09817,Ô Diên,xã,mot_phan_dt,xã,Văn Khê,,107,NQ 1656/NQ-UBTVQH15
+01,09817,Ô Diên,xã,phan_con_lai,phường,Tây Tựu,,107,NQ 1656/NQ-UBTVQH15
+01,09817,Ô Diên,xã,phan_con_lai,xã,Tân Lập,,107,NQ 1656/NQ-UBTVQH15
+01,09787,Liên Minh,xã,toan_bo,xã,Phương Đình,,108,NQ 1656/NQ-UBTVQH15
+01,09787,Liên Minh,xã,mot_phan_dt_toanbo_ds,xã,Trung Châu,,108,NQ 1656/NQ-UBTVQH15
+01,09787,Liên Minh,xã,mot_phan_dt_toanbo_ds,xã,Thọ Xuân,,108,NQ 1656/NQ-UBTVQH15
+01,09787,Liên Minh,xã,mot_phan_dt_toanbo_ds,xã,Thọ An,,108,NQ 1656/NQ-UBTVQH15
+01,09787,Liên Minh,xã,mot_phan_dt,xã,Hồng Hà,,108,NQ 1656/NQ-UBTVQH15
+01,09787,Liên Minh,xã,mot_phan_dt,xã,Tiến Thịnh,,108,NQ 1656/NQ-UBTVQH15
+01,00565,Gia Lâm,xã,toan_bo,xã,Dương Xá,,109,NQ 1656/NQ-UBTVQH15
+01,00565,Gia Lâm,xã,toan_bo,xã,Kiêu Kỵ,,109,NQ 1656/NQ-UBTVQH15
+01,00565,Gia Lâm,xã,mot_phan_dt_toanbo_ds,thị trấn,Trâu Quỳ,,109,NQ 1656/NQ-UBTVQH15
+01,00565,Gia Lâm,xã,mot_phan,phường,Thạch Bàn,,109,NQ 1656/NQ-UBTVQH15
+01,00565,Gia Lâm,xã,mot_phan,xã,Phú Sơn,huyện Gia Lâm,109,NQ 1656/NQ-UBTVQH15
+01,00565,Gia Lâm,xã,mot_phan,xã,Cổ Bi,,109,NQ 1656/NQ-UBTVQH15
+01,00565,Gia Lâm,xã,mot_phan,xã,Đa Tốn,,109,NQ 1656/NQ-UBTVQH15
+01,00565,Gia Lâm,xã,mot_phan_dt,xã,Bát Tràng,,109,NQ 1656/NQ-UBTVQH15
+01,00562,Thuận An,xã,toan_bo,xã,Dương Quang,,110,NQ 1656/NQ-UBTVQH15
+01,00562,Thuận An,xã,toan_bo,xã,Lệ Chi,,110,NQ 1656/NQ-UBTVQH15
+01,00562,Thuận An,xã,mot_phan_dt_toanbo_ds,xã,Đặng Xá,,110,NQ 1656/NQ-UBTVQH15
+01,00562,Thuận An,xã,phan_con_lai,xã,Phú Sơn,huyện Gia Lâm,110,NQ 1656/NQ-UBTVQH15
+01,00577,Bát Tràng,xã,toan_bo,xã,Kim Đức,,111,NQ 1656/NQ-UBTVQH15
+01,00577,Bát Tràng,xã,phan_con_lai,phường,Cự Khối,,111,NQ 1656/NQ-UBTVQH15
+01,00577,Bát Tràng,xã,phan_con_lai,phường,Thạch Bàn,,111,NQ 1656/NQ-UBTVQH15
+01,00577,Bát Tràng,xã,phan_con_lai,thị trấn,Trâu Quỳ,,111,NQ 1656/NQ-UBTVQH15
+01,00577,Bát Tràng,xã,phan_con_lai,xã,Đa Tốn,,111,NQ 1656/NQ-UBTVQH15
+01,00577,Bát Tràng,xã,phan_con_lai,xã,Bát Tràng,,111,NQ 1656/NQ-UBTVQH15
+01,00541,Phù Đổng,xã,toan_bo,thị trấn,Yên Viên,,112,NQ 1656/NQ-UBTVQH15
+01,00541,Phù Đổng,xã,toan_bo,xã,Ninh Hiệp,,112,NQ 1656/NQ-UBTVQH15
+01,00541,Phù Đổng,xã,toan_bo,xã,Phù Đổng,,112,NQ 1656/NQ-UBTVQH15
+01,00541,Phù Đổng,xã,toan_bo,xã,Thiên Đức,,112,NQ 1656/NQ-UBTVQH15
+01,00541,Phù Đổng,xã,toan_bo,xã,Yên Thường,,112,NQ 1656/NQ-UBTVQH15
+01,00541,Phù Đổng,xã,toan_bo,xã,Yên Viên,,112,NQ 1656/NQ-UBTVQH15
+01,00541,Phù Đổng,xã,phan_con_lai,xã,Cổ Bi,,112,NQ 1656/NQ-UBTVQH15
+01,00541,Phù Đổng,xã,phan_con_lai,xã,Đặng Xá,,112,NQ 1656/NQ-UBTVQH15
+01,00475,Thư Lâm,xã,toan_bo,xã,Thụy Lâm,,113,NQ 1656/NQ-UBTVQH15
+01,00475,Thư Lâm,xã,toan_bo,xã,Vân Hà,,113,NQ 1656/NQ-UBTVQH15
+01,00475,Thư Lâm,xã,mot_phan_dt_toanbo_ds,xã,Xuân Nộn,,113,NQ 1656/NQ-UBTVQH15
+01,00475,Thư Lâm,xã,mot_phan,thị trấn,Đông Anh,,113,NQ 1656/NQ-UBTVQH15
+01,00475,Thư Lâm,xã,mot_phan,xã,Liên Hà,huyện Đông Anh,113,NQ 1656/NQ-UBTVQH15
+01,00475,Thư Lâm,xã,mot_phan,xã,Dục Tú,,113,NQ 1656/NQ-UBTVQH15
+01,00475,Thư Lâm,xã,mot_phan,xã,Nguyên Khê,,113,NQ 1656/NQ-UBTVQH15
+01,00475,Thư Lâm,xã,mot_phan,xã,Uy Nỗ,,113,NQ 1656/NQ-UBTVQH15
+01,00475,Thư Lâm,xã,mot_phan,xã,Việt Hùng,,113,NQ 1656/NQ-UBTVQH15
+01,00454,Đông Anh,xã,toan_bo,xã,Cổ Loa,,114,NQ 1656/NQ-UBTVQH15
+01,00454,Đông Anh,xã,toan_bo,xã,Đông Hội,,114,NQ 1656/NQ-UBTVQH15
+01,00454,Đông Anh,xã,toan_bo,xã,Mai Lâm,,114,NQ 1656/NQ-UBTVQH15
+01,00454,Đông Anh,xã,mot_phan,thị trấn,Đông Anh,,114,NQ 1656/NQ-UBTVQH15
+01,00454,Đông Anh,xã,mot_phan,xã,Tàm Xá,,114,NQ 1656/NQ-UBTVQH15
+01,00454,Đông Anh,xã,mot_phan,xã,Tiên Dương,,114,NQ 1656/NQ-UBTVQH15
+01,00454,Đông Anh,xã,mot_phan,xã,Vĩnh Ngọc,,114,NQ 1656/NQ-UBTVQH15
+01,00454,Đông Anh,xã,mot_phan,xã,Xuân Canh,,114,NQ 1656/NQ-UBTVQH15
+01,00454,Đông Anh,xã,phan_con_lai,xã,Liên Hà,huyện Đông Anh,114,NQ 1656/NQ-UBTVQH15
+01,00454,Đông Anh,xã,phan_con_lai,xã,Dục Tú,,114,NQ 1656/NQ-UBTVQH15
+01,00454,Đông Anh,xã,phan_con_lai,xã,Uy Nỗ,,114,NQ 1656/NQ-UBTVQH15
+01,00454,Đông Anh,xã,phan_con_lai,xã,Việt Hùng,,114,NQ 1656/NQ-UBTVQH15
+01,00466,Phúc Thịnh,xã,toan_bo,xã,Bắc Hồng,,115,NQ 1656/NQ-UBTVQH15
+01,00466,Phúc Thịnh,xã,toan_bo,xã,Nam Hồng,,115,NQ 1656/NQ-UBTVQH15
+01,00466,Phúc Thịnh,xã,toan_bo,xã,Vân Nội,,115,NQ 1656/NQ-UBTVQH15
+01,00466,Phúc Thịnh,xã,mot_phan_dt,xã,Vĩnh Ngọc,,115,NQ 1656/NQ-UBTVQH15
+01,00466,Phúc Thịnh,xã,phan_con_lai,xã,Nguyên Khê,,115,NQ 1656/NQ-UBTVQH15
+01,00466,Phúc Thịnh,xã,phan_con_lai,xã,Xuân Nộn,,115,NQ 1656/NQ-UBTVQH15
+01,00466,Phúc Thịnh,xã,phan_con_lai,xã,Tiên Dương,,115,NQ 1656/NQ-UBTVQH15
+01,00466,Phúc Thịnh,xã,phan_con_lai,thị trấn,Đông Anh,,115,NQ 1656/NQ-UBTVQH15
+01,00493,Thiên Lộc,xã,toan_bo,xã,Võng La,,116,NQ 1656/NQ-UBTVQH15
+01,00493,Thiên Lộc,xã,mot_phan_dt_toanbo_ds,xã,Kim Chung,huyện Đông Anh,116,NQ 1656/NQ-UBTVQH15
+01,00493,Thiên Lộc,xã,mot_phan_dt_toanbo_ds,xã,Đại Mạch,,116,NQ 1656/NQ-UBTVQH15
+01,00493,Thiên Lộc,xã,mot_phan_dt_toanbo_ds,xã,Kim Nỗ,,116,NQ 1656/NQ-UBTVQH15
+01,00493,Thiên Lộc,xã,mot_phan_dt,xã,Tiền Phong,huyện Mê Linh,116,NQ 1656/NQ-UBTVQH15
+01,00493,Thiên Lộc,xã,mot_phan_dt,xã,Hải Bối,,116,NQ 1656/NQ-UBTVQH15
+01,00508,Vĩnh Thanh,xã,phan_con_lai,xã,Tàm Xá,,117,NQ 1656/NQ-UBTVQH15
+01,00508,Vĩnh Thanh,xã,phan_con_lai,xã,Xuân Canh,,117,NQ 1656/NQ-UBTVQH15
+01,00508,Vĩnh Thanh,xã,phan_con_lai,xã,Vĩnh Ngọc,,117,NQ 1656/NQ-UBTVQH15
+01,00508,Vĩnh Thanh,xã,phan_con_lai,xã,Kim Chung,huyện Đông Anh,117,NQ 1656/NQ-UBTVQH15
+01,00508,Vĩnh Thanh,xã,phan_con_lai,xã,Hải Bối,,117,NQ 1656/NQ-UBTVQH15
+01,00508,Vĩnh Thanh,xã,phan_con_lai,xã,Kim Nỗ,,117,NQ 1656/NQ-UBTVQH15
+01,09022,Mê Linh,xã,toan_bo,xã,Tráng Việt,,118,NQ 1656/NQ-UBTVQH15
+01,09022,Mê Linh,xã,mot_phan,xã,Tiền Phong,huyện Mê Linh,118,NQ 1656/NQ-UBTVQH15
+01,09022,Mê Linh,xã,mot_phan,xã,Văn Khê,,118,NQ 1656/NQ-UBTVQH15
+01,09022,Mê Linh,xã,mot_phan,xã,Mê Linh,,118,NQ 1656/NQ-UBTVQH15
+01,09022,Mê Linh,xã,mot_phan_dt,xã,Đại Thịnh,,118,NQ 1656/NQ-UBTVQH15
+01,09022,Mê Linh,xã,mot_phan_dt,xã,Hồng Hà,,118,NQ 1656/NQ-UBTVQH15
+01,09022,Mê Linh,xã,phan_con_lai,xã,Liên Hà,huyện Đan Phượng,118,NQ 1656/NQ-UBTVQH15
+01,09022,Mê Linh,xã,phan_con_lai,xã,Liên Hồng,,118,NQ 1656/NQ-UBTVQH15
+01,09022,Mê Linh,xã,phan_con_lai,xã,Liên Trung,,118,NQ 1656/NQ-UBTVQH15
+01,09022,Mê Linh,xã,phan_con_lai,xã,Đại Mạch,,118,NQ 1656/NQ-UBTVQH15
+01,08980,Yên Lãng,xã,toan_bo,xã,Chu Phan,,119,NQ 1656/NQ-UBTVQH15
+01,08980,Yên Lãng,xã,toan_bo,xã,Hoàng Kim,,119,NQ 1656/NQ-UBTVQH15
+01,08980,Yên Lãng,xã,toan_bo,xã,Liên Mạc,,119,NQ 1656/NQ-UBTVQH15
+01,08980,Yên Lãng,xã,mot_phan,xã,Thạch Đà,,119,NQ 1656/NQ-UBTVQH15
+01,08980,Yên Lãng,xã,mot_phan_dt,xã,Văn Khê,,119,NQ 1656/NQ-UBTVQH15
+01,08980,Yên Lãng,xã,phan_con_lai,xã,Tiến Thịnh,,119,NQ 1656/NQ-UBTVQH15
+01,08980,Yên Lãng,xã,phan_con_lai,xã,Trung Châu,,119,NQ 1656/NQ-UBTVQH15
+01,08980,Yên Lãng,xã,phan_con_lai,xã,Thọ Xuân,,119,NQ 1656/NQ-UBTVQH15
+01,08980,Yên Lãng,xã,phan_con_lai,xã,Thọ An,,119,NQ 1656/NQ-UBTVQH15
+01,08980,Yên Lãng,xã,phan_con_lai,xã,Hồng Hà,,119,NQ 1656/NQ-UBTVQH15
+01,08995,Tiến Thắng,xã,toan_bo,xã,Tam Đồng,,120,NQ 1656/NQ-UBTVQH15
+01,08995,Tiến Thắng,xã,toan_bo,xã,Tiến Thắng,,120,NQ 1656/NQ-UBTVQH15
+01,08995,Tiến Thắng,xã,toan_bo,xã,Tự Lập,,120,NQ 1656/NQ-UBTVQH15
+01,08995,Tiến Thắng,xã,mot_phan,xã,Đại Thịnh,,120,NQ 1656/NQ-UBTVQH15
+01,08995,Tiến Thắng,xã,mot_phan,xã,Kim Hoa,,120,NQ 1656/NQ-UBTVQH15
+01,08995,Tiến Thắng,xã,mot_phan,xã,Thanh Lâm,,120,NQ 1656/NQ-UBTVQH15
+01,08995,Tiến Thắng,xã,phan_con_lai,xã,Văn Khê,,120,NQ 1656/NQ-UBTVQH15
+01,08995,Tiến Thắng,xã,phan_con_lai,xã,Thạch Đà,,120,NQ 1656/NQ-UBTVQH15
+01,08974,Quang Minh,xã,toan_bo,thị trấn,Chi Đông,,121,NQ 1656/NQ-UBTVQH15
+01,08974,Quang Minh,xã,toan_bo,thị trấn,Quang Minh,,121,NQ 1656/NQ-UBTVQH15
+01,08974,Quang Minh,xã,phan_con_lai,xã,Mê Linh,,121,NQ 1656/NQ-UBTVQH15
+01,08974,Quang Minh,xã,phan_con_lai,xã,Tiền Phong,huyện Mê Linh,121,NQ 1656/NQ-UBTVQH15
+01,08974,Quang Minh,xã,phan_con_lai,xã,Đại Thịnh,,121,NQ 1656/NQ-UBTVQH15
+01,08974,Quang Minh,xã,phan_con_lai,xã,Kim Hoa,,121,NQ 1656/NQ-UBTVQH15
+01,08974,Quang Minh,xã,phan_con_lai,xã,Thanh Lâm,,121,NQ 1656/NQ-UBTVQH15
+01,00376,Sóc Sơn,xã,toan_bo,thị trấn,Sóc Sơn,,122,NQ 1656/NQ-UBTVQH15
+01,00376,Sóc Sơn,xã,toan_bo,xã,Tân Minh,,122,NQ 1656/NQ-UBTVQH15
+01,00376,Sóc Sơn,xã,toan_bo,xã,Đông Xuân,huyện Sóc Sơn,122,NQ 1656/NQ-UBTVQH15
+01,00376,Sóc Sơn,xã,toan_bo,xã,Phù Lỗ,,122,NQ 1656/NQ-UBTVQH15
+01,00376,Sóc Sơn,xã,toan_bo,xã,Phù Linh,,122,NQ 1656/NQ-UBTVQH15
+01,00376,Sóc Sơn,xã,toan_bo,xã,Tiên Dược,,122,NQ 1656/NQ-UBTVQH15
+01,00376,Sóc Sơn,xã,mot_phan_dt_toanbo_ds,xã,Mai Đình,,122,NQ 1656/NQ-UBTVQH15
+01,00376,Sóc Sơn,xã,mot_phan_dt,xã,Phú Minh,,122,NQ 1656/NQ-UBTVQH15
+01,00376,Sóc Sơn,xã,mot_phan_dt,xã,Quang Tiến,,122,NQ 1656/NQ-UBTVQH15
+01,00430,Đa Phúc,xã,toan_bo,xã,Bắc Phú,,123,NQ 1656/NQ-UBTVQH15
+01,00430,Đa Phúc,xã,toan_bo,xã,Đức Hoà,,123,NQ 1656/NQ-UBTVQH15
+01,00430,Đa Phúc,xã,toan_bo,xã,Kim Lũ,,123,NQ 1656/NQ-UBTVQH15
+01,00430,Đa Phúc,xã,toan_bo,xã,Tân Hưng,,123,NQ 1656/NQ-UBTVQH15
+01,00430,Đa Phúc,xã,toan_bo,xã,Việt Long,,123,NQ 1656/NQ-UBTVQH15
+01,00430,Đa Phúc,xã,toan_bo,xã,Xuân Giang,,123,NQ 1656/NQ-UBTVQH15
+01,00430,Đa Phúc,xã,toan_bo,xã,Xuân Thu,,123,NQ 1656/NQ-UBTVQH15
+01,00433,Nội Bài,xã,toan_bo,xã,Phú Cường,huyện Sóc Sơn,124,NQ 1656/NQ-UBTVQH15
+01,00433,Nội Bài,xã,toan_bo,xã,Hiền Ninh,,124,NQ 1656/NQ-UBTVQH15
+01,00433,Nội Bài,xã,toan_bo,xã,Thanh Xuân,,124,NQ 1656/NQ-UBTVQH15
+01,00433,Nội Bài,xã,phan_con_lai,xã,Mai Đình,,124,NQ 1656/NQ-UBTVQH15
+01,00433,Nội Bài,xã,phan_con_lai,xã,Phú Minh,,124,NQ 1656/NQ-UBTVQH15
+01,00433,Nội Bài,xã,phan_con_lai,xã,Quang Tiến,,124,NQ 1656/NQ-UBTVQH15
+01,00385,Trung Giã,xã,toan_bo,xã,Bắc Sơn,,125,NQ 1656/NQ-UBTVQH15
+01,00385,Trung Giã,xã,toan_bo,xã,Hồng Kỳ,,125,NQ 1656/NQ-UBTVQH15
+01,00385,Trung Giã,xã,toan_bo,xã,Nam Sơn,,125,NQ 1656/NQ-UBTVQH15
+01,00385,Trung Giã,xã,toan_bo,xã,Trung Giã,,125,NQ 1656/NQ-UBTVQH15
+01,00382,Kim Anh,xã,toan_bo,xã,Tân Dân,huyện Sóc Sơn,126,NQ 1656/NQ-UBTVQH15
+01,00382,Kim Anh,xã,toan_bo,xã,Minh Phú,,126,NQ 1656/NQ-UBTVQH15
+01,00382,Kim Anh,xã,toan_bo,xã,Minh Trí,,126,NQ 1656/NQ-UBTVQH15
+25,08515,Hy Cương,xã,toan_bo,xã,Thanh Đình,,1,NQ 1676/NQ-UBTVQH15
+25,08515,Hy Cương,xã,toan_bo,xã,Chu Hóa,,1,NQ 1676/NQ-UBTVQH15
+25,08515,Hy Cương,xã,toan_bo,xã,Hy Cương,,1,NQ 1676/NQ-UBTVQH15
+25,08494,Lâm Thao,xã,toan_bo,thị trấn,Hùng Sơn,,2,NQ 1676/NQ-UBTVQH15
+25,08494,Lâm Thao,xã,toan_bo,thị trấn,Lâm Thao,,2,NQ 1676/NQ-UBTVQH15
+25,08494,Lâm Thao,xã,toan_bo,xã,Thạch Sơn,,2,NQ 1676/NQ-UBTVQH15
+25,08500,Xuân Lũng,xã,toan_bo,xã,Tiên Kiên,,3,NQ 1676/NQ-UBTVQH15
+25,08500,Xuân Lũng,xã,toan_bo,xã,Xuân Huy,,3,NQ 1676/NQ-UBTVQH15
+25,08500,Xuân Lũng,xã,toan_bo,xã,Xuân Lũng,,3,NQ 1676/NQ-UBTVQH15
+25,08521,Phùng Nguyên,xã,toan_bo,xã,Tứ Xã,,4,NQ 1676/NQ-UBTVQH15
+25,08521,Phùng Nguyên,xã,toan_bo,xã,Sơn Vi,,4,NQ 1676/NQ-UBTVQH15
+25,08521,Phùng Nguyên,xã,toan_bo,xã,Phùng Nguyên,,4,NQ 1676/NQ-UBTVQH15
+25,08527,Bản Nguyên,xã,toan_bo,xã,Cao Xá,,5,NQ 1676/NQ-UBTVQH15
+25,08527,Bản Nguyên,xã,toan_bo,xã,Vĩnh Lại,,5,NQ 1676/NQ-UBTVQH15
+25,08527,Bản Nguyên,xã,toan_bo,xã,Bản Nguyên,,5,NQ 1676/NQ-UBTVQH15
+25,08230,Phù Ninh,xã,toan_bo,thị trấn,Phong Châu,,6,NQ 1676/NQ-UBTVQH15
+25,08230,Phù Ninh,xã,toan_bo,xã,Phú Nham,,6,NQ 1676/NQ-UBTVQH15
+25,08230,Phù Ninh,xã,toan_bo,xã,Phú Lộc,,6,NQ 1676/NQ-UBTVQH15
+25,08230,Phù Ninh,xã,toan_bo,xã,Phù Ninh,,6,NQ 1676/NQ-UBTVQH15
+25,08254,Dân Chủ,xã,toan_bo,xã,Bảo Thanh,,7,NQ 1676/NQ-UBTVQH15
+25,08254,Dân Chủ,xã,toan_bo,xã,Trị Quận,,7,NQ 1676/NQ-UBTVQH15
+25,08254,Dân Chủ,xã,toan_bo,xã,Hạ Giáp,,7,NQ 1676/NQ-UBTVQH15
+25,08254,Dân Chủ,xã,toan_bo,xã,Gia Thanh,,7,NQ 1676/NQ-UBTVQH15
+25,08236,Phú Mỹ,xã,toan_bo,xã,Liên Hoa,,8,NQ 1676/NQ-UBTVQH15
+25,08236,Phú Mỹ,xã,toan_bo,xã,Lệ Mỹ,,8,NQ 1676/NQ-UBTVQH15
+25,08236,Phú Mỹ,xã,toan_bo,xã,Phú Mỹ,,8,NQ 1676/NQ-UBTVQH15
+25,08245,Trạm Thản,xã,toan_bo,xã,Tiên Phú,,9,NQ 1676/NQ-UBTVQH15
+25,08245,Trạm Thản,xã,toan_bo,xã,Trung Giáp,,9,NQ 1676/NQ-UBTVQH15
+25,08245,Trạm Thản,xã,toan_bo,xã,Trạm Thản,,9,NQ 1676/NQ-UBTVQH15
+25,08275,Bình Phú,xã,toan_bo,xã,Tiên Du,,10,NQ 1676/NQ-UBTVQH15
+25,08275,Bình Phú,xã,toan_bo,xã,An Đạo,,10,NQ 1676/NQ-UBTVQH15
+25,08275,Bình Phú,xã,toan_bo,xã,Bình Phú,,10,NQ 1676/NQ-UBTVQH15
+25,08152,Thanh Ba,xã,toan_bo,thị trấn,Thanh Ba,,11,NQ 1676/NQ-UBTVQH15
+25,08152,Thanh Ba,xã,toan_bo,xã,Đồng Xuân,,11,NQ 1676/NQ-UBTVQH15
+25,08152,Thanh Ba,xã,toan_bo,xã,Hanh Cù,,11,NQ 1676/NQ-UBTVQH15
+25,08152,Thanh Ba,xã,toan_bo,xã,Vân Lĩnh,,11,NQ 1676/NQ-UBTVQH15
+25,08173,Quảng Yên,xã,toan_bo,xã,Đại An,,12,NQ 1676/NQ-UBTVQH15
+25,08173,Quảng Yên,xã,toan_bo,xã,Đông Lĩnh,,12,NQ 1676/NQ-UBTVQH15
+25,08173,Quảng Yên,xã,toan_bo,xã,Quảng Yên,,12,NQ 1676/NQ-UBTVQH15
+25,08203,Hoàng Cương,xã,toan_bo,xã,Ninh Dân,,13,NQ 1676/NQ-UBTVQH15
+25,08203,Hoàng Cương,xã,toan_bo,xã,Mạn Lạn,,13,NQ 1676/NQ-UBTVQH15
+25,08203,Hoàng Cương,xã,toan_bo,xã,Hoàng Cương,,13,NQ 1676/NQ-UBTVQH15
+25,08209,Đông Thành,xã,toan_bo,xã,Khải Xuân,,14,NQ 1676/NQ-UBTVQH15
+25,08209,Đông Thành,xã,toan_bo,xã,Võ Lao,,14,NQ 1676/NQ-UBTVQH15
+25,08209,Đông Thành,xã,toan_bo,xã,Đông Thành,,14,NQ 1676/NQ-UBTVQH15
+25,08218,Chí Tiên,xã,toan_bo,xã,Sơn Cương,,15,NQ 1676/NQ-UBTVQH15
+25,08218,Chí Tiên,xã,toan_bo,xã,Thanh Hà,,15,NQ 1676/NQ-UBTVQH15
+25,08218,Chí Tiên,xã,toan_bo,xã,Chí Tiên,,15,NQ 1676/NQ-UBTVQH15
+25,08227,Liên Minh,xã,toan_bo,xã,Đỗ Sơn,,16,NQ 1676/NQ-UBTVQH15
+25,08227,Liên Minh,xã,toan_bo,xã,Đỗ Xuyên,,16,NQ 1676/NQ-UBTVQH15
+25,08227,Liên Minh,xã,toan_bo,xã,Lương Lỗ,,16,NQ 1676/NQ-UBTVQH15
+25,07969,Đoan Hùng,xã,toan_bo,thị trấn,Đoan Hùng,,17,NQ 1676/NQ-UBTVQH15
+25,07969,Đoan Hùng,xã,toan_bo,xã,Hợp Nhất,,17,NQ 1676/NQ-UBTVQH15
+25,07969,Đoan Hùng,xã,toan_bo,xã,Ngọc Quan,,17,NQ 1676/NQ-UBTVQH15
+25,08023,Tây Cốc,xã,toan_bo,xã,Phú Lâm,,18,NQ 1676/NQ-UBTVQH15
+25,08023,Tây Cốc,xã,toan_bo,xã,Ca Đình,,18,NQ 1676/NQ-UBTVQH15
+25,08023,Tây Cốc,xã,toan_bo,xã,Tây Cốc,,18,NQ 1676/NQ-UBTVQH15
+25,08038,Chân Mộng,xã,toan_bo,xã,Hùng Long,,19,NQ 1676/NQ-UBTVQH15
+25,08038,Chân Mộng,xã,toan_bo,xã,Yên Kiện,,19,NQ 1676/NQ-UBTVQH15
+25,08038,Chân Mộng,xã,toan_bo,xã,Chân Mộng,,19,NQ 1676/NQ-UBTVQH15
+25,07999,Chí Đám,xã,toan_bo,xã,Hùng Xuyên,,20,NQ 1676/NQ-UBTVQH15
+25,07999,Chí Đám,xã,toan_bo,xã,Chí Đám,,20,NQ 1676/NQ-UBTVQH15
+25,07996,Bằng Luân,xã,toan_bo,xã,Bằng Doãn,,21,NQ 1676/NQ-UBTVQH15
+25,07996,Bằng Luân,xã,toan_bo,xã,Phúc Lai,,21,NQ 1676/NQ-UBTVQH15
+25,07996,Bằng Luân,xã,toan_bo,xã,Bằng Luân,,21,NQ 1676/NQ-UBTVQH15
+25,08053,Hạ Hòa,xã,toan_bo,thị trấn,Hạ Hòa,,22,NQ 1676/NQ-UBTVQH15
+25,08053,Hạ Hòa,xã,toan_bo,xã,Minh Hạc,,22,NQ 1676/NQ-UBTVQH15
+25,08053,Hạ Hòa,xã,toan_bo,xã,Ấm Hạ,,22,NQ 1676/NQ-UBTVQH15
+25,08053,Hạ Hòa,xã,toan_bo,xã,Gia Điền,,22,NQ 1676/NQ-UBTVQH15
+25,08071,Đan Thượng,xã,toan_bo,xã,Tứ Hiệp,,23,NQ 1676/NQ-UBTVQH15
+25,08071,Đan Thượng,xã,toan_bo,xã,Đại Phạm,,23,NQ 1676/NQ-UBTVQH15
+25,08071,Đan Thượng,xã,toan_bo,xã,Hà Lương,,23,NQ 1676/NQ-UBTVQH15
+25,08071,Đan Thượng,xã,toan_bo,xã,Đan Thượng,,23,NQ 1676/NQ-UBTVQH15
+25,08113,Yên Kỳ,xã,toan_bo,xã,Hương Xạ,,24,NQ 1676/NQ-UBTVQH15
+25,08113,Yên Kỳ,xã,toan_bo,xã,Phương Viên,,24,NQ 1676/NQ-UBTVQH15
+25,08113,Yên Kỳ,xã,toan_bo,xã,Yên Kỳ,,24,NQ 1676/NQ-UBTVQH15
+25,08143,Vĩnh Chân,xã,toan_bo,xã,Lang Sơn,,25,NQ 1676/NQ-UBTVQH15
+25,08143,Vĩnh Chân,xã,toan_bo,xã,Yên Luật,,25,NQ 1676/NQ-UBTVQH15
+25,08143,Vĩnh Chân,xã,toan_bo,xã,Vĩnh Chân,,25,NQ 1676/NQ-UBTVQH15
+25,08134,Văn Lang,xã,toan_bo,xã,Vô Tranh,,26,NQ 1676/NQ-UBTVQH15
+25,08134,Văn Lang,xã,toan_bo,xã,Bằng Giã,,26,NQ 1676/NQ-UBTVQH15
+25,08134,Văn Lang,xã,toan_bo,xã,Minh Côi,,26,NQ 1676/NQ-UBTVQH15
+25,08134,Văn Lang,xã,toan_bo,xã,Văn Lang,,26,NQ 1676/NQ-UBTVQH15
+25,08110,Hiền Lương,xã,toan_bo,xã,Hiền Lương,huyện Hạ Hòa,27,NQ 1676/NQ-UBTVQH15
+25,08110,Hiền Lương,xã,toan_bo,xã,Xuân Áng,,27,NQ 1676/NQ-UBTVQH15
+25,08341,Cẩm Khê,xã,toan_bo,thị trấn,Cẩm Khê,,28,NQ 1676/NQ-UBTVQH15
+25,08341,Cẩm Khê,xã,toan_bo,xã,Minh Tân,,28,NQ 1676/NQ-UBTVQH15
+25,08341,Cẩm Khê,xã,toan_bo,xã,Phong Thịnh,,28,NQ 1676/NQ-UBTVQH15
+25,08398,Phú Khê,xã,toan_bo,xã,Hương Lung,,29,NQ 1676/NQ-UBTVQH15
+25,08398,Phú Khê,xã,toan_bo,xã,Phú Khê,,29,NQ 1676/NQ-UBTVQH15
+25,08416,Hùng Việt,xã,toan_bo,xã,Nhật Tiến,,30,NQ 1676/NQ-UBTVQH15
+25,08416,Hùng Việt,xã,toan_bo,xã,Hùng Việt,,30,NQ 1676/NQ-UBTVQH15
+25,08431,Đồng Lương,xã,toan_bo,xã,Điêu Lương,,31,NQ 1676/NQ-UBTVQH15
+25,08431,Đồng Lương,xã,toan_bo,xã,Yên Dưỡng,,31,NQ 1676/NQ-UBTVQH15
+25,08431,Đồng Lương,xã,toan_bo,xã,Đồng Lương,,31,NQ 1676/NQ-UBTVQH15
+25,08344,Tiên Lương,xã,toan_bo,xã,Phượng Vĩ,,32,NQ 1676/NQ-UBTVQH15
+25,08344,Tiên Lương,xã,toan_bo,xã,Minh Thắng,,32,NQ 1676/NQ-UBTVQH15
+25,08344,Tiên Lương,xã,toan_bo,xã,Tiên Lương,,32,NQ 1676/NQ-UBTVQH15
+25,08377,Vân Bán,xã,toan_bo,xã,Tùng Khê,,33,NQ 1676/NQ-UBTVQH15
+25,08377,Vân Bán,xã,toan_bo,xã,Tam Sơn,,33,NQ 1676/NQ-UBTVQH15
+25,08377,Vân Bán,xã,toan_bo,xã,Văn Bán,,33,NQ 1676/NQ-UBTVQH15
+25,08434,Tam Nông,xã,toan_bo,thị trấn,Hưng Hóa,,34,NQ 1676/NQ-UBTVQH15
+25,08434,Tam Nông,xã,toan_bo,xã,Dân Quyền,,34,NQ 1676/NQ-UBTVQH15
+25,08434,Tam Nông,xã,toan_bo,xã,Hương Nộn,,34,NQ 1676/NQ-UBTVQH15
+25,08479,Thọ Văn,xã,toan_bo,xã,Dị Nậu,,35,NQ 1676/NQ-UBTVQH15
+25,08479,Thọ Văn,xã,toan_bo,xã,Tề Lễ,,35,NQ 1676/NQ-UBTVQH15
+25,08479,Thọ Văn,xã,toan_bo,xã,Thọ Văn,,35,NQ 1676/NQ-UBTVQH15
+25,08467,Vạn Xuân,xã,toan_bo,xã,Quang Húc,,36,NQ 1676/NQ-UBTVQH15
+25,08467,Vạn Xuân,xã,toan_bo,xã,Lam Sơn,,36,NQ 1676/NQ-UBTVQH15
+25,08467,Vạn Xuân,xã,toan_bo,xã,Vạn Xuân,,36,NQ 1676/NQ-UBTVQH15
+25,08443,Hiền Quan,xã,toan_bo,xã,Thanh Uyên,,37,NQ 1676/NQ-UBTVQH15
+25,08443,Hiền Quan,xã,toan_bo,xã,Bắc Sơn,,37,NQ 1676/NQ-UBTVQH15
+25,08443,Hiền Quan,xã,toan_bo,xã,Hiền Quan,,37,NQ 1676/NQ-UBTVQH15
+25,08674,Thanh Thủy,xã,toan_bo,xã,Sơn Thủy,huyện Thanh Thủy,38,NQ 1676/NQ-UBTVQH15
+25,08674,Thanh Thủy,xã,toan_bo,xã,Đoan Hạ,,38,NQ 1676/NQ-UBTVQH15
+25,08674,Thanh Thủy,xã,toan_bo,xã,Bảo Yên,,38,NQ 1676/NQ-UBTVQH15
+25,08674,Thanh Thủy,xã,toan_bo,thị trấn,Thanh Thủy,,38,NQ 1676/NQ-UBTVQH15
+25,08662,Đào Xá,xã,toan_bo,xã,Xuân Lộc,,39,NQ 1676/NQ-UBTVQH15
+25,08662,Đào Xá,xã,toan_bo,xã,Thạch Đồng,,39,NQ 1676/NQ-UBTVQH15
+25,08662,Đào Xá,xã,toan_bo,xã,Tân Phương,,39,NQ 1676/NQ-UBTVQH15
+25,08662,Đào Xá,xã,toan_bo,xã,Đào Xá,,39,NQ 1676/NQ-UBTVQH15
+25,08686,Tu Vũ,xã,toan_bo,xã,Đồng Trung,,40,NQ 1676/NQ-UBTVQH15
+25,08686,Tu Vũ,xã,toan_bo,xã,Hoàng Xá,,40,NQ 1676/NQ-UBTVQH15
+25,08686,Tu Vũ,xã,toan_bo,xã,Tu Vũ,,40,NQ 1676/NQ-UBTVQH15
+25,08542,Thanh Sơn,xã,toan_bo,thị trấn,Thanh Sơn,,41,NQ 1676/NQ-UBTVQH15
+25,08542,Thanh Sơn,xã,toan_bo,xã,Sơn Hùng,,41,NQ 1676/NQ-UBTVQH15
+25,08542,Thanh Sơn,xã,toan_bo,xã,Giáp Lai,,41,NQ 1676/NQ-UBTVQH15
+25,08542,Thanh Sơn,xã,toan_bo,xã,Thạch Khoán,,41,NQ 1676/NQ-UBTVQH15
+25,08542,Thanh Sơn,xã,toan_bo,xã,Thục Luyện,,41,NQ 1676/NQ-UBTVQH15
+25,08584,Võ Miếu,xã,toan_bo,xã,Địch Quả,,42,NQ 1676/NQ-UBTVQH15
+25,08584,Võ Miếu,xã,toan_bo,xã,Cự Thắng,,42,NQ 1676/NQ-UBTVQH15
+25,08584,Võ Miếu,xã,toan_bo,xã,Võ Miếu,,42,NQ 1676/NQ-UBTVQH15
+25,08611,Văn Miếu,xã,toan_bo,xã,Tân Lập,,43,NQ 1676/NQ-UBTVQH15
+25,08611,Văn Miếu,xã,toan_bo,xã,Tân Minh,huyện Thanh Sơn,43,NQ 1676/NQ-UBTVQH15
+25,08611,Văn Miếu,xã,toan_bo,xã,Văn Miếu,,43,NQ 1676/NQ-UBTVQH15
+25,08614,Cự Đồng,xã,toan_bo,xã,Tất Thắng,,44,NQ 1676/NQ-UBTVQH15
+25,08614,Cự Đồng,xã,toan_bo,xã,Thắng Sơn,,44,NQ 1676/NQ-UBTVQH15
+25,08614,Cự Đồng,xã,toan_bo,xã,Cự Đồng,,44,NQ 1676/NQ-UBTVQH15
+25,08632,Hương Cần,xã,toan_bo,xã,Yên Lương,,45,NQ 1676/NQ-UBTVQH15
+25,08632,Hương Cần,xã,toan_bo,xã,Yên Lãng,,45,NQ 1676/NQ-UBTVQH15
+25,08632,Hương Cần,xã,toan_bo,xã,Hương Cần,,45,NQ 1676/NQ-UBTVQH15
+25,08656,Yên Sơn,xã,toan_bo,xã,Tinh Nhuệ,,46,NQ 1676/NQ-UBTVQH15
+25,08656,Yên Sơn,xã,toan_bo,xã,Lương Nha,,46,NQ 1676/NQ-UBTVQH15
+25,08656,Yên Sơn,xã,toan_bo,xã,Yên Sơn,,46,NQ 1676/NQ-UBTVQH15
+25,08635,Khả Cửu,xã,toan_bo,xã,Đông Cửu,,47,NQ 1676/NQ-UBTVQH15
+25,08635,Khả Cửu,xã,toan_bo,xã,Thượng Cửu,,47,NQ 1676/NQ-UBTVQH15
+25,08635,Khả Cửu,xã,toan_bo,xã,Khả Cửu,,47,NQ 1676/NQ-UBTVQH15
+25,08566,Tân Sơn,xã,toan_bo,thị trấn,Tân Phú,,48,NQ 1676/NQ-UBTVQH15
+25,08566,Tân Sơn,xã,toan_bo,xã,Thu Ngạc,,48,NQ 1676/NQ-UBTVQH15
+25,08566,Tân Sơn,xã,toan_bo,xã,Thạch Kiệt,,48,NQ 1676/NQ-UBTVQH15
+25,08593,Minh Đài,xã,toan_bo,xã,Mỹ Thuận,,49,NQ 1676/NQ-UBTVQH15
+25,08593,Minh Đài,xã,toan_bo,xã,Văn Luông,,49,NQ 1676/NQ-UBTVQH15
+25,08593,Minh Đài,xã,toan_bo,xã,Minh Đài,,49,NQ 1676/NQ-UBTVQH15
+25,08560,Lai Đồng,xã,toan_bo,xã,Kiệt Sơn,,50,NQ 1676/NQ-UBTVQH15
+25,08560,Lai Đồng,xã,toan_bo,xã,Tân Sơn,,50,NQ 1676/NQ-UBTVQH15
+25,08560,Lai Đồng,xã,toan_bo,xã,Đồng Sơn,,50,NQ 1676/NQ-UBTVQH15
+25,08560,Lai Đồng,xã,toan_bo,xã,Lai Đồng,,50,NQ 1676/NQ-UBTVQH15
+25,08590,Xuân Đài,xã,toan_bo,xã,Kim Thượng,,51,NQ 1676/NQ-UBTVQH15
+25,08590,Xuân Đài,xã,toan_bo,xã,Xuân Sơn,,51,NQ 1676/NQ-UBTVQH15
+25,08590,Xuân Đài,xã,toan_bo,xã,Xuân Đài,,51,NQ 1676/NQ-UBTVQH15
+25,08620,Long Cốc,xã,toan_bo,xã,Tam Thanh,,52,NQ 1676/NQ-UBTVQH15
+25,08620,Long Cốc,xã,toan_bo,xã,Vinh Tiền,,52,NQ 1676/NQ-UBTVQH15
+25,08620,Long Cốc,xã,toan_bo,xã,Long Cốc,,52,NQ 1676/NQ-UBTVQH15
+25,08290,Yên Lập,xã,toan_bo,thị trấn,Yên Lập,,53,NQ 1676/NQ-UBTVQH15
+25,08290,Yên Lập,xã,toan_bo,xã,Đồng Thịnh,huyện Yên Lập,53,NQ 1676/NQ-UBTVQH15
+25,08290,Yên Lập,xã,toan_bo,xã,Hưng Long,,53,NQ 1676/NQ-UBTVQH15
+25,08290,Yên Lập,xã,toan_bo,xã,Đồng Lạc,,53,NQ 1676/NQ-UBTVQH15
+25,08323,Thượng Long,xã,toan_bo,xã,Phúc Khánh,,54,NQ 1676/NQ-UBTVQH15
+25,08323,Thượng Long,xã,toan_bo,xã,Nga Hoàng,,54,NQ 1676/NQ-UBTVQH15
+25,08323,Thượng Long,xã,toan_bo,xã,Thượng Long,,54,NQ 1676/NQ-UBTVQH15
+25,08296,Sơn Lương,xã,toan_bo,xã,Mỹ Lương,,55,NQ 1676/NQ-UBTVQH15
+25,08296,Sơn Lương,xã,toan_bo,xã,Mỹ Lung,,55,NQ 1676/NQ-UBTVQH15
+25,08296,Sơn Lương,xã,toan_bo,xã,Lương Sơn,,55,NQ 1676/NQ-UBTVQH15
+25,08305,Xuân Viên,xã,toan_bo,xã,Xuân Thủy,huyện Yên Lập,56,NQ 1676/NQ-UBTVQH15
+25,08305,Xuân Viên,xã,toan_bo,xã,Xuân An,,56,NQ 1676/NQ-UBTVQH15
+25,08305,Xuân Viên,xã,toan_bo,xã,Xuân Viên,,56,NQ 1676/NQ-UBTVQH15
+25,08338,Minh Hòa,xã,toan_bo,xã,Ngọc Lập,,57,NQ 1676/NQ-UBTVQH15
+25,08338,Minh Hòa,xã,toan_bo,xã,Ngọc Đồng,,57,NQ 1676/NQ-UBTVQH15
+25,08338,Minh Hòa,xã,toan_bo,xã,Minh Hòa,,57,NQ 1676/NQ-UBTVQH15
+25,08824,Tam Sơn,xã,toan_bo,xã,Tân Lập,huyện Sông Lô,58,NQ 1676/NQ-UBTVQH15
+25,08824,Tam Sơn,xã,toan_bo,xã,Đồng Quế,,58,NQ 1676/NQ-UBTVQH15
+25,08824,Tam Sơn,xã,toan_bo,thị trấn,Tam Sơn,,58,NQ 1676/NQ-UBTVQH15
+25,08848,Sông Lô,xã,toan_bo,xã,Đồng Thịnh,huyện Sông Lô,59,NQ 1676/NQ-UBTVQH15
+25,08848,Sông Lô,xã,toan_bo,xã,Tứ Yên,,59,NQ 1676/NQ-UBTVQH15
+25,08848,Sông Lô,xã,toan_bo,xã,Đức Bác,,59,NQ 1676/NQ-UBTVQH15
+25,08848,Sông Lô,xã,toan_bo,xã,Yên Thạch,,59,NQ 1676/NQ-UBTVQH15
+25,08782,Hải Lựu,xã,toan_bo,xã,Nhân Đạo,,60,NQ 1676/NQ-UBTVQH15
+25,08782,Hải Lựu,xã,toan_bo,xã,Đôn Nhân,,60,NQ 1676/NQ-UBTVQH15
+25,08782,Hải Lựu,xã,toan_bo,xã,Phương Khoan,,60,NQ 1676/NQ-UBTVQH15
+25,08782,Hải Lựu,xã,toan_bo,xã,Hải Lựu,,60,NQ 1676/NQ-UBTVQH15
+25,08773,Yên Lãng,xã,toan_bo,xã,Quang Yên,,61,NQ 1676/NQ-UBTVQH15
+25,08773,Yên Lãng,xã,toan_bo,xã,Lãng Công,,61,NQ 1676/NQ-UBTVQH15
+25,08761,Lập Thạch,xã,toan_bo,thị trấn,Lập Thạch,,62,NQ 1676/NQ-UBTVQH15
+25,08761,Lập Thạch,xã,toan_bo,xã,Xuân Hòa,,62,NQ 1676/NQ-UBTVQH15
+25,08761,Lập Thạch,xã,toan_bo,xã,Tử Du,,62,NQ 1676/NQ-UBTVQH15
+25,08761,Lập Thạch,xã,toan_bo,xã,Vân Trục,,62,NQ 1676/NQ-UBTVQH15
+25,08842,Tiên Lữ,xã,toan_bo,xã,Xuân Lôi,,63,NQ 1676/NQ-UBTVQH15
+25,08842,Tiên Lữ,xã,toan_bo,xã,Văn Quán,,63,NQ 1676/NQ-UBTVQH15
+25,08842,Tiên Lữ,xã,toan_bo,xã,Đồng Ích,,63,NQ 1676/NQ-UBTVQH15
+25,08842,Tiên Lữ,xã,toan_bo,xã,Tiên Lữ,,63,NQ 1676/NQ-UBTVQH15
+25,08788,Thái Hòa,xã,toan_bo,xã,Bắc Bình,,64,NQ 1676/NQ-UBTVQH15
+25,08788,Thái Hòa,xã,toan_bo,xã,Liễn Sơn,,64,NQ 1676/NQ-UBTVQH15
+25,08788,Thái Hòa,xã,toan_bo,xã,Thái Hòa,,64,NQ 1676/NQ-UBTVQH15
+25,08812,Liên Hòa,xã,toan_bo,thị trấn,Hoa Sơn,,65,NQ 1676/NQ-UBTVQH15
+25,08812,Liên Hòa,xã,toan_bo,xã,Bàn Giản,,65,NQ 1676/NQ-UBTVQH15
+25,08812,Liên Hòa,xã,toan_bo,xã,Liên Hòa,,65,NQ 1676/NQ-UBTVQH15
+25,08770,Hợp Lý,xã,toan_bo,xã,Ngọc Mỹ,huyện Lập Thạch,66,NQ 1676/NQ-UBTVQH15
+25,08770,Hợp Lý,xã,toan_bo,xã,Quang Sơn,,66,NQ 1676/NQ-UBTVQH15
+25,08770,Hợp Lý,xã,toan_bo,xã,Hợp Lý,,66,NQ 1676/NQ-UBTVQH15
+25,08866,Sơn Đông,xã,toan_bo,xã,Tây Sơn,,67,NQ 1676/NQ-UBTVQH15
+25,08866,Sơn Đông,xã,toan_bo,xã,Cao Phong,,67,NQ 1676/NQ-UBTVQH15
+25,08866,Sơn Đông,xã,toan_bo,xã,Sơn Đông,,67,NQ 1676/NQ-UBTVQH15
+25,08911,Tam Đảo,xã,toan_bo,thị trấn,Hợp Châu,,68,NQ 1676/NQ-UBTVQH15
+25,08911,Tam Đảo,xã,toan_bo,thị trấn,Tam Đảo,,68,NQ 1676/NQ-UBTVQH15
+25,08911,Tam Đảo,xã,toan_bo,xã,Hồ Sơn,,68,NQ 1676/NQ-UBTVQH15
+25,08911,Tam Đảo,xã,toan_bo,xã,Minh Quang,,68,NQ 1676/NQ-UBTVQH15
+25,08923,Đại Đình,xã,toan_bo,thị trấn,Đại Đình,,69,NQ 1676/NQ-UBTVQH15
+25,08923,Đại Đình,xã,toan_bo,xã,Bồ Lý,,69,NQ 1676/NQ-UBTVQH15
+25,08914,Đạo Trù,xã,toan_bo,xã,Yên Dương,,70,NQ 1676/NQ-UBTVQH15
+25,08914,Đạo Trù,xã,toan_bo,xã,Đạo Trù,,70,NQ 1676/NQ-UBTVQH15
+25,08869,Tam Dương,xã,toan_bo,thị trấn,Hợp Hòa,,71,NQ 1676/NQ-UBTVQH15
+25,08869,Tam Dương,xã,toan_bo,thị trấn,Kim Long,,71,NQ 1676/NQ-UBTVQH15
+25,08869,Tam Dương,xã,toan_bo,xã,Hướng Đạo,,71,NQ 1676/NQ-UBTVQH15
+25,08869,Tam Dương,xã,toan_bo,xã,Đạo Tú,,71,NQ 1676/NQ-UBTVQH15
+25,08905,Hội Thịnh,xã,toan_bo,xã,Duy Phiên,,72,NQ 1676/NQ-UBTVQH15
+25,08905,Hội Thịnh,xã,toan_bo,xã,Thanh Vân,,72,NQ 1676/NQ-UBTVQH15
+25,08905,Hội Thịnh,xã,toan_bo,xã,Hội Thịnh,,72,NQ 1676/NQ-UBTVQH15
+25,08896,Hoàng An,xã,toan_bo,xã,Hoàng Đan,,73,NQ 1676/NQ-UBTVQH15
+25,08896,Hoàng An,xã,toan_bo,xã,Hoàng Lâu,,73,NQ 1676/NQ-UBTVQH15
+25,08896,Hoàng An,xã,toan_bo,xã,An Hòa,,73,NQ 1676/NQ-UBTVQH15
+25,08872,Tam Dương Bắc,xã,toan_bo,xã,Đồng Tĩnh,,74,NQ 1676/NQ-UBTVQH15
+25,08872,Tam Dương Bắc,xã,toan_bo,xã,Hoàng Hoa,,74,NQ 1676/NQ-UBTVQH15
+25,08872,Tam Dương Bắc,xã,toan_bo,xã,Tam Quan,,74,NQ 1676/NQ-UBTVQH15
+25,09076,Vĩnh Tường,xã,toan_bo,thị trấn,Vĩnh Tường,,75,NQ 1676/NQ-UBTVQH15
+25,09076,Vĩnh Tường,xã,toan_bo,thị trấn,Tứ Trưng,,75,NQ 1676/NQ-UBTVQH15
+25,09076,Vĩnh Tường,xã,toan_bo,xã,Lương Điền,,75,NQ 1676/NQ-UBTVQH15
+25,09076,Vĩnh Tường,xã,toan_bo,xã,Vũ Di,,75,NQ 1676/NQ-UBTVQH15
+25,09112,Thổ Tang,xã,toan_bo,thị trấn,Thổ Tang,,76,NQ 1676/NQ-UBTVQH15
+25,09112,Thổ Tang,xã,toan_bo,xã,Thượng Trưng,,76,NQ 1676/NQ-UBTVQH15
+25,09112,Thổ Tang,xã,toan_bo,xã,Tuân Chính,,76,NQ 1676/NQ-UBTVQH15
+25,09100,Vĩnh Hưng,xã,toan_bo,xã,Nghĩa Hưng,,77,NQ 1676/NQ-UBTVQH15
+25,09100,Vĩnh Hưng,xã,toan_bo,xã,Yên Lập,,77,NQ 1676/NQ-UBTVQH15
+25,09100,Vĩnh Hưng,xã,toan_bo,xã,Đại Đồng,,77,NQ 1676/NQ-UBTVQH15
+25,09079,Vĩnh An,xã,toan_bo,xã,Kim Xá,,78,NQ 1676/NQ-UBTVQH15
+25,09079,Vĩnh An,xã,toan_bo,xã,Yên Bình,,78,NQ 1676/NQ-UBTVQH15
+25,09079,Vĩnh An,xã,toan_bo,xã,Chấn Hưng,,78,NQ 1676/NQ-UBTVQH15
+25,09154,Vĩnh Phú,xã,toan_bo,xã,An Nhân,,79,NQ 1676/NQ-UBTVQH15
+25,09154,Vĩnh Phú,xã,toan_bo,xã,Vĩnh Thịnh,,79,NQ 1676/NQ-UBTVQH15
+25,09154,Vĩnh Phú,xã,toan_bo,xã,Ngũ Kiên,,79,NQ 1676/NQ-UBTVQH15
+25,09154,Vĩnh Phú,xã,toan_bo,xã,Vĩnh Phú,,79,NQ 1676/NQ-UBTVQH15
+25,09106,Vĩnh Thành,xã,toan_bo,xã,Sao Đại Việt,,80,NQ 1676/NQ-UBTVQH15
+25,09106,Vĩnh Thành,xã,toan_bo,xã,Lũng Hòa,,80,NQ 1676/NQ-UBTVQH15
+25,09106,Vĩnh Thành,xã,toan_bo,xã,Tân Phú,,80,NQ 1676/NQ-UBTVQH15
+25,09025,Yên Lạc,xã,toan_bo,thị trấn,Yên Lạc,,81,NQ 1676/NQ-UBTVQH15
+25,09025,Yên Lạc,xã,toan_bo,xã,Bình Định,,81,NQ 1676/NQ-UBTVQH15
+25,09025,Yên Lạc,xã,toan_bo,xã,Đồng Cương,,81,NQ 1676/NQ-UBTVQH15
+25,09040,Tề Lỗ,xã,toan_bo,xã,Đồng Văn,,82,NQ 1676/NQ-UBTVQH15
+25,09040,Tề Lỗ,xã,toan_bo,xã,Trung Nguyên,,82,NQ 1676/NQ-UBTVQH15
+25,09040,Tề Lỗ,xã,toan_bo,xã,Tề Lỗ,,82,NQ 1676/NQ-UBTVQH15
+25,09064,Liên Châu,xã,toan_bo,xã,Đại Tự,,83,NQ 1676/NQ-UBTVQH15
+25,09064,Liên Châu,xã,toan_bo,xã,Hồng Châu,,83,NQ 1676/NQ-UBTVQH15
+25,09064,Liên Châu,xã,toan_bo,xã,Liên Châu,,83,NQ 1676/NQ-UBTVQH15
+25,09043,Tam Hồng,xã,toan_bo,thị trấn,Tam Hồng,,84,NQ 1676/NQ-UBTVQH15
+25,09043,Tam Hồng,xã,toan_bo,xã,Yên Phương,,84,NQ 1676/NQ-UBTVQH15
+25,09043,Tam Hồng,xã,toan_bo,xã,Yên Đồng,,84,NQ 1676/NQ-UBTVQH15
+25,09052,Nguyệt Đức,xã,toan_bo,xã,Văn Tiến,,85,NQ 1676/NQ-UBTVQH15
+25,09052,Nguyệt Đức,xã,toan_bo,xã,Trung Kiên,,85,NQ 1676/NQ-UBTVQH15
+25,09052,Nguyệt Đức,xã,toan_bo,xã,Trung Hà,,85,NQ 1676/NQ-UBTVQH15
+25,09052,Nguyệt Đức,xã,toan_bo,xã,Nguyệt Đức,,85,NQ 1676/NQ-UBTVQH15
+25,08935,Bình Nguyên,xã,toan_bo,thị trấn,Hương Canh,,86,NQ 1676/NQ-UBTVQH15
+25,08935,Bình Nguyên,xã,toan_bo,xã,Tam Hợp,,86,NQ 1676/NQ-UBTVQH15
+25,08935,Bình Nguyên,xã,toan_bo,xã,Quất Lưu,,86,NQ 1676/NQ-UBTVQH15
+25,08935,Bình Nguyên,xã,toan_bo,xã,Sơn Lôi,,86,NQ 1676/NQ-UBTVQH15
+25,08971,Xuân Lãng,xã,toan_bo,thị trấn,Thanh Lãng,,87,NQ 1676/NQ-UBTVQH15
+25,08971,Xuân Lãng,xã,toan_bo,thị trấn,Đạo Đức,,87,NQ 1676/NQ-UBTVQH15
+25,08971,Xuân Lãng,xã,toan_bo,xã,Tân Phong,,87,NQ 1676/NQ-UBTVQH15
+25,08971,Xuân Lãng,xã,toan_bo,xã,Phú Xuân,,87,NQ 1676/NQ-UBTVQH15
+25,08950,Bình Xuyên,xã,toan_bo,thị trấn,Gia Khánh,,88,NQ 1676/NQ-UBTVQH15
+25,08950,Bình Xuyên,xã,toan_bo,xã,Hương Sơn,,88,NQ 1676/NQ-UBTVQH15
+25,08950,Bình Xuyên,xã,toan_bo,xã,Thiện Kế,,88,NQ 1676/NQ-UBTVQH15
+25,08944,Bình Tuyền,xã,toan_bo,thị trấn,Bá Hiến,,89,NQ 1676/NQ-UBTVQH15
+25,08944,Bình Tuyền,xã,toan_bo,xã,Trung Mỹ,,89,NQ 1676/NQ-UBTVQH15
+25,04897,Thịnh Minh,xã,toan_bo,xã,Hợp Thành,,90,NQ 1676/NQ-UBTVQH15
+25,04897,Thịnh Minh,xã,toan_bo,xã,Quang Tiến,,90,NQ 1676/NQ-UBTVQH15
+25,04897,Thịnh Minh,xã,toan_bo,xã,Thịnh Minh,,90,NQ 1676/NQ-UBTVQH15
+25,05089,Cao Phong,xã,toan_bo,thị trấn,Cao Phong,,91,NQ 1676/NQ-UBTVQH15
+25,05089,Cao Phong,xã,toan_bo,xã,Hợp Phong,,91,NQ 1676/NQ-UBTVQH15
+25,05089,Cao Phong,xã,toan_bo,xã,Thu Phong,,91,NQ 1676/NQ-UBTVQH15
+25,05116,Mường Thàng,xã,toan_bo,xã,Dũng Phong,,92,NQ 1676/NQ-UBTVQH15
+25,05116,Mường Thàng,xã,toan_bo,xã,Nam Phong,,92,NQ 1676/NQ-UBTVQH15
+25,05116,Mường Thàng,xã,toan_bo,xã,Tây Phong,,92,NQ 1676/NQ-UBTVQH15
+25,05116,Mường Thàng,xã,toan_bo,xã,Thạch Yên,,92,NQ 1676/NQ-UBTVQH15
+25,05092,Thung Nai,xã,toan_bo,xã,Bắc Phong,,93,NQ 1676/NQ-UBTVQH15
+25,05092,Thung Nai,xã,toan_bo,xã,Bình Thanh,,93,NQ 1676/NQ-UBTVQH15
+25,05092,Thung Nai,xã,toan_bo,xã,Thung Nai,,93,NQ 1676/NQ-UBTVQH15
+25,04831,Đà Bắc,xã,toan_bo,thị trấn,Đà Bắc,,94,NQ 1676/NQ-UBTVQH15
+25,04831,Đà Bắc,xã,toan_bo,xã,Hiền Lương,huyện Đà Bắc,94,NQ 1676/NQ-UBTVQH15
+25,04831,Đà Bắc,xã,toan_bo,xã,Toàn Sơn,,94,NQ 1676/NQ-UBTVQH15
+25,04831,Đà Bắc,xã,toan_bo,xã,Tú Lý,,94,NQ 1676/NQ-UBTVQH15
+25,04876,Cao Sơn,xã,toan_bo,xã,Tân Minh,,95,NQ 1676/NQ-UBTVQH15
+25,04876,Cao Sơn,xã,toan_bo,xã,Cao Sơn,huyện Đà Bắc,95,NQ 1676/NQ-UBTVQH15
+25,04846,Đức Nhàn,xã,toan_bo,xã,Mường Chiềng,,96,NQ 1676/NQ-UBTVQH15
+25,04846,Đức Nhàn,xã,toan_bo,xã,Nánh Nghê,,96,NQ 1676/NQ-UBTVQH15
+25,04873,Quy Đức,xã,toan_bo,xã,Đoàn Kết,huyện Đà Bắc,97,NQ 1676/NQ-UBTVQH15
+25,04873,Quy Đức,xã,toan_bo,xã,Đồng Ruộng,,97,NQ 1676/NQ-UBTVQH15
+25,04873,Quy Đức,xã,toan_bo,xã,Trung Thành,,97,NQ 1676/NQ-UBTVQH15
+25,04873,Quy Đức,xã,toan_bo,xã,Yên Hoà,,97,NQ 1676/NQ-UBTVQH15
+25,04849,Tân Pheo,xã,toan_bo,xã,Đồng Chum,,98,NQ 1676/NQ-UBTVQH15
+25,04849,Tân Pheo,xã,toan_bo,xã,Giáp Đắt,,98,NQ 1676/NQ-UBTVQH15
+25,04849,Tân Pheo,xã,toan_bo,xã,Tân Pheo,,98,NQ 1676/NQ-UBTVQH15
+25,04891,Tiền Phong,xã,toan_bo,xã,Tiền Phong,,99,NQ 1676/NQ-UBTVQH15
+25,04891,Tiền Phong,xã,mot_phan,xã,Vầy Nưa,,99,NQ 1676/NQ-UBTVQH15
+25,04978,Kim Bôi,xã,toan_bo,thị trấn,Bo,,100,NQ 1676/NQ-UBTVQH15
+25,04978,Kim Bôi,xã,toan_bo,xã,Vĩnh Đồng,,100,NQ 1676/NQ-UBTVQH15
+25,04978,Kim Bôi,xã,toan_bo,xã,Kim Bôi,,100,NQ 1676/NQ-UBTVQH15
+25,05014,Mường Động,xã,toan_bo,xã,Đông Bắc,,101,NQ 1676/NQ-UBTVQH15
+25,05014,Mường Động,xã,toan_bo,xã,Hợp Tiến,,101,NQ 1676/NQ-UBTVQH15
+25,05014,Mường Động,xã,toan_bo,xã,Tú Sơn,,101,NQ 1676/NQ-UBTVQH15
+25,05014,Mường Động,xã,toan_bo,xã,Vĩnh Tiến,,101,NQ 1676/NQ-UBTVQH15
+25,05086,Dũng Tiến,xã,toan_bo,xã,Cuối Hạ,,102,NQ 1676/NQ-UBTVQH15
+25,05086,Dũng Tiến,xã,toan_bo,xã,Mỵ Hòa,,102,NQ 1676/NQ-UBTVQH15
+25,05086,Dũng Tiến,xã,toan_bo,xã,Nuông Dăm,,102,NQ 1676/NQ-UBTVQH15
+25,05068,Hợp Kim,xã,toan_bo,xã,Kim Lập,,103,NQ 1676/NQ-UBTVQH15
+25,05068,Hợp Kim,xã,toan_bo,xã,Nam Thượng,,103,NQ 1676/NQ-UBTVQH15
+25,05068,Hợp Kim,xã,toan_bo,xã,Sào Báy,,103,NQ 1676/NQ-UBTVQH15
+25,04990,Nật Sơn,xã,toan_bo,xã,Xuân Thủy,huyện Kim Bôi,104,NQ 1676/NQ-UBTVQH15
+25,04990,Nật Sơn,xã,toan_bo,xã,Bình Sơn,,104,NQ 1676/NQ-UBTVQH15
+25,04990,Nật Sơn,xã,toan_bo,xã,Đú Sáng,,104,NQ 1676/NQ-UBTVQH15
+25,04990,Nật Sơn,xã,toan_bo,xã,Hùng Sơn,,104,NQ 1676/NQ-UBTVQH15
+25,05266,Lạc Sơn,xã,toan_bo,thị trấn,Vụ Bản,,105,NQ 1676/NQ-UBTVQH15
+25,05266,Lạc Sơn,xã,toan_bo,xã,Hương Nhượng,,105,NQ 1676/NQ-UBTVQH15
+25,05266,Lạc Sơn,xã,toan_bo,xã,Vũ Bình,,105,NQ 1676/NQ-UBTVQH15
+25,05287,Mường Vang,xã,toan_bo,xã,Tân Lập,huyện Lạc Sơn,106,NQ 1676/NQ-UBTVQH15
+25,05287,Mường Vang,xã,toan_bo,xã,Quý Hòa,,106,NQ 1676/NQ-UBTVQH15
+25,05287,Mường Vang,xã,toan_bo,xã,Tuân Đạo,,106,NQ 1676/NQ-UBTVQH15
+25,05347,Đại Đồng,xã,toan_bo,xã,Ân Nghĩa,,107,NQ 1676/NQ-UBTVQH15
+25,05347,Đại Đồng,xã,toan_bo,xã,Tân Mỹ,,107,NQ 1676/NQ-UBTVQH15
+25,05347,Đại Đồng,xã,toan_bo,xã,Yên Nghiệp,,107,NQ 1676/NQ-UBTVQH15
+25,05329,Ngọc Sơn,xã,toan_bo,xã,Ngọc Lâu,,108,NQ 1676/NQ-UBTVQH15
+25,05329,Ngọc Sơn,xã,toan_bo,xã,Tự Do,,108,NQ 1676/NQ-UBTVQH15
+25,05329,Ngọc Sơn,xã,toan_bo,xã,Ngọc Sơn,,108,NQ 1676/NQ-UBTVQH15
+25,05290,Nhân Nghĩa,xã,toan_bo,xã,Mỹ Thành,,109,NQ 1676/NQ-UBTVQH15
+25,05290,Nhân Nghĩa,xã,toan_bo,xã,Văn Nghĩa,,109,NQ 1676/NQ-UBTVQH15
+25,05290,Nhân Nghĩa,xã,toan_bo,xã,Nhân Nghĩa,,109,NQ 1676/NQ-UBTVQH15
+25,05323,Quyết Thắng,xã,toan_bo,xã,Chí Đạo,,110,NQ 1676/NQ-UBTVQH15
+25,05323,Quyết Thắng,xã,toan_bo,xã,Định Cư,,110,NQ 1676/NQ-UBTVQH15
+25,05323,Quyết Thắng,xã,toan_bo,xã,Quyết Thắng,,110,NQ 1676/NQ-UBTVQH15
+25,05293,Thượng Cốc,xã,toan_bo,xã,Miền Đồi,,111,NQ 1676/NQ-UBTVQH15
+25,05293,Thượng Cốc,xã,toan_bo,xã,Văn Sơn,,111,NQ 1676/NQ-UBTVQH15
+25,05293,Thượng Cốc,xã,toan_bo,xã,Thượng Cốc,,111,NQ 1676/NQ-UBTVQH15
+25,05305,Yên Phú,xã,toan_bo,xã,Bình Hẻm,,112,NQ 1676/NQ-UBTVQH15
+25,05305,Yên Phú,xã,toan_bo,xã,Xuất Hóa,,112,NQ 1676/NQ-UBTVQH15
+25,05305,Yên Phú,xã,toan_bo,xã,Yên Phú,,112,NQ 1676/NQ-UBTVQH15
+25,05392,Lạc Thủy,xã,toan_bo,thị trấn,Chi Nê,,113,NQ 1676/NQ-UBTVQH15
+25,05392,Lạc Thủy,xã,toan_bo,xã,Đồng Tâm,,113,NQ 1676/NQ-UBTVQH15
+25,05392,Lạc Thủy,xã,toan_bo,xã,Khoan Dụ,,113,NQ 1676/NQ-UBTVQH15
+25,05392,Lạc Thủy,xã,toan_bo,xã,Yên Bồng,,113,NQ 1676/NQ-UBTVQH15
+25,05425,An Bình,xã,toan_bo,xã,Hưng Thi,,114,NQ 1676/NQ-UBTVQH15
+25,05425,An Bình,xã,toan_bo,xã,Thống Nhất,,114,NQ 1676/NQ-UBTVQH15
+25,05425,An Bình,xã,toan_bo,xã,An Bình,,114,NQ 1676/NQ-UBTVQH15
+25,05395,An Nghĩa,xã,toan_bo,thị trấn,Ba Hàng Đồi,,115,NQ 1676/NQ-UBTVQH15
+25,05395,An Nghĩa,xã,toan_bo,xã,Phú Nghĩa,,115,NQ 1676/NQ-UBTVQH15
+25,05395,An Nghĩa,xã,toan_bo,xã,Phú Thành,,115,NQ 1676/NQ-UBTVQH15
+25,04924,Lương Sơn,xã,toan_bo,thị trấn,Lương Sơn,,116,NQ 1676/NQ-UBTVQH15
+25,04924,Lương Sơn,xã,toan_bo,xã,Hòa Sơn,,116,NQ 1676/NQ-UBTVQH15
+25,04924,Lương Sơn,xã,toan_bo,xã,Lâm Sơn,,116,NQ 1676/NQ-UBTVQH15
+25,04924,Lương Sơn,xã,toan_bo,xã,Nhuận Trạch,,116,NQ 1676/NQ-UBTVQH15
+25,04924,Lương Sơn,xã,toan_bo,xã,Tân Vinh,,116,NQ 1676/NQ-UBTVQH15
+25,04924,Lương Sơn,xã,mot_phan,xã,Cao Sơn,huyện Lương Sơn,116,NQ 1676/NQ-UBTVQH15
+25,05047,Cao Dương,xã,toan_bo,xã,Thanh Cao,,117,NQ 1676/NQ-UBTVQH15
+25,05047,Cao Dương,xã,toan_bo,xã,Thanh Sơn,,117,NQ 1676/NQ-UBTVQH15
+25,05047,Cao Dương,xã,toan_bo,xã,Cao Dương,,117,NQ 1676/NQ-UBTVQH15
+25,04960,Liên Sơn,xã,toan_bo,xã,Cư Yên,,118,NQ 1676/NQ-UBTVQH15
+25,04960,Liên Sơn,xã,toan_bo,xã,Liên Sơn,,118,NQ 1676/NQ-UBTVQH15
+25,04960,Liên Sơn,xã,phan_con_lai,xã,Cao Sơn,huyện Lương Sơn,118,NQ 1676/NQ-UBTVQH15
+25,05200,Mai Châu,xã,toan_bo,thị trấn,Mai Châu,,119,NQ 1676/NQ-UBTVQH15
+25,05200,Mai Châu,xã,toan_bo,xã,Nà Phòn,,119,NQ 1676/NQ-UBTVQH15
+25,05200,Mai Châu,xã,toan_bo,xã,Thành Sơn,,119,NQ 1676/NQ-UBTVQH15
+25,05200,Mai Châu,xã,toan_bo,xã,Tòng Đậu,,119,NQ 1676/NQ-UBTVQH15
+25,05200,Mai Châu,xã,mot_phan,xã,Đồng Tân,,119,NQ 1676/NQ-UBTVQH15
+25,05245,Bao La,xã,toan_bo,xã,Mai Hịch,,120,NQ 1676/NQ-UBTVQH15
+25,05245,Bao La,xã,toan_bo,xã,Xăm Khòe,,120,NQ 1676/NQ-UBTVQH15
+25,05245,Bao La,xã,toan_bo,xã,Bao La,,120,NQ 1676/NQ-UBTVQH15
+25,05251,Mai Hạ,xã,toan_bo,xã,Chiềng Châu,,121,NQ 1676/NQ-UBTVQH15
+25,05251,Mai Hạ,xã,toan_bo,xã,Vạn Mai,,121,NQ 1676/NQ-UBTVQH15
+25,05251,Mai Hạ,xã,toan_bo,xã,Mai Hạ,,121,NQ 1676/NQ-UBTVQH15
+25,05212,Pà Cò,xã,toan_bo,xã,Cun Pheo,,122,NQ 1676/NQ-UBTVQH15
+25,05212,Pà Cò,xã,toan_bo,xã,Hang Kia,,122,NQ 1676/NQ-UBTVQH15
+25,05212,Pà Cò,xã,toan_bo,xã,Pà Cò,,122,NQ 1676/NQ-UBTVQH15
+25,05212,Pà Cò,xã,phan_con_lai,xã,Đồng Tân,,122,NQ 1676/NQ-UBTVQH15
+25,05206,Tân Mai,xã,toan_bo,xã,Sơn Thủy,huyện Mai Châu,123,NQ 1676/NQ-UBTVQH15
+25,05206,Tân Mai,xã,toan_bo,xã,Tân Thành,,123,NQ 1676/NQ-UBTVQH15
+25,05128,Tân Lạc,xã,toan_bo,thị trấn,Mãn Đức,,124,NQ 1676/NQ-UBTVQH15
+25,05128,Tân Lạc,xã,toan_bo,xã,Ngọc Mỹ,huyện Tân Lạc,124,NQ 1676/NQ-UBTVQH15
+25,05128,Tân Lạc,xã,toan_bo,xã,Đông Lai,,124,NQ 1676/NQ-UBTVQH15
+25,05128,Tân Lạc,xã,toan_bo,xã,Thanh Hối,,124,NQ 1676/NQ-UBTVQH15
+25,05128,Tân Lạc,xã,toan_bo,xã,Tử Nê,,124,NQ 1676/NQ-UBTVQH15
+25,05158,Mường Bi,xã,toan_bo,xã,Mỹ Hòa,,125,NQ 1676/NQ-UBTVQH15
+25,05158,Mường Bi,xã,toan_bo,xã,Phong Phú,,125,NQ 1676/NQ-UBTVQH15
+25,05158,Mường Bi,xã,toan_bo,xã,Phú Cường,,125,NQ 1676/NQ-UBTVQH15
+25,05134,Mường Hoa,xã,toan_bo,xã,Phú Vinh,,126,NQ 1676/NQ-UBTVQH15
+25,05134,Mường Hoa,xã,toan_bo,xã,Suối Hoa,,126,NQ 1676/NQ-UBTVQH15
+25,05191,Toàn Thắng,xã,toan_bo,xã,Gia Mô,,127,NQ 1676/NQ-UBTVQH15
+25,05191,Toàn Thắng,xã,toan_bo,xã,Lỗ Sơn,,127,NQ 1676/NQ-UBTVQH15
+25,05191,Toàn Thắng,xã,toan_bo,xã,Nhân Mỹ,,127,NQ 1676/NQ-UBTVQH15
+25,05152,Vân Sơn,xã,toan_bo,xã,Ngổ Luông,,128,NQ 1676/NQ-UBTVQH15
+25,05152,Vân Sơn,xã,toan_bo,xã,Quyết Chiến,,128,NQ 1676/NQ-UBTVQH15
+25,05152,Vân Sơn,xã,toan_bo,xã,Vân Sơn,,128,NQ 1676/NQ-UBTVQH15
+25,05353,Yên Thủy,xã,toan_bo,thị trấn,Hàng Trạm,,129,NQ 1676/NQ-UBTVQH15
+25,05353,Yên Thủy,xã,toan_bo,xã,Lạc Thịnh,,129,NQ 1676/NQ-UBTVQH15
+25,05353,Yên Thủy,xã,toan_bo,xã,Phú Lai,,129,NQ 1676/NQ-UBTVQH15
+25,05362,Lạc Lương,xã,toan_bo,xã,Bảo Hiệu,,130,NQ 1676/NQ-UBTVQH15
+25,05362,Lạc Lương,xã,toan_bo,xã,Đa Phúc,,130,NQ 1676/NQ-UBTVQH15
+25,05362,Lạc Lương,xã,toan_bo,xã,Lạc Sỹ,,130,NQ 1676/NQ-UBTVQH15
+25,05362,Lạc Lương,xã,toan_bo,xã,Lạc Lương,,130,NQ 1676/NQ-UBTVQH15
+25,05386,Yên Trị,xã,toan_bo,xã,Đoàn Kết,huyện Yên Thủy,131,NQ 1676/NQ-UBTVQH15
+25,05386,Yên Trị,xã,toan_bo,xã,Hữu Lợi,,131,NQ 1676/NQ-UBTVQH15
+25,05386,Yên Trị,xã,toan_bo,xã,Ngọc Lương,,131,NQ 1676/NQ-UBTVQH15
+25,05386,Yên Trị,xã,toan_bo,xã,Yên Trị,,131,NQ 1676/NQ-UBTVQH15
+25,07900,Việt Trì,phường,toan_bo,phường,Tân Dân,,132,NQ 1676/NQ-UBTVQH15
+25,07900,Việt Trì,phường,toan_bo,phường,Gia Cẩm,,132,NQ 1676/NQ-UBTVQH15
+25,07900,Việt Trì,phường,toan_bo,phường,Minh Nông,,132,NQ 1676/NQ-UBTVQH15
+25,07900,Việt Trì,phường,toan_bo,phường,Dữu Lâu,,132,NQ 1676/NQ-UBTVQH15
+25,07900,Việt Trì,phường,toan_bo,xã,Trưng Vương,,132,NQ 1676/NQ-UBTVQH15
+25,07894,Nông Trang,phường,toan_bo,phường,Minh Phương,,133,NQ 1676/NQ-UBTVQH15
+25,07894,Nông Trang,phường,toan_bo,phường,Nông Trang,,133,NQ 1676/NQ-UBTVQH15
+25,07894,Nông Trang,phường,toan_bo,xã,Thụy Vân,,133,NQ 1676/NQ-UBTVQH15
+25,07909,Thanh Miếu,phường,toan_bo,phường,Thọ Sơn,,134,NQ 1676/NQ-UBTVQH15
+25,07909,Thanh Miếu,phường,toan_bo,phường,Tiên Cát,,134,NQ 1676/NQ-UBTVQH15
+25,07909,Thanh Miếu,phường,toan_bo,phường,Bạch Hạc,,134,NQ 1676/NQ-UBTVQH15
+25,07909,Thanh Miếu,phường,toan_bo,phường,Thanh Miếu,,134,NQ 1676/NQ-UBTVQH15
+25,07909,Thanh Miếu,phường,toan_bo,xã,Sông Lô,,134,NQ 1676/NQ-UBTVQH15
+25,07918,Vân Phú,phường,toan_bo,phường,Vân Phú,,135,NQ 1676/NQ-UBTVQH15
+25,07918,Vân Phú,phường,toan_bo,xã,Phượng Lâu,,135,NQ 1676/NQ-UBTVQH15
+25,07918,Vân Phú,phường,toan_bo,xã,Hùng Lô,,135,NQ 1676/NQ-UBTVQH15
+25,07918,Vân Phú,phường,toan_bo,xã,Kim Đức,,135,NQ 1676/NQ-UBTVQH15
+25,07942,Phú Thọ,phường,toan_bo,phường,Hùng Vương,thị xã Phú Thọ,136,NQ 1676/NQ-UBTVQH15
+25,07942,Phú Thọ,phường,toan_bo,xã,Văn Lung,,136,NQ 1676/NQ-UBTVQH15
+25,07942,Phú Thọ,phường,toan_bo,xã,Hà Lộc,,136,NQ 1676/NQ-UBTVQH15
+25,07954,Phong Châu,phường,toan_bo,phường,Phong Châu,,137,NQ 1676/NQ-UBTVQH15
+25,07954,Phong Châu,phường,toan_bo,xã,Phú Hộ,,137,NQ 1676/NQ-UBTVQH15
+25,07954,Phong Châu,phường,toan_bo,xã,Hà Thạch,,137,NQ 1676/NQ-UBTVQH15
+25,07948,Âu Cơ,phường,toan_bo,phường,Thanh Vinh,,138,NQ 1676/NQ-UBTVQH15
+25,07948,Âu Cơ,phường,toan_bo,phường,Âu Cơ,,138,NQ 1676/NQ-UBTVQH15
+25,07948,Âu Cơ,phường,toan_bo,xã,Thanh Minh,,138,NQ 1676/NQ-UBTVQH15
+25,08716,Vĩnh Phúc,phường,toan_bo,phường,Định Trung,,139,NQ 1676/NQ-UBTVQH15
+25,08716,Vĩnh Phúc,phường,toan_bo,phường,Liên Bảo,,139,NQ 1676/NQ-UBTVQH15
+25,08716,Vĩnh Phúc,phường,toan_bo,phường,Khai Quang,,139,NQ 1676/NQ-UBTVQH15
+25,08716,Vĩnh Phúc,phường,toan_bo,phường,Ngô Quyền,,139,NQ 1676/NQ-UBTVQH15
+25,08716,Vĩnh Phúc,phường,toan_bo,phường,Đống Đa,,139,NQ 1676/NQ-UBTVQH15
+25,08707,Vĩnh Yên,phường,toan_bo,phường,Tích Sơn,,140,NQ 1676/NQ-UBTVQH15
+25,08707,Vĩnh Yên,phường,toan_bo,phường,Hội Hợp,,140,NQ 1676/NQ-UBTVQH15
+25,08707,Vĩnh Yên,phường,toan_bo,phường,Đồng Tâm,,140,NQ 1676/NQ-UBTVQH15
+25,08707,Vĩnh Yên,phường,toan_bo,xã,Thanh Trù,,140,NQ 1676/NQ-UBTVQH15
+25,08740,Phúc Yên,phường,toan_bo,phường,Hùng Vương,thành phố Phúc Yên,141,NQ 1676/NQ-UBTVQH15
+25,08740,Phúc Yên,phường,toan_bo,phường,Hai Bà Trưng,,141,NQ 1676/NQ-UBTVQH15
+25,08740,Phúc Yên,phường,toan_bo,phường,Phúc Thắng,,141,NQ 1676/NQ-UBTVQH15
+25,08740,Phúc Yên,phường,toan_bo,phường,Tiền Châu,,141,NQ 1676/NQ-UBTVQH15
+25,08740,Phúc Yên,phường,toan_bo,phường,Nam Viêm,,141,NQ 1676/NQ-UBTVQH15
+25,08746,Xuân Hòa,phường,toan_bo,phường,Đồng Xuân,,142,NQ 1676/NQ-UBTVQH15
+25,08746,Xuân Hòa,phường,toan_bo,phường,Xuân Hòa,,142,NQ 1676/NQ-UBTVQH15
+25,08746,Xuân Hòa,phường,toan_bo,xã,Cao Minh,,142,NQ 1676/NQ-UBTVQH15
+25,08746,Xuân Hòa,phường,toan_bo,xã,Ngọc Thanh,,142,NQ 1676/NQ-UBTVQH15
+25,04795,Hòa Bình,phường,toan_bo,phường,Đồng Tiến,,143,NQ 1676/NQ-UBTVQH15
+25,04795,Hòa Bình,phường,toan_bo,phường,Hữu Nghị,,143,NQ 1676/NQ-UBTVQH15
+25,04795,Hòa Bình,phường,toan_bo,phường,Phương Lâm,,143,NQ 1676/NQ-UBTVQH15
+25,04795,Hòa Bình,phường,toan_bo,phường,Quỳnh Lâm,,143,NQ 1676/NQ-UBTVQH15
+25,04795,Hòa Bình,phường,toan_bo,phường,Tân Thịnh,,143,NQ 1676/NQ-UBTVQH15
+25,04795,Hòa Bình,phường,toan_bo,phường,Thịnh Lang,,143,NQ 1676/NQ-UBTVQH15
+25,04795,Hòa Bình,phường,toan_bo,phường,Trung Minh,,143,NQ 1676/NQ-UBTVQH15
+25,04894,Kỳ Sơn,phường,toan_bo,phường,Kỳ Sơn,,144,NQ 1676/NQ-UBTVQH15
+25,04894,Kỳ Sơn,phường,toan_bo,xã,Độc Lập,,144,NQ 1676/NQ-UBTVQH15
+25,04894,Kỳ Sơn,phường,toan_bo,xã,Mông Hóa,,144,NQ 1676/NQ-UBTVQH15
+25,04792,Tân Hòa,phường,toan_bo,phường,Tân Hòa,,145,NQ 1676/NQ-UBTVQH15
+25,04792,Tân Hòa,phường,toan_bo,xã,Hòa Bình,,145,NQ 1676/NQ-UBTVQH15
+25,04792,Tân Hòa,phường,toan_bo,xã,Yên Mông,,145,NQ 1676/NQ-UBTVQH15
+25,04828,Thống Nhất,phường,toan_bo,phường,Dân Chủ,,146,NQ 1676/NQ-UBTVQH15
+25,04828,Thống Nhất,phường,toan_bo,phường,Thái Bình,,146,NQ 1676/NQ-UBTVQH15
+25,04828,Thống Nhất,phường,toan_bo,phường,Thống Nhất,,146,NQ 1676/NQ-UBTVQH15
+25,04828,Thống Nhất,phường,phan_con_lai,xã,Vầy Nưa,,146,NQ 1676/NQ-UBTVQH15
+25,08545,Thu Cúc,xã,giu_nguyen,xã,Thu Cúc,,0,NQ 1676/NQ-UBTVQH15
+25,08311,Trung Sơn,xã,giu_nguyen,xã,Trung Sơn,,0,NQ 1676/NQ-UBTVQH15

@@ -1,0 +1,128 @@
+{
+  "ward_code": "08662",
+  "ward_name": "Đào Xá",
+  "province_code": "25",
+  "resolution": "",
+  "arrangement": "truoc_2026_07",
+  "effective_date": "",
+  "verified": "unverified",
+  "extraction": {
+    "source": "vi.wikipedia.org",
+    "title": "(cache)",
+    "mode": "narrative"
+  },
+  "sources": [
+    {
+      "key": "wiki-08662-1",
+      "title": "Danh sách Thôn vùng đồng bào dân tộc thiểu số và miền núi, thôn đặc biệt khó khăn giai đoạn 2026 - 2030 trên địa bàn tỉnh Phú Thọ",
+      "url": "http://files.ubdt.gov.vn/files/ecm/source_files/2026/02/05/11252411_4.%20Ph%C3%BA%20Th%E1%BB%8D%201%20(th%C3%B4n).signed_26-02-05.pdf",
+      "date": "2026-01-29",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-08662-2",
+      "title": "Giới thiệu danh sách người ứng cử đại biểu Hội đồng nhân dân xã Đào Xá nhiệm kỳ 2026 - 2031 tại Đơn vị bầu cử số 1, gồm các khu dân cư số 1, 2, 3, 4, 5 (Xuân Lộc cũ)",
+      "url": "https://web.facebook.com/story.php?story_fbid=122162920904932024&id=61577960740205&rdid=dc4A1bMsL2OitMKF#",
+      "date": "2026-03-04",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-08662-3",
+      "title": "Giới thiệu danh sách người ứng cử đại biểu Hội đồng nhân dân xã Đào Xá nhiệm kỳ 2026 - 2031 tại Đơn vị bầu cử số 2, gồm các khu dân cư số 6, 7, 8 (Xuân Lộc cũ) và Khu dân cư số 6, 7, 8 (Thạch Đồng cũ)",
+      "url": "https://web.facebook.com/story.php?story_fbid=122162924756932024&id=61577960740205&rdid=0AqTRgAiYhYUWcwv#",
+      "date": "2026-03-04",
+      "type": "wikipedia-ref"
+    }
+  ],
+  "note": "Trích tự động từ Wikipedia tiếng Việt (mode=narrative). Cần đối chiếu nghị quyết HĐND phường/xã. ⚠️ Danh mục có thể là hiện trạng TRƯỚC sắp xếp thôn/TDP 01/7/2026 — Wikipedia chưa cập nhật nghị quyết mới.",
+  "tdp": [
+    {
+      "name": "1",
+      "type": "khu"
+    },
+    {
+      "name": "2",
+      "type": "khu"
+    },
+    {
+      "name": "3",
+      "type": "khu"
+    },
+    {
+      "name": "4",
+      "type": "khu"
+    },
+    {
+      "name": "5",
+      "type": "khu"
+    },
+    {
+      "name": "6",
+      "type": "khu"
+    },
+    {
+      "name": "7",
+      "type": "khu"
+    },
+    {
+      "name": "8",
+      "type": "khu"
+    },
+    {
+      "name": "9",
+      "type": "khu"
+    },
+    {
+      "name": "10",
+      "type": "khu"
+    },
+    {
+      "name": "11",
+      "type": "khu"
+    },
+    {
+      "name": "12",
+      "type": "khu"
+    },
+    {
+      "name": "13",
+      "type": "khu"
+    },
+    {
+      "name": "14",
+      "type": "khu"
+    },
+    {
+      "name": "15",
+      "type": "khu"
+    },
+    {
+      "name": "16",
+      "type": "khu"
+    },
+    {
+      "name": "17",
+      "type": "khu"
+    },
+    {
+      "name": "18",
+      "type": "khu"
+    },
+    {
+      "name": "19 (xã Đào Xá cũ)",
+      "type": "khu"
+    },
+    {
+      "name": "8 (xã Tân Phương cũ)",
+      "type": "khu"
+    },
+    {
+      "name": "8 (xã Thạch Đồng cũ)",
+      "type": "khu"
+    },
+    {
+      "name": "8 (xã Xuân Lộc cũ)",
+      "type": "khu"
+    }
+  ]
+}

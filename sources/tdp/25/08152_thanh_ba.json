@@ -1,0 +1,236 @@
+{
+  "ward_code": "08152",
+  "ward_name": "Thanh Ba",
+  "province_code": "25",
+  "resolution": "",
+  "arrangement": "truoc_2026_07",
+  "effective_date": "",
+  "verified": "unverified",
+  "extraction": {
+    "source": "vi.wikipedia.org",
+    "title": "Thanh Ba (xã)",
+    "mode": "narrative"
+  },
+  "sources": [
+    {
+      "key": "wiki-08152-1",
+      "title": "Nghị quyết số 828/NQ-UBTVQH14 của ỦY BAN THƯỜNG VỤ QUỐC HỘI: Về việc sắp xếp các đơn vị hành chính cấp xã thuộc tỉnh Phú Thọ",
+      "url": "http://vanban.chinhphu.vn/default.aspx?pageid=27160&docid=198693",
+      "date": "2026-06-30",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-08152-2",
+      "title": "Nghị quyết số 111/2025/UBTVQH15 về phân loại đô thị",
+      "url": "https://xaydungchinhsach.chinhphu.vn/nghi-quyet-so-111-2025-ubtvqh15-ve-phan-loai-do-thi-119260101170432239.htm",
+      "date": "2026-01-21",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-08152-3",
+      "title": "Danh sách Thôn vùng đồng bào dân tộc thiểu số và miền núi, thôn đặc biệt khó khăn giai đoạn 2026 - 2030 trên địa bàn tỉnh Phú Thọ",
+      "url": "http://files.ubdt.gov.vn/files/ecm/source_files/2026/02/05/11252411_4.%20Ph%C3%BA%20Th%E1%BB%8D%201%20(th%C3%B4n).signed_26-02-05.pdf",
+      "date": "2026-01-29",
+      "type": "wikipedia-ref"
+    }
+  ],
+  "note": "Trích tự động từ Wikipedia tiếng Việt (mode=narrative). Cần đối chiếu nghị quyết HĐND phường/xã. ⚠️ Danh mục có thể là hiện trạng TRƯỚC sắp xếp thôn/TDP 01/7/2026 — Wikipedia chưa cập nhật nghị quyết mới.",
+  "tdp": [
+    {
+      "name": "1 Đồng Xuân",
+      "type": "khu"
+    },
+    {
+      "name": "2 Đồng Xuân",
+      "type": "khu"
+    },
+    {
+      "name": "3 Đồng Xuân",
+      "type": "khu"
+    },
+    {
+      "name": "4 Đồng Xuân",
+      "type": "khu"
+    },
+    {
+      "name": "5 Đồng Xuân",
+      "type": "khu"
+    },
+    {
+      "name": "6 Đồng Xuân",
+      "type": "khu"
+    },
+    {
+      "name": "7 Đồng Xuân",
+      "type": "khu"
+    },
+    {
+      "name": "8 Đồng Xuân",
+      "type": "khu"
+    },
+    {
+      "name": "1 Hanh Cù",
+      "type": "khu"
+    },
+    {
+      "name": "2 Hanh Cù",
+      "type": "khu"
+    },
+    {
+      "name": "3 Hanh Cù",
+      "type": "khu"
+    },
+    {
+      "name": "4 Hanh Cù",
+      "type": "khu"
+    },
+    {
+      "name": "5 Hanh Cù",
+      "type": "khu"
+    },
+    {
+      "name": "6 Hanh Cù",
+      "type": "khu"
+    },
+    {
+      "name": "7 Hanh Cù",
+      "type": "khu"
+    },
+    {
+      "name": "8 Hanh Cù",
+      "type": "khu"
+    },
+    {
+      "name": "9 Hanh Cù",
+      "type": "khu"
+    },
+    {
+      "name": "10 Hanh Cù",
+      "type": "khu"
+    },
+    {
+      "name": "11 Hanh Cù",
+      "type": "khu"
+    },
+    {
+      "name": "12 Hanh Cù",
+      "type": "khu"
+    },
+    {
+      "name": "13 Hanh Cù",
+      "type": "khu"
+    },
+    {
+      "name": "14 Hanh Cù",
+      "type": "khu"
+    },
+    {
+      "name": "15 Hanh Cù",
+      "type": "khu"
+    },
+    {
+      "name": "16 Hanh Cù",
+      "type": "khu"
+    },
+    {
+      "name": "17 Hanh Cù",
+      "type": "khu"
+    },
+    {
+      "name": "18 Hanh Cù",
+      "type": "khu"
+    },
+    {
+      "name": "19 Hanh Cù",
+      "type": "khu"
+    },
+    {
+      "name": "20 Hanh Cù",
+      "type": "khu"
+    },
+    {
+      "name": "21 Hanh Cù",
+      "type": "khu"
+    },
+    {
+      "name": "22 Hanh Cù",
+      "type": "khu"
+    },
+    {
+      "name": "23 Hanh Cù",
+      "type": "khu"
+    },
+    {
+      "name": "24 Hanh Cù",
+      "type": "khu"
+    },
+    {
+      "name": "25 Hanh Cù",
+      "type": "khu"
+    },
+    {
+      "name": "26 Hanh Cù",
+      "type": "khu"
+    },
+    {
+      "name": "2 Thị trấn Thanh Ba",
+      "type": "khu"
+    },
+    {
+      "name": "3 Thị trấn Thanh Ba",
+      "type": "khu"
+    },
+    {
+      "name": "4 Thị trấn Thanh Ba",
+      "type": "khu"
+    },
+    {
+      "name": "5 Thị trấn Thanh Ba",
+      "type": "khu"
+    },
+    {
+      "name": "6 Thị trấn Thanh Ba",
+      "type": "khu"
+    },
+    {
+      "name": "8 Thị trấn Thanh Ba",
+      "type": "khu"
+    },
+    {
+      "name": "9 Thị trấn Thanh Ba",
+      "type": "khu"
+    },
+    {
+      "name": "10 Thị trấn Thanh Ba",
+      "type": "khu"
+    },
+    {
+      "name": "11 Thị trấn Thanh Ba",
+      "type": "khu"
+    },
+    {
+      "name": "12 Thị trấn Thanh Ba",
+      "type": "khu"
+    },
+    {
+      "name": "1 Vân Lĩnh",
+      "type": "khu"
+    },
+    {
+      "name": "2 Vân Lĩnh",
+      "type": "khu"
+    },
+    {
+      "name": "3 Vân Lĩnh",
+      "type": "khu"
+    },
+    {
+      "name": "4 Vân Lĩnh",
+      "type": "khu"
+    },
+    {
+      "name": "5 Vân Lĩnh",
+      "type": "khu"
+    }
+  ]
+}

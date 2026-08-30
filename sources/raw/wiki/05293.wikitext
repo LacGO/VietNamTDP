@@ -1,0 +1,53 @@
+{{Thông tin đơn vị hành chính Việt Nam | xã
+| tên = Thượng Cốc
+| hình = 
+| ghi chú hình = 
+| vĩ độ = 20.51927086555158
+| kinh độ = 105.39765128141696
+| diện tích = 58,37 km²<ref name=MS/>
+| dân số = 18.430 người<ref name=MS/>
+| thời điểm dân số = 2025
+| mật độ dân số = {{formatnum:{{#expr:floor({{formatnum:18.430|R}}/{{formatnum:58,37|R}})}} }} người/km²
+| vùng = [[Đông Bắc Bộ]]
+| tỉnh = [[Phú Thọ]]
+| thành lập = 1956<ref>Quyết định số 566/QĐ-LK3</ref>
+| trụ sở UBND =Xóm Ráy 
+| mã hành chính = 05293<ref>{{Chú thích web |url=https://danhmuchanhchinh.gso.gov.vn/ |title=Tổng cục Thống kê |access-date=2022-03-24 |archive-date=2021-01-10 |archive-url=https://web.archive.org/web/20210110034519/https://www.gso.gov.vn/phuong-phap-thong-ke/danh-muc/don-vi-hanh-chinh/ |url-status=dead }}</ref>
+| mã bưu chính =36618 
+|web={{url|thuongcoc.phutho.gov.vn}}
+}}
+{{other|Thượng Cốc (định hướng)}}
+'''Thượng Cốc''' là một [[Xã (Việt Nam)|xã]] thuộc tỉnh [[Phú Thọ]], [[Việt Nam]].
+
+== Địa lý ==
+Xã Thượng Cốc nằm ở phía Nam tỉnh [[Phú Thọ]], có vị trí địa lý<ref>{{Chú thích web |title=Đơn vị hành chính Việt Nam |url=https://sapnhap.bando.com.vn/ |access-date=2026-07-04 |website=sapnhap.bando.com.vn}}</ref>:
+
+* Phía Bắc giáp xã [[Mường Động]].
+* Phía Nam giáp xã [[Quyết Thắng, Phú Thọ|Quyết Thắng]].
+* Phía Tây giáp xã [[Mường Thàng]] và xã [[Tân Lạc (xã)|Tân Lạc]].
+* Phía Đông giáp xã [[Mường Vang]], xã [[Nhân Nghĩa]] và xã [[Yên Phú, Phú Thọ|Yên Phú]].
+
+Xã có diện tích 58,37&nbsp;km², dân số năm 2025 là 18.430 người, mật độ dân số đạt {{formatnum:{{#expr:floor({{formatnum:18.430|R}}/{{formatnum:58,37|R}})}} }} người/km².
+
+==Hành chính==
+Xã Thượng Cốc được chia thành 28 xóm: Anh, Cáo, Cốc, Dóm Bái, Đồng Tâm, Khang Trào, Khặng Vát, Khụ, La Văn Cầu, Lội Mương, Luống, Mận Bùi, Mè Cổm, Mới, Ốc, Ráy, Răng Thiển, Rậm Cọ, Rểnh, Rộc Khửm, Thăn, Thây Voi, Thượng Riêng, Trang 1, Trang 2, Tre, Tre Báng, Vôi Hạ.<ref name=":1">{{Chú thích web |last=Bộ Dân tộc và Tôn giáo |date=2026-01-29 |title=Danh sách Thôn vùng đồng bào dân tộc thiểu số và miền núi, thôn đặc biệt khó khăn giai đoạn 2026 - 2030 trên địa bàn tỉnh Phú Thọ |url=http://files.ubdt.gov.vn/files/ecm/source_files/2026/02/05/11252411_4.%20Ph%C3%BA%20Th%E1%BB%8D%201%20(th%C3%B4n).signed_26-02-05.pdf |url-status=live |archive-url=https://web.archive.org/web/20260417090807/http://files.ubdt.gov.vn/files/ecm/source_files/2026/02/05/11252411_4.%20Ph%C3%BA%20Th%E1%BB%8D%201%20(th%C3%B4n).signed_26-02-05.pdf |archive-date=2026-04-17 |access-date=2026-04-17 |website=Cổng Thông tin điện tử Bộ Dân tộc và Tôn giáo}}</ref><ref>{{Chú thích web |last=Ủy ban nhân dân xã Thượng Cốc |date=2026-02-02 |title=Thông báo số 20/TB-UBND về việc Niêm yết danh sách cử tri bầu cử đại biểu Quốc hội khóa XVI và bầu cử Hội đồng nhân dân các cấp nhiệm kỳ 2026 - 2031 |url=https://web.facebook.com/story.php?story_fbid=122114261655143079&id=61584292379239&rdid=RCbHXTif4zTx8nbV# |url-status=live |archive-url=https://web.archive.org/web/20260425090807/https://web.facebook.com/story.php?story_fbid=122114261655143079&id=61584292379239&rdid=RCbHXTif4zTx8nbV# |archive-date=2026-04-25 |access-date=2026-04-25 |website=Trung Tâm Dịch Vụ Sự Nghiệp Công Xã Thượng Cốc Tỉnh Phú Thọ}}</ref>
+
+==Lịch sử==
+Trước kia, Thượng Cốc là một xã thuộc huyện [[Lạc Sơn (huyện)|Lạc Sơn]], tỉnh [[Hòa Bình (tỉnh)|Hòa Bình]] cũ.
+
+Ngày [[15 tháng 9]] năm [[1956]], [[Chính phủ Việt Nam|Chính phủ]] ban hành Quyết định số 566/QĐ-LK3 về việc chia xã Kiến Thiết thành 5 xã: Phúc Tuy, Chí Thiện, Ngọc Mỹ, Văn Sơn và Thượng Cốc.
+
+Ngày [[12 tháng 6]] năm [[2025]], [[Quốc hội Việt Nam|Quốc hội]] ban hành Nghị quyết số 202/2025/QH15 về việc sắp xếp đơn vị hành chính cấp tỉnh (nghị quyết có hiệu lực từ ngày [[12 tháng 6]] năm [[2025]]).<ref>{{Chú thích web|last=xaydungchinhsach.chinhphu.vn|date=2025-07-16|title=TOÀN VĂN: Nghị quyết số 202/2025/QH15 về sắp xếp đơn vị hành chính cấp tỉnh|url=https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-202-2025-qh15-ve-sap-xep-don-vi-hanh-chinh-cap-tinh-119250612174148722.htm|url-status=live|archive-url=https://web.archive.org/web/20260705025431/https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-202-2025-qh15-ve-sap-xep-don-vi-hanh-chinh-cap-tinh-119250612174148722.htm|archive-date=2026-07-05|access-date=2026-07-25|website=Báo Điện tử Chính phủ|language=vi}}</ref> Theo đó, sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của tỉnh [[Vĩnh Phúc (tỉnh)|Vĩnh Phúc]], tỉnh [[Hòa Bình (tỉnh)|Hòa Bình]] và tỉnh [[Phú Thọ]] thành tỉnh mới có tên gọi là tỉnh '''Phú Thọ'''.
+
+Ngày [[16 tháng 6]] năm [[2025]]:
+
+* Quốc hội ban hành Nghị quyết số 203/2025/QH15 về việc sửa đổi, bổ sung một số điều của Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam (nghị quyết có hiệu lực từ ngày [[16 tháng 6]] năm [[2025]]).<ref>{{Chú thích web |last=xaydungchinhsach.chinhphu.vn |date=2025-06-28 |title=NGHỊ QUYẾT 203/2025/QH15 SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA HIẾN PHÁP NƯỚC CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM |url=https://xaydungchinhsach.chinhphu.vn/nghi-quyet-203-2025-qh15-sua-doi-bo-sung-mot-so-dieu-cua-hien-phap-nuoc-cong-hoa-xa-hoi-chu-nghia-viet-nam-119250616181735552.htm |url-status=live |archive-url=https://web.archive.org/web/20260715200606/https://xaydungchinhsach.chinhphu.vn/nghi-quyet-203-2025-qh15-sua-doi-bo-sung-mot-so-dieu-cua-hien-phap-nuoc-cong-hoa-xa-hoi-chu-nghia-viet-nam-119250616181735552.htm |archive-date=2026-07-15 |access-date=2026-07-15 |website=Báo Điện tử Chính phủ |language=vi }}</ref> Theo đó, kết thúc hoạt động của đơn vị hành chính cấp huyện trong cả nước từ ngày 1 tháng 7 năm 2025.
+
+* [[Ủy ban Thường vụ Quốc hội]] ban hành Nghị quyết số 1676/NQ-UBTVQH15 về việc sắp xếp đơn vị hành chính cấp xã của tỉnh [[Phú Thọ]] năm 2025 (nghị quyết có hiệu lực từ ngày [[16 tháng 6]] năm [[2025]]).<ref>{{Chú thích web |last=xaydungchinhsach.chinhphu.vn |date=2025-06-20 |title=Nghị quyết số 1676/NQ-UBTVQH15 sắp xếp các ĐVHC cấp xã của tỉnh Phú Thọ năm 2025 |url=https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-1676-nq-ubtvqh15-sap-xep-cac-dvhc-cap-xa-cua-tinh-phu-tho-nam-2025-119250616204317326.htm |url-status=live |archive-url=https://web.archive.org/web/20260725082021/https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-1676-nq-ubtvqh15-sap-xep-cac-dvhc-cap-xa-cua-tinh-phu-tho-nam-2025-119250616204317326.htm |archive-date=2026-07-25 |access-date=2026-07-25 |website=Báo Điện tử Chính phủ |language=vi }}</ref> Theo đó, sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của các xã Miền Đồi, Văn Sơn và Thượng Cốc thành xã mới có tên gọi là '''xã Thượng Cốc'''.
+
+==Chú thích==
+{{tham khảo|30em}}
+
+== Tham khảo ==
+{{sơ khai Phú Thọ}}
+{{Đơn vị hành chính thuộc tỉnh Phú Thọ}}

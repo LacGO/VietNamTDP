@@ -1,0 +1,393 @@
+{{Thông tin đơn vị hành chính Việt Nam|Xã
+| tên = Ô Diên
+| hình = TuongdaiToHienThanh.png
+| ghi chú hình = Tượng đài Thái úy, danh nhân Tô Hiến Thành tại đền Văn Hiến, thôn Hạ Mỗ
+| vĩ độ = 21.093612069246213
+| kinh độ = 105.69854036133242
+| diện tích = 32,06 km²
+| dân số = 97.505 người
+| thời điểm dân số = 2025
+| mật độ dân số = {{formatnum:{{#expr:floor({{formatnum:97.505| R}}/{{formatnum:32,06| R}})}} }} người/km²
+| thành phố = [[Hà Nội]]
+| thành lập = 
+| vùng = [[Đồng bằng sông Hồng]]
+| mã hành chính =09817<ref>{{Chú thích web |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/19ttg.signed.pdf |title=Quyết định số 19/2025/QĐ-TTg ngày 30 tháng 6 năm 2025 của Thủ tướng Chính phủ về việc Ban hành Bảng danh mục và mã số các đơn vị hành chính Việt Nam |access-date=2026-06-15 |archive-date=2026-06-15 |archive-url=https://web.archive.org/web/20260615034519/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/19ttg.signed.pdf |url-status=dead | website = Cổng Thông tin điện tử Chính phủ}}</ref> 
+| web = {{url|odien.hanoi.gov.vn}}
+| trụ sở UBND = Số 3 đường Phan Xích<ref>{{Chú thích web |url=https://storage-vnportal.vnpt.vn/gov-hni/6244/VanBan/2025/6/25/TB-729-2025.pdf |title=Thông báo số 729/TB-UBND ngày 25 tháng 6 năm 2025 của Ủy ban nhân dân thành phố Hà Nội về địa điểm trụ sở làm việc của 126 phường, xã sau sắp xếp thuộc phạm vi quản lý của thành phố Hà Nội|access-date=2026-06-15 |archive-date=2026-06-15 |archive-url=https://web.archive.org/web/20260615034519/https://storage-vnportal.vnpt.vn/gov-hni/6244/VanBan/2025/6/25/TB-729-2025.pdf |url-status=dead | website = Cổng Thông tin điện tử Ủy ban nhân dân thành phố Hà Nội}}</ref>
+|bản đồ 1={{maplink|frame=yes|plain=yes|type=shape|frame-width=280|frame-align=center|stroke-width=3}}|trụ sở Đảng ủy=Đường Đan Hoài, thôn Duyên Thành}}
+
+'''Ô Diên''' là một [[xã]] thuộc thành phố [[Hà Nội]], [[Việt Nam]]. Nơi đây được cho là có dấu tích thành cổ Ô Diên dưới thời [[Hậu Lý Nam Đế]].<ref>{{Chú thích web | date = 24 tháng 2 năm 2025 | title = Lần tìm dấu tích lịch sử thành cổ Ô Diên | url = https://baovanhoa.vn/van-hoa/lan-tim-dau-tich-lich-su-thanh-co-o-dien-121970.html|access-date=2026-07-07|website=Báo Văn hóa|last=Bảo Ngân|archive-url=https://web.archive.org/web/20260707400809/https://baovanhoa.vn/van-hoa/lan-tim-dau-tich-lich-su-thanh-co-o-dien-121970.html|archive-date=2026-07-07|url-status=live}}</ref>
+
+== Địa lý== 
+Xã Ô Diên có vị trí địa lý:
+
+* Phía đông giáp phường [[Thượng Cát]] và phường [[Tây Tựu]]
+* Phía tây giáp xã [[Liên Minh, Hà Nội|Liên Minh]] và xã [[Đan Phượng (xã)|Đan Phượng]]
+* Phía nam giáp xã [[Hoài Đức (xã)|Hoài Đức]]
+* Phía bắc giáp xã [[Yên Lãng, Hà Nội|Yên Lãng]] và xã [[Mê Linh (xã)|Mê Linh]] với ranh giới tự nhiên là [[sông Hồng]].<ref>{{Chú thích web |last=Viện nghiên cứu Phát triển kinh tế – xã hội Hà Nội |date=2025-07-02 |title=Xã Ô Diên: Những thông tin chi tiết sau sắp xếp |url=https://hanoionline.vn/xa-o-dien-nhung-thong-tin-chi-tiet-sau-sap-xep-343987.htm |url-status=live |archive-url=https://web.archive.org/web/20260701400809/https://hanoionline.vn/xa-o-dien-nhung-thong-tin-chi-tiet-sau-sap-xep-343987.htm |archive-date=2026-07-01 |access-date=2026-07-01 |website=Cơ quan Báo và Phát thanh Truyền hình Hà Nội}}</ref><ref>{{Chú thích web |last=Cơ quan Báo và Phát thanh Truyền hình Hà Nội|date=2025-07-08|title=Xã Ô Diên: Tất cả thông tin chỉ dẫn bạn cần biết|url=https://hanoionline.vn/xa-o-dien-tat-ca-thong-tin-chi-dan-ban-can-biet-345429.htm|url-status=live|archive-url=https://web.archive.org/web/20260711401509/https://hanoionline.vn/xa-o-dien-tat-ca-thong-tin-chi-dan-ban-can-biet-345429.htm|archive-date=2026-07-11|access-date=2026-07-11}}</ref>
+Xã Ô Diên có diện tích tự nhiên là 32,06&nbsp;km<sup>2</sup>, quy mô dân số năm 2025 là 97.506 người và mật độ dân số đạt 3.041 người/km<sup>2</sup>.<ref>{{Chú thích web |last=Mai Hữu|date=2026-04-05|title=Hà Nội: Chi tiết phương án tổng thể sắp xếp đơn vị hành chính cấp xã|url=https://hanoimoi.vn/ha-noi-chi-tiet-phuong-an-tong-the-sap-xep-don-vi-hanh-chinh-cap-xa-700278.html|url-status=live|archive-url=https://web.archive.org/web/20260711401509/https://hanoimoi.vn/ha-noi-chi-tiet-phuong-an-tong-the-sap-xep-don-vi-hanh-chinh-cap-xa-700278.html|archive-date=2026-07-11|access-date=2026-07-11|website=Cơ quan Báo và Phát thanh, truyền hình Hà Nội}}</ref><ref>Công văn số 2896/BNV-CQĐP ngày 27 tháng 5 năm 2025 của Bộ Nội vụ về việc cung cấp thông tin danh mục dự kiến đơn vị hành chính cấp xã mới.</ref>
+
+== Lịch sử==
+
+=== Trước năm 1976 ===
+
+=== Giai đoạn 1976 – nay ===
+Sau ngày 2 tháng 7 năm 1976, 6 xã: Hạ Mỗ, Hồng Hà, Liên Hà, Liên Hồng, Liên Trung và Tân Hội thuộc huyện [[Đan Phượng (huyện)|Đan Phượng]] của tỉnh [[Hà Sơn Bình]]; 2 xã: Tây Tựu và Xuân Phương thuộc huyện [[Từ Liêm (huyện)|Từ Liêm]] của thành phố [[Hà Nội]]; xã Văn Khê thuộc huyện [[Yên Lãng (huyện)|Yên Lãng]] của tỉnh [[Vĩnh Phú (tỉnh)|Vĩnh Phú]].
+
+Ngày 5 tháng 7 năm 1977, hợp nhất huyện [[Bình Xuyên (huyện)|Bình Xuyên]] và huyện [[Yên Lãng (huyện)|Yên Lãng]] thành một huyện lấy tên là huyện [[Mê Linh (huyện)|Mê Linh]]. Khi đó, xã Văn Khê thuộc huyện [[Mê Linh (huyện)|Mê Linh]].<ref>Quyết định số 178-CP ngày 5 tháng 7 năm 1977 của Hội đồng Chính phủ về việc hợp nhất và điều chỉnh địa giới một số huyện thuộc tỉnh Vĩnh Phú.</ref>
+
+Ngày 29 tháng 12 năm 1978:
+
+* Sáp nhập huyện [[Đan Phượng (huyện)|Đan Phượng]] của tỉnh [[Hà Sơn Bình]] vào thành phố [[Hà Nội]]. Khi đó, 6 xã: Hạ Mỗ, Hồng Hà, Liên Hà, Liên Hồng, Liên Trung và Tân Hội thuộc huyện [[Đan Phượng (huyện)|Đan Phượng]] của thành phố [[Hà Nội]].
+* Sáp nhập xã Văn Khê thuộc huyện [[Mê Linh (huyện)|Mê Linh]] của tỉnh [[Vĩnh Phú (tỉnh)|Vĩnh Phú]] vào thành phố [[Hà Nội]].<ref>Nghị quyết ngày 29 tháng 12 năm 1978 của Quốc hội khóa VI, Kỳ họp thứ 4 phê chuẩn việc phân vạch lại địa giới thành phố Hà Nội, thành phố Hồ Chí Minh, các tỉnh Hà Sơn Bình, Vĩnh Phú, Cao Lạng, Bắc Thái, Quảng Ninh và Đồng Nai.</ref>
+
+Ngày 12 tháng 8 năm 1991:
+
+* Chia tỉnh [[Hà Sơn Bình]] thành 2 tỉnh, lấy tên là tỉnh [[Hòa Bình (tỉnh)|Hòa Bình]] và tỉnh [[Hà Tây (tỉnh)|Hà Tây]]. Chuyển huyện [[Đan Phượng (huyện)|Đan Phượng]] của thành phố [[Hà Nội]] về tỉnh [[Hà Tây (tỉnh)|Hà Tây]]. Khi đó, 6 xã: Hạ Mỗ, Hồng Hà, Liên Hà, Liên Hồng, Liên Trung và Tân Hội thuộc huyện [[Đan Phượng (huyện)|Đan Phượng]] của tỉnh [[Hà Tây (tỉnh)|Hà Tây]].
+* Chuyển huyện [[Mê Linh (huyện)|Mê Linh]] của thành phố [[Hà Nội]] về tỉnh [[Vĩnh Phú (tỉnh)|Vĩnh Phú]]. Khi đó, xã Văn Khê thuộc huyện [[Mê Linh (huyện)|Mê Linh]] của [[Vĩnh Phúc (tỉnh)|thành phố]] [[Hà Nội]].<ref>Nghị quyết ngày 12 tháng 8 năm 1991 của Quốc hội khóa VIII, Kỳ họp thứ 9 về việc điều chỉnh địa giới hành chính một số tỉnh, thành phố trực thuộc Trung ương.</ref>
+
+Ngày 6 tháng 11 năm 1996, chia tỉnh [[Vĩnh Phú (tỉnh)|Vĩnh Phú]] thành hai tỉnh là tỉnh [[Phú Thọ]] và tỉnh [[Vĩnh Phúc (tỉnh)|Vĩnh Phúc]]. Khi đó, xã Văn Khê thuộc huyện [[Mê Linh (huyện)|Mê Linh]] của tỉnh [[Vĩnh Phúc (tỉnh)|Vĩnh Phúc]].<ref>Nghị quyết ngày 6 tháng 11 năm 1996 của Quốc hội khóa IX, Kỳ họp thứ 10 về việc chia và điều chỉnh địa giới hành chính một số tỉnh.</ref>
+
+Ngày 29 tháng 5 năm 2008:
+
+* Hợp nhất tỉnh [[Hà Tây (tỉnh)|Hà Tây]] vào thành phố [[Hà Nội]]. Khi đó, 6 xã: Hạ Mỗ, Hồng Hà, Liên Hà, Liên Hồng, Liên Trung và Tân Hội thuộc huyện [[Đan Phượng (huyện)|Đan Phượng]] của thành phố [[Hà Nội]].
+* Chuyển toàn bộ huyện [[Mê Linh (huyện)|Mê Linh]] của tỉnh [[Vĩnh Phúc (tỉnh)|Vĩnh Phúc]] về thành phố [[Hà Nội]].<ref>Nghị quyết số 15/2008/QH12 ngày 29 tháng 5 năm 2008 của Quốc hội khóa XII, Kỳ họp thứ 3 về việc điều chỉnh địa giới hành chính thành phố Hà Nội và một số tỉnh có liên quan.</ref>
+
+Ngày 8 tháng 5 năm 2009, xác lập địa giới hành chính của huyện [[Mê Linh (huyện)|Mê Linh]] thuộc thành phố [[Hà Nội]]. Khi đó, xã Văn Khê thuộc huyện [[Mê Linh (huyện)|Mê Linh]] của thành phố [[Hà Nội]].<ref>{{Chú thích web |title=Nghị quyết số 19/NQ-CP ngày 8 tháng 5 năm 2009 của Chính phủ về việc xác lập địa giới hành chính xã Đông Xuân thuộc huyện Quốc Oai; các xã Tiến Xuân, Yên Bình, Yên Trung thuộc huyện Thạch Thất; huyện Mê Linh thuộc thành phố Hà Nội; thành lập quận Hà Đông và các phường trực thuộc; chuyển thành phố Sơn Tây thành thị xã Sơn Tây thuộc thành phố Hà Nội |url=https://chinhphu.vn/default.aspx?pageid=27160&docid=86463 |url-status=live |archive-url=https://web.archive.org/web/20260706400809/https://chinhphu.vn/default.aspx?pageid=27160&docid=86463 |archive-date=2026-07-06 |access-date=2026-07-06 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+
+Ngày 27 tháng 12 năm 2013:
+
+* Điều chỉnh địa giới hành chính huyện [[Từ Liêm (huyện)|Từ Liêm]] để thành lập 02 quận: [[Bắc Từ Liêm]] và [[Nam Từ Liêm]].
+* Thành lập phường Tây Tựu (quận [[Bắc Từ Liêm]]) trên cơ sở xã Tây Tựu; 9,30 ha diện tích tự nhiên và 596 nhân khẩu của xã Xuân Phương.<ref name="NQ132">{{Chú thích web |tác giả= |họ= |tên= |ngày= |tựa đề=Nghị quyết số 132/NQ-CP ngày 27 tháng 12 năm 2013 của Chính phủ về việc điều chỉnh địa giới hành chính huyện Từ Liêm để thành lập 02 quận và 23 phường thuộc thành phố Hà Nội |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2013/12/132.pdf |url-status=live |url lưu trữ=https://web.archive.org/web/20260707400809/https://datafiles.chinhphu.vn/cpp/files/vbpq/2013/12/132.pdf |ngày lưu trữ=2026-07-07 |ngày truy cập=2026-07-07 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+
+Ngày 16 tháng 6 năm 2025:
+
+* Kết thúc hoạt động của đơn vị hành chính cấp huyện trong cả nước.<ref>{{Chú thích web |last= |date= |title=Nghị quyết số 203/2025/QH15 ngày 16 tháng 6 năm 2025 của Quốc hội khóa XV, Kỳ họp thứ 9 về việc sửa đổi, bổ sung một số điều của Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/nq-sua-doi-hien-phap.pdf |url-status=live |archive-url=https://web.archive.org/web/20260613090807/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/nq-sua-doi-hien-phap.pdf |archive-date=2026-06-13 |access-date=2026-06-13 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+* Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của xã Hạ Mỗ, xã Tân Hội, một phần diện tích tự nhiên, toàn bộ quy mô dân số của các xã Liên Hà, Hồng Hà, Liên Hồng, Liên Trung (huyện [[Đan Phượng (huyện)|Đan Phượng]]), một phần diện tích tự nhiên của xã Văn Khê (huyện [[Mê Linh (huyện)|Mê Linh]]), phần còn lại của phường Tây Tựu (quận [[Bắc Từ Liêm]]) và phần còn lại của xã Tân Lập (huyện [[Đan Phượng (huyện)|Đan Phượng]]) thành xã mới có tên gọi là xã Ô Diên.<ref>{{Chú thích web |title=Nghị quyết số 1656/NQ-UBTVQH15 ngày 16 tháng 6 năm 2025 của Ủy ban Thường vụ Quốc hội về việc sắp xếp các đơn vị hành chính cấp xã của thành phố Hà Nội năm 2025 |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf |url-status=live |archive-url=https://web.archive.org/web/20260630400809/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf |archive-date=2026-06-30 |access-date=2026-06-30 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+* Sau khi sắp xếp, xã Ô Diên được chia thành 59 tổ dân phố – thôn – cụm dân cư, gồm 3 tổ dân phố, 4 thôn và 52 cụm dân cư.<ref>10 cụm dân cư, đánh số từ 1 đến 8 – thôn Hạ Mỗ, 9 và 10 – thôn Trúng Đích của xã Hạ Mỗ cũ; 13 cụm dân cư, đánh số từ 1 đến 4 – thôn Vĩnh Kỳ, 5, 6 – thôn Phan Long, từ 7 đến 10 – thôn Thúy Hội và từ 11 đến 13 – thôn Thượng Hội của xã Tân Hội cũ; 4 cụm dân cư: 1, 2 – thôn Thượng Thôn, 3 – thôn Đoài và 4 – thôn Quý của xã Liên Hà cũ; 9 cụm dân cư: 1, 2 – thôn Bồng Lai, từ 3 đến 6, 8 – thôn Bá Nội, 7 – thôn Bá Thị và 9 – thôn Tiên Tân của xã Hồng Hà cũ; 4 thôn: Đông Lai, Hữu Cước, Thượng Trì và Tổ của xã Liên Hồng cũ; 3 cụm dân cư: 1, 2 – thôn Trung và 3 – thôn Hạ của xã Liên Trung cũ; 16 tổ dân phố – cụm dân cư, gồm 3 tổ dân phố: 1, 2, 4 Khu đô thị Tân Tây Đô và 13 cụm dân cư: 1 – thôn Hạ Hội, 2 – thôn Ngọc Kiệu, từ 3 đến 6 – thôn Hạ Hội, 7, 8 – thôn Ngọc Kiệu, từ 9 đến 11 – thôn Đan Hội, 12 và 13 – thôn Hạnh Đàn của xã Tân Lập cũ.</ref><ref>{{Chú thích web |title=Thông tư số 10/2022/TT-BTNMT ngày 29 tháng 9 năm 2022 của Bộ Tài nguyên và Môi trường về việc Ban hành Danh mục địa danh dân cư, sơn văn, thủy văn, kinh tế – xã hội phục vụ công tác thành lập bản đồ thành phố Hà Nội |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2022/10/10-btnmt.pdf |url-status=live |archive-url=https://web.archive.org/web/20260630400809/https://datafiles.chinhphu.vn/cpp/files/vbpq/2022/10/10-btnmt.pdf |archive-date=2026-06-30 |access-date=2026-06-30 |website=Cổng Thông tin điện tử Chính phủ}}</ref><ref name=":0">{{Chú thích web |last= |date= |title=Quyết định số 5/QĐ-UBBC ngày 19 tháng 12 năm 2025 của Ủy ban bầu cử xã Ô Diên về việc ấn định số đơn vị bầu cử, danh sách các đơn vị và số lượng đại biểu được bầu cử mỗi đơn vị bầu cử đại biểu Hội đồng nhân dân xã Ô Diên nhiệm kỳ 2026 – 2031 |url=https://sqhx-hanoi.mediacdn.vn/91579363132710912/2025/12/23/ubbc-qd-05-vv-an-dinh-so-don-vi-bau-cu-ds-cac-don-vi--17664599568721945759419.pdf |url-status=live |archive-url=https://web.archive.org/web/20260701400809/https://sqhx-hanoi.mediacdn.vn/91579363132710912/2025/12/23/ubbc-qd-05-vv-an-dinh-so-don-vi-bau-cu-ds-cac-don-vi--17664599568721945759419.pdf |archive-date=2026-07-01 |access-date=2026-07-01 |website=Trang Thông tin điện tử xã Ô Diên – thành phố Hà Nội}}</ref>
+Ngày 26 tháng 6 năm 2026, thành lập 18 thôn mới: Bồng Lai, Bá Dương Nội, Bá Giang, Liên Hồng, Thượng Thôn, Liên Hà, Liên Trung, Hạ Mỗ, Duyên Thành, Vĩnh Kỳ, Phan Long, Thúy Hội, Thượng Hội, Kim Ngọc, Hạ Hội, Ngọc Kiệu, Đan Hội, Hạnh Đàn và 2 tổ dân phố mới: Tân Lập, Tân Tây Đô; đổi tên cụm 9 thôn Tiên Tân (Hồng Hà) và cụm 3 thôn Hạ (Liên Trung) lần lượt thành 2 thôn: Tiên Tân và Hạ Trì.<ref>I. Sắp xếp các thôn, tổ dân phố: 1. Thôn Bồng Lai: Được thành lập trên cơ sở sáp nhập cụm 1, cụm 2 thôn Bồng Lai và một phần Khu Trại Mới cụm 3 (Hồng Hà); 2. Thôn Bá Dương Nội: Được thành lập trên cơ sở sáp nhập cụm 3 (Không bao gồm Khu Trại Mới), cụm 4 và cụm 5 thôn Bá Nội (Hồng Hà); 3. Thôn Bá Giang: Được thành lập trên cơ sở sáp nhập cụm 6 thôn Bá Nội, cụm 7 thôn Bá Thị và cụm 8 thôn Bá Nội (Hồng Hà); 4. Thôn Liên Hồng: Được thành lập trên cơ sở sáp nhập thôn Đông Lai và thôn Hữu Cước, thôn Tổ (Liên Hồng); 5. Thôn Thượng Thôn: Được thành lập trên cơ sở sáp nhập thôn Thượng Thôn 1 và thôn Thượng Thôn 2 (Liên Hà); 6. Thôn Liên Hà: Được thành lập trên cơ sở sáp nhập thôn Quý và thôn Đoài (Liên Hà); 7. Thôn Liên Trung: Được thành lập trên cơ sở sáp nhập thôn Trung 1 và thôn Trung 2 (Liên Trung); 8. Thôn Hạ Mỗ: Được thành lập trên cơ sở sáp nhập cụm 1, cụm 2, cụm 3 và cụm 4 (Hạ Mỗ); 9. Thôn Duyên Thành: Được thành lập trên cơ sở sáp nhập cụm 5, cụm 6, cụm 7, cụm 8, cụm 9 và cụm 10 (Hạ Mỗ); 10. Thôn Vĩnh Kỳ: Được thành lập trên cơ sở sáp nhập cụm 1, cụm 2, cụm 3 và cụm 4 (Tân Hội); 11. Thôn Phan Long: Được thành lập trên cơ sở sáp nhập cụm 5, cụm 6 và một phần đất nông nghiệp của cụm 10 (Tân Hội); 12. Thôn Thúy Hội: Được thành lập trên cơ sở sáp nhập cụm 7, cụm 8, cụm 9 và cụm 10 (cắt bớt một phần đất nông nghiệp chuyển sang thôn Phan Long) (Tân Hội); 13. Thôn Thượng Hội: Được thành lập trên cơ sở sáp nhập cụm 11, cụm 12 và cụm 13 (Tân Hội); 14. Thôn Kim Ngọc: Được thành lập trên cơ sở sáp nhập cụm 1, cụm 2 và cụm 3 (Tân Lập); 15. Thôn Hạ Hội: Được thành lập trên cơ sở sáp nhập cụm 4, cụm 5 và cụm 6 (Tân Lập); 16. Thôn Ngọc Kiệu: Được thành lập trên cơ sở sáp nhập cụm 7 và cụm 8 (Tân Lập); 17. Thôn Đan Hội: Được thành lập trên cơ sở sáp nhập cụm 9, cụm 10 và cụm 11 (Tân Lập); 18. Thôn Hạnh Đàn: Được thành lập trên cơ sở sáp nhập cụm 12 và cụm 13 (Tân Lập); 19. Tổ dân phố Tân Lập: Được thành lập trên cơ sở sáp nhập tổ dân phố 1 và tổ dân phố 2 Tân Tây Đô (Tân Lập); 20. Tổ dân phố Tân Tây Đô: Được thành lập trên cơ sở ghép tòa nhà chung cư XP Home, dãy biệt thự 1, 2, 3, 4, 5, 6, 7 và dãy liền kề 1, 2, 3, 4 vào tổ dân phố Tân Tây Đô 4 (Tân Lập). II. Đổi tên thôn: 1. Thôn Tiên Tân: Được thành lập trên cơ sở giữ nguyên và đổi tên cụm 9 thôn Tiên Tân (Hồng Hà); 2. Thôn Hạ Trì: Được thành lập trên cơ sở giữ nguyên và đổi tên thôn Hạ (Liên Trung). III. Giữ nguyên thôn: Giữ nguyên Thôn Thượng Trì (Liên Hồng).</ref><ref name=":2">{{Chú thích web |title=Đề án tháng 6 năm 2026 của Ủy ban nhân dân xã Ô Diên về việc sắp xếp thôn, tổ dân phố trên địa bàn xã Ô Diên, thành phố Hà Nội năm 2026 |url=https://sqhx-hanoi.mediacdn.vn/91579363132710912/2026/6/15/18h00-136-dt-o-dien-de-an-sap-xep-thon-tdp-1781483153891716499341.pdf |url-status=dead |archive-url=https://web.archive.org/web/20260724401509/https://sqhx-hanoi.mediacdn.vn/91579363132710912/2026/6/15/18h00-136-dt-o-dien-de-an-sap-xep-thon-tdp-1781483153891716499341.pdf |archive-date=2026-07-24 |access-date=2026-07-24 |website=Trang Thông tin điện tử xã Ô Diên – thành phố Hà Nội}}</ref><ref name=":1">{{Chú thích web |title=Thông báo số 1954/TB-UBND ngày 29 tháng 6 năm 2026 của Ủy ban nhân dân xã Ô Diên về việc công bố danh sách các thôn, tổ dân phố sau sắp xếp trên địa bàn xã Ô Diên năm 2026 |url=https://sqhx-hanoi.mediacdn.vn/91579363132710912/2026/7/3/5-29-6-thong-bao-cong-khai-ve-ket-qua-nq-1783057003564465936245.pdf |url-status=live |archive-url=https://web.archive.org/web/20260707400809/https://sqhx-hanoi.mediacdn.vn/91579363132710912/2026/7/3/5-29-6-thong-bao-cong-khai-ve-ket-qua-nq-1783057003564465936245.pdf |archive-date=2026-07-07 |access-date=2026-07-07 |website=Trang Thông tin điện tử xã Ô Diên – thành phố Hà Nội}}</ref>[[Tập tin:Bản đồ các tổ dân phố – thôn thuộc xã Ô Diên – thành phố Hà Nội.png|nhỏ|354x354px|Bản đồ ranh giới thôn, tổ dân phố trước và sau sắp xếp thuộc xã Ô Diên của thành phố Hà Nội (từ ngày 1 tháng 7 năm 2026)<ref name=":3">{{Chú thích web |last=Ủy ban nhân dân xã Ô Diên |date=2026-06-16 |title=Bản đồ ranh giới thôn, tổ dân phố trước và sau sắp xếp xã Ô Diên, thành phố Hà Nội |url=https://sqhx-hanoi.mediacdn.vn/91579363132710912/2026/6/16/dien-tich-23-cum-model-p-1781641212214349237838.pdf |url-status=dead |archive-url=https://web.archive.org/web/20260730201509/https://sqhx-hanoi.mediacdn.vn/91579363132710912/2026/6/16/dien-tich-23-cum-model-p-1781641212214349237838.pdf |archive-date=2026-07-30 |access-date=2026-07-30 |website=Trang Thông tin điện tử xã Ô Diên – thành phố Hà Nội}}</ref>]]
+== Hành chính ==
+Xã Ô Diên được chia thành 23 tổ dân phố – thôn, gồm 2 tổ dân phố: Tân Lập, Tân Tây Đô và 21 thôn: Bá Dương Nội, Bá Giang, Bồng Lai, Duyên Thành, Đan Hội, Hạ Hội, Hạ Mỗ, Hạ Trì, Hạnh Đàn, Kim Ngọc, Liên Hà, Liên Hồng, Liên Trung, Ngọc Kiệu, Phan Long, Thúy Hội, Thượng Hội, Thượng Thôn, Thượng Trì, Tiên Tân, Vĩnh Kỳ.<ref name=":2" /><ref name=":1" />
+{| class="wikitable sortable" align="center" width="100%" cellspacing="6" cellpadding="0" style="background: #f9f9f9; border: 1px #aaa solid; margin-top: 16px"
+! colspan="4" style="background: #E6E6FA; font-size: 95%;" |Danh sách các tổ dân phố – thôn thuộc xã Ô Diên<ref name=":2" /><ref name=":1" />
+|-
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| colspan="4" align="left" style="background: #F5F5DC; padding-left: 30px;" |'''Tổ dân phố (2)'''
+|-
+| align="left" |Tân Lập
+|974
+|-
+| align="left" |Tân Tây Đô
+|1.061
+|-
+| colspan="4" align="left" style="background: #F5F5DC; padding-left: 30px;" |'''Thôn (21)'''
+|-
+| align="left" |Bá Dương Nội
+|1.230
+|-
+| align="left" |Bá Giang
+|1.109
+|-
+| align="left" |Bồng Lai
+|804
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Duyên Thành
+|1.430
+|-
+| align="left" |Đan Hội
+|1.406
+|-
+| align="left" |Hạ Hội
+|1.343
+|-
+| align="left" |Hạ Mỗ
+|1.211
+|-
+| align="left" |Hạ Trì
+|786
+|-
+| align="left" |Hạnh Đàn
+|782
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Kim Ngọc
+|941
+|-
+| align="left" |Liên Hà
+|1.256
+|-
+| align="left" |Liên Hồng
+|1.436
+|-
+| align="left" |Liên Trung
+|1.354
+|-
+| align="left" |Ngọc Kiệu
+|1.154
+|-
+| align="left" |Phan Long
+|841
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Thúy Hội
+|1.847
+|-
+| align="left" |Thượng Hội
+|1.472
+|-
+| align="left" |Thượng Thôn
+|1.154
+|-
+| align="left" |Thượng Trì
+|773
+|-
+| align="left" |Tiên Tân
+|539
+|-
+| align="left" |Vĩnh Kỳ
+|2.350
+|}
+|}
+
+== Văn hóa ==
+Lễ hội diều làng Bá Dương Nội là di sản văn hóa phi vật thể quốc gia<ref>{{Chú thích web | last = tử | first = Báo Nhân Dân điện | date = 2025-04-12 | title = "Hội diều làng Bá Dương Nội" chính thức trở thành di sản văn hóa phi vật thể quốc gia | url = https://nhandan.vn/hoi-dieu-lang-ba-duong-noi-chinh-thuc-tro-thanh-di-san-van-hoa-phi-vat-the-quoc-gia-post871988.html | access-date = 2025-10-13 | website = Báo Nhân Dân điện tử | language = vi}}</ref>
+
+Hội hát chèo tàu Tổng Gối là di sản văn hóa phi vật thể quốc gia<ref>{{Chú thích web | last = hanoimoi.vn | title = Hội h t ch o t u Tổng Gối được ghi danh l Di sản văn h a phi vật thể quốc gia | url = https://hanoimoi.vn/hoi-hat-cheo-tau-tong-goi-duoc-ghi-danh-la-di-san-van-hoa-phi-vat-the-quoc-gia-702309.html | archive-url = https://web.archive.org/web/20250624162718/https://hanoimoi.vn/hoi-hat-cheo-tau-tong-goi-duoc-ghi-danh-la-di-san-van-hoa-phi-vat-the-quoc-gia-702309.html | archive-date = 2025-06-24 | access-date = 2025-10-18 | website = hanoimoi.vn | language = vi-VN | url-status = live }}</ref>
+
+== Làng nghề ==
+Xã Ô Diên phát triển mạnh nhiều ngành nghề như chế biến gỗ, mộc, đồ mộc, chế biến lâm sản; chế biến lương thực, thực phẩm như làm giò chả, nấu rượu, làm đậu phụ; rèn; làm diều...
+
+* Làng nghề chế biến gỗ, mộc, đồ mộc: thôn Trung, thôn Hạ, thôn Thượng Thôn.<ref>{{Chú thích web | last = Thị | first = Báo Kinh Tế Đô | title = Báo Kinh tế đô thị - Đọc tin tức thời sự kinh tế 24h mới nhất | url = https://kinhtedothi.vn/404.html | access-date = 2025-10-13 | website = Báo Kinh Tế Đô Thị | language = vi-vn}}</ref>
+* Làng chế biến lương thực, thực phẩm: đậu phụ Trúng Đích, thôn Bá Nội; giò chả Thượng Hội.
+* Làng nghề cơ khí: làng rèn thôn Thúy Hội (đang mai một)
+* Làng làm diều sáo: thôn Bá Nội.
+* Nghề trồng hoa ở Hạ Mỗ.
+
+== Danh nhân==
+
+* '''[[Tô Hiến Thành]]''' (1102 – 1179) là quan đại thần phụ chính nhà Lý, phụng sự hai triều vua: [[Lý Anh Tông]] và [[Lý Cao Tông]].
+* Đại tướng '''[[Đỗ Bá Tỵ]]''' (sinh năm 1954) là [[Đại tướng Quân đội nhân dân Việt Nam]] và [[chính khách]] người Việt Nam.
+* '''[[Nguyễn Xuân Cường]]''' (sinh năm 1959) là một chính trị gia người Việt Nam.
+* Đại tá '''[[Nguyễn Trí Huân]]''' (sinh năm 1947) là [[nhà văn]] Việt Nam, được tặng [[Giải thưởng Nhà nước (Việt Nam)|Giải thưởng Nhà nước]] về Văn học Nghệ thuật năm 2007
+* '''[[Bùi Quang Vinh]]''' (sinh năm 1953) là một chính khách Việt Nam.
+
+== Di tích - Danh thắng== 
+* Đền Sa Lãng, còn gọi là đền Nhà Bà, ở thôn Thượng Thôn, thờ nữ tướng Sa Lãng.
+
+<!-- 
+== Di tích== 
+Xã có 2 di tích cấp quốc gia là: di tích đình chùa thôn Trung, di tích đình chùa thôn Hạ đã được Bộ Văn hóa thông tin nay là Bộ Văn hóa Thể thao và Du lịch công nhận là di tích kiến trúc và nghệ thuật cấp quốc gia năm 1990.
+
+== Kinh tế== 
+Xã Liên Trung có nghề mộc và sơ chế gỗ. Trong xã ngoài cụm công nghiệp làng nghề tập trung Hồ Điền thì trong thôn xóm, khu dân cư cũng rất nhiều xưởng sơ chế gỗ, mộc. Đây cũng là nghề chính của địa phương, cũng nhờ nghề này mà Liên Trung là một trong những xã có nền kinh tế hộ gia đình mạnh nhất huyện. Nghề này cũng tạo ra việc làm cho một số ít lao động từ địa phương khác. Tuy nhiên bên cạnh mặt tích cực là phát triển kinh tế hộ gia đình thì hệ lụy không nhỏ đến từ nghề này đó là vấn đề ô nhiễm không khí, bụi, tiếng ồn...
+
+== Các đơn vị hành chính== 
+Xã gồm 2 làng với 10 cụm dân cư:
+
+1. Làng Hạ Mỗ:
+- Khu vực bên Bãi: 
+Cụm 1 là xóm Trại Trên.
+Cụm 2 gồm xóm Trại Dưới và xóm Già.
+
+Xóm Già vốn gốc tích người làng Già thuộc đất Thọ An, do lở đất nên về lập xóm ở Hạ Mỗ.
+
+- Khu vực bên Làng:
+
+Cụm 3 và 4 có xóm An Lạc (xóm Trại), xóm Cầu, xóm Giữa và xóm Chùa.
+
+Cụm 5 là xóm Ngõ Ngoài.
+
+Cụm 6 là xóm Đình. Còn gọi là xóm Cuống Cà.
+
+Cụm 7 là Xóm Duyên còn gọi là xóm Duyên Thành.
+
+Cụm 8 là xóm Lẻ. Còn gọi là xóm Đoàn kết. Xóm Lẻ vị trí ở đầu làng. Xưa kia hay có cướp nên trai tráng khỏe mạnh, dũng cảm sẽ được bố trí sinh sống ở đầu làng để chống cướp.
+
+2. Làng Trúng Đích: Gốc tích là người làng Liên Hồng phía ngoài đê sông Hồng nhưng do đất lở mất nhà nên được đổi đất về ở Hạ Mỗ.
+
+Cụm 9 và cụm 10
+
+Dân số: tính đến năm 2020 có 2.493 hộ với 9.435 nhân khẩu.
+== Văn hoá và lịch sử== 
+Hạ Mỗ là một vùng đất cổ, có lịch sử hơn 1500 năm, vị trí ở đầu nguồn sông Nhuệ cổ (hay còn gọi là sông Từ Liêm), một phân lưu của sông Hồng.
+
+Trước hoặc sau cuộc khởi nghĩa chống quân Lương Tuỳ, Hạ Mỗ có tên là trang Phú Lộc. Đến thế kỷ thứ VI Hạ Mỗ có tên là hương Ô Diên thuộc huyện Vĩnh Khang, phủ Ứng Thiên đời Lý và có thành Ô Diên một thời được xem là Kinh đô của nhà nước Vạn Xuân dưới triều Hậu Nam đế Lý Phật Tử. Đến thời Trần thuộc huyện Vĩnh Thuận, phủ Đông Đô. Từ đầu thế kỷ XIX, Hạ Mỗ thuộc tổng Thượng Hội, còn Trúng Đích thuộc xã Liên Trì tổng Thượng Trì, huyện Từ Liêm, phủ Quốc Oai, trấn Sơn Tây. Từ đầu thế kỷ XX, Hạ Mỗ và Trúng Đích thuộc huyện Từ Liêm, phủ Hoài Đức tỉnh Hà Đông.
+
+Từ sau Cách mạng tháng Tám và trong kháng chiến chống thực dân Pháp, Hạ Mỗ thuộc xã Hồng Thái (nay là 3 xã Thượng Mỗ, Hạ Mỗ, Hồng Hà), còn Trúng Đích thuộc xã Liên Trì, huyện Liên Bắc (trước năm 1953), huyện Đan Phượng (từ 1953 trở về sau) tỉnh Hà Đông. Từ năm 1956, hai làng Hạ Mỗ và Trúng Đích sát nhập thành một xã và vẫn lấy tên là Hồng Thái. Năm 1972, xã Hồng Thái đổi tên là xã Hạ Mỗ thuộc huyện Đan Phượng, tỉnh Hà Đông, sau thuộc Hà Tây (1965), Hà Sơn Bình (1976), Hà Nội (1979), Hà Tây (1991), từ 01 tháng 8 năm 2008 đến nay thuộc thành phố Hà Nội.
+
+Đây là vùng đất địa linh nhân kiệt có nền văn hiến tự ngàn đời nay. Nơi đây sinh ra danh nhân văn hoá [[Tô Hiến Thành]]. Xưa kia [[Lý Nam Đế]] sau khi đánh đuổi thứ sử [[nhà Lương]] đã lên ngôi vua và đổi tên nước thành [[Vạn Xuân]] (544-603), đóng đô ở Ô Diên tức xã Hạ Mỗ ngày nay.<ref>{{Chú thích web | url = http://www.thuvienhanoi.org.vn/modules.php?name = Content&pa = showpage&pid = 5 | ngày truy cập = 2008-08-30 | tựa đề = Giới thiệu Hà Nội | archive-date = ngày 9 tháng 10 năm 2006 | archive-url = https://web.archive.org/web/20061009170428/http://www.thuvienhanoi.org.vn/modules.php?name = Content&pa = showpage&pid = 5 }}</ref>
+ 
+Hạ Mỗ có 2 đình, 2 chùa và 3 đền. Có 3 di tích lịch sử cấp quốc gia là đình Vạn Xuân, chùa Hải Giác và
+đền Văn Hiến.
+
+Đình Vạn Xuân (trùng với tên nước Vạn Xuân)là một ngôi đình có hàng trăm gian, lớn nhất nhì [[Bắc Bộ Việt Nam| Bắc Bộ]], được xếp hạng di tích quốc gia năm 1991. Vào năm 1955, tại ngôi đình này đã diễn ra Hội nghị giảm tô miền Bắc với khoảng 5000 đại biểu tham dự. Dân làng có bài thơ rất hay về Đình:
+
+::: ''Đình làng làm đủ trăm gian''
+
+::: ''To nhớn loại nhất nước Nam nào tày''
+
+::: ''Đất quy vờn ngọc đẹp thay''
+
+::: ''Trước cửa ao cá, giữa ngay cái gò''
+
+::: ''Quanh sân sáu cửa tò vò''
+
+::: ''Hai cột đồng trụ xây to tầy vừng''
+
+::: ''Sân rồng chất kiệu đã từng''
+
+::: ''Đôi tả hữu mạc song hành mười gian''
+
+::: ''Mái cong thoáng lá đại lan''
+
+::: ''Sân ngoài cỏ mượt, tán bàng sum xuê''
+
+::: ''Đại đình cao vút uy nghi''
+
+::: ''Dọc ngang mười nóc một ly chẳng dời''
+
+::: ''Đốc tiền cung điện sáng ngời''
+
+::: ''Lưỡng long chầu nguyệt y nơi cung đình''
+
+::: ''Cánh chuồn đốc hậu rành rành''
+
+::: ''Nội vương ngoại quốc" quy trình chẳng sai''
+
+::: ''Ban thờ lớp lớp trong ngoài''
+
+::: ''Bộ hạ võ lược, văn tài hai bên''
+
+::: ''Hậu cung cửa cấm bước lên''
+
+::: ''Ngước trông hoành tráng ở trên đỉnh đầu''
+
+::: ''Long, ly, quy, phượng cùng chầu''
+
+::: ''Hoành phi câu đối rực màu vàng son''
+
+::: ''Đồ chấp sự rặt bằng đồng''
+
+::: ''Xà mâu, bát bửu, kiệu chồng mấy gian''
+
+::: ''Bao nhiêu cờ, lọng, quạt, tàn''
+
+::: ''Bấy nhiêu công sức dân làng từ xưa''
+
+::: ''Ngàn năm cho đến bây giờ''
+
+::: ''Đình Vạn Xuân vẫn y như buổi đầu''
+
+Nơi đây có một di tích nữa về thành Ô Diên đó là '''miếu Hàm Rồng'''. Tương truyền rằng ngay sau khi [[hoàng tử]] [[Lý Bát Lang]] mất, vua Lý Phật Tử đã lệnh cho nhân dân Hạ Mỗ (bấy giờ là hương Ô Diên) lập [[miếu]] thờ trên phủ đệ cũ của hoàng tử<ref>Cuốn thần phả do Hàn Lâm Viện Đông các học sĩ Nguyễn Bính soạn năm Hồng Phúc thứ nhất, đời vua Lê Anh Tông (Nhâm Thân 1572)</ref>, trong khu vực thành Ô Diên, người đời sau gọi là Quán Bét (đọc chệch tiếng bát tức Lý Bát Lang) hay miếu Hàm Rồng (chỗ 3 dòng sông: [[sông Hồng]], [[Sông Đáy| sông Hát]] và [[sông Nhuệ]] <ref>Xưa gọi là sông Tống Bình hay sông Từ Liêm</ref> gặp nhau) ở đầu nguồn Nhuệ Giang, nay [[sông Hồng]] đã lùi xa và khởi nguồn sông Nhuệ chỉ còn dấu tích của Đầm Bát Lang.
+
+Chùa Hải Giác là một ngôi chùa lớn,cổ kính, rất đẹp với hàng trăm pho tượng lớn nhỏ. Ngôi chùa gắn liền với lịch sử chống thực dân Pháp anh hùng, bất khuất của nhà sư Thích Thanh Trang (Hữu quân Chánh tướng).Thực dân Pháp đã đàn áp dã man, hành quyết bằng hình thức treo cổ sư Thanh Trang trên cây duối cạnh ngôi miếu sau chùa.
+
+"Chùa làng có đủ trăm gian
+
+Nội công ngoại quốc rõ ràng chẳng sai"
+
+Đền Văn Hiến là nơi thờ thành hoàng làng Tô Hiến Thành, phối thờ Hoàng giáp Đỗ Trí Trung. Nơi đây từng là một địa điểm quan trọng trong phong trào "Thiện đàn giáng bút", mượn danh tín ngưỡng để làm thơ chống thực dân Pháp. Hiện nay ngôi đền còn lưu giữ cuốn mộc bản Cổ kim truyền lục với khoảng 500 bài thơ của nhiều tác giả trong vùng, viết vào năm 1907.
+
+Tại đền Văn Hiến có nhiều cây lưu niệm do Chủ tịch nước Nguyễn Minh Triết, Bộ trưởng Bùi Quang Vinh, Bộ trưởng Tô Lâm trồng.
+
+Hạ mỗ là vùng đất có tinh thần đấu tranh cách mạng kiên cường. Toàn xã có 140 liệt sỹ, 28 bà mẹ Việt Nam anh hùng. Thực dân Pháp nhiều lần có ý định đặt bốt ở đây nhưng thất bại.
+
+Quê hương Hạ Mỗ là nơi sinh ra những người con ưu tú như:
+
+1. Thái uý Tô Hiến Thành (1102-1179): Ông sinh ra tại xóm Lẻ, là bậc đại trung thần đời nhà Lý, từng đỗ Thái học sinh. Ông có công lớn trong công cuộc chống ngoại xâm, mở mang bờ cõi, giáo dục và thủy lợi. Ông là tấm gương liêm khiết cho nhiều triều đại. Rất nhiều nơi thờ tụng ông, phong ông làm thành hoàng làng. Có khoảng 72 ngôi đền thờ ông trên nhiều tỉnh thành. Con cháu ông sau này nhiều người trở thành người trong hoàng tộc. Bản thân ông cũng được phong tước vương dù không mang họ Lý. Mộ ông quàn tại đền Văn Hiến, xã Hạ Mỗ.
+
+2. Thiền sư Nguyễn Trí Bảo, là một trong 10 nhà lý luận xuất sắc của dòng thiền Quan Bích.
+
+Thiền sư cũng là cậu ruột của Tô Hiến Thành. Sư trụ trì tại chùa Thanh Tước (sau đổi tên là chùa Sùng Tự), được coi như Quốc Tự thời đó. Chùa nằm trên núi Thanh Tước, Mê Linh, Vĩnh Phúc. Nay chùa này được phục dựng lại, lấy tên là chùa Linh Tự, đặt tại khu du lịch " Đồi 79 mùa Xuân" tại Mê Linh, Vĩnh Phúc.
+
+3. Tiến sỹ, hoàng giáp Đỗ Trí Trung: Đỗ đệ nhị tiến sĩ triều Lê Thánh Tông năm 1475. Ông là người đứng đầu
+
+Kim Cương bát bộ và tham gia vào hội văn thơ Tao Đàn trong triều.
+
+4. Tiến sỹ Đào Hoàng Thực: Đỗ đệ tam tiến sĩ năm 1722 triều Lê Dụ Tông.
+
+5. Đốc Viên- Nguyễn Xuân Viên: Tham gia phong trào Yên Thế của Đề Thám và là người thành lập đảng Nghĩa Hưng. Mộ ông quàn tại nghĩa trang Mả Đọ, xã Hạ Mỗ.
+
+6. Bí thư thành ủy Vinh (1965-1969) Nguyễn Khắc Nha: Tham gia phong trào đấu tranh của công nhân nhà máy xe lửa Trường Thi tại Nghệ An, một phong trào khởi đầu cho cao trào khởi nghĩa Xô Viết Nghệ Tĩnh những năm 1930. Ông từng giữ chức bí thư thành ủy Vinh, tỉnh Nghệ Tĩnh.
+
+7. Anh hùng liệt sỹ lực lượng vũ trang Lê Thao (biệt danh hùm xám Liên Bắc).
+
+8. Bộ trưởng Bùi Quang Vinh, nguyên Bí thư tỉnh ủy Lào Cai, UVBCH TƯ Đảng, ĐBQH, Bộ trưởng Bộ Kế hoạch Đầu tư.
+
+Người Hạ Mỗ vốn giỏi làm thơ, xưa có câu "Văn Mỗ, phú Cách". Xưa kia nơi đây còn có phong trào hát nhà tơ, múa hát cửa đình.
+
+Hạ Mỗ có phong trào hiếu học từ xưa. Thời phong kiến hầu như xóm nào cũng có thầy đồ dạy chữ miễn phí. Ngay tại đền Văn Hiến vẫn còn lưu giữ bia Khoa Tràng, nơi lưu danh những người đỗ đạt của làng. Xưa kia, tại khu Mả Từa còn có gò Nghiên, gò Bút với hàm ý mong cho con cháu chăm chỉ học hành.
+
+Hiện nay Hạ Mỗ luôn là một trong những xã có số học sinh đỗ đại học hàng đầu trong huyện. Đội ngũ trí thức của làng nhiều người là Thạc sỹ, Tiến Sỹ, Sau Tiến Sỹ và GS-PGS trong nước cũng như tu nghiệp ở nước ngoài.
+
+== Hành chính== 
+Xã Tân Hội cùng với xã [[Ô Diên| Tân Lập]] trước đây vốn thuộc tổng Gối, phủ Hoài Đức. Xã Tân Hội ngày nay gồm 4 thôn là: Thúy Hội, Thượng Hội, Vĩnh Kỳ và Phan Long.
+
+== Giao thông== 
+Xã Tân Hội có vị trí giao thông khá thuận lợi có tuyến đường tỉnh lộ 422. Ngoài ra các tuyến đường chính liên xã liên thôn cũng được mở rộng và trải nhựa khá đẹp. Hệ thống xe buýt có tuyến CNG06.
+
+== Văn hóa== 
+'''Hát chèo tàu'''
+
+Tân Hội là quê hương của điệu hát Chèo Tàu nổi tiếng. Hát chèo tàu được bắt nguồn từ truyền thuyết về cuộc tiến quân hùng tráng của Hai Bà Trưng đánh Tô Định đời Đông Hán. Hội chèo tàu mở 25 năm một lần, trong 3 ngày từ 14 đến 16 tháng giêng âm lịch. Miếu Voi Phục và Lăng Văn Sơn ở làng Thượng Hội là nơi diễn ra hội hát Chèo tàu tổng Gối.
+
+Năm 2001, Hội Văn nghệ dân gian Việt Nam để cử hát Chèo tàu cùng múa Thái lên UNESCO để công nhận là di sản văn hoá phi vật thể của thế giới nhưng không được công nhận vì hồ sơ chuẩn bị quá sơ sài (1).
+
+'''Di tích lịch sử'''
+
+Miếu Voi Phục và Lăng Văn Sơn tương truyền là nơi ở và phần mộ của Tướng quân Hắc y Đại Vương Văn Dĩ Thành. Tướng quân Văn Dĩ Thành (1380-1416) là người lãnh đạo nhân dân tổng Gối chống lại quân xâm lược Minh thời vua Trần Trùng Quang và đã hi sinh. 
+Ngày 22 tháng 2 năm 1947, trên đường rút quân từ Hà Nội lên chiến khu, Đại tướng Võ Nguyên Giáp cùng Trung đoàn Thủ Đô đã hội quân tại đây.
+
+Với những giá trị lớn lao như vậy, miếu Voi Phục và lăng Văn Sơn đã được Bộ Văn hóa Thông tin xếp hạng di tích lịch sử văn hóa cấp quốc gia tháng 7 năm 1997.
+
+== Kinh tế== 
+Xã Tân Hội trước đây ngoài sản xuất nông nghiệp còn có nghề rèn. Sau đó một số ít người đi xuất ngoại, theo đó dần già con số người đi theo tăng lên vài chục, hàng trăm rồi đến vài trăm khi trở về ít nhiều cũng làm thay đổi kinh tế gia đình thậm chí có vốn. Với lợi thế giáp ranh xã Liên Trung, Liên Hà có nghề mộc nổi tiếng cộng với một số hộ cũng có vốn đầu tư xưởng mộc, vì thế nghề mộc tiếp theo lại được phát triển dần ở đây. Nghề dâu tằm, dệt vải, rèn trước đây giờ đã mai một. Về nông nghiệp trước đây là trồng cây lương thực, nuôi tằm sau đó chuyển sang rau màu, cây màu sau đó một số chuyển sang trồng hoa hồng, hoa khác. Nhưng hiện nay hai nghề chính làm nên nền kinh tế xã phát triển trội hẳn so với các xã khác thì chủ yếu là từ xuất ngoại và nghề mộc mới phát triển trong số nhiều nghề đã có ở nơi đây.
+
+== Lịch sử== 
+Trong thời kỳ phong kiến, cuối [[thời Lê]], đầu [[thời Nguyễn]], xã Liên Hà là vùng đất thuộc tổng Hà Lỗ, huyện Đông Ngàn, phủ Từ Sơn, trấn Kinh Bắc (sau là tỉnh Bắc Ninh).
+
+Cách mạng tháng Tám thành công, ba xã: Hà Lỗ, Thù Lỗ, Lỗ khê nhập thành xã Ngũ Hà thuộc huyện Từ Sơn, tỉnh Bắc Ninh.
+
+[[Tháng 4]] năm [[1949]], xã Liên Hà thuộc huyện Từ Sơn, tỉnh Bắc Ninh được thành lập trên cơ sở sáp nhập xã Ngũ Hà và xã Hà Vĩ.<ref name = ĐA>{{chú thích sách| author = UBND huyện Đông Anh | url = https://donganh.hanoi.gov.vn/documents/6071114/6720657/D%E1%BB%B1+th%E1%BA%A3o+%C4%91%E1%BB%81+%C3%A1n+qu%E1%BA%ADn+%C4%90%C3%B4ng+Anh.pdf| title = Dự thảo Đề án thành lập quận Đông Anh và các phường thuộc quận Đông Anh, thành phố Hà Nội | year = 2023 | location = Đông Anh, Hà Nội | p = 89-90 | url-status = live| archive-url = https://web.archive.org/web/20230712081151/https://donganh.hanoi.gov.vn/documents/6071114/6720657/D%E1%BB%B1+th%E1%BA%A3o+%C4%91%E1%BB%81+%C3%A1n+qu%E1%BA%ADn+%C4%90%C3%B4ng+Anh.pdf| archive-date = 2023-07-12}}</ref>
+
+Ngày [[20 tháng 4]] năm [[1961]], Quốc hội ban hành Nghị quyết<ref>{{Chú thích web| url = https://m.thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Nghi-Quyet-mo-rong-thanh-pho-Ha-Noi-42689.aspx| tựa đề = Nghị quyết về việc mở rộng thành phố Hà Nội | tác giả = | ngày = | website = Thư viện Pháp luật | url lưu trữ = | ngày lưu trữ = | ngày truy cập = }}</ref> về việc sáp nhập xã Liên Hà thuộc huyện Từ Sơn, tỉnh Bắc Ninh vào huyện Đông Anh, thành phố Hà Nội quản lý.
+
+== Kinh tế== 
+Trường cấp I, cấp II, trạm y tế xã Liên Hà thuộc thôn Châu Phong.
+
+=== Nông nghiệp=== 
+Hiện tại, việc trồng trọt, chăn nuôi chủ yếu tự cung tự cấp lương thực, thực phẩm trong gia đình mà không sản xuất hàng hoá. Nghề nông nghiệp của Châu Phong đang dần dần mai một, hiện tại người dân chủ yếu trồng lúa nước hai vụ, vụ đông hầu như không trồng mà để đất bỏ hoang. Việc phân công lao động của Châu Phong diễn ra khá mạnh, việc sản xuất đa phần là thuê mướn do dân cư làm nghề nông rất ít và chủ yếu là phụ nữ, đàn ông Châu Phong Hà rất ít khi ra ruộng, cấy cày, gặp hái mà chủ yếu ở nhà sản xuất tiểu thủ công nghiệp.
+
+=== Tiểu thủ công nghiệp, làng nghề=== 
+Dân Châu Phong nổi tiếng khéo tay, có con mắt nghệ thuật cao. Sản phẩm đồ gỗ mỹ nghệ truyền thống là sự kết hợp khéo léo giữa chất liệu tự nhiên là gỗ với bàn tay khối óc của người thợ. Mỗi sản phẩm làm ra đều đánh dấu sự phân công lao động hợp lí, kết hợp với đồ hoạ, kiến trúc tỉ mỉ của con người.
+
+Những năm gần đây kinh tế của Thôn Châu Phong triển mạnh mẽ. Hàng nghìn xưởng thợ thủ công ra đời tại các thôn thu hút một lượng lớn người thợ ở các nơi như Hà Tây (cũ), Ninh Bình, Tuyên Quang, Vĩnh Phúc, Thái Nguyên. Hiện tại, dân nhập cư còn lớn hơn so với dân số hiện tại của xã. Với sự phát triển vượt bậc về kinh tế, người dân có điều kiện xây nhà cao tầng, biệt thự,mua sắm ôtô, xe máy và các trang thiết bị đồ dùng sinh hoạt. Con em trong xã được học hành, giao thông thôn xóm cải thiện.
+
+-->
+== Chú thích== 
+{{tham khảo}}
+
+== Liên kết ngoài== 
+* [http://www.tienphong.vn/xa-hoi-phong-su/dai-tuong-van-tien-dung-va-hon-3000-ngay-tim-nguon-coi-122321.tpo Đại tướng Văn Tiến Dũng và hơn 3.000 ngày tìm nguồn cội]
+* [http://sknc.qdnd.vn/sukiennhanchung/vi-vn/89/70/269/269/269/277209/default.aspx Sử cũ không quên ghi chép cuộc khởi nghĩa này]
+
+== Tham khảo ==
+{{sơ khai Hà Nội}}
+{{Đơn vị hành chính thuộc thành phố Hà Nội}}

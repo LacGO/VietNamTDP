@@ -1,0 +1,124 @@
+{
+  "ward_code": "10015",
+  "ward_name": "Chương Mỹ",
+  "province_code": "01",
+  "resolution": "",
+  "arrangement": "2026_07",
+  "effective_date": "2026-07-01",
+  "verified": "unverified",
+  "extraction": {
+    "source": "vi.wikipedia.org",
+    "title": "(cache)",
+    "mode": "table"
+  },
+  "sources": [
+    {
+      "key": "wiki-10015-1",
+      "title": "Nghị quyết số 18/NQ-HĐND ngày 29 tháng 6 năm 2026 của Hội đồng nhân dân phường Chương Mỹ về việc phê chuẩn Đề án thành lập, sắp xếp, tổ chức lại tổ dân phố trên địa bàn phường Chương Mỹ",
+      "url": "https://sqhx-hanoi.mediacdn.vn/91579363132710912/2026/6/30/18-nq-hdnd-17827851850562080718690.pdf",
+      "date": "2026-08-05",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-10015-2",
+      "title": "Nghị quyết số 17/NQ-HĐND ngày 6 tháng 12 năm 2025 của Hội đồng nhân dân phường Chương Mỹ về chuyển đổi thôn thành tổ dân phố trên địa bàn phường Chương Mỹ, thành phố Hà Nội",
+      "url": "https://chuongmy.hanoi.gov.vn/tin-tuc-su-kien/chuong-my-chuyen-doi-27-thon-thanh-to-dan-pho-2803251210143235823.htm?gidzl=P-ktM2lTGnXZzBDU8SPB66tribivb4CPSAVa2J-I5KrtfxO9F9X5Jd-flLaoc4XBSAcnNsLw1y5nBjn76W",
+      "date": "2026-08-06",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-10015-3",
+      "title": "Nghị quyết số 2/NQ-UBBC ngày 20 tháng 3 năm 2026 của Ủy ban bầu cử phường Chương Mỹ về việc xác nhận tư cách đại biểu Hội đồng nhân dân phường Chương Mỹ khóa II, nhiệm kỳ 2026 – 2031",
+      "url": "https://sqhx-hanoi.mediacdn.vn/91579363132710912/2026/3/21/nghi-quyet-xac-nhan-tu-cach-dai-bieu-17740565460162121995429.pdf",
+      "date": "2026-08-06",
+      "type": "wikipedia-ref"
+    }
+  ],
+  "note": "Trích tự động từ Wikipedia tiếng Việt (mode=table). Cần đối chiếu nghị quyết HĐND phường/xã.",
+  "tdp": [
+    {
+      "name": "An Phúc Thành",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Biên Giang",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Bình Sơn",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Chúc Ngọc",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Chúc Sơn",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Đại Phẩm",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Đại Yên",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Đại Ơn",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Đồng Nanh",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Long Châu",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Ninh Sơn",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Phú Hòang Giáp",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Phương Bản",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Phượng Đồng",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Phượng Nghĩa",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Quyết Tiến",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Sơn Đồng",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Thụy Dương",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Thụy Hương",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Tiên Lữ",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Tràng An",
+      "type": "tổ dân phố"
+    }
+  ]
+}

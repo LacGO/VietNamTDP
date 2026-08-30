@@ -1,0 +1,145 @@
+{{Thông tin đơn vị hành chính Việt Nam |Xã
+| tên = Xuân Mai
+| hình = Shops in Xuan Mai Town.jpg
+| ghi chú hình = Một góc xã Xuân Mai
+| cỡ hình = 250px
+| vĩ độ = 20.90149684547443
+| kinh độ = 105.59751752204292
+| diện tích = 50,72 km²
+| dân số = 67.310 người
+| thời điểm dân số = 2025
+| mật độ dân số = {{formatnum:{{#expr:floor({{formatnum:67.310| R}}/{{formatnum:50,72| R}})}} }} người/km²
+| vùng = [[Đồng bằng sông Hồng]]
+| thành phố = [[Hà Nội]]
+| thành lập = 
+| trụ sở UBND = Thôn Trí Thủy<ref>{{Chú thích web |url=https://storage-vnportal.vnpt.vn/gov-hni/6244/VanBan/2025/6/25/TB-729-2025.pdf |title=Thông báo số 729/TB-UBND ngày 25 tháng 6 năm 2025 của Ủy ban nhân dân thành phố Hà Nội về địa điểm trụ sở làm việc của 126 phường, xã sau sắp xếp thuộc phạm vi quản lý của thành phố Hà Nội|access-date=2026-06-15 |archive-date=2026-06-15 |archive-url=https://web.archive.org/web/20260615034519/https://storage-vnportal.vnpt.vn/gov-hni/6244/VanBan/2025/6/25/TB-729-2025.pdf |url-status=dead | website = Cổng Thông tin điện tử Ủy ban nhân dân thành phố Hà Nội}}</ref>
+| mã hành chính =10045<ref>{{Chú thích web |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/19ttg.signed.pdf |title=Quyết định số 19/2025/QĐ-TTg ngày 30 tháng 6 năm 2025 của Thủ tướng Chính phủ về việc Ban hành Bảng danh mục và mã số các đơn vị hành chính Việt Nam |access-date=2026-06-15 |archive-date=2026-06-15 |archive-url=https://web.archive.org/web/20260615034519/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/19ttg.signed.pdf |url-status=dead | website = Cổng Thông tin điện tử Chính phủ}}</ref> 
+| mã bưu chính = 
+| phân chia hành chính = |web={{url|xuanmai.hanoi.gov.vn}}|bản đồ 1={{maplink|frame=yes|plain=yes|type=shape|frame-width=280|frame-align=center|stroke-width=3}}|trụ sở Đảng ủy=Thôn Nam Tiến}}{{bài cùng tên}}
+'''Xuân Mai''' là một [[Xã (Việt Nam)|xã]] thuộc thành phố [[Hà Nội]], [[Việt Nam]].
+
+== Địa lý== 
+Xã Xuân Mai có vị trí địa lý:
+*Phía đông giáp xã [[Trần Phú, Hà Nội|Trần Phú]].
+*Phía tây giáp xã [[Lương Sơn, Phú Thọ|Lương Sơn]] thuộc tỉnh [[Phú Thọ]]
+*Phía nam giáp xã [[Liên Sơn, Phú Thọ|Liên Sơn]] thuộc tỉnh [[Phú Thọ]]
+*Phía bắc giáp xã [[Phú Cát]] và xã [[Phú Nghĩa, Hà Nội|Phú Nghĩa]].<ref>{{Chú thích web |last=Viện nghiên cứu Phát triển kinh tế – xã hội Hà Nội |date=2025-07-02 |title=Xã Xuân Mai: Những thông tin chi tiết sau sắp xếp |url=https://hanoionline.vn/xa-xuan-mai-nhung-thong-tin-chi-tiet-sau-sap-xep-344183.htm |url-status=live |archive-url=https://web.archive.org/web/20260711400809/https://hanoionline.vn/xa-xuan-mai-nhung-thong-tin-chi-tiet-sau-sap-xep-344183.htm |archive-date=2026-07-11 |access-date=2026-07-11 |website=Cơ quan Báo và Phát thanh Truyền hình Hà Nội}}</ref><ref>{{Chú thích web |last=Cơ quan Báo và Phát thanh Truyền hình Hà Nội |date=2025-07-08 |title=Xã Xuân Mai: Tất cả thông tin chỉ dẫn bạn cần biết |url=https://hanoionline.vn/xa-xuan-mai-tat-ca-thong-tin-chi-dan-ban-can-biet-345450.htm |url-status=live |archive-url=https://web.archive.org/web/20260711401509/https://hanoionline.vn/xa-xuan-mai-tat-ca-thong-tin-chi-dan-ban-can-biet-345450.htm |archive-date=2026-07-11 |access-date=2026-07-11}}</ref>
+Xã Xuân Mai có diện tích tự nhiên là 50,72 km<sup>2</sup>, quy mô dân số năm 2025 là 67.310 người và mật độ dân số đạt 1.327 người/km<sup>2</sup>.<ref>{{Chú thích web |last=Mai Hữu |date=2026-04-05 |title=Hà Nội: Chi tiết phương án tổng thể sắp xếp đơn vị hành chính cấp xã |url=https://hanoimoi.vn/ha-noi-chi-tiet-phuong-an-tong-the-sap-xep-don-vi-hanh-chinh-cap-xa-700278.html |url-status=live |archive-url=https://web.archive.org/web/20260711401509/https://hanoimoi.vn/ha-noi-chi-tiet-phuong-an-tong-the-sap-xep-don-vi-hanh-chinh-cap-xa-700278.html |archive-date=2026-07-11 |access-date=2026-07-11 |website=Cơ quan Báo và Phát thanh, truyền hình Hà Nội}}</ref><ref>Công văn số 2896/BNV-CQĐP ngày 27 tháng 5 năm 2025 của Bộ Nội vụ về việc cung cấp thông tin danh mục dự kiến đơn vị hành chính cấp xã mới.</ref>
+
+== Lịch sử==
+
+=== Trước năm 1976 ===
+
+=== Giai đoạn 1976 – nay ===
+Sau ngày 2 tháng 7 năm 1976, 3 xã: Nam Phương Tiến, Tân Tiến và Thủy Xuân Tiên thuộc huyện [[Chương Mỹ (huyện)|Chương Mỹ]] của tỉnh [[Hà Sơn Bình]].
+
+Ngày 27 tháng 3 năm 1984, chia tách xã Thủy Xuân Tiên thành 2 đơn vị hành chính là xã Thủy Xuân Tiên và thị trấn Xuân Mai.<ref>Quyết định số 53-HĐBT ngày 27 tháng 3 năm 1984 của Hội đồng Bộ trưởng về việc chia tách xã Thủy Xuân Tiên của huyện Chương Mỹ thuộc tỉnh Hà Sơn Bình thành 2 đơn vị hành chính là xã Thủy Xuân Tiên và thị trấn Xuân Mai.</ref><ref>{{Chú thích web |last=Phú Trần |date=2024-03-23 |title=Hành trình 40 năm: Thị trấn Xuân Mai ghi dấu ấn phát triển |url=https://thanhuyhanoi.vn/tin-tuc/huyen-chuong-my/hanh-trinh-40-nam-thi-tran-xuan-mai-ghi-dau-an-phat-trien-50005716.html |url-status=dead |archive-url=https://web.archive.org/web/20260731201509/https://thanhuyhanoi.vn/tin-tuc/huyen-chuong-my/hanh-trinh-40-nam-thi-tran-xuan-mai-ghi-dau-an-phat-trien-50005716.html |archive-date=2026-07-31 |access-date=2026-07-31 |website=Trang Thông tin điện tử Đảng bộ thành phố Hà Nội}}</ref><ref>{{Chú thích web |last=Nhật Minh |date=2024-03-24 |title=Xuân Mai (Chương Mỹ): Thu nhập bình quân đầu người tăng 8 lần sau 15 năm |url=https://danviet.vn/xuan-mai-chuong-my-thu-nhap-binh-quan-dau-nguoi-tang-8-lan-sau-15-nam-2024032407513655-d842433.html?gidzl=wPYnEjbujZRjXxKyqsEoCEU4i3hFOh5by82oQCDcvMNzWh9gcMIvDgRKw3oIDkqsfD3dQZ06qJ8zt7coD0 |url-status=dead |archive-url=https://web.archive.org/web/20260731201509/https://danviet.vn/xuan-mai-chuong-my-thu-nhap-binh-quan-dau-nguoi-tang-8-lan-sau-15-nam-2024032407513655-d842433.html?gidzl=wPYnEjbujZRjXxKyqsEoCEU4i3hFOh5by82oQCDcvMNzWh9gcMIvDgRKw3oIDkqsfD3dQZ06qJ8zt7coD0 |archive-date=2026-07-31 |access-date=2026-07-31 |website=Báo Dân Việt}}</ref>
+
+Ngày 12 tháng 8 năm 1991, chia tỉnh [[Hà Sơn Bình]] thành 2 tỉnh, lấy tên là tỉnh [[Hòa Bình (tỉnh)|Hòa Bình]] và tỉnh [[Hà Tây (tỉnh)|Hà Tây]]. Khi đó, thị trấn Xuân Mai và 3 xã: Nam Phương Tiến, Tân Tiến, Thủy Xuân Tiên thuộc huyện [[Chương Mỹ (huyện)|Chương Mỹ]] của tỉnh [[Hà Tây (tỉnh)|Hà Tây]].<ref>Nghị quyết ngày 12 tháng 8 năm 1991 của Quốc hội khóa VIII, Kỳ họp thứ 9 về việc điều chỉnh địa giới hành chính một số tỉnh, thành phố trực thuộc Trung ương.</ref>
+
+Ngày 29 tháng 5 năm 2008, hợp nhất tỉnh [[Hà Tây (tỉnh)|Hà Tây]] vào thành phố [[Hà Nội]]. Khi đó, thị trấn Xuân Mai và 3 xã: Nam Phương Tiến, Tân Tiến, Thủy Xuân Tiên thuộc huyện [[Chương Mỹ (huyện)|Chương Mỹ]] của thành phố [[Hà Nội]].<ref>Nghị quyết số 15/2008/QH12 ngày 29 tháng 5 năm 2008 của Quốc hội khóa XII, Kỳ họp thứ 3 về việc điều chỉnh địa giới hành chính thành phố Hà Nội và một số tỉnh có liên quan.</ref>
+
+Ngày 16 tháng 6 năm 2025:
+
+* Kết thúc hoạt động của đơn vị hành chính cấp huyện trong cả nước.<ref>{{Chú thích web |last= |date= |title=Nghị quyết số 203/2025/QH15 ngày 16 tháng 6 năm 2025 của Quốc hội khóa XV, Kỳ họp thứ 9 về việc sửa đổi, bổ sung một số điều của Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/nq-sua-doi-hien-phap.pdf |url-status=live |archive-url=https://web.archive.org/web/20260613090807/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/nq-sua-doi-hien-phap.pdf |archive-date=2026-06-13 |access-date=2026-06-13 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+* Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của thị trấn Xuân Mai, xã Nam Phương Tiến, xã Thủy Xuân Tiên và một phần diện tích tự nhiên, quy mô dân số của xã Tân Tiến (huyện [[Chương Mỹ (huyện)|Chương Mỹ]]) thành xã mới có tên gọi là xã Xuân Mai.<ref>{{Chú thích web |title=Nghị quyết số 1656/NQ-UBTVQH15 ngày 16 tháng 6 năm 2025 của Ủy ban Thường vụ Quốc hội về việc sắp xếp các đơn vị hành chính cấp xã của thành phố Hà Nội năm 2025 |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf |url-status=live |archive-url=https://web.archive.org/web/20260630400809/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf |archive-date=2026-06-30 |access-date=2026-06-30 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+* Sau khi sắp xếp, xã Xuân Mai được chia thành 36 thôn.<ref>9 tổ dân phố: Bùi Xá, Chiến Thắng, Đồng Vai, Tân Bình, Tân Mai, Tân Xuân, Tiên Trượng, Xuân Hà và Xuân Mai của thị trấn Xuân Mai cũ; 10 thôn: Đông Nam, Đồi Miễu, Đồi Mít, Đồi Ngai, Hạnh Bồ, Hạnh Côn, Nam Hài, Nam Sơn, Nhân Lý và Núi Bé của xã Nam Phương Tiến cũ; 11 thôn: Bốn, Cầu Tiến, Gò Cáo, Tiên Trượng, Tiến Ân, Trí Thủy, Xuân Linh, Xuân Long, Xuân Sen, Xuân Thủy và Xuân Trung của xã Thủy Xuân Tiên cũ; 6 thôn: Đông Tiến, Đồi Chè, Phương Hạnh, Tân Hội, Tiến Tiên và Việt An của xã Tân Tiến cũ.</ref><ref>{{Chú thích web |title=Thông tư số 10/2022/TT-BTNMT ngày 29 tháng 9 năm 2022 của Bộ Tài nguyên và Môi trường về việc Ban hành Danh mục địa danh dân cư, sơn văn, thủy văn, kinh tế – xã hội phục vụ công tác thành lập bản đồ thành phố Hà Nội |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2022/10/10-btnmt.pdf |url-status=live |archive-url=https://web.archive.org/web/20260630400809/https://datafiles.chinhphu.vn/cpp/files/vbpq/2022/10/10-btnmt.pdf |archive-date=2026-06-30 |access-date=2026-06-30 |website=Cổng Thông tin điện tử Chính phủ}}</ref><ref>{{Chú thích web |last= |date= |title=Quyết định số 63/QĐ-UBBC ngày 20 tháng 3 năm 2026 của Ủy ban bầu cử xã Xuân Mai về việc công bố kết quả bầu cử và danh sách những người trúng cử đại biểu Hội đồng nhân dân xã Xuân Mai khóa X, nhiệm kỳ 2026 – 2031 |url=https://sqhx-hanoi.mediacdn.vn/91579363132710912/2026/3/20/so-63-qd-cong-bo-ket-qua-bau-cu-va-danh-sach-nhung-nguoi-trung-cu-dai-bieu-hdnd-xa-xuan-mai0001-17740049075941217043209.pdf |url-status=dead |archive-url=https://web.archive.org/web/20260805201510/https://sqhx-hanoi.mediacdn.vn/91579363132710912/2026/3/20/so-63-qd-cong-bo-ket-qua-bau-cu-va-danh-sach-nhung-nguoi-trung-cu-dai-bieu-hdnd-xa-xuan-mai0001-17740049075941217043209.pdf |archive-date=2026-08-05 |access-date=2026-08-05 |website=Trang Thông tin điện tử xã Xuân Mai – thành phố Hà Nội}}</ref>
+Ngày 1 tháng 7 năm 2025, chuyển đổi 9 tổ dân phố: Bùi Xá, Tiên Trượng, Xuân Mai, Xuân Hà, Tân Xuân, Đồng Vai, Tân Bình, Chiến Thắng và Tân Mai thuộc thị trấn Xuân Mai (cũ) thành thôn; đổi tên thôn Tiên Trượng thành thôn Tiên Xuân.<ref>1. Tổ dân phố Bùi Xá chuyển đổi thành thôn Bùi Xá; 2. Tổ dân phố Tiên Trượng chuyển đổi thành thôn Tiên Trượng; 3. Tổ dân phố Xuân Mai chuyển đổi thành thôn Xuân Mai; 4. Tổ dân phố Xuân Hà chuyển đổi thành thôn Xuân Hà; 5. Tổ dân phố Tân Xuân chuyển đổi thành thôn Tân Xuân; 6. Tổ dân phố Đồng Vai chuyển đổi thành thôn Đồng Vai; 7. Tổ dân phố Tân Bình chuyển đổi thành thôn Tân Bình; 8. Tổ dân phố Chiến Thắng chuyển đổi thành thôn Chiến Thắng; 9. Tổ dân phố Tân Mai chuyển đổi thành thôn Tân Mai; 10. Đổi tên thôn Tiên Trượng thành thôn Tiên Xuân trên địa bàn xã Xuân Mai.</ref><ref>{{Chú thích web |title=Nghị quyết số 6/NQ-HĐND ngày 1 tháng 7 năm 2025 của Hội đồng nhân dân xã Xuân Mai về việc chuyển đổi tổ dân phố thành thôn trên địa bàn xã Xuân Mai |url=https://web.facebook.com/photo?fbid=2951579438371105&set=pcb.2489522124753863 |url-status=dead |archive-url=https://web.archive.org/web/20260805201510/https://web.facebook.com/photo?fbid=2951579438371105&set=pcb.2489522124753863 |archive-date=2026-08-05 |access-date=2026-08-05}}</ref><ref>{{Chú thích web |title=Nghị quyết số 7/NQ-HĐND ngày 1 tháng 7 năm 2025 của Hội đồng nhân dân xã Xuân Mai về việc đổi tên thôn Tiên Trượng thành thôn Tiên Xuân trên địa bàn xã Xuân Mai |url=https://web.facebook.com/photo?fbid=2951579461704436&set=pcb.2489522124753863 |url-status=dead |archive-url=https://web.archive.org/web/20260805201510/https://web.facebook.com/photo?fbid=2951579461704436&set=pcb.2489522124753863 |archive-date=2026-08-05 |access-date=2026-08-05}}</ref>
+
+Ngày 24 tháng 12 năm 2025, xác định một phần của xã Xuân Mai là [[Đô thị Việt Nam|đô thị loại III]].<ref>Chuyển tiếp từ thị trấn Xuân Mai thuộc huyện Chương Mỹ.</ref><ref>{{Chú thích web |title=Nghị quyết số 111/2025/UBTVQH15 ngày 24 tháng 12 năm 2025 của Ủy ban Thường vụ Quốc hội về phân loại đô thị |url=https://cdn.nhandan.vn/files/f4a4abf7f9a0ba4a91744616546d850872b76917f90d5a74cc9eebef1369fb6f/111.pdf |url-status=dead |archive-url=https://web.archive.org/web/20260712401509/https://cdn.nhandan.vn/files/f4a4abf7f9a0ba4a91744616546d850872b76917f90d5a74cc9eebef1369fb6f/111.pdf |archive-date=2026-07-12 |access-date=2026-07-12 |website=Báo Nhân dân}}</ref>
+
+Ngày 26 tháng 6 năm 2026, thành lập 14 thôn mới: Tân Mai, Chiến Thắng, Xuân Hà, Tiên Xá, Tiến Ân, Trí Thủy, Xuân Linh, Xuân Sen, Tiến Tiên, Phương Hạnh, Nam Phương, Việt An, Đông Tiến và Nam Tiến.<ref>1. Thôn Tân Mai: Sắp xếp toàn bộ diện tích tự nhiên và quy mô dân số của thôn Tân Mai, một phần diện tích tự nhiên và quy mô dân số của tổ 3, tổ 5, toàn bộ diện tích tự nhiên và quy mô dân số của tổ 7 thôn Chiến Thắng; 2. Thôn Chiến Thắng: Điều chỉnh một phần diện tích tự nhiên và quy mô dân số của tổ 3, tổ 5, toàn bộ diện tích tự nhiên và quy mô dân số của tổ 7 thôn Chiến Thắng về thôn Tân Mai; 3. Thôn Xuân Hà: Sắp xếp toàn bộ diện tích tự nhiên và quy mô dân số thôn Xuân Hà với thôn Đồng Vai; 4. Thôn Tiên Xá: Sắp xếp toàn bộ diện tích tự nhiên và quy mô dân số thôn Tiên Xuân với thôn Bùi Xá; 5. Thôn Tiến Ân: Sắp xếp toàn bộ diện tích tự nhiên và quy mô dân số thôn Tiến Ân, Cầu Tiến, Tiên Trượng; 6. Thôn Trí Thủy: Sắp xếp toàn bộ diện tích tự nhiên và quy mô dân số thôn Trí Thủy, thôn Bốn, thôn Gò Cáo; 7. Thôn Xuân Linh: Sắp xếp toàn bộ diện tích tự nhiên và quy mô dân số thôn Xuân Linh với thôn Xuân Trung; 8. Thôn Xuân Sen: Sắp xếp toàn bộ diện tích tự nhiên và quy mô dân số thôn Xuân Sen với thôn Xuân Long; 9. Thôn Tiến Tiên: Sắp xếp toàn bộ diện tích tự nhiên và quy mô dân số thôn Tiến Tiên với thôn Đồi Chè; 10. Thôn Phương Hạnh: Sắp xếp toàn bộ diện tích tự nhiên và quy mô dân số thôn Phương Hạnh, thôn Tân Hội, xóm Núi Vèn (Thôn Việt An); 11. Thôn Nam Phương: Sắp xếp toàn bộ diện tích tự nhiên và quy mô dân số thôn Nhân Lý, Hạnh Bồ, Nam Hài; 12. Thôn Việt An: Sắp xếp phần lớn diện tích tự nhiên và quy mô dân số thôn Việt An (Điều chỉnh xóm Chằm Rọn về thôn Nam Tiến sau sắp xếp, xóm Núi Vèn về thôn Phương Hạnh sau sắp xếp) với thôn Hạnh Côn; 13. Thôn Đông Tiến: Sắp xếp phần lớn diện tích tự nhiên và quy mô dân số thôn Đông Tiến (Điều chỉnh một phần xóm Kẻ Chay về thôn Nam Tiến sau sắp xếp) với thôn Nam Sơn; 14. Thôn Nam Tiến: Sắp xếp thôn Đồi Miễu, thôn Núi Bé, thôn Đồi Ngai, thôn Đồi Mít, thôn Đông Nam, xóm Chằm Rọn (thôn Việt An), một phần xóm Kẻ Chay (thôn Đông Tiến); 15. Thôn Xuân Mai: Giữ nguyên; 16. Thôn Tân Bình: Giữ nguyên; 17. Thôn Tân Xuân: Giữ nguyên; 18. Thôn Xuân Thủy: Giữ nguyên.</ref><ref name=":02">{{Chú thích web |last= |date= |title=Nghị quyết số 25/NQ-HĐND ngày 26 tháng 6 năm 2026 của Hội đồng nhân dân xã Xuân Mai về việc sắp xếp thôn trên địa bàn xã Xuân Mai |url=https://sqhx-hanoi.mediacdn.vn/91579363132710912/2026/6/27/25-nq-ve-sap-xep-thon-tren-dia-ban-xa-c-17825273502162099132194.pdf |url-status=dead |archive-url=https://web.archive.org/web/20260805201510/https://sqhx-hanoi.mediacdn.vn/91579363132710912/2026/6/27/25-nq-ve-sap-xep-thon-tren-dia-ban-xa-c-17825273502162099132194.pdf |archive-date=2026-08-05 |access-date=2026-08-05 |website=Trang Thông tin điện tử xã Xuân Mai – thành phố Hà Nội}}</ref>
+
+== Hành chính ==
+Xã Xuân Mai được chia thành 18 thôn: Chiến Thắng, Đông Tiến, Nam Phương, Nam Tiến, Phương Hạnh, Tân Bình, Tân Mai, Tân Xuân, Tiên Xá, Tiến Ân, Tiến Tiên, Trí Thủy, Việt An, Xuân Hà, Xuân Linh, Xuân Mai, Xuân Sen và Xuân Thủy.<ref name=":02" />
+{| class="wikitable sortable" align="center" width="100%" cellspacing="6" cellpadding="0" style="background: #f9f9f9; border: 1px #aaa solid; margin-top: 16px"
+! colspan="4" style="background: #E6E6FA; font-size: 95%;" |Danh sách các thôn thuộc xã Xuân Mai<ref name=":02" />
+|-
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Chiến Thắng
+|713
+|-
+| align="left" |Đông Tiến
+|865
+|-
+| align="left" |Nam Phương
+|793
+|-
+| align="left" |Nam Tiến
+|1.033
+|-
+| align="left" |Phương Hạnh
+|907
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Tân Bình
+|1.813
+|-
+| align="left" |Tân Mai
+|679
+|-
+| align="left" |Tân Xuân
+|1.320
+|-
+| align="left" |Tiên Xá
+|705
+|-
+| align="left" |Tiến Ân
+|935
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Tiến Tiên
+|819
+|-
+| align="left" |Trí Thủy
+|981
+|-
+| align="left" |Việt An
+|652
+|-
+| align="left" |Xuân Hà
+|887
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Xuân Linh
+|1.359
+|-
+| align="left" |Xuân Mai
+|522
+|-
+| align="left" |Xuân Sen
+|995
+|-
+| align="left" |Xuân Thủy
+|736
+|}
+|}
+
+== Giao thông ==
+Xã Xuân Mai nằm trên điểm giao nhau giữa [[Quốc lộ 6]] và [[Quốc lộ 21A]] (nay là [[Đường Hồ Chí Minh]]), là cửa ngõ phía tây của thành phố Hà Nội, cách trung tâm thành phố 33 km.<ref>{{Chú thích web| url = https://vnexpress.net/5-do-thi-ve-tinh-ha-noi-nhin-tu-tren-cao-3783387.html| tựa đề = 5 đô thị vệ tinh Hà Nội nhìn từ trên cao| ngày = 2018-08-01| website = Báo điện tử VnExpress}}</ref>
+
+== Di tích - Danh thắng== 
+* Đình Tiến Ân: Đình làng Tiến Ân ở xã Thủy Xuân Tiên, Chương Mỹ, [[Hà Nội]] là nơi thờ nhị vị [[tướng nhà Đinh]] là Đặng Đống Thính và em trai Đặng Chiêu Pháp có công đánh dẹp [[loạn 12 sứ quân]] thống nhất đất nước [[Đại Cồ Việt]], đặc biệt là trận đánh sứ quân [[Đỗ Cảnh Thạc]] ở đồn Bảo Đà.<ref>[http://danviet.vn/que-nha/ky-la-ngoi-dinh-thieng-va-cay-thi-nghin-tuoi-439222.html Kỳ lạ ngôi đình thiêng và cây thị nghìn tuổi]</ref>
+
+== Chú thích== 
+{{Tham khảo}}
+
+== Tham khảo ==
+{{sơ khai Hà Nội}}
+{{Đơn vị hành chính thuộc thành phố Hà Nội}}

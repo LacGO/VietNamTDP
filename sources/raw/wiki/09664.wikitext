@@ -1,0 +1,128 @@
+{{Thông tin đơn vị hành chính Việt Nam
+| tên = Vật Lại
+| hình = 
+| ghi chú hình = 
+| vĩ độ = 21.207772811478158
+| kinh độ = 105.40490131220531
+| diện tích = 51,76 km²
+| dân số = 58.579 người
+| thời điểm dân số = 2025
+| mật độ dân số = {{formatnum:{{#expr:floor({{formatnum:58.579| R}}/{{formatnum:51,76| R}})}} }} người/km²
+| vùng = [[Đồng bằng sông Hồng]]
+| thành phố = [[Hà Nội]]
+| web = {{url|vatlai.hanoi.gov.vn}}
+| phân chia hành chính = |Xã|trụ sở UBND=Thôn Vật Lại<ref>{{Chú thích web |url=https://storage-vnportal.vnpt.vn/gov-hni/6244/VanBan/2025/6/25/TB-729-2025.pdf |title=Thông báo số 729/TB-UBND ngày 25 tháng 6 năm 2025 của Ủy ban nhân dân thành phố Hà Nội về địa điểm trụ sở làm việc của 126 phường, xã sau sắp xếp thuộc phạm vi quản lý của thành phố Hà Nội|access-date=2026-06-15 |archive-date=2026-06-15 |archive-url=https://web.archive.org/web/20260615034519/https://storage-vnportal.vnpt.vn/gov-hni/6244/VanBan/2025/6/25/TB-729-2025.pdf |url-status=dead | website = Cổng Thông tin điện tử Ủy ban nhân dân thành phố Hà Nội}}</ref>|bản đồ 1={{maplink|frame=yes|plain=yes|type=shape|frame-width=280|frame-align=center|stroke-width=3}}|mã hành chính=09664<ref>{{Chú thích web |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/19ttg.signed.pdf |title=Quyết định số 19/2025/QĐ-TTg ngày 30 tháng 6 năm 2025 của Thủ tướng Chính phủ về việc Ban hành Bảng danh mục và mã số các đơn vị hành chính Việt Nam |access-date=2026-06-15 |archive-date=2026-06-15 |archive-url=https://web.archive.org/web/20260615034519/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/19ttg.signed.pdf |url-status=dead | website = Cổng Thông tin điện tử Chính phủ}}</ref>|thành lập=|trụ sở Đảng ủy=Thôn Vật Lại}}
+
+'''Vật Lại''' là một [[Xã (Việt Nam)|xã]] thuộc thành phố [[Hà Nội]], [[Việt Nam]].
+
+== Địa lý== 
+Xã Vật Lại có vị trí địa lý:
+
+* Phía đông giáp xã [[Vĩnh Thành (định hướng)|Vĩnh Thành]] thuộc tỉnh [[Phú Thọ]] và xã [[Minh Châu, Hà Nội|Minh Châu]] với ranh giới tự nhiên là [[sông Hồng]]
+* Phía tây giáp xã [[Tam Nông, Phú Thọ|Tam Nông]] và xã [[Đào Xá]] thuộc tỉnh [[Phú Thọ]] với ranh giới tự nhiên là [[sông Đà]]
+* Phía nam giáp xã [[Bất Bạt]] và xã [[Quảng Oai (xã)|Quảng Oai]]
+* Phía bắc giáp xã [[Cổ Đô]].<ref>{{Chú thích web |last=Viện nghiên cứu Phát triển kinh tế – xã hội Hà Nội |date=2025-07-02 |title=Xã Vật Lại: Những thông tin chi tiết sau sắp xếp |url=https://hanoionline.vn/xa-vat-lai-nhung-thong-tin-chi-tiet-sau-sap-xep-344081.htm |url-status=live |archive-url=https://web.archive.org/web/20260711400809/https://hanoionline.vn/xa-vat-lai-nhung-thong-tin-chi-tiet-sau-sap-xep-344081.htm |archive-date=2026-07-11 |access-date=2026-07-11 |website=Cơ quan Báo và Phát thanh Truyền hình Hà Nội}}</ref><ref>{{Chú thích web |last=Cơ quan Báo và Phát thanh Truyền hình Hà Nội |date=2025-07-08 |title=Xã Vật Lại: Tất cả thông tin chỉ dẫn bạn cần biết |url=https://hanoionline.vn/xa-vat-lai-tat-ca-thong-tin-chi-dan-ban-can-biet-345431.htm |url-status=live |archive-url=https://web.archive.org/web/20260711401509/https://hanoionline.vn/xa-vat-lai-tat-ca-thong-tin-chi-dan-ban-can-biet-345431.htm |archive-date=2026-07-11 |access-date=2026-07-11}}</ref>
+Xã Vật Lại có diện tích tự nhiên là 51,76 km<sup>2</sup>, quy mô dân số năm 2025 là 58.579 người và mật độ dân số đạt 1.131 người/km<sup>2</sup>.<ref>{{Chú thích web |last=Mai Hữu |date=2026-04-05 |title=Hà Nội: Chi tiết phương án tổng thể sắp xếp đơn vị hành chính cấp xã |url=https://hanoimoi.vn/ha-noi-chi-tiet-phuong-an-tong-the-sap-xep-don-vi-hanh-chinh-cap-xa-700278.html |url-status=live |archive-url=https://web.archive.org/web/20260711401509/https://hanoimoi.vn/ha-noi-chi-tiet-phuong-an-tong-the-sap-xep-don-vi-hanh-chinh-cap-xa-700278.html |archive-date=2026-07-11 |access-date=2026-07-11 |website=Cơ quan Báo và Phát thanh, truyền hình Hà Nội}}</ref><ref>Công văn số 2896/BNV-CQĐP ngày 27 tháng 5 năm 2025 của Bộ Nội vụ về việc cung cấp thông tin danh mục dự kiến đơn vị hành chính cấp xã mới.</ref>
+
+== Lịch sử==
+
+=== Trước năm 1976 ===
+
+=== Giai đoạn 1976 – nay ===
+Sau ngày 2 tháng 7 năm 1976, 5 xã: Đồng Thái, Phú Châu, Phú Sơn, Thái Hòa và Vật Lại thuộc huyện [[Ba Vì (huyện)|Ba Vì]] của thuộc tỉnh [[Hà Sơn Bình]].
+
+Ngày 29 tháng 12 năm 1978, sáp nhập huyện [[Ba Vì (huyện)|Ba Vì]] của tỉnh [[Hà Sơn Bình]] vào thành phố [[Hà Nội]]. Khi đó, 5 xã: Đồng Thái, Phú Châu, Phú Sơn, Thái Hòa và Vật Lại thuộc huyện [[Ba Vì (huyện)|Ba Vì]] của thành phố [[Hà Nội]].<ref>Nghị quyết ngày 29 tháng 12 năm 1978 của Quốc hội khóa VI, Kỳ họp thứ 4 phê chuẩn việc phân vạch lại địa giới thành phố Hà Nội, thành phố Hồ Chí Minh, các tỉnh Hà Sơn Bình, Vĩnh Phú, Cao Lạng, Bắc Thái, Quảng Ninh và Đồng Nai.</ref>
+
+Ngày 12 tháng 8 năm 1991, chia tỉnh [[Hà Sơn Bình]] thành 2 tỉnh, lấy tên là tỉnh [[Hòa Bình (tỉnh)|Hòa Bình]] và tỉnh [[Hà Tây (tỉnh)|Hà Tây]]. Chuyển huyện [[Ba Vì (huyện)|Ba Vì]] của thành phố [[Hà Nội]] về tỉnh [[Hà Tây (tỉnh)|Hà Tây]]. Khi đó, 5 xã: Đồng Thái, Phú Châu, Phú Sơn, Thái Hòa và Vật Lại thuộc huyện [[Ba Vì (huyện)|Ba Vì]] của tỉnh [[Hà Tây (tỉnh)|Hà Tây]].<ref>Nghị quyết ngày 12 tháng 8 năm 1991 của Quốc hội khóa VIII, Kỳ họp thứ 9 về việc điều chỉnh địa giới hành chính một số tỉnh, thành phố trực thuộc Trung ương.</ref>
+
+Ngày 29 tháng 5 năm 2008, hợp nhất tỉnh [[Hà Tây (tỉnh)|Hà Tây]] vào thành phố [[Hà Nội]]. Khi đó, 5 xã: Đồng Thái, Phú Châu, Phú Sơn, Thái Hòa và Vật Lại thuộc huyện [[Ba Vì (huyện)|Ba Vì]] của thành phố [[Hà Nội]].<ref>Nghị quyết số 15/2008/QH12 ngày 29 tháng 5 năm 2008 của Quốc hội khóa XII, Kỳ họp thứ 3 về việc điều chỉnh địa giới hành chính thành phố Hà Nội và một số tỉnh có liên quan.</ref>
+
+Ngày 16 tháng 6 năm 2025:
+
+* Kết thúc hoạt động của đơn vị hành chính cấp huyện trong cả nước.<ref>{{Chú thích web |last= |date= |title=Nghị quyết số 203/2025/QH15 ngày 16 tháng 6 năm 2025 của Quốc hội khóa XV, Kỳ họp thứ 9 về việc sửa đổi, bổ sung một số điều của Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/nq-sua-doi-hien-phap.pdf |url-status=live |archive-url=https://web.archive.org/web/20260613090807/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/nq-sua-doi-hien-phap.pdf |archive-date=2026-06-13 |access-date=2026-06-13 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+* Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của xã Thái Hòa và xã Phú Sơn, các xã Đồng Thái, Phú Châu, Vật Lại (huyện [[Ba Vì (huyện)|Ba Vì]]) thành xã mới có tên gọi là xã Vật Lại.<ref>{{Chú thích web |title=Nghị quyết số 1656/NQ-UBTVQH15 ngày 16 tháng 6 năm 2025 của Ủy ban Thường vụ Quốc hội về việc sắp xếp các đơn vị hành chính cấp xã của thành phố Hà Nội năm 2025 |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf |url-status=live |archive-url=https://web.archive.org/web/20260630400809/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf |archive-date=2026-06-30 |access-date=2026-06-30 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+* Sau khi sắp xếp, xã Vật Lại được chia thành 30 thôn.<ref>6 thôn: Chu Mật, Cộng Hòa, Phú An, Phú Nhiêu, Thuận An và Trung Hà của xã Thái Hòa cũ; 7 thôn: Cao Lĩnh, Đông Hữu, Nhông Nương Tụ, Phú Mỹ, Quy Mông, Thượng Tả và Yên Kỳ của xã Phú Sơn cũ; 4 thôn: Đồng Bảng, Tăng Cấu, Thái Bình và Tri Lai của xã Đồng Thái cũ; 6 thôn: Liễu Châu, Phong Châu và Phú Xuyên từ 1 đến 4 của xã Phú Châu cũ; 7 thôn: Tân Phú Mỹ, Vật Lại từ 1 đến 3, Vật Phụ, Vật Yên và Yên Bồ của xã Vật Lại cũ.</ref><ref>{{Chú thích web |title=Thông tư số 10/2022/TT-BTNMT ngày 29 tháng 9 năm 2022 của Bộ Tài nguyên và Môi trường về việc Ban hành Danh mục địa danh dân cư, sơn văn, thủy văn, kinh tế – xã hội phục vụ công tác thành lập bản đồ thành phố Hà Nội |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2022/10/10-btnmt.pdf |url-status=live |archive-url=https://web.archive.org/web/20260630400809/https://datafiles.chinhphu.vn/cpp/files/vbpq/2022/10/10-btnmt.pdf |archive-date=2026-06-30 |access-date=2026-06-30 |website=Cổng Thông tin điện tử Chính phủ}}</ref><ref>{{Chú thích web |last= |date= |title=Quyết định số 24/QĐ-UBBC ngày 24 tháng 2 năm 2026 của Ủy ban bầu cử xã Vật Lại về việc công bố danh sách chính thức những người ứng cử đại biểu Hội đồng nhân dân xã Vật Lại, Khóa XXI, nhiệm kỳ 2026 – 2031 |url=https://sqhx-hanoi.mediacdn.vn/91579363132710912/2026/2/26/24qd-cong-bo-danh-sach-chinh-thuc-nguoi-ung-cu-db-hdnd-xa-vat-lai-17720934867582098664817.pdf |url-status=dead |archive-url=https://web.archive.org/web/20260730400809/https://sqhx-hanoi.mediacdn.vn/91579363132710912/2026/2/26/24qd-cong-bo-danh-sach-chinh-thuc-nguoi-ung-cu-db-hdnd-xa-vat-lai-17720934867582098664817.pdf |archive-date=2026-07-30 |access-date=2026-07-30 |website=Trang Thông tin điện tử xã Vật Lại – thành phố Hà Nội}}</ref>
+Ngày 30 tháng 6 năm 2026, thành lập 10 thôn mới: Phú Hữu, Yên Kỳ, Thái Hòa, Trung Hà, Tri Lai, Đồng Bảng, Vật Lại, Vật Phụ, Phúc Xuyên và Phú Châu; đổi tên thôn Phú Xuyên 1 thành thôn Phú Xuyên.<ref>1. Thành lập thôn Phú Hữu: sáp nhập toàn bộ diện tích và dân số của các thôn Đông Hữu, Thượng Tả, Nhông Nương Tụ, Cao Lĩnh; 2. Thành lập thôn Yên Kỳ: sáp nhập toàn bộ diện tích và dân số của các thôn Yên Kỳ, Phú Mỹ, Quy Mông; 3. Thành lập thôn Thái Hòa: sáp nhập toàn bộ diện tích và dân số của các thôn Chu Mật, Cộng Hòa, Thuận An; 4. Thành lập thôn Trung Hà: sáp nhập toàn bộ diện tích và dân số của các thôn Trung Hà, Phú An, Phú Nhiêu; 5. Thành lập thôn Tri Lai: sáp nhập toàn bộ diện tích và dân số của các thôn Tri Lai, Thái Bình; 6. Thành lập thôn Đồng Bảng: sáp nhập toàn bộ diện tích và dân số của các thôn Đồng Bảng và xóm Gò Cua của thôn Thái Bình; 7. Thành lập thôn Vật Lại: sáp nhập toàn bộ diện tích và dân số của các thôn Vật Lại 1, Vật Lại 2, Vật Lại 3; 8. Thành lập thôn Vật Phụ: sáp nhập toàn bộ diện tích và dân số của các thôn Vật Phụ và thôn Tân Phú Mỹ; 9. Thành lập thôn Phúc Xuyên: sáp nhập toàn bộ diện tích và dân số của các thôn Phú Xuyên 2 và thôn Phú Xuyên 3; 10. Thành lập thôn Phú Châu: sáp nhập toàn bộ diện tích và dân số của các thôn Phú Xuyên 4 và thôn Liễu Châu; 11. Giữ nguyên dân số và diện tích của 5 thôn gồm: Tăng Cấu, Yên Bồ, Vật Yên, Phong Châu và thôn Phú Xuyên 1 đổi thành thôn Phú Xuyên.</ref><ref name=":02">{{Chú thích web |last=Trang Thông tin điện tử xã Vật Lại – thành phố Hà Nội |date=2026-06-15 |title=Xã Vật Lại tổ chức hội nghị phổ biến, quán triệt nghị quyết về Đề án sáp nhập thôn |url=https://vatlai.hanoi.gov.vn/tin-tuc-su-kien-noi-bat/xa-vat-lai-to-chuc-hoi-nghi-pho-bien-quan-triet-nghi-quyet-ve-de-an-sap-nhap-thon-2730260615152424766.htm?gidzl=y_P61DOPY5xtwK82t0ADM_tbGGF02OnHuEOI3yCEsLVavHKDpmoBLUstHGpD3zy1lEGSNs8JtljhqnYCN0 |url-status=dead |archive-url=https://web.archive.org/web/20260730400809/https://vatlai.hanoi.gov.vn/tin-tuc-su-kien-noi-bat/xa-vat-lai-to-chuc-hoi-nghi-pho-bien-quan-triet-nghi-quyet-ve-de-an-sap-nhap-thon-2730260615152424766.htm?gidzl=y_P61DOPY5xtwK82t0ADM_tbGGF02OnHuEOI3yCEsLVavHKDpmoBLUstHGpD3zy1lEGSNs8JtljhqnYCN0 |archive-date=2026-07-30 |access-date=2026-07-30 |website=}}</ref><ref name=":1">{{Chú thích web |last=Trang Thông tin điện tử xã Vật Lại – thành phố Hà Nội |date=2026-07-02 |title=Hội đồng nhân dân xã Vật Lại khóa XXI tổ chức thành công Kỳ họp thứ Ba, thông qua nhiều nghị quyết quan trọng |url=https://vatlai.hanoi.gov.vn/tin-tuc-su-kien-noi-bat/hdnd-xa-vat-lai-khoa-xxi-to-chuc-thanh-cong-ky-hop-thu-ba-thong-qua-nhieu-nghi-quyet-quan-trong-2730260702073317489.htm?gidzl=Q7K-DOlWP1LiQZepWVjX46PcEJMTy60TUsLgEPxtDHj_PcqxalLd6NOqFJgGzZDD9sTaQMBLf6yHZk5W5m |url-status=dead |archive-url=https://web.archive.org/web/20260730400809/https://vatlai.hanoi.gov.vn/tin-tuc-su-kien-noi-bat/hdnd-xa-vat-lai-khoa-xxi-to-chuc-thanh-cong-ky-hop-thu-ba-thong-qua-nhieu-nghi-quyet-quan-trong-2730260702073317489.htm?gidzl=Q7K-DOlWP1LiQZepWVjX46PcEJMTy60TUsLgEPxtDHj_PcqxalLd6NOqFJgGzZDD9sTaQMBLf6yHZk5W5m |archive-date=2026-07-30 |access-date=2026-07-30 |website=}}</ref><ref name=":0">{{Chú thích web |last=Xã Vật Lại – Thành phố Hà Nội |date=2026-07-04 |title=Danh sách 15 thôn sau sắp xếp, tổ chức lại thôn theo nghị quyết của Ban Chấp hành Đảng bộ xã Vật Lại |url=https://web.facebook.com/story.php?story_fbid=1496824859150272&id=100064683157439&rdid=k76Qi7olKd3vAn2M# |url-status=dead |archive-url=https://web.archive.org/web/20260730201509/https://web.facebook.com/story.php?story_fbid=1496824859150272&id=100064683157439&rdid=k76Qi7olKd3vAn2M# |archive-date=2026-07-30 |access-date=2026-07-30}}</ref>[[Tập tin:Bản đồ các thôn thuộc xã Vật Lại – thành phố Hà Nội.png|trái|nhỏ|126x126px|Sơ đồ phương án sắp xếp thôn trên địa bàn xã Vật Lại của thành phố Hà Nội (từ ngày 1 tháng 7 năm 2026)<ref name=":02" />]]
+
+== Hành chính ==
+Xã Vật Lại được chia thành 15 thôn: Đồng Bảng, Phong Châu, Phú Châu, Phú Hữu, Phú Xuyên, Phúc Xuyên, Tăng Cấu, Thái Hòa, Tri Lai, Trung Hà, Vật Lại, Vật Phụ, Vật Yên, Yên Bồ và Yên Kỳ.<ref name=":02" /><ref name=":1" /><ref name=":0" />
+{| class="wikitable sortable" cellpadding="0" cellspacing="6" width="100%" align="center" style="background: #f9f9f9; border: 1px #aaa solid; margin-top: 16px"
+! colspan="4" style="background: #E6E6FA; font-size: 95%;" |Danh sách các thôn thuộc xã Vật Lại<ref name=":02" /><ref name=":1" /><ref name=":0" />
+|-
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| cellpadding="1" cellspacing="1" width="100%" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Dân số <sup>(2026)</sup>
+|-
+| align="left" |Đồng Bảng
+|6.323
+|-
+| align="left" |Phong Châu
+|1.840
+|-
+| align="left" |Phú Châu
+|3.352
+|-
+| align="left" |Phú Hữu
+|6.283
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| cellpadding="1" cellspacing="1" width="100%" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Dân số <sup>(2026)</sup>
+|-
+| align="left" |Phú Xuyên
+|2.973
+|-
+| align="left" |Phúc Xuyên
+|3.392
+|-
+| align="left" |Tăng Cấu
+|2.875
+|-
+| align="left" |Thái Hòa
+|5.765
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| cellpadding="1" cellspacing="1" width="100%" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Dân số <sup>(2026)</sup>
+|-
+| align="left" |Tri Lai
+|6.084
+|-
+| align="left" |Trung Hà
+|3.983
+|-
+| align="left" |Vật Lại
+|8.263
+|-
+| align="left" |Vật Phụ
+|2.532
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| cellpadding="1" cellspacing="1" width="100%" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Dân số <sup>(2026)</sup>
+|-
+| align="left" |Vật Yên
+|2.488
+|-
+| align="left" |Yên Bồ
+|3.006
+|-
+| align="left" |Yên Kỳ
+|4.154
+|}
+|}
+
+== Văn hóa==
+Xã Vật Lại là quê hương của danh tướng Phùng Lộc Hộ dưới thời [[nhà Trần]] có công đánh đuổi giặc Nguyên Mông. Hiện ông được thờ tại Đền Trúc Lâm quê nhà thôn Đồng Bảng và các xã mà ông đánh giặc đi qua như là: [[Thổ Tang]], [[Phùng Nguyên]] ([[Phú Thọ]]), ...
+
+== Chú thích== 
+{{tham khảo}}
+
+== Tham khảo==
+
+{{sơ khai Hà Nội}}
+{{Đơn vị hành chính thuộc thành phố Hà Nội}}

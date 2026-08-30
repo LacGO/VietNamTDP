@@ -1,0 +1,257 @@
+{{Thông tin đơn vị hành chính Việt Nam |Phường
+| tên = Định Công
+| hình = Định Công Thượng Street, Hanoi 15.jpg 
+| ghi chú hình = Phố Định Công Thượng 
+| vĩ độ = 20.978010751713462
+| kinh độ = 105.82235011349181
+| diện tích = 5,34 km²
+| dân số = 85.502 người
+| thời điểm dân số = 2025
+| mật độ dân số = {{formatnum:{{#expr:floor({{formatnum:85.502| R}}/{{formatnum:5,34| R}})}} }} người/km²
+| vùng = [[Đồng bằng sông Hồng]]
+| thành phố = [[Hà Nội]]
+| trụ sở UBND = Số 1 ngõ 282 đường Kim Giang<ref>{{Chú thích web |url=https://storage-vnportal.vnpt.vn/gov-hni/6244/VanBan/2025/6/25/TB-729-2025.pdf |title=Thông báo số 729/TB-UBND ngày 25 tháng 6 năm 2025 của Ủy ban nhân dân thành phố Hà Nội về địa điểm trụ sở làm việc của 126 phường, xã sau sắp xếp thuộc phạm vi quản lý của thành phố Hà Nội|access-date=2026-06-15 |archive-date=2026-06-15 |archive-url=https://web.archive.org/web/20260615034519/https://storage-vnportal.vnpt.vn/gov-hni/6244/VanBan/2025/6/25/TB-729-2025.pdf |url-status=dead | website = Cổng Thông tin điện tử Ủy ban nhân dân thành phố Hà Nội}}</ref>
+| mã hành chính = 00316<ref>{{Chú thích web |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/19ttg.signed.pdf |title=Quyết định số 19/2025/QĐ-TTg ngày 30 tháng 6 năm 2025 của Thủ tướng Chính phủ về việc Ban hành Bảng danh mục và mã số các đơn vị hành chính Việt Nam |access-date=2026-06-15 |archive-date=2026-06-15 |archive-url=https://web.archive.org/web/20260615034519/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/19ttg.signed.pdf |url-status=dead | website = Cổng Thông tin điện tử Chính phủ}}</ref> 
+| web = {{url|dinhcong.hanoi.gov.vn}}
+|trụ sở Đảng ủy=Số 1 ngõ 282 đường Kim Giang|bản đồ 1={{maplink|frame=yes|plain=yes|type=shape|frame-width=280|frame-align=center|stroke-width=3}}}}{{other|Định Công (định hướng)}}
+'''Định Công''' là một [[Phường (Việt Nam)|phường]] thuộc thành phố [[Hà Nội]], [[Việt Nam]].
+
+== Địa lý ==
+Phường Định Công có vị trí địa lý:
+
+* Phía đông giáp phường [[Hoàng Mai, Hà Nội|Hoàng Mai]] (ranh giới đi theo [[đường Giải Phóng]])
+* Phía tây giáp phường [[Khương Đình]] và phường [[Thanh Liệt]] (ranh giới đi theo địa giới hành chính phường cũ)
+* Phía nam giáp phường [[Hoàng Liệt]] (ranh giới đi theo đường Nguyễn Hữu Thọ – [[Đường vành đai 3 (Hà Nội)|Vành đai 3]])
+* Phía bắc giáp phường [[Phương Liệt]] (ranh giới đi theo đường giao thông quy hoạch – [[Đường vành đai 2,5 (Hà Nội)|Vành Đai 2,5]]).<ref>{{Chú thích web |last=Báo Điện tử Chính phủ |date=2025-04-28 |title=Chi tiết dự thảo phương án sắp xếp các phường của Hà Nội |url=https://xaydungchinhsach.chinhphu.vn/chi-tiet-du-thao-phuong-an-sap-xep-cac-phuong-cua-ha-noi-119250421100531902.htm |url-status=dead |archive-url=https://web.archive.org/web/20260316174230/https://xaydungchinhsach.chinhphu.vn/chi-tiet-du-thao-phuong-an-sap-xep-cac-phuong-cua-ha-noi-119250421100531902.htm |archive-date=2026-03-16 |access-date=2026-07-10 |website=Xây dựng chính sách, pháp luật}}</ref><ref>{{Chú thích web |last=Viện nghiên cứu Phát triển kinh tế – xã hội Hà Nội |date=2025-07-03 |title=Phường Định Công: Những thông tin chi tiết sau sắp xếp |url=https://hanoionline.vn/phuong-dinh-cong-nhung-thong-tin-chi-tiet-sau-sap-xep-344240.htm |url-status=dead |archive-url=https://web.archive.org/web/20260822400809/https://hanoionline.vn/phuong-dinh-cong-nhung-thong-tin-chi-tiet-sau-sap-xep-344240.htm |archive-date=2026-08-22 |access-date=2026-08-22 |website=Cơ quan Báo và Phát thanh Truyền hình Hà Nội}}</ref><ref>{{Chú thích web |last=Cơ quan Báo và Phát thanh Truyền hình Hà Nội |date=2025-07-04 |title=Phường Định Công: Tất cả thông tin chỉ dẫn bạn cần biết |url=https://hanoionline.vn/phuong-dinh-cong-tat-ca-thong-tin-chi-dan-ban-can-biet-344572.htm |url-status=dead |archive-url=https://web.archive.org/web/20260822401509/https://hanoionline.vn/phuong-dinh-cong-tat-ca-thong-tin-chi-dan-ban-can-biet-344572.htm |archive-date=2026-08-22 |access-date=2026-08-22}}</ref>
+
+Phường Định Công có diện tích tự nhiên là 5,34&nbsp;km<sup>2</sup>, quy mô dân số năm 2025 là 85.502 người và mật độ dân số đạt 16.011 người/km<sup>2</sup>.<ref>{{Chú thích web |last=Mai Hữu |date=2026-04-05 |title=Hà Nội: Chi tiết phương án tổng thể sắp xếp đơn vị hành chính cấp xã |url=https://hanoimoi.vn/ha-noi-chi-tiet-phuong-an-tong-the-sap-xep-don-vi-hanh-chinh-cap-xa-700278.html |url-status=bot: unknown |archive-url=https://web.archive.org/web/20250710163328/https://hanoimoi.vn/ha-noi-chi-tiet-phuong-an-tong-the-sap-xep-don-vi-hanh-chinh-cap-xa-700278.html |archive-date=2025-07-10 |access-date=2026-07-08 |website=Cơ quan Báo và Phát thanh, truyền hình Hà Nội}}</ref><ref>Công văn số 2896/BNV-CQĐP ngày 27 tháng 5 năm 2025 của Bộ Nội vụ về việc cung cấp thông tin danh mục dự kiến đơn vị hành chính cấp xã mới.</ref>
+
+== Lịch sử ==
+
+=== Trước năm 1976 ===
+Dưới thời Bắc thuộc, Định Công thuộc địa bàn quận [[Giao Chỉ quận|Giao Chỉ]]. Đến thời [[Đại Việt]], sau khi [[Lý Công Uẩn]] lên ngôi vua và lập ra triều đại [[nhà Lý]], ông dời đô từ [[Hoa Lư (thành phố)|Hoa Lư]] ra Thăng Long (năm 1010) thì đất Định Công trở thành một làng xã ven đô thuộc huyện Long Đàm (Đầm Rồng) của kinh thành Thăng Long.<ref>{{Chú thích web | last = Nguyễn Thị Huệ | title = LÀNG ĐỊNH CÔNG – HÀ NỘI (KỲ 1): TỪ TÊN GỌI ĐẾN SINH HOẠT VĂN HÓA CỘNG ĐỒNG ĐẶC SẮC | url = https://www.doithoaiphattrien.vn/vi/news/di-tich-thang-canh/lang-dinh-cong-ha-noi-ky-1-tu-ten-goi-den-sinh-hoat-van-hoa-cong-dong-dac-sac-12096.html | website = doithoaiphattrien.vn}}</ref>
+
+Xã Định Công được hình thành từ hai thôn Thượng và Hạ, thuộc [[Tổng (đơn vị hành chính cũ Việt Nam)|tổng]] [[Khương Đình]], huyện [[Thanh Trì (huyện)|Thanh Trì]].<ref name = ":12">{{Chú thích web | last = Hoa Thành | first = | date = 2025-05-02 | title = Khám phá lịch sử tên gọi 7 phường mới của quận Hoàng Mai | url = https://phapluat.tuoitrethudo.vn/kham-pha-lich-su-ten-goi-7-phuong-moi-cua-quan-hoang-mai-103231.html | access-date = 2025-08-06 | website = Tuổi trẻ và Pháp luật | language = vi}}</ref>
+
+=== Giai đoạn 1976 – nay ===
+Sau ngày 2 tháng 7 năm 1976, 7 xã: Đại Kim, Định Công, Hoàng Liệt, Tân Triều, Thanh Liệt, Thịnh Liệt và Tứ Hiệp thuộc huyện [[Thanh Trì (huyện)|Thanh Trì]]; tiểu khu Giáp Bát thuộc quận [[Hai Bà Trưng (quận)|Hai Bà Trưng]] của thành phố [[Hà Nội]].
+
+Ngày 3 tháng 1 năm 1981, từ nay ở nội thành, đơn vị hành chính cấp dưới trực tiếp của [[Thành phố trực thuộc trung ương (Việt Nam)|thành phố trực thuộc trung ương]] đều thống nhất gọi là [[Quận (Việt Nam)|quận]]; các đơn vị hành chính cơ sở ở nội thành, nội thị của các [[Thành phố thuộc tỉnh (Việt Nam)|thành phố thuộc tỉnh]], [[Thị xã (Việt Nam)|thị xã]] và [[Quận (Việt Nam)|quận]] gọi là [[Phường (Việt Nam)|phường]]. Khi đó, phường Giáp Bát thuộc quận [[Hai Bà Trưng (quận)|Hai Bà Trưng]].<ref name=":03">Quyết định số 3-CP ngày 3 tháng 1 năm 1981 của Hội đồng Chính phủ về việc thống nhất tên gọi các đơn vị hành chính ở nội thành nội thị.</ref>
+
+Ngày 6 tháng 11 năm 2003:
+
+* Tách toàn bộ diện tích tự nhiên và dân số của các xã: Định Công, Đại Kim, Hoàng Liệt, Thịnh Liệt và 20 ha diện tích tự nhiên của xã Tứ Hiệp thuộc huyện [[Thanh Trì (huyện)|Thanh Trì]]; toàn bộ diện tích tự nhiên và dân số của phường Giáp Bát thuộc quận [[Hai Bà Trưng (quận)|Hai Bà Trưng]] về quận [[Hoàng Mai (quận)|Hoàng Mai]] mới thành lập.
+* Thành lập phường Hoàng Liệt trên cơ sở toàn bộ diện tích tự nhiên và dân số của xã Hoàng Liệt, 20 ha diện tích tự nhiên của xã Tứ Hiệp.
+* Thành lập 3 phường: Định Công, Đại Kim và Thịnh Liệt trên cơ sở toàn bộ diện tích tự nhiên và dân số của 3 xã có tên tương ứng.<ref name="132/2003/NĐ-CP">{{Chú thích web| url = https://hethongphapluat.com/nghi-dinh-132-2003-nd-cp-ve-viec-dieu-chinh-dia-gioi-hanh-chinh-de-thanh-lap-cac-quan-long-bien-hoang-mai-thanh-lap-cac-phuong-truc-thuoc-quan-long-bien-quan-hoang-mai-thanh-pho-ha-noi.html| tựa đề = Nghị định số 132/2003/NĐ-CP ngày 6 tháng 11 năm 2003 của Chính phủ về việc điều chỉnh địa giới hành chính để thành lập các quận Long Biên, Hoàng Mai, thành lập các phường trực thuộc quận Long Biên, quận Hoàng Mai, thành phố Hà Nội | tác giả = | ngày = | website = Hệ thống pháp luật | url lưu trữ =https://web.archive.org/web/20260822201510/https://hethongphapluat.com/nghi-dinh-132-2003-nd-cp-ve-viec-dieu-chinh-dia-gioi-hanh-chinh-de-thanh-lap-cac-quan-long-bien-hoang-mai-thanh-lap-cac-phuong-truc-thuoc-quan-long-bien-quan-hoang-mai-thanh-pho-ha-noi.html | ngày lưu trữ =2026-08-22 | ngày truy cập =2026-08-22 | url-status = dead}}</ref>
+
+Ngày 16 tháng 6 năm 2025:
+
+* Kết thúc hoạt động của đơn vị hành chính cấp huyện trong cả nước.<ref>{{Chú thích web |last= |date= |title=Nghị quyết số 203/2025/QH15 ngày 16 tháng 6 năm 2025 của Quốc hội khóa XV, Kỳ họp thứ 9 về việc sửa đổi, bổ sung một số điều của Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/nq-sua-doi-hien-phap.pdf |url-status=live |archive-url=https://web.archive.org/web/20260613090807/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/nq-sua-doi-hien-phap.pdf |archive-date=2026-06-13 |access-date=2026-06-13 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+* Sắp xếp một phần diện tích tự nhiên, quy mô dân số của các phường Định Công, Hoàng Liệt, Thịnh Liệt (quận [[Hoàng Mai (quận)|Hoàng Mai]]), xã Tân Triều, xã Thanh Liệt (huyện [[Thanh Trì (huyện)|Thanh Trì]]), một phần diện tích tự nhiên, toàn bộ quy mô dân số của phường Đại Kim và phần còn lại của phường Giáp Bát (quận [[Hoàng Mai (quận)|Hoàng Mai]]) thành phường mới có tên gọi là phường Định Công.<ref>{{Chú thích web |title=Nghị quyết số 1656/NQ-UBTVQH15 ngày 16 tháng 6 năm 2025 của Ủy ban Thường vụ Quốc hội về việc sắp xếp các đơn vị hành chính cấp xã của thành phố Hà Nội năm 2025 |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf |url-status=bot: unknown |archive-url=https://web.archive.org/web/20260513110024/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf |archive-date=2026-05-13 |access-date=2026-06-30 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+Ngày 31 tháng 7 năm 2025, đổi tên tổ dân phố trên địa bàn phường Định Công. Sau khi sắp xếp, phường Định Công được chia thành 69 tổ dân phố.<ref>69 tổ dân phố, đánh số từ 1 đến 69.</ref><ref>{{Chú thích web |title=Thông tư số 10/2022/TT-BTNMT ngày 29 tháng 9 năm 2022 của Bộ Tài nguyên và Môi trường về việc Ban hành Danh mục địa danh dân cư, sơn văn, thủy văn, kinh tế – xã hội phục vụ công tác thành lập bản đồ thành phố Hà Nội |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2022/10/10-btnmt.pdf |url-status=bot: unknown |archive-url=https://web.archive.org/web/20260630082812/https://datafiles.chinhphu.vn/cpp/files/vbpq/2022/10/10-btnmt.pdf |archive-date=2026-06-30 |access-date=2026-06-30 |website=Cổng Thông tin điện tử Chính phủ}}</ref><ref>{{Chú thích web |last=Trang Thông tin điện tử phường Định Công – thành phố Hà Nội |date=2025-07-31 |title=Hội đồng nhân dân phường Định Công thông qua nghị quyết đổi tên 30 tổ dân phố |url=https://dinhcong.hanoi.gov.vn/cai-cach-hanh-chinh/hdnd-phuong-dinh-cong-thong-qua-nghi-quyet-doi-ten-30-to-dan-pho-2818250731144055349.htm?gidzl=yl-OHAmIX7xsu9n2fWk0VVdXcKw_3TCWukISIkyDZNU_vPL5uWw4BUpad4An2j4hxERE53Het2aBgHE0V0 |url-status=dead |archive-url=https://web.archive.org/web/20260824201510/https://dinhcong.hanoi.gov.vn/cai-cach-hanh-chinh/hdnd-phuong-dinh-cong-thong-qua-nghi-quyet-doi-ten-30-to-dan-pho-2818250731144055349.htm?gidzl=yl-OHAmIX7xsu9n2fWk0VVdXcKw_3TCWukISIkyDZNU_vPL5uWw4BUpad4An2j4hxERE53Het2aBgHE0V0 |archive-date=2026-08-24 |access-date=2026-08-24 |website=}}</ref><ref>{{Chú thích web |last=Ủy ban bầu cử phường Định Công |date=2026-02-12 |title=Danh sách chính thức những người ứng cử đại biểu Hội đồng nhân dân phường Định Công, khóa II, nhiệm kỳ 2026 – 2031 |url=https://web.facebook.com/story.php?story_fbid=122171944094939374&id=61578181220775&rdid=wTk1wwDNKL4vcfsu# |url-status=dead |archive-url=https://web.archive.org/web/20260824201510/https://web.facebook.com/story.php?story_fbid=122171944094939374&id=61578181220775&rdid=wTk1wwDNKL4vcfsu# |archive-date=2026-08-24 |access-date=2026-08-24 |website=Phường Định Công – Đoàn kết, đổi mới, đột phá – thành phố Hà Nội}}</ref>
+
+Ngày 24 tháng 12 năm 2025, xác định phần lớn của phường Định Công là [[Đô thị Việt Nam|đô thị loại II]].<ref>Chuyển tiếp từ 5 phường: Đại Kim, Định Công, Giáp Bát, Hoàng Liệt và Thịnh Liệt thuộc quận Hoàng Mai.</ref><ref>{{Chú thích web |title=Nghị quyết số 111/2025/UBTVQH15 ngày 24 tháng 12 năm 2025 của Ủy ban Thường vụ Quốc hội về phân loại đô thị |url=https://cdn.nhandan.vn/files/f4a4abf7f9a0ba4a91744616546d850872b76917f90d5a74cc9eebef1369fb6f/111.pdf |url-status=dead |archive-url=https://web.archive.org/web/20260430074852/https://cdn.nhandan.vn/files/f4a4abf7f9a0ba4a91744616546d850872b76917f90d5a74cc9eebef1369fb6f/111.pdf |archive-date=2026-04-30 |access-date=2026-07-12 |website=Báo Nhân dân}}</ref>
+
+Ngày 27 tháng 6 năm 2026, thành lập 35 tổ dân phố mới, đánh số từ 1 đến 35.<ref name=":1">1. Tổ dân phố số 16 được hình thành từ việc sáp nhập các tổ dân phố số 42, 1 và 2; 2. Tổ dân phố số 25 hình thành từ tổ dân phố số 35 và 36; 3. Tổ dân phố số 20 được sáp nhập từ các tổ dân phố số 49, 50 và 51.</ref><ref name=":04">{{Chú thích web |last=Trang Thông tin điện tử phường Định Công – thành phố Hà Nội |date=2026-06-13 |title=Phường Định Công dự kiến sắp xếp từ 69 xuống còn 35 tổ dân phố |url=https://dinhcong.hanoi.gov.vn/tin-tuc-su-kien/phuong-dinh-cong-du-kien-sap-xep-tu-69-xuong-con-35-to-dan-pho-2818260613171031803.htm?gidzl=B2DFC6MODrCeF4isRu4pK2SzIZDsXsG4F3XFDoQ7EbDXEKOuAuGp2J8uJpzuW6OFCZeTQJH_YarIO9apKG |url-status=dead |archive-url=https://web.archive.org/web/20260824201510/https://dinhcong.hanoi.gov.vn/tin-tuc-su-kien/phuong-dinh-cong-du-kien-sap-xep-tu-69-xuong-con-35-to-dan-pho-2818260613171031803.htm?gidzl=B2DFC6MODrCeF4isRu4pK2SzIZDsXsG4F3XFDoQ7EbDXEKOuAuGp2J8uJpzuW6OFCZeTQJH_YarIO9apKG |archive-date=2026-08-24 |access-date=2026-08-24 |website=}}</ref><ref name=":2">{{Chú thích web |last=Huy Hoàng |date=2026-06-27 |title=Hội đồng nhân dân phường Định Công quyết nghị nhiều nội dung quan trọng |url=https://hanoimoi.vn/hdnd-phuong-dinh-cong-quyet-nghi-nhieu-noi-dung-quan-trong-1209521.html |url-status=dead |archive-url=https://web.archive.org/web/20260824201510/https://hanoimoi.vn/hdnd-phuong-dinh-cong-quyet-nghi-nhieu-noi-dung-quan-trong-1209521.html |archive-date=2026-08-24 |access-date=2026-08-24 |website=Cơ quan Báo và Phát thanh, truyền hình Hà Nội}}</ref>
+[[Tập tin:Bản đồ các tổ dân phố thuộc phường Định Công của thành phố Hà Nội (từ ngày 1 tháng 7 năm 2026).png|trái|nhỏ|Bản đồ các tổ dân phố thuộc phường Định Công của thành phố Hà Nội (từ ngày 1 tháng 7 năm 2026)<ref name=":04" />]]<!-- 
+== Lịch sử== 
+Trước đây, Đại Kim là một xã thuộc huyện [[Thanh Trì (huyện)| Thanh Trì]].
+
+Ngày [[6 tháng 11]] năm [[2003]], xã Đại Kim được chuyển thành phường thuộc quận Hoàng Mai mới thành lập.
+ -->
+
+== Hành chính==
+Phường Định Công được chia thành 35 tổ dân phố, đánh số từ 1 đến 35.<ref name=":04" /><ref name=":2" />
+{| class="wikitable sortable" cellpadding="0" cellspacing="6" width="100%" align="center" style="background: #f9f9f9; border: 1px #aaa solid; margin-top: 16px"
+! colspan="4" style="background: #E6E6FA; font-size: 95%;" |Danh sách các tổ dân phố thuộc phường Định Công<ref name=":04" /><ref name=":2" />
+|-
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| cellpadding="1" cellspacing="1" width="100%" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Tổ dân phố 1
+| -
+|-
+| align="left" |Tổ dân phố 2
+| -
+|-
+| align="left" |Tổ dân phố 3
+| -
+|-
+| align="left" |Tổ dân phố 4
+| -
+|-
+| align="left" |Tổ dân phố 5
+| -
+|-
+| align="left" |Tổ dân phố 6
+| -
+|-
+| align="left" |Tổ dân phố 7
+| -
+|-
+| align="left" |Tổ dân phố 8
+| -
+|-
+| align="left" |Tổ dân phố 9
+| -
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| cellpadding="1" cellspacing="1" width="100%" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Tổ dân phố 10
+| -
+|-
+| align="left" |Tổ dân phố 11
+| -
+|-
+| align="left" |Tổ dân phố 12
+| -
+|-
+| align="left" |Tổ dân phố 13
+| -
+|-
+| align="left" |Tổ dân phố 14
+| -
+|-
+| align="left" |Tổ dân phố 15
+| -
+|-
+| align="left" |Tổ dân phố 16
+|1.577
+|-
+| align="left" |Tổ dân phố 17
+| -
+|-
+| align="left" |Tổ dân phố 18
+| -
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| cellpadding="1" cellspacing="1" width="100%" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Tổ dân phố 19
+| -
+|-
+| align="left" |Tổ dân phố 20
+|1.170
+|-
+| align="left" |Tổ dân phố 21
+| -
+|-
+| align="left" |Tổ dân phố 22
+| -
+|-
+| align="left" |Tổ dân phố 23
+| -
+|-
+| align="left" |Tổ dân phố 24
+| -
+|-
+| align="left" |Tổ dân phố 25
+|1.196
+|-
+| align="left" |Tổ dân phố 26
+| -
+|-
+| align="left" |Tổ dân phố 27
+| -
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| cellpadding="1" cellspacing="1" width="100%" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Tổ dân phố 28
+| -
+|-
+| align="left" |Tổ dân phố 29
+| -
+|-
+| align="left" |Tổ dân phố 30
+| -
+|-
+| align="left" |Tổ dân phố 31
+| -
+|-
+| align="left" |Tổ dân phố 32
+| -
+|-
+| align="left" |Tổ dân phố 33
+| -
+|-
+| align="left" |Tổ dân phố 34
+| -
+|-
+| align="left" |Tổ dân phố 35
+| -
+|}
+|}
+
+== Địa chỉ trụ sở các cơ quan ==
+* Trụ sở Đảng ủy - UBND phường: Số 1, ngõ 282 đường Kim Giang.<ref name=":02">Địa chỉ cũ: Số 1, ngõ 282 đường Kim Giang, phường Đại Kim, quận Hoàng Mai (Trước là UBND phường Đại Kim cũ)</ref><ref name="trusomoi2">{{Chú thích web |date=25 tháng 6 năm 2025 |title=Thông báo về địa điểm trụ sở làm việc của 126 phường, xã sau sắp xếp thuộc phạm vi quản lý của thành phố Hà Nội |url=https://dcdn.dantri.com.vn/2025/06/25/tru-so-126-xa-phuong-cua-ha-noi-1750822481952.pdf |website=UBND TP Hà Nội}}</ref>
+* Trung tâm phục vụ hành chính công: Số 1, ngõ 282 đường Kim Giang.<ref name=":02" /><ref>{{Chú thích báo |last=Trung tâm Phục vụ hành chính công thành phố Hà Nội |title=Hà Nội công khai địa điểm tiếp nhận thủ tục hành chính thuộc UBND 126 xã/phường và 30 điểm tiếp nhận của 12 Chi nhánh thuộc Trung tâm Phục vụ hành chính công Thành phố, thông tin đường dây nóng hỗ trợ người dân, doanh nghiệp |url=https://ttpvhcc.hanoi.gov.vn/hoat-dong-cua-trung-tam/ha-noi-cong-khai-dia-diem-tiep-nhan-thu-tuc-hanh-chinh-thuoc-ubnd-126-xa-phuong-va-30-diem-tiep-nhan-cua-12-chi-nhanh-thuoc-trung-tam-phuc-vu-hanh-chinh-cong-thanh-pho-thong-tin-duong-day-nong-ho-tro-nguoi-dan-doanh-nghiep-2850250704103711121.htm}}</ref>
+* Công an phường:<ref>{{Chú thích báo |last=Báo Đại biểu Nhân dân |first= |title=Danh sách 126 trụ sở Công an cấp xã thuộc Công an TP. Hà Nội để người dân tới làm căn cước, đăng ký xe |url=https://daibieunhandan.vn/danh-sach-126-tru-so-cong-an-cap-xa-thuoc-cong-an-tp-ha-noi-de-nguoi-dan-toi-lam-can-cuoc-dang-ky-xe-10378397.html}}</ref>
+** Trụ sở chính: Ô đất CC2 - Khu đô thị Đại Kim, ngõ 282 đường Kim Giang (Đối diện Đền Vua Lê).<ref>Địa chỉ cũ: Ô đất CC2 - Khu đô thị Đại Kim, ngõ 282 đường Kim Giang, phường Đại Kim, quận Hoàng Mai</ref>
+** Trụ sở 2: Số 47, ngõ 292 đường Kim Giang.<ref>Địa chỉ cũ: Số 47, ngõ 292 đường Kim Giang, phường Đại Kim, quận Hoàng Mai</ref>
+** Trụ sở 3: Số 12, phố Định Công Hạ.<ref>Địa chỉ cũ: Số 12, phố Định Công Hạ, phường Định Công, quận Hoàng Mai</ref>
+
+== Kinh tế== 
+Định Công nằm trong khu vực đã và đang đô thị hóa mạnh, với sự xuất hiện của nhiều khu đô thị, khu dân cư mới. Nhiều trung tâm thương mại, cửa hàng tiện ích, siêu thị, chuỗi nhà hàng, cà phê phát triển mạnh tại các trục đường chính như Giải Phóng, Kim Giang, Định Công Thượng, Định Công Hạ và các khu chung cư. Lĩnh vực bất động sản đang đóng vai trò quan trọng trong cơ cấu kinh tế của phường, với nhiều dự án đầu tư có quy mô lớn. Định Công ngày nay vẫn còn một số nghề truyền thống như nghề kim hoàn đậu bạc (làng Định Công) được thành phố công nhận là "Nghề truyền thống Hà Nội" năm 2024.<ref name = ":0" />
+
+Phường Định Công có các khu đô thị mới: Bắc Linh Đàm, Đại Kim, Kim Văn - Kim Lũ, The Manor Central Park...; dự án khu đô thị mới Đại Kim - Định Công; các làng và đình cổ: Định Công Hạ, Định Công Thượng, Kim Giang, Kim Lũ, Đại Từ...; Trường Trung cấp Y - Dược Lê Hữu Trác, Viện YHCT Quân đội.
+
+== Giao thông== 
+{{Columns| col1 = * Phố Bằng Liệt
+* Phố Bùi Xương Trạch
+* Đường Đại Kim
+* Phố Đại Từ
+* Phố Đặng Xuân Bảng
+* Phố Định Công
+* Phố Định Công Hạ
+* Phố Định Công Thượng
+* Đường Giải Phóng| col2 = * Phố Hà Kế Tấn
+* Phố Hồng Quang
+* Đường Kim Giang
+* Phố Linh Đàm
+* Đường Nghiêm Xuân Yêm
+* Phố Nguyễn Cảnh Dị
+* Phố Nguyễn Công Thái| col3 = 
+* Phố Nguyễn Hữu Thọ
+* Đường Nguyễn Xiển
+* Đường Phạm Tu
+* Đường Quang Liệt
+* Đường Thanh Liệt
+* Phố Trần Hòa
+* Phố Trịnh Đình Cửu
+* Phố Vũ Tông Phan
+}}
+
+== Văn hóa== 
+[[Tập tin:Ban-giao-nha-ct12-kim-van-kim-lu.jpg| nhỏ|Một tòa chung cư tại khu đô thị mới Kim Văn Kim Lũ]]
+Phường Định Công có nhiều di tích lịch sử - văn hóa được xếp hạng [[Di tích Việt Nam|di tích]] lịch sử cấp Quốc gia như Định Thôn Thượng, đền thờ Tổ Kim Hoàn, chùa Thiên Phúc (1996); miếu, đình Định Công Thượng (1994); đình, đền chùa Định Công Hạ (1996); chùa Lủ; Lăng mộ Nguyễn Văn Siêu, lăng mộ và nhà thờ Nguyễn Trọng Hợp.<ref name = ":0">{{Chú thích web | title = Phường Định Công: Những thông tin chi tiết sau sắp xếp | url = https://hanoionline.vn/phuong-dinh-cong-nhung-thong-tin-chi-tiet-sau-sap-xep-344240.htm | access-date = 2025-07-09 | website = [[Đài Phát thanh – Truyền hình Hà Nội]] | language = vi}}</ref>
+
+Phường có nhiều lễ hội truyền thống như lễ hội làng ngày 12 tháng 2 âm lịch tưởng nhớ công ơn Đức thánh Chàng Công Sơ và Đức thánh Đoàn Thượng; hội đền Đức Bồng thờ một vị thần nghề nông; lễ hội Đầm Sen 12 tháng 8 âm lịch; lễ hội làng Đại Từ, hội làng Kim Giang. Sau phần lễ, phần hội có nhiều hoạt động văn hóa, văn nghệ, vui chơi giải trí như hát [[quan họ]], cờ tướng, bắt vịt, đi cầu kiều hái lộc, bắt lươn, đập niêu và ném vòng.<ref name = ":0" />
+
+== Người nổi tiếng== 
+{{Chính| Dòng họ Bùi ở Thịnh Liệt}}
+
+* '''[[Bùi Xương Trạch]]''' (1451 – 1529), quan thời [[Nhà Lê sơ|Lê sơ]].<ref name = ":12" />
+* '''[[Bùi Huy Bích]]''' (1744 – 1818), quan thời [[Nhà Lê trung hưng|Lê Trịnh]].<ref>{{Chú thích web | last = | date = 2004-02-15 | title = Những dấu ấn lịch sử và văn hóa ở quận mới Hoàng Mai | url = https://hanoimoi.vn/nhung-dau-an-lich-su-va-van-hoa-o-quan-moi-hoang-mai-28990.html | access-date = 2025-08-09 | website = [[Báo Hà Nội Mới]] | language = vi}}</ref>
+* '''[[Hoài Anh (biên đạo múa)|Hoài Anh]]''' (sinh năm 1982) là một nghệ sĩ ưu tú, biên đạo múa trong lĩnh vực [[Sân khấu cổ truyền Việt Nam|Sân khấu Việt Nam]].
+
+==Hình ảnh==
+<Gallery>
+Kim Giang Road, Hanoi 23.jpg| Đường Kim Giang
+</Gallery>
+
+== Chú thích== 
+{{tham khảo| 30em}}
+
+== Tham khảo==
+{{sơ khai Hà Nội}}
+{{Đơn vị hành chính thuộc thành phố Hà Nội}}

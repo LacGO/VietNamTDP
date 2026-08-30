@@ -1,0 +1,111 @@
+{{Thông tin đơn vị hành chính Việt Nam | phường
+|tên=Vĩnh Yên
+|vùng=[[Đông Bắc Bộ]]
+|tỉnh=[[Phú Thọ]]
+|trụ sở UBND=9 Lê Lợi
+|thành lập=16/06/2025
+|vĩ độ=21.312622573920343
+|kinh độ=105.58606567414559 
+|diện tích=25,00 km²
+|thời điểm dân số=2025
+|dân số=56.428 người
+| mật độ dân số = {{formatnum:{{#expr:floor({{formatnum:56.428| R}}/{{formatnum:25,00| R}})}} }} người/km²
+|cỡ hình=
+|hình=UTTVinhYen.jpg
+|ghi chú hình=Trường Đại học Công nghệ Giao thông Vận tải - Cơ sở Vĩnh Yên
+}}
+{{other|Vĩnh Yên (định hướng)}}
+'''Vĩnh Yên''' là một phường thuộc tỉnh [[Phú Thọ]], [[Việt Nam]]. Tên phường kế thừa tên của thành phố [[Vĩnh Yên (thành phố)|Vĩnh Yên]] trước kia.
+
+== Địa lý ==
+Phường Vĩnh Yên nằm ở phía Đông tỉnh [[Phú Thọ]], cách phường [[Việt Trì (phường)|Việt Trì]] 25&nbsp;km về phía Đông, cách thành phố [[Hà Nội]] 55&nbsp;km về phía Tây Bắc và cách [[Sân bay quốc tế Nội Bài|Sân bay Quốc tế Nội Bài]] 25&nbsp;km. Phường có vị trí địa lý:
+
+* Phía Bắc giáp phường [[Vĩnh Phúc, Phú Thọ|Vĩnh Phúc]].
+* Phía Tây giáp xã [[Hội Thịnh, Phú Thọ|Hội Thịnh]].
+* Phía Đông giáp xã [[Bình Nguyên, Phú Thọ|Bình Nguyên]] và xã [[Xuân Lãng, Phú Thọ|Xuân Lãng]].
+* Phía Nam giáp xã [[Tề Lỗ, Phú Thọ|Tề Lỗ]] và xã [[Yên Lạc, Phú Thọ|Yên Lạc]].
+
+Phường Vĩnh Yên có diện tích 25&nbsp;km² và có 56.428 nhân khẩu (năm 2025), mật độ dân số là 2.257 người/km².<ref>{{Chú thích web |last=xaydungchinhsach.chinhphu.vn |date=2025-05-05 |title=Phương án sắp xếp, tên gọi các xã phường mới của Vĩnh Phúc |url=https://xaydungchinhsach.chinhphu.vn/phuong-an-sap-xep-ten-goi-cac-xa-phuong-moi-cua-vinh-phuc-119250501192023829.htm |access-date=2025-07-03 |website=xaydungchinhsach.chinhphu.vn |language=vi}}</ref> Phường Vĩnh Yên nằm ở phía Tây Nam [[đầm Vạc]], có dòng [[Sông Phan (Vĩnh Phúc)|sông Phan]] và sông Bến Tre chảy qua.
+
+== Hành chính ==
+Phường Vĩnh Yên được chia thành 34 tổ dân phố: An Phú, Cả, Đoài, Đông, Đông Cường, Đông Hoà, Đông Hợp, Đông Hưng, Đông Nghĩa, Đông Nhân, Đông Phú, Đông Quý, Đông Thành, Đông Thịnh, Đồng Khâu, Hội Hợp, Hội Thượng, Hùng Vương, Lạc Ý 1, Lạc Ý 2, Lai Sơn, Lam Sơn, Nam Đồng, Núi, Quán Tiên, Tích Sơn, Tiên Sơn, Thanh Trù, Trà, Vị Trù, Vĩnh Ninh, Vĩnh Thịnh, Vĩnh Thịnh 1 và Yên.<ref name=":1">{{Chú thích web |date=6/25/2026 |title=Nghị quyết số 21/NQ-HĐND về việc sắp xếp, đổi tên các Tổ dân phố trên địa bàn phường Vĩnh Yên |url=https://vinhyen.phutho.gov.vn/images/Nam_2026/T6/nq21.pdf |url-status=live |access-date=7/19/2026 |website=vinhyen.phutho.gov.vn|last=Hội đồng nhân dân phường Vĩnh Yên}}</ref>
+
+== Lịch sử ==
+{{Xem thêm thông tin|Vĩnh Yên#Lịch sử}}
+
+=== Nguồn gốc tên gọi ===
+Tên ''Vĩnh Yên'' có nguồn gốc từ thời [[Pháp thuộc]] khi [[Vĩnh Yên (tỉnh)|tỉnh Vĩnh Yên]] được thành lập ngày [[29 tháng 12]] năm [[1899]], là tên ghép của [[Vĩnh Tường (huyện)|phủ '''Vĩnh''' Tường]] và [[Yên Lạc (huyện)|huyện '''Yên''' Lạc]] của tỉnh.
+
+=== Lịch sử hành chính ===
+Trước kia, địa bàn phường Vĩnh Yên ngày nay là địa bàn của các phường Tích Sơn, Đồng Tâm, Hội Hợp và xã Thanh Trù thuộc thành phố [[Vĩnh Yên (thành phố)|Vĩnh Yên]], tỉnh [[Vĩnh Phúc (tỉnh)|Vĩnh Phúc]] cũ.
+
+Ngày [[12 tháng 6]] năm [[2025]], [[Quốc hội Việt Nam|Quốc hội]] ban hành Nghị quyết số 202/2025/QH15 về việc sắp xếp đơn vị hành chính cấp tỉnh (nghị quyết có hiệu lực từ ngày [[12 tháng 6]] năm [[2025]]).<ref>{{Chú thích web |last=xaydungchinhsach.chinhphu.vn |date=2025-07-16 |title=TOÀN VĂN: Nghị quyết số 202/2025/QH15 về sắp xếp đơn vị hành chính cấp tỉnh |url=https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-202-2025-qh15-ve-sap-xep-don-vi-hanh-chinh-cap-tinh-119250612174148722.htm |url-status=live |archive-url=http://web.archive.org/web/20260705025431/https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-202-2025-qh15-ve-sap-xep-don-vi-hanh-chinh-cap-tinh-119250612174148722.htm |archive-date=2026-07-05 |access-date=2026-07-25 |website=Báo Điện tử Chính phủ |language=vi}}</ref> Theo đó, sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của tỉnh [[Vĩnh Phúc (tỉnh)|Vĩnh Phúc]], tỉnh [[Hòa Bình (tỉnh)|Hòa Bình]] và tỉnh [[Phú Thọ]] thành tỉnh mới có tên gọi là tỉnh '''Phú Thọ'''.
+
+Ngày [[16 tháng 6]] năm [[2025]]:
+
+* Quốc hội ban hành Nghị quyết số 203/2025/QH15 về việc sửa đổi, bổ sung một số điều của Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam (nghị quyết có hiệu lực từ ngày [[16 tháng 6]] năm [[2025]]).<ref>{{Chú thích web |last=xaydungchinhsach.chinhphu.vn |date=2025-06-28 |title=NGHỊ QUYẾT 203/2025/QH15 SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA HIẾN PHÁP NƯỚC CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM |url=https://xaydungchinhsach.chinhphu.vn/nghi-quyet-203-2025-qh15-sua-doi-bo-sung-mot-so-dieu-cua-hien-phap-nuoc-cong-hoa-xa-hoi-chu-nghia-viet-nam-119250616181735552.htm |access-date=2026-07-15 |website=Báo Điện tử Chính phủ |language=vi|archive-url=http://web.archive.org/web/20260715200606/https://xaydungchinhsach.chinhphu.vn/nghi-quyet-203-2025-qh15-sua-doi-bo-sung-mot-so-dieu-cua-hien-phap-nuoc-cong-hoa-xa-hoi-chu-nghia-viet-nam-119250616181735552.htm|archive-date=2026-07-15|url-status=live}}</ref> Theo đó, kết thúc hoạt động của đơn vị hành chính cấp huyện trong cả nước từ ngày 1 tháng 7 năm 2025.
+* [[Ủy ban Thường vụ Quốc hội]] ban hành Nghị quyết số 1676/NQ-UBTVQH15 về việc sắp xếp đơn vị hành chính cấp xã của tỉnh [[Phú Thọ]] năm 2025 (nghị quyết có hiệu lực từ ngày [[16 tháng 6]] năm [[2025]]).<ref name=":0">{{Chú thích web |date=06/20/2025 |title=Nghị quyết số 1676/NQ-UBTVQH15 sắp xếp các ĐVHC cấp xã của tỉnh Phú Thọ năm 2025 |url=https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-1676-nq-ubtvqh15-sap-xep-cac-dvhc-cap-xa-cua-tinh-phu-tho-nam-2025-119250616204317326.htm |url-status=live |archive-date= |access-date= |website=Báo điện tử chính phủ}}</ref> Theo đó, sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của các phường Tích Sơn, Đồng Tâm, Hội Hợp và xã Thanh Trù thành phường mới có tên gọi là '''phường Vĩnh Yên'''.
+Sau khi thành lập, phường Vĩnh Yên được chia thành 47 tổ dân phố: An Phú, Bắc Sơn, Cả, Đắc Thú, Đoài, Đông, Đông Cường, Đông Hòa 1, Đông Hòa 2, Đông Hợp, Đông Hưng, Đông Nghĩa, Đông Nhân, Đông Phú 1, Đông Phú 2, Đông Quý, Đông Thành, Đông Thịnh, Đồng Khâu, Đồng Sắn, Gạch, Hốp, Hùng Vương, Lai Sơn, Lam Sơn, Lạc Ý 1, Lạc Ý 2, Lạc Ý 3, Lẻ 1, Lẻ 2, Nam, Nguôi, Núi, Quán Tiên, Rừng, Tân Tiến, Tiên Sơn, Trà 1, Trà 2, Vinh Quang, Vĩnh Ninh, Vĩnh Thịnh 1, Vĩnh Thịnh 2, Vĩnh Thịnh 3, Vĩnh Thịnh 4, Vị Trù, Yên.<ref>{{Chú thích web |last=Ủy ban bầu cử phường Vĩnh Yên|date=2026-02-13|title=Nghị quyết số 2/NQ-UBBC về việc công bố danh sách những người ứng cử đại biểu Hội đồng nhân dân phường Vĩnh Yên nhiệm kỳ 2026 - 2031 theo từng đơn vị bầu cử|url=https://vinhyen.phutho.gov.vn/images/Nam_2026/T3/NQ_02.pdf|url-status=live|archive-url=https://vinhyen.phutho.gov.vn/images/Nam_2026/T3/NQ_02.pdfhttps://vinhyen.phutho.gov.vn/images/Nam_2026/T3/NQ_02.pdf|archive-date=2026-04-17|access-date=2026-04-17|website=Trang Thông tin điện tử phường Vĩnh Yên - tỉnh Phú Thọ}}</ref>
+
+Ngày [[24 tháng 6]] năm [[2026]], Hội đồng nhân dân phường Vĩnh Yên ban hành Nghị quyết số 21/NQ-HĐND về việc sắp xếp, đổi tên các Tổ dân phố trên địa bàn phường Vĩnh Yên.<ref name=":1" /> Theo đó:
+
+* Sắp xếp toàn bộ diện tích tự nhiên, số hộ dân của hai tổ dân phố Bắc Sơn và Lai Sơn thành tổ dân phố mới có tên gọi là tổ dân phố Lai Sơn.
+* Sắp xếp toàn bộ diện tích tự nhiên, số hộ dân của hai tổ dân phố Đông Hòa 1 và Đông Hòa 2 thành tổ dân phố mới có tên gọi là tổ dân phố Đông Hòa.
+* Sắp xếp toàn bộ diện tích tự nhiên, số hộ dân của hai tổ dân phố Đông Nhân và Đông Phú 1 thành tổ dân phố mới có tên gọi là tổ dân phố Đông Nhân.
+* Sắp xếp toàn bộ diện tích tự nhiên, số hộ dân của hai tổ dân phố Lạc Ý 1 và Lạc Ý 2 thành tổ dân phố mới có tên gọi là tổ dân phố Lạc Ý 1.
+* Sắp xếp toàn bộ diện tích tự nhiên, số hộ dân của hai tổ dân phố Đắc Thú và Gạch thành tổ dân phố mới có tên gọi là tổ dân phố Tích Sơn.
+* Sắp xếp toàn bộ diện tích tự nhiên, số hộ dân của hai tổ dân phố Tân Tiến và Lam Sơn thành tổ dân phố mới có tên gọi là tổ dân phố Lam Sơn.
+* Sắp xếp toàn bộ diện tích tự nhiên, số hộ dân của hai tổ dân phố Vĩnh Thịnh 1 và Vĩnh Thịnh 2 thành tổ dân phố mới có tên gọi là tổ dân phố Vĩnh Thịnh 1.
+* Sắp xếp toàn bộ diện tích tự nhiên, số hộ dân của hai tổ dân phố Vĩnh Thịnh 3 và Vĩnh Thịnh 4 thành tổ dân phố mới có tên gọi là tổ dân phố Vĩnh Thịnh.
+* Sắp xếp toàn bộ diện tích tự nhiên, số hộ dân của hai tổ dân phố Nguôi và Hốp thành tổ dân phố mới có tên gọi là tổ dân phố Hội Hợp.
+* Sắp xếp toàn bộ diện tích tự nhiên, số hộ dân của hai tổ dân phố Lẻ 1 và Lẻ 2 thành tổ dân phố mới có tên gọi là tổ dân phố Hội Thượng.
+* Sắp xếp toàn bộ diện tích tự nhiên, số hộ dân của hai tổ dân phố Trà 1 và Trà 2 thành tổ dân phố mới có tên gọi là tổ dân phố Trà.
+* Sắp xếp toàn bộ diện tích tự nhiên, số hộ dân của hai tổ dân phố Đồng Sắn và Nam thành tổ dân phố mới có tên gọi là tổ dân phố Nam Đồng.
+* Sắp xếp toàn bộ diện tích tự nhiên, số hộ dân của hai tổ dân phố Vinh Quang và Rừng thành tổ dân phố mới có tên gọi là tổ dân phố Thanh Trù.
+* Đổi tên hai tổ dân phố Đông Phú 2 và Lạc Ý 3 lần lượt thành hai tổ dân phố Đông Phú và Lạc Ý 2.
+* Không thực hiện sắp xếp đối với các tổ dân phố còn lại.
+
+Sau khi thực hiện sắp xếp, đổi tên các tổ dân phố, phường Vĩnh Yên được chia thành 34 tổ dân phố: An Phú, Cả, Đoài, Đông, Đông Cường, Đông Hoà, Đông Hợp, Đông Hưng, Đông Nghĩa, Đông Nhân, Đông Phú, Đông Quý, Đông Thành, Đông Thịnh, Đồng Khâu, Hội Hợp, Hội Thượng, Hùng Vương, Lạc Ý 1, Lạc Ý 2, Lai Sơn, Lam Sơn, Nam Đồng, Núi, Quán Tiên, Tích Sơn, Tiên Sơn, Thanh Trù, Trà, Vị Trù, Vĩnh Ninh, Vĩnh Thịnh, Vĩnh Thịnh 1 và Yên.
+
+== Xã hội ==
+
+=== Giáo dục ===
+Phường Vĩnh Yên hiện tại có các cơ sở giáo dục sau:
+
+* Đại học Công nghệ Giao thông Vận tải.
+* Cao đẳng Kỹ thuật - Công nghệ Vĩnh Phúc.
+* Trường THPT Vĩnh Yên.
+* Trường THPT Kim Ngọc.
+* Trường THPT Đào Duy Từ.
+
+=== Y tế ===
+Trong những năm qua, hệ thống cơ sở hạ tầng y tế trên địa bàn đô thị luôn nhận được sự quan tâm của các cấp, ngành trong tỉnh để cải tạo, nâng cấp trang thiết bị và đầu tư xây dựng mới. Do vậy, đến nay hầu hết các cơ sở y tế có chất lượng kiên cố và đều trong tình trạng hoạt động tốt, đảm bảo đáp ứng cho nhu cầu khám chữa bệnh của nhân dân. Các cơ sở y tế trên địa bàn phường hiện nay bao gồm:
+
+* Bệnh viện Quân y 109.
+* Bệnh viện Sản - Nhi.
+* Bệnh viện Điều dưỡng - Phục hồi chức năng.
+
+== Văn hóa - Du lịch ==
+<!-- 
+Trong xã Thanh Trù có rất nhiều danh di tích lịch sử cần được tu bổ như: Đền Bà(Vinh Quang, Xã Thanh Trù, Vĩnh Yên, Vĩnh Phúc), Đình Thượng (Xóm Đoài, Xã Thanh Trù, Vĩnh Yên, Vĩnh Phúc), Đình Hạ (Xóm Đồng, Xã Thanh Trù, Vĩnh Yên, Vĩnh Phúc), Chùa Mai Sơn Tự (Xóm Rừng, Xã Thanh Trù, Vĩnh Yên, Vĩnh Phúc)...Sự tu bổ hệ thống đền chùa tại đây là hết sức cần thiết, bởi vì đa phần đã xuống cấp một cách nghiêm trọng do sự tàn phá của môi trường nơi đây.
+
+ -->
+=== Đặc sản ===
+Tép dầu [[đầm Vạc]] là nơi sản sinh ra loại tép được tán tụng. Tép dầu đầm Vạc có chiều dài từ 5 – 7&nbsp;cm, chiều ngang chừng 1&nbsp;cm. Mùa thu hoạch tép dầu từ tháng 8 - 10; khi đó, bụng tép dầu chứa đầy trứng. Tép dầu đầm Vạc xương ít và mềm, rán ăn giòn tan, béo ngậy, kho tương vừa ngọt vừa bùi.<ref>{{Chú thích web |date=2019-01-22 |title=Tép Dầu Đầm Vạc |url=https://vinhphuc.gov.vn/tet/Lists/NghienCuuTraoDoi/View_Detail.aspx?ItemID=17 |url-status=live |archive-url=https://web.archive.org/web/20250705054019/https://vinhphuc.gov.vn/tet/Lists/NghienCuuTraoDoi/View_Detail.aspx?ItemID=17 |archive-date=2025-07-05 |access-date=2025-07-03 |website=Cổng Thông tin - Giao tiếp Điện tử tỉnh Vĩnh Phúc |language=}}</ref>
+
+{{Quote|text=Cỗ chín lợn, mười trâu
+Cũng không bằng tép dầu Đầm Vạc.}}
+
+=== Di tích ===
+Trên địa bàn phường, hiện có 2 công trình di tích được công nhận cấp Quốc gia: Đình Đông Đạo và Chùa Tích Sơn (Ngũ Phúc Tự). Ngoài ra, phường cũng có 21 di tích cấp tỉnh và 36 di tích chưa xếp hạng.<ref>{{Chú thích web |title=DANH MỤC KIỂM KÊ DI TÍCH LỊCH SỬ - VĂN HÓA THÀNH PHỐ VĨNH YÊN NĂM 2022 |url=https://vinhphuc.gov.vn/ct/cms/HeThongChinhTriTinh/uybannhandan/Lists/QuyetDinh/Attachments/954/Danh-muc-KKDT-Vinh-Yen-210.05.2023_16h19p14_signed-18.pdf |access-date=2025-07-05 |publisher=UBND tỉnh Vĩnh Phúc |archive-date=2025-07-03 |archive-url=https://web.archive.org/web/20250703205447/https://vinhphuc.gov.vn/ct/cms/HeThongChinhTriTinh/uybannhandan/Lists/QuyetDinh/Attachments/954/Danh-muc-KKDT-Vinh-Yen-210.05.2023_16h19p14_signed-18.pdf |url-status=dead }}</ref> Một số danh thắng, di tích và khu du lịch nổi tiếng khác bao gồm: Đền Bà, Chùa Cói, khu Resort Sông Hồng Thủ Đô, Westlake Hotel & Resort Vĩnh Phúc.
+
+==Danh nhân==
+* [[Nguyễn Danh Phương]] (1690 – 1751), hay còn gọi '''Quận Hẻo''', là thủ lĩnh một cuộc khởi nghĩa nông dân Đàng Ngoài lớn vào giữa thế kỷ 18.
+* [[Tâm Kính]] (1920 – 2008), tên thật là '''Trần Thị Trắc''', tên thường dùng là '''Bội Hoàn, Lê Thị Thu''', thường được gọi là cô '''Tâm Kính''', là một trong những nhà lãnh đạo phong trào phụ nữ Việt Nam, [[Đảng viên Đảng Cộng sản Việt Nam]].
+
+==Chú thích==
+{{tham khảo|30em}}
+
+==Tham khảo==
+{{Sơ khai Phú Thọ}}
+{{Đơn vị hành chính thuộc tỉnh Phú Thọ}}

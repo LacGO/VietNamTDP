@@ -1,0 +1,51 @@
+{{Thông tin đơn vị hành chính Việt Nam | xã
+| tên = Yên Phú
+| hình = 
+| ghi chú hình = 
+| vĩ độ = 20.4903870362217
+| kinh độ = 105.4581087220301
+| diện tích = 63,70 km²<ref name=MS/>
+| dân số = 19.850 người<ref name=MS/>
+| thời điểm dân số = 2025
+| mật độ dân số = {{formatnum:{{#expr:floor({{formatnum:19.850|R}}/{{formatnum:63,70|R}})}} }} người/km²
+| vùng = [[Đông Bắc Bộ]]
+| tỉnh = [[Phú Thọ]]
+| thành lập = 1956<ref>378/1956/TC-CB</ref>
+| trụ sở UBND = 
+| mã hành chính = 05305<ref>{{Chú thích web |url=https://danhmuchanhchinh.gso.gov.vn/ |title=Tổng cục Thống kê |access-date=2022-03-24 |archive-date=2021-01-10 |archive-url=https://web.archive.org/web/20210110034519/https://www.gso.gov.vn/phuong-phap-thong-ke/danh-muc/don-vi-hanh-chinh/ |url-status=dead }}</ref>
+| mã bưu chính = 
+}}
+{{other|Yên Phú (định hướng)}}
+'''Yên Phú''' là một [[Xã (Việt Nam)|xã]] thuộc tỉnh [[Phú Thọ]], [[Việt Nam]].
+
+== Địa lý ==
+Xã Yên Phú nằm ở phía Nam tỉnh [[Phú Thọ]], có vị trí địa lý<ref>{{Chú thích web |title=Đơn vị hành chính Việt Nam |url=https://sapnhap.bando.com.vn/ |access-date=2026-07-17 |website=sapnhap.bando.com.vn}}</ref>:
+
+* Phía Bắc giáp xã [[Nhân Nghĩa]].
+* Phía Nam giáp xã [[Lạc Sơn (xã)|Lạc Sơn]].
+* Phía Tây giáp xã [[Thượng Cốc]] và xã [[Quyết Thắng, Phú Thọ|Quyết Thắng]].
+* Phía Đông giáp xã [[Lạc Lương]].
+
+Xã có diện tích 63,70&nbsp;km², dân số năm 2025 là 19.850 người, mật độ dân số đạt {{formatnum:{{#expr:floor({{formatnum:19.850|R}}/{{formatnum:63,70|R}})}} }} người/km².
+
+== Hành chính ==
+Xã Yên Phú được chia thành 28 xóm: Bắp 2, Bợ, Bùi Bái, Chuông Bắp, Cọi, Cuốc, Đanh, Húng, Khen, Khi, Khướng, Nam Hòa 1, Nam Hòa 2, Ngải, Ngã Ba, Nhụn, Ninh Sơn, Rộc (xã Bình Hẻm cũ), Rộc (xã Xuất Hóa cũ), Thượng Bầu, Trắng Cát, Trắng Đá, Trắng Đồi, Vành, Vành Rả, Vỏ, Vốc, Xưa Hạ.<ref name=":1">{{Chú thích web |last=Bộ Dân tộc và Tôn giáo |date=2026-01-29 |title=Danh sách Thôn vùng đồng bào dân tộc thiểu số và miền núi, thôn đặc biệt khó khăn giai đoạn 2026 - 2030 trên địa bàn tỉnh Phú Thọ |url=http://files.ubdt.gov.vn/files/ecm/source_files/2026/02/05/11252411_4.%20Ph%C3%BA%20Th%E1%BB%8D%201%20(th%C3%B4n).signed_26-02-05.pdf |url-status=live |archive-url=https://web.archive.org/web/20260417090807/http://files.ubdt.gov.vn/files/ecm/source_files/2026/02/05/11252411_4.%20Ph%C3%BA%20Th%E1%BB%8D%201%20(th%C3%B4n).signed_26-02-05.pdf |archive-date=2026-04-17 |access-date=2026-04-17 |website=Cổng Thông tin điện tử Bộ Dân tộc và Tôn giáo}}</ref><ref>{{Chú thích web |last=Trung tâm Dịch vụ sự nghiệp công xã Yên Phú, tỉnh Phú Thọ |date=2026-03-03 |title=Danh sách những người ứng cử tại đơn vị bầu cử số 1 (gồm các xóm: Xóm Khướng, Xóm Khen, Xóm Cuốc, Xóm Rộc (Bình Hẻm), Xóm Khi) |url=https://web.facebook.com/story.php?story_fbid=122116639389164823&id=61584944713707&rdid=LZdqXsNUN1IA5EEZ# |url-status=live |archive-url=https://web.archive.org/web/20260427090807/https://web.facebook.com/story.php?story_fbid=122116639389164823&id=61584944713707&rdid=LZdqXsNUN1IA5EEZ# |archive-date=2026-04-27 |access-date=2026-04-27}}</ref><ref>{{Chú thích web |last=Trung tâm Dịch vụ sự nghiệp công xã Yên Phú, tỉnh Phú Thọ |date=2026-03-03 |title=Danh sách những người ứng cử tại đơn vị bầu cử số 2 (gồm các xóm: Xóm Nhụn, Xóm Trắng Đá, Xóm Trắng Cát, Xóm Húng, Xóm Vành, Xóm Vành Rả) |url=https://web.facebook.com/story.php?story_fbid=122116642563164823&id=61584944713707&rdid=ZIZOi2q0twzwe87M# |url-status=live |archive-url=https://web.archive.org/web/20260427090807/https://web.facebook.com/story.php?story_fbid=122116642563164823&id=61584944713707&rdid=ZIZOi2q0twzwe87M# |archive-date=2026-04-27 |access-date=2026-04-27}}</ref><ref>{{Chú thích web |last=Trung tâm Dịch vụ sự nghiệp công xã Yên Phú, tỉnh Phú Thọ |date=2026-03-03 |title=Danh sách những người ứng cử tại đơn vị bầu cử số 3 (gồm các xóm: Xóm Trắng Đồi, Xóm Bợ, Xóm Bùi Bái, Xóm Cọi) |url=https://web.facebook.com/story.php?story_fbid=122116643991164823&id=61584944713707&rdid=sA2jUux0ECnnXFdc# |url-status=live |archive-url=https://web.facebook.com/story.php?story_fbid=122116643991164823&id=61584944713707&rdid=sA2jUux0ECnnXFdc#https://web.facebook.com/story.php?story_fbid=122116643991164823&id=61584944713707&rdid=sA2jUux0ECnnXFdc# |archive-date=2026-04-27 |access-date=2026-04-27}}</ref><ref>{{Chú thích web |last=Trung tâm Dịch vụ sự nghiệp công xã Yên Phú, tỉnh Phú Thọ |date=2026-03-03 |title=Danh sách những người ứng cử tại đơn vị bầu cử số 4 (gồm các xóm: Xóm Chuông Bắp, Xóm Bắp 2, Xóm Vốc, Xóm Thượng Bầu) |url=https://web.facebook.com/story.php?story_fbid=122116645029164823&id=61584944713707&rdid=I1BWj9QlZAImKOEr# |url-status=live |archive-url=https://web.archive.org/web/20260427090807/https://web.facebook.com/story.php?story_fbid=122116645029164823&id=61584944713707&rdid=I1BWj9QlZAImKOEr# |archive-date=2026-04-27 |access-date=2026-04-27}}</ref><ref>{{Chú thích web |last=Trung tâm Dịch vụ sự nghiệp công xã Yên Phú, tỉnh Phú Thọ |date=2026-03-03 |title=Danh sách những người ứng cử tại đơn vị bầu cử số 5 (gồm các xóm: Xóm Ngải, Xóm Vỏ, Xóm Ninh Sơn , Xóm Ngã Ba) |url=https://web.facebook.com/story.php?story_fbid=122116646139164823&id=61584944713707&rdid=TNwWtLb0RUZAgU5p# |url-status=live |archive-url=https://web.archive.org/web/20260427090807/https://web.facebook.com/story.php?story_fbid=122116646139164823&id=61584944713707&rdid=TNwWtLb0RUZAgU5p# |archive-date=2026-04-27 |access-date=2026-04-27}}</ref><ref>{{Chú thích web |last=Trung tâm Dịch vụ sự nghiệp công xã Yên Phú, tỉnh Phú Thọ |date=2026-03-03 |title=Danh sách những người ứng cử tại đơn vị bầu cử số 6 (gồm các xóm: Xóm Xưa Hạ, Xóm Nam Hòa 1, Xóm Nam Hòa 2, Xóm Rộc (xã Xuất Hóa cũ), Xóm Đanh) |url=https://web.facebook.com/story.php?story_fbid=122116646967164823&id=61584944713707&rdid=Z5EqAzPwBEhCEUMT# |url-status=live |archive-url=https://web.archive.org/web/20260427090807/https://web.facebook.com/story.php?story_fbid=122116646967164823&id=61584944713707&rdid=Z5EqAzPwBEhCEUMT# |archive-date=2026-04-27 |access-date=2026-04-27}}</ref>
+
+== Lịch sử ==
+Trước kia, Yên Phú là một xã thuộc huyện [[Lạc Sơn (huyện)|Lạc Sơn]], tỉnh [[Hòa Bình (tỉnh)|Hòa Bình]] cũ.
+
+Ngày [[12 tháng 6]] năm [[2025]], [[Quốc hội Việt Nam|Quốc hội]] ban hành Nghị quyết số 202/2025/QH15 về việc sắp xếp đơn vị hành chính cấp tỉnh (nghị quyết có hiệu lực từ ngày [[12 tháng 6]] năm [[2025]]).<ref>{{Chú thích web |last=xaydungchinhsach.chinhphu.vn|date=2025-07-16|title=TOÀN VĂN: Nghị quyết số 202/2025/QH15 về sắp xếp đơn vị hành chính cấp tỉnh|url=https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-202-2025-qh15-ve-sap-xep-don-vi-hanh-chinh-cap-tinh-119250612174148722.htm|url-status=live|archive-url=http://web.archive.org/web/20260705025431/https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-202-2025-qh15-ve-sap-xep-don-vi-hanh-chinh-cap-tinh-119250612174148722.htm|archive-date=2026-07-05|access-date=2026-07-25|website=Báo Điện tử Chính phủ|language=vi}}</ref> Theo đó, sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của tỉnh [[Vĩnh Phúc (tỉnh)|Vĩnh Phúc]], tỉnh [[Hòa Bình (tỉnh)|Hòa Bình]] và tỉnh [[Phú Thọ]] thành tỉnh mới có tên gọi là tỉnh '''Phú Thọ'''.
+
+Ngày [[16 tháng 6]] năm [[2025]]:
+
+* Quốc hội ban hành Nghị quyết số 203/2025/QH15 về việc sửa đổi, bổ sung một số điều của Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam (nghị quyết có hiệu lực từ ngày [[16 tháng 6]] năm [[2025]]).<ref>{{Chú thích web |last=xaydungchinhsach.chinhphu.vn|date=2025-06-28|title=NGHỊ QUYẾT 203/2025/QH15 SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA HIẾN PHÁP NƯỚC CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM|url=https://xaydungchinhsach.chinhphu.vn/nghi-quyet-203-2025-qh15-sua-doi-bo-sung-mot-so-dieu-cua-hien-phap-nuoc-cong-hoa-xa-hoi-chu-nghia-viet-nam-119250616181735552.htm|url-status=live|archive-url=http://web.archive.org/web/20260715200606/https://xaydungchinhsach.chinhphu.vn/nghi-quyet-203-2025-qh15-sua-doi-bo-sung-mot-so-dieu-cua-hien-phap-nuoc-cong-hoa-xa-hoi-chu-nghia-viet-nam-119250616181735552.htm|archive-date=2026-07-15|access-date=2026-07-15|website=Báo Điện tử Chính phủ|language=vi}}</ref> Theo đó, kết thúc hoạt động của đơn vị hành chính cấp huyện trong cả nước từ ngày 1 tháng 7 năm 2025.
+
+* [[Ủy ban Thường vụ Quốc hội]] ban hành Nghị quyết số 1676/NQ-UBTVQH15 về việc sắp xếp đơn vị hành chính cấp xã của tỉnh [[Phú Thọ]] năm 2025 (nghị quyết có hiệu lực từ ngày [[16 tháng 6]] năm [[2025]]).<ref>{{Chú thích web |last=xaydungchinhsach.chinhphu.vn|date=2025-06-20|title=Nghị quyết số 1676/NQ-UBTVQH15 sắp xếp các ĐVHC cấp xã của tỉnh Phú Thọ năm 2025|url=https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-1676-nq-ubtvqh15-sap-xep-cac-dvhc-cap-xa-cua-tinh-phu-tho-nam-2025-119250616204317326.htm|url-status=live|archive-url=http://web.archive.org/web/20260725082021/https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-1676-nq-ubtvqh15-sap-xep-cac-dvhc-cap-xa-cua-tinh-phu-tho-nam-2025-119250616204317326.htm|archive-date=2026-07-25|access-date=2026-07-25|website=Báo Điện tử Chính phủ|language=vi}}</ref> Theo đó, sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của các xã Bình Hẻm, Xuất Hóa và Yên Phú (huyện [[Lạc Sơn (huyện)|Lạc Sơn]]) thành xã mới có tên gọi là '''xã Yên Phú'''.
+
+==Chú thích==
+{{tham khảo}}
+
+==Tham khảo==
+
+{{sơ khai Phú Thọ}}
+{{Đơn vị hành chính thuộc tỉnh Phú Thọ}}

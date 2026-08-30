@@ -1,0 +1,410 @@
+{{Thông tin đơn vị hành chính Việt Nam|Xã
+| tên = Phúc Thịnh
+| hình = 2022-07-26 Đường Lê Hữu Tựu, Hà Nội 001.jpg
+| ghi chú hình = Đường Lê Hữu Tựu, Phúc Thịnh
+| vĩ độ = 21.1784366958122
+| kinh độ = 105.83944076426971
+| diện tích = 42,63 km²
+| dân số = 95.951 người
+| thời điểm dân số = 2025
+| mật độ dân số = {{formatnum:{{#expr:floor({{formatnum:95.951| R}}/{{formatnum:42,63| R}})}} }} người/km²
+| vùng = [[Đồng bằng sông Hồng]]
+| thành phố = [[Hà Nội]]
+| trụ sở UBND = Thôn Cán Khê<ref>{{Chú thích web |url=https://storage-vnportal.vnpt.vn/gov-hni/6244/VanBan/2025/6/25/TB-729-2025.pdf |title=Thông báo số 729/TB-UBND ngày 25 tháng 6 năm 2025 của Ủy ban nhân dân thành phố Hà Nội về địa điểm trụ sở làm việc của 126 phường, xã sau sắp xếp thuộc phạm vi quản lý của thành phố Hà Nội|access-date=2026-06-15 |archive-date=2026-06-15 |archive-url=https://web.archive.org/web/20260615034519/https://storage-vnportal.vnpt.vn/gov-hni/6244/VanBan/2025/6/25/TB-729-2025.pdf |url-status=dead | website = Cổng Thông tin điện tử Ủy ban nhân dân thành phố Hà Nội}}</ref>
+| mã hành chính = 00466<ref>{{Chú thích web |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/19ttg.signed.pdf |title=Quyết định số 19/2025/QĐ-TTg ngày 30 tháng 6 năm 2025 của Thủ tướng Chính phủ về việc Ban hành Bảng danh mục và mã số các đơn vị hành chính Việt Nam |access-date=2026-06-15 |archive-date=2026-06-15 |archive-url=https://web.archive.org/web/20260615034519/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/19ttg.signed.pdf |url-status=dead | website = Cổng Thông tin điện tử Chính phủ}}</ref>
+| mã bưu chính = 
+| web = {{url|phucthinh.hanoi.gov.vn}}
+|bản đồ 1={{maplink|frame=yes|plain=yes|type=shape|frame-width=280|frame-align=center|stroke-width=3}}|trụ sở Đảng ủy=Thôn Cán Khê}}
+{{other|Phúc Thịnh (định hướng)}}
+'''Phúc Thịnh''' là một [[xã]] thuộc thành phố [[Hà Nội]], [[Việt Nam]]. Đây là một trong hai xã đang được [[Thành ủy Hà Nội]] thí điểm triển khai mô hình xã, phường xã hội chủ nghĩa.<ref>{{Chú thích web|last=Phạm Tuấn|first=|date=2026-07-09|title=Chọn hai xã Phúc Thịnh và Thư Lâm thí điểm xây dựng xã, phường xã hội chủ nghĩa|url=https://tuoitre.vn/chon-hai-xa-phuc-thinh-va-thu-lam-thi-diem-xay-dung-xa-phuong-xa-hoi-chu-nghia-100260709200424.htm|url-status=bot: unknown|access-date=2026-07-11|website=Báo Tuổi Trẻ|language=|archive-url=https://web.archive.org/web/20260710162458/https://tuoitre.vn/chon-hai-xa-phuc-thinh-va-thu-lam-thi-diem-xay-dung-xa-phuong-xa-hoi-chu-nghia-100260709200424.htm|archive-date=2026-07-10}}</ref><ref>{{Chú thích web|date=2026-09-01|title=Hà Nội chọn Thư Lâm, Phúc Thịnh thí điểm xã phường xã hội chủ nghĩa|url=https://vnexpress.net/ha-noi-chon-thu-lam-phuc-thinh-thi-diem-xa-phuong-xa-hoi-chu-nghia-5095596.html|url-status=bot: unknown|access-date=2026-07-11|website=Báo VnExpress|last=Võ Hải|archive-url=https://web.archive.org/web/20260710221736/https://vnexpress.net/ha-noi-chon-thu-lam-phuc-thinh-thi-diem-xa-phuong-xa-hoi-chu-nghia-5095596.html|archive-date=2026-07-10}}</ref>
+
+== Địa lý== 
+Xã Phúc Thịnh có vị trí địa lý:
+
+* Phía đông giáp xã [[Thư Lâm]] và xã [[Đông Anh (xã)|Đông Anh]]
+* Phía tây giáp xã [[Quang Minh]] và xã [[Mê Linh (xã)|Mê Linh]]
+* Phía nam giáp xã [[Thiên Lộc]] và xã [[Vĩnh Thanh, Hà Nội|Vĩnh Thanh]]
+* Phía bắc giáp xã [[Nội Bài]] và xã [[Sóc Sơn (xã)|Sóc Sơn]] với ranh giới tự nhiên là [[sông Cà Lồ]].<ref>{{Chú thích web |last=Viện nghiên cứu Phát triển kinh tế – xã hội Hà Nội|date=2025-07-02|title=Xã Phúc Thịnh: Những thông tin chi tiết sau sắp xếp|url=https://hanoionline.vn/xa-phuc-thinh-nhung-thong-tin-chi-tiet-sau-sap-xep-344061.htm|url-status=live|archive-url=https://web.archive.org/web/20260701400809/https://hanoionline.vn/xa-phuc-thinh-nhung-thong-tin-chi-tiet-sau-sap-xep-344061.htm|archive-date=2026-07-01|access-date=2026-07-01|website=Cơ quan Báo và Phát thanh Truyền hình Hà Nội}}</ref><ref>{{Chú thích web|last=Cơ quan Báo và Phát thanh Truyền hình Hà Nội|date=2025-07-08|title=Xã Phúc Thịnh: Tất cả thông tin chỉ dẫn bạn cần biết|url=https://hanoionline.vn/xa-phuc-thinh-tat-ca-thong-tin-chi-dan-ban-can-biet-345325.htm|url-status=bot: unknown|archive-url=https://web.archive.org/web/20251015082144/https://hanoionline.vn/xa-phuc-thinh-tat-ca-thong-tin-chi-dan-ban-can-biet-345325.htm|archive-date=2025-10-15|access-date=2026-07-11}}</ref>
+Xã Phúc Thịnh có diện tích tự nhiên là 42,63&nbsp;km<sup>2</sup>, quy mô dân số năm 2025 là 95.951 người và mật độ dân số đạt 2.250 người/km<sup>2</sup>.<ref>{{Chú thích web|last=Mai Hữu|date=2025-04-25|title=Hà Nội: Chi tiết phương án tổng thể sắp xếp đơn vị hành chính cấp xã|url=https://hanoimoi.vn/ha-noi-chi-tiet-phuong-an-tong-the-sap-xep-don-vi-hanh-chinh-cap-xa-700278.html|url-status=bot: unknown|archive-url=https://web.archive.org/web/20250710163328/https://hanoimoi.vn/ha-noi-chi-tiet-phuong-an-tong-the-sap-xep-don-vi-hanh-chinh-cap-xa-700278.html|archive-date=2025-07-10|access-date=2026-07-07|website=Cơ quan Báo và Phát thanh, truyền hình Hà Nội}}</ref><ref>Công văn số 2896/BNV-CQĐP ngày 27 tháng 5 năm 2025 của Bộ Nội vụ về việc cung cấp thông tin danh mục dự kiến đơn vị hành chính cấp xã mới.</ref>
+
+Khu vực tương đối bằng phẳng, diện tích lớn giúp tạo thuận lợi cho việc quy hoạch đô thị, các khu công nghiệp. Một số khu vực nằm ven [[sông Hồng]] có phù sa màu mỡ góp phần phát triển nông nghiệp trong tương lai.
+
+== Lịch sử==
+
+=== Thời phong kiến === 
+Đầu thế kỷ XX, địa bàn xã Phúc Thịnh trải dài trên:
+
+* Tổng Tuân Lệ, huyện Đông Ngàn, phủ Từ Sơn, trấn Kinh Bắc.<ref name="ĐA2">{{chú thích sách | author = UBND huyện Đông Anh | url = https://donganh.hanoi.gov.vn/documents/6071114/6720657/D%E1%BB%B1+th%E1%BA%A3o+%C4%91%E1%BB%81+%C3%A1n+qu%E1%BA%ADn+%C4%90%C3%B4ng+Anh.pdf | title = Dự thảo Đề án thành lập quận Đông Anh và các phường thuộc quận Đông Anh, thành phố Hà Nội | year = 2023 | location = Đông Anh, Hà Nội | p = 122-123 | archive-url = https://web.archive.org/web/20230712081151/https://donganh.hanoi.gov.vn/documents/6071114/6720657/D%E1%BB%B1+th%E1%BA%A3o+%C4%91%E1%BB%81+%C3%A1n+qu%E1%BA%ADn+%C4%90%C3%B4ng+Anh.pdf | archive-date = 2023-07-12 | url-status = live}}</ref>
+* Tổng Đông Đồ, huyện Kim Hoa (năm 1841 đổi thành huyện Kim Anh), phủ Bắc Hà, trấn [[Kinh Bắc]] (từ năm 1831 là tỉnh [[Bắc Ninh]]).
+* Tổng Cổ Loa, huyện Đông Ngàn, phủ Từ Sơn, trấn Kinh Bắc.
+
+Trước Cách mạng tháng Tám năm 1945, địa bàn xã Nguyên Khê cũ thuộc xã Đông Khê, huyện Đông Anh, tỉnh Phúc Yên với 6 thôn: Nguyên Khê, Lâm Tiên, Cán Khê, Khê Nữ, Sơn Du, Đại Bằng và 3 xóm: Núi, Tiên, Nguyễn; địa bàn xã Bắc Hồng cũ gồm bốn thôn: Bến Trung; Phù Liễn; Quan Âm; Thượng Phúc, tên nôm là làng Hương, các làng xưa ấy sau gọi là thôn, còn thôn Mỹ Nội có tên nôm là làng Nội.
+
+=== Giai đoạn 1945 – 1976 === 
+Sau Cách mạng tháng Tám 1945, Thụy Hà hợp nhất với các làng Chu Lão, Sơn Gia thành lập xã Bắc Hồng, huyện Đông Anh, tỉnh [[Phúc Yên (tỉnh)|Phúc Yên]] (từ năm 1950 là tỉnh [[Vĩnh Phúc (tỉnh)|Vĩnh Phúc]]).
+
+Năm 1946, xã Tiên Dương được gọi là xã Ngũ Lão với 6 thôn: Cổ Dương, Tuân Lề, Lễ Pháp, Tiên Kha, Trung Oai, Trầm Mỏ (tức Lương Nỗ sau này).
+
+Tháng 2 năm 1946, thành lập xã Tuyên Nghĩa trên cơ sở xã Chu Lão, xã Thụy Hà và thôn Mỹ Nội thuộc xã Sơn Du.
+
+Tháng 3 năm 1946, xã Đông Đồ và xã Tằng My sáp nhập thành xã Phúc Long.
+
+Ngày 27 tháng 3 năm 1946, hợp nhất 3 xã Chiêm Trạch, Ngọc Giang và Phương Trạch thành xã Tân Trạch.
+
+Tháng 4 năm 1946:
+
+* Sáp nhập thôn Nguyên Khê vào xã Đào Nguyên
+* Sáp nhập thôn Lâm Tiên vào xã Phúc Tiến.
+* Sáp nhập 3 xóm: Núi, Tiên, Nguyễn thuộc xã Phù Lỗ.
+* Sáp nhập các thôn còn lại vào xã Liên Hiệp.
+* Xã Tiên Dương được gọi là xã Ngũ Lão với 6 thôn: Cổ Dương, Tuân Lề, Lễ Pháp, Tiên Kha, Trung Oai, Trầm Mỏ (tức Lương Nỗ sau này). 
+* Hợp nhất xã Vân Trì và xã Viên Nội thành xã Vân Long.
+
+Tháng 3 năm 1948, thành lập xã Nam Hồng trên cơ sở các xã: Sơn Du, Tuyên Nghĩa và Phúc Long.
+
+Tháng 3 năm 1949:
+
+* Thôn Sơn Du nhập vào xã Nam Hồng.
+* Các thôn: Khê Nữ, Cán Khê, Đại Bằng, Lâm Tiên, Nguyên Khê nhập vào xã Xuân Nộn thành xã Tự Do.
+* Hợp nhất các xã Ngũ Lão, Tân Trạch, Vân Long thành xã Toàn Thắng.
+
+Ngày 17 tháng 6 năm 1949, hợp nhất xã Phúc Long và xã Tuyên Nghĩa thành xã Đông Thành.
+
+Ngày 10 tháng 11 năm 1949, Ủy ban hành chính Liên khu 2 ban hành Quyết định số 968-PC/2<ref>Quyết định số 968-PC/2 của Ủy ban hành chính Liên khu 2.</ref> về việc đổi tên xã Đông Thành thành xã Nam Hồng.
+
+Năm 1955:
+
+* Chia xã Tự Do thành xã Phúc Thịnh và xã Xuân Nộn
+* Chia xã Nam Hồng thành hai xã Phúc Long và Nam Hồng.
+* Chia xã Toàn Thắng chia thành 3 xã<ref name="ĐA4">{{chú thích sách | author = UBND huyện Đông Anh | url = https://donganh.hanoi.gov.vn/documents/6071114/6720657/D%E1%BB%B1+th%E1%BA%A3o+%C4%91%E1%BB%81+%C3%A1n+qu%E1%BA%ADn+%C4%90%C3%B4ng+Anh.pdf | title = Dự thảo Đề án thành lập quận Đông Anh và các phường thuộc quận Đông Anh, thành phố Hà Nội | year = 2023 | location = Đông Anh, Hà Nội | p = 41-42 | archive-url = https://web.archive.org/web/20230712081151/https://donganh.hanoi.gov.vn/documents/6071114/6720657/D%E1%BB%B1+th%E1%BA%A3o+%C4%91%E1%BB%81+%C3%A1n+qu%E1%BA%ADn+%C4%90%C3%B4ng+Anh.pdf | archive-date = 2023-07-12 | url-status = live}}</ref>:
+** Xã Vân Long đổi tên thành xã Liên Hiệp.
+** Xã Tân Trạch đổi tên thành xã Tân Tiến.
+** Xã Ngũ Lão đổi tên thành xã Toàn Thắng.
+
+Tháng 2 năm 1956, đổi tên xã Tân Trạch thành xã Tân Tiến.
+
+Ngày 20 tháng 4 năm 1961, Quốc hội ban hành Nghị quyết về việc:
+
+* Sáp nhập các xóm Núi, Tiên, Nguyễn của xã Phù Lỗ vào xã Phúc Thịnh quản lý
+* Sáp nhập xã Phúc Thịnh, huyện [[Đông Anh (huyện)|Đông Anh]], tỉnh [[Vĩnh Phúc (tỉnh)|Vĩnh Phúc]] vào thành phố Hà Nội quản lý.
+* Sáp nhập xã Vân Nội, huyện Đông Anh, tỉnh Vĩnh Phúc vào thành phố Hà Nội quản lý.
+* Sáp nhập xã Bắc Hồng, huyện Đông Anh, tỉnh Vĩnh Phúc vào thành phố Hà Nội quản lý.
+* Sáp nhập xã Tân Tiến vào thành phố Hà Nội quản lý.
+
+Ngày 31 tháng 5 năm 1961, Hội đồng Chính phủ ban hành 78-CP. Theo đó:
+
+* Xã Phúc Thịnh thuộc huyện Đông Anh, thành phố Hà Nội.
+* Xã Tân Tiến thuộc huyện Đông Anh, thành phố Hà Nội quản lý.
+
+Tháng 6 năm 1965, đổi tên xã Phúc Thịnh thành xã Nguyên Khê với 7 thôn: Sơn Du, Đại Bằng, Khê Nữ, Cán Khê, Tiên Hùng, Nguyên Khê, Lâm Tiên.
+
+Tháng 10 năm 1965<ref name="ĐA3">{{chú thích sách | author = UBND huyện Đông Anh | url = https://donganh.hanoi.gov.vn/documents/6071114/6720657/D%E1%BB%B1+th%E1%BA%A3o+%C4%91%E1%BB%81+%C3%A1n+qu%E1%BA%ADn+%C4%90%C3%B4ng+Anh.pdf | title = Dự thảo Đề án thành lập quận Đông Anh và các phường thuộc quận Đông Anh, thành phố Hà Nội | year = 2023 | location = Đông Anh, Hà Nội | p = 138-139 | archive-url = https://web.archive.org/web/20230712081151/https://donganh.hanoi.gov.vn/documents/6071114/6720657/D%E1%BB%B1+th%E1%BA%A3o+%C4%91%E1%BB%81+%C3%A1n+qu%E1%BA%ADn+%C4%90%C3%B4ng+Anh.pdf | archive-date = 2023-07-12 | url-status = live}}</ref>:
+
+* Đổi tên xã Toàn Thắng thành xã Tiên Dương.
+* Đổi tên xã Liên Hiệp thành xã Vân Nội.
+* Đổi tên xã Tân Tiến thành xã Vĩnh Ngọc.
+
+=== Giai đoạn 1976 – nay ===
+Sau ngày 2 tháng 7 năm 1976, 8 xã: Bắc Hồng, Nam Hồng, Nguyên Khê, Tiên Dương, Uy Nỗ, Vân Nội, Vĩnh Ngọc và Xuân Nộn thuộc huyện [[Đông Anh (huyện)|Đông Anh]] của thành phố [[Hà Nội]].
+
+Ngày 13 tháng 10 năm 1982, thành lập thị trấn Đông Anh gồm đất của 4 xã Xuân Nộn, Nguyên Khê, Tiên Dương và Uy Nỗ.<ref>{{Chú thích web |title=Quyết định số 173-HĐBT ngày 13 tháng 10 năm 1982 của Hội đồng Bộ trưởng về việc phân vạch địa giới một số phường và thị trấn thuộc thành phố Hà Nội |url=https://chinhphu.vn/default.aspx?pageid=27160&docid=6408 |url-status=live |archive-url=https://web.archive.org/web/20260706400809/https://chinhphu.vn/default.aspx?pageid=27160&docid=6408 |archive-date=2026-07-06 |access-date=2026-07-06 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+
+Ngày 16 tháng 6 năm 2025:
+
+* Kết thúc hoạt động của đơn vị hành chính cấp huyện trong cả nước.<ref>{{Chú thích web |last= |date= |title=Nghị quyết số 203/2025/QH15 ngày 16 tháng 6 năm 2025 của Quốc hội khóa XV, Kỳ họp thứ 9 về việc sửa đổi, bổ sung một số điều của Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/nq-sua-doi-hien-phap.pdf |url-status=live |archive-url=https://web.archive.org/web/20260613090807/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/nq-sua-doi-hien-phap.pdf |archive-date=2026-06-13 |access-date=2026-06-13 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+* Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của các xã Bắc Hồng, Nam Hồng, Vân Nội, một phần diện tích tự nhiên của xã Vĩnh Ngọc, phần còn lại của xã Nguyên Khê và xã Xuân Nộn, phần còn lại của xã Tiên Dương và phần còn lại của thị trấn Đông Anh (huyện [[Đông Anh (huyện)|Đông Anh]]) thành xã mới có tên gọi là xã Phúc Thịnh.<ref>{{Chú thích web |title=Nghị quyết số 1656/NQ-UBTVQH15 ngày 16 tháng 6 năm 2025 của Ủy ban Thường vụ Quốc hội về việc sắp xếp các đơn vị hành chính cấp xã của thành phố Hà Nội năm 2025 |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf |url-status=bot: unknown |archive-url=https://web.archive.org/web/20260513110024/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf |archive-date=2026-05-13 |access-date=2026-06-30 |website=Cổng Thông tin điện tử Chính phủ }}</ref>
+* Sau khi sắp xếp, xã Phúc Thịnh được chia 40 tổ dân phố – khối phố – khu – khu phố – thôn, gồm 8 tổ dân phố, 1 khối phố, 1 khu, 1 khu phố và 29 thôn.<ref>6 thôn: Bến Trung, Mỹ Nội, Phù Liễn, Quan Âm, Thụy Hà và Thượng Phúc của xã Bắc Hồng cũ; 5 khu – thôn, gồm khu Cầu Lớn và 4 thôn: Đìa, Đoài, Tằng My, Vệ của xã Nam Hồng cũ; 7 khu phố – thôn, gồm khu phố Vân Trì và 6 thôn: Ba Chữ, Đầm, Đông Tây, Nhì, Thố Bảo, Viên Nội của xã Vân Nội cũ; 8 khối phố – thôn, gồm khối phố Nguyên Khê và 7 thôn: Cán Khê, Đại Bằng, Đồng, Khê Nữ, Nguyên Khê, Sơn Du, Tiên Hùng của xã Nguyên Khê cũ; 6 thôn: Cổ Dương, Lễ Pháp, Lương Nỗ, Tiên Kha, Trung Oai và Tuân Lề của xã Tiên Dương cũ; 8 tổ dân phố: 5, 15, từ 24 đến 28 và 62 của thị trấn Đông Anh cũ.</ref><ref>{{Chú thích web|title=Thông tư số 10/2022/TT-BTNMT ngày 29 tháng 9 năm 2022 của Bộ Tài nguyên và Môi trường về việc Ban hành Danh mục địa danh dân cư, sơn văn, thủy văn, kinh tế – xã hội phục vụ công tác thành lập bản đồ thành phố Hà Nội|url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2022/10/10-btnmt.pdf|url-status=bot: unknown|archive-url=https://web.archive.org/web/20260630082812/https://datafiles.chinhphu.vn/cpp/files/vbpq/2022/10/10-btnmt.pdf|archive-date=2026-06-30|access-date=2026-06-30|website=Cổng Thông tin điện tử Chính phủ}}</ref><ref name=":0">{{Chú thích web |last=Trang Thông tin điện tử xã Phúc Thịnh – thành phố Hà Nội|date=2026-02-25|title=Công bố danh sách 48 người ứng cử đại biểu Hội đồng nhân dân xã Phúc Thịnh khóa II, nhiệm kỳ 2026 – 2031|url=https://phucthinh.hanoi.gov.vn/tin-tuc-su-kien/cong-bo-danh-sach-48-nguoi-ung-cu-dai-bieu-hdnd-xa-phuc-thinh-khoa-ii-nhiem-ky-2026-2031-2689260225154545423.htm|url-status=live|archive-url=https://web.archive.org/web/20260701400809/https://phucthinh.hanoi.gov.vn/tin-tuc-su-kien/cong-bo-danh-sach-48-nguoi-ung-cu-dai-bieu-hdnd-xa-phuc-thinh-khoa-ii-nhiem-ky-2026-2031-2689260225154545423.htm|archive-date=2026-07-01|access-date=2026-07-01|website=}}</ref>
+
+Ngày 24 tháng 12 năm 2025, xác định một phần của xã Phúc Thịnh là [[Đô thị Việt Nam|đô thị loại III]].<ref>Chuyển tiếp từ thị trấn Đông Anh thuộc huyện Đông Anh.</ref><ref>{{Chú thích web |title=Nghị quyết số 111/2025/UBTVQH15 ngày 24 tháng 12 năm 2025 của Ủy ban Thường vụ Quốc hội về phân loại đô thị |url=https://cdn.nhandan.vn/files/f4a4abf7f9a0ba4a91744616546d850872b76917f90d5a74cc9eebef1369fb6f/111.pdf |url-status=dead |archive-url=https://web.archive.org/web/20260430074852/https://cdn.nhandan.vn/files/f4a4abf7f9a0ba4a91744616546d850872b76917f90d5a74cc9eebef1369fb6f/111.pdf |archive-date=2026-04-30 |access-date=2026-07-12 |website=Báo Nhân dân }}</ref>
+
+Ngày 24 tháng 6 năm 2026, thành lập 13 thôn mới: An Thịnh, Toàn Thắng, Khê Nữ, Tuần Lề, Nguyên Khê, Cán Khê, Tiên Hùng, Sơn Du, Phù Thụy, Vân Nội, Vân Long, Vân Trì và Tằng My.<ref>1. Thôn An Thịnh: Sáp nhập toàn bộ diện tích, quy mô dân số của tổ dân phố số 15 và 24; 2. Thôn Toàn Thắng: Sáp nhập toàn bộ diện tích, quy mô dân số của tổ dân phố số 25, 26, 27 và 28; 3. Thôn Khê Nữ: Sáp nhập toàn bộ diện tích, quy mô dân số của thôn Khê Nữ và tổ dân phố số 62; 4. Thôn Tuân Lề: Sáp nhập toàn bộ diện tích, quy mô dân số của thôn Tuân Lề và tổ dân phố số 5; 5. Thôn Nguyên Khê: Thôn Nguyên Khê + một phần diện tích, dân số Khối phố Nguyên Khê (Khu vực phía Nam đường Lê Hữu Tựu); 6. Thôn Cán Khê: Thôn Cán Khê + một phần diện tích, dân số Khối phố Nguyên Khê (khu vực phía Bắc đường Lê Hữu Tựu); 7. Thôn Tiên Hùng: Thôn Tiên Hùng + một phần khối phố Nguyên Khê (Khu vực mặt đường 3 địa phận xóm Tiên, thôn Tiên Hùng); 8. Thôn Sơn Du: Sáp nhập toàn bộ diện tích, quy mô |dân số của thôn Sơn Du, thôn Đồng và thôn Đại Bằng; 9. Thôn Phù Thụy: Sáp nhập toàn bộ diện tích, quy mô |dân số của thôn Thụy Hà và thôn Phù Liễn; 10. Thôn Vân Nội: Sáp nhập toàn bộ diện tích, quy mô dân số của thôn Nhì và thôn Thố Bảo; 11. Thôn Vân Long: Sáp nhập toàn bộ |diện tích, quy mô dân số của thôn Đông Tây và thôn Đầm; 12. Thôn Vân Trì: Sáp nhập toàn bộ diện tích, quy mô dân số của thôn Ba Chữ và khu phổ Vân Trì; 13. Thôn Tằng My: Sáp nhập toàn bộ diện tích, quy mô dân số của thôn Tằng My và khu Cầu Lớn; 14. Giữ nguyên thôn Bến Trung; 15. Giữ nguyên thôn Quan Âm; 16. Giữ nguyên thôn Thượng Phúc; 17. Giữ nguyên thôn Mỹ Nội; 18. Giữ nguyên thôn Viên Nội; 19. Giữ nguyên thôn Đìa; 20. Giữ nguyên thôn Vệ; 21. Giữ nguyên thôn Đoài; 22. Giữ nguyên thôn Lương Nỗ; 23. Giữ nguyên thôn Trung Oai; 24. Giữ nguyên thôn Lễ Pháp; 25. Giữ nguyên thôn Cổ Dương; 26. Giữ nguyên thôn Tiên Kha.</ref><ref name=":1">{{Chú thích web |title=Thông báo số 4854/TB-UBND ngày 1 tháng 7 năm 2026 của Ủy ban nhân dân xã Phúc Thịnh về việc sắp xếp, tổ chức lại thôn, tổ dân phố trên địa bàn xã Phúc Thịnh năm 2026 |url=https://sqhx-hanoi.mediacdn.vn/91579363132710912/2026/7/6/tb-48540001-1783334416448525695291.pdf |url-status=bot: unknown |archive-url=https://web.archive.org/web/20260712195041/https://sqhx-hanoi.mediacdn.vn/91579363132710912/2026/7/6/tb-48540001-1783334416448525695291.pdf |archive-date=2026-07-12 |access-date=2026-07-08 |website=Trang Thông tin điện tử xã Phúc Thịnh – thành phố Hà Nội }}</ref>
+
+== Hành chính ==
+Xã Phúc Thịnh được chia thành 26 thôn: An Thịnh, Bến Trung, Cán Khê, Cổ Dương, Đìa, Đoài, Khê Nữ, Lễ Pháp, Lương Nỗ, Mỹ Nội, Nguyên Khê, Phù Thụy, Quan Âm, Sơn Du, Tằng My, Thượng Phúc, Tiên Hùng, Tiên Kha, Toàn Thắng, Trung Oai, Tuân Lề, Vân Long, Vân Nội, Vân Trì, Vệ và Viên Nội.<ref name=":1" />
+{| class="wikitable sortable" align="center" width="100%" cellspacing="6" cellpadding="0" style="background: #f9f9f9; border: 1px #aaa solid; margin-top: 16px"
+! colspan="4" style="background: #E6E6FA; font-size: 95%;" |Danh sách các thôn thuộc xã Phúc Thịnh<ref name=":1" />
+|-
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |An Thịnh
+|681
+|-
+| align="left" |Bến Trung
+|838
+|-
+| align="left" |Cán Khê
+|730
+|-
+| align="left" |Cổ Dương
+|1.568
+|-
+| align="left" |Đìa
+|1.790
+|-
+| align="left" |Đoài
+|1.177
+|-
+| align="left" |Khê Nữ
+|1.069
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Lễ Pháp
+|762
+|-
+| align="left" |Lương Nỗ
+|1.120
+|-
+| align="left" |Mỹ Nội
+|583
+|-
+| align="left" |Nguyên Khê
+|1.051
+|-
+| align="left" |Phù Thụy
+|1.770
+|-
+| align="left" |Quan Âm
+|808
+|-
+| align="left" |Sơn Du
+|1.154
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Tằng My
+|1.498
+|-
+| align="left" |Thượng Phúc
+|607
+|-
+| align="left" |Tiên Hùng
+|879
+|-
+| align="left" |Tiên Kha
+|590
+|-
+| align="left" |Toàn Thắng
+|1.324
+|-
+| align="left" |Trung Oai
+|1.623
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Tuân Lề
+|624
+|-
+| align="left" |Vân Long
+|997
+|-
+| align="left" |Vân Nội
+|1.339
+|-
+| align="left" |Vân Trì
+|887
+|-
+| align="left" |Vệ
+|1.089
+|-
+| align="left" |Viên Nội
+|1.178
+|}
+|}
+
+== Văn hóa==
+=== Di tích === 
+[[Chùa Tổ Long|Chùa Tổ Long Tự]] tên chữ Tổ Long Tự (chữ Nho: 祖 龍 寺) là một ngôi cổ tự nằm ở khúc đầu của con rồng, tại địa phận thôn Phù Thụy, là nơi sinh hoạt của người dân.
+
+Di tích Địa đạo Nam Hồng nằm tại thôn Vệ là địa điểm có giá trị to lớn về lịch sử kháng chiến chống thực dân Pháp giai đoạn 1945 – 1954 của quân và dân ta.<ref>{{Chú thích báo |title=Địa đạo Nam Hồng - chứng tích lịch sử hào hùng |url=https://www.qdnd.vn/quoc-phong-an-ninh/nghe-thuat-quan-su-vn/dia-dao-nam-hong-chung-tich-lich-su-hao-hung-801418 |url-status=live}}</ref> Di tích đã được Bộ văn hóa xếp hạng di tích lịch sử văn hóa cấp quốc gia năm 1996.
+
+== Giao thông== 
+Các tuyến, hệ thống giao thông ở xã Phúc Thịnh:
+
+* Quốc lộ 23B: nối Quốc lộ 3 với Quốc lộ 23.
+* Cầu Nhật Tân bắc qua Sông Hồng: Mặt cầu rộng 33,2m, trong đó phần chính của cầu qua sông dài 1,5&nbsp;km.
+* Đường cao tốc Bắc Thăng Long - Nội Bài: cao tốc này cắt tuyến đường sắt Yên Viên – Lào Cai tại lý trình km7 + 312 trên cầu vượt đường sắt Quang Minh (giáp ranh xã [[Quang Minh]]).
+* Đường sắt Yên Viên – Lào Cai.
+* Đường sắt Bắc Hồng – Văn Điển (đường sắt vận chuyển hàng hóa).
+* Hệ thống xe buýt: 07, 35B, 53A, 53B, 56A, 56B, 58, 61, 64, 93, 95, 96, 109, 160.
+* Ga Bắc Hồng nằm trên địa bàn xã Phúc Thịnh. Đây là nhà ga đứng cuối cùng kể từ phía Nam lên phía Bắc của vành đai Đường sắt Thủ đô [[Hà Nội]].
+
+== Y tế ==
+Hiện nay trên đại bàn xã có các trung tâm Y tế đạt tiêu chuẩn quốc gia, các phòng khám hiện đại đáp ứng được tốt nhu cầu của nhân dân.<!-- 
+== Lịch sử== 
+Trước kia, vùng đất là xã Tiên Dương ngày nay thuộc tổng Tuân Lệ, huyện Đông Ngàn, phủ Từ Sơn, trấn Kinh Bắc.<ref name = ĐA>{{chú thích sách| author = UBND huyện Đông Anh | url = https://donganh.hanoi.gov.vn/documents/6071114/6720657/D%E1%BB%B1+th%E1%BA%A3o+%C4%91%E1%BB%81+%C3%A1n+qu%E1%BA%ADn+%C4%90%C3%B4ng+Anh.pdf| title = Dự thảo Đề án thành lập quận Đông Anh và các phường thuộc quận Đông Anh, thành phố Hà Nội | year = 2023 | location = Đông Anh, Hà Nội | p = 122-123 | url-status = live| archive-url = https://web.archive.org/web/20230712081151/https://donganh.hanoi.gov.vn/documents/6071114/6720657/D%E1%BB%B1+th%E1%BA%A3o+%C4%91%E1%BB%81+%C3%A1n+qu%E1%BA%ADn+%C4%90%C3%B4ng+Anh.pdf| archive-date = 2023-07-12}}</ref>
+
+Năm [[1946]], xã Tiên Dương được gọi là xã Ngũ Lão với 6 thôn: Cổ Dương, Tuân Lề, Lễ Pháp, Tiên Kha, Trung Oai, Trầm Mỏ (tức Lương Nỗ sau này).
+
+Năm [[1949]], xã Ngũ Lão hợp nhất với các xã Tân Trạch, Vân Long thành xã Toàn Thắng.
+ 
+Năm [[1955]], xã Toàn Thắng chia thành 3 xã:
+*Xã Vân Long đổi tên thành xã Liên Hiệp (nay là xã Vân Nội)
+*Xã Tân Trạch đổi tên thành xã Tân Tiến (nay là xã Vĩnh Ngọc)
+*Xã Ngũ Lão đổi tên thành xã Toàn Thắng.
+
+[[Tháng 10]] năm [[1965]], xã Toàn Thắng đổi tên thành xã Tiên Dương.
+
+Ngày [[13 tháng 10]] năm [[1982]], Hội đồng Bộ trưởng ban hành Quyết định số 173-HĐBT<ref name = 173-HĐBT>{{Chú thích web| url = https://m.thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-173-HDBT-phan-vach-dia-gioi-phuong-va-thi-tran-thanh-pho-Ha-Noi-43981.aspx| tựa đề = Quyết định số 173-HĐBT năm 1982 của Hội đồng Bộ trưởng về việc phân vạch địa giới một số phường và thị trấn thuộc thành phố Hà Nội | tác giả = | ngày = | website = Thư viện Pháp luật | url lưu trữ = | ngày lưu trữ = | ngày truy cập = }}</ref> về việc thành lập thị trấn Đông Anh trên cơ sở một phần diện tích tự nhiên và dân số của Tiên Dương.
+
+== Lịch sử== 
+Đầu thế kỷ XIX, khu vực xã Vĩnh Ngọc hiện nay thuộc tổng Cổ Loa, huyện Đông Ngàn, phủ Từ Sơn, trấn Kinh Bắc. Lúc bấy giờ xã Vĩnh Ngọc được chia thành 3 xã: Chiêm Trạch, Ngọc Giang và Phương Trạch.
+
+Ngày [[27 tháng 3]] năm [[1946]], hợp nhất 3 xã Chiêm Trạch, Ngọc Giang và Phương Trạch thành xã Tân Trạch.
+
+Ngày [[19 tháng 5]] năm [[1949]], hợp nhất 3 xã Tân Trạch, Ngũ Lão và Vân Long thành xã Toàn Thắng.
+
+[[Tháng 3]] năm [[1955]], chia xã Toàn Thắng thành 3 xã: Tân Trạch, Ngũ Lão, Vân Long.
+
+[[Tháng 2]] năm [[1956]], đổi tên xã Tân Trạch thành xã Tân Tiến.
+
+Ngày [[20 tháng 4]] năm [[1961]], Quốc hội ban hành Nghị quyết<ref>{{Chú thích web| url = https://m.thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Nghi-Quyet-mo-rong-thanh-pho-Ha-Noi-42689.aspx| tựa đề = Nghị quyết về việc mở rộng thành phố Hà Nội | tác giả = | ngày = | website = Thư viện Pháp luật | url lưu trữ = | ngày lưu trữ = | ngày truy cập = }}</ref> về việc sáp nhập xã Tân Tiến vào thành phố Hà Nội.
+
+Ngày [[31 tháng 5]] năm [[1961]], Hội đồng Chính phủ ban hành 78-CP<ref>{{Chú thích web| url = https://m.thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-78-CP-chia-khu-vuc-noi-ngoai-thanh-thanh-pho-Ha-Noi-20286.aspx| tựa đề = Quyết định số 78-CP năm 1961 chia các khu vực nội thành và ngoại thành của Thành phố Hà Nội | tác giả = | ngày = | website = Thư viện Pháp luật | url lưu trữ = | ngày lưu trữ = | ngày truy cập = }}</ref>. Theo đó, xã Tân Tiến thuộc huyện Đông Anh, thành phố Hà Nội quản lý.
+
+Năm [[1965]], đổi tên xã Tân Tiến thành xã Vĩnh Ngọc.<ref name = ĐA>{{chú thích sách| author = UBND huyện Đông Anh | url = https://donganh.hanoi.gov.vn/documents/6071114/6720657/D%E1%BB%B1+th%E1%BA%A3o+%C4%91%E1%BB%81+%C3%A1n+qu%E1%BA%ADn+%C4%90%C3%B4ng+Anh.pdf| title = Dự thảo Đề án thành lập quận Đông Anh và các phường thuộc quận Đông Anh, thành phố Hà Nội | year = 2023 | location = Đông Anh, Hà Nội | p = 149-150 | url-status = live| archive-url = https://web.archive.org/web/20230712081151/https://donganh.hanoi.gov.vn/documents/6071114/6720657/D%E1%BB%B1+th%E1%BA%A3o+%C4%91%E1%BB%81+%C3%A1n+qu%E1%BA%ADn+%C4%90%C3%B4ng+Anh.pdf| archive-date = 2023-07-12}}</ref>
+
+== Kinh tế - xã hội== 
+Giáo dục: Trên địa bàn xã Vĩnh Ngọc có nhiều ngôi trường dành cho chủ yếu con em trong xã và các xã lân cận trong huyện Đông Anh. Trong đó có ba ngôi trường Công lập là Trường Mầm non Vĩnh Ngọc, trường Mầm non Họa Mi, Trường Tiểu học Vĩnh Ngọc và Trường trung học cơ sở Vĩnh Ngọc. Hai ngôi trường [[Giáo dục tiểu học| Tiểu học]] và [[Trung học cơ sở (Việt Nam)| Trung học cơ sở]] của xã đã được Ủy ban nhân dân thành phố [[Hà Nội]] công nhận là trường đạt chuẩn quốc gia. Bên cạnh đó còn có nhiều trung tâm giáo dục, các ngôi trường cấp III đóng trên địa bàn xã.
+
+Y tế: Hiện nay trên đại bàn xã có các trung tâm Y tế đạt tiêu chuẩn quốc gia, các phòng khám hiện đại đáp ứng được tốt nhu cầu của nhân dân.
+
+== Văn hóa== 
+Trong những năm 1941 - 1945, thôn Ngọc Giang, xã Vĩnh Ngọc, huyện Đông Anh trở thành an toàn khu quan trọng của Ban Thường vụ T.Ư Đảng về làm việc, hội họp và chỉ đạo kháng chiến. Ngọc Giang không chỉ là cơ sở an toàn khu đầu tiên của huyện Đông Anh mà còn là nơi T.Ư Đảng tổ chức hội họp. Đầu năm 1945, tại chùa Ngọc Giang đã diễn ra cuộc họp lịch sử của T.Ư do đồng chí Trường Chinh chủ trì, quyết định chủ trương chuẩn bị khởi nghĩa giành chính quyền trong phạm vi cả nước. Ngày 21/8/1945, đoàn biểu tình của thôn Ngọc Giang, xã Vĩnh Ngọc đã lên thẳng huyện lỵ Đông Anh phối hợp cùng lực lượng các địa phương khác giành chính quyền, giải phóng huyện Đông Anh. Cũng nhờ an toàn khu này, trong 4 năm trường kỳ gian khổ, T.Ư Đảng đã được bảo vệ an toàn, lãnh đạo cách mạng từng bước đi lên, tạo nên thắng lợi lịch sử tháng 8/1945.
+*Đình làng thôn Ngọc Chi: là nơi thờ tướng [[Nồi Hầu]] và vợ của ông, cùng với 2 con trai là Đống Vĩnh, Lý Vực. [[Nồi Hầu]] là một vị tướng giỏi dưới thời vua [[An Dương Vương]] 2 con trai của ông cũng là tướng võ trong triều.Đình làng Ngọc Chi có bề dày lịch sử lâu đời và hiện nay là một di tích lịch Sở văn hóa đã được xếp hạng năm 1993. Ngoài ra còn thờ những dòng họ đã lập ra thôn Ngọc Chi như dòng họ: Phạm, Nguyễn, Hoàng, Bùi, Dương, Trần, Lê, Trịnh.
+*[[Chùa Khánh Long (Quốc Sư Tự)]] thôn Vĩnh Thanh: chùa xây dựng vào thời kỳ nhà Lê niên hiệu Chính Hòa năm 1698, người khai sáng ra ngôi chùa này là Quốc Sư Hòa thượng – Nguyễn Đức Trung tự là Đạo Chất Thiền Sư ở chùa Báo Thiên – Hà Nội. Trên Bia ghi "Quốc Sư Tự Bi" "Quốc Sư Hòa Thượng trụ trì Trung Đô Báo Thiên Tự" Có nghĩa là Bia ghi lịch sử chùa Quốc Sư của Quốc Sư Hòa thượng trụ trì chùa Báo Thiên ở Phủ Trung Đô. Chính vì vậy chùa Khánh Long (chùa Quốc Sư Tự) có liên quan mật thiết với chùa và Tháp Báo Thiên ở Hà Nội là một ngôi chùa cổ kính có giá trị về lịch sử, một di sản rất lớn của Thủ Đô. Trải qua thăng trầm lịch sử nhất là 2 cuộc chiến tranh chống Pháp và chống Mỹ chùa bị phá hoàn toàn đến khi hòa bình chùa được nhân dân Phật tử xây dựng lại nho nhỏ để thờ Phật. Năm 1968 chùa được Thủ tướng [[Phạm Văn Đồng]] tặng bằng khen là một nơi hoạt động cách mạng chủ chốt, không những thế chùa còn được nhận nhiều bằng khen trong phòng chống thiên tai, bão, lũ lụt,.... và công tác Phật sự.
+
+== Giao thông== 
+Xã có tuyến [[tuyến đường cao tốc Hà Nội – Nội Bài| cao tốc Nhật Tân – Nội Bài]], có quốc lộ 3 chạy qua,<ref name = "Vinh Ngoc"/> đê tả Hồng. Nút giao ngã tư cầu vượt Vĩnh Ngọc (trên đường 5 kéo dài) cắt đường Nhật Tân - Nội Bài (đường Võ Nguyên Giáp) tại Km0 + 419 là một trong những nút giao thông lớn ở huyện Đông Anh cũng như ở cửa ngõ phía bắc thành phố Hà Nội.
+
+Cầu Nhật Tân bắc qua Sông Hồng: Mặt cầu rộng 33,2m chia thành 4 làn xe cơ giới, 2 làn xe buýt, 2 dải xe hỗn hợp, phân cách giữa, đường dành cho người đi bộ. Cầu dài 3,9&nbsp;km và có đường dẫn 4,5&nbsp;km, trong đó phần chính của cầu qua sông dài 1,5&nbsp;km. Tổng mức đầu tư dự định cho cầu từ 7.500 tỷ đến 8.100 tỷ đồng tùy theo số lượng cột phải thi công.
+
+Ngày 7 tháng 3 năm 2009, gói thầu số 3 xây dựng đường dẫn phía Bắc cầu Nhật Tân đã được khởi công trên địa bàn xã Vĩnh Ngọc, Đông Anh.
+
+Đường 5 kéo dài: Tuyến đường từ ngã tư cầu Chui tới khu đô thị Bắc Thăng Long - Vân Trì. Tuyến đường dài 13,5&nbsp;km với 3 cây cầu được đầu tư với tổng vốn gần 4.200 tỷ đồng của thành phố.
+
+== Lịch sử== 
+Trước [[Cách mạng tháng Tám]] năm [[1945]], địa bàn Nguyên Khê thuộc xã 
+Đông Khê, huyện Đông Anh, tỉnh Phúc Yên với 6 thôn: Nguyên Khê, Lâm Tiên, Cán Khê, Khê Nữ, Sơn Du, Đại Bằng và 3 xóm: Núi, Tiên, Nguyễn.
+
+[[Tháng 4]] năm [[1946]], sáp nhập thôn Nguyên Khê vào xã Đào Nguyên; sáp nhập thôn Lâm Tiên vào xã Phúc Tiến; sáp nhập 3 xóm: Núi, Tiên, Nguyễn thuộc xã Phù Lỗ; sáp nhập các thôn còn lại vào xã Liên Hiệp.
+
+[[Tháng 3]] năm [[1949]], thôn Sơn Du nhập vào xã Nam Hồng; các thôn: Khê Nữ, Cán Khê, Đại Bằng, Lâm Tiên, Nguyên Khê nhập vào xã Xuân Nộn thành xã Tự Do.
+
+Năm [[1955]], chia xã Tự Do thành xã Phúc Thịnh và xã Xuân Nộn.
+
+Ngày [[20 tháng 4]] năm [[1961]], Quốc hội ban hành Nghị quyết<ref>{{Chú thích web| url = https://m.thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Nghi-Quyet-mo-rong-thanh-pho-Ha-Noi-42689.aspx| tựa đề = Nghị quyết về việc mở rộng thành phố Hà Nội | tác giả = | ngày = | website = Thư viện Pháp luật | url lưu trữ = | ngày lưu trữ = | ngày truy cập = }}</ref> về việc:
+*Sáp nhập các xóm Núi, Tiên, Nguyễn của xã Phù Lỗ vào xã Phúc Thịnh quản lý
+*Sáp nhập xã Phúc Thịnh, huyện Đông Anh, tỉnh Vĩnh Phúc vào thành phố Hà Nội quản lý.
+
+Ngày [[31 tháng 5]] năm [[1961]], Hội đồng Chính phủ ban hành 78-CP<ref>{{Chú thích web| url = https://m.thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-78-CP-chia-khu-vuc-noi-ngoai-thanh-thanh-pho-Ha-Noi-20286.aspx| tựa đề = Quyết định số 78-CP năm 1961 chia các khu vực nội thành và ngoại thành của Thành phố Hà Nội | tác giả = | ngày = | website = Thư viện Pháp luật | url lưu trữ = | ngày lưu trữ = | ngày truy cập = }}</ref> Theo đó, xã Phúc Thịnh thuộc huyện Đông Anh, thành phố Hà Nội.
+
+[[Tháng 6]] năm [[1965]], đổi tên xã Phúc Thịnh thành xã Nguyên Khê với 7 thôn: Sơn Du, Đại Bằng, Khê Nữ, Cán Khê, Tiên Hùng, Nguyên Khê, Lâm Tiên.
+
+Ngày [[13 tháng 10]] năm [[1982]], Hội đồng Bộ trưởng ban hành Quyết định số 173-HĐBT<ref name = 173-HĐBT>{{Chú thích web| url = https://m.thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-173-HDBT-phan-vach-dia-gioi-phuong-va-thi-tran-thanh-pho-Ha-Noi-43981.aspx| tựa đề = Quyết định số 173-HĐBT năm 1982 của Hội đồng Bộ trưởng về việc phân vạch địa giới một số phường và thị trấn thuộc thành phố Hà Nội | tác giả = | ngày = | website = Thư viện Pháp luật | url lưu trữ = | ngày lưu trữ = | ngày truy cập = }}</ref> về việc thành lập thị trấn Đông Anh trên cơ sở một phần diện tích tự nhiên và dân số của xã Nguyên Khê.
+
+Năm [[1993]], thành lập thôn Đồng.
+
+Năm [[1998]], thành lập khối phố Nguyên Khê.<ref name = ĐA>{{chú thích sách| author = UBND huyện Đông Anh | url = https://donganh.hanoi.gov.vn/documents/6071114/6720657/D%E1%BB%B1+th%E1%BA%A3o+%C4%91%E1%BB%81+%C3%A1n+qu%E1%BA%ADn+%C4%90%C3%B4ng+Anh.pdf| title = Dự thảo Đề án thành lập quận Đông Anh và các phường thuộc quận Đông Anh, thành phố Hà Nội | year = 2023 | location = Đông Anh, Hà Nội | p = 105-106 | url-status = live| archive-url = https://web.archive.org/web/20230712081151/https://donganh.hanoi.gov.vn/documents/6071114/6720657/D%E1%BB%B1+th%E1%BA%A3o+%C4%91%E1%BB%81+%C3%A1n+qu%E1%BA%ADn+%C4%90%C3%B4ng+Anh.pdf| archive-date = 2023-07-12}}</ref>
+
+== Lịch sử== 
+Đầu thế kỷ XX, địa bàn xã Vân Nội thuộc tổng Tuân Lệ, huyện Đông Anh.
+
+Năm [[1946]], hợp nhất xã Vân Trì và xã Viên Nội thành xã Vân Long.
+
+Năm [[1949]], hợp nhất các xã: Vân Long, Tân Trạch, Ngũ Lão thành xã Toàn 
+Thắng thuộc huyện Đông Anh.
+
+Năm [[1955]], chia xã Toàn Thắng thành 3 xã: Liên Hiệp, Toàn Thắng và Tân Tiến.
+
+Năm [[1965]], đổi tên xã Liên Hiệp thành xã Vân Nội.<ref name = ĐA>{{chú thích sách| author = UBND huyện Đông Anh | url = https://donganh.hanoi.gov.vn/documents/6071114/6720657/D%E1%BB%B1+th%E1%BA%A3o+%C4%91%E1%BB%81+%C3%A1n+qu%E1%BA%ADn+%C4%90%C3%B4ng+Anh.pdf| title = Dự thảo Đề án thành lập quận Đông Anh và các phường thuộc quận Đông Anh, thành phố Hà Nội | year = 2023 | location = Đông Anh, Hà Nội | p = 138-139 | url-status = live| archive-url = https://web.archive.org/web/20230712081151/https://donganh.hanoi.gov.vn/documents/6071114/6720657/D%E1%BB%B1+th%E1%BA%A3o+%C4%91%E1%BB%81+%C3%A1n+qu%E1%BA%ADn+%C4%90%C3%B4ng+Anh.pdf| archive-date = 2023-07-12}}</ref>
+
+Ngày [[20 tháng 4]] năm [[1961]], Quốc hội ban hành Nghị quyết<ref>{{Chú thích web| url = https://m.thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Nghi-Quyet-mo-rong-thanh-pho-Ha-Noi-42689.aspx| tựa đề = Nghị quyết về việc mở rộng thành phố Hà Nội | tác giả = | ngày = | website = Thư viện Pháp luật | url lưu trữ = | ngày lưu trữ = | ngày truy cập = }}</ref> về việc xã Vân Nội vào thành phố Hà Nội quản lý.
+
+== Giao thông== 
+Xã Vân Nội có tuyến đường 23B chạy qua địa bàn.
+
+== Lịch sử== 
+[[Tháng 3]] năm [[1946]], xã Đông Đồ và xã Tằng My sáp nhập 
+xã Phúc Long.
+
+Ngày [[17 tháng 6]] năm [[1949]], hợp nhất xã Phúc Long và xã Tuyên Nghĩa thành xã 
+Đông Thành.
+
+Ngày [[10 tháng 11]] năm [[1949]], Ủy ban hành chính Liên khu 2 ban hành Quyết định số 968-PC/2<ref>Quyết định số
+ 968-PC/2 của Ủy ban hành chính Liên khu 2.</ref> về việc đổi tên xã Đông Thành thành xã Nam Hồng.
+
+[[Tháng 4]] năm [[1955]], xã Nam Hồng được chia thành xã Phúc 
+Long và xã Nam Hồng. Trong đó, Nam Hồng gồm 4 thôn: Đoài, Đìa, Vệ, Tằng My.<ref name = ĐA>{{chú thích sách| author = UBND huyện Đông Anh | url = https://donganh.hanoi.gov.vn/documents/6071114/6720657/D%E1%BB%B1+th%E1%BA%A3o+%C4%91%E1%BB%81+%C3%A1n+qu%E1%BA%ADn+%C4%90%C3%B4ng+Anh.pdf| title = Dự thảo Đề án thành lập quận Đông Anh và các phường thuộc quận Đông Anh, thành phố Hà Nội | year = 2023 | location = Đông Anh, Hà Nội | p = 101 | url-status = live| archive-url = https://web.archive.org/web/20230712081151/https://donganh.hanoi.gov.vn/documents/6071114/6720657/D%E1%BB%B1+th%E1%BA%A3o+%C4%91%E1%BB%81+%C3%A1n+qu%E1%BA%ADn+%C4%90%C3%B4ng+Anh.pdf| archive-date = 2023-07-12}}</ref>
+
+== Kinh tế== 
+Kinh tế của xã trước đây chủ yếu dựa vào nông nghiệp. Nhóm tiểu thủ công nghiệp, làng nghề không có gì nổi bật. Nhóm lao động trẻ tại xã chủ yếu là làm công nhân tại khu công nghiệp Thăng Long (thuộc xã [[Kim Chung, Đông Anh| Kim Chung]], [[Võng La]]) và khu công nghiệp Quang Minh (thuộc thị trấn Quang Minh, huyện Mê Linh). Nhóm kinh doanh dịch vụ phát triển tập trung ở ven Quốc lộ 23B.
+
+== Văn hóa== 
+=== Di tích=== 
+Di tích Địa đạo Nam Hồng là địa điểm có giá trị to lớn về lịch sử kháng chiến chống thực dân Pháp giai đoạn 1945 – 1954 của quân và dân ta. Di tích đã được Bộ văn hóa xếp hạng di tích lịch sử văn hóa cấp quốc gia năm 1996.
+
+== Giao thông== 
+Các tuyến, hệ thống giao thông ở xã Nam Hồng:
+*Quốc lộ 23B: nối Quốc lộ 3 với Quốc lộ 23
+*Đường cao tốc Bắc Thăng Long - Nội Bài: cao tốc này cắt tuyến đường sắt Yên Viên – Lào Cai tại lý trình km7 + 312 trên cầu vượt đường sắt Quang Minh (giáp ranh thị trấn Quang Minh)
+*Đường sắt Yên Viên – Lào Cai
+*Đường sắt Bắc Hồng – Văn Điển (đường sắt vận chuyển hàng hóa)
+*Hệ thống xe buýt: 07,35B, 53A, 56A, 58, 61, 64, 93, 95, 96.
+
+== Lịch sử== 
+[[Làng Thụy Hà]] đầu thế kỷ XIX là một xã thuộc tổng Đông Đồ, huyện Kim Hoa (năm 1841 đổi thành huyện Kim Anh), phủ Bắc Hà, trấn [[Kinh Bắc]] (từ năm 1831 là tỉnh [[Bắc Ninh]])
+
+Làng Chu Lão thời xưa - trước năm 1945 - gồm bốn thôn: Bến Trung, tên nôm là làng Bến; Phù Liễn, tên nôm là Làng Cần; Quan Âm tên nôm là làng Sọ; Thượng Phúc, tên nôm là làng Hương. Các làng xưa ấy sau gọi là thôn, còn thôn Mỹ Nội có tên nôm là làng Nội.
+
+Sau Cách Mạng Tháng Tám 1945 Thụy Hà hợp nhất với các làng Chu Lão, Sơn Gia thành lập xã Bắc Hồng, huyện Đông Anh, tỉnh Phúc Yên (từ năm 1950 là tỉnh Vĩnh Phúc).
+
+[[Tháng 2]] năm [[1946]], thành lập xã Tuyên Nghĩa trên cơ sở xã Chu Lão, xã Thụy Hà và thôn Mỹ Nội thuộc xã 
+Sơn Du.
+
+[[Tháng 3]] năm [[1948]], thành lập xã Nam Hồng trên cơ sở các xã: Sơn Du, Tuyên Nghĩa và Phúc Long.
+
+[[Tháng 4]] năm [[1955]], xã Nam 
+Hồng được tách ra thành 2 xã là: Nam Hồng (Tuyên Nghĩa) và Bắc Hồng (Phúc 
+Long) và chuyển Sơn Du về xã Phúc Thịnh (Nguyên Khê ngày nay) quản lý.<ref name = ĐA>{{chú thích sách| author = UBND huyện Đông Anh | url = https://donganh.hanoi.gov.vn/documents/6071114/6720657/D%E1%BB%B1+th%E1%BA%A3o+%C4%91%E1%BB%81+%C3%A1n+qu%E1%BA%ADn+%C4%90%C3%B4ng+Anh.pdf| title = Dự thảo Đề án thành lập quận Đông Anh và các phường thuộc quận Đông Anh, thành phố Hà Nội | year = 2023 | location = Đông Anh, Hà Nội | p = 41-42 | url-status = live| archive-url = https://web.archive.org/web/20230712081151/https://donganh.hanoi.gov.vn/documents/6071114/6720657/D%E1%BB%B1+th%E1%BA%A3o+%C4%91%E1%BB%81+%C3%A1n+qu%E1%BA%ADn+%C4%90%C3%B4ng+Anh.pdf| archive-date = 2023-07-12}}</ref>
+
+Ngày [[20 tháng 4]] năm [[1961]], Quốc hội ban hành Nghị quyết<ref>{{Chú thích web| url = https://m.thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Nghi-Quyet-mo-rong-thanh-pho-Ha-Noi-42689.aspx| tựa đề = Nghị quyết về việc mở rộng thành phố Hà Nội | tác giả = | ngày = | website = Thư viện Pháp luật | url lưu trữ = | ngày lưu trữ = | ngày truy cập = }}</ref> về việc sáp nhập xã Bắc Hồng, huyện Đông Anh, tỉnh Vĩnh Phúc vào thành phố Hà Nội quản lý.
+
+== Văn hóa== 
+Xã Bắc Hồng đứng trong đội hình hơn 20 xã của một vùng đất giàu truyền thống lịch sử và cách mạng - huyện Đông Anh, Hà Nội. Tư liệu cho hay: [[Bắc Hồng]] trước đây thuộc tỉnh [[Phúc Yên]]. Từ năm 1961, trên địa bàn huyện Đông Anh có hai xã Nam Hồng và [[Bắc Hồng]] đều thuộc thành phố Hà Nội.
+
+Tên xã hiện nay - xã được Nhà nước phong tặng danh hiệu cao quý: Anh hùng Lực lượng vũ trang nhân dân - gồm ba làng cũ: Chu Lão, Mỹ Nội, Thụy Hà. Thời xưa, nguyên là hai xã Chu Lão, Thụy Hà và thôn Mỹ Nội, xã Sơn Du, Tổng Đông Đô, huyện [[Đông Anh (huyện)| Đông Anh]], tỉnh [[Phúc Yên]].
+
+Với người thời đại mới bây giờ, mỗi khi nhắc đến tên nôm của làng xưa, ai cũng cảm nhận sự bồi hồi, bâng khuâng mỗi khi nhắc đến những cái tên như Sọ, Bến hoặc như La, Ngòi, Ghềnh, Lão... Những tên ngày xưa ấy đọng lại trong tiếng trống hội, trong tích chèo, trong tấm áo tứ thân, trong những cây gậy trúc các bô lão tóc bạc phơ đủng đỉnh bước vào sân đình.
+
+Các thôn thuộc xã [[Bắc Hồng]] thờ hơn mười vị thần thành hoàng, trong đó có nhiều vị từng góp công lớn trong sự nghiệp bảo vệ Tổ quốc như Thánh Gióng thời vua Hùng, như Đức thánh Linh Lang thời Lý. Sông có Hà Bá, làng có thành hoàng, nếp xưa vẫn được giữ gìn cho đến ngày nay, dẫu Bắc Hồng "Đội hình hàng dọc, hàng ngang; Đi trên đường mới và đang bước dồn".
+
+[[Bắc Hồng]] là ga xép trên đường vành đai của một thủ đô được tôn vinh là "Thành phố Anh hùng", là "Thành phố vì hòa bình", là "Cái nôi của nghìn năm văn hiến". Là ga xép, nên khách đi tàu không đông và không ồn ã như các phiên chợ quê. Dẫu vậy, so với những năm trước thì bây giờ hành khách có phần tăng hơn. Đến với ga này, hành khách yên tâm về sự đón tiếp, về sự phục vụ. Ga là một tổ ấm, một "điểm hồng". Một mình đứng đấy mà vui chứ không rơi vào cảnh đơn lẻ, buồn tênh như câu thơ tôi bỗng nhớ đã đọc ở đâu đó của một thời xa: "Ga quê đứng đó chơi vơi; Đêm mưa rả rích buồn ơi là buồn...".
+
+Năm 1947, Bắc Hồng là điểm tập kết của Trung đoàn Thủ đô sau cái đêm rét thấu xương rời khỏi Hà Nội, qua sông Hồng - cuộc rút lui được gọi là "Thần kỳ" của một đơn vị chủ lực từng quần nhau với giặc Pháp 60 ngày đêm trên địa bàn Liên khu I rực lửa. Thời ấy, tình quân dân gắn bó như keo sơn. Các anh hành quân lên Việt Bắc, dân làng nhớ mãi: "Dấu chân ngày ấy đâu rồi; Một thời oanh liệt, một thời nhớ thương".
+
+Bây giờ thì tiếng còi tàu đi vào nỗi nhớ. Vùng quê nào có nhà ga, ấy là vùng quê có một nét phồn thịnh, khởi sắc. Ga vốn là bến đỗ và cũng là nơi đưa tiễn bạn bè, người thân lên đường. "Ga này đứng ở quê em; Nghe hồi còi vọng lại thêm nhớ người..." Bắc Hồng - một ga vành đai, tuổi còn trẻ và sức đang đầy,...
+
+[[Chùa Tổ Long| Chùa Tổ Long Tự]] tên chữ Tổ Long Tự (chữ Nho: 祖 龍 寺) là một ngôi cổ tự nằm ở khúc đầu của con rồng, tại địa phận thôn Thụy Hà, là nơi sinh hoạt của người dân.
+
+== Giao thông== 
+Ga Bắc Hồng nằm trên địa bàn xã [[Bắc Hồng]]. Đây là nhà ga đứng cuối cùng kể từ phía Nam lên phía Bắc của vành đai Đường sắt Thủ đô [[Hà Nội]]. Tìm hiểu thêm về "tiểu sử" của vùng đất anh hùng này đối với CBCNV nhà ga và hành khách lên, xuống ga này cũng như những ai yêu mến [[Đông Anh (huyện)| Đông Anh]] và [[Hà Nội]] là điều rất bổ ích, lý thú.
+-->
+
+== Chú thích== 
+{{tham khảo}}
+
+== Tham khảo==
+{{Sơ khai Hà Nội}}{{Đơn vị hành chính thuộc thành phố Hà Nội}}

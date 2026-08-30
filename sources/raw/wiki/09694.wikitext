@@ -1,0 +1,130 @@
+{{Thông tin đơn vị hành chính Việt Nam|Xã| tên = Suối Hai
+| hình = Ao Vua Lake, Ba Vi National Park (49357916241).jpg 
+| ghi chú hình = Ao Vua, Suối Hai 
+| vĩ độ = 21.114273696652056
+| kinh độ = 105.40494604225404
+| diện tích = 52,55 km²
+| dân số = 35.201 người
+| thời điểm dân số = 2025
+| mật độ dân số = {{formatnum:{{#expr:floor({{formatnum:35.201| R}}/{{formatnum:52,55| R}})}} }} người/km²
+| vùng = [[Đồng bằng sông Hồng]]
+| thành phố = [[Hà Nội]]
+| thành lập = 
+| trụ sở UBND = Thôn Đức Thịnh<ref>{{Chú thích web |url=https://storage-vnportal.vnpt.vn/gov-hni/6244/VanBan/2025/6/25/TB-729-2025.pdf |title=Thông báo số 729/TB-UBND ngày 25 tháng 6 năm 2025 của Ủy ban nhân dân thành phố Hà Nội về địa điểm trụ sở làm việc của 126 phường, xã sau sắp xếp thuộc phạm vi quản lý của thành phố Hà Nội|access-date=2026-06-15 |archive-date=2026-06-15 |archive-url=https://web.archive.org/web/20260615034519/https://storage-vnportal.vnpt.vn/gov-hni/6244/VanBan/2025/6/25/TB-729-2025.pdf |url-status=dead | website = Cổng Thông tin điện tử Ủy ban nhân dân thành phố Hà Nội}}</ref>
+| mã hành chính =09694<ref>{{Chú thích web |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/19ttg.signed.pdf |title=Quyết định số 19/2025/QĐ-TTg ngày 30 tháng 6 năm 2025 của Thủ tướng Chính phủ về việc Ban hành Bảng danh mục và mã số các đơn vị hành chính Việt Nam |access-date=2026-06-15 |archive-date=2026-06-15 |archive-url=https://web.archive.org/web/20260615034519/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/19ttg.signed.pdf |url-status=dead | website = Cổng Thông tin điện tử Chính phủ}}</ref> 
+| mã bưu chính = 
+| web = {{url|suoihai.hanoi.gov.vn}}
+|bản đồ 1={{maplink|frame=yes|plain=yes|type=shape|frame-width=280|frame-align=center|stroke-width=3}}|trụ sở Đảng ủy=Thôn Đức Thịnh}}
+{{about| xã thuộc thành phố Hà Nội| hồ nước cùng tên| Hồ Suối Hai}}
+'''Suối Hai''' là một [[Xã (Việt Nam)|xã]] thuộc thành phố [[Hà Nội]], [[Việt Nam]].
+
+== Địa lý==
+Xã Suối Hai có vị trí địa lý:
+
+* Phía đông giáp phường [[Tùng Thiện]]
+* Phía tây giáp xã [[Bất Bạt]]
+* Phía nam giáp xã [[Ba Vì, Hà Nội|Ba Vì]] và xã [[Yên Bài]]
+* Phía bắc giáp xã [[Quảng Oai (xã)|Quảng Oai]].<ref>{{Chú thích web |last=Viện nghiên cứu Phát triển kinh tế – xã hội Hà Nội |date=2025-07-02 |title=Xã Suối Hai: Những thông tin chi tiết sau sắp xếp |url=https://hanoionline.vn/xa-suoi-hai-nhung-thong-tin-chi-tiet-sau-sap-xep-344035.htm |url-status=live |archive-url=https://web.archive.org/web/20260701400809/https://hanoionline.vn/xa-suoi-hai-nhung-thong-tin-chi-tiet-sau-sap-xep-344035.htm |archive-date=2026-07-01 |access-date=2026-07-01 |website=Cơ quan Báo và Phát thanh Truyền hình Hà Nội}}</ref><ref>{{Chú thích web |last=Cơ quan Báo và Phát thanh Truyền hình Hà Nội |date=2025-07-07 |title=Xã Suối Hai: Tất cả thông tin chỉ dẫn bạn cần biết |url=https://hanoionline.vn/xa-suoi-hai-tat-ca-thong-tin-chi-dan-ban-can-biet-345210.htm |url-status=bot: unknown |archive-url=https://web.archive.org/web/20260122195928/https://hanoionline.vn/xa-suoi-hai-tat-ca-thong-tin-chi-dan-ban-can-biet-345210.htm |archive-date=2026-01-22 |access-date=2026-07-11 }}</ref>
+Xã Suối Hai có diện tích tự nhiên là 52,55 km<sup>2</sup>, quy mô dân số năm 2025 là 35.201 người và mật độ dân số đạt 669 người/km<sup>2</sup>.<ref>{{Chú thích web |last=Mai Hữu |date=2026-04-05 |title=Hà Nội: Chi tiết phương án tổng thể sắp xếp đơn vị hành chính cấp xã |url=https://hanoimoi.vn/ha-noi-chi-tiet-phuong-an-tong-the-sap-xep-don-vi-hanh-chinh-cap-xa-700278.html |url-status=bot: unknown |archive-url=https://web.archive.org/web/20250710163328/https://hanoimoi.vn/ha-noi-chi-tiet-phuong-an-tong-the-sap-xep-don-vi-hanh-chinh-cap-xa-700278.html |archive-date=2025-07-10 |access-date=2026-07-11 |website=Cơ quan Báo và Phát thanh, truyền hình Hà Nội }}</ref><ref>Công văn số 2896/BNV-CQĐP ngày 27 tháng 5 năm 2025 của Bộ Nội vụ về việc cung cấp thông tin danh mục dự kiến đơn vị hành chính cấp xã mới.</ref>
+
+== Lịch sử ==
+
+=== Trước năm 1976 ===
+
+=== Giai đoạn 1976 – nay ===
+Sau ngày 2 tháng 7 năm 1976, 4 xã: Ba Trại, Cẩm Lĩnh, Tản Lĩnh và Thụy An thuộc huyện [[Ba Vì (huyện)|Ba Vì]] của tỉnh [[Hà Sơn Bình]].
+
+Ngày 29 tháng 12 năm 1978, sáp nhập huyện [[Ba Vì (huyện)|Ba Vì]] của tỉnh [[Hà Sơn Bình]] vào thành phố [[Hà Nội]]. Khi đó, 4 xã: Ba Trại, Cẩm Lĩnh, Tản Lĩnh và Thụy An thuộc huyện [[Ba Vì (huyện)|Ba Vì]] của thành phố [[Hà Nội]].<ref>Nghị quyết ngày 29 tháng 12 năm 1978 của Quốc hội khóa VI, Kỳ họp thứ 4 phê chuẩn việc phân vạch lại địa giới thành phố Hà Nội, thành phố Hồ Chí Minh, các tỉnh Hà Sơn Bình, Vĩnh Phú, Cao Lạng, Bắc Thái, Quảng Ninh và Đồng Nai.</ref>
+
+Ngày 12 tháng 8 năm 1991, chia tỉnh [[Hà Sơn Bình]] thành 2 tỉnh, lấy tên là tỉnh [[Hòa Bình (tỉnh)|Hòa Bình]] và tỉnh [[Hà Tây (tỉnh)|Hà Tây]]. Chuyển huyện [[Ba Vì (huyện)|Ba Vì]] của thành phố [[Hà Nội]] về tỉnh [[Hà Tây (tỉnh)|Hà Tây]]. Khi đó, 4 xã: Ba Trại, Cẩm Lĩnh, Tản Lĩnh và Thụy An thuộc huyện [[Ba Vì (huyện)|Ba Vì]] của tỉnh [[Hà Tây (tỉnh)|Hà Tây]].<ref>Nghị quyết ngày 12 tháng 8 năm 1991 của Quốc hội khóa VIII, Kỳ họp thứ 9 về việc điều chỉnh địa giới hành chính một số tỉnh, thành phố trực thuộc Trung ương.</ref>
+
+Ngày 29 tháng 5 năm 2008, hợp nhất tỉnh [[Hà Tây (tỉnh)|Hà Tây]] vào thành phố [[Hà Nội]]. Khi đó, 4 xã: Ba Trại, Cẩm Lĩnh, Tản Lĩnh và Thụy An thuộc huyện [[Ba Vì (huyện)|Ba Vì]] của thành phố [[Hà Nội]].<ref>Nghị quyết số 15/2008/QH12 ngày 29 tháng 5 năm 2008 của Quốc hội khóa XII, Kỳ họp thứ 3 về việc điều chỉnh địa giới hành chính thành phố Hà Nội và một số tỉnh có liên quan.</ref>
+
+Ngày 16 tháng 6 năm 2025:
+
+* Kết thúc hoạt động của đơn vị hành chính cấp huyện trong cả nước.<ref>{{Chú thích web |last= |date= |title=Nghị quyết số 203/2025/QH15 ngày 16 tháng 6 năm 2025 của Quốc hội khóa XV, Kỳ họp thứ 9 về việc sửa đổi, bổ sung một số điều của Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/nq-sua-doi-hien-phap.pdf |url-status=live |archive-url=https://web.archive.org/web/20260613090807/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/nq-sua-doi-hien-phap.pdf |archive-date=2026-06-13 |access-date=2026-06-13 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+* Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của xã Ba Trại, xã Tản Lĩnh, phần còn lại của xã Thụy An và phần còn lại của xã Cẩm Lĩnh (huyện [[Ba Vì (huyện)|Ba Vì]]) thành xã mới có tên gọi là xã Suối Hai.<ref>{{Chú thích web |title=Nghị quyết số 1656/NQ-UBTVQH15 ngày 16 tháng 6 năm 2025 của Ủy ban Thường vụ Quốc hội về việc sắp xếp các đơn vị hành chính cấp xã của thành phố Hà Nội năm 2025 |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf |url-status=bot: unknown |archive-url=https://web.archive.org/web/20260513110024/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf |archive-date=2026-05-13 |access-date=2026-06-30 |website=Cổng Thông tin điện tử Chính phủ }}</ref>
+* Sau khi sắp xếp, xã Suối Hai được chia thành 24 thôn.<ref>10 thôn: đánh số từ 1 đến 9 và Lâm Nghiệp của xã Ba Trại cũ; 14 thôn: An Hòa, Bát Đầm, Cẩm Phương, Cua Chu, Đức Thịnh, Gò Sống, Hát Giang, Hà Tân, Hiệu Lực, Hoàng Long, Ké Mới, Tam Mỹ, Việt Long và Yên Thành của xã Tản Lĩnh cũ;</ref><ref>{{Chú thích web |title=Thông tư số 10/2022/TT-BTNMT ngày 29 tháng 9 năm 2022 của Bộ Tài nguyên và Môi trường về việc Ban hành Danh mục địa danh dân cư, sơn văn, thủy văn, kinh tế – xã hội phục vụ công tác thành lập bản đồ thành phố Hà Nội |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2022/10/10-btnmt.pdf |url-status=bot: unknown |archive-url=https://web.archive.org/web/20260630082812/https://datafiles.chinhphu.vn/cpp/files/vbpq/2022/10/10-btnmt.pdf |archive-date=2026-06-30 |access-date=2026-06-30 |website=Cổng Thông tin điện tử Chính phủ }}</ref><ref>{{Chú thích web |title=Danh sách Thôn vùng đồng bào dân tộc thiểu số và miền núi, thôn đặc biệt khó khăn giai đoạn 2026 – 2030 trên địa bàn thành phố Hà Nội (Kèm theo Quyết định số 104/QĐ-BDTTG ngày 27 tháng 02 năm 2026 của Bộ trưởng Bộ Dân tộc và Tôn giáo) |url=http://files.ubdt.gov.vn/files/ecm/source_files/2026/03/09/11023866_2.%20H%C3%A0%20N%E1%BB%99i%20(th%C3%B4n).signed_26-03-09.pdf |url-status=dead |archive-url=https://web.archive.org/web/20260812201510/http://files.ubdt.gov.vn/files/ecm/source_files/2026/03/09/11023866_2.%20H%C3%A0%20N%E1%BB%99i%20(th%C3%B4n).signed_26-03-09.pdf |archive-date=2026-08-12 |access-date=2026-08-12 |website=Cổng Thông tin điện tử Bộ Dân tộc và Tôn giáo}}</ref><ref>{{Chú thích web |last=Suối Hai News – thành phố Hà Nội |date=2026-02-25 |title=Danh sách chính thức người ứng cử đại biểu Hội đồng nhân dân xã Suối Hai nhiệm kỳ 2026 – 2031 (theo Quyết định số 26/QĐ-UBBC, ngày 23/02/2026 của Ủy ban bầu cử xã Suối Hai) |url=https://www.facebook.com/story.php?story_fbid=1318213100339348&id=100064520119493&rdid=VgfXEBlUte8DPPkF# |url-status=dead |archive-url=https://web.archive.org/web/20260731400809/https://www.facebook.com/story.php?story_fbid=1318213100339348&id=100064520119493&rdid=VgfXEBlUte8DPPkF# |archive-date=2026-07-31 |access-date=2026-07-31 |website=}}</ref>
+Ngày 26 tháng 6 năm 2026, thành lập 9 thôn mới: Phương Đông, Búi Thông, Đồng Tiến, Trung Sơn, Long Thành, Phương Hòa, Yên Hồng, Đức Thịnh và Mỹ Giang.<ref>1. Thành lập Thôn Phương Đông trên cơ sở sáp nhập toàn bộ Diện tích tự nhiên và quy mô dân số Thôn 1, Thôn 3 và Thôn Lâm Nghiệp; 2. Thành lập Thôn Búi Thông trên cơ sở sáp nhập toàn bộ Diện tích tự nhiên và quy mô dân số Thôn 2, Thôn 4, Thôn 5 và một phần thôn 6 (xóm Đoàn Kết – 75 hộ dân nông trường Sông Đà); 3. Thành lập Thôn Đồng Tiến trên cơ sở sáp nhập toàn bộ Diện tích tự nhiên và quy mô dân số Thôn 7 và phần còn lại của Thôn 6; 4. Thành lập Thôn Trung Sơn trên cơ sở sáp nhập toàn bộ Diện tích tự nhiên và quy mô dân số Thôn 8 và Thôn 9; 5. Thành lập Thôn Long Thành trên cơ sở sáp nhập toàn bộ Diện tích tự nhiên và quy mô dân số Thôn Hoàng Long và Thôn Yên Thành; 6. Thành lập Thôn Phương Hòa trên cơ sở sáp nhập toàn bộ Diện tích tự nhiên và quy mô dân số Thôn Thôn An Hòa, Thôn Cẩm Phương, Thôn Hà Tân và Thôn Hiệu Lực; 7. Thành lập Thôn Yên Hồng trên cơ sở sáp nhập toàn bộ Diện tích tự nhiên và quy mô dân số Thôn Bát Đầm, Cua Chu và Thôn Gò Sống; 8. Tổ chức lại Thôn Đức Thịnh trên cơ sở sáp nhập toàn bộ Diện tích tự nhiên và quy mô dân số Thôn Đức Thịnh, Thôn Ké Mới và một phần Thôn Việt Long (116 hộ – Bên phải đường từ tỉnh lộ 414 đến Cổng Vườn Quốc gia Ba Vì); 9. Thành lập Thôn Mỹ Giang trên cơ sở sáp nhập toàn bộ Diện tích tự nhiên và quy mô dân số Thôn Hát Giang, Thôn Tam Mỹ và phần còn lại của thôn Việt Long.</ref><ref name=":02">{{Chú thích web |last= |date= |title=Đề án tháng 6 năm 2026 của Ủy ban nhân dân xã Suối Hai về việc sắp xếp, tổ chức lại các thôn trên địa bàn xã Suối Hai |url=https://sqhx-hanoi.mediacdn.vn/91579363132710912/2026/6/12/dt-de-an-sap-xep-thon-suoi-hai-1781274864764962931836.pdf |url-status=dead |archive-url=https://web.archive.org/web/20260731400809/https://sqhx-hanoi.mediacdn.vn/91579363132710912/2026/6/12/dt-de-an-sap-xep-thon-suoi-hai-1781274864764962931836.pdf |archive-date=2026-07-31 |access-date=2026-07-31 |website=Trang Thông tin điện tử xã Suối Hai – thành phố Hà Nội}}</ref><ref name=":1">{{Chú thích web |last=Khuất Duyên |date=2026-07-08 |title=Xã Suối Hai hoàn thành sắp xếp, kiện toàn lãnh đạo chủ chốt các thôn |url=https://hanoimoi.vn/xa-suoi-hai-hoan-thanh-sap-xep-kien-toan-lanh-dao-chu-chot-cac-thon-1211211.html?gidzl=Lxw_BB9v_n1JeRigk6Bw4bocjoUXP_58IwArTQrZfKX6eBLtzs7v6ntsxo7yCwqR7_BWTp3JzdKDjtZx4W |url-status=dead |archive-url=https://web.archive.org/web/20260731400809/https://hanoimoi.vn/xa-suoi-hai-hoan-thanh-sap-xep-kien-toan-lanh-dao-chu-chot-cac-thon-1211211.html?gidzl=Lxw_BB9v_n1JeRigk6Bw4bocjoUXP_58IwArTQrZfKX6eBLtzs7v6ntsxo7yCwqR7_BWTp3JzdKDjtZx4W |archive-date=2026-07-31 |access-date=2026-07-31 |website=Cơ quan Báo và Phát thanh, truyền hình Hà Nội}}</ref>
+
+== Hành chính==
+Xã Suối Hai được chia thành 9 thôn: Búi Thông, Đồng Tiến, Đức Thịnh, Long Thành, Mỹ Giang, Phương Đông, Phương Hòa, Trung Sơn và Yên Hồng.<ref name=":02" /><ref name=":1" />
+{| class="wikitable sortable" cellpadding="0" cellspacing="6" width="100%" align="center" style="background: #f9f9f9; border: 1px #aaa solid; margin-top: 16px"
+! colspan="4" style="background: #E6E6FA; font-size: 95%;" |Danh sách các thôn thuộc xã Suối Hai<ref name=":02" /><ref name=":1" />
+|-
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| cellpadding="1" cellspacing="1" width="100%" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Búi Thông
+|1.078
+|-
+| align="left" |Đồng Tiến
+|1.025
+|-
+| align="left" |Đức Thịnh
+|903
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| cellpadding="1" cellspacing="1" width="100%" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Long Thành
+|585
+|-
+| align="left" |Mỹ Giang
+|1.039
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| cellpadding="1" cellspacing="1" width="100%" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Phương Đông
+|848
+|-
+| align="left" |Phương Hòa
+|1.104
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| cellpadding="1" cellspacing="1" width="100%" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Trung Sơn
+|830
+|-
+| align="left" |Yên Hồng
+|854
+|}
+|}<!-- 
+== Địa lý và khí hậu== 
+Cẩm Lĩnh là xã trung du, tiếp giáp với phía tây [[điểm cuối dãy núi Hoàng Liên Sơn]], Cẩm Lĩnh có địa hình đồi gò thấp, bị chia cắt liên tục, phân chia thành 2 vùng: vùng đồi cao nằm về phía tây nam (vùng tiếp giáp với xã Ba Trại) có độ cao trung bình từ 30 – 80 m, địa hình gồ ghề nhiều đồi núi đan xen nhau, diện tích 168 ha, chiếm 26,8% diện tích toàn vùng; vùng gò và đồng ruộng thấp nằm ở phía đông bắc, diện tích 202 ha, chiếm 73,2% diện tích toàn xã, phần lớn là các cánh đồng bằng phẳng xen lẫn các đồi gò, một đặc trưng của vùng đất Xứ Đoài.
+Bên cạnh đó, hệ thống sông hồ kênh rạch trên địa bàn xã phân bố tương đối đồng đều với các sông nhỏ [[sông Tích]],, [[Hồ Cẩm Quỳ]], [[Hồ Suối Hai]], [[Hồ Ngọc Nhị]], [[Hồ Cẩm An]], [[Đầm Long]]..
+
+Cẩm Lĩnh có [[khí hậu cận nhiệt đới ẩm]], mùa đông phi nhiệt đới khô lạnh, ít mưa; mùa hè nóng, mưa nhiều. Nhiệt độ trung bình hàng năm trên 23&nbsp;°C. Tháng 7 có nhiệt độ cao nhất trong năm, trung bình 27 - 29&nbsp;°C, ngược lại tháng 1 có nhiệt độ thấp nhất, trung bình 15,5 - 16,5&nbsp;°C.
+
+== Địa danh nổi tiếng== 
+Cẩm Lĩnh có nhiều danh lam thắng cảnh, di tích lịch sử - văn hóa nổi tiếng như [[hồ Suối Hai]], làng Việt cổ [[Ngọc Nhị]], [[Vô Khuy]], [[Bằng Tạ]] nổi tiếng với sự tích [[Sơn Tinh - Thủy Tinh| Sơn Tinh-Thủy Tinh]].
+
+[[Hồ Suối Hai']] là [[hồ]] [[nước ngọt]] nhân tạo nằm dưới chân núi Ba Vì, thuộc địa bàn xã Cẩm Lĩnh,Ba Trại, Thụy An, Tản Lĩnh, huyện Ba Vì, thành phố Hà Nội.
+
+Công trình được xây dựng vào thập niên 50 của thế kỷ 20 (năm 1958 hoàn thành). Hồ Suối Hai có diện tích mặt nước khoảng 10&nbsp;km², có lượng nước khoảng 50 triệu m3 được xây dựng với đa mục tiêu: Thủy lợi (giải quyết vấn đề hạn hán tại vùng [[Ba Vì (huyện)| Ba Vì]] và khống chế dòng sông Tích), Cải thiện môi trường, du lịch...
+
+[[Khu du lịch Đầm Long]] - Bằng Tạ thuộc xã Cẩm Lĩnh, huyện Ba Vì. Nơi đây bảo tồn và phát triển rừng Bằng Tạ, cải tạo Đầm Long trở thành khu du lịch sinh thái vui chơi giải trí hấp dẫn. Hiện nay, khu rừng sinh thái có tới hơn 400 loại cây, trong đó nhiều cây quý hiếm tuổi thọ vài trăm năm tạo ra không gian thoáng mát về cảnh quan. Trong rừng có loài động vật khác nhau như: Khỉ, hươu, nai, sóc, chồn, cò..
+
+Rừng Cò Ngọc Nhị là một khía cạnh độc đáo của du lịch Ba Vì nói chung và Cẩm Lĩnh nói riêng, những cánh đồng thẳng tắp, những đồi núi xanh ngát, trên trời những chú cò trắng nổi bật giữa nền trời xanh ngắt như mạt biển, hòa quyện màu xanh của đồng ruộng, của đồi núi. Đó thực sự là cảnh đẹp mà các vị hiền triết khi xưa muốn giấu mình mãi trong bàu trời của sự bình yên.
+ 
+Đồi Cò có diện tích khá lý tưởng 3,5 ha, được phủ màu xanh của cây cối, các khóm tre xanh và những cánh đống mệnh mông. Nơi đây thuộc sự sở hữu của 2 anh em họ Phùng. Nơi đây được gọi là thánh địa của các loại Cò.
+ 
+Đến với Đồi cò du khách có thể được ngắm bình minh và hoàng hôn cùng những cánh cò trắng, trong tiếng kêu rộn ràng, những chú cò bay lượn trên bầu trời, vừa bay vừa cất tiếng kêu, liệu mấy ai có thể bỏ qua cảnh tượng này.
+-->
+
+== Chú thích== 
+{{tham khảo}}
+
+== Tham khảo ==
+{{sơ khai Hà Nội}}
+{{Đơn vị hành chính thuộc thành phố Hà Nội}}

@@ -1,0 +1,148 @@
+{
+  "ward_code": "08632",
+  "ward_name": "Hương Cần",
+  "province_code": "25",
+  "resolution": "",
+  "arrangement": "truoc_2026_07",
+  "effective_date": "",
+  "verified": "unverified",
+  "extraction": {
+    "source": "vi.wikipedia.org",
+    "title": "Hương Cần",
+    "mode": "narrative"
+  },
+  "sources": [
+    {
+      "key": "wiki-08632-1",
+      "title": "Danh sách chính thức những người ứng cử đại biểu Hội đồng nhân dân xã Hương Cần khóa XXI, nhiệm kỳ 2026 - 2031",
+      "url": "https://huongcan.phutho.gov.vn/uy-ban-nhan-dan-xa/danh-sach-chinh-thuc-nhung-nguoi-ung-cu-va-tieu-su-tom-tat-cua-nhung-nguoi-ung-cu-dai-bieu-hoi-d-280115",
+      "date": "2026-02-27",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-08632-2",
+      "title": "Danh sách Thôn vùng đồng bào dân tộc thiểu số và miền núi, thôn đặc biệt khó khăn giai đoạn 2026 - 2030 trên địa bàn tỉnh Phú Thọ",
+      "url": "http://files.ubdt.gov.vn/files/ecm/source_files/2026/02/05/11252411_4.%20Ph%C3%BA%20Th%E1%BB%8D%201%20(th%C3%B4n).signed_26-02-05.pdf",
+      "date": "2026-01-29",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-08632-3",
+      "title": "NGHỊ QUYẾT 203/2025/QH15 SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA HIẾN PHÁP NƯỚC CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM",
+      "url": "https://xaydungchinhsach.chinhphu.vn/nghi-quyet-203-2025-qh15-sua-doi-bo-sung-mot-so-dieu-cua-hien-phap-nuoc-cong-hoa-xa-hoi-chu-nghia-viet-nam-119250616181735552.htm",
+      "date": "2025-06-28",
+      "type": "wikipedia-ref"
+    }
+  ],
+  "note": "Trích tự động từ Wikipedia tiếng Việt (mode=narrative). Cần đối chiếu nghị quyết HĐND phường/xã. ⚠️ Danh mục có thể là hiện trạng TRƯỚC sắp xếp thôn/TDP 01/7/2026 — Wikipedia chưa cập nhật nghị quyết mới.",
+  "tdp": [
+    {
+      "name": "Bồ Xồ",
+      "type": "khu"
+    },
+    {
+      "name": "Đá Cạn",
+      "type": "khu"
+    },
+    {
+      "name": "Đành",
+      "type": "khu"
+    },
+    {
+      "name": "Đầm Sen",
+      "type": "khu"
+    },
+    {
+      "name": "Đông Thịnh",
+      "type": "khu"
+    },
+    {
+      "name": "Đông Vượng",
+      "type": "khu"
+    },
+    {
+      "name": "Đồn",
+      "type": "khu"
+    },
+    {
+      "name": "Đồng Đa",
+      "type": "khu"
+    },
+    {
+      "name": "Đồng Kẹm",
+      "type": "khu"
+    },
+    {
+      "name": "Đồng Quán",
+      "type": "khu"
+    },
+    {
+      "name": "Đồng Tiến",
+      "type": "khu"
+    },
+    {
+      "name": "Gò Da",
+      "type": "khu"
+    },
+    {
+      "name": "Hem",
+      "type": "khu"
+    },
+    {
+      "name": "Khoang",
+      "type": "khu"
+    },
+    {
+      "name": "Lèo",
+      "type": "khu"
+    },
+    {
+      "name": "Lịch I",
+      "type": "khu"
+    },
+    {
+      "name": "Lịch II",
+      "type": "khu"
+    },
+    {
+      "name": "Náy",
+      "type": "khu"
+    },
+    {
+      "name": "Né",
+      "type": "khu"
+    },
+    {
+      "name": "Nội Xén",
+      "type": "khu"
+    },
+    {
+      "name": "Ong",
+      "type": "khu"
+    },
+    {
+      "name": "Pheo",
+      "type": "khu"
+    },
+    {
+      "name": "Quất",
+      "type": "khu"
+    },
+    {
+      "name": "Soi Trại",
+      "type": "khu"
+    },
+    {
+      "name": "Tân Hương",
+      "type": "khu"
+    },
+    {
+      "name": "Trại",
+      "type": "khu"
+    },
+    {
+      "name": "Trung Thịnh",
+      "type": "khu"
+    }
+  ]
+}

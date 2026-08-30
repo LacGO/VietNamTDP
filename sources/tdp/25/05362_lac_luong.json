@@ -1,0 +1,180 @@
+{
+  "ward_code": "05362",
+  "ward_name": "Lạc Lương",
+  "province_code": "25",
+  "resolution": "",
+  "arrangement": "truoc_2026_07",
+  "effective_date": "",
+  "verified": "unverified",
+  "extraction": {
+    "source": "vi.wikipedia.org",
+    "title": "Lạc Lương",
+    "mode": "narrative!old"
+  },
+  "sources": [
+    {
+      "key": "wiki-05362-1",
+      "title": "Nghị quyết số 2/NQ-UBBC về việc lập và công bố danh sách chính thức những người ứng cử đại biểu Hội đồng nhân dân xã Lạc Lương, nhiệm kỳ 2026-2031 theo từng đơn vị bầu cử",
+      "url": "https://lacluong.phutho.gov.vn/index.php/2013-12-13-01-52-02/v-n-ba-n-ca-a-huya-n/send/4-v-n-ba-n-ca-a-xa/44-sa-02-nq-ubbc",
+      "date": "2026-02-13",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-05362-2",
+      "title": "Danh sách Thôn vùng đồng bào dân tộc thiểu số và miền núi, thôn đặc biệt khó khăn giai đoạn 2026 - 2030 trên địa bàn tỉnh Phú Thọ",
+      "url": "http://files.ubdt.gov.vn/files/ecm/source_files/2026/02/05/11252411_4.%20Ph%C3%BA%20Th%E1%BB%8D%201%20(th%C3%B4n).signed_26-02-05.pdf",
+      "date": "2026-01-29",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-05362-3",
+      "title": "Nghị quyết số 830/NQ-UBTVQH14 của ỦY BAN THƯỜNG VỤ QUỐC HỘI: Về việc sắp xếp các đơn vị hành chính cấp huyện, cấp xã thuộc tỉnh Hòa Bình",
+      "url": "http://vanban.chinhphu.vn/default.aspx?pageid=27160&docid=198695",
+      "date": "Cổng Thông tin điện tử Chính phủ",
+      "type": "wikipedia-ref"
+    }
+  ],
+  "note": "Trích tự động từ Wikipedia tiếng Việt (mode=narrative!old). Cần đối chiếu nghị quyết HĐND phường/xã. ⚠️ Danh mục có thể là hiện trạng TRƯỚC sắp xếp thôn/TDP 01/7/2026 — Wikipedia chưa cập nhật nghị quyết mới.",
+  "tdp": [
+    {
+      "name": "Bãi Cả",
+      "type": "xóm"
+    },
+    {
+      "name": "Bãi Đa",
+      "type": "xóm"
+    },
+    {
+      "name": "Bèo",
+      "type": "xóm"
+    },
+    {
+      "name": "Chồn Nâu",
+      "type": "xóm"
+    },
+    {
+      "name": "Dân Lập",
+      "type": "xóm"
+    },
+    {
+      "name": "Đầm",
+      "type": "xóm"
+    },
+    {
+      "name": "Đội 2",
+      "type": "xóm"
+    },
+    {
+      "name": "Heo",
+      "type": "xóm"
+    },
+    {
+      "name": "Hiệu",
+      "type": "xóm"
+    },
+    {
+      "name": "Hồng",
+      "type": "xóm"
+    },
+    {
+      "name": "Hơm",
+      "type": "xóm"
+    },
+    {
+      "name": "Hợp Lý",
+      "type": "xóm"
+    },
+    {
+      "name": "Hợp Nhất",
+      "type": "xóm"
+    },
+    {
+      "name": "Hợp Thành",
+      "type": "xóm"
+    },
+    {
+      "name": "Khạ",
+      "type": "xóm"
+    },
+    {
+      "name": "Khuyển",
+      "type": "xóm"
+    },
+    {
+      "name": "Lương Cao",
+      "type": "xóm"
+    },
+    {
+      "name": "Lương Mỹ",
+      "type": "xóm"
+    },
+    {
+      "name": "Lương Thành",
+      "type": "xóm"
+    },
+    {
+      "name": "Lương Tiến",
+      "type": "xóm"
+    },
+    {
+      "name": "Minh Tiến",
+      "type": "xóm"
+    },
+    {
+      "name": "Nghia",
+      "type": "xóm"
+    },
+    {
+      "name": "Nhang",
+      "type": "xóm"
+    },
+    {
+      "name": "Nhuội",
+      "type": "xóm"
+    },
+    {
+      "name": "Quyết Thắng",
+      "type": "xóm"
+    },
+    {
+      "name": "Ráng",
+      "type": "xóm"
+    },
+    {
+      "name": "Sào",
+      "type": "xóm"
+    },
+    {
+      "name": "Sào Vót",
+      "type": "xóm"
+    },
+    {
+      "name": "Tân Phúc",
+      "type": "xóm"
+    },
+    {
+      "name": "Thịnh Minh",
+      "type": "xóm"
+    },
+    {
+      "name": "Thống Nhất",
+      "type": "xóm"
+    },
+    {
+      "name": "Thượng",
+      "type": "xóm"
+    },
+    {
+      "name": "Tròng",
+      "type": "xóm"
+    },
+    {
+      "name": "Yên Mu",
+      "type": "xóm"
+    },
+    {
+      "name": "Yên Tân",
+      "type": "xóm"
+    }
+  ]
+}

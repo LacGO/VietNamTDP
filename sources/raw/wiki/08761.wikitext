@@ -1,0 +1,177 @@
+{{Thông tin đơn vị hành chính Việt Nam |Xã
+| tên = Lập Thạch
+| hình = 
+| ghi chú hình = 
+| vĩ độ = 21.415499441418334
+| kinh độ = 105.4613328444256
+| diện tích = 39,10 km²<ref name=MS/>
+| dân số = 34.604 người<ref name=MS/>
+| thời điểm dân số = 2025
+| mật độ dân số = {{formatnum:{{#expr:floor({{formatnum:34.604| R}}/{{formatnum:39,10| R}})}} }} người/km²
+| vùng = [[Đông Bắc Bộ]]
+| tỉnh = [[Phú Thọ]]
+| thành lập = 16 tháng 6 năm 2025<ref>Nghị quyết số 1676/NQ-UBTVQH15</ref>
+| trụ sở UBND =DT307, thôn Vĩnh Tường 
+| mã hành chính = 08761<ref>{{Chú thích web |url=https://danhmuchanhchinh.gso.gov.vn/ |title=Tổng cục Thống kê |access-date=2021-12-22 |archive-date=2021-01-10 |archive-url=https://web.archive.org/web/20210110034519/https://www.gso.gov.vn/phuong-phap-thong-ke/danh-muc/don-vi-hanh-chinh/ |url-status=dead }}</ref>
+| mã bưu chính =15406 
+|web={{url|lapthach.phutho.gov.vn}}
+|loại đô thị=|năm công nhận=}}
+{{other|Lập Thạch (định hướng)}}
+'''Lập Thạch''' là một [[Xã (Việt Nam)|xã]] thuộc tỉnh [[Phú Thọ]], [[Việt Nam]].
+
+==Địa lý==
+Xã Lập Thạch nằm ở phía bắc tỉnh [[Phú Thọ]], có vị trí địa lý<ref>{{Chú thích web |title=Đơn vị hành chính Việt Nam |url=https://sapnhap.bando.com.vn/ |access-date=2026-06-14 |website=sapnhap.bando.com.vn}}</ref>:
+*Phía đông giáp xã [[Thái Hòa, Phú Thọ|Thái Hòa]] và xã [[Liên Hòa (xã)|Liên Hòa]].
+*Phía tây giáp xã [[Tam Sơn (xã)|Tam Sơn]] và xã [[Sông Lô (xã)|Sông Lô]].
+*Phía nam giáp xã [[Tiên Lữ, Phú Thọ|Tiên Lữ]].
+*Phía bắc giáp xã [[Hợp Lý, Phú Thọ|Hợp Lý]].
+
+Xã có diện tích 39,10&nbsp;km², dân số năm 2025 là 34.604 người, mật độ dân số đạt 885 người/km².<ref>{{Chú thích web |title=Xã Lập Thạch, Tỉnh Phú Thọ mới sáp nhập 2026 |url=https://tinhthanhvn.com/province/phu-tho/xa-lap-thach |access-date=2026-06-14 |website=Tỉnh Thành Việt Nam |language=vi}}</ref>
+
+==Hành chính==
+Xã Lập Thạch được chia thành 45 thôn: Bản Hậu, Bồ Tỉnh, Cầu Thao, Con Voi, Dầu, Diễu, Đình Thắng, Đồng Chủ, Đồng Núi, Đồng Quyền, Gằm, Gia Hòa, Guồng, Hoàng Sơn, Hòa Phong, Hồng Thái, Hưng Thịnh, Khâu, Long Cương, Ngọc Hoa, Núi Ngọc, Nứa, Phao Tràng, Phú Chiền, Phú Lâm, Phú Thượng, Sau Ga, Song Vân, Rừng Chám, Rừng Chũng, Tam Phú, Tân Chiền, Tân Phú, Thành Công, Thành Lập, Thống Nhất, Văn Lãm, Văn Sơn, Vằng, Vân Nam, Vân Trục, Vinh Hoa, Vĩnh Thịnh, Xuân Phong, Xuân Trạch.<ref name=":1">{{Chú thích web |last=Bộ Dân tộc và Tôn giáo |date=2026-01-29 |title=Danh sách Thôn vùng đồng bào dân tộc thiểu số và miền núi, thôn đặc biệt khó khăn giai đoạn 2026 - 2030 trên địa bàn tỉnh Phú Thọ |url=http://files.ubdt.gov.vn/files/ecm/source_files/2026/02/05/11252411_4.%20Ph%C3%BA%20Th%E1%BB%8D%201%20(th%C3%B4n).signed_26-02-05.pdf |url-status=live |archive-url=https://web.archive.org/web/20260417090807/http://files.ubdt.gov.vn/files/ecm/source_files/2026/02/05/11252411_4.%20Ph%C3%BA%20Th%E1%BB%8D%201%20(th%C3%B4n).signed_26-02-05.pdf |archive-date=2026-04-17 |access-date=2026-04-17 |website=Cổng Thông tin điện tử Bộ Dân tộc và Tôn giáo}}</ref><ref name=":0">{{Chú thích web |last=Ủy ban bầu cử xã Lập Thạch |date=2026-02-24 |title=Nghị quyết số 2/NQ-UBBC về việc công bố danh sách chính thức những người ứng cử đại biểu Hội đồng nhân dân xã Lập Thạch, khóa II nhiệm kỳ 2026 - 2031 theo từng đơn vị bầu cử |url=https://lapthach.phutho.gov.vn/images/NQ_02_UBBC_c%C3%B4ng_b%E1%BB%91_DS_ch%C3%ADnh_th%E1%BB%A9c_%E1%BB%A9ng_vi%C3%AAn_%C4%91%E1%BA%A1i_bi%E1%BB%83u_H%C4%90ND_x%C3%A3.pdf |url-status=live |archive-url=https://web.archive.org/web/20260422090807/https://lapthach.phutho.gov.vn/images/NQ_02_UBBC_c%C3%B4ng_b%E1%BB%91_DS_ch%C3%ADnh_th%E1%BB%A9c_%E1%BB%A9ng_vi%C3%AAn_%C4%91%E1%BA%A1i_bi%E1%BB%83u_H%C4%90ND_x%C3%A3.pdf |archive-date=2026-04-22 |access-date=2026-04-22 |website=Trang Thông tin điện tử xã Lập Thạch - tỉnh Phú Thọ}}</ref>
+
+==Lịch sử==
+Trước kia, địa bàn xã Lập Thạch ngày nay là địa bàn của thị trấn Lập Thạch và các xã Xuân Hòa, Tử Du, Vân Trục thuộc huyện [[Lập Thạch (huyện)|Lập Thạch]], tỉnh [[Vĩnh Phúc (tỉnh)|Vĩnh Phúc]] cũ.
+
+Trước [[Cách mạng Tháng Tám|cách mạng]] [[Cách mạng Tháng Tám|Tháng Tám]], địa phận xã Lập Thạch ngày nay thuộc làng Bồ Tỉnh, Vân Trục, Tiên Định, đây là 3 trong 11 làng thuộc tổng Tử Du, huyện [[Lập Thạch (huyện)|Lập Thạch]], phủ [[Vĩnh Tường (huyện)|Vĩnh Tường]], tỉnh [[Vĩnh Yên (tỉnh)|Vĩnh Yên]].
+
+Đến [[tháng 8]] năm [[1946]], địa phận xã Lập Thạch ngày nay thuộc xã Quang Trung.
+
+[[Tháng 2]] năm [[1948]], xã Quang Trung chia tách thành 2 xã là: Nguyễn Huệ (gồm một phần địa giới của các xã Lập Thạch, [[Hợp Lý, Phú Thọ|Hợp Lý]], [[Tam Sơn (xã)|Tam Sơn]] ngày nay) và xã Quang Trung.
+
+[[Tháng 10]] năm [[1955]], theo quyết định điều chỉnh địa giới hành chính, xã Nguyên Huệ có 4 thôn là: Vân Trục, Bồ Tỉnh, Song Vân, Tiên Định.
+
+Ngày [[15 tháng 4]] năm [[1963]], HĐND tỉnh Vĩnh Phúc ban hành Chỉ thị số 23/TTg về việc sửa đổi tên xã, tên phố, tên thôn và với việc Bộ Nội vụ ra Quyết định số 126 vào ngày [[3 tháng 4|3]] [[3 tháng 4|tháng 4]] năm [[1965]] về việc đổi tên 12 xã của huyện Lập Thạch thì xã Nguyễn Huệ được đổi tên thành xã Vân Trục.
+
+Ngày [[23 tháng 11]] năm [[1995]], thị trấn Lập Thạch được thành lập trên cơ sở tách 407 ha diện tích tự nhiên và 4.750 người của xã Xuân Hòa.
+
+Ngày [[12 tháng 6]] năm [[2025]], [[Quốc hội Việt Nam|Quốc hội]] ban hành Nghị quyết số 202/2025/QH15 về việc sắp xếp đơn vị hành chính cấp tỉnh (nghị quyết có hiệu lực từ ngày [[12 tháng 6]] năm [[2025]]).<ref>{{Chú thích web |last=xaydungchinhsach.chinhphu.vn |date=2025-07-16 |title=TOÀN VĂN: Nghị quyết số 202/2025/QH15 về sắp xếp đơn vị hành chính cấp tỉnh |url=https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-202-2025-qh15-ve-sap-xep-don-vi-hanh-chinh-cap-tinh-119250612174148722.htm |url-status=live |archive-url=https://web.archive.org/web/20260705025431/https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-202-2025-qh15-ve-sap-xep-don-vi-hanh-chinh-cap-tinh-119250612174148722.htm |archive-date=2026-07-05 |access-date=2026-07-25 |website=Báo Điện tử Chính phủ |language=vi }}</ref> Theo đó, sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của tỉnh [[Vĩnh Phúc (tỉnh)|Vĩnh Phúc]], tỉnh [[Hòa Bình (tỉnh)|Hòa Bình]] và tỉnh [[Phú Thọ]] thành tỉnh mới có tên gọi là tỉnh '''Phú Thọ'''.
+
+Ngày [[16 tháng 6]] năm [[2025]]:
+
+* Quốc hội ban hành Nghị quyết số 203/2025/QH15 về việc sửa đổi, bổ sung một số điều của Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam (nghị quyết có hiệu lực từ ngày [[16 tháng 6]] năm [[2025]]).<ref>{{Chú thích web |last=xaydungchinhsach.chinhphu.vn |date=2025-06-28 |title=NGHỊ QUYẾT 203/2025/QH15 SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA HIẾN PHÁP NƯỚC CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM |url=https://xaydungchinhsach.chinhphu.vn/nghi-quyet-203-2025-qh15-sua-doi-bo-sung-mot-so-dieu-cua-hien-phap-nuoc-cong-hoa-xa-hoi-chu-nghia-viet-nam-119250616181735552.htm |url-status=live |archive-url=https://web.archive.org/web/20260715200606/https://xaydungchinhsach.chinhphu.vn/nghi-quyet-203-2025-qh15-sua-doi-bo-sung-mot-so-dieu-cua-hien-phap-nuoc-cong-hoa-xa-hoi-chu-nghia-viet-nam-119250616181735552.htm |archive-date=2026-07-15 |access-date=2026-07-15 |website=Báo Điện tử Chính phủ |language=vi }}</ref> Theo đó, kết thúc hoạt động của đơn vị hành chính cấp huyện trong cả nước từ ngày 1 tháng 7 năm 2025.
+* [[Ủy ban Thường vụ Quốc hội]] ban hành Nghị quyết số 1676/NQ-UBTVQH15 về việc sắp xếp đơn vị hành chính cấp xã của tỉnh [[Phú Thọ]] năm 2025 (nghị quyết có hiệu lực từ ngày [[16 tháng 6]] năm [[2025]]).<ref>{{Chú thích web |last=xaydungchinhsach.chinhphu.vn |date=2025-06-20 |title=Nghị quyết số 1676/NQ-UBTVQH15 sắp xếp các ĐVHC cấp xã của tỉnh Phú Thọ năm 2025 |url=https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-1676-nq-ubtvqh15-sap-xep-cac-dvhc-cap-xa-cua-tinh-phu-tho-nam-2025-119250616204317326.htm |url-status=live |archive-url=https://web.archive.org/web/20260725082021/https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-1676-nq-ubtvqh15-sap-xep-cac-dvhc-cap-xa-cua-tinh-phu-tho-nam-2025-119250616204317326.htm |archive-date=2026-07-25 |access-date=2026-07-27 |website=Báo Điện tử Chính phủ |language=vi }}</ref> Theo đó, sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của thị trấn Lập Thạch và các xã Xuân Hòa, Tử Du, Vân Trục thành xã mới có tên gọi là '''xã Lập Thạch'''.
+
+Sau khi thực hiện sắp xếp, xã Lập Thạch được chia thành 45 thôn: Bản Hậu, Bồ Tỉnh, Cầu Thao, Con Voi, Dầu, Diễu, Đình Thắng, Đồng Chủ, Đồng Núi, Đồng Quyền, Gằm, Gia Hòa, Guồng, Hoàng Sơn, Hòa Phong, Hồng Thái, Hưng Thịnh, Khâu, Long Cương, Ngọc Hoa, Núi Ngọc, Nứa, Phao Tràng, Phú Chiền, Phú Lâm, Phú Thượng, Sau Ga, Song Vân, Rừng Chám, Rừng Chũng, Tam Phú, Tân Chiền, Tân Phú, Thành Công, Thành Lập, Thống Nhất, Văn Lãm, Văn Sơn, Vằng, Vân Nam, Vân Trục, Vinh Hoa, Vĩnh Thịnh, Xuân Phong, Xuân Trạch.<ref name=":1" /><ref name=":0" />
+
+Ngày [[24 tháng 12]] năm [[2025]], Ủy ban Thường vụ Quốc hội ban hành Nghị quyết số 111/2025/UBTVQH15 về phân loại đô thị (nghị quyết có hiệu lực từ ngày [[1 tháng 1]] năm [[2026]]).<ref>{{Chú thích web |last=xaydungchinhsach.chinhphu.vn|date=2026-01-21|title=Nghị quyết số 111/2025/UBTVQH15 về phân loại đô thị|url=https://xaydungchinhsach.chinhphu.vn/nghi-quyet-so-111-2025-ubtvqh15-ve-phan-loai-do-thi-119260101170432239.htm|access-date=2026-07-23|website=xaydungchinhsach.chinhphu.vn|language=vi}}</ref> Theo đó, đô thị loại IV, loại V, thị xã và thị trấn trước khi sắp xếp chưa được công nhận loại đô thị được xác định là đô thị loại III. Một phần xã Lập Thạch được xác định là đô thị loại III (từ đô thị loại V của thị trấn Lập Thạch cũ).
+
+== Giáo dục ==
+Mạng lưới giáo dục trên địa bàn xã đáp ứng nhu cầu học tập của con em nhân dân trong xã. Hệ thống trường lớp phần lớn được đầu tư xây dựng kiên cố, cao tầng. Ngoài ra với sự quan tâm đầu tư thích đáng của tất cả các cấp, các ngành và nhân dân trong xã nên chất lượng giáo dục ở tất cả các cấp học, bậc học ngày càng được nâng lên. Xã có các nhà trường là: Trường Mầm non, Trường Tiểu học và trường Trung học Cơ sở.
+
+== Y tế ==
+Trạm y tế được trang bị cơ sở vật chất tương đối đầy đủ, đạt chuẩn quốc gia. Đội ngũ cán bộ y tế dần dần được nâng lên cả về số lượng và chất lượng đáp ứng nhu cầu khám chữa bệnh của đông đảo nhân dân trong khu vực.
+
+<!-- 
+'''1. Tên gọi, vị trí địa lý: '''
+
+1.1. Tên gọi, lịch sử hình thành:
+
+- Trước cách mạng tháng 8 năm 1945, địa phận xã Vân Trục ngày nay thuộc làng Bồ Tỉnh, Vân Trục, Tiên Định, đây là 3 trong 11 làng thuộc Tổng Tử Du, huyện Lập Thạch, phủ Vĩnh Tường, tỉnh Vĩnh Yên.
+
+- Sau cách mạng tháng Tám thành công, (tháng 8/1946) địa phận Vân Trục ngày nay thuộc xã Quang Trung.
+
+- Tháng 2 – 1948, xã Quang Trung chia
+tách thành 2 xã là: Nguyễn Huệ (gồm Vân Trục, Ngọc Mỹ, và một địa phận của xã
+Tân Lập ngày nay) và xã Quang Trung.
+
+- Tháng 10-1945, theo quyết định điều
+chỉnh địa giới hành chính, xã Nguyên Huệ có 4 thôn là: Vân Trục, Bồ Tỉnh, Song Vân, Tiên Định.
+
+- Ngày 15 tháng 4 năm 1963 theo Chỉ thị số 23/TTg về việc sửa đổi tên xã, tên phố, tên thôn; theo đề nghị của HĐND tỉnh
+Vĩnh Phúc, ngày 03/4/1965 Bộ Nội vụ rà quyết định số 126 đổi tên 12 xã của huyện Lập Thạch, trong đó xã Nguyễn Huệ được đổi tên thành xã Vân Trục, địa
+giới hành chính cho tới ngày nay.
+
+1.2. Vị trí địa lý:
+
+- Vân Trục nằm gần trung tâm huyện Lập Thạch, có diện tích đất tự nhiên là: 1220,11 ha, phía bắc tiếp giáp xã Ngọc Mỹ, phía đông giáp xã Xuân Hòa, phía nam giáp xã Tân Lập, phía tây giáp xã Đồng Quế và một phần xã Tân Lập.
+
+'''2. Địa hình, thổ nhưỡng và khí hậu:'''
+
+Vân Trục là xã có địa hình phức tạp, diện tích đất nông nghiệp nằm xen kẽ núi và hồ Vân Trục (được xây dựng hoàn thành năm 1966) chia xã thành hai miền rõ rệt: Miền Song Vân và miền Bồ Tỉnh.
+
+Nằm trong vùng nhiệt đới gió mùa, nhiệt độ trung bình từ 22&nbsp;°C, số giờ nắng trung bình trong năm là 1.450 đến 1.550 giờ, lượng mưa trung bình 1.500-1.800&nbsp;mm/năm, độ ẩm trung bình khoảng 84%, khí hậu Vân Trục được chia làm 4 mùa rõ rệt. Mưa nhiều vào mùa hè, Mùa đông khí hậu khô hanh thậm chí gây hạn hán.
+
+'''3. Phân chia hành chính:'''
+
+Vân Trục gồm 11 thôn dân cư là: Vân Hội, Thanh Vân, Vân Trục, Tam Phú, Đồng Núi, Móc Lép, Đồng Vẫn, Con Voi, Bồ Tỉnh, Phao Tràng (theo Quyết định số 2159/QĐ ngày 10/6/2003 của UBND tỉnh Vĩnh Phúc).
+
+- Do điều kiện địa hình, Vân Trục phân chia thành hai miền rõ rệt:
+
++ Miền Song Vân: Gồm 8 thôn dân cư là: Vân Hội, Thanh Vân, Vân Trục, Tam Phú,
+Đồng Núi, Móc Lép, Đồng Vẫn.
+
++ Miền Bồ Tỉnh: Gồm 3 thôn dân cư là: Con Voi, Bồ Tỉnh, Phao Tràng.
+
+- Trung tâm xã Vân Trục thuộc địa phận thôn Song Vân, Thanh Vân.
+
+- Trụ sở UBND xã Vân Trục nằm trên địa phận thôn Thanh Vân.
+
+'''4. Dân số: '''
+
+Trước cách mạng tháng 8 năm 1945, Vân Trục là xã đất rộng, người thưa. Theo sử kể, toàn xã khi đó chỉ có khoảng hơn 1000 nhân khẩu.
+
+Sau cánh mạng tháng Tám, vùng đất này được biết đến nhiều hơn, nhân dân các địa phương lân cận đến đây sinh sống (Phú Thọ, Hưng Yên, Thái Bình, Đông Anh (Hà
+Nội), huyện Vĩnh Tường, Yên Lạc và nhân dân các xã phía Nam huyện Lập Thạch).
+
+Vân Trục có 21 dòng họ, có hai dòng họ lớn tồn tại lâu đời là dòng họ Trần và dòng họ Nguyễn.
+
+Theo số liệu thống kê đến nay Vân Trục có 4630 khẩu, 1330 hộ, mật độ dân số là 379 người/km². Dân số chủ yếu là người dân tộc Kinh, một số người dân
+tộc khác di cư đến địa phương trong giai đoạn gần đây là người dân tộc Tày,Mường, Nùng.
+
+Tín ngưỡng của người dân Vân Trục là đạo Phật, không có người theo đạo khác.
+
+'''5.Kinh tế:'''
+
+Trước kia (từ năm 2001 đến 2005), Vân Trục là xã đặc biệt khó khăn theo quyết định số 42/2001/QĐ-TTg của Thủ tướng Chính phủ. Từ đó, kinh tế xã hội được nhà nước đầu tư phát triển, các công trình điện, đường, trường, trạm cơ bản được đầu tư xây dựng đạt tiêu chuẩn.
+
+Năm 2004, tổng giá trị thu nhập toàn xã chỉ đạt 15 tỷ đồng, thu nhập bình quân đầu người là 3,75 triệu đồng. Đến năm 2013, tổng giá trị nhu nhập đạt 93,6 tỷ đồng, nhu nhập bình quân đầu người đạt 20 triệu đồng, tỷ lệ hộ nghèo là 5,88%. Cơ cấu kinh tế hiện nay: Nông, lâm nghiệp, thủy sản: 68,46%, công nghiệp – xây dựng: 12,74%, thương mại – dịch vụ: 18,81%.
+
+Nền kinh tế Vân Trục đang có những bước phát triển, song tỷ trọng thu nhập chủ yếu vẫn từ kinh tế nông nghiệp.Thời gian qua, một trong những giải pháp phát triển kinh tế của xã là mô hình trồng cây thanh long ruột đỏ. Qua 03 năm thực hiện dự án thí điểm trồng cây thanh long ruột đỏ, diện tích cây thanh long ruột đỏ toàn xã đạt 63 ha, đang được nhân dân chăm sóc và phát triển tốt, cho thu nhập khá.
+
+'''6. Di sản cổ truyền, danh thắng của địa phương:'''
+
+Xã có hồ Vân Trục có diện tích là 172
+ha, độ sâu trung bình là 4m, nằm trong quy hoạch xây dựng khu Du lịch Hồ Vân
+Trục (với tổng diện tích 800 ha).
+
+'''7. Giáo dục, xã hội:'''
+
+Mạng lưới  trên địa bàn xã, đáp ứng nhu cầu học tập của con em nhân dân trong xã. Hệ thống trường lớp phần lớn được đầu tư xây dựng kiên cố, cao tầng. Ngoài ra với sự quan tâm đầu tư thích đáng của tất cả các cấp, các ngành và nhân dân trong xã nên chất lượng giáo dục ở tất cả các cấp học, bậc học ngày càng được nâng lên. Xã có các nhà trường là: Trường Mầm non (02 phân hiệu Song Vân và Bồ Tỉnh), Trường Tiểu học (02 phân hiệu Song Vân, Bồ Tỉnh) và trường THCS Vân Trục.
+
+Trạm y tế được trang bị cơ sở vật chất tương đối đầy đủ, đạt chuẩn quốc gia. Đội ngũ cán bộ y tế dần dần được nâng lên cả về số lượng và chất lượng đáp ứng nhu cầu khám chữa bệnh của đông đảo nhân dân trong huyện.
+
+Các chính sách xã hội đối với người có công, người nghèo, vấn đề xóa đói giảm nghèo, giải quyết việc làm cũng được các cấp chính quyền quan tâm góp phần ổn định xã hội.
+
+'''8. Lịch sử đấu tranh cách mạng:'''
+
+Vân Trục là mảnh đất giàu truyền thống đấu tranh yêu nước, truyền thống đó được bắt nguồn từ cuộc đấu tranh với nhiên nhiên để khai phá vùng đất này. Là nơi được Đề Thám làm căn cứ nuôi quân chống thực dân Pháp.
+
+Trong kháng chiến chống thực dân Pháp,có các cơ quan, đơn vị về đóng quân trên địa bàn:
+
+- Ủy ban kháng chiến hành chính tỉnh và tỉnh ủy Vĩnh Yên (1946-1947)
+
+- Quân y tỉnh Vĩnh Yên và Vĩnh Phúc (1947-1952)
+
+- Cơ quan kinh tế tài chính ngoại thường Trung ương (1947)
+
+- Ủy ban kháng chiến hành chính huyện Vĩnh Tường (1947)
+
+- Chi sở kho thóc Trung ương (1947 –1952)
+
+- Chi sở thuế vụ (1947 - 1952)
+
+- Văn phòng Thủ tướng Chính phủ (1949)
+
+- Nhà máy in cứu quốc (1946-1947)
+
+- Trường trung học Nguyễn Thái Học (1948-1954) 
+-->
+
+==Chú thích==
+{{tham khảo|30em}}
+
+==Tham khảo==
+{{sơ khai Phú Thọ}}
+{{Đơn vị hành chính thuộc tỉnh Phú Thọ}}

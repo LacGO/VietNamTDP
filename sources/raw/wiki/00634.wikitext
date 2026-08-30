@@ -1,0 +1,154 @@
+{{Thông tin đơn vị hành chính Việt Nam |Phường
+| tên = Tây Mỗ
+| hình =Vinhomes-smart-city-tay-mo-dai-mo-1.jpg 
+| ghi chú hình =Vinhomes Smart City Tây Mỗ 
+| vĩ độ = 21.00607170480364
+| kinh độ = 105.74846378322147
+| diện tích = 5,57 km²
+| dân số = 91.463 người <ref>{Chú thích web |url=https://taymo.hanoi.gov.vn/nghi-quyet-21-2026-nq-hdnd/so-do-ranh-gioi-tdp-9-va-tdp-10-phuong-tay-mo-2696260628160257699.htm| archive-date=2026-06-15 }</ref> 
+| thời điểm dân số = 2026
+| mật độ dân số = {{formatnum:{{#expr:floor({{formatnum:91463| R}}/{{formatnum:5,57| R}})}} }} người/km²
+| vùng = [[Đồng bằng sông Hồng]]
+| thành phố = [[Hà Nội]]
+| thành lập = 
+| trụ sở UBND =Số 169 đường Đại Mỗ<ref>{{Chú thích web |url=https://storage-vnportal.vnpt.vn/gov-hni/6244/VanBan/2025/6/25/TB-729-2025.pdf |title=Thông báo số 729/TB-UBND ngày 25 tháng 6 năm 2025 của Ủy ban nhân dân thành phố Hà Nội về địa điểm trụ sở làm việc của 126 phường, xã sau sắp xếp thuộc phạm vi quản lý của thành phố Hà Nội|access-date=2026-06-15 |archive-date=2026-06-15 |archive-url=https://web.archive.org/web/20260615034519/https://storage-vnportal.vnpt.vn/gov-hni/6244/VanBan/2025/6/25/TB-729-2025.pdf |url-status=dead | website = Cổng Thông tin điện tử Ủy ban nhân dân thành phố Hà Nội}}</ref> 
+| mã hành chính =00634<ref>{{Chú thích web |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/19ttg.signed.pdf |title=Quyết định số 19/2025/QĐ-TTg ngày 30 tháng 6 năm 2025 của Thủ tướng Chính phủ về việc Ban hành Bảng danh mục và mã số các đơn vị hành chính Việt Nam |access-date=2026-06-15 |archive-date=2026-06-15 |archive-url=https://web.archive.org/web/20260615034519/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/19ttg.signed.pdf |url-status=dead | website = Cổng Thông tin điện tử Chính phủ}}</ref> 
+|trụ sở Đảng ủy=Số 169 đường Đại Mỗ|web={{url|taymo.hanoi.gov.vn}}|bản đồ 1={{maplink|frame=yes|plain=yes|type=shape|frame-width=280|frame-align=center|stroke-width=3}}}}
+
+'''Tây Mỗ''' là một [[Phường (Việt Nam)|phường]] thuộc thành phố [[Hà Nội]], [[Việt Nam]].
+
+== Địa lý== 
+Phường Tây Mỗ có vị trí địa lý:
+* Phía đông giáp phường [[Đại Mỗ]] (ranh giới đi theo đường Sa Đôi)
+* Phía tây giáp xã [[An Khánh, Hà Nội|An Khánh]] (ranh giới đi theo đường Hoàng Tùng)
+* Phía nam giáp phường [[Dương Nội]] và phường [[Đại Mỗ]] (ranh giới đi theo đường Hữu Hưng – đường Phan Kế Toại kéo dài (quy hoạch) – đường Nội)
+* Phía bắc giáp xã [[Sơn Đồng]], phường [[Xuân Phương]] và phường [[Từ Liêm (phường)|Từ Liêm]] (ranh giới đi theo [[Đại lộ Thăng Long|đường cao tốc Láng – Hòa Lạc]]).<ref>{{Chú thích web |last=Báo Điện tử Chính phủ |date=2025-04-28 |title=Chi tiết dự thảo phương án sắp xếp các phường của Hà Nội |url=https://xaydungchinhsach.chinhphu.vn/chi-tiet-du-thao-phuong-an-sap-xep-cac-phuong-cua-ha-noi-119250421100531902.htm |url-status=dead |archive-url=https://web.archive.org/web/20260316174230/https://xaydungchinhsach.chinhphu.vn/chi-tiet-du-thao-phuong-an-sap-xep-cac-phuong-cua-ha-noi-119250421100531902.htm |archive-date=2026-03-16 |access-date=2026-07-10 |website=Xây dựng chính sách, pháp luật}}</ref><ref>{{Chú thích web |last=Viện nghiên cứu Phát triển kinh tế – xã hội Hà Nội |date=2025-07-02 |title=Phường Tây Mỗ: Những thông tin chi tiết sau sắp xếp |url=https://hanoionline.vn/phuong-tay-mo-nhung-thong-tin-chi-tiet-sau-sap-xep-344064.htm |url-status=dead |archive-url=https://web.archive.org/web/20260809400809/https://hanoionline.vn/phuong-tay-mo-nhung-thong-tin-chi-tiet-sau-sap-xep-344064.htm |archive-date=2026-08-09 |access-date=2026-08-09 |website=Cơ quan Báo và Phát thanh Truyền hình Hà Nội}}</ref><ref>{{Chú thích web |last=Cơ quan Báo và Phát thanh Truyền hình Hà Nội |date=2025-07-06 |title=Phường Tây Mỗ: Tất cả thông tin chỉ dẫn bạn cần biết |url=https://hanoionline.vn/phuong-tay-mo-tat-ca-thong-tin-chi-dan-ban-can-biet-344891.htm |url-status=dead |archive-url=https://web.archive.org/web/20250707053645/https://hanoionline.vn/phuong-tay-mo-tat-ca-thong-tin-chi-dan-ban-can-biet-344891.htm |archive-date=2025-07-07 |access-date=2026-08-08 }}</ref>
+Phường Tây Mỗ có diện tích tự nhiên là 5,57 km<sup>2</sup>, quy mô dân số năm 2026 là 91.463 người và mật độ dân số đạt 16.420 người/km<sup>2</sup>.<ref>{{Chú thích web |last=Mai Hữu |date=2026-04-05 |title=Hà Nội: Chi tiết phương án tổng thể sắp xếp đơn vị hành chính cấp xã |url=https://hanoimoi.vn/ha-noi-chi-tiet-phuong-an-tong-the-sap-xep-don-vi-hanh-chinh-cap-xa-700278.html |url-status=bot: unknown |archive-url=https://web.archive.org/web/20250710163328/https://hanoimoi.vn/ha-noi-chi-tiet-phuong-an-tong-the-sap-xep-don-vi-hanh-chinh-cap-xa-700278.html |archive-date=2025-07-10 |access-date=2026-07-08 |website=Cơ quan Báo và Phát thanh, truyền hình Hà Nội}}</ref><ref>Công văn số 2896/BNV-CQĐP ngày 27 tháng 5 năm 2025 của Bộ Nội vụ về việc cung cấp thông tin danh mục dự kiến đơn vị hành chính cấp xã mới.</ref>
+
+== Lịch sử==
+
+=== Trước năm 1976 ===
+Trước đây, Tây Mỗ là một xã thuộc huyện [[Từ Liêm (huyện)|Từ Liêm]] cũ, được thành lập vào ngày [[19 tháng 2]] năm [[1964]] trên cơ sở tách một phần diện tích và dân số của xã Hữu Hưng cũ.
+
+Khi mới thành lập, xã Tây Mỗ có 3 thôn: Tây Mỗ, Phú Thứ và Miêu Nha.
+
+=== Giai đoạn 1976 – nay ===
+Sau ngày 2 tháng 7 năm 1976, 2 xã: An Khánh và Dương Nội thuộc huyện [[Hoài Đức (huyện)|Hoài Đức]] của thuộc tỉnh [[Hà Sơn Bình]].
+
+Ngày 29 tháng 12 năm 1978, sáp nhập huyện [[Hoài Đức (huyện)|Hoài Đức]] của tỉnh [[Hà Sơn Bình]] vào thành phố [[Hà Nội]]. Khi đó, 2 xã: An Khánh và Dương Nội thuộc huyện [[Hoài Đức (huyện)|Hoài Đức]] của thành phố [[Hà Nội]].<ref>Nghị quyết ngày 29 tháng 12 năm 1978 của Quốc hội khóa VI, Kỳ họp thứ 4 phê chuẩn việc phân vạch lại địa giới thành phố Hà Nội, thành phố Hồ Chí Minh, các tỉnh Hà Sơn Bình, Vĩnh Phú, Cao Lạng, Bắc Thái, Quảng Ninh và Đồng Nai.</ref>
+
+Ngày 12 tháng 8 năm 1991, chia tỉnh [[Hà Sơn Bình]] thành 2 tỉnh, lấy tên là tỉnh [[Hòa Bình (tỉnh)|Hòa Bình]] và tỉnh [[Hà Tây (tỉnh)|Hà Tây]]. Chuyển huyện [[Hoài Đức (huyện)|Hoài Đức]] của thành phố [[Hà Nội]] về tỉnh [[Hà Tây (tỉnh)|Hà Tây]]. Khi đó, 2 xã: An Khánh và Dương Nội thuộc huyện [[Hoài Đức (huyện)|Hoài Đức]] của tỉnh [[Hà Tây (tỉnh)|Hà Tây]].<ref>Nghị quyết ngày 12 tháng 8 năm 1991 của Quốc hội khóa VIII, Kỳ họp thứ 9 về việc điều chỉnh địa giới hành chính một số tỉnh, thành phố trực thuộc Trung ương.</ref>
+
+Ngày 4 tháng 1 năm 2006, chuyển toàn bộ xã Dương Nội thuộc huyện [[Hoài Đức (huyện)|Hoài Đức]] về thị xã [[Hà Đông (quận)|Hà Đông]] quản lý.<ref>Nghị định số 1/2006/NĐ-CP ngày 4 tháng 1 năm 2006 của Chính phủ về việc điều chỉnh địa giới hành chính, mở rộng thị xã Hà Đông, tỉnh Hà Tây.</ref>
+
+Ngày 27 tháng 12 năm 2006, thành lập thành phố [[Hà Đông (quận)|Hà Đông]] trên cơ sở toàn bộ diện tích tự nhiên, dân số và các đơn vị hành chính trực thuộc của thị xã [[Hà Đông (quận)|Hà Đông]]. Khi đó, xã Dương Nội thuộc thành phố [[Hà Đông (quận)|Hà Đông]].<ref name="ND155">{{Chú thích web |tựa đề=Nghị định số 155/2006/NĐ-CP ngày 27 tháng 12 năm 2006 của Chính phủ về việc thành lập thành phố Hà Đông thuộc tỉnh Hà Tây |url=https://chinhphu.vn/default.aspx?pageid=27160&docid=18995 |url-status=dead |archive-url=https://web.archive.org/web/20260808201510/https://chinhphu.vn/default.aspx?pageid=27160&docid=18995 |archive-date=2026-08-08 |access-date=2026-08-08 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+
+Ngày 29 tháng 5 năm 2008, hợp nhất tỉnh [[Hà Tây (tỉnh)|Hà Tây]] vào thành phố [[Hà Nội]]. Khi đó, xã Dương Nội thuộc thành phố [[Hà Đông (quận)|Hà Đông]]; xã An Khánh thuộc huyện [[Hoài Đức (huyện)|Hoài Đức]] của thành phố [[Hà Nội]].<ref>Nghị quyết số 15/2008/QH12 ngày 29 tháng 5 năm 2008 của Quốc hội khóa XII, Kỳ họp thứ 3 về việc điều chỉnh địa giới hành chính thành phố Hà Nội và một số tỉnh có liên quan.</ref>
+
+Ngày 8 tháng 5 năm 2009:
+
+* Thành lập quận [[Hà Đông (quận)|Hà Đông]] trên cơ sở thành phố [[Hà Đông (quận)|Hà Đông]].
+* Thành lập phường Dương Nội trên cơ sở xã Dương Nội.<ref name="NQ19">{{Chú thích web |tác giả= |họ= |tên= |ngày= |tựa đề=Nghị quyết số 19/NQ-CP ngày 8 tháng 5 năm 2009 của Chính phủ về việc xác lập địa giới hành chính xã Đông Xuân thuộc huyện Quốc Oai; các xã Tiến Xuân, Yên Bình, Yên Trung thuộc huyện Thạch Thất; huyện Mê Linh thuộc thành phố Hà Nội; thành lập quận Hà Đông và các phường trực thuộc; chuyển thành phố Sơn Tây thành thị xã Sơn Tây thuộc thành phố Hà Nội |url=https://chinhphu.vn/default.aspx?pageid=27160&docid=86463 |url-status=dead |url lưu trữ=https://web.archive.org/web/20260808201510/https://chinhphu.vn/default.aspx?pageid=27160&docid=86463 |ngày lưu trữ=2026-08-08 |ngày truy cập=2026-08-08 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+
+Ngày [[27 tháng 12]] năm [[2013]], Chính phủ ban hành Nghị quyết số 132/NQ-CP. Theo đó, thành lập phường Tây Mỗ thuộc quận Nam Từ Liêm trên cơ sở toàn bộ 604,53 ha diện tích tự nhiên và 22.557 người của xã Tây Mỗ.
+
+Ngày 16 tháng 6 năm 2025:
+
+* Kết thúc hoạt động của đơn vị hành chính cấp huyện trong cả nước.<ref>{{Chú thích web |last= |date= |title=Nghị quyết số 203/2025/QH15 ngày 16 tháng 6 năm 2025 của Quốc hội khóa XV, Kỳ họp thứ 9 về việc sửa đổi, bổ sung một số điều của Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/nq-sua-doi-hien-phap.pdf |url-status=live |archive-url=https://web.archive.org/web/20260613090807/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/nq-sua-doi-hien-phap.pdf |archive-date=2026-06-13 |access-date=2026-06-13 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+* Sắp xếp một phần diện tích tự nhiên, quy mô dân số của phường Đại Mỗ (quận [[Nam Từ Liêm]]), phường Dương Nội (quận [[Hà Đông (quận)|Hà Đông]]) và xã An Khánh (huyện [[Hoài Đức (huyện)|Hoài Đức]]), phần còn lại của phường Tây Mỗ (quận [[Nam Từ Liêm]]) thành phường mới có tên gọi là phường Tây Mỗ.<ref>{{Chú thích web |title=Nghị quyết số 1656/NQ-UBTVQH15 ngày 16 tháng 6 năm 2025 của Ủy ban Thường vụ Quốc hội về việc sắp xếp các đơn vị hành chính cấp xã của thành phố Hà Nội năm 2025 |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf |url-status=bot: unknown |archive-url=https://web.archive.org/web/20260513110024/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf |archive-date=2026-05-13 |access-date=2026-06-30 |website=Cổng Thông tin điện tử Chính phủ }}</ref>
+* Sau khi sắp xếp, phường Tây Mỗ được chia thành 21 tổ dân phố.<ref>7 tổ dân phố: 1, 2 – Đình, An Thái, Chợ, Giao Quang, Ngang và Tháp của phường Đại Mỗ cũ; một phần của 2 tổ dân phố: Quyết Tiến và Trung Bình của phường Dương Nội cũ; 14 tổ dân phố: đánh số từ 7 đến 12, Dộc, Dưới, Hạnh, Lò, Phú Hà, Phú Thứ, Phượng và Tó của phường Tây Mỗ cũ.</ref><ref>{{Chú thích web |title=Thông tư số 10/2022/TT-BTNMT ngày 29 tháng 9 năm 2022 của Bộ Tài nguyên và Môi trường về việc Ban hành Danh mục địa danh dân cư, sơn văn, thủy văn, kinh tế – xã hội phục vụ công tác thành lập bản đồ thành phố Hà Nội |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2022/10/10-btnmt.pdf |url-status=bot: unknown |archive-url=https://web.archive.org/web/20260630082812/https://datafiles.chinhphu.vn/cpp/files/vbpq/2022/10/10-btnmt.pdf |archive-date=2026-06-30 |access-date=2026-06-30 |website=Cổng Thông tin điện tử Chính phủ }}</ref><ref>{{Chú thích web |last= |date= |title=Quyết định số 23/QĐ-UBBC ngày 13 tháng 2 năm 2026 của Ủy ban bầu cử phường Tây Mỗ về việc công bố danh sách chính thức số người ứng cử đại biểu Hội đồng nhân dân phường Tây Mỗ khóa II, nhiệm kỳ 2026 – 2031 |url=https://sqhx-hanoi.mediacdn.vn/91579363132710912/2026/2/25/tay-mo-qd-23-cong-bo-ds-chinh-thuc-nguoi-ung-cu-1772016991579927755690.pdf |url-status=dead |archive-url=https://web.archive.org/web/20260812201510/https://sqhx-hanoi.mediacdn.vn/91579363132710912/2026/2/25/tay-mo-qd-23-cong-bo-ds-chinh-thuc-nguoi-ung-cu-1772016991579927755690.pdf |archive-date=2026-08-12 |access-date=2026-08-12 |website=Trang Thông tin điện tử phường Tây Mỗ – thành phố Hà Nội}}</ref>
+Ngày 21 tháng 11 năm 2025, thành lập, đặt tên 5 tổ dân phố mới, đánh số từ 13 đến 17; ghép khu vực dân cư (tổ dân phố Trung Bình, tổ dân phố Quyết Tiến – phường Dương Nội, khu A, B khu đô thị, Geleximco, khu Biệt thự Bảo Sơn – xã An Khánh) vào tổ dân phố Tó.<ref>I. Tổ dân phố mới được thành lập từ các khu vực dân cư mới hình thành: 1. Thành lập tổ dân phố số 13 từ Tòa nhà Imperia – Khu chung cư Vinhomes Smart City; 2. Thành lập tổ dân phố số 14 từ Tòa nhà Tonkin + Tòa nhà TC – Khu chung cư Vinhomes Smart City; 3. Thành lập tổ dân phố số 15 từ Tòa nhà Masteri – Khu chung cư Vinhomes Smart City; 4. Thành lập tổ dân phố 16 từ Tòa nhà GS – Khu chung cư Vinhomes Smart City; 5. Thành lập tổ dân phố 17 từ Tòa nhà SA – Khu chung cư Vinhomes Smart City; II. Khu vực dân cư ghép vào tổ dân phố hiện có: Ghép khu vực dân cư (tổ dân phố Trung Bình, tổ dân phố Quyết Tiến – phường Dương Nội; khu A, B khu đô thị Geleximco, khu Biệt thự Bảo Sơn – xã An Khánh) vào Tổ dân phố Tó thuộc phường Tây Mỗ, nhằm bảo đảm phù hợp với địa bàn quản lý và điều kiện sinh hoạt cộng đồng theo quy định của pháp luật.</ref><ref>{{Chú thích web |last= |date= |title=Quyết định số 580/QĐ-UBND ngày 28 tháng 11 năm 2025 của Ủy ban nhân dân phường Tây Mỗ về việc thành lập, đặt tên Tổ dân phố mới và ghép khu vực dân cư vào Tổ dân phố hiện có trên địa bàn phường Tây Mỗ năm 2025 |url=https://web.facebook.com/groups/taymodaimo.chocudan/permalink/1968223444052294/?rdid=7rBJFxZm4zGtYCtf# |url-status=dead |archive-url=https://web.archive.org/web/20260812201510/https://web.facebook.com/groups/taymodaimo.chocudan/permalink/1968223444052294/?rdid=7rBJFxZm4zGtYCtf# |archive-date=2026-08-12 |access-date=2026-08-12 |website=Trang Thông tin điện tử Cư Dân Vin Smart City – Nơi mình sống – phường Tây Mỗ – thành phố Hà Nội}}</ref>
+
+Ngày 24 tháng 12 năm 2025, xác định phần lớn của phường Tây Mỗ là [[Đô thị Việt Nam|đô thị loại II]].<ref>Chuyển tiếp từ phường Dương Nội thuộc quận Hà Đông và 2 phường: Đại Mỗ, Tây Mỗ thuộc quận Nam Từ Liêm.</ref><ref>{{Chú thích web |title=Nghị quyết số 111/2025/UBTVQH15 ngày 24 tháng 12 năm 2025 của Ủy ban Thường vụ Quốc hội về phân loại đô thị |url=https://cdn.nhandan.vn/files/f4a4abf7f9a0ba4a91744616546d850872b76917f90d5a74cc9eebef1369fb6f/111.pdf |url-status=dead |archive-url=https://web.archive.org/web/20260814175111/https://cdn.nhandan.vn/files/f4a4abf7f9a0ba4a91744616546d850872b76917f90d5a74cc9eebef1369fb6f/111.pdf |archive-date=2026-08-14 |access-date=2026-07-12 |website=Báo Nhân dân }}</ref>
+
+Ngày 24 tháng 6 năm 2026, thành lập 7 tổ dân phố mới: Thống Nhất, Liên Hợp, Phú Thứ, Đình, Quang Tiến, Ngang và Tó.<ref name=":1">1. Tổ dân phố Thống Nhất thành lập trên cơ sở toàn bộ tổ dân phố Lò, tổ dân phố Dộc và tổ dân phố Hạnh; 2. Tổ dân phố Liên Hợp thành lập trên cơ sở toàn bộ tổ dân phố Dưới, tổ dân phố Phượng và một phần tổ dân phố Phú Thứ; 3. Tổ dân phố Phú Thứ thành lập trên cơ sở toàn bộ tổ dân phố Phú Hà và phần lớn tổ dân phố Phú Thứ; 4. Tổ dân phố Đình thành lập trên cơ sở toàn bộ tổ dân phố 1 Đình và tổ dân phố 2 Đình; 5. Tổ dân phố Quang Tiến thành lập trên cơ sở toàn bộ tổ dân phố An Thái và tổ dân phố Giao Quang; 6. Ghép toàn bộ khu nhà cao tầng thuộc đô thị Viglacera và một phần khu dân cư (giáp Lữ Đoàn 28) thuộc tổ dân phố Ngang vào tổ dân phố Tó; 7. Giữ nguyên 13 tổ dân phố: Tháp, Chợ, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16 và 17.</ref><ref name=":0">{{Chú thích web |last= |date= |title=Đề án tháng 6 năm 2026 của Ủy ban nhân dân phường Tây Mỗ về việc sắp xếp tổ dân phố trên địa bàn phường Tây Mỗ, thành phố Hà Nội |url=https://taymo.hanoi.gov.vn/nghi-quyet-21-2026-nq-hdnd/de-an-sap-xep-to-dan-pho-tren-dia-ban-phuong-tay-mo-thanh-pho-ha-noi-2696260611224822418.htm?gidzl=6g_-CfBpo1KUiFeqcElC5X2n_Z60wiX53UJwQeMudqWBuFfeWRcQHros_MNQuvWLLkYjEcE-RGCMb_BC5m |url-status=dead |archive-url=https://web.archive.org/web/20260813201510/https://taymo.hanoi.gov.vn/nghi-quyet-21-2026-nq-hdnd/de-an-sap-xep-to-dan-pho-tren-dia-ban-phuong-tay-mo-thanh-pho-ha-noi-2696260611224822418.htm?gidzl=6g_-CfBpo1KUiFeqcElC5X2n_Z60wiX53UJwQeMudqWBuFfeWRcQHros_MNQuvWLLkYjEcE-RGCMb_BC5m |archive-date=2026-08-13 |access-date=2026-08-13 |website=Trang Thông tin điện tử phường Tây Mỗ – thành phố Hà Nội}}</ref><ref name=":2">{{Chú thích web |last= |date= |title=Báo cáo số 152/BC-HĐND ngày 26 tháng 6 năm 2026 của Hội đồng nhân dân phường Tây Mỗ về kết quả và công tác tổ chức kỳ họp thường lệ giữa năm 2026 (Kỳ họp thứ Tư) Hội đồng nhân dân phường Tây Mỗ khóa II, nhiệm kỳ 2026 – 2031 |url=https://taymo.hanoi.gov.vn/tin-tuc-su-kien/ket-qua-va-cong-tac-to-chuc-ky-hop-ky-hop-thuong-le-giua-nam-2026-ky-hop-thu-tu-hdnd-phuong-tay-mo-khoa-ii-nhiem-ky-2026-2031-2696260702092116616.htm?gidzl=bRYR6mC7fnUHfvyT2H-Z59-ccnyH7gT0WlEVH1HCy4s4zvz644trGjEXc4jB5_SGsV_856EWZWaz1WQZ5G |url-status=dead |archive-url=https://web.archive.org/web/20260812201510/https://taymo.hanoi.gov.vn/tin-tuc-su-kien/ket-qua-va-cong-tac-to-chuc-ky-hop-ky-hop-thuong-le-giua-nam-2026-ky-hop-thu-tu-hdnd-phuong-tay-mo-khoa-ii-nhiem-ky-2026-2031-2696260702092116616.htm?gidzl=bRYR6mC7fnUHfvyT2H-Z59-ccnyH7gT0WlEVH1HCy4s4zvz644trGjEXc4jB5_SGsV_856EWZWaz1WQZ5G |archive-date=2026-08-12 |access-date=2026-08-12 |website=Trang Thông tin điện tử phường Tây Mỗ – thành phố Hà Nội}}</ref><ref name=":3">{{Chú thích web |title=Thông báo số 522/TB-UBND ngày 30 tháng 6 năm 2026 của Ủy ban nhân dân phường Tây Mỗ về việc công bố danh sách các tổ dân phố sau sắp xếp, tổ chức lại trên địa bàn phường Tây Mỗ |url=https://sqhx-hanoi.mediacdn.vn/91579363132710912/2026/7/3/tb-522-cong-bo-ds-cac-tdp-moi-17830448150791403264133.pdf |url-status=dead |archive-url=https://web.archive.org/web/20260813201510/https://sqhx-hanoi.mediacdn.vn/91579363132710912/2026/7/3/tb-522-cong-bo-ds-cac-tdp-moi-17830448150791403264133.pdf |archive-date=2026-08-13 |access-date=2026-08-13 |website=Trang Thông tin điện tử phường Tây Mỗ – thành phố Hà Nội}}</ref>
+
+Ngày 29 tháng 6 năm 2026, thành lập 2 tổ dân phố mới: 9 và 10.<ref>1. Sắp xếp, tổ chức lại tổ dân phố số 7, tổ dân phố số 8 thành một tổ dân phố có tên gọi tổ dân phố số 9; 2. Sắp xếp, tổ chức lại tổ dân phố số 9, tổ dân phố số 10 thành một tổ dân phố có tên gọi tổ dân phố số 10.</ref><ref name=":4">{{Chú thích web |title=Đề án tháng 6 năm 2026 của Ủy ban nhân dân phường Tây Mỗ về việc sắp xếp, tổ chức lại một số tổ dân phố trên địa bàn phường Tây Mỗ |url=https://sqhx-hanoi.mediacdn.vn/91579363132710912/2026/6/28/du-thao-de-an-17826724504961622662771.pdf |url-status=dead |archive-url=https://web.archive.org/web/20260813201510/https://sqhx-hanoi.mediacdn.vn/91579363132710912/2026/6/28/du-thao-de-an-17826724504961622662771.pdf |archive-date=2026-08-13 |access-date=2026-08-13 |website=Trang Thông tin điện tử phường Tây Mỗ – thành phố Hà Nội}}</ref><ref name=":3" />
+
+== Hành chính ==
+Phường Tây Mỗ được chia thành 18 tổ dân phố: đánh số từ 9 đến 17, Chợ, Đình, Liên Hợp, Ngang, Phú Thứ, Quang Tiến, Tháp, Thống Nhất và Tó.<ref name=":0" /><ref name=":2" /><ref name=":4" /><ref name=":3" />
+{| class="wikitable sortable" align="center" width="100%" cellspacing="6" cellpadding="0" style="background: #f9f9f9; border: 1px #aaa solid; margin-top: 16px"
+! colspan="4" style="background: #E6E6FA; font-size: 95%;" |Danh sách các tổ dân phố thuộc phường Tây Mỗ<ref name=":0" /><ref name=":2" /><ref name=":4" /><ref name=":3" />
+|-
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Tổ dân phố 9
+|3.685
+|-
+| align="left" |Tổ dân phố 10
+|2.721
+|-
+| align="left" |Tổ dân phố 11
+|1.750
+|-
+| align="left" |Tổ dân phố 12
+|2.546
+|-
+| align="left" |Tổ dân phố 13
+|3.476
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Tổ dân phố 14
+|2.524
+|-
+| align="left" |Tổ dân phố 15
+|1.862
+|-
+| align="left" |Tổ dân phố 16
+|2.914
+|-
+| align="left" |Tổ dân phố 17
+|3.125
+|-
+| align="left" |Chợ
+|1.612
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Đình
+|1.414
+|-
+| align="left" |Liên Hợp
+|1.282
+|-
+| align="left" |Ngang
+|1.072
+|-
+| align="left" |Phú Thứ
+|1.232
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Quang Tiến
+|1.163
+|-
+| align="left" |Tháp
+|1.045
+|-
+| align="left" |Thống Nhất
+|2.075
+|-
+| align="left" |Tó
+|1.743
+|}
+|}
+
+== Chú thích==
+{{Tham khảo}}
+
+== Tham khảo ==
+{{sơ khai Hà Nội}}
+{{Đơn vị hành chính thuộc thành phố Hà Nội}}

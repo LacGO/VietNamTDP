@@ -1,0 +1,108 @@
+{
+  "ward_code": "08980",
+  "ward_name": "Yên Lãng",
+  "province_code": "01",
+  "resolution": "",
+  "arrangement": "2026_07",
+  "effective_date": "2026-07-01",
+  "verified": "unverified",
+  "extraction": {
+    "source": "vi.wikipedia.org",
+    "title": "(cache)",
+    "mode": "table"
+  },
+  "sources": [
+    {
+      "key": "wiki-08980-1",
+      "title": "Nghị quyết số 26/NQ-HĐND ngày 29 tháng 6 năm 2026 của Hội đồng nhân dân xã Yên Lãng về việc đổi tên đối với các thôn: thôn 1, thôn 2, thôn 3, thôn 4 trên địa bàn xã Yên Lãng",
+      "url": "https://sqhx-hanoi.mediacdn.vn/91579363132710912/2026/7/8/26-nq-doi-ten-thon-1234-thach-da-178349744041065472809.pdf",
+      "date": "",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-08980-2",
+      "title": "Nghị quyết số 25/NQ-HĐND ngày 29 tháng 6 năm 2026 của Hội đồng nhân dân xã Yên Lãng về việc tổ chức sắp xếp thôn trên địa bàn xã Yên Lãng",
+      "url": "https://sqhx-hanoi.mediacdn.vn/91579363132710912/2026/7/8/25-nq-to-chuc-sap-xep-thon-17834974264021575820699.pdf",
+      "date": "",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-08980-3",
+      "title": "Ủy ban bầu cử xã Yên Lãng công bố danh sách chính thức 47 người ứng cử đại biểu Hội đồng nhân dân xã khóa II, nhiệm kỳ 2026 – 2031",
+      "url": "https://yenlang.hanoi.gov.vn/chi-dao-cua-dia-phuong/uy-ban-bau-cu-xa-yen-lang-cong-bo-danh-sach-chinh-thuc-47-nguoi-ung-cu-dai-bieu-hdnd-xa-khoa-ii-nhiem-ky-20262031-284426022619124671.htm",
+      "date": "2026-02-26",
+      "type": "wikipedia-ref"
+    }
+  ],
+  "note": "Trích tự động từ Wikipedia tiếng Việt (mode=table). Cần đối chiếu nghị quyết HĐND phường/xã.",
+  "tdp": [
+    {
+      "name": "Bồng Mạc",
+      "type": "thôn"
+    },
+    {
+      "name": "Châu Phan",
+      "type": "thôn"
+    },
+    {
+      "name": "Hòang Kim",
+      "type": "thôn"
+    },
+    {
+      "name": "Hòang Xá",
+      "type": "thôn"
+    },
+    {
+      "name": "Mạnh Trữ",
+      "type": "thôn"
+    },
+    {
+      "name": "Thạch Đà 1",
+      "type": "thôn"
+    },
+    {
+      "name": "Thạch Đà 2",
+      "type": "thôn"
+    },
+    {
+      "name": "Thạch Đà 3",
+      "type": "thôn"
+    },
+    {
+      "name": "Thạch Đà 4",
+      "type": "thôn"
+    },
+    {
+      "name": "Thọ Chu",
+      "type": "thôn"
+    },
+    {
+      "name": "Tiên Xuân Cẩm",
+      "type": "thôn"
+    },
+    {
+      "name": "Tiến Thịnh",
+      "type": "thôn"
+    },
+    {
+      "name": "Trung Hà",
+      "type": "thôn"
+    },
+    {
+      "name": "Vạn Yên",
+      "type": "thôn"
+    },
+    {
+      "name": "Xa Mạc",
+      "type": "thôn"
+    },
+    {
+      "name": "Yên Mạc",
+      "type": "thôn"
+    },
+    {
+      "name": "Yên Thị",
+      "type": "thôn"
+    }
+  ]
+}

@@ -1,0 +1,228 @@
+{{Thông tin đơn vị hành chính Việt Nam |Phường
+| tên = Đại Mỗ
+| hình =Đại lộ Thăng Long - NKS.jpg 
+| ghi chú hình =Đại lộ Thăng Long đoạn qua địa bàn phường 
+| vĩ độ = 20.990007891754654
+| kinh độ = 105.78514839374161
+| diện tích = 8,1 km²
+| dân số = 80.462 người
+| thời điểm dân số = 2025
+| mật độ dân số = {{formatnum:{{#expr:floor({{formatnum:80.462| R}}/{{formatnum:8,1| R}})}} }} người/km²
+| vùng = [[Đồng bằng sông Hồng]]
+| thành phố = [[Hà Nội]]
+| trụ sở UBND = Số 76 đường Trung Văn<ref>{{Chú thích web |url=https://storage-vnportal.vnpt.vn/gov-hni/6244/VanBan/2025/6/25/TB-729-2025.pdf |title=Thông báo số 729/TB-UBND ngày 25 tháng 6 năm 2025 của Ủy ban nhân dân thành phố Hà Nội về địa điểm trụ sở làm việc của 126 phường, xã sau sắp xếp thuộc phạm vi quản lý của thành phố Hà Nội|access-date=2026-06-15 |archive-date=2026-06-15 |archive-url=https://web.archive.org/web/20260615034519/https://storage-vnportal.vnpt.vn/gov-hni/6244/VanBan/2025/6/25/TB-729-2025.pdf |url-status=dead | website = Cổng Thông tin điện tử Ủy ban nhân dân thành phố Hà Nội}}</ref>
+| mã hành chính =00637<ref>{{Chú thích web |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/19ttg.signed.pdf |title=Quyết định số 19/2025/QĐ-TTg ngày 30 tháng 6 năm 2025 của Thủ tướng Chính phủ về việc Ban hành Bảng danh mục và mã số các đơn vị hành chính Việt Nam |access-date=2026-06-15 |archive-date=2026-06-15 |archive-url=https://web.archive.org/web/20260615034519/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/19ttg.signed.pdf |url-status=dead | website = Cổng Thông tin điện tử Chính phủ}}</ref> 
+| web = {{url|daimo.hanoi.gov.vn}}
+|trụ sở Đảng ủy=Số 76 đường Trung Văn|bản đồ 1={{maplink|frame=yes|plain=yes|type=shape|frame-width=280|frame-align=center|stroke-width=3}}}}
+
+'''Đại Mỗ''' là một [[Phường (Việt Nam)|phường]] thuộc thành phố [[Hà Nội]], [[Việt Nam]].
+
+== Địa lý== 
+Phường Đại Mỗ có vị trí địa lý: 
+* Phía đông giáp phường [[Yên Hòa (phường)|Yên Hòa]] và phường [[Thanh Xuân (phường)|Thanh Xuân]] (ranh giới đi theo đường Khuất Duy Tiến – phố Tố Hữu – đường Lương Thế Vinh)
+* Phía tây giáp phường [[Tây Mỗ]] và phường [[Dương Nội]] (ranh giới đi theo phố Sa Đôi – đường Nội – phố Nguyễn Văn Luyện)
+* Phía nam giáp phường [[Hà Đông (phường)|Hà Đông]] và phường [[Thanh Liệt]] (ranh giới đi theo ranh giới cấp quận cũ – phố Tố Hữu – đường giao thông quy hoạch – phố Trần Phú)
+* Phía bắc giáp phường [[Từ Liêm (phường)|Từ Liêm]] (ranh giới đi theo [[Đại lộ Thăng Long|cao tốc Láng – Hòa Lạc]]).<ref>{{Chú thích web |last=Báo Điện tử Chính phủ |date=2025-04-28 |title=Chi tiết dự thảo phương án sắp xếp các phường của Hà Nội |url=https://xaydungchinhsach.chinhphu.vn/chi-tiet-du-thao-phuong-an-sap-xep-cac-phuong-cua-ha-noi-119250421100531902.htm |url-status=dead |archive-url=https://web.archive.org/web/20260316174230/https://xaydungchinhsach.chinhphu.vn/chi-tiet-du-thao-phuong-an-sap-xep-cac-phuong-cua-ha-noi-119250421100531902.htm |archive-date=2026-03-16 |access-date=2026-07-10 |website=Xây dựng chính sách, pháp luật}}</ref><ref>{{Chú thích web |last=Viện nghiên cứu Phát triển kinh tế – xã hội Hà Nội |date=2025-07-02 |title=Phường Đại Mỗ: Những thông tin chi tiết sau sắp xếp |url=https://hanoionline.vn/phuong-dai-mo-nhung-thong-tin-chi-tiet-sau-sap-xep-344071.htm |url-status=dead |archive-url=https://web.archive.org/web/20260807400809/https://hanoionline.vn/phuong-dai-mo-nhung-thong-tin-chi-tiet-sau-sap-xep-344071.htm |archive-date=2026-08-07 |access-date=2026-08-07 |website=Cơ quan Báo và Phát thanh Truyền hình Hà Nội}}</ref><ref>{{Chú thích web |last=Cơ quan Báo và Phát thanh Truyền hình Hà Nội |date=2025-07-08 |title=Phường Đại Mỗ: Tất cả thông tin chỉ dẫn bạn cần biết |url=https://hanoionline.vn/phuong-dai-mo-tat-ca-thong-tin-chi-dan-ban-can-biet-344788.htm |url-status=dead |archive-url=https://web.archive.org/web/20260807401509/https://hanoionline.vn/phuong-dai-mo-tat-ca-thong-tin-chi-dan-ban-can-biet-344788.htm |archive-date=2026-08-07 |access-date=2026-08-07}}</ref>
+Phường Đại Mỗ có diện tích tự nhiên là 8,1&nbsp;km<sup>2</sup>, quy mô dân số năm 2025 là 80.462 người và mật độ dân số đạt 9.933 người/km<sup>2</sup>.<ref>{{Chú thích web |last=Mai Hữu |date=2026-04-05 |title=Hà Nội: Chi tiết phương án tổng thể sắp xếp đơn vị hành chính cấp xã |url=https://hanoimoi.vn/ha-noi-chi-tiet-phuong-an-tong-the-sap-xep-don-vi-hanh-chinh-cap-xa-700278.html |url-status=bot: unknown |archive-url=https://web.archive.org/web/20250710163328/https://hanoimoi.vn/ha-noi-chi-tiet-phuong-an-tong-the-sap-xep-don-vi-hanh-chinh-cap-xa-700278.html |archive-date=2025-07-10 |access-date=2026-07-08 |website=Cơ quan Báo và Phát thanh, truyền hình Hà Nội}}</ref><ref>Công văn số 2896/BNV-CQĐP ngày 27 tháng 5 năm 2025 của Bộ Nội vụ về việc cung cấp thông tin danh mục dự kiến đơn vị hành chính cấp xã mới.</ref>
+
+== Lịch sử==
+
+=== Trước năm 1976 ===
+Trước đây, Đại Mỗ là một xã thuộc huyện [[Từ Liêm (huyện)|Từ Liêm]] cũ, được thành lập vào ngày [[19 tháng 2]] năm [[1964]] trên cơ sở tách một phần diện tích và dân số của xã Hữu Hưng cũ.<ref>{{Chú thích web| url = https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-73-NV-chia-lai-dieu-chinh-dia-gioi-mot-so-xa-o-ngoai-thanh-Ha-noi-19659.aspx| tựa đề = Quyết định 73-NV năm 1964 về việc chia lại và điều chỉnh địa giới một số xã ở ngoại thành Hà Nội| tác giả = | họ = | tên = | ngày = | website = | url lưu trữ = | ngày lưu trữ = | ngày truy cập = }}</ref>
+
+Khi mới thành lập, xã Đại Mỗ có 4 thôn: Đại Mỗ, An Thái, Giao Quang và Ngọc Trục.
+
+=== Giai đoạn 1976 – nay ===
+Sau ngày 2 tháng 7 năm 1976, xã Nhân Chính thuộc huyện [[Từ Liêm (huyện)|Từ Liêm]] của thành phố [[Hà Nội]]; tiểu khu Yết Kiêu và xã Văn Yên thuộc thị xã [[Hà Đông (quận)|Hà Đông]]; xã Dương Nội thuộc huyện [[Hoài Đức (huyện)|Hoài Đức]] của tỉnh [[Hà Sơn Bình]].
+
+Ngày 29 tháng 12 năm 1978, sáp nhập huyện [[Hoài Đức (huyện)|Hoài Đức]] và thị xã [[Hà Đông (quận)|Hà Đông]] của tỉnh [[Hà Sơn Bình]] vào thành phố [[Hà Nội]]. Khi đó, xã Dương Nội thuộc huyện [[Hoài Đức (huyện)|Hoài Đức]] của thành phố [[Hà Nội]].<ref>Nghị quyết ngày 29 tháng 12 năm 1978 của Quốc hội khóa VI, Kỳ họp thứ 4 phê chuẩn việc phân vạch lại địa giới thành phố Hà Nội, thành phố Hồ Chí Minh, các tỉnh Hà Sơn Bình, Vĩnh Phú, Cao Lạng, Bắc Thái, Quảng Ninh và Đồng Nai.</ref>
+
+Ngày 3 tháng 1 năm 1981, từ nay các đơn vị hành chính cơ sở ở nội thành, nội thị của các [[Thành phố thuộc tỉnh (Việt Nam)|thành phố thuộc tỉnh]], [[Thị xã (Việt Nam)|thị xã]] và [[Quận (Việt Nam)|quận]] gọi là [[Phường (Việt Nam)|phường]]. Khi đó, phường Yết Kiêu thuộc thị xã [[Hà Đông (quận)|Hà Đông]].<ref>Quyết định số 3-CP ngày 3 tháng 1 năm 1981 của Hội đồng Chính phủ về việc thống nhất tên gọi các đơn vị hành chính ở nội thành nội thị.</ref>
+
+Ngày 12 tháng 8 năm 1991, chia tỉnh [[Hà Sơn Bình]] thành 2 tỉnh, lấy tên là tỉnh [[Hòa Bình (tỉnh)|Hòa Bình]] và tỉnh [[Hà Tây (tỉnh)|Hà Tây]]. Chuyển huyện [[Hoài Đức (huyện)|Hoài Đức]] của thành phố [[Hà Nội]] về tỉnh [[Hà Tây (tỉnh)|Hà Tây]]. Khi đó, phường Yết Kiêu và xã Văn Yên thuộc thị xã [[Hà Đông (quận)|Hà Đông]]; xã Dương Nội thuộc huyện [[Hoài Đức (huyện)|Hoài Đức]] của tỉnh [[Hà Tây (tỉnh)|Hà Tây]].<ref>Nghị quyết ngày 12 tháng 8 năm 1991 của Quốc hội khóa VIII, Kỳ họp thứ 9 về việc điều chỉnh địa giới hành chính một số tỉnh, thành phố trực thuộc Trung ương.</ref>
+
+Ngày 23 tháng 6 năm 1994, thành lập phường Văn Mỗ (thị xã [[Hà Đông (quận)|Hà Đông]]) trên cơ sở các thôn Văn Quán, Mỗ Lao (của xã Văn Yên) và phố Trần Phú của phường Yết Kiêu.<ref>{{Chú thích web |title=Nghị định số 52-CP ngày 23 tháng 6 năm 1994 của Chính phủ về việc điều chỉnh địa giới huyện và thành lập thị trấn, phường thuộc các huyện Hoài Đức, Chương Mỹ, Thạch Thất, Thanh Oai, thị xã Hà Đông, tỉnh Hà Tây |url=https://chinhphu.vn/default.aspx?pageid=27160&docid=2281 |url-status=dead |archive-url=https://web.archive.org/web/20260804201510/https://chinhphu.vn/default.aspx?pageid=27160&docid=2281 |archive-date=2026-08-04 |access-date=2026-08-04 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+
+Ngày 22 tháng 11 năm 1996:
+
+* Tách toàn bộ diện tích tự nhiên và nhân khẩu của xã Nhân Chính (huyện [[Từ Liêm (huyện)|Từ Liêm]]) về quận [[Thanh Xuân (quận)|Thanh Xuân]] mới thành lập.
+* Phường Nhân Chính được thành lập trên cơ sở toàn bộ diện tích tự nhiên và nhân khẩu của xã Nhân Chính.<ref>{{Chú thích web |title=Nghị định số 74-CP ngày 22 tháng 11 năm 1996 của Chính phủ về việc thành lập quận Thanh Xuân, quận Cầu Giấy, thành lập và đổi tên một số phường thuộc thành phố Hà Nội |url=https://chinhphu.vn/default.aspx?pageid=27160&docid=3229 |url-status=dead |archive-url=https://web.archive.org/web/20260829201510/https://chinhphu.vn/default.aspx?pageid=27160&docid=3229 |archive-date=2026-08-29 |access-date=2026-08-29 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+
+Ngày 4 tháng 1 năm 2006, chuyển toàn bộ xã Dương Nội thuộc huyện [[Hoài Đức (huyện)|Hoài Đức]] về thị xã [[Hà Đông (quận)|Hà Đông]] quản lý.<ref>Nghị định số 1/2006/NĐ-CP ngày 4 tháng 1 năm 2006 của Chính phủ về việc điều chỉnh địa giới hành chính, mở rộng thị xã Hà Đông, tỉnh Hà Tây.</ref>
+
+Ngày 27 tháng 12 năm 2006, thành lập thành phố [[Hà Đông (quận)|Hà Đông]] trên cơ sở toàn bộ diện tích tự nhiên, dân số và các đơn vị hành chính trực thuộc của thị xã [[Hà Đông (quận)|Hà Đông]]. Khi đó, phường Văn Mỗ và xã Dương Nội thuộc thành phố [[Hà Đông (quận)|Hà Đông]].<ref name="ND155">{{Chú thích web |tựa đề=Nghị định số 155/2006/NĐ-CP ngày 27 tháng 12 năm 2006 của Chính phủ về việc thành lập thành phố Hà Đông thuộc tỉnh Hà Tây |url=https://chinhphu.vn/default.aspx?pageid=27160&docid=18995 |url-status=dead |archive-url=https://web.archive.org/web/20260804201510/https://chinhphu.vn/default.aspx?pageid=27160&docid=18995 |archive-date=2026-08-04 |access-date=2026-08-04 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+
+Ngày 1 tháng 3 năm 2008, thành lập phường Mộ Lao (thành phố [[Hà Đông (quận)|Hà Đông]]) trên cơ sở 126,3 ha diện tích tự nhiên và 14.105 nhân khẩu còn lại của phường Văn Mỗ.<ref>{{Chú thích web |title=Nghị định số 23/2008/NĐ-CP ngày 1 tháng 3 năm 2008 của Chính phủ về việc điều chỉnh địa giới hành chính xã, phường, để thành lập phường thuộc thành phố Hà Đông, thành phố Sơn Tây, tỉnh Hà Tây |url=https://chinhphu.vn/default.aspx?pageid=27160&docid=59294 |url-status=dead |archive-url=https://web.archive.org/web/20260809201510/https://chinhphu.vn/default.aspx?pageid=27160&docid=59294 |archive-date=2026-08-09 |access-date=2026-08-09 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+
+Ngày 29 tháng 5 năm 2008, hợp nhất tỉnh [[Hà Tây (tỉnh)|Hà Tây]] vào thành phố [[Hà Nội]]. Khi đó, phường Mộ Lao và xã Dương Nội thuộc thành phố [[Hà Đông (quận)|Hà Đông]] của thành phố [[Hà Nội]].<ref>Nghị quyết số 15/2008/QH12 ngày 29 tháng 5 năm 2008 của Quốc hội khóa XII, Kỳ họp thứ 3 về việc điều chỉnh địa giới hành chính thành phố Hà Nội và một số tỉnh có liên quan.</ref>
+
+Ngày 8 tháng 5 năm 2009:
+
+* Thành lập quận [[Hà Đông (quận)|Hà Đông]] trên cơ sở thành phố [[Hà Đông (quận)|Hà Đông]].
+* Thành lập phường Dương Nội trên cơ sở xã Dương Nội.<ref name="NQ19">{{Chú thích web |tác giả= |họ= |tên= |ngày= |tựa đề=Nghị quyết số 19/NQ-CP ngày 8 tháng 5 năm 2009 của Chính phủ về việc xác lập địa giới hành chính xã Đông Xuân thuộc huyện Quốc Oai; các xã Tiến Xuân, Yên Bình, Yên Trung thuộc huyện Thạch Thất; huyện Mê Linh thuộc thành phố Hà Nội; thành lập quận Hà Đông và các phường trực thuộc; chuyển thành phố Sơn Tây thành thị xã Sơn Tây thuộc thành phố Hà Nội |url=https://chinhphu.vn/default.aspx?pageid=27160&docid=86463 |url-status=dead |url lưu trữ=https://web.archive.org/web/20260808201510/https://chinhphu.vn/default.aspx?pageid=27160&docid=86463 |ngày lưu trữ=2026-08-08 |ngày truy cập=2026-08-08 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+
+Ngày [[27 tháng 12]] năm [[2013]], Chính phủ ban hành Nghị quyết số 132/NQ-CP. Theo đó, thành lập phường Đại Mỗ thuộc quận Nam Từ Liêm trên cơ sở toàn bộ 498,19 ha diện tích tự nhiên và 26.741 người của xã Đại Mỗ.
+
+Ngày 16 tháng 6 năm 2025:
+
+* Kết thúc hoạt động của đơn vị hành chính cấp huyện trong cả nước.<ref>{{Chú thích web |last= |date= |title=Nghị quyết số 203/2025/QH15 ngày 16 tháng 6 năm 2025 của Quốc hội khóa XV, Kỳ họp thứ 9 về việc sửa đổi, bổ sung một số điều của Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/nq-sua-doi-hien-phap.pdf |url-status=live |archive-url=https://web.archive.org/web/20260613090807/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/nq-sua-doi-hien-phap.pdf |archive-date=2026-06-13 |access-date=2026-06-13 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+* Sắp xếp một phần diện tích tự nhiên, quy mô dân số của các phường Dương Nội (quận [[Hà Đông (quận)|Hà Đông]]), Đại Mỗ (quận [[Nam Từ Liêm]]), Mộ Lao (quận [[Hà Đông (quận)|Hà Đông]]), phần còn lại của phường Mễ Trì (quận [[Nam Từ Liêm]]), phần còn lại của phường Nhân Chính (quận [[Thanh Xuân (quận)|Thanh Xuân]]) và phường Trung Hòa (quận [[Cầu Giấy (quận)|Cầu Giấy]]), phần còn lại của phường Phú Đô và phần còn lại của phường Trung Văn (quận [[Nam Từ Liêm]]) thành phường mới có tên gọi là phường Đại Mỗ.<ref>{{Chú thích web |title=Nghị quyết số 1656/NQ-UBTVQH15 ngày 16 tháng 6 năm 2025 của Ủy ban Thường vụ Quốc hội về việc sắp xếp các đơn vị hành chính cấp xã của thành phố Hà Nội năm 2025 |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf |url-status=live |archive-url=https://web.archive.org/web/20260630400809/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf |archive-date=2026-06-30 |access-date=2026-06-30 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+* Sau khi sắp xếp, phường Đại Mỗ được chia thành 35 tổ dân phố.<ref>6 tổ dân phố: 1, 2 Ngọc Trục, 12, 13, Liên Cơ và Ngọc Đại của phường Đại Mỗ cũ; 2 tổ dân phố: 12 và 17 của phường Mộ Lao cũ; 3 tổ dân phố: 1, Ecolife và Vinhomes Greenbay của phường Mễ Trì cũ; tổ dân phố 37 của phường Nhân Chính cũ; 3 tổ dân phố: 24, 24A và 24B của phường Trung Hòa cũ; 20 tổ dân phố, đánh số từ 1 đến 19 và 21 của phường Trung Văn cũ.</ref><ref>{{Chú thích web |title=Thông tư số 10/2022/TT-BTNMT ngày 29 tháng 9 năm 2022 của Bộ Tài nguyên và Môi trường về việc Ban hành Danh mục địa danh dân cư, sơn văn, thủy văn, kinh tế – xã hội phục vụ công tác thành lập bản đồ thành phố Hà Nội |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2022/10/10-btnmt.pdf |url-status=live |archive-url=https://web.archive.org/web/20260630400809/https://datafiles.chinhphu.vn/cpp/files/vbpq/2022/10/10-btnmt.pdf |archive-date=2026-06-30 |access-date=2026-06-30 |website=Cổng Thông tin điện tử Chính phủ}}</ref><ref>{{Chú thích web |last= |date= |title=Nghị quyết số 23/NQ-UBBC ngày 12 tháng 2 năm 2026 của Ủy ban bầu cử phường Đại Mỗ về công bố danh sách chính thức những người ứng cử đại biểu Hội đồng nhân dân phường Đại Mỗ khóa II nhiệm kỳ 2026 – 2031 theo từng đơn vị bầu cử |url=https://daimo.hanoi.gov.vn/bau-cu-2026/nghi-quyet-ve-viec-cong-bo-danh-sach-chinh-thuc-nhung-nguoi-ung-cu-dai-bieu-hdnd-phuong-dai-mo-khoa-ii-nhiem-ky-2026-2031-2804260227112613995.htm?gidzl=o2GcJB4C94lCEo9AknGWJiOq946d7YfEqM8lIFmTAngBOYuKfnXw4TusAKBm6ITCtJKa63HF6JSsj0qWIG |url-status=dead |archive-url=https://web.archive.org/web/20260812201510/https://daimo.hanoi.gov.vn/bau-cu-2026/nghi-quyet-ve-viec-cong-bo-danh-sach-chinh-thuc-nhung-nguoi-ung-cu-dai-bieu-hdnd-phuong-dai-mo-khoa-ii-nhiem-ky-2026-2031-2804260227112613995.htm?gidzl=o2GcJB4C94lCEo9AknGWJiOq946d7YfEqM8lIFmTAngBOYuKfnXw4TusAKBm6ITCtJKa63HF6JSsj0qWIG |archive-date=2026-08-12 |access-date=2026-08-12 |website=Trang Thông tin điện tử phường Đại Mỗ – thành phố Hà Nội}}</ref>
+Ngày 24 tháng 12 năm 2025, xác định phường Đại Mỗ là [[Đô thị Việt Nam|đô thị loại II]].<ref>Chuyển tiếp từ phường Trung Hòa thuộc quận Cầu Giấy, 2 phường: Dương Nội, Mộ Lao thuộc quận Hà Đông, 4 phường: Đại Mỗ, Mễ Trì, Phú Đô, Trung Văn thuộc quận Nam Từ Liêm và phường Nhân Chính thuộc quận Thanh Xuân.</ref><ref>{{Chú thích web |title=Nghị quyết số 111/2025/UBTVQH15 ngày 24 tháng 12 năm 2025 của Ủy ban Thường vụ Quốc hội về phân loại đô thị |url=https://cdn.nhandan.vn/files/f4a4abf7f9a0ba4a91744616546d850872b76917f90d5a74cc9eebef1369fb6f/111.pdf |url-status=dead |archive-url=https://web.archive.org/web/20260712401509/https://cdn.nhandan.vn/files/f4a4abf7f9a0ba4a91744616546d850872b76917f90d5a74cc9eebef1369fb6f/111.pdf |archive-date=2026-07-12 |access-date=2026-07-12 |website=Báo Nhân dân}}</ref>
+
+Ngày 29 tháng 6 năm 2026, thành lập 14 tổ dân phố mới: 1 Trung Văn, 1, 2 Phùng Khoang, 2, 5, 18, 10, 3 Trung Văn, 1 Mễ Trì, Nhân Chính, 1 Trung Hòa, Liên Cơ, Ngọc Đại và 1 Ngọc Trục; đổi tên 10 tổ dân phố: 12, 16, 17, 21 Trung Văn, Vinhomes Greenbay Mễ Trì, 24B Trung Hòa, 12, 13 Đại Mỗ, 12, 17 Mộ Lao lần lượt thành 10 tổ dân phố: 4, 6, 7, 9 Trung Văn, Vinhomes Greenbay, 2 Trung Hòa, 1, 2 Đại Mỗ, 1 và 2 Mộ Lao.<ref name=":1">1. Tổ dân phố số 1 Trung Văn: Sáp nhập nguyên trạng Tổ dân phố số 1 Trung Văn và Tổ dân phố số 2 Trung Văn; 2. Tổ dân phố số 1 Phùng Khoang: Sáp nhập nguyên trạng Tổ dân phố số 3 Trung Văn và Tổ dân phố số 4 Trung Văn; 3. Tổ dân phố số 2 Phùng Khoang: Cơ bản giữ nguyên (bổ sung một phần diện tích khu tập thể Địa chất, 50 hộ gia đình từ tổ dân phố số 11 Trung Văn); 4. Tổ dân phố số 2 Trung Văn: Sáp nhập nguyên trạng Tổ dân phố số 6 Trung Văn, Tổ dân phố số 8 Trung Văn, Tổ dân phố số 9 Trung Văn, Tổ dân phố số 10 Trung Văn và Tổ dân phố số 19 Trung Văn; 5. Tổ dân phố số 4 Trung Văn: Giữ nguyên Tổ dân phố 12 Trung Văn; 6. Tổ dân phố số 5 Trung Văn: Sáp nhập nguyên trạng Tổ dân phố 14 Trung Văn và Tổ dân phố 15 Trung Văn; 7. Tổ dân phố số 6 Trung Văn: Giữ nguyên Tổ dân phố 16 Trung Văn; 8. Tổ dân phố số 7 Trung Văn: Giữ nguyên Tổ dân phố 17 Trung Văn; 9. Tổ dân phố số 8 Trung Văn: Cơ bản giữ nguyên (tách một phần diện tích Khu tập thể X49, 20 hộ gia đình về tổ dân phố Liên Cơ); 10. Tổ dân phố số 9 Trung Văn: Giữ nguyên Tổ dân phố 21 Trung Văn; 11. Tổ dân phố Vinhomes Greenbay: Giữ nguyên Tổ dân phố Vinhomes Greenbay Mễ Trì; 12. Tổ dân phố số 10 Trung Văn: Sắp xếp Tổ dân phố Ecolife Mễ Trì và một phần Tổ dân phố số 7 Trung Văn, một phần Tổ dân phố số 1 Mễ Trì; 13. Tổ dân phố số 3 Trung Văn: Sáp nhập Tổ dân phố số 11 Trung Văn, Tổ dân phố số 13 Trung Văn và một phần Tổ dân phố số 7 Trung Văn (68 hộ khu dân cư ngõ 385 đường Lương Thế Vinh); 14. Tổ dân phố số 1 Mễ Trì: Cơ bản giữ nguyên, tách một phần diện tích Khu giáp đường hồ Mễ Trì, 37 hộ về tổ dân phố số 37 Nhân Chính, tách một phần diện tích khu mặt đường Lương Thế Vinh, 45 hộ về tổ dân phố Ecolife, tách một phần diện tích Trụ sở Công ty Viglacera và khu dân cư liền kề (khu dãy Xoan cũ), 14 hộ về tổ dân phố số 24 Trung Hòa; 15. Tổ dân phố Nhân Chính: Sắp xếp Tổ dân phố số 37 Nhân Chính và một phần Tổ dân phố số 7 Trung Văn, một phần Tổ dân phố số 1 Mễ Trì; 16. Tổ dân phố số 1 Trung Hòa: Sáp nhập nguyên trạng Tổ dân phố số 24 Trung Hòa, Tổ dân phố số 24A Trung Hòa và một phần Tổ dân phố 1 Mễ Trì (tòa nhà Viglacera và 14 hộ gia đình liền kề); 17. Tổ dân phố số 2 Trung Hòa: Giữ nguyên Tổ 24B Trung Hòa; 18. Tổ dân phố Liên Cơ: Cơ bản giữ nguyên (bổ sung một phần diện tích Khu tập thể X49, 20 hộ gia đình từ tổ dân phố số 18 Trung Văn); 19. Tổ dân phố Ngọc Đại: Cơ bản giữ nguyên (tách một phần diện tích của khu đất 26 hộ đầu phố Ngọc Trục sang tổ dân phố số 1 Ngọc Trục); 20. Tổ dân phố số 2 Ngọc Trục: Giữ nguyên Tổ dân phố số 2 Ngọc Trục; 21. Tổ dân phố số 1 Ngọc Trục: Cơ bản giữ nguyên (bổ sung một phần diện tích của khu đất 26 hộ đầu phố Ngọc Trục từ Tổ dân phố Ngọc Đại); 22. Tổ dân phố số 1 Đại Mỗ: Giữ nguyên Tổ dân phố số 12 Đại Mỗ; 23. Tổ dân phố số 2 Đại Mỗ: Giữ nguyên Tổ dân phố số 13 Đại Mỗ; 24. Tổ dân phố số 1 Mộ Lao: Giữ nguyên Tổ dân phố 12 Mộ Lao; 25. Tổ dân phố số 2 Mộ Lao: Giữ nguyên Tổ dân phố 17 Mộ Lao.</ref><ref name=":0">{{Chú thích web |last= |date= |title=Đề án ngày 12 tháng 6 năm 2026 của Ủy ban nhân dân phường Đại Mỗ về việc sắp xếp tổ dân phố trên địa bàn phường Đại Mỗ, thành phố Hà Nội |url=https://sqhx-hanoi.mediacdn.vn/91579363132710912/2026/6/17/de-an-sap-xep-ban-lay-y-kien-nhan-dan-17816636034791470981894.pdf |url-status=dead |archive-url=https://web.archive.org/web/20260812201510/https://sqhx-hanoi.mediacdn.vn/91579363132710912/2026/6/17/de-an-sap-xep-ban-lay-y-kien-nhan-dan-17816636034791470981894.pdf |archive-date=2026-08-12 |access-date=2026-08-12 |website=Ban Xây dựng Đảng phường Đại Mỗ – thành phố Hà Nội}}</ref><ref name=":2">{{Chú thích web |last=Trọng Hùng – Xuân Huy |date=2026-07-01 |title=Phường Đại Mỗ tinh gọn tổ dân phố, nâng cao hiệu quả quản trị ở cơ sở |url=https://hanoimoi.vn/phuong-dai-mo-tinh-gon-to-dan-pho-nang-cao-hieu-qua-quan-tri-o-co-so-1210191.html?gidzl=Na_88ho-kH1QKCmajgQz5L1VpIEghB0PHmd6Al6liKqT2STsgghWHaXTm23zgxqRIrxDUZJKm4G3kR-z4W |url-status=dead |archive-url=https://web.archive.org/web/20260812201510/https://hanoimoi.vn/phuong-dai-mo-tinh-gon-to-dan-pho-nang-cao-hieu-qua-quan-tri-o-co-so-1210191.html?gidzl=Na_88ho-kH1QKCmajgQz5L1VpIEghB0PHmd6Al6liKqT2STsgghWHaXTm23zgxqRIrxDUZJKm4G3kR-z4W |archive-date=2026-08-12 |access-date=2026-08-12 |website=Cơ quan Báo và Phát thanh, truyền hình Hà Nội}}</ref><!-- 
+== Lịch sử== 
+Trước năm 1996, Nhân Chính là một xã thuộc huyện [[Từ Liêm (huyện)| Từ Liêm]] cũ. Từ ngày [[22 tháng 11]] năm [[1996]], xã Nhân Chính trở thành một phường thuộc quận Thanh Xuân.<ref name = 74-CP>{{Chú thích web| url = https://thuvienphapluat.vn/van-ban/Bat-dong-san/Nghi-dinh-74-CP-thanh-lap-quan-Thanh-Xuan-quan-Cau-Giay-thanh-lap-va-doi-ten-mot-so-phuong-thuoc-thanh-pho-Ha-Noi-40215.aspx| title = Nghị định 74-CP năm 1996 về việc thành lập quận Thanh Xuân, quận Cầu Giấy, thành lập và đổi tên một số phường thuộc thành phố Hà Nội| last = | first = | date = | website = | archive-url = | archive-date = | url-status = | access-date = }}</ref>
+
+== Địa điểm==
+
+* Trung tâm Mỹ thuật - [[Đài Truyền hình Việt Nam]]
+
+== Di tích== 
+=== Đình Cự Chính=== 
+Đình Cự Chính hay đình Con Cóc thờ Thành hoàng là tướng quân Lã Đại Liệu thời [[Ngô Quyền]] và con trai ông là sứ quân [[Lã Đường| Lã Tá Đường]], một thủ lĩnh thời [[12 sứ quân]] chiếm đóng tại vùng Tế Giang nay thuộc [[Văn Giang]] - Hưng Yên.<ref>{{Chú thích web | url = https://chanphom.com/threads/dinh-lang-cu-chinh.7923/ | ngày lưu trữ = 2016-11-03 | ngày truy cập = 2016-11-01 | tiêu đề = Đình Làng Cự Chính | archive-url = https://web.archive.org/web/20161103220209/https://chanphom.com/threads/dinh-lang-cu-chinh.7923/ | url-status = dead }}</ref>
+
+Lã Đại Liệu quê ở Tế Giang, huyện Văn Lâm, [[Hưng Yên]]. Ông vốn là người võ nghệ siêu quần, được mệnh danh là đại đô vật, hô phong hoán vũ. Ông là bộ tướng thứ 7 của [[Trần Lãm]] dưới thời Ngô Vương, đánh đuổi giặc Nam Hán, dẹp phản loạn tiếm nghịch triều đình.
+
+Khi [[nhà Ngô]] tan rã, [[Lã Đường]] phát triển lực lượng, trở thành một trong [[12 sứ quân]], chiếm cứ miền Tế Giang (nay thuộc huyện [[Văn Giang]], tỉnh [[Hưng Yên]]). Do có công chiêu dân lập làng Cự Chính mà [[Lã Đường]] được nhân dân phường Nhân Chính tôn thờ tại đình làng cùng với cha mình.
+
+== Lịch sử== 
+Dưới thời [[nhà Nguyễn]], Mộ Lao (Mỗ Lao) vốn là một làng thuộc tổng Thiên Mỗ, huyện [[Từ Liêm (huyện)| Từ Liêm]], phủ Quốc Oai, trấn [[Sơn Tây trấn| Sơn Tây]]. Đến năm 1831, huyện Từ Liêm chuyển về thuộc phủ Hoài Đức, tỉnh [[Hà Nội (tỉnh)| Hà Nội]].
+
+Sau năm 1945, làng Mộ Lao cùng với các làng Văn Quán, Cầu Đơ, Hà Trì được sáp nhập vào thị xã Hà Đông. Lúc này, Mộ Lao trở thành một thôn ngoại thị của thị xã.
+
+Năm 1965, thôn Mộ Lao sáp nhập với 3 thôn Văn Quán, Yên Phúc, Xa La để thành lập xã Văn Yên thuộc thị xã Hà Đông.
+
+Ngày [[23 tháng 6]] năm [[1994]], Chính phủ ban hành Nghị định 52-CP<ref>{{Chú thích web| url = https://thuvienphapluat.vn/van-ban/Bat-dong-san/Nghi-dinh-52-CP-dieu-chinh-dia-gioi-huyen-va-lap-thi-tran-phuong-thuoc-huyen-Hoai-Duc-Chuong-My-Thach-That-Thanh-Oai-thi-xa-Ha-Dong-tinh-Ha-Tay-38810.aspx| tựa đề = Nghị định 52-CP năm 1994 về việc điều chỉnh địa giới huyện và thành lập thị trấn, phường thuộc các huyện Hoài Đức, Chương Mỹ, Thạch Thất, Thanh Oai, thị xã Hà Đông, tỉnh Hà Tây| tác giả = | họ = | tên = | ngày = | website = | url lưu trữ = | ngày lưu trữ = | ngày truy cập = }}</ref>. Theo đó, giải thể xã Văn Yên để thành lập hai phường Văn Mỗ và Phúc La.
+
+Phường Văn Mỗ gồm có các thôn Văn Quán, Mỗ Lao thuộc xã Văn Yên cũ và phố Trần Phú của phường Yết Kiêu với 266,96 ha diện tích tự nhiên và 13.703 người.
+
+Ngày [[27 tháng 12]] năm [[2006]], phường Văn Mỗ thuộc thành phố Hà Đông mới thành lập.
+
+Ngày [[1 tháng 3]] năm [[2008]], Chính phủ ban hành Nghị định 23/2008/NĐ-CP<ref name = "23/2008/NĐ-CP">{{Chú thích web| url = https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/Nghi-dinh-23-2008-ND-CP-dieu-chinh-dia-gioi-hanh-chinh-xa-phuong-de-thanh-lap-phuong-thuoc-thanh-pho-Ha-Dong-Son-Tay-tinh-Ha-Tay-63236.aspx| tựa đề = Nghị định số 23/2008/NĐ-CP về việc điều chỉnh địa giới hành chính xã, phường, để thành lập phường thuộc thành phố Hà Đông, thành phố Sơn Tây, tỉnh Hà Tây| tác giả = | họ = | tên = | ngày = | website = | url lưu trữ = | ngày lưu trữ = | ngày truy cập = }}</ref>. Theo đó, chia phường Văn Mỗ thành hai phường Văn Quán và Mộ Lao.
+
+Phường Mộ Lao có 126,3 ha diện tích tự nhiên, dân số là 14.105 người.
+
+Ngày [[8 tháng 5]] năm [[2009]], quận Hà Đông được thành lập trên cơ sở toàn bộ diện tích và dân số của thành phố Hà Đông, phường Mộ Lao thuộc quận Hà Đông cho đến nay.
+
+== Lịch sử== 
+Phường Phú Đô được thành lập vào ngày [[27 tháng 12]] năm [[2013]] trên cơ sở điều chỉnh 239 ha diện tích tự nhiên và 13.856 người của xã [[Mễ Trì]] thuộc huyện [[Từ Liêm (huyện)| Từ Liêm]] cũ.<ref name = NQ132>{{Chú thích web| url = https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/Nghi-quyet-132-NQ-CP-nam-2013-dieu-chinh-dia-gioi-hanh-chinh-Tu-Liem-Ha-Noi-217666.aspx| tựa đề = Nghị quyết 132/NQ-CP năm 2013 về việc điều chỉnh địa giới hành chính huyện Từ Liêm để thành lập 2 quận và 23 phường thuộc thành phố Hà Nội| tác giả = | họ = | tên = | ngày = | website = | url lưu trữ = | ngày lưu trữ = | ngày truy cập = }}</ref>
+
+== Lịch sử== 
+Trước đây, Trung Văn là một xã thuộc huyện [[Từ Liêm (huyện)| Từ Liêm]] cũ.
+
+Ngày [[13 tháng 10]] năm [[1982]], Hội đồng Bộ trưởng ban hành Quyết định 173-HĐBT<ref name = QD173>{{Chú thích web| url = https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-173-HDBT-phan-vach-dia-gioi-phuong-va-thi-tran-thanh-pho-Ha-Noi-43981.aspx| tựa đề = Quyết định 173-HĐBT năm 1982 về việc phân vạch địa giới một số phường và thị trấn thuộc thành phố Hà Nội| tác giả = | họ = | tên = | ngày = | website = | url lưu trữ = | ngày lưu trữ = | ngày truy cập = }}</ref>. Theo đó, điều chỉnh một phần diện tích và dân số của thôn Phùng Khoang thuộc xã Trung Văn để thành lập phường [[Thanh Xuân Bắc]] thuộc quận [[Đống Đa (quận)| Đống Đa]] (nay phường này thuộc quận Thanh Xuân).
+
+Ngày [[27 tháng 12]] năm [[2013]], Chính phủ ban hành Nghị quyết số 132/NQ-CP<ref name = NQ132>{{Chú thích web| url = https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/Nghi-quyet-132-NQ-CP-nam-2013-dieu-chinh-dia-gioi-hanh-chinh-Tu-Liem-Ha-Noi-217666.aspx| tựa đề = Nghị quyết 132/NQ-CP năm 2013 về việc điều chỉnh địa giới hành chính huyện Từ Liêm để thành lập 2 quận và 23 phường thuộc thành phố Hà Nội| tác giả = | họ = | tên = | ngày = | website = | url lưu trữ = | ngày lưu trữ = | ngày truy cập = }}</ref>. Theo đó, thành lập phường Trung Văn thuộc quận Nam Từ Liêm trên cơ sở toàn bộ 277,58 ha diện tích tự nhiên và 29.850 người của xã Trung Văn.
+
+-->
+
+== Hành chính ==
+Phường Đại Mỗ được chia thành 25 tổ dân phố: 1, 2 Đại Mỗ, 1 Mễ Trì, 1, 2 Mộ Lao, 1, 2 Ngọc Trục, 1, 2 Phùng Khoan, 1, 2 Trung Hòa, từ 1 đến 10 Trung Văn, Liên Cơ, Ngọc Đại, Nhân Chính và Vinhomes Greenbay.<ref name=":0" /><ref name=":2" />
+{| class="wikitable sortable" align="center" width="100%" cellspacing="6" cellpadding="0" style="background: #f9f9f9; border: 1px #aaa solid; margin-top: 16px"
+! colspan="4" style="background: #E6E6FA; font-size: 95%;" |Danh sách các tổ dân phố thuộc phường Đại Mỗ<ref name=":0" /><ref name=":2" />
+|-
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |1 Đại Mỗ
+|809
+|-
+| align="left" |2 Đại Mỗ
+|1.214
+|-
+| align="left" |1 Mễ Trì
+|1.456
+|-
+| align="left" |1 Mộ Lao
+|1.365
+|-
+| align="left" |2 Mộ Lao
+|1.470
+|-
+| align="left" |1 Ngọc Trục
+|1.201
+|-
+| align="left" |2 Ngọc Trục
+|966
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |1 Phùng Khoan
+|972
+|-
+| align="left" |2 Phùng Khoan
+|906
+|-
+| align="left" |1 Trung Hòa
+|1.132
+|-
+| align="left" |2 Trung Hòa
+|780
+|-
+| align="left" |1 Trung Văn
+|1.194
+|-
+| align="left" |2 Trung Văn
+|1.243
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |3 Trung Văn
+|704
+|-
+| align="left" |4 Trung Văn
+|841
+|-
+| align="left" |5 Trung Văn
+|1.059
+|-
+| align="left" |6 Trung Văn
+|1.082
+|-
+| align="left" |7 Trung Văn
+|1.447
+|-
+| align="left" |8 Trung Văn
+|1.206
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |9 Trung Văn
+|920
+|-
+| align="left" |10 Trung Văn
+|856
+|-
+| align="left" |Liên Cơ
+|748
+|-
+| align="left" |Ngọc Đại
+|1.945
+|-
+| align="left" |Nhân Chính
+|733
+|-
+| align="left" |Vinhomes Greenbay
+|2.264
+|}
+|}
+
+== Chú thích==
+{{tham khảo| 30em}}
+
+== Tham khảo==
+
+{{sơ khai Hà Nội}}
+{{Đơn vị hành chính thuộc thành phố Hà Nội}}

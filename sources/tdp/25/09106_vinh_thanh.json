@@ -1,0 +1,128 @@
+{
+  "ward_code": "09106",
+  "ward_name": "Vĩnh Thành",
+  "province_code": "25",
+  "resolution": "",
+  "arrangement": "truoc_2026_07",
+  "effective_date": "",
+  "verified": "unverified",
+  "extraction": {
+    "source": "vi.wikipedia.org",
+    "title": "Vĩnh Thành, Phú Thọ",
+    "mode": "narrative"
+  },
+  "sources": [
+    {
+      "key": "wiki-09106-1",
+      "title": "Nghị quyết số 2/NQ-UBBC về việc công bố danh sách những người ứng cử đại biểu Hội đồng nhân dân xã Vĩnh Thành, nhiệm kỳ 2026 - 2031 theo từng đơn vị bầu cử",
+      "url": "https://web.facebook.com/share/p/18pmHhf5cJ/",
+      "date": "2026-02-24",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-09106-2",
+      "title": "Nghị quyết số 1287/NQ-UBTVQH15 của UBTVQH Về việc sắp xếp đơn vị hành chính cấp xã của tỉnh Vĩnh Phúc giai đoạn 2023 – 2025",
+      "url": "https://quochoi.vn/tintuc/Pages/tin-hoat-dong-cua-quoc-hoi.aspx?ItemID=91157",
+      "date": "2026-06-24",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-09106-3",
+      "title": "TOÀN VĂN: Nghị quyết số 202/2025/QH15 về sắp xếp đơn vị hành chính cấp tỉnh",
+      "url": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-202-2025-qh15-ve-sap-xep-don-vi-hanh-chinh-cap-tinh-119250612174148722.htm",
+      "date": "2025-07-16",
+      "type": "wikipedia-ref"
+    }
+  ],
+  "note": "Trích tự động từ Wikipedia tiếng Việt (mode=narrative). Cần đối chiếu nghị quyết HĐND phường/xã. ⚠️ Danh mục có thể là hiện trạng TRƯỚC sắp xếp thôn/TDP 01/7/2026 — Wikipedia chưa cập nhật nghị quyết mới.",
+  "tdp": [
+    {
+      "name": "Bàn Giang",
+      "type": "thôn"
+    },
+    {
+      "name": "Bàn Mạch",
+      "type": "thôn"
+    },
+    {
+      "name": "Bình Trù",
+      "type": "thôn"
+    },
+    {
+      "name": "Cao Xá",
+      "type": "thôn"
+    },
+    {
+      "name": "Chùa",
+      "type": "thôn"
+    },
+    {
+      "name": "Dẫn Tự",
+      "type": "thôn"
+    },
+    {
+      "name": "Diệm Xuân",
+      "type": "thôn"
+    },
+    {
+      "name": "Đan Thượng",
+      "type": "thôn"
+    },
+    {
+      "name": "Đại Định",
+      "type": "thôn"
+    },
+    {
+      "name": "Đình",
+      "type": "thôn"
+    },
+    {
+      "name": "Đông",
+      "type": "thôn"
+    },
+    {
+      "name": "Đồi",
+      "type": "thôn"
+    },
+    {
+      "name": "Đồng Phú",
+      "type": "thôn"
+    },
+    {
+      "name": "Hòa Lạc",
+      "type": "thôn"
+    },
+    {
+      "name": "Loan",
+      "type": "thôn"
+    },
+    {
+      "name": "Mới",
+      "type": "thôn"
+    },
+    {
+      "name": "Nam",
+      "type": "thôn"
+    },
+    {
+      "name": "Phượng Lâu",
+      "type": "thôn"
+    },
+    {
+      "name": "Trung",
+      "type": "thôn"
+    },
+    {
+      "name": "Việt An",
+      "type": "thôn"
+    },
+    {
+      "name": "Việt Hưng",
+      "type": "thôn"
+    },
+    {
+      "name": "Yên Xuyên",
+      "type": "thôn"
+    }
+  ]
+}

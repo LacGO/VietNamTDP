@@ -1,0 +1,120 @@
+{
+  "ward_code": "08338",
+  "ward_name": "Minh Hoà",
+  "province_code": "25",
+  "resolution": "",
+  "arrangement": "truoc_2026_07",
+  "effective_date": "",
+  "verified": "unverified",
+  "extraction": {
+    "source": "vi.wikipedia.org",
+    "title": "Minh Hòa",
+    "mode": "narrative"
+  },
+  "sources": [
+    {
+      "key": "wiki-08338-1",
+      "title": "Nghị quyết số 1/NQ-UBBC về việc công bố danh sách những người ứng cử đại biểu Hội đồng nhân dân xã Minh Hòa, nhiệm kỳ 2026 - 2031 theo từng đơn vị bầu cử",
+      "url": "https://minhhoa.phutho.gov.vn/chuyen-muc/bau-cu-quoc-hoi-va-hdnd-cac-cap/nghi-quyet-ve-viec-cong-bo-danh-sach-nhung-nguoi-ung-cu-dai-bieu-hoi-dong-nhan-dan-xa-minh-hoa-nhiem-ky-2026-2031-theo-tung-don-vi-bau-cu/",
+      "date": "2026-02-24",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-08338-2",
+      "title": "Danh sách Thôn vùng đồng bào dân tộc thiểu số và miền núi, thôn đặc biệt khó khăn giai đoạn 2026 - 2030 trên địa bàn tỉnh Phú Thọ",
+      "url": "http://files.ubdt.gov.vn/files/ecm/source_files/2026/02/05/11252411_4.%20Ph%C3%BA%20Th%E1%BB%8D%201%20(th%C3%B4n).signed_26-02-05.pdf",
+      "date": "2026-01-29",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-08338-3",
+      "title": "NGHỊ QUYẾT 203/2025/QH15 SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA HIẾN PHÁP NƯỚC CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM",
+      "url": "https://xaydungchinhsach.chinhphu.vn/nghi-quyet-203-2025-qh15-sua-doi-bo-sung-mot-so-dieu-cua-hien-phap-nuoc-cong-hoa-xa-hoi-chu-nghia-viet-nam-119250616181735552.htm",
+      "date": "2025-06-28",
+      "type": "wikipedia-ref"
+    }
+  ],
+  "note": "Trích tự động từ Wikipedia tiếng Việt (mode=narrative). Cần đối chiếu nghị quyết HĐND phường/xã. ⚠️ Danh mục có thể là hiện trạng TRƯỚC sắp xếp thôn/TDP 01/7/2026 — Wikipedia chưa cập nhật nghị quyết mới.",
+  "tdp": [
+    {
+      "name": "Đá Bàn 1",
+      "type": "khu"
+    },
+    {
+      "name": "Đá Bàn 2",
+      "type": "khu"
+    },
+    {
+      "name": "Đức Xuân",
+      "type": "khu"
+    },
+    {
+      "name": "Hang Đùng 1",
+      "type": "khu"
+    },
+    {
+      "name": "Hang Đùng 2",
+      "type": "khu"
+    },
+    {
+      "name": "Hạ Hòa",
+      "type": "khu"
+    },
+    {
+      "name": "Hồng Quang",
+      "type": "khu"
+    },
+    {
+      "name": "Minh Đức",
+      "type": "khu"
+    },
+    {
+      "name": "Minh Tiến",
+      "type": "khu"
+    },
+    {
+      "name": "Phú Cường",
+      "type": "khu"
+    },
+    {
+      "name": "Quang Tiến 1",
+      "type": "khu"
+    },
+    {
+      "name": "Quang Tiến 2",
+      "type": "khu"
+    },
+    {
+      "name": "Quyết Tiến",
+      "type": "khu"
+    },
+    {
+      "name": "Sinh Tiến",
+      "type": "khu"
+    },
+    {
+      "name": "Tân Thành 1",
+      "type": "khu"
+    },
+    {
+      "name": "Tân Thành 2",
+      "type": "khu"
+    },
+    {
+      "name": "Tân Thành 3",
+      "type": "khu"
+    },
+    {
+      "name": "Thống Nhất 1",
+      "type": "khu"
+    },
+    {
+      "name": "Thống Nhất 2",
+      "type": "khu"
+    },
+    {
+      "name": "Thống Nhất 3",
+      "type": "khu"
+    }
+  ]
+}

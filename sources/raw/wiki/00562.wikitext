@@ -1,0 +1,366 @@
+{{Thông tin đơn vị hành chính Việt Nam|Xã
+| tên = Thuận An
+| hình =Cờ Nhân Sinh mừng Xuân Tân Tỵ, 2013.png 
+| ghi chú hình =Đền thờ Nguyên phi Ỷ Lan tại xã Thuận An 
+| vĩ độ = 21.026014322951294
+| kinh độ = 105.98778927573312
+| diện tích = 29,67 km²
+| dân số = 68.292 người
+| thời điểm dân số = 2025
+| mật độ dân số = {{formatnum:{{#expr:floor({{formatnum:68.292| R}}/{{formatnum:29,67| R}})}} }} người/km²
+| vùng = [[Đồng bằng sông Hồng]]
+| thành phố = [[Hà Nội]]
+| thành lập = 
+| trụ sở UBND = Đường Dương Đức Hiền, thôn Giao Tự<ref>{{Chú thích web |url=https://storage-vnportal.vnpt.vn/gov-hni/6244/VanBan/2025/6/25/TB-729-2025.pdf |title=Thông báo số 729/TB-UBND ngày 25 tháng 6 năm 2025 của Ủy ban nhân dân thành phố Hà Nội về địa điểm trụ sở làm việc của 126 phường, xã sau sắp xếp thuộc phạm vi quản lý của thành phố Hà Nội|access-date=2026-06-15 |archive-date=2026-06-15 |archive-url=https://web.archive.org/web/20260615034519/https://storage-vnportal.vnpt.vn/gov-hni/6244/VanBan/2025/6/25/TB-729-2025.pdf |url-status=dead | website = Cổng Thông tin điện tử Ủy ban nhân dân thành phố Hà Nội}}</ref>
+| mã hành chính =00562<ref>{{Chú thích web |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/19ttg.signed.pdf |title=Quyết định số 19/2025/QĐ-TTg ngày 30 tháng 6 năm 2025 của Thủ tướng Chính phủ về việc Ban hành Bảng danh mục và mã số các đơn vị hành chính Việt Nam |access-date=2026-06-15 |archive-date=2026-06-15 |archive-url=https://web.archive.org/web/20260615034519/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/19ttg.signed.pdf |url-status=dead | website = Cổng Thông tin điện tử Chính phủ}}</ref> 
+| web = {{url|thuanan.hanoi.gov.vn}}
+|bản đồ 1={{maplink|frame=yes|plain=yes|type=shape|frame-width=280|frame-align=center|stroke-width=3}}|trụ sở Đảng ủy=Đường Dương Đức Hiền, thôn Giao Tự}}
+{{other|Thuận An (định hướng)}}
+'''Thuận An''' là một [[xã]] thuộc thành phố [[Hà Nội]], [[Việt Nam]]. Đây là xã nằm ở cực đông của thành phố [[Hà Nội]].
+
+== Địa lý== 
+Xã Thuận An có vị trí địa lý:
+
+* Phía đông giáp phường [[Trí Quả]] và phường [[Song Liễu]] thuộc tỉnh [[Bắc Ninh]]
+* Phía tây giáp xã [[Gia Lâm, Hà Nội|Gia Lâm]]
+* Phía nam giáp xã [[Như Quỳnh (xã)|Như Quỳnh]] và xã [[Lạc Đạo]] thuộc tỉnh [[Hưng Yên]]
+* Phía bắc giáp xã [[Phù Đổng (xã)|Phù Đổng]] với ranh giới tự nhiên là [[sông Đuống]].<ref>{{Chú thích web|last=Viện nghiên cứu Phát triển kinh tế – xã hội Hà Nội|date=2025-07-02|title=Xã Thuận An: Những thông tin chi tiết sau sắp xếp|url=https://hanoionline.vn/xa-thuan-an-nhung-thong-tin-chi-tiet-sau-sap-xep-344045.htm|url-status=bot: unknown|archive-url=https://web.archive.org/web/20260310003456/https://hanoionline.vn/xa-thuan-an-nhung-thong-tin-chi-tiet-sau-sap-xep-344045.htm|archive-date=2026-03-10|access-date=2026-07-01|website=Cơ quan Báo và Phát thanh Truyền hình Hà Nội}}</ref><ref>{{Chú thích web|last=Cơ quan Báo và Phát thanh Truyền hình Hà Nội|date=2025-07-09|title=Xã Thuận An: Tất cả thông tin chỉ dẫn bạn cần biết|url=https://hanoionline.vn/xa-thuan-an-tat-ca-thong-tin-chi-dan-ban-can-biet-345655.htm|url-status=bot: unknown|archive-url=https://web.archive.org/web/20251003001813/https://hanoionline.vn/xa-thuan-an-tat-ca-thong-tin-chi-dan-ban-can-biet-345655.htm|archive-date=2025-10-03|access-date=2026-07-11}}</ref>
+Xã Thuận An có diện tích tự nhiên là 29,67&nbsp;km<sup>2</sup>, quy mô dân số năm 2025 là 68.292 người và mật độ dân số đạt 2.301 người/km<sup>2</sup>.<ref>{{Chú thích web|last=Mai Hữu|date=2026-04-05|title=Hà Nội: Chi tiết phương án tổng thể sắp xếp đơn vị hành chính cấp xã|url=https://hanoimoi.vn/ha-noi-chi-tiet-phuong-an-tong-the-sap-xep-don-vi-hanh-chinh-cap-xa-700278.html|url-status=bot: unknown|archive-url=https://web.archive.org/web/20250710163328/https://hanoimoi.vn/ha-noi-chi-tiet-phuong-an-tong-the-sap-xep-don-vi-hanh-chinh-cap-xa-700278.html|archive-date=2025-07-10|access-date=2026-07-11|website=Cơ quan Báo và Phát thanh, truyền hình Hà Nội}}</ref><ref>Công văn số 2896/BNV-CQĐP ngày 27 tháng 5 năm 2025 của Bộ Nội vụ về việc cung cấp thông tin danh mục dự kiến đơn vị hành chính cấp xã mới.</ref>
+
+== Lịch sử==
+
+=== Trước năm 1976 ===
+Trong lịch sử, địa bàn xã Thuận An ngày nay lần lượt thuộc các đơn vị hành chính (Vũ Văn Quân, Hồ sơ tư liệu văn hiến Thăng Long tập 9):
+
+- Thời [[Văn Lang]], [[Âu Lạc]]: bộ [[Vũ Ninh (bộ)|Vũ Ninh]]
+
+- Thời Bắc thuộc: huyện [[Long Biên]], quận [[Giao Chỉ]], (phủ) [[Giao Châu]]
+
+- Thời Ngô - Đinh: (vùng) Siêu Loại, đạo Bắc Giang.
+
+- Thời Tiền Lê - Lý: hương Thổ Lỗi, lộ Bắc Giang, năm 1068 [[Lý Thánh Tông]] cho đổi hương Thổ Lỗi thành hương Siêu Loại.
+
+- Thời Trần - Hồ: huyện Siêu Loại, lộ Bắc Giang Hạ.
+
+- Thời thuộc Minh: huyện Siêu Loại, phủ Bắc Giang, Giao
+
+Lệ Chi là vùng đất cổ có hàng nghìn năm lịch sử. Thế kỷ 18 có tên gọi là Tổng Cổ Biện, sau đó là Tổng Cổ Giang, thuộc huyện Gia Lâm, tỉnh Bắc Ninh.
+
+Sau Cách mạng tháng Tám, Lệ Chi được gọi là khu Cổ Giang.
+
+Năm 1947, khu Cổ Giang chia thành xã Hưng Thành và xã Trung Hà.
+
+Năm 1948, sáp nhập xã Hưng Thành và xã Trung Hà thành xã Toàn Thắng.
+
+Ngày 20 tháng 4 năm 1961, Quốc hội ban hành Nghị quyết<ref>Nghị quyết về việc mở rộng thành phố Hà Nội</ref> về việc sáp nhập xã Toàn Thắng vào thành phố Hà Nội quản lý.
+
+Ngày 31 tháng 5 năm 1961, Hội đồng Chính phủ ban hành 78-CP.<ref>Quyết định số 78-CP năm 1961 chia các khu vực nội thành và ngoại thành của Thành phố Hà Nội</ref> Theo đó, xã Toàn Thắng thuộc huyện Gia Lâm, thành phố Hà Nội quản lý.
+
+Tháng 2 năm 1965, đổi tên xã Toàn Thắng thành xã Lệ Chi.<ref name="ĐA">{{chú thích sách| author = UBND huyện Gia Lâm | url = http://gialam.hanoi.gov.vn/documents/291387/8044749/%C4%90%E1%BB%81+%C3%A1n+th%C3%A0nh+l%E1%BA%ADp+qu%C3%A2n+Gia+L%C3%A2m+v%C3%A0+c%C3%A1c+ph%C6%B0%E1%BB%9Dng.pdf/bb4a0fd2-3739-4619-afa8-a0a1f5261e9c| title = Đề án thành lập quận Gia Lâm và các phường thuộc quận Gia Lâm, thành phố Hà Nội | year = 2023 | location = Gia Lâm, Hà Nội | p = 106-107 | url-status = live| archive-url = https://web.archive.org/web/20230812224556/http://gialam.hanoi.gov.vn/documents/291387/8044749/%C4%90%E1%BB%81+%C3%A1n+th%C3%A0nh+l%E1%BA%ADp+qu%C3%A2n+Gia+L%C3%A2m+v%C3%A0+c%C3%A1c+ph%C6%B0%E1%BB%9Dng.pdf/bb4a0fd2-3739-4619-afa8-a0a1f5261e9c| archive-date = 2023-08-12}}</ref>
+
+=== Giai đoạn 1976 – nay ===
+Sau ngày 2 tháng 7 năm 1976, 5 xã: Dương Quang, Đặng Xá, Kim Sơn, Lệ Chi và Phú Thị thuộc huyện [[Gia Lâm (huyện)|Gia Lâm]] của thành phố [[Hà Nội]].
+
+Ngày 14 tháng 11 năm 2024, thành lập xã Phú Sơn trên cơ sở nhập xã Phú Thị và xã Kim Sơn.<ref>{{Chú thích web |tiêu đề=Nghị quyết số 1286/NQ-UBTVQH15 ngày 14 tháng 11 năm 2024 của Ủy ban Thường vụ Quốc hội về việc sắp xếp đơn vị hành chính cấp xã của thành phố Hà Nội giai đoạn 2023 – 2025 |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/11/1286-qh.signed.pdf |url-status=live |archive-url=https://web.archive.org/web/20241121185017/https://quochoi.vn/tintuc/Pages/tin-hoat-dong-cua-quoc-hoi.aspx?ItemID=91149 |ngày lưu trữ=2024-11-21 |ngày truy cập=2024-11-21 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+
+Ngày 16 tháng 6 năm 2025:
+
+* Kết thúc hoạt động của đơn vị hành chính cấp huyện trong cả nước.<ref>{{Chú thích web |last= |date= |title=Nghị quyết số 203/2025/QH15 ngày 16 tháng 6 năm 2025 của Quốc hội khóa XV, Kỳ họp thứ 9 về việc sửa đổi, bổ sung một số điều của Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/nq-sua-doi-hien-phap.pdf |url-status=live |archive-url=https://web.archive.org/web/20260613090807/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/nq-sua-doi-hien-phap.pdf |archive-date=2026-06-13 |access-date=2026-06-13 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+* Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của xã Dương Quang, xã Lệ Chi, một phần diện tích tự nhiên, toàn bộ quy mô dân số của xã Đặng Xá và phần còn lại của xã Phú Sơn (huyện [[Gia Lâm (huyện)|Gia Lâm]]) thành xã mới có tên gọi là xã Thuận An.<ref>{{Chú thích web |title=Nghị quyết số 1656/NQ-UBTVQH15 ngày 16 tháng 6 năm 2025 của Ủy ban Thường vụ Quốc hội về việc sắp xếp các đơn vị hành chính cấp xã của thành phố Hà Nội năm 2025 |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf |url-status=bot: unknown |archive-url=https://web.archive.org/web/20260513110024/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf |archive-date=2026-05-13 |access-date=2026-06-30 |website=Cổng Thông tin điện tử Chính phủ }}</ref>
+* Sau khi sắp xếp, xã Thuận An được thành 46 tổ dân phố – thôn, gồm 9 tổ dân phố và 37 thôn.<ref>9 thôn: Bài Tâm, Bình Trù, Đề Trụ 7, 8, Lam Cầu, Quang Trung, Quán Khê, Tự Môn và Yên Mỹ của xã Dương Quang cũ; 7 tổ dân phố – thôn, gồm tổ dân phố Toàn Thắng và 6 thôn: Chi Đông, Chi Nam, Cổ Giang, Gia Lâm, Kim Hồ, Sen Hồ của xã Lệ Chi cũ; 17 tổ dân phố – thôn, gồm 7 tổ dân phố, đánh số từ 1 đến 7 khu đô thị Đặng Xá và 10 thôn: An Đà, Cự Đà, Đặng, Đổng Xuyên, Hoàng Long, Kim Âu, Lời, Lở, Nhân Lễ, Viên Ngoại của xã Đặng Xá cũ; 13 tổ dân phố – thôn, gồm tổ dân phố Đường 181 và 12 thôn: Cây Đề, Cừ Keo, Giao Tất A, B, Kim Sơn, Linh Quy Bắc, Linh Quy Đông, Ngổ Ba (trước thuộc xã Kim Sơn), Đại Bản, Hàn Lạc, Tô Khê, Trân Tảo (trước thuộc xã Phú Thị) của xã Phú Sơn cũ.</ref><ref>{{Chú thích web|title=Thông tư số 10/2022/TT-BTNMT ngày 29 tháng 9 năm 2022 của Bộ Tài nguyên và Môi trường về việc Ban hành Danh mục địa danh dân cư, sơn văn, thủy văn, kinh tế – xã hội phục vụ công tác thành lập bản đồ thành phố Hà Nội|url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2022/10/10-btnmt.pdf|url-status=bot: unknown|archive-url=https://web.archive.org/web/20260630082812/https://datafiles.chinhphu.vn/cpp/files/vbpq/2022/10/10-btnmt.pdf|archive-date=2026-06-30|access-date=2026-06-30|website=Cổng Thông tin điện tử Chính phủ}}</ref><ref name=":02">{{Chú thích web|last=|date=|title=Quyết định số 46/QĐ-UBND ngày 13 tháng 2 năm 2026 của Ủy ban bầu cử phường Thuận An về việc công bố danh sách chính thức những người ứng cử đại biểu Hội đồng nhân dân xã Thuận An khóa II, nhiệm kỳ 2026 – 2031 theo từng đơn vị bầu cử|url=https://sqhx-hanoi.mediacdn.vn/91579363132710912/2026/2/25/qd-cong-bo-danh-sach-chinh-thuc-nguoi-ung-cu-dai-bieu-hdnd-xa-thuan-an-khoa-ii-nhiem-ky-2026-2031-17720197777711595372475.pdf|url-status=bot: unknown|archive-url=https://web.archive.org/web/20260716131014/https://sqhx-hanoi.mediacdn.vn/91579363132710912/2026/2/25/qd-cong-bo-danh-sach-chinh-thuc-nguoi-ung-cu-dai-bieu-hdnd-xa-thuan-an-khoa-ii-nhiem-ky-2026-2031-17720197777711595372475.pdf|archive-date=2026-07-16|access-date=2026-07-01|website=Trang Thông tin điện tử xã Thuận An – thành phố Hà Nội}}</ref>
+
+Ngày 26 tháng 6 năm 2026, thành lập 14 thôn mới: Đổng Xuyên, Thiên Đức, Lê Đặng, Kim Đà, Đại Lạc, Linh Quy, Giao Tất, Giao Tự, Lam Khê, Đề Trụ, Dương Quang, Lệ Chi, Lâm Giang, Kim Sen và 3 tổ dân phố mới, đánh số từ 1 đến 3.<ref>1. Nhập toàn bộ số hộ, dân số, diện tích tự nhiên các thôn Đồng Xuyên và thôn Lời thành một thôn. Tên gọi thôn mới sau khi sáp nhập là thôn Đổng Xuyên; 2. Nhập toàn bộ số hộ, dân số, diện tích tự nhiên các thôn Hoàng Long, Viên Ngoại, Nhân Lễ thành một thôn. Tên gọi thôn mới sau khi sáp nhập là thôn Thiên Đức; 3. Nhập toàn bộ số hộ, dân số, diện tích tự nhiên các thôn Lở, thôn Đặng thành một thôn. Tên gọi thôn mới sau khi sáp nhập là thôn Lê Đặng; 4. Nhập toàn bộ số hộ, dân số, diện tích tự nhiên các thôn Kim Âu, An Đà, Cự Đà thành một thôn. Tên gọi thôn mới sau khi sáp nhập là thôn Kim Đà; 5. Nhập toàn bộ số hộ, dân số, diện tích tự nhiên các tổ dân phố số 1 và số 7 khu đô thị Đặng Xá thành một tổ dân phố. Tên gọi Tổ dân phố mới sau khi sáp nhập là Tổ dân phố số 1; 6. Nhập toàn bộ số hộ, dân số, diện tích tự nhiên các tổ dân phố số 5 và số 6 Khu đô thị Đặng Xá thành một tổ dân phố. Tên gọi tổ dân phố mới sau khi sáp nhập là Tổ dân phố số 2; 7. Nhập toàn bộ số hộ, dân số, diện tích tự nhiên các tổ dân phố số 2, số 3 và số 4 khu đô thị Đặng Xá thành một tổ dân phố. Tên gọi tổ dân phố mới sau khi sáp nhập là Tổ dân phố số 3; 8. Nhập toàn bộ số hộ, dân số, diện tích tự nhiên các thồn Hàn Lạc và Đại Bản thành một thôn. Tên gọi thôn mới sau khi sáp nhập là thôn Đại Lạc; 9. Nhập toàn bộ số hộ, dân số, diện tích tự nhiên các thôn Linh Quy Bắc và Linh Quy Đông thành một thôn. Tên gọi thôn mới sau khi sáp nhập là thôn Linh Quy; 10. Nhập toàn bộ số hộ, dân số, diện tích tự nhiên các thôn Giao Tất A, Giao Tất B thành một thôn. Tên gọi thôn mới sau khi sáp nhập là thôn Giao Tất; 11. Nhập toàn bộ số hộ, dân số, diện tích tự nhiên các thôn Cử Keo, Cây Đề, Ngổ Ba, tổ dân phố Đường 181 thành một thôn. Tên gọi thôn mới sau khi sáp nhập là thôn Giao Tự; 12. Nhập toàn bộ số hộ, dân số, diện tích tự nhiên các thôn Lam Cầu, Quán Khê thành một thôn. Tên gọi thôn mới sau khi sáp nhập là Lam Khê; 13. Nhập toàn bộ số hộ, dân số, diện tích tự nhiên các thôn Đề Trụ 7, Đề Trụ 8 thành một thôn. Tên gọi thôn mới sau khi sáp nhập là thôn Đề Trụ; 14. Nhập toàn bộ số hộ, dân số, diện tích tự nhiên các thôn Quang Trung, Bài Tâm, Tự Môn thành một thôn. Tên gọi thôn mới sau khi sáp nhập là thôn Dương Quang; 15. Nhập toàn bộ số hộ, dân số, diện tích tự nhiên các thôn Chi Đông, Chi Nam thành một thôn. Tên gọi thôn mới sau khi sáp nhập là thôn Lệ Chi; 16. Nhập toàn bộ số hộ, dân số, diện tích tự nhiên các thôn Gia Lâm, Cổ Giang thành một thôn. Tên gọi thôn mới sau khi sáp nhập là Lâm Giang; 17. Nhập toàn bộ số hộ, dân số, diện tích tự nhiên các thôn Sen Hồ, Kim Hồ và Tổ dân phố Toàn Thắng thành một thôn. Tên gọi thôn mới sau khi sáp nhập là thôn Kim Sen
+
+18. Giữ nguyên 5 thôn: Tô Khê, Trân Tảo, Kim Sơn, Bình Trù và Yên Mỹ.</ref><ref name=":2">{{Chú thích web |title=Thông báo số 599/TB-UBND ngày 5 tháng 6 năm 2026 của Ủy ban nhân dân xã Thuận An về việc công khai dự thảo Đề án sắp xếp thôn, tổ dân phố trên địa bàn xã Thuận An |url=https://sqhx-hanoi.mediacdn.vn/91579363132710912/2026/6/17/599-thong-bao-cong-khai-va-du-thao-de-an-1781662937848283220920.pdf |url-status=bot: unknown |archive-url=https://web.archive.org/web/20260713201940/https://sqhx-hanoi.mediacdn.vn/91579363132710912/2026/6/17/599-thong-bao-cong-khai-va-du-thao-de-an-1781662937848283220920.pdf |archive-date=2026-07-13 |access-date=2026-07-09 |website=Trang Thông tin điện tử xã Thuận An – thành phố Hà Nội }}</ref><ref name=":3">{{Chú thích web |last=Trang Thông tin điện tử xã Thuận An – thành phố Hà Nội |date=2026-06-26 |title=Kỳ họp thứ 2 – Hội đồng nhân dân xã Thuận An khóa II, nhiệm kỳ 2026 – 2031 thành công tốt đẹp |url=https://thuanan.hanoi.gov.vn/chi-dao-dieu-hanh/ky-hop-thu-2-hoi-dong-nhan-dan-xa-thuan-an-khoa-ii-nhiem-ky-2026-2031-thanh-cong-tot-dep-2840260627054535252.htm?gidzl=ULfu5kb4y1DzHNmGurdq7ND5VHhx3FGQQKTw7AnOzHzkGdrD_W_uJs52S1-XNVXDP4edJMEcBxqqx4Nq4G |url-status=live |archive-url=https://web.archive.org/web/20260709401509/https://thuanan.hanoi.gov.vn/chi-dao-dieu-hanh/ky-hop-thu-2-hoi-dong-nhan-dan-xa-thuan-an-khoa-ii-nhiem-ky-2026-2031-thanh-cong-tot-dep-2840260627054535252.htm?gidzl=ULfu5kb4y1DzHNmGurdq7ND5VHhx3FGQQKTw7AnOzHzkGdrD_W_uJs52S1-XNVXDP4edJMEcBxqqx4Nq4G |archive-date=2026-07-09 |access-date=2026-07-09}}</ref>
+
+== Hành chính ==
+Xã Thuận An được chia thành 22 tổ dân phố – thôn, gồm 3 tổ dân phố, đánh số từ 1 đến 3 và 19 thôn: Bình Trù, Dương Quang, Đại Lạc, Đề Trụ, Đổng Xuyên, Giao Tất, Giao Tự, Kim Đà, Kim Sen, Kim Sơn, Lam Khê, Lâm Giang, Lê Đặng, Lệ Chi, Linh Quy, Thiên Đức, Tô Khê, Trân Tảo, Yên Mỹ.<ref name=":2" /><ref name=":3" />
+{| class="wikitable sortable" align="center" width="100%" cellspacing="6" cellpadding="0" style="background: #f9f9f9; border: 1px #aaa solid; margin-top: 16px"
+! colspan="4" style="background: #E6E6FA; font-size: 95%;" |Danh sách các tổ dân phố – thôn thuộc xã Thuận An<ref name=":2" /><ref name=":3" />
+|-
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| colspan="4" align="left" style="background: #F5F5DC; padding-left: 30px;" |'''Tổ dân phố (3)'''
+|-
+| align="left" |Tổ dân phố 1
+|885
+|-
+| align="left" |Tổ dân phố 2
+|929
+|-
+| align="left" |Tổ dân phố 3
+|1.438
+|-
+| colspan="4" align="left" style="background: #F5F5DC; padding-left: 30px;" |'''Thôn (19)'''
+|-
+| align="left" |Bình Trù
+|553
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Dương Quang
+|1.004
+|-
+| align="left" |Đại Lạc
+|935
+|-
+| align="left" |Đề Trụ
+|720
+|-
+| align="left" |Đổng Xuyên
+|1.091
+|-
+| align="left" |Giao Tất
+|1.120
+|-
+| align="left" |Giao Tự
+|1.342
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Kim Đà
+|1.019
+|-
+| align="left" |Kim Sen
+|1.362
+|-
+| align="left" |Kim Sơn
+|662
+|-
+| align="left" |Lam Khê
+|701
+|-
+| align="left" |Lâm Giang
+|1.130
+|-
+| align="left" |Lê Đặng
+|833
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Lệ Chi
+|1.167
+|-
+| align="left" |Linh Quy
+|1.301
+|-
+| align="left" |Thiên Đức
+|821
+|-
+| align="left" |Tô Khê
+|710
+|-
+| align="left" |Trân Tảo
+|517
+|-
+| align="left" |Yên Mỹ
+|1.327
+|}
+|}
+== Văn hóa==
+Xã Lệ Chi là vùng đất cổ hiện còn lưu giữ được nhiều di tích lịch sử và văn hóa Kinh Bắc như: Chùa Vạn Xuân ở thôn Sen Hồ, Chùa Diên Phúc ở thôn Gia Lâm hiện còn lưu giữ được nhiều pho tượng đặc sắc về nghệ thuật tạo hình.
+
+Đình Chi Đông, Đình Sen Hồ là hai công trình kiến trúc cổ với đường nét hoa văn trạm trổ độc đáo.
+
+Là vùng đất ven sông, hàng năm được phù xa bồi đắp nhưng xa các trục giao thông lớn nên từ xưa tới nay, nghề chính ở Lệ chi vẫn là nghề nông lấy việc trồng cây lương thực là chính. Bên cạnh đó xã còn duy trì nghề trồng dâu, nuôi tằm, ươm tơ, dệt lụa nên từ lâu đời dân gian đã có câu ca:
+
+Thuyền ai thấp thoáng bên sông.
+
+Ghé thăm phong cảnh thăm đồng dâu xanh.
+
+Thăm người thôn nữ cửu canh...
+
+Lệ chi có một đặc sản nổi tiếng đó là Củ đậu ở thôn Cổ Giang. Khác với các nơi cũng là loại củ đậu đó nhưng củ đậu ở Cổ Giang chắc mịn ai được thưởng thức một lần chắc sẽ mãi nhớ vị ngọt và mát rất riêng biệt.
+
+Rau củ cải trái vụ được trồng ở 3 thôn Chi Đông, Chi Nam và Cổ Giang cũng là một sản phẩm truyền thống- một đặc sản nông nghiệp nổi tiếng, được thể hiện qua câu ca:
+
+"Ai về qua đất Lệ chi
+
+Nhớ mua rau cải làm dưa trái mùa"
+
+Truyền thống: Trong lịch sử dựng nước và giữ nước của dân tộc, nhân dân Lệ Chi sớm có tinh thần yêu nước. Từ thời Hùng vương thứ 6, Lệ chi đã có ông Châu Đô Thống tham gia đánh tan giặc Ân. Rồi năm 40 sau công nguyên lại có anh em ông Đống, ông Hựu giúp Hai bà Trưng dấy binh khởi nghĩa giành thắng lợi. Và thời kỳ nào có giặc xâm lược là Lệ Chi lại có thêm các anh hùng hào kiệt vì nước quên thân, hiện nhiều người đã được lưu danh để dân làng mãi mãi thờ phụng, hương khói.
+
+Trong thời kỳ thực dân Pháp xâm lược, Lệ chi là nơi sớm tiếp thu ánh sáng của Đảng. Lệ Chi là nơi sớm thành lập đội tự vệ cùng tự vệ cả huyện đi phá cầu Cầu Bây, cắt dây điện thoại, đánh đổ cột điện trên đường 5, phá hoại những công cụ thông tin trong nhà ga Phú Thị, Cổ Bi. Các tầng lớp nhân dân Lệ Chi đều nhất tề theo cách mạng tham gia giành chính quyền trong cách mạng tháng Tám. Rồi những năm tháng gian khổ sống trong vùng tề, Lệ Chi là địa phương có phong trào du kích chiến tranh mạnh đã tích cực giết ác, trừ gian, tiêu diệt bọn phản động không cho chúng lập bốt Tiếu và bắt thanh niên đi lính, đồng thời anh dũng chống trả, đẩy lui các trận càn của giặc pháp.
+
+Không chỉ chiến đấu dũng cảm, nhân dân Lệ chi còn cần cù, chăm chỉ sản xuất góp phần chi viện sức của cho các chiến trường góp phần nhỏ vào chiến thắng chung của dân tộc.
+
+Trong cuộc kháng chiến trường kỳ chống giặc Pháp, đế quốc Mỹ và bảo vệ Tổ Quốc, xã Lệ Chi đã tiễn đưa 939 thanh niên lên đường nhập ngũ, có 48 thanh niên tham gia lực lượng thanh niên xung phong, trong đó có 153 người đã hy sinh trên các mặt trận.<ref>{{Chú thích web| url = https://gialam.hanoi.gov.vn/ubnd-cac-xa-thi-tran/-/view_content/391610-xa-le-chi.html| tựa đề = Xã Lệ Chi| tác giả = | ngày = | website = Cổng thông tin điện tử huyện Gia Lâm| url lưu trữ = https://web.archive.org/web/20230919052619/http://gialam.hanoi.gov.vn/ubnd-cac-xa-thi-tran/-/view_content/391610-xa-le-chi.html| ngày lưu trữ = 2023-09-19| ngày truy cập = | url-status = dead}}</ref><!-- 
+== Lịch sử== 
+Những ghi chép đầu tiên trong chính sử về vùng đất này là khoảng thời nhà Lý, gắn liền với quá trình khởi công và xây dựng chùa báo ân Siêu Loại thuộc thôn Quang Trung. Địa phận xã Dương Quang hiện nay thời Lý thuộc hương Siêu Loại, phủ Thiên Đức Đến thời Trần phủ Thiên Đức đổi thành lộ Bắc Giang.
+
+Đến thời Hậu Lê, địa danh Dương Quang lần đầu được ghi chép trong Dư địa chí của Nguyễn Trãi. Đây là tên một tổng thuộc huyện Siêu Loại, phủ Thuận An, trấn Kinh Bắc, bao gồm 6 xã: An Mỹ, Bình Trù, Dương Quang, Dương Xá, Thuận Quang và An Bình.
+
+Tương truyền vào khoảng cuối thời Hậu Lê, ở làng Duyên Khánh (phủ Thuận An, trấn Kinh Bắc) có nhiều người làm tiền giả. Sự việc đến tai vua và cả làng bị kết án chu di tam tộc. Sau đó, ngôi làng và cả đền chùa bị san phẳng để trừng phạt cũng như răn đe. Theo nguồn dã sử đó thì làng Duyên Khánh ngày nay là xứ đồng Bù Bến và đồng Gạch thuộc thôn Yên Mỹ ngày nay.
+
+Năm 1831, vua Minh Mạng ban sắc lệnh bỏ trấn lập tỉnh, tổng Dương Quang lúc này thuộc tỉnh Bắc Ninh.
+
+Năm 1862, đổi tên phủ Thuận An thành Thuận Thành, xã An Mỹ thành Yên Mỹ, xã An Bình thành Yên Bình.
+
+[[Tháng 4]] năm [[1946]], các xã Dương Quang, Yên Mỹ và Bình Trù hợp nhất thành xã Chiến Thắng, thuộc huyện Thuận Thành, tỉnh Bắc Ninh.<ref>{{Chú thích web| url = https://gialam.hanoi.gov.vn/ubnd-cac-xa-thi-tran/-/view_content/391628-xa-duong-quang.html| tựa đề = Xã Dương Quang| tác giả = | ngày = 2015-03-20| website = Cổng thông tin điện tử huyện Gia Lâm| url lưu trữ = https://web.archive.org/web/20210624195807/https://gialam.hanoi.gov.vn/ubnd-cac-xa-thi-tran/-/view_content/391628-xa-duong-quang.html| ngày lưu trữ = 2021-06-24| ngày truy cập = | url-status = dead}}</ref>
+
+Ngày [[20 tháng 4]] năm [[1961]], Quốc hội ban hành Nghị quyết<ref>Nghị quyết về việc mở rộng thành phố Hà Nội</ref> về việc sáp nhập xã Chiến Thắng vào thành phố Hà Nội quản lý.
+
+Ngày [[31 tháng 5]] năm [[1961]], Hội đồng Chính phủ ban hành 78-CP<ref>Quyết định số 78-CP năm 1961 chia các khu vực nội thành và ngoại thành của Thành phố Hà Nội</ref>. Theo đó, xã Chiến Thắng thuộc huyện Gia Lâm, thành phố Hà Nội quản lý.
+
+[[Tháng 11]] năm [[1965]], đổi tên xã Chiến Thắng thành xã Dương Quang.<ref>{{Chú thích web| url = http://gialam.gov.vn/gialam/portal/News-details/153/627/Xa-Duong-Quang.html| tựa đề = Xã Dương Quang | tác giả = | ngày = | website = Cổng thông tin điện tử huyện Gia Lâm | url lưu trữ = https://web.archive.org/web/20170917080110/http://gialam.gov.vn/gialam/portal/News-details/153/627/Xa-Duong-Quang.html| ngày lưu trữ = 2017-09-17| ngày truy cập = 2017-09-17}}</ref>
+
+Ngày 16 tháng 6 năm 2025, Ủy ban Thường vụ Quốc hội Việt Nam ban hành Nghị quyết số 1656/NQ-UBTVQH15. Theo đó, thành lập xã [[Thuận An, Hà Nội| Thuận An]] trên cơ sở toàn bộ diện tích tự nhiên, quy mô dân số của xã Dương Quang và xã Lệ Chi, một phần diện tích tự nhiên, toàn bộ quy mô dân số của xã Đặng Xá và xã Phú Sơn thuộc huyện Gia Lâm cũ.
+
+== Kinh tế== 
+Nhờ có vị trí nằm ở cửa ngõ Thủ đô với vị trí giáp ranh 2 tỉnh Hưng Yên và Bắc Ninh nên xã có nhiều điều kiện để phát triển kinh tế, đặc biệt mỗi làng trong xã lại đều có một ngành nghề truyền thống riêng biệt như:
+
+* Mây tre đan (chổi, giá, điếu, cọc móng...) thôn Quang Trung
+* Nghề hàng xáo thôn Bình Trù
+* Thợ nề, mộc, hàng xáo Yên Mỹ
+
+Nghề mây tre đan: đan rổ, rá, sảo gánh ở thôn Quán Khê nay đã mai một. Nghề chẻ chổi tre, đòn gánh, điếu cày ở Quang Trung nay vẫn còn một số hộ giữ nghề. Nghề mộc ở Yên Mỹ nay chỉ còn khoảng 10 hộ trong thôn còn giữ nghề.
+
+== Văn hóa== 
+Là một trong những địa phuơng còn mang đậm nét kiến trúc làng xã Việt Nam và ảnh hưởng của phật giáo Kinh Bắc cũng như phật giáo Trúc Lâm, xã hiện đang có 7 đình làng (thôn Bài Tâm mới thành lập gần đây nên vẫn thờ tự chung đình làng và thành hoàng với thôn Quang Trung) và 5 ngôi chùa. Ngoài ra còn có một nhà thờ công giáo La Mã thuộc giáo họ Đề Trụ, giáo xứ Tử Đình, giáo phận Bắc Ninh.
+
+Chùa Báo ân Siêu Loại thuộc địa phận giáp ranh giữa thôn Quang Trung và thôn Tự Môn (do thôn nằm ngay trước của chùa nên được đặt tên như vậy). Ngoài ra chùa còn được gọi là chùa Thiên Đức do nằm sát với dòng sông Nghĩa Giang là một nhánh lớn của sông Thiên Đức (sông Đuống), nay sông chỉ còn là một dải ao, hồ kéo dài từ đê Đuống đến Văn Lâm (Hưng Yên). Theo sử sách, chùa được xây dựng vào năm Thuận Thiên thứ 7 tức năm 1016, tọa lạc gần dòng sông Thiên Đức thuộc hương Siêu Loại, phủ Thuận An, lộ Bắc Giang Hạ. Tuy nhiên dựa trên các hiện vật và dấu tích nghiên cứu khai quật khảo cổ học thì mới chỉ phát hiện dấu tích cổ nhất là khoảng thời Trần. Ngôi chùa gắn liền với quá trình phát triển của Thiền phái Trúc Lâm và con đường tu đạo của Phật hoàng Trần Nhân Tông. Đây cũng là ngôi chùa lớn nhất ở vùng ven kinh thành Thăng Long thời bấy giờ và sau này nhị tổ Pháp Loa đã được Sư tổ giao cho trụ trì chùa Báo Ân. Ngài đã biến nơi đây thành trung tâm Hoằng pháp Phật giáo lớn nhất cả nước thời đó nên xưa chùa còn được gọi là chùa Trăm Gian hoặc chùa Cả. Chùa đã nhiều lần được trùng tu trong các triều đại nhà Trần, Hậu Lê, Nguyễn nhưng từ sau thời kỳ cải cách ruộng đất, chùa bị mai một dần cũng như bị thu hẹp nhiều về phạm vi nên chỉ còn giữ lại được chủ yếu hệ thống bia đá. Chùa đã được xếp hạng di tích cấp tỉnh ngày 3 tháng 9 năm 2003 và được trùng tu lại vào năm 2019.<ref>{{Chú thích web| url = https://giacngo.vn/ha-noi-dong-tho-phuc-dung-di-tich-chua-bao-an-post47622.html| tựa đề = Hà Nội: Động thổ phục dựng di tích chùa Báo Ân| tác giả = Tuệ Hiếu| ngày = 2019-06-13| website = Giác Ngộ Online}}</ref> Lễ hội chùa Báo Ân thường diễn ra vào ngày 14 tháng 4 âm lịch hàng năm.<ref>{{Chú thích web| url = http://www.daophatngaynay.com/vn/duc-phat/phat-dan/13372-ha-noi-le-phat-dan-chua-bao-an.html| tựa đề = Hà Nôi-Lễ Phật đản chùa Báo Ân| tác giả = Huệ Thanh| ngày = 2013-05-26| website = Daophatngaynay}}</ref>
+
+Cụm di tích đình - chùa Yên Mỹ: tọa lạc tại thôn An Mỹ (làng Đầu), hương Siêu Loại, phủ Thuận An nay là thôn Yên Mỹ, xã Dương Quang, huyện Gia Lâm, Hà Nội. Chùa Yên Mỹ (Phúc Nhân Tự) được xây dựng vào thế kỷ XVIII - XIX thờ Phật và Pháp Điện (trong Tứ pháp) do vậy chùa Yên Mỹ nằm trong hệ thống chùa thờ Tứ Pháp. Đình Yên Mỹ được xây dựng từ thời Trần thờ vị thành hoàng làng là Quảng Độ Đại Vương, có công giúp dân dẹp loạn 12 xứ quân. Lễ hội đình Yên Mỹ được tổ chức hàng năm vào ngày 12 đến 13 tháng 3 âm lịch với nhiều nghi thức tế lễ, phần hội với nhiều trò chơi thu hút đông đảo người dân địa phương và vùng lân cận. Cụm di tích Đình chùa Yên Mỹ đã được thành phố xếp hạng di tích vào ngày 19 tháng 3 năm 2007.<ref>{{Chú thích web| url = http://ditichlichsu-vanhoahanoi.com/2017/09/24/chua-yen-my/| tựa đề = CHÙA YÊN MỸ| website = ditichlichsu-vanhoahanoi.com}}</ref>
+
+Đình Lam Cầu được xây dựng tại thôn Lam Cầu vào cuối thời Hậu Lê thờ vị thần Long Đỗ hiệu là Quảng Lợi Bạch Mã đại vương. Đình sau đó đã được thành phố xếp hạng di tích vào năm 2007.<ref>{{Chú thích web| url = https://gialam.hanoi.gov.vn/di-tich-lich-su-le-hoi/-/view_content/385921-dinh-lam-cau.html| tựa đề = Đình Lam Cầu| ngày = 2015-04-16| website = Cổng thông tin điện tử huyện Gia Lâm}}{{Liên kết hỏng| date = 2025-09-02 | bot = InternetArchiveBot }}</ref>
+
+== Giao thông== 
+Xã Dương Quang cách trung tâm thành phố Hà Nội 19&nbsp;km về phía Đông, nằm trên trục đường Phú Thị - Dương Quang - Lạc Đạo (Hưng Yên) nối quốc lộ 17 với tỉnh lộ 385 (Hưng Yên)
+
+Vào năm 2021, xã đã có thêm hệ thống xe buýt tuyến 69 Bác Cổ - Dương Quang; với điểm đầu cuối là chợ Đình (thôn Yên Mỹ).<ref>{{Chú thích web| url = http://hanoimoi.com.vn/tin-tuc/giao-thong/994690/bo-tri-them-diem-dung-xe-buyt-tuyen-69-bac-co---duong-quang| tựa đề = Bố trí thêm điểm dừng xe buýt tuyến 69 (Bác Cổ - Dương Quang)| tác giả = Tuấn Lương| ngày = 2021-03-27| website = [[Hà Nội Mới]]}}</ref><ref>{{Chú thích web| url = https://www.baogiaothong.vn/ca-thon-khong-co-noi-mot-diem-dung-xe-buyt-d497300.html| tựa đề = Cả thôn không có nổi một điểm dừng xe buýt| tác giả = Phước Sang| ngày = 2021-02-28| website = Báo Giao thông}}</ref>
+
+== Danh nhân== 
+*[[Nguyễn Đức Quỳ]] (1914 - 1989) có quê quán ở An Mỹ (làng Đầu), tổng Dương Quang, phủ Thuận Thành nay là xóm Đông, thôn Yên Mỹ, xã Dương Quang, huyện Gia Lâm, Hà Nội. Ông còn có tên khác là Đào Thành Kim, Đào Bình Luống.
+*[[Ngô Quốc Hạnh]] (1926- 1993), nhà cách mạng, phó chủ tịch ủy ban nhân dân thành phố Hà Nội
+*[[Đào Cử]] (1449 - ?). người làng Thuần Khang, huyện Siêu Loại nay là thôn Yên Mỹ xã Dương Quang, huyện Gia Lâm, thành phố Hà Nội. Tên ông được đặt cho một con đường ở ngoại thành thành phố Hồ Chí Minh.
+
+== Lịch sử== 
+Trước đây, Kim Sơn thuộc tổng Kim Sơn, phủ Gia Lâm, tỉnh Bắc Ninh và được chia thành 4 xã: Giao Tất, Giao Tự, Kim Sơn, Linh Quy.
+
+[[Tháng 7]] năm [[1946]], sáp nhập xã Giao Tất và Giao Tự thành xã Song Giao, nhập xã Kim Sơn và Linh Quy thành xã Tương Minh thuộc huyện Gia Lâm, tỉnh Bắc Ninh.
+ 
+[[Tháng 1]] năm [[1947]], sáp nhập xã Song Giao và Tương Minh thành xã Thống Nhất.
+
+Cuối năm [[1949]], sáp nhập xã Thống Nhất và 5 thôn của xã Phú Thị thành xã Quyết Thắng.
+
+[[Tháng 1]] năm [[1956]], chia xã Quyết Thắng thành xã Quyết Thắng và xã Quyết Chiến.
+
+Ngày [[20 tháng 4]] năm [[1961]], Quốc hội ban hành Nghị quyết<ref>{{Chú thích web| url = https://m.thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Nghi-Quyet-mo-rong-thanh-pho-Ha-Noi-42689.aspx| tựa đề = Nghị quyết về việc mở rộng thành phố Hà Nội | tác giả = | ngày = | website = Thư viện Pháp luật | url lưu trữ = | ngày lưu trữ = | ngày truy cập = }}</ref> về việc sáp nhập xã Quyết Thắng vào thành phố Hà Nội quản lý.
+
+Ngày [[31 tháng 5]] năm [[1961]], Hội đồng Chính phủ ban hành 78-CP<ref>{{Chú thích web| url = https://m.thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-78-CP-chia-khu-vuc-noi-ngoai-thanh-thanh-pho-Ha-Noi-20286.aspx| tựa đề = Quyết định số 78-CP năm 1961 chia các khu vực nội thành và ngoại thành của Thành phố Hà Nội | tác giả = | ngày = | website = Thư viện Pháp luật | url lưu trữ = | ngày lưu trữ = | ngày truy cập = }}</ref>. Theo đó, xã Quyết Thắng thuộc huyện Gia Lâm, thành phố Hà Nội quản lý.
+
+Năm [[1966]], đổi tên xã Quyết Thắng thành xã Kim Sơn.<ref name = ĐA>{{chú thích sách| author = UBND huyện Gia Lâm | url = http://gialam.hanoi.gov.vn/documents/291387/8044749/%C4%90%E1%BB%81+%C3%A1n+th%C3%A0nh+l%E1%BA%ADp+qu%C3%A2n+Gia+L%C3%A2m+v%C3%A0+c%C3%A1c+ph%C6%B0%E1%BB%9Dng.pdf/bb4a0fd2-3739-4619-afa8-a0a1f5261e9c| title = Đề án thành lập quận Gia Lâm và các phường thuộc quận Gia Lâm, thành phố Hà Nội | year = 2023 | location = Gia Lâm, Hà Nội | p = 156-157 | url-status = live| archive-url = https://web.archive.org/web/20230812224556/http://gialam.hanoi.gov.vn/documents/291387/8044749/%C4%90%E1%BB%81+%C3%A1n+th%C3%A0nh+l%E1%BA%ADp+qu%C3%A2n+Gia+L%C3%A2m+v%C3%A0+c%C3%A1c+ph%C6%B0%E1%BB%9Dng.pdf/bb4a0fd2-3739-4619-afa8-a0a1f5261e9c| archive-date = 2023-08-12}}</ref>
+
+== Kinh tế== 
+Là xã kém phát triển của huyện Gia Lâm nhưng vẫn khá hơn đáng kể mặt bằng chung của các xã thuộc huyện lân cận như Thuận Thành, Tiên Du, Gia Bình, Văn Giang... Các nghề của địa phương cũng khá đa dạng như: khu phố Keo, khu dân cư công trường Toàn Thắng phát triển ngành thương mại, dịch vụ. Thôn Linh Quy trước đây có nghề thu gom giết mổ trâu bò, lợn ngày nay chỉ còn hơn 20 hộ giết mổ bò, gà vịt ở cả hai thôn Đông và Bắc. Các thôn Kim Sơn, Giao Tất trồng cúc lấy hạt. Linh Quy trồng cúc hạt, mùi hạt những năm gần đây khi nông nghiệp không được người dân mặn mà cho lắm thì người dân chuyển sang trồng chuối, cây lâu năm... ít công hơn.
+
+== Văn hóa== 
+=== Sự tích Bà Keo=== 
+Theo truyền thuyết ngày xưa người dân vùng Siêu Loại tạc bốn pho tượng Tứ pháp là Pháp Vân, Pháp Vũ, Pháp Lôi, Pháp Điện nhưng còn thừa phần gỗ đã tạc thành tượng Pháp Vân nữa nhưng nhỏ hơn gọi là Bà Keo về thờ tại chùa Keo. Cũng với sự tích này mà chùa Keo thuộc hệ thống chùa Tứ Pháp.
+
+=== Di tích=== 
+* Chùa Keo (Báo Ân Trùng Nghiêm Tự) tọa lạc gọn lỏn tại phần đất thôn Giao Tự nhưng thuộc thôn Giao Tất nên trong vùng hay có câu " Chùa Giao Tất, đất Giao Tự". Chùa thờ Bà Keo (Pháp Vân). Lễ hội chùa Keo hàng năm diễn ra vào ngày mùng 6 tháng Tư âm lịch hàng năm.
+* Đình làng Kim Sơn thờ 2 vị [[tướng nhà Đinh]] là Cao Điền Công và em trai Cao Đỗ Công có công đánh dẹp loạn 12 sứ quân và đánh giặc Chiêm Thành. Vùng đất Kim Sơn là nơi 2 anh em được Vua Đinh Tiên Hoàng ban thực ấp, lập nghiệp tại đây. Lễ hội đình làng Kim Sơn diễn ra vào ngày 12 tháng 3 âm lịch hàng năm.<ref>{{Chú thích web| url = http://gialam.hanoi.gov.vn/di-tich-lich-su-le-hoi/-/view_content/385912-dinh-nghe-kim-son.html| tựa đề = Đình, nghè Kim Sơn | tác giả = | ngày = 2015-04-16| website = Cổng thông tin điện tử huyện Gia Lâm | url lưu trữ = | ngày lưu trữ = | ngày truy cập = }}</ref>
+
+== Giao thông== 
+Các tuyến, hệ thống giao thông quan trọng đi qua xã Kim Sơn:
+* Quốc lộ 17: được nâng cấp trên cơ sở đường tỉnh lộ 181 cũ qua xã
+* Đường sông: nằm bên hữu ngạn sông Đuống
+* Hệ thống xe buýt: Tuyến 52A, 204.
+
+== Lịch sử== 
+Xã Phú Thị nằm trong vùng đồng bằng Bắc bộ, có nét đặc trưng vùng "tam giác" sông Hồng, [[sông Đuống]] (Thiên Đức) nên địa hình bằng phẳng. Đến nay, đất đai đồng ruộng Phú Thị còn đậm dấu tích quá trình bồi đắp phù sa của sông Nghĩa Giang - một nhánh lớn của sông [[Sông Đuống| Thiên Đức]] xưa, nay sông bị triệt dòng, đã và đang biến dạng thành một dải ao, hồ, chạy dọc theo đường Ỷ Lan, từ thôn Lời, xã [[Đặng Xá]], qua xã Phú Thị đến xã [[Dương Xá]] và xã [[Thuận An, Hà Nội| Dương Quang]], rồi sang huyện [[Văn Lâm]], tỉnh [[Hưng Yên]].
+
+Xã Phú Thị gồm các thôn: Đại Bản, Hàn Lạc, Phú Thụy (phố Sủi), Tô Khê, Trân Tảo - mà trước kia (thời nhà Nguyễn)<ref>Cuốn Tên làng xã Việt Nam đầu thế kỷ 19, xứ Kinh Bắc, phủ Thuận An, huyện Gia Lâm, trang 67.</ref>) vốn là 4 xã: Hàn Lạc, Phú Thụy, Tô Khê, Trân Tảo thuộc tổng Kim Sơn huyện Gia Lâm phủ Thuận An tỉnh Bắc Ninh.
+
+Sau năm [[1945]], xã Hàn Lạc tách làm 2: Đại Bản và Hàn Lạc, tạo thành 5 thôn của xã Phú Thụy ngày nay.
+
+Cuối năm [[1949]], hợp nhất xã Phú Thị và xã Kim Sơn thành xã Quyết Thắng.
+
+Năm 
+[[1956]], chia xã Quyết Thắng thành xã Quyết Thắng và xã Quyết Chiến.
+
+Ngày [[20 tháng 4]] năm [[1961]], Quốc hội ban hành Nghị quyết<ref>{{Chú thích web| url = https://m.thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Nghi-Quyet-mo-rong-thanh-pho-Ha-Noi-42689.aspx| tựa đề = Nghị quyết về việc mở rộng thành phố Hà Nội | tác giả = | ngày = | website = Thư viện Pháp luật | url lưu trữ = | ngày lưu trữ = | ngày truy cập = }}</ref> về việc sáp nhập xã Quyết Chiến vào thành phố Hà Nội quản lý.
+
+Ngày [[31 tháng 5]] năm [[1961]], Hội đồng Chính phủ ban hành 78-CP<ref>{{Chú thích web| url = https://m.thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-78-CP-chia-khu-vuc-noi-ngoai-thanh-thanh-pho-Ha-Noi-20286.aspx| tựa đề = Quyết định số 78-CP năm 1961 chia các khu vực nội thành và ngoại thành của Thành phố Hà Nội | tác giả = | ngày = | website = Thư viện Pháp luật | url lưu trữ = | ngày lưu trữ = | ngày truy cập = }}</ref>. Theo đó, xã Quyết Chiến thuộc huyện Gia Lâm, thành phố Hà Nội quản lý.
+
+Năm [[1965]] đổi tên xã Quyết Chiến thành xã Phú Thị.<ref name = ĐA>{{chú thích sách| author = UBND huyện Gia Lâm | url = http://gialam.hanoi.gov.vn/documents/291387/8044749/%C4%90%E1%BB%81+%C3%A1n+th%C3%A0nh+l%E1%BA%ADp+qu%C3%A2n+Gia+L%C3%A2m+v%C3%A0+c%C3%A1c+ph%C6%B0%E1%BB%9Dng.pdf/bb4a0fd2-3739-4619-afa8-a0a1f5261e9c| title = Đề án thành lập quận Gia Lâm và các phường thuộc quận Gia Lâm, thành phố Hà Nội | year = 2023 | location = Gia Lâm, Hà Nội | p = 163-164 | url-status = live| archive-url = https://web.archive.org/web/20230812224556/http://gialam.hanoi.gov.vn/documents/291387/8044749/%C4%90%E1%BB%81+%C3%A1n+th%C3%A0nh+l%E1%BA%ADp+qu%C3%A2n+Gia+L%C3%A2m+v%C3%A0+c%C3%A1c+ph%C6%B0%E1%BB%9Dng.pdf/bb4a0fd2-3739-4619-afa8-a0a1f5261e9c| archive-date = 2023-08-12}}</ref>
+
+Làng Phú Thụy (kẻ Sủi), tức là thôn Phú Thụy, là một làng cổ từ thời [[nhà Lý| Lý]]-[[nhà Trần| Trần]], quê của Nguyên phi [[Ỷ Lan]]. Tên gọi Sủi, là một từ Việt cổ, có các biến âm là Lỗi hay Luỗi, sau được Hán Việt hóa thành Thổ Lỗi.<ref>Các mục từ Phú Thị trong từ điển Hà Nội địa danh của Bùi Thiết, trang 355-356.</ref>
+
+== Văn hóa== 
+Xã Phú Thị có nhiều di tích có giá trị quý như:
+* Di tích đình Tô Khê dân địa phương trong vùng quen gọi là đình làng To thờ Trần Văn Xương và Trần Văn Khúc là tướng của Phù Đổng Thiên Vương. Đây là di tích nghệ thuật cấp quốc gia đã được xếp hạng 1995.
+* Di tích tích đình Trân Tảo hay đình Táo thờ Lý Công Tấn là vị tướng của Lý Nam Đế. Di tích được Bộ văn hóa thông tin xếp hạng về lịch sử, kiến trúc và nghệ thuật 1990.
+*Chùa Sủi (Đại Dương Sùng Phúc Tự) là một ngôi chùa cổ được xây dựng từ khá sớm. Chùa Sủi đã được Bộ văn hóa thông tin xếp hạng là di tích kiến trúc và nghệ thuật cấp quốc gia 1989.
+* Đình làng Sủi thờ Tây Vị Đại Vương là [[tướng nhà Đinh]] có tên húy [[Đào Liên Hoa]] quê ở [[Thanh Hóa]], con ông Đào Lan và bà Nguyễn Thị Huệ. Ông rất thông minh, ham học, năm 15 tuổi đã xin cha cho đi học ở quận Vũ Ninh, phủ Từ Sơn, huyện [[Đông Ngàn (huyện)| Đông Ngàn]], thôn Hội Phụ (nay thuộc xã Đông Hội, huyện [[Đông Anh (huyện)| Đông Anh]]). Khi biết ở [[Hoa Lư (thành phố)| Hoa Lư]] có [[Đinh Bộ Lĩnh]] khởi nghĩa dẹp [[loạn 12 sứ quân]], ông xin đầu quân và được phong làm tướng quân. Với những chiến công có được, ông được [[Đinh Bộ Lĩnh]] phong làm ''Tây Vị Đại Vương'' rồi được cử đi Chánh sứ sang [[Trung Quốc]]. Khi huyện [[Gia Lâm (huyện)| Gia Lâm]] có giặc loạn nổi lên, ông đem quân đi dẹp rồi lập đồn cùng trang ấp ở Thổ Lỗi, dậy nhân dân sản xuất, xây nhà cửa lo cuộc sống. Khi ông mất (vào ngày 25 tháng 12 âm lịch), vua phong ông là Thượng Đẳng Tôn Thần và hạ chiếu cho các làng thuộc địa hạt ông cai quản phải lập đình để hương khói phụng thờ đời đời. Dân làng Sủi đã lập đình Sủi thờ ông và tôn ông là Thành hoàng làng.
+
+== Giao thông== 
+Xã Phú Thị có hệ thống giao thông đường bộ rất thuận lợi:
+* Đường Dương Đức Hiền (QL17): nối từ Nguyễn Đức Thuận (QL5) tại Kiên Thành (thị trấn [[Trâu Quỳ]]) kéo dài sang tỉnh [[Bắc Ninh]].
+* Đường Ỷ Lan: Từ Dốc Lời (xã [[Đặng Xá]]) đi qua xã và kéo dài đến thị trấn [[Văn Giang (thị trấn)| Văn Giang]], tỉnh [[Hưng Yên]].
+* Đường Phú Thị: từ ngã ba giao [[Đường Dương Đức Hiền]] đi ngã ba thôn Bài Tâm (xã [[Thuận An, Hà Nội| Dương Quang]])
+* Đường Nguyễn Huy Nhuận đi quốc lộ 5
+* Hệ thống xe buýt: 52A, 52B, 204.
+
+== Danh nhân== 
+*[[Hoàng thái hậu Ỷ Lan]] (1044-1117); có giả thiết thì đây là quê hương bà
+*[[Nguyễn Huy Nhuận]] (1678-1758) - tiến sĩ, Tham tụng; Thượng thư trải 5 bộ, Tri Quốc Tử Giám, đã được đặt tên đường tại quê hương Gia Lâm. 
+*[[Đoàn Bá Dung]] - tiến sĩ, Thượng thư; 
+*[[Cao Dương Trạc]] - tiến sĩ, Thượng thư; 
+*[[Trịnh Bá Tướng]] - tiến sĩ, Thượng thư; 
+*[[Nguyễn Huy Mãn]] (1688 - 1739) - tiến sĩ khoa Tân Sửu (1721), Giám sinh trường Quốc Tử Giám, Gia thần trong phủ Lượng quốc thuộc Vương phủ chúa Trịnh, giữ chức Đô Ngự Sử, Hiến sát sứ Sơn Nam, Đốc đồng Thanh Hoa, thầy dạy hai anh em Nguyễn Huệ, Nguyễn Nghiễm (quê Tiên Điền, Hà Tĩnh) đều đỗ tiến sĩ; Nguyễn Nghiễm là thân phụ của thi hào Nguyễn Du.
+*[[Nguyễn Huy Thuật]] (1690-) - tiến sĩ khoa Quý Sửu (1733), văn võ song toàn, Đề hình Giám sát Ngự sử, Hiến sát sứ xứ Sơn Tây, Đốc đồng xứ Kinh Bắc, Thanh Hoa; Tham chính xứ Sơn Tây, Hàn lâm viện Thừa chỉ. Khi về hưu, cụ được chúa Trịnh tặng ba chữ "Kế phương đình" và bốn câu đối; 
+*[[Nguyễn Huy Dận]] (1708-1780), hiệu Giới Am, lấy con gái quan Hộ Bộ Thượng thư Cao Dương Trạc (cùng làng Sủi); tiến sĩ khoa Mậu Thìn (1748), Tri phủ Từ Sơn, Hàn lâm viện Thị chế, Đông các Hiệu thư, Thái thường Tự khanh, Đốc đồng An Quảng, Sơn Nam, Tả Tham chính Thái Nguyên. Cụ có trước tác để lại, trong đó có bài văn bia Hữu công thôn nội bi ký/ Vĩnh cửu bất san được dựng tại đền thờ Sỹ Nhiếp (xã Thanh Khương, huyện Thuận Thành, tỉnh Bắc Ninh). 
+*[[Nguyễn Huy Cẩn]], tức Cận (1729-1790), tên hiệu là Phương Am, Hội nguyên tiến sĩ, tiến sĩ khoa Canh Thìn (1760), Tri phủ Lạng Giang, sau từ quan, về mở trường Phương Am dạy học. Cụ có nhiều tác phẩm thơ văn, trong số đó, sau này được học trò là Cao Huy Diệu (cùng làng) tập hợp và soạn thành cuốn "Phương Am Nguyễn tiên sinh truyện" ghi lại 91 bài thơ của thầy mình (hiện vẫn còn ở Viện Hán Nôm); cụ còn là tác giả của bản "Tuyên văn Mục lục" cả chữ Hán và chữ Nôm có nội dung nhân bản và giáo dục cao, ca ngợi phong thổ, cảnh đẹp và truyền thống Làng Sủi. 
+*[[Nguyễn Huy Lượng]] (1759-1808), đỗ Hương cống, Nhà chính trị, Nhà thơ nổi tiếng, giữ chức Hữu Thị Lang Bộ Hộ, danh nhân phò Tây Sơn, sáng tác nhiều thơ văn (Tụng tây hồ phú, Cung oán thi, Lượng như long phú, Văn tế trận vong tướng sỹ, Thơ Hồ Tây, Diễn ca "Chinh phụ ngâm" của Đặng Trần Côn, Ngự đạo hành cung nhật trình, Tam thiên tự giải nghĩa, Tây hồ cảnh tụng, Văn tế con dâu Hoàng Phùng Cơ...), trong đó nổi bật nhất là danh tác "Tụng Tây Hồ phú". Cụ đã được đặt tên đường tại nhiều thành phố lớn ở Việt Nam như Thành phố Hồ Chí Minh, Đà Nẵng, TT-Huế. 
+*[[Cao Bá Quát]] (1809 -1855): Nhà thơ nổi tiếng, đỗ Hương cống (cử nhân). Đã được đặt tên đường ở nhiều thành phố lớn ở Việt Nam.
+
+ -->
+
+== Danh nhân == 
+* '''[[Nguyễn Đức Quỳ]]''' (1914 – 1989) là nhà cách mạng và ngoại giao Việt Nam.
+* Nguyên phi '''[[Ỷ Lan]]''' hay còn gọi là "'''Bà Tấm'''" (1044 – 1117), là [[phi tần]] của Hoàng đế [[Lý Thánh Tông]], mẹ ruột của [[hoàng đế]] [[Lý Nhân Tông]] trong [[lịch sử Việt Nam]].
+* '''[[Đào Cử]]''' (1449 – ?), là danh thần [[nhà Lê sơ]] trong [[lịch sử Việt Nam]].
+* Thượng tướng '''[[Bùi Phùng]]''' (1920 - 1999), là một [[Tướng lĩnh Quân đội nhân dân Việt Nam|Tướng lĩnh cao cấp Quân đội nhân dân Việt Nam]].
+* '''[[Dương Đức Hiền]]''' (1916 – 1963), là một nhà hoạt động [[Chính trị Việt Nam|chính trị]] Việt Nam.
+
+== Kinh tế == 
+Kinh tế tại xã có tốc độ tăng trưởng cao với sự chuyển dịch cơ cấu kinh tế, ưu tiên phát triển công nghiệp - xây dựng, thương mại - dịch vụ, nông nghiệp.<ref name = ":1">[https://hanoionline.vn/xa-thuan-an-nhung-thong-tin-chi-tiet-sau-sap-xep-344045.htm "Xã Thuận An: Những thông tin chi tiết sau sắp xếp"]. Hanoionline.vn. Truy cập ngày 1 tháng 8 năm 2025.</ref>
+
+Trên địa bàn Thuận An có bốn cụm làng nghề tập trung là Dương Quang, Lệ Chi, Phú Sơn và Đặng Xá, duy trì các làng nghề thủ công đặc trưng như mây tre đan, mộc, nề.<ref name = ":0">[https://hanoionline.vn/xa-thuan-an-tat-ca-thong-tin-chi-dan-ban-can-biet-345655.htm "Xã Thuận An: Tất cả thông tin chỉ dẫn bạn cần biết"]. Hanoionline.vn. Truy cập ngày 1 tháng 8 năm 2025.</ref> Cụ thể:
+
+* Nghề mây tre đan (sản xuất chổi, giá, điếu cày, cọc tre...) tại thôn Quang Trung
+* Nghề hàng xáo tại hai thôn Bình Trù và Yên Mỹ
+* Nghề nề, mộc truyền thống ở Yên Mỹ
+* Nghề đan rổ rá ở thôn Quán Khê.<ref name = ":1" />
+
+Xã có các sản phẩm nông nghiệp đặc trưng, trong đó sản phẩm nấm linh chi đã được công nhận [[Chương trình Mỗi xã một sản phẩm|OCOP]], cùng với mô hình trồng bưởi [[VietGAP]] và hoa lan công nghệ cao.<ref name = ":0" />
+
+== Giáo dục== 
+Xã Thuận An có [[Học viện Tòa án]] và [[Trường Đại học Công nghiệp và Thương mại Hà Nội]].<ref>{{Chú thích báo | title = Trường Đại học Công nghiệp Dệt May Hà Nội | url = http://hict.edu.vn/ | archive-url = https://web.archive.org/web/20250709091517/http://hict.edu.vn/ | archive-date = 2025-07-09 | access-date = 2025-08-01 | language = vi | url-status = live }}</ref>
+
+Các cơ sở giáo dục khác bao gồm Trường TH & THCS Kim Sơn, Trường TH & THCS Phú Thị, Trường TH & THCS Dương Quang, Trường TH & THCS Lệ Chi, Trường TH & THCS Đặng Xá.
+
+== Di tích== 
+* [[Chùa Keo (Hà Nội)|Chùa Keo]] (Báo Ân Trùng Nghiêm Tự) tọa lạc ở thôn Giao Tự nhưng thuộc thôn Giao Tất nên trong vùng hay có câu " Chùa Giao Tất, đất Giao Tự". Chùa thờ Bà Keo (Pháp Vân). Lễ hội chùa Keo hàng năm diễn ra vào ngày mùng 6 tháng 4 âm lịch hàng năm.
+* Đình làng Kim Sơn thờ 2 vị [[tướng nhà Đinh]] là Cao Điền Công và em trai Cao Đỗ Công có công đánh dẹp [[loạn 12 sứ quân]] và đánh giặc Chiêm Thành. Vùng đất Kim Sơn là nơi 2 anh em được Vua [[Đinh Tiên Hoàng]] ban thực ấp, lập nghiệp tại đây. Lễ hội đình làng Kim Sơn diễn ra vào ngày 12 tháng 3 âm lịch hàng năm.<ref>{{Chú thích web| url = http://gialam.hanoi.gov.vn/di-tich-lich-su-le-hoi/-/view_content/385912-dinh-nghe-kim-son.html| tựa đề = Đình, nghè Kim Sơn| tác giả = | ngày = 2015-04-16| website = Cổng thông tin điện tử huyện Gia Lâm| url lưu trữ = https://web.archive.org/web/20210624122607/https://gialam.hanoi.gov.vn/di-tich-lich-su-le-hoi/-/view_content/385912-dinh-nghe-kim-son.html| ngày lưu trữ = 2021-06-24| ngày truy cập = | url-status = dead}}</ref>
+* Lễ hội làng Keo (bao gồm cả hội đình 15 tháng 3 âm lịch và hội chùa Keo tháng 4 âm lịch tại thôn Giao Tất) được tôn vinh là di sản văn hóa phi vật thể quốc gia 2024.
+
+== Chú thích== 
+{{reflist}}
+== Tham khảo==
+{{sơ khai Hà Nội}}
+{{Đơn vị hành chính thuộc thành phố Hà Nội}}

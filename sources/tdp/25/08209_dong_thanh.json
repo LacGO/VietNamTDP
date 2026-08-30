@@ -1,0 +1,200 @@
+{
+  "ward_code": "08209",
+  "ward_name": "Đông Thành",
+  "province_code": "25",
+  "resolution": "",
+  "arrangement": "truoc_2026_07",
+  "effective_date": "",
+  "verified": "unverified",
+  "extraction": {
+    "source": "vi.wikipedia.org",
+    "title": "Đông Thành, Phú Thọ",
+    "mode": "narrative"
+  },
+  "sources": [
+    {
+      "key": "wiki-08209-1",
+      "title": "Nghị quyết số 1/NQ-UBBC về việc công bố danh sách những người ứng cử đại biểu Hội đồng nhân dân xã Đông Thành khóa XXV, nhiệm kỳ 2026 - 2031 theo từng đơn vị bầu cử",
+      "url": "https://dongthanh.phutho.gov.vn/phocadownload/NQ%20cong%20bo%20DS%20nhung%20nguoi%20ung%20cu%20dai%20bieu%20QH%20vaf%20HDND%20cac%20cap_0001_compressed.pdf",
+      "date": "2026-02-13",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-08209-2",
+      "title": "NGHỊ QUYẾT 203/2025/QH15 SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA HIẾN PHÁP NƯỚC CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM",
+      "url": "https://xaydungchinhsach.chinhphu.vn/nghi-quyet-203-2025-qh15-sua-doi-bo-sung-mot-so-dieu-cua-hien-phap-nuoc-cong-hoa-xa-hoi-chu-nghia-viet-nam-119250616181735552.htm",
+      "date": "2025-06-28",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-08209-3",
+      "title": "Nghị quyết số 1676/NQ-UBTVQH15 sắp xếp các ĐVHC cấp xã của tỉnh Phú Thọ năm 2025",
+      "url": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-1676-nq-ubtvqh15-sap-xep-cac-dvhc-cap-xa-cua-tinh-phu-tho-nam-2025-119250616204317326.htm",
+      "date": "2025-06-20",
+      "type": "wikipedia-ref"
+    }
+  ],
+  "note": "Trích tự động từ Wikipedia tiếng Việt (mode=narrative). Cần đối chiếu nghị quyết HĐND phường/xã. ⚠️ Danh mục có thể là hiện trạng TRƯỚC sắp xếp thôn/TDP 01/7/2026 — Wikipedia chưa cập nhật nghị quyết mới.",
+  "tdp": [
+    {
+      "name": "1 Đông Thành",
+      "type": "khu"
+    },
+    {
+      "name": "2 Đông Thành",
+      "type": "khu"
+    },
+    {
+      "name": "3 Đông Thành",
+      "type": "khu"
+    },
+    {
+      "name": "4 Đông Thành",
+      "type": "khu"
+    },
+    {
+      "name": "5 Đông Thành",
+      "type": "khu"
+    },
+    {
+      "name": "6 Đông Thành",
+      "type": "khu"
+    },
+    {
+      "name": "7 Đông Thành",
+      "type": "khu"
+    },
+    {
+      "name": "8 Đông Thành",
+      "type": "khu"
+    },
+    {
+      "name": "9 Đông Thành",
+      "type": "khu"
+    },
+    {
+      "name": "10 Đông Thành",
+      "type": "khu"
+    },
+    {
+      "name": "11 Đông Thành",
+      "type": "khu"
+    },
+    {
+      "name": "12 Đông Thành",
+      "type": "khu"
+    },
+    {
+      "name": "13 Đông Thành",
+      "type": "khu"
+    },
+    {
+      "name": "14 Đông Thành",
+      "type": "khu"
+    },
+    {
+      "name": "15 Đông Thành",
+      "type": "khu"
+    },
+    {
+      "name": "16 Đông Thành",
+      "type": "khu"
+    },
+    {
+      "name": "17 Đông Thành",
+      "type": "khu"
+    },
+    {
+      "name": "1 Khải Xuân",
+      "type": "khu"
+    },
+    {
+      "name": "2 Khải Xuân",
+      "type": "khu"
+    },
+    {
+      "name": "3 Khải Xuân",
+      "type": "khu"
+    },
+    {
+      "name": "4 Khải Xuân",
+      "type": "khu"
+    },
+    {
+      "name": "5 Khải Xuân",
+      "type": "khu"
+    },
+    {
+      "name": "6 Khải Xuân",
+      "type": "khu"
+    },
+    {
+      "name": "7 Khải Xuân",
+      "type": "khu"
+    },
+    {
+      "name": "8 Khải Xuân",
+      "type": "khu"
+    },
+    {
+      "name": "9 Khải Xuân",
+      "type": "khu"
+    },
+    {
+      "name": "10 Khải Xuân",
+      "type": "khu"
+    },
+    {
+      "name": "11 Khải Xuân",
+      "type": "khu"
+    },
+    {
+      "name": "12 Khải Xuân",
+      "type": "khu"
+    },
+    {
+      "name": "1 Võ Lao",
+      "type": "khu"
+    },
+    {
+      "name": "2 Võ Lao",
+      "type": "khu"
+    },
+    {
+      "name": "3 Võ Lao",
+      "type": "khu"
+    },
+    {
+      "name": "4 Võ Lao",
+      "type": "khu"
+    },
+    {
+      "name": "5 Võ Lao",
+      "type": "khu"
+    },
+    {
+      "name": "6 Võ Lao",
+      "type": "khu"
+    },
+    {
+      "name": "7 Võ Lao",
+      "type": "khu"
+    },
+    {
+      "name": "8 Võ Lao",
+      "type": "khu"
+    },
+    {
+      "name": "9 Võ Lao",
+      "type": "khu"
+    },
+    {
+      "name": "10 Võ Lao",
+      "type": "khu"
+    },
+    {
+      "name": "11 Võ Lao",
+      "type": "khu"
+    }
+  ]
+}

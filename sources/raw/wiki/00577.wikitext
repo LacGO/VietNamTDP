@@ -1,0 +1,352 @@
+{{Thông tin đơn vị hành chính Việt Nam|Xã
+| tên = Bát Tràng
+| hình = Bat Trang communal house (2018) 01.jpg
+| ghi chú hình = Đình làng Bát Tràng
+| vĩ độ = 20.986614058863303
+| kinh độ = 105.93305033715036
+| diện tích = 20,67 km²
+| dân số = 48.987 người
+| thời điểm dân số =2025 
+| mật độ dân số = {{formatnum:{{#expr:floor({{formatnum:48.987| R}}/{{formatnum:20,67| R}})}} }} người/km²
+| vùng = [[Đồng bằng sông Hồng]]
+| thành phố = [[Hà Nội]]
+| thành lập = 
+| trụ sở UBND =Thôn Đào Xuyên<ref>{{Chú thích web |url=https://storage-vnportal.vnpt.vn/gov-hni/6244/VanBan/2025/6/25/TB-729-2025.pdf |title=Thông báo số 729/TB-UBND ngày 25 tháng 6 năm 2025 của Ủy ban nhân dân thành phố Hà Nội về địa điểm trụ sở làm việc của 126 phường, xã sau sắp xếp thuộc phạm vi quản lý của thành phố Hà Nội|access-date=2026-06-15 |archive-date=2026-06-15 |archive-url=https://web.archive.org/web/20260615034519/https://storage-vnportal.vnpt.vn/gov-hni/6244/VanBan/2025/6/25/TB-729-2025.pdf |url-status=dead | website = Cổng Thông tin điện tử Ủy ban nhân dân thành phố Hà Nội}}</ref> 
+| mã hành chính =00577<ref>{{Chú thích web |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/19ttg.signed.pdf |title=Quyết định số 19/2025/QĐ-TTg ngày 30 tháng 6 năm 2025 của Thủ tướng Chính phủ về việc Ban hành Bảng danh mục và mã số các đơn vị hành chính Việt Nam |access-date=2026-06-15 |archive-date=2026-06-15 |archive-url=https://web.archive.org/web/20260615034519/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/19ttg.signed.pdf |url-status=dead | website = Cổng Thông tin điện tử Chính phủ}}</ref> 
+| mã bưu chính =
+|bản đồ 1={{maplink|frame=yes|plain=yes|type=shape|frame-width=280|frame-align=center|stroke-width=3}}|web={{url|battrang.hanoi.gov.vn}}|trụ sở Đảng ủy=Thôn Giang Cao}}{{other|Bát Tràng (định hướng)}}
+'''Bát Tràng''' là một [[Xã (Việt Nam)|xã]] thuộc thành phố [[Hà Nội]], [[Việt Nam]].
+
+== Địa lý ==
+Xã Bát Tràng có vị trí địa lý:
+
+* Phía đông giáp xã [[Phụng Công]] và xã [[Văn Giang (xã)|Văn Giang]] thuộc tỉnh [[Hưng Yên]]
+* Phía tây giáp phường [[Lĩnh Nam (phường)|Lĩnh Nam]] và xã [[Thanh Trì (xã)|Thanh Trì]] với ranh giới tự nhiên là [[sông Hồng]]
+* Phía nam giáp xã [[Nam Phù]] với ranh giới tự nhiên là [[sông Hồng]]
+* Phía bắc giáp phường [[Long Biên (phường)|Long Biên]] và xã [[Gia Lâm, Hà Nội|Gia Lâm]].<ref>{{Chú thích web |last=Viện nghiên cứu Phát triển kinh tế – xã hội Hà Nội|date=2025-07-02|title=Xã Bát Tràng: Những thông tin chi tiết sau sắp xếp|url=https://hanoionline.vn/xa-bat-trang-nhung-thong-tin-chi-tiet-sau-sap-xep-344047.htm|url-status=live|archive-url=https://web.archive.org/web/20260701400809/https://hanoionline.vn/xa-bat-trang-nhung-thong-tin-chi-tiet-sau-sap-xep-344047.htm|archive-date=2026-07-01|access-date=2026-07-01|website=Cơ quan Báo và Phát thanh Truyền hình Hà Nội}}</ref><ref>{{Chú thích web |last=Cơ quan Báo và Phát thanh Truyền hình Hà Nội|date=2025-07-08|title=Xã Bát Tràng: Tất cả thông tin chỉ dẫn bạn cần biết|url=https://hanoionline.vn/xa-bat-trang-tat-ca-thong-tin-chi-dan-ban-can-biet-345607.htm|url-status=live|archive-url=https://web.archive.org/web/20260711401509/https://hanoionline.vn/xa-bat-trang-tat-ca-thong-tin-chi-dan-ban-can-biet-345607.htm|archive-date=2026-07-11|access-date=2026-07-11}}</ref>
+Xã Bát Tràng có diện tích tự nhiên là 20,67&nbsp;km<sup>2</sup>, quy mô dân số năm 2025 là 48.987 người và mật độ dân số đạt 2.369 người/km<sup>2</sup>.<ref>{{Chú thích web |last=Mai Hữu|date=2026-04-05|title=Hà Nội: Chi tiết phương án tổng thể sắp xếp đơn vị hành chính cấp xã|url=https://hanoimoi.vn/ha-noi-chi-tiet-phuong-an-tong-the-sap-xep-don-vi-hanh-chinh-cap-xa-700278.html|url-status=live|archive-url=https://web.archive.org/web/20260711401509/https://hanoimoi.vn/ha-noi-chi-tiet-phuong-an-tong-the-sap-xep-don-vi-hanh-chinh-cap-xa-700278.html|archive-date=2026-07-11|access-date=2026-07-11|website=Cơ quan Báo và Phát thanh, truyền hình Hà Nội}}</ref><ref>Công văn số 2896/BNV-CQĐP ngày 27 tháng 5 năm 2025 của Bộ Nội vụ về việc cung cấp thông tin danh mục dự kiến đơn vị hành chính cấp xã mới.</ref>
+
+==Lịch sử==
+
+=== Trước năm 1976 ===
+Thời [[nhà Hậu Lê|Hậu Lê]], xã Bát Tràng thuộc huyện Gia Lâm, phủ Thuận An, trấn Kinh Bắc. Sang thời [[nhà Nguyễn]], năm 1822 trấn Kinh Bắc đổi làm trấn Bắc Ninh, năm [[1831]] đổi làm tỉnh [[Bắc Ninh]], lúc này xã Bát Tràng thuộc tổng Đông Dư, huyện Gia Lâm, phủ Thuận An. Đến năm [[1862]] chia về phủ Thuận Thành và năm 1912 chia về phủ Từ Sơn. Lúc bấy giờ, Bát Tràng được chia thành 3 xã: Giang Cao, Bát Tràng, Kim Quan.
+
+Tháng 2 năm 1948, hợp nhất 3 xã: Bát Tràng, Giang Cao, Kim Lan thành xã Quang Minh. Ngày 9 tháng 4 năm 1957, chia xã Quang Minh thành xã Quang Minh và xã Kim Lan. Ngày 20 tháng 4 năm 1961, Quốc hội ban hành Nghị quyết<ref>{{Chú thích web|url=https://m.thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Nghi-Quyet-mo-rong-thanh-pho-Ha-Noi-42689.aspx|tựa đề= Nghị quyết về việc mở rộng thành phố Hà Nội |tác giả=|ngày=|website= Thư viện Pháp luật |url lưu trữ=|ngày lưu trữ=|ngày truy cập=}}</ref> về việc sáp nhập xã Quang Minh vào thành phố Hà Nội quản lý. Ngày 31 tháng 5 năm 1961, Hội đồng Chính phủ ban hành 78-CP.<ref>{{Chú thích web|url=https://m.thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-78-CP-chia-khu-vuc-noi-ngoai-thanh-thanh-pho-Ha-Noi-20286.aspx|tựa đề= Quyết định số 78-CP năm 1961 chia các khu vực nội thành và ngoại thành của Thành phố Hà Nội |tác giả=|ngày=|website= Thư viện Pháp luật |url lưu trữ=|ngày lưu trữ=|ngày truy cập=}}</ref> Theo đó, xã Quang Minh thuộc huyện Gia Lâm, thành phố Hà Nội. Năm 1965, xã Quang Minh được chia thành hai xã Bát Tràng và Kim Lan.<ref name="ĐA">{{chú thích sách |author=Xã Bát tràng mới |url=https://hanoimoi.vn/xa-bat-trang-gia-lam-phu-dong-thuan-an-moi-san-sang-don-ngay-cong-bo-quyet-dinh-thanh-lap-707146.html#:~:text=X%C3%A3%20B%C3%A1t%20Tr%C3%A0ng%20m%E1%BB%9Bi%20c%C3%B3,Tr%C3%A2u%20Qu%E1%BB%B3%20(Gia%20L%C3%A2m)%3B |title=Xã Bát Tràng sẵn sàng đón ngày công bố quyết định thành lập |year=2025 |location=Bát Tràng, Hà Nội |p= |archive-url= |archive-date=2025-07-01 |url-status=live}}</ref><ref>{{Chú thích web|url=https://m.thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Nghi-quyet-30-NQ-HDND-2020-thanh-lap-dat-ten-thon-to-dan-pho-thanh-pho-Ha-Noi-461372.aspx|tựa đề= Nghị quyết số 30/NQ-HĐND năm 2020 về việc thành lập đặt tên thôn tổ dân phố thành phố Hà Nội năm 2020 |tác giả=|ngày=2023-12-09|website= Thư viện Pháp luật |url lưu trữ=|ngày lưu trữ=|ngày truy cập=}}</ref>
+
+=== Giai đoạn 1976 – nay ===
+Sau ngày 2 tháng 7 năm 1976, 8 xã: Bát Tràng, Cự Khối, Đa Tốn, Đông Dư, Kim Lan, Thạch Bàn, Trâu Quỳ và Văn Đức thuộc huyện [[Gia Lâm (huyện)|Gia Lâm]] của thành phố [[Hà Nội]].
+
+Ngày 6 tháng 11 năm 2003:
+
+* Tách toàn bộ diện tích tự nhiên và dân số của các xã: Thạch Bàn và Cự Khối thuộc huyện [[Gia Lâm (huyện)|Gia Lâm]] về quận [[Long Biên (quận)|Long Biên]] mới thành lập.
+* Thành lập 2 phường: Thạch Bàn và Cự Khối (quận [[Long Biên (quận)|Long Biên]]) trên cơ sở toàn bộ diện tích tự nhiên và dân số của 2 xã có tên tương ứng.<ref>Nghị định số 132/2003/NĐ-CP ngày 6 tháng 11 năm 2003 của Chính phủ về việc điều chỉnh địa giới hành chính để thành lập các quận Long Biên, Hoàng Mai, thành lập các phường trực thuộc quận Long Biên, quận Hoàng Mai, thành phố Hà Nội.</ref>
+
+Ngày 5 tháng 1 năm 2005, thành lập thị trấn Trâu Quỳ – thị trấn huyện lỵ huyện [[Gia Lâm (huyện)|Gia Lâm]] trên cơ sở toàn bộ diện tích tự nhiên và dân số của xã Trâu Quỳ.<ref>{{Chú thích web |tựa đề=Nghị định số 2/2005/NĐ-CP ngày 5 tháng 1 năm 2005 của Chính phủ về việc điều chỉnh địa giới hành chính, thành lập phường thuộc các quận Ba Đình, Cầu Giấy và thành lập thị trấn Trâu Quỳ, huyện Gia Lâm, thành phố Hà Nội |url=https://chinhphu.vn/default.aspx?pageid=27160&docid=14306 |url-status=live |archive-url=https://web.archive.org/web/20260710401509/https://chinhphu.vn/default.aspx?pageid=27160&docid=14306 |archive-date=2026-07-10 |access-date=2026-07-10 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+
+Ngày 14 tháng 11 năm 2024:
+
+* Nhập xã Đông Dư (huyện [[Gia Lâm (huyện)|Gia Lâm]]) vào xã Bát Tràng.
+* Thành lập xã Kim Đức (huyện [[Gia Lâm (huyện)|Gia Lâm]]) trên cơ sở nhập xã Kim Lan và xã Văn Đức.<ref>{{Chú thích web |tiêu đề=Nghị quyết số 1286/NQ-UBTVQH15 ngày 14 tháng 11 năm 2024 của Ủy ban Thường vụ Quốc hội về việc sắp xếp đơn vị hành chính cấp xã của thành phố Hà Nội giai đoạn 2023 – 2025 |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/11/1286-qh.signed.pdf |url-status=live |archive-url=https://web.archive.org/web/20241121185017/https://quochoi.vn/tintuc/Pages/tin-hoat-dong-cua-quoc-hoi.aspx?ItemID=91149 |ngày lưu trữ=2024-11-21 |ngày truy cập=2024-11-21 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+
+Ngày 16 tháng 6 năm 2025:
+
+* Kết thúc hoạt động của đơn vị hành chính cấp huyện trong cả nước.<ref>{{Chú thích web |last= |date= |title=Nghị quyết số 203/2025/QH15 ngày 16 tháng 6 năm 2025 của Quốc hội khóa XV, Kỳ họp thứ 9 về việc sửa đổi, bổ sung một số điều của Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/nq-sua-doi-hien-phap.pdf |url-status=live |archive-url=https://web.archive.org/web/20260613090807/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/nq-sua-doi-hien-phap.pdf |archive-date=2026-06-13 |access-date=2026-06-13 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+* Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của xã Kim Đức (huyện [[Gia Lâm (huyện)|Gia Lâm]]), phần còn lại của phường Cự Khối, phần còn lại của phường Thạch Bàn (quận [[Long Biên (quận)|Long Biên]]), phần còn lại của thị trấn Trâu Quỳ và xã Đa Tốn, phần còn lại của xã Bát Tràng (huyện [[Gia Lâm (huyện)|Gia Lâm]]) thành xã mới có tên gọi là xã Bát Tràng.<ref>{{Chú thích web |title=Nghị quyết số 1656/NQ-UBTVQH15 ngày 16 tháng 6 năm 2025 của Ủy ban Thường vụ Quốc hội về việc sắp xếp các đơn vị hành chính cấp xã của thành phố Hà Nội năm 2025 |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf |url-status=live |archive-url=https://web.archive.org/web/20260630400809/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf |archive-date=2026-06-30 |access-date=2026-06-30 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+* Sau khi sắp xếp, xã Bát Tràng được chia thành 26 thôn.<ref>10 thôn: đánh số từ 1 đến 5 (trước thuộc xã Kim Lan), Chử Xá, Sơn Hô và Trung Quan từ 1 đến 3 (trước thuộc xã Văn Đức) của xã Kim Đức cũ; 5 thôn: Đào Xuyên, Khoan Tế, Lê Xá, Ngọc Động và Thuận Tốn của xã Đa Tốn cũ; 11 thôn: đánh số từ 1 đến 4, 7, 8 (trước thuộc xã Đông Dư), từ 1 đến 3 Giang Cao, 1 Làng Cổ Bát Tràng và 2 Bát Tràng của xã Bát Tràng cũ.</ref><ref>{{Chú thích web |title=Thông tư số 10/2022/TT-BTNMT ngày 29 tháng 9 năm 2022 của Bộ Tài nguyên và Môi trường về việc Ban hành Danh mục địa danh dân cư, sơn văn, thủy văn, kinh tế – xã hội phục vụ công tác thành lập bản đồ thành phố Hà Nội|url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2022/10/10-btnmt.pdf|url-status=live|archive-url=https://web.archive.org/web/20260630400809/https://datafiles.chinhphu.vn/cpp/files/vbpq/2022/10/10-btnmt.pdf|archive-date=2026-06-30|access-date=2026-06-30|website=Cổng Thông tin điện tử Chính phủ}}</ref><ref name=":0">{{Chú thích web |last=Trang Thông tin điện tử xã Bát Tràng – thành phố Hà Nội|date=2026-03-20|title=Bát Tràng công bố kết quả bầu cử đại biểu Hội đồng nhân dân xã nhiệm kỳ 2026 – 2031: Dân chủ, đúng luật, tỷ lệ cử tri tham gia đạt trên 99%|url=https://battrang.hanoi.gov.vn/bau-cu-dai-bieu-quoc-hoi-dai-bieu-hdnd-cac-cap-nhiem-ky-2026-2031/bat-trang-cong-bo-ket-qua-bau-cu-dai-bieu-hdnd-xa-nhiem-ky-2026-2031-dan-chu-dung-luat-ty-le-cu-tri-tham-gia-dat-tren-99-2757260319150702554.htm?gidzl=ZlNnVByFUpEAwlLwjH9yC8BhzdghHdqmcEdnVFmIV3MVxFOjhaLnPP3i-t_n5t5dbUIiBMC7oxz-kWv_CG|url-status=live|archive-url=https://web.archive.org/web/20260701400809/https://battrang.hanoi.gov.vn/bau-cu-dai-bieu-quoc-hoi-dai-bieu-hdnd-cac-cap-nhiem-ky-2026-2031/bat-trang-cong-bo-ket-qua-bau-cu-dai-bieu-hdnd-xa-nhiem-ky-2026-2031-dan-chu-dung-luat-ty-le-cu-tri-tham-gia-dat-tren-99-2757260319150702554.htm?gidzl=ZlNnVByFUpEAwlLwjH9yC8BhzdghHdqmcEdnVFmIV3MVxFOjhaLnPP3i-t_n5t5dbUIiBMC7oxz-kWv_CG|archive-date=2026-07-01|access-date=2026-07-01|website=}}</ref>
+
+Ngày 5 tháng 12 năm 2025, đổi tên 10 thôn, đánh số từ 1 đến 4, 7, 8 xã Bát Tràng và từ 1 đến 5 xã Kim Đức lần lượt thành 10 thôn: từ 1 đến 6 Đông Dư và từ 1 đến 5 Kim Lan.<ref>I. Xã Bát Tràng cũ gồm: 1. Thôn 1 xã Bát Tràng, đổi thành Thôn 1 Đông Dư, xã Bát Tràng; 2. Thôn 2 xã Bát Tràng, đổi thành Thôn 2 Đông Dư, xã Bát Tràng; 3. Thôn 3 xã Bát Tràng, đổi thành Thôn 3 Đông Dư, xã Bát Tràng; 4. Thôn 4 xã Bát Tràng, đổi thành Thôn 4 Đông Dư, xã Bát Tràng; 5. Thôn 7 xã Bát Tràng, đổi thành Thôn 5 Đông Dư, xã Bát Tràng; 6. Thôn 8 xã Bát Tràng, đổi thành Thôn 6 Đông Dư, xã Bát Tràng; II. Xã Kim Đức cũ gồm: 1. Thôn 1 xã Kim Đức, đổi thành Thôn 1 Kim Lan, xã Bát Tràng; 2. Thôn 2 xã Kim Đức, đổi thành Thôn 2 Kim Lan, xã Bát Tràng; 3. Thôn 3 xã Kim Đức, đổi thành Thôn 3 Kim Lan, xã Bát Tràng; 4. Thôn 4 xã Kim Đức, đổi thành Thôn 4 Kim Lan, xã Bát Tràng; 5. Thôn 5 xã Kim Đức, đổi thành Thôn 5 Kim Lan, xã Bát Tràng.</ref><ref>{{Chú thích web |title=Phương án số 5/PA-UBND ngày 15 tháng 8 năm 2025 của Ủy ban nhân dân xã Bát Tràng về việc đổi tên thôn trên địa bàn xã Bát Tràng, thành phố Hà Nội |url=https://datafiles.hanoi.gov.vn/gov-hni/7620/VanBan/2025/12/2/Ph%C6%B0%C6%A1ng%20%C3%A1n%20%C4%91%E1%BB%95i%20t%C3%AAn%20th%C3%B4n.pdf |url-status=live |archive-url=https://web.archive.org/web/20260710401509/https://datafiles.hanoi.gov.vn/gov-hni/7620/VanBan/2025/12/2/Ph%C6%B0%C6%A1ng%20%C3%A1n%20%C4%91%E1%BB%95i%20t%C3%AAn%20th%C3%B4n.pdf |archive-date=2026-07-10 |access-date=2026-07-10 |website=Trang Thông tin điện tử xã Bát Tràng – thành phố Hà Nội}}</ref><ref>{{Chú thích web |last=Trang Thông tin điện tử xã Bát Tràng – thành phố Hà Nội |date=2025-12-05 |title=Hội đồng nhân dân xã Bát Tràng thông qua 9 Nghị quyết tại kỳ họp cuối năm |url=https://battrang.hanoi.gov.vn/tin-tuc-su-kien/hdnd-xa-bat-trang-thong-qua-9-nghi-quyet-tai-ky-hop-cuoi-nam-2757251205155819924.htm?gidzl=NiX2CXU4kKfQrqOq7Pc-ILBMHZ83pRnFIDH1D5IPlKfFqKPb1iwm6a3HIpTPdB0OHTaSPMD_VSv94eMzI0 |url-status=live |archive-url=https://web.archive.org/web/20260710401509/https://battrang.hanoi.gov.vn/tin-tuc-su-kien/hdnd-xa-bat-trang-thong-qua-9-nghi-quyet-tai-ky-hop-cuoi-nam-2757251205155819924.htm?gidzl=NiX2CXU4kKfQrqOq7Pc-ILBMHZ83pRnFIDH1D5IPlKfFqKPb1iwm6a3HIpTPdB0OHTaSPMD_VSv94eMzI0 |archive-date=2026-07-10 |access-date=2026-07-10}}</ref>
+
+Ngày 24 tháng 12 năm 2025, xác định một phần của xã Bát Tràng là [[Đô thị Việt Nam|đô thị loại II]] và [[Đô thị Việt Nam|đô thị loại III]].<ref>Đô thị loại II (chuyển tiếp từ 2 phường: Cự Khối và Thạch Bàn thuộc quận Long Biên) và đô thị loại III (chuyển tiếp từ thị trấn Trâu Quỳ thuộc huyện Gia Lâm).</ref><ref>{{Chú thích web |title=Nghị quyết số 111/2025/UBTVQH15 ngày 24 tháng 12 năm 2025 của Ủy ban Thường vụ Quốc hội về phân loại đô thị|url=https://cdn.nhandan.vn/files/f4a4abf7f9a0ba4a91744616546d850872b76917f90d5a74cc9eebef1369fb6f/111.pdf|url-status=dead|archive-url=https://web.archive.org/web/20260712401509/https://cdn.nhandan.vn/files/f4a4abf7f9a0ba4a91744616546d850872b76917f90d5a74cc9eebef1369fb6f/111.pdf|archive-date=2026-07-12|access-date=2026-07-12|website=Báo Nhân dân}}</ref>
+Ngày 25 tháng 6 năm 2026, thành lập 9 thôn mới: Giang Cao, Bát Tràng, Thượng Đông Dư, Hạ Đông Dư, Đa Tốn, Trung Quan, Chử Xá, 1 và 2 Kim Lan.<ref>1. Thôn Giang Cao được thành lập trên cơ sở sắp xếp toàn bộ diện tích tự nhiên, dân số và số hộ gia đình của Thôn 1 Giang Cao, Thôn 2 Giang Cao và Thôn 3 Giang Cao hiện nay; 2. Thôn Bát Tràng được thành lập trên cơ sở sáp nhập Thôn 1 Làng cổ Bát Tràng và Thôn 2 Bát Tràng; 3. Thôn Thượng Đông Dư được thành lập trên cơ sở sáp nhập toàn bộ Thôn 1 Đông Dư, Thôn 2 Đông Dư và Thôn 6 Đông Dư; 4. Thôn Đông Dư Hạ được thành lập trên cơ sở sáp nhập toàn bộ Thôn 3 Đông Dư, Thôn 4 Đông Dư và Thôn 5 Đông Dư; 5. Thôn Đa Tốn được thành lập trên cơ sở sáp nhập Thôn Ngọc Động (628 hộ gia đình) và Thôn Lê Xá (410 hộ gia đình); 6. Thôn Trung Quan được thành lập trên cơ sở sáp nhập toàn bộ Thôn Trung Quan 1, Thôn Trung Quan 2 và Thôn Trung Quan 3; 7. Thôn Chử Xá được thành lập trên cơ sở sáp nhập Thôn Chử Xá và Thôn Sơn Hô; 8. Thôn 1 Kim Lan được thành lập trên cơ sở sáp nhập toàn bộ Thôn 1 Kim Lan, Thôn 2 Kim Lan và hai phần ba Thôn 3 Kim Lan (Trục đường xuống Trường Tiều học Kim Lan, tính từ đoạn đầu đường liên xã Kim Lan chạy thẳng qua Trường Tiểu học và chạy hết vào ngõ xóm nhà trong cùng là hộ ông Cường Hòa hắt lên phía Thôn 2); 9. Thôn 2 Kim Lan được thành lập trên cơ sở phần còn lại của Thôn 3 Kim Lan (Tính từ đoạn đầu đường trục chính Kim Lan, lối vào Trường Tiểu học chạy thẳng đến hết ngõ trong cùng nhà ông Cường Hòa hắt xuống phía dưới bên tay phải giáp với Thôn 5 Kim Lan) cùng với toàn bộ diện tích và quy mô dân số của Thôn 4 Kim Lan và Thôn 5 Kim Lan hiện nay; 10. 03 thôn không thực hiện sắp xếp, gồm: Thôn Đào Xuyên, Thôn Thuận Tốn, Thôn Khoan Tế.</ref><ref name=":1">{{Chú thích web |title=Đề án tháng 6 năm 2026 của Ủy ban nhân dân xã Bát Tràng về sắp xếp để thành lập thôn trên địa bàn xã Bát Tràng |url=https://sqhx-hanoi.mediacdn.vn/91579363132710912/2026/6/11/du-thao-de-an-sap-xep-thon-xa-bat-trang-tp-ha-noi-17811860944071352513488.pdf |url-status=live |archive-url=https://web.archive.org/web/20260710401509/https://sqhx-hanoi.mediacdn.vn/91579363132710912/2026/6/11/du-thao-de-an-sap-xep-thon-xa-bat-trang-tp-ha-noi-17811860944071352513488.pdf |archive-date=2026-07-10 |access-date=2026-07-10 |website=Trang Thông tin điện tử xã Bát Tràng – thành phố Hà Nội}}</ref><ref name=":2">{{Chú thích web |last=Trang Thông tin điện tử xã Bát Tràng – thành phố Hà Nội |date=2026-06-27 |title=Hội đồng nhân dân xã Bát Tràng khóa XXII tổ chức Kỳ họp thứ 2, nhiệm kỳ 2026 – 2031 |url=https://battrang.hanoi.gov.vn/hoat-dong-hoi-dong-nhan-dan/hdnd-xa-bat-trang-khoa-xxii-to-chuc-ky-hop-thu-2-nhiem-ky-2026-2031-2757260625163347921.htm?gidzl=bWDMU1GKUHYI759-7Wb-6veTKNq0NNyOW1zMUrS9VXs76b4g1LvpJOWQN7XQ37DFZH8BAcEq9XfH4HLz6W |url-status=live |archive-url=https://web.archive.org/web/20260710401509/https://battrang.hanoi.gov.vn/hoat-dong-hoi-dong-nhan-dan/hdnd-xa-bat-trang-khoa-xxii-to-chuc-ky-hop-thu-2-nhiem-ky-2026-2031-2757260625163347921.htm?gidzl=bWDMU1GKUHYI759-7Wb-6veTKNq0NNyOW1zMUrS9VXs76b4g1LvpJOWQN7XQ37DFZH8BAcEq9XfH4HLz6W |archive-date=2026-07-10 |access-date=2026-07-10}}</ref>[[Tập tin:Bản đồ các thôn thuộc xã Bát Tràng – thành phố Hà Nội.png|trái|nhỏ|353x353px|Sơ đồ phương án phân chia địa giới hành chính từ 26 thôn thành 12 thôn thuộc xã Bát Tràng của thành phố Hà Nội (từ ngày 1 tháng 7 năm 2026)<ref name=":3">{{Chú thích web |last=Trang Thông tin điện tử xã Bát Tràng – thành phố Hà Nội |date=2026-06-11 |title=Ủy ban nhân dân xã Bát Tràng ban hành Dự thảo Đề án thành lập, sắp xếp thôn trên địa bàn xã Bát Tràng |url=https://battrang.hanoi.gov.vn/hoat-dong-khoi-chinh-quyen/uy-ban-nhan-dan-xa-bat-trang-ban-hanh-du-thao-de-an-thanh-lap-sap-xep-thon-tren-dia-ban-xa-bat-trang-2757260611205613922.htm?gidzl=A_J5TczxAI8lwy5mPM0h8YNfmNPvPNibRkoM8IzdVIPhkfnwAZPqBJsndYjuEd5tEhAH9ZLoljbbQdej80 |url-status=dead |archive-url=https://web.archive.org/web/20260730201509/https://battrang.hanoi.gov.vn/hoat-dong-khoi-chinh-quyen/uy-ban-nhan-dan-xa-bat-trang-ban-hanh-du-thao-de-an-thanh-lap-sap-xep-thon-tren-dia-ban-xa-bat-trang-2757260611205613922.htm?gidzl=A_J5TczxAI8lwy5mPM0h8YNfmNPvPNibRkoM8IzdVIPhkfnwAZPqBJsndYjuEd5tEhAH9ZLoljbbQdej80 |archive-date=2026-07-30 |access-date=2026-07-30}}</ref>]]<!-- 
+==Lịch sử==
+Phường Thạch Bàn được thành lập năm 2003 trên cơ sở toàn bộ 527,21 ha diện tích tự nhiên và 11.300 người của xã Thạch Bàn, huyện [[Gia Lâm (huyện)|Gia Lâm]].<ref name="ND132">[http://thuvienphapluat.vn/archive/Nghi-dinh/Nghi-dinh-132-2003-ND-CP-dieu-chinh-dia-gioi-hanh-chinh-de-thanh-lap-quan-Long-Bien-Hoang-Mai-phuong-thuoc-quan-Hoang-Mai-Ha-Noi-vb51571t11.aspx Nghị định số 132/2003/NĐ-CP ngày 6 tháng 11 năm 2003 của Chính phủ] về việc điều chỉnh địa giới hành chính để thành lập các quận Long Biên, Hoàng Mai, thành lập các phường trực thuộc quận Long Biên, quận Hoàng Mai, thành phố Hà Nội.</ref>
+==Hành chính==
+Phường Thạch Bàn được chia thành 16 tổ dân phố, bao gồm TDP số : 1, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17
+
+==Văn hóa==
+Đình Cầu Bây ở Thạch Bàn là di tích thờ vị [[tướng nhà Đinh]] Lã Lang Đường có công phù tá cho [[Đinh Bộ Lĩnh]] dẹp [[loạn 12 sứ quân]].
+
+Đình làng Ngô thờ tướng nhà Đinh Lã Lang Đế có công phù tá cho [[Đinh Bộ Lĩnh]] dẹp [[loạn 12 sứ quân]] và đánh quân Ngô. Anh trai của vị tướng Lã Lang Đế là Lã Lang Đường được thờ ở làng Cầu Bây bên cạnh làng Ngô.
+
+==Lịch sử==
+Trước đây, địa bàn xã Đa Tốn thuộc tổng Đa Tốn, huyện Gia Lâm, phủ Thuận An, gồm các xã: Đào Xuyên, Khoan Tế, Thuận Tốn, Lê Xá, Ngọc Động.
+
+Sau [[Cách mạng tháng Tám]] năm [[1945]], hợp nhất các xã Đào Xuyên, Khoan Tế, Thuận Tốn thành xã Minh Tân và hợp nhất các xã Lê Xá, Ngọc Động thành xã Đa Tốn.
+
+Năm [[1947]], hợp nhất xã Minh Tân và Đa Tốn thành xã Đại Minh, sau đó sáp nhập thêm các thôn của xã Kiêu Kỵ thành xã Đại Hưng.
+
+Năm [[1956]], chia xã Đại Hưng thành xã Đại Hưng (gồm các thôn: Đào Xuyên, Lê Xá, Ngọc Động, Thuận Tốn, Khoan Tế) và xã Tân Hưng (gồm các thôn: Kiêu Kỵ, Gia Cốc, Báo Đáp, Hoàng Xá, Chu Xá).
+ 
+Ngày [[20 tháng 4]] năm [[1961]], Quốc hội ban hành Nghị quyết<ref>{{Chú thích web|url=https://m.thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Nghi-Quyet-mo-rong-thanh-pho-Ha-Noi-42689.aspx|tựa đề= Nghị quyết về việc mở rộng thành phố Hà Nội |tác giả=|ngày=|website= Thư viện Pháp luật |url lưu trữ=|ngày lưu trữ=|ngày truy cập=}}</ref> về việc sáp nhập xã Đại Hưng và xã Tân Hưng vào thành phố Hà Nội quản lý.
+
+Ngày [[31 tháng 5]] năm [[1961]], Hội đồng Chính phủ ban hành 78-CP<ref>{{Chú thích web|url=https://m.thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-78-CP-chia-khu-vuc-noi-ngoai-thanh-thanh-pho-Ha-Noi-20286.aspx|tựa đề= Quyết định số 78-CP năm 1961 chia các khu vực nội thành và ngoại thành của Thành phố Hà Nội |tác giả=|ngày=|website= Thư viện Pháp luật |url lưu trữ=|ngày lưu trữ=|ngày truy cập=}}</ref>. Theo đó, xã Đại Hưng và xã Tân Hưng thuộc huyện Gia Lâm, thành phố Hà Nội quản lý.
+
+Năm [[1966]], đổi tên xã Đại Hưng thành xã Đa Tốn.<ref name=ĐA>{{chú thích sách|author= UBND huyện Gia Lâm |url=http://gialam.hanoi.gov.vn/documents/291387/8044749/%C4%90%E1%BB%81+%C3%A1n+th%C3%A0nh+l%E1%BA%ADp+qu%C3%A2n+Gia+L%C3%A2m+v%C3%A0+c%C3%A1c+ph%C6%B0%E1%BB%9Dng.pdf/bb4a0fd2-3739-4619-afa8-a0a1f5261e9c|title= Đề án thành lập quận Gia Lâm và các phường thuộc quận Gia Lâm, thành phố Hà Nội |year= 2023 |location= Gia Lâm, Hà Nội |p= 51-52 |url-status=live|archive-url=https://web.archive.org/web/20230812224556/http://gialam.hanoi.gov.vn/documents/291387/8044749/%C4%90%E1%BB%81+%C3%A1n+th%C3%A0nh+l%E1%BA%ADp+qu%C3%A2n+Gia+L%C3%A2m+v%C3%A0+c%C3%A1c+ph%C6%B0%E1%BB%9Dng.pdf/bb4a0fd2-3739-4619-afa8-a0a1f5261e9c|archive-date=2023-08-12}}</ref>
+
+==Giao thông==
+Xã Đa Tốn có nhiều trục đường chính quan trọng như:
+* Tỉnh lộ 195: đi từ Long Biên tới qua xã Đa Tốn tới tỉnh [[Hưng Yên]]. Đoạn tỉnh lộ 195 đi qua xã quen gọi là đê Long Biên – Xuân Quan hay đê Bát Tràng.
+* Tỉnh lộ 379: từ nút giao với cao tốc Hà Nội – Lạng Sơn (tại xã [[Đông Dư]]) đi qua xã Đa Tốn nối với quốc lộ 39 tại xã [[Dân Tiến]], huyện [[Khoái Châu]], tỉnh [[Hưng Yên]].
+* Cao tốc Hà Nội – Hải Phòng (đường 5B) chạy qua cánh đồng các thôn Đào Xuyên, Lê Xá, Ngọc Động.
+* Đường [[Đông Dư]] – [[Dương Xá]]: đi qua xã nối tỉnh lộ 195 với quốc lộ 5.
+* Đường Đa Tốn: nối tỉnh lộ 195 tại dốc Bát Tràng qua ngã ba Chợ Bún đi xã [[Kiêu Kỵ]].
+* Đường Đa Tốn – Kiêu Kỵ – Tân Quang: đi tỉnh Hưng Yên cắt qua [[đường Kiêu Kỵ]]. (tỉnh lộ 179) tại ngã tư chợ Kiêu Kỵ.
+* Hệ thống xe buýt: 47A, 47B, 69, E01, E02, E03, E10.
+
+==Lịch sử==
+Xã Đông Dư được hình thành trên vùng đất có lịch sử từ lâu đời, từ trước thời 
+Tiền Lê ([[981]]–[[1009]]).
+
+Năm [[1822]], xã Đông Dư thuộc tổng Đông Dư, huyện Gia 
+Lâm, phủ Thuận An, trấn Bắc Ninh (năm [[1831]] thuộc tỉnh 
+Bắc Ninh).
+
+Ngày [[25 tháng 1]] năm [[1948]], xã Đông Dư đổi tên thành xã Thừa Thiên thuộc huyện Gia Lâm, tỉnh Bắc 
+Ninh.
+
+Ngày [[28 tháng 11]] năm [[1948]], xã Thừa Thiên thuộc huyện Gia Lâm, tỉnh 
+Hưng Yên.
+
+Ngày [[7 tháng 11]] năm [[1949]], xã Thừa Thiên thuộc huyện Gia Lâm, tỉnh 
+Bắc Ninh.
+
+Ngày [[20 tháng 4]] năm [[1961]], Quốc hội ban hành Nghị quyết<ref>{{Chú thích web|url=https://m.thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Nghi-Quyet-mo-rong-thanh-pho-Ha-Noi-42689.aspx|tựa đề= Nghị quyết về việc mở rộng thành phố Hà Nội |tác giả=|ngày=|website= Thư viện Pháp luật |url lưu trữ=|ngày lưu trữ=|ngày truy cập=}}</ref> về việc sáp nhập xã Thừa Thiên vào thành phố Hà Nội quản lý.
+
+Ngày [[31 tháng 5]] năm [[1961]], Hội đồng Chính phủ ban hành 78-CP<ref>{{Chú thích web|url=https://m.thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-78-CP-chia-khu-vuc-noi-ngoai-thanh-thanh-pho-Ha-Noi-20286.aspx|tựa đề= Quyết định số 78-CP năm 1961 chia các khu vực nội thành và ngoại thành của Thành phố Hà Nội |tác giả=|ngày=|website= Thư viện Pháp luật |url lưu trữ=|ngày lưu trữ=|ngày truy cập=}}</ref>. Theo đó, xã Thừa Thiên thuộc huyện Gia Lâm, thành phố Hà Nội quản lý.
+
+Năm [[1964]], đổi tên xã Thừa Thiên thành xã Đông Dư.<ref name=ĐA>{{chú thích sách|author= UBND huyện Gia Lâm |url=http://gialam.hanoi.gov.vn/documents/291387/8044749/%C4%90%E1%BB%81+%C3%A1n+th%C3%A0nh+l%E1%BA%ADp+qu%C3%A2n+Gia+L%C3%A2m+v%C3%A0+c%C3%A1c+ph%C6%B0%E1%BB%9Dng.pdf/bb4a0fd2-3739-4619-afa8-a0a1f5261e9c|title= Đề án thành lập quận Gia Lâm và các phường thuộc quận Gia Lâm, thành phố Hà Nội |year= 2023 |location= Gia Lâm, Hà Nội |p= 178-179 |url-status=live|archive-url=https://web.archive.org/web/20230812224556/http://gialam.hanoi.gov.vn/documents/291387/8044749/%C4%90%E1%BB%81+%C3%A1n+th%C3%A0nh+l%E1%BA%ADp+qu%C3%A2n+Gia+L%C3%A2m+v%C3%A0+c%C3%A1c+ph%C6%B0%E1%BB%9Dng.pdf/bb4a0fd2-3739-4619-afa8-a0a1f5261e9c|archive-date=2023-08-12}}</ref>
+
+Ngày [[9 tháng 12]] năm [[2020]], HĐND TP. Hà Nội ban hành Nghị quyết số 30/NQ-HĐND<ref>{{Chú thích web|url=https://m.thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Nghi-quyet-30-NQ-HDND-2020-thanh-lap-dat-ten-thon-to-dan-pho-thanh-pho-Ha-Noi-461372.aspx|tựa đề= Nghị quyết số 30/NQ-HĐND năm 2020 về việc thành lập đặt tên thôn tổ dân phố thành phố Hà Nội năm 2020 |tác giả=|ngày=2023-12-09|website= Thư viện Pháp luật |url lưu trữ=|ngày lưu trữ=|ngày truy cập=}}</ref> về việc:
+*Sáp nhập Thôn 3 vào Thôn 1 và Thôn 2
+*Thành lập Thôn 3 trên cơ sở Thôn 4 và một phần của Thôn 5.
+*Thành lập Thôn 4 trên cơ sở Thôn 6 và phần còn lại của Thôn 5.
+
+==Kinh tế==
+Xã Đông Dư trước đây ngoài nông nghiệp còn có thêm nghề trồng rau thơm, dưa cải Thừa Thiên (cải bẹ), trồng ổi ở các xóm thuộc thôn Thượng và thôn Hạ. Thôn Thuận Phú có nghề ươm, giâm cây ăn quả, cây lâu năm. Nghề làm cây giống tạo thu nhập khá cao. Ngày nay các dịch vụ cũng phát triển và dần đa dạng tại khu vực thôn Thượng giáp tỉnh lộ 379.
+
+Đặc sản: Ổi Đông Dư được nhiều người biết đến là một loại ổi có tiếng thơm ngon. Quả nhỏ có hình khứa vân như quả găng (ổi găng).
+
+==Văn hóa==
+Các làng Đông Dư Thượng và Đông Dư Hạ đều có đình Đông Dư Thượng và Đông Dự Hạ cùng thờ ba vị thành hoàng là [[Cao Sơn]] đại vương, [[Bạch Đa]] đại vương - người có công giúp [[Đinh Bộ Lĩnh]] dẹp [[loạn 12 sứ quân]] cuối thế kỷ X và Linh Lang đại vương - người có công lớn trong cuộc kháng chiến chống Tống năm 1076 - 1077. Cả hai làng có chung ngôi chùa Phù Quang nằm trên phần đất bãi của thôn Hạ.<ref>[http://hanoimoi.com.vn/Ban-in/1000_nam_thang_long/141011/lang-272%3Bong-d432%3B Làng Đông Dư]</ref>
+ 
+Hội làng Đông Dư diễn ra từ ngày mồng 7 đến ngày 13 tháng Hai. Mở đầu hội là lễ lấy nước trên [[sông Hồng]] và rước nước từ bến sông về đình để tế lễ. Sau đó là các trò chơi, độc đáo nhất là các cuộc đấu kiếm, đấu quyền, múa khiên.
+
+==Giao thông==
+Đông Dư có nhiều tuyến đường bộ quan trọng chạy qua nên việc giao thông đi lại, buôn bán, trao đổi hết sức dễ dàng:
+* [[Quốc lộ 1]] (vành đai 3)
+* Tỉnh lộ 195 (đê Long Biên - Xuân Quan - [[Hưng Yên]])
+* Đường 379 (Hà Nội - Hưng Yên)
+* Đường Đông Dư - Dương Xá (đường Lý Thánh Tông): kết nối tỉnh lộ 195 [[với quốc lộ 5A]])
+*Đường sông: Nằm bên bờ tả ngạn sông Hồng nên việc kết nối đường sông cũng thuận tiện. 
+*Hệ thống xe buýt: 47, 47B, 69.
+
+==Lịch sử==
+Trước đây, vùng đất Kim Lan thuộc tổng Đông Dư, huyện Gia Lâm, phủ Thuận An, tỉnh Bắc Ninh.
+
+Năm [[1948]], xã Kim Lan hợp nhất với hai xã Bát Tràng, Giang Cao thành xã Quang Minh, thuộc huyện Gia Lâm, tỉnh Bắc Ninh.
+
+Ngày [[9 tháng 4]] năm [[1957]], chia xã Quang Minh thành xã Quang Minh và xã Kim Lan.
+
+Ngày [[20 tháng 4]] năm [[1961]], Quốc hội ban hành Nghị quyết<ref>{{Chú thích web|url=https://m.thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Nghi-Quyet-mo-rong-thanh-pho-Ha-Noi-42689.aspx|tựa đề= Nghị quyết về việc mở rộng thành phố Hà Nội |tác giả=|ngày=|website= Thư viện Pháp luật |url lưu trữ=|ngày lưu trữ=|ngày truy cập=}}</ref> về việc sáp nhập xã Kim Lan vào thành phố Hà Nội quản lý.
+
+Ngày [[31 tháng 5]] năm [[1961]], Hội đồng Chính phủ ban hành 78-CP<ref>{{Chú thích web|url=https://m.thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-78-CP-chia-khu-vuc-noi-ngoai-thanh-thanh-pho-Ha-Noi-20286.aspx|tựa đề= Quyết định số 78-CP năm 1961 chia các khu vực nội thành và ngoại thành của Thành phố Hà Nội |tác giả=|ngày=|website= Thư viện Pháp luật |url lưu trữ=|ngày lưu trữ=|ngày truy cập=}}</ref>. Theo đó, xã Kim Lan thuộc huyện Gia Lâm, thành phố Hà Nội quản lý.
+
+Giai đoạn năm [[1981]]–[[1990]], xã Kim Lan có 3 thôn: Thống Nhất (4 xóm: 1, 2, 3, 4); Đoàn Kết (2 xóm: 5, 6); Tiền Phong (2 xóm: 7, 8).
+
+Giai đoạn năm [[1991]]–[[1995]], thành lập thôn 1, 2, 3, 4, 5, 6, 7, 8 trên cơ sở 3 thôn cũ: Thống Nhất, Đoàn Kết, Tiền Phong.<ref name=ĐA>{{chú thích sách|author= UBND huyện Gia Lâm |url=http://gialam.hanoi.gov.vn/documents/291387/8044749/%C4%90%E1%BB%81+%C3%A1n+th%C3%A0nh+l%E1%BA%ADp+qu%C3%A2n+Gia+L%C3%A2m+v%C3%A0+c%C3%A1c+ph%C6%B0%E1%BB%9Dng.pdf/bb4a0fd2-3739-4619-afa8-a0a1f5261e9c|title= Đề án thành lập quận Gia Lâm và các phường thuộc quận Gia Lâm, thành phố Hà Nội |year= 2023 |location= Gia Lâm, Hà Nội |p= 185-186 |url-status=live|archive-url=https://web.archive.org/web/20230812224556/http://gialam.hanoi.gov.vn/documents/291387/8044749/%C4%90%E1%BB%81+%C3%A1n+th%C3%A0nh+l%E1%BA%ADp+qu%C3%A2n+Gia+L%C3%A2m+v%C3%A0+c%C3%A1c+ph%C6%B0%E1%BB%9Dng.pdf/bb4a0fd2-3739-4619-afa8-a0a1f5261e9c|archive-date=2023-08-12}}</ref>
+
+Ngày [[9 tháng 12]] năm [[2020]], HĐND TP. Hà Nội ban hành Nghị quyết số 30/NQ-HĐND<ref>{{Chú thích web|url=https://m.thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Nghi-quyet-30-NQ-HDND-2020-thanh-lap-dat-ten-thon-to-dan-pho-thanh-pho-Ha-Noi-461372.aspx|tựa đề= Nghị quyết số 30/NQ-HĐND năm 2020 về việc thành lập đặt tên thôn tổ dân phố thành phố Hà Nội năm 2020 |tác giả=|ngày=2023-12-09|website= Thư viện Pháp luật |url lưu trữ=|ngày lưu trữ=|ngày truy cập=}}</ref> về việc:
+*Sáp nhập Thôn 3 vào Thôn 2.
+*Thành lập Thôn 3 trên cơ sở Thôn 4 và Thôn 5.
+*Thành lập Thôn 4 trên cơ sở Thôn 6 và một phần Thôn 2.
+*Thành lập Thôn 5 trên cơ sở Thôn 7 và Thôn 8.
+Ngày [[1 tháng 1|01 tháng 1]] năm [[2025]], Ủy ban Thường vụ Quốc hội Nghị quyết 1286/NQ-UBTVQH15<ref>{{Chú thích web|url=https://quochoi.vn/tintuc/Pages/tin-hoat-dong-cua-quoc-hoi.aspx?ItemID=91149|tiêu đề=Nghị quyết số 1286/NQ-UBTVQH15 của UBTVQH Về việc sắp xếp đơn vị hành chính cấp xã của thành phố Hà Nội giai đoạn 2023 – 2025|url-status=bot: unknown|ngày lưu trữ=2024-11-21|ngày truy cập=2025-02-04|archive-url=https://web.archive.org/web/20241121185017/https://quochoi.vn/tintuc/Pages/tin-hoat-dong-cua-quoc-hoi.aspx?ItemID=91149}}</ref> về việc sát nhập xã Kim Lan và xã Văn Đức thành xã Kim Đức.
+
+==Lịch sử==
+Xã Văn Đức xưa thuộc phủ Thuận An, thừa tuyên Kinh Bắc.
+
+Năm [[1831]], xã Văn Đức thuộc huyện Văn Giang, tỉnh Bắc Ninh.
+
+Sau [[Cách mạng tháng Tám]] năm [[1945]], sáp nhập 3 làng: Trung Quan, Chử Xá, San Hô thành xã Trung Chử Sơn.
+
+Năm [[1955]], đổi tên xã Trung Chử Sơn thành xã Văn Đức thuộc huyện Văn Giang, 
+tỉnh Hưng Yên.<ref name=ĐA>{{chú thích sách|author= UBND huyện Gia Lâm |url=http://gialam.hanoi.gov.vn/documents/291387/8044749/%C4%90%E1%BB%81+%C3%A1n+th%C3%A0nh+l%E1%BA%ADp+qu%C3%A2n+Gia+L%C3%A2m+v%C3%A0+c%C3%A1c+ph%C6%B0%E1%BB%9Dng.pdf/bb4a0fd2-3739-4619-afa8-a0a1f5261e9c|title= Đề án thành lập quận Gia Lâm và các phường thuộc quận Gia Lâm, thành phố Hà Nội |year= 2023 |location= Gia Lâm, Hà Nội |p= 193 |url-status=live|archive-url=https://web.archive.org/web/20230812224556/http://gialam.hanoi.gov.vn/documents/291387/8044749/%C4%90%E1%BB%81+%C3%A1n+th%C3%A0nh+l%E1%BA%ADp+qu%C3%A2n+Gia+L%C3%A2m+v%C3%A0+c%C3%A1c+ph%C6%B0%E1%BB%9Dng.pdf/bb4a0fd2-3739-4619-afa8-a0a1f5261e9c|archive-date=2023-08-12}}</ref>
+
+Ngày [[20 tháng 4]] năm [[1961]], Quốc hội ban hành Nghị quyết<ref>{{Chú thích web|url=https://m.thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Nghi-Quyet-mo-rong-thanh-pho-Ha-Noi-42689.aspx|tựa đề= Nghị quyết về việc mở rộng thành phố Hà Nội |tác giả=|ngày=|website= Thư viện Pháp luật |url lưu trữ=|ngày lưu trữ=|ngày truy cập=}}</ref> về việc sáp nhập xã Văn Đức vào thành phố Hà Nội quản lý.
+
+Ngày [[31 tháng 5]] năm [[1961]], Hội đồng Chính phủ ban hành 78-CP<ref>{{Chú thích web|url=https://m.thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-78-CP-chia-khu-vuc-noi-ngoai-thanh-thanh-pho-Ha-Noi-20286.aspx|tựa đề= Quyết định số 78-CP năm 1961 chia các khu vực nội thành và ngoại thành của Thành phố Hà Nội |tác giả=|ngày=|website= Thư viện Pháp luật |url lưu trữ=|ngày lưu trữ=|ngày truy cập=}}</ref>. Theo đó, xã Văn Đức thuộc huyện Gia Lâm, thành phố Hà Nội quản lý.
+
+Ngày [[1 tháng 1|01 tháng 1]] năm [[2025]], Ủy ban Thường vụ Quốc hội Nghị quyết 1286/NQ-UBTVQH15<ref>{{Chú thích web|url=https://quochoi.vn/tintuc/Pages/tin-hoat-dong-cua-quoc-hoi.aspx?ItemID=91149|tiêu đề=Nghị quyết số 1286/NQ-UBTVQH15 của UBTVQH Về việc sắp xếp đơn vị hành chính cấp xã của thành phố Hà Nội giai đoạn 2023 – 2025|url-status=bot: unknown|ngày lưu trữ=2024-11-21|ngày truy cập=2025-02-04|archive-url=https://web.archive.org/web/20241121185017/https://quochoi.vn/tintuc/Pages/tin-hoat-dong-cua-quoc-hoi.aspx?ItemID=91149}}</ref> về việc sát nhập xã Văn Đức và xã Kim Lan thành xã Kim Đức.
+
+==Văn hóa==
+Thôn Chử Xá là nơi khai sinh ra [[Chử Đồng Tử]], một trong [[Tứ bất tử]] của phật giáo Việt Nam. Đền thờ ông ở đây được Nhà nước công nhận là Di tích lịch sử văn hóa cấp quốc gia.
+
+=== ''Làng gốm Kim Lan'' ===
+
+* Nằm ở phía Bắc của xã, làng '''Kim Lan''' nổi tiếng với nghề làm gốm sứ truyền thống.
+* Sản phẩm chủ yếu: Gốm sứ gia dụng, gốm mỹ nghệ, gốm thờ cúng.
+* Kim Lan có lịch sử làm gốm từ lâu đời, tương tự như xã Bát Tràng, nhưng ít nổi tiếng hơn.
+
+=== ''Làng rau Văn Đức'' ===
+
+* Ở phía Nam của xã, làng '''Văn Đức''' nổi tiếng với nghề trồng rau sạch cung cấp cho Hà Nội và các tỉnh lân cận.
+* Các loại rau phổ biến: cải bắp, su hào, súp lơ, rau muống, cải xanh...
+* Rau Văn Đức được đánh giá cao vì đảm bảo an toàn thực phẩm, sản xuất theo tiêu chuẩn VietGAP.
+
+== Văn hóa ==
+
+=== Lễ hội Truyền Thống Làng Kim Lan ===
+Diễn ra vào ngày 10 tháng Giêng, Hàng năm
+
+=== Lễ hội Chử Đồng Tử - Tiên Dung Thôn Chử Xá ===
+Diễn ra vào ngày 18 tháng Giêng, Hàng năm
+
+Thôn Chử Xá là nơi khai sinh ra [[Chử Đồng Tử]], một trong [[Tứ bất tử]] của phật giáo Việt Nam. Đền thờ ông ở đây được Nhà nước công nhận là Di tích lịch sử văn hóa cấp quốc gia.
+
+=== Lễ hội Nhân Thần Bách Lạc - Thiên Thần Thiên Cương Thôn Sơn Hô ===
+Diễn ra vào ngày 18 tháng Giêng, Hàng năm
+
+=== Lễ hội Truyền Thống Làng Văn Đức - Thôn Trung Quan ===
+Diễn ra vào ngày 10 tháng 2 âm, Hàng năm
+
+ -->
+
+== Hành chính ==
+Xã Bát Tràng được chia thành 12 thôn: 1, 2 Kim Lan, Bát Tràng, Chử Xá, Đa Tốn, Đào Xuyên, Giang Cao, Hạ Đông Dư, Khoan Tế, Thuận Tốn, Thượng Đông Dư và Trung Quan.<ref name=":1" /><ref name=":2" />
+{| class="wikitable sortable" align="center" width="100%" cellspacing="6" cellpadding="0" style="background: #f9f9f9; border: 1px #aaa solid; margin-top: 16px"
+! colspan="4" style="background: #E6E6FA; font-size: 95%;" |Danh sách các thôn thuộc xã Bát Tràng<ref name=":1" /><ref name=":2" />
+|-
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |1 Kim Lan
+|1.051
+|-
+| align="left" |2 Kim Lan
+|1.063
+|-
+| align="left" |Bát Tràng
+|1.031
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Chử Xá
+|1.014
+|-
+| align="left" |Đa Tốn
+|1.038
+|-
+| align="left" |Đào Xuyên
+|1.026
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Giang Cao
+|1.560
+|-
+| align="left" |Hạ Đông Dư
+|1.304
+|-
+| align="left" |Khoan Tế
+|1.095
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Thuận Tốn
+|1.243
+|-
+| align="left" |Thượng Đông Dư
+|968
+|-
+| align="left" |Trung Quan
+|1.325
+|}
+|}
+
+==Văn hóa==
+Xã Bát Tràng gồm hai làng (thôn) là [[gốm Bát Tràng|làng Bát Tràng]] và làng Giang Cao. Cả hai làng đều là làng nghề gốm truyền thống.
+
+=== Di sản ===
+Xã Bát Tràng có một nền văn hóa đặc sắc, với 5 di sản văn hóa phi vật thể quốc gia gồm:
+
+* Nghề gốm Bát Tràng
+* Lễ hội làng Bát Tràng
+* Lễ hội làng Chử Xá
+* Tri thức nấu cỗ ở Bát Tràng<ref>{{Chú thích báo |last=VnExpress |title=Ba đại diện ẩm thực Hà Nội được công nhận di sản quốc gia |url=https://vnexpress.net/ba-dai-dien-am-thuc-ha-noi-duoc-cong-nhan-di-san-quoc-gia-4928815.html |archive-url=https://web.archive.org/web/20250821001635/https://vnexpress.net/ba-dai-dien-am-thuc-ha-noi-duoc-cong-nhan-di-san-quoc-gia-4928815.html |archive-date=2025-08-21 |access-date=2025-10-18 |work=vnexpress.net |language=vi |url-status=live }}</ref>
+* Nghề gốm Kim Lan<ref>{{Chú thích web |last=tử |first=Báo Nhân Dân điện |date=2025-03-15 |title=Nghề gốm Kim Lan: Di sản văn hóa phi vật thể quốc gia mới của Thủ đô |url=https://nhandan.vn/nghe-gom-kim-lan-di-san-van-hoa-phi-vat-the-quoc-gia-moi-cua-thu-do-post865346.html |access-date=2025-10-18 |website=Báo Nhân Dân điện tử |language=vi}}</ref>
+
+===Bảo vật quốc gia===
+Xã Bát Tràng có tới 2 bảo vật quốc gia là:
+
+* Long đình gốm Bát Tràng<ref>{{Chú thích web |title=TOP Bảo vật quốc gia của Việt Nam (P.34): Long đỉnh gốm Bát Tràng |url=https://kyluc.vn/tin-tuc/san-ky-luc/top-bao-vat-quoc-gia-cua-viet-nam-p-34-long-dinh-gom-bat-trang |access-date=2025-10-26 |website=HỘI KỶ LỤC GIA VIỆT NAM - TỔ CHỨC KỶ LỤC VIỆT NAM(VIETKINGS) |language=vi}}</ref>
+* Tượng Phật bà Quan Âm Thiên Thủ Thiên Nhãn chùa Đào Xuyên<ref>{{Chú thích web |title=TOP Bảo vật quốc gia của Việt Nam (P.181) Tượng Quan Âm nghìn mắt nghìn tay chùa Đào Xuyên |url=https://kyluc.vn/tin-tuc/san-ky-luc/top-bao-vat-quoc-gia-cua-viet-nam-p-181-tuong-quan-am-nghin-mat-nghin-tay-chua-dao-xuyen-a |access-date=2025-10-26 |website=HỘI KỶ LỤC GIA VIỆT NAM - TỔ CHỨC KỶ LỤC VIỆT NAM(VIETKINGS) |language=vi}}</ref>
+
+===Làng Bát Tràng===
+{{Bài chi tiết|Gốm Bát Tràng}}
+Văn Từ Bát Tràng tên dân gian Bát Tràng quen gọi là Văn Chỉ Bát Tràng, được dựng ngay phía sau [[Đình Bát Tràng]] theo lối kiến trúc chữ nhị. Hậu cung là tòa nhà 3 gian, nơi có ban thờ Khổng Tử và 72 vị thánh hiền. Phía trước là tòa Đại Bái 5 gian. Cổng Văn từ xây theo kiến trúc Khuê Văn Các tại Hà Nội. Văn Từ cũng nơi làng Bát Tràng tôn vinh 1 Trạng nguyên, 3 Quận công, 9 tiến sĩ 364 vị khoa bảng của làng khi xưa. Những năm 90 của thế kỷ XX Văn Từ Bát Tràng được dùng làm lớp học. Hiện nay, Văn Từ Bát Tràng là ngoài là nơi thờ tự còn là nơi khuyến học, nơi hội họp của Hội người Cao Tuổi thôn Bát Tràng.
+
+===Làng Giang Cao===
+Lịch sử làng Giang Cao: trước đây, có tên gọi là Đông Sáng, sau đổi thành Đống Ca và đến thời nhà Nguyễn trước đời vua Ưng Xụy, niên hiệu Đồng Khánh (1885-1888), được đổi thành Giang Cao. Làng Giang Cao nay có 6 xóm đánh số từ 1 đến
+
+Nghề làm gốm: So với lịch sử làm gốm làng Bát Tràng (700 năm), làng gốm Giang Cao tuổi nghề còn trẻ (50 năm), nhưng với sự năng động sáng tạo và sức bật vào nghề của đội ngũ thợ trong làng nên sản phẩm gốm Giang Cao đã nhanh chóng có chỗ đứng trên thị trường.<ref name="GC1">{{Chú thích web |url=http://www.hanoitv.vn/index.php?option=com_content&view=article&id=14855:lang-giang-cao&catid=82:ha-noi-cua-chung-ta&Itemid=110 |ngày truy cập=2010-05-15 |tựa đề=Làng Giang Cao |archive-date=2020-09-20 |archive-url=https://web.archive.org/web/20200920144600/http://hanoitv.vn/index.php?option=com_content&view=article&id=14855:lang-giang-cao&catid=82:ha-noi-cua-chung-ta&Itemid=110 |url-status=dead }}</ref>
+
+Thời Pháp thuộc, năm 1941, ông Phán Sồ (người đã đỗ Tú tài) đầu tư xây dựng xưởng sản xuất gốm sứ Ngọc Quang, được coi là xưởng gốm đầu tiên của làng Giang Cao.<ref name="GC1"/>
+
+Trước đây, phần lớn người dân làng Giang Cao làm nghề nông, một số người làm công nhân Xí nghiệp Sứ Bát Tràng, tới đầu những năm 1980 do làm ăn thua lỗ, Xí nghiệp Sứ Bát Tràng bị giải thể, năm 1986 trên cơ sở xóa bao cấp và đổi mới, một số hộ gia đình thôn Giang Cao với các kỹ thuật đã được rèn luyện trong môi trường Xi nghiệp Sứ Bát Tràng, đã phát triển việc làm gốm sứ tại gia đình và nhanh chóng phát triển ra toàn bộ thôn cho đến ngày nay. Đến năm 2010, làng Giang Cao có 41 công ty, doanh nghiệp tư nhân và 774 hộ tham gia sản xuất gốm sứ. Sản phẩm gốm sứ ước tính theo quy đổi của làng luôn chiếm hơn 55% tổng sản phẩm của xã Bát Tràng. Sản phẩm gốm Giang Cao được chọn cung cấp nguyên liệu cho dự án Con đường Gốm sứ ven sông Hồng - công trình kỷ niệm 1000 năm Thăng Long - Hà Nội, phục hồi di tích Hoàng thành Thăng Long, di tích Cố đô Huế, khu chùa Bái Đính ở Ninh Bình.<ref name="GC1"/> Ngày 26/01/2010, làng Giang Cao đã được UBND thành phố Hà Nội trao bằng công nhận đạt danh hiệu Làng nghề truyền thống Hà Nội cùng với 15 làng nghề khác.<ref name="GC2"/>
+
+=== Đặc sản, ẩm thực ===
+Ổi Đông Dư, cải bẹ Thừa Thiên,<ref>{{Chú thích web |last=569691543527106 |date=2007-10-08 |title=Đất nào cây ấy: Cải bẹ và rau gia vị Đông Dư |url=https://nongnghiepmoitruong.vn/dat-nao-cay-ay-cai-be-va-rau-gia-vi-dong-du-d1376.html |access-date=2025-10-18 |website=nongnghiepmoitruong.vn |language=vi}}</ref> chè kho Bát Tràng, canh măng mực Bát Tràng<ref>{{Chú thích web |title=Thưởng thức canh măng mực ở Bát Tràng |url=https://www.qdnd.vn/van-hoa/doi-song/thuong-thuc-canh-mang-muc-o-bat-trang-477882 |access-date=2025-10-18 |website=https://www.qdnd.vn |language=vi}}</ref>
+
+==Du lịch==
+Xã Bát Tràng nằm trên tuyến điểm du lịch sông Hồng của Hà Nội như các di tích đình Chèm, chùa Bồ Đề, làng nghề Bát Tràng,... Đến Bát Tràng du khách có thể tìm hiểu về nghề làm gốm ở đây, dạo thăm các ngõ ở làng nghề, chợ gốm, nhà gốm, các di tích ở xã Bát Tràng, tìm hiểu văn hóa,...
+
+*{{Bài chi tiết|Đình Bát Tràng}}
+*{{Bài chi tiết|Đền Bát Tràng}}
+*{{Bài chi tiết|Đền Mẫu Bát Tràng}}
+* Đình làng Giang Cao
+:Đình làng được xây dựng cách đây hơn 100 năm, hiện nay còn lưu giữ được chín bản sắc phong từ đời Vĩnh Khánh thứ II đến đời Khải Định. Đình được công nhận xếp hạng di tích Kiến trúc nghệ thuật cấp quốc gia.<ref name="GC2"/> 
+* Chùa Tiêu Dao<ref name="GC2"/>
+* Miếu Bản<ref name="GC2"/>
+* Văn Chỉ
+: Ghi tên các vị khoa bảng, đỗ đạt như cụ Nguyễn Văn Bính chánh tiến sĩ làm quan đến chức Thị lang, cụ Lương Công Bật, đỗ hương cống làm quan đến chức Hiệu lý Hàn lâm viện...<ref name="GC2">{{Chú thích web |url=http://www.hanoimoi.com.vn/newsdetail/1000_nam_thang_long/316034/lang-gom-giang-cao.htm |ngày truy cập=2010-05-15 |tựa đề=Làng gốm Giang Cao |archive-date = ngày 25 tháng 3 năm 2010 |archive-url=https://web.archive.org/web/20100325164449/http://www.hanoimoi.com.vn/newsdetail/1000_nam_thang_long/316034/lang-gom-giang-cao.htm |url-status=dead }}</ref>
+
+Vai trò: Nói đến Bát Tràng không thể không nói đến nghề làm gốm ở thôn Bát Tràng và cả thôn Giang Cao. Nghề này rất thịnh vượng cho đến những năm 2000. Những năm của thập niên 2000 trở về trước các lò gốm của người dân tại làng nghề đã tạo việc làm cho hàng nghìn lao động có việc làm thường xuyên trong đó có rất nhiều lao động từ xa đến làm như Văn Giang, Khoái Châu, Thuận Thành... với rất nhiều công việc như: nắm than (hồi chưa đun nung bằng ga), rỡ lò, đổ rót, rỡ khuôn, tráng men, phơi, họa... Ngày nay ở Bát Tràng có cụm công nghiệp làng nghề ở xa khu dân cư.
+
+===Hội làng===
+Trước đây, Bát Tràng vào đám từ ngày 15 đến ngày 22 tháng hai âm lịch<ref name="HL">{{Chú thích web|url=http://hanoinews.com.vn/newsdetail/1000_nam_thang_long/12940/h7897i-lang-bat-trang.htm|tựa đề= Hội làng Bát Tràng |tác giả=|ngày=2004-03-09|website= Báo Hà Nội nội mới |url lưu trữ=https://web.archive.org/web/20100709220344/http://hanoinews.com.vn/newsdetail/1000_nam_thang_long/12940/h7897i-lang-bat-trang.htm|ngày lưu trữ=2010-07-09|ngày truy cập=}}</ref> Hội làng Bát Tràng. Nay đã được rút gọn, thường chỉ diễn ra vào hai ngày 14, 15 tháng hai âm lịch.
+Trước Tết, vào ngày 25 tháng Chạp, làng đem lễ vật đến làng Đuốc (làng kết chạ với Bát Tràng) xin chặt tre làm cây nêu. Ngày 7 tháng Giêng làm lễ hạ nêu. Cây tre làm nêu được dùng để chẻ tăm, vót đũa. Trước khi vào đám độ 10 ngày, làng tổ chức lễ rước nước từ sông Hồng để bao sái bài vị thần ở ngôi miếu bên sông. Sau đó dân làng rước bài vị thần ra đình tế lễ. Khi tế, các họ được rước Tổ của mình ra phối hưởng. Họ Nguyễn Ninh Tràng (họ đầu tiên đến làng Bát Tràng) được rước bát hương có lọng che vàng đi ở giữa. Các họ khác rước bát hương có lọng che xanh đi né sang hai bên. Khi tế, chỉ có các vị khoa mục (những người đỗ đạt) mới được vào đình, còn các hào mục (những chức dịch trong làng) đứng ngoài hầu lễ. Bát Tràng còn lệ giữ nghiêm ngôi thứ. Tại đình trải 4 chiếu cạp điều. Có chiếu dành cho các vị đậu tiến sĩ, có chiếu dành cho võ quan được phong tước công, có chiếu dành cho các cụ thọ từ 100 tuổi trở lên. Có năm không đủ người, chiếu nào trống thì làng đặt một cây đèn, chai rượu, đĩa trầu cau vào giữa chiếu để thờ vọng. Hằng năm vào ngày Rằm tháng hai, ngày đầu tiên vào đám, làng biện lễ cúng Thành hoàng gồm một con trâu tơ thật béo, thui vàng rồi đặt lên một chiếc bàn lớn sơn son, kèm theo 6 mâm cỗ và 4 mâm xôi. Tế xong, các quan viên chức sắc, đại diện 20 dòng họ cùng thụ lộc.<ref name="HL"/>
+Hội Bát Tràng có nhiều trò diễn, độc đáo nhất là trò chơi cờ người và hát thờ. Theo lệ, trước hội, làng chọn lấy 2 bà tướng cờ là những người phẩm hạnh, giàu có nhất trong làng. Mỗi bà tướng nhận 16 thiếu nữ tuổi từ 10 đến 15 xinh đẹp, nết na nuôi ăn uống và may cho áo quần thật đẹp. Các cô được rèn tập làm quân cờ trong một tháng mới được ra biểu diễn thi đấu ở sân đình.<ref name="HL"/>
+
+== Danh nhân ==
+Xã Bát Tràng gồm có các danh nhân đáng chú ý như:
+
+* Đức thánh [[Chử Đồng Tử]]. Là một trong Tứ Bất Tử trong văn hóa tín ngưỡng.
+* Trạng nguyên [[Giáp Hải]]
+* Võ tướng quận công Lê Trần Cẩn người được thờ tại nhiều di tích ở Gia Lâm, Bát Tràng. Tên ông được đặt cho đoạn đường gom song hành với cao tốc Hà Nội - Hải Phòng<ref>{{Chú thích web |last=Thị |first=Báo Kinh Tế Đô |title=Hà Nội đặt tên 38 tuyến đường, phố mới |url=https://kinhtedothi.vn/ha-noi-dat-ten-38-tuyen-duong-pho-moi.780083.html |access-date=2025-10-18 |website=Báo Kinh Tế Đô Thị |language=vi}}</ref>
+
+==Giao thông==
+[[Tập tin:Bat Trang Terminus.jpg|nhỏ|240px|Xe buýt số 47A với trạm cuối Bát Tràng]]
+Các tuyến, hệ thống giao thông quan trọng tại xã:
+* Tuyến đê Long Biên - Bát Tràng - cống Xuân Quan
+* Cao tốc Hà Nội - Hải Phòng
+* Quốc lộ 1A (đoạn vành đai 3 Hà Nội)
+* Đường Bát Tràng - chợ Bún - đường 179 (ngã tư Kiêu Kỵ, xã [[Kiêu Kỵ]])
+* Đường sông: nằm bên bờ tả [[sông Hồng]], gần với cảng Khuyến Lương
+* Hệ thống xe buýt: tuyến 47A, 47B, 69, E01, E03, E10, 207...
+
+==Chú thích==
+{{tham khảo}}
+
+==Tham khảo==
+{{Sơ khai Hà Nội}}{{Đơn vị hành chính thuộc thành phố Hà Nội}}

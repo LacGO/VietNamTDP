@@ -1,0 +1,108 @@
+{{Thông tin đơn vị hành chính Việt Nam|Phường
+ |tên = Vĩnh Phúc
+ |vùng = [[Đông Bắc Bộ]]
+ |tỉnh = [[Phú Thọ]]
+ |trụ sở UBND = 1 Kim Ngọc
+ |thành lập = 16/06/2025<ref>Nghị quyết số 1676/NQ-UBTVQH15</ref>
+ |vĩ độ = 21.310669348658713
+ |kinh độ = 105.59078646016381
+ |diện tích = 25,30 km²
+ |thời điểm dân số = 2025
+ |dân số = 78.371 người 
+ |mật độ dân số = {{formatnum:{{#expr:floor({{formatnum:78.371| R}}/{{formatnum:25,30| R}})}} }} người/km²
+ |hình = Bưu điện tỉnh Vĩnh Phúc.jpg
+ |ghi chú hình = Bưu điện Vĩnh Phúc
+ |logo=
+ |ghi chú logo=Biểu trưng
+}}
+{{other|Vĩnh Phúc (định hướng)}}
+'''Vĩnh Phúc''' là một [[Phường (Việt Nam)|phường]] thuộc tỉnh [[Phú Thọ]], [[Việt Nam]]. Tên phường kê thừa theo tên tỉnh [[Vĩnh Phúc (tỉnh)|Vĩnh Phúc]] trước kia.
+
+== Địa lý ==
+Phường Vĩnh Phúc nằm ở phía Đông tỉnh [[Phú Thọ]], cách phường [[Việt Trì (phường)|Việt Trì]] 25&nbsp;km về phía Đông, cách thành phố [[Hà Nội]] 55&nbsp;km về phía Tây Bắc và cách [[Sân bay quốc tế Nội Bài]] 25&nbsp;km. Phường có vị trí địa lý:
+
+* Phía Bắc giáp xã [[Tam Dương (xã)|Tam Dương]].
+* Phía Tây giáp xã [[Hội Thịnh, Phú Thọ|Hội Thịnh]].
+* Phía Đông giáp xã [[Bình Xuyên, Phú Thọ|Bình]] [[Bình Xuyên, Phú Thọ|Xuyên]].
+* Phía Nam giáp phường [[Vĩnh Yên, Phú Thọ|Vĩnh Yên]] và xã [[Bình Nguyên, Phú Thọ|Bình]] [[Bình Nguyên, Phú Thọ|Nguyên]].
+
+Phường Vĩnh Phúc có diện tích 25,3&nbsp;km², quy mô dân số năm 2025 là 78.371 người, mật độ dân số đạt 3.098 người/km².<ref>{{Chú thích web |last=xaydungchinhsach.chinhphu.vn |date=2025-05-05 |title=Phương án sắp xếp, tên gọi các xã phường mới của Vĩnh Phúc |url=https://xaydungchinhsach.chinhphu.vn/phuong-an-sap-xep-ten-goi-cac-xa-phuong-moi-cua-vinh-phuc-119250501192023829.htm |access-date=2025-07-03 |website=xaydungchinhsach.chinhphu.vn |language=vi}}</ref> Phường Vĩnh Phúc hiện nằm ở phía Đông Bắc [[đầm Vạc]]. Phường có nhiều hồ, đầm như đầm Chúa, đầm Vạy, hồ Bảo Sơn, ...
+
+== Hành chính ==
+Phường Vĩnh Phúc được chia thành 41 tổ dân phố: An Định, Bà Triệu, Bảo Sơn, Chám, Chiền, Chợ Tổng, Chùa Hà, Chùa Láp, Đầm Vạc, Đậu, Đinh Tiên Hoàng, Đình Láp, Định Trung, Đôn Hậu, Đống Đa, Gẩu, Gẩy, Gia Viễn, Gò Dung, Gò Nọi, Hán Lữ, Khai Quang, Làng Bầu, Làng Thuỷ, Liên Bảo, Mậu Lâm, Mậu Thông, Mê Linh, Minh Quyết, Ngô Quyền, Nguyễn Viết Xuân, Thanh Giã, Tô Hiệu, Trại Giao, Trần Phú, Trần Quốc Toản, Trần Quốc Tuấn, Vẽn, Vinh Thịnh Đông, Vinh Thịnh Tây và Vĩnh Thành.
+
+== Lịch sử ==
+{{Xem thêm thông tin|Vĩnh Yên#Lịch sử}}
+
+=== Nguồn gốc tên gọi ===
+Tên gọi ''Vĩnh Phúc'' bắt nguồn từ tên tỉnh [[Vĩnh Phúc (tỉnh)|Vĩnh Phúc]], được thành lập lần đầu tiên vào năm [[1950]], là tên ghép của 2 tỉnh [[Vĩnh Yên (tỉnh)|'''Vĩnh''' Yên]] và [[Phúc Yên (tỉnh)|'''Phúc''' Yên]] cũ.<ref>{{Chú thích web |title=Giới thiệu chung về tỉnh Vĩnh Phúc |url=https://vinhphuc.dcs.vn/ContentDetail/OtherContentView?OtherContentId=e240ddae-da94-4a82-8d48-0d0b7703804f |access-date=2025-07-04 |website=Trang thông tin điện tử tỉnh ủy Vĩnh Phúc}}</ref>
+
+=== Lịch sử hành chính ===
+Trước kia, địa bàn phường Vĩnh Phúc là địa bàn của các phường Định Trung, Liên Bảo, Khai Quang, Ngô Quyền và Đống Đa thuộc thành phố [[Vĩnh Yên (thành phố)|Vĩnh Yên]], tỉnh [[Vĩnh Phúc (tỉnh)|Vĩnh Phúc]] cũ.
+
+Ngày [[5 tháng 7]] năm [[1977]], [[Chính phủ Việt Nam|Chính phủ]] ban hành Quyết định số 178/CP về việc hợp nhất điều chỉnh địa giới một số huyện thuộc tỉnh Vĩnh Phú. Theo đó, sáp nhập xã Định Trung vào thị xã Vĩnh Yên.
+
+Ngày [[13 tháng 2]] năm [[2023]], [[Ủy ban Thường vụ Quốc hội]] ban hành Nghị quyết số 730/NQ-UBTVQH15 (nghị quyết có hiệu lực từ ngày [[10 tháng 4]] năm [[2023]]). Theo đó, thành lập phường Định Trung trên cơ sở toàn bộ 7,44&nbsp;km² diện tích tự nhiên và 12.450 người của xã Định Trung.
+
+Ngày [[12 tháng 6]] năm [[2025]], [[Quốc hội Việt Nam|Quốc hội]] ban hành Nghị quyết số 202/2025/QH15 về việc sắp xếp đơn vị hành chính cấp tỉnh (nghị quyết có hiệu lực từ ngày [[12 tháng 6]] năm [[2025]]).<ref>{{Chú thích web |last=xaydungchinhsach.chinhphu.vn |date=2025-07-16 |title=TOÀN VĂN: Nghị quyết số 202/2025/QH15 về sắp xếp đơn vị hành chính cấp tỉnh |url=https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-202-2025-qh15-ve-sap-xep-don-vi-hanh-chinh-cap-tinh-119250612174148722.htm |url-status=live |archive-url=http://web.archive.org/web/20260705025431/https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-202-2025-qh15-ve-sap-xep-don-vi-hanh-chinh-cap-tinh-119250612174148722.htm |archive-date=2026-07-05 |access-date=2026-07-25 |website=Báo Điện tử Chính phủ |language=vi}}</ref> Theo đó, sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của tỉnh [[Vĩnh Phúc (tỉnh)|Vĩnh Phúc]], tỉnh [[Hòa Bình (tỉnh)|Hòa Bình]] và tỉnh [[Phú Thọ]] thành tỉnh mới có tên gọi là tỉnh '''Phú Thọ'''.
+
+Ngày [[16 tháng 6]] năm [[2025]]:
+
+* Quốc hội ban hành Nghị quyết số 203/2025/QH15 về việc sửa đổi, bổ sung một số điều của Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam (nghị quyết có hiệu lực từ ngày [[16 tháng 6]] năm [[2025]]).<ref>{{Chú thích web |last=xaydungchinhsach.chinhphu.vn |date=2025-06-28 |title=NGHỊ QUYẾT 203/2025/QH15 SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA HIẾN PHÁP NƯỚC CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM |url=https://xaydungchinhsach.chinhphu.vn/nghi-quyet-203-2025-qh15-sua-doi-bo-sung-mot-so-dieu-cua-hien-phap-nuoc-cong-hoa-xa-hoi-chu-nghia-viet-nam-119250616181735552.htm |url-status=live |archive-url=http://web.archive.org/web/20260715200606/https://xaydungchinhsach.chinhphu.vn/nghi-quyet-203-2025-qh15-sua-doi-bo-sung-mot-so-dieu-cua-hien-phap-nuoc-cong-hoa-xa-hoi-chu-nghia-viet-nam-119250616181735552.htm |archive-date=2026-07-15 |access-date=2026-07-15 |website=Báo Điện tử Chính phủ |language=vi}}</ref> Theo đó, kết thúc hoạt động của đơn vị hành chính cấp huyện trong cả nước từ ngày 1 tháng 7 năm 2025.
+* Ủy ban Thường vụ Quốc hội ban hành Nghị quyết số 1676/NQ-UBTVQH15 về việc sắp xếp đơn vị hành chính cấp xã của tỉnh [[Phú Thọ]] năm 2025 (nghị quyết có hiệu lực từ ngày [[16 tháng 6]] năm [[2025]]).<ref>{{Chú thích web |last=xaydungchinhsach.chinhphu.vn |date=2025-06-20 |title=Nghị quyết số 1676/NQ-UBTVQH15 sắp xếp các ĐVHC cấp xã của tỉnh Phú Thọ năm 2025 |url=https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-1676-nq-ubtvqh15-sap-xep-cac-dvhc-cap-xa-cua-tinh-phu-tho-nam-2025-119250616204317326.htm |url-status=live |archive-url=http://web.archive.org/web/20260725082021/https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-1676-nq-ubtvqh15-sap-xep-cac-dvhc-cap-xa-cua-tinh-phu-tho-nam-2025-119250616204317326.htm |archive-date=2026-07-25 |access-date=2025-09-07 |website=Báo Điện tử Chính phủ |language=vi}}</ref> Theo đó, sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của các phường Định Trung, Liên Bảo, Khai Quang, Ngô Quyền và Đống Đa thành phường mới có tên gọi là '''phường Vĩnh Phúc'''.
+Sau khi thành lập, phường Vĩnh Phúc được chia thành 66 tổ dân phố: 18, An Định, An Lập, An Sơn, Bà Triệu, Bảo Linh, Bảo Sơn, Chám, Chiền, Chợ Tổng, Chùa, Chùa Hà, Chùa Láp, Dẫu, Dinh, Đầm Vạc, Đẫu, Đình Ấm, Đình Láp, Đôn Hậu, Gẩu, Gẩy - Cầu Bút, Gia Viễn, Gò Dung, Gò Nội, Gốc Đề, Hán Lữ, Láp Trại, Láp Trên, Làng Bầu, Làng Thủy, Lê Xoay, Lý Tự Trọng, Mậu Lâm, Mậu Thông, Mê Linh (phường Đống Đa cũ), Mê Linh (phường Liên Bảo cũ), Minh Quyết, Minh Quyết 2, Mới, Nam Đầm Vạc, Nguyễn Thái Học, Nguyễn Viết Xuân (phường Đống Đa cũ), Nguyễn Viết Xuân (phường Ngô Quyền cũ), Phố Láp, Sậu, Sơn Cao, Tân Đình, Tân Lập, Tân Phúc, Tấm, Thanh Giã 1, Thanh Giã 2, Tô Hiệu, Trại Giao, Trần Phú, Trần Quốc Toản, Trần Quốc Tuấn, Trung Thành, Vèo, Vẽn, Vinh Thịnh Đông, Vinh Thịnh Tây, Vĩnh Tân, Vĩnh Thành, Xuân Mai.<ref>{{Chú thích web |last=Ủy ban nhân dân phường Vĩnh Phúc|date=2026-01-27|title=Quyết định số 114/QĐ-UBND về việc xác định khu vực bỏ phiếu bầu cử đại biểu Quốc hội khóa XVI và bầu cử đại biểu Hội đồng nhân dân các cấp nhiệm kỳ 2026 - 2031 trên địa bàn phường Vĩnh Phúc|url=https://vinhphuc.phutho.gov.vn/images/Q%C4%90_X%C3%A1c_%C4%91%E1%BB%8Bnh_khu_v%E1%BB%B1c_b%E1%BB%8F_phi%E1%BA%BFu_26.01.signed.signed.signed.pdf|url-status=live|archive-url=https://web.archive.org/web/20260417090807/https://vinhphuc.phutho.gov.vn/images/Q%C4%90_X%C3%A1c_%C4%91%E1%BB%8Bnh_khu_v%E1%BB%B1c_b%E1%BB%8F_phi%E1%BA%BFu_26.01.signed.signed.signed.pdf|archive-date=2026-04-17|access-date=2026-04-17|website=Trang Thông tin điện tử phường Vĩnh Phúc - tỉnh Phú Thọ}}</ref>
+
+== Xã hội ==
+
+=== Giáo dục ===
+Phường Vĩnh Phúc hiện tại có các cơ sở giáo dục sau:
+
+* Học viện Kỹ thuật Quân sự.
+* Trường Quân sự Quân khu 2.
+* Trường Chính trị Vĩnh Phúc.
+* Cao đẳng Vĩnh Phúc.
+* Trường Cao đẳng Kỹ thuật – Công nghệ Vĩnh Phúc (Khu A).
+* Trường Cao đẳng FPT Polytechnic - Vĩnh Phúc
+* Trung tâm GDTX Vĩnh Phúc.
+* Trường THPT Chuyên Vĩnh Phúc.
+* Trường THPT Trần Phú.
+* Trường THPT Liên Bảo.
+* Trường THPT Nguyễn Thái Học.
+* Trường Phổ thông Liên cấp Newton Vĩnh Phúc.
+
+=== Y tế ===
+Trong những năm qua, hệ thống cơ sở hạ tầng y tế trên địa bàn đô thị luôn nhận được sự quan tâm của các cấp, ngành trong tỉnh để cải tạo, nâng cấp trang thiết bị và đầu tư xây dựng mới. Do vậy, đến nay hầu hết các cơ sở y tế có chất lượng kiên cố và đều trong tình trạng hoạt động tốt, đảm bảo đáp ứng cho nhu cầu khám chữa bệnh của nhân dân. Các cơ sở y tế trên địa bàn phường hiện nay bao gồm:
+
+* Bệnh viện Đa khoa Vĩnh Phúc.
+* Bệnh viện Y dược cổ truyền Vĩnh Phúc.
+* Bệnh viện Tâm thần Vĩnh Phúc.
+* Bệnh viện Hữu nghị Lạc Việt.
+* Công ty Bệnh viện Quốc tế Vĩnh Phúc.
+* Bệnh viện Mắt Hà Nội – Vĩnh Phúc.
+
+=== Kinh tế ===
+Phường Vĩnh Phúc bao gồm Khu công nghiệp Khai Quang, là một trong những KCN đầu tiên và chính của vùng. Được thành lập năm 2003, KCN Khai Quang đã thu hút được 80 dự án, trong đó 77 dự án đang hoạt động với tổng vốn đăng kí 757,26 triệu USD và 362,53 tỉ đồng, tỉ lệ lấp đầy 96,4% vào năm 2022. Khai Quang định hướng phát triển trở thành KCN đa ngành, thu hút các lĩnh vực sản xuất, chế tạo thiết bị cơ khí chính xác; điện tử, điện lạnh, thiết bị, phụ tùng ô tô, xe máy; sản xuất khuôn mẫu cho các sản phẩm kim loại và phi kim loại; ... trên diện tích khoảng hơn 220ha. Một số thương hiệu doanh nghiệp tiêu biểu đang hoạt động tại đây như: Sun Hua, Haohsing Việt Nam, TOYO TAKI Việt Nam, Diamond, ...<ref>{{Chú thích web |last=diendandoanhnghiep.vn |date=2022-04-21 |title=KCN Khai Quang (Vĩnh Phúc): Điểm sáng thu hút đầu tư |url=https://diendandoanhnghiep.vn/kcn-khai-quang-vinh-phuc-diem-sang-thu-hut-dau-tu-10123617.html |access-date=2025-07-03 |website=diendandoanhnghiep.vn |language=vi}}</ref>
+
+== Văn hoá ==
+
+=== Đặc sản ===
+Tép dầu [[đầm Vạc]] là nơi sản sinh ra loại tép được tán tụng: "'''''Cỗ chín lợn, mười trâu'''''/'''''Cũng không bằng tép dầu Đầm Vạc'''''".<ref>{{Chú thích web |title=Tép Dầu Đầm Vạc |url=https://vinhphuc.gov.vn/ct/cms/dukhach/Lists/m%20thc |access-date=2025-07-03 |website=vinhphuc.gov.vn |language=en-US }}{{Liên kết hỏng|date=2026-06-20 |bot=InternetArchiveBot }}</ref>
+
+=== Thể thao ===
+Phường Vĩnh Phúc có Nhà thi đấu Thể dục Thể thao Vĩnh Phúc, là nơi đã tổ chức nhiều sự kiện thể thao trong nước và quốc tế, gần đây nhất là [[VTV Cup 2025|Giải Bóng chuyền nữ Quốc tế VTV Cup năm 2025]]. Hiện nay, cũng có Khu văn hoá Thể thao Vĩnh Yên đang được xây đựng bao gồm: 1 sân vận động có sức chứa 7.000 người, nhà thể thao đa năng và bể bơi.<ref>{{Chú thích web |last=An Vi |date=2025-04-27 |title=Hình hài sân vận động 148 tỉ đồng ở Vĩnh Phúc |url=https://laodong.vn/the-thao/hinh-hai-san-van-dong-148-ti-dong-o-vinh-phuc-1496853.ldo |access-date=2025-07-03 |website=laodong.vn}}</ref>
+
+=== Di tích – Du lịch ===
+Một số danh thắng, di tích và khu du lịch nổi tiếng bao gồm:<ref>{{Chú thích web |title=DANH MỤC KIỂM KÊ DI TÍCH LỊCH SỬ - VĂN HÓA THÀNH PHỐ VĨNH YÊN NĂM 2022 |url=https://vinhphuc.gov.vn/ct/cms/HeThongChinhTriTinh/uybannhandan/Lists/QuyetDinh/Attachments/954/Danh-muc-KKDT-Vinh-Yen-210.05.2023_16h19p14_signed-18.pdf |access-date=2025-07-04 |publisher=UBND tỉnh Vĩnh Phúc |archive-date=2025-07-03 |archive-url=https://web.archive.org/web/20250703205447/https://vinhphuc.gov.vn/ct/cms/HeThongChinhTriTinh/uybannhandan/Lists/QuyetDinh/Attachments/954/Danh-muc-KKDT-Vinh-Yen-210.05.2023_16h19p14_signed-18.pdf |url-status=dead }}</ref>
+
+* Chùa Hà Tiên là một trong những trung tâm [[Phật giáo]] lớn [[Nhà Lý|thời Lý]], [[Nhà Trần|Trần]]. Đây cũng là di tích lưu niệm [[Hồ Chí Minh|Chủ tịch Hồ Chí Minh]] khi người về thăm tỉnh [[Vĩnh Phúc (tỉnh)|Vĩnh Phúc]], đến thưởng ngoạn thắng cảnh chùa Hà Tiên vào ngày 25 tháng 1 năm 1963.
+* Chùa Láp (An Trấn Tự), Chùa Bầu (Phật Quang Tự).
+* Đền Đậu, Đền Đức Thánh Trần, Đền Triền, Đình Sậu, Đình Sơn Bao.
+* Di tích lưu niệm [[Hồ Chí Minh|Chủ tịch Hồ Chí Minh]] về thăm tỉnh [[Vĩnh Phúc (tỉnh)|Vĩnh Phúc]] (ngày 2 tháng 3 năm 1963), Văn miếu Vĩnh Phúc, Nhà thờ Giáo xứ Vĩnh Yên.
+* Phía Bắc phường gần Nút giao IC4 – Tam Đảo Xanh của [[Đường cao tốc Nội Bài – Lào Cai|Cao tốc Nội Bài - Lào Cai]] là núi Đinh có đình thờ Lỗ Đinh Sơn Thất vị đại vương, 7 anh em [[Lỗ (họ)|họ Lỗ]] [[Nhà Trần|thời Trần]] [[Chiến tranh Nguyên Mông – Đại Việt lần 1|chống giặc Nguyên Mông lần thứ nhất (1258)]].<ref>{{Chú thích web |last=Kim Cúc |first= |date=2023-07-23 |title=Chuyện kể thần núi Đinh, động Tam Dương đến huyện Dương thời Trần |url=http://hoivhntvinhphuc.org.vn/ContentDetail/NewsDetailView?NewsId=53271ccd-2e0d-479f-af03-36834e57357e |access-date=2025-07-03 |website= |publisher=Hội Văn học Nghệ thuật tỉnh Vĩnh Phúc |language=vi}}</ref>
+
+== Chú thích ==
+{{tham khảo}}
+
+== Tham khảo ==
+{{sơ khai Phú Thọ}}
+{{Đơn vị hành chính thuộc tỉnh Phú Thọ}}

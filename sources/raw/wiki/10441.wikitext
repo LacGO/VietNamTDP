@@ -1,0 +1,145 @@
+{{Thông tin đơn vị hành chính Việt Nam |Xã
+| tên = Mỹ Đức
+| hình = Đền thờ Đinh Tiên Hoàng đế.jpg
+| ghi chú hình = Đền thờ [[Đinh Tiên Hoàng Đế]] ở xã Mỹ Đức
+| vĩ độ = 20.686871190447626
+| kinh độ = 105.74472514226784
+| diện tích = 52,73 km²
+| dân số = 53.640 người
+| thời điểm dân số = 2025
+| mật độ dân số = {{formatnum:{{#expr:floor({{formatnum:53.640| R}}/{{formatnum:52,73| R}})}} }} người/km²
+| vùng = [[Đồng bằng sông Hồng]]
+| thành phố = [[Hà Nội]]
+| thành lập = 
+| trụ sở UBND = Số 2 phố Đại Đồng<ref>{{Chú thích web |url=https://storage-vnportal.vnpt.vn/gov-hni/6244/VanBan/2025/6/25/TB-729-2025.pdf |title=Thông báo số 729/TB-UBND ngày 25 tháng 6 năm 2025 của Ủy ban nhân dân thành phố Hà Nội về địa điểm trụ sở làm việc của 126 phường, xã sau sắp xếp thuộc phạm vi quản lý của thành phố Hà Nội|access-date=2026-06-15 |archive-date=2026-06-15 |archive-url=https://web.archive.org/web/20260615034519/https://storage-vnportal.vnpt.vn/gov-hni/6244/VanBan/2025/6/25/TB-729-2025.pdf |url-status=dead | website = Cổng Thông tin điện tử Ủy ban nhân dân thành phố Hà Nội}}</ref>
+| mã hành chính =10441<ref>{{Chú thích web |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/19ttg.signed.pdf |title=Quyết định số 19/2025/QĐ-TTg ngày 30 tháng 6 năm 2025 của Thủ tướng Chính phủ về việc Ban hành Bảng danh mục và mã số các đơn vị hành chính Việt Nam |access-date=2026-06-15 |archive-date=2026-06-15 |archive-url=https://web.archive.org/web/20260615034519/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/19ttg.signed.pdf |url-status=dead | website = Cổng Thông tin điện tử Chính phủ}}</ref> 
+| mã bưu chính = 
+|web={{url|myduc.hanoi.gov.vn}}|trụ sở Đảng ủy=Số 6 phố Đại Đồng}}
+{{other|Mỹ Đức (định hướng)}}
+'''Mỹ Đức''' là một [[Xã (Việt Nam)|xã]] thuộc thành phố [[Hà Nội]], [[Việt Nam]].
+
+== Địa lý ==
+Xã Mỹ Đức có vị trí địa lý:
+
+* Phía đông giáp xã [[Hòa Xá]] với ranh giới tự nhiên là [[sông Đáy]]
+* Phía tây giáp xã [[Cao Dương]] và xã [[An Nghĩa]] thuộc tỉnh [[Phú Thọ]]
+* Phía nam giáp xã [[Hương Sơn, Hà Nội|Hương Sơn]]
+* Phía bắc giáp xã [[Hồng Sơn, Hà Nội|Hồng Sơn]].<ref>{{Chú thích web |last=Viện nghiên cứu Phát triển kinh tế – xã hội Hà Nội |date=2025-07-02 |title=Xã Mỹ Đức: Những thông tin chi tiết sau sắp xếp |url=https://hanoionline.vn/xa-my-duc-nhung-thong-tin-chi-tiet-sau-sap-xep-344086.htm |url-status=dead |archive-url=https://web.archive.org/web/20260114235356/https://hanoionline.vn/xa-my-duc-nhung-thong-tin-chi-tiet-sau-sap-xep-344086.htm |archive-date=2026-01-14 |access-date=2026-08-02 |website=Cơ quan Báo và Phát thanh Truyền hình Hà Nội }}</ref><ref>{{Chú thích web |last=Cơ quan Báo và Phát thanh Truyền hình Hà Nội |date=2025-07-08 |title=Xã Mỹ Đức: Tất cả thông tin chỉ dẫn bạn cần biết |url=https://hanoionline.vn/xa-my-duc-tat-ca-thong-tin-chi-dan-ban-can-biet-345495.htm |url-status=dead |archive-url=https://web.archive.org/web/20250709012433/https://hanoionline.vn/xa-my-duc-tat-ca-thong-tin-chi-dan-ban-can-biet-345495.htm |archive-date=2025-07-09 |access-date=2026-08-02 }}</ref>
+Xã Mỹ Đức có diện tích tự nhiên là 52,73 km<sup>2</sup>, quy mô dân số năm 2025 là 53.640 người và mật độ dân số đạt 1.017 người/km<sup>2</sup>.<ref>{{Chú thích web |last=Mai Hữu |date=2026-04-05 |title=Hà Nội: Chi tiết phương án tổng thể sắp xếp đơn vị hành chính cấp xã |url=https://hanoimoi.vn/ha-noi-chi-tiet-phuong-an-tong-the-sap-xep-don-vi-hanh-chinh-cap-xa-700278.html |url-status=dead |archive-url=https://web.archive.org/web/20250710163328/https://hanoimoi.vn/ha-noi-chi-tiet-phuong-an-tong-the-sap-xep-don-vi-hanh-chinh-cap-xa-700278.html |archive-date=2025-07-10 |access-date=2026-07-11 |website=Cơ quan Báo và Phát thanh, truyền hình Hà Nội }}</ref><ref>Công văn số 2896/BNV-CQĐP ngày 27 tháng 5 năm 2025 của Bộ Nội vụ về việc cung cấp thông tin danh mục dự kiến đơn vị hành chính cấp xã mới.</ref>
+
+== Lịch sử==
+
+=== Trước năm 1976 ===
+
+=== Giai đoạn 1976 – nay ===
+Sau ngày 2 tháng 7 năm 1976, 5 xã: An Phú, Đại Hưng, Đại Nghĩa, Hợp Thanh và Phù Lưu Tế thuộc huyện [[Mỹ Đức (huyện)|Mỹ Đức]] của tỉnh [[Hà Sơn Bình]].
+
+Ngày 19 tháng 3 năm 1988, tách thôn Tế Tiêu của xã Đại Nghĩa với 185,9 hécta diện tích tự nhiên và 3.591 nhân khẩu để thành lập thị trấn Tế Tiêu.<ref>{{Chú thích web |title=Quyết định số 49-HĐBT ngày 19 tháng 3 năm 1988 của Hội đồng Bộ trưởng về việc thành lập một số thị trấn của các huyện Mỹ Đức, Tân Lạc và Thường Tín thuộc tỉnh Hà Sơn Bình |url=https://vanban.chinhphu.vn/default.aspx?pageid=27160&docid=251 |url-status=dead |archive-url=https://web.archive.org/web/20260801201510/https://vanban.chinhphu.vn/default.aspx?pageid=27160&docid=251 |archive-date=2026-08-01 |access-date=2026-08-01 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+
+Ngày 12 tháng 8 năm 1991, chia tỉnh [[Hà Sơn Bình]] thành 2 tỉnh, lấy tên là tỉnh [[Hòa Bình (tỉnh)|Hòa Bình]] và tỉnh [[Hà Tây (tỉnh)|Hà Tây]]. Khi đó, thị trấn Tế Tiêu và 5 xã: An Phú, Đại Hưng, Đại Nghĩa, Hợp Thanh, Phù Lưu Tế thuộc huyện [[Mỹ Đức (huyện)|Mỹ Đức]] của tỉnh [[Hà Tây (tỉnh)|Hà Tây]].<ref>Nghị quyết ngày 12 tháng 8 năm 1991 của Quốc hội khóa VIII, Kỳ họp thứ 9 về việc điều chỉnh địa giới hành chính một số tỉnh, thành phố trực thuộc Trung ương.</ref>
+
+Ngày 8 tháng 1 năm 2004, thành lập thị trấn Đại Nghĩa trên cơ sở sáp nhập toàn bộ diện tích tự nhiên và dân số của thị trấn Tế Tiêu và xã Đại Nghĩa.<ref>{{Chú thích web |title=Nghị định số 12/2004/NĐ-CP ngày 8 tháng 1 năm 2004 của Chính phủ về việc sáp nhập thị trấn Tế Tiêu và xã Đại Nghĩa để thành lập thị trấn Đại Nghĩa thuộc huyện Mỹ Đức, tỉnh Hà Tây |url=https://chinhphu.vn/default.aspx?pageid=27160&docid=13126 |url-status=dead |archive-url=https://web.archive.org/web/20260801201510/https://chinhphu.vn/default.aspx?pageid=27160&docid=13126 |archive-date=2026-08-01 |access-date=2026-08-01 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+
+Ngày 29 tháng 5 năm 2008, hợp nhất tỉnh [[Hà Tây (tỉnh)|Hà Tây]] vào thành phố [[Hà Nội]]. Khi đó, thị trấn Đại Nghĩa và 4 xã: An Phú, Đại Hưng, Hợp Thanh, Phù Lưu Tế thuộc huyện [[Mỹ Đức (huyện)|Mỹ Đức]] của thành phố [[Hà Nội]].<ref>Nghị quyết số 15/2008/QH12 ngày 29 tháng 5 năm 2008 của Quốc hội khóa XII, Kỳ họp thứ 3 về việc điều chỉnh địa giới hành chính thành phố Hà Nội và một số tỉnh có liên quan.</ref>
+
+Ngày 16 tháng 6 năm 2025:
+
+* Kết thúc hoạt động của đơn vị hành chính cấp huyện trong cả nước.<ref>{{Chú thích web |last= |date= |title=Nghị quyết số 203/2025/QH15 ngày 16 tháng 6 năm 2025 của Quốc hội khóa XV, Kỳ họp thứ 9 về việc sửa đổi, bổ sung một số điều của Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/nq-sua-doi-hien-phap.pdf |url-status=live |archive-url=https://web.archive.org/web/20260613090807/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/nq-sua-doi-hien-phap.pdf |archive-date=2026-06-13 |access-date=2026-06-13 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+* Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của thị trấn Đại Nghĩa và các xã An Phú, Đại Hưng, Hợp Thanh, Phù Lưu Tế (huyện [[Mỹ Đức (huyện)|Mỹ Đức]]) thành xã mới có tên gọi là xã Mỹ Đức.<ref>{{Chú thích web |title=Nghị quyết số 1656/NQ-UBTVQH15 ngày 16 tháng 6 năm 2025 của Ủy ban Thường vụ Quốc hội về việc sắp xếp các đơn vị hành chính cấp xã của thành phố Hà Nội năm 2025 |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf |url-status=bot: unknown |archive-url=https://web.archive.org/web/20260513110024/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf |archive-date=2026-05-13 |access-date=2026-06-30 |website=Cổng Thông tin điện tử Chính phủ }}</ref>
+* Sau khi sắp xếp, xã Mỹ Đức được chia thành 35 thôn.<ref>3 tổ dân phố: Tế Tiêu, Thọ Sơn và Văn Giang của thị trấn Đại Nghĩa cũ; 13 thôn: Ái Nàng, Bơ Môi, Đình, Đồi Dùng, Đồi Lý, Đồng Chiêm, Đồng Văn, Đức Dương, Gốc Báng, Nam Hưng, Phú Thanh, Rộc Éo và Thanh Hà của xã An Phú cũ; 3 thôn: Hà Xá, Thượng Tiết và Trinh Tiết của xã Đại Hưng cũ; 6 thôn: Ải, Phú Hiền, Thọ, Vài, Vài Mới và Vân của xã Hợp Thanh cũ; 10 thôn, đánh số từ 1 đến 10 của xã Phù Lưu Tế cũ.</ref><ref>{{Chú thích web |title=Thông tư số 10/2022/TT-BTNMT ngày 29 tháng 9 năm 2022 của Bộ Tài nguyên và Môi trường về việc Ban hành Danh mục địa danh dân cư, sơn văn, thủy văn, kinh tế – xã hội phục vụ công tác thành lập bản đồ thành phố Hà Nội |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2022/10/10-btnmt.pdf |url-status=bot: unknown |archive-url=https://web.archive.org/web/20260630082812/https://datafiles.chinhphu.vn/cpp/files/vbpq/2022/10/10-btnmt.pdf |archive-date=2026-06-30 |access-date=2026-06-30 |website=Cổng Thông tin điện tử Chính phủ }}</ref><ref>{{Chú thích web |title=Danh sách Thôn vùng đồng bào dân tộc thiểu số và miền núi, thôn đặc biệt khó khăn giai đoạn 2026 – 2030 trên địa bàn thành phố Hà Nội (Kèm theo Quyết định số 104/QĐ-BDTTG ngày 27 tháng 02 năm 2026 của Bộ trưởng Bộ Dân tộc và Tôn giáo) |url=http://files.ubdt.gov.vn/files/ecm/source_files/2026/03/09/11023866_2.%20H%C3%A0%20N%E1%BB%99i%20(th%C3%B4n).signed_26-03-09.pdf |url-status=dead |archive-url=https://web.archive.org/web/20260812201510/http://files.ubdt.gov.vn/files/ecm/source_files/2026/03/09/11023866_2.%20H%C3%A0%20N%E1%BB%99i%20(th%C3%B4n).signed_26-03-09.pdf |archive-date=2026-08-12 |access-date=2026-08-12 |website=Cổng Thông tin điện tử Bộ Dân tộc và Tôn giáo}}</ref><ref>{{Chú thích web |last= |date= |title=Thông báo số 21/TB-UBBC ngày 26 tháng 2 năm 2026 của Ủy ban bầu cử xã Mỹ Đức về việc niêm yết danh sách chính thức và tiểu sử tóm tắt người ứng cử đại biểu Quốc hội khóa XVI và ứng cử đại biểu Hội đồng nhân dân các cấp nhiệm kỳ 2026 – 2031 |url=https://sqhx-hanoi.mediacdn.vn/91579363132710912/2026/2/27/21-tb-niem-yet-ds-chinh-thuc-nguoi-ung-cu-dai-bieu-hdnd-xa-my-duc0001-17721797836861980900332.pdf |url-status=dead |archive-url=https://web.archive.org/web/20260803152507/https://sqhx-hanoi.mediacdn.vn/91579363132710912/2026/2/27/21-tb-niem-yet-ds-chinh-thuc-nguoi-ung-cu-dai-bieu-hdnd-xa-my-duc0001-17721797836861980900332.pdf |archive-date=2026-08-03 |access-date=2026-08-02 |website=Trang Thông tin điện tử xã Mỹ Đức – thành phố Hà Nội }}</ref>
+Ngày 18 tháng 7 năm 2025, chuyển 3 tổ dân phố thuộc thị trấn Đại Nghĩa cũ thành 3 thôn: Tế Tiêu, Văn Giang và Thọ Sơn.<ref>Chuyển đổi tên gọi ba Tổ dân phố thuộc thị trấn Đại Nghĩa cũ thành thôn Tế Tiêu, thôn Văn Giang và thôn Thọ Sơn.</ref><ref>{{Chú thích web |last=Hương Giang |date=2025-07-18 |title=Kỳ họp Hội đồng nhân dân xã Mỹ Đức thông qua nhiều nghị quyết quan trọng, định hướng phát triển kinh tế – xã hội năm 2025 |url=https://thanhuyhanoi.vn/tin-tuc/xa-my-duc/ky-hop-hdnd-xa-my-duc-thong-qua-nhieu-nghi-quyet-quan-trong-dinh-huong-phat-trien-kinh-texa-hoi-nam-2025-50024270.html |url-status=dead |archive-url=https://web.archive.org/web/20260802201510/https://thanhuyhanoi.vn/tin-tuc/xa-my-duc/ky-hop-hdnd-xa-my-duc-thong-qua-nhieu-nghi-quyet-quan-trong-dinh-huong-phat-trien-kinh-texa-hoi-nam-2025-50024270.html |archive-date=2026-08-02 |access-date=2026-08-02 |website=Trang Thông tin điện tử Đảng bộ thành phố Hà Nội}}</ref>
+
+Ngày 24 tháng 12 năm 2025, xác định một phần của xã Mỹ Đức là [[Đô thị Việt Nam|đô thị loại III]].<ref>Chuyển tiếp từ thị trấn Đại Nghĩa thuộc huyện Mỹ Đức.</ref><ref>{{Chú thích web |title=Nghị quyết số 111/2025/UBTVQH15 ngày 24 tháng 12 năm 2025 của Ủy ban Thường vụ Quốc hội về phân loại đô thị |url=https://cdn.nhandan.vn/files/f4a4abf7f9a0ba4a91744616546d850872b76917f90d5a74cc9eebef1369fb6f/111.pdf |url-status=dead |archive-url=https://web.archive.org/web/20260430074852/https://cdn.nhandan.vn/files/f4a4abf7f9a0ba4a91744616546d850872b76917f90d5a74cc9eebef1369fb6f/111.pdf |archive-date=2026-04-30 |access-date=2026-07-12 |website=Báo Nhân dân }}</ref>
+
+Ngày 26 tháng 6 năm 2026, thành lập 8 thôn mới: Phù Lưu Tế Thượng, Phù Lưu Tế Trung, Phù Lưu Tế Hạ, Vân Thọ, Phú Hiền, An Phú, Nam Thanh Hà và Phú Cốc.<ref>1. 9 thôn giữ nguyên gồm: Tế Tiêu, Văn Giang, Thọ Sơn, Hà Xá, Trinh Tiết, Thượng Tiết, Vài, Ải và Đồng Chiêm; 2. Sáp nhập thôn 1, thôn 2, thôn 3 thành thôn Phù Lưu Tế Thượng; 3. Sáp nhập thôn 4, thôn 5, thôn 6 thành thôn Phù Lưu Tế Trung; 4. Sáp nhập thôn 7, thôn 8, thôn 9 và thôn 10 thành thôn Phù Lưu Tế Hạ; 5. Sáp nhập thôn Vân với thôn Thọ thành thôn Vân Thọ; 6. Sáp nhập thôn Vài Mới với thôn Phú Hiền thành thôn Phú Hiền; 7. Sáp nhập thôn Ái Nàng, thôn Đức Dương, thôn Đồng Văn với thôn Phú Thanh thành thôn An Phú; 8. Sáp nhập thôn Nam Hưng với thôn Thanh Hà thành thôn Nam Thanh Hà; 9. Sáp nhập các thôn Đồi Dùng, Đồi Lý, Gốc Báng, Đình, Rọc Éo với thôn Bơ Môi thành thôn Phú Cốc.</ref><ref name=":02">{{Chú thích web |last=Lê Thị Hương Giang |date=2026-06-05 |title=Xã Mỹ Đức thống nhất phương án sắp xếp thôn, hướng tới tinh gọn tổ chức và nâng cao hiệu quả quản lý ở cơ sở |url=https://thanhuyhanoi.vn/tin-tuc/xa-my-duc/xa-my-duc-thong-nhat-phuong-an-sap-xep-thon-huong-toi-tinh-gon-to-chuc-va-nang-cao-hieu-qua-quan-ly-o-co-so-50045701.html |url-status=dead |archive-url=https://web.archive.org/web/20260802400809/https://thanhuyhanoi.vn/tin-tuc/xa-my-duc/xa-my-duc-thong-nhat-phuong-an-sap-xep-thon-huong-toi-tinh-gon-to-chuc-va-nang-cao-hieu-qua-quan-ly-o-co-so-50045701.html |archive-date=2026-08-02 |access-date=2026-08-02 |website=Trang Thông tin điện tử Đảng bộ thành phố Hà Nội}}</ref><ref name=":0">{{Chú thích web |last=Mỹ Đức 24H – thành phố Hà Nội |date=2026-06-14 |title=Dự kiến phương án sắp xếp, tổ chức lại các thôn trên địa bàn xã Mỹ Đức |url=https://web.facebook.com/photo/?fbid=122175330068934287&set=a.122102917946934287 |url-status=dead |archive-url=https://web.archive.org/web/20260802201510/https://web.facebook.com/photo/?fbid=122175330068934287&set=a.122102917946934287 |archive-date=2026-08-02 |access-date=2026-08-02}}</ref><ref name=":1">{{Chú thích web |last=Lê Thị Hương Giang |date=2026-06-26 |title=Hội đồng nhân dân xã Mỹ Đức quyết nghị nhiều nội dung trọng tâm, thống nhất phương án sắp xếp còn 17 thôn |url=https://thanhuyhanoi.vn/tin-tuc/xa-my-duc/hdnd-xa-my-duc-quyet-nghi-nhieu-noi-dung-trong-tam-thong-nhat-phuong-an-sap-xep-con-17-thon-50047362.html |url-status=dead |archive-url=https://web.archive.org/web/20260802400809/https://thanhuyhanoi.vn/tin-tuc/xa-my-duc/hdnd-xa-my-duc-quyet-nghi-nhieu-noi-dung-trong-tam-thong-nhat-phuong-an-sap-xep-con-17-thon-50047362.html |archive-date=2026-08-02 |access-date=2026-08-02 |website=Trang Thông tin điện tử Đảng bộ thành phố Hà Nội}}</ref>
+
+== Hành chính==
+Xã Mỹ Đức được chia thành 17 thôn: An Phú, Ải, Đồng Chiêm, Hà Xá, Nam Thanh Hà, Phú Cốc, Phú Hiền, Phù Lưu Tế Hạ, Phù Lưu Tế Thượng, Phù Lưu Tế Trung, Tế Tiêu, Thọ Sơn, Thượng Tiết, Trinh Tiết, Vài, Văn Giang và Vân Thọ.<ref name=":02" /><ref name=":0" /><ref name=":1" />
+{| class="wikitable sortable" cellpadding="0" cellspacing="6" width="100%" align="center" style="background: #f9f9f9; border: 1px #aaa solid; margin-top: 16px"
+! colspan="4" style="background: #E6E6FA; font-size: 95%;" |Danh sách các thôn thuộc xã Mỹ Đức<ref name=":02" /><ref name=":0" /><ref name=":1" />
+|-
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| cellpadding="1" cellspacing="1" width="100%" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |An Phú
+|662
+|-
+| align="left" |Ải
+|1.491
+|-
+| align="left" |Đồng Chiêm
+|563
+|-
+| align="left" |Hà Xá
+|650
+|-
+| align="left" |Nam Thanh Hà
+|504
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| cellpadding="1" cellspacing="1" width="100%" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Phú Cốc
+|745
+|-
+| align="left" |Phú Hiền
+|845
+|-
+| align="left" |Phù Lưu Tế Hạ
+|1.043
+|-
+| align="left" |Phù Lưu Tế Thượng
+|848
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| cellpadding="1" cellspacing="1" width="100%" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Phù Lưu Tế Trung
+|757
+|-
+| align="left" |Tế Tiêu
+|1.305
+|-
+| align="left" |Thọ Sơn
+|603
+|-
+| align="left" |Thượng Tiết
+|645
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| cellpadding="1" cellspacing="1" width="100%" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Trinh Tiết
+|1.045
+|-
+| align="left" |Vài
+|667
+|-
+| align="left" |Văn Giang
+|736
+|-
+| align="left" |Vân Thọ
+|822
+|}
+|}
+
+== Di tích - Danh thắng== 
+=== Đền thờ Đinh Tiên Hoàng đế=== 
+Khu di tích đền thờ [[Đinh Tiên Hoàng Đế]] ở làng Vài, xã Mỹ Đức, Hà Nội là nơi [[Đinh Bộ Lĩnh]] từng về tuyển quân lính để đánh dẹp [[loạn 12 sứ quân]]. Hiện nay trên địa bàn Mỹ Đức có nhiều di tích và truyền thuyết liên quan đến cuộc đời và sự nghiệp của Vua [[Đinh Tiên Hoàng]] và những người dân làng từ thế kỷ X đã tham gia vào công cuộc thống nhất đất nước [[Đại Cồ Việt]]. Đền thờ [[Đinh Tiên Hoàng]] đế nguyên là ngôi đền cổ, năm 2024 huyện Mỹ Đức tổ chức lễ khởi công dự án tu bổ, tôn tạo di tích Đền thờ Đinh Tiên Hoàng Đế tại xã Hợp Thanh. Dự án được thực hiện trên diện tích 8.212m2 với các hạng mục chính như: Tu bổ, tôn tạo nghi môn, gác chuông, đề thờ, nhà Tả mạc-Hữu mạc, nhà thủ từ, am hoá vàng, nhà dịch vụ… Khi hoàn thành đền là điểm đến quan trọng trên địa bàn xã Mỹ Đức.<ref>[https://thanhuyhanoi.vn/tin-tuc/bi-thu-thanh-uy/huyen-my-duc-khoi-cong-du-an-tu-bo-ton-tao-den-tho-dinh-tien-hoang-de-10037153.html Huyện Mỹ Đức khởi công dự án tu bổ, tôn tạo Đền thờ Đinh Tiên Hoàng Đế]</ref>
+
+Lễ hội Đền Đinh Tiên Hoàng đế diễn ra vào các ngày 11-12 tháng 10 âm lịch hàng năm. Buổi sáng hôm thứ nhất là lễ khởi kiệu và lễ an vị Vua [[Đinh Tiên Hoàng]], chiều là lễ tế của các đoàn tế thôn Vài, thôn Vân, thôn Phú Hiền, thôn Thọ. Buổi tối cùng ngày là chương trình giao lưu văn nghệ tại sân khấu lễ hội. Sáng ngày 12 là chương trình khai mạc lễ hội, gồm có đón tiếp đại biểu và phát biểu của đại diện lãnh đạo địa phương, người Hợp Thanh xa quê hương về dự hội và các phần giao lưu văn hóa thể thao.
+
+== Chú thích== 
+{{tham khảo}}
+
+== Tham khảo ==
+{{sơ khai Hà Nội}}
+{{Đơn vị hành chính thuộc thành phố Hà Nội}}

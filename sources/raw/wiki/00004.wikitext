@@ -1,0 +1,194 @@
+{{Thông tin đơn vị hành chính Việt Nam|Phường| tên = Ba Đình
+| hình = 
+| ghi chú hình = 
+| vĩ độ = 21.046161286244487
+| kinh độ = 105.8419467577576
+| diện tích = 2,97 km²
+| dân số = 65.023 người
+| thời điểm dân số = 2025
+| mật độ dân số = {{formatnum:{{#expr:floor({{formatnum:65.023| R}}/{{formatnum:2,97| R}})}} }} người/km²
+| vùng = [[Đồng bằng sông Hồng]]
+| thành phố = [[Hà Nội]]
+| trụ sở UBND = Số 2, phố Trúc Bạch<ref>{{Chú thích web |url=https://storage-vnportal.vnpt.vn/gov-hni/6244/VanBan/2025/6/25/TB-729-2025.pdf |title=Thông báo số 729/TB-UBND ngày 25 tháng 6 năm 2025 của Ủy ban nhân dân thành phố Hà Nội về địa điểm trụ sở làm việc của 126 phường, xã sau sắp xếp thuộc phạm vi quản lý của thành phố Hà Nội|access-date=2026-06-15 |archive-date=2026-06-15 |archive-url=https://web.archive.org/web/20260615034519/https://storage-vnportal.vnpt.vn/gov-hni/6244/VanBan/2025/6/25/TB-729-2025.pdf |url-status=dead | website = Cổng Thông tin điện tử Ủy ban nhân dân thành phố Hà Nội}}</ref>
+| mã hành chính = 00004<ref>{{Chú thích web |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/19ttg.signed.pdf |title=Quyết định số 19/2025/QĐ-TTg ngày 30 tháng 6 năm 2025 của Thủ tướng Chính phủ về việc Ban hành Bảng danh mục và mã số các đơn vị hành chính Việt Nam |access-date=2026-06-15 |archive-date=2026-06-15 |archive-url=https://web.archive.org/web/20260615034519/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/19ttg.signed.pdf |url-status=dead | website = Cổng Thông tin điện tử Chính phủ}}</ref>
+| web = {{url|badinh.hanoi.gov.vn}}
+| bản đồ 1 = [[File:Ba Dinh map.png| 300px]]
+| tựa bản đồ 1 = Bản đồ phường Ba Đình
+|trụ sở Đảng ủy=Số 12-14, phố Phan Đình Phùng<ref name = "trusomoi">{{Cite web | date = 25 tháng 6 năm 2025 | title = Thông báo về địa điểm trụ sở làm việc của 126 phường, xã sau sắp xếp thuộc phạm vi quản lý của thành phố Hà Nội | url = https://dcdn.dantri.com.vn/2025/06/25/tru-so-126-xa-phuong-cua-ha-noi-1750822481952.pdf | website = UBND TP Hà Nội}}</ref>|trụ sở UBMTTQ=Số 68, phố Nguyễn Thái Học|trụ sở HĐND=Số 12-14, phố Phan Đình Phùng<ref name = "trusomoi">{{Cite web | date = 25 tháng 6 năm 2025 | title = Thông báo về địa điểm trụ sở làm việc của 126 phường, xã sau sắp xếp thuộc phạm vi quản lý của thành phố Hà Nội | url = https://dcdn.dantri.com.vn/2025/06/25/tru-so-126-xa-phuong-cua-ha-noi-1750822481952.pdf | website = UBND TP Hà Nội}}</ref>|trụ sở TTPVHCC='''Trụ sở chính''': Số 2, phố Trúc Bạch
+*'''Điểm PVHCC 1''': Số 12-14, phố Phan Đình Phùng
+*'''Điểm PVHCC 2''': Số 2, phố Trúc Bạch|nhiều hình={{multiple image
+| border = infobox
+| total_width = 300
+| image_style = border:1;
+| perrow = 2/2/2
+| image1 = Lăng Bác - NKS.jpg
+| caption1 = [[Lăng Chủ tịch Hồ Chí Minh]]
+| image2 = Đoan Môn, Hoàng thành Thăng Long, Hà Nội 003.JPG
+| caption2 = [[Hoàng thành Thăng Long]]
+| image3 = One Pillar Pagoda Hanoi.jpg
+| caption3 = [[Chùa Một Cột]]
+| image4 = Flag tower, Hanoi.jpg
+| caption4 = [[Cột cờ Hà Nội]]
+| image5 = 4G4A7753 HDR.jpg
+| caption5 = [[Nhà thờ Cửa Bắc]]
+| image6 = Hanoi - Quan-Thanh-Tempel 0001.JPG
+| caption6 = [[Đền Quán Thánh]]
+}}}}
+{{other|Ba Đình (định hướng)}}
+'''Ba Đình''' là một [[Phường (Việt Nam)|phường]] thuộc thành phố [[Hà Nội]], [[Việt Nam]]. Đây là nơi đặt trụ trụ sở của [[Đảng Cộng sản Việt Nam]], [[Chủ tịch nước Cộng hòa xã hội chủ nghĩa Việt Nam|Chủ tịch nước]], [[Quốc hội Việt Nam|Quốc hội]] và [[Chính phủ Việt Nam|Chính phủ]] nước [[Việt Nam|Cộng hòa xã hội chủ nghĩa Việt Nam]].
+
+== Địa lý== 
+Phường Ba Đình có vị trí địa lý:
+
+* Phía đông giáp phường [[Hoàn Kiếm (phường)|Hoàn Kiếm]] (ranh giới đi theo đường Hàng Đậu – ranh giới cũ của các phường – phố Cửa Đông – phố Lý Nam Đế – phố Tôn Thất Thiệp – đường Điện Biên Phủ)
+* Phía tây giáp phường [[Ngọc Hà]] (ranh giới đi theo phố Giang Văn Minh – phố Đội Cấn – ngõ 135 phố Đội Cấn – ngõ 158 phố Ngọc Hà – ngõ 55 đường Hoàng Hoa Thám)
+* Phía nam giáp phường [[Giảng Võ]], phường [[Ô Chợ Dừa (phường)|Ô Chợ Dừa]], phường [[Văn Miếu – Quốc Tử Giám (phường)|Văn Miếu – Quốc Tử Giám]] và phường [[Cửa Nam (phường)|Cửa Nam]] (ranh giới đi theo đường Điện Biên Phủ – đường sắt – đường Lê Duẩn – phố Nguyễn Thái Học – phố Kim Mã)
+* Phía bắc giáp phường [[Tây Hồ (phường)|Tây Hồ]] và phường [[Hồng Hà (phường)|Hồng Hà]] (ranh giới đi theo đường Hoàng Hoa Thám – phố Mai Xuân Thưởng – đường Thụy Khuê – đường Thanh Niên – đường Yên Phụ).<ref>{{Chú thích web |last=Báo Điện tử Chính phủ|date=2025-04-28|title=Chi tiết dự thảo phương án sắp xếp các phường của Hà Nội|url=https://xaydungchinhsach.chinhphu.vn/chi-tiet-du-thao-phuong-an-sap-xep-cac-phuong-cua-ha-noi-119250421100531902.htm|url-status=live|archive-url=https://web.archive.org/web/20260711401509/https://xaydungchinhsach.chinhphu.vn/chi-tiet-du-thao-phuong-an-sap-xep-cac-phuong-cua-ha-noi-119250421100531902.htm|archive-date=2026-07-11|access-date=2026-07-11|website=Xây dựng chính sách, pháp luật}}</ref><ref>{{Chú thích web |last=Viện nghiên cứu Phát triển kinh tế - xã hội Hà Nội|date=2025-07-02|title=Phường Ba Đình: Những thông tin chi tiết sau sắp xếp|url=https://hanoionline.vn/phuong-ba-dinh-nhung-thong-tin-chi-tiet-sau-sap-xep-344012.htm|url-status=live|archive-url=https://web.archive.org/web/20260711400809/https://hanoionline.vn/phuong-ba-dinh-nhung-thong-tin-chi-tiet-sau-sap-xep-344012.htm|archive-date=2026-07-11|access-date=2026-07-11|website=Cơ quan Báo và Phát thanh Truyền hình Hà Nội}}</ref><ref>{{Chú thích web |last=Cơ quan Báo và Phát thanh Truyền hình Hà Nội |date=2025-07-04 |title=Phường Ba Đình: Tất cả thông tin chỉ dẫn bạn cần biết |url=https://hanoionline.vn/phuong-ba-dinh-tat-ca-thong-tin-chi-dan-ban-can-biet-344574.htm |url-status=live |archive-url=https://web.archive.org/web/20260711401509/https://hanoionline.vn/phuong-ba-dinh-tat-ca-thong-tin-chi-dan-ban-can-biet-344574.htm |archive-date=2026-07-11 |access-date=2026-07-11}}</ref>
+
+Phường Ba Đình có diện tích tự nhiên là 2,97&nbsp;km<sup>2</sup>, quy mô dân số năm 2025 là 65.023 người và mật độ dân số đạt 21.893 người/km<sup>2</sup>.<ref>{{Chú thích web |last=Mai Hữu|date=2026-04-05|title=Hà Nội: Chi tiết phương án tổng thể sắp xếp đơn vị hành chính cấp xã|url=https://hanoimoi.vn/ha-noi-chi-tiet-phuong-an-tong-the-sap-xep-don-vi-hanh-chinh-cap-xa-700278.html|url-status=live|archive-url=https://web.archive.org/web/20260711401509/https://hanoimoi.vn/ha-noi-chi-tiet-phuong-an-tong-the-sap-xep-don-vi-hanh-chinh-cap-xa-700278.html|archive-date=2026-07-11|access-date=2026-07-11|website=Cơ quan Báo và Phát thanh, truyền hình Hà Nội}}</ref><ref>Công văn số 2896/BNV-CQĐP ngày 27 tháng 5 năm 2025 của Bộ Nội vụ về việc cung cấp thông tin danh mục dự kiến đơn vị hành chính cấp xã mới.</ref>
+
+== Lịch sử==
+
+=== Trước năm 1976 ===
+
+=== Giai đoạn 1976 – nay ===
+Sau ngày 2 tháng 7 năm 1976, 8 tiểu khu: Điện Biên, Đội Cấn, Kim Mã, Ngọc Hà, Nguyễn Trung Trực, Quán Thánh, Thụy Khuê và Trúc Bạch thuộc khu phố [[Ba Đình (quận)|Ba Đình]]; 3 tiểu khu: Cửa Đông, Cửa Nam và Đồng Xuân thuộc khu phố [[Hoàn Kiếm (quận)|Hoàn Kiếm]] của thành phố [[Hà Nội]].
+
+Ngày 3 tháng 1 năm 1981, từ nay ở nội thành, đơn vị hành chính cấp dưới trực tiếp của [[Thành phố trực thuộc trung ương (Việt Nam)|thành phố trực thuộc trung ương]] đều thống nhất gọi là [[Quận (Việt Nam)|quận]]; các đơn vị hành chính cơ sở ở nội thành, nội thị của các [[Thành phố thuộc tỉnh (Việt Nam)|thành phố thuộc tỉnh]], [[Thị xã (Việt Nam)|thị xã]] và [[Quận (Việt Nam)|quận]] gọi là [[Phường (Việt Nam)|phường]]. Khi đó, 8 phường: Điện Biên, Đội Cấn, Kim Mã, Ngọc Hà, Nguyễn Trung Trực, Quán Thánh, Thụy Khuê và Trúc Bạch thuộc quận [[Ba Đình (quận)|Ba Đình]]; 3 phường: Cửa Đông, Cửa Nam và Đồng Xuân thuộc quận [[Hoàn Kiếm (quận)|Hoàn Kiếm]].<ref>Quyết định số 3-CP ngày 3 tháng 1 năm 1981 của Hội đồng Chính phủ về việc thống nhất tên gọi các đơn vị hành chính ở nội thành nội thị.</ref>
+
+Ngày 28 tháng 10 năm 1995, tách phường Thụy Khuê của quận [[Ba Đình (quận)|Ba Đình]] về quận [[Tây Hồ (quận)|Tây Hồ]] mới thành lập.<ref>{{Chú thích web |title=Nghị định số 69-CP ngày 28 tháng 10 năm 1995 của Chính phủ về việc thành lập quận Tây Hồ thuộc thành phố Hà Nội |url=https://chinhphu.vn/default.aspx?pageid=27160&docid=3072 |url-status=dead |archive-url=https://web.archive.org/web/20260818201510/https://chinhphu.vn/default.aspx?pageid=27160&docid=3072 |archive-date=2026-08-18 |access-date=2026-08-18 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+
+Ngày 14 tháng 11 năm 2024, nhập phường Nguyễn Trung Trực (quận [[Ba Đình (quận)|Ba Đình]]) vào phường Trúc Bạch.<ref>{{Chú thích web |title=Nghị quyết số 1286/NQ-UBTVQH15 ngày 14 tháng 11 năm 2024 của Ủy ban Thường vụ Quốc hội về việc sắp xếp đơn vị hành chính cấp xã của thành phố Hà Nội giai đoạn 2023 – 2025 |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/11/1286-qh.signed.pdf |url-status=live |archive-url=https://web.archive.org/web/20260704400809/https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/11/1286-qh.signed.pdf |archive-date=2026-07-04 |access-date=2026-07-04 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+
+Ngày 16 tháng 6 năm 2025:
+
+* Kết thúc hoạt động của đơn vị hành chính cấp huyện trong cả nước.<ref>{{Chú thích web |last= |date= |title=Nghị quyết số 203/2025/QH15 ngày 16 tháng 6 năm 2025 của Quốc hội khóa XV, Kỳ họp thứ 9 về việc sửa đổi, bổ sung một số điều của Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/nq-sua-doi-hien-phap.pdf |url-status=live |archive-url=https://web.archive.org/web/20260613090807/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/nq-sua-doi-hien-phap.pdf |archive-date=2026-06-13 |access-date=2026-06-13 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+* Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của phường Quán Thánh, phường Trúc Bạch (quận [[Ba Đình (quận)|Ba Đình]]), một phần diện tích tự nhiên, quy mô dân số của các phường Cửa Nam (quận [[Hoàn Kiếm (quận)|Hoàn Kiếm]]), Điện Biên, Đội Cấn, Kim Mã, Ngọc Hà (quận [[Ba Đình (quận)|Ba Đình]]), một phần diện tích tự nhiên của phường Thụy Khuê (quận [[Tây Hồ (quận)|Tây Hồ]]), phần còn lại của phường Cửa Đông và phường Đồng Xuân (quận [[Hoàn Kiếm (quận)|Hoàn Kiếm]]) thành phường mới có tên gọi là phường Ba Đình.<ref>{{Chú thích web |title=Nghị quyết số 1656/NQ-UBTVQH15 ngày 16 tháng 6 năm 2025 của Ủy ban Thường vụ Quốc hội về việc sắp xếp các đơn vị hành chính cấp xã của thành phố Hà Nội năm 2025 |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf |url-status=live |archive-url=https://web.archive.org/web/20260630400809/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf |archive-date=2026-06-30 |access-date=2026-06-30 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+Ngày 17 tháng 7 năm 2025, đổi tên các tổ dân phố trên địa bàn phường Ba Đình. Sau khi sắp xếp, phường Ba Đình được chia thành 47 tổ dân phố.<ref>47 tổ dân phố, đánh số từ 1 đến 47.</ref><ref>{{Chú thích web |title=Thông tư số 10/2022/TT-BTNMT ngày 29 tháng 9 năm 2022 của Bộ Tài nguyên và Môi trường về việc Ban hành Danh mục địa danh dân cư, sơn văn, thủy văn, kinh tế – xã hội phục vụ công tác thành lập bản đồ thành phố Hà Nội|url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2022/10/10-btnmt.pdf|url-status=live|archive-url=https://web.archive.org/web/20260630400809/https://datafiles.chinhphu.vn/cpp/files/vbpq/2022/10/10-btnmt.pdf|archive-date=2026-06-30|access-date=2026-06-30|website=Cổng Thông tin điện tử Chính phủ}}</ref><ref>{{Chú thích web |last=Trang Thông tin điện tử phường Ba Đình – thành phố Hà Nội |date=2025-07-18 |title=Hội đồng nhân dân phường Ba Đình tổ chức thành công kỳ họp thứ hai, khóa I, nhiệm kỳ 2021 – 2026 |url=https://badinh.hanoi.gov.vn/tin-tuc-hoat-dong-hdnd/hoi-dong-nhan-dan-phuong-ba-dinh-to-chuc-thanh-cong-ky-hop-thu-hai-khoa-i-nhiem-ky-2021-2026-2800250719115752514.htm |url-status=dead |archive-url=https://web.archive.org/web/20260815201510/https://badinh.hanoi.gov.vn/tin-tuc-hoat-dong-hdnd/hoi-dong-nhan-dan-phuong-ba-dinh-to-chuc-thanh-cong-ky-hop-thu-hai-khoa-i-nhiem-ky-2021-2026-2800250719115752514.htm |archive-date=2026-08-15 |access-date=2026-08-15}}</ref><ref>{{Chú thích web |last= |date= |title=Quyết định số 18/QĐ-UBBC ngày 25 tháng 2 năm 2026 của Ủy ban bầu cử phường Ba Đình về việc công bố danh sách chính thức những người ứng cử đại biểu Hội đồng nhân dân phường Ba Đình khóa II, nhiệm kỳ 2026 – 2031 |url=https://sqhx-hanoi.mediacdn.vn/91579363132710912/2026/2/26/18-qd-cong-bo-danh-sach-chinh-thuc-nguoi-ung-cu-hdnd0001-17721019753501624386369.pdf |url-status=dead |archive-url=https://web.archive.org/web/20260815400809/https://sqhx-hanoi.mediacdn.vn/91579363132710912/2026/2/26/18-qd-cong-bo-danh-sach-chinh-thuc-nguoi-ung-cu-hdnd0001-17721019753501624386369.pdf |archive-date=2026-08-15 |access-date=2026-08-15 |website=Trang Thông tin điện tử phường Ba Đình – thành phố Hà Nội}}</ref>
+
+Ngày 24 tháng 12 năm 2025, xác định phường Ba Đình là [[Đô thị Việt Nam|đô thị loại II]].<ref>Chuyển tiếp từ 6 phường: Điện Biên, Đội Cấn, Kim Mã, Ngọc Hà, Quán Thánh, Trúc Bạch thuộc quận Ba Đình, 3 phường: Cửa Đông, Cửa Nam, Đồng Xuân thuộc quận Hoàn Kiếm, phường Thụy Khuê thuộc quận Tây Hồ.</ref><ref>{{Chú thích web |title=Nghị quyết số 111/2025/UBTVQH15 ngày 24 tháng 12 năm 2025 của Ủy ban Thường vụ Quốc hội về phân loại đô thị|url=https://cdn.nhandan.vn/files/f4a4abf7f9a0ba4a91744616546d850872b76917f90d5a74cc9eebef1369fb6f/111.pdf|url-status=dead|archive-url=https://web.archive.org/web/20260430074852/https://cdn.nhandan.vn/files/f4a4abf7f9a0ba4a91744616546d850872b76917f90d5a74cc9eebef1369fb6f/111.pdf|archive-date=2026-04-30|access-date=2026-07-12|website=Báo Nhân dân}}</ref>
+
+Ngày 25 tháng 6 năm 2026, thành lập 18 tổ dân phố mới, đánh số từ 1 đến 18.<ref>1. Sáp nhập tổ dân phố 5 và tổ dân phố 6, đổi tên thành tổ dân phố số 1; 2. Sáp nhập tổ dân phố 3, tổ dân phố 4 và một phần của tổ dân phố 8, đổi tên thành tổ dân phố số 2; 3. Sáp nhập tổ dân phố 1, tổ dân phố 7 và phần còn lại của tổ dân phố 8, đổi tên thành tổ dân phố số 3; 4. Sáp nhập tổ dân phố 21, tổ dân phố 22, tổ dân phố 23 và tổ dân phố 24, đổi tên thành tổ dân phố số 4; 5. Sáp nhập tổ dân phố 17, tổ dân phố 19 và tổ dân phố 20, đổi tên thành tổ dân phố số 5; 6. Sáp nhập tổ dân phố 2, tổ dân phố 15 và tổ dân phố 18, đổi tên thành tổ dân phố số 6; 7. Sáp nhập tổ dân phố 14 và tổ dân phố 16, đổi tên thành tổ dân phố số 7; 8. Sáp nhập tổ dân phố 11 và tổ dân phố 13, đổi tên thành tổ dân phố số 8; 9. Sáp nhập tổ dân phố 9, tổ dân phố 10 và tổ dân phố 12, đổi tên thành tổ dân phố số 9; 10. Sáp nhập tổ dân phố 25 và tổ dân phố 32, đổi tên thành tổ dân phố số 10; 11. Sáp nhập tổ dân phố 26, tổ dân phố 27 và tổ dân phố 28, đổi tên thành tổ dân phố số 11; 12. Sáp nhập tổ dân phố 29, tổ dân phố 30 và tổ dân phố 47, đổi tên thành tổ dân phố số 12; 13. Sáp nhập tổ dân phố 31 và tổ dân phố 33, đổi tên thành tổ dân phố số 13; 14. Sáp nhập tổ dân phố 36 và tổ dân phố 37, đổi tên thành tổ dân phố số 14; 15. Sáp nhập tổ dân phố 38, tổ dân phố 45 và tổ dân phố 46, đổi tên thành tổ dân phố số 15; 16. Sáp nhập tổ dân phố 34 và tổ dân phố 35, đổi tên thành tổ dân phố số 16; 17. Sáp nhập tổ dân phố 41, tổ dân phố 42 và tổ dân phố 43, đổi tên thành tổ dân phố số 17; 18. Sáp nhập tổ dân phố 39, tổ dân phố 40 và tổ dân phố 44, đổi tên thành tổ dân phố số 18.</ref><ref name=":02">{{Chú thích web |last= |date= |title=Đề án năm 2026 của Ủy ban nhân dân phường Ba Đình về việc sắp xếp tổ dân phố trên địa bàn phường Ba Đình, thành phố Hà Nội |url=https://sqhx-hanoi.mediacdn.vn/91579363132710912/2026/6/15/de-an-sap-xep-thon-tdp--chot-du-thao-15-6-2026-17815232353731012697334.pdf |url-status=dead |archive-url=https://web.archive.org/web/20260815400809/https://sqhx-hanoi.mediacdn.vn/91579363132710912/2026/6/15/de-an-sap-xep-thon-tdp--chot-du-thao-15-6-2026-17815232353731012697334.pdf |archive-date=2026-08-15 |access-date=2026-08-15 |website=Trang Thông tin điện tử phường Ba Đình – thành phố Hà Nội}}</ref><ref name=":12">{{Chú thích web |last=Trang Thông tin điện tử phường Ba Đình – thành phố Hà Nội |date=2026-06-26 |title=Phường Ba Đình đặt mục tiêu tăng trưởng 11% trong giai đoạn 2026 – 2030 |url=https://badinh.hanoi.gov.vn/tin-tuc-su-kien-noi-bat/phuong-ba-dinh-dat-muc-tieu-tang-truong-11-trong-giai-doan-2026-2030-2800260626105925201.htm |url-status=dead |archive-url=https://web.archive.org/web/20260815400809/https://badinh.hanoi.gov.vn/tin-tuc-su-kien-noi-bat/phuong-ba-dinh-dat-muc-tieu-tang-truong-11-trong-giai-doan-2026-2030-2800260626105925201.htm |archive-date=2026-08-15 |access-date=2026-08-15 |website=}}</ref>
+
+== Hành chính==
+Phường Ba Đình được chia thành 18 tổ dân phố, đánh số từ 1 đến 18.<ref name=":02" /><ref name=":12" />
+{| class="wikitable sortable" cellpadding="0" cellspacing="6" width="100%" align="center" style="background: #f9f9f9; border: 1px #aaa solid; margin-top: 16px"
+! colspan="4" style="background: #E6E6FA; font-size: 95%;" |Danh sách các tổ dân phố thuộc phường Ba Đình<ref name=":02" /><ref name=":12" />
+|-
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| cellpadding="1" cellspacing="1" width="100%" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Tổ dân phố 1
+|674
+|-
+| align="left" |Tổ dân phố 2
+|809
+|-
+| align="left" |Tổ dân phố 3
+|881
+|-
+| align="left" |Tổ dân phố 4
+|892
+|-
+| align="left" |Tổ dân phố 5
+|819
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| cellpadding="1" cellspacing="1" width="100%" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Tổ dân phố 6
+|956
+|-
+| align="left" |Tổ dân phố 7
+|847
+|-
+| align="left" |Tổ dân phố 8
+|924
+|-
+| align="left" |Tổ dân phố 9
+|901
+|-
+| align="left" |Tổ dân phố 10
+|705
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| cellpadding="1" cellspacing="1" width="100%" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Tổ dân phố 11
+|710
+|-
+| align="left" |Tổ dân phố 12
+|786
+|-
+| align="left" |Tổ dân phố 13
+|797
+|-
+| align="left" |Tổ dân phố 14
+|775
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| cellpadding="1" cellspacing="1" width="100%" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Tổ dân phố 15
+|782
+|-
+| align="left" |Tổ dân phố 16
+|1.007
+|-
+| align="left" |Tổ dân phố 17
+|954
+|-
+| align="left" |Tổ dân phố 18
+|931
+|}
+|}
+
+== Địa chỉ trụ sở các cơ quan==
+* '''Trụ sở Đảng ủy - HĐND phường''': Số 12-14, phố Phan Đình Phùng.<ref name = "trusomoi">{{Cite web | date = 25 tháng 6 năm 2025 | title = Thông báo về địa điểm trụ sở làm việc của 126 phường, xã sau sắp xếp thuộc phạm vi quản lý của thành phố Hà Nội | url = https://dcdn.dantri.com.vn/2025/06/25/tru-so-126-xa-phuong-cua-ha-noi-1750822481952.pdf | website = UBND TP Hà Nội}}</ref><ref name = ":0">Địa chỉ cũ: Số 12-14, phố Phan Đình Phùng, phường Quán Thánh, quận Ba Đình</ref>
+* '''Trụ sở UBND phường''': Số 2, phố Trúc Bạch.<ref name = ":1">Địa chỉ cũ: Số 2, phố Trúc Bạch, phường Trúc Bạch, quận Ba Đình</ref>
+* '''Trụ sở Ủy ban MTTQ Việt Nam phường''': Số 68, phố Nguyễn Thái Học.<ref name = ":2">Địa chỉ cũ: Số 68, phố Nguyễn Thái Học, phường Điện Biên, quận Ba Đình</ref>
+* '''Trung tâm phục vụ hành chính công''':<ref>{{Chú thích báo | last = Trung tâm Phục vụ hành chính công thành phố Hà Nội | title = Hà Nội công khai địa điểm tiếp nhận thủ tục hành chính thuộc UBND 126 xã/phường và 30 điểm tiếp nhận của 12 Chi nhánh thuộc Trung tâm Phục vụ hành chính công Thành phố, thông tin đường dây nóng hỗ trợ người dân, doanh nghiệp | url = https://ttpvhcc.hanoi.gov.vn/hoat-dong-cua-trung-tam/ha-noi-cong-khai-dia-diem-tiep-nhan-thu-tuc-hanh-chinh-thuoc-ubnd-126-xa-phuong-va-30-diem-tiep-nhan-cua-12-chi-nhanh-thuoc-trung-tam-phuc-vu-hanh-chinh-cong-thanh-pho-thong-tin-duong-day-nong-ho-tro-nguoi-dan-doanh-nghiep-2850250704103711121.htm}}</ref>
+** '''Trụ sở chính''' ''(Tiếp nhận hồ sơ tất cả các lĩnh vực thuộc thẩm quyền giải quyết của UBND phường)'': Số 2, phố Trúc Bạch.<ref name = ":1" />
+** '''Điểm Phục vụ hành chính công 01''' ''(Tiếp nhận và giải quyết hồ sơ TTHC về chứng thực và Hộ tịch)'': Số 12-14, phố Phan Đình Phùng.<ref name = ":0" />
+** '''Điểm Phục vụ hành chính công 02''' ''(Tiếp nhận và giải quyết hồ sơ TTHC về chứng thực và Hộ tịch)'': Số 68, phố Nguyễn Thái Học.<ref name = ":2" />
+* '''Công an phường''':<ref>{{Chú thích báo | last = Báo Đại biểu Nhân dân | first = | title = Danh sách 126 trụ sở Công an cấp xã thuộc Công an TP. Hà Nội để người dân tới làm căn cước, đăng ký xe | url = https://daibieunhandan.vn/danh-sach-126-tru-so-cong-an-cap-xa-thuoc-cong-an-tp-ha-noi-de-nguoi-dan-toi-lam-can-cuoc-dang-ky-xe-10378397.html}}</ref>
+** '''Trụ sở Công an phường''': Số 48, phố Cửa Bắc.<ref name = ":3">Địa chỉ cũ: Số 48, phố Cửa Bắc, phường Trúc Bạch, quận Ba Đình</ref>
+** '''Trụ sở Công an phường''': Số 61, phố Quán Thánh.<ref>Địa chỉ cũ: Số 61, phố Quán Thánh, phường Quán Thánh, quận Ba Đình (Trước là Trụ sở Công an phường Quán Thánh cũ)</ref>
+** '''Trụ sở Công an phường''': Số 72, phố Ngọc Hà.<ref>Địa chỉ cũ: Số 72, phố Ngọc Hà, phường Đội Cấn, quận Ba Đình (Trước là Trụ sở Công an phường Đội Cấn cũ)</ref>
+** '''Trụ sở''' '''cấp đổi, cấp lại GPLX''': Số 8, phố Lê Trực.<ref>Địa chỉ cũ: Số 8, phố Lê Trực, phường Điện Biên, quận Ba Đình (Trước là Trụ sở Đảng ủy - HĐND - UBND phường Điện Biên cũ)</ref>
+** '''Trụ sở''' '''tiếp công dân''': Số 48, phố Cửa Bắc.<ref name = ":3" />
+** '''Trụ sở''' '''cấp CCCD''': Số 116, phố Quán Thánh.<ref>Địa chỉ cũ: Số 116, phố Quán Thánh, phường Trúc Bạch, quận Ba Đình</ref>
+
+== Kinh tế== 
+Phường trước đây có làng nghề đúc đồng [[Ngũ Xã]], nay do bị đô thị hóa dần trở thành khu phố ẩm thực với món [[phở cuốn]] nổi tiếng.
+
+==Danh nhân==
+* [[Nguyễn Sơn (thẩm phán)|'''Nguyễn Sơn''']] (sinh năm 1957), thẩm phán và chính trị gia người Việt Nam, Phó Chánh án Tòa án nhân dân tối cao Việt Nam, đại biểu Quốc hội Việt Nam khóa 13 (2011 – 2016) thành phố Hà Nội.
+
+==Địa điểm nổi tiếng==
+[[File:Ho Chi Minh Museum - Hanoi, Vietnam - DSC03496.JPG|thumb|[[Bảo tàng Hồ Chí Minh]]]]
+[[File:Vietnam National Assembly Building.jpg|thumb|[[Tòa nhà Quốc hội Việt Nam]]]]
+[[File:Ho Chi Minh's Stilt House, Hanoi (2) (24622695398).jpg|thumb|[[Khu di tích Phủ Chủ tịch]]]]
+[[File:Vietnam National Museum of Fine Arts 01.JPG|thumb|[[Bảo tàng Mỹ thuật Việt Nam]]]]
+[[File:Lenin Park Hanoi.JPG|thumb|[[Công viên Lê-nin]]]]
+[[File:Presidential Palace, Hanoi 1.jpg|thumb|[[Phủ Chủ tịch]]]]
+[[File:Truc Bach Lake.jpg|thumb|[[Hồ Trúc Bạch]]]]
+[[File:Government Office (Vietnam).JPG|thumb|[[Văn phòng Chính phủ (Việt Nam)|Văn phòng Chính phủ]]]]
+[[File:CPV Central Committee Office (9753420401).jpg|thumb|[[Văn phòng Trung ương Đảng Cộng sản Việt Nam]]]]
+[[File:Bộ Quốc phòng (Việt Nam).jpg|thumb|Trụ sở [[Bộ Quốc phòng (Việt Nam)|Bộ Quốc phòng]]]]
+[[File:ThầnQuangTự2245.jpg|thumb|[[Chùa Ngũ Xã]]]]
+
+== Chú thích== 
+{{tham khảo}}
+
+== Tham khảo== 
+{{sơ khai Hà Nội}}
+{{Đơn vị hành chính thuộc thành phố Hà Nội}}

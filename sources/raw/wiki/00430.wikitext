@@ -1,0 +1,208 @@
+{{Thông tin đơn vị hành chính Việt Nam|Xã
+| tên = Đa Phúc
+| hình = 
+| ghi chú hình = 
+| vĩ độ = 21.22967211547866
+| kinh độ = 105.88182912416917
+| diện tích = 55,32 km²
+| dân số = 83.649 người
+| thời điểm dân số = 2025
+| mật độ dân số = {{formatnum:{{#expr:floor({{formatnum:83.649| R}}/{{formatnum:55,32| R}})}} }} người/km²
+| vùng = [[Đồng bằng sông Hồng]]
+| thành phố = [[Hà Nội]]
+| thành lập = 
+| trụ sở UBND =Thôn Đức Hậu<ref>{{Chú thích web |url=https://storage-vnportal.vnpt.vn/gov-hni/6244/VanBan/2025/6/25/TB-729-2025.pdf |title=Thông báo số 729/TB-UBND ngày 25 tháng 6 năm 2025 của Ủy ban nhân dân thành phố Hà Nội về địa điểm trụ sở làm việc của 126 phường, xã sau sắp xếp thuộc phạm vi quản lý của thành phố Hà Nội|access-date=2026-06-15 |archive-date=2026-06-15 |archive-url=https://web.archive.org/web/20260615034519/https://storage-vnportal.vnpt.vn/gov-hni/6244/VanBan/2025/6/25/TB-729-2025.pdf |url-status=dead | website = Cổng Thông tin điện tử Ủy ban nhân dân thành phố Hà Nội}}</ref> 
+| mã hành chính =00430<ref>{{Chú thích web |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/19ttg.signed.pdf |title=Quyết định số 19/2025/QĐ-TTg ngày 30 tháng 6 năm 2025 của Thủ tướng Chính phủ về việc Ban hành Bảng danh mục và mã số các đơn vị hành chính Việt Nam |access-date=2026-06-15 |archive-date=2026-06-15 |archive-url=https://web.archive.org/web/20260615034519/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/19ttg.signed.pdf |url-status=dead | website = Cổng Thông tin điện tử Chính phủ}}</ref> 
+| web = {{url|daphuc.hanoi.gov.vn}}
+|bản đồ 1={{maplink|frame=yes|plain=yes|type=shape|frame-width=280|frame-align=center|stroke-width=3}}|trụ sở Đảng ủy=Thôn Xuân Ngọc}}
+{{other|Đa Phúc (định hướng)}}
+'''Đa Phúc''' là một [[Xã (Việt Nam)|xã]] thuộc thành phố [[Hà Nội]], [[Việt Nam]].
+
+== Địa lý== 
+Xã Đa Phúc có vị trí địa lý:
+
+* Phía đông giáp xã [[Xuân Cẩm]] và xã [[Tam Giang, Bắc Ninh|Tam Giang]] thuộc tỉnh [[Bắc Ninh]]
+* Phía tây giáp xã [[Sóc Sơn (xã)|Sóc Sơn]]
+* Phía nam giáp xã [[Thư Lâm]]
+* Phía bắc giáp xã [[Trung Giã]] và xã [[Hợp Thịnh]] thuộc tỉnh [[Bắc Ninh]].<ref>{{Chú thích web |last=Viện nghiên cứu Phát triển kinh tế – xã hội Hà Nội |date=2025-07-02 |title=Xã Đa Phúc: Những thông tin chi tiết sau sắp xếp |url=https://hanoionline.vn/xa-da-phuc-nhung-thong-tin-chi-tiet-sau-sap-xep-344085.htm |url-status=live |archive-url=https://web.archive.org/web/20260701400809/https://hanoionline.vn/xa-da-phuc-nhung-thong-tin-chi-tiet-sau-sap-xep-344085.htm |archive-date=2026-07-01 |access-date=2026-07-01 |website=Cơ quan Báo và Phát thanh Truyền hình Hà Nội}}</ref><ref>{{Chú thích web |last=Cơ quan Báo và Phát thanh Truyền hình Hà Nội|date=2025-07-08|title=Xã Đa Phúc: Tất cả thông tin chỉ dẫn bạn cần biết|url=https://hanoionline.vn/xa-da-phuc-tat-ca-thong-tin-chi-dan-ban-can-biet-345608.htm|url-status=live|archive-url=https://web.archive.org/web/20260711401509/https://hanoionline.vn/xa-da-phuc-tat-ca-thong-tin-chi-dan-ban-can-biet-345608.htm|archive-date=2026-07-11|access-date=2026-07-11}}</ref>
+Xã Đa Phúc có diện tích tự nhiên là 55,32 km<sup>2</sup>, quy mô dân số năm 2025 là 83.649 người và mật độ dân số đạt 1.512 người/km<sup>2</sup>.<ref>{{Chú thích web |last=Mai Hữu|date=2026-04-05|title=Hà Nội: Chi tiết phương án tổng thể sắp xếp đơn vị hành chính cấp xã|url=https://hanoimoi.vn/ha-noi-chi-tiet-phuong-an-tong-the-sap-xep-don-vi-hanh-chinh-cap-xa-700278.html|url-status=live|archive-url=https://web.archive.org/web/20260711401509/https://hanoimoi.vn/ha-noi-chi-tiet-phuong-an-tong-the-sap-xep-don-vi-hanh-chinh-cap-xa-700278.html|archive-date=2026-07-11|access-date=2026-07-11|website=Cơ quan Báo và Phát thanh, truyền hình Hà Nội}}</ref><ref>Công văn số 2896/BNV-CQĐP ngày 27 tháng 5 năm 2025 của Bộ Nội vụ về việc cung cấp thông tin danh mục dự kiến đơn vị hành chính cấp xã mới.</ref>
+
+== Lịch sử==
+
+=== Tên gọi ===
+Tên gọi Đa Phúc bắt nguồn từ việc nơi đây từng là trung tâm lỵ sở của một huyện cũ. Lịch sử địa danh này gắn liền với các mốc chính: Tên huyện cũ: "Đa Phúc" vốn là tên của một huyện thuộc tỉnh Phúc Yên (từ năm 1945), sau đó thuộc tỉnh Vĩnh Phúc. Từ năm 1977, huyện Đa Phúc được sáp nhập cùng huyện Kim Anh để trở thành huyện Sóc Sơn và chuyển về thủ đô năm 1978. Sau khi huyện Đa Phúc giải thể, tên gọi này được giữ lại để đặt cho xã Đa Phúc thuộc huyện Sóc Sơn như một cách lưu giữ dấu ấn lịch sử của vùng đất.
+
+=== Trước năm 1976 ===
+=== Giai đoạn 1976 – nay ===
+Sau ngày 2 tháng 7 năm 1976, 7 xã: Bắc Phú, Kim Lũ, Tân Hưng, Việt Long, Xuân Giang và Xuân Thu thuộc huyện [[Đa Phúc (huyện)|Đa Phúc]] của tỉnh [[Vĩnh Phú (xã)|Vĩnh Phú]].
+
+Ngày 5 tháng 7 năm 1977, hợp nhất huyện [[Đa Phúc (huyện)|Đa Phúc]], huyện [[Kim Anh (huyện)|Kim Anh]], thị trấn (thuộc tỉnh) [[Xuân Hòa, Phú Thọ|Xuân Hòa]] thành một huyện lấy tên là huyện [[Sóc Sơn (huyện)|Sóc Sơn]]. Khi đó, 7 xã: Bắc Phú, Kim Lũ, Tân Hưng, Việt Long, Xuân Giang và Xuân Thu thuộc huyện [[Sóc Sơn (huyện)|Sóc Sơn]].<ref>Quyết định số 178-CP ngày 5 tháng 7 năm 1977 của Hội đồng Chính phủ về việc hợp nhất và điều chỉnh địa giới một số huyện thuộc tỉnh Vĩnh Phú.</ref>
+
+Ngày 29 tháng 12 năm 1978, sáp nhập huyện [[Sóc Sơn (huyện)|Sóc Sơn]] của tỉnh [[Vĩnh Phú (tỉnh)|Vĩnh Phú]] vào thành phố [[Hà Nội]]. Khi đó, 7 xã: Bắc Phú, Kim Lũ, Tân Hưng, Việt Long, Xuân Giang và Xuân Thu thuộc huyện [[Sóc Sơn (huyện)|Sóc Sơn]] của thành phố [[Hà Nội]].<ref>Nghị quyết ngày 29 tháng 12 năm 1978 của Quốc hội khóa VI, Kỳ họp thứ 4 phê chuẩn việc phân vạch lại địa giới thành phố Hà Nội, thành phố Hồ Chí Minh, các tỉnh Hà Sơn Bình, Vĩnh Phú, Cao Lạng, Bắc Thái, Quảng Ninh và Đồng Nai.</ref>
+
+Ngày 16 tháng 6 năm 2025:
+
+* Kết thúc hoạt động của đơn vị hành chính cấp huyện trong cả nước.<ref>{{Chú thích web |last= |date= |title=Nghị quyết số 203/2025/QH15 ngày 16 tháng 6 năm 2025 của Quốc hội khóa XV, Kỳ họp thứ 9 về việc sửa đổi, bổ sung một số điều của Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/nq-sua-doi-hien-phap.pdf |url-status=live |archive-url=https://web.archive.org/web/20260613090807/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/nq-sua-doi-hien-phap.pdf |archive-date=2026-06-13 |access-date=2026-06-13 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+* Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của các xã Bắc Phú, Đức Hoà, Kim Lũ, Tân Hưng, Việt Long, Xuân Giang và Xuân Thu (huyện [[Sóc Sơn (huyện)|Sóc Sơn]]) thành xã mới có tên gọi là xã Đa Phúc.<ref>{{Chú thích web |title=Nghị quyết số 1656/NQ-UBTVQH15 ngày 16 tháng 6 năm 2025 của Ủy ban Thường vụ Quốc hội về việc sắp xếp các đơn vị hành chính cấp xã của thành phố Hà Nội năm 2025 |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf |url-status=live |archive-url=https://web.archive.org/web/20260630400809/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf |archive-date=2026-06-30 |access-date=2026-06-30 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+* Sau khi sắp xếp, xã Đa Phúc được chia thành 33 thôn.<ref>4 thôn: Bắc Vọng, Phú Tàng, Xuân Tàng và Yên Tàng của xã Bắc Phú cũ; 7 thôn: Bến, Chùa, Đức Hậu, Thanh Huệ Đình, Thanh Huệ Trại, Thượng và Trung của xã Đức Hòa cũ; 4 thôn: Kim Hạ, Kim Thượng, Kim Trung và Xuân Dương của xã Kim Lũ cũ; 5 thôn: Cẩm Hà, Cốc Lương, Đạo Thượng, Hiệu Chân và Ngô Đạo của xã Tân Hưng cũ; 4 thôn: Đông Ngàn, Lương Phúc, Tăng Long và Tiên Tào của xã Việt Long cũ; 6 thôn: Ba Hàng, Đại Tảo, Lai Cách, Ngọc Hà, Xuân Tào và Yên Sào của xã Xuân Giang cũ; 3 thôn: Thu Thủy, Xuân Lai và Yên Phú của xã Xuân Thu cũ.</ref><ref>{{Chú thích web |title=Thông tư số 10/2022/TT-BTNMT ngày 29 tháng 9 năm 2022 của Bộ Tài nguyên và Môi trường về việc Ban hành Danh mục địa danh dân cư, sơn văn, thủy văn, kinh tế – xã hội phục vụ công tác thành lập bản đồ thành phố Hà Nội |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2022/10/10-btnmt.pdf |url-status=live |archive-url=https://web.archive.org/web/20260630400809/https://datafiles.chinhphu.vn/cpp/files/vbpq/2022/10/10-btnmt.pdf |archive-date=2026-06-30 |access-date=2026-06-30 |website=Cổng Thông tin điện tử Chính phủ}}</ref><ref>{{Chú thích web |last=Trang Thông tin điện tử xã Đa Phúc – thành phố Hà Nội |date=2026-02-27 |title=Công bố danh sách chính thức những người ứng cử đại biểu Hội đồng nhân dân xã Đa Phúc nhiệm kỳ 2026 – 2031 |url=https://daphuc.hanoi.gov.vn/tin-tuc-su-kien/cong-bo-danh-sach-chinh-thuc-nhung-nguoi-ung-cu-dai-bieu-hdnd-xa-da-phuc-nhiem-ky-2026-2031-2766260227170257609.htm |url-status=live |archive-url=https://web.archive.org/web/20260701400809/https://daphuc.hanoi.gov.vn/tin-tuc-su-kien/cong-bo-danh-sach-chinh-thuc-nhung-nguoi-ung-cu-dai-bieu-hdnd-xa-da-phuc-nhiem-ky-2026-2031-2766260227170257609.htm |archive-date=2026-07-01 |access-date=2026-07-01}}</ref>
+Ngày 24 tháng 6 năm 2026, thành lập 10 thôn mới: Tân Hưng, Hiệu Cẩm, Bắc Phú, Việt Long, Xuân Ngọc, Xuân Giang, Thượng Thanh, Đức Hòa, Kim Lũ và Xuân Thu.<ref>1. Thôn Ngô Đạo: Giữ nguyên; 2. Thôn Tân Hưng (Cốc Lương + Đạo Thượng); 3. Thôn Hiệu Cẩm (Hiệu Chân + Cẩm Hà); 4. Thôn Bắc Vọng: Giữ nguyên; 5. Thôn Phú Tàng: Giữ nguyên; 6. Thôn Bắc Phú (Xuân Tàng + Yên Tàng); 7. Thôn Việt Long (Đông Ngàn + Tăng Long + Lương Phúc); 8. Thôn Tiên Tào: Giữ nguyên; 9. Thôn Xuân Ngọc (Ngọc Hà + Xuân Tào); 10. Thôn Lai Cách: Giữ nguyên; 11. Thôn Xuân Giang (Đạo Tào, Yên Sào + Ba Hàng); 12. Thôn Đức Hậu: Giữ nguyên; 13. Thôn Thượng Thanh (Thanh Huệ Đình + Thanh Huệ Trại + Thượng); 14. Thôn Đức Hòa (Chùa + Bến + Trung); 15. Thôn Xuân Dương: Giữ nguyên; 16. Thôn Kim Thượng: Giữ nguyên; 17. Thôn Kim Lũ (Kim Trung + Kim Hạ); 18. Thôn Xuân Lai: Giữ nguyên; 19. Thôn Xuân Thu (Thu Thủy + Yên Phú).</ref><ref name=":0">{{Chú thích web |last=Xã Đa Phúc, Thành phố Hà Nội |date=2026-07-03 |title=Ủy ban nhân dân xã Đa Phúc thông báo chính thức 19 thôn sau sắp xếp (theo Nghị quyết số 22/NQ-HĐND ngày 24 tháng 6 năm 2026 của Hội đồng nhân dân xã Đa Phúc) |url=https://web.facebook.com/story.php?story_fbid=122186167904924832&id=61577744976709&rdid=50qWc48pmyeSqD6Q# |url-status=live |archive-url=https://web.archive.org/web/20260705400809/https://web.facebook.com/story.php?story_fbid=122186167904924832&id=61577744976709&rdid=50qWc48pmyeSqD6Q# |archive-date=2026-07-05 |access-date=2026-07-05}}</ref>
+[[Tập tin:Bản đồ các thôn thuộc xã Đa Phúc – thành phố Hà Nội.jpg|nhỏ|Bản đồ phạm vi ranh giới các thôn thuộc xã Đa Phúc của thành phố Hà Nội sau sáp nhập (từ ngày 1 tháng 7 năm 2026)<ref>{{Chú thích web |last=Đa Phúc 24h – thành phố Hà Nội |date=2026-07-03 |title=Ủy ban nhân dân xã Đa Phúc thông báo bản đồ 19 thôn chính thức trên địa bàn xã sau sắp xếp |url=https://web.facebook.com/story.php?story_fbid=122180446466912220&id=61577366627007&rdid=QjjFpXkSPACZgOcE# |url-status=dead |archive-url=https://web.archive.org/web/20260730201509/https://web.facebook.com/story.php?story_fbid=122180446466912220&id=61577366627007&rdid=QjjFpXkSPACZgOcE# |archive-date=2026-07-30 |access-date=2026-07-30}}</ref>]]
+
+== Hành chính ==
+Xã Đa Phúc được chia thành 19 thôn: Bắc Phú, Bắc Vọng, Đức Hậu, Đức Hòa, Hiệu Cẩm, Kim Lũ, Kim Thượng, Lai Cách, Ngô Đạo, Phú Tàng, Tân Hưng, Thượng Thanh, Tiên Tào, Việt Long, Xuân Dương, Xuân Giang, Xuân Lai, Xuân Ngọc và Xuân Thu.<ref name=":0" />
+{| class="wikitable sortable" align="center" width="100%" cellspacing="6" cellpadding="0" style="background: #f9f9f9; border: 1px #aaa solid; margin-top: 16px"
+! colspan="4" style="background: #E6E6FA; font-size: 95%;" |Danh sách các thôn thuộc xã Đa Phúc<ref name=":0" />
+|-
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ gia đình <sup>(2026)</sup>
+|-
+| align="left" |Bắc Phú
+|1.935
+|-
+| align="left" |Bắc Vọng
+|657
+|-
+| align="left" |Đức Hậu
+|1.006
+|-
+| align="left" |Đức Hòa
+|642
+|-
+| align="left" |Hiệu Cẩm
+|693
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ gia đình <sup>(2026)</sup>
+|-
+| align="left" |Kim Lũ
+|909
+|-
+| align="left" |Kim Thượng
+|891
+|-
+| align="left" |Lai Cách
+|1.238
+|-
+| align="left" |Ngô Đạo
+|1.052
+|-
+| align="left" |Phú Tàng
+|711
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ gia đình <sup>(2026)</sup>
+|-
+| align="left" |Tân Hưng
+|1.336
+|-
+| align="left" |Thượng Thanh
+|799
+|-
+| align="left" |Tiên Tào
+|1.183
+|-
+| align="left" |Việt Long
+|1.293
+|-
+| align="left" |Xuân Dương
+|1.202
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ gia đình <sup>(2026)</sup>
+|-
+| align="left" |Xuân Giang
+|829
+|-
+| align="left" |Xuân Lai
+|1.854
+|-
+| align="left" |Xuân Ngọc
+|1.010
+|-
+| align="left" |Xuân Thu
+|1.205
+|}
+|}<!--== Lịch sử== 
+Trong quá khứ, khi [[Cách mạng tháng Tám| cách mạng tháng 8 năm 1945]] thành công, [[Việt Nam Dân chủ Cộng hòa| nhà nước Việt Nam]] có chủ trương thành lập đơn vị [[Xã (Việt Nam)| xã]] thay cho đơn vị [[Tổng (đơn vị hành chính cũ Việt Nam)| tổng]]. Tổng Đan Tảo được tách ra làm hai xã, các thôn Tiên Tảo, Lương Phúc lập thành xã Thiên Phúc, thôn Tăng Long, Bắc Vọng lập thành xã Tăng Long.
+
+Tháng 7 năm 1949, để phục vụ [[Chiến tranh Đông Dương| cuộc chiến với thực dân Pháp]], chính quyền Việt Nam đã sáp nhập 2 xã Đại Cát và Thiên Phúc để thành lập xã Dũng Tiến. Cuối năm 1949, tiếp tục gộp 2 xã Tăng Phúc (gồm các thôn: Bắc Vọng, Tăng Long, Lương Phúc) và xã Dũng Tiến (gồm các thôn Tiên Tảo, Lương Xuân, Đại Phùng, Ngọc Hà, Xuân Tảo, Đại Tảo, Yên Xào, Lai Cách) lại và lấy tên là xã Dũng Tiến.
+
+Sau [[Cải cách ruộng đất tại miền Bắc Việt Nam| cải cách ruộng đất năm 1955]], xã Dũng Tiến được tách ra thành Việt Long và Xuân Giang, riêng thôn Bắc Vọng được cắt về xã Bắc Phú. Xã Việt Long từ đó gồm 3 thôn: Tiên Tảo, Lương Phúc và Tăng Long.
+
+Kể từ khi thành lập năm 1955, xã Việt Long không có biến đổi gì về địa giới hành chính.
+
+== Lịch sử== 
+Xã Kim Lũ vốn hình thành từ một làng cổ thời Bắc thuộc ([[nhà Hán| nhà Đông Hán]]), gọi nôm là ''Cờ Lủ'' hay ''Lủ'', tên chữ Hán gọi là Kim Lũ, tên này tồn tại cho đến nay. Tương truyền, dân làng Cờ Lủ nổi tiếng với nghề thợ ngoã. Khoảng thế kỷ 2, nghề thợ ngoã đã xuất hiện và phát triển ở làng Cờ Lủ. Làng là nơi cung cấp các hiệp thợ cho các triều đại phong kiến xây dựng kinh đô.
+
+Xã có nhiều di tích lịch sử văn hóa lâu đời, xã cũng là nơi có [[thành Bình Lỗ]] nổi tiếng trong [[Chiến tranh Tống–Việt (981)]] do [[Lê Hoàn]] chỉ huy. Hiện còn di tích thành cổ bên [[sông Cà Lồ]].
+
+== Lịch sử== 
+Xã Xuân Giang là 1 bộ phận của huyện [[Sóc Sơn (huyện)| Sóc Sơn]]. Trước thuộc tổng Dũng Tiến, tổng này gồm xã Xuân Giang cộng với làng Tiên Tảo và làng Bắc Vọng.
+
+Trong quá khứ, khi [[Cách mạng tháng Tám| cách mạng tháng 8 năm 1945]] thành công, [[Việt Nam Dân chủ Cộng hòa| nhà nước Việt Nam]] có chủ trương thành lập đơn vị [[Xã (Việt Nam)| xã]] thay cho đơn vị [[Tổng (đơn vị hành chính cũ Việt Nam)| tổng]]. Tổng Đan Tảo được tách ra làm hai xã, các thôn Tiên Tảo, Lương Phúc lập thành xã Thiên Phúc, thôn Tăng Long, Bắc Vọng lập thành xã Tăng Long.
+
+Tháng 7 năm 1949, để phục vụ [[Chiến tranh Đông Dương| cuộc chiến với thực dân Pháp]], chính quyền Việt Nam đã sáp nhập 2 xã Đại Cát và Thiên Phúc để thành lập xã Dũng Tiến. Cuối năm 1949, tiếp tục gộp 2 xã Tăng Phúc (gồm các thôn: Bắc Vọng, Tăng Long, Lương Phúc) và xã Dũng Tiến (gồm các thôn Tiên Tảo, Lương Xuân, Đại Phùng, Ngọc Hà, Xuân Tảo, Đại Tảo, Yên Sào, Lai Cách) lại và lấy tên là xã Dũng Tiến.
+
+Sau [[Cải cách ruộng đất tại miền Bắc Việt Nam| cải cách ruộng đất năm 1955]], xã Dũng Tiến được tách ra thành Việt Long và Xuân Giang, riêng thôn Bắc Vọng được cắt về xã Bắc Phú.-->
+
+== Di tích - Danh thắng==
+=== Chùa Thanh Minh ===
+Ngôi chùa cổ có niên đại hàng trăm năm tuổi tọa lạc tại khu vực Kim Trung - Kim Lũ, xã Đa Phúc chính là chùa Thanh Minh (còn được biết đến với tên gọi cũ là Thần Quang tự). Ngôi chùa này mang đậm lối kiến trúc truyền thống và vẫn lưu giữ được nhiều giá trị tâm linh, văn hóa của làng quê Việt Nam.
+
+Dưới đây là một số thông tin chi tiết về chùa Thanh Minh tại Kim Trung, Đa Phúc
+
+* '''Địa chỉ:''' Nằm tại khu vực thôn Kim Trung , xã Đa Phúc, huyện Sóc Sơn, thành phố Hà Nội.
+* '''Lịch sử:''' Trải qua nhiều giai đoạn thăng trầm của lịch sử, ngôi chùa vẫn giữ được hồn cốt truyền thống và nguồn mạch tâm linh, có liên kết mật thiết với hệ thống các ngôi chùa cổ ở phía Bắc. 
+* '''Không gian:''' Chùa sở hữu khuôn viên thanh tịnh, thiết kế mang đậm nét cổ kính, là điểm đến quen thuộc của người dân địa phương trong các dịp lễ Phật đản, ngày rằm, mùng một
+
+=== Đền Kim Trung ===
+Đền Kim Trung là di tích tín ngưỡng có lịch sử hình thành cách đây trên 300 năm, tọa lạc ven dòng sông Cà Lồ hiền hòa - nơi hội tụ cảnh quan sông nước trong lành và không gian tâm linh cổ kính của xã Đa Phúc. Trải qua nhiều biến thiên của lịch sử, ngôi đền vẫn được nhân dân gìn giữ, bảo tồn, trở thành điểm đến văn hóa - tâm linh giàu giá trị của địa phương.Đền Kim Trung thờ Đức Thánh Tam Giang - hai vị danh tướng Trương Hống, Trương Hát, những nhân vật lịch sử được nhân dân tôn kính, gắn với truyền thống yêu nước và tinh thần bảo vệ quê hương. Công trình chính của đền được xây dựng theo kiến trúc truyền thống gồm 5 gian, 8 mái, không gian trang nghiêm, cổ kính. Phía sau là ngôi đền hậu gồm 3 gian, 2 mái, thờ Quan Lớn, tạo nên tổng thể kiến trúc hài hòa, bền vững theo thời gian. Với những giá trị lịch sử - văn hóa tiêu biểu, năm 2008, Đền Kim Trung được xếp hạng là di tích lịch sử - văn hóa cấp thành phố, khẳng định vị thế và ý nghĩa của di tích trong đời sống tinh thần của nhân dân địa phương.Hằng năm, lễ hội chính của đền được tổ chức vào ngày mùng 5 tháng Giêng âm lịch, thu hút đông đảo nhân dân và du khách thập phương về dâng hương, chiêm bái, cầu mong quốc thái dân an, cuộc sống bình an, hạnh phúc. Bên cạnh phần lễ trang nghiêm, phần hội được tổ chức sôi nổi với nhiều trò chơi dân gian truyền thống như đập bóng, bịt mắt bắt vịt, bóng chuyền hơi... tạo không khí vui tươi, gắn kết cộng đồng, góp phần gìn giữ và phát huy bản sắc văn hóa làng quê
+
+=== Đình Tiên Tảo ===
+Đình Tiên Tảo là di tích lịch sử văn hóa lâu đời trên địa bàn xã Đa Phúc. Cũng giống như các làng cổ khác thuộc lưu vực [[sông Cầu]], [[sông Thương]], [[sông Cà Lồ]]. Làng Tiên Tảo thờ đức [[thánh Tam Giang]] – những vị tướng nổi tiếng trung quân ái quốc dưới thời [[Triệu Việt Vương]].
+
+Theo truyền thuyết [[thánh Tam Giang]]: Ngày xưa ở làng Vân Mẫu, thành phố Bắc Ninh có một người con gái tên là Phùng Từ Nhan.<ref>{{Chú thích web | url = http://dulichbacninh.gov.vn/vi/news_detail/178/den-van-mau-va-su-tich-ve-thanh-tam-giang.html | ngày truy cập = 2019-02-03 | tựa đề = Đền Vân Mẫu và sự tích về Thánh Tam Giang | archive-date = ngày 3 tháng 2 năm 2019 | archive-url = https://web.archive.org/web/20190203143753/http://dulichbacninh.gov.vn/vi/news_detail/178/den-van-mau-va-su-tich-ve-thanh-tam-giang.html }}</ref> Năm 18 tuổi, Từ Nhan chiêm bao thấy thần Long từ trên trời hạ xuống quấn mình trên [[sông Lục Đầu]], sau đó bà mang thai 14 tháng và sinh hạ được cái bọc 5 con: 4 trai 1 gái. Do là con trời ban cho nên bà lấy [[họ Trương]] của [[Ngọc Hoàng]] đặt cho các con là [[Trương Hống]], [[Trương Hát]], Trương Lừng, Trương Lẫy và Trương Đạm Nương. Thời gian sau đó, [[Ngọc Hoàng]] sai Lã Tiên Ông xuống trần dạy văn võ cho 5 người con tại bãi Tràng Học gần nhà Cổ Trạch. Năm anh em đều văn võ song toàn, lớn lên hưởng ứng lời kêu gọi của [[Triệu Việt Vương]], họ xung phòng làm tướng tiến đánh giặc Lương ở đầm Dạ Trạch và giành thắng lợi lớn. [[Trương Hống]] được phong tướng trấn giữ làng Tiên Tảo ([[Sóc Sơn (huyện)|Sóc Sơn]], [[Hà Nội]]), [[Trương Hát]] được phong tướng trấn giữ làng Tam Lư ([[Từ Sơn (thành phố)|Từ Sơn]], [[Bắc Ninh]]).
+
+Khi [[Triệu Quang Phục]] lên ngôi vua, [[Lý Phật Tử]] đã đem quân đánh lại nhưng không thắng, bèn dùng kế cầu hôn gả con. [[Trương Hống]] và [[Trương Hát]] đã can [[Triệu Việt Vương]] nhưng Vua không nghe nên bị mắc mưu rồi bị đánh bại. [[Lý Phật Tử]] đoạt được ngôi vua, biết các ông là tướng tài giỏi bèn cho người mời ra làm quan. Song các ông nhất lòng trung quân, mắng lại rằng: "Tôi trung chẳng thờ hai vua, huống hồ hắn là kẻ vong ơn bội nghĩa?" Biết không thể khuất phục được, Lý Phật tử lệnh truy bắt các ông khắp nơi. Các ông biết không thoát được liền tự vẫn ở dòng sông Cầu để giữ trọn tấm lòng trung với vua. [[Ngọc Hoàng Thượng đế]] cảm thương đã sắc phong [[Trương Hống]], [[Trương Hát]] làm thần sông. Nhân dân 372 làng dọc theo [[sông Cầu]] và các nơi hai ông từng đóng quân đánh giặc đều thương tiếc, lập đền thờ làm Thần. Các triều đại nhà Ngô, Đinh, Lê, Lý sau đó được âm phù giữ yên bờ cõi nên đều phong anh em họ Trương là Đức [[thánh Tam Giang]] - đại vương thượng đẳng thần. [[Thánh Tam Giang]] còn gắn liền với huyền thoại ra đời tác phẩm [[Nam quốc sơn hà]], bản tuyên ngôn độc lập đầu tiên của người Việt.<ref>{{Chú thích web | url = http://vanhoanghean.com.vn/chuyen-muc-goc-nhin-van-hoa/nhung-goc-nhin-van-hoa/ve-truyen-thuyet-mot-bai-tho-nam-quoc-son-ha-la-vo-danh-khong-phai-cua-ly-thuong-kiet | ngày truy cập = 2019-02-03 | tựa đề = Về truyền thuyết một bài thơ: NAM QUỐC SƠN HÀ là vô danh, không phải của Lý Thường Kiệt | archive-date = ngày 27 tháng 2 năm 2019 | archive-url = https://web.archive.org/web/20190227104723/http://vanhoanghean.com.vn/chuyen-muc-goc-nhin-van-hoa/nhung-goc-nhin-van-hoa/ve-truyen-thuyet-mot-bai-tho-nam-quoc-son-ha-la-vo-danh-khong-phai-cua-ly-thuong-kiet }}</ref>
+
+<!-- 
+Xã có khu di tích chùa Đại Bi và có làng truyền thống Thu Thủy (thôn Hồng) làm giường tre và làng nghề nấu rượu Xuân Lai.<ref>{{chú thích web | url = http://hanoimoi.com.vn/Tin-tuc/Doi-song/570359/lang-co-xuan-lai-chim-vao-hoai-niem | tiêu đề = Làng cổ Xuân Lai chìm vào hoài niệm | author = | ngày = | ngày truy cập = 27 tháng 6 năm 2015 | nơi xuất bản = [[Hànộimới| Báo Hànộimới]] | ngôn ngữ = }}</ref>
+
+== Thành Bình Lỗ== 
+[[Thành Bình Lỗ]] được xây dựng trên một doi đất cao, có tọa độ là 21.236822 vĩ tuyến Bắc và 105.918846  kinh tuyến Đông, ngay bờ Nam [[sông Cà Lồ]], cách ngã ba Xà khoảng 2&nbsp;km.  Doi đất có hình dạng giống như một chiếc móng chân ngựa, chỗ rộng nhất lên đến trên 700 m, hơn 2/3 chu vi được bao bọc bởi dòng [[sông Cà Lồ]] tạo thành con hào thiên nhiên khó vượt qua. Lòng [[sông Cà Lồ]] nhỏ hẹp, bề ngang trung bình khoảng 50 m và về mùa cạn mực nước thông thường chỉ dao động từ 1,0 m đến 2,5 m. Với điều kiện như vậy nên xưa kia [[Lê Hoàn]] có thể ra lệnh cho quân và dân "''thung mộc hạn giang''" nghĩa là có thể đóng cọc tre gỗ thẳng xuống lòng sông từ bờ này sang bờ kia để cản giặc.
+
+Toàn bộ khu vực ngã ba Xà, với sông ngòi và rừng rậm thời bấy giờ, dễ dàng cho phép xây dựng ở đây một  trận địa mai phục như vậy. Đặc biệt dải đất với diện tích khoảng 5 km2 này lại được bao bọc bởi 3 khúc sông, một đoạn là hạ lưu [[sông Cà Lồ]] khoảng 2&nbsp;km, một khúc sông Cầu và một nhánh sông nhỏ nối tắt từ [[sông Cà Lồ]] đến bến đò Như Nguyệt dài hơn 3&nbsp;km. Đỉnh giữa của [[tam giác]] là ngã ba Xà, cạnh đáy là nhánh sông nhỏ (đến thời [[Nhà Trần]] và [[Hậu Lê]] bịt kín bởi các con đê). Đỉnh bên trái của [[tam giác]] là doi đất nhô cao hơn hẳn khu vực xung quanh. Mạng lưới sông ngòi, thủy văn ở đây tuy nhỏ nhưng đủ tạo thành một vùng khép kín, liên thông với nhau, dễ dàng phát triển thành một căn cứ thủy binh mạnh khi chiến sự xảy ra.
+
+Doi đất như được thiên nhiên tạo ra để trở thành một pháo đài dễ phòng thủ và khó tấn công. Gần đây nhất là vào cuối thế kỷ 17, một số giáo sĩ phương Tây đầu tiên đã đến nơi này để truyền đạo, họ gom dân và xây dựng trên doi đất này một làng Công giáo đông đảo, về sau phát triển thành một Xứ đạo lấy tên là Trung Nghĩa <ref name = "LTN">[http://www.angelfire.com/nb/hoang/TrungNghia.htm Hoàng Ngọc Lễ: Làng Trung Nghĩa]</ref>. Tuy ngôi làng chỉ tồn tại đến năm 1954, nhưng qua đó cũng cho thấy người phương Tây coi trọng giá trị quân sự của doi đất này trong việc phòng thủ Hà Nội từ xa trước những mối đe doạ từ phía Bắc. Sau năm 1954, khi hiệp định Giơ ne vơ được ký kết, toàn bộ làng đạo Trung Nghĩa đã di cư vào Nam.
+
+== Đền Bạch Đa== 
+Đền Bạch Đa là di tích lịch sử cổ kính được hình thành hàng nghìn năm trên địa bàn thôn Yên Sào xã Xuân Giang. Đền thờ [[Bạch Đa]], là một vị [[tướng nhà Đinh]], có công đánh dẹp [[loạn 12 sứ quân]], góp phần giúp [[Đinh Bộ Lĩnh]] lập ra nhà nước [[Đại Cồ Việt]] trong [[lịch sử Việt Nam]]. Ông được nhiều nơi ở [[Hà Nội]] và [[Bắc Ninh]] lập đền thờ với tôn xưng ''Bạch Đa đại vương''.<ref>{{Chú thích web | url = http://www.hannom.org.vn/trichyeu.asp?param = 450&Catid = 244 | ngày truy cập = 2019-08-14 | tiêu đề = Xã Đại Vi 大 為: 7 tr., do Nguyễn Bính soạn năm 1572, về sự tích Bạch Đa 白 多 (Bạch Đa Linh Ứng Đại Vương 白 多 靈 應 大 王), Chàng Ngọ 撞 午 (Chàng Ngọ Linh Ứng Đại Vương 撞 午 靈 應 大 王) và Chàng Mai 撞 梅 (Chàng Mai Linh Ứng Đại Vương 撞 梅 靈 應 大 王) thời Đinh Tiên Hoàng. | archive-date = 2021-11-29 | archive-url = https://web.archive.org/web/20211129152258/http://www.hannom.org.vn/trichyeu.asp?param = 450&Catid = 244 | url-status = dead }}</ref>
+
+[[Bạch Đa]] cùng với 2 anh họ là Trương Ngọ, Trương Mai là 3 vị tướng quê ở [[động Hoa Lư]], châu Đại Hoàng (nay thuộc [[Ninh Bình]]). Chàng Ngọ và Chàng Mai là hai anh em sinh đôi còn [[Bạch Đa]] là em họ, mồ côi cha mẹ từ nhỏ, được bố mẹ hai chàng đón về nuôi. Đến khi [[Đinh Bộ Lĩnh]] nổi lên khởi nghĩa, dẹp [[loạn 12 sứ quân]], ba anh em bèn ra giúp, được phong chức Đô Uý. Ba ông mộ được mấy nghìn quân, đóng ở chùa trang Bối Khê, đạo Sơn Nam. Khi ba ông cầm quân đi đánh quân Ngô, bất ngờ bị tấn công đồn ở trang Đại Vi, ba ông không chống lại được đã hi sinh. Dân làng cảm phục lập đình Đại Vi ở Tiên Du, Bắc Ninh thờ phụng. Các triều Vua phong ba ông làm Phúc thần. Riêng [[Bạch Đa]] còn được thờ ở đình Đông Dư Hạ và đình Đông Dư Thượng, Gia Lâm, Hà Nội.<ref>{{Chú thích web | url = https://gialam.hanoi.gov.vn/di-tich-lich-su-le-hoi/-/view_content/pop_up/385822-dinh-dong-du-thuong.html?_101_viewMode = print | ngày lưu trữ = 2020-06-11 | ngày truy cập = 2019-08-14 | tiêu đề = Đình Đông Dư Thượng thuộc thôn Đông Dư Thượng, xã Đông Đông Dư, huyện Gia Lâm, thành phố Hà Nội. | archive-url = https://web.archive.org/web/20200611002619/https://gialam.hanoi.gov.vn/di-tich-lich-su-le-hoi/-/view_content/pop_up/385822-dinh-dong-du-thuong.html?_101_viewMode = print | url-status = dead }}</ref>
+
+Các triều Vua phong ông là Thượng đẳng thần với tôn hiệu là ''Bạch Đa đại vương''. Nơi thờ quan trọng nhất là Đền Bạch Đa, thôn Yên Sào xã Xuân Giang, huyện Sóc Sơn và Nghè Nối thuộc xã Đại Đồng, huyện [[Tiên Du]], tỉnh [[Bắc Ninh]]. Lễ hội đình Thổ Khối ở [[Long Biên (quận)| Long Biên]] cũng diễn ra vào ngày giỗ thần Bạch Đa.
+
+Truyền thuyết đền [[Bạch Đa]] ở thôn Yên Sào, xã Xuân Giang, [[Sóc Sơn (huyện)| Sóc Sơn]], Hà Nội thì Bạch Đa là người được Đinh Bộ Lĩnh cử về Vũ Ninh đánh dẹp sứ quân [[Nguyễn Thủ Tiệp]].
+
+Do lập nhiều công lao, Bạch Đa được nhiều nơi lập đền thờ như:
+*Nghè Nối, xã Đại Đồng, huyện [[Tiên Du]], tỉnh Bắc Ninh
+*Đình Đại Vi, xã Đại Đồng, huyện Tiên Du, tỉnh Bắc Ninh
+*Đình Thổ Khối, phường Cự Khối, quận [[Long Biên (quận)| Long Biên]], Thành phố Hà Nội <ref>[https://cukhoi.longbien.gov.vn/tin-tuc-moi-nhat?p_p_id = 101&p_p_lifecycle = 0&p_p_state = pop_up&p_p_mode = view&p_p_col_id = column-1&p_p_col_count = 1&_101_struts_action = %2Fasset_publisher%2Fview_content&_101_assetEntryId = 2375851&_101_viewMode = print&_101_type = content&_101_urlTitle = lanh-ao-quan-phuong-dang-huong-tai-inh-tho-khoi-nhan-dip-au-xuan-mau-tuat-2018 Lãnh đạo quận Long Biên và Phường dâng hương tại đình Thổ Khối nhân dịp đầu xuân Mậu Tuất 2018]{{Liên kết hỏng| date = ngày 4 tháng 4 năm 2021 | bot = InternetArchiveBot }}</ref>
+*Đình Đông Dư Thượng, xã Đông Dư, huyện Gia Lâm, Thành phố [[Hà Nội]]
+*Đình Đông Dư Hạ, xã Đông Dư, huyện [[Gia Lâm (huyện)| Gia Lâm]], Thành phố Hà Nội
+*Đền Bạch Đa, thôn Yên Sào, xã Xuân Giang, huyện Sóc Sơn, Thành phố [[Hà Nội]]
+
+-->
+== Chú thích== 
+{{tham khảo}}
+
+== Tham khảo==
+{{Sơ khai Hà Nội}}{{Đơn vị hành chính thuộc thành phố Hà Nội}}

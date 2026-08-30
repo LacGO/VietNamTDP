@@ -1,0 +1,69 @@
+{{Thông tin đơn vị hành chính Việt Nam| xã
+|tên=Tân Sơn
+|hình=
+|ghi chú hình=
+|vĩ độ=21.21932210942456
+|kinh độ=105.01468572516573
+|diện tích=118,21 km²
+|dân số=18.246 người
+|thời điểm dân số=2025
+| mật độ dân số = {{formatnum:{{#expr:floor({{formatnum:18.246| R}}/{{formatnum:118,21| R}})}} }} người/km²
+|vùng=[[Đông Bắc Bộ]]
+|tỉnh=[[Phú Thọ]]
+|thành lập=16/6/2025
+|trụ sở UBND=
+|mã hành chính=|mã bưu chính=
+|loại đô thị=|năm công nhận=}}
+{{other|Tân Sơn (định hướng)}}
+'''Tân Sơn''' là một [[Xã (Việt Nam)|xã]] thuộc [[Tỉnh (Việt Nam)|tỉnh]] [[Phú Thọ]], [[Việt Nam]].
+
+== Địa lý ==
+Xã Tân Sơn có vị trí địa lý:
+
+* Phía bắc giáp xã [[Trung Sơn, Phú Thọ|Trung Sơn]], xã [[Thượng Long]] và xã [[Minh Hòa]].
+* Phía nam giáp xã [[Xuân Đài (xã)|Xuân Đài]].
+* Phía đông giáp xã [[Minh Đài]].
+* Phía tây giáp xã [[Thu Cúc]] và xã [[Lai Đồng]].
+
+== Hành chính ==
+Xã Tân Sơn được chia thành 37 khu: 1, 2A, 2B, 3, 4, 5A, 5B, 6, 8, 9, 10A, 10B, Bình Thọ, Chiềng, Còn 1, Còn 2, Cọ Sơn 1, Cọ Sơn 2, Côm, Cường Thịnh 1, Cường Thịnh 2, Dặt, Dùng 1, Dùng 2, Dụt Dàn, Đèo Mương 1, Đèo Mương 2, Liên Minh, Lóng, Mang Hạ, Mang Thượng, Minh Nga, Nà Nờm, Phai Vả, Sài, Tân An, Tân Ve.<ref name=":1">{{Chú thích web |last=Bộ Dân tộc và Tôn giáo |date=2026-01-29 |title=Danh sách Thôn vùng đồng bào dân tộc thiểu số và miền núi, thôn đặc biệt khó khăn giai đoạn 2026 - 2030 trên địa bàn tỉnh Phú Thọ |url=http://files.ubdt.gov.vn/files/ecm/source_files/2026/02/05/11252411_4.%20Ph%C3%BA%20Th%E1%BB%8D%201%20(th%C3%B4n).signed_26-02-05.pdf |url-status=live |archive-url=https://web.archive.org/web/20260417090807/http://files.ubdt.gov.vn/files/ecm/source_files/2026/02/05/11252411_4.%20Ph%C3%BA%20Th%E1%BB%8D%201%20(th%C3%B4n).signed_26-02-05.pdf |archive-date=2026-04-17 |access-date=2026-04-17 |website=Cổng Thông tin điện tử Bộ Dân tộc và Tôn giáo}}</ref><ref name=":0">{{Chú thích web |last=Thông tin xã Tân Sơn - tỉnh Phú Thọ |date=2026-03-11 |title=Danh sách khu vực bỏ phiếu bầu cử đại biểu Quốc hội khóa XVI và Hội đồng nhân dân các cấp nhiệm kỳ 2026 - 2031 trên địa bàn xã Tân Sơn |url=https://web.facebook.com/story.php?story_fbid=932968712432214&id=100071572801360&rdid=wWVcYtXjmgIwxhdS# |url-status=live |archive-url=https://web.archive.org/web/20260424090807/https://web.facebook.com/story.php?story_fbid=932968712432214&id=100071572801360&rdid=wWVcYtXjmgIwxhdS# |archive-date=2026-04-24 |access-date=2026-04-24}}</ref>
+
+== Lịch sử ==
+Địa bàn xã Tân Sơn trước đây thuộc huyện [[Tân Sơn (huyện)|Tân Sơn]], tỉnh Phú Thọ.
+
+Năm [[1945]], địa bàn xã Tân Phú có 3 xóm: Sặc, Vỳ, Chò.
+
+Cuối năm [[1946]], Quốc hội và Chính phủ nước Việt Nam dân chủ Cộng hòa ban hành Quyết định<ref>Quyết định về việc xóa bỏ một số cấp hành chính trung gian như Châu, Tổng, thành lập liên xã của Quốc hội và Chính phủ nước Việt Nam dân chủ Cộng hòa ban hành.</ref> về việc thành lập xã Tân Phú thuộc liên xã Thạch Kiệt, huyện Thanh Sơn, tỉnh Phú Thọ.
+
+Năm [[1954]], Chính phủ ban hành Quyết định<ref>Quyết định về việc điều chỉnh địa giới hành chính của Chính phủ.</ref> về việc thành lập xã Tân Phú trên cơ sở khoảng 700 nhân khẩu và 4 xóm của liên xã Thạch Kiệt.
+
+Ngày [[12 tháng 10]] năm [[2016]], UBND tỉnh Phú Thọ ban hành Quyết định số 2590/QĐ-UBND<ref name="2590/QĐ-UBND">Quyết định số 2590/QĐ-UBND ngày 12/10/2016 của UBND tỉnh Phú Thọ về việc công nhận xã Tân Phú, huyện Tân Sơn đạt tiêu chuẩn đô thị loại V.</ref> về việc công nhận xã Tân Phú đạt tiêu chuẩn [[Đô thị Việt Nam#Đô thị loại V|đô thị loại V]].<ref name="ĐA">{{Chú thích web |tác giả= |ngày=2024-04-12 |tựa đề=Đề án thành lập thị trấn Tân Phú, huyện Tân Sơn, tỉnh Phú Thọ |url=https://tanson.phutho.gov.vn/portals/0/AttachFiles/2024/4/12/2024_4_12_14_28_43_638485289230391633_3.%20D%E1%BB%B1%20th%E1%BA%A3o%20thuy%E1%BA%BFt%20minh%20%C4%90%E1%BB%81%20%C3%A1n%20T%C3%A2n%20Ph%C3%BA%2012.04.2024.docx |url-status=dead |url lưu trữ=https://web.archive.org/web/20240512080808/https://tanson.phutho.gov.vn/portals/0/AttachFiles/2024/4/12/2024_4_12_14_28_43_638485289230391633_3.%20D%E1%BB%B1%20th%E1%BA%A3o%20thuy%E1%BA%BFt%20minh%20%C4%90%E1%BB%81%20%C3%A1n%20T%C3%A2n%20Ph%C3%BA%2012.04.2024.docx |ngày lưu trữ=2024-05-12 |ngày truy cập=2024-05-12 |website=Trang thông tin điện tử huyện Tân Sơn, tỉnh Phú Thọ}}</ref><ref>{{Chú thích web |tác giả= |ngày=2024-04-12 |tựa đề=Báo cáo tóm tắt Đề án thành lập thị trấn Tân Phú, huyện Tân Sơn, tỉnh Phú Thọ |url=https://tanson.phutho.gov.vn/portals/0/AttachFiles/2024/4/12/2024_4_12_14_29_51_638485289918669514_4.B%C3%A1o%20c%C3%A1o%20t%C3%B3m%20t%E1%BA%AFt%20%C4%91%E1%BB%81%20%C3%A1n.docx |url-status=dead |url lưu trữ=https://web.archive.org/web/20240512080808/https://tanson.phutho.gov.vn/portals/0/AttachFiles/2024/4/12/2024_4_12_14_29_51_638485289918669514_4.B%C3%A1o%20c%C3%A1o%20t%C3%B3m%20t%E1%BA%AFt%20%C4%91%E1%BB%81%20%C3%A1n.docx |ngày lưu trữ=2024-05-12 |ngày truy cập=2024-05-12 |website=Trang thông tin điện tử huyện Tân Sơn, tỉnh Phú Thọ}}</ref><ref>{{Chú thích web |tác giả= |ngày=2024-04-12 |tựa đề=Số liệu Đề án thành lập thị trấn Tân Phú, huyện Tân Sơn, tỉnh Phú Thọ |url=https://tanson.phutho.gov.vn/portals/0/AttachFiles/2024/4/12/2024_4_12_14_28_43_638485289230704131_S%E1%BB%91%20li%E1%BB%87u%20k%C3%A8m%20%C4%90%E1%BB%81%20%C3%A1n.xlsx |url-status=dead |url lưu trữ=https://web.archive.org/web/20240512080808/https://tanson.phutho.gov.vn/portals/0/AttachFiles/2024/4/12/2024_4_12_14_28_43_638485289230704131_S%E1%BB%91%20li%E1%BB%87u%20k%C3%A8m%20%C4%90%E1%BB%81%20%C3%A1n.xlsx |ngày lưu trữ=2024-05-12 |ngày truy cập=2024-05-12 |website=Trang thông tin điện tử huyện Tân Sơn, tỉnh Phú Thọ}}</ref><ref>{{Chú thích web |tác giả= |ngày=2024-04-12 |tựa đề=Đề án thành lập thị trấn Tân Phú thuộc huyện Tân Sơn, tỉnh Phú Thọ |url=https://tanson.phutho.gov.vn/Chuyen-muc-tin/Chi-tiet-tin/t/du-thao-thuyet-minh-de-an-thanh-lap-thi-tran-tan-phu/title/2357/ctitle/59 |url-status=dead |url lưu trữ=https://web.archive.org/web/20240512080808/https://tanson.phutho.gov.vn/Chuyen-muc-tin/Chi-tiet-tin/t/du-thao-thuyet-minh-de-an-thanh-lap-thi-tran-tan-phu/title/2357/ctitle/59 |ngày lưu trữ=2024-05-12 |ngày truy cập=2024-05-12 |website=Trang thông tin điện tử huyện Tân Sơn, tỉnh Phú Thọ}}</ref>
+
+Ngày [[14 tháng 11]] năm [[2024]], [[Ủy ban Thường vụ Quốc hội]] ban hành Nghị quyết số 1282/NQ-UBTVQH15<ref name="1282/NQ-UBTVQH15">{{Chú thích web |tác giả= |ngày=2024-11-14 |tựa đề=Nghị quyết số 1282/NQ-UBTVQH15 về việc sắp xếp đơn vị hành chính cấp xã của tỉnh Phú Thọ giai đoạn 2023 – 2025 |url=https://quochoi.vn/tintuc/pages/tin-hoat-dong-cua-quoc-hoi.aspx?ItemID=91149 |url-status=live |url lưu trữ=https://web.archive.org/web/20241121164252/https://quochoi.vn/tintuc/pages/tin-hoat-dong-cua-quoc-hoi.aspx?ItemID=91149 |ngày lưu trữ=2024-11-21 |ngày truy cập=2024-11-21 |website=Cổng thông tin điện tử Quốc hội Việt Nam}}</ref> về việc sắp xếp đơn vị hành chính cấp xã của tỉnh Phú Thọ giai đoạn 2023 – 2025 (nghị quyết có hiệu lực từ ngày 1 tháng 1 năm 2025). Theo đó, thành lập thị trấn Tân Phú thuộc huyện Tân Sơn – thị trấn huyện lỵ của huyện Tân Sơn trên cơ sở toàn bộ 20,87&nbsp;km² diện tích tự nhiên và quy mô dân số là 7.755 người của xã Tân Phú.
+
+Ngày [[16 tháng 6]] năm [[2025]]:
+
+* [[Quốc hội Việt Nam|Quốc hội]] ban hành Nghị quyết số 203/2025/QH15 về việc sửa đổi, bổ sung một số điều của Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam (nghị quyết có hiệu lực từ ngày [[16 tháng 6]] năm [[2025]]).<ref>{{Chú thích web |last=xaydungchinhsach.chinhphu.vn |date=2025-06-28 |title=NGHỊ QUYẾT 203/2025/QH15 SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA HIẾN PHÁP NƯỚC CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM |url=https://xaydungchinhsach.chinhphu.vn/nghi-quyet-203-2025-qh15-sua-doi-bo-sung-mot-so-dieu-cua-hien-phap-nuoc-cong-hoa-xa-hoi-chu-nghia-viet-nam-119250616181735552.htm |url-status=live |archive-url=https://web.archive.org/web/20260715200606/https://xaydungchinhsach.chinhphu.vn/nghi-quyet-203-2025-qh15-sua-doi-bo-sung-mot-so-dieu-cua-hien-phap-nuoc-cong-hoa-xa-hoi-chu-nghia-viet-nam-119250616181735552.htm |archive-date=2026-07-15 |access-date=2026-07-15 |website=Báo Điện tử Chính phủ |language=vi }}</ref> Theo đó, kết thúc hoạt động của đơn vị hành chính cấp huyện trong cả nước từ ngày 1 tháng 7 năm 2025.
+
+* Ủy ban Thường vụ Quốc hội ban hành Nghị quyết số 1676/NQ-UBTVQH15 về việc sắp xếp các đơn vị hành chính cấp xã của tỉnh Phú Thọ năm 2025 (nghị quyết có hiệu lực từ ngày [[16 tháng 6]] năm [[2025]]).<ref>{{Chú thích web |last=xaydungchinhsach.chinhphu.vn |date=2025-06-20 |title=Nghị quyết số 1676/NQ-UBTVQH15 sắp xếp các ĐVHC cấp xã của tỉnh Phú Thọ năm 2025 |url=https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-1676-nq-ubtvqh15-sap-xep-cac-dvhc-cap-xa-cua-tinh-phu-tho-nam-2025-119250616204317326.htm |access-date=2025-09-07 |website=xaydungchinhsach.chinhphu.vn |language=vi}}</ref> Theo đó, sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của thị trấn Tân Phú, xã Thu Ngạc và xã Thạch Kiệt thành xã mới có tên gọi là '''xã Tân Sơn'''.
+
+Sau khi thành lập, xã Tân Sơn được chia thành 37 khu: 1, 2A, 2B, 3, 4, 5A, 5B, 6, 8, 9, 10A, 10B, Bình Thọ, Chiềng, Còn 1, Còn 2, Cọ Sơn 1, Cọ Sơn 2, Côm, Cường Thịnh 1, Cường Thịnh 2, Dặt, Dùng 1, Dùng 2, Dụt Dàn, Đèo Mương 1, Đèo Mương 2, Liên Minh, Lóng, Mang Hạ, Mang Thượng, Minh Nga, Nà Nờm, Phai Vả, Sài, Tân An, Tân Ve.<ref name=":1" /><ref name=":0" />
+
+Ngày [[24 tháng 12]] năm [[2025]], Ủy ban Thường vụ Quốc hội ban hành Nghị quyết số 111/2025/UBTVQH15 về phân loại đô thị (nghị quyết có hiệu lực từ ngày [[1 tháng 1]] năm [[2026]]).<ref>{{Chú thích web |last=xaydungchinhsach.chinhphu.vn |date=2026-01-21 |title=Nghị quyết số 111/2025/UBTVQH15 về phân loại đô thị |url=https://xaydungchinhsach.chinhphu.vn/nghi-quyet-so-111-2025-ubtvqh15-ve-phan-loai-do-thi-119260101170432239.htm |access-date=2026-07-23 |website=xaydungchinhsach.chinhphu.vn |language=vi}}</ref> Theo đó, đô thị loại IV, loại V, thị xã và thị trấn trước khi sắp xếp chưa được công nhận loại đô thị được xác định là đô thị loại III. Một phần xã Tân Sơn được xác định là đô thị loại III (từ đô thị loại V của thị trấn Tân Phú cũ).
+
+<!-- 
+==Lịch sử==
+Năm [[1945]], địa bàn xã Tân Phú có 3 xóm: Sặc, Vỳ, Chò.
+
+Cuối năm [[1946]], Quốc hội và Chính phủ nước Việt Nam dân chủ Cộng hòa ban hành Quyết định<ref>Quyết định về việc xóa bỏ một số cấp hành chính trung gian như Châu, Tổng, thành lập liên xã của Quốc hội và Chính phủ nước Việt Nam dân chủ Cộng hòa ban hành.</ref> về việc thành lập xã Tân Phú thuộc liên xã Thạch Kiệt, huyện Thanh Sơn, tỉnh Phú Thọ.
+
+Năm [[1954]], Chính phủ ban hành Quyết định<ref>Quyết định về việc điều chỉnh địa giới hành chính của Chính phủ.</ref> về việc thành lập xã Tân Phú trên cơ sở khoảng 700 nhân khẩu và 4 xóm của liên xã Thạch Kiệt.
+
+Ngày 14 tháng 11 năm 2024, Ủy ban Thường vụ Quốc hội ban hành Nghị quyết số 1282/NQ-UBTVQH15<ref name="1282/NQ-UBTVQH15">{{Chú thích web|url=https://quochoi.vn/tintuc/pages/tin-hoat-dong-cua-quoc-hoi.aspx?ItemID=91149|tựa đề= Nghị quyết số 1282/NQ-UBTVQH15 về việc sắp xếp đơn vị hành chính cấp xã của tỉnh Phú Thọ giai đoạn 2023 – 2025 |tác giả=|ngày= 2024-11-14 |website= Cổng thông tin điện tử Quốc hội Việt Nam |url lưu trữ=https://web.archive.org/web/20241121164252/https://quochoi.vn/tintuc/pages/tin-hoat-dong-cua-quoc-hoi.aspx?ItemID=91149|ngày lưu trữ= 2024-11-21 |ngày truy cập= 2024-11-21 |url-status= live }}</ref> về việc sắp xếp đơn vị hành chính cấp xã của tỉnh Phú Thọ giai đoạn 2023 – 2025 (nghị quyết có hiệu lực từ ngày 1 tháng 1 năm 2025). Theo đó, thành lập thị trấn Tân Phú thuộc huyện Tân Sơn – thị trấn huyện lỵ của huyện Tân Sơn trên cơ sở toàn bộ 20,87&nbsp;km² diện tích tự nhiên và quy mô dân số là 7.755 người của xã Tân Phú. 
+-->
+== Chú thích ==
+{{reflist}}
+
+== Tham khảo ==
+{{sơ khai Phú Thọ}}
+{{Đơn vị hành chính thuộc tỉnh Phú Thọ}}

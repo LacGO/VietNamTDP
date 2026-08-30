@@ -1,0 +1,249 @@
+{{Thông tin đơn vị hành chính Việt Nam |Xã
+| tên = An Khánh
+| hình = Vân_Côn,_rước_Thánh_qua_ao_làng.JPG 
+| ghi chú hình = Rước Thánh qua ao làng Vân Côn 
+| diện tích = 28,69 km²
+| dân số = 102.136 người
+| thời điểm dân số = 2025
+| mật độ dân số = {{formatnum:{{#expr:floor({{formatnum:102.136| R}}/{{formatnum:28,69| R}})}} }} người/km²
+| vùng = [[Đồng bằng sông Hồng]]
+| thành phố = [[Hà Nội]]
+| thành lập = 
+| trụ sở UBND = Thôn Vân Lũng<ref>{{Chú thích web |url=https://storage-vnportal.vnpt.vn/gov-hni/6244/VanBan/2025/6/25/TB-729-2025.pdf |title=Thông báo số 729/TB-UBND ngày 25 tháng 6 năm 2025 của Ủy ban nhân dân thành phố Hà Nội về địa điểm trụ sở làm việc của 126 phường, xã sau sắp xếp thuộc phạm vi quản lý của thành phố Hà Nội|access-date=2026-06-15 |archive-date=2026-06-15 |archive-url=https://web.archive.org/web/20260615034519/https://storage-vnportal.vnpt.vn/gov-hni/6244/VanBan/2025/6/25/TB-729-2025.pdf |url-status=dead | website = Cổng Thông tin điện tử Ủy ban nhân dân thành phố Hà Nội}}</ref>
+| mã hành chính =09877<ref>{{Chú thích web |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/19ttg.signed.pdf |title=Quyết định số 19/2025/QĐ-TTg ngày 30 tháng 6 năm 2025 của Thủ tướng Chính phủ về việc Ban hành Bảng danh mục và mã số các đơn vị hành chính Việt Nam |access-date=2026-06-15 |archive-date=2026-06-15 |archive-url=https://web.archive.org/web/20260615034519/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/19ttg.signed.pdf |url-status=dead | website = Cổng Thông tin điện tử Chính phủ}}</ref> 
+| web = {{url|ankhanh.hanoi.gov.vn}}
+| vĩ độ = 21.00305397402048| kinh độ = 105.7180035146319| phân chia hành chính = | bản đồ 1 = {{maplink|frame=yes|plain=yes|type=shape|frame-width=280|frame-align=center|stroke-width=3}}|trụ sở Đảng ủy=Thôn An Hạ}}
+{{other|An Khánh (định hướng)}}
+'''An Khánh''' là một [[xã (Việt Nam)|xã]] thuộc thành phố [[Hà Nội]], [[Việt Nam]].
+
+== Địa lý== 
+Xã An Khánh có vị trí địa lý:
+*Phía đông giáp phường [[Tây Mỗ]] và phường [[Dương Nội]]
+*Phía tây giáp xã [[Quốc Oai (xã)|Quốc Oai]] với ranh giới là [[sông Đáy]]
+*Phía nam giáp xã [[Hưng Đạo, Hà Nội|Hưng Đạo]] và phường [[Yên Nghĩa]]
+*Phía bắc giáp xã [[Sơn Đồng]] với ranh giới là [[đại lộ Thăng Long]].<ref>{{Chú thích web |last=Viện nghiên cứu Phát triển kinh tế – xã hội Hà Nội |date=2025-07-02 |title=Xã An Khánh: Những thông tin chi tiết sau sắp xếp |url=https://hanoionline.vn/xa-an-khanh-nhung-thong-tin-chi-tiet-sau-sap-xep-344201.htm |url-status=dead |archive-url=https://web.archive.org/web/20260807400809/https://hanoionline.vn/xa-an-khanh-nhung-thong-tin-chi-tiet-sau-sap-xep-344201.htm |archive-date=2026-08-07 |access-date=2026-08-07 |website=Cơ quan Báo và Phát thanh Truyền hình Hà Nội}}</ref><ref>{{Chú thích web |last=Cơ quan Báo và Phát thanh Truyền hình Hà Nội |date=2025-07-07 |title=Xã An Khánh: Tất cả thông tin chỉ dẫn bạn cần biết |url=https://hanoionline.vn/xa-an-khanh-tat-ca-thong-tin-chi-dan-ban-can-biet-345186.htm |url-status=dead |archive-url=https://web.archive.org/web/20260807401509/https://hanoionline.vn/xa-an-khanh-tat-ca-thong-tin-chi-dan-ban-can-biet-345186.htm |archive-date=2026-08-07 |access-date=2026-08-07}}</ref>
+Xã An Khánh có diện tích tự nhiên là 28,69&nbsp;km<sup>2</sup>, quy mô dân số năm 2025 là 102.136 người và mật độ dân số đạt 3.559 người/km<sup>2</sup>.<ref>{{Chú thích web |last=Mai Hữu |date=2026-04-05 |title=Hà Nội: Chi tiết phương án tổng thể sắp xếp đơn vị hành chính cấp xã |url=https://hanoimoi.vn/ha-noi-chi-tiet-phuong-an-tong-the-sap-xep-don-vi-hanh-chinh-cap-xa-700278.html |url-status=bot: unknown |archive-url=https://web.archive.org/web/20250710163328/https://hanoimoi.vn/ha-noi-chi-tiet-phuong-an-tong-the-sap-xep-don-vi-hanh-chinh-cap-xa-700278.html |archive-date=2025-07-10 |access-date=2026-07-08 |website=Cơ quan Báo và Phát thanh, truyền hình Hà Nội}}</ref><ref>Công văn số 2896/BNV-CQĐP ngày 27 tháng 5 năm 2025 của Bộ Nội vụ về việc cung cấp thông tin danh mục dự kiến đơn vị hành chính cấp xã mới.</ref>
+
+== Lịch sử==
+
+=== Trước năm 1976 ===
+Ngày [[21 tháng 4]] năm [[1965]], xã An Khánh, huyện [[Hoài Đức (huyện)|Hoài Đức]] thuộc tỉnh [[Hà Tây (tỉnh)|Hà Tây]] mới thành lập do hợp nhất hai tỉnh [[Hà Đông (tỉnh)|Hà Đông]] và [[Sơn Tây (tỉnh Việt Nam)|Sơn Tây]].
+
+Ngày [[27 tháng 12]] năm [[1975]], xã An Khánh, huyện [[Hoài Đức (huyện)|Hoài Đức]] thuộc tỉnh [[Hà Sơn Bình]] mới thành lập do hợp nhất hai tỉnh [[Hà Tây (tỉnh)|Hà Tây]] và [[Hòa Bình (tỉnh)|Hòa Bình]].
+
+=== Giai đoạn 1976 – nay ===
+Sau ngày 2 tháng 7 năm 1976, 7 xã: An Khánh, An Thượng, Dương Nội, Đông La, La Phù, Song Phương và Vân Côn thuộc huyện [[Hoài Đức (huyện)|Hoài Đức]] của tỉnh [[Hà Sơn Bình]].
+
+Ngày 29 tháng 12 năm 1978, sáp nhập huyện [[Hoài Đức (huyện)|Hoài Đức]] của tỉnh [[Hà Sơn Bình]] vào thành phố [[Hà Nội]]. Khi đó, 7 xã: An Khánh, An Thượng, Dương Nội, Đông La, La Phù, Song Phương và Vân Côn thuộc huyện [[Hoài Đức (huyện)|Hoài Đức]] của thành phố [[Hà Nội]].<ref>Nghị quyết ngày 29 tháng 12 năm 1978 của Quốc hội khóa VI, Kỳ họp thứ 4 phê chuẩn việc phân vạch lại địa giới thành phố Hà Nội, thành phố Hồ Chí Minh, các tỉnh Hà Sơn Bình, Vĩnh Phú, Cao Lạng, Bắc Thái, Quảng Ninh và Đồng Nai.</ref>
+
+Ngày 12 tháng 8 năm 1991, chia tỉnh [[Hà Sơn Bình]] thành 2 tỉnh, lấy tên là tỉnh [[Hòa Bình (tỉnh)|Hòa Bình]] và tỉnh [[Hà Tây (tỉnh)|Hà Tây]]. Chuyển huyện [[Hoài Đức (huyện)|Hoài Đức]] của thành phố [[Hà Nội]] về tỉnh [[Hà Tây (tỉnh)|Hà Tây]]. Khi đó, 7 xã: An Khánh, An Thượng, Dương Nội, Đông La, La Phù, Song Phương và Vân Côn thuộc huyện [[Hoài Đức (huyện)|Hoài Đức]] của tỉnh [[Hà Tây (tỉnh)|Hà Tây]].<ref>Nghị quyết ngày 12 tháng 8 năm 1991 của Quốc hội khóa VIII, Kỳ họp thứ 9 về việc điều chỉnh địa giới hành chính một số tỉnh, thành phố trực thuộc Trung ương.</ref>
+
+Ngày 4 tháng 1 năm 2006, chuyển toàn bộ xã Dương Nội thuộc huyện [[Hoài Đức (huyện)|Hoài Đức]] về thị xã [[Hà Đông (quận)|Hà Đông]] quản lý.<ref>Nghị định số 1/2006/NĐ-CP ngày 4 tháng 1 năm 2006 của Chính phủ về việc điều chỉnh địa giới hành chính, mở rộng thị xã Hà Đông, tỉnh Hà Tây.</ref>
+
+Ngày 27 tháng 12 năm 2006, thành lập thành phố [[Hà Đông (quận)|Hà Đông]] trên cơ sở toàn bộ diện tích tự nhiên, dân số và các đơn vị hành chính trực thuộc của thị xã [[Hà Đông (quận)|Hà Đông]]. Khi đó, xã Dương Nội thuộc thành phố [[Hà Đông (quận)|Hà Đông]].<ref name="ND1552">{{Chú thích web |tựa đề=Nghị định số 155/2006/NĐ-CP ngày 27 tháng 12 năm 2006 của Chính phủ về việc thành lập thành phố Hà Đông thuộc tỉnh Hà Tây |url=https://chinhphu.vn/default.aspx?pageid=27160&docid=18995 |url-status=dead |archive-url=https://web.archive.org/web/20260804201510/https://chinhphu.vn/default.aspx?pageid=27160&docid=18995 |archive-date=2026-08-04 |access-date=2026-08-04 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+
+Ngày 29 tháng 5 năm 2008, hợp nhất tỉnh [[Hà Tây (tỉnh)|Hà Tây]] vào thành phố [[Hà Nội]]. Khi đó, 6 xã: An Khánh, An Thượng, Đông La, La Phù, Song Phương và Vân Côn thuộc huyện [[Hoài Đức (huyện)|Hoài Đức]]; xã Dương Nội thuộc thành phố [[Hà Đông (quận)|Hà Đông]] của thành phố [[Hà Nội]].<ref>Nghị quyết số 15/2008/QH12 ngày 29 tháng 5 năm 2008 của Quốc hội khóa XII, Kỳ họp thứ 3 về việc điều chỉnh địa giới hành chính thành phố Hà Nội và một số tỉnh có liên quan.</ref>
+
+Ngày 8 tháng 5 năm 2009:
+
+* Thành lập quận [[Hà Đông (quận)|Hà Đông]] trên cơ sở thành phố [[Hà Đông (quận)|Hà Đông]].
+* Thành lập phường Dương Nội trên cơ sở xã Dương Nội.<ref name="19/NQ-CP">{{Chú thích web |tác giả= |họ= |tên= |ngày= |tựa đề=Nghị quyết số 19/NQ-CP ngày 8 tháng 5 năm 2009 của Chính phủ về việc xác lập địa giới hành chính xã Đông Xuân thuộc huyện Quốc Oai; các xã Tiến Xuân, Yên Bình, Yên Trung thuộc huyện Thạch Thất; huyện Mê Linh thuộc thành phố Hà Nội; thành lập quận Hà Đông và các phường trực thuộc; chuyển thành phố Sơn Tây thành thị xã Sơn Tây thuộc thành phố Hà Nội |url=https://chinhphu.vn/default.aspx?pageid=27160&docid=86463 |url-status=dead |url lưu trữ=https://web.archive.org/web/20260809201510/https://chinhphu.vn/default.aspx?pageid=27160&docid=86463 |ngày lưu trữ=2026-08-09 |ngày truy cập=2026-08-09 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+
+Ngày 16 tháng 6 năm 2025:
+
+* Kết thúc hoạt động của đơn vị hành chính cấp huyện trong cả nước.<ref>{{Chú thích web |last= |date= |title=Nghị quyết số 203/2025/QH15 ngày 16 tháng 6 năm 2025 của Quốc hội khóa XV, Kỳ họp thứ 9 về việc sửa đổi, bổ sung một số điều của Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/nq-sua-doi-hien-phap.pdf |url-status=live |archive-url=https://web.archive.org/web/20260613090807/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/nq-sua-doi-hien-phap.pdf |archive-date=2026-06-13 |access-date=2026-06-13 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+* Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của xã Đông La (huyện [[Hoài Đức (huyện)|Hoài Đức]]), phần còn lại của phường Dương Nội (quận [[Hà Đông (quận)|Hà Đông]]), phần còn lại của xã An Khánh, phần còn lại của xã La Phù và phần còn lại của các xã Song Phương, Vân Côn, An Thượng (huyện [[Hoài Đức (huyện)|Hoài Đức]]) thành xã mới có tên gọi là xã An Khánh.<ref>{{Chú thích web |title=Nghị quyết số 1656/NQ-UBTVQH15 ngày 16 tháng 6 năm 2025 của Ủy ban Thường vụ Quốc hội về việc sắp xếp các đơn vị hành chính cấp xã của thành phố Hà Nội năm 2025 |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf |url-status=bot: unknown |archive-url=https://web.archive.org/web/20260513110024/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf |archive-date=2026-05-13 |access-date=2026-06-30 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+* Sau khi sắp xếp, xã An Khánh được chia thành 38 tổ dân phố – thôn, gồm 4 tổ dân phố và 34 thôn.<ref>3 thôn: Đông Lao, Đồng Nhân và La Tinh của xã Đông La cũ; một phần của tổ dân phố Trung Bình của phường Dương Nội cũ; 11 tổ dân phố – thôn, gồm 4 tổ dân phố, đánh số từ 2 đến 5 và 7 thôn: An Bình, An Thọ, Ngãi Cầu, Phú Vinh, Trường An, Vân Lũng, Yên Lũng của xã An Khánh cũ; 11 thôn: Chùa Tổng, Đấu Tranh, Đoàn Kết, Độc Lập, Hoa Thám, Minh Khai, Quyết Tiến, Thắng Lợi, Thống Nhất, Tiền Phong và Trần Phú của xã La Phù cũ; 8 thôn: Cát Thuế, Cù Sơn, Linh Thượng, Mộc Hoàn Đình, Mộc Hoàn Giáo, Phương Quan, Quyết Tiến và Vân Côn của xã Vân Côn cũ; 5 thôn: An Hạ, Đào Nguyên, Lại Dụ, Ngự Câu và Thanh Quang của xã An Thượng cũ.</ref><ref>{{Chú thích web |title=Thông tư số 10/2022/TT-BTNMT ngày 29 tháng 9 năm 2022 của Bộ Tài nguyên và Môi trường về việc Ban hành Danh mục địa danh dân cư, sơn văn, thủy văn, kinh tế – xã hội phục vụ công tác thành lập bản đồ thành phố Hà Nội |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2022/10/10-btnmt.pdf |url-status=live |archive-url=https://web.archive.org/web/20260630400809/https://datafiles.chinhphu.vn/cpp/files/vbpq/2022/10/10-btnmt.pdf |archive-date=2026-06-30 |access-date=2026-06-30 |website=Cổng Thông tin điện tử Chính phủ}}</ref><ref>{{Chú thích web |last=Trang Thông tin điện tử xã An Khánh – thành phố Hà Nội |date=2026-03-15 |title=Danh sách người ứng cử Đại biểu Hội đồng Nhân dân xã An Khánh nhiệm kỳ 2026 – 2031 |url=https://ankhanh.hanoi.gov.vn/thong-bao/danh-sach-nguoi-ung-cu-dai-bieu-hoi-dong-nhan-dan-xa-an-khanh-nhiem-ky-2026-2031-2777260228002756727.htm |url-status=dead |archive-url=https://web.archive.org/web/20260808201510/https://ankhanh.hanoi.gov.vn/thong-bao/danh-sach-nguoi-ung-cu-dai-bieu-hoi-dong-nhan-dan-xa-an-khanh-nhiem-ky-2026-2031-2777260228002756727.htm |archive-date=2026-08-08 |access-date=2026-08-08 |website=}}</ref>
+Ngày 17 tháng 7 năm 2025, đổi tên thôn Quyết Tiến (xã Vân Côn cũ) thành thôn Quyết Thắng; ghép các khu vực dân cư tại khu đô thị sinh thái Bảo Sơn, khu đô thị Hoa Phượng, khu đô thị mới hai bên đường Lê Trọng Tấn – khu B vào thôn Trường An (xã An Khánh cũ); ghép khu vực dân cư thuộc 2 tòa nhà T3 và T4 thuộc chung cư Thăng Long Capital vào tổ dân phố 2 (xã An Khánh cũ); ghép khu vực dân cư Ba Lương (xã Song Phương cũ) vào thôn Mộc Hoàn Giáo (xã Vân Côn cũ); ghép khu vực dân cư tại khu nhà thấp tầng thuộc dự án Khu đô thị mới hai bên đường Lê Trọng Tấn – Khu A (Lô A2, A7, A8, A9) vào tổ dân phố 4 (xã An Khánh cũ); ghép khu vực dân cư Trung Bình (phường Dương Nội cũ) vào thôn Chùa Tổng (xã La Phù cũ).<ref>1. Đổi tên thôn Quyết Tiến (xã Vân Côn cũ) thành thôn Quyết Thắng; 2. Ghép các khu vực dân cư tại khu đô thị sinh thái Bảo Sơn, khu đô thị Hoa Phượng, khu đô thị mới hai bên đường Lê Trọng Tấn – khu B vào thôn Trường An (xã An Khánh cũ), sau sắp xếp thành thôn mới là thôn Thôn Trường An; 3. Ghép khu vực dân cư thuộc 2 tòa nhà T3 và T4 thuộc chung cư Thăng Long Capital vào Tổ dân phố số 2 (xã An Khánh cũ), sau sắp xếp thành Tổ dân phố mới có tên là Tổ dân phố số 2; 4. Ghép khu vực dân cư Ba Lương (xã Song Phương cũ) vào thôn Mộc Hoàn Giáo (xã Vân Côn cũ), sau sắp xếp thành thôn mới có tên là thôn Mộc Hoàn Giáo; 5. Ghép khu vực dân cư tại khu nhà thấp tầng thuộc dự án Khu đô thị mới hai bên đường Lê Trọng Tấn – Khu A (Lô A2, A7, A8, A9) vào Tổ dân phố số 4 (xã An Khánh cũ), sau sắp xếp tên, thành Tổ dân phố mới có tên là Tổ dân phố số 4, xã An Khánh; 7. Ghép khu vực dân cư Trung Bình (phường Dương Nội cũ) vào thôn Chùa Tổng (xã La Phù cũ), sau sắp xếp tên, thành thôn mới có tên là thôn Chùa Tổng.</ref><ref>{{Chú thích web |last=Phương Lan |date=2025-12-08 |title=Kỳ họp thứ ba (Kỳ họp thường lệ) Hội đồng nhân dân xã An Khánh khóa XXI, nhiệm kỳ 2021 – 2026 |url=https://ankhanh.hanoi.gov.vn/hoat-dong-khoi-chinh-quyen/ky-hop-thu-ba-ky-hop-thuong-le-hdnd-xa-an-khanh-khoa-xxi-nhiem-ky-2021-2026-2777251209101129734.htm |url-status=dead |archive-url=https://web.archive.org/web/20260809201510/https://ankhanh.hanoi.gov.vn/hoat-dong-khoi-chinh-quyen/ky-hop-thu-ba-ky-hop-thuong-le-hdnd-xa-an-khanh-khoa-xxi-nhiem-ky-2021-2026-2777251209101129734.htm |archive-date=2026-08-09 |access-date=2026-08-09 |website=Trang Thông tin điện tử xã An Khánh – thành phố Hà Nội}}</ref><ref>{{Chú thích web |last=Phương Lan |date=2025-12-08 |title=An Khánh hoàn thành việc đổi tên thôn, ghép các khu dân cư vào thôn, tổ dân phố trên địa bàn xã |url=https://ankhanh.hanoi.gov.vn/thong-tin-tuyen-truyen/an-khanh-hoan-thanh-viec-doi-ten-thon-ghep-cac-khu-dan-cu-vao-thon-to-dan-pho-tren-dia-ban-xa-2777260109084320649.htm |url-status=dead |archive-url=https://web.archive.org/web/20260808201510/https://ankhanh.hanoi.gov.vn/thong-tin-tuyen-truyen/an-khanh-hoan-thanh-viec-doi-ten-thon-ghep-cac-khu-dan-cu-vao-thon-to-dan-pho-tren-dia-ban-xa-2777260109084320649.htm |archive-date=2026-08-08 |access-date=2026-08-08 |website=Trang Thông tin điện tử xã An Khánh – thành phố Hà Nội}}</ref>
+
+Ngày 24 tháng 12 năm 2025, xác định một phần của xã An Khánh là [[Đô thị Việt Nam|đô thị loại II]].<ref>Chuyển tiếp từ phường Dương Nội thuộc quận Hà Đông.</ref><ref>{{Chú thích web |title=Nghị quyết số 111/2025/UBTVQH15 ngày 24 tháng 12 năm 2025 của Ủy ban Thường vụ Quốc hội về phân loại đô thị|url=https://cdn.nhandan.vn/files/f4a4abf7f9a0ba4a91744616546d850872b76917f90d5a74cc9eebef1369fb6f/111.pdf|url-status=dead|archive-url=https://web.archive.org/web/20260712401509/https://cdn.nhandan.vn/files/f4a4abf7f9a0ba4a91744616546d850872b76917f90d5a74cc9eebef1369fb6f/111.pdf|archive-date=2026-07-12|access-date=2026-07-12|website=Báo Nhân dân}}</ref>
+
+Ngày 16 tháng 6 năm 2026, thành lập 10 thôn mới: Trường An, Thanh Quang, Cát Thuế, Mộc Hoàn, Vân Côn, Phương Quan, Minh Khai, Tiền Phong, Thống Nhất và Hoa Thám.<ref name=":1">1. Sáp nhập các thôn An Bình và Trường An thành thôn Trường An; 2. Sáp nhập các thôn Lại Dụ và Thanh Quang thành thôn Thanh Quang; 3. Sáp nhập các thôn Quyết Thắng và Cát Thuế thành thôn Cát Thuế; 4. Sáp nhập các thôn Mộc Hoàn Giáo và Mộc Hoàn Đình thành thôn Mộc Hoàn; 5. Sáp nhập các thôn Linh Thượng và Vân Côn thành thôn Vân Côn; 6. Sáp nhập các thôn Phương Quan và Cù Sơn thành thôn Phương Quan; 7. Sáp nhập các thôn Chùa Tổng, Minh Khai và Trần Phú thành thôn Minh Khai; 8. Sáp nhập các thôn Đấu Tranh, Tiền Phong và Đoàn Kết thành thôn Tiền Phong; 9. Sáp nhập các thôn Thống Nhất, Quyết Tiến và Thắng Lợi thành thôn Thống Nhất; 10. Sáp nhập các thôn Hoa Thám và Độc Lập thành thôn Hoa Thám; 11. 11 thôn và 4 tổ dân phố gồm An Thọ, Phú Vinh, Yên Lũng, Vân Lũng, Ngãi Cầu, Đào Nguyên, Ngự Câu, An Hạ, Đông Lao, Đồng Nhân, La Tinh cùng các tổ dân phố số 2, số 3, số 4 và số 5 tiếp tục giữ nguyên.</ref><ref name=":2">{{Chú thích web |last=Ngọc Ánh |date=2026-06-16 |title=Xã An Khánh sắp xếp còn 25 thôn, tổ dân phố |url=https://hanoionline.vn/xa-an-khanh-sap-xep-con-25-thon-to-dan-pho-403736.htm |url-status=dead |archive-url=https://web.archive.org/web/20260808201510/https://hanoionline.vn/xa-an-khanh-sap-xep-con-25-thon-to-dan-pho-403736.htm |archive-date=2026-08-08 |access-date=2026-08-08 |website=Cơ quan Báo và Phát thanh Truyền hình Hà Nội}}</ref><ref name=":0">{{Chú thích web |last=Nguyễn Thanh Bình |date=2026-07-01 |title=Xã An Khánh kiện toàn hệ thống chính trị cơ sở sau sắp xếp thôn, tổ dân phố |url=https://www.thanhuyhanoi.vn/tin-tuc/xa-an-khanh/xa-an-khanh-kien-toan-he-thong-chinh-tri-co-so-sau-sap-xep-thon-to-dan-pho-50047687.html |url-status=dead |archive-url=https://web.archive.org/web/20260808201510/https://www.thanhuyhanoi.vn/tin-tuc/xa-an-khanh/xa-an-khanh-kien-toan-he-thong-chinh-tri-co-so-sau-sap-xep-thon-to-dan-pho-50047687.html |archive-date=2026-08-08 |access-date=2026-08-08 |website=Trang Thông tin điện tử Đảng bộ thành phố Hà Nội}}</ref>
+
+== Hành chính==
+Xã An Khánh được chia thành 25 tổ dân phố – thôn, gồm 4 tổ dân phố, đánh số từ 2 đến 5 và 21 thôn: An Hạ, An Thọ, Cát Thuế, Đào Nguyên, Đông Lao, Đồng Nhân, Hoa Thám, La Tinh, Minh Khai, Mộc Hoàn, Ngãi Cầu, Ngự Câu, Phú Vinh, Phương Quan, Thanh Quang, Thống Nhất, Tiền Phong, Trường An, Vân Côn, Vân Lũng, Yên Lũng.<ref name=":2" /><ref name=":0" />
+{| class="wikitable sortable" cellpadding="0" cellspacing="6" width="100%" align="center" style="background: #f9f9f9; border: 1px #aaa solid; margin-top: 16px"
+! colspan="4" style="background: #E6E6FA; font-size: 95%;" |Danh sách các tổ dân phố – thôn thuộc xã An Khánh<ref name=":2" /><ref name=":0" />
+|-
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| cellpadding="1" cellspacing="1" width="100%" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+|-
+| colspan="4" align="left" style="background: #F5F5DC; padding-left: 30px;" |'''Tổ dân phố (4)'''
+|-
+| align="left" |Tổ dân phố 2
+|-
+| align="left" |Tổ dân phố 3
+|-
+| align="left" |Tổ dân phố 4
+|-
+| align="left" |Tổ dân phố 5
+|-
+| colspan="4" align="left" style="background: #F5F5DC; padding-left: 30px;" |'''Thôn (21)'''
+|-
+| align="left" |An Hạ
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| cellpadding="1" cellspacing="1" width="100%" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+|-
+| align="left" |An Thọ
+|-
+| align="left" |Cát Thuế
+|-
+| align="left" |Đào Nguyên
+|-
+| align="left" |Đông Lao
+|-
+| align="left" |Đồng Nhân
+|-
+| align="left" |Hoa Thám
+|-
+| align="left" |La Tinh
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| cellpadding="1" cellspacing="1" width="100%" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+|-
+| align="left" |Minh Khai
+|-
+| align="left" |Mộc Hoàn
+|-
+| align="left" |Ngãi Cầu
+|-
+| align="left" |Ngự Câu
+|-
+| align="left" |Phú Vinh
+|-
+| align="left" |Phương Quan
+|-
+| align="left" |Thanh Quang
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| cellpadding="1" cellspacing="1" width="100%" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+|-
+| align="left" |Thống Nhất
+|-
+| align="left" |Tiền Phong
+|-
+| align="left" |Trường An
+|-
+| align="left" |Vân Côn
+|-
+| align="left" |Vân Lũng
+|-
+| align="left" |Yên Lũng
+|}
+|}
+
+== Tín ngưỡng, tôn giáo và văn hoá ==
+[[Tập tin:Vân Côn, những cô gái hàng đô.JPG| nhỏ|trái| Những cô gái hàng đô]]
+Trên địa bàn xã các thôn Cát Thuế, Cù Sơn, Đông Lao, Đồng Nhân, La Phù, La Tinh, Lại Dụ, Linh Thượng, Mộc Hoàn Đình, Mộc Hoàn Giáo, Phương Quan, Thanh Quang, Vân Lũng có một phần người dân theo [[Kitô giáo|đạo Thiên chúa]].
+
+Đình và chùa trên địa bàn xã đã được nhà nước xếp hạng công nhận là di tích lịch sử văn hoá.
+
+Hội làng Vân tổ chức 5 năm một lần, 2 lần trong 1 thập niên. Hội làng Vân nổi tiếng về rước kiệu đẹp và đặc sắc nhất cả nước. Chính nét đặc sắc riêng của hội làng Vân nên vào mỗi dịp lễ hội, hội làng Vân thường có số lượt người chơi hội đông nhất vùng. Hội làng Vân cũng có tính ảnh hưởng trong khu vực. Có thời còn làm cho phong trào mua sắm kiệu và tổ chức rước kiệu lan rộng khắp địa phương xung quanh. Họ cùng nhau sắm kiệu để cũng được rước kiệu giống hội làng Vân.
+
+Ngoài ra, vào những dịp trung thu, người dân địa phương còn tổ chức rước kiệu phá cỗ mừng trung thu.
+
+== Giáo dục== 
+Các trường mần non trên địa bàn xã:
+
+* Trường Mầm non Vân Côn A: Thôn Quyết Thắng
+* Trường Mầm non Vân Côn B: Đường Vân Côn, thôn Vân Côn
+* Trường Mầm non Vân Côn C: Thôn Mộc Hoàn Giáo
+* Trường Mầm non An Thượng A: Số 98, đường An Thượng, thôn An Hạ
+* Trường Mầm non An Thượng B: Số 8, đường An Hạ 4, thôn An Hạ
+* Trường Mầm non An Khánh A: Đường Nam Vân Lũng, thôn Vân Lũng
+* Trường Mầm non An Khánh B: Phố Đông, thôn Ngãi Cầu
+* Trường Mầm non An Khánh C: Số 111, đường An Thọ, thôn An Thọ
+* Trường Mầm non Đông La A: Thôn Đông Lao
+* Trường Mầm non Đông La B: Số 2, đường La Tinh 1, thôn Đồng Nhân
+* Trường Mầm non La Phù: Số 1, đường Tiền Phong, thôn Tiền Phong
+
+Các trường tiểu học học trên địa bàn xã:
+
+* Trường Tiểu học Vân Côn: Đường Vân Côn, thôn Mộc Hoàn Giáo
+* Trường Tiểu học An Thượng A: Số 65, đường Ngự Câu 2, thôn Ngự Câu
+* Trường Tiểu học An Thượng B: Đường An Thượng, thôn Thanh Quang
+* Trường Tiểu học An Khánh A: Số 93, đường An Khánh, thôn An Thọ
+* Trường Tiểu học An Khánh B: Thôn Ngãi Cầu
+* Trường Tiểu học Đông La: Thôn Đông Lao
+* Trường Tiểu học La Phù: Số 208, đường La Phù, thôn Chùa Tổng
+
+== Nhân vật nổi bật==
+
+* Thượng tướng [[Nguyễn Doãn Anh]] (sinh năm [[1967]]): [[Phó Chủ tịch Quốc hội Việt Nam|Phó Chủ tịch Quốc hội]], nguyên Phó [[Tổng tham mưu trưởng Quân đội nhân dân Việt Nam|Tổng Tham mưu trưởng Quân đội Nhân dân Việt Nam]], nguyên Bí thư [[Tỉnh ủy Thanh Hóa]]. Quê ở thôn An Hạ.
+* [[Tạ Anh Tuấn]] (sinh năm [[1969]]): Thứ trưởng [[Bộ Tài chính (Việt Nam)|Bộ Tài chính]], nguyên Chủ tịch UBND tỉnh [[Phú Yên (tỉnh)|Phú Yên]], nguyên Chủ tịch UBND tỉnh [[Đắk Lắk]].
+* Nguyễn Công Triều ([[1614]] – [[1690]]): Vị quan thời nhà [[Nhà Hậu Lê|Hậu Lê]], được phong là Đặc tiến Phụ quốc, Bắc quân Đô đốc phủ, Đề đốc trấn vũ, Tứ vệ quân vụ sự kiêm quân công, Thượng trụ quốc, Tổng Thái giám. Quê ở thôn Đông Lao.<ref>{{Chú thích web | last = MEDIATECH | title = Nặng lòng với quê hương | url = https://baobinhphuoc.com.vn/news/376/115969/nang-long-voi-que-huong | access-date = 2025-08-02 | website = baobinhphuoc.com.vn | language = vi}}</ref>
+* Nguyễn Thế Lịch ([[1748]] – [[1817]]): Vị quan thời nhà [[Nhà Lê trung hưng|Lê trung hưng]] và nhà Tây Sơn, Bồi tụng kiêm Thái y, Thượng thư bộ Lại. Đỗ tiến sĩ năm Ất Mùi (1775). Quê ở thôn An Thọ.<ref>{{Chú thích web | last = nguoihanoi.vn | date = 2023-04-27 | title = Nhà thờ họ Nguyễn Thế (huyện Hoài Đức) | url = https://nguoihanoi.vn/nha-tho-ho-nguyen-the-huyen-hoai-duc-71490.html | access-date = 2025-08-22 | website = Tạp chí Người Hà Nội | language = vi}}</ref>
+
+<!-- 
+== Các đơn vị hành chính== 
+=== Đào Nguyên=== 
+#Là thôn gò nên không bao giờ bị thiệt hại bởi thiên tai, ngay cả trận mưa lụt lịch sử hồi tháng 10, 11 năm 2008 vừa qua. Có Trạm bơm lớn nhất vùng tiêu úng cho hai huyện Hoài Đức và Từ Liêm
+#Gồm khu chính (khu dân cư, chủ yếu ở ven đê sông Đáy) và 2 khu đất nông nghiệp nhỏ
+#Giao thông: là thôn có đường Láng - Hòa Lạc (Đại lộ Thăng Long) chạy qua và nhiều đường đô thị nên thôn có nhiều lợi thế về giao thông, thuận lợi về giao thương. Đường Đê Tả Đáy được bê tông hoá với 2 làn đường riêng biệt, mỗi làn rộng 4m.
+#Vị trí: tiếp giáp với xã Song Phương, xã An Khánh, xã Vân Côn và thôn Ngự Câu, thôn Thanh Quang, thôn An Hạ (xã An Thượng).
+#[[Lễ hội làng Đào Nguyên| Hội làng]]: 10 – 2 âm lịch.Trong hội có tổ chức rước kiệu hàng năm, 5 năm rước lớn 1 lần.
+#Nằm trong vùng đô thị Nam An Khánh, Nam An Khánh mở rộng, khu đô thị An Khánh – An Thượng, Đại lộ Thăng Long (Đường cao tốc Láng-Hòa Lạc) rộng 140m với 8 làn cao tốc, 6 làn đô thị và nhiều làn đường dự trữ tương lai, 2 làn đường sắt đô thị chuẩn bị xây dựng; dự án đường [[Vành đai 4]]. Ngã tư đường Láng Hòa - Lac với đường Vành đai 4 là ngã tư hoàn chỉnh không có giao cắt khi chuyển hướng với 1 cầu vượt, 4 vòng tròn cho xe rẽ trái không cắt mặt xe khác, tổng diện tích lên đến gần 20 ha, nằm trên ngã 3 của 3 xã An Thượng, An Khánh, Song Phương.
+
+=== Ngự Câu=== 
+''Vị trí: tiếp giáp xã An Khánh, xã Vân Côn, thôn Đào Nguyên và An Hạ (xã An Thượng) và một khu đất thuộc đường Láng - Hòa Lạc giáp xã Song Phương.''
+#Hội làng: 12 – 1 âm lịch. Làng có kiệu rước thành hoàng lớn thứ 3 cả nước. Hội chính tổ chức 05 năm 01 lần từ ngày 10/1 đến 15/1 âm lịch, lượng người tham dự khoảng 200.000 lượt người. Đặc biệt, trong lễ hội ngoài phần Lễ là phần Hội, đó là Hội Cờ người là nét đặc trưng từ rất lâu đời của riêng làng Ngự Câu. Hội cờ người Ngự Câu là Hội cờ nổi tiếng, thu hút rất nhiều kỳ thủ nổi tiếng cả nước. Năm 2011 và 2016, Trạng cờ Quý Tỵ (2013) Phạm Quốc Hương đều tham dự và đều bị kích bại bởi các hảo thủ của khu vực, ngậm ngùi chấp nhận Á quân.
+#Nằm trong vùng [[đô thị]] [[Nam An Khánh]], Nam An Khánh mở rộng, khu đô thị An Khánh – An Thượng.
+#Là một làng nghề tráng bánh đa nem cung cấp cho cả miền bắc và giải quyết công ăn việc làm cho các lao động nhàn rỗi nhiều hộ gia đình còn làm giàu từ nghề này. Ngoài ra làng còn có nghề nấu rượu gạo rất nổi tiếng có từ thời Pháp mới sang đô hộ nước ta. hiện Ngự Câu là một trong những thôn văn hóa tiêu biểu của xã An Thượng cả về kinh tế.
+
+=== An Hạ=== 
+#Vị trí: tiếp giáp xã An Khánh (thôn Ngãi Cầu), xã Vân Côn, thôn Ngự Câu và Thanh Quang (xã An Thượng).Có đường tỉnh lộ 423(đường 72) chạy qua, thuận tiện về giao thông.
+#Hội làng: 12 – 1 âm lịch..Trong hội có tổ chức rước kiệu hàng năm, 5 năm rước lớn 1 lần, kiệu bay thiêng nhất. Đây là hội đông vui nhất trong vùng.
+#Là thôn có diện tích lớn nhất xã.
+#Nằm trong vùng giải toả của khu đô thị Nam An Khánh mở rộng.
+
+=== Thanh Quang=== 
+# Vị trí: tiếp giáp thôn Ngãi Cầu (xã An Khánh), thôn An Hạ và Lại Dụ (xã An Thượng).
+#Hội làng: 12 – 1 âm lịch.
+#Tiếp giáp với đường quốc lộ 72, thuận tiện về giao thông.
+#Là vùng đất gò nên không bao giờ chịu thiệt hại nhiều về thiên tai.
+#Có Chùa Tô Lai Cổ Tích (Chùa Do) linh thiêng và đẹp nhất vùng.
+#Là thôn có diện tích cũng tương đối.
+
+=== Lại Dụ=== 
+#Vị trí: tiếp giáp xã An Khánh (thôn Ngãi Cầu), xã Đông La (thôn Đông Lao), thôn Thanh Quang (xã An Thượng).
+#Hội làng: 12 – 1 âm lịch.
+#Tôn giáo: Chủ yếu là Thiên chúa giáo.
+
+== Điều kiện tự nhiên và cơ sở vật chất== 
+=== Điều kiện tự nhiên=== 
+*Đất đai: đất phù sa mới.
+*Sông ngòi: [[Sông Đáy]] chảy qua địa phận thôn Thanh Quang, thôn Lại Dụ.
+*Không bị thiên tai ảnh hưởng.
+
+=== Cơ sở vật chất=== 
+*Giao thông: đường cao tốc Láng – Hoà Lạc, tỉnh lộ 72 chạy qua, Đường Đê Tả Đáy được bê tông hoá với 2 làn đường riêng biệt, mỗi làn rộng 4m.
+*Cơ sở hạ tầng: trạm bơm Đào Nguyên, trụ sở ủy ban nhân dân xã, trường học.
+
+== Kinh tế== 
+*Kinh tế chủ yếu là làm thuê và nông nghiệp trồng lúa nước và hoa màu. Ngoài ra còn một số loại hình công nghiệp và dịch vụ kinh doanh khác.
+*Tốc độ tăng trưởng kinh tế: tăng dần qua các năm.
+
+== Dân cư, xã hội và tín ngưỡng== 
+=== Dân cư và xã hội=== 
+*Đời sống nhân dân: ổn định
+*Tuổi thọ trung bình: ở mức trung bình.
+*Xã hội: còn xuất hiện một số tệ nạn xã hội như trộm cắp, nghiện hút, hút thuốc lá ở lứa tuổi thiếu niên và chưa thành niên. Nhiều nạn ăn chơi đua đòi, có đê Tả Đấy chạy qua nên có nhiều phần tử xã hội đen hoạt động làm ảnh hưởng xấu tới an ninh.
+:Chính quyền địa phương ít quan tâm đến an ninh nên hiện tượng nhân dân tự ý làm loạn như kinh doanh vũ trường ầm ĩ vượt mức tiếng ồn cho phép nhiều, không có cách âm mà lại không xử lý
+:Tình trạng chiếm đất công, đất nông nghiệp diễn ra công khai, cán bộ chính quyền yếu kém năng lực, tư lợi không có hành động ngăn chặn.
+
+=== Tín ngưỡng=== 
+*Ngoại trừ thôn Đào Nguyên và Ngự Câu không theo đạo các thôn còn lại có môt số dân theo đạo thiên chúa.
+*Chùa Thông và chùa Do: 2 ngôi chùa lớn nhất.
+*Đình và chùa của cả năm thôn đều là di tích lịch sử – văn hoá đã được [[Bộ Văn hóa, Thể thao và Du lịch (Việt Nam)| Bộ Văn hóa, Thể thao và Du lịch]] xếp hạng. Tuy nhiên, chùa Thông và chùa Do được [[Bộ Văn hóa, Thể thao và Du lịch (Việt Nam)| Bộ Văn hóa, Thể thao và Du lịch]] xếp là di tích lịch sử nhưng do chiến tranh thực dân Pháp và Mĩ đã đánh vỡ bia đá xếp hạng. Hiện đang được bộ đánh giá xem xét lại cấp bia đá di tích lịch sử
+ -->
+== Chú thích== 
+{{Tham khảo}}
+
+== Tham khảo ==
+{{sơ khai Hà Nội}}
+{{Đơn vị hành chính thuộc thành phố Hà Nội}}

@@ -1,0 +1,116 @@
+{
+  "ward_code": "00640",
+  "ward_name": "Thanh Trì",
+  "province_code": "01",
+  "resolution": "",
+  "arrangement": "2026_07",
+  "effective_date": "2026-07-01",
+  "verified": "unverified",
+  "extraction": {
+    "source": "vi.wikipedia.org",
+    "title": "(cache)",
+    "mode": "table"
+  },
+  "sources": [
+    {
+      "key": "wiki-00640-1",
+      "title": "Xã Thanh Trì công bố thành lập, sắp xếp lại 19 thôn, tổ dân phố và kiện toàn tổ chức chi bộ trên địa bàn",
+      "url": "https://thanhtri.hanoi.gov.vn/tin-tuc-su-kien/xa-thanh-tri-cong-bo-thanh-lap-sap-xep-lai-19-thon-to-dan-pho-va-kien-toan-to-chuc-chi-bo-tren-dia-ban-2825260701220544819.htm?gidzl=JxeS60Dr8WDBfHWU2Mma1q2Y6niKRoC2MA1E4H1c85e8eHeK56jpN0kaG4T6RtqE2ACIG6Pw_Wig1dGc0G",
+      "date": "2026-07-01",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-00640-2",
+      "title": "Xã Thanh Trì lấy ý kiến nhân dân về phương án sắp xếp, tổ chức lại thôn, tổ dân phố năm 2026",
+      "url": "https://thanhtri.hanoi.gov.vn/tin-tuc-su-kien/xa-thanh-tri-lay-y-kien-nhan-dan-ve-phuong-an-sap-xep-to-chuc-lai-thon-to-dan-pho-nam-2026-2825260613003546426.htm?gidzl=YXVDO7aBYIEE2CbcSnAF9uKFocTk4OWcdGsVRMeOYtxD3CjeRXNOUCu9aJiy4TOgpGx3F6R5BN5oV0gD8G",
+      "date": "2026-06-12",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-00640-3",
+      "title": "Nghị quyết số 111/2025/UBTVQH15 ngày 24 tháng 12 năm 2025 của Ủy ban Thường vụ Quốc hội về phân loại đô thị",
+      "url": "https://cdn.nhandan.vn/files/f4a4abf7f9a0ba4a91744616546d850872b76917f90d5a74cc9eebef1369fb6f/111.pdf",
+      "date": "2026-04-30",
+      "type": "wikipedia-ref"
+    }
+  ],
+  "note": "Trích tự động từ Wikipedia tiếng Việt (mode=table). Cần đối chiếu nghị quyết HĐND phường/xã.",
+  "tdp": [
+    {
+      "name": "Hưng Phúc",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Minh Châu",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Ngũ Hiệp",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Quang Lai",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Quyết Thắng",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Tân Hiệp",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Thanh Bình",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Thanh Trì",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Văn Điển",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Vĩnh Hưng",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Vĩnh Phúc",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Vĩnh Thịnh",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "1 Yên Mỹ",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "2 Yên Mỹ",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Cổ Điển A",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Đồng Trì",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Lưu Phái",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Tứ Hiệp",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Tự Khóat",
+      "type": "tổ dân phố"
+    }
+  ]
+}

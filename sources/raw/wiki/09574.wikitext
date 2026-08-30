@@ -1,0 +1,214 @@
+{{Thông tin đơn vị hành chính Việt Nam|Phường
+| tên = Sơn Tây 
+| hình = Thành cổ Sơn Tây 2021.jpg 
+| ghi chú hình = Cột cờ trong [[Thành cổ Sơn Tây]] 
+| vĩ độ = 21.140997968687934
+| kinh độ = 105.50633884228432
+| diện tích = 23,08 km²
+| dân số = 71.301 người
+| thời điểm dân số = 2025
+| mật độ dân số = {{formatnum:{{#expr:floor({{formatnum:71.301| R}}/{{formatnum:23,08| R}})}} }} người/km²
+| vùng = [[Đồng bằng sông Hồng]]
+| thành phố = [[Hà Nội]]
+| thành lập = 
+| trụ sở UBND = Số 1 phố Phó Đức Chính<ref>{{Chú thích web |url=https://storage-vnportal.vnpt.vn/gov-hni/6244/VanBan/2025/6/25/TB-729-2025.pdf |title=Thông báo số 729/TB-UBND ngày 25 tháng 6 năm 2025 của Ủy ban nhân dân thành phố Hà Nội về địa điểm trụ sở làm việc của 126 phường, xã sau sắp xếp thuộc phạm vi quản lý của thành phố Hà Nội|access-date=2026-06-15 |archive-date=2026-06-15 |archive-url=https://web.archive.org/web/20260615034519/https://storage-vnportal.vnpt.vn/gov-hni/6244/VanBan/2025/6/25/TB-729-2025.pdf |url-status=dead | website = Cổng Thông tin điện tử Ủy ban nhân dân thành phố Hà Nội}}</ref>
+| mã hành chính =09574<ref>{{Chú thích web |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/19ttg.signed.pdf |title=Quyết định số 19/2025/QĐ-TTg ngày 30 tháng 6 năm 2025 của Thủ tướng Chính phủ về việc Ban hành Bảng danh mục và mã số các đơn vị hành chính Việt Nam |access-date=2026-06-15 |archive-date=2026-06-15 |archive-url=https://web.archive.org/web/20260615034519/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/19ttg.signed.pdf |url-status=dead | website = Cổng Thông tin điện tử Chính phủ}}</ref> 
+| mã bưu chính = 
+| web = {{url|sontay.hanoi.gov.vn}}
+|bản đồ 1={{maplink|frame=yes|plain=yes|type=shape|frame-width=280|frame-align=center|stroke-width=3}}|ghi chú logo=Biểu trưng|logo=Seal of Sơn Tây Town.png|trụ sở Đảng ủy=Số 5 Trưng Vương}}
+{{other|Sơn Tây (định hướng)}}
+'''Sơn Tây''' là một [[Phường (Việt Nam)|phường]] thuộc thành phố [[Hà Nội]], [[Việt Nam]].
+
+== Địa lý ==
+Phường Sơn Tây có vị trí địa lý:
+
+* Phía đông giáp xã [[Phúc Lộc, Hà Nội|Phúc Lộc]]
+* Phía tây giáp xã [[Quảng Oai (xã)|Quảng Oai]]
+* Phía nam giáp phường [[Tùng Thiện]] và xã [[Phúc Thọ (xã)|Phúc Thọ]]
+* Phía bắc giáp xã [[Vĩnh Phú (tỉnh)|Vĩnh Phú]] thuộc tỉnh [[Phú Thọ]].<ref>{{Chú thích web |last=Viện nghiên cứu Phát triển kinh tế – xã hội Hà Nội |date=2025-07-02 |title=Phường Sơn Tây: Những thông tin chi tiết sau sắp xếp |url=https://hanoionline.vn/phuong-son-tay-nhung-thong-tin-chi-tiet-sau-sap-xep-344209.htm |url-status=bot: unknown |archive-url=https://web.archive.org/web/20260317115717/https://hanoionline.vn/phuong-son-tay-nhung-thong-tin-chi-tiet-sau-sap-xep-344209.htm |archive-date=2026-03-17 |access-date=2026-07-11 |website=Cơ quan Báo và Phát thanh Truyền hình Hà Nội }}</ref><ref>{{Chú thích web |last=Cơ quan Báo và Phát thanh Truyền hình Hà Nội |date=2025-07-08 |title=Phường Sơn Tây: Tất cả thông tin chỉ dẫn bạn cần biết |url=https://hanoionline.vn/phuong-son-tay-tat-ca-thong-tin-chi-dan-ban-can-biet-345209.htm |url-status=bot: unknown |archive-url=https://web.archive.org/web/20260125000301/https://hanoionline.vn/phuong-son-tay-tat-ca-thong-tin-chi-dan-ban-can-biet-345209.htm |archive-date=2026-01-25 |access-date=2026-07-11 }}</ref>
+
+Phường Sơn Tây có diện tích tự nhiên là 23,08&nbsp;km<sup>2</sup>, quy mô dân số năm 2025 là 71.301 người và mật độ dân số đạt 3.089 người/km<sup>2</sup>.<ref>{{Chú thích web |last=Mai Hữu |date=2026-04-05 |title=Hà Nội: Chi tiết phương án tổng thể sắp xếp đơn vị hành chính cấp xã |url=https://hanoimoi.vn/ha-noi-chi-tiet-phuong-an-tong-the-sap-xep-don-vi-hanh-chinh-cap-xa-700278.html |url-status=bot: unknown |archive-url=https://web.archive.org/web/20250710163328/https://hanoimoi.vn/ha-noi-chi-tiet-phuong-an-tong-the-sap-xep-don-vi-hanh-chinh-cap-xa-700278.html |archive-date=2025-07-10 |access-date=2026-07-11 |website=Cơ quan Báo và Phát thanh, truyền hình Hà Nội }}</ref><ref>Công văn số 2896/BNV-CQĐP ngày 27 tháng 5 năm 2025 của Bộ Nội vụ về việc cung cấp thông tin danh mục dự kiến đơn vị hành chính cấp xã mới.</ref>
+
+== Lịch sử ==
+
+=== Trước năm 1976 ===
+Đất phường Ngô Quyền xưa là vùng đất phía Tây thành cổ, phía cửa Hữu, nằm giữa 2 vòng thành: la thành (bằng đất) và tường thành chính (bằng đá ong) của [[Thành cổ Sơn Tây]]. Các đường phố chính thuộc phường Ngô Quyền gồm: phố Ngô Quyền (phố Hữu Lợi cũ), phố Nguyễn Thái Học (phố Đệ Nhị cũ, hướng thẳng vào cửa cửa Hữu thành cổ, vị trí quyết định cục diện [[trận Sơn Tây (1883)|trận Sơn Tây 1883]]), phố Phùng Hưng. Rìa phía Tây Bắc của phường là đoạn đầu đường Đền Và (xã Tắc, nơi từng diễn ra [[vụ tập kích Sơn Tây]]).
+
+=== Giai đoạn 1976 – nay ===
+Sau ngày 2 tháng 7 năm 1976, 3 xã: Đường Lâm, Thanh Mỹ và Trung Sơn Trầm thuộc huyện [[Ba Vì (huyện)|Ba Vì]]; 3 tiểu khu: Lê Lợi, Ngô Quyền, Quang Trung và 2 xã: Trung Hưng, Viên Sơn thuộc thị xã [[Sơn Tây (thị xã)|Sơn Tây]] của tỉnh [[Hà Sơn Bình]].
+
+Ngày 29 tháng 12 năm 1978, sáp nhập huyện [[Ba Vì (huyện)|Ba Vì]] và thị xã [[Sơn Tây (thị xã)|Sơn Tây]] của tỉnh [[Hà Sơn Bình]] vào thành phố [[Hà Nội]]. Khi đó, 3 xã: Đường Lâm, Thanh Mỹ và Trung Sơn Trầm thuộc huyện [[Ba Vì (huyện)|Ba Vì]]; 3 tiểu khu: Lê Lợi, Ngô Quyền, Quang Trung và 2 xã: Trung Hưng, Viên Sơn thuộc thị xã [[Sơn Tây (thị xã)|Sơn Tây]] của thành phố [[Hà Nội]].<ref>Nghị quyết ngày 29 tháng 12 năm 1978 của Quốc hội khóa VI, Kỳ họp thứ 4 phê chuẩn việc phân vạch lại địa giới thành phố Hà Nội, thành phố Hồ Chí Minh, các tỉnh Hà Sơn Bình, Vĩnh Phú, Cao Lạng, Bắc Thái, Quảng Ninh và Đồng Nai.</ref>
+
+Ngày 3 tháng 1 năm 1981, từ nay các đơn vị hành chính cơ sở ở nội thành, nội thị của các [[Thành phố thuộc tỉnh (Việt Nam)|thành phố thuộc tỉnh]], [[Thị xã (Việt Nam)|thị xã]] và [[Quận (Việt Nam)|quận]] gọi là [[Phường (Việt Nam)|phường]]. Khi đó, 3 phường: Lê Lợi, Ngô Quyền và Quang Trung thuộc thị xã [[Sơn Tây (thị xã)|Sơn Tây]] của thành phố [[Hà Nội]].<ref>Quyết định số 3-CP ngày 3 tháng 1 năm 1981 của Hội đồng Chính phủ về việc thống nhất tên gọi các đơn vị hành chính ở nội thành nội thị.</ref>
+
+Ngày 2 tháng 6 năm 1982, tách các xã Thanh Mỹ, Trung Sơn Trầm, Đường Lâm của huyện [[Ba Vì (huyện)|Ba Vì]] chuyển sang thị xã [[Sơn Tây (thị xã)|Sơn Tây]].<ref>{{Chú thích web |title=Quyết định số 101-HĐBT ngày 2 tháng 6 năm 1982 của Hội đồng Bộ trưởng về việc phân vạch địa giới thị xã Sơn Tây, huyện Ba Vì và huyện Phúc Thọ thuộc thành phố Hà Nội |url=https://chinhphu.vn/default.aspx?pageid=27160&docid=6469 |url-status=live |archive-url=https://web.archive.org/web/20260712401509/https://chinhphu.vn/default.aspx?pageid=27160&docid=6469 |archive-date=2026-07-12 |access-date=2026-07-12 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+
+Ngày 14 tháng 3 năm 1984, cắt 78,2 hécta diện tích tự nhiên và 1648 nhân khẩu của xã Trung Hưng, 25,5 hécta diện tích tự nhiên và 263 nhân khẩu của xã Trung Sơn Trầm, 8,5 hécta diện tích tự nhiên và 9 nhân khẩu của xã Thanh Mỹ để thành lập phường Sơn Lộc.<ref>{{Chú thích web |title=Quyết định số 42-HĐBT ngày 14 tháng 3 năm 1984 của Hội đồng Bộ trưởng về việc phân vạch địa giới một số phường, thị trấn thuộc thành phố Hà Nội |url=https://chinhphu.vn/default.aspx?pageid=27160&docid=6190 |url-status=dead |archive-url=https://web.archive.org/web/20260712401509/https://chinhphu.vn/default.aspx?pageid=27160&docid=6190 |archive-date=2026-07-12 |access-date=2026-07-12 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+
+Ngày 12 tháng 8 năm 1991, chia tỉnh [[Hà Sơn Bình]] thành 2 tỉnh, lấy tên là tỉnh [[Hòa Bình (tỉnh)|Hòa Bình]] và tỉnh [[Hà Tây (tỉnh)|Hà Tây]]. Chuyển thị xã [[Sơn Tây (thị xã)|Sơn Tây]] của thành phố [[Hà Nội]] về tỉnh [[Hà Tây (tỉnh)|Hà Tây]]. Khi đó, 4 phường: Lê Lợi, Ngô Quyền, Quang Trung, Sơn Lộc và 4 xã: Đường Lâm, Thanh Mỹ, Trung Hưng, Viên Sơn thuộc thị xã [[Sơn Tây (thị xã)|Sơn Tây]] của tỉnh [[Hà Tây (tỉnh)|Hà Tây]].<ref>Nghị quyết ngày 12 tháng 8 năm 1991 của Quốc hội khóa VIII, Kỳ họp thứ 9 về việc điều chỉnh địa giới hành chính một số tỉnh, thành phố trực thuộc Trung ương.</ref>
+
+Ngày 9 tháng 11 năm 2000:
+
+* Thành lập phường Phú Thịnh trên cơ sở toàn bộ diện tích tự nhiên và dân số của 4 thôn: Phú Nhi, Phú Mai, Hồng Hậu và Yên Thịnh thuộc xã Viên Sơn.
+* Mở rộng phường Quang Trung trên cơ sở sáp nhập toàn bộ diện tích tự nhiên (23,14 ha) và dân số (903 nhân khẩu) của thôn Thuần Nghệ thuộc xã Viên Sơn vào phường Quang Trung.<ref>{{Chú thích web |title=Nghị định số 66/2000/NĐ-CP ngày 9 tháng 11 năm 2000 của Chính phủ về việc điều chỉnh địa giới hành chính xã Viên Sơn để thành lập phường Phú Thịnh và mở rộng phường Quang Trung thuộc thị xã Sơn Tây, tỉnh Hà Tây |url=https://vanban.chinhphu.vn/default.aspx?pageid=27160&docid=8256 |url-status=dead |archive-url=https://web.archive.org/web/20260712401509/https://vanban.chinhphu.vn/default.aspx?pageid=27160&docid=8256 |archive-date=2026-07-12 |access-date=2026-07-12 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+
+Ngày 13 tháng 4 năm 2006, công nhận thị xã [[Sơn Tây (thị xã)|Sơn Tây]] là [[Đô thị Việt Nam|đô thị loại III]].<ref>Quyết định số 655/QĐ-BXD ngày 13 tháng 4 năm 2006 của Bộ Xây dựng về việc công nhận thị xã Sơn Tây là đô thị loại III.</ref><ref>{{Chú thích web |last=Hoàng Thành |date=2025-03-12 |title=Địa danh nổi tiếng duy nhất từng lên thành phố rồi lại xuống thị xã, sáp nhập cấp xã mở rộng không gian phát triển |url=https://danviet.vn/dia-danh-duy-nhat-cua-ca-nuoc-tung-len-thanh-pho-roi-lai-xuong-thi-xa-sap-nhap-cap-xa-de-lam-gi-20250310204458614-d1214932.html |url-status=dead |archive-url=https://web.archive.org/web/20260714232153/https://danviet.vn/dia-danh-duy-nhat-cua-ca-nuoc-tung-len-thanh-pho-roi-lai-xuong-thi-xa-sap-nhap-cap-xa-de-lam-gi-20250310204458614-d1214932.html |archive-date=2026-07-14 |access-date=2026-07-12 |website=Báo Dân Việt }}</ref>
+
+Ngày 2 tháng 8 năm 2007, thành lập thành phố [[Sơn Tây (thị xã)|Sơn Tây]] trên cơ sở toàn bộ diện tích tự nhiên, dân số và các đơn vị hành chính trực thuộc của thị xã [[Sơn Tây (thị xã)|Sơn Tây]]. Khi đó, 5 phường: Lê Lợi, Ngô Quyền, Phú Thịnh, Quang Trung, Sơn Lộc và 4 xã: Đường Lâm, Thanh Mỹ, Trung Hưng, Viên Sơn thuộc thị xã [[Sơn Tây (thị xã)|Sơn Tây]].<ref name="ND130">{{Chú thích web |tựa đề=Nghị định số 130/2007/NĐ-CP ngày 2 tháng 8 năm 2007 của Chính phủ về việc thành lập thành phố Sơn Tây thuộc tỉnh Hà Tây |url=https://chinhphu.vn/default.aspx?pageid=27160&docid=34840 |url-status=dead |archive-url=https://web.archive.org/web/20260712401509/https://chinhphu.vn/default.aspx?pageid=27160&docid=34840 |archive-date=2026-07-12 |access-date=2026-07-12 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+
+Ngày 1 tháng 3 năm 2008, thành lập 2 phường: Trung Hưng và Viên Sơn trên cơ sở 2 xã có tên tương ứng.<ref>{{Chú thích web |title=Nghị định số 23/2008/NĐ-CP ngày 1 tháng 3 năm 2008 của Chính phủ về việc điều chỉnh địa giới hành chính xã, phường, để thành lập phường thuộc thành phố Hà Đông, thành phố Sơn Tây, tỉnh Hà Tây |url=https://chinhphu.vn/default.aspx?pageid=27160&docid=59294 |url-status=live |archive-url=https://web.archive.org/web/20260712401509/https://chinhphu.vn/default.aspx?pageid=27160&docid=59294 |archive-date=2026-07-12 |access-date=2026-07-12 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+
+Ngày 29 tháng 5 năm 2008, hợp nhất tỉnh [[Hà Tây (tỉnh)|Hà Tây]] vào thành phố [[Hà Nội]]. Khi đó, 7 phường: Lê Lợi, Ngô Quyền, Phú Thịnh, Quang Trung, Sơn Lộc, Trung Hưng, Viên Sơn và 2 xã: Đường Lâm, Thanh Mỹ thuộc thành phố [[Sơn Tây (thị xã)|Sơn Tây]] của thành phố [[Hà Nội]].<ref>Nghị quyết số 15/2008/QH12 ngày 29 tháng 5 năm 2008 của Quốc hội khóa XII, Kỳ họp thứ 3 về việc điều chỉnh địa giới hành chính thành phố Hà Nội và một số tỉnh có liên quan.</ref>
+
+Ngày 8 tháng 5 năm 2009, chuyển thành phố [[Sơn Tây (thị xã)|Sơn Tây]] thành thị xã [[Sơn Tây (thị xã)|Sơn Tây]]. Khi đó, 7 phường: Lê Lợi, Ngô Quyền, Phú Thịnh, Quang Trung, Sơn Lộc, Trung Hưng, Viên Sơn và 2 xã: Đường Lâm, Thanh Mỹ thuộc thị xã [[Sơn Tây (thị xã)|Sơn Tây]].<ref name="NQ19">{{Chú thích web |tác giả= |họ= |tên= |ngày= |tựa đề=Nghị quyết số 19/NQ-CP ngày 8 tháng 5 năm 2009 của Chính phủ về việc xác lập địa giới hành chính xã Đông Xuân thuộc huyện Quốc Oai; các xã Tiến Xuân, Yên Bình, Yên Trung thuộc huyện Thạch Thất; huyện Mê Linh thuộc thành phố Hà Nội; thành lập quận Hà Đông và các phường trực thuộc; chuyển thành phố Sơn Tây thành thị xã Sơn Tây thuộc thành phố Hà Nội |url=https://chinhphu.vn/default.aspx?pageid=27160&docid=86463 |url-status=bot: unknown |url lưu trữ=https://web.archive.org/web/20250120035053/https://chinhphu.vn/default.aspx?pageid=27160&docid=86463 |ngày lưu trữ=2025-01-20 |ngày truy cập=2026-07-12 |website=Cổng Thông tin điện tử Chính phủ }}</ref>
+
+Ngày 14 tháng 11 năm 2024, nhập phường Lê Lợi và phường Quang Trung vào phường Ngô Quyền.<ref>{{Chú thích web |tiêu đề=Nghị quyết số 1286/NQ-UBTVQH15 ngày 14 tháng 11 năm 2024 của Ủy ban Thường vụ Quốc hội về việc sắp xếp đơn vị hành chính cấp xã của thành phố Hà Nội giai đoạn 2023 – 2025 |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/11/1286-qh.signed.pdf |url-status=dead |archive-url=https://web.archive.org/web/20241121185017/https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/11/1286-qh.signed.pdf |ngày lưu trữ=2024-11-21 |ngày truy cập=2024-11-21 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+
+Ngày 16 tháng 6 năm 2025:
+
+* Kết thúc hoạt động của đơn vị hành chính cấp huyện trong cả nước.<ref>{{Chú thích web |last= |date= |title=Nghị quyết số 203/2025/QH15 ngày 16 tháng 6 năm 2025 của Quốc hội khóa XV, Kỳ họp thứ 9 về việc sửa đổi, bổ sung một số điều của Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/nq-sua-doi-hien-phap.pdf |url-status=live |archive-url=https://web.archive.org/web/20260613090807/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/nq-sua-doi-hien-phap.pdf |archive-date=2026-06-13 |access-date=2026-06-13 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+* Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của các phường Ngô Quyền, Phú Thịnh, Viên Sơn, xã Đường Lâm, một phần diện tích tự nhiên, quy mô dân số của phường Trung Hưng, phường Sơn Lộc và xã Thanh Mỹ (thị xã [[Sơn Tây (thị xã)|Sơn Tây]]) thành phường mới có tên gọi là phường Sơn Tây.<ref>{{Chú thích web |title=Nghị quyết số 1656/NQ-UBTVQH15 ngày 16 tháng 6 năm 2025 của Ủy ban Thường vụ Quốc hội về việc sắp xếp các đơn vị hành chính cấp xã của thành phố Hà Nội năm 2025 |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf |url-status=bot: unknown |archive-url=https://web.archive.org/web/20260513110024/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf |archive-date=2026-05-13 |access-date=2026-06-30 |website=Cổng Thông tin điện tử Chính phủ }}</ref>
+* Sau khi sắp xếp, phường Sơn Tây được chia thành 57 tổ dân phố – thôn, gồm 46 tổ dân phố và 11 thôn.<ref>19 tổ dân phố: đánh số từ 1 đến 11, Hậu An, Hậu Bình, Hồng Hà, Lạc Sơn, Ninh Tĩnh, Phùng Khắc Khoan, Thuần Nghệ và Trạng Trình của phường Ngô Quyền cũ; 7 tổ dân phố: Hồng Hậu, Phố Hàng, Phú Mai, Phú Nhi từ 1 đến 3 và Yên Thịnh của phường Phú Thịnh cũ; 7 tổ dân phố: từ 1 đến 4 Tiền Huân, La Thành, Phù Sa và Thiều Xuân của phường Viên Sơn cũ; 9 thôn: Cam Lâm, Cam Thịnh, Đoài Giáp, Đông Sàng, Hà Tân, Hưng Thịnh, Mông Phụ, Phụ Khang và Văn Miếu của xã Đường Lâm cũ; 8 tổ dân phố: 1, 2 Ái Mỗ, 3 Nghĩa Phủ, 4 Mai Trai, 5 , 6, 8 Vân Gia và 9 của phường Trung Hưng cũ; 5 tổ dân phố: từ 2 đến 5 và 7 của phường Sơn Lộc cũ; 2 thôn: Đồng Đổi và Yên Mỹ của xã Thanh Mỹ cũ.</ref><ref>{{Chú thích web|title=Thông tư số 10/2022/TT-BTNMT ngày 29 tháng 9 năm 2022 của Bộ Tài nguyên và Môi trường về việc Ban hành Danh mục địa danh dân cư, sơn văn, thủy văn, kinh tế – xã hội phục vụ công tác thành lập bản đồ thành phố Hà Nội|url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2022/10/10-btnmt.pdf|url-status=bot: unknown|archive-url=https://web.archive.org/web/20260630082812/https://datafiles.chinhphu.vn/cpp/files/vbpq/2022/10/10-btnmt.pdf|archive-date=2026-06-30|access-date=2026-06-30|website=Cổng Thông tin điện tử Chính phủ}}</ref><ref name=":0">{{Chú thích web|last=|date=|title=Quyết định số 51/QĐ-UBBC ngày 18 tháng 3 năm 2026 của Ủy ban bầu cử phường Sơn Tây về việc công bố danh sách những người trúng cử đại biểu Hội đồng nhân dân phường Sơn Tây khóa II nhiệm kỳ 2026 – 2031|url=https://sqhx-hanoi.mediacdn.vn/91579363132710912/2026/3/20/qd-513-17740041246172022170802.pdf|url-status=bot: unknown|archive-url=https://web.archive.org/web/20260715100028/https://sqhx-hanoi.mediacdn.vn/91579363132710912/2026/3/20/qd-513-17740041246172022170802.pdf|archive-date=2026-07-15|access-date=2026-07-01|website=Trang Thông tin điện tử phường Sơn Tây – thành phố Hà Nội}}</ref>
+Ngày 18 tháng 7 năm 2025, chuyển đổi thôn thành tổ dân phố, đổi tên tổ dân phố trên địa bàn phường Sơn Tây.<ref>{{Chú thích web |title=Kỳ họp thứ 2 Hội đồng nhân dân phường Sơn Tây khóa I, nhiệm kỳ 2021 – 2026 |url=https://sontay.hanoi.gov.vn/chi-dao-dieu-hanh/ky-hop-thu-2-hdnd-phuong-son-tay-khoa-i-nhiem-ky-2021-2026-2698250718211815762.htm?gidzl=fg762yJ5TWoYli8Dpjrp3gcynGpJtdHRlk-L2z-3A0tlxiWAWuql2kQ-oGk1YYuExBoU3pLKLOKsmSHo3W |url-status=dead |archive-url=https://web.archive.org/web/20260713401509/https://sontay.hanoi.gov.vn/chi-dao-dieu-hanh/ky-hop-thu-2-hdnd-phuong-son-tay-khoa-i-nhiem-ky-2021-2026-2698250718211815762.htm?gidzl=fg762yJ5TWoYli8Dpjrp3gcynGpJtdHRlk-L2z-3A0tlxiWAWuql2kQ-oGk1YYuExBoU3pLKLOKsmSHo3W |archive-date=2026-07-13 |access-date=2026-07-13 |website=|last=Trang Thông tin điện tử phường Sơn Tây – thành phố Hà Nội}}</ref>
+
+Ngày 24 tháng 12 năm 2025, xác định phường Sơn Tây là [[Đô thị Việt Nam|đô thị loại II]].<ref>Chuyển tiếp từ 5 phường: Ngô Quyền, Phú Thịnh, Sơn Lộc, Trung Hưng, Viên Sơn và 2 xã: Đường Lâm, Thanh Mỹ thuộc thị xã Sơn Tây – đô thị loại III.</ref><ref>{{Chú thích web |title=Nghị quyết số 111/2025/UBTVQH15 ngày 24 tháng 12 năm 2025 của Ủy ban Thường vụ Quốc hội về phân loại đô thị |url=https://cdn.nhandan.vn/files/f4a4abf7f9a0ba4a91744616546d850872b76917f90d5a74cc9eebef1369fb6f/111.pdf |url-status=dead |archive-url=https://web.archive.org/web/20260814175111/https://cdn.nhandan.vn/files/f4a4abf7f9a0ba4a91744616546d850872b76917f90d5a74cc9eebef1369fb6f/111.pdf |archive-date=2026-08-14 |access-date=2026-07-12 |website=Báo Nhân dân }}</ref>
+
+Ngày 29 tháng 6 năm 2026, thành lập 25 tổ dân phố mới: Sơn Lộc, Ái Mỗ, Chùa Thông, Vân Gia, Nghĩa Phủ, Trung Hưng, Quang Trung, Phùng Khắc Khoan, Lạc Sơn, Lê Lợi, Phùng Hưng, Ngô Quyền, Trần Hưng Đạo, Tiền Huân, Viên Sơn, Phù Sa, Hồng Hà, Phú Thịnh, Phú Nhi, Phú Mai, Văn Miếu, Cam Lâm, Yên Mỹ, Đường Lâm và Đông Sàng.<ref name=":3">1. Tổ dân phố Sơn Lộc được thành lập từ tổ dân phố 4 Sơn Lộc, tổ dân phố 5 Sơn Lộc, tổ dân phố 7 Sơn Lộc và một phần tổ dân phố 1 Ái Mỗ; 2. Tổ dân phố Ái Mỗ được thành lập từ phần lớn tổ dân phố 1 Ái Mỗ, tổ dân phố 2 Ái Mỗ và một phần tổ dân phố 3 Sơn Lộc; 3. Tổ dân phố Chùa Thông được thành lập từ một phần tổ dân phố 3 Sơn Lộc, một phần tổ dân phố 2 Ái Mỗ, một phần tổ dân phố 3 Nghĩa Phủ, một phần tổ dân phố 2 Sơn Lộc, một phần tổ dân phố 8 và một phần tổ dân phố Thuần Nghệ; 4. Tổ dân phố Vân Gia được thành lập từ tổ dân phố 5 Vân Gia, tổ dân phố 6 Vân Gia và tổ dân phố 8 Vân Gia; 5. Tổ dân phố Nghĩa Phủ được thành lập từ một phần tổ dân phố 2 Sơn Lộc, phần còn lại của tổ dân phố 3 Nghĩa Phủ, một phần tổ dân phố 3 Sơn Lộc và một phần tổ dân phố 11; 6. Tổ dân phố Trung Hưng được thành lập từ phần lớn tổ dân phố 4 Mai Trai, phần còn lại của tổ dân phố 5 và một phần tổ dân phố 8; 7. Tổ dân phố Quang Trung được thành lập từ tổ dân phố 3, tổ dân phố 10 và phần còn lại của tổ dân phố 11; 8. Tổ dân phố Phùng Khắc Khoan được thành lập từ phần lớn tổ dân phố Phùng Khắc Khoan, phần lớn tổ dân phố Thuần Nghệ và một phần tổ dân phố 5; 9. Tổ dân phố Lạc Sơn được thành lập từ tổ dân phố Lạc Sơn, tổ dân phố 9 cùng một phần tổ dân phố Phùng Khắc Khoan và tổ dân phố Thuần Nghệ; 10. Tổ dân phố Lê Lợi được thành lập từ tổ dân phố Ninh Tĩnh, tổ dân phố Hậu An và một phần tổ dân phố Phú Nhi 2; 11. Tổ dân phố Phùng Hưng được thành lập từ tổ dân phố 1, tổ dân phố 2 và một phần tổ dân phố Phú Nhi 2; 12. Tổ dân phố Ngô Quyền được thành lập từ tổ dân phố 6 và tổ dân phố 7; 13. Tổ dân phố Sông Tích được thành lập từ tổ dân phố 4 và một phần tổ dân phố 9 Trung Hưng; 14. Tổ dân phố Tiền Huân được thành lập từ tổ dân phố 1 Tiền Huân và tổ dân phố 4 Tiền Huân; 14. Tổ dân phố Viên Sơn được thành lập từ một phần tổ dân phố La Thành, tổ dân phố 2 Tiền Huân và phần còn lại của tổ dân phố 3 Tiền Huân; 15. Tổ dân phố Phù Sa được thành lập từ tổ dân phố Phù Sa, tổ dân phố Thiều Xuân, một phần tổ dân phố 3 Tiền Huân và một phần tổ dân phố La Thành; 16. Tổ dân phố Hồng Hà được thành lập từ phần lớn tổ dân phố Hồng Hà, tổ dân phố Hậu Bình và một phần tổ dân phố Phú Nhi 3; 17. Tổ dân phố Phú Thịnh được thành lập từ tổ dân phố Trạng Trình, phần còn lại của tổ dân phố Phú Nhi 3 và một phần tổ dân phố Hồng Hậu; 18. Tổ dân phố Phú Nhi được thành lập từ tổ dân phố Phú Nhi 1, phần lớn tổ dân phố Hồng Hậu, phần còn lại của tổ dân phố Phú Nhi 2 và một phần tổ dân phố Phố Hàng; 20. Tổ dân phố Phú Mai được thành lập từ tổ dân phố Phú Mai, phần còn lại của tổ dân phố Phố Hàng và một phần tổ dân phố 9 Trung Hưng; 21. Tổ dân phố Văn Miếu được thành lập từ tổ dân phố Văn Miếu, tổ dân phố Yên Thịnh, tổ dân phố Hưng Thịnh và một phần tổ dân phố Cam Thịnh; 22. Tổ dân phố Cam Lâm được thành lập từ tổ dân phố Cam Lâm và tổ dân phố Phụ Khang; 23. Tổ dân phố Yên Mỹ được thành lập từ tổ dân phố Yên Mỹ và tổ dân phố Đồng Đổi; 24. Tổ dân phố Đường Lâm được thành lập từ tổ dân phố Mông Phụ, phần còn lại của tổ dân phố Cam Thịnh và tổ dân phố Đoài Giáp; 25. Tổ dân phố Đông Sàng được thành lập từ tổ dân phố Đông Sàng và tổ dân phố Hà Tân.</ref><ref name=":1">{{Chú thích web |last=Trang Thông tin điện tử phường Sơn Tây – thành phố Hà Nội |date=2026-06-15 |title=Phường Sơn Tây lấy ý kiến nhân dân về đề án sắp xếp tổ dân phố |url=https://sontay.hanoi.gov.vn/tin-tuc-su-kien/phuong-son-tay-lay-y-kien-nhan-dan-ve-de-an-sap-xep-to-dan-pho-269826061507405983.htm |url-status=live |archive-url=https://web.archive.org/web/20260713401509/https://sontay.hanoi.gov.vn/tin-tuc-su-kien/phuong-son-tay-lay-y-kien-nhan-dan-ve-de-an-sap-xep-to-dan-pho-269826061507405983.htm |archive-date=2026-07-13 |access-date=2026-07-13}}</ref><ref name=":2">{{Chú thích web |last=Lan Anh |date=2026-06-29 |title=Hội đồng nhân dân phường Sơn Tây xem xét nhiều nội dung quan trọng tại Kỳ họp thứ 2 |url=https://hanoimoi.vn/hdnd-phuong-son-tay-xem-xet-nhieu-noi-dung-quan-trong-tai-ky-hop-thu-2-1209749.html?gidzl=PE6k0SIRj3bW_ge7peQyEcxrgmhMYkTcTwBm3DcAl6Gk-Q1RsuhkPY-WebQ0sUzlTQhpKZIMIoy9mPgmEm |url-status=live |archive-url=https://web.archive.org/web/20260713401509/https://hanoimoi.vn/hdnd-phuong-son-tay-xem-xet-nhieu-noi-dung-quan-trong-tai-ky-hop-thu-2-1209749.html?gidzl=PE6k0SIRj3bW_ge7peQyEcxrgmhMYkTcTwBm3DcAl6Gk-Q1RsuhkPY-WebQ0sUzlTQhpKZIMIoy9mPgmEm |archive-date=2026-07-13 |access-date=2026-07-13 |website=Cơ quan Báo và Phát thanh, truyền hình Hà Nội}}</ref><ref name=":4">{{Chú thích web |last=Diễn đàn phường Sơn Tây – thành phố Hà Nội |date=2026-07-05 |title=Phần 2 gồm thông tin của 12 tổ dân phố: Tiền Huân, Viên Sơn, Phù Sa, Hồng Hà, Phú Nhi, Phú Mai, Phú Thịnh, Văn Miếu, Cam Lâm, Yên Mỹ, Đường Lâm, Đông Sàng |url=https://web.facebook.com/story.php?story_fbid=122185199552936816&id=61578104481640&rdid=AX7i8LwBdhtOs48L# |url-status=live |archive-url=https://web.archive.org/web/20260717401509/https://web.facebook.com/story.php?story_fbid=122185199552936816&id=61578104481640&rdid=AX7i8LwBdhtOs48L# |archive-date=2026-07-17 |access-date=2026-07-17}}</ref><ref name=":5">{{Chú thích web |last=Diễn đàn phường Sơn Tây – thành phố Hà Nội |date=2026-07-05 |title=Phần 1 gồm thông tin của 13 tổ dân phố, gồm: Chùa Thông, Sơn Lộc, Ái Mỗ, Vân Gia, Nghĩa Phủ, Trung Hưng, Quang Trung, Phùng Khắc Khoan, Lạc Sơn, Lê Lợi, Phùng Hưng, Ngô Quyền, Trần Hưng Đạo |url=https://web.facebook.com/story.php?story_fbid=122185199180936816&id=61578104481640&rdid=z2UZOs3NXmro7ezp# |url-status=live |archive-url=https://web.archive.org/web/20260717401509/https://web.facebook.com/story.php?story_fbid=122185199180936816&id=61578104481640&rdid=z2UZOs3NXmro7ezp# |archive-date=2026-07-17 |access-date=2026-07-17}}</ref>
+
+== Hành chính ==
+Phường Sơn Tây được chia thành 25 tổ dân phố: Ái Mỗ, Cam Lâm, Chùa Thông, Đông Sàng, Đường Lâm, Hồng Hà, Lạc Sơn, Lê Lợi, Nghĩa Phủ, Ngô Quyền, Phú Mai, Phú Nhi, Phú Thịnh, Phù Sa, Phùng Hưng, Phùng Khắc Khoan, Quang Trung, Sơn Lộc, Tiền Huân, Trần Hưng Đạo, Trung Hưng, Văn Miếu, Vân Gia, Viên Sơn và Yên Mỹ.<ref name=":3" /><ref name=":1" /><ref name=":2" /><ref name=":4" /><ref name=":5" />
+{| class="wikitable sortable" cellpadding="0" cellspacing="6" width="100%" align="center" style="background: #f9f9f9; border: 1px #aaa solid; margin-top: 16px"
+! colspan="4" style="background: #E6E6FA; font-size: 95%;" |Danh sách các tổ dân phố thuộc phường Sơn Tây<ref name=":3" /><ref name=":1" /><ref name=":2" /><ref name=":4" /><ref name=":5" />
+|-
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| cellpadding="1" cellspacing="1" width="100%" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Ái Mỗ
+|1.002
+|-
+| align="left" |Cam Lâm
+|736
+|-
+| align="left" |Chùa Thông
+|702
+|-
+| align="left" |Đông Sàng
+|733
+|-
+| align="left" |Đường Lâm
+|1.019
+|-
+| align="left" |Hồng Hà
+|724
+|-
+| align="left" |Lạc Sơn
+|770
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| cellpadding="1" cellspacing="1" width="100%" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Lê Lợi
+|1.087
+|-
+| align="left" |Nghĩa Phủ
+|702
+|-
+| align="left" |Ngô Quyền
+|747
+|-
+| align="left" |Phú Mai
+|704
+|-
+| align="left" |Phú Nhi
+|1.002
+|-
+| align="left" |Phú Thịnh
+|702
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| cellpadding="1" cellspacing="1" width="100%" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Phù Sa
+|1.001
+|-
+| align="left" |Phùng Hưng
+|712
+|-
+| align="left" |Phùng Khắc Khoan
+|1.018
+|-
+| align="left" |Quang Trung
+|704
+|-
+| align="left" |Sơn Lộc
+|1.001
+|-
+| align="left" |Tiền Huân
+|703
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| cellpadding="1" cellspacing="1" width="100%" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Trần Hưng Đạo
+|704
+|-
+| align="left" |Trung Hưng
+|702
+|-
+| align="left" |Văn Miếu
+|730
+|-
+| align="left" |Vân Gia
+|1.008
+|-
+| align="left" |Viên Sơn
+|702
+|-
+| align="left" |Yên Mỹ
+|701
+|}
+|}
+
+== Trụ sở các cơ quan ==
+* Trụ sở Đảng ủy phường đặt tại số 5 Trưng Vương (Thị ủy Sơn Tây cũ).
+* Trụ sở Ủy ban nhân dân phường đặt tại số 1 Phó Đức Chính (Ủy ban nhân dân thị xã Sơn Tây cũ).<ref name="trusomoi">{{Chú thích web|url=https://dcdn.dantri.com.vn/2025/06/25/tru-so-126-xa-phuong-cua-ha-noi-1750822481952.pdf|title=Thông báo về địa điểm trụ sở làm việc của 126 phường, xã sau sắp xếp thuộc phạm vi quản lý của thành phố Hà Nội|date=25 tháng 6 năm 2025|website=UBND TP Hà Nội|access-date=2025-06-26|archive-date=2026-04-25|archive-url=https://web.archive.org/web/20260425080946/https://dcdn.dantri.com.vn/2025/06/25/tru-so-126-xa-phuong-cua-ha-noi-1750822481952.pdf|url-status=dead}}</ref>
+
+== Di tích lịch sử ==
+
+===Đình Phù Sa===
+Đình làng Phù Sa thuộc phường Sơn Tây, thành phố Hà Nội. Dựa theo cuốn thần phả và 11 đạo sắc phong được lưu giữ tại đình cùng truyền thuyết của nhân dân lưu truyền, đình thờ Phò mã Quán Sơn cùng Công chúa Phù Dung con của Vua Đinh Tiên Hoàng.<ref>{{Chú thích web |url=http://sontay.hanoi.gov.vn/chi-tiet-tim-kiem/-/view_content/327323-dinh-phu-sa-van-khe-thanh-vi-.html |title=Đình Phù Sa, thị xã Sơn Tây |access-date=2018-07-06 |archive-date=2018-07-07 |archive-url=https://web.archive.org/web/20180707040657/http://sontay.hanoi.gov.vn/chi-tiet-tim-kiem/-/view_content/327323-dinh-phu-sa-van-khe-thanh-vi-.html |url-status=dead }}</ref>
+
+Tương truyền, Phò mã Quán Sơn tên đầy đủ là Trương Quán Sơn, con của vị Đại thần nhà Đinh là [[Trương Ma Ni]]. Quán Sơn sinh ngày 1 tháng 5 âm lịch, dáng người khôi ngô, tuấn tú, tài năng, đức độ, tinh thông cả âm nhạc, có khí phách của người anh hùng. Chàng được Vua [[Đinh Tiên Hoàng]] kén làm Phò mã, sánh vai cùng Công chúa Đinh Phù Dung. Phò mã Quán Sơn từng được vua cha phong chức Trấn thủ tứ thành, có công giúp nước chống quân Tống xâm lược. Khi đất nước thanh bình, Phò mã Quán Sơn cùng Công chúa Phù Dung về đất Phù Sa chiêu dân lập ấp, cấp cho dân ruộng vườn, dạy dân làng nghề trồng dâu nuôi tằm, dệt vải.<ref>{{Chú thích web |url=https://vienson.sontay.hanoi.gov.vn/tin-chi-tiet/-/chi-tiet/nhieu-hoat-%C4%91ong-van-hoa-tin-nguong-dan-gian-dien-ra-trong-le-hoi-%C4%91inh-phu-sa-12888-1274.html |title=NHIỀU HOẠT ĐỘNG VĂN HÓA TÍN NGƯỠNG DÂN GIAN DIỄN RA TRONG LỄ HỘI ĐÌNH PHÙ SA |access-date=2025-11-06 |archive-date=2025-04-24 |archive-url=https://web.archive.org/web/20250424204131/https://vienson.sontay.hanoi.gov.vn/tin-chi-tiet/-/chi-tiet/nhieu-hoat-%C4%91ong-van-hoa-tin-nguong-dan-gian-dien-ra-trong-le-hoi-%C4%91inh-phu-sa-12888-1274.html |url-status=dead }}</ref>
+
+===[[Làng cổ Đường Lâm]]===
+
+<!-- 
+== Lịch sử ==
+Phường Phú Thịnh được thành lập vào ngày [[9 tháng 11]] năm [[2000]], trên cơ sở toàn bộ diện tích tự nhiên và dân số của 4 thôn: Phú Nhi, Phú Mai, Hồng Hậu và Yên Thịnh thuộc xã [[Viên Sơn]]<ref>{{Chú thích web|url=https://thuvienphapluat.vn/van-ban/bat-dong-san/Nghi-dinh-66-2000-ND-CP-dieu-chinh-dia-gioi-hanh-chinh-xa-Vien-Son-lap-phuong-Phu-Thinh-va-mo-rong-phuong-Quang-Trung-thuoc-thi-xa-Son-Tay-Ha-Tay-8180.aspx|title=Nghị định 66/2000/NĐ-CP về việc điều chỉnh địa giới hành chính xã Viên Sơn để thành lập phường Phú Thịnh và mở rộng phường Quang Trung thuộc thị xã Sơn Tây, tỉnh Hà Tây|last=|first=|date=|website=|archive-url=|archive-date=|url-status=|access-date =}}</ref>.
+
+==Giao thông==
+[[Quốc lộ 32]] chạy từ phía Nam sang phía Tây phường, đoạn quốc lộ này là hai con phố nối tiếp nhau là La Thành và phố Hàng. Tại phía Tây Bắc phường có bến đò Yên Thịnh (đò Vôi), là bến đò ngang sông Hồng sang huyện Vĩnh Tường.
+
+==Văn hóa==
+Phú Thịnh là vùng đất bãi ven sông Hồng, hợp lại từ làng cổ Phú Nhi. Trên đất phường Phú Thịnh vào thời [[nhà Nguyễn]] từng tồn tại một văn miếu cho cả vùng xứ Đoài, đó là Văn miếu Sơn Tây (nay không còn), trung tâm [[Nho giáo]] của vùng Tam Tuyên (Sơn Tây, [[Hưng Hóa]] và [[Tuyên Quang]]). Nơi đây tồn tại một làng cổ nổi danh cả nước đó là làng Đường Lâm là nơi sinh thời của hai vị vua [[Ngô Quyền]] và [[Phùng Hưng]].
+
+Trên địa bàn phường Trung Hưng có [[đền Và]] (thôn Vân Gia) và di tích [[trại tù Sơn Tây]] (tại Xã Tắc, gần cầu Cộng).
+
+== Lịch sử ==
+Phường Sơn Lộc được thành lập theo Quyết định số 42/QĐ-HĐBT ngày 14/3/1984 của Hội đồng Bộ trưởng (Nay là [[Chính phủ Việt Nam|Chính phủ]]) nước [[Việt Nam|Cộng hòa xã hội chủ nghĩa Việt Nam]]. Địa giới hành chính của phường hình thành trên cơ sở tách và nhập đất đai tự nhiên và dân cư của 03 xã, phường: [[Sơn Tây (phường)|Trung Hưng]], [[Trung Sơn Trầm]] và [[Sơn Tây (phường)|Thanh Mỹ]].
+
+ -->
+== Chú thích ==
+{{tham khảo}}
+
+== Tham khảo ==
+{{sơ khai Hà Nội}}
+{{Đơn vị hành chính thuộc thành phố Hà Nội}}

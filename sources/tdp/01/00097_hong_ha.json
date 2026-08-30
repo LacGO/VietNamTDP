@@ -1,0 +1,424 @@
+{
+  "ward_code": "00097",
+  "ward_name": "Hồng Hà",
+  "province_code": "01",
+  "resolution": "",
+  "arrangement": "truoc_2026_07",
+  "effective_date": "",
+  "verified": "unverified",
+  "extraction": {
+    "source": "vi.wikipedia.org",
+    "title": "(cache)",
+    "mode": "table"
+  },
+  "sources": [
+    {
+      "key": "wiki-00097-1",
+      "title": "Quyết định số 33/QĐ-UBBC ngày 23 tháng 2 năm 2026 của Ủy ban bầu cử về việc công bố danh sách chính thức những người ứng cử đại biểu Hội đồng nhân dân phường Hồng Hà nhiệm kỳ 2026 – 2031",
+      "url": "https://hongha.hanoi.gov.vn/chi-dao-cua-dia-phuong/quyet-dinh-2815260227140043094.htm",
+      "date": "2026-08-15",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-00097-2",
+      "title": "Nghị quyết số 111/2025/UBTVQH15 ngày 24 tháng 12 năm 2025 của Ủy ban Thường vụ Quốc hội về phân loại đô thị",
+      "url": "https://cdn.nhandan.vn/files/f4a4abf7f9a0ba4a91744616546d850872b76917f90d5a74cc9eebef1369fb6f/111.pdf",
+      "date": "2026-04-30",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-00097-3",
+      "title": "Nghị quyết số 1656/NQ-UBTVQH15 ngày 16 tháng 6 năm 2025 của Ủy ban Thường vụ Quốc hội về việc sắp xếp các đơn vị hành chính cấp xã của thành phố Hà Nội năm 2025",
+      "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf",
+      "date": "2026-06-30",
+      "type": "wikipedia-ref"
+    }
+  ],
+  "note": "Trích tự động từ Wikipedia tiếng Việt (mode=table). Cần đối chiếu nghị quyết HĐND phường/xã. ⚠️ Danh mục có thể là hiện trạng TRƯỚC sắp xếp thôn/TDP 01/7/2026 — Wikipedia chưa cập nhật nghị quyết mới.",
+  "tdp": [
+    {
+      "name": "7 khu vực Bạch Đằng",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "8 khu vực Bạch Đằng",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "9 khu vực Bạch Đằng",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "10 khu vực Bạch Đằng",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "11 khu vực Bạch Đằng",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "12 khu vực Bạch Đằng",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "13 khu vực Bạch Đằng",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "14 khu vực Bạch Đằng",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "1 khu vực Chương Dương",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "2 khu vực Chương Dương",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "3 khu vực Chương Dương",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "4 khu vực Chương Dương",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "5 khu vực Chương Dương",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "6 khu vực Chương Dương",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "7 khu vực Chương Dương",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "8 khu vực Chương Dương",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "9 khu vực Chương Dương",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "10 khu vực Chương Dương",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "11 khu vực Chương Dương",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "12 khu vực Chương Dương",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "13 khu vực Chương Dương",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "14 khu vực Chương Dương",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "15 khu vực Chương Dương",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "16 khu vực Chương Dương",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "17 khu vực Chương Dương",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "18 khu vực Chương Dương",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "6 khu vực Nhật Tân",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "7 khu vực Nhật Tân",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "8 khu vực Nhật Tân",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "9 khu vực Nhật Tân",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "15 khu vực Phú Thượng",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "1 khu vực Phúc Tân",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "2 khu vực Phúc Tân",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "3 khu vực Phúc Tân",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "4 khu vực Phúc Tân",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "5 khu vực Phúc Tân",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "6 khu vực Phúc Tân",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "7 khu vực Phúc Tân",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "8 khu vực Phúc Tân",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "9 khu vực Phúc Tân",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "10 khu vực Phúc Tân",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "11 khu vực Phúc Tân",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "12 khu vực Phúc Tân",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "13 khu vực Phúc Tân",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "14 khu vực Phúc Tân",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "15 khu vực Phúc Tân",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "16 khu vực Phúc Tân",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "1 khu vực Phúc Xá",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "2 khu vực Phúc Xá",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "3 khu vực Phúc Xá",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "4 khu vực Phúc Xá",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "5 khu vực Phúc Xá",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "6 khu vực Phúc Xá",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "7 khu vực Phúc Xá",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "8 khu vực Phúc Xá",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "9 khu vực Phúc Xá",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "10 khu vực Phúc Xá",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "11 khu vực Phúc Xá",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "12 khu vực Phúc Xá",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "13 khu vực Phúc Xá",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "14 khu vực Phúc Xá",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "15 khu vực Phúc Xá",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "16 khu vực Phúc Xá",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "17 khu vực Phúc Xá",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "18 khu vực Phúc Xá",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "19 khu vực Phúc Xá",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "20 khu vực Phúc Xá",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "21 khu vực Phúc Xá",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "22 khu vực Phúc Xá",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "2 khu vực Quảng An",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "6 khu vực Quảng An",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "19 khu vực Thanh Lương",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "20 khu vực Thanh Lương",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "21 khu vực Thanh Lương",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "1 khu vực Tứ Liên",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "2 khu vực Tứ Liên",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "3 khu vực Tứ Liên",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "4 khu vực Tứ Liên",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "5 khu vực Tứ Liên",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "6 khu vực Tứ Liên",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "7 khu vực Tứ Liên",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "8 khu vực Tứ Liên",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "9 khu vực Tứ Liên",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "10 khu vực Tứ Liên",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "11 khu vực Tứ Liên",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "4 khu vực Yên Phụ",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "5 khu vực Yên Phụ",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "6 khu vực Yên Phụ",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "7 khu vực Yên Phụ",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "8 khu vực Yên Phụ",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "9 khu vực Yên Phụ",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "10 khu vực Yên Phụ",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "11 khu vực Yên Phụ",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "12 khu vực Yên Phụ",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "13 khu vực Yên Phụ",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "14 khu vực Yên Phụ",
+      "type": "tổ dân phố"
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{{Thông tin đơn vị hành chính Việt Nam |Phường
+| tên = Lĩnh Nam
+| hình = Cầu Vĩnh Tuy và sông Hồng.jpg 
+| ghi chú hình = Cầu Vĩnh Tuy 
+| vĩ độ = 20.9796546473726
+| kinh độ = 105.89044227541902
+| diện tích = 10,86 km²
+| dân số = 20.706 người
+| thời điểm dân số = 2025
+| mật độ dân số = {{formatnum:{{#expr:floor({{formatnum:20.706| R}}/{{formatnum:10,86| R}})}} }} người/km²
+| vùng = [[Đồng bằng sông Hồng]]
+| thành phố = [[Hà Nội]]
+| trụ sở UBND = Số 669, đường Lĩnh Nam<ref>{{Chú thích web |url=https://storage-vnportal.vnpt.vn/gov-hni/6244/VanBan/2025/6/25/TB-729-2025.pdf |title=Thông báo số 729/TB-UBND ngày 25 tháng 6 năm 2025 của Ủy ban nhân dân thành phố Hà Nội về địa điểm trụ sở làm việc của 126 phường, xã sau sắp xếp thuộc phạm vi quản lý của thành phố Hà Nội|access-date=2026-06-15 |archive-date=2026-06-15 |archive-url=https://web.archive.org/web/20260615034519/https://storage-vnportal.vnpt.vn/gov-hni/6244/VanBan/2025/6/25/TB-729-2025.pdf |url-status=dead | website = Cổng Thông tin điện tử Ủy ban nhân dân thành phố Hà Nội}}</ref>
+| mã hành chính = 00328<ref>{{Chú thích web |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/19ttg.signed.pdf |title=Quyết định số 19/2025/QĐ-TTg ngày 30 tháng 6 năm 2025 của Thủ tướng Chính phủ về việc Ban hành Bảng danh mục và mã số các đơn vị hành chính Việt Nam |access-date=2026-06-15 |archive-date=2026-06-15 |archive-url=https://web.archive.org/web/20260615034519/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/19ttg.signed.pdf |url-status=dead }}</ref> 
+| web = {{url|linhnam.hanoi.gov.vn}}
+|bản đồ 1={{maplink|frame=yes|plain=yes|type=shape|frame-width=280|frame-align=center|stroke-width=3}}|trụ sở Đảng ủy=Số 18, đường Khuyến Lương}}{{other|Lĩnh Nam (định hướng)}}
+'''Lĩnh Nam''' là một [[Phường (Việt Nam)|phường]] thuộc thành phố [[Hà Nội]], [[Việt Nam]].
+
+== Địa lý == 
+Phường Lĩnh Nam có vị trí địa lý: 
+* Phía đông giáp xã [[Bát Tràng]] (ranh giới đi theo [[sông Hồng]])
+* Phía tây giáp phường [[Vĩnh Hưng (phường)|Vĩnh Hưng]], phường [[Hoàng Mai, Hà Nội|Hoàng Mai]] và phường [[Yên Sở]] (ranh giới đi theo đường đê Nguyễn Khoái và [[Đường vành đai 3 (Hà Nội)|đường Vành đai 3]])
+* Phía nam giáp xã [[Thanh Trì (xã)|Thanh Trì]] (ranh giới đi theo ranh giới phường cũ)
+* Phía bắc giáp phường [[Hồng Hà (phường)|Hồng Hà]] và phường [[Long Biên (phường)|Long Biên]] (ranh giới đi theo [[cầu Vĩnh Tuy]] và sông Hồng).<ref>{{Chú thích web |last=Báo Điện tử Chính phủ |date=2025-04-28 |title=Chi tiết dự thảo phương án sắp xếp các phường của Hà Nội |url=https://xaydungchinhsach.chinhphu.vn/chi-tiet-du-thao-phuong-an-sap-xep-cac-phuong-cua-ha-noi-119250421100531902.htm |url-status=bot: unknown |archive-url=https://web.archive.org/web/20260316174230/https://xaydungchinhsach.chinhphu.vn/chi-tiet-du-thao-phuong-an-sap-xep-cac-phuong-cua-ha-noi-119250421100531902.htm |archive-date=2026-03-16 |access-date=2026-07-03 |website=Xây dựng chính sách, pháp luật }}</ref><ref>{{Chú thích web |last=Viện nghiên cứu Phát triển kinh tế – xã hội Hà Nội |date=2025-07-02 |title=Phường Lĩnh Nam: Những thông tin chi tiết sau sắp xếp |url=https://hanoionline.vn/phuong-linh-nam-nhung-thong-tin-chi-tiet-sau-sap-xep-344198.htm |url-status=bot: unknown |archive-url=https://web.archive.org/web/20250703090141/https://hanoionline.vn/phuong-linh-nam-nhung-thong-tin-chi-tiet-sau-sap-xep-344198.htm |archive-date=2025-07-03 |access-date=2026-07-01 |website=Cơ quan Báo và Phát thanh Truyền hình Hà Nội }}</ref><ref>{{Chú thích web |last=Cơ quan Báo và Phát thanh Truyền hình Hà Nội |date=2025-07-04 |title=Phường Lĩnh Nam: Tất cả thông tin chỉ dẫn bạn cần biết |url=https://hanoionline.vn/phuong-linh-nam-tat-ca-thong-tin-chi-dan-ban-can-biet-344611.htm |url-status=dead |archive-url=https://web.archive.org/web/20260819401509/https://hanoionline.vn/phuong-linh-nam-tat-ca-thong-tin-chi-dan-ban-can-biet-344611.htm |archive-date=2026-08-19 |access-date=2026-08-19}}</ref>
+Phường Lĩnh Nam có diện tích tự nhiên là 10,86&nbsp;km<sup>2</sup>, quy mô dân số năm 2025 là 20.706 người và mật độ dân số đạt 1.906 người/km<sup>2</sup>.<ref>{{Chú thích web |last=Mai Hữu |date=2026-04-05 |title=Hà Nội: Chi tiết phương án tổng thể sắp xếp đơn vị hành chính cấp xã |url=https://hanoimoi.vn/ha-noi-chi-tiet-phuong-an-tong-the-sap-xep-don-vi-hanh-chinh-cap-xa-700278.html |url-status=live |archive-url=https://web.archive.org/web/20260711401509/https://hanoimoi.vn/ha-noi-chi-tiet-phuong-an-tong-the-sap-xep-don-vi-hanh-chinh-cap-xa-700278.html |archive-date=2026-07-11 |access-date=2026-07-11 |website=Cơ quan Báo và Phát thanh, truyền hình Hà Nội}}</ref><ref>Công văn số 2896/BNV-CQĐP ngày 27 tháng 5 năm 2025 của Bộ Nội vụ về việc cung cấp thông tin danh mục dự kiến đơn vị hành chính cấp xã mới.</ref>
+
+== Lịch sử ==
+
+=== Trước năm 1976 ===
+Phường Lĩnh Nam được hình thành từ ba thôn cổ: Nam Dư Thượng, Thúy Lĩnh và Trung Lập. Trong đó, thôn Trung Lập trước thuộc xã Vĩnh Tuy (nay là phường [[Vĩnh Hưng (phường)|Vĩnh Hưng]]).<ref name=":13">{{Chú thích web |last=HNM |date=2004-08-31 |title=Vĩnh Hưng – từ xã thành phường |url=https://hanoimoi.vn/vinh-hung-tu-xa-thanh-phuong-39177.html |url-status=dead |archive-url=https://web.archive.org/web/20260819201510/https://hanoimoi.vn/vinh-hung-tu-xa-thanh-phuong-39177.html |archive-date=2026-08-19 |access-date=2026-08-19 |website=Cơ quan Báo và Phát thanh, truyền hình Hà Nội}}</ref> Đây là khu vực có lịch sử khai phá sớm, với bề dày văn hóa và dân cư lâu đời. Năm 1955, ba thôn hợp thành xã Lĩnh Nam, thuộc quận VII, Hà Nội.<ref name=":1">{{Chú thích web | last = Trang Thông tin điện tử phường Yên Sở – thành phố Hà Nội | first = | date = 2025-04-21 | title = Lịch sử 7 địa danh đơn vị hành chính cơ sở của quận Hoàng Mai | url = https://yenso.hanoi.gov.vn/van-hoa-xa-hoi-63601/lich-su-7-dia-danh-don-vi-hanh-chinh-co-so-cua-quan-hoang-mai-2797250421091509937.htm | access-date = 2026-08-20 | website = | language = | archive-date = 2026-08-20 | archive-url = https://web.archive.org/web/20260820201510/https://yenso.hanoi.gov.vn/van-hoa-xa-hoi-63601/lich-su-7-dia-danh-don-vi-hanh-chinh-co-so-cua-quan-hoang-mai-2797250421091509937.htm | url-status = dead }}</ref>
+
+Ngày 31 tháng 5 năm 1961, lập huyện [[Thanh Trì (huyện)|Thanh Trì]] mới trên cơ sở hợp nhất huyện Thanh Trì cũ và quận VII cũ, xã Lĩnh Nam trực thuộc huyện Thanh Trì.<ref>{{Chú thích web | title = Quyết định 78-CP năm 1961 về việc chia các khu vực nội thành và ngoại thành của thành phố Hà Nội | url = https://hethongphapluat.com/quyet-dinh-78-cp-nam-1961-ve-viec-chia-cac-khu-vuc-noi-thanh-va-ngoai-thanh-cua-thanh-pho-ha-noi-do-hoi-dong-chinh-phu-ban-hanh.html | url-status = live}}</ref>
+
+=== Giai đoạn 1976 – nay ===
+Sau ngày 2 tháng 7 năm 1976, 5 xã: Lĩnh Nam, Thanh Trì, Trần Phú, Tứ Hiệp và Yên Sở thuộc huyện [[Thanh Trì (huyện)|Thanh Trì]]; tiểu khu Thanh Lương thuộc khu phố [[Hai Bà Trưng (quận)|Hai Bà Trưng]] của thành phố [[Hà Nội]].
+
+Ngày 3 tháng 1 năm 1981, từ nay ở nội thành, đơn vị hành chính cấp dưới trực tiếp của [[Thành phố trực thuộc trung ương (Việt Nam)|thành phố trực thuộc trung ương]] đều thống nhất gọi là [[Quận (Việt Nam)|quận]]; các đơn vị hành chính cơ sở ở nội thành, nội thị của các [[Thành phố thuộc tỉnh (Việt Nam)|thành phố thuộc tỉnh]], [[Thị xã (Việt Nam)|thị xã]] và [[Quận (Việt Nam)|quận]] gọi là [[Phường (Việt Nam)|phường]]. Khi đó, phường Thanh Lương thuộc quận [[Hai Bà Trưng (quận)|Hai Bà Trưng]] của thành phố [[Hà Nội]].<ref>Quyết định số 3-CP ngày 3 tháng 1 năm 1981 của Hội đồng Chính phủ về việc thống nhất tên gọi các đơn vị hành chính ở nội thành nội thị.</ref>
+
+Ngày 6 tháng 11 năm 2003:
+
+* Tách toàn bộ diện tích tự nhiên và dân số của các xã: Thanh Trì, Lĩnh Nam, Trần Phú, Yên Sở và 55 ha diện tích tự nhiên của xã Tứ Hiệp thuộc huyện [[Thanh Trì (huyện)|Thanh Trì]] về quận [[Hoàng Mai (quận)|Hoàng Mai]] mới thành lập.
+* Thành lập phường Yên Sở trên cơ sở toàn bộ diện tích tự nhiên và dân số của xã Yên Sở, 35 ha diện tích tự nhiên của xã Tứ Hiệp.
+* Thành lập 3 phường: Thanh Trì, Lĩnh Nam và Trần Phú trên cơ sở toàn bộ diện tích tự nhiên và dân số của 3 xã có tên tương ứng.<ref name="132/2003/NĐ-CP">{{Chú thích web | tác giả = | ngày = | tựa đề = Nghị định số 132/2003/NĐ-CP ngày 6 tháng 11 năm 2003 của Chính phủ về việc điều chỉnh địa giới hành chính để thành lập các quận Long Biên, Hoàng Mai, thành lập các phường trực thuộc quận Long Biên, quận Hoàng Mai, thành phố Hà Nội | url = https://hethongphapluat.com/nghi-dinh-132-2003-nd-cp-ve-viec-dieu-chinh-dia-gioi-hanh-chinh-de-thanh-lap-cac-quan-long-bien-hoang-mai-thanh-lap-cac-phuong-truc-thuoc-quan-long-bien-quan-hoang-mai-thanh-pho-ha-noi.html | url-status = dead | url lưu trữ = https://web.archive.org/web/20250826215711/https://hethongphapluat.com/nghi-dinh-132-2003-nd-cp-ve-viec-dieu-chinh-dia-gioi-hanh-chinh-de-thanh-lap-cac-quan-long-bien-hoang-mai-thanh-lap-cac-phuong-truc-thuoc-quan-long-bien-quan-hoang-mai-thanh-pho-ha-noi.html | ngày lưu trữ = 2025-08-26 | ngày truy cập = | website = }}</ref>
+
+Ngày 16 tháng 6 năm 2025:
+
+* Kết thúc hoạt động của đơn vị hành chính cấp huyện trong cả nước.<ref>{{Chú thích web |last= |date= |title=Nghị quyết số 203/2025/QH15 ngày 16 tháng 6 năm 2025 của Quốc hội khóa XV, Kỳ họp thứ 9 về việc sửa đổi, bổ sung một số điều của Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/nq-sua-doi-hien-phap.pdf |url-status=live |archive-url=https://web.archive.org/web/20260613090807/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/nq-sua-doi-hien-phap.pdf |archive-date=2026-06-13 |access-date=2026-06-13 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+* Sắp xếp một phần diện tích tự nhiên, quy mô dân số của các phường Lĩnh Nam, Thanh Trì, Trần Phú, một phần diện tích tự nhiên của phường Yên Sở (quận [[Hoàng Mai (quận)|Hoàng Mai]]) và phần còn lại của phường Thanh Lương (quận [[Hai Bà Trưng (quận)|Hai Bà Trưng]]) thành phường mới có tên gọi là phường Lĩnh Nam.<ref>{{Chú thích web |title=Nghị quyết số 1656/NQ-UBTVQH15 ngày 16 tháng 6 năm 2025 của Ủy ban Thường vụ Quốc hội về việc sắp xếp các đơn vị hành chính cấp xã của thành phố Hà Nội năm 2025 |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf |url-status=bot: unknown |archive-url=https://web.archive.org/web/20260513110024/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf |archive-date=2026-05-13 |access-date=2026-06-30 |website=Cổng Thông tin điện tử Chính phủ }}</ref>
+
+Ngày 28 tháng 8 năm 2025, đổi tên các tổ dân phố do trùng tên và sáp nhập các tổ dân phố bị chia tách sau sắp xếp đơn vị hành chính tại phường Lĩnh Nam. Sau khi sắp xếp, phường Lĩnh Nam được chia thành 17 tổ dân phố.<ref>17 tổ dân phố, đánh số từ 1 đến 3, từ 5 đến 9, 11 và từ 20 đến 27.</ref><ref>{{Chú thích web |title=Thông tư số 10/2022/TT-BTNMT ngày 29 tháng 9 năm 2022 của Bộ Tài nguyên và Môi trường về việc Ban hành Danh mục địa danh dân cư, sơn văn, thủy văn, kinh tế - xã hội phục vụ công tác thành lập bản đồ thành phố Hà Nội |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2022/10/10-btnmt.pdf |url-status=bot: unknown |archive-url=https://web.archive.org/web/20260630082812/https://datafiles.chinhphu.vn/cpp/files/vbpq/2022/10/10-btnmt.pdf |archive-date=2026-06-30 |access-date=2026-06-30 |website=Cổng Thông tin điện tử Chính phủ }}</ref><ref>{{Chú thích web |last=Trang Thông tin điện tử phường Lĩnh Nam – thành phố Hà Nội |date=2025-08-28 |title=Phường Lĩnh Nam thông qua Nghị quyết về phương án đổi tên các Tổ dân phố do trùng tên và sáp nhập các tổ dân phố bị chia tách sau sắp xếp đơn vị hành chính |url=https://linhnam.hanoi.gov.vn/chi-dao-dieu-hanh/phuong-linh-nam-thong-qua-nghi-quyet-ve-phuong-an-doi-ten-cac-to-dan-pho-do-trung-ten-va-sap-nhap-cac-to-dan-pho-bi-chia-tach-sau-sap-xep-don-vi-hanh-chinh-2822250828170723509.htm |url-status=live |archive-url=https://web.archive.org/web/20260704400809/https://linhnam.hanoi.gov.vn/chi-dao-dieu-hanh/phuong-linh-nam-thong-qua-nghi-quyet-ve-phuong-an-doi-ten-cac-to-dan-pho-do-trung-ten-va-sap-nhap-cac-to-dan-pho-bi-chia-tach-sau-sap-xep-don-vi-hanh-chinh-2822250828170723509.htm |archive-date=2026-07-04 |access-date=2026-07-04}}</ref><ref>{{Chú thích web |last=Ủy ban nhân dân phường Lĩnh Nam |date=2026-07-04 |title=Phụ lục chia khu vực bỏ phiếu bầu cử đại biểu Quốc hội khóa XVI và đại biểu Hội đồng nhân dân các cấp nhiệm kỳ 2026 – 2031 |url=https://sqhx-hanoi.mediacdn.vn/91579363132710912/2026/1/29/c9-danh-sach-chia-khu-vuc-bo-phieu-1-1-17696772843291257206785.pdf |url-status=dead |archive-url=https://web.archive.org/web/20260704101418/https://sqhx-hanoi.mediacdn.vn/91579363132710912/2026/1/29/c9-danh-sach-chia-khu-vuc-bo-phieu-1-1-17696772843291257206785.pdf |archive-date=2026-07-04 |access-date=2026-07-02 |website=Trang Thông tin điện tử phường Lĩnh Nam – thành phố Hà Nội }}</ref>
+
+Ngày 24 tháng 12 năm 2025, xác định phường Lĩnh Nam là [[Đô thị Việt Nam|đô thị loại II]].<ref>Chuyển tiếp từ phường Thanh Lương thuộc quận Hai Bà Trưng và 4 phường: Lĩnh Nam, Thanh Trì, Trần Phú, Yên Sở thuộc quận Hoàng Mai.</ref><ref>{{Chú thích web |title=Nghị quyết số 111/2025/UBTVQH15 ngày 24 tháng 12 năm 2025 của Ủy ban Thường vụ Quốc hội về phân loại đô thị |url=https://cdn.nhandan.vn/files/f4a4abf7f9a0ba4a91744616546d850872b76917f90d5a74cc9eebef1369fb6f/111.pdf |url-status=dead |archive-url=https://web.archive.org/web/20260430074852/https://cdn.nhandan.vn/files/f4a4abf7f9a0ba4a91744616546d850872b76917f90d5a74cc9eebef1369fb6f/111.pdf |archive-date=2026-04-30 |access-date=2026-07-12 |website=Báo Nhân dân}}</ref>
+
+Ngày 27 tháng 6 năm 2026, thành lập 2 tổ dân phố mới: 5 và 6.<ref>I. Các Tổ dân phố giữ nguyên địa bàn dân cư, đặt tên mới: Giữ nguyên địa bàn dân cư, quy mô số hộ gia đình và nhân khẩu của Tổ dân phố số 1, số 2, số 3, số 11, số 20, số 21, số 22, số 23, số 24, số 25 , số 26 và số 27; II. Các Tổ dân phố thực hiện sáp nhập, điều chỉnh: 1. Thành lập Tổ dân phố số 05 trên cơ sở sáp nhập toàn bộ diện tích tự nhiên và quy mô dân số của Tổ dân phố số 05, phần lớn diện tích tự nhiên và dân số Tổ dân phố số 06, một phần diện tích tự nhiên, quy mô dân số của Tổ dân phố số 07; 2. Thành lập Tổ dân phố số 06 trên cơ sở sáp nhập toàn bộ diện tích tự nhiên và quy mô dân số của Tổ dân phố số 08, Tổ dân phố số 09, phần diện tích tự nhiên, quy mô dân số còn lại của Tổ dân phố số 07, phần diện tích tự nhiên, quy mô dân số còn lại của Tổ dân phố số 06.</ref><ref name=":2">{{Chú thích web |last=Phường Lĩnh Nam Thành phố Hà Nội |date=2026-06-12 |title=Phường Lĩnh Nam tổ chức lấy ý kiến nhân dân về đề án sắp xếp tổ dân phố |url=https://www.facebook.com/share/p/1ChyfzpAXB/ |url-status=live |archive-url=https://web.archive.org/web/20260704400809/https://www.facebook.com/share/p/1ChyfzpAXB/ |archive-date=2026-07-04 |access-date=2026-07-04}}</ref><ref name=":3">{{Chú thích web |last=Phường Lĩnh Nam vươn mình vào kỷ nguyên mới – thành phố Hà Nội |date=2026-06-29 |title=Hội đồng nhân dân phường Lĩnh Nam họp kỳ thứ ba, xem xét nhiều nội dung quan trọng |url=https://www.facebook.com/share/p/18to1qMCA9/ |url-status=live |archive-url=https://web.archive.org/web/20260704400809/https://www.facebook.com/share/p/18to1qMCA9/ |archive-date=2026-07-04 |access-date=2026-07-04}}</ref><!-- 
+== Lịch sử== 
+Trước đây, Trần Phú là một xã thuộc huyện [[Thanh Trì (huyện)| Thanh Trì]].
+
+Ngày [[6 tháng 11]] năm [[2003]], xã Trần Phú được chuyển thành phường thuộc quận Hoàng Mai mới thành lập.<ref name = "132/2003/NĐ-CP">{{Chú thích web| url = https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Nghi-dinh-132-2003-ND-CP-dieu-chinh-dia-gioi-hanh-chinh-de-thanh-lap-quan-Long-Bien-Hoang-Mai-phuong-thuoc-quan-Hoang-Mai-Ha-Noi-51571.aspx| title = Nghị định 132/2003/NĐ-CP về việc điều chỉnh địa giới hành chính để thành lập các quận Long Biên, Hoàng Mai, thành lập các phường trực thuộc quận Long Biên, quận Hoàng Mai, thành phố Hà Nội| last = | first = | date = | website = | archive-url = | archive-date = | url-status = | access-date = }}</ref>
+ -->
+
+== Hành chính ==
+Phường Lĩnh Nam được chia thành 14 tổ dân phố, đánh số từ 1 đến 3, 5, 6, 11 và từ 20 đến 27.<ref name=":2" /><ref name=":3" />
+{| class="wikitable sortable" align="center" width="100%" cellspacing="6" cellpadding="0" style="background: #f9f9f9; border: 1px #aaa solid; margin-top: 16px"
+! colspan="4" style="background: #E6E6FA; font-size: 95%;" |Danh sách các tổ dân phố thuộc phường Lĩnh Nam<ref name=":2" /><ref name=":3" />
+|-
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Tổ dân phố 1
+| -
+|-
+| align="left" |Tổ dân phố 2
+| -
+|-
+| align="left" |Tổ dân phố 3
+| -
+|-
+| align="left" |Tổ dân phố 5
+|900
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Tổ dân phố 6
+|884
+|-
+| align="left" |Tổ dân phố 11
+| -
+|-
+| align="left" |Tổ dân phố 20
+| -
+|-
+| align="left" |Tổ dân phố 21
+| -
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Tổ dân phố 22
+| -
+|-
+| align="left" |Tổ dân phố 23
+| -
+|-
+| align="left" |Tổ dân phố 24
+| -
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Tổ dân phố 25
+| -
+|-
+| align="left" |Tổ dân phố 26
+| -
+|-
+| align="left" |Tổ dân phố 27
+| -
+|}
+|}
+
+== Kinh tế ==
+Phường Lĩnh Nam có cơ cấu kinh tế chuyển dịch theo hướng tăng dần lĩnh vực dịch vụ - công nghiệp, giảm dần lĩnh vực nông nghiệp.<ref name = ":02">{{Chú thích web | title = Phường Lĩnh Nam: Những thông tin chi tiết sau sắp xếp | url = https://hanoionline.vn/phuong-linh-nam-nhung-thong-tin-chi-tiet-sau-sap-xep-344198.htm | access-date = 2025-07-09 | website = [[Đài Phát thanh – Truyền hình Hà Nội]] | language = vi}}</ref>
+
+Khu vực xung quanh chợ Lĩnh Nam, tuyến đường Lĩnh Nam-Trần Phú-Yên Sở, đường ven sông và các trục xuyên tâm đang hình thành các dãy phố kinh doanh. Trên địa bàn phường có nhiều xưởng sản xuất, cơ sở chế biến thực phẩm, cơ sở chế tạo, cơ khí, gara ô tô quy mô nhỏ, nằm xen lẫn các khu dân cư. Phường Lĩnh Nam còn quỹ đất, gần các tuyến giao thông huyết mạch, gần các khu công nghiệp lớn như khu công nghiệp Vĩnh Tuy, khu công nghiệp Minh Khai, khả năng kết nối với các cảng sông Hồng, cảng cạn ICD.<ref name = ":02" />
+
+Do quá trình đô thị hóa mạnh, diện tích đất nông nghiệp trên địa bàn phường không còn nhiều. Một số khu vực còn hoạt động nông nghiệp như vùng ven sông Hồng (thuộc khu vực Yên Sở, Lĩnh Nam, Thanh Trì), khu bãi giữa và bãi bồi ven sông được sử dụng để trồng các cây hoa màu ngắn ngày. Quy mô sản xuất nhỏ, mang tính chất phụ trợ, không còn đóng vai trò chủ lực cho kinh tế hộ.<ref name = ":02" />
+
+== Xã hội==
+
+=== Y tế ===
+Phường có các trạm y tế Lĩnh Nam và Trần Phú, cùng các phòng khám tư nhân.<ref name = ":02" />
+
+=== Giáo dục ===
+Các trường học trên địa bàn phường bao gồm Tiểu học và THCS Trần Phú, Tiểu học Thúy Lĩnh và Trường Trung cấp Y Dược Tuệ Tĩnh Hà Nội.<ref name = ":02" />
+
+== Văn hóa== 
+Các di tích lịch sử - văn hóa được xếp hạng cấp Quốc gia bao gồm đình Thúy Lĩnh, chùa Hộ Quốc, đình Khuyến Lương. Các lễ hội tại phường có lễ hội đình làng, lễ hội vật cầu làng Thúy Lĩnh (mùng 3 - 6 tháng Giêng), lễ hội rước nước (lễ cấp thủy truyền thống ba dân) tổ chức hàng năm (ngày 14,15 tháng Hai âm lịch); lễ hội truyền thống đình làng Khuyến Lương (ngày 10,11 tháng Hai âm lịch), lễ hội bơi chải truyền thống (ngày 15 tháng Tám âm lịch). Trong phần hội còn tổ chức nhiều trò chơi dân gian.<ref name = ":02" /><ref name=":0">{{Chú thích web | title = Phường Lĩnh Nam: Tất cả thông tin chỉ dẫn bạn cần biết | url = https://hanoionline.vn/phuong-linh-nam-tat-ca-thong-tin-chi-dan-ban-can-biet-344611.htm | access-date = 2025-07-09 | website = [[Đài Phát thanh – Truyền hình Hà Nội]] | language = vi}}</ref>
+
+== Chú thích== 
+{{Tham khảo| 30em}}
+
+== Tham khảo==
+{{sơ khai Hà Nội}}
+
+{{Đơn vị hành chính thuộc thành phố Hà Nội}}

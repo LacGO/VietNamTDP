@@ -1,0 +1,100 @@
+{{Thông tin đơn vị hành chính Việt Nam|Xã
+| tên = Lạc Thủy
+| hình = 
+| ghi chú hình = 
+| vĩ độ = 20.490447816049688
+| kinh độ = 105.77802320301943
+| diện tích = 90,69 km²
+| dân số = 24.529 người
+| thời điểm dân số = 2025
+| mật độ dân số = {{formatnum:{{#expr:floor({{formatnum:24.529| R}}/{{formatnum:90,69| R}})}} }} người/km²
+| vùng =[[Đông Bắc Bộ]] 
+| tỉnh = [[Phú Thọ]]
+| thành lập = 16 tháng 6 năm 2025<ref>Nghị quyết số 1676/NQ-UBTVQH15</ref>
+| trụ sở UBND = Số 300 Đường Đinh Tiên Hoàng, Thôn Chi Nê
+| mã hành chính = 05392<ref>{{Chú thích web |url=https://danhmuchanhchinh.gso.gov.vn/ |title=Tổng cục Thống kê |access-date=2021-12-22 |archive-date=2021-01-10 |archive-url=https://web.archive.org/web/20210110034519/https://www.gso.gov.vn/phuong-phap-thong-ke/danh-muc/don-vi-hanh-chinh/ |url-status=dead }}</ref>
+| mã bưu chính =36821 
+|web={{url|lacthuy.phutho.gov.vn}}
+|loại đô thị=|năm công nhận=}}
+{{other|Lạc Thủy (định hướng)}}
+'''Lạc Thủy''' là một xã thuộc tỉnh [[Phú Thọ]], [[Việt Nam]].
+
+==Địa lý==
+Xã Lạc Thủy nằm ở phía nam tỉnh [[Phú Thọ]], có vị trí địa lý:
+*Phía bắc giáp xã [[An Nghĩa, Phú Thọ|An Nghĩa]] và giáp phường [[Tam Chúc]], tỉnh [[Ninh Bình]].
+*Phía đông giáp phường [[Lý Thường Kiệt, Ninh Bình|Lý Thường Kiệt]], xã [[Tân Thanh, Ninh Bình|Tân Thanh]] và xã [[Thanh Lâm (xã)|Thanh Lâm]], tỉnh [[Ninh Bình]].
+*Phía tây giáp xã [[An Bình, Phú Thọ|An Bình]]
+*Phía nam giáp xã [[Gia Lâm, Ninh Bình|Gia Lâm]], xã [[Gia Hưng (xã)|Gia Hưng]] và xã [[Gia Viễn (xã)|Gia Viễn]], tỉnh [[Ninh Bình]].
+
+Xã Lạc Thủy có diện tích 90,69&nbsp;km², dân số năm 2025 là 24.529 người, mật độ dân số đạt 270 người/km².<ref>{{Chú thích web |title=Xã Lạc Thủy, Tỉnh Phú Thọ mới sáp nhập 2026 |url=https://tinhthanhvn.com/province/phu-tho/xa-lac-thuy |access-date=2026-06-03 |website=Tỉnh Thành Việt Nam |language=vi}}</ref>
+
+Xã này có đường [[Quốc lộ 37C]] (nối Ý Yên - Gián Khẩu - Nho Quan - đường Hồ Chí Minh) đi qua.
+
+==Hành chính==
+Xã Lạc Thủy được chia thành 40 khu - thôn, gồm 15 khu: 1, 2, 3, 4, 5, 7, 8, 9, 10, 11-12, 13, Chéo Vòng, Đồi Hoa, Đồng Bầu, Ngai Long và 25 thôn: Đại Đồng, Đông Yên, Đồi Chùa, Đồng Bong, Đồng Đễ, Đồng Làng, Đồng Nhất, Đồng Nội, Đồng Phú, Hoàng Đồng, Hồng Phong, Hồng Phong 2, Hồng Phong 3, Liên Hồng 1, Liên Hồng 2, Liên Sơn, Mạnh Tiến 1, Mạnh Tiến 2, Ngọc Lâm, Quyết Tiến, Rộc Trụ 1, Rộc Trụ 2, Sóc Bai, Suối Tép, Tân Tiến.<ref name=":1">{{Chú thích web |last=Bộ Dân tộc và Tôn giáo |date=2026-01-29 |title=Danh sách Thôn vùng đồng bào dân tộc thiểu số và miền núi, thôn đặc biệt khó khăn giai đoạn 2026 - 2030 trên địa bàn tỉnh Phú Thọ |url=http://files.ubdt.gov.vn/files/ecm/source_files/2026/02/05/11252411_4.%20Ph%C3%BA%20Th%E1%BB%8D%201%20(th%C3%B4n).signed_26-02-05.pdf |url-status=live |archive-url=https://web.archive.org/web/20260417090807/http://files.ubdt.gov.vn/files/ecm/source_files/2026/02/05/11252411_4.%20Ph%C3%BA%20Th%E1%BB%8D%201%20(th%C3%B4n).signed_26-02-05.pdf |archive-date=2026-04-17 |access-date=2026-04-17 |website=Cổng Thông tin điện tử Bộ Dân tộc và Tôn giáo}}</ref><ref name=":0">{{Chú thích web |last=Ủy ban nhân dân xã Lạc Thủy |date=2026-03-04 |title=Thông báo số 30/TB-UBND về Ngày bầu cử, Thời gian bầu cử, nơi bỏ phiếu bầu cử đại biểu Quốc hội khóa XVI và bầu cử đại biểu Hội đồng nhân dân các cấp nhiệm kỳ 2026 - 2031 trên địa bàn xã Lạc Thủy |url=https://web.facebook.com/share/p/17D9hzfjNJ/ |url-status=live |archive-url=https://web.archive.org/web/20260422090807/https://web.facebook.com/share/p/17D9hzfjNJ/ |archive-date=2026-04-22 |access-date=2026-04-22 |website=Trung tâm Dịch vụ sự nghiệp công xã Lạc Thủy - tỉnh Phú Thọ}}</ref>
+
+==Lịch sử==
+Trước kia, địa bàn xã Lạc Thủy ngày nay là địa bàn của thuộc huyện [[Lạc Thủy (huyện)|Lạc Thủy]], tỉnh [[Hòa Bình (tỉnh)|Hòa Bình]] cũ.
+
+Cuối [[Thế kỷ 18|thế kỷ XVIII]], xã Khoan Dụ được thành lập cùng với việc thành lập tỉnh Mường.
+
+Trước năm [[1945]], một phần xã Lạc Thủy ngày nay thuộc xã xã Yên Đội Thượng thuộc tổng [[Gia Viễn (huyện)|Gia Viễn]], tỉnh [[Ninh Bình]]. Lúc này, xã Yên Đội Thượng có 11 thôn: Tràng Sơn, Hoàng Đồng, Bến Trải, Tròm É, Đồi Cả, Rộc Côm, Rộc Trụ, Rộc Rạ, Đông Yên, Đảng Thượng, Đảng Hạ.
+
+[[Tháng 10]] năm [[1945]], xã Yên Đội Thượng thuộc châu Chi Nê, tỉnh [[Hà Nam (tỉnh của Việt Nam)|Hà Nam]].
+
+Năm [[1946]], xã Yên Đội Thượng được đổi tên thành xã Khoan Dụ.
+
+Năm [[1953]], [[Chính phủ]] ra Quyết định tách xã Khoan Dụ ra khỏi tỉnh Hà Nam để nhập về huyện Lạc Thủy, tỉnh Hòa Bình.
+
+Ngày [[26 tháng 12]] năm [[1990]], thị trấn Chi Nê được thành lập trên cơ sở điều chỉnh 444,5 ha diện tích tự nhiên của xã Lạc Long và 93 ha diện tích tự nhiên của xã Đồng Tâm.
+
+Đến năm [[2018]]:
+
+* Thị trấn Chi Nê có diện tích 6,33&nbsp;km², dân số là 6.084 người, mật độ dân số đạt 961 người/km².
+* Xã Lạc Long có diện tích 8,49&nbsp;km², dân số là 1.659 người, mật độ dân số đạt 195 người/km².
+
+Ngày [[17 tháng 12]] năm [[2019]], [[Ủy ban Thường vụ Quốc hội]] ban hành Nghị quyết số 830/NQ-UBTVQH14 về việc sắp xếp các đơn vị hành chính cấp huyện, cấp xã thuộc tỉnh Hòa Bình (nghị quyết có hiệu lực từ ngày [[1 tháng 1]] năm [[2020]]).<ref name=NQ830>{{Chú thích web|url=https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/Nghi-quyet-830-NQ-UBTVQH14-2019-sap-xep-don-vi-hanh-chinh-cap-huyen-xa-thuoc-tinh-Hoa-Binh-432100.aspx|tựa đề=Nghị quyết số 830/NQ-UBTVQH14 năm 2019 về việc sắp xếp các đơn vị hành chính cấp huyện, cấp xã thuộc tỉnh Hòa Bình|tác giả=|họ=|tên=|ngày=|website=|url lưu trữ=|ngày lưu trữ=|ngày truy cập=}}</ref> Theo đó, sáp nhập toàn bộ diện tích và dân số của xã Lạc Long vào thị trấn Chi Nê.
+
+Ngày [[12 tháng 6]] năm [[2025]], [[Quốc hội Việt Nam|Quốc hội]] ban hành Nghị quyết số 202/2025/QH15 về việc sắp xếp đơn vị hành chính cấp tỉnh (nghị quyết có hiệu lực từ ngày [[12 tháng 6]] năm [[2025]]).<ref>{{Chú thích web |last=xaydungchinhsach.chinhphu.vn |date=2025-07-16 |title=TOÀN VĂN: Nghị quyết số 202/2025/QH15 về sắp xếp đơn vị hành chính cấp tỉnh |url=https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-202-2025-qh15-ve-sap-xep-don-vi-hanh-chinh-cap-tinh-119250612174148722.htm |url-status=live |archive-url=https://web.archive.org/web/20260705025431/https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-202-2025-qh15-ve-sap-xep-don-vi-hanh-chinh-cap-tinh-119250612174148722.htm |archive-date=2026-07-05 |access-date=2026-07-25 |website=Báo Điện tử Chính phủ |language=vi }}</ref> Theo đó, sáp nhập toàn bộ diện tích tự nhiên, quy mô dân số của tỉnh [[Vĩnh Phúc (tỉnh)|Vĩnh Phúc]], tỉnh [[Hòa Bình (tỉnh)|Hòa Bình]] vào tỉnh [[Phú Thọ]].
+
+Ngày [[16 tháng 6]] năm [[2025]]:
+
+* Quốc hội ban hành Nghị quyết số 203/2025/QH15 về việc sửa đổi, bổ sung một số điều của Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam (nghị quyết có hiệu lực từ ngày [[16 tháng 6]] năm [[2025]]).<ref>{{Chú thích web |last=xaydungchinhsach.chinhphu.vn |date=2025-06-28 |title=NGHỊ QUYẾT 203/2025/QH15 SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA HIẾN PHÁP NƯỚC CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM |url=https://xaydungchinhsach.chinhphu.vn/nghi-quyet-203-2025-qh15-sua-doi-bo-sung-mot-so-dieu-cua-hien-phap-nuoc-cong-hoa-xa-hoi-chu-nghia-viet-nam-119250616181735552.htm |url-status=live |archive-url=https://web.archive.org/web/20260715200606/https://xaydungchinhsach.chinhphu.vn/nghi-quyet-203-2025-qh15-sua-doi-bo-sung-mot-so-dieu-cua-hien-phap-nuoc-cong-hoa-xa-hoi-chu-nghia-viet-nam-119250616181735552.htm |archive-date=2026-07-15 |access-date=2026-07-15 |website=Báo Điện tử Chính phủ |language=vi }}</ref> Theo đó, kết thúc hoạt động của đơn vị hành chính cấp huyện trong cả nước từ ngày 1 tháng 7 năm 2025.
+* Ủy ban Thường vụ Quốc hội ban hành Nghị quyết số 1676/NQ-UBTVQH15 về việc sắp xếp đơn vị hành chính cấp xã của tỉnh [[Phú Thọ]] năm 2025 (nghị quyết có hiệu lực từ ngày [[16 tháng 6]] năm [[2025]]).<ref>{{Chú thích web |last=xaydungchinhsach.chinhphu.vn |date=2025-06-20 |title=Nghị quyết số 1676/NQ-UBTVQH15 sắp xếp các ĐVHC cấp xã của tỉnh Phú Thọ năm 2025 |url=https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-1676-nq-ubtvqh15-sap-xep-cac-dvhc-cap-xa-cua-tinh-phu-tho-nam-2025-119250616204317326.htm |url-status=live |archive-url=https://web.archive.org/web/20260725082021/https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-1676-nq-ubtvqh15-sap-xep-cac-dvhc-cap-xa-cua-tinh-phu-tho-nam-2025-119250616204317326.htm |archive-date=2026-07-25 |access-date=2026-07-27 |website=Báo Điện tử Chính phủ |language=vi }}</ref> Theo đó, sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của thị trấn Chi Nê và các xã Đồng Tâm, Khoan Dụ, Yên Bồng thành xã mới có tên gọi là '''xã Lạc Thủy'''.
+
+Sau khi thực hiện sắp xếp, xã Lạc Thủy được chia thành 40 khu - thôn, gồm 15 khu: 1, 2, 3, 4, 5, 7, 8, 9, 10, 11-12, 13, Chéo Vòng, Đồi Hoa, Đồng Bầu, Ngai Long và 25 thôn: Đại Đồng, Đông Yên, Đồi Chùa, Đồng Bong, Đồng Đễ, Đồng Làng, Đồng Nhất, Đồng Nội, Đồng Phú, Hoàng Đồng, Hồng Phong, Hồng Phong 2, Hồng Phong 3, Liên Hồng 1, Liên Hồng 2, Liên Sơn, Mạnh Tiến 1, Mạnh Tiến 2, Ngọc Lâm, Quyết Tiến, Rộc Trụ 1, Rộc Trụ 2, Sóc Bai, Suối Tép, Tân Tiến.<ref name=":1" /><ref name=":0" />
+
+Ngày [[24 tháng 12]] năm [[2025]], Ủy ban Thường vụ Quốc hội ban hành Nghị quyết số 111/2025/UBTVQH15 về phân loại đô thị (nghị quyết có hiệu lực từ ngày [[1 tháng 1]] năm [[2026]]).<ref>{{Chú thích web |last=xaydungchinhsach.chinhphu.vn |date=2026-01-21 |title=Nghị quyết số 111/2025/UBTVQH15 về phân loại đô thị |url=https://xaydungchinhsach.chinhphu.vn/nghi-quyet-so-111-2025-ubtvqh15-ve-phan-loai-do-thi-119260101170432239.htm |access-date=2026-07-23 |website=xaydungchinhsach.chinhphu.vn |language=vi}}</ref> Theo đó, đô thị loại IV, loại V, thị xã và thị trấn trước khi sắp xếp chưa được công nhận loại đô thị được xác định là đô thị loại III. Một phần xã Lạc Thủy được xác định là đô thị loại III (từ đô thị loại V của thị trấn Chi Nê cũ).<!-- 
+==Lịch sử==
+Xã được thành lập vào cuối thế kỷ XVIII cùng với việc thành lập tỉnh Mường.Trước năm 1945 xã Yên Đội Thượng (sau này là Khoan Dụ) thuộc tổn Gia Viễn, tỉnh Ninh Bình. Ở thời điểm đó xã Yên Đội có 11 thôn là:Tràng Sơn, Hoàng Đồng, Bến Trải, Tròm É, Đồi Cả, Rộc Côm, Rộc Trụ, Rộc Rạ, Đông Yên, Đảng Thượng,Đảng Hạ. Tháng 10/1945 xã Yên Đội Thượng thuộc châu Chi Nê, tỉnh Hà Nam. Năm 1946 xã Yên Đội Thượng được đổi tên thành xã Khoan Dụ. Năm 1953 Chính phủ quyết định tách xã Khoan Dụ ra khỏi tỉnh Hà Nam để nhập về tỉnh Hòa Bình, từ đó đến nay xã Khoan Dụ thuộc huyện Lạc Thủy tỉnh Hòa Bình.Hiện tại xã Khoan Dụ có 6 thôn là: Liên Sơn, Hoàng Đồng, Liên Hồng I, Liên Hồng II, Rộc Trụ I, Rộc Trụ II. Đến nay chưa có căn cứ khoa học nào lý giải về 2 từ Khoan Dụ, theo một số ý kiến cho rằng"Dụ" ở thời điểm đó là chỉ văn bản, quyết định của triều đình phong kiến còn "Khoan" có thể hiểu là tạm dừng ra chỉ dụ để thực hiện vào dịp khác.
+
+Tháng 2/1930 Đảng CSVN được thành lập thì đến ngày 21 tháng 12 năm 1930 tại xã Khoan Dụ đã có tổ Đảng được thành lập tại Thôn Hoàng Đồng, đây là tổ chức Cộng sản đầu tiên của huyện Lạc Thủy, tỉnh Hòa Bình
+
+Trong kháng chiến chống Pháp địa bàn Khoan Dụ là nơi sơ tán của liên khu III, nhiều đơn vị quân đội đã dóng chân trên địa bàn Khoan Dụ như viện 5 QK3, xưởng Đinh Bộ Lĩnh...
+
+xã Khoan Dụ được phong tặng danh hiệu anh hùng LLVT thời kỳ chống Pháp vào năm 2005 
+==Địa lý==
+
+Xã KHoan Dụ có cảnh quan thiên nhiên giáp gianh giữa trung du và miền núi, có đủ đồi, núi, sông, thung, dầm, rộc, hang động, ao hồ, ruộng nương, trên bến dưới thuyền. Sông Bôi con sông lớn thứ 2 sau sông Đà của tỉnh Hòa Bình chảy qua địa bàn xã Khoan Dụ khoảng 3&nbsp;km là đường giao thông thủy nối liền Khoan Dụ với các tỉnh đồng bằng, đường 438A chạy qua Khoan Dụ khoảng 2&nbsp;km đi tỉnh Ninh Bình
+==Dân cư==
+Ở Khoan Dụ có 2 dân tộc là Kinh (khoảng 70%); Mường (khoảng 30%) và 2 tôn giáo (Lương khoảng 10%), Thiên chúa giáo (khoảng 90%) cùng chung sống hòa thuận, đoàn kết từ bao đời nay. Nhà thờ Khoan dụ được xây dựng 1872 do ý đồ của người Pháp và đóng góp của giáo dân các tình Hà Nam, Ninh Bình, Nam Định...đến định cự tại Khoan Dụ
+
+==Di tích==
+Người Mường [[Hòa Bình (tỉnh)|Hòa Bình]] thờ vua [[Đinh Tiên Hoàng]] ở đình Sóc Bai (hay đình Xác Bái) ở xã Yên Bồng, [[Lạc Thủy (huyện)|Lạc Thủy]]. Ở đình Xác Bái xã Yên Bông huyện [[Lạc Thủy (huyện)|Lạc Thủy]] người Mường thờ vua [[Đinh Tiên Hoàng]] với lễ hội được tổ chức vào ngày 13 tháng 11 âm lịch rứơc kiệu đi đầu đám rước là trai đình vác cờ cắm lêu đầu những cán cờ là những bông lau để tưởng nhớ và truyền lại sự kiện vua kéo cờ bông lau kéo quân đi dẹp [[loạn 12 sứ quân]] thống nhất sơn hà. -->
+
+== Dân cư ==
+Lạc Thủy là vùng đất có nhiều dân tộc đa dạng, chủ yếu là [[Người Việt|Kinh]] và [[Người Mường|Mường]] với hai tôn giáo chính là Lương và Thiên chúa giáo cùng chung sống hòa thuận, đoàn kết từ bao đời nay.
+
+Nhà thờ Khoan Dụ được xây dựng năm [[1872]] do ý đồ của [[người Pháp]] và đóng góp của giáo dân các tình [[Hà Nam (tỉnh của Việt Nam)|Hà Nam]], [[Ninh Bình]], [[Nam Định (tỉnh)|Nam Định]] cũ, ... đến định cự tại Lạc Thủy.
+
+== Di tích ==
+Người Mường tại nơi đây thờ vua [[Đinh Tiên Hoàng]] ở đình Sóc Bai (hay đình Xác Bái) ở xã Lạc Thủy với lễ hội được tổ chức vào ngày [[13 tháng 11]] âm lịch hàng năm.
+
+Vào ngày này, người rước kiệu đi đầu đám rước thường là trai đình vác cờ cắm lêu đầu những cán cờ là những bông lau để tưởng nhớ và truyền lại sự kiện vua kéo cờ bông lau kéo quân đi dẹp [[loạn 12 sứ quân]] thống nhất đất nước.
+
+==Chú thích==
+{{tham khảo|30em}}
+
+==Tham khảo==
+{{sơ khai Phú Thọ}}
+{{Đơn vị hành chính thuộc tỉnh Phú Thọ}}

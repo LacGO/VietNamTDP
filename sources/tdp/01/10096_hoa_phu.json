@@ -1,0 +1,96 @@
+{
+  "ward_code": "10096",
+  "ward_name": "Hoà Phú",
+  "province_code": "01",
+  "resolution": "",
+  "arrangement": "2026_07",
+  "effective_date": "2026-07-01",
+  "verified": "unverified",
+  "extraction": {
+    "source": "vi.wikipedia.org",
+    "title": "(cache)",
+    "mode": "table"
+  },
+  "sources": [
+    {
+      "key": "wiki-10096-1",
+      "title": "Nghị quyết số 1656/NQ-UBTVQH15 ngày 16 tháng 6 năm 2025 của Ủy ban Thường vụ Quốc hội về việc sắp xếp các đơn vị hành chính cấp xã của thành phố Hà Nội năm 2025",
+      "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf",
+      "date": "2026-06-30",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-10096-2",
+      "title": "Hội đồng nhân dân xã Hòa Phú xem xét nhiều nội dung quan trọng tại Kỳ họp thứ Ba, quyết nghị các giải pháp phát triển 6 tháng cuối năm",
+      "url": "https://sqhx-hanoi.mediacdn.vn/91579363132710912/2026/7/2/thong-bao-nq-sap-xep-thon-1782987257991528023477.pdf",
+      "date": "2026-06-30",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-10096-3",
+      "title": "Bài tuyên truyền về Đề án sắp xếp, tổ chức lại Thôn trên địa bàn xã Hòa Phú năm 2026",
+      "url": "https://hoaphu.hanoi.gov.vn/thong-tin-tuyen-truyen/bai-tuyen-truyen-ve-de-an-sap-xep-to-chuc-lai-thon-tren-dia-ban-xa-hoa-phu-nam-2026-2715260618110247206.htm?gidzl=U06aEh8GBp9y7g0yk0icF7qReJQlNdqxOqsYCQiFVseq5_TW-GP-Q3CVz6ci2YjZOq-XEJFy8Buvjn4hC0",
+      "date": "2026-06-18",
+      "type": "wikipedia-ref"
+    }
+  ],
+  "note": "Trích tự động từ Wikipedia tiếng Việt (mode=table). Cần đối chiếu nghị quyết HĐND phường/xã.",
+  "tdp": [
+    {
+      "name": "An Thượng",
+      "type": "thôn"
+    },
+    {
+      "name": "Đại Đồng",
+      "type": "thôn"
+    },
+    {
+      "name": "Đồng Lạc",
+      "type": "thôn"
+    },
+    {
+      "name": "Hạ Dục",
+      "type": "thôn"
+    },
+    {
+      "name": "Hòa Phúc",
+      "type": "thôn"
+    },
+    {
+      "name": "Hồng Phong",
+      "type": "thôn"
+    },
+    {
+      "name": "Lễ Khê",
+      "type": "thôn"
+    },
+    {
+      "name": "Lưu Hòang",
+      "type": "thôn"
+    },
+    {
+      "name": "Mỗ Xá",
+      "type": "thôn"
+    },
+    {
+      "name": "Nhân Chính",
+      "type": "thôn"
+    },
+    {
+      "name": "Phú Yên",
+      "type": "thôn"
+    },
+    {
+      "name": "Sơn Triều",
+      "type": "thôn"
+    },
+    {
+      "name": "Văn La",
+      "type": "thôn"
+    },
+    {
+      "name": "Võ Lao",
+      "type": "thôn"
+    }
+  ]
+}

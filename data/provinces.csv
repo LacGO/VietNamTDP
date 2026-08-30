@@ -1,0 +1,3 @@
+province_code,name,full_name,name_en,full_name_en,code_name,unit_type,postal_prefix,ward_count
+01,Hà Nội,Thành phố Hà Nội,Hanoi,Hanoi City,ha_noi,Thành phố trực thuộc trung ương,"10, 11, 12, 13, 14",126
+25,Phú Thọ,Tỉnh Phú Thọ,Phu Tho,Phu Tho Province,phu_tho,Tỉnh,"15, 35, 36",148

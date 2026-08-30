@@ -1,0 +1,140 @@
+{
+  "ward_code": "09574",
+  "ward_name": "Sơn Tây",
+  "province_code": "01",
+  "resolution": "",
+  "arrangement": "2026_07",
+  "effective_date": "2026-07-01",
+  "verified": "unverified",
+  "extraction": {
+    "source": "vi.wikipedia.org",
+    "title": "(cache)",
+    "mode": "table"
+  },
+  "sources": [
+    {
+      "key": "wiki-09574-1",
+      "title": "Phường Sơn Tây lấy ý kiến nhân dân về đề án sắp xếp tổ dân phố",
+      "url": "https://sontay.hanoi.gov.vn/tin-tuc-su-kien/phuong-son-tay-lay-y-kien-nhan-dan-ve-de-an-sap-xep-to-dan-pho-269826061507405983.htm",
+      "date": "2026-06-15",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-09574-2",
+      "title": "Kỳ họp thứ 2 Hội đồng nhân dân phường Sơn Tây khóa I, nhiệm kỳ 2021 – 2026",
+      "url": "https://sontay.hanoi.gov.vn/chi-dao-dieu-hanh/ky-hop-thu-2-hdnd-phuong-son-tay-khoa-i-nhiem-ky-2021-2026-2698250718211815762.htm?gidzl=fg762yJ5TWoYli8Dpjrp3gcynGpJtdHRlk-L2z-3A0tlxiWAWuql2kQ-oGk1YYuExBoU3pLKLOKsmSHo3W",
+      "date": "2026-07-13",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-09574-3",
+      "title": "Nghị quyết số 111/2025/UBTVQH15 ngày 24 tháng 12 năm 2025 của Ủy ban Thường vụ Quốc hội về phân loại đô thị",
+      "url": "https://cdn.nhandan.vn/files/f4a4abf7f9a0ba4a91744616546d850872b76917f90d5a74cc9eebef1369fb6f/111.pdf",
+      "date": "2026-08-14",
+      "type": "wikipedia-ref"
+    }
+  ],
+  "note": "Trích tự động từ Wikipedia tiếng Việt (mode=table). Cần đối chiếu nghị quyết HĐND phường/xã.",
+  "tdp": [
+    {
+      "name": "Ái Mỗ",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Cam Lâm",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Chùa Thông",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Đông Sàng",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Đường Lâm",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Hồng Hà",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Lạc Sơn",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Lê Lợi",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Nghĩa Phủ",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Ngô Quyền",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Phú Mai",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Phú Nhi",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Phú Thịnh",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Phù Sa",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Phùng Hưng",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Phùng Khắc Khoan",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Quang Trung",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Sơn Lộc",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Tiền Huân",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Trần Hưng Đạo",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Trung Hưng",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Văn Miếu",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Vân Gia",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Viên Sơn",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Yên Mỹ",
+      "type": "tổ dân phố"
+    }
+  ]
+}

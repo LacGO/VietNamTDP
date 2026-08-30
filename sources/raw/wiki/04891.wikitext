@@ -1,0 +1,50 @@
+{{Thông tin đơn vị hành chính Việt Nam | xã
+| tên = Tiền Phong
+| hình = 
+| ghi chú hình = 
+| vĩ độ = 20.815733371864745
+| kinh độ = 105.21724262417577
+| diện tích = 116,31 km²
+| dân số = 5.246 người
+| thời điểm dân số = 2025
+| mật độ dân số = {{formatnum:{{#expr:floor({{formatnum:5.246| R}}/{{formatnum:116,31| R}})}} }} người/km²
+| vùng = [[Đông Bắc Bộ]]
+| tỉnh = [[Phú Thọ]]
+| thành lập = 16/6/2025
+| trụ sở UBND = 
+| mã hành chính = 
+| mã bưu chính = 
+}}
+{{other|Tiền Phong (định hướng)}}
+'''Tiền Phong''' là một [[Xã (Việt Nam)|xã]] thuộc tỉnh [[Phú Thọ]], [[Việt Nam]].
+
+== Địa lý ==
+Xã Tiền Phong có vị trí địa lý:
+
+* Phía bắc giáp xã [[Quy Đức, Phú Thọ|Quy Đức]], xã [[Cao Sơn, Phú Thọ|Cao Sơn]] và xã [[Đà Bắc (xã)|Đà Bắc]].
+* Phía nam giáp xã [[Tả Van]], tỉnh [[Lào Cai]] và xã [[Thung Nai]].
+* Phía đông giáp phường [[Thống Nhất, Phú Thọ|Thống Nhất]].
+* Phía tây giáp xã [[Tân Mai (xã)|Tân Mai]].
+
+== Hành chính ==
+Xã Tiền Phong được chia thành 14 xóm: Cò Xa, Dướng, Điêng Lựng, Đoàn Kết, Đức Phong, Lau, Mó Nẻ, Nà Mát, Phiếu, Săng Bờ, Tham, Thín, Túp, Vầy Ang.<ref name=":1">{{Chú thích web |last=Bộ Dân tộc và Tôn giáo |date=2026-01-29 |title=Danh sách Thôn vùng đồng bào dân tộc thiểu số và miền núi, thôn đặc biệt khó khăn giai đoạn 2026 - 2030 trên địa bàn tỉnh Phú Thọ |url=http://files.ubdt.gov.vn/files/ecm/source_files/2026/02/05/11252411_4.%20Ph%C3%BA%20Th%E1%BB%8D%201%20(th%C3%B4n).signed_26-02-05.pdf |url-status=live |archive-url=https://web.archive.org/web/20260417090807/http://files.ubdt.gov.vn/files/ecm/source_files/2026/02/05/11252411_4.%20Ph%C3%BA%20Th%E1%BB%8D%201%20(th%C3%B4n).signed_26-02-05.pdf |archive-date=2026-04-17 |access-date=2026-04-17 |website=Cổng Thông tin điện tử Bộ Dân tộc và Tôn giáo}}</ref><ref>{{Chú thích web |last=Ủy ban bầu cử xã Tiền Phong |date=2026-03-18 |title=Nghị quyết số 3/NQ-UBBC về việc công bố kết quả bầu cử và danh sách những người trúng cử đại biểu Hội đồng nhân dân xã Tiền Phong khóa XXI, nhiệm kỳ 2026 - 2031 |url=https://tienphong.phutho.gov.vn/index.php/finish/3-v-n-ba-n-ca-a-n-va/198-nghii-quya-i-t-ca-ng-ba-i-ka-i-t-quai-ba-i-u-c-i-vai-danh-sai-ch-nh-i-ng-ng-i-i-trui-ng-c-i-ai-i-bia-i-u-h-nd-xai-tia-i-n-phong-khoai-xxi-nhia-i-m-kyi-2026-2031/0 |url-status=live |archive-url=https://web.archive.org/web/20260426090807/https://tienphong.phutho.gov.vn/index.php/finish/3-v-n-ba-n-ca-a-n-va/198-nghii-quya-i-t-ca-ng-ba-i-ka-i-t-quai-ba-i-u-c-i-vai-danh-sai-ch-nh-i-ng-ng-i-i-trui-ng-c-i-ai-i-bia-i-u-h-nd-xai-tia-i-n-phong-khoai-xxi-nhia-i-m-kyi-2026-2031/0 |archive-date=2026-04-26 |access-date=2026-04-26 |website=Trang Thông tin điện tử xã Tiền Phong - tỉnh Phú Thọ}}</ref>
+
+Từ ngày 01 tháng 7 năm 2026, xã Tiền Phong có 8 thôn<ref>{{Chú thích web |title=Nghị Quyết về việc Sắp xếp, đặt tên, đổi tên thôn trên địa bàn xã Tiền Phong |url=https://tienphong.phutho.gov.vn/index.php/tin-t-c-s-ki-n/753-nghi-quyet-ve-viec-sap-xep-dat-ten-doi-ten-thon-tren-dia-ban-xa-tien-phong}}</ref>: Cò Xa, Đức Phong, Hào Phong, Hào Tráng, Mó Né, Săng Bờ, Tân Thành, Vầy Nưa.
+
+== Lịch sử ==
+Địa bàn xã Tiền Phong trước đây thuộc huyện [[Đà Bắc (huyện)|Đà Bắc]], tỉnh [[Hòa Bình (tỉnh)|Hòa Bình]] cũ.
+
+Ngày [[12 tháng 6]] năm [[2025]], [[Quốc hội Việt Nam|Quốc hội]] ban hành Nghị quyết số 202/2025/QH15<ref name="202/2025/QH15">{{Chú thích web |ngày=2025-06-12 |tựa đề=Nghị quyết số 202/2025/QH15 về việc sắp xếp đơn vị hành chính cấp tỉnh |url=https://quochoi.vn/tintuc/Pages/tin-hoat-dong-cua-quoc-hoi.aspx?ItemID=94532 |url-status=live |url lưu trữ=https://web.archive.org/web/20250612150244/https://quochoi.vn/tintuc/Pages/tin-hoat-dong-cua-quoc-hoi.aspx?ItemID=94532 |ngày lưu trữ=2025-06-12 |ngày truy cập=2025-06-12 |website=Cổng thông tin điện tử Quốc hội Việt Nam}}</ref> về việc sắp xếp đơn vị hành chính cấp tỉnh (nghị quyết có hiệu lực từ ngày 12 tháng 6 năm 2025). Theo đó, sáp nhập tỉnh [[Hòa Bình (tỉnh)|Hòa Bình]] và tỉnh [[Vĩnh Phúc (tỉnh)|Vĩnh Phúc]] vào tỉnh Phú Thọ. Xã Tiền Phong thuộc tỉnh Phú Thọ.
+
+Ngày [[16 tháng 6]] năm [[2025]]:
+
+* Quốc hội ban hành Nghị quyết số 203/2025/QH15 về việc sửa đổi, bổ sung một số điều của Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam (nghị quyết có hiệu lực từ ngày [[16 tháng 6]] năm [[2025]]).<ref>{{Chú thích web |last=xaydungchinhsach.chinhphu.vn |date=2025-06-28 |title=NGHỊ QUYẾT 203/2025/QH15 SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA HIẾN PHÁP NƯỚC CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM |url=https://xaydungchinhsach.chinhphu.vn/nghi-quyet-203-2025-qh15-sua-doi-bo-sung-mot-so-dieu-cua-hien-phap-nuoc-cong-hoa-xa-hoi-chu-nghia-viet-nam-119250616181735552.htm |url-status=live |archive-url=https://web.archive.org/web/20260715200606/https://xaydungchinhsach.chinhphu.vn/nghi-quyet-203-2025-qh15-sua-doi-bo-sung-mot-so-dieu-cua-hien-phap-nuoc-cong-hoa-xa-hoi-chu-nghia-viet-nam-119250616181735552.htm |archive-date=2026-07-15 |access-date=2026-07-15 |website=Báo Điện tử Chính phủ |language=vi }}</ref> Theo đó, kết thúc hoạt động của đơn vị hành chính cấp huyện trong cả nước từ ngày 1 tháng 7 năm 2025.
+
+* [[Ủy ban Thường vụ Quốc hội]] ban hành Nghị quyết số 1676/NQ-UBTVQH15 về việc sắp xếp đơn vị hành chính cấp xã của tỉnh [[Phú Thọ]] năm 2025 (nghị quyết có hiệu lực từ ngày [[16 tháng 6]] năm [[2025]]).<ref>{{Chú thích web |last=xaydungchinhsach.chinhphu.vn |date=2025-06-20 |title=Nghị quyết số 1676/NQ-UBTVQH15 sắp xếp các ĐVHC cấp xã của tỉnh Phú Thọ năm 2025 |url=https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-1676-nq-ubtvqh15-sap-xep-cac-dvhc-cap-xa-cua-tinh-phu-tho-nam-2025-119250616204317326.htm |url-status=live |archive-url=https://web.archive.org/web/20260725082021/https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-1676-nq-ubtvqh15-sap-xep-cac-dvhc-cap-xa-cua-tinh-phu-tho-nam-2025-119250616204317326.htm |archive-date=2026-07-25 |access-date=2025-09-07 |website=Báo Điện tử Chính phủ |language=vi }}</ref> Theo đó, sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số xã Tiền Phong và một phần xã Vầy Nưa (huyện [[Đà Bắc (huyện)|Đà Bắc]]) thành xã mới có tên gọi là '''xã Tiền Phong'''.
+
+==Chú thích==
+{{tham khảo|30em}}
+
+== Tham khảo ==
+{{sơ khai Phú Thọ}}
+{{Đơn vị hành chính thuộc tỉnh Phú Thọ}}

@@ -1,0 +1,96 @@
+{
+  "ward_code": "00493",
+  "ward_name": "Thiên Lộc",
+  "province_code": "01",
+  "resolution": "",
+  "arrangement": "truoc_2026_07",
+  "effective_date": "",
+  "verified": "unverified",
+  "extraction": {
+    "source": "vi.wikipedia.org",
+    "title": "(cache)",
+    "mode": "table"
+  },
+  "sources": [
+    {
+      "key": "wiki-00493-1",
+      "title": "Danh sách chính thức những người ứng cử đại biểu Hội đồng nhân dân xã Thiên Lộc khóa II, nhiệm kỳ 2026 – 2031",
+      "url": "https://thienloc.hanoi.gov.vn/bau-cu/danh-sach-chinh-thuc-nhung-nguoi-ung-cu-dai-bieu-hdnd-xa-thien-loc-khoa-ii-nhiem-ky-2026-2031-2786260225120538456.htm",
+      "date": "2026-02-27",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-00493-2",
+      "title": "Nghị quyết số 1656/NQ-UBTVQH15 ngày 16 tháng 6 năm 2025 của Ủy ban Thường vụ Quốc hội về việc sắp xếp các đơn vị hành chính cấp xã của thành phố Hà Nội năm 2025",
+      "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf",
+      "date": "2026-05-13",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-00493-3",
+      "title": "Nghị quyết số 203/2025/QH15 ngày 16 tháng 6 năm 2025 của Quốc hội khóa XV, Kỳ họp thứ 9 về việc sửa đổi, bổ sung một số điều của Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam",
+      "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/nq-sua-doi-hien-phap.pdf",
+      "date": "",
+      "type": "wikipedia-ref"
+    }
+  ],
+  "note": "Trích tự động từ Wikipedia tiếng Việt (mode=table). Cần đối chiếu nghị quyết HĐND phường/xã. ⚠️ Danh mục có thể là hiện trạng TRƯỚC sắp xếp thôn/TDP 01/7/2026 — Wikipedia chưa cập nhật nghị quyết mới.",
+  "tdp": [
+    {
+      "name": "Bắc",
+      "type": "thôn"
+    },
+    {
+      "name": "Bầu",
+      "type": "thôn"
+    },
+    {
+      "name": "Cầu Thăng Long",
+      "type": "thôn"
+    },
+    {
+      "name": "Đại Đồng",
+      "type": "thôn"
+    },
+    {
+      "name": "Đại Độ",
+      "type": "thôn"
+    },
+    {
+      "name": "Đòai",
+      "type": "thôn"
+    },
+    {
+      "name": "Đông",
+      "type": "thôn"
+    },
+    {
+      "name": "Hậu Dưỡng",
+      "type": "thôn"
+    },
+    {
+      "name": "Mai Châu",
+      "type": "thôn"
+    },
+    {
+      "name": "Mạch Lũng",
+      "type": "thôn"
+    },
+    {
+      "name": "Nhuế",
+      "type": "thôn"
+    },
+    {
+      "name": "Sáp Mai",
+      "type": "thôn"
+    },
+    {
+      "name": "Thọ Đa",
+      "type": "thôn"
+    },
+    {
+      "name": "Võng La",
+      "type": "thôn"
+    }
+  ]
+}

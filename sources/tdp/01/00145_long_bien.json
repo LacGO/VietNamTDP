@@ -1,0 +1,140 @@
+{
+  "ward_code": "00145",
+  "ward_name": "Long Biên",
+  "province_code": "01",
+  "resolution": "",
+  "arrangement": "2026_07",
+  "effective_date": "2026-07-01",
+  "verified": "unverified",
+  "extraction": {
+    "source": "vi.wikipedia.org",
+    "title": "(cache)",
+    "mode": "table"
+  },
+  "sources": [
+    {
+      "key": "wiki-00145-1",
+      "title": "Hội đồng nhân dân phường Long Biên thông qua Nghị quyết về sắp xếp các tổ dân phố",
+      "url": "https://hanoimoi.vn/hdnd-phuong-long-bien-thong-qua-nghi-quyet-ve-sap-xep-cac-to-dan-pho-1209394.html?gidzl=0vsDI8EU61K7WebEYOCV6W-5Zq6NqHOQ4uQ35y3M41yJqz4IdO91JHxJX42SqnLAJD3KGcAsCg1iXfyS5m",
+      "date": "2026-06-26",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-00145-2",
+      "title": "Nghị quyết số 8/NQ-HĐND ngày 18 tháng 7 năm 2025 của Hội đồng nhân dân phường Long Biên về việc đổi tên các tổ dân phố trên địa bàn phường Long Biên",
+      "url": "https://sqhx-hanoi.mediacdn.vn/91579363132710912/2025/7/29/nq-08-ve-doi-ten-to-dan-pho-1753777605686735101223.pdf",
+      "date": "2026-07-10",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-00145-3",
+      "title": "Danh sách chính thức những người ứng cử đại biểu Hội đồng nhân dân phường Long Biên khóa II, nhiệm kỳ 2026 – 2031",
+      "url": "https://longbien.hanoi.gov.vn/bau-cu-dai-bieu-quoc-hoi-khoa-xvi-va-bau-cu-hdnd-cac-cap-nhiem-ky-2026-2031/danh-sach-chinh-thuc-nhung-nguoi-ung-cu-dai-bieu-hdnd-phuong-long-bien-khoa-ii-nhiem-ky-2026-2031-2811260227155142773.htm",
+      "date": "2026-02-26",
+      "type": "wikipedia-ref"
+    }
+  ],
+  "note": "Trích tự động từ Wikipedia tiếng Việt (mode=table). Cần đối chiếu nghị quyết HĐND phường/xã.",
+  "tdp": [
+    {
+      "name": "Tổ dân phố 918",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Cự Đồng",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Độc Lập",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Long Biên",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Ngọc Trì 1",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Ngọc Trì 2",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Ngô 1",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Ngô 2",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Nha 1",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Nha 2",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Thạch Bàn",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Thạch Cầu 1",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Thạch Cầu 2",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Thạch Cầu Bây 1",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Thạch Cầu Bây 2",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Thống Nhất",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Thổ Khối 1",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Thổ Khối 2",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Thượng Hội",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Trạm 1",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Trạm 2",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Tư Đình 1",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Tư Đình 2",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Xuân Đỗ Hạ",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Xuân Đỗ Thượng",
+      "type": "tổ dân phố"
+    }
+  ]
+}

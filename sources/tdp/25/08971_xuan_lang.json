@@ -1,0 +1,212 @@
+{
+  "ward_code": "08971",
+  "ward_name": "Xuân Lãng",
+  "province_code": "25",
+  "resolution": "",
+  "arrangement": "truoc_2026_07",
+  "effective_date": "",
+  "verified": "unverified",
+  "extraction": {
+    "source": "vi.wikipedia.org",
+    "title": "Xuân Lãng",
+    "mode": "narrative"
+  },
+  "sources": [
+    {
+      "key": "wiki-08971-1",
+      "title": "Nghị quyết của UBND tỉnh Vĩnh Phúc",
+      "url": "https://vinhphuc.gov.vn/ct/cms/HeThongChinhTriTinh/uybannhandan/Lists/QuyetDinh/View_Detail.aspx?ItemID=677",
+      "date": "2025-12-10",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-08971-2",
+      "title": "Quyết định số 1679/QĐ-UBND về việc thành lập khu vực bỏ phiếu bầu cử đại biểu Quốc hội khóa XVI và đại biểu Hội đồng nhân dân các cấp xã Xuân Lãng, nhiệm kỳ 2026 - 2031",
+      "url": "https://xuanlang.phutho.gov.vn/images/N%C4%83m_2026/V%C4%83n_b%E1%BA%A3n/1679-Q%C4%90_TH%C3%80NH_L%E1%BA%ACP_KV_B%E1%BB%8E_PHI%E1%BA%BEU.pdf",
+      "date": "2025-12-31",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-08971-3",
+      "title": "Nghị quyết số 868/NQ-UBTVQH14 của ỦY BAN THƯỜNG VỤ QUỐC HỘI: Về việc sắp xếp các đơn vị hành chính cấp xã thuộc tỉnh Vĩnh Phúc",
+      "url": "http://vanban.chinhphu.vn/default.aspx?pageid=27160&docid=199019",
+      "date": "2026-07-17",
+      "type": "wikipedia-ref"
+    }
+  ],
+  "note": "Trích tự động từ Wikipedia tiếng Việt (mode=narrative). Cần đối chiếu nghị quyết HĐND phường/xã. ⚠️ Danh mục có thể là hiện trạng TRƯỚC sắp xếp thôn/TDP 01/7/2026 — Wikipedia chưa cập nhật nghị quyết mới.",
+  "tdp": [
+    {
+      "name": "Bãi Kếu",
+      "type": "thôn"
+    },
+    {
+      "name": "Can Bi 1",
+      "type": "thôn"
+    },
+    {
+      "name": "Can Bi 2",
+      "type": "thôn"
+    },
+    {
+      "name": "Chùa",
+      "type": "thôn"
+    },
+    {
+      "name": "Công Bình",
+      "type": "thôn"
+    },
+    {
+      "name": "Dương Cốc",
+      "type": "thôn"
+    },
+    {
+      "name": "Đại Phúc 1",
+      "type": "thôn"
+    },
+    {
+      "name": "Đại Phúc 2",
+      "type": "thôn"
+    },
+    {
+      "name": "Đầu Làng",
+      "type": "thôn"
+    },
+    {
+      "name": "Đòan Kết",
+      "type": "thôn"
+    },
+    {
+      "name": "Đông Đòai",
+      "type": "thôn"
+    },
+    {
+      "name": "Đồng Lý",
+      "type": "thôn"
+    },
+    {
+      "name": "Đồng Sáo",
+      "type": "thôn"
+    },
+    {
+      "name": "Độc Lập",
+      "type": "thôn"
+    },
+    {
+      "name": "Giữa",
+      "type": "thôn"
+    },
+    {
+      "name": "Hồng Bàng",
+      "type": "thôn"
+    },
+    {
+      "name": "Hồng Hồ",
+      "type": "thôn"
+    },
+    {
+      "name": "Hưởng Lộc",
+      "type": "thôn"
+    },
+    {
+      "name": "Kếu",
+      "type": "thôn"
+    },
+    {
+      "name": "Kiền Sơn",
+      "type": "thôn"
+    },
+    {
+      "name": "Kim Thái",
+      "type": "thôn"
+    },
+    {
+      "name": "Lý Hải",
+      "type": "thôn"
+    },
+    {
+      "name": "Lý Nhân",
+      "type": "thôn"
+    },
+    {
+      "name": "Minh Lương",
+      "type": "thôn"
+    },
+    {
+      "name": "Mỹ Đô",
+      "type": "thôn"
+    },
+    {
+      "name": "Nam Bản",
+      "type": "thôn"
+    },
+    {
+      "name": "Nam Nhân",
+      "type": "thôn"
+    },
+    {
+      "name": "Nhân Vực",
+      "type": "thôn"
+    },
+    {
+      "name": "Tân An",
+      "type": "thôn"
+    },
+    {
+      "name": "Tây Trại",
+      "type": "thôn"
+    },
+    {
+      "name": "Thịnh Đức",
+      "type": "thôn"
+    },
+    {
+      "name": "Thống Nhất",
+      "type": "thôn"
+    },
+    {
+      "name": "Thượng Đức",
+      "type": "thôn"
+    },
+    {
+      "name": "Tiền Phong",
+      "type": "thôn"
+    },
+    {
+      "name": "Trại",
+      "type": "thôn"
+    },
+    {
+      "name": "Trại Dật",
+      "type": "thôn"
+    },
+    {
+      "name": "Trại Giữa",
+      "type": "thôn"
+    },
+    {
+      "name": "Trại Ngòai",
+      "type": "thôn"
+    },
+    {
+      "name": "Trại Trong",
+      "type": "thôn"
+    },
+    {
+      "name": "Trường Thư",
+      "type": "thôn"
+    },
+    {
+      "name": "Vườn Quan",
+      "type": "thôn"
+    },
+    {
+      "name": "Yên Định",
+      "type": "thôn"
+    },
+    {
+      "name": "Yên Thần",
+      "type": "thôn"
+    }
+  ]
+}

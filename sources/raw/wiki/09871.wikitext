@@ -1,0 +1,335 @@
+{{Thông tin đơn vị hành chính Việt Nam |Xã
+| tên = Sơn Đồng
+| vĩ độ = 21.02555778606417 
+| kinh độ = 105.68571170945988 
+| diện tích = 21,57 km²
+| dân số = 63.267 người
+| thời điểm dân số = 2025
+| mật độ dân số = {{formatnum:{{#expr:floor({{formatnum:63.267| R}}/{{formatnum:21,57| R}})}} }} người/km²
+| thành phố = [[Hà Nội]]
+| vùng = [[Đồng bằng sông Hồng]]
+| mã hành chính =09871<ref>{{Chú thích web |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/19ttg.signed.pdf |title=Quyết định số 19/2025/QĐ-TTg ngày 30 tháng 6 năm 2025 của Thủ tướng Chính phủ về việc Ban hành Bảng danh mục và mã số các đơn vị hành chính Việt Nam |access-date=2026-06-15 |archive-date=2026-06-15 |archive-url=https://web.archive.org/web/20260615034519/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/19ttg.signed.pdf |url-status=dead | website = Cổng Thông tin điện tử Chính phủ}}</ref> 
+| web = {{url|sondong.hanoi.gov.vn}}
+|trụ sở Đảng ủy=Số 71 đường Lại Yên, thôn Lại Yên 1|trụ sở UBND=Số 6 đường Tiền Yên, thôn Tiền Lệ<ref>{{Chú thích web |url=https://storage-vnportal.vnpt.vn/gov-hni/6244/VanBan/2025/6/25/TB-729-2025.pdf |title=Thông báo số 729/TB-UBND ngày 25 tháng 6 năm 2025 của Ủy ban nhân dân thành phố Hà Nội về địa điểm trụ sở làm việc của 126 phường, xã sau sắp xếp thuộc phạm vi quản lý của thành phố Hà Nội|access-date=2026-06-15 |archive-date=2026-06-15 |archive-url=https://web.archive.org/web/20260615034519/https://storage-vnportal.vnpt.vn/gov-hni/6244/VanBan/2025/6/25/TB-729-2025.pdf |url-status=dead | website = Cổng Thông tin điện tử Ủy ban nhân dân thành phố Hà Nội}}</ref>|bản đồ 1={{maplink|frame=yes|plain=yes|type=shape|frame-width=280|frame-align=center|stroke-width=3}}}}
+'''Sơn Đồng''' là một [[Xã (Việt Nam)|xã]] thuộc thành phố [[Hà Nội]], [[Việt Nam]].
+
+== Địa lý== 
+Xã Sơn Đồng có vị trí địa lý:
+*Phía đông giáp phường [[Xuân Phương]]
+*Phía tây giáp xã [[Quốc Oai (xã)|Quốc Oai]]
+*Phía nam giáp xã [[An Khánh, Hà Nội|An Khánh]] và phường [[Tây Mỗ]] với ranh giới là [[Đại lộ Thăng Long]]
+*Phía bắc giáp xã [[Dương Hòa]] và xã [[Hoài Đức (xã)|Hoài Đức]].<ref>{{Chú thích web |last=Viện nghiên cứu Phát triển kinh tế – xã hội Hà Nội |date=2025-07-02 |title=Xã Sơn Đồng: Những thông tin chi tiết sau sắp xếp |url=https://hanoionline.vn/xa-son-dong-nhung-thong-tin-chi-tiet-sau-sap-xep-344196.htm |url-status=dead |archive-url=https://web.archive.org/web/20251210015211/https://hanoionline.vn/xa-son-dong-nhung-thong-tin-chi-tiet-sau-sap-xep-344196.htm |archive-date=2025-12-10 |access-date=2026-08-14 |website=Cơ quan Báo và Phát thanh Truyền hình Hà Nội }}</ref><ref>{{Chú thích web |last=Cơ quan Báo và Phát thanh Truyền hình Hà Nội |date=2025-07-08 |title=Xã Sơn Đồng: Tất cả thông tin chỉ dẫn bạn cần biết |url=https://hanoionline.vn/xa-son-dong-tat-ca-thong-tin-chi-dan-ban-can-biet-345455.htm |url-status=dead |archive-url=https://web.archive.org/web/20260121001719/https://hanoionline.vn/xa-son-dong-tat-ca-thong-tin-chi-dan-ban-can-biet-345455.htm |archive-date=2026-01-21 |access-date=2026-08-14 }}</ref>
+Xã Sơn Đồng có diện tích tự nhiên là 21,57 km<sup>2</sup>, quy mô dân số năm 2025 là 63.267 người và mật độ dân số đạt 2.933 người/km<sup>2</sup>.<ref>{{Chú thích web |last=Mai Hữu |date=2026-04-05 |title=Hà Nội: Chi tiết phương án tổng thể sắp xếp đơn vị hành chính cấp xã |url=https://hanoimoi.vn/ha-noi-chi-tiet-phuong-an-tong-the-sap-xep-don-vi-hanh-chinh-cap-xa-700278.html |url-status=bot: unknown |archive-url=https://web.archive.org/web/20250710163328/https://hanoimoi.vn/ha-noi-chi-tiet-phuong-an-tong-the-sap-xep-don-vi-hanh-chinh-cap-xa-700278.html |archive-date=2025-07-10 |access-date=2026-07-08 |website=Cơ quan Báo và Phát thanh, truyền hình Hà Nội}}</ref><ref>Công văn số 2896/BNV-CQĐP ngày 27 tháng 5 năm 2025 của Bộ Nội vụ về việc cung cấp thông tin danh mục dự kiến đơn vị hành chính cấp xã mới.</ref>
+
+== Lịch sử==
+
+=== Trước năm 1976 ===
+Xã Sơn Đồng được thành lập vào năm [[1956]] trên cơ sở chia xã Phương Sơn thành ba xã Sơn Đồng, Song Phương và Lại Yên. Ban đầu, xã Sơn Đồng thuộc huyện [[Hoài Đức (huyện)|Hoài Đức]], tỉnh [[Hà Đông (tỉnh)|Hà Đông]].
+
+Ngày [[21 tháng 4]] năm [[1965]], xã Sơn Đồng, huyện [[Hoài Đức (huyện)|Hoài Đức]] thuộc tỉnh [[Hà Tây (tỉnh)|Hà Tây]] mới thành lập do hợp nhất hai tỉnh [[Hà Đông (tỉnh)|Hà Đông]] và [[Sơn Tây (tỉnh Việt Nam)|Sơn Tây]].
+
+Ngày [[27 tháng 12]] năm [[1975]], xã Sơn Đồng, huyện [[Hoài Đức (huyện)|Hoài Đức]] thuộc tỉnh [[Hà Sơn Bình]] mới thành lập do hợp nhất hai tỉnh [[Hà Tây (tỉnh)|Hà Tây]] và [[Hòa Bình (tỉnh)|Hòa Bình]].
+
+=== Giai đoạn 1976 – nay ===
+Sau ngày 2 tháng 7 năm 1976, 8 xã: An Khánh, An Thượng, Lại Yên, Song Phương, Sơn Đồng, Tiền Yên, Vân Canh và Vân Côn thuộc huyện [[Hoài Đức (huyện)|Hoài Đức]] của thuộc tỉnh [[Hà Sơn Bình]].
+
+Ngày 29 tháng 12 năm 1978, sáp nhập huyện [[Hoài Đức (huyện)|Hoài Đức]] của tỉnh [[Hà Sơn Bình]] vào thành phố [[Hà Nội]]. Khi đó, 8 xã: An Khánh, An Thượng, Lại Yên, Song Phương, Sơn Đồng, Tiền Yên, Vân Canh và Vân Côn thuộc huyện [[Hoài Đức (huyện)|Hoài Đức]] của thành phố [[Hà Nội]].<ref>Nghị quyết ngày 29 tháng 12 năm 1978 của Quốc hội khóa VI, Kỳ họp thứ 4 phê chuẩn việc phân vạch lại địa giới thành phố Hà Nội, thành phố Hồ Chí Minh, các tỉnh Hà Sơn Bình, Vĩnh Phú, Cao Lạng, Bắc Thái, Quảng Ninh và Đồng Nai.</ref>
+
+Ngày 12 tháng 8 năm 1991, chia tỉnh [[Hà Sơn Bình]] thành 2 tỉnh, lấy tên là tỉnh [[Hòa Bình (tỉnh)|Hòa Bình]] và tỉnh [[Hà Tây (tỉnh)|Hà Tây]]. Chuyển huyện [[Hoài Đức (huyện)|Hoài Đức]] của thành phố [[Hà Nội]] về tỉnh [[Hà Tây (tỉnh)|Hà Tây]]. Khi đó, 8 xã: An Khánh, An Thượng, Lại Yên, Song Phương, Sơn Đồng, Tiền Yên, Vân Canh và Vân Côn thuộc huyện [[Hoài Đức (huyện)|Hoài Đức]] của tỉnh [[Hà Tây (tỉnh)|Hà Tây]].<ref>Nghị quyết ngày 12 tháng 8 năm 1991 của Quốc hội khóa VIII, Kỳ họp thứ 9 về việc điều chỉnh địa giới hành chính một số tỉnh, thành phố trực thuộc Trung ương.</ref>
+
+Ngày 29 tháng 5 năm 2008, hợp nhất tỉnh [[Hà Tây (tỉnh)|Hà Tây]] vào thành phố [[Hà Nội]]. Khi đó, 8 xã: An Khánh, An Thượng, Lại Yên, Song Phương, Sơn Đồng, Tiền Yên, Vân Canh và Vân Côn thuộc huyện [[Hoài Đức (huyện)|Hoài Đức]] của thành phố [[Hà Nội]].<ref>Nghị quyết số 15/2008/QH12 ngày 29 tháng 5 năm 2008 của Quốc hội khóa XII, Kỳ họp thứ 3 về việc điều chỉnh địa giới hành chính thành phố Hà Nội và một số tỉnh có liên quan.</ref>
+
+Ngày 16 tháng 6 năm 2025:
+
+* Kết thúc hoạt động của đơn vị hành chính cấp huyện trong cả nước.<ref>{{Chú thích web |last= |date= |title=Nghị quyết số 203/2025/QH15 ngày 16 tháng 6 năm 2025 của Quốc hội khóa XV, Kỳ họp thứ 9 về việc sửa đổi, bổ sung một số điều của Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/nq-sua-doi-hien-phap.pdf |url-status=live |archive-url=https://web.archive.org/web/20260613090807/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/nq-sua-doi-hien-phap.pdf |archive-date=2026-06-13 |access-date=2026-06-13 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+* Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của các xã Lại Yên, Sơn Đồng, Tiền Yên, một phần diện tích tự nhiên, quy mô dân số của các xã An Khánh, Song Phương, Vân Côn, một phần diện tích tự nhiên của xã An Thượng và phần còn lại của xã Vân Canh (huyện [[Hoài Đức (huyện)|Hoài Đức]]) thành xã mới có tên gọi là xã Sơn Đồng.<ref>{{Chú thích web |title=Nghị quyết số 1656/NQ-UBTVQH15 ngày 16 tháng 6 năm 2025 của Ủy ban Thường vụ Quốc hội về việc sắp xếp các đơn vị hành chính cấp xã của thành phố Hà Nội năm 2025 |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf |url-status=live |archive-url=https://web.archive.org/web/20260630400809/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf |archive-date=2026-06-30 |access-date=2026-06-30 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+* Sau khi sắp xếp, xã Sơn Đồng được chia thành 28 tổ dân phố – thôn, gồm 1 tổ dân phố và 27 thôn.<ref>4 thôn, đánh số từ 1 đến 4 của xã Lại Yên cũ; 11 thôn: Chiêu, Đình, Đông, Đồng, Gạch, Hàn, Ngã Tư, Rảnh, Rô, Thượng và Xa của xã Sơn Đồng cũ; 2 thôn: Tiền Lệ và Yên Thái của xã Tiền Yên cũ; tổ dân phố 1 của xã An Khánh cũ; 6 thôn, đánh số từ 1 đến 6 của xã Song Phương cũ; thôn Quyết Tiến của xã Vân Côn cũ; 3 thôn: An Trai, Hậu Ái và Kim Hoàng của xã Vân Canh cũ.</ref><ref>{{Chú thích web |title=Thông tư số 10/2022/TT-BTNMT ngày 29 tháng 9 năm 2022 của Bộ Tài nguyên và Môi trường về việc Ban hành Danh mục địa danh dân cư, sơn văn, thủy văn, kinh tế – xã hội phục vụ công tác thành lập bản đồ thành phố Hà Nội |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2022/10/10-btnmt.pdf |url-status=bot: unknown |archive-url=https://web.archive.org/web/20260630082812/https://datafiles.chinhphu.vn/cpp/files/vbpq/2022/10/10-btnmt.pdf |archive-date=2026-06-30 |access-date=2026-06-30 |website=Cổng Thông tin điện tử Chính phủ }}</ref><ref>{{Chú thích web |last=Ủy ban bầu cử xã Sơn Đồng |date=2026-02-24 |title=Danh sách chính thức những người ứng cử đại biểu Hội đồng Nhân dân xã Sơn Đồng khóa XXI, nhiệm kỳ 2026 – 2031 |url=https://sondong.hanoi.gov.vn/tin-tuc-su-kien/danh-sach-chinh-thuc-nhan-su-ung-cu-dai-bieu-hoi-dong-nhan-dan-xa-son-dong-279026030209394042.htm?gidzl=oB_s81ZfH0tCeF8c4l533Csk_2K5-1aCqlwiT5Rz4bdK_w8aKQ0GMzRszdO2eqLVWgRnT3RcPuSS7UX03m |url-status=dead |archive-url=https://web.archive.org/web/20260814201510/https://sondong.hanoi.gov.vn/tin-tuc-su-kien/danh-sach-chinh-thuc-nhan-su-ung-cu-dai-bieu-hoi-dong-nhan-dan-xa-son-dong-279026030209394042.htm?gidzl=oB_s81ZfH0tCeF8c4l533Csk_2K5-1aCqlwiT5Rz4bdK_w8aKQ0GMzRszdO2eqLVWgRnT3RcPuSS7UX03m |archive-date=2026-08-14 |access-date=2026-08-14 |website=Trang Thông tin điện tử xã Sơn Đồng – thành phố Hà Nội}}</ref>
+Ngày 14 tháng 10 năm 2025, đổi tên 10 thôn, đánh số từ 1 đến 4 thuộc địa bàn xã Lại Yên cũ và từ 1 đến 6 thuộc địa bàn xã Song Phương cũ lần lượt thành 10 thôn: Lại Yên từ 1 đến 4, Phương Bảng 1, 2 và Phương Viên từ 1 đến 4.<ref>I. Giữ nguyên tên 18 thôn, tổ dân phố: tổ dân phố 1, thôn Đông, thôn Đồng, thôn Hàn, thôn Thượng, thôn Gạch, thôn Chiêu, thôn Rô, thôn Rảnh, thôn Đình, thôn Xa, thôn Ngã Tư, thôn Yên Thái, thôn Tiền Lệ, thôn An Trai, thôn Kim Hoàng, thôn Hậu Ái và thôn Quyết Tiến; II. Đối với 04 thôn thuộc địa bàn xã Lại Yên cũ: 1. Đổi tên từ thôn 1 thành thôn Lại Yên 1; 2. Đổi tên từ thôn 2 thành thôn Lại Yên 2; 3. Đổi tên từ thôn 3 thành thôn Lại Yên 3; 4. Đổi tên từ thôn 4 thành thôn Lại Yên 4; III. Đối với 06 thôn thuộc địa bàn xã Song Phương cũ: 5. Đổi tên từ thôn 1 thành thôn Phương Bảng 1; 6. Đổi tên từ thôn 2 thành thôn Phương Bảng 2; 7. Đổi tên từ thôn 3 thành thôn Phương Viên 1; 8. Đổi tên từ thôn 4 thành thôn Phương Viên 2; 9. Đổi tên từ thôn 5 thành thôn Phương Viên 3; 10. Đổi tên từ thôn 6 thành thôn Phương Viên 4.</ref><ref>{{Chú thích web |last= |date= |title=Thông báo số 444/TB-UBND ngày 23 tháng 10 năm 2025 của Ủy ban nhân dân xã Sơn Đồng về việc giữ nguyên các thôn, tổ dân phố và đổi tên thôn trên địa bàn xã Sơn Đồng sau sắp xếp đơn vị hành chính cấp xã |url=http://tieuhoclaiyen-hd.edu.vn/upload/106091/20251023/THONG_BAO_DOI_TEN_THON_a71e3.pdf |url-status=dead |archive-url=https://web.archive.org/web/20260814201510/http://tieuhoclaiyen-hd.edu.vn/upload/106091/20251023/THONG_BAO_DOI_TEN_THON_a71e3.pdf |archive-date=2026-08-14 |access-date=2026-08-14 |website=Trường Tiểu học Lại Yên – xã Sơn Đồng – thành phố Hà Nội}}</ref>
+
+Ngày 29 tháng 6 năm 2026, thành lập 9 thôn mới: Ngoại, Đình, Nội, Lại Yên 1, 2, Phương Bảng, Phương Viên 1, 2, Hậu Ái và 2 tổ dân phố mới: 1, 2.<ref name=":1">1. Thôn Ngoại: Thành lập trên cơ sở sáp nhập toàn bộ thôn: Ngã Tư, Đông, Đồng, Hàn; 2. Thôn Đình: Thành lập trên cơ sở sáp nhập toàn bộ thôn: Đình, Xa, Rảnh, Rô; 3. Thôn Nội: Thành lập trên cơ sở sáp nhập toàn bộ thôn: Chiêu, Thượng, Gạch; 4. Thôn Lại Yên 1: Thành lập trên cơ sở sáp nhập toàn bộ thôn: Lại Yên 1, Lại Yên 2; 5. Thôn Lại Yên 2: Thành lập trên cơ sở sáp nhập toàn bộ thôn: Lại Yên 3, Lại Yên 4; 6. Thôn Phương Bảng: Thành lập trên cơ sở sáp nhập toàn bộ thôn: Phương Bảng 1, Phương Bảng 2; 7. Thôn Phương Viên 1: Thành lập trên cơ sở sáp nhập toàn bộ thôn: Phương Viên 1, Phương Viên 2; 8. Thôn Phương Viên 2: Thành lập trên cơ sở sáp nhập toàn bộ thôn: Phương Viên 3, Phương Viên 4; 9. Thôn Quyết Tiến: Giữ nguyên hiện trạng; 10. Thôn Tiền Lệ: Giữ nguyên hiện trạng; 11. Thôn Yên Thái: Giữ nguyên hiện trạng; 12. Thôn An Trai: Giữ nguyên hiện trạng; 13. Thôn Kim Hoàng: Giữ nguyên hiện trạng; 14. Thôn Hậu Ái: Giữ nguyên hoạt động và tách Khu Đô thị mới Vân Canh (Khu đô thị HUD và Chung cư CT1) để thành lập Tổ dân phố số 2; 15. Tổ dân phố số 1: Giữ nguyên hoạt động và ghép Khu đô thị mới An Lạc Green Symphony, Khu biệt thự Vườn Cam vào Tổ dân phố số 1; 16. Tổ dân phố số 2: Thành lập trên cơ sở tách Khu Đô thị mới Vân Canh (Khu đô thị HUD và Chung cư CT1) từ thôn Hậu Ái.</ref><ref name=":2">{{Chú thích web |last= |date= |title=Thông báo số 1665/TB-UBND ngày 1 tháng 7 năm 2026 của Ủy ban nhân dân xã Sơn Đồng về việc công bố danh sách các thôn, tổ dân phố sau sắp xếp trên địa bàn xã Sơn Đồng |url=https://sqhx-hanoi.mediacdn.vn/91579363132710912/2026/7/6/tb-1665-1783322063243575032680.pdf |url-status=dead |archive-url=https://web.archive.org/web/20260814201510/https://sqhx-hanoi.mediacdn.vn/91579363132710912/2026/7/6/tb-1665-1783322063243575032680.pdf |archive-date=2026-08-14 |access-date=2026-08-14 |website=Trang Thông tin điện tử xã Sơn Đồng – thành phố Hà Nội}}</ref>
+
+== Hành chính==
+Xã Sơn Đồng được chia thành 16 tổ dân phố – thôn, gồm 2 tổ dân phố: 1, 2 và 14 thôn: An Trai, Đình, Hậu Ái, Kim Hoàng, Lại Yên 1, 2, Ngoại, Nội, Phương Bảng, Phương Viên 1, 2, Quyết Tiến, Tiền Lệ, Yên Thái.<ref name=":2" />
+{| class="wikitable sortable" align="center" width="100%" cellspacing="6" cellpadding="0" style="background: #f9f9f9; border: 1px #aaa solid; margin-top: 16px"
+! colspan="4" style="background: #E6E6FA; font-size: 95%;" |Danh sách các tổ dân phố – thôn thuộc xã Sơn Đồng<ref name=":2" />
+|-
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+|-
+| colspan="4" align="left" style="background: #F5F5DC; padding-left: 30px;" |'''Tổ dân phố (2)'''
+|-
+| align="left" |Tổ dân phố 1
+|-
+| align="left" |Tổ dân phố 2
+|-
+| colspan="4" align="left" style="background: #F5F5DC; padding-left: 30px;" |'''Thôn (14)'''
+|-
+| align="left" |An Trai
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+|-
+| align="left" |Đình
+|-
+| align="left" |Hậu Ái
+|-
+| align="left" |Kim Hoàng
+|-
+| align="left" |Lại Yên 1
+|-
+| align="left" |Lại Yên 2
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+|-
+| align="left" |Ngoại
+|-
+| align="left" |Nội
+|-
+| align="left" |Phương Bảng
+|-
+| align="left" |Phương Viên 1
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+|-
+| align="left" |Phương Viên 2
+|-
+| align="left" |Quyết Tiến
+|-
+| align="left" |Tiền Lệ
+|-
+| align="left" |Yên Thái
+|}
+|}
+
+== Tín ngưỡng, tôn giáo và văn hoá==
+Trên địa bàn xã các thôn Lại Yên, Phương Bảng, Phương Viên, Quyết Tiến, Tiền Lệ, Yên Thái có một phần người dân theo [[Kitô giáo|đạo Thiên chúa]].
+
+Đình và chùa trên địa bàn xã đã được nhà nước xếp hạng công nhận là di tích lịch sử văn hoá.
+
+== Danh nhân ==
+{| class="wikitable"
+|+
+!Họ và tên
+!Năm sinh - Năm mất
+!Thôn 
+!Ghi chú
+|-
+| colspan="4" |'''VÂN CANH (cũ)'''
+|-
+|[[Lý Trần Quán]]
+|1735-1786
+| rowspan="4" |Kim Hoàng
+|Thiêm sai Lại phiên, Hiến sát sứ Hải Dương, Đốc đồng Cao Bằng, Hiệp trấn Sơn Tây, Đông các Đại học sĩ, Quốc tử giám Tư nghiệp. thiêm sai tri Binh phiên. Đỗ tiến sĩ năm Cảnh Hưng thứ 27 (1766)
+|-
+|[[Lý Trần Dự]]
+|1746 – 1777
+|Tiến sĩ thời nhà Lê trung hưng
+|-
+|[[Bùi Xuân Phái]]
+|1920-1988
+|Hoạ sĩ. Được truy tặng Giải thưởng Hồ Chí Minh về Văn học - Nghệ thuật năm 1996
+|-
+|[[Nguyễn Tài Thu]]
+|1931-2021
+|Giáo sư, bác sĩ, Thầy thuốc Nhân dân, Anh hùng Lao động
+|-
+|[[Đỗ Kính Tu]]
+|1152-1216
+| rowspan="2" |Hậu Ái 
+|Đế sư, Thái úy, Thái phó, Thái bảo thời nhà Lý
+|-
+|[[Lê Quang Huy]]
+|1966
+|nguyên Ủy viên Trung ương Đảng, nguyên Chủ nhiệm Ủy ban Khoa học, Công nghệ và Môi trường của Quốc hội
+|}
+* '''[[Nguyễn Viết Thứ]]''' (1644 – 1692): Bồi tụng, Đô cấp sự trung Lại Khoa, Thượng thư bộ Hình, Tham tụng thời [[nhà Lê trung hưng]].
+* '''[[Phanxicô Xaviê Nguyễn Văn Sang]]''' (1931 – 2017): Giám mục Phụ tá [[Tổng giáo phận Hà Nội]] (1981 – 1990), Giám mục Chính tòa [[Giáo phận Thái Bình]] (1990 – 2009).
+* '''[[Nguyễn Đình Toàn (vận động viên)|Nguyễn Đình Toàn]]''' (sinh năm 1986) là một vận động viên [[Taekwondo]] người Việt Nam. Anh là vô địch [[Đông Nam Á]], vô địch [[châu Á]] và vô địch thế giới nội dung biểu diễn quyền Taekwondo.
+<!-- 
+==Các đơn vị hành chính==
+===Đào Nguyên===
+#Là thôn gò nên không bao giờ bị thiệt hại bởi thiên tai, ngay cả trận mưa lụt lịch sử hồi tháng 10, 11 năm 2008 vừa qua. Có Trạm bơm lớn nhất vùng tiêu úng cho hai huyện Hoài Đức và Từ Liêm
+#Gồm khu chính (khu dân cư, chủ yếu ở ven đê sông Đáy) và 2 khu đất nông nghiệp nhỏ
+#Giao thông: là thôn có đường Láng - Hòa Lạc (Đại lộ Thăng Long) chạy qua và nhiều đường đô thị nên thôn có nhiều lợi thế về giao thông, thuận lợi về giao thương. Đường Đê Tả Đáy được bê tông hoá với 2 làn đường riêng biệt, mỗi làn rộng 4m.
+#Vị trí: tiếp giáp với xã Song Phương, xã An Khánh, xã Vân Côn và thôn Ngự Câu, thôn Thanh Quang, thôn An Hạ (xã An Thượng).
+#[[Lễ hội làng Đào Nguyên|Hội làng]]: 10 – 2 âm lịch.Trong hội có tổ chức rước kiệu hàng năm, 5 năm rước lớn 1 lần.
+#Nằm trong vùng đô thị Nam An Khánh, Nam An Khánh mở rộng, khu đô thị An Khánh – An Thượng, Đại lộ Thăng Long (Đường cao tốc Láng-Hòa Lạc) rộng 140m với 8 làn cao tốc, 6 làn đô thị và nhiều làn đường dự trữ tương lai, 2 làn đường sắt đô thị chuẩn bị xây dựng; dự án đường [[Vành đai 4]]. Ngã tư đường Láng Hòa - Lac với đường Vành đai 4 là ngã tư hoàn chỉnh không có giao cắt khi chuyển hướng với 1 cầu vượt, 4 vòng tròn cho xe rẽ trái không cắt mặt xe khác, tổng diện tích lên đến gần 20 ha, nằm trên ngã 3 của 3 xã An Thượng, An Khánh, Song Phương.
+
+===Ngự Câu ===
+''Vị trí: tiếp giáp xã An Khánh, xã Vân Côn, thôn Đào Nguyên và An Hạ (xã An Thượng) và một khu đất thuộc đường Láng - Hòa Lạc giáp xã Song Phương.''
+#Hội làng: 12 – 1 âm lịch. Làng có kiệu rước thành hoàng lớn thứ 3 cả nước. Hội chính tổ chức 05 năm 01 lần từ ngày 10/1 đến 15/1 âm lịch, lượng người tham dự khoảng 200.000 lượt người. Đặc biệt, trong lễ hội ngoài phần Lễ là phần Hội, đó là Hội Cờ người là nét đặc trưng từ rất lâu đời của riêng làng Ngự Câu. Hội cờ người Ngự Câu là Hội cờ nổi tiếng, thu hút rất nhiều kỳ thủ nổi tiếng cả nước. Năm 2011 và 2016, Trạng cờ Quý Tỵ (2013) Phạm Quốc Hương đều tham dự và đều bị kích bại bởi các hảo thủ của khu vực, ngậm ngùi chấp nhận Á quân.
+#Nằm trong vùng [[đô thị]] [[Nam An Khánh]], Nam An Khánh mở rộng, khu đô thị An Khánh – An Thượng.
+#Là một làng nghề tráng bánh đa nem cung cấp cho cả miền bắc và giải quyết công ăn việc làm cho các lao động nhàn rỗi nhiều hộ gia đình còn làm giàu từ nghề này. Ngoài ra làng còn có nghề nấu rượu gạo rất nổi tiếng có từ thời Pháp mới sang đô hộ nước ta. hiện Ngự Câu là một trong những thôn văn hóa tiêu biểu của xã An Thượng cả về kinh tế.
+
+===An Hạ===
+#Vị trí: tiếp giáp xã An Khánh (thôn Ngãi Cầu), xã Vân Côn, thôn Ngự Câu và Thanh Quang (xã An Thượng).Có đường tỉnh lộ 423(đường 72) chạy qua, thuận tiện về giao thông.
+#Hội làng: 12 – 1 âm lịch..Trong hội có tổ chức rước kiệu hàng năm, 5 năm rước lớn 1 lần, kiệu bay thiêng nhất. Đây là hội đông vui nhất trong vùng.
+#Là thôn có diện tích lớn nhất xã.
+#Nằm trong vùng giải toả của khu đô thị Nam An Khánh mở rộng.
+
+===Thanh Quang===
+# Vị trí: tiếp giáp thôn Ngãi Cầu (xã An Khánh), thôn An Hạ và Lại Dụ (xã An Thượng).
+#Hội làng: 12 – 1 âm lịch.
+#Tiếp giáp với đường quốc lộ 72, thuận tiện về giao thông.
+#Là vùng đất gò nên không bao giờ chịu thiệt hại nhiều về thiên tai.
+#Có Chùa Tô Lai Cổ Tích (Chùa Do) linh thiêng và đẹp nhất vùng.
+#Là thôn có diện tích cũng tương đối.
+
+===Lại Dụ===
+#Vị trí: tiếp giáp xã An Khánh (thôn Ngãi Cầu), xã Đông La (thôn Đông Lao), thôn Thanh Quang (xã An Thượng).
+#Hội làng: 12 – 1 âm lịch.
+#Tôn giáo: Chủ yếu là Thiên chúa giáo.
+
+==Điều kiện tự nhiên và cơ sở vật chất==
+===Điều kiện tự nhiên===
+*Đất đai: đất phù sa mới.
+*Sông ngòi: [[Sông Đáy]] chảy qua địa phận thôn Thanh Quang, thôn Lại Dụ.
+*Không bị thiên tai ảnh hưởng.
+
+===Cơ sở vật chất===
+*Giao thông: đường cao tốc Láng – Hoà Lạc, tỉnh lộ 72 chạy qua, Đường Đê Tả Đáy được bê tông hoá với 2 làn đường riêng biệt, mỗi làn rộng 4m.
+*Cơ sở hạ tầng: trạm bơm Đào Nguyên, trụ sở ủy ban nhân dân xã, trường học.
+
+==Kinh tế==
+*Kinh tế chủ yếu là làm thuê và nông nghiệp trồng lúa nước và hoa màu. Ngoài ra còn một số loại hình công nghiệp và dịch vụ kinh doanh khác.
+*Tốc độ tăng trưởng kinh tế: tăng dần qua các năm.
+
+==Dân cư, xã hội và tín ngưỡng==
+===Dân cư và xã hội===
+*Đời sống nhân dân: ổn định
+*Tuổi thọ trung bình: ở mức trung bình.
+*Xã hội: còn xuất hiện một số tệ nạn xã hội như trộm cắp, nghiện hút, hút thuốc lá ở lứa tuổi thiếu niên và chưa thành niên. Nhiều nạn ăn chơi đua đòi, có đê Tả Đấy chạy qua nên có nhiều phần tử xã hội đen hoạt động làm ảnh hưởng xấu tới an ninh.
+:Chính quyền địa phương ít quan tâm đến an ninh nên hiện tượng nhân dân tự ý làm loạn như kinh doanh vũ trường ầm ĩ vượt mức tiếng ồn cho phép nhiều, không có cách âm mà lại không xử lý
+:Tình trạng chiếm đất công, đất nông nghiệp diễn ra công khai, cán bộ chính quyền yếu kém năng lực, tư lợi không có hành động ngăn chặn.
+
+===Tín ngưỡng===
+*Ngoại trừ thôn Đào Nguyên và Ngự Câu không theo đạo các thôn còn lại có môt số dân theo đạo thiên chúa.
+*Chùa Thông và chùa Do: 2 ngôi chùa lớn nhất.
+*Đình và chùa của cả năm thôn đều là di tích lịch sử – văn hoá đã được [[Bộ Văn hóa, Thể thao và Du lịch (Việt Nam)|Bộ Văn hóa, Thể thao và Du lịch]] xếp hạng. Tuy nhiên, chùa Thông và chùa Do được [[Bộ Văn hóa, Thể thao và Du lịch (Việt Nam)|Bộ Văn hóa, Thể thao và Du lịch]] xếp là di tích lịch sử nhưng do chiến tranh thực dân Pháp và Mĩ đã đánh vỡ bia đá xếp hạng. Hiện đang được bộ đánh giá xem xét lại cấp bia đá di tích lịch sử
+
+Song Phương gồm hai thôn là Phương Viên (Làng Vạng) và Phương Bảng (Làng Ngòi) và hai Trại gọi là Trại Ba Lương và Trại Ngòi.
+
+Làng Vạng - Phương Viên trước đây không rõ nhưng có tên gọi là Vạn Chài. Sau này gọi là làng Vạng hay thôn Phương Viên. Làng Vạng - Phương viên có 9 xóm, có hai ngôi Chùa là chùa Giữa và chùa Thượng. Chùa giữa gọi là Phượng Tiên Tự hướng Nam là nơi thờ Phật bà Quan âm; Chùa thượng gọi là Quan âm Tự; ngoài chùa ra, làng Vạng còn có ngôi đình cổ, tuy nhiên, do chiến tranh, ngôi đình đã bị phá huỷ. Đến năm 1985 người dân đã quyên góp công đức và xây dựng lại ngôi đình khang trang như hiện nay. Ngôi đình làng Vạng hiện nay chưa rõ thờ vị Thánh (Thành Hoàng) nào, nhưng chỉ biết là vị thánh được truyền tụng là: "Thôi Cốc"..... ghi lại rất ít trong sử sách hiện nay.{{fact|date=7-2014}}
+
+== Lịch sử ==
+Xã Vân Canh đã được hình thành lâu đời, ít nhất là từ thời Lý và tên xã Vân Canh xuất hiện thời Lê sơ. Gồm 3 làng: [[Làng Kim Hoàng|Kim Hoàng]] (do 2 làng Kim Bảng và Hoàng Bảng gộp vào), An Trai và Hậu Ái (Nhân Ái).
+
+Tổng Hương Canh xưa có hai xã là Hương Canh và Vân Canh, gồm tất cả bảy làng Canh. Đây là một vùng đất cổ, các làng Canh đều được gọi theo Nôm là kẻ Canh, cư dân đến sống ở đây ít nhất cũng từ đầu công nguyên. Theo bản Ngọc Phả do Đông các đại học sỹ Nguyễn Bính soạn, từ đời Vua Hùng thứ XVIII, ông Phan Tây Nhạc đã từ Châu Ái (Thanh Hóa) ra vùng Canh cư ngụ. Sau ông có theo Tản Viên Sơn Thánh đi đánh quân Thục, nên được Vua Hùng gả cháu gái và cho phong ấp ở vùng Canh. Đây là một vùng quê cổ kính, văn hiến, đã được ghi nhận qua câu phương ngôn nổi tiếng: ''Mỗ, La, Canh, Cót tứ danh hương''...
+
+Bảy làng Canh gồm: Ngọc Mạch, Hòe Thị, Thị Cấm, Hậu Ái, An Trai, Kim Bảng và Hoàng Bảng. Hai làng Kim Bảng và Hoàng Bảng đến cuối thế kỷ XVI đã nhập thành một làng Kim Hoàng và dựng ngôi đình lớn. Tấm biển ''Lưỡng bảng hội đình'' hiện còn lưu giữ ở đình Kim Hoàng.
+
+Theo các nhà nghiên cứu lịch sử, Hán Nôm thì xã Vân Canh nói chung là một vùng đất cổ, cách ngày nay khoảng 2000 năm.
+
+Theo quan niệm phong thủy, mạch khí từ Tam Đảo, Tây Hồ dồn về tụ lại ở Đồng Trầm. Năm 894, Cao Biền – thứ sử Giao Châu nổi tiếng là một nhà phong thủy đi ngang qua để lại mấy câu:
+
+"Tây Hồ thoát mạch
+
+Lạc tại Vân Canh
+
+Mạch trầm thủy để
+
+Thế xuất khoa danh"
+
+Quả đúng theo lời trên, trong suốt chiều dài lịch sử khoa cử xã Vân Canh có 15 vị tiến sĩ nho học đỗ khoa thi tiến sĩ và tương đương. Theo Từ Liêm huyện đăng khoa lục, số người đỗ Hương cống thời Lê là 44 người, đỗ Hương cống thời Nguyễn là 3 người, đỗ Cử nhân thời Nguyễn là 15 người. Số người đỗ sinh đồ thời Lê là 3 người, đỗ sinh đồ thời Nguyễn là 5 người, đỗ tú tài thời Nguyễn là 26 người.
+
+Theo các tài liệu lịch sử, làng Hậu Ái có 9 người đỗ tiến sĩ, 21 hương cống, cử nhân, 15 sinh đồ, tú tài. Người đầu tiên đỗ đại khoa là Đỗ Kính Tu, đỗ Thái học sinh dưới triều Lý Anh Tông (1138 - 1175) cùng với Tô Hiến Thành, phụ chính cho vua, được ban quốc tính. Năm 1182, ông được cử làm "Đế Sư" của vua Lý Cao Tông. Năm 1210, Lý Cao Tông ốm nặng, cho gọi Đỗ Kính Tu vào nhận mệnh ký thác lập hoàng tử Sảm lên ngôi vua tức Lý Huệ Tông.
+
+Nguyễn Bá Đôn, người thôn Hậu Ái đỗ cát sĩ khoa Tân Hợi (1851) đã làm đôi câu đối thờ ông ở đình làng:
+
+"Thánh địa đốc sinh hiền văn võ tài du vi quốc bảo.
+
+Đăng sơn nan vãn nhật anh hùng phá giang lưu"
+
+''Tức là:'' "Nơi thánh địa ắt sinh ra người hiền. Mưu tài văn võ là của quí cho đất nước"
+
+Sau Đỗ Kính Tu là Nguyễn Hành, đỗ Đệ tam giáp đồng Tiến sĩ năm 1532, làm đến Lại bộ tả thị lang. Con ông là Nguyễn Lương cũng đỗ Đệ tam giáp đồng Tiến sĩ năm 1550.
+
+Về dòng họ Lê ở Hậu Ái, vốn là dòng dõi Lê Lợi từ đất Lam Sơn (Thanh Hóa) ra lập nghiệp có nhiều người khoa bảng. Từ đường của họ Lê còn có câu đối:
+
+"Tự tiền Lê Chí Quốc triều, khoa hoạn thiên liên lưu thế phả.
+
+Thủy cố lý cập Thanh Hoa, bản chi phái dẫn du gia khương":
+
+''Tức là: "'' Từ tiền Lê tới Quốc triều, khoa hoạn truyền đời lưu vào gia phả. Vốn từ đất Thanh Hóa, con cháu ngày càng phát đạt."
+
+Người đầu tiên của dòng họ Lê, đỗ đạt cao là Lê Củ Phương, đỗ Hoàng giáp năm 1541, làm đến Hiến sát sứ. Cháu tằng tôn của ông là Lê Đức Vọng đỗ Đệ tam giáp đồng tiến sỹ năm 1637 làm đến Thừa chính sứ. Ngoài ra, các con của Lê Củ Phương là Lê Địch Văn và Lê Địch Giáo đỗ cát sỹ (1) và 2 con của cụ Lê Đức Vọng là Lê Đức Minh đỗ ''Hương cống (Cống sĩ)'' và Lê Đức Nghiệp đỗ khoa Hoành từ (2);
+
+Ở làng Kim Hoàng người đỗ Tiến sĩ đầu tiên là cụ Trần Hiền (Hoè Hiên tiên sinh) sinh năm 1684. Ông đậu tiến sĩ khoa Quí Sửu 1733 dưới đời Lê Thuần Tông, sung chức hàn lâm viện thị giảng.
+
+Con Trần Hiền là Trần Huân, hiệu là Yên Lý tiên sinh đậu ''Cử nhân'' khoa Ất Dậu (1745) đời Lê được bổ nhiệm làm chi phủ Lâm Thao.
+
+Trần Bá Lãm, con trưởng của Trần Huân, là học trò của tiến sĩ Nguyễn Quí Hiển. Ông đậu giải Nguyên khoa thi hương, năm Cảnh Hưng thứ 40 (1779) lúc tròn 22 tuổi. Năm Cảnh Hưng thư 44, ông phụng mệnh làm phúc khảo trường thi Nghệ An khoa Quí Mão (1783). Năm Nhâm Ngọ (1786), khi hoàng tự tôn của vua Lê Hiển Tông là Lê Duy Kỳ lên nắm chính sự, ông sung chức thị nội văn chức. Năm 1787 Lê Duy Kỳ chính thức lên ngôi, đặt niên hiệu Chiêu Thống. Để thu phục nhân tâm và theo đề nghị của Nguyễn Hữu Chỉnh, cho mở chế khoa để thu phục người tài. Số người vào điện thi có tới trên 200, chỉ có hai người được lấy đỗ. Trần Bá Lãm ở vị trí đậu đệ nhất giáp. Do sinh vào thời thác loạn nên ông chẳng được yên để yến vũ tu văn, bước hoạn đồ của ông chịu nhiều thăng trầm trôi nổi, phải trải qua ba triều đại và năm đời vua. Ông được giữ chức cấp sư trung rồi thăng hàn lâm viện hiệu uý, rồi được bổ giữ chức Hải Dương đốc đồng tham hiệp nhung vụ, được phong tước Canh nhạc bá dưới thời Lê Chiêu Thống.
+
+Con Trần Bá Lãm là Trần Bá Kiên đậu ''giải nguyên'' khoa Đinh Mão (1807) sung chức phó sứ như thanh cầu phong, nhưng vì chánh sứ không đi được, ông thay quyền đó là năm Minh Mạng nguyên niên.
+
+Ở Kim Hoàng còn có dòng họ Lý Trần (gốc họ Đặng) có cụ Đặng Trần Diễm là thầy dạy cho 3 người con đều đỗ tiến sĩ, được nhận sắc phong của Vua "Giáo tử đăng khoa". Các con của ông là:
+
+Lý Trần Quán, cháu ngoại của tiến sĩ Trần Hiền, gọi tiến sĩ Trần Bá Lãm là cậu ruột. Đậu cử nhân năm 19 tuổi, năm 32 tuổi đỗ tiến sĩ đệ tam giáp đồng tiến sĩ. Lý Trần Quán đã từng đảm nhiệm các chức vụ: hiến sát sứ Hải Dương, đốc đồng tỉnh Cao Bằng, hiệp trấn tỉnh Sơn Tây, sau cùng là đông các đại học sĩ Quốc tử Giám tu nghiệp. Ông đã tự chôn sống mình để trả giá cho sự sai lầm là quá tin học trò, đến nỗi trao chúa vào tay quân phản bội, đó là tháng 7 năm 1786, lúc đó ông đang ở làng Hạ Lôi (Yên Lãng). Sau này, khi vua Lê Chiêu Thống lên ngôi, năm Đinh Mùi (1787) đã truy tặng Lý Trần Quán làm Đại vương, phong phúc thần và ban cho đôi câu đối: "Khảng khái cần vương dị; Thung dung tựu nghĩa nan".
+
+Lý Trần Dự đỗ tiến sĩ năm 25 tuổi. Theo những người họ tộc Lý Trần ở Kim Hoàng, ông còn người em trai là Lý Trần Thản cũng đậu tiến sĩ, nhưng Lý Trần Thản theo về quê mẹ Hải Dương từ bé, nên khi thành danh, tính vào khoa mục ở Hải Dương.
+
+Ngoài các vị đại khoa, làng Kim Hoàng còn 31 người đỗ ''Hương cống''. Trong đó có ông Trần Ánh, cùng 3 con là Trần Hiếu, Trần Diễn, Trần Trí, đều đỗ ''Hương cống''; và Tiến sĩ Trần Bá Lãm có con trai là Trần Tùng và con Trần Tùng là Trần Đĩnh đều đỗ ''Hương cống.''
+
+''Chú thích:''
+
+(1) ''Cát sỹ'' là học vị sau khi thi đỗ khoa Bác học Hoành từ.
+
+(2) ''Khoa Hoành từ'' để chọn nhân tài có văn hay học rộng.
+
+== Nghệ thuật ==
+Vân Canh còn là quê hương của dòng Tranh Kim Hoàng cùng với dòng tranh điệp Đông Hồ, dòng tranh Hàng Trống được xem là ba dòng tranh dân gian lâu đời ở Việt Nam. Tranh của làng Kim Hoàng có đủ loại tranh thờ cúng, tranh chúc tụng như một số dòng tranh khác cùng thời ([[Tranh Đông Hồ|Đông Hồ]], [[Tranh Hàng Trống|Hàng Trống]]) nhưng tranh Kim Hoàng lại biết kết hợp nhiều ưu điểm của hai dòng tranh đó. Tranh Kim Hoàng có nét khắc thanh mảnh, tỉ mỉ hơn tranh Đông Hồ; màu sắc lại tươi như tranh Hàng Trống. Vì thế nó tạo cho dòng tranh này những giá trị riêng. Nghề làm tranh thịnh nhất trong thế ký 19. Đến trận lụt vỡ đê Liên Mạc năm 1913 tràn vào đình đã cuốn trôi bản khắc cộng với kinh tế khó khăn nên dòng tranh Kim Hoàng dần bị thất truyền.
+
+Những năm gần đây bà Nguyễn Thị Thu Hòa - Giám đốc bảo làng gốm sứ Hà Nội bằng sự đam mê và nhiệt huyết của mình đã cố gắng khôi phục lại dòng tranh độc đáo của làng Kim Hoàng. Dự án đã đạt được những thành công bước đầu khi công chúng đã biết đến dòng tranh và sắm các bức tranh về trang trí trong gia đình và ra thế giới.
+
+== Đô thị hóa ==
+Từ khoảng năm 2007-2008 trước khi sáp nhập vào Hà Nội UBND tỉnh Hà Tây đã ra quyết định thu hồi đất ruộng đồng trên địa bàn xã để quy hoạch thực hiện 3 dự án khu đô thị mới ở 3 thôn
+
+* Khu đô thị mới Vân Canh tại thôn Hậu Ái
+* Khu đô thi Vườn Cam tại thôn Kim Hoàng
+* Khu đô thị Đại học Vân Canh - An Lạc Green Symphony
+
+Sau khi trở thành xã thuộc thủ đô Hà Nội 1/8/2008, tuyến đường liên tỉnh 422B đã được sửa chữa và nâng cấp trở nên rộng rãi và đẹp đẽ như hiện nay.
+
+Các công trình trong xã cũng được tu sửa và xây mới như nhà văn hóa 3 thôn, nhà văn hóa xã, Đài tưởng niệm liệt sĩ và UBND xã Vân Canh.
+
+Trên địa bàn xã có 3 tuyến xe buýt ngang qua tỉnh lộ 422B số 97 đi từ BX Hoài Đức đến Công viên Nghĩa Đô - Cầu Giấy.Tuyến 57 từ Nam thăng long đi kcn Phú nghĩa . Tuyến 50 Long biên - khu đô thị Vân Canh.
+
+
+== Lịch Sử ==
+Dù đi đâu, ở đâu vẫn luôn hướng về một miền quê mà mình đã sinh ra và lớn lên. Một quê hương đã 3 lần lột xác đổi họ, đổi tên để anh dũng tiến lên đó là:
+
+"An Ấp - Đồng ốc - Đồng ác, kẻ ác và Lại Yên ngày nay"
+
+Dân làng ốc ngày xưa rất coi trọng danh dự. Những cái gì coi thường lệ làng, coi thường bản xã thì dù có phải hi sinh cũng sẵn sàng chống trả lại quan chức phong kiến ở Kinh Kỳ Thăng Long. Tiền hô hậu ủng. Khi qua Đồng ốc thôn không chịu xuống ngựa, xuống xe. Đã bị dân làng ốc đóng cổng làng không cho đi, quân lính khát nước xin không cho dù miệng kẻ quan có gang có thép, đổ vạ cho thay đổi cái tên làng là Đồng ác ( để người ốm, trâu chết, lợn chết,... )
+
+Xong dân làng ốc quyết không sợ, Kiện quan đến cùng để hồi họ phải thua kiện, đắng cay, chua chát xin nói lại rằng "'''Thôi thì Lại Yên''', cái tên '''Lại Yên''' đã có từ đấy và lịch sử Đồng ốc thôn đã sang trang".
+
+(St: Phan Việt Tùng)
+
+== Những Câu Thơ Xưa Của Các Cụ Làng Ốc ==
+Một miền quê đất thiêng mà long mạch đã trỗi dậy:
+
+"Đề đốc lăng đá Quận Công
+
+Cây Đề điểm tựa ngàn năm"
+
+"Về Lại Yên đi em - Con Đầm uốn khúc lượng quanh - Con Đầm tắm mát đời ta". Con Đầm đã thực sự là một kỷ niệm, một lá phổi, nước trong xanh. Ngày xưa cái kim rơi xuống cũng trông thấy. Nhờ dòng nước mát này mà biết bao cô gái làng đã có một nước da trắng hồng, làm say đắng những chàng trai: "Đến đây thì ở lại đây - Bao giờ mọc dễ xanh cây mới về"
+
+Về làm dâu Lại Yên, chúng ta sẽ dệt vài bên cửa sổ, làm hương trong nhà mát, thoi đưa như tiếng nhạc, cửa sổ bung ra để đóng đưa hương sắc, hương trời: "Về Lại Yên đi em - Thoáng thơm bông lúa quê mình - Đồng Lầu, Đồng Giá, Đồng Canh - Lời ca thiết tha lòng anh".
+
+" Kính thiên Nhạ Phúc quê nhà - Ai đó xin nhớ đừng quên - Mả dài chiến tích còn nguyên - Cái lôi cách mạng lưa truyền"
+
+(St: Phan Việt Tùng)
+ -->
+==Chú thích==
+{{tham khảo|30em}}
+
+==Tham khảo==
+{{Sơ khai Hà Nội}}
+{{Đơn vị hành chính thuộc thành phố Hà Nội}}

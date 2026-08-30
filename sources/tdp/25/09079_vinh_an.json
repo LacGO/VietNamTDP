@@ -1,0 +1,104 @@
+{
+  "ward_code": "09079",
+  "ward_name": "Vĩnh An",
+  "province_code": "25",
+  "resolution": "",
+  "arrangement": "truoc_2026_07",
+  "effective_date": "",
+  "verified": "unverified",
+  "extraction": {
+    "source": "vi.wikipedia.org",
+    "title": "Vĩnh An, Phú Thọ",
+    "mode": "narrative!old"
+  },
+  "sources": [
+    {
+      "key": "wiki-09079-1",
+      "title": "Quyết định số 71/QĐ-UBND về việc phân chia khu vực bỏ phiếu bầu cử Quốc hội khóa XVI và bầu cử đại biểu Hội đồng nhân dân các cấp, nhiệm kỳ 2026 - 2031",
+      "url": "https://vinhan.phutho.gov.vn/images/Q%C4%90_ph%C3%A2n_chia_khu_v%E1%BB%B1c_b%E1%BB%8F_phi%E1%BA%BFu.signed.signed.pdf",
+      "date": "2026-01-19",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-09079-2",
+      "title": "TOÀN VĂN: Nghị quyết số 202/2025/QH15 về sắp xếp đơn vị hành chính cấp tỉnh",
+      "url": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-202-2025-qh15-ve-sap-xep-don-vi-hanh-chinh-cap-tinh-119250612174148722.htm",
+      "date": "2025-07-16",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-09079-3",
+      "title": "NGHỊ QUYẾT 203/2025/QH15 SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA HIẾN PHÁP NƯỚC CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM",
+      "url": "https://xaydungchinhsach.chinhphu.vn/nghi-quyet-203-2025-qh15-sua-doi-bo-sung-mot-so-dieu-cua-hien-phap-nuoc-cong-hoa-xa-hoi-chu-nghia-viet-nam-119250616181735552.htm",
+      "date": "2025-06-28",
+      "type": "wikipedia-ref"
+    }
+  ],
+  "note": "Trích tự động từ Wikipedia tiếng Việt (mode=narrative!old). Cần đối chiếu nghị quyết HĐND phường/xã. ⚠️ Danh mục có thể là hiện trạng TRƯỚC sắp xếp thôn/TDP 01/7/2026 — Wikipedia chưa cập nhật nghị quyết mới.",
+  "tdp": [
+    {
+      "name": "Cẩm Chiền",
+      "type": "thôn"
+    },
+    {
+      "name": "Đình",
+      "type": "thôn"
+    },
+    {
+      "name": "Hạ Chuế",
+      "type": "thôn"
+    },
+    {
+      "name": "Hòang Hạ",
+      "type": "thôn"
+    },
+    {
+      "name": "Hòang Tân",
+      "type": "thôn"
+    },
+    {
+      "name": "Hòang Thượng",
+      "type": "thôn"
+    },
+    {
+      "name": "Hòang Trung",
+      "type": "thôn"
+    },
+    {
+      "name": "Khóat",
+      "type": "thôn"
+    },
+    {
+      "name": "Lực Điền",
+      "type": "thôn"
+    },
+    {
+      "name": "Nha",
+      "type": "thôn"
+    },
+    {
+      "name": "Nội",
+      "type": "thôn"
+    },
+    {
+      "name": "Phú Nông",
+      "type": "thôn"
+    },
+    {
+      "name": "Quyết Tiến",
+      "type": "thôn"
+    },
+    {
+      "name": "Thành Công",
+      "type": "thôn"
+    },
+    {
+      "name": "Xuôi",
+      "type": "thôn"
+    },
+    {
+      "name": "Yên Trù",
+      "type": "thôn"
+    }
+  ]
+}

@@ -1,0 +1,222 @@
+{{other|Phúc Lợi}}
+{{Thông tin đơn vị hành chính Việt Nam|Phường
+| tên = Phúc Lợi
+| hình = A road in Phuc Loi Ward, Long Bien District.jpg
+| ghi chú hình = Phố Hà Văn Chúc kết nối Phúc Lợi với Sài Đồng
+| vĩ độ = 21.045070389498054
+| kinh độ = 105.92940114587472
+| diện tích = 10,41 km²
+| dân số = 66.790 người
+| thời điểm dân số = 2025
+| mật độ dân số = {{formatnum:{{#expr:floor({{formatnum:66.790| R}}/{{formatnum:10,41| R}})}} }} người/km²
+| vùng = [[Đồng bằng sông Hồng]]
+| thành phố = [[Hà Nội]]
+| thành lập = 
+| trụ sở UBND = Tổ dân phố 2<ref>{{Chú thích web |url=https://storage-vnportal.vnpt.vn/gov-hni/6244/VanBan/2025/6/25/TB-729-2025.pdf |title=Thông báo số 729/TB-UBND ngày 25 tháng 6 năm 2025 của Ủy ban nhân dân thành phố Hà Nội về địa điểm trụ sở làm việc của 126 phường, xã sau sắp xếp thuộc phạm vi quản lý của thành phố Hà Nội|access-date=2026-06-15 |archive-date=2026-06-15 |archive-url=https://web.archive.org/web/20260615034519/https://storage-vnportal.vnpt.vn/gov-hni/6244/VanBan/2025/6/25/TB-729-2025.pdf |url-status=dead | website = Cổng Thông tin điện tử Ủy ban nhân dân thành phố Hà Nội}}</ref>
+| mã hành chính =00136<ref>{{Chú thích web |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/19ttg.signed.pdf |title=Quyết định số 19/2025/QĐ-TTg ngày 30 tháng 6 năm 2025 của Thủ tướng Chính phủ về việc Ban hành Bảng danh mục và mã số các đơn vị hành chính Việt Nam |access-date=2026-06-15 |archive-date=2026-06-15 |archive-url=https://web.archive.org/web/20260615034519/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/19ttg.signed.pdf |url-status=dead | website = Cổng Thông tin điện tử Chính phủ}}</ref> 
+| mã bưu chính = 
+| bản đồ 1 = [[File:Phuc Loi map.png| 300px]]
+| tựa bản đồ 1 = Bản đồ phường Phúc Lợi
+|web={{url|phucloi.hanoi.gov.vn}}|trụ sở Đảng ủy=Số 247a Nguyễn Văn Linh}}
+'''Phúc Lợi''' là một [[phường (Việt Nam)|phường]] thuộc thành phố [[Hà Nội]], [[Việt Nam]].
+
+== Địa lý== 
+Phường Phúc Lợi có vị trí địa lý:
+* Phía đông giáp xã [[Phù Đổng (xã)|Phù Đổng]] và xã [[Thuận An, Hà Nội|Thuận An]] (đi theo ranh giới cấp huyện cũ và đường giao thông)
+* Phía tây giáp phường [[Việt Hưng, Hà Nội|Việt Hưng]] và phường [[Long Biên (phường)|Long Biên]] (ranh giới đi theo phố Đào Đình Luyện – đường Nguyễn Văn Linh)
+* Phía nam giáp phường [[Long Biên (phường)|Long Biên]] và xã [[Gia Lâm, Hà Nội|Gia Lâm]] (ranh giới đi theo đường [[Quốc lộ 5]] – đường [[Đường vành đai 3 (Hà Nội)|CT37]])
+* Phía bắc giáp phường [[Việt Hưng, Hà Nội|Việt Hưng]] và xã [[Phù Đổng (xã)|Phù Đổng]] (ranh giới đi theo đường giao thông quy hoạch – [[sông Đuống]]).<ref>{{Chú thích web |last=Báo Điện tử Chính phủ |date=2025-04-28 |title=Chi tiết dự thảo phương án sắp xếp các phường của Hà Nội |url=https://xaydungchinhsach.chinhphu.vn/chi-tiet-du-thao-phuong-an-sap-xep-cac-phuong-cua-ha-noi-119250421100531902.htm |url-status=bot: unknown |archive-url=https://web.archive.org/web/20260316174230/https://xaydungchinhsach.chinhphu.vn/chi-tiet-du-thao-phuong-an-sap-xep-cac-phuong-cua-ha-noi-119250421100531902.htm |archive-date=2026-03-16 |access-date=2026-07-10 |website=Xây dựng chính sách, pháp luật }}</ref><ref>{{Chú thích web |last=Viện nghiên cứu Phát triển kinh tế – xã hội Hà Nội |date=2025-07-02 |title=Phường Phúc Lợi: Những thông tin chi tiết sau sắp xếp |url=https://hanoionline.vn/phuong-phuc-loi-nhung-thong-tin-chi-tiet-sau-sap-xep-343988.htm |url-status=bot: unknown |archive-url=https://web.archive.org/web/20250702073113/https://hanoionline.vn/phuong-phuc-loi-nhung-thong-tin-chi-tiet-sau-sap-xep-343988.htm |archive-date=2025-07-02 |access-date=2026-07-01 |website=Cơ quan Báo và Phát thanh Truyền hình Hà Nội }}</ref><ref>{{Chú thích web |last=Cơ quan Báo và Phát thanh Truyền hình Hà Nội|date=2025-07-05|title=Phường Phúc Lợi: Tất cả thông tin chỉ dẫn bạn cần biết|url=https://hanoionline.vn/phuong-phuc-loi-tat-ca-thong-tin-chi-dan-ban-can-biet-344783.htm|url-status=live|archive-url=https://web.archive.org/web/20260711401509/https://hanoionline.vn/phuong-phuc-loi-tat-ca-thong-tin-chi-dan-ban-can-biet-344783.htm|archive-date=2026-07-11|access-date=2026-07-11}}</ref>
+Phường Phúc Lợi có diện tích tự nhiên là 10,41 km<sup>2</sup>, quy mô dân số năm 2025 là 66.790 người và mật độ dân số đạt 6.415 người/km<sup>2</sup>.<ref>{{Chú thích web |title=Hà Nội: Chi tiết phương án tổng thể sắp xếp đơn vị hành chính cấp xã |url=https://hanoimoi.vn/ha-noi-chi-tiet-phuong-an-tong-the-sap-xep-don-vi-hanh-chinh-cap-xa-700278.html |url-status=bot: unknown |archive-url=https://web.archive.org/web/20250710163328/https://hanoimoi.vn/ha-noi-chi-tiet-phuong-an-tong-the-sap-xep-don-vi-hanh-chinh-cap-xa-700278.html |archive-date=2025-07-10 |access-date=2026-07-11 |website=Cơ quan Báo và Phát thanh, truyền hình Hà Nội |last=Mai Hữu |date=2026-04-05 }}</ref><ref>Công văn số 2896/BNV-CQĐP ngày 27 tháng 5 năm 2025 của Bộ Nội vụ về việc cung cấp thông tin danh mục dự kiến đơn vị hành chính cấp xã mới.</ref>
+
+== Lịch sử==
+
+=== Trước năm 1976 ===
+Trước cách mạng tháng 8 năm 1945, Quán Tình, Tình Quang, Hội Xá, Vụ Đồng, Nông Vụ Thượng, Nông Vụ Đông thuộc tổng Đặng Xá, phủ Thuận Thành, huyện Gia Lâm, tỉnh Bắc Ninh. Đời sống của nhân dân chủ yếu dựa vào sản xuất nông nghiệp trồng lúa, ngô, rau mầu, chăn nuôi và làm thuê cho địa chủ phong kiến, còn buôn bán chỉ là nhỏ lẻ; thôn Nông Vụ Đông có nghề làm quạt truyền thống được nhân dân ưa chuộng nên đời sống kinh tế khá hơn các thôn còn lại, đến nay chỉ còn vài gia đình giữ được nghề đó.
+
+Theo các cụ cao tuổi và trong thần tích còn lưu giữ, các thôn Nông Vụ Thượng, Nông Vụ Đông, Nông Vụ Trung trước kia là một trang trại Nông Vụ được phù sa màu mỡ của dòng sông Thiên Đức (sông Đuống) bồi đắp, có giao thông thuận lợi nên kinh tế phát triển, cư dân ngày càng đông đúc nên đã tách ra thành ba thôn, ngoài ra còn có tên gọi nôm là: Vo Thượng, Vo Trung, Vo Đông. Cả ba thôn này trong thời gian Pháp đô hộ gọi là xã Nông Vụ thuộc tổng Đặng Xá, Gia Lâm, Bắc Ninh.
+
+Cũng theo các cụ cao tuổi, có một bộ phận dân cư về sinh sống cạnh làng Nông Vụ Thượng (Vo Thượng) và thành lập một làng khoảng 20 hộ gia đình gọi là làng Vụ Đồng.
+
+Vào thời Lê, thôn Hội Xá gọi là Hộ Xá. Đến năm [[Duy Tân thứ 10]] ([[1916]]) đổi thành Hội Xá. Năm [[Bảo Đại thứ 10]] ([[1935]]) Hội Xá thuộc tổng Đặng Xá, huyện Gia Lâm, tỉnh Bắc Ninh.
+
+Tháng 2 năm 1948, theo yêu cầu của tình hình cách mạng, cấp trên cho thành lập các xã theo địa bàn hành chính mới của huyện Gia Lâm, trong đó có xã Trường Chinh thuộc huyện Gia Lâm, tỉnh Bắc Ninh gồm 7 thôn (làng) là Quán Tình, Tình Quang, Hội Xá, Vụ Đồng, Vo Thượng, Vo Trung, Vo Đông.
+
+Đến tháng 5 năm 1955, xã Trường Chinh được tách thành 2 xã là Giang Biên và Phúc Lợi. Xã Giang Biên có 2 thôn Tình Quang và Quán Tình; xã Phúc Lợi có 5 thôn: Hội Xá, Vụ Đồng, Vo Thượng, Vo Trung, Vo Đông thuộc huyện Gia Lâm, tỉnh Bắc Ninh.
+
+Tháng 2 năm 1960, theo Nghị quyết của chi bộ và sự nhất trí của cấp trên, hai thôn Vụ Đồng và Vo Thượng sáp nhập làm một lấy tên là thôn Thượng Đồng.
+
+Ngày 21 tháng 4 năm 1961, toàn bộ huyện Gia Lâm cắt chuyển về thành phố Hà Nội theo Quyết định của Quốc hội khóa II, kỳ họp thứ 2, xã Phúc Lợi thuộc quận VIII ngoại thành Hà Nội.
+
+Năm 1965, nhằm giáo dục truyền thống chống giặc ngoại xâm, huyện Gia Lâm đổi tên xã Phúc Lợi thành xã Hội Xá.
+
+=== Giai đoạn 1976 – nay ===
+Sau ngày 2 tháng 7 năm 1976, 6 xã: Cổ Bi, Gia Thụy, Giang Biên, Hội Xá, Thạch Bàn và Việt Hưng thuộc huyện [[Gia Lâm (huyện)|Gia Lâm]] của thành phố [[Hà Nội]].
+
+Ngày 13 tháng 10 năm 1982, thành lập thị trấn Sài Đồng gồm đất của ba xã Thạch Bàn, Gia Thụy và Hội Xá.<ref>{{Chú thích web |tựa đề=Quyết định số 173-HĐBT ngày 13 tháng 10 năm 1982 của Hội đồng Bộ trưởng về việc phân vạch địa giới một số phường và thị trấn thuộc thành phố Hà Nội |url=https://chinhphu.vn/default.aspx?pageid=27160&docid=6408 |url-status=live |archive-url=https://web.archive.org/web/20260709401509/https://chinhphu.vn/default.aspx?pageid=27160&docid=6408 |archive-date=2026-07-09 |access-date=2026-07-09 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+
+Ngày 6 tháng 11 năm 2003:
+
+* Tách toàn bộ diện tích tự nhiên và dân số của các xã: Giang Biên, Việt Hưng, Hội Xá, Gia Thụy, Thạch Bàn và thị trấn Sài Đồng thuộc huyện [[Gia Lâm (huyện)|Gia Lâm]] về quận [[Long Biên (quận)|Long Biên]] mới thành lập.
+* Thành lập phường Phúc Đồng trên cơ sở 494,76 ha diện tích tự nhiên và 6.994 nhân khẩu của xã Gia Thụy.
+* Thành lập phường Phúc Lợi trên cơ sở toàn bộ diện tích tự nhiên và dân số của xã Hội Xá.
+* Thành lập 4 phường: Giang Biên, Việt Hưng, Thạch Bàn và Sài Đồng (quận [[Long Biên (quận)|Long Biên]]) trên cơ sở toàn bộ diện tích tự nhiên và dân số của 3 xã và 1 thị trấn có tên tương ứng.<ref name="ND132">{{Chú thích web |url=http://thuvienphapluat.vn/archive/Nghi-dinh/Nghi-dinh-132-2003-ND-CP-dieu-chinh-dia-gioi-hanh-chinh-de-thanh-lap-quan-Long-Bien-Hoang-Mai-phuong-thuoc-quan-Hoang-Mai-Ha-Noi-vb51571t11.aspx |title=Nghị định số 132/2003/NĐ-CP ngày 6 tháng 11 năm 2003 của Chính phủ về việc điều chỉnh địa giới hành chính để thành lập các quận Long Biên, Hoàng Mai, thành lập các phường trực thuộc quận Long Biên, quận Hoàng Mai, thành phố Hà Nội |access-date=2012-09-14 |archive-date=2021-01-10 |archive-url=https://web.archive.org/web/20210110061806/https://thuvienphapluat.vn/archive/Nghi-dinh/Nghi-dinh-132-2003-ND-CP-dieu-chinh-dia-gioi-hanh-chinh-de-thanh-lap-quan-Long-Bien-Hoang-Mai-phuong-thuoc-quan-Hoang-Mai-Ha-Noi-vb51571t11.aspx |url-status=dead }}</ref>
+
+Ngày 14 tháng 11 năm 2024, nhập phường Sài Đồng vào phường Phúc Đồng và phường Phúc Lợi.<ref>{{Chú thích web |tiêu đề=Nghị quyết số 1286/NQ-UBTVQH15 ngày 14 tháng 11 năm 2024 của Ủy ban Thường vụ Quốc hội về việc sắp xếp đơn vị hành chính cấp xã của thành phố Hà Nội giai đoạn 2023 – 2025 |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/11/1286-qh.signed.pdf |url-status=live |archive-url=https://web.archive.org/web/20241121185017/https://quochoi.vn/tintuc/Pages/tin-hoat-dong-cua-quoc-hoi.aspx?ItemID=91149 |ngày lưu trữ=2024-11-21 |ngày truy cập=2024-11-21 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+
+Ngày 16 tháng 6 năm 2025:
+
+* Kết thúc hoạt động của đơn vị hành chính cấp huyện trong cả nước.<ref>{{Chú thích web |last= |date= |title=Nghị quyết số 203/2025/QH15 ngày 16 tháng 6 năm 2025 của Quốc hội khóa XV, Kỳ họp thứ 9 về việc sửa đổi, bổ sung một số điều của Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/nq-sua-doi-hien-phap.pdf |url-status=live |archive-url=https://web.archive.org/web/20260613090807/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/nq-sua-doi-hien-phap.pdf |archive-date=2026-06-13 |access-date=2026-06-13 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+* Sắp xếp một phần diện tích tự nhiên, quy mô dân số của phường Thạch Bàn (quận [[Long Biên (quận)|Long Biên]]), xã Cổ Bi (huyện [[Gia Lâm (huyện)|Gia Lâm]]), phần còn lại của các phường Giang Biên, Việt Hưng, Phúc Lợi và phần còn lại của phường Phúc Đồng (quận [[Long Biên (quận)|Long Biên]]) thành phường mới có tên gọi là phường Phúc Lợi.<ref>{{Chú thích web |title=Nghị quyết số 1656/NQ-UBTVQH15 ngày 16 tháng 6 năm 2025 của Ủy ban Thường vụ Quốc hội về việc sắp xếp các đơn vị hành chính cấp xã của thành phố Hà Nội năm 2025 |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf |url-status=bot: unknown |archive-url=https://web.archive.org/web/20260513110024/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf |archive-date=2026-05-13 |access-date=2026-06-30 |website=Cổng Thông tin điện tử Chính phủ }}</ref>
+* Sau khi sắp xếp, phường Phúc Lợi được chia thành 44 tổ dân phố.{{efn|2 tổ dân phố: 15 và 16 của phường Việt Hưng cũ; 29 tổ dân phố: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28 và 29 của phường Phúc Lợi cũ; 13 tổ dân phố: 1, 2, 3, 4, 5, 8, 9, 10, 11, 12, 15, 16 và 17 của phường Phúc Đồng cũ; các cụm dân cư thuộc 2 phường: Giang Biên, Thạch Bàn và xã Cổ Bi.}}<ref>{{Chú thích web |title=Thông tư số 10/2022/TT-BTNMT ngày 29 tháng 9 năm 2022 của Bộ Tài nguyên và Môi trường về việc Ban hành Danh mục địa danh dân cư, sơn văn, thủy văn, kinh tế – xã hội phục vụ công tác thành lập bản đồ thành phố Hà Nội |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2022/10/10-btnmt.pdf |url-status=bot: unknown |archive-url=https://web.archive.org/web/20260630082812/https://datafiles.chinhphu.vn/cpp/files/vbpq/2022/10/10-btnmt.pdf |archive-date=2026-06-30 |access-date=2026-06-30 |website=Cổng Thông tin điện tử Chính phủ }}</ref><ref name=":03">{{Chú thích web|last=|date=|title=Quyết định số 101/QĐ-UBND ngày 28 tháng 1 năm 2026 của Ủy ban nhân dân phường Phúc Lợi về việc xác định khu vực bỏ phiếu bầu cử đại biểu Quốc hội khóa XVI và đại biểu Hội đồng nhân dân các cấp nhiệm kỳ 2026 – 2031 trên địa bàn phường Phúc Lợi, thành phố Hà Nội|url=https://sqhx-hanoi.mediacdn.vn/91579363132710912/2026/2/3/qd-101-xac-dinh-khu-vuc-bo-phieu-1770105391082628686724.pdf|url-status=bot: unknown|archive-url=https://web.archive.org/web/20260710233537/https://sqhx-hanoi.mediacdn.vn/91579363132710912/2026/2/3/qd-101-xac-dinh-khu-vuc-bo-phieu-1770105391082628686724.pdf|archive-date=2026-07-10|access-date=2026-07-01|website=Trang Thông tin điện tử phường Phúc Lợi – thành phố Hà Nội}}</ref>
+Ngày 25 tháng 7 năm 2025, đổi tên 15 tổ dân phố, đánh số từ 1 đến 5, 11, 12, 8, 9, 10, từ 15 đến 17 thuộc phường Phúc Đồng cũ, 16 và 15 thuộc phường Việt Hưng cũ lần lượt thành 15 tổ dân phố, đánh số từ 30 đến 44; ghép cụm dân cư thuộc phường Giang Biên cũ vào tổ dân phố số 1; ghép 2 cụm dân cư thuộc phường Thạch Bàn và xã Cổ Bi cũ vào tổ dân phố số 29; ghép cụm dân cư tòa L1 đến L4 chung cư Le Grand Jardin Phúc Đồng vào tổ dân phố số 9 thuộc phường Phúc Đồng cũ (tổ dân phố số 38 sau đổi tên).{{efn|I. Đổi 15 tên tổ dân phố trên địa bàn phường như sau: 1. Đổi tên tổ dân phố số 01 thuộc phường Phúc Đồng cũ thànhTổ dân phố số 30; 2. Đổi tên tổ dân phố số 02 thuộc phường Phúc Đồng cũ thành Tổ dân phố số 31; 3. Đổi tên tổ dân phố số 03 thuộc phường Phúc Đồng cũ thành Tổ dân phố số 32; 4. Đổi tên tổ dân phố số 04 thuộc phường Phúc Đồng cũ thành Tổ dân phố số 33; 5. Đổi tên tổ dân phố số 05 thuộc phường Phúc Đồng cũ thành Tổ dân phố số 34; 6. Đổi tên tổ dân phố số 11 thuộc phường Phúc Đồng cũ thành Tổ dân phố số 35; 7. Đổi tên tổ dân phố số 12 thuộc phường Phúc Đồng cũ thành Tổ dân phố số 36; 8. Đổi tên tổ dân phố số 08 thuộc phường Phúc Đồng cũ thành Tổ dân phố số 37; 9. Đổi tên tổ dân phố số 09 thuộc phường Phúc Đồng cũ thành Tổ dân phố số 38; 10. Đổi tên tổ dân phố số 10 thuộc phường Phúc Đồng cũ thành Tổ dân phố số 39; 11. Đổi tên tổ dân phố số 15 thuộc phường Phúc Đồng cũ thành Tổ dân phố số 40; 12. Đổi tên tổ dân phố số 16 thuộc phường Phúc Đồng cũ thành Tổ dân phố số 41; 13. Đổi tên tổ dân phố số 17 thuộc phường Phúc Đồng cũ thành Tổ dân phố số 42; 14. Đổi tên tổ dân phố số 16 thuộc phường Việt Hưng cũ thành Tổ dân phố số 43; 15. Đổi tên tổ dân phố số 15 thuộc phường Việt Hưng cũ thành Tổ dân phố số 44; II. Ghép cụm dân cư vào tổ dân phố liền kề như sau: 1. Ghép cụm dân cư thuộc phường Giang Biên cũ vào tổ dân phố số 01; 2. Ghép 02 cụm dân cư thuộc phường Thạch Bàn và xã Cổ Bi cũ vào tổ dân phố số 29; 3. Ghép cụm dân cư tòa L1 đến L4 chung cư Le Grand Jardin Phúc Đồng vào tổ dân phố số 09 thuộc phường Phúc Đồng cũ (tổ dân phố số 38 sau đổi tên).}}<ref>{{Chú thích web |title=Nghị quyết số 8/NQ-HĐND ngày 25 tháng 7 năm 2025 của Hội đồng nhân dân xã Phúc Lợi về việc đổi tên tổ dân phố, ghép cụm dân cư vào tổ dân phố trên địa bàn phường Phúc Lợi |url=https://storage-vnportal.vnpt.vn/gov-hni/6984/VanBan/2025/8/5/Ngh%E1%BB%8B%20quy%E1%BA%BFt%20%C4%91%E1%BB%95i%20t%C3%AAn%20t%E1%BB%95%20d%C3%A2n%20ph%E1%BB%91-%20gh%C3%A9p%20c%E1%BB%A5m%20d%C3%A2n%20c%C6%B0.pdf |url-status=live |archive-url=https://web.archive.org/web/20260710401509/https://storage-vnportal.vnpt.vn/gov-hni/6984/VanBan/2025/8/5/Ngh%E1%BB%8B%20quy%E1%BA%BFt%20%C4%91%E1%BB%95i%20t%C3%AAn%20t%E1%BB%95%20d%C3%A2n%20ph%E1%BB%91-%20gh%C3%A9p%20c%E1%BB%A5m%20d%C3%A2n%20c%C6%B0.pdf |archive-date=2026-07-10 |access-date=2026-07-10 |website=Trang Thông tin điện tử phường Phúc Lợi – thành phố Hà Nội}}</ref>
+
+Ngày 24 tháng 12 năm 2025, xác định phần lớn của phường Phúc Lợi là [[Đô thị Việt Nam|đô thị loại II]].{{efn|Chuyển tiếp từ 5 phường: Giang Biên, Phúc Đồng, Phúc lợi, Thạch Bàn và Việt Hưng thuộc quận Long Biên.}}<ref>{{Chú thích web|title=Nghị quyết số 111/2025/UBTVQH15 ngày 24 tháng 12 năm 2025 của Ủy ban Thường vụ Quốc hội về phân loại đô thị|url=https://cdn.nhandan.vn/files/f4a4abf7f9a0ba4a91744616546d850872b76917f90d5a74cc9eebef1369fb6f/111.pdf|url-status=dead|archive-url=https://web.archive.org/web/20260430074852/https://cdn.nhandan.vn/files/f4a4abf7f9a0ba4a91744616546d850872b76917f90d5a74cc9eebef1369fb6f/111.pdf|archive-date=2026-04-30|access-date=2026-07-12|website=Báo Nhân dân}}</ref>
+
+Ngày 25 tháng 6 năm 2026, thành lập 18 tổ dân phố mới, đánh số từ 1 đến 14 và từ 18 đến 21.{{efn|1. Sáp nhập toàn bộ tổ dân phố số 01, 02, 03 thành tổ dân phố số 01; 2. Sáp nhập toàn bộ tổ dân phố số 04, 05, 06 thành tổ dân phố số 02; 3. Sáp nhập toàn bộ tổ dân phố số 07, 08 thành tổ dân phố số 03; 4. Sáp nhập toàn bộ tổ dân phố số 09, 10, 11 thành tổ dân phố số 04; 5. Sáp nhập toàn bộ tổ dân phố số 12, 13, 14 thành tổ dân phố số 05; 6. Sáp nhập toàn bộ tổ dân phố số 27, 28, 29 thành tổ dân phố số 06; 7. Sáp nhập toàn bộ tổ dân phố số 22, 25, 26 và một phần tổ 24 (lấy phố Vũ Xuân Thiều làm ranh giới, bên số chẵn) thành tổ dân phố số 07; 8. Sáp nhập toàn bộ tổ dân phố số 19, 23 và một phần tổ 24 (lấy phố Vũ Xuân Thiều làm ranh giới, bên số lẻ) thành tổ dân phố số 08; 9. Sáp nhập toàn bộ tổ dân phố số 18, 20, 21 thành tổ dân phố số 09; 10. Sáp nhập toàn bộ tổ dân phố số 43, 44 thành tổ dân phố số 10; 11. Sáp nhập toàn bộ tổ dân phố số 41, 42 thành tổ dân phố số 11; 12. Sáp nhập toàn bộ tổ dân phố số 38, 39 thành tổ dân phố số 12; 13. Sáp nhập toàn bộ tổ dân phố số 37, 40 thành tổ dân phố số 13; 14. Sáp nhập toàn bộ tổ dân phố số 35, 36 (là các tòa chung cư Hope President) và cụm dân cư C14; 15. Giữ nguyên tổ dân phố số 15 (chung cư EcoHome Phúc Lợi); 16. Giữ nguyên tổ dân phố số 16 (chung cư Ruby CT3 Phúc Lợi); 17. Giữ nguyên tổ dân phố số 17 (chung cư VinHomes Symphony); 18. Sáp nhập toàn bộ tổ dân phố số 33, 34 thành tổ dân phố số 18; 19. Sáp nhập toàn bộ tổ dân phố số 30, 32, 32 thành tổ dân phố số 19; 20. Thành lập tổ dân phố mới – tổ dân phố số 20 trên cơ sở cụm dân cư Bằng Lăng, Anh Đào, Hoa Sữa... (thuộc khu đô thị VinHomes Riverside), lấy đường Đoàn Khuê, Trần Danh Tuyên làm ranh giới; 21. Thành lập tổ dân phố mới – tổ dân phố số 21 trên cơ sở cụm dân cư Nguyệt Quế, Tulip, Phong Lan... (thuộc khu đô thị VinHomes Riverside), lấy đường Đoàn Khuê, Trần Danh Tuyên làm ranh giới.}}<ref name=":1">{{Chú thích web |last=Phường Phúc Lợi – thành phố Hà Nội |date=2026-06-10 |title=Đề án sắp xếp tổ dân phố trên địa bàn phường Phúc Lợi! |url=https://web.facebook.com/story.php?story_fbid=122170979204910525&id=61577315756180&rdid=TV2DCY16gKUJT6MZ# |url-status=live |archive-url=https://web.archive.org/web/20260710401509/https://web.facebook.com/story.php?story_fbid=122170979204910525&id=61577315756180&rdid=TV2DCY16gKUJT6MZ# |archive-date=2026-07-10 |access-date=2026-07-10}}</ref><ref name=":2">{{Chú thích web |last=Nguyễn Bình – Đức Cường |date=2026-06-25 |title=Hội đồng nhân dân phường Phúc Lợi thông qua 4 nghị quyết quan trọng, tạo đà phát triển trong giai đoạn mới |url=https://dangcongsan.org.vn/hanoi/xay-dung-dang/hdnd-phuong-phuc-loi-thong-qua-4-nghi-quyet-quan-trong-tao-da-phat-trien-trong-giai-doan-moi.html?gidzl=vR9d3AryWd_XhMCAfs65SE6jOmQnQz9o_V0nKxOsXN2iyJS1iMpV9VtmEr2pE8yW-FHcK39-_z12g7s6VG |url-status=bot: unknown |archive-url=https://web.archive.org/web/20260710170504/https://dangcongsan.org.vn/hanoi/xay-dung-dang/hdnd-phuong-phuc-loi-thong-qua-4-nghi-quyet-quan-trong-tao-da-phat-trien-trong-giai-doan-moi.html%3Fgidzl%3DvR9d3AryWd_XhMCAfs65SE6jOmQnQz9o_V0nKxOsXN2iyJS1iMpV9VtmEr2pE8yW-FHcK39-_z12g7s6VG |archive-date=2026-07-10 |access-date=2026-07-10 |website=Cổng Thông tin điện tử Đảng Cộng sản Việt Nam – Hà Nội }}</ref><!-- 
+== Lịch sử== 
+Phường Thạch Bàn được thành lập năm 2003 trên cơ sở toàn bộ 527,21 ha diện tích tự nhiên và 11.300 người của xã Thạch Bàn, huyện [[Gia Lâm (huyện)| Gia Lâm]].<ref name = "ND132">[http://thuvienphapluat.vn/archive/Nghi-dinh/Nghi-dinh-132-2003-ND-CP-dieu-chinh-dia-gioi-hanh-chinh-de-thanh-lap-quan-Long-Bien-Hoang-Mai-phuong-thuoc-quan-Hoang-Mai-Ha-Noi-vb51571t11.aspx Nghị định số 132/2003/NĐ-CP ngày 6 tháng 11 năm 2003 của Chính phủ] về việc điều chỉnh địa giới hành chính để thành lập các quận Long Biên, Hoàng Mai, thành lập các phường trực thuộc quận Long Biên, quận Hoàng Mai, thành phố Hà Nội.</ref>
+== Hành chính== 
+Phường Thạch Bàn được chia thành 16 tổ dân phố, bao gồm TDP số : 1, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17
+
+== Văn hóa== 
+Đình Cầu Bây ở Thạch Bàn là di tích thờ vị [[tướng nhà Đinh]] Lã Lang Đường có công phù tá cho [[Đinh Bộ Lĩnh]] dẹp [[loạn 12 sứ quân]].
+
+Đình làng Ngô thờ tướng nhà Đinh Lã Lang Đế có công phù tá cho [[Đinh Bộ Lĩnh]] dẹp [[loạn 12 sứ quân]] và đánh quân Ngô. Anh trai của vị tướng Lã Lang Đế là Lã Lang Đường được thờ ở làng Cầu Bây bên cạnh làng Ngô.
+
+Phường Sài Đồng được thành lập năm 2003 trên cơ sở toàn bộ 90,67 [[hecta]] diện tích tự nhiên và 14.029 người của thị trấn Sài Đồng, huyện [[Gia Lâm (huyện)| Gia Lâm]].<ref name = "132/2003/NĐ-CP">{{Chú thích web| url = https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Nghi-dinh-132-2003-ND-CP-dieu-chinh-dia-gioi-hanh-chinh-de-thanh-lap-quan-Long-Bien-Hoang-Mai-phuong-thuoc-quan-Hoang-Mai-Ha-Noi-51571.aspx| title = Nghị định 132/2003/NĐ-CP về việc điều chỉnh địa giới hành chính để thành lập các quận Long Biên, Hoàng Mai, thành lập các phường trực thuộc quận Long Biên, quận Hoàng Mai, thành phố Hà Nội| last = | first = | date = | website = | archive-url = | archive-date = | url-status = | access-date = }}</ref> Trước đó vào năm 1982, thị trấn Sài Đồng được thành lập trên cơ sở tách đất của 3 xã Thạch Bàn, Gia Thụy, Hội Xá.
+
+Ở đây có [[khu công nghiệp]] Sài Đồng, khu công nghệ cao Sài Đồng và [[Bệnh viện Tâm thần Hà Nội]].
+
+== Lịch sử== 
+Giang Biên vốn là tên chữ dùng để gọi vùng đất Vự Đàm ngày xưa, lúc bấy giờ là tên của một đơn vị hành chính gồm hai thôn Tình Quang và Quán Tình, đều là những đơn vị hành chính độc lập. Thời thực dân phong kiến, Quán Tình và Tình Quang thuộc tổng Đặng Xá, huyện Gia Lâm, tỉnh Bắc Ninh. Cách mạng Tháng Tám thành công, sau Tổng tuyển cử năm 1946, hai làng Tình Quang và Quán Tình trở thành hai xã Tình Quang và Quán Tình.
+
+Tháng 5/1955, xã Giang Biên chính thức được thành lập gồm có hai thôn là Tình Quang và Quán Tình.
+
+Giang Biên không chỉ nổi tiếng với nghề trồng rau, bện thừng, đan võng, trồng chuối mà còn nổi tiếng về truyền thống bất khuất chống giặc ngoại xâm. Trong cuộc kháng chiến chống thực dân Pháp và cuộc kháng chiến chống Mỹ cứu nước, Giang Biên luôn kiên cường, gan góc bám đất, giữ làng, vừa sản xuất, vừa chiến đấu cùng với cả dân tộc đưa sự nghiệp kháng chiến đến thắng lợi. Hiện nay toàn phường có 202 đối tượng chính sách, trong đó có: 16 mẹ được truy tặng danh hiệu Mẹ Việt Nam anh hùng; 63 thương binh, bệnh binh; 43 gia đình thân nhân liệt sỹ; 16 đồng chí bị ảnh hưởng của chất độc hóa học; 68 người đại diện gia tộc thờ cúng các liệt sĩ.
+
+Hòa bình lập lại, trong công cuộc xây dựng chủ nghĩa xã hội, Giang Biên luôn là xã dẫn đầu tỉnh Bắc Ninh về phong trào hợp tác hóa nông nghiệp. Cùng với phong trào hợp tác hóa nông nghiệp, Giang Biên đã rất quan tâm tới công tác giáo dục và y tế. Năm 1958, Giang Biên được công nhận xong nạn mù chữ và được Nhà nước tặng Huân chương Lao động hạng Ba.
+
+Năm 1961, huyện Gia Lâm được sáp nhập vào Thủ đô Hà Nội, Giang Biên cùng cả huyện Gia Lâm tiến hành 3 cuộc cách mạng trong kế hoạch 5 năm lần thứ nhất. Sau 25 năm thực hiện công cuộc đổi mới (1986 -2010), Giang Biên đã đạt nhiều thành tựu quan trọng, kinh tế liên tục tăng trưởng, đời sống kinh tế, văn hóa xã hội của nhân dân ngày càng được nâng cao.
+
+Ngày ngày 6 tháng 11 năm 2003, Chính phủ ban hành Nghị định số 132/2003/NĐ-CP thành lập quận Long Biên, xã Giang Biên thuộc huyện Gia Lâm chuyển thành phường Giang Biên thuộc quận Long Biên, thành phố Hà Nội.
+
+Tháng 1/2004, UBND Thành phố Hà Nội ban hành Quyết định số 08/2004/QĐ-UB về việc phê duyệt Quy hoạch chi tiết khu đô thị Việt Hưng, góp phần đẩy nhanh quá trình đô thị hóa, phát triển thương mại dịch vụ trên địa bàn phường.
+
+== Đình Tình Quang== 
+Đình Tình Quang cách Trung tâm Thủ đô Hà Nội khoảng 15&nbsp;km về phía Đông – Bắc, tạo lạc giữa khu dân cư của thôn Tình Quang, xã Giang Biên, huyện Gia Lâm, nay thuộc tổ 3, phường Giang Biên, quận Long Biên, Thành phố Hà Nội. Nhưng không to bằng đình Quán Tình
+
+Đình Tình Quang thờ 3 vị Thành hoàng làng là Lý Bí ([[Lý Nam Đế]]), [[Đinh Điền]] – Một tướng giỏi của [[Đinh Bộ Lĩnh]] và [[Lý Chiêu Hoàng]] – Vị vua cuối cùng của triều Lý.
+
+-->
+
+== Hành chính ==
+Phường Phúc Lợi được chia thành 21 tổ dân phố, đánh số từ 1 đến 21.<ref name=":1" /><ref name=":2" />
+{| class="wikitable sortable" align="center" width="100%" cellspacing="6" cellpadding="0" style="background: #f9f9f9; border: 1px #aaa solid; margin-top: 16px"
+! colspan="4" style="background: #E6E6FA; font-size: 95%;" |Danh sách các tổ dân phố thuộc phường Phúc Lợi<ref name=":1" /><ref name=":2" />
+|-
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Tổ dân phố 1
+|1.427
+|-
+| align="left" |Tổ dân phố 2
+|1.481
+|-
+| align="left" |Tổ dân phố 3
+|856
+|-
+| align="left" |Tổ dân phố 4
+|1.025
+|-
+| align="left" |Tổ dân phố 5
+|869
+|-
+| align="left" |Tổ dân phố 6
+|901
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Tổ dân phố 7
+|1.430
+|-
+| align="left" |Tổ dân phố 8
+|961
+|-
+| align="left" |Tổ dân phố 9
+|1.221
+|-
+| align="left" |Tổ dân phố 10
+|1.126
+|-
+| align="left" |Tổ dân phố 11
+|927
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Tổ dân phố 12
+|1.371
+|-
+| align="left" |Tổ dân phố 13
+|1.066
+|-
+| align="left" |Tổ dân phố 14
+|1.280
+|-
+| align="left" |Tổ dân phố 15
+|691
+|-
+| align="left" |Tổ dân phố 16
+|1.113
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Tổ dân phố 17
+|1.086
+|-
+| align="left" |Tổ dân phố 18
+|1.200
+|-
+| align="left" |Tổ dân phố 19
+|1.473
+|-
+| align="left" |Tổ dân phố 20
+|1.077
+|-
+| align="left" |Tổ dân phố 21
+|934
+|}
+|}
+
+== Địa chỉ trụ sở các cơ quan ==
+* '''Trụ sở Đảng uỷ - HĐND - Ủy ban MTTQ Việt Nam''': Số 247B, đường Nguyễn Văn Linh.{{efn|Địa chỉ cũ: Số 247B, đường Nguyễn Văn Linh, phường Phúc Đồng, quận Long Biên}}<ref name="trusomoi3">{{Chú thích web | date = 25 tháng 6 năm 2025 | title = Thông báo về địa điểm trụ sở làm việc của 126 phường, xã sau sắp xếp thuộc phạm vi quản lý của thành phố Hà Nội | url = https://dcdn.dantri.com.vn/2025/06/25/tru-so-126-xa-phuong-cua-ha-noi-1750822481952.pdf | website = UBND TP Hà Nội | access-date = 2025-12-04 | archive-date = 2026-04-25 | archive-url = https://web.archive.org/web/20260425080946/https://dcdn.dantri.com.vn/2025/06/25/tru-so-126-xa-phuong-cua-ha-noi-1750822481952.pdf | url-status = dead }}</ref>
+* '''Trụ sở UBND phường, trung tâm phục vụ hành chính công''': Đường Viên Chiếu, tổ dân phố 6.{{efn|Địa chỉ cũ: Đường Viên Chiếu, tổ 6, phường Phúc Lợi, quận Long Biên}}<ref>{{Chú thích báo | last = Trung tâm Phục vụ hành chính công thành phố Hà Nội | title = Hà Nội công khai địa điểm tiếp nhận thủ tục hành chính thuộc UBND 126 xã/phường và 30 điểm tiếp nhận của 12 Chi nhánh thuộc Trung tâm Phục vụ hành chính công Thành phố, thông tin đường dây nóng hỗ trợ người dân, doanh nghiệp | url = https://ttpvhcc.hanoi.gov.vn/hoat-dong-cua-trung-tam/ha-noi-cong-khai-dia-diem-tiep-nhan-thu-tuc-hanh-chinh-thuoc-ubnd-126-xa-phuong-va-30-diem-tiep-nhan-cua-12-chi-nhanh-thuoc-trung-tam-phuc-vu-hanh-chinh-cong-thanh-pho-thong-tin-duong-day-nong-ho-tro-nguoi-dan-doanh-nghiep-2850250704103711121.htm }}</ref>
+* '''Trụ sở Trung tâm VHTT''': Số 2, ngõ 201 đường Phúc Lợi.{{efn|Địa chỉ cũ: Số 2, ngõ 201 đường Phúc Lợi, phường Phúc Lợi, quận Long Biên}}<ref name=":3">{{Chú thích web |last=Trang thông tin điện tử Phường Phúc Lợi, TP.Hà Nội |first= |title=Địa điểm trụ sở làm việc của Đảng ủy - HĐND - UBND - Ủy ban MTTQ; Điểm phục vụ hành chính công; Công an phường; Quân sự phường và các đơn vị sự nghiệp phường Phúc Lợi |url=https://phucloi.hanoi.gov.vn/cac-co-quan-trong-dia-ban/dia-diem-tru-so-lam-viec-cua-dang-uy-hdnd-ubnd-uy-ban-mttq-diem-phuc-vu-hanh-chinh-cong-cong-an-phuong-quan-su-phuong-va-cac-don-vi-su-nghiep-phuong-phuc-loi-2702250716104500111.htm}}</ref>
+* '''Trụ sở''' '''Ban chỉ huy Quân sự phường''': Số 557, đường Nguyễn Văn Linh{{efn|Địa chỉ cũ: Số 557, đường Nguyễn Văn Linh, phường Phúc Đồng, quận Long Biên}}<ref name=":3" />
+* '''Trụ sở Ban Quản lý dự án đầu tư hạ tầng phường Phúc Lợi''': Số 73, phố Tân Thụy.{{efn|Địa chỉ cũ: Số 73, phố Tân Thụy, phường Phúc Đồng, quận Long Biên}}<ref name=":3" />
+* '''Trụ sở Trạm''' '''Y tế phường Phúc Lợi:<ref name=":3" />'''
+** '''Trụ sở chính''': Ngõ 557 đường Nguyễn Văn Linh.{{efn|Địa chỉ cũ: Ngõ 557 đường Nguyễn Văn Linh, phường Phúc Đồng, quận Long Biên (Trước là Trụ sở Trạm Y tế phường Sài Đồng cũ)}}
+** '''Điểm Y tế Phúc Lợi''': Ngõ 197 đường Phúc Lợi, tổ dân phố 6.{{efn|Địa chỉ cũ: Ngõ 197 đường Phúc Lợi, tổ 6, phường Phúc Lợi, quận Long Biên}}
+** '''Điểm Y tế Phúc Đồng''': Ngõ 159 đường Nguyễn Văn Linh.{{efn|Địa chỉ cũ: Ngõ 159 đường Nguyễn Văn Linh, phường Phúc Đồng, quận Long Biên}}
+*'''Trụ sở Công an phường''':<ref>{{Chú thích báo | last = Báo Đại biểu Nhân dân | first = | title = Danh sách 126 trụ sở Công an cấp xã thuộc Công an TP. Hà Nội để người dân tới làm căn cước, đăng ký xe | url = https://daibieunhandan.vn/danh-sach-126-tru-so-cong-an-cap-xa-thuoc-cong-an-tp-ha-noi-de-nguoi-dan-toi-lam-can-cuoc-dang-ky-xe-10378397.html}}</ref>
+**'''Nơi tiếp nhận tin báo, tố giác tội phạm''': Số 1, ngõ 15 phố Tân Thụy.{{efn|Địa chỉ cũ: Số 1, ngõ 15 phố Tân Thụy, phường Phúc Đồng, quận Long Biên}}
+**'''Nơi tiếp nhận hành chính về cư trú, định danh điện tử''': Số 1, phố Cầu Bây.{{efn|Địa chỉ cũ: Số 1, phố Cầu Bây, phường Phúc Đồng, quận Long Biên}}
+
+== Chú thích == 
+{{notelist}}
+
+== Tham khảo ==
+{{tham khảo| 30em}}
+{{Sơ khai Hà Nội}}
+{{Đơn vị hành chính thuộc thành phố Hà Nội}}

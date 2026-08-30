@@ -1,0 +1,124 @@
+{
+  "ward_code": "08773",
+  "ward_name": "Yên Lãng",
+  "province_code": "25",
+  "resolution": "",
+  "arrangement": "truoc_2026_07",
+  "effective_date": "",
+  "verified": "unverified",
+  "extraction": {
+    "source": "vi.wikipedia.org",
+    "title": "Yên Lãng, Phú Thọ",
+    "mode": "narrative"
+  },
+  "sources": [
+    {
+      "key": "wiki-08773-1",
+      "title": "Danh sách chính thức những người ứng cử đại biểu Hội đồng nhân dân xã Yên Lãng nhiệm kỳ 2026 - 2031",
+      "url": "https://yenlang.phutho.gov.vn/index.php/bau-cu-dai-bieu-quoc-hoi-khoa-xiv-va-hdnd-cac-cap-nhiem-ky-2026-2031/danh-sach-nguoi-ung-cu-dai-bieu-hdnd-xa-yen-lang-nhiem-ky-2026-2031",
+      "date": "2026-02-12",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-08773-2",
+      "title": "Danh sách Thôn vùng đồng bào dân tộc thiểu số và miền núi, thôn đặc biệt khó khăn giai đoạn 2026 - 2030 trên địa bàn tỉnh Phú Thọ",
+      "url": "http://files.ubdt.gov.vn/files/ecm/source_files/2026/02/05/11252411_4.%20Ph%C3%BA%20Th%E1%BB%8D%201%20(th%C3%B4n).signed_26-02-05.pdf",
+      "date": "2026-01-29",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-08773-3",
+      "title": "TOÀN VĂN: Nghị quyết số 202/2025/QH15 về sắp xếp đơn vị hành chính cấp tỉnh",
+      "url": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-202-2025-qh15-ve-sap-xep-don-vi-hanh-chinh-cap-tinh-119250612174148722.htm",
+      "date": "2025-07-16",
+      "type": "wikipedia-ref"
+    }
+  ],
+  "note": "Trích tự động từ Wikipedia tiếng Việt (mode=narrative). Cần đối chiếu nghị quyết HĐND phường/xã. ⚠️ Danh mục có thể là hiện trạng TRƯỚC sắp xếp thôn/TDP 01/7/2026 — Wikipedia chưa cập nhật nghị quyết mới.",
+  "tdp": [
+    {
+      "name": "Đá Đen",
+      "type": "thôn"
+    },
+    {
+      "name": "Đá Đứng",
+      "type": "thôn"
+    },
+    {
+      "name": "Đòan Kết",
+      "type": "thôn"
+    },
+    {
+      "name": "Đồng Dạ",
+      "type": "thôn"
+    },
+    {
+      "name": "Đồng Dong",
+      "type": "thôn"
+    },
+    {
+      "name": "Đồng Nùng",
+      "type": "thôn"
+    },
+    {
+      "name": "Đồng Tâm",
+      "type": "thôn"
+    },
+    {
+      "name": "Đức Thịnh",
+      "type": "thôn"
+    },
+    {
+      "name": "Hòanh Sơn",
+      "type": "thôn"
+    },
+    {
+      "name": "Lãng Sơn",
+      "type": "thôn"
+    },
+    {
+      "name": "Lý Nhân",
+      "type": "thôn"
+    },
+    {
+      "name": "Minh Tân",
+      "type": "thôn"
+    },
+    {
+      "name": "Phú Cường",
+      "type": "thôn"
+    },
+    {
+      "name": "Quang Viễn",
+      "type": "thôn"
+    },
+    {
+      "name": "Tam Đa",
+      "type": "thôn"
+    },
+    {
+      "name": "Thành Công",
+      "type": "thôn"
+    },
+    {
+      "name": "Thống Nhất",
+      "type": "thôn"
+    },
+    {
+      "name": "Trường Xuân",
+      "type": "thôn"
+    },
+    {
+      "name": "Xóm Mới",
+      "type": "thôn"
+    },
+    {
+      "name": "Yên Sơn",
+      "type": "thôn"
+    },
+    {
+      "name": "Yên Thiết",
+      "type": "thôn"
+    }
+  ]
+}

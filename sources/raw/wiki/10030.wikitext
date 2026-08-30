@@ -1,0 +1,129 @@
+{{Thông tin đơn vị hành chính Việt Nam|Xã|tên=Phú Nghĩa|vùng=[[Đồng bằng sông Hồng]]|thành phố=[[Hà Nội]]|trụ sở Đảng ủy=Thôn Phú Khê|trụ sở UBND=Thôn Đông Yên<ref>{{Chú thích web |url=https://storage-vnportal.vnpt.vn/gov-hni/6244/VanBan/2025/6/25/TB-729-2025.pdf |title=Thông báo số 729/TB-UBND ngày 25 tháng 6 năm 2025 của Ủy ban nhân dân thành phố Hà Nội về địa điểm trụ sở làm việc của 126 phường, xã sau sắp xếp thuộc phạm vi quản lý của thành phố Hà Nội|access-date=2026-06-15 |archive-date=2026-06-15 |archive-url=https://web.archive.org/web/20260615034519/https://storage-vnportal.vnpt.vn/gov-hni/6244/VanBan/2025/6/25/TB-729-2025.pdf |url-status=dead | website = Cổng Thông tin điện tử Ủy ban nhân dân thành phố Hà Nội}}</ref>|vĩ độ=20.930579684195497|kinh độ=105.65638523639296|bản đồ 1={{maplink|frame=yes|plain=yes|type=shape|frame-width=280|frame-align=center|stroke-width=3}}|diện tích=40,24 km²|thời điểm dân số=2025|dân số=71.048 người|mật độ dân số={{formatnum:{{#expr:floor({{formatnum:71.048| R}}/{{formatnum:40,24| R}})}} }} người/km²|mã hành chính=10030<ref>{{Chú thích web |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/19ttg.signed.pdf |title=Quyết định số 19/2025/QĐ-TTg ngày 30 tháng 6 năm 2025 của Thủ tướng Chính phủ về việc Ban hành Bảng danh mục và mã số các đơn vị hành chính Việt Nam |access-date=2026-06-15 |archive-date=2026-06-15 |archive-url=https://web.archive.org/web/20260615034519/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/19ttg.signed.pdf |url-status=dead | website = Cổng Thông tin điện tử Chính phủ}}</ref>|web={{url|phunghia.hanoi.gov.vn}}}}{{other|Phú Nghĩa (định hướng)}}
+'''Phú Nghĩa''' là một [[Xã (Việt Nam)|xã]] thuộc thành phố [[Hà Nội]], [[Việt Nam]].
+
+== Địa lý== 
+Xã Phú Nghĩa có vị trí địa lý:
+
+* Phía đông giáp phường [[Chương Mỹ (phường)|Chương Mỹ]]
+* Phía tây giáp xã [[Phú Cát]] và xã [[Xuân Mai]]
+* Phía nam giáp xã [[Trần Phú, Hà Nội|Trần Phú]] và xã [[Quảng Bị]]
+* Phía bắc giáp xã [[Kiều Phú (xã)|Kiều Phú]] và xã [[Hưng Đạo, Hà Nội|Hưng Đạo]].<ref>{{Chú thích web |last=Viện nghiên cứu Phát triển kinh tế – xã hội Hà Nội |date=2025-07-02 |title=Xã Phú Nghĩa: Những thông tin chi tiết sau sắp xếp |url=https://hanoionline.vn/xa-phu-nghia-nhung-thong-tin-chi-tiet-sau-sap-xep-344173.htm |url-status=bot: unknown |archive-url=https://web.archive.org/web/20250703090315/https://hanoionline.vn/xa-phu-nghia-nhung-thong-tin-chi-tiet-sau-sap-xep-344173.htm |archive-date=2025-07-03 |access-date=2026-08-04 |website=Cơ quan Báo và Phát thanh Truyền hình Hà Nội }}</ref><ref>{{Chú thích web |last=Cơ quan Báo và Phát thanh Truyền hình Hà Nội |date=2025-07-09 |title=Xã Phú Nghĩa: Tất cả thông tin chỉ dẫn bạn cần biết |url=https://hanoionline.vn/xa-phu-nghia-tat-ca-thong-tin-chi-dan-ban-can-biet-345677.htm |url-status=dead |archive-url=https://web.archive.org/web/20250710023002/https://hanoionline.vn/xa-phu-nghia-tat-ca-thong-tin-chi-dan-ban-can-biet-345677.htm |archive-date=2025-07-10 |access-date=2026-08-04 }}</ref>
+Xã Phú Nghĩa có diện tích tự nhiên là 40,24 km<sup>2</sup>, quy mô dân số năm 2025 là 71.048 người và mật độ dân số đạt 1.765 người/km<sup>2</sup>.<ref>{{Chú thích web |last=Mai Hữu |date=2026-04-05 |title=Hà Nội: Chi tiết phương án tổng thể sắp xếp đơn vị hành chính cấp xã |url=https://hanoimoi.vn/ha-noi-chi-tiet-phuong-an-tong-the-sap-xep-don-vi-hanh-chinh-cap-xa-700278.html |url-status=bot: unknown |archive-url=https://web.archive.org/web/20250710163328/https://hanoimoi.vn/ha-noi-chi-tiet-phuong-an-tong-the-sap-xep-don-vi-hanh-chinh-cap-xa-700278.html |archive-date=2025-07-10 |access-date=2026-07-11 |website=Cơ quan Báo và Phát thanh, truyền hình Hà Nội }}</ref><ref>Công văn số 2896/BNV-CQĐP ngày 27 tháng 5 năm 2025 của Bộ Nội vụ về việc cung cấp thông tin danh mục dự kiến đơn vị hành chính cấp xã mới.</ref>
+
+== Lịch sử==
+
+=== Trước năm 1976 ===
+
+=== Giai đoạn 1976 – nay ===
+Sau ngày 2 tháng 7 năm 1976, 6 xã: Đông Phương Yên, Đông Sơn, Phú Nghĩa, Thanh Bình, Trung Hòa và Trường Yên thuộc huyện [[Chương Mỹ (huyện)|Chương Mỹ]] của tỉnh [[Hà Sơn Bình]].
+
+Ngày 12 tháng 8 năm 1991, chia tỉnh [[Hà Sơn Bình]] thành 2 tỉnh, lấy tên là tỉnh [[Hòa Bình (tỉnh)|Hòa Bình]] và tỉnh [[Hà Tây (tỉnh)|Hà Tây]]. Khi đó, Khi đó, 6 xã: Đông Phương Yên, Đông Sơn, Phú Nghĩa, Thanh Bình, Trung Hòa và Trường Yên thuộc huyện [[Chương Mỹ (huyện)|Chương Mỹ]] của tỉnh [[Hà Tây (tỉnh)|Hà Tây]].<ref>Nghị quyết ngày 12 tháng 8 năm 1991 của Quốc hội khóa VIII, Kỳ họp thứ 9 về việc điều chỉnh địa giới hành chính một số tỉnh, thành phố trực thuộc Trung ương.</ref>
+
+Ngày 29 tháng 5 năm 2008, hợp nhất tỉnh [[Hà Tây (tỉnh)|Hà Tây]] vào thành phố [[Hà Nội]]. Khi đó, 6 xã: Đông Phương Yên, Đông Sơn, Phú Nghĩa, Thanh Bình, Trung Hòa và Trường Yên thuộc huyện [[Chương Mỹ (huyện)|Chương Mỹ]] của thành phố [[Hà Nội]].<ref>Nghị quyết số 15/2008/QH12 ngày 29 tháng 5 năm 2008 của Quốc hội khóa XII, Kỳ họp thứ 3 về việc điều chỉnh địa giới hành chính thành phố Hà Nội và một số tỉnh có liên quan.</ref>
+
+Ngày 16 tháng 6 năm 2025:
+
+* Kết thúc hoạt động của đơn vị hành chính cấp huyện trong cả nước.<ref>{{Chú thích web |last= |date= |title=Nghị quyết số 203/2025/QH15 ngày 16 tháng 6 năm 2025 của Quốc hội khóa XV, Kỳ họp thứ 9 về việc sửa đổi, bổ sung một số điều của Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/nq-sua-doi-hien-phap.pdf |url-status=live |archive-url=https://web.archive.org/web/20260613090807/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/nq-sua-doi-hien-phap.pdf |archive-date=2026-06-13 |access-date=2026-06-13 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+* Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của các xã Đông Phương Yên, Đông Sơn, Thanh Bình, Trung Hòa, Trường Yên và Phú Nghĩa (huyện [[Chương Mỹ (huyện)|Chương Mỹ]]) thành xã mới có tên gọi là xã Phú Nghĩa.<ref>{{Chú thích web |title=Nghị quyết số 1656/NQ-UBTVQH15 ngày 16 tháng 6 năm 2025 của Ủy ban Thường vụ Quốc hội về việc sắp xếp các đơn vị hành chính cấp xã của thành phố Hà Nội năm 2025 |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf |url-status=bot: unknown |archive-url=https://web.archive.org/web/20260513110024/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf |archive-date=2026-05-13 |access-date=2026-06-30 |website=Cổng Thông tin điện tử Chính phủ }}</ref>
+* Sau khi sắp xếp, xã Phú Nghĩa được chia thành 36 thôn.<ref>6 thôn: Đông Cựu, Đồi từ 1 đến 3, Lũng Vị và Yên Kiện của xã Đông Phương Yên cũ; 9 thôn: An Sơn, Đông Cựu, Lương Sơn, Phố Gốt, Quyết Hạ, Quyết Thượng, Thanh Trì, Xóm Đông và Yên Kiện của xã Đông Sơn cũ; 5 thôn: Đồi Chè, Kim Nê, Thanh Nê, Tiến Phối và Trung Hoàng của xã Thanh Bình cũ; 4 thôn: Chi Nê, Tinh Mỹ, Trung Cao 1 và 2 của xã Trung Hòa cũ; 5 thôn: Nhật Tiến, Phù Yên, Tân Yên, Yên Trường 1 và 2 của xã Trường Yên cũ; 7 thôn: Đồng Trữ, Khê Than, Nghĩa Hảo, Phú Hữu 1, 2, Phú Vinh và Quan Châm của xã Phú Nghĩa cũ.</ref><ref>{{Chú thích web |title=Thông tư số 10/2022/TT-BTNMT ngày 29 tháng 9 năm 2022 của Bộ Tài nguyên và Môi trường về việc Ban hành Danh mục địa danh dân cư, sơn văn, thủy văn, kinh tế – xã hội phục vụ công tác thành lập bản đồ thành phố Hà Nội |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2022/10/10-btnmt.pdf |url-status=bot: unknown |archive-url=https://web.archive.org/web/20260630082812/https://datafiles.chinhphu.vn/cpp/files/vbpq/2022/10/10-btnmt.pdf |archive-date=2026-06-30 |access-date=2026-06-30 |website=Cổng Thông tin điện tử Chính phủ }}</ref><ref>{{Chú thích web |last= |date= |title=Thông báo số 27/TB-UBBC ngày 26 tháng 2 năm 2026 của Ủy ban bầu cử xã Phú Nghĩa về Chương trình tổ chức hội nghị tiếp xúc cử tri để vận động bầu cử của người ứng cử đại biểu Hội đồng nhân dân xã Phú Nghĩa nhiệm kỳ 2026 – 2031 |url=https://phunghia.hanoi.gov.vn/thong-bao/thong-bao-chuong-trinh-to-chuc-hoi-nghi-tiep-xuc-cu-tri-de-van-dong-bau-cu-cua-nguoi-ung-cu-dai-bieu-hoi-dong-nhan-dan-xa-phu-nghia-nhiem-ky-2026-2031-2713260226151832482.htm?gidzl=jTIrBBW-Ac-nox4giYKYRBdAkYQiTo1df9ZiTAfnTZEZcBvqgNicCAkMjIIdUoirf9Qv8cKxswfolJykRG |url-status=dead |archive-url=https://web.archive.org/web/20260805201510/https://phunghia.hanoi.gov.vn/thong-bao/thong-bao-chuong-trinh-to-chuc-hoi-nghi-tiep-xuc-cu-tri-de-van-dong-bau-cu-cua-nguoi-ung-cu-dai-bieu-hoi-dong-nhan-dan-xa-phu-nghia-nhiem-ky-2026-2031-2713260226151832482.htm?gidzl=jTIrBBW-Ac-nox4giYKYRBdAkYQiTo1df9ZiTAfnTZEZcBvqgNicCAkMjIIdUoirf9Qv8cKxswfolJykRG |archive-date=2026-08-05 |access-date=2026-08-05 |website=Trang Thông tin điện tử xã Phú Nghĩa – thành phố Hà Nội}}</ref>
+Ngày 6 tháng 7 năm 2025, đổi tên 4 thôn: Đông Cựu, Yên Kiện thuộc xã Đông Phương Yên (cũ), Đông Cựu và Yên Kiện thuộc xã Đồng Sơn (cũ) lần lượt thành 4 thôn: Đông Cựu Làng, Yên Kiện Làng, Đông Cựu Đồi và Yên Kiện Đồi.<ref>1. Thôn Yên Kiện, thôn Đông Cựu thuộc xã Đông Phương Yên (cũ) đổi tên thành thôn Yên Kiện Làng và thôn Đông Cựu Làng thuộc xã Phú Nghĩa (mới); 2. Thôn Yên Kiện, thôn Đông Cựu thuộc xã Đông Sơn (cũ) đổi tên thành thôn Yên Kiện Đồi và thôn Đông Cựu Đồi thuộc xã Phú Nghĩa (mới).</ref><ref>{{Chú thích web |last=Xã Phú Nghĩa – thành phố Hà Nội |date=2025-07-02 |title=Phương án đổi tên các thôn trùng tên tại xã Phú Nghĩa, thành phố Hà Nội |url=https://web.facebook.com/story.php?story_fbid=122096919932934288&id=61578028641582&rdid=I55Wl40UHlC3shzs# |url-status=dead |archive-url=https://web.archive.org/web/20260805201510/https://web.facebook.com/story.php?story_fbid=122096919932934288&id=61578028641582&rdid=I55Wl40UHlC3shzs# |archive-date=2026-08-05 |access-date=2026-08-05}}</ref><ref>{{Chú thích web |last=Áng Nguyệt |date=2025-07-06 |title=Hội đồng nhân dân xã Phú Nghĩa khóa XX tổ chức kỳ họp thứ hai: Quyết nghị nhiều nội dung quan trọng, định hướng phát triển trong giai đoạn mới |url=https://thanhuyhanoi.vn/tin-tuc/chinh-tri/hdnd-xa-phu-nghia-khoa-xx-to-chuc-ky-hop-thu-hai-quyet-nghi-nhieu-noi-dung-quan-trong-dinh-huong-phat-trien-trong-giai-doan-moi-50029383.html |url-status=dead |archive-url=https://web.archive.org/web/20260805201510/https://thanhuyhanoi.vn/tin-tuc/chinh-tri/hdnd-xa-phu-nghia-khoa-xx-to-chuc-ky-hop-thu-hai-quyet-nghi-nhieu-noi-dung-quan-trong-dinh-huong-phat-trien-trong-giai-doan-moi-50029383.html |archive-date=2026-08-05 |access-date=2026-08-05 |website=Trang Thông tin điện tử Đảng bộ thành phố Hà Nội}}</ref>
+
+Ngày 25 tháng 6 năm 2026, thành lập 10 thôn mới: Phú Khê, Phương Hài, Đông Yên, Yên Trường 1, Chi Nê, Thanh Bình, Kim Trung, Lương Sơn, Đông Sơn và Thanh Sơn.<ref>1. Thôn Phú Khê: Sáp nhập toàn bộ diện tích tự nhiên và dân số thôn Khê Than, thôn Quan Châm, thôn Phú Hữu 1 và thôn Phú Hữu 2; 2. Thôn Phương Hài: Sáp nhập toàn bộ diện tích tự nhiên và dân số thôn Đồi 1 với thôn Đồi 3; 3. Thôn Đông Yên: Sáp nhập toàn bộ diện tích tự nhiên và dân số thôn Đông Cựu Làng với thôn Yên Kiện Làng; 4. Thôn Yên Trường 1: Sáp nhập toàn bộ diện tích tự nhiên và dân số thôn Yên Trường 1 với thôn Tân Yên; 5. Thôn Chi Nê: Sáp nhập toàn bộ diện tích tự nhiên và dân số thôn Chi Nê với thôn Tinh My; 6. Thôn Thanh Bình: Sáp nhập toàn bộ diện tích tự nhiên và dân số thôn Thanh Nê với thôn Tiến Phối và thôn Đồi Chè; 7. Thôn Kim Trung: Sáp nhập toàn bộ diện tích tự nhiên và dân số thôn Trung Hoàng với thôn Kim Nê; 8. Thôn Lương Sơn: Sáp nhập toàn bộ diện tích tự nhiên và dân số thôn Lương Sơn với An Sơn và Quyết Thượng; 9. Thôn Đông Sơn: Sáp nhập toàn bộ diện tích tự nhiên và dân số thôn Đông Cựu Đồi với thôn Yên Kiện Đồi; 10. Thôn Thanh Sơn: Sáp nhập toàn bộ diện tích tự nhiên và dân số thôn Thanh Trì với thôn Phố Gốt và thôn Xóm Đông; 11. Thôn Đồng Trữ: Giữ nguyên; 12. Thôn Nghĩa Hảo: Giữ nguyên; 13. Thôn Phú Vinh: Giữ nguyên; 14. Thôn Đồi 2: Giữ nguyên; 15. Thôn Lũng Vị: Giữ nguyên; 16. Thôn Nhật Tiến: Giữ nguyên; 17. Thôn Yên Trường 2: Giữ nguyên; 18. Thôn Phù Yên: Giữ nguyên; 19. Thôn Trung Cao 1: Giữ nguyên; 20. Thôn Trung Cao 2: Giữ nguyên; 21. Thôn Quyết Hạ: Giữ nguyên.</ref><ref name=":02">{{Chú thích web |last= |date= |title=Thông báo số 969/TB-UBND ngày 10 tháng 6 năm 2026 của Ủy ban nhân dân xã Phú Nghĩa về việc niêm yết công khai dự thảo Phương án sắp xếp thôn, Danh sách cử tri đại diện hộ phục vụ công tác lấy ý kiến nhân dân về việc sắp xếp thôn trên địa bàn xã Phú Nghĩa |url=https://sqhx-hanoi.mediacdn.vn/91579363132710912/2026/6/13/thong-bao-v-1781356689453696441959.pdf |url-status=dead |archive-url=https://web.archive.org/web/20260805201510/https://sqhx-hanoi.mediacdn.vn/91579363132710912/2026/6/13/thong-bao-v-1781356689453696441959.pdf |archive-date=2026-08-05 |access-date=2026-08-05 |website=Trang Thông tin điện tử xã Phú Nghĩa – thành phố Hà Nội}}</ref><ref name=":0">{{Chú thích web |title=Nghị quyết số 13/NQ-HĐND ngày 25 tháng 6 năm 2026 của Hội đồng nhân dân xã Phú Nghĩa về việc sắp xếp thôn trên địa bàn xã Phú Nghĩa |url=https://web.facebook.com/story.php?story_fbid=122175174008934288&id=61578028641582&rdid=UCprMkSfIjjPwvws# |url-status=dead |archive-url=https://web.archive.org/web/20260805201510/https://web.facebook.com/story.php?story_fbid=122175174008934288&id=61578028641582&rdid=UCprMkSfIjjPwvws# |archive-date=2026-08-05 |access-date=2026-08-05 |website=Xã Phú Nghĩa – thành phố Hà Nội}}</ref>
+
+== Hành chính==
+Xã Phú Nghĩa được chia thành 21 thôn: Chi Nê, Đông Sơn, Đông Yên, Đồi 2, Đồng Trữ, Kim Trung, Lũng Vị, Lương Sơn, Nghĩa Hảo, Nhật Tiến, Phú Khê, Phú Vinh, Phù Yên, Phương Hài, Quyết Hạ, Thanh Bình, Thanh Sơn, Trung Cao 1, 2, Yên Trường 1 và 2.<ref name=":02" /><ref name=":0" />
+{| class="wikitable sortable" align="center" width="100%" cellspacing="6" cellpadding="0" style="background: #f9f9f9; border: 1px #aaa solid; margin-top: 16px"
+! colspan="4" style="background: #E6E6FA; font-size: 95%;" |Danh sách các thôn thuộc xã Phú Nghĩa<ref name=":02" /><ref name=":0" />
+|-
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Chi Nê
+|1.046
+|-
+| align="left" |Đông Sơn
+|556
+|-
+| align="left" |Đông Yên
+|874
+|-
+| align="left" |Đồi 2
+|574
+|-
+| align="left" |Đồng Trữ
+|675
+|-
+| align="left" |Kim Trung
+|905
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Lũng Vị
+|480
+|-
+| align="left" |Lương Sơn
+|784
+|-
+| align="left" |Nghĩa Hảo
+|568
+|-
+| align="left" |Nhật Tiến
+|505
+|-
+| align="left" |Phú Khê
+|927
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Phú Vinh
+|862
+|-
+| align="left" |Phù Yên
+|925
+|-
+| align="left" |Phương Hài
+|725
+|-
+| align="left" |Quyết Hạ
+|502
+|-
+| align="left" |Thanh Bình
+|829
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Thanh Sơn
+|592
+|-
+| align="left" |Trung Cao 1
+|879
+|-
+| align="left" |Trung Cao 2
+|537
+|-
+| align="left" |Yên Trường 1
+|950
+|-
+| align="left" |Yên Trường 2
+|501
+|}
+|}
+
+== Chú thích ==
+{{tham khảo| 30em}}
+
+== Tham khảo==
+
+{{sơ khai Hà Nội}}
+{{Đơn vị hành chính thuộc thành phố Hà Nội}}

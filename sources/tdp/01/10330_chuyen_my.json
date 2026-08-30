@@ -1,0 +1,104 @@
+{
+  "ward_code": "10330",
+  "ward_name": "Chuyên Mỹ",
+  "province_code": "01",
+  "resolution": "",
+  "arrangement": "2026_07",
+  "effective_date": "2026-07-01",
+  "verified": "unverified",
+  "extraction": {
+    "source": "vi.wikipedia.org",
+    "title": "(cache)",
+    "mode": "table"
+  },
+  "sources": [
+    {
+      "key": "wiki-10330-1",
+      "title": "Ngày làm việc thứ hai Hội đồng nhân dân xã Chuyên Mỹ khóa XXIII, nhiệm kỳ 2026 – 2031",
+      "url": "https://chuyenmy.hanoi.gov.vn/tin-tuc-su-kien/ngay-lam-viec-thu-hai-hdnd-xa-chuyen-my-khoa-xxiii-nhiem-ky-2026-2031-2701260629084404759.htm",
+      "date": "2026-06-29",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-10330-2",
+      "title": "Uỷ ban Bầu cử xã Chuyên Mỹ công bố danh sách chính thức người ứng cử Đại biểu Hội đồng nhân dân xã Chuyên Mỹ, nhiệm kỳ 2026 – 2031",
+      "url": "https://chuyenmy.hanoi.gov.vn/tin-tuc-su-kien/uy-ban-bau-cu-xa-chuyen-my-cong-bo-danh-sach-chinh-thuc-nguoi-ung-cu-dai-bieu-hdnd-xa-chuyen-my-nhiem-ky-2026-2031-2701260227151805247.htm",
+      "date": "2026-02-27",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-10330-3",
+      "title": "Hội đồng nhân dân xã Chuyên Mỹ khoá XXII, nhiệm kỳ 2021 – 2026 tổ chức kỳ họp thứ hai (Kỳ họp chuyên đề)",
+      "url": "https://chuyenmy.hanoi.gov.vn/tin-tuc-su-kien/hdnd-xa-chuyen-my-khoa-xxii-nhiem-ky-2021-2026-to-chuc-ky-hop-thu-hai-ky-hop-chuyen-de-270125090815385335.htm",
+      "date": "2025-09-08",
+      "type": "wikipedia-ref"
+    }
+  ],
+  "note": "Trích tự động từ Wikipedia tiếng Việt (mode=table). Cần đối chiếu nghị quyết HĐND phường/xã.",
+  "tdp": [
+    {
+      "name": "Bài Lễ",
+      "type": "thôn"
+    },
+    {
+      "name": "Bối Khê",
+      "type": "thôn"
+    },
+    {
+      "name": "Châu Can",
+      "type": "thôn"
+    },
+    {
+      "name": "Chuôn Thượng",
+      "type": "thôn"
+    },
+    {
+      "name": "Cổ Châu",
+      "type": "thôn"
+    },
+    {
+      "name": "Cựu",
+      "type": "thôn"
+    },
+    {
+      "name": "Đại Nghiệp",
+      "type": "thôn"
+    },
+    {
+      "name": "Đồng Phố",
+      "type": "thôn"
+    },
+    {
+      "name": "Đồng Vinh",
+      "type": "thôn"
+    },
+    {
+      "name": "Nghĩa Lập",
+      "type": "thôn"
+    },
+    {
+      "name": "Ngọ",
+      "type": "thôn"
+    },
+    {
+      "name": "Phú Yên",
+      "type": "thôn"
+    },
+    {
+      "name": "Tân Dân",
+      "type": "thôn"
+    },
+    {
+      "name": "Thủy Phú",
+      "type": "thôn"
+    },
+    {
+      "name": "Thượng Yên",
+      "type": "thôn"
+    },
+    {
+      "name": "Vân Từ",
+      "type": "thôn"
+    }
+  ]
+}

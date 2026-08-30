@@ -1,0 +1,71 @@
+{{Thông tin đơn vị hành chính Việt Nam|phường
+|tên=Việt Trì
+|hình=Bvdk.jpg
+|ghi chú hình=Bệnh viện Đa khoa tỉnh Phú Thọ
+|vĩ độ=21.31677061831741
+|kinh độ=105.39064850003896
+|diện tích=25,83 km²
+|dân số=73.006 người
+|thời điểm dân số=2025
+| mật độ dân số = {{formatnum:{{#expr:floor({{formatnum:73.006| R}}/{{formatnum:25,83| R}})}} }} người/km²
+|dân tộc=[[Người Việt|Kinh]]
+|vùng=[[Đông Bắc Bộ]]
+|tỉnh=[[Phú Thọ]]
+|thành lập=16/6/2025
+|trụ sở UBND=
+|mã hành chính=
+|mã bưu chính=
+}}
+{{other|Việt Trì (định hướng)}}
+'''Việt Trì''' là [[Phường (Việt Nam)|phường]] trung tâm hành chính của tỉnh [[Phú Thọ]], [[Việt Nam]].
+
+== Địa lý ==
+Phường Việt Trì có vị trí địa lý:
+
+* Phía Bắc giáp xã [[Sông Lô (xã)|Sông Lô]] và xã [[Sơn Đông (xã)|Sơn Đông]] với ranh giới tự nhiên là [[sông Lô]].
+* Phía Nam giáp thành phố [[Hà Nội]].
+* Phía Đông phường [[Thanh Miếu]].
+* Phía Tây giáp phường [[Nông Trang]] và xã [[Bản Nguyên]].
+Nơi đây được gắn chặt với thời đại sơ khai của đất nước khi Vua Hùng dạy dân cấy lúa.
+
+[[Quốc lộ 32|Quốc lộ 2]] chạy qua địa bàn phường với [[chiều dài]] khoảng 3km, nối liền với Việt Trì với các phường lân cận.
+
+== Hành chính ==
+Phường Việt Trì được chia thành 29 tổ dân phố: Bảo Đà, Dữu Lâu, Gia Cẩm, Hàm Nghi, Hoà Phong, Hồng Hải, Hùng Quốc Vương, Hương Trầm, Kim Quất Hạ, Lăng Cẩm, Lê Quý Đôn, Minh Bột, Minh Nông, Minh Tân, Ngoại Lâu Thượng, Nguyễn Thái Học, Nội Lâu Thượng, Phan Chu Trinh, Quang Trung, Quất Thượng, Quế Trạo, Tân Dân, Tân Đức, Tân Phú, Tân Thuận, Tân Tiến, Thanh Xuân, Trần Phú và Trưng Vương.
+
+== Lịch sử ==
+Địa phận phường Việt Trì trước kia thuộc thành phố [[Việt Trì (thành phố)|Việt Trì]], tỉnh [[Phú Thọ]].
+
+Một phần địa bàn phường (tức khu vực xã Tân Đức cũ) trước đó thuộc huyện [[Ba Vì (huyện)|Ba Vì]], tỉnh [[Hà Tây (tỉnh)|Hà Tây]] cũ (từ [[tháng 12]] năm [[1978]] đến [[tháng 8]] năm [[1991]] thuộc thủ đô [[Hà Nội]]).
+
+Ngày [[1 tháng 7]] năm [[2008]], Quốc hội ban hành Nghị quyết số 14/2008/QH12. Theo đó, xã Tân Đức được sáp nhập vào thành phố Việt Trì. Tân Đức là xã duy nhất của tỉnh Hà Tây sáp nhập vào tỉnh Phú Thọ trước khi cả tỉnh Hà Tây được sáp nhập vào thủ đô Hà Nội.
+
+Ngày [[19 tháng 1]] năm [[2009]], Chính phủ ban hành Nghị định số 05/NĐ-CP, xác định địa giới hành chính xã Tân Đức thuộc thành phố Việt Trì. Xã Tân Đức có 454,08ha diện tích tự nhiên và dân số là 2.721 người.
+
+Ngày [[5 tháng 5]] năm [[2010]], Chính phủ ban hành Nghị quyết số 21/NQ-CP, thành lập phường Minh Nông trên cơ sở toàn bộ diện tích và dân số của xã Minh Nông.
+
+Sau khi thành lập, phường Minh Nông có 589,22ha diện tích tự nhiên và dân số là 8.531 người.
+
+Đến năm [[2018]]:
+
+* Phường Minh Nông có diện tích 5,85 km², dân số là 8.976 người và mật độ dân số đạt 1.534 người/km².
+* Xã Tân Đức có diện tích 4,68 km², dân số là 2.633 người và mật độ dân số đạt 135 người/km².
+
+Ngày [[17 tháng 12]] năm [[2019]], [[Ủy ban Thường vụ Quốc hội]] ban hành Nghị quyết 828/NQ-UBTVQH14 về việc sắp xếp các đơn vị hành chính cấp xã thuộc tỉnh Phú Thọ (Nghị quyết có hiệu lực từ ngày [[1 tháng 1]] năm [[2020]]). Theo đó, sáp nhập toàn bộ diện tích và dân số của xã Tân Đức vào phường Minh Nông.
+
+Ngày [[16 tháng 6]] năm [[2025]]:
+
+* [[Quốc hội Việt Nam|Quốc hội]] ban hành Nghị quyết số 203/2025/QH15 về việc sửa đổi, bổ sung một số điều của Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam (nghị quyết có hiệu lực từ ngày [[16 tháng 6]] năm [[2025]]).<ref>{{Chú thích web |last=xaydungchinhsach.chinhphu.vn |date=2025-06-28 |title=NGHỊ QUYẾT 203/2025/QH15 SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA HIẾN PHÁP NƯỚC CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM |url=https://xaydungchinhsach.chinhphu.vn/nghi-quyet-203-2025-qh15-sua-doi-bo-sung-mot-so-dieu-cua-hien-phap-nuoc-cong-hoa-xa-hoi-chu-nghia-viet-nam-119250616181735552.htm |url-status=live |archive-url=https://web.archive.org/web/20260715200606/https://xaydungchinhsach.chinhphu.vn/nghi-quyet-203-2025-qh15-sua-doi-bo-sung-mot-so-dieu-cua-hien-phap-nuoc-cong-hoa-xa-hoi-chu-nghia-viet-nam-119250616181735552.htm |archive-date=2026-07-15 |access-date=2026-07-15 |website=Báo Điện tử Chính phủ |language=vi }}</ref> Theo đó, kết thúc hoạt động của đơn vị hành chính cấp huyện trong cả nước từ ngày 1 tháng 7 năm 2025.
+
+* Ủy ban Thường vụ Quốc hội ban hành Nghị quyết số 1676/NQ-UBTVQH15 về việc sắp xếp các đơn vị hành chính cấp xã của tỉnh Phú Thọ năm 2025 (nghị quyết có hiệu lực từ ngày [[16 tháng 6]] năm [[2025]]).<ref>{{Chú thích web |last=xaydungchinhsach.chinhphu.vn |date=2025-06-20 |title=Nghị quyết số 1676/NQ-UBTVQH15 sắp xếp các ĐVHC cấp xã của tỉnh Phú Thọ năm 2025 |url=https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-1676-nq-ubtvqh15-sap-xep-cac-dvhc-cap-xa-cua-tinh-phu-tho-nam-2025-119250616204317326.htm |access-date=2025-09-07 |website=xaydungchinhsach.chinhphu.vn |language=vi}}</ref> Theo đó, sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của các phường Tân Dân, Gia Cẩm, Minh Nông, Dữu Lâu và xã Trưng Vương (thành phố [[Việt Trì (thành phố)|Việt Trì]]) thành phường mới có tên gọi là '''phường Việt Trì'''.
+Sau khi thực hiện sắp xếp, phường Việt Trì được chia thành 44 khu: 1, 2, 3, 4 (phường Dữu Lâu cũ), 1, 3, 4, 6, 7, 8, 9, 10, 12 (xã Trưng Vương cũ), Bảo Đà, Châu Phong (phường Dữu Lâu cũ), Châu Phong (phường Gia Cẩm cũ), Dữu Lâu, Đoàn Kết, Hà Liễu, Hàm Nghi, Hòa Phong (phường Gia Cẩm cũ), Hòa Phong (phường Minh Nông cũ), Hồng Hải, Hùng Quốc Vương, Hùng Vương, Hương Trầm, Lăng Cẩm, Lê Quý Đôn, Minh Bột, Minh Tân, Nguyễn Thái Học, Phan Chu Trinh, Quang Trung, Quế Trạo, Tân An, Tân Phú, Tân Thành, Tân Thịnh, Tân Tiến, Tân Việt, Tân Xuân, Thanh Xuân, Thành Công, Thông Đậu.<ref>{{Chú thích web |last=Hội đồng nhân dân tỉnh Phú Thọ khóa XVIII, Kỳ họp thứ tám |date=2019-07-19 |title=Nghị quyết số 2/2019/NQ-HDND về việc Thông quan Đề án sắp xếp, sáp nhập khu dân cư trên địa bàn tỉnh Phú Thọ |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2019/08/02hdndpt.signed.pdf |url-status=live |archive-url=https://web.archive.org/web/20260418090807/https://datafiles.chinhphu.vn/cpp/files/vbpq/2019/08/02hdndpt.signed.pdf |archive-date=2026-04-18 |access-date=2026-04-18 |website=Cổng Thông tin điện tử Chính phủ}}</ref><ref>{{Chú thích web |last=Hội đồng nhân dân tỉnh Phú Thọ khóa XVIII, Kỳ họp thứ chín |date=2019-12-14 |title=Nghị quyết số 20/2019/NQ-HĐND về việc Sắp xếp, sáp nhập và đổi tên khu dân cư trên địa bàn tỉnh Phú Thọ |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2020/02/20pt.signed.pdf |url-status=live |archive-url=https://web.archive.org/web/20260418090807/https://datafiles.chinhphu.vn/cpp/files/vbpq/2020/02/20pt.signed.pdf |archive-date=2026-04-18 |access-date=2026-04-18 |website=Cổng Thông tin điện tử Chính phủ}}</ref><ref>{{Chú thích web |last=Ngọc Hà – Đặng Dũng |date=2026-03-05 |title=Các đơn vị bầu cử tổ chức hội nghị tiếp xúc cử tri thực hiện quyền vận động bầu cử |url=https://viettri.phutho.gov.vn/tin-tuc/bau-cu-dai-bieu-quoc-hoi-khoa-xvi-va-dai-bieu-hdnd-cac-cap-nhiem-ky-20262031/cac-don-vi-bau-cu-to-chuc-hoi-nghi-tiep-xuc-cu-tri-thuc-hien-quyen-van-dong-bau-cu-10213-112.html |url-status=live |archive-url=https://web.archive.org/web/20260418090807/https://viettri.phutho.gov.vn/tin-tuc/bau-cu-dai-bieu-quoc-hoi-khoa-xvi-va-dai-bieu-hdnd-cac-cap-nhiem-ky-20262031/cac-don-vi-bau-cu-to-chuc-hoi-nghi-tiep-xuc-cu-tri-thuc-hien-quyen-van-dong-bau-cu-10213-112.html |archive-date=2026-04-18 |access-date=2026-04-18 |website=Trang Thông tin điện tử phường Việt Trì - tỉnh Phú Thọ}}</ref><ref>{{Chú thích web |last=Ngọc Hà – Đặng Dũng |date=2026-03-15 |title=Các đồng chí lãnh đạo phường dự kiểm tra và bỏ phiếu tại các điểm bầu cử |url=https://viettri.phutho.gov.vn/tin-tuc/bau-cu-dai-bieu-quoc-hoi-khoa-xvi-va-dai-bieu-hdnd-cac-cap-nhiem-ky-20262031/cac-dong-chi-lanh-dao-phuong-du-kiem-tra-va-bo-phieu-tai-cac-diem-bau-cu-10240-112.html |url-status=live |archive-url=https://web.archive.org/web/20260418090807/https://viettri.phutho.gov.vn/tin-tuc/bau-cu-dai-bieu-quoc-hoi-khoa-xvi-va-dai-bieu-hdnd-cac-cap-nhiem-ky-20262031/cac-dong-chi-lanh-dao-phuong-du-kiem-tra-va-bo-phieu-tai-cac-diem-bau-cu-10240-112.html |archive-date=2026-04-18 |access-date=2026-04-18 |website=Trang Thông tin điện tử phường Việt Trì - tỉnh Phú Thọ}}</ref><ref>{{Chú thích web |last=Chi nhánh Trung tâm Phát triển Quỹ đất khu vực Việt Trì - Trung tâm Phát triển Quỹ đất tỉnh Phú Thọ |date=2026-03-31 |title=Thông báo số 46/TB-PTQĐVT về việc niêm yết công khai Dự kiến Phương án bồi thường, hỗ trợ và tái định cư dự án: Khu đô thị mới Tây Nam, thành phố Việt Trì (giai đoạn 1 - Đợt 53) |url=https://viettri.phutho.gov.vn/UserFiles0/files/Data/Van%20ban%20dieu%20hanh%20thanh%20pho/NAM%202026/THANG%204/Th%C3%B4ng%20b%C3%A1o%20ni%C3%AAm%20y%E1%BA%BFt%20d%E1%BB%B1%20ki%E1%BA%BFn%20PA%20b%E1%BB%93i%20th%C6%B0%E1%BB%9Dng%2C%20Danh%20s%C3%A1ch%20t%E1%BB%95ng%20h%E1%BB%A3p%20d%E1%BB%B1%20ki%E1%BA%BFn%20PA%20b%E1%BB%93i%20th%C6%B0%E1%BB%9Dng%20v%C3%A0%20t%C3%A1i%20%C4%91%E1%BB%8Bnh%20c%C6%B0%20K%C4%90T%20m%E1%BB%9Bi%20T%C3%A2y%20Nam_0001.pdf |url-status=live |archive-url=https://web.archive.org/web/20260418090807/https://viettri.phutho.gov.vn/UserFiles0/files/Data/Van%20ban%20dieu%20hanh%20thanh%20pho/NAM%202026/THANG%204/Th%C3%B4ng%20b%C3%A1o%20ni%C3%AAm%20y%E1%BA%BFt%20d%E1%BB%B1%20ki%E1%BA%BFn%20PA%20b%E1%BB%93i%20th%C6%B0%E1%BB%9Dng%2C%20Danh%20s%C3%A1ch%20t%E1%BB%95ng%20h%E1%BB%A3p%20d%E1%BB%B1%20ki%E1%BA%BFn%20PA%20b%E1%BB%93i%20th%C6%B0%E1%BB%9Dng%20v%C3%A0%20t%C3%A1i%20%C4%91%E1%BB%8Bnh%20c%C6%B0%20K%C4%90T%20m%E1%BB%9Bi%20T%C3%A2y%20Nam_0001.pdf |archive-date=2026-04-18 |access-date=2026-04-18 |website=Trang Thông tin điện tử phường Việt Trì - tỉnh Phú Thọ}}</ref>
+
+==Danh nhân==
+* [[Lương Cường]]
+
+== Chú thích ==
+{{reflist}}
+
+== Tham khảo ==
+{{sơ khai Phú Thọ}}
+{{Đơn vị hành chính thuộc tỉnh Phú Thọ}}

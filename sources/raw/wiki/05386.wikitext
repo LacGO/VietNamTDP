@@ -1,0 +1,59 @@
+{{Thông tin đơn vị hành chính Việt Nam | xã
+| tên = Yên Trị
+| hình = 
+| ghi chú hình = 
+| vĩ độ = 20.35938951748957
+| kinh độ = 105.66461276135601
+| diện tích = 81,97 km²<ref name=MS/>
+| dân số = 27.005 người<ref name=MS/>
+| thời điểm dân số = 2025
+| mật độ dân số = {{formatnum:{{#expr:floor({{formatnum:27.005| R}}/{{formatnum:81,97| R}})}} }} người/km²
+| vùng = [[Đông Bắc Bộ]]
+| tỉnh = [[Phú Thọ]]
+| thành lập =16 tháng 6 năm 2025<ref>Nghị quyết số 1676/NQ-UBTVQH15</ref> 
+| trụ sở UBND =Xóm Á Đồng 
+| mã hành chính = 05386
+| mã bưu chính =36716 
+|web={{url|https://yentri.phutho.gov.vn/}}}}
+{{other|Yên Trị (định hướng)}}
+'''Yên Trị''' là một [[Xã (Việt Nam)|xã]] ở phía Đông Nam thuộc tỉnh [[Phú Thọ]], [[Việt Nam]].
+
+== Địa lý ==
+Xã Yên Trị nằm ở điểm cực nam của tỉnh [[Phú Thọ]], có vị trí địa lý<ref>{{Chú thích web |title=Đơn vị hành chính Việt Nam |url=https://sapnhap.bando.com.vn/ |access-date=2026-05-03 |website=sapnhap.bando.com.vn}}</ref>:
+
+*Phía bắc giáp xã [[Lạc Lương]] và xã [[An Bình, Phú Thọ|An Bình]].
+*Phía tây giáp xã [[Yên Thủy (huyện)|Yên Thủy]] và giáp xã [[Cúc Phương]], tỉnh [[Ninh Bình]].
+*Phía đông giáp xã [[Phú Sơn]], tỉnh [[Ninh Bình]].
+*Phía nam giáp xã [[Nho Quan (xã)|Nho Quan]], tỉnh [[Ninh Bình]].
+Xã Yên Trị có diện tích 81,97&nbsp;km², dân số năm 2025 là 27.005 người, mật độ dân số đạt 329 người/km².<ref>{{Chú thích web |title=Xã Yên Trị, Tỉnh Phú Thọ mới sáp nhập 2026 |url=https://tinhthanhvn.com/province/phu-tho/xa-yen-tri |access-date=2026-05-03 |website=Tỉnh Thành Việt Nam |language=vi}}</ref>
+
+Yên Trị là một xã vùng thấp, là xã thuộc [[Vườn quốc gia Cúc Phương]], vườn quốc gia đầu tiên ở [[Việt Nam]].
+
+Trước năm 2025, Yên Trị cùng với Ngọc Lương là hai xã đồng bằng nhất của huyện Yên Thủy và cũng là xã có mức độ phát triển kinh tế- xã hội đồng đều nhất của Yên Thủy. Danh lam thắng cảnh, di tích lịch sử: Chùa Hang, Đình Thượng, Đình Phù Vệ, Đình Trung, Đình Liêu, Hồ Bai Cái, Hồ Tân Thành.{{fact|date=7-2014}}
+
+== Hành chính ==
+Xã Yên Trị được chia thành 21 xóm: Hữu Lợi, Liên Hợp, Yên Thái, Phủ Vệ, Đoàn Kết, Đồng Tiến, Tân Minh, Tân Thịnh, Á Đồng, Lòng, Quang Minh, Hổ Long, Ngọc Lương, Đại Đồng, Nghìa, Phố Dương, Thung, Yên Thời, Rộc, Thanh Bình, Bờ Sông.<ref name=":1">{{Chú thích web |last=Bộ Dân tộc và Tôn giáo |date=2026-01-29 |title=Danh sách Thôn vùng đồng bào dân tộc thiểu số và miền núi, thôn đặc biệt khó khăn giai đoạn 2026 - 2030 trên địa bàn tỉnh Phú Thọ |url=http://files.ubdt.gov.vn/files/ecm/source_files/2026/02/05/11252411_4.%20Ph%C3%BA%20Th%E1%BB%8D%201%20(th%C3%B4n).signed_26-02-05.pdf |url-status=live |archive-url=https://web.archive.org/web/20260417090807/http://files.ubdt.gov.vn/files/ecm/source_files/2026/02/05/11252411_4.%20Ph%C3%BA%20Th%E1%BB%8D%201%20(th%C3%B4n).signed_26-02-05.pdf |archive-date=2026-04-17 |access-date=2026-04-17 |website=Cổng Thông tin điện tử Bộ Dân tộc và Tôn giáo}}</ref><ref>{{Chú thích web |last=Ủy ban bầu cử xã Yên Trị |date=2026-02-23 |title=Nghị quyết số 2/NQ-UBBC về việc công bố danh sách những người ứng cử đại biểu Hội đồng nhân dân xã Yên Trị, khóa XXI, nhiệm kỳ 2026 - 2031 theo từng đơn vị bầu cử |url=https://drive.google.com/file/d/1SzG3-UeWj5445JrOO8ecnWQ2GTq6Yb4G/view |url-status=live |archive-url=https://web.archive.org/web/20260427090807/https://drive.google.com/file/d/1SzG3-UeWj5445JrOO8ecnWQ2GTq6Yb4G/view |archive-date=2026-04-27 |access-date=2026-04-27 |website=Trang Thông tin điện tử xã Yên Trị - tỉnh Phú Thọ}}</ref>
+
+== Lịch sử ==
+Trước kia, Yên Trị là một xã thuộc huyện [[Yên Thủy (huyện)|Yên Thủy]], tỉnh [[Hòa Bình (tỉnh)|Hòa Bình]] cũ.
+
+Ngày [[9 tháng 4|9]] [[9 tháng 4|tháng 4]] năm [[1946]], xã Đoàn Kết được thành lập trên cơ sở hợp nhất các xã Phù Vệ, Yên Thái, Thắc La.
+
+Ngày [[12 tháng 6]] năm [[2025]], [[Quốc hội Việt Nam|Quốc hội]] ban hành Nghị quyết số 202/2025/QH15 về việc sắp xếp đơn vị hành chính cấp tỉnh (nghị quyết có hiệu lực từ ngày [[12 tháng 6]] năm [[2025]]).<ref>{{Chú thích web |last=xaydungchinhsach.chinhphu.vn|date=2025-07-16|title=TOÀN VĂN: Nghị quyết số 202/2025/QH15 về sắp xếp đơn vị hành chính cấp tỉnh|url=https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-202-2025-qh15-ve-sap-xep-don-vi-hanh-chinh-cap-tinh-119250612174148722.htm|url-status=live|archive-url=http://web.archive.org/web/20260705025431/https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-202-2025-qh15-ve-sap-xep-don-vi-hanh-chinh-cap-tinh-119250612174148722.htm|archive-date=2026-07-05|access-date=2026-07-25|website=Báo Điện tử Chính phủ|language=vi}}</ref> Theo đó, sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của tỉnh [[Vĩnh Phúc (tỉnh)|Vĩnh Phúc]], tỉnh [[Hòa Bình (tỉnh)|Hòa Bình]] và tỉnh [[Phú Thọ]] thành tỉnh mới có tên gọi là tỉnh '''Phú Thọ'''.
+
+Ngày [[16 tháng 6]] năm [[2025]]:
+
+* Quốc hội ban hành Nghị quyết số 203/2025/QH15 về việc sửa đổi, bổ sung một số điều của Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam (nghị quyết có hiệu lực từ ngày [[16 tháng 6]] năm [[2025]]).<ref>{{Chú thích web |last=xaydungchinhsach.chinhphu.vn|date=2025-06-28|title=NGHỊ QUYẾT 203/2025/QH15 SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA HIẾN PHÁP NƯỚC CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM|url=https://xaydungchinhsach.chinhphu.vn/nghi-quyet-203-2025-qh15-sua-doi-bo-sung-mot-so-dieu-cua-hien-phap-nuoc-cong-hoa-xa-hoi-chu-nghia-viet-nam-119250616181735552.htm|url-status=live|archive-url=http://web.archive.org/web/20260715200606/https://xaydungchinhsach.chinhphu.vn/nghi-quyet-203-2025-qh15-sua-doi-bo-sung-mot-so-dieu-cua-hien-phap-nuoc-cong-hoa-xa-hoi-chu-nghia-viet-nam-119250616181735552.htm|archive-date=2026-07-15|access-date=2026-07-15|website=Báo Điện tử Chính phủ|language=vi}}</ref> Theo đó, kết thúc hoạt động của đơn vị hành chính cấp huyện trong cả nước từ ngày 1 tháng 7 năm 2025.
+
+* [[Ủy ban Thường vụ Quốc hội]] ban hành Nghị quyết số 1676/NQ-UBTVQH15 về việc sắp xếp đơn vị hành chính cấp xã của tỉnh [[Phú Thọ]] năm 2025 (nghị quyết có hiệu lực từ ngày [[16 tháng 6]] năm [[2025]]).<ref>{{Chú thích web |last=xaydungchinhsach.chinhphu.vn |date=2025-06-20 |title=Nghị quyết số 1676/NQ-UBTVQH15 sắp xếp các ĐVHC cấp xã của tỉnh Phú Thọ năm 2025 |url=https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-1676-nq-ubtvqh15-sap-xep-cac-dvhc-cap-xa-cua-tinh-phu-tho-nam-2025-119250616204317326.htm |url-status=live |archive-url=http://web.archive.org/web/20260725082021/https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-1676-nq-ubtvqh15-sap-xep-cac-dvhc-cap-xa-cua-tinh-phu-tho-nam-2025-119250616204317326.htm |archive-date=2026-07-25 |access-date=2026-07-25 |website=Báo Điện tử Chính phủ |language=vi}}</ref> Theo đó, sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của các xã Đoàn Kết, Hữu Lợi, Ngọc Lương và Yên Trị (huyện [[Yên Thủy (huyện)|Yên Thủy]]) thành xã mới có tên gọi là '''xã Yên Trị'''.<!-- 
+Xã Đoàn Kết được thành lập ngày 09/04/1946 dưới sự hợp nhất từ các xã Phù Vệ, Yên Thái, Thắc La.
+
+ -->
+
+==Chú thích==
+{{tham khảo}}
+
+==Tham khảo==
+
+{{sơ khai Phú Thọ}}
+{{Đơn vị hành chính thuộc tỉnh Phú Thọ}}

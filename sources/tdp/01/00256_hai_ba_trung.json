@@ -1,0 +1,140 @@
+{
+  "ward_code": "00256",
+  "ward_name": "Hai Bà Trưng",
+  "province_code": "01",
+  "resolution": "",
+  "arrangement": "2026_07",
+  "effective_date": "2026-07-01",
+  "verified": "unverified",
+  "extraction": {
+    "source": "vi.wikipedia.org",
+    "title": "(cache)",
+    "mode": "table"
+  },
+  "sources": [
+    {
+      "key": "wiki-00256-1",
+      "title": "Nghị quyết số 22/NQ-HĐND ngày 29 tháng 6 năm 2026 của Hội đồng nhân dân phường Hai Bà Trưng về việc sắp xếp tổ dân phố trên địa bàn phường Hai Bà Trưng",
+      "url": "https://sqhx-hanoi.mediacdn.vn/91579363132710912/2026/7/8/nq-sap-xep-to-dan-pho-17835077422221027546505.pdf",
+      "date": "",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-00256-2",
+      "title": "Thông báo về việc lấy phiếu ý kiến Nhân dân và niêm yết công khai dự thảo Đề án sắp xếp tổ dân phố trên địa bàn phường Hai Bà Trưng",
+      "url": "https://haibatrung.hanoi.gov.vn/trang-chu/thong-bao-ve-viec-lay-phieu-y-kien-nhan-dan-va-niem-yet-cong-khai-du-thao-de-an-sap-xep-to-dan-pho-tren-dia-ban-phuong-hai-ba-trung-2814260618101253163.htm?gidzl=J5Qd9y_ZVWD8IQCXnVf-3KXEeo7JhdqDK4ppBzpu9rjGIwbzr_eX30TB_ts7_IeE04_q8ZQrXEmLok9w0G",
+      "date": "2026-06-18",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-00256-3",
+      "title": "Quyết định số 220/QĐ-UBND ngày 21 tháng 7 năm 2025 của Ủy ban nhân dân phường Hai Bà Trưng về việc đổi tên các tổ dân phố trên địa bàn phường Hai Bà Trưng Sau sắp xếp đơn vị hành chính năm 2025",
+      "url": "https://haibatrung.hanoi.gov.vn/trang-chu/phuong-hai-ba-trung-sap-xep-va-doi-ten-to-dan-pho-tren-dia-ban-phuong-sau-sap-xep-don-vi-hanh-chinh-nam-2025-2814250726101938723.htm?gidzl=oNT_VkqI0HxDQ7juvmi14CrlUdZnNmCGrMqgTlu9MKRLQd0azGjV4O9g9YIb35GJXMujUpOIL4jHw1C570",
+      "date": "2026-08-20",
+      "type": "wikipedia-ref"
+    }
+  ],
+  "note": "Trích tự động từ Wikipedia tiếng Việt (mode=table). Cần đối chiếu nghị quyết HĐND phường/xã.",
+  "tdp": [
+    {
+      "name": "Bạch Đằng 1",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Bạch Đằng 2",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Bạch Đằng 3",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Đồng Nhân 1",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Đồng Nhân 2",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Đồng Nhân 3",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Đồng Nhân 4",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Đồng Nhân 5",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Đồng Nhân 6",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Lê Đại Hành 1",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Lê Đại Hành 2",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Lê Đại Hành 3",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Lê Đại Hành 4",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Nguyễn Du 1",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Nguyễn Du 2",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Nguyễn Du 3",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Nguyễn Du 4",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Phạm Đình Hổ 1",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Phạm Đình Hổ 2",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Phạm Đình Hổ 3",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Phạm Đình Hổ 4",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Phố Huế 1",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Phố Huế 2",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Phố Huế 3",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Phố Huế 4",
+      "type": "tổ dân phố"
+    }
+  ]
+}

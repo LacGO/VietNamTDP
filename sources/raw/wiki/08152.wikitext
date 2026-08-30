@@ -1,0 +1,77 @@
+{{Thông tin đơn vị hành chính Việt Nam|Xã
+| tên = Thanh Ba
+| hình = 
+| ghi chú hình = 
+| vĩ độ = 21.499049544114307
+| kinh độ = 105.14235775916127
+| diện tích = 38,60 km²<ref name=MS/>
+| dân số = 30.014 người<ref name=MS/>
+| thời điểm dân số = 2025
+| mật độ dân số = {{formatnum:{{#expr:floor({{formatnum:30.014| R}}/{{formatnum:38,60| R}})}} }} người/km²
+| vùng = [[Đông Bắc Bộ]]
+| tỉnh = [[Phú Thọ]]
+| thành lập = 
+*1995<ref>82/1995/CP</ref>: Thành lập thị trấn Thanh Ba
+*16 tháng 6 năm 2025<ref>Nghị quyết số 1676/NQ-UBTVQH15</ref>: Thành lập xã Thanh Ba
+| trụ sở UBND =54 đường Hàn Thuyên 
+| mã hành chính = 08152<ref>{{Chú thích web |url=https://danhmuchanhchinh.gso.gov.vn/ |title=Tổng cục Thống kê |access-date=2022-04-10 |archive-date=2021-01-10 |archive-url=https://web.archive.org/web/20210110034519/https://www.gso.gov.vn/phuong-phap-thong-ke/danh-muc/don-vi-hanh-chinh/ |url-status=dead }}</ref>
+| mã bưu chính =35706 
+|web={{url|thanhba.phutho.gov.vn}}
+|loại đô thị=|năm công nhận=}}
+{{other|Thanh Ba (định hướng)}}
+'''Thanh Ba''' là một [[Xã (Việt Nam)|xã]] thuộc [[Tỉnh (Việt Nam)|tỉnh]] [[Phú Thọ]], [[Việt Nam]].
+
+==Địa lý==
+Xã Thanh Ba nằm ở phía bắc tỉnh [[Phú Thọ]], có vị trí địa lý<ref>{{Chú thích web |title=Đơn vị hành chính Việt Nam |url=https://sapnhap.bando.com.vn/ |access-date=2026-06-30 |website=sapnhap.bando.com.vn}}</ref>:
+*Phía đông giáp xã [[Quảng Yên, Phú Thọ|Quảng Yên]].
+*Phía tây giáp xã [[Yên Kỳ]] và [[Vĩnh Chân]].
+*Phía nam giáp xã [[Hoàng Cương (xã)|Hoàng Cương]].
+*Phía bắc giáp xã [[Chân Mộng]].
+
+Xã có diện tích 38,60&nbsp;km², dân số năm 2025 là 30.014 người, mật độ dân số đạt 778 người/km².<ref>{{Chú thích web |title=Xã Thanh Ba, Tỉnh Phú Thọ mới sáp nhập 2026 |url=https://tinhthanhvn.com/province/phu-tho/xa-thanh-ba |access-date=2026-06-30 |website=Tỉnh Thành Việt Nam |language=vi}}</ref>
+
+==Hành chính==
+Xã Thanh Ba được chia thành 49 khu: 1 Đồng Xuân, 2 Đồng Xuân, 3 Đồng Xuân, 4 Đồng Xuân, 5 Đồng Xuân, 6 Đồng Xuân, 7 Đồng Xuân, 8 Đồng Xuân, 1 Hanh Cù, 2 Hanh Cù, 3 Hanh Cù, 4 Hanh Cù, 5 Hanh Cù, 6 Hanh Cù, 7 Hanh Cù, 8 Hanh Cù, 9 Hanh Cù, 10 Hanh Cù, 11 Hanh Cù, 12 Hanh Cù, 13 Hanh Cù, 14 Hanh Cù, 15 Hanh Cù, 16 Hanh Cù, 17 Hanh Cù, 18 Hanh Cù, 19 Hanh Cù, 20 Hanh Cù, 21 Hanh Cù, 22 Hanh Cù, 23 Hanh Cù, 24 Hanh Cù, 25 Hanh Cù, 26 Hanh Cù, 2 Thị trấn Thanh Ba, 3 Thị trấn Thanh Ba, 4 Thị trấn Thanh Ba, 5 Thị trấn Thanh Ba, 6 Thị trấn Thanh Ba, 8 Thị trấn Thanh Ba, 9 Thị trấn Thanh Ba, 10 Thị trấn Thanh Ba, 11 Thị trấn Thanh Ba, 12 Thị trấn Thanh Ba, 1 Vân Lĩnh, 2 Vân Lĩnh, 3 Vân Lĩnh, 4 Vân Lĩnh, 5 Vân Lĩnh.<ref name=":1">{{Chú thích web |last=Bộ Dân tộc và Tôn giáo |date=2026-01-29 |title=Danh sách Thôn vùng đồng bào dân tộc thiểu số và miền núi, thôn đặc biệt khó khăn giai đoạn 2026 - 2030 trên địa bàn tỉnh Phú Thọ |url=http://files.ubdt.gov.vn/files/ecm/source_files/2026/02/05/11252411_4.%20Ph%C3%BA%20Th%E1%BB%8D%201%20(th%C3%B4n).signed_26-02-05.pdf |url-status=live |archive-url=https://web.archive.org/web/20260417090807/http://files.ubdt.gov.vn/files/ecm/source_files/2026/02/05/11252411_4.%20Ph%C3%BA%20Th%E1%BB%8D%201%20(th%C3%B4n).signed_26-02-05.pdf |archive-date=2026-04-17 |access-date=2026-04-17 |website=Cổng Thông tin điện tử Bộ Dân tộc và Tôn giáo}}</ref><ref name=":0">{{Chú thích web |last=Thanh Ba Văn Minh - tỉnh Phú Thọ |date=2026-02-25 |title=Danh sách chính thức những người ứng cử đại biểu Hội đồng nhân dân xã Thanh Ba khóa II, nhiệm kỳ 2026 - 2031 |url=https://web.facebook.com/story.php?story_fbid=1658967465425250&id=100039360374514&rdid=vfQj2EaYXmuXrxpE# |url-status=live |archive-url=https://web.archive.org/web/20260424090807/https://web.facebook.com/story.php?story_fbid=1658967465425250&id=100039360374514&rdid=vfQj2EaYXmuXrxpE# |archive-date=2026-04-24 |access-date=2026-04-24}}</ref>
+
+==Lịch sử==
+Trước kia, địa bàn xã Thanh Ba ngày nay là địa bàn của thị trấn Thanh Ba và các xã Đồng Xuân, Hanh Cù, Vân Lĩnh.
+
+Ngày [[23 tháng 11]] năm [[1995]], thị trấn Thanh Ba được thành lập trên cơ sở 367 ha diện tích tự nhiên của xã Đào Giã, 47,3 ha diện tích tự nhiên của xã Đồng Xuân, 192 ha diện tích tự nhiên của xã Ninh Dân. Đồng thời, phần còn lại của xã Đào Giã được sáp nhập vào các xã Đông Lĩnh, Đồng Xuân, Ninh Dân và Thái Ninh.
+
+Sau khi thành lập, thị trấn có 433,5 ha diện tích tự nhiên và 7.477 người.
+
+Đến năm [[2018]]:
+
+* Xã Hanh Cù có diện tích 4,67&nbsp;km², dân số là 2.329 người, mật độ dân số đạt 499 người/km².
+* Xã Yển Khê có diện tích 7,18&nbsp;km², dân số là 4.953 người, mật độ dân số đạt 690 người/km².
+* Xã Thanh Vân có diện tích 5,84&nbsp;km², dân số là 2.935 người, mật độ dân số đạt 503 người/km².
+
+Ngày [[17 tháng 12]] năm [[2019]], [[Ủy ban Thường vụ Quốc hội]] ban hành Nghị quyết 828/NQ-UBTVQH14 về việc sắp xếp các đơn vị hành chính cấp xã thuộc tỉnh Phú Thọ (nghị quyết có hiệu lực từ ngày [[1 tháng 1]] năm [[2020]]).<ref>{{Chú thích web |last=Cổng Thông tin điện tử Chính phủ |first= |title=Nghị quyết số 828/NQ-UBTVQH14 của ỦY BAN THƯỜNG VỤ QUỐC HỘI: Về việc sắp xếp các đơn vị hành chính cấp xã thuộc tỉnh Phú Thọ |url=http://vanban.chinhphu.vn/default.aspx?pageid=27160&docid=198693 |access-date=2026-06-30 |website=vanban.chinhphu.vn |language=vi}}</ref> Theo đó, sáp nhập toàn bộ diện tích và dân số của hai xã Yển Khê và Thanh Vân vào xã Hanh Cù.
+
+Ngày [[16 tháng 6]] năm [[2025]]:
+
+* [[Quốc hội Việt Nam|Quốc hội]] ban hành Nghị quyết số 203/2025/QH15 về việc sửa đổi, bổ sung một số điều của Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam (nghị quyết có hiệu lực từ ngày [[16 tháng 6]] năm [[2025]]).<ref>{{Chú thích web|last=xaydungchinhsach.chinhphu.vn|date=2025-06-28|title=NGHỊ QUYẾT 203/2025/QH15 SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA HIẾN PHÁP NƯỚC CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM|url=https://xaydungchinhsach.chinhphu.vn/nghi-quyet-203-2025-qh15-sua-doi-bo-sung-mot-so-dieu-cua-hien-phap-nuoc-cong-hoa-xa-hoi-chu-nghia-viet-nam-119250616181735552.htm|url-status=live|archive-url=https://web.archive.org/web/20260715200606/https://xaydungchinhsach.chinhphu.vn/nghi-quyet-203-2025-qh15-sua-doi-bo-sung-mot-so-dieu-cua-hien-phap-nuoc-cong-hoa-xa-hoi-chu-nghia-viet-nam-119250616181735552.htm|archive-date=2026-07-15|access-date=2026-07-15|website=Báo Điện tử Chính phủ|language=vi}}</ref> Theo đó, kết thúc hoạt động của đơn vị hành chính cấp huyện trong cả nước từ ngày 1 tháng 7 năm 2025.
+
+* Ủy ban Thường vụ Quốc hội ban hành Nghị quyết số 1676/NQ-UBTVQH15 về việc sắp xếp đơn vị hành chính cấp xã của tỉnh [[Phú Thọ]] năm 2025 (nghị quyết có hiệu lực từ ngày [[16 tháng 6]] năm [[2025]]).<ref>{{Chú thích web|last=xaydungchinhsach.chinhphu.vn|date=2025-06-20|title=Nghị quyết số 1676/NQ-UBTVQH15 sắp xếp các ĐVHC cấp xã của tỉnh Phú Thọ năm 2025|url=https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-1676-nq-ubtvqh15-sap-xep-cac-dvhc-cap-xa-cua-tinh-phu-tho-nam-2025-119250616204317326.htm|url-status=live|archive-url=https://web.archive.org/web/20260725082021/https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-1676-nq-ubtvqh15-sap-xep-cac-dvhc-cap-xa-cua-tinh-phu-tho-nam-2025-119250616204317326.htm|archive-date=2026-07-25|access-date=2025-09-07|website=Báo Điện tử Chính phủ|language=vi}}</ref> Theo đó, sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của thị trấn Thanh Ba và các xã Đồng Xuân, Hanh Cù, Vân Lĩnh thành xã mới có tên gọi là '''xã Thanh Ba'''.
+
+Sau khi thực hiện sắp xếp, xã Thanh Ba được chia thành 49 khu: 1 Đồng Xuân, 2 Đồng Xuân, 3 Đồng Xuân, 4 Đồng Xuân, 5 Đồng Xuân, 6 Đồng Xuân, 7 Đồng Xuân, 8 Đồng Xuân, 1 Hanh Cù, 2 Hanh Cù, 3 Hanh Cù, 4 Hanh Cù, 5 Hanh Cù, 6 Hanh Cù, 7 Hanh Cù, 8 Hanh Cù, 9 Hanh Cù, 10 Hanh Cù, 11 Hanh Cù, 12 Hanh Cù, 13 Hanh Cù, 14 Hanh Cù, 15 Hanh Cù, 16 Hanh Cù, 17 Hanh Cù, 18 Hanh Cù, 19 Hanh Cù, 20 Hanh Cù, 21 Hanh Cù, 22 Hanh Cù, 23 Hanh Cù, 24 Hanh Cù, 25 Hanh Cù, 26 Hanh Cù, 2 Thị trấn Thanh Ba, 3 Thị trấn Thanh Ba, 4 Thị trấn Thanh Ba, 5 Thị trấn Thanh Ba, 6 Thị trấn Thanh Ba, 8 Thị trấn Thanh Ba, 9 Thị trấn Thanh Ba, 10 Thị trấn Thanh Ba, 11 Thị trấn Thanh Ba, 12 Thị trấn Thanh Ba, 1 Vân Lĩnh, 2 Vân Lĩnh, 3 Vân Lĩnh, 4 Vân Lĩnh, 5 Vân Lĩnh.<ref name=":1" /><ref name=":0" />
+
+Ngày [[24 tháng 12]] năm [[2025]], Ủy ban Thường vụ Quốc hội ban hành Nghị quyết số 111/2025/UBTVQH15 về phân loại đô thị (nghị quyết có hiệu lực từ ngày [[1 tháng 1]] năm [[2026]]).<ref>{{Chú thích web |last=xaydungchinhsach.chinhphu.vn |date=2026-01-21 |title=Nghị quyết số 111/2025/UBTVQH15 về phân loại đô thị |url=https://xaydungchinhsach.chinhphu.vn/nghi-quyet-so-111-2025-ubtvqh15-ve-phan-loai-do-thi-119260101170432239.htm |access-date=2026-07-23 |website=xaydungchinhsach.chinhphu.vn |language=vi}}</ref> Theo đó, đô thị loại IV, loại V, thị xã và thị trấn trước khi sắp xếp chưa được công nhận loại đô thị được xác định là đô thị loại III. Một phần xã Thanh Ba được xác định là đô thị loại III (từ đô thị loại V của thị trấn Thanh Ba cũ).
+
+<!-- 
+==Lịch sử==
+Địa bàn xã Hanh Cù hiện nay trước đây vốn là ba xã: Hanh Cù, Yển Khê, Thanh Vân.
+
+Trước khi sáp nhập, xã Hanh Cù có diện tích 4,67&nbsp;km², dân số là 2.329 người, mật độ dân số đạt 499 người/km². Xã Yển Khê có diện tích 7,18&nbsp;km², dân số là 4.953 người, mật độ dân số đạt 690 người/km². Xã Thanh Vân có diện tích 5,84&nbsp;km², dân số là 2.935 người, mật độ dân số đạt 503 người/km².
+
+Ngày [[17 tháng 12]] năm [[2019]], Ủy ban Thường vụ Quốc hội ban hành Nghị quyết 828/NQ-UBTVQH14 về việc sắp xếp các đơn vị hành chính cấp xã thuộc tỉnh Phú Thọ (nghị quyết có hiệu lực từ ngày [[1 tháng 1]] năm [[2020]]).<ref name=NQ828>{{Chú thích web|url=https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Nghi-quyet-828-NQ-UBTVQH14-2019-sap-xep-don-vi-hanh-chinh-cap-xa-thuoc-tinh-Phu-Tho-432098.aspx|tựa đề=Nghị quyết số 828/NQ-UBTVQH14 năm 2019 về việc sắp xếp các đơn vị hành chính cấp xã thuộc tỉnh Phú Thọ|tác giả=|họ=|tên=|ngày=|website=|url lưu trữ=|ngày lưu trữ=|ngày truy cập=}}</ref> Theo đó, sáp nhập toàn bộ diện tích và dân số của hai xã Yển Khê và Thanh Vân vào xã Hanh Cù. 
+-->
+==Danh nhân==
+* '''[[Nguyễn Đức Chung]]''' (sinh năm 1967) là một cựu Thiếu tướng [[Công an nhân dân Việt Nam]], [[Anh hùng Lực lượng vũ trang nhân dân]] và là [[Chính khách|chính trị gia]] người Việt Nam.
+
+==Chú thích==
+{{tham khảo|30em}}
+
+==Tham khảo==
+{{sơ khai Phú Thọ}}
+{{Đơn vị hành chính thuộc tỉnh Phú Thọ}}

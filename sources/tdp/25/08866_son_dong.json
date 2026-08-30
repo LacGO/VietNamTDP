@@ -1,0 +1,208 @@
+{
+  "ward_code": "08866",
+  "ward_name": "Sơn Đông",
+  "province_code": "25",
+  "resolution": "",
+  "arrangement": "truoc_2026_07",
+  "effective_date": "",
+  "verified": "unverified",
+  "extraction": {
+    "source": "vi.wikipedia.org",
+    "title": "Sơn Đông (xã)",
+    "mode": "narrative"
+  },
+  "sources": [
+    {
+      "key": "wiki-08866-1",
+      "title": "Tiểu sử tóm tắt của người ứng cử đại biểu Hội đồng nhân dân xã Sơn Đông nhiệm kỳ 2026 – 2031",
+      "url": "https://sondong.phutho.gov.vn/tieu-su-tom-tat-cua-nguoi-ung-cu-dai-bieu-hdnd-xa-son-dong-nhiem-ky-2026-2031/",
+      "date": "2026-03-15",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-08866-2",
+      "title": "TOÀN VĂN: Nghị quyết số 202/2025/QH15 về sắp xếp đơn vị hành chính cấp tỉnh",
+      "url": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-202-2025-qh15-ve-sap-xep-don-vi-hanh-chinh-cap-tinh-119250612174148722.htm",
+      "date": "2025-07-16",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-08866-3",
+      "title": "NGHỊ QUYẾT 203/2025/QH15 SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA HIẾN PHÁP NƯỚC CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM",
+      "url": "https://xaydungchinhsach.chinhphu.vn/nghi-quyet-203-2025-qh15-sua-doi-bo-sung-mot-so-dieu-cua-hien-phap-nuoc-cong-hoa-xa-hoi-chu-nghia-viet-nam-119250616181735552.htm",
+      "date": "2025-06-28",
+      "type": "wikipedia-ref"
+    }
+  ],
+  "note": "Trích tự động từ Wikipedia tiếng Việt (mode=narrative). Cần đối chiếu nghị quyết HĐND phường/xã. ⚠️ Danh mục có thể là hiện trạng TRƯỚC sắp xếp thôn/TDP 01/7/2026 — Wikipedia chưa cập nhật nghị quyết mới.",
+  "tdp": [
+    {
+      "name": "Ái Quốc",
+      "type": "thôn"
+    },
+    {
+      "name": "Bắc Sơn",
+      "type": "thôn"
+    },
+    {
+      "name": "Bình Minh",
+      "type": "thôn"
+    },
+    {
+      "name": "Cây Gạo",
+      "type": "thôn"
+    },
+    {
+      "name": "Cây Xanh",
+      "type": "thôn"
+    },
+    {
+      "name": "Dùng",
+      "type": "thôn"
+    },
+    {
+      "name": "Đa Cai",
+      "type": "thôn"
+    },
+    {
+      "name": "Đạo Nội",
+      "type": "thôn"
+    },
+    {
+      "name": "Đẽn",
+      "type": "thôn"
+    },
+    {
+      "name": "Đòan Thành",
+      "type": "thôn"
+    },
+    {
+      "name": "Đông Mật",
+      "type": "thôn"
+    },
+    {
+      "name": "Đông Thịnh",
+      "type": "thôn"
+    },
+    {
+      "name": "Giang",
+      "type": "thôn"
+    },
+    {
+      "name": "Giạn",
+      "type": "thôn"
+    },
+    {
+      "name": "Hạnh Phúc",
+      "type": "thôn"
+    },
+    {
+      "name": "Hùng Sơn",
+      "type": "thôn"
+    },
+    {
+      "name": "Hương Ngãi",
+      "type": "thôn"
+    },
+    {
+      "name": "Kim Sơn",
+      "type": "thôn"
+    },
+    {
+      "name": "Kim Tiến",
+      "type": "thôn"
+    },
+    {
+      "name": "Lam Sơn",
+      "type": "thôn"
+    },
+    {
+      "name": "Lũng Hòa",
+      "type": "thôn"
+    },
+    {
+      "name": "Mới",
+      "type": "thôn"
+    },
+    {
+      "name": "Nam Hải",
+      "type": "thôn"
+    },
+    {
+      "name": "Ngọc Vị",
+      "type": "thôn"
+    },
+    {
+      "name": "Nông Xanh",
+      "type": "thôn"
+    },
+    {
+      "name": "Phan Dư",
+      "type": "thôn"
+    },
+    {
+      "name": "Phan Lãng",
+      "type": "thôn"
+    },
+    {
+      "name": "Phấn Kiến",
+      "type": "thôn"
+    },
+    {
+      "name": "Phú Hậu",
+      "type": "thôn"
+    },
+    {
+      "name": "Phú Hậu Thượng",
+      "type": "thôn"
+    },
+    {
+      "name": "Phú Hậu Trung",
+      "type": "thôn"
+    },
+    {
+      "name": "Quan Tử",
+      "type": "thôn"
+    },
+    {
+      "name": "Sơn Phục",
+      "type": "thôn"
+    },
+    {
+      "name": "Suối",
+      "type": "thôn"
+    },
+    {
+      "name": "Tân Tiến",
+      "type": "thôn"
+    },
+    {
+      "name": "Thái Sơn",
+      "type": "thôn"
+    },
+    {
+      "name": "Thành Công",
+      "type": "thôn"
+    },
+    {
+      "name": "Tổ Gà",
+      "type": "thôn"
+    },
+    {
+      "name": "Trung Kiên",
+      "type": "thôn"
+    },
+    {
+      "name": "Trung Thành",
+      "type": "thôn"
+    },
+    {
+      "name": "Vọng Sơn",
+      "type": "thôn"
+    },
+    {
+      "name": "Yên Bình",
+      "type": "thôn"
+    }
+  ]
+}

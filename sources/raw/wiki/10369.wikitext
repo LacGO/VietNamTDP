@@ -1,0 +1,825 @@
+{{Thông tin đơn vị hành chính Việt Nam|Xã|tên=Ứng Thiên|hình=Incense in Vietnam.jpg|ghi chú hình=Làng nghề làm hương Quảng Phú Cầu|diện tích=38,41 km²|dân số=53.962 người|thời điểm dân số=2025|mật độ dân số={{formatnum:{{#expr:floor({{formatnum:53.962| R}}/{{formatnum:38,41| R}})}} }} người/km²|vùng=[[Đồng bằng sông Hồng]]|thành phố=[[Hà Nội]]|thành lập=|trụ sở UBND=Thôn Trường Thịnh<ref>{{Chú thích web |url=https://storage-vnportal.vnpt.vn/gov-hni/6244/VanBan/2025/6/25/TB-729-2025.pdf |title=Thông báo số 729/TB-UBND ngày 25 tháng 6 năm 2025 của Ủy ban nhân dân thành phố Hà Nội về địa điểm trụ sở làm việc của 126 phường, xã sau sắp xếp thuộc phạm vi quản lý của thành phố Hà Nội|access-date=2026-06-15 |archive-date=2026-06-15 |archive-url=https://web.archive.org/web/20260615034519/https://storage-vnportal.vnpt.vn/gov-hni/6244/VanBan/2025/6/25/TB-729-2025.pdf |url-status=dead | website = Cổng Thông tin điện tử Ủy ban nhân dân thành phố Hà Nội}}</ref>|mã hành chính=10369<ref>{{Chú thích web |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/19ttg.signed.pdf |title=Quyết định số 19/2025/QĐ-TTg ngày 30 tháng 6 năm 2025 của Thủ tướng Chính phủ về việc Ban hành Bảng danh mục và mã số các đơn vị hành chính Việt Nam |access-date=2026-06-15 |archive-date=2026-06-15 |archive-url=https://web.archive.org/web/20260615034519/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/19ttg.signed.pdf |url-status=dead | website = Cổng Thông tin điện tử Chính phủ}}</ref>|dân tộc=|web={{url|ungthien.hanoi.gov.vn}}|bản đồ 1={{maplink|frame=yes|plain=yes|type=shape|frame-width=280|frame-align=center|stroke-width=3}}|vĩ độ=20.76639966843811|kinh độ=105.76606642696103|trụ sở Đảng ủy=Thôn Miêng Thượng}}{{about|phường thuộc thành phố Hà Nội, thành lập năm 2025|vị vua sử dụng niên hiệu Ứng Thiên|Lê Đại Hành}}'''Ứng Thiên''' là một [[Xã (Việt Nam)|xã]] thuộc thành phố [[Hà Nội]], [[Việt Nam]].
+
+== Địa lý ==
+Xã Ứng Thiên có vị trí địa lý:
+
+* Phía đông giáp xã [[Phượng Dực]]
+* Phía tây giáp xã [[Phúc Sơn]] với ranh giới tự nhiên là [[sông Đáy]]
+* Phía nam giáp xã [[Vân Đình]]
+* Phía bắc giáp xã [[Hòa Phú, Hà Nội|Hòa Phú]] (với ranh giới tự nhiên là [[sông Đáy]]) và xã [[Dân Hòa]].<ref>{{Chú thích web |last=Viện nghiên cứu Phát triển kinh tế – xã hội Hà Nội|date=2025-07-02|title=Xã Ứng Thiên: Những thông tin chi tiết sau sắp xếp|url=https://hanoionline.vn/xa-ung-thien-nhung-thong-tin-chi-tiet-sau-sap-xep-344031.htm|url-status=dead|archive-url=https://web.archive.org/web/20260711400809/https://hanoionline.vn/xa-ung-thien-nhung-thong-tin-chi-tiet-sau-sap-xep-344031.htm|archive-date=2026-07-11|access-date=2026-07-11|website=Cơ quan Báo và Phát thanh Truyền hình Hà Nội}}</ref><ref>{{Chú thích web |last=Cơ quan Báo và Phát thanh Truyền hình Hà Nội|date=2025-07-08|title=Xã Ứng Thiên: Tất cả thông tin chỉ dẫn bạn cần biết|url=https://hanoionline.vn/xa-ung-thien-tat-ca-thong-tin-chi-dan-ban-can-biet-345467.htm|url-status=dead|archive-url=https://web.archive.org/web/20260711401509/https://hanoionline.vn/xa-ung-thien-tat-ca-thong-tin-chi-dan-ban-can-biet-345467.htm|archive-date=2026-07-11|access-date=2026-07-11}}</ref>
+Xã Ứng Thiên có diện tích tự nhiên là 38,41&nbsp;km<sup>2</sup>, quy mô dân số năm 2025 là 53.962 người và mật độ dân số đạt 1.404 người/km<sup>2</sup>.<ref>{{Chú thích web |last=Mai Hữu|date=2026-04-05|title=Hà Nội: Chi tiết phương án tổng thể sắp xếp đơn vị hành chính cấp xã|url=https://hanoimoi.vn/ha-noi-chi-tiet-phuong-an-tong-the-sap-xep-don-vi-hanh-chinh-cap-xa-700278.html|url-status=dead|archive-url=https://web.archive.org/web/20260711401509/https://hanoimoi.vn/ha-noi-chi-tiet-phuong-an-tong-the-sap-xep-don-vi-hanh-chinh-cap-xa-700278.html|archive-date=2026-07-11|access-date=2026-07-11|website=Cơ quan Báo và Phát thanh, truyền hình Hà Nội}}</ref><ref>Công văn số 2896/BNV-CQĐP ngày 27 tháng 5 năm 2025 của Bộ Nội vụ về việc cung cấp thông tin danh mục dự kiến đơn vị hành chính cấp xã mới.</ref>
+
+Xã Ứng Thiên nằm ở phía nam Hà Nội, gối đầu vào nơi hợp lưu của 1 con sông Tích (đoạn kéo dài) và sông Hát thành sông Đáy. Xã có đường [[quốc lộ 21B]] chạy qua. Tên gọi Ứng Thiên là mượn từ tên Ứng Thiên phủ có từ thời Lý. Ngoài ra tên Ứng Thiên còn là tên 1 là tên 1 làng của xã Lam Điền, huyện Chương Mỹ cũ (nay làng ấy thuộc xã Quảng Bị).
+
+== Lịch sử ==
+
+=== Trước năm 1976 ===
+
+=== Giai đoạn 1976 – nay ===
+Sau ngày 2 tháng 7 năm 1976, 6 xã: Hoa Sơn, Liên Bạt, Quảng Phú Cầu, Trường Thịnh, Viên An và Viên Nội thuộc huyện [[Ứng Hòa (huyện)|Ứng Hòa]] của tỉnh [[Hà Sơn Bình]].
+
+Ngày 12 tháng 8 năm 1991, chia tỉnh [[Hà Sơn Bình]] thành 2 tỉnh, lấy tên là tỉnh [[Hòa Bình (tỉnh)|Hòa Bình]] và tỉnh [[Hà Tây (tỉnh)|Hà Tây]]. Khi đó, 6 xã: Hoa Sơn, Liên Bạt, Quảng Phú Cầu, Trường Thịnh, Viên An và Viên Nội thuộc huyện [[Ứng Hòa (huyện)|Ứng Hòa]] của tỉnh [[Hà Tây (tỉnh)|Hà Tây]].<ref>Nghị quyết ngày 12 tháng 8 năm 1991 của Quốc hội khóa VIII, Kỳ họp thứ 9 về việc điều chỉnh địa giới hành chính một số tỉnh, thành phố trực thuộc Trung ương.</ref>
+
+Ngày 29 tháng 5 năm 2008, hợp nhất tỉnh [[Hà Tây (tỉnh)|Hà Tây]] vào thành phố [[Hà Nội]]. Khi đó, 6 xã: Hoa Sơn, Liên Bạt, Quảng Phú Cầu, Trường Thịnh, Viên An và Viên Nội thuộc huyện [[Ứng Hòa (huyện)|Ứng Hòa]] của thành phố [[Hà Nội]].<ref>Nghị quyết số 15/2008/QH12 ngày 29 tháng 5 năm 2008 của Quốc hội khóa XII, Kỳ họp thứ 3 về việc điều chỉnh địa giới hành chính thành phố Hà Nội và một số tỉnh có liên quan.</ref>
+
+Ngày 14 tháng 11 năm 2024, thành lập xã Hoa Viên trên cơ sở nhập xã Viên Nội, xã Viên An và xã Hoa Sơn.<ref>{{Chú thích web |tiêu đề=Nghị quyết số 1286/NQ-UBTVQH15 ngày 14 tháng 11 năm 2024 của Ủy ban Thường vụ Quốc hội về việc sắp xếp đơn vị hành chính cấp xã của thành phố Hà Nội giai đoạn 2023 – 2025|url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/11/1286-qh.signed.pdf|url-status=dead|archive-url=https://web.archive.org/web/20260725401509/https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/11/1286-qh.signed.pdf|ngày lưu trữ=2026-07-25|ngày truy cập=2026-07-25|website=Cổng Thông tin điện tử Chính phủ}}</ref>
+
+Ngày 16 tháng 6 năm 2025:
+
+* Kết thúc hoạt động của đơn vị hành chính cấp huyện trong cả nước.<ref>{{Chú thích web |last=|date=|title=Nghị quyết số 203/2025/QH15 ngày 16 tháng 6 năm 2025 của Quốc hội khóa XV, Kỳ họp thứ 9 về việc sửa đổi, bổ sung một số điều của Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam|url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/nq-sua-doi-hien-phap.pdf|url-status=live|archive-url=https://web.archive.org/web/20260613090807/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/nq-sua-doi-hien-phap.pdf|archive-date=2026-06-13|access-date=2026-06-13|website=Cổng Thông tin điện tử Chính phủ}}</ref>
+* Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của các xã Hoa Viên, Liên Bạt, Quảng Phú Cầu và Trường Thịnh (huyện [[Ứng Hòa (huyện)|Ứng Hòa]]) thành xã mới có tên gọi là xã Ứng Thiên.<ref>{{Chú thích web |title=Nghị quyết số 1656/NQ-UBTVQH15 ngày 16 tháng 6 năm 2025 của Ủy ban Thường vụ Quốc hội về việc sắp xếp các đơn vị hành chính cấp xã của thành phố Hà Nội năm 2025|url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf|url-status=live|archive-url=https://web.archive.org/web/20260630400809/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf|archive-date=2026-06-30|access-date=2026-06-30|website=Cổng Thông tin điện tử Chính phủ}}</ref>
+* Sau khi sắp xếp, xã Ứng Thiên được chia thành 29 thôn.<ref>9 thôn: Miêng Hạ, Miêng Thượng, Trần Đăng (trước thuộc xã Hoa Sơn), Phù Yên, Viên Ngoại (trước thuộc xã Viên An), Giang, Thượng, Tiền và Trung (trước thuộc xã Viên Nội) của xã Hoa Viên cũ; 8 thôn: Bặt Chùa, Bặt Ngõ, Bặt Trung, Đình Tràng, Lương Xá, Lưu Khê, Vũ Ngoại và Vũ Nội của xã Liên Bạt cũ; 6 thôn: Cầu Bầu, Đạo Tú, Phú Lương Hạ, Phú Lương Thượng, Quảng Nguyên và Xà Cầu của xã Quảng Phú Cầu cũ; 6 thôn: Đống Vũ, Hoa Đường, Họa Đống, Thanh Sam, Trung Thịnh và Yên Trường của xã Trường Thịnh cũ.</ref><ref>{{Chú thích web |title=Thông tư số 10/2022/TT-BTNMT ngày 29 tháng 9 năm 2022 của Bộ Tài nguyên và Môi trường về việc Ban hành Danh mục địa danh dân cư, sơn văn, thủy văn, kinh tế – xã hội phục vụ công tác thành lập bản đồ thành phố Hà Nội|url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2022/10/10-btnmt.pdf|url-status=live|archive-url=https://web.archive.org/web/20260630400809/https://datafiles.chinhphu.vn/cpp/files/vbpq/2022/10/10-btnmt.pdf|archive-date=2026-06-30|access-date=2026-06-30|website=Cổng Thông tin điện tử Chính phủ}}</ref><ref>{{Chú thích web |last=Ủy ban bầu cử xã Ứng Thiên|date=2026-02-09|title=Danh sách chính thức những người ứng cử đại biểu Hội đồng nhân dân xã Ứng Thiên khóa II, nhiệm kỳ 2026 – 2031|url=https://sqhx-hanoi.mediacdn.vn/91579363132710912/2026/2/26/11-2-danh-sach-5-don-vi-17720712408871111101789.pdf|url-status=dead|archive-url=https://web.archive.org/web/20260801400809/https://sqhx-hanoi.mediacdn.vn/91579363132710912/2026/2/26/11-2-danh-sach-5-don-vi-17720712408871111101789.pdf|archive-date=2026-08-01|access-date=2026-08-01|website=Trang Thông tin điện tử xã Ứng Thiên – thành phố Hà Nội}}</ref>
+Ngày 25 tháng 6 năm 2026, thành lập 9 thôn mới: Trung Thượng, Viên Nội, Trường Thịnh, Thanh Hoa, Đống Thịnh, Liên Bạt, Song Vũ, Lương Đình và Phú Lương.<ref>1. Thôn Trung Thượng: Thành lập trên cơ sở sáp nhập toàn bộ thôn Thượng và thôn Trung; 2. Thôn Viên Nội: Thành lập trên cơ sở sáp nhập toàn bộ thôn Giang và thôn Tiền; 3. Thôn Trường Thịnh: Thành lập trên cơ sở sáp nhập toàn bộ thôn Trung Thịnh và thôn Yên Trường; 4. Thôn Thanh Hoa: Thành lập trên cơ sở sáp nhập toàn bộ thôn Hoa Đường và thôn Thanh Sam; 5. Thôn Đống Thịnh: Thành lập trên cơ sở sáp nhập toàn bộ thôn Đống Vũ và thôn Họa Đống; 6. Thôn Liên Bạt: Thành lập trên cơ sở sáp nhập toàn bộ thôn Bặt Ngõ, thôn Bặt Chùa và thôn Bặt Trung; 7. Thôn Song Vũ: Thành lập trên cơ sở sáp nhập toàn bộ thôn Vũ Ngoại vào thôn Vũ Nội; 8. Thôn Lương Đình: Thành lập trên cơ sở sáp nhập toàn bộ thôn Lương Xá và thôn Đình Tràng; 9. Thôn Phú Lương: Thành lập trên cơ sở sáp nhập toàn bộ thôn Phú Lương Thượng và thôn Phú Lương Hạ; 10. Thôn Quảng Nguyên: Giữ nguyên; 11. Thôn Lưu Khê: Giữ nguyên; 12. Thôn Đạo Tú: Giữ nguyên; 13. Thôn Cầu Bầu: Giữ nguyên; 14. Thôn Miêng Thượng: Giữ nguyên; 15. Thôn Miêng Hạ: Giữ nguyên; 16. Thôn Viên Ngoại: Giữ nguyên; 17. Thôn Phù Yên: Giữ nguyên; 18. Thôn Trần Đăng: Giữ nguyên; 19. Thôn Xà Cầu: Giữ nguyên.</ref><ref name=":02">{{Chú thích web |last=Ứng Thiên – thành phố Hà Nội|date=2026-05-30|title=Thông tin sắp xếp các thôn trên địa bàn xã đang lan truyền trong các hội nhóm facebook chưa phải là chính thức|url=https://web.facebook.com/photo/?fbid=1627047122763146&set=a.382667397201131|url-status=dead|archive-url=https://web.archive.org/web/20260801400809/https://web.facebook.com/photo/?fbid=1627047122763146&set=a.382667397201131|archive-date=2026-08-01|access-date=2026-08-01|website=}}</ref><ref name=":1">{{Chú thích web |last=|date=|title=Nghị quyết số 12/NQ-HĐND ngày 25 tháng 6 năm 2026 của Hội đồng nhân dân xã Ứng Thiên về việc sắp xếp thôn trên địa bàn xã Ứng Thiên|url=https://sqhx-hanoi.mediacdn.vn/91579363132710912/2026/6/26/document-3-1782473778120970168990.pdf|url-status=dead|archive-url=https://web.archive.org/web/20260801400809/https://sqhx-hanoi.mediacdn.vn/91579363132710912/2026/6/26/document-3-1782473778120970168990.pdf|archive-date=2026-08-01|access-date=2026-08-01|website=Trang Thông tin điện tử xã Ứng Thiên – thành phố Hà Nội}}</ref>
+
+== Hành chính ==
+Xã Ứng Thiên được chia thành 19 thôn: Cầu Bầu, Đạo Tú, Đống Thịnh, Liên Bạt, Lương Đình, Lưu Khê, Miêng Hạ, Miêng Thượng, Phú Lương, Phù Yên, Quảng Nguyên, Song Vũ, Thanh Hoa, Trần Đăng, Trung Thượng, Trường Thịnh, Viên Ngoại, Viên Nội và Xà Cầu.<ref name=":02" /><ref name=":1" />
+{| class="wikitable sortable" align="center" width="100%" cellspacing="6" cellpadding="0" style="background: #f9f9f9; border: 1px #aaa solid; margin-top: 16px"
+! colspan="4" style="background: #E6E6FA; font-size: 95%;" |Danh sách các thôn thuộc xã Ứng Thiên<ref name=":02" /><ref name=":1" />
+|-
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Cầu Bầu
+|562
+|-
+| align="left" |Đạo Tú
+|506
+|-
+| align="left" |Đống Thịnh
+|838
+|-
+| align="left" |Liên Bạt
+|811
+|-
+| align="left" |Lương Đình
+|520
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Lưu Khê
+|524
+|-
+| align="left" |Miêng Hạ
+|571
+|-
+| align="left" |Miêng Thượng
+|750
+|-
+| align="left" |Phú Lương
+|1.150
+|-
+| align="left" |Phù Yên
+|926
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Quảng Nguyên
+|994
+|-
+| align="left" |Song Vũ
+|676
+|-
+| align="left" |Thanh Hoa
+|686
+|-
+| align="left" |Trần Đăng
+|1.147
+|-
+| align="left" |Trung Thượng
+|831
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Trường Thịnh
+|802
+|-
+| align="left" |Viên Ngoại
+|1.214
+|-
+| align="left" |Viên Nội
+|722
+|-
+| align="left" |Xà Cầu
+|1.139
+|}
+|}
+Quá trình thành lập và thay đổi địa danh và địa giới của các thôn trên địa bàn xã Ứng Thiên:<ref name=":0">{{Chú thích sách |title=Ứng Hòa Dư địa chí |publisher=NXB Lao Động |year=2018}}</ref><ref>{{Chú thích sách |last=Dương Thị The |title=Tên Làng Xã Việt Nam Đầu Thế Kỷ XIX |publisher=NXB Khoa học Xã hội |year=1981}}</ref> 
+{| class="wikitable"
+|'''Stt'''
+|'''Tên thôn hiện nay (2025)'''
+| colspan="2" |'''Tên Nôm'''
+|'''Đơn vị hành chính cuối'''
+
+'''Tây Sơn –'''
+
+'''đầu Nguyễn (~1800-1810)'''
+|'''Đơn vị hành chính thời'''
+
+'''Thành Thái (1906)'''
+|'''Đơn vị hành chính sau giải phóng miền bắc đến khi 2 cấp (1956 – 2024)'''
+|'''Đơn vị hành chính từ 2 cấp đến nhập thôn (2024 – 2026)'''
+|-
+|1
+|Họa Đống
+
+(gò đẹp như tranh)
+| colspan="2" |Kẻ Lau/Kẻ San/ Họa Xáng
+
+(nằm trên đồi Lau)
+|Thôn Đống Lau,
+
+xã Bạch Sam,
+
+tổng Bạch Sam, huyện Sơn Minh, phủ Ứng Thiên, trấn Sơn Nam Thượng
+|Xã Họa Đống
+
+(đổi tên thời
+
+Đồng Khánh),
+
+tổng Bạch Sam, huyện Sơn Lãng, phủ Ứng Hòa,
+
+tỉnh Hà Đông (trước đó từ
+
+Minh Mạng đến Đồng Khánh là tỉnh Hà Nội)
+|Thôn Họa Đống, xã Hoa Lư
+
+(sau đổi thành xã
+
+Trường Thịnh), huyện Ứng Hòa, tỉnh Hà Tây
+
+(năm 2008 nhập Hà Tây vào thành phố Hà Nội)
+|Thôn Họa Đống, xã Ứng Thiên, thành phố Hà Nội
+|-
+|2
+|Đống Vũ
+
+(gò bị mưa
+
+trôi mất)
+| colspan="2" |Kẻ Lò
+
+(5 gò như
+
+lư/lò hương)
+|Thôn Đống Lô,
+
+xã Bạch Sam,
+
+tổng Bạch Sam, huyện Sơn Minh, phủ Ứng Thiên, trấn Sơn Nam Thượng
+|Xã Đống Vũ
+
+(đổi tên thời
+
+Đồng Khánh),
+
+tổng Bạch Sam, huyện Sơn Lãng, phủ Ứng Hòa,
+
+tỉnh Hà Đông
+|Thôn Đống Vũ,
+
+xã Hoa Lư
+
+(sau đổi thành xã
+
+Trường Thịnh), huyện Ứng Hòa, tỉnh Hà Tây
+|Thôn Đống Vũ,
+
+xã Ứng Thiên, thành phố Hà Nội
+|-
+|3
+|Yên Trường/
+
+Yên Tràng
+|Trại Bạc
+| rowspan="2" |Trường Trại
+|Thôn Trường An, xã Bạch Sam,
+
+tổng Bạch Sam, huyện Sơn Minh, phủ Ứng Thiên, trấn Sơn Nam Thượng
+|Xã Yên Trường,
+
+tổng Bạch Sam, huyện Sơn Lãng, phủ Ứng Hòa,
+
+tỉnh Hà Đông
+|Thôn Yên Trường,
+
+xã Hoa Lư
+
+(sau đổi thành xã
+
+Trường Thịnh), huyện Ứng Hòa, tỉnh Hà Tây
+|Thôn Yên Trường,
+
+xã Ứng Thiên, thành phố Hà Nội
+|-
+|4
+|Trung Thịnh
+
+(có 1 đoạn nhỏ vắt trước Hoa Đường là thị tứ Cầu Lão)
+|<nowiki>-</nowiki>
+|Thôn Trường An, xã Bạch Sam,
+
+tổng Bạch Sam, huyện Sơn Minh, phủ Ứng Thiên, trấn Sơn Nam Thượng
+|Xã Yên Trường (đổi tên thời
+
+Thành Thái),
+
+tổng Bạch Sam, huyện Sơn Lãng, phủ Ứng Hòa,
+
+tỉnh Hà Đông
+|Thôn Trung Thịnh, xã Hoa Lư
+
+(sau đổi thành xã
+
+Trường Thịnh), huyện Ứng Hòa, tỉnh Hà Tây
+|Thôn Trung Thịnh,
+
+xã Ứng Thiên, thành phố Hà Nội
+|-
+|5
+|Thanh Sam
+| colspan="2" |Kẻ Ngẩy/Kẻ Chẩy
+|Xã Hoa Sam,
+
+tổng Bạch Sam, huyện Sơn Minh, phủ Ứng Thiên, trấn Sơn Nam Thượng
+|Xã Thanh Sam (đổi thời Thiệu Trị), tổng Bạch Sam, huyện Sơn Lãng, phủ Ứng Hòa,
+
+tỉnh Hà Đông
+|Thôn Thanh Sam, xã Hoa Lư
+
+(sau đổi thành xã
+
+Trường Thịnh), huyện Ứng Hòa, tỉnh Hà Tây
+|Thôn Thanh Sam,
+
+xã Ứng Thiên, thành phố Hà Nội
+|-
+|6
+|Hoa Đường
+
+(ghép của tên xã Hoa Trường Thịnh 1948-1954 và tên làng Đường Bạt cổ)
+| colspan="2" |-
+|Xã Đường Bạt, tổng Xà Cầu, huyện Sơn Minh, phủ Ứng Thiên, trấn Sơn Nam Thượng
+|Xã Thiệu Bạt
+
+(đổi tên thời
+
+Thành Thái, đời Đồng Khánh gọi là Thường Bạt),
+
+tổng Xà Cầu, huyện Sơn Lãng, phủ Ứng Hòa,
+
+tỉnh Hà Đông
+|Thôn Hoa Đường (đổi tên trong kháng chiến chống Pháp),  xã Hoa Lư
+
+(sau đổi thành xã
+
+Trường Thịnh), huyện Ứng Hòa, tỉnh Hà Tây
+|Thôn Hoa Đường,
+
+xã Ứng Thiên, thành phố Hà Nội
+|-
+|7
+|Quảng Nguyên
+
+(có 1 đoạn nhỏ là thị tứ Quán Tròn)
+| colspan="2" |Kẻ Bưỡi/
+
+Bưỡi Lũng
+
+(tên Việt cổ, nghĩa là Bãi Ruộng)
+|Xã Bãi Ruộng, tổng Xà Cầu, huyện Sơn Minh, phủ Ứng Thiên, trấn Sơn Nam Thượng
+|Xã Quảng Nguyên
+
+(đổi tên thời
+
+Thành Thái),
+
+tổng Xà Cầu, huyện Sơn Lãng, phủ Ứng Hòa,
+
+tỉnh Hà Đông
+|Thôn Quảng Nguyên, xã
+
+Quảng Phú Cầu, huyện Ứng Hòa, tỉnh Hà Tây
+|Thôn
+
+Quảng Nguyên,
+
+xã Ứng Thiên, thành phố Hà Nội
+|-
+|8
+|Đạo Tú 
+| colspan="2" |Làng Táu
+|Chưa tồn tại
+
+độc lập
+|Xóm/thôn Đạo Tú, thuộc xã Quảng Nguyên (như trên)
+|Thôn Đạo Tú, xã
+
+Quảng Phú Cầu, huyện Ứng Hòa, tỉnh Hà Tây
+|Thôn Đạo Tú,
+
+xã Ứng Thiên, thành phố Hà Nội
+|-
+|9
+|Xà Cầu
+| colspan="2" |Xà Kiều Trại/
+
+Cầu Xã
+|Xã Xà Cầu,
+
+tổng Xà Cầu, huyện Sơn Minh, phủ Ứng Thiên, trấn Sơn Nam Thượng
+|Xã Xà Cầu,
+
+tổng Xà Cầu, huyện Sơn Lãng, phủ Ứng Hòa,
+
+tỉnh Hà Đông
+|Thôn Xà Cầu, xã
+
+Quảng Phú Cầu, huyện Ứng Hòa, tỉnh Hà Tây
+|Thôn Xà Cầu,
+
+xã Ứng Thiên, thành phố Hà Nội
+|-
+|10
+|Phú Lương Thượng
+| colspan="2" rowspan="2" |Nàng Xá
+| rowspan="2" |Thôn Xá
+
+xã Phú Lương, tổng Xà Cầu, huyện Sơn Minh, phủ Ứng Thiên, trấn Sơn Nam Thượng
+|Thôn Thượng
+
+xã Phú Lương, tổng Xà Cầu, huyện Sơn Lãng, phủ Ứng Hòa,
+
+tỉnh Hà Đông
+|Thôn Phú Lương Thượng, xã
+
+Quảng Phú Cầu, huyện Ứng Hòa, tỉnh Hà Tây
+|Thôn Phú Lương Thượng,
+
+xã Ứng Thiên, thành phố Hà Nội
+|-
+|11
+|Phú Lương Hạ
+|Thôn Hạ
+
+xã Phú Lương, tổng Xà Cầu, huyện Sơn Lãng, phủ Ứng Hòa,
+
+tỉnh Hà Đông
+|Thôn Phú Lương Hạ, xã Quảng Phú Cầu, huyện Ứng Hòa, tỉnh Hà Tây
+|Thôn Phú Lương Hạ, xã Ứng Thiên, thành phố Hà Nội
+|-
+|12
+|Cầu Bầu/ Phú Bầu
+| colspan="2" |Làng Bầu, làng Bỏi (hiện nay còn vết tích chùa làng gọi là chùa Bầu Bỏi)
+|Thôn Bảo (Bầu) và thôn Bối (Bỏi),
+
+xã Phú Lương, tổng Xà Cầu, huyện Sơn Minh, phủ Ứng Thiên, trấn Sơn Nam Thượng
+|Thôn Bảo và
+
+thôn Bối,
+
+xã Phú Lương, tổng Xà Cầu, huyện Sơn Lãng, phủ Ứng Hòa,
+
+tỉnh Hà Đông
+|Thôn Cầu Bầu, xã Quảng Phú Cầu, huyện Ứng Hòa, tỉnh Hà Tây
+|Thôn Cầu Bầu,
+
+xã Ứng Thiên, thành phố Hà Nội
+|-
+|13
+|Lưu Khê
+| colspan="2" |Kẻ Lẽo
+|Xã Lưu Khê,
+
+tổng Xà Cầu, huyện Sơn Minh, phủ Ứng Thiên, trấn Sơn Nam Thượng
+|Xã Lưu Khê,
+
+tổng Xà Cầu, huyện Sơn Lãng, phủ Ứng Hòa,
+
+tỉnh Hà Đông
+|Thôn Lưu Khê,
+
+xã Liên Bạt,
+
+huyện Ứng Hòa, tỉnh Hà Tây
+|Thôn Lưu Khê,
+
+xã Ứng Thiên, thành phố Hà Nội
+|-
+|14
+|Vũ Nội
+| colspan="2" |Bặt Rào
+|Thôn Vũ Nội,
+
+xã Liên Bạt, tổng Xà Cầu, huyện
+
+Sơn Minh, phủ Ứng Thiên, trấn Sơn Nam Thượng
+|Thôn Vũ Nội,
+
+xã Liên Bạt,
+
+tổng Xà Cầu, huyện Sơn Lãng, phủ Ứng Hòa,
+
+tỉnh Hà Đông
+|Thôn Vũ Nội,
+
+xã Liên Bạt,
+
+huyện Ứng Hòa, tỉnh Hà Tây
+|Thôn Vũ Nội,
+
+xã Ứng Thiên, thành phố Hà Nội
+|-
+|15
+|Vũ Ngoại
+| colspan="2" |Bặt Rèn
+|Thôn Vũ Ngoại,
+
+xã Liên Bạt,
+
+tổng Xà Cầu, huyện Sơn Minh, phủ Ứng Thiên, trấn Sơn Nam Thượng
+|Thôn Vũ Ngoại,
+
+xã Liên Bạt,
+
+tổng Xà Cầu, huyện Sơn Lãng, phủ Ứng Hòa,
+
+tỉnh Hà Đông
+|Thôn Vũ Ngoại,
+
+xã Liên Bạt,
+
+huyện Ứng Hòa, tỉnh Hà Tây
+|Thôn Vũ Ngoại,
+
+xã Ứng Thiên, thành phố Hà Nội
+|-
+|16
+|Bặt Ngõ
+| colspan="2" rowspan="3" |3 làng Bặt
+|Thôn Ngọ, xã
+
+Liên Bạt, tổng
+
+Xà Cầu, huyện
+
+Sơn Minh, phủ Ứng Thiên, trấn Sơn Nam Thượng
+|Thôn Ngọ,
+
+xã Liên Bạt,
+
+tổng Xà Cầu, huyện Sơn Lãng, phủ Ứng Hòa,
+
+tỉnh Hà Đông
+|Thôn Bặt Ngõ,
+
+xã Liên Bạt,
+
+huyện Ứng Hòa, tỉnh Hà Tây
+|Thôn Bặt Ngõ,
+
+xã Ứng Thiên, thành phố Hà Nội
+|-
+|17
+|Bặt Trung
+|Thôn Trung, xã
+
+Liên Bạt, tổng
+
+Xà Cầu, huyện
+
+Sơn Minh, phủ Ứng Thiên, trấn Sơn Nam Thượng
+|Thôn Trung,
+
+xã Liên Bạt,
+
+tổng Xà Cầu, huyện Sơn Lãng, phủ Ứng Hòa,
+
+tỉnh Hà Đông
+|Thôn Bặt Trung,
+
+xã Liên Bạt,
+
+huyện Ứng Hòa, tỉnh Hà Tây
+|Thôn Bặt Trung,
+
+xã Ứng Thiên, thành phố Hà Nội
+|-
+|18
+|Bặt Chùa
+|Thôn Trù, xã
+
+Liên Bạt, tổng
+
+Xà Cầu, huyện
+
+Sơn Minh, phủ Ứng Thiên, trấn Sơn Nam Thượng
+|Thôn Trù,
+
+xã Liên Bạt,
+
+tổng Xà Cầu, huyện Sơn Lãng, phủ Ứng Hòa,
+
+tỉnh Hà Đông
+|Thôn Bặt Chùa,
+
+xã Liên Bạt,
+
+huyện Ứng Hòa, tỉnh Hà Tây
+|Thôn Bặt Chùa,
+
+xã Ứng Thiên, thành phố Hà Nội
+|-
+|19
+|Lương Xá
+| colspan="2" |-
+|Không rõ (có thể
+
+là thôn thuộc
+
+xã Bạch Xá, tổng Hoa Đình, huyện Sơn Minh, phủ Ứng Thiên, trấn Sơn Nam Thượng)
+|Thôn Lương Xá, xã Lương Xá,
+
+tổng Phương Đình, huyện Sơn Lãng, phủ Ứng Hòa,
+
+tỉnh Hà Đông
+|Thôn Lương Xá, xã Liên Bạt,
+
+huyện Ứng Hòa, tỉnh Hà Tây
+|Thôn Lương Xá,
+
+xã Ứng Thiên, thành phố Hà Nội
+|-
+|20
+|Đình Chàng/
+
+Đình Tràng
+| colspan="2" |-
+|Không rõ (có thể
+
+là thôn thuộc
+
+xã Bạch Xá như Lương Xá)
+|Thôn Đình Tràng, xã Lương Xá,
+
+tổng Phương Đình, huyện Sơn Lãng, phủ Ứng Hòa,
+
+tỉnh Hà Đông
+|Thôn Đình Tràng, xã Liên Bạt,
+
+huyện Ứng Hòa, tỉnh Hà Tây
+|Thôn Đình Tràng,
+
+xã Ứng Thiên, thành phố Hà Nội
+|-
+|21
+|Miêng Thượng (Giáo xứ
+
+Sơn Miêng)
+|<nowiki>-</nowiki>
+| rowspan="2" |Kẻ Miêng
+|Thôn Thượng,
+
+xã Sơn Minh, tổng Sơn Minh, huyện Sơn Minh, phủ Ứng Thiên, trấn Sơn Nam Thượng
+|Giáo xứ
+
+Sơn Lãng Thượng,
+
+xã Sơn Lãng,
+
+tổng Sơn Lãng, huyện Sơn Lãng, phủ Ứng Hòa,
+
+tỉnh Hà Đông
+|Thôn
+
+Miêng Thượng,
+
+xã Hoa Sơn,
+
+huyện Ứng Hòa, tỉnh Hà Tây
+|Thôn
+
+Miêng Thượng,
+
+xã Ứng Thiên,
+
+thành phố Hà Nội 
+|-
+|22
+|Miêng Hạ
+|Nghiêm Xá
+
+(tên đời Hậu Lê)
+|Thôn Hạ,
+
+xã Sơn Minh, tổng Sơn Minh, huyện Sơn Minh, phủ Ứng Thiên, trấn Sơn Nam Thượng
+|Thôn Sơn Lãng Hạ, xã Sơn Lãng,
+
+tổng Sơn Lãng, huyện Sơn Lãng, phủ Ứng Hòa,
+
+tỉnh Hà Đông
+|Thôn Miêng Hạ,
+
+xã Hoa Sơn,
+
+huyện Ứng Hòa, tỉnh Hà Tây
+|Thôn Miêng Hạ,
+
+xã Ứng Thiên,
+
+thành phố Hà Nội 
+|-
+|23
+|Trần Đăng
+| colspan="2" |Kẻ Đăng
+|Thôn Trần Đăng, xã Cao Lãm, tổng Sơn Minh, huyện Sơn Minh, phủ Ứng Thiên, trấn Sơn Nam Thượng
+|Thôn Trần Đăng, xã Cao Lãm,
+
+tổng Sơn Lãng, huyện Sơn Lãng, phủ Ứng Hòa,
+
+tỉnh Hà Đông
+|Thôn Trần Đăng,
+
+xã Hoa Sơn,
+
+huyện Ứng Hòa, tỉnh Hà Tây
+|Thôn Trần Đăng,
+
+xã Ứng Thiên,
+
+thành phố Hà Nội
+|-
+|24
+|Viên Ngoại
+| colspan="2" |Vân Ngoại
+|Xã Viên Ngoại, tổng Văn La, huyện
+
+Chương Đức, phủ
+
+Ứng Thiên, trấn Sơn Nam Thượng
+|Xã Viên Ngoại, tổng Viên Nội, huyện Sơn Lãng, phủ Ứng Hòa,
+
+tỉnh Hà Đông
+|Thôn Viên Ngoại, xã Viên An,
+
+huyện Ứng Hòa, tỉnh Hà Tây 
+|Thôn Viên Ngoại, xã Ứng Thiên, thành phố Hà Nội
+|-
+|25
+| colspan="3" |Phù Yên
+
+''(nguyên là xã Phù Yên, sau Pháp tách thành 2 làng 2 bên sông Đáy, Hữu Đáy thuộc Mỹ Đức, Tả Đáy thuộc Ứng Hòa)'' '''''Ghi chú thêm: Thị tứ Ngã Ba Thá'''''
+
+'''''thuộc cả 2 làng Phù Yên.'''''
+|Giáp Tả Đáy, xã Phù Yên, tổng
+
+Viên Nội, huyện
+
+Chương Đức, phủ
+
+Ứng Thiên, trấn Sơn Nam Thượng
+|Xã Phù Yên,
+
+tổng Viên Nội, huyện Sơn Lãng, phủ Ứng Hòa,
+
+tỉnh Hà Đông
+|Thôn Phù Yên,
+
+xã Viên An,
+
+huyện Ứng Hòa, tỉnh Hà Tây
+|Thôn Phù Yên,
+
+xã Ứng Thiên, thành phố Hà Nội
+|-
+|*
+| colspan="7" |Xóm Rộc (nay thuộc thôn Phù Yên) của xã Viên An cũ tách từ thôn Thượng, xã Viên Nội ra.
+|-
+|26
+|Thôn Thượng
+| colspan="2" rowspan="4" |Kẻ Vân/ Vân Nội
+|Thôn Thượng,
+
+xã Viên Nội, tổng
+
+Viên Nội, huyện
+
+Chương Đức, phủ
+
+Ứng Thiên, trấn Sơn Nam Thượng
+|Thôn Thượng,
+
+xã Viên Nội,
+
+tổng Viên Nội, huyện Sơn Lãng, phủ Ứng Hòa,
+
+tỉnh Hà Đông
+|Thôn Thượng,
+
+xã Viên Nội,
+
+huyện Ứng Hòa, tỉnh Hà Tây
+|Thôn Thượng (Viên Nội),
+
+xã Ứng Thiên, thành phố Hà Nội
+|-
+|27
+|Thôn Trung
+|Thôn Trung,
+
+xã Viên Nội
+
+(như trên)
+| valign="top" |Thôn Trung,
+
+xã Viên Nội
+
+(như trên)
+| valign="top" |Thôn Trung,
+
+xã Viên Nội
+
+(như trên)
+|Thôn Trung,
+
+(Viên Nội)
+
+(như trên)
+|-
+|28
+|Thôn Giang
+|Thôn Giang,
+
+xã Viên Nội
+
+(như trên)
+|Thôn Giang,
+
+xã Viên Nội
+
+(như trên)
+|Thôn Giang,
+
+xã Viên Nội
+
+(như trên)
+|Thôn Giang,
+
+(Viên Nội)
+
+(như trên)
+|-
+|29
+|Thôn Tiền
+|Thôn Tiền,
+
+xã Viên Nội
+
+(như trên)
+|Thôn Tiền,
+
+xã Viên Nội
+
+(như trên)
+|Thôn Tiền,
+
+xã Viên Nội
+
+(như trên)
+|Thôn Tiền,
+
+(Viên Nội)
+
+(như trên)
+|}
+
+== Trụ sở các cơ quan ==
+Trụ sở UBND đặt tại Cầu Lão (thôn Trung Thịnh) cạnh đường 21B. Đảng ủy và khối các cơ quan Mặt trận đặt tại thôn Miêng Thượng cạnh tỉnh lộ 429B (Cầu Lão - Ba Thá).
+
+== Danh nhân và làng nghề<ref name=":0" /> ==
+Xã có 3 danh nhân thời hiện đại là [[Nguyễn Thượng Hiền]], [[Bùi Bằng Đoàn]] và [[Trần Đăng Ninh]]. Tên của cụ Nguyễn Thượng Hiền được đặt cho trường THCS của thị trấn Vân Đình (cũ) và tên của cụ Trần Đăng Ninh được đặt cho trường THPT nằm trên thôn Trần Đăng xã Ứng Thiên hiện tại (tức Cấp ba Ba Thá cũ).
+
+Xã có các cụm làng nghề và đặc sản nổi tiếng:
+
+* Mây giang đan ở Lò, Lau, Trần Đăng.
+* Tăm hương các thôn Quảng Phú Cầu cũ.
+* Bún các làng Bặt.
+* Cháo gõ làng Phú Lương.
+* Buôn thịt lợn làng Miêng Thượng.
+
+== Chú thích ==
+{{tham khảo}}
+
+== Tham khảo ==
+{{Sơ khai Hà Nội}}{{Đơn vị hành chính thuộc thành phố Hà Nội}}

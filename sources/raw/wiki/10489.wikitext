@@ -1,0 +1,133 @@
+{{Thông tin đơn vị hành chính Việt Nam|Xã
+| tên = Hương Sơn
+| hình =Suối Yến, chùa Hương.jpg 
+| ghi chú hình =Suối Yến, chùa Hương tại xã Hương Sơn 
+| vĩ độ = 20.614536637548305
+| kinh độ = 105.78685017112288
+| diện tích = 69,11 km²
+| dân số = 52.634 người
+| thời điểm dân số = 2025
+| mật độ dân số = {{formatnum:{{#expr:floor({{formatnum:52.634| R}}/{{formatnum:69,11| R}})}} }} người/km²
+| vùng = [[Đồng bằng sông Hồng]]
+| thành phố = [[Hà Nội]]
+| thành lập = 
+| trụ sở UBND =Số 89, xóm 11, thôn Đục Khê<ref>{{Chú thích web |url=https://storage-vnportal.vnpt.vn/gov-hni/6244/VanBan/2025/6/25/TB-729-2025.pdf |title=Thông báo số 729/TB-UBND ngày 25 tháng 6 năm 2025 của Ủy ban nhân dân thành phố Hà Nội về địa điểm trụ sở làm việc của 126 phường, xã sau sắp xếp thuộc phạm vi quản lý của thành phố Hà Nội|access-date=2026-06-15 |archive-date=2026-06-15 |archive-url=https://web.archive.org/web/20260615034519/https://storage-vnportal.vnpt.vn/gov-hni/6244/VanBan/2025/6/25/TB-729-2025.pdf |url-status=dead | website = Cổng Thông tin điện tử Ủy ban nhân dân thành phố Hà Nội}}</ref> 
+| mã hành chính = 10489<ref>{{Chú thích web |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/19ttg.signed.pdf |title=Quyết định số 19/2025/QĐ-TTg ngày 30 tháng 6 năm 2025 của Thủ tướng Chính phủ về việc Ban hành Bảng danh mục và mã số các đơn vị hành chính Việt Nam |access-date=2026-06-15 |archive-date=2026-06-15 |archive-url=https://web.archive.org/web/20260615034519/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/19ttg.signed.pdf |url-status=dead | website = Cổng Thông tin điện tử Chính phủ}}</ref>
+| mã bưu chính = 
+|bản đồ 1={{maplink|frame=yes|plain=yes|type=shape|frame-width=280|frame-align=center|stroke-width=3}}|web={{url|huongson.hanoi.gov.vn}}|trụ sở Đảng ủy=Đội 5, thôn Đông Bình}}
+{{other|Hương Sơn (định hướng)}}
+'''Hương Sơn''' là một [[Xã (Việt Nam)|xã]] thuộc thành phố [[Hà Nội]], [[Việt Nam]]. Đây là xã nằm ở cực nam của thành phố [[Hà Nội]].
+
+== Địa lý== 
+Xã Hương Sơn có vị trí địa lý:
+* Phía đông giáp xã [[Hòa Xá]] và phường [[Nguyễn Úy (phường)|Nguyễn Úy]] thuộc tỉnh [[Ninh Bình]] với ranh giới tự nhiên là [[sông Đáy]]
+* Phía tây giáp xã [[Cao Dương]] và xã [[An Nghĩa]] thuộc tỉnh [[Phú Thọ]]
+* Phía nam giáp phường [[Tam Chúc]] thuộc tỉnh [[Ninh Bình]]
+* Phía bắc giáp xã [[Mỹ Đức, Hà Nội|Mỹ Đức]].<ref>{{Chú thích web |last=Viện nghiên cứu Phát triển kinh tế – xã hội Hà Nội |date=2025-07-02 |title=Xã Hương Sơn: Những thông tin chi tiết sau sắp xếp |url=https://hanoionline.vn/xa-huong-son-nhung-thong-tin-chi-tiet-sau-sap-xep-344076.htm |url-status=dead |archive-url=https://web.archive.org/web/20260802400809/https://hanoionline.vn/xa-huong-son-nhung-thong-tin-chi-tiet-sau-sap-xep-344076.htm |archive-date=2026-08-02 |access-date=2026-08-02 |website=Cơ quan Báo và Phát thanh Truyền hình Hà Nội}}</ref><ref>{{Chú thích web |last=Cơ quan Báo và Phát thanh Truyền hình Hà Nội |date=2025-07-08 |title=Xã Hương Sơn: Tất cả thông tin chỉ dẫn bạn cần biết |url=https://hanoionline.vn/xa-huong-son-tat-ca-thong-tin-chi-dan-ban-can-biet-345453.htm |url-status=dead |archive-url=https://web.archive.org/web/20260802401509/https://hanoionline.vn/xa-huong-son-tat-ca-thong-tin-chi-dan-ban-can-biet-345453.htm |archive-date=2026-08-02 |access-date=2026-08-02}}</ref>
+Xã Hương Sơn có diện tích tự nhiên là 69,11 km<sup>2</sup>, quy mô dân số năm 2025 là 52.634 người và mật độ dân số đạt 761 người/km<sup>2</sup>.<ref>{{Chú thích web |last=Mai Hữu |date=2026-04-05 |title=Hà Nội: Chi tiết phương án tổng thể sắp xếp đơn vị hành chính cấp xã |url=https://hanoimoi.vn/ha-noi-chi-tiet-phuong-an-tong-the-sap-xep-don-vi-hanh-chinh-cap-xa-700278.html |url-status=dead |archive-url=https://web.archive.org/web/20260711401509/https://hanoimoi.vn/ha-noi-chi-tiet-phuong-an-tong-the-sap-xep-don-vi-hanh-chinh-cap-xa-700278.html |archive-date=2026-07-11 |access-date=2026-07-11 |website=Cơ quan Báo và Phát thanh, truyền hình Hà Nội}}</ref><ref>Công văn số 2896/BNV-CQĐP ngày 27 tháng 5 năm 2025 của Bộ Nội vụ về việc cung cấp thông tin danh mục dự kiến đơn vị hành chính cấp xã mới.</ref>
+
+== Lịch sử ==
+
+=== Trước năm 1976 ===
+
+=== Giai đoạn 1976 – nay ===
+Sau ngày 2 tháng 7 năm 1976, 5 xã: An Tiến, Đốc Tín, Hùng Tiến, Hương Sơn và Vạn Kim thuộc huyện [[Mỹ Đức (huyện)|Mỹ Đức]] của tỉnh [[Hà Sơn Bình]].
+
+Ngày 12 tháng 8 năm 1991, chia tỉnh [[Hà Sơn Bình]] thành 2 tỉnh, lấy tên là tỉnh [[Hòa Bình (tỉnh)|Hòa Bình]] và tỉnh [[Hà Tây (tỉnh)|Hà Tây]]. Khi đó, 5 xã: An Tiến, Đốc Tín, Hùng Tiến, Hương Sơn và Vạn Kim thuộc huyện [[Mỹ Đức (huyện)|Mỹ Đức]] của tỉnh [[Hà Tây (tỉnh)|Hà Tây]].<ref>Nghị quyết ngày 12 tháng 8 năm 1991 của Quốc hội khóa VIII, Kỳ họp thứ 9 về việc điều chỉnh địa giới hành chính một số tỉnh, thành phố trực thuộc Trung ương.</ref>
+
+Ngày 29 tháng 5 năm 2008, hợp nhất tỉnh [[Hà Tây (tỉnh)|Hà Tây]] vào thành phố [[Hà Nội]]. Khi đó, 5 xã: An Tiến, Đốc Tín, Hùng Tiến, Hương Sơn và Vạn Kim thuộc huyện [[Mỹ Đức (huyện)|Mỹ Đức]] của thành phố [[Hà Nội]].<ref>Nghị quyết số 15/2008/QH12 ngày 29 tháng 5 năm 2008 của Quốc hội khóa XII, Kỳ họp thứ 3 về việc điều chỉnh địa giới hành chính thành phố Hà Nội và một số tỉnh có liên quan.</ref>
+
+Ngày 14 tháng 11 năm 2024, thành lập xã Vạn Tín trên cơ sở nhập xã Đốc Tín và xã Vạn Kim.<ref>{{Chú thích web |tiêu đề=Nghị quyết số 1286/NQ-UBTVQH15 ngày 14 tháng 11 năm 2024 của Ủy ban Thường vụ Quốc hội về việc sắp xếp đơn vị hành chính cấp xã của thành phố Hà Nội giai đoạn 2023 – 2025 |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/11/1286-qh.signed.pdf |url-status=dead |archive-url=https://web.archive.org/web/20260725401509/https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/11/1286-qh.signed.pdf |ngày lưu trữ=2026-07-25 |ngày truy cập=2026-07-25 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+
+Ngày 16 tháng 6 năm 2025:
+
+* Kết thúc hoạt động của đơn vị hành chính cấp huyện trong cả nước.<ref>{{Chú thích web |last= |date= |title=Nghị quyết số 203/2025/QH15 ngày 16 tháng 6 năm 2025 của Quốc hội khóa XV, Kỳ họp thứ 9 về việc sửa đổi, bổ sung một số điều của Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/nq-sua-doi-hien-phap.pdf |url-status=live |archive-url=https://web.archive.org/web/20260613090807/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/nq-sua-doi-hien-phap.pdf |archive-date=2026-06-13 |access-date=2026-06-13 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+* Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của các xã An Tiến, Hùng Tiến, Vạn Tín và Hương Sơn (huyện [[Mỹ Đức (huyện)|Mỹ Đức]]) thành xã mới có tên gọi là xã Hương Sơn.<ref>{{Chú thích web |title=Nghị quyết số 1656/NQ-UBTVQH15 ngày 16 tháng 6 năm 2025 của Ủy ban Thường vụ Quốc hội về việc sắp xếp các đơn vị hành chính cấp xã của thành phố Hà Nội năm 2025 |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf |url-status=live |archive-url=https://web.archive.org/web/20260630400809/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf |archive-date=2026-06-30 |access-date=2026-06-30 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+* Sau khi sắp xếp, xã Hương Sơn được chia thành 25 thôn.<ref>8 thôn: An Đà, Đông Mỹ, Hiền Giáo, Hiền Lương, Hòa Lạc, Hổ Khê, Phú Duy và Vạn Thắng của xã An Tiến cũ; 6 thôn: An Duyệt, Bạch Tuyết, Đông Bình, Hưng Nông, Nông Khê và Trung Hòa của xã Hùng Tiến cũ; 5 thôn: Đốc Hậu, Đốc Kính, Đốc Tín (trước thuộc xã Đốc Tín), Kim Bôi và Vạn Phúc (trước thuộc xã Vạn Kim) của xã Vạn Tín cũ; 6 thôn: Đục Khê, Hà Đoạn, Hội Xá, Phú Yên, Tiên Mai và Yến Vỹ của xã Hương Sơn cũ.</ref><ref>{{Chú thích web |title=Thông tư số 10/2022/TT-BTNMT ngày 29 tháng 9 năm 2022 của Bộ Tài nguyên và Môi trường về việc Ban hành Danh mục địa danh dân cư, sơn văn, thủy văn, kinh tế – xã hội phục vụ công tác thành lập bản đồ thành phố Hà Nội |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2022/10/10-btnmt.pdf |url-status=live |archive-url=https://web.archive.org/web/20260630400809/https://datafiles.chinhphu.vn/cpp/files/vbpq/2022/10/10-btnmt.pdf |archive-date=2026-06-30 |access-date=2026-06-30 |website=Cổng Thông tin điện tử Chính phủ}}</ref><ref>{{Chú thích web |last=Xã Hương Sơn – thành phố Hà Nội |date=2026-02-24 |title=Các khu vực, các điểm bỏ phiếu bầu cử đại biểu Quốc hội khóa XVI và đại biểu Hội đồng nhân dân các cấp nhiệm kỳ 2026 – 2031 trên địa bàn xã Hương Sơn, thành phố Hà Nội |url=https://web.facebook.com/photo/?fbid=122174531834942891&set=a.122094907412942891 |url-status=dead |archive-url=https://web.archive.org/web/20260803400809/https://web.facebook.com/photo/?fbid=122174531834942891&set=a.122094907412942891 |archive-date=2026-08-03 |access-date=2026-08-03 |website=}}</ref>
+Ngày 29 tháng 6 năm 2026, thành lập 7 thôn mới: An Thắng, Mỹ Hiền, Mỹ Hà, Hưng An, Trung Tuyết, Đốc Tín và Hội Xá.<ref>1. Sáp nhập thôn Vạn Thắng, thôn An Đà thành thôn An Thắng; 2. Sáp nhập thôn Hiền Lương, thôn Hiền Giáo, thôn Đông Mỹ thành thôn Mỹ Hiền; 3. Sáp nhập thôn Hòa Lạc, thôn Phú Duy, thôn Hổ Khê, thôn Nông Khê thành thôn Mỹ Hà; 4. Sáp nhập thôn Hưng Nông, Thôn An Duyệt thành thôn Hưng An; 5. Sáp nhập thôn Trung Hòa, thôn Bạch Tuyết thành thôn Trung Tuyết; 6. Sáp nhập thôn Đốc Hậu, thôn Đốc Kính, thôn Đốc Tín thành thôn Đốc Tín; 7. Sáp nhập thôn Hội Xá, thôn Hà Đoạn thành thôn Hội Xá; 8. Giữ nguyên thôn Đông Bình; 9. Giữ nguyên thôn Kim Bôi; 10. Giữ nguyên thôn Vạn Phúc; 11. Giữ nguyên thôn Yến Vỹ; 12. Giữ nguyên thôn Đục Khê; 13. Giữ nguyên thôn Tiên Mai; 14. Giữ nguyên thôn Phú Yên.</ref><ref name=":0">{{Chú thích web |last=Văn Mạnh |date=2026-06-12 |title=Đề án sắp xếp thôn trên địa bàn xã Hương Sơn |url=https://huongson.hanoi.gov.vn/tin-tuc-su-kien/de-an-sap-xep-thon-tren-dia-ban-xa-huong-son-27112606150822395.htm |url-status=dead |archive-url=https://web.archive.org/web/20260803201510/https://huongson.hanoi.gov.vn/tin-tuc-su-kien/de-an-sap-xep-thon-tren-dia-ban-xa-huong-son-27112606150822395.htm |archive-date=2026-08-03 |access-date=2026-08-03 |website=Trang Thông tin điện tử xã Hương Sơn – thành phố Hà Nội}}</ref><ref name=":1">{{Chú thích web |last=Văn Mạnh |date=2026-06-29 |title=Kỳ họp thứ 3 Hội đồng nhân dân xã Hương Sơn khóa XXI: Xem xét, quyết định nhiều nội dung quan trọng |url=https://huongson.hanoi.gov.vn/tin-tuc-su-kien/ky-hop-thu-3-hdnd-xa-huong-son-khoa-xxi-xem-xet-quyet-dinh-nhieu-noi-dung-quan-trong-2711260629171045062.htm |url-status=dead |archive-url=https://web.archive.org/web/20260803201510/https://huongson.hanoi.gov.vn/tin-tuc-su-kien/ky-hop-thu-3-hdnd-xa-huong-son-khoa-xxi-xem-xet-quyet-dinh-nhieu-noi-dung-quan-trong-2711260629171045062.htm |archive-date=2026-08-03 |access-date=2026-08-03 |website=Trang Thông tin điện tử xã Hương Sơn – thành phố Hà Nội}}</ref>
+
+== Hành chính==
+Xã Hương Sơn được chia thành 14 thôn: An Thắng, Đông Bình, Đốc Tín, Đục Khê, Hội Xá, Hưng An, Kim Bôi, Mỹ Hà, Mỹ Hiền, Phú Yên, Tiên Mai, Trung Tuyết, Vạn Phúc và Yến Vỹ.<ref name=":0" /><ref name=":1" />
+{| class="wikitable sortable" align="center" width="100%" cellspacing="6" cellpadding="0" style="background: #f9f9f9; border: 1px #aaa solid; margin-top: 16px"
+! colspan="4" style="background: #E6E6FA; font-size: 95%;" |Danh sách các thôn thuộc xã Hương Sơn<ref name=":0" /><ref name=":1" />
+|-
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |An Thắng
+|769
+|-
+| align="left" |Đông Bình
+|582
+|-
+| align="left" |Đốc Tín
+|1.499
+|-
+| align="left" |Đục Khê
+|2.450
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Hội Xá
+|1.257
+|-
+| align="left" |Hưng An
+|628
+|-
+| align="left" |Kim Bôi
+|1.779
+|-
+| align="left" |Mỹ Hà
+|915
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Mỹ Hiền
+|711
+|-
+| align="left" |Phú Yên
+|512
+|-
+| align="left" |Tiên Mai
+|636
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Trung Tuyết
+|701
+|-
+| align="left" |Vạn Phúc
+|685
+|-
+| align="left" |Yến Vỹ
+|1.688
+|}
+|}
+
+== Giao thông ==
+* Đường bộ: các tuyến tỉnh lộ 419, 978...
+* Đường sông: có tuyến sông Đáy. Ngoài ra đoạn đường sông (suối Yến) từ bến Đục Khê đến bến Thiên Trù được khai thác du lịch)
+* Hệ thống xe buýt: 103A, 103B.
+== Du lịch== 
+Xã có quần thể di tích Phật giáo là [[Chùa Hương]], theo thứ tự từ suối Yến gồm có đền Trình, chùa Thiên Trù, động Tiên, đền Giải Oan, đền Cửa Võng, động Hương Tích; nhánh Tuyết Sơn có chùa Tuyết Sơn, chùa Thanh Sơn, Hương Đài, chùa Long Vân, động Hinh Bồng. Lễ hội chùa Hương được mở vào ba tháng mùa xuân, đây là một trong những lễ hội có lượng người đến hành hương và vãn cảnh lớn nhất miền Bắc.{{cần chú thích}}
+
+== Kinh tế== 
+Với lợi thế có khu di tích và danh thắng chùa Hương, xã Hương Sơn phát triển đa dạng có loại hình dịch vụ, kinh doanh phục vụ khách du lịch, trảy hội như: nhà nghỉ, nhà hàng, phục vụ ăn uống, vệ sinh, gửi xe, lái đò, bán đồ nông sản, đồ lưu niệm... Cụm danh thắng chùa Hương có vai trò lớn trong việc thúc đẩy, phát triển kinh tế của xã, đưa Hương Sơn cùng với [[Phùng Xá]] vào nhóm hai xã phát triển nhanh, kinh tế hộ gia đình vững nhất huyện Mỹ Đức.
+
+== Chú thích== 
+{{tham khảo| 30em}}
+
+== Tham khảo ==
+{{sơ khai Hà Nội}}
+{{Đơn vị hành chính thuộc thành phố Hà Nội}}

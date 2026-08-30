@@ -1,0 +1,287 @@
+{{Thông tin đơn vị hành chính Việt Nam|Xã
+| tên = Phú Xuyên
+| hình = Nhà thờ Giáo xứ Phú Mỹ, Phú Xuyên, Hà Nội.jpeg
+| ghi chú hình = Nhà thờ Giáo xứ Phú Mỹ
+| vĩ độ = 20.74623639158606
+| kinh độ = 105.91333723118343
+| vĩ phút = | vĩ giây = | kinh phút = | kinh giây = 
+| diện tích = 60,02 km²
+| dân số = 96.635 người
+| thời điểm dân số = 2025
+| mật độ dân số = {{formatnum:{{#expr:floor({{formatnum:96.635| R}}/{{formatnum:60,02| R}})}} }} người/km²
+| vùng = [[Đồng bằng sông Hồng]]
+| thành phố = [[Hà Nội]]
+| thành lập = 
+| trụ sở UBND = Thôn Thao Chính<ref>{{Chú thích web |url=https://storage-vnportal.vnpt.vn/gov-hni/6244/VanBan/2025/6/25/TB-729-2025.pdf |title=Thông báo số 729/TB-UBND ngày 25 tháng 6 năm 2025 của Ủy ban nhân dân thành phố Hà Nội về địa điểm trụ sở làm việc của 126 phường, xã sau sắp xếp thuộc phạm vi quản lý của thành phố Hà Nội|access-date=2026-06-15 |archive-date=2026-06-15 |archive-url=https://web.archive.org/web/20260615034519/https://storage-vnportal.vnpt.vn/gov-hni/6244/VanBan/2025/6/25/TB-729-2025.pdf |url-status=dead | website = Cổng Thông tin điện tử Ủy ban nhân dân thành phố Hà Nội}}</ref>
+| mã hành chính =10273<ref>{{Chú thích web |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/19ttg.signed.pdf |title=Quyết định số 19/2025/QĐ-TTg ngày 30 tháng 6 năm 2025 của Thủ tướng Chính phủ về việc Ban hành Bảng danh mục và mã số các đơn vị hành chính Việt Nam |access-date=2026-06-15 |archive-date=2026-06-15 |archive-url=https://web.archive.org/web/20260615034519/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/19ttg.signed.pdf |url-status=dead }}</ref> 
+| web = {{url|phuxuyen.hanoi.gov.vn}}
+|bản đồ 1={{maplink|frame=yes|plain=yes|type=shape|frame-width=280|frame-align=center|stroke-width=3}}|trụ sở Đảng ủy=Thôn Thao Chính}}
+{{other|Phú Xuyên (định hướng)}}
+'''Phú Xuyên''' là một [[xã]] thuộc thành phố [[Hà Nội]], [[Việt Nam]].
+
+== Địa lý== 
+Xã Phú Xuyên có vị trí địa lý:
+
+* Phía đông giáp xã [[Châu Ninh]], xã [[Chí Minh, Hưng Yên|Chí Minh]] và xã [[Đức Hợp]] thuộc tỉnh [[Hưng Yên]] với ranh giới tự nhiên là [[sông Hồng]]
+* Phía tây giáp xã [[Phượng Dực]] và xã [[Chuyên Mỹ]]
+* Phía nam giáp xã [[Đại Xuyên]]
+* Phía bắc giáp xã [[Thượng Phúc]] và xã [[Chương Dương (xã)|Chương Dương]].<ref name=":2">{{Chú thích web |last=Viện nghiên cứu Phát triển kinh tế – xã hội Hà Nội |date=2025-07-02 |title=Xã Phú Xuyên: Những thông tin chi tiết sau sắp xếp |url=https://hanoionline.vn/xa-phu-xuyen-nhung-thong-tin-chi-tiet-sau-sap-xep-343923.htm |url-status=bot: unknown |archive-url=https://web.archive.org/web/20250702073113/https://hanoionline.vn/xa-phu-xuyen-nhung-thong-tin-chi-tiet-sau-sap-xep-343923.htm |archive-date=2025-07-02 |access-date=2026-07-01 |website=Cơ quan Báo và Phát thanh Truyền hình Hà Nội }}</ref><ref>{{Chú thích web |last=Cơ quan Báo và Phát thanh Truyền hình Hà Nội|date=2025-07-07|title=Xã Phú Xuyên: Tất cả thông tin chỉ dẫn bạn cần biết|url=https://hanoionline.vn/xa-phu-xuyen-tat-ca-thong-tin-chi-dan-ban-can-biet-345169.htm|url-status=live|archive-url=https://web.archive.org/web/20260711401509/https://hanoionline.vn/xa-phu-xuyen-tat-ca-thong-tin-chi-dan-ban-can-biet-345169.htm|archive-date=2026-07-11|access-date=2026-07-11}}</ref>
+Xã Phú Xuyên có diện tích tự nhiên là 60,02 km<sup>2</sup>, quy mô dân số năm 2025 là 96.635 người và mật độ dân số đạt 1.610 người/km<sup>2</sup>.<ref>{{Chú thích web |last=Mai Hữu |title=Hà Nội: Chi tiết phương án tổng thể sắp xếp đơn vị hành chính cấp xã |url=https://hanoimoi.vn/ha-noi-chi-tiet-phuong-an-tong-the-sap-xep-don-vi-hanh-chinh-cap-xa-700278.html |url-status=bot: unknown |archive-url=https://web.archive.org/web/20250710163328/https://hanoimoi.vn/ha-noi-chi-tiet-phuong-an-tong-the-sap-xep-don-vi-hanh-chinh-cap-xa-700278.html |archive-date=2025-07-10 |access-date=2026-07-11 |date=2026-04-05 |website=Cơ quan Báo và Phát thanh, truyền hình Hà Nội }}</ref><ref>Công văn số 2896/BNV-CQĐP ngày 27 tháng 5 năm 2025 của Bộ Nội vụ về việc cung cấp thông tin danh mục dự kiến đơn vị hành chính cấp xã mới.</ref>
+
+== Lịch sử==
+
+=== Trước năm 1976 ===
+
+=== Giai đoạn 1976 – nay ===
+Sau ngày 2 tháng 7 năm 1976, 8 xã: Hồng Thái, Liên Hòa, Nam Phong, Nam Triều, Quang Trung, Sơn Hà, Thụy Phú, Văn Nhân thuộc huyện [[Phú Xuyên (huyện)|Phú Xuyên]]; 5 xã: Minh Cường, Thống Nhất, Tô Hiệu, Vạn Điểm và Văn Tự thuộc huyện [[Thường Tín (huyện)|Thường Tín]] của tỉnh [[Hà Sơn Bình]].
+
+Ngày 6 tháng 9 năm 1986:
+
+* Giải thể xã Liên Hòa để thành lập thị trấn Phú Xuyên (thị trấn huyện lỵ huyện [[Phú Xuyên (huyện)|Phú Xuyên]]).
+* Thành lập thị trấn Phú Minh (thị trấn công nghiệp thuộc huyện [[Phú Xuyên (huyện)|Phú Xuyên]]) trên cơ sở thôn Nhố Tống và xóm Trại của thôn Văn Minh thuộc xã Văn Nhân.<ref>Quyết định số 103-HĐBT ngày 6 tháng 9 năm 1986 của Hội đồng Bộ trưởng về việc thành lập một số thị trấn của các huyện Lương Sơn, Phú Xuyên thuộc tỉnh Hà Sơn Bình.</ref>
+
+Ngày 12 tháng 8 năm 1991, chia tỉnh [[Hà Sơn Bình]] thành 2 tỉnh, lấy tên là tỉnh [[Hòa Bình (tỉnh)|Hòa Bình]] và tỉnh [[Hà Tây (tỉnh)|Hà Tây]]. Khi đó, 2 thị trấn: Phú Minh, Phú Xuyên và 7 xã: Hồng Thái, Nam Phong, Nam Triều, Quang Trung, Sơn Hà, Thụy Phú, Văn Nhân thuộc huyện [[Phú Xuyên (huyện)|Phú Xuyên]]; 5 xã: Minh Cường, Thống Nhất, Tô Hiệu, Vạn Điểm và Văn Tự thuộc huyện [[Thường Tín (huyện)|Thường Tín]] của tỉnh [[Hà Tây (tỉnh)|Hà Tây]].<ref>Nghị quyết ngày 12 tháng 8 năm 1991 của Quốc hội khóa VIII, Kỳ họp thứ 9 về việc điều chỉnh địa giới hành chính một số tỉnh, thành phố trực thuộc Trung ương.</ref>
+
+Ngày 29 tháng 5 năm 2008, hợp nhất tỉnh [[Hà Tây (tỉnh)|Hà Tây]] vào thành phố [[Hà Nội]]. Khi đó, 2 thị trấn: Phú Minh, Phú Xuyên và 7 xã: Hồng Thái, Nam Phong, Nam Triều, Quang Trung, Sơn Hà, Thụy Phú và Văn Nhân thuộc huyện [[Phú Xuyên (huyện)|Phú Xuyên]]; 5 xã: Minh Cường, Thống Nhất, Tô Hiệu, Vạn Điểm và Văn Tự thuộc huyện [[Thường Tín (huyện)|Thường Tín]] của thành phố [[Hà Nội]].<ref>Nghị quyết số 15/2008/QH12 ngày 29 tháng 5 năm 2008 của Quốc hội khóa XII, Kỳ họp thứ 3 về việc điều chỉnh địa giới hành chính thành phố Hà Nội và một số tỉnh có liên quan.</ref>
+
+Ngày 11 tháng 2 năm 2020, thành lập xã Nam Tiến (huyện [[Phú Xuyên (huyện)|Phú Xuyên]]) trên cơ sở nhập xã Thụy Phú và xã Văn Nhân.<ref name="NQ895">{{Chú thích web |tác giả= |họ= |tên= |ngày= |tựa đề=Nghị quyết số 895/NQ-UBTVQH14 ngày 11 tháng 2 năm 2020 của Ủy ban Thường vụ Quốc hội về việc sắp xếp đơn vị hành chính cấp xã thuộc thành phố Hà Nội |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2020/02/895.signed.pdf |url-status=bot: unknown |url lưu trữ=https://web.archive.org/web/20260630155040/https://datafiles.chinhphu.vn/cpp/files/vbpq/2020/02/895.signed.pdf |ngày lưu trữ=2026-06-30 |ngày truy cập=2026-06-30 |website=Cổng Thông tin điện tử Chính phủ }}</ref>
+
+Ngày 14 tháng 11 năm 2024:
+
+* Thành lập xã Quang Hà (huyện [[Phú Xuyên (huyện)|Phú Xuyên]]) trên cơ sở nhập xã Sơn Hà và xã Quang Trung.
+* Nhập xã Nam Triều vào xã Nam Phong (huyện [[Phú Xuyên (huyện)|Phú Xuyên]]).
+* Thành lập xã Vạn Nhất (huyện [[Thường Tín (huyện)|Thường Tín]]) trên cơ sở nhập xã Vạn Điểm và xã Thống Nhất.<ref>{{Chú thích web |tiêu đề=Nghị quyết số 1286/NQ-UBTVQH15 ngày 14 tháng 11 năm 2024 của Ủy ban Thường vụ Quốc hội về việc sắp xếp đơn vị hành chính cấp xã của thành phố Hà Nội giai đoạn 2023 – 2025 |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/11/1286-qh.signed.pdf |url-status=bot: unknown |archive-url=https://web.archive.org/web/20260630103653/https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/11/1286-qh.signed.pdf |ngày lưu trữ=2026-06-30 |ngày truy cập=2026-06-30 |website=Cổng Thông tin điện tử Chính phủ }}</ref>
+
+Ngày 16 tháng 6 năm 2025:
+
+* Kết thúc hoạt động của đơn vị hành chính cấp huyện trong cả nước.<ref>{{Chú thích web |last= |date= |title=Nghị quyết số 203/2025/QH15 ngày 16 tháng 6 năm 2025 của Quốc hội khóa XV, Kỳ họp thứ 9 về việc sửa đổi, bổ sung một số điều của Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/nq-sua-doi-hien-phap.pdf |url-status=live |archive-url=https://web.archive.org/web/20260613090807/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/nq-sua-doi-hien-phap.pdf |archive-date=2026-06-13 |access-date=2026-06-13 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+* Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của thị trấn Phú Minh, thị trấn Phú Xuyên, các xã Hồng Thái (huyện [[Phú Xuyên (huyện)|Phú Xuyên]]), Minh Cường (huyện [[Thường Tín (huyện)|Thường Tín]]), Nam Phong, Nam Tiến, Quang Hà (huyện [[Phú Xuyên (huyện)|Phú Xuyên]]), Văn Tự, phần còn lại của xã Tô Hiệu và xã Vạn Nhất (huyện [[Thường Tín (huyện)|Thường Tín]]) thành xã mới có tên gọi là xã Phú Xuyên.<ref>{{Chú thích web |title=Nghị quyết số 1656/NQ-UBTVQH15 ngày 16 tháng 6 năm 2025 của Ủy ban Thường vụ Quốc hội về việc sắp xếp các đơn vị hành chính cấp xã của thành phố Hà Nội năm 2025 |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf |url-status=bot: unknown |archive-url=https://web.archive.org/web/20260513110024/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf |archive-date=2026-05-13 |access-date=2026-06-30 |website=Cổng Thông tin điện tử Chính phủ }}</ref>
+* Sau khi sắp xếp, xã Phú Xuyên được chia thành 45 tổ dân phố – tiểu khu – khu dân cư – thôn, gồm 1 tổ dân phố, 3 tiểu khu, 1 khu dân cư và 40 thôn.<ref>4 tổ dân phố – tiểu khu, gồm tổ dân phố Giấy Cơ Khí và 3 tiểu khu: Đường, Phú Gia, Phú Thịnh của thị trấn Phú Minh cũ; 5 tiểu khu: Đại Nam, Đông Đoài, Mỹ Lâm, Phú Mỹ và Thao Chính của thị trấn Phú Xuyên cũ; 3 thôn: Duyên Trang, Duyên Yết và Lạt Dương của xã Hồng Thái cũ; 4 thôn: Đống Chanh, Khôn Thôn, Lam Sơn và Trần Phú của xã Minh Cường cũ; 5 thôn: Nam Quất, Phong Triều (trước thuộc xã Nam Triều), Cổ Châu, Nam Phú và Nội Hợp của xã Nam Phong cũ; 7 khu dân cư – thôn, gồm khu dân cư Đề Thám và 6 thôn: Cát Bi, Chanh Thôn, Đại Gia, Nhân Vực, Thụy Phú, Văn Minh của xã Nam Tiến cũ; 7 thôn: Ngọc Lâu, Phú Nhiêu, Tri Lễ và Văn Lãng (trước thuộc xã Quang Trung), Sơn Thanh, Thao Ngoại và Thao Nội (trước thuộc xã Sơn Hà) của xã Quang Hà cũ; 4 thôn: An Lãng, Đinh Xá, Minh Nga và Nguyên Hanh của xã Văn Tự cũ; thôn An Định của xã Tô Hiệu cũ; 5 thôn: Bộ Đầu, Phúc Trạch, Thượng Giáp (trước thuộc xã Thống Nhất), Đặng Xá, Đỗ Xá và Vạn Điểm (trước thuộc xã Vạn Điểm) của xã Vạn Nhất cũ.</ref><ref>{{Chú thích web |title=Thông tư số 10/2022/TT-BTNMT ngày 29 tháng 9 năm 2022 của Bộ Tài nguyên và Môi trường về việc Ban hành Danh mục địa danh dân cư, sơn văn, thủy văn, kinh tế – xã hội phục vụ công tác thành lập bản đồ thành phố Hà Nội |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2022/10/10-btnmt.pdf |url-status=bot: unknown |archive-url=https://web.archive.org/web/20260630082812/https://datafiles.chinhphu.vn/cpp/files/vbpq/2022/10/10-btnmt.pdf |archive-date=2026-06-30 |access-date=2026-06-30 |website=Cổng Thông tin điện tử Chính phủ }}</ref><ref>{{Chú thích web |last=Trang Thông tin điện tử xã Phú Xuyên – thành phố Hà Nội |title=Danh sách chính thức những người ứng cử đại biểu Hội đồng nhân dân xã Phú Xuyên nhiệm kỳ 2026 – 2031 |url=https://phuxuyen.hanoi.gov.vn/bau-cu-dai-bieu-hdnd-nhiem-ky-2026-2031/danh-sach-chinh-thuc-nhung-nguoi-ung-cu-dai-bieu-hoi-dong-nhan-dan-xa-phu-xuyen-nhiem-ky-2026-2031-2656260228234951782.htm |url-status=live |archive-url=https://web.archive.org/web/20260630400809/https://phuxuyen.hanoi.gov.vn/bau-cu-dai-bieu-hdnd-nhiem-ky-2026-2031/danh-sach-chinh-thuc-nhung-nguoi-ung-cu-dai-bieu-hoi-dong-nhan-dan-xa-phu-xuyen-nhiem-ky-2026-2031-2656260228234951782.htm |archive-date=2026-06-30 |access-date=2026-06-30}}</ref>
+Ngày 5 tháng 12 năm 2025, 8 tiểu khu: Phú Mỹ, Phú Lâm, Đông Đoài, Đại Nam, Thao Chính (thị trấn Phú Xuyên cũ), Phú Thịnh, Phú Gia, Đường, tổ dân phố Giấy Cơ Khí (thị trấn Phú Minh cũ) và khu dân cư Đề Thám (xã Nam Tiến cũ) chuyển đổi thành thôn.<ref>1. Tiểu khu Phú Mỹ thuộc thị trấn Phú Xuyên chuyển đổi thành thôn Phú Mỹ thuộc xã Phú Xuyên; 2. Tiểu khu Mỹ Lâm thuộc thị trấn Phú Xuyên chuyển đổi thành thôn Mỹ Lâm thuộc xã Phú Xuyên; 3. Tiểu khu Đông Đoài thuộc thị trấn Phú Xuyên chuyển đổi thành thôn Đông Đoài thuộc xã Phú Xuyên; 4. Tiểu khu Đại Nam thuộc thị trấn Phú Xuyên chuyển đổi thành thôn Đại Nam thuộc xã Phú Xuyên; 5. Tiểu khu Thao Chính thuộc thị trấn Phú Xuyên chuyển đổi thành thôn Thao Chính thuộc xã Phú Xuyên; 6. Tiểu khu Phú Thịnh thuộc thị trấn Phú Minh chuyển đổi thành thôn Phú Thịnh thuộc xã Phú Xuyên; 7. Tiểu khu Phú Gia thuộc thị trấn Phú Minh chuyển đổi thành thôn Phú Gia thuộc xã Phú Xuyên; 8. Tiểu khu Đường thuộc thị trấn Phú Minh chuyển đổi thành thôn Đường thuộc xã Phú Xuyên; 9. Tổ dân phố Giấy Cơ Khí thuộc thị trấn Phú Minh chuyển đổi thành thôn Giấy Cơ Khí thuộc xã Phú Xuyên; 10. Khu dân cư Đề Thám thuộc xã Nam Tiến chuyển đổi thành thôn Đề Thám thuộc xã Phú Xuyên.</ref><ref>{{Chú thích web |title=Thông báo số 979/TB-UBND ngày 23 tháng 12 năm 2025 của Ủy ban nhân dân phường Phú Xuyên về việc đổi tên "Tiểu khu, Tổ dân phố" thành "Thôn" trên địa bàn xã Phú Xuyên, thành phố Hà Nội |url=https://sqhx-hanoi.mediacdn.vn/91579363132710912/2025/12/24/thong-bao-doi-ten-tieu-khu-to-dan-pho-khu-dan-cu-thanh-thon-thang-122025-1-17665446125342007541995.pdf |url-status=bot: unknown |archive-url=https://web.archive.org/web/20260630130149/https://sqhx-hanoi.mediacdn.vn/91579363132710912/2025/12/24/thong-bao-doi-ten-tieu-khu-to-dan-pho-khu-dan-cu-thanh-thon-thang-122025-1-17665446125342007541995.pdf |archive-date=2026-06-30 |access-date=2026-06-30 }}</ref>
+
+Ngày 24 tháng 12 năm 2025, xác định một phần của xã Phú Xuyên là [[Đô thị Việt Nam|đô thị loại III]].<ref>Chuyển tiếp từ 2 thị trấn: Phú Minh và Phú Xuyên thuộc huyện Phú Xuyên.</ref><ref>{{Chú thích web|title=Nghị quyết số 111/2025/UBTVQH15 ngày 24 tháng 12 năm 2025 của Ủy ban Thường vụ Quốc hội về phân loại đô thị|url=https://cdn.nhandan.vn/files/f4a4abf7f9a0ba4a91744616546d850872b76917f90d5a74cc9eebef1369fb6f/111.pdf|url-status=dead|archive-url=https://web.archive.org/web/20260430074852/https://cdn.nhandan.vn/files/f4a4abf7f9a0ba4a91744616546d850872b76917f90d5a74cc9eebef1369fb6f/111.pdf|archive-date=2026-04-30|access-date=2026-07-12|website=Báo Nhân dân}}</ref>
+
+Ngày 25 tháng 6 năm 2026, thành lập 13 thôn mới: Đại Đồng, Nam Phú, Hà Thao, Quang Trung, Phú Nhiêu, Thụy Phú, Văn Minh, Văn Nhân, Phú Minh, Phú An, Vạn Điểm, Thống Nhất và Phú Cường.<ref>1. Thôn Đông Đoài và thôn Đại Nam sáp nhập thành thôn Đại Đồng; 2. Thôn Nam Phú và thôn Nội Hợp sáp nhập thành thôn Nam Phú; 3. Thôn Thao Nội và thôn Thao Ngoại sáp nhập thành thôn Hà Thao; 4. Thôn Tri Lễ và thôn Văn Lãng sáp nhập thành thôn Quang Trung; 5. Thôn Phú Nhiêu và thôn Ngọc Lâu sáp nhập thành thôn Phú Nhiêu; 6. Thôn Thụy Phú, thôn Cát Bi và thôn Đại Gia sáp nhập thành thôn Thụy Phú; 7. Thôn Văn Minh và thôn Đề Thám sáp nhập thành thôn Văn Minh; 8. Thôn Chanh Thôn và thôn Nhân Vực sáp nhập thành thôn Chanh Thôn; 9. Thôn Phú Thịnh và thôn Phú Gia sáp nhập thành thôn Phú Minh; 10. Thôn Đường và thôn Giấy Cơ Khí sáp nhập thành thôn Phú An; 11. Thôn Vạn Điểm và thôn Đặng Xá sáp nhập thành thôn Vạn Điểm; 12. Thôn Thượng Giáp và thôn Phúc Trạch sáp nhập thành thôn Thống Nhất; 13. Thôn Đinh Xá và thôn Minh Nga sáp nhập thành thôn Phú Cường; 14. Không thực hiện sáp nhập 19 thôn: Phú Mỹ, Thao Chính, Mỹ Lâm, Trần Phú, Lam Sơn, Đống Chanh, Sơn Thanh, Đỗ Xá, Cổ Châu, Khôn Thôn, Nam Quất, Phong Triều, Duyên Yết, Duyên Trang, Lạt Dương, An Lãng, An Định, Bộ Đầu và Nguyên Hanh.</ref><ref name=":0">{{Chú thích web |title=Phương án số 6/PA-UBND ngày 27 tháng 5 năm 2026 của Ủy ban nhân dân xã Phú Xuyên về dự kiến sắp xếp các thôn trên địa bàn xã Phú Xuyên |url=https://sqhx-hanoi.mediacdn.vn/91579363132710912/2026/6/7/phuong-an-du-kien-sap-xep-cac-thon-tren-dai-ban-xa-phu-xuyen-1780847999752140415729.pdf |url-status=bot: unknown |archive-url=https://web.archive.org/web/20260630101524/https://sqhx-hanoi.mediacdn.vn/91579363132710912/2026/6/7/phuong-an-du-kien-sap-xep-cac-thon-tren-dai-ban-xa-phu-xuyen-1780847999752140415729.pdf |archive-date=2026-06-30 |access-date=2026-06-30 }}</ref><ref name=":1">{{Chú thích web |last=Trang Thông tin điện tử xã Phú Xuyên – thành phố Hà Nội |date= |title=Thông báo số 863/TB-UBND ngày 30 tháng 6 năm 2026 của Ủy ban nhân dân xã Phú Xuyên về việc công bố các thôn sau sắp xếp, thời điểm chính thức đi vào hoạt động và việc sử dụng tên gọi các thôn mới trên địa bàn xã Phú Xuyên |url=https://sqhx-hanoi.mediacdn.vn/91579363132710912/2026/7/1/296thong-bao-cong-bo-danh-muc-thon-sau-sap-xep-17828940205661470738470.pdf |url-status=bot: unknown |archive-url=https://web.archive.org/web/20260718145015/https://sqhx-hanoi.mediacdn.vn/91579363132710912/2026/7/1/296thong-bao-cong-bo-danh-muc-thon-sau-sap-xep-17828940205661470738470.pdf |archive-date=2026-07-18 |access-date=2026-06-30 |website=Trang Thông tin điện tử xã Phú Xuyên – thành phố Hà Nội }}</ref><!-- 
+Xã Vạn Nhất là đơn vị hành chính cấp xã thuộc phía Nam Huyện Thường Tín, trên cơ sở sát nhập xã [[Vạn Điểm]] và xã [[Thống Nhất, Thường Tín]]: UBND huyện công bố Nghị quyết 1286/NQ-UBTVQH15 của Ủy Ban Thường vụ Quốc hội, từ ngày 1/1/2025, thành lập xã Vạn Nhất trên cơ sở nhập toàn bộ diện tích tự nhiên 3,06km2, quy mô dân số 8.579 người của xã Vạn Điểm và toàn bộ diện tích tự nhiên 4,92km2, quy mô dân số 8.237 người của xã Thống Nhất. Sau khi thành lập, xã Vạn Nhất có diện tích tự nhiên 7,98km2 và quy mô dân số 16.816 người<ref>{{Chú thích web| url = https://kinhtedothi.vn/thuong-tin-ra-mat-co-quan-don-vi-hanh-chinh-moi-xa-chuong-duong-van-nhat.html| tiêu đề = Thường Tín ra mắt cơ quan, đơn vị hành chính mới xã Chương Dương, Vạn Nhất| họ = Hải| tên = Hữu| ngày = 2025-01-04| website = Báo Kinh tế đô thị - Đọc tin tức thời sự kinh tế 24h mới nhất| ngôn ngữ = vi| ngày truy cập = 2025-03-14}}</ref>
+
+Xã Tô Hiệu nằm bên [[đường sắt Bắc Nam| đường sắt Thống Nhất]], [[Quốc lộ 1]] cũ và mới ([[đường cao tốc Pháp Vân – Cầu Giẽ]]) (đường 1A cũ, cùng đường sắt Bắc-Nam cắt ngang xã, đường 1A mới chạy ở rìa phía Đông của xã). Chính giữa xã là ga Tía, ga đường sắt Thống Nhất.<ref>Tập bản đồ hành chính Việt Nam (Administrative Atlas)</ref>
+
+Xã Tô Hiệu gồm 4 làng Tử Dương (Tía) <ref>[http://www.hannom.org.vn/web/tchn/data/9501v.htm Bài nghiên cứu Về đạo sắc "Tử Dương thần từ", của Cung Khắc Lược và Chu Quang Trứ, trên Tạp chí Hán Nôm số 1/1995.]{{Liên kết hỏng| date = 2024-09-20 | bot = InternetArchiveBot }}</ref> và An Duyên, An Định và Đông Duyên. Đầu thế kỷ 19, các làng của xã Tô Hiệu là các xã (thời xưa) thuộc 2 tổng của huyện Thượng Phúc phủ Thường Tín trấn [[Sơn Nam (địa danh cũ Việt Nam)| Sơn Nam Thượng]], là: Tử Dương, tên dân gian là làng Tía thuộc tổng Bình Lăng, còn An Duyên (Yên Duyên), tên dân gian: làng Mui, An Định, tên dân gian: làng Giành, Đông Duyên, tên dân gian: làng Đình Dâu thuộc tổng Tín Yên (Tín An)<ref>Cuốn Tên làng xã Việt Nam đầu thế kỷ 19, trang 48.</ref>. Đến năm 1831, các làng này cùng toàn phủ Thường Tín thuộc tỉnh Hà Nội. Theo Ngô Vi Liễn, tổng Tín Yên phủ Thường Tín gồm các làng xã: ''Đông Duyên (tức Dương Dần), Hà Vĩ, Lưu Khê, Tín Yên (tức Dừng), Yên Duyên (An Duyên, tức Mui). Làng Tử Dương (Tía) thuộc tổng Bình Lăng.''<ref>Tên làng xã và địa dư các tỉnh Bắc Kỳ, Ngô Vi Liễn, trang 42-43.</ref> Thời [[Pháp thuộc]], đất xã Tô Hiệu thuộc huyện Thường Tín tỉnh [[Hà Đông (tỉnh)| Hà Đông]]. Sau cách mạng Tháng Tám, bỏ cấp tổng, xã Tô Hiệu được thành lập, lấy tên của chiến sĩ cách mạng [[Tô Hiệu]] làm tên xã. Sau cùng với huyện Thường Tín, xã Tô Hiệu lần lượt thuộc các tỉnh Hà Đông, [[Hà Tây]], [[Hà Sơn Bình]], [[Hà Tây]], rồi năm 2008 được nhập về [[Hà Nội]]. Làng Tía nay nằm 2 bên Quốc lộ 1 và đường sắt Thống nhất Bắc-Nam (ga Tía).
+[[Tập tin:ChuaMui.jpg| nhỏ| phải| Nghè thuộc chùa Mui xã Tô Hiệu]]Trong làng Mui có lễ hội vào mùng 7 tết hàng năm diễn ra tại chùa Mui. Khách từ tứ phương thường đổ về đây để xem lễ hội đánh gậy, múa lân, múa võ và nhiều tiết mục đặc sắc khác. Ở đây còn có một khu chợ cổ diễn ra tấp nập vào mỗi buổi sáng và chiều.
+
+[[Tập tin:CongChuaMui.jpg| nhỏ| phải| Cổng tam quan nghè và chùa Mui]]
+
+== Hành chính== 
+Xã Tô Hiệu gồm các thôn An Duyên, Đông Duyên, Tử Dương (bao gồm cả khu dân cư phố Tía), An Định.
+== Giao thông== 
+* Cao tốc Pháp Vân - Cầu Giẽ
+* Quốc lộ 1 cũ
+* Đường tỉnh lộ 429.
+== Kinh tế== 
+Xã Tô Hiệu nằm ở vị trí giao thông thuận lợi. Nhóm thương mại dịch vụ phát triển ở thôn Tử Dương, phố Tía. Nhóm nghề mộc phát triển nhất ở thôn An Định. Các thôn khác: nông nghiệp, làm thợ,... 
+== Danh nhân== 
+*[[Doãn Hoành Tuấn]] hay 尹宏濬<ref>[http://lib.nomfoundation.org/collection/1/volume/264/page/33 Khâm định Việt sử thông giám cương mục, quyển 23 bản chữ Hán, Lê Thánh Tông, trang 33.]</ref>, người làng An Duyên, quan nhà Lê sơ, triều [[Lê Thánh Tông]], đỗ [[Đồng tiến sĩ xuất thân| Đệ tam giáp tiến sĩ xuất thân]] năm [[1478]]<ref>{{Chú thích web | url = http://www.hannom.org.vn/default.asp?CatID = 564 | ngày truy cập = 2016-01-03 | tựa đề = Văn bia đề danh tiến sĩ khoa Mậu Tuất niên hiệu Hồng Đức thứ 9 (1478) | archive-date = 2013-12-24 | archive-url = https://web.archive.org/web/20131224224902/http://www.hannom.org.vn/default.asp?CatID = 564 | url-status = dead }}</ref>, [[Thượng thư]] [[bộ Lễ]], đi sứ [[nhà Minh]] năm 1480 mang thư trả lời [[nhà Minh]] của vua Lê về việc [[Đại Việt]] [[chiến tranh Đại Việt - Lan Xang (1467-1480)| chinh phạt]] [[Lào| Ai Lao]] và tranh chấp biên giới Đại Việt-Đại Minh năm 1479.<ref>Việt sử thông giám cương mục, chính biên, tập XII trang 1155-1157, tức chính biên quyển 23 trang 25-27</ref><ref>{{Chú thích web | url = http://www.informatik.uni-leipzig.de/~duc/sach/dvsktt/dvsktt18a.html | ngày lưu trữ = 2011-05-25 | ngày truy cập = 2016-01-03 | tiêu đề = Đại Việt sử ký Bản kỷ thực lục - quyển XIII - nhà Lê | archive-url = https://web.archive.org/web/20110525142459/http://www.informatik.uni-leipzig.de/~duc/sach/dvsktt/dvsktt18a.html | url-status = dead }}</ref>.
+*[[Doãn Mậu Khôi]] 尹茂魁, đỗ Đệ tam giáp tiến sĩ xuất thân năm [[1502]]<ref>{{Chú thích web | url = http://www.hannom.org.vn/default.asp?CatID = 564 | ngày truy cập = 2016-01-03 | tựa đề = Văn bia đề danh tiến sĩ khoa Nhâm Tuất niên hiệu Cảnh Thống thứ 5 (1502) | archive-date = 2013-12-24 | archive-url = https://web.archive.org/web/20131224224902/http://www.hannom.org.vn/default.asp?CatID = 564 | url-status = dead }}</ref>, người làng An Duyên, Thượng thư bộ Lễ, tới thời Lê Uy Mục được cử đi sứ nhà Minh 1507 <ref>Doãn Mậu Khôi đi sứ sang [[Tên gọi Trung Quốc| Trung Hoa]], mừng [[Minh Vũ Tông| Minh Võ Tông]] lên ngôi, tháng 11 năm [[1507]]([http://www.avsnonline.net/library/ebooks/vn/lichsu/kdvstgcm/kdvstgcm30.html Khâm định Việt sử thông giám cương mục] {{Webarchive| url = https://web.archive.org/web/20090121040518/http://avsnonline.net/library/ebooks/vn/lichsu/kdvstgcm/kdvstgcm30.html | date = 2009-01-21 }}).</ref>.
+*Doãn Mậu Đàm 尹茂覃 hay còn gọi là [[Doãn Đàm]] (1557-?), quê gốc An Duyên, sau chuyển cư tới thôn Cự Phú xã [[Tam Đa]] huyện [[Phù Cừ]] tỉnh [[Hưng Yên]], đỗ Đệ tam giáp tiến sĩ xuất thân năm [[1586]]<ref>[http://www.mactoc.com/newsdetail/849/cac-nha-khoa-bang-trieu-mac-tiep-theo-va-het.aspx ''Các nhà khoa bảng triều Mạc'', phần cuối, mục 1528. Doãn Đàm (1557-?), trang web Mạc tộc.]{{Liên kết hỏng| date = 2021-04-02 | bot = InternetArchiveBot }}</ref>.
+
+Xã Minh Cường bao gồm 4 làng là: Đống Chanh, Lam Sơn, Trần Phú và Khôn Thôn. Đình và chùa làng Đống Chanh là di tích sử cấp quốc gia, nằm trong quy hoạch các di tích lịch sử cần được trùng tu và tôn tạo của Thành phố Hà Nội. Riêng đình làng Trần Phú là di tích cách mạng dặc biệt của huyện Thường Tín vì đây là nơi ra đời của huyện ủy Thường Tín. Đình làng Trần Phú đã từng được tổng bí thư Ban chấp hành trung ương Đảng Cộng sản Việt Nam [[Trường Chinh]] về thăm. Thôn Đống Chanh là thôn có lịch sử lâu đời nhất vùng. Trong đó họ [[Đoàn (họ)| Đoàn]] là gia tộc thịnh vượng nhất làng và nhất vùng Sơn Nam Thượng [[Nhà Nguyễn| thời Nguyễn]].
+
+'''Y tế - Giáo dục:''' Trường Cao đẳng Kinh tế Kỹ thuật và Công nghệ (đang xây dựng). Trên địa bàn xã có 1 trung tâm giáo dục thường xuyên của huyện đóng trên địa bàn thôn Khôn Thôn, THCS Minh Cường, Tiểu học Minh Cường. Các thôn trong xã đều có các trường mẫu giáo riêng.
+
+'''Cơ quan đóng trên địa bàn''': 1 doanh trại quân đội đóng trên địa bàn thôn Lam Sơn. Đội 8 - Cảnh sát giao thông công an Thành phố Hà Nội. Hạt Kiểm lâm huyện Thường Tín.
+
+Các gương mặt tiêu biểu:1 đại biểu quốc hội,4 đại tá quân đội trong đó có đồng chí Trần Trọng Tuấn làm Phó tổng biên tập Tạp chí tài chính của Bộ quốc phòng (người làng Đống Chanh), đại tá Nguyễn Kỷ Nguyên (người làng Trần Phú).
+
+Kinh tế: Chủ yếu là buôn bán các mặt hàng lưới, đồ câu, làm mộc. Làng Trần Phú là làng nghề làm lưới có tiếng trong vùng.
+
+== Đình, Chùa Đống Chanh== 
+Đình và chùa làng Đống Chanh là di tích lịch sử cấp quốc gia nằm trong quy hoạch các di tích lịch sử cần được trùng tu và tôn tạo của thành phố Hà Nội. Trung Thành phổ Tế đại vương – Thượng đẳng thần. Ngài là bộ tướng của vua Hùng Vương đời thứ XVIII, giỏi đánh giặc, giỏi trị thủy, công thần trong thời đại Hùng Vương buổi đầu dựng nước Văn Lang.
+
+Ngôi đình là một công trình có kiến trúc quy mô lớn, ngoảnh hướng Tây. Trước cửa đình là một giếng nước hình tròn. Bên phải đình là trục đường chính của làng và xung quanh là khu dân cư quần tụ đông đúc. Nhìn tổng thể mặt bằng kiến trúc của đình Đống Chanh gồm tòa Đại bái, Trung cung, Hậu cung. Trước cửa Đại bái là hai dãy Tả - Hữu mạc xây xung quanh, tường hồi bít đốc, mái lợp ngói ta. Tòa Đại bái là công trình kiến trúc to lớn ở trong khu di tích gồm 5 gian 2 trái xây tường gạch, đầu hồi bít đốc. Bờ nóc chữ đinh, hai đầu là kìm đấu giữa nóc có khối tượng "Lưỡng long chầu nguyệt". Bộ khung nhà làm hình thức bốn hàng cột gỗ, với hệ thống xà dọc, xà ngang liên kết có câu đầu khớp đỉnh cột cái. Những bộ vì nóc làm kiểu giá chiêng. Phía dưới câu đầu là bộ vì rường cốn được đục chạm công phu theo đề tài "Ngư long hý thủy" và mặt sau chạm nổi tùng, bạc. Gian giữa có bức cửa võng chạm kênh bong nổi bật tích "Đông bích đồ thư". Năm 1930, triều vua Bảo đại thứ 5, nhân dân trùng tu lại tòa Đại bái này. Tiếp là tòa Trung cung còn lớn hơn tòa Đại bái, được trùng tu sớm hơn hai năm đó là năm 1982. Công trình này có lối kiến trúc giống như Đại bái. Kết cấu khung nhà với bốn hàng cột chân và những bộ vì nóc làm kiểu giá chiêng. Đặc biệt đầu dư được người xưa tạo hình trang trí "cá hóa rồng", mô tít điển hình của văn hóa cư dân nông nghiệp người Việt. Những bức cốn ở tòa Trung cung cũng được đục chạm theo tích "Ngư long hý thủy", mặt sau là "Tùng lộc" và "Mai điểu"... Trên má thân bẩy, kẻ, chạm nổi văn thực vật, rồng lá làm rõ nét nghệ thuật của thời Nguyễn muộn. Tòa Hậu cung đình ở phía sau là nơi tôn nghiêm nhất được nối vào hai gian giữa Trung cung kéo dài phía sau ba gian tạo thành hình chuôi vồ. Cửa gian giữa còn giữ được bốn bộ cánh cửa chạm nổi trang trí rồng, phượng trên thân phủ đầy các họa tiết đao mác, tia lửa... phong cách của thời hậu Lê. Đình Đống Chanh còn một cuốn thần phả và 15 đạo sắc của các triều đại xưa phong thần thành hàng là Trung Thành phổ Tế đại vương – Thượng đẳng thần. Ngài là bộ tướng của vua Hùng Vương đời thứ XVIII, giỏi đánh giặc, giỏi trị thủy. Vị Lạc tướng là công thần trong thời đại Hùng Vương buổi đầu dựng nước Văn Lang. Nhân dân Đống Chanh tôn vinh lập thần thành hoàng là tấm gương soi sáng cho mãi các thế hệ noi theo.
+
+== Làng nghề truyền thống cước lưới thôn Trần Phú== 
+Xã có 01 làng nghề truyền thống đó là "Làng nghề cước lưới thôn Trần Phú" được Thành phố công nhận năm 2012. Theo sử sách ghi lại, làng nghề lưới cước Trần Phú được hình thành vào năm 1428. Những người già trong làng vẫn truyền lại cho con cháu của họ câu chuyện về bà Thánh Mẫu, người khai sinh ra nghề làm lưới cước cho người dân Trần Phú. Tục truyền rằng Thánh mẫu là người gốc miền biển Thanh Hóa nhưng bà đã chuyển ra vùng đất làng nghề Trần Phú bây giờ lập nghiệp. Trong một chuyến vi hành qua vùng đất này, nhà vua đã tình cờ gặp được bà và đem lòng yêu quý, rước bà về cung phong làm Tứ phi. Tuy nhiên do nhiều năm sống với vua mà không có con, bà đã xin về lại vùng đất Trần Phú sinh sống nốt quãng đời còn lại. Thỏa theo ước nguyện của bà, nhà vua đã ban cho bà một diện tích đất đai rộng lớn để sinh sống lúc tuổi già. Vốn dĩ là người miền biển, với tính chịu thương chịu khó, bà đã dạy cho người dân nơi đây cách làm lưới đế đánh bắt cá, tôm mưu sinh. Kể từ đó, nghề làm lưới cước tồn tại cho đến ngày hôm nay ở vùng đất này. Thời điểm những năm 1982-1983, khi nghề đan lưới còn làm hoàn toàn bằng thủ công, để đan được một tấm lưới hoàn chỉnh mất rất nhiều công đoạn và thời gian. Mỗi tấm lưới dù là đơn giản cũng phải cần từ 4-5 người đan bởi nghề đan có đặc thù là nhiều công đoạn và mỗi người lại chỉ chuyên thao tác nào đó. Bởi vậy, tuy nghề làm lưới không mang lại thu nhập cao cho người dân trong làng, nhưng người dân vẫn duy trì bởi nó tận dụng được thời gian rảnh rỗi của nghề nông. Thời điểm mang tính bước ngoặt trong nghề lưới cước, là vào các năm 1996 và 1997, khi mà lưới cước bắt đầu được sản xuất bằng máy. Các công đoạn thủ công đã được giảm đi nhiều, chỉ còn tập trung vào những khâu quan trọng trong quá trình sản xuất lưới. Thêm vào đó, thị trường những năm này cũng có nhiều thay đổi. Nếu ngày trước lưới chỉ chủ yếu sử dụng cho đánh bắt cá thì hiện nay nhu cầu sử dụng đã phong phú hơn rất nhiều. Ngoài lưới dùng để đánh bắt cá, lưới còn được sử dụng để bẫy chim, che hoa, che rau, làm bảo hiểm trong các công trình xây dựng .. Chính nhu cầu sử dụng cao của thị trường đã là yếu tố thúc đẩy nghề lưới cước của làng Trần Phú có những thay đổi vượt bậc. Hiện làng Trần Phú có gần 100 hộ có cửa hàng kinh doanh, xưởng sản xuất lưới với quy mô hàng chục nhân công. Theo như người dân trong làng kể lại, vào những năm 1980, sợi cước dùng để đan lưới ở Việt Nam không có. Các cụ trong làng đã phải đặt mua ở Nhật Bản và Singapore theo các đường cảng biển nhưng rất khó khăn và số lượng hạn chế. Ngày đó, thiết bị máy móc để sản xuất ra sợi cước này không ai dám nghĩ đến.Vậy mà hiện nay, ngay tại trên địa bàn xã đã có xưởng sản xuất sợi cước hiện đại được đầu tư gần chục tỷ đồng. Hiện nay, lưới cước Trần Phú đã có mặt ở khắp các tỉnh thành trong nước và xuất khẩu sang cả Trung Quốc, Lào, Campuchia, tạo công ăn việc làm và thu nhập ổn định cho không chỉ 1500 nhân khẩu của làng mà cả những địa phương khác.
+
+Đầu [[thế kỷ 19]], làng Văn Tự thuộc tổng Vạn Điểm huyện Thượng Phúc phủ Thường Tín trấn [[Sơn Nam (địa danh cũ Việt Nam)| Sơn Nam Thượng]].<ref>Cuốn ''Tên làng xã Việt Nam đầu thế kỷ 19'', trang 48.</ref>
+
+== Lịch sử== 
+Ngày 6/9/1986 thị trấn Phú Minh được thành lập theo Quyết định số 103/QĐ-HĐBT của Hội đồng Bộ trưởng (nay là Chính phủ). Thị trấn được tách ra từ xã Văn Nhân gồm: Thôn Nho Tống, xóm trại Văn Minh, các cơ quan xí nghiệp trạm, trại và trường Công nhân Cơ Điện II. Diện tích tự nhiên là 121,65 ha, dân số là 1467 hộ với 4922 khẩu.
+
+== Văn hóa== 
+Thị trấn công nghiệp Phú Minh (Phú Xuyên, Thành phố Hà Nội) là vùng đất cổ có bề dày văn hóa lịch sử lâu đời, xưa là làng Nho Tống có từ thời Tiền Lê (980-1009) thuộc xã Do Lễ, tổng [[Vạn Điểm]], phủ Thường Tín, tỉnh Hà Nội.
+
+Quá trình biển lùi và sự bồi đắp của phù sa sông Hồng từ hàng vạn năm kiến tạo hình thành nên, tổ tiên nơi đây đã khai phá đất đai, đắp đê trị thủy và tạo dựng 3 xóm (Nho Tống, Văn Minh, Chanh Thôn) lập thành làng Do Lễ gắn với tên Kẻ Chảy, Kẻ Trên, Kẻ Dưới. Ban đầu đều thờ chung Thành Hoàng Đoàn Thượng.. sau tách ra Chanh Thôn vai “anh cả” do giữ bát hương, Nho Tống vai “anh hai” giữ long ngai, Văn Minh vai “em út” giữ các đồ khí tự. Với phong tục tập quán thuần hậu thể hiện qua vần thơ “Hỡi cô thắt dải lưng xanh/ Có về làng Chảy với anh thì về/ Làng Chảy có cây bồ đề/ Có sông tắm mát nhiều nghề tinh anh” (mộc dân dụng, mộc cao cấp, khảm sơn mài, buôn bán thương mại, vật liệu xây dựng, dịch vụ chung chuyển từ xứ Đoài sang xứ Đông)...
+
+''Nhà thờ cụ Trần Tán Bình.''
+
+Thị trấn Phú Minh có ngôi đình cổ thờ Triệu Quang Phục (''Triệu Việt Vương'') làm Thành Hoàng Làng – người có công chống quân xâm lược nhà Lương, đóng quân ở đầm Dạ Trạch (Bãi Màn Trò, Khoái Châu, Hưng Yên). Ngày 13/4/548, Triệu Quang Phục lên ngôi vua xưng là Triệu Việt Vương. Năm 550, từ căn cứ Dạ Trạch tiến quân ra giết được tướng Dương Sàn (nhà Lương) thu được thành Long Biên. Khi đó ở [[Cửu Chân]] (Thanh Hóa) Lý Thiên Bảo và Lý Phật tử đóng quân ở động Dã Năng và xưng là Đào lang Vương, năm 555 Lý Thiên Bảo mất, binh quyền về tay Lý Phật Tử. Năm 557, Lý Phật Tử đem quân về đánh Triệu Việt Vương để giành ngôi vua cho nhà Lý nhưng đánh không thắng, Lý Phật Tử phải chia đất giảng hòa. Để tỏ rõ tình hòa hiếu, Triệu Việt Vương còn gả con gái là Cảo Nương cho con trai Lý Phật Tử là Nhã Lang. Năm 571, Lý Phật Tử phản trắc, bất ngờ đem quân đánh úp, do mất cảnh giác không phòng bị Triệu Quang Phục thua trận, thất thế rút chạy về phía Nam, cùng đường ông gieo mình xuống cửa biển Đại An (nay thuộc Nam Định) tuẫn tiết. Thương tiếc và nhớ ơn ông, người anh hùng cứu nước, nhân dân làng Nho Tống xây dựng đình, đền thờ phụng Ngài. Đình Nho Tống có niên đại từ vua Lê Thái Tổ (1428-1433)với bình đồ kiến trúc chữ môn, bốn mái đao cong, tọa lạc trên thế đất long giáng, trước có hồ nước rộng, cảnh quan đẹp, trông ra phía Tây Chúc có giếng cổ ẩm thủy. Đình còn: Nhiều bức cốn trạm khắc thời Lê thế kỷ 18, cỗ long ngai bài vị thờ Triệu Quang Phục thế kỷ 19, 5 đạo sắc phong, 2 văn bia hậu ký, 2 kiệu, bát bửu, 2 chóe sứ, 5 bát hương, 2 đôi lộc bình, bộ bát bửu, sập gỗ, hương án, giá văn, 3 hoành phi, 3 cửa võng, cuốn thư, đôi hạc gỗ, đôi nến đồng, đôi phỗng chầu.. cổ có giá trị. Năm “''Tự Đức nhị niên 1849''” đình được trùng tu tôn tạo và giữ được cho đến ngày nay.
+
+''Bia hậu ký 1 đình Nho Tống thị trấn Phú Minh.''
+
+''Bia hậu ký 2 đình Nho Tống thị trấn Phú Minh.''
+
+Đoàn Thượng “''Đông Hải Đại Vương Thượng Đẳng tối linh Thần tích''” thờ ở miếu Nho Tống, sinh ngày 12/8 năm Trinh Phù thứ 6, đời Lý Cao Tông vào giữa tiết Thu năm Tân Sửu. Thân mẫu Lý Thị mơ thấy mình bắt được Giao Long bên bờ Đông Hải. Thân phụ Đoàn Trung chọn ngay chữ Thượng đặt tên con, 15 tuổi mẹ mất, 4 năm sau cha về cùng tiên tổ. Ngài tạm biệt gia hương, đi khắp trốn thôn quê tầm sư học đạo. Triều đình mở khoa thi Tam Giáo, Ngài ứng thí đỗ Mậu Tài và được nhà vua chọn làm quan Trung Thị. Ghi tạc lời cha “''Mấy đời họ Đoàn hưởng ơn mưa móc, nên hết lòng mẫn cán, phò tá Lý triều, vì nước tận trung''”. Thương tiếc và nhớ ơn ông, làng “Chảy Nho Tống” lập miếu, đình thờ Ngài. Khắp Hồng Châu làng xã, bao Vương Đế hậu triều, bấy đạo chỉ sắc phong Thượng đẳng Tối Linh Thần Đông Hải ''“Anh hùng trung tín, dẫu chết vẫn như còn/ Đông Hải Đại Vương, Danh Thần thiêng vạn thế''”. Đức Thánh Đoàn Thượng hóa ngày 7/11. Ngài hiển thánh về đời vua Trần Thái Tôn, ngài là bậc trung thần phù nhà Lý, chống lại nhà Trần, chiêu dân lập ấp ở Bần Yên Nhân (Hưng Yên). Hiện có 242 đình, đền, miếu ở nước ta thờ.
+
+Làng Chảy Nho Tống có tục kiêng tên húy là “''Thượng''” và “''Phục''”, lúc đọc tế, nói trong ngày lễ hội cũng phải kiêng, đặc biệt kiêng “''chít khăn màu đỏ''”, đi vào đình miếu phải bỏ mũ nón, người dân không được làm nhà gần đình miếu và có nóc nhà cao hơn. Việc tế lễ xưa do tiên chỉ, thứ chỉ, kỳ mục, tư văn, nay giao cho Chi Hội Người cao tuổi đảm nhận. Trước khi tế lễ người được dự phải chay tịnh và tắm gội sạch sẽ, khi rước ngài trong lễ hội chọn giai tân, gái tú, các bô lão vợ chồng song toàn. Làng tổ chức lễ hội chính ngày 12/8 hàng năm (xưa từ 3-5 ngày) để tưởng nhớ công đức của nhị vị Thành hoàng đã có công khai sinh, lập địa, lập làng, giữ nước, đồng thời thông qua đó để giáo dục các thế hệ con cháu tự hào về quê hương, xứ sở, về giá trị văn hóa lịch sử lâu đời mà các bậc tiền nhân để lại (''đình+ miếu+ chùa Phổ Quang+ giếng cổ+ văn chỉ+ thần tích và bản hương ước cổ''). Lễ nghênh giá nhị vị Thành Hoàng từ miếu rước về đình. Tổ chức hành lễ, dâng cúng: Hương, trà, phẩm oản, mâm xôi, trầu cau, rượu, gà tươi, thủ lợn, gạo mới, cùng các thứ hoa quả mới (xưa hương ước quy định: ''Mỗi giáp thủ lợn một cái và ngũ tạng, một cái giò, một cái não; giáp nào từ 15– 30 người thì thủ lợn cân trọng 2 quan 5 tiền trở lên; giáp nào từ 31 người trở lên thủ lợn cân trọng 5 quan; nếu giáp nào làm 2 con lợn trở lên thì thủ lợn phải đệ cả, một thủ lễ ở miếu, một thủ lễ ở chùa và các Giáp trưởng mồi người phải một mâm xôi cái để thi - nhất thưởng 3 hào và 10 quả cau– xôi và thủ lợn đem thi, khi đồng dân khám hợp thức hay không sẽ có thưởng phạt như lệ'') ''-'' Nay do chính quyền, các đoàn thể, các xóm và nhân dân trong thôn đứng ra lo. Khi cúng xong đồ lễ ấy đồng dân thụ lộc. Tổ chức ca hát, văn nghệ, hát ca mới, hát chèo, hát văn, ca trù, hát trống quân, các trò vui chơi dân gian (''vật lầu, đánh cờ, đấu gậy, kéo co, bắt vịt, thể thao.. có thưởng''), đặc biệt tục đấu gậy xưa khi cướp vào làng đều phải ngán làng Nho Tống. Cứ 5 năm một lần làng lại tổ chức quy mô để tưởng nhớ công đức của nhị vị Thành Hoàng Làng, tổ chức hành lễ, dâng cúng: Trà, cau, oản, xôi, rượu, gà luộc, thủ lợn luộc, bánh bánh dày, cơm mới, hoa và quả mới, tiền vàng các loại. Xuân thu nhị kỳ, ngày Tết Nguyên Đán và ngày 12/giêng, Thượng Nguyên khánh lão, 12/2, 3/4, 10/4, 5/5, 15/7, 15/8, 18/8, 12/9, 6/11, 12/chạp, 30/chạp làng tổ chức hành lễ, dâng cúng: Hương, hoa, trà, cau, phẩm oản, quả mới, gạo mới, mùa nào thức ấy theo phong tục không có gì thay đổi.
+
+''Bảo tháp Báo nghiêm chùa Phổ Quang thị trấn Phú Minh.''
+
+''Cổng tam quan chùa Phổ Quang thị trấn Phú Minh.''
+
+Thị trấn Phú Minh vùng đất sinh ra và nuôi dưỡng nhiều bậc hiền tài: Tiêu biểu có cụ Trần Tán Bình thi đậu Tiến sĩ đời vua Thành Thái, vì bài thi phạm húy nên bị giáng xuống Phó Bảng (''khoa Ất Mùi, Thành Thái thứ 7 năm 1895''); làm quan đến chức (''Án sát, Tuần phủ Ninh Bình''); cụ có công mở mang các trường học, xây dựng đường xá (''đưa đường quốc lộ 73B từ Đỗ Xá về qua làng Nho Tống''), giúp đỡ và khuyến khích làm đồ xuất cảng (''dệt chiếu, vải, gai, dệt thảm, đồ gốm.. tại tỉnh Thái Bình, Nam Định, Ninh Bình''); tên tuổi của cụ có ghi ở Bia Văn Miếu–Huế, người dân Phú Xuyên– Thường Tín rất tâm đắc câu đối của cụ, hầu như nó trở thành câu nói cửa miệng của mọi người để răn mình và răn người ('''''Bán rượu, bán chè, đừng bán nước/ Buôn trăm, buôn chục, chớ buôn quan'''''). Thị trấn có bề dày lịch sử văn hóa với nhiều dấu tích, địa danh sau khi vua Quang Trung hành quân qua nơi đây và hạ trại để chỉnh đốn binh mã như: Vườn ông Bống, khu Tờ Chỉ (''địa danh phất cờ tập trung quân của đại quân Quang Trung''), khu Quần Ngựa (''nơi buộc ngựa chỉnh đốn binh mã''), lượng quân và dân hội tụ về đông như “'''''chảy hội'''''”…
+
+Thị trấn Phú Minh với thiết chế văn hóa “''cây đa - giếng nước - mái đình''” và “''trên bến - dưới thuyền''” của “''làng Chảy''” là biểu tượng đẹp nhất trong vùng. Hệ thống thiết chế văn hóa “''đình, chùa, miếu, giếng, nhà thờ họ, lăng đá cụ Trần Tán Bình''” còn nguyên vẹn, có giá trị cao về kiến trúc nghệ thuật hàng trăm năm. Thi trấn có khu hành chính Đảng ủy, HĐND, UBND và khối các đoàn thể khang trang, có 5 nhà văn hóa, sân kho hợp tác xã, 5 khu nhà trẻ mẫu giáo, 5 sân khấu ngoài trời, 5 sân vận động, nơi vui chơi giải trí cho người dân ở 5 khu dân cư. Nhất là chợ Phú Minh duy trì họp hàng ngày, quanh năm. “''Chiêng Trào, trống Chảy, mõ Cổ Châu''” xưa là sự hội tụ liên vùng (''3Làng Chảy có 3 bộ trống cái to thường vào ngày hội làng (11+12+13)/8 âm ngân vang cả vùng nghe thấy'').
+
+''Cây đa khu miếu cổ Thị trấn Phú Minh.''
+
+''Rước Thành Hoàng Triệu Quang Phục trong lễ hội thị trấn Phú Minh.''
+
+''Đội tế tham gia lễ hội làng thị trấn Phú Minh.''
+
+== Lịch sử== 
+Địa bàn xã Nam Tiến trước đây vốn là hai xã Thụy Phú và Văn Nhân thuộc huyện Phú Xuyên.
+
+Ngày [[6 tháng 9]] năm [[1986]], Hội đồng Bộ trưởng ban hành Quyết định 103-HĐBT<ref>{{Chú thích web| url = https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh103-HDBT-thanh-lap-thi-tran-cac-huyen-Luong-Son-Phu-Xuyen-tinh-Ha-Son-Binh/37168/noi-dung.aspx| tựa đề = Quyết định 103-HĐBT năm 1986 về việc thành lập một số thị trấn của các huyện Lương Sơn, Phú Xuyên thuộc tỉnh Hà Sơn Bình| tác giả = | họ = | tên = | ngày = | website = | url lưu trữ = | ngày lưu trữ = | ngày truy cập = }}</ref>. Theo đó, thành lập thị trấn Phú Minh trên cơ sở tách thôn Nhố Tống và xóm trại của thôn Văn Minh thuộc xã Văn Nhân.
+
+Sau khi điều chỉnh địa giới hành chính, xã Văn Nhân còn lại 377,4 ha diện tích tự nhiên, dân số là 3.425 người.
+
+Đến năm 2019, xã Văn Nhân có diện tích 3,30&nbsp;km², dân số là 5.963 người, mật độ dân số đạt 1.807 người/km². Xã Thụy Phú có diện tích 3,20&nbsp;km², dân số là 2.675 người, mật độ dân số đạt 836 người/km².
+
+Ngày [[11 tháng 2]] năm [[2020]], Ủy ban Thường vụ Quốc hội ban hành Nghị quyết số 895/NQ-UBTVQH14 về việc sắp xếp các đơn vị hành chính cấp xã thuộc thành phố Hà Nội (nghị quyết có hiệu lực từ ngày [[1 tháng 3]] năm [[2020]])<ref name = NQ895>{{Chú thích web| url = https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Nghi-quyet-895-NQ-UBTVQH14-2020-sap-xep-cac-don-vi-hanh-chinh-cap-xa-thuoc-thanh-pho-Ha-Noi-435412.aspx| tựa đề = Nghị quyết số 895/NQ-UBTVQH14 năm 2020 về việc sắp xếp các đơn vị hành chính cấp xã thuộc thành phố Hà Nội| tác giả = | họ = | tên = | ngày = | website = | url lưu trữ = | ngày lưu trữ = | ngày truy cập = }}</ref>. Theo đó, sáp nhập toàn bộ diện tích và dân số của hai xã Thụy Phú và Văn Nhân thành xã Nam Tiến.
+
+ -->
+
+== Hành chính ==
+Xã Phú Xuyên được chia thành 32 thôn: An Định, An Lãng, Bộ Đầu, Chanh Thôn, Cổ Châu, Duyên Trang, Duyên Yết, Đại Đồng, Đống Chanh, Đỗ Xá, Hà Thao, Khôn Thôn, Lam Sơn, Lạt Dương, Mỹ Lâm, Nam Phú, Nam Quất, Nguyên Hanh, Phong Triều, Phú An, Phú Cường, Phú Minh, Phú Mỹ, Phú Nhiêu, Quang Trung, Sơn Thanh, Thao Chính, Thống Nhất, Thụy Phú, Trần Phú, Vạn Điểm và Văn Minh.<ref name=":0" /><ref name=":1" />
+{| class="wikitable sortable" cellpadding="0" cellspacing="6" width="100%" align="center" style="background: #f9f9f9; border: 1px #aaa solid; margin-top: 16px"
+! colspan="4" style="background: #E6E6FA; font-size: 95%;" |Danh sách các thôn thuộc xã Phú Xuyên<ref name=":0" /><ref name=":1" />
+|-
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| cellpadding="1" cellspacing="1" width="100%" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |An Định
+|769
+|-
+| align="left" |An Lãng
+|629
+|-
+| align="left" |Bộ Đầu
+|595
+|-
+| align="left" |Chanh Thôn
+|951
+|-
+| align="left" |Cổ Châu
+|606
+|-
+| align="left" |Duyên Trang
+|627
+|-
+| align="left" |Duyên Yết
+|943
+|-
+| align="left" |Đại Đồng
+|1.147
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| cellpadding="1" cellspacing="1" width="100%" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Đống Chanh
+|746
+|-
+| align="left" |Đỗ Xá
+|1.197
+|-
+| align="left" |Hà Thao
+|1.051
+|-
+| align="left" |Khôn Thôn
+|771
+|-
+| align="left" |Lam Sơn
+|715
+|-
+| align="left" |Lạt Dương
+|833
+|-
+| align="left" |Mỹ Lâm
+|1.183
+|-
+| align="left" |Nam Phú
+|1.225
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| cellpadding="1" cellspacing="1" width="100%" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Nam Quất
+|812
+|-
+| align="left" |Nguyên Hanh
+|1.547
+|-
+| align="left" |Phong Triều
+|1.370
+|-
+| align="left" |Phú An
+|919
+|-
+| align="left" |Phú Cường
+|963
+|-
+| align="left" |Phú Minh
+|902
+|-
+| align="left" |Phú Mỹ
+|1.116
+|-
+| align="left" |Phú Nhiêu
+|619
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| cellpadding="1" cellspacing="1" width="100%" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Quang Trung
+|1.132
+|-
+| align="left" |Sơn Thanh
+|904
+|-
+| align="left" |Thao Chính
+|818
+|-
+| align="left" |Thống Nhất
+|739
+|-
+| align="left" |Thụy Phú
+|991
+|-
+| align="left" |Trần Phú
+|891
+|-
+| align="left" |Vạn Điểm
+|1.285
+|-
+| align="left" |Văn Minh
+|956
+|}
+|}
+
+== Hình ảnh ==
+<gallery>
+Chùa Đinh Xá 2, Văn Tự, Thường Tín, Hà Nội.jpeg| Chùa Đinh Xá
+Chùa Đinh Xá, Văn Tự, Thường Tín, Hà Nội.jpeg| Chùa Đinh Xá
+</gallery>
+== Chú thích== 
+{{tham khảo| 30em}}
+
+== Tham khảo== 
+{{sơ khai Hà Nội}}
+{{Đơn vị hành chính thuộc thành phố Hà Nội}}

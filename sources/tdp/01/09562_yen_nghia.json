@@ -1,0 +1,100 @@
+{
+  "ward_code": "09562",
+  "ward_name": "Yên Nghĩa",
+  "province_code": "01",
+  "resolution": "",
+  "arrangement": "2026_07",
+  "effective_date": "2026-07-01",
+  "verified": "unverified",
+  "extraction": {
+    "source": "vi.wikipedia.org",
+    "title": "(cache)",
+    "mode": "table"
+  },
+  "sources": [
+    {
+      "key": "wiki-09562-1",
+      "title": "Nghị quyết số 13/NQ-HĐND ngày 26 tháng 8 năm 2025 của Hội đồng nhân dân xã Yên Nghĩa về việc đổi tên tổ dân phố sau sắp xếp đơn vị hành chính phường Yên Nghĩa",
+      "url": "https://yennghia.hanoi.gov.vn/chi-dao-dieu-hanh/nghi-quyet-cua-hdnd-phuong-ve-viec-doi-ten-tdp-sau-sap-xep-don-vi-hanh-chinh-phuong-yen-nghia-2782250828153506825.htm",
+      "date": "",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-09562-2",
+      "title": "Nghị quyết số 111/2025/UBTVQH15 ngày 24 tháng 12 năm 2025 của Ủy ban Thường vụ Quốc hội về phân loại đô thị",
+      "url": "https://cdn.nhandan.vn/files/f4a4abf7f9a0ba4a91744616546d850872b76917f90d5a74cc9eebef1369fb6f/111.pdf",
+      "date": "2026-07-12",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-09562-3",
+      "title": "Quyết định số 58/QĐ-UBND ngày 24 tháng 1 năm 2026 của Ủy ban nhân dân phường Yên Nghĩa về việc thành lập khu vực bỏ phiếu bầu cử đại biểu Quốc hội khóa XVI và đại biểu Hội đồng nhân dân các cấp nhiệm kỳ 2026 – 2031 trên địa bàn phường Yên Nghĩa",
+      "url": "https://yennghia.hanoi.gov.vn/chi-dao-dieu-hanh/quyet-dinhthanh-lap-khu-vuc-bo-phieu-bau-cu-dai-bieu-quoc-hoi-khoa-xvi-va-dai-bieu-hoi-dong-nhan-dan-cac-cap-nhiem-ky-2026-2031-tren-dia-ban-phuong-yen-nghia-2782260128094536538.htm",
+      "date": "",
+      "type": "wikipedia-ref"
+    }
+  ],
+  "note": "Trích tự động từ Wikipedia tiếng Việt (mode=table). Cần đối chiếu nghị quyết HĐND phường/xã.",
+  "tdp": [
+    {
+      "name": "An Định",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "An Lạc",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Cổ Bản",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Do Lộ",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Đồng Dương",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Đồng Hòang",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Hòa Bình",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Nhân Huệ",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Nhân Sơn",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Quốc An",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Quyết Thắng",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Trung Hưng",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Yên Bình",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Yên Hòa",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Yên Phúc",
+      "type": "tổ dân phố"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "ward_code": "07954",
+  "ward_name": "Phong Châu",
+  "province_code": "25",
+  "resolution": "",
+  "arrangement": "2026_07",
+  "effective_date": "2026-07-01",
+  "verified": "unverified",
+  "extraction": {
+    "source": "vi.wikipedia.org",
+    "title": "Phong Châu (phường)",
+    "mode": "narrative"
+  },
+  "sources": [
+    {
+      "key": "wiki-07954-1",
+      "title": "Danh sách và tiểu sử tóm tắt người ứng cử đại biểu Hội đồng nhân dân phường Phong Châu khóa XI, nhiệm kỳ 2026 - 2031 - Đơn vị bầu cử số 01",
+      "url": "https://phongchau.phutho.gov.vn/index.php/tin-tuc-su-kien/chinh-tri/danh-sach-va-tieu-su-tom-tat-nguoi-ung-cu-dai-bieu-hdnd-phuong-phong-chau-khoa-xi-nhiem-ky-2026-2031?highlight=WyJjXHUxZWVkIl0=",
+      "date": "2026-03-02",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-07954-2",
+      "title": "Danh sách và tiểu sử tóm tắt người ứng cử đại biểu Hội đồng nhân dân phường Phong Châu khóa XI, nhiệm kỳ 2026 - 2031 - Đơn vị bầu cử số 02",
+      "url": "https://phongchau.phutho.gov.vn/index.php/tin-tuc-su-kien/chinh-tri/danh-sach-va-tieu-su-tom-tat-nguoi-ung-cu-dai-bieu-hdnd-phuong-phong-chau-khoa-xi-nhiem-ky-2026-2032?highlight=WyJjXHUxZWVkIl0=",
+      "date": "2026-03-02",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-07954-3",
+      "title": "Danh sách và tiểu sử tóm tắt người ứng cử đại biểu Hội đồng nhân dân phường Phong Châu khóa XI, nhiệm kỳ 2026 - 2031 - Đơn vị bầu cử số 03",
+      "url": "https://phongchau.phutho.gov.vn/index.php/tin-tuc-su-kien/chinh-tri/danh-sach-va-tieu-su-tom-tat-nguoi-ung-cu-dai-bieu-hdnd-phuong-phong-chau-khoa-xi-nhiem-ky-2026-2031-don-vi-bau-cu-so-03?highlight=WyJjXHUxZWVkIl0=",
+      "date": "2026-03-02",
+      "type": "wikipedia-ref"
+    }
+  ],
+  "note": "Trích tự động từ Wikipedia tiếng Việt (mode=narrative). Cần đối chiếu nghị quyết HĐND phường/xã.",
+  "tdp": [
+    {
+      "name": "Hà Thạch",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Lũng Thượng",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Phú An",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Phú Cường",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Phú Điền",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Phú Hộ",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Phú Lợi",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Phú Xuân",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Phúc Lợi",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Thống Nhất",
+      "type": "tổ dân phố"
+    }
+  ]
+}

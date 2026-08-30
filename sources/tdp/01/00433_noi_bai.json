@@ -1,0 +1,108 @@
+{
+  "ward_code": "00433",
+  "ward_name": "Nội Bài",
+  "province_code": "01",
+  "resolution": "",
+  "arrangement": "2026_07",
+  "effective_date": "2026-07-01",
+  "verified": "unverified",
+  "extraction": {
+    "source": "vi.wikipedia.org",
+    "title": "(cache)",
+    "mode": "table"
+  },
+  "sources": [
+    {
+      "key": "wiki-00433-1",
+      "title": "Công bố danh sách chính thức những người ứng cử đại biểu Hội đồng nhân dân xã Nội Bài nhiệm kỳ 2026 – 2031",
+      "url": "https://noibai.hanoi.gov.vn/bau-cu-dai-bieu-quoc-hoi-khoa-xvi-va-dai-bieu-hdnd-cac-cap-nhiem-ky-2026-2031/cong-bo-danh-sach-chinh-thuc-nhung-nguoi-ung-cu-dai-bieu-hdnd-xa-noi-bai-nhiem-ky-2026-2031-2723260226151631137.htm",
+      "date": "2026-02-25",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-00433-2",
+      "title": "Nghị quyết số 1656/NQ-UBTVQH15 ngày 16 tháng 6 năm 2025 của Ủy ban Thường vụ Quốc hội về việc sắp xếp các đơn vị hành chính cấp xã của thành phố Hà Nội năm 2025",
+      "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf",
+      "date": "2026-05-13",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-00433-3",
+      "title": "Kỳ họp thứ ba, Hội đồng nhân dân xã Nội Bài: Đánh giá toàn diện tình hình kinh tế – xã hội 6 tháng đầu năm 2026",
+      "url": "https://nguoihanoi.vn/ky-hop-thu-ba-hdnd-xa-noi-bai-danh-gia-toan-dien-tinh-hinh-kinh-te-xa-hoi-6-thang-dau-nam-2026-101440.html",
+      "date": "2026-06-26",
+      "type": "wikipedia-ref"
+    }
+  ],
+  "note": "Trích tự động từ Wikipedia tiếng Việt (mode=table). Cần đối chiếu nghị quyết HĐND phường/xã.",
+  "tdp": [
+    {
+      "name": "Đông Lai",
+      "type": "thôn"
+    },
+    {
+      "name": "Hiền Lương",
+      "type": "thôn"
+    },
+    {
+      "name": "Hương Gia",
+      "type": "thôn"
+    },
+    {
+      "name": "Kim Anh",
+      "type": "thôn"
+    },
+    {
+      "name": "Nam Cương",
+      "type": "thôn"
+    },
+    {
+      "name": "Ninh Bắc",
+      "type": "thôn"
+    },
+    {
+      "name": "Ninh Môn",
+      "type": "thôn"
+    },
+    {
+      "name": "Phù Xá Đòai",
+      "type": "thôn"
+    },
+    {
+      "name": "Phù Xá Đông",
+      "type": "thôn"
+    },
+    {
+      "name": "Tân Trại",
+      "type": "thôn"
+    },
+    {
+      "name": "Thanh Nhàn",
+      "type": "thôn"
+    },
+    {
+      "name": "Thạch Lỗi",
+      "type": "thôn"
+    },
+    {
+      "name": "Thắng Lợi",
+      "type": "thôn"
+    },
+    {
+      "name": "Thụy Hương",
+      "type": "thôn"
+    },
+    {
+      "name": "Trung Na",
+      "type": "thôn"
+    },
+    {
+      "name": "Xuân Bách",
+      "type": "thôn"
+    },
+    {
+      "name": "Yên Ninh",
+      "type": "thôn"
+    }
+  ]
+}

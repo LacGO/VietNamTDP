@@ -1,0 +1,53 @@
+{{Thông tin đơn vị hành chính Việt Nam
+| tên = Lai Đồng
+| vai trò hành chính = Xã
+| hình = 
+| ghi chú hình = 
+| vĩ độ = 21
+| kinh độ = 104
+| vĩ phút = 12
+| vĩ giây = 54
+| kinh phút = 54
+| kinh giây = 55
+| diện tích = 108,45 km²<ref name=MS/>
+| dân số = 16.321 người<ref name=MS/>
+| thời điểm dân số = 2025
+| mật độ dân số = {{formatnum:{{#expr:floor({{formatnum:16.321|R}}/{{formatnum:108,45|R}})}} }} người/km²
+| dân tộc = 
+| vùng = [[Đông Bắc Bộ]]
+| tỉnh = [[Phú Thọ]]
+| thành lập =16 tháng 6 năm 2025<ref>Nghị quyết số 1676/NQ-UBTVQH15</ref> 
+| trụ sở UBND =Khu Vường 1 
+| mã hành chính = 08560<ref>{{Chú thích web |url=https://danhmuchanhchinh.gso.gov.vn/ |title=Tổng cục Thống kê |access-date=2022-03-24 |archive-date=2021-01-10 |archive-url=https://web.archive.org/web/20210110034519/https://www.gso.gov.vn/phuong-phap-thong-ke/danh-muc/don-vi-hanh-chinh/ |url-status=dead }}</ref>
+| mã bưu chính =35561 
+|web={{url|https://laidong.phutho.gov.vn/}}}}
+
+'''Lai Đồng''' là một [[Xã (Việt Nam)|xã]] thuộc tỉnh [[Phú Thọ]], [[Việt Nam]].
+
+== Địa lý ==
+Xã Lai Đồng nằm ở phía Tây tỉnh Phú Thọ, có vị trí địa lý<ref>{{Chú thích web |title=Đơn vị hành chính Việt Nam |url=https://sapnhap.bando.com.vn/ |access-date=2026-06-13 |website=sapnhap.bando.com.vn}}</ref>:
+
+* Phía Bắc giáp xã [[Thu Cúc]].
+* Phía Nam giáp xã [[Xuân Đài (xã)|Xuân Đài]].
+* Phía Tây giáp xã [[Mường Bang]], tỉnh [[Sơn La]].
+* Phía Đông giáp xã [[Tân Sơn, Phú Thọ|Tân Sơn]].
+
+Xã có diện tích 108,45&nbsp;km², dân số năm 2025 là 16.321 người, mật độ dân số đạt {{formatnum:{{#expr:floor({{formatnum:16.321|R}}/{{formatnum:108,45|R}})}} }} người/km².
+
+==Hành chính==
+Xã Lai Đồng được chia thành 31 khu: 4, 7, 12, Bến Thân, Bương, Chiềng 1, Chiềng 2, Chiềng Lớn, Dọc, Đoàn, Đồng, Đồng Than, Hoạt, Hòa, Ít, Kết, Lèn, Măng 1, Măng 2, Mít 1, Mít 2, Phắt, Sận, Thính, Thừ 1, Thừ 2, Vường 1, Vường 2, Xóm Mới, Xuân 1, Xuân 2.<ref name=":1">{{Chú thích web |last=Bộ Dân tộc và Tôn giáo |date=2026-01-29 |title=Danh sách Thôn vùng đồng bào dân tộc thiểu số và miền núi, thôn đặc biệt khó khăn giai đoạn 2026 - 2030 trên địa bàn tỉnh Phú Thọ |url=http://files.ubdt.gov.vn/files/ecm/source_files/2026/02/05/11252411_4.%20Ph%C3%BA%20Th%E1%BB%8D%201%20(th%C3%B4n).signed_26-02-05.pdf |url-status=live |archive-url=https://web.archive.org/web/20260417090807/http://files.ubdt.gov.vn/files/ecm/source_files/2026/02/05/11252411_4.%20Ph%C3%BA%20Th%E1%BB%8D%201%20(th%C3%B4n).signed_26-02-05.pdf |archive-date=2026-04-17 |access-date=2026-04-17 |website=Cổng Thông tin điện tử Bộ Dân tộc và Tôn giáo}}</ref><ref>{{Chú thích web |last=Trang Thông tin điện tử xã Lai Đồng - tỉnh Phú Thọ |date=2026-03-15 |title=Danh sách chính thức các ứng cử viên Hội đồng nhân dân xã Lai Đồng nhiệm kỳ 2026 - 2031 |url=https://laidong.phutho.gov.vn/index.php/tin-tuc-su-kien/tin-noi-bat/danh-sach-chinh-thuc-cac-ung-cu-vien-hdnd-xa-lai-dong-nhiem-ky-2026-2031-2031 |url-status=live |archive-url=https://web.archive.org/web/20260421090807/https://laidong.phutho.gov.vn/index.php/tin-tuc-su-kien/tin-noi-bat/danh-sach-chinh-thuc-cac-ung-cu-vien-hdnd-xa-lai-dong-nhiem-ky-2026-2031-2031 |archive-date=2026-04-21 |access-date=2026-04-21}}</ref>
+
+==Lịch sử==
+Trước kia, Lai Đồng là một xã thuộc huyện [[Tân Sơn (huyện)|Tân Sơn]] cũ.
+
+Ngày [[16 tháng 6]] năm [[2025]]:
+
+* [[Quốc hội Việt Nam|Quốc hội]] ban hành Nghị quyết số 203/2025/QH15 về việc sửa đổi, bổ sung một số điều của Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam (nghị quyết có hiệu lực từ ngày [[16 tháng 6]] năm [[2025]]).<ref>{{Chú thích web |last=xaydungchinhsach.chinhphu.vn |date=2025-06-28 |title=NGHỊ QUYẾT 203/2025/QH15 SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA HIẾN PHÁP NƯỚC CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM |url=https://xaydungchinhsach.chinhphu.vn/nghi-quyet-203-2025-qh15-sua-doi-bo-sung-mot-so-dieu-cua-hien-phap-nuoc-cong-hoa-xa-hoi-chu-nghia-viet-nam-119250616181735552.htm |url-status=live |archive-url=http://web.archive.org/web/20260715200606/https://xaydungchinhsach.chinhphu.vn/nghi-quyet-203-2025-qh15-sua-doi-bo-sung-mot-so-dieu-cua-hien-phap-nuoc-cong-hoa-xa-hoi-chu-nghia-viet-nam-119250616181735552.htm |archive-date=2026-07-15 |access-date=2026-07-15 |website=Báo Điện tử Chính phủ |language=vi}}</ref> Theo đó, kết thúc hoạt động của đơn vị hành chính cấp huyện trong cả nước từ ngày 1 tháng 7 năm 2025.
+* [[Ủy ban Thường vụ Quốc hội]] ban hành Nghị quyết số 1676/NQ-UBTVQH15 về việc sắp xếp đơn vị hành chính cấp xã của tỉnh [[Phú Thọ]] năm 2025 (nghị quyết có hiệu lực từ ngày [[16 tháng 6]] năm [[2025]]).<ref>{{Chú thích web |last=xaydungchinhsach.chinhphu.vn |date=2025-06-20 |title=Nghị quyết số 1676/NQ-UBTVQH15 sắp xếp các ĐVHC cấp xã của tỉnh Phú Thọ năm 2025 |url=https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-1676-nq-ubtvqh15-sap-xep-cac-dvhc-cap-xa-cua-tinh-phu-tho-nam-2025-119250616204317326.htm |url-status=live |archive-url=http://web.archive.org/web/20260725082021/https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-1676-nq-ubtvqh15-sap-xep-cac-dvhc-cap-xa-cua-tinh-phu-tho-nam-2025-119250616204317326.htm |archive-date=2026-07-25 |access-date=2026-07-27 |website=Báo Điện tử Chính phủ |language=vi}}</ref> Theo đó, sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của các xã Kiệt Sơn, Tân Sơn, Đồng Sơn và Lai Đồng thành xã mới có tên gọi là '''xã Lai Đồng'''.
+
+==Chú thích==
+{{tham khảo|30em}}
+
+==Tham khảo==
+{{sơ khai Phú Thọ}}
+{{Đơn vị hành chính thuộc tỉnh Phú Thọ}}

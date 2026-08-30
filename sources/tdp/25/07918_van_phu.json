@@ -1,0 +1,128 @@
+{
+  "ward_code": "07918",
+  "ward_name": "Vân Phú",
+  "province_code": "25",
+  "resolution": "",
+  "arrangement": "2026_07",
+  "effective_date": "2026-07-01",
+  "verified": "unverified",
+  "extraction": {
+    "source": "vi.wikipedia.org",
+    "title": "Vân Phú",
+    "mode": "narrative"
+  },
+  "sources": [
+    {
+      "key": "wiki-07918-1",
+      "title": "Nghị quyết số 1/NQ-UBBC về iệc ấn định và công bố số đơn vị bầu cử, danh sách các đơn vị bầu cử và số đại biểu Hội đồng nhân dân phường Vân Phú khóa XXV được bầu ở mỗi đơn vị bầu cử, nhiệm kỳ 2026 - 2031",
+      "url": "https://vanphu.phutho.gov.vn/index.php/van-ban-phap-quy?task=download.send&id=2&catid=3&m=0",
+      "date": "2025-12-22",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-07918-2",
+      "title": "NGHỊ QUYẾT 203/2025/QH15 SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA HIẾN PHÁP NƯỚC CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM",
+      "url": "https://xaydungchinhsach.chinhphu.vn/nghi-quyet-203-2025-qh15-sua-doi-bo-sung-mot-so-dieu-cua-hien-phap-nuoc-cong-hoa-xa-hoi-chu-nghia-viet-nam-119250616181735552.htm",
+      "date": "2025-06-28",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-07918-3",
+      "title": "Nghị quyết số 1676/NQ-UBTVQH15 sắp xếp các ĐVHC cấp xã của tỉnh Phú Thọ năm 2025",
+      "url": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-1676-nq-ubtvqh15-sap-xep-cac-dvhc-cap-xa-cua-tinh-phu-tho-nam-2025-119250616204317326.htm",
+      "date": "2025-06-20",
+      "type": "wikipedia-ref"
+    }
+  ],
+  "note": "Trích tự động từ Wikipedia tiếng Việt (mode=narrative). Cần đối chiếu nghị quyết HĐND phường/xã.",
+  "tdp": [
+    {
+      "name": "An Thái",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Ba Nhất",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Chiến Thắng",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Đòan Kết",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Hợp Nhất",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Hùng Lô",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Kim Chung",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Kim Duy",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Kim Đơi",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Kim Đức",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Kim Phú",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Kim Thịnh",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Kim Tiến",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Minh Phú",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Minh Tân",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Phú Nang",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Phượng An",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Phượng Lâu",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "San Mai",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Thành Đồng",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Thậm Thình",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Vân Luông",
+      "type": "tổ dân phố"
+    }
+  ]
+}

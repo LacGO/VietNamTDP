@@ -1,0 +1,132 @@
+{
+  "ward_code": "08746",
+  "ward_name": "Xuân Hoà",
+  "province_code": "25",
+  "resolution": "",
+  "arrangement": "2026_07",
+  "effective_date": "2026-07-01",
+  "verified": "unverified",
+  "extraction": {
+    "source": "vi.wikipedia.org",
+    "title": "Xuân Hòa, Phú Thọ",
+    "mode": "narrative"
+  },
+  "sources": [
+    {
+      "key": "wiki-08746-1",
+      "title": "Nghị quyết số 2/NQ-UBBC về việc công bố danh sách chính thức những người ứng cử đại biểu Hội đồng nhân dân phường Xuân Hòa Khóa XIV, nhiệm kỳ 2026-2031 theo từng đơn vị bầu cử",
+      "url": "https://xuanhoa.phutho.gov.vn/images/N%C4%83m_2026/NQ_C%C3%94NG_B%E1%BB%90_DANH_S%C3%81CH_CH%C3%8DNH_TH%E1%BB%A8C_NG%C6%AF%E1%BB%9CI_%E1%BB%A8NG_C%E1%BB%AC_%C4%90B_H%C4%90ND_PH%C6%AF%E1%BB%9CNG.pdf",
+      "date": "2026-02-12",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-08746-2",
+      "title": "NGHỊ QUYẾT 203/2025/QH15 SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA HIẾN PHÁP NƯỚC CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM",
+      "url": "https://xaydungchinhsach.chinhphu.vn/nghi-quyet-203-2025-qh15-sua-doi-bo-sung-mot-so-dieu-cua-hien-phap-nuoc-cong-hoa-xa-hoi-chu-nghia-viet-nam-119250616181735552.htm",
+      "date": "2025-06-28",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-08746-3",
+      "title": "Nghị quyết số 1676/NQ-UBTVQH15 sắp xếp các ĐVHC cấp xã của tỉnh Phú Thọ năm 2025",
+      "url": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-1676-nq-ubtvqh15-sap-xep-cac-dvhc-cap-xa-cua-tinh-phu-tho-nam-2025-119250616204317326.htm",
+      "date": "2025-06-20",
+      "type": "wikipedia-ref"
+    }
+  ],
+  "note": "Trích tự động từ Wikipedia tiếng Việt (mode=narrative). Cần đối chiếu nghị quyết HĐND phường/xã.",
+  "tdp": [
+    {
+      "name": "An Đồng",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Bảo An",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Cao Quang",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Đại Quang",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Đồng Chằm",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Đồng Qùy",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Đồng Xuân",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Đức Cung",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Hiển Lễ",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Hòa Bình",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Lập Đinh",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Miếu Gỗ",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Ngọc Thanh",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Quyết Thắng",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Sơn Đồng",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Thanh Bình",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Thanh Lộc",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Thắng Lợi",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Thống Nhất",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Xuân Hòa 1",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Xuân Hòa 2",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Yên Điềm",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Yên Mỹ",
+      "type": "tổ dân phố"
+    }
+  ]
+}

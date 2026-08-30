@@ -1,0 +1,189 @@
+{{Thông tin đơn vị hành chính Việt Nam |Phường
+| tên = Vĩnh Hưng
+| hình = Newone - Thanh Tri bridge.jpg 
+| ghi chú hình = Khu công viên sinh thái Vĩnh Hưng nhìn từ cầu Thanh Trì, 2018
+| vĩ độ = 20.995389664324627
+| kinh độ = 105.88648623487538
+| diện tích = 4,47 km²
+| dân số = 67.561 người
+| thời điểm dân số = 2025
+| mật độ dân số = {{formatnum:{{#expr:floor({{formatnum:67.561| R}}/{{formatnum:4,47| R}})}} }} người/km²
+| vùng = [[Đồng bằng sông Hồng]]
+| thành phố = [[Hà Nội]]
+| quận = 
+| trụ sở UBND =Số 177 phố Thanh Đàm<ref>{{Chú thích web |url=https://storage-vnportal.vnpt.vn/gov-hni/6244/VanBan/2025/6/25/TB-729-2025.pdf |title=Thông báo số 729/TB-UBND ngày 25 tháng 6 năm 2025 của Ủy ban nhân dân thành phố Hà Nội về địa điểm trụ sở làm việc của 126 phường, xã sau sắp xếp thuộc phạm vi quản lý của thành phố Hà Nội|access-date=2026-06-15 |archive-date=2026-06-15 |archive-url=https://web.archive.org/web/20260615034519/https://storage-vnportal.vnpt.vn/gov-hni/6244/VanBan/2025/6/25/TB-729-2025.pdf |url-status=dead | website = Cổng Thông tin điện tử Ủy ban nhân dân thành phố Hà Nội}}</ref> 
+| mã hành chính = 00301<ref>{{Chú thích web |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/19ttg.signed.pdf |title=Quyết định số 19/2025/QĐ-TTg ngày 30 tháng 6 năm 2025 của Thủ tướng Chính phủ về việc Ban hành Bảng danh mục và mã số các đơn vị hành chính Việt Nam |access-date=2026-06-15 |archive-date=2026-06-15 |archive-url=https://web.archive.org/web/20260615034519/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/19ttg.signed.pdf |url-status=dead | website = Cổng Thông tin điện tử Chính phủ}}</ref> 
+| web = {{url|vinhhung.hanoi.gov.vn}}
+| bản đồ 1 = [[File:Vinh Hung map.png| 300px]]
+| tựa bản đồ 1 = Bản đồ phường Vĩnh Hưng
+|trụ sở Đảng ủy=Số 177 phố Thanh Đàm}}
+{{other|Vĩnh Hưng (định hướng)}}
+'''Vĩnh Hưng''' là một [[Phường (Việt Nam)|phường]] thuộc thành phố [[Hà Nội]], [[Việt Nam]].
+
+== Địa lý== 
+Phường Vĩnh Hưng có vị trí địa lý:
+
+*Phía đông giáp phường [[Lĩnh Nam (phường)|Lĩnh Nam]] (ranh giới đi theo đường đê Nguyễn Khoái)
+* Phía tây giáp phường [[Vĩnh Tuy (phường)|Vĩnh Tuy]] và phường [[Tương Mai]] (ranh giới đi theo phố Dương Văn Bé – phố Tân Khai – đường Lĩnh Nam)
+* Phía nam giáp phường [[Hoàng Mai, Hà Nội|Hoàng Mai]] (ranh giới đi theo đường Lĩnh Nam)
+* Phía bắc giáp phường [[Lĩnh Nam (phường)|Lĩnh Nam]] (ranh giới đi theo đường đê Nguyễn Khoái).<ref>{{Chú thích web |last=Báo Điện tử Chính phủ |date=2025-04-28 |title=Chi tiết dự thảo phương án sắp xếp các phường của Hà Nội |url=https://xaydungchinhsach.chinhphu.vn/chi-tiet-du-thao-phuong-an-sap-xep-cac-phuong-cua-ha-noi-119250421100531902.htm |url-status=live |archive-url=https://web.archive.org/web/20260710401509/https://xaydungchinhsach.chinhphu.vn/chi-tiet-du-thao-phuong-an-sap-xep-cac-phuong-cua-ha-noi-119250421100531902.htm |archive-date=2026-07-10 |access-date=2026-07-10 |website=Xây dựng chính sách, pháp luật}}</ref><ref name=":0" /><ref>{{Chú thích web |last=Cơ quan Báo và Phát thanh Truyền hình Hà Nội |date=2025-07-04 |title=Phường Vĩnh Hưng: Tất cả thông tin chỉ dẫn bạn cần biết |url=https://hanoionline.vn/phuong-vinh-hung-tat-ca-thong-tin-chi-dan-ban-can-biet-344598.htm |url-status=dead |archive-url=https://web.archive.org/web/20260819401509/https://hanoionline.vn/phuong-vinh-hung-tat-ca-thong-tin-chi-dan-ban-can-biet-344598.htm |archive-date=2026-08-19 |access-date=2026-08-19}}</ref>
+Phường Vĩnh Hưng có diện tích tự nhiên là 4,47&nbsp;km<sup>2</sup>, quy mô dân số năm 2025 là 67.561 người và mật độ dân số đạt 15.114 người/km<sup>2</sup>.<ref>{{Chú thích web |last=Mai Hữu |date=2026-04-05 |title=Hà Nội: Chi tiết phương án tổng thể sắp xếp đơn vị hành chính cấp xã |url=https://hanoimoi.vn/ha-noi-chi-tiet-phuong-an-tong-the-sap-xep-don-vi-hanh-chinh-cap-xa-700278.html |url-status=live |archive-url=https://web.archive.org/web/20260711401509/https://hanoimoi.vn/ha-noi-chi-tiet-phuong-an-tong-the-sap-xep-don-vi-hanh-chinh-cap-xa-700278.html |archive-date=2026-07-11 |access-date=2026-07-11 |website=Cơ quan Báo và Phát thanh, truyền hình Hà Nội}}</ref><ref>Công văn số 2896/BNV-CQĐP ngày 27 tháng 5 năm 2025 của Bộ Nội vụ về việc cung cấp thông tin danh mục dự kiến đơn vị hành chính cấp xã mới.</ref>
+
+== Lịch sử==
+
+=== Trước năm 1976 ===
+Khu vực này vốn là Vĩnh Hưng Trang. Đến năm 1740, vua [[Lê Hiển Tông]] lên ngôi lấy niên hiệu Cảnh Hưng nên Vĩnh Hưng Trang được đổi thành xã Vĩnh Tuy.<ref name=":1">{{Chú thích web | date = 2004-08-31 | title = Vĩnh Hưng – từ xã thành phường | url = https://hanoimoi.vn/vinh-hung-tu-xa-thanh-phuong-39177.html | url-status = dead | access-date = 2026-08-19 | website = Cơ quan Báo và Phát thanh, truyền hình Hà Nội|last=HNM|archive-url=https://web.archive.org/web/20260819201510/https://hanoimoi.vn/vinh-hung-tu-xa-thanh-phuong-39177.html|archive-date=2026-08-19}}</ref>
+
+Trước đây, xã Vĩnh Tuy gồm các thôn Thượng, Đoài, Tân Khai, Đông Thiên và Trung Lập. Năm 1956, Trung Lập nhập về xã [[Lĩnh Nam (phường)|Lĩnh Nam]].<ref>{{Chú thích web | last = Thảo Chí | date = 20 tháng 4 năm 2025 | title = Lịch sử 7 địa danh đơn vị hành chính cơ sở của quận Hoàng Mai | url = https://kinhtedothi.vn/lich-su-7-dia-danh-don-vi-hanh-chinh-co-so-cua-quan-hoang-mai.679723.html | url-status = live | access-date = 11 tháng 8 năm 2025 | website = Báo Kinh tế Đô thị}}</ref> Năm 1982, vùng đất Vĩnh Tuy Đoài được nhập vào nội thành Hà Nội để thành lập phường [[Vĩnh Tuy (phường)|Vĩnh Tuy]], thuộc quận [[Hai Bà Trưng (quận)|Hai Bà Trưng]].<ref name=":0">{{Chú thích web |last=Viện nghiên cứu Phát triển kinh tế – xã hội Hà Nội |date=2025-07-02 |title=Phường Vĩnh Hưng: Những thông tin chi tiết sau sắp xếp |url=https://hanoionline.vn/phuong-vinh-hung-nhung-thong-tin-chi-tiet-sau-sap-xep-344229.htm |url-status=live |archive-url=https://web.archive.org/web/20260701400809/https://hanoionline.vn/phuong-vinh-hung-nhung-thong-tin-chi-tiet-sau-sap-xep-344229.htm |archive-date=2026-07-01 |access-date=2026-07-01 |website=Cơ quan Báo và Phát thanh Truyền hình Hà Nội}}</ref><ref name = ":1" />
+
+=== Giai đoạn 1976 – nay ===
+Sau ngày 2 tháng 7 năm 1976, 3 xã: Lĩnh Nam, Thanh Trì và Vĩnh Tuy thuộc huyện [[Thanh Trì (huyện)|Thanh Trì]]; tiểu khu Vĩnh Tuy thuộc khu phố [[Hai Bà Trưng (quận)|Hai Bà Trưng]] của thành phố [[Hà Nội]].
+
+Ngày 3 tháng 1 năm 1981, từ nay ở nội thành, đơn vị hành chính cấp dưới trực tiếp của [[Thành phố trực thuộc trung ương (Việt Nam)|thành phố trực thuộc trung ương]] đều thống nhất gọi là [[Quận (Việt Nam)|quận]]; các đơn vị hành chính cơ sở ở nội thành, nội thị của các [[Thành phố thuộc tỉnh (Việt Nam)|thành phố thuộc tỉnh]], [[Thị xã (Việt Nam)|thị xã]] và [[Quận (Việt Nam)|quận]] gọi là [[Phường (Việt Nam)|phường]]. Khi đó, phường Vĩnh Tuy thuộc quận [[Hai Bà Trưng (quận)|Hai Bà Trưng]] của thành phố [[Hà Nội]].<ref>Quyết định số 3-CP ngày 3 tháng 1 năm 1981 của Hội đồng Chính phủ về việc thống nhất tên gọi các đơn vị hành chính ở nội thành nội thị.</ref>
+
+Ngày 6 tháng 11 năm 2003:
+
+* Tách toàn bộ diện tích tự nhiên và dân số của các xã: Thanh Trì, Vĩnh Tuy và Lĩnh Nam về quận [[Hoàng Mai (quận)|Hoàng Mai]] mới thành lập.
+* Thành lập phường Vĩnh Hưng trên cơ sở toàn bộ diện tích tự nhiên và dân số của xã Vĩnh Tuy.
+* Thành lập 2 phường: Thanh Trì và Lĩnh Nam trên cơ sở toàn bộ diện tích tự nhiên và dân số của 2 xã có tên tương ứng.<ref name="132/2003/NĐ-CP">{{Chú thích web| url = https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Nghi-dinh-132-2003-ND-CP-dieu-chinh-dia-gioi-hanh-chinh-de-thanh-lap-quan-Long-Bien-Hoang-Mai-phuong-thuoc-quan-Hoang-Mai-Ha-Noi-51571.aspx| title = Nghị định số 132/2003/NĐ-CP ngày 6 tháng 11 năm 2003 của Chính phủ về việc điều chỉnh địa giới hành chính để thành lập các quận Long Biên, Hoàng Mai, thành lập các phường trực thuộc quận Long Biên, quận Hoàng Mai, thành phố Hà Nội | date = | website = | archive-url = | archive-date = | access-date = | url-status = live}}</ref>
+
+Ngày 16 tháng 6 năm 2025:
+
+* Kết thúc hoạt động của đơn vị hành chính cấp huyện trong cả nước.<ref>{{Chú thích web |last= |date= |title=Nghị quyết số 203/2025/QH15 ngày 16 tháng 6 năm 2025 của Quốc hội khóa XV, Kỳ họp thứ 9 về việc sửa đổi, bổ sung một số điều của Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/nq-sua-doi-hien-phap.pdf |url-status=live |archive-url=https://web.archive.org/web/20260613090807/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/nq-sua-doi-hien-phap.pdf |archive-date=2026-06-13 |access-date=2026-06-13 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+* Sắp xếp một phần diện tích tự nhiên, quy mô dân số của phường Vĩnh Hưng, phần còn lại của phường Lĩnh Nam, phần còn lại của phường Thanh Trì (quận [[Hoàng Mai (quận)|Hoàng Mai]]) và phần còn lại của phường Vĩnh Tuy (quận [[Hai Bà Trưng (quận)|Hai Bà Trưng]]) thành phường mới có tên gọi là phường Vĩnh Hưng.<ref>{{Chú thích web |title=Nghị quyết số 1656/NQ-UBTVQH15 ngày 16 tháng 6 năm 2025 của Ủy ban Thường vụ Quốc hội về việc sắp xếp các đơn vị hành chính cấp xã của thành phố Hà Nội năm 2025 |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf |url-status=live |archive-url=https://web.archive.org/web/20260630400809/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf |archive-date=2026-06-30 |access-date=2026-06-30 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+
+Ngày 21 tháng 7 năm 2025, ghép 70 hộ dân còn lại thuộc tổ dân phố 1 thuộc phường Thanh Trì (cũ) vào tổ dân phố 1 thuộc phường Vĩnh Hưng (cũ); ghép 60 hộ dân còn lại thuộc tổ dân phố số 1 và 38 hộ dân còn lại thuộc tổ dân phố 5 vào tổ dân phố 3 thuộc phường Thanh Trì (cũ); đổi tên 65 tổ dân phố thuộc phường Vĩnh Hưng. Sau khi sắp xếp, phường Vĩnh Hưng được chia thành 65 tổ dân phố.<ref>65 tổ dân phố, đánh số từ 1 đến 11, 12a, 12b, từ 14 đến 42, 43a, 43b, từ 45 đến 47, 48a, 48b, 50, 51, 52a, 52b và từ 54 đến 65.</ref><ref>1. Ghép 70 hộ dân còn lại thuộc Tổ dân phố số 01 thuộc phường Thanh Trì (cũ) vào Tổ dân phố số 01 thuộc phường Vĩnh Hưng (cũ); 2. Ghép 60 hộ dân còn lại thuộc Tổ dân phố số 01 và 38 hộ dân còn lại thuộc Tổ dân phố số 05 thuộc phường Thanh Trì (cũ) vào Tổ dân phố số 03 thuộc phường Thanh Trì (cũ); 3. Đổi tên 65 tổ dân phố thuộc phường Vĩnh Hưng.</ref><ref>{{Chú thích web |title=Thông tư số 10/2022/TT-BTNMT ngày 29 tháng 9 năm 2022 của Bộ Tài nguyên và Môi trường về việc Ban hành Danh mục địa danh dân cư, sơn văn, thủy văn, kinh tế - xã hội phục vụ công tác thành lập bản đồ thành phố Hà Nội |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2022/10/10-btnmt.pdf |url-status=live |archive-url=https://web.archive.org/web/20260630400809/https://datafiles.chinhphu.vn/cpp/files/vbpq/2022/10/10-btnmt.pdf |archive-date=2026-06-30 |access-date=2026-06-30 |website=Cổng Thông tin điện tử Chính phủ}}</ref><ref>{{Chú thích web |last=Vĩnh Hưng thịnh vượng, vững bền – thành phố Hà Nội |date=2025-07-22 |title=Kỳ họp thứ hai Hội đồng nhân dân phường Vĩnh Hưng (Phiên khai mạc ngày 21 tháng 7 năm 2025) |url=https://www.facebook.com/share/p/18t9wCJdJ6/ |url-status=dead |archive-url=https://web.archive.org/web/20260704400809/https://www.facebook.com/share/p/18t9wCJdJ6/ |archive-date=2026-07-04 |access-date=2026-07-04}}</ref><ref>{{Chú thích web |last=Trang Thông tin điện tử phường Vĩnh Hưng – thành phố Hà Nội |date=2025-07-29 |title=Phường Vĩnh Hưng công bố quyết định đổi tên chi bộ tổ dân phố; ghép phần dân cư, đổi tên tổ dân phố |url=https://vinhhung.hanoi.gov.vn/dang-doan-the/phuong-vinh-hung-cong-bo-quyet-dinh-doi-ten-chi-bo-to-dan-pho-ghep-phan-dan-cu-doi-ten-to-dan-pho-2829250729231531296.htm?gidzl=22wXKsFXTL0CCQLLQVXrKWGqe5XthdDJ73RmLdZuAGKSCQe4S_elKain_0GZ_IHGJ3NtMpPT_k4oPk1nKW |url-status=dead |archive-url=https://web.archive.org/web/20260704400809/https://vinhhung.hanoi.gov.vn/dang-doan-the/phuong-vinh-hung-cong-bo-quyet-dinh-doi-ten-chi-bo-to-dan-pho-ghep-phan-dan-cu-doi-ten-to-dan-pho-2829250729231531296.htm?gidzl=22wXKsFXTL0CCQLLQVXrKWGqe5XthdDJ73RmLdZuAGKSCQe4S_elKain_0GZ_IHGJ3NtMpPT_k4oPk1nKW |archive-date=2026-07-04 |access-date=2026-07-04}}</ref><ref>{{Chú thích web |title=Quyết định số 46/QĐ-UBND ngày 16 tháng 1 năm 2026 của Ủy ban nhân dân phường Vĩnh Hưng về việc xác định các khu vực bỏ phiếu bầu cử đại biểu Quốc hội khoá XVI, bầu cử đại biểu Hội đồng nhân dân các cấp nhiệm kỳ 2026 – 2031 |url=https://sqhx-hanoi.mediacdn.vn/91579363132710912/2026/2/2/1769425016926qd-xac-dinh-khu-vuc-bo-phieu-17700433385491121509348.pdf |url-status=dead |archive-url=https://web.archive.org/web/20260702400809/https://sqhx-hanoi.mediacdn.vn/91579363132710912/2026/2/2/1769425016926qd-xac-dinh-khu-vuc-bo-phieu-17700433385491121509348.pdf |archive-date=2026-07-02 |access-date=2026-07-02 |website=Trang Thông tin điện tử phường Vĩnh Hưng – thành phố Hà Nội}}</ref>
+
+Ngày 24 tháng 12 năm 2025, xác định phường Vĩnh Hưng là [[Đô thị Việt Nam|đô thị loại II]].<ref>Chuyển tiếp từ phường Vĩnh Tuy thuộc quận Hai Bà Trưng và 3 phường: Lĩnh Nam, Thanh Trì, Vĩnh Hưng thuộc quận Hoàng Mai.</ref><ref>{{Chú thích web |title=Nghị quyết số 111/2025/UBTVQH15 ngày 24 tháng 12 năm 2025 của Ủy ban Thường vụ Quốc hội về phân loại đô thị |url=https://cdn.nhandan.vn/files/f4a4abf7f9a0ba4a91744616546d850872b76917f90d5a74cc9eebef1369fb6f/111.pdf |url-status=dead |archive-url=https://web.archive.org/web/20260430074852/https://cdn.nhandan.vn/files/f4a4abf7f9a0ba4a91744616546d850872b76917f90d5a74cc9eebef1369fb6f/111.pdf |archive-date=2026-04-30 |access-date=2026-07-12 |website=Báo Nhân dân}}</ref>
+
+Ngày 30 tháng 6 năm 2026, thành lập 24 tổ dân phố mới, đánh số từ 1 đến 11, 12a, 12b, từ 14 đến 16 và từ 18 đến 25; đổi tên tổ dân phố 14 thành tổ dân phố 17.<ref>1. Tổ dân phố số 1 hình thành từ toàn bộ các tổ dân phố số 1, số 2, số 3, số 4; 2. Tổ dân phố số 2 hình thành từ toàn bộ các tổ dân phố số 5, số 6; 3. Tổ dân phố số 3 hình thành từ toàn bộ các tổ dân phố số 20, số 21, số 48B; 4. Tổ dân phố số 4 hình thành từ toàn bộ các tổ dân phố số 46, số 47, số 48A; 5. Tổ dân phố số 5 hình thành từ toàn bộ các tổ dân phố số 43B, số 45; 6. Tổ dân phố số 6 hình thành từ toàn bộ các tổ dân phố số 40, 41, 43A và 1 phần tổ dân phố số 42B; 7. Tổ dân phố số 7 hình thành từ toàn bộ các tổ dân phố số 37, số 38, số 39; 8. Tổ dân phố số 8 hình thành từ toàn bộ các tổ dân phố số 34, số 35, số 36 và 1 phần tổ dân phố số 42 sau khi sáp nhập thành tổ dân phố số 6; 9. Tổ dân phố số 9 hình thành từ toàn bộ các tổ dân phố số 30, số 31, số 32, số 33; 10. Tổ dân phố số 10 hình thành từ toàn bộ các tổ dân phố số 27, số 28, số 29; 11. Tổ dân phố số 11 hình thành từ toàn bộ các tổ dân phố số 24, số 25, số 26; 12. Tổ dân phố số 12a hình thành từ toàn bộ các tổ dân phố số 22, số 23; 13. Tổ dân phố số 12b hình thành từ toàn bộ các tổ dân phố số 7, số 10; 14. Tổ dân phố số 14 hình thành từ toàn bộ các tổ dân phố số 8, số 9; 15. Tổ dân phố số 15 hình thành từ toàn bộ các tổ dân phố số 11, số 19; 16. Tổ dân phố số 16 hình thành từ toàn bộ các tổ dân phố số 12A, số 12B; 17. Tổ dân phố số 17 hình thành từ đổi tên từ tổ dân phố số 14; 18. Tổ dân phố số 18 hình thành từ toàn bộ tổ dân phố số 15, số 16; 19. Tổ dân phố số 19 hình thành từ toàn bộ tổ dân phố số 17, số 18; 20. Tổ dân phố số 20 hình thành từ toàn bộ tổ dân phố số 50, số 51; 21. Tổ dân phố số 21 hình thành từ toàn bộ tổ dân phố số 52A, số 52B, số 57; 22. Tổ dân phố số 22 hình thành từ toàn bộ tổ dân phố số 54, số 55, số 56; 23. Tổ dân phố số 23 hình thành từ toàn bộ tổ dân phố số 58, số 60 và 1 phần tổ dân phố số 59; 24. Tổ dân phố số 24 hình thành từ toàn bộ tổ dân phố số 61, số 62 và 1 phần tổ dân phố số 59; 25. Tổ dân phố số 25 hình thành từ toàn bộ tổ dân phố số 63, số 64, số 65.</ref><ref name=":022">{{Chú thích web |last=Trang Thông tin điện tử phường Vĩnh Hưng – thành phố Hà Nội |date=2026-06-30 |title=Phường Vĩnh Hưng tạo động lực phát triển từ đầu tư hạ tầng và quy hoạch |url=https://vinhhung.hanoi.gov.vn/hoat-dong-cua-hdnd-phuong/phuong-vinh-hung-tao-dong-luc-phat-trien-tu-dau-tu-ha-tang-va-quy-hoach-2829260706144346179.htm?gidzl=FED1EJWjH1uu_4K_CZH4733_GZaiP40MAFqIDoCo6a0e-aXbA30S5t_w7cLuDnSLUFuLEZOo_p0MFIn070 |url-status=dead |archive-url=https://web.archive.org/web/20260819400809/https://vinhhung.hanoi.gov.vn/hoat-dong-cua-hdnd-phuong/phuong-vinh-hung-tao-dong-luc-phat-trien-tu-dau-tu-ha-tang-va-quy-hoach-2829260706144346179.htm?gidzl=FED1EJWjH1uu_4K_CZH4733_GZaiP40MAFqIDoCo6a0e-aXbA30S5t_w7cLuDnSLUFuLEZOo_p0MFIn070 |archive-date=2026-08-19 |access-date=2026-08-19 |website=}}</ref><ref name=":23">{{Chú thích web |last=Vĩnh Hưng thịnh vượng, vững bền – thành phố Hà Nội |date=2026-06-30 |title=25 tổ dân phố thuộc phường Vĩnh Hưng của thành phố Hà Nội |url=https://drive.google.com/drive/folders/1vjm4rw-DB6mtFC9u8Us1ORvApeBVst36 |url-status=dead |archive-url=https://web.archive.org/web/20260820201510/https://drive.google.com/drive/folders/1vjm4rw-DB6mtFC9u8Us1ORvApeBVst36 |archive-date=2026-08-20 |access-date=2026-08-20 |website=}}</ref>
+
+== Hành chính==
+Phường Vĩnh Hưng được chia thành 25 tổ dân phố, đánh số từ 1 đến 11, 12a, 12b và từ 14 đến 25.<ref name=":022" /><ref name=":23" />
+{| class="wikitable sortable" cellpadding="0" cellspacing="6" width="100%" align="center" style="background: #f9f9f9; border: 1px #aaa solid; margin-top: 16px"
+! colspan="4" style="background: #E6E6FA; font-size: 95%;" |Danh sách các tổ dân phố thuộc phường Vĩnh Hưng<ref name=":022" /><ref name=":23" />
+|-
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| cellpadding="1" cellspacing="1" width="100%" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Tổ dân phố 1
+|1.218
+|-
+| align="left" |Tổ dân phố 2
+|892
+|-
+| align="left" |Tổ dân phố 3
+|1.270
+|-
+| align="left" |Tổ dân phố 4
+|1.319
+|-
+| align="left" |Tổ dân phố 5
+|790
+|-
+| align="left" |Tổ dân phố 6
+|1.288
+|-
+| align="left" |Tổ dân phố 7
+|1.160
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| cellpadding="1" cellspacing="1" width="100%" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Tổ dân phố 8
+|1.050
+|-
+| align="left" |Tổ dân phố 9
+|1.073
+|-
+| align="left" |Tổ dân phố 10
+|1.082
+|-
+| align="left" |Tổ dân phố 11
+|994
+|-
+| align="left" |Tổ dân phố 12a
+|768
+|-
+| align="left" |Tổ dân phố 12b
+|1.067
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| cellpadding="1" cellspacing="1" width="100%" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Tổ dân phố 14
+|803
+|-
+| align="left" |Tổ dân phố 15
+|710
+|-
+| align="left" |Tổ dân phố 16
+|1.001
+|-
+| align="left" |Tổ dân phố 17
+|703
+|-
+| align="left" |Tổ dân phố 18
+|1.027
+|-
+| align="left" |Tổ dân phố 19
+|843
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| cellpadding="1" cellspacing="1" width="100%" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Tổ dân phố 20
+|870
+|-
+| align="left" |Tổ dân phố 21
+|970
+|-
+| align="left" |Tổ dân phố 22
+|717
+|-
+| align="left" |Tổ dân phố 23
+|715
+|-
+| align="left" |Tổ dân phố 24
+|712
+|-
+| align="left" |Tổ dân phố 25
+|764
+|}
+|}
+
+== Trụ sở các cơ quan== 
+Trụ sở Đảng ủy - UBND phường Vĩnh Hưng đặt tại số 177 phố Thanh Đàm.<ref name = "trusomoi">{{Chú thích web | date = 25 tháng 6 năm 2025 | title = Thông báo về địa điểm trụ sở làm việc của 126 phường, xã sau sắp xếp thuộc phạm vi quản lý của thành phố Hà Nội | url = https://dcdn.dantri.com.vn/2025/06/25/tru-so-126-xa-phuong-cua-ha-noi-1750822481952.pdf | website = UBND TP Hà Nội}}</ref>
+
+== Kinh tế== 
+Cơ cấu kinh tế của phường Vĩnh Hưng chuyển dịch theo hướng đô thị hóa, từ nông nghiệp, tiểu thủ công nghiệp sang lĩnh vực dịch vụ - thương mại và bất động sản.<ref name=":0" />
+
+Phường có hệ thống trung tâm thương mại, dịch vụ ăn uống, giải trí phát triển mạnh tại các khu đô thị mới cũng như những khu vực có mật độ dân cư đông đúc tại các tuyến đường Vĩnh Hưng, Lĩnh Nam, Tam Trinh.<ref name=":0" /><ref>{{Chú thích web | title = Phường Vĩnh Hưng: Tất cả thông tin chỉ dẫn bạn cần biết | url = https://hanoionline.vn/phuong-vinh-hung-tat-ca-thong-tin-chi-dan-ban-can-biet-344598.htm | access-date = 2025-07-09 | website = [[Đài Phát thanh – Truyền hình Hà Nội]] | language = vi}}</ref>
+
+Phần lớn đất nông nghiệp, đất tiểu thủ công nghiệp đã được chuyển đổi mục đích sử dụng sang đất ở, đất xây dựng hạ tầng công cộng, khu đô thị, chung cư cao tầng. Chỉ còn diện tích không đáng kể nằm rải rác hoặc xen kẽ trong khu dân cư cũ, hoạt động sản xuất mang tính chất tự cấp, tự túc.<ref name=":0" />
+
+Trên địa bàn phường còn một số cơ sở sản xuất cơ khí, sửa chữa, may mặc nằm rải rác trong các khu dân cư.<ref name=":0" />
+
+== Giáo dục ==
+Các trường học tại phường bao gồm Trường TH & THCS Vĩnh Hưng, Trường TH & THCS Thanh Trì, Trường TH & THCS Vĩnh Tuy và Trường TH & THCS Lĩnh Nam.
+
+Các cơ sở giáo dục cao hơn có [[Trường Đại học Mở Hà Nội|Trường Đại]] [[Trường Đại học Mở Hà Nội|học Mở Hà Nội]] và [[Trường Đại học Kinh doanh và Công nghệ Hà Nội]].
+
+== Văn hóa== 
+Phường Vĩnh Hưng có di tích đền, đình, chùa Đông Thiên được công nhận là Di tích lịch sử cấp Quốc gia năm 1990.<ref name=":0" />
+
+Phường có lễ hội làng truyền thống tổ chức hàng năm từ ngày 30 tháng Giêng đến mùng 2 tháng Hai âm lịch gắn liền với tục thờ Thánh Nha Cát Đại Vương - vị Thành Hoàng làng của khu vực này. Lễ hội có các nghi thức rước kiệu, tế lễ truyền thống. Bên cạnh đó, còn có các trò chơi dân gian như cờ tướng, chọi gà, đu quay, đập niêu và hát [[quan họ]], biểu diễn trích đoạn chèo.<ref name=":0" />
+
+== Tham khảo== 
+{{tham khảo| 30em}}
+
+== Tham khảo==
+{{Sơ khai Hà Nội}}{{Đơn vị hành chính thuộc thành phố Hà Nội}}

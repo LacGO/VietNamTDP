@@ -1,0 +1,100 @@
+{
+  "ward_code": "09634",
+  "ward_name": "Cổ Đô",
+  "province_code": "01",
+  "resolution": "",
+  "arrangement": "2026_07",
+  "effective_date": "2026-07-01",
+  "verified": "unverified",
+  "extraction": {
+    "source": "vi.wikipedia.org",
+    "title": "(cache)",
+    "mode": "table"
+  },
+  "sources": [
+    {
+      "key": "wiki-09634-1",
+      "title": "Hội đồng nhân dân xã Cổ Đô tổ chức Kỳ họp thứ 3, thông qua nhiều nghị quyết quan trọng",
+      "url": "https://hanoimoi.vn/hdnd-xa-co-do-to-chuc-ky-hop-thu-3-thong-qua-nhieu-nghi-quyet-quan-trong-1209717.html?gidzl=CU7nTCw0ebOr_lLon9kdKpZ-zddVdAPJ9VsbTToRyrKX_g9tq9cXLoYiydRIclK3UV-h9MB9K6OJou6cL0",
+      "date": "2026-06-29",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-09634-2",
+      "title": "Nghị quyết số 1656/NQ-UBTVQH15 ngày 16 tháng 6 năm 2025 của Ủy ban Thường vụ Quốc hội về việc sắp xếp các đơn vị hành chính cấp xã của thành phố Hà Nội năm 2025",
+      "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf",
+      "date": "2026-06-30",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-09634-3",
+      "title": "Nghị quyết số 1286/NQ-UBTVQH15 ngày 14 tháng 11 năm 2024 của Ủy ban Thường vụ Quốc hội về việc sắp xếp đơn vị hành chính cấp xã của thành phố Hà Nội giai đoạn 2023 – 2025",
+      "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/11/1286-qh.signed.pdf",
+      "date": "2026-07-24",
+      "type": "wikipedia-ref"
+    }
+  ],
+  "note": "Trích tự động từ Wikipedia tiếng Việt (mode=table). Cần đối chiếu nghị quyết HĐND phường/xã.",
+  "tdp": [
+    {
+      "name": "Châu Sơn",
+      "type": "thôn"
+    },
+    {
+      "name": "Cổ Đô",
+      "type": "thôn"
+    },
+    {
+      "name": "La Phẩm",
+      "type": "thôn"
+    },
+    {
+      "name": "La Thiện",
+      "type": "thôn"
+    },
+    {
+      "name": "Mai Trai",
+      "type": "thôn"
+    },
+    {
+      "name": "Phú Đông",
+      "type": "thôn"
+    },
+    {
+      "name": "Phú Phương",
+      "type": "thôn"
+    },
+    {
+      "name": "Phú Thịnh",
+      "type": "thôn"
+    },
+    {
+      "name": "Tân Lập",
+      "type": "thôn"
+    },
+    {
+      "name": "Tân Phong",
+      "type": "thôn"
+    },
+    {
+      "name": "Thanh Chiểu",
+      "type": "thôn"
+    },
+    {
+      "name": "Trung Hạ",
+      "type": "thôn"
+    },
+    {
+      "name": "Vạn Thắng",
+      "type": "thôn"
+    },
+    {
+      "name": "Vân Hội",
+      "type": "thôn"
+    },
+    {
+      "name": "Vân Sa",
+      "type": "thôn"
+    }
+  ]
+}

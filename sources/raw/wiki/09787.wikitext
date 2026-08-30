@@ -1,0 +1,169 @@
+{{Thông tin đơn vị hành chính Việt Nam |Xã
+| tên = Liên Minh
+| hình = 
+| ghi chú hình = 
+| vĩ độ = 21.126015610480355
+| kinh độ = 105.66119259672007
+| diện tích = 23,57 km²
+| dân số = 47.769 người
+| thời điểm dân số = 2025
+| mật độ dân số = {{formatnum:{{#expr:floor({{formatnum:47.769| R}}/{{formatnum:23,57| R}})}} }} người/km²
+| vùng = [[Đồng bằng sông Hồng]]
+| thành phố = [[Hà Nội]]
+| thành lập = 
+| trụ sở UBND = Số 121 đường Nam Sông Hồng, thôn Ngũ Châu<ref>{{Chú thích web |url=https://storage-vnportal.vnpt.vn/gov-hni/6244/VanBan/2025/6/25/TB-729-2025.pdf |title=Thông báo số 729/TB-UBND ngày 25 tháng 6 năm 2025 của Ủy ban nhân dân thành phố Hà Nội về địa điểm trụ sở làm việc của 126 phường, xã sau sắp xếp thuộc phạm vi quản lý của thành phố Hà Nội|access-date=2026-06-15 |archive-date=2026-06-15 |archive-url=https://web.archive.org/web/20260615034519/https://storage-vnportal.vnpt.vn/gov-hni/6244/VanBan/2025/6/25/TB-729-2025.pdf |url-status=dead | website = Cổng Thông tin điện tử Ủy ban nhân dân thành phố Hà Nội}}</ref>
+| mã hành chính =09787<ref>{{Chú thích web |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/19ttg.signed.pdf |title=Quyết định số 19/2025/QĐ-TTg ngày 30 tháng 6 năm 2025 của Thủ tướng Chính phủ về việc Ban hành Bảng danh mục và mã số các đơn vị hành chính Việt Nam |access-date=2026-06-15 |archive-date=2026-06-15 |archive-url=https://web.archive.org/web/20260615034519/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/19ttg.signed.pdf |url-status=dead | website = Cổng Thông tin điện tử Chính phủ}}</ref> 
+| mã bưu chính = 
+|bản đồ 1={{maplink|frame=yes|plain=yes|type=shape|frame-width=280|frame-align=center|stroke-width=3}}|web={{url|lienminh.hanoi.gov.vn}}|trụ sở Đảng ủy=Số 17 đường Thọ Xuân, thôn Thống Nhất}}
+{{other|Liên Minh (định hướng)}}
+'''Liên Minh''' là một [[Xã (Việt Nam)|xã]] thuộc thành phố [[Hà Nội]], [[Việt Nam]].
+
+== Địa lý ==
+Xã Liên Minh có vị trí địa lý:
+
+* Phía đông giáp xã [[Ô Diên]]
+* Phía tây giáp xã [[Phúc Lộc, Hà Nội|Phúc Lộc]] và xã [[Hát Môn]] với ranh giới tự nhiên là [[sông Đáy]]
+* Phía nam giáp xã [[Đan Phượng (xã)|Đan Phượng]]
+* Phía bắc giáp xã [[Yên Lãng, Hà Nội|Yên Lãng]] với ranh giới tự nhiên là [[sông Hồng]].<ref>{{Chú thích web |last=Viện nghiên cứu Phát triển kinh tế – xã hội Hà Nội|date=2025-07-02|title=Xã Liên Minh: Những thông tin chi tiết sau sắp xếp|url=https://hanoionline.vn/xa-lien-minh-nhung-thong-tin-chi-tiet-sau-sap-xep-344025.htm|url-status=live|archive-url=https://web.archive.org/web/20260701400809/https://hanoionline.vn/xa-lien-minh-nhung-thong-tin-chi-tiet-sau-sap-xep-344025.htm|archive-date=2026-07-01|access-date=2026-07-01|website=Cơ quan Báo và Phát thanh Truyền hình Hà Nội}}</ref><ref>{{Chú thích web|last=Cơ quan Báo và Phát thanh Truyền hình Hà Nội|date=2025-07-08|title=Xã Liên Minh: Tất cả thông tin chỉ dẫn bạn cần biết|url=https://hanoionline.vn/xa-lien-minh-tat-ca-thong-tin-chi-dan-ban-can-biet-345442.htm|url-status=bot: unknown|archive-url=https://web.archive.org/web/20250909093322/https://hanoionline.vn/xa-lien-minh-tat-ca-thong-tin-chi-dan-ban-can-biet-345442.htm|archive-date=2025-09-09|access-date=2026-07-11}}</ref>
+Xã Liên Minh có diện tích tự nhiên là 23,57 km<sup>2</sup>, quy mô dân số năm 2025 là 47.769 người và mật độ dân số đạt 2.026 người/km<sup>2</sup>.<ref>{{Chú thích web|last=Mai Hữu|date=2026-04-05|title=Hà Nội: Chi tiết phương án tổng thể sắp xếp đơn vị hành chính cấp xã|url=https://hanoimoi.vn/ha-noi-chi-tiet-phuong-an-tong-the-sap-xep-don-vi-hanh-chinh-cap-xa-700278.html|url-status=bot: unknown|archive-url=https://web.archive.org/web/20250710163328/https://hanoimoi.vn/ha-noi-chi-tiet-phuong-an-tong-the-sap-xep-don-vi-hanh-chinh-cap-xa-700278.html|archive-date=2025-07-10|access-date=2026-07-11|website=Cơ quan Báo và Phát thanh, truyền hình Hà Nội}}</ref><ref>Công văn số 2896/BNV-CQĐP ngày 27 tháng 5 năm 2025 của Bộ Nội vụ về việc cung cấp thông tin danh mục dự kiến đơn vị hành chính cấp xã mới.</ref>
+
+== Lịch sử==
+
+=== Trước năm 1976 ===
+
+=== Giai đoạn 1976 – nay ===
+Sau ngày 2 tháng 7 năm 1976, 5 xã: Hồng Hà, Phương Đình, Thọ An, Thọ Xuân và Trung Châu thuộc huyện [[Đan Phượng (huyện)|Đan Phượng]] của tỉnh [[Hà Sơn Bình]]; xã Tiến Thịnh thuộc huyện [[Yên Lãng (huyện)|Yên Lãng]] thuộc tỉnh [[Vĩnh Phú (tỉnh)|Vĩnh Phú]].
+
+Ngày 5 tháng 7 năm 1977, hợp nhất huyện [[Bình Xuyên (huyện)|Bình Xuyên]] và huyện [[Yên Lãng (huyện)|Yên Lãng]] thành một huyện lấy tên là huyện [[Mê Linh (huyện)|Mê Linh]]. Khi đó, xã Tiến Thịnh thuộc huyện [[Mê Linh (huyện)|Mê Linh]] của tỉnh [[Vĩnh Phú (tỉnh)|Vĩnh Phú]].<ref>Quyết định số 178-CP ngày 5 tháng 7 năm 1977 của Hội đồng Chính phủ về việc hợp nhất và điều chỉnh địa giới một số huyện thuộc tỉnh Vĩnh Phú.</ref>
+
+Ngày 29 tháng 12 năm 1978:
+
+* Sáp nhập huyện [[Đan Phượng (huyện)|Đan Phượng]] của tỉnh [[Hà Sơn Bình]] vào thành phố [[Hà Nội]]. Khi đó, 5 xã: Hồng Hà, Phương Đình, Thọ An, Thọ Xuân và Trung Châu thuộc huyện [[Đan Phượng (huyện)|Đan Phượng]] của thành phố [[Hà Nội]].
+* Sáp nhập xã Tiến Thịnh thuộc huyện [[Mê Linh (huyện)|Mê Linh]] của tỉnh [[Vĩnh Phú (tỉnh)|Vĩnh Phú]] vào thành phố [[Hà Nội]].<ref>Nghị quyết ngày 29 tháng 12 năm 1978 của Quốc hội khóa VI, Kỳ họp thứ 4 phê chuẩn việc phân vạch lại địa giới thành phố Hà Nội, thành phố Hồ Chí Minh, các tỉnh Hà Sơn Bình, Vĩnh Phú, Cao Lạng, Bắc Thái, Quảng Ninh và Đồng Nai.</ref>
+
+Ngày 12 tháng 8 năm 1991:
+
+* Chia tỉnh [[Hà Sơn Bình]] thành 2 tỉnh, lấy tên là tỉnh [[Hòa Bình (tỉnh)|Hòa Bình]] và tỉnh [[Hà Tây (tỉnh)|Hà Tây]]. Chuyển huyện [[Đan Phượng (huyện)|Đan Phượng]] của thành phố [[Hà Nội]] về tỉnh [[Hà Tây (tỉnh)|Hà Tây]]. Khi đó, 5 xã: Hồng Hà, Phương Đình, Thọ An, Thọ Xuân và Trung Châu thuộc huyện [[Đan Phượng (huyện)|Đan Phượng]] của tỉnh [[Hà Tây (tỉnh)|Hà Tây]].
+* Chuyển huyện [[Mê Linh (huyện)|Mê Linh]] của thành phố [[Hà Nội]] về tỉnh [[Vĩnh Phú (tỉnh)|Vĩnh Phú]]. Khi đó, xã Tiến Thịnh thuộc huyện [[Mê Linh (huyện)|Mê Linh]] của tỉnh [[Vĩnh Phú (tỉnh)|Vĩnh Phú]].<ref>Nghị quyết ngày 12 tháng 8 năm 1991 của Quốc hội khóa VIII, Kỳ họp thứ 9 về việc điều chỉnh địa giới hành chính một số tỉnh, thành phố trực thuộc Trung ương.</ref>
+
+Ngày 6 tháng 11 năm 1996, chia tỉnh [[Vĩnh Phú (tỉnh)|Vĩnh Phú]] thành hai tỉnh là tỉnh [[Phú Thọ]] và tỉnh [[Vĩnh Phúc (tỉnh)|Vĩnh Phúc]]. Khi đó, xã Tiến Thịnh thuộc huyện [[Mê Linh (huyện)|Mê Linh]] của tỉnh [[Vĩnh Phúc (tỉnh)|Vĩnh Phúc]].<ref>Nghị quyết ngày 6 tháng 11 năm 1996 của Quốc hội khóa IX, Kỳ họp thứ 10 về việc chia và điều chỉnh địa giới hành chính một số tỉnh.</ref>
+
+Ngày 29 tháng 5 năm 2008:
+
+* Hợp nhất tỉnh [[Hà Tây (tỉnh)|Hà Tây]] vào thành phố [[Hà Nội]]. Khi đó, 5 xã: Hồng Hà, Phương Đình, Thọ An, Thọ Xuân và Trung Châu thuộc huyện [[Đan Phượng (huyện)|Đan Phượng]] của thành phố [[Hà Nội]].
+* Chuyển toàn bộ huyện [[Mê Linh (huyện)|Mê Linh]] của tỉnh [[Vĩnh Phúc (tỉnh)|Vĩnh Phúc]] về thành phố [[Hà Nội]].<ref>Nghị quyết số 15/2008/QH12 ngày 29 tháng 5 năm 2008 của Quốc hội khóa XII, Kỳ họp thứ 3 về việc điều chỉnh địa giới hành chính thành phố Hà Nội và một số tỉnh có liên quan.</ref>
+
+Ngày 8 tháng 5 năm 2009, xác lập địa giới hành chính của huyện [[Mê Linh (huyện)|Mê Linh]] thuộc thành phố [[Hà Nội]]. Khi đó, xã Tiến Thịnh thuộc huyện [[Mê Linh (huyện)|Mê Linh]] của thành phố [[Hà Nội]].<ref>{{Chú thích web |title=Nghị quyết số 19/NQ-CP ngày 8 tháng 5 năm 2009 của Chính phủ về việc xác lập địa giới hành chính xã Đông Xuân thuộc huyện Quốc Oai; các xã Tiến Xuân, Yên Bình, Yên Trung thuộc huyện Thạch Thất; huyện Mê Linh thuộc thành phố Hà Nội; thành lập quận Hà Đông và các phường trực thuộc; chuyển thành phố Sơn Tây thành thị xã Sơn Tây thuộc thành phố Hà Nội |url=https://chinhphu.vn/default.aspx?pageid=27160&docid=86463 |url-status=bot: unknown |archive-url=https://web.archive.org/web/20250120035053/https://chinhphu.vn/default.aspx?pageid=27160&docid=86463 |archive-date=2025-01-20 |access-date=2026-07-06 |website=Cổng Thông tin điện tử Chính phủ }}</ref>
+
+Ngày 16 tháng 6 năm 2025:
+
+* Kết thúc hoạt động của đơn vị hành chính cấp huyện trong cả nước.<ref>{{Chú thích web |last= |date= |title=Nghị quyết số 203/2025/QH15 ngày 16 tháng 6 năm 2025 của Quốc hội khóa XV, Kỳ họp thứ 9 về việc sửa đổi, bổ sung một số điều của Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/nq-sua-doi-hien-phap.pdf |url-status=live |archive-url=https://web.archive.org/web/20260613090807/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/nq-sua-doi-hien-phap.pdf |archive-date=2026-06-13 |access-date=2026-06-13 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+* Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của xã Phương Đình, một phần diện tích tự nhiên, toàn bộ quy mô dân số của các xã Trung Châu, Thọ Xuân và Thọ An, một phần diện tích tự nhiên của xã Hồng Hà (huyện [[Đan Phượng (huyện)|Đan Phượng]]) và xã Tiến Thịnh (huyện [[Mê Linh (huyện)|Mê Linh]]) thành xã mới có tên gọi là xã Liên Minh.<ref>{{Chú thích web |title=Nghị quyết số 1656/NQ-UBTVQH15 ngày 16 tháng 6 năm 2025 của Ủy ban Thường vụ Quốc hội về việc sắp xếp các đơn vị hành chính cấp xã của thành phố Hà Nội năm 2025 |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf |url-status=bot: unknown |archive-url=https://web.archive.org/web/20260513110024/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf |archive-date=2026-05-13 |access-date=2026-06-30 |website=Cổng Thông tin điện tử Chính phủ }}</ref>
+* Sau khi sắp xếp, xã Liên Minh được chia thành 44 thôn – cụm, gồm 22 thôn và 22 cụm dân cư.<ref>10 thôn: Cổ Hạ, Cổ Ngõa, Cổ Thượng, Địch Đình, Địch Thượng, Địch Trong, Địch Trung, Ích Vịnh, La Thạch và Phương Mạc của xã Phương Đình cũ; 12 thôn: đánh số từ 1 đến 11 và Vạn Vỹ của xã Trung Châu cũ; 10 cụm dân cư, đánh số từ 1 đến 10 của xã Thọ Xuân cũ; 12 cụm dân cư, đánh số từ 1 đến 12 của xã Thọ An cũ.</ref><ref>{{Chú thích web |title=Thông tư số 10/2022/TT-BTNMT ngày 29 tháng 9 năm 2022 của Bộ Tài nguyên và Môi trường về việc Ban hành Danh mục địa danh dân cư, sơn văn, thủy văn, kinh tế – xã hội phục vụ công tác thành lập bản đồ thành phố Hà Nội |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2022/10/10-btnmt.pdf |url-status=bot: unknown |archive-url=https://web.archive.org/web/20260630082812/https://datafiles.chinhphu.vn/cpp/files/vbpq/2022/10/10-btnmt.pdf |archive-date=2026-06-30 |access-date=2026-06-30 |website=Cổng Thông tin điện tử Chính phủ }}</ref><ref>{{Chú thích web |last= |date= |title=Quyết định số 25/QĐ-UBBC ngày 23 tháng 2 năm 2026 của Ủy ban bầu cử xã Liên Minh về việc công bố danh sách chính thức những người ứng cử Đại biểu Hội đồng nhân dân xã Liên Minh theo từng đơn vị bầu cử |url=https://sqhx-hanoi.mediacdn.vn/91579363132710912/2026/2/26/25-quyet-dinh-phan-bo-dai-bieu-ung-cu-hdnd-17721023216342027646509.pdf |url-status=bot: unknown |archive-url=https://web.archive.org/web/20260714063612/https://sqhx-hanoi.mediacdn.vn/91579363132710912/2026/2/26/25-quyet-dinh-phan-bo-dai-bieu-ung-cu-hdnd-17721023216342027646509.pdf |archive-date=2026-07-14 |access-date=2026-07-01 |website=Trang Thông tin điện tử xã Liên Minh – thành phố Hà Nội }}</ref>
+
+Ngày 25 tháng 6 năm 2026, thành lập 12 thôn mới: La Ích Phương, Địch Vỹ, Cổ Ngõa, Tiến Bộ, Thống Nhất, Chiến Thắng, Hòa Bình, Đông Hải, Tây Sơn, Bắc Hà, Vân Thủy và Ngũ Châu.<ref>1. Sáp nhập toàn bộ các thôn: La Thạch, Phương Mạc, Ích Vịnh thành thôn La Phương Ích; 2. Sáp nhập toàn bộ các thôn: Địch Trung, Địch Thượng, Địch Đình, Địch Trong thành thôn Địch Vỹ; 3. Sáp nhập toàn bộ các thôn: Cổ Hạ, Cổ Thượng, Cổ Ngõa thành thôn Cổ Ngõa; 4. Sáp nhập toàn bộ các cụm dân cư số 1, 2, 10 (khu vực Thọ Xuân) thành thôn Tiến Bộ; 5. Sáp nhập toàn bộ các cụm dân cư số 3, 4 (khu vực Thọ Xuân) thành thôn Thống Nhất; 6. Sáp nhập cụm dân cư số 5 (khu vực Thọ Xuân, không bao gồm 47 hộ với 193 nhân khẩu thuộc xóm Tràng Sinh), toàn bộ các cụm dân cư 6, 7 (khu vực Thọ Xuân) và thôn 6 (Trung Châu) thành thôn Chiến Thắng; 7. Sáp nhập toàn bộ các cụm dân cư số 8, 9 (khu vực Thọ Xuân), phần còn lại của cụm dân cư số 5 (khu vực Thọ Xuân) thành thôn Hòa Bình; 8. Sáp nhập toàn bộ các cụm dân cư số: 1, 2, 3, 4 (khu vực Thọ An) thành thôn Đông Hải; 9. Sáp nhập toàn bộ các cụm dân cư số: 5, 6, 7, 8 (khu vực Thọ An) thành thôn Tây Sơn; 10. Sáp nhập toàn bộ các cụm dân cư số: 9, 10, 11, 12 (khu vực Thọ An) thành thôn Bắc Hà; 11. Sáp nhập toàn bộ các Thôn: 1, 2, 3, 4, 5 và 18 hộ thuộc thôn Vạn Vỹ (khu vực Trung Châu) thành thôn Vân Thủy; 12. Sáp nhập toàn bộ các Thôn: 7, 8, 9 (Nại Sa, Yên Châu), 10, 11 và 31 hộ của thôn Vạn Vỹ (khu vực Trung Châu) thành thôn Ngũ Châu.</ref><ref name=":0">{{Chú thích web |title=Thông báo số 132/TB-UBND ngày 12 tháng 6 năm 2026 của Ủy ban nhân dân xã Liên Minh về việc niêm yết công khai dự thảo Đề án sắp xếp thôn, cụm dân cư trên địa bàn xã Liên Minh |url=https://web.facebook.com/story.php?story_fbid=122185764782938467&id=61578154021987&rdid=QO4C9BRvOXmhnuUY# |url-status=live |archive-url=https://web.archive.org/web/20260706400809/https://web.facebook.com/story.php?story_fbid=122185764782938467&id=61578154021987&rdid=QO4C9BRvOXmhnuUY# |archive-date=2026-07-06 |access-date=2026-07-06 |website=Diễn đàn xã Liên Minh – thành phố Hà Nội}}</ref><ref name=":1">{{Chú thích web |last=Kiều Thoan Thu |date=2026-06-25 |title=Hội đồng nhân dân xã Liên Minh quyết nghị nhiều nội dung định hướng phát triển giai đoạn 2026 – 2030 |url=https://hanoimoi.vn/hdnd-xa-lien-minh-quyet-nghi-nhieu-noi-dung-dinh-huong-phat-trien-giai-doan-2026-2030-1209080.html |url-status=live |archive-url=https://web.archive.org/web/20260706400809/https://hanoimoi.vn/hdnd-xa-lien-minh-quyet-nghi-nhieu-noi-dung-dinh-huong-phat-trien-giai-doan-2026-2030-1209080.html |archive-date=2026-07-06 |access-date=2026-07-06 |website=Cơ quan Báo và Phát thanh, truyền hình Hà Nội}}</ref><!-- 
+== Lễ hội:== 
+Hồng Hà có các lễ hội lớn sau:
+
+*Ngày 3 tháng giêng: [[Lễ hội rước bánh dày làng Bá]] được 5 miền trong làng thay nhau tổ chức(miền Tâm tỉnh, Đồng tâm, Đồng tiến, Liên Hợp, Đồng Độ).
+*Ngày 4 đến ngày 8, 9 tháng Giêng: Hội vật dân tộc của Xã, khởi khai từ điểm luyện binh thời nhà Đinh ở vùng Châu Diên (Ô Diên thành-kinh đô nhà Tiền Lý). Đây được coi là cái nôi của Hội vật dân tộc ở miền Bắc, là sới vật duy nhất của huyện Đan Phượng còn giữ và phát triển cho đến ngày nay.
+*Ngày 13 tháng giêng lễ hội Cầu Ngư làng Vạn Vĩ, tưởng nhớ thành hoàng làng Võ Duệ có công phò tá nhà Hậu Lê.
+*Ngày 14 tháng 3 [[Âm lịch| ÂL]]: Lễ hội thôn Bồng Lai thờ Đức Thánh Mẫu Hạo Nương cung phi thứ 9 của vua Lý Thánh Tông, thân mẫu của hoàng tử là '''[[Hoằng Chân]] (tức''' [[Linh Lang]] Đại vương) một là vị thần được thờ tại [[đền Voi Phục]] (một trong [[Thăng Long tứ trấn| Tứ trấn]] của Thăng Long Hà Nội) phía Tây thành Thăng Long cũ.
+*Ngày 15-16 tháng 3 (ÂL): [[Hội thả diều truyền thống Bá Dương Nội]]. Đây là một lễ hội dân gian đặc sắc của vùng đồng bằng châu thổ trồng lúa nước. Được sự quan tâm của đông đảo nhân dân thủ đô.
+
+== Dân cư, văn hoá, xã hội:== 
+Hồng Hà là một xã đông dân cư, có mật độ phân bố dân cư cao thuộc loại cao của huyện. Theo thống kê tháng 7 năm 2006 thì dân số Hồng Hà khoảng 12000 người.
+
+Lịch sử hình thành và phát triển của xã Hồng Hà chứng kiến nhiều cuộc di dân quy mô lớn. Năm 1971, do ảnh hưởng của thiên nhiên, 2 làng Nại Châu và Nại Xá và một phần các làng Bá Dương Nội, Bá Dương Thị bị lở xuống sông Hồng, năm 1972 theo tiếng gọi của Đảng, nhân dân các làng bị ảnh hưởng trận lụt lịch sử đã ngược dòng sông Mã lập vùng kinh mới thành lập hợp tác xã Thống Nhất tại xã Chiềng Khương huyện Sông Mã tỉnh Sơn La.
+
+Hòa bình được lập lại thì đã có nhiều đợt di dân tới làm việc tại vùng kinh tế mới khác như (Hà Bắc, Sơn La, Lâm Đồng, bãi Tứ Liên, Yên Phụ).
+
+Là một xã đông dân cư đất nông nghiệp ít (5 thước/người) nên xã Hồng Hà phát triển nhiều nghề phụ như nấu rượu gạo, làm đậu và chăn nuôi lợn. Rượu và đậu làng Bá nổi tiếng trong vùng chủ yếu cung cấp cho nội thành Hà Nội.
+
+== Danh nhân, người nổi tiếng:== 
+*Thi Sách người huyện Chu Diên, chồng [[Hai Bà Trưng| Trưng Trắc]], con gái một Lạc tướng huyện [[Mê Linh (huyện)| Mê Linh]]. "Theo Nại Tử xã Thần miếu sự tích nguyên gốc tại xã Hồng Hà, Đan Phượng, Hà Nội (Trang 8 - 12)".
+* Nguyễn Cả, vị [[tướng nhà Đinh]] có công đánh dẹp [[loạn 12 sứ quân]]
+*Thánh mẫu Hạo Nương, người làng Bồng Lai, thân mẫu của hoàng tử '''[[Hoằng Chân]] (tức''' Linh Lang Đại vương).
+*Bộ trưởng '''[[Nguyễn Xuân Cường]]'''. Ông hiện là '''Ủy viên [[Ban Chấp hành Trung ương Đảng Cộng sản Việt Nam khóa XII]]''' [[Bộ trưởng]] [[Bộ Nông nghiệp và Phát triển Nông thôn (Việt Nam)| Bộ Nông nghiệp và Phát triển Nông thôn Việt Nam]] (từ ngày 28/07/2016), [[đại biểu quốc hội Việt Nam]] [[Danh sách đại biểu Quốc hội Việt Nam khóa XIV theo tỉnh thành| khóa XIV]].
+
+== Di tích== 
+Đình làng Bá Dương, thờ [[tướng nhà Đinh]] Nguyễn Cả, người tham gia dẹp [[loạn 12 sứ quân]] lập ra nhà nước [[Đại Cồ Việt]].
+
+Miếu Châu Thổ (hay còn gọi là miếu diều), thờ thần linh châu thổ, nơi tổ chức lễ hội diều truyền thống lớn nhất miền bắc vào ngày 15/3 Âm lịch hàng năm.
+
+Đình Tu thờ Linh Lang Đại Vương,là vị thần được thờ tại [[đền Voi Phục]] (một trong [[Thăng Long tứ trấn| Tứ trấn]] của Thăng Long Hà Nội) phía Tây thành Thăng Long.
+
+Đền Đoàn thờ Hạo Nương, bà là cung phi thứ 9 của vua Lý Thánh Tông, thân mẫu của hoàng tử '''[[Hoằng Chân]] (tức''' Linh Lang Đại vương)
+
+== Lịch sử - văn hóa== 
+Được hình thành từ rất lâu đời Nét văn hóa của Tiến Thịnh mang đậm sắc thái văn hóa Đồng Bằng châu thổ Sông Hồng. Nhiều di tích lịch sử văn hóa như Đình làng, chùa bị tàn phá do chiến tranh và hậu quả của cuộc cải cách ruộng đất. (thập niên 60, thế kỷ XX). Đến nay nhờ vào các nguồn đóng góp của nhân dân địa phương và kinh phí hỗ trợ của nhà nước các đình chùa hầu như đã được tu tạo khá khang trang như Đền Thiên Cổ, Chùa Bảo Lâm (Làng Thọ Lão), Chùa Hương Lâm.. vì được thừa hưởng nhiều nét văn hóa từ thời vua Trần nên nơi đây còn lưu giữ nhiều di tích mang đậm nét thời trần và thôn còn lại nhiều nét văn hóa đó là thôn Thọ Lão với di tích đình làng và chùa Bảo Lâm còn để lại và một trong các vẻ đẹp văn hóa đó chính là cây đa, bến nước, sân đình của thôn Chu Trần và đó cũng là nét văn hóa ngày nay của thôn.
+ -->
+
+== Hành chính ==
+Xã Liên Minh được chia thành 12 thôn: Bắc Hà, Chiến Thắng, Cổ Ngõa, Địch Vỹ, Đông Hải, Hòa Bình, La Ích Phương, Ngũ Châu, Tây Sơn, Thống Nhất, Tiến Bộ và Vân Thủy.<ref name=":0" /><ref name=":1" />
+{| class="wikitable sortable" align="center" width="100%" cellspacing="6" cellpadding="0" style="background: #f9f9f9; border: 1px #aaa solid; margin-top: 16px"
+! colspan="4" style="background: #E6E6FA; font-size: 95%;" |Danh sách các thôn thuộc xã Liên Minh<ref name=":0" /><ref name=":1" />
+|-
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Bắc Hà
+|803
+|-
+| align="left" |Chiến Thắng
+|809
+|-
+| align="left" |Cổ Ngõa
+|867
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Địch Vỹ
+|1.205
+|-
+| align="left" |Đông Hải
+|956
+|-
+| align="left" |Hòa Bình
+|581
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |La Ích Phương
+|1.299
+|-
+| align="left" |Ngũ Châu
+|984
+|-
+| align="left" |Tây Sơn
+|1.063
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Thống Nhất
+|560
+|-
+| align="left" |Tiến Bộ
+|680
+|-
+| align="left" |Vân Thủy
+|1.144
+|}
+|}
+
+== Chú thích ==
+{{tham khảo}}
+
+== Tham khảo ==
+{{Sơ khai Hà Nội}}{{Đơn vị hành chính thuộc thành phố Hà Nội}}

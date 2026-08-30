@@ -1,0 +1,126 @@
+{{Thông tin đơn vị hành chính Việt Nam| xã
+| tên = Tam Đảo
+| hình = Thị trấn Tam Đảo - NKS.jpg
+| ghi chú hình = Một góc xã Tam Đảo
+| vĩ độ = 21.394191447587406
+| kinh độ = 105.61568082442102
+| diện tích = 41,32 km²
+| dân số = 97.438 người
+| thời điểm dân số = 31/12/2024
+| mật độ dân số = {{formatnum:{{#expr:floor({{formatnum:97.438|R}}/{{formatnum:41,32|R}})}} }} người/km²
+| vùng = [[Đông Bắc Bộ]]
+| tỉnh = [[Phú Thọ]]
+| thành lập = 16 tháng 6 năm 2025
+| trụ sở UBND = Thôn Đồi Thông
+| mã hành chính = 
+| mã bưu chính = 
+| web = {{url|tamdao.phutho.gov.vn}}
+|loại đô thị=|năm công nhận=}}
+{{other|Tam Đảo (định hướng)}}
+'''Tam Đảo''' là một [[xã (Việt Nam)|xã]] thuộc [[Tỉnh (Việt Nam)|tỉnh]] [[Phú Thọ]], [[Việt Nam]].
+
+==Địa lý==
+[[Tập_tin:Tamdao2.jpg|trái|nhỏ|250x250px|Đường lên khu nghỉ mát Tam Đảo]]
+Xã Tam Đảo nằm trên dãy núi [[Tam Đảo]] ở độ cao 900 m so với mực nước biển, có vị trí địa lý:
+
+* Phía bắc giáp tỉnh [[Thái Nguyên]].
+* Phía nam giáp xã [[Bình Xuyên, Phú Thọ|Bình Xuyên]].
+* Phía đông giáp xã [[Bình Tuyền, Phú Thọ|Bình Tuyền]].
+* Phía tây giáp xã Tam Dương và xã [[Tam Dương Bắc, Phú Thọ|Tam Dương Bắc]].
+
+== Hành chính ==
+Xã Tam Đảo được chia thành 43 thôn: 1, 2, Ao Mây, Bàn Long, Bảo Ninh, Bảo Phác, Bảo Thắng, Cam Lâm, Cam Lâm Đồn, Cầu Tre, Cây Thông, Chăm Chỉ, Chùa Vàng, Cửu Yên 1, Cửu Yên 2, Đầu Vai, Đồi Cao, Đồi Thông, Đồng Bả, Đồng Thanh, Đồng Thứ, Hợp Thành, Làng Hà, Lưu Quang, Minh Hồng, Minh Tân, Nga Hoàng, Núc Hạ, Núc Thượng, Phô Cốc, Quang Minh, Quang Sơn, Sơn Đồng, Sơn Long, Tân Long, Tân Lương, Tích Cựu, Trại Khóng, Trung Hòa, Vực Lựu, Xạ Hương, Yên Bình, Yên Trung.<ref name=":1">{{Chú thích web |last=Bộ Dân tộc và Tôn giáo |date=2026-01-29 |title=Danh sách Thôn vùng đồng bào dân tộc thiểu số và miền núi, thôn đặc biệt khó khăn giai đoạn 2026 - 2030 trên địa bàn tỉnh Phú Thọ |url=http://files.ubdt.gov.vn/files/ecm/source_files/2026/02/05/11252411_4.%20Ph%C3%BA%20Th%E1%BB%8D%201%20(th%C3%B4n).signed_26-02-05.pdf |url-status=live |archive-url=https://web.archive.org/web/20260417090807/http://files.ubdt.gov.vn/files/ecm/source_files/2026/02/05/11252411_4.%20Ph%C3%BA%20Th%E1%BB%8D%201%20(th%C3%B4n).signed_26-02-05.pdf |archive-date=2026-04-17 |access-date=2026-04-17 |website=Cổng Thông tin điện tử Bộ Dân tộc và Tôn giáo}}</ref><ref name=":2">{{Chú thích web |last=Ủy ban bầu cử xã Tam Đảo |date=2026-02-13 |title=Nghị quyết số 2/NQ-UBBC về việc Công bố danh sách chính thức những người ứng cử đại biểu Hội đồng nhân dân xã Tam Đảo Khóa II, nhiệm kỳ 2026 - 2031 theo từng đơn vị bầu cử |url=https://www.facebook.com/story.php?story_fbid=122176982918928009&id=61577840287449&rdid=1siWcnccZT14yYPj# |url-status=live |archive-url=https://web.archive.org/web/20260423090807/https://www.facebook.com/story.php?story_fbid=122176982918928009&id=61577840287449&rdid=1siWcnccZT14yYPj# |archive-date=2026-04-23 |access-date=2026-04-23 |website=Trang Thông tin xã Tam Đảo, tỉnh Phú Thọ}}</ref>
+
+== Lịch sử ==
+Xã Tam Đảo được hình thành từ thời Pháp thuộc. Trước năm 1966, Tam Đảo là một xã thuộc huyện [[Tam Dương (huyện)|Tam Dương]].
+
+Ngày [[18 tháng 11]] năm [[1966]], Hội đồng Chính phủ ban hành Quyết định số 198-CP về việc thành lập thị trấn Tam Đảo trực thuộc tỉnh Vĩnh Phúc.<ref name=":0">{{chú thích sách|tác giả=|tựa đề=Tổng mục lục văn bản quy phạm pháp luật Việt Nam, 1945-2002|nhà xuất bản=Nhà xuất bản Chính trị quốc gia|year=2003|nơi=|trang=452|url=https://www.google.com/books/edition/Tỏ̂ng_mục_lục_văn_bản_quy_ph/0acOAQAAMAAJ|doi=|id=|isbn=}}</ref>
+
+Ngày [[26 tháng 1]] năm [[1968]], Ủy ban Thường vụ Quốc hội ra Nghị quyết số 504/NQ-QH về việc hợp nhất tỉnh Vĩnh Phúc và tỉnh [[Phú Thọ]] thành tỉnh [[Vĩnh Phú (tỉnh)|Vĩnh Phú]],<ref>{{Chú thích web|url=|title=Nghị quyết số 504-NQ/TVQH về việc phê chuẩn việc hợp nhất hai tỉnh Vĩnh Phúc và Phú Thọ thành một tỉnh lấy tên là tỉnh Vĩnh Phú và việc hợp nhất hai tỉnh Hải Dương và Hưng Yên thành một tỉnh lấy tên là tỉnh Hải Hưng do Ủy ban thường vụ Quốc hội ban hành|last=|first=|date=|website=|archive-url=|archive-date=|url-status=|access-date=}}</ref> thị trấn Tam Đảo thuộc tỉnh Vĩnh Phú.
+
+Sau năm [[1975]], Hợp Châu là một xã thuộc huyện Tam Dương.
+
+Ngày [[5 tháng 7]] năm [[1977]], Hội đồng Chính phủ ban hành Quyết định số 178-CP. Theo đó<ref>{{Chú thích web |url= |title=Quyết định 178-CP về việc hợp nhất điều chỉnh địa giới một số huyện thuộc tỉnh Vĩnh Phú |last= |first= |date= |website= |archive-url= |archive-date= |url-status= |access-date=}}</ref>:
+
+* Sáp nhập huyện Tam Dương sáp nhập với huyện [[Lập Thạch (huyện)|Lập Thạch]] thành huyện Tam Đảo
+* Sáp nhập thị trấn Tam Đảo vào thị xã [[Vĩnh Yên (thành phố)|Vĩnh Yên]].
+
+Ngày [[9 tháng 6]] năm [[1998]], Chính phủ ban hành Nghị định số 36/1998/NĐ-CP. Theo đó, huyện Tam Dương được tái lập, xã Hợp Châu trở lại thuộc huyện Tam Dương.
+
+Ngày [[9 tháng 12]] năm [[2003]], Chính phủ ban hành Nghị định số 153/2003/NĐ-CP.<ref>{{Chú thích web|url=|title=Nghị định 153/2003/NĐ-CP về việc thành lập thị xã Phúc Yên và huyện Tam Đảo, tỉnh Vĩnh Phúc|last=|first=|date=|website=|archive-url=|archive-date=|url-status=|access-date=}}</ref> Theo đó:
+
+* Chuyển thị trấn Tam Đảo về huyện Tam Đảo mới thành lập.
+* Chuyển xã Hợp Châu sang trực thuộc huyện Tam Đảo mới và là huyện lỵ huyện Tam Đảo.
+
+Ngày [[10 tháng 1]] năm [[2020]], [[Ủy ban Thường vụ Quốc hội]] ban hành Nghị quyết số 868/NQ-UBTVQH14 về việc sắp xếp các đơn vị hành chính cấp xã thuộc tỉnh Vĩnh Phúc (nghị quyết có hiệu lực từ ngày [[1 tháng 2]] năm [[2020]]). Theo đó, thành lập thị trấn Hợp Châu, thị trấn huyện lỵ huyện Tam Đảo trên cơ sở toàn bộ 9,99&nbsp;km² diện tích tự nhiên và 10.267 người của xã Hợp Châu.
+
+Ngày [[12 tháng 3]] năm [[2020]], chuyển 14 thôn của thị trấn Hợp Châu thành 14 tổ dân phố có tên tương ứng.<ref name="QD498">{{Chú thích web |url=https://vinhphuc.gov.vn/ct/cms/HeThongChinhTriTinh/uybannhandan/Lists/QuyetDinh/View_Detail.aspx?ItemID=676 |title=Quyết định số 498/QĐ-UBND ngày 11/3/2020 của UBND tỉnh về việc chuyển thôn thành tổ dân phố thuộc thị trấn Hợp Châu thị trấn Đại Đình, huyện Tam Đảo |access-date=2020-04-12 |archive-date=2025-04-17 |archive-url=https://web.archive.org/web/20250417145718/https://vinhphuc.gov.vn/ct/cms/HeThongChinhTriTinh/uybannhandan/Lists/QuyetDinh/View_Detail.aspx?ItemID=676 |url-status=dead }}</ref>
+
+Ngày [[12 tháng 6]] năm [[2025]], [[Quốc hội Việt Nam|Quốc hội]] ban hành Nghị quyết số 202/2025/QH15<ref name="202/2025/QH15">{{Chú thích web |ngày=2025-06-12 |tựa đề=Nghị quyết số 202/2025/QH15 về việc sắp xếp đơn vị hành chính cấp tỉnh |url=https://quochoi.vn/tintuc/Pages/tin-hoat-dong-cua-quoc-hoi.aspx?ItemID=94532 |url-status=live |url lưu trữ=https://web.archive.org/web/20250612150244/https://quochoi.vn/tintuc/Pages/tin-hoat-dong-cua-quoc-hoi.aspx?ItemID=94532 |ngày lưu trữ=2025-06-12 |ngày truy cập=2025-06-12 |website=Cổng thông tin điện tử Quốc hội Việt Nam}}</ref> về việc sắp xếp đơn vị hành chính cấp tỉnh (nghị quyết có hiệu lực từ ngày 12 tháng 6 năm 2025). Theo đó, sáp nhập tỉnh [[Hòa Bình (tỉnh)|Hòa Bình]] và tỉnh [[Vĩnh Phúc (tỉnh)|Vĩnh Phúc]] vào tỉnh Phú Thọ. Địa bàn thành lập xã Tam Đảo thuộc tỉnh Phú Thọ.
+
+Ngày [[16 tháng 6]] năm [[2025]]:
+
+* Quốc hội ban hành Nghị quyết số 203/2025/QH15 về việc sửa đổi, bổ sung một số điều của Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam (nghị quyết có hiệu lực từ ngày [[16 tháng 6]] năm [[2025]]).<ref>{{Chú thích web |last=xaydungchinhsach.chinhphu.vn |date=2025-06-28 |title=NGHỊ QUYẾT 203/2025/QH15 SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA HIẾN PHÁP NƯỚC CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM |url=https://xaydungchinhsach.chinhphu.vn/nghi-quyet-203-2025-qh15-sua-doi-bo-sung-mot-so-dieu-cua-hien-phap-nuoc-cong-hoa-xa-hoi-chu-nghia-viet-nam-119250616181735552.htm |url-status=live |archive-url=https://web.archive.org/web/20260715200606/https://xaydungchinhsach.chinhphu.vn/nghi-quyet-203-2025-qh15-sua-doi-bo-sung-mot-so-dieu-cua-hien-phap-nuoc-cong-hoa-xa-hoi-chu-nghia-viet-nam-119250616181735552.htm |archive-date=2026-07-15 |access-date=2026-07-15 |website=Báo Điện tử Chính phủ |language=vi }}</ref> Theo đó, kết thúc hoạt động của đơn vị hành chính cấp huyện trong cả nước từ ngày 1 tháng 7 năm 2025.
+* Ủy ban Thường vụ Quốc hội ban hành Nghị quyết số 1676/NQ-UBTVQH15 về việc sắp xếp các đơn vị hành chính cấp xã của tỉnh Phú Thọ năm 2025 (nghị quyết có hiệu lực từ ngày [[16 tháng 6]] năm [[2025]]).<ref>{{Chú thích web |last=xaydungchinhsach.chinhphu.vn |date=2025-06-20 |title=Nghị quyết số 1676/NQ-UBTVQH15 sắp xếp các ĐVHC cấp xã của tỉnh Phú Thọ năm 2025 |url=https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-1676-nq-ubtvqh15-sap-xep-cac-dvhc-cap-xa-cua-tinh-phu-tho-nam-2025-119250616204317326.htm |access-date=2025-09-07 |website=xaydungchinhsach.chinhphu.vn |language=vi}}</ref> Theo đó, sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của thị trấn Hợp Châu, thị trấn Tam Đảo, xã Hồ Sơn và xã Minh Quang thành xã mới có tên gọi là '''xã Tam Đảo'''.
+
+Sau khi thực hiện sắp xếp, xã Tam Đảo được chia thành 43 thôn: 1, 2, Ao Mây, Bàn Long, Bảo Ninh, Bảo Phác, Bảo Thắng, Cam Lâm, Cam Lâm Đồn, Cầu Tre, Cây Thông, Chăm Chỉ, Chùa Vàng, Cửu Yên 1, Cửu Yên 2, Đầu Vai, Đồi Cao, Đồi Thông, Đồng Bả, Đồng Thanh, Đồng Thứ, Hợp Thành, Làng Hà, Lưu Quang, Minh Hồng, Minh Tân, Nga Hoàng, Núc Hạ, Núc Thượng, Phô Cốc, Quang Minh, Quang Sơn, Sơn Đồng, Sơn Long, Tân Long, Tân Lương, Tích Cựu, Trại Khóng, Trung Hòa, Vực Lựu, Xạ Hương, Yên Bình, Yên Trung.<ref name=":1" /><ref name=":2" />
+
+Ngày [[24 tháng 12]] năm [[2025]], Ủy ban Thường vụ Quốc hội ban hành Nghị quyết số 111/2025/UBTVQH15 về phân loại đô thị (nghị quyết có hiệu lực từ ngày [[1 tháng 1]] năm [[2026]]).<ref>{{Chú thích web |last=xaydungchinhsach.chinhphu.vn|date=2026-01-21|title=Nghị quyết số 111/2025/UBTVQH15 về phân loại đô thị|url=https://xaydungchinhsach.chinhphu.vn/nghi-quyet-so-111-2025-ubtvqh15-ve-phan-loai-do-thi-119260101170432239.htm|access-date=2026-07-23|website=xaydungchinhsach.chinhphu.vn|language=vi}}</ref> Theo đó, đô thị loại IV, loại V, thị xã và thị trấn trước khi sắp xếp chưa được công nhận loại đô thị được xác định là đô thị loại III. Một phần xã Tam Đảo được xác định là đô thị loại III (từ đô thị loại V của thị trấn Hợp Châu và thị trấn Tam Đảo cũ).<!-- 
+==Lịch sử==
+Sau năm [[1975]], Hợp Châu là một xã thuộc huyện Tam Dương.
+
+Ngày [[5 tháng 7]] năm [[1977]], huyện Tam Dương sáp nhập với huyện [[Lập Thạch (huyện)|Lập Thạch]] thành huyện Tam Đảo,<ref>{{Chú thích web|url=https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-178-CP-hop-nhat-dieu-chinh-dia-gioi-huyen-thuoc-tinh-Vinh-Phu-57438.aspx|tựa đề=Quyết định 178-CP năm 1977 về việc hợp nhất và điều chỉnh địa giới một số huyện thuộc tỉnh Vĩnh Phú|tác giả=|họ=|tên=|ngày=|website=|url lưu trữ=|ngày lưu trữ=|ngày truy cập=}}</ref> xã Hợp Châu thuộc huyện Tam Đảo.
+
+Ngày [[9 tháng 6]] năm [[1998]], huyện Tam Dương được tái lập,<ref>{{Chú thích web|url=https://thuvienphapluat.vn/van-ban/bat-dong-san/Nghi-dinh-36-1998-ND-CP-chia-tach-huyen-Tam-Dao-thuoc-tinh-Vinh-Phuc-thanh-huyen-Tam-Duong-va-huyen-Binh-Xuyen-41742.aspx|tựa đề=Nghị định 36/1998/NĐ-CP về việc chia tách huyện Tam Đảo thuộc tỉnh Vĩnh Phúc thành huyện Tam Dương và huyện Bình Xuyên|tác giả=|họ=|tên=|ngày=|website=|url lưu trữ=|ngày lưu trữ=|ngày truy cập=}}</ref> xã Hợp Châu trở lại thuộc huyện Tam Dương.
+
+Ngày [[9 tháng 12]] năm [[2003]], Chính phủ ban hành Nghị định số 153/2003/NĐ-CP.<ref name="ND153">{{Chú thích web|url=https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Nghi-dinh-153-2003-ND-CP-thanh-lap-thi-xa-Phuc-Yen-huyen-Tam-Dao-tinh-Vinh-Phuc-53824.aspx|title=Nghị định 153/2003/NĐ-CP về việc thành lập thị xã Phúc Yên và huyện Tam Đảo, tỉnh Vĩnh Phúc|last=|first=|date=|website=|archive-url=|archive-date=|url-status=|access-date=}}</ref> Theo đó, xã Hợp Châu chuyển sang trực thuộc huyện Tam Đảo mới và là huyện lỵ huyện Tam Đảo.
+
+Ngày [[10 tháng 1]] năm [[2020]], Ủy ban Thường vụ Quốc hội ban hành Nghị quyết số 868/NQ-UBTVQH14 về việc sắp xếp các đơn vị hành chính cấp xã thuộc tỉnh Vĩnh Phúc (nghị quyết có hiệu lực từ ngày [[1 tháng 2]] năm [[2020]]).<ref name=NQ868>{{Chú thích web|url=https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Nghi-quyet-868-NQ-UBTVQH14-2020-sap-xep-cac-don-vi-hanh-chinh-cap-xa-thuoc-tinh-Vinh-Phuc-434046.aspx|tựa đề=Nghị quyết số 868/NQ-UBTVQH14 năm 2020 về việc sắp xếp các đơn vị hành chính cấp xã thuộc tỉnh Vĩnh Phúc|tác giả=|họ=|tên=|ngày=|website=|url lưu trữ=|ngày lưu trữ=|ngày truy cập=}}</ref> Theo đó, thành lập thị trấn Hợp Châu, thị trấn huyện lỵ huyện Tam Đảo trên cơ sở toàn bộ 9,99&nbsp;km² diện tích tự nhiên và 10.267 người của xã Hợp Châu.
+
+Ngày [[12 tháng 3]] năm [[2020]], chuyển 14 thôn của thị trấn Hợp Châu thành 14 tổ dân phố có tên tương ứng.<ref name=QD498>[https://vinhphuc.gov.vn/ct/cms/HeThongChinhTriTinh/uybannhandan/Lists/QuyetDinh/View_Detail.aspx?ItemID=676 Quyết định số 498/QĐ-UBND ngày 11/3/2020 của UBND tỉnh về việc chuyển thôn thành tổ dân phố thuộc thị trấn Hợp Châu thị trấn Đại Đình, huyện Tam Đảo]</ref>
+
+== Lịch sử ==
+Thị trấn Tam Đảo được hình thành từ thời Pháp thuộc. Trước năm 1966, Tam Đảo là một xã thuộc huyện [[Tam Dương (huyện)|Tam Dương]].
+
+Ngày [[18 tháng 11]] năm [[1966]], Hội đồng Chính phủ ban hành Quyết định số 198-CP về việc thành lập thị trấn Tam Đảo trực thuộc tỉnh Vĩnh Phúc.<ref name=":0">{{chú thích sách|tác giả=|tựa đề=Tổng mục lục văn bản quy phạm pháp luật Việt Nam, 1945-2002|nhà xuất bản=Nhà xuất bản Chính trị quốc gia|year=2003|nơi=|trang=452|url=https://www.google.com/books/edition/Tỏ̂ng_mục_lục_văn_bản_quy_ph/0acOAQAAMAAJ|doi=|id=|isbn=}}</ref>
+
+Ngày [[26 tháng 1]] năm [[1968]], Ủy ban Thường vụ Quốc hội ra Nghị quyết số 504/NQ-QH về việc hợp nhất tỉnh Vĩnh Phúc và tỉnh [[Phú Thọ]] thành tỉnh [[Vĩnh Phú (tỉnh)|Vĩnh Phú]],<ref>{{Chú thích web|url=https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Nghi-quyet-504-NQ-TVQH-phe-chuan-hop-nhat-hai-tinh-Vinh-Phuc-va-Phu-Tho-thanh-Vinh-Phu-va-hop-nhat-hai-tinh-Hai-Duong-va-Hung-Yen-thanh-Hai-Hung/18359/noi-dung.aspx|title=Nghị quyết số 504-NQ/TVQH về việc phê chuẩn việc hợp nhất hai tỉnh Vĩnh Phúc và Phú Thọ thành một tỉnh lấy tên là tỉnh Vĩnh Phú và việc hợp nhất hai tỉnh Hải Dương và Hưng Yên thành một tỉnh lấy tên là tỉnh Hải Hưng do Ủy ban thường vụ Quốc hội ban hành|last=|first=|date=|website=|archive-url=|archive-date=|url-status=|access-date =}}</ref> thị trấn Tam Đảo thuộc tỉnh Vĩnh Phú.
+
+Ngày [[5 tháng 7]] năm [[1977]], Hội đồng Chính phủ ban hành Quyết định số 178-CP sáp nhập thị trấn Tam Đảo vào thị xã [[Vĩnh Yên (thành phố)|Vĩnh Yên]].<ref>{{Chú thích web|url=https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-178-CP-hop-nhat-dieu-chinh-dia-gioi-huyen-thuoc-tinh-Vinh-Phu-57438.aspx|title=Quyết định 178-CP về việc hợp nhất điều chỉnh địa giới một số huyện thuộc tỉnh Vĩnh Phú|last=|first=|date=|website=|archive-url=|archive-date=|url-status=|access-date =}}</ref>
+
+Ngày [[9 tháng 12]] năm [[2003]], Chính phủ ban hành Nghị định số 153/2003/NĐ-CP.<ref>{{Chú thích web|url=https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Nghi-dinh-153-2003-ND-CP-thanh-lap-thi-xa-Phuc-Yen-huyen-Tam-Dao-tinh-Vinh-Phuc-53824.aspx|title=Nghị định 153/2003/NĐ-CP về việc thành lập thị xã Phúc Yên và huyện Tam Đảo, tỉnh Vĩnh Phúc|last=|first=|date=|website=|archive-url=|archive-date=|url-status=|access-date =}}</ref> Theo đó, chuyển thị trấn Tam Đảo về huyện Tam Đảo mới thành lập.
+
+Tuy nhiên, thị trấn Tam Đảo không phải là huyện lỵ của huyện Tam Đảo; các cơ quan hành chính của huyện đóng tại thị trấn [[Hợp Châu]].
+
+== Hình ảnh ==
+<gallery widths="150" heights="150">
+Tập tin:Lâu đài Tam Đảo - NKS.jpg|Lâu đài Tam Đảo
+Tập tin:Hồ chứa nước Tam Đảo.jpg|Hồ chứa nước Tam Đảo
+Tập tin:Vườn su su ở Tam Đảo.jpg|[[Su su]] được trồng nhiều trên Tam Đảo
+Tập tin:Đền Bà Chúa Thượng Ngàn Tam Đảo.jpg|Đền Bà Chúa Thượng Ngàn trên đỉnh Thiên Thị ở Tam Đảo
+Tập tin:Phong cảnh Tam Đảo.jpg|Phong cảnh Thị trấn Tam Đảo 1
+Tập tin:Phong cảnh Tam Đảo.JPG|Phong Cảnh Thị trấn Tam Đảo 2
+</gallery>
+
+ -->
+
+== Hình ảnh ==
+<gallery widths="150" heights="150">
+Tập_tin:Lâu_đài_Tam_Đảo_-_NKS.jpg|Lâu đài Tam Đảo
+Tập_tin:Hồ_chứa_nước_Tam_Đảo.jpg|Hồ chứa nước Tam Đảo
+Tập_tin:Vườn_su_su_ở_Tam_Đảo.jpg|[[Su su]] được trồng nhiều trên Tam Đảo
+Tập_tin:Đền_Bà_Chúa_Thượng_Ngàn_Tam_Đảo.jpg|Đền Bà Chúa Thượng Ngàn trên đỉnh Thiên Thị ở Tam Đảo
+Tập_tin:Phong_cảnh_Tam_Đảo.jpg|Phong cảnh Tam Đảo 1
+Tập_tin:Phong_cảnh_Tam_Đảo.JPG|Phong cảnh Tam Đảo 2
+</gallery>
+
+==Danh nhân==
+* [[Lê Thị Nguyệt]]
+
+==Chú thích==
+{{tham khảo|30em}}
+
+==Tham khảo==
+
+{{sơ khai Phú Thọ}}
+{{Đơn vị hành chính thuộc tỉnh Phú Thọ}}

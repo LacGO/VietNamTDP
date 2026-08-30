@@ -1,0 +1,186 @@
+{{Thông tin đơn vị hành chính Việt Nam|Phường
+| tên = Hai Bà Trưng
+| hình = Hồ Thiền Quang (Hà Nội).jpg
+| ghi chú hình = Một góc [[hồ Thiền Quang]]
+| vĩ độ = 21.01047018063346
+| kinh độ = 105.84976068465573
+| bản đồ 1 = {{maplink|frame=yes|plain=yes|type=shape|frame-width=280|frame-align=center|stroke-width=3}}
+| diện tích = 2,65 km²
+| dân số = 87.801 người
+| thời điểm dân số = 2025
+| mật độ dân số = {{formatnum:{{#expr:floor({{formatnum:87.801| R}}/{{formatnum:2,65| R}})}} }} người/km²
+| vùng = [[Đồng bằng sông Hồng]]
+| thành phố = [[Hà Nội]]
+| trụ sở UBND = Số 30 Lê Đại Hành<ref>{{Chú thích web |url=https://storage-vnportal.vnpt.vn/gov-hni/6244/VanBan/2025/6/25/TB-729-2025.pdf |title=Thông báo số 729/TB-UBND ngày 25 tháng 6 năm 2025 của Ủy ban nhân dân thành phố Hà Nội về địa điểm trụ sở làm việc của 126 phường, xã sau sắp xếp thuộc phạm vi quản lý của thành phố Hà Nội|access-date=2026-06-15 |archive-date=2026-06-15 |archive-url=https://web.archive.org/web/20260615034519/https://storage-vnportal.vnpt.vn/gov-hni/6244/VanBan/2025/6/25/TB-729-2025.pdf |url-status=dead | website = Cổng Thông tin điện tử Ủy ban nhân dân thành phố Hà Nội}}</ref>
+| mã hành chính =00256<ref>{{Chú thích web |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/19ttg.signed.pdf |title=Quyết định số 19/2025/QĐ-TTg ngày 30 tháng 6 năm 2025 của Thủ tướng Chính phủ về việc Ban hành Bảng danh mục và mã số các đơn vị hành chính Việt Nam |access-date=2026-06-15 |archive-date=2026-06-15 |archive-url=https://web.archive.org/web/20260615034519/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/19ttg.signed.pdf |url-status=dead | website = Cổng Thông tin điện tử Chính phủ}}</ref> 
+| web = {{url|haibatrung.hanoi.gov.vn}}
+|trụ sở Đảng ủy=Số 100 Tô Hiến Thành}}
+{{other|Hai Bà Trưng (định hướng)}}
+'''Hai Bà Trưng''' là một [[Phường (Việt Nam)|phường]] thuộc thành phố [[Hà Nội]], [[Việt Nam]].
+
+== Địa lý== 
+Phường Hai Bà Trưng có vị trí địa lý:
+
+* Phía đông giáp phường [[Hồng Hà, Hà Nội|Hồng Hà]] (ranh giới đi theo đường đê Nguyễn Khoái)
+* Phía tây giáp phường [[Văn Miếu – Quốc Tử Giám (phường)|Văn Miếu – Quốc Tử Giám]] (ranh giới đi theo đường Lê Duẩn)
+* Phía nam giáp phường [[Bạch Mai, Hà Nội|Bạch Mai]] và phường [[Vĩnh Tuy (phường)|Vĩnh Tuy]] (ranh giới đi theo đường Đại Cồ Việt – Trần Khát Chân)
+* Phía bắc giáp phường [[Cửa Nam, Hà Nội|Cửa Nam]] (ranh giới đi theo đường Nguyễn Du – phố Lê Văn Hưu – phố Hàn Thuyên – đường Trần Hưng Đạo).<ref>{{Chú thích web |last=Báo Điện tử Chính phủ |date=2025-04-28 |title=Chi tiết dự thảo phương án sắp xếp các phường của Hà Nội |url=https://xaydungchinhsach.chinhphu.vn/chi-tiet-du-thao-phuong-an-sap-xep-cac-phuong-cua-ha-noi-119250421100531902.htm |url-status=live |archive-url=https://web.archive.org/web/20260710401509/https://xaydungchinhsach.chinhphu.vn/chi-tiet-du-thao-phuong-an-sap-xep-cac-phuong-cua-ha-noi-119250421100531902.htm |archive-date=2026-07-10 |access-date=2026-07-10 |website=Xây dựng chính sách, pháp luật}}</ref><ref>{{Chú thích web |last=Trang Thông tin điện tử phường Hai Bà Trưng – thành phố Hà Nội |date=2025-07-06 |title=Phường Hai Bà Trưng: Những thông tin chi tiết sau sắp xếp |url=https://haibatrung.hanoi.gov.vn/trang-chu/phuong-hai-ba-trung-nhung-thong-tin-chi-tiet-sau-sap-xep-2814250706161645727.htm |url-status=dead |archive-url=https://web.archive.org/web/20260819400809/https://haibatrung.hanoi.gov.vn/trang-chu/phuong-hai-ba-trung-nhung-thong-tin-chi-tiet-sau-sap-xep-2814250706161645727.htm |archive-date=2026-08-19 |access-date=2026-08-19 |website=}}</ref><ref>{{Chú thích web |last=Cơ quan Báo và Phát thanh Truyền hình Hà Nội |date=2025-07-04 |title=Phường Tương Mai: Tất cả thông tin và thủ tục cần biết |url=https://hanoionline.vn/phuong-hai-ba-trung-tat-ca-thong-tin-va-thu-tuc-can-biet-344681.htm |url-status=dead |archive-url=https://web.archive.org/web/20260819401509/https://hanoionline.vn/phuong-hai-ba-trung-tat-ca-thong-tin-va-thu-tuc-can-biet-344681.htm |archive-date=2026-08-19 |access-date=2026-08-19}}</ref>
+Phường Hai Bà Trưng có diện tích tự nhiên là 2,65&nbsp;km<sup>2</sup>, quy mô dân số năm 2025 là 87.801 người và mật độ dân số đạt 33.132 người/km<sup>2</sup>.<ref>{{Chú thích web |last=Mai Hữu |date=2026-04-05 |title=Hà Nội: Chi tiết phương án tổng thể sắp xếp đơn vị hành chính cấp xã |url=https://hanoimoi.vn/ha-noi-chi-tiet-phuong-an-tong-the-sap-xep-don-vi-hanh-chinh-cap-xa-700278.html |url-status=live |archive-url=https://web.archive.org/web/20260711401509/https://hanoimoi.vn/ha-noi-chi-tiet-phuong-an-tong-the-sap-xep-don-vi-hanh-chinh-cap-xa-700278.html |archive-date=2026-07-11 |access-date=2026-07-11 |website=Cơ quan Báo và Phát thanh, truyền hình Hà Nội}}</ref><ref>Công văn số 2896/BNV-CQĐP ngày 27 tháng 5 năm 2025 của Bộ Nội vụ về việc cung cấp thông tin danh mục dự kiến đơn vị hành chính cấp xã mới.</ref>
+
+== Lịch sử==
+
+=== Trước năm 1976 ===
+
+=== Giai đoạn 1976 – nay ===
+Sau ngày 2 tháng 7 năm 1976, 10 tiểu khu: Bạch Đằng, Bùi Thị Xuân, Đống Mác, Đồng Nhân, Lê Đại Hành, Ngô Thì Nhậm, Nguyễn Du, Phạm Đình Hổ, Phố Huế và Thanh Nhàn thuộc quận [[Hai Bà Trưng (quận)|Hai Bà Trưng]] của thành phố [[Hà Nội]].
+
+Ngày 3 tháng 1 năm 1981, từ nay ở nội thành, đơn vị hành chính cấp dưới trực tiếp của [[Thành phố trực thuộc trung ương (Việt Nam)|thành phố trực thuộc trung ương]] đều thống nhất gọi là [[Quận (Việt Nam)|quận]]; các đơn vị hành chính cơ sở ở nội thành, nội thị của các [[Thành phố thuộc tỉnh (Việt Nam)|thành phố thuộc tỉnh]], [[Thị xã (Việt Nam)|thị xã]] và [[Quận (Việt Nam)|quận]] gọi là [[Phường (Việt Nam)|phường]]. Khi đó, 10 phường: Bạch Đằng, Bùi Thị Xuân, Đống Mác, Đồng Nhân, Lê Đại Hành, Ngô Thì Nhậm, Nguyễn Du, Phạm Đình Hổ, Phố Huế và Thanh Nhàn thuộc quận [[Hai Bà Trưng (quận)|Hai Bà Trưng]].<ref name=":02">Quyết định số 3-CP ngày 3 tháng 1 năm 1981 của Hội đồng Chính phủ về việc thống nhất tên gọi các đơn vị hành chính ở nội thành nội thị.</ref>
+
+Ngày 11 tháng 2 năm 2020:
+
+* Nhập phường Bùi Thị Xuân và 0,01&nbsp;km<sup>2</sup> diện tích tự nhiên, 642 người của phường Ngô Thì Nhậm vào phường Nguyễn Du.
+* Nhập toàn bộ 0,18&nbsp;km<sup>2</sup> diện tích tự nhiên, 5.526 người của phường Ngô Thì Nhậm sau khi điều chỉnh địa giới đơn vị hành chính vào phường Phạm Đình Hổ.<ref name="NQ895">{{Chú thích web |tác giả= |họ= |tên= |ngày= |tựa đề=Nghị quyết số 895/NQ-UBTVQH14 ngày 11 tháng 2 năm 2020 của Ủy ban Thường vụ Quốc hội về việc sắp xếp đơn vị hành chính cấp xã thuộc thành phố Hà Nội |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2020/02/895.signed.pdf |url-status=dead |url lưu trữ=https://web.archive.org/web/20260630155040/https://datafiles.chinhphu.vn/cpp/files/vbpq/2020/02/895.signed.pdf |ngày lưu trữ=2026-06-30 |ngày truy cập=2026-07-03 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+
+Ngày 14 tháng 11 năm 2024, nhập phường Đống Mác vào phường Đồng Nhân.<ref>{{Chú thích web |tiêu đề=Nghị quyết số 1286/NQ-UBTVQH15 ngày 14 tháng 11 năm 2024 của Ủy ban Thường vụ Quốc hội về việc sắp xếp đơn vị hành chính cấp xã của thành phố Hà Nội giai đoạn 2023 – 2025 |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/11/1286-qh.signed.pdf |url-status=dead |archive-url=https://web.archive.org/web/20260630103653/https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/11/1286-qh.signed.pdf |ngày lưu trữ=2026-06-30 |ngày truy cập=2026-07-03 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+
+Ngày 16 tháng 6 năm 2025:
+
+* Kết thúc hoạt động của đơn vị hành chính cấp huyện trong cả nước.<ref>{{Chú thích web |last= |date= |title=Nghị quyết số 203/2025/QH15 ngày 16 tháng 6 năm 2025 của Quốc hội khóa XV, Kỳ họp thứ 9 về việc sửa đổi, bổ sung một số điều của Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/nq-sua-doi-hien-phap.pdf |url-status=live |archive-url=https://web.archive.org/web/20260613090807/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/nq-sua-doi-hien-phap.pdf |archive-date=2026-06-13 |access-date=2026-06-13 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+* Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của phường Đồng Nhân, phường Phố Huế, một phần diện tích tự nhiên, quy mô dân số của các phường Bạch Đằng, Lê Đại Hành, Nguyễn Du, Thanh Nhàn và phần còn lại của phường Phạm Đình Hổ (quận [[Hai Bà Trưng (quận)|Hai Bà Trưng]]) thành phường mới có tên gọi là phường Hai Bà Trưng.<ref>{{Chú thích web |title=Nghị quyết số 1656/NQ-UBTVQH15 ngày 16 tháng 6 năm 2025 của Ủy ban Thường vụ Quốc hội về việc sắp xếp các đơn vị hành chính cấp xã của thành phố Hà Nội năm 2025 |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf |url-status=bot: unknown |archive-url=https://web.archive.org/web/20260513110024/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf |archive-date=2026-05-13 |access-date=2026-06-30 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+* Sau khi sắp xếp, phường Hai Bà Trưng được chia thành 61 tổ dân phố.<ref>15 tổ dân phố, đánh số từ 1 đến 15 của phường Đồng Nhân cũ; 8 tổ dân phố, đánh số từ 1 đến 8 của phường Phố Huế cũ; 5 tổ dân phố, đánh số từ 1 đến 5 của phường Bạch Đằng cũ; 9 tổ dân phố, đánh số từ 1 đến 9 của phường Lê Đại Hành cũ; 10 tổ dân phố, đánh số từ 1 đến 10 của phường Nguyễn Du cũ; tổ dân phố 1 của phường Thanh Nhàn cũ; 13 tổ dân phố, đánh số từ 1 đến 13 của phường Phạm Đình Hổ cũ.</ref><ref>{{Chú thích web |title=Thông tư số 10/2022/TT-BTNMT ngày 29 tháng 9 năm 2022 của Bộ Tài nguyên và Môi trường về việc Ban hành Danh mục địa danh dân cư, sơn văn, thủy văn, kinh tế - xã hội phục vụ công tác thành lập bản đồ thành phố Hà Nội |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2022/10/10-btnmt.pdf |url-status=live |archive-url=https://web.archive.org/web/20260630400809/https://datafiles.chinhphu.vn/cpp/files/vbpq/2022/10/10-btnmt.pdf |archive-date=2026-06-30 |access-date=2026-06-30 |website=Cổng Thông tin điện tử Chính phủ}}</ref><ref>{{Chú thích web |title=Thông báo số 74/TB-UBND ngày 24 tháng 2 năm 2026 của Ủy ban nhân dân phường Hai Bà Trưng về việc niêm yết danh sách chính thức những người ứng cử đại biểu Quốc hội khóa XVI và bầu cử đại biểu Hội đồng nhân dân các cấp nhiệm kỳ 2026 – 2031 trên địa bàn phường Hai Bà Trưng |url=https://haibatrung.hanoi.gov.vn/trang-chu/thong-bao-niem-yet-danh-sach-chinh-thuc-nhung-nguoi-ung-cu-dai-bieu-quoc-hoi-khoa-xvi-va-bau-cu-dai-bieu-hoi-dong-nhan-dan-cac-cap-nhiem-ky-2026-2031-tren-dia-ban-phuong-hai-ba-trung-2814260226172244124.htm?gidzl=iNsh5nhWCrArOgyH4FapNBLbhnm6hJ1HhMV_4WdxQWUjOAL00lbiKFfWyq1I_cTI_MJu7pQThArq7-4tK0 |url-status=dead |archive-url=https://web.archive.org/web/20260820400809/https://haibatrung.hanoi.gov.vn/trang-chu/thong-bao-niem-yet-danh-sach-chinh-thuc-nhung-nguoi-ung-cu-dai-bieu-quoc-hoi-khoa-xvi-va-bau-cu-dai-bieu-hoi-dong-nhan-dan-cac-cap-nhiem-ky-2026-2031-tren-dia-ban-phuong-hai-ba-trung-2814260226172244124.htm?gidzl=iNsh5nhWCrArOgyH4FapNBLbhnm6hJ1HhMV_4WdxQWUjOAL00lbiKFfWyq1I_cTI_MJu7pQThArq7-4tK0 |archive-date=2026-08-20 |access-date=2026-08-20 |website=Trang Thông tin điện tử phường Hai Bà Trưng – thành phố Hà Nội}}</ref>
+
+Ngày 15 tháng 7 năm 2025, đổi tên 51 tổ dân phố, đánh số từ 1 đến 9 (phường Lê Đại Hành), 1 (phường Thanh Nhàn), từ 1 đến 13 (phường Phạm Đình Hổ), từ 1 đến 8 (phường Phố Huế), từ 1 đến 15 (phường Đồng Nhân), từ 1 đến 5 (phường Bạch Đằng) lần lượt thành 51 tổ dân phố, đánh số từ 11 đến 33, 39, 40, 40A, từ 34 đến 38 và từ 41 đến 60.<ref>I. Phường Nguyễn Du: 1. Giữ nguyên tổ dân phố số 1; 2. Giữ nguyên tổ dân phố số 2; 3. Giữ nguyên tổ dân phố số 3; 4. Giữ nguyên tổ dân phố số 4; 5. Giữ nguyên tổ dân phố số 5; 6. Giữ nguyên tổ dân phố số 6; 7. Giữ nguyên tổ dân phố số 7; 8. Giữ nguyên tổ dân phố số 8; 9. Giữ nguyên tổ dân phố số 9; 10. Giữ nguyên tổ dân phố số 10; II. Phường Lê Đại Hành: 11. Đổi tên tổ dân phố số 1 thành tổ dân phố số 11; 12. Đổi tên tổ dân phố số 2 thành tổ dân phố số 12; 13. Đổi tên tổ dân phố số 3 thành tổ dân phố số 13; 14. Đổi tên tổ dân phố số 4 thành tổ dân phố số 14; 15. Đổi tên tổ dân phố số 5 thành tổ dân phố số 15; 16. Đổi tên tổ dân phố số 6 thành tổ dân phố số 16; 17. Đổi tên tổ dân phố số 7 thành tổ dân phố số 17; 18. Đổi tên tổ dân phố số 8 thành tổ dân phố số 18; 19. Đổi tên tổ dân phố số 9 thành tổ dân phố số 19; III. Phường Thanh Nhàn: 20. Đổi tên tổ dân phố số 1 thành tổ dân phố số 20; IV. Phường Phạm Đình Hổ: 21. Đổi tên tổ dân phố số 1 thành tổ dân phố số 21; 22. Đổi tên tổ dân phố số 2 thành tổ dân phố số 22; 23. Đổi tên tổ dân phố số 3 thành tổ dân phố số 23; 24. Đổi tên tổ dân phố số 4 thành tổ dân phố số 24; 25. Đổi tên tổ dân phố số 5 thành tổ dân phố số 25; 26. Đổi tên tổ dân phố số 6 thành tổ dân phố số 26; 27. Đổi tên tổ dân phố số 7 thành tổ dân phố số 27; 28. Đổi tên tổ dân phố số 8 thành tổ dân phố số 28; 29. Đổi tên tổ dân phố số 9 thành tổ dân phố số 29; 30. Đổi tên tổ dân phố số 10 thành tổ dân phố số 30; 31. Đổi tên tổ dân phố số 11 thành tổ dân phố số 31; 32. Đổi tên tổ dân phố số 12 thành tổ dân phố số 32; 33. Đổi tên tổ dân phố số 13 thành tổ dân phố số 33; V. Phường Phố Huế: 34. Đổi tên tổ dân phố số 1 thành tổ dân phố số 39; 35. Đổi tên tổ dân phố số 2 thành tổ dân phố số 40; 36. Đổi tên tổ dân phố số 3 thành tổ dân phố số 40A; 37. Đổi tên tổ dân phố số 4 thành tổ dân phố số 34; 38. Đổi tên tổ dân phố số 5 thành tổ dân phố số 35; 39. Đổi tên tổ dân phố số 6 thành tổ dân phố số 36; 40. Đổi tên tổ dân phố số 7 thành tổ dân phố số 37; 41. Đổi tên tổ dân phố số 8 thành tổ dân phố số 38; VI. Phường Đồng Nhân: 42. Đổi tên tổ dân phố số 1 thành tổ dân phố số 41; 43. Đổi tên tổ dân phố số 2 thành tổ dân phố số 42; 44. Đổi tên tổ dân phố số 3 thành tổ dân phố số 43; 45. Đổi tên tổ dân phố số 4 thành tổ dân phố số 44; 46. Đổi tên tổ dân phố số 5 thành tổ dân phố số 45; 47. Đổi tên tổ dân phố số 6 thành tổ dân phố số 46; 48. Đổi tên tổ dân phố số 1 thành tổ dân phố số 11; 49. Đổi tên tổ dân phố số 8 thành tổ dân phố số 48; 50. Đổi tên tổ dân phố số 9 thành tổ dân phố số 49; 51. Đổi tên tổ dân phố số 10 thành tổ dân phố số 50; 52. Đổi tên tổ dân phố số 11 thành tổ dân phố số 51; 53. Đổi tên tổ dân phố số 12 thành tổ dân phố số 52; 54. Đổi tên tổ dân phố số 13 thành tổ dân phố số 53; 55. Đổi tên tổ dân phố số 14 thành tổ dân phố số 54; 56. Đổi tên tổ dân phố số 15 thành tổ dân phố số 55; VII. Phường Bạch Đằng: 57. Đổi tên tổ dân phố số 1 thành tổ dân phố số 56; 58. Đổi tên tổ dân phố số 2 thành tổ dân phố số 57; 59. Đổi tên tổ dân phố số 3 thành tổ dân phố số 58; 60. Đổi tên tổ dân phố số 4 thành tổ dân phố số 59; 61. Đổi tên tổ dân phố số 5 thành tổ dân phố số 60.</ref><ref name=":0">{{Chú thích web |title=Quyết định số 220/QĐ-UBND ngày 21 tháng 7 năm 2025 của Ủy ban nhân dân phường Hai Bà Trưng về việc đổi tên các tổ dân phố trên địa bàn phường Hai Bà Trưng Sau sắp xếp đơn vị hành chính năm 2025 |url=https://haibatrung.hanoi.gov.vn/trang-chu/phuong-hai-ba-trung-sap-xep-va-doi-ten-to-dan-pho-tren-dia-ban-phuong-sau-sap-xep-don-vi-hanh-chinh-nam-2025-2814250726101938723.htm?gidzl=oNT_VkqI0HxDQ7juvmi14CrlUdZnNmCGrMqgTlu9MKRLQd0azGjV4O9g9YIb35GJXMujUpOIL4jHw1C570 |url-status=dead |archive-url=https://web.archive.org/web/20260820201510/https://haibatrung.hanoi.gov.vn/trang-chu/phuong-hai-ba-trung-sap-xep-va-doi-ten-to-dan-pho-tren-dia-ban-phuong-sau-sap-xep-don-vi-hanh-chinh-nam-2025-2814250726101938723.htm?gidzl=oNT_VkqI0HxDQ7juvmi14CrlUdZnNmCGrMqgTlu9MKRLQd0azGjV4O9g9YIb35GJXMujUpOIL4jHw1C570 |archive-date=2026-08-20 |access-date=2026-08-20 |website=Trang Thông tin điện tử phường Hai Bà Trưng – thành phố Hà Nội}}</ref>[[Tập tin:Bản đồ các tổ dân phố thuộc phường Hai Bà Trưng của thành phố Hà Nội (đến ngày 1 tháng 7 năm 2026).jpg|trái|nhỏ|250x250px|61 tổ dân phố trên địa bàn phường Hai Bà Trưng (từ ngày 15 tháng 7 năm 2025 đến 1 tháng 7 năm 2026)<ref name=":0" />]]
+Ngày 24 tháng 12 năm 2025, xác định phường Hai Bà Trưng là [[Đô thị Việt Nam|đô thị loại II]].<ref>Chuyển tiếp từ 7 phường: Bạch Đằng, Đồng Nhân, Lê Đại Hành, Nguyễn Du, Phạm Đình Hổ, Phố Huế và Thanh Nhàn thuộc quận Hai Bà Trưng.</ref><ref>{{Chú thích web |title=Nghị quyết số 111/2025/UBTVQH15 ngày 24 tháng 12 năm 2025 của Ủy ban Thường vụ Quốc hội về phân loại đô thị |url=https://cdn.nhandan.vn/files/f4a4abf7f9a0ba4a91744616546d850872b76917f90d5a74cc9eebef1369fb6f/111.pdf |url-status=dead |archive-url=https://web.archive.org/web/20260430074852/https://cdn.nhandan.vn/files/f4a4abf7f9a0ba4a91744616546d850872b76917f90d5a74cc9eebef1369fb6f/111.pdf |archive-date=2026-04-30 |access-date=2026-07-12 |website=Báo Nhân dân}}</ref>
+
+Ngày 29 tháng 6 năm 2026, thành lập 25 tổ dân phố mới: Nguyễn Du từ 1 đến 4, Lê Đại Hành từ 1 đến 4, Phạm Đình Hổ từ 1 đến 4, Phố Huế từ 1 đến 4, Đồng Nhân từ 1 đến 6, Bạch Đằng từ 1 đến 3.<ref>1. Tổ dân phố số 1 hình thành từ toàn bộ các tổ dân phố số 1, số 2, số 3, số 4; 2. Tổ dân phố số 2 hình thành từ toàn bộ các tổ dân phố số 5, số 6; 3. Tổ dân phố số 3 hình thành từ toàn bộ các tổ dân phố số 20, số 21, số 48B; 4. Tổ dân phố số 4 hình thành từ toàn bộ các tổ dân phố số 46, số 47, số 48A; 5. Tổ dân phố số 5 hình thành từ toàn bộ các tổ dân phố số 43B, số 45; 6. Tổ dân phố số 6 hình thành từ toàn bộ các tổ dân phố số 40, 41, 43A và 1 phần tổ dân phố số 42B; 7. Tổ dân phố số 7 hình thành từ toàn bộ các tổ dân phố số 37, số 38, số 39; 8. Tổ dân phố số 8 hình thành từ toàn bộ các tổ dân phố số 34, số 35, số 36 và 1 phần tổ dân phố số 42 sau khi sáp nhập thành tổ dân phố số 6; 9. Tổ dân phố số 9 hình thành từ toàn bộ các tổ dân phố số 30, số 31, số 32, số 33; 10. Tổ dân phố số 10 hình thành từ toàn bộ các tổ dân phố số 27, số 28, số 29; 11. Tổ dân phố số 11 hình thành từ toàn bộ các tổ dân phố số 24, số 25, số 26; 12. Tổ dân phố số 12a hình thành từ toàn bộ các tổ dân phố số 22, số 23; 13. Tổ dân phố số 12b hình thành từ toàn bộ các tổ dân phố số 7, số 10; 14. Tổ dân phố số 14 hình thành từ toàn bộ các tổ dân phố số 8, số 9; 15. Tổ dân phố số 15 hình thành từ toàn bộ các tổ dân phố số 11, số 19; 16. Tổ dân phố số 16 hình thành từ toàn bộ các tổ dân phố số 12A, số 12B; 17. Tổ dân phố số 17 hình thành từ đổi tên từ tổ dân phố số 14; 18. Tổ dân phố số 18 hình thành từ toàn bộ tổ dân phố số 15, số 16; 19. Tổ dân phố số 19 hình thành từ toàn bộ tổ dân phố số 17, số 18; 20. Tổ dân phố số 20 hình thành từ toàn bộ tổ dân phố số 50, số 51; 21. Tổ dân phố số 21 hình thành từ toàn bộ tổ dân phố số 52A, số 52B, số 57; 22. Tổ dân phố số 22 hình thành từ toàn bộ tổ dân phố số 54, số 55, số 56; 23. Tổ dân phố số 23 hình thành từ toàn bộ tổ dân phố số 58, số 60 và 1 phần tổ dân phố số 59; 24. Tổ dân phố số 24 hình thành từ toàn bộ tổ dân phố số 61, số 62 và 1 phần tổ dân phố số 59; 25. Tổ dân phố số 25 hình thành từ toàn bộ tổ dân phố số 63, số 64, số 65.</ref><ref name=":022">{{Chú thích web |last= |date= |title=Bản thuyết minh phương án ngày 15 tháng 6 năm 2026 của Ủy ban nhân dân phường Hai Bà Trưng về việc sắp xếp tổ dân phố trên địa bàn phường Hai Bà Trưng |url=https://sqhx-hanoi.mediacdn.vn/91579363132710912/2026/6/20/phuong-an-sap-nhap-tdp-dang-tren-trang-ttdt-17819231676831549782475.pdf |url-status=dead |archive-url=https://web.archive.org/web/20260819400809/https://sqhx-hanoi.mediacdn.vn/91579363132710912/2026/6/20/phuong-an-sap-nhap-tdp-dang-tren-trang-ttdt-17819231676831549782475.pdf |archive-date=2026-08-19 |access-date=2026-08-19 |website=Trang Thông tin điện tử phường Hai Bà Trưng – thành phố Hà Nội}}</ref><ref name=":23">{{Chú thích web |last= |date= |title=Nghị quyết số 22/NQ-HĐND ngày 29 tháng 6 năm 2026 của Hội đồng nhân dân phường Hai Bà Trưng về việc sắp xếp tổ dân phố trên địa bàn phường Hai Bà Trưng |url=https://sqhx-hanoi.mediacdn.vn/91579363132710912/2026/7/8/nq-sap-xep-to-dan-pho-17835077422221027546505.pdf |url-status=dead |archive-url=https://web.archive.org/web/20260820201510/https://sqhx-hanoi.mediacdn.vn/91579363132710912/2026/7/8/nq-sap-xep-to-dan-pho-17835077422221027546505.pdf |archive-date=2026-08-20 |access-date=2026-08-20 |website=Trang Thông tin điện tử phường Hai Bà Trưng – thành phố Hà Nội}}</ref><!-- 
+== Lịch sử== 
+Địa bàn phường Nguyễn Du hiện nay trước đây vốn là phường Nguyễn Du, phường Bùi Thị Xuân và một phần phường Ngô Thì Nhậm thuộc quận Hai Bà Trưng.
+
+Đến năm 2019, phường Nguyễn Du có diện tích 0,37&nbsp;km², dân số là 6.268 người, mật độ dân số đạt 16.941 người/km². Phường Bùi Thị Xuân có diện tích 0,14&nbsp;km², dân số là 4.489 người, mật độ dân số đạt 32.064 người/km².
+
+Ngày [[11 tháng 2]] năm [[2020]], Ủy ban Thường vụ Quốc hội ban hành Nghị quyết số 895/NQ-UBTVQH14 về việc sắp xếp các đơn vị hành chính cấp xã thuộc thành phố Hà Nội (nghị quyết có hiệu lực từ ngày [[1 tháng 3]] năm [[2020]])<ref name = NQ895>{{Chú thích web| url = https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Nghi-quyet-895-NQ-UBTVQH14-2020-sap-xep-cac-don-vi-hanh-chinh-cap-xa-thuoc-thanh-pho-Ha-Noi-435412.aspx| tựa đề = Nghị quyết số 895/NQ-UBTVQH14 năm 2020 về việc sắp xếp các đơn vị hành chính cấp xã thuộc thành phố Hà Nội| tác giả = | họ = | tên = | ngày = | website = | url lưu trữ = | ngày lưu trữ = | ngày truy cập = }}</ref>. Theo đó, sáp nhập toàn bộ diện tích và dân số của phường Bùi Thị Xuân cùng 0,01&nbsp;km² diện tích tự nhiên và 642 người của phường Ngô Thì Nhậm vừa giải thể (mặt phố Huế từ số nhà 52 đến số nhà 214) vào phường Nguyễn Du.
+-->
+[[Tập tin:Bản đồ các tổ dân phố thuộc phường Hai Bà Trưng của thành phố Hà Nội (từ ngày 1 tháng 7 năm 2026).jpg|trái|nhỏ|250x250px|Ranh giới 25 tổ dân phố trên địa bàn phường Hai Bà Trưng của thành phố Hà Nội (từ ngày 1 tháng 7 năm 2026)<ref>{{Chú thích web |last=Trang Thông tin điện tử phường Hai Bà Trưng – thành phố Hà Nội |date=2026-06-18 |title=Thông báo về việc lấy phiếu ý kiến Nhân dân và niêm yết công khai dự thảo Đề án sắp xếp tổ dân phố trên địa bàn phường Hai Bà Trưng |url=https://haibatrung.hanoi.gov.vn/trang-chu/thong-bao-ve-viec-lay-phieu-y-kien-nhan-dan-va-niem-yet-cong-khai-du-thao-de-an-sap-xep-to-dan-pho-tren-dia-ban-phuong-hai-ba-trung-2814260618101253163.htm?gidzl=J5Qd9y_ZVWD8IQCXnVf-3KXEeo7JhdqDK4ppBzpu9rjGIwbzr_eX30TB_ts7_IeE04_q8ZQrXEmLok9w0G |url-status=dead |archive-url=https://web.archive.org/web/20260820201510/https://haibatrung.hanoi.gov.vn/trang-chu/thong-bao-ve-viec-lay-phieu-y-kien-nhan-dan-va-niem-yet-cong-khai-du-thao-de-an-sap-xep-to-dan-pho-tren-dia-ban-phuong-hai-ba-trung-2814260618101253163.htm?gidzl=J5Qd9y_ZVWD8IQCXnVf-3KXEeo7JhdqDK4ppBzpu9rjGIwbzr_eX30TB_ts7_IeE04_q8ZQrXEmLok9w0G |archive-date=2026-08-20 |access-date=2026-08-20}}</ref>]]
+
+== Hành chính ==
+Phường Hai Bà Trưng được chia thành 25 tổ dân phố: Bạch Đằng từ 1 đến 3, Đồng Nhân từ 1 đến 6, Lê Đại Hành từ 1 đến 4, Nguyễn Du từ 1 đến 4, Phạm Đình Hổ từ 1 đến 4, Phố Huế từ 1 đến 4.<ref name=":022" /><ref name=":23" />
+{| class="wikitable sortable" align="center" width="100%" cellspacing="6" cellpadding="0" style="background: #f9f9f9; border: 1px #aaa solid; margin-top: 16px"
+! colspan="4" style="background: #E6E6FA; font-size: 95%;" |Danh sách các tổ dân phố thuộc phường Hai Bà Trưng<ref name=":022" /><ref name=":23" />
+|-
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Bạch Đằng 1
+|1.190
+|-
+| align="left" |Bạch Đằng 2
+|881
+|-
+| align="left" |Bạch Đằng 3
+|1.067
+|-
+| align="left" |Đồng Nhân 1
+|1.092
+|-
+| align="left" |Đồng Nhân 2
+|1.089
+|-
+| align="left" |Đồng Nhân 3
+|1.318
+|-
+| align="left" |Đồng Nhân 4
+|1.084
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Đồng Nhân 5
+|1.200
+|-
+| align="left" |Đồng Nhân 6
+|1.340
+|-
+| align="left" |Lê Đại Hành 1
+|1.249
+|-
+| align="left" |Lê Đại Hành 2
+|1.224
+|-
+| align="left" |Lê Đại Hành 3
+|956
+|-
+| align="left" |Lê Đại Hành 4
+|853
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Nguyễn Du 1
+|1.392
+|-
+| align="left" |Nguyễn Du 2
+|982
+|-
+| align="left" |Nguyễn Du 3
+|1.038
+|-
+| align="left" |Nguyễn Du 4
+|1.320
+|-
+| align="left" |Phạm Đình Hổ 1
+|1.289
+|-
+| align="left" |Phạm Đình Hổ 2
+|1.267
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Phạm Đình Hổ 3
+|1.359
+|-
+| align="left" |Phạm Đình Hổ 4
+|1.204
+|-
+| align="left" |Phố Huế 1
+|1.079
+|-
+| align="left" |Phố Huế 2
+|906
+|-
+| align="left" |Phố Huế 3
+|815
+|-
+| align="left" |Phố Huế 4
+|981
+|}
+|}
+
+== Địa chỉ trụ sở các cơ quan==
+
+* '''Trụ sở Đảng ủy''': Số 100, phố Tô Hiến Thành.<ref>Địa chỉ cũ: Số 100, phố Tô Hiến Thành, phường Lê Đại Hành, quận Hai Bà Trưng</ref><ref name = "trusomoi">{{Cite web | date = 25 tháng 6 năm 2025| title = Thông báo về địa điểm trụ sở làm việc của 126 phường, xã sau sắp xếp thuộc phạm vi quản lý của thành phố Hà Nội| url = https://dcdn.dantri.com.vn/2025/06/25/tru-so-126-xa-phuong-cua-ha-noi-1750822481952.pdf| website = UBND TP Hà Nội}}</ref>
+* '''Trụ sở UBND phường''': Số 30, phố Lê Đại Hành.<ref>Địa chỉ cũ: Số 30, phố Lê Đại Hành, phường Lê Đại Hành, quận Hai Bà Trưng</ref>
+* '''Trung tâm phục vụ hành chính công''': Số 6, phố Yên Bái 1.<ref>Địa chỉ cũ: Số 6, phố Yên Bái 1, phường Phố Huế, quận Hai Bà Trưng</ref><ref>{{Chú thích báo| url = https://ttpvhcc.hanoi.gov.vn/hoat-dong-cua-trung-tam/ha-noi-cong-khai-dia-diem-tiep-nhan-thu-tuc-hanh-chinh-thuoc-ubnd-126-xa-phuong-va-30-diem-tiep-nhan-cua-12-chi-nhanh-thuoc-trung-tam-phuc-vu-hanh-chinh-cong-thanh-pho-thong-tin-duong-day-nong-ho-tro-nguoi-dan-doanh-nghiep-2850250704103711121.htm| title = Hà Nội công khai địa điểm tiếp nhận thủ tục hành chính thuộc UBND 126 xã/phường và 30 điểm tiếp nhận của 12 Chi nhánh thuộc Trung tâm Phục vụ hành chính công Thành phố, thông tin đường dây nóng hỗ trợ người dân, doanh nghiệp| last = Trung tâm Phục vụ hành chính công thành phố Hà Nội}}{{Liên kết hỏng|date=2026-07-18 |bot=InternetArchiveBot }}</ref>
+* '''Công an phường''':<ref>{{Chú thích báo| url = https://daibieunhandan.vn/danh-sach-126-tru-so-cong-an-cap-xa-thuoc-cong-an-tp-ha-noi-de-nguoi-dan-toi-lam-can-cuoc-dang-ky-xe-10378397.html| title = Danh sách 126 trụ sở Công an cấp xã thuộc Công an TP. Hà Nội để người dân tới làm căn cước, đăng ký xe| last = Báo Đại biểu Nhân dân| first = }}</ref>
+** '''Trụ sở chính''': Số 135, phố Nguyễn Đình Chiểu.<ref>Địa chỉ cũ: Số 135, phố Nguyễn Đình Chiểu, phường Lê Đại Hành, quận Hai Bà Trưng</ref>
+** '''Trụ sở tiếp nhận thủ tục hành chính, CCCD''': Số 33, phố Hương Viên.<ref>Địa chỉ cũ: Số 33, phố Hương Viên, phường Đồng Nhân, quận Hai Bà Trưng</ref>
+** '''Trụ sở tiếp nhận thủ tục đăng ký xe''': Số 135, phố Nguyễn Đình Chiểu.<ref>Địa chỉ cũ: Số 41, phố Nguyễn Đình Chiểu, phường Lê Đại Hành, quận Hai Bà Trưng</ref>
+
+== Di tích - Danh thắng== 
+* [[Đền Đồng Nhân]] thờ [[Hai Bà Trưng]], là di tích văn hóa cấp quốc gia.
+
+==Danh nhân==
+* [[Nguyễn Quang Bích]] (tên thật '''Phùng Quang Bích''') (1922 – 2010) là một tướng lĩnh trong [[Quân đội nhân dân Việt Nam]].
+
+== Chú thích== 
+{{tham khảo}}
+{{sơ khai Hà Nội}}
+{{Đơn vị hành chính thuộc thành phố Hà Nội}}

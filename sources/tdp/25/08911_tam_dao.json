@@ -1,0 +1,204 @@
+{
+  "ward_code": "08911",
+  "ward_name": "Tam Đảo",
+  "province_code": "25",
+  "resolution": "",
+  "arrangement": "truoc_2026_07",
+  "effective_date": "",
+  "verified": "unverified",
+  "extraction": {
+    "source": "vi.wikipedia.org",
+    "title": "Tam Đảo (xã)",
+    "mode": "narrative"
+  },
+  "sources": [
+    {
+      "key": "wiki-08911-1",
+      "title": "Nghị quyết số 2/NQ-UBBC về việc Công bố danh sách chính thức những người ứng cử đại biểu Hội đồng nhân dân xã Tam Đảo Khóa II, nhiệm kỳ 2026 - 2031 theo từng đơn vị bầu cử",
+      "url": "https://www.facebook.com/story.php?story_fbid=122176982918928009&id=61577840287449&rdid=1siWcnccZT14yYPj#",
+      "date": "2026-02-13",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-08911-2",
+      "title": "Nghị quyết số 111/2025/UBTVQH15 về phân loại đô thị",
+      "url": "https://xaydungchinhsach.chinhphu.vn/nghi-quyet-so-111-2025-ubtvqh15-ve-phan-loai-do-thi-119260101170432239.htm",
+      "date": "2026-01-21",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-08911-3",
+      "title": "Danh sách Thôn vùng đồng bào dân tộc thiểu số và miền núi, thôn đặc biệt khó khăn giai đoạn 2026 - 2030 trên địa bàn tỉnh Phú Thọ",
+      "url": "http://files.ubdt.gov.vn/files/ecm/source_files/2026/02/05/11252411_4.%20Ph%C3%BA%20Th%E1%BB%8D%201%20(th%C3%B4n).signed_26-02-05.pdf",
+      "date": "2026-01-29",
+      "type": "wikipedia-ref"
+    }
+  ],
+  "note": "Trích tự động từ Wikipedia tiếng Việt (mode=narrative). Cần đối chiếu nghị quyết HĐND phường/xã. ⚠️ Danh mục có thể là hiện trạng TRƯỚC sắp xếp thôn/TDP 01/7/2026 — Wikipedia chưa cập nhật nghị quyết mới.",
+  "tdp": [
+    {
+      "name": "Ao Mây",
+      "type": "thôn"
+    },
+    {
+      "name": "Bàn Long",
+      "type": "thôn"
+    },
+    {
+      "name": "Bảo Ninh",
+      "type": "thôn"
+    },
+    {
+      "name": "Bảo Phác",
+      "type": "thôn"
+    },
+    {
+      "name": "Bảo Thắng",
+      "type": "thôn"
+    },
+    {
+      "name": "Cam Lâm",
+      "type": "thôn"
+    },
+    {
+      "name": "Cam Lâm Đồn",
+      "type": "thôn"
+    },
+    {
+      "name": "Cầu Tre",
+      "type": "thôn"
+    },
+    {
+      "name": "Cây Thông",
+      "type": "thôn"
+    },
+    {
+      "name": "Chăm Chỉ",
+      "type": "thôn"
+    },
+    {
+      "name": "Chùa Vàng",
+      "type": "thôn"
+    },
+    {
+      "name": "Cửu Yên 1",
+      "type": "thôn"
+    },
+    {
+      "name": "Cửu Yên 2",
+      "type": "thôn"
+    },
+    {
+      "name": "Đầu Vai",
+      "type": "thôn"
+    },
+    {
+      "name": "Đồi Cao",
+      "type": "thôn"
+    },
+    {
+      "name": "Đồi Thông",
+      "type": "thôn"
+    },
+    {
+      "name": "Đồng Bả",
+      "type": "thôn"
+    },
+    {
+      "name": "Đồng Thanh",
+      "type": "thôn"
+    },
+    {
+      "name": "Đồng Thứ",
+      "type": "thôn"
+    },
+    {
+      "name": "Hợp Thành",
+      "type": "thôn"
+    },
+    {
+      "name": "Làng Hà",
+      "type": "thôn"
+    },
+    {
+      "name": "Lưu Quang",
+      "type": "thôn"
+    },
+    {
+      "name": "Minh Hồng",
+      "type": "thôn"
+    },
+    {
+      "name": "Minh Tân",
+      "type": "thôn"
+    },
+    {
+      "name": "Nga Hòang",
+      "type": "thôn"
+    },
+    {
+      "name": "Núc Hạ",
+      "type": "thôn"
+    },
+    {
+      "name": "Núc Thượng",
+      "type": "thôn"
+    },
+    {
+      "name": "Phô Cốc",
+      "type": "thôn"
+    },
+    {
+      "name": "Quang Minh",
+      "type": "thôn"
+    },
+    {
+      "name": "Quang Sơn",
+      "type": "thôn"
+    },
+    {
+      "name": "Sơn Đồng",
+      "type": "thôn"
+    },
+    {
+      "name": "Sơn Long",
+      "type": "thôn"
+    },
+    {
+      "name": "Tân Long",
+      "type": "thôn"
+    },
+    {
+      "name": "Tân Lương",
+      "type": "thôn"
+    },
+    {
+      "name": "Tích Cựu",
+      "type": "thôn"
+    },
+    {
+      "name": "Trại Khóng",
+      "type": "thôn"
+    },
+    {
+      "name": "Trung Hòa",
+      "type": "thôn"
+    },
+    {
+      "name": "Vực Lựu",
+      "type": "thôn"
+    },
+    {
+      "name": "Xạ Hương",
+      "type": "thôn"
+    },
+    {
+      "name": "Yên Bình",
+      "type": "thôn"
+    },
+    {
+      "name": "Yên Trung",
+      "type": "thôn"
+    }
+  ]
+}

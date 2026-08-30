@@ -1,0 +1,129 @@
+{{Thông tin đơn vị hành chính Việt Nam|Xã
+| tên = Thiên Lộc
+| hình =Dai lo Thang long Hanoi Vietnam,photo Dyt2011 - panoramio.jpg 
+| ghi chú hình =Cầu Thăng Long, ranh giới giữa xã Thiên Lộc và xã Vĩnh Thanh 
+| vĩ độ = 21.13191756874671
+| kinh độ = 105.77844674931522
+| diện tích = 27,96 km²
+| dân số = 74.597 người
+| thời điểm dân số = 2025
+| mật độ dân số = {{formatnum:{{#expr:floor({{formatnum:74.597| R}}/{{formatnum:27,96| R}})}} }} người/km²
+| vùng = [[Đồng bằng sông Hồng]]
+| thành phố = [[Hà Nội]]
+| thành lập = 
+| trụ sở UBND = Thôn Bầu<ref>{{Chú thích web |url=https://storage-vnportal.vnpt.vn/gov-hni/6244/VanBan/2025/6/25/TB-729-2025.pdf |title=Thông báo số 729/TB-UBND ngày 25 tháng 6 năm 2025 của Ủy ban nhân dân thành phố Hà Nội về địa điểm trụ sở làm việc của 126 phường, xã sau sắp xếp thuộc phạm vi quản lý của thành phố Hà Nội|access-date=2026-06-15 |archive-date=2026-06-15 |archive-url=https://web.archive.org/web/20260615034519/https://storage-vnportal.vnpt.vn/gov-hni/6244/VanBan/2025/6/25/TB-729-2025.pdf |url-status=dead | website = Cổng Thông tin điện tử Ủy ban nhân dân thành phố Hà Nội}}</ref>
+| mã hành chính = 00493<ref>{{Chú thích web |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/19ttg.signed.pdf |title=Quyết định số 19/2025/QĐ-TTg ngày 30 tháng 6 năm 2025 của Thủ tướng Chính phủ về việc Ban hành Bảng danh mục và mã số các đơn vị hành chính Việt Nam |access-date=2026-06-15 |archive-date=2026-06-15 |archive-url=https://web.archive.org/web/20260615034519/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/19ttg.signed.pdf |url-status=dead | website = Cổng Thông tin điện tử Chính phủ}}</ref>
+| mã bưu chính = 
+| web = {{url|thienloc.hanoi.gov.vn}}
+|bản đồ 1={{maplink|frame=yes|plain=yes|type=shape|frame-width=280|frame-align=center|stroke-width=3}}|trụ sở Đảng ủy=Thôn Bầu}}
+{{other|Thiên Lộc (định hướng)}}
+
+'''Thiên Lộc''' là một [[Xã (Việt Nam)|xã]] thuộc thành phố [[Hà Nội]], [[Việt Nam]].
+
+== Địa lý == 
+Xã Thiên Lộc có vị trí địa lý:
+
+* Phía đông giáp xã [[Phúc Thịnh]] và xã [[Vĩnh Thanh, Hà Nội|Vĩnh Thanh]]
+* Phía tây giáp xã [[Mê Linh (xã)|Mê Linh]]
+* Phía nam giáp phường [[Thượng Cát]], phường [[Đông Ngạc]] và phường [[Phú Thượng]] với ranh giới tự nhiên là [[sông Hồng]]
+* Phía bắc giáp xã [[Phúc Thịnh]].<ref>{{Chú thích web |last=Viện nghiên cứu Phát triển kinh tế – xã hội Hà Nội |date=2025-07-02 |title=Xã Thiên Lộc: Những thông tin chi tiết sau sắp xếp |url=https://hanoionline.vn/xa-thien-loc-nhung-thong-tin-chi-tiet-sau-sap-xep-344067.htm |url-status=live |archive-url=https://web.archive.org/web/20260701400809/https://hanoionline.vn/xa-thien-loc-nhung-thong-tin-chi-tiet-sau-sap-xep-344067.htm |archive-date=2026-07-01 |access-date=2026-07-01 |website=Cơ quan Báo và Phát thanh Truyền hình Hà Nội}}</ref><ref>{{Chú thích web|last=Cơ quan Báo và Phát thanh Truyền hình Hà Nội|date=2025-07-08|title=Xã Thiên Lộc: Tất cả thông tin chỉ dẫn bạn cần biết|url=https://hanoionline.vn/xa-thien-loc-tat-ca-thong-tin-chi-dan-ban-can-biet-345675.htm|url-status=bot: unknown|archive-url=https://web.archive.org/web/20260520140939/https://hanoionline.vn/xa-thien-loc-tat-ca-thong-tin-chi-dan-ban-can-biet-345675.htm|archive-date=2026-05-20|access-date=2026-07-11}}</ref>
+Xã Thiên Lộc có diện tích tự nhiên là 27,96 km<sup>2</sup>, quy mô dân số năm 2025 là 74.597 người và mật độ dân số đạt 2.667 người/km<sup>2</sup>.<ref>{{Chú thích web|last=Mai Hữu|date=2026-04-05|title=Hà Nội: Chi tiết phương án tổng thể sắp xếp đơn vị hành chính cấp xã|url=https://hanoimoi.vn/ha-noi-chi-tiet-phuong-an-tong-the-sap-xep-don-vi-hanh-chinh-cap-xa-700278.html|url-status=bot: unknown|archive-url=https://web.archive.org/web/20250710163328/https://hanoimoi.vn/ha-noi-chi-tiet-phuong-an-tong-the-sap-xep-don-vi-hanh-chinh-cap-xa-700278.html|archive-date=2025-07-10|access-date=2026-07-11|website=Cơ quan Báo và Phát thanh, truyền hình Hà Nội}}</ref><ref>Công văn số 2896/BNV-CQĐP ngày 27 tháng 5 năm 2025 của Bộ Nội vụ về việc cung cấp thông tin danh mục dự kiến đơn vị hành chính cấp xã mới.</ref>
+
+== Lịch sử ==
+
+=== Trước năm 1976 ===
+Năm 1831, các xã: Đại Mạch, Mạch Lũng, Lũng Đông, Mai Châu thuộc tổng Quải Mai, huyện Yên Lãng, phủ Tam Đái (năm 1888 là Vĩnh Tường), tỉnh Sơn Tây mới thành lập.
+
+Đầu thế kỷ XX, sáp nhập tổng Quản Mai vào huyện Đông Anh, tỉnh Phúc Yên và được đổi tên là tổng Sáp Mai gồm các xã: Đại Đồng, Mạch Lũng, Mai Châu.
+
+Năm 1946, các xã: Đại Đồng, Mạch Lũng, Mai Châu hợp nhất thành xã Đại Mạch.
+
+Ngày 12 tháng 2 năm 1950, Thủ tướng Chính phủ ban hành Nghị định số 03-TTg.<ref>Nghị định số 03-TTg hợp nhất tỉnh Phúc Yên và tỉnh Vĩnh Yên thành tỉnh Vĩnh Phúc.</ref> Theo đó, xã Dân Chủ thuộc huyện Đông Anh, tỉnh Vĩnh Phúc mới thành lập.
+
+Tháng 8 năm 1955, xã Dân Chủ được tách thành 2 xã: Dân Chủ và Hòa Bình; các 
+thôn: Đại Đồng, Mạch Lũng (gồm cả Lũng Đông) và Mai Châu thuộc xã Dân Chủ, huyện Đông Anh, tỉnh Vĩnh Phúc.
+
+Ngày 20 tháng 4 năm 1961, Quốc hội ban hành Nghị quyết<ref>Nghị quyết về việc mở rộng thành phố Hà Nội ngày [[20 tháng 4]] năm [[1961]]</ref> về việc sáp nhập xã Dân Chủ, huyện Đông Anh, tỉnh Vĩnh Phúc vào thành phố Hà Nội quản lý.
+
+Năm 1965, xã Dân Chủ đổi tên thành xã Đại Mạch.<ref name = ĐA>{{chú thích sách| author = UBND huyện Đông Anh | url = https://donganh.hanoi.gov.vn/documents/6071114/6720657/D%E1%BB%B1+th%E1%BA%A3o+%C4%91%E1%BB%81+%C3%A1n+qu%E1%BA%ADn+%C4%90%C3%B4ng+Anh.pdf| title = Dự thảo Đề án thành lập quận Đông Anh và các phường thuộc quận Đông Anh, thành phố Hà Nội | year = 2023 | location = Đông Anh, Hà Nội | p = 54-55 | url-status = live| archive-url = https://web.archive.org/web/20230712081151/https://donganh.hanoi.gov.vn/documents/6071114/6720657/D%E1%BB%B1+th%E1%BA%A3o+%C4%91%E1%BB%81+%C3%A1n+qu%E1%BA%ADn+%C4%90%C3%B4ng+Anh.pdf| archive-date = 2023-07-12}}</ref>
+
+=== Giai đoạn 1976 – nay ===
+Sau ngày 2 tháng 7 năm 1976, 5 xã: Đại Mạch, Hải Bối, Kim Chung, Kim Nỗ và Võng La thuộc huyện [[Đông Anh (huyện)|Đông Anh]] của thành phố [[Hà Nội]]; xã Tiền Phong thuộc huyện [[Yên Lãng (huyện)|Yên Lãng]] của tỉnh [[Vĩnh Phú (tỉnh)|Vĩnh Phú]].
+
+Ngày 5 tháng 7 năm 1977, hợp nhất huyện [[Bình Xuyên (huyện)|Bình Xuyên]] và huyện [[Yên Lãng (huyện)|Yên Lãng]] thành một huyện lấy tên là huyện [[Mê Linh (huyện)|Mê Linh]]. Khi đó, xã Tiền Phong thuộc huyện [[Mê Linh (huyện)|Mê Linh]].<ref>Quyết định số 178-CP ngày 5 tháng 7 năm 1977 của Hội đồng Chính phủ về việc hợp nhất và điều chỉnh địa giới một số huyện thuộc tỉnh Vĩnh Phú.</ref>
+
+Ngày 29 tháng 12 năm 1978, sáp nhập xã Tiền Phong thuộc huyện [[Mê Linh (huyện)|Mê Linh]] của tỉnh [[Vĩnh Phú (tỉnh)|Vĩnh Phú]] vào thành phố [[Hà Nội]].<ref>Nghị quyết ngày 29 tháng 12 năm 1978 của Quốc hội khóa VI, Kỳ họp thứ 4 phê chuẩn việc phân vạch lại địa giới thành phố Hà Nội, thành phố Hồ Chí Minh, các tỉnh Hà Sơn Bình, Vĩnh Phú, Cao Lạng, Bắc Thái, Quảng Ninh và Đồng Nai.</ref>
+
+Ngày 12 tháng 8 năm 1991, chuyển huyện [[Mê Linh (huyện)|Mê Linh]] của thành phố [[Hà Nội]] về tỉnh [[Vĩnh Phú (tỉnh)|Vĩnh Phú]]. Khi đó, xã Tiền Phong thuộc huyện [[Mê Linh (huyện)|Mê Linh]] của tỉnh [[Vĩnh Phú (tỉnh)|Vĩnh Phú]].<ref>Nghị quyết ngày 12 tháng 8 năm 1991 của Quốc hội khóa VIII, Kỳ họp thứ 9 về việc điều chỉnh địa giới hành chính một số tỉnh, thành phố trực thuộc Trung ương.</ref>
+
+Ngày 6 tháng 11 năm 1996, chia tỉnh [[Vĩnh Phú (tỉnh)|Vĩnh Phú]] thành hai tỉnh là tỉnh [[Phú Thọ]] và tỉnh [[Vĩnh Phúc (tỉnh)|Vĩnh Phúc]]. Khi đó, xã Tiền Phong thuộc huyện [[Mê Linh (huyện)|Mê Linh]] của tỉnh [[Vĩnh Phúc (tỉnh)|Vĩnh Phúc]].<ref>Nghị quyết ngày 6 tháng 11 năm 1996 của Quốc hội khóa IX, Kỳ họp thứ 10 về việc chia và điều chỉnh địa giới hành chính một số tỉnh.</ref>
+
+Ngày 29 tháng 5 năm 2008, chuyển toàn bộ huyện [[Mê Linh (huyện)|Mê Linh]] của tỉnh [[Vĩnh Phúc (tỉnh)|Vĩnh Phúc]] về thành phố [[Hà Nội]].<ref>Nghị quyết số 15/2008/QH12 ngày 29 tháng 5 năm 2008 của Quốc hội khóa XII, Kỳ họp thứ 3 về việc điều chỉnh địa giới hành chính thành phố Hà Nội và một số tỉnh có liên quan.</ref>
+
+Ngày 8 tháng 5 năm 2009, xác lập địa giới hành chính của huyện [[Mê Linh (huyện)|Mê Linh]] thuộc thành phố [[Hà Nội]]. Khi đó, xã Tiền Phong thuộc huyện [[Mê Linh (huyện)|Mê Linh]] của thành phố Hà Nội.<ref>{{Chú thích web |title=Nghị quyết số 19/NQ-CP ngày 8 tháng 5 năm 2009 của Chính phủ về việc xác lập địa giới hành chính xã Đông Xuân thuộc huyện Quốc Oai; các xã Tiến Xuân, Yên Bình, Yên Trung thuộc huyện Thạch Thất; huyện Mê Linh thuộc thành phố Hà Nội; thành lập quận Hà Đông và các phường trực thuộc; chuyển thành phố Sơn Tây thành thị xã Sơn Tây thuộc thành phố Hà Nội |url=https://chinhphu.vn/default.aspx?pageid=27160&docid=86463 |url-status=bot: unknown |archive-url=https://web.archive.org/web/20250120035053/https://chinhphu.vn/default.aspx?pageid=27160&docid=86463 |archive-date=2025-01-20 |access-date=2026-07-06 |website=Cổng Thông tin điện tử Chính phủ }}</ref>
+
+Ngày 16 tháng 6 năm 2025:
+
+* Kết thúc hoạt động của đơn vị hành chính cấp huyện trong cả nước.<ref>{{Chú thích web |last= |date= |title=Nghị quyết số 203/2025/QH15 ngày 16 tháng 6 năm 2025 của Quốc hội khóa XV, Kỳ họp thứ 9 về việc sửa đổi, bổ sung một số điều của Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/nq-sua-doi-hien-phap.pdf |url-status=live |archive-url=https://web.archive.org/web/20260613090807/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/nq-sua-doi-hien-phap.pdf |archive-date=2026-06-13 |access-date=2026-06-13 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+* Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của xã Võng La, một phần diện tích tự nhiên, toàn bộ quy mô dân số của các xã Kim Chung, Đại Mạch, Kim Nỗ (huyện [[Đông Anh (huyện)|Đông Anh]]), một phần diện tích tự nhiên của xã Tiền Phong (huyện [[Mê Linh (huyện)|Mê Linh]]) và xã Hải Bối (huyện [[Đông Anh (huyện)|Đông Anh]]) thành xã mới có tên gọi là xã Thiên Lộc.<ref>{{Chú thích web |title=Nghị quyết số 1656/NQ-UBTVQH15 ngày 16 tháng 6 năm 2025 của Ủy ban Thường vụ Quốc hội về việc sắp xếp các đơn vị hành chính cấp xã của thành phố Hà Nội năm 2025 |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf |url-status=bot: unknown |archive-url=https://web.archive.org/web/20260513110024/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf |archive-date=2026-05-13 |access-date=2026-06-30 |website=Cổng Thông tin điện tử Chính phủ }}</ref>
+* Sau khi sắp xếp, xã Thiên Lộc được chia thành 14 thôn.<ref>3 thôn: Đại Độ, Sáp Mai và Võng La của xã Võng La cũ; 3 thôn: Bầu, Hậu Dưỡng và Nhuế của xã Kim Chung cũ; 3 thôn: Đại Đồng, Mai Châu và Mạch Lũng của xã Đại Mạch cũ; 5 thôn: Bắc, Cầu Thăng Long, Đoài, Đông và Thọ Đa của xã Kim Nỗ cũ.</ref><ref>{{Chú thích web |title=Thông tư số 10/2022/TT-BTNMT ngày 29 tháng 9 năm 2022 của Bộ Tài nguyên và Môi trường về việc Ban hành Danh mục địa danh dân cư, sơn văn, thủy văn, kinh tế – xã hội phục vụ công tác thành lập bản đồ thành phố Hà Nội |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2022/10/10-btnmt.pdf |url-status=bot: unknown |archive-url=https://web.archive.org/web/20260630082812/https://datafiles.chinhphu.vn/cpp/files/vbpq/2022/10/10-btnmt.pdf |archive-date=2026-06-30 |access-date=2026-06-30 |website=Cổng Thông tin điện tử Chính phủ }}</ref><ref name=":0">{{Chú thích web |last=Trang Thông tin điện tử xã Thiên Lộc – thành phố Hà Nội |date=2026-02-27 |title=Danh sách chính thức những người ứng cử đại biểu Hội đồng nhân dân xã Thiên Lộc khóa II, nhiệm kỳ 2026 – 2031 |url=https://thienloc.hanoi.gov.vn/bau-cu/danh-sach-chinh-thuc-nhung-nguoi-ung-cu-dai-bieu-hdnd-xa-thien-loc-khoa-ii-nhiem-ky-2026-2031-2786260225120538456.htm |url-status=live |archive-url=https://web.archive.org/web/20260701400809/https://thienloc.hanoi.gov.vn/bau-cu/danh-sach-chinh-thuc-nhung-nguoi-ung-cu-dai-bieu-hdnd-xa-thien-loc-khoa-ii-nhiem-ky-2026-2031-2786260225120538456.htm |archive-date=2026-07-01 |access-date=2026-07-01 |website=}}</ref>
+
+== Hành chính ==
+Xã Thiên Lộc được chia thành 14 thôn: Bắc, Bầu, Cầu Thăng Long, Đại Đồng, Đại Độ, Đoài, Đông, Hậu Dưỡng, Mai Châu, Mạch Lũng, Nhuế, Sáp Mai, Thọ Đa và Võng La.<ref name=":0" />
+{| class="wikitable sortable" align="center" width="100%" cellspacing="6" cellpadding="0" style="background: #f9f9f9; border: 1px #aaa solid; margin-top: 16px"
+! colspan="4" style="background: #E6E6FA; font-size: 95%;" |Danh sách các thôn thuộc xã Thiên Lộc<ref name=":0" />
+|-
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+|-
+| align="left" |Bắc
+|-
+| align="left" |Bầu
+|-
+| align="left" |Cầu Thăng Long
+|-
+| align="left" |Đại Đồng
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+|-
+| align="left" |Đại Độ
+|-
+| align="left" |Đoài
+|-
+| align="left" |Đông
+|-
+| align="left" |Hậu Dưỡng
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+|-
+| align="left" |Mai Châu
+|-
+| align="left" |Mạch Lũng
+|-
+| align="left" |Nhuế
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+|-
+| align="left" |Sáp Mai
+|-
+| align="left" |Thọ Đa
+|-
+| align="left" |Võng La
+|}
+|}
+
+== Di tích - Danh thắng ==
+* [[Miếu Mạch Lũng]] được [[Bộ Văn hóa Thông tin Việt Nam]] cấp bằng công nhận Di tích lịch sử văn hóa năm 1993.
+
+== Chú thích== 
+{{tham khảo}}
+
+== Tham khảo==
+{{Sơ khai Hà Nội}}{{Đơn vị hành chính thuộc thành phố Hà Nội}}

@@ -1,0 +1,104 @@
+{
+  "ward_code": "08245",
+  "ward_name": "Trạm Thản",
+  "province_code": "25",
+  "resolution": "",
+  "arrangement": "truoc_2026_07",
+  "effective_date": "",
+  "verified": "unverified",
+  "extraction": {
+    "source": "vi.wikipedia.org",
+    "title": "(cache)",
+    "mode": "narrative"
+  },
+  "sources": [
+    {
+      "key": "wiki-08245-1",
+      "title": "Quyết định số 82/QĐ-UBND về việc thành lập các khu vực bỏ phiếu bầu cử đại biểu Quốc hội khóa XVI và đại biểu Hội đồng nhân dân các cấp nhiệm kỳ 2026 - 2031 trên địa bàn xã Trạm Thản",
+      "url": "https://tramthan.phutho.gov.vn/tin-tuc-su-kien/thoi-su-chinh-tri/danh-sach-23-khu-vuc-bo-phieu-bau-cu-dai-bieu-quoc-hoi-khoa-xvi-va-dai-bieu-hoi-dong-nhan-dan-cac-cap-nhiem-ky-2026-2031-tren-dia-ban-xa-tram-than/?gidzl=7DStFiv8J5uOo3Cuor5CNn_EDJxLKKrT1vmnRuTJHrrLd6XgqWj7M0AIFJpI1HTV0vWxFpVahavHoqb8N0",
+      "date": "2026-01-22",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-08245-2",
+      "title": "Danh sách những người ứng cử đại biểu Hội đồng nhân dân xã Trạm Thản khóa XXIV nhiệm kỳ 2026 - 2031",
+      "url": "https://tramthan.phutho.gov.vn/tin-tuc-su-kien/thoi-su-chinh-tri/danh-sach-nhung-nguoi-ung-cu-dai-bieu-hdnd-xa-tram-than-khoa-xxiv-nhiem-ky-2026-2031/?gidzl=ASZNO1WKBWGjrzDc7Gqj0oZHr6C1NIrLDO7IObCDVGzjrDDfNrWgMZlGrMaB3tXQFjJNR3O7xSnL7HKg1W",
+      "date": "2026-03-04",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-08245-3",
+      "title": "NGHỊ QUYẾT 203/2025/QH15 SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA HIẾN PHÁP NƯỚC CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM",
+      "url": "https://xaydungchinhsach.chinhphu.vn/nghi-quyet-203-2025-qh15-sua-doi-bo-sung-mot-so-dieu-cua-hien-phap-nuoc-cong-hoa-xa-hoi-chu-nghia-viet-nam-119250616181735552.htm",
+      "date": "2025-06-28",
+      "type": "wikipedia-ref"
+    }
+  ],
+  "note": "Trích tự động từ Wikipedia tiếng Việt (mode=narrative). Cần đối chiếu nghị quyết HĐND phường/xã. ⚠️ Danh mục có thể là hiện trạng TRƯỚC sắp xếp thôn/TDP 01/7/2026 — Wikipedia chưa cập nhật nghị quyết mới.",
+  "tdp": [
+    {
+      "name": "1",
+      "type": "khu"
+    },
+    {
+      "name": "2",
+      "type": "khu"
+    },
+    {
+      "name": "3",
+      "type": "khu"
+    },
+    {
+      "name": "4",
+      "type": "khu"
+    },
+    {
+      "name": "6",
+      "type": "khu"
+    },
+    {
+      "name": "8",
+      "type": "khu"
+    },
+    {
+      "name": "9",
+      "type": "khu"
+    },
+    {
+      "name": "10",
+      "type": "khu"
+    },
+    {
+      "name": "11",
+      "type": "khu"
+    },
+    {
+      "name": "12",
+      "type": "khu"
+    },
+    {
+      "name": "14",
+      "type": "khu"
+    },
+    {
+      "name": "15 (xã Tiên Phú cũ)",
+      "type": "khu"
+    },
+    {
+      "name": "5",
+      "type": "khu"
+    },
+    {
+      "name": "7",
+      "type": "khu"
+    },
+    {
+      "name": "8 (xã Trạm Thản cũ)",
+      "type": "khu"
+    },
+    {
+      "name": "8 (xã Trung Giáp cũ)",
+      "type": "khu"
+    }
+  ]
+}

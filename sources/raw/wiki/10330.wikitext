@@ -1,0 +1,148 @@
+{{Thông tin đơn vị hành chính Việt Nam|Xã
+| tên = Chuyên Mỹ
+| vĩ độ = 20.71690937669881
+| kinh độ = 105.89518315361227
+| vĩ phút = 
+| vĩ giây = 
+| kinh phút = 
+| kinh giây = 
+| diện tích = 35,54 km²
+| dân số = 44.859 người
+| thời điểm dân số = 2025
+| mật độ dân số = {{formatnum:{{#expr:floor({{formatnum:44.859| R}}/{{formatnum:35,54| R}})}} }} người/km²
+| vùng = [[Đồng bằng sông Hồng]]
+| thành phố = [[Hà Nội]]
+| thành lập = 
+| trụ sở UBND =Thôn Cựu<ref>{{Chú thích web |url=https://storage-vnportal.vnpt.vn/gov-hni/6244/VanBan/2025/6/25/TB-729-2025.pdf |title=Thông báo số 729/TB-UBND ngày 25 tháng 6 năm 2025 của Ủy ban nhân dân thành phố Hà Nội về địa điểm trụ sở làm việc của 126 phường, xã sau sắp xếp thuộc phạm vi quản lý của thành phố Hà Nội|access-date=2026-06-15 |archive-date=2026-06-15 |archive-url=https://web.archive.org/web/20260615034519/https://storage-vnportal.vnpt.vn/gov-hni/6244/VanBan/2025/6/25/TB-729-2025.pdf |url-status=dead | website = Cổng Thông tin điện tử Ủy ban nhân dân thành phố Hà Nội}}</ref> 
+| mã hành chính =10330<ref>{{Chú thích web |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/19ttg.signed.pdf |title=Quyết định số 19/2025/QĐ-TTg ngày 30 tháng 6 năm 2025 của Thủ tướng Chính phủ về việc Ban hành Bảng danh mục và mã số các đơn vị hành chính Việt Nam |access-date=2026-06-15 |archive-date=2026-06-15 |archive-url=https://web.archive.org/web/20260615034519/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/19ttg.signed.pdf |url-status=dead }}</ref> 
+| mã bưu chính = 
+|bản đồ 1={{maplink|frame=yes|plain=yes|type=shape|frame-width=280|frame-align=center|stroke-width=3}}|web={{url|chuyenmy.hanoi.gov.vn}}|trụ sở Đảng ủy=Thôn Chuôn Thượng}}
+
+'''Chuyên Mỹ''' là một [[Xã (Việt Nam)|xã]] thuộc thành phố [[Hà Nội]], [[Việt Nam]].
+
+== Địa lý == 
+Xã Chuyên Mỹ có vị trí địa lý:
+
+* Phía đông giáp xã [[Phú Xuyên, Hà Nội|Phú Xuyên]] và xã [[Đại Xuyên]]
+* Phía tây giáp xã [[Ứng Hòa (xã)|Ứng Hòa]]
+* Phía nam giáp phường [[Duy Hà]] thuộc tỉnh [[Ninh Bình]]
+* Phía bắc giáp xã [[Phượng Dực]].<ref>{{Chú thích web |last=Viện nghiên cứu Phát triển kinh tế – xã hội Hà Nội |date=2025-07-02 |title=Xã Chuyên Mỹ: Những thông tin chi tiết sau sắp xếp |url=https://hanoionline.vn/xa-chuyen-my-nhung-thong-tin-chi-tiet-sau-sap-xep-344286.htm |url-status=live |archive-url=https://web.archive.org/web/20260701400809/https://hanoionline.vn/xa-chuyen-my-nhung-thong-tin-chi-tiet-sau-sap-xep-344286.htm |archive-date=2026-07-01 |access-date=2026-07-01 |website=Cơ quan Báo và Phát thanh Truyền hình Hà Nội}}</ref><ref>{{Chú thích web |last=Cơ quan Báo và Phát thanh Truyền hình Hà Nội |date=2025-07-09 |title=Xã Chuyên Mỹ: Tất cả thông tin chỉ dẫn bạn cần biết |url=https://hanoionline.vn/xa-chuyen-my-tat-ca-thong-tin-chi-dan-ban-can-biet-345204.htm |url-status=live |archive-url=https://web.archive.org/web/20260711401509/https://hanoionline.vn/xa-chuyen-my-tat-ca-thong-tin-chi-dan-ban-can-biet-345204.htm |archive-date=2026-07-11 |access-date=2026-07-11}}</ref>
+Xã Chuyên Mỹ có diện tích tự nhiên là 35,54 km<sup>2</sup>, quy mô dân số năm 2025 là 44.859 người và mật độ dân số đạt 1.262 người/km<sup>2</sup>.<ref>{{Chú thích web |last=Mai Hữu |date=2026-04-05 |title=Hà Nội: Chi tiết phương án tổng thể sắp xếp đơn vị hành chính cấp xã |url=https://hanoimoi.vn/ha-noi-chi-tiet-phuong-an-tong-the-sap-xep-don-vi-hanh-chinh-cap-xa-700278.html |url-status=live |archive-url=https://web.archive.org/web/20260711401509/https://hanoimoi.vn/ha-noi-chi-tiet-phuong-an-tong-the-sap-xep-don-vi-hanh-chinh-cap-xa-700278.html |archive-date=2026-07-11 |access-date=2026-07-11 |website=Cơ quan Báo và Phát thanh, truyền hình Hà Nội}}</ref><ref>Công văn số 2896/BNV-CQĐP ngày 27 tháng 5 năm 2025 của Bộ Nội vụ về việc cung cấp thông tin danh mục dự kiến đơn vị hành chính cấp xã mới.</ref>
+
+== Lịch sử ==
+
+=== Trước năm 1976 ===
+
+=== Giai đoạn 1976 – nay ===
+Sau ngày 2 tháng 7 năm 1976, 5 xã: Châu Can, Chuyên Mỹ, Phú Yên, Tân Dân và Vân Từ thuộc huyện [[Phú Xuyên (huyện)|Phú Xuyên]] của tỉnh [[Hà Sơn Bình]].
+
+Ngày 12 tháng 8 năm 1991, chia tỉnh [[Hà Sơn Bình]] thành 2 tỉnh, lấy tên là tỉnh [[Hòa Bình (tỉnh)|Hòa Bình]] và tỉnh [[Hà Tây (tỉnh)|Hà Tây]]. Khi đó, 5 xã: Châu Can, Chuyên Mỹ, Phú Yên, Tân Dân và Vân Từ thuộc huyện [[Phú Xuyên (huyện)|Phú Xuyên]] của tỉnh [[Hà Tây (tỉnh)|Hà Tây]].<ref>Nghị quyết ngày 12 tháng 8 năm 1991 của Quốc hội khóa VIII, Kỳ họp thứ 9 về việc điều chỉnh địa giới hành chính một số tỉnh, thành phố trực thuộc Trung ương.</ref>
+
+Ngày 29 tháng 5 năm 2008, hợp nhất tỉnh [[Hà Tây (tỉnh)|Hà Tây]] vào thành phố [[Hà Nội]]. Khi đó, 5 xã: Châu Can, Chuyên Mỹ, Phú Yên, Tân Dân và Vân Từ thuộc huyện [[Phú Xuyên (huyện)|Phú Xuyên]] của thành phố [[Hà Nội]].<ref>Nghị quyết số 15/2008/QH12 ngày 29 tháng 5 năm 2008 của Quốc hội khóa XII, Kỳ họp thứ 3 về việc điều chỉnh địa giới hành chính thành phố Hà Nội và một số tỉnh có liên quan.</ref>
+
+Ngày 16 tháng 6 năm 2025:
+
+* Kết thúc hoạt động của đơn vị hành chính cấp huyện trong cả nước.<ref>{{Chú thích web |last= |date= |title=Nghị quyết số 203/2025/QH15 ngày 16 tháng 6 năm 2025 của Quốc hội khóa XV, Kỳ họp thứ 9 về việc sửa đổi, bổ sung một số điều của Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/nq-sua-doi-hien-phap.pdf |url-status=live |archive-url=https://web.archive.org/web/20260613090807/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/nq-sua-doi-hien-phap.pdf |archive-date=2026-06-13 |access-date=2026-06-13 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+* Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của các xã Tân Dân, Châu Can, Phú Yên, Vân Từ và Chuyên Mỹ (huyện [[Phú Xuyên (huyện)|Phú Xuyên]]) thành xã mới có tên gọi là xã Chuyên Mỹ.<ref>{{Chú thích web |title=Nghị quyết số 1656/NQ-UBTVQH15 ngày 16 tháng 6 năm 2025 của Ủy ban Thường vụ Quốc hội về việc sắp xếp các đơn vị hành chính cấp xã của thành phố Hà Nội năm 2025 |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf |url-status=bot: unknown |archive-url=https://web.archive.org/web/20260513110024/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf |archive-date=2026-05-13 |access-date=2026-06-30 |website=Cổng Thông tin điện tử Chính phủ }}</ref>
+* Sau khi sắp xếp, xã Chuyên Mỹ được chia thành 35 thôn.<ref>7 thôn: Đại Nghiệp, Đồng Cả, Đồng Phố, Gia Phú, Lễ Nhuế, Ngải Kê và Thường Liễu của xã Tân Dân cũ; 9 thôn: Bài Lễ, Cầu Giẽ, Cổ Châu, Lễ Thượng, Nghĩa Lập, Nội, Quán, Trung và Tư Can của xã Châu Can cũ; 4 thôn: Giẽ Hạ, Giẽ Thượng, Thủy Phú và Thượng Yên của xã Phú Yên cũ; 8 thôn: Chính Vân, Chung Chản, Cựu, Thượng, Trãi, Từ Thuận, Ứng Cử và Vực của xã Vân Từ cũ; 7 thôn: Bối Khê, Đồng Vinh, Hạ, Mỹ Văn, Ngọ, Thượng và Trung của xã Chuyên Mỹ cũ.</ref><ref>{{Chú thích web |title=Thông tư số 10/2022/TT-BTNMT ngày 29 tháng 9 năm 2022 của Bộ Tài nguyên và Môi trường về việc Ban hành Danh mục địa danh dân cư, sơn văn, thủy văn, kinh tế – xã hội phục vụ công tác thành lập bản đồ thành phố Hà Nội |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2022/10/10-btnmt.pdf |url-status=bot: unknown |archive-url=https://web.archive.org/web/20260630082812/https://datafiles.chinhphu.vn/cpp/files/vbpq/2022/10/10-btnmt.pdf |archive-date=2026-06-30 |access-date=2026-06-30 |website=Cổng Thông tin điện tử Chính phủ }}</ref><ref>{{Chú thích web |last=Trang Thông tin điện tử xã Chuyên Mỹ – thành phố Hà Nội |date=2026-02-27 |title=Uỷ ban Bầu cử xã Chuyên Mỹ công bố danh sách chính thức người ứng cử Đại biểu Hội đồng nhân dân xã Chuyên Mỹ, nhiệm kỳ 2026 – 2031 |url=https://chuyenmy.hanoi.gov.vn/tin-tuc-su-kien/uy-ban-bau-cu-xa-chuyen-my-cong-bo-danh-sach-chinh-thuc-nguoi-ung-cu-dai-bieu-hdnd-xa-chuyen-my-nhiem-ky-2026-2031-2701260227151805247.htm |url-status=live |archive-url=https://web.archive.org/web/20260702400809/https://chuyenmy.hanoi.gov.vn/tin-tuc-su-kien/uy-ban-bau-cu-xa-chuyen-my-cong-bo-danh-sach-chinh-thuc-nguoi-ung-cu-dai-bieu-hdnd-xa-chuyen-my-nhiem-ky-2026-2031-2701260227151805247.htm |archive-date=2026-07-02 |access-date=2026-07-02}}</ref>
+Ngày 8 tháng 9 năm 2025, đổi tên một số thôn bị trùng trên địa bàn xã Chuyên Mỹ.<ref>{{Chú thích web |last=Trang Thông tin điện tử xã Chuyên Mỹ – thành phố Hà Nội |date=2025-09-08 |title=Hội đồng nhân dân xã Chuyên Mỹ khoá XXII, nhiệm kỳ 2021 – 2026 tổ chức kỳ họp thứ hai (Kỳ họp chuyên đề) |url=https://chuyenmy.hanoi.gov.vn/tin-tuc-su-kien/hdnd-xa-chuyen-my-khoa-xxii-nhiem-ky-2021-2026-to-chuc-ky-hop-thu-hai-ky-hop-chuyen-de-270125090815385335.htm |url-status=dead |archive-url=https://web.archive.org/web/20260718401509/https://chuyenmy.hanoi.gov.vn/tin-tuc-su-kien/hdnd-xa-chuyen-my-khoa-xxii-nhiem-ky-2021-2026-to-chuc-ky-hop-thu-hai-ky-hop-chuyen-de-270125090815385335.htm |archive-date=2026-07-18 |access-date=2026-07-18}}</ref>
+
+Ngày 26 tháng 6 năm 2026, thành lập 13 thôn mới: Nghĩa Lập, Châu Can, Cổ Châu, Bài Lễ, Phú Yên, Thủy Phú, Cựu, Vân Từ, Bối Khê, Ngọ, Chuôn Thượng, Tân Dân và Đại Nghiệp.<ref>1. Thôn Nghĩa Lập từ thôn Nội, thôn Cầu Giẽ, thôn Nghĩa Lập; 2. Thôn Châu Can từ thôn Trung, thôn Tư Can; 3. Thôn Cổ Châu từ thôn Quán, thôn Cổ Châu; 4. Thôn Bài Lễ từ thôn Lễ Thượng và một phần Khu dân cư Cầu Giẽ, thôn Bài Lễ; 5. Thôn Phú Yên từ thôn Giẽ Thượng, thôn Giẽ Hạ; 6. Thôn Thủy Phú từ thôn Thủy Phú, thôn Trãi; 7. Thôn Cựu từ thôn Cựu, thôn Chung Chản, thôn Chính Vân, thôn Từ Thuận; 8. Thôn Vân Từ từ thôn Thượng, thôn Ứng Cử, thôn Vực; 9. Thôn Bối Khê từ thôn Mỹ Văn, thôn Bối Khê; 10. Thôn Ngọ từ thôn Hạ, thôn Ngọ; 11. Thôn Chuôn Thượng từ thôn Chuôn Trung, thôn Chuôn Thượng; 12. Thôn Tân Dân từ thôn Gia Phú, thôn Đồng Cả, thôn Thường Liễu; 13. Thôn Đại Nghiệp từ thôn Lễ Nhuế, thôn Ngải Khê, thôn Đại Nghiệp; 14. Thôn Thượng Yên: Giữ nguyên; 15. Thôn Đồng Phố: Giữ nguyên; 16. Thôn Đồng Vinh: Giữ nguyên.</ref><ref name=":0">{{Chú thích web |last=Trang Thông tin điện tử xã Chuyên Mỹ – thành phố Hà Nội |date=2026-07-03 |title=Danh sách 16 thôn trên địa bàn xã Chuyên Mỹ sau sắp xếp |url=https://chuyenmy.hanoi.gov.vn/hoat-dong-khoi-chinh-quyen/danh-sach-16-thon-tren-dia-ban-xa-chuyen-my-sau-sap-xep-2701260703102643234.htm |url-status=live |archive-url=https://web.archive.org/web/20260704400809/https://chuyenmy.hanoi.gov.vn/hoat-dong-khoi-chinh-quyen/danh-sach-16-thon-tren-dia-ban-xa-chuyen-my-sau-sap-xep-2701260703102643234.htm |archive-date=2026-07-04 |access-date=2026-07-04}}</ref><ref name=":1">{{Chú thích web |last=Trang Thông tin điện tử xã Chuyên Mỹ – thành phố Hà Nội |date=2026-06-29 |title=Ngày làm việc thứ hai Hội đồng nhân dân xã Chuyên Mỹ khóa XXIII, nhiệm kỳ 2026 – 2031 |url=https://chuyenmy.hanoi.gov.vn/tin-tuc-su-kien/ngay-lam-viec-thu-hai-hdnd-xa-chuyen-my-khoa-xxiii-nhiem-ky-2026-2031-2701260629084404759.htm |url-status=live |archive-url=https://web.archive.org/web/20260702400809/https://chuyenmy.hanoi.gov.vn/tin-tuc-su-kien/ngay-lam-viec-thu-hai-hdnd-xa-chuyen-my-khoa-xxiii-nhiem-ky-2026-2031-2701260629084404759.htm |archive-date=2026-07-02 |access-date=2026-07-02}}</ref>
+
+== Hành chính ==
+Xã Chuyên Mỹ được chia thành 16 thôn: Bài Lễ, Bối Khê, Châu Can, Chuôn Thượng, Cổ Châu, Cựu, Đại Nghiệp, Đồng Phố, Đồng Vinh, Nghĩa Lập, Ngọ, Phú Yên, Tân Dân, Thủy Phú, Thượng Yên và Vân Từ.<ref name=":0" /><ref name=":1" />
+{| class="wikitable sortable" cellpadding="0" cellspacing="6" width="100%" align="center" style="background: #f9f9f9; border: 1px #aaa solid; margin-top: 16px"
+! colspan="4" style="background: #E6E6FA; font-size: 95%;" |Danh sách các thôn thuộc xã Chuyên Mỹ<ref name=":0" /><ref name=":1" />
+|-
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| cellpadding="1" cellspacing="1" width="100%" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+|-
+| align="left" |Bài Lễ
+|-
+| align="left" |Bối Khê
+|-
+| align="left" |Châu Can
+|-
+| align="left" |Chuôn Thượng
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| cellpadding="1" cellspacing="1" width="100%" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+|-
+| align="left" |Cổ Châu
+|-
+| align="left" |Cựu
+|-
+| align="left" |Đại Nghiệp
+|-
+| align="left" |Đồng Phố
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| cellpadding="1" cellspacing="1" width="100%" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+|-
+| align="left" |Đồng Vinh
+|-
+| align="left" |Nghĩa Lập
+|-
+| align="left" |Ngọ
+|-
+| align="left" |Phú Yên
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| cellpadding="1" cellspacing="1" width="100%" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+|-
+| align="left" |Tân Dân
+|-
+| align="left" |Thủy Phú
+|-
+| align="left" |Thượng Yên
+|-
+| align="left" |Vân Từ
+|}
+|}
+
+== Văn hóa==
+=== Nghề khảm trai=== 
+Chuyên Mỹ là vùng đất tổ của nghề khảm trai có từ thế kỷ XI, tổ nghề là cụ Trương Công Thành hiện được thờ tại di tích cấp quốc gia đình Chuôn Ngọ<ref>{{Chú thích web | last = Thị | first = Báo Kinh Tế Đô | title = Khảm trai Chuyên Mỹ giữ hồn làng nghề Việt | url = https://kinhtedothi.vn/kham-trai-chuyen-my-giu-hon-lang-nghe-viet.872444.html | access-date = 2025-10-22 | website = Báo Kinh Tế Đô Thị | language = vi}}</ref>
+
+=== Du lịch=== 
+Xã Chuyên Mỹ có 3 tuyến điểm du lịch làng nghề của thành phố Hà Nội là làng nghề khảm trai sơn mài Chuyên Mỹ; làng nghề may Vân Từ; làng nghề giầy dép da Phú Yên. Ngoài ra, làng Cựu một ngôi làng cổ ở xã cũng là một điểm du lịch của thành phố Hà Nội<ref>{{Chú thích web | last = hanoimoi.vn | date = 2025-01-31 | title = Du lịch làng nghề Phú Xuyên vượt thách thức, đón cơ hội mới | url = https://hanoimoi.vn/du-lich-lang-nghe-phu-xuyen-vuot-thach-thuc-don-co-hoi-moi-691969.html | access-date = 2025-10-22 | website = hanoimoi.vn | language = vi}}</ref>
+
+== Xã hội==
+
+=== Làng nghề=== 
+Xã Chuyên Mỹ có 35 làng có nghề trong đó 18 làng nghề được công nhận gồm 8 làng nghề khảm trai sơn mài, 5 làng nghề mộc, 3 làng nghề giày dép, 2 làng nghề may. Các nhóm làng nghề ở xã:
+
+* Làng nghề khảm trai, sơn mài: có 8 làng thì 7 làng ở Chuyên Mỹ (cũ) là Chuôn Ngọ, Chuôn Thượng, Chuôn Hạ, Chuôn Trung, Đồng Vinh, Bối Khê, Mỹ Văn và thôn Ứng Cử ở Vân Từ (cũ)
+* Làng nghề mộc: các thôn Đại Nghiệp, Đồng Phố, Đồng Cả, Gia Phú và Thường Liễu
+* Làng nghề làm giày da: các thôn Giẽ Thượng, Giẽ Hạ và Thượng Yên<ref>{{Chú thích web | last = núi | first = Báo ảnh Dân tộc và Miền | date = 2021-02-10 | title = Làng da giày Phú Yên rộn ràng gọi Xuân sớm | url = https://dantocmiennui.baotintuc.vn/lang-da-giay-phu-yen-ron-rang-goi-xuan-som-post300146.html | access-date = 2025-10-22 | website = Báo ảnh Dân tộc và Miền núi | language = vi}}</ref>
+* Nghề may: thôn Từ Thuận và thôn Chung Chản
+<!-- 
+== Làng nghề Đại Nghiệp== 
+Làng nghề Đại Nghiệp là một làng nghề mộc mỹ nghệ truyền thống có từ lâu đời. Nguyên tên cũ là làng Già Cầu, sau đổi thành làng Tre. Từ năm 1948, làng có tên hành chính là thôn Đại Nghiệp, còn gọi là làng Đại Nghiệp. Tuy nhiên, cư dân vẫn quen gọi là làng Tre.
+
+Trong làng vẫn còn nhiều di tích cổ như đình làng, Đình Trong, chùa cổ, miếu thờ Thành hoàng, giếng Cầu Bà, lăng thờ Đô đốc Uẩn Nghĩa hầu, Tổng thái giám, Đô chỉ huy sứ, đại tướng quân Nguyễn Hoàng Lộc (dân gian gọi là Lăng cụ Quan Lớn họ Nguyễn Xuân), các nhà thờ họ Phan, họ Nguyễn Xuân, họ Hoàng, họ Nguyễn Đình, họ Nguyễn Thế,...
+
+Làng có khoảng 3.000 nhân khẩu. Khoảng 90% hộ gia đình làm nghề mộc mỹ nghệ với các sản phẩm đồ gỗ với độ tinh xảo cao.
+
+ -->
+== Giao thông== 
+Xã Chuyên Mỹ có hệ thống giao thông đường bộ khá thuận lợi:
+
+* Quốc lộ 1A: xã nằm trên đoạn Hà Nội - Phủ Lý
+* Đường tỉnh 428: kết nối vùng Phú Xuyên (cũ) - Cầu Giẽ - Cống Thần - Chợ Cháy - Vân Đình
+* Hệ thống xe buýt: 06A, 101A, 101B, 206, 209...
+
+==Danh nhân==
+* '''[[Bùi Kỷ]]''' (1888 – 1960), là nhà giáo, nhà Nho học và nhà nghiên cứu văn hóa có ảnh hưởng trong những năm đầy biến động của [[lịch sử Việt Nam]] giai đoạn đầu [[thế kỷ 20]].
+
+== Chú thích== 
+{{tham khảo| 30em}}
+
+== Tham khảo==
+
+{{sơ khai Hà Nội}}
+{{Đơn vị hành chính thuộc thành phố Hà Nội}}

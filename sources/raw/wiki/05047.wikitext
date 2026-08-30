@@ -1,0 +1,116 @@
+{{Thông tin đơn vị hành chính Việt Nam|xã
+| tên = Cao Dương
+| hình = 
+| ghi chú hình = 
+| vĩ độ = 20.716337559997253
+| kinh độ = 105.62788236208245
+| diện tích = 113,38 km²
+| dân số = 36.783 người
+| thời điểm dân số = 2025
+| mật độ dân số = {{formatnum:{{#expr:floor({{formatnum:36.783| R}}/{{formatnum:113,38| R}})}} }} người/km²
+| vùng = [[Đông Bắc Bộ]]
+| tỉnh = [[Phú Thọ]]
+| thành lập =22 tháng 1 năm 1957 
+| trụ sở UBND =Thôn Chợ Bến 
+| mã hành chính = 05047<ref>{{Chú thích web |url=https://danhmuchanhchinh.gso.gov.vn/ |title=Tổng cục Thống kê |access-date=2022-04-10 |archive-date=2021-01-10 |archive-url=https://web.archive.org/web/20210110034519/https://www.gso.gov.vn/phuong-phap-thong-ke/danh-muc/don-vi-hanh-chinh/ |url-status=dead }}</ref>
+| mã bưu chính =36272 
+|web={{url|caoduong.phutho.gov.vn}}
+}}
+{{other|Cao Dương (định hướng)}}
+'''Cao Dương''' là một [[Xã (Việt Nam)|xã]] thuộc tỉnh [[Phú Thọ]], [[Việt Nam]].
+
+==Địa lý==
+Xã Cao Dương nằm ở phía đông nam tỉnh [[Phú Thọ]], có vị trí địa lý:
+*Phía đông giáp các xã [[Phúc Sơn]], [[Hồng Sơn, Hà Nội|Hồng Sơn]] và [[Mỹ Đức, Hà Nội|Mỹ Đức]], thành phố [[Hà Nội]].
+*Phía tây giáp xã [[Nật Sơn, Phú Thọ|Nật Sơn]] và xã [[Hợp Kim]].
+*Phía nam giáp xã [[An Nghĩa]].
+*Phía bắc giáp xã [[Liên Sơn, Phú Thọ|Liên Sơn]].
+
+Xã Cao Dương có diện tích 113,38&nbsp;km², dân số năm 2025 là 36.783 người, mật độ dân số đạt 324 người/km².<ref>{{Chú thích web |title=Xã Cao Dương, Tỉnh Phú Thọ mới sáp nhập 2026 |url=https://tinhthanhvn.com/province/phu-tho/xa-cao-duong |access-date=2026-06-02 |website=Tỉnh Thành Việt Nam |language=vi}}</ref>
+
+==Hành chính==
+Xã Cao Dương được chia thành 48 thôn - xóm, gồm 37 thôn: An Thịnh, Bá Lam, Băng Hợp, Bổng Dao, Cao Đường, Cáp, Châu Dể, Chợ Bến, Dẻ Cao, Đa Sỹ, Đồng Bon, Đồng Chồm, Đồng Đăng, Đồng Kẹ, Đồng Om, Đồng Phú, Gạo, Gò Mu, Hợp Thung, Lai Trì, Nghĩa Kếp, Om Làng, Quang Trung, Quèn Thị, Quyền Chương, Sấu Hạ, Sấu Thượng, Song Huỳnh, Thanh Hà, Thạch Quyền, Thăng, Trung Báo, Văn Thái, Vệ An, Xuân Dương, Xuân Thanh, Yên Lịch và 11 xóm: Bặc Rặc, Chợ Nội, Đồng An, Đồng Thành, Mỹ Tân, Ông Cây, Phương Viên, Phượng Sồ, Suối Sỏi, Tân Thành, Tiên Hội.<ref name=":12">{{Chú thích web |last=Bộ Dân tộc và Tôn giáo |date=2026-01-29 |title=Danh sách Thôn vùng đồng bào dân tộc thiểu số và miền núi, thôn đặc biệt khó khăn giai đoạn 2026 - 2030 trên địa bàn tỉnh Phú Thọ |url=http://files.ubdt.gov.vn/files/ecm/source_files/2026/02/05/11252411_4.%20Ph%C3%BA%20Th%E1%BB%8D%201%20(th%C3%B4n).signed_26-02-05.pdf |url-status=live |archive-url=https://web.archive.org/web/20260417090807/http://files.ubdt.gov.vn/files/ecm/source_files/2026/02/05/11252411_4.%20Ph%C3%BA%20Th%E1%BB%8D%201%20(th%C3%B4n).signed_26-02-05.pdf |archive-date=2026-04-17 |access-date=2026-04-17 |website=Cổng Thông tin điện tử Bộ Dân tộc và Tôn giáo}}</ref><ref>{{Chú thích web |last=Trang thông tin điện tử xã Cao Dương, tỉnh Phú Thọ |date=2026-03-24 |title=Danh sách chính thức những người trúng cử Đại biểu Hội đồng nhân dân xã Cao Dương khóa III, nhiệm kỳ 2026 - 2031 |url=https://web.facebook.com/story.php?story_fbid=122168312936934963&id=61578048904238&rdid=cYKScjji9KPZVSi6# |url-status=live |archive-url=https://web.archive.org/web/20260425090807/https://web.facebook.com/story.php?story_fbid=122168312936934963&id=61578048904238&rdid=cYKScjji9KPZVSi6# |archive-date=2026-04-25 |access-date=2026-04-25}}</ref>
+
+==Lịch sử==
+Trước kia, Cao Dương là một xã thuộc huyện [[Lương Sơn (huyện)|Lương Sơn]], tỉnh [[Hòa Bình (tỉnh)|Hòa Bình]].
+
+Ngày [[22 tháng 1]] năm [[1957]], Ủy ban kháng chiến hành chính Liên khu 3 ban hành quyết định. Theo đó:
+
+* Chia xã Cao Dương thành 5 xã: Cao Dương, Cao Thắng, Hợp Châu, Long Sơn, Tân Thành.<ref>{{chú thích sách|tác giả=|tựa đề=Địa chí Hòa Bình|nhà xuất bản=Nhà xuất bản Chính trị quốc gia|year=2005|nơi=|trang=312|url=https://www.google.com/books/edition/Địa_ch%C3%AD_Hòa_Bình/jUZRAQAAMAAJ|doi=|id=|isbn=}}</ref>
+* Chia xã Hợp Thanh thành 3 xã: Hợp Thanh, Thanh Lương và Thanh Nông.<ref>{{chú thích sách|tác giả=|tựa đề=Địa chí Hòa Bình|nhà xuất bản=Nhà xuất bản Chính trị quốc gia|year=2005|nơi=|trang=313|url=https://www.google.com/books/edition/Địa_ch%C3%AD_Hòa_Bình/jUZRAQAAMAAJ|doi=|id=|isbn=}}</ref>
+
+Ngày [[26 tháng 11]] năm [[1970]], Bộ trưởng Phủ thủ tướng ban hành Quyết định số 71-BT.<ref>{{Chú thích web|url=https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-71-BTdua-mot-so-xa-thuoc-huyen-Luong-Son-tinh-Hoa-Binh-ve-huyen-Kim-Boi-cung-tinh-18942.aspx|tựa đề=Quyết định 71-BT năm 1970 về việc đưa một số xã thuộc huyện Lương Sơn tỉnh Hòa Bình về huyện Kim Bôi cùng tỉnh do Bộ trưởng Phủ thủ tướng ban hành|tác giả=|họ=|tên=|ngày=|website=|url lưu trữ=|ngày lưu trữ=|ngày truy cập=}}</ref> Theo đó, chuyển 8 xã: Cao Dương, Cao Thắng, Hợp Châu, Hợp Thanh, Long Sơn, Tân Thành, Thanh Lương và Thanh Nông thuộc huyện Lương Sơn về huyện [[Kim Bôi (huyện)|Kim Bôi]] quản lý.
+
+Ngày [[14 tháng 7]] năm [[2009]], Chính phủ ban hành Nghị quyết số 31/NQ-CP.<ref>{{Chú thích web|url=https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/Nghi-quyet-31-NQ-CP-dieu-chinh-dia-gioi-hanh-chinh-huyen-va-thanh-pho-Hoa-Binh-tinh-Hoa-Binh-91385.aspx|tựa đề=Nghị quyết số 31/NQ-CP về việc điều chỉnh địa giới hành chính một số huyện và thành phố Hòa Bình, tỉnh Hòa Bình|tác giả=|họ=|tên=|ngày=|website=|url lưu trữ=|ngày lưu trữ=|ngày truy cập=}}</ref> Theo đó, chuyển 7 xã: Cao Dương, Cao Thắng, Hợp Châu, Hợp Thanh, Long Sơn, Tân Thành, Thanh Lương thuộc huyện Kim Bôi trở lại huyện [[Lương Sơn (huyện)|Lương Sơn]].
+
+Đến năm [[2018]]:
+
+* Xã Cao Dương có diện tích 20,23&nbsp;km², dân số là 4.792 người, mật độ dân số đạt 237 người/km².
+* Xã Hợp Châu có diện tích 16,13&nbsp;km², dân số là 4.055 người, mật độ dân số đạt 251 người/km².
+* Xã Tân Thành có diện tích 26,76&nbsp;km², dân số là 5.520 người, mật độ dân số đạt 206 người/km², có 11 xóm: Chợ Nội, Đồng An, Đồng Thành, Ông Cây, Phượng Sồ, Phương Viên, Suối Sỏi, Mỹ Tân, Tân Thành, Bặc Rặc, Tiên Hội.
+* Xã Hợp Thanh có diện tích 17,27&nbsp;km², dân số là 4.031 người, mật độ dân số đạt 233 người/km².
+* Xã Long Sơn có diện tích 17,59&nbsp;km², dân số là 4.011 người, mật độ dân số đạt 228 người/km².
+* Xã Cao Thắng có diện tích 7,73&nbsp;km², dân số là 5.286 người, mật độ dân số đạt 684 người/km².
+* Xã Thanh Lương có diện tích 7,69&nbsp;km², dân số là 3.863 người, mật độ dân số đạt 502 người/km².
+
+Ngày [[17 tháng 12]] năm [[2019]], [[Ủy ban Thường vụ Quốc hội]] ban hành Nghị quyết số 830/NQ-UBTVQH14 về việc sắp xếp các đơn vị hành chính cấp huyện, cấp xã thuộc tỉnh Hòa Bình (nghị quyết có hiệu lực từ ngày [[1 tháng 1]] năm [[2020]]).<ref name="NQ830">{{Chú thích web|url=https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/Nghi-quyet-830-NQ-UBTVQH14-2019-sap-xep-don-vi-hanh-chinh-cap-huyen-xa-thuoc-tinh-Hoa-Binh-432100.aspx|tựa đề=Nghị quyết số 830/NQ-UBTVQH14 năm 2019 về việc sắp xếp các đơn vị hành chính cấp huyện, cấp xã thuộc tỉnh Hòa Bình|tác giả=|họ=|tên=|ngày=|website=|url lưu trữ=|ngày lưu trữ=|ngày truy cập=}}</ref> Theo đó:
+
+* Sáp nhập toàn bộ diện tích và dân số của hai xã Hợp Châu và Tân Thành trở lại xã Cao Dương.
+* Sáp nhập toàn bộ diện tích và dân số của hai xã Hợp Thanh và Long Sơn thành xã Thanh Sơn.
+* Sáp nhập toàn bộ diện tích và dân số của hai xã Cao Thắng và Thanh Lương thành xã Thanh Cao.
+
+Ngày [[12 tháng 6]] năm [[2025]], [[Quốc hội Việt Nam|Quốc hội]] ban hành Nghị quyết số 202/2025/QH15 về việc sắp xếp đơn vị hành chính cấp tỉnh (nghị quyết có hiệu lực từ ngày [[12 tháng 6]] năm [[2025]]).<ref>{{Chú thích web |last=xaydungchinhsach.chinhphu.vn |date=2025-07-16 |title=TOÀN VĂN: Nghị quyết số 202/2025/QH15 về sắp xếp đơn vị hành chính cấp tỉnh |url=https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-202-2025-qh15-ve-sap-xep-don-vi-hanh-chinh-cap-tinh-119250612174148722.htm |url-status=live |archive-url=http://web.archive.org/web/20260705025431/https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-202-2025-qh15-ve-sap-xep-don-vi-hanh-chinh-cap-tinh-119250612174148722.htm |archive-date=2026-07-05 |access-date=2026-07-25 |website=Báo Điện tử Chính phủ |language=vi}}</ref> Theo đó, sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của tỉnh [[Vĩnh Phúc (tỉnh)|Vĩnh Phúc]], tỉnh [[Hòa Bình (tỉnh)|Hòa Bình]] và tỉnh [[Phú Thọ]] thành tỉnh mới có tên gọi là tỉnh '''Phú Thọ'''.
+
+Ngày [[16 tháng 6]] năm [[2025]]:
+
+* Quốc hội ban hành Nghị quyết số 203/2025/QH15 về việc sửa đổi, bổ sung một số điều của Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam (nghị quyết có hiệu lực từ ngày [[16 tháng 6]] năm [[2025]]).<ref>{{Chú thích web |last=xaydungchinhsach.chinhphu.vn |date=2025-06-28 |title=NGHỊ QUYẾT 203/2025/QH15 SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA HIẾN PHÁP NƯỚC CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM |url=https://xaydungchinhsach.chinhphu.vn/nghi-quyet-203-2025-qh15-sua-doi-bo-sung-mot-so-dieu-cua-hien-phap-nuoc-cong-hoa-xa-hoi-chu-nghia-viet-nam-119250616181735552.htm |url-status=live |archive-url=http://web.archive.org/web/20260715200606/https://xaydungchinhsach.chinhphu.vn/nghi-quyet-203-2025-qh15-sua-doi-bo-sung-mot-so-dieu-cua-hien-phap-nuoc-cong-hoa-xa-hoi-chu-nghia-viet-nam-119250616181735552.htm |archive-date=2026-07-15 |access-date=2026-07-15 |website=Báo Điện tử Chính phủ |language=vi}}</ref> Theo đó, kết thúc hoạt động của đơn vị hành chính cấp huyện trong cả nước từ ngày 1 tháng 7 năm 2025.
+* Ủy ban Thường vụ Quốc hội ban hành Nghị quyết số 1676/NQ-UBTVQH15 về việc sắp xếp đơn vị hành chính cấp xã của tỉnh [[Phú Thọ]] năm 2025 (nghị quyết có hiệu lực từ ngày [[16 tháng 6]] năm [[2025]]).<ref>{{Chú thích web |last=xaydungchinhsach.chinhphu.vn |date=2025-06-20 |title=Nghị quyết số 1676/NQ-UBTVQH15 sắp xếp các ĐVHC cấp xã của tỉnh Phú Thọ năm 2025 |url=https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-1676-nq-ubtvqh15-sap-xep-cac-dvhc-cap-xa-cua-tinh-phu-tho-nam-2025-119250616204317326.htm |url-status=live |archive-url=http://web.archive.org/web/20260725082021/https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-1676-nq-ubtvqh15-sap-xep-cac-dvhc-cap-xa-cua-tinh-phu-tho-nam-2025-119250616204317326.htm |archive-date=2026-07-25 |access-date=2026-07-27 |website=Báo Điện tử Chính phủ |language=vi}}</ref> Theo đó, sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của các xã Thanh Cao, Thanh Sơn và Cao Dương thành một xã mới có tên gọi là '''xã Cao Dương'''.<!-- 
+==Lịch sử==
+Địa bàn xã Thanh Sơn hiện nay trước đây vốn là hai xã Hợp Thanh và Long Sơn thuộc huyện Lương Sơn.
+
+Xã Long Sơn được thành lập vào ngày [[22 tháng 1]] năm [[1957]] trên cơ sở tách một phần diện tích và dân số của xã Cao Dương.<ref>{{chú thích sách|tác giả=|tựa đề=Địa chí Hòa Bình|nhà xuất bản=Nhà xuất bản Chính trị quốc gia|year=2005|nơi=|trang=312|url=https://www.google.com/books/edition/Địa_ch%C3%AD_Hòa_Bình/jUZRAQAAMAAJ|doi=|id=|isbn=}}</ref> Cùng ngày, Ủy ban kháng chiến hành chính Liên khu 3 ban hành quyết định chia xã Hợp Thanh thành 3 xã: Hợp Thanh, Thanh Lương và Thanh Nông.<ref>{{chú thích sách|tác giả=|tựa đề=Địa chí Hòa Bình|nhà xuất bản=Nhà xuất bản Chính trị quốc gia|year=2005|nơi=|trang=313|url=https://www.google.com/books/edition/Địa_ch%C3%AD_Hòa_Bình/jUZRAQAAMAAJ|doi=|id=|isbn=}}</ref>
+
+Ngày [[26 tháng 11]] năm [[1970]], Bộ trưởng Phủ thủ tướng ban hành Quyết định số 71-BT.<ref>{{Chú thích web|url=https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-71-BTdua-mot-so-xa-thuoc-huyen-Luong-Son-tinh-Hoa-Binh-ve-huyen-Kim-Boi-cung-tinh-18942.aspx|tựa đề=Quyết định 71-BT năm 1970 về việc đưa một số xã thuộc huyện Lương Sơn tỉnh Hòa Bình về huyện Kim Bôi cùng tỉnh do Bộ trưởng Phủ thủ tướng ban hành|tác giả=|họ=|tên=|ngày=|website=|url lưu trữ=|ngày lưu trữ=|ngày truy cập=}}</ref> Theo đó, chuyển xã Hợp Thanh và xã Long Sơn về huyện Kim Bôi quản lý.
+
+Ngày [[14 tháng 7]] năm [[2009]], Chính phủ ban hành Nghị quyết số 31/NQ-CP.<ref>{{Chú thích web|url=https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/Nghi-quyet-31-NQ-CP-dieu-chinh-dia-gioi-hanh-chinh-huyen-va-thanh-pho-Hoa-Binh-tinh-Hoa-Binh-91385.aspx|tựa đề=Nghị quyết số 31/NQ-CP về việc điều chỉnh địa giới hành chính một số huyện và thành phố Hòa Bình, tỉnh Hòa Bình|tác giả=|họ=|tên=|ngày=|website=|url lưu trữ=|ngày lưu trữ=|ngày truy cập=}}</ref> Theo đó, chuyển hai xã Hợp Thanh và Long Sơn thuộc huyện Kim Bôi trở lại huyện Lương Sơn.
+
+Đến năm 2018, xã Hợp Thanh có diện tích 17,27&nbsp;km², dân số là 4.031 người, mật độ dân số đạt 233 người/km²; xã Long Sơn có diện tích 17,59&nbsp;km², dân số là 4.011 người, mật độ dân số đạt 228 người/km².
+
+Ngày [[17 tháng 12]] năm [[2019]], Ủy ban Thường vụ Quốc hội ban hành Nghị quyết số 830/NQ-UBTVQH14 về việc sắp xếp các đơn vị hành chính cấp huyện, cấp xã thuộc tỉnh Hòa Bình (nghị quyết có hiệu lực từ ngày [[1 tháng 1]] năm [[2020]]).<ref name=NQ830>{{Chú thích web|url=https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/Nghi-quyet-830-NQ-UBTVQH14-2019-sap-xep-don-vi-hanh-chinh-cap-huyen-xa-thuoc-tinh-Hoa-Binh-432100.aspx|tựa đề=Nghị quyết số 830/NQ-UBTVQH14 năm 2019 về việc sắp xếp các đơn vị hành chính cấp huyện, cấp xã thuộc tỉnh Hòa Bình|tác giả=|họ=|tên=|ngày=|website=|url lưu trữ=|ngày lưu trữ=|ngày truy cập=}}</ref> Theo đó, sáp nhập toàn bộ diện tích và dân số của hai xã Hợp Thanh và Long Sơn thành xã Thanh Sơn.
+
+==Lịch sử==
+Địa bàn xã Thanh Cao hiện nay trước đây vốn là hai xã Cao Thắng và Thanh Lương thuộc huyện Lương Sơn.
+
+Xã Thanh Lương được thành lập vào ngày [[22 tháng 1]] năm [[1957]] trên cơ sở tách một phần diện tích và dân số của xã Hợp Thanh.<ref>{{chú thích sách|tác giả=|tựa đề=Địa chí Hòa Bình|nhà xuất bản=Nhà xuất bản Chính trị quốc gia|year=2005|nơi=|trang=313|url=https://www.google.com/books/edition/Địa_ch%C3%AD_Hòa_Bình/jUZRAQAAMAAJ|doi=|id=|isbn=}}</ref> Xã Cao Thắng được thành lập cùng ngày trên cơ sở tách một phần diện tích và dân số của xã Cao Dương.<ref>{{chú thích sách|tác giả=|tựa đề=Địa chí Hòa Bình|nhà xuất bản=Nhà xuất bản Chính trị quốc gia|year=2005|nơi=|trang=312|url=https://www.google.com/books/edition/Địa_ch%C3%AD_Hòa_Bình/jUZRAQAAMAAJ|doi=|id=|isbn=}}</ref>
+
+Ngày [[26 tháng 11]] năm [[1970]], Bộ trưởng Phủ thủ tướng ban hành Quyết định số 71-BT.<ref>{{Chú thích web|url=https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-71-BTdua-mot-so-xa-thuoc-huyen-Luong-Son-tinh-Hoa-Binh-ve-huyen-Kim-Boi-cung-tinh-18942.aspx|tựa đề=Quyết định 71-BT năm 1970 về việc đưa một số xã thuộc huyện Lương Sơn tỉnh Hòa Bình về huyện Kim Bôi cùng tỉnh do Bộ trưởng Phủ thủ tướng ban hành|tác giả=|họ=|tên=|ngày=|website=|url lưu trữ=|ngày lưu trữ=|ngày truy cập=}}</ref> Theo đó, chuyển xã Cao Thắng và xã Thanh Lương về huyện Kim Bôi quản lý.
+
+Ngày [[14 tháng 7]] năm [[2009]], Chính phủ ban hành Nghị quyết số 31/NQ-CP.<ref>{{Chú thích web|url=https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/Nghi-quyet-31-NQ-CP-dieu-chinh-dia-gioi-hanh-chinh-huyen-va-thanh-pho-Hoa-Binh-tinh-Hoa-Binh-91385.aspx|tựa đề=Nghị quyết số 31/NQ-CP về việc điều chỉnh địa giới hành chính một số huyện và thành phố Hòa Bình, tỉnh Hòa Bình|tác giả=|họ=|tên=|ngày=|website=|url lưu trữ=|ngày lưu trữ=|ngày truy cập=}}</ref> Theo đó, chuyển hai xã Cao Thắng và Thanh Lương thuộc huyện Kim Bôi trở lại huyện Lương Sơn.
+
+Đến năm 2018, xã Cao Thắng có diện tích 7,73&nbsp;km², dân số là 5.286 người, mật độ dân số đạt 684 người/km². Xã Thanh Lương có diện tích 7,69&nbsp;km², dân số là 3.863 người, mật độ dân số đạt 502 người/km².
+
+Ngày [[17 tháng 12]] năm [[2019]], Ủy ban Thường vụ Quốc hội ban hành Nghị quyết số 830/NQ-UBTVQH14 về việc sắp xếp các đơn vị hành chính cấp huyện, cấp xã thuộc tỉnh Hòa Bình (nghị quyết có hiệu lực từ ngày [[1 tháng 1]] năm [[2020]]).<ref name=NQ830>{{Chú thích web|url=https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/Nghi-quyet-830-NQ-UBTVQH14-2019-sap-xep-don-vi-hanh-chinh-cap-huyen-xa-thuoc-tinh-Hoa-Binh-432100.aspx|tựa đề=Nghị quyết số 830/NQ-UBTVQH14 năm 2019 về việc sắp xếp các đơn vị hành chính cấp huyện, cấp xã thuộc tỉnh Hòa Bình|tác giả=|họ=|tên=|ngày=|website=|url lưu trữ=|ngày lưu trữ=|ngày truy cập=}}</ref> Theo đó, sáp nhập toàn bộ diện tích và dân số của hai xã Cao Thắng và Thanh Lương thành xã Thanh Cao.
+
+==Di tích==
+- Di tích LSVH đền và miếu Trung Báo ở xã Thanh Cao thờ 3 vị [[Tướng nhà Đinh]] có công dẹp [[loạn 12 sứ quân]] và thần núi Sơn Tinh. (xếp hạng di tích cấp quốc gia, công nhận năm 1997)
+
+- Di tích LSVH đền và miếu Bá Lam ở thôn Bá Lam (xếp hạng di tích cấp tỉnh, công nhận năm 2009)
+
+- Di tích LSVH đình Hàng Xã ở thôn Chợ Bến ( xếp hạng di tích cấp tỉnh, công nhận năm 2018) 
+-->
+
+== Di tích ==
+
+* Di tích lịch sử văn hóa đền và miếu Trung Báo ở xã thờ 3 vị [[Tướng nhà Đinh]] có công dẹp [[loạn 12 sứ quân]] và thần núi Sơn Tinh. (xếp hạng di tích cấp quốc gia, công nhận năm 1997).
+* Di tích lịch sử văn hóa đền và miếu Bá Lam ở thôn Bá Lam (xếp hạng di tích cấp tỉnh, công nhận năm 2009).
+* Di tích lịch sử văn hóa đình Hàng Xã ở thôn Chợ Bến (xếp hạng di tích cấp tỉnh, công nhận năm 2018).
+
+==Danh nhân==
+* [[Bùi Minh Thứ]] (1947 – 2022), là một tướng lĩnh Quân đội nhân dân Việt Nam, hàm Thiếu tướng. Ông từng giữ chức vụ Phó Tư lệnh kiêm Tham mưu trưởng Quân khu Thủ đô, Đại biểu Quốc hội Việt Nam khóa X, thuộc đoàn đại biểu [[Hà Tây (tỉnh)|Hà Tây]].
+
+==Chú thích==
+{{tham khảo|30em}}
+
+==Tham khảo==
+{{Sơ khai Phú Thọ}}
+{{Đơn vị hành chính thuộc tỉnh Phú Thọ}}

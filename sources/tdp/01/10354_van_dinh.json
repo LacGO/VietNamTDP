@@ -1,0 +1,128 @@
+{
+  "ward_code": "10354",
+  "ward_name": "Vân Đình",
+  "province_code": "01",
+  "resolution": "",
+  "arrangement": "2026_07",
+  "effective_date": "2026-07-01",
+  "verified": "unverified",
+  "extraction": {
+    "source": "vi.wikipedia.org",
+    "title": "(cache)",
+    "mode": "table"
+  },
+  "sources": [
+    {
+      "key": "wiki-10354-1",
+      "title": "Hội đồng nhân dân xã Vân Đình quyết nghị nhiều nội dung quan trọng tại kỳ họp thường lệ giữa năm",
+      "url": "https://vandinh.hanoi.gov.vn/tin-tuc-su-kien/hdnd-xa-van-dinh-quyet-nghi-nhieu-noi-dung-quan-trong-tai-ky-hop-thuong-le-giua-nam-2726260630140702371.htm",
+      "date": "2026-06-30",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-10354-2",
+      "title": "Danh sách chính thức những người ứng cử đại biểu Hội đồng nhân dân xã Vân Đình khóa II, nhiệm kỳ 2026 – 2031",
+      "url": "https://vandinh.hanoi.gov.vn/tin-tuc-su-kien/danh-sach-chinh-thuc-nhung-nguoi-ung-cu-dai-bieu-hoi-dong-nhan-dan-xa-van-dinh-khoa-ii-nhiem-ky-2026-2031-2726260225092404685.htm",
+      "date": "2026-02-25",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-10354-3",
+      "title": "Nghị quyết số 111/2025/UBTVQH15 ngày 24 tháng 12 năm 2025 của Ủy ban Thường vụ Quốc hội về phân loại đô thị",
+      "url": "https://cdn.nhandan.vn/files/f4a4abf7f9a0ba4a91744616546d850872b76917f90d5a74cc9eebef1369fb6f/111.pdf",
+      "date": "2026-07-12",
+      "type": "wikipedia-ref"
+    }
+  ],
+  "note": "Trích tự động từ Wikipedia tiếng Việt (mode=table). Cần đối chiếu nghị quyết HĐND phường/xã.",
+  "tdp": [
+    {
+      "name": "Cao Dương",
+      "type": "thôn"
+    },
+    {
+      "name": "Dương Khê",
+      "type": "thôn"
+    },
+    {
+      "name": "Đòan Xá",
+      "type": "thôn"
+    },
+    {
+      "name": "Đông Dương",
+      "type": "thôn"
+    },
+    {
+      "name": "Động Phí",
+      "type": "thôn"
+    },
+    {
+      "name": "Hậu Xá",
+      "type": "thôn"
+    },
+    {
+      "name": "Hòang Xá",
+      "type": "thôn"
+    },
+    {
+      "name": "Nghi Lộc",
+      "type": "thôn"
+    },
+    {
+      "name": "Ngọ Xá",
+      "type": "thôn"
+    },
+    {
+      "name": "Ngọc Động",
+      "type": "thôn"
+    },
+    {
+      "name": "Nguyễn Xá",
+      "type": "thôn"
+    },
+    {
+      "name": "Phí Trạch",
+      "type": "thôn"
+    },
+    {
+      "name": "Tảo Khê",
+      "type": "thôn"
+    },
+    {
+      "name": "Thanh Ấm",
+      "type": "thôn"
+    },
+    {
+      "name": "Thanh Dương",
+      "type": "thôn"
+    },
+    {
+      "name": "Thành Vật",
+      "type": "thôn"
+    },
+    {
+      "name": "Thiên Phúc",
+      "type": "thôn"
+    },
+    {
+      "name": "Tử Dương",
+      "type": "thôn"
+    },
+    {
+      "name": "Văn Ông",
+      "type": "thôn"
+    },
+    {
+      "name": "Vân Đình",
+      "type": "thôn"
+    },
+    {
+      "name": "Vân Phúc",
+      "type": "thôn"
+    },
+    {
+      "name": "Vĩnh Lộc",
+      "type": "thôn"
+    }
+  ]
+}

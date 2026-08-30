@@ -1,0 +1,105 @@
+{{Thông tin đơn vị hành chính Việt Nam|Xã|tên=Ba Vì|logo=Logo huyện Ba Vì, thủ đô Hà Nội, Việt Nam.svg|ghi chú logo=Biểu trưng|hình=Đỉnh Ba Vì.jpg|ghi chú hình=[[Núi Ba Vì]]|vùng=[[Đồng bằng sông Hồng]]|thành phố=[[Hà Nội]]|trụ sở UBND=Thôn Đồng Tiến<ref>{{Chú thích web |url=https://storage-vnportal.vnpt.vn/gov-hni/6244/VanBan/2025/6/25/TB-729-2025.pdf |title=Thông báo số 729/TB-UBND ngày 25 tháng 6 năm 2025 của Ủy ban nhân dân thành phố Hà Nội về địa điểm trụ sở làm việc của 126 phường, xã sau sắp xếp thuộc phạm vi quản lý của thành phố Hà Nội|access-date=2026-06-15 |archive-date=2026-06-15 |archive-url=https://web.archive.org/web/20260615034519/https://storage-vnportal.vnpt.vn/gov-hni/6244/VanBan/2025/6/25/TB-729-2025.pdf |url-status=dead | website = Cổng Thông tin điện tử Ủy ban nhân dân thành phố Hà Nội}}</ref>|vĩ độ=21.071436540143022|kinh độ=105.3207935557177|bản đồ 1={{maplink|frame=yes|plain=yes|type=shape|frame-width=280|frame-align=center|stroke-width=3}}|diện tích=81,27 km²|thời điểm dân số=2025|dân số=26.651 người|mật độ dân số={{formatnum:{{#expr:floor({{formatnum:26.651| R}}/{{formatnum:81,27| R}})}} }} người/km²|mã hành chính=09700<ref>{{Chú thích web |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/19ttg.signed.pdf |title=Quyết định số 19/2025/QĐ-TTg ngày 30 tháng 6 năm 2025 của Thủ tướng Chính phủ về việc Ban hành Bảng danh mục và mã số các đơn vị hành chính Việt Nam |access-date=2026-06-15 |archive-date=2026-06-15 |archive-url=https://web.archive.org/web/20260615034519/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/19ttg.signed.pdf |url-status=dead | website = Cổng Thông tin điện tử Chính phủ}}</ref>|web={{url|bavi.hanoi.gov.vn}}|trụ sở Đảng ủy=Thôn Đồng Tiến}}{{other|Ba Vì (định hướng)}}
+'''Ba Vì''' là một [[Xã (Việt Nam)|xã]] thuộc thành phố [[Hà Nội]], [[Việt Nam]]. Đây cũng là đơn vị hành chính cấp xã có diện tích tự nhiên rộng nhất của thành phố.
+
+== Địa lý == 
+Xã Ba Vì có vị trí địa lý:
+
+* Phía đông giáp xã [[Yên Bài]]
+* Phía tây giáp xã [[Tu Vũ]] thuộc tỉnh [[Phú Thọ]]
+* Phía nam giáp xã [[Thịnh Minh]] thuộc tỉnh [[Phú Thọ]]
+* Phía bắc giáp xã [[Bất Bạt]] và xã [[Suối Hai]].<ref>{{Chú thích web |last=Viện nghiên cứu Phát triển kinh tế – xã hội Hà Nội |date=2025-07-02 |title=Xã Ba Vì: Những thông tin chi tiết sau sắp xếp |url=https://hanoionline.vn/xa-ba-vi-nhung-thong-tin-chi-tiet-sau-sap-xep-344041.htm |url-status=live |archive-url=https://web.archive.org/web/20260701400809/https://hanoionline.vn/xa-ba-vi-nhung-thong-tin-chi-tiet-sau-sap-xep-344041.htm |archive-date=2026-07-01 |access-date=2026-07-01 |website=Cơ quan Báo và Phát thanh Truyền hình Hà Nội}}</ref><ref>{{Chú thích web |last=Cơ quan Báo và Phát thanh Truyền hình Hà Nội |date=2025-07-07 |title=Xã Ba Vì: Tất cả thông tin chỉ dẫn bạn cần biết |url=https://hanoionline.vn/xa-ba-vi-tat-ca-thong-tin-chi-dan-ban-can-biet-345178.htm |url-status=live |archive-url=https://web.archive.org/web/20260711401509/https://hanoionline.vn/xa-ba-vi-tat-ca-thong-tin-chi-dan-ban-can-biet-345178.htm |archive-date=2026-07-11 |access-date=2026-07-11}}</ref>
+Xã Ba Vì có diện tích tự nhiên là 81,27 km<sup>2</sup>, quy mô dân số năm 2025 là 26.651 người và mật độ dân số đạt 327 người/km<sup>2</sup>.<ref>{{Chú thích web |last=Mai Hữu |date=2026-04-05 |title=Hà Nội: Chi tiết phương án tổng thể sắp xếp đơn vị hành chính cấp xã |url=https://hanoimoi.vn/ha-noi-chi-tiet-phuong-an-tong-the-sap-xep-don-vi-hanh-chinh-cap-xa-700278.html |url-status=live |archive-url=https://web.archive.org/web/20260711401509/https://hanoimoi.vn/ha-noi-chi-tiet-phuong-an-tong-the-sap-xep-don-vi-hanh-chinh-cap-xa-700278.html |archive-date=2026-07-11 |access-date=2026-07-11 |website=Cơ quan Báo và Phát thanh, truyền hình Hà Nội}}</ref><ref>Công văn số 2896/BNV-CQĐP ngày 27 tháng 5 năm 2025 của Bộ Nội vụ về việc cung cấp thông tin danh mục dự kiến đơn vị hành chính cấp xã mới.</ref>
+
+== Lịch sử==
+
+=== Tên gọi ===
+Tên gọi xã Ba Vì kế thừa tên gọi của huyện [[Ba Vì (huyện)|Ba Vì]] cũ thuộc thành phố [[Hà Nội]].
+
+=== Trước năm 1976 ===
+
+=== Giai đoạn 1976 – nay ===
+Sau ngày 2 tháng 7 năm 1976, 3 xã: Ba Vì, Khánh Thượng và Minh Quang thuộc huyện [[Ba Vì (huyện)|Ba Vì]] của tỉnh [[Hà Sơn Bình]].
+
+Ngày 29 tháng 12 năm 1978, sáp nhập huyện [[Ba Vì (huyện)|Ba Vì]] của tỉnh [[Hà Sơn Bình]] vào thành phố [[Hà Nội]]. Khi đó, 3 xã: Ba Vì, Khánh Thượng và Minh Quang thuộc huyện [[Ba Vì (huyện)|Ba Vì]] của thành phố [[Hà Nội]].<ref>Nghị quyết ngày 29 tháng 12 năm 1978 của Quốc hội khóa VI, Kỳ họp thứ 4 phê chuẩn việc phân vạch lại địa giới thành phố Hà Nội, thành phố Hồ Chí Minh, các tỉnh Hà Sơn Bình, Vĩnh Phú, Cao Lạng, Bắc Thái, Quảng Ninh và Đồng Nai.</ref>
+
+Ngày 12 tháng 8 năm 1991, chia tỉnh [[Hà Sơn Bình]] thành 2 tỉnh, lấy tên là tỉnh [[Hòa Bình (tỉnh)|Hòa Bình]] và tỉnh [[Hà Tây (tỉnh)|Hà Tây]]. Chuyển huyện [[Ba Vì (huyện)|Ba Vì]] của thành phố [[Hà Nội]] về tỉnh [[Hà Tây (tỉnh)|Hà Tây]]. Khi đó, 3 xã: Ba Vì, Khánh Thượng và Minh Quang thuộc huyện [[Ba Vì (huyện)|Ba Vì]] của tỉnh [[Hà Tây (tỉnh)|Hà Tây]].<ref>Nghị quyết ngày 12 tháng 8 năm 1991 của Quốc hội khóa VIII, Kỳ họp thứ 9 về việc điều chỉnh địa giới hành chính một số tỉnh, thành phố trực thuộc Trung ương.</ref>
+
+Ngày 29 tháng 5 năm 2008, hợp nhất tỉnh [[Hà Tây (tỉnh)|Hà Tây]] vào thành phố [[Hà Nội]]. Khi đó, 3 xã: Ba Vì, Khánh Thượng và Minh Quang thuộc huyện [[Ba Vì (huyện)|Ba Vì]] của thành phố [[Hà Nội]].<ref>Nghị quyết số 15/2008/QH12 ngày 29 tháng 5 năm 2008 của Quốc hội khóa XII, Kỳ họp thứ 3 về việc điều chỉnh địa giới hành chính thành phố Hà Nội và một số tỉnh có liên quan.</ref>
+
+Ngày 16 tháng 6 năm 2025:
+
+* Kết thúc hoạt động của đơn vị hành chính cấp huyện trong cả nước.<ref>{{Chú thích web |last= |date= |title=Nghị quyết số 203/2025/QH15 ngày 16 tháng 6 năm 2025 của Quốc hội khóa XV, Kỳ họp thứ 9 về việc sửa đổi, bổ sung một số điều của Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/nq-sua-doi-hien-phap.pdf |url-status=live |archive-url=https://web.archive.org/web/20260613090807/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/nq-sua-doi-hien-phap.pdf |archive-date=2026-06-13 |access-date=2026-06-13 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+* Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của xã Ba Vì, xã Khánh Thượng và phần còn lại của xã Minh Quang (huyện [[Ba Vì (huyện)|Ba Vì]]) thành xã mới có tên gọi là xã Ba Vì.<ref>{{Chú thích web |title=Nghị quyết số 1656/NQ-UBTVQH15 ngày 16 tháng 6 năm 2025 của Ủy ban Thường vụ Quốc hội về việc sắp xếp các đơn vị hành chính cấp xã của thành phố Hà Nội năm 2025 |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf |url-status=live |archive-url=https://web.archive.org/web/20260630400809/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf |archive-date=2026-06-30 |access-date=2026-06-30 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+* Sau khi sắp xếp, xã Ba Vì được chia thành 30 thôn.<ref>3 thôn: Hợp Nhất, Hợp Sơn và Yên Sơn của xã Ba Vì cũ; 12 thôn: Bắt Còn Chèm, Bưởi, Gò Đá Chẹ, Gò Đình Muôn, Hương Canh, Khánh Chúc Bãi, Khánh Chúc Đồi, Mít Đồng Sống, Ninh, Phú Thứ, Sơn Hà và Sui Quán của xã Khánh Thượng cũ; 15 thôn: Cốc Đồng Tâm, Dy, Đá Chông, Đầm Sản, Lặt, Liên Bu, Minh Hồng, Mộc, Nội, Pheo, Phú Lội, Sổ, Víp, Vống Gốc Vải và Xuân Thọ của xã Minh Quang cũ.</ref><ref>{{Chú thích web |title=Thông tư số 10/2022/TT-BTNMT ngày 29 tháng 9 năm 2022 của Bộ Tài nguyên và Môi trường về việc Ban hành Danh mục địa danh dân cư, sơn văn, thủy văn, kinh tế – xã hội phục vụ công tác thành lập bản đồ thành phố Hà Nội |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2022/10/10-btnmt.pdf |url-status=live |archive-url=https://web.archive.org/web/20260630400809/https://datafiles.chinhphu.vn/cpp/files/vbpq/2022/10/10-btnmt.pdf |archive-date=2026-06-30 |access-date=2026-06-30 |website=Cổng Thông tin điện tử Chính phủ}}</ref><ref>{{Chú thích web |title=Danh sách Thôn vùng đồng bào dân tộc thiểu số và miền núi, thôn đặc biệt khó khăn giai đoạn 2026 – 2030 trên địa bàn thành phố Hà Nội (Kèm theo Quyết định số 104/QĐ-BDTTG ngày 27 tháng 02 năm 2026 của Bộ trưởng Bộ Dân tộc và Tôn giáo) |url=http://files.ubdt.gov.vn/files/ecm/source_files/2026/03/09/11023866_2.%20H%C3%A0%20N%E1%BB%99i%20(th%C3%B4n).signed_26-03-09.pdf |url-status=dead |archive-url=https://web.archive.org/web/20260812201510/http://files.ubdt.gov.vn/files/ecm/source_files/2026/03/09/11023866_2.%20H%C3%A0%20N%E1%BB%99i%20(th%C3%B4n).signed_26-03-09.pdf |archive-date=2026-08-12 |access-date=2026-08-12 |website=Cổng Thông tin điện tử Bộ Dân tộc và Tôn giáo}}</ref><ref>{{Chú thích web |last=Trang Thông tin điện tử xã Ba Vì – thành phố Hà Nội |date=2026-02-26 |title=Danh sách chính thức những người ứng cử đại biểu Hội đồng nhân dân xã Ba Vì khóa XXII, nhiệm kỳ 2026 – 2031 |url=https://bavi.hanoi.gov.vn/tin-tuc-su-kien/danh-sach-chinh-thuc-nhung-nguoi-ung-cu-dai-bieu-hdnd-xa-ba-vi-khoa-xxii-nhiem-ky-2026-2031-2756260226172743238.htm?gidzl=s4lXUF-NoJdSLEL-zOpCDz5MvN7kZCjZnbBd8-A8dsFBKESXk8h3C906lNUps9SmaWAo8J0HxHrm-fRDEm |url-status=dead |archive-url=https://web.archive.org/web/20260731400809/https://bavi.hanoi.gov.vn/tin-tuc-su-kien/danh-sach-chinh-thuc-nhung-nguoi-ung-cu-dai-bieu-hdnd-xa-ba-vi-khoa-xxii-nhiem-ky-2026-2031-2756260226172743238.htm?gidzl=s4lXUF-NoJdSLEL-zOpCDz5MvN7kZCjZnbBd8-A8dsFBKESXk8h3C906lNUps9SmaWAo8J0HxHrm-fRDEm |archive-date=2026-07-31 |access-date=2026-07-31 |website=}}</ref>
+Ngày 26 tháng 6 năm 2026, đổi tên thôn Yên Sơn thành thôn Bản Dao; thành lập 11 thôn mới: Đá Chông, Bản Miền, Tiến Thịnh, Đồng Tiến, Phú Mỹ, Minh Phú, Hồng Ninh, Phú Khánh, Đá Chẹ, Giáp Thượng và Sơn Lý.<ref>1. Thôn Yên Sơn giữ nguyên, tên thôn mới: Bản Dao; 2. Sáp nhập thôn Đá Chông với thôn Liên Bu và thôn Dy, tên thôn mới: Đá Chông; 3. Sáp nhập thôn Hợp Sơn với thôn Hợp Nhất, tên thôn mới: Bản Miền; 4. Sáp nhập thôn Phú Lội với thôn Sổ và thôn Cốc Đồng Tâm, tên thôn mới: Tiến Thịnh; 5. Sáp nhập thôn Lặt với thôn Nội và thôn Mộc, tên thôn mới: Đồng Tiến; 6. Sáp nhập thôn Pheo với thôn Xuân Thọ, tên thôn mới: Phú Mỹ; 7. Sáp nhập thôn Vống Gốc Vải với thôn Đầm Sản và thôn Víp, tên thôn mới: Minh Phú; 8. Sáp nhập thôn Minh Hồng với thôn Ninh, tên thôn mới: Hồng Ninh; 9. Sáp nhập thôn Phú Thứ với thôn Khánh Chúc Bãi và thôn Khánh Chúc Đồi, tên thôn mới: Phú Khánh; 10. Sáp nhập thôn Gò Đá Chẹ với thôn Sơn Hà và thôn Bưởi, tên thôn mới: Đá Chẹ; 10. Sáp nhập thôn Sui Quán với thôn Hương Canh và thôn Mít Đồng Sống, tên thôn mới: Giáp Thượng; 11. Sáp nhập thôn Bắt Còn Chèm với thôn Gò Đình Muôn, tên thôn mới: Sơn Lý.</ref><ref name=":02">{{Chú thích web |last=Trang Thông tin điện tử xã Ba Vì – thành phố Hà Nội |date=2026-06-16 |title=Phương án sắp xếp, sáp nhập các thôn trên địa bàn xã Ba Vì |url=https://bavi.hanoi.gov.vn/chi-dao-cua-dia-phuong/phuong-an-sap-xep-sap-nhap-cac-thon-tren-dia-ban-xa-ba-vi-2756260616145930214.htm?gidzl=cMvA3C88R1ATSKuAo1Df791pJmFJ4szEXtTDKTyNEqwATKrJXHLd7T4Z5mMEHpCTqoSOKp1jLnClnmbe40 |url-status=dead |archive-url=https://web.archive.org/web/20260731400809/https://bavi.hanoi.gov.vn/chi-dao-cua-dia-phuong/phuong-an-sap-xep-sap-nhap-cac-thon-tren-dia-ban-xa-ba-vi-2756260616145930214.htm?gidzl=cMvA3C88R1ATSKuAo1Df791pJmFJ4szEXtTDKTyNEqwATKrJXHLd7T4Z5mMEHpCTqoSOKp1jLnClnmbe40 |archive-date=2026-07-31 |access-date=2026-07-31 |website=}}</ref><ref name=":1">{{Chú thích web |last=Trang Thông tin điện tử xã Ba Vì – thành phố Hà Nội |date=2026-06-30 |title=Hội đồng nhân dân xã Ba Vì tổ chức Kỳ họp thứ Hai khóa XXII, nhiệm kỳ 2026 – 2031 |url=https://bavi.hanoi.gov.vn/tin-tuc-su-kien/hoi-dong-nhan-dan-xa-ba-vi-to-chuc-ky-hop-thu-hai-khoa-xxii-nhiem-ky-2026-2031-2756260630102852165.htm?gidzl=LGeMB5UjBmPH5H8gNROg25mN4o96jYnRInCHS4goU5j64H5o4B0a21r7IoGRud087qD4SZ0qbWmRKgmh10 |url-status=dead |archive-url=https://web.archive.org/web/20260731400809/https://bavi.hanoi.gov.vn/tin-tuc-su-kien/hoi-dong-nhan-dan-xa-ba-vi-to-chuc-ky-hop-thu-hai-khoa-xxii-nhiem-ky-2026-2031-2756260630102852165.htm?gidzl=LGeMB5UjBmPH5H8gNROg25mN4o96jYnRInCHS4goU5j64H5o4B0a21r7IoGRud087qD4SZ0qbWmRKgmh10 |archive-date=2026-07-31 |access-date=2026-07-31 |website=}}</ref>
+
+== Hành chính==
+Xã Ba Vì được chia thành 12 thôn: Bản Dao, Bản Miền, Đá Chẹ, Đá Chông, Đồng Tiến, Giáp Thượng, Hồng Ninh, Minh Phú, Phú Khánh, Phú Mỹ, Sơn Lý và Tiến Thịnh.<ref name=":02" /><ref name=":1" />
+{| class="wikitable sortable" align="center" width="100%" cellspacing="6" cellpadding="0" style="background: #f9f9f9; border: 1px #aaa solid; margin-top: 16px"
+! colspan="4" style="background: #E6E6FA; font-size: 95%;" |Danh sách các thôn thuộc xã Ba Vì<ref name=":02" /><ref name=":1" />
+|-
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Bản Dao
+|273
+|-
+| align="left" |Bản Miền
+|298
+|-
+| align="left" |Đá Chẹ
+|527
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Đá Chông
+|604
+|-
+| align="left" |Đồng Tiến
+|609
+|-
+| align="left" |Giáp Thượng
+|501
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Hồng Ninh
+|513
+|-
+| align="left" |Minh Phú
+|696
+|-
+| align="left" |Phú Khánh
+|542
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Phú Mỹ
+|547
+|-
+| align="left" |Sơn Lý
+|351
+|-
+| align="left" |Tiến Thịnh
+|605
+|}
+|}
+
+== Chú thích==
+{{tham khảo| 30em}}
+
+== Tham khảo==
+
+{{sơ khai Hà Nội}}
+{{Đơn vị hành chính thuộc thành phố Hà Nội}}

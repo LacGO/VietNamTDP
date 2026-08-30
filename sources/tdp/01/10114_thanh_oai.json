@@ -1,0 +1,96 @@
+{
+  "ward_code": "10114",
+  "ward_name": "Thanh Oai",
+  "province_code": "01",
+  "resolution": "",
+  "arrangement": "2026_07",
+  "effective_date": "2026-07-01",
+  "verified": "unverified",
+  "extraction": {
+    "source": "vi.wikipedia.org",
+    "title": "(cache)",
+    "mode": "table"
+  },
+  "sources": [
+    {
+      "key": "wiki-10114-1",
+      "title": "Xã Thanh Oai công bố các Nghị quyết, quyết định về việc sắp xếp thôn, tổ dân phố",
+      "url": "https://thanhoai.hanoi.gov.vn/tin-tuc-su-kien/xa-thanh-oai-cong-bo-cac-nghi-quyet-quyet-dinh-ve-viec-sap-xep-thon-tdp-2838260630183104478.htm?gidzl=FuMf1fFHUJexcgq0cSbvE3gSg02Ecdqv9CgX1DYSSZzxpgS5W9mWFoh0yWQ5boHeBS2W0sAQPUKDbj1zE0",
+      "date": "2026-06-30",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-10114-2",
+      "title": "Xã Thanh Oai thông qua dự thảo phương án sắp xếp lại các thôn, tổ dân phố trên địa bàn",
+      "url": "https://thanhoai.hanoi.gov.vn/tin-tuc-su-kien/xa-thanh-oai-thong-qua-du-thao-phuong-an-sap-xep-lai-cac-thon-to-dan-pho-tren-dia-ban-2838260602172145824.htm?gidzl=wLO3GF9xmLRjIGT6-6F3LkLE1qBcPvHS_1q1JU5Zmmwe6L9Di6QNNgz3Kq-nPv5OfKXGHpaj7FSdzth5L0",
+      "date": "2026-06-02",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-10114-3",
+      "title": "Nghị quyết số 111/2025/UBTVQH15 ngày 24 tháng 12 năm 2025 của Ủy ban Thường vụ Quốc hội về phân loại đô thị",
+      "url": "https://cdn.nhandan.vn/files/f4a4abf7f9a0ba4a91744616546d850872b76917f90d5a74cc9eebef1369fb6f/111.pdf",
+      "date": "2026-04-30",
+      "type": "wikipedia-ref"
+    }
+  ],
+  "note": "Trích tự động từ Wikipedia tiếng Việt (mode=table). Cần đối chiếu nghị quyết HĐND phường/xã.",
+  "tdp": [
+    {
+      "name": "Đỗ Động",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Kim Bài",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Kim Động",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "My Hạ",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Văn Trình",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Châu Thành",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Đôn Thư",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "My Dương",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "My Thượng",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Phương Trung",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Tân Dân",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Tân Kiều",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Tân Quang",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Tràng An",
+      "type": "tổ dân phố"
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "ward_code": "10030",
+  "ward_name": "Phú Nghĩa",
+  "province_code": "01",
+  "resolution": "",
+  "arrangement": "2026_07",
+  "effective_date": "2026-07-01",
+  "verified": "unverified",
+  "extraction": {
+    "source": "vi.wikipedia.org",
+    "title": "(cache)",
+    "mode": "table"
+  },
+  "sources": [
+    {
+      "key": "wiki-10030-1",
+      "title": "Nghị quyết số 13/NQ-HĐND ngày 25 tháng 6 năm 2026 của Hội đồng nhân dân xã Phú Nghĩa về việc sắp xếp thôn trên địa bàn xã Phú Nghĩa",
+      "url": "https://web.facebook.com/story.php?story_fbid=122175174008934288&id=61578028641582&rdid=UCprMkSfIjjPwvws#",
+      "date": "2026-08-05",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-10030-2",
+      "title": "Thông báo số 27/TB-UBBC ngày 26 tháng 2 năm 2026 của Ủy ban bầu cử xã Phú Nghĩa về Chương trình tổ chức hội nghị tiếp xúc cử tri để vận động bầu cử của người ứng cử đại biểu Hội đồng nhân dân xã Phú Nghĩa nhiệm kỳ 2026 – 2031",
+      "url": "https://phunghia.hanoi.gov.vn/thong-bao/thong-bao-chuong-trinh-to-chuc-hoi-nghi-tiep-xuc-cu-tri-de-van-dong-bau-cu-cua-nguoi-ung-cu-dai-bieu-hoi-dong-nhan-dan-xa-phu-nghia-nhiem-ky-2026-2031-2713260226151832482.htm?gidzl=jTIrBBW-Ac-nox4giYKYRBdAkYQiTo1df9ZiTAfnTZEZcBvqgNicCAkMjIIdUoirf9Qv8cKxswfolJykRG",
+      "date": "",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-10030-3",
+      "title": "Nghị quyết số 1656/NQ-UBTVQH15 ngày 16 tháng 6 năm 2025 của Ủy ban Thường vụ Quốc hội về việc sắp xếp các đơn vị hành chính cấp xã của thành phố Hà Nội năm 2025",
+      "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf",
+      "date": "2026-05-13",
+      "type": "wikipedia-ref"
+    }
+  ],
+  "note": "Trích tự động từ Wikipedia tiếng Việt (mode=table). Cần đối chiếu nghị quyết HĐND phường/xã.",
+  "tdp": [
+    {
+      "name": "Chi Nê",
+      "type": "thôn"
+    },
+    {
+      "name": "Đông Sơn",
+      "type": "thôn"
+    },
+    {
+      "name": "Đông Yên",
+      "type": "thôn"
+    },
+    {
+      "name": "Đồi 2",
+      "type": "thôn"
+    },
+    {
+      "name": "Đồng Trữ",
+      "type": "thôn"
+    },
+    {
+      "name": "Kim Trung",
+      "type": "thôn"
+    },
+    {
+      "name": "Lũng Vị",
+      "type": "thôn"
+    },
+    {
+      "name": "Lương Sơn",
+      "type": "thôn"
+    },
+    {
+      "name": "Nghĩa Hảo",
+      "type": "thôn"
+    },
+    {
+      "name": "Nhật Tiến",
+      "type": "thôn"
+    },
+    {
+      "name": "Phú Khê",
+      "type": "thôn"
+    },
+    {
+      "name": "Phú Vinh",
+      "type": "thôn"
+    },
+    {
+      "name": "Phù Yên",
+      "type": "thôn"
+    },
+    {
+      "name": "Phương Hài",
+      "type": "thôn"
+    },
+    {
+      "name": "Quyết Hạ",
+      "type": "thôn"
+    },
+    {
+      "name": "Thanh Bình",
+      "type": "thôn"
+    },
+    {
+      "name": "Thanh Sơn",
+      "type": "thôn"
+    },
+    {
+      "name": "Trung Cao 1",
+      "type": "thôn"
+    },
+    {
+      "name": "Trung Cao 2",
+      "type": "thôn"
+    },
+    {
+      "name": "Yên Trường 1",
+      "type": "thôn"
+    },
+    {
+      "name": "Yên Trường 2",
+      "type": "thôn"
+    }
+  ]
+}

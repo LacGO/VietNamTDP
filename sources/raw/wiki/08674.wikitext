@@ -1,0 +1,60 @@
+{{Thông tin đơn vị hành chính Việt Nam|Xã
+| tên = Thanh Thủy
+| hình =Apec Mandala Wyndham Thanh Thuỷ.jpg 
+| ghi chú hình =Tòa tháp Condotel Wyndham, tòa nhà cao nhất tỉnh Phú Thọ 
+| vĩ độ = 21.17370221947607
+| kinh độ = 105.28458412780218
+| diện tích = 31,08 km²<ref name=MS/>
+| dân số = 27.678 người<ref name=MS/>
+| thời điểm dân số = 2025
+| mật độ dân số = {{formatnum:{{#expr:floor({{formatnum:27.678|R}}/{{formatnum:31,08|R}})}} }} người/km²
+| vùng = [[Đông Bắc Bộ]]
+| tỉnh = [[Phú Thọ]]
+| thành lập =16 tháng 6 năm 2025<ref>Nghị quyết số 1676/NQ-UBTVQH15</ref> 
+| trụ sở UBND =Khu Phố 
+| mã hành chính = 08674<ref>{{Chú thích web |url=https://danhmuchanhchinh.gso.gov.vn/ |title=Tổng cục Thống kê |access-date=2022-04-10 |archive-date=2021-01-10 |archive-url=https://web.archive.org/web/20210110034519/https://www.gso.gov.vn/phuong-phap-thong-ke/danh-muc/don-vi-hanh-chinh/ |url-status=dead }}</ref>
+| mã bưu chính =35856 
+|web={{url|thanhthuy.phutho.gov.vn}}
+|loại đô thị=|năm công nhận=}}
+{{other|Thanh Thủy (định hướng)}}
+'''Thanh Thủy''' là một [[Xã (Việt Nam)|xã]] thuộc [[Tỉnh (Việt Nam)|tỉnh]] [[Phú Thọ]], [[Việt Nam]].
+
+==Địa lý==
+Xã Thanh Thủy nằm ở phía trung tâm tỉnh [[Phú Thọ]], có vị trí địa lý<ref>{{Chú thích web |title=Đơn vị hành chính Việt Nam |url=https://sapnhap.bando.com.vn/ |access-date=2026-06-28 |website=sapnhap.bando.com.vn}}</ref>:
+
+* Phía Bắc giáp xã [[Thanh Sơn, Phú Thọ|Thanh Sơn]] và xã [[Đào Xá]].
+* Phía Nam giáp xã [[Tu Vũ]].
+* Phía Tây giáp xã [[Cự Đồng]].
+* Phía Đông giáp xã [[Bất Bạt]], thành phố [[Hà Nội]].
+
+Xã có diện tích 31,08&nbsp;km², dân số năm 2025 là 27.678 người, mật độ dân số đạt {{formatnum:{{#expr:floor({{formatnum:27.678|R}}/{{formatnum:31,08|R}})}} }} người/km².
+
+==Hành chính==
+Xã Thanh Thủy được chia thành 25 khu: 1, 3, 4, 5, 6, 7, 8 (thị trấn Thanh Thủy cũ), 1, 2, 3, 4, 5 (xã Bảo Yên cũ), 1, 2, 3, 4 (xã Đoan Hạ cũ), 1, 2, 3, 4, 5, 6, 7, 8 (xã Sơn Thủy cũ), Phố.<ref name=":0">{{Chú thích web |last=Cổng Thông tin điện tử xã Thanh Thủy - tỉnh Phú Thọ |date=2026-03-04 |title=Danh sách ứng cử viên đại biểu Hội đồng nhân dân xã Thanh Thủy khóa II nhiệm kỳ 2026 - 2031 |url=https://thanhthuy.phutho.gov.vn/Chuyen-muc-tin/Chi-tiet-tin/t/DANH%20S%C3%81CH%20%E1%BB%A8NG%20C%E1%BB%AC%20VI%C3%8AN%20%C4%90%E1%BA%A0I%20BI%E1%BB%82U%20H%C4%90ND%20X%C3%83%20THANH%20THU%E1%BB%B6%20KHO%C3%81%20II%20NHI%E1%BB%86M%20K%E1%BB%B2%202026%20-%202031/title/67863/ctitle/21 |url-status=live |archive-url=https://web.archive.org/web/20260425090807/https://thanhthuy.phutho.gov.vn/Chuyen-muc-tin/Chi-tiet-tin/t/DANH%20S%C3%81CH%20%E1%BB%A8NG%20C%E1%BB%AC%20VI%C3%8AN%20%C4%90%E1%BA%A0I%20BI%E1%BB%82U%20H%C4%90ND%20X%C3%83%20THANH%20THU%E1%BB%B6%20KHO%C3%81%20II%20NHI%E1%BB%86M%20K%E1%BB%B2%202026%20-%202031/title/67863/ctitle/21 |archive-date=2026-04-25 |access-date=2026-04-25}}</ref>
+
+==Lịch sử==
+Trước kia, địa bàn của xã Thanh Thủy ngày nay là địa bàn của thị trấn Thanh Thủy và các xã Bảo Yên, Đoan Hạ, Sơn Thủy thuộc huyện [[Thanh Thủy (huyện)|Thanh Thủy]] cũ.
+
+Ngày [[25 tháng 10]] năm [[2010]], Thủ tướng Chính phủ ban hành Nghị quyết số 40/2010/NQ-TTg thị trấn Thanh Thủy được thành lập trên cơ sở toàn bộ diện tích và dân số của xã La Phù, là thị trấn huyện lỵ của huyện Thanh Thủy.<ref>Nghị quyết 40/2010/NQ-TTg ngày 25 tháng 10 năm 2010 của Thủ tướng Chính phủ.</ref>
+
+Ngày [[12 tháng 6]] năm [[2025]], [[Quốc hội Việt Nam|Quốc hội]] ban hành Nghị quyết số 202/2025/QH15 về việc sắp xếp đơn vị hành chính cấp tỉnh (nghị quyết có hiệu lực từ ngày [[12 tháng 6]] năm [[2025]]).<ref>{{Chú thích web|last=xaydungchinhsach.chinhphu.vn|date=2025-07-16|title=TOÀN VĂN: Nghị quyết số 202/2025/QH15 về sắp xếp đơn vị hành chính cấp tỉnh|url=https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-202-2025-qh15-ve-sap-xep-don-vi-hanh-chinh-cap-tinh-119250612174148722.htm|url-status=live|archive-url=https://web.archive.org/web/20260705025431/https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-202-2025-qh15-ve-sap-xep-don-vi-hanh-chinh-cap-tinh-119250612174148722.htm|archive-date=2026-07-05|access-date=2026-07-25|website=Báo Điện tử Chính phủ|language=vi}}</ref> Theo đó, sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của tỉnh [[Vĩnh Phúc (tỉnh)|Vĩnh Phúc]], tỉnh [[Hòa Bình (tỉnh)|Hòa Bình]] và tỉnh [[Phú Thọ]] thành tỉnh mới có tên gọi là tỉnh '''Phú Thọ'''.
+
+Ngày [[16 tháng 6]] năm [[2025]]:
+
+* Quốc hội ban hành Nghị quyết số 203/2025/QH15 về việc sửa đổi, bổ sung một số điều của Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam (nghị quyết có hiệu lực từ ngày [[16 tháng 6]] năm [[2025]]).<ref>{{Chú thích web|last=xaydungchinhsach.chinhphu.vn|date=2025-06-28|title=NGHỊ QUYẾT 203/2025/QH15 SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA HIẾN PHÁP NƯỚC CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM|url=https://xaydungchinhsach.chinhphu.vn/nghi-quyet-203-2025-qh15-sua-doi-bo-sung-mot-so-dieu-cua-hien-phap-nuoc-cong-hoa-xa-hoi-chu-nghia-viet-nam-119250616181735552.htm|url-status=live|archive-url=https://web.archive.org/web/20260715200606/https://xaydungchinhsach.chinhphu.vn/nghi-quyet-203-2025-qh15-sua-doi-bo-sung-mot-so-dieu-cua-hien-phap-nuoc-cong-hoa-xa-hoi-chu-nghia-viet-nam-119250616181735552.htm|archive-date=2026-07-15|access-date=2026-07-15|website=Báo Điện tử Chính phủ|language=vi}}</ref> Theo đó, kết thúc hoạt động của đơn vị hành chính cấp huyện trong cả nước từ ngày 1 tháng 7 năm 2025.
+
+* [[Ủy ban Thường vụ Quốc hội]] ban hành Nghị quyết số 1676/NQ-UBTVQH15 về việc sắp xếp đơn vị hành chính cấp xã của tỉnh [[Phú Thọ]] năm 2025 (nghị quyết có hiệu lực từ ngày [[16 tháng 6]] năm [[2025]]).<ref>{{Chú thích web |last=xaydungchinhsach.chinhphu.vn |date=2025-06-20 |title=Nghị quyết số 1676/NQ-UBTVQH15 sắp xếp các ĐVHC cấp xã của tỉnh Phú Thọ năm 2025 |url=https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-1676-nq-ubtvqh15-sap-xep-cac-dvhc-cap-xa-cua-tinh-phu-tho-nam-2025-119250616204317326.htm |url-status=live |archive-url=https://web.archive.org/web/20260725082021/https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-1676-nq-ubtvqh15-sap-xep-cac-dvhc-cap-xa-cua-tinh-phu-tho-nam-2025-119250616204317326.htm |archive-date=2026-07-25 |access-date=2025-09-07 |website=Báo Điện tử Chính phủ |language=vi }}</ref> Theo đó, sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của thị trấn Thanh Thủy và các xã Bảo Yên, Đoan Hạ, Sơn Thủy thành xã mới có tên gọi là '''xã Thanh Thủy'''.
+
+Sau khi thành lập, xã Thanh Thủy được chia thành 25 khu: 1, 3, 4, 5, 6, 7, 8 (thị trấn Thanh Thủy cũ), 1, 2, 3, 4, 5 (xã Bảo Yên cũ), 1, 2, 3, 4 (xã Đoan Hạ cũ), 1, 2, 3, 4, 5, 6, 7, 8 (xã Sơn Thủy cũ), Phố.<ref name=":0" />
+
+Ngày [[24 tháng 12]] năm [[2025]], Ủy ban Thường vụ Quốc hội ban hành Nghị quyết số 111/2025/UBTVQH15 về phân loại đô thị (nghị quyết có hiệu lực từ ngày [[1 tháng 1]] năm [[2026]]).<ref>{{Chú thích web |last=xaydungchinhsach.chinhphu.vn |date=2026-01-21 |title=Nghị quyết số 111/2025/UBTVQH15 về phân loại đô thị |url=https://xaydungchinhsach.chinhphu.vn/nghi-quyet-so-111-2025-ubtvqh15-ve-phan-loai-do-thi-119260101170432239.htm |access-date=2026-07-23 |website=xaydungchinhsach.chinhphu.vn |language=vi}}</ref> Theo đó, đô thị loại IV, loại V, thị xã và thị trấn trước khi sắp xếp chưa được công nhận loại đô thị được xác định là đô thị loại III. Một phần xã Thanh Thủy được xác định là đô thị loại III (từ đô thị loại V của thị trấn Thanh Thủy cũ).
+
+==Hình ảnh==
+[[File:Khu du lịch Đảo Ngọc Xanh (49357454033).jpg|thumb|Khu du lịch Đảo Ngọc Xanh]]
+
+==Chú thích==
+{{tham khảo}}
+
+==Tham khảo==
+{{sơ khai Phú Thọ}}
+{{Đơn vị hành chính thuộc tỉnh Phú Thọ}}

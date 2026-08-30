@@ -1,0 +1,162 @@
+{{Thông tin đơn vị hành chính Việt Nam |Phường
+| tên = Yên Sở
+| hình = 20220528 Yên Sở, Hà Nội.jpg
+| ghi chú hình = Công viên Yên Sở
+| vĩ độ = 20.968823340783786
+| kinh độ = 105.84584179999999
+| diện tích = 5,61 km²
+| dân số = 40.913 người
+| thời điểm dân số = 2025
+| mật độ dân số = {{formatnum:{{#expr:floor({{formatnum:40.913| R}}/{{formatnum:5,61| R}})}} }} người/km²
+| vùng = [[Đồng bằng sông Hồng]]
+| thành phố = [[Hà Nội]]
+| trụ sở UBND = Số 8 ngõ 6 phố Bùi Huy Bích<ref>{{Chú thích web |url=https://storage-vnportal.vnpt.vn/gov-hni/6244/VanBan/2025/6/25/TB-729-2025.pdf |title=Thông báo số 729/TB-UBND ngày 25 tháng 6 năm 2025 của Ủy ban nhân dân thành phố Hà Nội về địa điểm trụ sở làm việc của 126 phường, xã sau sắp xếp thuộc phạm vi quản lý của thành phố Hà Nội|access-date=2026-06-15 |archive-date=2026-06-15 |archive-url=https://web.archive.org/web/20260615034519/https://storage-vnportal.vnpt.vn/gov-hni/6244/VanBan/2025/6/25/TB-729-2025.pdf |url-status=dead | website = Cổng Thông tin điện tử Ủy ban nhân dân thành phố Hà Nội}}</ref>
+| mã hành chính =00340<ref>{{Chú thích web |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/19ttg.signed.pdf |title=Quyết định số 19/2025/QĐ-TTg ngày 30 tháng 6 năm 2025 của Thủ tướng Chính phủ về việc Ban hành Bảng danh mục và mã số các đơn vị hành chính Việt Nam |access-date=2026-06-15 |archive-date=2026-06-15 |archive-url=https://web.archive.org/web/20260615034519/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/19ttg.signed.pdf |url-status=dead | website = Cổng Thông tin điện tử Chính phủ}}</ref> 
+| web = {{url|yenso.hanoi.gov.vn}}
+|trụ sở Đảng ủy=Số 8 ngõ 6 phố Bùi Huy Bích|bản đồ 1={{maplink|frame=yes|plain=yes|type=shape|frame-width=280|frame-align=center|stroke-width=3}}}}
+{{other|Yên Sở (định hướng)}}
+'''Yên Sở''' là một [[Phường (Việt Nam)|phường]] thuộc thành phố [[Hà Nội]], [[Việt Nam]].
+
+== Địa lý== 
+Phường Yên Sở có vị trí địa lý: 
+*Phía đông giáp phường [[Lĩnh Nam (phường)|Lĩnh Nam]] và xã [[Thanh Trì (xã)|Thanh Trì]] (ranh giới đi theo đường giao thông quy hoạch – đường đê Nguyễn Khoái)
+* Phía tây giáp phường [[Hoàng Liệt]] (ranh giới đi theo [[Đường Ngọc Hồi, Hà Nội|đường Ngọc Hồi]])
+* Phía nam giáp xã [[Thanh Trì (xã)|Thanh Trì]] (ranh giới đi theo đường Tứ Hiệp – đường Nguyễn Bặc – [[sông Tô Lịch]])
+* Phía bắc giáp phường [[Hoàng Mai, Hà Nội|Hoàng Mai]] (ranh giới đi theo [[Đường vành đai 3 (Hà Nội)|đường Vành đai 3]]).<ref>{{Chú thích web |last=Báo Điện tử Chính phủ|date=2025-04-28|title=Chi tiết dự thảo phương án sắp xếp các phường của Hà Nội|url=https://xaydungchinhsach.chinhphu.vn/chi-tiet-du-thao-phuong-an-sap-xep-cac-phuong-cua-ha-noi-119250421100531902.htm|url-status=dead|archive-url=https://web.archive.org/web/20260316174230/https://xaydungchinhsach.chinhphu.vn/chi-tiet-du-thao-phuong-an-sap-xep-cac-phuong-cua-ha-noi-119250421100531902.htm|archive-date=2026-03-16|access-date=2026-07-10|website=Xây dựng chính sách, pháp luật}}</ref><ref>{{Chú thích web |last=Viện nghiên cứu Phát triển kinh tế – xã hội Hà Nội|date=2025-07-03|title=Phường Yên Sở: Những thông tin chi tiết sau sắp xếp|url=https://hanoionline.vn/phuong-yen-so-nhung-thong-tin-chi-tiet-sau-sap-xep-344249.htm|url-status=dead|archive-url=https://web.archive.org/web/20260822400809/https://hanoionline.vn/phuong-yen-so-nhung-thong-tin-chi-tiet-sau-sap-xep-344249.htm|archive-date=2026-08-22|access-date=2026-08-22|website=Cơ quan Báo và Phát thanh Truyền hình Hà Nội}}</ref><ref>{{Chú thích web |last=Cơ quan Báo và Phát thanh Truyền hình Hà Nội|date=2025-07-05|title=Phường Yên Sở: Tất cả thông tin và thủ tục cần biết|url=https://hanoionline.vn/phuong-yen-so-tat-ca-thong-tin-va-thu-tuc-can-biet-344705.htm|url-status=dead|archive-url=https://web.archive.org/web/20260822401509/https://hanoionline.vn/phuong-yen-so-tat-ca-thong-tin-va-thu-tuc-can-biet-344705.htm|archive-date=2026-08-22|access-date=2026-08-22}}</ref>
+Phường Yên Sở có diện tích tự nhiên là 5,61&nbsp;km<sup>2</sup>, quy mô dân số năm 2025 là 40.913 người và mật độ dân số đạt 7.292 người/km<sup>2</sup>.<ref>{{Chú thích web |last=Mai Hữu|date=2026-04-05|title=Hà Nội: Chi tiết phương án tổng thể sắp xếp đơn vị hành chính cấp xã|url=https://hanoimoi.vn/ha-noi-chi-tiet-phuong-an-tong-the-sap-xep-don-vi-hanh-chinh-cap-xa-700278.html|url-status=bot: unknown|archive-url=https://web.archive.org/web/20250710163328/https://hanoimoi.vn/ha-noi-chi-tiet-phuong-an-tong-the-sap-xep-don-vi-hanh-chinh-cap-xa-700278.html|archive-date=2025-07-10|access-date=2026-07-08|website=Cơ quan Báo và Phát thanh, truyền hình Hà Nội}}</ref><ref>Công văn số 2896/BNV-CQĐP ngày 27 tháng 5 năm 2025 của Bộ Nội vụ về việc cung cấp thông tin danh mục dự kiến đơn vị hành chính cấp xã mới.</ref>
+
+== Lịch sử==
+
+=== Trước năm 1976 ===
+Yên Sở là tên ghép của hai làng Yên Duyên và Sở Thượng.
+
+Theo Thiên Nam dư hạ tập thì năm [[Lê Thánh Tông|Hồng Đức thứ 14]] (1483) [[vua]] [[Lê Thánh Tông]] cho lập các Sở đồn điền, Sở tầm tang, Sở điển mục. Đây là các điểm đồn trú với quân lính làm nòng cốt có nhiệm vụ sản xuất nông nghiệp và khai hóa đất đai các bãi bồi ven sông trong thời bình, tham gia chiến đấu khi có chiến tranh. Sở Yên Duyên là một trong 43 Sở đồn điền được thành lập khi đó thuộc tổng Thanh Trì, huyện Thanh Trì, phủ Thường Tín, xứ Sơn Nam.
+
+Năm 1495, một nhóm người đã di cư từ Sở Thượng xuống địa phận [[Ninh Sở]], huyện [[Thường Tín (huyện)|Thường Tín]] hiện nay lập làng khai hoang. Đến năm 1742 thì tách riêng ra thành lập làng Sở Hạ (để phân biệt với Sở Thượng).
+
+Sau [[Cách mạng tháng Tám|Cách mạng Tháng Tám]], Yên Sở là một xã thuộc huyện [[Thanh Trì (huyện)|Thanh Trì]], tỉnh [[Hà Đông (tỉnh)|Hà Đông]]. Ngày 31 tháng 5 năm 1961, Yên Sở cùng với toàn huyện Thanh Trì được sáp nhập vào thành phố Hà Nội.
+
+=== Giai đoạn 1976 – nay ===
+Sau ngày 2 tháng 7 năm 1976, 5 xã: Hoàng Liệt, Thịnh Liệt, Trần Phú, Tứ Hiệp và Yên Sở thuộc huyện [[Thanh Trì (huyện)|Thanh Trì]] của thành phố [[Hà Nội]].
+
+Ngày 6 tháng 11 năm 2003:
+
+* Tách toàn bộ diện tích tự nhiên và dân số của các xã: Hoàng Liệt, Thịnh Liệt, Trần Phú, Yên Sở và 55 ha diện tích tự nhiên của xã Tứ Hiệp thuộc huyện [[Thanh Trì (huyện)|Thanh Trì]] về quận [[Hoàng Mai (quận)|Hoàng Mai]] mới thành lập.
+* Thành lập phường Hoàng Liệt trên cơ sở toàn bộ diện tích tự nhiên và dân số của xã Hoàng Liệt, 20 ha diện tích tự nhiên của xã Tứ Hiệp.
+* Thành lập phường Yên Sở trên cơ sở toàn bộ diện tích tự nhiên và dân số của xã Yên Sở, 35 ha diện tích tự nhiên của xã Tứ Hiệp.
+* Thành lập 2 phường: Thịnh Liệt và Trần Phú trên cơ sở toàn bộ diện tích tự nhiên và dân số của 2 xã có tên tương ứng.<ref name="132/2003/NĐ-CP">{{Chú thích web| url = https://hethongphapluat.com/nghi-dinh-132-2003-nd-cp-ve-viec-dieu-chinh-dia-gioi-hanh-chinh-de-thanh-lap-cac-quan-long-bien-hoang-mai-thanh-lap-cac-phuong-truc-thuoc-quan-long-bien-quan-hoang-mai-thanh-pho-ha-noi.html| tựa đề = Nghị định số 132/2003/NĐ-CP ngày 6 tháng 11 năm 2003 của Chính phủ về việc điều chỉnh địa giới hành chính để thành lập các quận Long Biên, Hoàng Mai, thành lập các phường trực thuộc quận Long Biên, quận Hoàng Mai, thành phố Hà Nội | tác giả = | ngày = | website = Hệ thống pháp luật | url lưu trữ =https://web.archive.org/web/20260823201510/https://hethongphapluat.com/nghi-dinh-132-2003-nd-cp-ve-viec-dieu-chinh-dia-gioi-hanh-chinh-de-thanh-lap-cac-quan-long-bien-hoang-mai-thanh-lap-cac-phuong-truc-thuoc-quan-long-bien-quan-hoang-mai-thanh-pho-ha-noi.html | ngày lưu trữ =2026-08-23 | ngày truy cập =2026-08-23 | url-status = dead}}</ref>
+
+Ngày 16 tháng 6 năm 2025:
+
+* Kết thúc hoạt động của đơn vị hành chính cấp huyện trong cả nước.<ref>{{Chú thích web |last= |date= |title=Nghị quyết số 203/2025/QH15 ngày 16 tháng 6 năm 2025 của Quốc hội khóa XV, Kỳ họp thứ 9 về việc sửa đổi, bổ sung một số điều của Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/nq-sua-doi-hien-phap.pdf |url-status=live |archive-url=https://web.archive.org/web/20260613090807/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/nq-sua-doi-hien-phap.pdf |archive-date=2026-06-13 |access-date=2026-06-13 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+* Sắp xếp một phần diện tích tự nhiên, quy mô dân số của phường Thịnh Liệt, phường Yên Sở (quận [[Hoàng Mai (quận)|Hoàng Mai]]), xã Tứ Hiệp (huyện [[Thanh Trì (huyện)|Thanh Trì]]), phần còn lại của phường Hoàng Liệt và phần còn lại của phường Trần Phú (quận [[Hoàng Mai (quận)|Hoàng Mai]]) thành phường mới có tên gọi là phường Yên Sở.<ref>{{Chú thích web |title=Nghị quyết số 1656/NQ-UBTVQH15 ngày 16 tháng 6 năm 2025 của Ủy ban Thường vụ Quốc hội về việc sắp xếp các đơn vị hành chính cấp xã của thành phố Hà Nội năm 2025 |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf |url-status=bot: unknown |archive-url=https://web.archive.org/web/20260513110024/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf |archive-date=2026-05-13 |access-date=2026-06-30 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+
+Ngày 12 tháng 9 năm 2025, ghép các khu vực dân cư, đổi tên tổ dân phố trên địa bàn phường Yên Sở. Sau khi sắp xếp, phường Yên Sở được chia thành 15 tổ dân phố.<ref>15 tổ dân phố, đánh số từ 1 đến 6, 7A, 7B, 9 và từ 15 đến 20.</ref><ref>{{Chú thích web |title=Thông tư số 10/2022/TT-BTNMT ngày 29 tháng 9 năm 2022 của Bộ Tài nguyên và Môi trường về việc Ban hành Danh mục địa danh dân cư, sơn văn, thủy văn, kinh tế – xã hội phục vụ công tác thành lập bản đồ thành phố Hà Nội |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2022/10/10-btnmt.pdf |url-status=bot: unknown |archive-url=https://web.archive.org/web/20260630082812/https://datafiles.chinhphu.vn/cpp/files/vbpq/2022/10/10-btnmt.pdf |archive-date=2026-06-30 |access-date=2026-06-30 |website=Cổng Thông tin điện tử Chính phủ}}</ref><ref>{{Chú thích web |last=Trung Đức |date=2025-09-12 |title=Phường Yên Sở công bố ghép khu dân cư, đổi tên tổ dân phố và khen thưởng các điển hình xuất sắc, thúc đẩy chuyển đổi số từ cơ sở |url=https://thanhuyhanoi.vn/tin-tuc/chinh-tri/phuong-yen-so-cong-bo-ghep-khu-dan-cu-doi-ten-to-dan-pho-va-khen-thuong-cac-dien-hinh-xuat-sac-thuc-day-chuyen-doi-so-tu-co-so-50031348.html |url-status=dead |archive-url=https://web.archive.org/web/20260824201510/https://thanhuyhanoi.vn/tin-tuc/chinh-tri/phuong-yen-so-cong-bo-ghep-khu-dan-cu-doi-ten-to-dan-pho-va-khen-thuong-cac-dien-hinh-xuat-sac-thuc-day-chuyen-doi-so-tu-co-so-50031348.html |archive-date=2026-08-24 |access-date=2026-08-24 |website=Trang Thông tin điện tử Đảng bộ thành phố Hà Nội}}</ref><ref>{{Chú thích web |last= |date= |title=Thông báo số 90/TB-UBND ngày 2 tháng 2 năm 2026 của Ủy ban nhân dân phường Yên Sở về việc niêm yết danh sách cử tri bầu cử đại biểu Quốc hội khoá XVI và đại biểu Hội đồng nhân dân các cấp nhiệm kỳ 2026 – 2031 |url=https://sqhx-hanoi.mediacdn.vn/91579363132710912/2026/2/2/tb-90-2026-01-signed-17700178544961251146416.pdf |url-status=dead |archive-url=https://web.archive.org/web/20260824201510/https://sqhx-hanoi.mediacdn.vn/91579363132710912/2026/2/2/tb-90-2026-01-signed-17700178544961251146416.pdf |archive-date=2026-08-24 |access-date=2026-08-24 |website=Trang Thông tin điện tử phường Yên Sở – thành phố Hà Nội}}</ref>
+
+Ngày 24 tháng 12 năm 2025, xác định phần lớn của phường Yên Sở là [[Đô thị Việt Nam|đô thị loại II]].<ref>Chuyển tiếp từ 4 phường: Hoàng Liệt, Thịnh Liệt, Trần Phú và Yên Sở thuộc quận Hoàng Mai.</ref><ref>{{Chú thích web |title=Nghị quyết số 111/2025/UBTVQH15 ngày 24 tháng 12 năm 2025 của Ủy ban Thường vụ Quốc hội về phân loại đô thị |url=https://cdn.nhandan.vn/files/f4a4abf7f9a0ba4a91744616546d850872b76917f90d5a74cc9eebef1369fb6f/111.pdf |url-status=dead |archive-url=https://web.archive.org/web/20260430074852/https://cdn.nhandan.vn/files/f4a4abf7f9a0ba4a91744616546d850872b76917f90d5a74cc9eebef1369fb6f/111.pdf |archive-date=2026-04-30 |access-date=2026-07-12 |website=Báo Nhân dân}}</ref>
+
+Ngày 26 tháng 6 năm 2026, thành lập 8 tổ dân phố mới: Tứ Hiệp 1, 2, Pháp Vân từ 2 đến 6 và Hưng Phúc; đổi tên 3 tổ dân phố: 3, 6 và 17 lần lượt thành 3 tổ dân phố: Tứ Hiệp 3, Pháp Vân 1 và Hưng Thịnh.<ref name=":12">1. Tổ dân phố Tứ Hiệp 1: Thành lập trên cơ sở sáp nhập toàn bộ diện tích tự nhiên, quy mô dân số của Tổ dân phố số 1 và Tổ dân phố số 4; 2. Tổ dân phố Tứ Hiệp 2: Thành lập trên cơ sở sáp nhập toàn bộ diện tích tự nhiên, quy mô dân số của Tổ dân phố số 2 và Tổ dân phố số 5; 3. Tổ dân phố Tứ Hiệp 3: Giữ nguyên toàn bộ diện tích tự nhiên, quy mô dân số của Tổ dân phố số 3; 4. Tổ dân phố Pháp Vân 1: Giữ nguyên toàn bộ diện tích tự nhiên, quy mô dân số của Tổ dân phố số 6; 5. Tổ dân phố Pháp Vân 2: Thành lập trên cơ sở sáp nhập một phần diện tích tự nhiên, quy mô dân số của Tổ dân phố số 7A (không bao gồm tòa nhà chung cư Rose Town), Tổ dân phố số 7B (không bao tòa nhà chung cư Green Park Phương Đông) và toàn bộ diện tích tự nhiên và quy mô dân của Tổ dân phố số 18; 6. Tổ dân phố Pháp Vân 3: Thành lập trên cơ sở diện tích tự nhiên, quy mô dân số của Tổ dân phố số 19 sau khi tách khu South Building và BT1; 7. Tổ dân phố Pháp Vân 4: Thành lập trên cơ sở sáp nhập toàn bộ diện tích tự nhiên, quy mô dân số của Tổ dân phố số 20 và khu chung cư South Building + BT1; 8. Tổ dân phố Pháp Vân 5: Thành lập mới trên cơ sở toàn bộ diện tích tự nhiên, quy mô dân số của tòa nhà chung cư Rose Town, tách từ Tổ dân phố số 7A; 9. Tổ dân phố Pháp Vân 6: Thành lập mới trên cơ sở toàn bộ diện tích tự nhiên, quy mô dân số của chung cư Green Park Phương Đông, tách từ Tổ dân phố số 7B; 10. Tổ dân phố Hưng Phúc: Thành lập trên cơ sở sáp nhập toàn bộ diện tích tự nhiên, quy mô dân số của Tổ dân phố số 9, Tổ dân phố số 15 và Tổ dân phố số 16; 11. Tổ dân phố Hưng Thịnh: Giữ nguyên toàn bộ diện tích tự nhiên, quy mô dân số của Tổ dân phố số 17.</ref><ref name=":1">{{Chú thích web |last= |date= |title=Đề án năm 2026 của Ủy ban nhân dân phường Yên Sở về việc sắp xếp tổ dân phố trên địa bàn phường Yên Sở, thành phố Hà Nội |url=https://yenso.hanoi.gov.vn/thong-bao/ve-viec-cong-khai-du-thao-de-an-sap-xep-to-dan-photren-dia-ban-phuong-yen-so-thanh-pho-ha-noi-2797260611095954568.htm |access-date=2026-08-25 |website=Trang Thông tin điện tử phường Yên Sở – thành phố Hà Nội |archive-url=https://web.archive.org/web/20260825201510/https://yenso.hanoi.gov.vn/thong-bao/ve-viec-cong-khai-du-thao-de-an-sap-xep-to-dan-photren-dia-ban-phuong-yen-so-thanh-pho-ha-noi-2797260611095954568.htm|archive-date=2026-08-25|url-status=dead}}</ref><ref name=":2">{{Chú thích web |last= |date= |title=Thông báo số 376/TB-UBND ngày 30 tháng 6 năm 2026 về việc công khai Nghị quyết thành lập, sắp xếp, tổ chức lại tổ dân phố trên địa bàn phường Yên Sở |url=https://sqhx-hanoi.mediacdn.vn/91579363132710912/2026/7/2/document-93-1782955348022552230362.pdf |access-date=2026-08-24|website=Trang Thông tin điện tử phường Yên Sở – thành phố Hà Nội|archive-url=https://web.archive.org/web/20260824201510/https://sqhx-hanoi.mediacdn.vn/91579363132710912/2026/7/2/document-93-1782955348022552230362.pdf|archive-date=2026-08-24|url-status=dead}}</ref><!-- 
+== Lịch sử== 
+Trước đây, Trần Phú là một xã thuộc huyện [[Thanh Trì (huyện)| Thanh Trì]].
+
+Ngày [[6 tháng 11]] năm [[2003]], xã Trần Phú được chuyển thành phường thuộc quận Hoàng Mai mới thành lập.<ref name = "132/2003/NĐ-CP">{{Chú thích web| url = https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Nghi-dinh-132-2003-ND-CP-dieu-chinh-dia-gioi-hanh-chinh-de-thanh-lap-quan-Long-Bien-Hoang-Mai-phuong-thuoc-quan-Hoang-Mai-Ha-Noi-51571.aspx| title = Nghị định 132/2003/NĐ-CP về việc điều chỉnh địa giới hành chính để thành lập các quận Long Biên, Hoàng Mai, thành lập các phường trực thuộc quận Long Biên, quận Hoàng Mai, thành phố Hà Nội| last = | first = | date = | website = | archive-url = | archive-date = | url-status = | access-date = }}</ref>
+ -->
+
+== Hành chính ==
+Phường Yên Sở được chia thành 11 tổ dân phố: Hưng Phúc, Hưng Thịnh, Pháp Vân từ 1 đến 6 và Tứ Hiệp từ 1 đến 3.<ref name=":1" /><ref name=":2" />
+{| class="wikitable sortable" cellpadding="0" cellspacing="6" width="100%" align="center" style="background: #f9f9f9; border: 1px #aaa solid; margin-top: 16px"
+! colspan="4" style="background: #E6E6FA; font-size: 95%;" |Danh sách các tổ dân phố thuộc phường Yên Sở<ref name=":1" /><ref name=":2" />
+|-
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| cellpadding="1" cellspacing="1" width="100%" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Hưng Phúc
+|1.085
+|-
+| align="left" |Hưng Thịnh
+|744
+|-
+| align="left" |Pháp Vân 1
+|768
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| cellpadding="1" cellspacing="1" width="100%" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Pháp Vân 2
+|1.015
+|-
+| align="left" |Pháp Vân 3
+|765
+|-
+| align="left" |Pháp Vân 4
+|758
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| cellpadding="1" cellspacing="1" width="100%" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Pháp Vân 5
+|1.215
+|-
+| align="left" |Pháp Vân 6
+|1.248
+|-
+| align="left" |Tứ Hiệp 1
+|1.081
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| cellpadding="1" cellspacing="1" width="100%" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Tứ Hiệp 2
+|1.003
+|-
+| align="left" |Tứ Hiệp 3
+|705
+|}
+|}
+
+== Kinh tế== 
+Phường Yên Sở đóng vai trò kết nối trung tâm Hà Nội với các tỉnh phía Nam như [[Ninh Bình]], [[Thanh Hóa]], đồng thời cũng là điểm trung chuyển giữa khu vực nội đô và các khu công nghiệp, logistics vùng ven.<ref>{{Chú thích web | last = An Thanh | date = 6 tháng 7 năm 2025 | title = Sắp xếp lại địa giới, cơ hội để phường Yên Sở phát triển kinh tế - xã hội | url = https://kinhtedothi.vn/sap-xep-lai-dia-gioi-co-hoi-de-phuong-yen-so-phat-trien-kinh-te-xa-hoi.760220.html | url-status = live | access-date = 10 tháng 8 năm 2025 | website = Báo Kinh tế Đô thị}}</ref> Kinh tế Yên Sở chuyển dịch sang lĩnh vực thương mại, dịch vụ và tiểu thủ công nghiệp. Nhiều khu vực vốn là đất nông nghiệp hoặc hoang hóa trước đây được quy hoạch, xây dựng thành khu đô thị mới, khu dân cư và các công trình công cộng.<ref name = ":0">{{Chú thích web | title = Phường Yên Sở: Những thông tin chi tiết sau sắp xếp | url = https://hanoionline.vn/phuong-yen-so-nhung-thong-tin-chi-tiet-sau-sap-xep-344249.htm | access-date = 2025-07-09 | website = [[Đài Phát thanh – Truyền hình Hà Nội]] | language = vi}}</ref>
+
+Dân số đông, cư dân đa dạng và tốc độ đô thị hóa cao khiến thương mại - dịch vụ trở thành lĩnh vực phát triển nhanh nhất tại Yên Sở. Khu vực ven đường Vành đai 3 và [[cầu Thanh Trì]] hình thành nhiều trung tâm thương mại, cửa hàng, siêu thị, nhà hàng và dịch vụ giải trí. Yên Sở cũng là địa bàn phát triển mạnh về bất động sản với sự hiện diện của các khu đô thị mới.<ref name = ":0" /><ref>{{Chú thích web | title = Phường Yên Sở: Tất cả thông tin chỉ dẫn bạn cần biết | url = https://hanoionline.vn/phuong-yen-so-tat-ca-thong-tin-va-thu-tuc-can-biet-344705.htm | access-date = 2025-07-09 | website = [[Đài Phát thanh – Truyền hình Hà Nội]] | language = vi}}</ref>
+
+Sản xuất nông nghiệp chủ yếu tập trung tại khu vực Tứ Hiệp và khu vực đất ven sông hoặc chưa giải tỏa, với các hoạt động chính là trồng lúa, chăn nuôi nhỏ lẻ.<ref name = ":0" />
+
+== Văn hóa== 
+Đình làng Yên Duyên cùng với nhiều nơi khác ở Hoàng Mai thờ danh tướng [[Trần Khát Chân]], người có công chống giặc Chiêm Thành cuối đời Trần. Vào dịp rằm tháng Tám hàng năm làng Yên Duyên có lễ hội bơi chải truyền thống.
+
+Đình làng Sở Thượng thờ Linh Lang đại vương là hoàng tử của [[Lý Thánh Tông|vua Lý Thánh Tông]] có công đánh giặc [[Nhà Tống|Tống]].
+
+Yên Sở là vùng chiêm trũng, việc canh tác mỗi năm chỉ 1-2 vụ rất bấp bênh, tuy nhiên với lợi thế có nhiều diện tích mặt nước nên đây là vùng nổi tiếng về nuôi trồng, sản xuất cá của thành phố Hà Nội và [[Bắc Bộ|miền Bắc]].
+
+Tháng 5 năm 1960, [[Chủ tịch Hồ Chí Minh]] tặng 96 con [[cá rô phi]] cho Yên Sở, là tiền đề để phát triển ngành cá ở đây. Ngày nay khi tốc độ đô thị hóa diễn ra nhanh chóng, diện tích mặt nước thu hẹp thì Yên Sở trở thành đầu mối tập trung và cung cấp cá nước ngọt cho cả thành phố cũng như khu vực phía Bắc. Nơi đây có chợ cá đầu mối Sở Thượng hoạt động cả ngày lẫn đêm.
+
+Công viên Yên Sở là công viên lớn nhất Hà Nội với diện tích 150 ha nằm ở phía Tây của phường.
+
+Đường phố trên địa bàn phường: Yên Sở, Yên Duyên, Sở Thượng, Hưng Phúc, đường Pháp Vân, Tam Trinh và đường Vành đai 3 trên cao.
+
+== Làng Yên Duyên== 
+Yên Duyên có tên Nôm là làng Mui. Tên chữ "Yên Duyên" vốn là "An Duyên", bắt nguồn từ câu chuyện, Vua Lý Nhân Tông (1066 - 1128), trong một chuyến đi kinh lý đến đất này, thấy một cô gái xinh đẹp cứ ẩn hiện trên con thuyền giữa dòng sông Hồng. Vua ở xa, cô gái cất tiếng hát, giọng ấm mà vang truyền. Vua đến gần, lại không thấy cô gái đâu. Vua cho rằng, đó là công chúa Thủy cung hiện lên, có nhân duyên với mình nhưng không gặp, bèn sức cho dân làng lập nghè thờ, gọi là Nghè Bà Chúa và ban mỹ tự cho bà là "Thần tiên mỹ nữ tự đại vương".
+
+Yên Duyên là một làng rộng lớn, nằm ven sông Hồng, phía Nam [[Thăng Long|Kinh thành Thăng Long]], địa dư bao gồm cả làng Sở Thượng (hay Sở Lờ) ngày nay. Vào giữa thế kỷ XV, sau cuộc Nam chinh, Vua Lê Thánh Tông đưa một bộ phận tù binh Chiêm Thành ra đây khai khẩn vùng đất hoang của làng, lập thành một sở đồn điền của nhà nước. Về sau, sở này chuyển thành một làng độc lập, gọi là Sở Thượng. Năm 1928, làng có 1621 nhân khẩu.
+
+Đầu thế kỷ XIX, Yên Duyên là một xã thuộc tổng Thanh Trì, huyện Thanh Trì, phủ Thường Tín, trấn Sơn Nam Thượng (từ năm 1831 thuộc tỉnh Hà Nội, từ năm 1902 thuộc tỉnh Cầu Đơ, sau đổi thành tỉnh Hà Đông). Năm 1961, làng nhập với làng Sở Thượng thành xã Yên Sở, huyện Thanh Trì thuộc thành phố Hà Nội. Từ tháng 11-2003, xã Yên Sở trở thành một phường thuộc quận Hoàng Mai mới được thành lập.
+
+Yên Duyên nằm ven sông Hồng, nên đất đai phần lớn là bãi bồi. Dân làng Yên Duyên chuyên canh nông nghiệp, song điều kiện thiên nhiên rất bất lợi. Trong đồng nửa năm bị úng, ngoài bãi nửa năm bị lụt, nên mùa màng thường thất bát. Để có thêm thu nhập, dân làng có thêm nghề đánh cá, vớt củi trên sông Hồng.
+
+Hội làng Yên Duyên mở từ 13 đến 16 tháng Tám, có bơi thuyền trên khúc sông Hồng dài khoảng một cây số, diễn lại cảnh Vua Lý Nhân Tông gặp công chúa thủy thần. Có 8 đội bơi của 8 giáp, mỗi đội 18 người. Ngày thứ nhất bơi thử, ngày thứ hai bơi dạo, đến ngày thứ ba mới bơi thi. Cứ 4 đội bơi một lượt (một lèo), mỗi lèo bơi ba vòng để xác định đội nhất, nhì, ba, tư.
+
+Sau hòa bình lập lại, Yên Duyên trở thành hợp tác xã điển hình của [[Hà Nội|Thủ đô Hà Nội]], nhất là về nuôi cá, từng được [[Hồ Chí Minh|Bác Hồ]] tặng cá vớt từ ao cá trong Phủ Chủ tịch để gây giống.<ref>{{Chú thích web| url = https://hanoimoi.vn/lang-yen-duyen-121520.html| tựa đề = Làng Yên Duyên | tác giả = PGS, TS. Bùi Xuân Đính | ngày = 2007-01-16 | website = Báo Hànộimới | url lưu trữ = | ngày lưu trữ = | ngày truy cập = 2023-10-27 | url-status = live}}</ref>
+
+== Chú thích== 
+{{tham khảo| 30em}}
+
+== Tham khảo==
+{{sơ khai Hà Nội}}{{Đơn vị hành chính thuộc thành phố Hà Nội}}

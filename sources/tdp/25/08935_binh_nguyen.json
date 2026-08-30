@@ -1,0 +1,128 @@
+{
+  "ward_code": "08935",
+  "ward_name": "Bình Nguyên",
+  "province_code": "25",
+  "resolution": "",
+  "arrangement": "truoc_2026_07",
+  "effective_date": "",
+  "verified": "unverified",
+  "extraction": {
+    "source": "vi.wikipedia.org",
+    "title": "Bình Nguyên, Phú Thọ",
+    "mode": "narrative"
+  },
+  "sources": [
+    {
+      "key": "wiki-08935-1",
+      "title": "THÔNG BÁO Về việc triển khai thực hiện Nghị quyết số 26/NQ-HĐND, ngày 26/6/2026 của Hội đồng nhân dân xã Bình Nguyên về sắp xếp, đổi tên thôn",
+      "url": "https://binhnguyen.phutho.gov.vn/images/TB_914.pdf",
+      "date": "7/17/2026",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-08935-2",
+      "title": "Nghị quyết số 111/2025/UBTVQH15 về phân loại đô thị",
+      "url": "https://xaydungchinhsach.chinhphu.vn/nghi-quyet-so-111-2025-ubtvqh15-ve-phan-loai-do-thi-119260101170432239.htm",
+      "date": "2026-01-21",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-08935-3",
+      "title": "TOÀN VĂN: Nghị quyết số 202/2025/QH15 về sắp xếp đơn vị hành chính cấp tỉnh",
+      "url": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-202-2025-qh15-ve-sap-xep-don-vi-hanh-chinh-cap-tinh-119250612174148722.htm",
+      "date": "2025-07-16",
+      "type": "wikipedia-ref"
+    }
+  ],
+  "note": "Trích tự động từ Wikipedia tiếng Việt (mode=narrative). Cần đối chiếu nghị quyết HĐND phường/xã. ⚠️ Danh mục có thể là hiện trạng TRƯỚC sắp xếp thôn/TDP 01/7/2026 — Wikipedia chưa cập nhật nghị quyết mới.",
+  "tdp": [
+    {
+      "name": "An Lão",
+      "type": "thôn"
+    },
+    {
+      "name": "Ái Văn",
+      "type": "thôn"
+    },
+    {
+      "name": "Bá Cầu",
+      "type": "thôn"
+    },
+    {
+      "name": "Chợ Cánh",
+      "type": "thôn"
+    },
+    {
+      "name": "Đại Đồng",
+      "type": "thôn"
+    },
+    {
+      "name": "Đồng Thắng",
+      "type": "thôn"
+    },
+    {
+      "name": "Đồng Tiến",
+      "type": "thôn"
+    },
+    {
+      "name": "Hợp Nhất",
+      "type": "thôn"
+    },
+    {
+      "name": "Hương Canh",
+      "type": "thôn"
+    },
+    {
+      "name": "Hữu Bằng",
+      "type": "thôn"
+    },
+    {
+      "name": "Lương Cầu",
+      "type": "thôn"
+    },
+    {
+      "name": "Ngọai Trạch",
+      "type": "thôn"
+    },
+    {
+      "name": "Ngọc Bảo",
+      "type": "thôn"
+    },
+    {
+      "name": "Ngọc Canh",
+      "type": "thôn"
+    },
+    {
+      "name": "Nhân Nghĩa",
+      "type": "thôn"
+    },
+    {
+      "name": "Nội Phật",
+      "type": "thôn"
+    },
+    {
+      "name": "Quất Lưu",
+      "type": "thôn"
+    },
+    {
+      "name": "Sơn Phổ",
+      "type": "thôn"
+    },
+    {
+      "name": "Tam Canh",
+      "type": "thôn"
+    },
+    {
+      "name": "Tam Hợp",
+      "type": "thôn"
+    },
+    {
+      "name": "Tiên Hường",
+      "type": "thôn"
+    },
+    {
+      "name": "Trong Ngòai",
+      "type": "thôn"
+    }
+  ]
+}

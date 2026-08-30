@@ -1,0 +1,59 @@
+{{Thông tin đơn vị hành chính Việt Nam|xã
+| tên = Hoàng An
+| hình = 
+| ghi chú hình = 
+|vĩ độ= 21.348496307425304
+|kinh độ= 105.5193751367027
+| diện tích = 20,80 km²
+| dân số = 26.000 người
+| thời điểm dân số = 2025
+| mật độ dân số = {{formatnum:{{#expr:floor({{formatnum:26.000| R}}/{{formatnum:20,80| R}})}} }} người/km²
+| vùng = [[Đông Bắc Bộ]]
+| tỉnh = [[Phú Thọ]]
+| thành lập =16 tháng 6 năm 2025<ref>Nghị quyết số 1676/NQ-UBTVQH15</ref> 
+| trụ sở UBND =Thôn Hóc 
+| mã hành chính = 08896<ref>{{Chú thích web |url=https://danhmuchanhchinh.gso.gov.vn/ |title=Tổng cục Thống kê |access-date=2022-04-10 |archive-date=2021-01-10 |archive-url=https://web.archive.org/web/20210110034519/https://www.gso.gov.vn/phuong-phap-thong-ke/danh-muc/don-vi-hanh-chinh/ |url-status=dead }}</ref>
+|web={{url|hoangan.phutho.gov.vn}}
+|mã bưu chính=15220
+}}
+{{other|Hoàng An (định hướng)}}
+'''Hoàng An''' là một [[Xã (Việt Nam)|xã]] thuộc tỉnh [[Phú Thọ]], [[Việt Nam]].
+
+== Địa lý ==
+Xã Hoàng An nằm ở phía Đông tỉnh [[Phú Thọ]], có vị trí địa lý<ref>{{Chú thích web |title=Đơn vị hành chính Việt Nam |url=https://sapnhap.bando.com.vn/ |access-date=2026-04-23 |website=sapnhap.bando.com.vn}}</ref>:
+
+* Phía Bắc giáp xã [[Tam Dương Bắc]].
+* Phía Nam giáp xã [[Vĩnh An, Phú Thọ|Vĩnh An]].
+* Phía Tây giáp xã [[Liên Hòa (xã)|Liên Hòa]] và xã [[Tiên Lữ, Phú Thọ|Tiên Lữ]].
+* Phía Đông giáp xã [[Tam Dương (xã)|Tam Dương]] và xã [[Hội Thịnh, Phú Thọ|Hội Thịnh]].
+
+Xã có diện tích 20,80&nbsp;km², dân số năm 2025 là 26.000 người, mật độ dân số đạt 1.250 người/km².<ref>{{Chú thích web |title=Xã Hoàng An, Tỉnh Phú Thọ mới sáp nhập 2026 |url=https://tinhthanhvn.com/province/phu-tho/xa-hoang-an |access-date=2026-04-23 |website=Tỉnh Thành Việt Nam |language=vi}}</ref>
+
+== Hành chính ==
+Xã Hoàng An được chia thành 27 thôn: Bắc 1, Bắc 2, Cầu, Chằm, Chấu, Đoài Đỗ, Đoàn Kết, Đô Lương, Đông, Đồng Lực, Gia, Hốc, Hương Đình, La, Lau, Liên Kết, Lồ, Mới 1, Mới 2, Ngòi, Ngọc Thạch 1, Ngọc Thạch 2, Nội Điện, Phương Lâu, Thượng, Vàng, Vỏ, Yên Thượng.<ref>{{Chú thích web |last=Trang thông tin xã Hoàng An - Tỉnh Phú Thọ |date=2026-03-02 |title=Tiểu sử tóm tắt 07 người ứng cử đại biểu Hội đồng nhân dân xã Hoàng An nhiệm kỳ 2026 - 2031 tại Đơn vị bầu cử số 01 (gồm các thôn: Nội Điện, Yên Thượng, Đô Lương, Hương Đình) |url=https://web.facebook.com/story.php?story_fbid=122162544308928788&id=61577863662471&rdid=KqkzHp7QiXcdkyC1# |url-status=live |archive-url=https://web.archive.org/web/20260421090807/https://web.facebook.com/story.php?story_fbid=122162544308928788&id=61577863662471&rdid=KqkzHp7QiXcdkyC1# |archive-date=2026-04-21 |access-date=2026-04-21}}</ref><ref>{{Chú thích web |last=Trang thông tin xã Hoàng An- Tỉnh Phú Thọ |date=2026-04-21 |title=Tiểu sử tóm tắt 05 người ứng cử đại biểu Hội đồng nhân dân xã Hoàng An khóa nhiệm kỳ 2026 - 2031 tại Đơn vị bầu cử số 02 (Gồm các thôn: Ngọc Thạch 1, Ngọc Thạch 2, Phương Lâu) |url=https://web.facebook.com/story.php?story_fbid=122162542034928788&id=61577863662471&rdid=dKRdrloGbupHS7C2# |url-status=live |archive-url=https://web.archive.org/web/20260421090807/https://web.facebook.com/story.php?story_fbid=122162542034928788&id=61577863662471&rdid=dKRdrloGbupHS7C2# |archive-date=2026-04-21 |access-date=2026-04-21}}</ref><ref>{{Chú thích web |last=Trang thông tin xã Hoàng An - Tỉnh Phú Thọ |date=2026-03-02 |title=Tiểu sử tóm tắt 05 người ứng cử đại biểu Hội đồng nhân dân xã Hoàng An khóa nhiệm kỳ 2026 - 2031 tại Đơn vị bầu cử số 03 (Gồm các thôn: Bắc 1, Bắc 2, Đoài Đỗ, Mới 2, Đông, Ngòi) |url=https://web.facebook.com/story.php?story_fbid=122162589788928788&id=61577863662471&rdid=kyTaJMhNo4xNYsZk# |url-status=live |archive-url=https://web.archive.org/web/20260421090807/https://web.facebook.com/story.php?story_fbid=122162589788928788&id=61577863662471&rdid=kyTaJMhNo4xNYsZk# |archive-date=2026-04-21 |access-date=2026-04-21}}</ref><ref>{{Chú thích web |last=Trang thông tin xã Hoàng An - Tỉnh Phú Thọ |date=2026-03-03 |title=Tiểu sử tóm tắt 07 người ứng cử đại biểu Hội đồng nhân dân xã Hoàng An khóa nhiệm kỳ 2026 - 2031 tại Đơn vị bầu cử số 04 (Gồm các thôn: Hóc, Chằm, Chấu, Cầu, Lồ, Vàng) |url=https://web.facebook.com/story.php?story_fbid=122162673302928788&id=61577863662471&rdid=HddaivzlQ18vpmE7# |url-status=live |archive-url=https://web.archive.org/web/20260421090807/https://web.facebook.com/story.php?story_fbid=122162673302928788&id=61577863662471&rdid=HddaivzlQ18vpmE7# |archive-date=2026-04-21 |access-date=2026-04-21}}</ref><ref>{{Chú thích web |last=Trang thông tin xã Hoàng An - Tỉnh Phú Thọ |date=2026-03-03 |title=Tiểu sử tóm tắt 07 người ứng cử đại biểu Hội đồng nhân dân xã Hoàng An khóa nhiệm kỳ 2026 - 2031 tại Đơn vị bầu cử số 05 (Gồm các thôn: Lau, Thượng, Đoàn Kết, Liên Kết, Mới 1) |url=https://web.facebook.com/story.php?story_fbid=122162703056928788&id=61577863662471&rdid=Fez0gvuifYwrS7Ns&_rdc=10&_rdr# |url-status=live |archive-url=https://web.archive.org/web/20260421090807/https://web.facebook.com/story.php?story_fbid=122162703056928788&id=61577863662471&rdid=Fez0gvuifYwrS7Ns&_rdc=10&_rdr# |archive-date=2026-04-21 |access-date=2026-04-21}}</ref><ref>{{Chú thích web |last=Trang thông tin xã Hoàng An - Tỉnh Phú Thọ |date=2026-03-03 |title=Xã Hoàng An trân trọng giới thiệu danh sách những người ứng cử đại biểu Hội đồng nhân dân xã Hoàng An nhiệm kỳ 2026 - 2031 tại đơn vị bầu cử số 06 gồm các thôn: Lá, Gia, Vỏ, Đồng Lực |url=https://www.facebook.com/story.php?story_fbid=122162766182928788&id=61577863662471&rdid=ePm8JP6QDZzlF8BS&_rdc=1&_rdr# |url-status=live |archive-url=https://web.archive.org/web/20260421090807/https://www.facebook.com/story.php?story_fbid=122162766182928788&id=61577863662471&rdid=ePm8JP6QDZzlF8BS&_rdc=1&_rdr# |archive-date=2026-04-21 |access-date=2026-04-21}}</ref>
+
+== Lịch sử ==
+Trước kia, địa bàn xã Hoàng An ngày nay là địa bàn của các xã Hoàng Đan, Hoàng Lâu và An Hòa thuộc huyện [[Tam Dương (huyện)|Tam Dương]], tỉnh [[Vĩnh Phúc (tỉnh)|Vĩnh Phúc]] cũ.
+
+Ngày [[12 tháng 6]] năm [[2025]], [[Quốc hội Việt Nam|Quốc hội]] ban hành Nghị quyết số 202/2025/QH15 về việc sắp xếp đơn vị hành chính cấp tỉnh (nghị quyết có hiệu lực từ ngày [[12 tháng 6]] năm [[2025]]).<ref>{{Chú thích web |last=xaydungchinhsach.chinhphu.vn|date=2025-07-16|title=TOÀN VĂN: Nghị quyết số 202/2025/QH15 về sắp xếp đơn vị hành chính cấp tỉnh|url=https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-202-2025-qh15-ve-sap-xep-don-vi-hanh-chinh-cap-tinh-119250612174148722.htm|url-status=live|archive-url=http://web.archive.org/web/20260705025431/https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-202-2025-qh15-ve-sap-xep-don-vi-hanh-chinh-cap-tinh-119250612174148722.htm|archive-date=2026-07-05|access-date=2026-07-25|website=Báo Điện tử Chính phủ|language=vi}}</ref> Theo đó, sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của tỉnh [[Vĩnh Phúc (tỉnh)|Vĩnh Phúc]], tỉnh [[Hòa Bình (tỉnh)|Hòa Bình]] và tỉnh [[Phú Thọ]] thành tỉnh mới có tên gọi là tỉnh '''Phú Thọ'''.
+
+Ngày [[16 tháng 6]] năm [[2025]]:
+
+* Quốc hội ban hành Nghị quyết số 203/2025/QH15 về việc sửa đổi, bổ sung một số điều của Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam (nghị quyết có hiệu lực từ ngày [[16 tháng 6]] năm [[2025]]).<ref>{{Chú thích web |last=xaydungchinhsach.chinhphu.vn |date=2025-06-28 |title=NGHỊ QUYẾT 203/2025/QH15 SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA HIẾN PHÁP NƯỚC CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM |url=https://xaydungchinhsach.chinhphu.vn/nghi-quyet-203-2025-qh15-sua-doi-bo-sung-mot-so-dieu-cua-hien-phap-nuoc-cong-hoa-xa-hoi-chu-nghia-viet-nam-119250616181735552.htm |url-status=live |archive-url=http://web.archive.org/web/20260715200606/https://xaydungchinhsach.chinhphu.vn/nghi-quyet-203-2025-qh15-sua-doi-bo-sung-mot-so-dieu-cua-hien-phap-nuoc-cong-hoa-xa-hoi-chu-nghia-viet-nam-119250616181735552.htm |archive-date=2026-07-15 |access-date=2026-07-15 |website=Báo Điện tử Chính phủ |language=vi}}</ref> Theo đó, kết thúc hoạt động của đơn vị hành chính cấp huyện trong cả nước từ ngày 1 tháng 7 năm 2025.
+* [[Ủy ban Thường vụ Quốc hội]] ban hành Nghị quyết số 1676/NQ-UBTVQH15 về việc sắp xếp đơn vị hành chính cấp xã của tỉnh [[Phú Thọ]] năm 2025 (nghị quyết có hiệu lực từ ngày [[16 tháng 6]] năm [[2025]]).<ref>{{Chú thích web |last=xaydungchinhsach.chinhphu.vn |date=2025-06-20 |title=Nghị quyết số 1676/NQ-UBTVQH15 sắp xếp các ĐVHC cấp xã của tỉnh Phú Thọ năm 2025 |url=https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-1676-nq-ubtvqh15-sap-xep-cac-dvhc-cap-xa-cua-tinh-phu-tho-nam-2025-119250616204317326.htm |url-status=live |archive-url=http://web.archive.org/web/20260725082021/https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-1676-nq-ubtvqh15-sap-xep-cac-dvhc-cap-xa-cua-tinh-phu-tho-nam-2025-119250616204317326.htm |archive-date=2026-07-25 |access-date=2026-07-27 |website=Báo Điện tử Chính phủ |language=vi}}</ref> Theo đó, sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của các xã Hoàng Đan, Hoàng Lâu và An Hòa thành xã mới có tên gọi là '''xã Hoàng An'''.
+
+==Văn hóa==
+Phố Hoàng Đan đang là phố dài nhất, lớn nhất của khu vực huyện Tam Dương cũ (chỉ sau xã [[Tam Dương (xã)|Tam Dương]] kéo dài khoảng 2&nbsp;km). Hai bên đường là các khu vực tập trung đông dân cư nhất của các xóm với khoảng 7.000 dân (không bao gồm các thôn lẻ tách biệt như thôn Vàng, thôn Đông và một phần dân ven đồi thôn Bắc 1, Bắc 2).
+
+Lễ hội chạy cày được tổ chức 5 năm 1 lần.
+
+==Giao thông==
+Xã nằm trên vị trí thuận lợi ở nơi có các tuyến đường giao thông quan trọng huyết mạch đi qua. Các tuyến đường liên kết các xã trong tỉnh đi qua, xã cũng có [[Đường cao tốc Hà Nội - Lào Cai|đường xuyên Á Hà Nội - Lào Cai]] đi qua.
+
+==Chú thích==
+{{tham khảo|30em}}
+
+==Tham khảo==
+
+{{sơ khai Phú Thọ}}
+{{Đơn vị hành chính thuộc tỉnh Phú Thọ}}

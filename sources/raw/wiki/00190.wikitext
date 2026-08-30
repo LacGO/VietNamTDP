@@ -1,0 +1,153 @@
+{{Thông tin đơn vị hành chính Việt Nam |Phường
+| tên = Ô Chợ Dừa
+| hình = Cây đa, Cát Linh, Hà Nội 001.JPG
+| ghi chú hình =Phố Cát Linh 
+| vĩ độ = 21.017324786410317
+| kinh độ = 105.82474852876948
+| diện tích = 1,89 km²
+| dân số = 71.293 người
+| thời điểm dân số = 2025
+| mật độ dân số = {{formatnum:{{#expr:floor({{formatnum:71.293| R}}/{{formatnum:1,89| R}})}} }} người/km²
+| vùng = [[Đồng bằng sông Hồng]]
+| thành phố = [[Hà Nội]]
+| trụ sở UBND = Số 61 phố Hoàng Cầu<ref>{{Chú thích web |url=https://storage-vnportal.vnpt.vn/gov-hni/6244/VanBan/2025/6/25/TB-729-2025.pdf |title=Thông báo số 729/TB-UBND ngày 25 tháng 6 năm 2025 của Ủy ban nhân dân thành phố Hà Nội về địa điểm trụ sở làm việc của 126 phường, xã sau sắp xếp thuộc phạm vi quản lý của thành phố Hà Nội|access-date=2026-06-15 |archive-date=2026-06-15 |archive-url=https://web.archive.org/web/20260615034519/https://storage-vnportal.vnpt.vn/gov-hni/6244/VanBan/2025/6/25/TB-729-2025.pdf |url-status=dead | website = Cổng Thông tin điện tử Ủy ban nhân dân thành phố Hà Nội}}</ref> 
+| mã hành chính = 00190<ref>{{Chú thích web |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/19ttg.signed.pdf |title=Quyết định số 19/2025/QĐ-TTg ngày 30 tháng 6 năm 2025 của Thủ tướng Chính phủ về việc Ban hành Bảng danh mục và mã số các đơn vị hành chính Việt Nam |access-date=2026-06-15 |archive-date=2026-06-15 |archive-url=https://web.archive.org/web/20260615034519/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/19ttg.signed.pdf |url-status=dead | website = Cổng Thông tin điện tử Chính phủ}}</ref> 
+| web = {{url|ochodua.hanoi.gov.vn}}|trụ sở Đảng ủy=Số 61 phố Hoàng Cầu|bản đồ 1={{maplink|frame=yes|plain=yes|type=shape|frame-width=280|frame-align=center|stroke-width=3}}}}{{for| cửa ô Hà Nội xưa| Ô Chợ Dừa}}
+'''Ô Chợ Dừa''' là một [[Phường (Việt Nam)|phường]] thuộc thành phố [[Hà Nội]], [[Việt Nam]].
+== Địa lý== 
+Phường Ô Chợ Dừa có vị trí địa lý: 
+* Phía đông giáp phường [[Văn Miếu – Quốc Tử Giám]] (ranh giới đi theo phố Tôn Đức Thắng)
+* Phía tây giáp phường [[Giảng Võ]] (ranh giới đi theo phố Láng Hạ – Giảng Võ)
+* Phía nam giáp phường [[Đống Đa, Hà Nội|Đống Đa]] (ranh giới đi theo đường Xã Đàn – phố Hoàng Cầu – phố Thái Hà)
+* Phía bắc giáp phường [[Ba Đình (quận)|Ba Đình]] (ranh giới đi theo phố Nguyễn Thái Học).<ref>{{Chú thích web |last=Báo Điện tử Chính phủ |date=2025-04-28 |title=Chi tiết dự thảo phương án sắp xếp các phường của Hà Nội |url=https://xaydungchinhsach.chinhphu.vn/chi-tiet-du-thao-phuong-an-sap-xep-cac-phuong-cua-ha-noi-119250421100531902.htm |url-status=live |archive-url=https://web.archive.org/web/20260710401509/https://xaydungchinhsach.chinhphu.vn/chi-tiet-du-thao-phuong-an-sap-xep-cac-phuong-cua-ha-noi-119250421100531902.htm |archive-date=2026-07-10 |access-date=2026-07-10 |website=Xây dựng chính sách, pháp luật}}</ref><ref>{{Chú thích web |last=Viện nghiên cứu Phát triển kinh tế – xã hội Hà Nội |date=2025-07-02 |title=Phường Ô Chợ Dừa: Những thông tin chi tiết sau sắp xếp |url=https://ochodua.hanoi.gov.vn/gioi-thieu/phuong-o-cho-dua-nhung-thong-tin-chi-tiet-sau-sap-xep-283225070318132571.htm |url-status=dead |archive-url=https://web.archive.org/web/20260816400809/https://ochodua.hanoi.gov.vn/gioi-thieu/phuong-o-cho-dua-nhung-thong-tin-chi-tiet-sau-sap-xep-283225070318132571.htm |archive-date=2026-08-16 |access-date=2026-08-16 |website=Cơ quan Báo và Phát thanh Truyền hình Hà Nội}}</ref><ref>{{Chú thích web |last=Cơ quan Báo và Phát thanh Truyền hình Hà Nội |date=2025-07-04 |title=Phường Ô Chợ Dừa: Tất cả thông tin chỉ dẫn bạn cần biết |url=https://hanoionline.vn/phuong-o-cho-dua-tat-ca-thong-tin-chi-dan-ban-can-biet-344627.htm |url-status=dead |archive-url=https://web.archive.org/web/20260816401509/https://hanoionline.vn/phuong-o-cho-dua-tat-ca-thong-tin-chi-dan-ban-can-biet-344627.htm |archive-date=2026-08-16 |access-date=2026-08-16}}</ref>
+Phường Ô Chợ Dừa có diện tích tự nhiên là 1,89&nbsp;km<sup>2</sup>, quy mô dân số năm 2025 là 71.293 người và mật độ dân số đạt 37.721 người/km<sup>2</sup>.<ref>{{Chú thích web |last=Mai Hữu |date=2026-04-05 |title=Hà Nội: Chi tiết phương án tổng thể sắp xếp đơn vị hành chính cấp xã |url=https://hanoimoi.vn/ha-noi-chi-tiet-phuong-an-tong-the-sap-xep-don-vi-hanh-chinh-cap-xa-700278.html |url-status=live |archive-url=https://web.archive.org/web/20260711401509/https://hanoimoi.vn/ha-noi-chi-tiet-phuong-an-tong-the-sap-xep-don-vi-hanh-chinh-cap-xa-700278.html |archive-date=2026-07-11 |access-date=2026-07-11 |website=Cơ quan Báo và Phát thanh, truyền hình Hà Nội}}</ref><ref>Công văn số 2896/BNV-CQĐP ngày 27 tháng 5 năm 2025 của Bộ Nội vụ về việc cung cấp thông tin danh mục dự kiến đơn vị hành chính cấp xã mới.</ref>
+
+== Lịch sử==
+
+=== Trước năm 1976 ===
+Phường Ô Chợ Dừa được thành lập vào năm [[1961]] với tên gọi là tiểu khu Ô Chợ Dừa thuộc khu phố [[Đống Đa (quận)|Đống Đa]].
+
+=== Giai đoạn 1976 – nay ===
+Sau ngày 2 tháng 7 năm 1976, 5 tiểu khu: Cát Linh, Hàng Bột, Ô Chợ Dừa, Quốc Tử Giám VÀ Trung Liệt thuộc quận [[Đống Đa (quận)|Đống Đa]]; 2 tiểu khu: Điện Biên và Thành Công thuộc khu phố [[Ba Đình (quận)|Ba Đình]] của thành phố [[Hà Nội]].
+
+Ngày 3 tháng 1 năm 1981, từ nay ở nội thành, đơn vị hành chính cấp dưới trực tiếp của [[Thành phố trực thuộc trung ương (Việt Nam)|thành phố trực thuộc trung ương]] đều thống nhất gọi là [[Quận (Việt Nam)|quận]]; các đơn vị hành chính cơ sở ở nội thành, nội thị của các [[Thành phố thuộc tỉnh (Việt Nam)|thành phố thuộc tỉnh]], [[Thị xã (Việt Nam)|thị xã]] và [[Quận (Việt Nam)|quận]] gọi là [[Phường (Việt Nam)|phường]]. Khi đó, 5 phường: Cát Linh, Hàng Bột, Ô Chợ Dừa, Quốc Tử Giám và Trung Liệt và thuộc quận [[Đống Đa (quận)|Đống Đa]]; 2 phường: Điện Biên và Thành Công thuộc quận [[Ba Đình (quận)|Ba Đình]].<ref>Quyết định số 3-CP ngày 3 tháng 1 năm 1981 của Hội đồng Chính phủ về việc thống nhất tên gọi các đơn vị hành chính ở nội thành nội thị.</ref>
+
+Ngày 14 tháng 11 năm 2024, thành lập phường Văn Miếu – Quốc Tử Giám (quận [[Đống Đa (quận)|Đống Đa]]) trên cơ sở nhập phường Quốc Tử Giám và phường Văn Miếu.<ref>{{Chú thích web |title=Nghị quyết số 1286/NQ-UBTVQH15 ngày 14 tháng 11 năm 2024 của Ủy ban Thường vụ Quốc hội về việc sắp xếp đơn vị hành chính cấp xã của thành phố Hà Nội giai đoạn 2023 – 2025 |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/11/1286-qh.signed.pdf |url-status=live |archive-url=https://web.archive.org/web/20260704400809/https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/11/1286-qh.signed.pdf |archive-date=2026-07-04 |access-date=2026-07-04 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+
+Ngày 16 tháng 6 năm 2025:
+
+* Kết thúc hoạt động của đơn vị hành chính cấp huyện trong cả nước.<ref>{{Chú thích web |last= |date= |title=Nghị quyết số 203/2025/QH15 ngày 16 tháng 6 năm 2025 của Quốc hội khóa XV, Kỳ họp thứ 9 về việc sửa đổi, bổ sung một số điều của Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/nq-sua-doi-hien-phap.pdf |url-status=live |archive-url=https://web.archive.org/web/20260613090807/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/nq-sua-doi-hien-phap.pdf |archive-date=2026-06-13 |access-date=2026-06-13 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+* Sắp xếp phần còn lại của phường Cát Linh (quận [[Đống Đa (quận)|Đống Đa]]), phần còn lại của phường Điện Biên, phần còn lại của phường Thành Công (quận [[Ba Đình (quận)|Ba Đình]]), phần còn lại của phường Ô Chợ Dừa, phần còn lại của phường Trung Liệt, phần còn lại của phường Hàng Bột và phường Văn Miếu – Quốc Tử Giám (quận [[Đống Đa (quận)|Đống Đa]]) thành phường mới có tên gọi là phường Ô Chợ Dừa.<ref>{{Chú thích web |title=Nghị quyết số 1656/NQ-UBTVQH15 ngày 16 tháng 6 năm 2025 của Ủy ban Thường vụ Quốc hội về việc sắp xếp các đơn vị hành chính cấp xã của thành phố Hà Nội năm 2025 |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf |url-status=live |archive-url=https://web.archive.org/web/20260630400809/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf |archive-date=2026-06-30 |access-date=2026-06-30 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+Ngày 24 tháng 7 năm 2025, đổi tên tổ dân phố trên địa bàn phường Ô Chợ Dừa. Sau khi sắp xếp, phường Ô Chợ Dừa được chia thành 63 tổ dân phố.<ref>63 tổ dân phố, đánh số từ 1 đến 52 và từ 58 đến 68.</ref><ref>{{Chú thích web |title=Thông tư số 10/2022/TT-BTNMT ngày 29 tháng 9 năm 2022 của Bộ Tài nguyên và Môi trường về việc Ban hành Danh mục địa danh dân cư, sơn văn, thủy văn, kinh tế – xã hội phục vụ công tác thành lập bản đồ thành phố Hà Nội |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2022/10/10-btnmt.pdf |url-status=live |archive-url=https://web.archive.org/web/20260630400809/https://datafiles.chinhphu.vn/cpp/files/vbpq/2022/10/10-btnmt.pdf |archive-date=2026-06-30 |access-date=2026-06-30 |website=Cổng Thông tin điện tử Chính phủ}}</ref><ref>{{Chú thích web |last=Nga Nguyễn |date=2025-07-12 |title=Phường Ô Chợ Dừa lấy ý kiến đổi tên 68 tổ dân phố, bảo đảm thống nhất quản lý sau sáp nhập |url=https://thanhuyhanoi.vn/tin-tuc/chinh-tri/phuong-o-cho-dua-lay-y-kien-doi-ten-68-to-dan-pho-bao-dam-thong-nhat-quan-ly-sau-sap-nhap-50024235.html |url-status=dead |archive-url=https://web.archive.org/web/20260817201510/https://thanhuyhanoi.vn/tin-tuc/chinh-tri/phuong-o-cho-dua-lay-y-kien-doi-ten-68-to-dan-pho-bao-dam-thong-nhat-quan-ly-sau-sap-nhap-50024235.html |archive-date=2026-08-17 |access-date=2026-08-17 |website=Trang Thông tin điện tử Đảng bộ thành phố Hà Nội}}</ref><ref>{{Chú thích web |last=Nguyệt Ánh |date=2025-07-24 |title=Hội đồng nhân dân phường Ô Chợ Dừa thông qua 12 chỉ tiêu phát triển kinh tế – xã hội |url=https://hanoimoi.vn/hdnd-phuong-o-cho-dua-thong-qua-12-chi-tieu-phat-trien-kinh-te-xa-hoi-710289.html?gidzl=xgWh3ZdxtG3gjoy8C-FL0UUn80OeiD4B-h4WLIsrq0pwj2G5BEJK2wZdSmnxuOa5gU5y2pZXOiC_FFhP0W |url-status=dead |archive-url=https://web.archive.org/web/20260817201510/https://hanoimoi.vn/hdnd-phuong-o-cho-dua-thong-qua-12-chi-tieu-phat-trien-kinh-te-xa-hoi-710289.html?gidzl=xgWh3ZdxtG3gjoy8C-FL0UUn80OeiD4B-h4WLIsrq0pwj2G5BEJK2wZdSmnxuOa5gU5y2pZXOiC_FFhP0W |archive-date=2026-08-17 |access-date=2026-08-17 |website=Cơ quan Báo và Phát thanh, truyền hình Hà Nội}}</ref><ref>{{Chú thích web |last=Trang Thông tin điện tử phường Ô Chợ Dừa – thành phố Hà Nội |date=2026-02-25 |title=Danh sách chính thức những người ứng cử đại biểu Hội đồng nhân dân Phường Ô Chợ Dừa khóa II, nhiệm kỳ 2026 – 2031 |url=https://ochodua.hanoi.gov.vn/bau-cu-dai-bieu-quoc-hoi-khoa-xvi-va-dai-bieu-hoi-dong-nhan-dan-cac-cap-nhiem-ky-2026-2031/danh-sach-chinh-thuc-nhung-nguoi-ung-cu-dai-bieu-hdnd-phuong-o-cho-dua-khoa-ii-nhiem-ky-2026-2031-2832260226075535494.htm |url-status=dead |archive-url=https://web.archive.org/web/20260817201510/https://ochodua.hanoi.gov.vn/bau-cu-dai-bieu-quoc-hoi-khoa-xvi-va-dai-bieu-hoi-dong-nhan-dan-cac-cap-nhiem-ky-2026-2031/danh-sach-chinh-thuc-nhung-nguoi-ung-cu-dai-bieu-hdnd-phuong-o-cho-dua-khoa-ii-nhiem-ky-2026-2031-2832260226075535494.htm |archive-date=2026-08-17 |access-date=2026-08-17 |website=}}</ref>
+
+Ngày 24 tháng 12 năm 2025, xác định phường Ô Chợ Dừa là [[Đô thị Việt Nam|đô thị loại II]].<ref>Chuyển tiếp từ 2 phường: Điện Biên, Thành Công thuộc quận Ba Đình và 5 phường: Cát Linh, Hàng Bột, Ô Chợ Dừa, Trung Liệt, Văn Miếu – Quốc Tử Giám thuộc quận Đống Đa.</ref><ref>{{Chú thích web |title=Nghị quyết số 111/2025/UBTVQH15 ngày 24 tháng 12 năm 2025 của Ủy ban Thường vụ Quốc hội về phân loại đô thị |url=https://cdn.nhandan.vn/files/f4a4abf7f9a0ba4a91744616546d850872b76917f90d5a74cc9eebef1369fb6f/111.pdf |url-status=dead |archive-url=https://web.archive.org/web/20260430074852/https://cdn.nhandan.vn/files/f4a4abf7f9a0ba4a91744616546d850872b76917f90d5a74cc9eebef1369fb6f/111.pdf |archive-date=2026-04-30 |access-date=2026-07-12 |website=Báo Nhân dân}}</ref>
+
+Ngày 25 tháng 6 năm 2026, thành lập 23 tổ dân phố mới, đánh số từ 1 đến 23.<ref>1. Sáp nhập một phần Tổ 1 (180 hộ), toàn bộ tổ 2 (348 hộ), một phần Tổ 3 (290 hộ), toàn bộ 4 (437 hộ), và một phần tổ 6 (56 hộ). Tên gọi Tổ dân phố mới sau sắp xếp: Tổ dân phố số 1 với 1311 hộ dân; 2. Sáp nhập phần còn lại Tổ 1 (172 hộ), toàn bộ tổ 5 (481 hộ) và một phần bộ tổ 6 (623 hộ). Tên gọi Tổ dân phố mới sau sắp xếp: Tổ dân phố số 2 với 1276 hộ dân; 3. Sáp nhập phần còn lại tổ 3 (237 hộ), toàn bộ tổ 7 (475 hộ) và toàn bộ tổ 8 (593 hộ). Tên gọi Tổ dân phố mới sau sắp xếp: Tổ dân phố số 3 với 1305 hộ dân; 4. Sáp nhập một phần Tổ 15 (70 hộ), toàn bộ tổ 16 (209 hộ), toàn bộ tổ 17 (462 hộ), toàn bộ tổ 18 (296 hộ), toàn bộ tổ 19 (113 hộ), toàn bộ tổ 20 (52 hộ). Tên gọi Tổ dân phố mới sau sắp xếp: Tổ dân phố số 4 với 1202 hộ dân; 5. Sáp nhập toàn bộ Tổ 9 (569 hộ), toàn bộ Tổ 10 (394 hộ), toàn bộ Tổ 43 (249 hộ). Tên gọi Tổ dân phố mới sau sắp xếp: Tổ dân phố số 5 với 1212 hộ dân; 6. Sáp nhập một phần tổ 11 (117 hộ), toàn Tổ 12 (293 hộ), một phần tổ 13 (96 hộ), một phần tổ 14 (180 hộ), phần còn lại tổ 15 (240 hộ). Tên gọi Tổ dân phố mới sau sắp xếp: Tổ dân phố số 6 với 926 hộ dân; 7. Sáp nhập toàn bộ tổ 26 (440 hộ), toàn bộ tổ 27 (497 hộ). Tên gọi Tổ dân phố mới sau sắp xếp: Tổ dân phố số 7 với 937 hộ dân; 8. Sáp nhập phần còn lại tổ 11 (146 hộ), một phần tổ 24 (250 hộ), toàn bộ tổ 25 (349 hộ), toàn bộ tổ 30 (337 hộ), toàn bộ tổ 37 (118 hộ), một phần tổ 38 (76 hộ). Tên gọi Tổ dân phố mới sau sắp xếp: Tổ dân phố số 8 với 1276 hộ dân; 9. Sáp nhập phần còn lại tổ 11 (89 hộ), phần còn lại tổ 13 (150 hộ), phần còn lại tổ 14 (86 hộ), một phần tổ 21 (233 hộ), toàn bộ tổ 22 (255 hộ), một phần tổ 23 (210 hộ). Tên gọi Tổ dân phố mới sau sắp xếp: Tổ dân phố số 9 với 1023 hộ dân; 10. Sáp nhập toàn bộ tổ 28 (382 hộ), toàn bộ tổ 41 (299 hộ), toàn bộ tổ 42 (291 hộ). Tên gọi Tổ dân phố mới sau sắp xếp: Tổ dân phố số 10 với 972 hộ dân; 11. Sáp nhập phần còn lại tổ 21 (155 hộ), phần còn lại tổ 23 (167 hộ), phần còn lại tổ 24 (76 hộ), một phần tổ 31 (234 hộ), toàn bộ tổ 32 (328 hộ), một phần tổ 33 (100 hộ), một phần tổ 34 (72 hộ). Tên gọi Tổ dân phố mới sau sắp xếp: Tổ dân phố số 11 với 1132 hộ dân; 12. Sáp nhập toàn bộ tổ 44 (315 hộ), toàn bộ tổ 45 (410 hộ), toàn bộ tổ 46 (348 hộ). Tên gọi Tổ dân phố mới sau sắp xếp: Tổ dân phố số 12 với 1073 hộ dân; 13. Sáp nhập toàn bộ tổ 29 (225 hộ), toàn bộ tổ 39 (390 hộ), toàn bộ tổ 40 (327 hộ). Tên gọi Tổ dân phố mới sau sắp xếp: Tổ dân phố số 13 với 942 hộ dân; 14. Sáp nhập phần còn lại tổ 24 (135 hộ), toàn bộ tổ 36 (448 hộ), phần còn lại tổ 38 (278 hộ). Tên gọi Tổ dân phố mới sau sắp xếp: Tổ dân phố số 14 với 861 hộ dân; 15. Sáp nhập phần còn lại tổ 31 (201 hộ), phần còn lại tổ 33 (374 hộ), một phần tổ 34 (320 hộ). Tên gọi Tổ dân phố mới sau sắp xếp: Tổ dân phố số 15 với 895 hộ dân; 16. Sáp nhập toàn bộ tổ 47 (520 hộ), toàn bộ tổ 48 (440 hộ). Tên gọi Tổ dân phố mới sau sắp xếp: Tổ dân phố số 16 với 960 hộ dân; 17. Sáp nhập toàn bộ tổ 35 (393 hộ), toàn bộ tổ 49 (585 hộ). Tên gọi Tổ dân phố mới sau sắp xếp: Tổ dân phố số 17 với 978 hộ dân; 18. Sáp nhập toàn bộ tổ 50 (250 hộ), toàn bộ tổ 51 (589 hộ). Tên gọi Tổ dân phố mới sau sắp xếp: Tổ dân phố số 18 với 839 hộ dân; 19. Sáp nhập toàn bộ tổ 58 (346 hộ), tổ 66 (399 hộ), một phần tổ 67 (279 hộ). Tên gọi Tổ dân phố mới sau sắp xếp: Tổ dân phố số 19 với 1024 hộ dân; 20. Sáp nhập toàn bộ tổ 59 (412 hộ), toàn bộ tổ 62 (489 hộ). Tên gọi Tổ dân phố mới sau sắp xếp: Tổ dân phố số 20 với 901 hộ dân; 21. Sáp nhập toàn bộ tổ 52 (319 hộ), toàn bộ tổ 60 (400 hộ), toàn bộ tổ 61 (434 hộ). Tên gọi Tổ dân phố mới sau sắp xếp: Tổ dân phố số 21 với 1153 hộ dân; 22. Sáp nhập toàn bộ tổ 63 (232 hộ), toàn bộ tổ 64 (346 hộ), toàn bộ tổ 65 (454 hộ). Tên gọi Tổ dân phố mới sau sắp xếp: Tổ dân phố số 22 với 1032 hộ dân; 23. Sáp nhập phần còn lại tổ 67 (423 hộ), toàn bộ tổ 68 (707 hộ). Tên gọi Tổ dân phố mới sau sắp xếp: Tổ dân phố số 23 với 1130 hộ dân.</ref><ref name=":0">{{Chú thích web |last= |date= |title=Phương án tháng 5 năm 2026 của Ủy ban nhân dân phường Ô Chợ Dừa về việc sắp xếp tổ dân phố trên địa bàn phường Ô Chợ Dừa |url=https://ochodua.hanoi.gov.vn/du-an-de-an/phuong-o-cho-dua-lay-y-kien-nhan-dan-du-thao-phuong-an-sap-xep-to-dan-pho-283226061817070944.htm |url-status=dead |archive-url=https://web.archive.org/web/20260817201510/https://ochodua.hanoi.gov.vn/du-an-de-an/phuong-o-cho-dua-lay-y-kien-nhan-dan-du-thao-phuong-an-sap-xep-to-dan-pho-283226061817070944.htm |archive-date=2026-08-17 |access-date=2026-08-17 |website=Trang Thông tin điện tử phường Ô Chợ Dừa – thành phố Hà Nội}}</ref><ref name=":1">{{Chú thích web |last=Trang Thông tin điện tử phường Ô Chợ Dừa – thành phố Hà Nội |date=2026-06-25 |title=Kỳ họp thứ hai Hội đồng nhân dân Phường Ô Chợ Dừa: Quyết sách nhiều vấn đề lớn cho giai đoạn 2026 – 2030 |url=https://ochodua.hanoi.gov.vn/hoat-dong-cua-hoi-dong-nhan-dan/ky-hop-thu-hai-hdnd-phuong-o-cho-dua-quyet-sach-nhieu-van-de-lon-cho-giai-doan-2026-2030-2832260625133501091.htm |url-status=dead |archive-url=https://web.archive.org/web/20260817400809/https://ochodua.hanoi.gov.vn/hoat-dong-cua-hoi-dong-nhan-dan/ky-hop-thu-hai-hdnd-phuong-o-cho-dua-quyet-sach-nhieu-van-de-lon-cho-giai-doan-2026-2030-2832260625133501091.htm |archive-date=2026-08-17 |access-date=2026-08-17 |website=}}</ref>
+
+== Hành chính==
+Phường Ô Chợ Dừa được chia thành 23 tổ dân phố, đánh số từ 1 đến 23.<ref name=":0" /><ref name=":1" />
+{| class="wikitable sortable" cellpadding="0" cellspacing="6" width="100%" align="center" style="background: #f9f9f9; border: 1px #aaa solid; margin-top: 16px"
+! colspan="4" style="background: #E6E6FA; font-size: 95%;" |Danh sách các tổ dân phố thuộc phường Ô Chợ Dừa<ref name=":0" /><ref name=":1" />
+|-
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| cellpadding="1" cellspacing="1" width="100%" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Tổ dân phố 1
+|1.311
+|-
+| align="left" |Tổ dân phố 2
+|1.276
+|-
+| align="left" |Tổ dân phố 3
+|1.305
+|-
+| align="left" |Tổ dân phố 4
+|1.202
+|-
+| align="left" |Tổ dân phố 5
+|1.212
+|-
+| align="left" |Tổ dân phố 6
+|926
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| cellpadding="1" cellspacing="1" width="100%" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Tổ dân phố 7
+|937
+|-
+| align="left" |Tổ dân phố 8
+|1.276
+|-
+| align="left" |Tổ dân phố 9
+|1.023
+|-
+| align="left" |Tổ dân phố 10
+|972
+|-
+| align="left" |Tổ dân phố 11
+|1.132
+|-
+| align="left" |Tổ dân phố 12
+|1.073
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| cellpadding="1" cellspacing="1" width="100%" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Tổ dân phố 13
+|942
+|-
+| align="left" |Tổ dân phố 14
+|861
+|-
+| align="left" |Tổ dân phố 15
+|895
+|-
+| align="left" |Tổ dân phố 16
+|960
+|-
+| align="left" |Tổ dân phố 17
+|978
+|-
+| align="left" |Tổ dân phố 18
+|839
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| cellpadding="1" cellspacing="1" width="100%" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Tổ dân phố 19
+|1.024
+|-
+| align="left" |Tổ dân phố 20
+|901
+|-
+| align="left" |Tổ dân phố 21
+|1.153
+|-
+| align="left" |Tổ dân phố 22
+|1.032
+|-
+| align="left" |Tổ dân phố 23
+|1.130
+|}
+|}
+
+==Hình ảnh==
+[[File:Hồ Thành Công, công viên Indira Gandhi, Hà Nội 004.JPG|thumb|[[Hồ Thành Công]]]]
+[[File:Trung tâm Chiếu phim Quốc gia, Hà Nội 002.JPG|thumb|[[Trung tâm Chiếu phim Quốc gia]]]]
+
+== Chú thích==
+{{tham khảo| 30em}}
+
+== Tham khảo==
+
+{{sơ khai Hà Nội}}
+{{Đơn vị hành chính thuộc thành phố Hà Nội}}

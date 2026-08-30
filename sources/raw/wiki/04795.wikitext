@@ -1,0 +1,85 @@
+{{Thông tin đơn vị hành chính Việt Nam| phường 
+| tên = Hòa Bình
+| hình = Trên đập thủy điện Hòa Bình nhìn toàn cảnh (3).jpg
+| ghi chú hình = Toàn cảnh Đập Thủy điện Hòa Bình
+| vĩ độ = 20.821506624703122
+| kinh độ = 105.34599572548152
+| diện tích = 39,32 km²
+| dân số = 78.605 người
+| thời điểm dân số = 2025
+| mật độ dân số = {{formatnum:{{#expr:floor({{formatnum:78.605|R}}/{{formatnum:39,32|R}})}} }} người/km²
+| vùng = [[Đông Bắc Bộ]]
+| tỉnh = [[Phú Thọ]]
+| thành lập = 16 tháng 6 năm 2025
+| mã hành chính = 
+|trụ sở UBND=Đường Lý Nam Đế
+|web={{url|hoabinh.phutho.gov.vn}}
+}}
+{{other|Hòa Bình (định hướng)}}
+'''Hòa Bình''' là một [[Phường (Việt Nam)|phường]] thuộc tỉnh [[Phú Thọ]], [[Việt Nam]]. Tên phường kế thừa tên của thành phố [[Hòa Bình (thành phố)|Hòa Bình]] và tỉnh [[Hòa Bình (tỉnh)|Hòa Bình]] trước đây. Đây cũng là phường đông dân nhất của tỉnh [[Phú Thọ]].
+
+== Địa lý ==
+Phường Hòa Bình có vị trí địa lý:
+* Phía Tây giáp phường [[Tân Hòa, Phú Thọ|Tân Hòa]].
+* Phía Nam giáp phường [[Thống Nhất, Phú Thọ|Thống Nhất]].
+* Phía Đông giáp phường [[Kỳ Sơn (phường)|Kỳ Sơn]].
+
+== Hành chính ==
+Phường Hòa Bình được chia thành 40 tổ dân phố đánh số từ 1 đến 40.
+
+== Lịch sử ==
+Trước năm [[1945]], địa bàn của phường Hòa Bình thuộc địa phận của tổng Mông Hoá và tổng Quỳnh Lâm, châu Kỳ Sơn.<ref name=":0">{{chú thích sách |url=https://www.google.com/books/edition/Địa_ch%C3%AD_Hòa_Bình/jUZRAQAAMAAJ |year=2005 |isbn= |doi= |id= |tác giả= |tựa đề=Địa chí Hòa Bình |nhà xuất bản=Nhà xuất bản Chính trị quốc gia |nơi= |trang=834}}</ref> Sau [[Cách mạng Tháng Tám|Cách mạng Tháng 8]], xã Trung Minh và xã Quỳnh Lâm thuộc huyện [[Kỳ Sơn (huyện Hòa Bình)|Kỳ Sơn]].
+
+[[Tháng 6]] năm [[1955]], xã Quỳnh Lâm được chia thành thành 5 xã: [[Thống Nhất, Phú Thọ|Thống Nhất]], [[Kỳ Sơn (phường)|Độc Lập]], [[Thung Nai|Bình Thanh]], [[Thống Nhất, Phú Thọ|Dân Chủ]] và [[Thống Nhất, Phú Thọ|Thái Bình]].<ref>{{chú thích sách |url=https://www.google.com/books/edition/Kỳ_Sơn_lịch_sử_kháng_chié̂n_ch/T2RQAQAAMAAJ |year=2003 |isbn= |doi= |id= |tác giả= |tựa đề=Kỳ Sơn, lịch sử kháng chiến chống thực dân Pháp và đế quốc Mỹ (1945-1975) |nhà xuất bản=Nhà xuất bản Quân đội nhân dân |nơi= |trang=11}}</ref>
+
+Ngày [[22 tháng 1]] năm [[1957]], Ủy ban Kháng chiến hành chính Liên khu 3 quyết nghị thành lập xã Sủ Ngòi trên cơ sở sáp nhập xóm Sủ thuộc xã Trung Minh, xóm Ngòi và xóm Sủ Bến thuộc xã Dân Chủ.<ref name=":02">{{Chú thích web |tác giả= |họ= |tên= |ngày=2021-01-12 |tựa đề=Chính phủ báo cáo giải trình một số nội dung về việc thành lập đơn vị hành chính thuộc các tỉnh Bình Định, Hòa Bình và Bắc Ninh |url=http://quochoi.vn/tintuc/Pages/tin-hoat-dong-cua-quoc-hoi.aspx?ItemID=51224 |url lưu trữ= |ngày lưu trữ= |ngày truy cập= |website=Cổng thông tin điện tử Quốc hội Việt Nam}}</ref>
+
+Ngày [[24 tháng 4]] năm [[1988]], xã Sủ Ngòi được chuyển về thị xã Hòa Bình quản lí.
+
+Ngày [[14 tháng 7]] năm [[2009]], Chính phủ ban hành Nghị quyết số 31/NQ-CP. Theo đó, chuyển toàn bộ 1.508,23ha diện tích tự nhiên và 6.315 người của xã Trung Minh về thành phố Hòa Bình quản lí.
+
+Ngày [[12 tháng 1]] năm [[2021]], Ủy ban Thường vụ Quốc hội ban hành Nghị quyết số 1189/NQ-UBTVQH14 (Nghị quyết có hiệu lực từ ngày [[1 tháng 2]] năm [[2021]]). Theo đó:
+
+* Thành lập phường Trung Minh trên cơ sở toàn bộ 14,57&nbsp;km² diện tích tự nhiên và 7.071 người của xã Trung Minh.
+* Thành lập phường Quỳnh Lâm trên cơ sở toàn bộ 9,15&nbsp;km² diện tích tự nhiên và 7.855 người của xã Sủ Ngòi.
+
+Ngày [[12 tháng 6]] năm [[2025]], [[Quốc hội Việt Nam|Quốc hội]] ban hành Nghị quyết số 202/2025/QH15 về việc sắp xếp đơn vị hành chính cấp tỉnh (nghị quyết có hiệu lực từ ngày [[12 tháng 6]] năm [[2025]]).<ref>{{Chú thích web |last=xaydungchinhsach.chinhphu.vn |date=2025-07-16 |title=TOÀN VĂN: Nghị quyết số 202/2025/QH15 về sắp xếp đơn vị hành chính cấp tỉnh |url=https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-202-2025-qh15-ve-sap-xep-don-vi-hanh-chinh-cap-tinh-119250612174148722.htm |url-status=live |archive-url=http://web.archive.org/web/20260705025431/https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-202-2025-qh15-ve-sap-xep-don-vi-hanh-chinh-cap-tinh-119250612174148722.htm |archive-date=2026-07-05 |access-date=2026-07-25 |website=Báo Điện tử Chính phủ |language=vi}}</ref> Theo đó, sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của tỉnh [[Vĩnh Phúc (tỉnh)|Vĩnh Phúc]], tỉnh [[Hòa Bình (tỉnh)|Hòa Bình]] và tỉnh [[Phú Thọ]] thành tỉnh mới có tên gọi là tỉnh '''Phú Thọ'''.
+
+Ngày [[16 tháng 6]] năm [[2025]]:
+
+* Quốc hội ban hành Nghị quyết số 203/2025/QH15 về việc sửa đổi, bổ sung một số điều của Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam (nghị quyết có hiệu lực từ ngày [[16 tháng 6]] năm [[2025]]).<ref>{{Chú thích web |last=xaydungchinhsach.chinhphu.vn |date=2025-06-28 |title=NGHỊ QUYẾT 203/2025/QH15 SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA HIẾN PHÁP NƯỚC CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM |url=https://xaydungchinhsach.chinhphu.vn/nghi-quyet-203-2025-qh15-sua-doi-bo-sung-mot-so-dieu-cua-hien-phap-nuoc-cong-hoa-xa-hoi-chu-nghia-viet-nam-119250616181735552.htm |url-status=live |archive-url=http://web.archive.org/web/20260715200606/https://xaydungchinhsach.chinhphu.vn/nghi-quyet-203-2025-qh15-sua-doi-bo-sung-mot-so-dieu-cua-hien-phap-nuoc-cong-hoa-xa-hoi-chu-nghia-viet-nam-119250616181735552.htm |archive-date=2026-07-15 |access-date=2026-07-15 |website=Báo Điện tử Chính phủ |language=vi}}</ref> Theo đó, kết thúc hoạt động của đơn vị hành chính cấp huyện trong cả nước từ ngày 1 tháng 7 năm 2025.
+* [[Ủy ban Thường vụ Quốc hội]] ban hành Nghị quyết số 1676/NQ-UBTVQH15 về việc sắp xếp đơn vị hành chính cấp xã của tỉnh [[Phú Thọ]] năm 2025 (nghị quyết có hiệu lực từ ngày [[16 tháng 6]] năm [[2025]]).<ref>{{Chú thích web |last=xaydungchinhsach.chinhphu.vn |date=2025-06-20 |title=Nghị quyết số 1676/NQ-UBTVQH15 sắp xếp các ĐVHC cấp xã của tỉnh Phú Thọ năm 2025 |url=https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-1676-nq-ubtvqh15-sap-xep-cac-dvhc-cap-xa-cua-tinh-phu-tho-nam-2025-119250616204317326.htm |access-date=2025-09-07 |website=xaydungchinhsach.chinhphu.vn |language=vi}}</ref> Theo đó, sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của các phường Đồng Tiến, Hữu Nghị, Phương Lâm, Quỳnh Lâm, Tân Thịnh, Thịnh Lang và Trung Minh (thành phố [[Hòa Bình (thành phố)|Hòa Bình]]) thành phường mới có tên gọi là '''phường Hòa Bình'''.<!-- 
+==Lịch sử==
+Trước năm 1945, Trung Minh là một xã thuộc tổng Mông Hoá, châu Kỳ Sơn.<ref name=":0">{{chú thích sách|tác giả=|tựa đề=Địa chí Hòa Bình|nhà xuất bản=Nhà xuất bản Chính trị Quốc gia|year=2005|nơi=|trang=834|url=https://www.google.com/books/edition/Địa_ch%C3%AD_Hòa_Bình/jUZRAQAAMAAJ|doi=|id=|isbn=}}</ref> Sau [[Cách mạng Tháng 8]], xã Trung Minh thuộc huyện [[Kỳ Sơn (huyện Hòa Bình)|Kỳ Sơn]].
+
+Ngày [[22 tháng 1]] năm [[1957]], xóm Sủ thuộc xã Trung Minh được sáp nhập vào xã Sủ Ngòi mới thành lập.<ref>{{Chú thích web|url=http://quochoi.vn/tintuc/Pages/tin-hoat-dong-cua-quoc-hoi.aspx?ItemID=51224|tựa đề=Chính phủ báo cáo giải trình một số nội dung về việc thành lập đơn vị hành chính thuộc các tỉnh Bình Định, Hòa Bình và Bắc Ninh|tác giả=|họ=|tên=|ngày=2021-01-12|website=Cổng thông tin điện tử Quốc hội Việt Nam|url lưu trữ=https://web.archive.org/web/20210616012204/https://quochoi.vn/tintuc/Pages/tin-hoat-dong-cua-quoc-hoi.aspx?ItemID=51224|ngày lưu trữ=2021-06-16|ngày truy cập=|url-status=dead}}</ref>
+
+Ngày [[14 tháng 7]] năm [[2009]], Chính phủ ban hành Nghị quyết số 31/NQ-CP.<ref>{{Chú thích web|url=https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/Nghi-quyet-31-NQ-CP-dieu-chinh-dia-gioi-hanh-chinh-huyen-va-thanh-pho-Hoa-Binh-tinh-Hoa-Binh-91385.aspx|tựa đề=Nghị quyết số 31/NQ-CP về việc điều chỉnh địa giới hành chính một số huyện và thành phố Hòa Bình, tỉnh Hòa Bình|tác giả=|họ=|tên=|ngày=|website=|url lưu trữ=|ngày lưu trữ=|ngày truy cập=}}</ref> Theo đó, chuyển toàn bộ 1.508,23ha diện tích tự nhiên và 6.315 người của xã Trung Minh về thành phố Hòa Bình quản lí.
+
+Ngày [[12 tháng 1]] năm [[2021]], Ủy ban Thường vụ Quốc hội ban hành Nghị quyết số 1189/NQ-UBTVQH14 (Nghị quyết có hiệu lực từ ngày [[1 tháng 2]] năm [[2021]]).<ref name=NQ1189>{{Chú thích web|url=https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Nghi-quyet-1189-NQ-UBTVQH14-2021-thanh-lap-phuong-Quynh-Lam-Trung-Minh-thuoc-thanh-pho-Hoa-Binh-tinh-Hoa-Binh-465204.aspx|tựa đề=Nghị quyết số 1189/NQ-UBTVQH14 năm 2021 về việc thành lập phường Quỳnh Lâm và phường Trung Minh thuộc thành phố Hòa Bình, tỉnh Hòa Bình|tác giả=|họ=|tên=|ngày=|website=|url lưu trữ=|ngày lưu trữ=|ngày truy cập=}}</ref> Theo đó, thành lập phường Trung Minh trên cơ sở toàn bộ 14,57km² diện tích tự nhiên và 7.071 người của xã Trung Minh.
+
+==Lịch sử==
+Trước năm 1945, Quỳnh Lâm là một xã thuộc tổng Quỳnh Lâm, châu Kỳ Sơn.<ref>{{chú thích sách|tác giả=|tựa đề=Địa chí Hòa Bình|nhà xuất bản=Nhà xuất bản Chính trị Quốc gia|year=2005|nơi=|trang=834|url=https://www.google.com/books/edition/Địa_ch%C3%AD_Hòa_Bình/jUZRAQAAMAAJ|doi=|id=|isbn=}}</ref> Sau [[Cách mạng Tháng 8]], xã Quỳnh Lâm thuộc huyện [[Kỳ Sơn (huyện Hòa Bình)|Kỳ Sơn]].
+
+[[Tháng 6]] năm [[1955]], xã Quỳnh Lâm được chia thành thành 5 xã: [[Thống Nhất, Phú Thọ|Thống Nhất]], [[Kỳ Sơn (phường)|Độc Lập]], [[Thung Nai|Bình Thanh]], [[Thống Nhất, Phú Thọ|Dân Chủ]] và [[Thống Nhất, Phú Thọ|Thái Bình]].<ref>{{chú thích sách|tác giả=|tựa đề=Kỳ Sơn - lịch sử kháng chiến chống thực dân Pháp và đế quốc Mĩ (1945 - 1975)|nhà xuất bản=Nhà xuất bản Quân đội nhân dân|year=2003|nơi=|trang=11|url=https://www.google.com/books/edition/Kỳ_Sơn_lịch_sử_kháng_chié̂n_ch/T2RQAQAAMAAJ|doi=|id=|isbn=}}</ref>
+
+Ngày [[22 tháng 1]] năm [[1957]], Ủy ban Kháng chiến hành chính Liên khu 3 quyết nghị thành lập xã Sủ Ngòi trên cơ sở sáp nhập xóm Sủ thuộc xã Trung Minh, xóm Ngòi và xóm Sủ Bến thuộc xã Dân Chủ.<ref name=":0">{{Chú thích web|url=http://quochoi.vn/tintuc/Pages/tin-hoat-dong-cua-quoc-hoi.aspx?ItemID=51224|tựa đề=Chính phủ báo cáo giải trình một số nội dung về việc thành lập đơn vị hành chính thuộc các tỉnh Bình Định, Hòa Bình và Bắc Ninh|tác giả=|họ=|tên=|ngày=2021-01-12|website=Cổng thông tin điện tử Quốc hội Việt Nam|url lưu trữ=|ngày lưu trữ=|ngày truy cập=}}</ref>
+
+Ngày [[24 tháng 4]] năm [[1988]], xã Sủ Ngòi được chuyển về thị xã Hòa Bình quản lí.<ref>{{Chú thích web|url=https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/Quyet-dinh-71-HDBT-phan-vach-dia-gioi-hanh-chinh-huyen-Ky-Son-thi-xa-Hoa-Binh-tinh-Ha-Son-Binh-37545.aspx|tựa đề=Quyết định 71-HĐBT năm 1988 về việc phân vạch địa giới hành chính huyện Kỳ Sơn và thị xã Hòa Bình thuộc tỉnh Hà Sơn Bình|tác giả=|họ=|tên=|ngày=|website=|url lưu trữ=|ngày lưu trữ=|ngày truy cập=}}</ref>
+
+Ngày [[12 tháng 1]] năm [[2021]], Ủy ban Thường vụ Quốc hội ban hành Nghị quyết số 1189/NQ-UBTVQH14 (Nghị quyết có hiệu lực từ ngày [[1 tháng 2]] năm [[2021]]).<ref name=NQ1189>{{Chú thích web|url=https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Nghi-quyet-1189-NQ-UBTVQH14-2021-thanh-lap-phuong-Quynh-Lam-Trung-Minh-thuoc-thanh-pho-Hoa-Binh-tinh-Hoa-Binh-465204.aspx|tựa đề=Nghị quyết số 1189/NQ-UBTVQH14 năm 2021 về việc thành lập phường Quỳnh Lâm và phường Trung Minh thuộc thành phố Hòa Bình, tỉnh Hòa Bình|tác giả=|họ=|tên=|ngày=|website=|url lưu trữ=|ngày lưu trữ=|ngày truy cập=}}</ref> Theo đó, thành lập phường Quỳnh Lâm trên cơ sở toàn bộ 9,15km² diện tích tự nhiên và 7.855 người của xã Sủ Ngòi. 
+-->
+
+==Danh nhân==
+* [[Captain Boy]] (sinh năm 2003), một nam ca sĩ kiêm nhạc sĩ sáng tác bài hát, rapper và nhà sản xuất thu âm người Việt Nam.
+* Trung tướng [[Nguyễn Văn Trung (sinh năm 1967)|Nguyễn Văn Trung]] (sinh năm 1967) là một [[Tướng lĩnh Công an nhân dân Việt Nam]].
+
+==Hình ảnh==
+[[File:Hòa Bình, Vietnam - panoramio.jpg|thumb|Bảng địa phận Thành phố Hòa Bình cũ]]
+
+== Chú thích ==
+{{tham khảo}}
+
+== Tham khảo ==
+{{sơ khai Phú Thọ}}
+{{Đơn vị hành chính thuộc tỉnh Phú Thọ}}

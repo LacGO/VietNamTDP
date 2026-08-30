@@ -1,0 +1,68 @@
+{{Thông tin đơn vị hành chính Việt Nam | phường
+| tên = Nghĩa Đô
+| hình = Dan toc hoc 1.jpg 
+| ghi chú hình = Bảo tàng Dân tộc học 
+| vĩ độ = 21.046211
+| kinh độ = 105.797780
+| diện tích = 4,34 km²
+| dân số = 147.000 người
+| thời điểm dân số = 2026
+| mật độ dân số = {{formatnum:{{#expr:floor({{formatnum:147.000| R}}/{{formatnum:4,34| R}})}} }} người/km²
+| vùng = [[Đồng bằng sông Hồng]]
+| thành phố = [[Hà Nội]]
+| thành lập = 1982
+| trụ sở UBND = Số 45, phố Nghĩa Tân
+| mã hành chính = 00160
+| web = {{url|nghiado.hanoi.gov.vn}}
+}}
+{{other|Nghĩa Đô (định hướng)}}
+'''Nghĩa Đô''' là một [[Phường (Việt Nam)|phường]] nội thành nằm ở trung tâm thành phố [[Hà Nội]], [[Việt Nam]].
+
+== Vị trí địa lý== 
+Phường Nghĩa Đô có vị trí địa lý:
+* Phía Bắc giáp phường [[Xuân Đỉnh]]
+* Phía Tây giáp phường [[Phú Diễn]] với ranh giới là [[Đường vành đai 3 (Hà Nội)|đường Vành đai 3]]
+* Phía Nam giáp phường [[Cầu Giấy (phường)|Cầu Giấy]] với ranh giới là đường Trần Quốc Hoàn
+* Phía Đông giáp phường [[Tây Hồ (phường)|Tây Hồ]], phường [[Ngọc Hà, Hà Nội|Ngọc Hà]], phường [[Giảng Võ]] với ranh giới là [[sông Tô Lịch]] và [[Đường vành đai 3 (Hà Nội)|đường Vành đai 3]]
+
+== Lịch sử== 
+Trước đây, xã Nghĩa Đô thuộc huyện Từ Liêm.
+
+Ngày [[13 tháng 10]] năm [[1982]], thành lập thị trấn Nghĩa Đô trên cơ sở xã Nghĩa Đô.<ref name = "173-HĐBT">{{Chú thích web| url = https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-173-HDBT-phan-vach-dia-gioi-phuong-va-thi-tran-thanh-pho-Ha-Noi-43981.aspx| title = Quyết định số 173-HĐBT năm 1982 về việc phân vạch địa giới một số phường và thị trấn thuộc thành phố Hà Nội | date = 1982-10-14 | website = Thư viện pháp luật | archive-url = | archive-date = | access-date = | url-status = live}}</ref>
+
+Ngày [[12 tháng 8]] năm [[1991]], thành lập thị trấn Nghĩa Tân trên cơ sở tách một phần của thị trấn Nghĩa Đô.
+
+Ngày [[1 tháng 12]] năm [[1996]], thành lập phường Nghĩa Đô thuộc quận [[Cầu Giấy (quận)|Cầu Giấy]] mới thành lập trên cơ sở thị trấn Nghĩa Đô của huyện [[Từ Liêm (huyện)|Từ Liêm]].<ref name = "74-CP">{{Chú thích web| url = https://thuvienphapluat.vn/van-ban/Bat-dong-san/Nghi-dinh-74-CP-thanh-lap-quan-Thanh-Xuan-quan-Cau-Giay-thanh-lap-va-doi-ten-mot-so-phuong-thuoc-thanh-pho-Ha-Noi-40215.aspx| title = Nghị định số 74-CP năm 1996 về việc thành lập quận Thanh Xuân, quận Cầu Giấy, thành lập và đổi tên một số phường thuộc thành phố Hà Nội | date = 1996-11-22 | website = Thư viện pháp luật | archive-url = | archive-date = | access-date = | url-status = live}}</ref>
+
+Ngày [[16 tháng 6]] năm [[2025]]:
+
+* [[Quốc hội Việt Nam|Quốc hội]] ban hành Nghị quyết số 203/2025/QH15 về việc sửa đổi, bổ sung một số điều của Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam.<ref>{{Chú thích web |last=xaydungchinhsach.chinhphu.vn |date=2025-06-28 |title=NGHỊ QUYẾT 203/2025/QH15 SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA HIẾN PHÁP NƯỚC CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM |url=https://xaydungchinhsach.chinhphu.vn/nghi-quyet-203-2025-qh15-sua-doi-bo-sung-mot-so-dieu-cua-hien-phap-nuoc-cong-hoa-xa-hoi-chu-nghia-viet-nam-119250616181735552.htm |access-date=2026-07-15 |website=xaydungchinhsach.chinhphu.vn |language=vi}}</ref> Theo đó, kết thúc hoạt động của đơn vị hành chính cấp huyện trong cả nước từ ngày 1 tháng 7 năm 2025.
+* [[Ủy ban Thường vụ Quốc hội]] ban hành Nghị quyết số 1656/NQ-UBTVQH15 về việc sắp xếp các đơn vị hành chính cấp xã của thành phố Hà Nội năm 2025 (nghị quyết có hiệu lực từ ngày 16 tháng 6 năm 2025). Theo đó, sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số các phường Nghĩa Đô, Nghĩa Tân, Quan Hoa, một phần các phường Dịch Vọng, Dịch Vọng Hậu, Mai Dịch (quận [[Cầu Giấy (quận)|Cầu Giấy]]); phường Cổ Nhuế 1, một phần phường Xuân Tảo (quận [[Bắc Từ Liêm]]), và một phần phường Xuân La (quận [[Tây Hồ (quận)|Tây Hồ]]) thành phường mới có tên gọi là '''phường Nghĩa Đô'''.<ref>{{Cite web | date = 20 tháng 6 năm 2025 | title = Nghị quyết số 1656/NQ-UBTVQH15 sắp xếp các ĐVHC cấp xã của thành phố Hà Nội năm 2025 | url = https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-1656-nq-ubtvqh15-sap-xep-cac-dvhc-cap-xa-cua-thanh-pho-ha-noi-nam-2025-119250616192433872.htm | website = xaydungchinhsach.chinhphu.vn}}</ref>
+<!-- 
+== Lịch sử== 
+Tiền thân của phường là thị trấn Nghĩa Tân thuộc huyện [[Từ Liêm]] cũ, được thành lập vào ngày 17 tháng 4 năm 1992 trên cơ sở tách một phần diện tích và dân số của thị trấn Nghĩa Đô.
+
+Ngày 22 tháng 11 năm 1996, Chính phủ ban hành Nghị định số 74-CP<ref name = ND74>{{Chú thích web| url = https://thuvienphapluat.vn/van-ban/Bat-dong-san/Nghi-dinh-74-CP-thanh-lap-quan-Thanh-Xuan-quan-Cau-Giay-thanh-lap-va-doi-ten-mot-so-phuong-thuoc-thanh-pho-Ha-Noi-40215.aspx| title = Nghị định số 74-CP năm 1996 về việc thành lập quận Thanh Xuân, quận Cầu Giấy, thành lập và đổi tên một số phường thuộc thành phố Hà Nội | date = 1996-11-22 | website = Thư viện Pháp luật | archive-url = | archive-date = | access-date = | url-status = live}}</ref> về việc:
+* Chuyển thị trấn Nghĩa Tân về quận Cầu Giấy mới thành lập.
+* Thành lập phường Nghĩa Tân thuộc quận Cầu Giấy trên cơ sở toàn bộ 57,37 ha diện tích tự nhiên và 14.519 người của thị trấn Nghĩa Tân.
+
+Ngày 27 tháng 4 năm 2021, Ủy ban Thường vụ Quốc hội ban hành Nghị quyết số 1263/NQ-UBTVQH14 (nghị quyết có hiệu lực từ ngày 1 tháng 7 năm 2021)<ref name = NQ1263>{{Chú thích web| url = https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Nghi-quyet-1263-NQ-UBTVQH14-2021-dieu-chinh-dia-gioi-don-vi-hanh-chinh-giua-cac-quan-Ha-Noi-473347.aspx| tựa đề = Nghị quyết số 1263/NQ-UBTVQH14 năm 2021 về việc điều chỉnh địa giới đơn vị hành chính giữa các quận Cầu Giấy, Bắc Từ Liêm và Nam Từ Liêm thuộc thành phố Hà Nội | website = Thư viện Pháp luật | archive-url = | archive-date = | access-date = | url-status = live}}</ref> về việc điều chỉnh 10,32 ha diện tích tự nhiên khu vực 8 tổ dân phố Bắc Nghĩa Tân do phường Nghĩa Tân quản lý hành chính (bao gồm các tổ dân phố số 25, 26, 27, 28, 29, 30, 31, 32) đang thuộc địa giới hành chính của phường [[Cổ Nhuế| Cổ Nhuế 1]], quận Bắc Từ Liêm vào phường Nghĩa Tân.
+
+Sau khi điều chỉnh địa giới hành chính, phường Nghĩa Tân có diện tích 0,68&nbsp;km², dân số là 22.207 người.
+
+== Lịch sử== 
+Phường Cổ Nhuế 1 được thành lập vào ngày [[27 tháng 12]] năm [[2013]] trên cơ sở điều chỉnh 217,70 ha diện tích tự nhiên và 33.346 người của xã [[Cổ Nhuế]], 3,30 ha diện tích tự nhiên và 372 người của thị trấn [[Cầu Diễn]] thuộc huyện [[Từ Liêm]] cũ.<ref name = NQ132>{{Chú thích web| url = https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/Nghi-quyet-132-NQ-CP-nam-2013-dieu-chinh-dia-gioi-hanh-chinh-Tu-Liem-Ha-Noi-217666.aspx| tựa đề = Nghị quyết 132/NQ-CP năm 2013 về việc điều chỉnh địa giới hành chính huyện Từ Liêm để thành lập 2 quận và 23 phường thuộc thành phố Hà Nội| tác giả = | họ = | tên = | ngày = | website = | url lưu trữ = | ngày lưu trữ = | ngày truy cập = }}</ref>
+
+Sau khi thành lập, phường có 221 ha diện tích tự nhiên và 33.718 người.
+
+Ngày [[27 tháng 4]] năm [[2021]], Ủy ban Thường vụ Quốc hội ban hành Nghị quyết số 1263/NQ-UBTVQH14 (nghị quyết có hiệu lực từ ngày [[1 tháng 7]] năm [[2021]])<ref name = NQ1263>{{Chú thích web| url = https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Nghi-quyet-1263-NQ-UBTVQH14-2021-dieu-chinh-dia-gioi-don-vi-hanh-chinh-giua-cac-quan-Ha-Noi-473347.aspx| tựa đề = Nghị quyết số 1263/NQ-UBTVQH14 năm 2021 về việc điều chỉnh địa giới đơn vị hành chính giữa các quận Cầu Giấy, Bắc Từ Liêm và Nam Từ Liêm thuộc thành phố Hà Nội}}</ref>. Theo đó, điều chỉnh 10,32 ha diện tích tự nhiên khu vực 8 tổ dân phố Bắc Nghĩa Tân do phường [[Nghĩa Tân, Cầu Giấy| Nghĩa Tân]], quận Cầu Giấy quản lý hành chính (bao gồm các tổ dân phố số 25, 26, 27, 28, 29, 30, 31, 32) đang thuộc địa giới hành chính của phường Cổ Nhuế 1 vào phường Nghĩa Tân, quận Cầu Giấy.
+
+Sau khi điều chỉnh địa giới hành chính, phường Cổ Nhuế 1 có diện tích 2,22&nbsp;km², dân số là 45.274 người.
+-->Từ ngày 01 tháng 7 năm 2026, phường Nghĩa Đô có 50 tổ dân phố, được đánh số từ 1 đến 50<ref>{{Chú thích web |title=Phường Nghĩa Đô sắp xếp còn 50 tổ dân phố |url=https://nghiado.hanoi.gov.vn/sap-xep-to-dan-pho/phuong-nghia-do-sap-xep-con-50-to-dan-pho-2816260702112019249.htm}}</ref>.
+
+== Chú thích== 
+{{tham khảo| 30em}}
+
+== Tham khảo== 
+{{Sơ khai Hà Nội}}
+{{Đơn vị hành chính thuộc thành phố Hà Nội}}

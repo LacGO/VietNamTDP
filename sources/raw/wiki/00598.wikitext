@@ -1,0 +1,45 @@
+{{Thông tin đơn vị hành chính Việt Nam | phường
+| tên = Thượng Cát
+| hình = 
+| ghi chú hình = 
+| vĩ độ = 21.095003
+| kinh độ = 105.734347
+| diện tích = 14,68 km²
+| dân số = 87.406 người
+| thời điểm dân số = 2024
+| mật độ dân số = {{formatnum:{{#expr:floor(87406/14.68)}} }} người/km²
+| vùng = [[Đồng bằng sông Hồng]]
+| thành phố = [[Hà Nội]]
+| thành lập = 2013<ref name = NQ132 />
+| trụ sở UBND = Số 55 đường Yên Nội
+| mã hành chính = 
+| mã bưu chính = 
+}}
+
+'''Thượng Cát''' là một [[Phường (Việt Nam)|phường]] thuộc thành phố [[Hà Nội]], [[Việt Nam]].
+
+== Địa lý== 
+Phường Thượng Cát có vị trí địa lý:<ref>{{Cite web| url = https://xaydungchinhsach.chinhphu.vn/chi-tiet-du-thao-phuong-an-sap-xep-cac-phuong-cua-ha-noi-119250421100531902.htm| title = Chi tiết dự thảo PHƯƠNG ÁN SẮP XẾP CÁC PHƯỜNG của HÀ NỘI| date = 28 tháng 4 năm 2025| website = xaydungchinhsach.chinhphu.vn}}</ref> 
+* Phía Đông tiếp giáp phường [[Đông Ngạc]] (ranh giới đi theo sông Nhuệ - phố Viên - ranh giới cấp xã cũ)
+*Phía Tây tiếp giáp xã [[Ô Diên]] (ranh giới đi theo đường ranh giới cấp huyện cũ)
+*Phía Nam tiếp giáp phường [[Tây Tựu]] (ranh giới đi theo đường Tây Thăng Long - đường Liên Xã)
+* Phía Bắc tiếp giáp các xã [[Thiên Lộc, Hà Nội|Thiên Lộc]], [[Mê Linh (xã)]] (ranh giới đi theo đường dọc theo sông Hồng))
+
+== Lịch sử== 
+Trước đây, Thượng Cát là một xã thuộc huyện [[Từ Liêm (huyện)|Từ Liêm]] cũ.
+
+Ngày [[27 tháng 12]] năm [[2013]], Chính phủ ban hành Nghị quyết số 132/NQ-CP.<ref name = NQ132>{{Chú thích web| url = https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/Nghi-quyet-132-NQ-CP-nam-2013-dieu-chinh-dia-gioi-hanh-chinh-Tu-Liem-Ha-Noi-217666.aspx| tựa đề = Nghị quyết 132/NQ-CP năm 2013 về việc điều chỉnh địa giới hành chính huyện Từ Liêm để thành lập 2 quận và 23 phường thuộc thành phố Hà Nội| tác giả = | họ = | tên = | ngày = | website = | url lưu trữ = | ngày lưu trữ = | ngày truy cập = }}</ref> Theo đó, thành lập phường Thượng Cát thuộc quận Bắc Từ Liêm trên cơ sở toàn bộ 388,90 ha diện tích tự nhiên và 10.000 người của xã Thượng Cát.
+
+Ngày [[16 tháng 6]] năm [[2025]]:
+
+* [[Quốc hội Việt Nam|Quốc hội]] ban hành Nghị quyết số 203/2025/QH15 về việc sửa đổi, bổ sung một số điều của Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam.<ref>{{Chú thích web |last=xaydungchinhsach.chinhphu.vn|date=2025-06-28|title=NGHỊ QUYẾT 203/2025/QH15 SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA HIẾN PHÁP NƯỚC CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM|url=https://xaydungchinhsach.chinhphu.vn/nghi-quyet-203-2025-qh15-sua-doi-bo-sung-mot-so-dieu-cua-hien-phap-nuoc-cong-hoa-xa-hoi-chu-nghia-viet-nam-119250616181735552.htm|access-date=2026-07-15|website=xaydungchinhsach.chinhphu.vn|language=vi}}</ref> Theo đó, kết thúc hoạt động của đơn vị hành chính cấp huyện trong cả nước từ ngày 1 tháng 7 năm 2025.
+* [[Ủy ban Thường vụ Quốc hội]] ban hành Nghị quyết số 1656/NQ-UBTVQH15 về việc sắp xếp các đơn vị hành chính cấp xã của thành phố Hà Nội năm 2025 (nghị quyết có hiệu lực từ ngày 16 tháng 6 năm 2025). Theo đó, sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của các phường Liên Mạc, Thượng Cát, một phần của các phường Minh Khai, Tây Tựu, Cổ Nhuế 2 và phường Thụy Phương (quận [[Bắc Từ Liêm]]) thành phường mới có tên gọi là '''phường Thượng Cát'''.<ref>{{Cite web| url = https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-1656-nq-ubtvqh15-sap-xep-cac-dvhc-cap-xa-cua-thanh-pho-ha-noi-nam-2025-119250616192433872.htm| title = Nghị quyết số 1656/NQ-UBTVQH15 sắp xếp các ĐVHC cấp xã của thành phố Hà Nội năm 2025| date = 20 tháng 6 năm 2025| website = xaydungchinhsach.chinhphu.vn}}</ref>
+
+== Danh nhân==
+
+* [[Lê Hoàng (chính khách)|'''Lê Hoàng''']] (1913 – 2003), Nguyên Bí thư Tỉnh ủy Bắc Giang, nguyên Bí thư [[Tỉnh ủy Thái Nguyên]], nguyên Bí thư Tỉnh ủy Bắc Thái.
+
+== Chú thích== 
+{{tham khảo}}
+{{sơ khai Hà Nội}}
+{{Đơn vị hành chính thuộc thành phố Hà Nội}}

@@ -1,0 +1,136 @@
+{
+  "ward_code": "08218",
+  "ward_name": "Chí Tiên",
+  "province_code": "25",
+  "resolution": "",
+  "arrangement": "truoc_2026_07",
+  "effective_date": "",
+  "verified": "unverified",
+  "extraction": {
+    "source": "vi.wikipedia.org",
+    "title": "Chí Tiên",
+    "mode": "narrative"
+  },
+  "sources": [
+    {
+      "key": "wiki-08218-1",
+      "title": "Danh sách chính thức những người ứng cử đại biểu Hội đồng nhân dân xã Chí Tiên, nhiệm kỳ 2026 - 2031 theo đơn vị bầu cử",
+      "url": "https://web.facebook.com/permalink.php?story_fbid=pfbid038HX96zt6smbu22RHtKVx1E1Crpqwo4fmWhuaFWHZevzxGJyfVGZn2PDdzM72Wxrtl&id=61577961596996&rdid=Doj9CaRSWdNA7bOc#",
+      "date": "2026-02-27",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-08218-2",
+      "title": "NGHỊ QUYẾT 203/2025/QH15 SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA HIẾN PHÁP NƯỚC CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM",
+      "url": "https://xaydungchinhsach.chinhphu.vn/nghi-quyet-203-2025-qh15-sua-doi-bo-sung-mot-so-dieu-cua-hien-phap-nuoc-cong-hoa-xa-hoi-chu-nghia-viet-nam-119250616181735552.htm",
+      "date": "2025-06-28",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-08218-3",
+      "title": "Nghị quyết số 1676/NQ-UBTVQH15 sắp xếp các ĐVHC cấp xã của tỉnh Phú Thọ năm 2025",
+      "url": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-1676-nq-ubtvqh15-sap-xep-cac-dvhc-cap-xa-cua-tinh-phu-tho-nam-2025-119250616204317326.htm",
+      "date": "2025-06-20",
+      "type": "wikipedia-ref"
+    }
+  ],
+  "note": "Trích tự động từ Wikipedia tiếng Việt (mode=narrative). Cần đối chiếu nghị quyết HĐND phường/xã. ⚠️ Danh mục có thể là hiện trạng TRƯỚC sắp xếp thôn/TDP 01/7/2026 — Wikipedia chưa cập nhật nghị quyết mới.",
+  "tdp": [
+    {
+      "name": "1 Chí Tiên",
+      "type": "khu"
+    },
+    {
+      "name": "2 Chí Tiên",
+      "type": "khu"
+    },
+    {
+      "name": "3 Chí Tiên",
+      "type": "khu"
+    },
+    {
+      "name": "4 Chí Tiên",
+      "type": "khu"
+    },
+    {
+      "name": "5 Chí Tiên",
+      "type": "khu"
+    },
+    {
+      "name": "6 Chí Tiên",
+      "type": "khu"
+    },
+    {
+      "name": "7 Chí Tiên",
+      "type": "khu"
+    },
+    {
+      "name": "8 Chí Tiên",
+      "type": "khu"
+    },
+    {
+      "name": "9 Chí Tiên",
+      "type": "khu"
+    },
+    {
+      "name": "10 Chí Tiên",
+      "type": "khu"
+    },
+    {
+      "name": "1 Sơn Cương",
+      "type": "khu"
+    },
+    {
+      "name": "2 Sơn Cương",
+      "type": "khu"
+    },
+    {
+      "name": "3 Sơn Cương",
+      "type": "khu"
+    },
+    {
+      "name": "4 Sơn Cương",
+      "type": "khu"
+    },
+    {
+      "name": "5 Sơn Cương",
+      "type": "khu"
+    },
+    {
+      "name": "6 Sơn Cương",
+      "type": "khu"
+    },
+    {
+      "name": "7 Sơn Cương",
+      "type": "khu"
+    },
+    {
+      "name": "8 Sơn Cương",
+      "type": "khu"
+    },
+    {
+      "name": "9 Sơn Cương",
+      "type": "khu"
+    },
+    {
+      "name": "1 Thanh Hà",
+      "type": "khu"
+    },
+    {
+      "name": "2 Thanh Hà",
+      "type": "khu"
+    },
+    {
+      "name": "3 Thanh Hà",
+      "type": "khu"
+    },
+    {
+      "name": "4 Thanh Hà",
+      "type": "khu"
+    },
+    {
+      "name": "5 Thanh Hà",
+      "type": "khu"
+    }
+  ]
+}

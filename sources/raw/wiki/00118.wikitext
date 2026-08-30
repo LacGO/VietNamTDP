@@ -1,0 +1,331 @@
+{{Thông tin đơn vị hành chính Việt Nam|Phường| tên = Bồ Đề
+| hình = DeSongHong-06112008335.JPG 
+| ghi chú hình = [[Đê sông Hồng]] đoạn gần chợ Bồ Đề 
+| vĩ độ = 21.05756500942976
+| kinh độ = 105.86619722578202
+| bản đồ 1 = {{maplink|frame=yes|plain=yes|type=shape|frame-width=280|frame-align=center|stroke-width=3}}
+| diện tích = 12,94 km²
+| dân số = 120.028 người
+| thời điểm dân số = 2025
+| mật độ dân số ={{formatnum:{{#expr:floor({{formatnum:120.028| R}}/{{formatnum:12,94| R}})}} }} người/km² 
+| vùng = [[Đồng bằng sông Hồng]]
+| thành phố = [[Hà Nội]]
+| thành lập = 
+| trụ sở UBND = Số 270, đường Ngọc Thụy<ref>{{Chú thích web |url=https://storage-vnportal.vnpt.vn/gov-hni/6244/VanBan/2025/6/25/TB-729-2025.pdf |title=Thông báo số 729/TB-UBND ngày 25 tháng 6 năm 2025 của Ủy ban nhân dân thành phố Hà Nội về địa điểm trụ sở làm việc của 126 phường, xã sau sắp xếp thuộc phạm vi quản lý của thành phố Hà Nội|access-date=2026-06-15 |archive-date=2026-06-15 |archive-url=https://web.archive.org/web/20260615034519/https://storage-vnportal.vnpt.vn/gov-hni/6244/VanBan/2025/6/25/TB-729-2025.pdf |url-status=dead | website = Cổng Thông tin điện tử Ủy ban nhân dân thành phố Hà Nội}}</ref>
+| mã hành chính =00118<ref>{{Chú thích web |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/19ttg.signed.pdf |title=Quyết định số 19/2025/QĐ-TTg ngày 30 tháng 6 năm 2025 của Thủ tướng Chính phủ về việc Ban hành Bảng danh mục và mã số các đơn vị hành chính Việt Nam |access-date=2026-06-15 |archive-date=2026-06-15 |archive-url=https://web.archive.org/web/20260615034519/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/19ttg.signed.pdf |url-status=dead | website = Cổng Thông tin điện tử Chính phủ}}</ref> 
+| mã bưu chính = 
+|web={{url|bode.hanoi.gov.vn}}|trụ sở Đảng ủy=Số 41, phố Nguyễn Sơn|trụ sở TTPVHCC=Số 270, đường Ngọc Thụy<ref name="ttpvhcc.hanoi.gov.vn">{{Chú thích báo| url = https://ttpvhcc.hanoi.gov.vn/hoat-dong-cua-trung-tam/ha-noi-cong-khai-dia-diem-tiep-nhan-thu-tuc-hanh-chinh-thuoc-ubnd-126-xa-phuong-va-30-diem-tiep-nhan-cua-12-chi-nhanh-thuoc-trung-tam-phuc-vu-hanh-chinh-cong-thanh-pho-thong-tin-duong-day-nong-ho-tro-nguoi-dan-doanh-nghiep-2850250704103711121.htm| title = Hà Nội công khai địa điểm tiếp nhận thủ tục hành chính thuộc UBND 126 xã/phường và 30 điểm tiếp nhận của 12 Chi nhánh thuộc Trung tâm Phục vụ hành chính công Thành phố, thông tin đường dây nóng hỗ trợ người dân, doanh nghiệp| last = Trung tâm Phục vụ hành chính công thành phố Hà Nội}}</ref>}}{{other|Bồ Đề}}'''Bồ Đề''' là một [[Phường (Việt Nam)|phường]] thuộc thành phố [[Hà Nội]], [[Việt Nam]].
+
+== Địa lý== 
+Phường Bồ Đề có vị trí địa lý:
+*Phía đông giáp phường [[Việt Hưng, Hà Nội|Việt Hưng]] và phường [[Long Biên (quận)|Long Biên]] (ranh giới đi theo đường [[Quốc lộ 5]] – đường giao thông quy hoạch)
+*Phía tây giáp phường [[Hồng Hà (phường)|Hồng Hà]] (ranh giới đi theo [[sông Hồng]])
+*Phía nam giáp phường [[Long Biên (phường)|Long Biên]] (ranh giới đi theo đường giao thông quy hoạch)
+*Phía bắc giáp xã [[Đông Anh (xã)|Đông Anh]] (đi theo ranh giới cấp huyện cũ – [[sông Đuống]]).<ref>{{Chú thích web |last=Báo Điện tử Chính phủ |date=2025-04-28 |title=Chi tiết dự thảo phương án sắp xếp các phường của Hà Nội |url=https://xaydungchinhsach.chinhphu.vn/chi-tiet-du-thao-phuong-an-sap-xep-cac-phuong-cua-ha-noi-119250421100531902.htm |url-status=live |archive-url=https://web.archive.org/web/20260710401509/https://xaydungchinhsach.chinhphu.vn/chi-tiet-du-thao-phuong-an-sap-xep-cac-phuong-cua-ha-noi-119250421100531902.htm |archive-date=2026-07-10 |access-date=2026-07-10 |website=Xây dựng chính sách, pháp luật}}</ref><ref>{{Chú thích web |last=Viện nghiên cứu Phát triển kinh tế – xã hội Hà Nội |date=2025-07-02 |title=Phường Bồ Đề: Những thông tin chi tiết sau sắp xếp |url=https://hanoionline.vn/phuong-bo-de-nhung-thong-tin-chi-tiet-sau-sap-xep-343981.htm |url-status=live |archive-url=https://web.archive.org/web/20260701400809/https://hanoionline.vn/phuong-bo-de-nhung-thong-tin-chi-tiet-sau-sap-xep-343981.htm |archive-date=2026-07-01 |access-date=2026-07-01 |website=Cơ quan Báo và Phát thanh Truyền hình Hà Nội}}</ref><ref>{{Chú thích web |last=Cơ quan Báo và Phát thanh Truyền hình Hà Nội|date=2025-07-05|title=Phường Bồ Đề: Tất cả thông tin chỉ dẫn cần biết|url=https://hanoionline.vn/phuong-bo-de-tat-ca-thong-tin-chi-dan-ban-can-biet-344750.htm|url-status=live|archive-url=https://web.archive.org/web/20260711401509/https://hanoionline.vn/phuong-bo-de-tat-ca-thong-tin-chi-dan-ban-can-biet-344750.htm|archive-date=2026-07-11|access-date=2026-07-11}}</ref>
+Phường Bồ Đề có diện tích tự nhiên là 12,94&nbsp;km<sup>2</sup>, quy mô dân số năm 2025 là 120.028 người và mật độ dân số đạt 1.348 người/km<sup>2</sup>.<ref>{{Chú thích web |last=Mai Hữu|date=2026-04-05|title=Hà Nội: Chi tiết phương án tổng thể sắp xếp đơn vị hành chính cấp xã|url=https://hanoimoi.vn/ha-noi-chi-tiet-phuong-an-tong-the-sap-xep-don-vi-hanh-chinh-cap-xa-700278.html|url-status=live|archive-url=https://web.archive.org/web/20260711401509/https://hanoimoi.vn/ha-noi-chi-tiet-phuong-an-tong-the-sap-xep-don-vi-hanh-chinh-cap-xa-700278.html|archive-date=2026-07-11|access-date=2026-07-11|website=Cơ quan Báo và Phát thanh, truyền hình Hà Nội}}</ref><ref>Công văn số 2896/BNV-CQĐP ngày 27 tháng 5 năm 2025 của Bộ Nội vụ về việc cung cấp thông tin danh mục dự kiến đơn vị hành chính cấp xã mới.</ref>
+
+== Lịch sử==
+
+=== Trước năm 1976 ===
+Cuối thời [[Nhà Lê sơ|Lê]], đầu thời [[nhà Nguyễn|Nguyễn]], Bồ Đề là một thôn thuộc xã Lâm Hạ, tổng Gia Thụy, huyện [[Gia Lâm (huyện)|Gia Lâm]], trấn [[Kinh Bắc]]. Sau này Bồ Đề trở thành tên làng, tên gốc là Phú Viên hoặc Phú Hựu. Làng Bồ Đề có giai đoạn thuộc xã Phú Viên, huyện Gia Lâm, tỉnh [[Bắc Ninh]]. Trong [[chiến tranh Đông Dương|kháng chiến chống Pháp]], làng nằm trong xã Toàn Thắng thuộc huyện Gia Lâm, tỉnh Bắc Ninh. Sau khi hòa bình lập lại, làng Bồ Đề cùng các làng Ái Mộ, Ngọc Lâm và Lâm Du tách khỏi xã Toàn Thắng lập thành xã Hồng Tiến thuộc quận VIII nội thành Hà Nội, rồi tháng 5 năm 1961 lại chuyển về huyện Gia Lâm. Năm 1965, trở thành xã Bồ Đề.
+
+Làng Bồ Đề ở ngay đê sông Hồng, bên kia [[cầu Chương Dương]]. Ngày xưa, Bồ Đề có hai đường thiên lý, một đường đi Cổ Bi - Phú Thị để sang trấn Hải Dương; một đường đi Như Quỳnh, xuống [[Hải Dương (tỉnh)|Hải Dương]] - [[Hải Phòng]], tức [[Quốc lộ 5A|Quốc lộ 5]] hiện nay. Còn nếu đi dọc đường đê thì có thể xuống làng Bát Tràng.
+
+Sở dĩ gọi là "Bồ Đề" vì xa xưa trong làng có hai cây bồ đề cao, nổi bật giữa những làng quê ven [[sông Hồng]], ngang đỉnh tháp chùa Báo Thiên ở trong Kinh thành [[Thăng Long]] ở bên kia sông.
+
+Tại làng Bồ Đề có chùa Bồ Đề.
+
+=== Giai đoạn 1976 – nay ===
+Sau ngày 2 tháng 7 năm 1976, 2 thị trấn: Gia Lâm, Yên Viên và 5 xã: Bồ Đề, Gia Thụy, Long Biên, Ngọc Thụy, Thượng Thanh thuộc huyện [[Gia Lâm (huyện)|Gia Lâm]] của thành phố [[Hà Nội]].
+
+Ngày 13 tháng 10 năm 1982, thành lập thị trấn Đức Giang gồm một phần đất của các xã Thượng Thanh, Việt Hưng, thị trấn Yên Viên và thị trấn Gia Lâm.<ref>{{Chú thích web |tựa đề=Quyết định số 173-HĐBT ngày 13 tháng 10 năm 1982 của Hội đồng Bộ trưởng về việc phân vạch địa giới một số phường và thị trấn thuộc thành phố Hà Nội |url=https://chinhphu.vn/default.aspx?pageid=27160&docid=6408 |url-status=live |archive-url=https://web.archive.org/web/20260709401509/https://chinhphu.vn/default.aspx?pageid=27160&docid=6408 |archive-date=2026-07-09 |access-date=2026-07-09 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+
+Ngày 6 tháng 11 năm 2003:
+
+* Tách toàn bộ diện tích tự nhiên và dân số của các xã: Thượng Thanh, Ngọc Thụy, Gia Thụy, Bồ Đề, Long Biên và các thị trấn: Gia Lâm, Đức Giang thuộc huyện [[Gia Lâm (huyện)|Gia Lâm]] về quận [[Long Biên (quận)|Long Biên]] mới thành lập.
+* Thành lập phường Gia Thụy trên cơ sở 77,68 ha diện tích tự nhiên và 7.207 nhân khẩu của thị trấn Gia Lâm, 42,64 ha diện tích tự nhiên và 2.514 nhân khẩu của xã Gia Thụy.
+* Thành lập phường Ngọc Lâm trên cơ sở 83,04 ha diện tích tự nhiên và 19.604 nhân khẩu của thị trấn Gia Lâm và 30 ha diện tích tự nhiên của xã Bồ Đề.
+* Thành lập phường Bồ Đề trên cơ sở 379,92 ha diện tích tự nhiên và 9.888 nhân khẩu của xã Bồ Đề và 6.271 nhân khẩu của thị trấn Gia Lâm.
+* Thành lập phường Phúc Đồng trên cơ sở 494,76 ha diện tích tự nhiên và 6.994 nhân khẩu của xã Gia Thụy.
+* Thành lập 4 phường: Thượng Thanh, Ngọc Thụy, Long Biên và Đức Giang trên cơ sở toàn bộ diện tích tự nhiên và dân số của 3 xã và 1 thị trấn có tên tương ứng.<ref>Nghị định số 132/2003/NĐ-CP ngày 6 tháng 11 năm 2003 của Chính phủ về việc điều chỉnh địa giới hành chính để thành lập các quận Long Biên, Hoàng Mai, thành lập các phường trực thuộc quận Long Biên, quận Hoàng Mai, thành phố Hà Nội.</ref><ref name="LB1">{{Chú thích web | url = http://hanoimoi.com.vn/forumdetail/quy_hoach/1095/v7883-tri-hai-qu7853n-m7899i-va-b7843n-2737891-quy-ho7841ch.htm | tiêu đề = Vị trí hai quận mới và bản đồ quy hoạch | author =Báo Hà Nội mới | ngày = | ngày truy cập = 2011-05-04 | nơi xuất bản = | ngôn ngữ = | archive-date = 2011-05-04 | archive-url = https://web.archive.org/web/20110504025151/http://www.hanoimoi.com.vn/forumdetail/quy_hoach/1095/v7883-tri-hai-qu7853n-m7899i-va-b7843n-2737891-quy-ho7841ch.htm | url-status = dead }}</ref>
+
+Ngày 16 tháng 6 năm 2025:
+
+* Kết thúc hoạt động của đơn vị hành chính cấp huyện trong cả nước.<ref>{{Chú thích web |last= |date= |title=Nghị quyết số 203/2025/QH15 ngày 16 tháng 6 năm 2025 của Quốc hội khóa XV, Kỳ họp thứ 9 về việc sửa đổi, bổ sung một số điều của Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/nq-sua-doi-hien-phap.pdf |url-status=live |archive-url=https://web.archive.org/web/20260613090807/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/nq-sua-doi-hien-phap.pdf |archive-date=2026-06-13 |access-date=2026-06-13 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+* Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của phường Ngọc Lâm, một phần diện tích tự nhiên, quy mô dân số của các phường Đức Giang, Gia Thụy, Thượng Thanh, một phần diện tích tự nhiên của phường Phúc Đồng, phần còn lại của phường Ngọc Thụy, phần còn lại của phường Bồ Đề và phần còn lại của phường Long Biên (quận [[Long Biên (quận)|Long Biên]]) thành phường mới có tên gọi là phường Bồ Đề.<ref>{{Chú thích web |title=Nghị quyết số 1656/NQ-UBTVQH15 ngày 16 tháng 6 năm 2025 của Ủy ban Thường vụ Quốc hội về việc sắp xếp các đơn vị hành chính cấp xã của thành phố Hà Nội năm 2025 |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf |url-status=live |archive-url=https://web.archive.org/web/20260630400809/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf |archive-date=2026-06-30 |access-date=2026-06-30 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+* Sau khi sắp xếp, phường Bồ Đề được chia thành 83 tổ dân phố.<ref>15 tổ dân phố, đánh số từ 1 đến 13, 15 và 27 của phường Ngọc Lâm cũ; tổ dân phố 1 của phường Đức Giang cũ; 13 tổ dân phố, đánh số từ 1 đến 6, từ 11 đến 16 và 18 của phường Gia Thụy cũ; 5 tổ dân phố: 1 và từ 3 đến 6 của phường Thượng Thanh cũ; 26 tổ dân phố: 1, từ 4 đến 8, 10, 11, 13, 14, từ 16 đến 20, 22, 23, 25, từ 27 đến 29, 31, 32, từ 34 đến 36 và 38 của phường Ngọc Thụy cũ; 23 tổ dân phố, đánh số từ 1 đến 8, từ 10 đến 16 và từ 18 đến 25 của phường Bồ Đề cũ.</ref><ref>{{Chú thích web |title=Thông tư số 10/2022/TT-BTNMT ngày 29 tháng 9 năm 2022 của Bộ Tài nguyên và Môi trường về việc Ban hành Danh mục địa danh dân cư, sơn văn, thủy văn, kinh tế – xã hội phục vụ công tác thành lập bản đồ thành phố Hà Nội |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2022/10/10-btnmt.pdf |url-status=live |archive-url=https://web.archive.org/web/20260630400809/https://datafiles.chinhphu.vn/cpp/files/vbpq/2022/10/10-btnmt.pdf |archive-date=2026-06-30 |access-date=2026-06-30 |website=Cổng Thông tin điện tử Chính phủ}}</ref><ref name=":02">{{Chú thích web |last= |date= |title=Quyết định số 143/QĐ-UBND ngày 21 tháng 1 năm 2026 của Ủy ban nhân dân phường Bồ Đề về việc thành lập các khu vực bỏ phiếu bầu cử đại biểu Quốc Hội khóa XVI và đại biểu Hội đồng nhân dân các cấp nhiệm kỳ 2026 – 2031, trên địa bàn phường Bồ Đề |url=https://sqhx-hanoi.mediacdn.vn/91579363132710912/2026/2/2/143-qd-ubnd-thanh-lap-kv-bau-cupdf-1770007845560636324468.pdf |url-status=live |archive-url=https://web.archive.org/web/20260701400809/https://sqhx-hanoi.mediacdn.vn/91579363132710912/2026/2/2/143-qd-ubnd-thanh-lap-kv-bau-cupdf-1770007845560636324468.pdf |archive-date=2026-07-01 |access-date=2026-07-01 |website=Trang Thông tin điện tử phường Bồ Đề – thành phố Hà Nội}}</ref>
+
+Ngày 8 tháng 8 năm 2025, đổi tên 60 tổ dân phố trên địa bàn phường Bồ Đề lần lượt thành 60 tổ dân phố, đánh số từ 1 đến 6, từ 11 đến 16, 18 cụm Gia Thụy, 1 cụm Đức Giang, 1, từ 3 đến 6 cụm Thượng Thanh, từ 1 đến 13, 15, 27 cụm Ngọc Lâm, 1, từ 4 đến 8, 10, 11, 13, 14, từ 16 đến 20, 22, 23, 25, từ 27 đến 29, 31, 32, từ 34 đến 36 và 38 cụm Ngọc Thụy.<ref>1. Giữ nguyên 23 Tổ dân phố của phường Bồ Đề cũ gồm Tổ dân phố số 1 đến 25 (Không có tổ dân phố số 9 và 17); 2. 13 Tổ dân phố của phường Gia Thụy (cũ) gồm các tổ dân phố số: 1, 2, 3, 4, 5, 6, 11, 12, 13, 14, 15, 16, 18 thành tổ dân phố số 1, 2, 3, 4, 5, 6, 11, 12, 13, 14, 15, 16, 18 cụm Gia Thụy, phường Bồ Đề; 3. 01 Tổ dân phố số 1 phường Đức Giang cũ gồm Tổ 1 thành tổ dân phố số 1 cụm Đức Giang, phường Bồ Đề; 4. 05 tổ dân phố của phường Thượng Thanh cũ gồm các tổ dân phố số: 1, 3, 4, 5, 6 thành tổ dân phố số 1, 3, 4, 5, 6 cụm Thượng Thanh, phường Bồ Đề; 5. 15 Tổ dân phố của phường Ngọc Lâm cũ gồm các tổ dân phố số: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 15, 27 thành tổ dân phố số: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 15, 27 cụm Ngọc Lâm, phường Bồ Đề; 6. 26 tổ dân phố phường Ngọc Thụy cũ gồm các tổ dân phố số: 1, 4, 6, 7, 8, 10, 11, 13, 14, 16, 17, 18, 19, 20, 22, 23, 25, 27, 28, 29, 31, 32, 34, 35, 36, 38 thành tổ dân phố số: 1, 4, 6, 7, 8, 10, 11, 13, 14, 16, 17, 18, 19, 20, 22, 23, 25, 27, 28, 29, 31, 32, 34, 35, 36, 38 cụm Ngọc Thụy, phường Bồ Đề.</ref><ref name=":3">{{Chú thích web |last=Trang Thông tin điện tử phường Bồ Đề – thành phố Hà Nội |date=2025-07-26 |title=Phường Bồ Đề triển khai Hội nghị tổ chức lấy ý kiến nhân dân về Phương án đổi tên tổ dân phố sau sắp xếp đơn vị hành chính cấp xã của Thành phố Hà Nội |url=https://bode.hanoi.gov.vn/tin-tuc-su-kien/phuong-bo-de-trien-khai-hoi-nghi-to-chuc-lay-y-kien-nhan-dan-ve-phuong-an-doi-ten-to-dan-pho-sau-sap-xep-don-vi-hanh-chinh-cap-xa-cua-thanh-pho-ha-noi-283125072517464945.htm?gidzl=Y4asPahqUmkCLZ9WGEby1O9LD6XOu2q2dWXcFL-zUW3F2M1lMESWLPu8R3vQit1GcmmnFZBqZ7XSJ_L_2G |url-status=live |archive-url=https://web.archive.org/web/20260710401509/https://bode.hanoi.gov.vn/tin-tuc-su-kien/phuong-bo-de-trien-khai-hoi-nghi-to-chuc-lay-y-kien-nhan-dan-ve-phuong-an-doi-ten-to-dan-pho-sau-sap-xep-don-vi-hanh-chinh-cap-xa-cua-thanh-pho-ha-noi-283125072517464945.htm?gidzl=Y4asPahqUmkCLZ9WGEby1O9LD6XOu2q2dWXcFL-zUW3F2M1lMESWLPu8R3vQit1GcmmnFZBqZ7XSJ_L_2G |archive-date=2026-07-10 |access-date=2026-07-10}}</ref><ref>{{Chú thích web |last= |date= |title=Quyết định số 138/QĐ-ĐU ngày 15 tháng 8 ăm 2025 của Đảng ủy phường Bồ Đề việc đổi tên Chi bộ Tổ dân phố trực thuộc Đảng ủy phường Bồ Đề |url=https://sqhx-hanoi.mediacdn.vn/91579363132710912/2025/8/19/138qd138-ve-doi-ten-chi-bo-tdp-truc-thuoc-dang-uy-phuong-bo-de0001-17555725362701304603804.pdf |url-status=live |archive-url=https://web.archive.org/web/20260710401509/https://sqhx-hanoi.mediacdn.vn/91579363132710912/2025/8/19/138qd138-ve-doi-ten-chi-bo-tdp-truc-thuoc-dang-uy-phuong-bo-de0001-17555725362701304603804.pdf |archive-date=2026-07-10 |access-date=2026-07-10 |website=Trang Thông tin điện tử phường Bồ Đề – thành phố Hà Nội}}</ref>
+[[Tập tin:Bản đồ các tổ dân phố thuộc phường Bồ Đề – thành phố Hà Nội.png|trái|nhỏ|310x310px|Bản đồ phân chia ranh giới các tổ dân phố phường Bồ Đề của thành phố Hà Nội (đến ngày 1 tháng 7 năm 2026)<ref name=":3" />]]
+Ngày 24 tháng 12 năm 2025, xác định phường Bồ Đề là [[Đô thị Việt Nam|đô thị loại II]].<ref>Chuyển tiếp từ 8 phường: Bồ Đề, Đức Giang, Gia Thụy, Long Biên, Ngọc Lâm, Ngọc Thụy, Phúc Đồng và Thượng Thanh thuộc quận Long Biên.</ref><ref>{{Chú thích web |title=Nghị quyết số 111/2025/UBTVQH15 ngày 24 tháng 12 năm 2025 của Ủy ban Thường vụ Quốc hội về phân loại đô thị|url=https://cdn.nhandan.vn/files/f4a4abf7f9a0ba4a91744616546d850872b76917f90d5a74cc9eebef1369fb6f/111.pdf|url-status=dead|archive-url=https://web.archive.org/web/20260712401509/https://cdn.nhandan.vn/files/f4a4abf7f9a0ba4a91744616546d850872b76917f90d5a74cc9eebef1369fb6f/111.pdf|archive-date=2026-07-12|access-date=2026-07-12|website=Báo Nhân dân}}</ref>
+
+Ngày 29 tháng 6 năm 2026, thành lập 38 tổ dân phố mới, đánh số từ 1 đến 5, từ 7 đến 9, từ 12 đến 21, từ 25 đến 31, từ 33 đến 45; đổi tên 7 tổ dân phố: 10, 18, 19; từ 4 đến 6 cụm Thượng Thanh và 15 cụm Ngọc Lâm lần lượt thành thành 7 tổ dân phố: 6, 10, 11, từ 22 đến 24 và 32.<ref>I. Cụm Bồ Đề: 1. Tổ dân phố số 1 sắp xếp từ tổ dân phố 1 và dân phố số 24; 2. Tổ dân phố số 2 sắp xếp từ tổ dân phố số 2 và dân phố số 25; 3. Tổ dân phố số 3 sắp xếp từ tổ dân phố số 3 và dân phố số 4; 4. Tổ dân phố số 4 sắp xếp từ tổ dân phố số 5 và tổ dân phố số 6; 5. Tổ dân phố số 5 sắp xếp từ tổ dân phố số 7 và tổ dân phố số 8; 6. Tổ dân phố số 6 sắp xếp từ tổ dân phố số 10 Bồ Đề + Chung cư HC Golden; 7. Tổ dân phố số 7 sắp xếp từ tổ dân phố số 11 và tổ dân phố số 12; 8. Tổ dân phố số 8 sắp xếp từ tổ dân phố số 13 và tổ dân phố số 14; 9. Tổ dân phố số 9 sắp xếp từ tổ dân phố số 15 và tổ dân phố số 16; 10. Tổ dân phố số 10 sắp xếp từ tổ dân phố số 18, No1, No2; 11. Tổ dân phố số 11 sắp xếp từ tổ dân phố số 19, No3, No4, No5; 12. Tổ dân phố số 12 sắp xếp từ tổ dân phố số 20, Chung cư PHC và tổ dân phố số 21; 13. Tổ dân phố số 13 sắp xếp từ tổ dân phố số 22 và tổ dân phố số 23. II. Cụm Gia Thụy + Cụm Đức Giang: 14. Tổ dân phố số 14 sắp xếp từ tổ dân phố số 1 và tổ dân phố số 2; 15. Tổ dân phố số 15 sắp xếp từ tổ dân phố số 3 và 1 phần tổ dân phố số 4 (theo ngõ 560 NVC); 16. Tổ dân phố số 16 sắp xếp từ 1 phần tổ dân phố số 4 còn lại và tổ dân phố số 18; 17. Tổ dân phố số 17 sắp xếp từ tổ dân phố số 11 và tổ dân phố số 12; 18. Tổ dân phố số 18 sắp xếp từ tổ dân phố số 13, tổ dân phố số 14 và tổ dân phố số 15; 19. Tổ dân phố số 19 sắp xếp từ tổ dân phố số 1 và tổ dân phố số 16; 20. Tổ dân phố số 20 sắp xếp từ tổ dân phố số 5 và tổ dân phố số 6. III. Cụm Thượng Thanh: 21. Tổ dân phố số 21 sắp xếp từ tổ dân phố số 1 và tổ dân phố số 3; 22. Tổ dân phố số 22 sắp xếp từ tổ dân phố số 4; 23. Tổ dân phố số 23 sắp xếp từ tổ dân phố số 5; 24. Tổ dân phố số 24 sắp xếp từ tổ dân phố số 6. IV. Cụm Ngọc Lâm: 25. Tổ dân phố số 25 sắp xếp từ tổ dân phố số 10 và tổ dân phố số 11; 26. Tổ dân phố số 26 sắp xếp từ tổ dân phố số 8 và tổ dân phố số 9; 27. Tổ dân phố số 27 sắp xếp từ tổ dân phố số 6 và tổ dân phố số 7; 28. Tổ dân phố số 28 sắp xếp từ tổ dân phố số 12 và tổ dân phố số 13; 29. Tổ dân phố số 29 sắp xếp từ tổ dân phố số 4 (Trừ ngõ 135 NVC bên trái) và tổ dân phố số 5; 30. Tổ dân phố số 30 sắp xếp từ tổ 3 cụm Ngọc Lâm và tổ dân phố số 2 cụm Ngọc Lâm (Ngõ 135 NVC bên trái và bên phải ngõ 67 NVC + Bên phải ngõ 24 đường Ngọc Lâm); 31. Tổ dân phố số 31 sắp xếp từ tổ dân phố số 1 và tổ dân phố số 2 cụm Ngọc Lâm (Trừ bên phải ngõ 67 NVC + Bên phải ngõ 24 đường Ngọc Lâm); 32. Tổ dân phố số 32 sắp xếp từ tổ dân phố số 15; 33. Tổ dân phố số 33 sắp xếp từ tổ dân phố số 27 và 1 phần Tổ 1 cụm Ngọc Thụy (cắt từ ngõ 175 đường Ngọc Thụy). V. Cụm Ngọc Thụy: 34. Tổ dân phố số 34 sắp xếp từ 1 phần Tổ 1 cụm Ngọc Thụy (cắt từ ngõ 175 đường Ngọc Thụy) và tổ dân phố số 8; 35. Tổ dân phố số 35 sắp xếp từ tổ dân phố số 4, tổ dân phố số 6 và tổ dân phố số 7; 36. Tổ dân phố số 36 sắp xếp từ tổ dân phố số 11, tổ dân phố 13 và tổ dân phố số 14; 37. Tổ dân phố số 37 sắp xếp từ tổ dân phố số 16 và 1 phần Tổ 17 cụm Ngọc Thụy theo đường Nguyễn Gia Bồng; 38. Tổ dân phố số 38 sắp xếp từ 1 phần còn lại Tổ 17 cụm Ngọc Thụy, Tổ 18 cụm Ngọc Thụy và 1 phần Tổ 19 cụm Ngọc Thụy theo phố Gia Thượng; 39. Tổ dân phố số 39 sắp xếp từ tổ dân phố số 20 và 1 phần còn lại Tổ 19 cụm Ngọc Thụy theo phố Gia Thượng; 40. Tổ dân phố số 40 sắp xếp từ tổ dân phố số 22, tổ dân phố số 23 và tổ dân phố số 25; 41. Tổ dân phố số 41 sắp xếp từ tổ dân phố số 27, tổ dân phố số 28 và tổ dân phố số 29; 42. Tổ dân phố số 42 sắp xếp từ Khai Sơn City; 43. Tổ dân phố số 43 sắp xếp từ tổ dân phố số 31 và tổ dân phố số 32; 44. Tổ dân phố số 44 sắp xếp từ tổ dân phố số 34 và tổ dân phố số 35; 45. Tổ dân phố số 45 sắp xếp từ tổ dân phố số 36 và tổ dân phố số 38.</ref><ref name=":1">{{Chú thích web |last=Phường Bồ Đề – thành phố Hà Nội |date=2026-01-11 |title=Tóm tắt đề án sắp xếp tổ dân phố trên địa bàn phường Bồ Đề: tinh gọn bộ máy, nâng cao hiệu quả quản lý |url=https://web.facebook.com/permalink.php?story_fbid=pfbid0uDsLYJejqDPEEtHBfQXTMZjuMh9619qeN22zi7YXBcjuuxzKoYB6TQDHHCunbwajl&id=61577525710300 |url-status=live |archive-url=https://web.archive.org/web/20260711401509/https://web.facebook.com/permalink.php?story_fbid=pfbid0uDsLYJejqDPEEtHBfQXTMZjuMh9619qeN22zi7YXBcjuuxzKoYB6TQDHHCunbwajl&id=61577525710300 |archive-date=2026-07-11 |access-date=2026-07-11}}</ref><ref name=":2">{{Chú thích web |last=Trang Thông tin điện tử phường Bồ Đề – thành phố Hà Nội |date=2026-06-30 |title=Phường Bồ Đề tổ chức thành công Kỳ họp thứ Hai Hội đồng nhân dân phường khóa II, nhiệm kỳ 2026 – 2031 |url=https://bode.hanoi.gov.vn/tin-tuc-hoat-dong/phuong-bo-de-to-chuc-thanh-cong-ky-hop-thu-hai-hoi-dong-nhan-dan-phuong-khoa-ii-nhiem-ky-2026-2031-2831260630075547309.htm |url-status=live |archive-url=https://web.archive.org/web/20260711401509/https://bode.hanoi.gov.vn/tin-tuc-hoat-dong/phuong-bo-de-to-chuc-thanh-cong-ky-hop-thu-hai-hoi-dong-nhan-dan-phuong-khoa-ii-nhiem-ky-2026-2031-2831260630075547309.htm |archive-date=2026-07-11 |access-date=2026-01-11}}</ref>
+
+<!-- 
+== Lịch sử== 
+Thị trấn Gia Lâm xưa (thuộc huyện Gia Lâm), nay là phường Ngọc Lâm (thuộc quận Long Biên), nằm trên vùng đất cổ bên tả ngạn sông Hồng, ở vị trí chiến lược quan trọng phía Bắc Thủ đô Hà Nội. Vùng đất có lịch sử phát triển lâu đời và giàu tiềm năng phát triển. Nhân dân có truyền thống kiên cường chống chọi với thiên nhiên khắc nghiệt để sinh tồn và bất khuất chống quân xâm lược; đoàn kết, cần cù lao động trong dựng xây cuộc sống.
+
+Ngược theo dòng lịch sử, phường Ngọc Lâm hiện nay là vùng đất được hình thành từ lâu đời thuộc châu thổ sông Hồng màu mỡ, phì nhiêu, nhưng lại rất gần vùng chuyển tiếp với địa hình trung du, nơi cư trú của những người Việt cổ. Vào thời dựng nước, phường Ngọc Lâm xưa thuộc đất Thành Long Biên. Thời Lý thuộc phủ Thiên Đức; thời Trần thuộc lộ Bắc Giang; thời Hậu Lê thuộc phủ Thuận An; thời nhà Nguyễn thuộc trấn Kinh Bắc, sau đổi thành tỉnh Bắc Ninh.
+
+Thời kỳ Pháp thuộc, phường Ngọc Lâm vốn thuộc đất các xã Ái Mộ, Ngọc Lâm và Thượng Cát (tổng Gia Thụy). Đến những năm đầu của thế kỷ XX khi cầu Long Biên được đưa vào sử dụng, nối liền Hà Nội với Bắc Ninh con đường thuộc địa số 1 (quốc lộ 1), nơi đầu phía Bắc của cầu Long Biên đã dần hình thành thị xã. Từ đầu năm 1946, thị xã Ngọc Thụy được thành lập (theo quyết định của Ủy ban hành chính tỉnh Bắc Ninh) gồm phố Ái Mộ, phố Ngọc Lâm, phố Thượng Cát, các làng quanh sân bay Gia Lâm và các làng phía Bắc đường 1...
+
+Tháng 3-1949, khu Ngọc Thụy sáp nhập vào huyện Gia Lâm. Sau gần 1 năm cắt chuyển về tỉnh Hưng Yên để mở mặt trận đường 5, cuối năm 1949, huyện Gia Lâm trở về thuộc tỉnh Bắc Ninh. Ngày ngày 11 tháng 11 năm 1954, Ban Bí thư Trung ương Đảng Lao động Việt Nam ban hành Quyết định số 49/NQ-TW và ngày ngày 13 tháng 12 năm 1954 Thủ tướng Chính phủ ban hành Quyết định 420/TTg sáp nhập vào thành phố Hà Nội khu vực phố Gia Lâm, khu nhà ga Gia Lâm, sân bay Gia Lâm và 4 xã Hồng Tiến, Việt Hưng, Long Biên, Ngọc Thụy.
+
+Ngày ngày 31 tháng 5 năm 1961, Thủ tướng Chính phủ ra Quyết định số 78/CP về việc chia các khu vực nội thành và ngoại thành của thành phố Hà Nội, trong đó huyện Gia Lâm gồm 2 thị trấn và 31 xã. Thị trấn Gia Lâm được thành lập, bao gồm các phố Thượng Cát (của xã Thượng Thanh), phố Ga, phố Ái Mộ, phố Ngọc Lâm, xóm Giếng, xóm Chùa, xóm Chợ A và xóm Trung Quân của thôn Ái Mộ (thuộc xã Hồng Tiến).
+
+Phường Ngọc Lâm hình thành và phát triển trên vùng đất có nhiều di tích lịch sử văn hóa gắn liền với trấn Kinh Bắc và Thăng Long - Hà Nội ngàn năm văn hiến. Người dân nơi đây có cốt cách thuần hậu của người lao động, mang phẩm chất của người Kinh Bắc, Kinh Kỳ tinh tế và lịch lãm trong giao tiếp ứng xử, sống tình nghĩa, chan hòa với cộng đồng làng xóm.
+
+Ngày 6/11/2003, Chính phủ ban hành Nghị định số 132/2003/NĐ-CP về việc điều chỉnh địa giới hành chính để thành lập quận Long Biên thuộc Thành phố Hà Nội. Phường Ngọc Lâm là một trong 14 phường của quận Long Biên được thành lập. Với tổng diện tích đất tự nhiên 113,04 ha, trong đó đất ở là 57,01 ha. Khi thành lập toàn phường có 4.561 hộ với 19.604 nhân khẩu, chia thành 27 tổ dân phố. Phường Ngọc Lâm chính thức đi vào hoạt động từ ngày ngày 1 tháng 1 năm 2004.
+
+== Lịch sử== 
+Ngày [[13 tháng 10]] năm [[1982]], thị trấn Đức Giang được thành lập theo quyết định số 173-HĐBT của Hội đồng Bộ trưởng<ref name = 173-HĐBT>{{Chú thích web| url = https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-173-HDBT-phan-vach-dia-gioi-phuong-va-thi-tran-thanh-pho-Ha-Noi-43981.aspx| title = Quyết định 173-HĐBT năm 1982 về việc phân vạch địa giới một số phường và thị trấn thuộc thành phố Hà Nội| last = | first = | date = | website = | archive-url = | archive-date = | url-status = | access-date = }}</ref>. Thị trấn được tổ chức làm 3 khối dân: Khối 1 gồm khu vực ngã ba cầu Chui và một phần của Khu Ga (trước đó thuộc thị trấn Gia Lâm); Khối 2 gồm khu vực phố Ô cách (trước đó thuộc xã Việt Hưng) và Khối 3 gồm khu vực phố Thanh Am (trước đó thuộc thị trấn Yên Viên). Ngoài 3 khối dân cư thị trấn còn quản lý về mặt hành chính đối với các khu tập thể: Nhà máy gỗ Cầu Đuống, Diêm Thống Nhất, khu tập thể Thượng Thanh, khu tập thể Tổng cục Hậu Cần.
+
+Ngày [[06 tháng 11]] năm [[2003]], [[Chính phủ Việt Nam| Chính phủ]] ban hành Nghị định số 132/2003/NĐ-CP về việc thành lập [[Long Biên (quận)| quận Long Biên]]<ref name = "132/2003/NĐ-CP">{{Chú thích web| url = https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Nghi-dinh-132-2003-ND-CP-dieu-chinh-dia-gioi-hanh-chinh-de-thanh-lap-quan-Long-Bien-Hoang-Mai-phuong-thuoc-quan-Hoang-Mai-Ha-Noi-51571.aspx| title = Nghị định 132/2003/NĐ-CP về việc điều chỉnh địa giới hành chính để thành lập các quận Long Biên, Hoàng Mai, thành lập các phường trực thuộc quận Long Biên, quận Hoàng Mai, thành phố Hà Nội| last = | first = | date = | website = | archive-url = | archive-date = | url-status = | access-date = }}</ref>. Theo đó, thị trấn Đức Giang thuộc [[Gia Lâm (huyện)| huyện Gia Lâm]] trở thành phường Đức Giang thuộc [[Long Biên (quận)| quận Long Biên]].
+
+[[Tháng 8]] năm [[2004]], phường [[Đức Giang (định hướng)| Đức Giang]] đã bàn giao sang phường [[Thượng Thanh]] 4 tổ dân phố, đồng thời tiếp nhận của phường [[Thượng Thanh]] và phường [[Gia Thụy| Gia Thuỵ]] 2 tổ dân phố. Đến năm 2005 phường Đức Giang đã có 33 tổ dân phố với 23.800 nhân khẩu.
+
+== Lịch sử== 
+Ngọc Thụy trước đây là một xã thuộc huyện Gia Lâm.
+
+Ngọc Thụy có quá trình hình thành và phát triển gần một 1.000 năm lịch sử. Đây cũng là quê hương của Thái uý Việt Quốc công Lý Thường Kiệt.
+
+Xa xưa, tính từ thời Lý (lấy năm sinh của Lý Thường Kiệt là năm [[1019]]) thì đây thuộc vùng đất Long Biên, trong huyện Gia Lâm, phủ Thiên Đức; thời Trần thuộc lộ Bắc Giang. Khi thực dân Pháp xâm lược nước ta và suốt thời gian Pháp đô hộ, Gia Lâm thuộc tỉnh Bắc Ninh. Các ấp xóm, trại, làng, xã lúc ấy có: Gia Quất, Gia Thượng, Yên Tân, Bắc Cầu, Thượng Cát, Thanh Am,... Cùng nằm trong tổng Gia Thụy, thuộc tỉnh Bắc Ninh.
+
+[[Cách mạng Tháng Tám]] năm [[1945]] thành công, ngày đầu của cuộc kháng chiến chống thực dân Pháp, vùng đất Ngọc Thụy nằm trong Đặc khu Ngọc Thụy, trực thuộc tỉnh Bắc Ninh, vùng đất Đặc khu lúc ấy tới tận Sài Đồng, Thạch Bàn ngày nay.
+
+[[Tháng 3]] năm [[1949]], trên chủ trương mở mặt trận đường 5, Đặc khu Ngọc Thụy được chuyển về tỉnh Hưng Yên. Qua thực tế hoạt động gặp nhiều khó khăn, Ủy ban kháng chiến tỉnh Hưng Yên đã đề nghị trên cho chuyển trả lại về Gia Lâm thuộc tỉnh Bắc Ninh. Khi chuyển về, Đặc khu Ngọc Thụy được phân chia thành xã Ngọc Thụy và xã Hồng Tiến.
+
+Đến [[tháng 10]] năm [[1954]], xã Ngọc Thụy được chuyển về quận VIII, ngoại thành Hà Nội.
+
+Cuối năm [[1955]] đầu năm [[1956]], sau cải cách ruộng đất, xã Ngọc Thụy được phân chia thành 2 xã để tiện điều hành, quản lý, lấy tên là xã Ngọc Thụy và xã Thượng Thanh (Gia QuấtThượng về Thượng Thanh, Gia Quất Hạ ở lại Ngọc Thụy).
+
+Ngày [[20 tháng 4]] năm [[1961]], tại kỳ họp thứ hai Quốc hội khóa II quyết định mở rộng thành phố Hà Nội và sáp nhập vào thành phố Hà Nội một số khu vực thuộc tỉnh Hà Đông, Bắc Ninh, VĩnhPhúc và Hưng Yên; theo đó Ngọc Thụy cùng 15 xã của huyện Gia Lâm và một số xã, thị trấn của các huyện Từ Sơn, Tiên Du, Thuận Thành được chuyển giao về Hà Nội.
+
+Tiếp theo, ngày [[31 tháng 5]] năm [[1961]], Hội đồng Chính phủ ra quyết định chia các khu vực nội, ngoại thành của thành phố Hà Nội thành 4 khu phố và 4 huyện. Theo quyết định này, Ngọc Thụy là một trong 31 xã và hai thị trấn thuộc huyện Gia Lâm, ngoại thành Hà Nội. Vị trí địa lý xã Ngọc Thụy lúc ấy được xác định:
+*Phía Đông giáp xã Thượng Thanh 
+*Phía Nam giáp thị trấn Gia Lâm
+*Phía Bắc có sông Đuống, bên kia sông là xã Đông Hội, huyện Đông Anh
+*Phía Tây giáp xã Tứ Liên, huyện Từ Liêm (nay thuộc quận
+Tây Hồ).
+
+Xã có các thôn: Bắc Biên, Gia Quất, Yên Tân, Gia Thượng, Bắc Cầu.
+
+Bắc Biên, Trung Hà xưa kia vốn là làng An Xá thuộc thành Đại La. Khi vua Lý Thái Tổ dời đô từ Hoa Lư ra Đại La đã đổi Đại La thành Thăng Long. Làng An Xá trở thành làng củathành Thăng Long.
+
+Năm [[1014]] (Năm [[Thiên Thuận thứ 5]]), vua Lý Thái Tổ cho đắp thành để xây dựng dinh thự. Nhà Vua cho di dân làng An Xá ra bãi bồi ở sông Nhị Hà (Sông Hồng). An Xá là quê hương của Ngô Tuấn (tức Lý Thường Kiệt) có địa giới như sau:
+ 
+- Bắc giáp làng Xuân Canh, Bắc Cầu, Gia Thượng.
+
+- Đông giáp làng Gia Quất, làng Thạch Cầu, Lâm Hạ, Gia Thụy, Ái Mộ.
+
+- Nam giáp cống ông Mạc, Quyết Thủy, Đồng Tân, Hà Khẩu.
+
+- Tây giáp làng Quảng Bá, Tây Hồ, An Hòa, Hoè Nhai.
+
+Nhờ có Lý Thường Kiệt dâng sớ tấu xin vua nên dân làng An Xá được miễn mọi thứ thuế, lệ, phu phen tạp dịch, vì An Xá ở bãi bồi không có đất cấy lúa. Đến năm [[Thuận Thiên thứ 5]] ([[1132]]), Vua Lý Thần Tông đi kinh lý làng An Xá vào lúc nước sông Nhị Hà lên to, thấy nhà nào cũng bắc bục để ở nên Vua ra sắc chỉ đổi tên làng An Xá thành làng Cơ Xá. Cơ có nghĩa cơ động, nhưng chữ cơ lại đồng âm với chữ cơ là đói (cơ hàn) nên năm [[Duy Tân thứ 5]] ([[1911]]) dân làng đã xin đổi tên làng Cơ Xá thành làng Phúc Xá. Phúc có nghĩa là phúc đức, cũng còn có nghĩa dân mong muốn có ruộng để trồng dâu nuôi tằm. Phúc Xá Nam nay thuộc khu Đống Mác; Phúc Xá Tây hiện nay là An Dương còn Phúc Xá Bắc Biên, Phúc Xá Trung Hà nay thuộc Ngọc Thụy. Phúc Xá xưa đều ở bãi giữa sông Hồng (sông Nhị Hà). Phúc Xá Trung Hà được Nhà nước bơm cát từ Sông Hồng vào lấp Đầm Bến (Đầm Sen) chia đất cho dân vào năm [[1975]]-[[1976]]. Phúc Xá lúc đó thuộc tổng Phúc Lâm, [[Hoàn Long (huyện)| huyện Hoàn Long]], tỉnh Hà Đông, sau chính quyền Pháp đô hộ đổi huyện Hoàn Long thành đại lý Hoàn Long, thuộc thành Hà Nội.
+
+Sau [[Cách mạng Tháng Tám]], Phúc Xá thành đặc khu Phúc Xá thuộc liên khu 1 Hà Nội. Đặc khu Phúc Xá có bãi Phúc Xá Trung Hà, bãi Phúc Xá Bắc Biên và Phúc Xá Tây Biên,...
+
+Đến năm [[1956]], thì Phúc Xá Bắc Biên, Trung Hà sáp nhập vào phường Ngọc Thụy cho đến nay.
+
+Phường Ngọc Thụy được thành lập năm 2003 trên cơ sở toàn bộ 898,99 ha diện tích tự nhiên và 18.568 người của xã Ngọc Thụy, huyện Gia Lâm.<ref name = "ND132">[http://thuvienphapluat.vn/archive/Nghi-dinh/Nghi-dinh-132-2003-ND-CP-dieu-chinh-dia-gioi-hanh-chinh-de-thanh-lap-quan-Long-Bien-Hoang-Mai-phuong-thuoc-quan-Hoang-Mai-Ha-Noi-vb51571t11.aspx Nghị định số 132/2003/NĐ-CP ngày 6 tháng 11 năm 2003 của Chính phủ] về việc điều chỉnh địa giới hành chính để thành lập các quận Long Biên, Hoàng Mai, thành lập các phường trực thuộc quận Long Biên, quận Hoàng Mai, thành phố Hà Nội.</ref>
+
+== Xã hội== 
+=== Giáo dục=== 
+Trên địa bàn phường có các trường:
+* Mầm non Bắc Biên.[https://mnbacbien.longbien.edu.vn/lb/mnbacbien.html?qi = 152_315202022] {{Webarchive| url = https://web.archive.org/web/20210720122550/https://mnbacbien.longbien.edu.vn/lb/mnbacbien.html?qi = 152_315202022 | date = 2021-07-20 }}
+* Mầm non Ngọc Thuỵ.[https://mnngocthuy.longbien.edu.vn/lb/mnngocthuy.html?qi = 152_315202080] {{Webarchive| url = https://web.archive.org/web/20210720122551/https://mnngocthuy.longbien.edu.vn/lb/mnngocthuy.html?qi = 152_315202080 | date = 2021-07-20 }}
+* Mầm non Bắc Cầu.[https://mnbaccau.longbien.edu.vn/lb/mnbaccau.html?qi = 152_315202038] {{Webarchive| url = https://web.archive.org/web/20210720122551/https://mnbaccau.longbien.edu.vn/lb/mnbaccau.html?qi = 152_315202038 | date = 2021-07-20 }}.
+* Tiểu học Ngọc Thuỵ.[https://thngocthuy.longbien.edu.vn/lb/thngocthuy.html?qi = 152_315202050] {{Webarchive| url = https://web.archive.org/web/20210720122550/https://thngocthuy.longbien.edu.vn/lb/thngocthuy.html?qi = 152_315202050 | date = 2021-07-20 }}
+* Tiểu học Gia Thượng.[https://thgiathuong.longbien.edu.vn/lb/thgiathuong.html?qi = 152_315202045] {{Webarchive| url = https://web.archive.org/web/20210720122555/https://thgiathuong.longbien.edu.vn/lb/thgiathuong.html?qi = 152_315202045 | date = 2021-07-20 }}
+* Tiểu học Lý Thường Kiệt.[https://thlythuongkiet.longbien.edu.vn/lb/thlythuongkiet.html?qi = 152_315202064] {{Webarchive| url = https://web.archive.org/web/20210720122602/https://thlythuongkiet.longbien.edu.vn/lb/thlythuongkiet.html?qi = 152_315202064 | date = 2021-07-20 }}
+* THCS Ngọc Thuỵ.[https://thcsngocthuy.longbien.edu.vn/lb/thcsngocthuy.html?qi = 152_315202091] {{Webarchive| url = https://web.archive.org/web/20210720124102/https://thcsngocthuy.longbien.edu.vn/lb/thcsngocthuy.html?qi = 152_315202091 | date = 2021-07-20 }}
+* THCS Lý Thường Kiệt
+* Học viện Hậu Cần
+* Trường Việt Pháp ALEXANDRE YERSIN.
+
+ -->== Hành chính==
+Phường Bồ Đề được chia thành 45 tổ dân phố, đánh số từ 1 đến 45.<ref name=":1" /><ref name=":2" />
+{| class="wikitable sortable" align="center" width="100%" cellspacing="6" cellpadding="0" style="background: #f9f9f9; border: 1px #aaa solid; margin-top: 16px"
+! colspan="4" style="background: #E6E6FA; font-size: 95%;" |Danh sách các tổ dân phố thuộc phường Bồ Đề<ref name=":1" /><ref name=":2" />
+|-
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Tổ dân phố 1
+|1.052
+|-
+| align="left" |Tổ dân phố 2
+|701
+|-
+| align="left" |Tổ dân phố 3
+|1.036
+|-
+| align="left" |Tổ dân phố 4
+|1.166
+|-
+| align="left" |Tổ dân phố 5
+|1.351
+|-
+| align="left" |Tổ dân phố 6
+|924
+|-
+| align="left" |Tổ dân phố 7
+|990
+|-
+| align="left" |Tổ dân phố 8
+|864
+|-
+| align="left" |Tổ dân phố 9
+|780
+|-
+| align="left" |Tổ dân phố 10
+|739
+|-
+| align="left" |Tổ dân phố 11
+|970
+|-
+| align="left" |Tổ dân phố 12
+|711
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Tổ dân phố 13
+|942
+|-
+| align="left" |Tổ dân phố 14
+|929
+|-
+| align="left" |Tổ dân phố 15
+|774
+|-
+| align="left" |Tổ dân phố 16
+|715
+|-
+| align="left" |Tổ dân phố 17
+|902
+|-
+| align="left" |Tổ dân phố 18
+|1.168
+|-
+| align="left" |Tổ dân phố 19
+|743
+|-
+| align="left" |Tổ dân phố 20
+|748
+|-
+| align="left" |Tổ dân phố 21
+|1.105
+|-
+| align="left" |Tổ dân phố 22
+|832
+|-
+| align="left" |Tổ dân phố 23
+|1.224
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Tổ dân phố 24
+|739
+|-
+| align="left" |Tổ dân phố 25
+|1.165
+|-
+| align="left" |Tổ dân phố 26
+|1.002
+|-
+| align="left" |Tổ dân phố 27
+|989
+|-
+| align="left" |Tổ dân phố 28
+|975
+|-
+| align="left" |Tổ dân phố 29
+|972
+|-
+| align="left" |Tổ dân phố 30
+|792
+|-
+| align="left" |Tổ dân phố 31
+|811
+|-
+| align="left" |Tổ dân phố 32
+|809
+|-
+| align="left" |Tổ dân phố 33
+|714
+|-
+| align="left" |Tổ dân phố 34
+|1.141
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Tổ dân phố 35
+|1.407
+|-
+| align="left" |Tổ dân phố 36
+|1.187
+|-
+| align="left" |Tổ dân phố 37
+|901
+|-
+| align="left" |Tổ dân phố 38
+|1.110
+|-
+| align="left" |Tổ dân phố 39
+|792
+|-
+| align="left" |Tổ dân phố 40
+|975
+|-
+| align="left" |Tổ dân phố 41
+|1.003
+|-
+| align="left" |Tổ dân phố 42
+|1.222
+|-
+| align="left" |Tổ dân phố 43
+|765
+|-
+| align="left" |Tổ dân phố 44
+|928
+|-
+| align="left" |Tổ dân phố 45
+|1.070
+|}
+|}
+
+== Địa chỉ trụ sở các cơ quan ==
+
+* Trụ sở Đảng ủy: Số 41, phố Nguyễn Sơn.<ref>Địa chỉ cũ: Số 41, phố Nguyễn Sơn, phường Ngọc Lâm, quận Long Biên</ref><ref name = "trusomoi">{{Cite web | date = 25 tháng 6 năm 2025| title = Thông báo về địa điểm trụ sở làm việc của 126 phường, xã sau sắp xếp thuộc phạm vi quản lý của thành phố Hà Nội| url = https://dcdn.dantri.com.vn/2025/06/25/tru-so-126-xa-phuong-cua-ha-noi-1750822481952.pdf| website = UBND TP Hà Nội}}</ref>
+* Trụ sở Ủy ban nhân dân phường: Số 270, đường Ngọc Thụy.<ref name = ":0">Địa chỉ cũ: Số 270, đường Ngọc Thuy, phường Ngọc Thụy, quận Long Biên</ref>
+* Trung tâm phục vụ hành chính công: Số 270, đường Ngọc Thụy.<ref name="ttpvhcc.hanoi.gov.vn">{{Chú thích báo| url = https://ttpvhcc.hanoi.gov.vn/hoat-dong-cua-trung-tam/ha-noi-cong-khai-dia-diem-tiep-nhan-thu-tuc-hanh-chinh-thuoc-ubnd-126-xa-phuong-va-30-diem-tiep-nhan-cua-12-chi-nhanh-thuoc-trung-tam-phuc-vu-hanh-chinh-cong-thanh-pho-thong-tin-duong-day-nong-ho-tro-nguoi-dan-doanh-nghiep-2850250704103711121.htm| title = Hà Nội công khai địa điểm tiếp nhận thủ tục hành chính thuộc UBND 126 xã/phường và 30 điểm tiếp nhận của 12 Chi nhánh thuộc Trung tâm Phục vụ hành chính công Thành phố, thông tin đường dây nóng hỗ trợ người dân, doanh nghiệp| last = Trung tâm Phục vụ hành chính công thành phố Hà Nội}}</ref><ref name = ":0" />
+* Công an phường:<ref>{{Chú thích báo| url = https://daibieunhandan.vn/danh-sach-126-tru-so-cong-an-cap-xa-thuoc-cong-an-tp-ha-noi-de-nguoi-dan-toi-lam-can-cuoc-dang-ky-xe-10378397.html| title = Danh sách 126 trụ sở Công an cấp xã thuộc Công an TP. Hà Nội để người dân tới làm căn cước, đăng ký xe| last = Báo Đại biểu Nhân dân| first = }}</ref>
+** Trụ sở chính: Ngõ 99 phố Ái Mộ.<ref>Địa chỉ cũ: Ngõ 99 phố Ái Mộ, phường Bồ Đề, quận Long Biên</ref>
+** Cơ sở 2: Số 101, phố Bồ Đề.<ref>Địa chỉ cũ: Số 101, phố Bồ Đề, phường Bồ Đề, quận Long Biên</ref>
+** Cơ sở 3: Số 8, phố Gia Thụy.<ref>Địa chỉ cũ: Số 8, phố Gia Thụy, phường Gia Thụy, quận Long Biên</ref>
+** Cơ sở 4: Số 39, phố Nguyễn Gia Bồng.<ref>Địa chỉ cũ: Số 39, phố Nguyễn Gia Bồng, phường Ngọc Thụy, quận Long Biên</ref>
+
+==Danh nhân==
+* '''[[Trần Quang Ngọc]]''' (sinh năm 1937) là người sáng lập, nguyên Viện trưởng Viện Kỹ thuật điện ảnh và Video Việt Nam, Giám đốc Trung tâm Kỹ thuật Điện ảnh Việt Nam.
+
+== Chú thích== 
+{{tham khảo}}
+
+== Liên kết ngoài== 
+*[http://www.hanoimoi.com.vn/vn/16/78586/ Làng Bồ Đề] trên báo Hà Nội mới điện tử
+*[http://www.hanoi.gov.vn/hanoiwebs1/vn/gioithieuchunghanoi/group2/group2_4/group2_4_1/page2_4_1_16.htm Chùa Bồ Đề] {{Webarchive| url = https://web.archive.org/web/20070109084144/http://www.hanoi.gov.vn/hanoiwebs1/vn/gioithieuchunghanoi/group2/group2_4/group2_4_1/page2_4_1_16.htm | date = 2007-01-09 }}
+
+== Tham khảo ==
+{{Sơ khai Hà Nội}}{{Đơn vị hành chính thuộc thành phố Hà Nội}}

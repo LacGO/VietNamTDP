@@ -1,0 +1,70 @@
+{{Thông tin đơn vị hành chính Việt Nam | xã
+| tên = Pà Cò
+| hình =The part of the mountan road thats paved. (4108767393).jpg 
+| ghi chú hình =Một đoạn đường núi tại xã Pà Cò 
+| vĩ độ = 20.692847146339897
+| kinh độ = 104.92066611725842
+| diện tích = 115,76 km²
+| dân số = 11.334 người
+| thời điểm dân số = 2025
+| mật độ dân số = {{formatnum:{{#expr:floor({{formatnum:11.334| R}}/{{formatnum:115,76| R}})}} }} người/km²
+| vùng = [[Đông Bắc Bộ]]
+| tỉnh = [[Phú Thọ]]
+| thành lập = 16/6/2025
+| trụ sở UBND = 
+| mã hành chính = 
+| mã bưu chính = 
+}}
+
+'''Pà Cò''' là một [[Xã (Việt Nam)|xã]] thuộc tỉnh [[Phú Thọ]], [[Việt Nam]].
+
+== Địa lý ==
+Xã Pà Cò có vị trí địa lý:
+
+* Phía bắc và phía tây giáp tỉnh [[Sơn La]].
+* Phía nam giáp tỉnh [[Thanh Hóa]].
+* Phía đông giáp xã Mai Châu và xã [[Bao La, Phú Thọ|Bao La]].
+
+== Hành chính ==
+Xã Pà Cò được chia thành 18 xóm: Bò Báu, Bò Liêm, Cang, Chà Đáy, Cun, Hang Kia, Mượt, Pà Cò 1, Pà Cò Lớn, Pà Háng Lớn, Pà Khôm, Pheo, Tam Hòa, Táu Nà, Thung Ẳng, Thung Mài, Thung Mặn, Xà Lính.<ref name=":1">{{Chú thích web |last=Bộ Dân tộc và Tôn giáo |date=2026-01-29 |title=Danh sách Thôn vùng đồng bào dân tộc thiểu số và miền núi, thôn đặc biệt khó khăn giai đoạn 2026 - 2030 trên địa bàn tỉnh Phú Thọ |url=http://files.ubdt.gov.vn/files/ecm/source_files/2026/02/05/11252411_4.%20Ph%C3%BA%20Th%E1%BB%8D%201%20(th%C3%B4n).signed_26-02-05.pdf |url-status=live |archive-url=https://web.archive.org/web/20260417090807/http://files.ubdt.gov.vn/files/ecm/source_files/2026/02/05/11252411_4.%20Ph%C3%BA%20Th%E1%BB%8D%201%20(th%C3%B4n).signed_26-02-05.pdf |archive-date=2026-04-17 |access-date=2026-04-17 |website=Cổng Thông tin điện tử Bộ Dân tộc và Tôn giáo}}</ref><ref>{{Chú thích web |last=Ủy ban nhân dân xã Pà Cò |date=2026-03-08 |title=Thông báo số 384/TB-UBND về Thời gian, địa điểm bỏ phiếu bầu cử đại biểu Quốc hội khóa XVI và bầu cử đại biểu Hội đồng nhân dân các cấp, nhiệm kỳ 2026 - 2031 trên địa bàn xã Pà Cò, tỉnh Phú Thọ |url=https://paco.phutho.gov.vn/index.php/tin-t-c-s-ki-n/chinh-tr/300-tha-ng-ba-o-tha-i-gian-a-a-ia-m-ba-phia-u-ba-u-ca-a-i-bia-u-qua-c-ha-i-kha-a-xvi-va-ba-u-ca-a-i-bia-u-h-nd-ca-c-ca-p-nhia-m-ka-2026-2031-tra-n-a-a-ba-n-xa-pa-ca-ta-nh-pha-tha-xa |url-status=live |archive-url=https://paco.phutho.gov.vn/index.php/tin-t-c-s-ki-n/chinh-tr/300-tha-ng-ba-o-tha-i-gian-a-a-ia-m-ba-phia-u-ba-u-ca-a-i-bia-u-qua-c-ha-i-kha-a-xvi-va-ba-u-ca-a-i-bia-u-h-nd-ca-c-ca-p-nhia-m-ka-2026-2031-tra-n-a-a-ba-n-xa-pa-ca-ta-nh-pha-tha-xahttps://paco.phutho.gov.vn/index.php/tin-t-c-s-ki-n/chinh-tr/300-tha-ng-ba-o-tha-i-gian-a-a-ia-m-ba-phia-u-ba-u-ca-a-i-bia-u-qua-c-ha-i-kha-a-xvi-va-ba-u-ca-a-i-bia-u-h-nd-ca-c-ca-p-nhia-m-ka-2026-2031-tra-n-a-a-ba-n-xa-pa-ca-ta-nh-pha-tha-xa |archive-date=2026-04-23 |access-date=2026-04-23 |website=Trang Thông tin điện tử xã Pà Cò - tỉnh Phú Thọ}}</ref>
+
+== Lịch sử ==
+Xã Pà Cò trước kia thuộc huyện [[Mai Châu (huyện)|Mai Châu]], tỉnh [[Hòa Bình (tỉnh)|Hòa Bình]].
+
+Ngày [[12 tháng 6]] năm [[2025]], [[Quốc hội Việt Nam|Quốc hội]] ban hành Nghị quyết số 202/2025/QH15<ref name="202/2025/QH15">{{Chú thích web |ngày=2025-06-12 |tựa đề=Nghị quyết số 202/2025/QH15 về việc sắp xếp đơn vị hành chính cấp tỉnh |url=https://quochoi.vn/tintuc/Pages/tin-hoat-dong-cua-quoc-hoi.aspx?ItemID=94532 |url-status=live |url lưu trữ=https://web.archive.org/web/20250612150244/https://quochoi.vn/tintuc/Pages/tin-hoat-dong-cua-quoc-hoi.aspx?ItemID=94532 |ngày lưu trữ=2025-06-12 |ngày truy cập=2025-06-12 |website=Cổng thông tin điện tử Quốc hội Việt Nam}}</ref> về việc sắp xếp đơn vị hành chính cấp tỉnh (nghị quyết có hiệu lực từ ngày 12 tháng 6 năm 2025). Theo đó, sáp nhập tỉnh [[Hòa Bình (tỉnh)|Hòa Bình]] và tỉnh [[Vĩnh Phúc (tỉnh)|Vĩnh Phúc]] vào tỉnh Phú Thọ. Xã Pà Cò thuộc tỉnh Phú Thọ.
+
+Ngày [[16 tháng 6]] năm [[2025]]:
+
+* Quốc hội ban hành Nghị quyết số 203/2025/QH15 về việc sửa đổi, bổ sung một số điều của Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam (nghị quyết có hiệu lực từ ngày [[16 tháng 6]] năm [[2025]]).<ref>{{Chú thích web |last=xaydungchinhsach.chinhphu.vn |date=2025-06-28 |title=NGHỊ QUYẾT 203/2025/QH15 SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA HIẾN PHÁP NƯỚC CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM |url=https://xaydungchinhsach.chinhphu.vn/nghi-quyet-203-2025-qh15-sua-doi-bo-sung-mot-so-dieu-cua-hien-phap-nuoc-cong-hoa-xa-hoi-chu-nghia-viet-nam-119250616181735552.htm |url-status=live |archive-url=https://web.archive.org/web/20260715200606/https://xaydungchinhsach.chinhphu.vn/nghi-quyet-203-2025-qh15-sua-doi-bo-sung-mot-so-dieu-cua-hien-phap-nuoc-cong-hoa-xa-hoi-chu-nghia-viet-nam-119250616181735552.htm |archive-date=2026-07-15 |access-date=2026-07-15 |website=Báo Điện tử Chính phủ |language=vi}}</ref> Theo đó, kết thúc hoạt động của đơn vị hành chính cấp huyện trong cả nước từ ngày 1 tháng 7 năm 2025.
+* [[Ủy ban Thường vụ Quốc hội]] ban hành Nghị quyết số 1676/NQ-UBTVQH15 về việc sắp xếp các đơn vị hành chính cấp xã của tỉnh Phú Thọ năm 2025 (nghị quyết có hiệu lực từ ngày [[16 tháng 6]] năm [[2025]]).<ref>{{Chú thích web |last=xaydungchinhsach.chinhphu.vn |date=2025-06-20 |title=Nghị quyết số 1676/NQ-UBTVQH15 sắp xếp các ĐVHC cấp xã của tỉnh Phú Thọ năm 2025 |url=https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-1676-nq-ubtvqh15-sap-xep-cac-dvhc-cap-xa-cua-tinh-phu-tho-nam-2025-119250616204317326.htm |access-date=2025-09-07 |website=xaydungchinhsach.chinhphu.vn |language=vi}}</ref> Theo đó, sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của các xã Cun Pheo, Hang Kia, Pà Cò và một phần xã Đồng Tân (huyện [[Mai Châu (huyện)|Mai Châu]]) thành xã mới có tên gọi là '''xã Pà Cò'''.<!-- 
+==Lịch sử==
+Địa bàn xã Đồng Tân hiện nay trước đây vốn là hai xã Đồng Bảng và Tân Sơn thuộc huyện Mai Châu.
+
+Xã Đồng Bảng được thành lập vào ngày [[9 tháng 8]] năm [[1957]] trên cơ sở một phần diện tích và dân số của xã Mai Thượng cũ.<ref>{{chú thích sách|tác giả=|tựa đề=Địa chí Hòa Bình|nhà xuất bản=Nhà xuất bản Chính trị quốc gia|year=2005|nơi=|trang=313|url=https://www.google.com/books/edition/Địa_ch%C3%AD_Hòa_Bình/jUZRAQAAMAAJ|doi=|id=|isbn=}}</ref><ref>{{Chú thích web|url=http://baohoabinh.com.vn/289/123931/Xa-Dong-Bang,-phat-huy-loi-the-tr111ng-phat-trien-ben-Quoc-lo-6.htm|tựa đề=Xã Đồng Bảng, phát huy lợi thế trong phát triển bên Quốc lộ 6|tác giả=|họ=|tên=|ngày=2018-11-27|website=Báo Hòa Bình điện tử|url lưu trữ=|ngày lưu trữ=|ngày truy cập=}}</ref>
+
+Xã Tân Sơn được thành lập vào ngày [[27 tháng 3]] năm [[1999]] trên cơ sở 1.695,6 ha diện tích tự nhiên và 1.090 người của xã Bao La.<ref>{{Chú thích web|url=https://thuvienphapluat.vn/van-ban/bat-dong-san/Nghi-dinh-15-1999-ND-CP-dieu-chinh-dia-gioi-hanh-chinh-va-thanh-lap-thi-tran-xa-cua-cac-huyen-Kim-Boi-Mai-Chau-Lac-Son-va-Yen-Thuy-tinh-Hoa-Binh-45162.aspx|tựa đề=Nghị định số 15/1999/NĐ-CP về việc điều chỉnh địa giới hành chính và thành lập thị trấn, xã của các huyện Kim Bôi, Mai Châu, Lạc Sơn và Yên Thủy, tỉnh Hòa Bình|tác giả=|họ=|tên=|ngày=|website=|url lưu trữ=|ngày lưu trữ=|ngày truy cập=}}</ref>
+
+Đến năm 2018, xã Đồng Bảng có diện tích 27,48&nbsp;km², dân số là 1.547 người, mật độ dân số đạt 56 người/km², gồm 1 tiểu khu và 4 xóm: Đồng Bảng, Bâng, Vắt, Phiêng Xa. Xã Tân Sơn có diện tích 11,61&nbsp;km², dân số là 1.147 người, mật độ dân số đạt 99 người/km².
+
+Ngày [[17 tháng 12]] năm [[2019]], Ủy ban Thường vụ Quốc hội ban hành Nghị quyết số 830/NQ-UBTVQH14 về việc sắp xếp các đơn vị hành chính cấp huyện, cấp xã thuộc tỉnh Hòa Bình (nghị quyết có hiệu lực từ ngày [[1 tháng 1]] năm [[2020]]).<ref name=NQ830>{{Chú thích web|url=https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/Nghi-quyet-830-NQ-UBTVQH14-2019-sap-xep-don-vi-hanh-chinh-cap-huyen-xa-thuoc-tinh-Hoa-Binh-432100.aspx|tựa đề=Nghị quyết số 830/NQ-UBTVQH14 năm 2019 về việc sắp xếp các đơn vị hành chính cấp huyện, cấp xã thuộc tỉnh Hòa Bình|tác giả=|họ=|tên=|ngày=|website=|url lưu trữ=|ngày lưu trữ=|ngày truy cập=}}</ref> Theo đó, sáp nhập toàn bộ diện tích và dân số của xã Đồng Bảng và xã Tân Sơn thành xã Đồng Tân.
+ -->
+
+== Du lịch ==
+Dựa vào cảnh quan thiên nhiên đẹp đẽ, hoạt động du lịch ở Hang Kia đang dần đổi sắc. Hang Kia là nơi săn mây nổi tiếng tại miền Bắc cùng với Tà Xùa. 
+[[Tập tin:Săn Mây tại Hang Kia.jpg|không|nhỏ|379x379px|Hang Kia - một trong những địa điểm săn mây lý tưởng tại miền Bắc]]
+Ngoài ra văn hóa dân tộc cũng được trú trọng, tạo nên nhiều trải nghiệm giúp khách du lịch<ref>{{Chú thích web|url=https://farwego.vn/news/kham-pha-hang-kia-pa-co|tựa đề=Hoạt động trải nghiệm du lịch tại Hang Kia Pà Cò|tác giả=|họ=|tên=|ngày=|website=|url lưu trữ=|ngày lưu trữ=|ngày truy cập=}}{{Liên kết hỏng|date=2025-09-27 |bot=InternetArchiveBot }}</ref> làm quen và khám phá cuộc sống của người dân bản địa. Trong đó có nhiều hoạt động rất hấp dẫn như:
+
+* Trải nghiệm thử vẽ tranh bằng sáp ong. 
+* Thử tài thêu thùa, dệt thổ cẩm, nhuộm chàm cùng các chị em phụ nữ dân tộc H’Mông. 
+* Giã bánh dày truyền thống cùng đồng bào H’Mông.
+* Tìm hiểu cách làm giấy truyền thống bằng cây Giang của người dân bản địa. 
+* Lái xe dọc theo những cung đường núi quanh co ở thung lũng Hang Kia. 
+* Thưởng thức các món đặc sản đặc trưng của nơi đây như lợn mán đen, gà thả đồi, cá suối, hay các món rau rừng vừa sạch vừa ngon. Đặc biệt là món măng lay chấm cùng món nước chấm truyền thống có một không hai tại Hang Kia.
+
+==Chú thích==
+{{tham khảo|30em}}
+
+==Tham khảo==
+
+{{sơ khai Phú Thọ}}
+{{Đơn vị hành chính thuộc tỉnh Phú Thọ}}

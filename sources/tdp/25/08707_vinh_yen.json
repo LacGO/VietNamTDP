@@ -1,0 +1,176 @@
+{
+  "ward_code": "08707",
+  "ward_name": "Vĩnh Yên",
+  "province_code": "25",
+  "resolution": "",
+  "arrangement": "2026_07",
+  "effective_date": "2026-07-01",
+  "verified": "unverified",
+  "extraction": {
+    "source": "vi.wikipedia.org",
+    "title": "Vĩnh Yên (phường)",
+    "mode": "narrative"
+  },
+  "sources": [
+    {
+      "key": "wiki-08707-1",
+      "title": "Nghị quyết số 21/NQ-HĐND về việc sắp xếp, đổi tên các Tổ dân phố trên địa bàn phường Vĩnh Yên",
+      "url": "https://vinhyen.phutho.gov.vn/images/Nam_2026/T6/nq21.pdf",
+      "date": "6/25/2026",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-08707-2",
+      "title": "Nghị quyết số 2/NQ-UBBC về việc công bố danh sách những người ứng cử đại biểu Hội đồng nhân dân phường Vĩnh Yên nhiệm kỳ 2026 - 2031 theo từng đơn vị bầu cử",
+      "url": "https://vinhyen.phutho.gov.vn/images/Nam_2026/T3/NQ_02.pdf",
+      "date": "2026-02-13",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-08707-3",
+      "title": "TOÀN VĂN: Nghị quyết số 202/2025/QH15 về sắp xếp đơn vị hành chính cấp tỉnh",
+      "url": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-202-2025-qh15-ve-sap-xep-don-vi-hanh-chinh-cap-tinh-119250612174148722.htm",
+      "date": "2025-07-16",
+      "type": "wikipedia-ref"
+    }
+  ],
+  "note": "Trích tự động từ Wikipedia tiếng Việt (mode=narrative). Cần đối chiếu nghị quyết HĐND phường/xã.",
+  "tdp": [
+    {
+      "name": "An Phú",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Cả",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Đòai",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Đông",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Đông Cường",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Đông Hòa",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Đông Hợp",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Đông Hưng",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Đông Nghĩa",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Đông Nhân",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Đông Phú",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Đông Qúy",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Đông Thành",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Đông Thịnh",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Đồng Khâu",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Hội Hợp",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Hội Thượng",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Hùng Vương",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Lạc Ý 1",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Lạc Ý 2",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Lai Sơn",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Lam Sơn",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Nam Đồng",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Núi",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Quán Tiên",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Tích Sơn",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Tiên Sơn",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Thanh Trù",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Trà",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Vị Trù",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Vĩnh Ninh",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Vĩnh Thịnh",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Vĩnh Thịnh 1",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Yên",
+      "type": "tổ dân phố"
+    }
+  ]
+}

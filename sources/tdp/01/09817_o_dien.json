@@ -1,0 +1,132 @@
+{
+  "ward_code": "09817",
+  "ward_name": "Ô Diên",
+  "province_code": "01",
+  "resolution": "",
+  "arrangement": "2026_07",
+  "effective_date": "2026-07-01",
+  "verified": "unverified",
+  "extraction": {
+    "source": "vi.wikipedia.org",
+    "title": "(cache)",
+    "mode": "table"
+  },
+  "sources": [
+    {
+      "key": "wiki-09817-1",
+      "title": "Nghị quyết số 1656/NQ-UBTVQH15 ngày 16 tháng 6 năm 2025 của Ủy ban Thường vụ Quốc hội về việc sắp xếp các đơn vị hành chính cấp xã của thành phố Hà Nội năm 2025",
+      "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf",
+      "date": "2026-06-30",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-09817-2",
+      "title": "Nghị quyết số 19/NQ-CP ngày 8 tháng 5 năm 2009 của Chính phủ về việc xác lập địa giới hành chính xã Đông Xuân thuộc huyện Quốc Oai; các xã Tiến Xuân, Yên Bình, Yên Trung thuộc huyện Thạch Thất; huyện Mê Linh thuộc thành phố Hà Nội; thành lập quận Hà Đông và các phường trực thuộc; chuyển thành phố Sơn Tây thành thị xã Sơn Tây thuộc thành phố Hà Nội",
+      "url": "https://chinhphu.vn/default.aspx?pageid=27160&docid=86463",
+      "date": "2026-07-06",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-09817-3",
+      "title": "Bản đồ ranh giới thôn, tổ dân phố trước và sau sắp xếp xã Ô Diên, thành phố Hà Nội",
+      "url": "https://sqhx-hanoi.mediacdn.vn/91579363132710912/2026/6/16/dien-tich-23-cum-model-p-1781641212214349237838.pdf",
+      "date": "2026-06-16",
+      "type": "wikipedia-ref"
+    }
+  ],
+  "note": "Trích tự động từ Wikipedia tiếng Việt (mode=table). Cần đối chiếu nghị quyết HĐND phường/xã.",
+  "tdp": [
+    {
+      "name": "Tân Lập",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Tân Tây Đô",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Bá Dương Nội",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Bá Giang",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Bồng Lai",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Duyên Thành",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Đan Hội",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Hạ Hội",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Hạ Mỗ",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Hạ Trì",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Hạnh Đàn",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Kim Ngọc",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Liên Hà",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Liên Hồng",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Liên Trung",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Ngọc Kiệu",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Phan Long",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Thúy Hội",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Thượng Hội",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Thượng Thôn",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Thượng Trì",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Tiên Tân",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Vĩnh Kỳ",
+      "type": "tổ dân phố"
+    }
+  ]
+}

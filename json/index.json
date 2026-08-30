@@ -1,0 +1,14 @@
+[
+  {
+    "province_code": "01",
+    "file": "ha_noi.json",
+    "wards": 126,
+    "tdp": 2613
+  },
+  {
+    "province_code": "25",
+    "file": "phu_tho.json",
+    "wards": 148,
+    "tdp": 3607
+  }
+]

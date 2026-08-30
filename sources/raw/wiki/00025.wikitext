@@ -1,0 +1,163 @@
+{{Thông tin đơn vị hành chính Việt Nam |Phường
+| tên = Giảng Võ
+| hình = Nhà tập thể, Nguyên Hồng, Hà Nội 001.JPG
+| ghi chú hình = Phố Nguyên Hồng
+| vĩ độ = 21.029939641482336
+| kinh độ = 105.81057568461017
+| diện tích = 2,6 km²
+| dân số = 97.034 người
+| thời điểm dân số = 2025
+| mật độ dân số = {{formatnum:{{#expr:floor({{formatnum:97.034| R}}/{{formatnum:2,6| R}})}} }} người/km²
+| vùng = [[Đồng bằng sông Hồng]]
+| thành phố = [[Hà Nội]]
+| trụ sở UBND = Số 525, phố Kim Mã<ref>{{Chú thích web |url=https://storage-vnportal.vnpt.vn/gov-hni/6244/VanBan/2025/6/25/TB-729-2025.pdf |title=Thông báo số 729/TB-UBND ngày 25 tháng 6 năm 2025 của Ủy ban nhân dân thành phố Hà Nội về địa điểm trụ sở làm việc của 126 phường, xã sau sắp xếp thuộc phạm vi quản lý của thành phố Hà Nội|access-date=2026-06-15 |archive-date=2026-06-15 |archive-url=https://web.archive.org/web/20260615034519/https://storage-vnportal.vnpt.vn/gov-hni/6244/VanBan/2025/6/25/TB-729-2025.pdf |url-status=dead | website = Cổng Thông tin điện tử Ủy ban nhân dân thành phố Hà Nội}}</ref>
+| mã hành chính =00025<ref>{{Chú thích web |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/19ttg.signed.pdf |title=Quyết định số 19/2025/QĐ-TTg ngày 30 tháng 6 năm 2025 của Thủ tướng Chính phủ về việc Ban hành Bảng danh mục và mã số các đơn vị hành chính Việt Nam |access-date=2026-06-15 |archive-date=2026-06-15 |archive-url=https://web.archive.org/web/20260615034519/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/19ttg.signed.pdf |url-status=dead | website = Cổng Thông tin điện tử Chính phủ}}</ref> 
+|trụ sở Đảng ủy=Số 9, phố Thành Công|web={{url|giangvo.hanoi.gov.vn}}}}
+'''Giảng Võ''' là một [[Phường (Việt Nam)|phường]] thuộc thành phố [[Hà Nội]], [[Việt Nam]].
+
+== Địa lý== 
+Phường Giảng Võ có vị trí địa lý:
+*Phía đông giáp phường [[Ô Chợ Dừa (phường)|Ô Chợ Dừa]] (ranh giới đi theo phố Giảng Võ – phố Láng Hạ)
+*Phía tây giáp phường [[Nghĩa Đô (phường)|Nghĩa Đô]] (ranh giới đi theo đường [[sông Tô Lịch]])
+*Phía nam giáp phường [[Láng (phường)|Láng]] (ranh giới đi theo phố Huỳnh Thúc Kháng – Nguyễn Chí Thanh – đường La Thành)
+* Phía bắc giáp phường [[Ngọc Hà]] và phường [[Ba Đình (phường)|Ba Đình]] (ranh giới đi theo phố Phan Kế Bính – Liễu Giai – Đào Tấn – Kim Mã – đường Nguyễn Thái Học).<ref>{{Chú thích web |last=Báo Điện tử Chính phủ|date=2025-04-28|title=Chi tiết dự thảo phương án sắp xếp các phường của Hà Nội|url=https://xaydungchinhsach.chinhphu.vn/chi-tiet-du-thao-phuong-an-sap-xep-cac-phuong-cua-ha-noi-119250421100531902.htm|url-status=live|archive-url=https://web.archive.org/web/20260710401509/https://xaydungchinhsach.chinhphu.vn/chi-tiet-du-thao-phuong-an-sap-xep-cac-phuong-cua-ha-noi-119250421100531902.htm|archive-date=2026-07-10|access-date=2026-07-10|website=Xây dựng chính sách, pháp luật}}</ref><ref>{{Chú thích web |last=Viện nghiên cứu Phát triển kinh tế – xã hội Hà Nội|date=2025-07-02|title=Phường Giảng Võ: Những thông tin chi tiết sau sắp xếp|url=https://hanoionline.vn/phuong-giang-vo-nhung-thong-tin-chi-tiet-sau-sap-xep-344059.htm|url-status=dead|archive-url=https://web.archive.org/web/20260816400809/https://hanoionline.vn/phuong-giang-vo-nhung-thong-tin-chi-tiet-sau-sap-xep-344059.htm|archive-date=2026-08-16|access-date=2026-08-16|website=Cơ quan Báo và Phát thanh Truyền hình Hà Nội}}</ref><ref>{{Chú thích web |last=Cơ quan Báo và Phát thanh Truyền hình Hà Nội |date=2025-07-04 |title=Phường Giảng Võ: Tất cả thông tin và thủ tục cần biết |url=https://hanoionline.vn/phuong-giang-vo-tat-ca-thong-tin-va-thu-tuc-can-biet-344690.htm |url-status=dead |archive-url=https://web.archive.org/web/20260816401509/https://hanoionline.vn/phuong-giang-vo-tat-ca-thong-tin-va-thu-tuc-can-biet-344690.htm |archive-date=2026-08-16 |access-date=2026-08-16}}</ref>
+Phường Giảng Võ có diện tích tự nhiên là 2,6&nbsp;km<sup>2</sup>, quy mô dân số năm 2025 là 97.034 người và mật độ dân số đạt 37.320 người/km<sup>2</sup>.<ref>{{Chú thích web |last=Mai Hữu |date=2026-04-05 |title=Hà Nội: Chi tiết phương án tổng thể sắp xếp đơn vị hành chính cấp xã |url=https://hanoimoi.vn/ha-noi-chi-tiet-phuong-an-tong-the-sap-xep-don-vi-hanh-chinh-cap-xa-700278.html |url-status=live |archive-url=https://web.archive.org/web/20260711401509/https://hanoimoi.vn/ha-noi-chi-tiet-phuong-an-tong-the-sap-xep-don-vi-hanh-chinh-cap-xa-700278.html |archive-date=2026-07-11 |access-date=2026-07-11 |website=Cơ quan Báo và Phát thanh, truyền hình Hà Nội}}</ref><ref>Công văn số 2896/BNV-CQĐP ngày 27 tháng 5 năm 2025 của Bộ Nội vụ về việc cung cấp thông tin danh mục dự kiến đơn vị hành chính cấp xã mới.</ref>[[hình:Phố Cát Linh, Hà Nội 002.JPG|thumb| trái| Phố Cát Linh năm 2022]]
+== Lịch sử==
+
+=== Trước năm 1976 ===
+Ngày 21 tháng 12 năm 1974, UBND TP. Hà Nội ban hành Quyết định<ref>Quyết định về việc thành lập các tiểu khu thuộc các khu phố, thành phố Hà Nội.</ref> về việc thành lập tiểu khu Giảng Võ thuộc khu phố Ba Đình.
+
+=== Giai đoạn 1976 – nay ===
+Sau ngày 2 tháng 7 năm 1976, 5 tiểu khu: Cầu Giấy, Cống Vị, Giảng Võ, Kim Mã và Thành Công thuộc khu phố [[Ba Đình (quận)|Ba Đình]]; 2 tiểu khu: Cát Linh và Láng Hạ thuộc khu phố [[Đống Đa (quận)|Đống Đa]] của thành phố [[Hà Nội]].
+
+Ngày 3 tháng 1 năm 1981, từ nay ở nội thành, đơn vị hành chính cấp dưới trực tiếp của [[Thành phố trực thuộc trung ương (Việt Nam)|thành phố trực thuộc trung ương]] đều thống nhất gọi là [[Quận (Việt Nam)|quận]]; các đơn vị hành chính cơ sở ở nội thành, nội thị của các [[Thành phố thuộc tỉnh (Việt Nam)|thành phố thuộc tỉnh]], [[Thị xã (Việt Nam)|thị xã]] và [[Quận (Việt Nam)|quận]] gọi là [[Phường (Việt Nam)|phường]]. Khi đó, 5 phường: Cầu Giấy, Cống Vị, Giảng Võ, Kim Mã và Thành Công thuộc quận [[Ba Đình (quận)|Ba Đình]]; 2 phường: Cát Linh và Láng Hạ thuộc quận [[Đống Đa (quận)|Đống Đa]].<ref>Quyết định số 3-CP ngày 3 tháng 1 năm 1981 của Hội đồng Chính phủ về việc thống nhất tên gọi các đơn vị hành chính ở nội thành nội thị.</ref>
+
+Ngày 22 tháng 11 năm 1996, đổi tên phường Cầu Giấy thành phường Ngọc Khánh.<ref>{{Chú thích web |title=Nghị định số 74-CP ngày 22 tháng 11 năm 1996 của Chính phủ về việc thành lập quận Thanh Xuân, quận Cầu Giấy, thành lập và đổi tên một số phường thuộc thành phố Hà Nội |url=https://chinhphu.vn/default.aspx?pageid=27160&docid=3229 |url-status=dead |archive-url=https://web.archive.org/web/20260818061807/https://chinhphu.vn/default.aspx?pageid=27160&docid=3229 |archive-date=2026-08-18 |access-date=2026-08-18 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+
+Ngày 5 tháng 1 năm 2005:
+
+* Điều chỉnh 01 ha diện tích tự nhiên và 200 nhân khẩu của phường Cống Vị về phường Ngọc Khánh quản lý.
+* Điều chỉnh 5,58 ha diện tích tự nhiên và 805 nhân khẩu của phường Ngọc Khánh về phường Cống Vị quản lý.<ref>{{Chú thích web |title=Nghị định số 2/2005/NĐ-CP ngày 5 tháng 1 năm 2005 của Chính phủ về việc điều chỉnh địa giới hành chính, thành lập phường thuộc các quận Ba Đình, Cầu Giấy và thành lập thị trấn Trâu Quỳ, huyện Gia Lâm, thành phố Hà Nội |url=https://chinhphu.vn/default.aspx?pageid=27160&docid=14306 |url-status=dead |archive-url=https://web.archive.org/web/20260818201510/https://chinhphu.vn/default.aspx?pageid=27160&docid=14306 |archive-date=2026-08-18 |access-date=2026-08-18 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+
+Ngày 16 tháng 6 năm 2025:
+
+* Kết thúc hoạt động của đơn vị hành chính cấp huyện trong cả nước.<ref>{{Chú thích web |last= |date= |title=Nghị quyết số 203/2025/QH15 ngày 16 tháng 6 năm 2025 của Quốc hội khóa XV, Kỳ họp thứ 9 về việc sửa đổi, bổ sung một số điều của Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/nq-sua-doi-hien-phap.pdf |url-status=live |archive-url=https://web.archive.org/web/20260613090807/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/nq-sua-doi-hien-phap.pdf |archive-date=2026-06-13 |access-date=2026-06-13 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+* Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của phường Giảng Võ (quận [[Ba Đình (quận)|Ba Đình]]), một phần diện tích tự nhiên, quy mô dân số của các phường Cát Linh, Láng Hạ (quận [[Đống Đa (quận)|Đống Đa]]), Ngọc Khánh, Thành Công, phần còn lại của phường Cống Vị và phần còn lại của phường Kim Mã (quận [[Ba Đình (quận)|Ba Đình]]) thành phường mới có tên gọi là phường Giảng Võ.<ref>{{Chú thích web |title=Nghị quyết số 1656/NQ-UBTVQH15 ngày 16 tháng 6 năm 2025 của Ủy ban Thường vụ Quốc hội về việc sắp xếp các đơn vị hành chính cấp xã của thành phố Hà Nội năm 2025 |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf |url-status=live |archive-url=https://web.archive.org/web/20260630400809/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf |archive-date=2026-06-30 |access-date=2026-06-30 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+Ngày 15 tháng 7 năm 2025, thành lập, đặt tên 1 tổ dân phố mới trên cơ sở sắp xếp, tổ chức lại tổ dân phố số 7 thuộc phường Cát Linh (cũ) với một phần tổ dân phố số 10 thuộc phường Kim Mã (cũ); đổi tên 70 tổ dân phố hiện có trên địa bàn phường Giảng Võ. Sau khi sắp xếp, phường Giảng Võ được chia thành 71 tổ dân phố.<ref>71 tổ dân phố: 1A, 1B, từ 2 đến 4, 5A, 5B, từ 6 đến 13, 14A, 14B, 15, 16A, 16B, từ 17 đến 21, 22A, 22B, từ 23 đến 26, 27A, 27B, 28, 29, 30A, 30B, 30C, từ 31 đến 37, 38A, 38B, 39A, 39B, 40A, 40B, 40C, 41A, 41B, 42A, 42B, 43A, 43B, 44A, 44B, 45, 46A, 46B, 47, 48A, 48B, 49A, 49B, 50A, 50B và 50C.</ref><ref>{{Chú thích web |title=Thông tư số 10/2022/TT-BTNMT ngày 29 tháng 9 năm 2022 của Bộ Tài nguyên và Môi trường về việc Ban hành Danh mục địa danh dân cư, sơn văn, thủy văn, kinh tế – xã hội phục vụ công tác thành lập bản đồ thành phố Hà Nội |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2022/10/10-btnmt.pdf |url-status=live |archive-url=https://web.archive.org/web/20260630400809/https://datafiles.chinhphu.vn/cpp/files/vbpq/2022/10/10-btnmt.pdf |archive-date=2026-06-30 |access-date=2026-06-30 |website=Cổng Thông tin điện tử Chính phủ}}</ref><ref>{{Chú thích web |last=Phòng Văn hóa – Xã hội phường Giảng Võ |date=2025-07-15 |title=Đại đa số cử tri đồng ý sắp sếp và đổi tên tổ dân phố trên địa bàn phường Giảng Võ |url=https://giangvo.hanoi.gov.vn/thong-tin-cong-khai/dai-da-so-cu-tri-dong-y-sap-sep-va-doi-ten-to-dan-pho-tren-dia-ban-phuong-giang-vo-2808250713100949609.htm |url-status=dead |archive-url=https://web.archive.org/web/20260817201510/https://giangvo.hanoi.gov.vn/thong-tin-cong-khai/dai-da-so-cu-tri-dong-y-sap-sep-va-doi-ten-to-dan-pho-tren-dia-ban-phuong-giang-vo-2808250713100949609.htm |archive-date=2026-08-17 |access-date=2026-08-17 |website=Trang Thông tin điện tử phường Giảng Võ – thành phố Hà Nội}}</ref><ref>{{Chú thích web |last=Mai Hữu |date=2025-07-15 |title=Hội đồng nhân dân phường Giảng Võ quyết nghị đổi tên 70 tổ dân phố |url=https://hanoimoi.vn/hdnd-phuong-giang-vo-quyet-nghi-doi-ten-70-to-dan-pho-709132.html |url-status=dead |archive-url=https://web.archive.org/web/20260817400809/https://hanoimoi.vn/hdnd-phuong-giang-vo-quyet-nghi-doi-ten-70-to-dan-pho-709132.html |archive-date=2026-08-17 |access-date=2026-08-17 |website=Cơ quan Báo và Phát thanh, truyền hình Hà Nội}}</ref><ref>{{Chú thích web |last=Ủy ban bầu cử phường Giảng Võ |date=2026-02-23 |title=Danh sách chính thức những người ứng cử đại biểu Hội đồng nhân dân phường Giảng Võ khóa II nhiệm kỳ 2026 – 2031 |url=https://giangvo.hanoi.gov.vn/bau-cu-quoc-hoi-va-hdnd-nhiem-ky-2026-2031/cong-bo-danh-sach-chinh-thuc-nhung-nguoi-ung-cu-dai-bieu-hdnd-phuong-giang-vo-khoa-ii-nhiem-ky-2026-2031-2808260227211311486.htm |url-status=dead |archive-url=https://web.archive.org/web/20260817201510/https://giangvo.hanoi.gov.vn/bau-cu-quoc-hoi-va-hdnd-nhiem-ky-2026-2031/cong-bo-danh-sach-chinh-thuc-nhung-nguoi-ung-cu-dai-bieu-hdnd-phuong-giang-vo-khoa-ii-nhiem-ky-2026-2031-2808260227211311486.htm |archive-date=2026-08-17 |access-date=2026-08-17 |website=Trang Thông tin điện tử phường Giảng Võ – thành phố Hà Nội}}</ref>
+
+Ngày 24 tháng 12 năm 2025, xác định phường Giảng Võ là [[Đô thị Việt Nam|đô thị loại II]].<ref>Chuyển tiếp từ 5 phường: Cống Vị, Giảng Võ, Kim Mã, Ngọc Khánh, Thành Công thuộc quận Ba Đình và 2 phường: Cát Linh, Láng Hạ thuộc quận Đống Đa.</ref><ref>{{Chú thích web |title=Nghị quyết số 111/2025/UBTVQH15 ngày 24 tháng 12 năm 2025 của Ủy ban Thường vụ Quốc hội về phân loại đô thị |url=https://cdn.nhandan.vn/files/f4a4abf7f9a0ba4a91744616546d850872b76917f90d5a74cc9eebef1369fb6f/111.pdf |url-status=dead |archive-url=https://web.archive.org/web/20260430074852/https://cdn.nhandan.vn/files/f4a4abf7f9a0ba4a91744616546d850872b76917f90d5a74cc9eebef1369fb6f/111.pdf |archive-date=2026-04-30 |access-date=2026-07-12 |website=Báo Nhân dân}}</ref>
+
+Ngày 25 tháng 6 năm 2026, thành lập 24 tổ dân phố mới, đánh số từ 1 đến 8 và từ 10 đến 25; đổi tên tổ dân phố 21 thành tổ dân phố 9.<ref>1. Tổ dân phố số 1 gồm các tổ dân phố: 1A, 1B, 5B, 6; 2. Tổ dân phố số 2 gồm các tổ dân phố: 2, 3, 4, 5A; 3. Tổ dân phố số 3 gồm các tổ dân phố: 7, 8, 9; 4. Tổ dân phố số 4 gồm các tổ dân phố: 10, 11, 12; 5. Tổ dân phố số 5 gồm các tổ dân phố: 17, 18; 6. Tổ dân phố số 6 gồm các tổ dân phố: 13, 14A; 7. Tổ dân phố số 7 gồm các tổ dân phố: 14B, 15, 16A, 16B; 8. Tổ dân phố số 8 gồm các tổ dân phố: 19, 20; 9. Tổ dân phố số 9 gồm tổ dân phố 21; 10. Tổ dân phố số 10 gồm các tổ dân phố: 32, 33; 11. Tổ dân phố số 11 gồm các tổ dân phố: 34, 35; 12. Tổ dân phố số 12 gồm các tổ dân phố: 36, 37; 13. Tổ dân phố số 13 gồm các tổ dân phố: 22A, 22B, 23; 14. Tổ dân phố số 14 gồm các tổ dân phố: 24, 25, Tổ hợp công trình 148 Giảng Võ; 15. Tổ dân phố số 15 gồm các tổ dân phố: 26, 28; 16. Tổ dân phố số 16 gồm các tổ dân phố: 27A, 27B, 29; 17. Tổ dân phố số 17 gồm các tổ dân phố: 30A, 30B, 30C, 31; 18. Tổ dân phố số 18 gồm các tổ dân phố: 38A, 38B, 41A, 50A; 19. Tổ dân phố số 19 gồm các tổ dân phố: 39A, 39B, 50B; 20. Tổ dân phố số 20 gồm các tổ dân phố: 40A, 40B, 40C, 50C; 21. Tổ dân phố số 21 gồm các tổ dân phố: 44A, 44B, 45 (16 Láng Hạ); 22. Tổ dân phố số 22 gồm các tổ dân phố: 43A, 43B; 23. Tổ dân phố số 23 gồm các tổ dân phố: 41B, 42A, 42B; 24. Tổ dân phố số 24 gồm các tổ dân phố: 47, 49A, 49B; 25. Tổ dân phố số 25 gồm các tổ dân phố: 46A, 46B, 48A, 48B.</ref><ref>{{Chú thích web |last=Ủy ban Mặt trận Tổ quốc Việt Nam phường Giảng Võ |date=2026-06-17 |title=Đề án sắp xếp tổ dân phố phường Giảng Võ |url=https://web.facebook.com/photo?fbid=122183486030929058&set=pcb.122183486060929058 |url-status=dead |archive-url=https://web.archive.org/web/20260817201510/https://web.facebook.com/photo?fbid=122183486030929058&set=pcb.122183486060929058 |archive-date=2026-08-17 |access-date=2026-08-17 |website=Mặt trận phường Giảng Võ – Thành phố Hà Nội}}</ref><ref name=":02">{{Chú thích web |last=Ủy ban Mặt trận Tổ quốc Việt Nam phường Giảng Võ |date=2026-06-17 |title=Phương án sắp xếp và đổi tên tổ dân phố phường Giảng Võ năm 2026 |url=https://web.facebook.com/photo?fbid=122183485946929058&set=pcb.122183486060929058 |url-status=dead |archive-url=https://web.archive.org/web/20260817400809/https://web.facebook.com/photo?fbid=122183485946929058&set=pcb.122183486060929058 |archive-date=2026-08-17 |access-date=2026-08-17 |website=Mặt trận phường Giảng Võ – Thành phố Hà Nội}}</ref><ref name=":1">{{Chú thích web |last=Phương Nhung |date=2026-07-06 |title=Phường Giảng Võ khẩn trương kiện toàn tổ chức, đưa 25 tổ dân phố mới vận hành ổn định |url=https://thanhuyhanoi.vn/tin-tuc/phuong-giang-vo/phuong-giang-vo-khan-truong-kien-toan-to-chuc-dua-25-to-dan-pho-moi-van-hanh-on-dinh-50047838.html |url-status=dead |archive-url=https://web.archive.org/web/20260817400809/https://thanhuyhanoi.vn/tin-tuc/phuong-giang-vo/phuong-giang-vo-khan-truong-kien-toan-to-chuc-dua-25-to-dan-pho-moi-van-hanh-on-dinh-50047838.html |archive-date=2026-08-17 |access-date=2026-08-17 |website=Trang Thông tin điện tử Đảng bộ thành phố Hà Nội}}</ref>
+
+== Hành chính==
+Phường Giảng Võ được chia thành 25 tổ dân phố, đánh số từ 1 đến 25.<ref name=":02" /><ref name=":1" />
+{| class="wikitable sortable" cellpadding="0" cellspacing="6" width="100%" align="center" style="background: #f9f9f9; border: 1px #aaa solid; margin-top: 16px"
+! colspan="4" style="background: #E6E6FA; font-size: 95%;" |Danh sách các tổ dân phố thuộc phường Giảng Võ<ref name=":02" /><ref name=":1" />
+|-
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| cellpadding="1" cellspacing="1" width="100%" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Tổ dân phố 1
+|1.261
+|-
+| align="left" |Tổ dân phố 2
+|1.080
+|-
+| align="left" |Tổ dân phố 3
+|1.394
+|-
+| align="left" |Tổ dân phố 4
+|1.489
+|-
+| align="left" |Tổ dân phố 5
+|841
+|-
+| align="left" |Tổ dân phố 6
+|1.026
+|-
+| align="left" |Tổ dân phố 7
+|1.303
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| cellpadding="1" cellspacing="1" width="100%" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Tổ dân phố 8
+|743
+|-
+| align="left" |Tổ dân phố 9
+|729
+|-
+| align="left" |Tổ dân phố 10
+|724
+|-
+| align="left" |Tổ dân phố 11
+|787
+|-
+| align="left" |Tổ dân phố 12
+|764
+|-
+| align="left" |Tổ dân phố 13
+|1.056
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| cellpadding="1" cellspacing="1" width="100%" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Tổ dân phố 14
+|700
+|-
+| align="left" |Tổ dân phố 15
+|853
+|-
+| align="left" |Tổ dân phố 16
+|1.104
+|-
+| align="left" |Tổ dân phố 17
+|836
+|-
+| align="left" |Tổ dân phố 18
+|984
+|-
+| align="left" |Tổ dân phố 19
+|705
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| cellpadding="1" cellspacing="1" width="100%" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Tổ dân phố 20
+|849
+|-
+| align="left" |Tổ dân phố 21
+|1.121
+|-
+| align="left" |Tổ dân phố 22
+|854
+|-
+| align="left" |Tổ dân phố 23
+|978
+|-
+| align="left" |Tổ dân phố 24
+|1.175
+|-
+| align="left" |Tổ dân phố 25
+|986
+|}
+|}
+
+==Hình ảnh==
+[[File:Công viên Thủ Lệ.JPG|thumb|[[Công viên Thủ Lệ]]]]
+[[File:Lotte Tower Hanoi 2 - NKS.jpg|thumb|[[Lotte Center Hà Nội]]]]
+
+== Chú thích==
+{{tham khảo| 30em}}
+
+== Tham khảo ==
+{{Sơ khai Hà Nội}}
+{{Đơn vị hành chính thuộc thành phố Hà Nội}}

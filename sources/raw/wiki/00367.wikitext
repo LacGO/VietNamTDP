@@ -1,0 +1,291 @@
+{{Thông tin đơn vị hành chính Việt Nam|Phường|tên=Thanh Xuân
+|ghi chú hình=Lễ hội tại phố Quan Nhân thuộc phường Thanh Xuân
+|vùng=[[Đồng bằng sông Hồng]]
+|thành phố=[[Hà Nội]]
+|trụ sở UBND=Số 9, đường Khuất Duy Tiến<ref>{{Chú thích web |url=https://storage-vnportal.vnpt.vn/gov-hni/6244/VanBan/2025/6/25/TB-729-2025.pdf |title=Thông báo số 729/TB-UBND ngày 25 tháng 6 năm 2025 của Ủy ban nhân dân thành phố Hà Nội về địa điểm trụ sở làm việc của 126 phường, xã sau sắp xếp thuộc phạm vi quản lý của thành phố Hà Nội|access-date=2026-06-15 |archive-date=2026-06-15 |archive-url=https://web.archive.org/web/20260615034519/https://storage-vnportal.vnpt.vn/gov-hni/6244/VanBan/2025/6/25/TB-729-2025.pdf |url-status=dead | website = Cổng Thông tin điện tử Ủy ban nhân dân thành phố Hà Nội}}</ref>
+|hình=Lễ hội làng Mọc-Quan Nhân-Thanh Xuân-Hà Nội.png
+| diện tích = 3,24 km²
+| dân số = 106.316 người
+| thời điểm dân số = 2025
+| mật độ dân số = {{formatnum:{{#expr:floor({{formatnum:106.316|R}}/{{formatnum:3,24|R}})}} }} người/km²
+|kinh độ=105.79965418465571
+|vĩ độ=20.994949239813195
+|bản đồ 1=[[File:Thanh Xuan map.png|300px]]
+|tựa bản đồ 1=Bản đồ phường Thanh Xuân
+|trụ sở Đảng ủy=Số 9, đường Khuất Duy Tiến|mã hành chính=00367<ref>{{Chú thích web |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/19ttg.signed.pdf |title=Quyết định số 19/2025/QĐ-TTg ngày 30 tháng 6 năm 2025 của Thủ tướng Chính phủ về việc Ban hành Bảng danh mục và mã số các đơn vị hành chính Việt Nam |access-date=2026-06-15 |archive-date=2026-06-15 |archive-url=https://web.archive.org/web/20260615034519/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/19ttg.signed.pdf |url-status=dead | website = Cổng Thông tin điện tử Chính phủ}}</ref>|web={{url|thanhxuan.hanoi.gov.vn}}}}
+{{other|Thanh Xuân (định hướng)}}
+'''Thanh Xuân''' là một [[Phường (Việt Nam)|phường]] thuộc thành phố [[Hà Nội]], [[Việt Nam]].
+
+== Địa lý ==
+Phường Thanh Xuân có vị trí địa lý:
+
+* Phía đông giáp phường [[Đống Đa (phường)|Đống Đa]] và phường [[Khương Đình]] (ranh giới đi theo đường Nguyễn Trãi – [[sông Tô Lịch]])
+* Phía tây giáp phường [[Đại Mỗ]] (ranh giới đi theo đường Lương Thế Vinh – phố Tố Hữu – đường Khuất Duy Tiến)
+* Phía nam giáp phường [[Khương Đình]] và phường [[Thanh Liệt]] (ranh giới đi theo đường Nguyễn Trãi)
+* Phía bắc giáp phường [[Yên Hòa (phường)|Yên Hòa]] (ranh giới đi từ phố Hoàng Ngân – phố Hoàng Minh Giám – đường Lê Văn Lương).<ref>{{Chú thích web |last=Báo Điện tử Chính phủ |date=2025-04-28 |title=Chi tiết dự thảo phương án sắp xếp các phường của Hà Nội |url=https://xaydungchinhsach.chinhphu.vn/chi-tiet-du-thao-phuong-an-sap-xep-cac-phuong-cua-ha-noi-119250421100531902.htm |url-status=dead |archive-url=https://web.archive.org/web/20260316174230/https://xaydungchinhsach.chinhphu.vn/chi-tiet-du-thao-phuong-an-sap-xep-cac-phuong-cua-ha-noi-119250421100531902.htm |archive-date=2026-03-16 |access-date=2026-07-10 |website=Xây dựng chính sách, pháp luật}}</ref><ref>{{Chú thích web |last=Viện nghiên cứu Phát triển kinh tế – xã hội Hà Nội |date=2025-07-01 |title=Phường Thanh Xuân: Những thông tin chi tiết sau sắp xếp |url=https://hanoionline.vn/phuong-thanh-xuan-nhung-thong-tin-chi-tiet-sau-sap-xep-343820.htm |url-status=dead |archive-url=https://web.archive.org/web/20260826400809/https://hanoionline.vn/phuong-thanh-xuan-nhung-thong-tin-chi-tiet-sau-sap-xep-343820.htm |archive-date=2026-08-26 |access-date=2026-08-26 |website=Cơ quan Báo và Phát thanh Truyền hình Hà Nội}}</ref><ref>{{Chú thích web |last=Cơ quan Báo và Phát thanh Truyền hình Hà Nội |date=2025-07-08 |title=Phường Thanh Xuân: Tất cả thông tin và thủ tục cần biết |url=https://hanoionline.vn/phuong-thanh-xuan-tat-ca-thong-tin-va-thu-tuc-can-biet-345351.htm |url-status=dead |archive-url=https://web.archive.org/web/20260826401509/https://hanoionline.vn/phuong-thanh-xuan-tat-ca-thong-tin-va-thu-tuc-can-biet-345351.htm |archive-date=2026-08-26 |access-date=2026-08-26}}</ref>
+Phường Thanh Xuân có diện tích tự nhiên là 3,24 km<sup>2</sup>, quy mô dân số năm 2025 là 106.316 người và mật độ dân số đạt 32.813 người/km<sup>2</sup>.<ref>{{Chú thích web |last=Mai Hữu |date=2026-04-05 |title=Hà Nội: Chi tiết phương án tổng thể sắp xếp đơn vị hành chính cấp xã |url=https://hanoimoi.vn/ha-noi-chi-tiet-phuong-an-tong-the-sap-xep-don-vi-hanh-chinh-cap-xa-700278.html |url-status=bot: unknown |archive-url=https://web.archive.org/web/20250710163328/https://hanoimoi.vn/ha-noi-chi-tiet-phuong-an-tong-the-sap-xep-don-vi-hanh-chinh-cap-xa-700278.html |archive-date=2025-07-10 |access-date=2026-07-08 |website=Cơ quan Báo và Phát thanh, truyền hình Hà Nội}}</ref><ref>Công văn số 2896/BNV-CQĐP ngày 27 tháng 5 năm 2025 của Bộ Nội vụ về việc cung cấp thông tin danh mục dự kiến đơn vị hành chính cấp xã mới.</ref>
+
+== Lịch sử ==
+
+=== Trước năm 1976 ===
+
+=== Giai đoạn 1976 – nay ===
+Sau ngày 2 tháng 7 năm 1976, 2 tiểu khu: Thanh Xuân và Thượng Đình thuộc khu phố [[Đống Đa (quận)|Đống Đa]]; 2 xã: Nhân Chính và Trung Văn thuộc huyện [[Từ Liêm (huyện)|Từ Liêm]] của thành phố [[Hà Nội]].
+
+Ngày 3 tháng 1 năm 1981, từ nay ở nội thành, đơn vị hành chính cấp dưới trực tiếp của [[Thành phố trực thuộc trung ương (Việt Nam)|thành phố trực thuộc trung ương]] đều thống nhất gọi là [[Quận (Việt Nam)|quận]]; các đơn vị hành chính cơ sở ở nội thành, nội thị của các [[Thành phố thuộc tỉnh (Việt Nam)|thành phố thuộc tỉnh]], [[Thị xã (Việt Nam)|thị xã]] và [[Quận (Việt Nam)|quận]] gọi là [[Phường (Việt Nam)|phường]]. Khi đó, 2 phường: Thanh Xuân và Thượng Đình thuộc quận [[Đống Đa (quận)|Đống Đa]].<ref>Quyết định số 3-CP ngày 3 tháng 1 năm 1981 của Hội đồng Chính phủ về việc thống nhất tên gọi các đơn vị hành chính ở nội thành nội thị.</ref>
+
+Ngày 13 tháng 10 năm 1982, thành lập phường Thanh Xuân Bắc (quận [[Đống Đa (quận)|Đống Đa]]) gồm đất của ba thôn Phùng Khoang, xã Trung Văn, huyện [[Từ Liêm (huyện)|Từ Liêm]], thôn Triều Khúc, xã Tân Triều huyện [[Thanh Trì (huyện)|Thanh Trì]] và thôn Cự Chính, xã Nhân Chính, huyện [[Từ Liêm (huyện)|Từ Liêm]] (phần đất còn lại của thôn Cự Chính sáp nhập vào phường Thanh Xuân cùng quận).<ref>{{Chú thích web |title=Quyết định số 173-HĐBT ngày 13 tháng 10 năm 1982 của Hội đồng Bộ trưởng về việc phân vạch địa giới một số phường và thị trấn thuộc thành phố Hà Nội |url=https://chinhphu.vn/default.aspx?pageid=27160&docid=6408 |url-status=dead |archive-url=https://web.archive.org/web/20260823201510/https://chinhphu.vn/default.aspx?pageid=27160&docid=6408 |archive-date=2026-08-23 |access-date=2026-08-23 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+
+Ngày 22 tháng 11 năm 1996:
+
+* Tách toàn bộ diện tích tự nhiên và nhân khẩu của các phường Thượng Đình, Thanh Xuân Bắc, Thanh Xuân (thuộc quận [[Đống Đa (quận)|Đống Đa]]); toàn bộ diện tích tự nhiên và nhân khẩu của xã Nhân Chính (huyện [[Từ Liêm (huyện)|Từ Liêm]]) về quận [[Thanh Xuân (quận)|Thanh Xuân]] mới thành lập.
+* Phường Thanh Xuân (được đổi tên thành phường Thanh Xuân Trung).
+* Phường Nhân Chính được thành lập trên cơ sở toàn bộ diện tích tự nhiên và nhân khẩu của xã Nhân Chính.<ref>{{Chú thích web |title=Nghị định số 74-CP ngày 22 tháng 11 năm 1996 của Chính phủ về việc thành lập quận Thanh Xuân, quận Cầu Giấy, thành lập và đổi tên một số phường thuộc thành phố Hà Nội |url=https://chinhphu.vn/default.aspx?pageid=27160&docid=3229 |url-status=dead |archive-url=https://web.archive.org/web/20260829201510/https://chinhphu.vn/default.aspx?pageid=27160&docid=3229 |archive-date=2026-08-29 |access-date=2026-08-29 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+
+Ngày 16 tháng 6 năm 2025:
+
+* Kết thúc hoạt động của đơn vị hành chính cấp huyện trong cả nước.<ref>{{Chú thích web |last= |date= |title=Nghị quyết số 203/2025/QH15 ngày 16 tháng 6 năm 2025 của Quốc hội khóa XV, Kỳ họp thứ 9 về việc sửa đổi, bổ sung một số điều của Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/nq-sua-doi-hien-phap.pdf |url-status=live |archive-url=https://web.archive.org/web/20260613090807/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/nq-sua-doi-hien-phap.pdf |archive-date=2026-06-13 |access-date=2026-06-13 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+* Sắp xếp một phần diện tích tự nhiên, quy mô dân số của các phường Nhân Chính, Thanh Xuân Bắc, Thanh Xuân Trung, Thượng Đình (quận [[Thanh Xuân (quận)|Thanh Xuân]]), Trung Hoà (quận [[Cầu Giấy (quận)|Cầu Giấy]]) và Trung Văn (quận [[Nam Từ Liêm]]) thành phường mới có tên gọi là phường Thanh Xuân.<ref>{{Chú thích web |title=Nghị quyết số 1656/NQ-UBTVQH15 ngày 16 tháng 6 năm 2025 của Ủy ban Thường vụ Quốc hội về việc sắp xếp các đơn vị hành chính cấp xã của thành phố Hà Nội năm 2025 |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf |url-status=live |archive-url=https://web.archive.org/web/20260630400809/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf |archive-date=2026-06-30 |access-date=2026-06-30 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+* Sau khi sắp xếp, phường Thanh Xuân được chia thành 89 tổ dân phố.<ref>26 tổ dân phố: 1, 3, 5, 7, 9, 11, 14, 16, 17, 20, 22, từ 25 đến 36, 38, 39 và 57 của phường Nhân Chính cũ; 17 tổ dân phố: 1, 3, 5, 8, 10, 15, 16, từ 18 đến 20, 23, 27, 29, 31, 32, 35 và 37 của phường Thanh Xuân Bắc cũ; 24 tổ dân phố, đánh số từ 1 đến 21, 25, 28 và 29 của phường Thanh Xuân Trung cũ; 17 tổ dân phố: 20, 23, 25, 27 và từ 29 đến 41 của phường Thượng Đình cũ; 3 tổ dân phố, đánh số từ 1 đến 3 của phường Trung Hòa cũ; 2 tổ dân phố: 10 và 20 của phường Trung Văn cũ.</ref><ref>{{Chú thích web |title=Thông tư số 10/2022/TT-BTNMT ngày 29 tháng 9 năm 2022 của Bộ Tài nguyên và Môi trường về việc Ban hành Danh mục địa danh dân cư, sơn văn, thủy văn, kinh tế – xã hội phục vụ công tác thành lập bản đồ thành phố Hà Nội |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2022/10/10-btnmt.pdf |url-status=bot: unknown |archive-url=https://web.archive.org/web/20260630082812/https://datafiles.chinhphu.vn/cpp/files/vbpq/2022/10/10-btnmt.pdf |archive-date=2026-06-30 |access-date=2026-06-30 |website=Cổng Thông tin điện tử Chính phủ}}</ref><ref>{{Chú thích web |last=Ủy ban bầu cử phường Thanh Xuân |date=2026-02-22 |title=Danh sách chính thức những người ứng cử đại biểu Hội đồng nhân dân phường Thanh Xuân khóa II, nhiệm kỳ 2026 – 2031 |url=https://sqhx-hanoi.mediacdn.vn/91579363132710912/2026/2/25/danh-sach-bau-cup-thanh-xuan-65x43-1-177198183647627256172.pdf |url-status=dead |archive-url=https://web.archive.org/web/20260830201510/https://sqhx-hanoi.mediacdn.vn/91579363132710912/2026/2/25/danh-sach-bau-cup-thanh-xuan-65x43-1-177198183647627256172.pdf |archive-date=2026-08-30 |access-date=2026-08-30 |website=Trang Thông tin điện tử phường Thanh Xuân – thành phố Hà Nội}}</ref>
+Ngày 24 tháng 12 năm 2025, xác định phường Thanh Xuân là [[Đô thị Việt Nam|đô thị loại II]].<ref>Chuyển tiếp từ phường Trung Hòa thuộc quận Cầu Giấy, phường Trung Văn thuộc quận Nam Từ Liêm và 4 phường: Nhân Chính, Thanh Xuân Bắc, Thanh Xuân Trung, Thượng Đình thuộc quận Thanh Xuân và phường Đại Kim thuộc quận Hoàng Mai.</ref><ref>{{Chú thích web |title=Nghị quyết số 111/2025/UBTVQH15 ngày 24 tháng 12 năm 2025 của Ủy ban Thường vụ Quốc hội về phân loại đô thị |url=https://cdn.nhandan.vn/files/f4a4abf7f9a0ba4a91744616546d850872b76917f90d5a74cc9eebef1369fb6f/111.pdf |url-status=dead |archive-url=https://web.archive.org/web/20260430074852/https://cdn.nhandan.vn/files/f4a4abf7f9a0ba4a91744616546d850872b76917f90d5a74cc9eebef1369fb6f/111.pdf |archive-date=2026-04-30 |access-date=2026-07-12 |website=Báo Nhân dân}}</ref>
+
+Ngày 26 tháng 6 năm 2026, thành lập 49 tổ dân phố mới, đánh số từ 1 đến 47, 50 và 51; đổi tên 2 tổ dân phố: 20 và 10 Trung Văn lần lượt thành 2 tổ dân phố: 48 và 49.<ref name=":122">1. Tổ dân phố số 1: Sắp xếp toàn bộ tổ dân phố số 1, 2, 3 Trung Hòa cũ; 2. Tổ dân phố số 2: Sắp xếp toàn bộ tổ dân phố số 1 Nhân Chính cũ và một phần tổ dân phố số 3 Nhân Chính cũ; 3. Tổ dân phố số 3: Sắp xếp toàn bộ tổ dân phố số 29, 30, 31 Thượng Đình cũ, một phần tổ dân phố số 27 Thượng Đình cũ; 4. Tổ dân phố số 4: Sắp xếp toàn bộ tổ dân phố số 37 và 38 Thượng Đình cũ; 5. Tổ dân phố số 5: Sắp xếp toàn bộ tổ dân phố số 34 và 35 Thượng Đình cũ; 6. Tổ dân phố số 6: Sắp xếp toàn bộ tổ dân phố số 32 và 33 Thượng Đình cũ; 7. Tổ dân phố số 7: Sắp xếp toàn bộ tổ dân phố số 39 và 40 Thượng Đình cũ; 8. Tổ dân phố số 8: Sắp xếp toàn bộ tổ dân phố số 36 và 41 Thượng Đình cũ; 9. Tổ dân phố số 9: Sắp xếp một phần tổ dân phố số 23 Thượng Đình cũ, Chung cư Hoa Anh Đào, nhà thấp tầng; 10. Tổ dân phố số 10: Sắp xếp phần lớn tổ dân phố số 25, 27 Thượng Đình cũ, một phần tổ dân phố 23 Thượng Đình cũ và một phần tổ dân phố số 7 Nhân Chính cũ; 11. Tổ dân phố số 11: Sắp xếp một phần tổ dân phố số 7 Nhân Chính cũ; 12. Tổ dân phố số 12: Sắp xếp một phần tổ dân phố số 5 Nhân Chính cũ, một phần tổ dân phố số 7 Nhân Chính cũ, một phần tổ dân phố số 3 Nhân Chính cũ; 13. Tổ dân phố số 13: Sắp xếp phần lớn tổ dân phố số 22 Nhân Chính cũ, một phần tổ dân phố số 5 và 7 Nhân Chính cũ; 14. Tổ dân phố số 14: Sắp xếp toàn bộ tổ dân phố số 25 Nhân Chính cũ, một phần tổ dân phố số 22 và 57 Nhân Chính cũ; 15. Tổ dân phố số 15: Sắp xếp một phần tổ dân phố số 57 Nhân Chính cũ và tòa Diamond; 16. Tổ dân phố số 16: Sắp xếp một phần tổ dân phố số 26 và 20 Nhân Chính cũ; 17. Tổ dân phố số 17: Sắp xếp một phần tổ dân phố số 9, 7 và 20 Nhân Chính cũ; 18. Tổ dân phố số 18: Sắp xếp một phần tổ dân phố số 11 và 14 Nhân Chính cũ; 19. Tổ dân phố số 19: Sắp xếp một phần tổ dân phố số 23, 20 Thượng Đình cũ và một phần tổ dân phố số 14 Nhân Chính cũ; 20. Tổ dân phố số 20: Sắp xếp phần lớn tổ dân phố số 4,5 Thanh Xuân Trung cũ và một phần tổ dân phố số 20 Thượng Đình cũ; 21. Tổ dân phố số 21: Sắp xếp một phần tổ dân phố số 11, 14 Nhân Chính cũ, phần lớn tổ dân phố số 16 Nhân Chính cũ; 22. Tổ dân phố số 22: Sắp xếp toàn bộ tổ dân phố số 3 Thanh Xuân Trung cũ, một phần tổ dân phố số 2 Thanh Xuân Trung cũ, một phần tổ dân phố số 16 Nhân Chính cũ, một phần tổ dân phố số 9 Nhân Chính cũ, một phần tổ dân phố số 17 Nhân Chính cũ; 23. Tổ dân phố số 23: Sắp xếp một phần tổ dân phố số 20 Nhân Chính cũ phía bên trái đường Vành đai 2,5 (hướng từ đường Nguyễn Trãi đi vào), một phần tổ dân phố số 17 Nhân Chính cũ, một phần tổ dân phố số 26 Nhân Chính cũ, toàn bộ tổ dân phố số 1 Thanh Xuân Trung cũ, một phần tổ dân phố số 2 Thanh Xuân Trung cũ; 24. Tổ dân phố số 24: Sắp xếp một phần tổ dân phố số 27 Nhân Chính cũ; 25. Tổ dân phố số 25: Sắp xếp một phần tổ dân phố số 30, 28 Nhân Chính cũ và 01 tòa chung cư bên cạnh sắp bàn giao; 26. Tổ dân phố số 26: Sắp xếp toàn bộ tổ dân phố số 5 và 6 Thanh Xuân Trung cũ; 27. Tổ dân phố số 27: Sắp xếp toàn bộ tổ dân phố số 39 Nhân Chính cũ; một phần tổ dân phố số 8, 15, 21 Thanh Xuân Trung cũ; 28. Tổ dân phố số 28: Sắp xếp toàn bộ tổ dân phố số 6 Thanh Xuân Trung cũ, một phần tổ dân phố số 8 Thanh Xuân Trung cũ; 29. Tổ dân phố số 29: Sắp xếp một phần tổ dân phố số 7 và 8 Thanh Xuân Trung cũ và 1và Chung cư Mỹ Sơn; 30. Tổ dân phố số 30: Sắp xếp toàn bộ tổ dân phố số 10, 11, 12, 13 Thanh Xuân Trung cũ, một phần tổ dân phố số 14 Thanh Xuân Trung cũ, một phần tổ dân phố số 7 Thanh Xuân Trung cũ; 31. Tổ dân phố số 31: Sắp xếp toàn bộ tổ dân phố số 20 Thanh Xuân Trung cũ, một phần tổ dân phố số 21 Thanh Xuân Trung cũ; 32. Tổ dân phố số 32: Sắp xếp toàn bộ tổ dân phố số 9 và 25 Thanh Xuân Trung cũ, một phần tổ dân phố số 21 Thanh Xuân Trung cũ; 33. Tổ dân phố số 33: Sắp xếp phần lớn tổ dân phố số 30 Nhân Chính, một phần tổ dân phố số 21 Thanh Xuân Trung cũ, Chung cư Stela; Thanh Xuân Building 35 Lê Văn Thiêm; 34. Tổ dân phố số 34: Sắp xếp toàn bộ tổ dân phố 28 và 29 Nhân Chính cũ; 35. Tổ dân phố số 35: Sắp xếp toàn bộ tổ dân phố số 34 và 38 Nhân Chính cũ; 36. Tổ dân phố số 36: Sắp xếp toàn bộ tổ dân phố số 35 Nhân Chính cũ và một phần tổ dân phố số 33 Nhân Chính cũ; 37. Tổ dân phố số 37: Sắp xếp một phần tổ dân phố số 33 Nhân Chính cũ và khu chung cư đang xây dựng bên cạnh; 38. Tổ dân phố số 38: Sắp xếp toàn bộ tổ dân phố số 31, 32 Nhân Chính cũ; một phần tổ dân phố số 19 Thanh Xuân Trung cũ; 39. Tổ dân phố số 39: Sắp xếp toàn bộ tổ dân phố số 18 Thanh Xuân Trung cũ, một phần tổ dân phố số 21 Thanh Xuân Trung cũ; 40. Tổ dân phố số 40: Sắp xếp toàn bộ tổ dân phố số 17 Thanh Xuân Trung cũ, một phần tổ dân phố số 21 Thanh Xuân Trung cũ; 41. Tổ dân phố số 41: Sắp xếp một phần tổ dân phố số 14 Thanh Xuân Trung cũ, Chung cư 282 Nguyễn Huy Tưởng; 42. Tổ dân phố số 42: Sắp xếp toàn bộ tổ dân phố số 28 và 29 Thanh Xuân Trung cũ; 43. Tổ dân phố số 43: Sắp xếp toàn bộ tổ dân phố số 15, 16, 18 Thanh Xuân Bắc cũ; 44. Tổ dân phố số 44: Sắp xếp toàn bộ tổ dân phố số 8, 10 Thanh Xuân Bắc cũ; 45. Tổ dân phố số 45: Sắp xếp toàn bộ tổ dân phố số 1, 3, 5 Thanh Xuân Bắc cũ; 46. Tổ dân phố số 46: Sắp xếp toàn bộ tổ dân phố số 29, 31, 27 Thanh Xuân Bắc cũ; 47. Tổ dân phố số 47: Sắp xếp toàn bộ tổ dân phố số 32, 35 Thanh Xuân Bắc cũ và một phần tổ 36 Nhân Chính cũ; 48. Tổ dân phố số 48: Sắp xếp toàn bộ tổ dân phố số 20 Trung Văn cũ; 49. Tổ dân phố số 49: Sắp xếp toàn bộ tổ dân phố số 10 Trung Văn cũ; 50. Tổ dân phố số 50: Sắp xếp toàn bộ tổ dân phố số 37 Thanh Xuân Bắc cũ và một phần tổ dân phố số 10 Trung Văn cũ; 51. Tổ dân phố số 51: Sắp xếp toàn bộ tổ dân phố số 19, 20, 23 Thanh Xuân Bắc cũ.</ref><ref name=":2">{{Chú thích web |last=Phòng Văn hóa – Xã hội phường Thanh Xuân |date=2026-06-09 |title=Phường Thanh Xuân lấy ý kiến cử tri về phương án sắp xếp tổ dân phố từ ngày 10/6/2026 |url=https://thanhxuan.hanoi.gov.vn/thong-tin-cong-khai/phuong-thanh-xuan-lay-y-kien-cu-tri-ve-phuong-an-sap-xep-to-dan-pho-tu-ngay-10-6-2026-2690260609181602096.htm |url-status=dead |archive-url=https://web.archive.org/web/20260830201510/https://thanhxuan.hanoi.gov.vn/thong-tin-cong-khai/phuong-thanh-xuan-lay-y-kien-cu-tri-ve-phuong-an-sap-xep-to-dan-pho-tu-ngay-10-6-2026-2690260609181602096.htm |archive-date=2026-08-30 |access-date=2026-08-30 |website=Trang Thông tin điện tử phường Thanh Xuân – thành phố Hà Nội}}</ref><ref name=":1">{{Chú thích web |last=Tùng Lâm |date=2026-07-02 |title=Phường Thanh Xuân công bố nghị quyết sắp xếp tổ dân phố |url=https://thanhxuan.hanoi.gov.vn/tin-tuc-su-kien-noi-bat/phuong-thanh-xuan-cong-bo-nghi-quyet-sap-xep-to-dan-pho-2690260703075036135.htm |url-status=dead |archive-url=https://web.archive.org/web/20260830201510/https://thanhxuan.hanoi.gov.vn/tin-tuc-su-kien-noi-bat/phuong-thanh-xuan-cong-bo-nghi-quyet-sap-xep-to-dan-pho-2690260703075036135.htm |archive-date=2026-08-30 |access-date=2026-08-30 |website=Cơ quan Báo và Phát thanh, truyền hình Hà Nội}}</ref><!-- 
+==Lịch sử==
+Trước đây, phường trực thuộc quận [[Đống Đa (quận)|Đống Đa]] với tên gọi là phường '''Thanh Xuân'''. Ngày [[22 tháng 11]] năm [[1996]], phường Thanh Xuân chuyển sang trực thuộc quận Thanh Xuân mới thành lập và được đổi tên thành phường Thanh Xuân Trung.<ref name=74-CP>{{Chú thích web|url=https://thuvienphapluat.vn/van-ban/Bat-dong-san/Nghi-dinh-74-CP-thanh-lap-quan-Thanh-Xuan-quan-Cau-Giay-thanh-lap-va-doi-ten-mot-so-phuong-thuoc-thanh-pho-Ha-Noi-40215.aspx|title=Nghị định 74-CP năm 1996 về việc thành lập quận Thanh Xuân, quận Cầu Giấy, thành lập và đổi tên một số phường thuộc thành phố Hà Nội|last=|first=|date=|website=|archive-url=|archive-date=|url-status=|access-date =}}</ref>
+
+==Lịch sử==
+Phường Thanh Xuân Bắc được thành lập vào ngày [[13 tháng 10]] năm [[1982]] trên cơ sở tách 116 ha diện tích tự nhiên của 3 thôn, gồm thôn Phùng Khoang thuộc xã [[Trung Văn]], thôn Cự Chính thuộc xã [[Thanh Xuân (phường)|Nhân Chính]] (huyện [[Từ Liêm (huyện)|Từ Liêm]]) và thôn Triều Khúc thuộc xã [[Tân Triều]] (huyện [[Thanh Trì (huyện)|Thanh Trì]])<ref name=173-HĐBT>{{Chú thích web|url=https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-173-HDBT-phan-vach-dia-gioi-phuong-va-thi-tran-thanh-pho-Ha-Noi-43981.aspx|tựa đề=Quyết định 173-HĐBT năm 1982 về việc phân vạch địa giới một số phường và thị trấn thuộc thành phố Hà Nội|tác giả=|họ=|tên=|ngày=|website=|url lưu trữ=|ngày lưu trữ=|ngày truy cập=}}</ref>. Khi mới thành lập, phường trực thuộc quận [[Đống Đa (quận)|Đống Đa]].
+
+Ngày [[22 tháng 11]] năm [[1996]], phường Thanh Xuân Bắc chuyển sang trực thuộc quận Thanh Xuân mới thành lập. Đồng thời, một phần diện tích và dân số của phường Thanh Xuân Bắc được tách ra để thành lập phường Thanh Xuân Nam.<ref name=74-CP/>
+
+==Lịch sử==
+Trước đây, Trung Văn là một xã thuộc huyện [[Từ Liêm (huyện)|Từ Liêm]] cũ.
+
+Ngày [[13 tháng 10]] năm [[1982]], Hội đồng Bộ trưởng ban hành Quyết định 173-HĐBT<ref name=QD173>{{Chú thích web|url=https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-173-HDBT-phan-vach-dia-gioi-phuong-va-thi-tran-thanh-pho-Ha-Noi-43981.aspx|tựa đề=Quyết định 173-HĐBT năm 1982 về việc phân vạch địa giới một số phường và thị trấn thuộc thành phố Hà Nội|tác giả=|họ=|tên=|ngày=|website=|url lưu trữ=|ngày lưu trữ=|ngày truy cập=}}</ref>. Theo đó, điều chỉnh một phần diện tích và dân số của thôn Phùng Khoang thuộc xã Trung Văn để thành lập phường [[Thanh Xuân Bắc]] thuộc quận [[Đống Đa (quận)|Đống Đa]] (nay phường này thuộc quận Thanh Xuân).
+
+Ngày [[27 tháng 12]] năm [[2013]], Chính phủ ban hành Nghị quyết số 132/NQ-CP<ref name=NQ132>{{Chú thích web|url=https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/Nghi-quyet-132-NQ-CP-nam-2013-dieu-chinh-dia-gioi-hanh-chinh-Tu-Liem-Ha-Noi-217666.aspx|tựa đề=Nghị quyết 132/NQ-CP năm 2013 về việc điều chỉnh địa giới hành chính huyện Từ Liêm để thành lập 2 quận và 23 phường thuộc thành phố Hà Nội|tác giả=|họ=|tên=|ngày=|website=|url lưu trữ=|ngày lưu trữ=|ngày truy cập=}}</ref>. Theo đó, thành lập phường Trung Văn thuộc quận Nam Từ Liêm trên cơ sở toàn bộ 277,58 ha diện tích tự nhiên và 29.850 người của xã Trung Văn.
+
+==Lịch sử==
+Trước năm 1996, Nhân Chính là một xã thuộc huyện [[Từ Liêm (huyện)|Từ Liêm]] cũ. Từ ngày [[22 tháng 11]] năm [[1996]], xã Nhân Chính trở thành một phường thuộc quận Thanh Xuân.<ref name=74-CP/>
+
+==Lịch sử==
+Trước đây, Thượng Đình là một phường thuộc quận Đống Đa. Từ ngày [[22 tháng 11]] năm [[1996]], phường chuyển sang trực thuộc quận Thanh Xuân.<ref name=74-CP/>
+
+==Lịch sử==
+Địa bàn phường Thanh Xuân Nam trước đây là một phần phường Thanh Xuân Bắc thuộc quận [[Đống Đa (quận)|Đống Đa]] (trước đó hơn nữa địa bàn khu vực này là một phần xã [[Tân Triều]] thuộc huyện [[Thanh Trì (huyện)|Thanh Trì]]).
+
+Ngày [[22 tháng 11]] năm [[1996]], phường Thanh Xuân Bắc chuyển sang trực thuộc quận Thanh Xuân mới thành lập. Đồng thời, một phần diện tích và dân số của phường Thanh Xuân Bắc được tách ra để thành lập phường Thanh Xuân Nam.<ref name=74-CP/>
+ -->
+
+== Hành chính ==
+Phường Thanh Xuân được chia thành 51 tổ dân phố, đánh số từ 1 đến 51.<ref name=":2" /><ref name=":1" />
+{| class="wikitable sortable" cellpadding="0" cellspacing="6" width="100%" align="center" style="background: #f9f9f9; border: 1px #aaa solid; margin-top: 16px"
+! colspan="4" style="background: #E6E6FA; font-size: 95%;" |Danh sách các tổ dân phố thuộc phường Thanh Xuân<ref name=":2" /><ref name=":1" />
+|-
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| cellpadding="1" cellspacing="1" width="100%" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Tổ dân phố 1
+|1.008
+|-
+| align="left" |Tổ dân phố 2
+|1.226
+|-
+| align="left" |Tổ dân phố 3
+|1.014
+|-
+| align="left" |Tổ dân phố 4
+|884
+|-
+| align="left" |Tổ dân phố 5
+|937
+|-
+| align="left" |Tổ dân phố 6
+|923
+|-
+| align="left" |Tổ dân phố 7
+|815
+|-
+| align="left" |Tổ dân phố 8
+|922
+|-
+| align="left" |Tổ dân phố 9
+|655
+|-
+| align="left" |Tổ dân phố 10
+|809
+|-
+| align="left" |Tổ dân phố 11
+|806
+|-
+| align="left" |Tổ dân phố 12
+|748
+|-
+| align="left" |Tổ dân phố 13
+|1.005
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| cellpadding="1" cellspacing="1" width="100%" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Tổ dân phố 14
+|763
+|-
+| align="left" |Tổ dân phố 15
+|700
+|-
+| align="left" |Tổ dân phố 16
+|730
+|-
+| align="left" |Tổ dân phố 17
+|975
+|-
+| align="left" |Tổ dân phố 18
+|985
+|-
+| align="left" |Tổ dân phố 19
+|706
+|-
+| align="left" |Tổ dân phố 20
+|894
+|-
+| align="left" |Tổ dân phố 21
+|1.009
+|-
+| align="left" |Tổ dân phố 22
+|907
+|-
+| align="left" |Tổ dân phố 23
+|931
+|-
+| align="left" |Tổ dân phố 24
+|716
+|-
+| align="left" |Tổ dân phố 25
+|714
+|-
+| align="left" |Tổ dân phố 26
+|1.162
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| cellpadding="1" cellspacing="1" width="100%" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Tổ dân phố 27
+|711
+|-
+| align="left" |Tổ dân phố 28
+|702
+|-
+| align="left" |Tổ dân phố 29
+|910
+|-
+| align="left" |Tổ dân phố 30
+|1.140
+|-
+| align="left" |Tổ dân phố 31
+|1.046
+|-
+| align="left" |Tổ dân phố 32
+|1.083
+|-
+| align="left" |Tổ dân phố 33
+|830
+|-
+| align="left" |Tổ dân phố 34
+|1.232
+|-
+| align="left" |Tổ dân phố 35
+|816
+|-
+| align="left" |Tổ dân phố 36
+|790
+|-
+| align="left" |Tổ dân phố 37
+|802
+|-
+| align="left" |Tổ dân phố 38
+|809
+|-
+| align="left" |Tổ dân phố 39
+|719
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| cellpadding="1" cellspacing="1" width="100%" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Tổ dân phố 40
+|936
+|-
+| align="left" |Tổ dân phố 41
+|1.249
+|-
+| align="left" |Tổ dân phố 42
+|1.328
+|-
+| align="left" |Tổ dân phố 43
+|1.009
+|-
+| align="left" |Tổ dân phố 44
+|846
+|-
+| align="left" |Tổ dân phố 45
+|1.017
+|-
+| align="left" |Tổ dân phố 46
+|1.006
+|-
+| align="left" |Tổ dân phố 47
+|1.023
+|-
+| align="left" |Tổ dân phố 48
+|882
+|-
+| align="left" |Tổ dân phố 49
+|1.190
+|-
+| align="left" |Tổ dân phố 50
+|497
+|-
+| align="left" |Tổ dân phố 51
+|1.160
+|}
+|}
+
+== Địa chỉ trụ sở các cơ quan ==
+* '''Trụ sở Đảng ủy''' '''- UBND phường''': Số 9, đường Khuất Duy Tiến<ref name=":02">Địa chỉ cũ: Số 9, đường Khuất Duy Tiến, phường Thanh Xuân Bắc, quận Thanh Xuân</ref><ref name="trusomoi3">{{Chú thích web |date=25 tháng 6 năm 2025 |title=Thông báo về địa điểm trụ sở làm việc của 126 phường, xã sau sắp xếp thuộc phạm vi quản lý của thành phố Hà Nội |url=https://dcdn.dantri.com.vn/2025/06/25/tru-so-126-xa-phuong-cua-ha-noi-1750822481952.pdf |website=UBND TP Hà Nội |access-date=2025-06-26 |archive-date=2026-04-25 |archive-url=https://web.archive.org/web/20260425080946/https://dcdn.dantri.com.vn/2025/06/25/tru-so-126-xa-phuong-cua-ha-noi-1750822481952.pdf |url-status=dead }}</ref>
+* '''Trung tâm phục vụ hành chính công''': Số 9, đường Khuất Duy Tiến<ref name=":02" /><ref>{{Chú thích báo |last=Trung tâm Phục vụ hành chính công thành phố Hà Nội |title=Hà Nội công khai địa điểm tiếp nhận thủ tục hành chính thuộc UBND 126 xã/phường và 30 điểm tiếp nhận của 12 Chi nhánh thuộc Trung tâm Phục vụ hành chính công Thành phố, thông tin đường dây nóng hỗ trợ người dân, doanh nghiệp |url=https://ttpvhcc.hanoi.gov.vn/hoat-dong-cua-trung-tam/ha-noi-cong-khai-dia-diem-tiep-nhan-thu-tuc-hanh-chinh-thuoc-ubnd-126-xa-phuong-va-30-diem-tiep-nhan-cua-12-chi-nhanh-thuoc-trung-tam-phuc-vu-hanh-chinh-cong-thanh-pho-thong-tin-duong-day-nong-ho-tro-nguoi-dan-doanh-nghiep-2850250704103711121.htm }}{{Liên kết hỏng|date=2026-08-22 |bot=InternetArchiveBot }}</ref>
+* '''Công an phường''':<ref>{{Chú thích báo |last=Báo Đại biểu Nhân dân |first= |title=Danh sách 126 trụ sở Công an cấp xã thuộc Công an TP. Hà Nội để người dân tới làm căn cước, đăng ký xe |url=https://daibieunhandan.vn/danh-sach-126-tru-so-cong-an-cap-xa-thuoc-cong-an-tp-ha-noi-de-nguoi-dan-toi-lam-can-cuoc-dang-ky-xe-10378397.html}}</ref>
+** '''Trụ sở chính''': Số 188, phố Quan Nhân<ref>Địa chỉ cũ: E18, tập thể Thanh Xuân Bắc, phường Thanh Xuân Bắc, quận Thanh Xuân</ref>
+** '''Trụ sở tiếp nhận thủ tục hành chính, CCCD''': Số 1, phố Nhân Hoà<ref>Địa chỉ cũ: Số 118, phố Quan Nhân, phường Nhân Chính, quận Thanh Xuân</ref>
+** '''Trụ sở tiếp nhận thủ tục đăng ký xe''': Số 188A, đường Nguyễn Trãi<ref name=":12">Địa chỉ cũ: Số 330, đường Nguyễn Trãi, phường Thanh Xuân Trung, quận Thanh Xuân</ref>
+
+== Di tích ==
+[[Tập tin:Một góc phường Thanh Xuân Trung.jpg|trái|nhỏ|197x197px|Phố Nguỵ Như Kon Tum tại phường Thanh Xuân]]
+[[File:Làng sinh viên Hacinco, Nguỵ Như Kon Tum, Hà Nội 002.JPG|thumb|Làng sinh viên Hacinco]]
+===Đình Cự Chính===
+Đình Cự Chính hay đình Con Cóc thờ Thành hoàng là tướng quân Lã Đại Liệu thời [[Ngô Quyền]] và con trai ông là sứ quân [[Lã Đường|Lã Tá Đường]], một thủ lĩnh thời [[12 sứ quân]] chiếm đóng tại vùng Tế Giang nay thuộc [[Văn Giang (huyện)|Văn Giang]] - Hưng Yên.
+
+Lã Đại Liệu quê ở Tế Giang, huyện Văn Lâm, [[Hưng Yên]]. Ông vốn là người võ nghệ siêu quần, được mệnh danh là đại đô vật, hô phong hoán vũ. Ông là bộ tướng thứ 7 của [[Trần Lãm]] dưới thời Ngô Vương, đánh đuổi giặc Nam Hán, dẹp phản loạn tiếm nghịch triều đình.
+
+Khi [[nhà Ngô]] tan rã, [[Lã Đường]] phát triển lực lượng, trở thành một trong [[12 sứ quân]], chiếm cứ miền Tế Giang (nay thuộc huyện [[Văn Giang (huyện)|Văn Giang]], tỉnh [[Hưng Yên]]). Do có công chiêu dân lập làng Cự Chính mà [[Lã Đường]] được nhân dân phường Nhân Chính tôn thờ tại đình làng cùng với cha mình.
+
+==Nhân vật nổi bật==
+[[File:Tru so Thanh tra BCA.png|thumb|Cơ quan Thanh tra Bộ Công an]]
+*Danh sĩ [[Đặng Trần Côn]] (1705 – 1745) là tác giả của Chinh phụ ngâm, kiệt tác văn học viết bằng chữ Hán của Việt Nam.
+* Họa sĩ [[Lê Phổ]] (1907 – 2001) là [[họa sĩ]] bậc thầy Việt Nam và trên [[thế giới]] theo trường phái lãng mạn với nhiều tác phẩm đắt giá.
+* Nhà văn [[Nguyễn Tuân]] (1910 – 1987) là một nhà văn người Việt Nam.
+* Chính trị gia [[Trịnh Đình Thảo]] (1901 – 1986) là một luật sư và một chính khách Việt Nam.
+* Nhà văn [[Vũ Trọng Phụng]] (1912 ‒ 1939) là một [[nhà văn]], [[nhà báo]] nổi tiếng của Việt Nam vào đầu [[thế kỷ 20]].
+* Chính trị gia [[Nguyễn Tuấn Anh (chính khách, sinh 12 tháng 8 năm 1975)|Nguyễn Tuấn Anh]] (sinh năm 1975), Phó Bí thư [[Tỉnh ủy Lào Cai]], Chủ tịch [[Ủy ban nhân dân|Ủy ban Nhân dân]] tỉnh [[Lào Cai]], từng là Phó Bí thư [[Tỉnh ủy Yên Bái]], Chủ tịch [[Ủy ban nhân dân]] tỉnh [[Yên Bái (tỉnh)|Yên Bái]].
+== Chú thích ==
+{{tham khảo}}
+
+== Tham khảo ==
+{{sơ khai Hà Nội}}
+{{Đơn vị hành chính thuộc thành phố Hà Nội}}

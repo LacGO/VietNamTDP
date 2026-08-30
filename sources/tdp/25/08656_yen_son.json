@@ -1,0 +1,156 @@
+{
+  "ward_code": "08656",
+  "ward_name": "Yên Sơn",
+  "province_code": "25",
+  "resolution": "",
+  "arrangement": "truoc_2026_07",
+  "effective_date": "",
+  "verified": "unverified",
+  "extraction": {
+    "source": "vi.wikipedia.org",
+    "title": "Yên Sơn, Phú Thọ",
+    "mode": "narrative"
+  },
+  "sources": [
+    {
+      "key": "wiki-08656-1",
+      "title": "Danh sách Thôn vùng đồng bào dân tộc thiểu số và miền núi, thôn đặc biệt khó khăn giai đoạn 2026 - 2030 trên địa bàn tỉnh Phú Thọ",
+      "url": "http://files.ubdt.gov.vn/files/ecm/source_files/2026/02/05/11252411_4.%20Ph%C3%BA%20Th%E1%BB%8D%201%20(th%C3%B4n).signed_26-02-05.pdf",
+      "date": "2026-01-29",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-08656-2",
+      "title": "Danh sách những người ứng cử đại biểu Hội đồng nhân dân xã Yên Sơn, nhiệm kỳ 2026 - 2031 tại Đơn vị bầu cử số 1: Khu Tân, Sính, Mới, Thín, Lở",
+      "url": "https://web.facebook.com/story.php?story_fbid=122129026893055561&id=61581666852200&rdid=bWq5J118Gi0OX1GQ#",
+      "date": "2026-03-10",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-08656-3",
+      "title": "Danh sách những người ứng cử đại biểu Hội đồng nhân dân xã Yên Sơn, nhiệm kỳ 2026 - 2031 tại Đơn vị bầu cử số 2: Khu Gò Đa, Láng Mái, Viết, Lương Sơn, Ấp Giáo, Lạc Song",
+      "url": "https://web.facebook.com/story.php?story_fbid=122129027655055561&id=61581666852200&rdid=C6z3bEgsDuva1az1#",
+      "date": "2026-04-27",
+      "type": "wikipedia-ref"
+    }
+  ],
+  "note": "Trích tự động từ Wikipedia tiếng Việt (mode=narrative). Cần đối chiếu nghị quyết HĐND phường/xã. ⚠️ Danh mục có thể là hiện trạng TRƯỚC sắp xếp thôn/TDP 01/7/2026 — Wikipedia chưa cập nhật nghị quyết mới.",
+  "tdp": [
+    {
+      "name": "Ấp Giáo",
+      "type": "khu"
+    },
+    {
+      "name": "Bãi",
+      "type": "khu"
+    },
+    {
+      "name": "Bến Dầm",
+      "type": "khu"
+    },
+    {
+      "name": "Chen",
+      "type": "khu"
+    },
+    {
+      "name": "Chự",
+      "type": "khu"
+    },
+    {
+      "name": "Đề Ngữ",
+      "type": "khu"
+    },
+    {
+      "name": "Đồi",
+      "type": "khu"
+    },
+    {
+      "name": "Đồi Bông",
+      "type": "khu"
+    },
+    {
+      "name": "Gò Đa",
+      "type": "khu"
+    },
+    {
+      "name": "Hạ Sơn",
+      "type": "khu"
+    },
+    {
+      "name": "Hồ",
+      "type": "khu"
+    },
+    {
+      "name": "Kết Bình",
+      "type": "khu"
+    },
+    {
+      "name": "Lau",
+      "type": "khu"
+    },
+    {
+      "name": "Láng Mái",
+      "type": "khu"
+    },
+    {
+      "name": "Lạc Song",
+      "type": "khu"
+    },
+    {
+      "name": "Liên Chung",
+      "type": "khu"
+    },
+    {
+      "name": "Liệm",
+      "type": "khu"
+    },
+    {
+      "name": "Lở",
+      "type": "khu"
+    },
+    {
+      "name": "Lương Sơn",
+      "type": "khu"
+    },
+    {
+      "name": "Mố",
+      "type": "khu"
+    },
+    {
+      "name": "Mới",
+      "type": "khu"
+    },
+    {
+      "name": "Sính",
+      "type": "khu"
+    },
+    {
+      "name": "Tân",
+      "type": "khu"
+    },
+    {
+      "name": "Thín",
+      "type": "khu"
+    },
+    {
+      "name": "Trại",
+      "type": "khu"
+    },
+    {
+      "name": "Trại Yên",
+      "type": "khu"
+    },
+    {
+      "name": "Viết",
+      "type": "khu"
+    },
+    {
+      "name": "Von Mỏ",
+      "type": "khu"
+    },
+    {
+      "name": "Vũ",
+      "type": "khu"
+    }
+  ]
+}

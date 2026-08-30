@@ -1,0 +1,116 @@
+{
+  "ward_code": "10279",
+  "ward_name": "Phượng Dực",
+  "province_code": "01",
+  "resolution": "",
+  "arrangement": "2026_07",
+  "effective_date": "2026-07-01",
+  "verified": "unverified",
+  "extraction": {
+    "source": "vi.wikipedia.org",
+    "title": "(cache)",
+    "mode": "table"
+  },
+  "sources": [
+    {
+      "key": "wiki-10279-1",
+      "title": "Ủy ban bầu cử xã Phượng Dực công bố danh sách chính thức những người ứng cử đại biểu Hội đồng nhân dân xã Phượng Dực khóa II, nhiệm kỳ 2026 – 2031",
+      "url": "https://phuongduc.hanoi.gov.vn/hoi-dong-nhan-dan/uy-ban-bau-cu-xa-phuong-duc-cong-bo-danh-sach-chinh-thuc-nhung-nguoi-ung-cu-dai-bieu-hdnd-xa-phuong-duc-khoa-ii-nhiem-ky-2026-2031-268726022514381062.htm",
+      "date": "2026-07-01",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-10279-2",
+      "title": "Nghị quyết số 1656/NQ-UBTVQH15 ngày 16 tháng 6 năm 2025 của Ủy ban Thường vụ Quốc hội về việc sắp xếp các đơn vị hành chính cấp xã của thành phố Hà Nội năm 2025",
+      "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf",
+      "date": "2026-05-13",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-10279-3",
+      "title": "Xã Phượng Dực: Định hình 19 danh xưng thôn mới sau hành trình sắp xếp",
+      "url": "https://phuongduc.hanoi.gov.vn/hoat-dong-thon-va-cac-don-vi-hiep-quan/xa-phuong-duc-dinh-hinh-19-danh-xung-thon-moi-sau-hanh-trinh-sap-xep-2687260701151258759.htm",
+      "date": "2026-07-01",
+      "type": "wikipedia-ref"
+    }
+  ],
+  "note": "Trích tự động từ Wikipedia tiếng Việt (mode=table). Cần đối chiếu nghị quyết HĐND phường/xã.",
+  "tdp": [
+    {
+      "name": "An Mỹ",
+      "type": "thôn"
+    },
+    {
+      "name": "Đào Hòang",
+      "type": "thôn"
+    },
+    {
+      "name": "Đại Thắng",
+      "type": "thôn"
+    },
+    {
+      "name": "Đồng Tiến",
+      "type": "thôn"
+    },
+    {
+      "name": "Hòang Long",
+      "type": "thôn"
+    },
+    {
+      "name": "Hòang Lưu",
+      "type": "thôn"
+    },
+    {
+      "name": "Hòa Mỹ",
+      "type": "thôn"
+    },
+    {
+      "name": "Hồng Minh",
+      "type": "thôn"
+    },
+    {
+      "name": "Kim Long Thượng",
+      "type": "thôn"
+    },
+    {
+      "name": "Lưu Thượng",
+      "type": "thôn"
+    },
+    {
+      "name": "Phú Đôi",
+      "type": "thôn"
+    },
+    {
+      "name": "Phú Túc",
+      "type": "thôn"
+    },
+    {
+      "name": "Phượng Vũ",
+      "type": "thôn"
+    },
+    {
+      "name": "Thanh Hòang",
+      "type": "thôn"
+    },
+    {
+      "name": "Tri Chỉ",
+      "type": "thôn"
+    },
+    {
+      "name": "Trung Lập",
+      "type": "thôn"
+    },
+    {
+      "name": "Văn Hòang",
+      "type": "thôn"
+    },
+    {
+      "name": "Văn Trai",
+      "type": "thôn"
+    },
+    {
+      "name": "Xuân La",
+      "type": "thôn"
+    }
+  ]
+}

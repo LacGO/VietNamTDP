@@ -1,0 +1,192 @@
+{
+  "ward_code": "05323",
+  "ward_name": "Quyết Thắng",
+  "province_code": "25",
+  "resolution": "",
+  "arrangement": "truoc_2026_07",
+  "effective_date": "",
+  "verified": "unverified",
+  "extraction": {
+    "source": "vi.wikipedia.org",
+    "title": "Quyết Thắng, Phú Thọ",
+    "mode": "narrative"
+  },
+  "sources": [
+    {
+      "key": "wiki-05323-1",
+      "title": "Danh sách chính thức những người ứng cử đại biểu Hội đồng nhân dân xã Quyết Thắng khóa III, nhiệm kỳ 2026 - 2031 tại Đơn vị bầu cử số 1 gồm 08 xóm; Xóm Mận Thơng, xóm Yến Báy, xóm Éo, xóm Trẳm, xóm Thếnh, xóm Rẽ Vơng, xóm Băn Chao, Xóm Trám Chất",
+      "url": "https://quyetthang.phutho.gov.vn/index.php/tin-t-c-s-ki-n/tin-n-i-b-t/391-don-vi-bau-cu-so-01",
+      "date": "2026-03-15",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-05323-2",
+      "title": "Danh sách chính thức những người ứng cử đại biểu Hội đồng nhân dân xã Quyết Thắng khóa III, nhiệm kỳ 2026 - 2031 tại Đơn vị bầu cử số 2 gồm 06 xóm: Xóm Duộng Rềnh, xóm Pheo, xóm Khải Cai, xóm Giang Bãi, xóm Rảy, xóm Phản Chuông",
+      "url": "https://quyetthang.phutho.gov.vn/index.php/tin-t-c-s-ki-n/tin-n-i-b-t/392-don-vi-bau-cu-so-02",
+      "date": "2026-03-15",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-05323-3",
+      "title": "Danh sách chính thức những người ứng cử đại biểu Hội đồng nhân dân xã Quyết Thắng khóa III, nhiệm kỳ 2026 - 2031 tại Đơn vị bầu cử số 3 với 4 xóm gồm: Xóm Ba Khoang, xóm Chiềng, xóm Châu Tróng, xóm Quyển",
+      "url": "https://quyetthang.phutho.gov.vn/index.php/tin-t-c-s-ki-n/tin-n-i-b-t/393-don-vi-bau-cu-so-03",
+      "date": "2026-03-15",
+      "type": "wikipedia-ref"
+    }
+  ],
+  "note": "Trích tự động từ Wikipedia tiếng Việt (mode=narrative). Cần đối chiếu nghị quyết HĐND phường/xã. ⚠️ Danh mục có thể là hiện trạng TRƯỚC sắp xếp thôn/TDP 01/7/2026 — Wikipedia chưa cập nhật nghị quyết mới.",
+  "tdp": [
+    {
+      "name": "Ba Khoang",
+      "type": "xóm"
+    },
+    {
+      "name": "Bai Chim",
+      "type": "xóm"
+    },
+    {
+      "name": "Bai Khưa",
+      "type": "xóm"
+    },
+    {
+      "name": "Bai Vớn",
+      "type": "xóm"
+    },
+    {
+      "name": "Bán Ngòai",
+      "type": "xóm"
+    },
+    {
+      "name": "Bán Trong",
+      "type": "xóm"
+    },
+    {
+      "name": "Băn Chao",
+      "type": "xóm"
+    },
+    {
+      "name": "Be Dưới",
+      "type": "xóm"
+    },
+    {
+      "name": "Be Ngòai",
+      "type": "xóm"
+    },
+    {
+      "name": "Be Trên",
+      "type": "xóm"
+    },
+    {
+      "name": "Châu Tróng",
+      "type": "xóm"
+    },
+    {
+      "name": "Chiềng",
+      "type": "xóm"
+    },
+    {
+      "name": "Dồng Cài",
+      "type": "xóm"
+    },
+    {
+      "name": "Duộng Rềnh",
+      "type": "xóm"
+    },
+    {
+      "name": "Đảng 1",
+      "type": "xóm"
+    },
+    {
+      "name": "Đảng 2",
+      "type": "xóm"
+    },
+    {
+      "name": "Đôm Hạ",
+      "type": "xóm"
+    },
+    {
+      "name": "Đôm Thượng",
+      "type": "xóm"
+    },
+    {
+      "name": "Éo",
+      "type": "xóm"
+    },
+    {
+      "name": "Giang Bãi",
+      "type": "xóm"
+    },
+    {
+      "name": "Khải Cai",
+      "type": "xóm"
+    },
+    {
+      "name": "Kho",
+      "type": "xóm"
+    },
+    {
+      "name": "Mận Thơng",
+      "type": "xóm"
+    },
+    {
+      "name": "Mương Chóng",
+      "type": "xóm"
+    },
+    {
+      "name": "Mượng Hạ",
+      "type": "xóm"
+    },
+    {
+      "name": "Nàng",
+      "type": "xóm"
+    },
+    {
+      "name": "Ong Man",
+      "type": "xóm"
+    },
+    {
+      "name": "Ót",
+      "type": "xóm"
+    },
+    {
+      "name": "Phản Chuông",
+      "type": "xóm"
+    },
+    {
+      "name": "Pheo",
+      "type": "xóm"
+    },
+    {
+      "name": "Quyển",
+      "type": "xóm"
+    },
+    {
+      "name": "Rảy",
+      "type": "xóm"
+    },
+    {
+      "name": "Rẽ Vơng",
+      "type": "xóm"
+    },
+    {
+      "name": "Thếnh",
+      "type": "xóm"
+    },
+    {
+      "name": "Trám Chất",
+      "type": "xóm"
+    },
+    {
+      "name": "Trẳm",
+      "type": "xóm"
+    },
+    {
+      "name": "Vó",
+      "type": "xóm"
+    },
+    {
+      "name": "Yến Báy",
+      "type": "xóm"
+    }
+  ]
+}

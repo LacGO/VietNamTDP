@@ -1,0 +1,195 @@
+{{Thông tin đơn vị hành chính Việt Nam |Phường
+| tên = Văn Miếu – Quốc Tử Giám
+| hình = Constellation of Literature pavilion - Temple of Literature, Hanoi - DSC04576.JPG
+| ghi chú hình = [[Khuê Văn Các]]
+| vĩ độ = 21.012000233611182
+| kinh độ = 105.83725705536347
+| diện tích = 1,92 km²
+| dân số = 105.604 người
+| thời điểm dân số = 2025
+| mật độ dân số = {{formatnum:{{#expr:floor({{formatnum:105.604| R}}/{{formatnum:1,92| R}})}} }} người/km²
+| vùng = [[Đồng bằng sông Hồng]]
+| thành phố = [[Hà Nội]]
+| trụ sở UBND = Số 188 Kim Hoa<ref>{{Chú thích web |url=https://storage-vnportal.vnpt.vn/gov-hni/6244/VanBan/2025/6/25/TB-729-2025.pdf |title=Thông báo số 729/TB-UBND ngày 25 tháng 6 năm 2025 của Ủy ban nhân dân thành phố Hà Nội về địa điểm trụ sở làm việc của 126 phường, xã sau sắp xếp thuộc phạm vi quản lý của thành phố Hà Nội|access-date=2026-06-15 |archive-date=2026-06-15 |archive-url=https://web.archive.org/web/20260615034519/https://storage-vnportal.vnpt.vn/gov-hni/6244/VanBan/2025/6/25/TB-729-2025.pdf |url-status=dead | website = Cổng Thông tin điện tử Ủy ban nhân dân thành phố Hà Nội}}</ref> 
+| mã hành chính = 00226<ref>{{Chú thích web |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/19ttg.signed.pdf |title=Quyết định số 19/2025/QĐ-TTg ngày 30 tháng 6 năm 2025 của Thủ tướng Chính phủ về việc Ban hành Bảng danh mục và mã số các đơn vị hành chính Việt Nam |access-date=2026-06-15 |archive-date=2026-06-15 |archive-url=https://web.archive.org/web/20260615034519/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/19ttg.signed.pdf |url-status=dead | website = Cổng Thông tin điện tử Chính phủ}}</ref>
+| web = {{url|vanmieuquoctugiam.hanoi.gov.vn}}|trụ sở Đảng ủy=Số 279 phố Tôn Đức Thắng|bản đồ 1={{maplink|frame=yes|plain=yes|type=shape|frame-width=280|frame-align=center|stroke-width=3}}}}{{other|Văn Miếu (định hướng)}}
+'''Văn Miếu – Quốc Tử Giám''' là một [[Phường (Việt Nam)|phường]] thuộc thành phố [[Hà Nội]], [[Việt Nam]]. Đây cũng là đơn vị hành chính cấp xã có tên gọi dài nhất Việt Nam.
+
+== Địa lý== 
+Phường Văn Miếu – Quốc Tử Giám có vị trí địa lý:
+
+* Phía đông giáp phường [[Cửa Nam, Hà Nội|Cửa Nam]] và phường [[Hai Bà Trưng (phường)|Hai Bà Trưng]] (ranh giới đi theo đường Lê Duẩn - đường giao thông quy hoạch)
+* Phía tây giáp phường [[Ô Chợ Dừa (phường)|Ô Chợ Dừa]] (ranh giới đi theo phố Tôn Đức Thắng)
+* Phía nam giáp phường [[Đống Đa (phường)|Đống Đa]] và phường [[Kim Liên (phường)|Kim Liên]] (ranh giới đi theo đường Xã Đàn)
+* Phía bắc giáp phường [[Ba Đình (phường)|Ba Đình]] (ranh giới đi theo phố Nguyễn Thái Học).<ref>{{Chú thích web |last=Báo Điện tử Chính phủ |date=2025-04-28 |title=Chi tiết dự thảo phương án sắp xếp các phường của Hà Nội |url=https://xaydungchinhsach.chinhphu.vn/chi-tiet-du-thao-phuong-an-sap-xep-cac-phuong-cua-ha-noi-119250421100531902.htm |url-status=live |archive-url=https://web.archive.org/web/20260710401509/https://xaydungchinhsach.chinhphu.vn/chi-tiet-du-thao-phuong-an-sap-xep-cac-phuong-cua-ha-noi-119250421100531902.htm |archive-date=2026-07-10 |access-date=2026-07-10 |website=Xây dựng chính sách, pháp luật}}</ref><ref>{{Chú thích web |last=Viện nghiên cứu Phát triển kinh tế – xã hội Hà Nội |date=2025-07-02 |title=Phường Văn Miếu – Quốc Tử Giám: Những thông tin chi tiết sau sắp xếp |url=https://hanoionline.vn/phuong-van-mieu-quoc-tu-giam-nhung-thong-tin-chi-tiet-sau-sap-xep-344157.htm |url-status=dead |archive-url=https://web.archive.org/web/20260815400809/https://hanoionline.vn/phuong-van-mieu-quoc-tu-giam-nhung-thong-tin-chi-tiet-sau-sap-xep-344157.htm |archive-date=2026-08-15 |access-date=2026-08-15 |website=Cơ quan Báo và Phát thanh Truyền hình Hà Nội}}</ref><ref>{{Chú thích web |last=Cơ quan Báo và Phát thanh Truyền hình Hà Nội |date=2025-07-04 |title=Phường Văn Miếu – Quốc Tử Giám: Tất cả thông tin và thủ tục cần biết |url=https://hanoionline.vn/phuong-van-mieu-quoc-tu-giam-tat-ca-thong-tin-chi-dan-ban-can-biet-344640.htm |url-status=dead |archive-url=https://web.archive.org/web/20260815401509/https://hanoionline.vn/phuong-van-mieu-quoc-tu-giam-tat-ca-thong-tin-chi-dan-ban-can-biet-344640.htm |archive-date=2026-08-15 |access-date=2026-08-15}}</ref>
+Phường Văn Miếu – Quốc Tử Giám có diện tích tự nhiên là 1,92&nbsp;km<sup>2</sup>, quy mô dân số năm 2025 là 105.604 người và mật độ dân số đạt 55.131 người/km<sup>2</sup>.<ref>{{Chú thích web |last=Mai Hữu |date=2026-04-05 |title=Hà Nội: Chi tiết phương án tổng thể sắp xếp đơn vị hành chính cấp xã |url=https://hanoimoi.vn/ha-noi-chi-tiet-phuong-an-tong-the-sap-xep-don-vi-hanh-chinh-cap-xa-700278.html |url-status=live |archive-url=https://web.archive.org/web/20260711401509/https://hanoimoi.vn/ha-noi-chi-tiet-phuong-an-tong-the-sap-xep-don-vi-hanh-chinh-cap-xa-700278.html |archive-date=2026-07-11 |access-date=2026-07-11 |website=Cơ quan Báo và Phát thanh, truyền hình Hà Nội}}</ref><ref>Công văn số 2896/BNV-CQĐP ngày 27 tháng 5 năm 2025 của Bộ Nội vụ về việc cung cấp thông tin danh mục dự kiến đơn vị hành chính cấp xã mới.</ref>
+
+== Lịch sử==
+
+=== Trước năm 1976 ===
+Hai phường Văn Miếu và Quốc Tử Giám được thành lập vào năm [[1961]] với tên gọi là tiểu khu Văn Miếu và tiểu khu Quốc Tử Giám thuộc khu phố [[Đống Đa (quận)|Đống Đa]].
+
+=== Giai đoạn 1976 – nay ===
+Sau ngày 2 tháng 7 năm 1976, 9 tiểu khu: Hàng Bột, Khâm Thiên, Nam Đồng, Phương Liên, Quốc Tử Giám, Thổ Quan, Trung Phụng, Văn Chương và Văn Miếu khu phố quận [[Đống Đa (quận)|Đống Đa]]; 2 tiểu khu: Lê Đại Hành và Nguyễn Du thuộc khu phố [[Hai Bà Trưng (quận)|Hai Bà Trưng]]; tiểu khu Điện Biên thuộc khu phố [[Ba Đình (quận)|Ba Đình]]; tiểu khu Cửa Nam thuộc khu phố [[Hoàn Kiếm (quận)|Hoàn Kiếm]] của thành phố [[Hà Nội]].
+
+Ngày 3 tháng 1 năm 1981, từ nay ở nội thành, đơn vị hành chính cấp dưới trực tiếp của [[Thành phố trực thuộc trung ương (Việt Nam)|thành phố trực thuộc trung ương]] đều thống nhất gọi là [[Quận (Việt Nam)|quận]]; các đơn vị hành chính cơ sở ở nội thành, nội thị của các [[Thành phố thuộc tỉnh (Việt Nam)|thành phố thuộc tỉnh]], [[Thị xã (Việt Nam)|thị xã]] và [[Quận (Việt Nam)|quận]] gọi là [[Phường (Việt Nam)|phường]]. Khi đó, 9 phường: Hàng Bột, Khâm Thiên, Nam Đồng, Phương Liên, Quốc Tử Giám, Thổ Quan, Trung Phụng, Văn Chương và Văn Miếu thuộc quận [[Đống Đa (quận)|Đống Đa]]; 2 phường: Lê Đại Hành và Nguyễn Du thuộc quận [[Hai Bà Trưng (quận)|Hai Bà Trưng]]; phường Điện Biên thuộc quận [[Ba Đình (quận)|Ba Đình]]; phường Cửa Nam thuộc quận [[Hoàn Kiếm (quận)|Hoàn Kiếm]].<ref>Quyết định số 3-CP ngày 3 tháng 1 năm 1981 của Hội đồng Chính phủ về việc thống nhất tên gọi các đơn vị hành chính ở nội thành nội thị.</ref>
+
+Ngày 14 tháng 11 năm 2024:
+
+* Nhập phường Trung Phụng (quận [[Đống Đa (quận)|Đống Đa]]) vào phường Khâm Thiên.
+* Thành lập phường Văn Miếu – Quốc Tử Giám (quận [[Đống Đa (quận)|Đống Đa]]) trên cơ sở nhập phường Quốc Tử Giám và phường Văn Miếu.
+* Thành lập phường Phương Liên – Trung Tự (quận [[Đống Đa (quận)|Đống Đa]]) trên cơ sở điều chỉnh một phần diện tích tự nhiên là 0,17&nbsp;km<sup>2</sup>, quy mô dân số là 4.924 người của phường Trung Tự để nhập vào phường Phương Liên.<ref>{{Chú thích web |title=Nghị quyết số 1286/NQ-UBTVQH15 ngày 14 tháng 11 năm 2024 của Ủy ban Thường vụ Quốc hội về việc sắp xếp đơn vị hành chính cấp xã của thành phố Hà Nội giai đoạn 2023 – 2025 |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/11/1286-qh.signed.pdf |url-status=live |archive-url=https://web.archive.org/web/20260704400809/https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/11/1286-qh.signed.pdf |archive-date=2026-07-04 |access-date=2026-07-04 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+
+Ngày 16 tháng 6 năm 2025:
+
+* Kết thúc hoạt động của đơn vị hành chính cấp huyện trong cả nước.<ref>{{Chú thích web |last= |date= |title=Nghị quyết số 203/2025/QH15 ngày 16 tháng 6 năm 2025 của Quốc hội khóa XV, Kỳ họp thứ 9 về việc sửa đổi, bổ sung một số điều của Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/nq-sua-doi-hien-phap.pdf |url-status=live |archive-url=https://web.archive.org/web/20260613090807/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/nq-sua-doi-hien-phap.pdf |archive-date=2026-06-13 |access-date=2026-06-13 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+* Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của các phường Khâm Thiên, Thổ Quan, Văn Chương (quận [[Đống Đa (quận)|Đống Đa]]), một phần diện tích tự nhiên, quy mô dân số của các phường Điện Biên (quận [[Ba Đình (quận)|Ba Đình]]), Hàng Bột, Văn Miếu – Quốc Tử Giám (quận [[Đống Đa (quận)|Đống Đa]]), phần còn lại của phường Cửa Nam (quận [[Hoàn Kiếm (quận)|Hoàn Kiếm]]), phần còn lại của phường Lê Đại Hành (quận [[Hai Bà Trưng (quận)|Hai Bà Trưng]]), phần còn lại của phường Nam Đồng (quận [[Đống Đa (quận)|Đống Đa]]), phần còn lại của phường Nguyễn Du (quận [[Hai Bà Trưng (quận)|Hai Bà Trưng]]) và phần còn lại của phường Phương Liên – Trung Tự (quận [[Đống Đa (quận)|Đống Đa]]) thành phường mới có tên gọi là phường Văn Miếu – Quốc Tử Giám.<ref>{{Chú thích web |title=Nghị quyết số 1656/NQ-UBTVQH15 ngày 16 tháng 6 năm 2025 của Ủy ban Thường vụ Quốc hội về việc sắp xếp các đơn vị hành chính cấp xã của thành phố Hà Nội năm 2025 |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf |url-status=live |archive-url=https://web.archive.org/web/20260630400809/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf |archive-date=2026-06-30 |access-date=2026-06-30 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+Ngày 8 tháng 8 năm 2025, đổi tên tổ dân phố trên địa bàn phường Văn Miếu – Quốc Tử Giám. Sau khi sắp xếp, phường Văn Miếu – Quốc Tử Giám được chia thành 103 tổ dân phố.<ref>103 tổ dân phố: 1, 1A, 2, 2A, từ 3 đến 9, 9A, 9B, từ 10 đến 46, 46A, 46B, 47, 47B và từ 48 đến 96.</ref><ref>{{Chú thích web |title=Thông tư số 10/2022/TT-BTNMT ngày 29 tháng 9 năm 2022 của Bộ Tài nguyên và Môi trường về việc Ban hành Danh mục địa danh dân cư, sơn văn, thủy văn, kinh tế – xã hội phục vụ công tác thành lập bản đồ thành phố Hà Nội |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2022/10/10-btnmt.pdf |url-status=live |archive-url=https://web.archive.org/web/20260630400809/https://datafiles.chinhphu.vn/cpp/files/vbpq/2022/10/10-btnmt.pdf |archive-date=2026-06-30 |access-date=2026-06-30 |website=Cổng Thông tin điện tử Chính phủ}}</ref><ref>{{Chú thích web |last=Phường Văn Miếu – Quốc Tử Giám – thành phố Hà Nội |date=2025-08-08 |title=Hội đồng nhân dân phường tổ chức Kỳ họp thứ ba – Kỳ họp chuyên đề: Xem xét, thảo luận, thông qua nghị quyết về đổi tên tổ dân phố trên địa bàn phường Văn Miếu – Quốc Tử Giám |url=https://web.facebook.com/phuongvanmieuquoctugiam/posts/pfbid028q3JhbnprFET3oDUQ5ppMGXL5FfsZHo18yDdMBMXYTidWjsSn5bdXVwsBfJXkEejl |url-status=dead |archive-url=https://web.archive.org/web/20260815201510/https://web.facebook.com/phuongvanmieuquoctugiam/posts/pfbid028q3JhbnprFET3oDUQ5ppMGXL5FfsZHo18yDdMBMXYTidWjsSn5bdXVwsBfJXkEejl |archive-date=2026-08-15 |access-date=2026-08-15}}</ref><ref>{{Chú thích web |last=Ủy ban bầu cử phường Văn Miếu – Quốc Tử Giám |date=2026-02-12 |title=Danh sách chính thức những người ứng cử đại biểu Hội đồng nhân dân phường Văn Miếu – Quốc Tử Giám khóa II |url=https://vanmieuquoctugiam.hanoi.gov.vn/tin-tuc-bau-cu/cong-bo-danh-sach-chinh-thuc-08-nguoi-ung-cu-dai-bieu-hdnd-phuong-van-mieu-quoc-tu-giam-khoa-ii-nhiem-ky-20262031-don-vi-bau-cu-so-1-2813260302140724567.htm?gidzl=7uIWE63k3saRcwG-QlO6RXEQh3vqfrLg3SMgCtVz0pOCdgaoT_O5OGQLhZWjh5PX1PJzE6L9MvfWPUyBQm |url-status=dead |archive-url=https://web.archive.org/web/20260815400809/https://vanmieuquoctugiam.hanoi.gov.vn/tin-tuc-bau-cu/cong-bo-danh-sach-chinh-thuc-08-nguoi-ung-cu-dai-bieu-hdnd-phuong-van-mieu-quoc-tu-giam-khoa-ii-nhiem-ky-20262031-don-vi-bau-cu-so-1-2813260302140724567.htm?gidzl=7uIWE63k3saRcwG-QlO6RXEQh3vqfrLg3SMgCtVz0pOCdgaoT_O5OGQLhZWjh5PX1PJzE6L9MvfWPUyBQm |archive-date=2026-08-15 |access-date=2026-08-15 |website=Trang Thông tin điện tử phường Văn Miếu – Quốc Tử Giám – thành phố Hà Nội}}</ref>
+
+Ngày 24 tháng 12 năm 2025, xác định phường Văn Miếu – Quốc Tử Giám là [[Đô thị Việt Nam|đô thị loại II]].<ref>Chuyển tiếp từ phường Điện Biên thuộc quận Ba Đình, 7 phường: Hàng Bột, Khâm Thiên, Nam Đồng, Phương Liên – Trung Tự, Thổ Quan, Văn Chương, Văn Miếu – Quốc Tử Giám thuộc quận Đống Đa, 2 phường: Lê Đại Hành, Nguyễn Du thuộc quận Hai Bà Trưng và phường Cửa Nam thuộc quận Hoàn Kiếm.</ref><ref>{{Chú thích web |title=Nghị quyết số 111/2025/UBTVQH15 ngày 24 tháng 12 năm 2025 của Ủy ban Thường vụ Quốc hội về phân loại đô thị |url=https://cdn.nhandan.vn/files/f4a4abf7f9a0ba4a91744616546d850872b76917f90d5a74cc9eebef1369fb6f/111.pdf |url-status=dead |archive-url=https://web.archive.org/web/20260430074852/https://cdn.nhandan.vn/files/f4a4abf7f9a0ba4a91744616546d850872b76917f90d5a74cc9eebef1369fb6f/111.pdf |archive-date=2026-04-30 |access-date=2026-07-12 |website=Báo Nhân dân}}</ref>
+
+Ngày 25 tháng 6 năm 2026, thành lập 35 tổ dân phố mới, đánh số từ 1 đến 35.<ref>1. Tổ dân phố số 1: Sáp nhập Tổ dân phố số 2, một phần Tổ dân phố số 2A và Tổ dân phố số 1A; 2. Tổ dân phố số 2: Sáp nhập Tổ dân phố số 3, Tổ dân phố số 4, một phần Tổ dân phố số 7 và Tổ dân phố số 5; 3. Tổ dân phố số 3: Sáp nhập Tổ dân phố số 2, một phần Tổ dân phố số 2A, Tổ dân phố số 6 và Tổ dân phố số 9A; 4. Tổ dân phố số 4: Sáp nhập một phần Tổ dân phố số 7, Tổ dân phố số 8 và Tổ dân phố số 9; 5. Tổ dân phố số 5: Sáp nhập từ Tổ dân phố số 14, Tổ dân phố số 15 và Tổ dân phố số 16; 6. Tổ dân phố số 6: Sáp nhập Tổ dân phố số 17, Tổ dân phố số 18 và Tổ dân phố số 19; 7. Tổ dân phố số 7: Sáp nhập một phần Tổ dân phố số 12, Tổ dân phố số 13, Tổ dân phố số 11 và Tổ dân phố số 20; 8. Tổ dân phố số 8: Sáp nhập một phần Tổ dân phố số 21, Tổ dân phố số 22, Tổ dân phố số 23, một phần Tổ dân phố số 24 và Tổ dân phố số 32; 9. Tổ dân phố số 9: Sáp nhập một phần Tổ dân phố số 12, một phần Tổ dân phố số 24, Tổ dân phố số 25 và Tổ dân phố số 31; 10. Tổ dân phố số 10: Sáp nhập một phần Tổ dân phố số 29 và một phần Tổ dân phố số 30; 11. Tổ dân phố số 11: Sáp nhập một phần Tổ dân phố số 21, Tổ dân phố số 33, Tổ dân phố số 34 và một phần Tổ dân phố số 35; 12. Tổ dân phố số 12: Sáp nhập một phần Tổ dân phố số 35, Tổ dân phố số 36 và Tổ dân phố số 37; 13. Tổ dân phố số 13: Sáp nhập Tổ dân phố số 38 và Tổ dân phố số 39; 14. Tổ dân phố số 14: Sáp nhập Tổ dân phố số 40, Tổ dân phố số 41 và Tổ dân phố số 42; 15. Tổ dân phố số 15: Sáp nhập Tổ dân phố số 26, một phần Tổ dân phố số 27, Tổ dân phố số 28, một phần Tổ dân phố số 29, một phần Tổ dân phố số 30 và một phần Tổ dân phố số 27; 16. Tổ dân phố số 16: Sáp nhập Tổ dân phố số 44, Tổ dân phố số 10 và một phần Tổ dân phố số 43; 17. Tổ dân phố số 17: Sáp nhập một phần Tổ dân phố số 43, Tổ dân phố số 45, Tổ dân phố số 46, Tổ dân phố số 9B, Tổ dân phố số 46B VÀ Tổ dân phố số 46A; 18. Tổ dân phố số 18: Sáp nhập Tổ dân phố số 47, Tổ dân phố số 67, Tổ dân phố số 47A và Tổ dân phố số 66; 19. Tổ dân phố số 19: Sáp nhập Tổ dân phố số 48, Tổ dân phố số 49 và một phần Tổ dân phố số 65; 20. Tổ dân phố số 20: Sáp nhập một phần Tổ dân phố số 50, một phần Tổ dân phố số 63, Tổ dân phố số 64, một phần Tổ dân phố số 65 và một phần Tổ dân phố số 69; 21. Tổ dân phố số 21: Sáp nhập một phần Tổ dân phố số 51, Tổ dân phố số 61, Tổ dân phố số 62 và một phần Tổ dân phố số 63; 22. Tổ dân phố số 22: Sáp nhập một phần Tổ dân phố số 51, một phần Tổ dân phố số 52 và một phần Tổ dân phố số 58; 23. Tổ dân phố số 23: Sáp nhập một phần Tổ dân phố số 52, Tổ dân phố số 57 và Tổ dân phố số 53; 24. Tổ dân phố số 24: Sáp nhập Tổ dân phố số 54, một phần Tổ dân phố số 55, Tổ dân phố số 56 và một phần Tổ dân phố số 58; 25. Tổ dân phố số 25: Sáp nhập một phần Tổ dân phố số 55, Tổ dân phố số 59 và Tổ dân phố số 60; 26. Tổ dân phố số 26: Sáp nhập Tổ dân phố số 78, Tổ dân phố số 79 và Tổ dân phố số 80; 27. Tổ dân phố số 27: Sáp nhập một phần Tổ dân phố số 69, Tổ dân phố số 70 và Tổ dân phố số 71; 28. Tổ dân phố số 28: Sáp nhập Tổ dân phố số 68, Tổ dân phố số 72 và Tổ dân phố số 73; 29. Tổ dân phố số 29: Sáp nhập Tổ dân phố số 74, Tổ dân phố số 75 và Tổ dân phố số 76; 30. Tổ dân phố số 30: Sáp nhập Tổ dân phố số 77, Tổ dân phố số 81 và Tổ dân phố số 82; 31. Tổ dân phố số 31: Sáp nhập một phần Tổ dân phố số 83, Tổ dân phố số 84, Tổ dân phố số 85 và Tổ dân phố số 86; 32. Tổ dân phố số 32: Sáp nhập Tổ dân phố số 83, Tổ dân phố số 87, Tổ dân phố số 88 và Tổ dân phố số 89, 33. Tổ dân phố số 33: Sáp nhập Tổ dân phố số 90 và Tổ dân phố số 95; 34. Tổ dân phố số 34: Sáp nhập Tổ dân phố số 93, Tổ dân phố số 92 và Tổ dân phố số 91; 35: Tổ dân phố số 35: Sáp nhập Tổ dân phố số 96 và Tổ dân phố số 94.</ref><ref name=":02">{{Chú thích web |last=Trang Thông tin điện tử phường Văn Miếu – Quốc Tử Giám – thành phố Hà Nội |date=2026-06-12 |title=Phường Văn Miếu – Quốc Tử Giám công khai dự thảo phương án sắp xếp tổ dân phố năm 2026 |url=https://vanmieuquoctugiam.hanoi.gov.vn/thong-tin-cong-khai/phuong-van-mieu-quoc-tu-giam-cong-khai-du-thao-phuong-an-sap-xep-to-dan-pho-nam-2026-2813260612155433657.htm?gidzl=wjsg9dq-u43kmguWToRfH-R3fY5fTxf2-9oWB6ejx1xvnwCjQYRgIVFCf2SmVBb9yCtt9sMXqdzNU3_aGW |url-status=dead |archive-url=https://web.archive.org/web/20260815400809/https://vanmieuquoctugiam.hanoi.gov.vn/thong-tin-cong-khai/phuong-van-mieu-quoc-tu-giam-cong-khai-du-thao-phuong-an-sap-xep-to-dan-pho-nam-2026-2813260612155433657.htm?gidzl=wjsg9dq-u43kmguWToRfH-R3fY5fTxf2-9oWB6ejx1xvnwCjQYRgIVFCf2SmVBb9yCtt9sMXqdzNU3_aGW |archive-date=2026-08-15 |access-date=2026-08-15 |website=}}</ref><ref name=":1">{{Chú thích web |last=Thịnh An – Hoàng Quyên |date=2026-06-25 |title=Phường Văn Miếu – Quốc Tử Giám chốt phương án sắp xếp tổ dân phố |url=https://hanoimoi.vn/phuong-van-mieu-quoc-tu-giam-chot-phuong-an-sap-xep-to-dan-pho-1209085.html?gidzl=kvqV44VTMZc_WXiMJSLJFhU34nvJb00ogTmL4r3ELcweXnOIKCLGEQAC4HWAdmCveOr266NASN0OGjnUEm |url-status=dead |archive-url=https://web.archive.org/web/20260815400809/https://hanoimoi.vn/phuong-van-mieu-quoc-tu-giam-chot-phuong-an-sap-xep-to-dan-pho-1209085.html?gidzl=kvqV44VTMZc_WXiMJSLJFhU34nvJb00ogTmL4r3ELcweXnOIKCLGEQAC4HWAdmCveOr266NASN0OGjnUEm |archive-date=2026-08-15 |access-date=2026-08-15 |website=Cơ quan Báo và Phát thanh, truyền hình Hà Nội}}</ref>
+
+== Hành chính== 
+Phường Văn Miếu – Quốc Tử Giám được chia thành 35 tổ dân phố, đánh số từ 1 đến 35.<ref name=":02" /><ref name=":1" />
+{| class="wikitable sortable" align="center" width="100%" cellspacing="6" cellpadding="0" style="background: #f9f9f9; border: 1px #aaa solid; margin-top: 16px"
+! colspan="4" style="background: #E6E6FA; font-size: 95%;" |Danh sách các tổ dân phố thuộc phường Văn Miếu – Quốc Tử Giám<ref name=":02" /><ref name=":1" />
+|-
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Tổ dân phố 1
+|837
+|-
+| align="left" |Tổ dân phố 2
+|1.006
+|-
+| align="left" |Tổ dân phố 3
+|920
+|-
+| align="left" |Tổ dân phố 4
+|710
+|-
+| align="left" |Tổ dân phố 5
+|848
+|-
+| align="left" |Tổ dân phố 6
+|845
+|-
+| align="left" |Tổ dân phố 7
+|865
+|-
+| align="left" |Tổ dân phố 8
+|1.001
+|-
+| align="left" |Tổ dân phố 9
+|1.010
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Tổ dân phố 10
+|711
+|-
+| align="left" |Tổ dân phố 11
+|985
+|-
+| align="left" |Tổ dân phố 12
+|709
+|-
+| align="left" |Tổ dân phố 13
+|814
+|-
+| align="left" |Tổ dân phố 14
+|994
+|-
+| align="left" |Tổ dân phố 15
+|1.144
+|-
+| align="left" |Tổ dân phố 16
+|782
+|-
+| align="left" |Tổ dân phố 17
+|903
+|-
+| align="left" |Tổ dân phố 18
+|826
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Tổ dân phố 19
+|789
+|-
+| align="left" |Tổ dân phố 20
+|736
+|-
+| align="left" |Tổ dân phố 21
+|1.044
+|-
+| align="left" |Tổ dân phố 22
+|716
+|-
+| align="left" |Tổ dân phố 23
+|801
+|-
+| align="left" |Tổ dân phố 24
+|839
+|-
+| align="left" |Tổ dân phố 25
+|730
+|-
+| align="left" |Tổ dân phố 26
+|778
+|-
+| align="left" |Tổ dân phố 27
+|907
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Tổ dân phố 28
+|808
+|-
+| align="left" |Tổ dân phố 29
+|896
+|-
+| align="left" |Tổ dân phố 30
+|752
+|-
+| align="left" |Tổ dân phố 31
+|889
+|-
+| align="left" |Tổ dân phố 32
+|780
+|-
+| align="left" |Tổ dân phố 33
+|802
+|-
+| align="left" |Tổ dân phố 34
+|747
+|-
+| align="left" |Tổ dân phố 35
+|831
+|}
+|}
+
+==Hình ảnh==
+[[Tập tin:On Ô Đồng Lầm Street 12-06-2022 E3.jpg|thumb|Phố Ô Đồng Lâm]]
+[[Tập tin:Ga Hà Nội - NKS.jpg|thumb|[[Ga Hà Nội]]]]
+[[File:Ho-Ba-Mau 4.jpg|thumb|Hồ Ba Mẫu]]
+
+== Chú thích ==
+{{tham khảo| 30em}}
+
+== Tham khảo== 
+{{Sơ khai Hà Nội}}
+{{Đơn vị hành chính thuộc thành phố Hà Nội}}

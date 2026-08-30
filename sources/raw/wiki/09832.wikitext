@@ -1,0 +1,195 @@
+{{Thông tin đơn vị hành chính Việt Nam|Xã| tên = Hoài Đức
+| hình = Nhà xứ Giang Xá.jpg
+| ghi chú hình = Nhà Thờ giáo xứ Giang Xá
+| diện tích = 16,73 km²
+| dân số = 69.239 người
+| thời điểm dân số = 2025
+| mật độ dân số = {{formatnum:{{#expr:floor({{formatnum:69.239| R}}/{{formatnum:16,73| R}})}} }} người/km²
+| thành phố = [[Hà Nội]]
+| vùng = [[Đồng bằng sông Hồng]]
+| mã hành chính =09832<ref>{{Chú thích web |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/19ttg.signed.pdf |title=Quyết định số 19/2025/QĐ-TTg ngày 30 tháng 6 năm 2025 của Thủ tướng Chính phủ về việc Ban hành Bảng danh mục và mã số các đơn vị hành chính Việt Nam |access-date=2026-06-15 |archive-date=2026-06-15 |archive-url=https://web.archive.org/web/20260615034519/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/19ttg.signed.pdf |url-status=dead | website = Cổng Thông tin điện tử Chính phủ}}</ref> 
+| trụ sở UBND = Số 125 đường Tỉnh lộ 422<ref>{{Chú thích web |url=https://storage-vnportal.vnpt.vn/gov-hni/6244/VanBan/2025/6/25/TB-729-2025.pdf |title=Thông báo số 729/TB-UBND ngày 25 tháng 6 năm 2025 của Ủy ban nhân dân thành phố Hà Nội về địa điểm trụ sở làm việc của 126 phường, xã sau sắp xếp thuộc phạm vi quản lý của thành phố Hà Nội|access-date=2026-06-15 |archive-date=2026-06-15 |archive-url=https://web.archive.org/web/20260615034519/https://storage-vnportal.vnpt.vn/gov-hni/6244/VanBan/2025/6/25/TB-729-2025.pdf |url-status=dead | website = Cổng Thông tin điện tử Ủy ban nhân dân thành phố Hà Nội}}</ref>
+| web = {{url|hoaiduc.hanoi.gov.vn}}
+| vĩ độ = 21.066249753388192| kinh độ = 105.70811978457324|bản đồ 1={{maplink|frame=yes|plain=yes|type=shape|frame-width=280|frame-align=center|stroke-width=3}}|trụ sở Đảng ủy=Số 125 đường Tỉnh lộ 422}}
+{{other|Hoài Đức (định hướng)}}
+'''Hoài Đức''' là một [[Xã (Việt Nam)|xã]] thuộc thành phố [[Hà Nội]], [[Việt Nam]].
+
+== Địa lý==
+Xã Hoài Đức có vị trí địa lý:
+* Phía đông giáp phường [[Tây Tựu]] và phường [[Xuân Phương]]
+* Phía tây giáp xã xã [[Đan Phượng (xã)|Đan Phượng]] và xã [[Dương Hòa]]
+* Phía nam giáp xã [[Sơn Đồng]]
+* Phía bắc giáp xã [[Ô Diên]].<ref>{{Chú thích web |last=Báo Tin tức và Dân tộc – Thông tấn xã Việt Nam |date=2025-07-01 |title=126 bản đồ địa giới hành chính của Hà Nội sau sáp nhập |url=https://baotintuc.vn/anh/126-ban-do-dia-gioi-hanh-chinh-cua-ha-noi-sau-sap-nhap-20250701143216649.htm |url-status=dead |archive-url=https://web.archive.org/web/20260723112357/https://baotintuc.vn/anh/126-ban-do-dia-gioi-hanh-chinh-cua-ha-noi-sau-sap-nhap-20250701143216649.htm |archive-date=2026-07-23 |access-date=2026-07-23}}</ref><ref>{{Chú thích web |last=Viện nghiên cứu Phát triển kinh tế – xã hội Hà Nội |date=2025-07-02 |title=Xã Hoài Đức: Những thông tin chi tiết sau sắp xếp |url=https://hanoionline.vn/xa-hoai-duc-nhung-thong-tin-chi-tiet-sau-sap-xep-344186.htm |url-status=live |archive-url=https://web.archive.org/web/20260701400809/https://hanoionline.vn/xa-hoai-duc-nhung-thong-tin-chi-tiet-sau-sap-xep-344186.htm |archive-date=2026-07-01 |access-date=2026-07-01 |website=Cơ quan Báo và Phát thanh Truyền hình Hà Nội}}</ref><ref>{{Chú thích web |last=Cơ quan Báo và Phát thanh Truyền hình Hà Nội |date=2025-07-08 |title=Xã Hoài Đức: Tất cả thông tin chỉ dẫn bạn cần biết |url=https://hanoionline.vn/xa-hoai-duc-tat-ca-thong-tin-chi-dan-ban-can-biet-345408.htm |url-status=live |archive-url=https://web.archive.org/web/20260711401509/https://hanoionline.vn/xa-hoai-duc-tat-ca-thong-tin-chi-dan-ban-can-biet-345408.htm |archive-date=2026-07-11 |access-date=2026-07-11}}</ref>
+Xã Hoài Đức có diện tích tự nhiên là 16,73&nbsp;km<sup>2</sup>, quy mô dân số năm 2025 là 69.239 người và mật độ dân số đạt 4.138 người/km<sup>2</sup>.<ref>{{Chú thích web |last=Mai Hữu |date=2026-04-05 |title=Hà Nội: Chi tiết phương án tổng thể sắp xếp đơn vị hành chính cấp xã |url=https://hanoimoi.vn/ha-noi-chi-tiet-phuong-an-tong-the-sap-xep-don-vi-hanh-chinh-cap-xa-700278.html |url-status=live |archive-url=https://web.archive.org/web/20260711401509/https://hanoimoi.vn/ha-noi-chi-tiet-phuong-an-tong-the-sap-xep-don-vi-hanh-chinh-cap-xa-700278.html |archive-date=2026-07-11 |access-date=2026-07-11 |website=Cơ quan Báo và Phát thanh, truyền hình Hà Nội}}</ref><ref>Công văn số 2896/BNV-CQĐP ngày 27 tháng 5 năm 2025 của Bộ Nội vụ về việc cung cấp thông tin danh mục dự kiến đơn vị hành chính cấp xã mới.</ref>
+
+== Lịch sử==
+
+=== Trước năm 1976 ===
+
+=== Giai đoạn 1976 – nay ===
+Sau ngày 2 tháng 7 năm 1976, 4 xã: Di Trạch, Đức Giang, Đức Thượng, Kim Chung thuộc huyện [[Hoài Đức (huyện)|Hoài Đức]]; xã Tân Lập thuộc huyện [[Đan Phượng (huyện)|Đan Phượng]] thuộc tỉnh [[Hà Sơn Bình]].
+
+Ngày 29 tháng 12 năm 1978, sáp nhập các huyện [[Đan Phượng (huyện)|Đan Phượng]] và [[Hoài Đức (huyện)|Hoài Đức]] của tỉnh [[Hà Sơn Bình]] vào thành phố [[Hà Nội]]. Khi đó, xã Tân Lập thuộc huyện [[Đan Phượng (huyện)|Đan Phượng]]; 4 xã: Di Trạch, Đức Giang, Đức Thượng, Kim Chung thuộc huyện [[Hoài Đức (huyện)|Hoài Đức]] của thành phố [[Hà Nội]].<ref>Nghị quyết ngày 29 tháng 12 năm 1978 của Quốc hội khóa VI, Kỳ họp thứ 4 phê chuẩn việc phân vạch lại địa giới thành phố Hà Nội, thành phố Hồ Chí Minh, các tỉnh Hà Sơn Bình, Vĩnh Phú, Cao Lạng, Bắc Thái, Quảng Ninh và Đồng Nai.</ref>
+
+Ngày 12 tháng 8 năm 1991, chia tỉnh [[Hà Sơn Bình]] thành 2 tỉnh, lấy tên là tỉnh [[Hòa Bình (tỉnh)|Hòa Bình]] và tỉnh [[Hà Tây (tỉnh)|Hà Tây]]. Chuyển 2 huyện: [[Đan Phượng (huyện)|Đan Phượng]] và [[Hoài Đức (huyện)|Hoài Đức]] của thành phố [[Hà Nội]] về tỉnh [[Hà Tây (tỉnh)|Hà Tây]]. Khi đó, xã Tân Lập thuộc huyện [[Đan Phượng (huyện)|Đan Phượng]]; 4 xã: Di Trạch, Đức Giang, Đức Thượng, Kim Chung thuộc huyện [[Hoài Đức (huyện)|Hoài Đức]] của tỉnh [[Hà Tây (tỉnh)|Hà Tây]].<ref>Nghị quyết ngày 12 tháng 8 năm 1991 của Quốc hội khóa VIII, Kỳ họp thứ 9 về việc điều chỉnh địa giới hành chính một số tỉnh, thành phố trực thuộc Trung ương.</ref>
+
+Ngày 23 tháng 6 năm 1994, thành lập thị trấn Trạm Trôi (thị trấn huyện lỵ huyện [[Hoài Đức (huyện)|Hoài Đức]]) trên cơ sở thôn Giang Xá có diện tích tự nhiên 122,4 hécta, nhân khẩu 4.074 của xã Đức Giang.<ref>{{Chú thích web |title=Nghị định số 52-CP ngày 23 tháng 6 năm 1994 của Chính phủ về việc điều chỉnh địa giới huyện và thành lập thị trấn, phường thuộc các huyện Hoài Đức, Chương Mỹ, Thạch Thất, Thanh Oai, thị xã Hà Đông, tỉnh Hà Tây |url=https://chinhphu.vn/default.aspx?pageid=27160&docid=2281 |url-status=dead |archive-url=https://web.archive.org/web/20260813201510/https://chinhphu.vn/default.aspx?pageid=27160&docid=2281 |archive-date=2026-08-13 |access-date=2026-08-13 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+
+Ngày 29 tháng 5 năm 2008, hợp nhất tỉnh [[Hà Tây (tỉnh)|Hà Tây]] vào thành phố [[Hà Nội]]. Khi đó, thị trấn Trạm Trôi và 4 xã: Di Trạch, Đức Giang, Đức Thượng, Kim Chung thuộc huyện [[Hoài Đức (huyện)|Hoài Đức]]; xã Tân Lập thuộc huyện [[Đan Phượng (huyện)|Đan Phượng]] thuộc thành phố [[Hà Nội]].<ref>Nghị quyết số 15/2008/QH12 ngày 29 tháng 5 năm 2008 của Quốc hội khóa XII, Kỳ họp thứ 3 về việc điều chỉnh địa giới hành chính thành phố Hà Nội và một số tỉnh có liên quan.</ref>
+
+Ngày 16 tháng 6 năm 2025:
+
+* Kết thúc hoạt động của đơn vị hành chính cấp huyện trong cả nước.<ref>{{Chú thích web |last= |date= |title=Nghị quyết số 203/2025/QH15 ngày 16 tháng 6 năm 2025 của Quốc hội khóa XV, Kỳ họp thứ 9 về việc sửa đổi, bổ sung một số điều của Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/nq-sua-doi-hien-phap.pdf |url-status=live |archive-url=https://web.archive.org/web/20260613090807/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/nq-sua-doi-hien-phap.pdf |archive-date=2026-06-13 |access-date=2026-06-13 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+* Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của thị trấn Trạm Trôi, các xã Di Trạch, Đức Giang, Đức Thượng (huyện [[Hoài Đức (huyện)|Hoài Đức]]), một phần diện tích tự nhiên của phường Tây Tựu (quận [[Bắc Từ Liêm]]) và xã Tân Lập (huyện [[Đan Phượng (huyện)|Đan Phượng]]), phần còn lại của xã Kim Chung (huyện [[Hoài Đức (huyện)|Hoài Đức]]) thành xã mới có tên gọi là xã Hoài Đức.
+* Sau khi sắp xếp, xã Hoài Đức được chia thành 25 tổ dân phố – thôn, gồm 2 tổ dân phố và 23 thôn.<ref>2 tổ dân phố – thôn, gồm tổ dân phố Trạm Trôi và thôn Giang Xá của thị trấn Trạm Trôi cũ; 6 thôn: Ải, Dậu 1, 2, Dền, Đa và Vực của xã Di Trạch cũ; 4 thôn: Cao Hạ, Cao Trung, Lũng Kênh và Lưu Xá của xã Đức Giang cũ; 8 thôn: Cao Xá, Chiền, Cựu Quán, Nhuệ, Nội, Phố Thú Ý, Phú Đa và Thượng Thụy của xã Đức Thượng cũ; 5 tổ dân phố – thôn, gồm tổ dân phố 1 và 4 thôn: Đại Tự, Lai Xá, Yên Bệ, Yên Vĩnh của xã Kim Chung cũ.</ref><ref>{{Chú thích web |title=Thông tư số 10/2022/TT-BTNMT ngày 29 tháng 9 năm 2022 của Bộ Tài nguyên và Môi trường về việc Ban hành Danh mục địa danh dân cư, sơn văn, thủy văn, kinh tế – xã hội phục vụ công tác thành lập bản đồ thành phố Hà Nội |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2022/10/10-btnmt.pdf |url-status=live |archive-url=https://web.archive.org/web/20260630400809/https://datafiles.chinhphu.vn/cpp/files/vbpq/2022/10/10-btnmt.pdf |archive-date=2026-06-30 |access-date=2026-06-30 |website=Cổng Thông tin điện tử Chính phủ}}</ref><ref>{{Chú thích web |last=Ủy ban bầu cử xã Hoài Đức |date=2026-02-13 |title=Danh sách chính thức những người ứng cử đại biểu Hội đồng Nhân dân xã Hoài Đức nhiệm kỳ 2026 – 2031 |url=https://hoaiduc.hanoi.gov.vn/thong-bao/danh-sach-chinh-thuc-nhung-nguoi-ung-cudai-bieu-hoi-dong-nhan-dan-xa-hoai-duc-nhiem-ky-2026-2031-2784260226140627576.htm?gidzl=CF8N4uq5mrGqxHCLXnt5KZhh716VIvvU8-z9IiiVcWKZuHX6aHQO0YApJn6THCjK8hCSHpMBnk5sY0J7LW |url-status=dead |archive-url=https://web.archive.org/web/20260814201510/https://hoaiduc.hanoi.gov.vn/thong-bao/danh-sach-chinh-thuc-nhung-nguoi-ung-cudai-bieu-hoi-dong-nhan-dan-xa-hoai-duc-nhiem-ky-2026-2031-2784260226140627576.htm?gidzl=CF8N4uq5mrGqxHCLXnt5KZhh716VIvvU8-z9IiiVcWKZuHX6aHQO0YApJn6THCjK8hCSHpMBnk5sY0J7LW |archive-date=2026-08-14 |access-date=2026-08-14 |website=Trang Thông tin điện tử xã Hoài Đức – thành phố Hà Nội}}</ref>
+Ngày 24 tháng 12 năm 2025, xác định một phần của xã Hoài Đức là [[Đô thị Việt Nam|đô thị loại II]] và [[Đô thị Việt Nam|đô thị loại III]].<ref>Đô thị loại II (chuyển tiếp từ phường Tây Tựu thuộc quận Bắc Từ Liêm) và đô thị loại III (chuyển tiếp từ thị trấn Trạm Trôi thuộc huyện Hoài Đức).</ref><ref>{{Chú thích web |title=Nghị quyết số 111/2025/UBTVQH15 ngày 24 tháng 12 năm 2025 của Ủy ban Thường vụ Quốc hội về phân loại đô thị |url=https://cdn.nhandan.vn/files/f4a4abf7f9a0ba4a91744616546d850872b76917f90d5a74cc9eebef1369fb6f/111.pdf |url-status=dead |archive-url=https://web.archive.org/web/20260712401509/https://cdn.nhandan.vn/files/f4a4abf7f9a0ba4a91744616546d850872b76917f90d5a74cc9eebef1369fb6f/111.pdf |archive-date=2026-07-12 |access-date=2026-07-12 |website=Báo Nhân dân}}</ref>
+
+Ngày 26 tháng 6 năm 2026, thành lập 3 thôn mới: Phú Đa, Thượng Thụy, Lai Xá và tổ dân phố mới Kim Chung.<ref name=":1">1. Thôn Cao Xá: Giữ nguyên thôn Cao Xá; 2. Thôn Chiền: Giữ nguyên thôn Chiền; 3. Thôn Cựu Quán: Giữ nguyên thôn Cựu Quán; 4. Thôn Nhuệ: Giữ nguyên thôn Nhuệ; 5. Thôn Nội: Giữ nguyên thôn Nội; 6. Thôn Cao Trung: Giữ nguyên thôn Cao Trung; 7. Thôn Cao Hạ: Giữ nguyên thôn Cao Hạ; 8. Thôn Lưu Xá: Giữ nguyên thôn Lưu Xá; 9. Thôn Lũng Kênh: Giữ nguyên thôn Lũng Kênh; 10. Thôn Giang Xá: Giữ nguyên thôn Giang Xá; 11. Tổ dân phố Trạm Trôi: Giữ nguyên tổ dân phố Trạm Trôi; 12. Thôn Ải: Giữ nguyên thôn Ải; 13. Thôn Dền: Giữ nguyên thôn Dền; 14. Thôn Dậu 1: Giữ nguyên thôn Dậu 1; 15. Thôn Dậu 2: Giữ nguyên thôn Dậu 2; 16. Thôn Đa: Giữ nguyên thôn Đa; 17. Thôn Vực: Giữ nguyên thôn Vực; 18. Thôn Yên Vĩnh: Giữ nguyên thôn Yên Vĩnh; 19. Thôn Đại Tự: Giữ nguyên thôn Đại Tự; 20. Thôn Yên Bệ: Giữ nguyên thôn Yên Bệ; 21. Thôn Phú Đa: Sáp nhập toàn bộ diện tích, quy mô dân số của thôn Phú Đa và thôn Phố Thú Y, khu nhà ở xã hội Đức Thượng; 22. Thôn Thượng Thụy: Nhập toàn bộ khu nhà ở Đông Dương và khu đấu giá X1 vào thôn Thượng Thuỵ; 23. Thôn Lai Xá: Nhập khu đô thị Kim Chung – Di Trạch. Chuyển khu nhà ở AZ Thăng Long, khu đất đấu giá và dịch vụ Lai Xá, khu tập thể Bông Vải Sợi, tập thể Tổng Kho, các hộ phía Bắc Quốc lộ 32 về tổ dân phố Kim Chung. Thôn Lai Xá sau sắp xếp: Diện tích và dân cư: Phía Nam đường Quốc lộ 32 và toàn bộ khu đô thị Kim Chung – Di Trạch; 24. Tổ dân phố Kim Chung: Nhập khu nhà ở AZ Thăng Long, khu đất đấu giá và dịch vụ Lai Xá, khu tập thể Bông Vải Sợi, tập thể Tổng Kho, các hộ phía Bắc Qu ốc lộ 32 của thôn Lai Xá.</ref><ref name=":2">{{Chú thích web |last= |date= |title=Thông báo số 798/TB-UBND ngày 1 tháng 7 năm 2026 của Ủy ban nhân dân xã Hoài Đức về việc sắp xếp thôn, tổ dân phố theo Nghị quyết của Hội đồng nhân dân xã Hoài Đức |url=https://sqhx-hanoi.mediacdn.vn/91579363132710912/2026/7/3/thong-bao-cong-khai-danh-sach-cac-thon-sau-sap-xep-17830387482731638752566.pdf |url-status=dead |archive-url=https://web.archive.org/web/20260814201510/https://sqhx-hanoi.mediacdn.vn/91579363132710912/2026/7/3/thong-bao-cong-khai-danh-sach-cac-thon-sau-sap-xep-17830387482731638752566.pdf |archive-date=2026-08-14 |access-date=2026-08-14 |website=Trang Thông tin điện tử xã Hoài Đức – thành phố Hà Nội}}</ref>
+
+== Hành chính==
+Xã Hoài Đức được chia thành 24 tổ dân phố – thôn, gồm 2 tổ dân phố: Kim Chung, Trạm Trôi và 24 thôn: Ải, Cao Hạ, Cao Trung, Cao Xá, Chiền, Cựu Quán, Dậu 1, 2, Dền, Đa, Đại Tự, Giang Xá, Lai Xá, Lũng Kênh, Lưu Xá, Nhuệ, Nội, Phú Đa, Thượng Thụy, Vực, Yên Bệ, Yên Vĩnh.<ref name=":2" />
+{| class="wikitable sortable" align="center" width="100%" cellspacing="6" cellpadding="0" style="background: #f9f9f9; border: 1px #aaa solid; margin-top: 16px"
+! colspan="4" style="background: #E6E6FA; font-size: 95%;" |Danh sách các tổ dân phố – thôn thuộc xã Hoài Đức<ref name=":2" />
+|-
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| colspan="4" align="left" style="background: #F5F5DC; padding-left: 30px;" |'''Tổ dân phố (2)'''
+|-
+| align="left" |Kim Chung
+|1.945
+|-
+| align="left" |Trạm Trôi
+|1.033
+|-
+| colspan="4" align="left" style="background: #F5F5DC; padding-left: 30px;" |'''Thôn (22)'''
+|-
+| align="left" |Ải
+|718
+|-
+| align="left" |Cao Hạ
+|705
+|-
+| align="left" |Cao Trung
+|1.263
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Cao Xá
+|1.031
+|-
+| align="left" |Chiền
+|528
+|-
+| align="left" |Cựu Quán
+|1.054
+|-
+| align="left" |Dậu 1
+|531
+|-
+| align="left" |Dậu 2
+|506
+|-
+| align="left" |Dền
+|921
+|-
+| align="left" |Đa
+|545
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Đại Tự
+|985
+|-
+| align="left" |Giang Xá
+|1.804
+|-
+| align="left" |Lai Xá
+|1.823
+|-
+| align="left" |Lũng Kênh
+|870
+|-
+| align="left" |Lưu Xá
+|1.453
+|-
+| align="left" |Nhuệ
+|567
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Nội
+|617
+|-
+| align="left" |Phú Đa
+|634
+|-
+| align="left" |Thượng Thụy
+|630
+|-
+| align="left" |Vực
+|694
+|-
+| align="left" |Yên Bệ
+|849
+|-
+| align="left" |Yên Vĩnh
+|1.065
+|}
+|}
+
+== Đường phố==
+* Đường Vạn Xuân
+* Tỉnh lộ 422 (Đường 79 cũ)
+
+== Tín ngưỡng, tôn giáo và văn hoá== 
+Trên địa bàn xã các thôn Đại Tự, Di Trạch, Giang Xá, Lai Xá, Lũng Kênh, Thượng Thụy, Yên Bệ có một phần người dân theo [[Kitô giáo|đạo Thiên chúa]].
+
+Đình và chùa trên địa bàn xã đã được nhà nước xếp hạng công nhận là di tích lịch sử văn hoá.
+
+== Nhân vật nổi bật== 
+* [[Nguyễn Văn Huyên]] (1905 – 1975) là một người [[Giáo sư]], [[tiến sĩ]], [[nhà sử học]], [[Giáo viên|nhà giáo dục]], nhà nghiên cứu [[văn hóa]], Nguyên Bộ trưởng [[Bộ Giáo dục và Đào tạo|Bộ Giáo dục]] ([[1946]] – [[1975]]). Quê ở thôn Lai Xá.
+* [[Nguyễn Đình Khánh]] (1874 – 1946), tên thật là '''Nguyễn Văn Xuân''', hiệu là '''Khánh Ký''', là một người [[nhiếp ảnh gia]] người Việt Nam.
+* [[Đinh Tiến Mậu]] (1935 – 2020) là một người [[nhiếp ảnh gia]] người Việt Nam.
+* [[Văn Tân (nhà sử học)|Văn Tân]] (1913 – 1988) là một Giáo sư, thuộc lớp những nhà sử học đầu tiên ở Việt Nam. Ông cũng có nhiều công trình nghiên cứu giá trị về văn học và từ điển học.
+<!-- 
+== Giao thông== 
+Các tuyến, hệ thống giao thông quan trọng đi qua xã Kim Chung:
+
+* Quốc lộ 32: Xã có gần 2000m quốc lộ 32 chạy qua (đoạn từ lý trình km13 + 915 đến km15 + 620) trong tổng số 5960m quốc lộ 32 đi qua huyện Hoài Đức.
+* Tỉnh lộ 422B: đi ngã tư Canh, ngã tư Sơn Đồng.
+* Hệ thống xe buýt: 20A, 29, 70A, 70B, 92, 97, 117, 163...
+
+== Văn hóa==
+
+=== Di tích=== 
+Xã Kim Chung có nhiều di tích có giá trị về văn hóa, lịch sử, kiến trúc, nghệ thuật cũng như khảo cổ học tiêu biểu như:
+
+* Cụm di tích đình chùa Lai Xá thờ Hoàng hậu Thuận Thiên, Cung phi Nguyệt Nương; An Sinh Vương Trần Liễu đã được dân làng phong làm thành hoàng và thờ tự. Cụm di tích được Bộ văn hóa thông tin xếp hạng là di tích kiến trúc và nghệ thuật cấp quốc gia 1990.
+* Di chỉ Vườn Chuối là di chỉ có giá trị nghiên cứu khảo cổ học từ 2000 - 3000 năm trước với nhiều cổ vật như đồ đá, đồ đồng, sành, tre...
+* Bảo tàng Nhiếp ảnh Lai Xá là nơi bảo tồn, lưu giữ nhiều hiện vật, di sản văn hóa, sự thăng trầm của nghề ảnh suốt thế kỷ 20 đến nay.
+* Bảo tàng Nguyễn Văn Huyên, nơi lưu giữ, trưng bày, giới thiệu về cuộc đời và sự nghiệp nghiên cứu khoa học, giáo dục của giáo sư Nguyễn Văn Huyên, Bộ trưởng Bộ Quốc gia Giáo dục nước Việt Nam Dân Chủ Cộng Hoà (1946 – 1975).
+
+== Hạ tầng== 
+Với vị trí nằm sát trung tâm nội thành thành phố Hà Nội nên xã có tốc độ đô thị hóa khá nhanh ở các khu dân cư thôn xóm. Có rất nhiều khu đô thị lớn ở xã và ở các xã, thị trấn lân cận như: khu đô thị Kim Chung - Di Trạch (nay là Hinode Royal Park), khu đô thị Vân Canh, khu đô thị Lideco, khu đô thị Vườn Cam... cho thấy tốc độ đô thị hóa ở đây khá lớn. Việc đô thị hóa ngoài tự phát quá nhanh và nhiều cũng gây ra một số hệ lụy như cung vượt quá cầu ở các khu đô thị này gây ra nhiều lãng phí.
+
+== Kinh tế== 
+Xã Kim Chung hầu như không còn đất sản xuất nông nghiệp. Kinh tế hộ gia đình chủ yếu dựa vào thương mại, dịch vụ, tiểu thủ công nghiệp. Đây là xã có dịch vụ phát triển mạnh nhất là ở thôn Lai Xá. Thôn Lai Xá cũng là làng nghề truyền thống nhiếp ảnh đã được công nhận. Thôn Đại Tự còn có nghề mộc, cơ khí nhỏ. Cơ sở hạ tầng dân sinh của xã đang dần hiện đại ở một xã ven đô.
+
+ -->
+== Chú thích== 
+{{tham khảo}}
+
+== Tham khảo ==
+{{Sơ khai Hà Nội}}{{Đơn vị hành chính thuộc thành phố Hà Nội}}

@@ -1,0 +1,60 @@
+{{Thông tin đơn vị hành chính Việt Nam | xã
+| tên = Bình Xuyên
+| hình = 
+| ghi chú hình = 
+| vĩ độ = 21.32138926125862
+| kinh độ = 105.64632024150586
+| diện tích = 29,50 km²
+| dân số = 32.534 người
+| thời điểm dân số = 2025
+| mật độ dân số = {{formatnum:{{#expr:floor({{formatnum:32.534| R}}/{{formatnum:29,50| R}})}} }} người/km²
+| vùng = [[Đông Bắc Bộ]]
+| tỉnh = [[Phú Thọ]]
+| thành lập =16 tháng 6 năm 2025<ref>Nghị quyết số 1676/NQ-UBTVQH15</ref> 
+| trụ sở UBND =Thôn Chân Sơn 
+| mã hành chính = 
+| mã bưu chính = 
+|web={{url|binhxuyen.phutho.gov.vn}}
+|logo=Seal of Bình Xuyên District.png
+|ghi chú logo=Biểu trưng
+|loại đô thị=|năm công nhận=}}
+{{other|Bình Xuyên (định hướng)}}
+'''Bình Xuyên''' là một [[Xã (Việt Nam)|xã]] thuộc tỉnh [[Phú Thọ]], [[Việt Nam]].
+
+== Địa lý ==
+Xã Bình Xuyên nằm ở phía Đông Bắc tỉnh [[Phú Thọ]], có vị trí địa lý<ref>{{Chú thích web |title=Đơn vị hành chính Việt Nam |url=https://sapnhap.bando.com.vn/ |access-date=2026-04-02 |website=sapnhap.bando.com.vn}}</ref>:
+
+* Phía Bắc giáp xã [[Tam Đảo (xã)|Tam Đảo]].
+* Phia Tây giáp xã [[Tam Dương (xã)|Tam Dương]] và phường [[Vĩnh Phúc (phường)|Vĩnh Phúc]].
+* Phía Nam giáp xã [[Bình Nguyên, Phú Thọ|Bình Nguyên]].
+* Phía Đông giáp xã [[Bình Tuyền, Phú Thọ|Bình Tuyền]].
+
+Xã có diện tích 29,50&nbsp;km², dân số năm 2025 là 32.534 người, mật độ dân số đạt 1.103 người/km².<ref>{{Chú thích web |title=Xã Bình Xuyên - Tỉnh Phú Thọ mới được sáp nhập từ những đơn vị nào? |url=https://tinhthanhvn.com/tinh-thanh/phu-tho/xa-binh-xuyen |access-date=2026-04-02 |website=Tỉnh Thành Việt Nam |language=vi}}</ref>
+
+== Hành chính ==
+Xã Bình Xuyên được chia thành 32 thôn: Ba Mô, Cầu Đá, Chân Sơn, Chùa Tiếng, Cổ Độ, Cơ Khí, Cơ Quan, Gia Du, Gò Dẫu, Gốc Gạo, Hà Châu, Hiệp Thuận, Hoàng Oanh, Hương Đà, Hương Ngọc, Hương Vị, Lưu Quang, Ngũ Hồ, Quang Khải, Quảng Khai, Sơn Bi, Tam Hà, Tam Lộng, Tam Quang, Tân Hà, Thanh Xuân, Thiếu Khanh, Thiện Kế, Trại Mới, Vĩnh Phượng, Xây Dựng, Xuân Quang.<ref name=":12">{{Chú thích web |last=Bộ Dân tộc và Tôn giáo |date=2026-01-29 |title=Danh sách Thôn vùng đồng bào dân tộc thiểu số và miền núi, thôn đặc biệt khó khăn giai đoạn 2026 - 2030 trên địa bàn tỉnh Phú Thọ |url=http://files.ubdt.gov.vn/files/ecm/source_files/2026/02/05/11252411_4.%20Ph%C3%BA%20Th%E1%BB%8D%201%20(th%C3%B4n).signed_26-02-05.pdf |url-status=live |archive-url=https://web.archive.org/web/20260417090807/http://files.ubdt.gov.vn/files/ecm/source_files/2026/02/05/11252411_4.%20Ph%C3%BA%20Th%E1%BB%8D%201%20(th%C3%B4n).signed_26-02-05.pdf |archive-date=2026-04-17 |access-date=2026-04-17 |website=Cổng Thông tin điện tử Bộ Dân tộc và Tôn giáo}}</ref><ref name=":0">{{Chú thích web |last=Ủy ban bầu cử xã Bình Xuyên |date=2026-02-13 |title=Nghị quyết số 2/NQ-UBBC về việc công bố danh sách chính thức những người ứng cử đại biểu Hội đồng nhân dân xã Bình Xuyên, nhiệm kỳ 2021 - 2026 theo từng đơn vị bầu cử |url=https://binhxuyen.phutho.gov.vn/images/nghi_quyet_02.pdf |url-status=live |archive-url=https://web.archive.org/web/20260419090807/https://binhxuyen.phutho.gov.vn/images/nghi_quyet_02.pdf |archive-date=2026-04-19 |access-date=2026-04-19 |website=Trang Thông tin điện tử xã Bình Xuyên - tỉnh Phú Thọ}}</ref>
+
+== Lịch sử ==
+Ngày [[2 tháng 4]] năm [[2007]], thị trấn Gia Khánh được thành lập trên cơ sở toàn bộ diện tích và dân số của xã Gia Khánh cũ; 81,20 ha diện tích tự nhiên và 916 người của xã Thiện Kế.
+
+Ngày [[12 tháng 6]] năm [[2025]], [[Quốc hội Việt Nam|Quốc hội]] ban hành Nghị quyết số 202/2025/QH15 về việc sắp xếp đơn vị hành chính cấp tỉnh (nghị quyết có hiệu lực từ ngày [[12 tháng 6]] năm [[2025]]).<ref>{{Chú thích web |last=xaydungchinhsach.chinhphu.vn |date=2025-07-16 |title=TOÀN VĂN: Nghị quyết số 202/2025/QH15 về sắp xếp đơn vị hành chính cấp tỉnh |url=https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-202-2025-qh15-ve-sap-xep-don-vi-hanh-chinh-cap-tinh-119250612174148722.htm |url-status=live |archive-url=http://web.archive.org/web/20260705025431/https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-202-2025-qh15-ve-sap-xep-don-vi-hanh-chinh-cap-tinh-119250612174148722.htm |archive-date=2026-07-05 |access-date=2026-07-25 |website=Báo Điện tử Chính phủ |language=vi}}</ref> Theo đó, sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của tỉnh [[Vĩnh Phúc (tỉnh)|Vĩnh Phúc]], tỉnh [[Hòa Bình (tỉnh)|Hòa Bình]] và tỉnh [[Phú Thọ]] thành tỉnh mới có tên gọi là tỉnh '''Phú Thọ'''.
+
+Ngày [[16 tháng 6]] năm [[2025]]:
+
+* Quốc hội ban hành Nghị quyết số 203/2025/QH15 về việc sửa đổi, bổ sung một số điều của Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam (nghị quyết có hiệu lực từ ngày [[16 tháng 6]] năm [[2025]]).<ref>{{Chú thích web |last=xaydungchinhsach.chinhphu.vn |date=2025-06-28 |title=NGHỊ QUYẾT 203/2025/QH15 SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA HIẾN PHÁP NƯỚC CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM |url=https://xaydungchinhsach.chinhphu.vn/nghi-quyet-203-2025-qh15-sua-doi-bo-sung-mot-so-dieu-cua-hien-phap-nuoc-cong-hoa-xa-hoi-chu-nghia-viet-nam-119250616181735552.htm |url-status=live |archive-url=http://web.archive.org/web/20260715200606/https://xaydungchinhsach.chinhphu.vn/nghi-quyet-203-2025-qh15-sua-doi-bo-sung-mot-so-dieu-cua-hien-phap-nuoc-cong-hoa-xa-hoi-chu-nghia-viet-nam-119250616181735552.htm |archive-date=2026-07-15 |access-date=2026-07-15 |website=Báo Điện tử Chính phủ |language=vi}}</ref> Theo đó, kết thúc hoạt động của đơn vị hành chính cấp huyện trong cả nước từ ngày 1 tháng 7 năm 2025.
+
+* [[Ủy ban Thường vụ Quốc hội]] ban hành Nghị quyết số 1676/NQ-UBTVQH15 về việc sắp xếp đơn vị hành chính cấp xã của tỉnh [[Phú Thọ]] năm 2025 (nghị quyết có hiệu lực từ ngày [[16 tháng 6]] năm [[2025]]).<ref>{{Chú thích web |last=xaydungchinhsach.chinhphu.vn |date=2025-06-20 |title=Nghị quyết số 1676/NQ-UBTVQH15 sắp xếp các ĐVHC cấp xã của tỉnh Phú Thọ năm 2025 |url=https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-1676-nq-ubtvqh15-sap-xep-cac-dvhc-cap-xa-cua-tinh-phu-tho-nam-2025-119250616204317326.htm |url-status=live |archive-url=http://web.archive.org/web/20260725082021/https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-1676-nq-ubtvqh15-sap-xep-cac-dvhc-cap-xa-cua-tinh-phu-tho-nam-2025-119250616204317326.htm |archive-date=2026-07-25 |access-date=2025-09-07 |website=Báo Điện tử Chính phủ |language=vi}}</ref> Theo đó, sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của thị trấn Gia Khánh, xã Hương Sơn và xã Thiện Kế thành xã mới có tên gọi là '''xã Bình Xuyên'''.
+Sau khi thực hiện sắp xếp, xã Bình Xuyên được chia thành 32 thôn: Ba Mô, Cầu Đá, Chân Sơn, Chùa Tiếng, Cổ Độ, Cơ Khí, Cơ Quan, Gia Du, Gò Dẫu, Gốc Gạo, Hà Châu, Hiệp Thuận, Hoàng Oanh, Hương Đà, Hương Ngọc, Hương Vị, Lưu Quang, Ngũ Hồ, Quang Khải, Quảng Khai, Sơn Bi, Tam Hà, Tam Lộng, Tam Quang, Tân Hà, Thanh Xuân, Thiếu Khanh, Thiện Kế, Trại Mới, Vĩnh Phượng, Xây Dựng, Xuân Quang.<ref name=":12" /><ref name=":0" />
+
+Ngày [[24 tháng 12]] năm [[2025]], Ủy ban Thường vụ Quốc hội ban hành Nghị quyết số 111/2025/UBTVQH15 về phân loại đô thị (nghị quyết có hiệu lực từ ngày [[1 tháng 1]] năm [[2026]]).<ref>{{Chú thích web |last=xaydungchinhsach.chinhphu.vn |date=2026-01-21 |title=Nghị quyết số 111/2025/UBTVQH15 về phân loại đô thị |url=https://xaydungchinhsach.chinhphu.vn/nghi-quyet-so-111-2025-ubtvqh15-ve-phan-loai-do-thi-119260101170432239.htm |access-date=2026-07-23 |website=xaydungchinhsach.chinhphu.vn |language=vi}}</ref> Theo đó, đô thị loại IV, loại V, thị xã và thị trấn trước khi sắp xếp chưa được công nhận loại đô thị được xác định là đô thị loại III. Một phần xã Bình Xuyên được xác định là đô thị loại III (từ đô thị loại V của thị trấn Gia Khánh cũ).<!-- 
+==Lịch sử==
+Thị trấn Gia Khánh được thành lập vào ngày [[2 tháng 4]] năm [[2007]] trên cơ sở toàn bộ diện tích và dân số của xã Gia Khánh cũ; 81,20 ha diện tích tự nhiên và 916 người của xã Thiện Kế.<ref name=ND51>{{Chú thích web|url=https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/Nghi-dinh-51-2007-ND-CP-thanh-lap-thi-tran-Tho-Tang-Thanh-Lang-Gia-Khanh-thuoc-huyen-Vinh-Tuong-Binh-Xuyen-tinh-Vinh-Phuc-53612.aspx|title=Nghị định 51/2007/NĐ-CP về thành lập thị trấn Thổ Tang, thị trấn Thanh Lãng, thị trấn Gia Khánh thuộc các huyện Vĩnh Tường, Bình Xuyên, tỉnh Vĩnh Phúc|last=|first=|date=|website=|archive-url=|archive-date=|url-status=|access-date =}}</ref>
+
+ -->
+
+==Chú thích==
+{{tham khảo|30em}}
+
+==Tham khảo==
+{{Sơ khai Phú Thọ}}
+{{Đơn vị hành chính thuộc tỉnh Phú Thọ}}

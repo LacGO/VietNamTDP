@@ -1,0 +1,124 @@
+{
+  "ward_code": "09886",
+  "ward_name": "Dương Nội",
+  "province_code": "01",
+  "resolution": "",
+  "arrangement": "2026_07",
+  "effective_date": "2026-07-01",
+  "verified": "unverified",
+  "extraction": {
+    "source": "vi.wikipedia.org",
+    "title": "(cache)",
+    "mode": "table"
+  },
+  "sources": [
+    {
+      "key": "wiki-09886-1",
+      "title": "Nghị quyết số 13/NQ-HĐND ngày 12 tháng 9 năm 2025 của Hội đồng nhân dân phường Dương Nội về việc ghép khu dân cư, đổi tên tổ dân phố sau sắp xếp đơn vị hành chính phường Dương Nội",
+      "url": "https://web.facebook.com/story.php?story_fbid=830903552598472&id=100070365031123&rdid=OoSOu5rAljETVsXF#",
+      "date": "",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-09886-2",
+      "title": "Phường Dương Nội công bố danh sách 20 đại biểu trúng cử Hội đồng nhân dân phường nhiệm kỳ 2026 – 2031",
+      "url": "https://duongnoi.hanoi.gov.vn/tin-tuc-su-kien/phuong-duong-noi-cong-bo-danh-sach-20-dai-bieu-trung-cu-hdnd-phuong-nhiem-ky-2026-2031-2787260320112717204.htm",
+      "date": "2026-03-20",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-09886-3",
+      "title": "Phường Dương Nội dự kiến sắp xếp, tổ chức lại 21 tổ dân phố phù hợp yêu cầu quản lý trong giai đoạn mới",
+      "url": "https://duongnoi.hanoi.gov.vn/van-hoa-xa-hoi/phuong-duong-noi-du-kien-sap-xep-to-chuc-lai-21-to-dan-pho-phu-hop-yeu-cau-quan-ly-trong-giai-doan-moi-2787260616233943052.htm",
+      "date": "2026-06-10",
+      "type": "wikipedia-ref"
+    }
+  ],
+  "note": "Trích tự động từ Wikipedia tiếng Việt (mode=table). Cần đối chiếu nghị quyết HĐND phường/xã.",
+  "tdp": [
+    {
+      "name": "Tổ dân phố 1",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Tổ dân phố 2",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Tổ dân phố 3",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Tổ dân phố 5",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Tổ dân phố 6",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Tổ dân phố 7",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "An Hưng",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "An Khang",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Đòan Kết",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Hòang Hanh",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Hòang Văn Thụ",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Hòa Bình",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Kiên Quyết",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Quang Minh",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Quyết Tâm",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Quyết Tiến",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Thành Công",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Thắng Lợi",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Thống Nhất",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Trung Kiên",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Vinh Quang",
+      "type": "tổ dân phố"
+    }
+  ]
+}

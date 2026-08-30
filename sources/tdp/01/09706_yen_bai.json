@@ -1,0 +1,76 @@
+{
+  "ward_code": "09706",
+  "ward_name": "Yên Bài",
+  "province_code": "01",
+  "resolution": "",
+  "arrangement": "2026_07",
+  "effective_date": "2026-07-01",
+  "verified": "unverified",
+  "extraction": {
+    "source": "vi.wikipedia.org",
+    "title": "(cache)",
+    "mode": "table"
+  },
+  "sources": [
+    {
+      "key": "wiki-09706-1",
+      "title": "Nghị quyết số 1656/NQ-UBTVQH15 ngày 16 tháng 6 năm 2025 của Ủy ban Thường vụ Quốc hội về việc sắp xếp các đơn vị hành chính cấp xã của thành phố Hà Nội năm 2025",
+      "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf",
+      "date": "2026-06-30",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-09706-2",
+      "title": "Hội đồng nhân dân xã Yên Bài tổ chức thành công Kỳ họp thường lệ giữa năm 2026 (Kỳ họp thứ Ba), khóa XXII, nhiệm kỳ 2026 – 2031",
+      "url": "https://web.facebook.com/story.php?story_fbid=1023491040263872&id=100078089572480&rdid=fJr99rs13Raqw9Jg#",
+      "date": "2026-06-24",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-09706-3",
+      "title": "Danh sách Thôn vùng đồng bào dân tộc thiểu số và miền núi, thôn đặc biệt khó khăn giai đoạn 2026 – 2030 trên địa bàn thành phố Hà Nội (Kèm theo Quyết định số 104/QĐ-BDTTG ngày 27 tháng 02 năm 2026 của Bộ trưởng Bộ Dân tộc và Tôn giáo)",
+      "url": "http://files.ubdt.gov.vn/files/ecm/source_files/2026/03/09/11023866_2.%20H%C3%A0%20N%E1%BB%99i%20(th%C3%B4n).signed_26-03-09.pdf",
+      "date": "2026-08-12",
+      "type": "wikipedia-ref"
+    }
+  ],
+  "note": "Trích tự động từ Wikipedia tiếng Việt (mode=table). Cần đối chiếu nghị quyết HĐND phường/xã.",
+  "tdp": [
+    {
+      "name": "Bài",
+      "type": "thôn"
+    },
+    {
+      "name": "Muồng",
+      "type": "thôn"
+    },
+    {
+      "name": "Phú Vàng",
+      "type": "thôn"
+    },
+    {
+      "name": "Phúc Yên",
+      "type": "thôn"
+    },
+    {
+      "name": "Qúyt",
+      "type": "thôn"
+    },
+    {
+      "name": "Vân Hòa",
+      "type": "thôn"
+    },
+    {
+      "name": "Vân Sơn",
+      "type": "thôn"
+    },
+    {
+      "name": "Xuân Trung",
+      "type": "thôn"
+    },
+    {
+      "name": "Yên Hòa",
+      "type": "thôn"
+    }
+  ]
+}

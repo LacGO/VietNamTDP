@@ -1,0 +1,84 @@
+{
+  "ward_code": "04930",
+  "ward_name": "Yên Xuân",
+  "province_code": "01",
+  "resolution": "",
+  "arrangement": "2026_07",
+  "effective_date": "2026-07-01",
+  "verified": "unverified",
+  "extraction": {
+    "source": "vi.wikipedia.org",
+    "title": "(cache)",
+    "mode": "table"
+  },
+  "sources": [
+    {
+      "key": "wiki-04930-1",
+      "title": "Kỳ họp thứ 4 Hội đồng nhân dân xã Yên Xuân khoá I nhiệm kỳ 2021 – 2026: Thông qua nhiều Nghị quyết quan trọng",
+      "url": "https://yenxuan.hanoi.gov.vn/tin-tuc-su-kien/ky-hop-thu-4-hdnd-xa-yen-xuan-khoa-i-nhiem-ky-2021-2026-thong-qua-nhieu-nghi-quyet-quan-trong-276025121117540098.htm",
+      "date": "2025-12-09",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-04930-2",
+      "title": "Danh sách chính thức những người ứng cử đại biểu Hội đồng nhân dân xã Yên Xuân khóa II nhiệm kỳ 2026 – 2031",
+      "url": "https://yenxuan.hanoi.gov.vn/thong-bao/danh-sach-chinh-thuc-nhung-nguoi-ung-cu-dai-bieu-hoi-dong-nhan-dan-xa-yen-xuan-khoa-ii-nhiem-ky-2026-2031-2760260225110108875.htm",
+      "date": "2026-02-25",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-04930-3",
+      "title": "Nghị quyết số 1656/NQ-UBTVQH15 ngày 16 tháng 6 năm 2025 của Ủy ban Thường vụ Quốc hội về việc sắp xếp các đơn vị hành chính cấp xã của thành phố Hà Nội năm 2025",
+      "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf",
+      "date": "2026-06-30",
+      "type": "wikipedia-ref"
+    }
+  ],
+  "note": "Trích tự động từ Wikipedia tiếng Việt (mode=table). Cần đối chiếu nghị quyết HĐND phường/xã.",
+  "tdp": [
+    {
+      "name": "Đông Xuân 1",
+      "type": "thôn"
+    },
+    {
+      "name": "Đông Xuân 2",
+      "type": "thôn"
+    },
+    {
+      "name": "Đông Xuân 3",
+      "type": "thôn"
+    },
+    {
+      "name": "Tiến Xuân 1",
+      "type": "thôn"
+    },
+    {
+      "name": "Tiến Xuân 2",
+      "type": "thôn"
+    },
+    {
+      "name": "Tiến Xuân 3",
+      "type": "thôn"
+    },
+    {
+      "name": "Yên Bình 1",
+      "type": "thôn"
+    },
+    {
+      "name": "Yên Bình 2",
+      "type": "thôn"
+    },
+    {
+      "name": "Yên Bình 3",
+      "type": "thôn"
+    },
+    {
+      "name": "Yên Trung 1",
+      "type": "thôn"
+    },
+    {
+      "name": "Yên Trung 2",
+      "type": "thôn"
+    }
+  ]
+}

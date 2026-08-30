@@ -1,0 +1,124 @@
+{
+  "ward_code": "10003",
+  "ward_name": "Tây Phương",
+  "province_code": "01",
+  "resolution": "",
+  "arrangement": "2026_07",
+  "effective_date": "2026-07-01",
+  "verified": "unverified",
+  "extraction": {
+    "source": "vi.wikipedia.org",
+    "title": "(cache)",
+    "mode": "table"
+  },
+  "sources": [
+    {
+      "key": "wiki-10003-1",
+      "title": "Thông báo số 392/TB-UBND ngày 29 tháng 6 năm 2026 của Ủy ban nhân dân xã Tây Phương về việc công bố Nghị quyết số 28/NQ-HĐND ngày 25/6/2026 của Hội đồng nhân dân xã Tây Phương về thành lập, sắp xếp, đổi tên thôn và danh sách các thôn sau thành lập, sắp xếp, đổi tên trên địa bàn xã Tây Phương",
+      "url": "https://sqhx-hanoi.mediacdn.vn/91579363132710912/2026/6/30/tb-cong-bo-nghi-quyet-cua-hdnd-xa-ve-sap-xep-thon-1782815182481876369142.pdf",
+      "date": "2026-07-28",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-10003-2",
+      "title": "Nghị quyết số 1/NQ-UBBC ngày 15 tháng 12 năm 2025 của Ủy ban bầu cử xã Tây Phương về việc ấn định và công bố số đơn vị bầu cử, danh sách các đơn vị bầu cử và số đại biểu được bầu ở mỗi đơn vị bầu cử đại biểu Hội đồng nhân dân xã Tây Phương nhiệm kỳ 2026 – 2031",
+      "url": "https://sqhx-hanoi.mediacdn.vn/91579363132710912/2025/12/17/ubbc-nq-01-an-dinh-cong-bo-danh-sach-dvbc-so-luong-db-moi-dvbc-xa-tay-phuong0001-17659323388571147090568.pdf",
+      "date": "2026-07-28",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-10003-3",
+      "title": "Nghị quyết số 111/2025/UBTVQH15 ngày 24 tháng 12 năm 2025 của Ủy ban Thường vụ Quốc hội về phân loại đô thị",
+      "url": "https://cdn.nhandan.vn/files/f4a4abf7f9a0ba4a91744616546d850872b76917f90d5a74cc9eebef1369fb6f/111.pdf",
+      "date": "2026-08-14",
+      "type": "wikipedia-ref"
+    }
+  ],
+  "note": "Trích tự động từ Wikipedia tiếng Việt (mode=table). Cần đối chiếu nghị quyết HĐND phường/xã.",
+  "tdp": [
+    {
+      "name": "Bến",
+      "type": "thôn"
+    },
+    {
+      "name": "Bình Phú",
+      "type": "thôn"
+    },
+    {
+      "name": "Bùng",
+      "type": "thôn"
+    },
+    {
+      "name": "Canh Nậu 1",
+      "type": "thôn"
+    },
+    {
+      "name": "Canh Nậu 2",
+      "type": "thôn"
+    },
+    {
+      "name": "Canh Nậu 3",
+      "type": "thôn"
+    },
+    {
+      "name": "Canh Nậu 4",
+      "type": "thôn"
+    },
+    {
+      "name": "Chàng Sơn 1",
+      "type": "thôn"
+    },
+    {
+      "name": "Chàng Sơn 2",
+      "type": "thôn"
+    },
+    {
+      "name": "Dị Nậu",
+      "type": "thôn"
+    },
+    {
+      "name": "Hương Ngải 1",
+      "type": "thôn"
+    },
+    {
+      "name": "Hương Ngải 2",
+      "type": "thôn"
+    },
+    {
+      "name": "Hữu Bằng 1",
+      "type": "thôn"
+    },
+    {
+      "name": "Hữu Bằng 2",
+      "type": "thôn"
+    },
+    {
+      "name": "Hữu Bằng 3",
+      "type": "thôn"
+    },
+    {
+      "name": "Phú Ổ",
+      "type": "thôn"
+    },
+    {
+      "name": "Tây Phương",
+      "type": "thôn"
+    },
+    {
+      "name": "Thạch",
+      "type": "thôn"
+    },
+    {
+      "name": "Vĩnh Lộc 1",
+      "type": "thôn"
+    },
+    {
+      "name": "Vĩnh Lộc 2",
+      "type": "thôn"
+    },
+    {
+      "name": "Yên",
+      "type": "thôn"
+    }
+  ]
+}

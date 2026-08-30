@@ -1,0 +1,100 @@
+{
+  "ward_code": "09619",
+  "ward_name": "Quảng Oai",
+  "province_code": "01",
+  "resolution": "",
+  "arrangement": "2026_07",
+  "effective_date": "2026-07-01",
+  "verified": "unverified",
+  "extraction": {
+    "source": "vi.wikipedia.org",
+    "title": "(cache)",
+    "mode": "table"
+  },
+  "sources": [
+    {
+      "key": "wiki-09619-1",
+      "title": "Quảng Oai tổ chức kỳ họp thứ 3 Hội đồng nhân dân xã, quyết nghị nhiều nội dung quan trọng về phát triển kinh tế – xã hội",
+      "url": "https://quangoai.hanoi.gov.vn/tin-tuc-su-kien/quang-oai-to-chuc-ky-hop-thu-3-hdnd-xa-quyet-nghi-nhieu-noi-dung-quan-trong-ve-phat-trien-kinh-te-xa-hoi-267826062615052476.htm?gidzl=q44cPGXxzdZKNY9Z0c3pVTnP8cGSOF5nmLfnQ1zdf7V5MNPg4sNsTSmB9ciHPg8XdLX_E6Bk2-Ki3NhoUW",
+      "date": "2026-06-26",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-09619-2",
+      "title": "Nghị quyết số 111/2025/UBTVQH15 ngày 24 tháng 12 năm 2025 của Ủy ban Thường vụ Quốc hội về phân loại đô thị",
+      "url": "https://cdn.nhandan.vn/files/f4a4abf7f9a0ba4a91744616546d850872b76917f90d5a74cc9eebef1369fb6f/111.pdf",
+      "date": "2026-04-30",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-09619-3",
+      "title": "Nghị quyết số 1656/NQ-UBTVQH15 ngày 16 tháng 6 năm 2025 của Ủy ban Thường vụ Quốc hội về việc sắp xếp các đơn vị hành chính cấp xã của thành phố Hà Nội năm 2025",
+      "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf",
+      "date": "2026-05-13",
+      "type": "wikipedia-ref"
+    }
+  ],
+  "note": "Trích tự động từ Wikipedia tiếng Việt (mode=table). Cần đối chiếu nghị quyết HĐND phường/xã.",
+  "tdp": [
+    {
+      "name": "Cam Thượng",
+      "type": "thôn"
+    },
+    {
+      "name": "Chu Quyến",
+      "type": "thôn"
+    },
+    {
+      "name": "Đông Quang",
+      "type": "thôn"
+    },
+    {
+      "name": "Hưng Đạo",
+      "type": "thôn"
+    },
+    {
+      "name": "Kim Bằng",
+      "type": "thôn"
+    },
+    {
+      "name": "Liên Minh",
+      "type": "thôn"
+    },
+    {
+      "name": "Liễu Hồng",
+      "type": "thôn"
+    },
+    {
+      "name": "Nam Cao",
+      "type": "thôn"
+    },
+    {
+      "name": "Tây Đằng",
+      "type": "thôn"
+    },
+    {
+      "name": "Thụy An",
+      "type": "thôn"
+    },
+    {
+      "name": "Tiên Phong",
+      "type": "thôn"
+    },
+    {
+      "name": "Văn Minh",
+      "type": "thôn"
+    },
+    {
+      "name": "Vân Lai",
+      "type": "thôn"
+    },
+    {
+      "name": "Vĩnh Phệ",
+      "type": "thôn"
+    },
+    {
+      "name": "Yên Khóai",
+      "type": "thôn"
+    }
+  ]
+}

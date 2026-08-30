@@ -1,0 +1,105 @@
+{{Thông tin đơn vị hành chính Việt Nam|Xã|tên=Hạ Bằng|vùng=[[Đồng bằng sông Hồng]]|thành phố=[[Hà Nội]]|trụ sở UBND=Thôn Bình Yên 2<ref>{{Chú thích web |url=https://storage-vnportal.vnpt.vn/gov-hni/6244/VanBan/2025/6/25/TB-729-2025.pdf |title=Thông báo số 729/TB-UBND ngày 25 tháng 6 năm 2025 của Ủy ban nhân dân thành phố Hà Nội về địa điểm trụ sở làm việc của 126 phường, xã sau sắp xếp thuộc phạm vi quản lý của thành phố Hà Nội|access-date=2026-06-15 |archive-date=2026-06-15 |archive-url=https://web.archive.org/web/20260615034519/https://storage-vnportal.vnpt.vn/gov-hni/6244/VanBan/2025/6/25/TB-729-2025.pdf |url-status=dead | website = Cổng Thông tin điện tử Ủy ban nhân dân thành phố Hà Nội}}</ref>|vĩ độ=21.04070129709055|kinh độ=105.54824551346724|bản đồ 1={{maplink|frame=yes|plain=yes|type=shape|frame-width=280|frame-align=center|stroke-width=3}}|diện tích=32,14 km²|thời điểm dân số=2025|dân số=38.721 người|mật độ={{formatnum:{{#expr:floor({{formatnum:38.721| R}}/{{formatnum:32,14| R}})}} }} người/km²|mã hành chính=09982<ref>{{Chú thích web |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/19ttg.signed.pdf |title=Quyết định số 19/2025/QĐ-TTg ngày 30 tháng 6 năm 2025 của Thủ tướng Chính phủ về việc Ban hành Bảng danh mục và mã số các đơn vị hành chính Việt Nam |access-date=2026-06-15 |archive-date=2026-06-15 |archive-url=https://web.archive.org/web/20260615034519/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/19ttg.signed.pdf |url-status=dead | website = Cổng Thông tin điện tử Chính phủ}}</ref>|web={{url|habang.hanoi.gov.vn}}|trụ sở Đảng ủy=Thôn Hạ Bằng 1}}'''Hạ Bằng''' là một [[Xã (Việt Nam)|xã]] thuộc thành phố [[Hà Nội]], [[Việt Nam]].
+
+== Địa lý== 
+Xã Hạ Bằng có vị trí địa lý:
+
+* Phía đông giáp xã [[Tây Phương]]
+* Phía tây giáp xã [[Hòa Lạc, Hà Nội|Hòa Lạc]]
+* Phía nam giáp xã [[Phú Cát]] và xã [[Kiều Phú (xã)|Kiều Phú]]
+* Phía bắc giáp xã [[Đoài Phương]] và xã [[Thạch Thất (xã)|Thạch Thất]].<ref>{{Chú thích web |last=Viện nghiên cứu Phát triển kinh tế – xã hội Hà Nội |date=2025-07-02 |title=Xã Hạ Bằng: Những thông tin chi tiết sau sắp xếp |url=https://hanoionline.vn/xa-ha-bang-nhung-thong-tin-chi-tiet-sau-sap-xep-344088.htm |url-status=live |archive-url=https://web.archive.org/web/20260711400809/https://hanoionline.vn/xa-ha-bang-nhung-thong-tin-chi-tiet-sau-sap-xep-344088.htm |archive-date=2026-07-11 |access-date=2026-07-11 |website=Cơ quan Báo và Phát thanh Truyền hình Hà Nội}}</ref><ref>{{Chú thích web |last=Cơ quan Báo và Phát thanh Truyền hình Hà Nội |date=2025-07-07 |title=Xã Hạ Bằng: Tất cả thông tin chỉ dẫn bạn cần biết |url=https://hanoionline.vn/xa-ha-bang-tat-ca-thong-tin-chi-dan-ban-can-biet-345202.htm |url-status=bot: unknown |archive-url=https://web.archive.org/web/20250708014301/https://hanoionline.vn/xa-ha-bang-tat-ca-thong-tin-chi-dan-ban-can-biet-345202.htm |archive-date=2025-07-08 |access-date=2026-07-11 }}</ref>
+Xã Hạ Bằng có diện tích tự nhiên là 32,14 km<sup>2</sup>, quy mô dân số năm 2025 là 38.721 người và mật độ dân số đạt 1.204 người/km<sup>2</sup>.<ref>{{Chú thích web |last=Mai Hữu |date=2026-04-05 |title=Hà Nội: Chi tiết phương án tổng thể sắp xếp đơn vị hành chính cấp xã |url=https://hanoimoi.vn/ha-noi-chi-tiet-phuong-an-tong-the-sap-xep-don-vi-hanh-chinh-cap-xa-700278.html |url-status=bot: unknown |archive-url=https://web.archive.org/web/20250710163328/https://hanoimoi.vn/ha-noi-chi-tiet-phuong-an-tong-the-sap-xep-don-vi-hanh-chinh-cap-xa-700278.html |archive-date=2025-07-10 |access-date=2026-07-11 |website=Cơ quan Báo và Phát thanh, truyền hình Hà Nội }}</ref><ref>Công văn số 2896/BNV-CQĐP ngày 27 tháng 5 năm 2025 của Bộ Nội vụ về việc cung cấp thông tin danh mục dự kiến đơn vị hành chính cấp xã mới.</ref>
+
+Hạ Bằng là một xã có địa hình bán sơn địa, nổi tiếng với [[làng nghề Việt Nam|làng nghề]] chế tác [[đá ong]] ở Bình Yên.<ref>{{Chú thích web| url = https://nguoihanoi.vn/sac-mau-lang-nghe-che-tac-da-ong-binh-yen-74807.html| title = Sắc màu làng nghề chế tác đá ong Bình Yên| tác giả = Bảo Nguyên| ngày = 2023-08-09| url-status = bot: unknown| access-date = 2026-07-13| website = Tạp chí Người Hà Nội| archive-url = https://web.archive.org/web/20251012181616/https://nguoihanoi.vn/sac-mau-lang-nghe-che-tac-da-ong-binh-yen-74807.html| archive-date = 2025-10-12}}</ref>
+
+== Lịch sử==
+
+=== Trước năm 1976 ===
+
+=== Giai đoạn 1976 – nay ===
+Sau ngày 2 tháng 7 năm 1976, 5 xã: Bình Yên, Cần Kiệm, Đồng Trúc, Hạ Bằng và Tân Xã thuộc huyện [[Thạch Thất (huyện)|Thạch Thất]]; xã Phú Cát thuộc huyện [[Quốc Oai (huyện)|Quốc Oai]] của tỉnh [[Hà Sơn Bình]].
+
+Ngày 29 tháng 12 năm 1978, sáp nhập huyện [[Thạch Thất (huyện)|Thạch Thất]] của tỉnh [[Hà Sơn Bình]] vào thành phố [[Hà Nội]]. Khi đó, 5 xã: Bình Yên, Cần Kiệm, Đồng Trúc, Hạ Bằng và Tân Xã thuộc huyện [[Thạch Thất (huyện)|Thạch Thất]] của thành phố [[Hà Nội]].<ref>Nghị quyết ngày 29 tháng 12 năm 1978 của Quốc hội khóa VI, Kỳ họp thứ 4 phê chuẩn việc phân vạch lại địa giới thành phố Hà Nội, thành phố Hồ Chí Minh, các tỉnh Hà Sơn Bình, Vĩnh Phú, Cao Lạng, Bắc Thái, Quảng Ninh và Đồng Nai.</ref>
+
+Ngày 12 tháng 8 năm 1991, chia tỉnh [[Hà Sơn Bình]] thành 2 tỉnh, lấy tên là tỉnh [[Hòa Bình (tỉnh)|Hòa Bình]] và tỉnh [[Hà Tây (tỉnh)|Hà Tây]]. Chuyển huyện [[Thạch Thất (huyện)|Thạch Thất]] của thành phố [[Hà Nội]] về tỉnh [[Hà Tây (tỉnh)|Hà Tây]]; khi đó, 5 xã: Bình Yên, Cần Kiệm, Đồng Trúc, Hạ Bằng và Tân Xã thuộc huyện [[Thạch Thất (huyện)|Thạch Thất]]; xã Phú Cát thuộc huyện [[Quốc Oai (huyện)|Quốc Oai]] của tỉnh [[Hà Tây (tỉnh)|Hà Tây]].<ref>Nghị quyết ngày 12 tháng 8 năm 1991 của Quốc hội khóa VIII, Kỳ họp thứ 9 về việc điều chỉnh địa giới hành chính một số tỉnh, thành phố trực thuộc Trung ương.</ref>
+
+Ngày 29 tháng 5 năm 2008, hợp nhất tỉnh [[Hà Tây (tỉnh)|Hà Tây]] vào thành phố [[Hà Nội]]. Khi đó, 5 xã: Bình Yên, Cần Kiệm, Đồng Trúc, Hạ Bằng và Tân Xã thuộc huyện [[Thạch Thất (huyện)|Thạch Thất]]; xã Phú Cát thuộc huyện [[Quốc Oai (huyện)|Quốc Oai]] của thành phố [[Hà Nội]].<ref>Nghị quyết số 15/2008/QH12 ngày 29 tháng 5 năm 2008 của Quốc hội khóa XII, Kỳ họp thứ 3 về việc điều chỉnh địa giới hành chính thành phố Hà Nội và một số tỉnh có liên quan.</ref>
+
+Ngày 16 tháng 6 năm 2025:
+
+* Kết thúc hoạt động của đơn vị hành chính cấp huyện trong cả nước.<ref>{{Chú thích web |last= |date= |title=Nghị quyết số 203/2025/QH15 ngày 16 tháng 6 năm 2025 của Quốc hội khóa XV, Kỳ họp thứ 9 về việc sửa đổi, bổ sung một số điều của Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/nq-sua-doi-hien-phap.pdf |url-status=live |archive-url=https://web.archive.org/web/20260613090807/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/nq-sua-doi-hien-phap.pdf |archive-date=2026-06-13 |access-date=2026-06-13 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+* Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của xã Cần Kiệm, xã Đồng Trúc, một phần diện tích tự nhiên, quy mô dân số của các xã Bình Yên, Hạ Bằng, Tân Xã (huyện [[Thạch Thất (huyện)|Thạch Thất]]) và một phần diện tích tự nhiên của xã Phú Cát (huyện [[Quốc Oai (huyện)|Quốc Oai]]) thành xã mới có tên gọi là xã Hạ Bằng.<ref>{{Chú thích web |title=Nghị quyết số 1656/NQ-UBTVQH15 ngày 16 tháng 6 năm 2025 của Ủy ban Thường vụ Quốc hội về việc sắp xếp các đơn vị hành chính cấp xã của thành phố Hà Nội năm 2025 |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf |url-status=bot: unknown |archive-url=https://web.archive.org/web/20260513110024/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf |archive-date=2026-05-13 |access-date=2026-06-30 |website=Cổng Thông tin điện tử Chính phủ }}</ref>
+* Sau khi sắp xếp, xã Hạ Bằng được chia thành 25 thôn.<ref>6 thôn: Phú Đa 1, 2, Phú Lễ và Yên Lạc từ 1 đến 3 của xã Cần Kiệm cũ; 4 thôn: Đồng Kho, Đồng Táng, Tam Cảnh và Trúc Động của xã Đồng Trúc cũ; 7 thôn: Cánh Chủ, Hòa Lạc, Linh Sơn, Phúc Tiến, Sen Trì, Thái Bình và Yên Mỹ của xã Bình Yên cũ; 5 thôn, đánh số từ 1 đến 5 của xã Hạ Bằng cũ; 3 thôn: Kim Bông và Mục Uyên 1, 2 của xã Tân Xã cũ.</ref><ref>{{Chú thích web |title=Thông tư số 10/2022/TT-BTNMT ngày 29 tháng 9 năm 2022 của Bộ Tài nguyên và Môi trường về việc Ban hành Danh mục địa danh dân cư, sơn văn, thủy văn, kinh tế – xã hội phục vụ công tác thành lập bản đồ thành phố Hà Nội |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2022/10/10-btnmt.pdf |url-status=live |archive-url=https://web.archive.org/web/20260630400809/https://datafiles.chinhphu.vn/cpp/files/vbpq/2022/10/10-btnmt.pdf |archive-date=2026-06-30 |access-date=2026-06-30 |website=Cổng Thông tin điện tử Chính phủ}}</ref><ref>{{Chú thích web |last=Hạ Bằng – Kết Nối – Phát Triển – thành phố Hà Nội |date=2026-02-26 |title=Danh sách chính thức những người ứng cử đại biểu Hội đồng nhân dân xã Hạ Bằng nhiệm kỳ 2026 – 2031 theo từng đơn vị bầu cử |url=https://web.facebook.com/story.php?story_fbid=122176317620925980&id=61577779402625&rdid=0R25PV1E74MVg4yp# |url-status=live |archive-url=https://web.archive.org/web/20260701400809/https://web.facebook.com/story.php?story_fbid=122176317620925980&id=61577779402625&rdid=0R25PV1E74MVg4yp# |archive-date=2026-07-01 |access-date=2026-07-01 |website=Trang Thông tin điện tử xã Liên Minh – thành phố Hà Nội}}</ref>
+Ngày 26 tháng 6 năm 2025, đổi tên 4 thôn: Trúc Động, Yên Mỹ, Yên Lạc 3 và Mục Uyên 1 lần lượt thành 4 thôn: Đồng Trúc 2, Bình Yên 1, Cần Kiệm 3 và Tân Xã 1; thành lập 9 thôn mới: Đồng Trúc 1, Hạ Bằng 1, 2, Cần Kiệm 1, 2, Tân Xã 2, Bình Yên từ 2 đến 4.<ref>1. Giữ nguyên và đổi tên thôn Trúc Động thành thôn Đồng Trúc 2; 2. Giữ nguyên và đổi tên thôn Yên Mỹ thành thôn Bình Yên 1; 3. Giữ nguyên và đổi tên thôn Yên Lạc 3 thành thôn Cần Kiệm 3; 4. Giữ nguyên và đổi tên thôn Mục Uyên 1 thành thôn Tân Xã 1; 5. Sắp xếp, sáp nhập thôn Đồng Táng và Đồng Kho thành thôn Đồng Trúc 1; 6. Sắp xếp, sáp nhập thôn 1, thôn 2 và thôn 3 thành Hạ Bằng 1; 7. Sắp xếp, sáp nhập thôn 4, thôn 5 và thôn Tam Cảnh thành thôn Hạ Bằng 2; 8. Sắp xếp, sáp nhập thôn Phú Đa 1, Phú Đa 2 và Phú Lễ thành thôn Cần Kiệm 1; 9. Sắp xếp, sáp nhập thôn Yên Lạc 1 và Yên Lạc 2 thành thôn Cần Kiệm 2; 10. Sắp xếp, sáp nhập thôn Kim Bông và thôn Mục Uyên 2 thành thôn Tân Xã 2; 11. Sắp xếp, sáp nhập thôn Phúc Tiến và thôn Sen Trì thành thôn Bình Yên 2; 12. Sắp xếp, sáp nhập thôn Cánh Chủ và thôn Linh Sơn thành thôn Bình Yên 3; 13. Sắp xếp, sáp nhập thôn Hòa Lạc và thôn Thái Bình thành thôn Bình Yên 4.</ref><ref name=":0">{{Chú thích web |last=Phương Bùi |date=2026-06-26 |title=Hội đồng nhân dân xã Hạ Bằng thông qua 10 nghị quyết, định hướng phát triển 6 tháng cuối năm 2026 |url=https://hanoimoi.vn/hdnd-xa-ha-bang-thong-qua-10-nghi-quyet-dinh-huong-phat-trien-6-thang-cuoi-nam-2026-1209314.html?gidzl=FGYFDHFWZXav5uip6VkE638JWZ04_eSTA46ACmQktnqhJzmo1FVT6Yj8spK1fujA8KYFRsKOsJGT5k6A6m |url-status=dead |archive-url=https://web.archive.org/web/20260727201509/https://hanoimoi.vn/hdnd-xa-ha-bang-thong-qua-10-nghi-quyet-dinh-huong-phat-trien-6-thang-cuoi-nam-2026-1209314.html?gidzl=FGYFDHFWZXav5uip6VkE638JWZ04_eSTA46ACmQktnqhJzmo1FVT6Yj8spK1fujA8KYFRsKOsJGT5k6A6m |archive-date=2026-07-27 |access-date=2026-07-27 |website=Cơ quan Báo và Phát thanh, truyền hình Hà Nội}}</ref><ref name=":1">{{Chú thích web |last=Hạ Bằng 24/7 – thành phố Hà Nội |date=2026-07-04 |title=Thông tin và tên gọi chính thức 13 thôn thuộc xã Hạ Bằng sau sáp nhập, sắp xếp |url=https://web.facebook.com/story.php?story_fbid=122175872210930469&id=61577914087736&rdid=0ioa9MIuWMQQnhw8# |url-status=dead |archive-url=https://web.archive.org/web/20260727201509/https://web.facebook.com/story.php?story_fbid=122175872210930469&id=61577914087736&rdid=0ioa9MIuWMQQnhw8# |archive-date=2026-07-27 |access-date=2026-07-27}}</ref>
+
+== Hành chính ==
+Xã Hạ Bằng được chia thành 13 thôn: Bình Yên từ 1 đến 4, Cần Kiệm từ 1 đến 3, Đồng Trúc 1, 2, Hạ Bằng 1, 2, Tân Xã 1 và 2.<ref name=":0" /><ref name=":1" />
+{| class="wikitable sortable" cellpadding="0" cellspacing="6" width="100%" align="center" style="background: #f9f9f9; border: 1px #aaa solid; margin-top: 16px"
+! colspan="4" style="background: #E6E6FA; font-size: 95%;" |Danh sách các thôn thuộc xã Hạ Bằng<ref name=":0" /><ref name=":1" />
+|-
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| cellpadding="1" cellspacing="1" width="100%" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Bình Yên 1
+|830
+|-
+| align="left" |Bình Yên 2
+|845
+|-
+| align="left" |Bình Yên 3
+|684
+|-
+| align="left" |Bình Yên 4
+|626
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| cellpadding="1" cellspacing="1" width="100%" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Cần Kiệm 1
+|1.289
+|-
+| align="left" |Cần Kiệm 2
+|859
+|-
+| align="left" |Cần Kiệm 3
+|611
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| cellpadding="1" cellspacing="1" width="100%" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Đồng Trúc 1
+|647
+|-
+| align="left" |Đồng Trúc 2
+|950
+|-
+| align="left" |Hạ Bằng 1
+|1.249
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| cellpadding="1" cellspacing="1" width="100%" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Hạ Bằng 2
+|1.155
+|-
+| align="left" |Tân Xã 1
+|526
+|-
+| align="left" |Tân Xã 2
+|697
+|}
+|}
+
+== Chú thích==
+{{tham khảo| 30em}}
+
+== Tham khảo ==
+{{sơ khai Hà Nội}}
+{{Đơn vị hành chính thuộc thành phố Hà Nội}}

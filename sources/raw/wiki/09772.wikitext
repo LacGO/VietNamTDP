@@ -1,0 +1,165 @@
+{{Thông tin đơn vị hành chính Việt Nam|Xã|tên=Hát Môn|hình=Đền Hát Môn.jpg|ghi chú hình=Đền Hát Môn|thành phố=[[Tập tin:Emblem of Hanoi.svg|18px]] [[Hà Nội]]|diện tích=37,67 km²|thời điểm dân số=2025|dân số=72.227 người|vĩ độ=21.09971391922173|kinh độ=105.62270721340958|trụ sở UBND=Thôn Thuấn Nhuế<ref>{{Chú thích web |url=https://storage-vnportal.vnpt.vn/gov-hni/6244/VanBan/2025/6/25/TB-729-2025.pdf |title=Thông báo số 729/TB-UBND ngày 25 tháng 6 năm 2025 của Ủy ban nhân dân thành phố Hà Nội về địa điểm trụ sở làm việc của 126 phường, xã sau sắp xếp thuộc phạm vi quản lý của thành phố Hà Nội|access-date=2026-06-15 |archive-date=2026-06-15 |archive-url=https://web.archive.org/web/20260615034519/https://storage-vnportal.vnpt.vn/gov-hni/6244/VanBan/2025/6/25/TB-729-2025.pdf |url-status=dead | website = Cổng Thông tin điện tử Ủy ban nhân dân thành phố Hà Nội}}</ref>|bản đồ 1={{maplink|frame=yes|plain=yes|type=shape|frame-width=280|frame-align=center|stroke-width=3}}|mật độ dân số={{formatnum:{{#expr:floor({{formatnum:72.227| R}}/{{formatnum:37,67| R}})}} }} người/km²|mã hành chính=09772<ref>{{Chú thích web |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/19ttg.signed.pdf |title=Quyết định số 19/2025/QĐ-TTg ngày 30 tháng 6 năm 2025 của Thủ tướng Chính phủ về việc Ban hành Bảng danh mục và mã số các đơn vị hành chính Việt Nam |access-date=2026-06-15 |archive-date=2026-06-15 |archive-url=https://web.archive.org/web/20260615034519/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/19ttg.signed.pdf |url-status=dead | website = Cổng Thông tin điện tử Chính phủ}}</ref>|web={{url|hatmon.hanoi.gov.vn}}|trụ sở Đảng ủy=Thôn Thuấn Nhuế}}
+
+'''Hát Môn''' là một [[Xã (Việt Nam)|xã]] thuộc thành phố [[Hà Nội]], [[Việt Nam]].
+
+== Địa lý ==
+Xã Hát Môn có vị trí địa lý:
+
+* Phía đông giáp xã [[Liên Minh, Hà Nội|Liên Minh]], xã [[Đan Phượng (xã)|Đan Phượng]] và xã [[Dương Hòa]] với ranh giới tự nhiên là [[sông Đáy]]
+* Phía tây giáp xã [[Phúc Thọ (xã)|Phúc Thọ]]
+* Phía nam giáp xã [[Tây Phương]] và xã [[Quốc Oai (xã)|Quốc Oai]]
+* Phía bắc giáp xã [[Phúc Lộc, Hà Nội|Phúc Lộc]].<ref>{{Chú thích web |last=Viện nghiên cứu Phát triển kinh tế – xã hội Hà Nội |date=2025-07-02 |title=Xã Hát Môn: Những thông tin chi tiết sau sắp xếp |url=https://hanoionline.vn/xa-hat-mon-nhung-thong-tin-chi-tiet-sau-sap-xep-344073.htm |url-status=dead |archive-url=https://web.archive.org/web/20260701400809/https://hanoionline.vn/xa-hat-mon-nhung-thong-tin-chi-tiet-sau-sap-xep-344073.htm |archive-date=2026-07-01 |access-date=2026-07-01 |website=Cơ quan Báo và Phát thanh Truyền hình Hà Nội}}</ref><ref>{{Chú thích web |last=Cơ quan Báo và Phát thanh Truyền hình Hà Nội |date=2025-07-07 |title=Xã Hát Môn: Tất cả thông tin chỉ dẫn bạn cần biết |url=https://hanoionline.vn/xa-hat-mon-tat-ca-thong-tin-chi-dan-ban-can-biet-345212.htm |url-status=dead |archive-url=https://web.archive.org/web/20260711401509/https://hanoionline.vn/xa-hat-mon-tat-ca-thong-tin-chi-dan-ban-can-biet-345212.htm |archive-date=2026-07-11 |access-date=2026-07-11}}</ref>
+Xã Hát Môn có diện tích tự nhiên là 37,67 km<sup>2</sup>, quy mô dân số năm 2025 là 72.227 người và mật độ dân số đạt 1.917 người/km<sup>2</sup>.<ref>{{Chú thích web |last=Mai Hữu |date=2026-04-05 |title=Hà Nội: Chi tiết phương án tổng thể sắp xếp đơn vị hành chính cấp xã |url=https://hanoimoi.vn/ha-noi-chi-tiet-phuong-an-tong-the-sap-xep-don-vi-hanh-chinh-cap-xa-700278.html |url-status=live |archive-url=https://web.archive.org/web/20260711401509/https://hanoimoi.vn/ha-noi-chi-tiet-phuong-an-tong-the-sap-xep-don-vi-hanh-chinh-cap-xa-700278.html |archive-date=2026-07-11 |access-date=2026-07-11 |website=Cơ quan Báo và Phát thanh, truyền hình Hà Nội}}</ref><ref>Công văn số 2896/BNV-CQĐP ngày 27 tháng 5 năm 2025 của Bộ Nội vụ về việc cung cấp thông tin danh mục dự kiến đơn vị hành chính cấp xã mới.</ref>
+
+== Lịch sử ==
+
+=== Trước năm 1976 ===
+
+=== Giai đoạn 1976 – nay ===
+Sau ngày 2 tháng 7 năm 1976, 4 xã: Hát Môn, Ngọc Tảo, Tam Thuấn và Thanh Đa thuộc huyện [[Phúc Thọ (huyện)|Phúc Thọ]]; 3 xã: Hiệp Thuận, Liên Hiệp và Tam Hiệp thuộc huyện [[Quốc Oai (huyện)|Quốc Oai]] của tỉnh [[Hà Sơn Bình]].
+
+Ngày 29 tháng 12 năm 1978, sáp nhập huyện [[Phúc Thọ (huyện)|Phúc Thọ]] và các xã Tam Hiệp, Hiệp Thuận, Liên Hiệp của huyện [[Quốc Oai (huyện)|Quốc Oai]] thuộc tỉnh [[Hà Sơn Bình]] vào thành phố [[Hà Nội]].<ref>Nghị quyết ngày 29 tháng 12 năm 1978 của Quốc hội khóa VI, Kỳ họp thứ 4 phê chuẩn việc phân vạch lại địa giới thành phố Hà Nội, thành phố Hồ Chí Minh, các tỉnh Hà Sơn Bình, Vĩnh Phú, Cao Lạng, Bắc Thái, Quảng Ninh và Đồng Nai.</ref>
+
+Ngày 17 tháng 2 năm 1979, sáp nhập các xã Tam Hiệp, Hiệp Thuận, Liên Hiệp (của huyện [[Quốc Oai (huyện)|Quốc Oai]]) vào huyện [[Phúc Thọ (huyện)|Phúc Thọ]].<ref>Quyết định số 49-CP ngày 17 tháng 2 năm 1979 của Hội đồng Chính phủ về việc điều chỉnh địa giới một số xã, thị trấn thuộc các huyện Sóc Sơn, Mê Linh, Hoài Đức, Phúc Thọ và Thanh Trì thuộc thành phố Hà Nội.</ref>
+
+Ngày 12 tháng 8 năm 1991, chia tỉnh [[Hà Sơn Bình]] thành 2 tỉnh, lấy tên là tỉnh [[Hòa Bình (tỉnh)|Hòa Bình]] và tỉnh [[Hà Tây (tỉnh)|Hà Tây]]. Chuyển huyện [[Phúc Thọ (huyện)|Phúc Thọ]] của thành phố [[Hà Nội]] về tỉnh [[Hà Tây (tỉnh)|Hà Tây]]. Khi đó, 7 xã: Hát Môn, Hiệp Thuận, Liên Hiệp, Ngọc Tảo, Tam Hiệp, Tam Thuấn và Thanh Đa thuộc huyện [[Phúc Thọ (huyện)|Phúc Thọ]] của tỉnh [[Hà Tây (tỉnh)|Hà Tây]].<ref>Nghị quyết ngày 12 tháng 8 năm 1991 của Quốc hội khóa VIII, Kỳ họp thứ 9 về việc điều chỉnh địa giới hành chính một số tỉnh, thành phố trực thuộc Trung ương.</ref>
+
+Ngày 29 tháng 5 năm 2008, hợp nhất tỉnh [[Hà Tây (tỉnh)|Hà Tây]] vào thành phố [[Hà Nội]]. Khi đó, 7 xã: Hát Môn, Hiệp Thuận, Liên Hiệp, Ngọc Tảo, Tam Hiệp, Tam Thuấn và Thanh Đa thuộc huyện [[Phúc Thọ (huyện)|Phúc Thọ]] của thành phố [[Hà Nội]].<ref>Nghị quyết số 15/2008/QH12 ngày 29 tháng 5 năm 2008 của Quốc hội khóa XII, Kỳ họp thứ 3 về việc điều chỉnh địa giới hành chính thành phố Hà Nội và một số tỉnh có liên quan.</ref>
+
+Ngày 16 tháng 6 năm 2025:
+
+* Kết thúc hoạt động của đơn vị hành chính cấp huyện trong cả nước.<ref>{{Chú thích web |last= |date= |title=Nghị quyết số 203/2025/QH15 ngày 16 tháng 6 năm 2025 của Quốc hội khóa XV, Kỳ họp thứ 9 về việc sửa đổi, bổ sung một số điều của Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/nq-sua-doi-hien-phap.pdf |url-status=live |archive-url=https://web.archive.org/web/20260613090807/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/nq-sua-doi-hien-phap.pdf |archive-date=2026-06-13 |access-date=2026-06-13 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+* Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của các xã Tam Hiệp, Hiệp Thuận, Liên Hiệp, Ngọc Tảo, Tam Thuấn, Thanh Đa và Hát Môn (huyện [[Phúc Thọ (huyện)|Phúc Thọ]]) thành xã mới có tên gọi là xã Hát Môn.<ref>{{Chú thích web |title=Nghị quyết số 1656/NQ-UBTVQH15 ngày 16 tháng 6 năm 2025 của Ủy ban Thường vụ Quốc hội về việc sắp xếp các đơn vị hành chính cấp xã của thành phố Hà Nội năm 2025 |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf |url-status=live |archive-url=https://web.archive.org/web/20260630400809/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf |archive-date=2026-06-30 |access-date=2026-06-30 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+* Sau khi sắp xếp, xã Hát Môn được chia thành 60 thôn.<ref>8 thôn, đánh số từ 1 đến 8 của xã Tam Hiệp cũ; 8 thôn: Hiệp Lộc từ 1 đến 3, Hiệp Thuận từ 1 đến 3, Quế Lâm và Yên Dục của xã Hiệp Thuận cũ; 10 thôn, đánh số từ 1 đến 10 của xã Liên Hiệp cũ; 10 thôn, đánh số từ 1 đến 10 của xã Ngọc Tảo cũ; 8 thôn: Ngoại, Nội từ 1 đến 3, Táo từ 1 đến 3 và Trung của xã Tam Thuấn cũ; 6 thôn: Đường Hồng, Phú An, Phú Đa, Tăng Non, Tế Giáp và Thanh Mạc của xã Thanh Đa cũ; 10 thôn, đánh số từ 1 đến 10 của xã Hát Môn cũ.</ref><ref>{{Chú thích web |title=Thông tư số 10/2022/TT-BTNMT ngày 29 tháng 9 năm 2022 của Bộ Tài nguyên và Môi trường về việc Ban hành Danh mục địa danh dân cư, sơn văn, thủy văn, kinh tế – xã hội phục vụ công tác thành lập bản đồ thành phố Hà Nội |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2022/10/10-btnmt.pdf |url-status=live |archive-url=https://web.archive.org/web/20260630400809/https://datafiles.chinhphu.vn/cpp/files/vbpq/2022/10/10-btnmt.pdf |archive-date=2026-06-30 |access-date=2026-06-30 |website=Cổng Thông tin điện tử Chính phủ}}</ref><ref name=":0">{{Chú thích web |last=Trang Thông tin điện tử xã Hát Môn – thành phố Hà Nội |date=2026-02-26 |title=Danh sách chính thức Người ứng cử đại biểu Hội đồng nhân dân xã Hát Môn nhiệm kỳ 2026 – 2031 |url=https://hatmon.hanoi.gov.vn/bau-cu-hdnd-cac-cap/danh-sach-chinh-thuc-nguoi-ung-cu-dai-bieu-hoi-dong-nhan-dan-xa-hat-mon-nhiem-ky-2026-2031-2705260226135335582.htm?gidzl=iIfMJ9mGprArDL9AbWlEKhumMqYB2Cu3ys1JJObSoGQdRbHDYbQT1w5l016ANPe9g305GcGR2wmlcH7BK0 |url-status=dead |archive-url=https://web.archive.org/web/20260727400809/https://hatmon.hanoi.gov.vn/bau-cu-hdnd-cac-cap/danh-sach-chinh-thuc-nguoi-ung-cu-dai-bieu-hoi-dong-nhan-dan-xa-hat-mon-nhiem-ky-2026-2031-2705260226135335582.htm?gidzl=iIfMJ9mGprArDL9AbWlEKhumMqYB2Cu3ys1JJObSoGQdRbHDYbQT1w5l016ANPe9g305GcGR2wmlcH7BK0 |archive-date=2026-07-27 |access-date=2026-07-27 |website=}}</ref>
+Ngày 19 tháng 7 năm 2025, đổi tên 38 thôn, đánh số từ 1 đến 10 của xã Hát Môn (cũ), từ 1 đến 8 của xã Tam Hiệp (cũ), từ 1 đến 10 của xã Liên Hiệp (cũ) và từ 1 đến 10 của xã Ngọc Tảo (cũ) lần lượt thành 38 thôn: Hát Môn từ 1 đến 10, Tam Hiệp từ 1 đến 8, Liên Hiệp từ 1 đến 10, Phú Mỹ, Ngọc Tảo 2, 3, Hương Vĩnh, Giáo Hạ, Ngọc Tảo từ 6 đến 9 và Yên Dương.<ref>1. Các thôn của xã Hát Môn (cũ) được đổi thành: Thôn Hát Môn 1, 2, 3, 4, 5, 6, 7, 8, 9, 10; 2. Các thôn của xã Tam Hiệp (cũ) được đổi tên thành: thôn Tam Hiệp 1, 2, 3, 4, 5, 6, 7, 8; 3. Các thôn của xã Liên Hiệp (cũ) được đổi tên thành: thôn Liên Hiệp 1, 2, 3, 4, 5, 6, 7, 8, 9, 10; 4. Các thôn của xã Ngọc Tảo (cũ) được đổi tên như sau: Đổi tên từ thôn 1 thành thôn Phú Mỹ; 5. Đổi tên từ thôn 2 thành thôn Ngọc Tảo 2; 6. Đổi tên từ thôn 3 thành thôn Ngọc Tảo 3; Đổi tên từ thôn 4 thành thôn Hương Vĩnh; 7. Đổi tên từ thôn 5 thành thôn Giáo Hạ; 8. Đổi tên từ thôn 6 thành thôn Ngọc Tảo 6; 9. Đổi tên từ thôn 7 thành thôn Ngọc Tảo 7; 10. Đổi tên từ thôn 8 thành thôn Ngọc Tảo 8; 11. Đổi tên từ thôn 9 thành thôn Ngọc Tảo 9; 12. Đổi tên từ thôn 10 thành thôn Yên Dương. 13. Còn lại các thôn thuộc 03 xã cũ: Hiệp Thuận, Tam Thuấn, Thanh Đa không phải đổi tên do không đặt tên thôn theo số thứ tự mà tên thôn được đặt dựa trên yếu tố lịch sử, văn hóa.</ref><ref>{{Chú thích web |last=Hoàng Thoàn – Thanh Thuỷ |date=2025-07-17 |title=Hát Môn: hoàn thành 100% việc lấy ý kiến cử tri về Phương án đổi tên thôn trên địa bàn xã |url=https://hatmon.hanoi.gov.vn/tin-tuc-su-kien/hat-mon-hoan-thanh-100-viec-lay-y-kien-cu-tri-ve-phuong-an-doi-ten-thon-tren-dia-ban-xa-2705250717133750595.htm?gidzl=_1HL1k6LD2Zu2r40wuurAFCEMGJsZJH_lbvH0VJPCthgK5O1zzDdU-nH0btts61rvGu73cGhi5GVv9GmAW |url-status=dead |archive-url=https://web.archive.org/web/20260727201509/https://hatmon.hanoi.gov.vn/tin-tuc-su-kien/hat-mon-hoan-thanh-100-viec-lay-y-kien-cu-tri-ve-phuong-an-doi-ten-thon-tren-dia-ban-xa-2705250717133750595.htm?gidzl=_1HL1k6LD2Zu2r40wuurAFCEMGJsZJH_lbvH0VJPCthgK5O1zzDdU-nH0btts61rvGu73cGhi5GVv9GmAW |archive-date=2026-07-27 |access-date=2026-07-27 |website=Trang Thông tin điện tử xã Hát Môn – thành phố Hà Nội}}</ref><ref>{{Chú thích web |last=Trần Thuần – Thanh Loan |date=2025-07-21 |title=Kỳ họp thứ 15 Hội đồng nhân dân xã Hát Môn khoá XXIII, nhiệm kỳ 2021 – 2026 |url=https://hatmon.hanoi.gov.vn/hoi-dong-nhan-dan/ky-hop-thu-15-hdnd-xa-hat-mon-khoa-xxiii-nhiem-ky-2021-2026-2705250721093045683.htm?gidzl=W16OK70PMM643fnMUW9OOOyBbL9d0LWsmbkTLsLLNpEMLPfNPbyBCf1KpWjcL0mycGlBM6J6EVG0THXTOm |url-status=dead |archive-url=https://web.archive.org/web/20260727201509/https://hatmon.hanoi.gov.vn/hoi-dong-nhan-dan/ky-hop-thu-15-hdnd-xa-hat-mon-khoa-xxiii-nhiem-ky-2021-2026-2705250721093045683.htm?gidzl=W16OK70PMM643fnMUW9OOOyBbL9d0LWsmbkTLsLLNpEMLPfNPbyBCf1KpWjcL0mycGlBM6J6EVG0THXTOm |archive-date=2026-07-27 |access-date=2026-07-27 |website=Trang Thông tin điện tử xã Hát Môn – thành phố Hà Nội}}</ref>
+
+Ngày 25 tháng 6 năm 2026, thành lập 17 thôn mới: Tiền Giang, Đông Thành, Yên Lâm, Hiệp Lộc, Hiệp Thuận, Liên Hiệp, Hạ Hiệp, Quán Hạ, Thượng Hiệp, Điền Hòa Cát, Mỹ Giang, Hương Hạ, Ngọc Tảo, Thuấn Nhuế, Táo Ngoại, Thanh Đa và Thanh Hồng.<ref>1. Thôn Tiền Giang: Sáp nhập Hát Môn 1, Hát Môn 2, Hát Môn 3, Hát Môn 4 và Hát Môn 10; 2. Thôn Đông Thành: Sáp nhập Hát Môn 5, Hát Môn 6, Hát Môn 7, Hát Môn 8 và Hát Môn 9; 3. Thôn Yên Lâm: Sáp nhập Yên Dục và Quế Lâm; 4. Thôn Hiệp Lộc: Sáp nhập Hiệp Lộc 1, Hiệp Lộc 2 và Hiệp Lộc 3; 5. Thôn Hiệp Thuận: Sáp nhập Hiệp Thuận 1, Hiệp Thuận 2 và Hiệp Thuận 3; 6. Thôn Liên Hiệp: Sáp nhập Liên Hiệp 1, Liên Hiệp 2, Liên Hiệp 3 và Liên Hiệp 6; 7. Thôn Hạ Hiệp: Sáp nhập Liên Hiệp 4, Liên Hiệp 7 và Liên Hiệp 8; 8. Thôn Quán Hạ: Sáp nhập Liên Hiệp 5, Liên Hiệp 9 và Liên Hiệp 10; 9. Thôn Thượng Hiệp: Sáp nhập Tam Hiệp 1, Tam Hiệp 2, Tam Hiệp 3 và Tam Hiệp 4; 10. Thôn Điền Hòa Cát: Sáp nhập Tam Hiệp 5 và Tam Hiệp 6; 11. Thôn Mỹ Giang: Sáp nhập Tam Hiệp 7 và Tam Hiệp 8; 12. Thôn Hương Hạ: Sáp nhập Phú Mỹ, Giáo Hạ, Giáo Hạ 6, Ngọc Tảo 2 và Ngọc Tảo 3; 13. Thôn Ngọc Tảo: Sáp nhập Hương Vĩnh, Ngọc Tảo 7, Ngọc Tảo 8, Ngọc Tảo 9 và Yên Dương; 14. Thôn Thuấn Nhuế: Sáp nhập Trung, Nội 1, Nội 2 và Nội 3; 15. Thôn Táo Ngoại: Sáp nhập Táo 1, Táo 2, Táo 3 và Ngoại; 16. Thôn Thanh Đa: Sáp nhập Tế Giáp, Tăng Non và Phú An; 17. Thôn Thanh Hồng: Sáp nhập Phú Đa, Thanh Mạc và Đường Hồng.</ref><ref name=":1">{{Chú thích web |last=Diễn đàn xã Hát Môn – thành phố Hà Nội |date=2026-07-01 |title=Ngày 25/6/2026, Hội đồng nhân dân xã Hát Môn đã ban hành Nghị quyết số 20/NQ-HĐND về việc sắp xếp thôn trên địa bàn xã |url=https://web.facebook.com/story.php?story_fbid=122168322722971054&id=61579131628199&rdid=CGnCXn0CPGs3wVCF# |url-status=dead |archive-url=https://web.archive.org/web/20260727201509/https://web.facebook.com/story.php?story_fbid=122168322722971054&id=61579131628199&rdid=CGnCXn0CPGs3wVCF# |archive-date=2026-07-27 |access-date=2026-07-27}}</ref>
+
+==Hành chính==
+Xã Hát Môn được chia thành 17 thôn: Điền Hòa Cát, Đông Thành, Hạ Hiệp, Hiệp Lộc, Hiệp Thuận, Hương Hạ, Liên Hiệp, Mỹ Giang, Ngọc Tảo, Quán Hạ, Táo Ngoại, Thanh Đa, Thanh Hồng, Thuấn Nhuế, Thượng Hiệp, Tiền Giang và Yên Lâm.<ref name=":1" />
+{| class="wikitable sortable" cellpadding="0" cellspacing="6" width="100%" align="center" style="background: #f9f9f9; border: 1px #aaa solid; margin-top: 16px"
+! colspan="4" style="background: #E6E6FA; font-size: 95%;" |Danh sách các thôn thuộc xã Hát Môn<ref name=":1" />
+|-
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| cellpadding="1" cellspacing="1" width="100%" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+|-
+| align="left" |Điền Hòa Cát
+|-
+| align="left" |Đông Thành
+|-
+| align="left" |Hạ Hiệp
+|-
+| align="left" |Hiệp Lộc
+|-
+| align="left" |Hiệp Thuận
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| cellpadding="1" cellspacing="1" width="100%" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+|-
+| align="left" |Hương Hạ
+|-
+| align="left" |Liên Hiệp
+|-
+| align="left" |Mỹ Giang
+|-
+| align="left" |Ngọc Tảo
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| cellpadding="1" cellspacing="1" width="100%" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+|-
+| align="left" |Quán Hạ
+|-
+| align="left" |Táo Ngoại
+|-
+| align="left" |Thanh Đa
+|-
+| align="left" |Thanh Hồng
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| cellpadding="1" cellspacing="1" width="100%" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+|-
+| align="left" |Thuấn Nhuế
+|-
+| align="left" |Thượng Hiệp
+|-
+| align="left" |Tiền Giang
+|-
+| align="left" |Yên Lâm
+|}
+|}
+
+==Giao thông==
+Các tuyến, hệ thống giao thông đi qua xã Hát Môn:{{Cần dẫn nguồn|ngày=tháng 7 năm 2025}}
+* Hệ thống xe buýt: Tuyến 20B Nhổn – Võng Xuyên – Bến xe Sơn Tây
+* Đường sông: sông Đáy.
+
+==Văn hóa==
+
+=== Di tích, lễ hội ===
+* Đền Hát Môn thờ Hai Bà Trưng đã được xếp hạng là di tích cấp quốc gia đặc biệt năm 2014.{{Cần dẫn nguồn|ngày=tháng 7 năm 2025}}
+* Lễ hội đền Hát Môn diễn ra hàng năm vào ngày mùng 6 tháng ba âm lịch đã được tôn vinh là di sản văn hóa phi vật thể cấp quốc gia năm 2016.
+===Sự kiện Hai Bà Trưng hi sinh===
+Cũng có nhiều tư liệu nói về lòng dũng cảm chiến đấu quân thù và hi sinh của Hai Bà Trưng và địa điểm hi sinh là khác nhau như vùng Hồi Hồ, núi Hi Sơn (nay thuộc tỉnh Phú Thọ); và cả địa danh sông Hát, nay thuộc xã Hát Môn nơi Hai Bà Trưng thua chạy tới đây trong trận chiến không cân sức với quân giặc đã trầm mình xuống dòng sông để thể hiện khí tiết.{{Cần dẫn nguồn|ngày=tháng 7 năm 2025}}
+
+==Kinh tế==
+Xã Hát Môn có nghề truyền thống làm mộc như: nội thất, đồ thờ, tủ bếp, chế biến gỗ...
+
+<!-- 
+== Lịch sử ==
+[[Nhà Trần|Thời Trần]], đất Hiệp Thuận thuộc hương Binh Hợp,<ref>{{Chú thích tạp chí|last=Phạm Thị Thoa|date=1990|title=Thử tìm hiểu địa danh "Binh Hiệp"|url=http://www.hannom.org.vn/web/tchn/data/9002v.htm|journal=Tạp chí Hán Nôm|volume=Số 2 (9)|url lưu trữ=https://web.archive.org/web/20080420055801/http://www.hannom.org.vn/web/tchn/data/9002v.htm|ngày lưu trữ=2008-04-20|url-status=live|access-date=2024-03-31|archive-date=2024-03-28|archive-url=https://web.archive.org/web/20240328045830/http://www.hannom.org.vn/web/tchn/data/9002v.htm}}</ref> châu Từ Liêm, lộ Đông Đô.<ref>{{chú thích sách|url=https://online.fliphtml5.com/oimsx/qtxw/#p=1|tiêu đề=Đất nước Việt Nam qua các đời|nhà xuất bản=Nhà xuất bản Văn Hóa Thông Tin|năm=2005|pages=133|tác giả=Đào Duy Anh}}</ref> Tới thời Lê, từ năm 1469, nơi đây thuộc tổng Hạ Hiệp, huyện Đan Phượng, phủ Quốc Oai, trấn Sơn Tây. Từ năm 1832 thời Nguyễn, là tổng Hạ Hiệp, huyện Yên Sơn, phủ Quốc Oai, tỉnh Sơn Tây. Dưới cấp tổng có 04 xã là: Hạ Hiệp, Hảo Hiệp, Hiệp Lộc, Hiệp Thuận (thôn Quế Lâm, thôn Kiều Lộc, thôn Yên Dưỡng và thôn Yên Dục).<ref>{{Chú thích sách|url=https://books.google.com.vn/books?newbks=0&redir_esc=y&hl=vi&id=n1M7V3zmKMAC&dq=%22h%E1%BA%A1+hi%E1%BB%87p%22|title=同慶地与志|last=Quốc sử quán triều Nguyễn|publisher=Nhà xuất bản Thế giới|year=2003|pages=903-919|translator-last=Ngô Đức Thọ|translator-last2=Nguyễn Văn Nguyên|translator-last3=Philippe Papin}}</ref> Sau cách mạng tháng Tám, tổng Hạ Hiệp được chia thành hai xã [[Hát Môn|Liên Hiệp]] và Hiệp Thuận, thuộc huyện [[Quốc Oai (huyện)|Quốc Oai]]. Tới năm 1979, cả hai xã đều được chuyển về huyện Phúc Thọ quản lý.
+
+Với những đóng góp trong kháng chiến chống Pháp, xã Hiệp Thuận đã được phong tặng danh hiệu xã [[Anh hùng Lực lượng vũ trang nhân dân|Anh hùng lực lượng vũ trang nhân dân]]. Trong kháng chiến chống Mỹ, xã cũng từng đón tiếp Phó Thủ tướng Đỗ Mười về thăm năm 1967 và Đại tướng Võ Nguyên Giáp về làm việc năm 1974.<ref name=":0">{{Chú thích web|url=http://phuctho.hanoi.gov.vn/hiep-thuan/-/news/DW6nqNWF4X5P/1/582935.html|tựa đề=Giới thiệu chung về xã Hiệp Thuận|ngày=2017-01-05|website=Cổng thông tin huyện Phúc Thọ|url lưu trữ=https://web.archive.org/web/20220706005409/http://phuctho.hanoi.gov.vn/hiep-thuan/-/news/DW6nqNWF4X5P/1/582935.html|ngày lưu trữ=2022-07-06|url-status=dead}}</ref>
+
+== Kinh tế ==
+Hiệp Thuận là một xã nông nghiệp vốn trồng lúa lâu đời. Từ năm 2015, chính quyền và nhân dân trong xã tiến hành trồng thử một số cây trồng mới như chanh đào, dâu, phật thủ và đặc biệt là cây măng tây xanh. Loài cây này rất phù hợp với thổ nhưỡng của địa phương, sinh trưởng và phát triển tốt. Cây trưởng thành ở đây có thể cho thu hoạch 80&nbsp;kg/ha/ngày.<ref>{{Chú thích web|url=https://dangcongsan.vn/chung-suc-xay-dung-nong-thon-moi/tin-tuc-su-kien/cay-mang-tay-hop-dat-phuc-tho--ha-noi-322432.html|tựa đề=Cây măng tây "hợp đất" Phúc Thọ - Hà Nội|ngày=2015-09-17|website=Báo điện tử Đảng cộng sản Việt Nam|url lưu trữ=https://web.archive.org/web/20240331144350/https://dangcongsan.vn/chung-suc-xay-dung-nong-thon-moi/tin-tuc-su-kien/cay-mang-tay-hop-dat-phuc-tho--ha-noi-322432.html|ngày lưu trữ=2024-03-31|url-status=live}}</ref>
+
+Nằm bên dòng sông Đáy, xã Hiệp Thuận cũng có nhiều bãi bồi phù sa phù hợp cho cây dâu tằm phát triển. Toàn xã có hơn 15 ha trồng dâu tằm trên 5 năm tuổi. Với mỗi sào (360m<sup>2</sup>) trồng khoảng 40 gốc dâu thì mỗi gốc sẽ cho thu hoạch khoảng 100&nbsp;kg quả/vụ. Mùa dâu chín thường vào cuối tháng ba, đầu tháng tư hàng năm và nhuộm đỏ cả một vùng. Người dân trong xã sẽ tập trung thu hoạch ngay và được thương lái đến mua tại vườn.<ref>{{Chú thích web|url=https://nhandan.vn/post-641017.html|tựa đề=Tháng tư, mùa dâu tằm chín rực|tác giả=Đăng Anh|ngày=2021-04-06|website=[[Nhân Dân (báo)|Nhân Dân]]|url lưu trữ=https://web.archive.org/web/20240331144640/https://nhandan.vn/thang-tu-mua-dau-tam-chin-ruc-post641017.html|ngày lưu trữ=2024-03-31|url-status=live}}</ref><ref>{{Chú thích web|url=https://vietnam.vnanet.vn/vietnamese/tin-tuc/mua-thu-hoach-dau-o-hiep-thuan-175958.html|tựa đề=Mùa thu hoạch dâu ở Hiệp Thuận|tác giả=Ngân Hà|ngày=2018-05-15|website=[[Thông tấn xã Việt Nam]]|url-status=live|ngày truy cập=2024-03-31|archive-date=2024-03-31|archive-url=https://web.archive.org/web/20240331124926/https://vietnam.vnanet.vn/vietnamese/tin-tuc/mua-thu-hoach-dau-o-hiep-thuan-175958.html}}</ref>
+
+Bên cạnh đó, ở xã cũng có 20-40% số hộ làm nghề mộc, trong đó chủ yếu là nội thất như giường tủ bàn ghế... Ngoài ra, ở đây còn có một số nghề phụ như: may công nghiệp, xây dựng, cơ khí... Năm 2015, Hiệp Thuận đã được công nhận xã nông thôn mới.<ref>{{Chú thích web|url=https://nhipsonghanoi.hanoimoi.vn/doi-moi-o-hiep-thuan-628391.html|tựa đề=Đổi mới ở Hiệp Thuận|tác giả=Ánh Dương|ngày=2019-02-03|website=[[Hànộimới]]|url lưu trữ=https://web.archive.org/web/20240331145107/https://nhipsonghanoi.hanoimoi.vn/doi-moi-o-hiep-thuan-628391.html|ngày lưu trữ=2024-03-31|url-status=live}}</ref> Tính đến năm 2016, thu nhập bình quân đầu người ở xã đạt 32,5 triệu đồng/năm; tỷ lệ hộ nghèo còn 6,11%. Cơ cấu kinh tế của xã gồm: 29% nông nghiệp, 30,8% dịch vụ và 40,2% tiểu thủ công nghiệp - xây dựng cơ bản.<ref name=":0" />
+
+== Văn hóa ==
+Người dân xã Hiệp Thuận theo hai tôn giáo chính là đạo Phật và đạo Thiên Chúa. Ở khu vực này có ba giáo họ là Hiệp Thuận, Quế Lâm và Yên Dục.<ref>{{Chú thích web|url=http://www.giaophanhunghoa.org/vi/giao-phan/giao-hat-giao-xu/giao-xu--ha-hiep-o81E2102A.html|tựa đề=Giáo xứ Hạ Hiệp|website=Giáo phận Hưng Hóa|url-status=live|ngày truy cập=2024-03-31|archive-date=2023-02-04|archive-url=https://web.archive.org/web/20230204121230/http://www.giaophanhunghoa.org/vi/giao-phan/giao-hat-giao-xu/giao-xu--ha-hiep-o81E2102A.html}}</ref> Toàn xã có 19 di tích lịch sử - văn hoá, trong đó có 05 di tích quốc gia là: đình Yên Dục, đình Hiệp Lộc, đền Trong, đền Ngoài và chùa Bà Tề. Còn đình Quế Lâm và đền Phú Lễ là hai di tích xếp loại cấp thành phố.<ref name=":0" /> Xã Hiệp Thuận cũng từng là nơi quay chính của bộ phim ''[[Đất và người]]''.{{Cần dẫn nguồn}}
+
+== Xã hội ==
+Kênh tin tức VTV24h từng phản ánh về tình trạng tín dụng đen nghiêm trọng tại xã Hiệp Thuận vào năm 2019. Trên dưới 200 gia đình trong xã có con cái (phần nhiều chỉ 15-16 tuổi) dính vào đường dây cho vay nặng lãi. Tới khi không trả được nợ thì tất cả con nợ đã bỏ trốn hết. Hậu quả là người thân ở nhà phải bán tài sản để trả nợ thay, thậm chí còn bị uy hiếp bằng bình xịt hơi cay và ném chất bẩn vào nhà. Theo Công an huyện Phúc Thọ, tín dụng đen hành hoành ở xã Hiệp Thuận từ khoảng 5 năm trước đó và ngày càng tinh vi hơn.<ref>{{Chú thích web|url=https://vtv.vn/news-20191204193256388.htm|tựa đề=Hàng trăm gia đình ở xã Hiệp Thuận (Hà Nội) điêu đứng vì tín dụng đen|tác giả=VTV24|ngày=2019-12-04|website=[[Đài truyền hình Việt Nam]]|url lưu trữ=https://web.archive.org/web/20240331145342/https://vtv.vn/chuyen-dong-24h/hang-tram-gia-dinh-o-xa-hiep-thuan-ha-noi-dieu-dung-vi-tin-dung-den-20191204193256388.htm|ngày lưu trữ=2024-03-31|url-status=live}}</ref>
+
+Tháng 5 năm 2021, toàn xã Hiệp Thuận đã phải cách ly 21 ngày do xuất hiện 7 ca dương tính với Covid-19.<ref>{{Chú thích web|url=https://baochinhphu.vn/cach-ly-y-te-o-dich-covid-19-tai-xa-hiep-thuan-phuc-tho-102292007.htm|tựa đề=Cách ly y tế ổ dịch COVID-19 tại xã Hiệp Thuận, Phúc Thọ|tác giả=Thiện Tâm|ngày=2021-05-10|website=Báo điện tử Chính phủ|url lưu trữ=https://web.archive.org/web/20240331145212/https://baochinhphu.vn/cach-ly-y-te-o-dich-covid-19-tai-xa-hiep-thuan-phuc-tho-102292007.htm|ngày lưu trữ=2024-03-31|url-status=live}}</ref> Do ở thời điểm đầu bùng phát dịch nên việc cách ly diễn ra rất nghiêm ngặt. Xã cũng đã được Sở y tế chi viện hơn 10 nghìn chiếc khẩu trang và 120 chai nước sát khuẩn.<ref>{{Chú thích web|url=https://tuoitrethudo.com.vn/tang-10-nghin-chiec-khau-trang-dong-vien-nhan-dan-xa-hiep-thuan-huyen-phuc-tho-phong-chong-dich-covid-19-162968.html|tựa đề=Tặng 10 nghìn chiếc khẩu trang động viên Nhân dân xã Hiệp Thuận, huyện Phúc Thọ phòng chống dịch Covid-19|tác giả=Phương Thu|ngày=2021-05-12|website=Báo Tuổi Trẻ Thủ Đô|url-status=live|ngày truy cập=2024-03-31|archive-date=2024-03-31|archive-url=https://web.archive.org/web/20240331140300/https://tuoitrethudo.com.vn/tang-10-nghin-chiec-khau-trang-dong-vien-nhan-dan-xa-hiep-thuan-huyen-phuc-tho-phong-chong-dich-covid-19-162968.html}}</ref>
+
+== Lịch sử ==
+        [[Liên Hiệp]] là địa phương hình thành sớm trong quá trình dựng nước và giữ nước của dân tộc. Mảnh đất và con người của Liên Hiệp đã gắn liền với chiến công và tên tuổi của Hai Bà Trưng trong thời kỳ đầu công nguyên, đó là niềm tự hào của người Liên Hiệp qua nhiều thế hệ từ trước đến nay.
+
+        Trong 2 cuộc kháng chiến chống thực dân [[Pháp]] và đế quốc [[Mỹ]], nhân dân [[Liên Hiệp]] đã đóng góp nhiều cả về nhân lực và vật lực, góp phần vào thắng lợi chung của toàn dân tộc. Xã có 2 Bà mẹ Việt Nam anh hùng, 114 liệt sỹ và hàng chục thương bệnh binh khác. Ghi nhận những đóng góp của Đảng bộ, chính quyền và nhân dân xã [[Liên Hiệp]], HTX Nông nghiệp Hạ Hiệp đã được [[Đảng]] và [[Nhà]] nước đã tặng thưởng huân chương lao động hạng 3. Ngoài ra các cá nhân và gia đình trong toàn xã còn được tặng thưởng 128 huân, huy chương kháng chiến và nhiều loại khác.
+
+        [[Liên Hiệp]] có 2 tôn giáo chính: [[Đạo Phật]] và [[Đạo Thiên Chúa]], nhìn chung đều sống hòa thuận, có truyền thống gắn bó, đoàn kết, luôn tích cực sống tốt đời, đẹp đạo.
+
+        Là vùng đất cổ, [[Liên Hiệp]] luôn tự hào về những di sản văn hóa kiến trúc của địa phương. Toàn xã có 10 di tích lịch sử - văn hoá, trong đó [[đình Hạ Hiệp]] được xếp hạng Di tích quốc gia Đặc biệt năm 2020, đình Hiếu Hiệp và chùa Sẻ là di tích được xếp hạng cấp tỉnh, thành phố. Làng Hiếu Hiệp được công nhận là làng văn hóa giai đoạn 2001 – 2003.
+
+== Kinh tế xã hội ==
+        Trong những năm gần đây, kinh tế của xã có những bước phát triển khá, cơ cấu kinh tế chuyển dịch theo hướng tích cực, Nông nghiệp 14%, Công nghiệp - Xây dựng 51,6%, Dịch vụ 34,4%. Tốc độ tăng trưởng kinh tế bình quân đạt 11,8%; thu nhập bình quân đầu người hơn 30 triệu đồng/năm. Sau dồn điền đổi thửa, xã đã tập trung chỉ đạo ứng dụng mạnh mẽ tiến bộ khoa học, công nghệ, tổ chức lại sản xuất, nâng cao giá trị trên diện tích canh tác để nâng cao thu nhập và đời sống nhân dân.
+
+        Về văn hóa xã hội: xã có 75 % hộ gia đình, 50 % số làng, 33 % cơ quan, đơn vị đạt danh hiệu văn hóa. Có 1 trường đạt chuẩn quốc gia; xã đạt chuẩn quốc gia về y tế.
+
+==Lịch sử==
+Nguyên xưa, xã Tam Thuấn bắt nguồn từ một làng gọi là '''Thuấn Nhuế''', tục gọi là '''kẻ Thón''', cùng thờ một vị thành hoàng. Vào đầu thế kỷ 19, làng phát triển thành xã Thuấn Nhuế, thuộc tổng Thượng Hiệp huyện Đan Phượng phủ Quốc Oai trấn [[Sơn Tây trấn|Sơn Tây]]<ref>Cuốn Tên làng xã Việt Nam đầu thế kỷ 19, trang 36.</ref>. Do xã gồm 3 thôn: Nội, Ngoại, Trung, bắt đầu bằng chữ Thuấn, do đó mà có tên '''Tam Thuấn'''.
+
+Về sau do biến động hành chính trong các thời kỳ của [[nhà Nguyễn]] (thành lập các tỉnh Hà Nội và Sơn Tây, rồi thời [[Pháp thuộc]]), đến thế kỷ 20, Tam Thuấn thuộc huyện Phúc Thọ tỉnh Sơn Tây (sau là tỉnh [[Hà Tây (tỉnh)|Hà Tây]], tỉnh [[Hà Sơn Bình]], rồi Thành phố Hà Nội, rồi lại thuộc Hà Tây). Đến năm 2008, Tam Thuấn cùng huyện Phúc Thọ và cả tỉnh Hà Tây được sáp nhập về Hà Nội.
+
+ -->
+==Danh nhân==
+* Chính trị gia [[Nguyễn Tuấn Anh (Hà Nội)|'''Nguyễn Tuấn Anh''']], (sinh năm 1964), nguyên Phó Chủ nhiệm Ủy ban công tác đại biểu quốc hội, đại biểu [[Quốc hội Việt Nam khóa XIV|Quốc hội Việt Nam khóa 14]] tỉnh [[Bình Phước (tỉnh)|Bình Phước]].
+* '''[[Nguyễn Mạnh Hùng (Hà Nội)|Nguyễn Mạnh Hùng]]''' (sinh năm 1974) là một [[chính khách]] người Việt Nam. Ông hiện là Phó Bí thư [[Thành ủy Đà Nẵng]], Bí thư Đảng ủy, Chủ tịch [[Ủy ban nhân dân]] [[Đà Nẵng|thành phố Đà Nẵng]].
+
+==Hình ảnh==
+[[Tập tin:Tam Hiệp 2024.jpg|thumb|Một góc xã Hát Môn]]
+
+==Chú thích==
+{{tham khảo}}
+
+==Tham khảo==
+
+{{sơ khai Hà Nội}}
+{{Đơn vị hành chính thuộc thành phố Hà Nội}}

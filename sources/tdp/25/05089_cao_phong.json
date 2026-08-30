@@ -1,0 +1,92 @@
+{
+  "ward_code": "05089",
+  "ward_name": "Cao Phong",
+  "province_code": "25",
+  "resolution": "",
+  "arrangement": "truoc_2026_07",
+  "effective_date": "",
+  "verified": "unverified",
+  "extraction": {
+    "source": "vi.wikipedia.org",
+    "title": "Cao Phong (xã)",
+    "mode": "narrative"
+  },
+  "sources": [
+    {
+      "key": "wiki-05089-1",
+      "title": "Nghị quyết về việc sắp xếp, tổ chức lại, đặt tên xóm, khu dân cư trên địa bàn xã Cao Phong",
+      "url": "https://caophong.phutho.gov.vn/index.php/van-ban/3485-nq24",
+      "date": "7/17/2026",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-05089-2",
+      "title": "Nghị quyết số 24/NQ-HĐND về việc sắp xếp, tổ chức lại, đặt tên xóm, khu dân cư trên địa bàn xã Cao Phong",
+      "url": "https://caophong.phutho.gov.vn/images/H%C4%90ND/NQ24sapxepthon.pdf",
+      "date": "2026-06-25",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-05089-3",
+      "title": "Danh sách Khu vực bỏ phiếu đại biểu Quốc hội Khóa XVI và đại biểu Hội đồng nhân dân các cấp, nhiệm kỳ 2026-2031",
+      "url": "https://caophong.phutho.gov.vn/index.php/bau-cu/3391-khu-vuc-bo-phieu",
+      "date": "2026-03-15",
+      "type": "wikipedia-ref"
+    }
+  ],
+  "note": "Trích tự động từ Wikipedia tiếng Việt (mode=narrative). Cần đối chiếu nghị quyết HĐND phường/xã. ⚠️ Danh mục có thể là hiện trạng TRƯỚC sắp xếp thôn/TDP 01/7/2026 — Wikipedia chưa cập nhật nghị quyết mới.",
+  "tdp": [
+    {
+      "name": "Bưng",
+      "type": "thôn"
+    },
+    {
+      "name": "Cạn Hạ",
+      "type": "thôn"
+    },
+    {
+      "name": "Cạn Thượng",
+      "type": "thôn"
+    },
+    {
+      "name": "Chằng",
+      "type": "thôn"
+    },
+    {
+      "name": "Hợp Tiến",
+      "type": "thôn"
+    },
+    {
+      "name": "Mừng",
+      "type": "thôn"
+    },
+    {
+      "name": "Nhõi",
+      "type": "thôn"
+    },
+    {
+      "name": "Quáng",
+      "type": "thôn"
+    },
+    {
+      "name": "Rú",
+      "type": "thôn"
+    },
+    {
+      "name": "Thu Phong",
+      "type": "thôn"
+    },
+    {
+      "name": "Trang Trên",
+      "type": "thôn"
+    },
+    {
+      "name": "Trang Trong",
+      "type": "thôn"
+    },
+    {
+      "name": "Vỏ",
+      "type": "thôn"
+    }
+  ]
+}

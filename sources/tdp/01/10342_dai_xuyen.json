@@ -1,0 +1,132 @@
+{
+  "ward_code": "10342",
+  "ward_name": "Đại Xuyên",
+  "province_code": "01",
+  "resolution": "",
+  "arrangement": "2026_07",
+  "effective_date": "2026-07-01",
+  "verified": "unverified",
+  "extraction": {
+    "source": "vi.wikipedia.org",
+    "title": "(cache)",
+    "mode": "table"
+  },
+  "sources": [
+    {
+      "key": "wiki-10342-1",
+      "title": "Quyết định số 6/QĐ-UBBC ngày 18 tháng 12 năm 2025 của Ủy ban bầu cử xã Đại Xuyên về việc ấn định số đơn vị bầu cử, danh sách các đơn vị bầu cử và số lượng đại biểu được bầu ở mỗi đơn vị bầu cử đại biểu Hội đồng nhân dân xã Đại Xuyên nhiệm kỳ 2026 - 2031",
+      "url": "https://datafiles.hanoi.gov.vn/gov-hni/7006/VanBan/2026/1/13/Q%C4%90%20C%C3%94NG%20BO%20CAC%20DON%20VI%20BC%20X%C3%83%20%C4%90%E1%BA%A0I%20XUY%C3%8AN%20(1).pdf",
+      "date": "2026-07-02",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-10342-2",
+      "title": "Nghị quyết số 1656/NQ-UBTVQH15 ngày 16 tháng 6 năm 2025 của Ủy ban Thường vụ Quốc hội về việc sắp xếp các đơn vị hành chính cấp xã của thành phố Hà Nội năm 2025",
+      "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf",
+      "date": "2026-06-30",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-10342-3",
+      "title": "Xã Đại Xuyên chính thức có 23 thôn sau khi sắp xếp, tổ chức lại",
+      "url": "https://daixuyen.hanoi.gov.vn/thong-tin-tuyen-truyen/xa-dai-xuyen-chinh-thuc-co-23-thon-sau-khi-sap-xep-to-chuc-lai-2699260706101554813.htm?gidzl=x5Fo7Gm1h7_eJFOR1XkkSET1zXCV5QLt-qUg4Hz5ztRx4FX164UX9Vz5-KHF5QSce4JuH6BMOsjJ2G2eVG",
+      "date": "2026-07-07",
+      "type": "wikipedia-ref"
+    }
+  ],
+  "note": "Trích tự động từ Wikipedia tiếng Việt (mode=table). Cần đối chiếu nghị quyết HĐND phường/xã.",
+  "tdp": [
+    {
+      "name": "An Hòa",
+      "type": "thôn"
+    },
+    {
+      "name": "Bái Đô",
+      "type": "thôn"
+    },
+    {
+      "name": "Bái Xuyên",
+      "type": "thôn"
+    },
+    {
+      "name": "Bình Minh",
+      "type": "thôn"
+    },
+    {
+      "name": "Cổ Chế",
+      "type": "thôn"
+    },
+    {
+      "name": "Cổ Trai",
+      "type": "thôn"
+    },
+    {
+      "name": "Đa Thái",
+      "type": "thôn"
+    },
+    {
+      "name": "Đông Đòai",
+      "type": "thôn"
+    },
+    {
+      "name": "Hòang Nguyên",
+      "type": "thôn"
+    },
+    {
+      "name": "Hòa Khê",
+      "type": "thôn"
+    },
+    {
+      "name": "Khai Thái",
+      "type": "thôn"
+    },
+    {
+      "name": "Khả Liễu",
+      "type": "thôn"
+    },
+    {
+      "name": "Kim Quy",
+      "type": "thôn"
+    },
+    {
+      "name": "Lập Phương",
+      "type": "thôn"
+    },
+    {
+      "name": "Minh Khai",
+      "type": "thôn"
+    },
+    {
+      "name": "Ninh Sơn",
+      "type": "thôn"
+    },
+    {
+      "name": "Phúc Lâm",
+      "type": "thôn"
+    },
+    {
+      "name": "Quang Lãng",
+      "type": "thôn"
+    },
+    {
+      "name": "Thần Quy",
+      "type": "thôn"
+    },
+    {
+      "name": "Thường Xuyên",
+      "type": "thôn"
+    },
+    {
+      "name": "Tri Thủy",
+      "type": "thôn"
+    },
+    {
+      "name": "Vĩnh Thượng",
+      "type": "thôn"
+    },
+    {
+      "name": "Vĩnh Xuân",
+      "type": "thôn"
+    }
+  ]
+}

@@ -1,0 +1,147 @@
+{{Thông tin đơn vị hành chính Việt Nam|Phường| tên = Láng| logo = Biểu trưng phường Láng.svg| ghi chú logo = Biểu trưng| hình = Cổng chùa Láng, Hà Nội 002.JPG| ghi chú hình = Chùa Láng| diện tích = 1,88 km²| dân số = 61.135 người| thời điểm dân số = 2025| mật độ dân số ={{formatnum:{{#expr:floor({{formatnum:61.135| R}}/{{formatnum:1,88| R}})}} }} người/km² | vùng = [[Đồng bằng sông Hồng]]| thành phố = [[Hà Nội]]| trụ sở UBND = Số 79A ngõ 25 Vũ Ngọc Phan<ref>{{Chú thích web |url=https://storage-vnportal.vnpt.vn/gov-hni/6244/VanBan/2025/6/25/TB-729-2025.pdf |title=Thông báo số 729/TB-UBND ngày 25 tháng 6 năm 2025 của Ủy ban nhân dân thành phố Hà Nội về địa điểm trụ sở làm việc của 126 phường, xã sau sắp xếp thuộc phạm vi quản lý của thành phố Hà Nội|access-date=2026-06-15 |archive-date=2026-06-15 |archive-url=https://web.archive.org/web/20260615034519/https://storage-vnportal.vnpt.vn/gov-hni/6244/VanBan/2025/6/25/TB-729-2025.pdf |url-status=dead | website = Cổng Thông tin điện tử Ủy ban nhân dân thành phố Hà Nội}}</ref>| mã hành chính = 00199<ref>{{Chú thích web |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/19ttg.signed.pdf |title=Quyết định số 19/2025/QĐ-TTg ngày 30 tháng 6 năm 2025 của Thủ tướng Chính phủ về việc Ban hành Bảng danh mục và mã số các đơn vị hành chính Việt Nam |access-date=2026-06-15 |archive-date=2026-06-15 |archive-url=https://web.archive.org/web/20260615034519/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/19ttg.signed.pdf |url-status=dead | website = Cổng Thông tin điện tử Chính phủ}}</ref>| web = {{url|lang.hanoi.gov.vn}}|trụ sở Đảng ủy=Số 896 đường Láng|bản đồ 1={{maplink|frame=yes|plain=yes|type=shape|frame-width=280|frame-align=center|stroke-width=3}}|vĩ độ=21.01331417596171|kinh độ=105.81049807116393}}{{about| phường thuộc thành phố Hà Nội, thành lập năm 2025| định nghĩa khác| Láng}}'''Láng''' là một [[Phường (Việt Nam)|phường]] thuộc thành phố [[Hà Nội]], Việt Nam.
+
+== Địa lý== 
+Phường Láng có vị trí địa lý:
+
+* Phía đông giáp phường [[Đống Đa (phường)|Đống Đa]] (ranh giới đi theo phố Láng Hạ)
+* Phía tây giáp phường [[Cầu Giấy (phường)|Cầu Giấy]] (đi theo ranh giới cấp xã cũ – dọc theo [[sông Tô Lịch]])
+* Phía nam giáp phường [[Yên Hòa (phường)|Yên Hòa]] (đi theo ranh giới cấp xã cũ – theo [[sông Tô Lịch]])
+* Phía bắc giáp phường [[Giảng Võ]] (ranh giới đi theo phố Cầu Giấy – La Thành – phố Nguyễn Chí Thanh – phố Huỳnh Thúc Kháng).<ref>{{Chú thích web |last=Báo Điện tử Chính phủ |date=2025-04-28 |title=Chi tiết dự thảo phương án sắp xếp các phường của Hà Nội |url=https://xaydungchinhsach.chinhphu.vn/chi-tiet-du-thao-phuong-an-sap-xep-cac-phuong-cua-ha-noi-119250421100531902.htm |url-status=live |archive-url=https://web.archive.org/web/20260710401509/https://xaydungchinhsach.chinhphu.vn/chi-tiet-du-thao-phuong-an-sap-xep-cac-phuong-cua-ha-noi-119250421100531902.htm |archive-date=2026-07-10 |access-date=2026-07-10 |website=Xây dựng chính sách, pháp luật}}</ref><ref>{{Chú thích web |last=Viện nghiên cứu Phát triển kinh tế – xã hội Hà Nội |date=2025-07-02 |title=Phường Láng: Những thông tin chi tiết sau sắp xếp |url=https://hanoionline.vn/phuong-lang-nhung-thong-tin-chi-tiet-sau-sap-xep-344166.htm |url-status=dead |archive-url=https://web.archive.org/web/20260816400809/https://hanoionline.vn/phuong-lang-nhung-thong-tin-chi-tiet-sau-sap-xep-344166.htm |archive-date=2026-08-16 |access-date=2026-08-16 |website=Cơ quan Báo và Phát thanh Truyền hình Hà Nội}}</ref><ref>{{Chú thích web |last=Cơ quan Báo và Phát thanh Truyền hình Hà Nội |date=2025-07-04 |title=Phường Láng: Tất cả thông tin chỉ dẫn bạn cần biết |url=https://hanoionline.vn/phuong-lang-tat-ca-thong-tin-chi-dan-ban-can-biet-344634.htm |url-status=dead |archive-url=https://web.archive.org/web/20260816401509/https://hanoionline.vn/phuong-lang-tat-ca-thong-tin-chi-dan-ban-can-biet-344634.htm |archive-date=2026-08-16 |access-date=2026-08-16}}</ref>
+Phường Láng có diện tích tự nhiên là 1,88 km<sup>2</sup>, quy mô dân số năm 2025 là 61.135 người và mật độ dân số đạt 32.518 người/km<sup>2</sup>.<ref>{{Chú thích web |last=Mai Hữu |date=2026-04-05 |title=Hà Nội: Chi tiết phương án tổng thể sắp xếp đơn vị hành chính cấp xã |url=https://hanoimoi.vn/ha-noi-chi-tiet-phuong-an-tong-the-sap-xep-don-vi-hanh-chinh-cap-xa-700278.html |url-status=live |archive-url=https://web.archive.org/web/20260711401509/https://hanoimoi.vn/ha-noi-chi-tiet-phuong-an-tong-the-sap-xep-don-vi-hanh-chinh-cap-xa-700278.html |archive-date=2026-07-11 |access-date=2026-07-11 |website=Cơ quan Báo và Phát thanh, truyền hình Hà Nội}}</ref><ref>Công văn số 2896/BNV-CQĐP ngày 27 tháng 5 năm 2025 của Bộ Nội vụ về việc cung cấp thông tin danh mục dự kiến đơn vị hành chính cấp xã mới.</ref>
+
+== Lịch sử==
+
+=== Trước năm 1976 ===
+
+=== Giai đoạn 1976 – nay ===
+Sau ngày 2 tháng 7 năm 1976, 2 tiểu khu: Láng Hạ và Láng Thượng thuộc khu phố [[Đống Đa (quận)|Đống Đa]]; 2 tiểu khu: Cầu Giấy và Cống Vị thuộc khu phố [[Ba Đình (quận)|Ba Đình]] của thành phố [[Hà Nội]].
+
+Ngày 3 tháng 1 năm 1981, từ nay ở nội thành, đơn vị hành chính cấp dưới trực tiếp của [[Thành phố trực thuộc trung ương (Việt Nam)|thành phố trực thuộc trung ương]] đều thống nhất gọi là [[Quận (Việt Nam)|quận]]; các đơn vị hành chính cơ sở ở nội thành, nội thị của các [[Thành phố thuộc tỉnh (Việt Nam)|thành phố thuộc tỉnh]], [[Thị xã (Việt Nam)|thị xã]] và [[Quận (Việt Nam)|quận]] gọi là [[Phường (Việt Nam)|phường]]. Khi đó, 2 phường: Láng Hạ và Láng Thượng thuộc quận [[Đống Đa (quận)|Đống Đa]]; 2 phường: Cầu Giấy và Cống Vị thuộc quận [[Ba Đình (quận)|Ba Đình]].<ref>Quyết định số 3-CP ngày 3 tháng 1 năm 1981 của Hội đồng Chính phủ về việc thống nhất tên gọi các đơn vị hành chính ở nội thành nội thị.</ref>
+
+Ngày 22 tháng 11 năm 1996, đổi tên phường Cầu Giấy thành phường Ngọc Khánh.<ref>{{Chú thích web |title=Nghị định số 74-CP ngày 22 tháng 11 năm 1996 của Chính phủ về việc thành lập quận Thanh Xuân, quận Cầu Giấy, thành lập và đổi tên một số phường thuộc thành phố Hà Nội|url=https://chinhphu.vn/default.aspx?pageid=27160&docid=3229|url-status=dead|archive-url=https://web.archive.org/web/20260818061807/https://chinhphu.vn/default.aspx?pageid=27160&docid=3229|archive-date=2026-08-18|access-date=2026-08-18|website=Cổng Thông tin điện tử Chính phủ}}</ref>
+
+Ngày 5 tháng 1 năm 2005, điều chỉnh 01 ha diện tích tự nhiên và 200 nhân khẩu của phường Cống Vị về phường Ngọc Khánh quản lý.<ref>{{Chú thích web |title=Nghị định số 2/2005/NĐ-CP ngày 5 tháng 1 năm 2005 của Chính phủ về việc điều chỉnh địa giới hành chính, thành lập phường thuộc các quận Ba Đình, Cầu Giấy và thành lập thị trấn Trâu Quỳ, huyện Gia Lâm, thành phố Hà Nội|url=https://chinhphu.vn/default.aspx?pageid=27160&docid=14306|url-status=dead|archive-url=https://web.archive.org/web/20260818201510/https://chinhphu.vn/default.aspx?pageid=27160&docid=14306|archive-date=2026-08-18|access-date=2026-08-18|website=Cổng Thông tin điện tử Chính phủ}}</ref>
+
+Ngày 16 tháng 6 năm 2025:
+
+* Kết thúc hoạt động của đơn vị hành chính cấp huyện trong cả nước.<ref>{{Chú thích web |last= |date= |title=Nghị quyết số 203/2025/QH15 ngày 16 tháng 6 năm 2025 của Quốc hội khóa XV, Kỳ họp thứ 9 về việc sửa đổi, bổ sung một số điều của Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/nq-sua-doi-hien-phap.pdf |url-status=live |archive-url=https://web.archive.org/web/20260613090807/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/nq-sua-doi-hien-phap.pdf |archive-date=2026-06-13 |access-date=2026-06-13 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+* Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của phường Láng Thượng, phần còn lại của phường Láng Hạ (quận [[Đống Đa (quận)|Đống Đa]]) và phần còn lại của phường Ngọc Khánh (quận [[Ba Đình (quận)|Ba Đình]]) thành phường mới có tên gọi là phường Láng.<ref>{{Chú thích web |title=Nghị quyết số 1656/NQ-UBTVQH15 ngày 16 tháng 6 năm 2025 của Ủy ban Thường vụ Quốc hội về việc sắp xếp các đơn vị hành chính cấp xã của thành phố Hà Nội năm 2025 |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf |url-status=live |archive-url=https://web.archive.org/web/20260630400809/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf |archive-date=2026-06-30 |access-date=2026-06-30 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+Ngày 18 tháng 7 năm 2025, đổi tên tổ dân phố trên địa bàn phường Láng. Sau khi sắp xếp, phường Láng được chia thành 53 tổ dân phố.<ref>53 tổ dân phố, đánh số từ 1 đến 53.</ref><ref>{{Chú thích web |title=Thông tư số 10/2022/TT-BTNMT ngày 29 tháng 9 năm 2022 của Bộ Tài nguyên và Môi trường về việc Ban hành Danh mục địa danh dân cư, sơn văn, thủy văn, kinh tế – xã hội phục vụ công tác thành lập bản đồ thành phố Hà Nội |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2022/10/10-btnmt.pdf |url-status=live |archive-url=https://web.archive.org/web/20260630400809/https://datafiles.chinhphu.vn/cpp/files/vbpq/2022/10/10-btnmt.pdf |archive-date=2026-06-30 |access-date=2026-06-30 |website=Cổng Thông tin điện tử Chính phủ}}</ref><ref>{{Chú thích web |last=Nga Nguyễn |date=2025-07-18 |title=Hội đồng nhân dân phường Láng thông qua nhiều nghị quyết quan trọng, định hướng phát triển trong giai đoạn mới |url=https://www.thanhuyhanoi.vn/tin-tuc/van-hanh-chinh-quyen-dia-phuong-2-cap/hdnd-phuong-lang-thong-qua-nhieu-nghi-quyet-quan-trong-dinh-huong-phat-trien-trong-giai-doan-moi-50026906.html |url-status=dead |archive-url=https://web.archive.org/web/20260817201510/https://www.thanhuyhanoi.vn/tin-tuc/van-hanh-chinh-quyen-dia-phuong-2-cap/hdnd-phuong-lang-thong-qua-nhieu-nghi-quyet-quan-trong-dinh-huong-phat-trien-trong-giai-doan-moi-50026906.html |archive-date=2026-08-17 |access-date=2026-08-17 |website=Trang Thông tin điện tử Đảng bộ thành phố Hà Nội}}</ref><ref>{{Chú thích web |last=Trang Thông tin điện tử phường Láng – thành phố Hà Nội |date=2026-02-25 |title=Ủy ban bầu cử phường Láng công bố danh sách chính thức những người ứng cử đại biểu Hội đồng nhân dân phường Láng khóa II, nhiệm kỳ 2026 – 20231 tại 05 đơn vị bầu cử trên địa bàn phường |url=https://lang.hanoi.gov.vn/thong-bao/uy-ban-bau-cu-phuong-lang-cong-bo-danh-sach-chinh-thuc-nhung-nguoi-ung-cu-dai-bieu-hdnd-phuong-lang-khoa-ii-nhiem-ky-2026-2031-tai-05-don-vi-bau-cu-tren-dia-ban-phuong-2830260225173015979.htm |url-status=dead |archive-url=https://web.archive.org/web/20260817201510/https://lang.hanoi.gov.vn/thong-bao/uy-ban-bau-cu-phuong-lang-cong-bo-danh-sach-chinh-thuc-nhung-nguoi-ung-cu-dai-bieu-hdnd-phuong-lang-khoa-ii-nhiem-ky-2026-2031-tai-05-don-vi-bau-cu-tren-dia-ban-phuong-2830260225173015979.htm |archive-date=2026-08-17 |access-date=2026-08-17 |website=}}</ref>
+
+Ngày 24 tháng 12 năm 2025, xác định phường Láng là [[Đô thị Việt Nam|đô thị loại II]].<ref>Chuyển tiếp từ phường Ngọc Khánh thuộc quận Ba Đình và 2 phường: Láng Hạ, Láng Thượng thuộc quận Đống Đa.</ref><ref>{{Chú thích web |title=Nghị quyết số 111/2025/UBTVQH15 ngày 24 tháng 12 năm 2025 của Ủy ban Thường vụ Quốc hội về phân loại đô thị |url=https://cdn.nhandan.vn/files/f4a4abf7f9a0ba4a91744616546d850872b76917f90d5a74cc9eebef1369fb6f/111.pdf |url-status=dead |archive-url=https://web.archive.org/web/20260430074852/https://cdn.nhandan.vn/files/f4a4abf7f9a0ba4a91744616546d850872b76917f90d5a74cc9eebef1369fb6f/111.pdf |archive-date=2026-04-30 |access-date=2026-07-12 |website=Báo Nhân dân}}</ref>
+
+Ngày 25 tháng 6 năm 2026, thành lập 24 tổ dân phố mới, đánh số từ 1 đến 16 và từ 18 đến 25; đổi tên tổ dân phố 30 thành tổ dân phố 17.<ref>1. Sáp nhập 03 tổ dân phố gồm: Tổ dân phố số 1 với tổ dân phố số 2 (160 hộ), tổ dân phố số 3 (312 hộ) và thêm 18 hộ từ khu dân cư 27 cũ, chung cư Hong Kong Tower thành tổ dân phố số 1 mới, tổng cộng là 867; 2. Sáp nhập 02 tổ dân phố gồm: Tổ dân phố số 17 (470 hộ) với tổ dân phố số 18 (340 hộ) thành tổ dân phố số 2 mới, tổng cộng là 810 hộ dân; 3. Sáp nhập 06 tổ dân phố gồm: Tổ dân phố số 50 (82 hộ), tổ dân phố số 51 (231 hộ), tổ dân phố số 52 (85 hộ), tổ dân phố số 53 (0 hộ), tổ dân phố số 19 (226 hộ) với tổ dân phố số 20 (253 hộ), Chung cư 54 Nguyễn Chí Thanh (367 hộ) cắt 18 hộ dân khu đại học Giao thông vận tải sang tổ dân phố số 1 mới thành tổ dân phố số 3 mới, tổng cộng là 1.226 hộ dân; 4. Sáp nhập 03 tổ dân phố gồm: Tổ dân phố số 4 (228 hộ), tổ dân phố số 5 (341 hộ) với 4/5 tổ dân phố số 8 (516 hộ) thành tổ dân phố số 4 mới, tổng cộng là 1.085 hộ dân; 5. Sáp nhập 02 tổ dân phố và Tòa nhà Lancaster Luminaire 1152 Đường Láng gồm: 1/5 tổ dân phố số 8 (190 hộ) với tổ dân phố số 9 (512 hộ) và Tòa nhà Lancaster Luminaire (135 hộ) thành tổ dân phố số 5 mới, 12 hộ thuộc tổ dân phố số 12 cũ, tổng cộng 849 hộ dân; 6. Sáp nhập 02 tổ dân phố gồm: Tổ dân phố số 6 (499 hộ) với tổ dân phố số 7 (552 hộ) thành tổ dân phố số 6 mới, tổng cộng là 1.051 hộ dân; 7. Sáp nhập 02 tổ dân phố gồm: Tổ dân phố số 10 (700 hộ) với tổ dân phố số 11 (530 hộ) thành tổ dân phố số 7 mới, tổng cộng là 1.230 hộ dân; 8. Giữ nguyên tổ dân phố số 12 (1.002 hộ) trừ 12 hộ giáp ranh tổ dân phố số 5 mới thành tổ dân phố số 8 mới; 9. Sáp nhập 02 tổ dân phố gồm: 1 phần Tổ dân phố số 13 chia trục 898 (300 hộ) với tổ dân phố số 14 (876 hộ) thành tổ dân phố số 9 mới, tổng cộng là 1.176 hộ dân; 10. Sáp nhập 01 tổ dân phố với Tòa nhà Hateco Laroma 4A Huỳnh Thúc Kháng gồm: Tổ dân phố số 16 (620 hộ) và Tòa nhà Hateco Laroma (156 hộ) thành tổ dân phố số 10 mới, tổng cộng là 776 hộ dân; 11. Sáp nhập 02 tổ dân phố gồm: Tổ dân phố số 21 (915 hộ) với tổ dân phố số 32 (320 hộ) thành tổ dân phố số 11 mới, tổng cộng là 1.235 hộ dân; 12. Sáp nhập 02 tổ dân phố gồm: 1 phần Tổ dân phố số 13 chia theo trục 898 (326 hộ) với tổ dân phố số 15 (714 hộ) thành tổ dân phố số 12 mới, 1 phần tổ 23+24 cũ (87 hộ), tổng cộng là 1.127 hộ dân; 13. Sáp nhập 04 tổ dân phố gồm: Tổ dân phố số 25 (422 hộ) với phần lớn tổ dân phố số 26 (320 hộ) và 1 phần nhỏ tổ dân phố số 23, 24 (195 hộ), tổng cộng là 937 hộ dân; 14. Sáp nhập 02 tổ dân phố gồm: phần lớn số hộ dân của tổ dân phố số 23 (1.096 hộ) và phần lớn số hộ dân của tổ dân phố số 24 (1.054 hộ). Cắt 195 hộ sang tổ 13 mới, 87 hộ sang tổ 12 mới, 189 hộ sang tổ 15 mới, tổng cộng là 1.679 hộ dân; 15. Sáp nhập 03 tổ dân phố gồm: Tổ dân phố số 22 (296 hộ) với 1 phần tổ dân phố số 31 (284 hộ), 1 phần tổ dân phố số 14 mới (189 hộ) thành tổ dân phố số 15 mới, tổng cộng là 769 hộ dân; 16. Sáp nhập 02 tổ dân phố gồm: 1/2 Tổ dân phố số 28 (285 hộ) với tổ dân phố số 29 (596 hộ) thành tổ dân phố số 16 mới, tổng cộng là 881 hộ dân; 17. Giữ nguyên tổ dân phố số 30 (756 hộ) thành tổ dân phố số 17 mới; 18. Sáp nhập 02 tổ dân phố gồm: Tổ dân phố số 27 (586 hộ) với 1/2 tổ dân phố số 28 (285 hộ) thành tổ dân phố số 18 mới, tổng cộng là 871 hộ dân; 19. Sáp nhập 04 tổ dân phố gồm: Tổ dân phố số 34 (752 hộ), Tổ dân phố số 35 (690 hộ), 1 phần tổ dân phố số 26 (20 hộ), 1 phần tổ dân phố số 41 (56 hộ) thành tổ dân phố số 19 mới, tổng cộng là 1.518 hộ dân; 20. Sáp nhập 02 tổ dân phố gồm: Tổ dân phố số 33 (1.176 hộ) với tổ dân phố số 41 (440 hộ) trừ 56 hộ thuộc bên lề phố Trúc Khê thành tổ dân phố số 20 mới, tổng cộng là 1.560 hộ dân; 21. Sáp nhập 02 tổ dân phố gồm: Tổ dân phố số 42 (291 hộ) với tổ dân phố số 43 (564 hộ) thành tổ dân phố số 21 mới, tổng cộng là 855 hộ dân; 22. Sáp nhập 04 tổ dân phố gồm: Tổ dân phố số 36 (377 hộ), tổ dân phố số 37 (395 hộ), tổ dân phố số 38 (413 hộ) và 50 hộ của tổ dân phố số 35 thành tổ dân phố số 22 mới, tổng cộng là 1.235 hộ dân; 23. Sáp nhập 02 tổ dân phố gồm: Tổ dân phố số 39 (437 hộ) với tổ dân phố số 40 (363 hộ) thành tổ dân phố số 23 mới, tổng cộng là 800 hộ dân; 24. Sáp nhập 04 tổ dân phố gồm: Tổ dân phố số 45 (225 hộ) với tổ dân phố số 46 (244 hộ), tổ dân phố số 47 (350 hộ) và tổ dân phố số 48 (385 hộ) thành tổ dân phố số 24 mới, tổng cộng là 1.204 hộ dân; 25. Sáp nhập 02 tổ dân phố gồm: Tổ dân phố số 44 (435 hộ) với tổ dân phố số 49 (291 hộ) thành tổ dân phố số 25 mới, tổng cộng là 726 hộ dân.</ref><ref name=":1">{{Chú thích web |last=Phường Láng – thành phố Hà Nội |date=2026-08-15 |title=Phường Láng: Nhận diện 25 tổ dân phố sau sắp xếp |url=https://web.facebook.com/61577973205103/posts/122191922522932440/?rdid=NanPgBiZEvqvC37Y# |url-status=dead |archive-url=https://web.archive.org/web/20260817400809/https://web.facebook.com/61577973205103/posts/122191922522932440/?rdid=NanPgBiZEvqvC37Y# |archive-date=2026-08-17 |access-date=2026-08-17 |website=}}</ref>
+[[Tập tin:Bản đồ các tổ dân phố thuộc phường Láng của thành phố Hà Nội (từ ngày 1 tháng 7 năm 2026).png|trái|nhỏ|206x206px|Sơ đồ các tổ dân phố thuộc phường Láng của thành phố Hà Nội (từ ngày 1 tháng 7 năm 2026)<ref name=":1" />]]
+
+== Hành chính ==
+Phường Láng được chia thành 25 tổ dân phố, đánh số từ 1 đến 25.<ref name=":1" />
+{| class="wikitable sortable" cellpadding="0" cellspacing="6" width="100%" align="center" style="background: #f9f9f9; border: 1px #aaa solid; margin-top: 16px"
+! colspan="4" style="background: #E6E6FA; font-size: 95%;" |Danh sách các tổ dân phố thuộc phường Láng<ref name=":1" />
+|-
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| cellpadding="1" cellspacing="1" width="100%" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Tổ dân phố 1
+|867
+|-
+| align="left" |Tổ dân phố 2
+|810
+|-
+| align="left" |Tổ dân phố 3
+|1.226
+|-
+| align="left" |Tổ dân phố 4
+|1.085
+|-
+| align="left" |Tổ dân phố 5
+|849
+|-
+| align="left" |Tổ dân phố 6
+|1.051
+|-
+| align="left" |Tổ dân phố 7
+|1.230
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| cellpadding="1" cellspacing="1" width="100%" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Tổ dân phố 8
+|1.002
+|-
+| align="left" |Tổ dân phố 9
+|1.176
+|-
+| align="left" |Tổ dân phố 10
+|776
+|-
+| align="left" |Tổ dân phố 11
+|1.235
+|-
+| align="left" |Tổ dân phố 12
+|1.127
+|-
+| align="left" |Tổ dân phố 13
+|937
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| cellpadding="1" cellspacing="1" width="100%" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Tổ dân phố 14
+|1.679
+|-
+| align="left" |Tổ dân phố 15
+|769
+|-
+| align="left" |Tổ dân phố 16
+|881
+|-
+| align="left" |Tổ dân phố 17
+|756
+|-
+| align="left" |Tổ dân phố 18
+|871
+|-
+| align="left" |Tổ dân phố 19
+|1.518
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| cellpadding="1" cellspacing="1" width="100%" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Tổ dân phố 20
+|1.560
+|-
+| align="left" |Tổ dân phố 21
+|855
+|-
+| align="left" |Tổ dân phố 22
+|1.235
+|-
+| align="left" |Tổ dân phố 23
+|800
+|-
+| align="left" |Tổ dân phố 24
+|1.204
+|-
+| align="left" |Tổ dân phố 25
+|726
+|}
+|}
+
+== Trụ sở cơ quan phường==
+Đảng ủy - MTTQ phường: Số 896, đường Láng
+
+HĐND - UBND phường: Số 75A, ngõ 25, phố Vũ Ngọc Dân
+
+== Chú thích== 
+{{tham khảo}}
+
+== Tham khảo ==
+{{Sơ khai Hà Nội}}{{Đơn vị hành chính thuộc thành phố Hà Nội}}

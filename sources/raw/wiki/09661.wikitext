@@ -1,0 +1,99 @@
+{{Thông tin đơn vị hành chính Việt Nam
+| tên = Minh Châu
+| hình = 
+| ghi chú hình = 
+| vĩ độ = 21.20646755019426
+| kinh độ = 105.45563752592001
+| diện tích = 10,35 km²
+| dân số = 6.646 người
+| thời điểm dân số = 2025
+| mật độ dân số = {{formatnum:{{#expr:floor({{formatnum:6.646| R}}/{{formatnum:10,35| R}})}} }} người/km²
+| dân tộc = 
+| vùng = [[Đồng bằng sông Hồng]]
+| thành phố = [[Hà Nội]]
+| huyện = 
+| thành lập = 
+| trụ sở UBND = Thôn Chu Chàng<ref>{{Chú thích web |url=https://storage-vnportal.vnpt.vn/gov-hni/6244/VanBan/2025/6/25/TB-729-2025.pdf |title=Thông báo số 729/TB-UBND ngày 25 tháng 6 năm 2025 của Ủy ban nhân dân thành phố Hà Nội về địa điểm trụ sở làm việc của 126 phường, xã sau sắp xếp thuộc phạm vi quản lý của thành phố Hà Nội|access-date=2026-06-15 |archive-date=2026-06-15 |archive-url=https://web.archive.org/web/20260615034519/https://storage-vnportal.vnpt.vn/gov-hni/6244/VanBan/2025/6/25/TB-729-2025.pdf |url-status=dead | website = Cổng Thông tin điện tử Ủy ban nhân dân thành phố Hà Nội}}</ref> 
+| mã hành chính = 09661<ref>{{Chú thích web |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/19ttg.signed.pdf |title=Quyết định số 19/2025/QĐ-TTg ngày 30 tháng 6 năm 2025 của Thủ tướng Chính phủ về việc Ban hành Bảng danh mục và mã số các đơn vị hành chính Việt Nam |access-date=2026-06-15 |archive-date=2026-06-15 |archive-url=https://web.archive.org/web/20260615034519/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/19ttg.signed.pdf |url-status=dead | website = Cổng Thông tin điện tử Chính phủ}}</ref>
+| mã bưu chính = 
+| bản đồ 1 = {{maplink|frame=yes|plain=yes|type=shape|frame-width=280|frame-align=center|stroke-width=3}}| web = {{url|minhchau.hanoi.gov.vn}}|Xã|trụ sở Đảng ủy=Thôn Chu Chàng}}{{other|Minh Châu}}
+'''Minh Châu''' là một [[Xã (Việt Nam)|xã]] thuộc thành phố [[Hà Nội]], [[Việt Nam]]. Nằm trên bãi giữa [[sông Hồng]], nơi hội tụ ba dòng [[sông Hồng]], [[sông Đà]] và [[sông Lô]], đây là xã đảo duy nhất của thủ đô, và là đơn vị xã phường có diện tích nhỏ nhất thành phố.
+
+== Địa lý == 
+Xã Minh Châu có vị trí địa lý:
+
+* Phía đông bắc giáp xã [[Vĩnh Thành, Phú Thọ|Vĩnh Thành]] thuộc tỉnh [[Phú Thọ]]
+* Phía đông nam giáp xã [[Vĩnh Phú (tỉnh)|Vĩnh Phú]] thuộc tỉnh [[Phú Thọ]]
+* Phía tây bắc giáp xã [[Vật Lại]]
+* Phía tây nam giáp xã [[Quảng Oai (xã)|Quảng Oai]].<ref>{{Chú thích web | url = https://hanoionline.vn/xa-minh-chau-nhung-thong-tin-chi-tiet-sau-sap-xep-344057.htm| website = Cơ quan Báo và Phát thanh Truyền hình Hà Nội| url-status = live|last=Viện nghiên cứu Phát triển kinh tế – xã hội Hà Nội|date=2025-07-02|title=Xã Minh Châu: Những thông tin chi tiết sau sắp xếp|archive-url=https://web.archive.org/web/20260701400809/https://hanoionline.vn/xa-minh-chau-nhung-thong-tin-chi-tiet-sau-sap-xep-344057.htm|archive-date=2026-07-01|access-date=2026-07-01}}</ref><ref>{{Chú thích web |last=Cơ quan Báo và Phát thanh Truyền hình Hà Nội|date=2025-07-08|title=Xã Minh Châu: Tất cả thông tin chỉ dẫn bạn cần biết|url=https://hanoionline.vn/xa-minh-chau-tat-ca-thong-tin-chi-dan-ban-can-biet-345406.htm|access-date=2026-07-11|url-status=live|archive-url=https://web.archive.org/web/20260711401509/https://hanoionline.vn/xa-minh-chau-tat-ca-thong-tin-chi-dan-ban-can-biet-345406.htm|archive-date=2026-07-11}}</ref>
+Xã Minh Châu có diện tích tự nhiên là 10,35&nbsp;km<sup>2</sup>, quy mô dân số năm 2025 là 6.646 người và mật độ dân số đạt 642 người/km<sup>2</sup>.<ref>{{Chú thích web|date=2026-04-05|title=Hà Nội: Chi tiết phương án tổng thể sắp xếp đơn vị hành chính cấp xã|url=https://hanoimoi.vn/ha-noi-chi-tiet-phuong-an-tong-the-sap-xep-don-vi-hanh-chinh-cap-xa-700278.html|website=Cơ quan Báo và Phát thanh, truyền hình Hà Nội|last=Mai Hữu|url-status=bot: unknown|archive-url=https://web.archive.org/web/20250710163328/https://hanoimoi.vn/ha-noi-chi-tiet-phuong-an-tong-the-sap-xep-don-vi-hanh-chinh-cap-xa-700278.html|archive-date=2025-07-10|access-date=2026-07-11}}</ref><ref>Công văn số 2896/BNV-CQĐP ngày 27 tháng 5 năm 2025 của Bộ Nội vụ về việc cung cấp thông tin danh mục dự kiến đơn vị hành chính cấp xã mới.</ref>
+
+Xã nằm cách trung tâm Hà Nội khoảng 60&nbsp;km, nằm ở bãi giữa [[sông Hồng]], nơi hội tụ ba dòng [[sông Đà]], [[sông Lô]] và [[sông Hồng]], đây là xã đảo duy nhất của [[Hà Nội]].<ref name=":5" /><ref name=":1">{{Chú thích web| url = https://vnexpress.net/xa-dao-duy-nhat-cua-ha-noi-o-dau-4717582.html| tựa đề = Xã đảo duy nhất của Hà Nội ở đâu?| tác giả = Bình Minh| họ = | ngày = 2 tháng 3 năm 2024| website = Báo VnExpress| ngôn ngữ = | url-status = bot: unknown| ngày truy cập = 2026-07-24| archive-url = https://web.archive.org/web/20240528231029/https://vnexpress.net/xa-dao-duy-nhat-cua-ha-noi-o-dau-4717582.html| archive-date = 2024-05-28}}</ref><ref name=":7">{{Chú thích web | last = Bạch Huy Thanh | first = | date = 2025-04-21 | title = Xã, phường nào nhỏ nhất và lớn nhất Hà Nội sau sắp xếp? | url = https://dantri.com.vn/xa-hoi/xa-phuong-nao-nho-nhat-va-lon-nhat-ha-noi-sau-sap-xep-20250421110929400.htm | access-date = 2026-07-24 | website = Báo Dân trí | language = | archive-url = https://web.archive.org/web/20250629060938/https://dantri.com.vn/xa-hoi/xa-phuong-nao-nho-nhat-va-lon-nhat-ha-noi-sau-sap-xep-20250421110929400.htm | archive-date = 2025-06-29 | url-status = dead }}</ref><ref name=":4" /><ref name=":2">{{Chú thích web| url = https://vnexpress.net/cuoc-song-o-xa-dao-duy-nhat-thu-do-4717009.html| tựa đề = Cuộc sống ở xã đảo duy nhất Thủ đô| tác giả = Ngọc Thành – Võ Hải| họ = | website = Báo VnExpress| ngôn ngữ = | url-status = bot: unknown| ngày truy cập = 2026-07-24| date = 2024-04-01| archive-url = https://web.archive.org/web/20250418174250/https://vnexpress.net/cuoc-song-o-xa-dao-duy-nhat-thu-do-4717009.html| archive-date = 2025-04-18}}</ref>
+
+== Lịch sử ==
+
+=== Trước năm 1976 ===
+Xã được thành lập ngày 5 tháng 5 năm 1955,<ref name=":8">{{Chú thích web | last = Phùng Đăng Hường | date = 23-05-04 | title = Xã Minh Châu (huyện Ba Vì): Vững vàng từ truyền thống, bứt phá trong hành trình phát triển mới | url = https://thanhuyhanoi.vn/tin-tuc/hanoi-portal/xa-minh-chau-huyen-ba-vi-vung-vang-tu-truyen-thong-but-pha-trong-hanh-trinh-phat-trien-moi-50020257.html | url-status = live | access-date = ngày 30 tháng 6 năm 2025 | website = Thành ủy Hà Nội}}</ref> có ba thôn là Chu Chàng, Chu Châu và Liễu Châu.<ref name=":5">{{Chú thích web| url = https://dantri.com.vn/xa-hoi/song-cham-o-minh-chau-xa-dao-duy-nhat-cua-ha-noi-20240309154545565.htm| tựa đề = Sống chậm ở Minh Châu – xã đảo duy nhất Hà Nội| tác giả = Hữu Nghị| họ = | tên = | ngày = 2024-03-10| website = Báo Dân trí| ngôn ngữ = | url-status = dead| ngày truy cập = 2026-07-24| archive-url = https://web.archive.org/web/20240317011138/https://dantri.com.vn/xa-hoi/song-cham-o-minh-chau-xa-dao-duy-nhat-cua-ha-noi-20240309154545565.htm| archive-date = 2024-03-17}}</ref> Sau đó 20 ngày, Chi bộ [[Đảng Cộng sản Việt Nam|Đảng]] [[Đảng Cộng sản Việt Nam|Cộng sản]] đầu tiên của xã được thành lập với 10 đảng viên. Đến năm 1962, Đảng bộ xã chính thức được thành lập.<ref name=":8" /> Năm 1972, do thường xảy ra ngập lụt, thôn Liễu Châu được tách khỏi xã để sáp nhập với thị trấn [[Tây Đằng]].<ref name=":1" />
+
+=== Giai đoạn 1976 – nay ===
+Sau ngày 2 tháng 7 năm 1976, 3 xã: Chu Minh, Minh Châu và Tây Đằng thuộc huyện [[Ba Vì (huyện)|Ba Vì]] của tỉnh [[Hà Sơn Bình]].
+
+Ngày 29 tháng 12 năm 1978, sáp nhập huyện [[Ba Vì (huyện)|Ba Vì]] của tỉnh [[Hà Sơn Bình]] vào thành phố [[Hà Nội]]. Khi đó, 3 xã: Chu Minh, Minh Châu và Tây Đằng thuộc huyện [[Ba Vì (huyện)|Ba Vì]] của thành phố [[Hà Nội]].<ref>Nghị quyết ngày 29 tháng 12 năm 1978 của Quốc hội khóa VI, Kỳ họp thứ 4 phê chuẩn việc phân vạch lại địa giới thành phố Hà Nội, thành phố Hồ Chí Minh, các tỉnh Hà Sơn Bình, Vĩnh Phú, Cao Lạng, Bắc Thái, Quảng Ninh và Đồng Nai.</ref>
+
+Ngày 12 tháng 8 năm 1991, chia tỉnh [[Hà Sơn Bình]] thành 2 tỉnh, lấy tên là tỉnh [[Hòa Bình (tỉnh)|Hòa Bình]] và tỉnh [[Hà Tây (tỉnh)|Hà Tây]]. Chuyển huyện [[Ba Vì (huyện)|Ba Vì]] của thành phố [[Hà Nội]] về tỉnh [[Hà Tây (tỉnh)|Hà Tây]]. Khi đó, 3 xã: Chu Minh, Minh Châu, Tây Đằng thuộc huyện [[Ba Vì (huyện)|Ba Vì]] của tỉnh [[Hà Tây (tỉnh)|Hà Tây]].<ref>Nghị quyết ngày 12 tháng 8 năm 1991 của Quốc hội khóa VIII, Kỳ họp thứ 9 về việc điều chỉnh địa giới hành chính một số tỉnh, thành phố trực thuộc Trung ương.</ref>
+
+Ngày 29 tháng 8 năm 1994, sáp nhập thị trấn Quảng Oai và xã Tây Đằng thành thị trấn Tây Đằng.<ref>Nghị định số 107-CP ngày 29 tháng 8 năm 1994 của Chính phủ về việc thành lập xã Thạch Hòa, huyện Thạch Thất; thị trấn Phúc Thọ, huyện Phúc Thọ; thị trấn Tây Đằng, huyện Ba Vì, tỉnh Hà Tây.</ref>
+
+Ngày 29 tháng 5 năm 2008, hợp nhất tỉnh [[Hà Tây (tỉnh)|Hà Tây]] vào thành phố [[Hà Nội]]. Khi đó, thị trấn Tây Đằng và 2 xã: Chu Minh, Minh Châu thuộc huyện [[Ba Vì (huyện)|Ba Vì]] của thành phố [[Hà Nội]].<ref>Nghị quyết số 15/2008/QH12 ngày 29 tháng 5 năm 2008 của Quốc hội khóa XII, Kỳ họp thứ 3 về việc điều chỉnh địa giới hành chính thành phố Hà Nội và một số tỉnh có liên quan.</ref>
+
+Ngày 16 tháng 6 năm 2025:
+
+* Kết thúc hoạt động của đơn vị hành chính cấp huyện trong cả nước.<ref>{{Chú thích web | last = | date = | title = Nghị quyết số 203/2025/QH15 ngày 16 tháng 6 năm 2025 của Quốc hội khóa XV, Kỳ họp thứ 9 về việc sửa đổi, bổ sung một số điều của Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam | url = https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/nq-sua-doi-hien-phap.pdf | url-status = live | access-date = 2026-06-13 | website = Cổng Thông tin điện tử Chính phủ|archive-url=https://web.archive.org/web/20260613090807/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/nq-sua-doi-hien-phap.pdf|archive-date=2026-06-13}}</ref>
+* Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của xã Minh Châu, một phần diện tích tự nhiên của thị trấn Tây Đằng và xã Chu Minh (huyện [[Ba Vì (huyện)|Ba Vì]]) thành xã mới có tên gọi là xã Minh Châu.<ref>{{Chú thích web|title=Nghị quyết số 1656/NQ-UBTVQH15 ngày 16 tháng 6 năm 2025 của Ủy ban Thường vụ Quốc hội về việc sắp xếp các đơn vị hành chính cấp xã của thành phố Hà Nội năm 2025|url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf|url-status=bot: unknown|archive-url=https://web.archive.org/web/20260513110024/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf|archive-date=2026-05-13|access-date=2026-06-30|website=Cổng Thông tin điện tử Chính phủ}}</ref>
+* Sau khi sắp xếp, xã Minh Châu được chia thành 2 thôn.<ref>2 thôn: Chu Chàng và Chu Châu của xã Minh Châu cũ.</ref><ref>{{Chú thích web|title=Thông tư số 10/2022/TT-BTNMT ngày 29 tháng 9 năm 2022 của Bộ Tài nguyên và Môi trường về việc Ban hành Danh mục địa danh dân cư, sơn văn, thủy văn, kinh tế – xã hội phục vụ công tác thành lập bản đồ thành phố Hà Nội|url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2022/10/10-btnmt.pdf|url-status=bot: unknown|archive-url=https://web.archive.org/web/20260630082812/https://datafiles.chinhphu.vn/cpp/files/vbpq/2022/10/10-btnmt.pdf|archive-date=2026-06-30|access-date=2026-06-30|website=Cổng Thông tin điện tử Chính phủ}}</ref><ref name=":9">{{Chú thích web |last=Trang Thông tin điện tử xã Minh Châu – thành phố Hà Nội|date=2026-03-15|title=Minh Châu hoàn tất bầu cử sớm: 100% cử tri tham gia bỏ phiếu|url=https://minhchau.hanoi.gov.vn/chuyen-muc-bau-cu/minh-chau-hoan-tat-bau-cu-som-100-cu-tri-tham-gia-bo-phieu-2722260316215955749.htm|url-status=dead|archive-url=https://web.archive.org/web/20260730400809/https://minhchau.hanoi.gov.vn/chuyen-muc-bau-cu/minh-chau-hoan-tat-bau-cu-som-100-cu-tri-tham-gia-bo-phieu-2722260316215955749.htm|archive-date=2026-07-30|access-date=2026-07-30|website=}}</ref>
+Ngày 24 tháng 12 năm 2025, xác định một phần của xã Minh Châu là [[Đô thị Việt Nam|đô thị loại III]].<ref>Chuyển tiếp từ thị trấn Tây Đằng thuộc huyện Ba Vì.</ref><ref>{{Chú thích web |title=Nghị quyết số 111/2025/UBTVQH15 ngày 24 tháng 12 năm 2025 của Ủy ban Thường vụ Quốc hội về phân loại đô thị|url=https://cdn.nhandan.vn/files/f4a4abf7f9a0ba4a91744616546d850872b76917f90d5a74cc9eebef1369fb6f/111.pdf|url-status=dead|archive-url=https://web.archive.org/web/20260712401509/https://cdn.nhandan.vn/files/f4a4abf7f9a0ba4a91744616546d850872b76917f90d5a74cc9eebef1369fb6f/111.pdf|archive-date=2026-07-12|access-date=2026-07-12|website=Báo Nhân dân}}</ref>
+
+== Hành chính==
+Xã Minh Châu được chia thành 2 thôn: Chu Chàng và Chu Châu.<ref name=":9" />
+{| class="wikitable sortable" align="center" width="100%" cellspacing="6" cellpadding="0" style="background: #f9f9f9; border: 1px #aaa solid; margin-top: 16px"
+! colspan="2" style="background: #E6E6FA; font-size: 95%;" |Danh sách các thôn thuộc xã Minh Châu<ref name=":9" />
+|-
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+|-
+| align="left" |Chu Chàng
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| width="100%" cellspacing="1" cellpadding="1" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+|-
+| align="left" |Chu Châu
+|}
+|}
+
+== Kinh tế và cơ sở hạ tầng==
+Nông nghiệp chiếm tỷ trọng lớn tới 85,6%, tiểu thủ công nghiệp cũng như các ngành nghề thương mại, dịch vụ kém phát triển. Các loại nông sản tại đây bao gồm ngô, đậu, bắp cải, chuối, đu đủ.<ref name = ":0">{{Chú thích web | ngày = 2011-07-04 | tựa đề = Minh Châu, "ốc đảo" giữa lòng Thủ đô | url = https://nhandan.vn/post-546184.html | url-status = live | ngày truy cập = 2024-03-17 | website = [[Báo Nhân Dân]] | ngôn ngữ = vi}}</ref> Đàn bò của xã có hơn 4.600 con, trong đó khoảng 2.200 bò sữa sản xuất hơn 20 tấn sữa/ngày, còn lại là bò sinh sản và bò thịt. Xã cũng có hơn 10.000 con lợn, 12.000 gia cầm và 2.500 con chó. Toàn xã có 270 ha đất trồng trọt thì diện tích trồng [[cỏ voi]] chiếm 156 ha.<ref name = ":2" />
+
+Tổng giá trị sản xuất năm 2023 toàn xã đạt 422 tỷ đồng, đạt 100,1% KH, tăng 10,2% so với năm 2022. Trong đó, nông nghiệp đạt 274,6 tỷ đồng; tiểu thủ công nghiệp{{Dash}}xây dựng đạt 30 tỷ đồng; Thương mại, dịch vụ và các ngành khác đạt 117,4 tỷ đồng.<ref name = ":6">{{Chú thích web| url = https://kinhtedothi.vn/niem-vui-ngay-can-tet-voi-nguoi-dan-xa-dao-minh-chau.html| tựa đề = Niềm vui ngày cận Tết với người dân xã đảo Minh Châu| tác giả = Ngọc Tú| họ = | tên = | ngày = 2024-02-07| website = Báo Kinh tế đô thị| ngôn ngữ = vi| url-status = live| ngày truy cập = 2024-04-02}}</ref> Thu nhập bình quân đầu người của Minh Châu năm 2023 là 64,5 triệu đồng, so với cả Hà Nội là 151 triệu đồng.<ref name = ":2" />
+
+Trên địa bàn xã chỉ có một vài cửa hàng tạp hóa, giải khát và duy nhất một quán hàng ăn.<ref name = ":0" />
+
+Năm 2000, Minh Châu là xã cuối cùng của tỉnh [[Hà Tây (tỉnh)|Hà Tây]] cũ có điện lưới quốc gia.<ref name = ":6" /><ref>{{Chú thích web| url = https://www.qdnd.vn/phong-su-dieu-tra/dieu-tra/xa-minh-chau-ba-vi-ha-noi-mong-lam-mot-cay-cau-451930| tựa đề = Xã Minh Châu (Ba Vì, Hà Nội): Mong lắm một cây cầu| tác giả = Huyền Trang - Nguyễn Hiệp| website = [[Báo Quân đội nhân dân]]| ngôn ngữ = vi| url-status = live| ngày truy cập = 2024-03-17}}</ref> Năm 2005 mới có sóng điện thoại và đến 2015{{Dash}}2016 mới phủ sóng Internet theo đường truyền từ [[Vĩnh Phúc (tỉnh)|Vĩnh Phúc]],<ref name=":4">{{Chú thích web| url = https://nhandan.vn/chuyen-ghi-o-minh-chau-post783069.html| tựa đề = Chuyện ghi ở Minh Châu| tác giả = Mai Lữ| ngày = 2023-11-17| website = Báo Nhân dân| ngôn ngữ = | url-status = bot: unknown| ngày truy cập = 2025-07-24| archive-url = https://web.archive.org/web/20240317010211/https://nhandan.vn/chuyen-ghi-o-minh-chau-post783069.html| archive-date = 2024-03-17}}</ref> và đến năm 2019, xã được công nhận đạt chuẩn nông thôn mới.<ref name = ":8" /> Tuy nhiên, phải đến trước Tết Giáp Thìn năm 2024, nước sạch mới được cấp cho nơi này.<ref name = ":2" /><ref>{{Chú thích web| url = https://vtv.vn/news-20240208054754459.htm| tựa đề = ''Xã đảo'' duy nhất ở Hà Nội được cấp nước sạch| họ = | tên = | ngày = 2024-02-08| website = Báo điện tử VTV| ngôn ngữ = vi| url-status = live| ngày truy cập = 2024-03-17}}</ref> Trước đó, người dân hứng nước mưa để ăn uống, nước giếng khoan dùng trong sinh hoạt.<ref name = ":2" />
+
+== Giao thông== 
+Do nằm ở bãi bồi giữa sông Hồng, cả xã bị cô lập vào mùa nước lên, việc đi lại phụ thuộc vào thuyền, phà.<ref>{{Chú thích web | last = Quang Phong | date = 2025-06-19 | title = Mơ ước đánh thức tiềm năng xã đảo duy nhất Thủ đô khi lập đơn vị hành chính mới | url = https://baotintuc.vn/phong-su-dieu-tra/mo-uoc-danh-thuc-tiem-nang-xa-dao-duy-nhat-thu-do-khi-lap-don-vi-hanh-chinh-moi-20250618074308481.htm | url-status = live | access-date = 2025-06-29 | website = Báo Tin tức}}</ref> Vào mùa khô, người dân có thể di chuyển bằng đường bộ sang xã [[Vĩnh Phú (xã)|Vĩnh Phú]], [[Phú Thọ]].<ref name = ":2" />
+
+Chính quyền đã đề xuất xây cầu nối sang huyện Vĩnh Tường (Vĩnh Phúc cũ) để người dân đi lại thuận tiện, giúp xã phát triển kinh tế{{Dash}}xã hội. Vị trí được đề xuất xây cầu là bãi bồi tiếp giáp Vĩnh Phúc, với khoảng cách hơn 200 m.<ref name = ":1" />
+
+== Nhân khẩu== 
+Theo thống kê năm 1999, Minh Châu có 5.941 người.<ref name = "MS2">{{Chú thích web| url = http://mic.gov.vn/uploads/20100623/E124-2009%20(31-12)2-MSDVHCVN.xls| tiêu đề = Mã số đơn vị hành chính Việt Nam| nhà xuất bản = Bộ Thông tin & Truyền thông| archive-url = https://web.archive.org/web/20130324095035/http://mic.gov.vn/uploads/20100623/E124-2009%20%2831-12%292-MSDVHCVN.xls| archive-date = 2013-03-24| url-status = dead| ngày truy cập = ngày 10 tháng 4 năm 2012}}</ref> Đến năm 2023, dân số có 6.545 khẩu,<ref name = ":4" /> sống ở 7 khu dân cư với 1.424 hộ.<ref>{{Chú thích web| url = https://laodongthudo.vn/ho-tro-xa-minh-chau-phat-trien-kinh-te-du-lich-152256.html| tựa đề = Hỗ trợ xã Minh Châu phát triển kinh tế, du lịch| họ = Báo Lao động Thủ đô| tên = | website = Báo Lao động thủ đô| ngôn ngữ = vi| url-status = live| ngày truy cập = 2024-03-17}}</ref> Sau sắp xếp, xã có dân số hơn 6.600 người,<ref name = ":7" /> với nhiều người theo [[Công giáo tại Việt Nam|Công giáo]].<ref name=":3">{{Chú thích web| url = https://congan.hanoi.gov.vn/tin-hoat-dong-quan-huyen-thi-xa/binh-yen-xa-dao-duy-nhat-cua-ha-noi-16499| tựa đề = Bình yên "xã đảo" duy nhất của Hà Nội| website = congan.hanoi.gov.vn| ngôn ngữ = | url-status = dead| ngày truy cập = 2024-03-17| archive-date = 2024-03-17| archive-url = https://web.archive.org/web/20240317004640/https://congan.hanoi.gov.vn/tin-hoat-dong-quan-huyen-thi-xa/binh-yen-xa-dao-duy-nhat-cua-ha-noi-16499}}</ref>
+
+== Giáo dục== 
+Xã Minh Châu không có trường [[Trung học phổ thông (Việt Nam)|trung học phổ thông]] nên hàng ngày khoảng 400 học sinh phải đi phà qua sông Hồng để đến trường ở trung tâm huyện Ba Vì cũ. Xã có khoảng 1.300 học sinh từ mầm non đến [[Trung học cơ sở (Việt Nam)|trung học cơ sở]].<ref name = ":2" />
+
+== Chú thích== 
+{{tham khảo| 30em}}
+
+== Tham khảo==
+{{Sơ khai Hà Nội}}{{Đơn vị hành chính thuộc thành phố Hà Nội}}

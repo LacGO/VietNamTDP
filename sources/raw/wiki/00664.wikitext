@@ -1,0 +1,187 @@
+{{Thông tin đơn vị hành chính Việt Nam|Xã
+|tên=Đại Thanh
+|hình=Dinhhoaxa-Minhngulau.JPG
+|ghi chú hình=Đình Hoa Xá nơi thờ vua [[Lê Đại Hành]] và Đô Hồ phu nhân thuộc địa phận thôn Tả Thanh Oai
+| vĩ độ = 20.936430647077973
+| kinh độ = 105.83086788934457
+| diện tích = 18,92 km²
+| dân số = 92.557 người
+| thời điểm dân số = 2025
+| mật độ dân số = {{formatnum:{{#expr:floor({{formatnum:92.557|R}}/{{formatnum:18,92|R}})}} }} người/km²
+|vùng=[[Đồng bằng sông Hồng]]
+|thành phố=[[Hà Nội]]
+|thành lập=
+|trụ sở UBND=Thôn Quỳnh Đô<ref>{{Chú thích web |url=https://storage-vnportal.vnpt.vn/gov-hni/6244/VanBan/2025/6/25/TB-729-2025.pdf |title=Thông báo số 729/TB-UBND ngày 25 tháng 6 năm 2025 của Ủy ban nhân dân thành phố Hà Nội về địa điểm trụ sở làm việc của 126 phường, xã sau sắp xếp thuộc phạm vi quản lý của thành phố Hà Nội|access-date=2026-06-15 |archive-date=2026-06-15 |archive-url=https://web.archive.org/web/20260615034519/https://storage-vnportal.vnpt.vn/gov-hni/6244/VanBan/2025/6/25/TB-729-2025.pdf |url-status=dead | website = Cổng Thông tin điện tử Ủy ban nhân dân thành phố Hà Nội}}</ref>
+|mã hành chính=00664<ref>{{Chú thích web |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/19ttg.signed.pdf |title=Quyết định số 19/2025/QĐ-TTg ngày 30 tháng 6 năm 2025 của Thủ tướng Chính phủ về việc Ban hành Bảng danh mục và mã số các đơn vị hành chính Việt Nam |access-date=2026-06-15 |archive-date=2026-06-15 |archive-url=https://web.archive.org/web/20260615034519/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/19ttg.signed.pdf |url-status=dead | website = Cổng Thông tin điện tử Chính phủ}}</ref>
+|web={{url|daithanh.hanoi.gov.vn}}
+|trụ sở Đảng ủy=Thôn Huỳnh Cung|bản đồ 1={{maplink|frame=yes|plain=yes|type=shape|frame-width=280|frame-align=center|stroke-width=3}}}}
+{{other|Đại Thanh (định hướng)}}
+'''Đại Thanh''' là một [[Xã (Việt Nam)|xã]] thuộc thành phố [[Hà Nội]], [[Việt Nam]].
+
+== Địa lý ==
+Xã Đại Thanh có vị trí địa lý:
+
+* Phía đông giáp xã [[Thanh Trì (xã)|Thanh Trì]]
+* Phía tây giáp phường [[Kiến Hưng (phường)|Kiến Hưng]] và phường [[Phú Lương (phường)|Phú Lương]]
+* Phía nam giáp xã [[Bình Minh, Hà Nội|Bình Minh]], xã [[Tam Hưng]] và xã [[Ngọc Hồi (xã)|Ngọc Hồi]]
+* Phía bắc giáp phường [[Hoàng Liệt]].<ref>{{Chú thích web |last=Viện nghiên cứu Phát triển kinh tế – xã hội Hà Nội |date=2025-07-02 |title=Xã Đại Thanh: Những thông tin chi tiết sau sắp xếp |url=https://hanoionline.vn/xa-dai-thanh-nhung-thong-tin-chi-tiet-sau-sap-xep-344232.htm |url-status=dead |archive-url=https://web.archive.org/web/20260807400809/https://hanoionline.vn/xa-dai-thanh-nhung-thong-tin-chi-tiet-sau-sap-xep-344232.htm |archive-date=2026-08-07 |access-date=2026-08-07 |website=Cơ quan Báo và Phát thanh Truyền hình Hà Nội}}</ref><ref>{{Chú thích web |last=Cơ quan Báo và Phát thanh Truyền hình Hà Nội |date=2025-07-08 |title=Xã Đại Thanh: Tất cả thông tin chỉ dẫn bạn cần biết |url=https://hanoionline.vn/xa-dai-thanh-tat-ca-thong-tin-chi-dan-ban-can-biet-345154.htm |url-status=dead |archive-url=https://web.archive.org/web/20260807401509/https://hanoionline.vn/xa-dai-thanh-tat-ca-thong-tin-chi-dan-ban-can-biet-345154.htm |archive-date=2026-08-07 |access-date=2026-08-07}}</ref>
+Xã Đại Thanh có diện tích tự nhiên là 18,92 km<sup>2</sup>, quy mô dân số năm 2025 là 92.557 người và mật độ dân số đạt 4.892 người/km<sup>2</sup>.<ref>{{Chú thích web |last=Mai Hữu |date=2026-04-05 |title=Hà Nội: Chi tiết phương án tổng thể sắp xếp đơn vị hành chính cấp xã |url=https://hanoimoi.vn/ha-noi-chi-tiet-phuong-an-tong-the-sap-xep-don-vi-hanh-chinh-cap-xa-700278.html |url-status=bot: unknown |archive-url=https://web.archive.org/web/20250710163328/https://hanoimoi.vn/ha-noi-chi-tiet-phuong-an-tong-the-sap-xep-don-vi-hanh-chinh-cap-xa-700278.html |archive-date=2025-07-10 |access-date=2026-07-08 |website=Cơ quan Báo và Phát thanh, truyền hình Hà Nội}}</ref><ref>Công văn số 2896/BNV-CQĐP ngày 27 tháng 5 năm 2025 của Bộ Nội vụ về việc cung cấp thông tin danh mục dự kiến đơn vị hành chính cấp xã mới.</ref>
+
+== Lịch sử ==
+
+=== Trước năm 1976 ===
+[[hình:Đình Huỳnh Cung, Thanh Trì, Hà Nội 001.JPG|thumb|trái|Đình Huỳnh Cung]]
+Địa bàn xã Đại Thanh ngày tương ứng với các tổng Cổ Điển, Đại Định, Tả Thanh Oai, Vĩnh Hưng Đặng có từ thế kỉ 18 - 19, ban đầu hai tổng Đại Định và Tả Thanh Oai thuộc huyện Thanh Oai, phủ Ứng Thiên, trấn Sơn Nam Thượng; hai tổng Cổ Điển và Vĩnh Hưng Đặng thuộc huyện Thanh Trì, phủ Thường Tín, trấn Sơn Nam Thượng (đến năm 1831 bốn tổng thuộc tỉnh [[Hà Nội (tỉnh)|Hà Nội]], sau đổi thành tỉnh [[Hà Đông (tỉnh)|Hà Đông]]). Hành chính của bốn tổng thời điểm đó gồm:
+
+* Tổng Cổ Điển gồm 4 làng: Huỳnh Cung, Ích Vịnh, Quỳnh Đô, Yên Ngưu.
+* Tổng Đại Định gồm làng Siêu Quần ngày nay
+* Tổng Tả Thanh Oai gồm 7 làng: Hữu Lê, Hữu Thanh Oai, Hữu Từ, Nhân Hòa, Nguyễn Thượng, Nguyễn Phúc, Tả Thanh Oai (sau này hai làng Nguyễn Thượng và Nguyễn Phúc hợp nhất thành làng Thượng Phúc).
+* Tổng Vĩnh Hưng Đặng gồm 3 làng Vĩnh Hưng Đặng, Vĩnh Bảo, Vĩnh Trung (sau này tên gọi Vĩnh Hưng Đặng đổi tên thành Vĩnh Ninh, Vĩnh Bảo đổi tên thành Vĩnh Thịnh).
+
+Sau khi bỏ cấp tổng phủ gọi chung là xã huyện vào năm 1945, các xã Đại Thanh (năm 1965 đổi tên thành Tả Thanh Oai), Hữu Hòa, Tam Hiệp, Vĩnh Quỳnh được thành lập trên cơ sở tách các làng của bốn tổng Cổ Điển, Đại Định, Tả Thanh Oai, Vĩnh Hưng Đặng (riêng xã Hữu Hoà sáp nhập vào huyện [[Thanh Oai (huyện)|Thanh Oai]]). Ban đầu ba xã thuộc huyện [[Thanh Trì (huyện)|Thanh Trì]], tỉnh [[Hà Đông (tỉnh)|Hà Đông]]. Đến ngày 21 tháng 4 năm 1965, xã Tả Thanh Oai sáp nhập vào huyện [[Thường Tín (huyện)|Thường Tín]], tỉnh [[Hà Tây (tỉnh)|Hà Tây]] mới thành lập, đến ngày 27 tháng 12 năm 1975 thuộc tỉnh [[Hà Sơn Bình]] mới thành lập.
+
+=== Giai đoạn 1976 – nay ===
+Sau ngày 2 tháng 7 năm 1976, thị trấn Văn Điển và 3 xã: Tam Hiệp, Tứ Hiệp, Vĩnh Quỳnh thuộc huyện [[Thanh Trì (huyện)|Thanh Trì]] của thành phố [[Hà Nội]]; xã Kiến Hưng thuộc thị xã [[Hà Đông (quận)|Hà Đông]]; xã Hữu Hòa thuộc huyện [[Thanh Oai (huyện)|Thanh Oai]]; xã Đại Thanh thuộc huyện [[Thường Tín (huyện)|Thường Tín]] của tỉnh [[Hà Sơn Bình]].
+
+Ngày 29 tháng 12 năm 1978, sáp nhập xã Hữu Hòa của huyện [[Thanh Oai (huyện)|Thanh Oai]] và xã Đại Thanh của huyện [[Thường Tín (huyện)|Thường Tín]] thuộc tỉnh [[Hà Sơn Bình]] vào thành phố [[Hà Nội]].<ref>Nghị quyết ngày 29 tháng 12 năm 1978 của Quốc hội khóa VI, Kỳ họp thứ 4 phê chuẩn việc phân vạch lại địa giới thành phố Hà Nội, thành phố Hồ Chí Minh, các tỉnh Hà Sơn Bình, Vĩnh Phú, Cao Lạng, Bắc Thái, Quảng Ninh và Đồng Nai.</ref>
+
+Ngày 17 tháng 2 năm 1979, sáp nhập xã Tả Thanh Oai (Đại Thanh cũ) (của huyện [[Thường Tín (huyện)|Thường Tín]]) và xã Hữu Hòa (của huyện [[Thanh Oai (huyện)|Thanh Oai]]) vào huyện [[Thanh Trì (xã)|Thanh Trì]].<ref>Quyết định số 49-CP ngày 17 tháng 2 năm 1979 của Hội đồng Chính phủ về việc điều chỉnh địa giới một số xã, thị trấn thuộc các huyện Sóc Sơn, Mê Linh, Hoài Đức, Phúc Thọ và Thanh Trì thuộc thành phố Hà Nội.</ref>
+
+Ngày 14 tháng 3 năm 1984, cắt 14,8 hécta của xã Tứ Hiệp, 25 hécta của xã Tam Hiệp, 4,2 héc ta của xã Vĩnh Quỳnh để nhập vào thị trấn Văn Điển (huyện [[Thanh Trì (huyện)|Thanh Trì]]).<ref>{{Chú thích web |title=Quyết định số 42-HĐBT ngày 14 tháng 3 năm 1984 của Hội đồng Bộ trưởng về việc phân vạch địa giới một số phường, thị trấn thuộc thành phố Hà Nội |url=https://chinhphu.vn/default.aspx?pageid=27160&docid=6190 |url-status=dead |archive-url=https://web.archive.org/web/20260822201510/https://chinhphu.vn/default.aspx?pageid=27160&docid=6190 |archive-date=2026-08-22 |access-date=2026-08-22 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+
+Ngày 12 tháng 8 năm 1991, chia tỉnh [[Hà Sơn Bình]] thành 2 tỉnh, lấy tên là tỉnh [[Hòa Bình (tỉnh)|Hòa Bình]] và tỉnh [[Hà Tây (tỉnh)|Hà Tây]]. Khi đó, xã Kiến Hưng thuộc thị xã [[Hà Đông (quận)|Hà Đông]] của tỉnh [[Hà Tây (tỉnh)|Hà Tây]].<ref>Nghị quyết ngày 12 tháng 8 năm 1991 của Quốc hội khóa VIII, Kỳ họp thứ 9 về việc điều chỉnh địa giới hành chính một số tỉnh, thành phố trực thuộc Trung ương.</ref>
+
+Ngày 27 tháng 12 năm 2006, thành lập thành phố [[Hà Đông (quận)|Hà Đông]] trên cơ sở toàn bộ diện tích tự nhiên, dân số và các đơn vị hành chính trực thuộc của thị xã [[Hà Đông (quận)|Hà Đông]]. Khi đó, xã Kiến Hưng thuộc thành phố [[Hà Đông (quận)|Hà Đông]].<ref name="ND155">{{Chú thích web |tựa đề=Nghị định số 155/2006/NĐ-CP ngày 27 tháng 12 năm 2006 của Chính phủ về việc thành lập thành phố Hà Đông thuộc tỉnh Hà Tây |url=https://chinhphu.vn/default.aspx?pageid=27160&docid=18995 |url-status=dead |archive-url=https://web.archive.org/web/20260804201510/https://chinhphu.vn/default.aspx?pageid=27160&docid=18995 |archive-date=2026-08-04 |access-date=2026-08-04 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+
+Ngày 29 tháng 5 năm 2008, hợp nhất tỉnh [[Hà Tây (tỉnh)|Hà Tây]] vào thành phố [[Hà Nội]]. Khi đó, xã Kiến Hưng thuộc thành phố [[Hà Đông (quận)|Hà Đông]] của thành phố [[Hà Nội]].<ref>Nghị quyết số 15/2008/QH12 ngày 29 tháng 5 năm 2008 của Quốc hội khóa XII, Kỳ họp thứ 3 về việc điều chỉnh địa giới hành chính thành phố Hà Nội và một số tỉnh có liên quan.</ref>
+
+Ngày 8 tháng 5 năm 2009:
+
+* Thành lập quận [[Hà Đông (quận)|Hà Đông]] trên cơ sở thành phố [[Hà Đông (quận)|Hà Đông]].
+* Thành lập phường Kiến Hưng trên cơ sở xã Kiến Hưng.<ref name="19/NQ-CP">{{Chú thích web |tác giả= |họ= |tên= |ngày= |tựa đề=Nghị quyết số 19/NQ-CP ngày 8 tháng 5 năm 2009 của Chính phủ về việc xác lập địa giới hành chính xã Đông Xuân thuộc huyện Quốc Oai; các xã Tiến Xuân, Yên Bình, Yên Trung thuộc huyện Thạch Thất; huyện Mê Linh thuộc thành phố Hà Nội; thành lập quận Hà Đông và các phường trực thuộc; chuyển thành phố Sơn Tây thành thị xã Sơn Tây thuộc thành phố Hà Nội |url=https://chinhphu.vn/default.aspx?pageid=27160&docid=86463 |url-status=dead |url lưu trữ=https://web.archive.org/web/20260809201510/https://chinhphu.vn/default.aspx?pageid=27160&docid=86463 |ngày lưu trữ=2026-08-09 |ngày truy cập=2026-08-09 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+
+Ngày 16 tháng 6 năm 2025:
+
+* Kết thúc hoạt động của đơn vị hành chính cấp huyện trong cả nước.<ref>{{Chú thích web |last= |date= |title=Nghị quyết số 203/2025/QH15 ngày 16 tháng 6 năm 2025 của Quốc hội khóa XV, Kỳ họp thứ 9 về việc sửa đổi, bổ sung một số điều của Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/nq-sua-doi-hien-phap.pdf |url-status=live |archive-url=https://web.archive.org/web/20260613090807/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/nq-sua-doi-hien-phap.pdf |archive-date=2026-06-13 |access-date=2026-06-13 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+* Sắp xếp phần còn lại của xã Tam Hiệp, phần còn lại của xã Hữu Hòa (huyện [[Thanh Trì (huyện)|Thanh Trì]]), phần còn lại của phường Kiến Hưng (quận [[Hà Đông (quận)|Hà Đông]]), phần còn lại của thị trấn Văn Điển, phần còn lại của xã Tả Thanh Oai và phần còn lại của xã Vĩnh Quỳnh (huyện [[Thanh Trì (huyện)|Thanh Trì]]) thành xã mới có tên gọi là xã Đại Thanh.<ref>{{Chú thích web |title=Nghị quyết số 1656/NQ-UBTVQH15 ngày 16 tháng 6 năm 2025 của Ủy ban Thường vụ Quốc hội về việc sắp xếp các đơn vị hành chính cấp xã của thành phố Hà Nội năm 2025 |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf |url-status=live |archive-url=https://web.archive.org/web/20260630400809/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf |archive-date=2026-06-30 |access-date=2026-06-30 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+* Sau khi sắp xếp, xã Đại Thanh được chia thành 21 tổ dân phố – thôn, gồm 7 tổ dân phố và 14 thôn.<ref>2 thôn: Huỳnh Cung và Yên Ngưu của xã Tam Hiệp cũ; 5 thôn: Hữu Lê, Hữu Trung, Hữu Từ, Phú Diễn và Thanh Oai của xã Hữu Hòa cũ; 3 tổ dân phố: Phân Lân – 105, Pin và Yên Ngưu của thị trấn Văn Điển cũ; 7 tổ dân phố – thôn, gồm 3 tổ dân phố: 8, 10, Cầu Bươu và 4 thôn: Nhân Hòa, Siêu Quần, Tả Thanh Oai, Thượng Phúc của xã Tả Thanh Oai cũ; 4 tổ dân phố – thôn, gồm tổ dân phố 5 và 3 thôn: Ích Vịnh, Quỳnh Đô, Vĩnh Ninh của xã Vĩnh Quỳnh cũ.</ref><ref>{{Chú thích web |title=Thông tư số 10/2022/TT-BTNMT ngày 29 tháng 9 năm 2022 của Bộ Tài nguyên và Môi trường về việc Ban hành Danh mục địa danh dân cư, sơn văn, thủy văn, kinh tế – xã hội phục vụ công tác thành lập bản đồ thành phố Hà Nội|url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2022/10/10-btnmt.pdf|url-status=live|archive-url=https://web.archive.org/web/20260630400809/https://datafiles.chinhphu.vn/cpp/files/vbpq/2022/10/10-btnmt.pdf|archive-date=2026-06-30|access-date=2026-06-30|website=Cổng Thông tin điện tử Chính phủ}}</ref><ref>{{Chú thích web |last=|date=|title=Quyết định số 30/QĐ-UBBC ngày 12 tháng 2 năm 2026 của Ủy ban bầu cử xã Đại Thanh về việc công bố danh sách chính thức và phân bổ những người ứng cử đại biểu Hội đồng nhân dân xã Đại Thanh khóa II, nhiệm kỳ 2026 – 2031|url=https://daithanh.hanoi.gov.vn/hoi-dong-nhan-dan/quyet-dinh-ve-viec-cong-bo-danh-sach-chinh-thuc-va-phan-bo-nhung-nguoi-ung-cu-dai-bieu-hoi-dong-nhan-dan-xa-dai-thanh-khoa-ii-nhiem-ky-2026-2031-2768260226094952956.htm|url-status=dead|archive-url=https://web.archive.org/web/20260808201510/https://daithanh.hanoi.gov.vn/hoi-dong-nhan-dan/quyet-dinh-ve-viec-cong-bo-danh-sach-chinh-thuc-va-phan-bo-nhung-nguoi-ung-cu-dai-bieu-hoi-dong-nhan-dan-xa-dai-thanh-khoa-ii-nhiem-ky-2026-2031-2768260226094952956.htm|archive-date=2026-08-08|access-date=2026-08-08|website=Trang Thông tin điện tử xã Đại Thanh – thành phố Hà Nội}}</ref>
+Ngày 8 tháng 9 năm 2025, chuyển đổi 7 tổ dân phố: 8, 10, Cầu Bươu, 5, Phân Lân – 105, Pin và Yên Ngưu lần lượt thành 7 thôn: 8, 10 Tả Thanh Oai, Cầu Bươu, 5 Vĩnh Quỳnh, Tập thể Phân Lân – 105, Tập thể Pin và Tập thể Yên Ngưu.<ref>1. Tổ dân phố số 8 chuyển đổi thành Thôn 8, Tả Thanh Oai, xã Đại Thanh; 2. Tổ dân phố số 10 chuyển đổi thành Thôn 10, Tả Thanh Oai, xã Đại Thanh; 3, Tổ dân phố Cầu Bươu chuyển đổi thành Thôn Cầu Bươu, xã Đại Thanh; 4. Tổ dân phố số 5 chuyển đổi thành Thôn 5 Vĩnh Quỳnh, xã Đại Thanh; 5. Tổ dân phố Phân Lân – 105 chuyển đổi thành Thôn tập thể Phân Lân – 105, xã Đại Thanh; 6. Tổ dân phố Pin chuyển đổi thành Thôn tập thể Pin, xã Đại Thanh; 7. Tổ dân phố Yên Ngưu chuyển đổi thành Thôn tập thể Yên Ngưu, xã Đại Thanh.</ref><ref>{{Chú thích web |last=Mai Duyên|date=2025-09-08|title=Kỳ họp thứ 3 – Kỳ họp chuyên đề Hội đồng nhân dân xã Đại Thanh thông qua 2 nội dung quan trọng|url=https://daithanh.hanoi.gov.vn/tin-tuc-su-kien/ky-hop-thu-3-ky-hop-chuyen-de-hdnd-xa-dai-thanh-thong-qua-2-noi-dung-quan-trong-2768250908163325972.htm|url-status=dead|archive-url=https://web.archive.org/web/20260808201510/https://daithanh.hanoi.gov.vn/tin-tuc-su-kien/ky-hop-thu-3-ky-hop-chuyen-de-hdnd-xa-dai-thanh-thong-qua-2-noi-dung-quan-trong-2768250908163325972.htm|archive-date=2026-08-08|access-date=2026-08-08|website=Trang Thông tin điện tử xã Đại Thanh – thành phố Hà Nội}}</ref>
+[[Tập tin:Bản đồ các thôn thuộc xã Đại Thanh của thành phố Hà Nội (đến ngày 1 tháng 7 năm 2026).jpg|nhỏ|250x250px|Xã Đại Thanh trước sắp xếp có 21 thôn (đến ngày 1 tháng 7 năm 2026)<ref name=":2">{{Chú thích web |last=Mai Duyên |date=2026-06-15 |title=Ủy ban nhân dân xã Đại Thanh triển khai kế hoạch lấy ý kiến nhân dân về đề án sắp xếp, tổ chức lại thôn năm 2026 |url=https://daithanh.hanoi.gov.vn/tin-tuc-su-kien/ubnd-xa-dai-thanh-trien-khai-ke-hoach-lay-y-kien-nhan-dan-ve-de-an-sap-xep-to-chuc-lai-thon-nam-2026-27682606151241282.htm |url-status=dead |archive-url=https://web.archive.org/web/20260809201510/https://daithanh.hanoi.gov.vn/tin-tuc-su-kien/ubnd-xa-dai-thanh-trien-khai-ke-hoach-lay-y-kien-nhan-dan-ve-de-an-sap-xep-to-chuc-lai-thon-nam-2026-27682606151241282.htm |archive-date=2026-08-09 |access-date=2026-08-09 |website=Trang Thông tin điện tử xã Đại Thanh – thành phố Hà Nội}}</ref>]]
+Ngày 24 tháng 12 năm 2025, xác định một phần của xã Đại Thanh là [[Đô thị Việt Nam|đô thị loại II]] và [[Đô thị Việt Nam|đô thị loại III]].<ref>Đô thị loại II (chuyển tiếp từ phường Kiến Hưng thuộc quận Hà Đông) và đô thị loại III (chuyển tiếp từ thị trấn Văn Điển thuộc huyện Thanh Trì).</ref><ref>{{Chú thích web |title=Nghị quyết số 111/2025/UBTVQH15 ngày 24 tháng 12 năm 2025 của Ủy ban Thường vụ Quốc hội về phân loại đô thị |url=https://cdn.nhandan.vn/files/f4a4abf7f9a0ba4a91744616546d850872b76917f90d5a74cc9eebef1369fb6f/111.pdf |url-status=dead |archive-url=https://web.archive.org/web/20260712401509/https://cdn.nhandan.vn/files/f4a4abf7f9a0ba4a91744616546d850872b76917f90d5a74cc9eebef1369fb6f/111.pdf |archive-date=2026-07-12 |access-date=2026-07-12 |website=Báo Nhân dân}}</ref>
+
+Ngày 26 tháng 6 năm 2026, thành lập 3 thôn mới: Tập thể Pin, Quỳnh Đô và Hữu Thanh Oai.<ref name=":1">1. Phần phía Bắc đường Phan Trọng Tuệ của thôn 5 Vĩnh Quỳnh: (một phần xóm Quỳnh Lân khoảng 56 hộ gia đình): Sáp nhập địa giới, dân cư vào thôn Tập thể Pin (1162 hộ gia đình); 2. Phần phía Nam đường Phan Trọng Tuệ của thôn 5 Vĩnh Quỳnh: (gồm xóm 19/3, xóm Công trường 4 và phần còn lại của xóm Quỳnh Lân khoảng 413 hộ gia đình): Sáp nhập vào thôn THA Quỳnh Đô (1670 hộ gia đình); 3. Sáp nhập thôn Hữu Trung (426 hộ gia đình) giáp danh với thôn Thanh Oai (556 hộ gia đình), đặt tên mới là thôn: Hữu Thanh Oai.</ref><ref name=":02">{{Chú thích web |last= |date= |title=Phương án số 287/PA-UBND ngày 10 tháng 6 năm 2026 của Ủy ban nhân dân xã Đại Thanh về việc sắp xếp thôn trên địa bàn xã Đại Thanh |url=https://sqhx-hanoi.mediacdn.vn/91579363132710912/2026/6/11/pa-287-phuong-an-sap-xep-thon-tren-dia-ban-xa-dai-thanh-17811789758782025745718.pdf |url-status=dead |archive-url=https://web.archive.org/web/20260808201510/https://sqhx-hanoi.mediacdn.vn/91579363132710912/2026/6/11/pa-287-phuong-an-sap-xep-thon-tren-dia-ban-xa-dai-thanh-17811789758782025745718.pdf |archive-date=2026-08-08 |access-date=2026-08-08 |website=Trang Thông tin điện tử xã Đại Thanh – thành phố Hà Nội}}</ref><ref name=":0">{{Chú thích web |last=Ngọc Minh |date=2026-06-30 |title=Xã Đại Thanh giảm còn 19 thôn từ ngày 1-7 |url=https://hanoimoi.vn/xa-dai-thanh-giam-con-19-thon-tu-ngay-1-7-1209906.html |access-date=2026-08-09 |website=Cơ quan Báo và Phát thanh, truyền hình Hà Nội |language=|archive-url=https://web.archive.org/web/20260809201510/https://hanoimoi.vn/xa-dai-thanh-giam-con-19-thon-tu-ngay-1-7-1209906.html|archive-date=2026-08-09|url-status=dead}}</ref><ref name=":3">{{Chú thích web |last=Mai Duyên |date=2026-07-01 |title=Kỳ họp thứ Hai Hội đồng nhân dân xã Đại Thanh khóa II, nhiệm kỳ 2026 – 2031 thành công tốt đẹp |url=https://daithanh.hanoi.gov.vn/tin-tuc-su-kien/ky-hop-thu-hai-hdnd-xa-dai-thanh-khoa-ii-nhiem-ky-2026-2031-thanh-cong-tot-dep-2768260630174459848.htm |url-status=dead |archive-url=https://web.archive.org/web/20260808201510/https://daithanh.hanoi.gov.vn/tin-tuc-su-kien/ky-hop-thu-hai-hdnd-xa-dai-thanh-khoa-ii-nhiem-ky-2026-2031-thanh-cong-tot-dep-2768260630174459848.htm |archive-date=2026-08-08 |access-date=2026-08-08 |website=Trang Thông tin điện tử xã Đại Thanh – thành phố Hà Nội}}</ref>
+[[Tập tin:Bản đồ các thôn thuộc xã Đại Thanh của thành phố Hà Nội (từ ngày 1 tháng 7 năm 2026).jpg|nhỏ|250x250px|Xã Đại Thanh sau sắp xếp thôn trên địa bàn xã có 19 thôn (từ ngày 1 tháng 7 năm 2026)<ref name=":2" />]]<!-- 
+== Lịch sử ==
+Vào đầu thời nhà Nguyễn, phần đất xã Tam Hiệp ngày nay thuộc các xã, thôn của hai tổng Quang Liệt (thôn Tự Liệt) và Cổ Điển (2 thôn Huỳnh Cung, Yên Ngưu)<ref>Từ điển Hà Nội địa danh, của Bùi Thiết, trang 394.</ref> huyện Thanh Trì phủ Thường Tín [[sơn Nam (địa danh cũ Việt Nam)|trấn Sơn Nam Thượng]]. Năm 1831, vùng đất Tam Hiệp ngày nay cùng với cả phủ Thường Tín được chuyển sang thuộc [[hà Nội (tỉnh)|tỉnh Hà Nội]]. Làng Huỳnh Cung của xã là nơi [[Chu Văn An]] từng mở trường dạy học (nơi xuất hiện câu truyện thần thoại ''Học trò thủy thần'').
+
+Tại Nghĩa trang Văn Điển trên đất xã Tam Hiệp, vào năm 1962 các nhà khảo cổ đã phát hiện và khai quật (các năm 1962, 1964, 1966) một di chỉ khảo cổ thuộc [[thời đại hậu kỳ đồ đá mới]], có niên đại từ 4000-3500 năm trước thuộc [[văn hóa Phùng Nguyên]], đặt tên là di chỉ Văn Điển.<ref>Từ điển Hà Nội địa danh, của Bùi Thiết, trang 487.</ref>
+ -->
+== Hành chính ==
+Xã Đại Thanh được chia thành 19 thôn: 8, 10 Tả Thanh Oai, Cầu Bươu, Huỳnh Cung, Hữu Lê, Hữu Thanh Oai, Hữu Từ, Ích Vịnh, Nhân Hòa, Phú Diễn, Quỳnh Đô, Siêu Quần, Tả Thanh Oai, Tập thể Phân Lân – 105, Tập thể Pin, Tập thể Yên Ngưu, Thượng Phúc, Vĩnh Ninh và Yên Ngưu.<ref name=":02" /><ref name=":0" /><ref name=":3" />
+{| class="wikitable sortable" cellpadding="0" cellspacing="6" width="100%" align="center" style="background: #f9f9f9; border: 1px #aaa solid; margin-top: 16px"
+! colspan="4" style="background: #E6E6FA; font-size: 95%;" |Danh sách các thôn thuộc xã Đại Thanh<ref name=":02" /><ref name=":0" /><ref name=":3" />
+|-
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| cellpadding="1" cellspacing="1" width="100%" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |8 Tả Thanh Oai
+| -
+|-
+| align="left" |10 Tả Thanh Oai
+| -
+|-
+| align="left" |Cầu Bươu
+| -
+|-
+| align="left" |Huỳnh Cung
+| -
+|-
+| align="left" |Hữu Lê
+| -
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| cellpadding="1" cellspacing="1" width="100%" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Hữu Thanh Oai
+|982
+|-
+| align="left" |Hữu Từ
+| -
+|-
+| align="left" |Ích Vịnh
+| -
+|-
+| align="left" |Nhân Hòa
+| -
+|-
+| align="left" |Phú Diễn
+| -
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| cellpadding="1" cellspacing="1" width="100%" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Quỳnh Đô
+|2.083
+|-
+| align="left" |Siêu Quần
+| -
+|-
+| align="left" |Tả Thanh Oai
+| -
+|-
+| align="left" |Tập thể Phân Lân – 105
+| -
+|-
+| align="left" |Tập thể Pin
+|1.218
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| cellpadding="1" cellspacing="1" width="100%" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+! style="border-bottom: 2px solid #CCCCFF;" |Số hộ <sup>(2026)</sup>
+|-
+| align="left" |Tập thể Yên Ngưu
+| -
+|-
+| align="left" |Thượng Phúc
+| -
+|-
+| align="left" |Vĩnh Ninh
+| -
+|-
+| align="left" |Yên Ngưu
+| -
+|}
+|}
+
+== Làng khoa bảng ==
+Ở xã Đại Thanh, thời phong kiến có làng Tả Thanh Oai (làng Tó) là một trong 7 làng có nhiều người đỗ đại khoa, tiến sĩ nhất cả nước với 12 người trong đó có 4 người đỗ Hoàng giáp, 8 người đỗ Tam giáp (tiến sĩ).
+
+== Nhân vật nổi bật ==
+* [[Ngô Thì Sĩ]] (1726 – 1780): Nhà sử học, nhà văn, nhà thơ nổi tiếng thời [[chúa Trịnh]]. Quê ở thôn Tả Thanh Oai.
+* [[Ngô Thì Nhậm]] (1746 – 1803): Thượng thư Bộ Lại, Thượng thư Bộ Binh, danh sĩ, nhà văn, nhà thơ thời nhà [[Nhà Lê trung hưng|Lê trung hưng]] và [[Nhà Tây Sơn|Tây Sơn]]. Quê ở thôn Tả Thanh Oai.
+* [[Ngô Thì Hoàng]] (1768 – 1814): Danh sĩ, nhà thơ, nổi tiếng với tác phẩm Thạch Ổ di chương. Quê ở thôn Tả Thanh Oai.
+* [[Ngô Thì Hương]] (1774 – 1821): Thiêm sự Bộ Lại, nhà văn thời [[nhà Nguyễn]]. Quê ở thôn Tả Thanh Oai.
+* [[Ngô Thì Chí]] (1753 – 1788): Thiêm thư bình chương tỉnh quốc, nhà văn, nhà thơ thời nhà [[Nhà Lê trung hưng|Lê trung hưng]]. Quê ở thôn Tả Thanh Oai.
+* [[Ngô Thì Du]] (1772 – 1840): Nhà văn, nhà thơ thời [[nhà Nguyễn]]. Quê ở thôn Tả Thanh Oai.
+* [[Ngô Thì Đạo]] (1732 – 1802): Thị giảng Đông cung, Đại lý tự thừa, nhà văn, nhà thơ thời nhà Lê trung hưng. Quê ở thôn Tả Thanh Oai.
+* [[Ngô Thì Ức]] (1709 – 1736): Nhà thơ thời nhà [[Nhà Lê trung hưng|Lê trung hưng]]. Quê ở thôn Tả Thanh Oai.
+* [[Ngô Giáp Đậu]] (1853 – 1929): Nhà sử học, nhà văn thời [[nhà Nguyễn]]. Quê ở thôn Tả Thanh Oai.
+* [[Vương Thừa Vũ]] (1910 – 1980): [[Trung tướng Quân đội nhân dân Việt Nam thế kỷ 21|Trung tướng]], Tư lệnh [[Quân khu 4, Quân đội nhân dân Việt Nam|Quân khu 4]], Phó [[Tổng tham mưu trưởng Quân đội nhân dân Việt Nam|Tổng Tham mưu trưởng Quân đội Nhân dân Việt Nam]]. Quê ở thôn Vĩnh Ninh.
+* [[Ngô Mạnh Lân]] (1934 – 2021): Nghệ sĩ nhân dân, họa sĩ, biên kịch. Quê ở thôn Tả Thanh Oai.
+* [[Đỗ Ngọc Du]] (1907 – 1938): Bí thư [[Xứ ủy Bắc Kỳ]], Bí thư [[Thành ủy Hà Nội]]. Quê ở thôn Thượng Phúc.
+* [[Nguyễn Văn Giáp]] (1837 – 1887): Vị quan, danh tướng thời [[nhà Nguyễn]]. Quê ở thôn Tả Thanh Oai.
+* [[Đoàn Ngọc Hải]] (1969): Nguyên Phó Chủ tịch UBND [[Quận 1]]. Quê ở thôn Hữu Trung.
+
+== Chú thích ==
+{{tham khảo}}
+
+== Tham khảo ==
+{{sơ khai Hà Nội}}
+{{Đơn vị hành chính thuộc thành phố Hà Nội}}

@@ -1,0 +1,213 @@
+{{Thông tin đơn vị hành chính Việt Nam |Phường
+| tên = Kiến Hưng
+| hình = 
+| ghi chú hình = 
+| vĩ độ = 20.96057357761946
+| kinh độ = 105.76527287110395
+| vĩ phút = 
+| vĩ giây = 
+| kinh phút = 
+| kinh giây = 
+| diện tích = 6,65 km²
+| dân số = 70.833 người
+| thời điểm dân số = 2025
+| mật độ dân số = {{formatnum:{{#expr:floor({{formatnum:70.833| R}}/{{formatnum:6,65| R}})}} }} người/km²
+| vùng = [[Đồng bằng sông Hồng]]
+| thành phố = [[Hà Nội]]
+| thành lập = 
+| trụ sở UBND = Lô C3 Khu đô thị Văn Phú
+| mã hành chính = 09552<ref>{{Chú thích web |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/19ttg.signed.pdf |title=Quyết định số 19/2025/QĐ-TTg ngày 30 tháng 6 năm 2025 của Thủ tướng Chính phủ về việc Ban hành Bảng danh mục và mã số các đơn vị hành chính Việt Nam |access-date=2026-06-15 |archive-date=2026-06-15 |archive-url=https://web.archive.org/web/20260615034519/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/19ttg.signed.pdf |url-status=dead | website = Cổng Thông tin điện tử Chính phủ}}</ref> 
+| bản đồ 1 = [[File:Kien Hung map.png| 300px]]
+| tựa bản đồ 1 = Bản đồ phường Kiến Hưng
+| web = {{url|kienhung.hanoi.gov.vn}}
+|trụ sở Đảng ủy=Số 51, tổ dân phố Nhân Trạch 2}}
+{{other|Kiến Hưng (định hướng)}}
+'''Kiến Hưng''' là một [[Phường (Việt Nam)|phường]] thuộc thành phố [[Hà Nội]], [[Việt Nam]].
+
+Sau sát nhập địa giới hành chính tháng 7/2025, Kiến Hưng là một trong những phường có tốc độ đô thị hóa nhanh nhất ở phía Tây Nam thủ đô với sự hình thành của các dự án bất động sản lớn như Khu đô thị Kiến Hưng, Khu đô thị Mậu Lương và các tổ hợp chung cư cao tầng. Sự phát triển hạ tầng này đã thu hút lượng lớn cư dân đổ về sinh sống, kéo theo việc mở rộng mạng lưới giao thông liên kết vùng như đường trục phía Nam Cự Khê - Thanh Oai và các tuyến xe buýt kết nối trực tiếp vào trung tâm thủ đô. Bên cạnh hạ tầng hiện đại, phường vẫn lưu giữ được các giá trị văn hóa lâu đời với các di tích lịch sử và đặc biệt là sự đóng góp kinh tế - văn hóa từ các thế hệ thợ của Làng rèn Đa Sỹ truyền thống. 
+
+== Địa lý== 
+Phường Kiến Hưng có vị trí địa lý:
+
+* Phía đông giáp phường [[Thanh Liệt]] và xã [[Đại Thanh (xã)|Đại Thanh]] (ranh giới đi theo giao thông quy hoạch và ranh giới cấp xã cũ)
+* Phía tây giáp phường [[Dương Nội]] (ranh giới đi theo đường Quang Trung)
+* Phía nam giáp phường [[Phú Lương (phường)|Phú Lương]] (ranh giới đi theo đường sắt Hà Đông)
+* Phía bắc giáp phường [[Hà Đông (phường)|Hà Đông]] (ranh giới đi theo đường Quang Trung – đường Hoàng Đôn Hòa – phố Hà Trì – đường Đa Sỹ – đường giao thông quy hoạch – ranh giới cấp xã cũ).<ref>{{Chú thích web |last=Báo Điện tử Chính phủ |date=2025-04-28 |title=Chi tiết dự thảo phương án sắp xếp các phường của Hà Nội |url=https://xaydungchinhsach.chinhphu.vn/chi-tiet-du-thao-phuong-an-sap-xep-cac-phuong-cua-ha-noi-119250421100531902.htm |url-status=dead |archive-url=https://web.archive.org/web/20260316174230/https://xaydungchinhsach.chinhphu.vn/chi-tiet-du-thao-phuong-an-sap-xep-cac-phuong-cua-ha-noi-119250421100531902.htm |archive-date=2026-03-16 |access-date=2026-07-10 |website=Xây dựng chính sách, pháp luật}}</ref><ref>{{Chú thích web |last=Viện nghiên cứu Phát triển kinh tế – xã hội Hà Nội |date=2025-07-02 |title=Phường Kiến Hưng: Những thông tin chi tiết sau sắp xếp |url=https://hanoionline.vn/phuong-kien-hung-nhung-thong-tin-chi-tiet-sau-sap-xep-344022.htm |url-status=dead |archive-url=https://web.archive.org/web/20260807400809/https://hanoionline.vn/phuong-kien-hung-nhung-thong-tin-chi-tiet-sau-sap-xep-344022.htm |archive-date=2026-08-07 |access-date=2026-08-07 |website=Cơ quan Báo và Phát thanh Truyền hình Hà Nội}}</ref><ref>{{Chú thích web |last=Cơ quan Báo và Phát thanh Truyền hình Hà Nội |date=2025-07-08 |title=Phường Kiến Hưng: Tất cả thông tin chỉ dẫn bạn cần biết |url=https://hanoionline.vn/phuong-kien-hung-tat-ca-thong-tin-chi-dan-ban-can-biet-345232.htm |url-status=dead |archive-url=https://web.archive.org/web/20260807401509/https://hanoionline.vn/phuong-kien-hung-tat-ca-thong-tin-chi-dan-ban-can-biet-345232.htm |archive-date=2026-08-07 |access-date=2026-08-07}}</ref>
+Phường Kiến Hưng có diện tích tự nhiên là 6,65&nbsp;km<sup>2</sup>, quy mô dân số năm 2025 là 70.833 người và mật độ dân số đạt 10.651 người/km<sup>2</sup>.<ref>{{Chú thích web |last=Mai Hữu |date=2026-04-05 |title=Hà Nội: Chi tiết phương án tổng thể sắp xếp đơn vị hành chính cấp xã |url=https://hanoimoi.vn/ha-noi-chi-tiet-phuong-an-tong-the-sap-xep-don-vi-hanh-chinh-cap-xa-700278.html |url-status=bot: unknown |archive-url=https://web.archive.org/web/20250710163328/https://hanoimoi.vn/ha-noi-chi-tiet-phuong-an-tong-the-sap-xep-don-vi-hanh-chinh-cap-xa-700278.html |archive-date=2025-07-10 |access-date=2026-07-08 |website=Cơ quan Báo và Phát thanh, truyền hình Hà Nội}}</ref><ref>Công văn số 2896/BNV-CQĐP ngày 27 tháng 5 năm 2025 của Bộ Nội vụ về việc cung cấp thông tin danh mục dự kiến đơn vị hành chính cấp xã mới.</ref>
+
+== Lịch sử==
+
+=== Trước năm 1976 ===
+[[Tập tin:PP0018009 Fête du génie du village Da-Si.jpg| trái|nhỏ| Lễ hội làng Đa Sỹ, những năm 1920]]
+Trước đây, xã Kiến Hưng thuộc huyện [[Thanh Oai (huyện)|Thanh Oai]].
+
+[[Tháng 4]] năm [[1955]], tách thôn Hà Trì của xã Kiến Hưng để hợp với thôn Cầu Đơ của xã Văn Khê thành lập xã Hà Cầu thuộc thị xã Hà Đông.<ref name = "KH12">{{chú thích web | url = http://hadong.hanoi.gov.vn/portal/Pages/20130906/ha-dong-nhung-dau-moc-lich-su.aspx | title = Hà Đông - những dấu mốc lịch sử | website = Cổng thông tin điện tử quận Hà Đông | access-date = ngày 3 tháng 12 năm 2016 | archive-date = ngày 17 tháng 7 năm 2019 | archive-url = https://web.archive.org/web/20190717132114/http://hadong.hanoi.gov.vn/portal/Pages/20130906/ha-dong-nhung-dau-moc-lich-su.aspx}}</ref>
+
+Ngày [[15 tháng 9]] năm [[1969]], chuyển xã Kiến Hưng vào thị xã Hà Đông.<ref>{{Chú thích web | url = https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/Quyet-dinh178-CP-mo-rong-dia-gioi-thi-xa-Ha-dong-hop-nhat-mot-so-huyen-thuoc-tinh-Ha-tay-18500.aspx | tựa đề = Quyết định 178-CP năm 1969 về việc mở rộng địa giới thị xã Hà Đông và hợp nhất một số huyện thuộc tỉnh Hà Tây | tác giả = | họ = | tên = | ngày = | website = | url lưu trữ = | ngày lưu trữ = | ngày truy cập = }}</ref>
+
+=== Giai đoạn 1976 – nay ===
+Sau ngày 2 tháng 7 năm 1976, tiểu khu Quang Trung và 3 xã: Hà Cầu, Kiến Hưng, Văn Khê thuộc thị xã [[Hà Đông (quận)|Hà Đông]]; 2 xã: Phú Lãm và Phú Lương thuộc [[Thanh Oai (huyện)|Thanh Oai]]; xã Yên Nghĩa thuộc huyện [[Hoài Đức (huyện)|Hoài Đức]] của tỉnh [[Hà Sơn Bình]].
+
+Ngày 29 tháng 12 năm 1978, sáp nhập huyện [[Hoài Đức (huyện)|Hoài Đức]], thị xã [[Hà Đông (quận)|Hà Đông]] và phần Bắc đường số 6 thuộc xã Phú Lãm của huyện [[Thanh Oai (huyện)|Thanh Oai]] thuộc tỉnh [[Hà Sơn Bình]] vào thành phố [[Hà Nội]].<ref>Nghị quyết ngày 29 tháng 12 năm 1978 của Quốc hội khóa VI, Kỳ họp thứ 4 phê chuẩn việc phân vạch lại địa giới thành phố Hà Nội, thành phố Hồ Chí Minh, các tỉnh Hà Sơn Bình, Vĩnh Phú, Cao Lạng, Bắc Thái, Quảng Ninh và Đồng Nai.</ref>
+
+Ngày 17 tháng 2 năm 1979, sáp nhập thôn Do Lộ (phần bắc đường số 6, xã Phú Lãm) vào xã Yên Nghĩa thuộc huyện [[Hoài Đức (huyện)|Hoài Đức]].<ref>Quyết định số 49-CP ngày 17 tháng 2 năm 1979 của Hội đồng Chính phủ về việc điều chỉnh địa giới một số xã, thị trấn thuộc các huyện Sóc Sơn, Mê Linh, Hoài Đức, Phúc Thọ và Thanh Trì thuộc thành phố Hà Nội.</ref>
+
+Ngày 3 tháng 1 năm 1981, từ nay các đơn vị hành chính cơ sở ở nội thành, nội thị của các [[Thành phố thuộc tỉnh (Việt Nam)|thành phố thuộc tỉnh]], [[Thị xã (Việt Nam)|thị xã]] và [[Quận (Việt Nam)|quận]] gọi là [[Phường (Việt Nam)|phường]]. Khi đó, phường Quang Trung thuộc thị xã [[Hà Đông (quận)|Hà Đông]].<ref>Quyết định số 3-CP ngày 3 tháng 1 năm 1981 của Hội đồng Chính phủ về việc thống nhất tên gọi các đơn vị hành chính ở nội thành nội thị.</ref>
+
+Ngày 12 tháng 8 năm 1991, chia tỉnh [[Hà Sơn Bình]] thành 2 tỉnh, lấy tên là tỉnh [[Hòa Bình (tỉnh)|Hòa Bình]] và tỉnh [[Hà Tây (tỉnh)|Hà Tây]]. Chuyển huyện [[Hoài Đức (huyện)|Hoài Đức]] của thành phố [[Hà Nội]] về tỉnh [[Hà Tây (tỉnh)|Hà Tây]]. Khi đó, phường Quang Trung và 3 xã: Hà Cầu, Kiến Hưng, Văn Khê thuộc thị xã [[Hà Đông (quận)|Hà Đông]]; 2 xã: Phú Lãm và Phú Lương thuộc huyện [[Thanh Oai (huyện)|Thanh Oai]]; xã Yên Nghĩa thuộc huyện [[Hoài Đức (huyện)|Hoài Đức]] của tỉnh [[Hà Tây (tỉnh)|Hà Tây]].<ref>Nghị quyết ngày 12 tháng 8 năm 1991 của Quốc hội khóa VIII, Kỳ họp thứ 9 về việc điều chỉnh địa giới hành chính một số tỉnh, thành phố trực thuộc Trung ương.</ref>
+
+Ngày 23 tháng 9 năm 2003:
+
+* Chuyển xã Yên Nghĩa của huyện [[Hoài Đức (huyện)|Hoài Đức]], xã Phú Lương, xã Phú Lãm của huyện [[Thanh Oai (huyện)|Thanh Oai]] về thị xã [[Hà Đông (quận)|Hà Đông]] quản lý.
+* Thành lập phường Hà Cầu trên cơ sở toàn bộ diện tích tự nhiên và dân số của xã Hà Cầu.<ref>{{Chú thích web |title=Nghị định số 107/2003/NĐ-CP ngày 23 tháng 9 năm 2003 của Chính phủ về việc điều chỉnh địa giới hành chính mở rộng thị xã Hà Đông, thành lập phường thuộc thị xã Hà Đông và mở rộng thị trấn Vân Đình huyện Ứng Hòa, tỉnh Hà Tây |url=https://chinhphu.vn/default.aspx?pageid=27160&docid=12234 |url-status=dead |archive-url=https://web.archive.org/web/20260809201510/https://chinhphu.vn/default.aspx?pageid=27160&docid=12234 |archive-date=2026-08-09 |access-date=2026-08-09 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+
+Ngày 27 tháng 12 năm 2006, thành lập thành phố [[Hà Đông (quận)|Hà Đông]] trên cơ sở toàn bộ diện tích tự nhiên, dân số và các đơn vị hành chính trực thuộc của thị xã [[Hà Đông (quận)|Hà Đông]]. Khi đó, 2 phường: Hà Cầu, Quang Trung và 5 xã: Kiến Hưng, Phú Lãm, Phú Lương, Văn Khê, Yên Nghĩa thuộc thành phố [[Hà Đông (quận)|Hà Đông]].<ref name="ND155">{{Chú thích web |tựa đề=Nghị định số 155/2006/NĐ-CP ngày 27 tháng 12 năm 2006 của Chính phủ về việc thành lập thành phố Hà Đông thuộc tỉnh Hà Tây |url=https://chinhphu.vn/default.aspx?pageid=27160&docid=18995 |url-status=dead |archive-url=https://web.archive.org/web/20260804201510/https://chinhphu.vn/default.aspx?pageid=27160&docid=18995 |archive-date=2026-08-04 |access-date=2026-08-04 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+
+Ngày 1 tháng 3 năm 2008, thành lập phường Phú La (thành phố [[Hà Đông (quận)|Hà Đông]]) trên cơ sở điều chỉnh 106,98 ha diện tích tự nhiên và 3.155 nhân khẩu còn lại của xã Văn Khê; 9,55 ha diện tích tự nhiên và 2.188 nhân khẩu của phường Quang Trung; 22,84 ha diện tích tự nhiên và 631 nhân khẩu của xã Phú Lương; 4,98 ha diện tích tự nhiên và 253 nhân khẩu của xã Phú Lãm; 8,65 ha diện tích tự nhiên và 299 nhân khẩu của xã Yên Nghĩa; 8,07 ha diện tích tự nhiên của phường Hà Cầu; 15,75 ha diện tích tự nhiên của xã Kiến Hưng.<ref>{{Chú thích web |title=Nghị định số 23/2008/NĐ-CP ngày 1 tháng 3 năm 2008 của Chính phủ về việc điều chỉnh địa giới hành chính xã, phường, để thành lập phường thuộc thành phố Hà Đông, thành phố Sơn Tây, tỉnh Hà Tây |url=https://chinhphu.vn/default.aspx?pageid=27160&docid=59294 |url-status=dead |archive-url=https://web.archive.org/web/20260809201510/https://chinhphu.vn/default.aspx?pageid=27160&docid=59294 |archive-date=2026-08-09 |access-date=2026-08-09 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+
+Ngày 29 tháng 5 năm 2008, hợp nhất tỉnh [[Hà Tây (tỉnh)|Hà Tây]] vào thành phố [[Hà Nội]]. Khi đó, 3 phường: Hà Cầu, Phú La, Quang Trung và 2 xã: Kiến Hưng, Phú Lương thuộc thành phố [[Hà Đông (quận)|Hà Đông]] của thành phố [[Hà Nội]].<ref>Nghị quyết số 15/2008/QH12 ngày 29 tháng 5 năm 2008 của Quốc hội khóa XII, Kỳ họp thứ 3 về việc điều chỉnh địa giới hành chính thành phố Hà Nội và một số tỉnh có liên quan.</ref>
+
+Ngày 8 tháng 5 năm 2009:
+
+* Thành lập quận [[Hà Đông (quận)|Hà Đông]] trên cơ sở thành phố [[Hà Đông (quận)|Hà Đông]].
+* Thành lập 2 phường: Kiến Hưng và Phú Lương trên cơ sở 2 xã có tên tương ứng.<ref name="19/NQ-CP">{{Chú thích web | url = https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Nghi-quyet-19-NQ-CP-xac-lap-dia-gioi-hanh-chinh-88093.aspx | tựa đề = Nghị quyết số 19/NQ-CP ngày 8 tháng 5 năm 2009 của Chính phủ về việc xác lập địa giới hành chính xã Đông Xuân thuộc huyện Quốc Oai; các xã Tiến Xuân, Yên Bình, Yên Trung thuộc huyện Thạch Thất; huyện Mê Linh thuộc thành phố Hà Nội; thành lập quận Hà Đông và các phường trực thuộc; chuyển thành phố Sơn Tây thành thị xã Sơn Tây thuộc thành phố Hà Nội | tác giả = | họ = | tên = | ngày = | website = | url lưu trữ =https://web.archive.org/web/20260809201510/https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Nghi-quyet-19-NQ-CP-xac-lap-dia-gioi-hanh-chinh-88093.aspx | ngày lưu trữ =2026-08-09 | ngày truy cập =2026-08-09 |url-status=dead}}</ref>
+
+Ngày 16 tháng 6 năm 2025:
+
+* Kết thúc hoạt động của đơn vị hành chính cấp huyện trong cả nước.<ref>{{Chú thích web |last= |date= |title=Nghị quyết số 203/2025/QH15 ngày 16 tháng 6 năm 2025 của Quốc hội khóa XV, Kỳ họp thứ 9 về việc sửa đổi, bổ sung một số điều của Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/nq-sua-doi-hien-phap.pdf |url-status=live |archive-url=https://web.archive.org/web/20260613090807/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/nq-sua-doi-hien-phap.pdf |archive-date=2026-06-13 |access-date=2026-06-13 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+* Sắp xếp một phần diện tích tự nhiên, quy mô dân số của phường Kiến Hưng, phường Phú Lương, phần còn lại của phường Quang Trung và phường Hà Cầu, phần còn lại của phường Phú La (quận [[Hà Đông (quận)|Hà Đông]]) thành phường mới có tên gọi là phường Kiến Hưng.<ref>{{Chú thích web |title=Nghị quyết số 1656/NQ-UBTVQH15 ngày 16 tháng 6 năm 2025 của Ủy ban Thường vụ Quốc hội về việc sắp xếp các đơn vị hành chính cấp xã của thành phố Hà Nội năm 2025 |url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf |url-status=live |archive-url=https://web.archive.org/web/20260630400809/https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/1656-nq.signed.pdf |archive-date=2026-06-30 |access-date=2026-06-30 |website=Cổng Thông tin điện tử Chính phủ}}</ref>
+* Sau khi sắp xếp, phường Kiến Hưng được chia thành 32 tổ dân phố.<ref>25 tổ dân phố, đánh số từ 1 đến 25 của phường Kiến Hưng cũ; 11 tổ dân phố, đánh số từ 1 đến 7 và từ 9 đến 12 của phường Phú La cũ.</ref><ref>{{Chú thích web |title=Thông tư số 10/2022/TT-BTNMT ngày 29 tháng 9 năm 2022 của Bộ Tài nguyên và Môi trường về việc Ban hành Danh mục địa danh dân cư, sơn văn, thủy văn, kinh tế – xã hội phục vụ công tác thành lập bản đồ thành phố Hà Nội|url=https://datafiles.chinhphu.vn/cpp/files/vbpq/2022/10/10-btnmt.pdf|url-status=live|archive-url=https://web.archive.org/web/20260630400809/https://datafiles.chinhphu.vn/cpp/files/vbpq/2022/10/10-btnmt.pdf|archive-date=2026-06-30|access-date=2026-06-30|website=Cổng Thông tin điện tử Chính phủ}}</ref><ref>{{Chú thích web |last=Trang Thông tin điện tử phường Kiến Hưng – thành phố Hà Nội |date=2026-02-26 |title=Ủy ban bầu cử phường Kiến Hưng công bố danh sách chính thức 37 người ứng cử Hội đồng nhân dân phường Kiến Hưng nhiệm kỳ 2026 – 2031 |url=https://kienhung.hanoi.gov.vn/bau-cu-quoc-hoi-va-hdnd/uy-ban-bau-cu-phuong-kien-hung-cong-bo-danh-sach-chinh-thuc-37-nguoi-ung-cu-hdnd-phuong-kien-hung-nhiem-ky-2026-2031-281026022623051494.htm?gidzl=RySfNua9JL5hs2rPWn58KclPArwL4Ku0V8fxMPbC4bOjYoPOnK8LKIJR9rd7HHHLBjbmNJNG_r4_Z0X9Km |url-status=dead |archive-url=https://web.archive.org/web/20260812201510/https://kienhung.hanoi.gov.vn/bau-cu-quoc-hoi-va-hdnd/uy-ban-bau-cu-phuong-kien-hung-cong-bo-danh-sach-chinh-thuc-37-nguoi-ung-cu-hdnd-phuong-kien-hung-nhiem-ky-2026-2031-281026022623051494.htm?gidzl=RySfNua9JL5hs2rPWn58KclPArwL4Ku0V8fxMPbC4bOjYoPOnK8LKIJR9rd7HHHLBjbmNJNG_r4_Z0X9Km |archive-date=2026-08-12 |access-date=2026-08-12 |website=}}</ref>
+Ngày 1 tháng 8 năm 2025, tổ chức lại 3 tổ dân phố: 3, 4 và 10 (thuộc phường Phú La cũ); đổi tên 11 tổ dân phố thuộc phường Phú La cũ theo nguyên tắc giữ nguyên số thứ tự và bổ sung ký hiệu "P" để phân biệt sau khi sáp nhập.<ref>1. Tổ chức lại tổ dân phố 3 (thuộc phường Phú La cũ) gồm: Khu dân cư nằm tại phía Nam Quốc lộ 6, từ phố Văn Phú đến phố Hoàng Đôn Hòa (thuộc phường Quang Trung cũ) và tổ dân phố 3 (thuộc phường Phú La cũ); 2. Tổ chức lại tổ dân phố 4 (thuộc phường Phú La cũ) gồm: Toà nhà chung cư kết hợp dịch vụ H-CT1 thuộc dự án đầu tư xây dựng khu nhà ở HiBrand, Khu đô thị mới Văn Phú và tổ dân phố 4 (thuộc phường Phú La cũ); 3. Tổ chức lại tổ dân phố 10 (thuộc phường Phú La cũ) gồm: Khu dân cư khu đô thị Phú Lương (thuộc phường Phú Lương cũ), gồm các lô: LK23-LK39, LK41-LK54, BT03-BT05, BT7-BT18, TT-01, TT-02, phần diện tích đất xây dựng chung cư và tổ dân phố 10 (thuộc phường Phú La cũ); 4. Đổi tên 11 tổ dân phố thuộc phường Phú La cũ theo nguyên tắc giữ nguyên số thứ tự và bổ sung ký hiệu "P" để phân biệt sau khi sáp nhập; 5. Giữ nguyên tên gọi của 25 Tổ dân phố phường Kiến Hưng cũ.</ref><ref>{{Chú thích web |last=Trang Thông tin điện tử phường Kiến Hưng – thành phố Hà Nội |date=2025-08-01 |title=Kỳ họp chuyên đề Hội đồng nhân dân phường Kiến Hưng, nhiệm kỳ 2021 – 2026 |url=https://kienhung.hanoi.gov.vn/tin-tuc-hoat-dong/ky-hop-chuyen-de-hdnd-phuong-kien-hung-nhiem-ky-2021-2026-2810250801124011106.htm?gidzl=1B3gOKO312i0h-vdJ1i1A02kw6fQ6mTm5_suRLP6MoP6_ELi2aXS8K-iv6q8JrqbHQwpQJLqWjjxGm80AG |url-status=dead |archive-url=https://web.archive.org/web/20260812201510/https://kienhung.hanoi.gov.vn/tin-tuc-hoat-dong/ky-hop-chuyen-de-hdnd-phuong-kien-hung-nhiem-ky-2021-2026-2810250801124011106.htm?gidzl=1B3gOKO312i0h-vdJ1i1A02kw6fQ6mTm5_suRLP6MoP6_ELi2aXS8K-iv6q8JrqbHQwpQJLqWjjxGm80AG |archive-date=2026-08-12 |access-date=2026-08-12 |website=}}</ref>
+
+Ngày 24 tháng 12 năm 2025, xác định phường Kiến Hưng là [[Đô thị Việt Nam|đô thị loại II]].<ref>Chuyển tiếp từ 5 phường: Hà Cầu, Kiến Hưng, Phú La, Phú Lương và Quang Trung thuộc quận Hà Đông.</ref><ref>{{Chú thích web |title=Nghị quyết số 111/2025/UBTVQH15 ngày 24 tháng 12 năm 2025 của Ủy ban Thường vụ Quốc hội về phân loại đô thị |url=https://cdn.nhandan.vn/files/f4a4abf7f9a0ba4a91744616546d850872b76917f90d5a74cc9eebef1369fb6f/111.pdf |url-status=dead |archive-url=https://web.archive.org/web/20260712401509/https://cdn.nhandan.vn/files/f4a4abf7f9a0ba4a91744616546d850872b76917f90d5a74cc9eebef1369fb6f/111.pdf |archive-date=2026-07-12 |access-date=2026-07-12 |website=Báo Nhân dân}}</ref>
+
+Ngày 29 tháng 6 năm 2026, thành lập 9 tổ dân phố mới: Đa Sỹ từ 1 đến 4, Mậu Lương 1, 2, Hưng Thịnh 1, 3 và Văn La 2; đổi tên 18 tổ dân phố: 10, 15, 25, 23, 24, từ 19 đến 22, 1P, 2P, 3P, 4P, 12P, 11P, 9P, 10P và 5P lần lượt thành 18 tổ dân phố: Mậu Lương 3, Hưng Thịnh 2, 4, Hoàng Công từ 1 đến 6, Văn Phú 1, 2, Phú La từ 1 đến 6 và Văn La 1.<ref name=":1">1. Tổ dân phố Ba La: Thành lập trên cơ sở toàn bộ tổ dân phố 1 và tổ dân phố 9A; 2. Tổ dân phố Văn Nội 1: Thành lập trên cơ sở toàn bộ tổ dân phố 2 và tổ dân phố 3; 3. Tổ dân phố Văn Nội 2: Thành lập trên cơ sở toàn bộ tổ dân phố 4 và tổ dân phố 5; 4. Tổ dân phố Nhân Trạch 1: Thành lập trên cơ sở toàn bộ tổ dân phố 6 và tổ dân phố 7; 5. Tổ dân phố Nhân Trạch 2: Thành lập trên cơ sở toàn bộ tổ dân phố 8 và tổ dân phố 9; 6. Tổ dân phố Trinh Lương: Thành lập trên cơ sở toàn bộ tổ dân phố 10, tổ dân phố 11 và tổ dân phố 12; 7. Tổ dân phố Thượng Mạo: Thành lập trên cơ sở toàn bộ tổ dân phố 13 và tổ dân phố 14; 8. Tổ dân phố Động Lãm: Thành lập trên cơ sở toàn bộ tổ dân phố 15 và tổ dân phố 16; 9. Tổ dân phố Bắc Lãm 8: Thành lập trên cơ sở toàn bộ tổ dân phố 17 và tổ dân phố 18, tổ dân phố 19; 10. Tổ dân phố Bắc Lãm 9: Thành lập trên cơ sở toàn bộ tổ dân phố 20, tổ dân phố 21 và tổ dân phố 22; 11. Tổ dân phố Thanh Lãm 1: Thành lập trên cơ sở toàn bộ tổ dân phố 1A; 12. Tổ dân phố Thanh Lãm 2: Thành lập trên cơ sở toàn bộ tổ dân phố 2A và một phần tổ dân phố 6A; 13. Tổ dân phố Phú Lãm: Thành lập trên cơ sở toàn bộ tổ dân phố 3A; 14. Tổ dân phố Quang Lãm: Thành lập trên cơ sở toàn bộ tổ dân phố 4A, tổ dân phố 5A và một phần tổ dân phố 6A; 15. Tổ dân phố Huyền Kỳ 1: Thành lập trên cơ sở toàn bộ tổ dân phố 7A; 16. Tổ dân phố Huyền Kỳ 2: Thành lập trên cơ sở toàn bộ tổ dân phố 8A; 17. Tổ dân phố Thanh Hà: Thành lập trên cơ sở toàn bộ tổ dân phố 26.</ref><ref name=":0">{{Chú thích web |last=Phường Kiến Hưng – thành phố Hà Nội |date=2026-07-01 |title=Nghị quyết số 20/NQ-HĐND ngày 29 tháng 6 năm 2026 về việc sắp xếp tổ dân phố trên địa bàn phường Kiến Hưng |url=https://web.facebook.com/photo/?fbid=122204070122923089&set=a.122100499604923089 |url-status=dead |archive-url=https://web.archive.org/web/20260812201510/https://web.facebook.com/photo/?fbid=122204070122923089&set=a.122100499604923089 |archive-date=2026-08-12 |access-date=2026-08-12 |website=}}</ref><ref name=":2">{{Chú thích web |last=Phường Kiến Hưng – thành phố Hà Nội |date=2026-07-07 |title=Chính thức từ ngày 01/7/2026, phường Kiến Hưng có 27 tổ dân phố sau sắp xếp |url=https://web.facebook.com/photo/?fbid=122204990600923089&set=a.122100499604923089 |url-status=dead |archive-url=https://web.archive.org/web/20260812201510/https://web.facebook.com/photo/?fbid=122204990600923089&set=a.122100499604923089 |archive-date=2026-08-12 |access-date=2026-08-12 |website=}}</ref><!-- 
+== Lịch sử== 
+Địa bàn phường Phú La xưa là hai làng Văn Phú và Văn La thuộc huyện [[Thanh Oai (huyện)| Thanh Oai]], phủ Ứng Thiên, trấn [[Sơn Nam Thượng]].
+
+[[Tháng 7]] năm [[1949]], hai làng Văn Phú, Văn La hợp nhất với hai làng La Khê và Cầu Đơ thành xã Văn Khê thuộc huyện [[Hoài Đức (huyện)| Hoài Đức]].
+
+[[Tháng 4]] năm [[1955]], tách thôn Cầu Đơ của xã Văn Khê để hợp với thôn Hà Trì của xã Kiến Hưng lập thành xã Hà Cầu thuộc thị xã Hà Đông.<ref name = "KH12">{{chú thích web| url = http://hadong.hanoi.gov.vn/portal/Pages/20130906/ha-dong-nhung-dau-moc-lich-su.aspx| title = Hà Đông - những dấu mốc lịch sử| website = Cổng thông tin điện tử quận Hà Đông| access-date = ngày 3 tháng 12 năm 2016| archive-date = ngày 17 tháng 7 năm 2019 | archive-url = https://web.archive.org/web/20190717132114/http://hadong.hanoi.gov.vn/portal/Pages/20130906/ha-dong-nhung-dau-moc-lich-su.aspx}}</ref>
+
+Ngày [[15 tháng 9]] năm [[1969]], xã Văn Khê được sáp nhập vào thị xã Hà Đông<ref>{{Chú thích web| url = https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/Quyet-dinh178-CP-mo-rong-dia-gioi-thi-xa-Ha-dong-hop-nhat-mot-so-huyen-thuoc-tinh-Ha-tay-18500.aspx| tựa đề = Quyết định 178-CP năm 1969 về việc mở rộng địa giới thị xã Hà Đông và hợp nhất một số huyện thuộc tỉnh Hà Tây| tác giả = | họ = | tên = | ngày = | website = | url lưu trữ = | ngày lưu trữ = | ngày truy cập = }}</ref>.
+
+Ngày [[27 tháng 12]] năm [[2006]], xã Văn Khê thuộc thành phố Hà Đông mới thành lập.
+
+Ngày [[1 tháng 3]] năm [[2008]], Chính phủ ban hành Nghị định 23/2008/NĐ-CP<ref name = "23/2008/NĐ-CP">{{Chú thích web| url = https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/Nghi-dinh-23-2008-ND-CP-dieu-chinh-dia-gioi-hanh-chinh-xa-phuong-de-thanh-lap-phuong-thuoc-thanh-pho-Ha-Dong-Son-Tay-tinh-Ha-Tay-63236.aspx| tựa đề = Nghị định số 23/2008/NĐ-CP về việc điều chỉnh địa giới hành chính xã, phường, để thành lập phường thuộc thành phố Hà Đông, thành phố Sơn Tây, tỉnh Hà Tây| tác giả = | họ = | tên = | ngày = | website = | url lưu trữ = | ngày lưu trữ = | ngày truy cập = }}</ref>. Theo đó, thành lập phường Phú La trên cơ sở điều chỉnh 106,98 ha diện tích tự nhiên và 3.155 người của xã Văn Khê; 9,55 ha diện tích tự nhiên và 2.188 người của phường Quang Trung; 22,84 ha diện tích tự nhiên và 631 người của xã Phú Lương; 4,98 ha diện tích tự nhiên và 253 người của xã Phú Lãm; 8,65 ha diện tích tự nhiên và 299 người của xã Yên Nghĩa; 8,07 ha diện tích tự nhiên của phường Hà Cầu; 15,75 ha diện tích tự nhiên của xã Kiến Hưng.
+
+Sau khi thành lập, phường Phú La có 176,82 ha diện tích tự nhiên, dân số là 6.526 người.
+
+=== Lịch sử=== 
+Theo cuốn lịch sử Đảng bộ phường Hà Cầu (giai đoạn 1930 - 2010), năm 1896 người Pháp ra Nghị định đặt trụ sở tỉnh Hà Nội tại Cầu Đơ, tên làng Cầu Đơ cũng được đặt làm tên tỉnh trong khoảng thời gian từ tháng 5/1902 đến 12/1904. Cầu Đơ là nơi đất lành chim đậu, dân cư ở các nơi tụ tập về ở ngày một đông và có nhiều người giàu có. Cũng vào đầu thế kỷ XX, Hà Trì là một trong số ít làng của tỉnh Hà Đông được chính quyền đương thời công nhận là làng “mỹ tục khả gia” (phong tục tốt đẹp), nhân dân có cuộc sống hòa thuận, ấm no, hạnh phúc. Như vậy, quá trình hình thành và phát triển từ làng đến xã và nay là phường, Hà Trì và Cầu Đơ vốn có quan hệ gắn bó với đặc trưng nổi bật là nơi đặt đô thị tỉnh lỵ Hà Đông. Trải qua quá trình xây dựng và phát triển, nhân dân địa phương đã xây dựng các công trình kiến trúc văn hóa lịch sử như đình, chùa, miếu...là nơi sinh hoạt văn hóa làng xã và góp phần hình thành nên phong tục tập quán truyền thống của quê hương Hà Cầu.
+
+ -->
+
+== Hành chính ==
+Phường Kiến Hưng được chia thành 27 tổ dân phố: Đa Sỹ từ 1 đến 4, Hoàng Công từ 1 đến 6, Hưng Thịnh từ 1 đến 4, Mậu Lương từ 1 đến 3, Phú La từ 1 đến 6, Văn La 1, 2, Văn Phú 1 và 2.<ref name=":0" /><ref name=":2" />
+{| class="wikitable sortable" cellpadding="0" cellspacing="6" width="100%" align="center" style="background: #f9f9f9; border: 1px #aaa solid; margin-top: 16px"
+! colspan="4" style="background: #E6E6FA; font-size: 95%;" |Danh sách các tổ dân phố thuộc phường Kiến Hưng<ref name=":0" /><ref name=":2" />
+|-
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| cellpadding="1" cellspacing="1" width="100%" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+|-
+| align="left" |Đa Sỹ 1
+|-
+| align="left" |Đa Sỹ 2
+|-
+| align="left" |Đa Sỹ 3
+|-
+| align="left" |Đa Sỹ 4
+|-
+| align="left" |Hoàng Công 1
+|-
+| align="left" |Hoàng Công 2
+|-
+| align="left" |Hoàng Công 3
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| cellpadding="1" cellspacing="1" width="100%" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+|-
+| align="left" |Hoàng Công 4
+|-
+| align="left" |Hoàng Công 5
+|-
+| align="left" |Hoàng Công 6
+|-
+| align="left" |Hưng Thịnh 1
+|-
+| align="left" |Hưng Thịnh 2
+|-
+| align="left" |Hưng Thịnh 3
+|-
+| align="left" |Hưng Thịnh 4
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| cellpadding="1" cellspacing="1" width="100%" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+|-
+| align="left" |Mậu Lương 1
+|-
+| align="left" |Mậu Lương 2
+|-
+| align="left" |Mậu Lương 3
+|-
+| align="left" |Phú La 1
+|-
+| align="left" |Phú La 2
+|-
+| align="left" |Phú La 3
+|-
+| align="left" |Phú La 4
+|}
+| valign="top" width="20%" style="background: #f9f9f9;" |
+{| cellpadding="1" cellspacing="1" width="100%" style="background: #f9f9f9; font-size: 90%; text-align: right;"
+! align="left" style="border-bottom: 2px solid #CCCCFF; padding-left: 10px; white-space:nowrap" |Tên
+|-
+| align="left" |Phú La 5
+|-
+| align="left" |Phú La 6
+|-
+| align="left" |Văn La 1
+|-
+| align="left" |Văn La 2
+|-
+| align="left" |Văn Phú 1
+|-
+| align="left" |Văn Phú 2
+|}
+|}
+
+== Kinh tế ==
+Phường Kiến Hưng tập trung chuyển đổi cơ cấu kinh tế, mở rộng các hoạt động kinh doanh, dịch vụ, thương mại, làng nghề. Thương mại, dịch vụ, làng nghề tiếp tục giữ vai trò chủ đạo trong cơ cấu kinh tế địa phương, với mức độ phát triển cao và ngày càng chuyên nghiệp hóa.<ref name = ":02">{{Chú thích web | title = Phường Kiến Hưng: Những thông tin chi tiết sau sắp xếp | url = https://hanoionline.vn/phuong-kien-hung-nhung-thong-tin-chi-tiet-sau-sap-xep-344022.htm | access-date = 2025-07-09 | website = [[Đài Phát thanh – Truyền hình Hà Nội]] | language = vi}}</ref>
+
+Các loại hình dịch vụ như dịch vụ logistics, thương mại điện tử, dịch vụ chăm sóc cá nhân và giáo dục ngoài công lập phát triển mạnh. Ngoài ra, hoạt động thương mại - dịch vụ truyền thống tại các chợ dân sinh, khu phố kinh doanh lâu đời vẫn được duy trì, góp phần tạo việc làm cho lao động địa phương.<ref name = ":02" />
+
+Tại các khu dân cư truyền thống, một số ngành nghề thủ công như cơ khí nhỏ, sửa chữa điện dân dụng, sản xuất đồ gỗ, may mặc, và thực phẩm chế biến vẫn được duy trì, kết hợp cùng mô hình hộ gia đình kinh doanh tại nhà.<ref name = ":02" />
+
+== Giao thông== 
+Trên địa bàn phường có quốc lộ 70A, tuyến đường sắt Văn Điển - Hà Đông - Đông Anh; dự án [[đường trục phía nam Hà Nội]] và có [[sông Nhuệ]] chảy qua. Phường tiếp giáp các tuyến đường như Quang Trung, Phùng Hưng - Xa La - quốc lộ 70A, trở thành trục thương mại quan trọng với mật độ kinh doanh cao, đóng góp đáng kể cho thu ngân sách địa phương.<ref name = ":02" />
+
+== Xã hội==
+
+==Y tế==
+Bệnh viện Công an Thành phố Hà Nội tọa lạc tại phường.
+
+==Giáo dục==
+Các trường học tại phường có Tiểu học{{En dash}}THCS Kiến Hưng, Tiểu học{{En dash}}THCS Mậu Lương, Tiểu học{{En dash}}THCS Phú La, THCS{{En dash}}THPT Ban Mai, THCS{{En dash}}THPT Marie Curie Văn Phú.<ref name = ":02" />
+
+== Văn hóa== 
+Các di tích đã được xếp hạng cấp quốc gia bao gồm Chùa Lâm Dương Quán Đa Sỹ (xếp hạng năm 1988), Miếu Đa Sỹ (1988), Chùa{{En dash}}Miếu Mậu Lương (1988), Mộ, Nhà thờ Hoàng Trịnh Thanh và Từ chỉ họ Hoàng (2015), Đình Văn La (1988), Đình{{En dash}}Chùa Văn Phú (1988), Đình Cầu Đơ (1985), Đình{{En dash}}Miếu{{En dash}}Chùa Hà Trì (1993).<ref name = ":02" />
+
+Phường Kiến Hưng hiện có bốn cụm di tích được xếp hạng di tích lịch sử bao gồm chùa, miếu Đa Sỹ, chùa - miếu Mậu Lương, nhà thờ họ Hoàng, nhà thờ họ Trịnh.<ref name = ":02" />
+
+==Danh nhân==
+* '''[[Hoàng Trình Thanh]]''' (1411 – 1463) là đại thần [[nhà Lê sơ]] trong [[lịch sử Việt Nam]].
+
+== Chú thích== 
+{{reflist}}
+
+== Tham khảo ==
+{{sơ khai Hà Nội}}
+{{Đơn vị hành chính thuộc thành phố Hà Nội}}

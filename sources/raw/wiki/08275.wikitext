@@ -1,0 +1,108 @@
+{{Thông tin đơn vị hành chính Việt Nam|xã
+| tên = Bình Phú
+| hình = 
+| ghi chú hình = 
+| vĩ độ = 21.412022690236174
+| kinh độ = 105.3843632407184
+| diện tích = 47,30 km²
+| dân số = 51.081 người 
+| thời điểm dân số = 2025
+| mật độ dân số = {{formatnum:{{#expr:floor({{formatnum:51.081| R}}/{{formatnum:47,30| R}})}} }} người/km²
+| vùng = [[Đông Bắc Bộ]]
+| tỉnh = [[Phú Thọ]]
+| thành lập = 16 tháng 6 năm 2025<ref>Nghị quyết số 1676/NQ-UBTVQH15</ref>
+| trụ sở UBND = 
+| mã hành chính = 08275<ref>{{Chú thích web |url=https://danhmuchanhchinh.gso.gov.vn/ |title=Tổng cục Thống kê |access-date=2022-04-09 |archive-date=2021-01-10 |archive-url=https://web.archive.org/web/20210110034519/https://www.gso.gov.vn/phuong-phap-thong-ke/danh-muc/don-vi-hanh-chinh/ |url-status=dead }}</ref>
+|web={{url|binhphu.phutho.gov.vn}}
+}}
+{{other|Bình Phú (định hướng)}}
+'''Bình Phú''' là một [[Xã (Việt Nam)|xã]] thuộc tỉnh [[Phú Thọ]], [[Việt Nam]].
+
+==Địa lý==
+Xã Bình Phú nằm ở phía bắc tỉnh [[Phú Thọ]], có vị trí địa lý<ref>{{Chú thích web |title=Đơn vị hành chính Việt Nam |url=https://sapnhap.bando.com.vn/ |access-date=2026-03-28 |website=sapnhap.bando.com.vn}}</ref>:
+*Phía đông giáp xã [[Tam Sơn (xã)|Tam Sơn]] và xã [[Sông Lô (xã)|Sông Lô]].
+*Phía tây giáp xã [[Dân Chủ]] và xã [[Phù Ninh (xã)|Phù Ninh]].
+*Phía nam giáp phường [[Vân Phú]].
+*Phía bắc giáp xã [[Hải Lựu]].
+
+Xã Bình Phú có diện tích 47,30&nbsp;km², dân số năm 2025 là 51.081 người, mật độ dân số đạt 1.080 người/km².<ref>{{Chú thích web |title=Xã Bình Phú, Tỉnh Phú Thọ mới sáp nhập 2026 |url=https://tinhthanhvn.com/province/phu-tho/xa-binh-phu |access-date=2026-04-05 |website=Tỉnh Thành Việt Nam |language=vi}}</ref>
+
+==Hành chính==
+Xã Bình Phú được chia thành 24 thộn: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, Bình Bộ, Bình Minh, Chung Dầu, Đình, Gai Hạ, Long Châu, Lũng Hàng, Ngọc, Quyết Tiến, Răm, Tranh Ngoài, Tranh Trong, Xóm Cầu.<ref name=":0">{{Chú thích web |title=Nghị quyết số 18/NQ-HĐND ngày 19/6/2026 của HĐND xã Bình Phú về việc sắp xếp, đổi tên thôn trên địa bàn xã Bình Phú. {{!}} Trang Thông tin điện tử xã Bình Phú |url=https://binhphu.phutho.gov.vn/tu-lieu/he-thong-van-ban/nghi-quyet-so-18nq-hdnd-ngay-1962026-cua-hdnd-xa-binh-phu-ve-viec-sap-xep-doi-ten-thon-tren-dia-ban-xa-binh-phu/ |access-date=2026-07-17 |website=binhphu.phutho.gov.vn}}</ref>
+
+==Lịch sử==
+Địa bàn xã Bình Phú trước đây vốn là ba xã: Tiên Du, An Đạo và Bình Phú thuộc huyện [[Phù Ninh (huyện)|Phù Ninh]].
+
+Trước khi sáp nhập năm [[2019]]:
+
+* Xã Bình Bộ có diện tích 4,65&nbsp;km², dân số là 3.590 người, mật độ dân số đạt 772 người/km².
+* Xã Tử Đà có diện tích 6,42&nbsp;km², dân số là 4.425 người, mật độ dân số đạt 689 người/km².
+* Xã Vĩnh Phú có diện tích 4,00&nbsp;km², dân số là 4.221 người, mật độ dân số đạt 1.055 người/km².
+
+Ngày [[17 tháng 12]] năm [[2019]], [[Ủy ban Thường vụ Quốc hội]] ban hành Nghị quyết 828/NQ-UBTVQH14 về việc sắp xếp các đơn vị hành chính cấp xã thuộc tỉnh Phú Thọ (nghị quyết có hiệu lực từ ngày [[1 tháng 1]] năm [[2020]]).<ref name="NQ828">{{Chú thích web|url=https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Nghi-quyet-828-NQ-UBTVQH14-2019-sap-xep-don-vi-hanh-chinh-cap-xa-thuoc-tinh-Phu-Tho-432098.aspx|tựa đề=Nghị quyết số 828/NQ-UBTVQH14 năm 2019 về việc sắp xếp các đơn vị hành chính cấp xã thuộc tỉnh Phú Thọ|tác giả=|họ=|tên=|ngày=|website=|url lưu trữ=|ngày lưu trữ=|ngày truy cập=}}</ref> Theo đó, sáp nhập toàn bộ diện tích và dân số của ba xã Bình Bộ, Tử Đà và Vĩnh Phú thành xã Bình Phú. Khi đó, xã Bình Phú có diện tích 15,07&nbsp;km², dân số là 12.236 người, mật độ dân số đạt 812 người/km².<ref name="NQ828" />
+
+Ngày [[12 tháng 6]] năm [[2025]], [[Quốc hội Việt Nam|Quốc hội]] ban hành Nghị quyết số 202/2025/QH15 về việc sắp xếp đơn vị hành chính cấp tỉnh (nghị quyết có hiệu lực từ ngày [[12 tháng 6]] năm [[2025]]).<ref>{{Chú thích web |last=xaydungchinhsach.chinhphu.vn |date=2025-07-16 |title=TOÀN VĂN: Nghị quyết số 202/2025/QH15 về sắp xếp đơn vị hành chính cấp tỉnh |url=https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-202-2025-qh15-ve-sap-xep-don-vi-hanh-chinh-cap-tinh-119250612174148722.htm |url-status=live |archive-url=http://web.archive.org/web/20260705025431/https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-202-2025-qh15-ve-sap-xep-don-vi-hanh-chinh-cap-tinh-119250612174148722.htm |archive-date=2026-07-05 |access-date=2026-07-25 |website=Báo Điện tử Chính phủ |language=vi}}</ref> Theo đó, sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của tỉnh [[Vĩnh Phúc (tỉnh)|Vĩnh Phúc]], tỉnh [[Hòa Bình (tỉnh)|Hòa Bình]] và tỉnh [[Phú Thọ]] thành tỉnh mới có tên gọi là tỉnh '''Phú Thọ'''.
+
+Ngày [[16 tháng 6]] năm [[2025]]:
+
+* Quốc hội ban hành Nghị quyết số 203/2025/QH15 về việc sửa đổi, bổ sung một số điều của Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam (nghị quyết có hiệu lực từ ngày [[16 tháng 6]] năm [[2025]]).<ref>{{Chú thích web |last=xaydungchinhsach.chinhphu.vn |date=2025-06-28 |title=NGHỊ QUYẾT 203/2025/QH15 SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA HIẾN PHÁP NƯỚC CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM |url=https://xaydungchinhsach.chinhphu.vn/nghi-quyet-203-2025-qh15-sua-doi-bo-sung-mot-so-dieu-cua-hien-phap-nuoc-cong-hoa-xa-hoi-chu-nghia-viet-nam-119250616181735552.htm |url-status=live |archive-url=http://web.archive.org/web/20260715200606/https://xaydungchinhsach.chinhphu.vn/nghi-quyet-203-2025-qh15-sua-doi-bo-sung-mot-so-dieu-cua-hien-phap-nuoc-cong-hoa-xa-hoi-chu-nghia-viet-nam-119250616181735552.htm |archive-date=2026-07-15 |access-date=2026-07-15 |website=Báo Điện tử Chính phủ |language=vi}}</ref> Theo đó, kết thúc hoạt động của đơn vị hành chính cấp huyện trong cả nước từ ngày 1 tháng 7 năm 2025.
+
+* Ủy ban Thường vụ Quốc hội ban hành Nghị quyết số 1676/NQ-UBTVQH15 về việc sắp xếp đơn vị hành chính cấp xã của tỉnh [[Phú Thọ]] năm 2025 (nghị quyết có hiệu lực từ ngày [[16 tháng 6]] năm [[2025]]).<ref>{{Chú thích web |last=xaydungchinhsach.chinhphu.vn |date=2025-06-20 |title=Nghị quyết số 1676/NQ-UBTVQH15 sắp xếp các ĐVHC cấp xã của tỉnh Phú Thọ năm 2025 |url=https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-1676-nq-ubtvqh15-sap-xep-cac-dvhc-cap-xa-cua-tinh-phu-tho-nam-2025-119250616204317326.htm |url-status=live |archive-url=http://web.archive.org/web/20260725082021/https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-1676-nq-ubtvqh15-sap-xep-cac-dvhc-cap-xa-cua-tinh-phu-tho-nam-2025-119250616204317326.htm |archive-date=2026-07-25 |access-date=2025-09-07 |website=Báo Điện tử Chính phủ |language=vi}}</ref> Theo đó, sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của các xã Tiên Du, An Đạo và Bình Phú thành xã mới có tên gọi là '''xã Bình Phú'''.
+Sau khi thực hiện sắp xếp, xã Bình Phú được chia thành 36 khu: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11 (xã An Đạo cũ), 1, 2, 3, 4, 5 (xã Bình Phú cũ), 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 (xã Tiên Du cũ), Chung Dầu, Đình, Gai Hạ, Long Châu, Lũng Hàng, Ngọc, Răm, Tranh Ngoài, Tranh Trong, Xóm Cầu.<ref>{{Chú thích web |last=Ủy ban nhân dân xã Bình Phú |date=2026-01-26 |title=Quyết định số 53/QĐ-UBND về việc thành lập các khu vực bỏ phiếu bầu cử đại biểu Quốc hội khóa XVI và đại biểu Hội đồng nhân dân các cấp nhiệm kỳ 2026 - 2031 trên địa bàn xã Bình Phú |url=https://binhphu.phutho.gov.vn/tu-lieu/he-thong-van-ban/quyet-dinh-ve-viec-thanh-lap-cac-khu-vuc-bo-phieu-bau-cu-dai-bieu-quoc-hoi-khoa-xvi-va-dai-bieu-hoi-dong-nhan-dan-cac-cap-nhiem-ky-2026-2031-tren-dia-ban-xa-binh-phu/?gidzl=5nqNS09_TGWJ0XDs1sTm31m67tCHPorP1LSP8aCyBri6Lq0cGpOd3WLJ4duVD7HLMWGJApKZKrT91tvn2W |url-status=live |archive-url=https://web.archive.org/web/20260417090807/https://binhphu.phutho.gov.vn/tu-lieu/he-thong-van-ban/quyet-dinh-ve-viec-thanh-lap-cac-khu-vuc-bo-phieu-bau-cu-dai-bieu-quoc-hoi-khoa-xvi-va-dai-bieu-hoi-dong-nhan-dan-cac-cap-nhiem-ky-2026-2031-tren-dia-ban-xa-binh-phu/?gidzl=5nqNS09_TGWJ0XDs1sTm31m67tCHPorP1LSP8aCyBri6Lq0cGpOd3WLJ4duVD7HLMWGJApKZKrT91tvn2W |archive-date=2026-04-17 |access-date=2026-04-17 |website=Trang Thông tin điện tử xã Bình Phú - tỉnh Phú Thọ}}</ref>
+
+Ngày [[19 tháng 6]] năm [[2026]], Hội đồng nhân dân xã Bình Phú ban hành Nghị quyết số 18/NQ-HĐND về việc sắp xếp, đổi tên thôn trên địa bàn xã Bình Phú.<ref name=":0" /> Theo đó:
+
+* Sắp xếp toàn bộ diện tích tự nhiên, số hộ dân của hai khu 1 và 2 (xã Tiên Du cũ) thành thôn mới có tên gọi là thôn 1.
+* Sắp xếp toàn bộ diện tích tự nhiên, số hộ dân của hai khu 3 và 4 (xã Tiên Du cũ) thành thôn mới có tên gọi là thôn 2.
+* Sắp xếp toàn bộ diện tích tự nhiên, số hộ dân của hai khu 5 và 6 (xã Tiên Du cũ) thành thôn mới có tên gọi là thôn 3.
+* Sắp xếp toàn bộ diện tích tự nhiên, số hộ dân của ba khu 8, 9 và 10 (xã Tiên Du cũ) thành thôn mới có tên gọi là thôn 5.
+* Sắp xếp toàn bộ diện tích tự nhiên, số hộ dân của hai khu 1 và 2 (xã An Đạo cũ) thành thôn mới có tên gọi là thôn 11.
+* Sắp xếp toàn bộ diện tích tự nhiên, số hộ dân của hai khu 6 và 10 (xã An Đạo cũ) thành thôn mới có tên gọi là thôn 8.
+* Sắp xếp toàn bộ diện tích tự nhiên, số hộ dân của hai khu 1 và 2 (xã Bình Phú cũ) thành thôn mới có tên gọi là thôn Bình Minh.
+* Sắp xếp toàn bộ diện tích tự nhiên, số hộ dân của hai khu 3 và 4 (xã An Đạo cũ) thành thôn mới có tên gọi là thôn 10.
+* Sắp xếp toàn bộ diện tích tự nhiên, số hộ dân của hai khu 7 và 11 (xã An Đạo cũ) thành thôn mới có tên gọi là thôn 6.
+* Sắp xếp toàn bộ diện tích tự nhiên, số hộ dân của hai khu 8 và 9 (xã An Đạo cũ) thành thôn mới có tên gọi là thôn 9.
+* Sắp xếp toàn bộ diện tích tự nhiên, số hộ dân của hai khu 3 và 4 (xã Bình Phú cũ) thành thôn mới có tên gọi là thôn Quyết Tiến.
+* Chuyển ba khu 7 (xã Tiên Du cũ), 5 (xã An Đạo cũ), 5 (xã Bình Phú cũ) lần lượt thành ba thôn 4, 7, Bình Bộ.
+* Chuyển các khu Chung Dầu, Đình, Gai Hạ, Long Châu, Lũng Hàng, Ngọc, Răm, Tranh Ngoài, Tranh Trong, Xóm Cầu thành các thôn tương ứng.
+
+Sau khi thực hiện sắp xếp, đổi tên thôn, xã Bình Phú được chia thành 24 thôn: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, Bình Bộ, Bình Minh, Chung Dầu, Đình, Gai Hạ, Long Châu, Lũng Hàng, Ngọc, Quyết Tiến, Răm, Tranh Ngoài, Tranh Trong, Xóm Cầu.<ref name=":0" />
+<!-- 
+== Lịch sử ==
+An Đạo là xã giàu truyền thống cách mạng.
+
+Trải qua các bước thăng trầm của lịch sử, địa giới hành chính và tên gọi của xã An Đạo có nhiều thay đổi.
+
+Thời đại dựng nước Văn Lang - Âu Lạc, xã An Đạo thuộc huyện Mê Linh, quận Giao Chỉ.
+
+Thời kỳ Bắc thuộc, An Đạo thuộc huyện Thừa Hoá, quận Phong Châu.
+
+Thời kỳ nhà Trần thuộc huyện Phù Ninh, phủ Tam Đái, trấn Sơn Tây.
+
+Thời nhà Nguyễn, huyện Phù Ninh đổi thành huyện Phù Khang, phủ Tam Đái, trấn Sơn Tây.
+
+Năm Minh Mạng thứ 13 (1832), An Đạo thuộc huyện Phù Khang, phủ Đoan Hùng và năm Tự Đức thứ 6 (1853) chuyển về phủ Lâm Thao, tỉnh Sơn Tây.
+
+Năm 1903, tỉnh Hưng Hoá được thành lập xã An Đạo lúc này thuộc huyện Phù Ninh, tỉnh Hưng Hoá.
+
+Trước cách mạng tháng 8 năm 1945, An Đạo còn gọi là làng Dốc (Kẻ Dốc).
+
+Cách mạng tháng 8 thành công.
+
+Năm 1946, thực hiện sự chỉ đạo của cấp trên, huyện Phù Ninh từ 5 tổng, 40 làng hợp nhất thành 12 liên xã. Các làng An Đạo, Tử Đà, Bình Bộ hợp nhất thành xã Nguyễn Huệ.
+
+Khi tiến hành cải cách ruộng đất năm 1954, thực hiện chủ trương của Nhà nước, xã Nguyễn Huệ được chia thành 3 xã: An Đạo, Tử Đà, Bình Bộ.
+
+Năm 1968, hai tỉnh Vĩnh Phúc và Phú Thọ hợp nhất thành tỉnh Vĩnh Phú, xã An Đạo thuộc huyện Phù Ninh tỉnh Phú Thọ.
+
+Ngày 5 tháng 7 năm 1977, theo quyết định số 178/CP của Hội đồng Chính phủ, hai huyện Lâm Thao và Phù Ninh sáp nhật thành huyện Phong Châu, xã An Đạo thuộc huyện Phong Châu, tỉnh Vĩnh Phú.
+
+Tháng 1 năm 1997, Vĩnh Phú chia tách thành 2 tỉnh Vĩnh Phúc và Phú Thọ, xã An Đạo thuộc huyện Phong Châu, tỉnh Phú Thọ. Năm 1999 huyện Phong Châu được chia tách thành 2 huyện Lâm Thao và Phù Ninh, xã An Đạo thuộc huyện Phù Ninh, tỉnh Phú Thọ. 
+-->
+
+==Chú thích==
+{{tham khảo}}
+
+==Tham khảo==
+{{sơ khai Phú Thọ}}
+{{Đơn vị hành chính thuộc tỉnh Phú Thọ}}

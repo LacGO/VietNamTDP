@@ -1,0 +1,72 @@
+{
+  "ward_code": "04924",
+  "ward_name": "Lương Sơn",
+  "province_code": "25",
+  "resolution": "",
+  "arrangement": "truoc_2026_07",
+  "effective_date": "",
+  "verified": "unverified",
+  "extraction": {
+    "source": "vi.wikipedia.org",
+    "title": "Lương Sơn, Phú Thọ",
+    "mode": "narrative"
+  },
+  "sources": [
+    {
+      "key": "wiki-04924-1",
+      "title": "Nghị quyết số 2/NQ-UBBC về việc công bố danh sách các ứng cử viên Hội đồng nhân dân xã Lương Sơn nhiệm kỳ 2026 - 2031 theo từng đơn vị bầu cử",
+      "url": "https://luongson.phutho.gov.vn/images/Nghi%CC%A3_quye%CC%82%CC%81t_co%CC%82ng_bo%CC%82%CC%81_danh_sa%CC%81ch_u%CC%9B%CC%81ng_cu%CC%9B%CC%89_vie%CC%82n_H%C4%90ND_xa%CC%83.pdf",
+      "date": "2026-02-24",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-04924-2",
+      "title": "Nghị quyết số 830/NQ-UBTVQH14 của ỦY BAN THƯỜNG VỤ QUỐC HỘI: Về việc sắp xếp các đơn vị hành chính cấp huyện, cấp xã thuộc tỉnh Hòa Bình",
+      "url": "https://vanban.chinhphu.vn/default.aspx?pageid=27160&docid=198695",
+      "date": "2026-07-23",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-04924-3",
+      "title": "Nghị quyết số 111/2025/UBTVQH15 về phân loại đô thị",
+      "url": "https://xaydungchinhsach.chinhphu.vn/nghi-quyet-so-111-2025-ubtvqh15-ve-phan-loai-do-thi-119260101170432239.htm",
+      "date": "2026-01-21",
+      "type": "wikipedia-ref"
+    }
+  ],
+  "note": "Trích tự động từ Wikipedia tiếng Việt (mode=narrative). Cần đối chiếu nghị quyết HĐND phường/xã. ⚠️ Danh mục có thể là hiện trạng TRƯỚC sắp xếp thôn/TDP 01/7/2026 — Wikipedia chưa cập nhật nghị quyết mới.",
+  "tdp": [
+    {
+      "name": "Đồng Gạo",
+      "type": "xóm"
+    },
+    {
+      "name": "Rổng Vòng",
+      "type": "xóm"
+    },
+    {
+      "name": "Rổng Tằm",
+      "type": "xóm"
+    },
+    {
+      "name": "Rổng Cấn",
+      "type": "xóm"
+    },
+    {
+      "name": "Lam Sơn",
+      "type": "xóm"
+    },
+    {
+      "name": "Đòan Kết",
+      "type": "xóm"
+    },
+    {
+      "name": "Kẽm",
+      "type": "xóm"
+    },
+    {
+      "name": "Dốc Phấn",
+      "type": "xóm"
+    }
+  ]
+}

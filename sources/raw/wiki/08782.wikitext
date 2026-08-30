@@ -1,0 +1,68 @@
+{{Thông tin đơn vị hành chính Việt Nam | xã
+| tên = Hải Lựu
+| hình =Choi trau Hai Luu.jpg 
+| ghi chú hình =Lễ hội chọi trâu tại xã Hải Lựu 
+| vĩ độ = 21.46125799912751
+| kinh độ = 105.34415961335867
+| diện tích = 10,23 km²<ref name=MS/>
+| dân số = 30.098 người<ref name=MS/>
+| thời điểm dân số = 2025
+| mật độ dân số = {{formatnum:{{#expr:floor({{formatnum:30.098| R}}/{{formatnum:10,23| R}})}} }} người/km²
+| vùng = [[Đông Bắc Bộ]]
+| tỉnh = [[Phú Thọ]]
+| thành lập = 1965<ref>126/1965/QĐ-NV</ref>
+| trụ sở UBND =Thôn Hòa Bình 
+| mã hành chính = 08782<ref>{{Chú thích web |url=https://danhmuchanhchinh.gso.gov.vn/ |title=Tổng cục Thống kê |access-date=2022-04-10 |archive-date=2021-01-10 |archive-url=https://web.archive.org/web/20210110034519/https://www.gso.gov.vn/phuong-phap-thong-ke/danh-muc/don-vi-hanh-chinh/ |url-status=dead }}</ref>
+| mã bưu chính =15512 
+|web= {{url|hailuu.phutho.gov.vn}}
+}}
+
+'''Hải Lựu''' là một [[Xã (Việt Nam)|xã]] thuộc tỉnh [[Phú Thọ]], [[Việt Nam]].
+
+== Địa lý ==
+Xã Hải Lựu nằm ở phía Bắc tỉnh Phú Thọ, có vị trí địa lý<ref>{{Chú thích web |title=Đơn vị hành chính Việt Nam |url=https://sapnhap.bando.com.vn/ |access-date=2026-06-04 |website=sapnhap.bando.com.vn}}</ref>:
+
+* Phía Bắc giáp xã [[Trường Sinh]], tỉnh [[Tuyên Quang]] và xã [[Yên Lãng, Phú Thọ|Yên Lãng]].
+* Phía Nam và Tây Nam giáp xã [[Bình Phú, Phú Thọ|Bình Phú]] với ranh giới là [[sông Lô]].
+* Phía Tây giáp xã [[Dân Chủ]] với ranh giới là sông Lô.
+* Phía Đông giáp xã [[Tam Sơn (xã)|Tam Sơn]].
+
+Xã Hải Lựu có diện tích 38,80 km², dân số năm 2025 là 30.098 người, mật độ dân số đạt 776 người/km².<ref>{{Chú thích web |title=Xã Hải Lựu, Tỉnh Phú Thọ mới sáp nhập 2026 |url=https://tinhthanhvn.com/province/phu-tho/xa-hai-luu |access-date=2026-06-04 |website=Tỉnh Thành Việt Nam |language=vi}}</ref>
+
+== Hành chính ==
+Xã Hải Lựu được chia thành 45 thôn: Anh Dũng, Chiến Thắng, Dân Chủ (xã Đôn Nhân cũ), Dân Chủ (xã Hải Lựu cũ), Dân Chủ (xã Phương Khoan cũ), Dừa Cả, Đại Minh, Đại Nghĩa, Đôn Mục, Đồng Dừa, Đồng Tâm (xã Hải Lựu cũ), Đồng Tâm (xã Nhân Đạo cũ), Đồng Tâm (xã Phương Khoan cũ), Gò Dài, Hạ, Hòa Bình (xã Đôn Nhân cũ), Hòa Bình (xã Hải Lựu cũ), Hồng Đường, Hồng Sen, Hồng Sinh, Hùng Mạnh, Khoan Bộ, Làng Len, Lê Lợi, Lê Xoay, Liên Kết, Minh Tân, Ngạc Tân, Ngạc Thị, Quyết Tiến, Tân Lập, Tân Tiến, Thắng Lợi, Thống Nhất (xã Nhân Đạo cũ), Thống Nhất (xã Hải Lựu cũ), Thống Nhất (xã Phương Khoan cũ), Thượng, Tiến Bộ, Tiền Phong, Trần Phú, Trung, Trung Hòa, Trung Kiên (xã Đôn Nhân cũ), Trung Kiên (xã Hải Lựu cũ), Xóm Làng.<ref name=":1">{{Chú thích web |last=Bộ Dân tộc và Tôn giáo |date=2026-01-29 |title=Danh sách Thôn vùng đồng bào dân tộc thiểu số và miền núi, thôn đặc biệt khó khăn giai đoạn 2026 - 2030 trên địa bàn tỉnh Phú Thọ |url=http://files.ubdt.gov.vn/files/ecm/source_files/2026/02/05/11252411_4.%20Ph%C3%BA%20Th%E1%BB%8D%201%20(th%C3%B4n).signed_26-02-05.pdf |url-status=live |archive-url=https://web.archive.org/web/20260417090807/http://files.ubdt.gov.vn/files/ecm/source_files/2026/02/05/11252411_4.%20Ph%C3%BA%20Th%E1%BB%8D%201%20(th%C3%B4n).signed_26-02-05.pdf |archive-date=2026-04-17 |access-date=2026-04-17 |website=Cổng Thông tin điện tử Bộ Dân tộc và Tôn giáo}}</ref><ref>{{Chú thích web |last=Trang Thông tin điện tử xã Hải Lựu |date=2026-03-11 |title=Ủy ban nhân dân xã Hải Lựu thông báo về thời gian, địa điểm bỏ phiếu bầu cử đại biểu Quốc hội khóa XVI và Hội đồng nhân dân các cấp nhiệm kỳ 2026 - 2031 |url=https://hailuu.phutho.gov.vn/index.php/tha-ng-tin-tuya-n-truya-n/3599-uy-ban-nhan-dan-xa-hai-luu-thong-bao-ve-thoi-gian-dia-diem-bo-phieu-bau-cu-dai-bieu-quoc-hoi-khoa-xvi-va-hoi-dong-nhan-dan-cac-cap-nhiem-ky-2026-2031 |url-status=live |archive-url=https://web.archive.org/web/20260420090807/https://hailuu.phutho.gov.vn/index.php/tha-ng-tin-tuya-n-truya-n/3599-uy-ban-nhan-dan-xa-hai-luu-thong-bao-ve-thoi-gian-dia-diem-bo-phieu-bau-cu-dai-bieu-quoc-hoi-khoa-xvi-va-hoi-dong-nhan-dan-cac-cap-nhiem-ky-2026-2031 |archive-date=2026-04-20 |access-date=2026-04-20}}</ref>
+
+==Lịch sử==
+Trước kia, Hải Lựu là một xã thuộc huyện [[Sông Lô (huyện Vĩnh Phúc)|Sông Lô]], tỉnh [[Vĩnh Phúc (tỉnh)|Vĩnh Phúc]] cũ.
+
+Sau [[Cách mạng tháng Tám|Cách mạng Tháng Tám]], xã Hải Lựu được đổi tên thành xã Hồng Phong.
+
+Năm [[1979]], Hội đồng Chính phủ ban hành Quyết định 71-CP về việc tái lập huyện [[Lập Thạch (huyện)|Lập Thạch]] từ một phần huyện [[Tam Đảo (huyện)|Tam Đảo]], xã Hải Lựu thuộc huyện Lập Thạch.
+
+Ngày [[23 tháng 12]] năm [[2008]], Chính phủ bàn hành Nghị quyết 09/NĐ-CP về việc chuyển các xã Bạch Lưu, Hải Lựu, Nhân Đạo, Phương Khoan, Đôn Nhân và một số xã, thị trấn khác về huyện [[Sông Lô (huyện Vĩnh Phúc)|Sông Lô]] mới thành lập.
+
+Ngày [[14 tháng 11]] năm [[2024]], [[Ủy ban Thường vụ Quốc hội]] ban hành Nghị quyết 1287/NQ-UBTVQH15 về việc sắp xếp đơn vị hành chính cấp xã thuộc tỉnh Vĩnh Phúc giai đoạn 2023–2025 (nghị quyết có hiệu lực từ ngày [[1 tháng 1]] năm [[2025]]).<ref name="NQ1287">{{Chú thích web |last= |first= |date= |title=Nghị quyết số 1287/NQ-UBTVQH15 của UBTVQH Về việc sắp xếp đơn vị hành chính cấp xã của tỉnh Vĩnh Phúc giai đoạn 2023 – 2025 |url=https://quochoi.vn/tintuc/Pages/tin-hoat-dong-cua-quoc-hoi.aspx?ItemID=91157 |url-status=dead |archive-url=https://web.archive.org/web/20241121153739/https://quochoi.vn/tintuc/Pages/tin-hoat-dong-cua-quoc-hoi.aspx?ItemID=91157 |archive-date=2024-11-21 |access-date= |website=}}</ref> Theo đó, sáp nhập toàn bộ diện tích tự nhiên, quy mô dân số của xã Bạch Lưu vào xã Hải Lựu.
+
+Ngày [[12 tháng 6]] năm [[2025]], [[Quốc hội Việt Nam|Quốc hội]] ban hành Nghị quyết số 202/2025/QH15 về việc sắp xếp đơn vị hành chính cấp tỉnh (nghị quyết có hiệu lực từ ngày [[12 tháng 6]] năm [[2025]]).<ref>{{Chú thích web |last=xaydungchinhsach.chinhphu.vn|date=2025-07-16|title=TOÀN VĂN: Nghị quyết số 202/2025/QH15 về sắp xếp đơn vị hành chính cấp tỉnh|url=https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-202-2025-qh15-ve-sap-xep-don-vi-hanh-chinh-cap-tinh-119250612174148722.htm|url-status=live|archive-url=http://web.archive.org/web/20260705025431/https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-202-2025-qh15-ve-sap-xep-don-vi-hanh-chinh-cap-tinh-119250612174148722.htm|archive-date=2026-07-05|access-date=2026-07-25|website=Báo Điện tử Chính phủ|language=vi}}</ref> Theo đó, sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của tỉnh [[Vĩnh Phúc (tỉnh)|Vĩnh Phúc]], tỉnh [[Hòa Bình (tỉnh)|Hòa Bình]] và tỉnh [[Phú Thọ]] thành tỉnh mới có tên gọi là tỉnh '''Phú Thọ'''.
+
+Ngày [[16 tháng 6]] năm [[2025]]:
+
+* Quốc hội ban hành Nghị quyết số 203/2025/QH15 về việc sửa đổi, bổ sung một số điều của Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam (nghị quyết có hiệu lực từ ngày [[16 tháng 6]] năm [[2025]]).<ref>{{Chú thích web |last=xaydungchinhsach.chinhphu.vn|date=2025-06-28|title=NGHỊ QUYẾT 203/2025/QH15 SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA HIẾN PHÁP NƯỚC CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM|url=https://xaydungchinhsach.chinhphu.vn/nghi-quyet-203-2025-qh15-sua-doi-bo-sung-mot-so-dieu-cua-hien-phap-nuoc-cong-hoa-xa-hoi-chu-nghia-viet-nam-119250616181735552.htm|url-status=live|archive-url=http://web.archive.org/web/20260715200606/https://xaydungchinhsach.chinhphu.vn/nghi-quyet-203-2025-qh15-sua-doi-bo-sung-mot-so-dieu-cua-hien-phap-nuoc-cong-hoa-xa-hoi-chu-nghia-viet-nam-119250616181735552.htm|archive-date=2026-07-15|access-date=2026-07-15|website=Báo Điện tử Chính phủ|language=vi}}</ref> Theo đó, kết thúc hoạt động của đơn vị hành chính cấp huyện trong cả nước từ ngày 1 tháng 7 năm 2025.
+* Ủy ban Thường vụ Quốc hội ban hành Nghị quyết số 1676/NQ-UBTVQH15 về việc sắp xếp đơn vị hành chính cấp xã của tỉnh [[Phú Thọ]] năm 2025 (nghị quyết có hiệu lực từ ngày [[16 tháng 6]] năm [[2025]]).<ref>{{Chú thích web |last=xaydungchinhsach.chinhphu.vn |date=2025-06-20 |title=Nghị quyết số 1676/NQ-UBTVQH15 sắp xếp các ĐVHC cấp xã của tỉnh Phú Thọ năm 2025 |url=https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-1676-nq-ubtvqh15-sap-xep-cac-dvhc-cap-xa-cua-tinh-phu-tho-nam-2025-119250616204317326.htm |url-status=live |archive-url=http://web.archive.org/web/20260725082021/https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-1676-nq-ubtvqh15-sap-xep-cac-dvhc-cap-xa-cua-tinh-phu-tho-nam-2025-119250616204317326.htm |archive-date=2026-07-25 |access-date=2026-07-27 |website=Báo Điện tử Chính phủ |language=vi}}</ref> Theo đó, sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của các xã Nhân Đạo, Đôn Nhân, Phương Khoan và Hải Lựu thành xã mới có tên gọi là '''xã Hải Lựu'''.<ref>[https://xaydungchinhsach.chinhphu.vn/sap-xep-dvhc-danh-sach-148-xa-phuong-cua-tinh-phu-tho-119250623074347981.htm Danh sách 148 xã, phường của tỉnh Phú Thọ mới]</ref>
+
+==Văn hoá, lễ hội==
+{{Chính|Lễ hội chọi trâu Hải Lựu}}
+Lễ hội chọi trâu Hải Lựu là lễ hội chọi trâu cổ xưa nhất Việt Nam. Nét văn hóa độc đáo của chọi trâu Hải Lựu khác với lễ hội chọi trâu ở nơi khác vì tại Hải Lựu các "đấu sĩ trâu" được các tập thể cùng tham gia nuôi dưỡng, huấn luyện đã gắn bó lâu đời với nhau.
+
+Ngoài ra, nơi đây còn có một số ngôi Chùa và Đình cổ. Hai trong số chúng nằm tại thôn Nhân Lạc.
+
+==Danh nhân==
+*[[Hà Văn Chúc]] ([[1938]]-[[1968]]): Một phi công đã một mình đương đầu với một phi đội máy bay của [[Không quân Hoa Kỳ]].
+*[[Nguyễn Thị Hương (vận động viên canoeing)]]
+
+==Chú thích==
+{{tham khảo}}
+
+== Tham khảo ==
+{{sơ khai Phú Thọ}}
+{{Đơn vị hành chính thuộc tỉnh Phú Thọ}}

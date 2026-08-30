@@ -1,0 +1,308 @@
+{
+  "ward_code": "08038",
+  "ward_name": "Chân Mộng",
+  "province_code": "25",
+  "resolution": "",
+  "arrangement": "truoc_2026_07",
+  "effective_date": "",
+  "verified": "unverified",
+  "extraction": {
+    "source": "vi.wikipedia.org",
+    "title": "Chân Mộng",
+    "mode": "narrative"
+  },
+  "sources": [
+    {
+      "key": "wiki-08038-1",
+      "title": "Danh sách chính thức những người ứng cử đại biểu Hội đồng nhân dân xã Chân Mộng, nhiệm kỳ 2026 - 2031",
+      "url": "https://chanmong.phutho.gov.vn/index.php/tin-t-c-s-ki-n/chinh-tr/3606-danh-sach-chinh-thuc-nhung-nguoi-ung-cu-dai-bieu-hoi-dong-nhan-dan-xa-chan-mong-nhiem-ky-2026-2031",
+      "date": "2026-03-15",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-08038-2",
+      "title": "Danh sách Thôn vùng đồng bào dân tộc thiểu số và miền núi, thôn đặc biệt khó khăn giai đoạn 2026 - 2030 trên địa bàn tỉnh Phú Thọ",
+      "url": "http://files.ubdt.gov.vn/files/ecm/source_files/2026/02/05/11252411_4.%20Ph%C3%BA%20Th%E1%BB%8D%201%20(th%C3%B4n).signed_26-02-05.pdf",
+      "date": "2026-01-29",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-08038-3",
+      "title": "NGHỊ QUYẾT 203/2025/QH15 SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA HIẾN PHÁP NƯỚC CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM",
+      "url": "https://xaydungchinhsach.chinhphu.vn/nghi-quyet-203-2025-qh15-sua-doi-bo-sung-mot-so-dieu-cua-hien-phap-nuoc-cong-hoa-xa-hoi-chu-nghia-viet-nam-119250616181735552.htm",
+      "date": "2025-06-28",
+      "type": "wikipedia-ref"
+    }
+  ],
+  "note": "Trích tự động từ Wikipedia tiếng Việt (mode=narrative). Cần đối chiếu nghị quyết HĐND phường/xã. ⚠️ Danh mục có thể là hiện trạng TRƯỚC sắp xếp thôn/TDP 01/7/2026 — Wikipedia chưa cập nhật nghị quyết mới.",
+  "tdp": [
+    {
+      "name": "1 Chân Mộng",
+      "type": "khu"
+    },
+    {
+      "name": "2 Chân Mộng",
+      "type": "khu"
+    },
+    {
+      "name": "3 Chân Mộng",
+      "type": "khu"
+    },
+    {
+      "name": "4 Chân Mộng",
+      "type": "khu"
+    },
+    {
+      "name": "5 Chân Mộng",
+      "type": "khu"
+    },
+    {
+      "name": "6 Chân Mộng",
+      "type": "khu"
+    },
+    {
+      "name": "7 Chân Mộng",
+      "type": "khu"
+    },
+    {
+      "name": "1A Minh Phú",
+      "type": "khu"
+    },
+    {
+      "name": "1B Minh Phú",
+      "type": "khu"
+    },
+    {
+      "name": "2 Minh Phú",
+      "type": "khu"
+    },
+    {
+      "name": "3 Minh Phú",
+      "type": "khu"
+    },
+    {
+      "name": "4 Minh Phú",
+      "type": "khu"
+    },
+    {
+      "name": "5 Minh Phú",
+      "type": "khu"
+    },
+    {
+      "name": "6 Minh Phú",
+      "type": "khu"
+    },
+    {
+      "name": "7 Minh Phú",
+      "type": "khu"
+    },
+    {
+      "name": "8 Minh Phú",
+      "type": "khu"
+    },
+    {
+      "name": "9 Minh Phú",
+      "type": "khu"
+    },
+    {
+      "name": "10 Minh Phú",
+      "type": "khu"
+    },
+    {
+      "name": "1 Minh Tiến",
+      "type": "khu"
+    },
+    {
+      "name": "2 Minh Tiến",
+      "type": "khu"
+    },
+    {
+      "name": "3 Minh Tiến",
+      "type": "khu"
+    },
+    {
+      "name": "4 Minh Tiến",
+      "type": "khu"
+    },
+    {
+      "name": "5 Minh Tiến",
+      "type": "khu"
+    },
+    {
+      "name": "1 Tiêu Sơn",
+      "type": "khu"
+    },
+    {
+      "name": "2 Tiêu Sơn",
+      "type": "khu"
+    },
+    {
+      "name": "3 Tiêu Sơn",
+      "type": "khu"
+    },
+    {
+      "name": "4 Tiêu Sơn",
+      "type": "khu"
+    },
+    {
+      "name": "5 Tiêu Sơn",
+      "type": "khu"
+    },
+    {
+      "name": "6 Tiêu Sơn",
+      "type": "khu"
+    },
+    {
+      "name": "7 Tiêu Sơn",
+      "type": "khu"
+    },
+    {
+      "name": "8 Tiêu Sơn",
+      "type": "khu"
+    },
+    {
+      "name": "9 Tiêu Sơn",
+      "type": "khu"
+    },
+    {
+      "name": "1 Vân Đồn",
+      "type": "khu"
+    },
+    {
+      "name": "2 Vân Đồn",
+      "type": "khu"
+    },
+    {
+      "name": "3 Vân Đồn",
+      "type": "khu"
+    },
+    {
+      "name": "4 Vân Đồn",
+      "type": "khu"
+    },
+    {
+      "name": "5 Vân Đồn",
+      "type": "khu"
+    },
+    {
+      "name": "6 Vân Đồn",
+      "type": "khu"
+    },
+    {
+      "name": "7 Vân Đồn",
+      "type": "khu"
+    },
+    {
+      "name": "8 Vân Đồn",
+      "type": "khu"
+    },
+    {
+      "name": "9 Vân Đồn",
+      "type": "khu"
+    },
+    {
+      "name": "10 Vân Đồn",
+      "type": "khu"
+    },
+    {
+      "name": "11 Vân Đồn",
+      "type": "khu"
+    },
+    {
+      "name": "1 Vụ Quang",
+      "type": "khu"
+    },
+    {
+      "name": "2 Vụ Quang",
+      "type": "khu"
+    },
+    {
+      "name": "3 Vụ Quang",
+      "type": "khu"
+    },
+    {
+      "name": "4 Vụ Quang",
+      "type": "khu"
+    },
+    {
+      "name": "5 Vụ Quang",
+      "type": "khu"
+    },
+    {
+      "name": "6 Vụ Quang",
+      "type": "khu"
+    },
+    {
+      "name": "7 Vụ Quang",
+      "type": "khu"
+    },
+    {
+      "name": "8 Vụ Quang",
+      "type": "khu"
+    },
+    {
+      "name": "1 Yên Kiện",
+      "type": "khu"
+    },
+    {
+      "name": "2 Yên Kiện",
+      "type": "khu"
+    },
+    {
+      "name": "3 Yên Kiện",
+      "type": "khu"
+    },
+    {
+      "name": "4 Yên Kiện",
+      "type": "khu"
+    },
+    {
+      "name": "5 Yên Kiện",
+      "type": "khu"
+    },
+    {
+      "name": "6 Yên Kiện",
+      "type": "khu"
+    },
+    {
+      "name": "7 Yên Kiện",
+      "type": "khu"
+    },
+    {
+      "name": "8 Yên Kiện",
+      "type": "khu"
+    },
+    {
+      "name": "9 Yên Kiện",
+      "type": "khu"
+    },
+    {
+      "name": "An Thọ Hùng Long",
+      "type": "khu"
+    },
+    {
+      "name": "An Việt Hùng Long",
+      "type": "khu"
+    },
+    {
+      "name": "Đồng Bích Hùng Long",
+      "type": "khu"
+    },
+    {
+      "name": "Đồng Ao Hùng Long",
+      "type": "khu"
+    },
+    {
+      "name": "Tân Minh Hùng Long",
+      "type": "khu"
+    },
+    {
+      "name": "Tiền Phong Hùng Long",
+      "type": "khu"
+    },
+    {
+      "name": "Việt Hưng Hùng Long",
+      "type": "khu"
+    }
+  ]
+}

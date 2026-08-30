@@ -1,0 +1,57 @@
+{{other|Văn Lang (định hướng)}}
+{{Thông tin đơn vị hành chính Việt Nam | Xã
+| tên = Văn Lang
+| hình = 
+| ghi chú hình = 
+| vĩ độ = 21
+| kinh độ = 105
+| vĩ phút = 31
+| vĩ giây = 10
+| kinh phút = 0
+| kinh giây = 21
+| diện tích = 54,06 km²<ref name=MS/>
+| dân số = 17.949 người<ref name=MS/>
+| thời điểm dân số = 2025
+| mật độ dân số = {{formatnum:{{#expr:floor({{formatnum:17.949|R}}/{{formatnum:54,06|R}})}} }} người/km²
+| dân tộc = 
+| vùng = [[Đông Bắc Bộ]]
+| tỉnh = [[Phú Thọ]]
+| thành lập =16 tháng 6 năm 2025<ref>Nghị quyết số 1676/NQ-UBTVQH15</ref> 
+| trụ sở UBND =Khu 4 (xã Văn Lang cũ) 
+| mã hành chính = 08134<ref>{{Chú thích web |url=https://danhmuchanhchinh.gso.gov.vn/ |title=Tổng cục Thống kê |access-date=2022-04-10 |archive-date=2021-01-10 |archive-url=https://web.archive.org/web/20210110034519/https://www.gso.gov.vn/phuong-phap-thong-ke/danh-muc/don-vi-hanh-chinh/ |url-status=dead }}</ref>
+| mã bưu chính =35426 
+|web={{url|https://vanlang.phutho.gov.vn/}}}}
+
+'''Văn Lang''' là một [[Xã (Việt Nam)|xã]] thuộc tỉnh [[Phú Thọ]], [[Việt Nam]].
+
+== Địa lý ==
+Xã Văn Lang nằm ở phía Tây Bắc tỉnh [[Phú Thọ]], có vị trí địa lý<ref>{{Chú thích web |title=Đơn vị hành chính Việt Nam |url=https://sapnhap.bando.com.vn/ |access-date=2026-07-15 |website=sapnhap.bando.com.vn}}</ref>:
+
+* Phía Bắc giáp xã [[Hiền Lương]] và xã [[Hạ Hòa (xã)|Hạ Hòa]].
+* Phía Nam giáp xã [[Tiên Lương]].
+* Phía Tây giáp xã [[Sơn Lương, Phú Thọ|Sơn Lương]].
+* Phía Đông giáp xã [[Vĩnh Chân]].
+
+Xã có diện tích 54,06&nbsp;km², dân số năm 2025 là 17.949 người, mật độ dân số đạt {{formatnum:{{#expr:floor({{formatnum:17.949|R}}/{{formatnum:54,06|R}})}} }} người/km².<ref>{{Chú thích web |title=Xã Văn Lang, Tỉnh Phú Thọ mới sáp nhập 2026 |url=https://tinhthanhvn.com/province/phu-tho/xa-van-lang |access-date=2026-07-15 |website=Tỉnh Thành Việt Nam |language=vi}}</ref>
+
+== Hành chính ==
+Xã Văn Lang được chia thành 27 khu: 1, 2, 3, 4, 5, 6, 7, 8 (xã Bằng Giã cũ), 1, 2, 3, 4 (xã Minh Côi cũ), 1, 2, 3, 4, 5 (xã Văn Lang cũ), 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 (xã Vô Tranh cũ).<ref name=":1">{{Chú thích web |last=Bộ Dân tộc và Tôn giáo |date=2026-01-29 |title=Danh sách Thôn vùng đồng bào dân tộc thiểu số và miền núi, thôn đặc biệt khó khăn giai đoạn 2026 - 2030 trên địa bàn tỉnh Phú Thọ |url=http://files.ubdt.gov.vn/files/ecm/source_files/2026/02/05/11252411_4.%20Ph%C3%BA%20Th%E1%BB%8D%201%20(th%C3%B4n).signed_26-02-05.pdf |url-status=live |archive-url=https://web.archive.org/web/20260417090807/http://files.ubdt.gov.vn/files/ecm/source_files/2026/02/05/11252411_4.%20Ph%C3%BA%20Th%E1%BB%8D%201%20(th%C3%B4n).signed_26-02-05.pdf |archive-date=2026-04-17 |access-date=2026-04-17 |website=Cổng Thông tin điện tử Bộ Dân tộc và Tôn giáo}}</ref><ref>{{Chú thích web |last=Xã Văn Lang - Tỉnh Phú Thọ |date=2026-02-27 |title=Danh sách chính thức 31 người ứng cử đại biểu Hội đồng nhân dân xã Văn Lang khóa XXII, nhiệm kỳ 2026 - 2031 tại 05 đơn vị bầu cử |url=https://web.facebook.com/story.php?story_fbid=122159509616931548&id=61577946443443&rdid=HM6zKc71aKRekkEY# |url-status=live |archive-url=https://web.archive.org/web/20260426090807/https://web.facebook.com/story.php?story_fbid=122159509616931548&id=61577946443443&rdid=HM6zKc71aKRekkEY# |archive-date=2026-04-26 |access-date=2026-04-26}}</ref>
+
+== Lịch sử ==
+Trước kia, Văn Lang là một xã thuộc huyện [[Hạ Hòa (huyện)|Hạ Hòa]] cũ.
+
+Ngày [[16 tháng 6]] năm [[2025]]:
+
+* [[Quốc hội Việt Nam|Quốc hội]] ban hành Nghị quyết số 203/2025/QH15 về việc sửa đổi, bổ sung một số điều của Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam (nghị quyết có hiệu lực từ ngày [[16 tháng 6]] năm [[2025]]).<ref>{{Chú thích web |last=xaydungchinhsach.chinhphu.vn |date=2025-06-28 |title=NGHỊ QUYẾT 203/2025/QH15 SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA HIẾN PHÁP NƯỚC CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM |url=https://xaydungchinhsach.chinhphu.vn/nghi-quyet-203-2025-qh15-sua-doi-bo-sung-mot-so-dieu-cua-hien-phap-nuoc-cong-hoa-xa-hoi-chu-nghia-viet-nam-119250616181735552.htm |url-status=live |archive-url=http://web.archive.org/web/20260715200606/https://xaydungchinhsach.chinhphu.vn/nghi-quyet-203-2025-qh15-sua-doi-bo-sung-mot-so-dieu-cua-hien-phap-nuoc-cong-hoa-xa-hoi-chu-nghia-viet-nam-119250616181735552.htm |archive-date=2026-07-15 |access-date=2026-07-15 |website=Báo Điện tử Chính phủ |language=vi}}</ref> Theo đó, kết thúc hoạt động của đơn vị hành chính cấp huyện trong cả nước từ ngày 1 tháng 7 năm 2025.
+
+* [[Ủy ban Thường vụ Quốc hội]] ban hành Nghị quyết số 1676/NQ-UBTVQH15 về việc sắp xếp đơn vị hành chính cấp xã của tỉnh [[Phú Thọ]] năm 2025 (nghị quyết có hiệu lực từ ngày [[16 tháng 6]] năm [[2025]]).<ref>{{Chú thích web |last=xaydungchinhsach.chinhphu.vn |date=2025-06-20 |title=Nghị quyết số 1676/NQ-UBTVQH15 sắp xếp các ĐVHC cấp xã của tỉnh Phú Thọ năm 2025 |url=https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-1676-nq-ubtvqh15-sap-xep-cac-dvhc-cap-xa-cua-tinh-phu-tho-nam-2025-119250616204317326.htm |url-status=live |archive-url=http://web.archive.org/web/20260725082021/https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-1676-nq-ubtvqh15-sap-xep-cac-dvhc-cap-xa-cua-tinh-phu-tho-nam-2025-119250616204317326.htm |archive-date=2026-07-25 |access-date=2026-07-25 |website=Báo Điện tử Chính phủ |language=vi}}</ref> Theo đó, sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của các xã Vô Tranh, Bằng Giã, Minh Côi và Văn Lang thành xã mới có tên gọi là '''xã''' '''Văn Lang'''.
+
+== Chú thích ==
+{{tham khảo}}
+
+== Liên kết ngoài ==
+* [http://dantri.com.vn/su-kien/chet-cuoi-voi-ngoi-lang-van-lang-ca-lang-noi-khoac-615617.htm Chết cười với ngôi làng: "Văn Lang cả làng nói khoác"]
+
+== Tham khảo ==
+{{sơ khai Phú Thọ}}
+{{Đơn vị hành chính thuộc tỉnh Phú Thọ}}

@@ -1,0 +1,144 @@
+{
+  "ward_code": "08467",
+  "ward_name": "Vạn Xuân",
+  "province_code": "25",
+  "resolution": "",
+  "arrangement": "truoc_2026_07",
+  "effective_date": "",
+  "verified": "unverified",
+  "extraction": {
+    "source": "vi.wikipedia.org",
+    "title": "(cache)",
+    "mode": "narrative"
+  },
+  "sources": [
+    {
+      "key": "wiki-08467-1",
+      "title": "Quyết định số 2/QĐ-UBBC về việc ấn định đơn vị bầu cử và số đại biểu được bầu ở mỗi đơn vị bầu cử đại biểu Hội đồng nhân dân xã Vạn Xuân, nhiệm kỳ 2026 - 2031",
+      "url": "https://vanxuan.phutho.gov.vn/index.php/2013-12-13-01-52-02/3-van-ban-bau-cu",
+      "date": "2025-12-23",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-08467-2",
+      "title": "",
+      "url": "https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Nghi-quyet-828-NQ-UBTVQH14-2019-sap-xep-don-vi-hanh-chinh-cap-xa-thuoc-tinh-Phu-Tho-432098.aspx",
+      "date": "",
+      "type": "wikipedia-ref"
+    },
+    {
+      "key": "wiki-08467-3",
+      "title": "NGHỊ QUYẾT 203/2025/QH15 SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA HIẾN PHÁP NƯỚC CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM",
+      "url": "https://xaydungchinhsach.chinhphu.vn/nghi-quyet-203-2025-qh15-sua-doi-bo-sung-mot-so-dieu-cua-hien-phap-nuoc-cong-hoa-xa-hoi-chu-nghia-viet-nam-119250616181735552.htm",
+      "date": "2025-06-28",
+      "type": "wikipedia-ref"
+    }
+  ],
+  "note": "Trích tự động từ Wikipedia tiếng Việt (mode=narrative). Cần đối chiếu nghị quyết HĐND phường/xã. ⚠️ Danh mục có thể là hiện trạng TRƯỚC sắp xếp thôn/TDP 01/7/2026 — Wikipedia chưa cập nhật nghị quyết mới.",
+  "tdp": [
+    {
+      "name": "1",
+      "type": "khu"
+    },
+    {
+      "name": "2",
+      "type": "khu"
+    },
+    {
+      "name": "3",
+      "type": "khu"
+    },
+    {
+      "name": "4",
+      "type": "khu"
+    },
+    {
+      "name": "5",
+      "type": "khu"
+    },
+    {
+      "name": "6",
+      "type": "khu"
+    },
+    {
+      "name": "7",
+      "type": "khu"
+    },
+    {
+      "name": "8",
+      "type": "khu"
+    },
+    {
+      "name": "9",
+      "type": "khu"
+    },
+    {
+      "name": "10",
+      "type": "khu"
+    },
+    {
+      "name": "11",
+      "type": "khu"
+    },
+    {
+      "name": "12",
+      "type": "khu"
+    },
+    {
+      "name": "13",
+      "type": "khu"
+    },
+    {
+      "name": "14",
+      "type": "khu"
+    },
+    {
+      "name": "15 (xã Lam Sơn cũ)",
+      "type": "khu"
+    },
+    {
+      "name": "9 (xã Quang Húc cũ)",
+      "type": "khu"
+    },
+    {
+      "name": "15",
+      "type": "khu"
+    },
+    {
+      "name": "16",
+      "type": "khu"
+    },
+    {
+      "name": "17",
+      "type": "khu"
+    },
+    {
+      "name": "18",
+      "type": "khu"
+    },
+    {
+      "name": "19",
+      "type": "khu"
+    },
+    {
+      "name": "20",
+      "type": "khu"
+    },
+    {
+      "name": "21",
+      "type": "khu"
+    },
+    {
+      "name": "22",
+      "type": "khu"
+    },
+    {
+      "name": "23",
+      "type": "khu"
+    },
+    {
+      "name": "24 (xã Vạn Xuân cũ)",
+      "type": "khu"
+    }
+  ]
+}
