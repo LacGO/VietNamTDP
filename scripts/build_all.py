@@ -5,7 +5,8 @@ import sys
 import pathlib
 
 HERE = pathlib.Path(__file__).resolve().parent
-STEPS = ["build_admin.py", "build_mapping.py", "build_tdp.py", "build_nested.py", "build_sqlite.py"]
+STEPS = ["build_admin.py", "build_mapping.py", "build_tdp.py", "build_nested.py",
+         "build_sqlite.py", "gen_status.py", "gen_tdp_lists.py"]
 
 for s in STEPS:
     print(f"\n=== {s} ===")

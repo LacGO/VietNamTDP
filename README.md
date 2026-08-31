@@ -51,13 +51,21 @@ scripts/              # pipeline build (Python 3, không phụ thuộc thư vi�
 docs/
   STATUS.md                       # bảng theo dõi độ phủ TDP (sinh tự động)
   SOURCES.md                      # danh mục văn bản nguồn
+  danh-sach-tdp/
+    ha-noi.md                     # danh sách TDP chia theo 126 phường/xã Hà Nội
+    phu-tho.md                    # danh sách TDP chia theo 148 phường/xã Phú Thọ
 ```
+
+## Tra cứu nhanh
+
+- [docs/danh-sach-tdp/ha-noi.md](docs/danh-sach-tdp/ha-noi.md) — bảng TDP chia theo từng phường/xã Hà Nội
+- [docs/danh-sach-tdp/phu-tho.md](docs/danh-sach-tdp/phu-tho.md) — bảng TDP chia theo từng phường/xã Phú Thọ
+- [docs/STATUS.md](docs/STATUS.md) — độ phủ & mức xác minh từng đơn vị
 
 ## Build
 
 ```bash
-python3 scripts/build_all.py     # build_admin -> build_mapping -> build_tdp -> build_nested -> build_sqlite
-python3 scripts/gen_status.py     # cập nhật docs/STATUS.md
+python3 scripts/build_all.py     # sinh toàn bộ data/, json/, db/, docs/STATUS.md, docs/danh-sach-tdp/
 ```
 
 ## Lược đồ mã
