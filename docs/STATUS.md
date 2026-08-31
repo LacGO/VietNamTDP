@@ -142,8 +142,8 @@ Mức xác minh: `primary` = trích từ nghị quyết HĐND cấp xã / công 
 ## Tỉnh Phú Thọ (`25`)
 
 - Phường/xã: **148**
-- Có dữ liệu TDP: **139/148** (93%) — 3593 đơn vị
-- **Đúng mốc 01/7/2026**: **20/148** phường/xã — 469 TDP
+- Có dữ liệu TDP: **139/148** (93%) — 3599 đơn vị
+- **Đúng mốc 01/7/2026**: **22/148** phường/xã — 501 TDP
 
 | Mã | Phường/Xã | Loại | Số TDP | Mốc | Xác minh | Nguồn |
 |----|-----------|------|-------:|-----|----------|-------|
@@ -166,7 +166,7 @@ Mức xác minh: `primary` = trích từ nghị quyết HĐND cấp xã / công 
 | 05047 | Cao Dương | Xã | 48 | ⚠️ trước 01/7/2026 | unverified | wiki-05047-1;wiki-05047-2;wiki-05047-3 |
 | 05068 | Hợp Kim | Xã | 23 | ⚠️ trước 01/7/2026 | unverified | wiki-05068-1;wiki-05068-2;wiki-05068-3 |
 | 05086 | Dũng Tiến | Xã | 23 | ⚠️ trước 01/7/2026 | unverified | wiki-05086-1;wiki-05086-2;wiki-05086-3 |
-| 05089 | Cao Phong | Xã | 13 | ⚠️ trước 01/7/2026 | unverified | wiki-05089-1;wiki-05089-2;wiki-05089-3 |
+| 05089 | Cao Phong | Xã | 20 | ✅ 01/7/2026 | primary | danviet-05089 |
 | 05092 | Thung Nai | Xã | 20 | ⚠️ trước 01/7/2026 | unverified | wiki-05092-1;wiki-05092-2;wiki-05092-3 |
 | 05116 | Mường Thàng | Xã | 37 | ⚠️ trước 01/7/2026 | unverified | wiki-05116-1;wiki-05116-2;wiki-05116-3 |
 | 05128 | Tân Lạc | Xã | 66 | ⚠️ trước 01/7/2026 | unverified | wiki-05128-1;wiki-05128-2;wiki-05128-3 |
@@ -218,7 +218,7 @@ Mức xác minh: `primary` = trích từ nghị quyết HĐND cấp xã / công 
 | 08218 | Chí Tiên | Xã | 24 | ⚠️ trước 01/7/2026 | unverified | wiki-08218-1;wiki-08218-2;wiki-08218-3 |
 | 08227 | Liên Minh | Xã | 18 | ⚠️ trước 01/7/2026 | unverified | wiki-08227-1;wiki-08227-2;wiki-08227-3 |
 | 08230 | Phù Ninh | Xã | 12 | ⚠️ trước 01/7/2026 | unverified | wiki-08230-1;wiki-08230-2;wiki-08230-3 |
-| 08236 | Phú Mỹ | Xã | 13 | ⚠️ trước 01/7/2026 | unverified | wiki-08236-1;wiki-08236-2;wiki-08236-3 |
+| 08236 | Phú Mỹ | Xã | 12 | ✅ 01/7/2026 | partial | portal-08236 |
 | 08245 | Trạm Thản | Xã | 16 | ⚠️ trước 01/7/2026 | unverified | wiki-08245-1;wiki-08245-2;wiki-08245-3 |
 | 08254 | Dân Chủ | Xã | 13 | ⚠️ trước 01/7/2026 | unverified | wiki-08254-1;wiki-08254-2;wiki-08254-3 |
 | 08275 | Bình Phú | Xã | 13 | ⚠️ trước 01/7/2026 | unverified | wiki-08275-1;wiki-08275-2;wiki-08275-3 |

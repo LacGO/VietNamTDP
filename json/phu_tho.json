@@ -2086,52 +2086,52 @@
       "tdp": [
         {
           "tdp_code": "05089.001",
-          "name": "Bưng",
+          "name": "Thu Phong",
           "unit_type": "thôn"
         },
         {
           "tdp_code": "05089.002",
-          "name": "Cạn Hạ",
+          "name": "Vỏ",
           "unit_type": "thôn"
         },
         {
           "tdp_code": "05089.003",
-          "name": "Cạn Thượng",
-          "unit_type": "thôn"
-        },
-        {
-          "tdp_code": "05089.004",
-          "name": "Chằng",
-          "unit_type": "thôn"
-        },
-        {
-          "tdp_code": "05089.005",
           "name": "Hợp Tiến",
           "unit_type": "thôn"
         },
         {
-          "tdp_code": "05089.006",
-          "name": "Mừng",
-          "unit_type": "thôn"
-        },
-        {
-          "tdp_code": "05089.007",
-          "name": "Nhõi",
-          "unit_type": "thôn"
-        },
-        {
-          "tdp_code": "05089.008",
-          "name": "Quáng",
-          "unit_type": "thôn"
-        },
-        {
-          "tdp_code": "05089.009",
+          "tdp_code": "05089.004",
           "name": "Rú",
           "unit_type": "thôn"
         },
         {
+          "tdp_code": "05089.005",
+          "name": "Nhõi",
+          "unit_type": "thôn"
+        },
+        {
+          "tdp_code": "05089.006",
+          "name": "Chằng",
+          "unit_type": "thôn"
+        },
+        {
+          "tdp_code": "05089.007",
+          "name": "Quáng",
+          "unit_type": "thôn"
+        },
+        {
+          "tdp_code": "05089.008",
+          "name": "Cạn Hạ",
+          "unit_type": "thôn"
+        },
+        {
+          "tdp_code": "05089.009",
+          "name": "Bưng",
+          "unit_type": "thôn"
+        },
+        {
           "tdp_code": "05089.010",
-          "name": "Thu Phong",
+          "name": "Trang Trong",
           "unit_type": "thôn"
         },
         {
@@ -2141,12 +2141,47 @@
         },
         {
           "tdp_code": "05089.012",
-          "name": "Trang Trong",
+          "name": "2",
           "unit_type": "thôn"
         },
         {
           "tdp_code": "05089.013",
-          "name": "Vỏ",
+          "name": "Mừng",
+          "unit_type": "thôn"
+        },
+        {
+          "tdp_code": "05089.014",
+          "name": "Cạn Thượng",
+          "unit_type": "thôn"
+        },
+        {
+          "tdp_code": "05089.015",
+          "name": "1",
+          "unit_type": "thôn"
+        },
+        {
+          "tdp_code": "05089.016",
+          "name": "3",
+          "unit_type": "thôn"
+        },
+        {
+          "tdp_code": "05089.017",
+          "name": "4",
+          "unit_type": "thôn"
+        },
+        {
+          "tdp_code": "05089.018",
+          "name": "5",
+          "unit_type": "thôn"
+        },
+        {
+          "tdp_code": "05089.019",
+          "name": "6",
+          "unit_type": "thôn"
+        },
+        {
+          "tdp_code": "05089.020",
+          "name": "7",
           "unit_type": "thôn"
         }
       ]
@@ -8732,68 +8767,63 @@
       "tdp": [
         {
           "tdp_code": "08236.001",
-          "name": "1",
-          "unit_type": "khu"
+          "name": "01",
+          "unit_type": "thôn"
         },
         {
           "tdp_code": "08236.002",
-          "name": "2",
-          "unit_type": "khu"
+          "name": "02",
+          "unit_type": "thôn"
         },
         {
           "tdp_code": "08236.003",
-          "name": "3",
-          "unit_type": "khu"
+          "name": "03",
+          "unit_type": "thôn"
         },
         {
           "tdp_code": "08236.004",
-          "name": "4",
-          "unit_type": "khu"
+          "name": "04",
+          "unit_type": "thôn"
         },
         {
           "tdp_code": "08236.005",
-          "name": "5",
-          "unit_type": "khu"
+          "name": "05",
+          "unit_type": "thôn"
         },
         {
           "tdp_code": "08236.006",
-          "name": "6",
-          "unit_type": "khu"
+          "name": "06",
+          "unit_type": "thôn"
         },
         {
           "tdp_code": "08236.007",
-          "name": "7",
-          "unit_type": "khu"
+          "name": "07",
+          "unit_type": "thôn"
         },
         {
           "tdp_code": "08236.008",
-          "name": "8 (xã Lệ Mỹ cũ)",
-          "unit_type": "khu"
+          "name": "08",
+          "unit_type": "thôn"
         },
         {
           "tdp_code": "08236.009",
-          "name": "8 (xã Liên Hoa cũ)",
-          "unit_type": "khu"
+          "name": "09",
+          "unit_type": "thôn"
         },
         {
           "tdp_code": "08236.010",
-          "name": "8",
-          "unit_type": "khu"
+          "name": "10",
+          "unit_type": "thôn"
         },
         {
           "tdp_code": "08236.011",
-          "name": "9",
-          "unit_type": "khu"
+          "name": "11",
+          "unit_type": "thôn"
         },
         {
           "tdp_code": "08236.012",
-          "name": "10",
-          "unit_type": "khu"
-        },
-        {
-          "tdp_code": "08236.013",
-          "name": "11 (xã Phú Mỹ cũ)",
-          "unit_type": "khu"
+          "name": "12",
+          "unit_type": "thôn"
         }
       ]
     },

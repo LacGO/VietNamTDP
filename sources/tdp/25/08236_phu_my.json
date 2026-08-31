@@ -3,90 +3,72 @@
   "ward_name": "Phú Mỹ",
   "province_code": "25",
   "resolution": "",
-  "arrangement": "truoc_2026_07",
-  "effective_date": "",
-  "verified": "unverified",
+  "arrangement": "2026_07",
+  "effective_date": "2026-07-01",
+  "verified": "partial",
   "extraction": {
-    "source": "vi.wikipedia.org",
-    "title": "(cache)",
-    "mode": "narrative"
+    "source": "danviet.vn",
+    "url": "https://danviet.vn/danh-sach-12-thon-moi-ten-thon-moi-sau-sap-nhap-thon-thanh-cong-o-xa-phu-my-tinh-phu-tho-dia-phan-huyen-phu-ninh-cu-d1446799.html",
+    "mode": "add_ward"
   },
   "sources": [
     {
-      "key": "wiki-08236-1",
-      "title": "Quyết định số 30/QĐ-UBND về việc thành lập khu vực bỏ phiếu bầu cử đại biểu Quốc hội khóa XVI và đại biểu Hội đồng nhân dân các cấp, nhiệm kỳ 2026 - 2031",
-      "url": "https://phumy.phutho.gov.vn/tu-lieu/he-thong-van-ban/quyet-dinh-ve-viec-thanh-lap-khu-vuc-bo-phieu-bau-cu-dai-bieu-quoc-hoi-khoa-xvi-va-dai-bieu-hoi-dong-nhan-dan-cac-cap-nhiem-ky-2026-2031/",
-      "date": "2026-01-23",
-      "type": "wikipedia-ref"
-    },
-    {
-      "key": "wiki-08236-2",
-      "title": "NGHỊ QUYẾT 203/2025/QH15 SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA HIẾN PHÁP NƯỚC CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM",
-      "url": "https://xaydungchinhsach.chinhphu.vn/nghi-quyet-203-2025-qh15-sua-doi-bo-sung-mot-so-dieu-cua-hien-phap-nuoc-cong-hoa-xa-hoi-chu-nghia-viet-nam-119250616181735552.htm",
-      "date": "2025-06-28",
-      "type": "wikipedia-ref"
-    },
-    {
-      "key": "wiki-08236-3",
-      "title": "Nghị quyết số 1676/NQ-UBTVQH15 sắp xếp các ĐVHC cấp xã của tỉnh Phú Thọ năm 2025",
-      "url": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-1676-nq-ubtvqh15-sap-xep-cac-dvhc-cap-xa-cua-tinh-phu-tho-nam-2025-119250616204317326.htm",
-      "date": "2025-06-20",
-      "type": "wikipedia-ref"
+      "key": "portal-08236",
+      "title": "Danh sách 12 thôn mới sau sáp nhập thôn ở xã Phú Mỹ, tỉnh Phú Thọ",
+      "url": "https://danviet.vn/danh-sach-12-thon-moi-ten-thon-moi-sau-sap-nhap-thon-thanh-cong-o-xa-phu-my-tinh-phu-tho-dia-phan-huyen-phu-ninh-cu-d1446799.html",
+      "date": "2026-07-28",
+      "type": "cong_ttdt"
     }
   ],
-  "note": "Trích tự động từ Wikipedia tiếng Việt (mode=narrative). Cần đối chiếu nghị quyết HĐND phường/xã. ⚠️ Danh mục có thể là hiện trạng TRƯỚC sắp xếp thôn/TDP 01/7/2026 — Wikipedia chưa cập nhật nghị quyết mới.",
+  "note": "12 thôn sau sắp xếp 01/7/2026.",
   "tdp": [
     {
-      "name": "1",
-      "type": "khu"
+      "name": "số 01",
+      "type": "thôn"
     },
     {
-      "name": "2",
-      "type": "khu"
+      "name": "số 02",
+      "type": "thôn"
     },
     {
-      "name": "3",
-      "type": "khu"
+      "name": "số 03",
+      "type": "thôn"
     },
     {
-      "name": "4",
-      "type": "khu"
+      "name": "số 04",
+      "type": "thôn"
     },
     {
-      "name": "5",
-      "type": "khu"
+      "name": "số 05",
+      "type": "thôn"
     },
     {
-      "name": "6",
-      "type": "khu"
+      "name": "số 06",
+      "type": "thôn"
     },
     {
-      "name": "7",
-      "type": "khu"
+      "name": "số 07",
+      "type": "thôn"
     },
     {
-      "name": "8 (xã Lệ Mỹ cũ)",
-      "type": "khu"
+      "name": "số 08",
+      "type": "thôn"
     },
     {
-      "name": "8 (xã Liên Hoa cũ)",
-      "type": "khu"
+      "name": "số 09",
+      "type": "thôn"
     },
     {
-      "name": "8",
-      "type": "khu"
+      "name": "số 10",
+      "type": "thôn"
     },
     {
-      "name": "9",
-      "type": "khu"
+      "name": "số 11",
+      "type": "thôn"
     },
     {
-      "name": "10",
-      "type": "khu"
-    },
-    {
-      "name": "11 (xã Phú Mỹ cũ)",
-      "type": "khu"
+      "name": "số 12",
+      "type": "thôn"
     }
   ]
 }

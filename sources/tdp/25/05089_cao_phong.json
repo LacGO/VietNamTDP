@@ -3,53 +3,31 @@
   "ward_name": "Cao Phong",
   "province_code": "25",
   "resolution": "",
-  "arrangement": "truoc_2026_07",
-  "effective_date": "",
-  "verified": "unverified",
+  "arrangement": "2026_07",
+  "effective_date": "2026-07-01",
+  "verified": "primary",
   "extraction": {
-    "source": "vi.wikipedia.org",
-    "title": "Cao Phong (xã)",
-    "mode": "narrative"
+    "source": "danviet.vn",
+    "url": "https://danviet.vn/sap-nhap-thon-xom-moi-nhat-o-phu-tho-xa-cao-phong-dia-phan-tinh-hoa-binh-cu-bo-chu-xom-mang-ten-chu-thon-d1444172.html",
+    "mode": "danviet-fulltext"
   },
   "sources": [
     {
-      "key": "wiki-05089-1",
-      "title": "Nghị quyết về việc sắp xếp, tổ chức lại, đặt tên xóm, khu dân cư trên địa bàn xã Cao Phong",
-      "url": "https://caophong.phutho.gov.vn/index.php/van-ban/3485-nq24",
-      "date": "7/17/2026",
-      "type": "wikipedia-ref"
-    },
-    {
-      "key": "wiki-05089-2",
-      "title": "Nghị quyết số 24/NQ-HĐND về việc sắp xếp, tổ chức lại, đặt tên xóm, khu dân cư trên địa bàn xã Cao Phong",
-      "url": "https://caophong.phutho.gov.vn/images/H%C4%90ND/NQ24sapxepthon.pdf",
-      "date": "2026-06-25",
-      "type": "wikipedia-ref"
-    },
-    {
-      "key": "wiki-05089-3",
-      "title": "Danh sách Khu vực bỏ phiếu đại biểu Quốc hội Khóa XVI và đại biểu Hội đồng nhân dân các cấp, nhiệm kỳ 2026-2031",
-      "url": "https://caophong.phutho.gov.vn/index.php/bau-cu/3391-khu-vuc-bo-phieu",
-      "date": "2026-03-15",
-      "type": "wikipedia-ref"
+      "key": "danviet-05089",
+      "title": "Sáp nhập thôn/TDP — Xã Cao Phong (Báo Dân Việt)",
+      "url": "https://danviet.vn/sap-nhap-thon-xom-moi-nhat-o-phu-tho-xa-cao-phong-dia-phan-tinh-hoa-binh-cu-bo-chu-xom-mang-ten-chu-thon-d1444172.html",
+      "date": "2026",
+      "type": "bao"
     }
   ],
-  "note": "Trích tự động từ Wikipedia tiếng Việt (mode=narrative). Cần đối chiếu nghị quyết HĐND phường/xã. ⚠️ Danh mục có thể là hiện trạng TRƯỚC sắp xếp thôn/TDP 01/7/2026 — Wikipedia chưa cập nhật nghị quyết mới.",
+  "note": "20 thôn sau sắp xếp 01/7/2026; trích từ toàn văn nghị quyết HĐND cấp xã đăng trên Báo Dân Việt.",
   "tdp": [
     {
-      "name": "Bưng",
+      "name": "Thu Phong",
       "type": "thôn"
     },
     {
-      "name": "Cạn Hạ",
-      "type": "thôn"
-    },
-    {
-      "name": "Cạn Thượng",
-      "type": "thôn"
-    },
-    {
-      "name": "Chằng",
+      "name": "Vỏ",
       "type": "thôn"
     },
     {
@@ -57,7 +35,7 @@
       "type": "thôn"
     },
     {
-      "name": "Mừng",
+      "name": "Rú",
       "type": "thôn"
     },
     {
@@ -65,19 +43,19 @@
       "type": "thôn"
     },
     {
+      "name": "Chằng",
+      "type": "thôn"
+    },
+    {
       "name": "Quáng",
       "type": "thôn"
     },
     {
-      "name": "Rú",
+      "name": "Cạn Hạ",
       "type": "thôn"
     },
     {
-      "name": "Thu Phong",
-      "type": "thôn"
-    },
-    {
-      "name": "Trang Trên",
+      "name": "Bưng",
       "type": "thôn"
     },
     {
@@ -85,7 +63,43 @@
       "type": "thôn"
     },
     {
-      "name": "Vỏ",
+      "name": "Trang Trên",
+      "type": "thôn"
+    },
+    {
+      "name": "2",
+      "type": "thôn"
+    },
+    {
+      "name": "Mừng",
+      "type": "thôn"
+    },
+    {
+      "name": "Cạn Thượng",
+      "type": "thôn"
+    },
+    {
+      "name": "1",
+      "type": "thôn"
+    },
+    {
+      "name": "3",
+      "type": "thôn"
+    },
+    {
+      "name": "4",
+      "type": "thôn"
+    },
+    {
+      "name": "5",
+      "type": "thôn"
+    },
+    {
+      "name": "6",
+      "type": "thôn"
+    },
+    {
+      "name": "7",
       "type": "thôn"
     }
   ]
