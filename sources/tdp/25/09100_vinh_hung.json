@@ -32,9 +32,16 @@
       "url": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-202-2025-qh15-ve-sap-xep-don-vi-hanh-chinh-cap-tinh-119250612174148722.htm",
       "date": "2025-07-16",
       "type": "wikipedia-ref"
+    },
+    {
+      "key": "danviet-09100",
+      "title": "Sáp nhập thôn — Báo Dân Việt",
+      "url": "https://danviet.vn/sap-nhap-thon-moi-nhat-o-phu-tho-xa-vinh-hung-dia-phan-vinh-phuc-cu-con-12-truong-thon-d1449588.html",
+      "date": "2026",
+      "type": "bao"
     }
   ],
-  "note": "Trích tự động từ Wikipedia tiếng Việt (mode=narrative). Cần đối chiếu nghị quyết HĐND phường/xã. ⚠️ Danh mục có thể là hiện trạng TRƯỚC sắp xếp thôn/TDP 01/7/2026 — Wikipedia chưa cập nhật nghị quyết mới.",
+  "note": "Báo Dân Việt: xã Vĩnh Hưng còn 12 thôn/12 trưởng thôn sau sắp xếp 01/7/2026 (danh sách wiki hiện có thể chưa đúng mốc).",
   "tdp": [
     {
       "name": "Bến Hội",
@@ -104,5 +111,6 @@
       "name": "Vỡ",
       "type": "thôn"
     }
-  ]
+  ],
+  "approx_count": 12
 }

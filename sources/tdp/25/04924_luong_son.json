@@ -32,9 +32,16 @@
       "url": "https://xaydungchinhsach.chinhphu.vn/nghi-quyet-so-111-2025-ubtvqh15-ve-phan-loai-do-thi-119260101170432239.htm",
       "date": "2026-01-21",
       "type": "wikipedia-ref"
+    },
+    {
+      "key": "danviet-04924",
+      "title": "Sáp nhập thôn — Báo Dân Việt",
+      "url": "https://danviet.vn/sap-nhap-thon-moi-nhat-o-phu-tho-xa-luong-son-dia-phan-tinh-hoa-binh-cu-chi-dinh-chuc-danh-can-bo-23-thon-moi-d1447103.html",
+      "date": "2026",
+      "type": "bao"
     }
   ],
-  "note": "Trích tự động từ Wikipedia tiếng Việt (mode=narrative). Cần đối chiếu nghị quyết HĐND phường/xã. ⚠️ Danh mục có thể là hiện trạng TRƯỚC sắp xếp thôn/TDP 01/7/2026 — Wikipedia chưa cập nhật nghị quyết mới.",
+  "note": "Báo Dân Việt: xã Lương Sơn còn 23 thôn sau sắp xếp 01/7/2026 (danh sách wiki hiện có thể chưa đầy đủ/đúng mốc).",
   "tdp": [
     {
       "name": "Đồng Gạo",
@@ -68,5 +75,6 @@
       "name": "Dốc Phấn",
       "type": "xóm"
     }
-  ]
+  ],
+  "approx_count": 23
 }

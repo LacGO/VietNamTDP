@@ -143,9 +143,9 @@ Mức xác minh: `primary` = trích từ nghị quyết HĐND cấp xã / công 
 ## Tỉnh Phú Thọ (`25`)
 
 - Phường/xã: **148**
-- Có **danh mục tên** TDP: **129/148** — 3440 đơn vị
+- Có **danh mục tên** TDP: **128/148** — 3408 đơn vị
 - **Đúng mốc 01/7/2026** (có tên): **22/148** — 501 TDP
-- Mới có số lượng, chưa có tên: 11 · chưa có gì: 8
+- Mới có số lượng, chưa có tên: 12 · chưa có gì: 8
 
 | Mã | Phường/Xã | Loại | Số TDP | Mốc | Xác minh | Nguồn |
 |----|-----------|------|-------:|-----|----------|-------|
@@ -160,7 +160,7 @@ Mức xác minh: `primary` = trích từ nghị quyết HĐND cấp xã / công 
 | 04891 | Tiền Phong | Xã | 14 | ✅ 01/7/2026 | unverified | wiki-04891-1;wiki-04891-2;wiki-04891-3 |
 | 04894 | Kỳ Sơn | Phường | 19 | ✅ 01/7/2026 | unverified | wiki-04894-1;wiki-04894-2;wiki-04894-3 |
 | 04897 | Thịnh Minh | Xã | 29 | ⚠️ trước 01/7/2026 | unverified | wiki-04897-1;wiki-04897-2;wiki-04897-3 |
-| 04924 | Lương Sơn | Xã | 8 | ⚠️ trước 01/7/2026 | unverified | wiki-04924-1;wiki-04924-2;wiki-04924-3 |
+| 04924 | Lương Sơn | Xã | 8 | ⚠️ trước 01/7/2026 | unverified | wiki-04924-1;wiki-04924-2;wiki-04924-3;danviet-04924 |
 | 04960 | Liên Sơn | Xã | 44 | ⚠️ trước 01/7/2026 | unverified | wiki-04960-1;wiki-04960-2;wiki-04960-3 |
 | 04978 | Kim Bôi | Xã | 37 | ⚠️ trước 01/7/2026 | unverified | wiki-04978-1;wiki-04978-2;wiki-04978-3 |
 | 04990 | Nật Sơn | Xã | 19 | ✅ 01/7/2026 | primary | Nghị quyết số 22/NQ-HĐND HĐND cấp xã |
@@ -284,7 +284,7 @@ Mức xác minh: `primary` = trích từ nghị quyết HĐND cấp xã / công 
 | 08923 | Đại Đình | Xã | 15 | ✅ 01/7/2026 | unverified | wiki-08923-1;wiki-08923-2;wiki-08923-3 |
 | 08935 | Bình Nguyên | Xã | 22 | ⚠️ trước 01/7/2026 | unverified | wiki-08935-1;wiki-08935-2;wiki-08935-3 |
 | 08944 | Bình Tuyền | Xã | 14 | ✅ 01/7/2026 | unverified | wiki-08944-1;wiki-08944-2;wiki-08944-3 |
-| 08950 | Bình Xuyên | Xã | 32 | ⚠️ trước 01/7/2026 | unverified | wiki-08950-1;wiki-08950-2;wiki-08950-3 |
+| 08950 | Bình Xuyên | Xã | ~17 (chưa có tên) | ⛔ chưa có danh mục | pending | Nghị quyết HĐND xã Bình Xuyên (công bố 30/6/2026); hiệu lực 01/7/2026 |
 | 08971 | Xuân Lãng | Xã | 43 | ⚠️ trước 01/7/2026 | unverified | wiki-08971-1;wiki-08971-2;wiki-08971-3 |
 | 09025 | Yên Lạc | Xã | 25 | ⚠️ trước 01/7/2026 | unverified | wiki-09025-1;wiki-09025-2;wiki-09025-3 |
 | 09040 | Tề Lỗ | Xã | 28 | ⚠️ trước 01/7/2026 | unverified | wiki-09040-1;wiki-09040-2;wiki-09040-3 |
@@ -293,7 +293,7 @@ Mức xác minh: `primary` = trích từ nghị quyết HĐND cấp xã / công 
 | 09064 | Liên Châu | Xã | 29 | ⚠️ trước 01/7/2026 | unverified | wiki-09064-1;wiki-09064-2;wiki-09064-3 |
 | 09076 | Vĩnh Tường | Xã | 27 | ⚠️ trước 01/7/2026 | unverified | wiki-09076-1;wiki-09076-2;wiki-09076-3 |
 | 09079 | Vĩnh An | Xã | 16 | ⚠️ trước 01/7/2026 | unverified | wiki-09079-1;wiki-09079-2;wiki-09079-3 |
-| 09100 | Vĩnh Hưng | Xã | 17 | ⚠️ trước 01/7/2026 | unverified | wiki-09100-1;wiki-09100-2;wiki-09100-3 |
+| 09100 | Vĩnh Hưng | Xã | 17 | ⚠️ trước 01/7/2026 | unverified | wiki-09100-1;wiki-09100-2;wiki-09100-3;danviet-09100 |
 | 09106 | Vĩnh Thành | Xã | 22 | ⚠️ trước 01/7/2026 | unverified | wiki-09106-1;wiki-09106-2;wiki-09106-3 |
 | 09112 | Thổ Tang | Xã | 31 | ✅ 01/7/2026 | unverified | wiki-09112-1;wiki-09112-2;wiki-09112-3 |
 | 09154 | Vĩnh Phú | Xã | 42 | ⚠️ trước 01/7/2026 | unverified | wiki-09154-1;wiki-09154-2;wiki-09154-3 |

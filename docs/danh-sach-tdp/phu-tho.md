@@ -2,7 +2,7 @@
 
 _Cập nhật 2026-08-31. Mốc: ✅ = đúng bộ máy 01/7/2026 · ⚠️ = hiện trạng trước 01/7/2026 · ⛔ = chưa có._
 
-- Phường/xã: **148** · có dữ liệu: **140** · đúng mốc 01/7/2026: **22** · tổng đơn vị: **3440**
+- Phường/xã: **148** · có dữ liệu: **140** · đúng mốc 01/7/2026: **22** · tổng đơn vị: **3408**
 
 ## Mục lục
 
@@ -143,7 +143,7 @@ _Cập nhật 2026-08-31. Mốc: ✅ = đúng bộ máy 01/7/2026 · ⚠️ = hi
 | [08923](#08923) | Đại Đình | Xã | 15 | ✅ |
 | [08935](#08935) | Bình Nguyên | Xã | 22 | ⚠️ |
 | [08944](#08944) | Bình Tuyền | Xã | 14 | ✅ |
-| [08950](#08950) | Bình Xuyên | Xã | 32 | ⚠️ |
+| [08950](#08950) | Bình Xuyên | Xã | — | ⚠️ |
 | [08971](#08971) | Xuân Lãng | Xã | 43 | ⚠️ |
 | [09025](#09025) | Yên Lạc | Xã | 25 | ⚠️ |
 | [09040](#09040) | Tề Lỗ | Xã | 28 | ⚠️ |
@@ -468,7 +468,8 @@ _Cập nhật 2026-08-31. Mốc: ✅ = đúng bộ máy 01/7/2026 · ⚠️ = hi
 - **Nguồn:** [Nghị quyết số 2/NQ-UBBC về việc công bố danh sách các ứng cử viên Hội đồng nhân dân xã Lương Sơn nhiệm kỳ 2026 - 2031 theo từng đơn vị bầu cử](https://luongson.phutho.gov.vn/images/Nghi%CC%A3_quye%CC%82%CC%81t_co%CC%82ng_bo%CC%82%CC%81_danh_sa%CC%81ch_u%CC%9B%CC%81ng_cu%CC%9B%CC%89_vie%CC%82n_H%C4%90ND_xa%CC%83.pdf)
 - **Nguồn:** [Nghị quyết số 830/NQ-UBTVQH14 của ỦY BAN THƯỜNG VỤ QUỐC HỘI: Về việc sắp xếp các đơn vị hành chính cấp huyện, cấp xã thuộc tỉnh Hòa Bình](https://vanban.chinhphu.vn/default.aspx?pageid=27160&docid=198695)
 - **Nguồn:** [Nghị quyết số 111/2025/UBTVQH15 về phân loại đô thị](https://xaydungchinhsach.chinhphu.vn/nghi-quyet-so-111-2025-ubtvqh15-ve-phan-loai-do-thi-119260101170432239.htm)
-- _Trích tự động từ Wikipedia tiếng Việt (mode=narrative). Cần đối chiếu nghị quyết HĐND phường/xã. ⚠️ Danh mục có thể là hiện trạng TRƯỚC sắp xếp thôn/TDP 01/7/2026 — Wikipedia chưa cập nhật nghị quyết mới._
+- **Nguồn:** [Sáp nhập thôn — Báo Dân Việt](https://danviet.vn/sap-nhap-thon-moi-nhat-o-phu-tho-xa-luong-son-dia-phan-tinh-hoa-binh-cu-chi-dinh-chuc-danh-can-bo-23-thon-moi-d1447103.html)
+- _Báo Dân Việt: xã Lương Sơn còn 23 thôn sau sắp xếp 01/7/2026 (danh sách wiki hiện có thể chưa đầy đủ/đúng mốc)._
 
 | # | Tên đầy đủ | Định danh | Mã |
 |--:|-----------|-----------|----|
@@ -4768,46 +4769,10 @@ _Cập nhật 2026-08-31. Mốc: ✅ = đúng bộ máy 01/7/2026 · ⚠️ = hi
 <a id="08950"></a>
 ## Xã Bình Xuyên — `08950`
 
-- **Số lượng:** 32  ·  **Mốc:** ⚠️ danh mục hiện trạng TRƯỚC 01/7/2026 (chờ nghị quyết mới)  ·  **Mức xác minh:** `unverified`
-- **Nguồn:** [Nghị quyết số 2/NQ-UBBC về việc công bố danh sách chính thức những người ứng cử đại biểu Hội đồng nhân dân xã Bình Xuyên, nhiệm kỳ 2021 - 2026 theo từng đơn vị bầu cử](https://binhxuyen.phutho.gov.vn/images/nghi_quyet_02.pdf)
-- **Nguồn:** [Nghị quyết số 111/2025/UBTVQH15 về phân loại đô thị](https://xaydungchinhsach.chinhphu.vn/nghi-quyet-so-111-2025-ubtvqh15-ve-phan-loai-do-thi-119260101170432239.htm)
-- **Nguồn:** [Danh sách Thôn vùng đồng bào dân tộc thiểu số và miền núi, thôn đặc biệt khó khăn giai đoạn 2026 - 2030 trên địa bàn tỉnh Phú Thọ](http://files.ubdt.gov.vn/files/ecm/source_files/2026/02/05/11252411_4.%20Ph%C3%BA%20Th%E1%BB%8D%201%20(th%C3%B4n).signed_26-02-05.pdf)
-- _Trích tự động từ Wikipedia tiếng Việt (mode=narrative). Cần đối chiếu nghị quyết HĐND phường/xã. ⚠️ Danh mục có thể là hiện trạng TRƯỚC sắp xếp thôn/TDP 01/7/2026 — Wikipedia chưa cập nhật nghị quyết mới._
-
-| # | Tên đầy đủ | Định danh | Mã |
-|--:|-----------|-----------|----|
-| 1 | Thôn Ba Mô | Ba Mô | `08950.001` |
-| 2 | Thôn Cầu Đá | Cầu Đá | `08950.002` |
-| 3 | Thôn Chân Sơn | Chân Sơn | `08950.003` |
-| 4 | Thôn Chùa Tiếng | Chùa Tiếng | `08950.004` |
-| 5 | Thôn Cổ Độ | Cổ Độ | `08950.005` |
-| 6 | Thôn Cơ Khí | Cơ Khí | `08950.006` |
-| 7 | Thôn Cơ Quan | Cơ Quan | `08950.007` |
-| 8 | Thôn Gia Du | Gia Du | `08950.008` |
-| 9 | Thôn Gò Dẫu | Gò Dẫu | `08950.009` |
-| 10 | Thôn Gốc Gạo | Gốc Gạo | `08950.010` |
-| 11 | Thôn Hà Châu | Hà Châu | `08950.011` |
-| 12 | Thôn Hiệp Thuận | Hiệp Thuận | `08950.012` |
-| 13 | Thôn Hoàng Oanh | Hoàng Oanh | `08950.013` |
-| 14 | Thôn Hương Đà | Hương Đà | `08950.014` |
-| 15 | Thôn Hương Ngọc | Hương Ngọc | `08950.015` |
-| 16 | Thôn Hương Vị | Hương Vị | `08950.016` |
-| 17 | Thôn Lưu Quang | Lưu Quang | `08950.017` |
-| 18 | Thôn Ngũ Hồ | Ngũ Hồ | `08950.018` |
-| 19 | Thôn Quang Khải | Quang Khải | `08950.019` |
-| 20 | Thôn Quảng Khai | Quảng Khai | `08950.020` |
-| 21 | Thôn Sơn Bi | Sơn Bi | `08950.021` |
-| 22 | Thôn Tam Hà | Tam Hà | `08950.022` |
-| 23 | Thôn Tam Lộng | Tam Lộng | `08950.023` |
-| 24 | Thôn Tam Quang | Tam Quang | `08950.024` |
-| 25 | Thôn Tân Hà | Tân Hà | `08950.025` |
-| 26 | Thôn Thanh Xuân | Thanh Xuân | `08950.026` |
-| 27 | Thôn Thiếu Khanh | Thiếu Khanh | `08950.027` |
-| 28 | Thôn Thiện Kế | Thiện Kế | `08950.028` |
-| 29 | Thôn Trại Mới | Trại Mới | `08950.029` |
-| 30 | Thôn Vĩnh Phượng | Vĩnh Phượng | `08950.030` |
-| 31 | Thôn Xây Dựng | Xây Dựng | `08950.031` |
-| 32 | Thôn Xuân Quang | Xuân Quang | `08950.032` |
+- **Số lượng:** 0  ·  **Mốc:** ⚠️ danh mục hiện trạng TRƯỚC 01/7/2026 (chờ nghị quyết mới)  ·  **Mức xác minh:** `pending`
+- **Văn bản:** Nghị quyết HĐND xã Bình Xuyên (công bố 30/6/2026); hiệu lực 01/7/2026
+- **Nguồn:** [Xã Bình Xuyên công bố nghị quyết sắp xếp thôn — còn 17 thôn (Báo Dân Việt)](https://danviet.vn/sap-xep-thon-to-dan-pho-moi-nhat-o-phu-tho-dia-phan-vinh-phuc-cu-xa-binh-xuyen-co-cong-bo-quan-trong-nay-d1439766.html)
+- _Từ 01/7/2026 xã Bình Xuyên còn 17 thôn (Nghị quyết HĐND xã). CHƯA công bố danh sách tên thôn._
 
 <a id="08971"></a>
 ## Xã Xuân Lãng — `08971`
@@ -5124,7 +5089,8 @@ _Cập nhật 2026-08-31. Mốc: ✅ = đúng bộ máy 01/7/2026 · ⚠️ = hi
 - **Nguồn:** [Nghị quyết 50/NQ-UBBC về việc công bố danh sách những người ứng cử đại biểu Hội đồng nhân dân xã Vĩnh Hưng, nhiệm kỳ 2026 - 2031 theo từng đơn vị bầu cử](https://web.facebook.com/story.php?story_fbid=122165019824930096&id=61577902893072&rdid=FQu6nzSXGHOPbKiU#)
 - **Nguồn:** [Nghị quyết số 1287/NQ-UBTVQH15 của UBTVQH Về việc sắp xếp đơn vị hành chính cấp xã của tỉnh Vĩnh Phúc giai đoạn 2023 – 2025](https://quochoi.vn/tintuc/Pages/tin-hoat-dong-cua-quoc-hoi.aspx?ItemID=91157)
 - **Nguồn:** [TOÀN VĂN: Nghị quyết số 202/2025/QH15 về sắp xếp đơn vị hành chính cấp tỉnh](https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-202-2025-qh15-ve-sap-xep-don-vi-hanh-chinh-cap-tinh-119250612174148722.htm)
-- _Trích tự động từ Wikipedia tiếng Việt (mode=narrative). Cần đối chiếu nghị quyết HĐND phường/xã. ⚠️ Danh mục có thể là hiện trạng TRƯỚC sắp xếp thôn/TDP 01/7/2026 — Wikipedia chưa cập nhật nghị quyết mới._
+- **Nguồn:** [Sáp nhập thôn — Báo Dân Việt](https://danviet.vn/sap-nhap-thon-moi-nhat-o-phu-tho-xa-vinh-hung-dia-phan-vinh-phuc-cu-con-12-truong-thon-d1449588.html)
+- _Báo Dân Việt: xã Vĩnh Hưng còn 12 thôn/12 trưởng thôn sau sắp xếp 01/7/2026 (danh sách wiki hiện có thể chưa đúng mốc)._
 
 | # | Tên đầy đủ | Định danh | Mã |
 |--:|-----------|-----------|----|
