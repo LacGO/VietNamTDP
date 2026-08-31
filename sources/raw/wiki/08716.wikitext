@@ -12,7 +12,7 @@
  |mật độ dân số = {{formatnum:{{#expr:floor({{formatnum:78.371| R}}/{{formatnum:25,30| R}})}} }} người/km²
  |hình = Bưu điện tỉnh Vĩnh Phúc.jpg
  |ghi chú hình = Bưu điện Vĩnh Phúc
- |logo=
+ |logo=Logo phường Vĩnh Phúc.png
  |ghi chú logo=Biểu trưng
 }}
 {{other|Vĩnh Phúc (định hướng)}}

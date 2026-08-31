@@ -52,11 +52,13 @@ def main():
                     }
                 )
         arr = d.get("arrangement", "unknown")
+        n_listed = len(d.get("tdp", []))
         meta_rows.append(
             {
                 "ward_code": wc,
                 "province_code": pc,
-                "tdp_count": len(d.get("tdp", [])),
+                "tdp_count": n_listed,
+                "approx_count": d.get("approx_count", "") or (n_listed or ""),
                 "arrangement": arr,
                 "resolution": d.get("resolution", ""),
                 "effective_date": eff,

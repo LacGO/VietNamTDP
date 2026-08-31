@@ -309,7 +309,7 @@ _Cập nhật 2026-08-31. Mốc: ✅ = đúng bộ máy 01/7/2026 · ⚠️ = hi
 | 12 | Tổ dân phố Quang Trung | Quang Trung | `00082.012` |
 | 13 | Tổ dân phố Quán Sứ | Quán Sứ | `00082.013` |
 | 14 | Tổ dân phố Trần Hưng Đạo | Trần Hưng Đạo | `00082.014` |
-| 15 | Tổ dân phố Trần Quốc Tỏan | Trần Quốc Tỏan | `00082.015` |
+| 15 | Tổ dân phố Trần Quốc Toản | Trần Quốc Toản | `00082.015` |
 | 16 | Tổ dân phố Yết Kiêu | Yết Kiêu | `00082.016` |
 
 <a id="00091"></a>
@@ -1514,7 +1514,7 @@ _Cập nhật 2026-08-31. Mốc: ✅ = đúng bộ máy 01/7/2026 · ⚠️ = hi
 | 6 | Tổ dân phố Dược Hạ | Dược Hạ | `00376.006` |
 | 7 | Tổ dân phố Dược Thượng | Dược Thượng | `00376.007` |
 | 8 | Tổ dân phố Đan Tảo | Đan Tảo | `00376.008` |
-| 9 | Tổ dân phố Đòai | Đòai | `00376.009` |
+| 9 | Tổ dân phố Đoài | Đoài | `00376.009` |
 | 10 | Tổ dân phố Đông | Đông | `00376.010` |
 | 11 | Tổ dân phố Đông Tảo | Đông Tảo | `00376.011` |
 | 12 | Tổ dân phố Đồng Lạc | Đồng Lạc | `00376.012` |
@@ -1633,7 +1633,7 @@ _Cập nhật 2026-08-31. Mốc: ✅ = đúng bộ máy 01/7/2026 · ⚠️ = hi
 | 5 | Thôn Nam Cương | Nam Cương | `00433.005` |
 | 6 | Thôn Ninh Bắc | Ninh Bắc | `00433.006` |
 | 7 | Thôn Ninh Môn | Ninh Môn | `00433.007` |
-| 8 | Thôn Phù Xá Đòai | Phù Xá Đòai | `00433.008` |
+| 8 | Thôn Phù Xá Đoài | Phù Xá Đoài | `00433.008` |
 | 9 | Thôn Phù Xá Đông | Phù Xá Đông | `00433.009` |
 | 10 | Thôn Tân Trại | Tân Trại | `00433.010` |
 | 11 | Thôn Thanh Nhàn | Thanh Nhàn | `00433.011` |
@@ -1708,7 +1708,7 @@ _Cập nhật 2026-08-31. Mốc: ✅ = đúng bộ máy 01/7/2026 · ⚠️ = hi
 | 3 | Thôn Cán Khê | Cán Khê | `00466.003` |
 | 4 | Thôn Cổ Dương | Cổ Dương | `00466.004` |
 | 5 | Thôn Đìa | Đìa | `00466.005` |
-| 6 | Thôn Đòai | Đòai | `00466.006` |
+| 6 | Thôn Đoài | Đoài | `00466.006` |
 | 7 | Thôn Khê Nữ | Khê Nữ | `00466.007` |
 | 8 | Thôn Lễ Pháp | Lễ Pháp | `00466.008` |
 | 9 | Thôn Lương Nỗ | Lương Nỗ | `00466.009` |
@@ -1721,7 +1721,7 @@ _Cập nhật 2026-08-31. Mốc: ✅ = đúng bộ máy 01/7/2026 · ⚠️ = hi
 | 16 | Thôn Thượng Phúc | Thượng Phúc | `00466.016` |
 | 17 | Thôn Tiên Hùng | Tiên Hùng | `00466.017` |
 | 18 | Thôn Tiên Kha | Tiên Kha | `00466.018` |
-| 19 | Thôn Tòan Thắng | Tòan Thắng | `00466.019` |
+| 19 | Thôn Toàn Thắng | Toàn Thắng | `00466.019` |
 | 20 | Thôn Trung Oai | Trung Oai | `00466.020` |
 | 21 | Thôn Tuân Lề | Tuân Lề | `00466.021` |
 | 22 | Thôn Vân Long | Vân Long | `00466.022` |
@@ -1792,7 +1792,7 @@ _Cập nhật 2026-08-31. Mốc: ✅ = đúng bộ máy 01/7/2026 · ⚠️ = hi
 | 3 | Thôn Cầu Thăng Long | Cầu Thăng Long | `00493.003` |
 | 4 | Thôn Đại Đồng | Đại Đồng | `00493.004` |
 | 5 | Thôn Đại Độ | Đại Độ | `00493.005` |
-| 6 | Thôn Đòai | Đòai | `00493.006` |
+| 6 | Thôn Đoài | Đoài | `00493.006` |
 | 7 | Thôn Đông | Đông | `00493.007` |
 | 8 | Thôn Hậu Dưỡng | Hậu Dưỡng | `00493.008` |
 | 9 | Thôn Mai Châu | Mai Châu | `00493.009` |
@@ -1814,7 +1814,7 @@ _Cập nhật 2026-08-31. Mốc: ✅ = đúng bộ máy 01/7/2026 · ⚠️ = hi
 | # | Tên đầy đủ | Định danh | Mã |
 |--:|-----------|-----------|----|
 | 1 | Thôn Cổ Điển | Cổ Điển | `00508.001` |
-| 2 | Thôn Đòai | Đòai | `00508.002` |
+| 2 | Thôn Đoài | Đoài | `00508.002` |
 | 3 | Thôn Đông | Đông | `00508.003` |
 | 4 | Thôn Đồng Nhân | Đồng Nhân | `00508.004` |
 | 5 | Thôn Hải Bối | Hải Bối | `00508.005` |
@@ -1849,7 +1849,7 @@ _Cập nhật 2026-08-31. Mốc: ✅ = đúng bộ máy 01/7/2026 · ⚠️ = hi
 | 11 | Thôn Hạ | Hạ | `00541.011` |
 | 12 | Thôn Kim Quan | Kim Quan | `00541.012` |
 | 13 | Thôn Lã Côi | Lã Côi | `00541.013` |
-| 14 | Thôn Lại Hòang | Lại Hòang | `00541.014` |
+| 14 | Thôn Lại Hoàng | Lại Hoàng | `00541.014` |
 | 15 | Thôn Liên Đàm | Liên Đàm | `00541.015` |
 | 16 | Thôn Phù Dực | Phù Dực | `00541.016` |
 | 17 | Thôn Phù Đổng | Phù Đổng | `00541.017` |
@@ -1932,7 +1932,7 @@ _Cập nhật 2026-08-31. Mốc: ✅ = đúng bộ máy 01/7/2026 · ⚠️ = hi
 | 17 | Tổ dân phố Dương Đá | Dương Đá | `00565.017` |
 | 18 | Tổ dân phố Dương Đình | Dương Đình | `00565.018` |
 | 19 | Tổ dân phố Gia Xuân | Gia Xuân | `00565.019` |
-| 20 | Tổ dân phố Hòang Chu Báo | Hòang Chu Báo | `00565.020` |
+| 20 | Tổ dân phố Hoàng Chu Báo | Hoàng Chu Báo | `00565.020` |
 | 21 | Tổ dân phố Hội | Hội | `00565.021` |
 | 22 | Tổ dân phố Kiêu Kỵ | Kiêu Kỵ | `00565.022` |
 | 23 | Tổ dân phố Phú Thị | Phú Thị | `00565.023` |
@@ -2115,9 +2115,9 @@ _Cập nhật 2026-08-31. Mốc: ✅ = đúng bộ máy 01/7/2026 · ⚠️ = hi
 | 7 | Tổ dân phố 7 Hòe Thị | 7 Hòe Thị | `00622.007` |
 | 8 | Tổ dân phố 8 Hòe Thị | 8 Hòe Thị | `00622.008` |
 | 9 | Tổ dân phố 9 Hòe Thị | 9 Hòe Thị | `00622.009` |
-| 10 | Tổ dân phố 10 Tu Hòang | 10 Tu Hòang | `00622.010` |
-| 11 | Tổ dân phố 11 Tu Hòang | 11 Tu Hòang | `00622.011` |
-| 12 | Tổ dân phố 12 Tu Hòang | 12 Tu Hòang | `00622.012` |
+| 10 | Tổ dân phố 10 Tu Hoàng | 10 Tu Hoàng | `00622.010` |
+| 11 | Tổ dân phố 11 Tu Hoàng | 11 Tu Hoàng | `00622.011` |
+| 12 | Tổ dân phố 12 Tu Hoàng | 12 Tu Hoàng | `00622.012` |
 | 13 | Tổ dân phố 13 Kiều Mai | 13 Kiều Mai | `00622.013` |
 | 14 | Tổ dân phố 14 Kiều Mai | 14 Kiều Mai | `00622.014` |
 | 15 | Tổ dân phố 15 Phúc Diễn | 15 Phúc Diễn | `00622.015` |
@@ -2223,7 +2223,7 @@ _Cập nhật 2026-08-31. Mốc: ✅ = đúng bộ máy 01/7/2026 · ⚠️ = hi
 | 16 | Tổ dân phố Đồng Trì | Đồng Trì | `00640.016` |
 | 17 | Tổ dân phố Lưu Phái | Lưu Phái | `00640.017` |
 | 18 | Tổ dân phố Tứ Hiệp | Tứ Hiệp | `00640.018` |
-| 19 | Tổ dân phố Tự Khóat | Tự Khóat | `00640.019` |
+| 19 | Tổ dân phố Tự Khoát | Tự Khoát | `00640.019` |
 
 <a id="00643"></a>
 ## Phường Thanh Liệt — `00643`
@@ -2270,14 +2270,14 @@ _Cập nhật 2026-08-31. Mốc: ✅ = đúng bộ máy 01/7/2026 · ⚠️ = hi
 | 1 | Thôn 8 Tả Thanh Oai | 8 Tả Thanh Oai | `00664.001` |
 | 2 | Thôn 10 Tả Thanh Oai | 10 Tả Thanh Oai | `00664.002` |
 | 3 | Thôn Cầu Bươu | Cầu Bươu | `00664.003` |
-| 4 | Thôn Hùynh Cung | Hùynh Cung | `00664.004` |
+| 4 | Thôn Huỳnh Cung | Huỳnh Cung | `00664.004` |
 | 5 | Thôn Hữu Lê | Hữu Lê | `00664.005` |
 | 6 | Thôn Hữu Thanh Oai | Hữu Thanh Oai | `00664.006` |
 | 7 | Thôn Hữu Từ | Hữu Từ | `00664.007` |
 | 8 | Thôn Ích Vịnh | Ích Vịnh | `00664.008` |
 | 9 | Thôn Nhân Hòa | Nhân Hòa | `00664.009` |
 | 10 | Thôn Phú Diễn | Phú Diễn | `00664.010` |
-| 11 | Thôn Qùynh Đô | Qùynh Đô | `00664.011` |
+| 11 | Thôn Quỳnh Đô | Quỳnh Đô | `00664.011` |
 | 12 | Thôn Siêu Quần | Siêu Quần | `00664.012` |
 | 13 | Thôn Tả Thanh Oai | Tả Thanh Oai | `00664.013` |
 | 14 | Thôn Tập thể Phân Lân – 105 | Tập thể Phân Lân – 105 | `00664.014` |
@@ -2403,8 +2403,8 @@ _Cập nhật 2026-08-31. Mốc: ✅ = đúng bộ máy 01/7/2026 · ⚠️ = hi
 |--:|-----------|-----------|----|
 | 1 | Thôn Bồng Mạc | Bồng Mạc | `08980.001` |
 | 2 | Thôn Châu Phan | Châu Phan | `08980.002` |
-| 3 | Thôn Hòang Kim | Hòang Kim | `08980.003` |
-| 4 | Thôn Hòang Xá | Hòang Xá | `08980.004` |
+| 3 | Thôn Hoàng Kim | Hoàng Kim | `08980.003` |
+| 4 | Thôn Hoàng Xá | Hoàng Xá | `08980.004` |
 | 5 | Thôn Mạnh Trữ | Mạnh Trữ | `08980.005` |
 | 6 | Thôn Thạch Đà 1 | Thạch Đà 1 | `08980.006` |
 | 7 | Thôn Thạch Đà 2 | Thạch Đà 2 | `08980.007` |
@@ -2466,12 +2466,12 @@ _Cập nhật 2026-08-31. Mốc: ✅ = đúng bộ máy 01/7/2026 · ⚠️ = hi
 | 6 | Thôn Do Thượng | Do Thượng | `09022.006` |
 | 7 | Thôn Điệp Thôn | Điệp Thôn | `09022.007` |
 | 8 | Thôn Đông Cao | Đông Cao | `09022.008` |
-| 9 | Thôn Khê Ngọai 1 | Khê Ngọai 1 | `09022.009` |
-| 10 | Thôn Khê Ngọai 2 | Khê Ngọai 2 | `09022.010` |
-| 11 | Thôn Khê Ngọai 3 | Khê Ngọai 3 | `09022.011` |
-| 12 | Thôn Khê Ngọai 4 | Khê Ngọai 4 | `09022.012` |
+| 9 | Thôn Khê Ngoại 1 | Khê Ngoại 1 | `09022.009` |
+| 10 | Thôn Khê Ngoại 2 | Khê Ngoại 2 | `09022.010` |
+| 11 | Thôn Khê Ngoại 3 | Khê Ngoại 3 | `09022.011` |
+| 12 | Thôn Khê Ngoại 4 | Khê Ngoại 4 | `09022.012` |
 | 13 | Thôn Tráng Việt | Tráng Việt | `09022.013` |
-| 14 | Thôn Trung Hậu Đòai | Trung Hậu Đòai | `09022.014` |
+| 14 | Thôn Trung Hậu Đoài | Trung Hậu Đoài | `09022.014` |
 | 15 | Thôn Trung Yên | Trung Yên | `09022.015` |
 | 16 | Thôn Văn Quán 1 | Văn Quán 1 | `09022.016` |
 | 17 | Thôn Văn Quán 2 | Văn Quán 2 | `09022.017` |
@@ -2492,12 +2492,12 @@ _Cập nhật 2026-08-31. Mốc: ✅ = đúng bộ máy 01/7/2026 · ⚠️ = hi
 | 2 | Tổ dân phố Đa Sỹ 2 | Đa Sỹ 2 | `09552.002` |
 | 3 | Tổ dân phố Đa Sỹ 3 | Đa Sỹ 3 | `09552.003` |
 | 4 | Tổ dân phố Đa Sỹ 4 | Đa Sỹ 4 | `09552.004` |
-| 5 | Tổ dân phố Hòang Công 1 | Hòang Công 1 | `09552.005` |
-| 6 | Tổ dân phố Hòang Công 2 | Hòang Công 2 | `09552.006` |
-| 7 | Tổ dân phố Hòang Công 3 | Hòang Công 3 | `09552.007` |
-| 8 | Tổ dân phố Hòang Công 4 | Hòang Công 4 | `09552.008` |
-| 9 | Tổ dân phố Hòang Công 5 | Hòang Công 5 | `09552.009` |
-| 10 | Tổ dân phố Hòang Công 6 | Hòang Công 6 | `09552.010` |
+| 5 | Tổ dân phố Hoàng Công 1 | Hoàng Công 1 | `09552.005` |
+| 6 | Tổ dân phố Hoàng Công 2 | Hoàng Công 2 | `09552.006` |
+| 7 | Tổ dân phố Hoàng Công 3 | Hoàng Công 3 | `09552.007` |
+| 8 | Tổ dân phố Hoàng Công 4 | Hoàng Công 4 | `09552.008` |
+| 9 | Tổ dân phố Hoàng Công 5 | Hoàng Công 5 | `09552.009` |
+| 10 | Tổ dân phố Hoàng Công 6 | Hoàng Công 6 | `09552.010` |
 | 11 | Tổ dân phố Hưng Thịnh 1 | Hưng Thịnh 1 | `09552.011` |
 | 12 | Tổ dân phố Hưng Thịnh 2 | Hưng Thịnh 2 | `09552.012` |
 | 13 | Tổ dân phố Hưng Thịnh 3 | Hưng Thịnh 3 | `09552.013` |
@@ -2609,7 +2609,7 @@ _Cập nhật 2026-08-31. Mốc: ✅ = đúng bộ máy 01/7/2026 · ⚠️ = hi
 | 3 | Tổ dân phố Cổ Bản | Cổ Bản | `09562.003` |
 | 4 | Tổ dân phố Do Lộ | Do Lộ | `09562.004` |
 | 5 | Tổ dân phố Đồng Dương | Đồng Dương | `09562.005` |
-| 6 | Tổ dân phố Đồng Hòang | Đồng Hòang | `09562.006` |
+| 6 | Tổ dân phố Đồng Hoàng | Đồng Hoàng | `09562.006` |
 | 7 | Tổ dân phố Hòa Bình | Hòa Bình | `09562.007` |
 | 8 | Tổ dân phố Nhân Huệ | Nhân Huệ | `09562.008` |
 | 9 | Tổ dân phố Nhân Sơn | Nhân Sơn | `09562.009` |
@@ -2724,7 +2724,7 @@ _Cập nhật 2026-08-31. Mốc: ✅ = đúng bộ máy 01/7/2026 · ⚠️ = hi
 | 1 | Thôn Ấp Bắc | Ấp Bắc | `09616.001` |
 | 2 | Thôn Bắc Kiên | Bắc Kiên | `09616.002` |
 | 3 | Thôn Cổ Đông | Cổ Đông | `09616.003` |
-| 4 | Thôn Đòan Kết | Đòan Kết | `09616.004` |
+| 4 | Thôn Đoàn Kết | Đoàn Kết | `09616.004` |
 | 5 | Thôn Kim Sơn | Kim Sơn | `09616.005` |
 | 6 | Thôn Kim Tân | Kim Tân | `09616.006` |
 | 7 | Thôn La Thành | La Thành | `09616.007` |
@@ -2758,7 +2758,7 @@ _Cập nhật 2026-08-31. Mốc: ✅ = đúng bộ máy 01/7/2026 · ⚠️ = hi
 | 12 | Thôn Văn Minh | Văn Minh | `09619.012` |
 | 13 | Thôn Vân Lai | Vân Lai | `09619.013` |
 | 14 | Thôn Vĩnh Phệ | Vĩnh Phệ | `09619.014` |
-| 15 | Thôn Yên Khóai | Yên Khóai | `09619.015` |
+| 15 | Thôn Yên Khoái | Yên Khoái | `09619.015` |
 
 <a id="09634"></a>
 ## Xã Cổ Đô — `09634`
@@ -2911,7 +2911,7 @@ _Cập nhật 2026-08-31. Mốc: ✅ = đúng bộ máy 01/7/2026 · ⚠️ = hi
 | 2 | Thôn Muồng | Muồng | `09706.002` |
 | 3 | Thôn Phú Vàng | Phú Vàng | `09706.003` |
 | 4 | Thôn Phúc Yên | Phúc Yên | `09706.004` |
-| 5 | Thôn Qúyt | Qúyt | `09706.005` |
+| 5 | Thôn Quýt | Quýt | `09706.005` |
 | 6 | Thôn Vân Hòa | Vân Hòa | `09706.006` |
 | 7 | Thôn Vân Sơn | Vân Sơn | `09706.007` |
 | 8 | Thôn Xuân Trung | Xuân Trung | `09706.008` |
@@ -2972,7 +2972,7 @@ _Cập nhật 2026-08-31. Mốc: ✅ = đúng bộ máy 01/7/2026 · ⚠️ = hi
 | 11 | Thôn Vân Phúc 1 | Vân Phúc 1 | `09739.011` |
 | 12 | Thôn Vân Phúc 2 | Vân Phúc 2 | `09739.012` |
 | 13 | Thôn Vĩnh Lộc | Vĩnh Lộc | `09739.013` |
-| 14 | Thôn Võng Ngọai | Võng Ngọai | `09739.014` |
+| 14 | Thôn Võng Ngoại | Võng Ngoại | `09739.014` |
 | 15 | Thôn Võng Xuyên | Võng Xuyên | `09739.015` |
 | 16 | Thôn Xuân Lục | Xuân Lục | `09739.016` |
 | 17 | Thôn Xuân Phú | Xuân Phú | `09739.017` |
@@ -2998,7 +2998,7 @@ _Cập nhật 2026-08-31. Mốc: ✅ = đúng bộ máy 01/7/2026 · ⚠️ = hi
 | 8 | Thôn Mỹ Giang | Mỹ Giang | `09772.008` |
 | 9 | Thôn Ngọc Tảo | Ngọc Tảo | `09772.009` |
 | 10 | Thôn Quán Hạ | Quán Hạ | `09772.010` |
-| 11 | Thôn Táo Ngọai | Táo Ngọai | `09772.011` |
+| 11 | Thôn Táo Ngoại | Táo Ngoại | `09772.011` |
 | 12 | Thôn Thanh Đa | Thanh Đa | `09772.012` |
 | 13 | Thôn Thanh Hồng | Thanh Hồng | `09772.013` |
 | 14 | Thôn Thuấn Nhuế | Thuấn Nhuế | `09772.014` |
@@ -3019,7 +3019,7 @@ _Cập nhật 2026-08-31. Mốc: ✅ = đúng bộ máy 01/7/2026 · ⚠️ = hi
 |--:|-----------|-----------|----|
 | 1 | Thôn Bãi Thụy | Bãi Thụy | `09784.001` |
 | 2 | Thôn Đại Phùng | Đại Phùng | `09784.002` |
-| 3 | Thôn Đòai Khê | Đòai Khê | `09784.003` |
+| 3 | Thôn Đoài Khê | Đoài Khê | `09784.003` |
 | 4 | Thôn Đông Khê | Đông Khê | `09784.004` |
 | 5 | Thôn Đồng Tháp | Đồng Tháp | `09784.005` |
 | 6 | Thôn Phùng | Phùng | `09784.006` |
@@ -3171,10 +3171,10 @@ _Cập nhật 2026-08-31. Mốc: ✅ = đúng bộ máy 01/7/2026 · ⚠️ = hi
 | 3 | Tổ dân phố An Trai | An Trai | `09871.003` |
 | 4 | Tổ dân phố Đình | Đình | `09871.004` |
 | 5 | Tổ dân phố Hậu Ái | Hậu Ái | `09871.005` |
-| 6 | Tổ dân phố Kim Hòang | Kim Hòang | `09871.006` |
+| 6 | Tổ dân phố Kim Hoàng | Kim Hoàng | `09871.006` |
 | 7 | Tổ dân phố Lại Yên 1 | Lại Yên 1 | `09871.007` |
 | 8 | Tổ dân phố Lại Yên 2 | Lại Yên 2 | `09871.008` |
-| 9 | Tổ dân phố Ngọai | Ngọai | `09871.009` |
+| 9 | Tổ dân phố Ngoại | Ngoại | `09871.009` |
 | 10 | Tổ dân phố Nội | Nội | `09871.010` |
 | 11 | Tổ dân phố Phương Bảng | Phương Bảng | `09871.011` |
 | 12 | Tổ dân phố Phương Viên 1 | Phương Viên 1 | `09871.012` |
@@ -3207,7 +3207,7 @@ _Cập nhật 2026-08-31. Mốc: ✅ = đúng bộ máy 01/7/2026 · ⚠️ = hi
 | 11 | Tổ dân phố Hoa Thám | Hoa Thám | `09877.011` |
 | 12 | Tổ dân phố La Tinh | La Tinh | `09877.012` |
 | 13 | Tổ dân phố Minh Khai | Minh Khai | `09877.013` |
-| 14 | Tổ dân phố Mộc Hòan | Mộc Hòan | `09877.014` |
+| 14 | Tổ dân phố Mộc Hoàn | Mộc Hoàn | `09877.014` |
 | 15 | Tổ dân phố Ngãi Cầu | Ngãi Cầu | `09877.015` |
 | 16 | Tổ dân phố Ngự Câu | Ngự Câu | `09877.016` |
 | 17 | Tổ dân phố Phú Vinh | Phú Vinh | `09877.017` |
@@ -3239,9 +3239,9 @@ _Cập nhật 2026-08-31. Mốc: ✅ = đúng bộ máy 01/7/2026 · ⚠️ = hi
 | 6 | Tổ dân phố 7 | 7 | `09886.006` |
 | 7 | Tổ dân phố An Hưng | An Hưng | `09886.007` |
 | 8 | Tổ dân phố An Khang | An Khang | `09886.008` |
-| 9 | Tổ dân phố Đòan Kết | Đòan Kết | `09886.009` |
-| 10 | Tổ dân phố Hòang Hanh | Hòang Hanh | `09886.010` |
-| 11 | Tổ dân phố Hòang Văn Thụ | Hòang Văn Thụ | `09886.011` |
+| 9 | Tổ dân phố Đoàn Kết | Đoàn Kết | `09886.009` |
+| 10 | Tổ dân phố Hoàng Hanh | Hoàng Hanh | `09886.010` |
+| 11 | Tổ dân phố Hoàng Văn Thụ | Hoàng Văn Thụ | `09886.011` |
 | 12 | Tổ dân phố Hòa Bình | Hòa Bình | `09886.012` |
 | 13 | Tổ dân phố Kiên Quyết | Kiên Quyết | `09886.013` |
 | 14 | Tổ dân phố Quang Minh | Quang Minh | `09886.014` |
@@ -3379,7 +3379,7 @@ _Cập nhật 2026-08-31. Mốc: ✅ = đúng bộ máy 01/7/2026 · ⚠️ = hi
 | 4 | Thôn Đại Đồng 1 | Đại Đồng 1 | `09955.004` |
 | 5 | Thôn Đại Đồng 2 | Đại Đồng 2 | `09955.005` |
 | 6 | Thôn Đại Đồng 3 | Đại Đồng 3 | `09955.006` |
-| 7 | Thôn Hòang Thanh Phú | Hòang Thanh Phú | `09955.007` |
+| 7 | Thôn Hoàng Thanh Phú | Hoàng Thanh Phú | `09955.007` |
 | 8 | Thôn Khánh Thượng | Khánh Thượng | `09955.008` |
 | 9 | Thôn Kim Quan 1 | Kim Quan 1 | `09955.009` |
 | 10 | Thôn Kim Quan 2 | Kim Quan 2 | `09955.010` |
@@ -3489,7 +3489,7 @@ _Cập nhật 2026-08-31. Mốc: ✅ = đúng bộ máy 01/7/2026 · ⚠️ = hi
 | 9 | Tổ dân phố Đồng Nanh | Đồng Nanh | `10015.009` |
 | 10 | Tổ dân phố Long Châu | Long Châu | `10015.010` |
 | 11 | Tổ dân phố Ninh Sơn | Ninh Sơn | `10015.011` |
-| 12 | Tổ dân phố Phú Hòang Giáp | Phú Hòang Giáp | `10015.012` |
+| 12 | Tổ dân phố Phú Hoàng Giáp | Phú Hoàng Giáp | `10015.012` |
 | 13 | Tổ dân phố Phương Bản | Phương Bản | `10015.013` |
 | 14 | Tổ dân phố Phượng Đồng | Phượng Đồng | `10015.014` |
 | 15 | Tổ dân phố Phượng Nghĩa | Phượng Nghĩa | `10015.015` |
@@ -3607,7 +3607,7 @@ _Cập nhật 2026-08-31. Mốc: ✅ = đúng bộ máy 01/7/2026 · ⚠️ = hi
 |--:|-----------|-----------|----|
 | 1 | Thôn Công An | Công An | `10081.001` |
 | 2 | Thôn Đồng Ké | Đồng Ké | `10081.002` |
-| 3 | Thôn Hòang Văn Thụ | Hòang Văn Thụ | `10081.003` |
+| 3 | Thôn Hoàng Văn Thụ | Hoàng Văn Thụ | `10081.003` |
 | 4 | Thôn Hồng Tiến | Hồng Tiến | `10081.004` |
 | 5 | Thôn Hữu Văn | Hữu Văn | `10081.005` |
 | 6 | Thôn Khôn Duy | Khôn Duy | `10081.006` |
@@ -3639,7 +3639,7 @@ _Cập nhật 2026-08-31. Mốc: ✅ = đúng bộ máy 01/7/2026 · ⚠️ = hi
 | 5 | Thôn Hòa Phúc | Hòa Phúc | `10096.005` |
 | 6 | Thôn Hồng Phong | Hồng Phong | `10096.006` |
 | 7 | Thôn Lễ Khê | Lễ Khê | `10096.007` |
-| 8 | Thôn Lưu Hòang | Lưu Hòang | `10096.008` |
+| 8 | Thôn Lưu Hoàng | Lưu Hoàng | `10096.008` |
 | 9 | Thôn Mỗ Xá | Mỗ Xá | `10096.009` |
 | 10 | Thôn Nhân Chính | Nhân Chính | `10096.010` |
 | 11 | Thôn Phú Yên | Phú Yên | `10096.011` |
@@ -3739,12 +3739,12 @@ _Cập nhật 2026-08-31. Mốc: ✅ = đúng bộ máy 01/7/2026 · ⚠️ = hi
 
 | # | Tên đầy đủ | Định danh | Mã |
 |--:|-----------|-----------|----|
-| 1 | Tổ dân phố Canh Họach | Canh Họach | `10180.001` |
+| 1 | Tổ dân phố Canh Hoạch | Canh Hoạch | `10180.001` |
 | 2 | Tổ dân phố Áng Phao | Áng Phao | `10180.002` |
 | 3 | Tổ dân phố Cao Xá | Cao Xá | `10180.003` |
 | 4 | Tổ dân phố Châu Mai | Châu Mai | `10180.004` |
 | 5 | Tổ dân phố Đồng Tiến | Đồng Tiến | `10180.005` |
-| 6 | Tổ dân phố Hòang Kỳ | Hòang Kỳ | `10180.006` |
+| 6 | Tổ dân phố Hoàng Kỳ | Hoàng Kỳ | `10180.006` |
 | 7 | Tổ dân phố Mục Xá | Mục Xá | `10180.007` |
 | 8 | Tổ dân phố Ngọc Đình | Ngọc Đình | `10180.008` |
 | 9 | Tổ dân phố Phú An Tiên | Phú An Tiên | `10180.009` |
@@ -3860,7 +3860,7 @@ _Cập nhật 2026-08-31. Mốc: ✅ = đúng bộ máy 01/7/2026 · ⚠️ = hi
 | 2 | Thôn Chương Dương | Chương Dương | `10237.002` |
 | 3 | Thôn Đông Duyên | Đông Duyên | `10237.003` |
 | 4 | Thôn Hà Vỹ | Hà Vỹ | `10237.004` |
-| 5 | Thôn Hòang Long | Hòang Long | `10237.005` |
+| 5 | Thôn Hoàng Long | Hoàng Long | `10237.005` |
 | 6 | Thôn Kỳ Lộc | Kỳ Lộc | `10237.006` |
 | 7 | Thôn Lê Lợi | Lê Lợi | `10237.007` |
 | 8 | Thôn Thắng Lợi | Thắng Lợi | `10237.008` |
@@ -3927,11 +3927,11 @@ _Cập nhật 2026-08-31. Mốc: ✅ = đúng bộ máy 01/7/2026 · ⚠️ = hi
 | # | Tên đầy đủ | Định danh | Mã |
 |--:|-----------|-----------|----|
 | 1 | Thôn An Mỹ | An Mỹ | `10279.001` |
-| 2 | Thôn Đào Hòang | Đào Hòang | `10279.002` |
+| 2 | Thôn Đào Hoàng | Đào Hoàng | `10279.002` |
 | 3 | Thôn Đại Thắng | Đại Thắng | `10279.003` |
 | 4 | Thôn Đồng Tiến | Đồng Tiến | `10279.004` |
-| 5 | Thôn Hòang Long | Hòang Long | `10279.005` |
-| 6 | Thôn Hòang Lưu | Hòang Lưu | `10279.006` |
+| 5 | Thôn Hoàng Long | Hoàng Long | `10279.005` |
+| 6 | Thôn Hoàng Lưu | Hoàng Lưu | `10279.006` |
 | 7 | Thôn Hòa Mỹ | Hòa Mỹ | `10279.007` |
 | 8 | Thôn Hồng Minh | Hồng Minh | `10279.008` |
 | 9 | Thôn Kim Long Thượng | Kim Long Thượng | `10279.009` |
@@ -3939,10 +3939,10 @@ _Cập nhật 2026-08-31. Mốc: ✅ = đúng bộ máy 01/7/2026 · ⚠️ = hi
 | 11 | Thôn Phú Đôi | Phú Đôi | `10279.011` |
 | 12 | Thôn Phú Túc | Phú Túc | `10279.012` |
 | 13 | Thôn Phượng Vũ | Phượng Vũ | `10279.013` |
-| 14 | Thôn Thanh Hòang | Thanh Hòang | `10279.014` |
+| 14 | Thôn Thanh Hoàng | Thanh Hoàng | `10279.014` |
 | 15 | Thôn Tri Chỉ | Tri Chỉ | `10279.015` |
 | 16 | Thôn Trung Lập | Trung Lập | `10279.016` |
-| 17 | Thôn Văn Hòang | Văn Hòang | `10279.017` |
+| 17 | Thôn Văn Hoàng | Văn Hoàng | `10279.017` |
 | 18 | Thôn Văn Trai | Văn Trai | `10279.018` |
 | 19 | Thôn Xuân La | Xuân La | `10279.019` |
 
@@ -3992,8 +3992,8 @@ _Cập nhật 2026-08-31. Mốc: ✅ = đúng bộ máy 01/7/2026 · ⚠️ = hi
 | 5 | Thôn Cổ Chế | Cổ Chế | `10342.005` |
 | 6 | Thôn Cổ Trai | Cổ Trai | `10342.006` |
 | 7 | Thôn Đa Thái | Đa Thái | `10342.007` |
-| 8 | Thôn Đông Đòai | Đông Đòai | `10342.008` |
-| 9 | Thôn Hòang Nguyên | Hòang Nguyên | `10342.009` |
+| 8 | Thôn Đông Đoài | Đông Đoài | `10342.008` |
+| 9 | Thôn Hoàng Nguyên | Hoàng Nguyên | `10342.009` |
 | 10 | Thôn Hòa Khê | Hòa Khê | `10342.010` |
 | 11 | Thôn Khai Thái | Khai Thái | `10342.011` |
 | 12 | Thôn Khả Liễu | Khả Liễu | `10342.012` |
@@ -4022,11 +4022,11 @@ _Cập nhật 2026-08-31. Mốc: ✅ = đúng bộ máy 01/7/2026 · ⚠️ = hi
 |--:|-----------|-----------|----|
 | 1 | Thôn Cao Dương | Cao Dương | `10354.001` |
 | 2 | Thôn Dương Khê | Dương Khê | `10354.002` |
-| 3 | Thôn Đòan Xá | Đòan Xá | `10354.003` |
+| 3 | Thôn Đoàn Xá | Đoàn Xá | `10354.003` |
 | 4 | Thôn Đông Dương | Đông Dương | `10354.004` |
 | 5 | Thôn Động Phí | Động Phí | `10354.005` |
 | 6 | Thôn Hậu Xá | Hậu Xá | `10354.006` |
-| 7 | Thôn Hòang Xá | Hòang Xá | `10354.007` |
+| 7 | Thôn Hoàng Xá | Hoàng Xá | `10354.007` |
 | 8 | Thôn Nghi Lộc | Nghi Lộc | `10354.008` |
 | 9 | Thôn Ngọ Xá | Ngọ Xá | `10354.009` |
 | 10 | Thôn Ngọc Động | Ngọc Động | `10354.010` |
@@ -4070,7 +4070,7 @@ _Cập nhật 2026-08-31. Mốc: ✅ = đúng bộ máy 01/7/2026 · ⚠️ = hi
 | 14 | Thôn Trần Đăng | Trần Đăng | `10369.014` |
 | 15 | Thôn Trung Thượng | Trung Thượng | `10369.015` |
 | 16 | Thôn Trường Thịnh | Trường Thịnh | `10369.016` |
-| 17 | Thôn Viên Ngọai | Viên Ngọai | `10369.017` |
+| 17 | Thôn Viên Ngoại | Viên Ngoại | `10369.017` |
 | 18 | Thôn Viên Nội | Viên Nội | `10369.018` |
 | 19 | Thôn Xà Cầu | Xà Cầu | `10369.019` |
 
@@ -4119,7 +4119,7 @@ _Cập nhật 2026-08-31. Mốc: ✅ = đúng bộ máy 01/7/2026 · ⚠️ = hi
 | 4 | Thôn Đinh Xuyên | Đinh Xuyên | `10417.004` |
 | 5 | Thôn Đội Bình | Đội Bình | `10417.005` |
 | 6 | Thôn Hữu Vĩnh | Hữu Vĩnh | `10417.006` |
-| 7 | Thôn Lưu Hòang | Lưu Hòang | `10417.007` |
+| 7 | Thôn Lưu Hoàng | Lưu Hoàng | `10417.007` |
 | 8 | Thôn Nội Xá | Nội Xá | `10417.008` |
 | 9 | Thôn Phù Lưu | Phù Lưu | `10417.009` |
 | 10 | Thôn Thái Bình | Thái Bình | `10417.010` |
@@ -4170,9 +4170,9 @@ _Cập nhật 2026-08-31. Mốc: ✅ = đúng bộ máy 01/7/2026 · ⚠️ = hi
 | 2 | Thôn Đồng Mít | Đồng Mít | `10459.002` |
 | 3 | Thôn Giáp Ba | Giáp Ba | `10459.003` |
 | 4 | Thôn Giáp Bốn | Giáp Bốn | `10459.004` |
-| 5 | Thôn Giữa Qúyt | Giữa Qúyt | `10459.005` |
-| 6 | Thôn Hòanh 1 | Hòanh 1 | `10459.006` |
-| 7 | Thôn Hòanh 2 | Hòanh 2 | `10459.007` |
+| 5 | Thôn Giữa Quýt | Giữa Quýt | `10459.005` |
+| 6 | Thôn Hoành 1 | Hoành 1 | `10459.006` |
+| 7 | Thôn Hoành 2 | Hoành 2 | `10459.007` |
 | 8 | Thôn Lai Tảo | Lai Tảo | `10459.008` |
 | 9 | Thôn Mỹ Thành | Mỹ Thành | `10459.009` |
 | 10 | Thôn Nội Thượng Lâm | Nội Thượng Lâm | `10459.010` |
@@ -4199,7 +4199,7 @@ _Cập nhật 2026-08-31. Mốc: ✅ = đúng bộ máy 01/7/2026 · ⚠️ = hi
 | 2 | Thôn Áng Thượng | Áng Thượng | `10465.002` |
 | 3 | Thôn Đặng | Đặng | `10465.003` |
 | 4 | Thôn Đoan Nữ | Đoan Nữ | `10465.004` |
-| 5 | Thôn Đòai | Đòai | `10465.005` |
+| 5 | Thôn Đoài | Đoài | `10465.005` |
 | 6 | Thôn Đức Thụ | Đức Thụ | `10465.006` |
 | 7 | Thôn Gò Mái | Gò Mái | `10465.007` |
 | 8 | Thôn Hạ Phùng Xá | Hạ Phùng Xá | `10465.008` |

@@ -2,7 +2,7 @@
 
 _Cập nhật 2026-08-31. Mốc: ✅ = đúng bộ máy 01/7/2026 · ⚠️ = hiện trạng trước 01/7/2026 · ⛔ = chưa có._
 
-- Phường/xã: **148** · có dữ liệu: **139** · đúng mốc 01/7/2026: **22** · tổng đơn vị: **3599**
+- Phường/xã: **148** · có dữ liệu: **140** · đúng mốc 01/7/2026: **22** · tổng đơn vị: **3440**
 
 ## Mục lục
 
@@ -21,7 +21,7 @@ _Cập nhật 2026-08-31. Mốc: ✅ = đúng bộ máy 01/7/2026 · ⚠️ = hi
 | [04897](#04897) | Thịnh Minh | Xã | 29 | ⚠️ |
 | [04924](#04924) | Lương Sơn | Xã | 8 | ⚠️ |
 | [04960](#04960) | Liên Sơn | Xã | 44 | ⚠️ |
-| [04978](#04978) | Kim Bôi | Xã | — | ⛔ |
+| [04978](#04978) | Kim Bôi | Xã | 37 | ⚠️ |
 | [04990](#04990) | Nật Sơn | Xã | 19 | ✅ |
 | [05014](#05014) | Mường Động | Xã | 34 | ⚠️ |
 | [05047](#05047) | Cao Dương | Xã | 48 | ⚠️ |
@@ -62,15 +62,15 @@ _Cập nhật 2026-08-31. Mốc: ✅ = đúng bộ máy 01/7/2026 · ⚠️ = hi
 | [07948](#07948) | Âu Cơ | Phường | 13 | ⚠️ |
 | [07954](#07954) | Phong Châu | Phường | 10 | ✅ |
 | [07969](#07969) | Đoan Hùng | Xã | 28 | ⚠️ |
-| [07996](#07996) | Bằng Luân | Xã | 15 | ⚠️ |
+| [07996](#07996) | Bằng Luân | Xã | — | ⚠️ |
 | [07999](#07999) | Chí Đám | Xã | 39 | ⚠️ |
 | [08023](#08023) | Tây Cốc | Xã | 29 | ⚠️ |
 | [08038](#08038) | Chân Mộng | Xã | 67 | ⚠️ |
 | [08053](#08053) | Hạ Hoà | Xã | 28 | ⚠️ |
-| [08071](#08071) | Đan Thượng | Xã | 17 | ⚠️ |
-| [08110](#08110) | Hiền Lương | Xã | 20 | ⚠️ |
+| [08071](#08071) | Đan Thượng | Xã | — | ⚠️ |
+| [08110](#08110) | Hiền Lương | Xã | — | ⚠️ |
 | [08113](#08113) | Yên Kỳ | Xã | 27 | ⚠️ |
-| [08134](#08134) | Văn Lang | Xã | 13 | ⚠️ |
+| [08134](#08134) | Văn Lang | Xã | — | ⚠️ |
 | [08143](#08143) | Vĩnh Chân | Xã | 2 | ⚠️ |
 | [08152](#08152) | Thanh Ba | Xã | 49 | ⚠️ |
 | [08173](#08173) | Quảng Yên | Xã | 31 | ⚠️ |
@@ -80,8 +80,8 @@ _Cập nhật 2026-08-31. Mốc: ✅ = đúng bộ máy 01/7/2026 · ⚠️ = hi
 | [08227](#08227) | Liên Minh | Xã | 18 | ⚠️ |
 | [08230](#08230) | Phù Ninh | Xã | 12 | ⚠️ |
 | [08236](#08236) | Phú Mỹ | Xã | 12 | ✅ |
-| [08245](#08245) | Trạm Thản | Xã | 16 | ⚠️ |
-| [08254](#08254) | Dân Chủ | Xã | 13 | ⚠️ |
+| [08245](#08245) | Trạm Thản | Xã | — | ⚠️ |
+| [08254](#08254) | Dân Chủ | Xã | — | ⚠️ |
 | [08275](#08275) | Bình Phú | Xã | 13 | ⚠️ |
 | [08290](#08290) | Yên Lập | Xã | 40 | ⚠️ |
 | [08296](#08296) | Sơn Lương | Xã | 34 | ⚠️ |
@@ -96,11 +96,11 @@ _Cập nhật 2026-08-31. Mốc: ✅ = đúng bộ máy 01/7/2026 · ⚠️ = hi
 | [08416](#08416) | Hùng Việt | Xã | 5 | ⚠️ |
 | [08431](#08431) | Đồng Lương | Xã | 32 | ⚠️ |
 | [08434](#08434) | Tam Nông | Xã | 34 | ⚠️ |
-| [08443](#08443) | Hiền Quan | Xã | 22 | ⚠️ |
-| [08467](#08467) | Vạn Xuân | Xã | 26 | ⚠️ |
-| [08479](#08479) | Thọ Văn | Xã | 12 | ⚠️ |
+| [08443](#08443) | Hiền Quan | Xã | — | ⚠️ |
+| [08467](#08467) | Vạn Xuân | Xã | — | ⚠️ |
+| [08479](#08479) | Thọ Văn | Xã | — | ⚠️ |
 | [08494](#08494) | Lâm Thao | Xã | 8 | ⚠️ |
-| [08500](#08500) | Xuân Lũng | Xã | 20 | ⚠️ |
+| [08500](#08500) | Xuân Lũng | Xã | — | ⚠️ |
 | [08515](#08515) | Hy Cương | Xã | 23 | ⚠️ |
 | [08521](#08521) | Phùng Nguyên | Xã | 9 | ⚠️ |
 | [08527](#08527) | Bản Nguyên | Xã | 20 | ⚠️ |
@@ -117,7 +117,7 @@ _Cập nhật 2026-08-31. Mốc: ✅ = đúng bộ máy 01/7/2026 · ⚠️ = hi
 | [08632](#08632) | Hương Cần | Xã | 27 | ⚠️ |
 | [08635](#08635) | Khả Cửu | Xã | 35 | ⚠️ |
 | [08656](#08656) | Yên Sơn | Xã | 29 | ⚠️ |
-| [08662](#08662) | Đào Xá | Xã | 22 | ⚠️ |
+| [08662](#08662) | Đào Xá | Xã | — | ⚠️ |
 | [08674](#08674) | Thanh Thuỷ | Xã | 1 | ⚠️ |
 | [08686](#08686) | Tu Vũ | Xã | 57 | ⚠️ |
 | [08707](#08707) | Vĩnh Yên | Phường | 34 | ✅ |
@@ -377,7 +377,7 @@ _Cập nhật 2026-08-31. Mốc: ✅ = đúng bộ máy 01/7/2026 · ⚠️ = hi
 | 1 | Xóm Cò Xa | Cò Xa | `04891.001` |
 | 2 | Xóm Dướng | Dướng | `04891.002` |
 | 3 | Xóm Điêng Lựng | Điêng Lựng | `04891.003` |
-| 4 | Xóm Đòan Kết | Đòan Kết | `04891.004` |
+| 4 | Xóm Đoàn Kết | Đoàn Kết | `04891.004` |
 | 5 | Xóm Đức Phong | Đức Phong | `04891.005` |
 | 6 | Xóm Lau | Lau | `04891.006` |
 | 7 | Xóm Mó Nẻ | Mó Nẻ | `04891.007` |
@@ -433,8 +433,8 @@ _Cập nhật 2026-08-31. Mốc: ✅ = đúng bộ máy 01/7/2026 · ⚠️ = hi
 |--:|-----------|-----------|----|
 | 1 | Xóm Bu Chằm | Bu Chằm | `04897.001` |
 | 2 | Xóm Đình Đa | Đình Đa | `04897.002` |
-| 3 | Xóm Đòan Kết 1 | Đòan Kết 1 | `04897.003` |
-| 4 | Xóm Đòan Kết 2 | Đòan Kết 2 | `04897.004` |
+| 3 | Xóm Đoàn Kết 1 | Đoàn Kết 1 | `04897.003` |
+| 4 | Xóm Đoàn Kết 2 | Đoàn Kết 2 | `04897.004` |
 | 5 | Xóm Đồng Bài | Đồng Bài | `04897.005` |
 | 6 | Xóm Độc Lập | Độc Lập | `04897.006` |
 | 7 | Xóm Giếng 1 | Giếng 1 | `04897.007` |
@@ -477,7 +477,7 @@ _Cập nhật 2026-08-31. Mốc: ✅ = đúng bộ máy 01/7/2026 · ⚠️ = hi
 | 3 | Xóm Rổng Tằm | Rổng Tằm | `04924.003` |
 | 4 | Xóm Rổng Cấn | Rổng Cấn | `04924.004` |
 | 5 | Xóm Lam Sơn | Lam Sơn | `04924.005` |
-| 6 | Xóm Đòan Kết | Đòan Kết | `04924.006` |
+| 6 | Xóm Đoàn Kết | Đoàn Kết | `04924.006` |
 | 7 | Xóm Kẽm | Kẽm | `04924.007` |
 | 8 | Xóm Dốc Phấn | Dốc Phấn | `04924.008` |
 
@@ -540,7 +540,51 @@ _Cập nhật 2026-08-31. Mốc: ✅ = đúng bộ máy 01/7/2026 · ⚠️ = hi
 <a id="04978"></a>
 ## Xã Kim Bôi — `04978`
 
-> ⛔ **Chưa có dữ liệu tổ dân phố.** Chưa tìm thấy nghị quyết HĐND cấp xã công bố công khai.
+- **Số lượng:** 37  ·  **Mốc:** ⚠️ danh mục hiện trạng TRƯỚC 01/7/2026 (chờ nghị quyết mới)  ·  **Mức xác minh:** `unverified`
+- **Nguồn:** [Nghị quyết số 2/NQ-UBBC về việc ấn định số lượng đơn vị bầu cử, danh sách các đơn vị bầu cử và số lượng đại biểu được bầu ở mỗi đơn vị bầu cử đại biểu Hội đồng nhân dân xã Kim Bôi khóa XXI, nhiệm kỳ 2026 – 2031](https://kimboi.phutho.gov.vn/images/02_NQ_UBBC_XAKIM_BOI.pdf)
+- **Nguồn:** [Nghị quyết số 111/2025/UBTVQH15 về phân loại đô thị](https://xaydungchinhsach.chinhphu.vn/nghi-quyet-so-111-2025-ubtvqh15-ve-phan-loai-do-thi-119260101170432239.htm)
+- **Nguồn:** [Danh sách Thôn vùng đồng bào dân tộc thiểu số và miền núi, thôn đặc biệt khó khăn giai đoạn 2026 - 2030 trên địa bàn tỉnh Phú Thọ](http://files.ubdt.gov.vn/files/ecm/source_files/2026/02/05/11252411_4.%20Ph%C3%BA%20Th%E1%BB%8D%201%20(th%C3%B4n).signed_26-02-05.pdf)
+- _Trích tự động từ Wikipedia tiếng Việt (mode=narrative). Cần đối chiếu nghị quyết HĐND phường/xã. ⚠️ Danh mục có thể là hiện trạng TRƯỚC sắp xếp thôn/TDP 01/7/2026 — Wikipedia chưa cập nhật nghị quyết mới._
+
+| # | Tên đầy đủ | Định danh | Mã |
+|--:|-----------|-----------|----|
+| 1 | Khu Bãi | Bãi | `04978.001` |
+| 2 | Khu Bo | Bo | `04978.002` |
+| 3 | Khu Đoàn Kết | Đoàn Kết | `04978.003` |
+| 4 | Khu Đồng Tiến | Đồng Tiến | `04978.004` |
+| 5 | Khu Hoa Lư | Hoa Lư | `04978.005` |
+| 6 | Khu Lạng | Lạng | `04978.006` |
+| 7 | Khu Lục Cả | Lục Cả | `04978.007` |
+| 8 | Khu Lục Đồi | Lục Đồi | `04978.008` |
+| 9 | Khu Mớ Đá | Mớ Đá | `04978.009` |
+| 10 | Khu Mớ Đồi | Mớ Đồi | `04978.010` |
+| 11 | Khu Mớ Khoắc | Mớ Khoắc | `04978.011` |
+| 12 | Khu Nội Sung | Nội Sung | `04978.012` |
+| 13 | Khu Sào | Sào | `04978.013` |
+| 14 | Khu Thái Bình | Thái Bình | `04978.014` |
+| 15 | Khu Thành Công | Thành Công | `04978.015` |
+| 16 | Khu Thống Nhất | Thống Nhất | `04978.016` |
+| 17 | Khu 22 xóm: Bôi Câu | 22 xóm: Bôi Câu | `04978.017` |
+| 18 | Khu Bộ Mu | Bộ Mu | `04978.018` |
+| 19 | Khu Chanh | Chanh | `04978.019` |
+| 20 | Khu Cháo | Cháo | `04978.020` |
+| 21 | Khu Chiềng | Chiềng | `04978.021` |
+| 22 | Khu Cóc Lẫm | Cóc Lẫm | `04978.022` |
+| 23 | Khu Cốc | Cốc | `04978.023` |
+| 24 | Khu Dảnh | Dảnh | `04978.024` |
+| 25 | Khu Dứng Ổi | Dứng Ổi | `04978.025` |
+| 26 | Khu Đồi 1 | Đồi 1 | `04978.026` |
+| 27 | Khu Đồi 2 | Đồi 2 | `04978.027` |
+| 28 | Khu Gò Cha | Gò Cha | `04978.028` |
+| 29 | Khu Gò Đầm | Gò Đầm | `04978.029` |
+| 30 | Khu Gò Khánh | Gò Khánh | `04978.030` |
+| 31 | Khu Gò Mu | Gò Mu | `04978.031` |
+| 32 | Khu Quê Rù | Quê Rù | `04978.032` |
+| 33 | Khu Sống | Sống | `04978.033` |
+| 34 | Khu Suối Con | Suối Con | `04978.034` |
+| 35 | Khu Vó Khang | Vó Khang | `04978.035` |
+| 36 | Khu Vố | Vố | `04978.036` |
+| 37 | Khu Yên | Yên | `04978.037` |
 
 <a id="04990"></a>
 ## Xã Nật Sơn — `04990`
@@ -592,7 +636,7 @@ _Cập nhật 2026-08-31. Mốc: ✅ = đúng bộ máy 01/7/2026 · ⚠️ = hi
 | 7 | Thôn Đầm Rừng | Đầm Rừng | `05014.007` |
 | 8 | Thôn Đồi | Đồi | `05014.008` |
 | 9 | Thôn Đồng Nang | Đồng Nang | `05014.009` |
-| 10 | Thôn Đồng Ngòai | Đồng Ngòai | `05014.010` |
+| 10 | Thôn Đồng Ngoài | Đồng Ngoài | `05014.010` |
 | 11 | Thôn Đúp | Đúp | `05014.011` |
 | 12 | Thôn Hạ Sơn | Hạ Sơn | `05014.012` |
 | 13 | Thôn Hợp Nhất | Hợp Nhất | `05014.013` |
@@ -602,7 +646,7 @@ _Cập nhật 2026-08-31. Mốc: ✅ = đúng bộ máy 01/7/2026 · ⚠️ = hi
 | 17 | Thôn Lươn | Lươn | `05014.017` |
 | 18 | Thôn Quê Kho | Quê Kho | `05014.018` |
 | 19 | Thôn Sằn | Sằn | `05014.019` |
-| 20 | Thôn Sim Ngòai | Sim Ngòai | `05014.020` |
+| 20 | Thôn Sim Ngoài | Sim Ngoài | `05014.020` |
 | 21 | Thôn Sim Trong | Sim Trong | `05014.021` |
 | 22 | Thôn Suối Măng | Suối Măng | `05014.022` |
 | 23 | Thôn Suối Rèo | Suối Rèo | `05014.023` |
@@ -656,7 +700,7 @@ _Cập nhật 2026-08-31. Mốc: ✅ = đúng bộ máy 01/7/2026 · ⚠️ = hi
 | 25 | Thôn Quyền Chương | Quyền Chương | `05047.025` |
 | 26 | Thôn Sấu Hạ | Sấu Hạ | `05047.026` |
 | 27 | Thôn Sấu Thượng | Sấu Thượng | `05047.027` |
-| 28 | Thôn Song Hùynh | Song Hùynh | `05047.028` |
+| 28 | Thôn Song Huỳnh | Song Huỳnh | `05047.028` |
 | 29 | Thôn Thanh Hà | Thanh Hà | `05047.029` |
 | 30 | Thôn Thạch Quyền | Thạch Quyền | `05047.030` |
 | 31 | Thôn Thăng | Thăng | `05047.031` |
@@ -854,8 +898,8 @@ _Cập nhật 2026-08-31. Mốc: ✅ = đúng bộ máy 01/7/2026 · ⚠️ = hi
 | 31 | Xóm Tây Sơn | Tây Sơn | `05116.031` |
 | 32 | Xóm Thang | Thang | `05116.032` |
 | 33 | Xóm Thôi Bạ | Thôi Bạ | `05116.033` |
-| 34 | Xóm Trẹo Ngòai 1 | Trẹo Ngòai 1 | `05116.034` |
-| 35 | Xóm Trẹo Ngòai 2 | Trẹo Ngòai 2 | `05116.035` |
+| 34 | Xóm Trẹo Ngoài 1 | Trẹo Ngoài 1 | `05116.034` |
+| 35 | Xóm Trẹo Ngoài 2 | Trẹo Ngoài 2 | `05116.035` |
 | 36 | Xóm Trẹo Trong | Trẹo Trong | `05116.036` |
 | 37 | Xóm Um | Um | `05116.037` |
 
@@ -876,7 +920,7 @@ _Cập nhật 2026-08-31. Mốc: ✅ = đúng bộ máy 01/7/2026 · ⚠️ = hi
 | 4 | Khu Ban Rừng | Ban Rừng | `05128.004` |
 | 5 | Khu Bình Minh | Bình Minh | `05128.005` |
 | 6 | Khu Chiềng Khến | Chiềng Khến | `05128.006` |
-| 7 | Khu Đòan Kết | Đòan Kết | `05128.007` |
+| 7 | Khu Đoàn Kết | Đoàn Kết | `05128.007` |
 | 8 | Khu Đồng Khì | Đồng Khì | `05128.008` |
 | 9 | Khu Đồng Tiến | Đồng Tiến | `05128.009` |
 | 10 | Khu Đồng Văn | Đồng Văn | `05128.010` |
@@ -1166,7 +1210,7 @@ _Cập nhật 2026-08-31. Mốc: ✅ = đúng bộ máy 01/7/2026 · ⚠️ = hi
 | 8 | Xóm Hịch 1 | Hịch 1 | `05245.008` |
 | 9 | Xóm Hịch 2 | Hịch 2 | `05245.009` |
 | 10 | Xóm Khòe | Khòe | `05245.010` |
-| 11 | Xóm Mai Hòang Sơn | Mai Hòang Sơn | `05245.011` |
+| 11 | Xóm Mai Hoàng Sơn | Mai Hoàng Sơn | `05245.011` |
 | 12 | Xóm Nám | Nám | `05245.012` |
 | 13 | Xóm Nà Chào | Nà Chào | `05245.013` |
 | 14 | Xóm Ngõa | Ngõa | `05245.014` |
@@ -1359,11 +1403,11 @@ _Cập nhật 2026-08-31. Mốc: ✅ = đúng bộ máy 01/7/2026 · ⚠️ = hi
 | 2 | Xóm Bai Chim | Bai Chim | `05323.002` |
 | 3 | Xóm Bai Khưa | Bai Khưa | `05323.003` |
 | 4 | Xóm Bai Vớn | Bai Vớn | `05323.004` |
-| 5 | Xóm Bán Ngòai | Bán Ngòai | `05323.005` |
+| 5 | Xóm Bán Ngoài | Bán Ngoài | `05323.005` |
 | 6 | Xóm Bán Trong | Bán Trong | `05323.006` |
 | 7 | Xóm Băn Chao | Băn Chao | `05323.007` |
 | 8 | Xóm Be Dưới | Be Dưới | `05323.008` |
-| 9 | Xóm Be Ngòai | Be Ngòai | `05323.009` |
+| 9 | Xóm Be Ngoài | Be Ngoài | `05323.009` |
 | 10 | Xóm Be Trên | Be Trên | `05323.010` |
 | 11 | Xóm Châu Tróng | Châu Tróng | `05323.011` |
 | 12 | Xóm Chiềng | Chiềng | `05323.012` |
@@ -1488,7 +1532,7 @@ _Cập nhật 2026-08-31. Mốc: ✅ = đúng bộ máy 01/7/2026 · ⚠️ = hi
 | 2 | Xóm Liên Hợp | Liên Hợp | `05386.002` |
 | 3 | Xóm Yên Thái | Yên Thái | `05386.003` |
 | 4 | Xóm Phủ Vệ | Phủ Vệ | `05386.004` |
-| 5 | Xóm Đòan Kết | Đòan Kết | `05386.005` |
+| 5 | Xóm Đoàn Kết | Đoàn Kết | `05386.005` |
 | 6 | Xóm Đồng Tiến | Đồng Tiến | `05386.006` |
 | 7 | Xóm Tân Minh | Tân Minh | `05386.007` |
 | 8 | Xóm Tân Thịnh | Tân Thịnh | `05386.008` |
@@ -1531,7 +1575,7 @@ _Cập nhật 2026-08-31. Mốc: ✅ = đúng bộ máy 01/7/2026 · ⚠️ = hi
 | 12 | Khu Đồng Nhất | Đồng Nhất | `05392.012` |
 | 13 | Khu Đồng Nội | Đồng Nội | `05392.013` |
 | 14 | Khu Đồng Phú | Đồng Phú | `05392.014` |
-| 15 | Khu Hòang Đồng | Hòang Đồng | `05392.015` |
+| 15 | Khu Hoàng Đồng | Hoàng Đồng | `05392.015` |
 | 16 | Khu Hồng Phong | Hồng Phong | `05392.016` |
 | 17 | Khu Hồng Phong 2 | Hồng Phong 2 | `05392.017` |
 | 18 | Khu Hồng Phong 3 | Hồng Phong 3 | `05392.018` |
@@ -1577,13 +1621,13 @@ _Cập nhật 2026-08-31. Mốc: ✅ = đúng bộ máy 01/7/2026 · ⚠️ = hi
 | 16 | Khu Bưa Cú | Bưa Cú | `05395.016` |
 | 17 | Khu Chùa | Chùa | `05395.017` |
 | 18 | Khu Đầm Đa | Đầm Đa | `05395.018` |
-| 19 | Khu Đòan Kết | Đòan Kết | `05395.019` |
+| 19 | Khu Đoàn Kết | Đoàn Kết | `05395.019` |
 | 20 | Khu Đồng Danh | Đồng Danh | `05395.020` |
 | 21 | Khu Đồng Sắn | Đồng Sắn | `05395.021` |
 | 22 | Khu Đồng Thung | Đồng Thung | `05395.022` |
 | 23 | Khu Đồng Tiến | Đồng Tiến | `05395.023` |
 | 24 | Khu Gốc Xanh | Gốc Xanh | `05395.024` |
-| 25 | Khu Lão Ngọai | Lão Ngọai | `05395.025` |
+| 25 | Khu Lão Ngoại | Lão Ngoại | `05395.025` |
 | 26 | Khu Lão Nội | Lão Nội | `05395.026` |
 | 27 | Khu Lũ | Lũ | `05395.027` |
 | 28 | Khu Phú Bình | Phú Bình | `05395.028` |
@@ -1631,7 +1675,7 @@ _Cập nhật 2026-08-31. Mốc: ✅ = đúng bộ máy 01/7/2026 · ⚠️ = hi
 | 23 | Thôn Măng | Măng | `05425.023` |
 | 24 | Thôn Minh Thành | Minh Thành | `05425.024` |
 | 25 | Thôn Niếng | Niếng | `05425.025` |
-| 26 | Thôn Ninh Ngọai | Ninh Ngọai | `05425.026` |
+| 26 | Thôn Ninh Ngoại | Ninh Ngoại | `05425.026` |
 | 27 | Thôn Ninh Nội | Ninh Nội | `05425.027` |
 | 28 | Thôn Phú Tường | Phú Tường | `05425.028` |
 | 29 | Thôn Tám | Tám | `05425.029` |
@@ -1657,12 +1701,12 @@ _Cập nhật 2026-08-31. Mốc: ✅ = đúng bộ máy 01/7/2026 · ⚠️ = hi
 |--:|-----------|-----------|----|
 | 1 | Tổ dân phố Cẩm Đội | Cẩm Đội | `07894.001` |
 | 2 | Tổ dân phố Đại Nải | Đại Nải | `07894.002` |
-| 3 | Tổ dân phố Đinh Tiên Hòang | Đinh Tiên Hòang | `07894.003` |
+| 3 | Tổ dân phố Đinh Tiên Hoàng | Đinh Tiên Hoàng | `07894.003` |
 | 4 | Tổ dân phố Lâm Thắng | Lâm Thắng | `07894.004` |
 | 5 | Tổ dân phố Liên Minh | Liên Minh | `07894.005` |
 | 6 | Tổ dân phố Liên Phương | Liên Phương | `07894.006` |
 | 7 | Tổ dân phố Minh Phương | Minh Phương | `07894.007` |
-| 8 | Tổ dân phố Ngọai Thụy Vân | Ngọai Thụy Vân | `07894.008` |
+| 8 | Tổ dân phố Ngoại Thụy Vân | Ngoại Thụy Vân | `07894.008` |
 | 9 | Tổ dân phố Nguyễn Du | Nguyễn Du | `07894.009` |
 | 10 | Tổ dân phố Nguyễn Tất Thành | Nguyễn Tất Thành | `07894.010` |
 | 11 | Tổ dân phố Nguyệt Cư | Nguyệt Cư | `07894.011` |
@@ -1699,11 +1743,11 @@ _Cập nhật 2026-08-31. Mốc: ✅ = đúng bộ máy 01/7/2026 · ⚠️ = hi
 | 8 | Tổ dân phố Hương Trầm | Hương Trầm | `07900.008` |
 | 9 | Tổ dân phố Kim Quất Hạ | Kim Quất Hạ | `07900.009` |
 | 10 | Tổ dân phố Lăng Cẩm | Lăng Cẩm | `07900.010` |
-| 11 | Tổ dân phố Lê Qúy Đôn | Lê Qúy Đôn | `07900.011` |
+| 11 | Tổ dân phố Lê Quý Đôn | Lê Quý Đôn | `07900.011` |
 | 12 | Tổ dân phố Minh Bột | Minh Bột | `07900.012` |
 | 13 | Tổ dân phố Minh Nông | Minh Nông | `07900.013` |
 | 14 | Tổ dân phố Minh Tân | Minh Tân | `07900.014` |
-| 15 | Tổ dân phố Ngọai Lâu Thượng | Ngọai Lâu Thượng | `07900.015` |
+| 15 | Tổ dân phố Ngoại Lâu Thượng | Ngoại Lâu Thượng | `07900.015` |
 | 16 | Tổ dân phố Nguyễn Thái Học | Nguyễn Thái Học | `07900.016` |
 | 17 | Tổ dân phố Nội Lâu Thượng | Nội Lâu Thượng | `07900.017` |
 | 18 | Tổ dân phố Phan Chu Trinh | Phan Chu Trinh | `07900.018` |
@@ -1736,7 +1780,7 @@ _Cập nhật 2026-08-31. Mốc: ✅ = đúng bộ máy 01/7/2026 · ⚠️ = hi
 | 4 | Tổ dân phố Bến Gót | Bến Gót | `07909.004` |
 | 5 | Tổ dân phố Chàng Đông | Chàng Đông | `07909.005` |
 | 6 | Tổ dân phố Chàng Nam | Chàng Nam | `07909.006` |
-| 7 | Tổ dân phố Đòan Kết | Đòan Kết | `07909.007` |
+| 7 | Tổ dân phố Đoàn Kết | Đoàn Kết | `07909.007` |
 | 8 | Tổ dân phố Đồi Cam | Đồi Cam | `07909.008` |
 | 9 | Tổ dân phố Đồng Lực | Đồng Lực | `07909.009` |
 | 10 | Tổ dân phố Đồng Tâm | Đồng Tâm | `07909.010` |
@@ -1784,7 +1828,7 @@ _Cập nhật 2026-08-31. Mốc: ✅ = đúng bộ máy 01/7/2026 · ⚠️ = hi
 | 1 | Tổ dân phố An Thái | An Thái | `07918.001` |
 | 2 | Tổ dân phố Ba Nhất | Ba Nhất | `07918.002` |
 | 3 | Tổ dân phố Chiến Thắng | Chiến Thắng | `07918.003` |
-| 4 | Tổ dân phố Đòan Kết | Đòan Kết | `07918.004` |
+| 4 | Tổ dân phố Đoàn Kết | Đoàn Kết | `07918.004` |
 | 5 | Tổ dân phố Hợp Nhất | Hợp Nhất | `07918.005` |
 | 6 | Tổ dân phố Hùng Lô | Hùng Lô | `07918.006` |
 | 7 | Tổ dân phố Kim Chung | Kim Chung | `07918.007` |
@@ -1887,7 +1931,7 @@ _Cập nhật 2026-08-31. Mốc: ✅ = đúng bộ máy 01/7/2026 · ⚠️ = hi
 | 2 | Khu Đại Hộ | Đại Hộ | `07969.002` |
 | 3 | Khu Đại Hội | Đại Hội | `07969.003` |
 | 4 | Khu Đầu Lô | Đầu Lô | `07969.004` |
-| 5 | Khu Đòan Kết | Đòan Kết | `07969.005` |
+| 5 | Khu Đoàn Kết | Đoàn Kết | `07969.005` |
 | 6 | Khu Đồng Tâm | Đồng Tâm | `07969.006` |
 | 7 | Khu Đồng Thịnh | Đồng Thịnh | `07969.007` |
 | 8 | Khu Hố Xanh | Hố Xanh | `07969.008` |
@@ -1915,29 +1959,11 @@ _Cập nhật 2026-08-31. Mốc: ✅ = đúng bộ máy 01/7/2026 · ⚠️ = hi
 <a id="07996"></a>
 ## Xã Bằng Luân — `07996`
 
-- **Số lượng:** 15  ·  **Mốc:** ⚠️ danh mục hiện trạng TRƯỚC 01/7/2026 (chờ nghị quyết mới)  ·  **Mức xác minh:** `unverified`
+- **Số lượng:** 0  ·  **Mốc:** ⚠️ danh mục hiện trạng TRƯỚC 01/7/2026 (chờ nghị quyết mới)  ·  **Mức xác minh:** `pending`
 - **Nguồn:** [Danh sách Thôn vùng đồng bào dân tộc thiểu số và miền núi, thôn đặc biệt khó khăn giai đoạn 2026 - 2030 trên địa bàn tỉnh Phú Thọ](http://files.ubdt.gov.vn/files/ecm/source_files/2026/02/05/11252411_4.%20Ph%C3%BA%20Th%E1%BB%8D%201%20(th%C3%B4n).signed_26-02-05.pdf)
 - **Nguồn:** [Danh sách chính thức những người ứng cử đại biểu Hội đồng nhân dân xã Bằng Luân khóa XXIV, nhiệm kỳ 2026 - 2031](https://web.facebook.com/story.php?story_fbid=122158644782933996&id=61578019881336&rdid=MVaRiGQ8VcdK60HV#)
 - **Nguồn:** [NGHỊ QUYẾT 203/2025/QH15 SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA HIẾN PHÁP NƯỚC CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM](https://xaydungchinhsach.chinhphu.vn/nghi-quyet-203-2025-qh15-sua-doi-bo-sung-mot-so-dieu-cua-hien-phap-nuoc-cong-hoa-xa-hoi-chu-nghia-viet-nam-119250616181735552.htm)
-- _Trích tự động từ Wikipedia tiếng Việt (mode=narrative). Cần đối chiếu nghị quyết HĐND phường/xã. ⚠️ Danh mục có thể là hiện trạng TRƯỚC sắp xếp thôn/TDP 01/7/2026 — Wikipedia chưa cập nhật nghị quyết mới._
-
-| # | Tên đầy đủ | Định danh | Mã |
-|--:|-----------|-----------|----|
-| 1 | Khu 1 | 1 | `07996.001` |
-| 2 | Khu 2 | 2 | `07996.002` |
-| 3 | Khu 3 | 3 | `07996.003` |
-| 4 | Khu 4 | 4 | `07996.004` |
-| 5 | Khu 5 | 5 | `07996.005` |
-| 6 | Khu 6 (xã Bằng Dõan cũ) | 6 (xã Bằng Dõan cũ) | `07996.006` |
-| 7 | Khu 6 | 6 | `07996.007` |
-| 8 | Khu 7 | 7 | `07996.008` |
-| 9 | Khu 8 | 8 | `07996.009` |
-| 10 | Khu 9 | 9 | `07996.010` |
-| 11 | Khu 10 | 10 | `07996.011` |
-| 12 | Khu 11 | 11 | `07996.012` |
-| 13 | Khu 12 (xã Bằng Luân cũ) | 12 (xã Bằng Luân cũ) | `07996.013` |
-| 14 | Khu 8 (xã Minh Lương cũ) | 8 (xã Minh Lương cũ) | `07996.014` |
-| 15 | Khu 5 (xã Phúc Lai cũ) | 5 (xã Phúc Lai cũ) | `07996.015` |
+- _Wikipedia cho biết ~31 đơn vị nhưng chỉ ở dạng số/ghép theo đơn vị cũ — chưa có danh mục tên chính thức. Cần nghị quyết HĐND xã._
 
 <a id="07999"></a>
 ## Xã Chí Đám — `07999`
@@ -1956,7 +1982,7 @@ _Cập nhật 2026-08-31. Mốc: ✅ = đúng bộ máy 01/7/2026 · ⚠️ = hi
 | 4 | Khu Chí | Chí | `07999.004` |
 | 5 | Khu Đám 1 | Đám 1 | `07999.005` |
 | 6 | Khu Đám 2 | Đám 2 | `07999.006` |
-| 7 | Khu Đòan Kết | Đòan Kết | `07999.007` |
+| 7 | Khu Đoàn Kết | Đoàn Kết | `07999.007` |
 | 8 | Khu Đông Dương | Đông Dương | `07999.008` |
 | 9 | Khu Đông Tiến | Đông Tiến | `07999.009` |
 | 10 | Khu Đông Tiệm | Đông Tiệm | `07999.010` |
@@ -1964,8 +1990,8 @@ _Cập nhật 2026-08-31. Mốc: ✅ = đúng bộ máy 01/7/2026 · ⚠️ = hi
 | 12 | Khu Gò Măng | Gò Măng | `07999.012` |
 | 13 | Khu Hồng Minh | Hồng Minh | `07999.013` |
 | 14 | Khu Hùng Quan | Hùng Quan | `07999.014` |
-| 15 | Khu Lã Hòang 1 | Lã Hòang 1 | `07999.015` |
-| 16 | Khu Lã Hòang 2 | Lã Hòang 2 | `07999.016` |
+| 15 | Khu Lã Hoàng 1 | Lã Hoàng 1 | `07999.015` |
+| 16 | Khu Lã Hoàng 2 | Lã Hoàng 2 | `07999.016` |
 | 17 | Khu Lạp Xuyên | Lạp Xuyên | `07999.017` |
 | 18 | Khu Liên Phú | Liên Phú | `07999.018` |
 | 19 | Khu Minh Giang | Minh Giang | `07999.019` |
@@ -2008,7 +2034,7 @@ _Cập nhật 2026-08-31. Mốc: ✅ = đúng bộ máy 01/7/2026 · ⚠️ = hi
 | 5 | Khu Cẩn Độ | Cẩn Độ | `08023.005` |
 | 6 | Khu Chợ Ngà | Chợ Ngà | `08023.006` |
 | 7 | Khu Duỗn Trung | Duỗn Trung | `08023.007` |
-| 8 | Khu Đòan Kết | Đòan Kết | `08023.008` |
+| 8 | Khu Đoàn Kết | Đoàn Kết | `08023.008` |
 | 9 | Khu Hợp Lai | Hợp Lai | `08023.009` |
 | 10 | Khu Hùng Phú | Hùng Phú | `08023.010` |
 | 11 | Khu Phố | Phố | `08023.011` |
@@ -2153,63 +2179,20 @@ _Cập nhật 2026-08-31. Mốc: ✅ = đúng bộ máy 01/7/2026 · ⚠️ = hi
 <a id="08071"></a>
 ## Xã Đan Thượng — `08071`
 
-- **Số lượng:** 17  ·  **Mốc:** ⚠️ danh mục hiện trạng TRƯỚC 01/7/2026 (chờ nghị quyết mới)  ·  **Mức xác minh:** `unverified`
+- **Số lượng:** 0  ·  **Mốc:** ⚠️ danh mục hiện trạng TRƯỚC 01/7/2026 (chờ nghị quyết mới)  ·  **Mức xác minh:** `pending`
 - **Nguồn:** [Danh sách Thôn vùng đồng bào dân tộc thiểu số và miền núi, thôn đặc biệt khó khăn giai đoạn 2026 - 2030 trên địa bàn tỉnh Phú Thọ](http://files.ubdt.gov.vn/files/ecm/source_files/2026/02/05/11252411_4.%20Ph%C3%BA%20Th%E1%BB%8D%201%20(th%C3%B4n).signed_26-02-05.pdf)
 - **Nguồn:** [Danh sách chính thức những người ứng cử đại biểu Hội đồng nhân dân xã Đan Thượng khóa III, nhiệm kỳ 2026 – 2031 theo từng đơn vị bầu cử](https://web.facebook.com/story.php?story_fbid=122166820760936417&id=61578092510593&rdid=hm7ie0doYaoyXbWp#)
 - **Nguồn:** [wiki-08071-3](https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Nghi-quyet-828-NQ-UBTVQH14-2019-sap-xep-don-vi-hanh-chinh-cap-xa-thuoc-tinh-Phu-Tho-432098.aspx)
-- _Trích tự động từ Wikipedia tiếng Việt (mode=narrative). Cần đối chiếu nghị quyết HĐND phường/xã. ⚠️ Danh mục có thể là hiện trạng TRƯỚC sắp xếp thôn/TDP 01/7/2026 — Wikipedia chưa cập nhật nghị quyết mới._
-
-| # | Tên đầy đủ | Định danh | Mã |
-|--:|-----------|-----------|----|
-| 1 | Khu 1 | 1 | `08071.001` |
-| 2 | Khu 2 | 2 | `08071.002` |
-| 3 | Khu 3 | 3 | `08071.003` |
-| 4 | Khu 4 | 4 | `08071.004` |
-| 5 | Khu 5 | 5 | `08071.005` |
-| 6 | Khu 6 | 6 | `08071.006` |
-| 7 | Khu 7 | 7 | `08071.007` |
-| 8 | Khu 8 | 8 | `08071.008` |
-| 9 | Khu 9 | 9 | `08071.009` |
-| 10 | Khu 10 | 10 | `08071.010` |
-| 11 | Khu 11 | 11 | `08071.011` |
-| 12 | Khu 12 | 12 | `08071.012` |
-| 13 | Khu 13 (xã Đan Thượng cũ) | 13 (xã Đan Thượng cũ) | `08071.013` |
-| 14 | Khu 8 (xã Đại Phạm cũ) | 8 (xã Đại Phạm cũ) | `08071.014` |
-| 15 | Khu 6 (xã Hà Lương cũ) | 6 (xã Hà Lương cũ) | `08071.015` |
-| 16 | Khu 13 | 13 | `08071.016` |
-| 17 | Khu 14 (xã Tứ Hiệp cũ) | 14 (xã Tứ Hiệp cũ) | `08071.017` |
+- _Wikipedia cho biết ~41 đơn vị nhưng chỉ ở dạng số/ghép theo đơn vị cũ — chưa có danh mục tên chính thức. Cần nghị quyết HĐND xã._
 
 <a id="08110"></a>
 ## Xã Hiền Lương — `08110`
 
-- **Số lượng:** 20  ·  **Mốc:** ⚠️ danh mục hiện trạng TRƯỚC 01/7/2026 (chờ nghị quyết mới)  ·  **Mức xác minh:** `unverified`
+- **Số lượng:** 0  ·  **Mốc:** ⚠️ danh mục hiện trạng TRƯỚC 01/7/2026 (chờ nghị quyết mới)  ·  **Mức xác minh:** `pending`
 - **Nguồn:** [Danh sách Thôn vùng đồng bào dân tộc thiểu số và miền núi, thôn đặc biệt khó khăn giai đoạn 2026 - 2030 trên địa bàn tỉnh Phú Thọ](http://files.ubdt.gov.vn/files/ecm/source_files/2026/02/05/11252411_4.%20Ph%C3%BA%20Th%E1%BB%8D%201%20(th%C3%B4n).signed_26-02-05.pdf)
 - **Nguồn:** [Trân trọng giới thiệu danh sách chính thức 34 người ứng cử đại biểu Hội đồng nhân dân xã Hiền Lương khóa III, nhiệm kỳ 2026 - 2031, tại 06 đơn vị bầu cử](https://web.facebook.com/story.php?story_fbid=122162197034940119&id=61578203572557&rdid=7n0ir2gn2A9W02MI#)
 - **Nguồn:** [wiki-08110-3](https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Nghi-quyet-828-NQ-UBTVQH14-2019-sap-xep-don-vi-hanh-chinh-cap-xa-thuoc-tinh-Phu-Tho-432098.aspx)
-- _Trích tự động từ Wikipedia tiếng Việt (mode=narrative). Cần đối chiếu nghị quyết HĐND phường/xã. ⚠️ Danh mục có thể là hiện trạng TRƯỚC sắp xếp thôn/TDP 01/7/2026 — Wikipedia chưa cập nhật nghị quyết mới._
-
-| # | Tên đầy đủ | Định danh | Mã |
-|--:|-----------|-----------|----|
-| 1 | Khu 1 | 1 | `08110.001` |
-| 2 | Khu 2 | 2 | `08110.002` |
-| 3 | Khu 3 | 3 | `08110.003` |
-| 4 | Khu 4 | 4 | `08110.004` |
-| 5 | Khu 5 | 5 | `08110.005` |
-| 6 | Khu 6 | 6 | `08110.006` |
-| 7 | Khu 7 | 7 | `08110.007` |
-| 8 | Khu 8 | 8 | `08110.008` |
-| 9 | Khu 9 | 9 | `08110.009` |
-| 10 | Khu 11 | 11 | `08110.010` |
-| 11 | Khu 12 | 12 | `08110.011` |
-| 12 | Khu 13 | 13 | `08110.012` |
-| 13 | Khu 14 (xã Hiền Lương cũ) | 14 (xã Hiền Lương cũ) | `08110.013` |
-| 14 | Khu 10 | 10 | `08110.014` |
-| 15 | Khu 14 | 14 | `08110.015` |
-| 16 | Khu 15 | 15 | `08110.016` |
-| 17 | Khu 16 | 16 | `08110.017` |
-| 18 | Khu 17 | 17 | `08110.018` |
-| 19 | Khu 18 | 18 | `08110.019` |
-| 20 | Khu 19 (xã Xuân Áng cũ) | 19 (xã Xuân Áng cũ) | `08110.020` |
+- _Wikipedia cho biết ~32 đơn vị nhưng chỉ ở dạng số/ghép theo đơn vị cũ — chưa có danh mục tên chính thức. Cần nghị quyết HĐND xã._
 
 <a id="08113"></a>
 ## Xã Yên Kỳ — `08113`
@@ -2253,27 +2236,11 @@ _Cập nhật 2026-08-31. Mốc: ✅ = đúng bộ máy 01/7/2026 · ⚠️ = hi
 <a id="08134"></a>
 ## Xã Văn Lang — `08134`
 
-- **Số lượng:** 13  ·  **Mốc:** ⚠️ danh mục hiện trạng TRƯỚC 01/7/2026 (chờ nghị quyết mới)  ·  **Mức xác minh:** `unverified`
+- **Số lượng:** 0  ·  **Mốc:** ⚠️ danh mục hiện trạng TRƯỚC 01/7/2026 (chờ nghị quyết mới)  ·  **Mức xác minh:** `pending`
 - **Nguồn:** [Danh sách Thôn vùng đồng bào dân tộc thiểu số và miền núi, thôn đặc biệt khó khăn giai đoạn 2026 - 2030 trên địa bàn tỉnh Phú Thọ](http://files.ubdt.gov.vn/files/ecm/source_files/2026/02/05/11252411_4.%20Ph%C3%BA%20Th%E1%BB%8D%201%20(th%C3%B4n).signed_26-02-05.pdf)
 - **Nguồn:** [Danh sách chính thức 31 người ứng cử đại biểu Hội đồng nhân dân xã Văn Lang khóa XXII, nhiệm kỳ 2026 - 2031 tại 05 đơn vị bầu cử](https://web.facebook.com/story.php?story_fbid=122159509616931548&id=61577946443443&rdid=HM6zKc71aKRekkEY#)
 - **Nguồn:** [NGHỊ QUYẾT 203/2025/QH15 SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA HIẾN PHÁP NƯỚC CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM](https://xaydungchinhsach.chinhphu.vn/nghi-quyet-203-2025-qh15-sua-doi-bo-sung-mot-so-dieu-cua-hien-phap-nuoc-cong-hoa-xa-hoi-chu-nghia-viet-nam-119250616181735552.htm)
-- _Trích tự động từ Wikipedia tiếng Việt (mode=narrative). Cần đối chiếu nghị quyết HĐND phường/xã. ⚠️ Danh mục có thể là hiện trạng TRƯỚC sắp xếp thôn/TDP 01/7/2026 — Wikipedia chưa cập nhật nghị quyết mới._
-
-| # | Tên đầy đủ | Định danh | Mã |
-|--:|-----------|-----------|----|
-| 1 | Khu 1 | 1 | `08134.001` |
-| 2 | Khu 2 | 2 | `08134.002` |
-| 3 | Khu 3 | 3 | `08134.003` |
-| 4 | Khu 4 | 4 | `08134.004` |
-| 5 | Khu 5 | 5 | `08134.005` |
-| 6 | Khu 6 | 6 | `08134.006` |
-| 7 | Khu 7 | 7 | `08134.007` |
-| 8 | Khu 8 (xã Bằng Giã cũ) | 8 (xã Bằng Giã cũ) | `08134.008` |
-| 9 | Khu 4 (xã Minh Côi cũ) | 4 (xã Minh Côi cũ) | `08134.009` |
-| 10 | Khu 5 (xã Văn Lang cũ) | 5 (xã Văn Lang cũ) | `08134.010` |
-| 11 | Khu 8 | 8 | `08134.011` |
-| 12 | Khu 9 | 9 | `08134.012` |
-| 13 | Khu 10 (xã Vô Tranh cũ) | 10 (xã Vô Tranh cũ) | `08134.013` |
+- _Wikipedia cho biết ~27 đơn vị nhưng chỉ ở dạng số/ghép theo đơn vị cũ — chưa có danh mục tên chính thức. Cần nghị quyết HĐND xã._
 
 <a id="08143"></a>
 ## Xã Vĩnh Chân — `08143`
@@ -2382,7 +2349,7 @@ _Cập nhật 2026-08-31. Mốc: ✅ = đúng bộ máy 01/7/2026 · ⚠️ = hi
 | 19 | Khu Chò Làng Não | Chò Làng Não | `08173.019` |
 | 20 | Khu Đầm Giang | Đầm Giang | `08173.020` |
 | 21 | Khu Đỉnh Đồng | Đỉnh Đồng | `08173.021` |
-| 22 | Khu Đòan Kết | Đòan Kết | `08173.022` |
+| 22 | Khu Đoàn Kết | Đoàn Kết | `08173.022` |
 | 23 | Khu Đồng Bờ | Đồng Bờ | `08173.023` |
 | 24 | Khu Đồng Thọ | Đồng Thọ | `08173.024` |
 | 25 | Khu Gò Bằng | Gò Bằng | `08173.025` |
@@ -2404,21 +2371,21 @@ _Cập nhật 2026-08-31. Mốc: ✅ = đúng bộ máy 01/7/2026 · ⚠️ = hi
 
 | # | Tên đầy đủ | Định danh | Mã |
 |--:|-----------|-----------|----|
-| 1 | Khu 1 Hòang Cương | 1 Hòang Cương | `08203.001` |
-| 2 | Khu 2 Hòang Cương | 2 Hòang Cương | `08203.002` |
-| 3 | Khu 3 Hòang Cương | 3 Hòang Cương | `08203.003` |
-| 4 | Khu 4 Hòang Cương | 4 Hòang Cương | `08203.004` |
-| 5 | Khu 5 Hòang Cương | 5 Hòang Cương | `08203.005` |
-| 6 | Khu 6 Hòang Cương | 6 Hòang Cương | `08203.006` |
-| 7 | Khu 7 Hòang Cương | 7 Hòang Cương | `08203.007` |
-| 8 | Khu 8 Hòang Cương | 8 Hòang Cương | `08203.008` |
-| 9 | Khu 9 Hòang Cương | 9 Hòang Cương | `08203.009` |
-| 10 | Khu 10 Hòang Cương | 10 Hòang Cương | `08203.010` |
-| 11 | Khu 11 Hòang Cương | 11 Hòang Cương | `08203.011` |
-| 12 | Khu 12 Hòang Cương | 12 Hòang Cương | `08203.012` |
-| 13 | Khu 13 Hòang Cương | 13 Hòang Cương | `08203.013` |
-| 14 | Khu 14 Hòang Cương | 14 Hòang Cương | `08203.014` |
-| 15 | Khu 15 Hòang Cương | 15 Hòang Cương | `08203.015` |
+| 1 | Khu 1 Hoàng Cương | 1 Hoàng Cương | `08203.001` |
+| 2 | Khu 2 Hoàng Cương | 2 Hoàng Cương | `08203.002` |
+| 3 | Khu 3 Hoàng Cương | 3 Hoàng Cương | `08203.003` |
+| 4 | Khu 4 Hoàng Cương | 4 Hoàng Cương | `08203.004` |
+| 5 | Khu 5 Hoàng Cương | 5 Hoàng Cương | `08203.005` |
+| 6 | Khu 6 Hoàng Cương | 6 Hoàng Cương | `08203.006` |
+| 7 | Khu 7 Hoàng Cương | 7 Hoàng Cương | `08203.007` |
+| 8 | Khu 8 Hoàng Cương | 8 Hoàng Cương | `08203.008` |
+| 9 | Khu 9 Hoàng Cương | 9 Hoàng Cương | `08203.009` |
+| 10 | Khu 10 Hoàng Cương | 10 Hoàng Cương | `08203.010` |
+| 11 | Khu 11 Hoàng Cương | 11 Hoàng Cương | `08203.011` |
+| 12 | Khu 12 Hoàng Cương | 12 Hoàng Cương | `08203.012` |
+| 13 | Khu 13 Hoàng Cương | 13 Hoàng Cương | `08203.013` |
+| 14 | Khu 14 Hoàng Cương | 14 Hoàng Cương | `08203.014` |
+| 15 | Khu 15 Hoàng Cương | 15 Hoàng Cương | `08203.015` |
 | 16 | Khu 1 Ninh Dân | 1 Ninh Dân | `08203.016` |
 | 17 | Khu 2 Ninh Dân | 2 Ninh Dân | `08203.017` |
 | 18 | Khu 3 Ninh Dân | 3 Ninh Dân | `08203.018` |
@@ -2434,8 +2401,8 @@ _Cập nhật 2026-08-31. Mốc: ✅ = đúng bộ máy 01/7/2026 · ⚠️ = hi
 | 28 | Khu An Ninh 1 | An Ninh 1 | `08203.028` |
 | 29 | Khu An Ninh 2 | An Ninh 2 | `08203.029` |
 | 30 | Khu Bắc Sơn | Bắc Sơn | `08203.030` |
-| 31 | Khu Đòan Kết | Đòan Kết | `08203.031` |
-| 32 | Khu Hòang Xá | Hòang Xá | `08203.032` |
+| 31 | Khu Đoàn Kết | Đoàn Kết | `08203.031` |
+| 32 | Khu Hoàng Xá | Hoàng Xá | `08203.032` |
 | 33 | Khu Hồng Phong | Hồng Phong | `08203.033` |
 | 34 | Khu Liên Hà | Liên Hà | `08203.034` |
 | 35 | Khu Phố Ẻn | Phố Ẻn | `08203.035` |
@@ -2614,55 +2581,20 @@ _Cập nhật 2026-08-31. Mốc: ✅ = đúng bộ máy 01/7/2026 · ⚠️ = hi
 <a id="08245"></a>
 ## Xã Trạm Thản — `08245`
 
-- **Số lượng:** 16  ·  **Mốc:** ⚠️ danh mục hiện trạng TRƯỚC 01/7/2026 (chờ nghị quyết mới)  ·  **Mức xác minh:** `unverified`
+- **Số lượng:** 0  ·  **Mốc:** ⚠️ danh mục hiện trạng TRƯỚC 01/7/2026 (chờ nghị quyết mới)  ·  **Mức xác minh:** `pending`
 - **Nguồn:** [Quyết định số 82/QĐ-UBND về việc thành lập các khu vực bỏ phiếu bầu cử đại biểu Quốc hội khóa XVI và đại biểu Hội đồng nhân dân các cấp nhiệm kỳ 2026 - 2031 trên địa bàn xã Trạm Thản](https://tramthan.phutho.gov.vn/tin-tuc-su-kien/thoi-su-chinh-tri/danh-sach-23-khu-vuc-bo-phieu-bau-cu-dai-bieu-quoc-hoi-khoa-xvi-va-dai-bieu-hoi-dong-nhan-dan-cac-cap-nhiem-ky-2026-2031-tren-dia-ban-xa-tram-than/?gidzl=7DStFiv8J5uOo3Cuor5CNn_EDJxLKKrT1vmnRuTJHrrLd6XgqWj7M0AIFJpI1HTV0vWxFpVahavHoqb8N0)
 - **Nguồn:** [Danh sách những người ứng cử đại biểu Hội đồng nhân dân xã Trạm Thản khóa XXIV nhiệm kỳ 2026 - 2031](https://tramthan.phutho.gov.vn/tin-tuc-su-kien/thoi-su-chinh-tri/danh-sach-nhung-nguoi-ung-cu-dai-bieu-hdnd-xa-tram-than-khoa-xxiv-nhiem-ky-2026-2031/?gidzl=ASZNO1WKBWGjrzDc7Gqj0oZHr6C1NIrLDO7IObCDVGzjrDDfNrWgMZlGrMaB3tXQFjJNR3O7xSnL7HKg1W)
 - **Nguồn:** [NGHỊ QUYẾT 203/2025/QH15 SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA HIẾN PHÁP NƯỚC CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM](https://xaydungchinhsach.chinhphu.vn/nghi-quyet-203-2025-qh15-sua-doi-bo-sung-mot-so-dieu-cua-hien-phap-nuoc-cong-hoa-xa-hoi-chu-nghia-viet-nam-119250616181735552.htm)
-- _Trích tự động từ Wikipedia tiếng Việt (mode=narrative). Cần đối chiếu nghị quyết HĐND phường/xã. ⚠️ Danh mục có thể là hiện trạng TRƯỚC sắp xếp thôn/TDP 01/7/2026 — Wikipedia chưa cập nhật nghị quyết mới._
-
-| # | Tên đầy đủ | Định danh | Mã |
-|--:|-----------|-----------|----|
-| 1 | Khu 1 | 1 | `08245.001` |
-| 2 | Khu 2 | 2 | `08245.002` |
-| 3 | Khu 3 | 3 | `08245.003` |
-| 4 | Khu 4 | 4 | `08245.004` |
-| 5 | Khu 6 | 6 | `08245.005` |
-| 6 | Khu 8 | 8 | `08245.006` |
-| 7 | Khu 9 | 9 | `08245.007` |
-| 8 | Khu 10 | 10 | `08245.008` |
-| 9 | Khu 11 | 11 | `08245.009` |
-| 10 | Khu 12 | 12 | `08245.010` |
-| 11 | Khu 14 | 14 | `08245.011` |
-| 12 | Khu 15 (xã Tiên Phú cũ) | 15 (xã Tiên Phú cũ) | `08245.012` |
-| 13 | Khu 5 | 5 | `08245.013` |
-| 14 | Khu 7 | 7 | `08245.014` |
-| 15 | Khu 8 (xã Trạm Thản cũ) | 8 (xã Trạm Thản cũ) | `08245.015` |
-| 16 | Khu 8 (xã Trung Giáp cũ) | 8 (xã Trung Giáp cũ) | `08245.016` |
+- _Wikipedia cho biết ~28 đơn vị nhưng chỉ ở dạng số/ghép theo đơn vị cũ — chưa có danh mục tên chính thức. Cần nghị quyết HĐND xã._
 
 <a id="08254"></a>
 ## Xã Dân Chủ — `08254`
 
-- **Số lượng:** 13  ·  **Mốc:** ⚠️ danh mục hiện trạng TRƯỚC 01/7/2026 (chờ nghị quyết mới)  ·  **Mức xác minh:** `unverified`
+- **Số lượng:** 0  ·  **Mốc:** ⚠️ danh mục hiện trạng TRƯỚC 01/7/2026 (chờ nghị quyết mới)  ·  **Mức xác minh:** `pending`
 - **Nguồn:** [Danh sách chính thức những người ứng cử đại biểu Hội đồng nhân dân xã Dân Chủ - tỉnh Phú Thọ nhiệm kỳ 2026 - 2031](https://danchu.phutho.gov.vn/chuyen-muc/bau-cu-quoc-hoi-va-hdnd-cac-cap/danh-sach-chinh-thuc-nhung-nguoi-ung-cu-dai-bieu-hdnd-xa-dan-chu-tinh-phu-tho-nhiem-ky-2026-2031/)
 - **Nguồn:** [NGHỊ QUYẾT 203/2025/QH15 SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA HIẾN PHÁP NƯỚC CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM](https://xaydungchinhsach.chinhphu.vn/nghi-quyet-203-2025-qh15-sua-doi-bo-sung-mot-so-dieu-cua-hien-phap-nuoc-cong-hoa-xa-hoi-chu-nghia-viet-nam-119250616181735552.htm)
 - **Nguồn:** [Nghị quyết số 1676/NQ-UBTVQH15 sắp xếp các ĐVHC cấp xã của tỉnh Phú Thọ năm 2025](https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-1676-nq-ubtvqh15-sap-xep-cac-dvhc-cap-xa-cua-tinh-phu-tho-nam-2025-119250616204317326.htm)
-- _Trích tự động từ Wikipedia tiếng Việt (mode=narrative). Cần đối chiếu nghị quyết HĐND phường/xã. ⚠️ Danh mục có thể là hiện trạng TRƯỚC sắp xếp thôn/TDP 01/7/2026 — Wikipedia chưa cập nhật nghị quyết mới._
-
-| # | Tên đầy đủ | Định danh | Mã |
-|--:|-----------|-----------|----|
-| 1 | Khu 1 | 1 | `08254.001` |
-| 2 | Khu 2 | 2 | `08254.002` |
-| 3 | Khu 3 | 3 | `08254.003` |
-| 4 | Khu 4 | 4 | `08254.004` |
-| 5 | Khu 5 | 5 | `08254.005` |
-| 6 | Khu 6 | 6 | `08254.006` |
-| 7 | Khu 7 | 7 | `08254.007` |
-| 8 | Khu 8 (xã Bảo Thanh cũ) | 8 (xã Bảo Thanh cũ) | `08254.008` |
-| 9 | Khu 8 (xã Gia Thanh cũ) | 8 (xã Gia Thanh cũ) | `08254.009` |
-| 10 | Khu 8 | 8 | `08254.010` |
-| 11 | Khu 9 (xã Hạ Giáp cũ) | 9 (xã Hạ Giáp cũ) | `08254.011` |
-| 12 | Khu 9 | 9 | `08254.012` |
-| 13 | Khu 10 (xã Trị Quận cũ) | 10 (xã Trị Quận cũ) | `08254.013` |
+- _Wikipedia cho biết ~35 đơn vị nhưng chỉ ở dạng số/ghép theo đơn vị cũ — chưa có danh mục tên chính thức. Cần nghị quyết HĐND xã._
 
 <a id="08275"></a>
 ## Xã Bình Phú — `08275`
@@ -2685,7 +2617,7 @@ _Cập nhật 2026-08-31. Mốc: ✅ = đúng bộ máy 01/7/2026 · ⚠️ = hi
 | 8 | Thôn Ngọc | Ngọc | `08275.008` |
 | 9 | Thôn Quyết Tiến | Quyết Tiến | `08275.009` |
 | 10 | Thôn Răm | Răm | `08275.010` |
-| 11 | Thôn Tranh Ngòai | Tranh Ngòai | `08275.011` |
+| 11 | Thôn Tranh Ngoài | Tranh Ngoài | `08275.011` |
 | 12 | Thôn Tranh Trong | Tranh Trong | `08275.012` |
 | 13 | Thôn Cầu | Cầu | `08275.013` |
 
@@ -2708,7 +2640,7 @@ _Cập nhật 2026-08-31. Mốc: ✅ = đúng bộ máy 01/7/2026 · ⚠️ = hi
 | 6 | Khu Dân Tiến | Dân Tiến | `08290.006` |
 | 7 | Khu Đình | Đình | `08290.007` |
 | 8 | Khu Đình Cả | Đình Cả | `08290.008` |
-| 9 | Khu Đòan Kết | Đòan Kết | `08290.009` |
+| 9 | Khu Đoàn Kết | Đoàn Kết | `08290.009` |
 | 10 | Khu Đồng Bành | Đồng Bành | `08290.010` |
 | 11 | Khu Đồng Cạn | Đồng Cạn | `08290.011` |
 | 12 | Khu Đồng Chung | Đồng Chung | `08290.012` |
@@ -2756,7 +2688,7 @@ _Cập nhật 2026-08-31. Mốc: ✅ = đúng bộ máy 01/7/2026 · ⚠️ = hi
 | 2 | Khu Đá Trắng | Đá Trắng | `08296.002` |
 | 3 | Khu Đại Phú | Đại Phú | `08296.003` |
 | 4 | Khu Đình A | Đình A | `08296.004` |
-| 5 | Khu Đòan Kết | Đòan Kết | `08296.005` |
+| 5 | Khu Đoàn Kết | Đoàn Kết | `08296.005` |
 | 6 | Khu Đồng An | Đồng An | `08296.006` |
 | 7 | Khu Đồng Ve | Đồng Ve | `08296.007` |
 | 8 | Khu Hưng Thịnh | Hưng Thịnh | `08296.008` |
@@ -2986,7 +2918,7 @@ _Cập nhật 2026-08-31. Mốc: ✅ = đúng bộ máy 01/7/2026 · ⚠️ = hi
 | 42 | Khu Gò | Gò | `08344.042` |
 | 43 | Khu Làng | Làng | `08344.043` |
 | 44 | Khu Mới | Mới | `08344.044` |
-| 45 | Khu Ngòai | Ngòai | `08344.045` |
+| 45 | Khu Ngoài | Ngoài | `08344.045` |
 | 46 | Khu Thịnh | Thịnh | `08344.046` |
 | 47 | Khu Thượng | Thượng | `08344.047` |
 | 48 | Khu Tri | Tri | `08344.048` |
@@ -3013,7 +2945,7 @@ _Cập nhật 2026-08-31. Mốc: ✅ = đúng bộ máy 01/7/2026 · ⚠️ = hi
 | 6 | Khu Đình Bàng | Đình Bàng | `08377.006` |
 | 7 | Khu Đình Cả | Đình Cả | `08377.007` |
 | 8 | Khu Đình Tân | Đình Tân | `08377.008` |
-| 9 | Khu Đòan Kết | Đòan Kết | `08377.009` |
+| 9 | Khu Đoàn Kết | Đoàn Kết | `08377.009` |
 | 10 | Khu Đồng Nghè | Đồng Nghè | `08377.010` |
 | 11 | Khu Đồng Rào | Đồng Rào | `08377.011` |
 | 12 | Khu Đung | Đung | `08377.012` |
@@ -3046,9 +2978,9 @@ _Cập nhật 2026-08-31. Mốc: ✅ = đúng bộ máy 01/7/2026 · ⚠️ = hi
 |--:|-----------|-----------|----|
 | 1 | Khu An Phú | An Phú | `08398.001` |
 | 2 | Khu Dân Chủ | Dân Chủ | `08398.002` |
-| 3 | Khu Đòai Ngòai | Đòai Ngòai | `08398.003` |
-| 4 | Khu Đòai Trong | Đòai Trong | `08398.004` |
-| 5 | Khu Đòan Kết | Đòan Kết | `08398.005` |
+| 3 | Khu Đoài Ngoài | Đoài Ngoài | `08398.003` |
+| 4 | Khu Đoài Trong | Đoài Trong | `08398.004` |
+| 5 | Khu Đoàn Kết | Đoàn Kết | `08398.005` |
 | 6 | Khu Đồng Mười | Đồng Mười | `08398.006` |
 | 7 | Khu Đồng Tiến | Đồng Tiến | `08398.007` |
 | 8 | Khu Giáp Xuân | Giáp Xuân | `08398.008` |
@@ -3189,98 +3121,29 @@ _Cập nhật 2026-08-31. Mốc: ✅ = đúng bộ máy 01/7/2026 · ⚠️ = hi
 <a id="08443"></a>
 ## Xã Hiền Quan — `08443`
 
-- **Số lượng:** 22  ·  **Mốc:** ⚠️ danh mục hiện trạng TRƯỚC 01/7/2026 (chờ nghị quyết mới)  ·  **Mức xác minh:** `unverified`
+- **Số lượng:** 0  ·  **Mốc:** ⚠️ danh mục hiện trạng TRƯỚC 01/7/2026 (chờ nghị quyết mới)  ·  **Mức xác minh:** `pending`
 - **Nguồn:** [Danh sách người ứng cử đại biểu Hội đồng nhân dân xã Hiền Quan nhiệm kỳ 2026 - 2031](https://hienquan.phutho.gov.vn/index.php/tin-tuc-su-kien/chinh-tri/danh-sach-nguoi-ung-cu-dai-bieu-hoi-dong-nhan-dan-xa-hien-quan-nhiem-ky-2026-2031)
 - **Nguồn:** [NGHỊ QUYẾT 203/2025/QH15 SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA HIẾN PHÁP NƯỚC CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM](https://xaydungchinhsach.chinhphu.vn/nghi-quyet-203-2025-qh15-sua-doi-bo-sung-mot-so-dieu-cua-hien-phap-nuoc-cong-hoa-xa-hoi-chu-nghia-viet-nam-119250616181735552.htm)
 - **Nguồn:** [Nghị quyết số 1676/NQ-UBTVQH15 sắp xếp các ĐVHC cấp xã của tỉnh Phú Thọ năm 2025](https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-1676-nq-ubtvqh15-sap-xep-cac-dvhc-cap-xa-cua-tinh-phu-tho-nam-2025-119250616204317326.htm)
-- _Trích tự động từ Wikipedia tiếng Việt (mode=narrative). Cần đối chiếu nghị quyết HĐND phường/xã. ⚠️ Danh mục có thể là hiện trạng TRƯỚC sắp xếp thôn/TDP 01/7/2026 — Wikipedia chưa cập nhật nghị quyết mới._
-
-| # | Tên đầy đủ | Định danh | Mã |
-|--:|-----------|-----------|----|
-| 1 | Khu 1 | 1 | `08443.001` |
-| 2 | Khu 2 | 2 | `08443.002` |
-| 3 | Khu 3 | 3 | `08443.003` |
-| 4 | Khu 4 | 4 | `08443.004` |
-| 5 | Khu 5 | 5 | `08443.005` |
-| 6 | Khu 6 | 6 | `08443.006` |
-| 7 | Khu 7 | 7 | `08443.007` |
-| 8 | Khu 8 | 8 | `08443.008` |
-| 9 | Khu 9 | 9 | `08443.009` |
-| 10 | Khu 10 | 10 | `08443.010` |
-| 11 | Khu 11 | 11 | `08443.011` |
-| 12 | Khu 12 | 12 | `08443.012` |
-| 13 | Khu 13 | 13 | `08443.013` |
-| 14 | Khu 14 | 14 | `08443.014` |
-| 15 | Khu 15 | 15 | `08443.015` |
-| 16 | Khu 16 | 16 | `08443.016` |
-| 17 | Khu 17 | 17 | `08443.017` |
-| 18 | Khu 18 | 18 | `08443.018` |
-| 19 | Khu 19 | 19 | `08443.019` |
-| 20 | Khu 20 (xã Bắc Sơn cũ) | 20 (xã Bắc Sơn cũ) | `08443.020` |
-| 21 | Khu 14 (xã Hiền Quan cũ) | 14 (xã Hiền Quan cũ) | `08443.021` |
-| 22 | Khu 8 (xã Thanh Uyên cũ) | 8 (xã Thanh Uyên cũ) | `08443.022` |
+- _Wikipedia cho biết ~41 đơn vị nhưng chỉ ở dạng số/ghép theo đơn vị cũ — chưa có danh mục tên chính thức. Cần nghị quyết HĐND xã._
 
 <a id="08467"></a>
 ## Xã Vạn Xuân — `08467`
 
-- **Số lượng:** 26  ·  **Mốc:** ⚠️ danh mục hiện trạng TRƯỚC 01/7/2026 (chờ nghị quyết mới)  ·  **Mức xác minh:** `unverified`
+- **Số lượng:** 0  ·  **Mốc:** ⚠️ danh mục hiện trạng TRƯỚC 01/7/2026 (chờ nghị quyết mới)  ·  **Mức xác minh:** `pending`
 - **Nguồn:** [Quyết định số 2/QĐ-UBBC về việc ấn định đơn vị bầu cử và số đại biểu được bầu ở mỗi đơn vị bầu cử đại biểu Hội đồng nhân dân xã Vạn Xuân, nhiệm kỳ 2026 - 2031](https://vanxuan.phutho.gov.vn/index.php/2013-12-13-01-52-02/3-van-ban-bau-cu)
 - **Nguồn:** [wiki-08467-2](https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Nghi-quyet-828-NQ-UBTVQH14-2019-sap-xep-don-vi-hanh-chinh-cap-xa-thuoc-tinh-Phu-Tho-432098.aspx)
 - **Nguồn:** [NGHỊ QUYẾT 203/2025/QH15 SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA HIẾN PHÁP NƯỚC CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM](https://xaydungchinhsach.chinhphu.vn/nghi-quyet-203-2025-qh15-sua-doi-bo-sung-mot-so-dieu-cua-hien-phap-nuoc-cong-hoa-xa-hoi-chu-nghia-viet-nam-119250616181735552.htm)
-- _Trích tự động từ Wikipedia tiếng Việt (mode=narrative). Cần đối chiếu nghị quyết HĐND phường/xã. ⚠️ Danh mục có thể là hiện trạng TRƯỚC sắp xếp thôn/TDP 01/7/2026 — Wikipedia chưa cập nhật nghị quyết mới._
-
-| # | Tên đầy đủ | Định danh | Mã |
-|--:|-----------|-----------|----|
-| 1 | Khu 1 | 1 | `08467.001` |
-| 2 | Khu 2 | 2 | `08467.002` |
-| 3 | Khu 3 | 3 | `08467.003` |
-| 4 | Khu 4 | 4 | `08467.004` |
-| 5 | Khu 5 | 5 | `08467.005` |
-| 6 | Khu 6 | 6 | `08467.006` |
-| 7 | Khu 7 | 7 | `08467.007` |
-| 8 | Khu 8 | 8 | `08467.008` |
-| 9 | Khu 9 | 9 | `08467.009` |
-| 10 | Khu 10 | 10 | `08467.010` |
-| 11 | Khu 11 | 11 | `08467.011` |
-| 12 | Khu 12 | 12 | `08467.012` |
-| 13 | Khu 13 | 13 | `08467.013` |
-| 14 | Khu 14 | 14 | `08467.014` |
-| 15 | Khu 15 (xã Lam Sơn cũ) | 15 (xã Lam Sơn cũ) | `08467.015` |
-| 16 | Khu 9 (xã Quang Húc cũ) | 9 (xã Quang Húc cũ) | `08467.016` |
-| 17 | Khu 15 | 15 | `08467.017` |
-| 18 | Khu 16 | 16 | `08467.018` |
-| 19 | Khu 17 | 17 | `08467.019` |
-| 20 | Khu 18 | 18 | `08467.020` |
-| 21 | Khu 19 | 19 | `08467.021` |
-| 22 | Khu 20 | 20 | `08467.022` |
-| 23 | Khu 21 | 21 | `08467.023` |
-| 24 | Khu 22 | 22 | `08467.024` |
-| 25 | Khu 23 | 23 | `08467.025` |
-| 26 | Khu 24 (xã Vạn Xuân cũ) | 24 (xã Vạn Xuân cũ) | `08467.026` |
+- _Wikipedia cho biết ~48 đơn vị nhưng chỉ ở dạng số/ghép theo đơn vị cũ — chưa có danh mục tên chính thức. Cần nghị quyết HĐND xã._
 
 <a id="08479"></a>
 ## Xã Thọ Văn — `08479`
 
-- **Số lượng:** 12  ·  **Mốc:** ⚠️ danh mục hiện trạng TRƯỚC 01/7/2026 (chờ nghị quyết mới)  ·  **Mức xác minh:** `unverified`
+- **Số lượng:** 0  ·  **Mốc:** ⚠️ danh mục hiện trạng TRƯỚC 01/7/2026 (chờ nghị quyết mới)  ·  **Mức xác minh:** `pending`
 - **Nguồn:** [Danh sách Thôn vùng đồng bào dân tộc thiểu số và miền núi, thôn đặc biệt khó khăn giai đoạn 2026 - 2030 trên địa bàn tỉnh Phú Thọ](http://files.ubdt.gov.vn/files/ecm/source_files/2026/02/05/11252411_4.%20Ph%C3%BA%20Th%E1%BB%8D%201%20(th%C3%B4n).signed_26-02-05.pdf)
 - **Nguồn:** [Thông báo số 40/TB-UBND về việc niêm yết danh sách cử tri bầu cử đại biểu Quốc hội khóa XVI và bầu cử đại biểu Hội đồng nhân dân các cấp, nhiệm kỳ 2026 - 2031](https://web.facebook.com/story.php?story_fbid=122161681538924858&id=61577745756275&rdid=ZCgI00KN4NtIEryH#)
 - **Nguồn:** [NGHỊ QUYẾT 203/2025/QH15 SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA HIẾN PHÁP NƯỚC CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM](https://xaydungchinhsach.chinhphu.vn/nghi-quyet-203-2025-qh15-sua-doi-bo-sung-mot-so-dieu-cua-hien-phap-nuoc-cong-hoa-xa-hoi-chu-nghia-viet-nam-119250616181735552.htm)
-- _Trích tự động từ Wikipedia tiếng Việt (mode=narrative). Cần đối chiếu nghị quyết HĐND phường/xã. ⚠️ Danh mục có thể là hiện trạng TRƯỚC sắp xếp thôn/TDP 01/7/2026 — Wikipedia chưa cập nhật nghị quyết mới._
-
-| # | Tên đầy đủ | Định danh | Mã |
-|--:|-----------|-----------|----|
-| 1 | Khu 1 | 1 | `08479.001` |
-| 2 | Khu 2 | 2 | `08479.002` |
-| 3 | Khu 3 | 3 | `08479.003` |
-| 4 | Khu 4 | 4 | `08479.004` |
-| 5 | Khu 5 | 5 | `08479.005` |
-| 6 | Khu 6 | 6 | `08479.006` |
-| 7 | Khu 7 | 7 | `08479.007` |
-| 8 | Khu 8 (xã Dị Nậu cũ) | 8 (xã Dị Nậu cũ) | `08479.008` |
-| 9 | Khu 8 | 8 | `08479.009` |
-| 10 | Khu 9 | 9 | `08479.010` |
-| 11 | Khu (xã Tề Lễ cũ) | (xã Tề Lễ cũ) | `08479.011` |
-| 12 | Khu 9 (xã Thọ Văn cũ) | 9 (xã Thọ Văn cũ) | `08479.012` |
+- _Wikipedia cho biết ~25 đơn vị nhưng chỉ ở dạng số/ghép theo đơn vị cũ — chưa có danh mục tên chính thức. Cần nghị quyết HĐND xã._
 
 <a id="08494"></a>
 ## Xã Lâm Thao — `08494`
@@ -3305,34 +3168,11 @@ _Cập nhật 2026-08-31. Mốc: ✅ = đúng bộ máy 01/7/2026 · ⚠️ = hi
 <a id="08500"></a>
 ## Xã Xuân Lũng — `08500`
 
-- **Số lượng:** 20  ·  **Mốc:** ⚠️ danh mục hiện trạng TRƯỚC 01/7/2026 (chờ nghị quyết mới)  ·  **Mức xác minh:** `unverified`
+- **Số lượng:** 0  ·  **Mốc:** ⚠️ danh mục hiện trạng TRƯỚC 01/7/2026 (chờ nghị quyết mới)  ·  **Mức xác minh:** `pending`
 - **Nguồn:** [Ủy ban bầu cử xã Xuân Lũng trân trọng gửi tới cử tri và Nhân dân Tiểu sử tóm tắt những người ứng cử Đại biểu Hội đồng nhân dân xã nhiệm kỳ 2026 - 2031 tại Đơn vị bầu cử số 1](https://web.facebook.com/story.php?story_fbid=1262318702657166&id=100066371448905&rdid=DoybAAfh3cUU8k5w#)
 - **Nguồn:** [Trân trọng gửi tới cử tri và Nhân dân Tiểu sử tóm tắt những người ứng cử Đại biểu Hội đồng nhân dân xã nhiệm kỳ 2026 - 2031 tại Đơn vị bầu cử số 2](https://web.facebook.com/story.php?story_fbid=1262827019273001&id=100066371448905&rdid=0XUUqlP23OkfRc12#)
 - **Nguồn:** [Ủy ban bầu cử xã trân trọng gửi tới cử tri và Nhân dân Tiểu sử tóm tắt những người ứng cử Đại biểu Hội đồng nhân dân xã nhiệm kỳ 2026 - 2031 tại Đơn vị bầu cử số 3](https://web.facebook.com/story.php?story_fbid=1263409619214741&id=100066371448905&rdid=a9bqkoCnGhGIGzVg#)
-- _Trích tự động từ Wikipedia tiếng Việt (mode=narrative). Cần đối chiếu nghị quyết HĐND phường/xã. ⚠️ Danh mục có thể là hiện trạng TRƯỚC sắp xếp thôn/TDP 01/7/2026 — Wikipedia chưa cập nhật nghị quyết mới._
-
-| # | Tên đầy đủ | Định danh | Mã |
-|--:|-----------|-----------|----|
-| 1 | Khu 1 | 1 | `08500.001` |
-| 2 | Khu 2 | 2 | `08500.002` |
-| 3 | Khu 3 | 3 | `08500.003` |
-| 4 | Khu 4 | 4 | `08500.004` |
-| 5 | Khu 5 | 5 | `08500.005` |
-| 6 | Khu 6 | 6 | `08500.006` |
-| 7 | Khu 7 | 7 | `08500.007` |
-| 8 | Khu 8 | 8 | `08500.008` |
-| 9 | Khu 9 | 9 | `08500.009` |
-| 10 | Khu 10 | 10 | `08500.010` |
-| 11 | Khu 11 | 11 | `08500.011` |
-| 12 | Khu 12 | 12 | `08500.012` |
-| 13 | Khu 13 | 13 | `08500.013` |
-| 14 | Khu 14 | 14 | `08500.014` |
-| 15 | Khu 15 | 15 | `08500.015` |
-| 16 | Khu 16 (xã Tiên Kiên cũ) | 16 (xã Tiên Kiên cũ) | `08500.016` |
-| 17 | Khu 6 (xã Xuân Huy cũ) | 6 (xã Xuân Huy cũ) | `08500.017` |
-| 18 | Khu 16 | 16 | `08500.018` |
-| 19 | Khu 17 | 17 | `08500.019` |
-| 20 | Khu 18 (xã Xuân Lũng cũ) | 18 (xã Xuân Lũng cũ) | `08500.020` |
+- _Wikipedia cho biết ~38 đơn vị nhưng chỉ ở dạng số/ghép theo đơn vị cũ — chưa có danh mục tên chính thức. Cần nghị quyết HĐND xã._
 
 <a id="08515"></a>
 ## Xã Hy Cương — `08515`
@@ -3409,9 +3249,9 @@ _Cập nhật 2026-08-31. Mốc: ✅ = đúng bộ máy 01/7/2026 · ⚠️ = hi
 | 6 | Thôn Đình Nụ | Đình Nụ | `08527.006` |
 | 7 | Thôn Hạ Trang | Hạ Trang | `08527.007` |
 | 8 | Thôn Phù Phong | Phù Phong | `08527.008` |
-| 9 | Thôn Qùynh Lâm 1 | Qùynh Lâm 1 | `08527.009` |
-| 10 | Thôn Qùynh Lâm 2 | Qùynh Lâm 2 | `08527.010` |
-| 11 | Thôn Qùynh Lâm 3 | Qùynh Lâm 3 | `08527.011` |
+| 9 | Thôn Quỳnh Lâm 1 | Quỳnh Lâm 1 | `08527.009` |
+| 10 | Thôn Quỳnh Lâm 2 | Quỳnh Lâm 2 | `08527.010` |
+| 11 | Thôn Quỳnh Lâm 3 | Quỳnh Lâm 3 | `08527.011` |
 | 12 | Thôn Thành Chu | Thành Chu | `08527.012` |
 | 13 | Thôn Tiện Nội | Tiện Nội | `08527.013` |
 | 14 | Thôn Trịnh Xá | Trịnh Xá | `08527.014` |
@@ -3473,10 +3313,10 @@ _Cập nhật 2026-08-31. Mốc: ✅ = đúng bộ máy 01/7/2026 · ⚠️ = hi
 | 4 | Khu Chiềng 2 | Chiềng 2 | `08560.004` |
 | 5 | Khu Chiềng Lớn | Chiềng Lớn | `08560.005` |
 | 6 | Khu Dọc | Dọc | `08560.006` |
-| 7 | Khu Đòan | Đòan | `08560.007` |
+| 7 | Khu Đoàn | Đoàn | `08560.007` |
 | 8 | Khu Đồng | Đồng | `08560.008` |
 | 9 | Khu Đồng Than | Đồng Than | `08560.009` |
-| 10 | Khu Họat | Họat | `08560.010` |
+| 10 | Khu Hoạt | Hoạt | `08560.010` |
 | 11 | Khu Hòa | Hòa | `08560.011` |
 | 12 | Khu Ít | Ít | `08560.012` |
 | 13 | Khu Kết | Kết | `08560.013` |
@@ -3639,8 +3479,8 @@ _Cập nhật 2026-08-31. Mốc: ✅ = đúng bộ máy 01/7/2026 · ⚠️ = hi
 | 15 | Khu Đồng Tún | Đồng Tún | `08593.015` |
 | 16 | Khu Đường 1 | Đường 1 | `08593.016` |
 | 17 | Khu Đường 2 | Đường 2 | `08593.017` |
-| 18 | Khu Hòang Hà | Hòang Hà | `08593.018` |
-| 19 | Khu Hòang Văn | Hòang Văn | `08593.019` |
+| 18 | Khu Hoàng Hà | Hoàng Hà | `08593.018` |
+| 19 | Khu Hoàng Văn | Hoàng Văn | `08593.019` |
 | 20 | Khu Hồng Kiên | Hồng Kiên | `08593.020` |
 | 21 | Khu Hồng Phong | Hồng Phong | `08593.021` |
 | 22 | Khu Láng | Láng | `08593.022` |
@@ -3896,36 +3736,11 @@ _Cập nhật 2026-08-31. Mốc: ✅ = đúng bộ máy 01/7/2026 · ⚠️ = hi
 <a id="08662"></a>
 ## Xã Đào Xá — `08662`
 
-- **Số lượng:** 22  ·  **Mốc:** ⚠️ danh mục hiện trạng TRƯỚC 01/7/2026 (chờ nghị quyết mới)  ·  **Mức xác minh:** `unverified`
+- **Số lượng:** 0  ·  **Mốc:** ⚠️ danh mục hiện trạng TRƯỚC 01/7/2026 (chờ nghị quyết mới)  ·  **Mức xác minh:** `pending`
 - **Nguồn:** [Danh sách Thôn vùng đồng bào dân tộc thiểu số và miền núi, thôn đặc biệt khó khăn giai đoạn 2026 - 2030 trên địa bàn tỉnh Phú Thọ](http://files.ubdt.gov.vn/files/ecm/source_files/2026/02/05/11252411_4.%20Ph%C3%BA%20Th%E1%BB%8D%201%20(th%C3%B4n).signed_26-02-05.pdf)
 - **Nguồn:** [Giới thiệu danh sách người ứng cử đại biểu Hội đồng nhân dân xã Đào Xá nhiệm kỳ 2026 - 2031 tại Đơn vị bầu cử số 1, gồm các khu dân cư số 1, 2, 3, 4, 5 (Xuân Lộc cũ)](https://web.facebook.com/story.php?story_fbid=122162920904932024&id=61577960740205&rdid=dc4A1bMsL2OitMKF#)
 - **Nguồn:** [Giới thiệu danh sách người ứng cử đại biểu Hội đồng nhân dân xã Đào Xá nhiệm kỳ 2026 - 2031 tại Đơn vị bầu cử số 2, gồm các khu dân cư số 6, 7, 8 (Xuân Lộc cũ) và Khu dân cư số 6, 7, 8 (Thạch Đồng cũ)](https://web.facebook.com/story.php?story_fbid=122162924756932024&id=61577960740205&rdid=0AqTRgAiYhYUWcwv#)
-- _Trích tự động từ Wikipedia tiếng Việt (mode=narrative). Cần đối chiếu nghị quyết HĐND phường/xã. ⚠️ Danh mục có thể là hiện trạng TRƯỚC sắp xếp thôn/TDP 01/7/2026 — Wikipedia chưa cập nhật nghị quyết mới._
-
-| # | Tên đầy đủ | Định danh | Mã |
-|--:|-----------|-----------|----|
-| 1 | Khu 1 | 1 | `08662.001` |
-| 2 | Khu 2 | 2 | `08662.002` |
-| 3 | Khu 3 | 3 | `08662.003` |
-| 4 | Khu 4 | 4 | `08662.004` |
-| 5 | Khu 5 | 5 | `08662.005` |
-| 6 | Khu 6 | 6 | `08662.006` |
-| 7 | Khu 7 | 7 | `08662.007` |
-| 8 | Khu 8 | 8 | `08662.008` |
-| 9 | Khu 9 | 9 | `08662.009` |
-| 10 | Khu 10 | 10 | `08662.010` |
-| 11 | Khu 11 | 11 | `08662.011` |
-| 12 | Khu 12 | 12 | `08662.012` |
-| 13 | Khu 13 | 13 | `08662.013` |
-| 14 | Khu 14 | 14 | `08662.014` |
-| 15 | Khu 15 | 15 | `08662.015` |
-| 16 | Khu 16 | 16 | `08662.016` |
-| 17 | Khu 17 | 17 | `08662.017` |
-| 18 | Khu 18 | 18 | `08662.018` |
-| 19 | Khu 19 (xã Đào Xá cũ) | 19 (xã Đào Xá cũ) | `08662.019` |
-| 20 | Khu 8 (xã Tân Phương cũ) | 8 (xã Tân Phương cũ) | `08662.020` |
-| 21 | Khu 8 (xã Thạch Đồng cũ) | 8 (xã Thạch Đồng cũ) | `08662.021` |
-| 22 | Khu 8 (xã Xuân Lộc cũ) | 8 (xã Xuân Lộc cũ) | `08662.022` |
+- _Wikipedia cho biết ~43 đơn vị nhưng chỉ ở dạng số/ghép theo đơn vị cũ — chưa có danh mục tên chính thức. Cần nghị quyết HĐND xã._
 
 <a id="08674"></a>
 ## Xã Thanh Thuỷ — `08674`
@@ -3967,28 +3782,28 @@ _Cập nhật 2026-08-31. Mốc: ✅ = đúng bộ máy 01/7/2026 · ⚠️ = hi
 | 14 | Khu 14 Đồng Trung | 14 Đồng Trung | `08686.014` |
 | 15 | Khu 15 Đồng Trung | 15 Đồng Trung | `08686.015` |
 | 16 | Khu 16 Đồng Trung | 16 Đồng Trung | `08686.016` |
-| 17 | Khu 1 Hòang Xá | 1 Hòang Xá | `08686.017` |
-| 18 | Khu 2 Hòang Xá | 2 Hòang Xá | `08686.018` |
-| 19 | Khu 3 Hòang Xá | 3 Hòang Xá | `08686.019` |
-| 20 | Khu 4 Hòang Xá | 4 Hòang Xá | `08686.020` |
-| 21 | Khu 5 Hòang Xá | 5 Hòang Xá | `08686.021` |
-| 22 | Khu 6 Hòang Xá | 6 Hòang Xá | `08686.022` |
-| 23 | Khu 7 Hòang Xá | 7 Hòang Xá | `08686.023` |
-| 24 | Khu 8 Hòang Xá | 8 Hòang Xá | `08686.024` |
-| 25 | Khu 9 Hòang Xá | 9 Hòang Xá | `08686.025` |
-| 26 | Khu 10 Hòang Xá | 10 Hòang Xá | `08686.026` |
-| 27 | Khu 11 Hòang Xá | 11 Hòang Xá | `08686.027` |
-| 28 | Khu 12 Hòang Xá | 12 Hòang Xá | `08686.028` |
-| 29 | Khu 13 Hòang Xá | 13 Hòang Xá | `08686.029` |
-| 30 | Khu 14 Hòang Xá | 14 Hòang Xá | `08686.030` |
-| 31 | Khu 15 Hòang Xá | 15 Hòang Xá | `08686.031` |
-| 32 | Khu 16 Hòang Xá | 16 Hòang Xá | `08686.032` |
-| 33 | Khu 17 Hòang Xá | 17 Hòang Xá | `08686.033` |
-| 34 | Khu 18 Hòang Xá | 18 Hòang Xá | `08686.034` |
-| 35 | Khu 19 Hòang Xá | 19 Hòang Xá | `08686.035` |
-| 36 | Khu 20 Hòang Xá | 20 Hòang Xá | `08686.036` |
-| 37 | Khu 21 Hòang Xá | 21 Hòang Xá | `08686.037` |
-| 38 | Khu 22 Hòang Xá | 22 Hòang Xá | `08686.038` |
+| 17 | Khu 1 Hoàng Xá | 1 Hoàng Xá | `08686.017` |
+| 18 | Khu 2 Hoàng Xá | 2 Hoàng Xá | `08686.018` |
+| 19 | Khu 3 Hoàng Xá | 3 Hoàng Xá | `08686.019` |
+| 20 | Khu 4 Hoàng Xá | 4 Hoàng Xá | `08686.020` |
+| 21 | Khu 5 Hoàng Xá | 5 Hoàng Xá | `08686.021` |
+| 22 | Khu 6 Hoàng Xá | 6 Hoàng Xá | `08686.022` |
+| 23 | Khu 7 Hoàng Xá | 7 Hoàng Xá | `08686.023` |
+| 24 | Khu 8 Hoàng Xá | 8 Hoàng Xá | `08686.024` |
+| 25 | Khu 9 Hoàng Xá | 9 Hoàng Xá | `08686.025` |
+| 26 | Khu 10 Hoàng Xá | 10 Hoàng Xá | `08686.026` |
+| 27 | Khu 11 Hoàng Xá | 11 Hoàng Xá | `08686.027` |
+| 28 | Khu 12 Hoàng Xá | 12 Hoàng Xá | `08686.028` |
+| 29 | Khu 13 Hoàng Xá | 13 Hoàng Xá | `08686.029` |
+| 30 | Khu 14 Hoàng Xá | 14 Hoàng Xá | `08686.030` |
+| 31 | Khu 15 Hoàng Xá | 15 Hoàng Xá | `08686.031` |
+| 32 | Khu 16 Hoàng Xá | 16 Hoàng Xá | `08686.032` |
+| 33 | Khu 17 Hoàng Xá | 17 Hoàng Xá | `08686.033` |
+| 34 | Khu 18 Hoàng Xá | 18 Hoàng Xá | `08686.034` |
+| 35 | Khu 19 Hoàng Xá | 19 Hoàng Xá | `08686.035` |
+| 36 | Khu 20 Hoàng Xá | 20 Hoàng Xá | `08686.036` |
+| 37 | Khu 21 Hoàng Xá | 21 Hoàng Xá | `08686.037` |
+| 38 | Khu 22 Hoàng Xá | 22 Hoàng Xá | `08686.038` |
 | 39 | Khu 1 Tu Vũ | 1 Tu Vũ | `08686.039` |
 | 40 | Khu 2 Tu Vũ | 2 Tu Vũ | `08686.040` |
 | 41 | Khu 3 Tu Vũ | 3 Tu Vũ | `08686.041` |
@@ -4022,7 +3837,7 @@ _Cập nhật 2026-08-31. Mốc: ✅ = đúng bộ máy 01/7/2026 · ⚠️ = hi
 |--:|-----------|-----------|----|
 | 1 | Tổ dân phố An Phú | An Phú | `08707.001` |
 | 2 | Tổ dân phố Cả | Cả | `08707.002` |
-| 3 | Tổ dân phố Đòai | Đòai | `08707.003` |
+| 3 | Tổ dân phố Đoài | Đoài | `08707.003` |
 | 4 | Tổ dân phố Đông | Đông | `08707.004` |
 | 5 | Tổ dân phố Đông Cường | Đông Cường | `08707.005` |
 | 6 | Tổ dân phố Đông Hòa | Đông Hòa | `08707.006` |
@@ -4031,7 +3846,7 @@ _Cập nhật 2026-08-31. Mốc: ✅ = đúng bộ máy 01/7/2026 · ⚠️ = hi
 | 9 | Tổ dân phố Đông Nghĩa | Đông Nghĩa | `08707.009` |
 | 10 | Tổ dân phố Đông Nhân | Đông Nhân | `08707.010` |
 | 11 | Tổ dân phố Đông Phú | Đông Phú | `08707.011` |
-| 12 | Tổ dân phố Đông Qúy | Đông Qúy | `08707.012` |
+| 12 | Tổ dân phố Đông Quý | Đông Quý | `08707.012` |
 | 13 | Tổ dân phố Đông Thành | Đông Thành | `08707.013` |
 | 14 | Tổ dân phố Đông Thịnh | Đông Thịnh | `08707.014` |
 | 15 | Tổ dân phố Đồng Khâu | Đồng Khâu | `08707.015` |
@@ -4076,7 +3891,7 @@ _Cập nhật 2026-08-31. Mốc: ✅ = đúng bộ máy 01/7/2026 · ⚠️ = hi
 | 8 | Tổ dân phố Chùa Láp | Chùa Láp | `08716.008` |
 | 9 | Tổ dân phố Đầm Vạc | Đầm Vạc | `08716.009` |
 | 10 | Tổ dân phố Đậu | Đậu | `08716.010` |
-| 11 | Tổ dân phố Đinh Tiên Hòang | Đinh Tiên Hòang | `08716.011` |
+| 11 | Tổ dân phố Đinh Tiên Hoàng | Đinh Tiên Hoàng | `08716.011` |
 | 12 | Tổ dân phố Đình Láp | Đình Láp | `08716.012` |
 | 13 | Tổ dân phố Định Trung | Định Trung | `08716.013` |
 | 14 | Tổ dân phố Đôn Hậu | Đôn Hậu | `08716.014` |
@@ -4101,7 +3916,7 @@ _Cập nhật 2026-08-31. Mốc: ✅ = đúng bộ máy 01/7/2026 · ⚠️ = hi
 | 33 | Tổ dân phố Tô Hiệu | Tô Hiệu | `08716.033` |
 | 34 | Tổ dân phố Trại Giao | Trại Giao | `08716.034` |
 | 35 | Tổ dân phố Trần Phú | Trần Phú | `08716.035` |
-| 36 | Tổ dân phố Trần Quốc Tỏan | Trần Quốc Tỏan | `08716.036` |
+| 36 | Tổ dân phố Trần Quốc Toản | Trần Quốc Toản | `08716.036` |
 | 37 | Tổ dân phố Trần Quốc Tuấn | Trần Quốc Tuấn | `08716.037` |
 | 38 | Tổ dân phố Vẽn | Vẽn | `08716.038` |
 | 39 | Tổ dân phố Vinh Thịnh Đông | Vinh Thịnh Đông | `08716.039` |
@@ -4161,7 +3976,7 @@ _Cập nhật 2026-08-31. Mốc: ✅ = đúng bộ máy 01/7/2026 · ⚠️ = hi
 | 3 | Tổ dân phố Cao Quang | Cao Quang | `08746.003` |
 | 4 | Tổ dân phố Đại Quang | Đại Quang | `08746.004` |
 | 5 | Tổ dân phố Đồng Chằm | Đồng Chằm | `08746.005` |
-| 6 | Tổ dân phố Đồng Qùy | Đồng Qùy | `08746.006` |
+| 6 | Tổ dân phố Đồng Quỳ | Đồng Quỳ | `08746.006` |
 | 7 | Tổ dân phố Đồng Xuân | Đồng Xuân | `08746.007` |
 | 8 | Tổ dân phố Đức Cung | Đức Cung | `08746.008` |
 | 9 | Tổ dân phố Hiển Lễ | Hiển Lễ | `08746.009` |
@@ -4204,7 +4019,7 @@ _Cập nhật 2026-08-31. Mốc: ✅ = đúng bộ máy 01/7/2026 · ⚠️ = hi
 | 11 | Thôn Gằm | Gằm | `08761.011` |
 | 12 | Thôn Gia Hòa | Gia Hòa | `08761.012` |
 | 13 | Thôn Guồng | Guồng | `08761.013` |
-| 14 | Thôn Hòang Sơn | Hòang Sơn | `08761.014` |
+| 14 | Thôn Hoàng Sơn | Hoàng Sơn | `08761.014` |
 | 15 | Thôn Hòa Phong | Hòa Phong | `08761.015` |
 | 16 | Thôn Hồng Thái | Hồng Thái | `08761.016` |
 | 17 | Thôn Hưng Thịnh | Hưng Thịnh | `08761.017` |
@@ -4261,7 +4076,7 @@ _Cập nhật 2026-08-31. Mốc: ✅ = đúng bộ máy 01/7/2026 · ⚠️ = hi
 | 11 | Thôn Hòa Loan | Hòa Loan | `08770.011` |
 | 12 | Thôn Kiên Đình | Kiên Đình | `08770.012` |
 | 13 | Thôn Minh Sơn | Minh Sơn | `08770.013` |
-| 14 | Thôn Nghệ Ỏan Trung | Nghệ Ỏan Trung | `08770.014` |
+| 14 | Thôn Nghệ Oản Trung | Nghệ Oản Trung | `08770.014` |
 | 15 | Thôn Ngọc | Ngọc | `08770.015` |
 | 16 | Thôn Ngọc Kỳ | Ngọc Kỳ | `08770.016` |
 | 17 | Thôn Ngọc Sơn | Ngọc Sơn | `08770.017` |
@@ -4290,13 +4105,13 @@ _Cập nhật 2026-08-31. Mốc: ✅ = đúng bộ máy 01/7/2026 · ⚠️ = hi
 |--:|-----------|-----------|----|
 | 1 | Thôn Đá Đen | Đá Đen | `08773.001` |
 | 2 | Thôn Đá Đứng | Đá Đứng | `08773.002` |
-| 3 | Thôn Đòan Kết | Đòan Kết | `08773.003` |
+| 3 | Thôn Đoàn Kết | Đoàn Kết | `08773.003` |
 | 4 | Thôn Đồng Dạ | Đồng Dạ | `08773.004` |
 | 5 | Thôn Đồng Dong | Đồng Dong | `08773.005` |
 | 6 | Thôn Đồng Nùng | Đồng Nùng | `08773.006` |
 | 7 | Thôn Đồng Tâm | Đồng Tâm | `08773.007` |
 | 8 | Thôn Đức Thịnh | Đức Thịnh | `08773.008` |
-| 9 | Thôn Hòanh Sơn | Hòanh Sơn | `08773.009` |
+| 9 | Thôn Hoành Sơn | Hoành Sơn | `08773.009` |
 | 10 | Thôn Lãng Sơn | Lãng Sơn | `08773.010` |
 | 11 | Thôn Lý Nhân | Lý Nhân | `08773.011` |
 | 12 | Thôn Minh Tân | Minh Tân | `08773.012` |
@@ -4369,7 +4184,7 @@ _Cập nhật 2026-08-31. Mốc: ✅ = đúng bộ máy 01/7/2026 · ⚠️ = hi
 | 12 | Thôn Đồng Làng | Đồng Làng | `08788.012` |
 | 13 | Thôn Đồng Ngõa | Đồng Ngõa | `08788.013` |
 | 14 | Thôn Gò Giềng | Gò Giềng | `08788.014` |
-| 15 | Thôn Hòang Chỉ | Hòang Chỉ | `08788.015` |
+| 15 | Thôn Hoàng Chỉ | Hoàng Chỉ | `08788.015` |
 | 16 | Thôn Hồng Phong | Hồng Phong | `08788.016` |
 | 17 | Thôn Hữu Phúc | Hữu Phúc | `08788.017` |
 | 18 | Thôn Sen | Sen | `08788.018` |
@@ -4434,7 +4249,7 @@ _Cập nhật 2026-08-31. Mốc: ✅ = đúng bộ máy 01/7/2026 · ⚠️ = hi
 | 3 | Thôn Cầu Gạo | Cầu Gạo | `08824.003` |
 | 4 | Thôn Cẩm Bình | Cẩm Bình | `08824.004` |
 | 5 | Thôn Cửa Ngòi | Cửa Ngòi | `08824.005` |
-| 6 | Thôn Đòan Kết | Đòan Kết | `08824.006` |
+| 6 | Thôn Đoàn Kết | Đoàn Kết | `08824.006` |
 | 7 | Thôn Đồng Mùi | Đồng Mùi | `08824.007` |
 | 8 | Thôn Đồng Sinh | Đồng Sinh | `08824.008` |
 | 9 | Thôn Đồng Văn | Đồng Văn | `08824.009` |
@@ -4475,11 +4290,11 @@ _Cập nhật 2026-08-31. Mốc: ✅ = đúng bộ máy 01/7/2026 · ⚠️ = hi
 | 3 | Thôn Cộng Hòa | Cộng Hòa | `08842.003` |
 | 4 | Thôn Dộc | Dộc | `08842.004` |
 | 5 | Thôn Đại Lữ | Đại Lữ | `08842.005` |
-| 6 | Thôn Đòan Kết | Đòan Kết | `08842.006` |
+| 6 | Thôn Đoàn Kết | Đoàn Kết | `08842.006` |
 | 7 | Thôn Đông Xuân | Đông Xuân | `08842.007` |
 | 8 | Thôn Đồng Tâm | Đồng Tâm | `08842.008` |
 | 9 | Thôn Hạ Ích | Hạ Ích | `08842.009` |
-| 10 | Thôn Hòang Chung | Hòang Chung | `08842.010` |
+| 10 | Thôn Hoàng Chung | Hoàng Chung | `08842.010` |
 | 11 | Thôn Lai Châu | Lai Châu | `08842.011` |
 | 12 | Thôn Lan Hùng | Lan Hùng | `08842.012` |
 | 13 | Thôn Liên Sơn | Liên Sơn | `08842.013` |
@@ -4522,14 +4337,14 @@ _Cập nhật 2026-08-31. Mốc: ✅ = đúng bộ máy 01/7/2026 · ⚠️ = hi
 | 3 | Thôn Chiến Thắng | Chiến Thắng | `08848.003` |
 | 4 | Thôn Dương Thọ | Dương Thọ | `08848.004` |
 | 5 | Thôn Đại Thắng | Đại Thắng | `08848.005` |
-| 6 | Thôn Đòan Kết | Đòan Kết | `08848.006` |
+| 6 | Thôn Đoàn Kết | Đoàn Kết | `08848.006` |
 | 7 | Thôn Đồng Tâm | Đồng Tâm | `08848.007` |
 | 8 | Thôn Giáp Trung | Giáp Trung | `08848.008` |
 | 9 | Thôn Hiệp Lực | Hiệp Lực | `08848.009` |
 | 10 | Thôn Hoa Mỹ | Hoa Mỹ | `08848.010` |
-| 11 | Thôn Khóai Thọ | Khóai Thọ | `08848.011` |
-| 12 | Thôn Khóai Thượng | Khóai Thượng | `08848.012` |
-| 13 | Thôn Khóai Trung | Khóai Trung | `08848.013` |
+| 11 | Thôn Khoái Thọ | Khoái Thọ | `08848.011` |
+| 12 | Thôn Khoái Thượng | Khoái Thượng | `08848.012` |
+| 13 | Thôn Khoái Trung | Khoái Trung | `08848.013` |
 | 14 | Thôn Lương Thịnh | Lương Thịnh | `08848.014` |
 | 15 | Thôn Minh Khai | Minh Khai | `08848.015` |
 | 16 | Thôn Minh Tân | Minh Tân | `08848.016` |
@@ -4573,7 +4388,7 @@ _Cập nhật 2026-08-31. Mốc: ✅ = đúng bộ máy 01/7/2026 · ⚠️ = hi
 | 7 | Thôn Đa Cai | Đa Cai | `08866.007` |
 | 8 | Thôn Đạo Nội | Đạo Nội | `08866.008` |
 | 9 | Thôn Đẽn | Đẽn | `08866.009` |
-| 10 | Thôn Đòan Thành | Đòan Thành | `08866.010` |
+| 10 | Thôn Đoàn Thành | Đoàn Thành | `08866.010` |
 | 11 | Thôn Đông Mật | Đông Mật | `08866.011` |
 | 12 | Thôn Đông Thịnh | Đông Thịnh | `08866.012` |
 | 13 | Thôn Giang | Giang | `08866.013` |
@@ -4630,7 +4445,7 @@ _Cập nhật 2026-08-31. Mốc: ✅ = đúng bộ máy 01/7/2026 · ⚠️ = hi
 | 10 | Thôn Dội | Dội | `08869.010` |
 | 11 | Thôn Điền Lương | Điền Lương | `08869.011` |
 | 12 | Thôn Điền Trù | Điền Trù | `08869.012` |
-| 13 | Thôn Đòan Kết | Đòan Kết | `08869.013` |
+| 13 | Thôn Đoàn Kết | Đoàn Kết | `08869.013` |
 | 14 | Thôn Đông Ăng | Đông Ăng | `08869.014` |
 | 15 | Thôn Đông Cao | Đông Cao | `08869.015` |
 | 16 | Thôn Đồi | Đồi | `08869.016` |
@@ -4689,7 +4504,7 @@ _Cập nhật 2026-08-31. Mốc: ✅ = đúng bộ máy 01/7/2026 · ⚠️ = hi
 | 16 | Thôn Ngọc Thạch | Ngọc Thạch | `08872.016` |
 | 17 | Thôn Nhân Lý | Nhân Lý | `08872.017` |
 | 18 | Thôn Quan Đình | Quan Đình | `08872.018` |
-| 19 | Thôn Quan Ngọai | Quan Ngọai | `08872.019` |
+| 19 | Thôn Quan Ngoại | Quan Ngoại | `08872.019` |
 | 20 | Thôn Quan Nội | Quan Nội | `08872.020` |
 | 21 | Thôn Quang Trung | Quang Trung | `08872.021` |
 | 22 | Thôn Quẵng | Quẵng | `08872.022` |
@@ -4714,8 +4529,8 @@ _Cập nhật 2026-08-31. Mốc: ✅ = đúng bộ máy 01/7/2026 · ⚠️ = hi
 | 3 | Thôn Cầu | Cầu | `08896.003` |
 | 4 | Thôn Chằm | Chằm | `08896.004` |
 | 5 | Thôn Chấu | Chấu | `08896.005` |
-| 6 | Thôn Đòai Đỗ | Đòai Đỗ | `08896.006` |
-| 7 | Thôn Đòan Kết | Đòan Kết | `08896.007` |
+| 6 | Thôn Đoài Đỗ | Đoài Đỗ | `08896.006` |
+| 7 | Thôn Đoàn Kết | Đoàn Kết | `08896.007` |
 | 8 | Thôn Đô Lương | Đô Lương | `08896.008` |
 | 9 | Thôn Đông | Đông | `08896.009` |
 | 10 | Thôn Đồng Lực | Đồng Lực | `08896.010` |
@@ -4812,7 +4627,7 @@ _Cập nhật 2026-08-31. Mốc: ✅ = đúng bộ máy 01/7/2026 · ⚠️ = hi
 | 22 | Thôn Lưu Quang | Lưu Quang | `08911.022` |
 | 23 | Thôn Minh Hồng | Minh Hồng | `08911.023` |
 | 24 | Thôn Minh Tân | Minh Tân | `08911.024` |
-| 25 | Thôn Nga Hòang | Nga Hòang | `08911.025` |
+| 25 | Thôn Nga Hoàng | Nga Hoàng | `08911.025` |
 | 26 | Thôn Núc Hạ | Núc Hạ | `08911.026` |
 | 27 | Thôn Núc Thượng | Núc Thượng | `08911.027` |
 | 28 | Thôn Phô Cốc | Phô Cốc | `08911.028` |
@@ -4912,7 +4727,7 @@ _Cập nhật 2026-08-31. Mốc: ✅ = đúng bộ máy 01/7/2026 · ⚠️ = hi
 | 9 | Thôn Hương Canh | Hương Canh | `08935.009` |
 | 10 | Thôn Hữu Bằng | Hữu Bằng | `08935.010` |
 | 11 | Thôn Lương Cầu | Lương Cầu | `08935.011` |
-| 12 | Thôn Ngọai Trạch | Ngọai Trạch | `08935.012` |
+| 12 | Thôn Ngoại Trạch | Ngoại Trạch | `08935.012` |
 | 13 | Thôn Ngọc Bảo | Ngọc Bảo | `08935.013` |
 | 14 | Thôn Ngọc Canh | Ngọc Canh | `08935.014` |
 | 15 | Thôn Nhân Nghĩa | Nhân Nghĩa | `08935.015` |
@@ -4922,7 +4737,7 @@ _Cập nhật 2026-08-31. Mốc: ✅ = đúng bộ máy 01/7/2026 · ⚠️ = hi
 | 19 | Thôn Tam Canh | Tam Canh | `08935.019` |
 | 20 | Thôn Tam Hợp | Tam Hợp | `08935.020` |
 | 21 | Thôn Tiên Hường | Tiên Hường | `08935.021` |
-| 22 | Thôn Trong Ngòai | Trong Ngòai | `08935.022` |
+| 22 | Thôn Trong Ngoài | Trong Ngoài | `08935.022` |
 
 <a id="08944"></a>
 ## Xã Bình Tuyền — `08944`
@@ -4973,7 +4788,7 @@ _Cập nhật 2026-08-31. Mốc: ✅ = đúng bộ máy 01/7/2026 · ⚠️ = hi
 | 10 | Thôn Gốc Gạo | Gốc Gạo | `08950.010` |
 | 11 | Thôn Hà Châu | Hà Châu | `08950.011` |
 | 12 | Thôn Hiệp Thuận | Hiệp Thuận | `08950.012` |
-| 13 | Thôn Hòang Oanh | Hòang Oanh | `08950.013` |
+| 13 | Thôn Hoàng Oanh | Hoàng Oanh | `08950.013` |
 | 14 | Thôn Hương Đà | Hương Đà | `08950.014` |
 | 15 | Thôn Hương Ngọc | Hương Ngọc | `08950.015` |
 | 16 | Thôn Hương Vị | Hương Vị | `08950.016` |
@@ -5014,8 +4829,8 @@ _Cập nhật 2026-08-31. Mốc: ✅ = đúng bộ máy 01/7/2026 · ⚠️ = hi
 | 7 | Thôn Đại Phúc 1 | Đại Phúc 1 | `08971.007` |
 | 8 | Thôn Đại Phúc 2 | Đại Phúc 2 | `08971.008` |
 | 9 | Thôn Đầu Làng | Đầu Làng | `08971.009` |
-| 10 | Thôn Đòan Kết | Đòan Kết | `08971.010` |
-| 11 | Thôn Đông Đòai | Đông Đòai | `08971.011` |
+| 10 | Thôn Đoàn Kết | Đoàn Kết | `08971.010` |
+| 11 | Thôn Đông Đoài | Đông Đoài | `08971.011` |
 | 12 | Thôn Đồng Lý | Đồng Lý | `08971.012` |
 | 13 | Thôn Đồng Sáo | Đồng Sáo | `08971.013` |
 | 14 | Thôn Độc Lập | Độc Lập | `08971.014` |
@@ -5042,7 +4857,7 @@ _Cập nhật 2026-08-31. Mốc: ✅ = đúng bộ máy 01/7/2026 · ⚠️ = hi
 | 35 | Thôn Trại | Trại | `08971.035` |
 | 36 | Thôn Trại Dật | Trại Dật | `08971.036` |
 | 37 | Thôn Trại Giữa | Trại Giữa | `08971.037` |
-| 38 | Thôn Trại Ngòai | Trại Ngòai | `08971.038` |
+| 38 | Thôn Trại Ngoài | Trại Ngoài | `08971.038` |
 | 39 | Thôn Trại Trong | Trại Trong | `08971.039` |
 | 40 | Thôn Trường Thư | Trường Thư | `08971.040` |
 | 41 | Thôn Vườn Quan | Vườn Quan | `08971.041` |
@@ -5068,10 +4883,10 @@ _Cập nhật 2026-08-31. Mốc: ✅ = đúng bộ máy 01/7/2026 · ⚠️ = hi
 | 6 | Thôn Đại Nội | Đại Nội | `09025.006` |
 | 7 | Thôn Phú Cường | Phú Cường | `09025.007` |
 | 8 | Thôn Vật Cách | Vật Cách | `09025.008` |
-| 9 | Thôn Vĩnh Đòai 1 | Vĩnh Đòai 1 | `09025.009` |
-| 10 | Thôn Vĩnh Đòai 2 | Vĩnh Đòai 2 | `09025.010` |
-| 11 | Thôn Vĩnh Đòai 3 | Vĩnh Đòai 3 | `09025.011` |
-| 12 | Thôn Vĩnh Đòai 4 | Vĩnh Đòai 4 | `09025.012` |
+| 9 | Thôn Vĩnh Đoài 1 | Vĩnh Đoài 1 | `09025.009` |
+| 10 | Thôn Vĩnh Đoài 2 | Vĩnh Đoài 2 | `09025.010` |
+| 11 | Thôn Vĩnh Đoài 3 | Vĩnh Đoài 3 | `09025.011` |
+| 12 | Thôn Vĩnh Đoài 4 | Vĩnh Đoài 4 | `09025.012` |
 | 13 | Thôn Vĩnh Đông 1 | Vĩnh Đông 1 | `09025.013` |
 | 14 | Thôn Vĩnh Đông 2 | Vĩnh Đông 2 | `09025.014` |
 | 15 | Thôn Vĩnh Đông 3 | Vĩnh Đông 3 | `09025.015` |
@@ -5107,7 +4922,7 @@ _Cập nhật 2026-08-31. Mốc: ✅ = đúng bộ máy 01/7/2026 · ⚠️ = hi
 | 8 | Thôn Giã Bàng 1 | Giã Bàng 1 | `09040.008` |
 | 9 | Thôn Giã Bàng 2 | Giã Bàng 2 | `09040.009` |
 | 10 | Thôn Giã Bàng 3 | Giã Bàng 3 | `09040.010` |
-| 11 | Thôn Hòang Thạch | Hòang Thạch | `09040.011` |
+| 11 | Thôn Hoàng Thạch | Hoàng Thạch | `09040.011` |
 | 12 | Thôn Hùng Vĩ 1 | Hùng Vĩ 1 | `09040.012` |
 | 13 | Thôn Hùng Vĩ 2 | Hùng Vĩ 2 | `09040.013` |
 | 14 | Thôn Hùng Vĩ 3 | Hùng Vĩ 3 | `09040.014` |
@@ -5259,7 +5074,7 @@ _Cập nhật 2026-08-31. Mốc: ✅ = đúng bộ máy 01/7/2026 · ⚠️ = hi
 | 11 | Thôn Ngược Phù Lập | Ngược Phù Lập | `09076.011` |
 | 12 | Thôn Nhật Tân | Nhật Tân | `09076.012` |
 | 13 | Thôn Phong Doanh | Phong Doanh | `09076.013` |
-| 14 | Thôn Phú Lập Ngòai | Phú Lập Ngòai | `09076.014` |
+| 14 | Thôn Phú Lập Ngoài | Phú Lập Ngoài | `09076.014` |
 | 15 | Thôn Phúc Lập Trong | Phúc Lập Trong | `09076.015` |
 | 16 | Thôn Phù Cốc | Phù Cốc | `09076.016` |
 | 17 | Thôn Quảng Cư | Quảng Cư | `09076.017` |
@@ -5288,11 +5103,11 @@ _Cập nhật 2026-08-31. Mốc: ✅ = đúng bộ máy 01/7/2026 · ⚠️ = hi
 | 1 | Thôn Cẩm Chiền | Cẩm Chiền | `09079.001` |
 | 2 | Thôn Đình | Đình | `09079.002` |
 | 3 | Thôn Hạ Chuế | Hạ Chuế | `09079.003` |
-| 4 | Thôn Hòang Hạ | Hòang Hạ | `09079.004` |
-| 5 | Thôn Hòang Tân | Hòang Tân | `09079.005` |
-| 6 | Thôn Hòang Thượng | Hòang Thượng | `09079.006` |
-| 7 | Thôn Hòang Trung | Hòang Trung | `09079.007` |
-| 8 | Thôn Khóat | Khóat | `09079.008` |
+| 4 | Thôn Hoàng Hạ | Hoàng Hạ | `09079.004` |
+| 5 | Thôn Hoàng Tân | Hoàng Tân | `09079.005` |
+| 6 | Thôn Hoàng Thượng | Hoàng Thượng | `09079.006` |
+| 7 | Thôn Hoàng Trung | Hoàng Trung | `09079.007` |
+| 8 | Thôn Khoát | Khoát | `09079.008` |
 | 9 | Thôn Lực Điền | Lực Điền | `09079.009` |
 | 10 | Thôn Nha | Nha | `09079.010` |
 | 11 | Thôn Nội | Nội | `09079.011` |
@@ -5439,7 +5254,7 @@ _Cập nhật 2026-08-31. Mốc: ✅ = đúng bộ máy 01/7/2026 · ⚠️ = hi
 | 18 | Thôn Gồ | Gồ | `09154.018` |
 | 19 | Thôn Hậu Lộc | Hậu Lộc | `09154.019` |
 | 20 | Thôn Hệ | Hệ | `09154.020` |
-| 21 | Thôn Hòang Xá | Hòang Xá | `09154.021` |
+| 21 | Thôn Hoàng Xá | Hoàng Xá | `09154.021` |
 | 22 | Thôn Hồi Cương | Hồi Cương | `09154.022` |
 | 23 | Thôn Khách Nhi | Khách Nhi | `09154.023` |
 | 24 | Thôn Khách Nhi Ngược | Khách Nhi Ngược | `09154.024` |

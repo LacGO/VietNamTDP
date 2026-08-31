@@ -113,14 +113,18 @@ def extract_tdp(wt: str, ward_name: str):
     #    -3 mỗi lần xuất hiện "... cũ)" (danh sách mô tả theo đơn vị cũ = hiện trạng chuyển tiếp)
     #    +2 nếu nằm ngay sau tiêu đề "== Hành chính =="
     cands = []
+    numeric_only = None  # (count, unit) khi danh sách chỉ toàn số/ghép đơn vị cũ
     for nm in re.finditer(
         r"(?:được chia thành|gồm)\s+(\d+)\s+" + UNIT_ALT + r"\s*:\s*(.+?)\.\s*(?:<ref|\n|$)", wt):
+        cnt = int(nm.group(1))
         u = nm.group(2)
         body = nm.group(3)
         parts = re.split(r",\s*|\s+và\s+", body)
-        names = [re.sub(r"<ref.*|\([^)]*\)", "", p).strip() for p in parts if p.strip()]
-        names = [n for n in names if n and not re.fullmatch(r"\d+[A-Za-z]?", n)]
+        raw = [re.sub(r"<ref.*|\([^)]*\)", "", p).strip() for p in parts if p.strip()]
+        names = [n for n in raw if n and not re.fullmatch(r"\d+[A-Za-z]?", n)]
         if not names:
+            if numeric_only is None:
+                numeric_only = (cnt, u)
             continue
         score = 0
         if "tổ dân phố" in u:
@@ -144,6 +148,11 @@ def extract_tdp(wt: str, ward_name: str):
         a, b = int(num.group(3)), int(num.group(4))
         label = "Tổ dân phố" if "tổ dân phố" in unit else unit.capitalize()
         return [f"{label} {i}" for i in range(a, b + 1)], unit, "numbered"
+
+    # 4) chỉ có số lượng (danh mục toàn số / ghép đơn vị cũ) -> đếm, không lấy tên
+    if numeric_only:
+        cnt, u = numeric_only
+        return [f"__count__{cnt}"], u, "count-only"
 
     return [], unit, "none"
 
@@ -233,6 +242,13 @@ def main():
     for w in wards:
         wc, pc = w["ward_code"], w["province_code"]
         existing = list((OUT / pc).glob(f"{wc}_*.json"))
+        # KHÔNG đụng vào bản ghi đã xác minh tốt hơn (nguồn nghị quyết/đề án/portal/danviet)
+        if existing:
+            e = json.loads(existing[0].read_text(encoding="utf-8"))
+            if e.get("verified") in ("primary", "partial") or \
+               e.get("extraction", {}).get("source", "vi.wikipedia.org") != "vi.wikipedia.org":
+                report.append((wc, w["name"], "keep(better source)", len(e.get("tdp", []))))
+                continue
         if existing and not args.refresh and not args.reextract:
             report.append((wc, w["name"], "skip(exists)", 0))
             continue
@@ -267,14 +283,27 @@ def main():
 
         names, unit, mode = extract_tdp(wt, w["name"])
         if not names:
+            # xoá file cũ nếu reextract mà nay không còn trích được gì
+            for old in (OUT / pc).glob(f"{wc}_*.json"):
+                if json.loads(old.read_text()).get("extraction", {}).get("source") == "vi.wikipedia.org":
+                    old.unlink()
             report.append((wc, w["name"], f"no-list({mode})", 0))
             continue
         lp = canon_tone(wt).find("Danh sách các")
         srcs = pick_sources(wt, lp if lp > 0 else 0)
         arr, eff = arrangement_of(wt, mode, unit, pc)
+
+        count_only = mode == "count-only"
+        if count_only:
+            approx = int(names[0].replace("__count__", ""))
+            names = []
         note = ("Trích tự động từ Wikipedia tiếng Việt (mode={m}). "
                 "Cần đối chiếu nghị quyết HĐND phường/xã.").format(m=mode)
-        if arr == "truoc_2026_07":
+        if count_only:
+            note = (f"Wikipedia cho biết ~{approx} đơn vị nhưng chỉ ở dạng số/ghép theo "
+                    f"đơn vị cũ — chưa có danh mục tên chính thức. Cần nghị quyết HĐND "
+                    f"{('phường' if w['unit_type']=='Phường' else 'xã')}.")
+        elif arr == "truoc_2026_07":
             note += (" ⚠️ Danh mục có thể là hiện trạng TRƯỚC sắp xếp thôn/TDP 01/7/2026 "
                      "— Wikipedia chưa cập nhật nghị quyết mới.")
         obj = {
@@ -297,12 +326,17 @@ def main():
                 for i, s in enumerate(srcs)
             ],
             "note": note,
-            "tdp": [{"name": n, "type": unit} for n in names],
+            "tdp": [] if count_only else [{"name": n, "type": unit} for n in names],
         }
+        if count_only:
+            obj["verified"] = "pending"
+            obj["arrangement"] = "truoc_2026_07"
+            obj["approx_count"] = approx
         (OUT / pc).mkdir(parents=True, exist_ok=True)
         (OUT / pc / f"{wc}_{slugify(w['name'])}.json").write_text(
             json.dumps(obj, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
-        report.append((wc, w["name"], f"OK({mode})", len(names)))
+        tag = "COUNT-ONLY" if count_only else f"OK({mode})"
+        report.append((wc, w["name"], tag, len(names)))
 
     ok = sum(1 for r in report if r[2].startswith("OK"))
     tot_tdp = sum(r[3] for r in report)

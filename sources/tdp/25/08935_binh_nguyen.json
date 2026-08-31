@@ -8,7 +8,7 @@
   "verified": "unverified",
   "extraction": {
     "source": "vi.wikipedia.org",
-    "title": "Bình Nguyên, Phú Thọ",
+    "title": "(cache)",
     "mode": "narrative"
   },
   "sources": [
@@ -81,7 +81,7 @@
       "type": "thôn"
     },
     {
-      "name": "Ngọai Trạch",
+      "name": "Ngoại Trạch",
       "type": "thôn"
     },
     {
@@ -121,7 +121,7 @@
       "type": "thôn"
     },
     {
-      "name": "Trong Ngòai",
+      "name": "Trong Ngoài",
       "type": "thôn"
     }
   ]

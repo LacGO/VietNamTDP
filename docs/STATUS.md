@@ -7,8 +7,9 @@ Mức xác minh: `primary` = trích từ nghị quyết HĐND cấp xã / công 
 ## Thành phố Hà Nội (`01`)
 
 - Phường/xã: **126**
-- Có dữ liệu TDP: **122/126** (96%) — 2635 đơn vị
-- **Đúng mốc 01/7/2026**: **117/126** phường/xã — 2499 TDP
+- Có **danh mục tên** TDP: **120/126** — 2635 đơn vị
+- **Đúng mốc 01/7/2026** (có tên): **115/126** — 2499 TDP
+- Mới có số lượng, chưa có tên: 2 · chưa có gì: 4
 
 | Mã | Phường/Xã | Loại | Số TDP | Mốc | Xác minh | Nguồn |
 |----|-----------|------|-------:|-----|----------|-------|
@@ -142,8 +143,9 @@ Mức xác minh: `primary` = trích từ nghị quyết HĐND cấp xã / công 
 ## Tỉnh Phú Thọ (`25`)
 
 - Phường/xã: **148**
-- Có dữ liệu TDP: **139/148** (93%) — 3599 đơn vị
-- **Đúng mốc 01/7/2026**: **22/148** phường/xã — 501 TDP
+- Có **danh mục tên** TDP: **129/148** — 3440 đơn vị
+- **Đúng mốc 01/7/2026** (có tên): **22/148** — 501 TDP
+- Mới có số lượng, chưa có tên: 11 · chưa có gì: 8
 
 | Mã | Phường/Xã | Loại | Số TDP | Mốc | Xác minh | Nguồn |
 |----|-----------|------|-------:|-----|----------|-------|
@@ -160,7 +162,7 @@ Mức xác minh: `primary` = trích từ nghị quyết HĐND cấp xã / công 
 | 04897 | Thịnh Minh | Xã | 29 | ⚠️ trước 01/7/2026 | unverified | wiki-04897-1;wiki-04897-2;wiki-04897-3 |
 | 04924 | Lương Sơn | Xã | 8 | ⚠️ trước 01/7/2026 | unverified | wiki-04924-1;wiki-04924-2;wiki-04924-3 |
 | 04960 | Liên Sơn | Xã | 44 | ⚠️ trước 01/7/2026 | unverified | wiki-04960-1;wiki-04960-2;wiki-04960-3 |
-| 04978 | Kim Bôi | Xã | — | — | pending | |
+| 04978 | Kim Bôi | Xã | 37 | ⚠️ trước 01/7/2026 | unverified | wiki-04978-1;wiki-04978-2;wiki-04978-3 |
 | 04990 | Nật Sơn | Xã | 19 | ✅ 01/7/2026 | primary | Nghị quyết số 22/NQ-HĐND HĐND cấp xã |
 | 05014 | Mường Động | Xã | 34 | ⚠️ trước 01/7/2026 | unverified | wiki-05014-1;wiki-05014-2;wiki-05014-3 |
 | 05047 | Cao Dương | Xã | 48 | ⚠️ trước 01/7/2026 | unverified | wiki-05047-1;wiki-05047-2;wiki-05047-3 |
@@ -201,15 +203,15 @@ Mức xác minh: `primary` = trích từ nghị quyết HĐND cấp xã / công 
 | 07948 | Âu Cơ | Phường | 13 | ⚠️ trước 01/7/2026 | unverified | wiki-07948-1;wiki-07948-2;wiki-07948-3 |
 | 07954 | Phong Châu | Phường | 10 | ✅ 01/7/2026 | unverified | wiki-07954-1;wiki-07954-2;wiki-07954-3 |
 | 07969 | Đoan Hùng | Xã | 28 | ⚠️ trước 01/7/2026 | unverified | wiki-07969-1;wiki-07969-2;wiki-07969-3 |
-| 07996 | Bằng Luân | Xã | 15 | ⚠️ trước 01/7/2026 | unverified | wiki-07996-1;wiki-07996-2;wiki-07996-3 |
+| 07996 | Bằng Luân | Xã | ~31 (chưa có tên) | ⛔ chưa có danh mục | pending | wiki-07996-1;wiki-07996-2;wiki-07996-3 |
 | 07999 | Chí Đám | Xã | 39 | ⚠️ trước 01/7/2026 | unverified | wiki-07999-1;wiki-07999-2;wiki-07999-3 |
 | 08023 | Tây Cốc | Xã | 29 | ⚠️ trước 01/7/2026 | unverified | wiki-08023-1;wiki-08023-2;wiki-08023-3 |
 | 08038 | Chân Mộng | Xã | 67 | ⚠️ trước 01/7/2026 | unverified | wiki-08038-1;wiki-08038-2;wiki-08038-3 |
 | 08053 | Hạ Hoà | Xã | 28 | ⚠️ trước 01/7/2026 | unverified | wiki-08053-1;wiki-08053-2;wiki-08053-3 |
-| 08071 | Đan Thượng | Xã | 17 | ⚠️ trước 01/7/2026 | unverified | wiki-08071-1;wiki-08071-2;wiki-08071-3 |
-| 08110 | Hiền Lương | Xã | 20 | ⚠️ trước 01/7/2026 | unverified | wiki-08110-1;wiki-08110-2;wiki-08110-3 |
+| 08071 | Đan Thượng | Xã | ~41 (chưa có tên) | ⛔ chưa có danh mục | pending | wiki-08071-1;wiki-08071-2;wiki-08071-3 |
+| 08110 | Hiền Lương | Xã | ~32 (chưa có tên) | ⛔ chưa có danh mục | pending | wiki-08110-1;wiki-08110-2;wiki-08110-3 |
 | 08113 | Yên Kỳ | Xã | 27 | ⚠️ trước 01/7/2026 | unverified | wiki-08113-1;wiki-08113-2;wiki-08113-3 |
-| 08134 | Văn Lang | Xã | 13 | ⚠️ trước 01/7/2026 | unverified | wiki-08134-1;wiki-08134-2;wiki-08134-3 |
+| 08134 | Văn Lang | Xã | ~27 (chưa có tên) | ⛔ chưa có danh mục | pending | wiki-08134-1;wiki-08134-2;wiki-08134-3 |
 | 08143 | Vĩnh Chân | Xã | 2 | ⚠️ trước 01/7/2026 | unverified | wiki-08143-1;wiki-08143-2;wiki-08143-3 |
 | 08152 | Thanh Ba | Xã | 49 | ⚠️ trước 01/7/2026 | unverified | wiki-08152-1;wiki-08152-2;wiki-08152-3 |
 | 08173 | Quảng Yên | Xã | 31 | ⚠️ trước 01/7/2026 | unverified | wiki-08173-1;wiki-08173-2;wiki-08173-3 |
@@ -219,8 +221,8 @@ Mức xác minh: `primary` = trích từ nghị quyết HĐND cấp xã / công 
 | 08227 | Liên Minh | Xã | 18 | ⚠️ trước 01/7/2026 | unverified | wiki-08227-1;wiki-08227-2;wiki-08227-3 |
 | 08230 | Phù Ninh | Xã | 12 | ⚠️ trước 01/7/2026 | unverified | wiki-08230-1;wiki-08230-2;wiki-08230-3 |
 | 08236 | Phú Mỹ | Xã | 12 | ✅ 01/7/2026 | partial | portal-08236 |
-| 08245 | Trạm Thản | Xã | 16 | ⚠️ trước 01/7/2026 | unverified | wiki-08245-1;wiki-08245-2;wiki-08245-3 |
-| 08254 | Dân Chủ | Xã | 13 | ⚠️ trước 01/7/2026 | unverified | wiki-08254-1;wiki-08254-2;wiki-08254-3 |
+| 08245 | Trạm Thản | Xã | ~28 (chưa có tên) | ⛔ chưa có danh mục | pending | wiki-08245-1;wiki-08245-2;wiki-08245-3 |
+| 08254 | Dân Chủ | Xã | ~35 (chưa có tên) | ⛔ chưa có danh mục | pending | wiki-08254-1;wiki-08254-2;wiki-08254-3 |
 | 08275 | Bình Phú | Xã | 13 | ⚠️ trước 01/7/2026 | unverified | wiki-08275-1;wiki-08275-2;wiki-08275-3 |
 | 08290 | Yên Lập | Xã | 40 | ⚠️ trước 01/7/2026 | unverified | wiki-08290-1;wiki-08290-2;wiki-08290-3 |
 | 08296 | Sơn Lương | Xã | 34 | ⚠️ trước 01/7/2026 | unverified | wiki-08296-1;wiki-08296-2;wiki-08296-3 |
@@ -235,11 +237,11 @@ Mức xác minh: `primary` = trích từ nghị quyết HĐND cấp xã / công 
 | 08416 | Hùng Việt | Xã | 5 | ⚠️ trước 01/7/2026 | unverified | wiki-08416-1;wiki-08416-2;wiki-08416-3 |
 | 08431 | Đồng Lương | Xã | 32 | ⚠️ trước 01/7/2026 | unverified | wiki-08431-1;wiki-08431-2;wiki-08431-3 |
 | 08434 | Tam Nông | Xã | 34 | ⚠️ trước 01/7/2026 | unverified | wiki-08434-1;wiki-08434-2;wiki-08434-3 |
-| 08443 | Hiền Quan | Xã | 22 | ⚠️ trước 01/7/2026 | unverified | wiki-08443-1;wiki-08443-2;wiki-08443-3 |
-| 08467 | Vạn Xuân | Xã | 26 | ⚠️ trước 01/7/2026 | unverified | wiki-08467-1;wiki-08467-2;wiki-08467-3 |
-| 08479 | Thọ Văn | Xã | 12 | ⚠️ trước 01/7/2026 | unverified | wiki-08479-1;wiki-08479-2;wiki-08479-3 |
+| 08443 | Hiền Quan | Xã | ~41 (chưa có tên) | ⛔ chưa có danh mục | pending | wiki-08443-1;wiki-08443-2;wiki-08443-3 |
+| 08467 | Vạn Xuân | Xã | ~48 (chưa có tên) | ⛔ chưa có danh mục | pending | wiki-08467-1;wiki-08467-2;wiki-08467-3 |
+| 08479 | Thọ Văn | Xã | ~25 (chưa có tên) | ⛔ chưa có danh mục | pending | wiki-08479-1;wiki-08479-2;wiki-08479-3 |
 | 08494 | Lâm Thao | Xã | 8 | ⚠️ trước 01/7/2026 | unverified | wiki-08494-1;wiki-08494-2;wiki-08494-3 |
-| 08500 | Xuân Lũng | Xã | 20 | ⚠️ trước 01/7/2026 | unverified | wiki-08500-1;wiki-08500-2;wiki-08500-3 |
+| 08500 | Xuân Lũng | Xã | ~38 (chưa có tên) | ⛔ chưa có danh mục | pending | wiki-08500-1;wiki-08500-2;wiki-08500-3 |
 | 08515 | Hy Cương | Xã | 23 | ⚠️ trước 01/7/2026 | unverified | wiki-08515-1;wiki-08515-2;wiki-08515-3 |
 | 08521 | Phùng Nguyên | Xã | 9 | ⚠️ trước 01/7/2026 | unverified | wiki-08521-1;wiki-08521-2;wiki-08521-3 |
 | 08527 | Bản Nguyên | Xã | 20 | ⚠️ trước 01/7/2026 | unverified | wiki-08527-1;wiki-08527-2;wiki-08527-3 |
@@ -256,7 +258,7 @@ Mức xác minh: `primary` = trích từ nghị quyết HĐND cấp xã / công 
 | 08632 | Hương Cần | Xã | 27 | ⚠️ trước 01/7/2026 | unverified | wiki-08632-1;wiki-08632-2;wiki-08632-3 |
 | 08635 | Khả Cửu | Xã | 35 | ⚠️ trước 01/7/2026 | unverified | wiki-08635-1;wiki-08635-2;wiki-08635-3 |
 | 08656 | Yên Sơn | Xã | 29 | ⚠️ trước 01/7/2026 | unverified | wiki-08656-1;wiki-08656-2;wiki-08656-3 |
-| 08662 | Đào Xá | Xã | 22 | ⚠️ trước 01/7/2026 | unverified | wiki-08662-1;wiki-08662-2;wiki-08662-3 |
+| 08662 | Đào Xá | Xã | ~43 (chưa có tên) | ⛔ chưa có danh mục | pending | wiki-08662-1;wiki-08662-2;wiki-08662-3 |
 | 08674 | Thanh Thuỷ | Xã | 1 | ⚠️ trước 01/7/2026 | unverified | wiki-08674-1;wiki-08674-2;wiki-08674-3 |
 | 08686 | Tu Vũ | Xã | 57 | ⚠️ trước 01/7/2026 | unverified | wiki-08686-1;wiki-08686-2;wiki-08686-3 |
 | 08707 | Vĩnh Yên | Phường | 34 | ✅ 01/7/2026 | unverified | wiki-08707-1;wiki-08707-2;wiki-08707-3 |

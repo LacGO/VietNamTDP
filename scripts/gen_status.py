@@ -31,16 +31,18 @@ def main():
 
     for pc in ("01", "25"):
         pw = [w for w in wards if w["province_code"] == pc]
-        done = [w for w in pw if w["ward_code"] in meta]
-        cur = [w for w in done if meta[w["ward_code"]].get("arrangement") == "2026_07"]
-        n_tdp = sum(int(meta[w["ward_code"]]["tdp_count"]) for w in done)
+        listed = [w for w in pw if int(meta.get(w["ward_code"], {}).get("tdp_count", 0)) > 0]
+        cur = [w for w in listed if meta[w["ward_code"]].get("arrangement") == "2026_07"]
+        count_only = [w for w in pw if w["ward_code"] in meta and w not in listed]
+        n_tdp = sum(int(meta[w["ward_code"]]["tdp_count"]) for w in listed)
         n_cur = sum(int(meta[w["ward_code"]]["tdp_count"]) for w in cur)
         lines += [
             f"## {prov[pc]['full_name']} (`{pc}`)",
             "",
             f"- Phường/xã: **{len(pw)}**",
-            f"- Có dữ liệu TDP: **{len(done)}/{len(pw)}** ({100*len(done)//len(pw)}%) — {n_tdp} đơn vị",
-            f"- **Đúng mốc 01/7/2026**: **{len(cur)}/{len(pw)}** phường/xã — {n_cur} TDP",
+            f"- Có **danh mục tên** TDP: **{len(listed)}/{len(pw)}** — {n_tdp} đơn vị",
+            f"- **Đúng mốc 01/7/2026** (có tên): **{len(cur)}/{len(pw)}** — {n_cur} TDP",
+            f"- Mới có số lượng, chưa có tên: {len(count_only)} · chưa có gì: {len(pw)-len(listed)-len(count_only)}",
             "",
             "| Mã | Phường/Xã | Loại | Số TDP | Mốc | Xác minh | Nguồn |",
             "|----|-----------|------|-------:|-----|----------|-------|",
@@ -50,9 +52,13 @@ def main():
             if m:
                 arr = "✅ 01/7/2026" if m.get("arrangement") == "2026_07" else "⚠️ trước 01/7/2026"
                 src = (m["resolution"] or m["source_keys"] or "")[:70]
+                cnt = m["tdp_count"]
+                if cnt == "0" and m.get("approx_count"):
+                    cnt = f"~{m['approx_count']} (chưa có tên)"
+                    arr = "⛔ chưa có danh mục"
                 lines.append(
                     f"| {w['ward_code']} | {w['name']} | {w['unit_type']} | "
-                    f"{m['tdp_count']} | {arr} | {m['verified']} | {src} |"
+                    f"{cnt} | {arr} | {m['verified']} | {src} |"
                 )
             else:
                 lines.append(

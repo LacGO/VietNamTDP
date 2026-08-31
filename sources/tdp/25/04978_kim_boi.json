@@ -1,6 +1,6 @@
 {
-  "ward_code": "08152",
-  "ward_name": "Thanh Ba",
+  "ward_code": "04978",
+  "ward_name": "Kim Bôi",
   "province_code": "25",
   "resolution": "",
   "arrangement": "truoc_2026_07",
@@ -13,21 +13,21 @@
   },
   "sources": [
     {
-      "key": "wiki-08152-1",
-      "title": "Nghị quyết số 828/NQ-UBTVQH14 của ỦY BAN THƯỜNG VỤ QUỐC HỘI: Về việc sắp xếp các đơn vị hành chính cấp xã thuộc tỉnh Phú Thọ",
-      "url": "http://vanban.chinhphu.vn/default.aspx?pageid=27160&docid=198693",
-      "date": "2026-06-30",
+      "key": "wiki-04978-1",
+      "title": "Nghị quyết số 2/NQ-UBBC về việc ấn định số lượng đơn vị bầu cử, danh sách các đơn vị bầu cử và số lượng đại biểu được bầu ở mỗi đơn vị bầu cử đại biểu Hội đồng nhân dân xã Kim Bôi khóa XXI, nhiệm kỳ 2026 – 2031",
+      "url": "https://kimboi.phutho.gov.vn/images/02_NQ_UBBC_XAKIM_BOI.pdf",
+      "date": "2025-12-23",
       "type": "wikipedia-ref"
     },
     {
-      "key": "wiki-08152-2",
+      "key": "wiki-04978-2",
       "title": "Nghị quyết số 111/2025/UBTVQH15 về phân loại đô thị",
       "url": "https://xaydungchinhsach.chinhphu.vn/nghi-quyet-so-111-2025-ubtvqh15-ve-phan-loai-do-thi-119260101170432239.htm",
       "date": "2026-01-21",
       "type": "wikipedia-ref"
     },
     {
-      "key": "wiki-08152-3",
+      "key": "wiki-04978-3",
       "title": "Danh sách Thôn vùng đồng bào dân tộc thiểu số và miền núi, thôn đặc biệt khó khăn giai đoạn 2026 - 2030 trên địa bàn tỉnh Phú Thọ",
       "url": "http://files.ubdt.gov.vn/files/ecm/source_files/2026/02/05/11252411_4.%20Ph%C3%BA%20Th%E1%BB%8D%201%20(th%C3%B4n).signed_26-02-05.pdf",
       "date": "2026-01-29",
@@ -37,199 +37,151 @@
   "note": "Trích tự động từ Wikipedia tiếng Việt (mode=narrative). Cần đối chiếu nghị quyết HĐND phường/xã. ⚠️ Danh mục có thể là hiện trạng TRƯỚC sắp xếp thôn/TDP 01/7/2026 — Wikipedia chưa cập nhật nghị quyết mới.",
   "tdp": [
     {
-      "name": "1 Đồng Xuân",
+      "name": "Bãi",
       "type": "khu"
     },
     {
-      "name": "2 Đồng Xuân",
+      "name": "Bo",
       "type": "khu"
     },
     {
-      "name": "3 Đồng Xuân",
+      "name": "Đoàn Kết",
       "type": "khu"
     },
     {
-      "name": "4 Đồng Xuân",
+      "name": "Đồng Tiến",
       "type": "khu"
     },
     {
-      "name": "5 Đồng Xuân",
+      "name": "Hoa Lư",
       "type": "khu"
     },
     {
-      "name": "6 Đồng Xuân",
+      "name": "Lạng",
       "type": "khu"
     },
     {
-      "name": "7 Đồng Xuân",
+      "name": "Lục Cả",
       "type": "khu"
     },
     {
-      "name": "8 Đồng Xuân",
+      "name": "Lục Đồi",
       "type": "khu"
     },
     {
-      "name": "1 Hanh Cù",
+      "name": "Mớ Đá",
       "type": "khu"
     },
     {
-      "name": "2 Hanh Cù",
+      "name": "Mớ Đồi",
       "type": "khu"
     },
     {
-      "name": "3 Hanh Cù",
+      "name": "Mớ Khoắc",
       "type": "khu"
     },
     {
-      "name": "4 Hanh Cù",
+      "name": "Nội Sung",
       "type": "khu"
     },
     {
-      "name": "5 Hanh Cù",
+      "name": "Sào",
       "type": "khu"
     },
     {
-      "name": "6 Hanh Cù",
+      "name": "Thái Bình",
       "type": "khu"
     },
     {
-      "name": "7 Hanh Cù",
+      "name": "Thành Công",
       "type": "khu"
     },
     {
-      "name": "8 Hanh Cù",
+      "name": "Thống Nhất",
       "type": "khu"
     },
     {
-      "name": "9 Hanh Cù",
+      "name": "22 xóm: Bôi Câu",
       "type": "khu"
     },
     {
-      "name": "10 Hanh Cù",
+      "name": "Bộ Mu",
       "type": "khu"
     },
     {
-      "name": "11 Hanh Cù",
+      "name": "Chanh",
       "type": "khu"
     },
     {
-      "name": "12 Hanh Cù",
+      "name": "Cháo",
       "type": "khu"
     },
     {
-      "name": "13 Hanh Cù",
+      "name": "Chiềng",
       "type": "khu"
     },
     {
-      "name": "14 Hanh Cù",
+      "name": "Cóc Lẫm",
       "type": "khu"
     },
     {
-      "name": "15 Hanh Cù",
+      "name": "Cốc",
       "type": "khu"
     },
     {
-      "name": "16 Hanh Cù",
+      "name": "Dảnh",
       "type": "khu"
     },
     {
-      "name": "17 Hanh Cù",
+      "name": "Dứng Ổi",
       "type": "khu"
     },
     {
-      "name": "18 Hanh Cù",
+      "name": "Đồi 1",
       "type": "khu"
     },
     {
-      "name": "19 Hanh Cù",
+      "name": "Đồi 2",
       "type": "khu"
     },
     {
-      "name": "20 Hanh Cù",
+      "name": "Gò Cha",
       "type": "khu"
     },
     {
-      "name": "21 Hanh Cù",
+      "name": "Gò Đầm",
       "type": "khu"
     },
     {
-      "name": "22 Hanh Cù",
+      "name": "Gò Khánh",
       "type": "khu"
     },
     {
-      "name": "23 Hanh Cù",
+      "name": "Gò Mu",
       "type": "khu"
     },
     {
-      "name": "24 Hanh Cù",
+      "name": "Quê Rù",
       "type": "khu"
     },
     {
-      "name": "25 Hanh Cù",
+      "name": "Sống",
       "type": "khu"
     },
     {
-      "name": "26 Hanh Cù",
+      "name": "Suối Con",
       "type": "khu"
     },
     {
-      "name": "2 Thị trấn Thanh Ba",
+      "name": "Vó Khang",
       "type": "khu"
     },
     {
-      "name": "3 Thị trấn Thanh Ba",
+      "name": "Vố",
       "type": "khu"
     },
     {
-      "name": "4 Thị trấn Thanh Ba",
-      "type": "khu"
-    },
-    {
-      "name": "5 Thị trấn Thanh Ba",
-      "type": "khu"
-    },
-    {
-      "name": "6 Thị trấn Thanh Ba",
-      "type": "khu"
-    },
-    {
-      "name": "8 Thị trấn Thanh Ba",
-      "type": "khu"
-    },
-    {
-      "name": "9 Thị trấn Thanh Ba",
-      "type": "khu"
-    },
-    {
-      "name": "10 Thị trấn Thanh Ba",
-      "type": "khu"
-    },
-    {
-      "name": "11 Thị trấn Thanh Ba",
-      "type": "khu"
-    },
-    {
-      "name": "12 Thị trấn Thanh Ba",
-      "type": "khu"
-    },
-    {
-      "name": "1 Vân Lĩnh",
-      "type": "khu"
-    },
-    {
-      "name": "2 Vân Lĩnh",
-      "type": "khu"
-    },
-    {
-      "name": "3 Vân Lĩnh",
-      "type": "khu"
-    },
-    {
-      "name": "4 Vân Lĩnh",
-      "type": "khu"
-    },
-    {
-      "name": "5 Vân Lĩnh",
+      "name": "Yên",
       "type": "khu"
     }
   ]

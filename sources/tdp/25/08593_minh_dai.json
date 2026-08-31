@@ -8,7 +8,7 @@
   "verified": "unverified",
   "extraction": {
     "source": "vi.wikipedia.org",
-    "title": "Minh Đài",
+    "title": "(cache)",
     "mode": "narrative"
   },
   "sources": [
@@ -105,11 +105,11 @@
       "type": "khu"
     },
     {
-      "name": "Hòang Hà",
+      "name": "Hoàng Hà",
       "type": "khu"
     },
     {
-      "name": "Hòang Văn",
+      "name": "Hoàng Văn",
       "type": "khu"
     },
     {

@@ -8,7 +8,7 @@
   "verified": "unverified",
   "extraction": {
     "source": "vi.wikipedia.org",
-    "title": "Chí Đám",
+    "title": "(cache)",
     "mode": "narrative"
   },
   "sources": [
@@ -61,7 +61,7 @@
       "type": "khu"
     },
     {
-      "name": "Đòan Kết",
+      "name": "Đoàn Kết",
       "type": "khu"
     },
     {
@@ -93,11 +93,11 @@
       "type": "khu"
     },
     {
-      "name": "Lã Hòang 1",
+      "name": "Lã Hoàng 1",
       "type": "khu"
     },
     {
-      "name": "Lã Hòang 2",
+      "name": "Lã Hoàng 2",
       "type": "khu"
     },
     {

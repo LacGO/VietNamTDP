@@ -46,7 +46,8 @@ CREATE INDEX idx_tdp_province ON tdp(province_code);
 CREATE TABLE tdp_ward_meta (
     ward_code       TEXT PRIMARY KEY REFERENCES ward(ward_code),
     province_code   TEXT NOT NULL,
-    tdp_count       INTEGER NOT NULL,
+    tdp_count       INTEGER NOT NULL,       -- số TDP có tên trong bảng tdp
+    approx_count    INTEGER,                -- số TDP ước tính (kể cả khi chưa có tên)
     arrangement     TEXT,
     resolution      TEXT,
     effective_date  TEXT,

@@ -41,8 +41,8 @@ def main():
            ["tdp_code", "ward_code", "province_code", "name", "unit_type",
             "code_name", "seq", "arrangement", "verified", "effective_date"])
     insert(cur, "tdp_ward_meta", rows("tdp_ward_meta.csv"),
-           ["ward_code", "province_code", "tdp_count", "arrangement", "resolution",
-            "effective_date", "verified", "source_keys", "note"])
+           ["ward_code", "province_code", "tdp_count", "approx_count", "arrangement",
+            "resolution", "effective_date", "verified", "source_keys", "note"])
     try:
         insert(cur, "tdp_source", rows("tdp_sources.csv"),
                ["source_key", "title", "url", "date", "type", "via"])

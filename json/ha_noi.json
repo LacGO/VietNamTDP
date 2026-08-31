@@ -619,7 +619,7 @@
         },
         {
           "tdp_code": "00082.015",
-          "name": "Trần Quốc Tỏan",
+          "name": "Trần Quốc Toản",
           "unit_type": "tổ dân phố"
         },
         {
@@ -5243,7 +5243,7 @@
         },
         {
           "tdp_code": "00376.009",
-          "name": "Đòai",
+          "name": "Đoài",
           "unit_type": "tổ dân phố"
         },
         {
@@ -5630,7 +5630,7 @@
         },
         {
           "tdp_code": "00433.008",
-          "name": "Phù Xá Đòai",
+          "name": "Phù Xá Đoài",
           "unit_type": "thôn"
         },
         {
@@ -5901,7 +5901,7 @@
         },
         {
           "tdp_code": "00466.006",
-          "name": "Đòai",
+          "name": "Đoài",
           "unit_type": "thôn"
         },
         {
@@ -5966,7 +5966,7 @@
         },
         {
           "tdp_code": "00466.019",
-          "name": "Tòan Thắng",
+          "name": "Toàn Thắng",
           "unit_type": "thôn"
         },
         {
@@ -6217,7 +6217,7 @@
         },
         {
           "tdp_code": "00493.006",
-          "name": "Đòai",
+          "name": "Đoài",
           "unit_type": "thôn"
         },
         {
@@ -6275,7 +6275,7 @@
         },
         {
           "tdp_code": "00508.002",
-          "name": "Đòai",
+          "name": "Đoài",
           "unit_type": "thôn"
         },
         {
@@ -6398,7 +6398,7 @@
         },
         {
           "tdp_code": "00541.014",
-          "name": "Lại Hòang",
+          "name": "Lại Hoàng",
           "unit_type": "thôn"
         },
         {
@@ -6709,7 +6709,7 @@
         },
         {
           "tdp_code": "00565.020",
-          "name": "Hòang Chu Báo",
+          "name": "Hoàng Chu Báo",
           "unit_type": "tổ dân phố"
         },
         {
@@ -7290,17 +7290,17 @@
         },
         {
           "tdp_code": "00622.010",
-          "name": "10 Tu Hòang",
+          "name": "10 Tu Hoàng",
           "unit_type": "tổ dân phố"
         },
         {
           "tdp_code": "00622.011",
-          "name": "11 Tu Hòang",
+          "name": "11 Tu Hoàng",
           "unit_type": "tổ dân phố"
         },
         {
           "tdp_code": "00622.012",
-          "name": "12 Tu Hòang",
+          "name": "12 Tu Hoàng",
           "unit_type": "tổ dân phố"
         },
         {
@@ -7674,7 +7674,7 @@
         },
         {
           "tdp_code": "00640.019",
-          "name": "Tự Khóat",
+          "name": "Tự Khoát",
           "unit_type": "tổ dân phố"
         }
       ]
@@ -7805,7 +7805,7 @@
         },
         {
           "tdp_code": "00664.004",
-          "name": "Hùynh Cung",
+          "name": "Huỳnh Cung",
           "unit_type": "thôn"
         },
         {
@@ -7840,7 +7840,7 @@
         },
         {
           "tdp_code": "00664.011",
-          "name": "Qùynh Đô",
+          "name": "Quỳnh Đô",
           "unit_type": "thôn"
         },
         {
@@ -8210,12 +8210,12 @@
         },
         {
           "tdp_code": "08980.003",
-          "name": "Hòang Kim",
+          "name": "Hoàng Kim",
           "unit_type": "thôn"
         },
         {
           "tdp_code": "08980.004",
-          "name": "Hòang Xá",
+          "name": "Hoàng Xá",
           "unit_type": "thôn"
         },
         {
@@ -8421,22 +8421,22 @@
         },
         {
           "tdp_code": "09022.009",
-          "name": "Khê Ngọai 1",
+          "name": "Khê Ngoại 1",
           "unit_type": "thôn"
         },
         {
           "tdp_code": "09022.010",
-          "name": "Khê Ngọai 2",
+          "name": "Khê Ngoại 2",
           "unit_type": "thôn"
         },
         {
           "tdp_code": "09022.011",
-          "name": "Khê Ngọai 3",
+          "name": "Khê Ngoại 3",
           "unit_type": "thôn"
         },
         {
           "tdp_code": "09022.012",
-          "name": "Khê Ngọai 4",
+          "name": "Khê Ngoại 4",
           "unit_type": "thôn"
         },
         {
@@ -8446,7 +8446,7 @@
         },
         {
           "tdp_code": "09022.014",
-          "name": "Trung Hậu Đòai",
+          "name": "Trung Hậu Đoài",
           "unit_type": "thôn"
         },
         {
@@ -8499,32 +8499,32 @@
         },
         {
           "tdp_code": "09552.005",
-          "name": "Hòang Công 1",
+          "name": "Hoàng Công 1",
           "unit_type": "tổ dân phố"
         },
         {
           "tdp_code": "09552.006",
-          "name": "Hòang Công 2",
+          "name": "Hoàng Công 2",
           "unit_type": "tổ dân phố"
         },
         {
           "tdp_code": "09552.007",
-          "name": "Hòang Công 3",
+          "name": "Hoàng Công 3",
           "unit_type": "tổ dân phố"
         },
         {
           "tdp_code": "09552.008",
-          "name": "Hòang Công 4",
+          "name": "Hoàng Công 4",
           "unit_type": "tổ dân phố"
         },
         {
           "tdp_code": "09552.009",
-          "name": "Hòang Công 5",
+          "name": "Hoàng Công 5",
           "unit_type": "tổ dân phố"
         },
         {
           "tdp_code": "09552.010",
-          "name": "Hòang Công 6",
+          "name": "Hoàng Công 6",
           "unit_type": "tổ dân phố"
         },
         {
@@ -8980,7 +8980,7 @@
         },
         {
           "tdp_code": "09562.006",
-          "name": "Đồng Hòang",
+          "name": "Đồng Hoàng",
           "unit_type": "tổ dân phố"
         },
         {
@@ -9347,7 +9347,7 @@
         },
         {
           "tdp_code": "09616.004",
-          "name": "Đòan Kết",
+          "name": "Đoàn Kết",
           "unit_type": "thôn"
         },
         {
@@ -9465,7 +9465,7 @@
         },
         {
           "tdp_code": "09619.015",
-          "name": "Yên Khóai",
+          "name": "Yên Khoái",
           "unit_type": "thôn"
         }
       ]
@@ -9866,7 +9866,7 @@
         },
         {
           "tdp_code": "09706.005",
-          "name": "Qúyt",
+          "name": "Quýt",
           "unit_type": "thôn"
         },
         {
@@ -10067,7 +10067,7 @@
         },
         {
           "tdp_code": "09739.014",
-          "name": "Võng Ngọai",
+          "name": "Võng Ngoại",
           "unit_type": "thôn"
         },
         {
@@ -10145,7 +10145,7 @@
         },
         {
           "tdp_code": "09772.011",
-          "name": "Táo Ngọai",
+          "name": "Táo Ngoại",
           "unit_type": "thôn"
         },
         {
@@ -10198,7 +10198,7 @@
         },
         {
           "tdp_code": "09784.003",
-          "name": "Đòai Khê",
+          "name": "Đoài Khê",
           "unit_type": "thôn"
         },
         {
@@ -10698,7 +10698,7 @@
         },
         {
           "tdp_code": "09871.006",
-          "name": "Kim Hòang",
+          "name": "Kim Hoàng",
           "unit_type": "tổ dân phố"
         },
         {
@@ -10713,7 +10713,7 @@
         },
         {
           "tdp_code": "09871.009",
-          "name": "Ngọai",
+          "name": "Ngoại",
           "unit_type": "tổ dân phố"
         },
         {
@@ -10826,7 +10826,7 @@
         },
         {
           "tdp_code": "09877.014",
-          "name": "Mộc Hòan",
+          "name": "Mộc Hoàn",
           "unit_type": "tổ dân phố"
         },
         {
@@ -10934,17 +10934,17 @@
         },
         {
           "tdp_code": "09886.009",
-          "name": "Đòan Kết",
+          "name": "Đoàn Kết",
           "unit_type": "tổ dân phố"
         },
         {
           "tdp_code": "09886.010",
-          "name": "Hòang Hanh",
+          "name": "Hoàng Hanh",
           "unit_type": "tổ dân phố"
         },
         {
           "tdp_code": "09886.011",
-          "name": "Hòang Văn Thụ",
+          "name": "Hoàng Văn Thụ",
           "unit_type": "tổ dân phố"
         },
         {
@@ -11374,7 +11374,7 @@
         },
         {
           "tdp_code": "09955.007",
-          "name": "Hòang Thanh Phú",
+          "name": "Hoàng Thanh Phú",
           "unit_type": "thôn"
         },
         {
@@ -11716,7 +11716,7 @@
         },
         {
           "tdp_code": "10015.012",
-          "name": "Phú Hòang Giáp",
+          "name": "Phú Hoàng Giáp",
           "unit_type": "tổ dân phố"
         },
         {
@@ -12098,7 +12098,7 @@
         },
         {
           "tdp_code": "10081.003",
-          "name": "Hòang Văn Thụ",
+          "name": "Hoàng Văn Thụ",
           "unit_type": "thôn"
         },
         {
@@ -12206,7 +12206,7 @@
         },
         {
           "tdp_code": "10096.008",
-          "name": "Lưu Hòang",
+          "name": "Lưu Hoàng",
           "unit_type": "thôn"
         },
         {
@@ -12498,7 +12498,7 @@
       "tdp": [
         {
           "tdp_code": "10180.001",
-          "name": "Canh Họach",
+          "name": "Canh Hoạch",
           "unit_type": "tổ dân phố"
         },
         {
@@ -12523,7 +12523,7 @@
         },
         {
           "tdp_code": "10180.006",
-          "name": "Hòang Kỳ",
+          "name": "Hoàng Kỳ",
           "unit_type": "tổ dân phố"
         },
         {
@@ -12895,7 +12895,7 @@
         },
         {
           "tdp_code": "10237.005",
-          "name": "Hòang Long",
+          "name": "Hoàng Long",
           "unit_type": "thôn"
         },
         {
@@ -13126,7 +13126,7 @@
         },
         {
           "tdp_code": "10279.002",
-          "name": "Đào Hòang",
+          "name": "Đào Hoàng",
           "unit_type": "thôn"
         },
         {
@@ -13141,12 +13141,12 @@
         },
         {
           "tdp_code": "10279.005",
-          "name": "Hòang Long",
+          "name": "Hoàng Long",
           "unit_type": "thôn"
         },
         {
           "tdp_code": "10279.006",
-          "name": "Hòang Lưu",
+          "name": "Hoàng Lưu",
           "unit_type": "thôn"
         },
         {
@@ -13186,7 +13186,7 @@
         },
         {
           "tdp_code": "10279.014",
-          "name": "Thanh Hòang",
+          "name": "Thanh Hoàng",
           "unit_type": "thôn"
         },
         {
@@ -13201,7 +13201,7 @@
         },
         {
           "tdp_code": "10279.017",
-          "name": "Văn Hòang",
+          "name": "Văn Hoàng",
           "unit_type": "thôn"
         },
         {
@@ -13347,12 +13347,12 @@
         },
         {
           "tdp_code": "10342.008",
-          "name": "Đông Đòai",
+          "name": "Đông Đoài",
           "unit_type": "thôn"
         },
         {
           "tdp_code": "10342.009",
-          "name": "Hòang Nguyên",
+          "name": "Hoàng Nguyên",
           "unit_type": "thôn"
         },
         {
@@ -13445,7 +13445,7 @@
         },
         {
           "tdp_code": "10354.003",
-          "name": "Đòan Xá",
+          "name": "Đoàn Xá",
           "unit_type": "thôn"
         },
         {
@@ -13465,7 +13465,7 @@
         },
         {
           "tdp_code": "10354.007",
-          "name": "Hòang Xá",
+          "name": "Hoàng Xá",
           "unit_type": "thôn"
         },
         {
@@ -13633,7 +13633,7 @@
         },
         {
           "tdp_code": "10369.017",
-          "name": "Viên Ngọai",
+          "name": "Viên Ngoại",
           "unit_type": "thôn"
         },
         {
@@ -13774,7 +13774,7 @@
         },
         {
           "tdp_code": "10417.007",
-          "name": "Lưu Hòang",
+          "name": "Lưu Hoàng",
           "unit_type": "thôn"
         },
         {
@@ -13925,17 +13925,17 @@
         },
         {
           "tdp_code": "10459.005",
-          "name": "Giữa Qúyt",
+          "name": "Giữa Quýt",
           "unit_type": "thôn"
         },
         {
           "tdp_code": "10459.006",
-          "name": "Hòanh 1",
+          "name": "Hoành 1",
           "unit_type": "thôn"
         },
         {
           "tdp_code": "10459.007",
-          "name": "Hòanh 2",
+          "name": "Hoành 2",
           "unit_type": "thôn"
         },
         {
@@ -14018,7 +14018,7 @@
         },
         {
           "tdp_code": "10465.005",
-          "name": "Đòai",
+          "name": "Đoài",
           "unit_type": "thôn"
         },
         {

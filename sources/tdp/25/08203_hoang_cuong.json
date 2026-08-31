@@ -8,7 +8,7 @@
   "verified": "unverified",
   "extraction": {
     "source": "vi.wikipedia.org",
-    "title": "Hoàng Cương (xã)",
+    "title": "(cache)",
     "mode": "narrative"
   },
   "sources": [
@@ -37,63 +37,63 @@
   "note": "Trích tự động từ Wikipedia tiếng Việt (mode=narrative). Cần đối chiếu nghị quyết HĐND phường/xã. ⚠️ Danh mục có thể là hiện trạng TRƯỚC sắp xếp thôn/TDP 01/7/2026 — Wikipedia chưa cập nhật nghị quyết mới.",
   "tdp": [
     {
-      "name": "1 Hòang Cương",
+      "name": "1 Hoàng Cương",
       "type": "khu"
     },
     {
-      "name": "2 Hòang Cương",
+      "name": "2 Hoàng Cương",
       "type": "khu"
     },
     {
-      "name": "3 Hòang Cương",
+      "name": "3 Hoàng Cương",
       "type": "khu"
     },
     {
-      "name": "4 Hòang Cương",
+      "name": "4 Hoàng Cương",
       "type": "khu"
     },
     {
-      "name": "5 Hòang Cương",
+      "name": "5 Hoàng Cương",
       "type": "khu"
     },
     {
-      "name": "6 Hòang Cương",
+      "name": "6 Hoàng Cương",
       "type": "khu"
     },
     {
-      "name": "7 Hòang Cương",
+      "name": "7 Hoàng Cương",
       "type": "khu"
     },
     {
-      "name": "8 Hòang Cương",
+      "name": "8 Hoàng Cương",
       "type": "khu"
     },
     {
-      "name": "9 Hòang Cương",
+      "name": "9 Hoàng Cương",
       "type": "khu"
     },
     {
-      "name": "10 Hòang Cương",
+      "name": "10 Hoàng Cương",
       "type": "khu"
     },
     {
-      "name": "11 Hòang Cương",
+      "name": "11 Hoàng Cương",
       "type": "khu"
     },
     {
-      "name": "12 Hòang Cương",
+      "name": "12 Hoàng Cương",
       "type": "khu"
     },
     {
-      "name": "13 Hòang Cương",
+      "name": "13 Hoàng Cương",
       "type": "khu"
     },
     {
-      "name": "14 Hòang Cương",
+      "name": "14 Hoàng Cương",
       "type": "khu"
     },
     {
-      "name": "15 Hòang Cương",
+      "name": "15 Hoàng Cương",
       "type": "khu"
     },
     {
@@ -157,11 +157,11 @@
       "type": "khu"
     },
     {
-      "name": "Đòan Kết",
+      "name": "Đoàn Kết",
       "type": "khu"
     },
     {
-      "name": "Hòang Xá",
+      "name": "Hoàng Xá",
       "type": "khu"
     },
     {

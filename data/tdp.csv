@@ -114,7 +114,7 @@ tdp_code,ward_code,province_code,name,full_name,unit_type,code_name,seq,arrangem
 00082.012,00082,01,Quang Trung,Tổ dân phố Quang Trung,tổ dân phố,quang_trung,12,2026_07,unverified,2026-07-01
 00082.013,00082,01,Quán Sứ,Tổ dân phố Quán Sứ,tổ dân phố,quan_su,13,2026_07,unverified,2026-07-01
 00082.014,00082,01,Trần Hưng Đạo,Tổ dân phố Trần Hưng Đạo,tổ dân phố,tran_hung_dao,14,2026_07,unverified,2026-07-01
-00082.015,00082,01,Trần Quốc Tỏan,Tổ dân phố Trần Quốc Tỏan,tổ dân phố,tran_quoc_toan,15,2026_07,unverified,2026-07-01
+00082.015,00082,01,Trần Quốc Toản,Tổ dân phố Trần Quốc Toản,tổ dân phố,tran_quoc_toan,15,2026_07,unverified,2026-07-01
 00082.016,00082,01,Yết Kiêu,Tổ dân phố Yết Kiêu,tổ dân phố,yet_kieu,16,2026_07,unverified,2026-07-01
 00097.001,00097,01,7 khu vực Bạch Đằng,Tổ dân phố 7 khu vực Bạch Đằng,tổ dân phố,7_khu_vuc_bach_dang,1,truoc_2026_07,unverified,
 00097.002,00097,01,8 khu vực Bạch Đằng,Tổ dân phố 8 khu vực Bạch Đằng,tổ dân phố,8_khu_vuc_bach_dang,2,truoc_2026_07,unverified,
@@ -993,7 +993,7 @@ tdp_code,ward_code,province_code,name,full_name,unit_type,code_name,seq,arrangem
 00376.006,00376,01,Dược Hạ,Tổ dân phố Dược Hạ,tổ dân phố,duoc_ha,6,2026_07,unverified,2026-07-01
 00376.007,00376,01,Dược Thượng,Tổ dân phố Dược Thượng,tổ dân phố,duoc_thuong,7,2026_07,unverified,2026-07-01
 00376.008,00376,01,Đan Tảo,Tổ dân phố Đan Tảo,tổ dân phố,dan_tao,8,2026_07,unverified,2026-07-01
-00376.009,00376,01,Đòai,Tổ dân phố Đòai,tổ dân phố,doai,9,2026_07,unverified,2026-07-01
+00376.009,00376,01,Đoài,Tổ dân phố Đoài,tổ dân phố,doai,9,2026_07,unverified,2026-07-01
 00376.010,00376,01,Đông,Tổ dân phố Đông,tổ dân phố,dong,10,2026_07,unverified,2026-07-01
 00376.011,00376,01,Đông Tảo,Tổ dân phố Đông Tảo,tổ dân phố,dong_tao,11,2026_07,unverified,2026-07-01
 00376.012,00376,01,Đồng Lạc,Tổ dân phố Đồng Lạc,tổ dân phố,dong_lac,12,2026_07,unverified,2026-07-01
@@ -1064,7 +1064,7 @@ tdp_code,ward_code,province_code,name,full_name,unit_type,code_name,seq,arrangem
 00433.005,00433,01,Nam Cương,Thôn Nam Cương,thôn,nam_cuong,5,2026_07,unverified,2026-07-01
 00433.006,00433,01,Ninh Bắc,Thôn Ninh Bắc,thôn,ninh_bac,6,2026_07,unverified,2026-07-01
 00433.007,00433,01,Ninh Môn,Thôn Ninh Môn,thôn,ninh_mon,7,2026_07,unverified,2026-07-01
-00433.008,00433,01,Phù Xá Đòai,Thôn Phù Xá Đòai,thôn,phu_xa_doai,8,2026_07,unverified,2026-07-01
+00433.008,00433,01,Phù Xá Đoài,Thôn Phù Xá Đoài,thôn,phu_xa_doai,8,2026_07,unverified,2026-07-01
 00433.009,00433,01,Phù Xá Đông,Thôn Phù Xá Đông,thôn,phu_xa_dong,9,2026_07,unverified,2026-07-01
 00433.010,00433,01,Tân Trại,Thôn Tân Trại,thôn,tan_trai,10,2026_07,unverified,2026-07-01
 00433.011,00433,01,Thanh Nhàn,Thôn Thanh Nhàn,thôn,thanh_nhan,11,2026_07,unverified,2026-07-01
@@ -1115,7 +1115,7 @@ tdp_code,ward_code,province_code,name,full_name,unit_type,code_name,seq,arrangem
 00466.003,00466,01,Cán Khê,Thôn Cán Khê,thôn,can_khe,3,2026_07,unverified,2026-07-01
 00466.004,00466,01,Cổ Dương,Thôn Cổ Dương,thôn,co_duong,4,2026_07,unverified,2026-07-01
 00466.005,00466,01,Đìa,Thôn Đìa,thôn,dia,5,2026_07,unverified,2026-07-01
-00466.006,00466,01,Đòai,Thôn Đòai,thôn,doai,6,2026_07,unverified,2026-07-01
+00466.006,00466,01,Đoài,Thôn Đoài,thôn,doai,6,2026_07,unverified,2026-07-01
 00466.007,00466,01,Khê Nữ,Thôn Khê Nữ,thôn,khe_nu,7,2026_07,unverified,2026-07-01
 00466.008,00466,01,Lễ Pháp,Thôn Lễ Pháp,thôn,le_phap,8,2026_07,unverified,2026-07-01
 00466.009,00466,01,Lương Nỗ,Thôn Lương Nỗ,thôn,luong_no,9,2026_07,unverified,2026-07-01
@@ -1128,7 +1128,7 @@ tdp_code,ward_code,province_code,name,full_name,unit_type,code_name,seq,arrangem
 00466.016,00466,01,Thượng Phúc,Thôn Thượng Phúc,thôn,thuong_phuc,16,2026_07,unverified,2026-07-01
 00466.017,00466,01,Tiên Hùng,Thôn Tiên Hùng,thôn,tien_hung,17,2026_07,unverified,2026-07-01
 00466.018,00466,01,Tiên Kha,Thôn Tiên Kha,thôn,tien_kha,18,2026_07,unverified,2026-07-01
-00466.019,00466,01,Tòan Thắng,Thôn Tòan Thắng,thôn,toan_thang,19,2026_07,unverified,2026-07-01
+00466.019,00466,01,Toàn Thắng,Thôn Toàn Thắng,thôn,toan_thang,19,2026_07,unverified,2026-07-01
 00466.020,00466,01,Trung Oai,Thôn Trung Oai,thôn,trung_oai,20,2026_07,unverified,2026-07-01
 00466.021,00466,01,Tuân Lề,Thôn Tuân Lề,thôn,tuan_le,21,2026_07,unverified,2026-07-01
 00466.022,00466,01,Vân Long,Thôn Vân Long,thôn,van_long,22,2026_07,unverified,2026-07-01
@@ -1175,7 +1175,7 @@ tdp_code,ward_code,province_code,name,full_name,unit_type,code_name,seq,arrangem
 00493.003,00493,01,Cầu Thăng Long,Thôn Cầu Thăng Long,thôn,cau_thang_long,3,truoc_2026_07,unverified,
 00493.004,00493,01,Đại Đồng,Thôn Đại Đồng,thôn,dai_dong,4,truoc_2026_07,unverified,
 00493.005,00493,01,Đại Độ,Thôn Đại Độ,thôn,dai_do,5,truoc_2026_07,unverified,
-00493.006,00493,01,Đòai,Thôn Đòai,thôn,doai,6,truoc_2026_07,unverified,
+00493.006,00493,01,Đoài,Thôn Đoài,thôn,doai,6,truoc_2026_07,unverified,
 00493.007,00493,01,Đông,Thôn Đông,thôn,dong,7,truoc_2026_07,unverified,
 00493.008,00493,01,Hậu Dưỡng,Thôn Hậu Dưỡng,thôn,hau_duong,8,truoc_2026_07,unverified,
 00493.009,00493,01,Mai Châu,Thôn Mai Châu,thôn,mai_chau,9,truoc_2026_07,unverified,
@@ -1185,7 +1185,7 @@ tdp_code,ward_code,province_code,name,full_name,unit_type,code_name,seq,arrangem
 00493.013,00493,01,Thọ Đa,Thôn Thọ Đa,thôn,tho_da,13,truoc_2026_07,unverified,
 00493.014,00493,01,Võng La,Thôn Võng La,thôn,vong_la,14,truoc_2026_07,unverified,
 00508.001,00508,01,Cổ Điển,Thôn Cổ Điển,thôn,co_dien,1,truoc_2026_07,unverified,
-00508.002,00508,01,Đòai,Thôn Đòai,thôn,doai,2,truoc_2026_07,unverified,
+00508.002,00508,01,Đoài,Thôn Đoài,thôn,doai,2,truoc_2026_07,unverified,
 00508.003,00508,01,Đông,Thôn Đông,thôn,dong,3,truoc_2026_07,unverified,
 00508.004,00508,01,Đồng Nhân,Thôn Đồng Nhân,thôn,dong_nhan,4,truoc_2026_07,unverified,
 00508.005,00508,01,Hải Bối,Thôn Hải Bối,thôn,hai_boi,5,truoc_2026_07,unverified,
@@ -1208,7 +1208,7 @@ tdp_code,ward_code,province_code,name,full_name,unit_type,code_name,seq,arrangem
 00541.011,00541,01,Hạ,Thôn Hạ,thôn,ha,11,2026_07,unverified,2026-07-01
 00541.012,00541,01,Kim Quan,Thôn Kim Quan,thôn,kim_quan,12,2026_07,unverified,2026-07-01
 00541.013,00541,01,Lã Côi,Thôn Lã Côi,thôn,la_coi,13,2026_07,unverified,2026-07-01
-00541.014,00541,01,Lại Hòang,Thôn Lại Hòang,thôn,lai_hoang,14,2026_07,unverified,2026-07-01
+00541.014,00541,01,Lại Hoàng,Thôn Lại Hoàng,thôn,lai_hoang,14,2026_07,unverified,2026-07-01
 00541.015,00541,01,Liên Đàm,Thôn Liên Đàm,thôn,lien_dam,15,2026_07,unverified,2026-07-01
 00541.016,00541,01,Phù Dực,Thôn Phù Dực,thôn,phu_duc,16,2026_07,unverified,2026-07-01
 00541.017,00541,01,Phù Đổng,Thôn Phù Đổng,thôn,phu_dong,17,2026_07,unverified,2026-07-01
@@ -1267,7 +1267,7 @@ tdp_code,ward_code,province_code,name,full_name,unit_type,code_name,seq,arrangem
 00565.017,00565,01,Dương Đá,Tổ dân phố Dương Đá,tổ dân phố,duong_da,17,2026_07,unverified,2026-07-01
 00565.018,00565,01,Dương Đình,Tổ dân phố Dương Đình,tổ dân phố,duong_dinh,18,2026_07,unverified,2026-07-01
 00565.019,00565,01,Gia Xuân,Tổ dân phố Gia Xuân,tổ dân phố,gia_xuan,19,2026_07,unverified,2026-07-01
-00565.020,00565,01,Hòang Chu Báo,Tổ dân phố Hòang Chu Báo,tổ dân phố,hoang_chu_bao,20,2026_07,unverified,2026-07-01
+00565.020,00565,01,Hoàng Chu Báo,Tổ dân phố Hoàng Chu Báo,tổ dân phố,hoang_chu_bao,20,2026_07,unverified,2026-07-01
 00565.021,00565,01,Hội,Tổ dân phố Hội,tổ dân phố,hoi,21,2026_07,unverified,2026-07-01
 00565.022,00565,01,Kiêu Kỵ,Tổ dân phố Kiêu Kỵ,tổ dân phố,kieu_ky,22,2026_07,unverified,2026-07-01
 00565.023,00565,01,Phú Thị,Tổ dân phố Phú Thị,tổ dân phố,phu_thi,23,2026_07,unverified,2026-07-01
@@ -1371,9 +1371,9 @@ tdp_code,ward_code,province_code,name,full_name,unit_type,code_name,seq,arrangem
 00622.007,00622,01,7 Hòe Thị,Tổ dân phố 7 Hòe Thị,tổ dân phố,7_hoe_thi,7,2026_07,unverified,2026-07-01
 00622.008,00622,01,8 Hòe Thị,Tổ dân phố 8 Hòe Thị,tổ dân phố,8_hoe_thi,8,2026_07,unverified,2026-07-01
 00622.009,00622,01,9 Hòe Thị,Tổ dân phố 9 Hòe Thị,tổ dân phố,9_hoe_thi,9,2026_07,unverified,2026-07-01
-00622.010,00622,01,10 Tu Hòang,Tổ dân phố 10 Tu Hòang,tổ dân phố,10_tu_hoang,10,2026_07,unverified,2026-07-01
-00622.011,00622,01,11 Tu Hòang,Tổ dân phố 11 Tu Hòang,tổ dân phố,11_tu_hoang,11,2026_07,unverified,2026-07-01
-00622.012,00622,01,12 Tu Hòang,Tổ dân phố 12 Tu Hòang,tổ dân phố,12_tu_hoang,12,2026_07,unverified,2026-07-01
+00622.010,00622,01,10 Tu Hoàng,Tổ dân phố 10 Tu Hoàng,tổ dân phố,10_tu_hoang,10,2026_07,unverified,2026-07-01
+00622.011,00622,01,11 Tu Hoàng,Tổ dân phố 11 Tu Hoàng,tổ dân phố,11_tu_hoang,11,2026_07,unverified,2026-07-01
+00622.012,00622,01,12 Tu Hoàng,Tổ dân phố 12 Tu Hoàng,tổ dân phố,12_tu_hoang,12,2026_07,unverified,2026-07-01
 00622.013,00622,01,13 Kiều Mai,Tổ dân phố 13 Kiều Mai,tổ dân phố,13_kieu_mai,13,2026_07,unverified,2026-07-01
 00622.014,00622,01,14 Kiều Mai,Tổ dân phố 14 Kiều Mai,tổ dân phố,14_kieu_mai,14,2026_07,unverified,2026-07-01
 00622.015,00622,01,15 Phúc Diễn,Tổ dân phố 15 Phúc Diễn,tổ dân phố,15_phuc_dien,15,2026_07,unverified,2026-07-01
@@ -1443,7 +1443,7 @@ tdp_code,ward_code,province_code,name,full_name,unit_type,code_name,seq,arrangem
 00640.016,00640,01,Đồng Trì,Tổ dân phố Đồng Trì,tổ dân phố,dong_tri,16,2026_07,unverified,2026-07-01
 00640.017,00640,01,Lưu Phái,Tổ dân phố Lưu Phái,tổ dân phố,luu_phai,17,2026_07,unverified,2026-07-01
 00640.018,00640,01,Tứ Hiệp,Tổ dân phố Tứ Hiệp,tổ dân phố,tu_hiep,18,2026_07,unverified,2026-07-01
-00640.019,00640,01,Tự Khóat,Tổ dân phố Tự Khóat,tổ dân phố,tu_khoat,19,2026_07,unverified,2026-07-01
+00640.019,00640,01,Tự Khoát,Tổ dân phố Tự Khoát,tổ dân phố,tu_khoat,19,2026_07,unverified,2026-07-01
 00643.001,00643,01,1 Hạ Đình,Tổ dân phố 1 Hạ Đình,tổ dân phố,1_ha_dinh,1,2026_07,unverified,2026-07-01
 00643.002,00643,01,2 Hạ Đình,Tổ dân phố 2 Hạ Đình,tổ dân phố,2_ha_dinh,2,2026_07,unverified,2026-07-01
 00643.003,00643,01,1 Thanh Xuân Nam,Tổ dân phố 1 Thanh Xuân Nam,tổ dân phố,1_thanh_xuan_nam,3,2026_07,unverified,2026-07-01
@@ -1466,14 +1466,14 @@ tdp_code,ward_code,province_code,name,full_name,unit_type,code_name,seq,arrangem
 00664.001,00664,01,8 Tả Thanh Oai,Thôn 8 Tả Thanh Oai,thôn,8_ta_thanh_oai,1,2026_07,unverified,2026-07-01
 00664.002,00664,01,10 Tả Thanh Oai,Thôn 10 Tả Thanh Oai,thôn,10_ta_thanh_oai,2,2026_07,unverified,2026-07-01
 00664.003,00664,01,Cầu Bươu,Thôn Cầu Bươu,thôn,cau_buou,3,2026_07,unverified,2026-07-01
-00664.004,00664,01,Hùynh Cung,Thôn Hùynh Cung,thôn,huynh_cung,4,2026_07,unverified,2026-07-01
+00664.004,00664,01,Huỳnh Cung,Thôn Huỳnh Cung,thôn,huynh_cung,4,2026_07,unverified,2026-07-01
 00664.005,00664,01,Hữu Lê,Thôn Hữu Lê,thôn,huu_le,5,2026_07,unverified,2026-07-01
 00664.006,00664,01,Hữu Thanh Oai,Thôn Hữu Thanh Oai,thôn,huu_thanh_oai,6,2026_07,unverified,2026-07-01
 00664.007,00664,01,Hữu Từ,Thôn Hữu Từ,thôn,huu_tu,7,2026_07,unverified,2026-07-01
 00664.008,00664,01,Ích Vịnh,Thôn Ích Vịnh,thôn,ich_vinh,8,2026_07,unverified,2026-07-01
 00664.009,00664,01,Nhân Hòa,Thôn Nhân Hòa,thôn,nhan_hoa,9,2026_07,unverified,2026-07-01
 00664.010,00664,01,Phú Diễn,Thôn Phú Diễn,thôn,phu_dien,10,2026_07,unverified,2026-07-01
-00664.011,00664,01,Qùynh Đô,Thôn Qùynh Đô,thôn,quynh_do,11,2026_07,unverified,2026-07-01
+00664.011,00664,01,Quỳnh Đô,Thôn Quỳnh Đô,thôn,quynh_do,11,2026_07,unverified,2026-07-01
 00664.012,00664,01,Siêu Quần,Thôn Siêu Quần,thôn,sieu_quan,12,2026_07,unverified,2026-07-01
 00664.013,00664,01,Tả Thanh Oai,Thôn Tả Thanh Oai,thôn,ta_thanh_oai,13,2026_07,unverified,2026-07-01
 00664.014,00664,01,Tập thể Phân Lân – 105,Thôn Tập thể Phân Lân – 105,thôn,tap_the_phan_lan_105,14,2026_07,unverified,2026-07-01
@@ -1635,7 +1635,7 @@ tdp_code,ward_code,province_code,name,full_name,unit_type,code_name,seq,arrangem
 04891.001,04891,25,Cò Xa,Xóm Cò Xa,xóm,co_xa,1,2026_07,unverified,2026-07-01
 04891.002,04891,25,Dướng,Xóm Dướng,xóm,duong,2,2026_07,unverified,2026-07-01
 04891.003,04891,25,Điêng Lựng,Xóm Điêng Lựng,xóm,dieng_lung,3,2026_07,unverified,2026-07-01
-04891.004,04891,25,Đòan Kết,Xóm Đòan Kết,xóm,doan_ket,4,2026_07,unverified,2026-07-01
+04891.004,04891,25,Đoàn Kết,Xóm Đoàn Kết,xóm,doan_ket,4,2026_07,unverified,2026-07-01
 04891.005,04891,25,Đức Phong,Xóm Đức Phong,xóm,duc_phong,5,2026_07,unverified,2026-07-01
 04891.006,04891,25,Lau,Xóm Lau,xóm,lau,6,2026_07,unverified,2026-07-01
 04891.007,04891,25,Mó Nẻ,Xóm Mó Nẻ,xóm,mo_ne,7,2026_07,unverified,2026-07-01
@@ -1667,8 +1667,8 @@ tdp_code,ward_code,province_code,name,full_name,unit_type,code_name,seq,arrangem
 04894.019,04894,25,Trung Thành,Tổ dân phố Trung Thành,tổ dân phố,trung_thanh,19,2026_07,unverified,2026-07-01
 04897.001,04897,25,Bu Chằm,Xóm Bu Chằm,xóm,bu_cham,1,truoc_2026_07,unverified,
 04897.002,04897,25,Đình Đa,Xóm Đình Đa,xóm,dinh_da,2,truoc_2026_07,unverified,
-04897.003,04897,25,Đòan Kết 1,Xóm Đòan Kết 1,xóm,doan_ket_1,3,truoc_2026_07,unverified,
-04897.004,04897,25,Đòan Kết 2,Xóm Đòan Kết 2,xóm,doan_ket_2,4,truoc_2026_07,unverified,
+04897.003,04897,25,Đoàn Kết 1,Xóm Đoàn Kết 1,xóm,doan_ket_1,3,truoc_2026_07,unverified,
+04897.004,04897,25,Đoàn Kết 2,Xóm Đoàn Kết 2,xóm,doan_ket_2,4,truoc_2026_07,unverified,
 04897.005,04897,25,Đồng Bài,Xóm Đồng Bài,xóm,dong_bai,5,truoc_2026_07,unverified,
 04897.006,04897,25,Độc Lập,Xóm Độc Lập,xóm,doc_lap,6,truoc_2026_07,unverified,
 04897.007,04897,25,Giếng 1,Xóm Giếng 1,xóm,gieng_1,7,truoc_2026_07,unverified,
@@ -1699,7 +1699,7 @@ tdp_code,ward_code,province_code,name,full_name,unit_type,code_name,seq,arrangem
 04924.003,04924,25,Rổng Tằm,Xóm Rổng Tằm,xóm,rong_tam,3,truoc_2026_07,unverified,
 04924.004,04924,25,Rổng Cấn,Xóm Rổng Cấn,xóm,rong_can,4,truoc_2026_07,unverified,
 04924.005,04924,25,Lam Sơn,Xóm Lam Sơn,xóm,lam_son,5,truoc_2026_07,unverified,
-04924.006,04924,25,Đòan Kết,Xóm Đòan Kết,xóm,doan_ket,6,truoc_2026_07,unverified,
+04924.006,04924,25,Đoàn Kết,Xóm Đoàn Kết,xóm,doan_ket,6,truoc_2026_07,unverified,
 04924.007,04924,25,Kẽm,Xóm Kẽm,xóm,kem,7,truoc_2026_07,unverified,
 04924.008,04924,25,Dốc Phấn,Xóm Dốc Phấn,xóm,doc_phan,8,truoc_2026_07,unverified,
 04930.001,04930,01,Đông Xuân 1,Thôn Đông Xuân 1,thôn,dong_xuan_1,1,2026_07,unverified,2026-07-01
@@ -1757,6 +1757,43 @@ tdp_code,ward_code,province_code,name,full_name,unit_type,code_name,seq,arrangem
 04960.042,04960,25,Thành Sơn,Thôn Thành Sơn,thôn,thanh_son,42,truoc_2026_07,unverified,
 04960.043,04960,25,Trại Hòa,Thôn Trại Hòa,thôn,trai_hoa,43,truoc_2026_07,unverified,
 04960.044,04960,25,Vai Đào,Thôn Vai Đào,thôn,vai_dao,44,truoc_2026_07,unverified,
+04978.001,04978,25,Bãi,Khu Bãi,khu,bai,1,truoc_2026_07,unverified,
+04978.002,04978,25,Bo,Khu Bo,khu,bo,2,truoc_2026_07,unverified,
+04978.003,04978,25,Đoàn Kết,Khu Đoàn Kết,khu,doan_ket,3,truoc_2026_07,unverified,
+04978.004,04978,25,Đồng Tiến,Khu Đồng Tiến,khu,dong_tien,4,truoc_2026_07,unverified,
+04978.005,04978,25,Hoa Lư,Khu Hoa Lư,khu,hoa_lu,5,truoc_2026_07,unverified,
+04978.006,04978,25,Lạng,Khu Lạng,khu,lang,6,truoc_2026_07,unverified,
+04978.007,04978,25,Lục Cả,Khu Lục Cả,khu,luc_ca,7,truoc_2026_07,unverified,
+04978.008,04978,25,Lục Đồi,Khu Lục Đồi,khu,luc_doi,8,truoc_2026_07,unverified,
+04978.009,04978,25,Mớ Đá,Khu Mớ Đá,khu,mo_da,9,truoc_2026_07,unverified,
+04978.010,04978,25,Mớ Đồi,Khu Mớ Đồi,khu,mo_doi,10,truoc_2026_07,unverified,
+04978.011,04978,25,Mớ Khoắc,Khu Mớ Khoắc,khu,mo_khoac,11,truoc_2026_07,unverified,
+04978.012,04978,25,Nội Sung,Khu Nội Sung,khu,noi_sung,12,truoc_2026_07,unverified,
+04978.013,04978,25,Sào,Khu Sào,khu,sao,13,truoc_2026_07,unverified,
+04978.014,04978,25,Thái Bình,Khu Thái Bình,khu,thai_binh,14,truoc_2026_07,unverified,
+04978.015,04978,25,Thành Công,Khu Thành Công,khu,thanh_cong,15,truoc_2026_07,unverified,
+04978.016,04978,25,Thống Nhất,Khu Thống Nhất,khu,thong_nhat,16,truoc_2026_07,unverified,
+04978.017,04978,25,22 xóm: Bôi Câu,Khu 22 xóm: Bôi Câu,khu,22_xom_boi_cau,17,truoc_2026_07,unverified,
+04978.018,04978,25,Bộ Mu,Khu Bộ Mu,khu,bo_mu,18,truoc_2026_07,unverified,
+04978.019,04978,25,Chanh,Khu Chanh,khu,chanh,19,truoc_2026_07,unverified,
+04978.020,04978,25,Cháo,Khu Cháo,khu,chao,20,truoc_2026_07,unverified,
+04978.021,04978,25,Chiềng,Khu Chiềng,khu,chieng,21,truoc_2026_07,unverified,
+04978.022,04978,25,Cóc Lẫm,Khu Cóc Lẫm,khu,coc_lam,22,truoc_2026_07,unverified,
+04978.023,04978,25,Cốc,Khu Cốc,khu,coc,23,truoc_2026_07,unverified,
+04978.024,04978,25,Dảnh,Khu Dảnh,khu,danh,24,truoc_2026_07,unverified,
+04978.025,04978,25,Dứng Ổi,Khu Dứng Ổi,khu,dung_oi,25,truoc_2026_07,unverified,
+04978.026,04978,25,Đồi 1,Khu Đồi 1,khu,doi_1,26,truoc_2026_07,unverified,
+04978.027,04978,25,Đồi 2,Khu Đồi 2,khu,doi_2,27,truoc_2026_07,unverified,
+04978.028,04978,25,Gò Cha,Khu Gò Cha,khu,go_cha,28,truoc_2026_07,unverified,
+04978.029,04978,25,Gò Đầm,Khu Gò Đầm,khu,go_dam,29,truoc_2026_07,unverified,
+04978.030,04978,25,Gò Khánh,Khu Gò Khánh,khu,go_khanh,30,truoc_2026_07,unverified,
+04978.031,04978,25,Gò Mu,Khu Gò Mu,khu,go_mu,31,truoc_2026_07,unverified,
+04978.032,04978,25,Quê Rù,Khu Quê Rù,khu,que_ru,32,truoc_2026_07,unverified,
+04978.033,04978,25,Sống,Khu Sống,khu,song,33,truoc_2026_07,unverified,
+04978.034,04978,25,Suối Con,Khu Suối Con,khu,suoi_con,34,truoc_2026_07,unverified,
+04978.035,04978,25,Vó Khang,Khu Vó Khang,khu,vo_khang,35,truoc_2026_07,unverified,
+04978.036,04978,25,Vố,Khu Vố,khu,vo,36,truoc_2026_07,unverified,
+04978.037,04978,25,Yên,Khu Yên,khu,yen,37,truoc_2026_07,unverified,
 04990.001,04990,25,Mường Tú,Thôn Mường Tú,thôn,muong_tu,1,2026_07,primary,2026-07-01
 04990.002,04990,25,Đoàn Kết,Thôn Đoàn Kết,thôn,doan_ket,2,2026_07,primary,2026-07-01
 04990.003,04990,25,Sáng Trong,Thôn Sáng Trong,thôn,sang_trong,3,2026_07,primary,2026-07-01
@@ -1785,7 +1822,7 @@ tdp_code,ward_code,province_code,name,full_name,unit_type,code_name,seq,arrangem
 05014.007,05014,25,Đầm Rừng,Thôn Đầm Rừng,thôn,dam_rung,7,truoc_2026_07,unverified,
 05014.008,05014,25,Đồi,Thôn Đồi,thôn,doi,8,truoc_2026_07,unverified,
 05014.009,05014,25,Đồng Nang,Thôn Đồng Nang,thôn,dong_nang,9,truoc_2026_07,unverified,
-05014.010,05014,25,Đồng Ngòai,Thôn Đồng Ngòai,thôn,dong_ngoai,10,truoc_2026_07,unverified,
+05014.010,05014,25,Đồng Ngoài,Thôn Đồng Ngoài,thôn,dong_ngoai,10,truoc_2026_07,unverified,
 05014.011,05014,25,Đúp,Thôn Đúp,thôn,dup,11,truoc_2026_07,unverified,
 05014.012,05014,25,Hạ Sơn,Thôn Hạ Sơn,thôn,ha_son,12,truoc_2026_07,unverified,
 05014.013,05014,25,Hợp Nhất,Thôn Hợp Nhất,thôn,hop_nhat,13,truoc_2026_07,unverified,
@@ -1795,7 +1832,7 @@ tdp_code,ward_code,province_code,name,full_name,unit_type,code_name,seq,arrangem
 05014.017,05014,25,Lươn,Thôn Lươn,thôn,luon,17,truoc_2026_07,unverified,
 05014.018,05014,25,Quê Kho,Thôn Quê Kho,thôn,que_kho,18,truoc_2026_07,unverified,
 05014.019,05014,25,Sằn,Thôn Sằn,thôn,san,19,truoc_2026_07,unverified,
-05014.020,05014,25,Sim Ngòai,Thôn Sim Ngòai,thôn,sim_ngoai,20,truoc_2026_07,unverified,
+05014.020,05014,25,Sim Ngoài,Thôn Sim Ngoài,thôn,sim_ngoai,20,truoc_2026_07,unverified,
 05014.021,05014,25,Sim Trong,Thôn Sim Trong,thôn,sim_trong,21,truoc_2026_07,unverified,
 05014.022,05014,25,Suối Măng,Thôn Suối Măng,thôn,suoi_mang,22,truoc_2026_07,unverified,
 05014.023,05014,25,Suối Rèo,Thôn Suối Rèo,thôn,suoi_reo,23,truoc_2026_07,unverified,
@@ -1837,7 +1874,7 @@ tdp_code,ward_code,province_code,name,full_name,unit_type,code_name,seq,arrangem
 05047.025,05047,25,Quyền Chương,Thôn Quyền Chương,thôn,quyen_chuong,25,truoc_2026_07,unverified,
 05047.026,05047,25,Sấu Hạ,Thôn Sấu Hạ,thôn,sau_ha,26,truoc_2026_07,unverified,
 05047.027,05047,25,Sấu Thượng,Thôn Sấu Thượng,thôn,sau_thuong,27,truoc_2026_07,unverified,
-05047.028,05047,25,Song Hùynh,Thôn Song Hùynh,thôn,song_huynh,28,truoc_2026_07,unverified,
+05047.028,05047,25,Song Huỳnh,Thôn Song Huỳnh,thôn,song_huynh,28,truoc_2026_07,unverified,
 05047.029,05047,25,Thanh Hà,Thôn Thanh Hà,thôn,thanh_ha,29,truoc_2026_07,unverified,
 05047.030,05047,25,Thạch Quyền,Thôn Thạch Quyền,thôn,thach_quyen,30,truoc_2026_07,unverified,
 05047.031,05047,25,Thăng,Thôn Thăng,thôn,thang,31,truoc_2026_07,unverified,
@@ -1977,8 +2014,8 @@ tdp_code,ward_code,province_code,name,full_name,unit_type,code_name,seq,arrangem
 05116.031,05116,25,Tây Sơn,Xóm Tây Sơn,xóm,tay_son,31,truoc_2026_07,unverified,
 05116.032,05116,25,Thang,Xóm Thang,xóm,thang,32,truoc_2026_07,unverified,
 05116.033,05116,25,Thôi Bạ,Xóm Thôi Bạ,xóm,thoi_ba,33,truoc_2026_07,unverified,
-05116.034,05116,25,Trẹo Ngòai 1,Xóm Trẹo Ngòai 1,xóm,treo_ngoai_1,34,truoc_2026_07,unverified,
-05116.035,05116,25,Trẹo Ngòai 2,Xóm Trẹo Ngòai 2,xóm,treo_ngoai_2,35,truoc_2026_07,unverified,
+05116.034,05116,25,Trẹo Ngoài 1,Xóm Trẹo Ngoài 1,xóm,treo_ngoai_1,34,truoc_2026_07,unverified,
+05116.035,05116,25,Trẹo Ngoài 2,Xóm Trẹo Ngoài 2,xóm,treo_ngoai_2,35,truoc_2026_07,unverified,
 05116.036,05116,25,Trẹo Trong,Xóm Trẹo Trong,xóm,treo_trong,36,truoc_2026_07,unverified,
 05116.037,05116,25,Um,Xóm Um,xóm,um,37,truoc_2026_07,unverified,
 05128.001,05128,25,An Khang,Khu An Khang,khu,an_khang,1,truoc_2026_07,unverified,
@@ -1987,7 +2024,7 @@ tdp_code,ward_code,province_code,name,full_name,unit_type,code_name,seq,arrangem
 05128.004,05128,25,Ban Rừng,Khu Ban Rừng,khu,ban_rung,4,truoc_2026_07,unverified,
 05128.005,05128,25,Bình Minh,Khu Bình Minh,khu,binh_minh,5,truoc_2026_07,unverified,
 05128.006,05128,25,Chiềng Khến,Khu Chiềng Khến,khu,chieng_khen,6,truoc_2026_07,unverified,
-05128.007,05128,25,Đòan Kết,Khu Đòan Kết,khu,doan_ket,7,truoc_2026_07,unverified,
+05128.007,05128,25,Đoàn Kết,Khu Đoàn Kết,khu,doan_ket,7,truoc_2026_07,unverified,
 05128.008,05128,25,Đồng Khì,Khu Đồng Khì,khu,dong_khi,8,truoc_2026_07,unverified,
 05128.009,05128,25,Đồng Tiến,Khu Đồng Tiến,khu,dong_tien,9,truoc_2026_07,unverified,
 05128.010,05128,25,Đồng Văn,Khu Đồng Văn,khu,dong_van,10,truoc_2026_07,unverified,
@@ -2188,7 +2225,7 @@ tdp_code,ward_code,province_code,name,full_name,unit_type,code_name,seq,arrangem
 05245.008,05245,25,Hịch 1,Xóm Hịch 1,xóm,hich_1,8,truoc_2026_07,unverified,
 05245.009,05245,25,Hịch 2,Xóm Hịch 2,xóm,hich_2,9,truoc_2026_07,unverified,
 05245.010,05245,25,Khòe,Xóm Khòe,xóm,khoe,10,truoc_2026_07,unverified,
-05245.011,05245,25,Mai Hòang Sơn,Xóm Mai Hòang Sơn,xóm,mai_hoang_son,11,truoc_2026_07,unverified,
+05245.011,05245,25,Mai Hoàng Sơn,Xóm Mai Hoàng Sơn,xóm,mai_hoang_son,11,truoc_2026_07,unverified,
 05245.012,05245,25,Nám,Xóm Nám,xóm,nam,12,truoc_2026_07,unverified,
 05245.013,05245,25,Nà Chào,Xóm Nà Chào,xóm,na_chao,13,truoc_2026_07,unverified,
 05245.014,05245,25,Ngõa,Xóm Ngõa,xóm,ngoa,14,truoc_2026_07,unverified,
@@ -2311,11 +2348,11 @@ tdp_code,ward_code,province_code,name,full_name,unit_type,code_name,seq,arrangem
 05323.002,05323,25,Bai Chim,Xóm Bai Chim,xóm,bai_chim,2,truoc_2026_07,unverified,
 05323.003,05323,25,Bai Khưa,Xóm Bai Khưa,xóm,bai_khua,3,truoc_2026_07,unverified,
 05323.004,05323,25,Bai Vớn,Xóm Bai Vớn,xóm,bai_von,4,truoc_2026_07,unverified,
-05323.005,05323,25,Bán Ngòai,Xóm Bán Ngòai,xóm,ban_ngoai,5,truoc_2026_07,unverified,
+05323.005,05323,25,Bán Ngoài,Xóm Bán Ngoài,xóm,ban_ngoai,5,truoc_2026_07,unverified,
 05323.006,05323,25,Bán Trong,Xóm Bán Trong,xóm,ban_trong,6,truoc_2026_07,unverified,
 05323.007,05323,25,Băn Chao,Xóm Băn Chao,xóm,ban_chao,7,truoc_2026_07,unverified,
 05323.008,05323,25,Be Dưới,Xóm Be Dưới,xóm,be_duoi,8,truoc_2026_07,unverified,
-05323.009,05323,25,Be Ngòai,Xóm Be Ngòai,xóm,be_ngoai,9,truoc_2026_07,unverified,
+05323.009,05323,25,Be Ngoài,Xóm Be Ngoài,xóm,be_ngoai,9,truoc_2026_07,unverified,
 05323.010,05323,25,Be Trên,Xóm Be Trên,xóm,be_tren,10,truoc_2026_07,unverified,
 05323.011,05323,25,Châu Tróng,Xóm Châu Tróng,xóm,chau_trong,11,truoc_2026_07,unverified,
 05323.012,05323,25,Chiềng,Xóm Chiềng,xóm,chieng,12,truoc_2026_07,unverified,
@@ -2394,7 +2431,7 @@ tdp_code,ward_code,province_code,name,full_name,unit_type,code_name,seq,arrangem
 05386.002,05386,25,Liên Hợp,Xóm Liên Hợp,xóm,lien_hop,2,truoc_2026_07,unverified,
 05386.003,05386,25,Yên Thái,Xóm Yên Thái,xóm,yen_thai,3,truoc_2026_07,unverified,
 05386.004,05386,25,Phủ Vệ,Xóm Phủ Vệ,xóm,phu_ve,4,truoc_2026_07,unverified,
-05386.005,05386,25,Đòan Kết,Xóm Đòan Kết,xóm,doan_ket,5,truoc_2026_07,unverified,
+05386.005,05386,25,Đoàn Kết,Xóm Đoàn Kết,xóm,doan_ket,5,truoc_2026_07,unverified,
 05386.006,05386,25,Đồng Tiến,Xóm Đồng Tiến,xóm,dong_tien,6,truoc_2026_07,unverified,
 05386.007,05386,25,Tân Minh,Xóm Tân Minh,xóm,tan_minh,7,truoc_2026_07,unverified,
 05386.008,05386,25,Tân Thịnh,Xóm Tân Thịnh,xóm,tan_thinh,8,truoc_2026_07,unverified,
@@ -2425,7 +2462,7 @@ tdp_code,ward_code,province_code,name,full_name,unit_type,code_name,seq,arrangem
 05392.012,05392,25,Đồng Nhất,Khu Đồng Nhất,khu,dong_nhat,12,truoc_2026_07,unverified,
 05392.013,05392,25,Đồng Nội,Khu Đồng Nội,khu,dong_noi,13,truoc_2026_07,unverified,
 05392.014,05392,25,Đồng Phú,Khu Đồng Phú,khu,dong_phu,14,truoc_2026_07,unverified,
-05392.015,05392,25,Hòang Đồng,Khu Hòang Đồng,khu,hoang_dong,15,truoc_2026_07,unverified,
+05392.015,05392,25,Hoàng Đồng,Khu Hoàng Đồng,khu,hoang_dong,15,truoc_2026_07,unverified,
 05392.016,05392,25,Hồng Phong,Khu Hồng Phong,khu,hong_phong,16,truoc_2026_07,unverified,
 05392.017,05392,25,Hồng Phong 2,Khu Hồng Phong 2,khu,hong_phong_2,17,truoc_2026_07,unverified,
 05392.018,05392,25,Hồng Phong 3,Khu Hồng Phong 3,khu,hong_phong_3,18,truoc_2026_07,unverified,
@@ -2459,13 +2496,13 @@ tdp_code,ward_code,province_code,name,full_name,unit_type,code_name,seq,arrangem
 05395.016,05395,25,Bưa Cú,Khu Bưa Cú,khu,bua_cu,16,truoc_2026_07,unverified,
 05395.017,05395,25,Chùa,Khu Chùa,khu,chua,17,truoc_2026_07,unverified,
 05395.018,05395,25,Đầm Đa,Khu Đầm Đa,khu,dam_da,18,truoc_2026_07,unverified,
-05395.019,05395,25,Đòan Kết,Khu Đòan Kết,khu,doan_ket,19,truoc_2026_07,unverified,
+05395.019,05395,25,Đoàn Kết,Khu Đoàn Kết,khu,doan_ket,19,truoc_2026_07,unverified,
 05395.020,05395,25,Đồng Danh,Khu Đồng Danh,khu,dong_danh,20,truoc_2026_07,unverified,
 05395.021,05395,25,Đồng Sắn,Khu Đồng Sắn,khu,dong_san,21,truoc_2026_07,unverified,
 05395.022,05395,25,Đồng Thung,Khu Đồng Thung,khu,dong_thung,22,truoc_2026_07,unverified,
 05395.023,05395,25,Đồng Tiến,Khu Đồng Tiến,khu,dong_tien,23,truoc_2026_07,unverified,
 05395.024,05395,25,Gốc Xanh,Khu Gốc Xanh,khu,goc_xanh,24,truoc_2026_07,unverified,
-05395.025,05395,25,Lão Ngọai,Khu Lão Ngọai,khu,lao_ngoai,25,truoc_2026_07,unverified,
+05395.025,05395,25,Lão Ngoại,Khu Lão Ngoại,khu,lao_ngoai,25,truoc_2026_07,unverified,
 05395.026,05395,25,Lão Nội,Khu Lão Nội,khu,lao_noi,26,truoc_2026_07,unverified,
 05395.027,05395,25,Lũ,Khu Lũ,khu,lu,27,truoc_2026_07,unverified,
 05395.028,05395,25,Phú Bình,Khu Phú Bình,khu,phu_binh,28,truoc_2026_07,unverified,
@@ -2501,7 +2538,7 @@ tdp_code,ward_code,province_code,name,full_name,unit_type,code_name,seq,arrangem
 05425.023,05425,25,Măng,Thôn Măng,thôn,mang,23,truoc_2026_07,unverified,
 05425.024,05425,25,Minh Thành,Thôn Minh Thành,thôn,minh_thanh,24,truoc_2026_07,unverified,
 05425.025,05425,25,Niếng,Thôn Niếng,thôn,nieng,25,truoc_2026_07,unverified,
-05425.026,05425,25,Ninh Ngọai,Thôn Ninh Ngọai,thôn,ninh_ngoai,26,truoc_2026_07,unverified,
+05425.026,05425,25,Ninh Ngoại,Thôn Ninh Ngoại,thôn,ninh_ngoai,26,truoc_2026_07,unverified,
 05425.027,05425,25,Ninh Nội,Thôn Ninh Nội,thôn,ninh_noi,27,truoc_2026_07,unverified,
 05425.028,05425,25,Phú Tường,Thôn Phú Tường,thôn,phu_tuong,28,truoc_2026_07,unverified,
 05425.029,05425,25,Tám,Thôn Tám,thôn,tam,29,truoc_2026_07,unverified,
@@ -2515,12 +2552,12 @@ tdp_code,ward_code,province_code,name,full_name,unit_type,code_name,seq,arrangem
 05425.037,05425,25,Vôn,Thôn Vôn,thôn,von,37,truoc_2026_07,unverified,
 07894.001,07894,25,Cẩm Đội,Tổ dân phố Cẩm Đội,tổ dân phố,cam_doi,1,2026_07,unverified,2026-07-01
 07894.002,07894,25,Đại Nải,Tổ dân phố Đại Nải,tổ dân phố,dai_nai,2,2026_07,unverified,2026-07-01
-07894.003,07894,25,Đinh Tiên Hòang,Tổ dân phố Đinh Tiên Hòang,tổ dân phố,dinh_tien_hoang,3,2026_07,unverified,2026-07-01
+07894.003,07894,25,Đinh Tiên Hoàng,Tổ dân phố Đinh Tiên Hoàng,tổ dân phố,dinh_tien_hoang,3,2026_07,unverified,2026-07-01
 07894.004,07894,25,Lâm Thắng,Tổ dân phố Lâm Thắng,tổ dân phố,lam_thang,4,2026_07,unverified,2026-07-01
 07894.005,07894,25,Liên Minh,Tổ dân phố Liên Minh,tổ dân phố,lien_minh,5,2026_07,unverified,2026-07-01
 07894.006,07894,25,Liên Phương,Tổ dân phố Liên Phương,tổ dân phố,lien_phuong,6,2026_07,unverified,2026-07-01
 07894.007,07894,25,Minh Phương,Tổ dân phố Minh Phương,tổ dân phố,minh_phuong,7,2026_07,unverified,2026-07-01
-07894.008,07894,25,Ngọai Thụy Vân,Tổ dân phố Ngọai Thụy Vân,tổ dân phố,ngoai_thuy_van,8,2026_07,unverified,2026-07-01
+07894.008,07894,25,Ngoại Thụy Vân,Tổ dân phố Ngoại Thụy Vân,tổ dân phố,ngoai_thuy_van,8,2026_07,unverified,2026-07-01
 07894.009,07894,25,Nguyễn Du,Tổ dân phố Nguyễn Du,tổ dân phố,nguyen_du,9,2026_07,unverified,2026-07-01
 07894.010,07894,25,Nguyễn Tất Thành,Tổ dân phố Nguyễn Tất Thành,tổ dân phố,nguyen_tat_thanh,10,2026_07,unverified,2026-07-01
 07894.011,07894,25,Nguyệt Cư,Tổ dân phố Nguyệt Cư,tổ dân phố,nguyet_cu,11,2026_07,unverified,2026-07-01
@@ -2545,11 +2582,11 @@ tdp_code,ward_code,province_code,name,full_name,unit_type,code_name,seq,arrangem
 07900.008,07900,25,Hương Trầm,Tổ dân phố Hương Trầm,tổ dân phố,huong_tram,8,2026_07,unverified,2026-07-01
 07900.009,07900,25,Kim Quất Hạ,Tổ dân phố Kim Quất Hạ,tổ dân phố,kim_quat_ha,9,2026_07,unverified,2026-07-01
 07900.010,07900,25,Lăng Cẩm,Tổ dân phố Lăng Cẩm,tổ dân phố,lang_cam,10,2026_07,unverified,2026-07-01
-07900.011,07900,25,Lê Qúy Đôn,Tổ dân phố Lê Qúy Đôn,tổ dân phố,le_quy_don,11,2026_07,unverified,2026-07-01
+07900.011,07900,25,Lê Quý Đôn,Tổ dân phố Lê Quý Đôn,tổ dân phố,le_quy_don,11,2026_07,unverified,2026-07-01
 07900.012,07900,25,Minh Bột,Tổ dân phố Minh Bột,tổ dân phố,minh_bot,12,2026_07,unverified,2026-07-01
 07900.013,07900,25,Minh Nông,Tổ dân phố Minh Nông,tổ dân phố,minh_nong,13,2026_07,unverified,2026-07-01
 07900.014,07900,25,Minh Tân,Tổ dân phố Minh Tân,tổ dân phố,minh_tan,14,2026_07,unverified,2026-07-01
-07900.015,07900,25,Ngọai Lâu Thượng,Tổ dân phố Ngọai Lâu Thượng,tổ dân phố,ngoai_lau_thuong,15,2026_07,unverified,2026-07-01
+07900.015,07900,25,Ngoại Lâu Thượng,Tổ dân phố Ngoại Lâu Thượng,tổ dân phố,ngoai_lau_thuong,15,2026_07,unverified,2026-07-01
 07900.016,07900,25,Nguyễn Thái Học,Tổ dân phố Nguyễn Thái Học,tổ dân phố,nguyen_thai_hoc,16,2026_07,unverified,2026-07-01
 07900.017,07900,25,Nội Lâu Thượng,Tổ dân phố Nội Lâu Thượng,tổ dân phố,noi_lau_thuong,17,2026_07,unverified,2026-07-01
 07900.018,07900,25,Phan Chu Trinh,Tổ dân phố Phan Chu Trinh,tổ dân phố,phan_chu_trinh,18,2026_07,unverified,2026-07-01
@@ -2570,7 +2607,7 @@ tdp_code,ward_code,province_code,name,full_name,unit_type,code_name,seq,arrangem
 07909.004,07909,25,Bến Gót,Tổ dân phố Bến Gót,tổ dân phố,ben_got,4,2026_07,unverified,2026-07-01
 07909.005,07909,25,Chàng Đông,Tổ dân phố Chàng Đông,tổ dân phố,chang_dong,5,2026_07,unverified,2026-07-01
 07909.006,07909,25,Chàng Nam,Tổ dân phố Chàng Nam,tổ dân phố,chang_nam,6,2026_07,unverified,2026-07-01
-07909.007,07909,25,Đòan Kết,Tổ dân phố Đòan Kết,tổ dân phố,doan_ket,7,2026_07,unverified,2026-07-01
+07909.007,07909,25,Đoàn Kết,Tổ dân phố Đoàn Kết,tổ dân phố,doan_ket,7,2026_07,unverified,2026-07-01
 07909.008,07909,25,Đồi Cam,Tổ dân phố Đồi Cam,tổ dân phố,doi_cam,8,2026_07,unverified,2026-07-01
 07909.009,07909,25,Đồng Lực,Tổ dân phố Đồng Lực,tổ dân phố,dong_luc,9,2026_07,unverified,2026-07-01
 07909.010,07909,25,Đồng Tâm,Tổ dân phố Đồng Tâm,tổ dân phố,dong_tam,10,2026_07,unverified,2026-07-01
@@ -2606,7 +2643,7 @@ tdp_code,ward_code,province_code,name,full_name,unit_type,code_name,seq,arrangem
 07918.001,07918,25,An Thái,Tổ dân phố An Thái,tổ dân phố,an_thai,1,2026_07,unverified,2026-07-01
 07918.002,07918,25,Ba Nhất,Tổ dân phố Ba Nhất,tổ dân phố,ba_nhat,2,2026_07,unverified,2026-07-01
 07918.003,07918,25,Chiến Thắng,Tổ dân phố Chiến Thắng,tổ dân phố,chien_thang,3,2026_07,unverified,2026-07-01
-07918.004,07918,25,Đòan Kết,Tổ dân phố Đòan Kết,tổ dân phố,doan_ket,4,2026_07,unverified,2026-07-01
+07918.004,07918,25,Đoàn Kết,Tổ dân phố Đoàn Kết,tổ dân phố,doan_ket,4,2026_07,unverified,2026-07-01
 07918.005,07918,25,Hợp Nhất,Tổ dân phố Hợp Nhất,tổ dân phố,hop_nhat,5,2026_07,unverified,2026-07-01
 07918.006,07918,25,Hùng Lô,Tổ dân phố Hùng Lô,tổ dân phố,hung_lo,6,2026_07,unverified,2026-07-01
 07918.007,07918,25,Kim Chung,Tổ dân phố Kim Chung,tổ dân phố,kim_chung,7,2026_07,unverified,2026-07-01
@@ -2661,7 +2698,7 @@ tdp_code,ward_code,province_code,name,full_name,unit_type,code_name,seq,arrangem
 07969.002,07969,25,Đại Hộ,Khu Đại Hộ,khu,dai_ho,2,truoc_2026_07,unverified,
 07969.003,07969,25,Đại Hội,Khu Đại Hội,khu,dai_hoi,3,truoc_2026_07,unverified,
 07969.004,07969,25,Đầu Lô,Khu Đầu Lô,khu,dau_lo,4,truoc_2026_07,unverified,
-07969.005,07969,25,Đòan Kết,Khu Đòan Kết,khu,doan_ket,5,truoc_2026_07,unverified,
+07969.005,07969,25,Đoàn Kết,Khu Đoàn Kết,khu,doan_ket,5,truoc_2026_07,unverified,
 07969.006,07969,25,Đồng Tâm,Khu Đồng Tâm,khu,dong_tam,6,truoc_2026_07,unverified,
 07969.007,07969,25,Đồng Thịnh,Khu Đồng Thịnh,khu,dong_thinh,7,truoc_2026_07,unverified,
 07969.008,07969,25,Hố Xanh,Khu Hố Xanh,khu,ho_xanh,8,truoc_2026_07,unverified,
@@ -2685,28 +2722,13 @@ tdp_code,ward_code,province_code,name,full_name,unit_type,code_name,seq,arrangem
 07969.026,07969,25,Vân Cương 1,Khu Vân Cương 1,khu,van_cuong_1,26,truoc_2026_07,unverified,
 07969.027,07969,25,Vân Cương 2,Khu Vân Cương 2,khu,van_cuong_2,27,truoc_2026_07,unverified,
 07969.028,07969,25,Vân Tập,Khu Vân Tập,khu,van_tap,28,truoc_2026_07,unverified,
-07996.001,07996,25,1,Khu 1,khu,1,1,truoc_2026_07,unverified,
-07996.002,07996,25,2,Khu 2,khu,2,2,truoc_2026_07,unverified,
-07996.003,07996,25,3,Khu 3,khu,3,3,truoc_2026_07,unverified,
-07996.004,07996,25,4,Khu 4,khu,4,4,truoc_2026_07,unverified,
-07996.005,07996,25,5,Khu 5,khu,5,5,truoc_2026_07,unverified,
-07996.006,07996,25,6 (xã Bằng Dõan cũ),Khu 6 (xã Bằng Dõan cũ),khu,6_xa_bang_doan_cu,6,truoc_2026_07,unverified,
-07996.007,07996,25,6,Khu 6,khu,6,7,truoc_2026_07,unverified,
-07996.008,07996,25,7,Khu 7,khu,7,8,truoc_2026_07,unverified,
-07996.009,07996,25,8,Khu 8,khu,8,9,truoc_2026_07,unverified,
-07996.010,07996,25,9,Khu 9,khu,9,10,truoc_2026_07,unverified,
-07996.011,07996,25,10,Khu 10,khu,10,11,truoc_2026_07,unverified,
-07996.012,07996,25,11,Khu 11,khu,11,12,truoc_2026_07,unverified,
-07996.013,07996,25,12 (xã Bằng Luân cũ),Khu 12 (xã Bằng Luân cũ),khu,12_xa_bang_luan_cu,13,truoc_2026_07,unverified,
-07996.014,07996,25,8 (xã Minh Lương cũ),Khu 8 (xã Minh Lương cũ),khu,8_xa_minh_luong_cu,14,truoc_2026_07,unverified,
-07996.015,07996,25,5 (xã Phúc Lai cũ),Khu 5 (xã Phúc Lai cũ),khu,5_xa_phuc_lai_cu,15,truoc_2026_07,unverified,
 07999.001,07999,25,Ánh Hồng,Khu Ánh Hồng,khu,anh_hong,1,truoc_2026_07,unverified,
 07999.002,07999,25,Bình Minh,Khu Bình Minh,khu,binh_minh,2,truoc_2026_07,unverified,
 07999.003,07999,25,Cáo Sóc,Khu Cáo Sóc,khu,cao_soc,3,truoc_2026_07,unverified,
 07999.004,07999,25,Chí,Khu Chí,khu,chi,4,truoc_2026_07,unverified,
 07999.005,07999,25,Đám 1,Khu Đám 1,khu,dam_1,5,truoc_2026_07,unverified,
 07999.006,07999,25,Đám 2,Khu Đám 2,khu,dam_2,6,truoc_2026_07,unverified,
-07999.007,07999,25,Đòan Kết,Khu Đòan Kết,khu,doan_ket,7,truoc_2026_07,unverified,
+07999.007,07999,25,Đoàn Kết,Khu Đoàn Kết,khu,doan_ket,7,truoc_2026_07,unverified,
 07999.008,07999,25,Đông Dương,Khu Đông Dương,khu,dong_duong,8,truoc_2026_07,unverified,
 07999.009,07999,25,Đông Tiến,Khu Đông Tiến,khu,dong_tien,9,truoc_2026_07,unverified,
 07999.010,07999,25,Đông Tiệm,Khu Đông Tiệm,khu,dong_tiem,10,truoc_2026_07,unverified,
@@ -2714,8 +2736,8 @@ tdp_code,ward_code,province_code,name,full_name,unit_type,code_name,seq,arrangem
 07999.012,07999,25,Gò Măng,Khu Gò Măng,khu,go_mang,12,truoc_2026_07,unverified,
 07999.013,07999,25,Hồng Minh,Khu Hồng Minh,khu,hong_minh,13,truoc_2026_07,unverified,
 07999.014,07999,25,Hùng Quan,Khu Hùng Quan,khu,hung_quan,14,truoc_2026_07,unverified,
-07999.015,07999,25,Lã Hòang 1,Khu Lã Hòang 1,khu,la_hoang_1,15,truoc_2026_07,unverified,
-07999.016,07999,25,Lã Hòang 2,Khu Lã Hòang 2,khu,la_hoang_2,16,truoc_2026_07,unverified,
+07999.015,07999,25,Lã Hoàng 1,Khu Lã Hoàng 1,khu,la_hoang_1,15,truoc_2026_07,unverified,
+07999.016,07999,25,Lã Hoàng 2,Khu Lã Hoàng 2,khu,la_hoang_2,16,truoc_2026_07,unverified,
 07999.017,07999,25,Lạp Xuyên,Khu Lạp Xuyên,khu,lap_xuyen,17,truoc_2026_07,unverified,
 07999.018,07999,25,Liên Phú,Khu Liên Phú,khu,lien_phu,18,truoc_2026_07,unverified,
 07999.019,07999,25,Minh Giang,Khu Minh Giang,khu,minh_giang,19,truoc_2026_07,unverified,
@@ -2746,7 +2768,7 @@ tdp_code,ward_code,province_code,name,full_name,unit_type,code_name,seq,arrangem
 08023.005,08023,25,Cẩn Độ,Khu Cẩn Độ,khu,can_do,5,truoc_2026_07,unverified,
 08023.006,08023,25,Chợ Ngà,Khu Chợ Ngà,khu,cho_nga,6,truoc_2026_07,unverified,
 08023.007,08023,25,Duỗn Trung,Khu Duỗn Trung,khu,duon_trung,7,truoc_2026_07,unverified,
-08023.008,08023,25,Đòan Kết,Khu Đòan Kết,khu,doan_ket,8,truoc_2026_07,unverified,
+08023.008,08023,25,Đoàn Kết,Khu Đoàn Kết,khu,doan_ket,8,truoc_2026_07,unverified,
 08023.009,08023,25,Hợp Lai,Khu Hợp Lai,khu,hop_lai,9,truoc_2026_07,unverified,
 08023.010,08023,25,Hùng Phú,Khu Hùng Phú,khu,hung_phu,10,truoc_2026_07,unverified,
 08023.011,08023,25,Phố,Khu Phố,khu,pho,11,truoc_2026_07,unverified,
@@ -2863,43 +2885,6 @@ tdp_code,ward_code,province_code,name,full_name,unit_type,code_name,seq,arrangem
 08053.026,08053,25,2 - Minh Hạc,Khu 2 - Minh Hạc,khu,2_minh_hac,26,truoc_2026_07,unverified,
 08053.027,08053,25,3 Minh Hạc,Khu 3 Minh Hạc,khu,3_minh_hac,27,truoc_2026_07,unverified,
 08053.028,08053,25,4 - Minh Hạc,Khu 4 - Minh Hạc,khu,4_minh_hac,28,truoc_2026_07,unverified,
-08071.001,08071,25,1,Khu 1,khu,1,1,truoc_2026_07,unverified,
-08071.002,08071,25,2,Khu 2,khu,2,2,truoc_2026_07,unverified,
-08071.003,08071,25,3,Khu 3,khu,3,3,truoc_2026_07,unverified,
-08071.004,08071,25,4,Khu 4,khu,4,4,truoc_2026_07,unverified,
-08071.005,08071,25,5,Khu 5,khu,5,5,truoc_2026_07,unverified,
-08071.006,08071,25,6,Khu 6,khu,6,6,truoc_2026_07,unverified,
-08071.007,08071,25,7,Khu 7,khu,7,7,truoc_2026_07,unverified,
-08071.008,08071,25,8,Khu 8,khu,8,8,truoc_2026_07,unverified,
-08071.009,08071,25,9,Khu 9,khu,9,9,truoc_2026_07,unverified,
-08071.010,08071,25,10,Khu 10,khu,10,10,truoc_2026_07,unverified,
-08071.011,08071,25,11,Khu 11,khu,11,11,truoc_2026_07,unverified,
-08071.012,08071,25,12,Khu 12,khu,12,12,truoc_2026_07,unverified,
-08071.013,08071,25,13 (xã Đan Thượng cũ),Khu 13 (xã Đan Thượng cũ),khu,13_xa_dan_thuong_cu,13,truoc_2026_07,unverified,
-08071.014,08071,25,8 (xã Đại Phạm cũ),Khu 8 (xã Đại Phạm cũ),khu,8_xa_dai_pham_cu,14,truoc_2026_07,unverified,
-08071.015,08071,25,6 (xã Hà Lương cũ),Khu 6 (xã Hà Lương cũ),khu,6_xa_ha_luong_cu,15,truoc_2026_07,unverified,
-08071.016,08071,25,13,Khu 13,khu,13,16,truoc_2026_07,unverified,
-08071.017,08071,25,14 (xã Tứ Hiệp cũ),Khu 14 (xã Tứ Hiệp cũ),khu,14_xa_tu_hiep_cu,17,truoc_2026_07,unverified,
-08110.001,08110,25,1,Khu 1,khu,1,1,truoc_2026_07,unverified,
-08110.002,08110,25,2,Khu 2,khu,2,2,truoc_2026_07,unverified,
-08110.003,08110,25,3,Khu 3,khu,3,3,truoc_2026_07,unverified,
-08110.004,08110,25,4,Khu 4,khu,4,4,truoc_2026_07,unverified,
-08110.005,08110,25,5,Khu 5,khu,5,5,truoc_2026_07,unverified,
-08110.006,08110,25,6,Khu 6,khu,6,6,truoc_2026_07,unverified,
-08110.007,08110,25,7,Khu 7,khu,7,7,truoc_2026_07,unverified,
-08110.008,08110,25,8,Khu 8,khu,8,8,truoc_2026_07,unverified,
-08110.009,08110,25,9,Khu 9,khu,9,9,truoc_2026_07,unverified,
-08110.010,08110,25,11,Khu 11,khu,11,10,truoc_2026_07,unverified,
-08110.011,08110,25,12,Khu 12,khu,12,11,truoc_2026_07,unverified,
-08110.012,08110,25,13,Khu 13,khu,13,12,truoc_2026_07,unverified,
-08110.013,08110,25,14 (xã Hiền Lương cũ),Khu 14 (xã Hiền Lương cũ),khu,14_xa_hien_luong_cu,13,truoc_2026_07,unverified,
-08110.014,08110,25,10,Khu 10,khu,10,14,truoc_2026_07,unverified,
-08110.015,08110,25,14,Khu 14,khu,14,15,truoc_2026_07,unverified,
-08110.016,08110,25,15,Khu 15,khu,15,16,truoc_2026_07,unverified,
-08110.017,08110,25,16,Khu 16,khu,16,17,truoc_2026_07,unverified,
-08110.018,08110,25,17,Khu 17,khu,17,18,truoc_2026_07,unverified,
-08110.019,08110,25,18,Khu 18,khu,18,19,truoc_2026_07,unverified,
-08110.020,08110,25,19 (xã Xuân Áng cũ),Khu 19 (xã Xuân Áng cũ),khu,19_xa_xuan_ang_cu,20,truoc_2026_07,unverified,
 08113.001,08113,25,1 Hương Xạ,Khu 1 Hương Xạ,khu,1_huong_xa,1,truoc_2026_07,unverified,
 08113.002,08113,25,2 Hương Xạ,Khu 2 Hương Xạ,khu,2_huong_xa,2,truoc_2026_07,unverified,
 08113.003,08113,25,3 Hương Xạ,Khu 3 Hương Xạ,khu,3_huong_xa,3,truoc_2026_07,unverified,
@@ -2927,19 +2912,6 @@ tdp_code,ward_code,province_code,name,full_name,unit_type,code_name,seq,arrangem
 08113.025,08113,25,12 Yên Kỳ,Khu 12 Yên Kỳ,khu,12_yen_ky,25,truoc_2026_07,unverified,
 08113.026,08113,25,13 Yên Kỳ,Khu 13 Yên Kỳ,khu,13_yen_ky,26,truoc_2026_07,unverified,
 08113.027,08113,25,14 Yên Kỳ,Khu 14 Yên Kỳ,khu,14_yen_ky,27,truoc_2026_07,unverified,
-08134.001,08134,25,1,Khu 1,khu,1,1,truoc_2026_07,unverified,
-08134.002,08134,25,2,Khu 2,khu,2,2,truoc_2026_07,unverified,
-08134.003,08134,25,3,Khu 3,khu,3,3,truoc_2026_07,unverified,
-08134.004,08134,25,4,Khu 4,khu,4,4,truoc_2026_07,unverified,
-08134.005,08134,25,5,Khu 5,khu,5,5,truoc_2026_07,unverified,
-08134.006,08134,25,6,Khu 6,khu,6,6,truoc_2026_07,unverified,
-08134.007,08134,25,7,Khu 7,khu,7,7,truoc_2026_07,unverified,
-08134.008,08134,25,8 (xã Bằng Giã cũ),Khu 8 (xã Bằng Giã cũ),khu,8_xa_bang_gia_cu,8,truoc_2026_07,unverified,
-08134.009,08134,25,4 (xã Minh Côi cũ),Khu 4 (xã Minh Côi cũ),khu,4_xa_minh_coi_cu,9,truoc_2026_07,unverified,
-08134.010,08134,25,5 (xã Văn Lang cũ),Khu 5 (xã Văn Lang cũ),khu,5_xa_van_lang_cu,10,truoc_2026_07,unverified,
-08134.011,08134,25,8,Khu 8,khu,8,11,truoc_2026_07,unverified,
-08134.012,08134,25,9,Khu 9,khu,9,12,truoc_2026_07,unverified,
-08134.013,08134,25,10 (xã Vô Tranh cũ),Khu 10 (xã Vô Tranh cũ),khu,10_xa_vo_tranh_cu,13,truoc_2026_07,unverified,
 08143.001,08143,25,Thổ Khối,Làng Thổ Khối,làng,tho_khoi,1,truoc_2026_07,unverified,
 08143.002,08143,25,Vù,Làng Vù,làng,vu,2,truoc_2026_07,unverified,
 08152.001,08152,25,1 Đồng Xuân,Khu 1 Đồng Xuân,khu,1_dong_xuan,1,truoc_2026_07,unverified,
@@ -3012,7 +2984,7 @@ tdp_code,ward_code,province_code,name,full_name,unit_type,code_name,seq,arrangem
 08173.019,08173,25,Chò Làng Não,Khu Chò Làng Não,khu,cho_lang_nao,19,truoc_2026_07,unverified,
 08173.020,08173,25,Đầm Giang,Khu Đầm Giang,khu,dam_giang,20,truoc_2026_07,unverified,
 08173.021,08173,25,Đỉnh Đồng,Khu Đỉnh Đồng,khu,dinh_dong,21,truoc_2026_07,unverified,
-08173.022,08173,25,Đòan Kết,Khu Đòan Kết,khu,doan_ket,22,truoc_2026_07,unverified,
+08173.022,08173,25,Đoàn Kết,Khu Đoàn Kết,khu,doan_ket,22,truoc_2026_07,unverified,
 08173.023,08173,25,Đồng Bờ,Khu Đồng Bờ,khu,dong_bo,23,truoc_2026_07,unverified,
 08173.024,08173,25,Đồng Thọ,Khu Đồng Thọ,khu,dong_tho,24,truoc_2026_07,unverified,
 08173.025,08173,25,Gò Bằng,Khu Gò Bằng,khu,go_bang,25,truoc_2026_07,unverified,
@@ -3022,21 +2994,21 @@ tdp_code,ward_code,province_code,name,full_name,unit_type,code_name,seq,arrangem
 08173.029,08173,25,Minh Tân,Khu Minh Tân,khu,minh_tan,29,truoc_2026_07,unverified,
 08173.030,08173,25,Quảng Di,Khu Quảng Di,khu,quang_di,30,truoc_2026_07,unverified,
 08173.031,08173,25,Chợ,Khu Chợ,khu,cho,31,truoc_2026_07,unverified,
-08203.001,08203,25,1 Hòang Cương,Khu 1 Hòang Cương,khu,1_hoang_cuong,1,truoc_2026_07,unverified,
-08203.002,08203,25,2 Hòang Cương,Khu 2 Hòang Cương,khu,2_hoang_cuong,2,truoc_2026_07,unverified,
-08203.003,08203,25,3 Hòang Cương,Khu 3 Hòang Cương,khu,3_hoang_cuong,3,truoc_2026_07,unverified,
-08203.004,08203,25,4 Hòang Cương,Khu 4 Hòang Cương,khu,4_hoang_cuong,4,truoc_2026_07,unverified,
-08203.005,08203,25,5 Hòang Cương,Khu 5 Hòang Cương,khu,5_hoang_cuong,5,truoc_2026_07,unverified,
-08203.006,08203,25,6 Hòang Cương,Khu 6 Hòang Cương,khu,6_hoang_cuong,6,truoc_2026_07,unverified,
-08203.007,08203,25,7 Hòang Cương,Khu 7 Hòang Cương,khu,7_hoang_cuong,7,truoc_2026_07,unverified,
-08203.008,08203,25,8 Hòang Cương,Khu 8 Hòang Cương,khu,8_hoang_cuong,8,truoc_2026_07,unverified,
-08203.009,08203,25,9 Hòang Cương,Khu 9 Hòang Cương,khu,9_hoang_cuong,9,truoc_2026_07,unverified,
-08203.010,08203,25,10 Hòang Cương,Khu 10 Hòang Cương,khu,10_hoang_cuong,10,truoc_2026_07,unverified,
-08203.011,08203,25,11 Hòang Cương,Khu 11 Hòang Cương,khu,11_hoang_cuong,11,truoc_2026_07,unverified,
-08203.012,08203,25,12 Hòang Cương,Khu 12 Hòang Cương,khu,12_hoang_cuong,12,truoc_2026_07,unverified,
-08203.013,08203,25,13 Hòang Cương,Khu 13 Hòang Cương,khu,13_hoang_cuong,13,truoc_2026_07,unverified,
-08203.014,08203,25,14 Hòang Cương,Khu 14 Hòang Cương,khu,14_hoang_cuong,14,truoc_2026_07,unverified,
-08203.015,08203,25,15 Hòang Cương,Khu 15 Hòang Cương,khu,15_hoang_cuong,15,truoc_2026_07,unverified,
+08203.001,08203,25,1 Hoàng Cương,Khu 1 Hoàng Cương,khu,1_hoang_cuong,1,truoc_2026_07,unverified,
+08203.002,08203,25,2 Hoàng Cương,Khu 2 Hoàng Cương,khu,2_hoang_cuong,2,truoc_2026_07,unverified,
+08203.003,08203,25,3 Hoàng Cương,Khu 3 Hoàng Cương,khu,3_hoang_cuong,3,truoc_2026_07,unverified,
+08203.004,08203,25,4 Hoàng Cương,Khu 4 Hoàng Cương,khu,4_hoang_cuong,4,truoc_2026_07,unverified,
+08203.005,08203,25,5 Hoàng Cương,Khu 5 Hoàng Cương,khu,5_hoang_cuong,5,truoc_2026_07,unverified,
+08203.006,08203,25,6 Hoàng Cương,Khu 6 Hoàng Cương,khu,6_hoang_cuong,6,truoc_2026_07,unverified,
+08203.007,08203,25,7 Hoàng Cương,Khu 7 Hoàng Cương,khu,7_hoang_cuong,7,truoc_2026_07,unverified,
+08203.008,08203,25,8 Hoàng Cương,Khu 8 Hoàng Cương,khu,8_hoang_cuong,8,truoc_2026_07,unverified,
+08203.009,08203,25,9 Hoàng Cương,Khu 9 Hoàng Cương,khu,9_hoang_cuong,9,truoc_2026_07,unverified,
+08203.010,08203,25,10 Hoàng Cương,Khu 10 Hoàng Cương,khu,10_hoang_cuong,10,truoc_2026_07,unverified,
+08203.011,08203,25,11 Hoàng Cương,Khu 11 Hoàng Cương,khu,11_hoang_cuong,11,truoc_2026_07,unverified,
+08203.012,08203,25,12 Hoàng Cương,Khu 12 Hoàng Cương,khu,12_hoang_cuong,12,truoc_2026_07,unverified,
+08203.013,08203,25,13 Hoàng Cương,Khu 13 Hoàng Cương,khu,13_hoang_cuong,13,truoc_2026_07,unverified,
+08203.014,08203,25,14 Hoàng Cương,Khu 14 Hoàng Cương,khu,14_hoang_cuong,14,truoc_2026_07,unverified,
+08203.015,08203,25,15 Hoàng Cương,Khu 15 Hoàng Cương,khu,15_hoang_cuong,15,truoc_2026_07,unverified,
 08203.016,08203,25,1 Ninh Dân,Khu 1 Ninh Dân,khu,1_ninh_dan,16,truoc_2026_07,unverified,
 08203.017,08203,25,2 Ninh Dân,Khu 2 Ninh Dân,khu,2_ninh_dan,17,truoc_2026_07,unverified,
 08203.018,08203,25,3 Ninh Dân,Khu 3 Ninh Dân,khu,3_ninh_dan,18,truoc_2026_07,unverified,
@@ -3052,8 +3024,8 @@ tdp_code,ward_code,province_code,name,full_name,unit_type,code_name,seq,arrangem
 08203.028,08203,25,An Ninh 1,Khu An Ninh 1,khu,an_ninh_1,28,truoc_2026_07,unverified,
 08203.029,08203,25,An Ninh 2,Khu An Ninh 2,khu,an_ninh_2,29,truoc_2026_07,unverified,
 08203.030,08203,25,Bắc Sơn,Khu Bắc Sơn,khu,bac_son,30,truoc_2026_07,unverified,
-08203.031,08203,25,Đòan Kết,Khu Đòan Kết,khu,doan_ket,31,truoc_2026_07,unverified,
-08203.032,08203,25,Hòang Xá,Khu Hòang Xá,khu,hoang_xa,32,truoc_2026_07,unverified,
+08203.031,08203,25,Đoàn Kết,Khu Đoàn Kết,khu,doan_ket,31,truoc_2026_07,unverified,
+08203.032,08203,25,Hoàng Xá,Khu Hoàng Xá,khu,hoang_xa,32,truoc_2026_07,unverified,
 08203.033,08203,25,Hồng Phong,Khu Hồng Phong,khu,hong_phong,33,truoc_2026_07,unverified,
 08203.034,08203,25,Liên Hà,Khu Liên Hà,khu,lien_ha,34,truoc_2026_07,unverified,
 08203.035,08203,25,Phố Ẻn,Khu Phố Ẻn,khu,pho_en,35,truoc_2026_07,unverified,
@@ -3170,35 +3142,6 @@ tdp_code,ward_code,province_code,name,full_name,unit_type,code_name,seq,arrangem
 08236.010,08236,25,10,Thôn 10,thôn,10,10,2026_07,partial,2026-07-01
 08236.011,08236,25,11,Thôn 11,thôn,11,11,2026_07,partial,2026-07-01
 08236.012,08236,25,12,Thôn 12,thôn,12,12,2026_07,partial,2026-07-01
-08245.001,08245,25,1,Khu 1,khu,1,1,truoc_2026_07,unverified,
-08245.002,08245,25,2,Khu 2,khu,2,2,truoc_2026_07,unverified,
-08245.003,08245,25,3,Khu 3,khu,3,3,truoc_2026_07,unverified,
-08245.004,08245,25,4,Khu 4,khu,4,4,truoc_2026_07,unverified,
-08245.005,08245,25,6,Khu 6,khu,6,5,truoc_2026_07,unverified,
-08245.006,08245,25,8,Khu 8,khu,8,6,truoc_2026_07,unverified,
-08245.007,08245,25,9,Khu 9,khu,9,7,truoc_2026_07,unverified,
-08245.008,08245,25,10,Khu 10,khu,10,8,truoc_2026_07,unverified,
-08245.009,08245,25,11,Khu 11,khu,11,9,truoc_2026_07,unverified,
-08245.010,08245,25,12,Khu 12,khu,12,10,truoc_2026_07,unverified,
-08245.011,08245,25,14,Khu 14,khu,14,11,truoc_2026_07,unverified,
-08245.012,08245,25,15 (xã Tiên Phú cũ),Khu 15 (xã Tiên Phú cũ),khu,15_xa_tien_phu_cu,12,truoc_2026_07,unverified,
-08245.013,08245,25,5,Khu 5,khu,5,13,truoc_2026_07,unverified,
-08245.014,08245,25,7,Khu 7,khu,7,14,truoc_2026_07,unverified,
-08245.015,08245,25,8 (xã Trạm Thản cũ),Khu 8 (xã Trạm Thản cũ),khu,8_xa_tram_than_cu,15,truoc_2026_07,unverified,
-08245.016,08245,25,8 (xã Trung Giáp cũ),Khu 8 (xã Trung Giáp cũ),khu,8_xa_trung_giap_cu,16,truoc_2026_07,unverified,
-08254.001,08254,25,1,Khu 1,khu,1,1,truoc_2026_07,unverified,
-08254.002,08254,25,2,Khu 2,khu,2,2,truoc_2026_07,unverified,
-08254.003,08254,25,3,Khu 3,khu,3,3,truoc_2026_07,unverified,
-08254.004,08254,25,4,Khu 4,khu,4,4,truoc_2026_07,unverified,
-08254.005,08254,25,5,Khu 5,khu,5,5,truoc_2026_07,unverified,
-08254.006,08254,25,6,Khu 6,khu,6,6,truoc_2026_07,unverified,
-08254.007,08254,25,7,Khu 7,khu,7,7,truoc_2026_07,unverified,
-08254.008,08254,25,8 (xã Bảo Thanh cũ),Khu 8 (xã Bảo Thanh cũ),khu,8_xa_bao_thanh_cu,8,truoc_2026_07,unverified,
-08254.009,08254,25,8 (xã Gia Thanh cũ),Khu 8 (xã Gia Thanh cũ),khu,8_xa_gia_thanh_cu,9,truoc_2026_07,unverified,
-08254.010,08254,25,8,Khu 8,khu,8,10,truoc_2026_07,unverified,
-08254.011,08254,25,9 (xã Hạ Giáp cũ),Khu 9 (xã Hạ Giáp cũ),khu,9_xa_ha_giap_cu,11,truoc_2026_07,unverified,
-08254.012,08254,25,9,Khu 9,khu,9,12,truoc_2026_07,unverified,
-08254.013,08254,25,10 (xã Trị Quận cũ),Khu 10 (xã Trị Quận cũ),khu,10_xa_tri_quan_cu,13,truoc_2026_07,unverified,
 08275.001,08275,25,Bình Bộ,Thôn Bình Bộ,thôn,binh_bo,1,truoc_2026_07,unverified,
 08275.002,08275,25,Bình Minh,Thôn Bình Minh,thôn,binh_minh,2,truoc_2026_07,unverified,
 08275.003,08275,25,Chung Dầu,Thôn Chung Dầu,thôn,chung_dau,3,truoc_2026_07,unverified,
@@ -3209,7 +3152,7 @@ tdp_code,ward_code,province_code,name,full_name,unit_type,code_name,seq,arrangem
 08275.008,08275,25,Ngọc,Thôn Ngọc,thôn,ngoc,8,truoc_2026_07,unverified,
 08275.009,08275,25,Quyết Tiến,Thôn Quyết Tiến,thôn,quyet_tien,9,truoc_2026_07,unverified,
 08275.010,08275,25,Răm,Thôn Răm,thôn,ram,10,truoc_2026_07,unverified,
-08275.011,08275,25,Tranh Ngòai,Thôn Tranh Ngòai,thôn,tranh_ngoai,11,truoc_2026_07,unverified,
+08275.011,08275,25,Tranh Ngoài,Thôn Tranh Ngoài,thôn,tranh_ngoai,11,truoc_2026_07,unverified,
 08275.012,08275,25,Tranh Trong,Thôn Tranh Trong,thôn,tranh_trong,12,truoc_2026_07,unverified,
 08275.013,08275,25,Cầu,Thôn Cầu,thôn,cau,13,truoc_2026_07,unverified,
 08290.001,08290,25,An Lạc,Khu An Lạc,khu,an_lac,1,truoc_2026_07,unverified,
@@ -3220,7 +3163,7 @@ tdp_code,ward_code,province_code,name,full_name,unit_type,code_name,seq,arrangem
 08290.006,08290,25,Dân Tiến,Khu Dân Tiến,khu,dan_tien,6,truoc_2026_07,unverified,
 08290.007,08290,25,Đình,Khu Đình,khu,dinh,7,truoc_2026_07,unverified,
 08290.008,08290,25,Đình Cả,Khu Đình Cả,khu,dinh_ca,8,truoc_2026_07,unverified,
-08290.009,08290,25,Đòan Kết,Khu Đòan Kết,khu,doan_ket,9,truoc_2026_07,unverified,
+08290.009,08290,25,Đoàn Kết,Khu Đoàn Kết,khu,doan_ket,9,truoc_2026_07,unverified,
 08290.010,08290,25,Đồng Bành,Khu Đồng Bành,khu,dong_banh,10,truoc_2026_07,unverified,
 08290.011,08290,25,Đồng Cạn,Khu Đồng Cạn,khu,dong_can,11,truoc_2026_07,unverified,
 08290.012,08290,25,Đồng Chung,Khu Đồng Chung,khu,dong_chung,12,truoc_2026_07,unverified,
@@ -3256,7 +3199,7 @@ tdp_code,ward_code,province_code,name,full_name,unit_type,code_name,seq,arrangem
 08296.002,08296,25,Đá Trắng,Khu Đá Trắng,khu,da_trang,2,truoc_2026_07,unverified,
 08296.003,08296,25,Đại Phú,Khu Đại Phú,khu,dai_phu,3,truoc_2026_07,unverified,
 08296.004,08296,25,Đình A,Khu Đình A,khu,dinh_a,4,truoc_2026_07,unverified,
-08296.005,08296,25,Đòan Kết,Khu Đòan Kết,khu,doan_ket,5,truoc_2026_07,unverified,
+08296.005,08296,25,Đoàn Kết,Khu Đoàn Kết,khu,doan_ket,5,truoc_2026_07,unverified,
 08296.006,08296,25,Đồng An,Khu Đồng An,khu,dong_an,6,truoc_2026_07,unverified,
 08296.007,08296,25,Đồng Ve,Khu Đồng Ve,khu,dong_ve,7,truoc_2026_07,unverified,
 08296.008,08296,25,Hưng Thịnh,Khu Hưng Thịnh,khu,hung_thinh,8,truoc_2026_07,unverified,
@@ -3414,7 +3357,7 @@ tdp_code,ward_code,province_code,name,full_name,unit_type,code_name,seq,arrangem
 08344.042,08344,25,Gò,Khu Gò,khu,go,42,truoc_2026_07,unverified,
 08344.043,08344,25,Làng,Khu Làng,khu,lang,43,truoc_2026_07,unverified,
 08344.044,08344,25,Mới,Khu Mới,khu,moi,44,truoc_2026_07,unverified,
-08344.045,08344,25,Ngòai,Khu Ngòai,khu,ngoai,45,truoc_2026_07,unverified,
+08344.045,08344,25,Ngoài,Khu Ngoài,khu,ngoai,45,truoc_2026_07,unverified,
 08344.046,08344,25,Thịnh,Khu Thịnh,khu,thinh,46,truoc_2026_07,unverified,
 08344.047,08344,25,Thượng,Khu Thượng,khu,thuong,47,truoc_2026_07,unverified,
 08344.048,08344,25,Tri,Khu Tri,khu,tri,48,truoc_2026_07,unverified,
@@ -3429,7 +3372,7 @@ tdp_code,ward_code,province_code,name,full_name,unit_type,code_name,seq,arrangem
 08377.006,08377,25,Đình Bàng,Khu Đình Bàng,khu,dinh_bang,6,truoc_2026_07,unverified,
 08377.007,08377,25,Đình Cả,Khu Đình Cả,khu,dinh_ca,7,truoc_2026_07,unverified,
 08377.008,08377,25,Đình Tân,Khu Đình Tân,khu,dinh_tan,8,truoc_2026_07,unverified,
-08377.009,08377,25,Đòan Kết,Khu Đòan Kết,khu,doan_ket,9,truoc_2026_07,unverified,
+08377.009,08377,25,Đoàn Kết,Khu Đoàn Kết,khu,doan_ket,9,truoc_2026_07,unverified,
 08377.010,08377,25,Đồng Nghè,Khu Đồng Nghè,khu,dong_nghe,10,truoc_2026_07,unverified,
 08377.011,08377,25,Đồng Rào,Khu Đồng Rào,khu,dong_rao,11,truoc_2026_07,unverified,
 08377.012,08377,25,Đung,Khu Đung,khu,dung,12,truoc_2026_07,unverified,
@@ -3450,9 +3393,9 @@ tdp_code,ward_code,province_code,name,full_name,unit_type,code_name,seq,arrangem
 08377.027,08377,25,Chùa,Khu Chùa,khu,chua,27,truoc_2026_07,unverified,
 08398.001,08398,25,An Phú,Khu An Phú,khu,an_phu,1,truoc_2026_07,unverified,
 08398.002,08398,25,Dân Chủ,Khu Dân Chủ,khu,dan_chu,2,truoc_2026_07,unverified,
-08398.003,08398,25,Đòai Ngòai,Khu Đòai Ngòai,khu,doai_ngoai,3,truoc_2026_07,unverified,
-08398.004,08398,25,Đòai Trong,Khu Đòai Trong,khu,doai_trong,4,truoc_2026_07,unverified,
-08398.005,08398,25,Đòan Kết,Khu Đòan Kết,khu,doan_ket,5,truoc_2026_07,unverified,
+08398.003,08398,25,Đoài Ngoài,Khu Đoài Ngoài,khu,doai_ngoai,3,truoc_2026_07,unverified,
+08398.004,08398,25,Đoài Trong,Khu Đoài Trong,khu,doai_trong,4,truoc_2026_07,unverified,
+08398.005,08398,25,Đoàn Kết,Khu Đoàn Kết,khu,doan_ket,5,truoc_2026_07,unverified,
 08398.006,08398,25,Đồng Mười,Khu Đồng Mười,khu,dong_muoi,6,truoc_2026_07,unverified,
 08398.007,08398,25,Đồng Tiến,Khu Đồng Tiến,khu,dong_tien,7,truoc_2026_07,unverified,
 08398.008,08398,25,Giáp Xuân,Khu Giáp Xuân,khu,giap_xuan,8,truoc_2026_07,unverified,
@@ -3553,66 +3496,6 @@ tdp_code,ward_code,province_code,name,full_name,unit_type,code_name,seq,arrangem
 08434.032,08434,25,11 Hương Nộn,Khu 11 Hương Nộn,khu,11_huong_non,32,truoc_2026_07,unverified,
 08434.033,08434,25,12 Hương Nộn,Khu 12 Hương Nộn,khu,12_huong_non,33,truoc_2026_07,unverified,
 08434.034,08434,25,13 Hương Nộn,Khu 13 Hương Nộn,khu,13_huong_non,34,truoc_2026_07,unverified,
-08443.001,08443,25,1,Khu 1,khu,1,1,truoc_2026_07,unverified,
-08443.002,08443,25,2,Khu 2,khu,2,2,truoc_2026_07,unverified,
-08443.003,08443,25,3,Khu 3,khu,3,3,truoc_2026_07,unverified,
-08443.004,08443,25,4,Khu 4,khu,4,4,truoc_2026_07,unverified,
-08443.005,08443,25,5,Khu 5,khu,5,5,truoc_2026_07,unverified,
-08443.006,08443,25,6,Khu 6,khu,6,6,truoc_2026_07,unverified,
-08443.007,08443,25,7,Khu 7,khu,7,7,truoc_2026_07,unverified,
-08443.008,08443,25,8,Khu 8,khu,8,8,truoc_2026_07,unverified,
-08443.009,08443,25,9,Khu 9,khu,9,9,truoc_2026_07,unverified,
-08443.010,08443,25,10,Khu 10,khu,10,10,truoc_2026_07,unverified,
-08443.011,08443,25,11,Khu 11,khu,11,11,truoc_2026_07,unverified,
-08443.012,08443,25,12,Khu 12,khu,12,12,truoc_2026_07,unverified,
-08443.013,08443,25,13,Khu 13,khu,13,13,truoc_2026_07,unverified,
-08443.014,08443,25,14,Khu 14,khu,14,14,truoc_2026_07,unverified,
-08443.015,08443,25,15,Khu 15,khu,15,15,truoc_2026_07,unverified,
-08443.016,08443,25,16,Khu 16,khu,16,16,truoc_2026_07,unverified,
-08443.017,08443,25,17,Khu 17,khu,17,17,truoc_2026_07,unverified,
-08443.018,08443,25,18,Khu 18,khu,18,18,truoc_2026_07,unverified,
-08443.019,08443,25,19,Khu 19,khu,19,19,truoc_2026_07,unverified,
-08443.020,08443,25,20 (xã Bắc Sơn cũ),Khu 20 (xã Bắc Sơn cũ),khu,20_xa_bac_son_cu,20,truoc_2026_07,unverified,
-08443.021,08443,25,14 (xã Hiền Quan cũ),Khu 14 (xã Hiền Quan cũ),khu,14_xa_hien_quan_cu,21,truoc_2026_07,unverified,
-08443.022,08443,25,8 (xã Thanh Uyên cũ),Khu 8 (xã Thanh Uyên cũ),khu,8_xa_thanh_uyen_cu,22,truoc_2026_07,unverified,
-08467.001,08467,25,1,Khu 1,khu,1,1,truoc_2026_07,unverified,
-08467.002,08467,25,2,Khu 2,khu,2,2,truoc_2026_07,unverified,
-08467.003,08467,25,3,Khu 3,khu,3,3,truoc_2026_07,unverified,
-08467.004,08467,25,4,Khu 4,khu,4,4,truoc_2026_07,unverified,
-08467.005,08467,25,5,Khu 5,khu,5,5,truoc_2026_07,unverified,
-08467.006,08467,25,6,Khu 6,khu,6,6,truoc_2026_07,unverified,
-08467.007,08467,25,7,Khu 7,khu,7,7,truoc_2026_07,unverified,
-08467.008,08467,25,8,Khu 8,khu,8,8,truoc_2026_07,unverified,
-08467.009,08467,25,9,Khu 9,khu,9,9,truoc_2026_07,unverified,
-08467.010,08467,25,10,Khu 10,khu,10,10,truoc_2026_07,unverified,
-08467.011,08467,25,11,Khu 11,khu,11,11,truoc_2026_07,unverified,
-08467.012,08467,25,12,Khu 12,khu,12,12,truoc_2026_07,unverified,
-08467.013,08467,25,13,Khu 13,khu,13,13,truoc_2026_07,unverified,
-08467.014,08467,25,14,Khu 14,khu,14,14,truoc_2026_07,unverified,
-08467.015,08467,25,15 (xã Lam Sơn cũ),Khu 15 (xã Lam Sơn cũ),khu,15_xa_lam_son_cu,15,truoc_2026_07,unverified,
-08467.016,08467,25,9 (xã Quang Húc cũ),Khu 9 (xã Quang Húc cũ),khu,9_xa_quang_huc_cu,16,truoc_2026_07,unverified,
-08467.017,08467,25,15,Khu 15,khu,15,17,truoc_2026_07,unverified,
-08467.018,08467,25,16,Khu 16,khu,16,18,truoc_2026_07,unverified,
-08467.019,08467,25,17,Khu 17,khu,17,19,truoc_2026_07,unverified,
-08467.020,08467,25,18,Khu 18,khu,18,20,truoc_2026_07,unverified,
-08467.021,08467,25,19,Khu 19,khu,19,21,truoc_2026_07,unverified,
-08467.022,08467,25,20,Khu 20,khu,20,22,truoc_2026_07,unverified,
-08467.023,08467,25,21,Khu 21,khu,21,23,truoc_2026_07,unverified,
-08467.024,08467,25,22,Khu 22,khu,22,24,truoc_2026_07,unverified,
-08467.025,08467,25,23,Khu 23,khu,23,25,truoc_2026_07,unverified,
-08467.026,08467,25,24 (xã Vạn Xuân cũ),Khu 24 (xã Vạn Xuân cũ),khu,24_xa_van_xuan_cu,26,truoc_2026_07,unverified,
-08479.001,08479,25,1,Khu 1,khu,1,1,truoc_2026_07,unverified,
-08479.002,08479,25,2,Khu 2,khu,2,2,truoc_2026_07,unverified,
-08479.003,08479,25,3,Khu 3,khu,3,3,truoc_2026_07,unverified,
-08479.004,08479,25,4,Khu 4,khu,4,4,truoc_2026_07,unverified,
-08479.005,08479,25,5,Khu 5,khu,5,5,truoc_2026_07,unverified,
-08479.006,08479,25,6,Khu 6,khu,6,6,truoc_2026_07,unverified,
-08479.007,08479,25,7,Khu 7,khu,7,7,truoc_2026_07,unverified,
-08479.008,08479,25,8 (xã Dị Nậu cũ),Khu 8 (xã Dị Nậu cũ),khu,8_xa_di_nau_cu,8,truoc_2026_07,unverified,
-08479.009,08479,25,8,Khu 8,khu,8,9,truoc_2026_07,unverified,
-08479.010,08479,25,9,Khu 9,khu,9,10,truoc_2026_07,unverified,
-08479.011,08479,25,(xã Tề Lễ cũ),Khu (xã Tề Lễ cũ),khu,xa_te_le_cu,11,truoc_2026_07,unverified,
-08479.012,08479,25,9 (xã Thọ Văn cũ),Khu 9 (xã Thọ Văn cũ),khu,9_xa_tho_van_cu,12,truoc_2026_07,unverified,
 08494.001,08494,25,Lâm Nghĩa,Khu Lâm Nghĩa,khu,lam_nghia,1,truoc_2026_07,unverified,
 08494.002,08494,25,Lâm Thao,Khu Lâm Thao,khu,lam_thao,2,truoc_2026_07,unverified,
 08494.003,08494,25,Ngọc Tỉnh,Khu Ngọc Tỉnh,khu,ngoc_tinh,3,truoc_2026_07,unverified,
@@ -3621,26 +3504,6 @@ tdp_code,ward_code,province_code,name,full_name,unit_type,code_name,seq,arrangem
 08494.006,08494,25,Tân Trung,Khu Tân Trung,khu,tan_trung,6,truoc_2026_07,unverified,
 08494.007,08494,25,Thùy Nhật,Khu Thùy Nhật,khu,thuy_nhat,7,truoc_2026_07,unverified,
 08494.008,08494,25,Tiến Mới,Khu Tiến Mới,khu,tien_moi,8,truoc_2026_07,unverified,
-08500.001,08500,25,1,Khu 1,khu,1,1,truoc_2026_07,unverified,
-08500.002,08500,25,2,Khu 2,khu,2,2,truoc_2026_07,unverified,
-08500.003,08500,25,3,Khu 3,khu,3,3,truoc_2026_07,unverified,
-08500.004,08500,25,4,Khu 4,khu,4,4,truoc_2026_07,unverified,
-08500.005,08500,25,5,Khu 5,khu,5,5,truoc_2026_07,unverified,
-08500.006,08500,25,6,Khu 6,khu,6,6,truoc_2026_07,unverified,
-08500.007,08500,25,7,Khu 7,khu,7,7,truoc_2026_07,unverified,
-08500.008,08500,25,8,Khu 8,khu,8,8,truoc_2026_07,unverified,
-08500.009,08500,25,9,Khu 9,khu,9,9,truoc_2026_07,unverified,
-08500.010,08500,25,10,Khu 10,khu,10,10,truoc_2026_07,unverified,
-08500.011,08500,25,11,Khu 11,khu,11,11,truoc_2026_07,unverified,
-08500.012,08500,25,12,Khu 12,khu,12,12,truoc_2026_07,unverified,
-08500.013,08500,25,13,Khu 13,khu,13,13,truoc_2026_07,unverified,
-08500.014,08500,25,14,Khu 14,khu,14,14,truoc_2026_07,unverified,
-08500.015,08500,25,15,Khu 15,khu,15,15,truoc_2026_07,unverified,
-08500.016,08500,25,16 (xã Tiên Kiên cũ),Khu 16 (xã Tiên Kiên cũ),khu,16_xa_tien_kien_cu,16,truoc_2026_07,unverified,
-08500.017,08500,25,6 (xã Xuân Huy cũ),Khu 6 (xã Xuân Huy cũ),khu,6_xa_xuan_huy_cu,17,truoc_2026_07,unverified,
-08500.018,08500,25,16,Khu 16,khu,16,18,truoc_2026_07,unverified,
-08500.019,08500,25,17,Khu 17,khu,17,19,truoc_2026_07,unverified,
-08500.020,08500,25,18 (xã Xuân Lũng cũ),Khu 18 (xã Xuân Lũng cũ),khu,18_xa_xuan_lung_cu,20,truoc_2026_07,unverified,
 08515.001,08515,25,Bàn Cờ,Thôn Bàn Cờ,thôn,ban_co,1,truoc_2026_07,unverified,
 08515.002,08515,25,Bề Cả,Thôn Bề Cả,thôn,be_ca,2,truoc_2026_07,unverified,
 08515.003,08515,25,Cao Thắng,Thôn Cao Thắng,thôn,cao_thang,3,truoc_2026_07,unverified,
@@ -3681,9 +3544,9 @@ tdp_code,ward_code,province_code,name,full_name,unit_type,code_name,seq,arrangem
 08527.006,08527,25,Đình Nụ,Thôn Đình Nụ,thôn,dinh_nu,6,truoc_2026_07,unverified,
 08527.007,08527,25,Hạ Trang,Thôn Hạ Trang,thôn,ha_trang,7,truoc_2026_07,unverified,
 08527.008,08527,25,Phù Phong,Thôn Phù Phong,thôn,phu_phong,8,truoc_2026_07,unverified,
-08527.009,08527,25,Qùynh Lâm 1,Thôn Qùynh Lâm 1,thôn,quynh_lam_1,9,truoc_2026_07,unverified,
-08527.010,08527,25,Qùynh Lâm 2,Thôn Qùynh Lâm 2,thôn,quynh_lam_2,10,truoc_2026_07,unverified,
-08527.011,08527,25,Qùynh Lâm 3,Thôn Qùynh Lâm 3,thôn,quynh_lam_3,11,truoc_2026_07,unverified,
+08527.009,08527,25,Quỳnh Lâm 1,Thôn Quỳnh Lâm 1,thôn,quynh_lam_1,9,truoc_2026_07,unverified,
+08527.010,08527,25,Quỳnh Lâm 2,Thôn Quỳnh Lâm 2,thôn,quynh_lam_2,10,truoc_2026_07,unverified,
+08527.011,08527,25,Quỳnh Lâm 3,Thôn Quỳnh Lâm 3,thôn,quynh_lam_3,11,truoc_2026_07,unverified,
 08527.012,08527,25,Thành Chu,Thôn Thành Chu,thôn,thanh_chu,12,truoc_2026_07,unverified,
 08527.013,08527,25,Tiện Nội,Thôn Tiện Nội,thôn,tien_noi,13,truoc_2026_07,unverified,
 08527.014,08527,25,Trịnh Xá,Thôn Trịnh Xá,thôn,trinh_xa,14,truoc_2026_07,unverified,
@@ -3716,10 +3579,10 @@ tdp_code,ward_code,province_code,name,full_name,unit_type,code_name,seq,arrangem
 08560.004,08560,25,Chiềng 2,Khu Chiềng 2,khu,chieng_2,4,truoc_2026_07,unverified,
 08560.005,08560,25,Chiềng Lớn,Khu Chiềng Lớn,khu,chieng_lon,5,truoc_2026_07,unverified,
 08560.006,08560,25,Dọc,Khu Dọc,khu,doc,6,truoc_2026_07,unverified,
-08560.007,08560,25,Đòan,Khu Đòan,khu,doan,7,truoc_2026_07,unverified,
+08560.007,08560,25,Đoàn,Khu Đoàn,khu,doan,7,truoc_2026_07,unverified,
 08560.008,08560,25,Đồng,Khu Đồng,khu,dong,8,truoc_2026_07,unverified,
 08560.009,08560,25,Đồng Than,Khu Đồng Than,khu,dong_than,9,truoc_2026_07,unverified,
-08560.010,08560,25,Họat,Khu Họat,khu,hoat,10,truoc_2026_07,unverified,
+08560.010,08560,25,Hoạt,Khu Hoạt,khu,hoat,10,truoc_2026_07,unverified,
 08560.011,08560,25,Hòa,Khu Hòa,khu,hoa,11,truoc_2026_07,unverified,
 08560.012,08560,25,Ít,Khu Ít,khu,it,12,truoc_2026_07,unverified,
 08560.013,08560,25,Kết,Khu Kết,khu,ket,13,truoc_2026_07,unverified,
@@ -3835,8 +3698,8 @@ tdp_code,ward_code,province_code,name,full_name,unit_type,code_name,seq,arrangem
 08593.015,08593,25,Đồng Tún,Khu Đồng Tún,khu,dong_tun,15,truoc_2026_07,unverified,
 08593.016,08593,25,Đường 1,Khu Đường 1,khu,duong_1,16,truoc_2026_07,unverified,
 08593.017,08593,25,Đường 2,Khu Đường 2,khu,duong_2,17,truoc_2026_07,unverified,
-08593.018,08593,25,Hòang Hà,Khu Hòang Hà,khu,hoang_ha,18,truoc_2026_07,unverified,
-08593.019,08593,25,Hòang Văn,Khu Hòang Văn,khu,hoang_van,19,truoc_2026_07,unverified,
+08593.018,08593,25,Hoàng Hà,Khu Hoàng Hà,khu,hoang_ha,18,truoc_2026_07,unverified,
+08593.019,08593,25,Hoàng Văn,Khu Hoàng Văn,khu,hoang_van,19,truoc_2026_07,unverified,
 08593.020,08593,25,Hồng Kiên,Khu Hồng Kiên,khu,hong_kien,20,truoc_2026_07,unverified,
 08593.021,08593,25,Hồng Phong,Khu Hồng Phong,khu,hong_phong,21,truoc_2026_07,unverified,
 08593.022,08593,25,Láng,Khu Láng,khu,lang,22,truoc_2026_07,unverified,
@@ -4016,28 +3879,6 @@ tdp_code,ward_code,province_code,name,full_name,unit_type,code_name,seq,arrangem
 08656.027,08656,25,Viết,Khu Viết,khu,viet,27,truoc_2026_07,unverified,
 08656.028,08656,25,Von Mỏ,Khu Von Mỏ,khu,von_mo,28,truoc_2026_07,unverified,
 08656.029,08656,25,Vũ,Khu Vũ,khu,vu,29,truoc_2026_07,unverified,
-08662.001,08662,25,1,Khu 1,khu,1,1,truoc_2026_07,unverified,
-08662.002,08662,25,2,Khu 2,khu,2,2,truoc_2026_07,unverified,
-08662.003,08662,25,3,Khu 3,khu,3,3,truoc_2026_07,unverified,
-08662.004,08662,25,4,Khu 4,khu,4,4,truoc_2026_07,unverified,
-08662.005,08662,25,5,Khu 5,khu,5,5,truoc_2026_07,unverified,
-08662.006,08662,25,6,Khu 6,khu,6,6,truoc_2026_07,unverified,
-08662.007,08662,25,7,Khu 7,khu,7,7,truoc_2026_07,unverified,
-08662.008,08662,25,8,Khu 8,khu,8,8,truoc_2026_07,unverified,
-08662.009,08662,25,9,Khu 9,khu,9,9,truoc_2026_07,unverified,
-08662.010,08662,25,10,Khu 10,khu,10,10,truoc_2026_07,unverified,
-08662.011,08662,25,11,Khu 11,khu,11,11,truoc_2026_07,unverified,
-08662.012,08662,25,12,Khu 12,khu,12,12,truoc_2026_07,unverified,
-08662.013,08662,25,13,Khu 13,khu,13,13,truoc_2026_07,unverified,
-08662.014,08662,25,14,Khu 14,khu,14,14,truoc_2026_07,unverified,
-08662.015,08662,25,15,Khu 15,khu,15,15,truoc_2026_07,unverified,
-08662.016,08662,25,16,Khu 16,khu,16,16,truoc_2026_07,unverified,
-08662.017,08662,25,17,Khu 17,khu,17,17,truoc_2026_07,unverified,
-08662.018,08662,25,18,Khu 18,khu,18,18,truoc_2026_07,unverified,
-08662.019,08662,25,19 (xã Đào Xá cũ),Khu 19 (xã Đào Xá cũ),khu,19_xa_dao_xa_cu,19,truoc_2026_07,unverified,
-08662.020,08662,25,8 (xã Tân Phương cũ),Khu 8 (xã Tân Phương cũ),khu,8_xa_tan_phuong_cu,20,truoc_2026_07,unverified,
-08662.021,08662,25,8 (xã Thạch Đồng cũ),Khu 8 (xã Thạch Đồng cũ),khu,8_xa_thach_dong_cu,21,truoc_2026_07,unverified,
-08662.022,08662,25,8 (xã Xuân Lộc cũ),Khu 8 (xã Xuân Lộc cũ),khu,8_xa_xuan_loc_cu,22,truoc_2026_07,unverified,
 08674.001,08674,25,Phố,Khu Phố,khu,pho,1,truoc_2026_07,unverified,
 08686.001,08686,25,1 Đồng Trung,Khu 1 Đồng Trung,khu,1_dong_trung,1,truoc_2026_07,unverified,
 08686.002,08686,25,2 Đồng Trung,Khu 2 Đồng Trung,khu,2_dong_trung,2,truoc_2026_07,unverified,
@@ -4055,28 +3896,28 @@ tdp_code,ward_code,province_code,name,full_name,unit_type,code_name,seq,arrangem
 08686.014,08686,25,14 Đồng Trung,Khu 14 Đồng Trung,khu,14_dong_trung,14,truoc_2026_07,unverified,
 08686.015,08686,25,15 Đồng Trung,Khu 15 Đồng Trung,khu,15_dong_trung,15,truoc_2026_07,unverified,
 08686.016,08686,25,16 Đồng Trung,Khu 16 Đồng Trung,khu,16_dong_trung,16,truoc_2026_07,unverified,
-08686.017,08686,25,1 Hòang Xá,Khu 1 Hòang Xá,khu,1_hoang_xa,17,truoc_2026_07,unverified,
-08686.018,08686,25,2 Hòang Xá,Khu 2 Hòang Xá,khu,2_hoang_xa,18,truoc_2026_07,unverified,
-08686.019,08686,25,3 Hòang Xá,Khu 3 Hòang Xá,khu,3_hoang_xa,19,truoc_2026_07,unverified,
-08686.020,08686,25,4 Hòang Xá,Khu 4 Hòang Xá,khu,4_hoang_xa,20,truoc_2026_07,unverified,
-08686.021,08686,25,5 Hòang Xá,Khu 5 Hòang Xá,khu,5_hoang_xa,21,truoc_2026_07,unverified,
-08686.022,08686,25,6 Hòang Xá,Khu 6 Hòang Xá,khu,6_hoang_xa,22,truoc_2026_07,unverified,
-08686.023,08686,25,7 Hòang Xá,Khu 7 Hòang Xá,khu,7_hoang_xa,23,truoc_2026_07,unverified,
-08686.024,08686,25,8 Hòang Xá,Khu 8 Hòang Xá,khu,8_hoang_xa,24,truoc_2026_07,unverified,
-08686.025,08686,25,9 Hòang Xá,Khu 9 Hòang Xá,khu,9_hoang_xa,25,truoc_2026_07,unverified,
-08686.026,08686,25,10 Hòang Xá,Khu 10 Hòang Xá,khu,10_hoang_xa,26,truoc_2026_07,unverified,
-08686.027,08686,25,11 Hòang Xá,Khu 11 Hòang Xá,khu,11_hoang_xa,27,truoc_2026_07,unverified,
-08686.028,08686,25,12 Hòang Xá,Khu 12 Hòang Xá,khu,12_hoang_xa,28,truoc_2026_07,unverified,
-08686.029,08686,25,13 Hòang Xá,Khu 13 Hòang Xá,khu,13_hoang_xa,29,truoc_2026_07,unverified,
-08686.030,08686,25,14 Hòang Xá,Khu 14 Hòang Xá,khu,14_hoang_xa,30,truoc_2026_07,unverified,
-08686.031,08686,25,15 Hòang Xá,Khu 15 Hòang Xá,khu,15_hoang_xa,31,truoc_2026_07,unverified,
-08686.032,08686,25,16 Hòang Xá,Khu 16 Hòang Xá,khu,16_hoang_xa,32,truoc_2026_07,unverified,
-08686.033,08686,25,17 Hòang Xá,Khu 17 Hòang Xá,khu,17_hoang_xa,33,truoc_2026_07,unverified,
-08686.034,08686,25,18 Hòang Xá,Khu 18 Hòang Xá,khu,18_hoang_xa,34,truoc_2026_07,unverified,
-08686.035,08686,25,19 Hòang Xá,Khu 19 Hòang Xá,khu,19_hoang_xa,35,truoc_2026_07,unverified,
-08686.036,08686,25,20 Hòang Xá,Khu 20 Hòang Xá,khu,20_hoang_xa,36,truoc_2026_07,unverified,
-08686.037,08686,25,21 Hòang Xá,Khu 21 Hòang Xá,khu,21_hoang_xa,37,truoc_2026_07,unverified,
-08686.038,08686,25,22 Hòang Xá,Khu 22 Hòang Xá,khu,22_hoang_xa,38,truoc_2026_07,unverified,
+08686.017,08686,25,1 Hoàng Xá,Khu 1 Hoàng Xá,khu,1_hoang_xa,17,truoc_2026_07,unverified,
+08686.018,08686,25,2 Hoàng Xá,Khu 2 Hoàng Xá,khu,2_hoang_xa,18,truoc_2026_07,unverified,
+08686.019,08686,25,3 Hoàng Xá,Khu 3 Hoàng Xá,khu,3_hoang_xa,19,truoc_2026_07,unverified,
+08686.020,08686,25,4 Hoàng Xá,Khu 4 Hoàng Xá,khu,4_hoang_xa,20,truoc_2026_07,unverified,
+08686.021,08686,25,5 Hoàng Xá,Khu 5 Hoàng Xá,khu,5_hoang_xa,21,truoc_2026_07,unverified,
+08686.022,08686,25,6 Hoàng Xá,Khu 6 Hoàng Xá,khu,6_hoang_xa,22,truoc_2026_07,unverified,
+08686.023,08686,25,7 Hoàng Xá,Khu 7 Hoàng Xá,khu,7_hoang_xa,23,truoc_2026_07,unverified,
+08686.024,08686,25,8 Hoàng Xá,Khu 8 Hoàng Xá,khu,8_hoang_xa,24,truoc_2026_07,unverified,
+08686.025,08686,25,9 Hoàng Xá,Khu 9 Hoàng Xá,khu,9_hoang_xa,25,truoc_2026_07,unverified,
+08686.026,08686,25,10 Hoàng Xá,Khu 10 Hoàng Xá,khu,10_hoang_xa,26,truoc_2026_07,unverified,
+08686.027,08686,25,11 Hoàng Xá,Khu 11 Hoàng Xá,khu,11_hoang_xa,27,truoc_2026_07,unverified,
+08686.028,08686,25,12 Hoàng Xá,Khu 12 Hoàng Xá,khu,12_hoang_xa,28,truoc_2026_07,unverified,
+08686.029,08686,25,13 Hoàng Xá,Khu 13 Hoàng Xá,khu,13_hoang_xa,29,truoc_2026_07,unverified,
+08686.030,08686,25,14 Hoàng Xá,Khu 14 Hoàng Xá,khu,14_hoang_xa,30,truoc_2026_07,unverified,
+08686.031,08686,25,15 Hoàng Xá,Khu 15 Hoàng Xá,khu,15_hoang_xa,31,truoc_2026_07,unverified,
+08686.032,08686,25,16 Hoàng Xá,Khu 16 Hoàng Xá,khu,16_hoang_xa,32,truoc_2026_07,unverified,
+08686.033,08686,25,17 Hoàng Xá,Khu 17 Hoàng Xá,khu,17_hoang_xa,33,truoc_2026_07,unverified,
+08686.034,08686,25,18 Hoàng Xá,Khu 18 Hoàng Xá,khu,18_hoang_xa,34,truoc_2026_07,unverified,
+08686.035,08686,25,19 Hoàng Xá,Khu 19 Hoàng Xá,khu,19_hoang_xa,35,truoc_2026_07,unverified,
+08686.036,08686,25,20 Hoàng Xá,Khu 20 Hoàng Xá,khu,20_hoang_xa,36,truoc_2026_07,unverified,
+08686.037,08686,25,21 Hoàng Xá,Khu 21 Hoàng Xá,khu,21_hoang_xa,37,truoc_2026_07,unverified,
+08686.038,08686,25,22 Hoàng Xá,Khu 22 Hoàng Xá,khu,22_hoang_xa,38,truoc_2026_07,unverified,
 08686.039,08686,25,1 Tu Vũ,Khu 1 Tu Vũ,khu,1_tu_vu,39,truoc_2026_07,unverified,
 08686.040,08686,25,2 Tu Vũ,Khu 2 Tu Vũ,khu,2_tu_vu,40,truoc_2026_07,unverified,
 08686.041,08686,25,3 Tu Vũ,Khu 3 Tu Vũ,khu,3_tu_vu,41,truoc_2026_07,unverified,
@@ -4098,7 +3939,7 @@ tdp_code,ward_code,province_code,name,full_name,unit_type,code_name,seq,arrangem
 08686.057,08686,25,19 Tu Vũ,Khu 19 Tu Vũ,khu,19_tu_vu,57,truoc_2026_07,unverified,
 08707.001,08707,25,An Phú,Tổ dân phố An Phú,tổ dân phố,an_phu,1,2026_07,unverified,2026-07-01
 08707.002,08707,25,Cả,Tổ dân phố Cả,tổ dân phố,ca,2,2026_07,unverified,2026-07-01
-08707.003,08707,25,Đòai,Tổ dân phố Đòai,tổ dân phố,doai,3,2026_07,unverified,2026-07-01
+08707.003,08707,25,Đoài,Tổ dân phố Đoài,tổ dân phố,doai,3,2026_07,unverified,2026-07-01
 08707.004,08707,25,Đông,Tổ dân phố Đông,tổ dân phố,dong,4,2026_07,unverified,2026-07-01
 08707.005,08707,25,Đông Cường,Tổ dân phố Đông Cường,tổ dân phố,dong_cuong,5,2026_07,unverified,2026-07-01
 08707.006,08707,25,Đông Hòa,Tổ dân phố Đông Hòa,tổ dân phố,dong_hoa,6,2026_07,unverified,2026-07-01
@@ -4107,7 +3948,7 @@ tdp_code,ward_code,province_code,name,full_name,unit_type,code_name,seq,arrangem
 08707.009,08707,25,Đông Nghĩa,Tổ dân phố Đông Nghĩa,tổ dân phố,dong_nghia,9,2026_07,unverified,2026-07-01
 08707.010,08707,25,Đông Nhân,Tổ dân phố Đông Nhân,tổ dân phố,dong_nhan,10,2026_07,unverified,2026-07-01
 08707.011,08707,25,Đông Phú,Tổ dân phố Đông Phú,tổ dân phố,dong_phu,11,2026_07,unverified,2026-07-01
-08707.012,08707,25,Đông Qúy,Tổ dân phố Đông Qúy,tổ dân phố,dong_quy,12,2026_07,unverified,2026-07-01
+08707.012,08707,25,Đông Quý,Tổ dân phố Đông Quý,tổ dân phố,dong_quy,12,2026_07,unverified,2026-07-01
 08707.013,08707,25,Đông Thành,Tổ dân phố Đông Thành,tổ dân phố,dong_thanh,13,2026_07,unverified,2026-07-01
 08707.014,08707,25,Đông Thịnh,Tổ dân phố Đông Thịnh,tổ dân phố,dong_thinh,14,2026_07,unverified,2026-07-01
 08707.015,08707,25,Đồng Khâu,Tổ dân phố Đồng Khâu,tổ dân phố,dong_khau,15,2026_07,unverified,2026-07-01
@@ -4140,7 +3981,7 @@ tdp_code,ward_code,province_code,name,full_name,unit_type,code_name,seq,arrangem
 08716.008,08716,25,Chùa Láp,Tổ dân phố Chùa Láp,tổ dân phố,chua_lap,8,2026_07,unverified,2026-07-01
 08716.009,08716,25,Đầm Vạc,Tổ dân phố Đầm Vạc,tổ dân phố,dam_vac,9,2026_07,unverified,2026-07-01
 08716.010,08716,25,Đậu,Tổ dân phố Đậu,tổ dân phố,dau,10,2026_07,unverified,2026-07-01
-08716.011,08716,25,Đinh Tiên Hòang,Tổ dân phố Đinh Tiên Hòang,tổ dân phố,dinh_tien_hoang,11,2026_07,unverified,2026-07-01
+08716.011,08716,25,Đinh Tiên Hoàng,Tổ dân phố Đinh Tiên Hoàng,tổ dân phố,dinh_tien_hoang,11,2026_07,unverified,2026-07-01
 08716.012,08716,25,Đình Láp,Tổ dân phố Đình Láp,tổ dân phố,dinh_lap,12,2026_07,unverified,2026-07-01
 08716.013,08716,25,Định Trung,Tổ dân phố Định Trung,tổ dân phố,dinh_trung,13,2026_07,unverified,2026-07-01
 08716.014,08716,25,Đôn Hậu,Tổ dân phố Đôn Hậu,tổ dân phố,don_hau,14,2026_07,unverified,2026-07-01
@@ -4165,7 +4006,7 @@ tdp_code,ward_code,province_code,name,full_name,unit_type,code_name,seq,arrangem
 08716.033,08716,25,Tô Hiệu,Tổ dân phố Tô Hiệu,tổ dân phố,to_hieu,33,2026_07,unverified,2026-07-01
 08716.034,08716,25,Trại Giao,Tổ dân phố Trại Giao,tổ dân phố,trai_giao,34,2026_07,unverified,2026-07-01
 08716.035,08716,25,Trần Phú,Tổ dân phố Trần Phú,tổ dân phố,tran_phu,35,2026_07,unverified,2026-07-01
-08716.036,08716,25,Trần Quốc Tỏan,Tổ dân phố Trần Quốc Tỏan,tổ dân phố,tran_quoc_toan,36,2026_07,unverified,2026-07-01
+08716.036,08716,25,Trần Quốc Toản,Tổ dân phố Trần Quốc Toản,tổ dân phố,tran_quoc_toan,36,2026_07,unverified,2026-07-01
 08716.037,08716,25,Trần Quốc Tuấn,Tổ dân phố Trần Quốc Tuấn,tổ dân phố,tran_quoc_tuan,37,2026_07,unverified,2026-07-01
 08716.038,08716,25,Vẽn,Tổ dân phố Vẽn,tổ dân phố,ven,38,2026_07,unverified,2026-07-01
 08716.039,08716,25,Vinh Thịnh Đông,Tổ dân phố Vinh Thịnh Đông,tổ dân phố,vinh_thinh_dong,39,2026_07,unverified,2026-07-01
@@ -4201,7 +4042,7 @@ tdp_code,ward_code,province_code,name,full_name,unit_type,code_name,seq,arrangem
 08746.003,08746,25,Cao Quang,Tổ dân phố Cao Quang,tổ dân phố,cao_quang,3,2026_07,unverified,2026-07-01
 08746.004,08746,25,Đại Quang,Tổ dân phố Đại Quang,tổ dân phố,dai_quang,4,2026_07,unverified,2026-07-01
 08746.005,08746,25,Đồng Chằm,Tổ dân phố Đồng Chằm,tổ dân phố,dong_cham,5,2026_07,unverified,2026-07-01
-08746.006,08746,25,Đồng Qùy,Tổ dân phố Đồng Qùy,tổ dân phố,dong_quy,6,2026_07,unverified,2026-07-01
+08746.006,08746,25,Đồng Quỳ,Tổ dân phố Đồng Quỳ,tổ dân phố,dong_quy,6,2026_07,unverified,2026-07-01
 08746.007,08746,25,Đồng Xuân,Tổ dân phố Đồng Xuân,tổ dân phố,dong_xuan,7,2026_07,unverified,2026-07-01
 08746.008,08746,25,Đức Cung,Tổ dân phố Đức Cung,tổ dân phố,duc_cung,8,2026_07,unverified,2026-07-01
 08746.009,08746,25,Hiển Lễ,Tổ dân phố Hiển Lễ,tổ dân phố,hien_le,9,2026_07,unverified,2026-07-01
@@ -4232,7 +4073,7 @@ tdp_code,ward_code,province_code,name,full_name,unit_type,code_name,seq,arrangem
 08761.011,08761,25,Gằm,Thôn Gằm,thôn,gam,11,truoc_2026_07,unverified,
 08761.012,08761,25,Gia Hòa,Thôn Gia Hòa,thôn,gia_hoa,12,truoc_2026_07,unverified,
 08761.013,08761,25,Guồng,Thôn Guồng,thôn,guong,13,truoc_2026_07,unverified,
-08761.014,08761,25,Hòang Sơn,Thôn Hòang Sơn,thôn,hoang_son,14,truoc_2026_07,unverified,
+08761.014,08761,25,Hoàng Sơn,Thôn Hoàng Sơn,thôn,hoang_son,14,truoc_2026_07,unverified,
 08761.015,08761,25,Hòa Phong,Thôn Hòa Phong,thôn,hoa_phong,15,truoc_2026_07,unverified,
 08761.016,08761,25,Hồng Thái,Thôn Hồng Thái,thôn,hong_thai,16,truoc_2026_07,unverified,
 08761.017,08761,25,Hưng Thịnh,Thôn Hưng Thịnh,thôn,hung_thinh,17,truoc_2026_07,unverified,
@@ -4277,7 +4118,7 @@ tdp_code,ward_code,province_code,name,full_name,unit_type,code_name,seq,arrangem
 08770.011,08770,25,Hòa Loan,Thôn Hòa Loan,thôn,hoa_loan,11,truoc_2026_07,unverified,
 08770.012,08770,25,Kiên Đình,Thôn Kiên Đình,thôn,kien_dinh,12,truoc_2026_07,unverified,
 08770.013,08770,25,Minh Sơn,Thôn Minh Sơn,thôn,minh_son,13,truoc_2026_07,unverified,
-08770.014,08770,25,Nghệ Ỏan Trung,Thôn Nghệ Ỏan Trung,thôn,nghe_oan_trung,14,truoc_2026_07,unverified,
+08770.014,08770,25,Nghệ Oản Trung,Thôn Nghệ Oản Trung,thôn,nghe_oan_trung,14,truoc_2026_07,unverified,
 08770.015,08770,25,Ngọc,Thôn Ngọc,thôn,ngoc,15,truoc_2026_07,unverified,
 08770.016,08770,25,Ngọc Kỳ,Thôn Ngọc Kỳ,thôn,ngoc_ky,16,truoc_2026_07,unverified,
 08770.017,08770,25,Ngọc Sơn,Thôn Ngọc Sơn,thôn,ngoc_son,17,truoc_2026_07,unverified,
@@ -4294,13 +4135,13 @@ tdp_code,ward_code,province_code,name,full_name,unit_type,code_name,seq,arrangem
 08770.028,08770,25,Văn Trưng,Thôn Văn Trưng,thôn,van_trung,28,truoc_2026_07,unverified,
 08773.001,08773,25,Đá Đen,Thôn Đá Đen,thôn,da_den,1,truoc_2026_07,unverified,
 08773.002,08773,25,Đá Đứng,Thôn Đá Đứng,thôn,da_dung,2,truoc_2026_07,unverified,
-08773.003,08773,25,Đòan Kết,Thôn Đòan Kết,thôn,doan_ket,3,truoc_2026_07,unverified,
+08773.003,08773,25,Đoàn Kết,Thôn Đoàn Kết,thôn,doan_ket,3,truoc_2026_07,unverified,
 08773.004,08773,25,Đồng Dạ,Thôn Đồng Dạ,thôn,dong_da,4,truoc_2026_07,unverified,
 08773.005,08773,25,Đồng Dong,Thôn Đồng Dong,thôn,dong_dong,5,truoc_2026_07,unverified,
 08773.006,08773,25,Đồng Nùng,Thôn Đồng Nùng,thôn,dong_nung,6,truoc_2026_07,unverified,
 08773.007,08773,25,Đồng Tâm,Thôn Đồng Tâm,thôn,dong_tam,7,truoc_2026_07,unverified,
 08773.008,08773,25,Đức Thịnh,Thôn Đức Thịnh,thôn,duc_thinh,8,truoc_2026_07,unverified,
-08773.009,08773,25,Hòanh Sơn,Thôn Hòanh Sơn,thôn,hoanh_son,9,truoc_2026_07,unverified,
+08773.009,08773,25,Hoành Sơn,Thôn Hoành Sơn,thôn,hoanh_son,9,truoc_2026_07,unverified,
 08773.010,08773,25,Lãng Sơn,Thôn Lãng Sơn,thôn,lang_son,10,truoc_2026_07,unverified,
 08773.011,08773,25,Lý Nhân,Thôn Lý Nhân,thôn,ly_nhan,11,truoc_2026_07,unverified,
 08773.012,08773,25,Minh Tân,Thôn Minh Tân,thôn,minh_tan,12,truoc_2026_07,unverified,
@@ -4350,7 +4191,7 @@ tdp_code,ward_code,province_code,name,full_name,unit_type,code_name,seq,arrangem
 08788.012,08788,25,Đồng Làng,Thôn Đồng Làng,thôn,dong_lang,12,truoc_2026_07,unverified,
 08788.013,08788,25,Đồng Ngõa,Thôn Đồng Ngõa,thôn,dong_ngoa,13,truoc_2026_07,unverified,
 08788.014,08788,25,Gò Giềng,Thôn Gò Giềng,thôn,go_gieng,14,truoc_2026_07,unverified,
-08788.015,08788,25,Hòang Chỉ,Thôn Hòang Chỉ,thôn,hoang_chi,15,truoc_2026_07,unverified,
+08788.015,08788,25,Hoàng Chỉ,Thôn Hoàng Chỉ,thôn,hoang_chi,15,truoc_2026_07,unverified,
 08788.016,08788,25,Hồng Phong,Thôn Hồng Phong,thôn,hong_phong,16,truoc_2026_07,unverified,
 08788.017,08788,25,Hữu Phúc,Thôn Hữu Phúc,thôn,huu_phuc,17,truoc_2026_07,unverified,
 08788.018,08788,25,Sen,Thôn Sen,thôn,sen,18,truoc_2026_07,unverified,
@@ -4391,7 +4232,7 @@ tdp_code,ward_code,province_code,name,full_name,unit_type,code_name,seq,arrangem
 08824.003,08824,25,Cầu Gạo,Thôn Cầu Gạo,thôn,cau_gao,3,truoc_2026_07,unverified,
 08824.004,08824,25,Cẩm Bình,Thôn Cẩm Bình,thôn,cam_binh,4,truoc_2026_07,unverified,
 08824.005,08824,25,Cửa Ngòi,Thôn Cửa Ngòi,thôn,cua_ngoi,5,truoc_2026_07,unverified,
-08824.006,08824,25,Đòan Kết,Thôn Đòan Kết,thôn,doan_ket,6,truoc_2026_07,unverified,
+08824.006,08824,25,Đoàn Kết,Thôn Đoàn Kết,thôn,doan_ket,6,truoc_2026_07,unverified,
 08824.007,08824,25,Đồng Mùi,Thôn Đồng Mùi,thôn,dong_mui,7,truoc_2026_07,unverified,
 08824.008,08824,25,Đồng Sinh,Thôn Đồng Sinh,thôn,dong_sinh,8,truoc_2026_07,unverified,
 08824.009,08824,25,Đồng Văn,Thôn Đồng Văn,thôn,dong_van,9,truoc_2026_07,unverified,
@@ -4420,11 +4261,11 @@ tdp_code,ward_code,province_code,name,full_name,unit_type,code_name,seq,arrangem
 08842.003,08842,25,Cộng Hòa,Thôn Cộng Hòa,thôn,cong_hoa,3,truoc_2026_07,unverified,
 08842.004,08842,25,Dộc,Thôn Dộc,thôn,doc,4,truoc_2026_07,unverified,
 08842.005,08842,25,Đại Lữ,Thôn Đại Lữ,thôn,dai_lu,5,truoc_2026_07,unverified,
-08842.006,08842,25,Đòan Kết,Thôn Đòan Kết,thôn,doan_ket,6,truoc_2026_07,unverified,
+08842.006,08842,25,Đoàn Kết,Thôn Đoàn Kết,thôn,doan_ket,6,truoc_2026_07,unverified,
 08842.007,08842,25,Đông Xuân,Thôn Đông Xuân,thôn,dong_xuan,7,truoc_2026_07,unverified,
 08842.008,08842,25,Đồng Tâm,Thôn Đồng Tâm,thôn,dong_tam,8,truoc_2026_07,unverified,
 08842.009,08842,25,Hạ Ích,Thôn Hạ Ích,thôn,ha_ich,9,truoc_2026_07,unverified,
-08842.010,08842,25,Hòang Chung,Thôn Hòang Chung,thôn,hoang_chung,10,truoc_2026_07,unverified,
+08842.010,08842,25,Hoàng Chung,Thôn Hoàng Chung,thôn,hoang_chung,10,truoc_2026_07,unverified,
 08842.011,08842,25,Lai Châu,Thôn Lai Châu,thôn,lai_chau,11,truoc_2026_07,unverified,
 08842.012,08842,25,Lan Hùng,Thôn Lan Hùng,thôn,lan_hung,12,truoc_2026_07,unverified,
 08842.013,08842,25,Liên Sơn,Thôn Liên Sơn,thôn,lien_son,13,truoc_2026_07,unverified,
@@ -4455,14 +4296,14 @@ tdp_code,ward_code,province_code,name,full_name,unit_type,code_name,seq,arrangem
 08848.003,08848,25,Chiến Thắng,Thôn Chiến Thắng,thôn,chien_thang,3,truoc_2026_07,unverified,
 08848.004,08848,25,Dương Thọ,Thôn Dương Thọ,thôn,duong_tho,4,truoc_2026_07,unverified,
 08848.005,08848,25,Đại Thắng,Thôn Đại Thắng,thôn,dai_thang,5,truoc_2026_07,unverified,
-08848.006,08848,25,Đòan Kết,Thôn Đòan Kết,thôn,doan_ket,6,truoc_2026_07,unverified,
+08848.006,08848,25,Đoàn Kết,Thôn Đoàn Kết,thôn,doan_ket,6,truoc_2026_07,unverified,
 08848.007,08848,25,Đồng Tâm,Thôn Đồng Tâm,thôn,dong_tam,7,truoc_2026_07,unverified,
 08848.008,08848,25,Giáp Trung,Thôn Giáp Trung,thôn,giap_trung,8,truoc_2026_07,unverified,
 08848.009,08848,25,Hiệp Lực,Thôn Hiệp Lực,thôn,hiep_luc,9,truoc_2026_07,unverified,
 08848.010,08848,25,Hoa Mỹ,Thôn Hoa Mỹ,thôn,hoa_my,10,truoc_2026_07,unverified,
-08848.011,08848,25,Khóai Thọ,Thôn Khóai Thọ,thôn,khoai_tho,11,truoc_2026_07,unverified,
-08848.012,08848,25,Khóai Thượng,Thôn Khóai Thượng,thôn,khoai_thuong,12,truoc_2026_07,unverified,
-08848.013,08848,25,Khóai Trung,Thôn Khóai Trung,thôn,khoai_trung,13,truoc_2026_07,unverified,
+08848.011,08848,25,Khoái Thọ,Thôn Khoái Thọ,thôn,khoai_tho,11,truoc_2026_07,unverified,
+08848.012,08848,25,Khoái Thượng,Thôn Khoái Thượng,thôn,khoai_thuong,12,truoc_2026_07,unverified,
+08848.013,08848,25,Khoái Trung,Thôn Khoái Trung,thôn,khoai_trung,13,truoc_2026_07,unverified,
 08848.014,08848,25,Lương Thịnh,Thôn Lương Thịnh,thôn,luong_thinh,14,truoc_2026_07,unverified,
 08848.015,08848,25,Minh Khai,Thôn Minh Khai,thôn,minh_khai,15,truoc_2026_07,unverified,
 08848.016,08848,25,Minh Tân,Thôn Minh Tân,thôn,minh_tan,16,truoc_2026_07,unverified,
@@ -4494,7 +4335,7 @@ tdp_code,ward_code,province_code,name,full_name,unit_type,code_name,seq,arrangem
 08866.007,08866,25,Đa Cai,Thôn Đa Cai,thôn,da_cai,7,truoc_2026_07,unverified,
 08866.008,08866,25,Đạo Nội,Thôn Đạo Nội,thôn,dao_noi,8,truoc_2026_07,unverified,
 08866.009,08866,25,Đẽn,Thôn Đẽn,thôn,den,9,truoc_2026_07,unverified,
-08866.010,08866,25,Đòan Thành,Thôn Đòan Thành,thôn,doan_thanh,10,truoc_2026_07,unverified,
+08866.010,08866,25,Đoàn Thành,Thôn Đoàn Thành,thôn,doan_thanh,10,truoc_2026_07,unverified,
 08866.011,08866,25,Đông Mật,Thôn Đông Mật,thôn,dong_mat,11,truoc_2026_07,unverified,
 08866.012,08866,25,Đông Thịnh,Thôn Đông Thịnh,thôn,dong_thinh,12,truoc_2026_07,unverified,
 08866.013,08866,25,Giang,Thôn Giang,thôn,giang,13,truoc_2026_07,unverified,
@@ -4539,7 +4380,7 @@ tdp_code,ward_code,province_code,name,full_name,unit_type,code_name,seq,arrangem
 08869.010,08869,25,Dội,Thôn Dội,thôn,doi,10,truoc_2026_07,unverified,
 08869.011,08869,25,Điền Lương,Thôn Điền Lương,thôn,dien_luong,11,truoc_2026_07,unverified,
 08869.012,08869,25,Điền Trù,Thôn Điền Trù,thôn,dien_tru,12,truoc_2026_07,unverified,
-08869.013,08869,25,Đòan Kết,Thôn Đòan Kết,thôn,doan_ket,13,truoc_2026_07,unverified,
+08869.013,08869,25,Đoàn Kết,Thôn Đoàn Kết,thôn,doan_ket,13,truoc_2026_07,unverified,
 08869.014,08869,25,Đông Ăng,Thôn Đông Ăng,thôn,dong_ang,14,truoc_2026_07,unverified,
 08869.015,08869,25,Đông Cao,Thôn Đông Cao,thôn,dong_cao,15,truoc_2026_07,unverified,
 08869.016,08869,25,Đồi,Thôn Đồi,thôn,doi,16,truoc_2026_07,unverified,
@@ -4586,7 +4427,7 @@ tdp_code,ward_code,province_code,name,full_name,unit_type,code_name,seq,arrangem
 08872.016,08872,25,Ngọc Thạch,Thôn Ngọc Thạch,thôn,ngoc_thach,16,truoc_2026_07,unverified,
 08872.017,08872,25,Nhân Lý,Thôn Nhân Lý,thôn,nhan_ly,17,truoc_2026_07,unverified,
 08872.018,08872,25,Quan Đình,Thôn Quan Đình,thôn,quan_dinh,18,truoc_2026_07,unverified,
-08872.019,08872,25,Quan Ngọai,Thôn Quan Ngọai,thôn,quan_ngoai,19,truoc_2026_07,unverified,
+08872.019,08872,25,Quan Ngoại,Thôn Quan Ngoại,thôn,quan_ngoai,19,truoc_2026_07,unverified,
 08872.020,08872,25,Quan Nội,Thôn Quan Nội,thôn,quan_noi,20,truoc_2026_07,unverified,
 08872.021,08872,25,Quang Trung,Thôn Quang Trung,thôn,quang_trung,21,truoc_2026_07,unverified,
 08872.022,08872,25,Quẵng,Thôn Quẵng,thôn,quang,22,truoc_2026_07,unverified,
@@ -4599,8 +4440,8 @@ tdp_code,ward_code,province_code,name,full_name,unit_type,code_name,seq,arrangem
 08896.003,08896,25,Cầu,Thôn Cầu,thôn,cau,3,truoc_2026_07,unverified,
 08896.004,08896,25,Chằm,Thôn Chằm,thôn,cham,4,truoc_2026_07,unverified,
 08896.005,08896,25,Chấu,Thôn Chấu,thôn,chau,5,truoc_2026_07,unverified,
-08896.006,08896,25,Đòai Đỗ,Thôn Đòai Đỗ,thôn,doai_do,6,truoc_2026_07,unverified,
-08896.007,08896,25,Đòan Kết,Thôn Đòan Kết,thôn,doan_ket,7,truoc_2026_07,unverified,
+08896.006,08896,25,Đoài Đỗ,Thôn Đoài Đỗ,thôn,doai_do,6,truoc_2026_07,unverified,
+08896.007,08896,25,Đoàn Kết,Thôn Đoàn Kết,thôn,doan_ket,7,truoc_2026_07,unverified,
 08896.008,08896,25,Đô Lương,Thôn Đô Lương,thôn,do_luong,8,truoc_2026_07,unverified,
 08896.009,08896,25,Đông,Thôn Đông,thôn,dong,9,truoc_2026_07,unverified,
 08896.010,08896,25,Đồng Lực,Thôn Đồng Lực,thôn,dong_luc,10,truoc_2026_07,unverified,
@@ -4673,7 +4514,7 @@ tdp_code,ward_code,province_code,name,full_name,unit_type,code_name,seq,arrangem
 08911.022,08911,25,Lưu Quang,Thôn Lưu Quang,thôn,luu_quang,22,truoc_2026_07,unverified,
 08911.023,08911,25,Minh Hồng,Thôn Minh Hồng,thôn,minh_hong,23,truoc_2026_07,unverified,
 08911.024,08911,25,Minh Tân,Thôn Minh Tân,thôn,minh_tan,24,truoc_2026_07,unverified,
-08911.025,08911,25,Nga Hòang,Thôn Nga Hòang,thôn,nga_hoang,25,truoc_2026_07,unverified,
+08911.025,08911,25,Nga Hoàng,Thôn Nga Hoàng,thôn,nga_hoang,25,truoc_2026_07,unverified,
 08911.026,08911,25,Núc Hạ,Thôn Núc Hạ,thôn,nuc_ha,26,truoc_2026_07,unverified,
 08911.027,08911,25,Núc Thượng,Thôn Núc Thượng,thôn,nuc_thuong,27,truoc_2026_07,unverified,
 08911.028,08911,25,Phô Cốc,Thôn Phô Cốc,thôn,pho_coc,28,truoc_2026_07,unverified,
@@ -4737,7 +4578,7 @@ tdp_code,ward_code,province_code,name,full_name,unit_type,code_name,seq,arrangem
 08935.009,08935,25,Hương Canh,Thôn Hương Canh,thôn,huong_canh,9,truoc_2026_07,unverified,
 08935.010,08935,25,Hữu Bằng,Thôn Hữu Bằng,thôn,huu_bang,10,truoc_2026_07,unverified,
 08935.011,08935,25,Lương Cầu,Thôn Lương Cầu,thôn,luong_cau,11,truoc_2026_07,unverified,
-08935.012,08935,25,Ngọai Trạch,Thôn Ngọai Trạch,thôn,ngoai_trach,12,truoc_2026_07,unverified,
+08935.012,08935,25,Ngoại Trạch,Thôn Ngoại Trạch,thôn,ngoai_trach,12,truoc_2026_07,unverified,
 08935.013,08935,25,Ngọc Bảo,Thôn Ngọc Bảo,thôn,ngoc_bao,13,truoc_2026_07,unverified,
 08935.014,08935,25,Ngọc Canh,Thôn Ngọc Canh,thôn,ngoc_canh,14,truoc_2026_07,unverified,
 08935.015,08935,25,Nhân Nghĩa,Thôn Nhân Nghĩa,thôn,nhan_nghia,15,truoc_2026_07,unverified,
@@ -4747,7 +4588,7 @@ tdp_code,ward_code,province_code,name,full_name,unit_type,code_name,seq,arrangem
 08935.019,08935,25,Tam Canh,Thôn Tam Canh,thôn,tam_canh,19,truoc_2026_07,unverified,
 08935.020,08935,25,Tam Hợp,Thôn Tam Hợp,thôn,tam_hop,20,truoc_2026_07,unverified,
 08935.021,08935,25,Tiên Hường,Thôn Tiên Hường,thôn,tien_huong,21,truoc_2026_07,unverified,
-08935.022,08935,25,Trong Ngòai,Thôn Trong Ngòai,thôn,trong_ngoai,22,truoc_2026_07,unverified,
+08935.022,08935,25,Trong Ngoài,Thôn Trong Ngoài,thôn,trong_ngoai,22,truoc_2026_07,unverified,
 08944.001,08944,25,Bá Hương,Tổ dân phố Bá Hương,tổ dân phố,ba_huong,1,2026_07,unverified,2026-07-01
 08944.002,08944,25,Bảo Sơn,Tổ dân phố Bảo Sơn,tổ dân phố,bao_son,2,2026_07,unverified,2026-07-01
 08944.003,08944,25,Bắc Kế,Tổ dân phố Bắc Kế,tổ dân phố,bac_ke,3,2026_07,unverified,2026-07-01
@@ -4774,7 +4615,7 @@ tdp_code,ward_code,province_code,name,full_name,unit_type,code_name,seq,arrangem
 08950.010,08950,25,Gốc Gạo,Thôn Gốc Gạo,thôn,goc_gao,10,truoc_2026_07,unverified,
 08950.011,08950,25,Hà Châu,Thôn Hà Châu,thôn,ha_chau,11,truoc_2026_07,unverified,
 08950.012,08950,25,Hiệp Thuận,Thôn Hiệp Thuận,thôn,hiep_thuan,12,truoc_2026_07,unverified,
-08950.013,08950,25,Hòang Oanh,Thôn Hòang Oanh,thôn,hoang_oanh,13,truoc_2026_07,unverified,
+08950.013,08950,25,Hoàng Oanh,Thôn Hoàng Oanh,thôn,hoang_oanh,13,truoc_2026_07,unverified,
 08950.014,08950,25,Hương Đà,Thôn Hương Đà,thôn,huong_da,14,truoc_2026_07,unverified,
 08950.015,08950,25,Hương Ngọc,Thôn Hương Ngọc,thôn,huong_ngoc,15,truoc_2026_07,unverified,
 08950.016,08950,25,Hương Vị,Thôn Hương Vị,thôn,huong_vi,16,truoc_2026_07,unverified,
@@ -4803,8 +4644,8 @@ tdp_code,ward_code,province_code,name,full_name,unit_type,code_name,seq,arrangem
 08971.007,08971,25,Đại Phúc 1,Thôn Đại Phúc 1,thôn,dai_phuc_1,7,truoc_2026_07,unverified,
 08971.008,08971,25,Đại Phúc 2,Thôn Đại Phúc 2,thôn,dai_phuc_2,8,truoc_2026_07,unverified,
 08971.009,08971,25,Đầu Làng,Thôn Đầu Làng,thôn,dau_lang,9,truoc_2026_07,unverified,
-08971.010,08971,25,Đòan Kết,Thôn Đòan Kết,thôn,doan_ket,10,truoc_2026_07,unverified,
-08971.011,08971,25,Đông Đòai,Thôn Đông Đòai,thôn,dong_doai,11,truoc_2026_07,unverified,
+08971.010,08971,25,Đoàn Kết,Thôn Đoàn Kết,thôn,doan_ket,10,truoc_2026_07,unverified,
+08971.011,08971,25,Đông Đoài,Thôn Đông Đoài,thôn,dong_doai,11,truoc_2026_07,unverified,
 08971.012,08971,25,Đồng Lý,Thôn Đồng Lý,thôn,dong_ly,12,truoc_2026_07,unverified,
 08971.013,08971,25,Đồng Sáo,Thôn Đồng Sáo,thôn,dong_sao,13,truoc_2026_07,unverified,
 08971.014,08971,25,Độc Lập,Thôn Độc Lập,thôn,doc_lap,14,truoc_2026_07,unverified,
@@ -4831,7 +4672,7 @@ tdp_code,ward_code,province_code,name,full_name,unit_type,code_name,seq,arrangem
 08971.035,08971,25,Trại,Thôn Trại,thôn,trai,35,truoc_2026_07,unverified,
 08971.036,08971,25,Trại Dật,Thôn Trại Dật,thôn,trai_dat,36,truoc_2026_07,unverified,
 08971.037,08971,25,Trại Giữa,Thôn Trại Giữa,thôn,trai_giua,37,truoc_2026_07,unverified,
-08971.038,08971,25,Trại Ngòai,Thôn Trại Ngòai,thôn,trai_ngoai,38,truoc_2026_07,unverified,
+08971.038,08971,25,Trại Ngoài,Thôn Trại Ngoài,thôn,trai_ngoai,38,truoc_2026_07,unverified,
 08971.039,08971,25,Trại Trong,Thôn Trại Trong,thôn,trai_trong,39,truoc_2026_07,unverified,
 08971.040,08971,25,Trường Thư,Thôn Trường Thư,thôn,truong_thu,40,truoc_2026_07,unverified,
 08971.041,08971,25,Vườn Quan,Thôn Vườn Quan,thôn,vuon_quan,41,truoc_2026_07,unverified,
@@ -4857,8 +4698,8 @@ tdp_code,ward_code,province_code,name,full_name,unit_type,code_name,seq,arrangem
 08974.018,08974,01,Yên Vinh,Thôn Yên Vinh,thôn,yen_vinh,18,2026_07,unverified,2026-07-01
 08980.001,08980,01,Bồng Mạc,Thôn Bồng Mạc,thôn,bong_mac,1,2026_07,unverified,2026-07-01
 08980.002,08980,01,Châu Phan,Thôn Châu Phan,thôn,chau_phan,2,2026_07,unverified,2026-07-01
-08980.003,08980,01,Hòang Kim,Thôn Hòang Kim,thôn,hoang_kim,3,2026_07,unverified,2026-07-01
-08980.004,08980,01,Hòang Xá,Thôn Hòang Xá,thôn,hoang_xa,4,2026_07,unverified,2026-07-01
+08980.003,08980,01,Hoàng Kim,Thôn Hoàng Kim,thôn,hoang_kim,3,2026_07,unverified,2026-07-01
+08980.004,08980,01,Hoàng Xá,Thôn Hoàng Xá,thôn,hoang_xa,4,2026_07,unverified,2026-07-01
 08980.005,08980,01,Mạnh Trữ,Thôn Mạnh Trữ,thôn,manh_tru,5,2026_07,unverified,2026-07-01
 08980.006,08980,01,Thạch Đà 1,Thôn Thạch Đà 1,thôn,thach_da_1,6,2026_07,unverified,2026-07-01
 08980.007,08980,01,Thạch Đà 2,Thôn Thạch Đà 2,thôn,thach_da_2,7,2026_07,unverified,2026-07-01
@@ -4896,12 +4737,12 @@ tdp_code,ward_code,province_code,name,full_name,unit_type,code_name,seq,arrangem
 09022.006,09022,01,Do Thượng,Thôn Do Thượng,thôn,do_thuong,6,2026_07,unverified,2026-07-01
 09022.007,09022,01,Điệp Thôn,Thôn Điệp Thôn,thôn,diep_thon,7,2026_07,unverified,2026-07-01
 09022.008,09022,01,Đông Cao,Thôn Đông Cao,thôn,dong_cao,8,2026_07,unverified,2026-07-01
-09022.009,09022,01,Khê Ngọai 1,Thôn Khê Ngọai 1,thôn,khe_ngoai_1,9,2026_07,unverified,2026-07-01
-09022.010,09022,01,Khê Ngọai 2,Thôn Khê Ngọai 2,thôn,khe_ngoai_2,10,2026_07,unverified,2026-07-01
-09022.011,09022,01,Khê Ngọai 3,Thôn Khê Ngọai 3,thôn,khe_ngoai_3,11,2026_07,unverified,2026-07-01
-09022.012,09022,01,Khê Ngọai 4,Thôn Khê Ngọai 4,thôn,khe_ngoai_4,12,2026_07,unverified,2026-07-01
+09022.009,09022,01,Khê Ngoại 1,Thôn Khê Ngoại 1,thôn,khe_ngoai_1,9,2026_07,unverified,2026-07-01
+09022.010,09022,01,Khê Ngoại 2,Thôn Khê Ngoại 2,thôn,khe_ngoai_2,10,2026_07,unverified,2026-07-01
+09022.011,09022,01,Khê Ngoại 3,Thôn Khê Ngoại 3,thôn,khe_ngoai_3,11,2026_07,unverified,2026-07-01
+09022.012,09022,01,Khê Ngoại 4,Thôn Khê Ngoại 4,thôn,khe_ngoai_4,12,2026_07,unverified,2026-07-01
 09022.013,09022,01,Tráng Việt,Thôn Tráng Việt,thôn,trang_viet,13,2026_07,unverified,2026-07-01
-09022.014,09022,01,Trung Hậu Đòai,Thôn Trung Hậu Đòai,thôn,trung_hau_doai,14,2026_07,unverified,2026-07-01
+09022.014,09022,01,Trung Hậu Đoài,Thôn Trung Hậu Đoài,thôn,trung_hau_doai,14,2026_07,unverified,2026-07-01
 09022.015,09022,01,Trung Yên,Thôn Trung Yên,thôn,trung_yen,15,2026_07,unverified,2026-07-01
 09022.016,09022,01,Văn Quán 1,Thôn Văn Quán 1,thôn,van_quan_1,16,2026_07,unverified,2026-07-01
 09022.017,09022,01,Văn Quán 2,Thôn Văn Quán 2,thôn,van_quan_2,17,2026_07,unverified,2026-07-01
@@ -4914,10 +4755,10 @@ tdp_code,ward_code,province_code,name,full_name,unit_type,code_name,seq,arrangem
 09025.006,09025,25,Đại Nội,Thôn Đại Nội,thôn,dai_noi,6,truoc_2026_07,unverified,
 09025.007,09025,25,Phú Cường,Thôn Phú Cường,thôn,phu_cuong,7,truoc_2026_07,unverified,
 09025.008,09025,25,Vật Cách,Thôn Vật Cách,thôn,vat_cach,8,truoc_2026_07,unverified,
-09025.009,09025,25,Vĩnh Đòai 1,Thôn Vĩnh Đòai 1,thôn,vinh_doai_1,9,truoc_2026_07,unverified,
-09025.010,09025,25,Vĩnh Đòai 2,Thôn Vĩnh Đòai 2,thôn,vinh_doai_2,10,truoc_2026_07,unverified,
-09025.011,09025,25,Vĩnh Đòai 3,Thôn Vĩnh Đòai 3,thôn,vinh_doai_3,11,truoc_2026_07,unverified,
-09025.012,09025,25,Vĩnh Đòai 4,Thôn Vĩnh Đòai 4,thôn,vinh_doai_4,12,truoc_2026_07,unverified,
+09025.009,09025,25,Vĩnh Đoài 1,Thôn Vĩnh Đoài 1,thôn,vinh_doai_1,9,truoc_2026_07,unverified,
+09025.010,09025,25,Vĩnh Đoài 2,Thôn Vĩnh Đoài 2,thôn,vinh_doai_2,10,truoc_2026_07,unverified,
+09025.011,09025,25,Vĩnh Đoài 3,Thôn Vĩnh Đoài 3,thôn,vinh_doai_3,11,truoc_2026_07,unverified,
+09025.012,09025,25,Vĩnh Đoài 4,Thôn Vĩnh Đoài 4,thôn,vinh_doai_4,12,truoc_2026_07,unverified,
 09025.013,09025,25,Vĩnh Đông 1,Thôn Vĩnh Đông 1,thôn,vinh_dong_1,13,truoc_2026_07,unverified,
 09025.014,09025,25,Vĩnh Đông 2,Thôn Vĩnh Đông 2,thôn,vinh_dong_2,14,truoc_2026_07,unverified,
 09025.015,09025,25,Vĩnh Đông 3,Thôn Vĩnh Đông 3,thôn,vinh_dong_3,15,truoc_2026_07,unverified,
@@ -4941,7 +4782,7 @@ tdp_code,ward_code,province_code,name,full_name,unit_type,code_name,seq,arrangem
 09040.008,09040,25,Giã Bàng 1,Thôn Giã Bàng 1,thôn,gia_bang_1,8,truoc_2026_07,unverified,
 09040.009,09040,25,Giã Bàng 2,Thôn Giã Bàng 2,thôn,gia_bang_2,9,truoc_2026_07,unverified,
 09040.010,09040,25,Giã Bàng 3,Thôn Giã Bàng 3,thôn,gia_bang_3,10,truoc_2026_07,unverified,
-09040.011,09040,25,Hòang Thạch,Thôn Hòang Thạch,thôn,hoang_thach,11,truoc_2026_07,unverified,
+09040.011,09040,25,Hoàng Thạch,Thôn Hoàng Thạch,thôn,hoang_thach,11,truoc_2026_07,unverified,
 09040.012,09040,25,Hùng Vĩ 1,Thôn Hùng Vĩ 1,thôn,hung_vi_1,12,truoc_2026_07,unverified,
 09040.013,09040,25,Hùng Vĩ 2,Thôn Hùng Vĩ 2,thôn,hung_vi_2,13,truoc_2026_07,unverified,
 09040.014,09040,25,Hùng Vĩ 3,Thôn Hùng Vĩ 3,thôn,hung_vi_3,14,truoc_2026_07,unverified,
@@ -5045,7 +4886,7 @@ tdp_code,ward_code,province_code,name,full_name,unit_type,code_name,seq,arrangem
 09076.011,09076,25,Ngược Phù Lập,Thôn Ngược Phù Lập,thôn,nguoc_phu_lap,11,truoc_2026_07,unverified,
 09076.012,09076,25,Nhật Tân,Thôn Nhật Tân,thôn,nhat_tan,12,truoc_2026_07,unverified,
 09076.013,09076,25,Phong Doanh,Thôn Phong Doanh,thôn,phong_doanh,13,truoc_2026_07,unverified,
-09076.014,09076,25,Phú Lập Ngòai,Thôn Phú Lập Ngòai,thôn,phu_lap_ngoai,14,truoc_2026_07,unverified,
+09076.014,09076,25,Phú Lập Ngoài,Thôn Phú Lập Ngoài,thôn,phu_lap_ngoai,14,truoc_2026_07,unverified,
 09076.015,09076,25,Phúc Lập Trong,Thôn Phúc Lập Trong,thôn,phuc_lap_trong,15,truoc_2026_07,unverified,
 09076.016,09076,25,Phù Cốc,Thôn Phù Cốc,thôn,phu_coc,16,truoc_2026_07,unverified,
 09076.017,09076,25,Quảng Cư,Thôn Quảng Cư,thôn,quang_cu,17,truoc_2026_07,unverified,
@@ -5062,11 +4903,11 @@ tdp_code,ward_code,province_code,name,full_name,unit_type,code_name,seq,arrangem
 09079.001,09079,25,Cẩm Chiền,Thôn Cẩm Chiền,thôn,cam_chien,1,truoc_2026_07,unverified,
 09079.002,09079,25,Đình,Thôn Đình,thôn,dinh,2,truoc_2026_07,unverified,
 09079.003,09079,25,Hạ Chuế,Thôn Hạ Chuế,thôn,ha_chue,3,truoc_2026_07,unverified,
-09079.004,09079,25,Hòang Hạ,Thôn Hòang Hạ,thôn,hoang_ha,4,truoc_2026_07,unverified,
-09079.005,09079,25,Hòang Tân,Thôn Hòang Tân,thôn,hoang_tan,5,truoc_2026_07,unverified,
-09079.006,09079,25,Hòang Thượng,Thôn Hòang Thượng,thôn,hoang_thuong,6,truoc_2026_07,unverified,
-09079.007,09079,25,Hòang Trung,Thôn Hòang Trung,thôn,hoang_trung,7,truoc_2026_07,unverified,
-09079.008,09079,25,Khóat,Thôn Khóat,thôn,khoat,8,truoc_2026_07,unverified,
+09079.004,09079,25,Hoàng Hạ,Thôn Hoàng Hạ,thôn,hoang_ha,4,truoc_2026_07,unverified,
+09079.005,09079,25,Hoàng Tân,Thôn Hoàng Tân,thôn,hoang_tan,5,truoc_2026_07,unverified,
+09079.006,09079,25,Hoàng Thượng,Thôn Hoàng Thượng,thôn,hoang_thuong,6,truoc_2026_07,unverified,
+09079.007,09079,25,Hoàng Trung,Thôn Hoàng Trung,thôn,hoang_trung,7,truoc_2026_07,unverified,
+09079.008,09079,25,Khoát,Thôn Khoát,thôn,khoat,8,truoc_2026_07,unverified,
 09079.009,09079,25,Lực Điền,Thôn Lực Điền,thôn,luc_dien,9,truoc_2026_07,unverified,
 09079.010,09079,25,Nha,Thôn Nha,thôn,nha,10,truoc_2026_07,unverified,
 09079.011,09079,25,Nội,Thôn Nội,thôn,noi,11,truoc_2026_07,unverified,
@@ -5165,7 +5006,7 @@ tdp_code,ward_code,province_code,name,full_name,unit_type,code_name,seq,arrangem
 09154.018,09154,25,Gồ,Thôn Gồ,thôn,go,18,truoc_2026_07,unverified,
 09154.019,09154,25,Hậu Lộc,Thôn Hậu Lộc,thôn,hau_loc,19,truoc_2026_07,unverified,
 09154.020,09154,25,Hệ,Thôn Hệ,thôn,he,20,truoc_2026_07,unverified,
-09154.021,09154,25,Hòang Xá,Thôn Hòang Xá,thôn,hoang_xa,21,truoc_2026_07,unverified,
+09154.021,09154,25,Hoàng Xá,Thôn Hoàng Xá,thôn,hoang_xa,21,truoc_2026_07,unverified,
 09154.022,09154,25,Hồi Cương,Thôn Hồi Cương,thôn,hoi_cuong,22,truoc_2026_07,unverified,
 09154.023,09154,25,Khách Nhi,Thôn Khách Nhi,thôn,khach_nhi,23,truoc_2026_07,unverified,
 09154.024,09154,25,Khách Nhi Ngược,Thôn Khách Nhi Ngược,thôn,khach_nhi_nguoc,24,truoc_2026_07,unverified,
@@ -5191,12 +5032,12 @@ tdp_code,ward_code,province_code,name,full_name,unit_type,code_name,seq,arrangem
 09552.002,09552,01,Đa Sỹ 2,Tổ dân phố Đa Sỹ 2,tổ dân phố,da_sy_2,2,2026_07,unverified,2026-07-01
 09552.003,09552,01,Đa Sỹ 3,Tổ dân phố Đa Sỹ 3,tổ dân phố,da_sy_3,3,2026_07,unverified,2026-07-01
 09552.004,09552,01,Đa Sỹ 4,Tổ dân phố Đa Sỹ 4,tổ dân phố,da_sy_4,4,2026_07,unverified,2026-07-01
-09552.005,09552,01,Hòang Công 1,Tổ dân phố Hòang Công 1,tổ dân phố,hoang_cong_1,5,2026_07,unverified,2026-07-01
-09552.006,09552,01,Hòang Công 2,Tổ dân phố Hòang Công 2,tổ dân phố,hoang_cong_2,6,2026_07,unverified,2026-07-01
-09552.007,09552,01,Hòang Công 3,Tổ dân phố Hòang Công 3,tổ dân phố,hoang_cong_3,7,2026_07,unverified,2026-07-01
-09552.008,09552,01,Hòang Công 4,Tổ dân phố Hòang Công 4,tổ dân phố,hoang_cong_4,8,2026_07,unverified,2026-07-01
-09552.009,09552,01,Hòang Công 5,Tổ dân phố Hòang Công 5,tổ dân phố,hoang_cong_5,9,2026_07,unverified,2026-07-01
-09552.010,09552,01,Hòang Công 6,Tổ dân phố Hòang Công 6,tổ dân phố,hoang_cong_6,10,2026_07,unverified,2026-07-01
+09552.005,09552,01,Hoàng Công 1,Tổ dân phố Hoàng Công 1,tổ dân phố,hoang_cong_1,5,2026_07,unverified,2026-07-01
+09552.006,09552,01,Hoàng Công 2,Tổ dân phố Hoàng Công 2,tổ dân phố,hoang_cong_2,6,2026_07,unverified,2026-07-01
+09552.007,09552,01,Hoàng Công 3,Tổ dân phố Hoàng Công 3,tổ dân phố,hoang_cong_3,7,2026_07,unverified,2026-07-01
+09552.008,09552,01,Hoàng Công 4,Tổ dân phố Hoàng Công 4,tổ dân phố,hoang_cong_4,8,2026_07,unverified,2026-07-01
+09552.009,09552,01,Hoàng Công 5,Tổ dân phố Hoàng Công 5,tổ dân phố,hoang_cong_5,9,2026_07,unverified,2026-07-01
+09552.010,09552,01,Hoàng Công 6,Tổ dân phố Hoàng Công 6,tổ dân phố,hoang_cong_6,10,2026_07,unverified,2026-07-01
 09552.011,09552,01,Hưng Thịnh 1,Tổ dân phố Hưng Thịnh 1,tổ dân phố,hung_thinh_1,11,2026_07,unverified,2026-07-01
 09552.012,09552,01,Hưng Thịnh 2,Tổ dân phố Hưng Thịnh 2,tổ dân phố,hung_thinh_2,12,2026_07,unverified,2026-07-01
 09552.013,09552,01,Hưng Thịnh 3,Tổ dân phố Hưng Thịnh 3,tổ dân phố,hung_thinh_3,13,2026_07,unverified,2026-07-01
@@ -5284,7 +5125,7 @@ tdp_code,ward_code,province_code,name,full_name,unit_type,code_name,seq,arrangem
 09562.003,09562,01,Cổ Bản,Tổ dân phố Cổ Bản,tổ dân phố,co_ban,3,2026_07,unverified,2026-07-01
 09562.004,09562,01,Do Lộ,Tổ dân phố Do Lộ,tổ dân phố,do_lo,4,2026_07,unverified,2026-07-01
 09562.005,09562,01,Đồng Dương,Tổ dân phố Đồng Dương,tổ dân phố,dong_duong,5,2026_07,unverified,2026-07-01
-09562.006,09562,01,Đồng Hòang,Tổ dân phố Đồng Hòang,tổ dân phố,dong_hoang,6,2026_07,unverified,2026-07-01
+09562.006,09562,01,Đồng Hoàng,Tổ dân phố Đồng Hoàng,tổ dân phố,dong_hoang,6,2026_07,unverified,2026-07-01
 09562.007,09562,01,Hòa Bình,Tổ dân phố Hòa Bình,tổ dân phố,hoa_binh,7,2026_07,unverified,2026-07-01
 09562.008,09562,01,Nhân Huệ,Tổ dân phố Nhân Huệ,tổ dân phố,nhan_hue,8,2026_07,unverified,2026-07-01
 09562.009,09562,01,Nhân Sơn,Tổ dân phố Nhân Sơn,tổ dân phố,nhan_son,9,2026_07,unverified,2026-07-01
@@ -5351,7 +5192,7 @@ tdp_code,ward_code,province_code,name,full_name,unit_type,code_name,seq,arrangem
 09616.001,09616,01,Ấp Bắc,Thôn Ấp Bắc,thôn,ap_bac,1,2026_07,unverified,2026-07-01
 09616.002,09616,01,Bắc Kiên,Thôn Bắc Kiên,thôn,bac_kien,2,2026_07,unverified,2026-07-01
 09616.003,09616,01,Cổ Đông,Thôn Cổ Đông,thôn,co_dong,3,2026_07,unverified,2026-07-01
-09616.004,09616,01,Đòan Kết,Thôn Đòan Kết,thôn,doan_ket,4,2026_07,unverified,2026-07-01
+09616.004,09616,01,Đoàn Kết,Thôn Đoàn Kết,thôn,doan_ket,4,2026_07,unverified,2026-07-01
 09616.005,09616,01,Kim Sơn,Thôn Kim Sơn,thôn,kim_son,5,2026_07,unverified,2026-07-01
 09616.006,09616,01,Kim Tân,Thôn Kim Tân,thôn,kim_tan,6,2026_07,unverified,2026-07-01
 09616.007,09616,01,La Thành,Thôn La Thành,thôn,la_thanh,7,2026_07,unverified,2026-07-01
@@ -5373,7 +5214,7 @@ tdp_code,ward_code,province_code,name,full_name,unit_type,code_name,seq,arrangem
 09619.012,09619,01,Văn Minh,Thôn Văn Minh,thôn,van_minh,12,2026_07,unverified,2026-07-01
 09619.013,09619,01,Vân Lai,Thôn Vân Lai,thôn,van_lai,13,2026_07,unverified,2026-07-01
 09619.014,09619,01,Vĩnh Phệ,Thôn Vĩnh Phệ,thôn,vinh_phe,14,2026_07,unverified,2026-07-01
-09619.015,09619,01,Yên Khóai,Thôn Yên Khóai,thôn,yen_khoai,15,2026_07,unverified,2026-07-01
+09619.015,09619,01,Yên Khoái,Thôn Yên Khoái,thôn,yen_khoai,15,2026_07,unverified,2026-07-01
 09634.001,09634,01,Châu Sơn,Thôn Châu Sơn,thôn,chau_son,1,2026_07,unverified,2026-07-01
 09634.002,09634,01,Cổ Đô,Thôn Cổ Đô,thôn,co_do,2,2026_07,unverified,2026-07-01
 09634.003,09634,01,La Phẩm,Thôn La Phẩm,thôn,la_pham,3,2026_07,unverified,2026-07-01
@@ -5442,7 +5283,7 @@ tdp_code,ward_code,province_code,name,full_name,unit_type,code_name,seq,arrangem
 09706.002,09706,01,Muồng,Thôn Muồng,thôn,muong,2,2026_07,unverified,2026-07-01
 09706.003,09706,01,Phú Vàng,Thôn Phú Vàng,thôn,phu_vang,3,2026_07,unverified,2026-07-01
 09706.004,09706,01,Phúc Yên,Thôn Phúc Yên,thôn,phuc_yen,4,2026_07,unverified,2026-07-01
-09706.005,09706,01,Qúyt,Thôn Qúyt,thôn,quyt,5,2026_07,unverified,2026-07-01
+09706.005,09706,01,Quýt,Thôn Quýt,thôn,quyt,5,2026_07,unverified,2026-07-01
 09706.006,09706,01,Vân Hòa,Thôn Vân Hòa,thôn,van_hoa,6,2026_07,unverified,2026-07-01
 09706.007,09706,01,Vân Sơn,Thôn Vân Sơn,thôn,van_son,7,2026_07,unverified,2026-07-01
 09706.008,09706,01,Xuân Trung,Thôn Xuân Trung,thôn,xuan_trung,8,2026_07,unverified,2026-07-01
@@ -5479,7 +5320,7 @@ tdp_code,ward_code,province_code,name,full_name,unit_type,code_name,seq,arrangem
 09739.011,09739,01,Vân Phúc 1,Thôn Vân Phúc 1,thôn,van_phuc_1,11,2026_07,unverified,2026-07-01
 09739.012,09739,01,Vân Phúc 2,Thôn Vân Phúc 2,thôn,van_phuc_2,12,2026_07,unverified,2026-07-01
 09739.013,09739,01,Vĩnh Lộc,Thôn Vĩnh Lộc,thôn,vinh_loc,13,2026_07,unverified,2026-07-01
-09739.014,09739,01,Võng Ngọai,Thôn Võng Ngọai,thôn,vong_ngoai,14,2026_07,unverified,2026-07-01
+09739.014,09739,01,Võng Ngoại,Thôn Võng Ngoại,thôn,vong_ngoai,14,2026_07,unverified,2026-07-01
 09739.015,09739,01,Võng Xuyên,Thôn Võng Xuyên,thôn,vong_xuyen,15,2026_07,unverified,2026-07-01
 09739.016,09739,01,Xuân Lục,Thôn Xuân Lục,thôn,xuan_luc,16,2026_07,unverified,2026-07-01
 09739.017,09739,01,Xuân Phú,Thôn Xuân Phú,thôn,xuan_phu,17,2026_07,unverified,2026-07-01
@@ -5493,7 +5334,7 @@ tdp_code,ward_code,province_code,name,full_name,unit_type,code_name,seq,arrangem
 09772.008,09772,01,Mỹ Giang,Thôn Mỹ Giang,thôn,my_giang,8,2026_07,unverified,2026-07-01
 09772.009,09772,01,Ngọc Tảo,Thôn Ngọc Tảo,thôn,ngoc_tao,9,2026_07,unverified,2026-07-01
 09772.010,09772,01,Quán Hạ,Thôn Quán Hạ,thôn,quan_ha,10,2026_07,unverified,2026-07-01
-09772.011,09772,01,Táo Ngọai,Thôn Táo Ngọai,thôn,tao_ngoai,11,2026_07,unverified,2026-07-01
+09772.011,09772,01,Táo Ngoại,Thôn Táo Ngoại,thôn,tao_ngoai,11,2026_07,unverified,2026-07-01
 09772.012,09772,01,Thanh Đa,Thôn Thanh Đa,thôn,thanh_da,12,2026_07,unverified,2026-07-01
 09772.013,09772,01,Thanh Hồng,Thôn Thanh Hồng,thôn,thanh_hong,13,2026_07,unverified,2026-07-01
 09772.014,09772,01,Thuấn Nhuế,Thôn Thuấn Nhuế,thôn,thuan_nhue,14,2026_07,unverified,2026-07-01
@@ -5502,7 +5343,7 @@ tdp_code,ward_code,province_code,name,full_name,unit_type,code_name,seq,arrangem
 09772.017,09772,01,Yên Lâm,Thôn Yên Lâm,thôn,yen_lam,17,2026_07,unverified,2026-07-01
 09784.001,09784,01,Bãi Thụy,Thôn Bãi Thụy,thôn,bai_thuy,1,2026_07,unverified,2026-07-01
 09784.002,09784,01,Đại Phùng,Thôn Đại Phùng,thôn,dai_phung,2,2026_07,unverified,2026-07-01
-09784.003,09784,01,Đòai Khê,Thôn Đòai Khê,thôn,doai_khe,3,2026_07,unverified,2026-07-01
+09784.003,09784,01,Đoài Khê,Thôn Đoài Khê,thôn,doai_khe,3,2026_07,unverified,2026-07-01
 09784.004,09784,01,Đông Khê,Thôn Đông Khê,thôn,dong_khe,4,2026_07,unverified,2026-07-01
 09784.005,09784,01,Đồng Tháp,Thôn Đồng Tháp,thôn,dong_thap,5,2026_07,unverified,2026-07-01
 09784.006,09784,01,Phùng,Thôn Phùng,thôn,phung,6,2026_07,unverified,2026-07-01
@@ -5594,10 +5435,10 @@ tdp_code,ward_code,province_code,name,full_name,unit_type,code_name,seq,arrangem
 09871.003,09871,01,An Trai,Tổ dân phố An Trai,tổ dân phố,an_trai,3,2026_07,unverified,2026-07-01
 09871.004,09871,01,Đình,Tổ dân phố Đình,tổ dân phố,dinh,4,2026_07,unverified,2026-07-01
 09871.005,09871,01,Hậu Ái,Tổ dân phố Hậu Ái,tổ dân phố,hau_ai,5,2026_07,unverified,2026-07-01
-09871.006,09871,01,Kim Hòang,Tổ dân phố Kim Hòang,tổ dân phố,kim_hoang,6,2026_07,unverified,2026-07-01
+09871.006,09871,01,Kim Hoàng,Tổ dân phố Kim Hoàng,tổ dân phố,kim_hoang,6,2026_07,unverified,2026-07-01
 09871.007,09871,01,Lại Yên 1,Tổ dân phố Lại Yên 1,tổ dân phố,lai_yen_1,7,2026_07,unverified,2026-07-01
 09871.008,09871,01,Lại Yên 2,Tổ dân phố Lại Yên 2,tổ dân phố,lai_yen_2,8,2026_07,unverified,2026-07-01
-09871.009,09871,01,Ngọai,Tổ dân phố Ngọai,tổ dân phố,ngoai,9,2026_07,unverified,2026-07-01
+09871.009,09871,01,Ngoại,Tổ dân phố Ngoại,tổ dân phố,ngoai,9,2026_07,unverified,2026-07-01
 09871.010,09871,01,Nội,Tổ dân phố Nội,tổ dân phố,noi,10,2026_07,unverified,2026-07-01
 09871.011,09871,01,Phương Bảng,Tổ dân phố Phương Bảng,tổ dân phố,phuong_bang,11,2026_07,unverified,2026-07-01
 09871.012,09871,01,Phương Viên 1,Tổ dân phố Phương Viên 1,tổ dân phố,phuong_vien_1,12,2026_07,unverified,2026-07-01
@@ -5618,7 +5459,7 @@ tdp_code,ward_code,province_code,name,full_name,unit_type,code_name,seq,arrangem
 09877.011,09877,01,Hoa Thám,Tổ dân phố Hoa Thám,tổ dân phố,hoa_tham,11,2026_07,unverified,2026-07-01
 09877.012,09877,01,La Tinh,Tổ dân phố La Tinh,tổ dân phố,la_tinh,12,2026_07,unverified,2026-07-01
 09877.013,09877,01,Minh Khai,Tổ dân phố Minh Khai,tổ dân phố,minh_khai,13,2026_07,unverified,2026-07-01
-09877.014,09877,01,Mộc Hòan,Tổ dân phố Mộc Hòan,tổ dân phố,moc_hoan,14,2026_07,unverified,2026-07-01
+09877.014,09877,01,Mộc Hoàn,Tổ dân phố Mộc Hoàn,tổ dân phố,moc_hoan,14,2026_07,unverified,2026-07-01
 09877.015,09877,01,Ngãi Cầu,Tổ dân phố Ngãi Cầu,tổ dân phố,ngai_cau,15,2026_07,unverified,2026-07-01
 09877.016,09877,01,Ngự Câu,Tổ dân phố Ngự Câu,tổ dân phố,ngu_cau,16,2026_07,unverified,2026-07-01
 09877.017,09877,01,Phú Vinh,Tổ dân phố Phú Vinh,tổ dân phố,phu_vinh,17,2026_07,unverified,2026-07-01
@@ -5638,9 +5479,9 @@ tdp_code,ward_code,province_code,name,full_name,unit_type,code_name,seq,arrangem
 09886.006,09886,01,7,Tổ dân phố 7,tổ dân phố,7,6,2026_07,unverified,2026-07-01
 09886.007,09886,01,An Hưng,Tổ dân phố An Hưng,tổ dân phố,an_hung,7,2026_07,unverified,2026-07-01
 09886.008,09886,01,An Khang,Tổ dân phố An Khang,tổ dân phố,an_khang,8,2026_07,unverified,2026-07-01
-09886.009,09886,01,Đòan Kết,Tổ dân phố Đòan Kết,tổ dân phố,doan_ket,9,2026_07,unverified,2026-07-01
-09886.010,09886,01,Hòang Hanh,Tổ dân phố Hòang Hanh,tổ dân phố,hoang_hanh,10,2026_07,unverified,2026-07-01
-09886.011,09886,01,Hòang Văn Thụ,Tổ dân phố Hòang Văn Thụ,tổ dân phố,hoang_van_thu,11,2026_07,unverified,2026-07-01
+09886.009,09886,01,Đoàn Kết,Tổ dân phố Đoàn Kết,tổ dân phố,doan_ket,9,2026_07,unverified,2026-07-01
+09886.010,09886,01,Hoàng Hanh,Tổ dân phố Hoàng Hanh,tổ dân phố,hoang_hanh,10,2026_07,unverified,2026-07-01
+09886.011,09886,01,Hoàng Văn Thụ,Tổ dân phố Hoàng Văn Thụ,tổ dân phố,hoang_van_thu,11,2026_07,unverified,2026-07-01
 09886.012,09886,01,Hòa Bình,Tổ dân phố Hòa Bình,tổ dân phố,hoa_binh,12,2026_07,unverified,2026-07-01
 09886.013,09886,01,Kiên Quyết,Tổ dân phố Kiên Quyết,tổ dân phố,kien_quyet,13,2026_07,unverified,2026-07-01
 09886.014,09886,01,Quang Minh,Tổ dân phố Quang Minh,tổ dân phố,quang_minh,14,2026_07,unverified,2026-07-01
@@ -5718,7 +5559,7 @@ tdp_code,ward_code,province_code,name,full_name,unit_type,code_name,seq,arrangem
 09955.004,09955,01,Đại Đồng 1,Thôn Đại Đồng 1,thôn,dai_dong_1,4,2026_07,unverified,2026-07-01
 09955.005,09955,01,Đại Đồng 2,Thôn Đại Đồng 2,thôn,dai_dong_2,5,2026_07,unverified,2026-07-01
 09955.006,09955,01,Đại Đồng 3,Thôn Đại Đồng 3,thôn,dai_dong_3,6,2026_07,unverified,2026-07-01
-09955.007,09955,01,Hòang Thanh Phú,Thôn Hòang Thanh Phú,thôn,hoang_thanh_phu,7,2026_07,unverified,2026-07-01
+09955.007,09955,01,Hoàng Thanh Phú,Thôn Hoàng Thanh Phú,thôn,hoang_thanh_phu,7,2026_07,unverified,2026-07-01
 09955.008,09955,01,Khánh Thượng,Thôn Khánh Thượng,thôn,khanh_thuong,8,2026_07,unverified,2026-07-01
 09955.009,09955,01,Kim Quan 1,Thôn Kim Quan 1,thôn,kim_quan_1,9,2026_07,unverified,2026-07-01
 09955.010,09955,01,Kim Quan 2,Thôn Kim Quan 2,thôn,kim_quan_2,10,2026_07,unverified,2026-07-01
@@ -5780,7 +5621,7 @@ tdp_code,ward_code,province_code,name,full_name,unit_type,code_name,seq,arrangem
 10015.009,10015,01,Đồng Nanh,Tổ dân phố Đồng Nanh,tổ dân phố,dong_nanh,9,2026_07,unverified,2026-07-01
 10015.010,10015,01,Long Châu,Tổ dân phố Long Châu,tổ dân phố,long_chau,10,2026_07,unverified,2026-07-01
 10015.011,10015,01,Ninh Sơn,Tổ dân phố Ninh Sơn,tổ dân phố,ninh_son,11,2026_07,unverified,2026-07-01
-10015.012,10015,01,Phú Hòang Giáp,Tổ dân phố Phú Hòang Giáp,tổ dân phố,phu_hoang_giap,12,2026_07,unverified,2026-07-01
+10015.012,10015,01,Phú Hoàng Giáp,Tổ dân phố Phú Hoàng Giáp,tổ dân phố,phu_hoang_giap,12,2026_07,unverified,2026-07-01
 10015.013,10015,01,Phương Bản,Tổ dân phố Phương Bản,tổ dân phố,phuong_ban,13,2026_07,unverified,2026-07-01
 10015.014,10015,01,Phượng Đồng,Tổ dân phố Phượng Đồng,tổ dân phố,phuong_dong,14,2026_07,unverified,2026-07-01
 10015.015,10015,01,Phượng Nghĩa,Tổ dân phố Phượng Nghĩa,tổ dân phố,phuong_nghia,15,2026_07,unverified,2026-07-01
@@ -5850,7 +5691,7 @@ tdp_code,ward_code,province_code,name,full_name,unit_type,code_name,seq,arrangem
 10072.019,10072,01,Yên Duyệt,Thôn Yên Duyệt,thôn,yen_duyet,19,2026_07,unverified,2026-07-01
 10081.001,10081,01,Công An,Thôn Công An,thôn,cong_an,1,2026_07,unverified,2026-07-01
 10081.002,10081,01,Đồng Ké,Thôn Đồng Ké,thôn,dong_ke,2,2026_07,unverified,2026-07-01
-10081.003,10081,01,Hòang Văn Thụ,Thôn Hòang Văn Thụ,thôn,hoang_van_thu,3,2026_07,unverified,2026-07-01
+10081.003,10081,01,Hoàng Văn Thụ,Thôn Hoàng Văn Thụ,thôn,hoang_van_thu,3,2026_07,unverified,2026-07-01
 10081.004,10081,01,Hồng Tiến,Thôn Hồng Tiến,thôn,hong_tien,4,2026_07,unverified,2026-07-01
 10081.005,10081,01,Hữu Văn,Thôn Hữu Văn,thôn,huu_van,5,2026_07,unverified,2026-07-01
 10081.006,10081,01,Khôn Duy,Thôn Khôn Duy,thôn,khon_duy,6,2026_07,unverified,2026-07-01
@@ -5870,7 +5711,7 @@ tdp_code,ward_code,province_code,name,full_name,unit_type,code_name,seq,arrangem
 10096.005,10096,01,Hòa Phúc,Thôn Hòa Phúc,thôn,hoa_phuc,5,2026_07,unverified,2026-07-01
 10096.006,10096,01,Hồng Phong,Thôn Hồng Phong,thôn,hong_phong,6,2026_07,unverified,2026-07-01
 10096.007,10096,01,Lễ Khê,Thôn Lễ Khê,thôn,le_khe,7,2026_07,unverified,2026-07-01
-10096.008,10096,01,Lưu Hòang,Thôn Lưu Hòang,thôn,luu_hoang,8,2026_07,unverified,2026-07-01
+10096.008,10096,01,Lưu Hoàng,Thôn Lưu Hoàng,thôn,luu_hoang,8,2026_07,unverified,2026-07-01
 10096.009,10096,01,Mỗ Xá,Thôn Mỗ Xá,thôn,mo_xa,9,2026_07,unverified,2026-07-01
 10096.010,10096,01,Nhân Chính,Thôn Nhân Chính,thôn,nhan_chinh,10,2026_07,unverified,2026-07-01
 10096.011,10096,01,Phú Yên,Thôn Phú Yên,thôn,phu_yen,11,2026_07,unverified,2026-07-01
@@ -5922,12 +5763,12 @@ tdp_code,ward_code,province_code,name,full_name,unit_type,code_name,seq,arrangem
 10144.012,10144,01,Thạch Đan,Thôn Thạch Đan,thôn,thach_dan,12,2026_07,unverified,2026-07-01
 10144.013,10144,01,Văn Xá,Thôn Văn Xá,thôn,van_xa,13,2026_07,unverified,2026-07-01
 10144.014,10144,01,Vĩnh Dụ,Thôn Vĩnh Dụ,thôn,vinh_du,14,2026_07,unverified,2026-07-01
-10180.001,10180,01,Canh Họach,Tổ dân phố Canh Họach,tổ dân phố,canh_hoach,1,2026_07,unverified,2026-07-01
+10180.001,10180,01,Canh Hoạch,Tổ dân phố Canh Hoạch,tổ dân phố,canh_hoach,1,2026_07,unverified,2026-07-01
 10180.002,10180,01,Áng Phao,Tổ dân phố Áng Phao,tổ dân phố,ang_phao,2,2026_07,unverified,2026-07-01
 10180.003,10180,01,Cao Xá,Tổ dân phố Cao Xá,tổ dân phố,cao_xa,3,2026_07,unverified,2026-07-01
 10180.004,10180,01,Châu Mai,Tổ dân phố Châu Mai,tổ dân phố,chau_mai,4,2026_07,unverified,2026-07-01
 10180.005,10180,01,Đồng Tiến,Tổ dân phố Đồng Tiến,tổ dân phố,dong_tien,5,2026_07,unverified,2026-07-01
-10180.006,10180,01,Hòang Kỳ,Tổ dân phố Hòang Kỳ,tổ dân phố,hoang_ky,6,2026_07,unverified,2026-07-01
+10180.006,10180,01,Hoàng Kỳ,Tổ dân phố Hoàng Kỳ,tổ dân phố,hoang_ky,6,2026_07,unverified,2026-07-01
 10180.007,10180,01,Mục Xá,Tổ dân phố Mục Xá,tổ dân phố,muc_xa,7,2026_07,unverified,2026-07-01
 10180.008,10180,01,Ngọc Đình,Tổ dân phố Ngọc Đình,tổ dân phố,ngoc_dinh,8,2026_07,unverified,2026-07-01
 10180.009,10180,01,Phú An Tiên,Tổ dân phố Phú An Tiên,tổ dân phố,phu_an_tien,9,2026_07,unverified,2026-07-01
@@ -5995,7 +5836,7 @@ tdp_code,ward_code,province_code,name,full_name,unit_type,code_name,seq,arrangem
 10237.002,10237,01,Chương Dương,Thôn Chương Dương,thôn,chuong_duong,2,2026_07,unverified,2026-07-01
 10237.003,10237,01,Đông Duyên,Thôn Đông Duyên,thôn,dong_duyen,3,2026_07,unverified,2026-07-01
 10237.004,10237,01,Hà Vỹ,Thôn Hà Vỹ,thôn,ha_vy,4,2026_07,unverified,2026-07-01
-10237.005,10237,01,Hòang Long,Thôn Hòang Long,thôn,hoang_long,5,2026_07,unverified,2026-07-01
+10237.005,10237,01,Hoàng Long,Thôn Hoàng Long,thôn,hoang_long,5,2026_07,unverified,2026-07-01
 10237.006,10237,01,Kỳ Lộc,Thôn Kỳ Lộc,thôn,ky_loc,6,2026_07,unverified,2026-07-01
 10237.007,10237,01,Lê Lợi,Thôn Lê Lợi,thôn,le_loi,7,2026_07,unverified,2026-07-01
 10237.008,10237,01,Thắng Lợi,Thôn Thắng Lợi,thôn,thang_loi,8,2026_07,unverified,2026-07-01
@@ -6038,11 +5879,11 @@ tdp_code,ward_code,province_code,name,full_name,unit_type,code_name,seq,arrangem
 10273.031,10273,01,Vạn Điểm,Thôn Vạn Điểm,thôn,van_diem,31,2026_07,unverified,2026-07-01
 10273.032,10273,01,Văn Minh,Thôn Văn Minh,thôn,van_minh,32,2026_07,unverified,2026-07-01
 10279.001,10279,01,An Mỹ,Thôn An Mỹ,thôn,an_my,1,2026_07,unverified,2026-07-01
-10279.002,10279,01,Đào Hòang,Thôn Đào Hòang,thôn,dao_hoang,2,2026_07,unverified,2026-07-01
+10279.002,10279,01,Đào Hoàng,Thôn Đào Hoàng,thôn,dao_hoang,2,2026_07,unverified,2026-07-01
 10279.003,10279,01,Đại Thắng,Thôn Đại Thắng,thôn,dai_thang,3,2026_07,unverified,2026-07-01
 10279.004,10279,01,Đồng Tiến,Thôn Đồng Tiến,thôn,dong_tien,4,2026_07,unverified,2026-07-01
-10279.005,10279,01,Hòang Long,Thôn Hòang Long,thôn,hoang_long,5,2026_07,unverified,2026-07-01
-10279.006,10279,01,Hòang Lưu,Thôn Hòang Lưu,thôn,hoang_luu,6,2026_07,unverified,2026-07-01
+10279.005,10279,01,Hoàng Long,Thôn Hoàng Long,thôn,hoang_long,5,2026_07,unverified,2026-07-01
+10279.006,10279,01,Hoàng Lưu,Thôn Hoàng Lưu,thôn,hoang_luu,6,2026_07,unverified,2026-07-01
 10279.007,10279,01,Hòa Mỹ,Thôn Hòa Mỹ,thôn,hoa_my,7,2026_07,unverified,2026-07-01
 10279.008,10279,01,Hồng Minh,Thôn Hồng Minh,thôn,hong_minh,8,2026_07,unverified,2026-07-01
 10279.009,10279,01,Kim Long Thượng,Thôn Kim Long Thượng,thôn,kim_long_thuong,9,2026_07,unverified,2026-07-01
@@ -6050,10 +5891,10 @@ tdp_code,ward_code,province_code,name,full_name,unit_type,code_name,seq,arrangem
 10279.011,10279,01,Phú Đôi,Thôn Phú Đôi,thôn,phu_doi,11,2026_07,unverified,2026-07-01
 10279.012,10279,01,Phú Túc,Thôn Phú Túc,thôn,phu_tuc,12,2026_07,unverified,2026-07-01
 10279.013,10279,01,Phượng Vũ,Thôn Phượng Vũ,thôn,phuong_vu,13,2026_07,unverified,2026-07-01
-10279.014,10279,01,Thanh Hòang,Thôn Thanh Hòang,thôn,thanh_hoang,14,2026_07,unverified,2026-07-01
+10279.014,10279,01,Thanh Hoàng,Thôn Thanh Hoàng,thôn,thanh_hoang,14,2026_07,unverified,2026-07-01
 10279.015,10279,01,Tri Chỉ,Thôn Tri Chỉ,thôn,tri_chi,15,2026_07,unverified,2026-07-01
 10279.016,10279,01,Trung Lập,Thôn Trung Lập,thôn,trung_lap,16,2026_07,unverified,2026-07-01
-10279.017,10279,01,Văn Hòang,Thôn Văn Hòang,thôn,van_hoang,17,2026_07,unverified,2026-07-01
+10279.017,10279,01,Văn Hoàng,Thôn Văn Hoàng,thôn,van_hoang,17,2026_07,unverified,2026-07-01
 10279.018,10279,01,Văn Trai,Thôn Văn Trai,thôn,van_trai,18,2026_07,unverified,2026-07-01
 10279.019,10279,01,Xuân La,Thôn Xuân La,thôn,xuan_la,19,2026_07,unverified,2026-07-01
 10330.001,10330,01,Bài Lễ,Thôn Bài Lễ,thôn,bai_le,1,2026_07,unverified,2026-07-01
@@ -6079,8 +5920,8 @@ tdp_code,ward_code,province_code,name,full_name,unit_type,code_name,seq,arrangem
 10342.005,10342,01,Cổ Chế,Thôn Cổ Chế,thôn,co_che,5,2026_07,unverified,2026-07-01
 10342.006,10342,01,Cổ Trai,Thôn Cổ Trai,thôn,co_trai,6,2026_07,unverified,2026-07-01
 10342.007,10342,01,Đa Thái,Thôn Đa Thái,thôn,da_thai,7,2026_07,unverified,2026-07-01
-10342.008,10342,01,Đông Đòai,Thôn Đông Đòai,thôn,dong_doai,8,2026_07,unverified,2026-07-01
-10342.009,10342,01,Hòang Nguyên,Thôn Hòang Nguyên,thôn,hoang_nguyen,9,2026_07,unverified,2026-07-01
+10342.008,10342,01,Đông Đoài,Thôn Đông Đoài,thôn,dong_doai,8,2026_07,unverified,2026-07-01
+10342.009,10342,01,Hoàng Nguyên,Thôn Hoàng Nguyên,thôn,hoang_nguyen,9,2026_07,unverified,2026-07-01
 10342.010,10342,01,Hòa Khê,Thôn Hòa Khê,thôn,hoa_khe,10,2026_07,unverified,2026-07-01
 10342.011,10342,01,Khai Thái,Thôn Khai Thái,thôn,khai_thai,11,2026_07,unverified,2026-07-01
 10342.012,10342,01,Khả Liễu,Thôn Khả Liễu,thôn,kha_lieu,12,2026_07,unverified,2026-07-01
@@ -6097,11 +5938,11 @@ tdp_code,ward_code,province_code,name,full_name,unit_type,code_name,seq,arrangem
 10342.023,10342,01,Vĩnh Xuân,Thôn Vĩnh Xuân,thôn,vinh_xuan,23,2026_07,unverified,2026-07-01
 10354.001,10354,01,Cao Dương,Thôn Cao Dương,thôn,cao_duong,1,2026_07,unverified,2026-07-01
 10354.002,10354,01,Dương Khê,Thôn Dương Khê,thôn,duong_khe,2,2026_07,unverified,2026-07-01
-10354.003,10354,01,Đòan Xá,Thôn Đòan Xá,thôn,doan_xa,3,2026_07,unverified,2026-07-01
+10354.003,10354,01,Đoàn Xá,Thôn Đoàn Xá,thôn,doan_xa,3,2026_07,unverified,2026-07-01
 10354.004,10354,01,Đông Dương,Thôn Đông Dương,thôn,dong_duong,4,2026_07,unverified,2026-07-01
 10354.005,10354,01,Động Phí,Thôn Động Phí,thôn,dong_phi,5,2026_07,unverified,2026-07-01
 10354.006,10354,01,Hậu Xá,Thôn Hậu Xá,thôn,hau_xa,6,2026_07,unverified,2026-07-01
-10354.007,10354,01,Hòang Xá,Thôn Hòang Xá,thôn,hoang_xa,7,2026_07,unverified,2026-07-01
+10354.007,10354,01,Hoàng Xá,Thôn Hoàng Xá,thôn,hoang_xa,7,2026_07,unverified,2026-07-01
 10354.008,10354,01,Nghi Lộc,Thôn Nghi Lộc,thôn,nghi_loc,8,2026_07,unverified,2026-07-01
 10354.009,10354,01,Ngọ Xá,Thôn Ngọ Xá,thôn,ngo_xa,9,2026_07,unverified,2026-07-01
 10354.010,10354,01,Ngọc Động,Thôn Ngọc Động,thôn,ngoc_dong,10,2026_07,unverified,2026-07-01
@@ -6133,7 +5974,7 @@ tdp_code,ward_code,province_code,name,full_name,unit_type,code_name,seq,arrangem
 10369.014,10369,01,Trần Đăng,Thôn Trần Đăng,thôn,tran_dang,14,2026_07,unverified,2026-07-01
 10369.015,10369,01,Trung Thượng,Thôn Trung Thượng,thôn,trung_thuong,15,2026_07,unverified,2026-07-01
 10369.016,10369,01,Trường Thịnh,Thôn Trường Thịnh,thôn,truong_thinh,16,2026_07,unverified,2026-07-01
-10369.017,10369,01,Viên Ngọai,Thôn Viên Ngọai,thôn,vien_ngoai,17,2026_07,unverified,2026-07-01
+10369.017,10369,01,Viên Ngoại,Thôn Viên Ngoại,thôn,vien_ngoai,17,2026_07,unverified,2026-07-01
 10369.018,10369,01,Viên Nội,Thôn Viên Nội,thôn,vien_noi,18,2026_07,unverified,2026-07-01
 10369.019,10369,01,Xà Cầu,Thôn Xà Cầu,thôn,xa_cau,19,2026_07,unverified,2026-07-01
 10402.001,10402,01,An Phú,Thôn An Phú,thôn,an_phu,1,2026_07,unverified,2026-07-01
@@ -6158,7 +5999,7 @@ tdp_code,ward_code,province_code,name,full_name,unit_type,code_name,seq,arrangem
 10417.004,10417,01,Đinh Xuyên,Thôn Đinh Xuyên,thôn,dinh_xuyen,4,2026_07,unverified,2026-07-01
 10417.005,10417,01,Đội Bình,Thôn Đội Bình,thôn,doi_binh,5,2026_07,unverified,2026-07-01
 10417.006,10417,01,Hữu Vĩnh,Thôn Hữu Vĩnh,thôn,huu_vinh,6,2026_07,unverified,2026-07-01
-10417.007,10417,01,Lưu Hòang,Thôn Lưu Hòang,thôn,luu_hoang,7,2026_07,unverified,2026-07-01
+10417.007,10417,01,Lưu Hoàng,Thôn Lưu Hoàng,thôn,luu_hoang,7,2026_07,unverified,2026-07-01
 10417.008,10417,01,Nội Xá,Thôn Nội Xá,thôn,noi_xa,8,2026_07,unverified,2026-07-01
 10417.009,10417,01,Phù Lưu,Thôn Phù Lưu,thôn,phu_luu,9,2026_07,unverified,2026-07-01
 10417.010,10417,01,Thái Bình,Thôn Thái Bình,thôn,thai_binh,10,2026_07,unverified,2026-07-01
@@ -6185,9 +6026,9 @@ tdp_code,ward_code,province_code,name,full_name,unit_type,code_name,seq,arrangem
 10459.002,10459,01,Đồng Mít,Thôn Đồng Mít,thôn,dong_mit,2,2026_07,unverified,2026-07-01
 10459.003,10459,01,Giáp Ba,Thôn Giáp Ba,thôn,giap_ba,3,2026_07,unverified,2026-07-01
 10459.004,10459,01,Giáp Bốn,Thôn Giáp Bốn,thôn,giap_bon,4,2026_07,unverified,2026-07-01
-10459.005,10459,01,Giữa Qúyt,Thôn Giữa Qúyt,thôn,giua_quyt,5,2026_07,unverified,2026-07-01
-10459.006,10459,01,Hòanh 1,Thôn Hòanh 1,thôn,hoanh_1,6,2026_07,unverified,2026-07-01
-10459.007,10459,01,Hòanh 2,Thôn Hòanh 2,thôn,hoanh_2,7,2026_07,unverified,2026-07-01
+10459.005,10459,01,Giữa Quýt,Thôn Giữa Quýt,thôn,giua_quyt,5,2026_07,unverified,2026-07-01
+10459.006,10459,01,Hoành 1,Thôn Hoành 1,thôn,hoanh_1,6,2026_07,unverified,2026-07-01
+10459.007,10459,01,Hoành 2,Thôn Hoành 2,thôn,hoanh_2,7,2026_07,unverified,2026-07-01
 10459.008,10459,01,Lai Tảo,Thôn Lai Tảo,thôn,lai_tao,8,2026_07,unverified,2026-07-01
 10459.009,10459,01,Mỹ Thành,Thôn Mỹ Thành,thôn,my_thanh,9,2026_07,unverified,2026-07-01
 10459.010,10459,01,Nội Thượng Lâm,Thôn Nội Thượng Lâm,thôn,noi_thuong_lam,10,2026_07,unverified,2026-07-01
@@ -6202,7 +6043,7 @@ tdp_code,ward_code,province_code,name,full_name,unit_type,code_name,seq,arrangem
 10465.002,10465,01,Áng Thượng,Thôn Áng Thượng,thôn,ang_thuong,2,2026_07,unverified,2026-07-01
 10465.003,10465,01,Đặng,Thôn Đặng,thôn,dang,3,2026_07,unverified,2026-07-01
 10465.004,10465,01,Đoan Nữ,Thôn Đoan Nữ,thôn,doan_nu,4,2026_07,unverified,2026-07-01
-10465.005,10465,01,Đòai,Thôn Đòai,thôn,doai,5,2026_07,unverified,2026-07-01
+10465.005,10465,01,Đoài,Thôn Đoài,thôn,doai,5,2026_07,unverified,2026-07-01
 10465.006,10465,01,Đức Thụ,Thôn Đức Thụ,thôn,duc_thu,6,2026_07,unverified,2026-07-01
 10465.007,10465,01,Gò Mái,Thôn Gò Mái,thôn,go_mai,7,2026_07,unverified,2026-07-01
 10465.008,10465,01,Hạ Phùng Xá,Thôn Hạ Phùng Xá,thôn,ha_phung_xa,8,2026_07,unverified,2026-07-01

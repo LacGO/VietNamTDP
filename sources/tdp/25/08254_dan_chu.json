@@ -5,11 +5,11 @@
   "resolution": "",
   "arrangement": "truoc_2026_07",
   "effective_date": "",
-  "verified": "unverified",
+  "verified": "pending",
   "extraction": {
     "source": "vi.wikipedia.org",
     "title": "(cache)",
-    "mode": "narrative"
+    "mode": "count-only"
   },
   "sources": [
     {
@@ -34,59 +34,7 @@
       "type": "wikipedia-ref"
     }
   ],
-  "note": "Trích tự động từ Wikipedia tiếng Việt (mode=narrative). Cần đối chiếu nghị quyết HĐND phường/xã. ⚠️ Danh mục có thể là hiện trạng TRƯỚC sắp xếp thôn/TDP 01/7/2026 — Wikipedia chưa cập nhật nghị quyết mới.",
-  "tdp": [
-    {
-      "name": "1",
-      "type": "khu"
-    },
-    {
-      "name": "2",
-      "type": "khu"
-    },
-    {
-      "name": "3",
-      "type": "khu"
-    },
-    {
-      "name": "4",
-      "type": "khu"
-    },
-    {
-      "name": "5",
-      "type": "khu"
-    },
-    {
-      "name": "6",
-      "type": "khu"
-    },
-    {
-      "name": "7",
-      "type": "khu"
-    },
-    {
-      "name": "8 (xã Bảo Thanh cũ)",
-      "type": "khu"
-    },
-    {
-      "name": "8 (xã Gia Thanh cũ)",
-      "type": "khu"
-    },
-    {
-      "name": "8",
-      "type": "khu"
-    },
-    {
-      "name": "9 (xã Hạ Giáp cũ)",
-      "type": "khu"
-    },
-    {
-      "name": "9",
-      "type": "khu"
-    },
-    {
-      "name": "10 (xã Trị Quận cũ)",
-      "type": "khu"
-    }
-  ]
+  "note": "Wikipedia cho biết ~35 đơn vị nhưng chỉ ở dạng số/ghép theo đơn vị cũ — chưa có danh mục tên chính thức. Cần nghị quyết HĐND xã.",
+  "tdp": [],
+  "approx_count": 35
 }

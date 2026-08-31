@@ -10,10 +10,9 @@
 |thời điểm dân số=2025
 |dân số=56.428 người
 | mật độ dân số = {{formatnum:{{#expr:floor({{formatnum:56.428| R}}/{{formatnum:25,00| R}})}} }} người/km²
-|cỡ hình=
 |hình=UTTVinhYen.jpg
-|ghi chú hình=Trường Đại học Công nghệ Giao thông Vận tải - Cơ sở Vĩnh Yên
-}}
+|ghi chú hình=Trường Đại học Công nghệ Giao thông Vận tải – Cơ sở Vĩnh Yên
+|logo=Logo phường Vĩnh Yên.png|ghi chú logo=Biểu trưng}}
 {{other|Vĩnh Yên (định hướng)}}
 '''Vĩnh Yên''' là một phường thuộc tỉnh [[Phú Thọ]], [[Việt Nam]]. Tên phường kế thừa tên của thành phố [[Vĩnh Yên (thành phố)|Vĩnh Yên]] trước kia.
 
@@ -73,7 +72,7 @@ Sau khi thực hiện sắp xếp, đổi tên các tổ dân phố, phường V
 Phường Vĩnh Yên hiện tại có các cơ sở giáo dục sau:
 
 * Đại học Công nghệ Giao thông Vận tải.
-* Cao đẳng Kỹ thuật - Công nghệ Vĩnh Phúc.
+* Cao đẳng Kỹ thuật – Công nghệ Vĩnh Phúc.
 * Trường THPT Vĩnh Yên.
 * Trường THPT Kim Ngọc.
 * Trường THPT Đào Duy Từ.
@@ -82,16 +81,16 @@ Phường Vĩnh Yên hiện tại có các cơ sở giáo dục sau:
 Trong những năm qua, hệ thống cơ sở hạ tầng y tế trên địa bàn đô thị luôn nhận được sự quan tâm của các cấp, ngành trong tỉnh để cải tạo, nâng cấp trang thiết bị và đầu tư xây dựng mới. Do vậy, đến nay hầu hết các cơ sở y tế có chất lượng kiên cố và đều trong tình trạng hoạt động tốt, đảm bảo đáp ứng cho nhu cầu khám chữa bệnh của nhân dân. Các cơ sở y tế trên địa bàn phường hiện nay bao gồm:
 
 * Bệnh viện Quân y 109.
-* Bệnh viện Sản - Nhi.
-* Bệnh viện Điều dưỡng - Phục hồi chức năng.
+* Bệnh viện Sản – Nhi.
+* Bệnh viện Điều dưỡng – Phục hồi chức năng.
 
-== Văn hóa - Du lịch ==
+== Văn hóa – Du lịch ==
 <!-- 
 Trong xã Thanh Trù có rất nhiều danh di tích lịch sử cần được tu bổ như: Đền Bà(Vinh Quang, Xã Thanh Trù, Vĩnh Yên, Vĩnh Phúc), Đình Thượng (Xóm Đoài, Xã Thanh Trù, Vĩnh Yên, Vĩnh Phúc), Đình Hạ (Xóm Đồng, Xã Thanh Trù, Vĩnh Yên, Vĩnh Phúc), Chùa Mai Sơn Tự (Xóm Rừng, Xã Thanh Trù, Vĩnh Yên, Vĩnh Phúc)...Sự tu bổ hệ thống đền chùa tại đây là hết sức cần thiết, bởi vì đa phần đã xuống cấp một cách nghiêm trọng do sự tàn phá của môi trường nơi đây.
 
  -->
 === Đặc sản ===
-Tép dầu [[đầm Vạc]] là nơi sản sinh ra loại tép được tán tụng. Tép dầu đầm Vạc có chiều dài từ 5 – 7&nbsp;cm, chiều ngang chừng 1&nbsp;cm. Mùa thu hoạch tép dầu từ tháng 8 - 10; khi đó, bụng tép dầu chứa đầy trứng. Tép dầu đầm Vạc xương ít và mềm, rán ăn giòn tan, béo ngậy, kho tương vừa ngọt vừa bùi.<ref>{{Chú thích web |date=2019-01-22 |title=Tép Dầu Đầm Vạc |url=https://vinhphuc.gov.vn/tet/Lists/NghienCuuTraoDoi/View_Detail.aspx?ItemID=17 |url-status=live |archive-url=https://web.archive.org/web/20250705054019/https://vinhphuc.gov.vn/tet/Lists/NghienCuuTraoDoi/View_Detail.aspx?ItemID=17 |archive-date=2025-07-05 |access-date=2025-07-03 |website=Cổng Thông tin - Giao tiếp Điện tử tỉnh Vĩnh Phúc |language=}}</ref>
+Tép dầu [[đầm Vạc]] là nơi sản sinh ra loại tép được tán tụng. Tép dầu đầm Vạc có chiều dài từ 5 – 7&nbsp;cm, chiều ngang chừng 1&nbsp;cm. Mùa thu hoạch tép dầu từ tháng 8 – 10; khi đó, bụng tép dầu chứa đầy trứng. Tép dầu đầm Vạc xương ít và mềm, rán ăn giòn tan, béo ngậy, kho tương vừa ngọt vừa bùi.<ref>{{Chú thích web |date=2019-01-22 |title=Tép Dầu Đầm Vạc |url=https://vinhphuc.gov.vn/tet/Lists/NghienCuuTraoDoi/View_Detail.aspx?ItemID=17 |url-status=live |archive-url=https://web.archive.org/web/20250705054019/https://vinhphuc.gov.vn/tet/Lists/NghienCuuTraoDoi/View_Detail.aspx?ItemID=17 |archive-date=2025-07-05 |access-date=2025-07-03 |website=Cổng Thông tin - Giao tiếp Điện tử tỉnh Vĩnh Phúc |language=}}</ref>
 
 {{Quote|text=Cỗ chín lợn, mười trâu
 Cũng không bằng tép dầu Đầm Vạc.}}

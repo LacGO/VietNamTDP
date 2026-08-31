@@ -3,22 +3,32 @@
 import re
 import unicodedata
 
-# Vietnamese tone-mark placement variants (old vs new orthography).
-# e.g. "Hoà" (old) vs "Hòa" (new); "Thuỷ" vs "Thủy".
-_TONE_VARIANTS = {
-    "oà": "òa", "oá": "óa", "oả": "ỏa", "oã": "õa", "oạ": "ọa",
-    "oè": "òe", "oé": "óe", "oẻ": "ỏe", "oẽ": "õe", "oẹ": "ọe",
-    "uỳ": "ùy", "uý": "úy", "uỷ": "ủy", "uỹ": "ũy", "uỵ": "ụy",
-    "Oà": "Òa", "Oá": "Óa", "Oả": "Ỏa", "Oã": "Õa", "Oạ": "Ọa",
-    "Uỳ": "Ùy", "Uý": "Úy", "Uỷ": "Ủy", "Uỹ": "Ũy", "Uỵ": "Ụy",
-}
+# Vietnamese tone-mark placement variants (old "kiểu cũ" vs new orthography).
+# Chỉ dời dấu khi "oa/oe/uy" là âm cuối của âm tiết (hoà→hòa, thuỷ→thủy);
+# GIỮ NGUYÊN khi còn phụ âm cuối (hoàng, xoàng, quýnh) — dấu đã đúng chỗ.
+_PAIRS_O = [
+    ("oà", "òa"), ("oá", "óa"), ("oả", "ỏa"), ("oã", "õa"), ("oạ", "ọa"),
+    ("oè", "òe"), ("oé", "óe"), ("oẻ", "ỏe"), ("oẽ", "õe"), ("oẹ", "ọe"),
+]
+_PAIRS_U = [
+    ("uỳ", "ùy"), ("uý", "úy"), ("uỷ", "ủy"), ("uỹ", "ũy"), ("uỵ", "ụy"),
+]
+_AFTER = r"(?![A-Za-zÀ-ỹ])"          # âm tiết kết thúc ở đây (không phụ âm cuối)
+_RX = [(re.compile(re.escape(a) + _AFTER, re.I), a, b) for a, b in _PAIRS_O]
+# "uy": bỏ qua khi đứng ngay sau "q" (quý, quỳ… vốn đã đúng)
+_RX += [(re.compile(r"(?<![Qq])" + re.escape(a) + _AFTER, re.I), a, b) for a, b in _PAIRS_U]
+
+
+def _swapcase_match(orig_lower_pair, repl_lower, matched):
+    # giữ hoa/thường theo ký tự đầu của cụm khớp
+    return repl_lower[0].upper() + repl_lower[1:] if matched[0].isupper() else repl_lower
 
 
 def canon_tone(s: str) -> str:
-    """Canonicalise tone-mark placement to the 'new' orthography."""
+    """Canonicalise tone-mark placement to the 'new' orthography (an toàn)."""
     s = unicodedata.normalize("NFC", s)
-    for a, b in _TONE_VARIANTS.items():
-        s = s.replace(a, b)
+    for rx, a, b in _RX:
+        s = rx.sub(lambda m: _swapcase_match(a, b, m.group(0)), s)
     return s
 
 
