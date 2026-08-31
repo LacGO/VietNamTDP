@@ -31,7 +31,7 @@ WIKI_CACHE = ROOT / "sources" / "raw" / "wiki"
 OUT = ROOT / "sources" / "tdp"
 WIKI_CACHE.mkdir(parents=True, exist_ok=True)
 
-UA = "VietNamTDP-dataset/0.1 (open data; https://github.com/)"
+UA = "VietNamTDP-dataset/0.1 (open data; https://github.com/LacGO/VietNamTDP)"
 API = "https://vi.wikipedia.org/w/index.php"
 
 

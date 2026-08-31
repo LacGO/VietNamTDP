@@ -1,5 +1,7 @@
 # CSDL Tổ dân phố Việt Nam — Hà Nội & Phú Thọ
 
+Repo: <https://github.com/LacGO/VietNamTDP>
+
 > Cơ sở dữ liệu mở về đơn vị hành chính Việt Nam **3 cấp**: tỉnh/thành → phường/xã → **tổ dân phố / thôn**,
 > theo bộ máy sau sắp xếp (cấp tỉnh & cấp xã hiệu lực **01/07/2025**, cấp tổ dân phố/thôn hiệu lực **01/07/2026**).
 > Giai đoạn 1 tập trung **Thành phố Hà Nội** và **tỉnh Phú Thọ** (mới — hợp nhất Phú Thọ + Vĩnh Phúc + Hòa Bình).
