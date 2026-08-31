@@ -1757,17 +1757,17 @@ tdp_code,ward_code,province_code,name,full_name,unit_type,code_name,seq,arrangem
 04960.042,04960,25,Thành Sơn,Thôn Thành Sơn,thôn,thanh_son,42,truoc_2026_07,unverified,
 04960.043,04960,25,Trại Hòa,Thôn Trại Hòa,thôn,trai_hoa,43,truoc_2026_07,unverified,
 04960.044,04960,25,Vai Đào,Thôn Vai Đào,thôn,vai_dao,44,truoc_2026_07,unverified,
-04990.001,04990,25,Mường Tú (sắp xếp xóm Bái Tam và xóm Vó Mái),Thôn Mường Tú (sắp xếp xóm Bái Tam và xóm Vó Mái),thôn,muong_tu_sap_xep_xom_bai_tam_va_xom_vo_mai,1,2026_07,primary,2026-07-01
-04990.002,04990,25,Đoàn Kết (sắp xếp xóm Đồng Bãi và xóm Gò Bùi),Thôn Đoàn Kết (sắp xếp xóm Đồng Bãi và xóm Gò Bùi),thôn,doan_ket_sap_xep_xom_dong_bai_va_xom_go_bui,2,2026_07,primary,2026-07-01
-04990.003,04990,25,Sáng Trong (sắp xếp xóm Sáng Trong và xóm Nước Đúc),Thôn Sáng Trong (sắp xếp xóm Sáng Trong và xóm Nước Đúc),thôn,sang_trong_sap_xep_xom_sang_trong_va_xom_nuoc_duc,3,2026_07,primary,2026-07-01
-04990.004,04990,25,Sáng Mới (sắp xếp xóm Sáng Mới và xóm Gò Tháu),Thôn Sáng Mới (sắp xếp xóm Sáng Mới và xóm Gò Tháu),thôn,sang_moi_sap_xep_xom_sang_moi_va_xom_go_thau,4,2026_07,primary,2026-07-01
-04990.005,04990,25,Tân Sơn (sắp xếp xóm Cuôi và xóm Láu Ráy),Thôn Tân Sơn (sắp xếp xóm Cuôi và xóm Láu Ráy),thôn,tan_son_sap_xep_xom_cuoi_va_xom_lau_ray,5,2026_07,primary,2026-07-01
-04990.006,04990,25,Bắc Sơn (sắp xếp xóm Hồi Trám và xóm Cầu),Thôn Bắc Sơn (sắp xếp xóm Hồi Trám và xóm Cầu),thôn,bac_son_sap_xep_xom_hoi_tram_va_xom_cau,6,2026_07,primary,2026-07-01
-04990.007,04990,25,Hùng Tiến (sắp xếp xóm Chỉ Ngoài và xóm Ba Bị),Thôn Hùng Tiến (sắp xếp xóm Chỉ Ngoài và xóm Ba Bị),thôn,hung_tien_sap_xep_xom_chi_ngoai_va_xom_ba_bi,7,2026_07,primary,2026-07-01
-04990.008,04990,25,Xuân Thủy (sắp xếp xóm Khớt và xóm Bèo),Thôn Xuân Thủy (sắp xếp xóm Khớt và xóm Bèo),thôn,xuan_thuy_sap_xep_xom_khot_va_xom_beo,8,2026_07,primary,2026-07-01
-04990.009,04990,25,Thượng Bì (sắp xếp xóm Ngheo và xóm Đầm Sáng),Thôn Thượng Bì (sắp xếp xóm Ngheo và xóm Đầm Sáng),thôn,thuong_bi_sap_xep_xom_ngheo_va_xom_dam_sang,9,2026_07,primary,2026-07-01
-04990.010,04990,25,Khoai Nè (sắp xếp xóm Khoai và xóm Bờ Nè),Thôn Khoai Nè (sắp xếp xóm Khoai và xóm Bờ Nè),thôn,khoai_ne_sap_xep_xom_khoai_va_xom_bo_ne,10,2026_07,primary,2026-07-01
-04990.011,04990,25,Bờ Rường (sắp xếp xóm Bờ và xóm Rường),Thôn Bờ Rường (sắp xếp xóm Bờ và xóm Rường),thôn,bo_ruong_sap_xep_xom_bo_va_xom_ruong,11,2026_07,primary,2026-07-01
+04990.001,04990,25,Mường Tú,Thôn Mường Tú,thôn,muong_tu,1,2026_07,primary,2026-07-01
+04990.002,04990,25,Đoàn Kết,Thôn Đoàn Kết,thôn,doan_ket,2,2026_07,primary,2026-07-01
+04990.003,04990,25,Sáng Trong,Thôn Sáng Trong,thôn,sang_trong,3,2026_07,primary,2026-07-01
+04990.004,04990,25,Sáng Mới,Thôn Sáng Mới,thôn,sang_moi,4,2026_07,primary,2026-07-01
+04990.005,04990,25,Tân Sơn,Thôn Tân Sơn,thôn,tan_son,5,2026_07,primary,2026-07-01
+04990.006,04990,25,Bắc Sơn,Thôn Bắc Sơn,thôn,bac_son,6,2026_07,primary,2026-07-01
+04990.007,04990,25,Hùng Tiến,Thôn Hùng Tiến,thôn,hung_tien,7,2026_07,primary,2026-07-01
+04990.008,04990,25,Xuân Thủy,Thôn Xuân Thủy,thôn,xuan_thuy,8,2026_07,primary,2026-07-01
+04990.009,04990,25,Thượng Bì,Thôn Thượng Bì,thôn,thuong_bi,9,2026_07,primary,2026-07-01
+04990.010,04990,25,Khoai Nè,Thôn Khoai Nè,thôn,khoai_ne,10,2026_07,primary,2026-07-01
+04990.011,04990,25,Bờ Rường,Thôn Bờ Rường,thôn,bo_ruong,11,2026_07,primary,2026-07-01
 04990.012,04990,25,Hang Lờm,Thôn Hang Lờm,thôn,hang_lom,12,2026_07,primary,2026-07-01
 04990.013,04990,25,Khăm,Thôn Khăm,thôn,kham,13,2026_07,primary,2026-07-01
 04990.014,04990,25,Khả,Thôn Khả,thôn,kha,14,2026_07,primary,2026-07-01

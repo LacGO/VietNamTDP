@@ -1311,57 +1311,57 @@
       "tdp": [
         {
           "tdp_code": "04990.001",
-          "name": "Mường Tú (sắp xếp xóm Bái Tam và xóm Vó Mái)",
+          "name": "Mường Tú",
           "unit_type": "thôn"
         },
         {
           "tdp_code": "04990.002",
-          "name": "Đoàn Kết (sắp xếp xóm Đồng Bãi và xóm Gò Bùi)",
+          "name": "Đoàn Kết",
           "unit_type": "thôn"
         },
         {
           "tdp_code": "04990.003",
-          "name": "Sáng Trong (sắp xếp xóm Sáng Trong và xóm Nước Đúc)",
+          "name": "Sáng Trong",
           "unit_type": "thôn"
         },
         {
           "tdp_code": "04990.004",
-          "name": "Sáng Mới (sắp xếp xóm Sáng Mới và xóm Gò Tháu)",
+          "name": "Sáng Mới",
           "unit_type": "thôn"
         },
         {
           "tdp_code": "04990.005",
-          "name": "Tân Sơn (sắp xếp xóm Cuôi và xóm Láu Ráy)",
+          "name": "Tân Sơn",
           "unit_type": "thôn"
         },
         {
           "tdp_code": "04990.006",
-          "name": "Bắc Sơn (sắp xếp xóm Hồi Trám và xóm Cầu)",
+          "name": "Bắc Sơn",
           "unit_type": "thôn"
         },
         {
           "tdp_code": "04990.007",
-          "name": "Hùng Tiến (sắp xếp xóm Chỉ Ngoài và xóm Ba Bị)",
+          "name": "Hùng Tiến",
           "unit_type": "thôn"
         },
         {
           "tdp_code": "04990.008",
-          "name": "Xuân Thủy (sắp xếp xóm Khớt và xóm Bèo)",
+          "name": "Xuân Thủy",
           "unit_type": "thôn"
         },
         {
           "tdp_code": "04990.009",
-          "name": "Thượng Bì (sắp xếp xóm Ngheo và xóm Đầm Sáng)",
+          "name": "Thượng Bì",
           "unit_type": "thôn"
         },
         {
           "tdp_code": "04990.010",
-          "name": "Khoai Nè (sắp xếp xóm Khoai và xóm Bờ Nè)",
+          "name": "Khoai Nè",
           "unit_type": "thôn"
         },
         {
           "tdp_code": "04990.011",
-          "name": "Bờ Rường (sắp xếp xóm Bờ và xóm Rường)",
+          "name": "Bờ Rường",
           "unit_type": "thôn"
         },
         {

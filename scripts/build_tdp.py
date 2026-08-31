@@ -68,8 +68,10 @@ def main():
         for i, t in enumerate(d.get("tdp", []), start=1):
             unit = t.get("type", "tổ dân phố")
             # name = phần định danh (bỏ tiền tố loại đơn vị nếu có)
-            name = re.sub(r"^(Tổ dân phố|Tổ dân số|Thôn|Khu phố|Khu|Bản|Xóm|Làng)\s+",
+            name = re.sub(r"\s*\((?:sắp xếp|sáp nhập|hợp nhất|gồm|trên cơ sở|đổi tên)[^)]*\)",
                           "", t["name"], flags=re.I).strip()
+            name = re.sub(r"^(Tổ dân phố|Tổ dân số|Thôn|Khu phố|Khu|Bản|Xóm|Làng)\s+",
+                          "", name, flags=re.I).strip()
             name = re.sub(r"^số\s+", "", name).strip() or t["name"]
             full = f"{unit[0].upper()}{unit[1:]} {name}"
             tdp_rows.append(

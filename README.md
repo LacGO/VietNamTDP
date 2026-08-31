@@ -14,9 +14,9 @@ An open dataset of Vietnam's administrative units at **three levels** — provin
 | Tỉnh/thành | NQ 202/2025/QH15 (34 tỉnh/thành) | 2 (Hà Nội `01`, Phú Thọ `25`) | ✅ đầy đủ, có mã |
 | Phường/xã | NQ 1656/NQ-UBTVQH15 (Hà Nội), NQ 1676/NQ-UBTVQH15 (Phú Thọ) | 126 + 148 = **274** | ✅ đầy đủ, có mã chính thức (GSO) |
 | Ánh xạ ĐVHC cũ → mới | 2 nghị quyết trên | **1.277** dòng | ✅ trích tự động từ toàn văn |
-| Tổ dân phố / thôn — **đúng mốc 01/7/2026** | NĐ 185/2026/NĐ-CP + nghị quyết/đề án HĐND **từng phường/xã** | **Hà Nội: 114/126 phường/xã (~2.480 TDP)** · **Phú Thọ: 19/148 (~450 đơn vị)** | 🚧 xem [docs/STATUS.md](docs/STATUS.md) |
-| Tổ dân phố / thôn — hiện trạng **trước 01/7/2026** | Wikipedia tiếng Việt (dẫn nguồn) | Phú Thọ: 120/148 phường/xã (~3.150 đơn vị) · Hà Nội: 5/126 | ⚠️ dữ liệu nền, chưa phải bộ máy mới |
-| _(chưa có dữ liệu)_ | — | Hà Nội: 7 · Phú Thọ: 9 | ⛔ chưa công bố công khai |
+| Tổ dân phố / thôn — **đúng mốc 01/7/2026** | NĐ 185/2026/NĐ-CP + nghị quyết/đề án HĐND **từng phường/xã** | **Hà Nội: 117/126 phường/xã (~2.500 TDP)** · **Phú Thọ: 22/148 (~500 đơn vị)** | 🚧 xem [docs/STATUS.md](docs/STATUS.md) |
+| Tổ dân phố / thôn — hiện trạng **trước 01/7/2026** | Wikipedia tiếng Việt (dẫn nguồn) | Phú Thọ: 117/148 phường/xã (~3.100 đơn vị) · Hà Nội: 5/126 | ⚠️ dữ liệu nền, chưa phải bộ máy mới |
+| _(chưa có dữ liệu)_ | — | Hà Nội: 4 · Phú Thọ: 9 | ⛔ chưa công bố công khai |
 
 > ⚠️ **Cấp tổ dân phố chưa đầy đủ và có 2 mốc thời gian.** Danh mục TDP/thôn mới do HĐND **cấp xã** quyết định
 > (mỗi phường/xã một nghị quyết, ban hành rải rác 5–9/2026); **chưa cơ quan nào tổng hợp công khai** và nhiều
@@ -71,6 +71,8 @@ Thiếu / sai danh mục TDP của một phường/xã?
 ```bash
 python3 scripts/add_ward.py <mã xã> "<url bài viết>" --title "..." --date 2026-06-26
 # hoặc chỉ định thẳng: --pdf "<url .pdf>" | --names "Thôn A;Thôn B;..." | --range 50
+python3 scripts/scrape_danviet.py <mã xã> "<url bài Báo Dân Việt>"   # bài đăng toàn văn nghị quyết
+python3 scripts/scrape_portals.py --codes <mã xã>                     # tự dò cổng TTĐT phường/xã
 ```
 **Cách thủ công** — thêm/sửa `sources/tdp/<mã tỉnh>/<mã xã>_<slug>.json`
 (mẫu: `01/00070_hoan_kiem.json`), kèm ít nhất một nguồn trong `sources[]`, đặt `arrangement`
