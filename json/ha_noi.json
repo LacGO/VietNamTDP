@@ -7039,7 +7039,118 @@
       "name": "Xuân Đỉnh",
       "full_name": "Phường Xuân Đỉnh",
       "unit_type": "Phường",
-      "tdp": []
+      "tdp": [
+        {
+          "tdp_code": "00611.001",
+          "name": "Xuân Trung",
+          "unit_type": "tổ dân phố"
+        },
+        {
+          "tdp_code": "00611.002",
+          "name": "Cáo Đỉnh 1",
+          "unit_type": "tổ dân phố"
+        },
+        {
+          "tdp_code": "00611.003",
+          "name": "Cáo Đỉnh 2",
+          "unit_type": "tổ dân phố"
+        },
+        {
+          "tdp_code": "00611.004",
+          "name": "Xuân Lộc 1",
+          "unit_type": "tổ dân phố"
+        },
+        {
+          "tdp_code": "00611.005",
+          "name": "Xuân Lộc 2",
+          "unit_type": "tổ dân phố"
+        },
+        {
+          "tdp_code": "00611.006",
+          "name": "Xuân Lộc 3",
+          "unit_type": "tổ dân phố"
+        },
+        {
+          "tdp_code": "00611.007",
+          "name": "Xuân Nhang",
+          "unit_type": "tổ dân phố"
+        },
+        {
+          "tdp_code": "00611.008",
+          "name": "Trung 1",
+          "unit_type": "tổ dân phố"
+        },
+        {
+          "tdp_code": "00611.009",
+          "name": "Trung 2",
+          "unit_type": "tổ dân phố"
+        },
+        {
+          "tdp_code": "00611.010",
+          "name": "Trung 3",
+          "unit_type": "tổ dân phố"
+        },
+        {
+          "tdp_code": "00611.011",
+          "name": "Xuân Tảo 1",
+          "unit_type": "tổ dân phố"
+        },
+        {
+          "tdp_code": "00611.012",
+          "name": "Xuân Tảo 2",
+          "unit_type": "tổ dân phố"
+        },
+        {
+          "tdp_code": "00611.013",
+          "name": "Xuân Tảo 3",
+          "unit_type": "tổ dân phố"
+        },
+        {
+          "tdp_code": "00611.014",
+          "name": "Xuân Tảo 4",
+          "unit_type": "tổ dân phố"
+        },
+        {
+          "tdp_code": "00611.015",
+          "name": "Xuân Tảo 5",
+          "unit_type": "tổ dân phố"
+        },
+        {
+          "tdp_code": "00611.016",
+          "name": "Xuân Tảo 6",
+          "unit_type": "tổ dân phố"
+        },
+        {
+          "tdp_code": "00611.017",
+          "name": "Xuân Tảo 7",
+          "unit_type": "tổ dân phố"
+        },
+        {
+          "tdp_code": "00611.018",
+          "name": "Xuân Tảo 8",
+          "unit_type": "tổ dân phố"
+        },
+        {
+          "tdp_code": "00611.019",
+          "name": "Xuân Tảo 9",
+          "unit_type": "tổ dân phố"
+        },
+        {
+          "tdp_code": "00611.020",
+          "name": "Xuân La 1",
+          "unit_type": "tổ dân phố"
+        },
+        {
+          "tdp_code": "00611.021",
+          "name": "Xuân La 2",
+          "unit_type": "tổ dân phố"
+        },
+        {
+          "tdp_code": "00611.022",
+          "name": "Cổ Nhuế Hoàng",
+          "unit_type": "tổ dân phố"
+        }
+      ]
     },
     {
       "ward_code": "00613",

@@ -79,11 +79,42 @@ def links(html):
         yield m.group(1), txt
 
 
+def _score(t):
+    tl = canon_tone(t).lower()
+    s = 0
+    if "sử dụng tên gọi" in tl:
+        s += 6
+    if "nghị quyết" in tl:
+        s += 3
+    if "thông báo" in tl:
+        s += 1
+    if "thành lập" in tl and ("tổ dân phố" in tl or "thôn" in tl):
+        s += 3
+    if "đổi tên" in tl and ("thôn" in tl or "tổ dân phố" in tl):
+        s += 3
+    if "danh sách" in tl and ("thôn" in tl or "tổ dân phố" in tl):
+        s += 3
+    if "sau sắp xếp" in tl:
+        s += 2
+    for bad in ("hội nghị", "đóng góp ý kiến", "lấy ý kiến", "triển khai",
+                "phương án tổng thể", "dự thảo", "quy trình", "hướng dẫn",
+                "kế hoạch", "tuyên truyền", "chỉ thị", "sinh hoạt chi bộ"):
+        if bad in tl:
+            s -= 3
+    return s
+
+
 def find_article_urls(host):
     seen, found = set(), []
-    for sec in SECTIONS:
-        html = http_get(f"https://{host}{sec}")
-        time.sleep(0.2)
+    queue = [f"https://{host}{s}" for s in SECTIONS]
+    home = http_get(f"https://{host}")
+    for href, _ in links(home):
+        if re.search(r"(sat-nhap|sap-xep|khu-dan-cu|to-dan-pho|don-vi-hanh-chinh)",
+                     href, re.I):
+            queue.append(abs_url(host, href))
+    for url in list(dict.fromkeys(queue))[:18]:
+        html = http_get(url)
+        time.sleep(0.15)
         if not html:
             continue
         for href, txt in links(html):
@@ -94,25 +125,10 @@ def find_article_urls(host):
                 if u not in seen:
                     seen.add(u)
                     found.append((u, txt))
-        if len(found) >= 12:
+        if len([f for f in found if _score(f[1]) >= 3]) >= 3:
             break
-    # rank: prefer "sử dụng tên gọi" / "nghị quyết ... thành lập ... tổ dân phố"
-    def score(t):
-        s = 0
-        tl = t.lower()
-        if "sử dụng tên gọi" in tl:
-            s += 5
-        if "nghị quyết" in tl:
-            s += 3
-        if "thành lập" in tl and ("tổ dân phố" in tl or "thôn" in tl):
-            s += 3
-        if "đổi tên" in tl:
-            s += 2
-        if "danh sách" in tl:
-            s += 2
-        return s
-    found.sort(key=lambda x: -score(x[1]))
-    return found[:8]
+    found.sort(key=lambda x: -_score(x[1]))
+    return [f for f in found if _score(f[1]) > -2][:8]
 
 
 def parse_pdf_text(txt):

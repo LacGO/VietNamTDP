@@ -1326,6 +1326,28 @@ tdp_code,ward_code,province_code,name,full_name,unit_type,code_name,seq,arrangem
 00592.037,00592,01,37 Mỹ Đình,Tổ dân phố 37 Mỹ Đình,tổ dân phố,37_my_dinh,37,2026_07,unverified,2026-07-01
 00592.038,00592,01,38 Mỹ Đình,Tổ dân phố 38 Mỹ Đình,tổ dân phố,38_my_dinh,38,2026_07,unverified,2026-07-01
 00592.039,00592,01,39 Mỹ Đình,Tổ dân phố 39 Mỹ Đình,tổ dân phố,39_my_dinh,39,2026_07,unverified,2026-07-01
+00611.001,00611,01,Xuân Trung,Tổ dân phố Xuân Trung,tổ dân phố,xuan_trung,1,2026_07,primary,2026-07-01
+00611.002,00611,01,Cáo Đỉnh 1,Tổ dân phố Cáo Đỉnh 1,tổ dân phố,cao_dinh_1,2,2026_07,primary,2026-07-01
+00611.003,00611,01,Cáo Đỉnh 2,Tổ dân phố Cáo Đỉnh 2,tổ dân phố,cao_dinh_2,3,2026_07,primary,2026-07-01
+00611.004,00611,01,Xuân Lộc 1,Tổ dân phố Xuân Lộc 1,tổ dân phố,xuan_loc_1,4,2026_07,primary,2026-07-01
+00611.005,00611,01,Xuân Lộc 2,Tổ dân phố Xuân Lộc 2,tổ dân phố,xuan_loc_2,5,2026_07,primary,2026-07-01
+00611.006,00611,01,Xuân Lộc 3,Tổ dân phố Xuân Lộc 3,tổ dân phố,xuan_loc_3,6,2026_07,primary,2026-07-01
+00611.007,00611,01,Xuân Nhang,Tổ dân phố Xuân Nhang,tổ dân phố,xuan_nhang,7,2026_07,primary,2026-07-01
+00611.008,00611,01,Trung 1,Tổ dân phố Trung 1,tổ dân phố,trung_1,8,2026_07,primary,2026-07-01
+00611.009,00611,01,Trung 2,Tổ dân phố Trung 2,tổ dân phố,trung_2,9,2026_07,primary,2026-07-01
+00611.010,00611,01,Trung 3,Tổ dân phố Trung 3,tổ dân phố,trung_3,10,2026_07,primary,2026-07-01
+00611.011,00611,01,Xuân Tảo 1,Tổ dân phố Xuân Tảo 1,tổ dân phố,xuan_tao_1,11,2026_07,primary,2026-07-01
+00611.012,00611,01,Xuân Tảo 2,Tổ dân phố Xuân Tảo 2,tổ dân phố,xuan_tao_2,12,2026_07,primary,2026-07-01
+00611.013,00611,01,Xuân Tảo 3,Tổ dân phố Xuân Tảo 3,tổ dân phố,xuan_tao_3,13,2026_07,primary,2026-07-01
+00611.014,00611,01,Xuân Tảo 4,Tổ dân phố Xuân Tảo 4,tổ dân phố,xuan_tao_4,14,2026_07,primary,2026-07-01
+00611.015,00611,01,Xuân Tảo 5,Tổ dân phố Xuân Tảo 5,tổ dân phố,xuan_tao_5,15,2026_07,primary,2026-07-01
+00611.016,00611,01,Xuân Tảo 6,Tổ dân phố Xuân Tảo 6,tổ dân phố,xuan_tao_6,16,2026_07,primary,2026-07-01
+00611.017,00611,01,Xuân Tảo 7,Tổ dân phố Xuân Tảo 7,tổ dân phố,xuan_tao_7,17,2026_07,primary,2026-07-01
+00611.018,00611,01,Xuân Tảo 8,Tổ dân phố Xuân Tảo 8,tổ dân phố,xuan_tao_8,18,2026_07,primary,2026-07-01
+00611.019,00611,01,Xuân Tảo 9,Tổ dân phố Xuân Tảo 9,tổ dân phố,xuan_tao_9,19,2026_07,primary,2026-07-01
+00611.020,00611,01,Xuân La 1,Tổ dân phố Xuân La 1,tổ dân phố,xuan_la_1,20,2026_07,primary,2026-07-01
+00611.021,00611,01,Xuân La 2,Tổ dân phố Xuân La 2,tổ dân phố,xuan_la_2,21,2026_07,primary,2026-07-01
+00611.022,00611,01,Cổ Nhuế Hoàng,Tổ dân phố Cổ Nhuế Hoàng,tổ dân phố,co_nhue_hoang,22,2026_07,primary,2026-07-01
 00613.001,00613,01,Hạ 1,Tổ dân phố Hạ 1,tổ dân phố,ha_1,1,2026_07,unverified,2026-07-01
 00613.002,00613,01,Hạ 2,Tổ dân phố Hạ 2,tổ dân phố,ha_2,2,2026_07,unverified,2026-07-01
 00613.003,00613,01,Minh Khai,Tổ dân phố Minh Khai,tổ dân phố,minh_khai,3,2026_07,unverified,2026-07-01
@@ -4285,43 +4307,29 @@ tdp_code,ward_code,province_code,name,full_name,unit_type,code_name,seq,arrangem
 08773.019,08773,25,Mới,Thôn Mới,thôn,moi,19,truoc_2026_07,unverified,
 08773.020,08773,25,Yên Sơn,Thôn Yên Sơn,thôn,yen_son,20,truoc_2026_07,unverified,
 08773.021,08773,25,Yên Thiết,Thôn Yên Thiết,thôn,yen_thiet,21,truoc_2026_07,unverified,
-08782.001,08782,25,Anh Dũng,Thôn Anh Dũng,thôn,anh_dung,1,truoc_2026_07,unverified,
-08782.002,08782,25,Chiến Thắng,Thôn Chiến Thắng,thôn,chien_thang,2,truoc_2026_07,unverified,
-08782.003,08782,25,Dân Chủ,Thôn Dân Chủ,thôn,dan_chu,3,truoc_2026_07,unverified,
-08782.004,08782,25,Dừa Cả,Thôn Dừa Cả,thôn,dua_ca,4,truoc_2026_07,unverified,
-08782.005,08782,25,Đại Minh,Thôn Đại Minh,thôn,dai_minh,5,truoc_2026_07,unverified,
-08782.006,08782,25,Đại Nghĩa,Thôn Đại Nghĩa,thôn,dai_nghia,6,truoc_2026_07,unverified,
-08782.007,08782,25,Đôn Mục,Thôn Đôn Mục,thôn,don_muc,7,truoc_2026_07,unverified,
-08782.008,08782,25,Đồng Dừa,Thôn Đồng Dừa,thôn,dong_dua,8,truoc_2026_07,unverified,
-08782.009,08782,25,Đồng Tâm,Thôn Đồng Tâm,thôn,dong_tam,9,truoc_2026_07,unverified,
-08782.010,08782,25,Gò Dài,Thôn Gò Dài,thôn,go_dai,10,truoc_2026_07,unverified,
-08782.011,08782,25,Hạ,Thôn Hạ,thôn,ha,11,truoc_2026_07,unverified,
-08782.012,08782,25,Hòa Bình,Thôn Hòa Bình,thôn,hoa_binh,12,truoc_2026_07,unverified,
-08782.013,08782,25,Hồng Đường,Thôn Hồng Đường,thôn,hong_duong,13,truoc_2026_07,unverified,
-08782.014,08782,25,Hồng Sen,Thôn Hồng Sen,thôn,hong_sen,14,truoc_2026_07,unverified,
-08782.015,08782,25,Hồng Sinh,Thôn Hồng Sinh,thôn,hong_sinh,15,truoc_2026_07,unverified,
-08782.016,08782,25,Hùng Mạnh,Thôn Hùng Mạnh,thôn,hung_manh,16,truoc_2026_07,unverified,
-08782.017,08782,25,Khoan Bộ,Thôn Khoan Bộ,thôn,khoan_bo,17,truoc_2026_07,unverified,
-08782.018,08782,25,Len,Thôn Len,thôn,len,18,truoc_2026_07,unverified,
-08782.019,08782,25,Lê Lợi,Thôn Lê Lợi,thôn,le_loi,19,truoc_2026_07,unverified,
-08782.020,08782,25,Lê Xoay,Thôn Lê Xoay,thôn,le_xoay,20,truoc_2026_07,unverified,
-08782.021,08782,25,Liên Kết,Thôn Liên Kết,thôn,lien_ket,21,truoc_2026_07,unverified,
-08782.022,08782,25,Minh Tân,Thôn Minh Tân,thôn,minh_tan,22,truoc_2026_07,unverified,
-08782.023,08782,25,Ngạc Tân,Thôn Ngạc Tân,thôn,ngac_tan,23,truoc_2026_07,unverified,
-08782.024,08782,25,Ngạc Thị,Thôn Ngạc Thị,thôn,ngac_thi,24,truoc_2026_07,unverified,
-08782.025,08782,25,Quyết Tiến,Thôn Quyết Tiến,thôn,quyet_tien,25,truoc_2026_07,unverified,
-08782.026,08782,25,Tân Lập,Thôn Tân Lập,thôn,tan_lap,26,truoc_2026_07,unverified,
-08782.027,08782,25,Tân Tiến,Thôn Tân Tiến,thôn,tan_tien,27,truoc_2026_07,unverified,
-08782.028,08782,25,Thắng Lợi,Thôn Thắng Lợi,thôn,thang_loi,28,truoc_2026_07,unverified,
-08782.029,08782,25,Thống Nhất,Thôn Thống Nhất,thôn,thong_nhat,29,truoc_2026_07,unverified,
-08782.030,08782,25,Thượng,Thôn Thượng,thôn,thuong,30,truoc_2026_07,unverified,
-08782.031,08782,25,Tiến Bộ,Thôn Tiến Bộ,thôn,tien_bo,31,truoc_2026_07,unverified,
-08782.032,08782,25,Tiền Phong,Thôn Tiền Phong,thôn,tien_phong,32,truoc_2026_07,unverified,
-08782.033,08782,25,Trần Phú,Thôn Trần Phú,thôn,tran_phu,33,truoc_2026_07,unverified,
-08782.034,08782,25,Trung,Thôn Trung,thôn,trung,34,truoc_2026_07,unverified,
-08782.035,08782,25,Trung Hòa,Thôn Trung Hòa,thôn,trung_hoa,35,truoc_2026_07,unverified,
-08782.036,08782,25,Trung Kiên,Thôn Trung Kiên,thôn,trung_kien,36,truoc_2026_07,unverified,
-08782.037,08782,25,Làng,Thôn Làng,thôn,lang,37,truoc_2026_07,unverified,
+08782.001,08782,25,Hồng Đường,Thôn Hồng Đường,thôn,hong_duong,1,2026_07,primary,2026-07-01
+08782.002,08782,25,Anh Dũng,Thôn Anh Dũng,thôn,anh_dung,2,2026_07,primary,2026-07-01
+08782.003,08782,25,Hùng Mạnh,Thôn Hùng Mạnh,thôn,hung_manh,3,2026_07,primary,2026-07-01
+08782.004,08782,25,Đồng Dừa,Thôn Đồng Dừa,thôn,dong_dua,4,2026_07,primary,2026-07-01
+08782.005,08782,25,Đồng Tâm,Thôn Đồng Tâm,thôn,dong_tam,5,2026_07,primary,2026-07-01
+08782.006,08782,25,Thắng Lợi,Thôn Thắng Lợi,thôn,thang_loi,6,2026_07,primary,2026-07-01
+08782.007,08782,25,Thượng,Thôn Thượng,thôn,thuong,7,2026_07,primary,2026-07-01
+08782.008,08782,25,Hạ,Thôn Hạ,thôn,ha,8,2026_07,primary,2026-07-01
+08782.009,08782,25,Hoà Bình,Thôn Hoà Bình,thôn,hoa_binh,9,2026_07,primary,2026-07-01
+08782.010,08782,25,Phương Ngạc,Thôn Phương Ngạc,thôn,phuong_ngac,10,2026_07,primary,2026-07-01
+08782.011,08782,25,Đại Minh,Thôn Đại Minh,thôn,dai_minh,11,2026_07,primary,2026-07-01
+08782.012,08782,25,Quyết Tiến,Thôn Quyết Tiến,thôn,quyet_tien,12,2026_07,primary,2026-07-01
+08782.013,08782,25,Đại Nghĩa,Thôn Đại Nghĩa,thôn,dai_nghia,13,2026_07,primary,2026-07-01
+08782.014,08782,25,Minh Tân,Thôn Minh Tân,thôn,minh_tan,14,2026_07,primary,2026-07-01
+08782.015,08782,25,Len,Thôn Len,thôn,len,15,2026_07,primary,2026-07-01
+08782.016,08782,25,Dân Chủ,Thôn Dân Chủ,thôn,dan_chu,16,2026_07,primary,2026-07-01
+08782.017,08782,25,Trung Kiên,Thôn Trung Kiên,thôn,trung_kien,17,2026_07,primary,2026-07-01
+08782.018,08782,25,Khoan Bộ,Thôn Khoan Bộ,thôn,khoan_bo,18,2026_07,primary,2026-07-01
+08782.019,08782,25,Chiến Thắng,Thôn Chiến Thắng,thôn,chien_thang,19,2026_07,primary,2026-07-01
+08782.020,08782,25,Lê Lợi,Thôn Lê Lợi,thôn,le_loi,20,2026_07,primary,2026-07-01
+08782.021,08782,25,Tiền Phong,Thôn Tiền Phong,thôn,tien_phong,21,2026_07,primary,2026-07-01
+08782.022,08782,25,Liên Kết,Thôn Liên Kết,thôn,lien_ket,22,2026_07,primary,2026-07-01
+08782.023,08782,25,Đôn Mục,Thôn Đôn Mục,thôn,don_muc,23,2026_07,primary,2026-07-01
 08788.001,08788,25,Bắc Sơn,Thôn Bắc Sơn,thôn,bac_son,1,truoc_2026_07,unverified,
 08788.002,08788,25,Bình Chỉ,Thôn Bình Chỉ,thôn,binh_chi,2,truoc_2026_07,unverified,
 08788.003,08788,25,Bình Long,Thôn Bình Long,thôn,binh_long,3,truoc_2026_07,unverified,

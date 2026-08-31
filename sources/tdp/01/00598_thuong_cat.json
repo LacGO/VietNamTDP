@@ -1,0 +1,25 @@
+{
+  "ward_code": "00598",
+  "ward_name": "Thượng Cát",
+  "province_code": "01",
+  "resolution": "Nghị quyết số 26/NQ-HĐND ngày 25/6/2026 của HĐND phường Thượng Cát",
+  "arrangement": "2026_07",
+  "effective_date": "2026-07-01",
+  "verified": "pending",
+  "extraction": {
+    "source": "thuongcat.hanoi.gov.vn",
+    "url": "https://thuongcat.hanoi.gov.vn/chi-tiet-van-ban/tb-ve-viec-cong-bo-danh-sach-to-dan-pho-sau-sap-xep-comma-to-chuc-lai-tren-dia-ban-phuong-thuong-ca-264200",
+    "mode": "count-only"
+  },
+  "sources": [
+    {
+      "key": "portal-00598",
+      "title": "Thông báo 2736/TB-UBND công bố danh sách tổ dân phố sau sắp xếp — phường Thượng Cát",
+      "url": "https://thuongcat.hanoi.gov.vn/chi-tiet-van-ban/tb-ve-viec-cong-bo-danh-sach-to-dan-pho-sau-sap-xep-comma-to-chuc-lai-tren-dia-ban-phuong-thuong-ca-264200",
+      "date": "2026-07-01",
+      "type": "cong_ttdt"
+    }
+  ],
+  "note": "6 tổ dân phố sau sắp xếp 01/7/2026 (đã có nghị quyết); CHƯA công bố danh sách tên. Từ 18 TDP.",
+  "tdp": []
+}

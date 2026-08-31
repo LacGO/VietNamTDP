@@ -1,0 +1,114 @@
+{
+  "ward_code": "00611",
+  "ward_name": "Xuân Đỉnh",
+  "province_code": "01",
+  "resolution": "Nghị quyết số 16/NQ-HĐND ngày 30/6/2026 của HĐND phường Xuân Đỉnh",
+  "arrangement": "2026_07",
+  "effective_date": "2026-07-01",
+  "verified": "primary",
+  "extraction": {
+    "source": "xuandinh.hanoi.gov.vn",
+    "url": "https://xuandinh.hanoi.gov.vn/tin-tuc-su-kien/phuong-xuan-dinh-cong-bo-cac-quyet-dinh-ve-sap-xep-to-dan-pho-kien-toan-to-chuc-co-so-dang-va-giao-ban-cong-tac-quy-ii-nam-2026-2835260701082539596.htm",
+    "mode": "add_ward"
+  },
+  "sources": [
+    {
+      "key": "portal-00611",
+      "title": "Phường Xuân Đỉnh công bố Nghị quyết số 16/NQ-HĐND về sắp xếp, tổ chức lại tổ dân phố",
+      "url": "https://xuandinh.hanoi.gov.vn/tin-tuc-su-kien/phuong-xuan-dinh-cong-bo-cac-quyet-dinh-ve-sap-xep-to-dan-pho-kien-toan-to-chuc-co-so-dang-va-giao-ban-cong-tac-quy-ii-nam-2026-2835260701082539596.htm",
+      "date": "2026-06-30",
+      "type": "cong_ttdt"
+    }
+  ],
+  "note": "22 tổ dân phố sau sắp xếp 01/7/2026.",
+  "tdp": [
+    {
+      "name": "Xuân Trung",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Cáo Đỉnh 1",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Cáo Đỉnh 2",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Xuân Lộc 1",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Xuân Lộc 2",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Xuân Lộc 3",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Xuân Nhang",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Trung 1",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Trung 2",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Trung 3",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Xuân Tảo 1",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Xuân Tảo 2",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Xuân Tảo 3",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Xuân Tảo 4",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Xuân Tảo 5",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Xuân Tảo 6",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Xuân Tảo 7",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Xuân Tảo 8",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Xuân Tảo 9",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Xuân La 1",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Xuân La 2",
+      "type": "tổ dân phố"
+    },
+    {
+      "name": "Cổ Nhuế Hoàng",
+      "type": "tổ dân phố"
+    }
+  ]
+}

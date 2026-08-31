@@ -2,66 +2,36 @@
   "ward_code": "08782",
   "ward_name": "Hải Lựu",
   "province_code": "25",
-  "resolution": "",
-  "arrangement": "truoc_2026_07",
-  "effective_date": "",
-  "verified": "unverified",
+  "resolution": "Nghị quyết số 13/NQ-HĐND HĐND cấp xã",
+  "arrangement": "2026_07",
+  "effective_date": "2026-07-01",
+  "verified": "primary",
   "extraction": {
-    "source": "vi.wikipedia.org",
-    "title": "Hải Lựu",
-    "mode": "narrative!old"
+    "source": "hailuu.phutho.gov.vn",
+    "url": "https://hailuu.phutho.gov.vn/images/TB_tên_gọi_các_thôn_sau_sắp_xếp_đổi_tên.signed.signed.pdf",
+    "mode": "portal-pdf"
   },
   "sources": [
     {
-      "key": "wiki-08782-1",
-      "title": "Ủy ban nhân dân xã Hải Lựu thông báo về thời gian, địa điểm bỏ phiếu bầu cử đại biểu Quốc hội khóa XVI và Hội đồng nhân dân các cấp nhiệm kỳ 2026 - 2031",
-      "url": "https://hailuu.phutho.gov.vn/index.php/tha-ng-tin-tuya-n-truya-n/3599-uy-ban-nhan-dan-xa-hai-luu-thong-bao-ve-thoi-gian-dia-diem-bo-phieu-bau-cu-dai-bieu-quoc-hoi-khoa-xvi-va-hoi-dong-nhan-dan-cac-cap-nhiem-ky-2026-2031",
-      "date": "2026-03-11",
-      "type": "wikipedia-ref"
-    },
-    {
-      "key": "wiki-08782-2",
-      "title": "Danh sách Thôn vùng đồng bào dân tộc thiểu số và miền núi, thôn đặc biệt khó khăn giai đoạn 2026 - 2030 trên địa bàn tỉnh Phú Thọ",
-      "url": "http://files.ubdt.gov.vn/files/ecm/source_files/2026/02/05/11252411_4.%20Ph%C3%BA%20Th%E1%BB%8D%201%20(th%C3%B4n).signed_26-02-05.pdf",
-      "date": "2026-01-29",
-      "type": "wikipedia-ref"
-    },
-    {
-      "key": "wiki-08782-3",
-      "title": "Nghị quyết số 1287/NQ-UBTVQH15 của UBTVQH Về việc sắp xếp đơn vị hành chính cấp xã của tỉnh Vĩnh Phúc giai đoạn 2023 – 2025",
-      "url": "https://quochoi.vn/tintuc/Pages/tin-hoat-dong-cua-quoc-hoi.aspx?ItemID=91157",
-      "date": "",
-      "type": "wikipedia-ref"
+      "key": "portal-08782",
+      "title": "THÔNG BÁO Tên gọi các thôn thuộc xã Hải Lựu, tỉnh Phú Thọ sau sắp xếp, sáp nhập và đổi tên thôn dân cư trên địa bàn xã",
+      "url": "https://hailuu.phutho.gov.vn/images/TB_tên_gọi_các_thôn_sau_sắp_xếp_đổi_tên.signed.signed.pdf",
+      "date": "2026",
+      "type": "cong_ttdt"
     }
   ],
-  "note": "Trích tự động từ Wikipedia tiếng Việt (mode=narrative!old). Cần đối chiếu nghị quyết HĐND phường/xã. ⚠️ Danh mục có thể là hiện trạng TRƯỚC sắp xếp thôn/TDP 01/7/2026 — Wikipedia chưa cập nhật nghị quyết mới.",
+  "note": "Trích từ cổng TTĐT phường/xã (nghị quyết/thông báo HĐND cấp xã).",
   "tdp": [
+    {
+      "name": "Hồng Đường",
+      "type": "thôn"
+    },
     {
       "name": "Anh Dũng",
       "type": "thôn"
     },
     {
-      "name": "Chiến Thắng",
-      "type": "thôn"
-    },
-    {
-      "name": "Dân Chủ",
-      "type": "thôn"
-    },
-    {
-      "name": "Dừa Cả",
-      "type": "thôn"
-    },
-    {
-      "name": "Đại Minh",
-      "type": "thôn"
-    },
-    {
-      "name": "Đại Nghĩa",
-      "type": "thôn"
-    },
-    {
-      "name": "Đôn Mục",
+      "name": "Hùng Mạnh",
       "type": "thôn"
     },
     {
@@ -73,83 +43,7 @@
       "type": "thôn"
     },
     {
-      "name": "Gò Dài",
-      "type": "thôn"
-    },
-    {
-      "name": "Hạ",
-      "type": "thôn"
-    },
-    {
-      "name": "Hòa Bình",
-      "type": "thôn"
-    },
-    {
-      "name": "Hồng Đường",
-      "type": "thôn"
-    },
-    {
-      "name": "Hồng Sen",
-      "type": "thôn"
-    },
-    {
-      "name": "Hồng Sinh",
-      "type": "thôn"
-    },
-    {
-      "name": "Hùng Mạnh",
-      "type": "thôn"
-    },
-    {
-      "name": "Khoan Bộ",
-      "type": "thôn"
-    },
-    {
-      "name": "Làng Len",
-      "type": "thôn"
-    },
-    {
-      "name": "Lê Lợi",
-      "type": "thôn"
-    },
-    {
-      "name": "Lê Xoay",
-      "type": "thôn"
-    },
-    {
-      "name": "Liên Kết",
-      "type": "thôn"
-    },
-    {
-      "name": "Minh Tân",
-      "type": "thôn"
-    },
-    {
-      "name": "Ngạc Tân",
-      "type": "thôn"
-    },
-    {
-      "name": "Ngạc Thị",
-      "type": "thôn"
-    },
-    {
-      "name": "Quyết Tiến",
-      "type": "thôn"
-    },
-    {
-      "name": "Tân Lập",
-      "type": "thôn"
-    },
-    {
-      "name": "Tân Tiến",
-      "type": "thôn"
-    },
-    {
       "name": "Thắng Lợi",
-      "type": "thôn"
-    },
-    {
-      "name": "Thống Nhất",
       "type": "thôn"
     },
     {
@@ -157,23 +51,39 @@
       "type": "thôn"
     },
     {
-      "name": "Tiến Bộ",
+      "name": "Hạ",
       "type": "thôn"
     },
     {
-      "name": "Tiền Phong",
+      "name": "Hoà Bình",
       "type": "thôn"
     },
     {
-      "name": "Trần Phú",
+      "name": "Phương Ngạc",
       "type": "thôn"
     },
     {
-      "name": "Trung",
+      "name": "Đại Minh",
       "type": "thôn"
     },
     {
-      "name": "Trung Hòa",
+      "name": "Quyết Tiến",
+      "type": "thôn"
+    },
+    {
+      "name": "Đại Nghĩa",
+      "type": "thôn"
+    },
+    {
+      "name": "Minh Tân",
+      "type": "thôn"
+    },
+    {
+      "name": "Làng Len",
+      "type": "thôn"
+    },
+    {
+      "name": "Dân Chủ",
       "type": "thôn"
     },
     {
@@ -181,7 +91,27 @@
       "type": "thôn"
     },
     {
-      "name": "Xóm Làng",
+      "name": "Khoan Bộ",
+      "type": "thôn"
+    },
+    {
+      "name": "Chiến Thắng",
+      "type": "thôn"
+    },
+    {
+      "name": "Lê Lợi",
+      "type": "thôn"
+    },
+    {
+      "name": "Tiền Phong",
+      "type": "thôn"
+    },
+    {
+      "name": "Liên Kết",
+      "type": "thôn"
+    },
+    {
+      "name": "Đôn Mục",
       "type": "thôn"
     }
   ]

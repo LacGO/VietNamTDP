@@ -14895,187 +14895,117 @@
       "tdp": [
         {
           "tdp_code": "08782.001",
-          "name": "Anh Dũng",
-          "unit_type": "thôn"
-        },
-        {
-          "tdp_code": "08782.002",
-          "name": "Chiến Thắng",
-          "unit_type": "thôn"
-        },
-        {
-          "tdp_code": "08782.003",
-          "name": "Dân Chủ",
-          "unit_type": "thôn"
-        },
-        {
-          "tdp_code": "08782.004",
-          "name": "Dừa Cả",
-          "unit_type": "thôn"
-        },
-        {
-          "tdp_code": "08782.005",
-          "name": "Đại Minh",
-          "unit_type": "thôn"
-        },
-        {
-          "tdp_code": "08782.006",
-          "name": "Đại Nghĩa",
-          "unit_type": "thôn"
-        },
-        {
-          "tdp_code": "08782.007",
-          "name": "Đôn Mục",
-          "unit_type": "thôn"
-        },
-        {
-          "tdp_code": "08782.008",
-          "name": "Đồng Dừa",
-          "unit_type": "thôn"
-        },
-        {
-          "tdp_code": "08782.009",
-          "name": "Đồng Tâm",
-          "unit_type": "thôn"
-        },
-        {
-          "tdp_code": "08782.010",
-          "name": "Gò Dài",
-          "unit_type": "thôn"
-        },
-        {
-          "tdp_code": "08782.011",
-          "name": "Hạ",
-          "unit_type": "thôn"
-        },
-        {
-          "tdp_code": "08782.012",
-          "name": "Hòa Bình",
-          "unit_type": "thôn"
-        },
-        {
-          "tdp_code": "08782.013",
           "name": "Hồng Đường",
           "unit_type": "thôn"
         },
         {
-          "tdp_code": "08782.014",
-          "name": "Hồng Sen",
+          "tdp_code": "08782.002",
+          "name": "Anh Dũng",
           "unit_type": "thôn"
         },
         {
-          "tdp_code": "08782.015",
-          "name": "Hồng Sinh",
-          "unit_type": "thôn"
-        },
-        {
-          "tdp_code": "08782.016",
+          "tdp_code": "08782.003",
           "name": "Hùng Mạnh",
           "unit_type": "thôn"
         },
         {
-          "tdp_code": "08782.017",
-          "name": "Khoan Bộ",
+          "tdp_code": "08782.004",
+          "name": "Đồng Dừa",
           "unit_type": "thôn"
         },
         {
-          "tdp_code": "08782.018",
-          "name": "Len",
+          "tdp_code": "08782.005",
+          "name": "Đồng Tâm",
           "unit_type": "thôn"
         },
         {
-          "tdp_code": "08782.019",
-          "name": "Lê Lợi",
-          "unit_type": "thôn"
-        },
-        {
-          "tdp_code": "08782.020",
-          "name": "Lê Xoay",
-          "unit_type": "thôn"
-        },
-        {
-          "tdp_code": "08782.021",
-          "name": "Liên Kết",
-          "unit_type": "thôn"
-        },
-        {
-          "tdp_code": "08782.022",
-          "name": "Minh Tân",
-          "unit_type": "thôn"
-        },
-        {
-          "tdp_code": "08782.023",
-          "name": "Ngạc Tân",
-          "unit_type": "thôn"
-        },
-        {
-          "tdp_code": "08782.024",
-          "name": "Ngạc Thị",
-          "unit_type": "thôn"
-        },
-        {
-          "tdp_code": "08782.025",
-          "name": "Quyết Tiến",
-          "unit_type": "thôn"
-        },
-        {
-          "tdp_code": "08782.026",
-          "name": "Tân Lập",
-          "unit_type": "thôn"
-        },
-        {
-          "tdp_code": "08782.027",
-          "name": "Tân Tiến",
-          "unit_type": "thôn"
-        },
-        {
-          "tdp_code": "08782.028",
+          "tdp_code": "08782.006",
           "name": "Thắng Lợi",
           "unit_type": "thôn"
         },
         {
-          "tdp_code": "08782.029",
-          "name": "Thống Nhất",
-          "unit_type": "thôn"
-        },
-        {
-          "tdp_code": "08782.030",
+          "tdp_code": "08782.007",
           "name": "Thượng",
           "unit_type": "thôn"
         },
         {
-          "tdp_code": "08782.031",
-          "name": "Tiến Bộ",
+          "tdp_code": "08782.008",
+          "name": "Hạ",
           "unit_type": "thôn"
         },
         {
-          "tdp_code": "08782.032",
-          "name": "Tiền Phong",
+          "tdp_code": "08782.009",
+          "name": "Hoà Bình",
           "unit_type": "thôn"
         },
         {
-          "tdp_code": "08782.033",
-          "name": "Trần Phú",
+          "tdp_code": "08782.010",
+          "name": "Phương Ngạc",
           "unit_type": "thôn"
         },
         {
-          "tdp_code": "08782.034",
-          "name": "Trung",
+          "tdp_code": "08782.011",
+          "name": "Đại Minh",
           "unit_type": "thôn"
         },
         {
-          "tdp_code": "08782.035",
-          "name": "Trung Hòa",
+          "tdp_code": "08782.012",
+          "name": "Quyết Tiến",
           "unit_type": "thôn"
         },
         {
-          "tdp_code": "08782.036",
+          "tdp_code": "08782.013",
+          "name": "Đại Nghĩa",
+          "unit_type": "thôn"
+        },
+        {
+          "tdp_code": "08782.014",
+          "name": "Minh Tân",
+          "unit_type": "thôn"
+        },
+        {
+          "tdp_code": "08782.015",
+          "name": "Len",
+          "unit_type": "thôn"
+        },
+        {
+          "tdp_code": "08782.016",
+          "name": "Dân Chủ",
+          "unit_type": "thôn"
+        },
+        {
+          "tdp_code": "08782.017",
           "name": "Trung Kiên",
           "unit_type": "thôn"
         },
         {
-          "tdp_code": "08782.037",
-          "name": "Làng",
+          "tdp_code": "08782.018",
+          "name": "Khoan Bộ",
+          "unit_type": "thôn"
+        },
+        {
+          "tdp_code": "08782.019",
+          "name": "Chiến Thắng",
+          "unit_type": "thôn"
+        },
+        {
+          "tdp_code": "08782.020",
+          "name": "Lê Lợi",
+          "unit_type": "thôn"
+        },
+        {
+          "tdp_code": "08782.021",
+          "name": "Tiền Phong",
+          "unit_type": "thôn"
+        },
+        {
+          "tdp_code": "08782.022",
+          "name": "Liên Kết",
+          "unit_type": "thôn"
+        },
+        {
+          "tdp_code": "08782.023",
+          "name": "Đôn Mục",
           "unit_type": "thôn"
         }
       ]

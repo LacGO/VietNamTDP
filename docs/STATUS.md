@@ -1,14 +1,14 @@
 # Tình trạng thu thập dữ liệu Tổ dân phố / Thôn
 
-_Cập nhật: 2026-08-30 — sinh tự động bằng `scripts/gen_status.py`._
+_Cập nhật: 2026-08-31 — sinh tự động bằng `scripts/gen_status.py`._
 
 Mức xác minh: `primary` = trích từ nghị quyết HĐND cấp xã / công báo tỉnh · `partial` = báo chí / Wikipedia dẫn nguồn · `unverified` = cần đối chiếu · `pending` = chưa có dữ liệu.
 
 ## Thành phố Hà Nội (`01`)
 
 - Phường/xã: **126**
-- Có dữ liệu TDP: **119/126** (94%) — 2613 đơn vị
-- **Đúng mốc 01/7/2026**: **114/126** phường/xã — 2477 TDP
+- Có dữ liệu TDP: **122/126** (96%) — 2635 đơn vị
+- **Đúng mốc 01/7/2026**: **117/126** phường/xã — 2499 TDP
 
 | Mã | Phường/Xã | Loại | Số TDP | Mốc | Xác minh | Nguồn |
 |----|-----------|------|-------:|-----|----------|-------|
@@ -60,9 +60,9 @@ Mức xác minh: `primary` = trích từ nghị quyết HĐND cấp xã / công 
 | 00565 | Gia Lâm | Xã | 27 | ✅ 01/7/2026 | unverified | wiki-00565-1;wiki-00565-2;wiki-00565-3 |
 | 00577 | Bát Tràng | Xã | 12 | ✅ 01/7/2026 | unverified | wiki-00577-1;wiki-00577-2;wiki-00577-3 |
 | 00592 | Từ Liêm | Phường | 39 | ✅ 01/7/2026 | unverified | Dự thảo Đề án sắp xếp tổ dân phố phường Từ Liêm (hội nghị 12/6/2026);  |
-| 00598 | Thượng Cát | Phường | — | — | pending | |
-| 00602 | Đông Ngạc | Phường | — | — | pending | |
-| 00611 | Xuân Đỉnh | Phường | — | — | pending | |
+| 00598 | Thượng Cát | Phường | 0 | ✅ 01/7/2026 | pending | Nghị quyết số 26/NQ-HĐND ngày 25/6/2026 của HĐND phường Thượng Cát |
+| 00602 | Đông Ngạc | Phường | 0 | ✅ 01/7/2026 | pending | Nghị quyết HĐND phường Đông Ngạc về sắp xếp, tổ chức lại tổ dân phố (2 |
+| 00611 | Xuân Đỉnh | Phường | 22 | ✅ 01/7/2026 | primary | Nghị quyết số 16/NQ-HĐND ngày 30/6/2026 của HĐND phường Xuân Đỉnh |
 | 00613 | Tây Tựu | Phường | 14 | ✅ 01/7/2026 | unverified | wiki-00613-1;wiki-00613-2;wiki-00613-3 |
 | 00619 | Phú Diễn | Phường | — | — | pending | |
 | 00622 | Xuân Phương | Phường | 20 | ✅ 01/7/2026 | unverified | wiki-00622-1;wiki-00622-2;wiki-00622-3 |
@@ -142,8 +142,8 @@ Mức xác minh: `primary` = trích từ nghị quyết HĐND cấp xã / công 
 ## Tỉnh Phú Thọ (`25`)
 
 - Phường/xã: **148**
-- Có dữ liệu TDP: **139/148** (93%) — 3607 đơn vị
-- **Đúng mốc 01/7/2026**: **19/148** phường/xã — 446 TDP
+- Có dữ liệu TDP: **139/148** (93%) — 3593 đơn vị
+- **Đúng mốc 01/7/2026**: **20/148** phường/xã — 469 TDP
 
 | Mã | Phường/Xã | Loại | Số TDP | Mốc | Xác minh | Nguồn |
 |----|-----------|------|-------:|-----|----------|-------|
@@ -266,7 +266,7 @@ Mức xác minh: `primary` = trích từ nghị quyết HĐND cấp xã / công 
 | 08761 | Lập Thạch | Xã | 45 | ⚠️ trước 01/7/2026 | unverified | wiki-08761-1;wiki-08761-2;wiki-08761-3 |
 | 08770 | Hợp Lý | Xã | 28 | ⚠️ trước 01/7/2026 | unverified | wiki-08770-1;wiki-08770-2;wiki-08770-3 |
 | 08773 | Yên Lãng | Xã | 21 | ⚠️ trước 01/7/2026 | unverified | wiki-08773-1;wiki-08773-2;wiki-08773-3 |
-| 08782 | Hải Lựu | Xã | 37 | ⚠️ trước 01/7/2026 | unverified | wiki-08782-1;wiki-08782-2;wiki-08782-3 |
+| 08782 | Hải Lựu | Xã | 23 | ✅ 01/7/2026 | primary | Nghị quyết số 13/NQ-HĐND HĐND cấp xã |
 | 08788 | Thái Hoà | Xã | 29 | ⚠️ trước 01/7/2026 | unverified | wiki-08788-1;wiki-08788-2;wiki-08788-3 |
 | 08812 | Liên Hoà | Xã | 21 | ⚠️ trước 01/7/2026 | unverified | wiki-08812-1;wiki-08812-2;wiki-08812-3 |
 | 08824 | Tam Sơn | Xã | 29 | ⚠️ trước 01/7/2026 | unverified | wiki-08824-1;wiki-08824-2;wiki-08824-3 |

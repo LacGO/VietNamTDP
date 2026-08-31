@@ -1,0 +1,25 @@
+{
+  "ward_code": "00602",
+  "ward_name": "Đông Ngạc",
+  "province_code": "01",
+  "resolution": "Nghị quyết HĐND phường Đông Ngạc về sắp xếp, tổ chức lại tổ dân phố (2026)",
+  "arrangement": "2026_07",
+  "effective_date": "2026-07-01",
+  "verified": "pending",
+  "extraction": {
+    "source": "dongngac.hanoi.gov.vn",
+    "url": "https://dongngac.hanoi.gov.vn/thong-tin-cong-khai/suc-bat-moi-tu-nhung-to-dan-pho-sau-sap-xep-2807260721163641348.htm",
+    "mode": "count-only"
+  },
+  "sources": [
+    {
+      "key": "portal-00602",
+      "title": "Sức bật mới từ những tổ dân phố sau sắp xếp — phường Đông Ngạc",
+      "url": "https://dongngac.hanoi.gov.vn/thong-tin-cong-khai/suc-bat-moi-tu-nhung-to-dan-pho-sau-sap-xep-2807260721163641348.htm",
+      "date": "2026-07-18",
+      "type": "cong_ttdt"
+    }
+  ],
+  "note": "23 tổ dân phố sau sắp xếp 01/7/2026 (từ 54); CHƯA công bố danh sách tên.",
+  "tdp": []
+}
